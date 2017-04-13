@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2016-12-17"
+last_updated: "2017-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -1549,15 +1549,19 @@ VII. Cumplir con las disposiciones jurídicas y administrativas aplicables en ma
 
 VIII. Hacer que los operadores de sus vehículos cuenten y porten la licencia vigente para la modalidad de que se trate, la tarjeta de circulación y la tarjeta de identificación respectiva, debiendo exhibir ésta última a la vista de los usuarios;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2017)</small>
 
-IX. Los concesionarios o permisionarios de servicio público de transporte, están obligados a responder de los daños y perjuicios que con motivo de la prestación del servicio causen a usuarios, peatones, conductores de otros vehículos y demás terceros, tanto en su persona como en su patrimonio. Para tal efecto, deberán contratar y mantener vigente un seguro en los términos de la ley de la materia, con una cobertura para responsabilidad civil o seguro de viajero de un importe de al menos cuarenta mil días de salario mínimo vigente en la Capital del Estado; en el caso de personas morales titulares de concesión o permiso de servicio público de transporte de forma individual o asociada, la Secretaría podrá autorizar la constitución de un fondo de garantía sujeto al cumplimiento de los requisitos, modalidades y disposiciones que ésta determine, en apego a lo establecido por la presente Ley y su Reglamento con las siguientes salvedades:
+IX. Los concesionarios o permisionarios de servicio público de transporte, están obligados a responder de los daños y perjuicios que con motivo de la prestación del servicio causen a usuarios, peatones, conductores de otros vehículos y demás terceros, tanto en su persona como en su patrimonio. Para tal efecto, deberán contratar y mantener vigente un seguro en los términos de la ley de la materia, con una cobertura para responsabilidad civil o seguro de viajero de un importe de al menos cuarenta mil días de la unidad de medida y actualización vigente; en el caso de personas morales titulares de concesión o permiso de servicio público de transporte de forma individual o asociada, la Secretaría podrá autorizar la constitución de un fondo de garantía sujeto al cumplimiento de los requisitos, modalidades y disposiciones que ésta determine, en apego a lo establecido por la presente Ley y su Reglamento con las siguientes salvedades:
 
 a) La persona moral deberá explotar la concesión o permiso con un mínimo de setenta y cinco vehículos afectos a la concesión de que se trate.
 
-b) El fondo de garantía deberá contar en todo momento con un capital líquido mínimo por el equivalente de sesenta mil salarios mínimos vigentes en la Capital del Estado, de lo contrario se tendrá por no constituido.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-c) El fondo deberá estar depositado en una institución bancaria, debiendo remitir su titular a la Secretaría, mensualmente, el estado de cuenta correspondiente, en el que se deberá consignar los depósitos y retiros; debiendo conservar en todo momento el importe de sesenta mil salarios mínimos vigentes en la Capital del Estado;
+b) El fondo de garantía deberá contar en todo momento con un capital líquido mínimo por el equivalente de sesenta mil unidades de medida y actualización vigente, de lo contrario se tendrá por no constituido.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+c) El fondo deberá estar depositado en una institución bancaria, debiendo remitir su titular a la Secretaría, mensualmente, el estado de cuenta correspondiente, en el que se deberá consignar los depósitos y retiros; debiendo conservar en todo momento el importe de sesenta mil unidades de medida y actualización vigente;
 
 X. Mantener actualizados sus registros ante la Secretaría, respecto a su representatividad y personalidad jurídica, parque vehicular existente y en operación, conductores y demás datos relacionados con la concesión o permiso otorgados;
 
@@ -2219,107 +2223,203 @@ La aplicación de multas por incumplimiento de las obligaciones de los, concesio
 
 I. De las sanciones al incumplimiento de las obligaciones de los operadores:
 
-a) Por efectuar ascenso y descenso de pasaje fuera de los lugares autorizados, multa de cinco a veinte salarios mínimos vigentes en la zona, siempre y cuando esto no ponga en riesgo la seguridad de usuarios y terceros, de ser así, se aplicará el inciso d) de este mismo artículo.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-b) Por prestar servicio con mala presentación personal, desaseado y, en su caso, sin el uniforme requerido, multa de tres a veinte salarios mínimos vigentes en la zona.
+a) Por efectuar ascenso y descenso de pasaje fuera de los lugares autorizados, multa de cinco a veinte unidades de medida y actualización vigente, siempre y cuando ésto no ponga en riesgo la seguridad de usuarios y terceros, de ser así, se aplicará el inciso d) de este mismo artículo.
 
-c) Por tratar en forma irrespetuosa a usuarios y terceros durante la prestación del servicio, multa de cinco a treinta salarios mínimos vigentes en la zona.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-d) Por poner en riesgo la seguridad de los usuarios y terceros al operar las unidades con falta de precaución, multa de veintiuno a cien salarios mínimos vigentes en la zona.
+b) Por prestar servicio con mala presentación personal, desaseado y, en su caso, sin el uniforme requerido, multa de tres a veinte unidades de medida y actualización vigente.
 
-e) Por no portar la licencia para conducir vehículos de servicio público, y el gafete de identificación a la vista del usuario, multa de cinco a treinta salarios mínimos vigentes en la zona.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-f) Por conducir un vehículo de servicio público sin contar con la licencia respectiva, o ésta sea insuficiente para la modalidad, multa de veinte a cincuenta salarios mínimos.
+c) Por tratar en forma irrespetuosa a usuarios y terceros durante la prestación del servicio, multa de cinco a treinta unidades de medida y actualización vigente.
 
-g) Por no presentarse a acreditar los exámenes que para verificar su aptitud y sus capacidades psicofísicas determine la Secretaría, multa de tres a veinte salarios mínimos vigentes en la zona.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-h) Por conducir vehículos de servicio público en ostensible mal estado de salud, multa de tres a veinte salarios mínimos.
+d) Por poner en riesgo la seguridad de los usuarios y terceros al operar las unidades con falta de precaución, multa de veintiuno a cien unidades de medida y actualización vigente.
 
-i) Por no respetar el trato preferencial en la prestación del servicio a los adultos mayores, niños, personas con discapacidad, y mujeres embarazadas, multa de cinco a veinte salarios mínimos vigentes en la zona.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-j) Por no cumplir y aprobar la capacitación que determine la Secretaría, multa de cinco a veinte salarios mínimos vigentes en la zona.
+e) Por no portar la licencia para conducir vehículos del servicio público, y el gafete de identificación a la vista del usuario, multa de cinco a treinta unidades de medida y actualización vigente.
 
-k) Por no acatar las indicaciones de las autoridades en materia de transporte, o bien por agredirlos física o verbalmente durante las diligencias de inspección, sin menoscabo de la responsabilidad penal que, en su caso, resulte, multa de cinco a veinte salarios mínimos vigentes en la zona.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-l) Por utilizar o colocar en la unidad accesorios no indispensables para la prestación del servicio, o que produzcan ruido y molesten, o pongan en riesgo la seguridad de usuarios y terceros, multa de cinco a veinte salarios mínimos vigentes en la zona.
+f) Por conducir un vehículo de servicio público sin contar con la licencia respectiva, o ésta sea insuficiente para la modalidad, multa de veinte a cincuenta unidades de medida y actualización vigente.
 
-m) Por circular con la o las puertas abiertas, o con pasaje en los estribos, multa de veinte a cincuenta salarios mínimos vigentes en la zona.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-n) Por exceder el número de pasajeros autorizados para cada vehículo en su tarjeta de circulación y/o modalidad de servicio, multa de cinco a veinte salarios mínimos vigentes en la zona.
+g) Por no presentarse a acreditar los exámenes que para verificar su aptitud y sus capacidades psicofísicas determine la Secretaría, multa de tres a veinte unidades de medida y actualización vigente.
 
-ñ) Por alterar las tarifas o sus reglas de aplicación, multa de cinco a cincuenta salarios mínimos vigentes en la zona. Cuando este hecho sea instruido o con conocimiento del titular de la concesión o permiso, será causal de revocación de los mismos.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-o) Por conducir un vehículo del servicio del transporte público sin haber aprobado los exámenes previstos en la presente Ley y su reglamento, multa de cinco a cincuenta salarios mínimos vigentes en la zona.
+h) Por conducir vehículos de servicio público en ostensible mal estado de salud, multa de tres a veinte unidades de medida y actualización vigente.
 
-p) Por la conducción de vehículos de transporte público, dentro o fuera del servicio, bajo la influencia de bebidas alcohólicas, enervantes o demás sustancias tóxicas, multa de cien a doscientos salarios mínimos vigentes en la zona; esto sin perjuicio de las demás sanciones que establezca esta Ley y demás ordenamientos jurídicos aplicables.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-q) Por abastecer de combustible a los vehículos del servicio de transporte público con pasaje a bordo de los mismos, multa de cinco a cincuenta salarios mínimos vigentes en la zona.
+i) Por no respetar el trato preferencial en la prestación del servicio a los adultos mayores, niños, personas con discapacidad, y mujeres embarazadas, multa de cinco a veinte unidades de medida y actualización vigente.
 
-r) Por negar, sin causa justificada, el servicio público de transporte, multa de cinco a treinta salarios mínimos; para el caso de que se obstaculice, impida o niegue el servicio a adultos mayores, niños, personas con discapacidad, y mujeres embarazadas, la multa será de diez a cincuenta salarios mínimos.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+j) Por no cumplir y aprobar la capacitación que determine la Secretaría, multa de cinco a veinte unidades de medida y actualización vigente.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+k) Por no acatar las indicaciones de las autoridades en materia de transporte, o bien por agredirlos física o verbalmente durante las diligencias de inspección, sin menoscabo de la responsabilidad penal que, en su caso, resulte, multa de cinco a veinte unidades de medida y actualización vigente.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+l) Por utilizar o colocar en la unidad accesorios no indispensables para la prestación del servicio, o que produzcan ruido y molesten, o pongan en riesgo la seguridad de usuarios y terceros, multa de cinco a veinte unidades de medida y actualización vigente.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+m) Por circular con la o las puertas abiertas, o con pasaje en los estribos, multa de veinte a cincuenta unidades de medida y actualización vigente.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+n) Por exceder el número de pasajeros autorizados para cada vehículo en su tarjeta de circulación y/o modalidad de servicio, multa de cinco a veinte unidades de medida y actualización vigente.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+ñ) Por alterar las tarifas o sus reglas de aplicación, multa de cinco a cincuenta unidades de medida y actualización vigente. Cuando este hecho sea instruido o con conocimiento del titular de la concesión o permiso, será causal de revocación de los mismos.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+o) Por conducir un vehículo del servicio del transporte público sin haber aprobado los exámenes previstos en la presente Ley y su reglamento, multa de cinco a cincuenta unidades de medida y actualización vigente.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+p) Por la conducción de vehículos de transporte público, dentro o fuera del servicio, bajo la influencia de bebidas alcohólicas, enervantes o demás sustancias tóxicas, multa de cien a doscientos (sic) unidades de medida y actualización vigente; esto sin perjuicio de las demás sanciones que establezca esta Ley y demás ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+q) Por abastecer de combustible a los vehículos del servicio de transporte público con pasaje a bordo de los mismos, multa de cinco a cincuenta unidades de medida y actualización vigente.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+r) Por negar, sin causa justificada, el servicio público de transporte, multa de cinco a treinta unidades de medida y actualización; para el caso de que se obstaculice, impida o niegue el servicio a adultos mayores, niños, personas con discapacidad y mujeres embarazadas, la multa será de diez a cincuenta unidades de medida y actualización vigente.
 
 s) El conductor de los vehículos de transporte público de pasajeros que fume durante la prestación del servicio en el mismo, será sancionado en los términos que dispone la Ley de Protección a la Salud de las Personas no Fumadoras.
 
-t) Por llevar acompañantes a bordo del vehículo de servicio público cuando éste se encuentre en la prestación del mismo, multa de cinco a veinte salarios mínimos.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-u) Por permitir o inducir el ascenso de usuarios por la puerta trasera, en el caso de vehículos del servicio de transporte público colectivo urbano, multa de cinco a treinta salarios mínimos.
+t) Por llevar acompañantes a bordo del vehículo de servicio público cuando éste se encuentre en la prestación del mismo, multa de cinco a veinte unidades de medida y actualización vigente.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+u) Por permitir o inducir el ascenso de usuarios por la puerta trasera en el caso de vehículos del servicio de transporte público colectivo urbano, multa de cinco a treinta unidades de medida y actualización vigente.
 
 v) Por utilizar teléfonos celulares, o exceder la velocidad permitida, o no acatar las disposiciones de tránsito y vialidad, será sancionado en los términos que establece el inciso d) fracción I del presente artículo.
 
-w) Por no respetar los itinerarios autorizados; o establecer terminal en lugar no autorizado, o no resguardar los vehículos en patios de pernocta o encierro, para las modalidades de transporte público colectivo urbano, suburbano, foráneo, mixto, y colectivo de ruta rural, multa de cinco a treinta salarios mínimos.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-x) Por utilizar el vehículo de servicio público para otros usos diferentes a la prestación del servicio, multa de cinco a treinta salarios mínimos.
+w) Por no respetar los itinerarios autorizados; o establecer terminal en lugar no autorizado, o no resguardar los vehículos en patios de pernocta o encierro, para las modalidades de transporte público colectivo urbano, suburbano, foráneo, mixto, y colectivo de ruta rural, multa de cinco a treinta unidades de medida y actualización vigente.
 
-y) Por la falta de cumplimiento de las demás obligaciones establecidas en los artículos 82 y 83 de la presente Ley, y 50 de su reglamento, multa de cinco a treinta salarios mínimos, y
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+x) Por utilizar el vehículo de servicio público para otros usos diferentes a la prestación del servicio, multa de cinco a treinta unidades de medida y actualización vigente.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+y) Por la falta de cumplimiento de las demás obligaciones establecidas en los artículos 82 y 83 de la presente Ley, y 50 de su reglamento, multa de cinco a treinta unidades de medida y actualización vigente, y
 
 II. De las sanciones al incumplimiento de las obligaciones, de los titulares de concesiones, permisos o autorizaciones:
 
-a) Por ordenar al operador del vehículo prestar el servicio en modalidad distinta a la autorizada, multa de cien a quinientos salarios mínimos, y se revocará la concesión, permiso o autorización.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-b) Por no contar con lugares de encierro para los vehículos del servicio de transporte público cuando así lo determine la Secretaría y se utilice la vía pública para este fin, multa de cien a trescientos salarios mínimos.
+a) Por ordenar al operador del vehículo prestar el servicio en modalidad distinta a la autorizada, multa de cien a quinientos (sic) unidades de medida y actualización vigente, y se revocará la concesión, permiso o autorización.
 
-c) Por portar un vehículo afecto a una concesión, permiso o autorización para la prestación del servicio público de transporte, publicidad sin la autorización correspondiente, multa de cincuenta a trescientos salarios mínimos.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-d) Por no presentarse a la revista vehicular en las fechas y lugares que señale la Secretaria mediante convocatoria respectiva, multa de cien a doscientos salarios mínimos; en el caso de que presentado el vehículo no haya aprobado la revisión, y siga prestando el servicio, multa de doscientos a trescientos salarios mínimos.
+b) Por no contar con lugares de encierro para los vehículos del servicio de transporte público cuando así lo determine la Secretaría, y se utilice la vía pública para este fin, multa de cien a trescientas unidades de medida y actualización vigente.
 
-e) Por interrumpir la prestación del servicio en forma injustificada, o sin haber dado aviso a la Secretaría, o que ésta no lo haya autorizado, multa de cien a trescientos salarios mínimos, y se revocará la concesión, permiso o autorización.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-f) Por negarse los titulares de las concesiones, permisos o autorizaciones a proporcionar la información a que hace referencia la fracción XX del artículo 81 de la presente Ley, multa de cincuenta a cien salarios mínimos para el caso de personas físicas; para personas morales multa de cien a trescientos salarios mínimos.
+c) Por portar un vehículo afecto a una concesión, permiso o autorización para la prestación del servicio público de transporte, publicidad sin la autorización correspondiente, multa de cincuenta a trescientas unidades de medida y actualización vigente.
 
-g) Por alterar en cualquier forma el diseño, estructura y construcción original de los vehículos afectos al servicio sin la autorización de la Secretaría, multa de cincuenta a cien días de salario mínimo; en caso de no conservar los vehículos, equipos e instalaciones en óptimas condiciones para la prestación del servicio, multa de treinta a cincuenta salarios mínimos; en ambos casos los vehículos serán retirados de la circulación.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-h) Por utilizar como terminal la vía pública en lugares no autorizados por la Secretaría, prohibidos, o no destinados para ello, multa de cincuenta a cien salarios mínimos.
+d) Por no presentarse a la revista vehicular en las fechas y lugares que señale la Secretaría mediante convocatoria respectiva, multa de cien a doscientas unidades de medida y actualización vigente; en el caso de que presentado el vehículo no haya aprobado la revisión, y siga prestando el servicio, multa de doscientas a trescientas unidades de medida y actualización vigente.
 
-i) Por modificar o alterar sin autorización de la Secretaría, los itinerarios, rutas, horarios, frecuencias de servicio, terminales, o condiciones autorizadas para la prestación del servicio público de transporte, multa de cincuenta a cien salarios mínimos.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-j) Por permitir que personas que carezcan de la licencia o el gafete para conducir vehículos de servicio público, sean éstos insuficientes, o de modalidad distinta a la del servicio que se presta, o se encuentren vencidos, multa de cincuenta a cien a trescientos (sic) salarios mínimos.
+e) Por interrumpir la prestación del servicio en forma injustificada, o sin haber dado aviso a la Secretaría, o que ésta no lo haya autorizado, multa de cien a trescientas unidades de medida y actualización vigente, y se revocará la concesión, permiso o autorización.
 
-k) Por no portar póliza de seguro vigente a bordo de vehículo afecto a una concesión de servicio público de transporte, multa de cincuenta, a trescientos salarios mínimos; y el vehículo será retirado de la circulación.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-l) Por ordenar aplicación de tarifas y reglas de operación no autorizadas por la Secretaría, multa de cincuenta a trescientos salarios mínimos; y el vehículo será retirado de la circulación.
+f) Por negarse los titulares de las concesiones, permisos o autorizaciones a proporcionar la información a que hace referencia la fracción XX del artículo 81 de la presente Ley, multa de cincuenta a cien unidades de medida y actualización para el caso de personas físicas; para personas morales multa de cien a trescientas unidades de medida y actualización vigente.
 
-m) Por falta de una o ambas placas, éstas estén vencidas, o no portar a bordo del vehículo afecto a la prestación del servicio de transporte público la tarjeta de circulación, multa de cincuenta a trescientos salarios mínimos.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-n) Por no contar con número económico y demás elementos de identificación e información al usuario, que con fundamento en la presente Ley determine la Secretaría, o no llevar en lugar visible la tarifa autorizada, multa de veinte a cincuenta salarios mínimos.
+g) Por alterar en cualquier forma el diseño, estructura y construcción original de los vehículos afectos al servicio sin la autorización de la Secretaría, multa de cincuenta a cien unidades de medida y actualización; en caso de no conservar los vehículos, equipos e instalaciones en óptimas condiciones para la prestación del servicio, multa de treinta a cincuenta unidades de medida y actualización vigente; en ambos casos, los vehículos serán retirados de la circulación.
 
-ñ) Por no cumplir con las disposiciones en materia de accesibilidad a personas con discapacidad que se establezcan con fundamento en la presente Ley y su reglamento, multa de cincuenta a cien salarios mínimos.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-o) Por no dotar de por lo menos dos uniformes al año a los operadores, multa de veinte a cincuenta salarios mínimos.
+h) Por utilizar como terminal la vía pública en lugares no autorizados por la Secretaría, prohibidos, o no destinados para ello, multa de cincuenta a cien unidades de medida y actualización vigente.
 
-p) Por no cumplir las obligaciones de seguridad social y proporcionar a su costa, la capacitación continua y permanente a sus operadores y demás personas que tengan relación con el servicio público de transporte concesionado, permisionado o autorizado, multa de veinte a cien salarios mínimos.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-q) Por prestar el servicio público de transporte en vehículos que excedan la antigüedad máxima permitida por la presente Ley, o que se encuentren en malas condiciones mecánicas, físicas o de operación, multa de veinte a cien salarios mínimos, y el vehículo será retirado de la circulación.
+i) Por modificar o alterar sin autorización de la Secretaría, los itinerarios, rutas, horarios, frecuencias de servicio, terminales, o condiciones autorizadas para la prestación del servicio público de transporte, multa de cincuenta a cien unidades de medida y actualización vigente.
 
-r) Por no cumplir las disposiciones jurídicas y administrativas en materia ambiental aplicables al servicio público de transporte, o que los vehículos ostensiblemente emitan humo en exceso, multa de veinte a cincuenta salarios mínimos.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-s) Por negarse a prestar el servicio de manera gratuita cuando por causas de fuerza mayor, caso fortuito, desastres naturales, contingencias, movimientos sociales o cuestiones de seguridad pública así se requiera, multa de veinte a cien salarios mínimos.
+j) Por permitir que personas que carezcan de la licencia o el gafete para conducir vehículos de servicio público, sean éstos insuficientes, o de modalidad distinta a la del servicio que se presta, o se encuentren vencidos, multa de cincuenta a cien a trescientos (sic) unidades de medida y actualización vigente.
 
-t) Por instruir o inducir a sus operadores a no cumplir las disposiciones legales y administrativas en materia de tránsito, transporte y vialidad, así como las políticas y programas dictados por el titular del Ejecutivo por si, o a través de la Secretaría, multa de veinte a cien salarios mínimos.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-u) Por no instalar o mantener fuera de operación los dispositivos para el control de velocidad a que hace referencia la fracción III del artículo 36 de la presente Ley, y aquéllos que con fundamento en la misma determine el titular del Ejecutivo por si, o a través de la Secretaría, multa de veinte a cien salarios mínimos.
+k) Por no portar póliza de seguro vigente a bordo de vehículo afecto a una concesión de servicio público de transporte, multa de cincuenta a trescientas unidades de medida y actualización vigente; y el vehículo será retirado de la circulación.
 
-v) Por alterar los taxímetros, sistemas de prepago y demás equipos utilizados para el cobro y aplicación de tarifas autorizadas, multa de cincuenta a cien salarios mínimos.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
-w) Por falta de cumplimiento de las demás obligaciones establecidas en el artículo 81 de la presente Ley, multa de cinco a cincuenta salarios mínimos.
+l) Por ordenar aplicación de tarifas y reglas de operación no autorizadas por la Secretaría, multa de cincuenta a trescientas unidades de medida y actualización vigente; y el vehículo será retirado de la circulación.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+m) Por falta de una o ambas placas, éstas estén vencidas, o no portar a bordo del vehículo afecto a la prestación del servicio de transporte público la tarjeta de circulación, multa de cincuenta a trescientas unidades de medida y actualización vigente.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+n) Por no contar con número económico y demás elementos de identificación e información al usuario, que con fundamento en la presente Ley determine la Secretaría, o no llevar en lugar visible la tarifa autorizada, multa de veinte a cincuenta unidades de medida y actualización vigente.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+ñ) Por no cumplir con las disposiciones en materia de accesibilidad a personas con discapacidad que se establezcan con fundamento en la presente Ley y su reglamento, multa de cincuenta a cien unidades de medida y actualización vigente.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+o) Por no dotar de por lo menos dos uniformes al año a los operadores, multa de veinte a cincuenta unidades de medida y actualización vigente.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+p) Por no cumplir las obligaciones de seguridad social y proporcionar a su costa, la capacitación continua y permanente a sus operadores y demás personas que tengan relación con el servicio público de transporte concesionado, permisionado o autorizado, multa de veinte a cien unidades de medida y actualización vigente.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+q) Por prestar el servicio público de transporte en vehículos que excedan la antigüedad máxima permitida por la presente Ley, o que se encuentren en malas condiciones mecánicas, físicas o de operación, multa de veinte a cien unidades de medida y actualización vigente; y el vehículo será retirado de la circulación.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+r) Por no cumplir las disposiciones jurídicas y administrativas en materia ambiental aplicables al servicio público de transporte, o que los vehículos ostensiblemente emitan humo en exceso, multa de veinte a cincuenta unidades de medida y actualización vigente.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+s) Por negarse a prestar el servicio de manera gratuita cuando por causas de fuerza mayor, caso fortuito, desastres naturales, contingencias, movimientos sociales o cuestiones de seguridad pública así se requiera, multa de veinte a cien unidades de medida y actualización vigente.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+t) Por instruir o inducir a sus operadores a no cumplir las disposiciones legales y administrativas en materia de tránsito, transporte y vialidad, así como las políticas y programas dictados por el titular del Ejecutivo por si, o a través de la Secretaría, multa de veinte a cien unidades de medida y actualización vigente.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+u) Por no instalar o mantener fuera de operación los dispositivos para el control de velocidad a que hace referencia la fracción III del artículo 36 de la presente Ley, y aquéllos que con fundamento en la misma determine el titular del Ejecutivo por si, o a través de la Secretaría, multa de veinte a cien unidades de medida y actualización vigente.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+v) Por alterar los taxímetros, sistemas de prepago y demás equipos utilizados para el cobro y aplicación de tarifas autorizadas, multa de cincuenta a cien unidades de medida y actualización vigente.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+w) Por falta de cumplimiento de las demás obligaciones establecidas en el artículo 81 de la presente Ley, multa de cinco a cincuenta unidades de medida y actualización vigente.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -2341,11 +2441,11 @@ En caso de reincidencia, se podrá imponer una multa que oscilará entre el cinc
 
 El mal uso comprobado fehacientemente de las tarifas especiales a que hacen referencia los artículos, 96, y 97 de la presente Ley, dará lugar en primera instancia, a la suspensión del infractor del goce de las mismas durante noventa días; la reincidencia se sancionará con la revocación del beneficio de las tarifas especiales.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 132.
 
-Se hará acreedor a multa de trescientos a quinientos salarios mínimos vigentes en la zona, quien ofrezca o preste el servicio de transporte público de cualquier modalidad, y carezca de concesión o permiso otorgados por el Ejecutivo del Estado. Asimismo, la Secretaría estará facultada para retirar de la circulación y remitir a la pensión que determine, los vehículos que sean utilizados para ese fin.
+Se hará acreedor a multa de trescientas a quinientas unidades de medida y actualización vigente, quien ofrezca o preste el servicio de transporte público de cualquier modalidad, y carezca de concesión o permiso otorgados por el Ejecutivo del Estado. Asimismo, la Secretaría estará facultada para retirar de la circulación y remitir a la pensión que determine, los vehículos que sean utilizados para ese fin.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -2628,3 +2728,11 @@ P.O. 17 DE DICIEMBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor ciento veinte días posteriores a la fecha de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0607.- SE REFORMA (SIC) LOS ARTÍCULOS 81, 129 Y 132 DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ; ASI (SIC) MISMO EL ARTÍCULO 93 DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ; LOS ARTÍCULOS 61 Y 68 DE LA LEY PARA LA REGULARIZACIÓN DE LA FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE SAN LUIS POTOSÍ, Y LOS ARTÍCULOS 37, 38, Y 40 DE LA LEY QUE ESTABLECE EL DERECHO DE VÍA Y SU APROVECHAMIENTO EN LAS VÍAS TERRESTRES DE COMUNICACIÓN ESTATAL”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
