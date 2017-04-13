@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2017-03-16"
+last_updated: "2017-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2017.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -425,19 +425,19 @@ V. Procedimiento a seguir en caso de no realizarse la elección del Magistrado e
 
 ###### Artículo 48.
 
-(DEROGADO POR TRANSITORIO DÉCIMO QUINTO DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
+(DEROGADO POR TRANSITORIO DÉCIMO QUINTO DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008) (REPUBLICADA SU DEROGACIÓN, P.O. 13 DE ABRIL DE 2017)
 
 ###### Artículo 49.
 
-(DEROGADO POR TRANSITORIO DÉCIMO QUINTO DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
+(DEROGADO POR TRANSITORIO DÉCIMO QUINTO DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008) (REPUBLICADA SU DEROGACIÓN, P.O. 13 DE ABRIL DE 2017)
 
 ###### Artículo 50.
 
-(DEROGADO POR TRANSITORIO DÉCIMO QUINTO DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
+(DEROGADO POR TRANSITORIO DÉCIMO QUINTO DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008) (REPUBLICADA SU DEROGACIÓN, P.O. 13 DE ABRIL DE 2017)
 
 ###### Artículo 51.
 
-(DEROGADO POR TRANSITORIO DÉCIMO QUINTO DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
+(DEROGADO POR TRANSITORIO DÉCIMO QUINTO DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008) (REPUBLICADA SU DEROGACIÓN, P.O. 13 DE ABRIL DE 2017)
 
 ### CAPÍTULO IX. PROCEDIMIENTO PARA LA ELECCIÓN DE LOS INTEGRANTES DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
@@ -475,11 +475,43 @@ f) Procedimiento a seguir en caso de no realizarse la elección de los integrant
 
 1. En lo no previsto por el presente ordenamiento, el proceso para la elección se llevará a cabo conforme a la Constitución y a la legislación aplicable.
 
-### CAPÍTULO I. DE LA JUNTA DE COORDINACIÓN POLÍTICA
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE ABRIL DE 2017)</small>
+
+### CAPÍTULO X. PROCEDIMIENTO PARA ELEGIR AL CONTRALOR DEL CONGRESO
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+Artículo 54 bis.
+
+1. El Congreso del Estado deberá designar al Contralor del Congreso, conforme a lo siguiente:
+
+I. La Junta de Coordinación Política, cuando menos sesenta días naturales antes del vencimiento del nombramiento del Contralor en funciones, somete a la Asamblea el proyecto de convocatoria, para su aprobación y publicación, dirigida (sic) la sociedad en general, con excepción de los partidos políticos, para que presenten candidatos ante el Congreso del Estado con copias suficientes para las fracciones parlamentarias;
+
+II. La convocatoria deberá contener cuando menos:
+
+a) El cargo vacante;
+
+b) Los requisitos de elegibilidad para el desempeño del cargo, conforme a las disposiciones legales aplicables al caso;
+
+c) El lugar y la fecha para recibir las propuestas y los documentos que acrediten los requisitos para ocupar el cargo, los cuales no serán devueltos a los interesados;
+
+d) El lugar y la fecha para la aplicación del examen de conocimientos, el cual se considerará aprobado con una calificación mínima de 80 sobre 100;
+
+e) El mecanismo de elección;
+
+f) El (sic) fecha límite en que deba realizarse la elección; y
+
+g) El procedimiento a seguir en caso de no realizarse la elección en los plazos señalados, así como en el caso de que los candidatos propuestos no alcancen la votación requerida;
+
+III. La Junta de Coordinación Política, una vez cerrado el plazo establecido en la convocatoria, elaborará un dictamen e integrará una lista de quienes cumplan con los requisitos de elegibilidad; y
+
+IV. Presentado el dictamen con la lista de candidatos, la Asamblea aprueba la lista de elegibles, en votación nominal por mayoría simple; y posteriormente realiza la elección del Contralor, en votación por cédula y por el voto a favor de cuando menos las dos terceras partes de los diputados presentes en la sesión.
+
+2. El candidato electo deber rendir la protesta de ley ante el Congreso del Estado, previo a la toma de posesión del cargo.
 
 ## TÍTULO SEXTO. DE LOS ÓRGANOS DE DIRECCIÓN DEL CONGRESO
 
-### CAPÍTULO II. DE LA MESA DIRECTIVA
+### CAPÍTULO I. DE LA JUNTA DE COORDINACIÓN POLÍTICA
 
 ###### Artículo 55.
 
@@ -487,7 +519,7 @@ f) Procedimiento a seguir en caso de no realizarse la elección de los integrant
 
 El presidente de Junta tiene bajo su custodia los documentos competencia de ésta, y deberá entregarlos al presidente que lo sustituya mediante acta.
 
-### CAPÍTULO I. DE LAS COMISIONES
+### CAPÍTULO II. DE LA MESA DIRECTIVA
 
 ###### Artículo 56.
 
@@ -565,7 +597,7 @@ III. Vigilar la integración y actualización de los expedientes de los asuntos 
 
 ## TÍTULO SEPTIMO. DE LAS COMISIONES Y COMITES
 
-### CAPÍTULO II. DE LOS COMITES
+### CAPÍTULO I. DE LAS COMISIONES
 
 ###### Artículo 67.
 
@@ -633,13 +665,13 @@ VI. Las demás que le confiera, el Presidente, la Comisión o las disposiciones 
 
 1. En las reuniones de comisión participarán con voz las personas que a propuesta de los diputados autorice la Comisión y se regirán por las disposiciones de este reglamento.
 
-### CAPÍTULO III. DE LAS REUNIONES DE TRABAJO
+### CAPÍTULO II. DE LOS COMITES
 
 ###### Artículo 75.
 
 1. El funcionamiento de los Comités se sujetará a las disposiciones de éste título.
 
-### CAPÍTULO IV. DE LOS DÍCTAMENES DE COMISIÓN Y COMITÉS
+### CAPÍTULO III. DE LAS REUNIONES DE TRABAJO
 
 ###### Artículo 76.
 
@@ -700,6 +732,54 @@ II. A juicio del Presidente de la Comisión y con acuse expreso de aceptación d
 1. Las personas que autorice el presidente de la comisión podrán participar con voz, a solicitud de cualquier integrante de ésta, y con la autorización del presidente.
 
 2. Es obligación del personal contribuir al buen desarrollo de las reuniones, conduciéndose en éstas con orden y respeto hacia todos los presentes, de lo contrario podrán ser retirados de la reunión a propuesta del presidente con aprobación de la mayoría de los integrantes de la comisión.
+
+### CAPÍTULO IV. DE LOS DÍCTAMENES DE COMISIÓN Y COMITÉS
+
+###### Artículo 86.
+
+1. Las comisiones dictaminarán los asuntos que les sean turnados por la Asamblea en función de su competencia. Cuando un asunto sea turnado a dos comisiones o más, fungirá como Comisión convocante, la que aparezca en el turno en primer término.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 87.
+
+1. El diputado ponente deberá emitir su proyecto de dictamen en los términos que establece la Ley, el proyecto deberá ser repartido entre los miembros de la Comisión por medio electrónico o magnético que contenga el dictamen y en caso necesario mediante copia fotostática, con el acuse de recibo correspondiente, de conformidad con el reglamento y para su conocimiento y estudio; será agendado para su discusión y aprobación en su caso, en la siguiente reunión de comisión.
+
+###### Artículo 88.
+
+1. La Comisión convocante podrá citar a reunión de trabajo conjunta, en este supuesto los votos se computarán por comisión, si los votos son contrarios entre comisiones, éstas podrán dictaminar por separado.
+
+###### Artículo 89.
+
+1. También podrá la Comisión convocante emitir un dictamen que tendrá que ser dado a conocer a las demás comisiones por lo menos con veinte días de anticipación previos al cumplimiento del plazo que para el efecto señala el artículo 108 de la Ley, para que las mismas se adhieran al proyecto, o presenten sus observaciones o propuestas de modificación, o establezcan lo que a su competencia le corresponda con cinco días de anticipación al vencimiento del plazo antes mencionado; en tal caso la Comisión convocante estudiara las observaciones para que las mismas sean contenidas en el dictamen respectivo.
+
+###### Artículo 90.
+
+1. Cuando la Comisión convocante no cite a reunión conjunta o no presente dictamen en los tiempos señalados en artículo anterior, en consideración de las otras, las demás comisiones podrán presentar su dictamen por separado, en que se dará cuenta de la circunstancia anterior.
+
+###### Artículo 91.
+
+1. Las Comisiones dictaminadoras podrán invitar para su discusión al autor de la iniciativa a fin de que exprese sus puntos de vista y las razones que motivaron a presentar dicha iniciativa.
+
+###### Artículo 92.
+
+1. Cuando alguna comisión detecte que por razones de materia u ordenamiento existan varias iniciativas en estudio, la comisión o comisiones podrán solicitar su acumulación a fin de que las mismas sean resueltas en un solo dictamen.
+
+###### Artículo 93.
+
+1. Para la acumulación de iniciativas, la comisión o comisiones dictaminadoras lo solicitará al pleno mediante acuerdo legislativo bajo las siguientes reglas:
+
+A) La acumulación inicia con la fecha de la primer iniciativa presentada materia de la acumulación, hasta la que se presente a más tardar sesenta días más los treinta días de prorroga que establece la Ley, posteriores a dicha fecha.
+
+B) Los términos para la dictaminación a los que se refiere la ley, iniciaran a partir de la fecha de presentación de la última iniciativa, por lo que la aprobación del acuerdo legislativo tiene efectos suspensivos para la dictaminación de las iniciativas materia de la acumulación.
+
+###### Artículo 94.
+
+1. Cuando alguna comisión emita dictamen de Decreto o de Ley deberá enviar con una anticipación de cinco días hábiles a que sea agendado en primera lectura, a la Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos, para que emita opinión sobre la constitucionalidad y congruencia legal.
+
+2. La Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos, tendrá un plazo de cuatro días hábiles, para emitir su opinión si las tuviere, que será anexada al dictamen.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO V. DE LOS FOROS DE CONSULTA PÚBLICA Y DEL CONGRESO ABIERTO
 
@@ -823,53 +903,45 @@ Artículo 94 O.
 
 (REUBICADO [N. DE E. ANTES CAPITULO V], P.O. 20 DE OCTUBRE DE 2005)
 
-###### Artículo 86.
-
-1. Las comisiones dictaminarán los asuntos que les sean turnados por la Asamblea en función de su competencia. Cuando un asunto sea turnado a dos comisiones o más, fungirá como Comisión convocante, la que aparezca en el turno en primer término.
-
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2010)</small>
-
-###### Artículo 87.
-
-1. El diputado ponente deberá emitir su proyecto de dictamen en los términos que establece la Ley, el proyecto deberá ser repartido entre los miembros de la Comisión por medio electrónico o magnético que contenga el dictamen y en caso necesario mediante copia fotostática, con el acuse de recibo correspondiente, de conformidad con el reglamento y para su conocimiento y estudio; será agendado para su discusión y aprobación en su caso, en la siguiente reunión de comisión.
-
-###### Artículo 88.
-
-1. La Comisión convocante podrá citar a reunión de trabajo conjunta, en este supuesto los votos se computarán por comisión, si los votos son contrarios entre comisiones, éstas podrán dictaminar por separado.
-
-###### Artículo 89.
-
-1. También podrá la Comisión convocante emitir un dictamen que tendrá que ser dado a conocer a las demás comisiones por lo menos con veinte días de anticipación previos al cumplimiento del plazo que para el efecto señala el artículo 108 de la Ley, para que las mismas se adhieran al proyecto, o presenten sus observaciones o propuestas de modificación, o establezcan lo que a su competencia le corresponda con cinco días de anticipación al vencimiento del plazo antes mencionado; en tal caso la Comisión convocante estudiara las observaciones para que las mismas sean contenidas en el dictamen respectivo.
-
-###### Artículo 90.
-
-1. Cuando la Comisión convocante no cite a reunión conjunta o no presente dictamen en los tiempos señalados en artículo anterior, en consideración de las otras, las demás comisiones podrán presentar su dictamen por separado, en que se dará cuenta de la circunstancia anterior.
-
-###### Artículo 91.
-
-1. Las Comisiones dictaminadoras podrán invitar para su discusión al autor de la iniciativa a fin de que exprese sus puntos de vista y las razones que motivaron a presentar dicha iniciativa.
-
-###### Artículo 92.
-
-1. Cuando alguna comisión detecte que por razones de materia u ordenamiento existan varias iniciativas en estudio, la comisión o comisiones podrán solicitar su acumulación a fin de que las mismas sean resueltas en un solo dictamen.
-
-###### Artículo 93.
-
-1. Para la acumulación de iniciativas, la comisión o comisiones dictaminadoras lo solicitará al pleno mediante acuerdo legislativo bajo las siguientes reglas:
-
-A) La acumulación inicia con la fecha de la primer iniciativa presentada materia de la acumulación, hasta la que se presente a más tardar sesenta días más los treinta días de prorroga que establece la Ley, posteriores a dicha fecha.
-
-B) Los términos para la dictaminación a los que se refiere la ley, iniciaran a partir de la fecha de presentación de la última iniciativa, por lo que la aprobación del acuerdo legislativo tiene efectos suspensivos para la dictaminación de las iniciativas materia de la acumulación.
-
-###### Artículo 94.
-
-1. Cuando alguna comisión emita dictamen de Decreto o de Ley deberá enviar con una anticipación de cinco días hábiles a que sea agendado en primera lectura, a la Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos, para que emita opinión sobre la constitucionalidad y congruencia legal.
-
-2. La Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos, tendrá un plazo de cuatro días hábiles, para emitir su opinión si las tuviere, que será anexada al dictamen.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
 ### CAPÍTULO VI. DE LAS SANCIONES
+
+###### Artículo 95.
+
+1. Los diputados que falten a dos reuniones consecutivas de comisión sin causa justificada serán exhortados a cumplir con su responsabilidad por el Presidente de la misma.
+
+###### Artículo 96.
+
+1. Los diputados que falten injustificadamente en tres ocasiones a las reuniones de comisión, recibirán un extrañamiento a instancias del Presidente de la Comisión, por parte de la Mesa Directiva y ante la Asamblea, en la primer sesión que se celebre, una vez ocurridas dichas faltas.
+
+2. El Presidente de la Mesa Directiva solicitará a la Comisión de Administración, a fin de que se le descuente lo correspondiente a un día de su dieta.
+
+###### Artículo 97.
+
+1. Los diputados que acumulen cinco faltas injustificadas, serán interpelados por el Presidente de la Mesa Directiva durante la reunión de la Asamblea, para que expongan si pueden o no continuar en la comisión, y en su caso, soliciten un permiso para ausentarse temporalmente de la misma.
+
+2. El Presidente de la Mesa Directiva solicitará a la Comisión de Administración a fin de se le descuente lo correspondiente a dos días de su dieta.
+
+###### Artículo 98.
+
+1. Sólo se justificará una falta a trabajos de una comisión cuando un diputado se encuentre en los siguientes supuestos:
+
+I. Estar cumpliendo una tarea asignada por la Asamblea o por otra comisión;
+
+II. Por enfermedad, o cuestiones relacionadas con la salud e integridad física del diputado o familiares directos;
+
+III. Estar cumpliendo con tareas en conjunto con titulares de otros de los Poderes del Estado o de la Federación;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Estar en cumplimiento de labores inherentes a su encargo como diputado o encontrarse imposibilitado para asistir por caso fortuito o fuerza mayor, y
+
+V. Haber presentado a la Asamblea solicitud de separación del cargo de diputado o del trabajo de la comisión.
+
+###### Artículo 99.
+
+1. Si fuere el caso, el legislador que faltare a reunión de comisión se podrá dirigir por escrito al presidente de la comisión de la que forma parte para que la posible justificación de su inasistencia se ponga a consideración de los miembros de la misma, la solicitud deberá quedar asentada en el acta.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE FEBRERO DE 2006)</small>
 
 ### CAPÍTULO VI (SIC). DE LOS GASTOS DE COMISIONES Y COMITÉS
 
@@ -913,49 +985,9 @@ Artículo 99 sexies.
 
 1. Cualquier acto contrario a lo dispuesto por este capítulo, será sancionado de conformidad a lo establecido por las disposiciones jurídicas aplicables.
 
-###### Artículo 95.
-
-1. Los diputados que falten a dos reuniones consecutivas de comisión sin causa justificada serán exhortados a cumplir con su responsabilidad por el Presidente de la misma.
-
-###### Artículo 96.
-
-1. Los diputados que falten injustificadamente en tres ocasiones a las reuniones de comisión, recibirán un extrañamiento a instancias del Presidente de la Comisión, por parte de la Mesa Directiva y ante la Asamblea, en la primer sesión que se celebre, una vez ocurridas dichas faltas.
-
-2. El Presidente de la Mesa Directiva solicitará a la Comisión de Administración, a fin de que se le descuente lo correspondiente a un día de su dieta.
-
-###### Artículo 97.
-
-1. Los diputados que acumulen cinco faltas injustificadas, serán interpelados por el Presidente de la Mesa Directiva durante la reunión de la Asamblea, para que expongan si pueden o no continuar en la comisión, y en su caso, soliciten un permiso para ausentarse temporalmente de la misma.
-
-2. El Presidente de la Mesa Directiva solicitará a la Comisión de Administración a fin de se le descuente lo correspondiente a dos días de su dieta.
-
-###### Artículo 98.
-
-1. Sólo se justificará una falta a trabajos de una comisión cuando un diputado se encuentre en los siguientes supuestos:
-
-I. Estar cumpliendo una tarea asignada por la Asamblea o por otra comisión;
-
-II. Por enfermedad, o cuestiones relacionadas con la salud e integridad física del diputado o familiares directos;
-
-III. Estar cumpliendo con tareas en conjunto con titulares de otros de los Poderes del Estado o de la Federación;
-
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
-
-IV. Estar en cumplimiento de labores inherentes a su encargo como diputado o encontrarse imposibilitado para asistir por caso fortuito o fuerza mayor, y
-
-V. Haber presentado a la Asamblea solicitud de separación del cargo de diputado o del trabajo de la comisión.
-
-###### Artículo 99.
-
-1. Si fuere el caso, el legislador que faltare a reunión de comisión se podrá dirigir por escrito al presidente de la comisión de la que forma parte para que la posible justificación de su inasistencia se ponga a consideración de los miembros de la misma, la solicitud deberá quedar asentada en el acta.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE FEBRERO DE 2006)</small>
-
-### CAPÍTULO ÚNICO. FINALIDAD Y FUNCIONES COMUNES
-
 ## TÍTULO OCTAVO. DE LOS ÓRGANOS ADMINISTRATIVOS Y AUXILIARES
 
-### CAPÍTULO I. DE LA SECRETARÍA GENERAL
+### CAPÍTULO ÚNICO. FINALIDAD Y FUNCIONES COMUNES
 
 ###### Artículo 100.
 
@@ -1003,7 +1035,7 @@ IX. Las demás que les sean encomendadas a través de los procedimientos y facul
 
 ## TÍTULO NOVENO. DE LA SECRETARÍA GENERAL
 
-### CAPÍTULO II. DE LAS DIRECCIONES DE LA SECRETARÍA GENERAL
+### CAPÍTULO I. DE LA SECRETARÍA GENERAL
 
 ###### Artículo 104.
 
@@ -1137,7 +1169,7 @@ XXXVII. Las demás que señale éste reglamento o acuerde la Asamblea.
 
 1. El Congreso editará el “Diario de los Debates”, el cual tendrá por objeto la conservación del archivo e historia del proceso legislativo estatal, contendrá la fecha, lugar en que se verifiquen las sesiones, el sumario, nombre de quien presida, acta circunstanciada de las sesiones y trascripción de la grabación magnetofónica de las discusiones, en el orden que se desarrollen e inserción de los documentos a los que se les dé lectura; pero en ningún caso deberán publicarse las discusiones ni los documentos que se relacionen a las sesiones reservadas que se verifiquen las cuales en su caso deberán de ser publicadas en los términos de la legislación en materia de transparencia.
 
-### CAPÍTULO I. DE LA AUDITORÍA SUPERIOR
+### CAPÍTULO II. DE LAS DIRECCIONES DE LA SECRETARÍA GENERAL
 
 ###### Artículo 109.
 
@@ -1233,7 +1265,7 @@ VI. Informar mensualmente al Comité de Proceso Legislativo de los asuntos que l
 
 VII. Participar en coordinación con la Dirección de Procesos Legislativos en la revisión de minutas de ley o decreto y la concordancia de las mismas con la promulgación en el Periódico Oficial y en cualquier otro medio que resulte para tal fin. En caso de existir diferencias entre lo aprobado y lo publicado, notificará de manera inmediata a la Secretaría General y a la Mesa Directiva del Congreso para lo conducente;
 
-VIII. Ser la oficina encargada de recibir y dar trámite a las solicitudes de información del Congreso, en los términos de la Ley de Transparencia e Información del Estado de Jalisco; y
+VIII. (DEROGADA, P.O. 13 DE ABRIL DE 2017)
 
 IX. Las demás que señale el Secretario General.
 
@@ -1437,13 +1469,13 @@ V. Las demás que le asigne el Secretario General.
 
 ## TÍTULO DÉCIMO. DE LOS ÓRGANOS TÉCNICOS AUXILIARES
 
-### CAPÍTULO II. DEL ÓRGANO TÉCNICO DE HACIENDA PÚBLICA
+### CAPÍTULO I. DE LA AUDITORÍA SUPERIOR
 
 ###### Artículo 119.
 
 1. En todo lo relacionado a la Auditoria Superior, se estará a lo que señale la Ley de Fiscalización, la Ley Orgánica del Poder Legislativo, su reglamento interno y los acuerdos de la Asamblea.
 
-### CAPÍTULO III. DEL ÓRGANO TÉCNICO DE RESPONSABILIDADES
+### CAPÍTULO II. DEL ÓRGANO TÉCNICO DE HACIENDA PÚBLICA
 
 ###### Artículo 120.
 
@@ -1497,7 +1529,7 @@ XII. Los demás que le instruya la Asamblea y la Comisión de Hacienda y Presupu
 
 1. El Órgano Técnico de Hacienda Pública podrá contar con un boletín de difusión en el que se publicarán análisis, informes, proyecciones y demás documentos relevantes, de conformidad con la disponibilidad presupuestal.
 
-### CAPÍTULO IV. DEL INSTITUTO DE INVESTIGACIÓN JURÍDICA Y ESTUDIOS LEGISLATIVOS
+### CAPÍTULO III. DEL ÓRGANO TÉCNICO DE RESPONSABILIDADES
 
 ###### Artículo 125.
 
@@ -1523,9 +1555,7 @@ XII. Los demás que le instruya la Asamblea y la Comisión de Hacienda y Presupu
 
 2. Para el caso de responsabilidad administrativa de servidores públicos del Poder Legislativo, la Comisión de Responsabilidades instaura los procedimientos respectivos, con el apoyo de las áreas del Órgano Técnico.
 
-### CAPÍTULO V. LA UNIDAD DE VIGILANCIA
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+### CAPÍTULO IV. DEL INSTITUTO DE INVESTIGACIÓN JURÍDICA Y ESTUDIOS LEGISLATIVOS
 
 ###### Artículo 130.
 
@@ -1613,7 +1643,9 @@ V. Acreditar los exámenes que para el efecto se realicen.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 10 DE FEBRERO DE 2011)</small>
 
-### CAPÍTULO I. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
+### CAPÍTULO V. LA UNIDAD DE VIGILANCIA
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 134
 
@@ -1625,7 +1657,7 @@ Bis.
 
 ## TÍTULO DÉCIMO PRIMERO. DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
 
-### CAPÍTULO II. DEL SERVICIO PROFESIONAL LEGISLATIVO
+### CAPÍTULO I. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
 
 ###### Artículo 135.
 
@@ -1643,7 +1675,7 @@ V. Abstenerse de ostentar su calidad de servidor público del Congreso, en el de
 
 2. El incumplimiento a lo dispuesto en este artículo será sancionado de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-### CAPÍTULO I. DE LOS MANUALES DE OPERACIÓN
+### CAPÍTULO II. DEL SERVICIO PROFESIONAL LEGISLATIVO
 
 ###### Artículo 136.
 
@@ -1665,7 +1697,7 @@ c) Considerar el grado académico y la experiencia de los candidatos.
 
 ## TÍTULO DÉCIMO SEGUNDO. DEL FUNCIONAMIENTO ADMINISTRATIVO DEL CONGRESO DEL ESTADO
 
-### CAPÍTULO II. DEL MANEJO DE LOS RECURSOS DEL CONGRESO DEL ESTADO
+### CAPÍTULO I. DE LOS MANUALES DE OPERACIÓN
 
 ###### Artículo 138.
 
@@ -1707,9 +1739,7 @@ XI. Estrategia de comunicación; y
 
 XII. Catálogos de formato.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+### CAPÍTULO II. DEL MANEJO DE LOS RECURSOS DEL CONGRESO DEL ESTADO
 
 ###### Artículo 141.
 
@@ -1743,7 +1773,9 @@ XII. Catálogos de formato.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO SEGUNDO. DEL FUNCIONAMIENTO
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 143.
 
@@ -1835,9 +1867,7 @@ II. Los representantes de los organismos del sector privado por el titular del o
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO TERCERO. DE LAS FACULTADES DEL COMITÉ
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+### CAPÍTULO SEGUNDO. DEL FUNCIONAMIENTO
 
 ###### Artículo 149.
 
@@ -1889,7 +1919,7 @@ VII. Cierre de la sesión.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO CUARTO. DE LA ADQUISICIÓN DE LOS BIENES O SERVICIOS
+### CAPÍTULO TERCERO. DE LAS FACULTADES DEL COMITÉ
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
@@ -1995,7 +2025,9 @@ IX. Las demás que le encomienden otras normas o le asigne el Presidente del Com
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO QUINTO. DEL PADRÓN DE PROVEEDORES
+### CAPÍTULO CUARTO. DE LA ADQUISICIÓN DE LOS BIENES O SERVICIOS
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 158.
 
@@ -2081,7 +2113,7 @@ V. La garantía que se ofrece.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO SEXTO. DE LOS PROCEDIMIENTOS DE ADQUISICIÓN
+### CAPÍTULO QUINTO. DEL PADRÓN DE PROVEEDORES
 
 ###### Artículo 169.
 
@@ -2113,9 +2145,7 @@ V. La garantía que se ofrece.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO SÉPTIMO. DE LAS SANCIONES
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+### CAPÍTULO SEXTO. DE LOS PROCEDIMIENTOS DE ADQUISICIÓN
 
 ###### Artículo 176.
 
@@ -2139,7 +2169,9 @@ V. La garantía que se ofrece.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO OCTAVO. DE LA SUSPENSIÓN O CANCELACIÓN DE LAS ADJUDICACIONES
+### CAPÍTULO SÉPTIMO. DE LAS SANCIONES
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 181.
 
@@ -2151,9 +2183,7 @@ V. La garantía que se ofrece.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### Capítulo Único
-
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2012)</small>
+### CAPÍTULO OCTAVO. DE LA SUSPENSIÓN O CANCELACIÓN DE LAS ADJUDICACIONES
 
 ###### Artículo 182.
 
@@ -2192,6 +2222,10 @@ V. La garantía que se ofrece.
 ## TÍTULO DÉCIMO CUARTO. De la Gaceta Parlamentaria
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+### Capítulo Único
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 190.
 
@@ -2450,3 +2484,21 @@ SEGUNDO. Los vocales nombrados por las comisiones que integren el Comité al mom
 La representación del Órgano Interno de Control ante el Comité será ocupada hasta que se nombre al funcionario respectivo, en tanto, su asistencia no se computará para efectos de quórum ni de votación.
 
 TERCERO. Los procedimientos de adquisición en proceso, las bases y convocatorias realizados o emitidos antes de la publicación del presente decreto se regirán bajo las normas vigentes al momento de su celebración o emisión.
+
+P.O. 13 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26316/LXI/17 QUE REFORMA LOS ARTÍCULOS 55 Y 99, ADICIONA EL CAPÍTULO XII, DENOMINADO "CONTRALORÍA INTERNA" AL TÍTULO QUINTO Y LOS ARTÍCULOS 62-M, 62-N, Y 62-O, Y EL ACTUAL CAPÍTULO XII DEL TÍTULO QUINTO PASA A SER CAPÍTULO XIII, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO; Y SE DEROGA (SIC) LOS ARTÍCULOS 48, 49, 50, Y 51, Y ADICIONA EL CAPÍTULO X, DENOMINADO "PROCEDIMIENTO PARA ELEGIR AL CONTRALOR DEL CONGRESO", AL TÍTULO QUINTO, ASÍ COMO EL ARTÍCULO 54 BIS, TODOS DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco", sin perjuicio de lo señalado en el artículo segundo transitorio.
+
+SEGUNDO. Las reformas a los artículos 55 y 99 de la Ley Orgánica del Poder Legislativo del Estado, y por ende el traslado de las funciones relativas a los procedimientos de responsabilidad administrativa, que actualmente corresponde a la Comisión de Responsabilidades, con el auxilio del Órgano Técnico de Responsabilidades, y que pasarán a la Contraloría Interna del Congreso, entrarán en vigor el día que determine la Asamblea del Congreso del Estado, mediante acuerdo legislativo, una vez nombrado el Contralor y que la Contraloría cuente con el personal y equipo necesario para hacerse cargo de dichas funciones.
+
+Dicho acuerdo legislativo deberá publicarse en el periódico oficial "El Estado de Jalisco".
+
+TERCERO. El Contralor del Congreso deberá ser electo por primera ocasión, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto.
+
+CUARTO. El personal de apoyo administrativo y técnico de la Contraloría del Congreso deberá ser designado preferentemente de entre los servidores públicos en funciones del Poder Legislativo.
+
+La Secretaría General del Congreso deberá proveer el espacio de oficina y el equipamiento necesario para el funcionamiento de la Contraloría, preferentemente de entre los bienes con que cuente el Congreso.
+
+QUINTO. El Contralor del Congreso deberá presentar un proyecto de reglamentación interna de la Contraloría a la Asamblea, con posterioridad a que quede aprobada la reforma legal del Sistema Estatal Anticorrupción.
