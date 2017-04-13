@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2017-03-16"
+last_updated: "2017-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2017.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -915,15 +915,21 @@ V. No haber sido condenado por delito intencional que amerite pena de privación
 
 1. El Órgano Técnico de Responsabilidades tiene las siguientes atribuciones:
 
-I. Recibir las ratificaciones de denuncias que sobre responsabilidades de los servidores públicos se presenten al Congreso del Estado y turnarlas a la Asamblea, quien a su vez lo turne a la comisión respectiva;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2017)</small>
 
-II. Analizar las denuncias que la Comisión de Responsabilidades le encomiende, e informar a la citada Comisión sobre las mismas;
+I. Recibir las ratificaciones de denuncias que sobre juicios políticos que (sic) se presenten al Congreso del Estado y turnarlas a la Asamblea, quien a su vez lo turne a la comisión respectiva;
 
-III. Formular, para la Comisión de Responsabilidades, proyectos de dictámenes en materia de responsabilidad de servidores públicos;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2017)</small>
+
+II. Analizar las denuncias de juicio político que la Comisión de Responsabilidades le encomiende, e informar a la citada Comisión sobre las mismas;
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2017)</small>
+
+III. Formular, para la Comisión de Responsabilidades, proyectos de dictámenes en materia de juicios políticos;
 
 IV. Solicitar, previa autorización de la Comisión de Responsabilidades, la información relativa a las declaraciones de situación patrimonial de los servidores públicos de la competencia del Congreso del Estado, evaluándolas y dictaminando sobre su cumplimiento e improcedencia;
 
-V. Realizar los procedimientos administrativos en contra de los servidores públicos del Congreso del Estado por omisiones en el cumplimiento de la obligación de presentar declaración patrimonial;
+V. (DEROGADA, P.O. 13 DE ABRIL DE 2017)
 
 VI. Recibir, revisar, resguardar y en su caso remitir a la Comisión de Responsabilidades la información relativa a las declaraciones de situación patrimonial que le sean solicitadas; y
 
@@ -1311,13 +1317,81 @@ X. Recibir las quejas que presenten los sujetos fiscalizables y darles cauce leg
 
 XI. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias.
 
-(REUBICADO [N. DE E. ANTES CAPÍTULO XI], P.O. 10 DE FEBRERO DE 2011)
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE ABRIL DE 2017)</small>
 
-### CAPÍTULO XII. De las Propuestas de los Órganos Auxiliares
+### CAPÍTULO XII. Contraloría Interna
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+Artículo 62 M.
+
+1. La Contraloría es el Órgano Interno de Control del Congreso del Estado, con plena autonomía técnica y de gestión, y de nivel jerárquico de dirección, que depende de la Asamblea y auxilia a la misma en el control, investigación, substanciación y resolución, de las quejas y denuncias de procedimientos de responsabilidad o corrupción de los servidores públicos con motivo del desempeño de sus funciones en el Congreso del Estado.
+
+2. La Contraloría en ejercicio de sus actuaciones se sujetará a los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público.
+
+3. El titular de la Contraloría Interna deberá ser nombrado por la Asamblea mediante votación calificada de los presentes, a propuesta que haga la Junta de Coordinación Política. Durará en el cargo cuatro años y no podrá ser reelecto. Sólo, podrá ser removido por causa justificada con la mayoría exigida para su nombramiento.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+Artículo 62 N.
+
+1. Para ser designado Contralor del Congreso del Estado se requiere:
+
+I. Tener cuando menos treinta años cumplidos y estar en pleno goce de sus derechos;
+
+II. Poseer al día de su designación, con antigüedad mínima de cinco años, título profesional de licenciatura en contaduría pública, derecho, abogado, administración pública o economía; expedido por institución legalmente facultada para ello;
+
+III. Tener título profesional registrado en la Dirección de Profesiones del Estado;
+
+IV. Acreditar conocimientos en materia de auditoría o responsabilidades, mediante la aprobación del examen de conocimientos, en los términos que señale el reglamento y la convocatoria;
+
+V. Tener, al momento de su designación, experiencia mínima de tres años en materia de auditoría o responsabilidades;
+
+VI. No ser miembro de la dirigencia nacional, estatal o municipal de un partido político, ni haber sido candidato a cargos de elección popular en los últimos cuatro años previos a la convocatoria;
+
+VII. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
+
+VIII. No tener al momento de su designación conflicto de interés, parentesco de consanguinidad en línea recta o colateral hasta el cuarto grado, ni de afinidad, con ningún integrante de la Asamblea.
+
+2. Durante el ejercicio de su encargo, el titular no podrá militar o formar parte activa de partido político alguno, ni asumir otro empleo, cargo o comisión, salvo los desempeñados en asociaciones científicas, docentes, artísticas o de beneficencia.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2017)</small>
+
+Artículo 62 O.
+
+1. La Contraloría tiene las siguientes atribuciones:
+
+I. Recibir las quejas o denuncias presentadas en contra de los servidores públicos del Congreso del Estado por actos de posible responsabilidad administrativa, abrir el expediente y calificar su gravedad de conformidad con las leyes generales y estatales en materia de responsabilidad administrativa;
+
+II. Investigar los actos de posible responsabilidad administrativa de los servidores públicos del Congreso del Estado y elaborar el informe correspondiente;
+
+III. Sustanciar los procedimientos de responsabilidad administrativa en contra de servidores públicos del Congreso del Estado;
+
+IV. Resolver los procedimientos de responsabilidad administrativa, en faltas no graves, de acuerdo con las leyes general y estatal en la materia y demás legislación aplicable y comunicar dicha resolución a la Comisión de Administración y al Secretario General, o remitir al Tribunal de Justicia Administrativa el expediente de las faltas administrativas graves debidamente sustanciado, para efectos de resolución;
+
+V. Intervenir en los procedimientos de entrega-recepción del Congreso del Estado, conforme a la normativa en la materia;
+
+VI. Entregar a la Presidencia de la Mesa Directiva en el mes de febrero un informe anual de sus actividades el cual deberá ser remitido a la Asamblea dentro de los siguientes treinta días siguientes (sic) a la recepción, para su conocimiento y valoración;
+
+VII. Presentar las denuncias correspondientes ante el Ministerio Público competente, en los casos en que, derivado de sus investigaciones, acontezca la presunta comisión de delitos;
+
+VIII. Proponer al Secretario General, como resultado de las investigaciones que realice, mejoras en los procesos administrativos del Congreso;
+
+IX. Elaborar su programa de trabajo anual y presentarlo a la Asamblea para su aprobación, dentro del mes de diciembre del año anterior a su aplicación;
+
+X. Participar en el Sistema Estatal de Compras Gubernamentales, Enajenaciones y Contratación de Servicios, en los términos de la legislación estatal en materia de compras gubernamentales, enajenaciones y contrataciones; y
+
+XI. Las demás que le concedan la legislación federal y estatal aplicable.
+
+2. En ningún caso podrán reunirse en los mismos servidores públicos las facultades de investigación con las de substanciación y resolución en materia de responsabilidad administrativa de los servidores públicos.
+
+3. El Contralor, además de representar legalmente a la Contraloría y mantener relaciones técnicas con la Auditoría Superior del Estado, podrá delegar por escrito sus funciones en forma general o especial a los servidores públicos subalternos, con excepción de la facultad de resolución.
+
+> <small>(N. DE E. ANTES CAPÍTULO XII, P.O. 13 DE ABRIL DE 2017)</small>
+
+### CAPÍTULO XIII. De las Propuestas de los Órganos Auxiliares
 
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-### CAPÍTULO I. Comisiones Legislativas
 
 ###### Artículo 63.
 
@@ -1325,7 +1399,7 @@ XI. Las demás que le atribuyan expresamente las disposiciones legales y reglame
 
 ## TÍTULO SEXTO. COMISIONES LEGISLATIVAS Y COMITÉS
 
-### CAPÍTULO II. Procedimiento En Comisiones Legislativas
+### CAPÍTULO I. Comisiones Legislativas
 
 ###### Artículo 64.
 
@@ -2157,7 +2231,7 @@ II. Las políticas, planes y programas que se celebren para la conservación, pr
 
 I. Los juicios políticos, de acuerdo con la ley aplicable;
 
-II. Los procedimientos de responsabilidad administrativa, de acuerdo con la Ley de Responsabilidades de los Servidores Públicos;
+II. (DEROGADA, P.O. 13 DE ABRIL DE 2017)
 
 III. El estudio y dictamen de los supuestos de incumplimiento de la obligación de presentar la declaración de situación patrimonial;
 
@@ -2309,7 +2383,7 @@ XIX. La legislación en materia de fiscalización, cuenta pública y rendición 
 
 XX. Las demás que establezca esta ley y otras disposiciones legales aplicables.
 
-### CAPÍTULO III. Comités
+### CAPÍTULO II. Procedimiento En Comisiones Legislativas
 
 ###### Artículo 104.
 
@@ -2477,7 +2551,7 @@ La mayoría de los vocales de una comisión pueden convocar a sesión con las fo
 
 1. Los presidentes de las comisiones deben informar al Comité de Proceso Legislativo, de las ausencias de los diputados a las reuniones de trabajo, siempre que las faltas sean injustificadas.
 
-### CAPÍTULO I. Forma y Periodicidad de las Sesiones
+### CAPÍTULO III. Comités
 
 ###### Artículo 117.
 
@@ -2575,7 +2649,7 @@ IV. Los planes, programas y convenios con otros Congresos y cuerpos parlamentari
 
 ## TÍTULO SÉPTIMO. SESIONES
 
-### CAPÍTULO II. Ceremonial
+### CAPÍTULO I. Forma y Periodicidad de las Sesiones
 
 ###### Artículo 125.
 
@@ -2677,7 +2751,7 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 1. Las sesiones del Congreso del Estado son públicas, por regla general, salvo aquellas que por causas justificadas y previo acuerdo de la Asamblea, se celebren de forma reservada, es decir, sin permitir el acceso al público, ni a los servidores públicos del Congreso del Estado, a excepción del Secretario General y del personal administrativo que éste último autorice.
 
-### CAPÍTULO III. Salón de Sesiones
+### CAPÍTULO II. Ceremonial
 
 ###### Artículo 134.
 
@@ -2711,7 +2785,7 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 2. De igual forma, siempre se destina un lugar especial en el Recinto a los magistrados del Poder Judicial, a los consejeros de la Comisión Estatal de Derechos Humanos y del Instituto Electoral y de Participación Ciudadana, a los secretarios de despacho, a los titulares de los organismos públicos descentralizados, a los representantes de los ayuntamientos de la entidad, a los representantes militares y a los integrantes de los cuerpos diplomático y consular.
 
-### CAPÍTULO I. Disposiciones Preliminares
+### CAPÍTULO III. Salón de Sesiones
 
 ###### Artículo 140.
 
@@ -2737,7 +2811,7 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 ## TÍTULO OCTAVO. PROCEDIMIENTO LEGISLATIVO ORDINARIO
 
-### CAPÍTULO II. Iniciativas
+### CAPÍTULO I. Disposiciones Preliminares
 
 ###### Artículo 145.
 
@@ -2751,7 +2825,7 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 1. Las decisiones del Congreso del Estado que, para su validez y eficacia plenas requieren ser sancionadas, promulgadas y publicadas por el Ejecutivo, no generan obligación o derecho alguno en tanto no se efectúen tales condiciones, salvo lo establecido por el último párrafo del artículo 33 de la Constitución Política del Estado.
 
-### CAPÍTULO III. Dictámenes
+### CAPÍTULO II. Iniciativas
 
 ###### Artículo 147.
 
@@ -2861,7 +2935,7 @@ III. Disposiciones transitorias.
 
 2. Las leyes y decretos deben ser publicados por el Gobernador del Estado en el Periódico Oficial "El Estado de Jalisco", en los plazos que señala la ley.
 
-### CAPÍTULO IV. Lecturas de dictámenes
+### CAPÍTULO III. Dictámenes
 
 ###### Artículo 157.
 
@@ -2919,7 +2993,7 @@ III. Parte Resolutiva que es la propuesta que se pone a consideración de la Asa
 
 7. Concluido el asunto la Secretaría General dispondrá que se hagan las anotaciones pertinentes en su registro electrónico y causará baja como carga de trabajo de las comisiones.
 
-### CAPÍTULO V. Discusiones
+### CAPÍTULO IV. Lecturas de dictámenes
 
 ###### Artículo 161.
 
@@ -2955,7 +3029,7 @@ III. Parte Resolutiva que es la propuesta que se pone a consideración de la Asa
 
 4. Aprobada la moción, el dictamen se presenta a la Asamblea y se procede a su discusión y a su votación.
 
-### CAPÍTULO VI. Mociones
+### CAPÍTULO V. Discusiones
 
 ###### Artículo 166.
 
@@ -3105,7 +3179,7 @@ IV. Si el voto particular es parcial y el dictamen es rechazado por la Asamblea,
 
 1. Lo preceptuado por este capítulo, se aplica en lo conducente a las demás discusiones que se presenten durante el desarrollo de las sesiones.
 
-### CAPÍTULO VII. Votaciones
+### CAPÍTULO VI. Mociones
 
 ###### Artículo 187.
 
@@ -3153,7 +3227,7 @@ XI. Las demás que se señalen en esta ley y su reglamento.
 
 1. La moción de orden, en el supuesto de que algún diputado esté en el uso de la voz, se regula de conformidad con lo establecido en la presente ley.
 
-### CAPÍTULO VIII. Minutas
+### CAPÍTULO VII. Votaciones
 
 ###### Artículo 191.
 
@@ -3237,7 +3311,7 @@ I. Empieza por el Secretario situado a la derecha del Presidente y sigue en el s
 
 6. Para los casos de los párrafos 2, 3 y 4 del presente artículo, se entiende que es cuando menos la cantidad señalada.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO VIII. Minutas
 
 ###### Artículo 204.
 
@@ -3307,7 +3381,7 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 ## TÍTULO NOVENO. PROCEDIMIENTOS ESPECIALES
 
-### CAPÍTULO II. Procedimiento en Caso de Observaciones Formuladas por el Gobernador del Estado
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 210.
 
@@ -3325,7 +3399,7 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 1. Cualquier procedimiento relativo al Congreso del Estado establecido en otro ordenamiento legal se regula conforme a esa ley, y en todo lo no previsto, por este título y por el procedimiento legislativo ordinario.
 
-### CAPÍTULO III. Expedición del Bando Solemne que declara Gobernador Electo
+### CAPÍTULO II. Procedimiento en Caso de Observaciones Formuladas por el Gobernador del Estado
 
 ###### Artículo 213.
 
@@ -3343,7 +3417,7 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 2. Cuando el Congreso del Estado acepte en su totalidad las observaciones realizadas por el Ejecutivo, la aprobación debe realizarse por mayoría simple.
 
-### CAPÍTULO IV. Designación de Gobernador Interino o Sustituto
+### CAPÍTULO III. Expedición del Bando Solemne que declara Gobernador Electo
 
 ###### Artículo 216.
 
@@ -3357,9 +3431,7 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 3. La declaratoria a que se refiere el presente artículo debe publicarse en el Periódico Oficial "El Estado de Jalisco".
 
-### CAPÍTULO V. Elección o Ratificación de Servidores Públicos de la competencia del Congreso del Estado
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+### CAPÍTULO IV. Designación de Gobernador Interino o Sustituto
 
 ###### Artículo 217.
 
@@ -3369,7 +3441,9 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 1. En el caso de dictámenes relativos a proyectos de decreto sobre la designación de Gobernador Interino o Sustituto, la Mesa Directiva, en atención a la urgencia, puede establecer la agenda para su aprobación, mediante la dispensa de trámites y el estrechamiento de términos.
 
-### CAPÍTULO VI. Glosa del Informe
+### CAPÍTULO V. Elección o Ratificación de Servidores Públicos de la competencia del Congreso del Estado
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 219.
 
@@ -3387,7 +3461,7 @@ II. La Asamblea, la Mesa Directiva y la comisión o comisiones responsables est�
 
 2. En caso de que no se alcance la votación requerida para efectuar la elección, o en su caso ratificación, de los servidores públicos, la comisión competente debe actuar conforme a lo establecido en la Constitución Política del Estado y las leyes aplicables.
 
-### CAPÍTULO VII. Substanciación Del Trámite Para La Desintegración De Ayuntamientos Y Suspensión O Revocación Del Mandato A Alguno De Sus Miembros
+### CAPÍTULO VI. Glosa del Informe
 
 ###### Artículo 221.
 
@@ -3407,9 +3481,7 @@ II. La Asamblea, la Mesa Directiva y la comisión o comisiones responsables est�
 
 2. Las evaluaciones, análisis y conclusiones a que se refiere este artículo, son enviadas a la comisión competente para su examen, especialmente durante el proceso de estudio de la iniciativa del Presupuesto de Egresos del Estado de Jalisco.
 
-### CAPÍTULO VIII. De la Creación de Municipios
-
-> <small>(REFORMADO Y REUBICADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+### CAPÍTULO VII. Substanciación Del Trámite Para La Desintegración De Ayuntamientos Y Suspensión O Revocación Del Mandato A Alguno De Sus Miembros
 
 ###### Artículo 224.
 
@@ -3479,9 +3551,9 @@ REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2012)
 
 (ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2009) (F. D E., P.O. 12 DE JUNIO DE 2010)
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VIII. De la Creación de Municipios
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 233.
 
@@ -3958,6 +4030,10 @@ VII. Sinopsis histórica del nuevo municipio.
 1. Los decretos de creación municipal será impugnable (sic) ante el Tribunal de lo Administrativo del Poder Judicial por los ayuntamientos o diversa entidad pública con interés jurídico y por los Comités ciudadanos integrados conforme a esta ley.
 
 ## TÍTULO DÉCIMO. INFRACCIONES Y SANCIONES
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 287.
 
@@ -4502,3 +4578,21 @@ P.O. 16 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26296/LXI/17 QUE REFORMA LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO SEGUNDO Y LOS ARTÍCULOS 4º, 5º, 6º, 22A Y 22B; Y SE ADICIONA UN CAPÍTULO V AL TÍTULO TERCERO Y LOS ARTÍCULOS 34A, 34B Y 34C, DE LA LEY DE TURISMO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, Y REFORMA EL ARTÍCULO 102 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 13 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26316/LXI/17 QUE REFORMA LOS ARTÍCULOS 55 Y 99, ADICIONA EL CAPÍTULO XII, DENOMINADO "CONTRALORÍA INTERNA" AL TÍTULO QUINTO Y LOS ARTÍCULOS 62-M, 62-N, Y 62-O, Y EL ACTUAL CAPÍTULO XII DEL TÍTULO QUINTO PASA A SER CAPÍTULO XIII, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO; Y SE DEROGA LOS ARTÍCULOS 48, 49, 50, Y 51, Y ADICIONA EL CAPÍTULO X, DENOMINADO "PROCEDIMIENTO PARA ELEGIR AL CONTRALOR DEL CONGRESO", AL TÍTULO QUINTO, ASÍ COMO EL ARTÍCULO 54 BIS, TODOS DEL REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco" sin perjuicio de lo señalado en el artículo segundo transitorio.
+
+SEGUNDO. Las reformas a los artículos 55 y 99 de la Ley Orgánica del Poder Legislativo del Estado, y por ende el traslado de las funciones relativas a los procedimientos de responsabilidad administrativa, que actualmente corresponde a la Comisión de Responsabilidades, con el auxilio del Órgano Técnico de Responsabilidades, y que pasarán a la Contraloría Interna del Congreso, entrarán en vigor el día que determine la Asamblea del Congreso del Estado, mediante acuerdo legislativo, una vez nombrado el Contralor y que la Contraloría cuente con el personal y equipo necesario para hacerse cargo de dichas funciones.
+
+Dicho acuerdo legislativo deberá publicarse en el periódico oficial "El Estado de Jalisco".
+
+TERCERO. El Contralor del Congreso deberá ser electo por primera ocasión, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto.
+
+CUARTO. El personal de apoyo administrativo y técnico de la Contraloría del Congreso deberá ser designado preferentemente de entre los servidores públicos en funciones del Poder Legislativo.
+
+La Secretaría General del Congreso deberá proveer el espacio de oficina y el equipamiento necesario para el funcionamiento de la Contraloría, preferentemente de entre los bienes con que cuente el Congreso.
+
+QUINTO. El Contralor del Congreso deberá presentar un proyecto de reglamentación interna de la Contraloría a la Asamblea, con posterioridad a que quede aprobada la reforma legal del Sistema Estatal Anticorrupción.
