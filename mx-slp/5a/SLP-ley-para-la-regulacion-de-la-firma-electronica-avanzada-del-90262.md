@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-regulacion-de-la-firma-electronica-avanzada-del-902
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-16"
-last_updated: "2014-12-18"
+last_updated: "2017-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,701 +21,1119 @@ state: "SLP"
 ---
 # LEY PARA LA REGULACION DE LA FIRMA ELECTRONICA AVANZADA DEL ESTADO DE SAN LUIS POTOSI
 
-LEY PARA LA REGULACIÓN DE LA FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE SAN LUIS POTOSÍ
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2014.
+LEY DE SALUD MENTAL DEL ESTADO DE YUCATÁN
 
-Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de octubre de 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE JULIO DE 2024.
 
-Dr. Fernando Toranzo Fernández, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
+Ley publicada en el Suplemento al Número 33,665 del Diario Oficial del Estado de Yucatán, el lunes 27 de agosto de 2018.
 
-Decreto 1163
+Decreto 643/2018 por el que se emite la Ley de Salud Mental del Estado de Yucatán
 
-LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA
+Rolando Rodrigo Zapata Bello, gobernador del estado de Yucatán, con fundamento en los artículos 38, 55, fracción II, y 60 de la Constitución Política del Estado de Yucatán; y 14, fracciones VII y IX, del Código de la Administración Pública de Yucatán, a sus habitantes hago saber, que el H. Congreso del Estado de Yucatán se ha servido dirigirme el siguiente decreto:
 
-EXPOSICION DE MOTIVOS.
+“EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 29 Y 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA, 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, 117 Y 118 DEL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, TODOS DEL ESTADO DE YUCATÁN, EMITE EL SIGUIENTE:
 
-Ahora bien, para que una firma electrónica avanzada pueda tener validez debe estar certificada por la autoridad correspondiente o en su caso, por el prestador de servicios de certificación. El certificado es el documento o registro informático que contiene información mínima sobre el titular de la firma electrónica avanzada.
+EXPOSICIÓN DE MOTIVOS:
 
-LEY PARA LA REGULACIÓN DE LA FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE SAN LUIS POTOSÍ
+[…]
 
-### CAPITULO I. De las Disposiciones Generales
+Por todo lo anterior expuesto y fundado, los diputados integrantes de esta Comisión Permanente nos pronunciamos a favor de que se apruebe la Ley de Salud Mental del Estado de Yucatán. En tal virtud, con fundamento en los artículos 30 fracción V de la Constitución Política; 18 y 43 fracción IX inciso a) de la Ley de Gobierno del Poder Legislativo, y 71 fracción II del Reglamento de la Ley de Gobierno del Poder Legislativo, todos los ordenamientos del Estado de Yucatán, sometemos a consideración del Pleno del Congreso del Estado de Yucatán, el siguiente proyecto de:
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2014)</small>
+Ley de Salud Mental del Estado de Yucatán
 
-###### ARTICULO 1°.
+### Capítulo I. Disposiciones Generales
 
-Esta Ley es de orden público e interés general en el Estado de San Luis Potosí, y tiene por objeto regular la implementación y uso de la firma electrónica avanzada
+###### Artículo 1.
 
-###### ARTICULO 2°.
+La presente Ley es de orden público, interés social, aplicable en el Estado de Yucatán y tiene como finalidad regular las bases que garanticen el fomento, la promoción y preservación de la salud mental, así como la evaluación, diagnóstico, tratamiento digno y rehabilitación de personas con trastornos mentales que reciban servicios en instituciones de salud pública, privada y social del Estado de Yucatán.
 
-Son sujetos obligados de esta Ley:
+###### Artículo 2.
 
-I. El Poder Ejecutivo, y su administración pública paraestatal;
+La presente Ley tiene por objeto:
 
-II. El Poder Legislativo;
+I.- Garantizar el fomento, promoción y preservación de la salud mental en la población del estado;
 
-III. El Poder Judicial;
+II.- Promover y garantizar el respeto y la protección efectiva de los derechos humanos de las personas con trastornos mentales en el estado de Yucatán;
 
-IV. Los ayuntamientos, dependencias y entidades paramunicipales, o intermunicipales;
+III.- Regular las bases y modalidades, que garanticen el acceso a los servicios de salud mental en el Estado de Yucatán, con un enfoque integral, de calidad en la atención, amplia cobertura y respeto a los derechos humanos.
 
-V. Los organismos constitucionales autónomos previstos en la Constitución Política del Estado de San Luis Potosí, y
+IV.- Establecer los mecanismos adecuados para la promoción de la salud mental, así como la prevención, diagnóstico temprano, tratamiento oportuno y rehabilitación de los pacientes con trastornos mentales en instituciones de los sectores público, privado y social, que brinden servicios de salud mental o coadyuven en la prestación de estos en el estado de Yucatán;
 
-VI. Las personas físicas o morales que decidan utilizar la firma electrónica avanzada y sus servicios relacionados con la misma, en los términos de la presente Ley.
+V.- Definir los mecanismos y lineamientos para promover la participación de la ciudadana (sic), en el desarrollo de los programas de salud mental en el Estado de Yucatán;
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2014)</small>
+VI.- Promover la erradicación de los prejuicios y estigmas contra las personas que padecen trastornos mentales;
 
-Los sujetos mencionados en las fracciones I a V, aplicarán los criterios y procedimientos previstos en esta Ley, en el ámbito de su respectiva competencia, al implementar el uso de la firma electrónica avanzada y los servicios conexos.
+VII.- Ampliar la cobertura de los servicios de salud mental en el Estado de Yucatán;
 
-###### ARTICULO 3°.
+VIII.- Los demás que señalen otras leyes y disposiciones aplicables.
 
-Para los efectos de esta Ley, se entenderá por:
+###### Artículo 3.
 
-I. Acuse de Recibo: Toda comunicación generada por el sistema de información del destinatario, automatizada o no, que basta al emisor que se ha recibido el mensaje de datos o el documento electrónico;
+La salud mental, se define como el estado de bienestar que una persona experimenta como resultado de su buen funcionamiento cognitivo, afectivo, conductual, y, en última instancia, al despliegue óptimo de sus potencialidades individuales para la convivencia, el trabajo y la recreación, que le permite una forma de vida productiva capaz de hacer una contribución a su comunidad.
 
-II. Autoridad Certificadora: La dependencia o instancia de gobierno que le corresponde otorgar, revocar, suspender, o extinguir, los certificados de firma electrónica avanzada y las autorizaciones de prestación de servicios de certificación;
+###### Artículo 4.
 
-III. Certificado de Firma Electrónica Avanzada: El documento emitido y firmado electrónicamente por la autoridad certificadora, o por el prestador de servicios de certificación, mediante el cual se confirma el vínculo existente entre el titular y su firma electrónica avanzada;
+El Gobierno del Estado, las Secretarías e instituciones públicas y sociales en el ámbito de sus respectivas competencias, tienen la obligación de garantizar el cumplimiento del derecho a la salud mental, mediante una política transversal, con respeto a los derechos humanos y con un enfoque de género e interculturalidad.
 
-IV. Código Único de Identificación: Es el conjunto de caracteres que se utiliza para identificar al titular de la firma electrónica avanzada. Es asignado por la autoridad certificadora, para confeccionar el registro o censo de las mismas;
+###### Artículo 5.
 
-V. Datos de Creación de la Firma Electrónica Avanzada o Clave Privada: Los caracteres únicos que el titular genera con cualquier tecnología de manera secreta y utiliza para codificar la firma electrónica avanzada, a fin de lograr un vínculo entre él y citada firma;
+Para efectos de la presente Ley, se entenderá por:
 
-VI. Datos de Verificación de Firma Electrónica Avanzada o Clave Pública: Los caracteres, como códigos o claves criptográficas, que se utilizan para identificar la firma electrónica avanzada;
+I. Ley: Ley de Salud Mental del Estado de Yucatán.
 
-VII. Destinatario: La persona designada por el titular para recibir el mensaje de datos o documento electrónico;
+II. Ley General: Ley General de Salud.
 
-VIII. Dispositivo de Creación de Firma Electrónica Avanzada: El programa o sistema informático que sirve para aplicar los actos de creación de la firma;
+III. Secretaria: la Secretaria de Salud y Servicios de Salud de Yucatán.
 
-IX. Dispositivo de Verificación de Firma Electrónica Avanzada: El programa o sistema informático que sirve para aplicar los actos de verificación de la firma;
+IV. Titular de la Secretaria: el Secretario de Salud y Director de los Servicios de Salud de Yucatán.
 
-X. Documento electrónico: Todo soporte que contenga información con caracteres alfanuméricos, en formato de video, imagen, audio, o cualquier otro formato tecnológicamente disponible, que pueda ser transmitido a través de medios electrónicos;
+V. Consejo: Consejo de Salud Mental del Estado de Yucatán.
 
-XI. Emisor: La persona que actúa, a título propio, y envía, o genera, un mensaje de datos o un documento electrónico;
+VI. Instituto: Instituto de Salud Mental del Estado de Yucatán.
 
-XII. Encriptamiento: Medida de seguridad o de protección, mediante algoritmos complejos, que es usada para almacenar o transferir información que no debe ser accesible a terceros;
+VII. Programa Estatal: Programa de Salud Mental del Estado de Yucatán.
 
-XIII. Fecha Electrónica: El conjunto de datos en forma electrónica, utilizados como medio para constatar la fecha y hora en que un mensaje de datos, o documento electrónico, es enviado por el titular, o recibido por el destinatario;
+VIII. Derecho a la salud mental: Es la garantía de toda persona al bienestar psíquico y físico y de un tratamiento digno e integral de ser necesario, con el propósito de una óptima integración social, para lo cual el Gobierno del estado tiene la obligación de planear, operar y supervisar las acciones a las que se refiere la presente ley.
 
-XIV. Firma Electrónica Avanzada: Conjunto de datos y caracteres electrónicos que identifican inequívocamente al emisor de la misma como autor legítimo de ésta, con valor y efectos jurídicos a los de la firma autógrafa;
+IX. Enfoque o perspectiva de género en la atención a la salud mental: a la consideración de que mujeres y hombres presentan diferencias biológicas, poder y control desigual sobre los determinantes socioeconómicos de sus vidas y su salud mental, su posición y condición social, el modo en que son tratados dentro de la sociedad y su susceptibilidad y exposición a riesgos específicos para la salud mental.
 
-XV. Medios Electrónicos: Son los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas o de cualquier otro instrumento o tecnología;
+X. Interculturalidad: Es un proceso respetuoso de relación horizontal entre el personal de salud, las personas usuarias y otros actores involucrados, que permite comprender e incorporar en la atención la forma de percibir la realidad y el mundo del otro, a través del diálogo, el reconocimiento y el respeto a sus particularidades culturales.
 
-XVI. Mensaje de Datos: Es la información generada, enviada, recibida o archivada por medios electrónicos, ópticos, o cualquier otra tecnología y en general, por cualquier documento que se encuentre en soporte electrónico y firmado electrónicamente;
+XI. Fomento a la salud mental: a varias actuaciones orientadas a lograr un cambio profundo de las barreras estructurales y de actitud para así alcanzar unos resultados positivos en la salud mental de la población. Concepto desarrollado para promover los derechos humanos de las personas con trastornos mentales y para reducir el estigma y la discriminación. Comprende acciones como: aumento de la conciencia social, información, educación, formación, apoyo mutuo, asesoramiento, mediación, defensa y denuncia.
 
-XVII. Prestador de Servicios de Certificación: Es la persona física o moral, autorizada por la autoridad certificadora para expedir certificados de firma electrónica avanzada;
+XII. Promoción a la salud mental: a varias actuaciones orientadas a lograr un cambio profundo de las barreras estructurales y de actitud para así alcanzar unos resultados positivos en la salud mental de la población. Concepto desarrollado para promover los derechos humanos de las personas con trastornos mentales y para reducir el estigma y la discriminación. Comprende acciones como: aumento de la conciencia social, información, educación, formación, apoyo mutuo, asesoramiento, mediación, defensa y denuncia.
 
-XVIII. Registros de Certificados de Firma Electrónica Avanzada: Son los padrones que integran la información relativa a los certificados de firma electrónica avanzada, expedidos por las autoridades certificadoras o por los prestadores de servicios de certificación;
+XIII. Trastorno Mental: Afectación de la salud mental de una persona, debido a la presencia de un comportamiento derivado de un grupo de signos y síntomas identificables en la práctica clínica, que en la mayoría de los casos se acompaña de malestar e interfiere en las actividades cotidianas del individuo y su entorno.
 
-XIX. Registro Público de Prestadores de Servicios de Certificación: Es una base de datos a nivel estatal, que tiene como propósito otorgar seguridad jurídica a los actos relacionados con la firma electrónica avanzada y que contiene la información relativa a los prestadores de servicios de certificación;
+XIV. Tratamiento: diseño, planeación, instrumentación y conducción de estrategias médicas, psiquiátricas, farmacológicas, psicológicas y sociales encaminadas a restaurar, mejorar o mantener la calidad de vida de la persona que presenta algún trastorno mental.
 
-XX. Sello electrónico: El mensaje de datos que acredita que un documento electrónico fue recibido por el destinatario y estará sujeto a la misma regulación aplicable al uso de la firma electrónica avanzada;
+XV. Tratamiento psiquiátrico: diseño, planeación, instrumentación y conducción de estrategias médicas, psiquiátricas, farmacológicas, psicológicas y sociales encaminadas a restaurar, mejorar o mantener la calidad de vida de la persona que presenta algún trastorno mental.
 
-XXI. Sistemas de Información: Son aquellos programas diseñados para enviar, recibir, capturar, almacenar, custodiar, reproducir, administrar y trasmitir la información de los mensajes de datos o documentos electrónicos, y
+XVI. Familiar: persona con parentesco o consanguinidad o afinidad civil con la persona con algún trastorno mental y usuaria de los servicios de salud mental.
 
-XXII. Titular: Es la persona propietaria de la firma electrónica avanzada conforme al certificado respectivo.
+XVII. Acompañante terapéutico: al personal capacitado que se inserta en la cotidianeidad de la persona usuaria de los servicios de salud mental y trabaja dentro de un equipo interdisciplinario para facilitar la operación y funcionamiento de estos servicios. Su función es la de compañero/a, guía y sostén de la persona usuaria, con el fin de facilitar la construcción y/o continuidad del lazo social, instauración de actitudes positivas, así como su integración social, el fortalecimiento de sus capacidades y los rasgos positivos de la personalidad.
 
-###### ARTICULO 4°.
+XVIII. Psicoterapia: conjunto de métodos y recursos utilizados para el tratamiento psicológico de las personas, mediante los cuales interacciona la persona usuaria y el especialista en la materia con el propósito de promover la adaptación al entorno, la salud física o psíquica, la integridad de la identidad psicológica, el bienestar de las personas y el mejoramiento de su calidad de vida.
 
-Para el uso y aplicación de la firma electrónica avanzada se deberán observar los principios de:
+XIX. Rehabilitación Psicosocial: conjunto de procedimientos dirigidos a las personas usuarias de los servicios de salud mental, los cuales se ocupan de la evolución del trastorno mental y de aquellos factores como la calidad de las relaciones interpersonales y el desempeño en la vida cotidiana. Su objetivo es mejorar la calidad de vida, para que el usuario en salud mental, pueda actuar en comunidad tan activamente como sea posible y de manera independiente en su entorno social.
 
-I. Autenticidad: Consistente en la certeza de que, el mensaje de datos o documento electrónico, ha sido emitido y proviene del titular y, por tanto, le es atribuible su contenido, así como las consecuencias jurídicas que del mismo deriven;
+XX. Primer nivel de atención: atención en unidades de primer contacto, públicas y privadas, que ofrecen servicios de promoción, prevención, detección y orientación a la población, así como consulta ambulatoria.
 
-II. Confiabilidad de la autoridad certificadora: Consiste en que la autoridad certificadora, transparentará sus prácticas para otorgar los certificados de firma electrónica avanzada y comprobar su adecuada aplicación, con el objeto de generar confianza y certeza de que los datos de identidad de un individuo han sido procesados y vigilados de tal forma que garantiza su fiabilidad;
+XXI. Segundo nivel de atención: atención en unidades públicas y privadas que ofrecen principalmente atención especializada ambulatoria y hospitalaria, así como intervención integral orientada a la recuperación y reintegración social de personas con trastornos mentales.
 
-III. Confidencialidad: Referente a que toda información generada, enviada o recibida, se encuentre resguardada y protegida de su acceso y distribución no autorizada;
+XXII. Tercer nivel de atención: atención hospitalaria y ambulatoria especializada otorgada a personas que cursan condiciones psiquiátricas de alta complejidad que requieren tratamiento especializado e interdisciplinario no disponible en el segundo nivel.
 
-IV. Equiparación: Consistente en la equivalencia funcional de la firma electrónica avanzada con la firma autógrafa y del mensaje de datos o documentos electrónicos con los documentos escritos;
+XXIII. Servicios de Salud de Yucatán: Organismo Público Descentralizado del Gobierno del Estado de Yucatán, dedicado a la operación de programas preventivos, así como a la atención médica y a la protección contra riesgos sanitarios.
 
-V. Integridad: Consiste en asegurar que la información no se altere, modifique o manipule desde su envío hasta su recepción
+XXIV. Modulo comunitario de salud mental: módulo de atención en salud mental del primer nivel de atención ubicado en todos los municipios donde no hay Centro Integral de Salud Mental y que se encarga de la promoción, prevención, detección, atención, primaria y referencia a un CISAME o al Hospital Psiquiátrico de Yucatán.
 
-VI. No repudio o rechazo: Se refiere a la posibilidad de exigir al emisor cumpla con su ofrecimiento plasmado en el mensaje de datos o documentos electrónicos. El destinatario sólo cumplirá con su parte en una transacción u ofrecimiento, cuando tenga la certeza de que el emisor, no podrá desconocer la emisión, transmisión, envío o contenido del mensaje de datos o documentos electrónicos;
+XXV. Red Estatal de Salud Mental: La estructura articulada de servicios de salud mental dentro del Sistema Estatal de Salud conformada por todas las unidades de salud, establecimientos asistenciales, de rehabilitación, hospitalarios y de investigación, públicos, privados y de organizaciones sociales de los diferentes niveles de atención, así como por los mecanismos de coordinación de acciones, a fin de dar cumplimiento al derecho a la salud mental en todo el territorio del Estado.
 
-VII. Recepción: Garantiza que surta efectos jurídicos, un mensaje de datos o documento electrónico, a partir de que cuenta con un acuse de recibo y con sello electrónico generado por el sistema de información del destinatario;
+XXVI. Centro Integral de Salud Mental (CISAME): es una unidad especializada de atención ambulatoria instalada en los municipios estratégicos de mayor población en el estado que proporciona servicios integrales orientados a la prevención y atención inmediata de cualquier trastorno mental, o en su caso, para referencia a unidades hospitalarias de las personas usuarias. Prestan también servicios de promoción de la salud mental y están conformados por equipos multidisciplinarios básicos que constan al menos, de un psiquiatra, un psicólogo clínico, un psicólogo especialista en psicoterapia, un trabajador social, un enfermero, admisión, farmacia y administrativos.
 
-VIII. Recuperación de claves: Considera la posibilidad de que el emisor o destinatario pierda o dañe su clave o sistema de información y la consiguiente pérdida de los datos codificados, y para lo cual, la autoridad competente favorezca, con las medidas de seguridad apropiadas, la recuperación a su titular de los mensajes de datos o documentos electrónicos;
+XXVII. Unidad de Psiquiatría en Hospital General: al servicio de atención médica ubicada en Hospitales Generales, la cual otorga servicios de hospitalización psiquiátrica breve y consulta externa.
 
-IX. No discriminación: Consiste en que, en los casos previstos por ésta Ley, para la utilización de los medios electrónicos, y de la firma electrónica avanzada, no podrán existir restricciones en el acceso a la prestación de servicios públicos, o cualquier trámite, o acto de autoridad, y
+XXVIII. Urgencia Psiquiátrica: condición en la cual la persona presenta signos y síntomas consistentes en una alteración del estado mental que pone en riesgo su vida y/o la de otros. Estos signos y síntomas pueden ser ideación o intento suicida, ideación homicida, incremento de síntomas depresivos o de ansiedad, psicosis, manía, trastornos cognitivos agudos, agitación psicomotriz, confusión, alucinaciones o cambios súbitos en el comportamiento.
 
-X. Neutralidad tecnológica: Consistente en que ningún método de firma electrónica avanzada podrá ser objeto de rechazo, en virtud de que se otorga a todas las tecnologías la misma oportunidad de satisfacer los requisitos establecidos en ésta Ley.
+XXIX. Discapacidad Psicosocial: Es aquella que padecen personas con
 
-###### ARTICULO 5°.
+"diagnóstico de trastorno mental" que han sufrido los efectos de factores sociales negativos, como el estigma, la discriminación y la exclusión.
 
-Quedan exceptuados de la aplicación de esta Ley, los actos, procedimientos, servicios y trámites para los cuales, la Constitución Política de los Estados Unidos Mexicanos; la Constitución Política del Estado Libre y Soberano de San Luis Potosí; y demás leyes que exijan la firma autógrafa por escrito, y cualquier otra formalidad que no sea susceptible de cumplirse por los medios señalados en esta Ley, o bien que requieran la concurrencia personal de los servidores públicos o de los particulares.
+XXX. Telepsiquiatría: a la rama de la telemedicina que brinda servicios de psiquiatría remotos o a distancia, mediante el uso de tecnologías de la información y comunicación electrónica, siendo la teleconferencia la herramienta más usada; el uso de la telepsiquiatría es importante para la desconcentración de la atención de salud mental y optimización de los recursos; también puede ser útil para la actualización en línea.
 
-Esta Ley tampoco será aplicable en los procedimientos seguidos ante tribunales u órganos jurisdiccionales en forma de juicio.
+XXXI. Programa de Acción Específico de Atención Psiquiátrica 2013-2018: al que establece los principales aspectos para avanzar en la atención comunitaria, integral y multidisciplinaria de la salud mental.
 
-###### ARTICULO 6°.
+XXXII. Programa de Acción Específico de Salud Mental 2013-2018: al que establece lineamientos y principios rectores en materia de salud mental; promueve la creación de nuevas estructuras de servicios de atención, prevención, hospitalización, rehabilitación, así como de reintegración social para todas las personas que padecen algún trastorno mental y del comportamiento a fin de brindar un servicio de atención integral, digno, oportuno, sin discriminación, de calidad, calidez, equidad y de respeto a los derechos humanos.
 
-A falta de disposición expresa de esta Ley, o en las demás disposiciones que de ella se deriven, se aplicarán supletoriamente la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí; el Código Civil del Estado; y el Código de Procedimientos Civiles del Estado o demás disposiciones aplicables a la materia del acto, procedimiento, servicio, o trámite de que se trate.
+XXXIII. Villas de Transición Hospitalaria: son áreas de estancia hospitalaria con la estructura de una casa común, donde las usuarias/os reciben atención integral médico-psiquiátrica las veinticuatro horas del día. Cuentan con área de talleres de rehabilitación, banco de reforzadores, salón de usos múltiples para las personas usuarias, unidades de atención médica de cuidados especiales, oficinas administrativas, áreas de urgencias y consulta externa.
 
-###### ARTICULO 7°.
+XXXIV. Hogares protegidos: a la instancia residencial alternativa, para personas con discapacidad de causa psíquica que no tienen las habilidades para vivir en forma independiente y no pueden ser atendidos por sus familias.
 
-Los sujetos previstos en las fracciones I, II, III, IV y V del artículo 2° de esta Ley, en los reglamentos respectivos, establecerán la forma, formalidades, modalidades y condiciones que deben observar los particulares en la presentación de solicitudes, promociones, trámites, actos y convenios que se realicen utilizando la firma electrónica avanzada. De la misma manera, los reglamentos establecerán el diseño de los formatos que se utilicen empleando la firma electrónica certificada.
+XXXV. Prevención de riesgos en salud mental: conjunto de acciones contenidas en los planes, programas, campañas y proyectos gubernamentales, nacionales e internacionales, con la finalidad de informar y educar a la población en relación a cualquier aspecto vinculado a la salud mental, e intervenir en las comunidades para evitar situaciones de riesgo y dar a conocer procedimientos con el propósito principal de preservar la calidad de vida.
 
-###### ARTICULO 8°.
+XXXVI. Reglamento: Reglamento de la Ley de Salud Mental del Estado de Yucatán.
 
-Los sujetos previstos en las fracciones I, II, III, IV, y V, del artículo 2° de ésta Ley, podrán celebrar convenios con autoridades de la Federación, de los Estados, de los municipios, o del Distrito Federal, para adherirse a los sistemas, instrumentos, y procedimientos, utilizados por éstos en el uso de la firma electrónica avanzada, así como para el otorgamiento y/o reconocimiento de certificados de firma electrónica avanzada, siempre que no se contravengan las disposiciones de esta Ley.
+###### Artículo 6.
 
-### CAPITULO II. De los Documentos Electrónicos y Mensajes de Datos
+Son principios de la Ley:
 
-ARTICULO 9° Los documentos o mensajes de datos que sean presentados por medios electrónicos que contengan la firma electrónica avanzada producirán, en términos de esta Ley, los mismos efectos jurídicos que los documentos firmados de manera autógrafa.
+I. La promoción de la Salud Mental y la prevención de los trastornos mentales como una prioridad para el Gobierno del estado de Yucatán
 
-###### ARTICULO 10.
+II. La universalidad en el acceso a una atención de calidad para todas las personas con trastornos mentales en el Estado, en condiciones de igualdad efectiva y no discriminación;
 
-Cuando los sujetos obligados en términos de esta Ley emitan alguna comunicación, o soliciten la prestación de servicios públicos, o promuevan cualquier trámite por medios electrónicos en hora o día inhábil, se tendrán por presentados en la primera hora hábil del día hábil siguiente. La misma regla aplicará para quienes presten el servicio en hora o día inhábil.
+III. La confidencialidad y la protección de los datos personales de los pacientes con trastornos mentales;
 
-Los documentos a que se refiere el párrafo anterior se tendrán por no presentados, cuando carezcan de la firma electrónica avanzada.
+IV. El trabajo multidisciplinario entre las instituciones del estado, y,
 
-###### ARTICULO 11.
+V. La cobertura amplia en los servicios de salud mental.
 
-Los mensajes de datos generados, enviados, recibidos o archivados por medios electrónicos o cualquier otra tecnología, tendrán plena validez y eficacia jurídica que la Ley otorga a los documentos.
+###### Artículo 7.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2014)</small>
+Además de los derechos fundamentales establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y soberano de Yucatán, y en la Ley de Salud, son derechos de las personas que padezcan algún trastorno mental, los siguientes:
 
-Para hacer accesibles, ágiles y sencillos los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de los servicios públicos que corresponden al Poder Ejecutivo, al Poder Legislativo, al Poder Judicial, a las Entidades Paraestatales, a los Organismos Constitucionales Autónomos, a los Ayuntamientos, y a cualquier entidad o dependencia de la Administración Pública Estatal, Municipal, paramunicipal e intermunicipal, se podrá utilizar la firma electrónica avanzada, contenida en un mensaje de datos y el uso de medios electrónicos, en los términos de los reglamentos que en el ámbito de sus respectivas competencias se expidan.
+I.- El ser atendidas y vivir en el seno de su familia o de un hogar que la sustituya, así como a participar en todas las actividades sociales o recreativas.
 
-###### ARTICULO 12.
+II.- El reconocimiento a su identidad, pertenencia, genealogía, historia y a su personalidad jurídica.
 
-Para que surta efectos un mensaje de datos se requiere un acuse de recibo del destinatario que contenga sello electrónico. Se considerará que el mensaje de datos no ha sido enviado, en tanto el emisor no haya recibido el acuse de recibo que contenga el sello referido. Cuando el emisor reciba el acuse con sello electrónico del destinatario, se presumirá que éste ha recibido el mensaje de datos correspondiente.
+III.- El respeto a su dignidad humana, singularidad, autonomía y consideración de los vínculos familiares y sociales al encontrarse en proceso de atención.
 
-Cuando el acuse de recibo contenga el sello electrónico, se presumirá, salvo prueba en contrario, que el documento fue recibido en la hora y fecha que se consigne en el acuse mencionado. La autoridad certificadora establecerá los medios para verificar la autenticidad de los acuses de recibo con sello electrónico.
+IV.- El ser informado sobre las campañas, planes, programas y servicios que proporcione el Gobierno y las instituciones privadas y sociales en materia de salud mental.
 
-###### ARTICULO 13.
+V.- El acceso oportuno y digno a los servicios de salud mental que ofrecen las instituciones públicas, privadas y sociales en la materia, los cuales tendrán un enfoque de calidad en la atención, amplia cobertura, reinserción psicosocial y estricto apego a los derechos humanos.
 
-El contenido de los mensajes de datos relativos a, los actos, servicios, trámites, y procedimientos, que regula esta Ley, deberá conservarse en archivos electrónicos organizados con base en los criterios normativos en materia de clasificación y conservación de documentos.
+VI.- El recibir tratamiento y a ser tratado con la alternativa terapéutica más conveniente, que menos restrinja sus derechos y libertades.
 
-###### ARTICULO 14.
+VII.- El no ser identificado ni discriminado por padecer o haber padecido algún trastorno mental.
 
-La información de un mensaje de datos se considerará presentada en forma original, si conserva la integridad y autenticidad de los componentes con los que se generó por primera vez, en su forma definitiva.
+VIII.- La información adecuada y comprensible, inherente a su salud y a su diagnóstico, tratamiento, incluyendo las alternativas para su atención.
 
-###### ARTICULO 15.
+IX.- El que se informe al padre, madre, pareja o representante legal con amplitud y veracidad, de la condición y el posible efecto del tratamiento que reciba el paciente usuario con algún trastorno mental.
 
-Salvo pacto en contrario entre el emisor y el destinatario, el mensaje de datos se tendrá por expedido en el lugar en donde el emisor tenga su domicilio legal y por recibido en el lugar en donde el destinatario tenga el suyo.
+X.- El que se trate confidencialmente la información que le concierne.
 
-###### ARTICULO 16.
+XI.- A solicitar una segunda opinión diagnóstica y de tratamiento.
 
-Los mensajes de datos tendrán valor probatorio pleno, cuando se acredite:
+XII.- El ser atendidas, en la medida de lo posible, en la comunidad en la que vive, salvo que por su estado de salud mental, requiera atención especializada en una institución de segundo o tercer nivel que no se encuentre en su comunidad.
 
-I. Que contiene la firma electrónica avanzada;
+XIII.- El ser ingresado a algún centro de internamiento mental por prescripción médica, cuando la severidad de los síntomas y signos así lo indiquen, conforme a las mejores prácticas de la psicología, la psiquiatría y medicina.
 
-II. La seguridad del método en que hayan sido generados, archivados o conservados, y
+XIV.- El recibir atención especializada, a contar con un plan o programa integral de tratamiento para la recuperación de sus funciones cerebrales, habilidades cognitivas, proceso de aprendizaje, así como a la reinserción al ámbito familiar, social y productivo, cuando ya no exista el riesgo de que su conducta o acciones puedan causarle daño físico inmediato o inminente a sí mismo o a terceros.
 
-III. La integridad de la información a partir del momento en que se generaron por primera vez y en su forma definitiva.
+XV.- A ser egresado del centro de internamiento mental, sólo cuando el médico tratante considere que puede continuar su tratamiento en forma ambulatoria.
 
-Lo anterior, salvo lo dispuesto en otras leyes.
+XVI.- A presentar quejas conforme a los procedimientos establecidos en la normatividad vigente.
 
-###### ARTICULO 17.
+XVII.- A recibir un trato digno y apropiado en procedimientos administrativos y judiciales.
 
-Se presumirá salvo prueba en contrario, que un mensaje de datos proviene de una persona determinada cuando contenga su firma electrónica avanzada.
+XVIII.- A un recurso efectivo ante los tribunales competentes, que los ampare contra actos que violen sus derechos fundamentales reconocidos por la constitución federal, las leyes que emanen de ella, la constitución local y las leyes del estado.
 
-###### ARTICULO 18.
+XIX.- A igualdad de oportunidades y trato digno en el empleo, a reintegrarse después de haber sufrido un trastorno mental y a no ser despedido únicamente por antecedente de un trastorno mental.
 
-De impugnarse la autenticidad o exactitud de un mensaje de datos o de la propia firma electrónica avanzada, se procederá a su comprobación ante la autoridad certificadora o el prestador de servicios de certificación.
+XX. A recibir pensión por discapacidad psicosocial en un monto similar al de personas con discapacidad física.
 
-### CAPITULO III. De la Firma Electrónica Avanzada
+###### Artículo 8.
 
-###### ARTICULO 19.
+La familia desempeña una función esencial en el desarrollo de las potencialidades de las personas con algún trastorno mental, para ello deberá:
 
-Para la validez y uso de la firma electrónica avanzada, se deberá contar con un certificado vigente, emitido en los términos de la presente Ley.
+I.- Proporcionar apoyo, alojamiento, vestido, cuidados, educación, protección a la salud, alimentación suficiente y adecuada a su familiar con algún trastorno mental.
 
-###### ARTICULO 20.
+II.- Respetar los principios de autonomía individual, independencia, igualdad, no discriminación, y todos aquellos que garanticen la igualdad en el ejercicio de sus derechos de su familiar con algún trastorno mental.
 
-La firma electrónica avanzada, será utilizada en los documentos electrónicos y en los mensajes de datos disponibles, para la realización de los actos autorizados por los sujetos previstos en las fracciones I, II, III, IV y V del artículo 2° de esta Ley.
+III.- Recibir apoyo, orientación, asistencia, capacitación y adiestramiento por parte del Gobierno del Estado de Yucatán, para el desarrollo de actividades que promuevan el cuidado, la integración familiar, social y laboral del paciente con algún trastorno mental.
 
-###### ARTICULO 21.
+IV.- Participar en actividades culturales, educativas, recreativas, deportivas y de esparcimiento, que contribuyan al desarrollo integral de las personas con algún trastorno mental.
 
-La firma electrónica avanzada, siempre que haya sido producida por un dispositivo seguro de creación, tendrá, respecto de los datos consignados en forma electrónica, el mismo valor que la firma autógrafa en relación con los consignados en documentos, y será admisible como medio de prueba.
+V.- Contribuir a que el paciente inicie y continúe su tratamiento, especialmente si no está en condiciones de hacerlo solo.
 
-###### ARTICULO 22.
+###### Artículo 9.
 
-Los sujetos previstos en las fracciones I, II, III, IV y V del artículo 2° de esta Ley, cada uno en su ámbito competencial, autorizarán y promoverán el uso de la firma electrónica avanzada, en los actos que se ofrezcan al público en general.
+Son derechos fundamentales de todas las familias y personas a cargo de personas que padezcan un trastorno mental los siguientes:
 
-Los sujetos referidos en el párrafo anterior privilegiarán el uso de la firma electrónica avanzada en sus comunicaciones internas y en las realizadas interinstitucionalmente, así como en los actos jurídicos y administrativos que entre éstas celebren.
+I.- Recibir información de los profesionales de la salud sobre el trastorno y sobre los planes de tratamiento para poder cuidar a sus familiares.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2014)</small>
+II.- Contribuir en la formulación e implementación del plan del tratamiento del paciente.
 
-Para validez de los documentos electrónicos y mensajes de datos a que se refiere esta Ley, deberán contar con la firma electrónica avanzada del servidor público facultado.
+III.- Apelar las decisiones sobre ingresos y tratamiento involuntario a favor de su familiar.
 
-###### ARTICULO 23.
+IV.- Solicitar la revisión del caso de su familiar con trastorno mental en conflicto con la ley penal.
 
-Para los efectos del artículo anterior, los sujetos a que alude, crearán, y administrarán, un sistema de trámites electrónicos.
+V.- Participar activamente en los órganos de revisión.
 
-###### ARTICULO 24.
+VI.- Participar en el desarrollo y evaluación de la legislación, política, planes y programas de salud mental.
 
-En los sistemas de trámites electrónicos, se especificarán aquellos actos que por mandato de Ley, exigen el uso obligatorio de la firma electrónica avanzada.
+### Capítulo II. De los Principios de la Ley
 
-###### ARTICULO 25.
+###### Artículo 10.
 
-Se entiende que existe consentimiento del uso de la firma electrónica avanzada y, en consecuencia, de que un servicio, trámite, acto, y procedimiento se realice, y desahogue desde su inicio hasta su conclusión a través documentos (sic) y medios electrónicos, cuando el titular de la firma hace uso de ella en éstos.
+En los casos en que los familiares demuestren criterios de decisión deficiente o tengan conflictos de intereses se les deberá restringir el derecho de participar en las decisiones fundamentales y el acceso a información confidencial de la persona con trastorno mental.
 
-###### ARTICULO 26.
+###### Artículo 11.
 
-El consentimiento del uso de la firma electrónica en los servicios, trámites, actos, y procedimientos, implica la aceptación de recibir notificaciones, aún las de carácter personal, a través de los medios electrónicos establecidos; con todas las consecuencias y efectos jurídicos inherentes a la notificación.
+El núcleo familiar desempeña una función esencial en el desarrollo de las potencialidades de los menores de edad con algún trastorno mental o personas adultas con discapacidad psicosocial, por ello tienen como obligación, además de lo dispuesto en la Ley de Prevención de las Adicciones y el Consumo Abusivo de Bebidas Alcohólicas y Tabaco del Estado, lo siguiente:
 
-###### ARTICULO 27.
+I.- Proporcionar apoyo, cuidados, educación, protección a la salud, alimentación suficiente y adecuada.
 
-La información contenida en los documentos electrónicos será pública, en los términos y con las excepciones establecidas por la Ley de Transparencia y Acceso a la Información Pública del Estado.
+II.- Respetar los principios de autonomía individual, independencia, igualdad, no discriminación, y todos aquellos que garanticen la igualdad en el ejercicio de sus derechos.
 
-Los datos personales e información que se refiera a la vida privada, serán protegidos por los sujetos mencionados en las fracciones I, II, III, IV y V del artículo 2° de esta Ley, en términos de la Ley de la materia y demás disposiciones legales y reglamentarias aplicables.
+III.- Participar en la asesoría, orientación y apoyo que ofrezca el Gobierno del Estado de Yucatán y las instituciones del sistema estatal de salud mental para el desarrollo de actividades que promuevan la integración social, laboral y el desarrollo de sus integrantes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2014)</small>
+IV.- Ante la sospecha de algún trastorno mental, solicitar valoración de un profesional de la salud mental y vigilar, en su caso, el apego al plan de tratamiento indicado.
 
-###### ARTICULO 28.
+V.- Realizar los estudios complementarios que el profesional de la salud indique y acudir a las citas de seguimiento.
 
-Todo documento impreso con firma autógrafa podrá ser habilitado para tener un formato electrónico, mismo que tendrá validez sólo si cuenta con la firma electrónica avanzada y cumpla con los siguientes requisitos:
+VI.- Participar en las acciones de capacitación y orientación que ofrecen las instituciones públicas, sociales y privadas para afrontar los trastornos mentales.
 
-I. Que la migración del documento impreso al formato electrónico haya sido realizada o supervisada por un servidor público con facultades de certificación de documentos en términos de las disposiciones aplicables o por fedatario público;
+VII.- Participar en actividades culturales, educativas, recreativas, deportivas y de esparcimiento, que contribuyan al desarrollo integral de las personas con algún trastorno mental.
 
-II. Que el documento impreso migrado al formato electrónico permanezca íntegro e inalterado, y
+###### Artículo 12.
 
-III. Que el formato electrónico del documento impreso permita su consulta y reproducción exacta.
+Corresponde al Gobierno del Estado a través de sus dependencias y entidades establecer la coordinación necesaria para proporcionar a las personas que integren el núcleo familiar, debida asistencia, asesoría, orientación, capacitación y adiestramiento necesario para enfrentar dichos trastornos.
 
-En cualquier tiempo, las instituciones públicas sujetas de esta Ley, podrán requerir la presentación de los documentos impresos originales para su cotejo.
+###### Artículo 13.
 
-###### ARTICULO 29.
+Corresponden a la Secretaría y Servicios de Salud de Yucatán, en el ámbito de su competencia y sin menoscabo de las demás que se encuentren estipuladas en esta Ley y demás ordenamientos legales, las siguientes acciones para garantizar el derecho a la salud mental de los yucatecos:
 
-Para la obtención de la firma electrónica avanzada, el solicitante realizará el trámite correspondiente ante la autoridad certificadora o ante los prestadores de servicios de certificación; para tal efecto, deberá cumplir con los requisitos y procedimientos establecidos en esta Ley y demás disposiciones aplicables.
+I. Crear el Consejo de Salud Mental del Estado de Yucatán.
 
-Cuando se solicite la creación de la firma electrónica avanzada, se requerirá que el interesado comparezca personalmente ante la autoridad certificadora o el prestador de servicios de certificación para acreditar su identidad.
+II. Crear el Instituto de Salud Mental del Estado de Yucatán.
 
-La tramitación de la firma electrónica avanzada de una persona moral o de los sujetos obligados en las fracciones I, II, III, IV y V del artículo 2° de esta Ley, sólo la podrá efectuar un representante legal con facultades para actos de dominio, o de administración, con su nombramiento respectivo, según sea el caso.
+III. Elaborar a través del Instituto, el Programa de Atención a la Salud Mental del Estado de Yucatán, conforme a los lineamientos establecidos en la Ley General de Salud, las Normas Oficiales Mexicanas, y el presente ordenamiento, fomentando la participación de los sectores social y privado.
 
-La firma electrónica avanzada, y los certificados de firma electrónica avanzada, expedidos de conformidad con esta Ley y sus reglamentos, sólo surtirán efectos respecto de los actos que correspondan a los sujetos obligados de esta Ley; así como respecto de las promociones y solicitudes de los particulares que hayan optado por estos medios.
+IV. Autorizar e implementar los programas de salud mental para el estado de Yucatán, con un enfoque de derechos humanos y perspectiva de género e interculturalidad.
 
-###### ARTICULO 30.
+V. Contribuir en la elaboración e implementación de programas de salud mental en otras instancias de gobierno o instituciones, de acuerdo con la normatividad aplicable.
 
-Para los efectos de esta Ley, se considerará firma electrónica avanzada siempre que:
+VI. Regular la información manejada en medios de difusión masiva en asuntos relacionados con la salud mental, las adicciones, la violencia y el suicidio.
 
-I. Cuente con un certificado de firma electrónica avanzada vigente expedida por la autoridad certificadora o por un prestador de servicios de certificación;
+VII. Impulsar la integración de las diferentes instituciones y dependencias involucradas en la Red Estatal de Salud Mental y realizar la coordinación y supervisión de ésta.
 
-II. Se identifique a la autoridad certificadora o prestadora de servicios de certificación que emite su certificado;
+VIII. Implementar servicios de salud mental en todas las unidades de los Servicios de Salud de Yucatán.
 
-III. Sus datos de creación correspondan exclusivamente al titular y se encuentren bajo control exclusivo de él al momento de la firma;
+IX. Fomentar la integración de la información, vigilancia y evaluación de Salud Mental en el Sistema Estatal de Vigilancia Epidemiológica.
 
-IV. Sea posible detectar cualquier alteración a la misma, y
+X. Implementar medios telefónicos y electrónicos de orientación, comunicación y canalización, a la población en materia de salud mental.
 
-V. Sea susceptible de verificación y auditoría.
+XI. Suscribir convenios, acuerdos o cualquier instrumento jurídico de coordinación con los Estados y Municipios de la región y del país a efecto de mejorar la atención en materia de salud mental.
 
-La firma electrónica avanzada podrá integrarse al mensaje de datos o estar inequívocamente asociada a éste, o en el documento electrónico.
+XII. Fijar los lineamientos de coordinación para que los Municipios, en el ámbito de su competencia, intervengan en la promoción de la salud mental, en la prevención de problemas y trastornos, e incentiven la participación social.
 
-###### ARTICULO 31.
+XIII. Establecer acciones para la protección de la salud mental aplicables a todas las instituciones públicas y privadas, afines y ajenas al ámbito de la salud.
 
-Cuando la firma electrónica avanzada se tramite para ejercer un poder o mandato, su certificado deberá incluir los límites con los que se otorga dicha representación.
+XIV. Impulsar la integración laboral de las personas con trastornos mentales, mediante acciones coordinadas intersectorialmente.
 
-###### ARTICULO 32.
+XV. Presentar al Consejo Estatal de Salud Mental un informe anual sobre las políticas públicas y programas implementados y el cumplimiento de éstos.
 
-La firma electrónica avanzada debe ser elaborada mediante los dispositivos de creación y verificación que establezca la autoridad certificadora.
+XVI. Formular e implementar el Programa Estatal de Investigación y Prevención del Suicidio.
 
-Se considerará que un dispositivo de creación es seguro siempre que:
+XVII. Suscribir convenios o acuerdos de coordinación con los municipios del Estado, a efecto de instalar en sus centros de salud, un módulo comunitario de salud mental, que permita ampliar la cobertura de atención en esta materia.
 
-I. Garantice que los datos utilizados para la generación de la firma electrónica avanzada, sólo pueden producirse una vez y se asegure su confidencialidad, y
+XVIII. Fomentar, apoyar y asesorar a grupos de autoayuda.
 
-II. El dispositivo de creación no altere los datos del mensaje o documento electrónico.
+XIX. Diseñar, impulsar y realizar campañas que contribuyan a la reducción de los factores de riesgo, y colaborar en el desarrollo de las mismas, cuando sea requerido por otras instancias de gobierno o instituciones, de acuerdo con la normatividad aplicable.
 
-###### ARTICULO 33.
+XX. Diseñar y ejecutar de manera permanente en los medios de difusión masiva campañas educativas para orientar, motivar e informar a la población sobre la salud mental, los trastornos mentales, los estigmas imperantes, los síntomas, los servicios y modalidades de atención en coordinación con las dependencias e instituciones competentes.
 
-Los dispositivos de verificación validarán que:
+XXI. Participar en las acciones de atención psicológica a personas afectadas en situación de emergencia o desastre en el Estado de Yucatán.
 
-I. La firma electrónica avanzada cumple con los principios de autenticidad, confidencialidad e integridad;
+###### Artículo 14.
 
-II. Los datos de la firma electrónica avanzada no han sido alterados o modificados, y
+Las instituciones del sector público, privado y social que participen en programas y acciones en materia de salud mental, deberán remitir anualmente a Servicios de Salud de Yucatán mediante la instancia rectora designada, sus programas e informes sobre las estrategias y sus resultados.
 
-III. El mensaje de datos, o documento electrónico enviado, pertenece al emisor.
+###### Artículo 15.
 
-### CAPITULO IV. De los Certificados de Firma Electrónica Avanzada y su Registro
+La información epidemiológica estatal concerniente a salud mental será responsabilidad de Servicios de Salud de Yucatán, a través del Instituto.
 
-###### ARTICULO 34.
+###### Artículo 16.
 
-El certificado de firma electrónica avanzada permitirá autentificar que dicha firma pertenece a determinada persona, verificar la vigencia del mismo e identificar su fecha de emisión mediante la fecha electrónica.
+Para el adecuado funcionamiento del sistema de información, vigilancia y evaluación en salud mental, todas las instituciones y profesionales del sector público y privado que presten servicios de salud, deberán reportar a esta instancia toda la información sobre salud mental, incluyendo adicciones, violencia, autolesión y suicidio, según lo determinado en el Reglamento de la presente Ley.
 
-###### ARTICULO 35.
+###### Artículo 17.
 
-Para obtener el certificado de la firma electrónica avanzada, el titular de la misma deberá presentar ante la autoridad certificadora o a los prestadores de servicios de certificación, la solicitud para la obtención del mismo, en la que se hará constar:
+La Secretaría buscará dar prioridad a la niñez, adolescencia, juventud, mujeres en condiciones de embarazo y puerperio, adultos mayores, personas con trastornos mentales y personas que se encuentran en situación de vulnerabilidad, de calle, de emergencia o de desastre.
 
-I. Nombre completo del solicitante;
+###### Artículo 18.
 
-II. En el caso de comparecer a nombre de otro, los datos del documento con el que se acredite la representación legal;
+La Secretaria de Salud, fomentará y llevara a cabo acciones de gestión y coordinación con la secretaria de educación pública, para que en los centros escolares del nivel básico y medio superior en el sector público se contemple lo siguiente:
 
-III. Firma autógrafa o huella digital del solicitante;
+I.- Desarrollar actividades educativas, socioculturales y recreativas con carácter permanente que contribuyan a la salud mental.
 
-IV. Domicilio del solicitante;
+II.- Contar con el personal capacitado y actualizado en psicología y psicopedagogía con el objetivo de identificar un posible trastorno mental que presenten niñas, niños, adolescentes y jóvenes, debiendo canalizarlos a algún modulo comunitarios (sic) de salud mental, CISAME o centro hospitalario, así como informar a su padre o tutor lo correspondiente.
 
-V. Dirección de correo electrónico del solicitante,
+III.- incorporar al plan de estudios programas relacionados con la salud mental.
 
-VI. Clave Única del Registro de Población del solicitante;
+IV.- proporcionar a los padres o tutores material informativo básico en salud mental con la finalidad de identificar algún tipo de riesgo para la salud mental en el menor.
 
-VII. Tratándose de extranjeros, los datos del documento que acredite su legal estancia en territorio nacional, y
+V.- Establecer convenios de colaboración con las instituciones educativas privadas correspondientes, para desarrollar estrategias que prevengan la depresión y los trastornos mentales en las niñas, niños, adolescentes y jóvenes en el estado de Yucatán
 
-VIII. Nombre de la autoridad certificadora a quien va dirigida la solicitud.
+#### Sección II. Instituto de Salud Mental del Estado de Yucatán
 
-###### ARTICULO 36.
+### Capítulo III. De los Derechos Fundamentales
 
-El titular acompañará al formato de solicitud a que alude el artículo anterior, lo siguiente:
+###### Artículo 19.
 
-I. Identificación oficial con fotografía, y firma del solicitante, o de su representante legal;
+Para garantizar el cabal cumplimiento de esta ley, es fundamental la creación del Instituto como organismo auxiliar en la ejecución de las políticas, planes, programas y acciones de promoción, prevención y atención en materia de salud mental, en los tres niveles de atención de los sectores público y privado. Dichas atribuciones han de ser conferidas por el Estado, en asistencia a la función normativa y regulatoria de la Secretaría de Salud del Estado y los Servicios de Salud de Yucatán.
 
-II. Comprobante de domicilio;
+###### Artículo 20.
 
-III. El documento que acredite la nacionalidad mexicana;
+El Instituto, es un órgano administrativo desconcentrado y presupuestalmente subordinado de la Secretaría de Salud de Yucatán. Dicho Instituto tendrá las funciones que le sean otorgadas por la presente ley y las demás disposiciones jurídicas aplicables.
 
-IV. Tratándose de extranjeros, el documento que acredite su legal estancia en territorio nacional, y
+###### Artículo 21.
 
-V. El documento que acredite la representación legal con la que se comparece, el cual deberá especificar las facultades otorgadas inherentes a la tramitación y uso de la firma electrónica avanzada, así como la de responsabilizarse de su resguardo.
+Corresponde al Instituto, la elaboración del Programa de Salud Mental del Estado de Yucatán, conforme los lineamientos establecidos en la Ley General de Salud, la Ley Estatal de Salud y el presente ordenamiento, fomentando la participación de los sectores público, privado y social
 
-###### ARTICULO 37.
+###### Artículo 22.
 
-Recibida la solicitud, y la documentación anexa, las autoridades certificadoras, o los prestadores de servicios de certificación, deberán:
+El programa de Salud mental deberá contemplar el asesoramiento del Consejo de Salud mental y enfocarse en garantizar la promoción de la salud mental, la prevención de los trastornos mentales y la prevención del suicidio, la atención de calidad para los usuarios, el respeto irrestricto a los derechos humanos, una amplia cobertura de los servicios, el involucramiento y apoyo de los familiares de pacientes con algún trastorno mental y la inclusión de los sectores privado y social en la planeación y ejecución de las acciones correspondientes.
 
-I. Verificar que los datos asentados en el formato de solicitud correspondan con los contenidos en los documentos exhibidos por el solicitante;
+###### Artículo 23.
 
-II. Solicitar la presencia física del solicitante;
+Además de lo señalado, al Instituto le corresponde:
 
-III. En caso de duda, verificar la veracidad de los datos y documentos aportados por el solicitante, y
+I.- Elaborar el Programa de Salud Mental del Estado de Yucatán.
 
-IV. Garantizar el resguardo y confidencialidad de los datos personales aportados por el solicitante.
+II.- Diseñar y evaluar políticas en materia de promoción a la salud mental, educación para la salud mental, atención integral médico-psiquiátrica, participación ciudadana, así como analizar y asesorar los planes y proyectos de las acciones para la atención de la salud mental.
 
-###### ARTICULO 38.
+III.- La asignación de personal especializado en atención integral para cada uno de los trastornos que requieran atención prioritaria en base al presupuesto asignado.
 
-Las autoridades certificadoras, o los prestadores del servicio de certificación, notificarán mediante correo electrónico, al solicitante del certificado de firma electrónica avanzada, sobre la procedencia o rechazo de su petición.
+IV.- Instalar, administrar y operar la línea telefónica de ayuda psicológica, de prevención del suicidio y de intervención en crisis, así como la página electrónica de Salud Mental, para brindar orientación y canalización del usuario, las 24 horas, de los 365 días del año.
 
-En caso procedente, las autoridades certificadoras, o los prestadores del servicio de certificación, al expedir el certificado de firma electrónica avanzada, deberán:
+V.- Difundir en los medios de difusión masiva, campañas permanentes que eduquen y orienten a la población sobre el concepto de salud mental, la identificación de los trastornos mentales, la detección oportuna de personas con riesgo de suicidio y la cultura de la no discriminación de estos pacientes.
 
-I. Corroborar y acreditar que el titular del certificado esté en posesión, tanto de los datos de creación, como los de verificación de la firma electrónica avanzada que ampara el certificado;
+VI.- Convenir, apoyar, asesorar y llevar el registro censo de los Grupos de Autoayuda y asociaciones civiles que promueven la salud mental y la prevención del suicidio.
 
-II. Verificar la coincidencia, entre los datos de creación y los de verificación de la firma electrónica avanzada, del titular del certificado;
+VII.- Participar en las acciones de atención a personas afectadas en situación de emergencia o desastre en el Estado.
 
-III. Entregar al titular del certificado, para su resguardo, un dispositivo físico seguro que lo contenga;
+VIII.- Detectar y manejar de manera oportuna conflictos en la convivencia del núcleo familiar.
 
-IV. Contar con los sistemas y mecanismos de seguridad idóneos, que garanticen la confidencialidad de los datos de la firma y del certificado del titular;
+IX.- Informar acerca de las consecuencias del abandono, el maltrato y explotación de menores, personas con discapacidad, adultos mayores, y pacientes con algún trastorno mental.
 
-V. Contar con los sistemas y mecanismos electrónicos que garanticen la utilización permanente del servicio de autenticación de la firma electrónica avanzada y del certificado, y
+X.- Promover y coordinar con otras dependencias públicas, privadas y sociales, la investigación y registro epidemiológico de los trastornos mentales en el estado.
 
-VI. Hacer constar la entrega-recepción del certificado de firma electrónica avanzada, así como la información proporcionada al titular del certificado, respecto de los derechos y obligaciones consignados en esta Ley.
+XI.- El instituto se encargara de coordinar, asesorar y supervisar la instalación, administración y operación de la red de (sic) estatal de salud mental, que estará conformada en su infraestructura por los módulos y dispositivos comunitarios de salud mental, los CISAME, las villas de transición, los servicios de telepsiquiatría y otras unidades especializadas.
 
-###### ARTICULO 39.
+XII.- Gestionar recursos para el desarrollo y fortalecimiento de los servicios de salud mental y la infraestructura necesaria en unidades de los Servicios de Salud de Yucatán.
 
-Las autoridades certificadoras o los prestadores de servicios de certificación, expedirán el certificado de firma electrónica avanzada en un término no mayor de tres días hábiles, contados a partir de la fecha de notificación y realizarán la anotación correspondiente en el registro de certificados de firma electrónica avanzada.
+XIII.- Coadyuvar en el desarrollo de un sistema unificado de información epidemiológica y estadística de servicios y recursos en todo el estado.
 
-###### ARTICULO 40.
+XIV.- Coordinar el registro de trastornos mentales y condiciones asociadas a la salud mental con instancias federales, estatales y municipales.
 
-Los certificados de firma electrónica avanzada deberán contener:
+XV.- Participar en el Consejo de Salud Mental del Estado de Yucatán.
 
-I. El código único de identificación;
+XVI.- Realizar investigación y capacitación en evaluación y tratamiento de trastornos mentales, así como en modelos de rehabilitación psicosocial y reinserción social.
 
-II. La autoridad certificadora o prestador de servicios que lo emitió;
+XVII.- Informar sobre la situación sanitaria en materia de salud mental en el estado en foros estatales, nacionales e internacionales.
 
-III. Algoritmo de firma;
+XVIII.- Incorporar la participación ciudadana y de representantes de personas usuarias y familiares en el diseño y evaluación de planes y programas de salud mental.
 
-IV. Nombre y datos de identificación del titular;
+XIX.- Promover la integración de los servicios de salud mental en las unidades de salud de todas las instituciones públicas de salud en el Estado.
 
-V. Dirección de correo electrónico del titular;
+XX.- Diseñar e implementar campañas para reducir factores de riesgo relacionados con los trastornos mentales, las adicciones, la violencia, el suicidio y demás problemáticas biopsicosociales.
 
-VI. Su fecha electrónica de emisión;
+XXI. Implementar estrategias de coordinación de índole interinstitucional con los prestadores de servicios de salud mental del sector público, social y privado, con la finalidad de fortalecer la promoción, prevención y atención en materia de salud mental.
 
-VII. Su periodo de vigencia;
+XXII. Realizar gestiones y acuerdos para que las personas con trastornos mentales tengan acceso a educación, empleo, vivienda, justicia y seguridad.
 
-VIII. Clave Única del Registro de Población (CURP) del titular del certificado;
+XXIII. Establecer líneas de desarrollo y estrategias de formación continua de recursos humanos, para la atención integral en salud mental y la investigación.
 
-IX. Clave pública;
+XXIV. Emitir los dictámenes, opiniones, estudios e informes sobre los asuntos de su competencia, de conformidad con la normatividad vigente.
 
-X. En su caso, las facultades del titular para actuar en nombre de la persona que representa;
+XXV. Proporcionar la cooperación técnica que le sea requerida en el ámbito de su competencia, de acuerdo con las políticas y normas establecidas.
 
-XI. En su caso, los límites de uso del certificado de firma electrónica avanzada, y
+XXVI. Elaborar y evaluar los planes y programas de salud mental, sujetándose a las normas y lineamientos aplicables vigentes.
 
-XII. La información de la tecnología empleada para la creación de la firma electrónica avanzada.
+XXVII. Proponer anualmente modificaciones a los programas de salud mental, lineamientos y presupuesto adecuado para su ejecución.
 
-###### ARTICULO 41.
+XXVIII. Difundir las normas, lineamientos y Guías de Práctica Clínica entre los prestadores de servicios de salud mental.
 
-Los certificados de firma electrónica avanzada relativos a personas morales, tendrán plena validez jurídica únicamente en relación directa con las facultades otorgadas al representante legal firmante, que se encuentren especificadas en el documento respectivo.
+XXIX. Administrar el presupuesto asignado por el Departamento de Control Presupuestal de la Secretaria de Salud.
 
-La responsabilidad del resguardo del certificado de firma electrónica avanzada recaerá en el representante legal firmante.
+XXX. Valorar los protocolos de investigación en salud mental que deben someterse a su consideración, de acuerdo a la normatividad aplicable vigente.
 
-###### ARTICULO 42.
+XXXI. Asegurar la existencia y/o actualización de la reglamentación sobre la disponibilidad y el uso racional de medicamentos psicotrópicos.
 
-Los registros de certificados de firma electrónica avanzada, a cargo de las autoridades certificadoras o de los prestadores de servicios de certificación, serán públicos y deberán mantenerse permanentemente actualizada su información e indicar si los certificados bajo su reguardo (sic) se encuentran vigentes, suspendidos, revocados o extinguidos, así como cualquier otra información relacionada con los mismos.
+XXXII.- Las demás que le otorgue la presente Ley y otras disposiciones legales aplicables.
 
-Al respecto, los reglamentos correspondientes de esta Ley determinarán:
+#### Sección III. Del Consejo de Salud Mental del Estado de Yucatán
 
-I. Las facultades y atribuciones de las autoridades certificadoras en relación con los servicios registrales;
+###### Artículo 24.
 
-II. Las condiciones de operación de los registros;
+Para garantizar la calidad, actualización, pertinencia e imparcialidad en las políticas, programas y acciones de salud mental en el Estado, deberá asegurarse la existencia y permanencia del Consejo Estatal de Salud Mental de Yucatán.
 
-III. Los procedimientos de consulta, actualización y mantenimiento de los registros, y
+###### Artículo 25.
 
-IV. Los servicios que deberán prestar los registros de certificados de firma electrónica avanzada.
+El Consejo de Salud Mental del Estado de Yucatán, es un órgano de coordinación, consulta, análisis y asesoría para el desarrollo de planes, programas y proyectos que en materia de salud mental brinde el Gobierno Federal, Estatal y Municipal, y será integrado permanentemente por los titulares de las siguientes Secretarías de la Administración Pública del Estado:
 
-###### ARTICULO 43.
+I.- El Gobernador del Estado, quien será el Presidente.
 
-El certificado de firma electrónica avanzada tendrá valor probatorio pleno, salvo que dispongan al respecto otras leyes en la materia que ellas regulan y surtirán efectos jurídicos, cuando estén firmados electrónicamente por las autoridades certificadoras o los prestadores de servicios de certificación.
+II.- El Secretario de Salud del Estado, quien fungirá como Vicepresidente.
 
-###### ARTICULO 44.
+III.- El Director del Instituto de Salud Mental de Yucatán, quien fungirá como el Secretario Técnico.
 
-La vigencia del certificado de firma electrónica avanzada será no mayor a dos años e iniciará en el momento de su emisión y expirará en el día y la hora señalados en el mismo.
+IV. Los siguientes participantes en calidad de Consejeros:
 
-Antes de que concluya el periodo de validez de un certificado de firma electrónica avanzada, su titular podrá solicitar que se le autorice la vigencia de un nuevo periodo.
+a) El Secretario de Educación.
 
-Para estos casos, las autoridades certificadoras deberán emitir un acuerdo con los lineamientos para tal efecto y podrá relevar al titular de la firma, de la necesidad de comparecer personalmente ante ella o ante los prestadores de servicios de certificación, para acreditar su identidad, y, en el caso de las personas morales o sujetos obligados en las fracciones I, II, III, IV y V del artículo 2° de esta Ley, de la comparecencia del representante legal correspondiente, siempre y cuando cumplan con los requisitos que establezcan los propios lineamientos.
+b) El Secretario de Desarrollo Social.
 
-###### ARTICULO 45.
+c) (DEROGADO, D.O. 31 DE JULIO DE 2019)
 
-Los certificados de firma electrónica avanzada se extinguirán:
+d) El Secretario de Investigación, Innovación y Educación Superior.
 
-I. Por expiración de su vigencia;
+e) El Secretario de Seguridad pública.
 
-II. Cuando lo solicite el titular,
+f) El Director general de (sic) Instituto para el Desarrollo de la Cultura Maya de Yucatán.
 
-III. Por fallecimiento del titular o su representado;
+g) El Director general del Sistema para el Desarrollo Integral de la
 
-IV. Por resolución judicial o administrativa;
+Familia en Yucatán.
 
-V. Cuando se acredita la incapacidad superveniente total del titular o representante;
+h) El Director del Hospital Psiquiátrico Yucatán.
 
-VI. Al terminar la representación u ocurra algún cambio que implique la desaparición de la persona moral, y
+i) El Presidente de la Comisión Permanente de Salud y Seguridad Social del Poder Legislativo.
 
-VII. Por revocación, en los casos establecidos en esta Ley
+j) Los presidentes municipales de los cinco municipios más poblados del Estado de Yucatán.
 
-###### ARTICULO 46.
+k) El Delegado estatal del Instituto Mexicano del Seguro Social.
 
-La pérdida de eficacia de los certificados de firma electrónica avanzada, en el supuesto de expiración de la vigencia, tendrá lugar desde la fecha en que ésta circunstancia se produzca. En los demás casos, la extinción de la firma electrónica avanzada surtirá efectos desde la fecha en que la autoridad certificadora o los prestadores de servicios de certificación, tengan conocimiento cierto de la causa que la origina y así lo haga constar en los registros de certificados de firma electrónica avanzada.
+l) El Delegado estatal del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
-###### ARTICULO 47.
+m) Los rectores de las Universidades en las que se impartan las carreras de Medicina, Psicología, Psicopedagogía y la especialidad de Psiquiatría.
 
-Las autoridades certificadoras o los prestadores de servicios de certificación, podrán suspender temporalmente la eficacia de los certificados de firma electrónica avanzada expedidos, cuando así lo solicite el titular, su representado o bien lo ordene una autoridad competente. Toda suspensión deberá inscribirse en los registros de certificados de firma electrónica avanzada.
+n) El Presidente de la Asociación Psiquiátrica Mexicana, Capitulo Yucatán
 
-Las causas por las que se podrá solicitar la suspensión del certificado de firma electrónica avanzada serán, cuando:
+ñ) El Presidente del Colegio de Psicólogos del Estado de Yucatán, A.C.
 
-I. Haya indicios de que un tercero no autorizado utilice la clave privada o de la firma electrónica avanzada;
+o) El Presidente del Colegio de Psiquiatras de Yucatán, A.C.
 
-II. El titular del certificado de firma electrónica avanzada requiera modificar alguno de los datos contenidos en el mismo, o
+p) Los representantes de al menos dos de las asociaciones civiles o fundaciones que trabajen en favor de la salud mental en el estado.
 
-III. Exista un caso fortuito o de fuerza mayor, y la autoridad certificadora lo estime conveniente.
+Los integrantes del Consejo tendrán derecho a voz y voto.
 
-###### ARTICULO 48.
+Los cargos en el Consejo serán honoríficos, con excepción del Secretario Técnico, quienes dependerán de la Secretaría de Salud.
 
-El certificado de firma electrónica avanzada podrá ser revocado por la autoridad certificadora, con motivo de las siguientes causas:
+###### Artículo 26.
 
-I. Cuando se detecten inexactitudes en los datos aportados por el titular para la obtención del certificado de firma electrónica avanzada;
+Las personas titulares asistirán a las reuniones del Consejo, los cuales en caso necesario, podrán nombrar a un suplente quien deberá tener como cargo mínimo un nivel inmediato inferior al del titular.
 
-II. Por haberse comprobado que al momento de la expedición del certificado de firma electrónica avanzada, no se cumplieron uno o más de los requisitos establecidos para la obtención del mismo, y
+###### Artículo 27.
 
-III. Cuando se compruebe el uso indebido o ilícito del certificado de firma electrónica avanzada.
+A las sesiones podrán asistir personas expertas invitadas en materia de salud de los sectores público, social y privado que el pleno del Consejo considere para emitir opiniones, aportar información, o apoyar acciones sobre el tema que se defina.
 
-###### ARTICULO 49.
+###### Artículo 28.
 
-Todo certificado de firma electrónica avanzada expedido fuera del Estado de San Luis Potosí producirá los mismos efectos jurídicos que uno expedido en el territorio de esta entidad federativa, si el documento presenta un grado de fiabilidad equivalente a los contemplados por esta Ley. En este caso se requiere registrar el certificado que se homologa en el registro de certificados de firma electrónica avanzada correspondiente, que al efecto lleve la autoridad certificadora.
+Las facultades de los integrantes del Consejo, y los lineamientos de operación del consejo, se establecerán en el Reglamento Interno que para tal efecto se expida.
 
-###### ARTICULO 50.
+###### Artículo 29.
 
-La expedición, suspensión, revocación o extinción del certificado de firma electrónica avanzada, será de carácter público a través de los registros de certificados de firma electrónica avanzada.
+El Consejo tendrá las siguientes funciones:
 
-### CAPITULO V. De los Derechos y Obligaciones del Titular del Certificado de Firma Electrónica Avanzada
+I. Funcionar como un organismo de consulta permanente de planes, proyectos y programas encaminados hacia la atención integral de la salud mental.
 
-###### ARTICULO 51.
+II. Vigilar la erogación de los recursos en materia de salud mental y proponer estrategias para optimizar el uso de los mismos.
 
-Sin perjuicio de lo establecido por otros ordenamientos legales, el titular de un certificado de firma electrónica avanzada tiene los siguientes derechos:
+III. Expedir el Reglamento Interno del Consejo y las reformas y adiciones que se estimen necesarias.
 
-I. Solicitar que se le expida constancia de la existencia y registro de su certificado de firma electrónica avanzada;
+IV. Diseñar y evaluar en coordinación con el Instituto de Salud Mental del Estado de Yucatán, el programa de salud mental del estado.
 
-II. Recibir su certificado de firma electrónica avanzada;
+V. Solicitar a la Secretaría un informe anual sobre las políticas públicas implementadas en materia de salud mental, así como el estado de avance en el cumplimiento del Programa de Salud Mental para el Estado de Yucatán.
 
-III. Modificar los datos de creación de su firma electrónica avanzada o clave privada o de acceso, cuando así convenga a su interés;
+VI. Solicitar en cualquier momento datos relativos a la erogación de los recursos asignados en materia de salud mental y, en su caso, podrá proponer estrategias para optimizar su ejecución, conforme a la realidad social.
 
-IV. Ser informado sobre el costo de los servicios, las características de los procedimientos de certificación y creación de la firma electrónica avanzada, así como de sus límites de uso, los costos del servicio y los términos por los cuales se obligan al prestador de servicios de certificación y el titular;
+VII. Analizar y asesorar los planes y proyectos para fomentar la participación ciudadana en la promoción de la salud mental.
 
-V. Que la autoridad certificadora y los prestadores de servicios de certificación, guarden la confidencialidad de sus datos personales e información proporcionada;
+VIII. Revisar permanentemente la legislación y la reglamentación, en materia de salud mental, a efecto de presentar ante las instancias competentes, observaciones y propuestas.
 
-VI. Conocer el domicilio y dirección electrónica de la autoridad certificadora o del prestador de servicios de certificación;
+IX. Evaluar y validar políticas de promoción, prevención y atención integral en materia de salud mental.
 
-VII. Presentar quejas o solicitar aclaraciones ante la autoridad certificadora o ante los prestadores de servicios de certificación;
+X. Impulsar la implementación de programas tendientes a regular el manejo de la información sobre salud mental en medios masivos de difusión.
 
-VIII. Solicitar la suspensión o extinción de su certificado de firma electrónica avanzada, y
+XI. Vigilar la accesibilidad y disponibilidad de servicios, medicamentos y recursos para la promoción, prevención y atención de la salud mental.
 
-IX. Los demás que convenga con el prestador de servicios de certificación y no sean contrarias a la Ley, las buenas costumbres o violenten los derechos de terceros.
+XII. Evaluar estrategias de comunicación social que contribuyan al fortalecimiento de la salud mental de la población del estado de Yucatán.
 
-###### ARTICULO 52.
+XIII. Expedir la lista de dependencias y entidades de la administración pública estatal y municipal que deban enviar su informe trimestral al Consejo así como los contenidos mínimos que deben abarcar.
 
-Los titulares de los certificados de firma electrónica avanzada, tendrán las siguientes obligaciones:
+XIV. Desempeñarse como un organismo de vinculación entre los sectores público, social y privado para la implementación de estrategias de promoción y prevención en materia de salud mental.
 
-I. Proporcionar datos veraces, oportunos, completos y exactos;
+XV. Proponer modificaciones a los programas y políticas públicas de salud mental, en base a la evaluación de los informes anuales.
 
-II. Mantener el control exclusivo de sus datos de creación de su firma electrónica avanzada;
+XVI. Vigilar la incorporación de modificaciones a los programas de salud mental de acuerdo a las evaluaciones y propuestas planteadas.
 
-III. Actualizar los datos contenidos en su certificado de firma electrónica avanzada;
+XVII. Emitir las recomendaciones necesarias a las autoridades competentes, en caso de incumplimiento de esta Ley.
 
-IV. Notificar a la autoridad certificadora, la pérdida de la firma electrónica avanzada o su certificado, en este caso solicitará su inmediata suspensión;
+XVIII. Promover actividades de investigación y capacitación vinculadas con la prevención, tratamiento, rehabilitación y reinserción social de las personas con problemas de salud mental.
 
-V. Resguardar su firma electrónica avanzada en un medio electrónico;
+XIX. Coadyuvar con las unidades administrativas competentes del Sistema Estatal de Salud en la promoción de acciones de prevención, consulta externa, hospitalización, rehabilitación y reintegración social de las personas con problemas de salud mental.
 
-VI. Actuar con diligencia y establecer los medios para evitar la utilización no autorizada de los datos de creación de su firma electrónica avanzada;
+XX. Establecer acciones y estrategias de sensibilización entre la población en general acerca de la salud mental, y convocar a la comunidad a participar en la prevención de problemas de salud mental, así como en la rehabilitación y reintegración social de las personas con problemas de este tipo.
 
-VII. Responder por las obligaciones derivadas del uso no autorizado de su firma, cuando no hubiere obrado con la suficiente diligencia para impedir su utilización, y
+XXI. Favorecer acciones que tiendan a la disminución de los riesgos asociados con la generación de problemas de salud mental entre la población.
 
-VIII. Dar aviso inmediato a los interesados cuando exista riesgo de que su firma electrónica avanzada sea controlada por terceros no autorizados.
+XXII. Las demás que le reconozca la presente Ley y demás disposiciones normativas aplicables.
 
-###### ARTICULO 53.
+###### Artículo 30.
 
-Será responsabilidad del destinatario:
+La Secretaría Técnica será el órgano de asistencia, operación y administración del Consejo.
 
-I. Verificar la fiabilidad de la firma electrónica avanzada, y
+El Secretario Técnico del Consejo será el Director del Instituto de Salud Mental del estado de Yucatán y deberá tener conocimiento reconocido en la materia.
 
-II. Revisar los límites de uso de la firma electrónica avanzada y la validez, suspensión, revocación o extinción del certificado de firma electrónica avanzada; los elementos necesarios para verificar lo anterior, estarán a la disposición del destinatario, a través de las autoridades certificadoras, del prestador de servicios certificados o del emisor.
+###### Artículo 31.
 
-### CAPITULO VI. De las Autoridades Certificadoras y de los Prestadores de Servicios de Certificación
+El Secretario Técnico tendrá las siguientes atribuciones:
 
-###### ARTICULO 54.
+I. Elaborar las convocatorias para las sesiones, por instrucción del
 
-Para los efectos de esta Ley, serán autoridades certificadoras las que determinen los sujetos previstos en las fracciones I, II, y III, del artículo 2° de esta Ley en los reglamentos correspondientes. Para el caso de los sujetos previstos en las fracciones IV, y V, del mencionado artículo, será la Auditaría (sic) Superior del Estado.
+Presidente del Consejo.
 
-###### ARTICULO 55.
+II. Representar legalmente al Consejo.
 
-Las autoridades certificadoras, podrán autorizar a los prestadores de servicios de certificación, realizar los servicios de expedición de certificados de firma electrónica avanzada y otros relacionados con la certificación.
+III. Tomar las medidas pertinentes a fin de que las funciones del Consejo se realicen de manera articulada, congruente y eficaz.
 
-###### ARTICULO 56.
+IV. Establecer los sistemas de control y evaluación necesarios para alcanzar las metas y objetivos propuestos por el Consejo.
 
-Las autoridades certificadoras serán las encargadas de autorizar, supervisar y coordinar a los prestadores de servicios de certificación.
+V. Presentar al Consejo un informe trimestral de los avances en la implementación del plan estatal de salud mental.
 
-###### ARTICULO 57.
+VI. Estudiar y evaluar los informes trimestrales que rindan las autoridades estatales y municipales, así como emitir una opinión al Consejo sobre las mejoras y la viabilidad de los programas realizados.
 
-Las autoridades certificadoras y los prestadores de servicios de certificación, para poder funcionar, deberán cumplir los siguientes requisitos:
+VII. Proponer al Consejo la lista de dependencias y entidades de la administración pública estatal y municipal que deban enviar su informe trimestral al Consejo, así como los contenidos mínimos que deben incluir.
 
-I. Tener las herramientas tecnológicas requeridas para la expedición, administración y resguardo de los certificados de firma electrónica avanzada;
+VIII. Ejecutar los acuerdos que dicte el Consejo.
 
-II. Contar con la infraestructura tecnológica requerida para llevar un registro en tiempo real, de certificados de firma electrónica avanzada expedidos, así como de los revocados o que hayan quedado sin efectos;
+IX. Las demás que le confiera el Presidente del Consejo, y que se establezcan en esta Ley y otras disposiciones legales y normativas aplicables.
 
-III. Poseer el basamento tecnológico requerido para la verificación de la firma electrónica avanzada;
+#### Sección IV. De los Prestadores de Servicios
 
-IV. Detentar los instrumentos tecnológicos necesarios para la consulta pública de la vigencia de los certificados de firma electrónica avanzada;
+###### Artículo 32.
 
-V. Disponer de la tecnología de seguridad indispensable para la preservación de los dispositivos de creación y verificación de la firma electrónica avanzada, así como para la protección y resguardo de datos personales;
+Todo prestador de servicios de salud mental del ámbito público, social y privado, debe observar los principios de la presente ley y actuar con un enfoque de derechos humanos, perspectiva de género e interculturalidad en la atención que brinde a las personas usuarias.
 
-VI. Contar con el personal técnico calificado responsable de la prestación del servicio de certificación;
+###### Artículo 33.
 
-VII. Tener el personal técnico calificado responsable de la infraestructura tecnológica utilizada en la prestación del servicio de certificación;
+Cuando un prestador de servicios de salud mental de los sectores público y privado observe síntomas y/o signos que hagan sospechar algún tipo de lesión física, discriminación, maltrato psicológico o cualquier otro signo que presuma la comisión de un delito en la persona usuaria, es de carácter obligatorio dar aviso inmediato a la autoridad correspondiente. El profesional de la salud mental deberá anotar en el expediente clínico los hallazgos anteriores poniendo un resumen médico que deberá llevar la fecha, día y hora de la atención de la persona usuaria y notificar con este documento a las autoridades legales correspondientes.
 
-VIII. Poseer la infraestructura inmobiliaria que garantice la seguridad de la infraestructura tecnológica utilizada en la prestación del servicio de certificación, y
+### Capítulo IV. De los Derechos y Obligaciones de las Familias y Personas a Cargo de las Personas con Trastornos Mentales
 
-IX. Contar con los manuales de procedimientos, para la expedición, administración y resguardo de los certificados de firma electrónica avanzada e información relacionada con éstos, así como para el tratamiento de datos personales.
+###### Artículo 34.
 
-###### ARTICULO 58.
+La atención que proporcionen los prestadores de servicios de salud mental debe realizarse a través de una red de profesionales e instituciones cuyo objetivo fundamental será facilitar la atención integral especializada requerida por el usuario.
 
-Las autoridades certificadoras y los prestadores de servicios de certificación, cuando expidan certificados de firma electrónica avanzada, únicamente podrán recabar datos personales directamente de los titulares de los mismos. Los datos requeridos serán exclusivamente los necesarios para la expedición y mantenimiento del certificado de firma electrónica avanzada.
+###### Artículo 35.
 
-###### ARTICULO 59.
+Todos los prestadores de servicios de salud mental deben participar y coadyuvar con las instancias oficiales en el diseño, operación y seguimiento de programas de educación para la salud mental, cuyos objetivos fundamentales están orientados a la desestigmatización, sensibilización, prevención y detección temprana de los trastornos mentales, mismos que serán dirigidos a la población en general.
 
-Las autoridades certificadoras y los prestadores de servicios de certificación, tendrán las siguientes atribuciones:
+Será de carácter obligatorio:
 
-I. Recibir y dar trámite a las solicitudes de expedición, revocación, suspensión y extinción de los certificados de firma electrónica avanzada, informando al respecto el costo de los servicios, características y las condiciones precisas de utilización del certificado;
+I.- Coordinarse con los Servicios de Salud de Yucatán, a través del Instituto de Salud Mental del Estado de Yucatán para la suscripción de convenios o acuerdos para beneficio de las personas usuarias y de la comunidad.
 
-II. Registrar la fecha y hora en las que se expidió, revocó, suspendió o extinguió un certificado de firma electrónica avanzada;
+II.- La información que sea difundida y publicada en los diversos medios de comunicación acerca de los diferentes trastornos mentales deberá estar sustentada en información científica actualizada, revistas indexadas y no tendrá más de dos años de haber sido publicada. Las publicaciones relativas al fenómeno suicida deberán sujetarse a lineamientos de la Organización Mundial de la Salud.
 
-III. Poner a disposición de los solicitantes los dispositivos necesarios para la creación de las claves pública y privada;
+III.- Colaborar en la prestación de servicios de salud mental a la población en casos de desastres. Los profesionales de la salud deberán acudir cuando se les requiera por el Estado en situaciones especiales de carácter urgente en los cuales sus servicios son fundamentales para evitar consecuencias graves para la salud mental de la población.
 
-IV. Homologar los certificados expedidos fuera del territorio del Estado, cuando así proceda;
+IV.- Que los recursos humanos especializados en salud mental participen en la capacitación y supervisión del personal de atención primaria a la salud, así como de los recursos humanos de salud en formación; incluyendo asesoría permanente fundamentalmente en los casos de trastornos mentales graves.
 
-V. Guardar confidencialidad respecto a la información que haya recibido para la expedición del certificado de firma electrónica avanzada;
+###### Artículo 36.
 
-VI. Llevar un registro de los certificados de firma electrónica avanzada que expidan, revoquen, suspendan y extingan;
+Para efectos de contratación del personal necesario y considerando la prioridad de atención de salud mental en la población, las instituciones públicas y privadas del sistema estatal de salud mental, considerarán el cumplimiento del perfil y criterios de formación y competencias suficientes, determinadas por la instancia rectora de la salud mental, en función del nivel de atención y servicio al que se asignarán.
 
-VII. Adoptar las medidas de seguridad necesarias para evitar la falsificación, alteración o uso indebido de los certificados de firma electrónica avanzada;
+###### Artículo 37.
 
-VIII. Revocar, mediante acuerdo, los certificados de firma electrónica avanzada, cuando se actualice alguna de las causales previstas en esta Ley;
+Es obligatorio que los profesionales que coordinan y/o capacitan en programas de promoción, prevención y atención de la salud mental tengan formación en:
 
-IX. Garantizar la autenticidad, integridad, conservación, confidencialidad y confiabilidad de la firma electrónica avanzada, así como de los servicios relacionados con la misma;
+I. Los métodos para la elaboración de programas preventivos.
 
-X. Proteger los datos personales de los titulares de los certificados de firma electrónica avanzada, conforme a las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado, ley especial de la materia y demás ordenamientos legales aplicables;
+II. Las diferentes campañas y programas gubernamentales internacionales, nacionales y regionales vinculados con la salud mental.
 
-XI. Abstenerse de reproducir o copiar por cualquier medio, los datos de creación de la firma electrónica avanzada, y
+III. En las intervenciones clínicas más efectivas basadas en evidencia científica.
 
-XII. Las demás que les confieran e impongan otras disposiciones aplicables.
+El Estado, a través del Instituto de Salud Mental garantizará la formación y actualización continua de los prestadores de servicios a través de: programas curriculares, cursos de actualización, diplomados y post grados con el aval de las autoridades educativas del área de la salud.
 
-###### ARTICULO 60.
+###### Artículo 38.
 
-Son atribuciones solamente de las autoridades certificadoras, las siguientes:
+La promoción de la salud mental y la prevención de los trastornos mentales, incluyendo el suicidio, son de carácter prioritario. Se basará en el conocimiento de los determinantes sociales de la salud mental, los métodos de conservación y mejoramiento de la salud mental, prevención y control multidisciplinario de los factores de riesgo que pueden conducir a un trastorno mental o a cometer suicidio.
 
-I. Establecer el Registro Público de Prestadores de Servicios de Certificación;
+###### Artículo 39.
 
-II. Sancionar a los prestadores de servicios de certificación, en los términos de esta Ley y los reglamentos, cuando se compruebe que han incurrido en irregularidades o actos ilícitos en ejercicio de esta actividad;
+El Consejo Estatal de Salud Mental deberá asegurar la existencia de programas de promoción de la salud mental y prevención de los trastornos mentales y el suicidio, vigilando el adecuado uso de los recursos presupuestales destinados a estos.
 
-III. Participar en la elaboración de los convenios que los sujetos de la Ley, previstos en la (sic) fracciones I, II, III, IV, y, V, del artículo 2° de ésta Ley, celebren con autoridades de la Federación, de los Estados, de los municipios, o del Distrito Federal, para establecer los mecanismos de colaboración para la implementación de la firma electrónica avanzada, y
+###### Artículo 40.
 
-IV. Los demás que le confiere esta Ley, su Reglamento y otras disposiciones aplicables.
+Entre los programas de promoción de la salud mental deberán incluirse, las siguientes intervenciones:
 
-###### ARTICULO 61.
+I.- Escuelas para padres para fortalecer la integración y bienestar familiar.
 
-Son obligaciones solamente de los prestadores de servicios de certificación, las siguientes:
+II.- Campañas permanentes en diferentes medios de difusión masiva, de psicoeducación a la población sobre salud mental, de sensibilización para reducir el estigma y la discriminación.
 
-I. Dar aviso a la autoridad certificadora que lo haya autorizado de los certificados que expida y de la modificación que hagan a los mismos, así como remitir copia de los certificados expedidos y de sus modificaciones al registro de certificados de firma electrónica avanzada correspondiente;
+III.- Entrenamiento en habilidades para la vida para fortalecer el autocuidado y la salud mental positiva.
 
-II. Comunicar a la autoridad certificadora respectiva el cese de sus actividades como prestador de servicios de certificación, a fin de que ésta determine el destino de sus archivos y registros;
+IV.- Información sobre derechos humanos de las personas con trastorno mental.
 
-III. Notificar a la autoridad certificadora correspondiente de cualquier limitación en cuanto al ejercicio de sus responsabilidades;
+V.- Capacitación sobre entornos mentalmente saludables en el ambiente laboral, escolar, el hogar y las comunidades.
 
-IV. Pagar los derechos correspondientes al ejercicio de esta actividad;
+VI.- Colaboración intersectorial coordinada, articulada y permanente para mejorar la calidad de vida de la población, particularmente en niños, niñas, adolescentes y adultos mayores con discapacidad y grupos vulnerables.
 
-V. Garantizar las responsabilidades en que pudiere incurrir en el ejercicio de su actividad, debiendo otorgar y mantener vigente ante la autoridad certificadora, el equivalente a 1000 veces el salario mínimo vigente en la zona económica que corresponda al Estado,
+VII.- Creación de comités y foros escolares de salud mental.
 
-VI. Notificar de la conclusión de sus actividades, cuando así lo decidan, a las autoridades certificadoras de acuerdo a lo establecido en los Reglamentos de ésta Ley, y
+VIII.- Incorporación del componente de salud mental en el diseño curricular desde los primeros años de educación.
 
-VII. Los demás que establezca esta Ley, sus Reglamentos, y otras disposiciones aplicables.
+IX.- Entrenamiento en desarrollo humano para el personal de salud y cuidadores; y
 
-La obligación fijada en la fracción V, corresponde únicamente a las personas establecidas en las fracciones I y II del artículo 62 de ésta Ley.
+X.- Otras acciones propuestas por las instancias responsables de la salud mental en el estado.
 
-###### ARTICULO 62.
+###### Artículo 41.
 
-Los servicios de certificación podrán ser prestados, previa autorización de la autoridad certificadora, por:
+Entre los programas de prevención de los trastornos mentales deberán incluirse las siguientes intervenciones:
 
-I. Los notarios públicos;
+I.- Prevención del suicidio en todas las edades.
 
-II. Las personas físicas y morales habilitadas para tal efecto, y
+II.- Grupos de duelo, especialmente para grupos vulnerables.
 
-III. Los sujetos obligados señalados en las fracciones I, II, III, IV y V del artículo 2° de ésta Ley.
+III.- Prevención de los trastornos mentales.
 
-La autorización a los prestadores de servicios de certificación realizada por la autoridad certificadora, deberá ser publicada en el Periódico Oficial del Estado de San Luis Potosí, antes de que inicien la prestación de sus servicios.
+IV.- Prevención y atención de la violencia familiar y sexual.
 
-### CAPITULO VII. De las Responsabilidades y Sanciones
+V.- Prevención y atención de la violencia en el noviazgo.
 
-###### ARTICULO 63.
+VI.- Erradicación de la problemática relacionada con la violencia e intimidación en entornos escolares, laborales y comunitarios.
 
-En contra de los actos o resoluciones emitidos en términos de esta Ley, procederá el juicio de nulidad en la forma y términos señalados en la Ley de Justicia Administrativa del Estado de San Luis Potosí, esto sin perjuicio de las responsabilidades administrativas, penales o civiles.
+VII.- Prevención del maltrato y del abuso sexual infantil.
 
-###### ARTICULO 64.
+VIII.- Prevención de las adicciones.
 
-Los servidores públicos serán responsables, y sancionados, por el incumplimiento de las disposiciones de la presente Ley, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+IX.- Prevención de riesgos psicosociales en el trabajo.
 
-###### ARTICULO 65.
+> <small>(REFORMADA, D.O. 2 DE JULIO DE 2024)</small>
 
-Los titulares o representantes de los mismos que dieren uso indebido, utilicen o se sirvan de un certificado de firma electrónica avanzada como medio para cometer actos, hechos u omisiones constitutivos de algún ilícito, serán responsables de las consecuencias jurídicas, daños o perjuicios que ocasionen.
+X.- Tamizaje universal, de manera permanente, a toda la población, con énfasis en escuelas y comunidades para identificar, canalizar y tratar a personas con trastornos mentales y del comportamiento o trastornos relacionados con el uso de sustancias y riesgo suicida.
 
-###### ARTICULO 66.
+Todo personal involucrado en el tratamiento a pacientes con conducta suicida, está obligado a la confidencialidad de la información en torno a estos casos, en apego a lo establecido por la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados.
 
-Los prestadores de servicios de certificación, serán responsables civil y penalmente por el incumplimiento de sus funciones, en los términos de las leyes aplicables.
+En caso de tratarse del intento de suicidio de un niño, niña o adolescente, será obligación de la institución médica que primero conozca del caso dar aviso del incidente a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, a efecto de solicitar las medidas de protección que sean necesarias para salvaguardar la integridad física de los mismos.
 
-###### ARTICULO 67.
+XI.- Intervención en casos de desastres naturales.
 
-Las autoridades certificadoras podrán recibir quejas y aplicar sanciones a los prestadores de servicios de certificación, cuando Incumplan alguna de las obligaciones previstas en esta Ley.
+> <small>(REFORMADA, D.O. 2 DE JULIO DE 2024)</small>
 
-###### ARTICULO 68.
+XII.- Creación y operación, de un Consejo Municipal de Salud Mental y Prevención de Adicciones en cada municipio, a cargo de los ayuntamientos, como un órgano de consulta, análisis y asesoría para el desarrollo de planes, programas y proyectos que en (sic) materia de prevención, atención y capacitación.
 
-Atendiendo a la gravedad de la infracción, las autoridades certificadoras podrán imponer a los prestadores de servicios de certificación sanciones de carácter administrativo mismas que consistirán en:
+> <small>(ADICIONADA, D.O. 2 DE JULIO DE 2024)</small>
 
-I. amonestación por escrito;
+XIII.- Creación y operación de, Brigadas de Atención a la Salud Mental por parte de los ayuntamientos, los cuales deberán reportar los avances a los Servicios de Salud de Yucatán. Para contribuir adecuadamente, cada municipio recibirá asesoría y capacitación correspondiente.
 
-II. Multa de diez a doscientos días de salario mínimo general vigente en el Estado;
+XIV.- Otras acciones determinadas por las instancias responsables de la salud mental.
 
-III. Suspensión de la autorización para prestar sus servicios al público, de un mes a tres años, y
+###### Artículo 42.
 
-IV. Revocación de la autorización otorgada.
+Los servicios de promoción de la salud y prevención de los trastornos mentales deben brindarse en todas las unidades de salud, ser accesibles a todos los segmentos de la población y poner especial atención a los grupos vulnerables.
 
-###### ARTICULO 69.
+###### Artículo 43.
 
-Las autoridades certificadoras tomarán en cuenta, para determinar la sanción aplicable a los prestadores de servicios de certificación;
+Los medios masivos de comunicación están obligados a manejar de manera ética, responsable y objetiva la información concerniente a salud mental, incluyendo el tema de la violencia y el suicidio, con especial observancia a la no estigmatización, la no discriminación, al derecho a la confidencialidad y demás derechos mencionados en esta Ley.
 
-I. La gravedad y modalidad de la falta en que se haya incurrido;
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 2 DE JULIO DE 2024)</small>
 
-II. La reincidencia en la comisión de la falta, y
+###### Artículo 44.
 
-III. El monto del daño económico o perjuicio derivados de la falta.
+La atención al comportamiento suicida es de carácter prioritario y comprende:
+
+I.- El tamizaje universal de manera permanente para detectar el riesgo suicida y los factores asociados a este comportamiento, con el fin de informar y otorgar atención especializada a cualquier persona en riesgo de suicidio.
+
+II.- La atención urgente en hospitales o centros de salud a cualquier persona que acuda con comportamiento suicida, con el fin de establecer un plan de seguridad, darles un tratamiento integral y seguimiento por el tiempo requerido para cada persona en particular, de acuerdo con el Programa Nacional para la Prevención de Suicidio denominado Código Cien.
+
+III.- El establecimiento de una red integrada de servicios de salud mental para la atención del comportamiento suicida en el núcleo familiar.
+
+IV.- El registro de casos de ideación, comportamiento e intento suicida, para una adecuada vigilancia epidemiológica y seguimiento oportuno.
+
+V.- La detección y acompañamiento o tratamiento a los supervivientes de un suicidio.
+
+VI.- La capacitación continua del personal sanitario y no sanitario, en la detección, atención y seguimiento de las personas con comportamiento suicida.
+
+La capacitación incluirá un programa de formación a los trabajadores de la salud, educación, seguridad y justicia en las distintas áreas de prevención asistencial y posvención.
+
+###### Artículo 45.
+
+Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurará la atención inmediata de los menores que presenten signos o señales que indiquen autolesión o riesgo de suicidio.
+
+###### Artículo 46.
+
+Las personas encargadas de servicios médicos de los centros de readaptación social deberán a partir de que tengan conocimiento de actos de autolesión o intentos de suicidio, realizar la referencia a atención especializada. En el caso de personas que ingresen a las cárceles municipales en estado de intoxicación por alcohol o drogas, estarán bajo vigilancia especial hasta su liberación, porque representan una población de alto riesgo suicida.
+
+###### Artículo 47.
+
+Todas las instituciones tienen la obligación de reportar las incidencias de casos de autolesión y conducta suicida a los Servicios de Salud de Yucatán.
+
+###### Artículo 48.
+
+Es responsabilidad de los Servicios de Salud de Yucatán llevar a cabo el Programa de Investigación, Prevención y Atención del fenómeno Suicida.
+
+### Capítulo VIII. De la Atención en Salud Mental por Grupo de Edad y Vulnerabilidad
+
+###### Artículo 49.
+
+La Red Estatal de Salud Mental fomentará y realizará acciones dirigidas a la prevención y detección de problemas y trastornos mentales en grupos poblacionales vulnerables.
+
+###### Artículo 50.
+
+Los servicios públicos de salud darán atención especializada a personas con trastornos mentales en todas las etapas de la vida buscando dar prioridad a las personas de grupos vulnerables, pobreza extrema y/o en situación de calle, de emergencia o de desastres. Para tal efecto, deberán vincularse y trabajar en coordinación con asociaciones que atienden a estos grupos vulnerables.
+
+### Capítulo V. Del Sistema Estatal de Salud Mental
+
+#### Sección I. De las Atribuciones y Obligaciones de los Servicios de Salud de Yucatán
+
+###### Artículo 51.
+
+Todas las instituciones que integran el Consejo Estatal de Salud Mental, se coordinarán, según su ámbito de competencia, para el diseño e implementación de programas de: promoción de la salud mental, prevención de problemáticas y trastornos; rehabilitación psicosocial; detección precoz y prevención temprana de diferentes problemáticas infantiles como abuso infantil, bullying, entre otros.
+
+###### Artículo 52.
+
+El Estado, a través del Instituto de Salud Mental, establecerá la normatividad necesaria para la aplicación de las acciones señaladas en el artículo anterior. El Consejo Estatal de Salud mental vigilará que se lleven a cabo en las instituciones que correspondan.
+
+###### Artículo 53.
+
+Los Servicios de Salud de Yucatán a través del Instituto de Salud Mental, en coordinación con la Secretaría de Educación, llevarán a cabo acciones para la incorporación en la currícula de asignaturas, estrategias y programas de salud mental en todos los niveles educativos; asimismo, proporcionarán capacitación y material informativo en salud mental al personal de educación y a los padres de familia, con el fin de identificar y prevenir algún tipo de trastorno mental en el menor y aplicar las medidas conducentes.
+
+### Capítulo VI. De la Promoción de la Salud Mental y Prevención de los Trastornos Mentales
+
+###### Artículo 54.
+
+La Secretaría de Educación deberá reportar al Consejo Estatal de Salud Mental el estatus de los programas de promoción y prevención de salud mental para las escuelas, aprobados por el mismo, y expedir la normatividad y medidas necesarias para que las instituciones de educación privada apliquen las acciones señaladas en este artículo y el artículo anterior.
+
+###### Artículo 55.
+
+Toda autoridad, actor social o líder comunitario que esté en contacto con personas que sugieran sintomatología de trastornos mentales, procurarán la oportuna y debida atención de los mismos.
+
+###### Artículo 56.
+
+El tratamiento a menores de edad se llevará a cabo sólo con el consentimiento informado de su representante legal, después de conocer de manera clara y objetiva los beneficios y riesgos. El consentimiento informado podrá ser revocable mientras no se inicie la intervención.
+
+###### Artículo 57.
+
+La hospitalización de menores de edad deberá realizarse:
+
+I. Cuando el menor corra riesgo de hacerse daño o dañar a terceros, previa valoración de un equipo interdisciplinario.
+
+II. Siempre en instituciones especializadas en menores o en áreas totalmente separadas de aquellas en las que se da atención a adultos.
+
+III. Mediante ingreso voluntario o de su representante legal de acuerdo a lo establecido en la legislación vigente; salvo opinión de dos o más especialistas que consideren que se cumplen los criterios clínicos del internamiento.
+
+IV. En entornos apropiados a su edad y en los que se consideren sus necesidades de desarrollo especialmente el acceso a la educación y recreación, asegurando la existencia de juguetes, materiales educativos y actividades recreativas.
+
+###### Artículo 58.
+
+Los menores que requieran internamiento por trastornos mentales deben tener acceso a su representante legal, que debe ser un miembro de la familia, siempre que no existan conflictos de intereses reales o potenciales que pudieran dañar al menor, en cuyo caso se buscará otro miembro de la familia o un tercero libre de conflictos.
+
+###### Artículo 59.
+
+Las intervenciones quirúrgicas en niños y niñas, únicamente han de realizarse en caso de enfermedad grave que ponga en riesgo su vida, previa indicación de su médico tratante, revisión del comité de ética e investigación de la institución y la autorización del representante legal.
+
+###### Artículo 60.
+
+Las instituciones que ofrezcan internamiento deberán contar con dormitorios separados para mujeres y hombres con la misma calidad y la privacidad necesaria que limite y elimine las posibilidades de que puedan sufrir explotación física, acoso y/o abuso sexual por parte de otras personas usuarias o del personal de salud.
+
+###### Artículo 61.
+
+La población migrante gozará de los servicios de salud mental a que tienen derecho la población del estado.
+
+###### Artículo 62.
+
+El Estado deberá garantizar que las personas que han sido sujetas a un juicio de interdicción cuenten con un representante legal, quien a su vez será supervisado por el Estado y por un órgano de revisión conformado por representantes de grupos de personas usuarias y familiares, avalado por el Consejo de Salud Mental.
+
+### Capítulo IX. De los Servicios de Salud Mental en Unidades de Salud
+
+#### Sección I. De la Atención de Salud Mental en Unidades Públicas de Primer Nivel
+
+### Capítulo VII. De la Atención al Comportamiento Suicida
+
+> <small>(REFORMADO, D.O. 2 DE JULIO DE 2024)</small>
+
+###### Artículo 63.
+
+Para efectos de esta Ley, se entenderán como unidades públicas de primer nivel a aquellas que ofrecen servicios generales de salud como promoción, prevención, detección y orientación a la población. Comprende centros de salud y unidades médicas móviles de los Servicios de Salud de Yucatán y unidades de salud municipales.
+
+###### Artículo 64.
+
+Todas las unidades públicas de primer nivel deberán ofrecer servicios de salud mental mediante los referidos módulos comunitarios de salud mental, de acuerdo a la normatividad correspondiente y a lo dispuesto por las autoridades sanitarias.
+
+###### Artículo 65.
+
+Para la óptima calidad de los servicios prestados en estas unidades se deberá garantizar:
+
+I. Que el personal médico y paramédico que labora en estos centros reciba capacitación en salud mental en materia de promoción, prevención, detección, tratamiento y seguimiento.
+
+II. Existencia de un equipo interdisciplinario de salud mental o al menos de profesionistas en psicología en cada una de estas unidades de primer nivel y módulos comunitarios de salud mental.
+
+III. Educación continua a médicos generales que han sido capacitados en salud mental.
+
+IV. Un presupuesto específico asignado para la contratación de recursos humanos, abasto de medicamentos psicotrópicos e infraestructura requerida.
+
+###### Artículo 66.
+
+En los Módulos Comunitarios de Salud Mental, se llevarán a cabo acciones permanentes de promoción a la salud mental, de prevención de las enfermedades mentales, de detección temprana y de tratamiento oportuno de estas las (sic) patologías. En estos módulos se realizará una valoración integral, psicológica y psiquiátrica, para definir si es adecuado proporcionar la atención psicoterapéutica y farmacológica, o deberá el paciente usuario ser referido a algún, CISAME o centro especializado en psiquiatría.
+
+#### Sección II. De la Atención de Salud Mental en Unidades Médicas Ambulatorias Especializadas en Salud Mental
+
+###### Artículo 67.
+
+Para efectos de esta Ley, se entenderán como unidades médicas ambulatorias especializadas en salud mental, aquellas unidades públicas que prestan servicios específicamente de salud mental y cuentan con un equipo interdisciplinario de salud mental conformado por psicólogos/as y un médico especialista en psiquiatría, o diplomado en salud mental. En el sector público comprende los Centros de Atención Primaria en Adicciones (CAPA) y los Centros Integrales de Salud Mental (CISAME), así como otras unidades de salud mental de tipo ambulatorio que cuenten con especialistas.
+
+###### Artículo 68.
+
+Todas las unidades médicas especializadas públicas, ofrecerán servicios de promoción, prevención, evaluación, diagnóstico, tratamiento y rehabilitación en materia de salud mental, adicciones y violencia, de acuerdo a la normatividad y leyes aplicables vigentes y a lo dispuesto en la política nacional y estatal de salud mental.
+
+###### Artículo 69.
+
+Para la óptima calidad de los servicios prestados en estas unidades se deberá garantizar:
+
+I. Que los profesionales de la salud mental que laboran en estas unidades tengan el perfil profesional en lo referente a formación académica y experiencia en el área clínica.
+
+II. La creación de estas unidades en las tres jurisdicciones sanitarias del estado.
+
+III. Contar con farmacias con licencia sanitaria.
+
+IV. El mantenimiento periódico e insumos necesarios para su operación.
+
+V. Que el personal reciba capacitación continua acorde a su ámbito de competencia.
+
+VI. Un presupuesto específico asignado para la operación de estas unidades.
+
+VII. La supervisión periódica por un equipo de expertos y representantes de organizaciones de personas usuarias y familiares.
+
+#### Sección III. De la Atención de Salud Mental en Hospitales Generales
+
+###### Artículo 70.
+
+Los hospitales generales públicos y privados deberán brindar promoción, prevención y atención en materia de salud mental, así como servicios psiquiátricos de urgencias, cuidados intensivos y hospitalización breve o de corta estancia.
+
+###### Artículo 71.
+
+Para el adecuado funcionamiento de estos servicios se deberá garantizar:
+
+I. La creación de una unidad de psiquiatría en todos los hospitales generales del Estado para los servicios de consulta externa, urgencias y hospitalización psiquiátricas.
+
+II. Que la unidad de psiquiatría esté conformada por profesionales de la salud mental con postgrado en psiquiatría y psicología clínica.
+
+III. Contar con un porcentaje del 5% de camas de psiquiatría, el cual deberá ser estipulado en el reglamento de esta ley.
+
+IV. La creación en cada hospital general de un área de cuidados intensivos psiquiátricos.
+
+V. Que el personal médico de urgencias o de primer contacto no especializado en salud mental esté capacitado para realizar intervenciones a personas usuarias con trastornos mentales y garantizar la continuidad del tratamiento en la unidad que corresponda, en casos de autolesión o intento suicida.
+
+VI. Que el personal médico y paramédico de las diferentes áreas y programas que labora en hospitales generales y en el traslado de personas usuarias reciba capacitación en salud mental en materia de sensibilización, promoción, prevención, detección y derechos humanos.
+
+VII. La supervisión periódica por un equipo de expertos del Instituto de Salud Mental, con la participación de representantes de organizaciones de personas usuarias y familiares.
+
+###### Artículo 72.
+
+El Estado deberá garantizar e impulsar el servicio de Telepsiquiatría desde los hospitales generales, que permita, por un lado, ampliar la cobertura en la atención y, por otro, dar seguimiento a las personas usuarias cerca de su comunidad.
+
+#### Sección IV. De la Atención en Villas de Transición Hospitalaria
+
+###### Artículo 73.
+
+Para fortalecer los servicios especializados de salud mental, la adecuada rehabilitación y reinserción social de las personas usuarias, el Estado deberá crear villas de transición hospitalaria
+
+###### Artículo 74.
+
+Las villas de transición hospitalaria ofrecerán servicios de hospitalización media de puertas abiertas: evaluación, diagnóstico, tratamiento y rehabilitación integral en materia de salud mental, de acuerdo a la normatividad aplicable vigente y a lo dispuesto en la política nacional de salud mental.
+
+###### Artículo 75.
+
+Para el adecuado funcionamiento de estos servicios se deberá garantizar:
+
+I. La existencia de personal de psiquiatría, psicología clínica, enfermería, trabajo social, rehabilitación, terapia ocupacional, cocina e intendencia altamente calificado y capacitado en las funciones propias del servicio, además de contar con la infraestructura necesaria.
+
+II. la consulta y servicios de urgencias por profesionales de la salud mental con experiencia y postgrado en psiquiatría y psicología clínica.
+
+III. El acceso gratuito, libre y voluntario.
+
+IV. La creación de programas y talleres de orientación.
+
+V. La separación de áreas de hombres y mujeres, así como equidad en el acceso y calidad del servicio.
+
+VI. Un presupuesto específico asignado para la operación de estas unidades.
+
+VII. La supervisión periódica por un equipo de expertos y representantes de organizaciones de personas usuarias y familiares.
+
+VIII. La evaluación periódica por el comité de ética e investigación del Instituto de Salud Mental.
+
+#### Sección V. De la Hospitalización en Instituciones Públicas y Privadas
+
+###### Artículo 76.
+
+Para efectos del presente Capítulo, hospitalización es la permanencia temporal de una persona con un trastorno mental en alguna de las instituciones del sector público o privado, donde un médico psiquiatra determina si se requiere y cumple los criterios de internamiento, para la pronta recuperación, privilegiando la rehabilitación y reintegración psicosocial de la persona.
+
+###### Artículo 77.
+
+El consentimiento informado de las personas usuarias, de algún familiar, tutor, tutora o representante legal es la base para el ingreso a las unidades que prestan atención integral hospitalaria médico-psiquiátrica, y deberá cumplir con todos los elementos especificados en la normatividad vigente correspondiente. En estas unidades el ingreso puede ser:
+
+I.- Voluntario: requiere la solicitud firmada de la persona usuaria y la indicación del personal profesional médico a cargo del servicio de admisión de la unidad, ambos por escrito, haciendo constar el motivo de la solicitud e informando a sus familiares o a su representante legal.
+
+II.- Involuntario: requiere la valoración psiquiátrica a su ingreso, y a la brevedad posible integrar un diagnóstico psicológico, neurológico, psiquiátrico y de aquellas especialidades médicas necesarias, según la condición clínica de la persona usuaria. El diagnóstico deberá acompañarse de un informe del área de trabajo social, el cual deberá ser avalado por los análisis y estudios conforme a sus síntomas y la solicitud escrita del representante legal. Los internamientos involuntarios deberán comunicarse inmediatamente al ministerio público o autoridad competente.
+
+III.- El ingreso por orden de autoridad: se llevará a cabo cuando lo solicite la autoridad competente, basado en un diagnóstico e indicaciones de un médico especialista, que cumpla con los criterios de internamiento. Son autoridades competentes para solicitar ingresos, las autoridades judiciales y los órganos de procuración de justicia.
+
+En caso de urgencia psiquiátrica, el paciente puede ingresar por indicación escrita de los especialistas antes referidos, requiriéndose la firma del familiar responsable que está de acuerdo con el internamiento, quien está obligado a dar aviso al ministerio público y a su representante dentro de los 7 días hábiles posteriores a su ingreso; el paciente será evaluado por un equipo interdisciplinario de salud mental para atención médica integral; será el médico psiquiatra quien valorará la pertinencia de continuar con el tratamiento hospitalario o ambulatorio; en cuanto las condiciones de la persona usuaria lo permitan, será informada de su situación de internamiento involuntario para que, en su caso, otorgue su consentimiento libre e informado y su condición cambie a la de ingreso voluntario.
+
+###### Artículo 78.
+
+Las instituciones de internación de personas con trastornos mentales, deberán cumplir con lo establecido en la Ley General de Salud, la Ley de Salud del Estado, la presente Ley, y demás disposiciones jurídicas aplicables.
+
+###### Artículo 79.
+
+La hospitalización de personas con trastornos mentales se debe ajustar a criterios contemplados en la Ley General de Salud, la presente Ley y demás normatividad aplicable, así como a principios éticos, científicos, legales y sociales.
+
+###### Artículo 80.
+
+El ingreso de menores de edad deberá hacerse en un establecimiento o área específicamente destinada a la atención de menores en un hospital general o en el Hospital Psiquiátrico Yucatán, tomando las medidas necesarias para proteger sus derechos en apego a la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+###### Artículo 81.
+
+La restricción física sólo puede autorizarse cuando se trata del único medio disponible para prevenir un daño inmediato e inminente contra sí o contra terceros, y cuando sean empleados será por un período de tiempo lo más corto posible.
+
+Para un manejo adecuado de este recurso deberá observarse lo siguiente:
+
+I.- Ser autorizados únicamente por un profesional de salud mental acreditado.
+
+II.- Valoración por el médico especialista cada cuatro horas, incluyendo la toma de signos vitales, para decidir si continúa bajo la restricción física, haciendo constar en el expediente clínico los signos vitales y el motivo de continuar en restricción.
+
+III.- Existir un contacto personal, activo y permanente con la persona sujeta a restricciones físicas.
+
+IV.- Registrar todos los casos de restricción física, sus motivos, su carácter y duración en el historial clínico del paciente.
+
+V.- Mantener al paciente sometido a restricción en condiciones dignas y bajo el cuidado y la supervisión inmediata y regular del personal calificado.
+
+VI.- Dar pronto aviso a los representantes personales de la persona usuaria y los motivos del mismo.
+
+#### Sección VI. De la Atención de Salud Mental en Centros de Readaptación Social
+
+###### Artículo 82.
+
+Los centros de readaptación social deberán contar, además de lo previsto en la Ley General de Salud, con un módulo de salud mental con personal médico entrenado para la implementación de programas de promoción de la salud mental y acciones de prevención y atención de los trastornos mentales, neurológicos y/o por uso de sustancias incluyendo la prevención de la violencia y el suicidio.
+
+###### Artículo 83.
+
+Toda persona que ingrese a un centro de readaptación social deberá ser valorada y diagnosticada por profesionales especializados en psiquiatría y psicología clínica. En caso de diagnóstico de trastorno mental dar aviso a la autoridad judicial y al defensor que corresponda.
+
+###### Artículo 84.
+
+Las personas encargadas de servicios médicos de los centros de readaptación deberán a partir de que tengan conocimiento de algún trastorno mental, neurológico, y/o por uso de sustancias, así como actos de autolesión o intentos de suicidio, brindar atención básica y realizar la referencia a atención especializada.
+
+###### Artículo 85.
+
+El Estado a través del Instituto de Salud Mental deberá garantizar los tratamientos adecuados para la recuperación de las personas con trastornos mentales y protección en instituciones especializadas en el manejo de personas con discapacidad psicosocial irreversible.
+
+###### Artículo 86.
+
+El tratamiento de las personas inimputables deberá ser realizado en instituciones de salud especializadas, de acuerdo a lo dispuesto en el Código Penal Federal y a los principios y derechos fundamentales establecidos en esta Ley.
+
+###### Artículo 87.
+
+Se implementarán programas para aprovechar los recursos disponibles en los reclusorios preventivos, como son el centro escolar y los diferentes talleres donde la persona usuaria de los servicios de salud mental se encuentre bajo custodia, con la finalidad de que pueda realizar actividades encaminadas a su rehabilitación.
+
+#### Sección VII. De la Atención de Salud Mental en Hogares Protegidos
+
+###### Artículo 88.
+
+Las personas usuarias que ingresen a estos centros deben ser valorados por un médico psiquiatra y contar con un expediente clínico, así como con el consentimiento informado de la persona legalmente responsable.
+
+###### Artículo 89.
+
+Los hogares protegidos deberán contar con un médico capacitado en salud mental y con un espacio para el resguardo de los expedientes clínicos, incluyendo la hoja de consentimiento informado, firmado por la persona legalmente responsable y el médico.
+
+###### Artículo 90.
+
+Estos centros deberán facilitar el acceso a servicios médicos y de salud mental, así como a programas de rehabilitación psicosocial, que incluyan la rehabilitación cognitiva.
+
+###### Artículo 91.
+
+Estos centros deberán recibir la supervisión periódica por un equipo de expertos del Instituto de Salud Mental, con la participación de representantes de organizaciones de personas usuarias y familiares.
+
+### Capítulo X. Del Financiamiento en Salud Mental
+
+###### Artículo 92.
+
+La inversión en materia de salud mental constituye una acción de interés social, por ello resulta prioritario e indispensable el financiamiento de las acciones y fines a que se refiere la presente Ley.
+
+###### Artículo 93.
+
+El Titular del Poder Ejecutivo al remitir al Congreso Local la Iniciativa de Decreto por el que se apruebe el Presupuesto de Egresos del Estado para el ejercicio fiscal que corresponda, deberá considerar dentro del rubro asignado a la Secretaría de Salud, los recursos suficientes para:
+
+I. Garantizar la organización, planeación, supervisión y distribución de los servicios de salud mental.
+
+II. Garantizar la integración de intervenciones de salud mental de calidad en la atención primaria de salud.
+
+III. Garantizar la atención mediante el personal interdisciplinario suficiente con los niveles de especialización necesarios y actualización constante para la mejor prestación de los servicios.
+
+IV. Modernizar, equipar y dar mantenimiento a las unidades médicas especializadas en salud mental y psiquiatría.
+
+V. Garantizar óptimas condiciones de infraestructura, seguridad, higiene e insumos para una adecuada estancia, alimentación y vestimenta, en las unidades que prestan servicios de hospitalización en materia de salud mental.
+
+VI. Garantizar lo dispuesto en esta ley.
+
+###### Artículo 94.
+
+El Estado deberá garantizar la disponibilidad del cuadro básico de medicamentos psicotrópicos establecidos por la normatividad vigente en unidades públicas del sector salud tales como centros de salud, unidades y centros especializados en salud mental, hospitales comunitarios, hospitales generales e Instituto de Salud Mental.
+
+###### Artículo 95.
+
+El Gobierno estatal asignara el 7% del presupuesto total designado a la Secretaria de Salud de Yucatán, al funcionamiento del Instituto de salud mental del Estado de Yucatán y al desarrollo e implementación los servicios y el programa de salud mental y sus estrategias señaladas en la presente Ley.
+
+###### Artículo 96.
+
+La Secretaría deberá considerar en la erogación del recurso asignado, medidas a corto, mediano y largo plazo para la creación de Módulos y dispositivos Comunitarios de Salud Mental, las villas de transición y Unidades de hospitalización psiquiátrica en los hospitales Generales y de especialidad, que garanticen la ampliación de la cobertura de los servicios de salud mental.
+
+### Capítulo XI. De las Sanciones y del Recurso de Inconformidad
+
+###### Artículo 97.
+
+Las violaciones a los preceptos de esta Ley, su reglamento y demás disposiciones legales que de ella emanen, serán sancionados administrativamente por:
+
+I.- La Secretaría de la Contraloría General del Estado de Yucatán, y
+
+II.- La Secretaría de Salud de Yucatán.
+
+Lo anterior, sin menoscabo de las sanciones que establezcan otros ordenamientos jurídicos.
+
+###### Artículo 98.
+
+La Secretaría de la Contraloría General del Estado de Yucatán es competente para conocer las acciones u omisiones que cometan los servidores públicos que deriven en incumplimiento de esta ley, de conformidad con la legislación aplicable en materia de responsabilidades administrativas.
+
+###### Artículo 99.
+
+La Secretaría de Salud de Yucatán, conocerá de las contravenciones a las disposiciones señaladas en la presente Ley, sólo para el caso de los establecimientos públicos y privados que incumplan la presente Ley.
+
+###### Artículo 100.
+
+El interesado podrá interponer el medio de impugnación a que se refiere la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán, contra los actos que cometa la Secretaría en el ejercicio de sus funciones, y que considere que vulneran las disposiciones de esta Ley o sus derechos que le consagran las disposiciones legales.
+
+Artículos Transitorios:
+
+Entrada en vigor
+
+Primero. Este decreto entrará en vigor el 1 de enero de 2019, previa su publicación en el diario oficial del gobierno del estado.
+
+Instalación
+
+Segundo. El Consejo de Salud Mental del Estado de Yucatán deberá instalarse en un plazo de ciento veinte días naturales a partir de la entrada en vigor del presente decreto.
+
+Expedición del reglamento interno
+
+Tercero. El Consejo de Salud Mental del Estado de Yucatán deberá expedir su reglamento dentro de un plazo de noventa días naturales contando a partir de su instalación.
+
+Creación del Instituto de Salud Mental del Estado de Yucatán
+
+Cuarto. El Ejecutivo Estatal deberá crear el Instituto de Salud Mental del Estado de Yucatán dentro de un plazo de ciento veinte días naturales contando a partir de la entrada en vigor del presente decreto.
+
+Programa Estatal
+
+Quinto. El Instituto de Salud Mental del Estado de Yucatán deberá expedir Programa Estatal de Salud Mental del Estado de Yucatán dentro de un plazo de noventa días naturales contados a partir de su creación.
+
+Presupuesto
+
+Sexto. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada en el Presupuesto de Egresos para el ejercicio anual vigente, instrumentará las acciones establecidas en el presente decreto.
+
+DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS A LOS QUINCE DÍAS DEL MES DE JULIO DEL AÑO DOS MIL DIECIOCHO.- PRESIDENTE DIPUTADO DANIEL JESÚS GRANJA PENICHE.- SECRETARIO DIPUTADO MARCO ANTONIO NOVELO RIVERO.- SECRETARIO DIPUTADO DAVID ABELARDO BARRERA ZAVALA.- RÚBRICAS."
+
+Y, por tanto, mando se imprima, publique y circule para su conocimiento y debido cumplimiento.
+
+Se expide este decreto en la sede del Poder Ejecutivo, en Mérida, a 16 de agosto de 2018.
+
+( RÚBRICA )
+
+Rolando Rodrigo Zapata Bello
+
+Gobernador del Estado de Yucatán
+
+( RÚBRICA )
+
+Martha Leticia Góngora Sánchez
+
+Secretaria general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE JULIO DE 2019.
 
 ## TRANSITORIOS
 
@@ -756,3 +1174,33 @@ P.O. 18 DE DICIEMBRE DE 2014.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga toda disposición contraria al presente Decreto.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 2 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 780/2024 POR EL QUE SE MODIFICAN DIVERSOS ARTÍCULOS DE LA LEY DE SALUD MENTAL DEL ESTADO DE YUCATÁN".]
+
+Entrada en vigor.
+
+Artículo Primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Acciones de capacitación.
+
+Artículo segundo. La implementación de las acciones de capacitación a que se refiere el presente Decreto estará sujeta a los recursos que al efecto autorice el Congreso del Estado en el Presupuesto de Egresos de cada ejercicio fiscal.
+
+Cláusula derogatoria
+
+Artículo tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este Decreto.
