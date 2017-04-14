@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-100533"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-27"
-last_updated: "2016-05-30"
+last_updated: "2017-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2017.
 
 Ley Publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 27 de febrero de 2014.
 
@@ -101,9 +101,11 @@ La educación preescolar, primaria y secundaria conforman la educación básica;
 
 Estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la Ley General y la presente ley.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
+
 ###### Artículo 5.
 
-Todo individuo tiene derecho a recibir educación de calidad y, por lo tanto, todos los habitantes del Estado tienen las mismas oportunidades de acceso al Sistema Educativo Estatal, con sólo satisfacer los requisitos que establezcan las disposiciones legales aplicables.
+Todo individuo tiene derecho a recibir educación de calidad en condiciones de equidad, por lo tanto, todos los habitantes del Estado tienen las mismas oportunidades de acceso y permanencia en el sistema educativo Estatal, con solo satisfacer los requisitos que establezcan las disposiciones legales aplicables.
 
 ###### Artículo 6.
 
@@ -153,9 +155,17 @@ VI. Promover mediante la enseñanza, el conocimiento de la pluralidad lingüíst
 
 VII. Inducir el conocimiento y la práctica de la democracia como la forma de gobierno y convivencia que permite a todos participar en la toma de decisiones para el mejoramiento de la sociedad;
 
-VIII. Promover el valor de la justicia, de la observancia de la Ley y de la igualdad de los individuos ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
 
-IX. Fomentar actitudes que estimulen la investigación y la innovación científicas y tecnológicas;
+VIII. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de los individuos ante ésta, propiciar la cultura de la legalidad, de la inclusión y la no discriminación, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2017)</small>
+
+VIII bis. Fomentar la valoración de la diversidad de la cultura de inclusión como condiciones para el enriquecimiento social y cultural;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
+
+IX. Fomentar actitudes que estimulen la investigación y la innovación científicas y tecnológicas, así como su comprensión, aplicación y uso responsables;
 
 X. Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquéllos que constituyen el patrimonio cultural de la Nación y el Estado;
 
@@ -236,6 +246,10 @@ Para cumplir con lo dispuesto en el artículo anterior, las autoridades educativ
 I. Atenderán de manera especial las escuelas en que, por estar en localidades aisladas, zonas urbanas marginadas o comunidades indígenas, sea considerablemente mayor la posibilidad de atrasos o deserciones, mediante la asignación de elementos de mejor calidad, para enfrentar los problemas educativos de dichas localidades;
 
 II. Desarrollarán programas de apoyo a los maestros que presten sus servicios en localidades aisladas y zonas urbanas marginadas, a fin de fomentar el arraigo en sus comunidades y cumplir con el calendario escolar;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2017)</small>
+
+II bis. Desarrollarán, bajo el principio de inclusión, los programas de capacitación, asesoría y apoyo a los maestros que atiendan alumnos con discapacidad y con aptitudes sobresalientes, en términos de lo dispuesto en el artículo 41 de la Ley General;
 
 III. Promoverán centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles y demás planteles que apoyen en forma continua y estable el aprendizaje y el aprovechamiento de los alumnos;
 
@@ -321,6 +335,10 @@ XIII. Los padres de familia y tutores y sus asociaciones, y
 
 XIV. Las instituciones de educación superior a las que la ley otorgue autonomía, en su caso.
 
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2017)</small>
+
+Las instituciones del Sistema Educativo Estatal impartirán (sic) educación de manera que permita al educando su plena inclusión y participación en la sociedad y, en su oportunidad, el desarrollo de una actividad productiva y que permita, asimismo, al trabajador estudiar.
+
 ### CAPÍTULO II. DE LA PLANEACIÓN DEL SISTEMA EDUCATIVO ESTATAL
 
 #### SECCIÓN PRIMERA. Del Programa Sectorial de Educación
@@ -391,7 +409,9 @@ II. Prestar los servicios de educación inicial, básica -incluyendo las modalid
 
 III. Proponer a la autoridad educativa federal los contenidos regionales para incluirse en los planes y programas de estudio, para la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de docentes de educación básica;
 
-IV. Ajustar en su caso, el calendario escolar para cada ciclo lectivo de la educación básica, la normal y demás para la formación de docentes de educación básica, con respecto al calendario fijado por la autoridad educativa federal, cuando ello resulte necesario en atención a requerimientos específicos del Estado;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
+
+IV. Autorizar, previa verificación del cumplimiento de los lineamientos emitidos por la autoridad educativa federal, los ajustes que realicen las escuelas al calendario escolar determinado por la SEP para cada ciclo lectivo de educación básica y normal y demás para la formación de maestros de educación básica.
 
 V. Prestar los servicios de formación, actualización, capacitación y superación profesional para los docentes de educación básica, de conformidad con las disposiciones generales que la autoridad educativa federal determine, y conforme a lo dispuesto por la Ley General del Servicio Profesional Docente;
 
@@ -455,13 +475,27 @@ VIII. Editar libros y producir materiales didácticos, distintos de los de texto
 
 IX. Promover e impulsar en el ámbito de su competencia las actividades y programas relacionados con el fomento de la lectura y el libro, escritura y razonamiento lógico, de acuerdo a lo establecido en la ley de la materia;
 
-X. Prestar servicios bibliotecarios a través de bibliotecas públicas, a fin de apoyar al Sistema Educativo Nacional, a la innovación educativa y a la investigación científica, tecnológica y humanística;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
+
+X. Fomentar la prestación de servicios bibliotecarios a través de las bibliotecas públicas a cargo de la Secretaría de Educación y Cultura y demás autoridades competentes, a fin de apoyar al Sistema Educativo Nacional, a la innovación educativa y a la investigación científica, tecnológica y humanística;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2017)</small>
+
+X bis. promover e impulsar en el ámbito de su competencia las actividades y programas relacionados con el fomento de la lectura y el libro;
 
 XI. Promover permanentemente la investigación que sirva como base a la innovación educativa, en base a los resultados de la evaluación;
 
-XII. Impulsar la enseñanza tecnológica, la investigación científica y tecnológica, el desarrollo tecnológico y la innovación;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
 
-XIII. Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones;
+XII. Impulsar la investigación y el desarrollo de la ciencia, la tecnología y la innovación, y fomentar su enseñanza, diseminación en acceso abierto y su divulgación, cuando el conocimiento científico y tecnológico sea financiado con recursos públicos o que se haya utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que, por razón de su naturaleza o decisión del autor, sea confidencial o reservada;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2017)</small>
+
+XII bis. Fomentar el uso responsable y seguro de las tecnologías de la información y la comunicación en el sistema educativo estatal, para apoyar el aprendizaje de los estudiantes, ampliar sus competencias para la vida y favorecer su inserción en la sociedad del conocimiento;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
+
+XIII. Fomentar y difundir las actividades físico-deportivas, así como participar en el fomento y difusión de actividades artísticas, y culturales en todas sus manifestaciones;
 
 XIV. Participar en la realización, en forma periódica y sistemática, de exámenes de evaluación a los alumnos, así como corroborar que el trato de los docentes hacia aquéllos corresponda al respeto de los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por el Estado Mexicano y demás legislación aplicable a las niñas, niños y adolescentes;
 
@@ -709,9 +743,11 @@ XXV. Los demás que sean propios de la naturaleza de su condición escolar y los
 
 En caso de violación a los derechos de los alumnos, éstos podrán interponer una queja ante la autoridad educativa que se señale en el reglamento del nivel educativo correspondiente, a efecto de iniciar el procedimiento administrativo para el deslinde de responsabilidades y aplicación de sanciones.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
+
 ###### Artículo 44.
 
-Las disposiciones relativas a la disciplina escolar que deben observar los alumnos -obligaciones, prohibiciones, reglas de convivencia, procedimiento para la imposición de medidas disciplinarias o sanciones y demás-, se establecerán en el reglamento del nivel educativo correspondiente, procurando preservar su integridad física, psicológica y social y observando que la aplicación de la disciplina escolar sea compatible con su edad, quedando prohibida la imposición de medidas de disciplina que no estén previamente establecidas, y las que sean contrarias a la dignidad de los alumnos, que atenten contra su vida o su integridad física y mental.
+Las disposiciones relativas a la disciplina escolar que deben observar los alumnos -obligaciones, prohibiciones, reglas de convivencia, procedimiento para la imposición de medidas disciplinarias o sanciones y demás-, se establecerán en el Marco de Convivencia Escolar, procurando preservar su integridad física, psicológica y social y observando que la aplicación de la disciplina escolar sea compatible con su edad, quedando prohibida la imposición de medidas de disciplina que no estén previamente establecidas, y las que sean contrarias a la dignidad de los alumnos, que atenten contra su vida o su integridad física y mental.
 
 ### CAPÍTULO III. DE LA EVALUACIÓN DEL ALUMNO
 
@@ -1125,9 +1161,15 @@ VI. Sujetarse a los procesos de evaluación a que se refiere la Ley General del 
 
 VII. Atender los programas de regularización; así como aquéllos que sean obligatorios de formación continua, capacitación y actualización;
 
-VIII. Cumplir con el horario de clases y el calendario escolar expedido por la autoridad educativa estatal, así como registrar su asistencia de acuerdo a las disposiciones que emita la autoridad educativa;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
+
+VIII. Cumplir con el horario de clases y el calendario escolar aplicable, así como registrar su asistencia de acuerdo a las disposiciones que emita la autoridad educativa;
 
 IX. Apegarse a los planes y programas de estudio correspondientes y utilizar los libros de texto autorizados;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2017)</small>
+
+IX bis. Realizar la planeación de clases, la recopilación de evidencias y subir la información que le sea requerida, a los sistemas informáticos, en las fechas que le indique su superior jerárquico.
 
 X. Asistir a los cursos de inducción, capacitación y en general a todos aquéllos que sean implementados por la autoridad educativa federal o estatal;
 
@@ -1503,13 +1545,15 @@ La educación inicial puede ser prestada a través de las modalidades escolariza
 
 #### SECCIÓN SEGUNDA. Educación Especial
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
+
 ###### Artículo 126.
 
-La educación especial es un servicio educativo destinado a personas con discapacidad, transitoria o definitiva, así como a aquellas con aptitudes sobresalientes. Atenderá a los alumnos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género.
+La educación especial tiene como propósito identificar, prevenir y eliminar las barreras que limitan el aprendizaje y la participación plena y efectiva en la sociedad de las personas con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, así como de aquellas con aptitudes sobresalientes.
 
-La educación especial incluye la orientación a los padres o tutores, así como a los maestros y personal de escuelas de educación básica y media superior regulares que integren a los alumnos con necesidades especiales de educación.
+Atenderá a los educandos de manera adecuada (sic) sus propias condiciones, estilos y ritmos de aprendizaje, en un contexto educativo incluyente, que se debe de basar en los principios de respeto, equidad, no discriminación, igualdad sustantiva y perspectiva de género.
 
-Tratándose de menores de edad con discapacidad, esta educación propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios.
+Tratándose de personas con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, se favorecerá su atención en los planteles de educación básica, sin que esto cancele su posibilidad de acceder a las diversas modalidades de educación especial atendiendo a sus necesidades. Se realizarán ajustes razonables y se aplicarán, métodos, técnicas, materiales específicos y las medidas de apoyo necesarias para garantizar la satisfacción de las necesidades básicas de aprendizaje de los alumnos y el máximo desarrollo de su potencial para la autónoma integración a la vida social y productiva. Las instituciones educativas del Estado promoverán y facilitarán la continuidad de sus estudios en los niveles de educación media superior y superior. La educación especial deberá incorporar los enfoques de inclusión e igualdad sustantiva. Esta educación abarcará la capacitación y orientación a los padres o tutores; así como también a los maestros y personal de escuelas de educación básica y media superior, regulares que atiendan a alumnos con discapacidad, con dificultades severas de aprendizaje, de comportamiento o de comunicación, o bien con aptitudes sobresalientes. Quienes presten servicios educativos en el marco del sistema educativo nacional atenderán las disposiciones en materia de accesibilidad señaladas en la ley General para la inclusión de las personas con discapacidad, en la Ley General de la Infraestructura Física Educativa, y en las demás normas aplicables.
 
 ###### Artículo 127.
 
@@ -1581,11 +1625,15 @@ Los métodos educativos deberán promover la participación activa del alumno, p
 
 ### CAPÍTULO VII. DEL CALENDARIO ESCOLAR
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
+
 ###### Artículo 136.
 
-La autoridad educativa federal es quien determina el calendario escolar aplicable para cada ciclo lectivo de la educación preescolar, primaria, secundaria, la normal y demás para la formación de docentes de educación básica, para cubrir los planes y programas aplicables, el cual tiene carácter obligatorio para las autoridades educativas, docentes y alumnos.
+La autoridad educativa federal es quien determina el calendario escolar aplicable para cada ciclo lectivo de la educación básica y normal y demás para la formación de maestros de educación básica, necesarios para cubrir los planes y programas aplicables.
 
-La autoridad educativa estatal podrá ajustar el calendario escolar respecto al establecido por la autoridad educativa federal, cuando ello resulte necesario en atención a requerimientos específicos de la propia entidad, sin afectar el número mínimo de días de clase obligatorios que señale el calendario escolar establecido por la autoridad educativa federal y sin afectar los derechos laborales de los trabajadores de la educación.
+El calendario deberá contener un mínimo de ciento ochenta y cinco días y un máximo de doscientos días efectivos de clase para los educandos.
+
+Las autoridades escolares, previa autorización de la autoridad educativa local y de conformidad con los lineamientos que expida la SEP, podrán ajustar el calendario escolar al que se refiere el párrafo anterior. Dichos ajustes deberán prever las medidas para cubrir los planes y programas aplicables.
 
 ###### Artículo 137.
 
@@ -1595,9 +1643,11 @@ Las actividades no previstas en los planes y programas de estudio, o bien la sus
 
 De presentarse interrupciones por caso extraordinario o fuerza mayor, la autoridad educativa tomará las medidas para recuperar los días y horas perdidos, e incluso podrá hacer los ajustes que se requieran al calendario escolar.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
+
 ###### Artículo 138.
 
-El calendario aplicable en la Entidad deberá publicarse en el Periódico Oficial del Estado, para efectos de su publicidad.
+La autoridad educativa estatal mandará publicar en el Periódico Oficial del Estado, las autorizaciones de ajustes al calendario escolar determinado por la Secretaría de Educación Pública.
 
 ###### Artículo 139.
 
@@ -1695,7 +1745,9 @@ La autoridad educativa estatal otorgará las autorizaciones y los reconocimiento
 
 I. Con personal que acredite contar con el perfil y la preparación adecuada para impartir educación en el nivel educativo de que se trate y cumplir con los requisitos estipulados en la Ley de Profesiones del Estado de Quintana Roo, para el ejercicio de su profesión en el Estado;
 
-II. Con instalaciones que satisfagan las condiciones de infraestructura, higiene, seguridad y pedagogía que las autoridades competentes y la autoridad otorgante determinen. Para que en un inmueble puedan prestarse servicios educativos, deberán obtenerse las licencias de funcionamiento y, en su caso, el certificado para garantizar el cumplimiento de los requisitos de construcción, estructura, condiciones específicas o equipamiento que sean obligatorios para cada tipo de obra, en los términos y las condiciones de la normatividad en materia de infraestructura física educativa y demás disposiciones legales municipales, estatales y federal es (sic) aplicables. Además deberán cumplirse las disposiciones de la Ley General para la Inclusión de las Personas con Discapacidad y las leyes en la materia del Estado. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento; y
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
+
+II. Con instalaciones que satisfagan las condiciones higiénicas, de seguridad, pedagógicas y de accesibilidad que la autoridad otorgante determine, conforme a los términos que señalen las disposiciones aplicables. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento, y
 
 III. Con planes y programas de estudio que la autoridad otorgante considere procedentes, en el caso de educación distinta de la preescolar, la primaria, la secundaria, la normal, y demás para la formación de docentes de educación básica.
 
@@ -1733,11 +1785,13 @@ X. Cumplir con lo establecido en las disposiciones fiscales aplicables en el Est
 
 XI. Las demás que señalen los ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
+
 ###### Artículo 153.
 
 Los particulares que presten servicios por los que se impartan estudios sin reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y publicidad.
 
-En el caso de educación inicial deberán además contar con personal que acredite la preparación adecuada para impartir educación; contar con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad educativa determine; cumplir los requisitos a que alude el artículo 21 de la Ley General; presentar las evaluaciones que correspondan conforme a la ley, y demás disposiciones correspondientes que deriven en el marco del Sistema Nacional de Evaluación Educativa, y tomar las medidas a que se refiere el artículo 42 de la Ley General, así como facilitar la inspección y vigilancia de las autoridades competentes.
+En el caso de educación inicial deberán, además, contar con personal que acredite la preparación adecuada para impartir educación; contar con instalaciones y demás personal que satisfagan las condiciones higiénicas, de seguridad, pedagógicas y de accesibilidad que la autoridad educativa determine, conforme a los términos que señalen las disposiciones aplicables; cumplir los requisitos a que alude el artículo 21 de la Ley General; presentar las evaluaciones que correspondan, de conformidad con lo dispuesto en dicha Ley y demás disposiciones correspondientes que deriven en el marco del Sistema Nacional de Evaluación Educativa, y tomar las medidas a que se refiere el artículo 42 de la misma ley, así como facilitar la inspección y vigilancia de las autoridades competentes.
 
 ###### Artículo 154.
 
@@ -1925,7 +1979,9 @@ V. Miembros de la comunidad interesados en el desarrollo de la propia escuela.
 
 Este Consejo:
 
-I. Conocerá el calendario escolar, las metas educativas y el avance de las actividades escolares, con el objeto de coadyuvar con el maestro a su mejor realización;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
+
+I. Opinará sobre los ajustes al calendario escolar aplicable a cada escuela y conocerá las metas educativas, así como el avance de las actividades escolares, con el objeto de coadyuvar con el maestro su mejor realización;
 
 II. Conocerá y dará seguimiento de las acciones que realicen las y los educadores y autoridades educativas señaladas en el segundo párrafo del artículo 42 de la Ley General y párrafo segundo del artículo 102 de la presente Ley;
 
@@ -1963,7 +2019,9 @@ En cada municipio operará un Consejo Municipal de Participación Social en la E
 
 Este Consejo gestionará ante el Ayuntamiento y ante la autoridad educativa estatal:
 
-I. El mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas y demás proyectos de desarrollo educativo en el municipio;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
+
+I. El mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas, tomando en cuenta las necesidades de accesibilidad para las personas con discapacidad, y demás proyectos de desarrollo educativo en el municipio;
 
 II. Conocerá de los resultados de las evaluaciones que realicen las autoridades educativas;
 
@@ -1987,13 +2045,13 @@ XI. Podrá proponer estímulos y reconocimientos de carácter social a alumnos, 
 
 XII. Procurará la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública, y
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
 
-XIII.- La atención posible de aquellas escuelas públicas que requieran de mantenimiento físico y de equipo básico, y
+XIII. Proponer acciones que propicien el conocimiento de las actividades económicas locales preponderantes e impulsen el desarrollo integral de las comunidades, y
 
 > <small>(ADICIONADA, P.O. 30 DE MAYO DE 2016)</small>
 
-XIV.- En general, podrá realizar actividades para apoyar y fortalecer la educación en el municipio.
+XIV. En general, podrá realizar actividades para apoyar y fortalecer la educación en el municipio.
 
 Será responsabilidad del presidente municipal que en el Consejo se alcance una efectiva participación social que contribuya a elevar la calidad y la cobertura de la educación, así como la difusión de programas preventivos de delitos que se puedan cometer en contra de niñas, niños y adolescentes o de quienes no tienen capacidad para comprender el significado del hecho o para resistirlo.
 
@@ -2071,7 +2129,9 @@ XVII. Oponerse a las actividades de evaluación, inspección y vigilancia, así 
 
 XVIII. Administrar a los alumnos, sin previa prescripción médica y consentimiento informado de los padres o tutores, medicamentos que contengan sustancias psicotrópicas o estupefacientes;
 
-XIX. Retener los documentos originales que se presenten para formalizar cualquier trámite o proceso objeto de la presente ley; así como retener los documentos de certificación, incluso si los padres o tutores del alumno tuvieran cualquier adeudo con la institución educativa;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
+
+XIX. Retener los documentos originales que se presenten para formalizar cualquier trámite o proceso objeto de la presente ley; así como negarse a entregar los documentos de certificación, o el documento que acredite la situación académica del alumno, incluso si los padres o tutores del alumno tuvieran cualquier adeudo con la institución educativa;
 
 XX. Promover en los alumnos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
 
@@ -2085,13 +2145,31 @@ XXIV. Incumplir con lo dispuesto en el artículo 59 de la Ley General, e
 
 XXV. Impartir la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de docentes de educación básica, sin contar con la autorización correspondiente.
 
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2017)</small>
+
+XXVI. Impartir estudios distintos a los mencionados en la fracción anterior, sin contar con el reconocimiento de validez oficial de estudios correspondiente.
+
 ###### Artículo 174.
 
 Las infracciones enumeradas en el artículo 173 de la presente Ley se sancionarán con:
 
-I. Multa hasta por el equivalente a cinco mil veces el salario mínimo general diario vigente en el área geográfica y en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia.
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2017)</small>
 
-II. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente. La imposición de esta sanción no excluye la posibilidad de que sea impuesta alguna multa. Esta sanción produce efectos de clausura del servicio educativo de que se trate.
+I. Amonestación con apercibimiento.
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
+
+II. Multa hasta por el equivalente (sic) cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente. Las multas impuestas podrán duplicarse en caso de reincidencia.
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2017)</small>
+
+III. Cambio de adscripción.
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2017)</small>
+
+IV. Clausura
+
+V. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente. La imposición de esta sanción no excluye la posibilidad de que sea impuesta alguna multa. Esta sanción produce efectos de clausura del servicio educativo de que se trate.
 
 El retiro del reconocimiento de validez oficial se referirá a los estudios que se impartan a partir de la fecha en que se dicte la resolución. Los realizados mientras que la institución contaba con el reconocimiento, mantendrán su validez oficial.
 
@@ -2194,3 +2272,11 @@ P.O. 30 DE MAYO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones vigentes que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 14 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 051 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se deroga toda disposición contraria a lo dispuesto en el presente decreto.
