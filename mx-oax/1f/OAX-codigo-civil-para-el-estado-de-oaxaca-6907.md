@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2017-03-03"
+last_updated: "2017-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -473,11 +473,11 @@ La Dirección del Registro Civil supervisará las actuaciones de los Oficiales d
 
 Las declaraciones de nacimiento se harán presentando a la niña o niño ante el Oficial del Registro Civil o solicitando la comparecencia de éste al lugar donde se encuentre aquél, acompañando el certificado de nacimiento. El certificado de nacimiento se otorgará de forma gratuita y deberá ser suscrito por médico autorizado para el ejercicio de su profesión, o persona que haya asistido el parto, en el formato expedido para tal efecto por la Secretaría de Salud del Estado. Dicho certificado hace prueba del día, hora, lugar de nacimiento, maternidad y sexo del nacido.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
 
 ###### Artículo 67.
 
-Tienen obligación de declarar el nacimiento el padre y la madre o cualquiera de ellos dentro de los ciento ochenta días de ocurrido. Si el menor no es registrado dentro de este plazo, hasta los seis años, se aplicará a los responsables una multa de uno a diez días de salarios mínimos; después de transcurrido este plazo, el registro se considerará extemporáneo y se realizará previa autorización emitida en los términos establecidos por el reglamento del Registro Civil. La multa que se aplicará en éste último caso, será de diez a veinticinco salarios mínimos.
+Tienen obligación de declarar el nacimiento el padre y la madre o cualquiera de ellos, a falta de estos, los abuelos, dentro de los ciento ochenta días de ocurrido. Si el menor no es registrado dentro de este plazo, hasta los seis años, se aplicará a los responsables una multa de uno a diez días de salarios mínimos; después de transcurrido este plazo, el registro se considerará extemporáneo y se realizara previa autorización emitida en los términos establecidos por el reglamento del Registro Civil. La multa que se aplicará en este último caso, será de diez a veinticinco salarios mínimos.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
@@ -493,7 +493,9 @@ III. La especificación del sexo del registrado;
 
 IV. El nombre que le asignen los padres o persona distinta que presente al registrado;
 
-V. El primer apellido de los padres, si ambos se presentaren a reconocer, o, los dos apellidos del que se presentare;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
+
+V. El primer apellido de cada uno de los progenitores, dejando a su elección y común acuerdo el Orden en que deban asentarse los apellidos, si ambos progenitores se presentaren al reconocimiento, o los apellidos del que se presente.
 
 VI. Si lo presentare persona distinta, se le pondrán al registrado el nombre y los apellidos que ésta determine;
 
@@ -510,6 +512,10 @@ X. El nombre, edad, ocupación, domicilio y nacionalidad de la persona distinta 
 ###### Artículo 69.
 
 Cuando al presentar al menor se exhiba copia certificada del acta de matrimonio de sus padres, salvo sentencia judicial definitiva en contrario, se asentarán como progenitores a los cónyuges.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2017)</small>
+
+En caso de adopciones, el adoptante o los adoptantes tendrán la posibilidad de escoger el orden de los apellidos o los adoptados.
 
 > <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
@@ -528,6 +534,10 @@ Si el acta de matrimonio no es presentada en el momento del registro, pero se hi
 ###### Artículo 72.
 
 En las actas de nacimiento por ningún concepto se asentarán palabras que califiquen a la persona registrada. En cualquier acta de nacimiento que contenga dicha nota se testará de oficio por quién tenga a su cargo las formas.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2017)</small>
+
+Cuando para realizar algún trámite de cualquier naturaleza se requiera especificar en el documento correspondiente, en primer término el apellido paterno y en segundo el materno, se debe considerar como tales el primer y segundo apellido que conste en el acta de nacimiento que presente el interesado.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
@@ -16006,3 +16016,11 @@ P.O. 3 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 566.- MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 66, 74 Y 75 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 14 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 581.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 67, LA FRACCIÓN V DEL ARTÍCULO 68; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 69, UN SEGUNDO PÁRRAFO AL ARTÍCULO 72 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- La Dirección del Registro Civil del Estado de Oaxaca, hará las modificaciones a los formatos de las actas del registro civil con motivo de la presente reforma; de igual forma realizará la publicidad necesaria a efecto de dar a conocer a los ciudadanos los efectos de la presente reforma.
