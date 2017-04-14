@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-de-peritos-74210"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-09-05"
-last_updated: "1997-09-05"
+last_updated: "2017-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO DE PERITOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON ACUERDO DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE QUERÉTARO QUE ABROGA EL REGLAMENTO DE PERITOS PUBLICADO 5 DE SEPTIEMBRE DE 1997, PUBLICADO EN EL P.O. DE 14 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE PERITOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 5 de septiembre de 1997.
 
@@ -31,7 +33,7 @@ REGLAMENTO DE PERITOS.
 
 CONSIDERANDO...
 
-Por las razones enunciadas el Tribunal Superior de Justicia como Órgano competente para impartir Justicia con apego a las leyes y reglamentos que norman su actuar, y como Órgano obligado a promover las condiciones necesarias para que su función Jurisdiccional sea eficaz y acorde a los requerimientos de la Sociedad y con fundamento en los artículos 15 fracción III,7,1 fracción IV y 72 de la Ley Orgánica del Poder Judicial del Estado de Querétaro, ha diseñado el presente reglamento interno aplicable a los peritos que se desempeñan como Auxiliares en la Administración de Justicia, en donde primeramente se clasifican las diferentes especialidades periciales, determinando las atribuciones y obligaciones tanto del órgano Administrativo encargado de vigilar su cumplimiento, el cual para efectos del presente reglamento se denominará únicamente Coordinación de Peritos, así como de los peritos que auxilian al Poder Judicial. Se establecen sanciones para el caso de desacato de ésta normatividad, se reconoce la importancia de que los profesionistas que actúen como auxiliares en principios del área que corresponda y de la ética profesional, sin soslayar la importancia de la necesidad de actualización técnica que sin discusión alguna obliga a los peritos, se fija un tabulador para el pago de honorarios al que habrán de ajustarse las partes que intervienen en la actividad pericial.
+Por las razones enunciadas el Tribunal Superior de Justicia como Órgano competente para impartir Justicia con apego a las leyes y reglamentos que norman su actuar, y como Órgano obligado a promover las condiciones necesarias para que su función Jurisdiccional sea eficaz y acorde a los requerimientos de la Sociedad y con fundamento en los artículos 15 fracción III, 7,1 fracción IV y 72 de la Ley Orgánica del Poder Judicial del Estado de Querétaro, ha diseñado el presente reglamento interno aplicable a los peritos que se desempeñan como Auxiliares en la Administración de Justicia, en donde primeramente se clasifican las diferentes especialidades periciales, determinando las atribuciones y obligaciones tanto del órgano Administrativo encargado de vigilar su cumplimiento, el cual para efectos del presente reglamento se denominará únicamente Coordinación de Peritos, así como de los peritos que auxilian al Poder Judicial. Se establecen sanciones para el caso de desacato de ésta normatividad, se reconoce la importancia de que los profesionistas que actúen como auxiliares en principios del área que corresponda y de la ética profesional, sin soslayar la importancia de la necesidad de actualización técnica que sin discusión alguna obliga a los peritos, se fija un tabulador para el pago de honorarios al que habrán de ajustarse las partes que intervienen en la actividad pericial.
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -348,3 +350,13 @@ PRIMERO.- El Presente reglamento fue aprobado por el Pleno del H. Tribunal Super
 SEGUNDO.- El presente reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado. Se derogan las disposiciones emitidas con anterioridad y que se opongan al presente Reglamento.
 
 TERCERO.- Así lo aprobaron por unanimidad de votos, los C. Magistrados que integran el Pleno del H. Tribunal Superior de Justicia del Estado, Lic. Sergio Herrera Trejo, Presidente; Lic. Ma. Elisa Rentería Moreno, Presidente de la Sala Civil; Lic. Jesús Castellanos Malo, Magistrado de la Sala Civil; Lic. Celia Maya García, Magistrada de la Sala Civil; Lic. Francisco Chowell Fernández, Magistrado Presidente de la Sala Penal; Lic. Gonzalo Aguirre Fuentes, Magistrado de la Sala Penal; Lic. Arturo González de Cosío Frías, Magistrado de la Sala Penal; Lic. Jesús Garduño Salazar, Magistrado Presidente de fa Sala Electoral; Lic. Juan Manuel Zepeda Garrido, Magistrado de la Sala Electoral y Lic. Araceli Aguayo Hernández, Magistrada de la Sala Electoral.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE QUERÉTARO QUE ABROGA EL REGLAMENTO DE PERITOS PUBLICADO 5 DE SEPTIEMBRE DE 1997”.]
+
+Primero. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", y en el sitio de internet del Poder Judicial del Estado de Querétaro.
+
+Segundo. Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
