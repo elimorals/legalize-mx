@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2017-03-22"
+last_updated: "2017-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ABRIL DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -3606,7 +3606,19 @@ III. Relación de las principales comisiones o áreas de interés en las que pre
 
 1. La diplomacia parlamentaria es la actividad desarrollada por la Cámara, por sí o como parte del Congreso de la Unión; que realizan las diputadas y los diputados con sus contrapartes del mundo en el ámbito de las relaciones internacionales. Es un instrumento que se desarrolla mediante el diálogo, el debate, la negociación, el estudio, la confrontación y la conciliación de posiciones y el acuerdo para adoptar resoluciones, declaraciones, posicionamientos, lineamientos de acciones o políticas de manera conjunta o en coordinación, con el apoyo o respaldo de otras instancias gubernamentales.
 
-2. El objetivo de la diplomacia parlamentaria es coadyuvar en la promoción, defensa y fortalecimiento del interés nacional en el exterior.
+> <small>(REFORMADO, D.O.F. 14 DE ABRIL DE 2017)</small>
+
+2. Son objetivos de la diplomacia parlamentaria de manera enunciativa más no limitativa:
+
+a) Coadyuvar en la promoción, defensa y fortalecimiento del interés nacional en el exterior.
+
+b) Contribuir con la función legislativa de las Diputadas y de los Diputados, direccionando toda aquella información temática que pueda resultar de utilidad para el trabajo de las comisiones de dictamen legislativo o para el Pleno de la propia Cámara.
+
+c) Intercambiar información y experiencias exitosas con otros parlamentos del mundo, tendientes a mejorar el funcionamiento de la Cámara.
+
+d) Promover la cooperación entre parlamentos, de manera que incida de forma positiva en los procesos de formación de las Diputadas y de los Diputados y de sus equipos de trabajo.
+
+e) Obtener mayores elementos de juicio para cumplir con el control evaluatorio en los términos que señala la Constitución.
 
 ###### Artículo 270.
 
@@ -3618,37 +3630,51 @@ II. Organismos parlamentarios internacionales;
 
 III. Instancias supranacionales, multilaterales mundiales y regionales de carácter parlamentario, y
 
-IV. Organizaciones políticas, sociales, gubernamentales y no gubernamentales del ámbito internacional.
+> <small>(REFORMADA, D.O.F. 14 DE ABRIL DE 2017)</small>
+
+IV. Organizaciones políticas, sociales, académicas, gubernamentales y no gubernamentales del ámbito internacional.
+
+> <small>(REFORMADO, D.O.F. 14 DE ABRIL DE 2017)</small>
 
 ###### Artículo 271.
 
-1. La representación protocolaria de la Cámara en el ámbito de la diplomacia parlamentaria, corresponde al Presidente, de acuerdo al numeral 2 del artículo 22 de la Ley. En su caso, las representaciones protocolarias de la Cámara podrán ser asumidas por uno de los vicepresidentes, quien será designado para tal efecto por el Presidente.
+1. La representación protocolaria de la Cámara en el ámbito de la diplomacia parlamentaria, corresponde al Presidente, de acuerdo al numeral 2 del artículo 22 de la Ley. En su caso, las representaciones protocolarias de la Cámara podrán ser delegadas por el propio Presidente hacia uno de los Vicepresidentes, o hacia los Secretarios de la Mesa Directiva.
+
+> <small>(REFORMADO, D.O.F. 14 DE ABRIL DE 2017)</small>
 
 ###### Artículo 272.
 
-1. Las expresiones de la diplomacia parlamentaria son:
+1. Se considerarán expresiones de la diplomacia parlamentaria de manera enunciativa más no limitativa las siguientes:
 
-I. Las que desempeñe el Presidente o, en su caso, alguno de los vicepresidentes en representación de la Cámara en el ámbito internacional;
+I. Las que desempeñe el Presidente, como las visitas oficiales de carácter bilateral para dinamizar relaciones parlamentarias al más alto nivel, en eventos organizados por sus pares, como las reuniones mundiales o regionales de Presidentes de Parlamentos, que se verifican periódicamente;
 
-II. Las que desempeñe la Comisión de Relaciones Exteriores;
+II. Las declaraciones institucionales, tendientes a que la Cámara se pronuncie manifestando su apoyo o desaprobación frente algún acontecimiento en específico;
 
-III. Las que desempeñan las delegaciones permanentes de diputados y diputadas ante organismos parlamentarios multilaterales mundiales, regionales, temáticos y bilaterales;
+III. Las que desempeñe la Comisión de Relaciones Exteriores, que de manera enunciativa más no limitativa, se refieren las que se lleven a cabo dentro de los encuentros de representantes parlamentarios afines, así como en delegaciones permanentes de diputados y diputadas ante instancias multilaterales mundiales, regionales y bilaterales parlamentarias;
 
-IV. Las que consuetudinariamente se han puesto en práctica por las delegaciones de diputados y diputadas en reuniones interparlamentarias, y
+IV. Las que consuetudinariamente se han puesto en práctica por las delegaciones de diputados y diputadas en reuniones interparlamentarias temáticas, de acuerdo con el grado de especialidad con el que cuentan dentro de su labor legislativa;
 
-V. Las que llevan a cabo los Grupos de Amistad.
+V. Las que llevan a cabo los Grupos de Amistad, y
+
+VI. Las que se determinen, por su importancia en términos de la agenda legislativa internacional.
 
 ###### Artículo 273.
 
-1. Para desarrollar las labores de auxilio y apoyo de la diplomacia parlamentaria habrá un área técnica administrativa especializada en asuntos internacionales y relaciones parlamentarias.
+> <small>(REFORMADO, D.O.F. 14 DE ABRIL DE 2017)</small>
+
+1. Para desarrollar las labores de diplomacia parlamentaria habrá un área técnica de alta calidad, denominada de Asuntos Internacionales y Relaciones Parlamentarias, especializada en apoyar profesionalmente de manera objetiva e imparcial a las diputadas y los diputados en la logística y preparación de los instrumentos tendientes a optimizar la actividad, tales como, diseñar el plan de trabajo, apoyar en las actividades previas, en la redacción de declaraciones, resolutivos, acuerdos, conclusiones temáticas, recomendaciones administrativas, informes y demás documentos y acciones que resulten necesarias para la consecución de los objetivos propuestos.
 
 ###### Artículo 274.
 
-1. La Junta propondrá al Pleno la integración de las delegaciones permanentes ante instancias multilaterales y bilaterales parlamentarias, con criterio de proporcionalidad atendiendo la integración plural de la Cámara, dando preferencia a los diputados y diputadas que tengan mayor experiencia en el tema.
+> <small>(REFORMADO, D.O.F. 14 DE ABRIL DE 2017)</small>
+
+1. La Junta propondrá al Pleno la integración de las delegaciones permanentes ante instancias multilaterales y bilaterales parlamentarias, con criterio de proporcionalidad, atendiendo la integración plural de la Cámara, dando preferencia a los diputados y diputadas que tengan mayor experiencia en el tema, atendiendo a su nivel de especialización de acuerdo con las comisiones de dictamen legislativo a las cuales pertenecen.
 
 2. La Junta establecerá las bases de coordinación necesaria con los órganos competentes de la Cámara de Senadores para desahogar conjuntamente las actividades del Congreso de la Unión.
 
-3. El Pleno, a propuesta de la Junta, aprobará la agenda internacional de la Cámara para cada año de ejercicio legislativo.
+> <small>(REFORMADO, D.O.F. 14 DE ABRIL DE 2017)</small>
+
+3. El Pleno, a propuesta de la Junta, aprobará la agenda internacional de la Cámara para cada año de ejercicio legislativo, misma que será turnada a la Comisión de Relaciones Exteriores, así como a las comisiones temáticas que tengan que ver con su desarrollo, misma que deberá ser distribuida entre todos sus integrantes.
 
 4. La Junta coordinará en conjunto con los órganos competentes de la Cámara de Senadores, el desahogo de la Agenda Internacional de la Cámara, como parte del Congreso de la Unión.
 
@@ -3664,33 +3690,47 @@ V. Las que llevan a cabo los Grupos de Amistad.
 
 1. Los grupos propondrán ante la Junta a los diputados y diputadas que integrarán los Grupos de Amistad y las delegaciones que participen en actividades de diplomacia parlamentaria.
 
-2. La Junta hará la propuesta de integración atendiendo a la pluralidad y proporcionalidad que conforma la Cámara y la presentará al Pleno para su aprobación.
+> <small>(REFORMADO, D.O.F. 14 DE ABRIL DE 2017)</small>
+
+2. La Junta hará la propuesta de integración atendiendo a la pluralidad, especialización en las temáticas, comisiones a las que pertenecen las Diputadas y los Diputados, así como la proporcionalidad que conforma la Cámara y la presentará al Pleno para su aprobación.
+
+> <small>(REFORMADO, D.O.F. 14 DE ABRIL DE 2017)</small>
 
 ###### Artículo 277.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2011)</small>
+1. Los integrantes de las delegaciones permanentes ante instancias multilaterales y bilaterales parlamentarias, de otras delegaciones y de Grupos de Amistad que hayan desarrollado alguna actividad de diplomacia parlamentaria en lo individual, tendrán la responsabilidad de enviar un informe de actividades y asistencia a los eventos correspondientes, dentro de los veinte días posteriores a la conclusión de la actividad, con las siguientes características:
 
-1. Los integrantes de las delegaciones y Grupos de Amistad que hayan desarrollado alguna actividad de diplomacia parlamentaria en lo individual, tendrán la responsabilidad de rendir un informe de actividades y asistencia a los eventos correspondientes, dentro de los veinte días posteriores a la conclusión de la actividad, que contendrá:
+I. Detallar los objetivos generales y específicos;
 
-I. Objetivos y resultados de la actividad,
+II. Introducción;
 
-II. Evaluación de la actividad, de sus resultados y, en su caso, del seguimiento de actividades relacionadas previas, y
+III. Actividades preparatorias del evento;
 
-III. Anexo con declaraciones, resolutivos y acuerdos.
+IV. Desarrollo del programa, señalando a cuáles actividades se asistió;
+
+V. Conclusiones temáticas que deberán redactarse direccionando las apreciaciones a las áreas vinculadas a la función legislativa que pudieran estar relacionadas, como las comisiones de dictamen legislativo, los centros de estudio, entre otras que se consideren pertinentes;
+
+VI. Recomendaciones administrativas, que deberán incluir las áreas de oportunidad para mejorar el funcionamiento de la Cámara;
+
+VII. Evaluación personal de los resultados, y
+
+VIII. Anexo con declaraciones, resolutivos, acuerdos, imágenes, resúmenes, datos de contacto de los responsables de dar continuidad a los temas de los distintos países a los cuales se acude o cualquier otro que pudiera resultar de utilidad.
 
 ###### Artículo 278.
 
-1. Los informes a que hace referencia el artículo anterior serán dirigidos a la Junta y se publicarán en la Gaceta.
+> <small>(REFORMADO, D.O.F. 14 DE ABRIL DE 2017)</small>
+
+1. Los informes a que hace referencia el artículo anterior serán dirigidos a la Junta, misma que de acuerdo con las conclusiones y recomendaciones, lo turnará al área legislativa o administrativa que resulte idónea para su aprovechamiento. Paralelamente deberán ser publicados en la Gaceta.
 
 ###### Artículo 279.
 
 1. Toda delegación y Grupo de Amistad deberá contar con un presidente, aprobado por el Pleno a propuesta de la Junta.
 
-> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
-
 ###### Artículo 280.
 
-1. Las delegaciones y Grupos de Amistad, por conducto de su Presidente, presentarán un informe general de las actividades, al término de la Legislatura, para que su sucesor dé continuidad a los acuerdos a que hayan llegado.
+> <small>(REFORMADO, D.O.F. 14 DE ABRIL DE 2017)</small>
+
+1. Las delegaciones y Grupos de Amistad, por conducto de su Presidente, presentarán un informe general de las actividades, al término de la Legislatura, para que los diputados y las diputadas de la Legislatura entrante que tengan bajo su responsabilidad la continuidad de los trabajos, conozcan a detalle las actividades desarrolladas, así como los acuerdos suscritos.
 
 ###### Artículo 281.
 
@@ -3935,3 +3975,13 @@ D.O.F. 22 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 78 Y 85 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS, EN MATERIA DE PERSPECTIVA DE GÉNERO”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS, EN MATERIA DE DIPLOMACIA PARLAMENTARIA”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Para los efectos de la modificación a las funciones de la Unidad de Asuntos Internacionales y Relaciones Parlamentarias, la Cámara de Diputados, realizará las adecuaciones necesarias a su normatividad secundaria interna en los siguientes treinta días, a partir de la publicación del presente Decreto.
+
+Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
