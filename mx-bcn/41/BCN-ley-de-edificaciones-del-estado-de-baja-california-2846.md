@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-edificaciones-del-estado-de-baja-california-2846"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2017-04-11"
+last_updated: "2017-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 24 de junio de 1994.
 
@@ -417,7 +417,9 @@ Toda edificación deberá contar con suministro de agua proveniente de la red ge
 
 En caso de no existir ésta, o de tener la red pública una presión inferior a diez metros de columna de agua, deberá contar con un almacenamiento que garantice el suministro.
 
-Las edificaciones estarán provistas, con el número mínimo de servicios sanitarios, tipo de mueble y características de acuerdo al uso y capacidad de las mismas, debiendo contar por lo menos con uno acondicionado para personas minusválidas.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
+
+Las edificaciones estarán provistas, con el número mínimo de servicios sanitarios, tipo de mueble y características de acuerdo al uso, y capacidad de las mismas, debiendo contar por lo menos con uno acondicionado para personas con discapacidad. En cada área destinada a servicios sanitarios de las edificaciones clasificadas como de equipamiento y servicios, se deberá prever que las destinadas al género femenino cuenten con una superficie mayor y con el doble de cubículos con excusados instalados en las del género masculino. En las instalaciones sanitarias consideradas de equipamiento y de servicio se deberán (sic) incluir además de lo anterior un área destinada para sanitarios familiares.
 
 La dotación de letrinas sanitarias y/o fosas sépticas será autorizado (sic) para zonas rurales y fraccionamientos populares donde no exista sistema de drenaje sanitario, regulando sus características de instalación a través de los Reglamentos y sus Normas Técnicas Complementarias.
 
@@ -427,33 +429,33 @@ En las edificaciones cuyo número de ocupantes demande servicios higiénicos por
 
 a) Lavatorios
 
-• Los lavatorios deben instalarse adosados a la pared o empotrados en un tablero individualmente y soportar una carga vertical de 100 kilogramos.
+Los lavatorios deben instalarse adosados a la pared o empotrados en un tablero individualmente y soportar una carga vertical de 100 kilogramos.
 
-• El distanciamiento entre lavatorios será de 90 centímetros entre ejes.
+El distanciamiento entre lavatorios será de 90 centímetros entre ejes.
 
-• Deberá existir un espacio libre de 75 centímetros x (sic) 1.20 metros al frente del lavatorio para permitir la aproximación de una persona en silla de ruedas.
+Deberá existir un espacio libre de 75 centímetros x (sic) 1.20 metros al frente del lavatorio para permitir la aproximación de una persona en silla de ruedas.
 
-• Se instalará con el borde externo superior o, de ser empotrado, con la superficie superior del tablero a 85 centímetros del suelo. El espacio inferior quedará libre de obstáculos, con excepción del desagüe, y tendrá una altura de 75 centímetros desde el piso hasta el borde inferior del mandil o fondo del tablero de ser el caso. La trampa del desagüe se instalará lo más cerca al fondo del lavatorio que permita su instalación, y el tubo de bajada será empotrado. No deberá existir ninguna superficie abrasiva ni aristas filosas debajo del lavatorio.
+Se instalará con el borde externo superior o, de ser empotrado, con la superficie superior del tablero a 85 centímetros del suelo. El espacio inferior quedará libre de obstáculos, con excepción del desagüe, y tendrá una altura de 75 centímetros desde el piso hasta el borde inferior del mandil o fondo del tablero de ser el caso. La trampa del desagüe se instalará lo más cerca al fondo del lavatorio que permita su instalación, y el tubo de bajada será empotrado. No deberá existir ninguna superficie abrasiva ni aristas filosas debajo del lavatorio.
 
-• Se instalará grifería con comando electrónico o mecánica de botón, con mecanismo de cierre automático que permita que el caño permanezca abierto, por lo menos, 10 segundos. En su defecto, la grifería podrá ser de aleta.
+Se instalará grifería con comando electrónico o mecánica de botón, con mecanismo de cierre automático que permita que el caño permanezca abierto, por lo menos, 10 segundos. En su defecto, la grifería podrá ser de aleta.
 
 b) Inodoros
 
-• El cubículo para inodoro tendrá dimensiones mínimas de 1.50 metros por 2 metros, con una puerta de ancho no menor de 90 centímetros y barras de apoyo tubulares adecuadamente instaladas.
+El cubículo para inodoro tendrá dimensiones mínimas de 1.50 metros por 2 metros, con una puerta de ancho no menor de 90 centímetros y barras de apoyo tubulares adecuadamente instaladas.
 
-• Los inodoros se instalarán con la tapa del asiento entre 45 y 50 centímetros sobre el nivel del piso.
+Los inodoros se instalarán con la tapa del asiento entre 45 y 50 centímetros sobre el nivel del piso.
 
-• La papelera deberá ubicarse de modo que permita su fácil uso. No deberá (sic) utilizarse dispensadores que controlen el suministro.
+La papelera deberá ubicarse de modo que permita su fácil uso. No deberá (sic) utilizarse dispensadores que controlen el suministro.
 
 c) Urinarios
 
-• Los urinarios serán del tipo pesebre o colgados de la pared. Estarán provistos de un borde proyectado hacia el frente a no más de 40 centímetros de altura sobre el piso.
+Los urinarios serán del tipo pesebre o colgados de la pared. Estarán provistos de un borde proyectado hacia el frente a no más de 40 centímetros de altura sobre el piso.
 
-• Deberá existir un espacio libre de 75 centímetros por 1.20 metros al frente del urinario para permitir la aproximación de una persona en silla de ruedas.
+Deberá existir un espacio libre de 75 centímetros por 1.20 metros al frente del urinario para permitir la aproximación de una persona en silla de ruedas.
 
-• Deberán instalarse barras de apoyos tubulares verticales, en ambos lados del urinario y a 30 centímetros de su eje, fijados en la pared posterior.
+Deberán instalarse barras de apoyos tubulares verticales, en ambos lados del urinario y a 30 centímetros de su eje, fijados en la pared posterior.
 
-• Se podrán instalar separadores, siempre que el espacio libre entre ellos sea mayor de 75 centímetros.
+Se podrán instalar separadores, siempre que el espacio libre entre ellos sea mayor de 75 centímetros.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
@@ -1448,3 +1450,11 @@ P.O. 11 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 69 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 22 DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado Baja California.
+
+P.O. 14 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 372 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 21 EN SU QUINTO PÁRRAFO FRACCIÓN I, DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los Ayuntamientos del Estado contarán con un plazo de 180 días contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado para realizar las modificaciones correspondientes a sus reglamentos municipales.
