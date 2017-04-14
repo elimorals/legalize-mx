@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2016-12-28"
+last_updated: "2017-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,19 +21,25 @@ state: "NLE"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
+CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE FEBRERO DE 1985.
 
-Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
+Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
-NICÉFORO ZAMBRANO, Gobernador Constitucional del Estado Libre y Soberano de Nuevo León, a todos sus habitantes hago saber: Que el H. Congreso Constituyente del mismo ha tenido a bien dirigirme, para su promulgación, la Constitución Política siguiente:
+El C. Presidente Constitucional de la República se ha servido dirigirme el decreto que sigue:
 
-La XXXVII Legislatura del Estado Libre y Soberano de Nuevo León, en funciones de Constituyente, de acuerdo con el Decreto de 22 de Marzo próximo pasado, dictado por el Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, ha tenido a bien expedir la siguiente
+"PLUTARCO ELIAS CALLES, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON.
+Que en uso de la facultad que ha tenido a bien conferirme el H. Congreso de la Unión por Decretos de 7 de enero y de 6 de diciembre de 1926 y de 3 de enero de 1928, expido el siguiente:
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2016)</small>
+(REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1974)(REPUBLICADA, D.O.F. 31 DE DICIEMBRE DE 1974)
+
+Código Civil para el Distrito Federal en Materia Común, y para toda la República en Materia Federal.
+
+Disposiciones preliminares
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 1º.
 
@@ -73,17 +79,9 @@ Los actos ejecutados contra el tenor de las leyes prohibitivas o de interés pú
 
 La ley sólo queda abrogada o derogada por otra posterior que así lo declare expresamente, o que contenga disposiciones total o parcialmente incompatibles con la ley anterior.
 
-## TITULO I.
+## TITULO PRIMERO. De las personas físicas
 
-De los Derechos Humanos y sus Garantías.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-## TITULO II.
-
-Del Estado en General, Forma de Gobierno, Nuevoleoneses y Ciudadanos.
-
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
+## TITULO SEGUNDO. De las personas morales
 
 ###### Art. 28.
 
@@ -225,7 +223,7 @@ Corresponde exclusivamente a la Legislatura del Estado rehabilitar en sus derech
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 10.
 
@@ -261,9 +259,11 @@ Los actos jurídicos, en todo lo relativo a su forma, se regirán por las leyes 
 
 Los habitantes del Distrito Federal tienen obligación de ejercer sus actividades y de usar y disponer de sus bienes en forma que no perjudique a la colectividad, bajo las sanciones establecidas en este Código y en las leyes relativas.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 17.
 
-Cuando alguno explotando la suma ignorancia, notoria inexperiencia o extrema miseria de otro, obtiene un lucro excesivo que sea evidentemente desproporcionado a lo que él por su parte se obliga, el perjudicado tiene derecho de pedir la rescisión del contrato, y de ser ésta imposible, la reducción equitativa de su obligación.
+Cuando alguno, explotando la suma ignorancia, notoria inexperiencia o extrema miseria de otro; obtiene un lucro excesivo que sea evidentemente desproporcionado a lo que él por su parte se obliga, el perjudicado tiene derecho a elegir entre pedir la nulidad del contrato o la reducción equitativa de su obligación, más el pago de los correspondientes daños y perjuicios.
 
 El derecho concedido en este artículo dura un año.
 
@@ -327,7 +327,7 @@ Las personas morales se regirán por las leyes correspondientes, por su escritur
 
 ### CAPITULO II. De las actas de nacimiento
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 29.
 
@@ -371,53 +371,55 @@ Se tiene derecho de designar un domicilio convencional para el cumplimiento de d
 
 ###### ARTICULO 35.
 
-En el Distrito Federal estará a cargo de los Jueces del Registro Civil autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en su demarcación, así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+En el Distrito Federal, estará a cargo de los Jueces del Registro Civil autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio administrativo y muerte de los mexicanos y extranjeros residentes en los perímetros de las Delegaciones del Distrito Federal, así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la tutela o que se ha perdido o limitado la capacidad legal para administrar bienes.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 36.
 
-Los Jueces del Registro Civil llevarán por duplicado siete libros que se denominan "Registro Civil" y que contendrán: el primero, actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela y de emancipación; el cuarto, actas de matrimonio; el quinto, actas de divorcio; el sexto, actas de fallecimiento, y el séptimo, las inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+Los Jueces del Registro Civil, asentarán en formas especiales que se denominarán "Formas del Registro Civil", las actas a que se refiere el artículo anterior.
 
-Toda acta deberá asentarse en los dos ejemplares del Registro.
+Las inscripciones se harán mecanográficamente y por triplicado.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 37.
 
-Las actas del Registro Civil sólo se pueden asentar en los libros de que habla el artículo anterior.
+Las actas del Registro Civil, sólo se pueden asentar en las formas de que habla el artículo anterior.
 
 La infracción de esta regla producirá la nulidad del acta y se castigará con la destitución del Juez del Registro Civil.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 38.
 
-Si se perdiere o destruyere alguno de los libros del Registro, se sacará inmediatamente copia del otro ejemplar, ya sea que la pérdida ocurra en las oficinas del Registro Civil o en las de la autoridad judicial a quien se hubieren remitido los duplicados.
+Si se perdiere o destruyere alguna de las Formas del Registro Civil, se sacará inmediatamente copia de alguno de los ejemplares que obren en los archivos que esta Ley señala en su artículo 41.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+La Procuraduría General de Justicia del Distrito Federal, cuidará de que se cumpla esta disposición y a este efecto, el Juez del Registro Civil o el encargado del Archivo Judicial, le darán aviso de la pérdida.
 
-El Procurador General de Justicia del Distrito Federal cuidará de que se cumpla esta disposición, y, a ese efecto el Juez del Registro o el encargado del Archivo Judicial, le darán aviso de la pérdida.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 39.
 
-El estado civil de las personas sólo se comprueba por las constancias relativas del Registro. Ningún otro documento ni medio de prueba es admisible para comprobar el estado civil, salvo los casos expresamente exceptuados en la ley.
+El estado civil sólo se comprueba con las constancias relativas del Registro Civil; ningún otro documento ni medio de prueba es admisible para comprobarlo, salvo los casos expresamente exceptuados por la ley.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 40.
 
-Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles, o faltaren las hojas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumentos o testigos; pero si uno solo de los registros sea inutilizado y existe el otro ejemplar, de éste deberá tomarse la prueba, sin admitirla de otra clase.
+Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaren las formas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumento o testigos.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 41.
 
-Todos los libros del Registro Civil serán visados en su primera y última hoja por el Jefe del Departamento del Distrito Federal o por quien él designe, o por el Delegado o Presidente Municipal en su caso y autorizados con su rúbrica en todas las demás. Se renovarán cada año, y un ejemplar quedará en el archivo del Registro Civil, así como los documentos que le correspondan, remitiéndose el otro ejemplar, en el transcurso del primer mes del año siguiente, al archivo del Tribunal Superior respectivo.
+Las Formas del Registro Civil serán expedidas por el Jefe del Departamento del Distrito Federal o por quien él designe. Se renovarán cada año y los Jueces del Registro Civil remitirán en el transcurso del primer mes del año, un ejemplar de las Formas del Registro Civil del año inmediato anterior al Archivo de la Oficina Central del Registro Civil, otro al Archivo del Tribunal Superior de Justicia del Distrito Federal y el otro, con los documentos que le correspondan quedará en el archivo de la oficina en que se haya actuado.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 42.
 
-El Juez del Registro Civil que no cumpla la prevención de remitir oportunamente a la mencionada oficina el ejemplar de que habla el artículo anterior, será destituido de su cargo.
+El Juez del Registro Civil que no cumpla con las prevenciones del artículo anterior, será destituido de su cargo.
 
 ###### ARTICULO 43.
 
@@ -451,11 +453,11 @@ Los vicios o defectos que haya en las actas, sujetan al Juez del Registro Civil 
 
 Toda persona puede pedir testimonio de las actas del Registro Civil, así como de los apuntes y documentos con ellas relacionados, y los Jueces Registradores estarán obligados a darlo.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 49.
 
-Los actos y actas del estado civil relativas al Juez del Registro, a su consorte y a los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por el mismo Juez; pero se asentarán en los propios libros y se autorizarán por el Delegado o Presidente Municipal del lugar.
+Los actos y actas del estado civil del propio Juez, de su cónyuge, ascendientes y descendientes de cualquiera de ellos, no podrán autorizarse por el mismo Juez, pero se asentarán en las formas correspondientes y se autorizarán por el Juez de la adscripción más próxima.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -465,13 +467,9 @@ Las actas del Registro Civil extendidas conforme a las disposiciones que precede
 
 Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado por la Ley, hacen fe hasta que se pruebe lo contrario. Lo que sea extraño al acta no tiene valor alguno.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-## TITULO III.
-
-Del Proceso Electoral.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+## TITULO TERCERO. Del domicilio
 
 ###### Art. 41.
 
@@ -631,53 +629,49 @@ Así mismo, la Ley General y las leyes ordinarias de la materia, establecerán l
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
 
-### CAPITULO III. De las actas de reconocimiento de hijos naturales
+### CAPITULO III. De las Actas de Reconocimiento
 
 > <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
 
 ###### ARTICULO 51.
 
-Para establecer el estado civil adquirido por los mexicanos fuera de la República serán bastantes las constancias que los interesados presenten de los actos relativos, siempre que se registren en la oficina que corresponda del Distrito Federal, o de las Entidades respectivas.
+Para establecer el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto en el Código Federal de Procedimientos Civiles, y siempre que se registren en la Oficina que corresponda del Distrito Federal o de los Estados.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ### CAPITULO IV. De las actas de adopción
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 52.
 
-Los Jueces del Registro Civil se suplirán unos a otros en sus faltas temporales; cuando esto no fuere posible, suplirán dichas faltas los jueces de primera instancia, por turno que llevará la autoridad delegacional o municipal en su caso.
+Los Jueces del Registro Civil se suplirán en sus faltas temporales por el más próximo de la Delegación en que actúen. A falta de éste, por el más próximo de la Delegación colindante.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 53.
 
-El Ministerio Público cuidará de que los libros del Registro Civil se lleven debidamente, pudiendo inspeccionarlos en cualquiera época. Durante los seis primeros meses de cada año, el Ministerio Público revisará los libros del año anterior remitidos a los archivos de los respectivos Tribunales Superiores, para el efecto de hacer la consignación correspondiente de los jueces registradores que hubieren cometido delitos en el ejercicio de su encargo, o de dar aviso a las autoridades administrativas de las faltas en que hubieren incurrido esos empleados.
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
-
-La infracción de este artículo produce responsabilidad para los agentes del Ministerio Público y será castigada conforme a lo prevenido en la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal.
+El Ministerio Público, cuidará que las actuaciones e inscripciones que se hagan en las Formas del Registro Civil, sean conforme a la Ley, pudiendo inspeccionarlas en cualquier época, así como consignar a los Jueces registradores que hubieren cometido delito en el ejercicio de su cargo, o dar aviso a las autoridades administrativas de las faltas en que hubieren incurrido los empleados.
 
 ###### ARTICULO 54.
 
-Las declaraciones de nacimiento se harán presentando al niño ante el Juez del Registro Civil, en su oficina o en la casa donde aquél hubiere nacido.
+Las declaraciones de nacimiento se harán presentando al niño ante el Juez del Registro Civil en su oficina o en el lugar donde aquél hubiere nacido.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 55.
 
-Tienen obligación de declarar el nacimiento: el padre, dentro de los quince días, de ocurrido aquel y, en su defecto, la madre dentro de los cuarenta días.
+Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos, a falta de éstos, los abuelos paternos y, en su defecto, los maternos, dentro de los seis meses siguientes a la fecha en que ocurrió aquél.
 
-Los médicos, cirujanos o matronas que hubieren asistido al parto tienen obligación de dar aviso del nacimiento al Juez del Registro Civil, dentro de los tres días siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
+Los médicos cirujanos o matronas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Juez del Registro Civil, dentro de las veinticuatro horas siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
+
+Si el nacimiento tuviere lugar en un sanatorio particular o del Estado, la obligación a que se refiere el párrafo anterior, estará a cargo del Director o de la persona encargada de la administración.
 
 Recibido el aviso, el Juez del Registro Civil tomará las medidas legales que sean necesarias a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
 
 ###### ARTICULO 56.
 
-Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán castigadas con una multa de cinco a cincuenta pesos, que impondrá la autoridad municipal del lugar donde se haya hecho la declaración extemporánea de nacimiento.
-
-En la misma pena incurrirán las personas que no cumplan la obligación de dar el aviso prevenido en el párrafo segundo del artículo anterior.
+(DEROGADO, D.O.F. 3 DE ENERO DE 1979)
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -685,37 +679,41 @@ En la misma pena incurrirán las personas que no cumplan la obligación de dar e
 
 En las poblaciones en que no haya Juez del Registro Civil, el niño será presentado a la persona que ejerza la autoridad delegacional o municipal en su caso, y éste dará la constancia respectiva que los interesados llevarán al Juez del Registro que corresponda, para que asiente el acta.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ### CAPITULO V. De las actas de tutela
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 58.
 
-El acta de nacimiento se extenderá con asistencia de dos testigos que pueden ser designados por las partes interesadas. Contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellido que se le ponga, sin que por motivo alguno puedan omitirse, y la razón de si se ha presentado vivo a (sic) muerto. Se tomará al margen del acta la impresión digital del presentado.
+El acta de nacimiento se levantará con asistencia de dos testigos. Contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellidos que le correspondan; asimismo, la razón de si se ha presentado vivo o muerto; la impresión digital del presentado. Si éste se presenta como hijo de padres desconocidos, el Juez del Registro Civil le pondrá el nombre y apellidos, haciéndose constar esta circunstancia en el acta.
 
-Si éste se presenta como hijo de padres desconocidos, el Juez del Registro le pondrá nombre y apellido, haciéndose constar esta circunstancia en el acta.
+Si el nacimiento ocurriere en un establecimiento de reclusión, el Juez del Registro Civil deberá asentar como domicilio del nacido, el Distrito Federal.
+
+En los casos de los artículos 60 y 77 de este Código el Juez pondrá el apellido paterno de los progenitores o los dos apellidos del que lo reconozca.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 59.
 
-Cuando el nacido fuere presentado como hijo de matrimonio, se asentarán los nombres, domicilio y nacionalidad de los padres; los nombres y domicilios de los abuelos y los de la persona que hubiere hecho la presentación. Los testigos de que habla el artículo 61 declararán también acerca de la nacionalidad de los padres del presentado al Registro.
+Cuando el nacido fuere presentado como hijo de matrimonio, se asentarán los nombres, domicilio y nacionalidad de los padres, los nombres y domicilios de los abuelos y los de las personas que hubieren hecho la presentación.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 60.
 
-Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo nacido fuera del matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituído en la forma establecida en el artículo 44; haciéndose constar en todo caso la petición.
+Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo fuera del matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituido en la forma establecida en el artículo 44, haciéndose constar la petición.
 
-La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacerse la presentación no se dá el nombre de la madre, se pondrá en el acta que el presentado es hijo de madre desconocida; pero la investigación de la maternidad podrá hacerse ante los Tribunales de acuerdo con las disposiciones relativas de este Código.
+La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacer la presentación no se da el nombre de la madre, se pondrá en el acta que el presentado es hijo de madre desconocida, pero la investigación de la maternidad podrá hacerse ante los Tribunales de acuerdo con las disposiciones relativas de este Código.
 
-Además de los nombres de los padres se hará constar en el acta de nacimiento su nacionalidad y domicilio; declarando acerca de la primera circunstancia los testigos que deben intervenir en el acto.
+Además de los nombres de los padres se hará constar en el acta de nacimiento su nacionalidad y domicilio.
+
+En las actas de nacimiento no se expresará que se trata en su caso de hijo natural.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
-## TITULO IV.
-
-Del Poder Legislativo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2004)</small>
+## TITULO CUARTO. Del Registro Civil
 
 ###### Art. 46.
 
@@ -1309,7 +1307,7 @@ Ninguna resolución de la Legislatura tendrá otro carácter que el de ley, decr
 
 ### CAPITULO VI. De las actas de emancipación
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 61.
 
@@ -1337,27 +1335,31 @@ Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso
 
 Podrá reconocerse al hijo incestuoso. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta; pero en ella no se expresará que el hijo es incestuoso.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 65.
 
-Toda persona que encontrare un recién nacido, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarle al Juez del Registro Civil, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el día y lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
+Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Juez del Registro Civil con los vestidos, valores o cualesquiera otros objetos encontrados con él, y declarará el día y lugar donde lo hubiere hallado, así como las demás circunstancias que en su caso hayan concurrido, dándose además intervención al Ministerio Público.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 66.
 
-La misma obligación tienen los jefes, directores o administradores de las prisiones y de cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad, e inclusas, respecto de los niños nacidos o expuestos en ellas.
+La misma obligación tienen los jefes, directores o administradores de los establecimientos de reclusión, y de cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad e inclusas, respecto de los niños nacidos o expuestos en ellas y en caso de incumplimiento, la autoridad Delegacional impondrá al infractor una multa de diez a cincuenta días del importe del salario mínimo legal fijado en el lugar correspondiente.
 
 ###### ARTICULO 67.
 
 En las actas que se levanten en estos casos, se expresarán con especificación todas las circunstancias que designa el artículo 65, la edad aparente del niño, su sexo, el nombre y apellido que se le pongan, y el nombre de la persona o casa de expósitos que se encarguen de él.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+
 ### CAPITULO IX. De las actas de defunción
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 68.
 
-Si con el expósito se hubieren encontrado papeles, alhajas u otros objetos que puedan conducir al reconocimiento de aquél, se depositarán en el archivo del Registro, mencionándolos en el acta y dando formal recibo de ellos al que recoja al niño.
+Si con el expósito se hubieren encontrado papeles, alhajas u otros objetos que puedan conducir al reconocimiento de aquél, el Juez del Registro Civil, ordenará su depósito ante el Ministerio Público respectivo; mencionándolos en el acta y dando formal recibo de ellos al que recoja al niño.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -1391,15 +1393,19 @@ Si el nacimiento ocurriere en un buque extranjero se observará por lo que toca 
 
 Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres, según las reglas antes establecidas; en el primer caso se remitirá copia del acta al Juez del Registro Civil del domicilio de los padres, si éstos lo pidieren, y en el segundo, se tendrá para hacer el registro el término que señala el artículo 55, con un día más por cada veinte kilómetros de distancia o fracción que exceda de la mitad.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+
 ###### ARTICULO 75.
 
-Si al dar aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de fallecimiento, en los libros respectivos.
+Si al dar aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de defunción, en las Formas del Registro Civil que correspondan.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 76.
 
-En el acta de nacimiento de gemelos, el Juez del Registro Civil hará constar las particularidades que los distingan y quien nació primero, según las noticias que le comuniquen, el médico, el cirujano, la matrona o las personas que hayan asistido al parto.
+Cuando se trate de parto múltiple, se levantará un acta por cada uno de los nacidos, en la que además de los requisitos que señala el artículo 58 se harán constar las particularidades que los distingan y el orden en que ocurrió su nacimiento, según las noticias que proporcionen el médico, el cirujano, la matrona o las personas que hayan asistido el parto y, además, se imprimirán las huellas digitales de los presentados. El Juez del Registro Civil relacionará las actas.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 77.
 
@@ -1421,31 +1427,37 @@ El reconocimiento del hijo natural mayor de edad requiere el consentimiento expr
 
 Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará, dentro del término de quince días, al encargado del Registro el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento, observándose las demás prescripciones contenidas en este capítulo y en el capítulo IV, del Título séptimo de este Libro.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+
 ###### ARTICULO 81.
 
-La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa de veinte a cien pesos, que impondrá y hará efectiva el juez ante quien se haga valer el reconocimiento.
+La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 82.
 
-En el acta de reconocimiento hecho con posterioridad al acta de nacimiento, se hará mención de ésta, poniendo en ella la anotación marginal correspondiente.
+En el acta de reconocimiento hecho con posterioridad al acta de nacimiento, se hará mención de ésta, poniendo en ella la anotación correspondiente.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 83.
 
-Si el reconocimiento se hiciere en oficina distinta de aquella en que se levantó el acta de nacimiento, el Juez del Registro Civil que autorice el acta de reconocimiento, remitirá copia de ésta al encargado de la oficina que haya registrado el nacimiento, para que se haga la anotación marginal en el acta respectiva.
+Si el reconocimiento se hiciere en oficina distinta de aquélla en que se levantó el acta de nacimiento, el Juez del Registro Civil que autorice el acta de reconocimiento, remitirá copia de ésta al encargado de la oficina que haya registrado el nacimiento, para que haga la anotación en el acta respectiva.
 
 ###### ARTICULO 84.
 
-Dictada la resolución judicial definitiva que autorice la adopción; el adoptante, dentro del término de ocho días, presentará al Juez del Registro Civil copia certificada de las diligencias relativas, a fin de que se levante el acta correspondiente.
+Dictada la resolución judicial definitiva que autorice la adopción, el Juez, dentro del término de ocho días, remitirá copia certificada de las diligencias al Juez del Registro Civil que corresponda, a fin de que, con la comparecencia del adoptante, se levante el acta correspondiente.
 
 ###### ARTICULO 85.
 
 La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 81.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+
 ###### ARTICULO 86.
 
-El acta de adopción contendrá los nombres, apellidos, edad y domicilio del adoptante y del adoptado, el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción y los nombres, apellidos y domicilios de las personas que intervengan como testigos. En el acta se insertará íntegramente la resolución judicial que haya autorizado la adopción.
+El acta de adopción contendrá los nombres, apellidos, edad y domicilio del adoptante y del adoptado; el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción, y los nombres, apellidos, y domicilio de las personas que intervengan como testigos. En el acta se insertarán los datos esenciales de la resolución judicial.
 
 ###### ARTICULO 87.
 
@@ -1459,11 +1471,13 @@ El juez o tribunal que resuelva que una adopción queda sin efecto, remitirá de
 
 ###### ARTICULO 89.
 
-Pronunciado el auto de discernimiento de la tutela y publicado en los términos que disponga el Código de Procedimientos Civiles, el tutor, dentro de setenta y dos horas de hecha la publicación, presentará copia certificada del auto mencionado al Juez del Registro Civil, para que levante el acta respectiva. El curador cuidará del cumplimiento de este artículo.
+Pronunciado el auto de discernimiento de la tutela y publicado en los términos que previene el Código de Procedimientos Civiles, el Juez de lo Familiar remitirá copia certificada del auto mencionado al Juez del Registro Civil para que levante el acta respectiva. El Curador cuidará del cumplimiento de este artículo.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 90.
 
-La omisión del registro de tutela no impide al tutor entrar en ejercicio de su cargo, ni puede alegarse por ninguna persona como causa para dejar de tratar con él; pero hace responsables al tutor y al curador en los términos que establece el artículo 81.
+La omisión del registro de tutela no impide al tutor entrar en ejercicio de su cargo, ni puede alegarse por ninguna persona como causa para dejar de tratar con él.
 
 ###### ARTICULO 91.
 
@@ -1487,7 +1501,7 @@ Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, obse
 
 ###### ARTICULO 93.
 
-En los casos de emancipación por efecto del matrimonio no se formará acta separada; el Juez del Registro Civil anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio, y citando la fecha en que éste se celebró, así como el número y la foja del acta relativa.
+En los casos de emancipación por efecto del matrimonio, no se extenderá acta por separado; será suficiente para acreditarla, el acta de matrimonio.
 
 ###### ARTICULO 94.
 
@@ -1561,7 +1575,7 @@ En el lugar, día y hora designados para la celebración del matrimonio deberán
 
 Acto continuo, el Juez del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y de la sociedad.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 103.
 
@@ -1577,17 +1591,23 @@ IV.- El consentimiento de éstos, de los abuelos o tutores, o de las autoridades
 
 V.- Que no hubo impedimento para el matrimonio o que éste se dispensó;
 
-VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimonio, y la de haber quedado unidos, que hará el juez en nombre de la ley y de la sociedad;
+VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimonio, y la de haber quedado unidos, que hará el Juez en nombre de la Ley y de la sociedad;
 
 VII.- La manifestación de los cónyuges de que contraen matrimonio bajo el régimen de sociedad conyugal o de separación de bienes;
 
-VIII.- Los nombres, apellidos, edad, estado, ocupación y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes, y si lo son, en qué grado y en qué línea;
+VIII.- Los nombres, apellidos, edad, estado civil, ocupación y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes, y si lo son, en qué grado y en qué línea.
 
 IX.- Que se cumplieron las formalidades exigidas por el artículo anterior.
 
 El acta será firmada por el Juez del Registro Civil, los contrayentes, los testigos, y las demás personas que hubieren intervenido si supieren y pudieren hacerlo.
 
-Al margen del acta se imprimirán las huellas digitales de los contrayentes.
+En el acta se imprimirán las huellas digitales de los contrayentes.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1979)</small>
+
+###### ARTICULO 103
+
+Bis.- La celebración conjunta de matrimonios no exime al Juez del cumplimiento estricto de las solemnidades a que se refieren los artículos anteriores.
 
 ###### ARTICULO 104.
 
@@ -1627,19 +1647,19 @@ El Juez del Registro Civil que autorice un matrimonio teniendo conocimiento de q
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
-### CAPITULO X. Inscripciones de las ejecutorias que declaren la incapacidad legal para administrar bienes, la ausencia o la presunción de muerte
+### CAPITULO X. De las Inscripciones de las Ejecutorias que Declaran o Modifican el Estado Civil
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 111.
 
 Los Jueces del Registro Civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes, o los dos carecen de aptitud legal para celebrar el matrimonio.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 112.
 
-El Juez del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado, por la primera vez, con una multa de cien pesos, y en caso de reincidencia, con la destitución de su cargo.
+El Juez del Registro Civil, que sin motivo justificado, retarde la celebración de un matrimonio, será sancionado la primera vez con multa de $1,000.00 y en caso de reincidencia con destitución del cargo.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -1653,23 +1673,27 @@ También podrá exigir declaración bajo protesta a los testigos que los interes
 
 La sentencia ejecutoria que decrete un divorcio se remitirá en copia al Juez del Registro Civil para que levante el acta correspondiente.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+
 ###### ARTICULO 115.
 
-El acta de divorcio expresará el nombre, apellido, edad, ocupación y domicilio de los divorciados, la fecha y lugar en que se celebró su matrimonio, y la parte resolutiva de la sentencia que haya decretado el divorcio.
+El acta de divorcio administrativo se levantará en los términos prescritos por el artículo 272 de este ordenamiento, previa solicitud por escrito que presenten los cónyuges y en ella se expresará el nombre y apellidos, edad, ocupación y domicilio de los solicitantes, la fecha y lugar de la Oficina en que celebraron su matrimonio y el número de partida del acta correspondiente.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 116.
 
-Extendida el acta se anotará la de nacimiento y matrimonio de los divorciados y la copia de la sentencia mencionada se archivará con el mismo número del acta de divorcio.
+Extendida el acta se mandará anotar la de matrimonio de los divorciados y la copia de la declaración administrativa de divorcio se archivará con el mismo número del acta.
 
 ###### ARTICULO 117.
 
-Ninguna inhumación se hará sin autorización escrita dada por el Juez del Registro Civil, quien se asegurará suficientemente del fallecimiento. No se procederá a la inhumación sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto en los casos en que se ordene otra cosa por la autoridad que corresponda.
+Ninguna inhumación o cremación se hará sin autorización escrita dada por el Juez del Registro Civil, quien se asegurará suficientemente del fallecimiento, con certificado expedido por médico legalmente autorizado. No se procederá a la inhumación o cremación sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto en los casos en que se ordene otra cosa por la autoridad que corresponda.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 118.
 
-En el acta de fallecimiento se asentarán los datos que el Juez del Registro Civil adquiera, o la declaración que se le haga, y será firmada por dos testigos, prefiriéndose para el caso los parientes si los hay, o los vecinos. Si la persona ha muerto fuera de su habitación, uno de los testigos será aquel en cuya casa se haya verificado el fallecimiento, o alguno de los vecinos más inmediatos.
+En el acta de fallecimiento se asentarán los datos que el Juez del Registro Civil requiera o la declaración que se le haga, y será firmada por dos testigos, prefiriéndose para el caso, los parientes si los hay, o los vecinos.
 
 ###### ARTICULO 119.
 
@@ -1687,81 +1711,89 @@ V.- La clase de enfermedad que determinó la muerte y especificadamente el lugar
 
 VI.- La hora de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 120.
 
-Los dueños o habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de las prisiones, hospitales, colegios u otra cualquiera casa de comunidad; los huéspedes de los mesones u hoteles y los caseros de las casas de vecindad tienen obligación de dar aviso del fallecimiento al Juez del Registro Civil, dentro de las veinticuatro horas siguientes a la muerte.
+Los que habiten la casa en que ocurra el fallecimiento; los directores o administradores de los establecimientos de reclusión, hospitales, colegios o cualquiera otra casa de comunidad, los huéspedes de los hoteles, mesones o las casas de vecindad tienen obligación de dar aviso al Juez del Registro Civil, dentro de las veinticuatro horas siguientes del fallecimiento y en caso de incumplimiento se sancionarán con una multa de quinientos a cinco mil pesos.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 121.
 
-Si el fallecimiento ocurriere en un lugar o población en donde no haya oficina del Registro, la autoridad delegacional o municipal en su caso, extenderá la constancia respectiva que remitirá al Juez del Registro Civil que corresponda, para que asiente el acta.
+Si el fallecimiento ocurriera en un lugar o población en donde no exista Oficina del Registro Civil, la autoridad municipal extenderá la constancia respectiva que remitirá al Juez del Registro Civil que corresponda, para que levante el acta correspondiente.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 122.
 
-Cuando el Juez del Registro Civil sospeche que la muerte fue violenta, dará parte al Ministerio Público, comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando el Ministerio Público averigüe un fallecimiento, dará parte al Juez del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Juez del Registro Civil para que los anote al margen del acta.
+Cuando el Juez del Registro Civil, sospeche que la muerte fue violenta, dará parte al Ministerio Público, comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando el Ministerio Público averigue (sic) un fallecimiento, dará parte al Juez del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Juez del Registro Civil para que los anote en el acta.
 
 ###### ARTICULO 123.
 
 En los casos de inundación, naufragio, incendio o cualquiera otro siniestro en que no sea fácil reconocer el cadáver, se formará el acta con los datos que ministren los que lo recogieron, expresando, en cuanto fuere posible, las señas del mismo y de los vestidos u objetos que con él se hayan encontrado.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+
 ###### ARTICULO 124.
 
-Si no parece (sic) el cadáver, pero hay certeza de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre de las personas que hayan conocido a la que no parece (sic), y las demás noticias que sobre el suceso puedan adquirirse.
+Si no aparece el cadáver pero hay certeza de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre de las personas que hayan conocido a la que no aparece y las demás noticias que sobre el suceso puedan adquirirse.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 125.
 
-En el caso de muerte en el mar, a bordo de un buque nacional, el acta se formará de la manera prescrita en el artículo 119, en cuanto fuere posible, y la autorizará el capitán o patrono del buque, practicándose, además, lo dispuesto para los nacimientos en los artículos 71 y 72.
+En el caso de muerte en el mar a bordo de un buque nacional, o en el espacio aéreo nacional, el acta se formará en la manera prescrita en el artículo 119, en cuanto fuere posible, y la autorizará el capitán o patrono de la nave, practicándose, además, lo dispuesto para los nacimientos en los artículos 71 y 72.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 126.
 
-Cuando alguno falleciere en el lugar que no sea el de su domicilio, se remitirá al Juez del Registro Civil de su domicilio, copia certificada del acta para que se asiente en el libro respectivo, anotándose la remisión al margen del acta original.
+Cuando alguno falleciere en lugar que no sea el de su domicilio se remitirá al Juez del Registro Civil de su domicilio, copia certificada del acta para que se asiente en el libro respectivo.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 127.
 
-El jefe de cualquier cuerpo o destacamento militar tiene obligación de dar parte al Juez del Registro Civil, de los muertos que haya habido en campaña, o en otro acto del servicio, especificándose la filiación; el Juez del Registro Civil observará en este caso lo dispuesto en el artículo anterior.
+El jefe de cualquier cuerpo o destacamento militar, tiene obligación de dar parte al Juez del Registro Civil, de los muertos que haya habido en campaña, o en otro acto del servicio, especificándose la filiación.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
-### CAPITULO XI
-
-De la rectificación de las actas del estado civil.
+### CAPITULO XI. De la Rectificación, Modificación y Aclaración de las Actas del Registro Civil
 
 ###### ARTICULO 128.
 
 Los tribunales cuidarán de remitir dentro de las veinticuatro horas siguientes a la ejecución de la sentencia de muerte, una noticia al Juez del Registro Civil del lugar donde se haya verificado la ejecución. Esta noticia contendrá el nombre, apellido, edad, estado y ocupación que tuvo el ejecutado.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+
 ###### ARTICULO 129.
 
-En todos los casos de muerte violenta en las prisiones o en las casas de detención, y en los de ejecución de la pena de muerte, no se hará en los registros mención de estas circunstancias y las actas solamente contendrán los demás requisitos que prescribe el artículo 119.
+En todos los casos de muerte violenta en los establecimientos de reclusión, no se hará en los registros mención de estas circunstancias y las actas solamente contendrán los demás requisitos que prescribe el artículo 119.
 
 ###### ARTICULO 130.
 
-En los registros de nacimiento y matrimonio se hará referencia al acta de defunción expresándose los folios en que conste ésta.
+(DEROGADO, D.O.F. 3 DE ENERO DE 1979)
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 131.
 
-Las autoridades judiciales que declaren perdida la capacidad legal de alguna persona para administrar bienes, la ausencia o la presunción de su muerte, dentro del término de ocho días remitirán al Juez del Registro Civil que corresponda, copia certificada de la ejecutoria respectiva.
+Las autoridades judiciales que declaren la ausencia, la presunción de muerte, la tutela, el divorcio o que se ha perdido o limitado la capacidad para administrar bienes, dentro del término de ocho días remitirán al Juez del Registro Civil correspondiente, copia certificada de la ejecutoria respectiva.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 132.
 
-El Juez del Registro levantará el acta correspondiente, en la que insertará la resolución judicial que se le haya comunicado.
+El Juez del Registro Civil hará la anotación correspondiente en las actas de nacimiento y de matrimonio, en su caso, e insertará los datos esenciales de la resolución judicial que se le haya comunicado.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 133.
 
-Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Juez del Registro Civil por el mismo interesado o por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
+Cuando se recobre la capacidad legal para administrar, se revoque la adopción o se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Juez del Registro Civil por el mismo interesado y por la autoridad que corresponda, para que cancele la inscripción a que se refiere el artículo anterior.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 134.
 
@@ -1798,6 +1830,12 @@ El juicio de rectificación de acta se seguirá en la forma que se establezca en
 ###### ARTICULO 138.
 
 La sentencia que cause ejecutoria se comunicará al Juez del Registro Civil y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1979)</small>
+
+###### ARTICULO 138 Bis.
+
+La aclaración de las actas del estado civil, procede cuando en el Registro existan errores mecanográficos, ortográficos o de otra índole que no afecten los datos esenciales de aquéllas, y deberán tramitarse ante la Oficina Central del Registro Civil.
 
 ###### ARTICULO 139.
 
@@ -1885,9 +1923,7 @@ Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio
 
 El juez que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, si no por justa causa superveniente.
 
-## TITULO V.
-
-Del Poder Ejecutivo.
+## TITULO QUINTO. Del matrimonio
 
 ###### Art. 81.
 
@@ -2215,13 +2251,21 @@ Si la transcripción se hace dentro de esos tres meses, sus efectos civiles se r
 
 Los cónyuges están obligados a contribuir cada uno por su parte a los fines del matrimonio y a socorrerse mutuamente.
 
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos. Por lo que toca al matrimonio, este derecho será ejercido de común acuerdo por los cónyuges.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO VI. De la separación de bienes
 
 ###### ARTICULO 163.
 
-Los cónyuges vivirán juntos en el domicilio conyugal. Los Tribunales, con conocimiento de causa, podrá (sic) eximir de esta obligación a alguno de ellos, cuando el otro traslade su domicilio a país extranjero, a no ser que lo haga en servicio público o social, o se establezca en lugar insalubre o indecoroso.
+Los cónyuges vivirán juntos en el domicilio conyugal. Se considera domicilio conyugal, el lugar establecido de común acuerdo por los cónyuges, en el cual ambos disfrutan de autoridad propia y consideraciones iguales.
+
+Los tribunales, con conocimiento de causa, podrán eximir de aquella obligación a alguno de los cónyuges, cuando el otro traslade su domicilio a país extranjero, a no ser que lo haga en servicio público o social, o se establezca en lugar insalubre o indecoroso.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ### CAPITULO VII. De las donaciones antenupciales
 
@@ -2279,13 +2323,13 @@ Son aplicables a las donaciones antenupciales las reglas de las donaciones comun
 
 ###### ARTICULO 164.
 
-El marido debe dar alimentos a la mujer y hacer todos los gastos necesarios para el sostenimiento del hogar; pero si la mujer tuviere bienes propios o desempeñare algún trabajo, o ejerciere alguna profesión, oficio o comercio, deberá también contribuir para los gastos de la familia, siempre que la parte que le corresponda no exceda de la mitad de dichos gastos, a no ser que el marido estuviere imposibilitado para trabajar y careciere de bienes propios, pues entonces todos los gastos serán de cuenta de la mujer y se cubrirán con bienes de ella.
+Los cónyuges contribuirán económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijos, así como a la educación de éstos en los términos que la ley establece, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades. A lo anterior no está obligado el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a esos gastos.
 
-## TITULO VI.
+Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
 
-Del Poder Judicial.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+## TITULO SEXTO. Del parentesco y de los alimentos
 
 ###### Art. 94.
 
@@ -2597,13 +2641,17 @@ Art.- 104.- Los Jueces Menores serán Licenciados en Derecho, tendrán las facul
 
 ### CAPITULO VIII. De las donaciones entre consortes
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 232.
 
-Los consortes pueden hacerse donaciones; pero sólo se confirman con la muerte del donante, con tal de que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
+Los consortes pueden hacerse donaciones, con tal de que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 233.
 
-Las donaciones entre consortes pueden ser revocadas libremente y en todo tiempo por los donantes.
+Las donaciones entre consortes pueden ser revocadas por los donantes, mientras subsista el matrimonio, cuando exista causa justificada para ello, a juicio del Juez.
 
 ###### ARTICULO 234.
 
@@ -2611,61 +2659,59 @@ Estas donaciones no se anularán por la superveniencia de hijos, pero se reducir
 
 ###### ARTICULO 165.
 
-La mujer tendrá siempre derecho preferente sobre los productos de los bienes del marido y sobre sus sueldos, salarios o emolumentos, por las cantidades que correspondan para la alimentación de ella y de sus hijos menores. También tendrá derecho preferente sobre los bienes propios del marido para la satisfacción del mismo objeto. La mujer puede pedir el aseguramiento de bienes para hacer efectivos estos derechos.
+Los cónyuges y los hijos, en materia de alimentos, tendrán derecho preferente sobre los ingresos y bienes de quien tenga a su cargo el sostenimiento económico de la familia y podrán demandar el aseguramiento de los bienes para hacer efectivos estos derechos.
 
 ###### ARTICULO 166.
 
-El marido tendrá derecho que a la mujer concede el artículo anterior, en los casos en que ésta tenga obligación de contribuir en todo o en parte para los gastos de la familia y del hogar.
-
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1974)
 
 ###### ARTICULO 167.
 
-El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, de común acuerdo arreglarán todo lo relativo a la educación y establecimiento de los hijos y a la administración de los bienes que a éstos pertenezcan.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1974)
 
-En caso de que el marido y la mujer no estuvieren conforme sobre alguno de los puntos indicados, el Juez de lo Familiar correspondiente procurará avenirlos, y si no lo lograre, resolverá, sin solemnidad de juicio, pero oyendo a las partes y recibiéndoles sus pruebas, lo que fuera más conveniente a los intereses de los hijos.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 168.
 
-Estará a cargo de la mujer la dirección y cuidado de los trabajos del hogar.
+El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, resolverán de común acuerdo todo lo conducente al manejo del hogar, a la formación y educación de los hijos y a la administración de los bienes que a éstos pertenezcan. En caso de desacuerdo, el Juez de lo Familiar resolverá lo conducente.
 
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 169.
 
-La mujer podrá desempeñar un empleo, ejercer una profesión, industria, oficio o comercio, cuando ello no perjudique a la misión que le impone el artículo anterior, ni se dañe la moral de la familia o la estructura de ésta.
-
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+Los cónyuges podrán desempeñar cualquier actividad excepto las que dañen la moral de la familia o la estructura de ésta. Cualquiera de ellos podrá oponerse a que el otro desempeñe la actividad de que se trate y el Juez de lo Familiar resolverá sobre la oposición.
 
 ###### ARTICULO 170.
 
-El marido podrá oponerse a que la mujer se dedique a las actividades a que se refiere el artículo anterior, siempre que funde su oposición en las causas que el mismo señala. En todo caso el juez resolverá lo que sea procedente.
-
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1974)
 
 ###### ARTICULO 171.
 
-La mujer podrá oponerse a que el marido desempeñe algún trabajo que lesione la moral o la estructura de la familia. En todo caso el juez resolverá lo que sea procedente.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1974)
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 172.
 
-El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
+El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél, salvo en lo relativo a los actos de administración y de dominio de los bienes comunes.
 
 ###### ARTICULO 173.
 
 El marido y la mujer, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 174.
 
-La mujer necesita autorización judicial para contratar con su marido, excepto cuando el contrato que celebre sea el de mandato.
+Los cónyuges requieren autorización judicial para contratar entre ellos, excepto cuando el contrato sea el de mandato para pleitos y cobranzas o para actos de administración.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 175.
 
-También se requiere autorización judicial para que la mujer sea fiadora de su marido o se obligue solidariamente con él, en asuntos que sean del interés exclusivo de éste.
+También se requiere autorización judicial para que el cónyuge sea fiador de su consorte o se obligue solidariamente con él, en asuntos que sean de interés exclusivo de éste, salvo cuando se trate de otorgar caución para que el otro obtenga su libertad.
 
-La autorización, en los casos a que se refieren los dos artículos anteriores, no se concederá cuando notoriamente resulten perjudicados los intereses de la mujer.
-
-Esta no necesita autorización judicial para otorgar fianza a fin de que su esposo obtenga la libertad.
+La autorización, en los casos a que se refieren éste y los dos artículos anteriores, no se concederá cuando resulten perjudicados los intereses de la familia o de uno de los cónyuges.
 
 ###### ARTICULO 176.
 
@@ -2819,13 +2865,17 @@ La buena fe se presume; para destruir esta presunción se requiere prueba plena.
 
 Si la demanda de nulidad fuere entablada por uno sólo de los cónyuges, desde luego se dictarán las medidas provisionales que establece el artículo 282.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 259.
 
-Luego que la sentencia sobre nulidad cause ejecutoria, los hijos varones de cinco años, quedarán al cuidado el padre, y las hijas al cuidado de la madre, si de parte de ambos cónyuges hubiere habido buena fe.
+Luego que la sentencia sobre nulidad cause ejecutoria, el padre y la madre propondrán la forma y términos del cuidado y la custodia de los hijos y el juez resolverá a su criterio de acuerdo con las circunstancias del caso.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 260.
 
-Si uno solo de los cónyuges ha procedido de buena fe, quedarán todos los hijos bajo su cuidado; pero siempre y aun tratándose de divorcio, las hijas e hijos menores de cinco años, se mantendrán al cuidado de la madre hasta que cumpla esta edad, a menos que la madre se dedicare a la prostitución, al lenocinio, hubiere contraído el hábito de embriagarse, tuviera alguna enfermedad contagiosa, o por su conducta ofreciere peligro grave para la salud o la moralidad de sus hijos.
+El juez en todo tiempo, podrá modificar la determinación a que se refiere el artículo anterior, atento a las nuevas circunstancias y a lo dispuesto en los artículos 422, 423 y 444, fracción III.
 
 ###### ARTICULO 261.
 
@@ -2869,9 +2919,11 @@ El menor que con arreglo a la ley pueda contraer matrimonio, puede también otor
 
 El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 267.
 
-Son causas de divorcio:
+Son causales de divorcio:
 
 I.- El adulterio debidamente probado de uno de los cónyuges;
 
@@ -2885,7 +2937,9 @@ V.- Los actos inmorales ejecutados por el marido o por la mujer con el fin de co
 
 VI.- Padecer sífilis, tuberculosis, o cualquiera otra enfermedad crónica o incurable que sea, además, contagiosa o hereditaria, y la impotencia incurable que sobrevenga después de celebrado el matrimonio;
 
-VII.- Padecer enajenación mental incurable;
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+VII.- Padecer enajenación mental incurable, previa declaración de interdicción que se haga respecto del cónyuge demente;
 
 VIII.- La separación de la casa conyugal por más de seis meses sin causa justificada;
 
@@ -2897,7 +2951,9 @@ X.- La declaración de ausencia legalmente hecha, o la de presunción de muerte,
 
 XI.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro;
 
-XII.- La negativa de los cónyuges de darse alimentos, de acuerdo con lo dispuesto en el artículo 164, siempre que no puedan hacer efectivos los derechos que les concede los artículos 165 y 166;
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+XII.- La negativa injustificada de los cónyuges a cumplir con las obligaciones señaladas en el Artículo 164, sin que sea necesario agotar previamente los procedimientos tendentes (sic) a su cumplimiento, así como el incumplimiento, sin justa causa, por alguno de los cónyuges, de la sentencia ejecutoriada en el caso del Artículo 168;
 
 XIII.- La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
 
@@ -2909,9 +2965,15 @@ XVI.- Cometer un cónyuge contra la persona o los bienes del otro, un acto que s
 
 XVII.- El mutuo consentimiento.
 
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+XVIII.- La separación de los cónyuges por más de 2 años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 268.
 
-Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o que haya resultado insuficiente, el demandado tiene a su vez el derecho de pedir el divorcio; pero no podrá hacerlo sino pasados tres meses de la notificación de la última sentencia. Durante estos tres meses, los cónyuges no están obligados a vivir juntos.
+Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o se hubiere desistido de la demanda o de la acción sin la conformidad del demandado, éste tiene a su vez el derecho de pedir el divorcio, pero no podrá hacerlo sino pasados tres meses de la notificación de la última sentencia o del auto que recayó al desistimiento. Durante estos tres meses los cónyuges no están obligados a vivir juntos.
 
 ###### ARTICULO 269.
 
@@ -2923,7 +2985,7 @@ Son causas de divorcio los actos inmorales ejecutados por el marido o por la muj
 
 ###### ARTICULO 271.
 
-Para que pueda pedirse el divorcio por causa de enajenación mental que se considere incurable, es necesario que hayan transcurrido dos años desde que comenzó a padecerse la enfermedad.
+(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -2937,17 +2999,23 @@ El divorcio así obtenido no surtirá efectos legales si se comprueba que los c�
 
 Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código de Procedimientos Civiles.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 273.
 
-Los cónyuges que se encuentren en el caso del párrafo último del artículo anterior, están obligados a presentar al Juzgado un convenio en que se fijen los siguientes puntos:
+Los cónyuges que se encuentren en el caso del último párrafo del Artículo anterior, están obligados a presentar al Juzgado un convenio en que se fijen los siguientes puntos:
 
 I.- Designación de persona a quien sean confiados los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
 II.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
-III.- La casa que servirá de habitación a la mujer durante el procedimiento;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-IV.- La cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento, la forma de hacer el pago y la garantía que debe darse para asegurarlo;
+III.- La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento;
+
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+IV.- En los términos del Artículo 288, la cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento y después de ejecutoriado el divorcio, así como la forma de hacer el pago y la garantía que debe otorgarse para asegurarlo;
 
 V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. A ese efecto se acompañará un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad.
 
@@ -2971,49 +3039,59 @@ El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en 
 
 El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él, y dentro de los seis meses siguientes al día en que hayan llegado a su noticia los hechos en que se funde la demanda.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 279.
 
-Ninguna de las causas enumeradas en el artículo 267 pueden alegarse para pedir el divorcio cuando haya mediado perdón expreso o tácito.
+Ninguna de las causas enumeradas en el artículo 267 pueden alegarse para pedir el divorcio, cuando haya mediado perdón expreso o tácito; no se considera perdón tácito la mera suscripción de una solicitud de divorcio voluntario, ni los actos procesales posteriores.
 
 ###### ARTICULO 280.
 
 La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoria. En este caso los interesados deberán denunciar su reconciliación al juez, sin que la omisión de esta denuncia destruya los efectos producidos por la reconciliación.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 281.
 
-El cónyuge que no haya dado causa al divorcio, puede antes de que se pronuncie la sentencia que ponga fin al litigio, prescindir de sus derechos y obligar al otro a reunirse con él; mas, en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
+El cónyuge que no haya dado causa al divorcio puede, antes de que se pronuncie la sentencia que ponga fin al litigio, otorgar a su consorte el perdón respectivo; mas en este caso, no puede pedir de nuevo el divorcio por los mismos hechos a los que se refirió el perdón y que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie, o por hechos distintos que legalmente constituyan causa suficiente para el divorcio.
 
 ###### ARTICULO 282.
 
-Al admitirse la demanda de divorcio, o antes, si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, las disposiciones siguientes:
+Al admitirse la demanda de divorcio, o antes si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, las disposiciones siguientes:
 
-I.- Separar a los cónyuges en todo caso;
+I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1974)
 
-> <small>(REFORMADA, D.O.F. 9 DE ENERO DE 1954)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-II.- Proceder por cuanto a depósito o separación de los cónyuges en los términos del capítulo III, título V del Código de Procedimientos Civiles.
+II.- Proceder a la separación de los cónyuges de conformidad con el Código de Procedimientos Civiles;
 
 III.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
 
-IV.- Dictar las medidas conveniente para que el marido no cause perjuicio en sus bienes a la mujer;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+IV.- Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal, en su caso;
 
 V.- Dictar en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta;
 
-VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente.
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el código respectivo resolverá lo conducente.
+
+Salvo peligro grave para el normal desarrollo de los hijos, los menores de siete años deberán quedar al cuidado de la madre.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 283.
 
-La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
+La sentencia de divorcio fijará la situación de los hijos, para lo cual el juez gozará de las más amplias facultades para resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los hijos, debiendo obtener los elementos de juicio necesarios para ello. El juez observará las normas del presente código para los fines de llamar al ejercicio de la patria potestad a quien legalmente tenga derecho a ello, en su caso, o de designar tutor.
 
-Primera.- Cuando la causa del divorcio estuviere comprendida en las fracciones I, II, III, IV, V, VIII, XIV y XV del artículo 267, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere se nombrará tutor.
-
-Segundo.- Cuando la causa del divorcio estuviere comprendida en las fracciones IX, X, XI, XII, XIII y XVI del artículo 267, los hijos quedarán bajo la patria potestad del cónyuge inocente; pero a la muerte de éste, el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables, se le suspenderá en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta. Entre tanto, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no hay quien la ejerza, se les nombrará tutor.
-
-Tercera.- En el caso de las fracciones VI y VII del artículo 267, los hijos quedarán en poder del cónyuge sano; pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 284.
 
-Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, podrán acordar los tribunales, a petición de los abuelos, tíos o hermanos mayores, cualquiera providencia que se considere benéfica a los menores.
+Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, el juez podrá acordar, a petición de los abuelos, tíos o hermanos mayores, cualquier medida que se considere benéfica para los menores.
+
+El juez podrá modificar esta decisión atento a lo dispuesto en los artículos 422, 423 y 444, fracción III.
 
 ###### ARTICULO 285.
 
@@ -3023,15 +3101,23 @@ El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas l
 
 El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 287.
 
-Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes, se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges, o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes, a la subsistencia y a la educación de los hijos varones hasta que lleguen a la mayor edad, y de las hijas aunque sean mayores de edad, hasta que contraigan matrimonio, siempre que vivan honestamente.
+Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos hasta que lleguen a la mayor edad.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 288.
 
-En los casos de divorcio, la mujer inocente tendrá derecho a alimentos mientras no contraiga nuevas nupcias y viva honestamente. El marido inocente sólo tendrá derecho a alimentos cuando este imposibilitado para trabajar y no tenga bienes propios para subsistir. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
+En los casos de divorcio necesario, el juez, tomando en cuenta las circunstancias del caso y entre ellas la capacidad para trabajar de los cónyuges, y su situación económica, sentenciará al culpable al pago de alimentos en favor del inocente.
 
-En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges no tienen derecho a pensión alimenticia, ni a la indemnización que concede este artículo.
+En el caso de divorcio por mutuo consentimiento, la mujer tendrá derecho a recibir alimentos por el mismo lapso de duración del matrimonio, derecho que disfrutará si no tiene ingresos suficientes y mientras no contraiga nuevas nupcias o se una en concubinato.
+
+El mismo derecho señalado en el párrafo anterior, tendrá el varón que se encuentre imposibilitado para trabajar y carezca de ingresos suficientes, mientras no contraiga nuevas nupcias o se una en concubinato.
+
+Cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
 
 ###### ARTICULO 289.
 
@@ -3071,11 +3157,7 @@ Las capitulaciones matrimoniales en que se constituya la sociedad conyugal, cons
 
 En este caso, la alteración que se haga de las capitulaciones deberá también otorgarse en escritura pública, haciendo la respectiva anotación en el Protocolo en que se otorgaron las primitivas capitulaciones, y en la inscripción del Registro Público de la Propiedad. Sin llenar estos requisitos, las alteraciones no producirán efecto contra tercero.
 
-## TITULO VII.
-
-De las Responsabilidades de los Servidores Públicos, Particulares vinculados con faltas administrativas graves o hechos de corrupción, y patrimonial del estado.
-
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
+## TITULO SEPTIMO. De la paternidad y filiación
 
 ###### Art. 105.
 
@@ -3309,13 +3391,25 @@ La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si as
 
 Esta misma regla se observará cuando la sociedad conyugal se modifique durante la menor edad de los consortes.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 188.
 
 Puede también terminar la sociedad conyugal durante el matrimonio, a petición de alguno de los cónyuges, por los siguientes motivos:
 
 I.- Si el socio administrador, por su notoria negligencia o torpe administración, amenaza arruinar a su consocio o disminuir considerablemente los bienes comunes;
 
-II.- Cuando el socio administrador hace cesión de bienes a sus acreedores, o es declarado en quiebra.
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+II.- Cuando el socio administrador, sin el consentimiento expreso de su cónyuge, hace cesión de bienes pertenecientes a la sociedad conyugal, a sus acreedores;
+
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+III.- Si el socio administrador es declarado en quiebra, o concurso;
+
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+IV.- Por cualquiera otra razón que lo justifique a juicio del órgano jurisdiccional competente.
 
 ###### ARTICULO 189.
 
@@ -3357,15 +3451,19 @@ Todo pacto que importe cesión de una parte de los bienes propios de cada cónyu
 
 No pueden renunciarse anticipadamente las ganancias que resulten de la sociedad conyugal; pero disuelto el matrimonio o establecida la separación de bienes, pueden los cónyuges renunciar a las ganancias que les correspondan.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ### CAPITULO II. De los alimentos
 
 ###### ARTICULO 301.
 
 La obligación de dar alimentos es recíproca. El que los da tiene a su vez el derecho de pedirlos.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 302.
 
-Los cónyuges deben darse alimentos. La ley determinará cuando queda subsistente esta obligación en los casos de divorcio y otros que la misma ley señale.
+Los cónyuges deben darse alimentos; la Ley determinará cuando queda subsistente esta obligación en los casos de divorcio y otros que la misma Ley señale. Los concubinos están obligados, en igual forma, a darse alimentos si se satisfacen los requisitos señalados por el artículo 1635.
 
 ###### ARTICULO 303.
 
@@ -3401,9 +3499,11 @@ El obligado a dar alimentos cumple la obligación asignando una pensión compete
 
 El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 311.
 
-Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
+Los alimentos han de ser proporcionados a las posibilidades del que debe darlos y a las necesidades de quien debe recibirlos. Determinados por convenio o sentencia, los alimentos tendrán un incremento automático mínimo equivalente al aumento porcentual del salario mínimo diario vigente en el Distrito Federal, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
 
 ###### ARTICULO 312.
 
@@ -3439,9 +3539,11 @@ V.- El Ministerio Público.
 
 Si las personas a que se refieren las fracciones II, III y IV del artículo anterior no pueden representar al acreedor alimentario en el juicio en que se pida el aseguramiento de alimentos, se nombrará por el juez un tutor interino.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 317.
 
-El aseguramiento podrá consistir en hipoteca, prenda, fianza, o depósito de cantidad bastante a cubrir los alimentos.
+El aseguramiento podrá consistir en hipoteca, prenda, fianza, depósito de cantidad bastante a cubrir los alimentos o cualesquiera otra forma de garantía suficiente a juicio del juez.
 
 ###### ARTICULO 318.
 
@@ -3469,19 +3571,21 @@ V.- Si el alimentista, sin consentimiento del que debe dar los alimentos, abando
 
 El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 322.
 
-Cuando el marido no estuviere presente, o estándolo rehusare entregar a la mujer lo necesario para los alimentos de ella y de los hijos, será responsable de las deudas que la esposa contraiga para cubrir esa exigencia; pero sólo en la cuantía estrictamente necesaria para ese objeto, y siempre que no se trate de gastos de lujo.
+Cuando el deudor alimentario no estuviere presente o estándolo rehusare entregar lo necesario para los alimentos de los miembros de su familia con derecho a recibirlos, se hará responsable de las deudas que éstos contraigan para cubrir esa exigencia, pero sólo en la cuantía estrictamente necesaria para ese objeto y siempre que no se trate de gastos de lujo.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 323.
 
-La esposa que sin culpa suya, se vea obligada a vivir separada de su marido, podrá pedir al Juez de lo Familiar del lugar de su residencia, que obligue a su esposo a darle alimentos durante la separación, y a que le ministre todos los que haya dejado de darle desde que la abandonó. El Juez según las circunstancias del caso fijará la suma que el marido debe ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el esposo pague los gastos que la mujer haya tenido que erogar con tal motivo.
+El cónyuge que se haya separado del otro, sigue obligado a cumplir con los gastos a que se refiere el artículo 164. En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al Juez de lo Familiar de su residencia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de aquella, así como también satisfaga los adeudos contraidos en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, el juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
 
 ###### ARTICULO 194.
 
-El dominio de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad.
+El dominio de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad conyugal. La administración quedará a cargo de quien los cónyuges hubiesen designado en las capitulaciones matrimoniales, estipulación que podrá ser libremente modificada, sin necesidad de expresión de causa, y en caso de desacuerdo, el Juez de lo Familiar resolverá lo conducente.
 
 ###### ARTICULO 195.
 
@@ -3635,11 +3739,7 @@ Lo mismo se observará cuando las capitulaciones de separación se modifiquen du
 
 No es necesario que consten en escritura pública las capitulaciones en que se pacte la separación de bienes, antes de la celebración del matrimonio. Si se pacta durante el matrimonio, se observarán las formalidades exigidas para la trasmisión de los bienes de que se trate.
 
-## TITULO VIII.
-
-De los Municipios.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+## TITULO OCTAVO. De la patria potestad
 
 ### CAPITULO I. De los efectos de la patria potestad respecto de la persona de los hijos
 
@@ -3679,9 +3779,11 @@ En los casos previstos en los artículos 380 y 381, cuando por cualquiera circun
 
 Cuando los padres del hijo nacido fuera de matrimonio que vivían juntos se separen, continuará ejerciendo la patria potestad, en caso de que no se pongan de acuerdo sobre ese punto, el progenitor que designe el juez, teniendo siempre en cuenta los intereses del hijo.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 418.
 
-A falta de padres, ejercerán la patria potestad sobre el hijo reconocido, los demás ascendientes a que se refieren las fracciones II y III del artículo 414.
+A falta de padres, ejercerán la patria potestad sobre el hijo los demás ascendientes a que se refieren las fracciones II y III del artículo 414, en el orden que determine el Juez de lo Familiar, tomando en cuenta las circunstancias del caso.
 
 ###### ARTICULO 419.
 
@@ -3701,11 +3803,13 @@ A las personas que tienen al hijo bajo su patria potestad, incumbe la obligació
 
 Cuando llegue a conocimiento de los Consejos Locales de Tutela que las personas de que se trata no cumplen esa obligación, lo avisarán al Ministerio Público para que promueva lo que corresponda.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 423.
 
-Los que ejercen la patria potestad tienen la facultad de corregir y castigar a sus hijos mesuradamente.
+Para los efectos del artículo anterior, los que ejerzan la patria potestad o tengan hijos bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
 
-Las autoridades, en caso necesario, auxiliarán a esas personas, haciendo uso de amonestaciones y correctivos que presten el apoyo suficiente a la autoridad paterna.
+Las autoridades, en caso necesario, auxiliarán a esas personas haciendo uso de amonestaciones y correctivos que les presten el apoyo suficiente.
 
 ###### ARTICULO 424.
 
@@ -4081,11 +4185,7 @@ En el caso de que el crecimiento de los centros urbanos forme o tienda a formar 
 
 Cuando dos o más Municipios, cuya área urbana, funciones y actividades rebasan el límite del Municipio o demarcación que originalmente la contenía, incorporando como parte de sí misma o de su área de influencia directa a Municipios vecinos con los que mantiene un alto grado de integración socioeconómicos, de tal manera que se estime conveniente para la planeación y regulación del desarrollo urbano, la ejecución conjunta de obras o la prestación más eficaz de los servicios públicos que les competen, y en los términos que se señalen en la legislación aplicable, los Ayuntamientos respectivos podrán convenir con el Ejecutivo del Estado, la dimensión y los límites de una zona metropolitana.
 
-## TITULO IX.
-
-De la Hacienda Pública del Estado.
-
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2000)</small>
+## TITULO NOVENO. De la tutela
 
 ### CAPITULO I. Disposiciones generales
 
@@ -4299,9 +4399,11 @@ Cuando haya dos o más hijos, será preferido el que viva en compañía del padr
 
 Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos tengan hijos que puedan desempeñar la tutela, debiéndose poner de acuerdo respecto a quién de los dos ejercerá el cargo.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 490.
 
-A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamados a ella sucesivamente: el abuelo paterno, el materno, los hermanos del incapacitado y los demás colaterales a que se refiere la fracción II del artículo 483; observándose, en su caso, lo que dispone el artículo 484.
+A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamados a ella sucesivamente: los abuelos, los hermanos del incapacitado y los demás colaterales a que se refiere la fracción II del artículo 483; observándose en su caso lo que dispone el artículo 484.
 
 ###### ARTICULO 491.
 
@@ -4763,9 +4865,11 @@ El nombramiento de árbitros hecho por el tutor deberá sujetarse a la aprobaci�
 
 Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de mil pesos, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 569.
 
-Ni con licencia judicial, ni en almoneda o fuera de ella, puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos, para sí, sus ascendientes, su mujer, hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
+Ni con licencia judicial, ni en almoneda o fuera de ella puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos, para sí, sus ascendientes, su mujer o marido, hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
 
 ###### ARTICULO 570.
 
@@ -4811,17 +4915,21 @@ El tutor tiene obligación de admitir las donaciones simples, legados y herencia
 
 La expropiación por causa de utilidad pública de bienes de incapacitados, no se sujetará a las reglas antes establecidas, sino a lo que dispongan las leyes de la materia.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 581.
 
-Cuando sea tutor el marido, continuará ejerciendo respecto de su mujer incapacitada, los derechos conyugales, con las siguientes modificaciones:
+Cuando el tutor de un incapaz sea el cónyuge, continuará ejerciendo los derechos conyugales con las siguientes modificaciones:
 
-I.- En los casos en que conforme a derecho fuera necesario el consentimiento de la mujer, se suplirá éste por el juez, con audiencia del curador;
+I.- En los casos en que conforme a derecho se requiere el consentimiento del cónyuge, se suplirá éste por el juez con audiencia del curador;
 
-II.- La mujer, en los casos en que puedan querellarse de su marido, o demandarlo para asegurar sus derechos violados o amenazados, será representado por un tutor interino que el juez le nombrará. Es obligación del curador promover este nombramiento, y si no la cumple, será responsable de los perjuicios que siga el incapacitado. También podrá promover ese nombramiento el Consejo Local de Tutelas.
+II.- En los casos en que el cónyuge incapaz pueda querellarse del otro, denunciarlo o demandarlo para asegurar sus derechos violados o amenazados, será representado por un tutor interino que el juez le nombrará. Es obligación del curador promover este nombramiento y si no lo cumple, será responsable de los perjuicios que se causen al incapacitado. También podrá promover este nombramiento del Consejo Local de Tutelas.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 582.
 
-Cuando la tutela del incapacitado recayere en su mujer, ejercerá éste la autoridad de aquél; pero no podrá gravar ni enajenar los bienes del marido que sean de la clase a que se refiere el artículo 568, sin previa audiencia del curador y autorización judicial, que se concederá de acuerdo con lo dispuesto en el artículo 561.
+Cuando la tutela del incapaz recaiga en el cónyuge, sólo podrá gravar o enajenar los bienes mencionados en el artículo 568, previa audiencia del curador y autorización judicial, que se concederá de acuerdo con lo dispuesto en el artículo 561.
 
 ###### ARTICULO 583.
 
@@ -5159,11 +5267,7 @@ Una Ley determinará la organización y funcionamiento de todas las Oficinas de 
 
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2009)</small>
 
-## TITULO X.
-
-De la Fiscalización Superior del Estado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2016)</small>
+## TITULO DECIMO. De la emancipación y de la mayor edad
 
 ### CAPITULO I. De la emancipación
 
@@ -5295,11 +5399,7 @@ En caso de ausencia absoluta del Auditor General del Estado, el Congreso realiza
 
 (REUBICADO [N. DE E. ANTES TÍTULO X], P.O. 1 DE ABRIL DE 2009)
 
-## TITULO XI.
-
-Prevenciones Generales.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+## TITULO UNDECIMO. De los ausentes e ignorados
 
 ### CAPITULO I. De las medidas provisionales en caso de ausencia
 
@@ -5701,11 +5801,7 @@ Si no pudieren cumplirse las prevenciones de los arts. 144 y 145, se estará a l
 
 (REUBICADO [N. DE E. ANTES TÍTULO XI], P.O. 1 DE ABRIL DE 2009)
 
-## TITULO XII.
-
-De las Reformas de la Constitución.
-
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2003)</small>
+## TITULO DUODECIMO. Del patrimonio de la familia
 
 ### CAPITULO UNICO
 
@@ -5745,11 +5841,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el luga
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
 
 ###### ARTICULO 730.
 
-El valor máximo de los bienes afectos al patrimonio de familia será de cincuenta mil pesos.
+El valor máximo de los bienes afectados al patrimonio de familia, conforme al artículo 723, será la cantidad que resulte de multiplicar por 3650 el importe del salario mínimo general diario vigente en el Distrito Federal, en la época en que se constituya el patrimonio.
 
 ###### ARTICULO 731.
 
@@ -5775,9 +5871,11 @@ Si se llenan las condiciones exigidas en el artículo anterior, el Juez, previos
 
 Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior al máximum fijado en el artículo 730, podrá ampliarse el patrimonio hasta llegar a ese valor. La ampliación se sujetará al mismo procedimiento que para la constitución fije el Código de la materia.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 734.
 
-Cuando haya peligro de que quien tiene obligación de dar alimentos pierde sus bienes por mala administración o porque los esté dilapidando, los acreedores alimentistas y si éstos son incapaces, sus tutores o el Ministerio Público, tienen derecho de exigir judicialmente que se constituya el patrimonio de la familia hasta por los valores fijados en el artículo 730. En la constitución de este patrimonio se observará, en lo conducente, lo dispuesto en los artículos 731 y 732.
+Las personas que tienen derecho a disfrutar el patrimonio de familia señaladas en el artículo 725, así como el tutor de acreedores alimentarios incapaces, familiares del deudor o el ministerio público, pueden exigir judicialmente que se constituya el patrimonio de familia hasta por los valores fijados en el artículo 730, sin necesidad de invocar causa alguna. En la constitución de este patrimonio se observará en lo conducente lo dispuesto en los artículos 731 y 732.
 
 ###### ARTICULO 735.
 
@@ -5899,11 +5997,7 @@ Las Leyes a que se refieren los Artículos 45, 63 Fracción XIII, 94, 95 y 118, 
 
 (REUBICADO [N. DE E. ANTES TÍTULO XII], P.O. 1 DE ABRIL DE 2009)
 
-## TITULO XIII.
-
-De la Supremacía e Inviolabilidad de la Constitución.
-
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+## TITULO PRIMERO. Disposiciones Preliminares
 
 ###### ARTICULO 747.
 
@@ -8049,15 +8143,23 @@ ARTICULO 1,367.- Si el legado consistiere en prestación periódica, el legatari
 
 ARTICULO 1,368.- El testador debe dejar alimentos a las personas que se mencionan en las fracciones siguientes:
 
-I.- A los descendientes varones menores de veintiún años;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-II.- A los descendientes varones que estén imposibilitados de trabajar y, a las hijas que no hayan contraído matrimonio y vivan honestamente, unos y otras aun cuando fueren mayores de veintiún años;
+I.- A los descendientes menores de 18 años respecto de los cuales tenga obligación legal de proporcionar alimentos al momento de la muerte;
 
-III.- Al cónyuge supérstite, siempre que siendo varón esté impedido de trabajar, o que siendo mujer, permanezca viuda y, viva honestamente;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+II.- A los descendientes que estén imposibilitados de trabajar, cualquiera que sea su edad; cuando exista la obligación a que se refiere la fracción anterior;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+III.- Al cónyuge supérstite cuando esté impedido de trabajar y no tenga bienes suficientes. Salvo otra disposición expresa del testador, este derecho subsistirá en tanto no contraiga matrimonio y viva honestamente;
 
 IV.- A los ascendientes;
 
-V.- A la mujer con quien el testador vivió como si fuera su marido, durante los cinco años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres del matrimonio durante el concubinato. La concubina sólo tendrá derecho a alimentos mientras que observe buena conducta y no se case. Si fueren varias las concubinas ninguna de ellas tendrá derecho a alimentos.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+V.- A la persona con quien el testador vivió como si fuera su cónyuge durante los 5 años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres del matrimonio durante el concubinato y que el superviviente esté impedido de trabajar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trate no contraiga nupcias y observe buena conducta. Si fueren varias las personas con quien el testador vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos;
 
 VI.- A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados o mientras que no cumplan dieciocho años, si no tienen bienes para subvenir a sus necesidades.
 
@@ -8521,11 +8623,11 @@ ARTICULO 1,549.- Toda persona que tuviere en su poder un testamento cerrado y no
 
 ### CAPITULO IV. Del testamento ológrafo
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ARTICULO 1,550.- Se llama testamento ológrafo al escrito de puño y letra del testador.
 
-Los testamentos ológrafos no producirán efecto si no están depositados en el Archivo General de Notarías.
+Los testamentos ológrafos no producirán efecto si no están depositados en el Archivo General de Notarías en la forma dispuesta por los artículos 1553 y 1554.
 
 ARTICULO 1,551.- Este testamento sólo podrá ser otorgado por las personas mayores de edad, y para que sea válido, deberá estar totalmente escrito por el testador y firmado por él, con expresión del día, mes y año en que se otorgue.
 
@@ -8535,35 +8637,35 @@ ARTICULO 1,552.- Si contuviere palabras tachadas, enmendadas o entre renglones, 
 
 La omisión de esta formalidad por el testador, sólo afecta a la validez de las palabras tachadas, enmendadas o entre renglones, pero no al testamento mismo.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 1,553.- El testador hará por duplicado su testamento ológrafo e imprimirá en cada ejemplar su huella digital. El original, dentro de un sobre cerrado y lacrado, será depositado en el Archivo General de Notarías, y el duplicado, también cerrado en un sobre lacrado y con la nota en la cubierta, de que hablará después, será devuelto al testador. Este podrá poner en los sobres que contengan los testamentos los sellos, señales o marcas que estime necesarios para evitar violaciones.
+ARTICULO 1,553.- El testador hará por duplicado su testamento ológrafo e imprimirá en cada ejemplar su huella digital. El original dentro de un sobre cerrado y lacrado, será depositado en el Archivo General de Notarías, y el duplicado también cerrado en un sobre lacrado y con la nota en la cubierta a que se refiere el artículo 1555, será devuelto al testador. Este podrá poner en los sobres que contengan los testamentos, los sellos, señales o marcas que estime necesarios para evitar violaciones.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 1,554.- El depósito en el Archivo General de Notarías se hará personalmente por el testador quien, si no es conocido del encargado de la oficina, debe presentar dos testigos que lo identifiquen. En el sobre que contenga el testamento original, el testador, de su puño y letra, pondrá la siguiente constancia: "Dentro de este sobre se contiene mi testamento". A continuación se expresará el lugar y la fecha en que se hace el depósito. La constancia será firmada por el testador y por el encargado de la oficina. En caso de que intervengan testigos de identificación, también firmarán.
+ARTICULO 1,554.- El depósito en el Archivo General de Notarías se hará personalmente por el testador quien, si no es conocido del encargado de la oficina, debe presentar dos testigos que lo identifiquen. En el sobre que contenga el testamento original, el testador de su puño y letra pondrá la siguiente nota: "dentro de este sobre se contiene mi testamento". A continuación se expresará el lugar y la fecha en que se hace el depósito. La nota será firmada por el testador y por el encargado de la oficina. En caso de que intervengan testigos de identificación, también firmarán.
 
 ARTICULO 1,555.- En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia extendida por el encargado de la oficina: "Recibí el pliego cerrado que el señor ................................. afirma contiene original (sic) su testamento ológrafo, del cual, según afirmación del mismo señor, existe dentro de este sobre un duplicado." Se pondrá luego el lugar y la fecha en que se extiende la constancia que será firmada por el encargado de la oficina, poniéndose también al calce la firma del testador y de los testigos de identificación, cuando intervengan.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 1,556.- Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en las oficinas del Archivo General de Notarías, el encargado de ellas deberá concurrir al lugar donde aquél se encontrare, para cumplir las formalidades del depósito.
+ARTICULO 1,556.- Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en la Oficina del Archivo General de Notarías, el encargado de ella deberá concurrir al lugar donde aquél se encontrare, para cumplir las formalidades del depósito.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ARTICULO 1,557.- Hecho el depósito, el encargado del Archivo General de Notarías tomará razón de él en el libro respectivo, a fin de que el testamento pueda ser identificado, y conservará el original bajo su directa responsabilidad hasta que proceda a hacer su entrega al mismo testador o al juez competente.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 1,558.- En cualquier tiempo el testador podrá retirar del archivo, personalmente o por medio de mandatario con poder especial otorgado en escritura pública, el testamento depositado, haciéndose constar la entrega en una acta que firmarán el interesado y el encargado de la oficina.
+ARTICULO 1,558.- En cualquier tiempo el testador tendrá derecho de retirar del Archivo General de Notarías, personalmente o por medio de mandatario con poder especial otorgado en escritura pública, el testamento depositado, en cuyo caso se hará constar el retiro en una acta que firmarán el interesado o su mandatario, y el encargado de la oficina.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 1,559.- El juez ante quien se promueva un juicio sucesorio pedirá informe al encargado del Archivo General de Notarías del lugar, acerca de si en su oficina se ha depositado algún testamento ológrafo de autos de la sucesión, para que en caso de que así sea, se le remita el testamento.
+ARTICULO 1,559.- El Juez ante quien se promueva un juicio sucesorio pedirá informes al encargado del Archivo General de Notarías, acerca de si en su oficina se ha depositado algún testamento ológrafo del autor de la sucesión, para que en caso de que así sea, se le remita el testamento.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 1,560.- El que guarde en su poder el duplicado de un testamento, o cualquiera que tenga noticia de que el autor de una sucesión ha depositado algún testamento ológrafo, le comunicará al juez competente, quien pedirá al encargado de la Oficina del Archivo General de Notarías, en que se encuentra el testamento, que se le remita.
+ARTICULO 1,560.- El que guarde en su poder el duplicado de un testamento, o cualquiera que tenga noticia de que el autor de una sucesión ha depositado algún testamento ológrafo, lo comunicará al Juez competente, quien pedirá al encargado del Archivo General de Notarías en que se encuentra el testamento, que se lo remita.
 
 ARTICULO 1,561.- Recibido el testamento, el juez examinará la cubierta que lo contiene para cerciorarse de que no ha sido violada, hará que los testigos de identificación que residieren en el lugar, reconozcan sus firmas y la del testador, y en presencia del Ministerio Público, de los que se hayan presentado como interesados y de los mencionados testigos, abrirá el sobre que contiene el testamento. Si éste llena los requisitos mencionados en el artículo 1,551 y queda comprobado que es el mismo que depositó el testador, se declarará formal testamento de éste.
 
@@ -8571,9 +8673,9 @@ ARTICULO 1,562.- Sólo cuando el original depositado haya sido destruído o roba
 
 ARTICULO 1,563.- El testamento ológrafo quedará sin efecto cuando el original o el duplicado, en su caso, estuvieren rotos, o el sobre que los cubre resultare abierto, o las firmas que los autoricen aparecieren borradas, raspadas o con enmendaduras, aun cuando el contenido del testamento no sea vicioso.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 1,564.- El encargado del Archivo General de Notarías no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador, a los jueces competentes que oficialmente se los pidan y a los notarios cuando ante ellos se tramite alguna sucesión.
+ARTICULO 1,564.- El encargado del Archivo General de Notarías no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador, a los jueces competentes que oficialmente se los pidan y a los Notarios cuando ante ellos se tramite la sucesión.
 
 ### CAPITULO V. Del testamento privado
 
@@ -8663,15 +8765,15 @@ ARTICULO 1,592.- Si el testador desembarca en un lugar donde no haya Agente Dipl
 
 ARTICULO 1,593.- Los testamentos hechos en país extranjero, producirán efecto en el Distrito Federal cuando hayan sido formulados de acuerdo con las leyes del país en que se otorgaron.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 1,594.- Los secretarios de legación, los cónsules y los vicecónsules mexicanos podrán hacer las veces de notarios o de encargados del Registro en el otorgamiento de los testamentos de los nacionales en el extranjero en los casos en que las disposiciones testamentarias deban tener su ejecución en el Distrito Federal.
+ARTICULO 1,594.- Los Secretarios de legación, los Cónsules y los Vicecónsules mexicanos podrán hacer las veces de Notarios o de Receptores de los testamentos de los nacionales en el extranjero en los casos en que las disposiciones testamentarias deban tener su ejecución en el Distrito Federal.
 
 ARTICULO 1,595.- Los funcionarios mencionados remitirán copia autorizada de los testamentos que ante ellos se hubieren otorgado, al Ministerio de Relaciones Exteriores para los efectos prevenidos en el artículo 1,590.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 1,596.- Si el testamento fuere ológrafo, el funcionario que intervenga en su depósito lo remitirá por conducto de la Secretaría de Relaciones Exteriores, en el término de diez días, al encargado del Registro Público del domicilio que señale el testador.
+ARTICULO 1,596.- Si el testamento fuere ológrafo, el funcionario que intervenga en su depósito lo remitirá por conducto de la Secretaría de Relaciones Exteriores, en el término de diez días, al encargado del Archivo General de Notarías.
 
 ARTICULO 1,597.- Si el testamento fuere confiado a la guarda del Secretario de Legación, Cónsul o Vicecónsul, hará mención de esa circunstancia y dará recibo de la entrega.
 
@@ -8695,11 +8797,13 @@ ARTICULO 1,600.- Cuando siendo válido el testamento no deba subsistir la instit
 
 ARTICULO 1,601.- Si el testador dispone legalmente sólo de una parte de sus bienes el resto de ellos forma la sucesión legítima.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ARTICULO 1,602.- Tienen derecho a heredar por sucesión legítima:
 
-I.- Los descendientes, cónyuge, ascendientes, parientes colaterales dentro del cuarto grado, y en ciertos casos la concubina;
+I.- Los descendientes, cónyuges, ascendientes, parientes colaterales dentro del cuarto grado y la concubina o el concubinario, si se satisfacen en este caso los requisitos señalados por el artículo 1635.
 
-II.- A falta de los anteriores, la Beneficencia Pública.
+II.- A falta de los anteriores, la beneficencia pública.
 
 ARTICULO 1,603.- El parentesco de afinidad no da derecho de heredar.
 
@@ -8777,25 +8881,15 @@ ARTICULO 1,634.- A falta de los llamados en los artículos anteriores, sucederá
 
 Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Capítulo siguiente.
 
-### CAPITULO VI. De la sucesión de la concubina
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
-ARTICULO 1,635.- La mujer con quien el autor de la herencia vivió como si fuera su marido durante los cinco años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas siguientes:
+### CAPITULO VI. De la Sucesión de los Concubinos
 
-I.- Si la concubina concurre con sus hijos que lo sean también del autor de la herencia, se observará lo dispuesto en los artículos 1,624 y 1,625;
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
-II.- Si la concubina concurre con descendientes del autor de la herencia, que no sean también descendientes de ella, tendrá derecho a la mitad de la porción que le corresponda a un hijo;
+ARTICULO 1,635.- La concubina y el concubinario tienen derecho a heredarse recíprocamente, aplicándose las disposiciones relativas a la sucesión del cónyuge, siempre que hayan vivido juntos como si fueran cónyuges durante los cinco años que precedieron inmediatamente a su muerte o cuando hayan tenido hijos en común, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato.
 
-III.- Si concurre con hijos que sean suyos y con hijos que el autor de la herencia hubo con otra mujer, tendrá derecho a las dos terceras partes de la porción de un hijo;
-
-IV.- Si concurre con ascendientes del autor de la herencia, tendrá derecho a la cuarta parte de los bienes que forman la sucesión;
-
-V.- Si concurre con parientes colaterales dentro del cuarto grado del autor de la sucesión, tendrá derecho a una tercera parte de ésta;
-
-VI.- Si el autor de la herencia no deja descendientes, ascendientes, cónyuge, o parientes colaterales dentro del cuarto grado, la mitad de los bienes de la sucesión pertenecen a la concubina y la otra mitad a la Beneficencia Pública.
-
-En los casos a que se refieren las fracciones II, III y IV, debe observarse lo dispuesto en los artículos 1,624 y 1,625, si la concubina tiene bienes.
-
-Si al morir el autor de la herencia tenía varias concubinas en las condiciones mencionadas al principio de este artículo, ninguna de ellas heredará.
+Si al morir el autor de la herencia le sobrevivien (sic) varias concubinas o concubinarios en las condiciones mencionadas al principio de este artículo, ninguno de ellos heredará.
 
 ### CAPITULO VII. De la sucesión de la Beneficencia Pública
 
@@ -9561,21 +9655,33 @@ ARTICULO 1,913.- Cuando una persona hace uso de mecanismos, instrumentos, aparat
 
 ARTICULO 1,914.- Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el artículo anterior y sin culpa o negligencia de ninguna de las partes se producen daños, cada una de ellas los soportará sin derecho a indemnización.
 
-(REFORMADO, D.O.F. 20 DE ENERO DE 1940)(F. DE E., D.O.F. 30 DE ABRIL DE 1940)
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
 
-ARTICULO 1,915.- La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de daños y perjuicios:
+ARTICULO 1,915.- La reparación del daño debe consistir a elección del ofendido, en el restablecimiento de la situación anterior, cuando ello sea posible, o en el pago de daños y perjuicios.
 
-I.- Cuando el daño se cause a las personas y produzca la muerte o incapacidad total, parcial o temporal, el monto de la indemnización se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima, y tomando por base la utilidad o salario que perciba.
+Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base el cuádruplo del salario mínimo diario más alto que esté en vigor en la región y se extenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
 
-II.- Cuando la utilidad o salario exceda de veinticinco pesos diarios, no se tomará en cuenta sino esa suma para fijar la indemnización.
+Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles y se cubrirán preferentemente en una sola exhibición, salvo convenio entre las partes.
 
-III.- Si la víctima no percibe utilidad o salario, o no pudiere determinarse éste, el pago se acordará tomando como base el salario mínimo.
+Las anteriores disposiciones se observarán en el caso del artículo 2647 de este Código.
 
-IV.- Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles, y se cubrirán preferentemente en forma de pensión o pagos sucesivos.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-V.- Las anteriores disposiciones se observarán en el caso del artículo 2647 de este Código.
+ARTICULO 1,916.- Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspecto físicos (sic), o bien en la consideración que de sí misma tienen los demás.
 
-ARTICULO 1,916.- Independientemente de los daños y perjuicios, el juez puede acordar en favor de la víctima de un hecho ilícito, o de su familia, si aquélla muere, una indemnización equitativa, a título de reparación moral, que pagará al responsable del hecho. Esa indemnización no podrá exceder de la tercera parte de lo que importe la responsabilidad civil. Lo dispuesto en este artículo no se aplicará al Estado en el caso previsto en el artículo 1928.
+Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño material, tanto en responsabilidad contractual, como extracontractual. Igual obligación de reparar el daño moral tendrá quien incurra en responsabilidad objetiva conforme al artículo 1913, así como el Estado y sus funcionarios conforme al artículo 1928, ambas disposiciones del presente Código.
+
+La acción de reparación no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando ésta haya intentado la acción en vida.
+
+El monto de la indemnización lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso.
+
+Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+ARTICULO 1,916 Bis.- No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6o. y 7o. de la Constitución General de la República.
+
+En todo caso, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
 
 ARTICULO 1,917.- Las personas que han causado en común un daño, son responsables solidariamente hacia la víctima por la reparación a que están obligadas de acuerdo con las disposiciones de este Capítulo.
 
@@ -10163,7 +10269,9 @@ ARTICULO 2,114.- El precio de la cosa será el que tendría al tiempo de ser dev
 
 ARTICULO 2,115.- Al estimar el deterioro de una cosa se atenderá no solamente a la disminución que él causó en el precio de ella, sino a los gastos que necesariamente exija la reparación.
 
-ARTICULO 2,116.- Al fijar el valor y deterioro de una cosa, no se atenderá al precio estimativo o de afección, a no ser que se pruebe que el responsable destruyó o deterioró la cosa con objeto de lastimar la afección del dueño; el aumento que por estas causas se haga no podrá exceder de una tercera parte del valor común de la cosa.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+ARTICULO 2,116.- Al fijar el valor y deterioro de una cosa, no se atenderá al precio estimativo o de afecto, a no ser que se pruebe que el responsable destruyó o deterioró la cosa con objeto de lastimar los sentimientos o afectos del dueño; el aumento que por estas causas se haga, se determinará conforme a lo dispuesto por el artículo 1916.
 
 ARTICULO 2,117.- La responsabilidad civil puede ser regulada por convenio de las partes, salvo aquellos casos en que la ley disponga expresamente otra cosa.
 
@@ -10571,7 +10679,7 @@ ARTICULO 2,273.- Tratándose de la venta de determinados bienes, como los perten
 
 ARTICULO 2,274.- Los extranjeros y las personas morales no pueden comprar bienes raíces, sino sujetándose a lo dispuesto en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y en sus leyes reglamentarias.
 
-ARTICULO 2,275.- Los consortes no pueden celebrar entre sí el contrato de compra-venta, sino de acuerdo con lo dispuesto en los artículos 174 y 175.
+ARTICULO 2,275.- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1974)
 
 ARTICULO 2,276.- Los magistrados, los jueces, el ministerio público, los defensores oficiales, los abogados, los procuradores y los peritos no pueden comprar los bienes que son objeto de los juicios en que intervengan. Tampoco podrán ser cesionarios de los derechos que se tengan sobre los citados bienes.
 
@@ -10679,15 +10787,15 @@ ARTICULO 2,308.- El derecho adquirido por el pacto de preferencia no puede ceder
 
 ARTICULO 2,309.- Si se venden cosas futuras, tomando el comprador el riesgo de que no llegasen a existir, el contrato es aleatorio y se rige por lo dispuesto en el capítulo relativo a la compra de esperanza.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ARTICULO 2,310.- La venta que se haga facultando al comprador para que pague el precio en abonos, se sujetará a las reglas siguientes:
 
 I.- Si la venta es de bienes inmuebles, puede pactarse que la falta de pago de uno o varios abonos ocasionará la rescisión del contrato. La rescisión producirá efectos contra tercero que hubiere adquirido los bienes de que se trata, siempre que la cláusula rescisoria se haya inscrito en el Registro Público.
 
-II.- Si se trata de bienes muebles que sean susceptibles de identificarse de manera indubitable, podrá también pactarse la cláusula resolutoria de que habla la fracción anterior y esa cláusula producirá efectos contra tercero si se inscribió en el Registro Público. El Reglamento determinará cuáles muebles pueden ser materia de registro.
+II.- Si se trata de bienes muebles que sean susceptibles de identificarse de manera indubitable, podrá también pactarse la cláusula rescisoria, de que habla contra terceros si se inscribió en el Registro Público.
 
-III.- Si se trata de bienes que no sean susceptibles de identificarse indubitablemente o que conforme al reglamento no puedan ser materia de registro, los contratantes podrán pactar la rescisión de la venta por falta de pago del precio, pero esa cláusula no producirá efectos contra tercero de buena fe que hubiere adquirido los bienes a que esta fracción se refiere.
+III.- Si se trata de bienes muebles que no sean susceptibles de identificarse, los contratantes podrán pactar la rescisión de la venta por falta de pago del precio, pero esa cláusula no producirá efectos contra tercero de buena fe que hubiere adquirido los bienes a que esta fracción se refiere.
 
 ARTICULO 2,311.- Si se rescinde la venta, el vendedor y el comprador deben restituirse las prestaciones que se hubieren hecho; pero el vendedor que hubiere entregado la cosa vendida, puede exigir del comprador, por el uso de ella, el pago de un alquiler o renta que fijarán peritos, y una indemnización, también fijada por peritos, por el deterioro que haya sufrido la cosa.
 
@@ -10699,9 +10807,9 @@ ARTICULO 2,312.- Puede pactarse válidamente que el vendedor se reserve la propi
 
 Cuando los bienes vendidos son de los mencionados en las fracciones I y II del artículo 2,310, el pacto de que se trata produce efectos contra tercero, si se inscribe en el Registro Público; cuando los bienes son de la clase a que se refiere la fracción III del artículo que se acaba de citar, se aplicará lo dispuesto en esa fracción.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 2,313.- El vendedor a que se refiere el artículo anterior, mientras no se venza el plazo para pagar el precio, no podrá enajenar la cosa vendida con reserva de propiedad. Esta limitación de dominio se anotará al margen de la inscripción de propiedad del vendedor cuando se trate de inmuebles.
+ARTICULO 2,313.- El vendedor a que se refiere el artículo anterior, mientras no se venza el plazo para pagar el precio, no podrá enajenar la cosa vendida con reserva de propiedad. Esta limitación de dominio se anotará en la parte correspondiente.
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
@@ -10721,7 +10829,9 @@ ARTICULO 2,316.- El contrato de compra-venta no requiere para su validez formali
 
 ARTICULO 2,317.- Las enajenaciones de bienes inmuebles cuyo valor convencional no sea mayor de quinientos pesos y la constitución o transmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, juez de paz o Registro Público de la Propiedad.
 
-Los contratos por los que el Departamento del Distrito Federal enajene terrenos o casas para la constitución del patrimonio familiar o para personas de escasos recursos económicos hasta por un valor de ochenta mil pesos, podrán otorgarse en documento privado sin los requisitos de testigos y de ratificación de firmas.
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
+
+Los contratos por los que el Departamento del Distrito Federal enajene terrenos o casas para la constitución del patrimonio familiar o para personas de escasos recursos económicos, hasta por el valor máximo a que se refiere el artículo 730, podrán otorgarse en documento privado, sin los requisitos de testigos o de ratificación de firmas.
 
 ARTICULO 2,318.- Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el párrafo segundo del art. 1,834.
 
@@ -11069,17 +11179,125 @@ Si el arrendamiento debe ser inscrito en el Registro, sólo vale el inscrito.
 
 ARTICULO 2,447.- En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho si está al corriente en el pago de la renta, a que, en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento de la finca. También gozará del derecho del tanto si el propietario quiere vender la finca arrendada, aplicándose en lo conducente lo dispuesto en los artículos 2,304 y 2,305.
 
-### CAPITULO IV. Del arrendamiento de fincas urbanas
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
-ARTICULO 2,448.- No podrá darse en arrendamiento una localidad que no reúna las condiciones de higiene y salubridad exigidas en el Código Sanitario.
+### CAPITULO IV. Del arrendamiento de fincas urbanas destinadas a la Habitación
+
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448.- Las disposiciones de este Capítulo son de orden público e interés social. Por tanto son irrenunciables y en consecuencia, cualquier estipulación en contrario se tendrá por no puesta.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 A.- No deberá darse en arrendamiento una localidad que no reúna las condiciones de higiene y salubridad exigidas por la Ley de la materia.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 B.- El arrendador que no haga las obras que ordene la autoridad sanitaria correspondiente como necesarias para que una localidad sea habitable e higiénica, es responsable de los daños y perjuicios que los inquilinos sufren por esa causa.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 C.- La duración mínima de todo contrato de arrendamiento de fincas urbanas destinadas a la habitación será de un año forzoso para arrendador y arrendatario, que será prorrogable, a voluntad del arrendatario, hasta por dos años más siempre y cuando se encuentre al corriente en el pago de las rentas.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 D.- Para los efectos de este Capítulo la renta deberá estipularse en moneda nacional.
+
+> <small>(F. DE E., D.O.F. 29 DE MARZO DE 1985)</small>
+
+La renta sólo podrá ser incrementada anualmente; en su caso, el aumento no podrá exceder del 85 por ciento del incremento porcentual, fijado al salario mínimo general del Distrito Federal, en el año en el que el contrato se renueve o se prorrogue.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 E.- La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos.
+
+El arrendatario no está obligado a pagar la renta sino desde el día en que reciba el inmueble objeto del contrato.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 F.- Para los efectos de este Capítulo el contrato de arrendamiento debe otorgarse por escrito, la falta de esta formalidad se imputará al arrendador.
+
+El contrato deberá contener, cuando menos las siguientes estipulaciones:
+
+I.- Nombres del arrendador y arrendatario.
+
+II.- La ubicación del inmueble.
+
+III.- Descripción detallada del inmueble objeto del contrato y de las instalaciones y accesorios con que cuenta para el uso y goce del mismo, así como el estado que guardan.
+
+IV.- El monto de la renta.
+
+V.- La garantía, en su caso.
+
+VI.- La mención expresa del destino habitacional del inmueble arrendado.
+
+VII.- El término del contrato.
+
+VIII.- Las obligaciones que arrendador y arrendatario contraigan adicionalmente a las establecidas en la Ley.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 G.- El arrendador deberá registrar el contrato de arrendamiento ante la autoridad competente del Departamento del Distrito Federal. Una vez cumplido este requisito, entregará al arrendatario una copia registrada del contrato.
+
+El arrendatario tendrá acción para demandar el registro mencionado y la entrega de la copia del contrato.
+
+Igualmente el arrendatario tendrá derecho para registrar su copia del contrato de arrendamiento ante la autoridad competente del Departamento del Distrito Federal.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 H.- El arrendamiento de fincas urbanas destinadas a la habitación no termina por la muerte del arrendador ni por la del arrendatario, sino sólo por los motivos establecidos en las leyes.
+
+Con exclusión de cualquier otra persona, el cónyuge, el o la concubina, los hijos, los ascendientes en línea consanguínea o por afinidad del arrendatario fallecido se subrogarán en los derechos y obligaciones de éste, en los mismos términos del contrato, siempre y cuando hubieran habitado real y permanentemente el inmueble en vida del arrendatario.
+
+No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarias, cesionarias o por otro título semejante que no sea la situación prevista en este artículo.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 I.- Para los efectos de este capítulo, el arrendatario, si está al corriente en el pago de la renta tendrá derecho a que, en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento del inmueble. Asimismo, tendrá el derecho del tanto en caso de que el propietario quiera vender la finca arrendada.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 J.- El ejercicio del derecho del tanto se sujetará a las siguientes reglas:
+
+I.- En todos los casos el propietario deberá dar aviso en forma indubitable al arrendatario de su deseo de vender el inmueble, precisando el precio, términos, condiciones y modalidades de la compra-venta.
+
+II.- El o los arrendatarios dispondrán de 15 días para notificar en forma indubitable al arrendador su voluntad de ejercitar el derecho del tanto en los términos y condiciones de la oferta.
+
+III.- En caso de que el arrendador cambie cualquiera de los términos de la oferta inicial estará obligado a dar un nuevo aviso en forma indubitable al arrendatario, quien a partir de ese momento dispondrá de un nuevo plazo de 15 días para los efectos del párrafo anterior. Si el cambio se refiere al precio, el arrendador sólo está obligado a dar este nuevo aviso cuando el incremento o decremento del mismo sea de más de un diez por ciento.
+
+IV.- Tratándose de bienes sujetos al régimen de propiedad en condominio, se aplicarán las disposiciones de la Ley de la materia.
+
+V.- Los notarios deberán cerciorarse del cumplimiento de este artículo previamente a la autorización de la escritura de compra-venta.
+
+VI.- La compra-venta y su escrituración realizadas en contravención de lo dispuesto en este artículo serán nulas de pleno derecho y los Notarios incurrirán en responsabilidad en los términos de la Ley de la materia. La acción de nulidad a que se refiere esta fracción prescribe a los seis meses contados a partir de que el arrendatario tuvo conocimiento de la realización del contrato.
+
+En caso de que el arrendatario no dé el aviso a que se refieren las fracciones II y III de este artículo precluirá su derecho.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 K.- El propietario no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la Ley para que sea fiador.
+
+Tratándose del arrendamiento de viviendas de interés social es potestativo para el arrendatario dar fianza o sustituir esa garantía con el depósito de un mes de renta.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 L.- En todo contrato de arrendamiento para habitación deberán transcribirse íntegras las disposiciones de este capítulo.
+
+> <small>N. DE E. POR DECRETO DE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES RELACIONADAS CON INMUEBLES DE ARRENDAMIENTO PUBLICADO EN EL D.O.F. DE 7 DE FEBRERO DE 1985, EL LEGISLADOR REFORMO EL CAPITULO IV DEL TITULO SEXTO DE LA SEGUNDA PARTE DEL LIBRO CUARTO DEL PRESENTE CODIGO, SIN MODIFICAR EL PRESENTE ARTICULO, POR LO QUE SE ENCUENTRA EN VIGOR AUN CUANDO EXISTE CONTRADICCION DE SU CONTENIDO CON LOS ARTICULOS ADICIONADOS AL CITADO CAPITULO.</small>
 
 ARTICULO 2,449.- El arrendador que no haga las obras que ordene el Departamento de Salubridad Pública como necesarias para que una localidad sea habitable e higiénica, es responsable de los daños y perjuicios que los inquilinos sufran por esa causa.
+
+> <small>N. DE E. POR DECRETO DE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES RELACIONADAS CON INMUEBLES DE ARRENDAMIENTO PUBLICADO EN EL D.O.F. DE 7 DE FEBRERO DE 1985, EL LEGISLADOR REFORMO EL CAPITULO IV DEL TITULO SEXTO DE LA SEGUNDA PARTE DEL LIBRO CUARTO DEL PRESENTE CODIGO, SIN MODIFICAR EL PRESENTE ARTICULO, POR LO QUE SE ENCUENTRA EN VIGOR AUN CUANDO EXISTE CONTRADICCION DE SU CONTENIDO CON LOS ARTICULOS ADICIONADOS AL CITADO CAPITULO.</small>
 
 ARTICULO 2,450.- El propietario no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la ley para que sea fiador.
 
 Si la renta no excede de veinticinco pesos mensuales, es potestativo para el arrendatario dar fianza o substituir esa garantía con el depósito de un mes de renta.
 
+> <small>N. DE E. POR DECRETO DE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES RELACIONADAS CON INMUEBLES DE ARRENDAMIENTO PUBLICADO EN EL D.O.F. DE 7 DE FEBRERO DE 1985, EL LEGISLADOR REFORMO EL CAPITULO IV DEL TITULO SEXTO DE LA SEGUNDA PARTE DEL LIBRO CUARTO DEL PRESENTE CODIGO, SIN MODIFICAR EL PRESENTE ARTICULO, POR LO QUE SE ENCUENTRA EN VIGOR AUN CUANDO EXISTE CONTRADICCION DE SU CONTENIDO CON LOS ARTICULOS ADICIONADOS AL CITADO CAPITULO.</small>
+
 ARTICULO 2,451.- No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 2,449.
+
+> <small>N. DE E. POR DECRETO DE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES RELACIONADAS CON INMUEBLES DE ARRENDAMIENTO PUBLICADO EN EL D.O.F. DE 7 DE FEBRERO DE 1985, EL LEGISLADOR REFORMO EL CAPITULO IV DEL TITULO SEXTO DE LA SEGUNDA PARTE DEL LIBRO CUARTO DEL PRESENTE CODIGO, SIN MODIFICAR EL PRESENTE ARTICULO, POR LO QUE SE ENCUENTRA EN VIGOR AUN CUANDO EXISTE CONTRADICCION DE SU CONTENIDO CON LOS ARTICULOS ADICIONADOS AL CITADO CAPITULO.</small>
 
 ARTICULO 2,452.- La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos si la renta excede de cien pesos; por quincenas vencidas, si la renta es de sesenta a cien pesos, y por semanas, también vencidas, cuando la renta no llegue a sesenta pesos.
 
@@ -12291,13 +12509,13 @@ La fianza puede substituirse con prenda o hipoteca.
 
 ARTICULO 2,851.- Para otorgar una fianza legal o judicial por más de mil pesos se presentará un certificado expedido por el Encargado del Registro Público, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 2,852.- La persona ante quien se otorgue la fianza, dentro del término de tres días dará aviso del otorgamiento al Registro Público, para que en el registro correspondiente al bien raíz que se designó para comprobar la solvencia del fiador, se haga una anotación preventiva relativa al otorgamiento de la fianza. Extinguida ésta, dentro del mismo término de tres días se dará aviso al Registro Público, para que haga la cancelación de la anotación preventiva.
+ARTICULO 2,852.- La persona ante quien se otorgue la fianza, dentro del término de tres días, dará aviso del otorgamiento al Registro Público, para que en el folio correspondiente al bien raíz que se designó para comprobar la solvencia del fiador, se haga una anotación preventiva relativa al otorgamiento de la fianza. Extinguida ésta, dentro del mismo término de tres días se dará aviso al Registro Público, para que haga la cancelación de la anotación preventiva.
 
 La falta de avisos hace responsable al que deba darlos, de los daños y perjuicios que su omisión origine.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ARTICULO 2,853.- En los certificados de gravamen que expida el Registro Público se harán figurar las anotaciones preventivas de que habla el artículo anterior.
 
@@ -12495,7 +12713,9 @@ Puede también convenir con el deudor en que se le adjudique en el precio que se
 
 ARTICULO 2,917.- Para la constitución de créditos con garantía hipotecaria se observarán las formalidades establecidas en los artículos 2317 y 2320.
 
-Los contratos en los que se consigne garantía hipotecaria otorgada con motivo de la enajenación de terrenos o casas por el Departamento del Distrito Federal para la constitución del patrimonio familiar o para personas de escasos recursos, cuando el valor del inmueble hipotecado no exceda de ochenta mil pesos, se observarán las formalidades establecidas por el párrafo segundo del artículo 2317.
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
+
+Los contratos en los que se consigne garantía hipotecaria otorgada con motivo de la enajenación de terrenos o casas por el Departamento del Distrito Federal para la constitución del patrimonio familiar o para personas de escasos recursos, cuando el valor del inmueble hipotecado no exceda del valor máximo establecido en el artículo 730, se observarán las formalidades establecidas en el párrafo segundo del artículo 2317.
 
 ARTICULO 2,918.- La acción hipotecaria prescribirá a los diez años, contados desde que pueda ejercitarse con arreglo al título inscrito.
 
@@ -12809,599 +13029,617 @@ ARTICULO 2,997.- Pagados los créditos enumerados en los capítulos que preceden
 
 ARTICULO 2,998.- Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas, ni al origen de los créditos.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ## TITULO SEGUNDO. Del registro público
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
 
-### CAPITULO I. De la Organización de la Oficina
+### CAPITULO I. De su organización
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 2,999.- El Ejecutivo Federal designará las poblaciones donde deba establecerse la oficina denominada "Registro Público".
+ARTICULO 2,999.- Las oficinas del Registro Público se establecerán en el Distrito Federal y estarán ubicadas en el lugar que determine el Jefe del Departamento del Distrito Federal.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,000.- El reglamento fijará el número de secciones de que se componga el Registro y la Sección en que deban inscribirse los títulos que se registren.
+ARTICULO 3,000.- El Registro Público funcionará conforme al sistema y métodos que determine el Reglamento.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,001.- El Registro será Público. Los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, que se enteren, en presencia de un empleado de la oficina, de los asientos que obren en los libros del Registro y de los documentos relacionados con las inscripciones que estén archivados. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro, así como certificaciones de no existir asientos de ninguna especie o de especie determinada sobre bienes señalados o a nombre de ciertas personas.
+ARTICULO 3,001.- El Registro será Público. Los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren en los folios del Registro Público y de los documentos relacionados con las inscripciones que estén archivados. También tienen la obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los folios del Registro Público, así como certificaciones de existir o no asientos relativos a los bienes que se señalen.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,002.- El reglamento establecerá los requisitos necesarios para ser Director y registrador, así como sus derechos y obligaciones.
+ARTICULO 3,002.- El reglamento establecerá los requisitos necesarios para desempeñar los cargos que requiera el funcionamiento del Registro Público.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,003.- El Director, los registradores y los empleados del Registro, además de las penas en que pueden incurrir, responderán civilmente de los daños y perjuicios a que dieren lugar:
+ARTICULO 3,003.- Los encargados y los empleados del Registro Público, además de las penas que les sean aplicables por los delitos en que puedan incurrir, responderán civilmente de los daños y perjuicios a que dieren lugar, cuando:
 
-I.- Si rehusan admitir el título o si no practican el asiento de presentación por el orden de entrada del documento o del aviso a que se refiere el artículo 3016.
+I.- Rehusen admitir el título, o si no practican el asiento de presentación por el orden de entrada del documento o del aviso a que se refiere el artículo 3016;
 
-II.- Si practican algún asiento indebidamente o rehusan practicarlo sin motivo fundado.
+II.- Practiquen algún asiento indebidamente o rehusen practicarlo sin motivo fundado;
 
-III.- Si retardan sin causa justificada la extensión del asiento a que dé lugar el documento inscribible.
+III.- Retarden, sin causa justificada, la práctica del asiento a que dé lugar el documento inscribible;
 
-IV.- Si cometen errores, inexactitudes u omisiones en los asientos.
+IV.- Cometan errores, inexactitudes u omisiones en los asientos que practiquen o en los certificados que expidan; y
 
-V.- Si cometen errores, inexactitudes u omisiones en los certificados que expidan o no los expiden en el término reglamentario.
+V.- No expidan los certificados en el término reglamentario.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,004.- El registrador que fuere condenado por sentencia firme a la indemnización de daños y perjuicio, quedará suspenso del cargo hasta que asegure a los reclamantes las resultas del juicio.
+ARTICULO 3,004.- Las sentencias firmes que resulten en aplicación del artículo anterior, incluirán la inhabilitación para el desempeño del cargo o empleo hasta que sea pagada la indemnización de daños y perjuicios que en su caso corresponda.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
 
-### CAPITULO II. DISPOSICIONES COMUNES
+### CAPITULO II. Disposiciones comunes de los documentos registrables
 
-De los documentos registrables
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+ARTICULO 3,005.- Sólo se registrarán:
 
-ARTICULO 3,005.- Solo se registrarán:
+I.- Los testimonios de escrituras o actas notariales u otros documentos auténticos;
 
-> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+II.- Las resoluciones y providencias judiciales que consten de manera auténtica;
 
-I.- Que si los actos o contratos hubiesen sido celebrados o las sentencias pronunciadas en el Distrito Federal, habría sido necesaria su inscripción en el Registro.
+III.- Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el Notario, el Registrador, el Corredor Público o el Juez de Paz, se cercioraron de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por los mencionados funcionarios y llevar impreso el sello respectivo.
 
-II.- Las resoluciones y providencias judiciales que consten de manera auténtica.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-III.- Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el notario, el registrador, la autoridad municipal o el juez de paz se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por los mencionados funcionarios y llevar el sello de la oficina respectiva.
+ARTICULO 3,006.- Los actos ejecutados o los contratos otorgados en otra entidad federativa o en el extranjero, sólo se inscribirán si dichos actos o contratos tienen el carácter de inscribibles conforme a las disposiciones de este Código y del Reglamento del Registro Público.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+Si los documentos respectivos apareciesen redactados en idioma extranjero y se encuentran debidamente legalizados, deberán ser previamente traducidos por perito oficial y protocolizados ante Notario.
 
-ARTICULO 3,006.- Los actos ejecutados, los contratos otorgados y las resoluciones judiciales pronunciadas en país extranjero, sólo se inscribirán concurriendo las circunstancias siguientes:
+Las sentencias dictadas en el extranjero sólo se registrarán si no están en desacuerdo con leyes mexicanas y si ordena su ejecución la autoridad judicial competente.
 
-I.- Que si los actos o contratos hubiesen sido celebrados o las resoluciones pronunciadas en el Distrito o en los Territorios Federales, habrían sido inscribibles.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-II.- Que los actos o contratos cuya inscripción se pretenda, no estén en desacuerdo con las leyes mexicanas prohibitivas o de interés público.
+ARTICULO 3,007.- Los documentos que conforme a este Código sean registrables y no se registren, no producirán efectos en perjuicio de tercero.
 
-III.- Que estén debidamente legalizados y que hayan sido protocolizados ante notario mediante orden judicial. Para que se ordene la protocolización de los documentos redactados en idioma extranjero, deberán ser previamente traducidos por el perito que el juez designe.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-IV.- Que si fueren resoluciones judiciales, se ordene su ejecución por la autoridad judicial nacional que corresponda.
+ARTICULO 3,008.- La inscripción de los actos o contratos en el Registro Público tiene efectos declarativos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-De los efectos del Registro
+ARTICULO 3,009.- El Registro protege los derechos adquiridos por tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante, excepto cuando la causa de la nulidad resulta claramente del mismo registro. Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando la Ley.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,007.- Los documentos que conforme a este Código sean registrables y no se registren, sólo producirán efectos entre quienes los otorguen; pero no podrá producir perjuicios a tercero, el cual sí podrá aprovecharlos en cuanto le sean favorables.
+ARTICULO 3,010.- El derecho registrado se presume que existe y que pertenece a su titular en la forma expresada por el asiento respectivo. Se presume también que el titular de una inscripción de dominio o de posesión, tiene la posesión del inmueble inscrito.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+No podrá ejercitarse acción contradictoria del dominio del inmueble o derechos reales sobre los mismos o de otros derechos inscritos o anotados a favor de persona o entidad determinada, sin que, previamente a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
 
-ARTICULO 3,008.- La inscripción no convalida los actos o contratos que sean nulos con arreglo a las leyes.
+En caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio contra bienes o derechos reales, se sobreseerá el procedimiento respectivo de los mismos o de sus frutos, inmediatamente que conste en los autos, por manifestación auténtica del Registro Público, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción, como causahabiente del que aparece dueño en el Registro Público.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,009.- No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en el Registro aparezcan con derecho a ello, no se invalidarán, en cuanto a tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante en virtud de título anterior no inscrito o de causas que no resulten claramente del mismo registro.
+ARTICULO 3,011.- Los derechos reales y en general cualquier gravamen o limitación de los mismos o del dominio, para que surtan efectos contra tercero, deberán constar en el folio de la finca sobre que recaigan, en la forma que determine el Reglamento. Lo dispuesto en este artículo se aplicará a los inmuebles que, en su caso, comprendan: La hipoteca industrial prevista por la Ley General de Instituciones de Crédito y Organizaciones Auxiliares; la hipoteca sobre los sistemas de las empresas, a que se refiere la Ley de Vías Generales de Comunicación; y los casos similares previstos en otras leyes.
 
-El tercero tendrá a su favor la presunción de buena fe. Lo dispuesto en este artículo no se aplicará a los contratos gratuitos.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+ARTICULO 3,012.- Tratándose de inmuebles, derechos reales sobre los mismos u otros derechos inscribibles o anotables, la sociedad conyugal no surtirá efectos contra tercero si no consta (sic) inscrita en el Registro Público.
 
-ARTICULO 3,010.- El derecho registrado se presume que existe y que pertenece a su titular en la forma expresada por el asiento respectivo. Se presume también que el titular de una inscripción de dominio o de posesión tiene la posesión del inmueble inscrito.
+Cualquiera de los cónyuges u otro interesado tienen derecho a pedir la rectificación del asiento respectivo, cuando alguno de esos bienes pertenezcan a la sociedad conyugal y estén inscritos a nombre de uno solo de aquellos.
 
-No podrá ejercitarse acción contradictoria del dominio de inmuebles, de derechos reales sobre los mismos o de otros derechos inscritos o anotados a favor de persona o entidad determinada, sin que, previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derechos.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-En el caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio contra bienes o derechos reales determinados, se sobreseerá todo procedimiento de apremio respecto de los mismos o de sus frutos, inmediatamente que conste en los autos, por manifestación auténtica del Registro de la Propiedad, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción, como causahabiente del que aparece dueño en el Registro.
+De la prelación
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,011.- Los derechos reales y en general cualquier gravamen o limitación de los mismos o del dominio, para que surtan efectos contra tercero, deberán constar en el registro de la finca sobre que recaigan, separada y especialmente, en la forma que determine el reglamento. Lo dispuesto en este artículo se aplicará a los inmuebles que en su caso comprenda la hipoteca industrial prevista por la Ley General de Instituciones de Crédito y Organizaciones Auxiliares, a la hipoteca sobre los sistemas de las empresas, a que se refiere la Ley de Vías Generales de Comunicación, y a casos similares previstos en leyes especiales.
+ARTICULO 3,013.- La preferencia entre derechos reales sobre una misma finca u otros derechos, se determinará por la prioridad de su inscripción en el Registro Público, cualquiera que sea la fecha de su constitución.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+El derecho real adquirido con anterioridad a la fecha de una anotación preventiva será preferente, aun cuando su inscripción sea posterior, siempre que se dé el aviso que previene el artículo 3016.
 
-ARTICULO 3,012.- Tratándose de inmuebles, derechos reales sobre los mismos u otros derechos inscribibles o anotables, la sociedad conyugal no surtirá efectos contra tercero si no consta inscrita en el registro relativo a dichos inmuebles y derechos.
+Si la anotación preventiva se hiciere con posterioridad a la presentación del aviso preventivo, el derecho real motivo de éste será preferente, aun cuando tal aviso se hubiese dado extemporáneamente.
 
-Cualquiera de los cónyuges u otro interesado tienen derecho a pedir la rectificación del asiento respectivo, cuando alguno de esos bienes pertenezcan a la sociedad conyugal y aparezca inscrito a nombre de uno solo de aquellos.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+ARTICULO 3,014.- Los asientos del Registro Público, en cuanto se refieran a derechos inscribibles o anotables, producen todos sus efectos, salvo resolución judicial.
 
-De la Prelación
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+ARTICULO 3,015.- La prelación entre los diversos documentos ingresados al Registro Público se determinará por la prioridad en cuanto a la fecha y número ordinal que les corresponda al presentarlos para su inscripción, salvo lo dispuesto en el artículo siguiente.
 
-ARTICULO 3,013.- La preferencia entre derechos reales sobre una misma finca o derechos, se determinará por la prioridad de su inscripción en el Registro, cualquiera que sea la fecha de su constitución.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-El derecho real adquirido con anterioridad a la fecha de una anotación preventiva será preferente aun cuando su inscripción sea posterior siempre que se dé el aviso que previene el artículo 3016.
+ARTICULO 3,016.- Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el Notario o autoridad ante quien se haga el otorgamiento, deberán solicitar al Registro Público certificado sobre la existencia o inexistencia de gravámenes en relación con la misma. En dicha solicitud que surtirá efectos de aviso preventivo deberá mencionar la operación y finca de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El registrador, con esta solicitud y sin cobro de derechos por este concepto practicará inmediatamente la nota de presentación en la parte respectiva del folio correspondiente, nota que tendrá vigencia por un término de 30 días naturales a partir de la fecha de presentación de la solicitud.
 
-Si la anotación preventiva se hiciere con posterioridad a la presentación del aviso preventivo, el derecho real motivo de éste, será preferente aun cuando tal aviso se hubiese dado extemporáneamente.
+Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el Notario o autoridad ante quien se otorgó dará aviso preventivo acerca de la operación de que se trate, al Registro Público dentro de las cuarenta y ocho horas siguientes y contendrá además de los datos mencionados en el párrafo anterior, la fecha de la escritura y la de su firma. El registrador, con el aviso citado y sin cobro de derecho alguno, practicará de inmediato la nota de presentación correspondiente, la cual tendrá una vigencia de noventa días naturales a partir de la fecha de presentación del aviso. Si éste se da dentro del término de treinta días a que se contrae el párrafo anterior, sus efectos preventivos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo; en caso contrario, sólo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+Si el testimonio respectivo se presentare al Registro Público dentro de cualquiera de los términos que señalan los dos párrafos anteriores, su inscripción surtirá efectos contra tercero desde la fecha de presentación del aviso y con arreglo a su número de entrada. Si el documento se presentare fenecidos los referidos plazos, su registro sólo surtirá efectos desde la fecha de presentación.
 
-ARTICULO 3,014.- Los asientos del Registro, en cuanto se refieren a los derechos inscribibles o anotables, producen todos sus efectos mientras no se declare su inexactitud por la autoridad judicial competente.
+Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo primero de este artículo fuere privado, deberán dar el aviso preventivo con vigencia por noventa días, el Notario, el Registrador o el Juez de Paz que se hayan cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo caso el mencionado aviso surtirá los mismos efectos que el dado por los Notarios en el caso de los instrumentos públicos.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,015.- El registro producirá sus efectos desde el día y hora en que el documento se hubiere presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
+ARTICULO 3,017.- La inscripción definitiva de un derecho que haya sido anotado preventivamente, surtirá sus efectos desde la fecha en que la anotación los produjo.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,016.- A más tardar dentro de los dos días hábiles siguientes a aquel en que se firme una escritura en que se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier derecho real sobre los mismos o que sin serlo sea inscribible, el notario ante quien se otorgue dará al Registro un aviso en el que conste la finca de que se trata, el negocio jurídico otorgado, los nombres de los interesados en él, el número y la fecha de la escritura y la de su firma e indicación de los números y demás datos bajo los cuales aparezca inscrita la propiedad o el derecho en su caso. El registrador, con el aviso del notario y sin cobro de derecho alguno, hará inmediatamente el asiento de presentación. Si dentro de los sesenta días naturales siguientes a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efectos contra tercero desde la fecha del asiento de presentación hecho en virtud del aviso del notario. Si el testimonio se presentare después, su registro sólo surtirá efectos desde la fecha de su presentación.
+De quiénes pueden solicitar el registro y de la calificación registral
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar el aviso a que se refiere este artículo, las autoridades de que habla la fracción III del artículo 3005 y el mencionado aviso producirá los mismos efectos que el dado por el notario.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+ARTICULO 3,018.- La inscripción o anotación de los títulos en el Registro Público pueden pedirse por quien tenga interés legítimo en el derecho que se va a inscribir o anotar, o por el Notario que haya autorizado la escritura de que se trate.
 
-ARTICULO 3,017.- La inscripción definitiva de un derecho que haya sido anotado preventivamente, surtirá sus efectos desde la fecha en que la anotación los estaba produciendo.
+Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrados en tal fecha y bajo tal número.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-De quiénes pueden pedir el registro y de la calificación registral
+ARTICULO 3,019.- Para inscribir o anotar cualquier título deberá constar previamente inscrito o anotado el derecho de la persona que otorgó aquel o de la que vaya a resultar perjudicada por la inscripción, a no ser que se trate de una inscripción de inmatriculación.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1973)</small>
-
-ARTICULO 3,018.- Cuando vaya a otorgarse una escritura en que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo, sea inscribible, el Notario o autoridad ante quien vaya a otorgarse podrá a su criterio, o deberá a solicitud de quien pretenda adquirir un derecho, dar al Registro un primer aviso preventivo al solicitarle certificado sobre la existencia de la inscripción en favor del titular registral o sobre los gravámenes que reporte el inmueble o derecho o la libertad de los mismos. Dicho aviso, deberá mencionar la operación y finca de que se trate, los nombres de los interesados, y el antecedente registral. El registrador con el aviso preventivo y sin cobro de derechos por la anotación, hará inmediatamente el asiento de presentación y asentará al margen de la inscripción correspondiente una anotación de primer aviso preventivo que tendrá vigencia por un término de treinta días naturales a partir de la fecha de presentación de la solicitud.
-
-Una vez firmada una escritura que produzca cualesquiera de las consecuencias mencionadas en el párrafo precedente, el Notario o Autoridad ante quien se otorgó dará el Registro, dentro de las cuarenta y ocho horas siguientes un segundo aviso preventivo sobre la operación de que se trata conteniendo además de los datos mencionados en el párrafo anterior, la fecha de la escritura y la de su firma. El registrador con el aviso citado y sin cobro de derecho alguno, hará de inmediato el asiento de presentación de tal aviso preventivo y asentará al margen de la inscripción una anotación preventiva del segundo aviso que tendrá vigencia por un término de noventa días naturales a partir de la fecha de su presentación. En los casos en que el segundo aviso preventivo mencionado en este párrafo se dé dentro del término de treinta días a que se contrae el párrafo anterior, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diere después de este plazo sólo surtirá efectos desde la fecha y hora de su presentación.
-
-Si el testimonio respectivo se presentare al Registro dentro de cualquiera de los términos a que se contraen los dos párrafos anteriores, su inscripción surtirá efectos contra tercero desde la fecha del asiento de presentación del primer aviso preventivo correspondiente si hubiese sido dado, o en caso contrario desde la fecha y hora de presentación del segundo. Si el documento se presentare después, su registro sólo surtirá efectos desde la fecha de su presentación.
-
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior, fuere privado, deberán dar exclusivamente el segundo aviso preventivo que menciona este Artículo, el Notario, el registrador, la Autoridad Municipal o el Juez de Paz que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes y el mencionado aviso producirá los mismos efectos que el dado por el Notario.
-
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
-
-ARTICULO 3,019.- Para inscribir o anotar cualquier título, deberá constar previamente inscrito o anotado el derecho de la persona que otorgó aquél o de la que vaya a resultar perjudicada por la inscripción, a no ser que se trate de una inscripción de inmatriculación.
-
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ARTICULO 3,020.- Inscrito o anotado un título, no podrá inscribirse o anotarse otro de igual o anterior fecha que refiriéndose al mismo inmueble o derecho real, se le oponga o sea incompatible.
 
-Si sólo se hubiere extendido el asiento de presentación, tampoco podrá inscribirse o anotarse otro título de la clase antes expresada mientras el asiento esté vigente.
+Si sólo se hubiere extendido el asiento de presentación, tampoco podrá inscribirse o anotarse otro título de la clase antes expresada, mientras el asiento esté vigente.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,021.- Los registradores calificarán bajo su responsabilidad los documentos que se presenten para la práctica de alguna inscripción o anotación, la que suspenderán o denegarán en los casos siguientes:
+ARTICULO 3,021.- Los Registradores calificarán bajo su responsabilidad los documentos que se presenten para la práctica de alguna inscripción o anotación; la que suspenderán o denegarán en los casos siguientes:
 
-I.- Cuando el título presentado no es de los que deben inscribirse o anotarse.
+I.- Cuando el título presentado no sea de los que deben inscribirse o anotarse;
 
-II.- Cuando el documento no revista las formas extrínsecas que establezca la ley.
+II.- Cuando el documento no revista las formas extrínsecas que establezca la Ley;
 
-III.- Cuando los funcionarios ante quienes se haya otorgado o ratificado el documento, no hayan hecho constar la capacidad de los otorgantes o cuando sea notoria la incapacidad de éstos.
+III.- Cuando los funcionarios ante quienes se haya otorgado o rectificado el documento, no hayan hecho constar la capacidad de los otorgantes o cuando sea notoria la incapacidad de éstos;
 
-IV.- Cuando el contenido del documento sea notoriamente contrario a las leyes prohibitivas o de interés público.
+IV.- Cuando el contenido del documento sea contrario a las Leyes prohibitivas o de interés público;
 
-V.- Cuando el negocio jurídico de que se trate, carezca de validez.
+V.- Cuando haya incompatibilidad entre el texto del documento y los asientos del registro;
 
-VI.- Cuando haya incompatibilidad entre el texto del documento y los asientos del registro.
+VI.- Cuando no se individualicen los bienes del deudor sobre los que se constituya un derecho real, o cuando no se fije la cantidad máxima que garantice un gravamen en el caso de obligaciones de monto indeterminado, salvo los casos previstos en la última parte del artículo 3011, cuando se den las bases para determinar el monto de la obligación garantizada; y
 
-VII.- Cuando se trate de resoluciones judiciales que provengan de juez notoriamente incompetente.
+VII.- Cuando falte algún otro requisito que deba llenar el documento de acuerdo con el Código u otras leyes aplicables.
 
-VIII.- Cuando no se individualicen los bienes del deudor sobre los que se constituya un derecho real, o cuando no se fije la cantidad máxima que garantice un gravamen en el caso de obligaciones de monto indeterminado, salvo los casos previstos en el último párrafo del artículo 3011.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-IX.- Cuando falte algún otro requisito que deba llevar el documento de acuerdo con este Código u otras leyes aplicables.
+ARTICULO 3,022.- La calificación hecha por el Registrador podrá recurrirse ante el Director del Registro Público. Si éste confirma la calificación el perjudicado por ella podrá reclamarla en juicio.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+Si la autoridad judicial ordena que se registre el título rechazado, la inscripción surtirá sus efectos, desde que por primera vez se presentó el título, si se hubiere hecho la anotación preventiva a que se refiere la fracción V del artículo 3043.
 
-ARTICULO 3,022.- La calificación hecha por el registrador podrá recurrirse ante el Director del Registro. Si éste confirma la calificación, el perjudicado por ella podrá reclamarla en juicio sumario, en el que será parte el Director.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-En los Territorios no habrá recurso administrativo, y en el procedimiento judicial se considerará impedido el juez que desempeñe las funciones de registrador.
+De la rectificación de asiento
 
-Si la autoridad judicial ordena que se registre el Título rechazado, la inscripción surtirá sus efectos desde que por primera vez se presentó el título, si se hubiere hecho la anotación preventiva a que se refiere la fracción V del artículo 3043.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+ARTICULO 3,023.- La rectificación de los asientos por causa de error material o de concepto, sólo procede cuando exista discrepancia entre el título y la inscripción.
 
-De la rectificación de asientos
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+ARTICULO 3,024.- Se entenderá que se comete error material cuando se escriban unas palabras por otras, se omita la expresión de alguna circunstancia o se equivoquen los nombres propios o las cantidades al copiarlas del título, sin cambiar por eso el sentido general de la inscripción ni el de alguno de sus conceptos.
 
-ARTICULO 3,023.- La rectificación de los asientos por causa de error material o de concepto, solo procede cuando exista discrepancia entre el título y la inscripción.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+ARTICULO 3,025.- Se entenderá que se comete error de concepto cuando al expresar en la inscripción alguno de los contenidos en el título se altere o varíe su sentido porque el Registrador se hubiere formado un juicio equivocado del mismo, por una errónea calificación del contrato o acto en el consignado o por cualquiera otra circunstancia.
 
-ARTICULO 3,024.- Se entenderá que se comete error material cuando sin intención conocida se escriban unas palabras por otras, se omita la expresión de alguna circunstancia o se equivoquen los nombres propios o las cantidades al copiarlas del título, sin cambiar por eso el sentido general de la inscripción ni el de ninguno de sus conceptos.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
-
-ARTICULO 3,025.- Se entenderá que se comete error de concepto cuando al expresar en la inscripción alguno de los contenidos en el título, se altere o varíe su sentido porque el registrador se hubiere formado un juicio equivocado del mismo, por una errónea calificación del contrato o acto en él consignado o por cualquiera otra circunstancia.
-
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
-
-ARTICULO 3,026.- Cuando se trate de errores de concepto los asientos practicados en los libros del registro sólo podrán rectificarse con consentimiento de todos los interesados en el asiento.
+ARTICULO 3,026.- Cuando se trate de errores de concepto los asientos practicados en los folios del Registro Público sólo podrán rectificarse con el consentimiento de todos los interesados en el asiento.
 
 A falta del consentimiento unánime de los interesados, la rectificación sólo podrá efectuarse por resolución judicial.
 
-En caso de que el registrador se oponga a la rectificación, se observará lo dispuesto en el artículo 3022.
+En caso de que el Registrador se oponga a la rectificación, se observará lo dispuesto en el artículo 3022.
 
-En el caso previsto por el artículo 3012 el que solicite la rectificación deberá acompañar a la solicitud que presente al registro, los documentos con los que pruebe el régimen matrimonial.
+En el caso previsto por el segundo párrafo del artículo 3012 el que solicite la rectificación deberá acompañar a la solicitud que presente al Registro, los documentos con los que pruebe el régimen matrimonial.
 
-En ningún caso la rectificación perjudicará los derechos adquiridos por tercero a título oneroso y de buena fe durante la vigencia del asiento que se declare inexacto.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+ARTICULO 3,027.- El concepto rectificado surtirá efectos desde la fecha de su rectificación.
 
-ARTICULO 3,027.- El concepto rectificado surtirá efectos desde la fecha de la rectificación.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 De la extinción de asientos
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,028.- Las inscripciones no se extinguen en cuanto a tercero sino por su cancelación o por el registro de la transmisión del dominio o derecho real inscrito a otra persona.
+ARTICULO 3,028.- Las inscripciones no se extinguen en cuanto a tercero sino por su cancelación o por el registro de la transmisión del dominio o derecho real inscrito a favor de otra persona.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ARTICULO 3,029.- Las anotaciones preventivas se extinguen por cancelación, por caducidad o por su conversión en inscripción.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,030.- Las inscripciones y anotaciones pueden cancelarse por consentimiento de las personas a cuyo favor estén hechas o por orden judicial. Podrán no obstante ser canceladas a petición de parte sin dichos requisitos cuando el derecho inscrito a (sic) anotado quede extinguido por disposición de la ley o por causas que resulten del título en cuya virtud se practicó la inscripción o anotación debido a hecho que no requiera la intervención de la voluntad.
+ARTICULO 3,030.- Las inscripciones y anotaciones pueden cancelarse por consentimiento de las personas a cuyo favor estén hechas o por orden judicial. Podrán no obstante ser canceladas a petición de parte, sin dichos requisitos, cuando el derecho inscrito o anotado quede extinguido por disposición de la Ley o por causas que resulten del título en cuya virtud se practicó la inscripción o anotación, debido a hecho que no requiera la intervención de la voluntad.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,031.- Para que el asiento pueda cancelarse por consentimiento, éste deberá constar en escritura pública si el monto del derecho cuyo registro se cancela es superior a quinientos pesos.
+ARTICULO 3,031.- Para que el asiento pueda cancelarse por consentimiento de las partes, éste deberá constar en escritura pública.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ARTICULO 3,032.- La cancelación de las inscripciones y anotaciones preventivas podrá ser total o parcial.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ARTICULO 3,033.- Podrá pedirse y deberá ordenarse, en su caso, la cancelación total:
 
-I.- Cuando se extinga por completo el inmueble objeto de inscripción.
+I.- Cuando se extinga por completo el inmueble objeto de la inscripción;
 
-II.- Cuando se extinga también por completo el derecho inscrito o anotado.
+II.- Cuando se extinga, también por completo, el derecho inscrito o anotado;
 
-III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción o anotación.
+III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción o anotación;
 
-IV.- Cuando se declare la nulidad del asiento.
+IV.- Cuando se declare la nulidad del asiento;
 
-V.- Cuando sea vendido judicialmente el inmueble que reporta el gravamen en el caso previsto en el artículo 2325.
+V.- Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 2325; y
 
 VI.- Cuando tratándose de cédula hipotecaria o de embargo, hayan transcurrido dos años desde la fecha del asiento, sin que el interesado haya promovido en el juicio correspondiente.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ARTICULO 3,034.- Podrá pedirse y deberá decretarse, en su caso, la cancelación parcial:
 
-I.- Cuando se reduzca el inmueble objeto de la inscripción o anotación preventiva.
+I.- Cuando se reduzca el inmueble objeto de la inscripción o anotación preventiva; y
 
 II.- Cuando se reduzca el derecho inscrito o anotado.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,035.- Las anotaciones preventivas, cualesquiera que sea su origen, caducarán a los tres años de su fecha, salvo aquellas a las que se les fije un plazo de caducidad más breve. No obstante, a petición de parte o por mandato de las autoridades que las decretaron, podrán prorrogarse una o más veces por dos años cada vez, siempre que la prórroga sea anotada antes de que caduque el asiento.
+ARTICULO 3,035.- Las anotaciones preventivas, cualquiera que sea su origen, caducarán a los tres años de su fecha, salvo aquellas a las que se les fije un plazo de caducidad más breve. No obstante, a petición de parte o por mandato de las autoridades que las decretaron, podrán prorrogarse una o más veces, por dos años cada vez, siempre que la prórroga sea anotada antes de que caduque el asiento.
 
 La caducidad produce la extinción del asiento respectivo por el simple transcurso del tiempo; pero cualquier interesado podrá solicitar en este caso que se registre la cancelación de dicho asiento.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ARTICULO 3,036.- Cancelado un asiento, se presume extinguido el derecho a que dicho asiento se refiere.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,037.- Los padres como administradores de los bienes de su (sic) hijos, los tutores de menores incapacitados y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
+ARTICULO 3,037.- Los padres como administradores de los bienes de sus hijos, los tutores de menores o incapacitados y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir la cancelación del registro hecho en favor de sus representados, en el caso de pagos o por sentencia judicial.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,038.- La cancelación de las inscripciones de hipotecas constituídas en garantía de títulos transmisibles por endoso, puede hacerse:
+ARTICULO 3,038.- La cancelación de las inscripciones de hipotecas constituidas en garantía de títulos transmisibles por endoso, pueden hacerse.
 
-I.- Presentándose la escritura otorgada por los que hayan cobrado los créditos, en la cual debe constar haberse inutilizado en el acto de su otorgamiento los títulos endosables.
+I.- Presentándose la escritura otorgada por la que se hayan cobrado los créditos, en la cual debe constar haberse inutilizado los títulos endosables en el acto de su otorgamiento; y
 
-II.- Por ofrecimiento de pago y consignación del importe de los títulos, tramitados y resueltos de acuerdo con las disposiciones legales relativas.
+II.- Por ofrecimiento del pago y consignación del importe de los títulos, tramitados y resueltos de acuerdo con las disposiciones legales relativas.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,039.- Las inscripciones de hipotecas constituídas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial estar recogida y en poder del deudor la emisión de títulos debidamente inutilizados.
+ARTICULO 3,039.- Las inscripciones de hipotecas constituidas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial, estar recogida y en poder del deudor la emisión de títulos debidamente inutilizados.
 
-Procederá también la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan. La cancelación, en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código de Procedimientos Civiles.
+Procederá también la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan. La cancelación en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código de Procedimientos Civiles.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,040.- Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trata, presentando acta notarial que acredite estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trate de extinguir, siempre que dichos títulos asciendan, por lo menos, a la décima parte del total de la emisión.
+ARTICULO 3,040.- Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trate, presentando acta notarial que acredite estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trate de extinguir, siempre que dichos títulos asciendan, por lo menos, a la décima parte del total de la emisión.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,041.- Podrá también cancelarse total o parcialmente la hipoteca que garantice tanto títulos nominativos como al portador, por consentimiento del representante común de los tenedores de los títulos, siempre que esté autorizado para ello y declare bajo su responsabilidad que ha recibido el importe por el que cancela.
+ARTICULO 3,041.- Podrá también cancelarse, total o parcialmente la hipoteca que garantice, tanto títulos nominativos como al portador, por consentimiento del representante común de los tenedores de los títulos, siempre que esté autorizado para ello y declare bajo su responsabilidad que ha recibido el importe por el que se cancela.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-### CAPITULO III. DEL REGISTRO DE LA PROPIEDAD INMUEBLE
+### CAPITULO III. Del registro de la propiedad inmueble y de los títulos inscribibles y anotables
 
-De los títulos inscribibles y de los anotables.
+(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1985)(F. DE E., D.O.F. 29 DE MARZO DE 1985)
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+ARTICULO 3,042.- En el Registro Público de la Propiedad Inmueble se inscribirán:
 
-ARTICULO 3,042.- En el registro de la propiedad inmueble se inscribirán:
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1979)</small>
 
-I.- Los títulos por los cuales se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, la posesión originaria o los demás derechos reales sobre inmuebles.
+I.- Los títulos por los cuales se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, posesión originaria y los demás derechos reales sobre inmuebles;
 
-II.- Los contratos de arrendamiento de bienes inmuebles, por un periodo mayor de seis años y aquellos en que haya anticipos de rentas por más de tres años.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1979)</small>
 
-III.- Los demás títulos que la ley ordene expresamente que sean registrados.
+II.- La constitución del patrimonio familiar;
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,043.- Se anotarán preventivamente en el Registro:
+III.- Los contratos de arrendamiento de bienes inmuebles, por un período mayor de seis años y aquellos en que haya anticipos de rentas por más de tres años; y
 
-I.- Las demandas relativas a la propiedad de bienes inmuebles o a la constitución, declaración, modificación o extinción de cualquier derecho real sobre aquéllos.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1979)</small>
 
-II.- El mandamiento y el acta de embargo que se haya hecho efectivo en bienes inmuebles del deudor.
+IV.- Los demás títulos que la ley ordene expresamente que sean registrados.
 
-III.- Las demandas promovidas para exigir el cumplimiento de contratos preparatorios o para dar forma legal al acto o contrato concertado cuando tenga por objeto inmuebles o derechos reales sobre los mismos.
+(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985) (F. DE E., D.O.F. 29 DE MARZO DE 1985)
 
-IV.- Las providencias judiciales que ordenen el secuestro o prohiban la enajenación de bienes inmuebles o derechos reales.
+No se inscribirán las escrituras en las que se trasmita la propiedad de un inmueble dado en arrendamiento, a menos de que en ellas conste expresamente que se cumplió con lo dispuesto en los artículos 2448 I y 2448 J de este Código en relación con el derecho del tanto correspondiente al arrendatario.
 
-V.- Los títulos presentados al Registro y cuya inscripción haya sido denegada o suspendida por el registrador.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-VI.- Las fianzas legales o judiciales de acuerdo con lo establecido por el artículo 2852 de este Código.
+ARTICULO 3,043.- Se anotarán preventivamente en el Registro Público:
 
-VII.- Las declaraciones de expropiación, de limitación de dominio o de ocupación temporal de bienes inmuebles.
+I.- Las demandas relativas a la propiedad de bienes inmuebles o a la constitución, declaración, modificación o extinción de cualquier derecho real sobre aquellos;
 
-VIII.- Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en el Registro.
+II.- El mandamiento y el acta de embargo, que se haya hecho efectivo en bienes inmuebles del deudor;
 
-IX.- Cualquier otro título que sea anotable de acuerdo con este Código u otras leyes.
+III.- Las demandas promovidas para exigir el cumplimiento de contratos preparatorios o para dar forma legal al acto o contrato concertado, cuando tenga por objeto inmuebles o derechos reales sobre los mismos;
+
+IV.- Las providencias judiciales que ordenen el secuestro o prohiban la enajenación de bienes inmuebles o derechos reales;
+
+V.- Los títulos presentados al Registro Público y cuya inscripción haya sido denegada o suspendida por el Registrador;
+
+VI.- Las fianzas legales o judiciales, de acuerdo con lo establecido en el artículo 2852;
+
+VII.- El decreto de expropiación y de ocupación temporal y declaración de limitación de dominio, de bienes inmuebles;
+
+VIII.- Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en el Registro Público; y
+
+IX.- Cualquier otro título que sea anotable, de acuerdo con este Código u otras Leyes.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
 
 De los efectos de las anotaciones
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,044.- La anotación preventiva, perjudicará a cualquier adquirente de la finca o derecho real a que se refiere la anotación, cuya adquisición sea posterior a la fecha de aquélla, y en su caso, dará preferencia para el cobro del crédito sobre cualquier otro de fecha posterior a la anotación.
+ARTICULO 3,044.- La anotación preventiva, perjudicará a cualquier adquirente de la finca o derecho real a que se refiere la anotación, cuya adquisición sea posterior a la fecha de aquella, y en su caso, dará preferencia para el cobro del crédito sobre cualquier otro de fecha posterior a la anotación.
 
-En los casos de las fracciones IV y VIII del artículo anterior, podrá producirse el cierre del registro en los términos de la resolución correspondiente.
+En los casos de las fracciones IV y VIII del artículo 3043 podrá producirse el cierre del registro en los términos de la resolución correspondiente. En el caso de la fracción VI, la anotación no producirá otro efecto que el fijado por el artículo 2854.
 
-En el caso de la fracción VI, la anotación no producirá otro efecto que el fijado por el artículo 2854.
+En el caso de la fracción VII, la anotación servirá únicamente para que conste la afectación en el registro del inmueble sobre el que hubiere recaído la declaración, pero bastará la publicación del decreto relativo en el "Diario Oficial" de la Federación para que queden sujetos a las resultas del mismo, tanto el propietario o poseedor, como los terceros que intervengan en cualquier acto o contrato posterior a dicha publicación, respecto del inmueble afectado, debiendo hacerse la inscripción definitiva que proceda, hasta que se otorgue la escritura respectiva, salvo el caso expresamente previsto por alguna Ley en que se establezca que no es necesario este requisito.
 
-En el caso de la fracción VII, la anotación servirá únicamente para que conste la afectación en el registro del inmueble sobre el que hubiere recaído la declaración; pero bastará la publicación del decreto relativo en el "Diario Oficial" de la Federación para que queden sujetos a las resultas del mismo tanto el propietario o poseedor, como los terceros que intervengan en cualquier acto o contrato posterior a dicha publicación, respecto del inmueble afectado, debiendo hacerse la inscripción definitiva que proceda, hasta que se otorgue la escritura respectiva, salvo el caso expresamente previsto por alguna ley en que se establezca que no es necesario este requisito.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+ARTICULO 3,045.- Salvo los casos en que la anotación cierre el registro, los bienes inmuebles o derechos reales anotados podrán enajenarse o gravarse, pero sin perjuicio del derecho de la persona a cuyo favor se haya hecho la anotación.
 
-ARTICULO 3,045.- Salvo los casos en que la anotación cierre el registro, los bienes inmuebles o derechos reales anotados podrán enajenarse y gravarse, pero sin perjuicio del derecho de la persona a cuyo favor se haya hecho la anotación.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+De la inmatriculacion
 
-De la inmatriculación
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ARTICULO 3,046.- La inmatriculación se practicará:
 
-I.- Mediante información de dominio.
+I.- Mediante información de dominio;
 
-II.- Mediante información posesoria.
+II.- Mediante información posesoria;
 
-III.- Mediante resolución judicial que la ordene y que se haya dictado como consecuencia de la presentación de titulación fehaciente que abarque sin interrupción un periodo por lo menos de cinco años.
+III.- Mediante resolución judicial que la ordene y que se haya dictado como consecuencia de la presentación de titulación fehaciente que abarque sin interrupción un período, por lo menos de cinco años;
 
-IV.- Mediante la inscripción del decreto publicado en el "Diario Oficial" de la Federación que convierta en bien de dominio privado un inmueble que no tenga tal carácter, o del título o títulos que se expidan con fundamento en aquel decreto.
+IV.- Mediante la inscripción del decreto publicado en el "Diario Oficial" de la Federación que convierta en bien de dominio privado un inmueble que no tenga tal carácter, o del título o títulos que se expidan con fundamento en aquel decreto; y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+V.- Mediante la inscripción del contrato privado de compraventa autenticado en los términos del artículo 3005, fracción III, acompañado del certificado de no inscripción de la finca y de un plano de la misma.
 
-ARTICULO 3,047.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1156, por no estar inscrita en el Registro la Propiedad de los bienes en favor de persona alguna, podrá demostrar ante el juez competente que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado del Registro Público que demuestre que los bienes no están inscritos y otro relativo al estado actual de la finca en el Catastro y en los padrones de la oficina del Impuesto sobre la Propiedad Raíz.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-La información se recibirá con citación del Ministerio Público, de la autoridad municipal, del respectivo registrador de la propiedad, de los colindantes y de la persona que tenga catastrada la finca a su favor o a cuyo nombre se expidan las boletas del impuesto predial.
+ARTICULO 3,047.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1156, por no estar inscritos en el Registro Público los bienes en favor de persona alguna, podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado del Registro Público que demuestre que los bienes no están inscritos y otro relativo al estado actual de la finca en el catastro y en los padrones de la Dirección de Catastro e Impuesto Predial.
 
-Los testigos deben ser por lo menos tres de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiere.
+La información se recibirá con citación del Ministerio Público, del Registrador de la propiedad, de los colindantes y de la persona que tenga catastrada la finca a su favor o a cuyo nombre se expidan las boletas del impuesto predial.
 
-No se recibirá la información sin que previamente se publique la solicitud del promovente, por tres veces, de tres en tres días, en el Boletín Judicial y en otro periódico de los de mayor circulación. Además, se fijará un ejemplar del aviso en el predio objeto de la información.
+Los testigos deben ser, por lo menos tres, de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiere.
 
-Comprobada debidamente la posesión, el Juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción, y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público.
+No se recibirá la información sin que previamente se publique la solicitud del promovente, por tres veces, de tres en tres días en un periódico de amplia circulación y en el Boletín del Registro Público.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+Comprobada debidamente la posesión, el Juez declarará que el poseedor se ha convertido en propietario, en virtud de la prescripción, y tal declaración se tendrá como título de propiedad y será protocolizada e inscrita en el Registro Público.
 
-ARTICULO 3,048.- El que tenga una posesión apta para prescribir, de bienes inmuebles no inscritos en el Registro en favor de persona alguna, aun antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el juez competente, ante quien la acredita del modo que fije el Código de Procedimientos Civiles.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+
+ARTICULO 3,048.- El que tenga una posesión apta para prescribir, de bienes inmuebles no inscritos en el Registro Público en favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el Juez competente, ante quien la acredite del modo que fije el Código de Procedimientos Civiles.
 
 A la solicitud acompañará los documentos que se mencionan en la parte final del párrafo primero del artículo anterior.
 
-La información que se rinda para demostrar la posesión se sujetará a lo dispuesto en los párrafos segundo, tercero y cuarto del artículo que precede.
+La información que se rinda para demostrar la posesión se sujetará a lo dispuesto en los párrafos segundo, tercero y cuarto del artículo 3047.
 
-Las declaraciones de los testigos versarán sobre el hecho de la posesión, sobre los requisitos que deba tener para servir de base a la prescripción adquisitiva y sobre el origen de la posesión.
+Las declaraciones de los testigos versarán sobre el hecho de la posesión, sobre los requisitos que debe tener para servir de base a la prescripción adquisitiva y sobre el origen de la posesión.
 
 El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción al concluir el plazo de cinco años contados desde la misma inscripción.
 
-Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones en general y además las siguientes: los nombres de los testigos que hayan declarado; el resultado de las declaraciones y la resolución judicial que ordene la inscripción.
+Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones previstas en el Reglamento del Registro Público.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,049.- Cualquiera que se crea con derecho a los bienes cuya inscripción se solicita mediante información de dominio o de posesión, podrá alegarlo ante la autoridad judicial competente.
+ARTICULO 3,049.- Cualquiera que se considere con derecho a los bienes cuya inscripción se solicita mediante información de dominio o de posesión, podrá alegarlo ante la autoridad judicial competente.
 
-La presentación del escrito de oposición, en la forma que establece el Código de Procedimientos Civiles, suspenderá el curso del expediente de información; si éste estuviere ya concluído y aprobado deberá el juez poner la demanda en conocimiento del registrador para que suspenda la inscripción y si ya estuviese hecha, para que anote dicha demanda.
+La presentación del escrito de oposición, en la forma que establece el Código de Procedimientos Civiles suspenderá el curso del expediente de información; si éste estuviere ya concluído y aprobado, deberá el Juez poner la demanda en conocimiento del registrador para que suspenda la inscripción y si ya estuviese hecha, para que anote dicha demanda.
 
-Si el opositor deja transcurrir seis meses sin promover en el procedimiento de oposición, quedará éste sin efecto, haciéndose en su caso la cancelación que proceda.
+Si el opositor deja transcurrir seis meses sin promover en el procedimiento de oposición, quedará éste sin efecto, haciéndose, en su caso, la cancelación que proceda.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,050.- Transcurridos cinco años desde que se practicó la inscripción, sin que en el Registro aparezca algún asiento que contradiga la posesión inscrita, tiene derecho el poseedor, comprobando este hecho mediante la presentación del certificado respectivo, a que el juez competente declare que se ha convertido en propietario en virtud de la prescripción y ordena se haga en el Registro la inscripción de dominio correspondiente.
+ARTICULO 3,050.- Transcurridos cinco años desde que se practicó la inscripción, sin que en el Registro Público aparezca algún asiento que contradiga la posesión inscrita, tiene derecho el poseedor, comprobando este hecho mediante la presentación del certificado respectivo, a que el Juez competente declare que se ha convertido en propietario en virtud de la prescripción y ordene se haga en el Registro Público la inscripción de domino correspondiente.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ARTICULO 3,051.- No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, ni las discontinuas, sean o no aparentes, ni tampoco el derecho hipotecario.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,052.- El que tenga títulos fehacientes que abarquen cuando menos un período ininterrumpido de cinco años inmediatamente anteriores a su promoción, podrá inmatricular su predio mediante resolución judicial, siempre y cuando se satisfagan los siguientes requisitos:
+ARTICULO 3,052.- El que tenga justo título o título fehaciente que abarque cuando menos un período ininterrumpido de cinco años inmediatamente anteriores a su promoción, podrá inmatricular su predio mediante resolución judicial, siempre que satisfaga los siguientes requisitos:
 
-I.- Que acompañe a su promoción, además de la titulación:
+I.- Que acompañe a su promoción además de la titulación:
 
-a).- Un certificado del Registro Público de la Propiedad que acredite que el bien de que se trata no está inscrito a favor de persona alguna; b).- Las boletas que comprueben que el predio está al corriente en el pago del impuesto predial; c).- Un informe del estado actual de la finca en el Catastro, rendido por esta Oficina; d).- Un informe de la Oficina del Impuesto sobre la Propiedad Raíz en el que conste el nombre de la persona que tiene registrado en el padrón correspondiente al predio.
+a).- Certificado del Registro Público que acredite que el bien de que se trata no está inscrito;
+
+b).- Las boletas que comprueben que el predio está al corriente en el pago del impuesto predial;
 
 II.- Que en tal promoción manifieste bajo protesta de decir verdad si está poseyendo el predio o el nombre del poseedor en su caso.
 
-III.- Que se publique la solicitud de inscripción en el Boletín Judicial y en uno de los periódicos de mayor circulación en la entidad correspondientes, por tres veces en cada uno de ellos con intervalo de diez días.
+III.- Que se publique la solicitud de inscripción en el boletín del Registro Público y en uno de los periódicos de amplia circulación, por tres veces, en cada uno de ellos, con intervalos de diez días;
 
-IV.- Que se cite a la autoridad municipal correspondiente, a los colindantes, a las personas que figuren en los padrones de las Oficinas del Impuesto sobre la Propiedad Raíz y del Catastro, así como al poseedor cuando sea el caso.
+IV.- Que se cite a los colindantes, a las personas que figuren en los patrones de la Dirección de Catastro e Impuesto Predial como causantes, así como el poseedor, cuando exista; y
 
 V.- Que transcurra un plazo de treinta días a partir de la última publicación sin que haya oposición.
 
-Si hubiere oposición, estas se ventilará en la vía sumaria; pero sólo podrá tomarse en cuenta si se funda en la posesión o en la titulación fehaciente del mismo inmueble y, para su tramitación se observará lo dispuesto en los dos últimos párrafos del artículo 3049.
+Si hubiere oposición se suspenderá el procedimiento; ésta se substanciará conforme al Código de Procedimientos Civiles.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-Del modo de llevar el registro
+ARTICULO 3,053.- Para la inmatriculación de inmuebles que carezcan de antecedentes registrales, los interesados podrán ocurrir ante el Registro Público a solicitarla, mediante el procedimiento que establezca el reglamento respectivo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,053.- El Reglamento establecerá el sistema conforme al cual deben llevarse los libros del Registro y practicarse los asientos.
+ARTICULO 3,054.- Los interesados en la inmatriculación, además de satisfacer los requisitos que señale el reglamento deberán acreditar, a juicio del Director del Registro Público, que les asiste derecho para obtenerla.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+
+ARTICULO 3,055.- La inmatriculación de un inmueble por resolución del Director del Registro Público, nada prejuzga sobre los derechos de propiedad o posesión que puedan existir en favor de los solicitantes o de terceros.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+
+ARTICULO 3,056.- La inmatriculación, una vez hecha, no podrá modificarse o cancelarse, sino mediante determinación judicial contenida en sentencia irrevocable, dictada en juicio en que haya sido parte el Director del Registro Público.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+
+ARTICULO 3,057.- La resolución del Director del Registro Público que ordena la inmatriculación además de expresar los fundamentos en que se apoye, deberá comprender la siguiente advertencia:
+
+"Esta resolución no prejuzga sobre derechos de propiedad o posesión a favor del solicitante o de terceros".
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+
+ARTICULO 3,058.- Una vez ordenada la inmatriculación de un inmueble se hará, desde luego la inscripción en el folio correspondiente, previo el pago de los derechos que se deban cubrir.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE ENERO DE 1979)</small>
+
+Del sistema registral
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+
+ARTICULO 3,059.- El Reglamento establecerá el sistema conforme al cual deberán llevarse los folios del Registro Público y practicarse los asientos.
 
 La primera inscripción de cada finca será de dominio o de posesión.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,054.- Los asientos de presentación expresarán:
+ARTICULO 3,060.- Los asientos y notas de presentación expresarán:
 
-I.- La especie de título presentado, su fecha, número si lo tuviere y autoridad o notario que lo autorice o legalice.
+I.- La fecha y número de entrada;
 
-II.- La fecha y hora de su presentación.
+II.- La naturaleza del documento y el funcionario que lo haya autorizado;
 
-III.- La naturaleza del hecho o negocio jurídico.
+III.- La naturaleza del acto o negocio de que se trate;
 
-IV.- Los bienes o derechos objeto del título presentado.
+IV.- Los bienes o derechos objeto del título presentado, expresando su cuantía, si constare; y
 
 V.- Los nombres y apellidos de los interesados.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,055.- Los asientos de inscripción, deberán expresar las circunstancias siguientes:
+ARTICULO 3,061.- Los asientos de inscripción deberán expresar las circunstancias siguientes:
 
-I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que deba inscribirse; su medida superficial, nombre y número si constare en el título; así como las referencias al registro anterior y las catastrales que prevenga el Reglamento.
+I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que deba inscribirse; su medida superficial, nombre y número si constare en el título; así como las referencias al registro anterior y las catastrales que prevenga el reglamento;
 
-II.- La naturaleza, extensión y condiciones del derecho de que se trate.
+II.- La naturaleza, extensión y condiciones del derecho de que se trate;
 
-III.- El valor de los bienes o derechos a que se refieren las fracciones anteriores, cuando conforme a la ley deba expresarse en el título.
+III.- El valor de los bienes o derechos a que se refieren las fracciones anteriores, cuando conforme a la ley deban expresarse en el título.
 
-IV.- Tratándose de hipotecas, la obligación garantizada; la época en que podrá exigirse su cumplimiento; el importe de ella o la cantidad máxima asegurada cuando se trate de obligaciones de monto indeterminado; los réditos si se causaren y la fecha desde que deban correr.
+IV.- Tratándose de hipotecas, la obligación garantizada; la época en que podrá exigirse su cumplimiento; el importe de ella o la cantidad máxima asegurada cuando se trate de obligaciones de monto indeterminado; y los réditos, si se causaren, y la fecha desde que deban correr;
 
 V.- Los nombres de las personas físicas o morales a cuyo favor se haga la inscripción y de aquellas de quienes procedan inmediatamente los bienes. Cuando el título exprese nacionalidad, lugar de origen, edad, estado civil, ocupación y domicilio de los interesados, se hará mención de esos datos en la inscripción.
 
-VI.- La naturaleza del hecho o negocio jurídico.
+VI.- La naturaleza del hecho o negocio jurídico; y
 
-VII.- La fecha del título, número si lo tuviere y el funcionario que lo haya autorizado.
+VII.- La fecha del título, número si lo tuviere, y el funcionario que lo haya autorizado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,056.- Las anotaciones preventivas contendrán las circunstancias que exprese el artículo anterior en cuanto resulte de los documentos presentados y, por lo menos, la finca o derecho anotado, la persona a quien favorezca la anotación y la fecha de ésta.
+ARTICULO 3,062.- Las anotaciones preventivas contendrán las circunstancias que expresa el artículo anterior, en cuanto resulten de los documentos presentados y, por lo menos, la finca o derecho anotado, la persona a quien favorezca la anotación y la fecha de ésta.
 
-Las que deban su origen a embargo o secuestro, expresarán la causa que haya dado lugar a aquellos y el importe de la obligación que los hubiere originado.
+Las que deban su origen a embargo o secuestro, expresarán la causa que haya dado lugar a aquellas y el importe de la obligación que los hubiere originado.
 
-Las que provengan de una declaración de expropiación, limitación de dominio u ocupación de bienes inmuebles, mencionarán la fecha del decreto respectivo la de su publicación en el "Diario Oficial" y el fin de utilidad pública que sirva de causa a la declaración.
+Las que provengan de una declaración de expropiación, limitación de dominio u ocupación de bienes inmuebles, mencionaran la fecha del decreto respectivo, la de su publicación en el "Diario Oficial" de la Federación y el fin de utilidad pública que sirva de causa a la declaración.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,057.- Los asientos de cancelación de una inscripción o anotación preventiva, expresarán:
+ARTICULO 3,063.- Los asientos de cancelación de una inscripción o anotación preventiva, expresarán:
 
-I.- La clase, número si lo tuviere y fecha del documento en cuya virtud se cancele y el nombre del funcionario que lo autorice.
+I.- La clase de documento en virtud del cual se practique la cancelación, su fecha y número si lo tuviere y el funcionario que lo autorice.
 
-II.- La causa por la que se hace la cancelación.
+II.- La causa por la que se hace la cancelación;
 
-III.- El nombre y apellidos de la persona, a cuya instancia o con cuyo consentimiento se verifique la cancelación.
+III.- El nombre y apellidos de la persona a cuya instancia o con cuyo consentimiento se verifique la cancelación;
 
-IV.- La expresión de quedar cancelado total o parcialmente el asiento de que se trate.
+IV.- La expresión de quedar cancelado total o parcialmente el asiento de que se trate; y
 
-V.- Cuando se trate de cancelación parcial, la parte que se segregue o que haya desaparecido del inmueble, o la que reduzca del derecho y la que subsista.
+V.- Cuando se trate de cancelación parcial, la parte que se segregue o que haya desaparecido del inmueble, o la que reduzca el derecho y la que subsista.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,058.- Las notas marginales deberán contener las indicaciones necesarias para relacionar entre sí las fincas o asientos a que se refieren y, en su caso, el hecho de que se trate de acreditar, y el documento en cuya virtud se entiendan.
+ARTICULO 3,064.- Las anotaciones deberán contener las indicaciones para relacionar entre sí las fincas o asientos a que se refieren y, en su caso, el hecho que se trate de acreditar; y el documento en cuya virtud se extienda.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,059.- Los requisitos que según los artículos anteriores deban contener los asientos, podrán omitirse cuando ya consten en otros del registro de la finca, haciéndose sólo referencia al asiento que los contenga.
+ARTICULO 3,065.- Los requisitos que según los artículos anteriores deban contener los asientos, podrán omitirse cuando ya consten en otros del registro de la finca, haciéndose sólo referencia al asiento que los contenga.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,060.- Todos los asientos, de la clase que fueren, deberán ir firmados por el registrador y expresar la fecha en que se practique, así como el día y la hora del asiento de presentación.
+ARTICULO 3,066.- Todos los asientos, de la clase que fueren, deberán ir firmados por el registrador y expresar la fecha en que se practiquen, así como el día y número del asiento de presentación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,061.- Los asientos del Registro no surtirán efectos mientras no estén firmados por el registrador o funcionario que lo substituya; pero la firma de aquellos puede exigirse por quien tenga el tíulo (sic) con la certificación de haber sido registrado.
+ARTICULO 3,067.- Los asientos del Registro Público no surtirán efecto mientras no estén firmados por el registrador o funcionario que lo substituya; pero la firma de aquellos puede exigirse por quien tenga el título con la certificación de haber sido registrado.
 
-Los asientos podrán anularse por resolución judicial con audiencia de los interesados, cuando substancialmente se hubieren alterados dichos asientos, así como en el caso de que hayan cambiado los datos esenciales relativos a la finca de que se trate, o a los derechos inscritos o al titular de éstos, sin perjuicio de los establecidos respecto a la rectificación de errores.
+Los asientos podrán anularse por resolución judicial con audiencia de los interesados, cuando substancialmente se hubieren alterado dichos asientos, así como en el caso de que se hayan cambiado los datos esenciales relativos a la finca de que se trate, o a los derechos inscritos o al titular de éstos, sin perjuicio de lo establecido respecto a la rectificación de errores, inexactitudes u omisiones.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,062.- La nulidad de los asientos de que se trata en el artículo anterior no perjudicará el derecho anteriormente adquirido por un tercero protegido con arreglo al artículo 3009.
+ARTICULO 3,068.- La nulidad de los asientos a que se refiere el artículo anterior, no perjudicará el derecho anteriormente adquirido por un tercero, protegido con arreglo al artículo 3009.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LOS INTEGRA, D.O.F. 3 DE ENERO DE 1979)</small>
 
-Del registro de operaciones sobre muebles
+### CAPITULO IV. Del registro de operaciones sobre bienes muebles
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,063.- Se inscribirá en el registro de operaciones sobre bienes muebles:
+ARTICULO 3,069.- Se inscribirán en los folios de operaciones sobre bienes muebles:
 
-I.- Los contratos de compraventa de bienes muebles sujetos a condición resolutoria a que se refiere la fracción II del artículo 2310.
+I.- Los contratos de compraventa de bienes muebles sujetos a condición resolutoria a que se refiere la fracción II del artículo 2310;
 
-II.- Los contratos de compraventa de bienes muebles por los cuales el vendedor se reserva la propiedad de los mismos, a que se refiere el artículo 2312.
+II.- Los contratos de compraventa de bienes muebles por los cuales el vendedor se reserva la propiedad de los mismos, a que se refiere el artículo 2312; y
 
 III.- Los contratos de prenda que menciona el artículo 2859.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,064.- Toda inscripción que se haga en este registro deberá expresar las circunstancias siguientes:
+ARTICULO 3,070.- Toda inscripción que se haga en los folios de bienes muebles deberá expresar los datos siguientes:
 
-I.- Los nombres y domicilios de los contratantes.
+I.- Los nombres de los contratantes;
 
-II.- La naturaleza del mueble con la (sic) circunstancias o señales que sirvan para identificarlo de manera indubitable.
+II.- La naturaleza del mueble con la característica o señales que sirvan para identificarlo de manera indubitable;
 
-III.- El precio y forma de pago estipulados con el contrato, y en su caso, el importe del crédito garantizado con la prenda.
+III.- El precio y forma de pago estipulados en el contrato, y, en su caso, el importe del crédito garantizado con la prenda;
 
 IV.- La fecha en que se practique y la firma del registrador.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+(REUBICADO, D.O.F. 3 DE ENERO DE 1979)
 
-### CAPITULO V (SIC). Del registro de personas morales
+### CAPITULO V. Del registro de personas morales
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,065.- En el registro de las personas morales se inscribirán:
+ARTICULO 3,071.- En los folios de las personas morales se inscribirán:
 
-I.- Los instrumentos por los que se constituyan, reformen o disuelvan las sociedades y asociaciones civiles, y sus estatutos.
+I.- Los instrumentos por los que se constituyan, reformen o disuelvan las sociedades y asociaciones civiles y sus estatutos;
 
-II.- Los instrumentos que contenga la protocolización de los estatutos de asociaciones y sociedades extranjeras de carácter civil, y de sus reformas, cuando se haya comprobado el registrador que existe la autorización a que alude el artículo 2337.
+II.- Los instrumentos que contengan la protocolización de los estatutos de asociaciones y sociedades extranjeras de carácter civil y de sus reformas, cuando haya comprobado el registrador que existe la autorización a que se refiere el artículo 2736 de este Código; y
 
-III.- Las fundaciones de beneficiencia (sic) privada.
+III.- Las fundaciones y asociaciones de beneficiencia (sic) privada.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,066.- Las inscripciones referentes a la constitución de personas morales, deberán contener las circunstancias siguientes:
+ARTICULO 3,072.- Las inscripciones referentes a la constitución de personas morales, deberán contener los datos siguientes:
 
-I.- El nombre de los otorgantes.
+I.- El nombre de los otorgantes;
 
-II.- La razón social o denominación.
+II.- La razón social o denominación;
 
-III.- El objeto, duración y domicilio.
+III.- El objeto, duración y domicilio;
 
-IV.- El capital social, si lo hubiere, y la aportación con que cada socio debe contribuir.
+IV.- El capital social, si lo hubiere y la aportación con que cada socio deba contribuir;
 
-V.- La manera de distribuirse las utilidades y pérdidas, en su caso.
+V.- La manera de distribuirse las utilidades y pérdidas, en su caso;
 
-VI.- El nombre de los administradores y las facultades que se les otorguen.
+VI.- El nombre de los administradores y las facultades que se les otorguen;
 
-VII.- El carácter de los socios y su responsabilidad ilimitada cuando la tuvieren.
+VII.- El carácter de los socios y de su responsabilidad ilimitada cuando la tuvieren; y
 
 VIII.- La fecha y la firma del registrador.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,067.- Las demás inscripciones que se practiquen en el registro de las personas morales, expresarán los datos esenciales del acto o contrato, según resulten del título respectivo.
+ARTICULO 3,073.- Las demás inscripciones que se practiquen en los folios de las personas morales, expresarán los datos esenciales del acto o contrato, según resulten del título respectivo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,068.- Las inscripciones que se practiquen en los registros de operaciones sobre bienes muebles y de personas morales, no producirán más efectos que los señalados en los artículos 2310, fracción II, 2312, 2673, 2694 y 2859 y les serán aplicables a estos registros las disposiciones relativas al de bienes inmuebles, en cuanto sean compatibles con la naturaleza de los actos o contratos materia del presente capítulo y con los efectos que las inscripciones producen.
+ARTICULO 3,074.- Las inscripciones que se practiquen en los folios relativos a bienes muebles y personas morales no producirán más efectos que los señalados en los artículos 2310, fracción II; 2312, 2673, 2694 y 2859 de este Código, y les serán aplicables a los registros las disposicoines (sic) relativas a los bienes inmuebles, en cuanto sean compatibles con la naturaleza de los actos o contratos materia de éste y del anterior capítulo y con los efectos que las inscripciones producen.
 
 ###### Art. 153.
 
@@ -13499,7 +13737,7 @@ Serán también propios de cada uno de los consortes los salarios, sueldos, emol
 
 ###### ARTICULO 214.
 
-Cada uno de los cónyuges debe contribuir a la educación y alimentación de los hijos y a las demás cargas del matrimonio, de acuerdo con lo dispuesto en el artículo 164.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1974)
 
 ### CAPITULO III. De la legitimación
 
@@ -13601,15 +13839,15 @@ Cuando el padre o la madre reconozcan separadamente a un hijo, no podrán revela
 
 El Juez del Registro Civil, el juez de primera instancia en su caso, y el notario que consientan en la violación del artículo que precede, será (sic) castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro por un término que no baje de dos ni exceda de cinco años.
 
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 372.
 
-La mujer casada podrá reconocer sin el consentimiento del marido a su hijo habido antes de su matrimonio; pero no tendrá derecho a llevarlo a vivir a la habitación conyugal, si no es con el consentimiento expreso del esposo.
+El cónyuge podrá reconocer al hijo habido antes de su matrimonio sin el consentimiento del otro cónyuge; pero no tendrá derecho a llevarlo a vivir a la habitación conyugal si no es con la anuencia expresa de éste.
 
 ###### ARTICULO 373.
 
-El marido podrá reconocer a un hijo habido antes de su matrimonio o durante éste; pero no tendrá derecho de llevarlo a vivir a la habitación conyugal, si no es con el consentimiento expreso de la esposa.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1974)
 
 ###### ARTICULO 374.
 
@@ -13693,9 +13931,13 @@ Si los padres hubieren fallecido durante la menor edad de los hijos, tienen ést
 
 El hijo reconocido por el padre, por la madre, o por ambos, tiene derecho:
 
-I.- A llevar el apellido del que lo reconoce;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
 
-II.- A ser alimentado por éste;
+I.- A llevar el apellido paterno de sus progenitores, o ambos apellidos del que lo reconozca;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+
+II.- A ser alimentado por las personas que lo reconozcan;
 
 III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
@@ -13841,9 +14083,11 @@ Las resoluciones que dicten los jueces, aprobando la revocación, se comunicará
 
 Los bienes que los cónyuges adquieran en común por donación, herencia, legado, por cualquier otro título gratuito o por don de la fortuna, entre tanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en este caso el que administre será considerado como mandatario.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 216.
 
-Ni el marido podrá cobrar a la mujer, ni ésta a aquél, retribución u honorario alguno por los servicios personales que le prestare, o por los consejos y asistencia que le diere; pero si uno de los consortes por causas de ausencia o impedimento del otro, no originado por enfermedad, se encargue temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y al resultado que produjere.
+Ni el marido podrá cobrar a la mujer ni ésta a aquél retribución u honorario alguno por los servicios personales que le prestare, o por los consejos o asistencia que le diere.
 
 ###### ARTICULO 217.
 
@@ -13853,7 +14097,9 @@ El marido y la mujer que ejerzan la patria potestad se dividirán entre sí, por
 
 El marido responde a la mujer y ésta a aquél, de los daños y perjuicios que le cause por dolo, culpa o negligencia.
 
-## ARTICULOS TRANSITORIOS.
+## ARTICULOS TRANSITORIOS
+
+> <small>(REFORMADO, D.O.F. 1o. DE SEPTIEMBRE DE 1932)</small>
 
 ###### ARTICULO 1o.
 
@@ -14637,39 +14883,19 @@ La enumeración de estos derechos no tiene por objeto limitar, desigualar ni neg
 
 En el Estado de Nuevo León la libertad del hombre no tiene más límite que la prohibición de la ley. De la ley emanan la autoridad de los que gobiernan y las obligaciones de los gobernados. En consecuencia, el ejercicio de la Autoridad debe limitarse a las atribuciones determinadas en las leyes.
 
-###### ARTICULO PRIMERO
+###### ARTICULO PRIMERO.
 
-Esta Ley comenzará a surtir sus efectos el día primero de enero de 1928.
+Esta ley entrará en vigor a los quince días de su publicación en el "Diario Oficial" de la Federación.
 
-###### ARTICULO SEGUNDO
+###### ARTICULO SEGUNDO.
 
-En los Ayuntamientos donde faltare algún Regidor o Síndico, el día primero de enero de 1928, lo designarán los mismos, de conformidad con el artículo 124 de la Constitución Política Local, para estar en todo de acuerdo con el Art. 2° de la Ley de Gobierno Interior de los Municipios reformada.
+Queda derogado el Título Octavo del Libro Segundo del Código Civil vigente y todas las disposiciones que se opongan a la presente Ley, excepto para regir las violaciones ocurridas antes de la vigencia de ésta.
 
-P.O. 28 DE ABRIL DE 1928.
+D.O.F. 27 DE FEBRERO DE 1951.
 
-DECRETO NÚMERO 60
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
-
-P.O. 28 DE ABRIL DE 1928.
-
-DECRETO NÚMERO 62.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
-
-P.O. 12 DE MAYO DE 1928.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
-
-P.O. 31 DE OCTUBRE DE 1928.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
-
-P.O. 12 DE MAYO DE 1937.
-
-UNICO:- Las anteriores reformas no afectarán la elección que se verificará el domingo 25 del próximo mes de julio del presente año, para Diputados Federales y Locales, así como Miembros del Supremo Tribunal de Justicia del Estado.
-
-P.O. 22 DE JULIO DE 1942.
+D.O.F. 18 DE ENERO DE 1952.
 
 ###### ARTICULO 1o.
 
@@ -14721,91 +14947,11 @@ DECRETO QUE REFORMA LA FRACCIÓN VIII DEL ARTICULO 511 DEL CÓDIGO CIVIL PARA EL
 
 ###### ARTICULO SEGUNDO.
 
-Estas reformas empezarán a regir el día de su publicación en el Periódico Oficial del Estado.
+Quedan derogadas las disposiciones legales que se opongan al presente Decreto y se abroga el que reforma varios artículos del Código Civil para el Distrito Federal, en Materia Común, y para toda la República, en Materia Federal, así como el Título II de la Tercera Parte del Libro Cuarto de este mismo Código, de fecha 31 de diciembre de 1951 publicado en el "Diario Oficial" de la Federación el 18 de enero de 1952.
 
-P.O. 30 DE DICIEMBRE DE 1942.
+###### ARTICULO PRIMERO.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
-
-P.O. 23 DE JUNIO DE 1943.
-
-> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL "DECRETO No. 73 INTERPRETACIÓN AUTÉNTICA DEL INCISO b) DEL ARTÍCULO 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
-
-PRIMERO:— De los términos del Decreto Número 40 publicado en el Periódico Oficial de 22 de Julio de 1942, reformando los Artículos 46, 48, 49, 84, 90, 91 y 123 de la Constitución Política del Estado; de la redacción específica del Inciso b) del artículo 84 y del sentido general del Decreto, se entiende que la prohibición que establece dicha disposición legal se refiere a los períodos constitucionales de seis años que empezarán a contar a partir del 4 de Octubre de 1949; pues para el próximo que se inicie el 4 de Octubre de 1943 rigen las reglas contenidas en la Fracción III, Inciso b) del Artículo 115 de la Constitución General de la República.
-
-SEGUNDO: — En consecuencia: A contar del 4 de Octubre de 1946, nadie que haya ocupado el puesto de Gobernador provisional o interinamente, o con cualquier otro carácter durante los segundos tres años de un período Gubernamental podrá ser electo para ese mismo cargo en el período Constitucional inmediato.
-
-TERCERO :— En la forma que antecede queda interpretada Jurídicamente la disposición contenida en el Inciso b) del Artículo 84 de la Constitución Política del Estado y fijado su alcance por el H. Congreso Local.
-
-P.O. 30 DE ABRIL DE 1947.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
-
-P.O. 29 DE SEPTIEMBRE DE 1948.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
-
-P.O. 11 DE MAYO DE 1949.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
-
-P.O. 6 DE JUNIO DE 1951.
-
-(REPUBLICADO, P.O. 4 DE JULIO DE 1951)
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
-
-P.O. 30 DE ABRIL DE 1952.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
-
-P.O. 28 DE ABRIL DE 1954.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
-
-P.O. 21 DE MAYO DE 1960.
-
-UNICO.- Este decreto comenzará a surtir sus efectos el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 9 DE JUNIO DE 1962.
-
-UNICO:- Este Decreto comenzará a surtir sus efectos una vez hecha su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 15 DE MAYO DE 1965.
-
-UNICO:- Este decreto entrará en vigor el día de su publicación en el PERIODICO OFICIAL del Estado.
-
-P.O. 26 DE JUNIO DE 1965.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
-
-P.O. 14 DE DICIEMBRE DE 1966.
-
-PRIMERO:- Estas reformas empezarán a tener vigencia para que surtan sus efectos a tono con los motivos que las impulsan, a partir del día de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO:- Dentro de la segunda quincena del mes de septiembre de mil novecientos sesenta y siete, se procederá a hacer la designación de los Magistrados y aprobado su nombramiento se designarán los Jueces de Letras. El Poder Judicial así designado entrará en ejercicio de sus funciones el día cuatro de octubre del mismo año, previa la protesta de Ley correspondiente.
-
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 1967)</small>
-
-TERCERO:- Las prevenciones contenidas en los artículos 63 Fracción XXII, 66 Fracción VII, 97, 98, 100 Fracción II y 103, reformados, tendrán aplicación por una sola vez por lo que a nombramientos se refiere; y en lo sucesivo, solamente, cuando se presente el caso de faltas absolutas de los funcionarios judiciales por las diversas causas previstas en las propias reformas.
-
-P.O. 3 DE JUNIO DE 1967.
-
-UNICO:- Esta adición surtirá sus efectos el día de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 15 DE JUNIO DE 1968.
-
-PRIMERO: Salvo lo dispuesto en el artículo segundo siguiente, estas reformas empezarán a tener vigencia el día de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO: La fracción XIX del Artículo 63; la fracción II del Artículo 66 y la fracción XXVI del Artículo 85 reformadas por este decreto entrarán en vigor hasta en tanto se dicte la Ley Reglamentaria de la nueva fracción XXVI del Artículo 85, y simultáneamente con la promulgación y vigencia de dicha ley; entre tanto subsistirá en vigor el texto actual de las fracciones objeto de reforma.
-
-TERCERO: El primer informe correspondiente al presente sexenio, se rendirá por el Ejecutivo en la sesión del Congreso del 16 de septiembre próximo; y el 1o. de marzo del siguiente año, al iniciarse el período de sesiones del Congreso, se rendirá el informe a que se refiere el artículo 57 reformado.
-
-P.O. 1o. DE ENERO DE 1969.
-
-###### ARTICULO PRIMERO
-
-- Se autoriza al C. Licenciado Eduardo A. Elizondo Lozano para retirarse de su cargo el 1o. de Agosto de 1973, acortando así su período constitucional en dos meses y tres días.
+El presente decreto, por lo que hace al Registro Público entrará en vigor al tercer día de su publicación en el "Diario Oficial" de la Federación y, por lo que hace al sistema que habrá de seguirse en la Oficina Central y en los Juzgados del Registro Civil, treinta días después de su publicación en el propio "Diario Oficial".
 
 ###### ARTICULO SEGUNDO
 
@@ -14837,9 +14983,13 @@ P.O. 29 DE SEPTIEMBRE DE 1976.
 
 DECRETO NÚMERO 6
 
-###### ARTICULO PRIMERO
+###### ARTICULO PRIMERO.
 
-- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+El presente Ordenamiento entrará en vigor 90 días después de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE DICIEMBRE DE 1983.
+
+DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL (ARTICULO 17); DEL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL, DE LA LEY ORGANICA DE LOS TRIBUNALES DE JUSTICIA DEL FUERO COMUN DEL DISTRITO FEDERAL; Y DEL CODIGO DE COMERCIO.
 
 ###### ARTICULO SEGUNDO
 
@@ -14849,9 +14999,19 @@ P.O. 29 DE SEPTIEMBRE DE 1976.
 
 DECRETO NÚMERO 7
 
-###### ARTICULO PRIMERO
+###### ARTICULO PRIMERO.
 
-- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+El presente ordenamiento entrará en vigor el día 1o. de octubre de 1984.
+
+D.O.F. 7 DE FEBRERO DE 1985.
+
+DECRETO DE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES RELACIONADAS CON INMUEBLES EN ARRENDAMIENTO.
+
+TRANSITORIO PRIMERO.- Los contratos celebrados con anterioridad a la promulgación del presente decreto continuarán en vigor respecto al término pactado por las partes.
+
+DECRETO DE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES RELACIONADAS CON INMUEBLES EN ARRENDAMIENTO.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO SEGUNDO
 
@@ -14937,27 +15097,11 @@ UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicaci�
 
 P.O. 12 DE FEBRERO DE 1982.
 
-###### ARTICULO UNICO
+###### ARTICULO UNICO.
 
-- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+La presente reforma entrará en vigor al tercer día de su publicación en el "Diario Oficial" de la Federación.
 
-P.O. 12 DE MARZO DE 1982.
-
-UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 27 DE MAYO DE 1983.
-
-UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 28 DE DICIEMBRE DE 1983.
-
-DECRETO QUE REFORMA EL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN.
-
-UNICO:- EL presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 28 DE DICIEMBRE DE 1983.
-
-DECRETO QUE REFORMA Y ADICIONA LOS ARTÍCULOS 30, 63, FRACCIONES VI Y XLIII, 85 FRACCIONES VI, XVIII, 119,120, 121, 124, 126 Y 131 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN.
+D.O.F. 28 DE ENERO DE 1970.
 
 ###### ARTICULO PRIMERO
 
@@ -14967,71 +15111,21 @@ DECRETO QUE REFORMA Y ADICIONA LOS ARTÍCULOS 30, 63, FRACCIONES VI Y XLIII, 85 
 
 - Se derogan todas las disposiciones que se opongan a la presente Ley.
 
-###### ARTICULO TERCERO
+###### ARTICULO TERCERO.
 
-- Las contribuciones locales y las participaciones a que se refiere expresamente el Artículo 119 y que no estuvieren comprendidas en la presente Ley de Ingresos, se percibirán por los Municipios a partir del primero de enero de 1984.
+Las disposiciones de este decreto se aplicarán a los actos, contratos, títulos y documentos de fecha anterior a su vigencia, siempre que no sean en perjuicio de los interesados.
 
-P.O. 29 DE OCTUBRE DE 1984.
+###### ARTICULO UNICO.
 
-UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+El presente decreto surtirá sus efectos a los tres días de su publicación en el "Diario Oficial" de la Federación.
 
-P.O. 14 DE DICIEMBRE DE 1984.
+D.O.F. 24 DE MARZO DE 1971.
 
-UNICO:- ESTE DECRETO ENTRARÁ EN VIGOR EL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+###### ARTICULO UNICO.
 
-P.O. 28 DE DICIEMBRE DE 1984.
+Este decreto entrará en vigor en la misma fecha que las reformas a la Ley Orgánica de Tribunales de Justicia del Fuero Común del Distrito y Territorios Federales, aprobadas por el H. Congreso de la Unión en el presente período extraordinario de sesiones.
 
-PRIMERO.- Como consecuencia de esta Reforma Constitucional, el Reglamento vigente para el Gobierno Interior del Honorable Congreso del Estado, aprobado por Decreto No. 101 de fecha 29 de mayo de 1958, tendrá carácter de Ley Orgánica del Poder Legislativo y expresamente se aprueba la modificación del título.
-
-SEGUNDO.- El presente Decreto entrará en vigor el día primero de enero de 1985, previa la publicación en el Periódico Oficial del Estado.
-
-P.O. 1 DE MARZO DE 1985.
-
-###### ARTICULO UNICO
-
-- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 30 DE OCTUBRE DE 1985.
-
-UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 13 DE ABRIL DE 1987.
-
-###### ARTICULO UNICO
-
-- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 7 DE OCTUBRE DE 1987.
-
-UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 14 DE OCTUBRE DE 1987.
-
-UNICO:- El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 13 DE ABRIL DE 1988.
-
-UNICO:- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 9 DE NOVIEMBRE DE 1990.
-
-DECRETO NÚMERO 148, QUE REFORMA EL ARTÍCULO 53, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN.
-
-UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 9 DE NOVIEMBRE DE 1990.
-
-DECRETO NÚMERO 149, QUE REFORMA EL ARTÍCULO 63 FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN.
-
-UNICO:- El presente Decreto entrará en vigor, el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 9 DE NOVIEMBRE DE 1990.
-
-DECRETO QUE REFORMA EL ARTÍCULO 10 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN.
-
-UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 27 DE DICIEMBRE DE 1990.
+D.O.F. 4 DE ENERO DE 1973.
 
 ###### ARTICULO PRIMERO
 
@@ -15045,9 +15139,21 @@ P.O. 27 DE DICIEMBRE DE 1990.
 
 - El Congreso del Estado, por mayoría absoluta, por esta única vez hará la designación de un Gobernador de Transición que cubra el período del primero de agosto al tres de octubre de mil novecientos noventa y siete. El Ciudadano electo deberá reunir los requisitos constitucionales para ocupar el cargo.
 
-###### ARTICULO CUARTO
+###### ARTICULO CUARTO.
 
-- Los miembros del Ayuntamiento con ejercicio a partir del mes de enero de mil novecientos noventa y dos por esa única vez concluirán sus labores el treinta de octubre de mil novecientos noventa y cuatro.
+Al entrar en vigor el presente decreto en el Distrito Federal, el Director del Registro Público hará entrega al encargado del Archivo General de Notarías de los testamentos ológrafos depositados en el citado Registro Público, mediante acta que contenga la relación detallada de los mismos y de los libros e índices en que consten anotados.
+
+D.O.F. 31 DE DICIEMBRE DE 1982.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE DICIEMBRE DE 1983.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES CONTENIDAS EN EL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL, Y EN EL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL.
 
 ###### ARTICULO QUINTO
 
@@ -15141,35 +15247,55 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 14 DE JUNIO DE 1996.
 
-###### ARTICULO UNICO
+###### ARTICULO UNICO.
 
-- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
-P.O. 18 DE OCTUBRE DE 1996.
+D.O.F. 14 DE MARZO DE 1973.
 
-DECRETO NÚMERO 272, QUE REFORMAN LOS ARTÍCULOS 36 FRACCIÓN IV, 41, 42, 43...
+###### ARTICULO UNICO.
 
-###### ARTICULO UNICO
+Este decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
 
-- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+D.O.F. 28 DE DICIEMBRE DE 1973.
 
-P.O. 18 DE OCTUBRE DE 1996.
+PRIMERO.- Las presentes reformas entrarán en vigor treinta días después de su publicación en el "Diario Oficial" de la Federación.
 
-DECRETO NÚMERO 273, QUE DEROGA EL ARTÍCULO 130.
+SEGUNDO.- Al entrar en vigor el Decreto de 31 de Diciembre de 1951, publicado en el "Diario Oficial" el 18 de Enero de 1952, el Artículo 3018 que se reforma en este Decreto, tomará el número que le corresponda.
 
-###### ARTICULO UNICO
+TERCERO.- Se derogan las disposiciones legales que se opongan al contenido de este Decreto.
 
-- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+D.O.F. 23 DE DICIEMBRE DE 1974.
 
-P.O. 21 DE MAYO DE 1997.
+###### ARTICULO UNICO.
 
-UNICO:- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
 
-P.O. 2 DE SEPTIEMBRE DE 1998.
+D.O.F. 31 DE DICIEMBRE DE 1974.
 
-Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+UNICO.- El presente Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
 
-P.O. 14 DE SEPTIEMBRE DE 1998.
+D.O.F. 22 DE DICIEMBRE DE 1975.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1975.
+
+UNICO.- El presente Decreto entrará en vigor a los treinta días de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 29 DE JUNIO DE 1976.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 29 DE DICIEMBRE DE 1976.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a los treinta días de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 3 DE ENERO DE 1979.
 
 ###### ARTÍCULO PRIMERO.
 
