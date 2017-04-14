@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-salud-del-estado-de-quintana-roo-12303"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2015-12-15"
+last_updated: "2017-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SALUD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -143,6 +143,12 @@ XXI.- Las demás que establezca la Ley General de Salud, sus Reglamentos, acuerd
 
 XXII. El tratamiento integral del dolor.
 
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2017)</small>
+
+XXIII.- Participar con las autoridades federales, estatales, municipales y con los sectores sociales públicos y privados del Estado, en promover, apoyar y coordinar las acciones de prevención, detección, atención y rehabilitación del cáncer de mama. La rehabilitación incluirá la reconstrucción mamaria para toda mujer a la que se le haya realizado una mastectomía como tratamiento del cáncer de mama.
+
+Lo anterior bajo los lineamientos que en materia de coordinación se establecen en la Ley General y sus reglamentos, así como las normas técnicas que sobre esta materia dicte la Secretaría de Salud Federal u otros ordenamientos legales.
+
 B.- En materia de Salubridad Local:
 
 I.- Mercados y Centros de Abasto;
@@ -259,9 +265,9 @@ XV.- Impulsar la permanente actualización de las disposiciones legales en mater
 
 XVI. Coordinar y gestionar la obtención de recursos nacionales e internacionales para el fortalecimiento del Fondo Estatal de Salud y de los programas de salud locales;
 
-> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
 
-XVII. Proponer, elaborar y suscribir acuerdos o convenios para la obtención de recursos nacionales e internacionales para el fortalecimiento del Fondo Estatal de Salud y los programas de salud locales, y
+XVII. Proponer, elaborar y suscribir acuerdos o convenios para la obtención de recursos nacionales e internacionales para el fortalecimiento del Fondo Estatal de Salud, los programas de salud locales y los programas de salubridad general en materia de prevención, detección, atención y rehabilitación del cáncer de mama. La rehabilitación incluirá la reconstrucción mamaria para toda mujer a la que se le haya realizado una mastectomía como tratamiento del cáncer de mama, y
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -549,17 +555,19 @@ Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la exte
 
 Para la organización y administración de los servicios de salud, se definirán los criterios de distribución de universos de usuarios, de regionalización y de escalonamiento de los servicios, así como universalización de cobertura y de colaboración institucional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2017)</small>
+
 ###### ARTICULO 29.
 
-Para los efectos de derecho a la protección de la salud, se consideran servicios básicos de salud, los referentes a:
+Para los efectos del derecho a la protección de la salud, se consideran servicios básicos de salud, los referentes a:
 
 I.- La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias del ambiente;
 
 II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria; de las no transmisibles más frecuentes y de los accidentes;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
 
-III.- La atención médica integral, que comprende actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias;
+III.- La atención médica integral, que comprende actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias y la reconstrucción mamaria como rehabilitación para toda mujer a la que se le haya realizado una mastectomía como tratamiento del cáncer de mama.
 
 IV.- La atención materno infantil;
 
@@ -608,6 +616,14 @@ II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporci
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2010)</small>
 
 III.- De rehabilitación, que incluye acciones tendientes a facilitar que una persona con discapacidad alcance un nivel físico, mental y sensorial óptimo para compensar la pérdida de una función, así como proporcionarle una mejor integración social.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2017)</small>
+
+Tratándose de las personas que deban ser rehabilitadas como consecuencia del cáncer de mama, éstas tendrán que ser previamente evaluadas para determinar el tipo de rehabilitación integral que requieran.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2017)</small>
+
+Si de la evaluación médica se desprende que se requiere la reconstrucción de mama, las instituciones públicas de salud en el Estado, llevarán a cabo las acciones para cumplir con esta disposición.
 
 > <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
@@ -680,6 +696,14 @@ Para los efectos de esta Ley, se considera usuario de servicios de salud, a toda
 ###### ARTICULO 44.
 
 Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de calidad idónea y a recibir atención profesional y éticamente responsable, así como trato respetuoso y digno de los profesionales, técnicos y auxiliares.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2017)</small>
+
+Asimismo, tendrán derecho a recibir información suficiente, clara, oportuna, y veraz, así como la orientación que sea necesaria respecto de su salud y sobre los riesgos, efectos y alternativas de los procedimientos, diagnósticos terapéuticos, quirúrgicos y de rehabilitación que se le indiquen o apliquen.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2017)</small>
+
+Tratándose de usuarios a los que se les haya realizado una mastectomía, tendrán derecho a recibir información suficiente, clara, oportuna y veraz para acceder a la reconstrucción mamaria gratuita como proceso de rehabilitación.
 
 ###### ARTICULO 45.
 
@@ -835,15 +859,15 @@ III. Un plan de trabajo que establezca acciones, plazos y zonas de competencia p
 
 La Secretaría de Salud del Gobierno del Estado será la encargada de la difusión del Programa de Atención Integral de la Mujer en el Estado.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ABRIL DE 2017)</small>
 
-#### SECCION SEGUNDA. DE LA PREVENCION, DETECCIÓN Y ATENCIÓN DEL CÁNCER EN LA MUJER
+#### SECCIÓN SEGUNDA. DE LA PREVENCIÓN, DETECCIÓN, ATENCIÓN Y REHABILITACIÓN DEL CÁNCER EN LA MUJER
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 61-C.
 
-Es obligación del Estado, a través de la Secretaría de Salud del Gobierno del Estado, establecer las acciones específicas y programas de prevención, detección y atención del cáncer en la mujer, de manera integral y multidisciplinaria.
+Es obligación del Estado, a través de la Secretaría de Salud, establecer las acciones específicas y programas de prevención, detección, atención y rehabilitación del cáncer en la mujer, de manera integral y multidisciplinaria.
 
 > <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
@@ -861,23 +885,23 @@ III. Capacitar a los prestadores de servicios de salud público y privado para l
 
 IV.- Difundir en los diversos centros educativos del Estado las medidas de prevención del cáncer en la mujer.
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 61-E.
 
-En los programas de prevención, detección y atención del cáncer en la mujer se debe cumplir con las Normas Oficiales Mexicanas en la materia y los estándares de calidad y eficiencia de acuerdo a las normas establecidas.
+En los programas de prevención, detección, atención y rehabilitación del cáncer en la mujer, se debe cumplir con las Normas Oficiales Mexicanas en la materia y los estándares de calidad y eficiencia de acuerdo a las normas establecidas
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 61-F.
 
-La Secretaría de Salud del Gobierno del Estado debe disponer de la infraestructura, equipo de vanguardia, recursos humanos y financieros para garantizar la correcta prevención, atención y detección de los casos de cáncer diagnosticados en la mujer.
+La Secretaría de Salud del Gobierno del Estado debe disponer de la infraestructura, equipo de vanguardia, recursos humanos y financieros para garantizar la correcta prevención, detección, atención y rehabilitación de los casos de cáncer diagnosticados en la mujer.
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 61-G.
 
-La prevención, detección y atención del cáncer en la mujer debe ser de carácter integral y multidisciplinaria para disminuir la morbimortalidad por esta enfermedad entre las mujeres.
+La prevención, detección, atención y rehabilitación del cáncer en la mujer debe ser de carácter integral y multidisciplinaria para disminuir la morbimortalidad por esta enfermedad entre las mujeres.
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
@@ -3629,7 +3653,7 @@ El patrimonio del Fondo se podrá destinar a:
 
 I. A la adquisición de material de curación para la prestación de los servicios básicos de salud;
 
-II. Al mejoramiento de la infraestructura de las unidades medidas (sic) de los servicios de salud locales, y
+II. Al mejoramiento de la infraestructura de las unidades (sic) medidas de los servicios de salud locales, y
 
 III. A sufragar los gastos que origine su administración.
 
@@ -3776,3 +3800,17 @@ P.O. 15 DE DICIEMBRE DE 2015.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+P.O. 14 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 050 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los procedimientos quirúrgicos de reconstrucción mamaria gratuita, derivados de una mastectomía como tratamiento del cáncer de mama, previstos en el presente Decreto, entrarán en vigor cuando se cuente en el Estado con la infraestructura, material quirúrgico y personal altamente capacitado, para llevar a cabo dichos procedimientos. Lo anterior sin exceder el plazo de tres años, contados a partir del día siguiente de la entrada en vigor del presente Decreto.
+
+Tercero.- El Poder Ejecutivo del Estado, dispondrá con un plazo de 90 días naturales contados a partir de la publicación en el Periódico Oficial del Estado del presente Decreto, para hacer las adecuaciones reglamentarias correspondientes.
+
+Cuarto.- El Poder Ejecutivo del Estado y el Poder Legislativo del Estado, preverán lo conducente en la asignación de recursos presupuestales anuales a favor de la Secretaría de Salud del Estado, a fin de que en términos de lo dispuesto por el artículo 61 F se cuente con la infraestructura, equipo de vanguardia, recursos humanos y financieros para garantizar la correcta prevención, detección, atención y rehabilitación de los casos de cáncer diagnosticados en la mujer, necesarios para dar cumplimiento al presente Decreto.
+
+Quinto.- En tanto entra en vigor lo dispuesto por el artículo 61-F de la presente Ley y se da cumplimiento a lo dispuesto por los artículos segundo y cuarto transitorio del presente Decreto, continuarán llevándose a cabo los programas de reconstrucción mamaria que se implementen en el Estado, derivados de los convenios de colaboración entre las diversas autoridades tanto estatales, como con instituciones públicas y privadas, dedicadas a la materia objeto del presente Decreto.
