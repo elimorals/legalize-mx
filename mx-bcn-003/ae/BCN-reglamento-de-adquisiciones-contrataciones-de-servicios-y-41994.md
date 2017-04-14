@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-adquisiciones-contrataciones-de-servicios-y-41994
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-03"
-last_updated: "2011-01-14"
+last_updated: "2017-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,13 @@ state: "BCN"
 ---
 # REGLAMENTO DE ADQUISICIONES, CONTRATACIONES DE SERVICIOS Y ARRENDAMIENTOS PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA
 
+> <small>[N. DE E. EL 14 DE ABRIL DE 2017 SE PUBLICÓ EN EL PERIÓDICO OFICIAL EL ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE REFORMA A LOS ARTÍCULOS 4, 11, 19, 21, Y 36 DEL REGLAMENTO DE ADQUISICIONES, CONTRATACIONES DE SERVICIOS Y ARRENDAMIENTOS PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA; EN EL NÚMERO 17, PÁGINAS DE LA 24 A LA 26, ASÍ COMO SU REPUBLICACIÓN EN LA MISMA FECHA DE NÚMERO 18, PÁGINAS DE LA 24 A LA 26.]</small>
+
 REGLAMENTO DE ADQUISICIONES, CONTRATACIONES DE SERVICIOS Y ARRENDAMIENTOS PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2017.
+
+(REPUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2017)
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 03 de diciembre de 2004.
 
@@ -113,9 +117,11 @@ XI) Adjudicación Directa.- Es la asignación de un contrato que no requiere som
 
 XII) Convocatoria Publica.- Es la invitación que se hace a personas físicas o morales para la adquisición de un bien o prestación de un servicio, bajo ciertas condiciones y que se publica en prensa escrita, edictos, medios electrónicos, etc.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
+
 ###### ARTICULO 4.
 
-DE LAS AUTORIDADES: Compete la aplicación del presente Reglamento al Ayuntamiento, Presidente Municipal, al Síndico Municipal, al Oficial Mayor, al Tesorero y al Jefe del Departamento de Recursos Materiales, constituidos en el Comité de Compras o en lo individual. Así como a los titulares de las dependencias o entidades, quienes estarán sujetos a las obligaciones que para ello se establezca en el presente ordenamiento.
+DE LAS AUTORIDADES: Compete la aplicación del presente Reglamento al Ayuntamiento, Presidente Municipal, al Síndico Municipal, al Oficial Mayor, al Tesorero, al Secretario del Ayuntamiento y al Jefe del Departamento de Recursos Materiales, constituidos en el Comité de Compras o en lo individual. Así como a los titulares de las dependencias o entidades, quienes estarán sujetos a las obligaciones que para ello se establezca en el presente ordenamiento.
 
 En caso de que se presenten situaciones no previstas en este reglamento, estará facultado para resolverlas el (sic) breve termino, e interpretar el mismo, el Comité de Compras.
 
@@ -187,11 +193,13 @@ DE LA COMPRA: La compra de bienes inmuebles se realizara exclusivamente por Acue
 
 COMITÉ DE COMPRAS.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
+
 ###### ARTICULO 11.
 
-DE SU INTEGRACIÓN: El Comité de Compras sé integrara en la siguiente forma:
+DE SU INTEGRACIÓN: El Comité de Compras sé integrará en la siguiente forma:
 
-I) Para la Administracion Municipal Centralizada:
+I). Para la Administración Pública Municipal Centralizada:
 
 1. El Oficial Mayor, quien lo preside.
 
@@ -199,25 +207,27 @@ I) Para la Administracion Municipal Centralizada:
 
 3. El Titular de la dependencia solicitante.
 
-4. El Sindico Procurador.
+4. El Síndico Procurador.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2011)</small>
+5. El Regidor Coordinador de la Comisión de Hacienda y Administración Pública.
 
-5. El Regidor Coordinador y el Regidor Secretario de la Comisión de Hacienda y Administración Pública.
+6. El Secretario del Ayuntamiento.
 
-6. El Jefe del Departamento de Recursos Materiales.
+7. El Jefe del Departamento de Recursos Materiales.
 
-II) Para las entidades de la Administración Paramunicipal, el Comité se integrara de la siguiente forma:
+II). Para la Administración Pública Municipal Descentralizada, el Comité se integrará de la siguiente forma:
 
-1. El titular de la entidad, quien lo presidirá.
+1. El titular de la entidad, quien lo presidirá;
 
-2. El encargado del área administrativa.
+2. El encargado del área administrativa,
 
-3. El encargado del área solicitante, y El comisario o su equivalente en el organismo.
+3. El encargado del área solicitante; y
 
-El Jefe del Departamento de Recursos Materiales actuara como Secretario Técnico y en el caso de los organismos descentralizados el que designe el propio Comité.
+4. El comisario o su equivalente en el organismo.
 
-Los integrantes del Comité de Compras, a excepción del Secretario Técnico podrán autorizar algunos de sus subordinados para que los represente en una sesión en particular o en lo general. En caso de ausencia del jefe del Departamento de Recursos Materiales, el Oficial Mayor designara a quien deba suplirlo.
+El Jefe del Departamento de Recursos Materiales actuará como Secretario Técnico y en el caso de los organismos descentralizados el que designe el propio Comité.
+
+Los integrantes del Comité de Compras, a excepción del Secretario Técnico podrán autorizar algunos de sus subordinados para que los represente en una sesión en particular o en lo general. En caso de ausencia del jefe del Departamento de Recursos Materiales, el Oficial Mayor designará a quien deba suplirlo.
 
 ###### ARTICULO 12.
 
@@ -323,17 +333,19 @@ IV) Se evaluara la capacidad de respuesta para suministrar los bienes, servicios
 
 V) Se evaluara en general, el cumplimiento oportuno de los proveedores en cuanto a sus obligaciones contractuales, a efecto de tomar las medidas preventivas o correctivas que se estimen convenientes.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
+
 ###### ARTICULO 19.
 
-DEL PROCEDIMIENTO: Toda Adquisición de bienes, servicios o arrendamientos se realizará bajo uno de los siguientes procedimientos:
+DEL PROCEDIMIENTO: Toda Adquisición de bienes, servicios o arrendamiento se realizará bajo uno de los siguientes procedimientos:
 
-I) Por Licitación Publica cuando su monto exceda del importe de 4,000 veces el Salario Mínimo General Vigente en el Estado de Baja California (SMG).
+I. Por Licitación Pública cuando su monto exceda del importe de 13,000 veces el Salario Mínimo General Vigente en el Estado de Baja California (SMG).
 
-II) Por Invitación Restringida de entre sus proveedores, cuando su monto rebase el importe de las 2,000 veces el SMG y menor de 4,000 veces el SMG.
+II. Por Invitación Restringida de entre sus proveedores, cuando su monto rebase el importe de las 4,000 veces el SMG y menor de 13,000 veces el SMG.
 
-III) Por Adjudicación Directa entre sus proveedores, procurando recabar cuando menos 3 cotizaciones, cuando su monto no exceda del importe de 2,000 veces el SMG.
+III. Por Adjudicación Directa entre sus proveedores, cuando su monto no exceda del importe de 4,000 veces el SMG.
 
-Las asignaciones que deriven de los procedimientos indicados en las fracciones I y II, será (sic) emitidas por el Comité de Compras; en tanto que las adjudicaciones directas indicadas en la fracción III serán realizadas por el Departamento de Recursos Materiales o el área administrativa de la entidad para municipal que corresponda.
+Las asignaciones que deriven de los procedimientos indicados en las fracciones I y II, serán emitidas por el Comité de Compras; en tanto que las adjudicaciones directas indicadas en la fracción III serán realizadas por el Departamento de Recursos Materiales o el área administrativa de la entidad Paramunicipal que corresponda.
 
 ###### ARTICULO 20.
 
@@ -343,11 +355,13 @@ Son ordinarias, aquellas adquisiciones que en forma regular y periódica se pued
 
 Son adquisiciones urgentes, aquellas derivadas de emergencia por situaciones de seguridad publica o protección civil, así como imprevistos derivados de caso (sic) fortuitos o fuerza mayor, mismas que podrán ser adjudicadas directamente por el Presidente del Comité de Compras, en términos del articulo 34 del presente ordenamiento.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
+
 ###### ARTICULO 21.
 
-DE LOS LINIAMIENTOS (SIC) PARA LA ADQUISICIÓN ORDINARIAS (SIC) DE BIENES Y SERVICIOS: Las adjudicaciones ordinarias de bienes, servicios o arrendamientos, se realizaran con base a los siguientes liniamientos (sic):
+DE LOS LINEAMIENTOS PARA LA ADQUISICIÓN ORDINARIA DE BIENES Y SERVICIOS: Las adjudicaciones ordinarias de bienes, servicios o arrendamientos, se realizarán con base a los siguientes lineamientos:
 
-I) La Oficialía Mayor formulara anualmente el Programa General de Adquisiciones, tomando como base el presupuesto de egresos autorizado, el programa de equipamiento y el historial de compras del ayuntamiento; las adquisiciones se programaran tomando en cuenta:
+I. La Oficialía Mayor formulará anualmente el Programa General de Adquisiciones, tomando como base el presupuesto de egresos autorizado, el programa de equipamiento y el historial de compras del Ayuntamiento; Las adquisiciones se programarán tomando en cuenta:
 
 A) Las necesidades del abastecimiento del Ayuntamiento;
 
@@ -355,9 +369,9 @@ B) El mínimo de existencias en el almacén para garantizar el abasto, y
 
 C) La organización de las adquisiciones por procedimientos y por calendario, cuidando de no incurrir en desabasto o suspensión de servicios.
 
-La parte del programa de adquisiciones que se ejecutaran por conducto del Comité de Compras, se enviara a cada uno de los integrantes, con el fin de que se analicen para efecto de determinar las bases de las convocatorias y los requisitos de contenido y forma en cada caso.
+La parte del programa de adquisiciones que se ejecutaran por conducto del Comité de Compras, se enviará a cada uno de los integrantes, con el fin de que se analicen para efecto de determinar las bases de las convocatorias y los requisitos de contenido y forma en cada caso.
 
-II) Para decidir la compra de bienes, servicios o arrendamientos, se tomara en consideración entre otros los siguientes elementos:
+II. Para decidir la compra de bienes, servicios o arrendamientos, se tomará en consideración entre otros lo (sic) siguientes elementos:
 
 A) La existencia en almacén en relación con los índices de consumo, la disponibilidad en el mercado y tiempo de entrega;
 
@@ -367,11 +381,13 @@ C) La oportunidad de la compra, en relación con los recursos financieros dispon
 
 D) La existencia de una partida expresa señalada en el presupuesto, así como que se cuente con un saldo disponible al momento de recibir la orden de pedido.
 
-III) En los procedimientos de adquisición de bienes muebles, contratación de servicios o arrendamientos, se establecerán los mismo (sic) requisitos y condiciones para todos los participantes, especialmente en cuanto a tiempo, forma y lugar de entrega y/o pago, penas convencionales, anticipos y garantías, debiéndose proporcionar a los interesados igual acceso a la información relacionada con dichos procedimientos.
+III. En los procedimientos de adquisición de bienes muebles, contratación de servicios o arrendamientos, se establecerán los mismo (sic) requisitos y condiciones para todos los participantes, especialmente en cuanto a tiempo, forma y lugar de entrega y/o pago, penas convencionales, anticipos y garantías, debiéndose proporcionar a los interesados igual acceso a la información relacionada con dichos procedimientos.
 
-IV) Las asignaciones derivadas de los procedimientos de licitación publica e invitación restringida se hará para que libremente se presenten proposiciones solventes en sobres cerrados, que será abierto públicamente a fin de asegurar al Municipio o entidad paramunicipal respectiva, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes de acuerdo a lo establecido en el presente reglamento.
+IV. Las asignaciones derivadas de los procedimientos de licitación pública e invitación restringida se hará para que libremente se presenten proposiciones solventes en sobres cerrados, que será abierto públicamente a fin de asegurar al Municipio o entidad paramunicipal respectiva, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes de acuerdo a lo establecido en el presente reglamento.
 
-V) El Comité de Compras promoverá los mecanismos necesarios a efectos (sic) de que en la conducción de los procedimientos se puedan aplicar los instrumentos electrónicos que faciliten el acceso a las bases de los concursos, así como la presentación de propuestas o cotizaciones, dictándose las políticas, bases y liniamientos (sic) conducentes.
+V. El Comité de Compras promoverá los mecanismos necesarios a efectos (sic) de que en la conducción de los procedimientos se puedan aplicar los instrumentos electrónicos que faciliten el acceso a las bases de los concursos, así como la presentación de propuestas o cotizaciones, dictándose las políticas, bases y lineamientos conducentes.
+
+VI. Las adjudicaciones directas deberán de regirse en base a lo establecido en el artículo 19 y 36 del presente Reglamento.
 
 ###### ARTICULO 22.
 
@@ -589,17 +605,19 @@ DE LAS EXCEPCIONES; Las asignaciones a que se refieren las fracciones II, IV y V
 
 En los demás casos previo dictamen del área requirente el Comité de Compras decidirá la asignación.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
+
 ###### ARTICULO 36.
 
 DE LOS MONTOS: El Departamento de Recursos Materiales o área administrativa correspondiente en las entidades paramunicipales, estará facultado para tramitar y decidir las adjudicaciones directas por cuantía en los términos siguientes:
 
-I) Cuando la asignación no exceda de 250 veces el Salario Mínimo General vigente en el Estado de Baja California (SMG), bastaran tres cotizaciones telefónicas.
+I. Cuando la asignación tenga un precio unitario de adquisición antes de impuestos igual o mayor a 35 salarios mínimos y no exceda de 250 veces el salario mínimo general vigente en el estado de baja california (SMG), se procurarán tres cotizaciones telefónicas.
 
-II) Cuando la asignación exceda de 250 veces el SMG, pero no exceda de 2,000 veces el SMG, bastaran tres cotizaciones vía fax o correo electrónico con acuse de recibo.
+II. Cuando la asignación exceda de 250 veces el SMG, pero no exceda de 4,000 veces el SMG, bastaran tres cotizaciones vía fax o correo electrónico con acuse de recibo.
 
-El funcionario encargado, asentara de su puño y letra, en el expediente que deberá llevarse como control de estos tramites, las circunstancias del caso tales como: Nombre de proveedores consultados, hora, fecha y precios cotizados, así como los documentos recibidos.
+El funcionario encargado, asentará de su puño y letra, en el expediente que deberá llevarse como control de estos trámites, las circunstancias del caso tales como: Nombre de proveedores consultados, hora, fecha y precios cotizados, así como los documentos recibidos.
 
-Las cotizaciones que se entreguen para las asignaciones dentro del rango que se establece en la fracción II, del presente articulo, podrán recibirse directamente en el Departamento de Recurso Materiales o en las áreas administrativas en las entidades paramunicipales.
+Las cotizaciones que se entreguen para las asignaciones dentro del rango que se establece en la fracción II, del presente artículo, podrán recibirse directamente en el Departamento de Recursos Materiales o en las áreas administrativas en las entidades paramunicipales.
 
 ###### ARTICULO 37.
 
@@ -791,10 +809,16 @@ EL SECRETARIO MUNICIPAL
 
 LIC. ROBERTO RODRÍGUEZ VALENZUELA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 14 DE ENERO DE 2011.
 
 PRIMERO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE REFORMA A LOS ARTÍCULOS 4, 11, 19, 21 Y 36 DEL REGLAMENTO DE ADQUISICIONES, CONTRATACIONES DE SERVICIOS Y ARRENDAMIENTOS PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
