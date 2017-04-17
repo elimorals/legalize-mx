@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2017-04-14"
+last_updated: "2017-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -3075,13 +3075,13 @@ A las personas que tienen al menor bajo su patria potestad incumbe la obligació
 
 Cuando llegue a conocimiento de cualquier autoridad administrativa o del juez que aquellas personas que teniendo la patria potestad, la guarda o custodia del menor, no cumplen con las obligaciones que les corresponden, o ejerzan violencia familiar contra él, lo harán saber al Ministerio Público quien promoverá lo que corresponda, y el juez de inmediato, decretará las medidas de protección para aquél.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2017)</small>
 
 ###### Artículo 437.
 
-Quienes ejerzan la patria potestad o tengan menores bajo su seguridad o custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
+Quienes ejerzan la patria potestad o tengan menores bajo su seguridad o custodia, tienen la obligación de cuidar, educar y respetar su integridad física y psicológica, así como observar una conducta que sirva a éstos de buen ejemplo.
 
-La facultad de corregir no implica infligir al menor actos de fuerza que atenten contra su integridad física o psíquica.
+La obligación de educar no implica infligir al menor de edad, actos de fuerza que atenten contra su integridad física o psíquica.
 
 ###### Artículo 438.
 
@@ -16024,3 +16024,9 @@ P.O. 14 DE ABRIL DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- La Dirección del Registro Civil del Estado de Oaxaca, hará las modificaciones a los formatos de las actas del registro civil con motivo de la presente reforma; de igual forma realizará la publicidad necesaria a efecto de dar a conocer a los ciudadanos los efectos de la presente reforma.
+
+P.O. 17 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM 585.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 437 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
