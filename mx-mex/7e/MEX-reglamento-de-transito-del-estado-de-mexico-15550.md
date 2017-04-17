@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-transito-del-estado-de-mexico-15550"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-21"
-last_updated: "2015-11-24"
+last_updated: "2017-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE TRÁNSITO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE ABRIL DE 2017.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 21 de septiembre de 1992.
 
@@ -561,9 +561,9 @@ C) Chofer para servicio público y la tarjeta de identificación personal para o
 
 I.- Pagar los derechos respectivos,
 
-> <small>(REFORMADA, G.G. 12 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, G.G. 17 DE ABRIL DE 2017)</small>
 
-II.- Acta de nacimiento y demostrar ser mayor de 25 años de edad.
+II.- Acta de nacimiento y demostrar ser mayor de 21 años de edad.
 
 III.- Identificación oficial vigente,
 
@@ -1918,5 +1918,15 @@ PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 Tratándose del holograma de verificación vehicular y de la obligación para contar con el seguro de responsabilidad civil su vigencia será a partir del primero de enero de 2016.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
+
+G.G. 17 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE REFORMA LA FRACCIÓN III, INCISO C) DEL ARTÍCULO 43 DEL REGLAMENTO DE TRÁNSITO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
