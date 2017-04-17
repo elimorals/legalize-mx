@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-97482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-17"
-last_updated: "2017-02-24"
+last_updated: "2017-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-01-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2017.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
@@ -2109,7 +2109,7 @@ III. Para juzgados de Distrito tres días, con excepción de:
 
 a) Aquellos que integren centros auxiliares, que no tengan facultades para el trámite de los asuntos hasta ponerlos en estado de resolución y que coadyuven a otros órganos en el dictado de sentencias, caso en el cual la duración será de un día;
 
-b) Aquellos que integren centros auxiliares, que tengan facultades para el trámite de los asuntos hasta ponerlos en estado de resolución, caso en el cual la duración será de dos días;
+b) (DEROGADO, D.O.F. 17 DE ABRIL DE 2017)
 
 c) Los juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación, y para los juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, supuesto en el que la duración será de un día; el cual deberá ser laborable para el personal del órgano jurisdiccional, procurando su realización en horas hábiles; y
 
@@ -3256,3 +3256,11 @@ PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. La Dirección General de Estadística Judicial y la Dirección General de Tecnologías de la Información, en coordinación con la Visitaduría Judicial, adoptarán las medidas necesarias para que, en su caso, se adecuen los sistemas informáticos al contenido de este Acuerdo.
+
+D.O.F. 17 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DEROGA EL INCISO B) DE LA FRACCIÓN III DEL ARTÍCULO 232 DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA DURACIÓN DE LAS VISITAS ORDINARIAS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
