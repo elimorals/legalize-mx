@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-superior-de-auditoria-y-67621
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-15"
-last_updated: "2009-01-15"
+last_updated: "2017-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO SUPERIOR DE AUDITORIA Y FISCALIZACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN, PUBLICADO EN EL B.O. DE 17 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO SUPERIOR DE AUDITORIA Y FISCALIZACION
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE ABRIL DE 2017 (DEROGADO).
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 15 de enero de 2009.
 
@@ -668,3 +670,17 @@ Dado en la sede del Instituto Superior de Auditoría y Fiscalización, en la ciu
 El Auditor Mayor
 
 CPC. Eugenio Pablos Antillón
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 17 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DEL INSTITUTO SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN."]
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga el Reglamento Interior del Instituto Superior de Auditoría y Fiscalización, publicado en el Boletín Oficial del Gobierno del Estado de Sonora con fecha 15 de enero de 2009 y Fe de Erratas publicadas el 26 de enero de 2009, y demás disposiciones que se opongan a la Ley de Fiscalización Superior para el Estado de Sonora y el presente Reglamento.
