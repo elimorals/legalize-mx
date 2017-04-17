@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ciencia-tecnologia-e-innovacion-para-el-estado-de-61073"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-12"
-last_updated: "2010-03-04"
+last_updated: "2017-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY DE CIENCIA, TECNOLOGIA E INNOVACION PARA EL ESTADO DE OAXACA - (ANTES LEY DE CIENCIA Y TECNOLOGIA PARA EL ESTADO DE OAXACA) -
 
-LEY DE CIENCIA Y TECNOLOGIA PARA EL ESTADO DE OAXACA
+LEY DE CIENCIA Y TECNOLOGÍA PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de abril de 2008.
 
@@ -185,6 +185,10 @@ XV. Tres representantes de las instituciones de investigación, propuestos por l
 
 XVI. Secretario de la Contraloría, en carácter de Comisario.
 
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2017)</small>
+
+XVII.- El Presidente de la Comisión Permanente de Ciencia, Tecnología e Innovación del Honorable Congreso del Estado, Vocal.
+
 ###### ARTÍCULO 8.
 
 El Consejo Oaxaqueño de Ciencia y Tecnología tendrá las funciones y atribuciones generales siguientes:
@@ -241,7 +245,7 @@ XXIV. Aprobar el proyecto de reglamento que regule su funcionamiento y operació
 
 XXV. Establecer las condiciones necesarias y suficientes para la permanencia en el Estado del capital humano formado con los recursos económicos del COCyT;
 
-XXVI. Promover incentivos fiscales y/o económicos que faciliten la vinculación entre los diversos sectores productivos con las instituciones de educación superior del Estado, con el fin de propiciar la investigación y el desarrollo tecnológico, así como la transferencia de tecnología; y (sic)
+XXVI. Promover incentivos fiscales y/o económicos que faciliten la vinculación entre los diversos sectores productivos con las instituciones de educación superior del Estado, con el fin de propiciar la investigación y el desarrollo tecnológico, así como la transferencia de tecnología; y
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2010)</small>
 
@@ -719,8 +723,14 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. TEOFILO MANUEL GARCÍA CORPUS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 4 DE MARZO DE 2010.
 
 ÚNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 584.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 7 DE LA LEY DE CIENCIA Y TECNOLOGÍA PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
