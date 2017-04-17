@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-36-2014-del-pleno-del-consejo-de-la-103553"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-11-19"
-last_updated: "2016-10-25"
+last_updated: "2017-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103553&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-11-12"
 
 ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2017.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 19 de noviembre de 2014.
 
@@ -167,33 +167,25 @@ En todo caso el juez de Distrito que funja como Administrador, cuando ejerza fun
 
 Invariablemente, para poder llevar a cabo la sustitución, deberá observarse lo previsto en el artículo 350 del Código.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2017)</small>
 
 ###### Artículo 9.
 
 El personal de confianza de la Administración del Centro será seleccionado mediante los cursos de capacitación que al efecto imparta el Instituto de la Judicatura, conforme a las bases que defina el Pleno.
 
-Al concluir el curso, el Instituto de la Judicatura comunicará a la Dirección General de Recursos Humanos la lista de resultados aprobatorios, por cada categoría, dentro del curso impartido.
+Al concluir el curso, el Instituto de la Judicatura comunicará a los jueces de Distrito la lista de resultados aprobatorios, por cada categoría, dentro del curso impartido.
 
-La Dirección General de Recursos Humanos expedirá el nombramiento inicial a la persona que obtenga las calificaciones más altas en la categoría respectiva, dentro del curso que al efecto se imparta.
+Cada juez de Distrito será el responsable del nombramiento del asistente correspondiente, con funciones de despacho judicial o constancias y registro según sea el caso, el cual se otorgará a quien hubiere aprobado el curso respectivo y estará a su disposición con independencia de que posteriormente asuma funciones de administrador, control o enjuiciamiento.
 
-En caso de que existan vacantes de forma ulterior, el nombramiento se expedirá al siguiente participante de la lista a que se refiere este artículo, siempre y cuando el candidato manifieste su aceptación. En caso contrario, el nombramiento se expedirá en favor del siguiente participante que manifieste su aceptación.
+Los nombramientos serán expedidos por el juez en funciones de administrador.
 
-De no existir candidatos para cubrir las vacantes, el Instituto de la Judicatura convocará a un nuevo curso de capacitación.
-
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2017)</small>
 
 ###### Artículo 10.
 
-El nombramiento inicial del personal de confianza dependiente del Administrador, será de tres meses, salvo en los siguientes casos:
+Los juzgadores autorizarán la expedición del nombramiento de los demás servidores públicos que estén adscritos al Centro, incluyendo las plazas vacantes y temporales, en su caso, mediante consenso mayoritario.
 
-I. Que el nombramiento se expida a favor del servidor público que cubra algún tipo de licencia u ocupe una plaza temporal. En este caso el nombramiento no podrá ser menor de siete días;
-
-II. Que la propuesta de nombramiento contenga características especiales, debidamente fundadas y motivadas, mismas que deberán ser informadas por el Administrador, mediante escrito dirigido a la Dirección General de Recursos Humanos; y
-
-III. Que el servidor público con antigüedad en el puesto de seis meses, cause baja por renuncia o por fin de nombramiento y el Administrador le extienda nuevo nombramiento en el mismo puesto. En este caso se elaborará de forma indefinida, siempre y cuando no exista interrupción entre ambos nombramientos.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)</small>
+En caso de empate, el juez en funciones de administrador contará con voto de calidad.
 
 ###### Artículo 11.
 
@@ -802,3 +794,11 @@ D.O.F. 25 DE OCTUBRE DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 17 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 9 Y 10 DEL ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN MATERIA DE NOMBRAMIENTOS DE LOS SERVIDORES PÚBLICOS ADSCRITOS A LOS CENTROS DE JUSTICIA PENAL FEDERAL".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
