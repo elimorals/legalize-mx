@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-responsabilidades-de-los-servidores-publicos-del-69094"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2016-04-01"
+last_updated: "2017-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS ARTÍCULO SEGUNDO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE QUERÉTARO Y ARTÍCULO SEGUNDO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE QUERÉTARO, PUBLICADAS EN LOS P.O. DE 1 DE ABRIL DE 2016 Y 18 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 1 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2016 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -984,3 +984,21 @@ Artículo Cuarto. Los actos o conductas constitutivas de responsabilidad adminis
 Artículo Quinto. Dentro del plazo de 30 días contados a partir del inicio de vigencia de la presente Ley, el titular del Poder Ejecutivo del Estado de Querétaro expedirá el Código de Ética de los Servidores Públicos del Estado de Querétaro.
 
 Artículo Sexto. El Poder Legislativo del Estado de Querétaro realizará la adecuación de su marco normativo, en los términos que correspondan, en concordancia con el presente ordenamiento legal.
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA " LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el mismo día en que entre en vigor la Ley General de Responsabilidades Administrativas, publicada en el Diario Oficial de la Federación el 18 de julio de 2016.
+
+Artículo Segundo. Se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro publicada en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” el 26 de junio de 2009, salvo lo previsto en el Artículo Cuarto Transitorio de esta Ley.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo previsto en la presente Ley.
+
+Artículo Cuarto. En tanto entra en vigor la Ley a que se refiere el Artículo Primero Transitorio de esta Ley, continuará aplicándose la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro publicada en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” el 26 de junio de 2009.
+
+Artículo Quinto. Los procedimientos administrativos iniciados por las autoridades estatales y municipales con anterioridad a la entrada en vigor de la presente Ley, serán concluidos conforme a las disposiciones aplicables vigentes al momento en que se iniciaron.
+
+Artículo Sexto. Las obligaciones previstas en la presente Ley, cuyo cumplimiento se encuentre sujeto a la entrada en vigor de la Ley General de Responsabilidades Administrativas, serán exigibles, cuando así lo establezcan las disposiciones jurídicas aplicables.
+
+Artículo Séptimo. Los Ayuntamientos, en el ámbito de su competencia, deberán expedir las disposiciones jurídicas y realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en la presente Ley.
