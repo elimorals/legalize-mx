@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2016-12-21"
+last_updated: "2017-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -101,11 +101,35 @@ III. La práctica del parto por vía de cesárea, existiendo condiciones para qu
 
 IV. El uso de métodos anticonceptivos o esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer;
 
-V. El obstaculizar sin causa médica justificada el apego precoz del niño o niña con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+V. El obstaculizar sin causa médica justificada el apego precoz del niño o niña con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer;
 
-g) Diversa: cualquier forma análoga que lesione la dignidad, integridad o libertad de la mujer.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+g) Diversa: cualquier forma análoga que lesione la dignidad, integridad o libertad de la mujer; y
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+h) Política: es toda acción u omisión basadas en elementos de género y dadas en el marco del ejercicio de los derechos político-electorales, que tengan por objeto o resultado menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos de las mujeres. Se consideran actos de violencia política, entre otros, aquellos que:
+
+I. Impongan por estereotipos de género la realización de actividades y tareas ajenas a las funciones y atribuciones de su cargo;
+
+II. Asignen responsabilidades de género que tengan como resultado la limitación del ejercicio de la función político-pública;
+
+III. Eviten por cualquier medio que las mujeres electas, titulares o suplentes, o designadas a una función pública, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres;
+
+IV. Impidan o restrinjan su reincorporación al cargo cuando hagan uso de una licencia justificada;
+
+V. Restrinjan el uso de la palabra, en las sesiones u otras reuniones y su participación en comisiones, comités y otras instancias inherentes a su cargo, conforme a la reglamentación establecida;
+
+VI. Impongan sanciones injustificadas, impidiendo o restringiendo el ejercicio de sus derechos políticos;
+
+VII. Discriminen a la autoridad electa designada o en el ejercicio de la función político-pública, por encontrarse en estado de embarazo o parto;
+
+VIII. Divulguen o revelen información personal y privada, de las mujeres candidatas, electas, designadas o en el ejercicio de funciones político-públicas, con el objetivo de menoscabar su dignidad como seres humanos y utilizar la misma para obtener contra su voluntad la renuncia o licencia al cargo que ejercen o postulan; y
+
+IX. Cualquier otro acto que limite o restrinja la participación política de las mujeres.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -768,6 +792,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 21 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-104 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 33 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS; FRACCIÓN IV DEL ARTÍCULO 32 BIS DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, ASÍ COMO EL PÁRRAFO 2 DEL ARTÍCULO 5 DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-151 MEDIANTE EL CUAL SE REFORMA EL INCISO F), FRACCIÓN V Y EL INCISO G); Y SE ADICIONA UN INCISO H) CON LAS FRACCIONES I A LA IX, DEL ARTÍCULO 3, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
 
 ###### ARTÍCULO ÚNICO.
 
