@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-rural-sustentable-del-estado-de-tamaulipas-88
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-04"
-last_updated: "2016-12-13"
+last_updated: "2017-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 4 de julio de 2012.
 
@@ -169,9 +169,17 @@ XXVI. Seguridad Alimentaria: El abasto oportuno, suficiente e incluyente de alim
 
 XXVII. Sistema-Producto: El conjunto de elementos y agentes concurrentes en el proceso productivo de un producto básico o estratégico determinado, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
 
-XXVIII. Sociedad Rural: Conjunto de personas que realizan diversas actividades vinculadas al campo; y,
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XXIX. Unidad Rural Familiar: La forma de organización económica fincada en el trabajo familiar, mediante la explotación de los recursos naturales, alternada con otras actividades desarrolladas dentro y fuera de la unidad de producción.
+XXVIII. Sociedad Rural: Conjunto de personas que realizan diversas actividades vinculadas al campo;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XXIX. Unidad Rural Familiar: La forma de organización económica fincada en el trabajo familiar, mediante la explotación de los recursos naturales, alternada con otras actividades desarrolladas dentro y fuera de la unidad de producción; y,
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XXX. Unidad Agrícola Industrial de la Mujer: Superficie de tierra destinada por la Asamblea Ejidal, colindante a la zona de urbanización, a fin de establecer industrias rurales que tiendan a incorporar los servicios de la mujer campesina.
 
 ### CAPÍTULO II. DE LA POLÍTICA DE ESTADO PARA EL DESARROLLO RURAL SUSTENTABLE
 
@@ -217,9 +225,17 @@ XII. Fortalecer la certidumbre en las transacciones y decisiones que lleven a ca
 
 XIII. Promover el incremento de recursos financieros disponibles para el desarrollo rural sustentable del Estado, incluyendo el mejoramiento de la calidad y la suficiencia del gasto público; la creación y regulación de condiciones para la canalización de inversiones de los particulares y el acceso a recursos crediticios;
 
-XIV. Fomentar la producción de cultivos alternativos de mayor rentabilidad, integrar cadenas productivas y proyectos que den valor agregado a la producción primaria; y,
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XV. Promover la concurrencia de los órdenes de gobierno y sectores en la gestión del desarrollo rural.
+XIV. Fomentar la producción de cultivos alternativos de mayor rentabilidad, integrar cadenas productivas y proyectos que den valor agregado a la producción primaria;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XV. Promover la concurrencia de los órdenes de gobierno y sectores en la gestión del desarrollo rural; y,
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XVI. Fortalecer la organización social y productiva de la mujer rural.
 
 ###### ARTÍCULO 7.
 
@@ -301,9 +317,15 @@ XV. Autorizar, en el ámbito de su competencia, la movilización de productos y 
 
 XVI. Otorgar los recursos necesarios para el funcionamiento de los Consejos Estatal y Distritales, a fin de fortalecer el sector rural;
 
-XVII. Coadyuvar con las autoridades competentes en la política hidroagrícola del sector rural; y,
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XVIII. Las demás que le confieran la normatividad aplicable.
+XVII. Coadyuvar con las autoridades competentes en la política hidroagrícola del sector rural;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XVIII. Impulsar la organización social y productiva de las mujeres del campo; y,
+
+XIX. Las demás que le confieran la normatividad aplicable.
 
 ###### ARTÍCULO 11.
 
@@ -391,9 +413,15 @@ VIII. Integrar, presentar y promover el Programa Municipal de Desarrollo Rural S
 
 IX. Promover, concertar y elevar a bando municipal, el ordenamiento de los componentes rurales del territorio;
 
-X. Otorgar los recursos necesarios para el funcionamiento de los Consejos Municipales, a fin de fortalecer el sector rural; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XI. Las demás que le confiera la normatividad aplicable.
+X. Otorgar los recursos necesarios para el funcionamiento de los Consejos Municipales, a fin de fortalecer el sector rural;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XI. Promover la participación en el sector rural a fin de fomentar la integración de Unidades Agrícolas Industriales de la Mujer; y,
+
+XII. Las demás que le confiera la normatividad aplicable.
 
 ### CAPÍTULO II. DE LOS CONSEJOS PARA EL DESARROLLO RURAL SUSTENTABLE
 
@@ -761,9 +789,15 @@ XXXIII. Diseño de programas para la integración de fondos concurrentes para el
 
 XXXIV. Diseño de proyectos estratégicos de desarrollo rural sustentable a nivel regional y municipal;
 
-XXXV. Establecer la creación de fondos para la contratación de seguros contra contingencias climatológicas; y,
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XXXVI. Las demás que determine el titular del Poder Ejecutivo del Estado.
+XXXV. Establecer la creación de fondos para la contratación de seguros contra contingencias climatológicas;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XXXVI. Fomentar la organización social y productiva de las mujeres en el medio rural; y,
+
+XXXVII. Las demás que determine el titular del Poder Ejecutivo del Estado.
 
 ###### ARTÍCULO 42.
 
@@ -989,9 +1023,17 @@ El desarrollo agroindustrial será coordinado por la Secretaría, con la concurr
 
 I. Elaborar el programa estatal de desarrollo agroindustrial y someterlo a consideración del Consejo Estatal;
 
-II. Promover y fomentar la inversión en la industrialización de productos estratégicos; y,
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-III. Acercar a la sociedad rural a los programas estatales y federales de desarrollo empresarial y fomento.
+II. Promover y fomentar la inversión en la industrialización de productos estratégicos;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+III. Acercar a la sociedad rural a los programas estatales y federales de desarrollo empresarial y fomento; y,
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+IV. Elaborar el programa estatal de desarrollo agroindustrial con perspectiva de género dirigido a las Unidades Agrícolas Industriales de la Mujer.
 
 ### CAPÍTULO II. DE LA COMPETITIVIDAD DEL SECTOR RURAL
 
@@ -1157,9 +1199,17 @@ V. Promocionar y articular los sistemas producto, para lograr una vinculación e
 
 VI. Aumentar la cobertura y calidad de los procesos de capacitación que estimulen y apoyen a los productores en el desarrollo rural, promoviendo la diversificación de las actividades económicas, la constitución y consolidación de empresas rurales y la generación de empleo;
 
-VII. Promocionar, mediante la participación y el compromiso de las organizaciones sociales y económicas, el mejor uso y destino de los recursos naturales para preservar y mejorar el medio ambiente, atendiendo los criterios de sustentabilidad previstos en esta Ley; y,
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-VIII. Fortalecer las unidades rurales familiares y de los grupos de trabajo de las mujeres y jóvenes rurales.
+VII. Promocionar, mediante la participación y el compromiso de las organizaciones sociales y económicas, el mejor uso y destino de los recursos naturales para preservar y mejorar el medio ambiente, atendiendo los criterios de sustentabilidad previstos en esta Ley;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+VIII. Fortalecer las unidades rurales familiares y de los grupos de trabajo de las mujeres y jóvenes rurales; y,
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+IX. Fortalecer las Unidades Agrícolas Industriales de la Mujer.
 
 ###### ARTÍCULO 90.
 
@@ -1520,6 +1570,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 13 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-150 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4 FRACCIONES XXVIII Y XXIX; 6 FRACCIONES XIV Y XV; 10 FRACCIÓN XVII; 17 FRACCIÓN X; 41 FRACCIÓN XXXV; 74 FRACCIONES II Y III; Y 89 FRACCIONES VII Y VIII; Y SE ADICIONAN UNA FRACCIÓN XXX AL ARTÍCULO 4; FRACCIÓN XVI AL ARTÍCULO 6; FRACCIÓN XVIII, RECORRIÉNDOSE LA ACTUAL XVIII PARA SER XIX AL ARTÍCULO 10; FRACCIÓN XI, RECORRIÉNDOSE LA ACTUAL XI PARA SER XII AL ARTÍCULO 17; FRACCIÓN XXXVI, RECORRIÉNDOSE LA ACTUAL XXXVI PARA SER XXXVII AL ARTÍCULO 41; UNA FRACCIÓN IV AL ARTÍCULO 74; Y UNA FRACCIÓN IX AL ARTÍCULO 89, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS.”]
 
 ###### ARTÍCULO ÚNICO.
 
