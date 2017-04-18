@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-114905"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-30"
-last_updated: "2016-05-30"
+last_updated: "2017-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -31,7 +31,9 @@ FRANCISCO DOMÍNGUEZ SERVIÉN, Gobernador del Estado de Querétaro, a los habita
 
 LA QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO…
+CONSIDERANDO
+
+[…]
 
 Por lo anteriormente expuesto y fundado, la Quincuagésima Octava Legislatura del Estado de Querétaro expide la siguiente:
 
@@ -245,7 +247,9 @@ VII. Determinar las adscripciones de los magistrados a las salas para la integra
 
 VIII. Nombrar a los servidores judiciales del Tribunal Superior de Justicia comprendidos en las categorías de carrera judicial; determinar su adscripción de acuerdo con las necesidades del servicio; aprobar la suspensión, destitución o terminación de los efectos del nombramiento en términos de las disposiciones legales aplicables;
 
-IX. Tomar la protesta de ley a los jueces;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+IX. Tomar la protesta de ley a los jueces designados o ratificados;
 
 X. Acordar la división del territorio del Estado en distritos judiciales, modificar la jurisdicción territorial y competencia de los juzgados en materia o cuantía, así como ampliar o reducir el número de distritos judiciales, a propuesta del Consejo de la Judicatura.
 
@@ -275,7 +279,9 @@ XX. Aplicar las sanciones por responsabilidad administrativa y, en su caso, resa
 
 XXI. Acordar licencias a los magistrados para separarse del cargo por más de 15 días;
 
-XXII. Aprobar el proyecto del presupuesto anual de egresos del Poder Judicial y acordar las bases para su distribución;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XXII. Aprobar el proyecto del presupuesto anual de egresos del Poder Judicial y acordar las bases generales para su distribución, entre lo que corresponde ejercer al Tribunal Superior de Justicia y al Consejo de la Judicatura;
 
 XXIII. Supervisar el funcionamiento de las salas y demás dependencias del Tribunal Superior de Justicia;
 
@@ -297,7 +303,9 @@ Los criterios adoptados, deberán ser publicados y difundidos, en un boletín ju
 
 Los criterios adoptados conforme a esta fracción, vincularán al Poder Judicial;
 
-XXVII. Revisar y, en su caso, revocar los acuerdos que emita el Consejo de la Judicatura, por el voto de diez de sus miembros, en los casos y términos que esta misma Ley establece;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XXVII. Revisar y, en su caso, revocar los acuerdos que emita el Consejo de la Judicatura, por mayoría absoluta, es decir, la mitad mas uno de los integrantes del Pleno, en los casos y términos que esta misma Ley establece;
 
 XXVIII. Solicitar la intervención del Consejo de la Judicatura siempre que sea necesario para la adecuada coordinación y funcionamiento administrativo entre los órganos y áreas del Poder Judicial;
 
@@ -375,17 +383,23 @@ XXVII. Disponer que sean visitados los juzgados del Estado, nombrando para que p
 
 XXVIII. Vigilar el cumplimiento de las garantías jurisdiccionales de autonomía, independencia, imparcialidad y libertad para juzgar;
 
-XXIX. Efectuar la rendición semestral de la cuenta pública a la Entidad Superior de Fiscalización del Estado, previa aprobación que haga el Pleno del Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XXIX. Efectuar la rendición de la cuenta pública a la Entidad Superior de Fiscalización del Estado, previa autorización de su envío que haga el Pleno del Tribunal Superior de Justicia y el Consejo de la Judicatura;
 
 XXX. Designar a los servidores públicos del Tribunal Superior de Justicia, que no sea competencia del Pleno;
 
 XXXI. Comunicar a la Legislatura del Estado, las faltas absolutas de los Magistrados del Tribunal Superior de Justicia, dentro de un plazo de cinco días hábiles, contados a partir de que se tenga conocimiento de la falta que hubiere ocurrido, a fin de que se proceda a la designación del Magistrado correspondiente, en términos de lo dispuesto en la Constitución Política del Estado de Querétaro;
 
-XXXII. Resolver sobre los puntos urgentes que no admitan demora, aun cuando sean de la competencia del Tribunal en Pleno, en los casos en que éste no pudiere reunirse, dando cuenta de lo que hubiere hecho en el Pleno inmediato siguiente, para que éste ratifique o modifique el acuerdo tomado;
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XXXIII. Legalizar las firmas de los funcionarios o servidores públicos del Poder Judicial del Estado; y
+XXXII. Informar a la Legislatura sobre el cese en el cargo de los Magistrados, por cumplimiento del plazo de duración del cargo o por haber llegado a la edad de setenta años, debiendo hacerlo del conocimiento con un mes de anticipación a la fecha que corresponda;
 
-XXXIV. Las demás que le confiera esta Ley, los órganos competentes del Poder Judicial y otras disposiciones aplicables.
+XXXIII. Resolver sobre los puntos urgentes que no admitan demora, aun cuando sean de la competencia del Tribunal en Pleno, en los casos en que éste no pudiere reunirse, dando cuenta de lo que hubiere hecho en el Pleno inmediato siguiente, para que éste ratifique o modifique el acuerdo tomado;
+
+XXXIV. Legalizar las firmas de los funcionarios o servidores públicos del Poder Judicial del Estado; y
+
+XXXV. Las demás que le confiera esta Ley, los órganos competentes del Poder Judicial y otras disposiciones aplicables.
 
 ### Capítulo Cuarto. De las salas
 
@@ -395,9 +409,13 @@ El Tribunal Superior de Justicia funcionará en salas colegiadas o unitarias.
 
 Las salas colegiadas se integrarán cada una de ellas por tres Magistrados y las unitarias por un solo Magistrado.
 
-De acuerdo a la carga de trabajo existente y a las necesidades de servicio, el Pleno determinará la competencia de cada una de ellas, su integración, funcionamiento y atribuciones en los términos de ley.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
-La Sala Constitucional conocerá de los asuntos de esta índole; las salas civiles conocerán de los asuntos civiles, mercantiles y familiares; las salas penales, conocerán de los asuntos de este ramo; y la sala especializada en justicia para adolescentes conocerá de los asuntos de esa materia.
+De acuerdo a la carga de trabajo existente y a las necesidades de servicio, el Pleno determinará el número de salas que deban existir por materia, la competencia de cada una de ellas, su integración, funcionamiento y atribuciones en términos de Ley.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+La sala civil conocerá de los asuntos civiles y mercantiles; la constitucional, familiar, penal y de justicia para adolescentes, conocerán, respectivamente, de los asuntos propios de su materia.
 
 ###### Artículo 28.
 
@@ -433,9 +451,11 @@ Las salas sesionarán en Pleno los días y en el horario que establezca el Regla
 
 #### Sección Primera. De la competencia de las salas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
+
 ###### Artículo 35.
 
-Los Magistrados de las Salas constitucional, civil, penal, especializada en justicia para adolescentes y las auxiliares, en su caso, en Pleno o de manera unitaria, conocerán en su materia:
+Los Magistrados de la Salas, en Pleno o de manera unitaria, conocerán en su materia:
 
 I. De la segunda instancia y de la denegada apelación, en los términos que establecen las leyes;
 
@@ -448,6 +468,14 @@ IV. Las demás que señale esta Ley y otras disposiciones aplicables.
 ###### Artículo 36.
 
 Los integrantes de la Sala Civil resolverán de manera unitaria la denegada apelación, excusas e incompetencias de Jueces y excitativas de justicia. El resto de las resoluciones serán dictadas de manera colegiada.
+
+El Pleno de la Sala, a petición de cualquiera de sus integrantes, podrá ejercer la facultad de atracción para su resolución colegiada, atendiendo a la complejidad y naturaleza del asunto de que se trate.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+###### Artículo 36 Bis.
+
+Los integrantes de la Sala Familiar resolverán de manera unitaria la denegada apelación, excusas e incompetencias de los jueces familiares y excitativas de justicia. El resto de las resoluciones serán dictadas de manera colegiada.
 
 El Pleno de la Sala, a petición de cualquiera de sus integrantes, podrá ejercer la facultad de atracción para su resolución colegiada, atendiendo a la complejidad y naturaleza del asunto de que se trate.
 
@@ -477,11 +505,15 @@ c) La apelación contra resoluciones que concedan o nieguen cualquier tipo de me
 
 d) La apelación derivada de los asuntos seguidos por delitos contra la salud, en la modalidad de narcomenudeo, previstos en la Ley General de Salud, que sean competencia de las autoridades del fuero común, sujetándose a las disposiciones del Código Nacional de Procedimientos Penales, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales.
 
-e) La apelación contra resoluciones emitidas por delitos de prisión preventiva oficiosa, así establecidos en la Constitución Política de los Estados Unidos Mexicanos y el Código Nacional de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+e) La apelación contra resoluciones emitidas en procesos que se sigan por delitos que ameritan prisión preventiva oficiosa o por necesidad de cautela, así establecidos en la Constitución Política de los Estados Unidos Mexicanos y el Código Nacional de Procedimientos Penales.
 
 f) Los recursos en el que les otorgue competencia objetiva esta Ley u otras disposiciones aplicables.
 
-En ambos sistemas, la denegada apelación, excusas e incompetencias de Jueces, se resolverán de manera unitaria, así como las apelaciones y demás recursos procedentes contra las resoluciones de los Jueces de ejecución de sanciones penales.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+En ambos sistemas, el resto de las resoluciones será de conocimiento unitario, incluidas las apelaciones contra resoluciones de los jueces de ejecución de sanciones penales.
 
 La Sala Penal podrá proceder en los mismos términos que establece el segundo párrafo del artículo anterior.
 
@@ -747,13 +779,15 @@ III. Los juzgados penales;
 
 IV. Los juzgados familiares;
 
-V. Los juzgados especializados en justicia para adolescentes;
+V. (DEROGADA, P.O. 18 DE ABRIL DE 2017)
 
 VI. Los juzgados de ejecución de sanciones penales; y
 
 VII. Los juzgados mixtos.
 
-La jurisdicción de primera instancia en el Sistema Penal Acusatorio y Oral, está a cargo de los jueces de control, de juicio y de ejecución, en términos de la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales, la general en materia de ejecuciones penales, de esta Ley y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+La jurisdicción de primera instancia en el Sistema Penal Acusatorio y Oral, está a cargo de los jueces de control y de juicio, incluidos los especializados en justicia penal para adolescentes, así como por los jueces de ejecución, en términos de la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales, la general en materia de adolescentes, de ejecuciones penales, de esta Ley y demás disposiciones aplicables.
 
 ###### Artículo 60.
 
@@ -761,7 +795,9 @@ El Consejo de la Judicatura, determinará el número de juzgados por materia en 
 
 En el Sistema Penal Acusatorio y Oral, determinará el número de jueces de control, de juicio y de ejecución, en los términos de la última parte del primer párrafo de este artículo, así como su incremento atendiendo a dichas necesidades y a la fusión de órganos jurisdiccionales.
 
-El Consejo de la Judicatura autorizará la fusión de órganos jurisdiccionales, para lo cual, deberá emitir un acuerdo que se publicará en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, en el que se especificará:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
+
+El Consejo de la Judicatura ordenará la fusión de órganos jurisdiccionales, previa justificación que se presente al Pleno del Tribunal Superior de Justicia para su autorización. El acuerdo que se emita, deberá publicarse en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", en el que se especificará:
 
 I. El órgano jurisdiccional que absorberá a otro;
 
@@ -875,15 +911,7 @@ V. Los demás asuntos que señale esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 66.
 
-Los juzgados especializados en justicia para adolescentes conocerán de:
-
-I. Los asuntos seguidos en contra de quienes se atribuya la realización de una conducta tipificada como delito y tengan entre doce años cumplidos y menos de dieciocho años de edad, en los términos de la ley especial de la materia;
-
-II. La diligenciación de despachos, exhortos, requisitorias, cartas rogatorias o cualquier otro medio de comunicación procesal, relacionados con los asuntos de su competencia, en los términos previstos en las leyes aplicables;
-
-III. De la etapa de ejecución de la sentencia para modificar las medidas o su duración, así como para determinar u ordenar su cumplimiento; y
-
-IV. Los demás asuntos que señale esta Ley, la ley especializada en la materia y otras disposiciones aplicables.
+(DEROGADO, P.O. 18 DE ABRIL DE 2017)
 
 ###### Artículo 67.
 
@@ -951,9 +979,11 @@ XIV. Informar a los jueces de su materia, respecto de criterios derivados de las
 
 XV. Las demás que les encomiende la presente Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+
 ###### Artículo 72.
 
-Los jueces de primera instancia actuarán ante su Secretario de Acuerdos o, en su defecto, ante el Secretario Auxiliar, según corresponda o, a falta de ambos, ante el Secretario Proyectista, cuando no se designe suplente.
+Los jueces de primera instancia, con excepción de los del Sistema Penal Acusatorio y Oral, actuarán ante su Secretario de Acuerdos o, en su defecto, ante el Secretario Auxiliar, según corresponda o, a falta de ambos, ante el Secretario Proyectista, cuando no se designe suplente.
 
 ###### Artículo 73.
 
@@ -1117,9 +1147,11 @@ Del Sistema Penal Acusatorio y Oral
 
 #### Sección Primera. Disposiciones generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
+
 ###### Artículo 87.
 
-La función jurisdiccional en el Sistema Penal Acusatorio y Oral se ejerce por:
+La función jurisdiccional en el Sistema Penal Acusatorio y Oral, incluida la especializada en justicia penal para adolescentes, se ejerce por:
 
 I. Jueces de Control;
 
@@ -1181,6 +1213,10 @@ III. Las demás que le confiera esta Ley, el Código Nacional de Procedimientos 
 
 Tratándose de solicitudes de medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad que requieran control judicial, los autorizarán en casos de urgencia, por los medios electrónicos que determine el Consejo de la Judicatura y se deberá llevar un registro de todas las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE ABRIL DE 2017)</small>
+
+De igual forma, el Consejo de la Judicatura autorizará los medios electrónicos oficiales a través de los cuales se podrán realizar las notificaciones, citaciones y demás comunicaciones, en los términos que señala el Código Nacional de Procedimientos Penales.
+
 ###### Artículo 91.
 
 Los jueces de juicio, serán órganos unitarios y tendrán las siguientes facultades:
@@ -1211,13 +1247,21 @@ VII. Resolver las peticiones de libertad anticipada y definitiva;
 
 VIII. Atender las quejas que formulen los sentenciados sobre actos de autoridad administrativa que vulneren sus derechos fundamentales;
 
-IX. Visitar los centros de reinserción social, con el fin de cumplir eficazmente sus funciones reportando las irregularidades que adviertan a la autoridad correspondiente;
+IX. (DEROGADA, P.O. 18 DE ABRIL DE 2017)
 
 X. Integrar las actuaciones en el sistema electrónico de gestión correspondiente; y
 
-XI. Los demás asuntos que le señalen las leyes y otros ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XI. Los demás asuntos que le señalen las leyes generales y otros ordenamientos aplicables.
 
 El Juez de ejecución resolverá en audiencia oral todas las peticiones o planteamientos de las partes.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+###### Artículo 92 Bis.
+
+Los jueces de control, de juicio y de ejecución, del Sistema Integral de Justicia Penal para Adolescentes, tendrán las facultades que les confieren la Ley Nacional del Sistema Integral Especializado en Justicia Penal para Adolescentes, esta Ley y demás leyes aplicables.
 
 #### Sección Segunda. De las facultades del Coordinador de gestión jurídico administrativa
 
@@ -1392,6 +1436,20 @@ XIII. Apoyar al Juez para dar indicaciones a las partes y público asistente par
 XIV. Recopilar, revisar y analizar los reportes de control de gestión del juzgado y entregar el informe correspondiente al Coordinador de gestión jurídico administrativa; y
 
 XV. Las demás que determine el Consejo de la Judicatura, esta Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+###### Artículo 98 Bis.
+
+El notificador tendrá la obligación de realizar las notificaciones, citaciones y diligencias ordenadas por los jueces, bajo la responsabilidad de la fe pública.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+###### Artículo 98 Ter.
+
+La Sala Penal del Tribunal Superior de Justicia, contará con el personal auxiliar necesario para el desempeño de las funciones dentro del nuevo Sistema de Justicia Penal Acusatorio y Oral, a efecto de dar cumplimiento a los términos contemplados en las leyes generales en materia procesal penal, de adolescentes y de ejecución.
+
+Deberá contar con un sistema de gestión administrativa separado del sistema tradicional de asignación de tocas.
 
 Capítulo Decimotercero
 
@@ -1615,7 +1673,9 @@ Los acuerdos del Consejo de la Judicatura que deban notificarse, se harán perso
 
 La ejecución de las resoluciones deberá realizarla el órgano que el propio Consejo determine.
 
-Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de las mismas, salvo las que se refieran a la designación, adscripción, ratificación y remoción de jueces, las cuales podrán ser revisadas por el Pleno del Tribunal Superior de Justicia y, en su caso, revocados, por el voto de diez de los integrantes del Pleno.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+Las decisiones del Consejo serán impugnables cuando se refieran a la designación, adscripción, ratificación y remoción de jueces, las cuales podrán ser revisadas por el Pleno del Tribunal Superior de Justicia y, en su caso, revocadas por mayoría absoluta, es decir, la mitad más uno de los integrantes del Pleno.
 
 ###### Artículo 113.
 
@@ -1625,7 +1685,9 @@ Los acuerdos del Pleno del Consejo de la Judicatura, constarán en acta autoriza
 
 Es competencia del Consejo de la Judicatura:
 
-I. Aplicar las sanciones por responsabilidad administrativa al personal del Poder Judicial, a excepción de Magistrados y Jueces. Tratándose del personal del Tribunal Superior de Justicia y considerando que la falta amerite destitución y terminación de los efectos del nombramiento, se dará cuenta al Pleno del Tribunal a efecto de que éste decida lo procedente;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+I. Aplicar las sanciones por responsabilidad administrativa al personal del Poder Judicial, a excepción de Magistrados y personal de segunda instancia;
 
 II. Otorgar estímulos a los servidores públicos del Poder Judicial que se hayan destacado en el desempeño de su cargo;
 
@@ -1735,9 +1797,15 @@ XI. Resolver los asuntos cuya atención no admita demora, debido a su importanci
 
 XII. Rendir los informes previos y justificados por los amparos que se promuevan en contra de los actos y resoluciones del Consejo de la Judicatura;
 
-XIII. Disponer, cuando lo juzgue conveniente, sean visitados los juzgados del Estado, nombrando para que practique la visita al funcionario que para ese fin considere pertinente; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XIV. Las demás que le otorguen esta Ley y la normatividad aplicable.
+XIII. Disponer, cuando lo juzgue conveniente, sean visitados los juzgados del Estado, nombrando para que practique la visita al funcionario que para ese fin considere pertinente;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XIV. Representar al Consejo de la Judicatura del Poder Judicial del Estado, ante el Comité Coordinador del Sistema Estatal Anticorrupción; y
+
+XV. Las demás que le otorguen esta Ley y la normatividad aplicable.
 
 ### Capítulo Segundo. De las Comisiones
 
@@ -2570,3 +2638,13 @@ Juan Martín Granados Torres
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS.]</small>
+
+P.O. 18 DE ABRIL DE 2017.
+
+[TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
