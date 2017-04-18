@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-10428
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2016-12-16"
+last_updated: "2017-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 20 de diciembre de 2014.
 
@@ -255,69 +255,75 @@ La programación y presupuestación de los municipios, se realizará por conduct
 
 Para los efectos del presente Título, se entenderá por:
 
-I. Remuneración: Toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra que al ser pagada se integre al patrimonio personal del servidor público a quien le corresponde;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-II. Percepción: Todo ingreso en efectivo, en especie o en servicios que otorga la administración pública a los servidores públicos por el cumplimiento de funciones, facultades y obligaciones que surgen de un nombramiento, contrato, designación o mandato. Este concepto se encuentra integrado por:
+I. Comité: El Comité Técnico de Remuneraciones de los Servidores Públicos a que se hace mención en los artículos 20 y 21 de esta Ley;
 
-a) Dieta: la que reciben los servidores públicos electos por el ejercicio de sus facultades.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-b) Salario: el que reciben los servidores públicos en contraprestación a sus servicios, sobre el cual se cubre el impuesto sobre la renta y, en su caso, las cuotas de seguridad social.
+II. Remuneración: Toda percepción, incluyendo dieta, sueldo, salario, honorarios asimilables al salario, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales;
 
-c) Prestación en efectivo: toda cantidad, distinta del sueldo, que el servidor público reciba en moneda circulante; estará prevista en el nombramiento, en el contrato o en una disposición legal, como el aguinaldo y la prima vacacional, y que en todo caso quedan gravadas por las disposiciones fiscales aplicables.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-d) Prestación en especie: todo beneficio que el servidor público reciba en bienes distintos de la moneda circulante.
+III. Tabulador: El documento que contenga el dictamen del Comité, en que se fijan las remuneraciones correspondientes a cada plaza;
 
-e) Prestación en servicios: todo beneficio que el servidor público reciba mediante la actividad personal de terceros que dependan o se encuentren vinculados a la administración pública estatal o municipal;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-III. Tabulador: instrumento técnico en que se fijan y ordenan por nivel, categoría, grupo y puesto, las remuneraciones para los servidores públicos;
+IV. Plaza: La clasificación presupuestaria que respalda un puesto, que no puede ser ocupada por más de un servidor público a la vez, y que tiene una adscripción determinada; y
 
-IV. Nivel: la escala de remuneraciones, excluidas las percepciones variables, relativa a los puestos ordenados en una misma categoría;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-V. Categoría: el valor que se da a un puesto de acuerdo con las habilidades, la capacidad de solución de problemas y las responsabilidades requeridas para desarrollar las funciones legales que le corresponden;
+V. Ente Público: Los Poderes del Estado; los municipios, las entidades paraestatales; las entidades paramunicipales; los organismos constitucionales autónomos; y los tribunales administrativos.
 
-VI. Grupo: el conjunto de puestos con la misma jerarquía o categorías similares;
+VI. (DEROGADA, P.O. 18 DE ABRIL DE 2017)
 
-VII. Puesto: la unidad impersonal que describe funciones, implica deberes específicos, delimita jerarquías y autoridad; y
+VII. (DEROGADA, P.O. 18 DE ABRIL DE 2017)
 
-VIII. Plaza: la posición presupuestaria que respalda un puesto, que no puede ser ocupada por más de un servidor público a la vez y que tiene una adscripción determinada.
+VIII. (DEROGADA, P.O. 18 DE ABRIL DE 2017)
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 ###### Artículo 14.
 
-Los servidores públicos de los Poderes y los de los municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, instituciones y organismos constitucionales autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+Los servidores públicos de los entes públicos, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión.
 
-Dicha remuneración será determinada en tabuladores que formarán parte integral de los presupuestos de egresos correspondientes.
+Dicha remuneración será determinada en el tabulador que corresponda al Ente Público de que se trate y se integrará como anexo a los Presupuestos de Egresos respectivos.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 ###### Artículo 15.
 
-Los tabuladores a que hace referencia el artículo precedente, se determinarán anualmente y sólo podrán modificarse por reforma que al efecto haga el órgano competente, cuando en fecha posterior a su publicación surta efectos convenio o contrato laboral que modifique las remuneraciones correspondientes a los servidores públicos de base.
+Los tabuladores a que hace referencia el artículo precedente, se determinarán anualmente y sólo podrán modificarse por el Comité respectivo, en los siguientes casos:
 
-Los tabuladores determinarán los rangos máximo y mínimo de los montos brutos de las dietas, los salarios y las prestaciones en efectivo de la remuneración de dichos servidores públicos, por nivel, categoría, grupo o puesto, sean montos fijos o variables; así como las que se otorguen en especie y en servicios, las que deberán manifestarse mediante el señalamiento de las prestaciones que la componen, por nivel, categoría, grupo o puesto.
+I. Cuando, en fecha posterior a la publicación del Presupuesto de Egresos correspondiente, surta efectos (sic) convenio o contrato laboral que modifique las remuneraciones correspondientes a los servidores públicos de base.
+
+II. Cuando, debido a circunstancias debidamente fundadas y motivadas, el Comité acuerde el ajuste de las remuneraciones de los servidores públicos.
+
+Los tabuladores determinarán los rangos máximo y mínimo de los montos brutos de las remuneraciones ordinarias y extraordinarias, correspondientes a cada plaza.
+
+Los tabuladores que se modifiquen en los términos del presente artículo, se aplicarán a partir de su autorización por el Comité, debiendo publicarse en la página oficial de Internet del Ente Público que corresponda.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 ###### Artículo 16.
 
-Habrá un tabulador para los servidores públicos de base, otro para los electos y uno más para los designados y de libre nombramiento.
+Los tabuladores se integrarán para todas las plazas de los servidores públicos.
 
-A los servidores públicos temporales, eventuales e interinos les corresponderán las remuneraciones que estén establecidas en el tabulador correspondiente al puesto que ocupen.
+A los servidores públicos eventuales les corresponderán las remuneraciones que estén establecidas en el tabulador correspondiente a la plaza que ocupen.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 ###### Artículo 17.
 
-Para efectos de la determinación y publicación de sus remuneraciones, los servidores públicos se clasifican en:
-
-I. Electos: aquellos cuya función pública deriva del resultado de un proceso electoral;
-
-II. Designados: aquellos cuya función pública se origina en un nombramiento a un cargo público previsto en la Constitución Política del Estado de Querétaro;
-
-III. De libre nombramiento: aquellos que realizan alguna o varias de las funciones administrativas de dirección, conducción y orientación institucionales, de confianza o de asesoría técnica especializada;
-
-IV. De base: aquellos que prestan un servicio por tiempo indeterminado a las instituciones públicas, en virtud de nombramiento o por figurar en nómina, que no se encuentran dentro de las categorías a que se refieren las fracciones anteriores; y
-
-V. Temporales, eventuales e interinos: aquellos que, de manera provisional y por un plazo determinado, ocupan cargos en la administración pública.
+Para efectos (sic) este Título, los servidores públicos se clasificarán en los términos de la Ley de los Trabajadores del Estado de Querétaro.
 
 ###### Artículo 18.
 
 En materia de remuneraciones para los servidores públicos, serán aplicables las disposiciones siguientes:
 
-I. Ningún servidor público como tal, puede recibir más remuneración que la que sea retribución de servicios públicos, y esté fijada en el tabulador incluido en el respectivo presupuesto;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+I. Ningún servidor público puede recibir mayor remuneración que la fijada en el tabulador respectivo;
 
 II. No se concederán, ni cubrirán, jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstos se encuentren asignados por la ley, contrato o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración;
 
@@ -335,61 +341,35 @@ VI. Los servidores públicos de elección, como pago final sólo recibirán las 
 
 VII. En el caso de regidores y el síndico de un mismo ayuntamiento, recibirán como dieta la misma remuneración y los diputados integrantes de la Legislatura remuneraciones iguales.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+
 ###### Artículo 19.
 
-La elaboración de propuestas de los tabuladores para servidores públicos electos y para servidores públicos designados y de libre nombramiento, se hará por un Comité Técnico de Remuneraciones para los Servidores Públicos.
+Los tabuladores a que se refiere el presente Título se emitirán por el Comité.
 
-La propuesta de tabulador para servidores públicos de base se realizará por los titulares de los órganos de la autoridad o sus representantes, con la participación de los sindicatos respectivos, en términos de las disposiciones de la Ley de los Trabajadores del Estado de Querétaro, en materia de contratos colectivos o condiciones generales de trabajo, según sea el caso.
-
-Las propuestas de tabuladores que se emitan tendrán valor de opinión y deberán incluirse íntegramente a la propuesta de egresos correspondiente para su dictamen y aprobación por el órgano competente.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 ###### Artículo 20.
 
-Habrá un Comité Técnico de Remuneraciones para los Servidores Públicos de los Poderes, de sus entidades y dependencias, así como de su administración paraestatal, instituciones y organismos constitucionales autónomos y cualquier otro ente público estatal, que estará conformado de la manera siguiente:
+Habrá un Comité Técnico de Remuneraciones para los Servidores Públicos de los entes públicos del Estado, que estará conformado de la siguiente manera:
 
-I. Del Poder Ejecutivo del Estado:
+I. El Oficial Mayor del Poder Ejecutivo o la persona que él designe, quien será el Presidente del Comité;
 
-a) El Gobernador del Estado o la persona que éste designe, quien será el Presidente del Comité.
+II. Un representante de la Secretaría de Planeación y Finanzas del Poder Ejecutivo;
 
-b) El Secretario de Planeación y Finanzas del Poder Ejecutivo.
+III. Un representante del Poder Legislativo del Estado;
 
-c) El Oficial Mayor del Poder Ejecutivo;
+IV. Un representante del Poder Judicial del Estado; y
 
-II. Del Poder Legislativo del Estado:
+V. Un representante de la Entidad Superior de Fiscalización del Estado de Querétaro.
 
-a) El Presidente de la Legislatura o quien éste designe, a propuesta del mismo Presidente.
+Cuando alguno de los integrantes del Comité no pueda asistir a las sesiones, podrá designar a un representante permanente, siempre y cuando dicha designación conste por escrito.
 
-b) El Presidente de la Junta de Concertación Política de la Legislatura.
-
-c) El Director de Servicios Financieros de la Legislatura.
-
-d) El Director de Servicios Administrativos de la Legislatura;
-
-III. Del Poder Judicial del Estado:
-
-a) El Presidente del Tribunal Superior de Justicia o quien éste designe.
-
-b) Un representante del Consejo de la Judicatura.
-
-c) El Oficial Mayor del Tribunal Superior de Justicia;
-
-IV. De los organismos con autonomía constitucional en el Estado:
-
-a) El presidente de cada uno de los organismos constitucionales autónomos.
-
-b) Un representante de la Universidad Autónoma de Querétaro; y
-
-V. De la ciudadanía:
-
-a) Un representante designado por la cámara de comerciantes que cuente con la mayor representación en el Estado, a invitación del Presidente del Comité.
-
-b) Un representante designado por la cámara de industriales que cuente con la mayor representación en el Estado, a invitación del Presidente del Comité.
-
-c) Un representante designado por la asociación de profesionistas que cuente con la mayor representación en el Estado, a invitación del Presidente del Comité.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
 
 ###### Artículo 21.
 
-Habrá un Comité Técnico de Remuneraciones para los Servidores Públicos para cada municipio, sus entidades y dependencias, así como la administración paramunicipal, que estará conformado de la manera siguiente:
+Habrá un Comité Técnico de Remuneraciones para los Servidores Públicos para cada municipio y sus entidades paramunicipales, conformado de la manera siguiente:
 
 I. El Presidente Municipal, quien será el Presidente del Comité;
 
@@ -397,67 +377,55 @@ II. El titular de la dependencia encargada de las finanzas públicas municipales
 
 III. El titular de la dependencia encargada de la administración de servicios internos, recursos humanos materiales y técnicos del municipio;
 
-IV. Un representante designado por la cámara de comerciantes que cuente con la mayor representación en el municipio, a invitación del Presidente del Comité;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-V. Un representante designado por la cámara de industriales que cuente con la mayor representación en el municipio, a invitación del Presidente del Comité; y
+IV. Un representante de las entidades paramunicipales. En este caso, la representación se determinará de manera rotativa entre los titulares de las entidades a que se refiere la presente fracción.
 
-VI. Un representante designado por la asociación de profesionistas que cuente con la mayor representación en el municipio, a invitación del Presidente del Comité.
+V. (DEROGADA, P.O. 18 DE ABRIL DE 2017)
+
+VI. (DEROGADA, P.O. 18 DE ABRIL DE 2017)
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+Cuando alguno de los integrantes del Comité no pueda asistir a las sesiones, podrá designar a un representante permanente, siempre y cuando dicha designación conste por escrito.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 ###### Artículo 22.
 
-Los Comités sesionarán, previa convocatoria por parte de su Presidente, en el mes de octubre de cada año, para elaborar los tabuladores que les correspondan y remitirlos a los correspondientes titulares de las unidades de administración o dependencia encargada de las finanzas públicas, según sea el caso, a más tardar el día último del mismo mes, con la finalidad de que los incluyan integralmente en el proyecto de presupuesto correspondiente.
+Los Comités, para la elaboración de los tabuladores que correspondan, sesionarán, previa convocatoria de su Presidente, de manera ordinaria una vez al año, a más tardar durante el mes de septiembre del ejercicio que corresponda, o extraordinariamente cuando, en términos del artículo 15 de esta Ley, deban modificarse los tabuladores vigentes.
 
-Los integrantes del Comité no percibirán remuneración económica alguna por las actividades inherentes a este nombramiento.
+Los tabuladores autorizados por el Comité en sesión ordinaria, serán remitidos a los titulares de los Entes Públicos respectivos, a más tardar el día último del mes señalado en el párrafo anterior con la finalidad de que los incluyan integralmente en el proyecto de presupuesto correspondiente; para el caso de los que se autoricen en sesiones de carácter extraordinario, deberán ser enviados a los titulares de los Entes Públicos dentro de los dos días hábiles siguientes a la sesión correspondiente.
+
+Los integrantes del Comité no percibirán remuneración económica alguna por el desempeño de su encargo en términos de este Título.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 ###### Artículo 23.
 
-En la determinación de las remuneraciones de los servidores públicos y para la formulación de los tabuladores, se deberán tomar en consideración los principios rectores siguientes:
+Se considera que existe quorum legal para que el Comité pueda sesionar, con la presencia de la mayoría de sus integrantes, dentro de los cuales, invariablemente, estará presente quien lo presida.
 
-I. Igualdad: la remuneración de los servidores públicos se determinará, sin discriminación por motivos de género, edad, etnia, discapacidad, condición social, condiciones de salud, religión, opinión política o cualquier otro que atente contra la dignidad humana;
+Las decisiones que se tomen en las sesiones del Comité se tomarán por unanimidad o mayoría de votos de sus miembros presentes, levantándose el acta circunstanciada correspondiente. En caso de empate, el Presidente tendrá voto de calidad.
 
-II. Equidad: la remuneración de cada función pública deberá ser proporcional a la responsabilidad que derive del cargo y al presupuesto designado para el órgano de autoridad en cuyo tabulador se incluya; y
-
-III. Remuneración: dentro de los límites presupuestales, adscritos a cada institución pública y con base en la responsabilidad de sus respectivas funciones, empleos, cargos o comisiones, deberá ser suficiente para procurarles un nivel de vida digna y estimular y reconocer su desempeño laboral sobre la base de su capacidad profesional.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 ###### Artículo 24.
 
-En la determinación de las remuneraciones de los servidores públicos y para la emisión del tabulador, se deberán tomar en consideración para cada dependencia lo siguiente:
+En la determinación de las remuneraciones de los servidores públicos y para la formulación de los tabuladores, se deberán tomar en consideración los principios rectores siguientes:
 
-I. Factores de referencia:
+I. Igualdad: la remuneración de los servidores públicos se determinará, sin discriminación por motivos de género, edad, etnia, discapacidad, condición social, condiciones de salud, religión, opinión política o cualquier otro que atente contra la dignidad humana; y
 
-a) Número de habitantes que atiende la institución o dependencia.
-
-b) Monto del presupuesto.
-
-c) Dispersión de la población.
-
-d) Desarrollo socioeconómico.
-
-e) Número de servidores públicos.
-
-f) Capacidad económica de la institución pública; y
-
-II. Criterios:
-
-a) El alcance de las funciones de cada cargo en lo individual y de la valuación de su importancia relativa. Se deberán evaluar los conocimientos y habilidades que demandan las funciones asignadas a cada cargo, la dificultad, grado de complejidad y de responsabilidad que implique el trabajo a realizar.
-
-b) Los criterios de pago a servidores públicos que rigen en otros estados del País y en la Federación.
-
-c) Las variaciones del costo de vida.
-
-d) Las prestaciones, beneficios económicos y deducciones a la remuneración.
-
-e) Las prácticas y niveles de pago que se aplican en el sector privado de la economía en el Estado y, en su caso, en la región en la que se encuentre el municipio de que se trate.
-
-f) Las responsabilidades y restricciones del erario reflejadas en la opinión de las áreas de recursos humanos y de finanzas de los Poderes, dependencias, órganos o municipios de que se trate.
+II. Equidad: la remuneración establecida para cada plaza deberá ser proporcional a la responsabilidad que derive del cargo, considerando a su vez el presupuesto que en materia de asignación de recursos para servicios personales deban (sic) destinarse, conforme a lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ###### Artículo 25.
 
-El Presupuesto de Egresos del Estado y el de los municipios, que aprueben la Legislatura y los ayuntamientos, respectivamente, incluirán los tabuladores a que se refiere este Título.
+(DEROGADO, P.O. 18 DE ABRIL DE 2017)
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 ###### Artículo 26.
 
-Una vez realizado el incremento salarial anual por cargo o función, de acuerdo a la ley o convenios colectivos laborales vigentes, quedan prohibidos los incrementos salariales a dichos cargos o funciones durante el último trimestre del periodo constitucional de que se trate, salvo los incrementos que por laudo o convenios entre las partes y ratificados ante autoridad laboral competente se determinen.
+Una vez realizado el incremento salarial anual, de acuerdo a la ley o convenios colectivos laborales vigentes, quedan prohibidos los incrementos salariales a los servidores públicos, durante el último ejercicio fiscal del periodo constitucional de que se trate, salvo los incrementos que, por laudo o convenios entre las partes y ratificados ante autoridad laboral competente, se determinen.
 
 ###### Artículo 27.
 
@@ -1315,7 +1283,7 @@ Procurador de Justicia
 
 Rúbrica
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE DICIEMBRE DE 2014.
 
@@ -1698,3 +1666,13 @@ XVII. Las obligaciones formales y sustantivas de los contribuyentes del impuesto
 XVIII. Los derechos previstos en los artículos 169 BIS y 169 TER de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del (sic) Querétaro Centro de Congresos y Querétaro Teatro Metropolitano.
 
 Artículo Quinto. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro "La Sombra de Arteaga".
