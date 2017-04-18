@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-a-la-maternidad-en-el-estado-de-coahuila-6461
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-24"
-last_updated: "2016-12-02"
+last_updated: "2017-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN A LA MATERNIDAD EN EL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 24 de octubre de 2008.
 
@@ -323,6 +323,22 @@ VI. A recibir, previo estudio de trabajo social, un apoyo económico por parte d
 
 VII. A dar en adopción al recién nacido, en términos de las disposiciones aplicables en materia civil, para lo cual recibirá asesoría psicológica y psiquiátrica gratuitas.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+Artículo 21 BIS.- Las madres trabajadoras, particularmente en la asignatura de la protección de la maternidad, tendrán además los siguientes derechos:
+
+I.- A no realizar durante el periodo de embarazo, trabajos que exijan esfuerzos considerables y signifiquen un peligro para su salud en relación con la gestación.
+
+II.- Disfrutar de un descanso de seis semanas anteriores y seis posteriores al parto. A solicitud expresa de la trabajadora, se podrán transferir semanas de incapacidad del periodo prenatal al posnatal.
+
+En caso de que los hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria, el descanso podrá ser de hasta ocho semanas posteriores al parto, previa presentación del certificado médico correspondiente.
+
+En caso de nacimiento prematuro del hijo, el periodo de descanso previo al parto se acumulará al descanso posterior al mismo, a efecto de completar los noventa días.
+
+III.- Durante los periodos de descanso a que se refiere la fracción II de este artículo, percibirá el salario íntegro. En los casos de prórroga a que se refiere la misma fracción, tendrán derecho al cien por ciento de su salario por un período no mayor de treinta días, y
+
+IV.- Tendrán derecho a regresar al puesto que desempeñaban, computándose en su antigüedad los periodos de descanso y la prórroga si la hubo.
+
 ###### Artículo 22.
 
 Cuando una mujer embarazada decida que su parto se lleve a cabo haciendo uso de los servicios médicos de las instituciones de internamiento, se estará a las siguientes restricciones.
@@ -480,3 +496,15 @@ P.O. 2 DE DICIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al siguiente Decreto.
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 798.- SE ADICIONA EL ARTÍCULO 21 BIS DE LA LEY DE PROTECCIÓN A LA MATERNIDAD EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
