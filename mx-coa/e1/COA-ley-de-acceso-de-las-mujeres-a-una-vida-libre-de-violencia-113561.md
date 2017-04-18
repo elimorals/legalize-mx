@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2017-03-17"
+last_updated: "2017-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 8 de marzo de 2016.
 
@@ -375,7 +375,9 @@ IV. Violencia en el ámbito laboral y escolar: Se ejerce por las personas que ti
 
 Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso sexual, el hostigamiento sexual, el acoso laboral o el hostigamiento laboral.
 
-Constituye violencia laboral, la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+Constituye violencia laboral, la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género; además de exigir como requisito para el ingreso o ascenso a un empleo la presentación de certificado médico de no embarazo, despedir a una trabajadora o coaccionarla para que renuncie por estar embarazada.
 
 Constituyen violencia escolar todas aquellas conductas, acciones u omisiones, infligidas por el personal docente o administrativo o cualquier integrante de la comunidad educativa que dañan la dignidad, salud, integridad, libertad y seguridad de las víctimas; y
 
@@ -401,7 +403,9 @@ I. Rehusar la práctica de todo tipo de violencia contra la mujer;
 
 II. Proceder con la debida diligencia a fin de prevenir, investigar y sancionar, conforme a la legislación estatal, todo acto de violencia contra la mujer, ya se trate de actos perpetrados por autoridades o por particulares;
 
-III. Denunciar conforme a la legislación civil, penal, laboral y administrativa a fin de que se sancionen y reparen los agravios ocasionados a las mujeres que sean objeto de violencia;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+III. Denunciar conforme a la legislación civil, penal, laboral, administrativa y electoral a fin de que se sancionen y reparen los agravios ocasionados a las mujeres que sean objeto de violencia.
 
 IV. Garantizar a las mujeres el acceso a la justicia;
 
@@ -1852,3 +1856,27 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 795.- SE REFORMA EL TERCER PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 9 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 796.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 12 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
