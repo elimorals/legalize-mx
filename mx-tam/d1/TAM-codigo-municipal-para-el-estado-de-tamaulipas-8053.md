@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2017-03-28"
+last_updated: "2017-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -989,7 +989,11 @@ X.- De Energía.
 
 XI.- De Estadística Municipal.
 
-XII.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XII.- De Juventud.
+
+XIII.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
 
 Para tal efecto, podrán encomendarse dos o más comisiones a cada munícipe.
 
@@ -6090,6 +6094,14 @@ Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, a
 P.O. 28 DE MARZO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-144 MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO DEL ARTÍCULO 140 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-146 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA ACTUAL FRACCIÓN XII PARA SER FRACCIÓN XIII, AL ARTÍCULO 64 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
