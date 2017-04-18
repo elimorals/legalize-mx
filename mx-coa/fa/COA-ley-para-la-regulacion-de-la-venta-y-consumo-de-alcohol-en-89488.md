@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-regulacion-de-la-venta-y-consumo-de-alcohol-en-8948
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-18"
-last_updated: "2016-08-09"
+last_updated: "2017-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Coahuila, el martes 18 de septiembre de 2012.
 
@@ -107,7 +107,9 @@ XVI. Giro: Característica comercial del local o establecimiento para el que se 
 
 XVII. Hotel y motel: Establecimiento que ofrece al público renta de habitaciones y en sus instalaciones pueden destinar áreas para restaurante, bar, cafetería o salones de eventos, en los cuales se expenden bebidas alcohólicas en envase abierto o al copeo para su consumo en el interior. En sus habitaciones pueden tener servicio de servi-bar;
 
-XVIII. Ladies bar: Establecimiento donde se expenden bebidas alcohólicas a clientela femenina y masculina para su consumo inmediato, pudiendo contar con espacio destinado para bailar y servicio completo de restaurant;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XVIII. Ladies bar: Establecimiento donde se expenden bebidas alcohólicas para su consumo inmediato, pudiendo contar con espacio destinado para bailar y servicio completo de restaurant;
 
 XIX. Ley: La Ley para la Regulación de Venta y Consumo de Alcohol en el Estado de Coahuila de Zaragoza;
 
@@ -1362,3 +1364,15 @@ P.O. 9 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 509 POR EL QUE "SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 797.- SE REFORMA EL ARTÍCULO 4 FRACCIÓN XVIII DE (SIC) LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
