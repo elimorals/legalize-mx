@@ -4,7 +4,7 @@ identifier: "COA-ley-del-registro-publico-del-estado-de-coahuila-de-zaragoza-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2014-12-30"
+last_updated: "2017-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -45,9 +45,11 @@ LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 Las disposiciones de esta ley son de orden público e interés social. Su observancia es obligatoria y su ámbito de aplicación es en el territorio libre y soberano del Estado de Coahuila de Zaragoza.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+
 ###### Artículo 2.
 
-El Registro Público del Estado de Coahuila de Zaragoza, es la institución jurídica unitaria, dependiente del Poder Ejecutivo, que tiene por objeto regular la inscripción de los actos relativos a la constitución, transmisión, modificación, gravamen y extinción del derecho de propiedad y de los demás derechos reales sobre los bienes, y de los actos relativos a la constitución, modificación y extinción de las personas morales; así como de los otros actos, negocios, resoluciones y diligencias judiciales a los que el Código Civil para el Estado de Coahuila de Zaragoza y esta ley se refieren y las consecuencias inherentes a dichas inscripciones. Los efectos del Registro son declarativos y no constitutivos.
+El Registro Público del Estado de Coahuila de Zaragoza, es la institución jurídica unitaria, dependiente del Poder Ejecutivo, que tiene por objeto regular la inscripción de los actos relativos a la constitución, transmisión, modificación, gravamen y extinción del derecho de propiedad y de los demás derechos reales sobre los bienes, y de los actos relativos a la constitución, modificación y extinción de las personas morales; así como de los otros actos, negocios, resoluciones y diligencias judiciales a los que el Código Civil para el Estado de Coahuila de Zaragoza, la Ley para la Familia de Coahuila de Zaragoza y esta ley se refieren y las consecuencias inherentes a dichas inscripciones. Los efectos del Registro son declarativos y no constitutivos.
 
 ###### Artículo 3.
 
@@ -115,7 +117,9 @@ XVI. Folio Matriz: Al folio que como consecuencia de la modificación total de l
 
 XVII. Función Registral: Al conjunto de procesos de operación y reglas que deberán observarse para efectuar las inscripciones de los actos jurídicos que se presenten para su registro;
 
-XVIII. Inscripción: A todo asiento o anotación realizado en el folio correspondiente, en relación con los actos jurídicos a que se refiere el Código Civil y otras disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XVIII. Inscripción: A todo asiento o anotación realizado en el folio correspondiente, en relación con los actos jurídicos a que se refiere el Código Civil, la Ley para la Familia y otras disposiciones legales aplicables;
 
 XIX. Oficina Registral: Unidades desconcentradas de la Dirección General, que tienen como objetivo realizar la función registral sobre los bienes en los municipios que comprendan la circunscripción de su competencia;
 
@@ -123,13 +127,23 @@ XX. Registrador: A la persona titular de cada una de las oficinas registrales ub
 
 XXI. Registro Público: Al Registro Público del Estado de Coahuila de Zaragoza;
 
-XXII. Reglamento: Al Reglamento Interior del Registro Público del Estado de Coahuila de Zaragoza; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XXIII. Secretaría: A la Secretaría de Gobierno.
+XXII. Reglamento: Al Reglamento Interior del Registro Público del Estado de Coahuila de Zaragoza;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XXIII. Secretaría: A la Secretaría de Gobierno;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XXIV. Ley para la Familia: A la Ley para la Familia de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 ###### Artículo 6.
 
-El Registro Público desempeñará las funciones registrales, con estricto apego a esta ley, al Código Civil, y demás disposiciones legales, reglamentarias y administrativas que resulten aplicables.
+El Registro Público desempeñará las funciones registrales, con estricto apego a esta ley, al Código Civil, la Ley para la Familia y demás disposiciones legales, reglamentarias y administrativas que resulten aplicables.
 
 ###### Artículo 7.
 
@@ -275,7 +289,9 @@ V. Revisar el proceso final de la inscripción de documentos en los medios físi
 
 VI. Expedir en documento físico o electrónico, las certificaciones o constancias que sobre inscripciones, anotaciones y cancelaciones de los registros que en general soliciten los interesados;
 
-VII. Supervisar la debida observancia de la presente ley, el Código Civil, el reglamento y demás disposiciones legales aplicables, además de las dictadas por la Dirección General, mediante las cuales deberán revisarse los documentos y los requisitos necesarios para llevar a cabo las inscripciones;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+VII. Supervisar, en el ámbito de su competencia, la debida observancia de la presente ley, el Código Civil, la Ley para la Familia, el reglamento y demás disposiciones legales aplicables, además de las dictadas por la Dirección General, mediante las cuales deberán revisarse los documentos y los requisitos necesarios para llevar a cabo las inscripciones;
 
 VIII. Rendir los informes que le requieran las autoridades competentes conforme a la normatividad aplicable;
 
@@ -411,7 +427,13 @@ VI. El decreto de expropiación y de ocupación temporal y declaración de limit
 
 VII. Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en el Registro Público;
 
-VIII. Cualquier otro título que sea susceptible de ser anotado de acuerdo con el Código Civil u otras leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2017)</small>
+
+VIII. La orden judicial en relación con los deudores alimentarios morosos de acuerdo a lo establecido en el artículo 309 de la Ley para la Familia;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE ABRIL DE 2017)</small>
+
+IX. Cualquier otro título que sea susceptible de ser anotado de acuerdo con el Código Civil u otras leyes.
 
 #### SECCIÓN II. DE LA INMATRICULACIÓN
 
@@ -517,9 +539,11 @@ Si de la validación se desprende que el documento reúne los requisitos estable
 
 Si de la validación se advierte la ausencia de uno o varios requisitos, (sic) documento será turnado a la Coordinación Jurídica a efecto de que siga el procedimiento establecido en la fracción segunda del artículo 32 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+
 ###### Artículo 35.
 
-El Coordinador Jurídico sólo podrá rechazar la solicitud de inscripción, anotación o cancelación cuando ésta no se encuentre en los supuestos que establecen los artículos 3592, 3593, 3629, 3664 y 3665 del Código Civil o contravenga disposiciones contenidas en otros ordenamientos aplicables en la materia. El acuerdo negativo correspondiente será publicado el día hábil siguiente en el Boletín Registral de la propia Oficina Registral. El documento rechazado perderá la prelación que le correspondía.
+El Coordinador Jurídico sólo podrá rechazar la solicitud de inscripción, anotación o cancelación cuando ésta no se encuentre en los supuestos que establecen los artículos 3592, 3593, 3629, 3664 y 3665 del Código Civil, 308 y 309 de la Ley para la Familia o contravenga disposiciones contenidas en otros ordenamientos aplicables en la materia. El acuerdo negativo correspondiente será publicado el día hábil siguiente en el Boletín Registral de la propia Oficina Registral. El documento rechazado perderá la prelación que le correspondía.
 
 ###### Artículo 36.
 
@@ -835,9 +859,17 @@ La cancelación de anotación de un embargo, secuestro, intervención de inmuebl
 
 Las anotaciones preventivas se cancelarán:
 
-I. Cuando así lo ordene la autoridad competente por sentencia firme o laudo, y en los términos de éstos; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-II. Cuando exista consentimiento de las partes que hayan intervenido en la celebración del acto, o se realice la inscripción definitiva.
+I. Cuando así lo ordene la autoridad competente por sentencia firme o laudo, y en los términos de éstos;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+II. Cuando exista consentimiento de las partes que hayan intervenido en la celebración del acto, o se realice la inscripción definitiva;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+III. Cuando así lo ordene la autoridad judicial competente, tratándose de los bienes a nombre del deudor alimentario moroso de los que haya ordenado inscripción, de acuerdo a lo establecido en la Ley para la Familia.
 
 ###### Artículo 88.
 
@@ -1090,3 +1122,13 @@ EL SECRETARIO DE GOBIERNO
 ARMANDO LUNA CANALES
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 790.- SE REFORMA EL ARTÍCULO 2, LAS FRACCIONES XVIII, XXII Y XXIII DEL ARTÍCULO 5, EL ARTÍCULO 6, LA FRACCIÓN VII DEL ARTÍCULO 16, LA FRACCIÓN VIII DEL ARTÍCULO 23, EL ARTÍCULO 35, LAS FRACCIONES I Y II DEL ARTÍCULO 87; SE ADICIONA, LA FRACCIÓN XXIV AL ARTÍCULO 5, LA FRACCIÓN IX AL ARTÍCULO 23, LA FRACCIÓN III AL ARTÍCULO 87, DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones de las leyes y reglamentos que sean contrarias a las normas establecidas en el presente Decreto.
