@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-estatal-para-la-garantia-de-los-derechos-99963"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-18"
-last_updated: "2017-03-17"
+last_updated: "2017-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 18 de marzo de 2014.
 
@@ -65,7 +65,9 @@ Para garantizar la protección de los derechos de niños, niñas y adolescentes,
 
 I. Respeto a los derechos humanos;
 
-II. Derecho a la vida, la supervivencia y el desarrollo: El Estado debe ayudar a dar efectividad a estos derechos brindando asistencia material particularmente en lo que se refiere a la nutrición, la vestimenta y a la vivienda;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+II. Derecho a la vida, a la paz, a la supervivencia y al desarrollo: El Estado debe ayudar a dar efectividad a estos derechos brindando asistencia material particularmente en lo que se refiere a la nutrición, la vestimenta, la educación y a la vivienda;
 
 III. Interés superior del niño o de la niña: Consiste en que el desarrollo y el ejercicio pleno de sus derechos deben ser considerados como criterios rectores para la elaboración de normas, políticas públicas y la aplicación de éstas en todos los órdenes relativos de su vida;
 
@@ -149,7 +151,9 @@ De los derechos de niños, niñas y adolescentes.
 
 Niños, niñas y adolescentes son sujetos titulares de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte y la Ley General, entre los que se encuentran, de manera enunciativa más no limitativa, los siguientes:
 
-I. A la vida, la supervivencia y el desarrollo integral;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+I. A la vida, a la paz, a la supervivencia y al desarrollo integral;
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
@@ -1604,3 +1608,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 800.- SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 2 Y LA FRACCIÓN I DEL ARTÍCULO 4 DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
