@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-civil-para-el-estado-de-coahuila-de-74938"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-14"
-last_updated: "2016-08-09"
+last_updated: "2017-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 14 de mayo de 2010.
 
@@ -353,19 +353,15 @@ Asimismo, verificarán que los establecimientos cumplan con lineamientos y crite
 
 En caso de riesgo y sin perjuicio de la emisión de la declaratoria de emergencia o desastre correspondiente, las autoridades competentes ejecutarán las medidas de seguridad aplicables al caso concreto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 17.
 
-La Subsecretaría podrá elaborar programas especiales de protección civil, tratándose de grupos sociales específicos, tales como personas con discapacidad, personas adultas mayores, jóvenes, menores de edad y demás grupos vulnerables en el Estado.
+En el Programa Especial de Protección Civil, la Subsecretaría establecerá de manera transversal, estrategias y acciones que incluyan a las personas con discapacidad, personas adultas mayores, niñas, niños y adolescentes, personas migrantes, mujeres embarazadas y demás grupos de población en situación de vulnerabilidad y que por este hecho se puedan encontrar en mayor riesgo ante las situaciones de emergencia, desastre y/o disturbios que se presenten en el Estado.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+En estos programas, en forma especial y preponderante, se deberá redimensionar la acción pública para que en toda política, donde se vean involucrados los derechos de las niñas, niños y adolescentes, se atienda su interés superior, el cual exige medidas de protección reforzada.
 
-En estos programas, en forma especial y preponderante, se deberá redimensionar la acción pública para que en toda política, donde se vean involucrados los derechos de los menores de edad, se atienda su interés superior, el cual exige medidas de protección reforzada.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
-
-La normatividad referente a la seguridad de los menores en los centros a los que eventualmente acceden, tales como hospitales, centros educativos, escuelas, centros de recreación y, muy especialmente, guarderías y estancias infantiles, entre otros, deberá atender a las más altas exigencias que demanda la protección de la integridad física de los menores.
+La normatividad referente a la seguridad de las niñas, niños y adolescentes en los centros a los que eventualmente acceden, tales como hospitales, centros educativos, escuelas, centros de recreación y, muy especialmente, guarderías y estancias infantiles, entre otros, deberá atender a las más altas exigencias que demanda la protección de la integridad física de los menores.
 
 ###### ARTÍCULO 18.
 
@@ -1215,7 +1211,7 @@ ARMANDO LUNA CANALES
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 10 DE MAYO DE 2011.
 
@@ -1248,3 +1244,11 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 801.- SE REFORMA EL ARTÍCULO 17 DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
