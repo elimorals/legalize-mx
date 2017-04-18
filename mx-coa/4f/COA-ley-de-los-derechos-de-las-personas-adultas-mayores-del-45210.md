@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2016-08-09"
+last_updated: "2017-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -391,11 +391,15 @@ De igual forma, la Comisión Estatal de los Derechos Humanos, en el ámbito de s
 
 El Instituto, en el ámbito de su competencia, velará por el respeto a los derechos de las personas adultas mayores bajo los principios de protección previstos en esta Ley y garantizará, en el ámbito de sus atribuciones, la tutela de los derechos de dicho grupo social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
+
 ###### Artículo 17.
 
-Las medidas de protección a las personas adultas mayores a que se refiere esta Ley se aplicarán por el Instituto siempre que exista algún conflicto que ponga en riesgo sus derechos por una acción u omisión de la sociedad; por una falta, omisión o abuso de los descendientes o responsables, y por acciones u omisiones contra sí mismos.
+Las medidas de protección a las personas adultas mayores a que se refiere esta Ley se aplicarán por el Instituto siempre que exista algún conflicto que ponga en riesgo sus derechos por una acción u omisión de la sociedad; por una falta, omisión o abuso de los descendientes o responsables, y por acciones u omisiones contra sí mismos. De esas acciones u omisiones cualquier persona podrá notificar al Instituto.
 
-De esas acciones u omisiones cualquier persona podrá notificar al Instituto.
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+Las personas adultas mayores serán protegidas contra actos u omisiones que puedan afectar sus derechos y su salud física o mental; por ello, el Estado sancionará el maltrato y la violencia contra las personas adultas mayores, los actos abusivos de poder u omisión intencional, dirigidos a dominar, someter o agredir de manera física, verbal, psicológica o económica dentro o fuera del domicilio familiar, por personas que tengan o hayan tenido o no relación de parentesco.
 
 En caso de que las investigaciones realizadas por el Instituto arrojen como resultado la probable comisión de un delito, éste podrá, una vez presentada la denuncia correspondiente, y si así se le solicita, brindar el apoyo jurídico requerido, así como actuar como representante legal ante la autoridad correspondiente.
 
@@ -1336,3 +1340,11 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 802.- SE MODIFICA EL PÁRRAFO PRIMERO Y ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 17 DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
