@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2016-12-22"
+last_updated: "2017-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 18 DE ABRIL DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -116,9 +116,11 @@ VII. El desarrollo de la enseñanza y la investigación científica y tecnológi
 
 VIII. La garantía de seguridad sanitaria a sus habitantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE ABRIL DE 2017)</small>
+
 ###### Artículo 5.
 
-Para los efectos del derecho a la protección a la salud, se consideran servicios básicos de salud los referentes a:
+Para los efectos del derecho a la protección de la salud, se consideran servicios básicos de salud los referentes a:
 
 I. La medicina preventiva;
 
@@ -150,9 +152,9 @@ XII. La atención integral del consumo de sustancias psicoactivas, particularmen
 
 XIII. La protección contra los riesgos sanitarios.
 
-> <small>(ADICIONADA, G.O. 23 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2017)</small>
 
-XIV. El libre acceso al agua potable.
+XIV. El libre acceso al agua potable, y su promoción permanente sobre los beneficios de su consumo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE OCTUBRE DE 2016)</small>
 
@@ -536,11 +538,15 @@ aa) El desarrollo de programas de salud contra las adicciones y la fármacodepen
 
 bb) Determinar las políticas a que se sujetarán el Centro de Inteligencia y Preparación de Respuesta Epidemiológica de la Ciudad de México y el Sistema de Alerta Sanitaria de la Ciudad de México;
 
-cc) La prestación de servicios de salud para la protección contra los riesgos sanitarios, y
+> <small>(REFORMADO, G.O. 18 DE ABRIL DE 2017)</small>
 
-> <small>(ADICIONADO, G.O. 5 DE OCTUBRE DE 2016)</small>
+cc) Desarrollar programas para la prevención y detección oportuna de la insuficiencia renal crónica, en el primer y segundo nivel de atención.
 
-dd) La prestación de servicios de geriatría, a través de la Clínica de Atención Geriátrica; y
+La atención médica y el tratamiento sustituto de la insuficiencia renal crónica estarán sujetos a disponibilidad presupuestal, y en su caso, se propondrá la celebración de instrumentos jurídicos con instituciones de los sectores público, social y privado;
+
+> <small>(REFORMADO, G.O. 18 DE ABRIL DE 2017)</small>
+
+dd) La prestación de servicios de salud para la protección contra los riesgos sanitarios, y
 
 ee) Las demás que le reconozca la Ley General de Salud y la presente Ley.
 
@@ -966,9 +972,11 @@ Las actividades preventivas estarán enfocadas a las diferentes etapas de la vid
 
 La medicina preventiva constituirá la base de la acción en materia de salud pública y tendrá preferencia en el diseño programático, presupuestal y de concertación de la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE ABRIL DE 2017)</small>
+
 ###### Artículo 44.
 
-En materia de medicina preventiva, el Gobierno tiene las siguientes atribuciones específicas:
+En materia de medicina preventiva el Gobierno tiene las siguientes atribuciones específicas:
 
 I. Realizar y promover acciones de fomento y protección a la salud que incidan sobre los individuos y las familias para obtener un estilo de vida que les permita alcanzar una mayor longevidad con el disfrute de una vida plena y de calidad;
 
@@ -983,6 +991,10 @@ IV. Alentar en las personas, la generación de una conciencia informada y respon
 V. Intensificar los procesos de educación para la salud por medio de la información y motivación de la población para que adopten medidas destinadas a mejorar la salud, y evitar los factores y comportamientos de riesgo, que les permitan tener un control sobre su propia salud, y
 
 VI. Establecer medidas para el diagnóstico temprano, por medio del examen preventivo periódico y pruebas diagnósticas en población determinada y asintomática, con el fin de modificar los indicadores de morbilidad y mortalidad.
+
+> <small>(ADICIONADA, G.O. 18 DE ABRIL DE 2017)</small>
+
+VII. Programar, organizar y orientar acciones informativas permanentes sobre los beneficios del consumo de agua potable para prevenir enfermedades.
 
 ### Capítulo IV. Sistema de Alerta Sanitaria y Comité Científico de Vigilancia Epidemiológica y Sanitaria de la Ciudad de México
 
@@ -3245,3 +3257,15 @@ PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario
 SEGUNDO. El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Todas las disposiciones legales que contravengan las presentes reformas y adiciones se tendrán por derogadas.
+
+G.O. 18 DE ABRIL DE 2017.
+
+> <small>[N. DE E. A TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL DISTRITO FEDERAL".]</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Remítase el presente Decreto al Jefe de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO. La Asamblea Legislativa de la Ciudad de México, por conducto de la Comisión de Presupuesto y Cuenta Pública, deberá considerar recursos suficientes en el Presupuesto de Egresos de la Ciudad de México para el ejercicio 2017, para la aplicación del presente Decreto.
+
+CUARTO. El Gobierno de la Ciudad de México una vez determinada la disposición presupuestal correspondiente, canalizará los debidos recursos que aseguren las atribuciones que describe este decreto.
