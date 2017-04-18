@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2017-03-16"
+last_updated: "2017-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -1275,9 +1275,19 @@ Las instituciones de seguridad pública se sujetarán al Programa Rector de Prof
 
 Los planes de estudio para la profesionalización se integrarán por el conjunto de contenidos teóricos y prácticos estructurados en unidades didácticas de enseñanza y aprendizaje, que estarán comprendidos en el programa rector en los que se incluyan, entre otros, talleres de resolución de casos.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+
 ###### ARTICULO 77.
 
-La Secretaría de Seguridad Pública contará con la Academia, que tendrá por objeto la preparación de los aspirantes a integrar los cuerpos de seguridad, así como la actualización y profesionalización del personal de las instituciones de seguridad, y la capacitación de docentes e investigadores en materia de seguridad.
+La Secretaría de Seguridad Pública contará con la Academia que tendrá como objeto:
+
+I. La preparación de los aspirantes a integrar los cuerpos de seguridad pública;
+
+II. La actualización y profesionalización del personal de las instituciones de seguridad pública;
+
+III. La capacitación del personal operativo de las empresas de seguridad privada, y
+
+IV. La capacitación de los docentes e investigadores en materia de seguridad pública y privada.
 
 ###### ARTICULO 78.
 
@@ -2445,7 +2455,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 16 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0586.- SE ADICIONA FRACCIÓN AL ARTÍCULO 14 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0586.- SE ADICIONA FRACCIÓN AL ARTÍCULO 14 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
 
@@ -2456,3 +2466,11 @@ Para los efectos anteriores, el Secretariado Técnico del Consejo Estatal de Seg
 En lo concerniente al año 2017 se obliga al Secretariado Técnico del Consejo Estatal de Seguridad Pública, a plantear ante la instancia correspondiente, las acciones que se deban realizar para que se siga implementando el Modelo Homologado de Unidad de Policía Cibernética, con el apoyo del área respectiva de la Secretaría de Seguridad Pública del Estado.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0608.- SE REFORMA EL ARTÍCULO 77 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis.”
+
+SEGUNDO. Se derogan todas disposiciones que se opongan al presente Decreto.
