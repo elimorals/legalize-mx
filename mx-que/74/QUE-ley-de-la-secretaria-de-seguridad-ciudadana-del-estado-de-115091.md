@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-secretaria-de-seguridad-ciudadana-del-estado-de-11509
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-10"
-last_updated: "2016-06-10"
+last_updated: "2017-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 10 de junio de 2016.
 
@@ -31,7 +31,9 @@ FRANCISCO DOMÍNGUEZ SERVIÉN, Gobernador del Estado de Querétaro, a los habita
 
 LA QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO …
+CONSIDERANDO
+
+[…]
 
 Por lo anteriormente expuesto y fundado, la Quincuagésima Octava Legislatura del Estado de Querétaro expide la siguiente:
 
@@ -67,7 +69,9 @@ I. Carrera Policial: El Servicio Profesional de Carrera Policial;
 
 II. Centro de Justicia: El Centro de Justicia para las Mujeres del Estado de Querétaro;
 
-III. Consejo Estatal: El Consejo Estatal de Seguridad;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+III. Comisión Estatal: La Comisión Estatal, encargada de la Atención a Víctimas de delito;
 
 IV. Ley: La Ley de la Secretaría de Seguridad Ciudadana del Estado de Querétaro;
 
@@ -79,9 +83,21 @@ VII. Profesionalización: Consiste en la adquisición, desarrollo y aplicación 
 
 VIII. Secretaría: La Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro;
 
-IX. Secretario: Al Titular de la Secretaría de Seguridad Ciudadana; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-X. Sistema Estatal: Al Sistema Estatal de Seguridad de Querétaro.
+IX. Secretario: Al titular de la Secretaría de Seguridad Ciudadana;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+X. Sistema Estatal: Al Sistema Estatal de Seguridad de Querétaro;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XI. Sistema Estatal de Atención a Víctimas: El Sistema Estatal de Atención a Víctimas de Violencia y Violación a Derechos Humanos no constitutivos de delito; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XII. SIU: Sistema Informático Único.
 
 ### Capítulo Segundo. De la Organización
 
@@ -99,7 +115,9 @@ a) La Dirección de Prevención Social de la Violencia y la Delincuencia.
 
 b) La Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos; y
 
-c) La Dirección Ejecutiva de Atención a Víctimas.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+c) La Comisión Estatal de Atención a Víctimas de Delito.
 
 IV. La Subsecretaría de Policía Estatal, que se integrará por:
 
@@ -135,7 +153,9 @@ Las funciones de la Secretaría, además de las señaladas en la Ley Orgánica d
 
 I. Prevenir socialmente la violencia y la delincuencia a través de políticas públicas acerca de las causas y factores de riesgo que las originan;
 
-II. Promover y difundir la aplicación de mecanismos alternativos de solución de controversias y conflictos;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+II. Ejecutar y promover, la aplicación de mecanismos alternativos de solución de controversias y conflictos y la justicia restaurativa en los diferentes ámbitos de su competencia;
 
 III. Garantizar la ayuda, asistencia, protección y reparación integral de daños a las víctimas;
 
@@ -145,7 +165,9 @@ V. Ejecutar en el territorio del Estado de Querétaro, las acciones dirigidas a 
 
 VI. Establecer la operación policial, misma que privilegiará la coordinación, el uso de tecnologías de la información y el respeto a los derechos humanos;
 
-VII. Implementar el Servicio Profesional de Carrera Policial que define los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción, reconocimiento y conclusión;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+VII. Implementar el Servicio Profesional de Carrera Policial que define los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción, reconocimiento, transferencia, movilidad y conclusión;
 
 VIII. Establecer las acciones para profesionalizar y capacitar de manera continua al personal de las instituciones de seguridad pública del Estado;
 
@@ -209,11 +231,19 @@ XIX. Proveer a la exacta observancia de las disposiciones de la presente ley, as
 
 XX. Proponer al Gobernador los proyectos de leyes, decretos, reglamentos, acuerdos, circulares y demás disposiciones relativas al ámbito de su competencia de la Secretaría;
 
-XXI. Coordinar planes y acciones en materia de seguridad con los diferentes municipios del Estado y otras instancias de seguridad; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XXII. Las demás que señalen las disposiciones normativas aplicables, así como las que le encomiende el Gobernador del Estado o el Consejo Estatal.
+XXI. Coordinar planes y acciones en materia de seguridad con los diferentes municipios del Estado y otras instancias de seguridad;
 
-Las facultades previstas en este artículo, serán ejercidas directamente por el Secretario o por conducto de los funcionarios que determinen las disposiciones reglamentarias y normativas correspondientes; las previstas en las fracciones III, VI, VII, VIII, IX, X, XX y XXI son indelegables.
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XXII. Expedir protocolos de actuación del personal operativo de la policía estatal, de conformidad con la legislación aplicable; y
+
+XXIII. Las demás que señalen las disposiciones normativas aplicables, así como las que le encomiende el Gobernador del Estado o el Consejo Estatal.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+Las facultades previstas en este artículo, serán ejercidas directamente por el Secretario o por conducto de los funcionarios que determinen las disposiciones reglamentarias y normativas correspondientes; las previstas en las fracciones III, VI, VII, VIII, IX, X, XX, XXI y XXII son indelegables.
 
 ### Capítulo Tercero. Del Secretario Técnico del Consejo Estatal de Seguridad
 
@@ -235,7 +265,9 @@ I. Proponer políticas y estrategias en materia de prevención social de la viol
 
 II. Promover acciones afirmativas en educación, cultura, hábitos de vida saludable, con perspectiva de género y participación ciudadana, para generar entornos que favorezcan la convivencia, la paz, la cohesión social y la seguridad ciudadana, con respeto a los derechos humanos y no discriminación;
 
-III. Coordinar y dirigir las acciones y políticas estatales en materia de derechos humanos, atención a víctimas y mecanismos alternativos de solución de controversias y conflictos;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+III. Coordinar y dirigir las acciones y políticas estatales en materia de Derechos Humanos, atención a víctimas y mecanismos alternativos de solución de controversias y conflictos y justicia restaurativa;
 
 IV. Promover la cultura de la paz y la legalidad;
 
@@ -247,9 +279,35 @@ VII. Establecer mecanismos de coordinación e intercambio de información y expe
 
 VIII. Concertar acciones con instituciones de asistencia médica, públicas y privadas, para efecto de cumplimentar lo dispuesto en el inciso C del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos;
 
-IX. Establecer lineamientos y protocolos para proporcionar o gestionar, a favor de las víctimas u ofendidos del delito, los servicios legales, médicos y psicológicos necesarios para procurar su atención y restablecimiento; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-X. Las demás que en el ámbito de su competencia, le encomiende el Secretario o se encuentren previstas en otras disposiciones normativas aplicables.
+IX. Establecer lineamientos y protocolos para proporcionar o gestionar, a favor de las víctimas u ofendidos del delito, los servicios legales, médicos y psicológicos necesarios para procurar su atención y restablecimiento;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+X. Supervisar la atención inmediata, asesoría jurídica y reparación del daño a víctimas;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XI. Fungir como Secretario Técnico del Sistema Estatal de Atención a Víctimas y ejercer las atribuciones conferidas al mismo;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XII. Realizar las actividades de atención a víctimas de violencia o violación de Derechos Humanos a través del Sistema Estatal de Atención a Víctimas;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XIII. Establecer mecanismos para la capacitación, formación, actualización y especialización de funcionarios públicos o de las autoridades auxiliares del Sistema Estatal de Seguridad y Sistema Estatal de Atención a Víctimas;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XIV. Realizar estudios, programas y proyectos que sirvan de base para la formulación de políticas públicas en materia de atención a víctimas;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XV. Proponer y celebrar acuerdos de colaboración con los integrantes del Sistema Estatal de Seguridad y otras instituciones en términos de la normatividad aplicable; y
+
+XVI. Las demás que en el ámbito de su competencia, le encomiende el Secretario o se encuentren previstas en otras disposiciones normativas aplicables.
 
 ### Capítulo Segundo. De la Dirección de Prevención Social de la Violencia y la Delincuencia
 
@@ -285,45 +343,99 @@ La Dirección de Mecanismos Alternativos de Solución de Controversias y Conflic
 
 I. Realizar acciones para fomentar la cultura de la paz y la legalidad en el Estado;
 
-II. Establecer y coordinar las unidades de los Mecanismos Alternativos de Solución de Controversias y Conflictos en el Estado, con personal especializado;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-III. Promover, difundir y aplicar los Mecanismos Alternativos de Solución de Controversias y Conflictos;
+II. Establecer y coordinar las unidades, centros y demás instituciones en los mecanismos alternativos de solución de controversias y conflictos y la justicia restaurativa en el Estado;
 
-IV. Crear y mantener actualizada la base de datos de los asuntos tramitados con los Mecanismos Alternativos de Solución de Controversias y Conflictos;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+III. Promover la aplicación de los mecanismos alternativos de solución de controversias y conflictos y justicia restaurativa, por medio de servicios accesibles y gratuitos en los diferentes ámbitos de su competencia;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+IV. Supervisar y vigilar que se mantengan actualizadas las bases de datos estatales, respecto de los acuerdos reparatorios celebrados por controversias penales, conforme a la normatividad aplicable;
 
 V. Impulsar la participación transversal de instituciones públicas, privadas, organismos de la sociedad civil y universidades;
 
-VI. Proponer al titular de la Secretaría, la suscripción de convenios de coordinación con la Federación, Estados, Municipios, instituciones públicas, privadas, así como cualquier organización, a fin de alcanzar los objetivos de los Mecanismos Alternativos de Solución de Controversias y Conflictos;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-VII. Establecer los mecanismos de seguimiento al cumplimiento de acuerdos alcanzados en los Mecanismos Alternativos de Solución de Controversias y Conflictos en los ámbitos penal, social y comunitario, garantizando la reparación del daño, la reintegración de la víctima y el imputado; y
+VI. Proponer al titular de la Secretaría la suscripción de los instrumentos legales con la Federación, Estados, municipios, instituciones públicas y privadas, en materia de mecanismos alternativos de solución de controversias y conflictos y justicia restaurativa;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+VII. Establecer los mecanismos de seguimiento en cuanto al cumplimiento de acuerdos alcanzados a través de los mecanismos alternativos de solución de controversias y conflictos y la justicia restaurativa, conforme a la normatividad aplicable; y
 
 VIII. Las demás que le confieran otros ordenamientos y disposiciones normativas aplicables.
 
-### Capítulo Cuarto. De la Dirección Ejecutiva de Atención a Víctimas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE ABRIL DE 2017)</small>
+
+### Capítulo Cuarto. De la Comisión Estatal de Atención a Víctimas de Delito
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
 
 ###### Artículo 17.
 
-La Dirección Ejecutiva de Atención a Víctimas contará con las siguientes atribuciones:
+La Comisión Estatal de Atención a Víctimas de Delito contará con las siguientes atribuciones:
 
-I. Organizar y coordinar la Comisión Ejecutiva Estatal de Atención a Víctimas;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-II. Brindar asesoría jurídica, la asistencia especializada y la reparación del daño a las víctimas y ofendidos del Sistema de Seguridad Estatal;
+I. Organizar y coordinar la atención a víctimas del delito;
 
-III. Coordinar con las autoridades auxiliares la asistencia, atención y apoyo a las víctimas del delito, en términos de la ley de la materia;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-IV. Impulsar la difusión de los derechos de las víctimas del delito;
+II. Brindar asesoría jurídica, así como la atención a los derechos fundamentales de las víctimas, la asistencia especializada y la reparación del daño a las víctimas y ofendidos competencia del Sistema de Seguridad Estatal;
 
-V. Establecer mecanismos para la capacitación, formación, actualización y especialización de funcionarios públicos o de las autoridades auxiliares del Sistema Estatal;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-VI. Coordinar el Registro Estatal de Víctimas;
+III. Proponer al Secretario y Subsecretario de Prevención Social y Atención a Víctimas, la suscripción de convenios en materia de atención a víctimas;
 
-VII. Supervisar la operación del Fondo de Ayuda, Asistencia y Reparación Integral a las Víctimas, con base en los principios de publicidad, transparencia y rendición de cuentas;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-VIII. Establecer los lineamientos, protocolos, manuales y reglas de operación necesarias para garantizar el ejercicio efectivo de los derechos de las víctimas;
+IV. Solicitar a las dependencias, entidades de la Administración Pública Estatal y a la Fiscalía General del Estado de Querétaro, la información que considere necesaria para la integración del Registro Estatal de Víctimas, así como la relacionada con la atención, asistencia y protección a las víctimas;
 
-IX. Generar un sistema de monitoreo y evaluación de los procesos de atención a víctimas; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-X. Las demás que le confieran otros ordenamientos y disposiciones aplicables.
+V. Coordinar con las autoridades auxiliares la asistencia, atención y apoyo a las víctimas del delito, así como solicitar la información que se requiera en términos de la ley de la materia;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+VI. Coordinar acciones institucionales e interinstitucionales en materia de atención a víctimas del delito;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+VII. Impulsar la difusión de los derechos de las víctimas del delito;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+VIII. Coordinar el Registro Estatal de Víctimas;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+IX. Supervisar la operación del Fondo de Ayuda, Asistencia y Reparación Integral a las Víctimas, con base en los principios de publicidad, transparencia y rendición de cuentas;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+X. Establecer los lineamientos, protocolos, manuales y reglas de operación necesarias para garantizar el ejercicio efectivo de los derechos de las víctimas del delito;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XI. Elaborar, implementar y dar seguimiento a los estudios, diagnósticos, planes y programas de atención a víctimas del delito;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XII. Ejecutar los acuerdos y resoluciones que así determine;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XIII. Activar al Sistema Estatal de Atención a Víctimas cuando las necesidades de las víctimas así lo requieran, precisando las acciones solicitadas;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XIV. Informar a la Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos, Fiscalía General y al Poder Judicial del Estado, de los recursos erogados del Fondo Compensatorio a las Víctimas que se hayan atendido, para que éstos lleven a cabo el reintegro de estas cantidades al Fondo, cuando el imputado haya reparado el daño; y
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XV. Las demás que los ordenamientos legales aplicables así determinen.
 
 ## Título Cuarto. De la Función Policial
 
@@ -353,9 +465,25 @@ IX. Fortalecer la coordinación e intercambio de información de inteligencia co
 
 X. Realizar operativos en materia de seguridad, a fin de prevenir y disminuir la incidencia de la violencia, delincuencia, conductas antisociales y faltas administrativas, en los ámbitos de su competencia;
 
-XI. Colaborar en las actividades de inspección y vigilancia, competencia de la Secretaría; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XII. Las demás que en el ámbito de su competencia, le encomiende el Secretario o se encuentren previstas en otras disposiciones normativas aplicables.
+XI. Colaborar en las actividades de inspección y vigilancia, competencia de la Secretaría;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XII. Proponer al Secretario los protocolos de actuación del personal operativo de la policía estatal, de conformidad con la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XIII. Realizar como primer respondiente las actividades de atención y ayuda a víctimas conforme a sus atribuciones y actividades;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XIV. Informar a la Subsecretaría de Prevención Social y Atención a Víctimas de las actividades realizadas en auxilio de víctimas; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XV. Las demás que le confieran otros ordenamientos y disposiciones aplicables.
 
 ### Capítulo Segundo. De la Dirección de Operación Policial
 
@@ -383,9 +511,21 @@ IX. Aprobar los protocolos de actuación del personal que integra las institucio
 
 X. Promover, garantizar y asegurar el respeto a los derechos humanos y buen trato a los ciudadanos;
 
-XI. Promover, entre los servidores públicos adscritos a la Dirección, el servicio a la ciudadanía y la protección a la comunidad; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XII. Las demás que le confieran otros ordenamientos y disposiciones aplicables.
+XI. Promover, entre los servidores públicos adscritos a la Dirección, el servicio a la ciudadanía y la protección a la comunidad;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XII. Implementar los protocolos de actuación del personal operativo de la policía estatal, de conformidad con la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XIII. Implementar acciones de modernización en la infraestructura y equipo, a través del Sistema Informático Único o cualquier otro medio, con la finalidad de recibir denuncias sobre hechos que puedan ser constitutivos de delito e informarlo al fiscal competente; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XIV. Las demás que le confieran otros ordenamientos y disposiciones aplicables.
 
 ### Capítulo Tercero. De la Dirección de Servicios al Público y Seguridad Privada
 
@@ -429,9 +569,17 @@ VI. Autorizar los instrumentos para la evaluación del desempeño y supervisar s
 
 VII. Emitir constancias de separación y retiro del personal policial;
 
-VIII. Resolver todas las excepciones no previstas en las convocatorias que emita; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-IX. Las demás que le confieran otros ordenamientos y disposiciones aplicables.
+VIII. Resolver todas las excepciones no previstas en las convocatorias que emita;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+IX. Implementar y supervisar el régimen de transferencia para el personal operativo facultado para el uso legal de la fuerza pública de la Entidad de acuerdo a las disposiciones aplicables; y
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+X. La (sic) demás que le confieran otros ordenamientos y disposiciones aplicables.
 
 ###### Artículo 22.
 
@@ -934,3 +1082,17 @@ Juan Martín Granados Torres
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO Y LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. A partir de la entrada en vigor de la presente Ley, las actividades, trámites, atenciones y procedimientos que realizaba la Dirección Ejecutiva de Atención a Víctimas perteneciente a la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana, serán realizados por la Comisión Estatal de Atención a Víctimas de Delito.
+
+Artículo Cuarto. Los recursos humanos con que contaba la Dirección Ejecutiva de Atención a Víctimas perteneciente a la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana, pasarán a formar parte (sic) la Comisión Estatal de Atención a Víctimas de Delito, conservando sus trabajadores sus derechos laborales correspondientes.
