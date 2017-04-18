@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-tribunal-de-lo-contencioso-administrativo-3416
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-09-29"
-last_updated: "2015-07-31"
+last_updated: "2017-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO-ADMINISTRATIVO DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 18 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL TRIBUNAL DE LO CONTENCIOSO-ADMINISTRATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 29 de septiembre de 2003.
 
@@ -1020,3 +1022,29 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. El actual Magistrado Presidente del Tribunal de lo Contencioso-Administrativo continuará en su cargo hasta que concluya el periodo por el que fue ratificado.
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Sin perjuicio de lo anterior, el contenido de los artículos de esta Ley que se encuentren vinculados con la Ley General de Responsabilidades Administrativas entrarán en vigor hasta que éste último ordenamiento cobre vigencia.
+
+Artículo Segundo. Se abroga la Ley Orgánica del Tribunal de lo Contencioso-Administrativo del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra Arteaga” el 29 de septiembre de 2003.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo previsto en la presente Ley.
+
+Artículo Cuarto. El Reglamento Interior del Tribunal de lo Contencioso Administrativo que se encuentre vigente a la entrada en vigor de la presente Ley, seguirá aplicándose en aquello que no se oponga a ésta, hasta que el Pleno expida el nuevo Reglamento Interior de conformidad con lo previsto en este ordenamiento.
+
+Artículo Quinto. Los juicios iniciados con anterioridad a la entrada en vigor de esta Ley y aquellos que se verifiquen antes de la entrada en vigor de la Ley General de Responsabilidades Administrativas y de la Ley de Responsabilidades Administrativas del Estado de Querétaro, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+Artículo Sexto. Los recursos humanos, materiales, financieros y presupuestales con que cuenta el Tribunal de lo Contencioso Administrativo del Estado de Querétaro, pasarán a forma parte del Tribunal de Justicia Administrativa del Estado de Querétaro.
+
+Artículo Séptimo. Los trabajadores de base que, a la entrada en vigor de la presente Ley, se encuentren prestando sus servicios en el Tribunal de lo Contencioso Administrativo del Estado de Querétaro, seguirán conservando su misma calidad y derechos laborales que les corresponden ante el Tribunal de Justicia Administrativa del Estado de Querétaro.
+
+Artículo Octavo. Las personas que, a la entrada en vigor de la presente Ley, cuenten con el carácter de Magistrados Supernumerarios, concluirán su encargo en la fecha en que esta Ley cobre vigencia.
+
+Artículo Noveno. Se autoriza a la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro, para que realice las adecuaciones necesarias para efecto de dar cumplimiento a lo establecido en la presente Ley.
+
+Artículo Décimo. Todas las referencias que en las leyes se haga al Tribunal de lo Contencioso Administrativo del Estado de Querétaro, se entenderán referidas al Tribunal de Justicia Administrativa del Estado de Querétaro.
