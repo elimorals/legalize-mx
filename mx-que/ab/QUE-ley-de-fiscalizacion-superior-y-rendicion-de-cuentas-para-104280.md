@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-para-10428
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2017-02-10"
+last_updated: "2017-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE FISCALIZACION SUPERIOR Y RENDICION DE CUENTAS PARA EL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. EL 18 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 20 de diciembre de 2014.
 
@@ -1002,3 +1004,19 @@ P.O. 10 DE FEBRERO DE 2017.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUERÉTARO”.]
+
+P.O. 18 DE ABRIL DE 2017.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, sin perjuicio de lo previsto en los transitorios siguientes.
+
+Artículo Segundo. Las referencias, remisiones o contenidos de la presente Ley vinculados con la aplicación de la Ley General del Sistema Nacional Anticorrupción, de la Ley General de Responsabilidades Administrativas, otras disposiciones de la materia, y de las nuevas facultades del Tribunal de Justicia Administrativa del Estado de Querétaro, entrarán en vigor cuando dichos ordenamientos se encuentren vigentes.
+
+Artículo Tercero. Se abroga la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, el 20 de diciembre de 2014, conforme a lo dispuesto en los artículos transitorios subsecuentes y se derogan todas las disposiciones legales que contravengan o se opongan a la presente Ley.
+
+Artículo Cuarto. Los procedimientos administrativos iniciados de conformidad con la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Querétaro publicada en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, el 20 de diciembre de 2014, que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente Ley, se resolverán hasta su conclusión definitiva, en términos de dicha Ley.
+
+Artículo Quinto. La ESFEQ deberá actualizar y, en su caso, publicar la normatividad que conforme a sus atribuciones deba expedir, en un plazo no mayor a ciento ochenta días hábiles contados a partir de que la presente Ley cobre vigencia.
+
+Artículo Sexto. El titular de la ESFEQ en funciones, concluirá el encargo para el que fue designado, pudiendo participar como candidato en la convocatoria para la designación de Auditor Superior del Estado de Querétaro previsto en la presente Ley.
