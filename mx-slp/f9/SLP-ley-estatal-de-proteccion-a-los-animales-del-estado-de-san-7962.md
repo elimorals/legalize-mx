@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2016-12-20"
+last_updated: "2017-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -399,9 +399,9 @@ Del Sacrificio.
 
 El transporte de animales en vehículos destinados para espectáculo, deberá ser de la siguiente manera:
 
-> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-I.- Para el transporte de animales silvestres, y/o de circo se debe cumplir con lo establecido en la Norma Oficial Mexicana 051-ZOO-1995, trato humanitario en la movilización de animales;
+I.- Para transporte de animales se debe cumplir con lo establecido en la Norma Oficial Mexicana 051-ZOO-1995, trato humanitario en la movilización de animales;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2006)</small>
 
@@ -980,3 +980,11 @@ P.O. 20 DE DICIEMBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente.
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0609.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 39 DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
