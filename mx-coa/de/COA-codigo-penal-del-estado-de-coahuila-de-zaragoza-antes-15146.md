@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2017-04-11"
+last_updated: "2017-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -4983,11 +4983,9 @@ SANCIÓN AUTÓNOMA DE LOS DELITOS DE VIOLENCIA FAMILIAR, PROPIO O EQUIPARADO, CO
 
 ###### ARTÍCULO 314.
 
-SANCIONES Y FIGURA TÍPICA DE INCUMPLIMIENTO DE LAS OBLIGACIONES BÁSICAS DE ASISTENCIA FAMILIAR. Se aplicará prisión de uno a cinco años y pérdida de sus derechos familiares: A quien respecto de un menor de edad, un incapacitado o de una persona desvalida a causa de su enfermedad o deterioro de su salud, incumpla el deber de asistencia a que esté legalmente obligado al omitir sin motivo justificado ministrarle los recursos necesarios para atender sus necesidades de comida y habitación.
+SANCIONES Y FIGURA TÍPICA DE INCUMPLIMIENTO DE LAS OBLIGACIONES BÁSICAS DE ASISTENCIA FAMILIAR. Se aplicará prisión de uno a cinco años y pérdida de sus derechos familiares: A quien incumpla con sus obligaciones de dar alimentos a las personas que tienen derecho a recibirlos.
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
-
-Si el adeudo excede de un periodo de tres meses consecutivos o no, el Juez ordenará al Registro Civil la inscripción del sentenciado en el Registro Estatal de Deudores Alimentarios Morosos.
+Si el incumplimiento de las obligaciones alimentarias excede de manera consecutiva o intermitentemente, ya sea en tres ocasiones en un periodo de tres meses, o, para el caso de las pensiones alimenticias que se deban cumplir de manera mensual, en tres ocasiones en un periodo de seis meses, el Juez ordenará la inscripción del sentenciado al Registro Estatal de Deudores Alimentarios Morosos.
 
 ###### ARTÍCULO 315.
 
@@ -5036,6 +5034,8 @@ VI. USURPACIÓN DEL ESTADO CIVIL O LA FILIACIÓN DE OTRO. Usurpe el estado civil
 VII. NEGATIVA DEL DERECHO DE CONVIVENCIA ENTRE PADRES E HIJOS. A quien teniendo la custodia provisional o definitiva de un menor por decreto de autoridad competente y habiendo sido requerido por ésta para tal efecto, niegue o impida la convivencia de aquél con la persona que tiene reconocido ese derecho; o a ésta, si después de que lo ha ejercido, no reincorpora al menor al domicilio que habita con su custodio.
 
 ### CAPÍTULO SEGUNDO. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 319.
 
@@ -7098,3 +7098,11 @@ P.O. 11 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 829.- SE REFORMA EL ARTÍCULO 9, LOS INCISOS 9 Y 15 DE LA FRACCIÓN III DEL ARTÍCULO 113 Y LA FRACCIÓN I DEL ARTÍCULO 415 DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 790.- SE REFORMA EL ARTÍCULO 2, LAS FRACCIONES XVIII, XXII Y XXIII DEL ARTÍCULO 5, EL ARTÍCULO 6, LA FRACCIÓN VII DEL ARTÍCULO 16, LA FRACCIÓN VIII DEL ARTÍCULO 23, EL ARTÍCULO 35, LAS FRACCIONES I Y II DEL ARTÍCULO 87; SE ADICIONA, LA FRACCIÓN XXIV AL ARTÍCULO 5, LA FRACCIÓN IX AL ARTÍCULO 23, LA FRACCIÓN III AL ARTÍCULO 87, DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones de las leyes y reglamentos que sean contrarias a las normas establecidas en el presente Decreto.
