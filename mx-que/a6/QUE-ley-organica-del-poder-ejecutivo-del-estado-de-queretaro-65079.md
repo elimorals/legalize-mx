@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2016-12-21"
+last_updated: "2017-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -31,7 +33,9 @@ LIC. FRANCISCO GARRIDO PATRÓN, Gobernador Constitucional del Estado de Queréta
 
 LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LA FACULTAD QUE LE CONFIERE EL ARTÍCULO 17 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, aprueba la siguiente:
 
@@ -221,9 +225,11 @@ XVI. La Oficina de la Gubernatura; y
 
 XVII. La Secretaría de Cultura.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE ABRIL DE 2017)</small>
+
 ###### Artículo 20.
 
-(DEROGADO, P.O. 28 DE OCTUBRE DE 2016)
+Las dependencias, a través de las unidades administrativas que tengan adscritas, podrán expedir certificaciones de los expedientes, documentos o bases de datos que lleven, y que obren en sus archivos o tengan acceso en ejercicio de sus funciones.
 
 ### Capítulo Segundo. De la Secretaría de Gobierno
 
@@ -283,127 +289,143 @@ XXI. Tramitar los recursos administrativos que competa resolver al Gobernador el
 
 XXII. Realizar los actos jurídicos necesarios para reivindicar, administrar y conservar las propiedades del Estado;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XXIII. Elaborar y ejecutar, a través de la Dirección General de Reinserción Social, los programas generales de reinserción social;
+XXIII. Planear y organizar el funcionamiento de los Centros Penitenciarios, de conformidad con las leyes aplicables;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XXIV. Administrar, a través de la Dirección General de Reinserción Social, los Centros de Reinserción Social y los Centros de Internamiento de Adolescentes;
+XXIV. Ejecutar el internamiento por prisión preventiva, de las penas y medidas de seguridad impuestas como consecuencia de una resolución judicial, de conformidad con las leyes aplicables;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XXV. Tramitar, por acuerdo del Gobernador del Estado, las solicitudes de extradición, amnistía e indulto;
+XXV. Celebrar convenios con organizaciones de la sociedad civil e instituciones del Estado a fin de diseñar, implementar o brindar servicios en internamiento o de naturaleza post-penal, con apego a lo dispuesto por las disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XXVI. Ejecutar las penas, medidas de seguridad, sustitutivos de prisión y beneficios preliberacionales impuestos por los tribunales del Estado, tratándose de adultos, y las medidas, en el caso de adolescentes;
+XXVI. Organizar el funcionamiento de la Autoridad Administrativa especializada en la ejecución de medidas para adolescentes, en sus distintas áreas y unidades de seguimiento;
 
-XXVII. Organizar, dirigir y controlar el Sistema de Asesoría y Defensa Pública;
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+XXVII. Planear y organizar el funcionamiento del Centro de Internamiento y de ejecución de medidas para adolescentes;
 
-XXVIII. Tramitar los nombramientos que para el ejercicio de las funciones notariales expida el Gobernador del Estado;
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+XXVIII. Ejecutar el internamiento preventivo y las medidas de sanción privativas de libertad, impuestas a los adolescentes mediante resolución judicial, de conformidad con las leyes aplicables;
 
-XXIX. Ordenar y practicar las visitas de inspección a las Notarías Públicas del Estado;
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+XXIX. Establecer y coordinar las comisiones intersecretariales que se encargarán de la elaboración de programas de servicios para la ejecución de las medidas preventivas y de sanción impuestas a los adolescentes, a efecto de favorecer su inclusión educativa, social y laboral cuando estén próximos a su externamiento;
 
-XXX. Dirigir, vigilar, supervisar e inspeccionar la función notarial en el Estado;
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+XXX. Celebrar convenios e implementar mecanismos de participación con organizaciones de la sociedad civil a fin de diseñar, implementar o brindar servicios en el cumplimiento de las medidas impuestas a los adolescentes, de conformidad con las leyes aplicables;
 
-XXXI. Requerir a los Notarios para que exhiban en su oficina notarial, en las oficinas de la Secretaria de Gobierno o de la autoridad competente, la información, datos, u otros documentos que sean necesarios para llevar a cabo la revisión del ejercicio de su función notarial;
-
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
-
-XXXII. Fijar y aplicar sanciones a los Notarios, suspender y determinar la responsabilidad administrativa de conformidad con la Ley del Notariado del Estado de Querétaro y demás disposiciones aplicables;
+XXXI. Organizar, dirigir y controlar el Sistema de Asesoría y Defensa Pública;
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XXXIII. Tramitar y resolver los procedimientos de queja instaurados en contra de los Notarios, de conformidad con las disposiciones legales aplicables;
+XXXII. Tramitar los nombramientos que para el ejercicio de las funciones notariales expida el Gobernador del Estado;
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XXXIV. Llevar el libro de Registro de Notarios Públicos y organizar y controlar el Archivo General de Notarías del Estado;
+XXXIII. Ordenar y practicar las visitas de inspección a las Notarías Públicas del Estado;
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XXXV. Ejecutar, por acuerdo del Gobernador del Estado, las expropiaciones, ocupación temporal y limitación de dominio en los casos de utilidad pública de conformidad con la legislación relativa;
+XXXIV. Dirigir, vigilar, supervisar e inspeccionar la función notarial en el Estado;
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XXXVI. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil y del Registro Público de la Propiedad y del Comercio;
+XXXV. Requerir a los Notarios para que exhiban en su oficina notarial, en las oficinas de la Secretaria de Gobierno o de la autoridad competente, la información, datos, u otros documentos que sean necesarios para llevar a cabo la revisión del ejercicio de su función notarial;
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XXXVII. Organizar los actos cívicos del Poder Ejecutivo del Estado;
+XXXVI. Fijar y aplicar sanciones a los Notarios, suspender y determinar la responsabilidad administrativa de conformidad con la Ley del Notariado del Estado de Querétaro y demás disposiciones aplicables;
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XXXVIII. Administrar y publicar el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”;
+XXXVII. Tramitar y resolver los procedimientos de queja instaurados en contra de los Notarios, de conformidad con las disposiciones legales aplicables;
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XXXIX. Otorgar, revocar y modificar las concesiones y permisos necesarios para la explotación de vialidades de jurisdicción estatal;
+XXXVIII. Llevar el libro de Registro de Notarios Públicos y organizar y controlar el Archivo General de Notarías del Estado;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XXXIX. Ejecutar, por acuerdo del Gobernador (sic) Estado, las expropiaciones, ocupación temporal y limitación de dominio en los casos de utilidad pública de conformidad con la legislación relativa;
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XL. Verificar el cumplimiento de las disposiciones legales en cuanto a las actividades de almacenaje, venta y porteo de bebidas alcohólicas, y su consumo en los establecimientos y lugares donde se expendan éstas, de conformidad con las disposiciones aplicables;
+XL. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil y del Registro Público de la Propiedad y del Comercio;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XLI. Organizar los actos cívicos del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XLII. Administrar y publicar el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga";
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XLIII. Otorgar, revocar y modificar las concesiones y permisos necesarios para la explotación de vialidades de jurisdicción estatal;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XLIV. Verificar el cumplimiento de las disposiciones legales en cuanto a las actividades de almacenaje, venta y porteo de bebidas alcohólicas, y su consumo en los establecimientos y lugares donde se expendan éstas, de conformidad con las disposiciones aplicables;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XLI. Tramitar, otorgar, refrendar, supervisar, suspender y revocar las licencias y permisos para el almacenaje, venta, consumo y porteo de bebidas alcohólicas; y ejercer, en su caso, los derechos que correspondan;
+XLV. Tramitar, otorgar, refrendar, supervisar, suspender y revocar las licencias y permisos para el almacenaje, venta, consumo y porteo de bebidas alcohólicas; y ejercer, en su caso, los derechos que correspondan;
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XLII. Expedir y ejecutar ordenes de visita, inspecciones de verificación y revisiones a las personas, establecimientos y lugares que realicen las actividades de almacenaje, venta, consumo y porteo de bebidas alcohólicas, con el fin de comprobar el cumplimiento de las obligaciones establecidas en las disposiciones aplicables;
+XLVI. Expedir y ejecutar ordenes de visita, inspecciones de verificación y revisiones a las personas, establecimientos y lugares que realicen las actividades de almacenaje, venta, consumo y porteo de bebidas alcohólicas, con el fin de comprobar el cumplimiento de las obligaciones establecidas en las disposiciones aplicables;
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XLIII. En el ámbito de su competencia, determinar e imponer sanciones a las personas que realicen las actividades de almacenaje, venta, comercialización, consumo y porteo de bebidas alcohólicas, que incumplan las disposiciones aplicables, incluyendo la clausura de los establecimientos y negociaciones;
+XLVII. En el ámbito de su competencia, determinar e imponer sanciones a las personas que realicen las actividades de almacenaje, venta, comercialización, consumo y porteo de bebidas alcohólicas, que incumplan las disposiciones aplicables, incluyendo la clausura de los establecimientos y negociaciones;
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XLIV. Participar en los asuntos de materia agraria, por acuerdo del Gobernador del Estado, en los términos de las leyes respectivas;
+XLVIII. Participar en los asuntos de materia agraria, por acuerdo del Gobernador del Estado, en los términos de las leyes respectivas;
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XLV. Administrar el Archivo Histórico y el Archivo General del Estado;
+XLIX. Administrar el Archivo Histórico y el Archivo General del Estado;
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XLVI. Ejercer la facultad económico-coactiva, conforme a las leyes aplicables;
+L. Ejercer la facultad económico-coactiva, conforme a las leyes aplicables;
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XLVII. Formar parte del Sistema Estatal de Seguridad y el Consejo Estatal de Seguridad, de conformidad con la Ley de Seguridad para el Estado de Querétaro;
+LI. Formar parte del Sistema Estatal de Seguridad y el Consejo Estatal de Seguridad, de conformidad con la Ley de Seguridad para el Estado de Querétaro;
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XLVIII. Proponer políticas, planes, servicios, programas y acciones al Consejo Estatal de Seguridad;
+LII. Proponer políticas, planes, servicios, programas y acciones al Consejo Estatal de Seguridad;
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XLIX. Operar el Sistema Estatal de Protección Civil, de conformidad con la Ley de la materia;
+LIII. Operar el Sistema Estatal de Protección Civil, de conformidad con la Ley de la materia;
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-L. Proponer al Consejo Estatal de Protección Civil, políticas, acciones y estrategias de coordinación en materia de protección civil, para todo el territorio del Estado;
+LIV. Proponer al Consejo Estatal de Protección Civil, políticas, acciones y estrategias de coordinación en materia de protección civil, para todo el territorio del Estado;
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-LI. Fomentar la participación ciudadana en la formulación de planes y programas de protección civil, coordinándose, en su caso, con los diferentes órdenes de gobierno;
+LV. Fomentar la participación ciudadana en la formulación de planes y programas de protección civil, coordinándose, en su caso, con los diferentes órdenes de gobierno;
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-LII. Vigilar que se cumpla con las actividades relativas a la evaluación de riesgos procesales, supervisión de medidas cautelares, suspensión condicional del proceso, así como el seguimiento a la ejecución de sanciones penales, medidas de seguridad y restrictivas de la libertad condicionada, impuestas por resolución judicial. Lo anterior tratándose de personas adultas y adolescentes según sea el caso, en los términos de la legislación penal aplicable; y
+LVI. Vigilar que se cumpla con las actividades relativas a la evaluación de riesgos procesales, supervisión de medidas cautelares, suspensión condicional del proceso, así como el seguimiento a la ejecución de sanciones penales, medidas de seguridad y restrictivas de la libertad condicionada, impuestas por resolución judicial. Lo anterior tratándose de personas adultas y adolescentes según sea el caso, en los términos de la legislación penal aplicable; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE OCTUBRE DE 2016)</small>
 
-LIII. Las demás facultades y obligaciones que le señalen las leyes y reglamentos que resulten aplicables.
+LVII. Las demás facultades y obligaciones que le señalen las leyes y reglamentos que resulten aplicables.
 
 ### Capítulo Tercero. De la Secretaría de Planeación y Finanzas
 
@@ -593,49 +615,67 @@ XLII. Las demás facultades y obligaciones que le señalen las leyes y reglament
 
 ### Capítulo Cuarto. De la Secretaría de la Contraloría
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+
 ###### Artículo 23.
 
-La Secretaría de la Contraloría es el órgano encargado de planear, organizar, proponer y coordinar los sistemas de prevención, vigilancia, control y evaluación de las dependencias, organismos del Poder Ejecutivo del Estado y entidades paraestatales. Le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de la Contraloría le corresponde el despacho de los siguientes asuntos:
 
-I. Asegurar el funcionamiento y control de los programas gubernamentales requiriendo a las dependencias los sistemas, instrumentos y normas complementarias;
+I. Organizar y coordinar el Sistema de Control Interno y la evaluación de la gestión gubernamental; inspeccionar el ejercicio del gasto público y su congruencia con el presupuesto de egresos;
 
-II. Vigilar el cumplimiento de las normas de prevención, fiscalización, control y evaluación;
+II. Expedir las normas que regulen los instrumentos y procedimientos de control interno del Poder Ejecutivo del Estado y Entidades, para lo cual podrá requerir de las dependencias competentes la expedición de normas complementarias para el ejercicio del control administrativo. Lo anterior sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por los Comités Coordinadores del Sistema Nacional Anticorrupción y del Sistema Estatal Anticorrupción;
 
-III. Llevar a cabo, conforme al programa de trabajo o a petición expresa, las auditorías a dependencias y entidades de la administración pública, así como actuar como órgano de consulta y auditar cuando lo requieran las dependencias, en apoyo de sus órganos de control interno o en substitución de los mismos;
+III. Vigilar el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control de las Dependencias del Poder Ejecutivo y sus Entidades;
 
-IV. Inspeccionar y supervisar que las dependencias cumplan con normas y disposiciones de registro, contabilidad, contratación y pago de personal, contratación y pago de servicios de obra pública, compras, arrendamientos, conservación, usos, destino, afectación, enajenación y bajas de bienes muebles e inmuebles, almacenes y demás recursos materiales activos;
+IV. Coordinar y supervisar el Sistema de Control Interno, establecer las bases generales para la realización de auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las Dependencias del Poder Ejecutivo y sus Entidades, así como realizar las auditorías que se requieran en éstas, en sustitución o apoyo de sus propios órganos internos de control;
 
-V. Atender y canalizar las quejas y denuncias que se presenten con motivo de actos u omisiones de servidores públicos;
+V. Vigilar el cumplimiento, por parte de las dependencias del Poder Ejecutivo y sus Entidades, de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio;
 
-VI. Asesorar a los municipios en lo relacionado con sistemas contables, administrativos, técnicos, financieros, de control y evaluación;
+VI. Realizar por sí, o a solicitud de otras Secretarías o de la coordinadora de sector correspondiente, auditorías, revisiones y evaluaciones a las Dependencias del Poder Ejecutivo y sus Entidades, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo;
 
-VII. Opinar y emitir dictámenes sobre proyectos de sistemas de normas de contabilidad y control en materia de programación, presupuestación, recursos humanos, materiales y financieros, así como contratación de deuda pública y manejo de fondos y valores;
+VII. Fiscalizar directamente o a través de los órganos internos de control, pero que las dependencias del Poder Ejecutivo y sus Entidades cumplan con las normas y disposiciones legales;
 
-VIII. Expedir las normas de control en la ejecución de los programas de mejoramiento administrativo y supervisar el cumplimiento de las normas de control y fiscalización;
+VIII. Designar y remover a los auditores externos de las Entidades, así como normar y controlar su desempeño;
 
-IX. Recibir, registrar y requerir las declaraciones patrimoniales que presenten los servidores públicos de la administración estatal central y paraestatal, así como corroborar la veracidad de las mismas;
+IX. Participar, por conducto de su Titular, como integrante del Comité Coordinador del Sistema Estatal Anticorrupción de Querétaro;
 
-X. Verificar que los programas de inversión de las dependencias del Poder Ejecutivo del Estado y sus organismos auxiliares, se realicen conforme con los objetivos de los planes de desarrollo aprobados;
+X. Designar y remover, para el mejor desarrollo del sistema de control y evaluación de la gestión gubernamentales (sic), a los comisarios públicos de los órganos de vigilancia de las Entidades, así como normar y controlar su desempeño;
 
-XI. Vigilar y evaluar, de conformidad con las leyes respectivas, el ejercicio del gasto público y del Presupuesto de Egresos del Estado;
+XI. Designar y remover a los titulares de los órganos internos de control de las Dependencias del Poder Ejecutivo y sus Entidades, quienes dependerán jerárquica y funcionalmente de la Secretaría de la Contraloría; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Federales y Estatales.
 
-XII. Vigilar el uso correcto de los recursos patrimoniales del Estado, los que la federación le transfiera y los que, a su vez, éste transfiera a los municipios, en el marco del Convenio Único de Desarrollo;
+Los titulares de los órganos internos de control de las dependencias del Poder Ejecutivo y sus Entidades, serán responsables de mantener el control interno de la dependencia o entidad a la que se encuentren adscritos. Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos.
 
-XIII. Proponer al Gobernador del Estado, iniciativas de ley, reglamentos, decretos, acuerdos y órdenes para mejorar y hacer más expedita la tramitación de los diversos asuntos ante las dependencias de la entidad pública estatal, en el área de sus respectivas competencias, buscando como objetivo fundamental, la simplificación administrativa;
+Los órganos internos de control, en ejercicio de su función de auditoría, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y demás que resulten aplicables, así como por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Nacional Anticorrupción, Sistema Estatal Anticorrupción de Querétaro y la Secretaría de la Contraloría del Poder Ejecutivo respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las Dependencias del Poder Ejecutivo y sus Entidades, y presentación, en su caso, de informes por parte de dichos órganos.
 
-XIV. Evaluar la función administrativa de cada una de las dependencias y entidades paraestatales, proponiendo y solicitando al Gobernador del Estado, la adopción de las medidas necesarias para hacer más eficaz la prestación del servicio público;
+Las unidades encargadas de la función de auditoría de la Secretaría de la Contraloría y los órganos internos de control del Poder Ejecutivo del Estado y sus Entidades se sujetarán, en su ejercicio, a las normas técnicas y códigos de ética, de conformidad con la Ley General del Sistema Nacional Anticorrupción y las mejores prácticas que considere el referido sistema.
 
-XV. Hacer del conocimiento del Gobernador del Estado, los resultados de las diversas auditorías, dictámenes e informes de comisarios y supervisiones;
+Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Nacional Anticorrupción y del Sistema Estatal Anticorrupción de Querétaro, los titulares de los órganos internos de control integrarán los comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión.
 
-XVI. Aplicar, en lo administrativo, las sanciones en que hayan incurrido servidores públicos en el ejercicio de sus funciones, a que se refiere la Ley de la materia;
+En los casos en que no exista Órgano Interno de Control en alguna Entidad Paraestatal, tendrá la facultad de conocer, atender y dar seguimiento de los asuntos el Órgano Interno de Control de la Dependencia coordinadora de sector correspondiente.
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+XII. Colaborar, en el marco de los Sistemas Nacional y Estatal Anticorrupción, así como en el Sistema Nacional de Fiscalización, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
 
-XVII. Presentar denuncias o querellas ante la Fiscalía General del Estado de Querétaro, así como proceder a su ratificación, para iniciar la investigación que en derecho corresponda, derivada de hechos probablemente constitutivos de delito;
+XIII. Implementar las acciones que acuerden los Sistemas Nacional y Estatal Anticorrupción, en términos de las disposiciones aplicables;
 
-XVIII. Establecer y aplicar el Sistema Estatal de Prevención, Vigilancia, Control y Evaluación del Poder Ejecutivo y sus organismos; y
+XIV. Informar periódicamente al Comité Coordinador de los Sistemas Nacional y Estatal Anticorrupción, sobre el resultado de la evaluación respecto de la gestión de las Dependencias del Poder Ejecutivo y sus Entidades, en los términos de las disposiciones legales y promover ante las autoridades competentes, las acciones que procedan para corregir las irregularidades detectadas;
 
-XIX. Las demás facultades y obligaciones que señalen las leyes y reglamentos vigentes en el Estado.
+XV. Mantener actualizado en el sistema de evolución patrimonial, la información correspondiente a las declaraciones patrimoniales, de intereses y fiscales, conforme a la Ley General de Responsabilidades Administrativas que deban presentar los servidores públicos de las Dependencias del Poder Ejecutivo y sus Entidades, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
+
+XVI. Conocer e investigar las conductas de los servidores públicos de las Dependencias del Poder Ejecutivo y sus Entidades que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley General de Responsabilidades Administrativas, por sí, o por conducto de los órganos internos de control que correspondan a cada área de las Dependencias del Poder Ejecutivo y sus Entidades; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia de los Tribunales de Justicia Administrativa Federal o Estatal y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante el Tribunal competente; así como presentar las denuncias correspondientes ante la Fiscalía Especializada Federal o Estatal;
+
+XVII. Establecer mecanismos internos para las Dependencias del Poder Ejecutivo y sus Entidades que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+XVIII. Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Nacional Anticorrupción, en materia de combate a la corrupción en las Dependencias del Poder Ejecutivo y sus Entidades;
+
+XIX. Emitir normas, lineamientos específicos y manuales que, dentro del ámbito de su competencia, integren disposiciones y criterios que impulsen la mejora de la gestión pública, para lo cual deberán tomar en consideración las bases y principios de coordinación y recomendaciones generales que emita el Comité Coordinador del Sistema Nacional Anticorrupción o del Sistema Estatal Anticorrupción;
+
+XX. Emitir el Código de Ética de los servidores públicos del Poder Ejecutivo del Estado y sus Entidades, así como las Reglas de Integridad para el ejercicio de la función pública;
+
+XXI. Nombrar y remover a los titulares de las Direcciones y Unidades Administrativas de la Secretaría;
+
+XXII. Intervenir en toda clase de juicios, investigaciones o procedimientos ante los Tribunales Federales y Locales que le competan; y
+
+XXIII. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 ### Capítulo Quinto. De la Secretaría de Desarrollo Urbano y Obras Públicas
 
@@ -695,11 +735,15 @@ XI. Ejercer, previo acuerdo del Gobernador del Estado, las atribuciones y funcio
 
 XII. Proponer y coadyuvar en la operación, dirección y formulación de manera coordinada con la Secretaría de Desarrollo Urbano y Obras Públicas y la Comisión Estatal de Aguas, de los programas, proyectos y acciones específicas para el abastecimiento, tratamiento de aguas, prestación de los servicios de agua potable, drenaje, alcantarillado y pluvial;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XIII. Vigilar el cumplimiento y aplicación de las normas en materia de preservación y restauración del equilibrio ecológico y la protección al medio ambiente para el desarrollo sustentable, así como fomentar el desarrollo de escuelas de nivel básico, medio y medio superior sustentables; y
+XIII. Vigilar el cumplimiento y aplicación de las normas en materia de preservación y restauración del equilibrio ecológico y la protección al medio ambiente para el desarrollo sustentable, así como fomentar el desarrollo de escuelas de nivel básico, medio y medio superior sustentable;
 
-XIV. Las demás facultades y atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XIV. Participar y coordinar en el ámbito de su competencia, las acciones de cooperación con las autoridades penitenciarias e instituciones que intervienen en la ejecución de la prisión preventiva, de las sanciones penales y de las medidas de seguridad impuestas, de conformidad con las leyes aplicables; y
+
+XV. Las demás facultades y atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ### Capítulo Séptimo. De la Secretaría de Desarrollo Agropecuario
 
@@ -725,15 +769,11 @@ VIII. Las demás facultades y obligaciones que le señalen las leyes y reglament
 
 ### Capítulo Octavo. De la Secretaría de Educación
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 27.
 
 La Secretaría de Educación, es la dependencia encargada de promover la superación y el desarrollo educativo y le corresponde el despacho de los siguientes asuntos:
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -751,8 +791,6 @@ VI. Llevar el registro y control de los profesionistas que ejerzan en el Estado 
 
 VII. Vigilar la realización de los actos cívicos escolares, de acuerdo con el calendario oficial;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 VIII. Establecer programas de comunicación y difusión educativa, en coordinación con las demás instancias federales, estatales y municipales competentes;
@@ -761,19 +799,15 @@ IX. Mantener por sí o en coordinación con los gobiernos federal y municipales,
 
 X. Fomentar el desarrollo de la investigación científica, tecnológica y humanística en la Entidad;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2017)</small>
 
-XI. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+XI. Participar y coordinar en el ámbito de su competencia, las acciones de cooperación con las autoridades penitenciarias e instituciones que intervienen en la ejecución de la prisión preventiva, de las sanciones penales y de las medidas de seguridad impuestas, de conformidad con las leyes aplicables;
 
 XII. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2016)
 
 XIII. (DEROGADA, P.O. 12 DE MARZO DE 2014)
 
 XIV. Coordinar, organizar y promover la enseñanza y la práctica de los deportes en el Estado, así como la participación de la Entidad en torneos y justas deportivas nacionales e internacionales;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -791,9 +825,9 @@ XVII. Implementar medidas y estrategias que propicien la incorporación de hábi
 
 XVIII. Ejercer, dentro de su ámbito de competencia, las atribuciones que en materia del servicio profesional docente y de evaluación educativa, le confieren las leyes y demás disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XIX. Colaborar en el ámbito de su competencia, para cumplir con las obligaciones previstas en la Ley de Seguridad para el Estado de Querétaro, en la prevención del delito, la atención a víctimas de la violencia y delincuencia, así como la promoción, respeto y protección de los derechos humanos y la aplicación de los mecanismos alternativos de solución de controversias y conflictos, en términos de la Constitución Política de los Estados Unidos Mexicanos; y
+XIX. Colaborar en el ámbito de su competencia, para cumplir con las obligaciones previstas en la Ley de Seguridad para el Estado de Querétaro, en la prevención del delito y el acoso escolar, la atención a víctimas de la violencia y delincuencia, así como la promoción, respeto y protección de los derechos humanos y la aplicación de los mecanismos alternativos de solución de controversias y conflictos, en términos de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
@@ -847,13 +881,17 @@ XVIII. Impulsar la permanente actualización de las disposiciones legales aplica
 
 XIX. Implementar medidas y estrategias que propicien la adopción de hábitos alimenticios sanos y estilos de vida saludables por la población;
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XX. Colaborar en el ámbito de su competencia, para cumplir con las obligaciones previstas en la Ley de Seguridad para el Estado de Querétaro, en la prevención del delito, la atención a víctimas de la violencia y delincuencia, así como la promoción, respeto y protección de los derechos humanos y la aplicación de los mecanismos alternativos de solución de controversias y conflictos, en términos de la Constitución Política de los Estados Unidos Mexicanos; y
+XX. Colaborar en el ámbito de su competencia, para cumplir con las obligaciones previstas en la Ley de Seguridad para el Estado de Querétaro, en la prevención del delito, la atención a víctimas de la violencia y delincuencia, así como la promoción, respeto y protección de los derechos humanos y la aplicación de los mecanismos alternativos de solución de controversias y conflictos, en términos de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XXI. Participar y coordinar en el ámbito de su competencia, las acciones de cooperación con las autoridades penitenciarias e instituciones que intervienen en la ejecución de la prisión preventiva, de las sanciones penales y de las medidas de seguridad impuestas, de conformidad con las leyes aplicables; y
 
 (REUBICADA, P.O. 28 DE OCTUBRE DE 2016)
 
-XXI. Las demás atribuciones afines a las anteriores que se requiera para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones legales aplicables.
+XXII. Las demás atribuciones afines a las anteriores que se requiera para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones legales aplicables.
 
 ### Capítulo Décimo. De la Secretaría del Trabajo
 
@@ -891,13 +929,17 @@ XIII. Formular y ejecutar programas de difusión de los cambios que se den en la
 
 XIV. Brindar la asesoría legal necesaria para la conformación de cooperativas de productores y consumidores en el Estado;
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XV. Colaborar en el ámbito de su competencia, para cumplir con las obligaciones previstas en la Ley de Seguridad para el Estado de Querétaro, en la prevención del delito, la atención a víctimas de la violencia y delincuencia, así como la promoción, respeto y protección de los derechos humanos y la aplicación de los mecanismos alternativos de solución de controversias y conflictos, en términos de la Constitución Política de los Estados Unidos Mexicanos; y
+XV. Colaborar en el ámbito de su competencia, para cumplir con las obligaciones previstas en la Ley de Seguridad para el Estado de Querétaro, en la prevención del delito, la atención a víctimas de la violencia y delincuencia, así como la promoción, respeto y protección de los derechos humanos y la aplicación de los mecanismos alternativos de solución de controversias y conflictos, en términos de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XVI. Participar y coordinar en el ámbito de su competencia, las acciones de cooperación con las autoridades penitenciarias e instituciones que intervienen en la ejecución de la prisión preventiva, de las sanciones penales y de las medidas de seguridad impuestas, de conformidad con las leyes aplicables; y
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XVI. Las que les señalen las demás leyes y disposiciones aplicables.
+XVII. Las que les señalen las demás leyes y disposiciones aplicables.
 
 #### Sección Única. De la Junta Local de Conciliación y Arbitraje
 
@@ -1141,9 +1183,15 @@ XX. Fomentar la participación ciudadana en la formulación de planes y programa
 
 XXI. Promover y facilitar la participación social para el desarrollo de actividades de observación sobre el ejercicio de sus atribuciones;
 
-XXII. Atender de manera expedita las denuncias y quejas presentadas con motivo de las acciones u omisiones relacionadas con el ejercicio de sus atribuciones, y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XXIII. Las demás facultades y obligaciones que le atribuyan expresamente las leyes y reglamentos.
+XXII. Atender de manera expedita las denuncias y quejas presentadas con motivo de las acciones u omisiones relacionadas con el ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XXIII. Participar y coordinar en el ámbito de su competencia, las acciones de cooperación con las autoridades penitenciarias e instituciones que intervienen en la ejecución de la prisión preventiva, de las sanciones penales y de las medidas de seguridad impuestas, de conformidad con las leyes aplicables; y
+
+XXIV. Las demás facultades y obligaciones que le atribuyan expresamente las leyes y reglamentos.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 25 DE MARZO DE 2011)</small>
 
@@ -1195,21 +1243,23 @@ XVIII. En coordinación con la dependencia gubernamental que corresponda, propon
 
 XIX. Generar la información estadística desagregada del sector juvenil, correspondiente a (sic) Poder Ejecutivo del Estado;
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XX. Colaborar en el ámbito de su competencia, para cumplir con las obligaciones previstas en la Ley de Seguridad para el Estado de Querétaro, en la prevención del delito, la atención a víctimas de la violencia y delincuencia, así como la promoción, respeto y protección de los derechos humanos y la aplicación de los mecanismos alternativos de solución de controversias y conflictos, en términos de la Constitución Política de los Estados Unidos Mexicanos; y
+XX. Colaborar en el ámbito de su competencia, para cumplir con las obligaciones previstas en la Ley de Seguridad para el Estado de Querétaro, en la prevención del delito, la atención a víctimas de la violencia y delincuencia, así como la promoción, respeto y protección de los derechos humanos y la aplicación de los mecanismos alternativos de solución de controversias y conflictos, en términos de la Constitución Política de los Estados Unidos Mexicanos;
 
-(REUBICADA, P.O. 28 DE OCTUBRE DE 2016)
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XXI. Las demás que le confieran otras leyes o reglamentos, sin perjuicio de las atribuciones de otras dependencias.
+XXI. Participar y coordinar en el ámbito de su competencia, las acciones de cooperación con las autoridades penitenciarias e instituciones que intervienen en la ejecución de la prisión preventiva, de las sanciones penales y de las medidas de seguridad impuestas, de conformidad con las leyes aplicables; y
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XXII. Las demás que le confieran otras leyes reglamentos, sin perjuicio de las atribuciones de otras dependencias.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE MARZO DE 2015) (F. DE E., P.O. 15 DE OCTUBRE DE 2015)
 
 ### Capítulo Décimo Quinto. De la Secretaría de Desarrollo Social
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (ADICIONADO, P.O. 27 DE MARZO DE 2015) (F. DE E., P.O. 15 DE OCTUBRE DE 2015)
 
@@ -1243,9 +1293,15 @@ XII. Informar a la sociedad sobre las acciones en torno al desarrollo social de 
 
 XIII. Definir los mecanismos de evaluación de los programas y acciones de desarrollo social;
 
-XIV. Promover y fomentar la organización y participación social para acercar programas, servicios y acciones en torno al desarrollo social; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XV. Las demás que le señalen esta Ley y las disposiciones jurídicas aplicables.
+XIV. Promover y fomentar la organización y participación social para acercar programas, servicios y acciones en torno al desarrollo social;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XV. Participar y coordinar en el ámbito de su competencia, las acciones de cooperación con las autoridades penitenciarias e instituciones que intervienen en la ejecución de la prisión preventiva, de las sanciones penales y de las medidas de seguridad impuestas, de conformidad con las leyes aplicables, y
+
+XVI. Las demás que le señalen esta Ley y las disposiciones jurídicas aplicables.
 
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE SEPTIEMBRE DE 2015) (F. DE E., P.O. 15 DE OCTUBRE DE 2015)
 
@@ -1291,8 +1347,6 @@ El funcionamiento de la Oficina de la Gubernatura y de los órganos adscritos a 
 
 ### Capítulo Décimo Séptimo. De la Secretaría de Cultura
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 37.
@@ -1323,9 +1377,15 @@ XI. Vigilar el cumplimiento de los derechos establecidos en la Ley para la Cultu
 
 XII. Elaborar y proponer al Poder Ejecutivo, los proyectos de ley, reglamentos, declaratorias y demás disposiciones de carácter general, tomando en consideración la legislación federal aplicable y los tratados internacionales que se requieran para el manejo de los asuntos en materia de cultura en el Estado;
 
-XIII. Emitir los lineamientos del uso de los espacios en los recintos administrados por la Secretaría para la ejecución y prestación de servicios culturales, así como los correspondientes para el otorgamiento de estímulos y apoyos a la comunidad artística para proyectos debidamente estructurados y justificados, en términos de las disposiciones legales aplicables; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XIV. Las demás facultades y obligaciones que le señalen las leyes y reglamentos aplicables en el Estado.
+XIII. Emitir los lineamientos del uso de los espacios en los recintos administrados por la Secretaría para la ejecución y prestación de servicios culturales, así como los correspondientes para el otorgamiento de estímulos y apoyos a la comunidad artística para proyectos debidamente estructurados y justificados, en términos de las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XIV. Participar y coordinar en el ámbito de su competencia, las acciones de cooperación con las autoridades penitenciarias e instituciones que intervienen en la ejecución de la prisión preventiva, de las sanciones penales y de las medidas de seguridad impuestas, de conformidad con las leyes aplicables, y
+
+XV. Las demás facultades y obligaciones que le señalen las leyes y reglamentos aplicables en el Estado.
 
 ## TRANSITORIOS
 
@@ -1840,3 +1900,13 @@ Artículo Sexto. Las menciones contenidas en las leyes, reglamentos y demás dis
 Artículo Séptimo. Las disposiciones, normas y lineamientos emitidos por el Instituto Queretano de la Cultura y las Artes, continuarán en vigor hasta en tanto la Secretaría de Cultura del Poder Ejecutivo del Estado de Querétaro, emita las correspondientes, en lo que no contravengan lo dispuesto en la presente Ley.
 
 Artículo Octavo. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán con cargo al presupuesto aprobado al Instituto Queretano de la Cultura y las Artes, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal en curso.
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, EN MATERIA DE COMBATE A LA CORRUPCIÓN".]
+
+Artículo Primero. La presente Ley entrará en vigor el mismo día en que entre en vigor la Ley General de Responsabilidades Administrativas, publicada en el Diario Oficial de la Federación el 18 de julio de 2016.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en la presente Ley.
+
+Artículo Tercero. Se instruye a la Secretaría de la Contraloría, a la Secretaría de Planeación y Finanzas y a las Entidades Paraestatales, para realizar las adecuaciones presupuestales, financieras y de recursos humanos, a efecto de dar cumplimiento a lo establecido en la presente Ley.
