@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-mejora-regulatoria-de-la-actividad-empresarial-43912"
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-28"
-last_updated: "2005-02-28"
+last_updated: "2017-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE LA MEJORA REGULATORIA DE LA ACTIVIDAD EMPRESARIAL DEL ESTADO DE HIDALGO
 
-LEY DE LA MEJORA REGULATORIA DE LA ACTIVIDAD EMPRESARIAL DEL ESTADO DE HIDALGO.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 17 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY DE LA MEJORA REGULATORIA DE LA ACTIVIDAD EMPRESARIAL DEL ESTADO DE HIDALGO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 28 de febrero de 2005.
 
@@ -352,3 +354,31 @@ EL GOBERNADOR CONSTITUCIONAL
 DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 172 QUE CONTIENE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO.- La presente Ley es reglamentaria del artículo 83 de la Constitución Política del Estado de Hidalgo y entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga la Ley de la Mejora Regulatoria de la Actividad Empresarial del Estado de Hidalgo, publicada en el Periódico Oficial del Estado el veintiocho de febrero de dos mil cinco.
+
+TERCERO.- El Consejo Estatal de Mejora Regulatoria se instalará dentro de los 60 días hábiles siguientes a la entrada en vigor de la presente Ley, y propondrá al Ejecutivo Estatal su Reglamento Interior, en un plazo no mayor a 60 días hábiles, contados a partir de la fecha de su instalación.
+
+CUARTO.- El Ejecutivo Estatal expedirá el Reglamento de la Ley en un periodo de 180 días hábiles a partir de su publicación; declarándose nula toda disposición normativa que contravenga a la Ley.
+
+QUINTO.- Los Programas de Mejora Regulatoria a que se refieren los Artículos 40 al 45, deberán ser expedidos en un plazo de 180 días hábiles contados a partir de la entrada en vigor de la Ley.
+
+SEXTO.- Se deberá adecuar la reglamentación en materia de mejora regulatoria de los municipios, en atención a lo dispuesto en el artículo 18 de la Ley, en un plazo de 180 días hábiles contado a partir de su entrada en vigor.
+
+SÉPTIMO. Los municipios expedirán el reglamento de la Comisión Municipal de Mejora Regulatoria en un plazo de 180 días hábiles, contados a partir de la entrada en vigor de la Ley, el cual será publicado en el Periódico Oficial del Estado. Concluido este plazo, las Comisiones Municipales de Mejora Regulatoria deberán integrarse e instalarse en un plazo de 60 días hábiles.
+
+OCTAVO. Los sujetos obligados deberán informar a la Comisión Estatal, en un lapso de 15 días hábiles a la instalación formal de ésta, del nombramiento de su Enlace Oficial de mejora regulatoria.
+
+NOVENO. El Catálogo Estatal o Municipal de Trámites y Servicios deberá estar integrado en un término de 90 días hábiles a partir de la entrada en vigor de esta Ley, y las disposiciones aplicables entrarán en vigor una vez que la Comisión publique en el Periódico Oficial del Estado, el acuerdo de que el Catálogo se encuentra operando.
+
+DECIMO. La Comisión Estatal o las Municipales, conocerán de todos los asuntos pendientes de resolución en materia de Mejora Regulatoria, de acuerdo con su competencia, una vez que éstas se hayan instalado.
+
+DÉCIMO PRIMERO. La Comisión Estatal de Mejora Regulatoria definirá dentro de los primeros 90 días hábiles el plazo y mecanismo para que los sujetos obligados adopten la Ventanilla Única de Atención a la que se refiere el artículo 59 de la Ley.
