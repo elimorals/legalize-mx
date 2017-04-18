@@ -4,7 +4,7 @@ identifier: "COA-ley-para-promover-la-igualdad-y-prevenir-la-discriminacion-5688
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-24"
-last_updated: "2017-01-17"
+last_updated: "2017-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 24 de agosto de 2007.
 
@@ -342,6 +342,10 @@ LIV. Limitar el derecho a la alimentación, vivienda, recreo y a los servicios d
 LV. Impedir el acceso a cualquier servicio público o institución privada que preste servicios al público, así como limitar el acceso y libre desplazamiento en los espacios públicos;
 
 LVI. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para el aprovechamiento, administración o usufructo de recursos naturales, una vez satisfechos los requisitos establecidos en la legislación aplicable.
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+LVII. Limitar, obstaculizar o negar cualquier empleo de oficio o profesional por discriminación, basada en género, raza, etnia, orientación sexual o por tener cualquier modificación corporal, ya sean tatuajes, perforaciones, implantes, u otra condición.
 
 ### CAPÍTULO CUARTO. DE LAS MEDIDAS POSITIVAS Y COMPENSATORIAS
 
@@ -1036,6 +1040,18 @@ P.O. 17 DE ENERO DE 2017.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 799.- SE ADICIONA LA FRACCIÓN LVII AL ARTÍCULO 13 DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN XVI, SE ADICIONA UNA FRACCIÓN XVII, RECORRIENDO ULTERIORES DEL ARTÍCULO 6; SE REFORMA LA FRACCIÓN III, Y SE ADICIONA LA FRACCIÓN V DEL ARTÍCULO 17; SE REFORMA LA FRACCIÓN I, Y SE ADICIONA LA FRACCIÓN III DEL ARTÍCULO 28; SE REFORMA LA FRACCIÓN III, Y SE ADICIONA LA FRACCIÓN V DEL ARTÍCULO 33, SE REFORMA LA FRACCIÓN VII, SE ADICIONA UNA FRACCIÓN VIII, RECORRIENDO ULTERIORES DEL ARTÍCULO 40 Y SE REFORMA LA FRACCIÓN III, Y SE ADICIONA LA FRACCIÓN V DEL ARTÍCULO 46 DE LA LEY DE PROFESIONES PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
