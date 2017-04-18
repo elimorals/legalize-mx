@@ -4,7 +4,7 @@ identifier: "COA-ley-de-profesiones-para-el-estado-de-coahuila-de-zaragoza-13083
 country: "mx"
 rank: "ley"
 publication_date: "1998-11-06"
-last_updated: "2013-12-27"
+last_updated: "2017-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROFESIONES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 6 de noviembre de 1998.
 
@@ -97,9 +97,15 @@ XIV.- Hacer del conocimiento de las autoridades competentes, las infracciones a 
 
 XV.- Publicar en el Periódico Oficial del Gobierno del Estado, las resoluciones que autoricen, nieguen o cancelen el registro de los colegios de profesionistas;
 
-XVI.- Difundir por los medios más idóneos, los nombres de los profesionistas y colegios que cuenten con registro; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XVII.- Las demás que deriven de las leyes o reglamentos de la materia.
+XVI.- Difundir por los medios más idóneos, los nombres de los profesionistas y colegios que cuenten con registro;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XVII.- Hacer del conocimiento de la autoridad competente y actuar ante cualquier tipo de discriminación hacia estudiantes o profesionistas, mencionadas (sic) en la presente ley; y
+
+XVIII.- Las demás que deriven de las leyes o reglamentos de la materia.
 
 ###### ARTICULO 7º.
 
@@ -221,9 +227,15 @@ I.- Ejercer libremente su profesión con los requisitos y limitaciones que deter
 
 II.- Cobrar honorarios por el servicio efectuado, en consideración a lo previsto en los aranceles, tabuladores o convenios previamente establecidos;
 
-III.- Agruparse en colegios, en los términos del Capítulo VI de esta ley; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+III.- Agruparse en colegios, en los términos del Capítulo VI de esta ley;
 
 IV.- Participar en los procesos de certificación voluntaria que se organicen, según lo previsto en el ARTICULO 23 de esta ley.
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+V.- Ser tratado con igualdad, equidad y no discriminación de género, raza, etnia, orientación sexual o por tener tenga (sic) cualquier modificación corporal, ya sean tatuajes, perforaciones, implantes, u otra condición.
 
 ###### ARTICULO 18.
 
@@ -373,9 +385,15 @@ XIII.- Proponer aranceles para el cobro de los servicios profesionales.
 
 Queda prohibido a los colegios de profesionistas:
 
-I.- Realizar en cualquier tiempo, actividades directas o indirectas de proselitismo político o religioso, o negar el acceso a profesionistas por su raza, credo, condición social, militancia política o género; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+I.- Realizar en cualquier tiempo, actividades directas o indirectas de proselitismo político o religioso;
 
 II.- Efectuar actividades lucrativas o distintas a las de sus fines.
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+III.- Negar el acceso o discriminar a profesionistas por su raza, credo, condición social, militancia política, genero, etnia, orientación sexual y modificación corporal, tales como tatuajes, perforaciones, implantes, entre otras.
 
 ###### ARTICULO 29.
 
@@ -411,9 +429,15 @@ I.- En horarios que no interfieran con la formación escolar del educando y, en 
 
 II.- Con una duración no menor de seis meses. El número de horas a cubrir será fijado en atención a las características de la profesión que se estudia;
 
-III.- En áreas estratégicas para el desarrollo del estado o que permitan incidir en la superación de desventajas que padezcan grupos de la población; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+III.- En áreas estratégicas para el desarrollo del estado o que permitan incidir en la superación de desventajas que padezcan grupos de la población;
 
 IV.- Con parámetros de calidad que beneficien a quienes lo reciben y generen una cultura de este tipo en el futuro profesionista.
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+V.- Garantizará que durante el proceso, el estudiante estará libre de cualquier tipo de discriminación, basada en género, raza, etnia, orientación sexual u otra condición. De igual forma se debe garantizar la no discriminación por tener cualquier modificación corporal, ya sean tatuajes, perforaciones, implantes, entre otras.
 
 ###### ARTICULO 34.
 
@@ -475,9 +499,15 @@ V.- Promover actividades de investigación, análisis y difusión en materia de 
 
 VI.- Generar mecanismos de reconocimiento a profesionistas y colegios que se distingan en su ejercicio;
 
-VII.- Hacer del conocimiento de la sociedad, los estudios y evaluaciones previstas en las fracciones I y II de este ARTICULO; para lo anterior podrá utilizar los medios de comunicación que se estimen pertinentes; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-VIII.- Las demás que le confiera esta ley.
+VII.- Hacer del conocimiento de la sociedad, los estudios y evaluaciones previstas en las fracciones I y II de este artículo; para lo anterior podrá utilizar los medios de comunicación que se estimen pertinentes;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+VIII.- Atender y erradicar cualquier tipo de discriminación hacia estudiantes en servicio social o hacia cualquier ciudadano profesionista, que sea afectado por su género, raza, etnia, orientación sexual, u otra condición, así como por cualquier modificación corporal como tatuajes, perforaciones, implantes, entre otras.
+
+IX.- Las demás que le confiera esta ley.
 
 ###### ARTICULO 41.
 
@@ -521,9 +551,15 @@ I.- Incurrir en los supuestos del ARTICULO 28 de esta ley;
 
 II.- Utilizar la denominación de Colegio y no estar expresamente autorizado para ello;
 
-III.- Excluir a sus miembros, sin dar oportunidad de defensa o sin motivar su decisión; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+III.- Excluir a sus miembros, sin dar oportunidad de defensa o sin motivar su decisión;
 
 IV.- Aceptar a profesionistas que en los términos de esta ley, no puedan ejercer en la entidad.
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+V.- Discriminar a cualquier miembro o profesionista, basado en género, raza, etnia, orientación sexual u otra condición o por tener cualquier modificación corporal, ya sean tatuajes, perforaciones, implantes, entre otras.
 
 ###### ARTICULO 47.
 
@@ -638,3 +674,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 799.- SE ADICIONA LA FRACCIÓN LVII AL ARTÍCULO 13 DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN XVI, SE ADICIONA UNA FRACCIÓN XVII, RECORRIENDO ULTERIORES DEL ARTÍCULO 6; SE REFORMA LA FRACCIÓN III, Y SE ADICIONA LA FRACCIÓN V DEL ARTÍCULO 17; SE REFORMA LA FRACCIÓN I, Y SE ADICIONA LA FRACCIÓN III DEL ARTÍCULO 28; SE REFORMA LA FRACCIÓN III, Y SE ADICIONA LA FRACCIÓN V DEL ARTÍCULO 33, SE REFORMA LA FRACCIÓN VII, SE ADICIONA UNA FRACCIÓN VIII, RECORRIENDO ULTERIORES DEL ARTÍCULO 40 Y SE REFORMA LA FRACCIÓN III, Y SE ADICIONA LA FRACCIÓN V DEL ARTÍCULO 46 DE LA LEY DE PROFESIONES PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
