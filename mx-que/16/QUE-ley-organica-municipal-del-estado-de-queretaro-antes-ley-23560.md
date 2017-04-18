@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2015-09-29"
+last_updated: "2017-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE QUERETARO -ANTES LEY PARA LA ORGANIZACION POLITICA Y ADMINISTRATIVA DEL MUNICIPIO LIBRE DEL ESTADO DE QUERETARO-
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -35,7 +37,7 @@ LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
 LA QUINCUAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE LOS ARTICULOS 35 FRACCIONES V Y VII, 36, 41 FRACCIÓN I Y 57 FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
-...
+[...]
 
 Que por lo anterior, el Pleno de la Legislatura ha tenido a bien expide la siguiente:
 
@@ -429,7 +431,7 @@ El Ayuntamiento es el órgano colegiado de representación popular depositario d
 
 Las sesiones del Ayuntamiento deberán realizarse de acuerdo al reglamento correspondiente. Siempre serán públicas y sólo privadas cuando lo acuerde el Ayuntamiento por las siguientes causas:
 
-I. Cuando se trate de la acusación, el desahogo de diligencias y la imposición de sanciones a un servidor público municipal;
+I. (DEROGADA, P.O. 18 DE ABRIL DE 2017)
 
 II. Cuando se advierta un peligro para la seguridad, tranquilidad o la salud públicas; y
 
@@ -539,7 +541,9 @@ XX. Participar con la Federación y el Estado, en la impartición de la educaci�
 
 XXI. Ejercer sus atribuciones en materia de asociaciones religiosas y culto público en los términos de la Ley Reglamentaria respectiva;
 
-XXII. Resolver sobre los recursos de revisión interpuestos en contra las resoluciones dictadas por el presidente y demás autoridades del municipio;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XXII. Resolver los recursos de revisión interpuestos contra las resoluciones dictadas por el presidente y demás autoridades del municipio, con excepción de aquel al que se refiere la Ley de Responsabilidades Administrativas del Estado de Querétaro;
 
 XXIII. Aprobar la adquisición de bienes y valores que incrementen el patrimonio del municipio mediante cualquiera de las formas previstas por la Ley, de conformidad con el reglamento respectivo;
 
@@ -565,21 +569,29 @@ XXXI. Proponer y coordinar la celebración de consultas a la población cuando l
 
 XXXII. Aprobar a quien habrá de ocupar la titularidad de la Dependencia Encargada de la Prestación de Servicios Públicos Municipales y la Secretaría del Ayuntamiento, en caso de que esta no sea aprobada, el presidente municipal propondrá una terna al ayuntamiento, de la cual se designará al titular;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XXXIII. Aprobar y delegar el ejercicio de la representación legal del Ayuntamiento y Municipio, a través de los Síndicos, a favor de terceros o dependencia jurídica especializada, con las facultades y atribuciones necesarias para la debida defensa de los intereses del Municipio; y
+XXXIII. Aprobar y delegar el ejercicio de la representación legal del Ayuntamiento y Municipio, a través de los Síndicos, a favor de terceros o unidad jurídica especializada, con las facultades y atribuciones necesarias para la debida defensa de los intereses del Municipio;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XXXIV. Coadyuvar con los Sistemas Nacional y Estatal Anticorrupción, así como con el Sistema Nacional de Fiscalización, en términos de las disposiciones e instrumentos aplicables;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XXXV. Designar al titular del Órgano Interno de Control del Municipio; y
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-XXXIV. Las demás previstas en la Constitución Política de los Estados Unidos Mexicanos en la del Estado y en las leyes que de ambas se deriven.
+XXXVI. Las demás previstas en la Constitución Política de los Estados Unidos Mexicanos en la del Estado y en las leyes que de ambas se deriven.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-Los acuerdos, bandos y circulares, deberán ser aprobados por mayoría absoluta de los miembros del Ayuntamiento, en el caso de los reglamentos municipales deberán ser aprobados por mayoría simple, para su entrada en vigor y respectiva difusión, deberán ser publicados en la gaceta municipal correspondiente; en caso de que el Municipio no cuente con ella, se dará cumplimiento a esta disposición a través del Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
+Los acuerdos, bandos y circulares, deberán ser aprobados por mayoría absoluta de los miembros del Ayuntamiento, en el caso de los reglamentos municipales deberán ser aprobados por mayoría simple, para su entrada en vigor y respectiva difusión, deberán ser publicados en la gaceta municipal correspondiente; en caso de que el Municipio no cuente con ella, se dará cumplimiento a esta disposición a través del Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 En su caso, si el ayuntamiento lo juzga conveniente para informar a la población y fomentar la participación de los ciudadanos, podrán publicarse también los proyectos de reglamentos, una vez que éstos le hayan sido presentados y existan condiciones para recibir las opiniones que vierta la ciudadanía.
 
-> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 29 DE SEPTIEMBRE DE 2015, PÁGINA 21055.</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 29 DE SEPTIEMBRE DE 2015, PÁGINA 21055.]</small>
 
 ###### ARTICULO 31.
 
@@ -625,7 +637,9 @@ XVI. Disponer de la fuerza pública municipal para preservar, mantener y restabl
 
 XVII. Avisar al Ayuntamiento su ausencia por más de tres días consecutivos del territorio del municipio y solicitar al mismo su autorización para hacerlo por más de treinta;
 
-XVIII. Ejercer el control y vigilancia sobre los servidores públicos de su administración, denunciando aquellas conductas que pudieren constituir un delito o desprender otras responsabilidades, así como aplicar o en su caso ejecutar las sanciones que deriven de ellas;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XVIII. Coadyuvar, en términos de las disposiciones e instrumentos aplicables, con las autoridades competentes en materia de responsabilidades administrativas;
 
 XIX. Participar en las sesiones del ayuntamiento, votar en las mismas y en caso de empate, ejercer el voto de calidad;
 
@@ -737,9 +751,7 @@ XII.- Vigilar que los actos del Presidente Municipal y del Ayuntamiento se ejecu
 
 XIII.- Presentar al Ayuntamiento, para su autorización y sellado, en un plazo no mayor de quince días, contados a partir del inicio de su administración, los libros o registros electrónicos en donde se consignen los movimientos contables de la propia administración;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
-
-XIV.- Verificar que los servidores públicos obligados a ello, presenten sus respectivas declaraciones patrimoniales de manera oportuna y vigilar la ejecución de las sanciones correspondientes;
+XIV.- (DEROGADA, P.O. 18 DE ABRIL DE 2017)
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
@@ -825,13 +837,17 @@ XII. DE TRABAJADORES MIGRANTES.- Tendrá a su cargo fomentar, contribuir e impul
 
 XIII. DE LA MUJER.- Su competencia será la de conocer de todos los asuntos relativos a la mujer que le sean encomendados, dentro del ámbito municipal; diseñar, fomentar y proponer al Ayuntamiento, políticas públicas que promuevan la igualdad sustantiva entre mujeres y hombres, la no discriminación hacia las mujeres y garantizar su participación equitativa en la vida social, política, cultural y económica en el municipio, de manera que permitan el pleno y legitimo desarrollo de la mujer en el ámbito educativo, profesional y social, bajo los principios de tolerancia, respeto e igualdad; así como el reconocimiento de las diferencias e igualdad de oportunidades;
 
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XIV. DE LA FAMILIA.- Le corresponde coadyuvar con las autoridades e interactuar con la sociedad, en la regulación y protección de los derechos de los integrantes de las familias;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XV. DE COMBATE A LA CORRUPCIÓN.- Le corresponde proponer al Ayuntamiento acciones en la implementación y desarrollo del Sistema Estatal Anticorrupción; y
+
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-XIV. DE LA FAMILIA.- Le corresponde coadyuvar con las autoridades e interactuar con la sociedad, en la regulación y protección de los derechos de los integrantes de las familias; y
-
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
-
-XV. Las demás, permanentes o transitorias, que a juicio del Ayuntamiento resulten necesarias para el buen desempeño de sus funciones.
+XVI. Las demás, permanentes o transitorias, que a juicio del Ayuntamiento resulten necesarias para el buen desempeño de sus funciones.
 
 ###### ARTICULO 39.
 
@@ -857,17 +873,13 @@ III. Cuando existan entre ellos conflictos que hagan imposible el ejercicio de s
 
 IV. Cuando por resolución de autoridad competente le sean suspendidos sus derechos o prerrogativas como ciudadano;
 
-V. Por quebrantar los principios del régimen federal y los de la Constitución Política del Estado;
+V. (DEROGADA, P.O. 18 DE ABRIL DE 2017)
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+VI. (DEROGADA, P.O. 18 DE ABRIL DE 2017)
 
-VI. Por violar sistemáticamente las garantías individuales y sociales establecidas en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Querétaro;
+VII. (DEROGADA, P.O. 18 DE ABRIL DE 2017)
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
-
-VII. Por promover o pretender adoptar formas de gobierno o bases de organización política distintas a las estipuladas en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Querétaro;
-
-VIII. Por conductas que alteren el orden público y la paz social;
+VIII. (DEROGADA, P.O. 18 DE ABRIL DE 2017)
 
 IX. Por la omisión reiterada en el cumplimiento de sus obligaciones;
 
@@ -909,11 +921,21 @@ Si llegada la fecha de su renovación, no existiera Ayuntamiento electo por cual
 
 ### CAPÍTULO PRIMERO. DE LA ORGANIZACIÓN ADMINISTRATIVA DE LOS MUNICIPIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
+
 ###### ARTICULO 44.
 
-Cada Municipio tendrá como estructura administrativa la que determinen sus reglamentos, pero en todo caso contará con una Secretaría del Ayuntamiento, una Dependencia Encargada de las Finanzas Públicas Municipales; una Dependencia Encargada de la Administración de Servicios Internos, Recursos Humanos, Materiales y Técnicos del Municipio; una Dependencia Encargada de la Prestación de Servicios Públicos Municipales y otra de la Ejecución y Administración de Obras Públicas; así mismo habrá una Dependencia Encargada de la Seguridad Pública, Policía Preventiva y el Tránsito Municipal.
+Cada Municipio tendrá como estructura administrativa la que determinen sus reglamentos, pero en todo caso contará con una Secretaría del Ayuntamiento, una Dependencia Encargada de las Finanzas Públicas Municipales; una Dependencia Encargada de la Administración de Servicios Internos, Recursos Humanos, Materiales y Técnicos del Municipio; una Dependencia Encargada de la Prestación de Servicios Públicos Municipales y otra de la Ejecución y Administración de Obras Públicas; así mismo habrá una Dependencia Encargada de la Seguridad Pública, Policía Preventiva y el Tránsito Municipal y un Órgano Interno de Control.
 
 La Dependencia Encargada de la Prestación de los Servicios Públicos Municipales así como la de Ejecución y Administración de Obras Públicas, tendrán las competencias que establecen el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos; el Artículo 85 de la Constitución Local, esta Ley, así como las que señalen los reglamentos que de ella deriven.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+El Órgano Interno de Control tendrá las facultades que determine la Ley de Responsabilidades Administrativas del Estado de Querétaro y las demás disposiciones jurídicas aplicables para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas no graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado de Querétaro; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos según corresponda al ámbito de su competencia, así como presentar denuncias por hechos u omisiones que pudieran ser constitutivos de delitos ante la Fiscalía Estatal Especializada en el Combate a la Corrupción. Asimismo, será el encargado de verificar que los servidores públicos municipales presenten sus respectivas declaraciones de situación patrimonial y de intereses, así como, en su caso, la de naturaleza fiscal, en los términos previstos por las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+El Órgano Interno de Control deberá contar con la estructura orgánica que se requiera a efecto de que la autoridad a la que se encomiende la sustanciación y, en su caso, resolución de los procedimientos de responsabilidad administrativa sea distinta a aquella encargada de la investigación correspondiente, garantizando la independencia entre ambas con motivo del ejercicio de sus funciones.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1685,8 +1707,6 @@ Los bienes inmuebles del dominio privado del municipio son imprescriptibles y po
 
 ### CAPÍTULO SEGUNDO. DE LA HACIENDA MUNICIPAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 102.
@@ -2069,7 +2089,7 @@ Las obligaciones de los jueces cívicos y el funcionamiento interno de sus ofici
 
 ### CAPÍTULO SEGUNDO. DEL RECURSO DE REVISIÓN
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
 
 ### CAPÍTULO PRIMERO. DE LA FACULTAD REGLAMENTARIA
 
@@ -2077,9 +2097,13 @@ Las obligaciones de los jueces cívicos y el funcionamiento interno de sus ofici
 
 ###### ARTICULO 135.
 
-Los actos administrativos del Presidente Municipal u otras autoridades municipales, podrán ser impugnados mediante el recurso de revisión.
+Los actos administrativos del Presidente Municipal u otras autoridades municipales podrán ser impugnados mediante el recurso de revisión, con excepción de aquellos que se dicten en materia de responsabilidades administrativas, supuesto en el cual deberán agotarse los recursos que establezca la Ley de Responsabilidades Administrativas del Estado de Querétaro;
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 El plazo para interponer el recurso de revisión será de veinte días, contados a partir del día siguiente a aquél en que hubiere surtido efectos la notificación de la resolución que se recurra.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 Lo no previsto en la presente Ley, respecto al recurso de revisión, se estará a lo dispuesto por la Ley de Procedimientos Administrativos del Estado de Querétaro.
 
@@ -2255,7 +2279,7 @@ III.- Que tengan como propósito fundamental el respeto y garantía de los derec
 
 IV. Que su aplicación fortalezca al municipio libre;
 
-V. Que la normatividad de la administración y de los servicios públicos municipales tengan como propósito primordial, la eficiencia de los mismos y el mejoramiento general de la población del municipio;
+V. Que la normatividad de la administración y de los servicios públicos municipales tengan (sic) como propósito primordial, la eficiencia de los mismos y el mejoramiento general de la población del municipio;
 
 VI. Delimitación de la materia que regulan;
 
@@ -2397,21 +2421,25 @@ Las faltas temporales y definitiva de las autoridades auxiliares municipales ser
 
 Tratándose de responsabilidad patrimonial a cargo de los municipios, deberán aplicarse las disposiciones y procedimientos señalados en la Ley de Responsabilidad Patrimonial del Estado de Querétaro.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+
 ###### ARTICULO 164.
 
-Las responsabilidades en que incurran los servidores públicos municipales serán exigibles en los términos previstos por las leyes de la materia.
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+Las responsabilidades en que incurran los servidores públicos municipales, los particulares por actos vinculados con faltas administrativas graves así tipificados por las leyes de la materia, concernientes al ámbito municipal, se investigarán, sustanciarán, resolverán y sancionarán en los términos previstos por la Ley de Responsabilidades Administrativas del Estado de Querétaro.
 
 ###### ARTICULO 165.
 
-Por las infracciones cometidas a esta Ley, a los reglamentos municipales y a las demás disposiciones relativas, los servidores públicos municipales serán sometidos a lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
+(DEROGADO, P.O. 18 DE ABRIL DE 2017)
 
 ### CAPÍTULO PRIMERO. DE LA ASESORÍA Y LOS CONVENIOS
 
 ###### ARTICULO 166.
 
 Cualquier persona tiene el derecho y la obligación de denunciar ante el Ayuntamiento que le corresponda, según su domicilio, todo hecho, acto u omisión que cause o pueda causar daños a la administración pública o a terceros, derivado del incumplimiento a lo dispuesto en la presente Ley y sus reglamentos. Por consiguiente, la acción popular es el instrumento jurídico de la ciudadanía para evitar contravención a las disposiciones de esta Ley y sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+Por cuanto respecta a denuncia en función de la cual se pretenda el inicio de la investigación por presunta responsabilidad de faltas administrativas, se estará a lo previsto por las disposiciones de la materia.
 
 ###### ARTICULO 167.
 
@@ -2824,3 +2852,15 @@ P.O. 29 DE SEPTIEMBRE DE 2015.
 Artículo Primero. La presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO, EN MATERIA DE COMBATE A LA CORRUPCIÓN”.]
+
+Artículo Primero. La presente Ley entrará en vigor el mismo día en que entre en vigor la Ley General de Responsabilidades Administrativas, publicada en el Diario Oficial de la Federación el 18 de julio de 2016.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en la presente Ley.
+
+Artículo Tercero. En tanto entra en vigor la Ley a que se refiere el Artículo Primero Transitorio, continuará aplicándose la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" el 26 de junio de 2009.
+
+Artículo Cuarto. Los Ayuntamientos, en el ámbito de su competencia, deberán expedir las disposiciones jurídicas y realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en la presente Ley.
