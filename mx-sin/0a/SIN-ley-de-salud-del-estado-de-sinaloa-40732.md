@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2016-12-28"
+last_updated: "2017-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -519,9 +519,9 @@ I. Proporcionar a la población los conocimientos sobre las causas de las enferm
 
 II. Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas, accidentes y protegerse de los riesgos que pongan en peligro su salud; y
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2017)</small>
 
-III. Orientar y capacitar a la población preferentemente en materia de nutrición, alimentación correcta, activación física para la salud, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades.
+III. Orientar y capacitar a la población preferentemente en materia de nutrición, alimentación correcta, activación física para la salud, salud mental, salud bucal, educación sexual, planificación familiar, embarazo precoz, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2014)</small>
 
@@ -999,7 +999,9 @@ Los servicios de planificación familiar tienen carácter prioritario, aquellos 
 
 Los servicios de planificación familiar comprenden:
 
-I. La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar, educación sexual y prevención de la infección por VIH y otras enfermedades de transmisión sexual, con base en objetivos y estrategias que establezcan los consejos nacional y estatal de población;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2017)</small>
+
+I. La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar, educación sexual, embarazo precoz y prevención de la infección por VIH y otras enfermedades de transmisión sexual, con base en objetivos y estrategias que establezcan los consejos nacional y estatal de población;
 
 II. La atención y vigilancia de los aceptantes y usuarios de los servicios de planificación familiar;
 
@@ -1011,11 +1013,11 @@ V. La participación en el establecimiento de mecanismos idóneos para la determ
 
 VI. La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas.
 
-> <small>(F. DE E., P.O. 6 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2017)</small>
 
 ###### Artículo 85.
 
-Los Comités de Salud a que se refiere el artículo 137 de esta ley, promoverán que en las poblaciones y comunidades suburbanas y rurales se impartan pláticas de orientación en materia de planificación familiar. Las instituciones de salud, educativas y los consejos estatales y municipales de población respectivos, brindarán al efecto el apoyo necesario.
+Los Comités de Salud a que se refiere el artículo 137 de esta Ley, promoverán que en las poblaciones y comunidades suburbanas y rurales se impartan pláticas de orientación en materia de planificación familiar. Asimismo, establecerán las medidas tendientes a prevenir, informar, orientar, investigar, atender, controlar y vigilar en materia de embarazo precoz. Las instituciones de salud, educativas y los consejos estatales y municipales de población respectivos, brindarán al efecto el apoyo necesario.
 
 ###### Artículo 86.
 
@@ -2683,7 +2685,7 @@ La desocupación, limpieza o desalojo de casas, edificios, establecimientos y, e
 
 ###### Artículo 306.
 
-Las violaciones a los preceptos de esta Ley, sus Reglamentos y demás disposiciones que emanen de ella, serán sancionados administrativamente por las autoridades sanitarias competentes del Estado sin perjuicio de las penas que correspondan, cuando sean constitutivas de delito.
+Las violaciones a los preceptos de esta Ley, sus Reglamentos y demás disposiciones que emanen de ella, serán sancionados (sic) administrativamente por las autoridades sanitarias competentes del Estado sin perjuicio de las penas que correspondan, cuando sean constitutivas de delito.
 
 ###### Artículo 307.
 
@@ -3070,3 +3072,9 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 19 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 110 DEL H. CONGRESO DEL ESTADO.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 33, FRACCIÓN I DEL 84 Y 85 DE LA LEY DE SALUD DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
