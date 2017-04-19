@@ -4,7 +4,7 @@ identifier: "VER-ley-de-ingresos-del-municipio-de-nanchital-de-lazaro-122132"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-30"
-last_updated: "2017-01-18"
+last_updated: "2017-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ LEY NÚMERO 130 DE INGRESOS DEL MUNICIPIO DE NANCHITAL DE LÁZARO CÁRDENAS DEL 
 
 TEXTO ORIGINAL.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 18 DE ENERO DE 2017.]</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 19 DE ABRIL DE 2017.]</small>
 
 Ley publicada en el Número Extraordinario 522 Tomo IX de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 30 de diciembre de 2016.
 
@@ -39,9 +39,9 @@ Los Derechos por los Servicios del Registro Civil se causarán y pagarán, en sa
 
 […]
 
-(NOTA: EL 31 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 9/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(F. DE E., G.O. 19 DE ABRIL DE 2017)</small>
 
-II. REGISTRO DE NACIMIENTOS ORDINARIOS Y EXTEMPORÁNEOS, UNO;
+II. Registro de nacimientos ordinarios y extemporáneos, cero;
 
 […]
 
