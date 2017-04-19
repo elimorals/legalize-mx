@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2017-03-08"
+last_updated: "2017-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -37,7 +37,9 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -119,21 +121,25 @@ Los diputados podrán ser convocados para períodos extraordinarios de sesiones,
 
 La Comisión Instaladora se integra por el Presidente de la Mesa Directiva del Congreso del Estado, quien fungirá como Presidente, así como por los coordinadores de cada uno de los grupos o fracciones parlamentarias. Esta Comisión tendrá la función de preparar la junta previa y el proceso de entrega recepción y actuará válidamente con la presencia de la mayoría de sus integrantes.
 
-El Presidente de la Mesa Directiva comunicará al Instituto Estatal Electoral y al Tribunal Estatal Electoral del Estado la integración de dicha comisión.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2017)</small>
+
+El Presidente de la Mesa Directiva comunicara al Instituto Morelense de Procesos Electorales y Participación Ciudadana y del Tribunal Electoral del Estado de Morelos la integración de dicha comisión.
 
 ###### Artículo 11.
 
 La Comisión Instaladora del Congreso del Estado tendrá a su cargo:
 
-I. Recibir del Instituto Estatal Electoral y del Tribunal Estatal Electoral:
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2017)</small>
 
-a) Copia certificada de las constancias de mayoría y validez de las fórmulas de candidatos a diputados de mayoría relativa, así como un informe de los recursos que se hubieren interpuesto para cada una de las elecciones, de conformidad con lo señalado en el Código Electoral para el Estado de Morelos.
+I. Recibir del Instituto Morelense de Procesos Electorales y Participación Ciudadana y del Tribunal Electoral del Estado de Morelos:
 
-b) Copia certificada de la asignación proporcional de diputados que el Consejo Estatal Electoral del Instituto Estatal Electoral hubiese entregado a cada partido político, de acuerdo con lo preceptuado en el Código Electoral para el Estado de Morelos.
+a) Copia certificada de las constancias de mayoría y validez de las fórmulas de candidatos a diputados de mayoría relativa, así como un informe de los recursos que se hubieren interpuesto para cada una de las elecciones, de conformidad con lo señalado en el Código de Instituciones y Procedimientos Electorales para el Estado de Morelos.
 
-c) Copia certificada de la constancia de mayoría y validez de la elección de Gobernador en los términos del Código Electoral para el Estado de Morelos, así como un informe de los recursos interpuestos.
+b) Copia certificada de la asignación proporcional de diputados que el Consejo Estatal Electoral del Instituto Morelense de Procesos Electorales y Participación Ciudadana hubiese entregado a cada partido político, de acuerdo con lo preceptuado en el Código de Instituciones y Procedimientos Electorales para el Estado de Morelos.
 
-d) La notificación en su caso de las resoluciones emitidas por el Tribunal Estatal Electoral y el Tribunal Electoral del Poder Judicial de la Federación, recaídas a los recursos interpuestos contra las elecciones de diputados de mayoría, de asignación de diputados de representación proporcional y de la elección de Gobernador.
+c) Copia certificada de la constancia de mayoría y validez de la elección de Gobernador en los términos del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos, así como un informe de los recursos interpuestos.
+
+d) La notificación en su caso de las resoluciones emitidas por el Tribunal Electoral del Estado de Morelos y el Tribunal Electoral del Poder Judicial de la Federación, recaídas a los recursos interpuestos contra las elecciones de diputados de mayoría, de asignación de diputados de representación proporcional y de la elección de Gobernador.
 
 > <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2009)</small>
 
@@ -639,7 +645,7 @@ A las sesiones de la Junta Política y de Gobierno deberá asistir el Secretario
 
 ###### Artículo 46.
 
-La Junta Política y de gobierno, se integrará por :
+La Junta Política y de gobierno, se integrará por:
 
 I. Los Diputados Coordinadores de cada uno de los grupos parlamentarios;
 
@@ -715,7 +721,9 @@ IV. Designar al Secretario Técnico de la propia Junta Política y de Gobierno, 
 
 V. Impulsar la conformación de puntos de acuerdo relacionados con el contenido de las propuestas, iniciativas, dictámenes o minutas que requieran de su votación en el pleno del Congreso el Estado, a fin de agilizar el trabajo legislativo;
 
-VI. Conforme a la declaración de validez de la elección de Gobernador del Estado de Morelos, que hiciere el Instituto Estatal Electoral o el Tribunal Estatal Electoral, el Presidente de la Junta Política y de Gobierno, deberá solicitar al Presidente de la Mesa Directiva del Congreso del Estado, de a conocer al pleno del Congreso del Estado en la sesión más próxima, la elaboración inmediata del Bando Solemne, y ordene su publicación en el Periódico Oficial "Tierra y Libertad"; así mismo tome las medidas necesarias para que se difunda en los periódicos de mayor circulación en el Estado;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2017)</small>
+
+VI. Conforme a la declaración de validez de la elección de Gobernador del Estado de Morelos, que hiciere el Instituto Morelense de Procesos Electorales y Participación Ciudadana y del Tribunal Electoral del Estado de Morelos, el Presidente de la Junta Política y de Gobierno, deberá solicitar al Presidente de la Mesa Directiva del Congreso del Estado, dé a conocer al Pleno del Congreso del Estado en la sesión más próxima, la elaboración inmediata del Bando Solemne, y ordene su publicación en el Periódico Oficial "Tierra y Libertad", así mismo tome las medidas necesarias para que se difunda en los periódicos de mayor circulación en el Estado;
 
 VII. Presentar a la Mesa Directiva y al pleno del Congreso del Estado, proyectos de puntos de acuerdo, pronunciamientos, dictámenes y declaraciones del Congreso del Estado, que entrañen una posición política del órgano colegiado o la agilización de los trabajos legislativos del Congreso del Estado;
 
@@ -2671,7 +2679,7 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 
 P.O. 8 DE JUNIO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS TREINTA Y TRES POR EL QUE SE REFORMAN LOS ARTÍCULOS 59 NUMERAL 18, 62 Y 75 FRACCIONES II, III Y VI DE LA LEY ORGANICA PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS TREINTA Y TRES POR EL QUE SE REFORMAN LOS ARTÍCULOS 59 NUMERAL 18, 62 Y 75 FRACCIONES II, III Y VI DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS".]
 
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos para los efectos a que se refiere la fracción XVII, inciso a, del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
@@ -2716,3 +2724,11 @@ P.O. 8 DE MARZO DE 2017.
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+P.O. 19 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL SETECIENTOS CINCUENTA Y SIETE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
