@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-agua-potable-morelos-9351"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-26"
-last_updated: "2017-03-08"
+last_updated: "2017-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE AGUA POTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de julio de 1995.
 
@@ -855,7 +855,7 @@ Las concesiones se otorgarán y revocarán conforme a la presente Ley y de acuer
 
 > <small>(F. DE E., P.O. 2 DE AGOSTO DE 1995)</small>
 
-Dichas concesiones podrán ser otorgadas a través del ayuntamiento, o bien y en su caso, por conducto del organismo operador municipal o de los oorganismos operadores intermunicipales previo acuerdo con los cabildos respectivos.
+Dichas concesiones podrán ser otorgadas a través del ayuntamiento, o bien y en su caso, por conducto del organismo operador municipal o de los organismos operadores intermunicipales previo acuerdo con los cabildos respectivos.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
@@ -1633,7 +1633,7 @@ CONSUMO-MENSUAL
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
-El precio de m3 consumido se obtendrá colocando el volumen total consumido en un mes, en el renglón correspondiente al rango de consumo que lo abarque y multiplicando el factor correspondiente al tipo de usuario por el valor de la Unidad de Medida y Actualización vigente en la fecha del cálculo.
+El precio de m3 consumido se obtendrá colocando el volumen total consumido en un mes, en el renglón correspondiente al rango de consumo que lo abarque y multiplicando el factor correspondiente al tipo de usuario por el valor de la Unidad de Medida y Actualización vigente en la fecha de cálculo.
 
 En los casos en que no exista aparato medidor la cuota fija mínima mensual será:
 
@@ -1649,7 +1649,7 @@ Para la aplicación de la siguiente tarifa se procederá a tomar como base el co
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
-El precio del m3 descargado se obtendrá colocando el volumen total descargado en un mes, en el renglón correspondiente al rango de consumo que lo abarque y multiplicando el factor correspondiente al tipo de usuario por el valor de la Unidad de Medida y Actualización vigente en la fecha de cálculo.
+El precio del m3 descargado se obtendrá colocando el volumen total descargado en un mes, en el renglón correspondiente al rango de consumo que lo abarque y multiplicando el factor correspondiente al tipo de usuario por el valor de la Unidad de Medida y Actualización vigente en la fecha del cálculo.
 
 En los casos en que no exista aparato medidor la cuota fija mínima mensual será:
 
@@ -1667,7 +1667,7 @@ Por cada m3 de agua residual tratada consumido, se aplicarán las tarifas mensua
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
-El precio del m3 consumido se obtendrá colocando el volumen total consumido en un mes, en el renglón correspondiente al rango de consumo que lo abarque y multiplicando el factor correspondiente al tipo de usuario por el valor de la Unidad de Medida y Actualización vigente en la fecha del cálculo.
+El precio del m3 consumido se obtendrá colocando el volumen total consumido en un mes, en el renglón correspondiente al rango de consumo que lo abarque y multiplicando el factor correspondiente al tipo de usuario por el valor de la Unidad de Medida y Actualización vigente en la fecha de cálculo.
 
 En los casos en que no exista aparato medidor la cuota fija mínima mensual será:
 
@@ -1727,11 +1727,11 @@ Los ingresos por las cuotas y tarifas previstas en este artículo, corresponde s
 
 Las cuotas o tarifas que cobren los Municipios, los organismos operadores municipales, intermunicipales o, en su defecto, la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, serán independientes de los pagos, tales como las contribuciones especiales que se establezcan en la legislación fiscal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 100.
 
-La falta reiterada de dos o más pagos faculta al Municipio, al organismo operador municipal, intermunicipal o, en su defecto, a la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente para suspender el servicio hasta que se regularice el pago. En caso de uso doméstico, la falta reiterada de pago ocasionará la limitación del servicio, y de no regularizarse el pago, se podrá proceder a la suspensión del servicio.
+La falta reiterada de dos o más pagos faculta al Municipio, al organismo operador municipal, intermunicipal o, en su defecto, a la dependencia u organismo de la Administración Pública Estatal encargado del ramo del agua potable, para suspender el servicio hasta que se regularice el pago siempre y cuando se acredite el aviso o recibo que se haya entregado al usuario en el término de diez días hábiles para realizar el pago. En caso de uso doméstico, únicamente se podrá restringir el servicio a la cantidad necesaria para satisfacer los requerimientos básicos de consumo humano, con apego en todo momento a los parámetros constitucionales e internacionales.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
@@ -2159,7 +2159,7 @@ DR. MARCOS RAMIREZ GENEL
 
 SECRETARIO DE DESARROLLO Y OBRAS PUBLICAS
 
-DR. CARLOS ALBERTO PUIG HERNADEZ
+DR. CARLOS ALBERTO PUIG HERNANDEZ
 
 SECRETARIO DE BIENESTAR SOCIAL
 
@@ -2244,3 +2244,15 @@ PRIMERA.- Remítase al Titular del Poder Ejecutivo del Estado de Morelos, para l
 SEGUNDA.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
 
 TERCERA.- Una vez publicado el presente decreto, el Ejecutivo Estatal y/o los sistemas operadores del agua potable en el Estado, deberán proveer lo necesario, para que en el presupuesto económico del año siguiente a su vigencia se destinen los recursos necesarios bajo los lineamientos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos.
+
+P.O. 19 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO OCHOCIENTOS CINCUENTA Y NUEVE POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 100 DE LA LEY ESTATAL DE AGUA POTABLE".]
+
+PRIMERA.- Remítase al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 70 fracciones XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+TERCERA.- Una vez publicado el presente decreto, el Ejecutivo Estatal, los Ayuntamientos o los organismos operadores, deberán proveer lo necesario, para que en el Presupuesto de Egresos del Ejercicio Fiscal del año siguiente a su vigencia, se destinen los recursos necesarios para la adecuada aplicación de esta reforma, bajo los lineamientos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos.
+
+CUARTA.- En un término de 60 días hábiles, contados a partir del día siguiente en que surta efectos el presente decreto, los ayuntamientos deberán realizar las modificaciones a su normatividad reglamentaria acorde con los alcances contenidos en el mismo.
