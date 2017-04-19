@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-familiar-para-el-estado-libre-y-soberano-de-516
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2016-12-07"
+last_updated: "2017-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2017.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -3647,7 +3647,9 @@ II. La revocación de la admisión o del reconocimiento de hijos nacidos fuera d
 
 III. La comprobación de la posesión de estado y filiación de los hijos nacidos de matrimonio; y,
 
-IV. La investigación y reconocimiento de la paternidad y maternidad.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2017)</small>
+
+IV. El reconocimiento de la paternidad y maternidad.
 
 ###### ARTÍCULO 444.
 
@@ -3659,7 +3661,9 @@ II. La revocación del reconocimiento sólo puede ser intentada por el padre que
 
 III. La pretensión sobre posesión de estado y filiación de hijos nacidos de matrimonio puede ser intentada por el hijo, por los acreedores de éste y sus legatarios y donatarios, en los casos autorizados por el Código Familiar;
 
-IV. La pretensión de investigación y reconocimiento de la paternidad y la maternidad, puede ser intentada por la persona a quien debe reconocérsele, por sus descendientes o ascendientes si se trata de incapaz.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2017)</small>
+
+IV. La pretensión de reconocimiento de la paternidad y la maternidad, puede ser intentada por la persona a quien debe reconocérsele, por sus descendientes o ascendientes si se trata de incapaz.
 
 ###### ARTÍCULO 445.
 
@@ -3677,9 +3681,11 @@ PLAZO PARA EJERCITAR LA PRETENSIÓN DE CONTRADECIR QUE EL NACIDO ES HIJO DE MATR
 
 PLAZO PARA CONTRADECIR LA PATERNIDAD POR HEREDEROS. Los herederos del marido, excepto el caso de que éste, teniendo o no tutor, haya muerto sin recuperar la razón, no podrán contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio, cuando el esposo no haya presentado la demanda. En los demás casos, si el esposo ha muerto sin hacer la reclamación en el plazo hábil, los herederos tendrán para proponer la demanda, sesenta días contados desde aquel en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos sean turbados por el hijo en la posesión de la herencia.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 449.
 
-NO PRECLUSIÓN DE LA ACCIÓN DE INVESTIGACIÓN Y RECONOCIMIENTO DE LA PATERNIDAD Y MATERNIDAD. La demanda de investigación y reconocimiento de la paternidad y maternidad, podrá ser interpuesta en cualquier tiempo.
+NO PRECLUSIÓN DE LA ACCIÓN DE RECONOCIMIENTO DE LA PATERNIDAD Y MATERNIDAD. La demanda de reconocimiento de la paternidad y maternidad, podrá ser interpuesta en cualquier tiempo.
 
 ###### ARTÍCULO 450.
 
@@ -3713,9 +3719,21 @@ VIII. La sentencia producirá efectos de cosa juzgada aún en contra de los terc
 
 IX. El Tribunal podrá dictar de oficio o a petición de parte, en cualquier estado del juicio, las medidas cautelares que juzgue adecuadas para que no se cause perjuicio a los hijos.
 
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2017)</small>
+
+ARTÍCULO 452 BIS.- REGLAS ESPECIALES SOBRE LA TRAMITACIÓN DEL JUICIO SOBRE RECONOCIMIENTO DE PATERNIDAD. El juicio de reconocimiento de paternidad se tramitará de acuerdo con las reglas generales de la controversia familiar y el artículo 452, salvo por lo que hace a las siguientes reglas especiales:
+
+I. En los juicios de reconocimiento de paternidad, la carga de la prueba correrá a cargo de la parte que afirme dicha relación jurídica;
+
+II. El allanamiento presumirá, salvo prueba en contrario, que es el padre, y
+
+III. Si las partes no lo hicieren, el Juez deberá ordenar el desahogo de la prueba pericial en genética, ante la negativa a realizarse dicha prueba por parte del presunto padre, el Juez deberá agotar las medidas de apremio previstas en este ordenamiento, en caso de persistir la misma o ser imposible la realización de dicha probanza, se presumirá, salvo prueba en contrario, que es el padre.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 453.
 
-SENTENCIAS REVISABLES DE OFICIO. Las sentencias recaídas en el juicio sobre paternidad y filiación serán revisables de oficio, abriéndose la segunda instancia aunque las partes no apelen ni expresen agravios, el Tribunal examinará la legalidad de la sentencia de primera instancia quedando entre tanto sin ejecutarse ésta.
+SENTENCIAS REVISABLES DE OFICIO. Las sentencias recaídas en el juicio sobre desconocimiento de paternidad y filiación serán revisables de oficio, abriéndose la segunda instancia, aunque las partes no apelen ni expresen agravios, el Tribunal examinará la legalidad de la sentencia de primera instancia quedando entre tanto sin ejecutarse ésta.
 
 ###### ARTÍCULO 454.
 
@@ -7038,3 +7056,13 @@ P.O. 7 DE DICIEMBRE DE 2016.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 19 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL QUINIENTOS OCHENTA Y TRES POR EL QUE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, EN MATERIA DE RECONOCIMIENTO DE PATERNIDAD".]
+
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan las disposiciones de igual o menor grado que se contrapongan al presente Decreto.
