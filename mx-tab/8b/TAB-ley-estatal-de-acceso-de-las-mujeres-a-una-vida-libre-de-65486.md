@@ -4,7 +4,7 @@ identifier: "TAB-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-65486"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-20"
-last_updated: "2016-05-21"
+last_updated: "2017-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2017.
 
 Ley publicada en el Suplemento C del Periódico Oficial del Estado de Tabasco, el sábado 20 de diciembre de 2008.
 
@@ -179,9 +179,17 @@ III. Violencia patrimonial.- Es el acto u omisión que afecta la supervivencia d
 
 IV. Violencia económica.- Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas;
 
-V. Violencia-sexual.- Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima, y que por tanto atenta contra su libertad, seguridad e integridad física. Es una expresión de abuso de poder que implica la supremacía de un sexo sobre otro al denigrarlo y concebirlo como objeto; y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2017)</small>
 
-VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de los seres humanos.
+V. Violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima, y que por tanto atenta contra su libertad, seguridad e integridad física. Es una expresión de abuso de poder que implica la supremacía de un sexo sobre otro al denigrarlo y concebirlo como objeto;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2017)</small>
+
+VI. Violencia Política.- Es toda acción u omisión -incluida la tolerancia- que, basada en elementos de género y dadas en el marco del ejercicio de derechos político-electorales, tengan por objeto o resultado menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público; y
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2017)</small>
+
+VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de los seres humanos.
 
 ### CAPÍTULO II. DE LAS MODALIDADES DE LA VIOLENCIA
 
@@ -1200,3 +1208,9 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 085 POR EL QUE "SE REFORMAN LAS FRACCIONES V Y VI, Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 8 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Estado.
