@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-fiscalia-general-del-estado-de-morelos-10001
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-03-26"
-last_updated: "2017-03-01"
+last_updated: "2017-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
 
@@ -245,7 +245,9 @@ XV. Aplicar los criterios de oportunidad conforme los acuerdos generales emitido
 
 XVI. Dirigir a la Policía de Investigación Criminal y demás Instituciones Policiales del Estado, cuando éstas actúen como auxiliares en la investigación y persecución de delitos, así como vigilar que los mismos realicen sus actuaciones con apego al debido proceso, con pleno respeto a los Derechos Humanos, conforme a los principios de legalidad y objetividad;
 
-XVII. Autorizar para los efectos de trasplantes, la disposición de órganos o tejidos de cadáveres cuando con motivo de una investigación se encuentren a su disposición, y se reúnan los requisitos establecidos en las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2017)</small>
+
+XVII. Proveer lo necesario para que se desahoguen prioritariamente las intervenciones periciales en las investigaciones relacionadas con procedimientos de disposición de órganos o tejidos de cadáveres con fines de trasplantes y autorizar su disposición, de forma pronta y expedita, cuando se reúnan los requisitos establecidos en el Código Nacional de Procedimientos Penales y demás disposiciones jurídicas aplicables;
 
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2017)</small>
 
@@ -725,9 +727,15 @@ XXVIII. Emitir los criterios generales para el ejercicio de las atribuciones de 
 
 XXIX. Formular acusación, solicitar el sobreseimiento o la suspensión del proceso, cuando el Ministerio Público de la causa no proceda a realizarlo;
 
-XXX. Formular las correcciones de los vicios formales en la acusación o demanda de reparación de daños, cuando el Ministerio Público de la causa no lo realice, y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2017)</small>
 
-XXXI. Las demás que le otorguen y confieran otras disposiciones legales y reglamentarias, Federales y Locales, aplicables.
+XXX. Formular las correcciones de los vicios formales en la acusación o demanda de reparación de daños, cuando el Ministerio Público de la causa no lo realice;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2017)</small>
+
+XXXI. Emitir los lineamientos generales de actuación para atender de forma pronta y expedita las solicitudes de intervención para la disposición de órganos y tejidos de seres humanos con fines de trasplante, cuando con motivo de una investigación se encuentren a su disposición y se reúnan los requisitos establecidos en el Código Nacional de Procedimientos Penales y demás disposiciones jurídicas aplicables, y
+
+XXXII. Las demás que le otorguen y confieran otras disposiciones legales y reglamentarias, Federales y Locales, aplicables.
 
 ###### Artículo 32.
 
@@ -1189,9 +1197,13 @@ XVII. Abstenerse de abandonar sin causa justificada las funciones, comisión o s
 
 XVIII. Someterse a evaluaciones periódicas para acreditar el cumplimiento de sus requisitos de permanencia, así como obtener y mantener vigente la certificación respectiva, de conformidad con lo dispuesto por la Ley General del Sistema Nacional de Seguridad Pública;
 
-XIX. No ingerir bebidas alcohólicas, sustancias psicotrópicas, estupefacientes, o ser adicto a cualquier droga, así como presentarse a laborar con aliento alcohólico o bajo el efecto del alcohol o drogas, y
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2017)</small>
 
-XX. Las demás que le confieran la presente Ley, el Reglamento y otras disposiciones jurídicas aplicables.
+XIX. Desahogar prioritariamente las intervenciones periciales en las investigaciones relacionadas con procedimientos de disposición de órganos o tejidos de cadáveres con fines de trasplantes y autorizar su disposición, de forma pronta y expedita, cuando se reúnan los requisitos establecidos en el Código Nacional de Procedimientos Penales y demás disposiciones jurídicas aplicables;
+
+XX. No ingerir bebidas alcohólicas, sustancias psicotrópicas, estupefacientes, o ser adicto a cualquier droga, así como presentarse a laborar con aliento alcohólico o bajo el efecto del alcohol o drogas, y
+
+XXI. Las demás que le confieran la presente Ley, el Reglamento y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 87.
 
@@ -1229,9 +1241,11 @@ VIII. Inhabilitación del cargo.
 
 La sanción prevista en la fracción III del presente artículo, sólo será aplicable para Los agentes de la Policía de Investigación Criminal.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2017)</small>
+
 ###### Artículo 89.
 
-Procederá la separación del personal de la Fiscalía General, por el incumplimiento de alguna o algunas de las obligaciones previstas en las fracciones IV, V, VII, VIII, XII y XIII, del artículo 86 de la presente Ley o, en su caso, por la reiteración de por lo menos tres ocasiones en el incumplimiento de alguna o algunas de las obligaciones restantes del artículo citado.
+Procederá la separación del personal de la Fiscalía General, por el incumplimiento de alguna o algunas de las obligaciones previstas en las fracciones IV, V, VII, VIII, XII, XIII y XIX, del artículo 86 de la presente Ley o, en su caso, por la reiteración de por lo menos tres ocasiones en el incumplimiento de alguna o algunas de las obligaciones restantes del artículo citado.
 
 ###### Artículo 90.
 
@@ -1345,13 +1359,13 @@ ING. JORGE VICENTE MESSEGUER GUILLÉN
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 10 DE DICIEMBRE DE 2014.
 
 PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA. Una vez emitida la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de Morelos, que emita el Congreso del Estado, quedarán abrogados el Código de Procedimientos Penales en el Estado Libre y Soberano de Morelos, publicado en el Periódico Oficial número 1180, segunda sección de fecha treinta y uno de marzo de mil novecientos cuarenta y seis, el Código de Procedimientos Penales para el Estado de Morelos, publicado en el Periódico Oficial número 3820 tercera sección el día nueve de octubre de mil novecientos noventa y seis y el Código de Procedimientos Penales del Estado de Morelos, aprobado el día trece de noviembre del dos mil siete y publicado en el Periódico Oficial del Gobierno del Estado de Morelos “Tierra y Libertad”, número 4570 de fecha veintidós de noviembre del dos mil siete, así mismo, se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+SEGUNDA. Una vez emitida la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de Morelos, que emita el Congreso del Estado, quedarán abrogados el Código de Procedimientos Penales en el Estado Libre y Soberano de Morelos, publicado en el Periódico Oficial número 1180, segunda sección de fecha treinta y uno de marzo de mil novecientos cuarenta y seis, el Código de Procedimientos Penales para el Estado de Morelos, publicado en el Periódico Oficial número 3820 tercera sección el día nueve de octubre de mil novecientos noventa y seis y el Código de Procedimientos Penales del Estado de Morelos, aprobado el día trece de noviembre del dos mil siete y publicado en el Periódico Oficial del Gobierno del Estado de Morelos "Tierra y Libertad", número 4570 de fecha veintidós de noviembre del dos mil siete, así mismo, se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 TERCERA. En su caso, las menciones que en otros ordenamientos permanezcan y se hagan de los Códigos de Procedimientos Penales que se abrogan por virtud de la disposición transitoria que antecede, se entenderán referidas al Código Nacional de Procedimientos Penales.
 
@@ -1390,3 +1404,17 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 19 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS TREINTA POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. El Fiscal General del Estado de Morelos contará con un plazo de noventa días hábiles, contados a partir de la entrada en vigor de este decreto, para emitir los lineamientos a que se refiere la fracción XXXI que se adiciona al artículo 31 de la Ley Orgánica de la Fiscalía General del Estado de Morelos.
+
+CUARTA. El Titular del Poder Ejecutivo del Estado de Morelos, contará con un plazo de noventa días hábiles, contados a partir de la entrada en vigor de este Decreto, para hacer las modificaciones pertinentes al Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Morelos.
+
+QUINTA. Se derogan las disposiciones de igual o menor grado que se contrapongan al presente Decreto.
