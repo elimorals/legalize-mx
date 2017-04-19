@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2017-03-24"
+last_updated: "2017-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2017.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -3125,6 +3125,8 @@ II. Si la reaprehensión de la persona evadida se logra por gestiones del respon
 
 ### CAPÍTULO II. USURPACIÓN DE PROFESIÓN
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2017)</small>
+
 ###### Artículo 271.
 
 Fraude procedimental
@@ -3255,6 +3257,8 @@ Usurpación de profesión
 
 A quien ejerza públicamente una profesión sin tener título correspondiente para aquellos casos en que la ley exija dicho título, u ofrezca o desempeñe públicamente sus servicios, sin la autorización para ejercerla en términos de la legislación aplicable, se le impondrán de dos a cinco años de semilibertad y de trescientos a quinientos días multa.
 
+Las mismas sanciones se impondrán a quien ejerza una rama de la medicina que requiera especialidad o certificación para su ejercicio.
+
 ### CAPÍTULO I. SIMULACIÓN MEDIANTE TÍTULOS AL PORTADOR, DOCUMENTOS DE CRÉDITO PÚBLICO O SIMILARES
 
 ###### Artículo 284.
@@ -3273,6 +3277,8 @@ Abandono del servicio médico
 
 A quien teniendo la calidad de médico y habiéndose hecho cargo de la atención de un lesionado, deje de prestarle tratamiento injustificadamente sin dar aviso inmediato a la autoridad competente o no cumpla con las obligaciones que le impongan las regulaciones en la materia, se le impondrá de uno a cinco años de semilibertad y de doscientos a cuatrocientos días multa.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2017)</small>
+
 ###### Artículo 286.
 
 Práctica indebida del servicio médico
@@ -3281,9 +3287,11 @@ Se impondrá de cuatro a ocho años de semilibertad y de doscientos a quinientos
 
 I. Realice una operación quirúrgica innecesaria;
 
-II. Simule la práctica de una intervención quirúrgica; y,
+II. Simule la práctica de una intervención quirúrgica;
 
-III. Sin autorización del paciente o de quien legítimamente pueda otorgarla, salvo en casos de urgencia, realice una operación quirúrgica que por su naturaleza ponga en peligro la vida del enfermo o cause la pérdida de un miembro o afecte la integridad de una función vital.
+III. Sin autorización del paciente o de quien legítimamente pueda otorgarla, salvo en casos de urgencia, realice una operación quirúrgica que por su naturaleza ponga en peligro la vida del enfermo o cause la pérdida de un miembro o afecte la integridad de una función vital; y,
+
+IV. Realice una intervención quirúrgica que requiera de una especialidad y certificación sin contar con ella, de acuerdo a la Ley.
 
 ### CAPÍTULO II. FALSIFICACIÓN DE SELLOS, CONTRASEÑAS O SIMILARES
 
@@ -3780,3 +3788,9 @@ P.O. 24 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 339 POR EL QUE "SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO QUINTO Y EL ARTÍCULO 169; Y SE ADICIONA UN ARTÍCULO 169 BIS AL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 19 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 350 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 283 Y 286 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
