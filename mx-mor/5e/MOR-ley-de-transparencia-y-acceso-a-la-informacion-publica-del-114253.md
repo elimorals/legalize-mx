@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1142
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-27"
-last_updated: "2017-03-01"
+last_updated: "2017-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de abril de 2016.
 
@@ -35,7 +35,9 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA TERCERA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTICULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:
 
-ANTECEDENTES…
+ANTECEDENTES
+
+[…]
 
 Por lo anteriormente expuesto, esta LIII Legislatura ha tenido a bien expedir el (sic) siguiente:
 
@@ -533,7 +535,7 @@ Cuando persista la negativa de colaboración, la Unidad de Transparencia lo har�
 
 ###### Artículo 30.
 
-El Instituto contará con un Consejo Consultivo que se integrará por tres Consejeros honoríficos, mismos que serán designados por el Pleno del Consejo de dicho Instituto, mediante convocatoria que deberá publicarse en el Periódico Oficial “Tierra y Libertad” y durarán en sus cargos tres años, siempre que reúnan los requisitos siguientes:
+El Instituto contará con un Consejo Consultivo que se integrará por tres Consejeros honoríficos, mismos que serán designados por el Pleno del Consejo de dicho Instituto, mediante convocatoria que deberá publicarse en el Periódico Oficial "Tierra y Libertad" y durarán en sus cargos tres años, siempre que reúnan los requisitos siguientes:
 
 I. Ser ciudadano mexicano, preferentemente morelense en los términos de la Constitución;
 
@@ -547,7 +549,9 @@ V. No haber sido sentenciado por delito doloso que merezca pena privativa de lib
 
 VI. Contar con título y cédula profesional de grado universitario de licenciatura en cualquier campo del conocimiento, y
 
-VII. Contar con conocimientos en materia de trasparencia, derecho de acceso a la información, archivos y protección de datos personales, acreditados por una institución educativa o con su experiencia laboral.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2017)</small>
+
+VII. Contar con conocimientos o experiencia en materia de transparencia, derecho de acceso a la información, archivos y protección de datos personales, rendición de cuentas o protección de los derechos humanos.
 
 ###### Artículo 31.
 
@@ -1719,7 +1723,9 @@ La respuesta que den los Sujetos Obligados derivada de la resolución a un recur
 
 El recurso de revisión deberá contener:
 
-I. El nombre del recurrente o de su representante legal;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2017)</small>
+
+I. El nombre del recurrente o de su representante;
 
 II. El sujeto obligado ante la cual se presentó la solicitud;
 
@@ -1738,6 +1744,10 @@ VIII. Firma del recurrente, en caso de presentarlo por escrito, y
 XI (SIC). Número de folio de la respuesta de la solicitud de acceso.
 
 En caso de no señalarse medio de notificación alguno se harán en los estrados del Instituto.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2017)</small>
+
+Los requisitos de las fracciones I y VIII serán satisfechos por el solicitante de manera opcional y en ningún caso podrán ser indispensables para la procedencia del recurso de revisión.
 
 En ningún caso será necesario que el recurrente ratifique el recurso de revisión interpuesto.
 
@@ -2260,3 +2270,11 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 19 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SETECIENTOS CINCUENTA Y SEIS POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
