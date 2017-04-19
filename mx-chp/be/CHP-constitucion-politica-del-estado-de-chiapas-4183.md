@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2016-12-29"
+last_updated: "2017-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-> <small>[N. DE E. EL DECRETO NÚMERO 044, EXPEDIDO POR LA SEXAGÉSIMA SEXTA LEGISLATURA, PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2016, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2017.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -995,15 +995,15 @@ XVIII. Fijar los ingresos que deban integrar la hacienda de los Municipios, proc
 
 XIX. Crear o suprimir Municipios, una vez que se hayan satisfecho los requisitos que la Ley respectiva establezca.
 
-XX. Revisar la cuenta pública del año anterior para verificar, en lo general, los ingresos obtenidos y/o a los gastos realizados, con relación a los conceptos y a las partidas respectivas, así como revisarla y fiscalizarla, a través del Órgano de Fiscalización Superior, con el objeto de evaluar los resultados de la gestión financiera de las entidades fiscalizadas; comprobar si se observó lo dispuesto en los respectivos presupuestos de egresos, Ley de Ingresos y demás disposiciones legales aplicables; practicar auditorías sobre el desempeño para verificar de manera cualitativa, el cumplimiento de los objetivos y las metas de los programas estatales y municipales
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2017)</small>
 
-En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, el Órgano de Fiscalización Superior sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
+XX. Revisar la cuenta pública del año anterior presentada por el Estado y los municipios, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se han ajustado a los criterios señalados por el Presupuesto y verificar el cumplimiento de los objetivos contenidos en los programas.
 
-La cuenta pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado o a la Comisión Permanente, en los recesos de aquél, a más tardar el treinta de abril del año siguiente al del ejercicio. Sólo se podrá ampliar el plazo de presentación cuando medie solicitud suficientemente justificada, a juicio del Congreso del Estado, para lo cual deberá comparecer el secretario del ramo correspondiente o bien el Presidente Municipal del Ayuntamiento respectivo, según se trate de cuenta pública estatal o municipal, a informar de las razones que motiven la solicitud; la prórroga no deberá exceder de treinta días naturales y, en tal supuesto, el Órgano de Fiscalización Superior contará con el mismo tiempo adicional para la presentación del informe del resultado de la revisión y fiscalización de la Cuenta Pública.
+La revisión de la Cuenta Pública la realizará el Congreso del Estado a través del Órgano de Fiscalización Superior. Si del examen que éste realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicha autoridad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
 
-En el caso de renovación sexenal del Poder Ejecutivo, la cuenta pública abarcará los tres primeros trimestres del año en curso, la cual deberá ser presentada por el Ejecutivo a más tardar el siete de diciembre del año en curso.
+La cuenta pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado o a la Comisión Permanente, en los recesos de aquél, a más tardar el treinta de abril del año siguiente al del ejercicio. Sólo se podrá ampliar el plazo de presentación cuando medie solicitud suficientemente justificada, a juicio del Congreso del Estado, para lo cual deberá comparecer el secretario del ramo correspondiente o bien el Presidente Municipal del Ayuntamiento respectivo, según se trate, a informar de las razones que motiven la solicitud; la prórroga no deberá exceder de treinta días naturales y, en tal supuesto, el Órgano de Fiscalización Superior contará con el mismo tiempo adicional para la presentación del Informe General Ejecutivo del resultado de la Fiscalización Superior de la Cuenta Pública.
 
-El Órgano de Fiscalización Superior tendrá un plazo no mayor de seis meses, contado a partir de la fecha en que reciba la correspondiente cuenta pública, para entregar al Congreso del Estado, por conducto de la Comisión de Vigilancia, el informe del resultado. Tratándose del ejercicio en que proceda la renovación sexenal del Poder Ejecutivo, deberá rendir en el mismo plazo los informes de resultados, correspondientes a la revisión y fiscalización de la cuenta pública que comprende a los tres primeros trimestres y el relativo a la cuenta pública del último trimestre.
+El Congreso del Estado concluirá la revisión de la Cuenta Pública a más tardar el 31 de octubre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del Informe General Ejecutivo del resultado de la Fiscalización Superior, a que se refiere el artículo 50 de esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por el Órgano de Fiscalización Superior, seguirán su curso en términos de lo dispuesto en dicho artículo.
 
 XXI. Emitir la convocatoria para elecciones extraordinarias en los términos que señalen las leyes.
 
@@ -1177,7 +1177,9 @@ III. Investigar los actos u omisiones que impliquen alguna irregularidad o condu
 
 IV. Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa y la Fiscalía de Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos estatales y municipales y a los particulares.
 
-El Congreso del Estado designará al Titular del Órgano de Fiscalización Superior del Congreso del Estado, con el voto de las dos terceras partes de los Diputados presentes, la Ley determinará el procedimiento para su designación. Este Titular estará reconocido como Auditor Superior del Estado, durará en su cargo ocho años y podrá ser nombrado nuevamente por una sola vez. Solamente por las causas graves que señale esta Constitución en su Título Noveno podrá ser removido, con la misma votación requerida para su nombramiento.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2017)</small>
+
+El Congreso del Estado designará al Titular del Órgano de Fiscalización Superior del Congreso del Estado, con el voto de las dos terceras partes de los Diputados presentes, la Ley determinará el procedimiento para su designación. Este Titular estará reconocido como Auditor Superior del Estado, durará en su cargo ocho años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Décimo de esta Constitución.
 
 Para ser Titular del Órgano de Fiscalización Superior del Congreso del Estado, se requiere cumplir con los requisitos establecidos en el párrafo segundo del artículo 60 de esta Constitución, además de los que señalen la Ley y el Reglamento respectivo.
 
@@ -1401,8 +1403,6 @@ IV.- Ser ciudadano chiapaneco.
 
 V.- Los demás que señale la Ley.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO DÉCIMO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 El Titular del Ejecutivo será responsable de impulsar la equidad de género en la integración de la Administración Pública Estatal por lo que no podrá nombrar a más del cincuenta por cierto (sic) de personas de un mismo género como titulares de las Dependencias y Entidades de la Administración Pública del Estado.
 
 Las ausencias de los titulares de las Dependencias y Entidades serán atendidas de acuerdo a lo establecido en la Ley.
@@ -1507,15 +1507,11 @@ La revisión y auditoría del gasto público será realizada por los órganos de
 
 ### Capítulo IV. De los Gobiernos de Coalición
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO DÉCIMO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 68.
 
 El Gobierno de Coalición es el ejercicio de la administración pública, bajo la conducción del Gobernador, por la asociación del partido político en el gobierno con uno o más partidos políticos con representación en el Congreso del Estado de Chiapas, para ejecutar y evaluar el programa compartido.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO DÉCIMO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -1622,8 +1618,6 @@ VII. Los Juzgados Municipales.
 VIII. El Centro Estatal de Justicia Alternativa.
 
 IX. El Instituto de la Defensoría Pública.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 El Tribunal de Justicia Constitucional residirá en la capital del Estado, sus atribuciones serán las establecidas en esta Constitución y en el Código, funcionará en Pleno y en Sala, en sesiones públicas y por excepción secretas en los casos en que así lo exijan la moral y el interés público y tomarán resoluciones por mayoría de votos.
 
@@ -1804,8 +1798,6 @@ VII. Las demás atribuciones que les confieran esta Constitución y la ley.
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ### Capítulo I. De la Institución del Ministerio Público
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO DÉCIMO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2021,8 +2013,6 @@ El Ministerio Publico, a través de la Fiscalía General del Estado promoverá l
 
 Corresponde al Ministerio Publico, a través de la Fiscalía General del Estado, la investigación y persecución, ante los tribunales, de todos los delitos del orden común; y por lo mismo, solicitará la (sic) medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de estos en hechos que la leyes señalen como delito; procurará que los juicios del orden común en materia penal se sigan con toda regularidad para que la impartición de la justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO DÉCIMO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 93.
@@ -2030,8 +2020,6 @@ Corresponde al Ministerio Publico, a través de la Fiscalía General del Estado,
 La Fiscalía General del Estado, contará con las Fiscalías de Materia y de Distrito, necesarias para el cumplimiento de los fines del Ministerio Público, cuyos titulares serán nombrados y removidos libremente por el Fiscal General del Estado. La Ley establecerá la organización y funcionamiento de la Fiscalía General del Estado.
 
 El nombramiento y remoción de los Fiscales de Delitos Electorales, y de Combate a la Corrupción, podrán ser objetados por los diputados por el voto de las dos terceras partes de los miembros presentes, en el plazo que señale la ley, si no existiere objeción en ese plazo, se entenderá que no se tiene objeción al respecto.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO DÉCIMO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2069,8 +2057,6 @@ En los recesos del Congreso del Estado, la Comisión Permanente lo convocará de
 
 Las ausencias del Fiscal General del Estado serán suplidas en los términos que determine la Ley.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO DÉCIMO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 95.
@@ -2078,8 +2064,6 @@ Las ausencias del Fiscal General del Estado serán suplidas en los términos que
 La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía General del Estado, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
 El Fiscal General del Estado, presentará anualmente a los Poderes Legislativo y Ejecutivo, un informe de actividades. Comparecerá ante el Congreso del Estado cuando se le cite a rendir cuentas o a informar sobre su gestión.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO DÉCIMO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2090,8 +2074,6 @@ El Consejo del Ministerio Público funcionará en Pleno, sus acuerdos serán tom
 El Consejo del Ministerio Publico resolverá cualquier solicitud del Ejecutivo del Estado para crear nuevas Fiscalías, además, determinará las medidas que tiendan a mejorar el sistema de justicia penal en la Entidad, desde los ámbitos de la prevención, la investigación y la persecución de los hechos delictivos.
 
 El Consejo del Ministerio Público será el Órgano de Consulta del Fiscal General del Estado.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO DÉCIMO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2109,7 +2091,9 @@ La Fiscalía General del Estado, contará con los órganos de control y vigilanc
 
 La Comisión Estatal de los Derechos Humanos es un organismo público con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propio, encargado de brindar ayuda y protección a aquellas personas que sufran violaciones a los derechos reconocidos por el Estado mexicano.
 
-Conocerá de quejas en contra de actos y omisiones de naturaleza administrativa que violen derechos humanos, cometidos por cualquier autoridad o servidor público estatal o municipal, con excepción de los del Poder Judicial del Estado.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2017)</small>
+
+Conocerá de quejas en contra de actos y omisiones de naturaleza administrativa que violen derechos humanos, cometidos por cualquier autoridad o servidor público estatal o municipal.
 
 El objeto de la Comisión es la defensa, promoción del respeto y observancia de los derechos humanos establecidos en el orden jurídico mexicano y en instrumentos internacionales ratificados por el estado mexicano, así como su divulgación y estudio.
 
@@ -2261,7 +2245,7 @@ La Ley de la materia y sus reglamentos contendrán lo concerniente a los requisi
 
 ### Capítulo VI. Del Tribunal de Justicia Administrativa
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2017)</small>
 
 ###### Artículo 103.
 
@@ -2281,11 +2265,15 @@ La Universidad Autónoma de Chiapas, desde su fundación está orientada a la fo
 
 ###### Artículo 105.
 
-El Tribunal de Justicia Administrativa es un organismo constitucional autónomo, de carácter permanente, con personalidad jurídica y patrimonio propios, independiente en sus decisiones, y será la máxima autoridad jurisdiccional en la materia, con la jurisdicción y competencia que determine esta Constitución y su Ley orgánica respectiva.
+El Tribunal de Justicia Administrativa es un organismo constitucional autónomo, de carácter permanente, con personalidad jurídica y patrimonio propio, independiente en sus decisiones, y será la máxima autoridad jurisdiccional en la materia, con la jurisdicción y competencia que determine esta Constitución y su Ley Orgánica respectiva.
 
-Su organización y funcionamiento estarán regulados en la Ley orgánica respectiva. Corresponde al Tribunal de Justicia Administrativa, conocer y resolver en segunda instancia, del recurso de revisión en materia administrativa y demás casos que establezcan las leyes aplicables de la materia. Asimismo será el órgano competente para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determina como graves y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública estatal o al patrimonio de los entes públicos; así como imponer sanciones a servidores públicos y particulares que incumplan gravemente en resoluciones del organismo garante en materia de acceso a la información y protección de datos personales.
+Su organización y funcionamiento estarán regulados en la Ley Orgánica.
 
-El Tribunal de Justicia Administrativa, expedirá su Reglamento Interno, así como los acuerdos generales para su adecuado funcionamiento, en los términos que señale la Ley orgánica respectiva.
+Corresponde al Tribunal de Justicia Administrativa, conocer y resolver del recurso de revisión en materia administrativa, así como de los demás asuntos que se establezcan en las leyes aplicables de la materia.
+
+Asimismo será el órgano competente para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determina como graves y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública estatal o al patrimonio de los entes públicos; así como imponer sanciones a servidores públicos y particulares que incumplan gravemente en resoluciones del organismo garante en materia de acceso a la información y protección de datos personales.
+
+El Tribunal de Justicia Administrativa, expedirá su Reglamento Interno, así como los acuerdos generales para su adecuado funcionamiento, en los términos que señale su Ley Orgánica.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2473,25 +2461,21 @@ El Gobernador, el Fiscal General del Estado, los Fiscales de Materia o de Distri
 
 ## Título Décimo Primero. Prevenciones Generales
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2017)</small>
 
 ###### Artículo 117.
 
 Los empleos o cargos públicos del Estado durarán el tiempo establecido en esta Constitución o en la Ley. Para desempeñar más de un empleo del Estado y del Municipio, o de éstos y de la Federación, se requerirá autorización previa del Congreso del Estado y, en su caso, de la Comisión Permanente, y sólo podrá concederse por razones de interés público.
 
-Las limitaciones a que se refiere este artículo no incluyen a los empleos en el ramo de la docencia, los que se sujetarán a lo dispuesto por la Ley de la materia.
+Las limitaciones a que se refiere este artículo no incluyen a los empleos en el ramo de la docencia los que se sujetarán a lo dispuesto por la Ley de la materia.
 
-Todas las personas que se desempeñen en el Servicio Público del estado y sus municipios, al tomar posesión de sus cargos deberán hacer protesta formal de respetar y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, esta Constitución del Estado Libre y Soberano de Chiapas y las leyes que de ellas emanen
+Todas las personas que se desempeñen en el Servicio Público del estado y sus municipios, al tomar posesión de sus cargos deberán hacer protesta formal de respetar y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, esta Constitución del Estado Libre y Soberano de Chiapas y las leyes que de ellas emanen.
 
-Todas las personas que pertenezcan al Servicio Público del Estado percibirán una compensación por sus servicios, la cual será irrenunciable y deberá ser pagada por el erario estatal de acuerdo a lo establecido en la ley respectiva.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2017)</small>
 
 ###### Artículo 118.
 
-El Gobernador, los Magistrados, el Fiscal General del Estado, los Fiscales de Distrito, el Fiscal Electoral, los Fiscales Especializados y Especiales, los Agentes del Ministerio Público, los Jueces de Primera Instancia, los Presidentes Municipales, los Secretarios y Subsecretarios de Despacho, los Secretarios y Actuarios del Poder Judicial del Estado, los Servidores Públicos y Delegados del Registro Público de la Propiedad, así como los Consejeros Electorales y el Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana, y el Presidente de la Comisión Estatal de los Derechos Humanos; no podrán fungir como árbitros, ni ejercer la abogacía sino cuando se trate de sus propios derechos o de los correspondientes a personas que estén bajo su patria potestad o vínculo matrimonial. Tampoco podrán ejercer el notariado, ni ser albaceas, depositarios judiciales, síndicos, administradores, interventores de concursos, testamentarios o intestados. La infracción de este artículo será causa de responsabilidad. Esta prohibición no comprende a servidores públicos y empleados, de los enumerados, que no estén en ejercicio de sus funciones por tener autorizada una licencia.
-
-Cuando en un Distrito Judicial no exista Notario Público, los Jueces Civiles o Mixtos de primera instancia, podrán actuar como tales por receptoría.
+Todas las personas que pertenezcan al Servicio Público del Estado percibirán una compensación por sus servicios, la cual será irrenunciable y deberá ser pagada por el erario estatal de acuerdo a lo establecido en la ley respectiva.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -4085,7 +4069,7 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan al present
 
 P.O. 22 DE JULIO DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ESTABLECE LA VIGÉSIMA QUINTA REFORMA A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ESTABLECE LA VIGÉSIMA QUINTA REFORMA A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS”.]
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -4254,3 +4238,15 @@ Los artículos 60, tercer párrafo del presente decreto respecto a nombrar a má
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Los actuales Magistrados del Trabajo Burocrático terminarán sus funciones en el periodo para los cuales fueron nombrados.
+
+P.O. 19 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 160 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo: Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero: La reforma a los artículos 45 fracción XX y 50, entraran en vigor a partir de la revisión y fiscalización de las cuentas públicas del Estado y Municipios del Ejercicio Fiscal 2017, por lo que la revisión y fiscalización de las cuentas públicas de los Ejercicios 2016 y anteriores, así como los procedimientos iniciados con anterioridad a la presente reforma, serán atendidos en los términos de los artículos vigentes hasta el día 29 de diciembre del 2016.
+
+Artículo Cuarto: El Auditor Superior del Estado que se encuentra en funciones a partir de la vigencia del presente Decreto, continuará en el cargo por el periodo por el cual fue designado.
