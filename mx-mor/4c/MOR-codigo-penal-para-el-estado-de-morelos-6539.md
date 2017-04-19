@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2017-04-12"
+last_updated: "2017-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -115,7 +115,7 @@ Desde la formulación del citado proyecto del Instituto Nacional de Ciencias Pen
 
 Esos sustitutivos, que también aquí se recogen ahora, son el tratamiento en libertad (artículo 30), la semilibertad (artículo 31) y el trabajo en favor de la comunidad (artículo 32), además de la multa y la suspensión condicional de la ejecución de la condena. De esta forma se renueva la reacción penal frente al delito, que ya no queda encomendada, con la frecuencia que se acostumbró, a la pena privativa de la libertad. Como antes se dijo, estas medidas operan a título de sustitutivos, pero también, en varios casos, como penas aplicables directamente al delito cometido.
 
-Si bien es cierto que los sustitutivos ofrecen ventajas notables sobre la prisión, también lo es que el empleo excesivo de aquéllos, sin el debido cuidado, y la indiscriminada y expansiva sustitución de la pena privativa de la libertad, producto de un entusiasmo de buena fe, pero escasamente documentado, traen consigo problemas mayores que los que concurren a resolver y determinan, a la postre, el descrédito de las medidas no privativas de libertad, con la consecuente tentación de retroceder en este ámbito del desarrollo normativo. Esto se ha visto en la legislación federal y del Distrito Federal, cuya experiencia y novedades se tomaron en cuenta en este ordenamiento.
+Si bien es cierto que los sustitutivos ofrecen ventajas notables sobre la prisión, también lo es que el empleo excesivo de aquéllos, sin el debido cuidado, y la indiscriminada y expansiva sustitución de la pena privativa de libertad, producto de un entusiasmo de buena fe, pero escasamente documentado, traen consigo problemas mayores que los que concurren a resolver y determinan, a la postre, el descrédito de las medidas no privativas de la libertad, con la consecuente tentación de retroceder en este ámbito del desarrollo normativo. Esto se ha visto en la legislación federal y del Distrito Federal, cuya experiencia y novedades se tomaron en cuenta en este ordenamiento.
 
 Por ello se ha puesto cuidado en evitar que los sustitutivos excedan los términos que deben corresponderles por ahora; el éxito en este punto depende de la racionalidad del sistema adoptado, en sí mismo, y de la buena aplicación por parte de las autoridades correspondientes, con las que debe concurrir la sociedad. A esta racionalidad y prudencia, consecuentes con el verdadero desarrollo del régimen penal, contribuye otra apreciación, que el Código recoge: el diverso tratamiento que se da a los casos de delito doloso y a los supuestos de delito culposo (artículo 73), natural en un ordenamiento que subraya la importancia de la culpabilidad del agente.
 
@@ -1685,19 +1685,35 @@ Se entiende que las lesiones y el homicidio son calificados cuando se cometen co
 
 I. Premeditación: Existe siempre que el agente comete el delito después de haber reflexionado sobre su ejecución. Se presumirá que existe premeditación cuando las lesiones o el homicidio se cometan por envenenamiento, asfixia, contagio venéreo, empleo de cualesquiera sustancia nociva para la salud, inundación, incendio o explosivos, o por retribución dada o prometida;
 
-II. Se entiende que hay ventaja:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2017)</small>
 
-a) Cuando el inculpado es superior en fuerza física al ofendido y éste no se halla armado;
+II.- Se entiende que hay ventaja cuando:
 
-b) Cuando el inculpado es superior por las armas que emplea, por su mayor destreza en el empleo de las mismas o por el número de los que lo acompañan;
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2017)</small>
 
-c) Cuando el activo se vale de algún medio que debilita la defensa del ofendido, o
+a) El inculpado es superior en fuerza física al ofendido y éste no se halla armado;
 
-d) Cuando el pasivo se halle inerme o caído y el activo armado o de pie.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2017)</small>
+
+b) El inculpado es superior por las armas que emplea, por su mayor destreza en el empleo de las mismas o por el número de los que lo acompañan;
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2017)</small>
+
+c) El activo se vale de algún medio que debilita la defensa del ofendido;
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2017)</small>
+
+d) El activo sea un hombre superior en fuerza física y el pasivo una mujer o persona menor de dieciocho años, o
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2017)</small>
+
+e) El pasivo se halle inerme o caído y el activo armado o de pie.
 
 La ventaja no se acredita, si el que la tiene obrase en legítima defensa.
 
-III. Alevosía: Consiste en sorprender intencionalmente a alguno de improviso o empleando asechanza u otro medio que no le de lugar a defenderse ni evitar la acción delictiva que se le quiera hacer; y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2017)</small>
+
+III. Alevosía: Consiste en sorprender intencionalmente a alguno de improviso o empleando asechanza u otro medio que no le dé lugar a defenderse ni evitar la acción delictiva que se le quiera hacer, y
 
 IV. Traición: Obra a traición el que no solamente emplea la alevosía, sino también la perfidia, violando la confianza que expresamente se hubiere prometido a la víctima, o la tácita que debiere prometer por sus relaciones de parentesco, gratitud, amistad o cualquiera otra que inspire confianza.
 
@@ -4823,7 +4839,7 @@ P.O. 1 DE JUNIO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO QUINIENTOS SETENTA Y SEIS POR EL CUAL SE REFORMA LA FRACCIÓN IV Y SE ADICIONA UNA FRACCIÓN V RECORRIÉNDOSE EN SU ORDEN Y NUMERACIÓN LAS SUBSECUENTES DEL ARTÍCULO 214 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
 
-PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los articulas 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
 
@@ -4918,3 +4934,13 @@ P.O. 12 DE ABRIL DE 2017.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 19 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL SETECIENTOS CINCUENTA Y CINCO POR EL QUE SE REFORMA DE MANERA INTEGRAL EL ARTÍCULO 126 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango normativo que se opongan al presente Decreto.
