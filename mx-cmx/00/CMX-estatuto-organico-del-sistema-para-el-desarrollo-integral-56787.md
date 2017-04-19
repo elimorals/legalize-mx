@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-sistema-para-el-desarrollo-integral-56787
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-09-24"
-last_updated: "2016-11-01"
+last_updated: "2017-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56787&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-07-06"
 
 ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE ABRIL DE 2017.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el lunes 24 de septiembre de 2007.
 
@@ -414,9 +414,29 @@ XVII. Atender, organizar, integrar, dirigir supervisar, evaluar y dar seguimient
 
 XVIII. Coordinar la realización de estudios de trabajo social y psicológico a petición de la autoridad jurisdiccional, en términos de la ley y demás disposiciones aplicables en la materia;
 
-XIX. Expedir las copias certificadas de los documentos existentes en sus archivos, únicamente previo cotejo de los originales atendiendo a lo dispuesto en las leyes de protección de datos personales; y
+> <small>(ADICIONADA, G.O. 19 DE ABRIL DE 2017)</small>
 
-XX. Las demás que le confiera la Dirección General y las disposiciones aplicables.
+XIX. Controlar, dirigir y coordinar a los Consejos Locales de Tutelas, así como promover las acciones legales necesarias para salvaguardar la integridad de la población en estado de vulnerabilidad que así lo requiera. Asimismo, deberá participar y promover los estudios e investigaciones multidisciplinarios conducentes en materia de reconocimiento de la capacidad jurídica de las personas con discapacidad;
+
+> <small>(ADICIONADA, G.O. 19 DE ABRIL DE 2017)</small>
+
+XX. Integrar la lista de personas con aptitud legal y moral para desempeñar la tutela en términos de la Ley en la materia y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, G.O. 19 DE ABRIL DE 2017)</small>
+
+XXI. Vigilar el ejercicio de la tutela de las personas con discapacidad cuando el juez lo ordene al Consejo Local de Tutelas en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, G.O. 19 DE ABRIL DE 2017)</small>
+
+XXII. Ordenar la realización de visitas domiciliarias y el envío de citatorios para investigar la veracidad de los reportes de maltrato o violación de los derechos de los adultos mayores y requerir la presencia de éstos, así como de sus familiares, tutores y quien los tenga a su cargo, para fines de investigación y tratamiento social;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 19 DE ABRIL DE 2017)</small>
+
+XXIII. Expedir las copias certificadas de los documentos existentes en sus archivos, únicamente previo cotejo de los originales atendiendo a lo dispuesto en las leyes de protección de datos personales; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 19 DE ABRIL DE 2017)</small>
+
+XXIV. Las demás que le confiera la Dirección General y las disposiciones aplicables.
 
 ### CAPÍTULO VI. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE ASISTENCIA ALIMENTARIA
 
@@ -690,21 +710,13 @@ XVIII. Asistir legalmente a las personas con discapacidad ante la autoridad judi
 
 XVIII Bis. Expedir copias certificadas de los documentos existentes en sus archivos, únicamente previo cotejo con los originales; y,
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2016)</small>
+XIX. (DEROGADA, G.O. 19 DE ABRIL DE 2017)
 
-XIX. Controlar, dirigir y coordinar a los consejos locales de tutelas, así como promover las acciones legales necesarias para salvaguardar la integridad de la población en estado de vulnerabilidad que así lo requiera. Asimismo deberá participar y promover los estudios e investigaciones multidisciplinarios conducentes en material de reconocimiento de la capacidad jurídica de las personas con discapacidad;
+XX. (DEROGADA, G.O. 19 DE ABRIL DE 2017)
 
-> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2016)</small>
+XXI. (DEROGADA, G.O. 19 DE ABRIL DE 2017)
 
-XX. Integrar la lista de personas con aptitud legal y moral para desempeñar la tutela en términos de la Ley en la materia y de demás disposiciones aplicables;
-
-> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2016)</small>
-
-XXI. Vigilar el ejercicio de la tutela de las personas con discapacidad cuando el juez lo ordene al Consejo Local de Tutelas en términos de las disposiciones aplicables;
-
-> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2016)</small>
-
-XXII. Ordenar la realización de visitas domiciliarias y el envío de citatorios para investigar la veracidad de los reportes de maltrato o violación de los derechos de los adultos mayores y requerir la presencia de éstos, así como de sus familiares, tutores y quien los tenga a su cargo, para fines de investigación y tratamiento social;
+XXII. (DEROGADA, G.O. 19 DE ABRIL DE 2017)
 
 > <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2016)</small>
 
@@ -1020,7 +1032,7 @@ Ciudad de México a seis de julio de 2007.
 
 C. JESÚS SALVADOR VALENCIA GUZMAN
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.O. 17 DE JULIO DE 2008.
 
@@ -1067,3 +1079,11 @@ QUINTO.- En tanto se expiden los manuales a que hace mención este Estatuto, se 
 SEXTO.- Las referencias que se hagan a las unidades administrativas que cambian de denominación y/o adscripción por virtud de las presentes modificaciones, así como las atribuciones que se les otorgan en otros instrumentos, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a las presentes modificaciones.
 
 SÉPTIMO.- Las actuaciones que en ejercicio de sus facultades y atribuciones hubiere llevado a cabo la Dirección Ejecutiva de la Defensoría de los Derechos de la Infancia, serán válidas y eficaces con la nueva denominación de la Dirección Ejecutiva de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes, en términos del artículo quinto transitorio de la Ley de los Derechos de Niñas, Niños y Adolescentes de la Ciudad de México.
+
+G.O. 19 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DAN A CONOCER LAS REFORMAS AL ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente aviso y sus reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Los actos a que alude el artículo tercero transitorio de la reforma publicada el día 1 de noviembre en la Gaceta Oficial de la Ciudad de México, que no se hayan realizado a la entrada en vigor del presente aviso, quedarán sin efecto para los fines administrativos y legales que correspondan.
