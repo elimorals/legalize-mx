@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-desarrollo-social-78653
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-25"
-last_updated: "2014-06-23"
+last_updated: "2017-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2017.
 
 Reglamento publicado en la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 25 de febrero de 2010.
 
@@ -41,9 +41,11 @@ La Secretaría de Desarrollo Social, como dependencia del Poder Ejecutivo del Es
 
 Para efectos del presente Reglamento se entenderá por Secretaría, a la Secretaría de Desarrollo Social y por Secretario, a su Titular.
 
-###### Artículo 3°.
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2017)</small>
 
-Para la atención, estudio, planeación y resolución de los asuntos de su competencia, contará con las siguientes unidades administrativas y un Órgano Desconcentrado:
+###### Artículo 3º.
+
+Para la atención, estudio, planeación y resolución de los asuntos de su competencia, la Secretaría contará con las siguientes unidades administrativas:
 
 I. Unidades Administrativas:
 
@@ -51,33 +53,39 @@ a) Subsecretaría de Participación Ciudadana y Enlace Institucional;
 
 b) Subsecretaría de Desarrollo Social y Humano;
 
-c) Dirección General de Participación Ciudadana;
+c) Subsecretaría de Inclusión para el Desarrollo Sustentable;
 
-d) Dirección General de Enlace Institucional;
+d) Dirección General de Participación Ciudadana;
 
-e) Dirección General de Programas Sociales;
+e) Dirección General de Enlace Institucional;
 
-f) Dirección General de Infraestructura Social;
+f) Dirección General de Programas Sociales;
 
-g) Dirección General del Programa CreSer;
+g) Dirección General de Infraestructura Social;
 
-h) Dirección General de Administración; y
+h) Dirección General de Análisis y Prospectiva Social;
 
-i) Unidad de Asuntos Jurídicos.
+i) Dirección General de Promoción de Desarrollo Regional;
 
-II. Órgano Desconcentrado:
+j) Dirección General de Administración;
 
-a) Centro Estatal de Desarrollo Municipal.
+k) Unidad de Transparencia; y
 
-###### Artículo 4°.
+l) Unidad Jurídica.
 
-La Secretaría, por conducto de sus unidades administrativas y Órgano Desconcentrado, planeará sus actividades y conducirá las mismas en forma programada, con base en las políticas, prioridades y restricciones que para el logro de los objetivos y metas del Plan Estatal de Desarrollo, y de los programas a su cargo, establezca el Gobernador del Estado y el Secretario, así como por lo previsto en la Ley de Desarrollo Social del Estado de Sonora.
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2017)</small>
+
+###### Artículo 4º.
+
+La Secretaría, por conducto de sus unidades administrativas, planeará sus actividades y conducirá las mismas en forma programada, con base en las políticas, prioridades y restricciones que para el logro de los objetivos y metas del Plan Estatal de Desarrollo, y de los programas a su cargo, establezca el Gobernador del Estado y el Secretario, así como por lo previsto en la Ley de Desarrollo Social del Estado de Sonora.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DEL SECRETARIO
 
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2017)</small>
+
 ###### Artículo 5º.
 
-El trámite y resolución de los asuntos de la competencia de la Secretaría, corresponde al Secretario, así como la representación de la misma. Las unidades administrativas y el Órgano Desconcentrado ejercerán las facultades que les asigne el presente Reglamento y las que le delegue el Secretario, sin perjuicio de que él mismo pueda asumir el ejercicio de tales facultades, en forma directa, cuando lo juzgue conveniente.
+El trámite y resolución de los asuntos de la competencia de la Secretaría, corresponde al Secretario, así como la representación de la misma. Las Unidades Administrativas ejercerán las facultades que les asigne el presente Reglamento y las que le delegue el Secretario, sin perjuicio de que el mismo pueda asumir el ejercicio de tales facultades, en forma directa, cuando lo juzgue conveniente.
 
 ###### Artículo 6°.
 
@@ -227,11 +235,15 @@ IX. Vigilar que las unidades administrativas a su cargo, integren la documentaci
 
 X. Las demás que le confieran las disposiciones normativas aplicables y el Secretario dentro de la esfera de sus atribuciones.
 
-###### Artículo 9°.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], B.O. 20 DE ABRIL DE 2017)</small>
 
-A la Subsecretaría de Desarrollo Social y Humano, le corresponderán las siguientes atribuciones:
+###### Artículo 9º.
 
-I. Proponer las políticas para la atención de las personas, familias, grupos y comunidades en situación de pobreza, vulnerabilidad y exclusión, en las zonas rurales;
+A la Subsecretaría de Desarrollo Social y Humano, le corresponden las siguientes atribuciones:
+
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+I. Proponer las políticas y programas orientados a la atención de carencias sociales de la población en situación de pobreza;
 
 II. Definir los criterios para seleccionar la zonas (sic) de atención prioritaria;
 
@@ -241,15 +253,59 @@ IV. Coordinar la operación de una estrategia articuladora del conjunto de progr
 
 V. Asignar los programas, proyectos y acciones de su competencia a las unidades administrativas a su cargo, y verificar que se operen de manera congruente con los objetivos institucionales;
 
-VI. Formular y proponer políticas para el desarrollo social integral y establecer los criterios que deben regir en el diseño y evaluación de los mismos; y
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-VII. Las demás que le señalen las disposiciones normativas aplicables y el Secretario dentro de la esfera de sus atribuciones.
+VI. Formular y proponer políticas para el desarrollo social integral y establecer los criterios que deben regir en el diseño y evaluación de las mismas;
+
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+VII. Coordinar la integración y administración de los padrones de beneficiarios de los programas sociales y del ámbito de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 20 DE ABRIL DE 2017)</small>
+
+VIII. Coordinar el diseño y operación de programas orientados a las zonas de atención prioritaria para el desarrollo social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 20 DE ABRIL DE 2017)</small>
+
+IX. Vigilar el correcto cumplimiento de los programas sociales a fin de cumplir con los objetivos y metas establecidos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 20 DE ABRIL DE 2017)</small>
+
+X. Las demás que le señalen las disposiciones normativas aplicables y el Secretario dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 20 DE ABRIL DE 2017)</small>
+
+###### Artículo 9º Bis.
+
+A la Subsecretaría de Inclusión para el Desarrollo Sustentable, le corresponderá (sic) las siguientes atribuciones:
+
+I. Coordinar el diseño, ejecución y evaluación de propuestas de programas y acciones de inclusión social;
+
+II. Diseñar y operar un sistema de gestión para la atención que permita identificar la demanda por grupo vulnerable y la oferta institucional para facilitar su vinculación;
+
+III. Formular y operar los instrumentos de inclusión social, orientados a la articulación de programas y estrategias sociales de las Dependencias y Entidades de los gobiernos Federal, Estatal y Municipales;
+
+IV. Coordinar la formulación, de los programas que se deriven de los apartados de la política social del Plan Estatal de Desarrollo y de la Ley de Desarrollo Social del Estado;
+
+V. Establecer los instrumentos para la formulación y actualización de los padrones de beneficiarios de programas sociales;
+
+VI. Coordinar la elaboración de los estudios de carácter global y sectorial relativos a los resultados de los programas, estrategias y acciones sociales;
+
+VII. Formular los lineamientos generales para el diseño y elaboración de las reglas de operación de los programas sociales y emitir opiniones técnicas en la materia;
+
+VIII. Contribuir a la formulación de los programas, estrategias y acciones de desarrollo social que coordina la Secretaría;
+
+IX. Formular y aplicar lineamientos para la recolección y administración de información estadística, demográfica, geográfica, cartográfica y toda aquella que contribuya a fortalecer la ejecución de programas, estrategias y acciones de impacto social; y
+
+X. Las demás que le señalen las disposiciones normativas aplicables y el Secretario, dentro de la esfera de sus atribuciones.
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES GENÉRICAS DE LAS DIRECCIONES GENERALES Y LAS UNIDADES
 
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2017)</small>
+
 ###### Artículo 10.
 
-Al frente de cada una de las Direcciones Generales habrá un Director General y al frente de la Unidad de Asuntos Jurídicos habrá un Director, quienes técnica y administrativamente serán los responsables del funcionamiento de la unidad administrativa a su cargo y se auxiliarán, según corresponda, por el personal técnico y administrativo que las necesidades del servicio requieran y figuren en el presupuesto.
+AI frente de cada una de las Direcciones Generales habrá un Director General y al frente de la Unidad Jurídica habrá un Director, quienes técnica y administrativamente serán los responsables del funcionamiento de la unidad administrativa a su cargo y se auxiliarán, según corresponda, por el personal técnico y administrativo que las necesidades del servicio requieran y figuren en el presupuesto.
 
 ###### Artículo 11.
 
@@ -417,39 +473,67 @@ XV. Generar y mantener actualizada la información relativa a los avances de los
 
 XVI. Las demás que le confieran las disposiciones normativas aplicables y el Secretario dentro de la esfera de sus atribuciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2017)</small>
 
 ###### Artículo 16.
 
-La Dirección General del Programa CreSer estará adscrita directamente al Secretario, y le corresponden las siguientes atribuciones:
+La Dirección General de Análisis y Prospectiva Social estará adscrita a la Subsecretaría de Inclusión para el Desarrollo Sustentable y le corresponden las siguientes atribuciones:
 
-I. Impulsar el mejoramiento de las condiciones y calidad de vida de la población, a través de la conjunción de programas y acciones de la política social federal, estatal y municipal;
+I. Coordinar la elaboración de análisis prospectivo que contribuyan a la definición y ejecución de programas, estrategias y acciones de inclusión social;
 
-II. Promover la suscripción de convenios de colaboración con los gobiernos municipales con cobertura del Programa, para establecer acuerdos para la ejecución de acciones;
+II. Intervenir en la formulación y difusión de informes y estudios encaminados a reorientar o consolidar la ejecución de programas, estrategias y acciones que incidan en el desarrollo social;
 
-III. Establecer mecanismos para hacer llegar apoyos de los programas sociales a las familias en situación de vulnerabilidad;
+III. Coadyuvar en la elaboración de programas, estrategias y acciones de inclusión social;
 
-IV. Apoyar la realización y difusión de proyectos, investigaciones, diagnósticos, informes y estudios necesarios para reorientar o fortalecer las políticas públicas, programas y acciones que incidan en el desarrollo social;
+IV. Participar en la formulación, ejecución, seguimiento y evaluación del programa de mediano plazo de la Secretaría así como los programas institucionales de las entidades sectorizadas;
 
-V. Integrar y mantener actualizada la información relacionada al padrón de beneficiarios del programa a su cargo; así como diseñar y operar un sistema único de identificación de los beneficiarios del programa;
+V. Establecer y operar un sistema de información que permita el análisis integral de la estadística que genere la ejecución de programas, estrategias y acciones de inclusión social;
 
-VI. Diseñar y desarrollar una plataforma informática que posibilite el análisis integral de la información estadística que genere el programa para sustentar los procesos de planeación, seguimiento y evaluación del mismo;
+VI. Llevar a cabo el análisis de los indicadores que impactan en el desarrollo social del Estado;
 
-VII. Participar en los procesos de promoción y acciones orientados al mejoramiento de la calidad de vida de las familias beneficiadas por el programa;
+VII. Formular y presentar informes de avances de los programas y estrategias que coordina la Secretaría; y
 
-VIII. Intervenir en acciones de coordinación con las dependencias y entidades de los tres órdenes de gobierno, así como de concertación con organismos sociales y privados, para lograr mayores apoyos a favor de los beneficiarios del programa;
+VIII. Las demás que le confieren las disposiciones normativas aplicables y el Secretario dentro de las esferas de sus atribuciones.
 
-IX. Coordinar al equipo de gestores del desarrollo para garantizar el acceso de las familias en situación de pobreza, vulnerabilidad y exclusión, a los satisfactores básicos en materia de salud, educación, alimentación, identidad jurídica, entre otros;
+> <small>(ADICIONADO, B.O. 20 DE ABRIL DE 2017)</small>
 
-X. Coordinar el diseño e implementación de programas de capacitación para el personal adscrito a la unidad administrativa;
+###### Artículo 16 Bis.
 
-XI. Vigilar el correcto cumplimiento del Programa, a fin de cumplir con las metas establecidas; y
+La Dirección General de Promoción de Desarrollo Regional estará adscrita al despacho del Titular de la Secretaría de Desarrollo Social y le corresponden las siguientes atribuciones:
 
-XII. Las demás que le confieran las disposiciones normativas aplicables y el Secretario dentro de la esfera de sus atribuciones.
+I. Coordinar, dar seguimiento y evaluar las actividades de las Oficinas Regionales;
+
+II. Elaborar diagnósticos de carácter regional en materia de desarrollo social, que contribuyan a la identificación y seguimiento de las demandas de la población de las regiones del Estado;
+
+III. Implementar mecanismos de coordinación para el cumplimiento de los programas de trabajo establecidos en las Comisiones Regionales de Desarrollo Social del Sistema Estatal de Desarrollo Social;
+
+IV. Articular estrategias, proyectos y acciones entre los tres órdenes de gobierno y organizaciones de la sociedad civil para que contribuyan a la ejecución y evaluación de programas de desarrollo social, dirigidos a las personas en condición de vulnerabilidad social de las regiones del Estado;
+
+V. Establecer coordinación con otras dependencias y entidades de los tres órdenes de gobierno para la promoción y ejecución de programas que incidan en el desarrollo social de las diversas regiones del Estado;
+
+VI. Participar en las reuniones de la Comisión Estatal de Desarrollo Social y de las Comisiones Regionales de Desarrollo Social y dar seguimiento a los acuerdos del ámbito de su competencia;
+
+VII. Otorgar asesoría en el rubro de desarrollo social a los gobiernos municipales que así lo soliciten;
+
+VIII. Coordinar la instrumentación y evaluación de programas y acciones de desarrollo regional social en las regiones del Estado;
+
+IX. Intervenir en el análisis de las propuestas de inversión surgidas en las Comisiones Regionales de Desarrollo Regional, a efecto que en su caso, sean integradas al anteproyecto de presupuesto de egresos del Gobierno del Estado;
+
+X. Ejecutar las acciones que contribuyan a promover y gestionar las demandas en materia de desarrollo social de los municipios del Estado;
+
+XI. Establecer criterios en la definición y mecanismos necesarios para la integración de la información del desarrollo social, regional y municipal;
+
+XII. Intervenir en la definición y ejecución de programas, proyectos y acciones que incidan en el desarrollo social de las regiones del Estado;
+
+XIII. Instrumentar y operar sistemas de información entre las Oficinas Regionales y las Unidades Administrativas de la Secretaría; y
+
+XIV. Las demás que le confieren las disposiciones normativas aplicables y el Secretario dentro de las esferas de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE ABRIL DE 2017)</small>
 
 ###### Artículo 17.
 
-La Dirección General de Administración estará adscrita directamente a la Secretaría y le corresponden las siguientes atribuciones:
+La Dirección General de Administración estará adscrita al despacho del Titular de la Secretaría de Desarrollo Social y le corresponden las siguientes atribuciones:
 
 I. Coordinar el proceso de programación y presupuestación de la Secretaría, con base en los lineamientos que emita la Secretaría de Hacienda;
 
@@ -487,9 +571,43 @@ XVII. Implementar y mantener actualizado el Sistema Integral de Archivo, así mi
 
 XVIII. Las demás que le confieran las disposiciones normativas aplicables y el Secretario dentro de la esfera de sus atribuciones.
 
+> <small>(ADICIONADO, B.O. 20 DE ABRIL DE 2017)</small>
+
+###### Artículo 17 Bis.
+
+La Unidad de Transparencia estará adscrita al despacho del Secretario de Desarrollo Social, la cual tendrá un titular a quien le corresponden las siguientes atribuciones:
+
+I. Coordinar y supervisar la Unidad de Transparencia y proponer al comité de transparencia las acciones que contribuyan a su fortalecimiento;
+
+II. Coordinar el registro, recepción, respuestas, resultados, costos de reproducción y envío de las solicitudes de acceso a la información pública;
+
+III. Atender y dar seguimiento a los requerimientos, observaciones y criterios que, en materia de transparencia y acceso a la información, realice el Instituto Sonorense de Transparencia (sic) Acceso a la Información Pública y Protección de Datos Personales y al Sistema Nacional de Transparencia;
+
+IV. Asesorar a las unidades administrativas de la Secretaría, proporcionando capacitación continua para el trámite de atención a las solicitudes de acceso a la información pública;
+
+V. Coordinar a las unidades administrativas de la Secretaría para la publicación y actualización de la información relativa a las obligaciones de transparencia;
+
+VI. Fungir como presidente del Comité de Transparencia proponiendo los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la normatividad aplicable;
+
+VII. Proponer personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información;
+
+VIII. Proteger y resguardar la información clasificada como reservada o confidencial;
+
+IX. Implementar acciones, lineamientos y políticas de transparencia proactiva para su accesibilidad al interior de la Secretaría;
+
+X. Vigilar el cumplimiento de las obligaciones previstas en la Ley General de Transparencia y Acceso a la Información Pública y en la Ley de Transparencia y Acceso a la Información Pública del Estado de Sonora y en su caso hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las mismas;
+
+XI. Intervenir en la realización de acciones de concurrencia institucional para la formulación y ejecución de programas, proyectos y estrategias en donde participa la Secretaría;
+
+XII. Desahogar los requerimientos que realice el Instituto de Transparencia Informativa del Estado de Sonora en la substanciación de (sic) recurso de revisión; y
+
+XIII. Las demás que le confieren las disposiciones normativas aplicables y el Secretario dentro de las esferas de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE ABRIL DE 2017)</small>
+
 ###### Artículo 18.
 
-La Unidad de Asuntos Jurídicos estará adscrita directamente a la Secretaría y le corresponden las siguientes atribuciones:
+La Unidad Jurídica estará adscrita al despacho del Titular de la Secretaría de Desarrollo Social y le corresponden las siguientes atribuciones:
 
 I. Representar al Secretario y a las unidades administrativas en toda clase de procedimientos judiciales y administrativos, cuando proceda, formulando y presentando demandas, denuncias, querellas y desistimientos, así como ofreciendo, presentando y, en su caso, desahogando todo tipo de pruebas, y dando contestación y seguimiento a las demandas y reclamaciones en contra de actos o resoluciones emitidos por la Secretaría o sus unidades administrativas en el ejercicio de las facultades que les confieren el presente Reglamento, la Ley Orgánica del Poder Ejecutivo del Estado y demás ordenamientos legales aplicables;
 
@@ -505,27 +623,33 @@ VI. Revisar los acuerdos y resoluciones que deba a emitir el Secretario, dentro 
 
 VII. Supervisar, de acuerdo con las directrices que le indique el Secretario, la formulación de los convenios, contratos y demás actos jurídicos en los que la Secretaría sea parte y llevar su registro;
 
-VIII. Fungir como Titular de la Unidad de Enlace de la Secretaría, conforme a lo previsto en la Ley de Acceso a la Información Pública del Estado de Sonora;
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-IX. Expedir copias certificadas de los documentos existentes en los archivos de la propia unidad administrativa de conformidad con las disposiciones legales aplicables; y
+VIII. Expedir copias certificadas de los documentos existentes en los archivos de la Secretaría, previo acuerdo delegatorio de facultades expedido por la Secretaría de la Consejería Jurídica; y
 
-X. Las demás que le confieren las disposiciones normativas aplicables y el Secretario, dentro de la esfera de sus atribuciones.
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN X], B.O. 20 DE ABRIL DE 2017)</small>
+
+IX. Las demás que le confieren las disposiciones normativas aplicables y el Secretario, dentro de la esfera de sus atribuciones.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 20 DE ABRIL DE 2017)</small>
 
 ### CAPÍTULO VII. DEL ÓRGANO DESCONCENTRADO
 
 ###### Artículo 19.
 
-La Secretaría contará con el Centro Estatal de Desarrollo Municipal como un órgano desconcentrado que le estará jerárquicamente subordinado y gozará de autonomía técnica para la atención eficaz y despacho de los asuntos de su competencia.
+(DEROGADO, B.O. 20 DE ABRIL DE 2017)
 
 ###### Artículo 20.
 
-El Centro Estatal de Desarrollo Municipal, como órgano desconcentrado, estará sujeto para su funcionamiento a la organización, dirección, control y vigilancia del Secretario y ejercerá las funciones que le confiere su decreto de creación, así como los demás ordenamientos jurídicos aplicables.
+(DEROGADO, B.O. 20 DE ABRIL DE 2017)
 
 ### CAPÍTULO VIII. DE LA SUPLENCIA DE LOS FUNCIONARIOS DE LA SECRETARÍA
 
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2017)</small>
+
 ###### Artículo 21.
 
-Durante las ausencias temporales del Secretario, el despacho y resolución de los asuntos urgentes de la Secretaría, estarán a cargo en primera instancia del Subsecretario de Participación Ciudadana y Enlace Institucional y a falta de éste será responsabilidad del Subsecretario de Desarrollo Social y Humano.
+Durante las ausencias temporales del Secretario, el despacho y resolución de los asuntos urgentes de la Secretaría, serán atendidos por los Subsecretarios en el orden siguiente: Subsecretaría de Participación Ciudadana y Enlace Institucional, Subsecretaría de Desarrollo Social y Humano y Subsecretaría de Inclusión para el Desarrollo Sustentable.
 
 ###### Artículo 22.
 
@@ -562,3 +686,13 @@ B.O. 23 DE JUNIO DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 Artículo Segundo.- Las modificaciones a los manuales de Organización, de Procedimientos y, en su caso, de Servicios al Público de la Secretaría de Desarrollo Social que deban efectuarse con motivo de la presente reforma al Reglamento Interior deberán expedirse dentro de los sesenta días posteriores a su publicación en el mencionado órgano oficial de difusión. El titular de esta Secretaría queda facultado para resolver las cuestiones que se presenten relacionadas con las materias de los referidos manuales administrativos en tanto éstos se expidan.
+
+B.O. 20 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Artículo Segundo.- Las modificaciones a los manuales de Organización, de Procedimientos y, en su caso, de Servicios al Público de la Secretaría de Desarrollo Social que deban efectuarse con motivo de la presente reforma al Reglamento Interior deberán expedirse dentro de los sesenta días posteriores a su publicación en el mencionado órgano oficial de difusión. El Secretario de Desarrollo Social queda facultado para resolver las cuestiones que se presenten relacionadas con las materias de los referidos manuales administrativos en tanto éstos se expidan.
+
+Artículo Tercero.- Los recursos financieros y materiales de la Dirección General del Programa CreSer que se contemplaban en el Reglamento Interior de la Secretaría de Desarrollo Social que se modifica, pasan a formar parte de la Dirección General de Promoción de Desarrollo Regional establecida por medio de este Reglamento por lo que se realizarán los trámites correspondientes.
