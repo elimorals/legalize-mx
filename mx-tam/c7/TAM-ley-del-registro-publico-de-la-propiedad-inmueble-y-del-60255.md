@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-registro-publico-de-la-propiedad-inmueble-y-del-60255"
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2016-09-27"
+last_updated: "2017-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2017.
 
 Ley publicada en el Anexo Número 27 del Periódico Oficial del Estado de Tamaulipas, el jueves 28 de febrero de 2008.
 
@@ -635,7 +635,9 @@ II. Calificado con defecto; o
 
 III. Denegado.
 
-2. Cada vez que se presente un documento a registro, cualquiera sea el resultado de la calificación, será reintegrado al presentante en un plazo máximo de 10 días a contar desde su presentación.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2017)</small>
+
+2. Cada vez que se presente un documento a registro, cualquiera que sea el resultado de la calificación, será reintegrado al presentante en un plazo máximo que no exceda de 10 días hábiles; cuando se trate de solicitudes de certificados informativos, certificados con reserva de prioridad o de avisos preventivos, deberán reintegrarse al presentante cualquiera que sea el resultado de la calificación en el término de 3 días, en ambos casos, el término comenzará a computarse desde su presentación.
 
 ###### ARTICULO 52.
 
@@ -677,7 +679,7 @@ Si la calificación con defecto o denegada no alcanzara a la totalidad de inmueb
 
 ###### ARTICULO 58.
 
-1. Si al solicitarse la inscripción o anotación existieren otras de carácter provisional o certificaciones con reserva de prioridad vigentes, se plasmará en el Registro con la advertencia de la circunstancia que la condiciona, en la forma que lo determine el Regalmento.
+1. Si al solicitarse la inscripción o anotación existieren otras de carácter provisional o certificaciones con reserva de prioridad vigentes, se plasmará en el Registro con la advertencia de la circunstancia que la condiciona, en la forma que lo determine el Regalmento (sic).
 
 2. Cuando la segunda inscripción o anotación obtenga prioridad respecto de la primera, el Registro Público informará de la variación producida, comunicando que la anotación condicional ha adquirido prioridad. En caso contrario, la anotación condicional quedará desplazada por el cumplimiento de los plazos legales de protección de los documentos.
 
@@ -1550,3 +1552,11 @@ P.O. 27 DE SEPTIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor el día 1o. de octubre de 2016.
+
+P.O. 20 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-155 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 51, NUMERAL 2 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
