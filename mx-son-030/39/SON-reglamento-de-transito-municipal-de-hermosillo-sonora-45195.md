@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-transito-municipal-de-hermosillo-sonora-45195"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-31"
-last_updated: "2015-09-10"
+last_updated: "2017-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 REGLAMENTO DE TRÁNSITO MUNICIPAL DE HERMOSILLO, SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2017.
 
 Reglamento publicado en la Sección I del Número 26 en el Boletín Oficial del Estado de Sonora, el jueves 31 de marzo de 2005.
 
@@ -243,7 +243,9 @@ Además, el tránsito de vehículos de carga, así como las maniobras de carga y
 
 En todo caso, el tránsito por las vialidades de la ciudad de Hermosillo y la carga y descarga dentro del perímetro urbano de los vehículos con las características contenidas en el párrafo primero solo serán permitidas en el horario comprendido de las 21:00 horas a las 6:00 horas del día siguiente.
 
-El incumplimiento de lo dispuesto en este artículo será sancionado con multa de 10 a 15 veces el salario mínimo general vigente en el área geográfica que le corresponde al municipio de Hermosillo.
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2017)</small>
+
+El incumplimiento de lo dispuesto en este artículo será sancionado con multa de 10 a 15 Unidades de Medida y Actualización.
 
 ###### ARTÍCULO 15.
 
@@ -853,11 +855,11 @@ J).- En caso de accidente o delito.
 
 K).- Por orden de autoridad judicial.
 
-> <small>(REFORMADA, B.O. 28 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-V.- MULTA.- Se impondrá multa de cero punto cuatro a doscientos días de salario mínimo diario general vigente en la ciudad de Hermosillo, en los términos de la Ley de Tránsito del Estado de Sonora.
+V.- Multa.- Se impondrá multa de cero punto cuatro a doscientas Unidades de Medida y Actualización, en los términos de la Ley de Tránsito del Estado de Sonora.
 
-La multa por conducción de vehículos en estado de ebriedad o bajo los influjos de las drogas o sustancias tóxicas, se impondrá multa de cien días de salario mínimo diario general vigente; y en el caso de conducta reiterada, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto.
+La multa por conducción de vehículos en estado de ebriedad o bajo los influjos de las drogas o sustancias tóxicas, se impondrá multa de cincuenta a cien Unidades de Medida y Actualización; y en el caso de conducta reiterada, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto.
 
 > <small>(ADICIONADA, B.O. 28 DE MAYO DE 2009)</small>
 
@@ -980,3 +982,11 @@ Las atribuciones para la aplicación de las sanciones previstas en la presente r
 ###### ARTÍCULO CUARTO.
 
 Se instruye a la Jefatura de Policía Preventiva y Tránsito Municipal, Dirección General de Seguridad Pública para que lleve a cabo un programa de divulgación y concientización a los destinatarios de las presentes reformas, a fin de facilitar su cumplimiento voluntario.
+
+20 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “ACUERDO DE REFORMA A LOS ARTÍCULOS 14 Y 63 DEL REGLAMENTO DE TRÁNSITO MUNICIPAL”.]
+
+PRIMERO. La presente reforma entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones reglamentarias que se opongan a la aplicación de la presente reforma.
