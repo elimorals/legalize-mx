@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-los-servicios-de-salud-de-sonora-67943"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-26"
-last_updated: "2016-01-08"
+last_updated: "2017-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2017.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 26 de marzo del 2009.
 
@@ -1163,13 +1163,19 @@ Las Jurisdicciones Sanitarias tienen por objeto planear, coordinar, supervisar y
 
 I.- JURISDICCIÓN SANITARIA 01 HERMOSILLO, comprende los Municipios de Aconchi, Arivechi, Bacadéhuachi, Bacanora, Banámichi, Baviácora, Garbó, La Colorada, Cumpas, Divisaderos, Granados, Hermosillo, Huásabas, Huépac, Mazatán, Moctezuma, Nácori Chico, Nacozari de García, Ónavas, Opodepe, Rayón, Sahuaripa, San Felipe de Jesús, San Javier, San Miguel de Horcasitas, San Pedro de la Cueva, Soyopa, Suaqui Grande, Tepache, Ures, Villa Hidalgo y Villa Pesqueira.
 
-II.- JURISDICCIÓN SANITARIA 02 CABORCA, comprende los Municipios de Altar, Átil, Caborca, General Plutarco Elías Calles, Oquitoa, Pitiquito, Puerto Peñasco, San Luis Río Colorado, Sáric y Tubutama.
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+II.- JURISDICCIÓN SANITARIA 02 CABORCA, comprende los municipios de Altar, Átil, Caborca, Oquitoa, Pitiquito, Sáric y Tubutama.
 
 III.- JURISDICCIÓN SANITARIA 03 SANTA ANA, comprende los Municipios de Agua Prieta, Arizpe, Bacerac, Bacoachi, Bavispe, Benjamín Hill, Cananea, Cucurpe, Fronteras, Huachinera, Ímuris, Magdalena, Naco, Nogales, Santa Ana, Santa Cruz y Trincheras.
 
 IV.- JURISDICCIÓN SANITARIA 04 CIUDAD OBREGÓN, comprende los Municipios de Bácum, Cajeme, Empalme, Guaymas, Quiriego, Rosario, San Ignacio Río Muerto y Yécora.
 
 V.- JURISDICCIÓN SANITARIA 05 NAVOJOA, comprende los Municipios de Álamos, Benito Juárez, Etchojoa, Huatabampo y Navojoa.
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+VI.- JURISDICCIÓN SANITARIA 06 SAN LUIS RÍO COLORADO, comprende los municipios de San Luis Río Colorado, General Plutarco Elías Calles y Puerto Peñasco.
 
 > <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
 
@@ -1342,6 +1348,16 @@ Los manuales de Organización, de Procedimientos y de Servicios al Público de l
 B.O. 8 DE ENERO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los manuales de organización, de procedimientos y de servicios al público de los Servicios de Salud de Sonora, deberán actualizarse de conformidad con las disposiciones del presente Acuerdo, dentro de los sesenta días posteriores a la publicación del mismo en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE ABRIL DE 2017.
 
 ###### ARTÍCULO PRIMERO.
 
