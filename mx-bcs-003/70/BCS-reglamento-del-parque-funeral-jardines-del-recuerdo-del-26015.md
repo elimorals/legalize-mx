@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-del-parque-funeral-jardines-del-recuerdo-del-26015"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-04-24"
-last_updated: "2002-04-24"
+last_updated: "2017-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCS"
 ---
 # REGLAMENTO DEL PARQUE FUNERAL JARDINES DEL RECUERDO DEL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO SEGUNDO DEL ACUERDO DE CREACIÓN DEL ORGANISMO MUNICIPAL DESCENTRALIZADO DENOMINADO "PARQUE FUNERAL JARDINES DEL RECUERDO", PUBLICADO EN EL B.O. DE 20 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL PARQUE FUNERAL JARDINES DEL RECUERDO DEL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2017 (ABROGADO).
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el miércoles 24 de abril de 2002.
 
@@ -168,3 +170,35 @@ PRESIDENTE MUNICIPAL
 ING. URBANO BARRERA SALVATIERRA
 
 SECRETARIO GENERAL
+
+[N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
+
+B.O. 20 DE ABRIL DE 2017.
+
+[N. DE. E. TRANSITORIOS DEL “DICTAMEN MEDIANTE EL CUAL SE MODIFICA EL ACUERDO DE CREACIÓN DEL ORGANISMO MUNICIPAL DESCENTRALIZADO DENOMINADO "PARQUE FUNERAL JARDINES DEL RECUERDO" Y SE REFORMAN LOS, ARTÍCULOS TERCERO, CUARTO, QUINTO, SEXTO, SÉPTIMO, OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO SEGUNDO, DÉCIMO TERCERO, DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SÉPTIMO, DÉCIMO OCTAVO, DÉCIMO NOVENO, VIGÉSIMO, VIGÉSIMO PRIMERO, VIGÉSIMO TERCERO IGUAL, SE ADICIONA DOS PÁRRAFOS Y VIGÉSIMO CUARTO IGUAL SE ADICIONA UN PÁRRAFO”.]
+
+PRIMERO.- Se concede un término de quince días hábiles a efecto de que se integre La Junta de Gobierno del Organismo Municipal Descentralizado.
+
+SEGUNDO: La Junta de Gobierno del Organismo Municipal Descentralizado, contará con un plazo de sesenta días naturales después de publicado este ordenamiento, a efectos de elaborar los manuales operativos, programas específicos de trabajo.
+
+TERCERO.- Este H. Cabildo, reconoce y respeta el Acuerdo derivado de la vigésima séptima sesión Ordinaria de Cabildo celebrada el 19 de julio del año 2004, donde actualmente existe una superficie de terreno en el Organismo Municipal Descentralizado "Parque Funeral Jardines del Recuerdo", destinado a favor de la Asociación Voluntarias Vicentinas de La Paz San Vicente de Paúl, A.C., para que sean depositados los cadáveres de los asilados en la Institución denominada Asilo de Ancianos San Vicente de Paúl de la ciudad de La Paz, Baja California Sur.
+
+CUARTO.- Se concede un término de noventa días hábiles a efecto de que la consejería Jurídica y las autoridades municipales competentes procedan a realizar ante las instancias correspondientes, todos los trámites fiscales y actos jurídicos necesarios a efecto de dar cumplimiento a lo establecido en el presente Dictamen.
+
+QUINTO.- Para la resolución de aquellos casos no previstos en el presente Dictamen, queda reservado para la Junta de Gobierno.
+
+SEXTO.- Todos los bienes muebles e inmuebles presentes y futuros pertenecientes al Organismo Municipal Descentralizado, pasarán a ser propiedad del mismo a partir de la fecha de aprobación del presente Dictamen.
+
+SÉPTIMO.- Se instruye al Lic. Isidro Martin Ibarra Morales, Secretario General del H. Ayuntamiento de La Paz, Baja California Sur, para que por su conducto se realice la publicación completa del presente Dictamen aprobado, en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+OCTAVO.- Se instruye al Secretario General del H. XV Ayuntamiento de La Paz, para que por su conducto se notifique el presente Dictamen a las áreas correspondientes, lo anterior para los efectos legales conducentes, con la finalidad de dar cumplimiento a lo establecido en el presente dictamen aprobado.
+
+NOVENO.- Se instruye a la Consejería Jurídica del H. XV Ayuntamiento de La Paz, se hagan las adecuaciones correspondientes al Acuerdo de Creación del Organismo Municipal Descentralizado denominado "Parque Funeral Jardines del Recuerdo", publicado en el Boletín Oficial del gobierno del Estado de Baja California sur, número 15 de fecha 31 de marzo de 1993.
+
+DÉCIMO.- Se instruye a las comisiones unidas de Estudios Legislativos y Reglamentarios y de Organismos Descentralizados y Fideicomisos de este H. Ayuntamiento de La Paz para que se realicen las adecuaciones correspondientes para la inclusión de este Organismo Municipal Descentralizado denominado "Parque Funeral Jardines del Recuerdo" al Reglamento de la Administración Pública Municipal de La Paz, Baja California Sur.
+
+DÉCIMO PRIMERO.- Los derechos laborales de los trabajadores designados al servicio del Organismo Municipal Descentralizado denominado "Parque Funeral Jardines del Recuerdo", no sufrirán cambios o menoscabo alguno por la aprobación del presente Dictamen, dejando a salvo los derechos laborales de los mismos; asimismo, las contrataciones y nombramientos del personal técnico y administrativo, serán a través de la Oficialía Mayor del H. Ayuntamiento de La Paz, B.C.S.
+
+DÉCIMO SEGUNDO.- Se Abrogan los ordenamientos jurídicos denominados Reglamento del Parque Funeral Jardines del Recuerdo, publicado en el Boletín Oficial del Gobierno del Estado de Baja California sur, número 10, en fecha 31 de marzo de 1995 y el "Reglamento del Parque Funeral jardines del Recuerdo", publicado en el boletín Oficial del Gobierno del Estado de Baja California sur, extraordinario número 20, en fecha 24 de abril de 2002, asimismo, todas las disposiciones normativas, administrativas, acuerdos de carácter municipal y reglamentos anteriores que se opongan directa o indirectamente al presente Dictamen.
+
+DÉCIMOTERCERO (SIC).- El presente Dictamen entrará en vigor a partir de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
