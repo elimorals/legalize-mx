@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-agricultura-49319"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-30"
-last_updated: "2005-12-22"
+last_updated: "2017-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA, RECURSOS HIDRAULICOS, PESCA Y ACUACULTURA DEL ESTADO DE SONORA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA, RECURSOS HIDRAULICOS, PESCA Y ACUACULTURA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE AGRICULTURA, GANADERÍA, RECURSOS HIDRÁULICOS, PESCA Y ACUACULTURA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2017.
 
 Reglamento publicado en la Edición Especial del Periódico Oficial del Estado de Sonora, el miércoles 30 de junio de 2004.
 
@@ -33,9 +33,11 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE AGRICULTURA, GANADERÍA, RECURSOS HIDR�
 
 ### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACIÓN DE LA SECRETARÍA
 
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 1o.
 
-La Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura como Dependencia del Poder Ejecutivo Estatal, tiene a su cargo el despacho de los asuntos que expresamente le confieren la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, la Ley de Ganadería para el Estado de Sonora, Ley de Aguas del Estado de Sonora y otras leyes, así como los reglamentos, decretos, acuerdos, circulares y órdenes del Gobernador del Estado.
+La Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura como Dependencia del Poder Ejecutivo Estatal, tiene a su cargo el despacho de los asuntos que expresamente le confiere la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, la Ley de Ganadería para el Estado de Sonora, Ley de Aguas del Estado de Sonora, Ley de Fomento para el Desarrollo Forestal Sustentable del Estado de Sonora, Ley de Pesca y Acuicultura para el Estado de Sonora y sus Planes de Manejo Pesquero y Acuícola para las Presas del Estado, así como los reglamentos, decretos, acuerdos, circulares y órdenes del Gobernador del Estado.
 
 ###### ARTÍCULO 2o.
 
@@ -45,33 +47,31 @@ Cuando en este Reglamento se haga referencia a la Secretaría y al Secretario, s
 
 Para la atención, estudio, planeación, trámite y resolución de los asuntos de su competencia, la Secretaría contará con las unidades administrativas y un órgano desconcentrado, siguientes:
 
-> <small>(REFORMADA, B.O., 22 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
 I. Unidades Administrativas:
 
-Secretaría
+a) Secretaría;
 
-Subsecretaría de Agricultura
+b) Subsecretaría de Agricultura;
 
-Subsecretaría de Ganadería
+c) Subsecretaría de Ganadería;
 
-Subsecretaría de Pesca y Acuacultura
+d) Subsecretaría de Pesca y Acuacultura;
 
-Dirección General de Desarrollo Agrícola
+e) Dirección General de Desarrollo Agrícola;
 
-Dirección General de Competitividad en Cadenas Productivas Agrícolas
+f) Dirección General de Desarrollo Rural y Capitalización al Campo;
 
-Dirección General de Desarrollo Rural y Capitalización al Campo
+g) Dirección General de Desarrollo Ganadero;
 
-Dirección General de Desarrollo Ganadero
+h) Dirección General de Servicios Ganaderos;
 
-Dirección General de Servicios Ganaderos
+i) Dirección General Forestal y de Fauna Silvestre;
 
-Dirección General Forestal y Fauna de Interés Cinegético
+j) Dirección General de Pesca y Acuacultura; y
 
-Dirección General de Pesca y Acuacultura
-
-Dirección General de Planeación, Administración y Evaluación
+k) Dirección General de Planeación, Administración y Evaluación.
 
 II. Órgano Desconcentrado:
 
@@ -163,7 +163,9 @@ II.- Proponer al Titular del Poder Ejecutivo, los anteproyectos de leyes, reglam
 
 III.- Desempeñar las comisiones y funciones que el Gobernador del Estado le confiera, manteniéndolo informado sobre su desarrollo;
 
-IV.- Definir las medidas técnicas y administrativas que estime convenientes, para la mejor organización y funcionamiento de la Secretaría en el marco de las acciones de mejora administrativa;
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+IV.- Definir las medidas técnicas y administrativas que estime convenientes, para la mejor organización y funcionamiento de la Secretaría en el marco de las acciones de mejora regulatoria;
 
 V.- Autorizar la apertura de cuentas de cheques para el desarrollo de las actividades administrativas de la Secretaría, así como designar a los funcionarios responsables que con su firma liberen dichos fondos;
 
@@ -175,13 +177,31 @@ VIII.- Expedir, previa aprobación de la Secretaría de la Contraloría General 
 
 IX.- Proporcionar y atender en el marco del Sistema Estatal de Control y Evaluación Gubernamental, los requerimientos de información que solicite la Secretaría de la Contraloría General en ejercicio de sus atribuciones;
 
-X.- Recibir en acuerdo a los titulares de las unidades de la Secretaría y conceder audiencia a los particulares, de conformidad con las políticas establecidas al respecto;
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+X.- Recibir en acuerdo a los funcionarios y empleados de la Secretaría y conceder audiencias a los particulares, de conformidad con las políticas establecidas al respecto;
 
 XI.- Suscribir los convenios que la Secretaría celebre con otras dependencias o entidades de la administración pública estatal, o aquellos actos jurídicos que resulten necesarios para el ejercicio de sus atribuciones;
 
 XII.- Ejercer las atribuciones que le confieren las disposiciones de la Ley de Ganadería para el Estado de Sonora y la Ley de Aguas para el Estado de Sonora;
 
 XIII.- Proponer al Ejecutivo del Estado, las tarifas por concepto de derechos por los servicios que proporciona la Secretaría o en las entidades que le corresponde coordinar.
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XIV.- Emitir las disposiciones, reglas y bases de carácter general, normas y lineamientos en el ejercicio de las atribuciones que conforme a las leyes competen a la Secretaría;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XV.- Determinar, de conformidad con las disposiciones relativas, las bases específicas para la integración y operación del subsistema de información sectorial;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XVI.- Implementar acciones necesarias para el cumplimiento del Sistema Integral de Archivos de acuerdo con la normatividad en la materia; y
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XVII.- Garantizar a los ciudadanos el acceso a la información de carácter público de la Secretaría, en el marco de lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Sonora y la normatividad aplicable.
 
 D. En materia de coordinación.
 
@@ -225,9 +245,9 @@ Al frente de cada Subsecretaría habrá un Subsecretario, quien siendo técnica 
 
 A. En materia de planeación, presupuestación y seguimiento.
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-l.- Elaborar el programa de trabajo anual, de acuerdo con las responsabilidades a su cargo y los lineamientos que al respecto emita el Secretario;
+I.- Elaborar el programa de operativo anual, de acuerdo con las responsabilidades a su cargo y los lineamientos que al respecto emita el Secretario;
 
 II.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de las unidades administrativas que se le adscriban, de acuerdo con los lineamientos que fije el titular de la Secretaría e informar a éste de sus resultados;
 
@@ -251,7 +271,9 @@ B. En materia jurídico-administrativa.
 
 l.- Acordar con el Secretario, el despacho de los asuntos encomendados a las unidades administrativas adscritas a la Subsecretaría a su cargo e informarle oportunamente sobre el estado que guardan los mismos;
 
-II.- Dictar las medidas necesarias para el mejoramiento administrativo de las unidades adscritas a la Subsecretaría a su cargo;
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+II.- Dictar las medidas necesarias para el desarrollo administrativo y mejora regulatoria de las unidades adscritas a la Subsecretaría a su cargo;
 
 III.- Recibir en acuerdo a los funcionarios y empleados adscritos a la Subsecretaría y conceder audiencias a los particulares, de conformidad con las políticas definidas al respecto por el Secretario;
 
@@ -267,9 +289,19 @@ VII.- Observar el cumplimiento de las leyes, decretos, reglamentos, acuerdos y r
 
 VIII.- Cumplir con las políticas establecidas en la dependencia en materia administrativa y de control en el ámbito de su competencia;
 
-IX.- Custodiar y supervisar el cuidado conservación y buen uso de los recursos materiales y financieros que el Gobierno del Estado destina para el eficiente desarrollo de los programas que le son encomendados;
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+IX.- Custodiar y garantizar el cuidado, conservación y buen uso de los recursos materiales y financieros que el Gobierno del Estado destina para el eficiente desarrollo de los programas que le son encomendados;
 
 X.- Atender y proporcionar la información y documentación requerida por la Secretaría de la Contraloría General, en el cumplimiento de sus funciones;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XI.- Expedir copias certificadas de los documentos originales que tengan en su poder y obren en sus archivos, así como realizar el cotejo de las copias simples de documentos que disponga en sus archivos;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XII.- Atender oportunamente las solicitudes de información pública que les turne el Titular de la Unidad de Transparencia de la Secretaria, de conformidad con lo dispuesto por la normatividad en materia de acceso a la información.
 
 C. En materia de coordinación.
 
@@ -315,11 +347,29 @@ II.- Impulsar y divulgar tanto la investigación como la transferencia de la tec
 
 III.- Promover e impulsar proyectos agrícolas, así como inversiones que permitan ampliar la frontera agrícola y la utilización de tecnologías innovadoras que eleven el nivel de vida de la población;
 
-IV.- Promover políticas de apoyo a la industrialización y comercialización de productos agrícolas; y
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+IV.- Promover políticas de apoyo a la industrialización y comercialización de productos agrícolas;
 
-V.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+V.- Coadyuvar en la mejora de la infraestructura hidráulica para elevar la productividad en la agricultura en todas las regiones del Estado;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+VI.- Impulsar el desarrollo sustentable y sostenible de las localidades rurales agrícolas e incrementar la eficiencia en el uso del agua en los distritos y unidades de riego;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+VII.- Apoyar la institucionalización y consolidación de los procesos de planeación, programación, presupuestación y la aplicación de los programas hidráulicos con un enfoque de cuencas y acuíferos;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+VIII.- Coordinar la revisión y análisis de los programas o proyectos productivos o estratégicos agrícolas, que presentan los productores agrícolas de la entidad; y
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+IX.- Las demás que le confieran las disposiciones legales aplicables y el Secretario dentro de la esfera de sus atribuciones.
 
 ###### ARTÍCULO 9o.
 
@@ -361,11 +411,45 @@ III.- Instrumentar programas de investigación y difusión de tecnología que me
 
 IV.- Coadyuvar en la promoción de políticas que apoyen la conservación, preservación y uso racional de los recursos pesqueros y acuícolas;
 
-V.- Promover políticas de apoyo a la industrialización y comercialización de productos pesqueros y acuícolas; y
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+V.- Promover políticas de apoyo a la industrialización y comercialización de productos pesqueros y acuícolas;
 
-VI.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+VI.- Promover el ordenamiento territorial y la sanidad de los desarrollos acuícolas;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+VII.- Realizar actividades de inspección y vigilancia en los embalses donde existe el aprovechamiento de los recursos pesqueros de manera comercial, acuacultura, pesca deportivo-recreativa, la comercialización y puntos de venta de especies bajo el estatus de protección y/o reserva conforme a la Ley de Pesca y Acuicultura para el Estado de Sonora y los Planes de Manejo respectivos;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+VIII.- Proponer la regulación, emitir y administrar los permisos de pesca y acuacultura, así como de pesca deportivo-recreativo, conforme la Ley de Pesca y Acuicultura para el Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+IX.- Diseñar, proponer y promover las políticas públicas para el óptimo desarrollo de la pesca y acuacultura en el Estado;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+X.- Elaborar, ejecutar y evaluar el Programa Estatal de Desarrollo Pesquero y Acuícola;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XI.- Expedir las constancias de verificación sanitaria y las guías de tránsito para transportar los productos pesqueros o acuícolas que se obtengan de las aguas dulces continentales;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XII.- Promover la celebración de torneos de pesca deportivo-recreativa en la entidad;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XIII.- Establecer, operar y mantener actualizado el Sistema Estatal de Información Pesquera y Acuícola; y
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XIV.- Las demás que le confieran las disposiciones legales aplicables y el Secretario dentro de la esfera de sus atribuciones.
 
 ###### ARTÍCULO 11.
 
@@ -373,9 +457,11 @@ VI.- Las demás que le señale el Secretario y otras disposiciones legales aplic
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES GENÉRICAS (SIC) LAS DIRECCIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 12.
 
-Al frente de cada Dirección General, habrá un Director General, quien técnica y administrativamente será el responsable del funcionamiento de la unidad administrativa a su cargo, se auxiliará, según corresponda, por el personal técnico y administrativo que las necesidades del servicio requieran y figuren en el presupuesto:
+Al frente de cada Dirección General y Coordinación General, habrá un Director General y un Coordinador General, respectivamente, quienes técnica y administrativamente serán los responsables del funcionamiento de la unidad administrativa a su cargo; se auxiliarán, según corresponda, por el personal técnico y administrativo que las necesidades del servicio requieran y figuren en el presupuesto, y tendrá las siguientes atribuciones genéricas:
 
 I.- Planear, programar, organizar, dirigir, ejecutar, controlar y evaluar el desarrollo de los programas y acciones encomendadas a la unidad administrativa, bajo su responsabilidad;
 
@@ -389,7 +475,9 @@ V.- Participar, conforme a los lineamientos establecidos por la Secretaría de l
 
 VI.- Prestar el apoyo técnico, para la definición de las políticas, lineamientos y criterios necesarios para la formulación, revisión, actualización, seguimiento y evaluación de los programas del sector, de los programas y proyectos estratégicos que de ellos se deriven, así como del Programa Operativo Anual;
 
-VlI.- Elaborar el anteproyecto de Presupuesto de Egresos por Programas que le corresponda a la unidad administrativa y ejecutarlo conforme a las normas y lineamientos aplicables, en los montos y de acuerdo al calendario que haya sido autorizado; asimismo, informar al superior jerárquico de los avances de cada uno de los programas en los que le haya correspondido participar conforme a su competencia;
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+VII.- Elaborar el anteproyecto de Presupuesto de Egresos por Programas que le corresponda a la unidad administrativa a su cargo y ejecutar su presupuesto conforme a las normas y lineamientos aplicables, en los montos y de acuerdo al calendario que haya sido autorizado; asimismo, solicitar a su superior jerárquico las modificaciones y transferencias presupuestales de los recursos que sean necesarios para la ejecución de los programas a su cargo;
 
 VIII.- Determinar, conforme a sus necesidades, los requerimientos de bienes muebles y servicios que sean indispensables para el desempeño de las funciones de la unidad administrativa a su cargo y remitirlo al superior jerárquico para su autorización;
 
@@ -413,7 +501,9 @@ XVII.- Coordinarse con los titulares de las unidades administrativas de la Secre
 
 XVIII.- Asesorar técnicamente en asuntos de su especialidad a las unidades administrativas de las dependencias estatales, así como proporcionar la información, los datos y la cooperación técnica a las demás unidades administrativas de la Secretaría u otras instancias, de acuerdo con las políticas establecidas al respecto;
 
-XIX.- Participar en la selección, evaluación, promoción y capacitación del personal de la unidad administrativa a su cargo, de acuerdo con las políticas vigentes en materia de administración y desarrollo de recursos humanos;
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XIX.- Intervenir en la selección, promoción y capacitación del personal de la unidad administrativa a su cargo de acuerdo con las políticas vigentes en materia de administración y desarrollo de recursos humanos;
 
 XX.- Desempeñar las representaciones que por acuerdo expreso se le encomienden e informar de los resultados de las mismas, al superior jerárquico;
 
@@ -423,11 +513,21 @@ XXII.- Suscribir los documentos relativos al ejercicio de sus atribuciones y aqu
 
 XXIII.- Vigilar la correcta aplicación del presupuesto, así como el buen uso de mobiliario, equipo y vehículos que se asignen a la unidad administrativa a su cargo;
 
-XXIV.- Formular y proporcionar informes sobre avances físicos y financieros, de seguimiento, control y evaluación de resultados obtenidos derivados de los diversos programas, subprogramas, proyectos y convenios, en los que tenga injerencia la unidad administrativa, manteniendo informado a su superior jerárquico y a las dependencias federales y estatales competentes que así lo soliciten; y
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+XXIV.- Formular y proporcionar informes sobre avances físicos y financieros, de seguimiento, control y evaluación de resultados obtenidos derivados de los diversos programas, subprogramas, proyectos y convenios, en los que tenga injerencia la unidad administrativa, manteniendo informado a su superior jerárquico y a las dependencias federales y estatales competentes que así lo soliciten;
 
-XXV.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXV.- Coadyuvar en el cumplimiento de la normatividad expedida para el control, organización, circulación y conservación de los documentos y archivos;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXVI.- Atender oportunamente las solicitudes de información pública que les turne el Titular de la Unidad de Transparencia de la Secretaría, de conformidad con lo dispuesto por la normatividad en materia de acceso a la información; y
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXVII.- Las demás que le confieran las disposiciones legales aplicables y el Secretario dentro de la esfera de sus atribuciones.
 
 ### CAPÍTULO VI. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES
 
@@ -465,43 +565,15 @@ XIII.- Las demás que le señale el Secretario y otras disposiciones legales apl
 
 ###### ARTÍCULO 14.
 
-La Dirección General de Competitividad en Cadenas Productivas Agrícolas, estará adscrita a la Subsecretaría de Agricultura y le corresponden las siguientes atribuciones;
-
-I.- Difundir normas, lineamientos y procedimientos para la integración y operación de programas de Sanidad Vegetal, Calidad e inocuidad Agroalimentaria;
-
-II.- Apoyar a los productores en los esfuerzos por elevar y mantener la calidad agroalimentaria en la Entidad, así como en las gestiones para la obtención de estímulos a la producción;
-
-III.- Participar con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y con los productores, en la elaboración y operación de los programas de sanidad vegetal, sanidad animal, sanidad acuícola y de calidad e inocuidad agroalimentaria, de conformidad con los acuerdos que se establezcan;
-
-IV.- Promover, en coordinación con las autoridades federales y municipales, así como con los organismos auxiliares, la implementación y estricta observancia de medidas para preservar la sanidad, calidad e inocuidad de los productos vegetales que ingresen y salgan de la Entidad;
-
-V.- Proponer y promover la celebración de convenios interinstitucionales y participar en la realización de programas y proyectos conjuntos, que permitan fortalecer la competitividad del sector;
-
-VI.- Proponer y apoyar en los procesos que agreguen valor a la producción agrícola del Estado, fomentando una distribución equitativa entre los diversos agentes económicos;
-
-VII.- Participar en programas y negociaciones con autoridades federales y la industria para la oportuna comercialización de la producción agrícola;
-
-VIII.- Participar en el análisis, discusión y negociación financiera a solicitud expresa del productor con problemas de liquidez e incumplimiento de obligaciones con la banca de desarrollo, banca privada, fondos de fomento y cualesquier otro acreedor, asesorando su participación en el mercado financiero y trámite de apoyos especiales, procurando el abatimiento de la cartera vencida;
-
-IX.- Participar y promover la celebración de ferias, exposiciones, congresos y muestras agroindustriales, tanto regionales como nacionales e internacionales, de manera coordinada con los sectores público, social y privado para el desarrollo de los productos agrícolas;
-
-X.- Elaborar diagnósticos de la situación actual y perspectivas de la agroindustria sonorense;
-
-XI.- Coordinar acciones con organismos, instituciones educativas y centros de investigación Iocales, nacionales y extranjeros para intercambiar; información relativa a programas y sistemas que promuevan y mejoren el desarrollo agrícola y agroindustrial del Estado;
-
-XII.- Proporcionar asesoría y apoyo técnico con objeto de que el productor agrícola comercialice directamente sus productos, evitando en lo posible el intermediarismo;
-
-XIII.- Coordinar acciones con los organismos e instituciones financieras, tendientes a implementar y fortalecer instrumentos, esquemas de financiamiento que permitan accesar al crédito a los productores agrícolas; y
-
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
-
-XIV.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
+(DEROGADO, B.O. 20 DE ABRIL DE 2017)
 
 ###### ARTÍCULO 15.
 
 La Dirección General de Desarrollo Rural y Capitalización al Campo, estará adscrita a la Subsecretaría de Agricultura y le corresponden las siguientes atribuciones:
 
-I.- Coordinar, participar y apoyar a los grupos de trabajo que tienen a su cargo el análisis de los programas derivados de los convenios de coordinación y concertación de los programas de su competencia;
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+I.- Coordinar, participar y apoyar a los grupos de trabajo que tienen a su cargo el análisis y seguimiento de los programas derivados de los convenios de coordinación y concertación de su competencia;
 
 II.- Mantener comunicación constante con los productores y con las unidades administrativas de la Secretaría, a efecto de informarles sobre políticas y lineamientos a seguir, así como vigilar que se cumpla con la normatividad establecida de los programas de inversión a su cargo;
 
@@ -509,21 +581,77 @@ III.- Participar con la representación oficial que para el caso le confiera el 
 
 IV.- Coordinar la ejecución y seguimiento de las inversiones orientadas a la capitalización mediante proyectos productivos o rurales con enfoque de sustentabilidad que posibiliten la aplicación de tecnologías apropiadas, reconversión productiva, acopio, acondicionamiento y transformación para fortalecer la producción primaria, la generación de empleo y servicios para el desarrollo de la población rural agrícola;
 
-V.- Fomentar y apoyar la conservación y preservación de suelos agrícolas, promoviendo técnicas de riego modernas para el uso racional y eficiente del recurso agua;
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-VI.- Proponer e impulsar programas y acciones de fomento a la productividad y rentabilidad de las actividades económicas rurales operación y evaluación de los programas y acciones de desarrollo agrícola y rural;
+V.- Fomentar y apoyar la conservación y mejoramiento de los suelos agrícolas que permitan incrementar la productividad y competitividad del campo sonorense;
 
-VII.- Dar seguimiento a la operación y evaluación de los programas y acciones de desarrollo agrícola;
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-VIII.- Integrar y desarrollar proyectos de inversión que permitan canalizar recursos públicos y privados al sector;
+VI.- Proponer e impulsar programas y acciones de fomento a la producción y diversificación de las actividades económicas del campo sonorense;
 
-IX.- Coordinar el proceso de recepción y análisis de solicitud de apoyo a las inversiones de los productores rurales en las ventanillas de atención establecidas en los Distritos de Desarrollo Rural y Centros de Apoyo para el Desarrollo Rural de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-X.- Acordar con el Secretario la integración de grupos de trabajo, que analicen y dictaminen la viabilidad de los apoyos a las inversiones de los productores agrícolas, así como vigilar que los expedientes técnicos cumplan con la normatividad aplicable; y
+VII.- Dar seguimiento a la operación y evaluación de los programas, componentes y acciones de desarrollo rural, extensionismo, capacitación y de la unidad de información y estadística;
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-XI.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
+VIII.- Promover la integración de proyectos estratégicos de inversión de impacto local, regional o estatal que permitan canalizar recursos públicos y de los productores en torno a las actividades del subsector agrícola;
+
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+IX.- Coordinar y dar seguimiento al proceso de recepción, revisión, análisis y dictaminación de solicitudes de apoyo que presenten los productores en las ventanillas establecidas para tal fin;
+
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+X.- Definir con el subsecretario la integración de grupos de trabajo que analicen y dictaminen la viabilidad de los apoyos a las inversiones de los productores agrícolas, así como vigilar que los expedientes técnicos cumplan con la normatividad aplicable;
+
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XI.- Difundir normas, lineamientos y procedimientos para la integración y operación de programas de Sanidad Vegetal, Calidad e Inocuidad Agroalimentaria;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XII.- Apoyar a los productores en los esfuerzos por elevar y mantener la calidad agroalimentaria en el Estado, así como en las gestiones para la obtención de estímulos a la producción;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XIII.- Coordinar la elaboración y operación de los programas de sanidad vegetal, de calidad e inocuidad agroalimentaria, de conformidad con los acuerdos y convenios que se establezcan;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XIV.- Promover la implementación de acciones para la estricta observancia de medidas que permitan preservar la sanidad, calidad e inocuidad de los productos de origen vegetal que ingresen y salgan del Estado;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XV.- Proponer y promover la celebración de convenios de coordinación, para la ejecución de programas y proyectos que permitan el fortalecimiento y competitividad del sector;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XVI.- Proponer y apoyar en los procesos que agreguen valor a la producción agrícola del Estado, fomentando una distribución equitativa entre los diversos agentes económicos que conformen las cadenas productivas agrícolas;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XVII.- Participar y promover la celebración de ferias, exposiciones, congresos y muestras agroindustriales, tanto regionales como nacionales e internacionales, entre investigadores, productores y sociedad en general que propicie el intercambio de conocimiento y experiencias para el desarrollo de las actividades del subsector agrícola;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XVIII.- Coordinar acciones con organismos, instituciones educativas y centros de investigación locales, nacionales y extranjeros para promover la investigación y transferencia de tecnología, así como el intercambio de información relativa a programas y sistemas que mejoren el desarrollo agrícola y agroindustrial del Estado;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XIX.- Fomentar la comunicación con los productores y las unidades administrativas de la Secretar a (sic), a efecto de dar a conocer políticas y lineamientos a seguir, así como su estricta observancia de la normatividad establecida para los programas de inversión a su cargo;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XX.- Promover y apoyar la oportuna comercialización de la producción agrícola en el Estado;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXI.- Participar en programas que apoyen a los productores afectados en sus cosechas agrícolas por causas de fenómenos climatológicos; y
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXII.- Las demás que le confieran las disposiciones legales aplicables y las que le atribuya expresamente el titular de la Secretaría.
 
 ###### ARTÍCULO 16.
 
@@ -593,77 +721,177 @@ XVI.- Expedir copias certificadas de la documentación que obra en los archivos 
 
 XVII.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 18.
 
-La Dirección General Forestal y Fauna de Interés Cinegético, estará adscrita a la Subsecretaría de Ganadería y le corresponden las siguientes atribuciones:
+La Dirección General Forestal y de Fauna Silvestre estará adscrita a la Subsecretaría de Ganadería y tendrá las siguientes atribuciones:
 
 > <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
 
 I.- Difundir entre los productores forestales y de vida silvestre las principales acciones a ejecutar, así como el cumplimiento de las normas, lineamientos y procedimientos para la integración y operación de programas de fomento y desarrollo;
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-II.- Coordinarse con productores y autoridades federales competentes para ejecutar los programas de prevención y combate de plagas, así como enfermedades que afecten los recursos forestales y de vida silvestre;
+II.- Coordinarse con productores y autoridades federales competentes para ejecutar los programas de prevención y combate de incendios forestales, plagas, así como enfermedades que afecten los recursos forestales y de vida silvestre;
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-III.- Promover e implementar acciones para el desarrollo de las comunidades ganaderas y rurales en lo referente a los recursos sustentable (sic) forestales y de vida silvestre;
+III.- Promover, establecer e implementar acciones para el desarrollo de las comunidades ganaderas y rurales en lo referente a los recursos forestales y de vida silvestre;
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-IV.- Participar y apoyar en la actualización de los inventarios de recursos forestales y de vida silvestre, de obras y proyectos referentes a estos rubros;
+IV.- Formular el inventario de los recursos e infraestructura forestal y de la vida silvestre existentes en el Estado, en los términos dispuestos en las disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-V.- Establecer acciones de apoyo que contribuyan a la conservación, desarrollo y uso racional del recurso forestal y de vida silvestre, mediante la concertación con los productores;
+V.- Establecer acciones de apoyo y fomento que contribuyan a la conservación, protección, restauración, equipamiento, desarrollo, uso y aprovechamiento sustentable del recurso forestal y de vida silvestre, mediante la concertación con los productores, dueños o poseedores de terrenos forestales y los diferentes órdenes de gobierno;
 
 > <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
 
 VI.- Apoyar y promover la celebración de convenios o acuerdos interinstitucionales para la ejecución de programas, proyectos y acciones que incrementen el desarrollo de las actividades forestales y de vida silvestre de la Entidad;
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-VII.- Promover acciones de investigación, experimentación y transferencia de tecnología en materia forestal y de vida silvestre que contribuya al desarrollo y productividad de las mismas en las diversas regiones del Estado:
+VII.- Apoyar los programas de investigación forestal y de la vida silvestre, así como fomentar la divulgación y aplicación de la tecnología y de los sistemas que mejoran la productividad;
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-VIII.- Promover acuerdos de coordinación con las diversas instancias de los órdenes de gobierno y convenios de concertación con los representantes de los grupos sociales o con los particulares, para lograr el desarrollo sustentable de las actividades forestales fauna y de vida silvestre;
+VIII.- Promover acuerdos de coordinación con las diversas instancias de los órdenes de gobierno y convenios de concertación con los representantes de los grupos sociales o con los particulares, para lograr el desarrollo sustentable de las actividades forestales y de vida silvestre;
 
 IX.- Coadyuvar con las autoridades competentes en la promoción sobre el manejo sustentable de las cuencas hidrológicas;
 
 X.- Representar por acuerdo expreso o a solicitud del Subsecretario de Ganadería, ante los organismos encargados del manejo, desarrollo y promoción de las cuencas hidrológicas del Estado;
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-XI.- Participar en fideicomisos, fundaciones y otras instituciones cuyo propósito sea el de apoyar a la conservación y aprovechamiento sustentable de los recursos forestales y de vida silvestre, de conformidad en los términos que establezca el ordenamiento de creación de dichas entidades o, en su caso, por invitación expresa de tales organismos o institutos;
+XI.- Promover y participar en fideicomisos, fundaciones y otras instituciones cuyo propósito sea el de apoyar a la conservación, protección, fomento y aprovechamiento sustentable de los recursos forestales y de vida silvestre, de conformidad en (sic) los términos que establezca el ordenamiento de creación de dichas entidades o, en su caso, por invitación expresa de tales organismos o institutos;
 
-XII.- Orientar, organizar y capacitar a los productores forestales, así como de flora y fauna en la utilización de nuevas tecnologías de explotación y transformación de las materias primas para darles valor agregado a los productos generados;
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-XIII.- Fomentar en el ámbito de su competencia, programas de reforestación en coordinación con las autoridades federales, estatales y municipales, con la participación de la ciudadanía en general;
+XII.- Orientar, organizar y capacitar a los propietarios y productores forestales, así como de vida silvestre en la utilización de nuevas tecnologías de protección, conservación, fomento, aprovechamiento sustentable y transformación de las materias primas para darles valor agregado a los productos y subproductos generados;
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-XIV.- Colaborar con las autoridades competentes en la supervisión, extracción, industrialización, abasto y comercialización de las materias primas y productos forestales, así como de vida silvestre, de conformidad con las disposiciones jurídicas aplicables;
+XIII.- Fomentar, establecer y ejecutar en el ámbito de su competencia, programas y acciones de reforestación en coordinación con las autoridades federales, estatales y municipales, con la participación de la ciudadanía en general;
+
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XIV.- Colaborar con las autoridades competentes en la supervisión, protección, extracción, transporte, industrialización, abasto y comercialización de las materias primas, productos y subproductos forestales, así como de vida silvestre, de conformidad con las disposiciones jurídicas aplicables;
 
 XV.- Asesorar a los productores de las Unidades de Manejo y Aprovechamiento Sustentable, en la integración de proyectos, así como las actualizaciones o modificaciones que presenten las mismas;
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-XVI.- Apoyar y promover, en los términos de la legislación aplicable, la formulación y ejecución de estudios de manejo y explotación integral de recursos forestales y de vida silvestre;
+XVI.- Promover, fomentar, desarrollar, establecer y ejecutar, en los términos de la legislación aplicable, estudios o programas de manejo, poblacionales, aprovechamiento sustentable, diversificación productiva y explotación integral de recursos forestales y de vida silvestre;
 
-XVII.- Apoyar a los productores forestales y cinegéticos con asistencia técnica, estudios y proyectos para efectuar cambios o rehabilitación en el uso de suelo;
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-XVIII.- Promover la capacitación a inspectores forestales y cinegéticos, en coordinación con las dependencias federales y estatales competentes;
+XVII.- Apoyar a los propietarios y productores forestales y de vida silvestre con asistencia técnica estudios, proyectos y acciones para efectuar cambios o rehabilitación en el uso de suelo;
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-XIX.- Apoyar a los productores en el análisis de proyectos forestales y de vida silvestre;
+XVIII.- Promover la capacitación a inspectores forestales y de vida silvestre, para coadyuvar en las acciones de conservación, protección y vigilancia, en coordinación con las dependencias federales y estatales competentes;
 
-XX.- Apoyar en la promoción, análisis, fomento, así como la comercialización y distribución de los productos forestales, mediante políticas y acciones de difusión e investigación de mercados tanto nacional como internacional; y
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+XIX.- Promover, fomentar, establecer, ejecutar políticas y mecanismos de apoyo a los propietarios y productores forestales y de vida silvestre, en la planeación, análisis, desarrollo y establecimiento de proyectos sustentables;
 
-XXI.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XX.- Apoyar en la promoción, análisis, fomento, así como la comercialización y distribución de los productos y subproductos forestales y de vida silvestre, mediante políticas y acciones de difusión e investigación de mercados tanto nacional como internacional;
+
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXI.- Autorizar, registrar y supervisar técnicamente el establecimiento de unidades de manejo para la conservación de la vida silvestre;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXII.- Atender los asuntos relativos al manejo, control y remediación de problemas asociados a ejemplares y poblaciones de vida silvestre que se tornen perjudiciales;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXIII.- Promover y aplicar las medidas relativas al trato digno y respetuoso de la fauna silvestre;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXIV.- Promover, el establecimiento de las condiciones para el manejo de ejemplares de fauna silvestre fuera de su hábitat natural, de conformidad con los procedimientos establecidos en la Ley;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXV.- Promover el establecimiento de las condiciones necesarias para el desarrollo de mercados estatales para la vida silvestre, basados en criterios de sustentabilidad, para estimular el logro de los objetivos de conservación y aprovechamiento sustentable de la misma;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXVI.- Otorgar, suspender, modificar y revocar las autorizaciones, registros y demás actos administrativos vinculados al aprovechamiento de ejemplares de las especies y poblaciones silvestres, al ejercicio de la caza deportiva y para la prestación de servicios de este tipo de aprovechamiento, de conformidad con los convenios vigentes para la descentralización de funciones con la Federación;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXVII.- Promover el desarrollo de proyectos, estudios y actividades encaminados a la educación, capacitación e investigación forestal y sobre la vida silvestre, para el desarrollo del conocimiento técnico y científico y el fomento de la utilización del conocimiento tradicional;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXVIII.- Proponer las políticas y ejecutar los programas tendientes a fomentar la producción forestal y de la vida silvestre en el Estado;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXIX.- Organizar y participar en eventos que promuevan el desarrollo y la competitividad de las actividades forestales y de vida silvestre en el Estado, así como en las misiones orientadas a la consolidación y apertura de mercados;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXX.- Fomentar, conforme a los programas en la materia, la organización, capacitación y asistencia técnica de los productores forestales y de vida silvestre;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXXI -Asesorar a los municipios y organismos de productores que los soliciten, en materia forestal y de vida silvestre;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXXII.- Organizar y fomentar servicios relacionados con las actividades forestales y de vida silvestre, considerando la disponibilidad de recursos naturales y los productos generados en cada región, así como la situación del mercado;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXXIII.- Instrumentar y ejecutar los programas de desarrollo, capacitación, sanidad, vigilancia y aprovechamiento sustentable, así como las acciones y servicios relativos a lo forestal y la vida silvestre, que se desarrollen en el Estado, observando las disposiciones que emitan las autoridades competentes;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXXIV.- Proponer y apoyar el desarrollo de infraestructura forestal y de vida silvestre del Estado, en coordinación con los gobiernos federal y municipales y en concertación con las organizaciones de productores;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXXV.- Fomentar y apoyar la conservación, preservación y uso racional de los recursos forestales y de la vida silvestre, en coordinación con las dependencias y entidades estatales, federales y municipales competentes;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXXVI.- Ejercer las funciones, ejecutar y operar las obras y prestar los servicios públicos que asuma el Estado por virtud de convenios o acuerdos de coordinación celebrados con el Ejecutivo Federal o los ayuntamientos en materia de vida silvestre, forestal y suelos forestales;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXXVII.- Apoyar al Gobierno Federal en la integración y revisión del Servicio Nacional Forestal y en todos los demás afines a su competencia, así como en la interrelación con el Sistema Nacional de Información Forestal y el Subsistema Nacional de Información sobre la Vida Silvestre, mediante sus respectivos sistemas, registros y padrón estatales correspondientes;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXXVIII.- Diseñar, coordinar y promover programas y campañas de prevención, combate y erradicación de las plagas y enfermedades que afecten a las especies forestales.
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XXXIX.- Promover la actualización de las disposiciones jurídicas y normas oficiales mexicanas aplicables en la materia forestal y de vida silvestre;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XL.- Asumir las funciones en materia de vida silvestre a que hace referencia el artículo 10 de la Ley General de Vida Silvestre, así como, en materia forestal y de suelos a que hacen referencia los artículos 13 de la Ley General de Desarrollo Forestal Sustentable y 10 de la Ley de Fomento para el Desarrollo Forestal Sustentable del Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XLI.- Formular y promover el ordenamiento forestal del Estado;
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XLII.- Evaluar, autorizar y certificar documentación técnica concerniente al fomento, conservación, restauración, desarrollo y aprovechamiento sustentable forestal y de la vida silvestre en la Entidad; y
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XLIII.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 19.
 
@@ -751,7 +979,9 @@ XVIII.- Someter a consideración del Titular de la Secretaría, la propuesta de 
 
 XIX.- Promover sistemáticamente el desarrollo profesional del personal adscrito a las unidades administrativas de la Secretaría, con el fin de mejorar el desempeño de sus funciones y orientar las acciones al cumplimiento de los objetivos institucionales;
 
-XX.- Tramitar ante la Dirección General de Recursos Humanos de la Secretaría de Hacienda, los ingresos, prestaciones y renuncias que presente el personal adscrito a la Secretaría;
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+XX.- Tramitar ante la Subsecretaría de Recursos Humanos de la Secretaría de Hacienda los ingresos, prestaciones y renuncias que presente el personal adscrito a la Secretaría;
 
 XXI.- Implementar las medidas administrativas y de control, necesarias para vigilar el cumplimiento de la normatividad aplicable en las unidades administrativas de la Secretaría;
 
@@ -799,6 +1029,16 @@ Durante las ausencias del Secretario, el despacho de los asuntos correspondiente
 
 En las ausencias de los Subsecretarios, de los Directores Generales y del titular del órgano desconcentrado, para el despacho de los asuntos de su competencia, serán suplidos por el funcionario que para ese efecto designe el Secretario.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 20 DE ABRIL DE 2017)</small>
+
+### CAPÍTULO IX. DEL CONTROL Y VIGILANCIA
+
+> <small>(ADICIONADO, B.O. 20 DE ABRIL DE 2017)</small>
+
+###### ARTÍCULO 26.
+
+Las funciones de control y vigilancia de la Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura estarán a cargo del Órgano Interno de Control, órgano desconcentrado de la Secretaría de la Contraloría General, el cual despachará en las oficinas de la Secretaría, ejerciendo las funciones y atribuciones que le confieren los artículos 18 y 19 del Reglamento Interior de la mencionada Secretaría, así como los demás ordenamientos jurídicos y disposiciones generales aplicables.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -813,10 +1053,22 @@ Dado en la residencia del Poder Ejecutivo en la ciudad de Hermosillo, Sonora, a 
 
 EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- BULMARO PACHECO MORENO.- RUBRICA.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 B.O. 22 DE DICIEMBRE DE 2005.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE AGRICULTURA, GANADERÍA, RECURSOS HIDRÁULICOS, PESCA Y ACUACULTURA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas a los manuales de Organización, de Procedimientos y, en su caso, de Servicios al Público, derivadas de este Decreto deberán expedirse dentro de los sesenta días posteriores a la publicación del mismo en el mencionado Boletín Oficial, quedando facultado el titular de la Dependencia para resolver las cuestiones que se presenten en tanto se expidan los mencionados manuales administrativos.
