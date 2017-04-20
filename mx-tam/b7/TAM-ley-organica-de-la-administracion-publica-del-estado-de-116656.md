@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-116656"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-09-27"
-last_updated: "2017-03-23"
+last_updated: "2017-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2017 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -959,7 +961,7 @@ XLIV. Elaborar los programas de servicios públicos del Gobierno Estatal, en coo
 
 XLV. Asesorar y apoyar técnica y administrativamente a los Ayuntamientos y sus organismos, cuando lo requieran, en la realización de sus planes y programas de desarrollo urbano, agua potable y alcantarillado y vivienda;
 
-XLVI. Dar trámite a las atribuciones del Poder Ejecutivo en materia de otorgamiento y cancelación de permisos y concesiones para la prestación de servicios de autotransporte en las carreteras estatales, caminos vecinales, zonas urbanas y demás guías de jurisdicción estatal en términos de las leyes aplicables, sin menoscabo de las atribuciones conferidas a otras dependencias de la administración pública estatal;
+XLVI. (DEROGADA, P.O. 20 DE ABRIL DE 2017)
 
 XLVII. Planear, programar y ejecutar, por conducto de la Comisión Estatal del Agua de Tamaulipas, las atribuciones que correspondan al Estado en términos del párrafo quinto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y las leyes reglamentarias que expida el Congreso de la Unión;
 
@@ -1031,7 +1033,9 @@ X. Participar, conforme a las leyes o decretos de su creación, en los organismo
 
 XI. Asesorar y apoyar técnica y administrativamente a los Ayuntamientos y sus organismos, cuando lo requieran, en la realización de sus planes y programas de obras públicas;
 
-XII. Coordinar administrativamente las actividades de las entidades denominadas: Administración Portuaria Integral de Tamaulipas, S.A. de C.V., Servicios Aeroportuarios Tamaulipecos, S.A. de C.V., y del Instituto Tamaulipeco de Infraestructura Física Educativa, así como las demás entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia;
+> <small>(REFORMADA, 20 DE ABRIL DE 2017)</small>
+
+XII. Coordinar administrativamente las actividades de las entidades denominadas: Servicios Aeroportuarios Tamaulipecos, S.A. de C.V., y del Instituto Tamaulipeco de Infraestructura Física Educativa, así como las demás entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia;
 
 XIII. Integrar y mantener actualizados los catálogos de conceptos, especificaciones y precios unitarios para la ejecución de las obras públicas estatales;
 
@@ -1416,3 +1420,11 @@ P.O. 23 DE MARZO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIII-153 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 37 FRACCIÓN XII; Y SE DEROGA LA FRACCIÓN XLVI DEL ARTÍCULO 36, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
