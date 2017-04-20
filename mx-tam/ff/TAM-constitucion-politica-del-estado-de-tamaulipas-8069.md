@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2017-03-28"
+last_updated: "2017-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2017.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -325,6 +325,12 @@ IX.- El derecho de acceder de manera libre y universal a internet; y
 
 X.- El derecho de acceso a la cultura y el disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones, con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
 
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2017)</small>
+
+###### Art. 17 Bis.
+
+En el caso de extinción de dominio se establecerá un procedimiento que será jurisdiccional y autónomo del de materia penal, y procederá en los casos de secuestro, robo de vehículos, trata de personas y enriquecimiento ilícito. La ley ordinaria de la materia reglamentará estas bases constitucionales.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 1986)</small>
 
 ###### Art. 18.
@@ -511,7 +517,9 @@ III.- De la Autoridad Administrativa Electoral.- La organización de las eleccio
 
 12. Las mesas directivas de casillas estarán integradas por ciudadanos que serán insaculados del padrón electoral, en términos de la ley.
 
-13. En el Instituto Electoral de Tamaulipas habrá una Contraloría General que tendrá a su cargo, con autonomía técnica y de gestión, la fiscalización de todos los ingresos y egresos del Instituto. El titular de la Contraloría General del Instituto será designado por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, en la forma y términos que determine la ley. Durará 6 años en el cargo sin posibilidad de reelección, en términos de la ley.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2017)</small>
+
+13. En el Instituto Electoral de Tamaulipas habrá un órgano interno de control que tendrá a su cargo, con autonomía técnica y de gestión, la fiscalización de todos los ingresos y egresos del Instituto. El titular del órgano interno de control del Instituto será designado por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, en la forma y términos que determine la ley. Durará 6 años en el cargo sin posibilidad de reelección, en términos de la ley.
 
 14. De conformidad con lo que establecen la Constitución Federal y las leyes generales aplicables, la fiscalización de las finanzas de los partidos políticos y de las campañas de los candidatos estará a cargo del Consejo General del Instituto Nacional Electoral.
 
@@ -739,11 +747,9 @@ V.- Los demás señalamientos que disponga la ley.
 
 No pueden ser electos Diputados:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
-
-I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Poder Judicial del Estado, los Consejeros de la Judicatura, el Procurador General de Justicia, el Magistrado del Tribunal Fiscal del Estado, los Diputados y Senadores al Congreso de la Unión, los Magistrados, jueces y servidores públicos de la Federación en el Estado, a menos que se separen 120 días antes de la elección;
+I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Poder Judicial del Estado, los Consejeros de la Judicatura, el Procurador General de Justicia, los Magistrados del Tribunal de Justicia Administrativa del Estado, los Diputados y Senadores al Congreso de la Unión, los Magistrados, jueces y servidores públicos de la Federación en el Estado, a menos que se separen 120 días antes de la elección;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
@@ -999,9 +1005,9 @@ V. Nombrar y remover a sus servidores públicos en los términos que señale la 
 
 VI. Revisar la Cuenta Pública del Gobierno del Estado de Tamaulipas así como la Cuenta Pública de cada uno de los Ayuntamientos de los Municipios del Estado. La revisión de la cuenta pública tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en la Ley de Ingresos en su caso y en el Presupuesto de Egresos, así como verificar el cumplimiento de los objetivos contenidos en los programas.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2017)</small>
 
-Para la revisión de las cuentas públicas, el Congreso cuenta con la Auditoría Superior del Estado, como órgano técnico de fiscalización superior. Tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que dispongan las leyes. La coordinación y evaluación del desempeño de dicho órgano estará a cargo del Congreso de conformidad con lo que establezca la ley;
+Para la revisión de las cuentas públicas, el Congreso cuenta con la Auditoría Superior del Estado, como órgano técnico de fiscalización superior. Tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que dispongan las leyes. La función de fiscalización se desarrollará conforme a los principios de legalidad, imparcialidad y confiabilidad. Asimismo, deberá fiscalizar las acciones del Estado y municipios en materia de fondos, recursos locales y deuda pública. Los informes de auditoría que emita la Auditoría Superior del Estado tendrán carácter público. La coordinación y evaluación del desempeño de dicho órgano estará a cargo del Congreso, sin perjuicio de su autonomía técnica y de gestión, de conformidad con lo que establezca la ley; y al efecto le podrá requerir que le informe sobre la evolución de sus trabajos de fiscalización.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
 
@@ -1061,9 +1067,17 @@ Asimismo, conocer de las imputaciones que se hagan a los servidores públicos a 
 
 XX. Conceder ammistía (sic) por delitos cuyo conocimiento corresponde exclusivamente a los tribunales del Estado;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2017)</small>
 
-XXI. Elegir y remover a los Magistrados del Supremo Tribunal de Justicia del Estado, y a los Consejeros de la Judicatura, en los términos que establece la presente Constitución. Asimismo, elegir y remover al Magistrado del Tribunal Fiscal del Estado; y ratificar al Procurador General de Justicia, con base en la designación que realice el Gobernador del Estado;
+XXI.- Elegir y remover a los Magistrados del Supremo Tribunal de Justicia del Estado, y a los Consejeros de la Judicatura, en los términos que establece la presente Constitución. Asimismo, aprobar por el voto de las dos terceras partes de los Diputados presentes en la sesión correspondiente del Congreso del Estado, en los periodos ordinarios, o en sesión extraordinaria en los periodos de receso, el nombramiento de los Magistrados del Tribunal de Justicia Administrativa a propuesta del Gobernador del Estado; y ratificar al Procurador General de Justicia, con base en la designación que realice el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2017)</small>
+
+Instituir la Fiscalía Especializada en combate a la corrupción, adscrita a la Procuraduría General de Justicia del Estado, como un órgano público con autonomía técnica y operativa para investigar y perseguir los hechos de corrupción que la ley considera como delitos, y tendrá las atribuciones que señalen las leyes de la materia. En la ley orgánica respectiva se establecerán los requisitos para ocupar dicho cargo.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2017)</small>
+
+Su titular será nombrado por el término de ocho años, mediante convocatoria pública que emitirá la Legislatura. El Pleno del Congreso elegirá al titular de la Fiscalía Especializada en Combate a la Corrupción por las dos terceras partes de los Diputados presentes, en los periodos ordinarios, o en sesión extraordinaria en los periodos de receso;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1113,9 +1127,9 @@ XXXV. Decretar, en su caso, el modo de cubrir el contingente de hombres que corr
 
 XXXVI. (DEROGADA, P.O. 10 DE JUNIO DE 1995)
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2017)</small>
 
-XXXVII.- Recibir la protesta constitucional a los Diputados, al Gobernador y a quienes, en su caso, deban ejercer esta función; a los Magistrados del Supremo Tribunal de Justicia; al Magistrado del Tribunal Fiscal del Estado; a los Consejeros de la Judicatura, con excepción de su Presidente; al titular de la Presidencia y del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; a los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas, y a los servidores públicos que nombre y que conforme a las leyes deban rendirla;
+XXXVII.- Recibir la protesta constitucional a los Diputados, al Gobernador y a quienes, en su caso, deban ejercer esta función; a los Magistrados del Supremo Tribunal de Justicia; a los Magistrados del Tribunal de Justicia Administrativa del Estado; a los Consejeros de la Judicatura, con excepción de su Presidente; al titular de la Presidencia y del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; a los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas, y a los servidores públicos que nombre y que conforme a las leyes deban rendirla;
 
 XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosperidad en general;
 
@@ -1187,9 +1201,17 @@ LIV. Resolver, en definitiva, sobre las medidas adoptadas por el Gobernador, en 
 
 LV. Legislar en materia de planeación sobre la formulación, instrumentación, control, evaluación y actualización del Plan Estatal de Desarrollo, cuidando que la planeación del desarrollo económico y social sea democrática y obligatoria para el Estado y los Municipios; así como legislar sobre los procesos de participación directa de la ciudadanía, y fijar las bases generales para que los Ayuntamientos establezcan los procesos en esta materia;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2017)</small>
 
-LVI. Para expedir leyes en materia de impartición de justicia administrativa, mediante órganos dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias de carácter administrativo que se susciten entre los particulares y las autoridades del Estado, de los ayuntamientos y de las entidades estatales y municipales, estableciéndose las normas para su organización, funcionamiento, procedimientos y recursos contra sus resoluciones; así como aprobar el nombramiento de quien tenga a su cargo esa función en el Gobierno del Estado en términos de ley, y recibir la protesta del titular;
+LVI.- Para expedir leyes en materia de impartición de justicia administrativa, así como instituir el Tribunal de Justicia Administrativa, dotado de plena autonomía para dictar sus fallos, y establecer su organización, funcionamiento, procedimiento y, en su caso, recursos contra sus resoluciones. El Tribunal tendrá a su cargo dirimir controversias que se susciten entre la administración pública estatal o municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos estatales y municipales, por responsabilidad administrativa grave y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2017)</small>
+
+El Tribunal se integrará por tres salas unitarias de competencia mixta para conocer de las materias fiscal, contencioso-administrativa y para sancionar las faltas graves en que incurran los servidores públicos estatales y municipales por hechos de corrupción en los términos que dispongan las leyes. Cada sala se integrará por un magistrado. Los Magistrados del Tribunal de Justicia Administrativa durarán en su encargo ocho años improrrogables.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2017)</small>
+
+Los Magistrados sólo podrán ser removidos de sus cargos por las causas graves que señale la Ley;
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
 
@@ -1199,13 +1221,17 @@ LVII. Legislar sobre las normas de contabilidad gubernamental, con objeto de est
 
 LVIII. Solicitar a la Comisión Nacional de los Derechos Humanos que investigue hechos que constituyan violaciones graves a los derechos humanos;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2017)</small>
 
-LIX. Llamar a las autoridades o servidores públicos de la administración pública estatal a solicitud de la Comisión de Derechos Humanos del Estado de Tamaulipas, cuando no hubieren aceptado o cumplido las recomendaciones emitidas por dicha Comisión, con objeto de explicar el motivo de su negativa; y,
+LIX.- Llamar a las autoridades o servidores públicos de la administración pública estatal a solicitud de la Comisión de Derechos Humanos del Estado de Tamaulipas, cuando no hubieren aceptado o cumplido las recomendaciones emitidas por dicha Comisión, con objeto de explicar el motivo de su negativa;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2017)</small>
+
+LX.- Designar, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los órganos constitucionalmente autónomos, reconocidos en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado; y,
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2012)</small>
 
-LX. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado, y ejercer las demás facultades que le señale la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que emanen de ambas.
+LXI.- Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado, y ejercer las demás facultades que le señale la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que emanen de ambas.
 
 ###### Art. 59.
 
@@ -1453,55 +1479,71 @@ Las leyes o decretos se comunicarán al Ejecutivo firmadas por el Presidente y l
 
 #### Sección Cuarta. De la Fiscalización Superior
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2017)</small>
 
 ###### Art. 76.
 
-El Congreso del Estado contará con una entidad de fiscalización denominada Auditoría Superior del Estado, la cual será un órgano con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga su ley. La función de fiscalización se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad. Asimismo, deberá fiscalizar las acciones del Estado y Municipios en materia de fondos, recursos locales y deuda pública. Los informes de auditoría que emita la Auditoría Superior del Estado tendrán carácter público.
+El Congreso del Estado contará con una entidad de fiscalización denominada Auditoría Superior del Estado, la cual será un órgano con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga su ley. La función de fiscalización se desarrollará conforme a los principios de legalidad, imparcialidad y confiabilidad. Asimismo, deberá fiscalizar las acciones del Estado y Municipios en materia de fondos, recursos locales y deuda pública y celebrar convenios de coordinación con la Auditoría Superior de la Federación para la fiscalización de las participaciones federales. Los informes de auditoría que emita la Auditoría Superior del Estado tendrán carácter público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2017)</small>
 
-I.- Fiscalizar en forma posterior, los ingresos y egresos públicos; el manejo, custodia y aplicación de fondos y recursos de los poderes del Estado, de los Ayuntamientos, de los órganos con autonomía de los poderes y de las entidades estatales y municipales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas respectivos, a través de los informes que se rendirán en los términos que disponga la ley. En tratándose de la recaudación, analizar si fueron percibidos los recursos estimados en cumplimiento de las disposiciones legales aplicables.
+La Auditoría Superior del Estado, podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la Cuenta Pública.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2017)</small>
 
-También fiscalizará directamente los recursos estatales o municipales que se destinen y ejerzan por cualquier persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+Asimismo, por lo que corresponde a los trabajos de planeación de las auditorías, la Auditoría Superior del Estado podrá solicitar información del ejercicio en curso, respecto de procesos concluidos.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2017)</small>
+
+La Auditoría Superior del Estado tendrá a su cargo:
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2017)</small>
+
+I.- Fiscalizar en forma posterior, los ingresos, egresos y deuda pública; el manejo, custodia y aplicación de fondos y recursos de los poderes del Estado, de los Ayuntamientos, de los órganos con autonomía de los poderes y de las entidades estatales y municipales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas respectivos, a través de los informes que se rendirán en los términos que disponga la ley. En tratándose de la recaudación, analizar si fueron percibidos los recursos estimados en cumplimiento de las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2017)</small>
+
+En el caso del Estado y municipios cuyos empréstitos cuenten con la garantía del Estado, fiscalizará el destino y ejercicio de los recursos correspondientes que hayan realizado el gobierno local y los municipios.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2017)</small>
+
+Asimismo, fiscalizará directamente los recursos estatales o municipales que se destinen y se ejerzan por cualquier persona física o moral, pública o privada, y los transferidos a fideicomisos, fondos y mandatos, públicos o privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
 
 Las entidades sujetas de fiscalización a que se refiere el párrafo anterior deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos estatales o municipales que se les transfieran y asignen, de conformidad con lo dispuesto en la ley de la materia.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2017)</small>
 
-La Auditoría Superior del Estado, sin perjuicio del principio de anualidad, podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la cuenta pública en revisión, sin que por este motivo se entienda abierta nuevamente, para todos los efectos legales, la cuenta pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales, o se trate de revisiones sobre el cumplimiento de los objetivos de los programas estatales o municipales. Las observaciones o recomendaciones que, en su caso, emita la Auditoría Superior, sólo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión.
+La Auditoría Superior del Estado, podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la cuenta pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la cuenta pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales, o se trate de revisiones sobre el cumplimiento de los objetivos de los programas estatales o municipales. Las observaciones o recomendaciones que, en su caso, emita la Auditoría Superior, sólo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2017)</small>
 
-Asimismo, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la ley y derivado de alguna denuncia, podrá requerir a la entidad sujeta de fiscalización que proceda a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y le rinda un informe. Si los requerimientos no fueren atendidos en los plazos y formas señalados en la ley, se impondrán las sanciones previstas en ésta. La Auditoría Superior rendirá un informe específico al Congreso del Estado y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante la autoridad competente;
+Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que determine la ley derivado de alguna denuncia, la Auditoría Superior del Estado, previa autorización de su titular, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la Ley, y en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. La Auditoría Superior rendirá un informe específico al Congreso del Estado y, en su caso, promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa, la Fiscalía Especializada en Combate a la Corrupción o a la autoridad competente;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2017)</small>
 
-II.- Entregar al Congreso del Estado el informe de resultados de la revisión de cada una de las cuentas públicas que reciba, dentro de los plazos que señale la ley. Dichos informes contemplarán los resultados de la revisión efectuada y la referencia a la fiscalización del cumplimiento de los programas. Si del examen de la Cuenta Pública aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo a la ley.
+II.- Entregar al Congreso del Estado el informe general y los informes individuales de la revisión de cada una de las cuentas públicas que reciba, dentro de los plazos que señale la ley. Dichos informes contemplarán los resultados de la revisión efectuada y la referencia a la fiscalización del cumplimiento de los programas. Si del examen de la Cuenta Pública aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo a la ley.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2017)</small>
 
-En forma previa a la presentación del informe de resultados, la Auditoría Superior dará a conocer a las entidades sujetas de fiscalización el resultado preliminar de la revisión practicada, a fin de que los mismos presenten las justificaciones y aclaraciones correspondientes, las cuales serán valoradas por la Auditoría Superior para la elaboración final del informe de resultados de la revisión de la cuenta pública.
+En forma previa a la presentación del informe general y de los informes individuales, la Auditoría Superior dará a conocer a las entidades sujetas de fiscalización el resultado preliminar de la revisión practicada, a fin de que los mismos presenten las justificaciones y aclaraciones correspondientes, las cuales serán valoradas por la Auditoría Superior para la elaboración final de los informes.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2017)</small>
 
-El Auditor Superior del Estado enviará a las entidades sujetas de fiscalización, a más tardar a los 10 días hábiles posteriores de su entrega al Congreso del Estado, tanto el informe de resultados como las recomendaciones que correspondan, para que en un plazo no mayor a 30 días hábiles presenten la información necesaria y realicen las consideraciones que estimen pertinentes, comunicándoles en caso de que no lo hagan serán acreedores a las sanciones previstas en la ley. Lo anterior no aplicará a los pliegos de observaciones y al fincamiento de responsabilidades, los cuales se sujetarán a los procedimientos y términos que prevea la ley.
+El Auditor Superior del Estado enviará a las entidades sujetas de fiscalización, a más tardar a los 10 días hábiles posteriores de su entrega al Congreso del Estado, los informes individuales de auditoría, así como las recomendaciones que correspondan en su caso, para que en un plazo no mayor a 30 días hábiles presenten la información necesaria y realicen las consideraciones que estimen pertinentes, comunicándoles en caso de que no lo hagan serán acreedores a las sanciones previstas en la ley. Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal de Justicia Administrativa del Estado, las cuales se sujetarán a los procedimientos y términos que prevea la ley.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
 
 La Auditoría Superior, dentro de los 120 días hábiles posteriores a las respuestas que reciba de las entidades sujetas de fiscalización, deberá pronunciarse sobre las mismas y, en caso de no hacerlo, se entenderá que las recomendaciones y acciones promovidas han sido atendidas.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2017)</small>
 
-Tratándose de las recomendaciones sobre el desempeño de las entidades sujetas de fiscalización, estos deberán precisar a la Auditoría Superior las mejoras realizadas o, en su caso, justificar su improcedencia.
+Tratándose de las recomendaciones sobre el desempeño de las entidades sujetas de fiscalización, estos deberán precisar a la Auditoría Superior las mejoras realizadas, las acciones emprendidas o, en su caso, justificar su improcedencia.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2017)</small>
 
-La Auditoría Superior del Estado entregará al Congreso sendos informes sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas el primer día hábil de mayo y de noviembre de cada año.
+La Auditoría Superior del Estado deberá entregar al Congreso, el primer día hábil de los meses de mayo y de noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes a cada uno de los informes de auditoría que haya presentado en los términos de esta fracción. En dicho informe, el cual tendrá carácter público, la Auditoría incluirá los montos efectivamente resarcidos a la Hacienda Pública Estatal y Municipal o al patrimonio de los entes públicos estatales o municipales, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal de Justicia Administrativa.
 
 La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y de sus observaciones hasta que rinda el informe del resultado del análisis de la cuenta pública de que se trate al Congreso del Estado. La ley establecerá las sanciones que correspondan a quienes infrinjan esta disposición;
 
@@ -1511,17 +1553,15 @@ En el caso de la revisión sobre el cumplimiento de los objetivos de los program
 
 III.- Efectuar visitas domiciliarias únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus funciones, sujetándose a las leyes y a las formalidades establecidas para los cateos, y
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2017)</small>
 
-IV.- Determinar los daños y perjuicios que afecten a las haciendas públicas estatal o municipales o al patrimonio de los entes públicos estatales o municipales, y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título XI de esta Constitución, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la ley.
+IV.- Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos estatales o municipales y a los particulares.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE ABRIL DE 2017)</small>
 
-Las sanciones y demás resoluciones de la Auditoría Superior del Estado podrán impugnarse por las entidades sujetas de fiscalización y, en su caso, por los servidores públicos afectados adscritos a las mismas, ante dicho órgano técnico de fiscalización superior o ante los tribunales a que se refiere la fracción LVI del artículo 58 de esta Constitución, en los términos que dispongan las leyes.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
-
-El Congreso del Estado designará al Auditor Superior del Estado por el voto de cuando menos las dos terceras partes de sus miembros presentes. El Auditor deberá contar con experiencia en materia de control presupuestal, auditoría financiera y régimen de responsabilidades de los servidores públicos, de por lo menos cinco años. La ley establecerá el procedimiento para su designación. El titular de la Auditoría durará en su encargo siete años y podrá ser nombrado para un nuevo periodo por una sola vez. Sólo podrá ser removido de su encargo por las causas graves que señale la ley, mediante el procedimiento que la misma establezca y con la votación requerida para su designación. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+El Congreso del Estado designará al Auditor Superior del Estado por el voto de cuando menos las dos terceras partes de sus miembros presentes. El Auditor deberá contar con experiencia en materia de control presupuestal, auditoría financiera y régimen de responsabilidades de los servidores públicos, de por lo menos cinco años. La ley establecerá el procedimiento para su designación. El titular de la Auditoría durará en su encargo ocho años y podrá ser nombrado para un nuevo periodo por una sola vez. Sólo podrá ser removido de su encargo por las causas graves que señale la ley, mediante el procedimiento que la misma establezca y con la votación requerida para su designación. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -1531,9 +1571,9 @@ En el cumplimiento de sus funciones, la Auditoría Superior del Estado deberá g
 
 Toda entidad sujeta de fiscalización, facilitará a la Auditoría Superior del Estado el auxilio que requiera para el ejercicio de sus funciones.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2017)</small>
 
-Para el cobro de las indemnizaciones y sanciones impuestas por la Auditoría Superior, se aplicará el procedimiento administrativo de ejecución en el ámbito del Ejecutivo del Estado.
+Para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere la fracción IV del presente artículo, se aplicará el procedimiento administrativo de ejecución en el ámbito del Ejecutivo del Estado.
 
 ## TITULO V. DEL PODER EJECUTIVO
 
@@ -1707,17 +1747,17 @@ XII.- Iniciar ante el Congreso las Leyes y los Decretos que estime convenientes 
 
 XIII.- Proponer a la Diputación Permanente la convocación del Congreso a sesiones extraordinarias;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2017)</small>
 
-XIV.- Proponer al Congreso del Estado para su estudio y aprobación, en su caso, el nombramiento de Magistrados del Poder Judicial del Estado, así como la propuesta de designación del Magistrado del Tribunal Fiscal del Estado;
+XIV.- Proponer al Congreso del Estado para su estudio y aprobación, en su caso, el nombramiento de Magistrados del Poder Judicial del Estado, así como la propuesta de designación de los Magistrados del Tribunal de Justicia Administrativa;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
 XV.- Auxiliar a los Tribunales y Juzgados del Estado para que la justicia se administre pronta y cumplidamente, y que se ejecuten las sentencias, prestando a aquéllos el apoyo que requieran para el mejor ejercicio de sus funciones. Esta atribución no lo autoriza para intervenir directa o indirectamente en el examen y decisión de los juicios en trámite, ni para disponer en forma alguna de los procesados;
 
-> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 1989)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2017)</small>
 
-XVI.- Cuidar que la justicia administrativa se aplique de manera pronta, completa e imparcial por el Tribunal de lo Contencioso-Administrativo;
+XVI.- Cuidar que la justicia administrativa se aplique de manera pronta, completa e imparcial por el Tribunal de Justicia Administrativa;
 
 XVII.- Celebrar convenios con los Gobernadores de los Estados limítrofes, para la entrada y paso de sus fuerzas de seguridad por el territorio del Estado y recíprocamente, dando cuenta al Congreso;
 
@@ -2757,11 +2797,11 @@ Para el cumplimiento de las disposiciones contenidas en el Artículo 123 de la C
 
 DISPOSICIONES GENERALES.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MARZO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2017)</small>
 
-### CAPITULO UNICO.
+### CAPÍTULO ÚNICO
 
-De las responsabilidades de los Servidores Públicos y Patrimonial del Estado.
+De las Responsabilidades de los Servidores Públicos y Particulares Vinculados con Faltas Administrativas Graves o Hechos de Corrupción, y Patrimonial del Estado
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -2781,23 +2821,55 @@ Los agentes del Ministerio Público, los peritos y los miembros de las instituci
 
 La autoridad estatal y municipal, a fin de propiciar el fortalecimiento del sistema de seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes, instrumentarán sistemas complementarios de seguridad social.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2017)</small>
+
+Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial, de conflicto de intereses y declaración fiscal ante las autoridades competentes y en los términos que determine la ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2017)</small>
 
 ###### Art. 150.
 
-El Congreso del Estado expedirá leyes sobre responsabilidades de servidores públicos, de conformidad con las siguientes prevenciones:
+Los servidores públicos y particulares que incurran en responsabilidad frente al Estado, serán sancionados conforme a lo siguiente:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 I.- Se impondrán, mediante juicio político, las sanciones indicadas en el Artículo 151 a los servidores públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
 No procede el juicio político por la mera expresión de las ideas.
 
-II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la legislación penal;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2017)</small>
 
-III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+II.- La comisión de delitos por parte de cualquier servidor público o particulares que incurran en hechos de corrupción, será sancionada en los términos de la legislación penal aplicable.
 
-Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito o inexplicable a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita o inexplicable no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan;
 
-Las leyes determinarán los casos y circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito o inexplicable a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita o inexplicable no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2017)</small>
+
+III.- Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior del Estado y los órganos internos de control, según corresponda, y serán resueltas por el Tribunal de Justicia Administrativa. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control, de conformidad con lo que establece la ley general aplicable y en lo conducente la ley estatal en materia de responsabilidades administrativas.
+
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en el artículo 100 de esta Constitución, sin perjuicio de las atribuciones de la Auditoría Superior del Estado en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
+
+Los entes públicos estatales y municipales contarán con órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar, actos u omisiones que pudieran constituir responsabilidades administrativas; para investigar, substanciar y sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales, municipales y demás de su competencia; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada de Combate a la Corrupción a que se refiere esta Constitución; y,
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2017)</small>
+
+IV.- El Tribunal de Justicia Administrativa impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos, estatales o municipales. Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos, locales o municipales, siempre que a (sic) sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2017)</small>
+
+Los procedimientos para la aplicación de las sanciones mencionadas en las fracciones anteriores se desarrollarán autónomamente. No podrá imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2017)</small>
+
+En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2017)</small>
+
+La Auditoría Superior del Estado y la Contraloría Gubernamental, podrán recurrir las determinaciones de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa, de conformidad con lo previsto en los artículos (sic) 20, Apartado C, fracción VII de la Constitución Federal y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2017)</small>
+
+La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la autoridad competente respecto de las conductas a que se refiere el presente Artículo.
 
@@ -2879,15 +2951,35 @@ No se requerirá declaración de procedencia del Congreso cuando alguno de los s
 
 Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados del Artículo 152, se procederá de acuerdo con lo dispuesto en dicho precepto.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2017)</small>
 
 ###### Art. 154.
 
-Las leyes sobre responsabilidades administrativas de los servidores públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las Leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del Artículo 150, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2004)</small>
+I.- El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción y de la Contraloría Gubernamental; por los Presidentes del Tribunal de Justicia Administrativa y del organismo autónomo garante previsto por el artículo 17 fracción V, último párrafo, de esta Constitución; por un representante del Consejo de la Judicatura del Poder Judicial del Estado y otro del Comité de Participación Ciudadana Local, quien lo presidirá.
 
-La responsabilidad del Estado por daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
+II.- El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción; y serán designados en los términos establecidos por la Ley General del Sistema Nacional Anticorrupción y en la ley estatal en la materia. En la conformación del citado Comité se procurará que prevalezca la equidad de género.
+
+III.- Corresponderá al Comité Coordinador del Sistema, en los términos que determine la Ley:
+
+a) El establecimiento de mecanismos de coordinación con las autoridades que correspondan;
+
+b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
+
+c) La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes de los órdenes de gobierno;
+
+d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos; y
+
+e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+
+Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
+
+IV.- El Sistema Estatal tendrá acceso a la información pública necesaria, adecuada y oportuna para el mejor desempeño de sus funciones.
+
+V.- Las recomendaciones, políticas públicas e informes que emita el Sistema Estatal, deberá tener respuesta de los sujetos o entes públicos a quienes se dirija y establecer los procedimientos para darles seguimiento.
+
+VI.- El Sistema Estatal rendirá un informe público a los titulares de los poderes del Estado, en el que den cuenta de las acciones anticorrupción, los riesgos identificados, los costos potenciales generados y los resultados de sus recomendaciones. Para tal efecto, deberá seguir las metodologías del Sistema Nacional Anticorrupción.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -2897,7 +2989,9 @@ El procedimiento de juicio político sólo podrá iniciarse durante el período 
 
 La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley Penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña algunos de los encargos que hace referencia el Artículo 152.
 
-La ley señalará los plazos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 150. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2017)</small>
+
+La Ley señalará los plazos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 150. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a siete años.
 
 ## TITULO XII
 
@@ -4541,141 +4635,57 @@ Los Ayuntamientos del Estado, deberán realizar las adecuaciones de homologació
 
 P.O. 28 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-142 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES VIII Y IX, Y SE ADICIONA LA FRACCIÓN X, AL ARTÍCULO 17, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-142 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES VIII Y IX, Y SE ADICIONA LA FRACCIÓN X, AL ARTÍCULO 17, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-###### ARTICULO SEXTO.
+P.O. 20 DE ABRIL DE 2017.
 
-En la realización de las acciones conducentes al cumplimiento del presente decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-152 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, EN MATERIA DE COMBATE A LA CORRUPCIÓN".]
 
-D.O.F. 7 DE ABRIL DE 2000.
+###### ARTÍCULO PRIMERO.
 
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y se derogan todas las disposiciones jurídicas y administrativas que contravengan o se opongan a las adiciones y reformas materia del mismo, sin perjuicio de lo dispuesto en los transitorios siguientes.
 
-D.O.F. 21 DE SEPTIEMBRE DE 2000.
+###### ARTÍCULO SEGUNDO.
 
-DECRETO QUE REFORMA LA FRACCIÓN XXV DEL ARTÍCULO 73.
+El Congreso del Estado Libre y Soberano de Tamaulipas, deberá expedir las disposiciones legales correspondientes, dentro de los plazos establecidos en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación el 27 de mayo de 2015.
 
-UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+###### ARTÍCULO TERCERO.
 
-D.O.F. 21 DE SEPTIEMBRE DE 2000.
+En lo relativo a la fiscalización y control de recursos públicos, continuará aplicándose la legislación vigente a la entrada en vigor de este Decreto, hasta en tanto entren en vigor las leyes y adecuaciones normativas a que se refiere el artículo Segundo Transitorio del presente Decreto.
 
-DECRETO QUE DEROGA EL ÚLTIMO PÁRRAFO, REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN IV Y AGRUPA EL CONTENIDO DEL ARTÍCULO 20 EN UN APARTADO A Y SE ADICIONA EL APARTADO B.
+En materia de responsabilidades administrativas de servidores públicos del Estado y sus municipios, continuará aplicándose la legislación vigente a la entrada en vigor de este Decreto, hasta en tanto entre en vigor la legislación aplicable al nuevo sistema estatal anticorrupción.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos legales, administrativos y demás asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y de las Leyes y adecuaciones normativas referidas en el artículo Segundo Transitorio, continuarán sustanciándose hasta su total conclusión y se resolverán conforme a las disposiciones vigentes al momento de su inicio, disposiciones que también serán aplicables para los asuntos que deriven o sean consecuencia de los mismos.
+
+###### ARTÍCULO QUINTO.
+
+Para la adecuada implementación de las reformas y adiciones a que se refiere el presente Decreto, deberán considerarse las previsiones de recursos humanos, materiales y financieros a que haya lugar.
+
+###### ARTÍCULO SEXTO.
+
+El Tribunal Fiscal del Estado continuará funcionando con su organización y facultades actuales y substanciando los asuntos que actualmente se encuentren en trámite conforme a las disposiciones vigentes, hasta la entrada en vigor de la Ley a que se refiere la fracción LVI del artículo 58, de esta Constitución.
 
 ###### ARTÍCULO SÉPTIMO.
 
-La Asamblea Constituyente de la Ciudad de México se compondrá de cien diputados constituyentes, que serán elegidos conforme a lo siguiente:
+Por única ocasión, los Magistrados del Tribunal de Justicia Administrativa del Estado, que se nombren para el inicio de funciones del órgano jurisdiccional, durarán en su encargo, respectivamente, el primero de los nombrados cuatro años, el segundo seis años y el tercero ocho años improrrogables, periodos que empezarán a contar a partir de sus respectivos nombramientos. Los subsecuentes nombramientos de magistrados tendrán una duración en el cargo de ocho años improrrogables.
 
-A. Sesenta se elegirán según el principio de representación proporcional, mediante una lista votada en una sola circunscripción plurinominal, en los siguientes términos:
+###### ARTÍCULO OCTAVO.
 
-I. Podrán solicitar el registro de candidatos los partidos políticos nacionales mediante listas con fórmulas integradas por propietarios y suplentes, así como los ciudadanos mediante candidaturas independientes, integradas por fórmula de propietarios y suplentes.
+Los recursos humanos, materiales, financieros y presupuestales con que cuenta el Tribunal Fiscal del Estado de Tamaulipas, incluyendo todos sus bienes y los derechos derivados de los fondos o fideicomisos vigentes, pasarán a formar parte del Tribunal de Justicia Administrativa, en los términos que determine la Ley a que se refiere la fracción LVI del artículo 58, de esta Constitución.
 
-II. Tratándose de las candidaturas independientes, se observará lo siguiente:
+###### ARTÍCULO NOVENO.
 
-a) El registro de cada fórmula de candidatos independientes requerirá la manifestación de voluntad de ser candidato y contar cuando menos con la firma de una cantidad de ciudadanos equivalente al uno por ciento de la lista nominal de electores del Distrito Federal, dentro de los plazos que para tal efecto determine el Instituto Nacional Electoral.
+Los trabajadores de base que se encuentren prestando sus servicios en el Tribunal Fiscal de (sic) Estado de Tamaulipas, a la entrada en vigor de la Ley a que se refiere la fracción LVI del artículo 58, de esta Constitución, seguirán conservando su misma calidad y derechos laborales que les corresponden ante el Tribunal de Justicia Administrativa, en los términos que dicha ley determine.
 
-b) Con las fórmulas de candidatos que cumplan con los requisitos del inciso anterior, el Instituto Nacional Electoral integrará una lista de hasta sesenta fórmulas con los nombres de los candidatos, ordenados en forma descendente en razón de la fecha de obtención del registro.
+###### ARTÍCULO DÉCIMO.
 
-c) En la boleta electoral deberá aparecer un recuadro blanco a efecto de que el elector asiente su voto, en su caso, por la fórmula de candidatos independientes de su preferencia, identificándolos por nombre o el número que les corresponda. Bastará con que asiente el nombre o apellido del candidato propietario y, en todo caso, que resulte indubitable el sentido de su voto.
-
-d) A partir de los cómputos de las casillas, el Instituto Nacional Electoral hará el cómputo de cada una de las fórmulas de candidatos independientes, y establecerá aquellas que hubieren obtenido una votación igual o mayor al cociente natural de la fórmula de asignación de las diputaciones constituyentes.
-
-III. Las diputaciones constituyentes se asignarán:
-
-a) A las fórmulas de candidatos independientes que hubieren alcanzado una votación igual o mayor al cociente natural, que será el que resulte de dividir la votación válida emitida entre sesenta.
-
-b) A los partidos políticos las diputaciones restantes, conforme las reglas previstas en el artículo 54 de la Constitución y en la Ley General de Instituciones y Procedimientos Electorales que resulten aplicables y en lo que no se oponga al presente Decreto.
-
-Para esta asignación se establecerá un nuevo cociente que será resultado de dividir la votación emitida, una vez deducidos los votos obtenidos por los candidatos independientes, entre el número de diputaciones restantes por asignar.
-
-En la asignación de los diputados constituyentes se seguirá el orden que tuviesen los candidatos en las listas presentadas por los partidos políticos.
-
-c) Si después de aplicarse la distribución en los términos previstos en los incisos anteriores, quedaren diputaciones constituyentes por distribuir, se utilizará el resto mayor de votos que tuvieren partidos políticos y candidatos independientes.
-
-IV. Serán aplicables, en todo lo que no contravenga al presente Decreto, las disposiciones conducentes de la Ley General de Instituciones y Procedimientos Electorales.
-
-V. Los partidos políticos no podrán participar en el proceso electoral a que se refiere este Apartado, a través de la figura de coaliciones.
-
-VI. Para ser electo diputado constituyente en los términos del presente Apartado, se observarán los siguientes requisitos:
-
-a) Ser ciudadano mexicano, por nacimiento, en el ejercicio de sus derechos;
-
-b) Tener veintiún años cumplidos el día de la elección;
-
-c) Ser originario del Distrito Federal o vecino de él con residencia efectiva de más de seis meses anteriores a la fecha de ella;
-
-d) Estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
-
-e) No estar en servicio activo en el Ejército Federal ni tener mando de policía en el Distrito Federal, cuando menos sesenta días antes de la elección;
-
-f) No ser titular de alguno de los organismos a los que esta Constitución otorga autonomía, salvo que se separen de sus cargos sesenta días antes del día de la elección;
-
-g) No ser Secretario o Subsecretario de Estado, ni titular de alguno de los organismos descentralizados o desconcentrados de la administración pública federal, salvo que se separen de sus cargos sesenta días antes del día de la elección;
-
-h) No ser Ministro de la Suprema Corte de Justicia de la Nación o miembro del Consejo de la Judicatura Federal, salvo que se separen de sus cargos sesenta días antes del día de la elección;
-
-i) No ser Magistrado, ni Secretario del Tribunal Electoral del Poder Judicial de la Federación o del Tribunal Electoral del Distrito Federal, ni Consejero Presidente o consejero electoral de los Consejos General, locales, distritales o de demarcación territorial del Instituto Nacional Electoral o del Instituto Electoral del Distrito Federal, ni Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo de dichos Institutos, ni pertenecer al Servicio Profesional Electoral Nacional, salvo que se separen definitivamente de sus cargos tres años antes del día de la elección;
-
-j) No ser legislador federal, ni diputado a la Asamblea Legislativa del Distrito Federal, ni Jefe Delegacional, salvo que se separen de sus cargos sesenta días antes del día de la elección; resultando aplicable en cualquier caso lo previsto en el artículo 125 de la Constitución;
-
-k) No ser Magistrado del Tribunal Superior de Justicia o del Tribunal de lo Contencioso Administrativo del Distrito Federal, ni miembro del Consejo de la Judicatura del Distrito Federal, ni Magistrado o Juez Federal en el Distrito Federal, salvo que se separen de sus cargos sesenta días antes del día de la elección;
-
-l) No ser titular de alguno de los organismos con autonomía constitucional del Distrito Federal, salvo que se separen de sus cargos sesenta días antes del día de la elección;
-
-m) No ser Secretario en el Gobierno del Distrito Federal, ni titular de alguno de los organismos descentralizados o desconcentrados de la administración pública local, salvo que se separen de sus cargos sesenta días antes del día de la elección;
-
-n) No ser Ministro de algún culto religioso; y
-
-o) En el caso de candidatos independientes, no estar registrados en los padrones de afiliados de los partidos políticos, con fecha de corte a marzo de 2016, ni haber participado como precandidatos o candidatos a cargos de elección popular postulados por algún partido político o coalición, en las elecciones federales o locales inmediatas anteriores a la elección de la Asamblea Constituyente.
-
-VII. El Consejo General del Instituto Nacional Electoral emitirá la Convocatoria para la elección de los diputados constituyentes a más tardar dentro de los siguientes 15 días a partir de la publicación de este Decreto. El Acuerdo de aprobación de la Convocatoria a la elección, establecerá las fechas y los plazos para el desarrollo de las etapas del proceso electoral, en atención a lo previsto en el párrafo segundo del presente Transitorio.
-
-VIII. El proceso electoral se ajustará a las reglas generales que apruebe el Consejo General del Instituto Nacional Electoral. Dichas reglas deberán regular el proceso en atención a la finalidad del mismo y, en consecuencia, el Instituto podrá realizar ajustes a los plazos establecidos en la legislación electoral a fin de garantizar la ejecución de las actividades y procedimientos electorales.
-
-Los actos dentro del proceso electoral deberán circunscribirse a propuestas y contenidos relacionados con el proceso constituyente. Para tal efecto, las autoridades electorales correspondientes deberán aplicar escrutinio estricto sobre su legalidad.
-
-El Tribunal Electoral del Poder Judicial de la Federación será competente para resolver las impugnaciones derivadas del proceso electoral, en los términos que determinan las leyes aplicables.
-
-B. Catorce senadores designados por el voto de las dos terceras partes de los miembros presentes de la Cámara, a propuesta de su Junta de Coordinación Política.
-
-C. Catorce diputados federales designados por el voto de las dos terceras partes de los miembros presentes de la Cámara, a propuesta de su Junta de Coordinación Política.
-
-Los legisladores federales designados como diputados constituyentes en términos del presente Apartado y el anterior, continuarán ejerciendo sus cargos federales de elección popular, sin que resulte aplicable el artículo 62 constitucional.
-
-D. Seis designados por el Presidente de la República.
-
-E. Seis designados por el Jefe de Gobierno del Distrito Federal.
-
-F. Todos los diputados constituyentes ejercerán su encargo de forma honorífica, por lo que no percibirán remuneración alguna.
-
-La Asamblea Constituyente ejercerá en forma exclusiva todas las funciones de Poder Constituyente para la Ciudad de México y la elección para su conformación se realizará el primer domingo de junio de 2016 para instalarse el 15 de septiembre de ese año, debiendo aprobar la Constitución Política de la Ciudad de México, a más tardar el 31 de enero de 2017, por las dos terceras partes de sus integrantes presentes.
-
-Para la conducción de la sesión constitutiva de la Asamblea Constituyente, actuarán como Junta Instaladora los cinco diputados constituyentes de mayor edad. La Junta Instaladora estará constituida por un Presidente, dos Vicepresidentes y dos Secretarios. El diputado constituyente que cuente con mayor antigüedad será el Presidente de la Junta Instaladora. Serán Vicepresidentes los diputados constituyentes que cuenten con las dos siguientes mayores antigüedades y, en calidad de Secretarios les asistirán los siguientes dos integrantes que cuenten con las sucesivas mayores antigüedades.
-
-La sesión de instalación de la Asamblea se regirá, en lo que resulte conducente, por lo previsto en el artículo 15 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
-
-Corresponderá a la Junta Instaladora conducir los trabajos para la aprobación del Reglamento para el Gobierno Interior de la Asamblea Constituyente de la Ciudad de México, mismo que deberá ser aprobado dentro de los diez días siguientes a la instalación de la Asamblea. Para su discusión y aprobación será aplicable en lo que resulte conducente el Reglamento Interior de la Cámara de Diputados.
-
-Es facultad exclusiva del Jefe de Gobierno del Distrito Federal elaborar y remitir el proyecto de Constitución Política de la Ciudad de México, que será discutido, en su caso modificado, adicionado, y votado por la Asamblea Constituyente, sin limitación alguna de materia. El Jefe de Gobierno deberá remitir el proyecto de la Constitución Política de la Ciudad de México a la Asamblea Constituyente a más tardar el día en que ésta celebre su sesión de instalación.
-
-Con la finalidad de cumplir con sus funciones, la Asamblea Constituyente de la Ciudad de México, deberá crear, al menos, tres comisiones para la discusión y aprobación de los dictámenes relativos al proyecto de Constitución.
-
-###### ARTICULO OCTAVO.
-
-Los Magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales y los jueces del fuero común del mismo Distrito y Territorios Federales, actualmente en ejercicio, cesarán en su encargo, salvo que sean reelectos, el mismo día en que tomen posesión de sus puestos, los funcionarios judiciales designados de acuerdo con las disposiciones de la Constitución.
-
-###### ARTICULO NOVENO.
-
-El Tribunal Superior de Justicia del Distrito y Territorios Federales designará, dentro de los treinta días siguientes a la fecha en que hayan tomado posesión de sus cargos los Magistrados que lo componen, a los jueces del fuero común del Distrito y Territorios Federales.
-
-D.O.F. 28 DE MARZO DE 1951.
-
-###### ARTICULO DECIMO.
-
-Podrán registrar fórmulas de candidatos para participar en las elecciones de las legislaturas constituyentes, los partidos políticos nacionales.
+El Sistema Estatal Anticorrupción deberá conformarse de acuerdo con la Constitución Política de los Estados Unidos Mexicanos, las Leyes Generales, la Constitución Política del Estado de Tamaulipas y las leyes del Estado que resulten aplicables.
 
 ###### ARTÍCULO SEXTO.
 
