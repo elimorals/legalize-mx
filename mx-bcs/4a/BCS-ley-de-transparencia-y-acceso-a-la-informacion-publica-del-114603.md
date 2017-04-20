@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2016-05-26"
+last_updated: "2017-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2017.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 4 de Mayo de 2016.
 
@@ -111,7 +111,9 @@ III. Consejo Consultivo: Órgano Colegiado y plural, integrado conforme a la pre
 
 IV. Consejo General: Órgano Colegiado de Administración y Dirección del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur;
 
-V. Comisión de Transparencia: La Comisión Permanente de Transparencia del Congreso del Estado;
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+
+V. Comisión de Transparencia: La Comisión Permanente de Transparencia y Anticorrupción del Congreso del Estado;
 
 VI. Congreso del Estado: El Congreso del Estado de Baja California Sur;
 
@@ -673,7 +675,9 @@ I. El Congreso del Estado a través de la Comisión Permanente de Transparencia,
 
 En el caso de que se diera el supuesto de una vacante de comisionado, la publicación de la convocatoria se realizará posterior a los cinco días siguientes de la recepción por parte del Congreso del Estado, del aviso que al efecto haga el Instituto de la existencia de la vacante.
 
-En ambos casos esta convocatoria será extensiva para las propuestas que tienen derecho a presentar las fracciones parlamentarias legalmente constituidas al interior del Congreso. Lo anterior sin perjuicio, de que la Comisión de Transparencia les notifique mediante oficio de la emisión de la convocatoria respectiva.
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2017)</small>
+
+En ambos casos esta convocatoria será extensiva para que las fracciones parlamentarias legalmente constituidas al interior del Congreso por conducto del Presidente de la Junta de Gobierno y Coordinación Política presenten una propuesta para integrar la terna. Lo anterior sin perjuicio, de que la Comisión de Transparencia les notifique mediante oficio de la emisión de la convocatoria respectiva. La Junta de Gobierno y Coordinación Política del Congreso del Estado propiciará los acuerdos parlamentarios para unificar las propuestas de las fracciones parlamentarias.
 
 La convocatoria a que hacen referencia los párrafos anteriores deberá contener como mínimo:
 
@@ -703,7 +707,9 @@ En todo momento se garantizará la máxima publicidad del proceso y de los docum
 
 III. Una vez presentado el dictamen ante el Pleno, se llevará a cabo la votación por cédula conforme a lo dispuesto por la Ley Reglamentaria del Poder Legislativo del Estado de Baja California Sur. n (sic) caso de que ninguno de los integrantes de la terna alcance la mayoría requerida, se realizará una segunda votación; si vuelve a no alcanzarse la mayoría requerida podrá suspenderse la votación hasta por un día o realizarse una tercera votación enseguida; si vuelve a no alcanzarse la mayoría requerida se instruirá a la Comisión de Transparencia elabore un nuevo dictamen observando el procedimiento previsto en esta Ley; y
 
-IV. En caso de que el Consejo Consultivo no remita la lista de aspirantes en el plazo a que se refiere la fracción II de este artículo, la Comisión de Transparencia realizará el procedimiento de elección de conformidad con el presente numeral, ajustando los tiempos para el debido cumplimiento del procedimiento, y nombrar a los comisionados previo al vencimiento de la fecha en la que deban ser renovados.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE ABRIL DE 2017)</small>
+
+IV. Excepcionalmente en el caso de que el Consejo Consultivo no remita la lista de aspirantes en el plazo a que se refiere la fracción II de este artículo o el Consejo Consultivo no estuviere instalado o se hubiere disuelto, la Comisión de Transparencia realizará el procedimiento de elección de conformidad con el presente numeral, pudiendo ajustar los tiempos previstos en el presente artículo para llevar a cabo el procedimiento de elección del comisionado con anticipación a la conclusión del periodo del comisionado saliente o en su caso para cubrir la vacante por ausencia definitiva del comisionado.
 
 En el caso de que el Gobernador del Estado objetare al comisionado electo en uso de su facultad de veto prevista en la Constitución del Estado, el Congreso del Estado, procederá de nueva cuenta a realizar el procedimiento de elección de conformidad con el presente numeral, para lo cual podrán ajustarse y reducirse los plazos previstos para el debido cumplimiento del procedimiento, y elegir a los comisionados previo al vencimiento de la fecha en la que deban ser renovados o cubrirse la vacante por ausencia definitiva.
 
@@ -801,11 +807,31 @@ El Consejo Consultivo tendrá un Secretario Técnico, el cual será ejercido por
 
 La Presidencia del Consejo Consultivo será en forma rotativa, anual y en estricto orden alfabético por apellido, entre los consejeros.
 
-Los integrantes del Consejo serán propuestos por las instituciones, organizaciones interesadas o en lo individual, de conformidad con la convocatoria pública que realice el presidente en turno. La propuesta de consejero se deberá realizar en una fórmula, integrada por un consejero propietario y un suplente.
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2017)</small>
 
-La convocatoria a la que hace referencia el párrafo anterior, se publicará en el portal electrónico del Instituto y, al menos, en un diario con amplia circulación del Estado con treinta días de anticipación al proceso de elección.
+Los integrantes del Consejo consultivo serán propuestos por las instituciones, organizaciones interesadas o en lo individual, de conformidad con la convocatoria pública que realice la Comisión de Transparencia.
 
-En dicha convocatoria se establecerán las etapas del proceso de selección y sus plazos, según los lineamientos que defina el propio Consejo.
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2017)</small>
+
+La convocatoria a la que hace referencia el párrafo anterior, se publicará en el portal electrónico del Congreso del Estado y del Instituto y, al menos, en un diario con amplia circulación del Estado con quince días de anticipación al proceso de elección. La convocatoria deberá contener como mínimo:
+
+a) Etapas y plazos específicos;
+
+b) Los cargos y la duración del periodo;
+
+c) Los requisitos de elegibilidad y los documentos o medios de acreditación de cada uno de ellos;
+
+d) El periodo de registro de aspirantes, que no podrá ser inferior a cinco días, y
+
+e) El lugar para la entrega de la solicitud de registro, la cual deberá ser acompañada por una carta exposición de motivos en la cual se exprese porque quiere integrar el Consejo consultivo y los documentos para acreditar los requisitos de elegibilidad del aspirante y su suplente.
+
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2017)</small>
+
+Una vez concluido el plazo para el registro de los aspirantes, los expedientes de los aspirantes serán estudiados por la Comisión de Transparencia, la cual verificará que cumplan con los requisitos de elegibilidad, una vez hecho lo anterior, emitirá el dictamen respectivo en el cual se contendrá la lista del o los aspirantes que hayan cumplido los requisitos para su elección, en su caso. En todo momento se garantizará la máxima publicidad del proceso.
+
+> <small>(ADICIONADO, B.O. 20 DE ABRIL DE 2017)</small>
+
+El o los Consejeros serán electos por las dos terceras partes de los miembros del Congreso. En caso de que no se alcance la votación requerida, la Comisión de Transparencia presentará nueva propuesta que habrá de desahogarse con este mismo procedimiento.
 
 ###### Artículo 54.
 
@@ -869,9 +895,11 @@ Los integrantes del Consejo Consultivo durarán en el cargo cinco años, para lo
 
 El Consejo Consultivo participará en el proceso de elección de los comisionados del Instituto conforme a lo dispuesto por esta Ley.
 
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2017)</small>
+
 ###### Artículo 60.
 
-Cualquier ausencia en el Consejo Consultivo será cubierta por el suplente respectivo.
+En caso de presentarse la vacante de Consejero, se procederá a cubrirla con arreglo al procedimiento de elección previsto en la presente Ley. Los Consejeros tendrán derecho (sic) ausentarse de forma temporal en los términos que establezca el Reglamento de Operación y Conducta del Consejo.
 
 ## TÍTULO CUARTO. DE LA CULTURA DE TRANSPARENCIA
 
@@ -2729,8 +2757,22 @@ SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
 
-P.O. 26 DE MAYO DE 2016.
+B.O. 26 DE MAYO DE 2016.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 2352 SE REFORMAN LOS ARTÍCULOS 28, FRACCIÓN VIII DEL ARTÍCULO 31, FRACCIÓN XVI DEL ARTÍCULO 77, 86, LAS FRACCIONES II Y III DEL ARTÍCULO 118, 137, 143, 154, FRACCIÓN VIII DEL ARTÍCULO 156, 159, 176, PÁRRAFO TERCERO DEL ARTÍCULO 178, 179, 181, 182 Y ARTÍCULO DÉCIMO TRANSITORIO; SE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 77 Y SE DEROGAN LAS FRACCIONES VII DEL ARTÍCULO 31 Y LA FRACCIÓN VIII DEL ARTÍCULO 173, TODOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 2352 SE REFORMAN LOS ARTÍCULOS 28, FRACCIÓN VIII DEL ARTÍCULO 31, FRACCIÓN XVI DEL ARTÍCULO 77, 86, LAS FRACCIONES II Y III DEL ARTÍCULO 118, 137, 143, 154, FRACCIÓN VIII DEL ARTÍCULO 156, 159, 176, PÁRRAFO TERCERO DEL ARTÍCULO 178, 179, 181, 182 Y ARTÍCULO DÉCIMO TRANSITORIO; SE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 77 Y SE DEROGAN LAS FRACCIONES VII DEL ARTÍCULO 31 Y LA FRACCIÓN VIII DEL ARTÍCULO 173, TODOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR".]
 
 ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2430 SE REFORMAN LA FRACCIÓN V DEL ARTÍCULO 5, TERCER PÁRRAFO DE LA FRACCIÓN I Y EL PÁRRAFO PRIMERO DE LA FRACCIÓN IV DEL ARTÍCULO 45, LOS PÁRRAFOS QUINTO, SEXTO Y SÉPTIMO AL ARTÍCULO 53, EL ARTÍCULO 60 Y SE ADICIONA UN PÁRRAFO OCTAVO AL ARTÍCULO 53, TODOS A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente al de su Publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+TERCERO.- El procedimiento de elección de los consejeros que integrarán el Consejo Consultivo del Instituto deberá llevarse a cabo dentro de los 45 días siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO.- El Reglamento de Operación y Conducta del Consejo Consultivo deberá ser expedido a más tardar en un plazo de 30 días contados a partir de que este quede formalmente instalado.
+
+QUINTO.- Se derogan las disposiciones legales y transitorias que se opongan al presente decreto.
