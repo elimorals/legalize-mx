@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-escudo-y-el-himno-de-tamaulipas-antes-ley-del-4243
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2016-12-21"
+last_updated: "2017-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,79 +21,73 @@ state: "TAM"
 ---
 # LEY SOBRE EL ESCUDO Y EL HIMNO DE TAMAULIPAS -ANTES LEY DEL ESCUDO DE ARMAS Y DEL HIMNO DE TAMAULIPAS-
 
-LEY NÚMERO 44 DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY SOBRE EL ESCUDO Y EL HIMNO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2017.
 
-Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
+Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2004.
 
-Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz-Llave.
+TOMAS YARRINGTON RUVALCABA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
-Miguel Alemán Velazco, Gobernador Constitucional del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes sabed:
+Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
 
-Que la H. Legislatura del Estado se ha servido dirigirme la siguiente Ley para su promulgación:
+Al margen un sello que dice.- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
-Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
+LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 58 FRACCION I DE LA CONSTITUCION POLITICA DEL ESTADO, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
-"La Honorable Quincuagésima Octava Legislatura del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 68, fracción I de la Constitución Política Local; 44 de la Ley Orgánica del Poder Legislativo; 103 del Reglamento para el Gobierno Interior del Poder Legislativo y en nombre del pueblo, expide la siguiente:
+D E C R E T O No. 93
 
-> <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
-LEY NÚMERO 44
+LEY SOBRE EL ESCUDO Y EL HIMNO DE TAMAULIPAS.
 
-LEY DE COORDINACION FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+### Capítulo Primero
 
-### CAPÍTULO I. Disposiciones generales
+De los Símbolos del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 1.
 
-La presente Ley establece y regula el Sistema Estatal de Coordinación Fiscal; y tiene por objeto:
+El Escudo y el Himno de Tamaulipas son los símbolos del Estado libre y soberano de Tamaulipas. Esta ley es de orden público y regula las características, el uso y la difusión del Escudo y del Himno de Tamaulipas, así como de las muestras de respeto que deberán guardárseles y para la ejecución del Himno.
 
-I. Establecer y regular los fondos para la distribución de las participaciones federales a los municipios;
+### Capítulo Segundo
 
-II. Establecer las reglas para la distribución de otros ingresos federales o estatales que se les transfieran a los municipios;
+De las Características del Escudo del Estado.
 
-III. Normar la aplicación por los municipios de las aportaciones federales que les correspondan;
-
-IV. Establecer las bases para la celebración de convenios de colaboración administrativa en materia fiscal entre estado y municipios, y
-
-V. Regular los procedimientos que permitan cubrir oportunamente las obligaciones de deuda a cargo de los municipios, en que se hubieren otorgado participaciones federales en garantía.
-
-### CAPÍTULO II. De las participaciones
-
-> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 2.
 
-Para los efectos de esta Ley, se entenderá por:
+El Escudo de Tamaulipas se compone de cuatro secciones enmarcadas en un pergamino amarillo oro con las características de diseño del Escudo que al presente ordenamiento se anexa y que al quedar de frente se describe como a continuación se especifica:
 
-> <small>(REFORMADA POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+En la primera sección, correspondiente a la parte superior izquierda y en fondo azul, aparecen dispuestas en el siguiente orden: una planta de maíz, una de sorgo con la panoja anaranjada, una de agave y una de caña, todas en color verde como símbolo de las fuentes principales que han dado auge al desarrollo agrícola de Tamaulipas.
 
-I. Ley: La Ley de Coordinación Fiscal para el Estado y los Municipios de Veracruz de Ignacio de la Llave;
+En la segunda sección, correspondiente a la parte superior central, aparece el Escudo de Armas de don José de Escandón y Helguera, Conde de Sierra Gorda, como testimonio de reconocimiento por su obra social, humanitaria y civilizadora, para lo cual se identificará solamente el escudo condal con una cruz amarilla, suprimiéndose los soportes, el timbrado y la corona, para representarse con base en la siguiente descripción:
 
-II. Municipio o municipios: El o los municipios que se encuentran dentro del territorio de la entidad;
+En la parte superior izquierda aparece una torre azul en fondo rojo.
 
-> <small>(REFORMADA POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+En la parte superior derecha un águila dorada en fondo azul.
 
-III. Legislatura: La H. Legislatura del Estado de Veracruz de Ignacio de la Llave, y
+En la parte inferior izquierda un caldero dorado con una bandera roja en fondo azul.
 
-> <small>(REFORMADA POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+En la parte inferior derecha una torre azul en fondo rojo.
 
-IV. Secretaría: La Secretaría de Finanzas y Planeación del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+En la tercera sección, correspondiente a la parte superior derecha, en fondo rojo aparecen de arriba hacia abajo un toro de raza cebú en color café obscuro, una vaca de la misma raza en color amarillo ocre, y un ejemplar de ganado caprino en color beige, señalándose con ello la producción pecuaria de Tamaulipas.
+
+En la cuarta sección, correspondiente a la parte inferior, en fondo azul cielo se presenta arriba y al centro el Cerro del Bernal en color café, mostrando a cada lado de la parte superior del mismo una nube blanca. En la parte inferior izquierda, se presenta un barco camaronero gris claro y un pez anaranjado en un mar azul obscuro, con lo que se identifica la explotación e industria pesquera de Tamaulipas. En la parte inferior y al centro se presenta un tractor blanco en un campo beige surcando la tierra, como testimonio de desarrollo a través de la mecanización del campo. En la parte inferior derecha en fondo verde se presenta una torre petrolera de color negro y dos depósitos de petróleo blancos, significando el potencial de hidrocarburos y la capacidad técnica para su refinación.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 3.
 
-Las participaciones federales serán cubiertas a los municipios en efectivo, sin condicionamiento alguno; son inembargables; no pueden estar sujetas a retención y no pueden afectarse a fines específicos.
+El Escudo del Estado puede representarse en forma de Bandera, la cual consta en un campo blanco con una proporción entre anchura y longitud de 4 a 7, en cuyo centro se inscribirá el Escudo del Estado conforme a las características dispuestas en el artículo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+### Capítulo Tercero. Del uso y difusión del Escudo de Tamaulipas
 
-### CAPÍTULO II BIS
-
-De la Distribución de los Recursos provenientes del Fondo Para Entidades Federativas y Municipios Productores de Hidrocarburos correspondiente a Regiones Marítimas
-
-> <small>(ADICIONADO, G.O. 28 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 18 Bis.
 
@@ -137,59 +131,33 @@ Dichos recursos no pierden su naturaleza federal, por lo que para efectos de su 
 
 ###### Artículo 4.
 
-Se exceptúan de lo señalado en el artículo anterior, las participaciones federales que se otorguen en garantía de pago de obligaciones contraídas por los municipios a favor de la Federación, el Estado, las instituciones de crédito que operen en territorio nacional, así como de personas físicas o morales de nacionalidad mexicana. De igual manera, cuando exista acuerdo o convenio entre el Estado y sus Municipios para hacer frente a las obligaciones fiscales que tengan estos últimos con el primero.
+La reproducción del Escudo de Tamaulipas debe corresponder al modelo señalado en el artículo 2 de esta ley, salvo que por la naturaleza de su inscripción se autorice a reproducirlo en blanco y negro.
 
-Para otorgar las participaciones federales en garantía, los municipios deberán contar con la previa autorización de la Legislatura; cumplir con lo establecido en la Ley de Deuda Pública Municipal, e inscribir en el Registro de Obligaciones y Empréstitos de Entidades y Municipios de la Secretaría de Hacienda y Crédito Público y en el Registro de Deuda Pública Estatal el documento en donde conste el monto comprometido. La Secretaría dentro de los cinco días siguientes aquel en que la Federación haga efectiva dicha percepción al Estado, hará la retención que corresponda, siempre y cuando con anterioridad le haya sido notificada por el interesado.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
-La Legislatura vigilará el estricto cumplimiento de la presente Ley y de la Ley de Coordinación Fiscal en lo referente a las participaciones federales que les correspondan a los municipios, y sobre la aplicación por los ayuntamientos de las aportaciones federales.
+Para la utilización del Escudo de Tamaulipas en monedas conmemorativas, medallas, sellos, papel oficial y usos similares, podrá disponerse que figuren las palabras “Estado Libre y Soberano de Tamaulipas” o “Estado de Tamaulipas”, formando un semicírculo inferior.
 
-La Legislatura determinará los montos a distribuir a los municipios de las participaciones federales de conformidad a lo establecido por esta Ley.
-
-Los municipios podrán dirigir sus inconformidades a la Legislatura del Estado respecto de la aplicación de la presente Ley. La Legislatura resolverá las inconformidades en los términos que corresponda.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 6.
 
-En la distribución de participaciones y aportaciones federales a cada municipio corresponde a la Legislatura actualizar los cálculos que con base en las fórmulas establecidas en esta Ley.
+El Escudo del Estado podrá usarse en los vehículos que utilicen los servidores públicos del Estado y en el papel de las dependencias de los poderes estatales y de los entes públicos del Estado, así como de los Ayuntamientos, sin que pueda utilizarse para documentos particulares. Para la impresión y uso del Escudo del Estado en la papelería de las entidades públicas se requerirá acuerdo de la autoridad competente.
 
-Para el desarrollo de las fórmulas para la distribución de participaciones y aportaciones federales establecidas en esta Ley, se utilizará la información estadística más reciente publicada por el Instituto Nacional de Estadística, Geografía e Informática; así como la información que sobre recaudación de ingresos federales, estatales y municipales deberán proporcionar la Secretaría y los municipios a la Legislatura.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
-La Secretaría proporcionará la asesoría y el apoyo para la elaboración de los cálculos a que se refiere esta Ley, si así lo requiere la Legislatura a través de las Comisiones respectivas; a las que les proporcionará la información que al respecto obre en su poder.
+### Capítulo Cuarto. Del uso y difusión del Escudo de Tamaulipas en su modalidad de Bandera
 
-La negativa por parte de la Secretaría o de algún municipio a proporcionar oportunamente a la Legislatura la información antes señalada, dará lugar a responsabilidades administrativas, independientemente de las civiles o penales que resultaren.
-
-### CAPÍTULO III. De las aportaciones federales
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 7.
 
-De las participaciones que le correspondan anualmente a la entidad de conformidad con la Ley de Coordinación Fiscal, cuando menos el 20% corresponderá a los municipios que la integran.
-
-Las participaciones federales que el Estado reciba y deba hacer efectivas a los municipios, se repartirán de acuerdo a lo establecido en la Ley de Coordinación Fiscal, en esta Ley y en las demás disposiciones aplicables. Previamente al inicio del proceso de cálculo de la distribución de las participaciones se deberá utilizar la información estadística más reciente publicada por el Instituto Nacional de Estadística y Geografía.
-
-En la distribución de las participaciones federales la Legislatura del Estado deberá precisar y actualizar las variables, fuentes de información, los valores y el método de cálculo mediante los cuales se determinan los coeficientes para su distribución a los municipios.
-
-Para la distribución conjunta de las participaciones federales correspondientes a todos los municipios, con excepción de las establecidas en el Artículo 4o.-A de la Ley de Coordinación Fiscal, se tendrá como referencia, en el orden establecido a continuación, lo siguiente:
-
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2022)</small>
-
-I. El monto nominal recibido en el ejercicio fiscal 2021 (año base); y
-
-II. La aplicación de la fórmula de distribución de la presente ley, se realizará de manera exclusiva, al monto excedente de fondos participables que sea recibido durante el ejercicio fiscal correspondiente.
-
-> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2022)</small>
-
-Lo anterior, en el caso de que el excedente referido en el párrafo precedente sea mayor a cero e implique un incremento en los recursos a distribuir. En caso contrario, la distribución de los recursos se realizará conforme al coeficiente publicado en el "Acuerdo por el que se da a conocer el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como los montos estimados que recibirá cada municipio del Estado de Veracruz de Ignacio de la Llave, por concepto del Fondo General de Participaciones, del Fondo de Fomento Municipal, de los Incentivos por el Impuesto sobre Automóviles Nuevos, del Impuesto Especial sobre Producción y Servicios, del Fondo de Fiscalización y Recaudación, de los ingresos derivados de la aplicación del Artículo 4°-A de la Ley de Coordinación Fiscal, del Fondo de Compensación del Impuesto sobre Automóviles Nuevos y del Fondo de Extracción de Hidrocarburos, para el ejercicio fiscal de 2021 ".
+En la reproducción del Escudo del Estado en su modalidad de bandera podrá autorizarse la inscripción de la denominación de instituciones, agrupaciones y planteles educativos, previa autorización de la instancia pública competente, sobre la base de contribuir al respeto y honor de este símbolo del Estado. No se podrá autorizar ninguna otra inscripción en esta modalidad del Escudo.
 
 ###### Artículo 8.
 
-La Secretaría dentro de los cinco días siguientes a aquel en que el Estado reciba las participaciones de la Federación, ministrará a los municipios las participaciones que les correspondan.
-
-El retraso en las ministraciones dará lugar al pago de intereses en los términos del artículo 6 de la Ley de Coordinación Fiscal.
-
-En caso de incumplimiento en el pago de participaciones, el Municipio podrá solicitar a la Federación le entregue de manera directa dichas participaciones, en términos del artículo 6 de la Ley de Coordinación Fiscal.
-
-> <small>(ADICIONADO, G.O. 12 DE FEBRERO DE 2019)</small>
+Las autoridades del Estado regularán y promoverán la entrega a las instituciones públicas y a las agrupaciones privadas del Escudo del Estado en su modalidad de bandera.
 
 ###### Artículo 8 Bis.
 
@@ -201,635 +169,431 @@ Artículo 8 B (SIC) Ter. El Gobierno del Estado, por conducto de la Secretaría 
 
 ###### Artículo 9.
 
-Las participaciones federales a favor de los municipios, se repartirán a partir de la constitución de fondos estatales, para lo cual se crean:
+En las festividades cívicas o en las ceremonias oficiales en las que se halle presente la Bandera Nacional deberá contarse con el Escudo de Tamaulipas en su modalidad de bandera para acompañar al lábaro patrio.
 
-I. El Fondo General de Participaciones Municipales, mediante el cual el Estado distribuirá entre los municipios por lo menos el 20% de las participaciones que perciba el Fondo General de Participaciones que la Federación tiene integrado;
-
-II. El Fondo de Fomento Municipal, a través del cual el Estado distribuirá el 100% de las participaciones federales que reciba del Fondo de Fomento Municipal que la Federación tiene integrado, y
-
-III. El Fondo de Reserva de Contingencia que se integrará con las participaciones federales que, en su caso, reciba el Estado de la Reserva de Contingencia que establece el artículo 4 de la Ley de Coordinación Fiscal.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 10.
 
-La distribución del Fondo General de Participaciones Municipales y del Fondo de Fomento Municipal se efectuará conforme a los siguientes porcentajes:
+En las sedes de los poderes del Estado y de los Municipios del mismo se izarán la Bandera Nacional y el Escudo de Tamaulipas en su modalidad de bandera en las fechas que señale el calendario cívico del Estado. Cuando la ocasión sea luctuosa, se izarán a media asta.
 
-a) 50% con base en el Índice Municipal de Pobreza (IMP), y
+Las banderas que se utilicen en los inmuebles referidos tendrán las dimensiones y la conservación adecuada para su uso y dignidad, confiriéndose al cuidado del personal que al efecto se designe, el cual vigilará que en las fechas correspondientes sean izados y arriados puntualmente.
 
-b) 50% con base en el Coeficiente de Participación Municipal (CPM).
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 11.
 
-El Índice Municipal de Pobreza (IMP) considera las siguientes variables:
+El Calendario Cívico del Estado comprende las fechas señaladas a continuación:
 
-a) Población de 15 años o más que no sabe leer y escribir;
+I.- 1 de enero, con motivo de la fundación de Güémez en 1749;
 
-b) Población ocupada que no percibe ingresos o que éstos son de hasta 2 salarios mínimos;
+II.- 5 de enero, por el aniversario de la declaración de Méndez con la categoría de Villa en 1869;
 
-c) Población que habita en viviendas particulares sin disponibilidad de drenaje conectado a fosa séptica o a la calle, y
+III.- 6 de enero, a razón de los aniversarios de las fundaciones de la Villa de Palmillas en 1745 y de Padilla en 1749;
 
-d) Población que habita en viviendas particulares sin disponibilidad de electricidad.
+IV.- 7 de enero, para conmemorar el natalicio del Profesor Candelario Garza Cantú en 1891;
 
-Para calcular las participaciones que conforme al Índice Municipal de Pobreza (IMP) correspondan a cada municipio se desarrollará la siguiente fórmula:
+V.- 15 de enero, en conmemoración de la apertura del segundo periodo ordinario de sesiones del H. Congreso del Estado;
 
-IMP¡= Ri1B1+Ri2B2+Ri3B3+Ri4B4
+VI.- 16 de enero, para conmemorar el natalicio del General Gregorio Osuna Hinojosa en 1873;
 
-Donde:
+VII.- 17 de enero, con motivo de la fundación de la Villa de Matamoros en 1810;
 
-Ri1...4= Rezago asociado a cada una de las cuatro necesidades básicas consideradas por el IMP en el i-ésimo municipio con respecto al rezago estatal en esa misma necesidad.
+VIII.- 23 de enero, por el aniversario luctuoso del General Pedro J. Méndez Ortiz en 1866;
 
-B1...4= Ponderador cuyo valor es 0.25 en cada uno de los rezagos.
+IX.- 25 de enero, para conmemorar el aniversario de la declaración del General Pedro J. Méndez Ortiz como benemérito del Estado en 1868;
 
-Variables:
+X.- 1 de febrero, por el aniversario luctuoso del General Gregorio Osuna Hinojosa, en 1941;
 
-R1= Población ocupada que no percibe ingresos o que éstos son de hasta 2 salarios mínimos.
+XI.- 5 de febrero, con motivo del aniversario de la expedición de la Constitución Política del Estado Libre y Soberano de Tamaulipas de 1921;
 
-R2 = Población de 15 años o más que no sabe leer y escribir.
+XII.- 16 de febrero, por el aniversario luctuoso de los siguientes personajes:
 
-R3 = Población que habita en viviendas particulares sin disponibilidad de drenaje conectado a fosa séptica o a la calle.
+a).- Coronel Felipe de la Garza Cisneros en 1832; y
 
-R4= Población que habita en viviendas particulares sin disponibilidad de electricidad.
+b).- General Alberto Carrera Torres en 1917.
 
-Una vez determinado el IMP para todos los municipios de la entidad, se suman y se calcula su distribución porcentual multiplicando cada valor índice por cien.
+XIII. 17 de febrero, con motivo de la fundación de Santander Jiménez en 1749. Primera Capital de la colonia de Nuevo Santander hoy Tamaulipas;
+
+XIV.- 20 de febrero, con motivo de la fundación de la Villa de Burgos en 1749;
+
+XV.- 22 de febrero, por los siguientes aniversarios luctuosos:
+
+a).- De la Maestra Estefanía Castañeda Núñez de Cáceres en 1937; y
+
+b).- De Pedro Paredes y Serna en 1841.
+
+XVI.- 4 de marzo, con motivo de la creación del municipio de Valle Hermoso en 1953;
+
+XVII.- 5 de marzo, con motivo de la fundación de Camargo en 1749;
+
+XVIII.- 6 de marzo, con motivo de la fundación de Mier en 1753;
+
+XIX.- 14 de marzo, con motivo de la fundación de la Villa de Reynosa en 1749;
+
+XX.- 15 de marzo, con motivo de la fundación de la Villa de Escandón, hoy Xicoténcatl en 1751;
+
+XXI.- 19 de marzo, con motivo de la fundación de la Villa de San Fernando en 1749;
+
+XXII.- 26 de marzo, por el aniversario luctuoso del General Rómulo Cuéllar en 1916;
+
+XXIII.- 27 de marzo, por el aniversario de la muerte de Julián de la Cerda en 1893;
+
+XXIV.- 1 de abril, con motivo de la fundación de San Nicolás en 1768;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+XXV.- 7 de abril, por el aniversario de la muerte de José Eustaquio Fernández en 1843;
+
+XXVI.- 9 de abril, para conmemorar el aniversario de la instalación de la Diputación Provincial del Nuevo Santander en 1823;
+
+XXVII.- 11 de abril, por el aniversario luctuoso de los siguientes personajes:
+
+a).- General Emiliano P. Nafarrete en 1918; y
+
+b).- General César López de Lara en 1960.
+
+XXVIII.- 12 de abril, por el aniversario de la repoblación de Tampico en 1823;
+
+XXIX.- 15 de abril, con motivo de la fundación de Aldama en 1790;
+
+XXX.- 19 de abril, por el aniversario de la muerte de Doña Agapita Ortiz de Méndez en 1788;
+
+XXXI.- 20 de abril, con motivo del aniversario de la capitalidad de la Villa de Aguayo con el nombre de Victoria en 1825;
+
+XXXII.- 23 de abril, para conmemorar el natalicio de los siguientes personajes:
+
+a).- Profesor Adalberto J. Argüelles en 1850; y
+
+b).- General Alberto Carrera Torres en 1887.
+
+XXXIII.- 24 de abril, con motivo de la creación del municipio de Gustavo Díaz Ordaz en 1968;
+
+XXXIV.- 1 de mayo, con motivo del otorgamiento de la calidad de Municipio a Ciudad Madero en 1824;
+
+XXXV.- 2 de mayo, con motivo de la fundación de Altamira en 1749;
+
+XXXVI.- 6 de mayo, para conmemorar los siguientes aniversarios:
+
+a).- Promulgación de la Constitución Política de Tamaulipas en 1825; y
+
+b).- Natalicio del Licenciado y General Juan José de la Garza en 1826.
+
+XXXVII.- 8 de mayo, con motivo de la fundación de Villagrán en 1757;
+
+XXXVIII.- 9 de mayo, con motivo de la fundación de Cruillas en 1766;
+
+XXXIX.- 11 de mayo, para conmemorar los siguientes aniversarios:
+
+a).- De la fundación de la Villa de San Juan Bautista de Horcasitas, hoy González, en 1749; y
+
+b).- De la muerte del profesor Adalberto J. Argüelles en 1923.
+
+XL.- 13 de mayo, por el aniversario luctuoso del General José Bernardo Gutiérrez de Lara en 1841;
+
+XLI.- 14 de mayo, con motivo del aniversario de la declaración de Miquihuana como Villa del Estado en 1849;
+
+XLII.- 15 de mayo, por el aniversario de la muerte de Manuel González Flores, en Chapingo en 1893;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+XLIII.- 16 de mayo, para conmemorar el Natalicio del General Juan N. Cortina en 1824;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+XLIV.- 19 de mayo con motivo de las siguientes fundaciones:
+
+a).- De Villa de Jaumave en 1744;
+
+b).- De Ocampo en 1749; y
+
+c).- De Hidalgo en 1752.
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+XLV.- 22 de mayo, por el aniversario luctuoso del Insurgente Mateo Acuña en 1811;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+XLVI.- 23 de mayo, para conmemorar el natalicio del Profesor Lauro Aguirre en 1882;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+XLVII.- 26 de mayo, con motivo de la fundación de Bustamante en 1746;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+XLVIII.- 28 de mayo, por aniversario luctuoso del profesor Juan Rincón en 1951;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+XLIX.- 3 de junio, con motivo de la fundación de Villa de Casas en 1770;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+L.- 15 de junio, con motivo de la declaración de Villa de Nuevo Laredo en 1848;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LI.- 16 de junio, en homenaje a la Batalla de Santa Gertrudis, en el municipio de Camargo, en 1866. Triunfo de las tropas republicanas al mando del General Mariano Escobedo y el Coronel Servando Canales Molano, contra los conservadores;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LII.- 24 de junio, en conmemoración del natalicio de los siguientes personajes:
+
+a).- Profesor Juan Rincón en 1743; y
+
+b).- Profesor Juan B. Tijerina en 1857.
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LIII.- 26 de junio, por el aniversario luctuoso del General Lauro Villar Ochoa en 1923;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LIV.- 28 de junio, por el aniversario luctuoso del General Servando Canales Molano en 1881;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LV.- 3 de julio, en conmemoración de los siguientes aniversarios:
+
+a).- Elevación de Mainero a la categoría de Villa en 1924; y
+
+b).- Muerte del General Manuel Mier y Terán en 1832.
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LVI.- 4 de julio, en conmemoración del natalicio del Ingeniero Marte R. Gómez Segura en 1896;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LVII.- 6 de julio, con motivo de la fundación de San Carlos en 1766;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LVIII.- 7 de julio, en conmemoración de la instalación del Primer Congreso Constituyente de Tamaulipas en 1824;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LIX.- 18 de julio, para conmemorar el natalicio del General Manuel del Refugio González Flores en 1833;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LX.- 22 de julio, con motivo de la fundación de Tula en 1617;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXI.- 29 de julio, para conmemorar el natalicio del Licenciado Horacio Terán Sosaya en 1902;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXII.- 7 de agosto, con motivo del aniversario de la repoblación de Palmillas en 1749;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXIII.- 9 de agosto, para conmemorar el natalicio de Manuel C. Farrega en 1897;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXIV.- 10 de agosto, por el aniversario luctuoso de Guadalupe Mainero Juárez en 1901;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXV.- 20 de agosto, para conmemorar el natalicio de José Bernardo Gutiérrez de Lara en 1774;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXVI.- 24 de agosto, para conmemorar el natalicio del Licenciado Francisco Castellanos en 1893;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXVII.- 3 de septiembre, con motivo de la fundación de Soto la Marina en 1750;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXVIII.- 10 de Septiembre, para conmemorar los siguientes acontecimientos:
+
+a).- Aniversario de la muerte de José de Escandón, Conde de la Sierra Gorda en 1770; y
+
+b).- Aniversario del natalicio del General Cesar López de Lara en 1790.
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXIX.- 11 de septiembre, en homenaje al Ejército Mexicano, que con la ayuda del pueblo del Puerto de Tampico, hace capitular al Ejército Español en su intento de reconquista en 1829;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXX.- 27 de septiembre, con motivo de la declaración de Antiguo Morelos como Villa en 1828;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXI.- 29 de septiembre, con motivo de la elevación a Villa de la Congregación de San José o Joya de los Indios con el nombre de Gómez Farías en 1870;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXII.- 1 de octubre, en conmemoración de los siguientes acontecimientos:
+
+a).- Fundación del actual municipio de Guerrero en 1750; y
+
+b).- Apertura del primer periodo ordinario de sesiones del H. Congreso del Estado.
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXIII.- 3 de octubre, para conmemorar el natalicio del Licenciado Emilio Portes Gil en 1890;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXIV.- 6 de octubre, con motivo de la fundación de la Villa de Santa María de Aguayo, hoy Victoria en 1750;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXV.- 7 de octubre, por el aniversario luctuoso de Luis Caballero Vargas en 1832;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXVI.- 8 de octubre, para conmemorar el natalicio de la maestra Estefanía Castañeda Núñez de Cáceres en 1872;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXVII.- 10 de octubre, para conmemorar el natalicio del Arquitecto Enrique L. Canseco en 1886;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXVIII.- 11 de octubre, con motivo del aniversario de la elevación a ciudad de la Congregación de San Pedro de Roma con el nombre de Miguel Alemán en 1950;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXIX.- 16 de octubre, por el aniversario de la muerte del Licenciado y General Juan José de la Garza en 1893;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXX.- 19 de octubre, con motivo del aniversario de la elevación de Nuevo Morelos a la categoría de Villa en 1860;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXXI.- 23 de octubre, en conmemoración de los siguientes aniversarios:
+
+a).- Del natalicio del General Servando Canales Molano en 1830; y
+
+b).- De la fundación de la nueva Villa de Padilla en 1971.
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXXII.- 24 de octubre, para conmemorar el natalicio del General Rafael Cárdenas en 1890;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXXIII.- 25 de octubre, por el aniversario de la muerte del General Ascensión Gómez en 1741;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXXIV.- 27 de octubre, para conmemorar el natalicio del profesor Rafael Tejeda Puente en 1782;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXXV.- 28 de octubre, con motivo del aniversario de la elevación de El Mante a la categoría de Ciudad en 1937;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXXVI.- 30 de octubre, por el aniversario de la muerte del General Juan N. Cortina en 1894;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXXVII.- 16 de noviembre, para conmemorar el natalicio del Licenciado Fidencio Trejo Flores en 1884;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXXVIII.- 22 de noviembre para conmemorar el natalicio del General Pedro J. Méndez Ortiz en 1836;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXXIX.- 4 de diciembre, con motivo de la emancipación del municipio de Río Bravo en 1961;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+XC.- 10 de diciembre, por el aniversario luctuoso del licenciado Emilio Portes Gil en 1978;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+XCI.- 12 de diciembre, para conmemorar el natalicio de Guadalupe Mainero Juárez en 1856;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+XCII.- 16 de diciembre, por el aniversario luctuoso del ingeniero Marte R. Gómez en 1973;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+
+XCIII.- 25 de diciembre, con motivo de la fundación de Llera en 1748;
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+
+XCIV.- 25 y 26 de diciembre, conmemoración de la Batalla de los Prisioneros de Mier o Expedición Mier, en 1842; y
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+
+XCV.- 26 de diciembre, con motivo de la fundación del actual municipio de Abasolo en 1752. En 1828 recibe el nombre de Abasolo.
 
 ###### Artículo 12.
 
-El Coeficiente de Participación Municipal (CPM) considera las siguientes variables:
+En fechas y acontecimientos de excepcional importancia para el Estado, el Gobernador podrá acordar el izamiento de la Bandera Nacional en días distintos a los señalados en el calendario cívico local dentro de la jurisdicción del Estado.
 
-a) Recaudación de impuestos, derechos y contribuciones por mejoras del municipio en el año inmediato anterior para el cual se efectúa el cálculo, y
-
-b) Recaudación de impuestos, derechos y contribuciones por mejoras del municipio en el segundo año inmediato anterior para el cual se efectúa el cálculo.
-
-Los impuestos, derechos y contribuciones por mejoras a que se refiere este artículo, son los que se establecen en la Ley de Hacienda Municipal incluyendo la recuperación de los rezagos, sin considerar los accesorios y gastos de ejecución.
-
-Para calcular las participaciones federales que conforme al Coeficiente de Participación Municipal (CPM) correspondan a cada municipio se desarrollará la siguiente fórmula:
-
-Bi
-
-CPM i t = ________
-
-TB
-
-Donde:
-
-CPM i t= Coeficiente de participación del municipio i-ésimo en el año para el cual se efectúa el cálculo.
-
-TB = Suma de Bi
-
-(CPM i t-1) (RID i t-1)
-
-Bi=____________________
-
-RID i t-2
-
-CPM i t-1 = Coeficiente de participación del municipio i-ésimo en el año inmediato anterior a aquel para el cual se efectúa el cálculo.
-
-RID i t-1 = Recaudación de impuestos, derechos y contribuciones por mejoras del municipio i-ésimo en el año inmediato anterior a aquel para el cual se efectúa el cálculo.
-
-RID i t-2 = Recaudación de impuestos, derechos y contribuciones por mejoras del municipio i-ésimo en el segundo año inmediato anterior a aquel para el cual se efectúa el cálculo.
-
-Una vez determinado el CPM para todos los municipios de la entidad, se suman y se calcula su distribución porcentual multiplicando cada valor índice por cien.
-
-Los municipios informarán a la Legislatura dentro de los tres primeros meses del año la recaudación que hayan obtenido por concepto de impuestos, derechos y contribuciones por mejoras en el año inmediato anterior.
-
-El órgano de fiscalización de la Legislatura podrá comprobar la veracidad de la información señalada en el párrafo anterior y, en su caso, se efectuarán los ajustes correspondientes a las participaciones.
-
-> <small>(ADICIONADO [N. DE E. CON SUS FÓRMULAS], G.O. 28 DE DICIEMBRE DE 2021)</small>
-
-El 30% del excedente del Fondo de Fomento Municipal determinado, informado y ministrado a la Entidad por la Secretaría de Hacienda y Crédito Público, en términos del artículo 2-A, fracción III, de la Ley de Coordinación Fiscal, se distribuirá entre el total de municipios que tengan celebrado convenio de coordinación fiscal con el Gobierno del Estado de Veracruz de Ignacio de la Llave en materia de impuesto predial, mediante la fórmula siguiente:
-
-> <small>[N. DE E. VEÁSE FÓRMULA EN LA G.O. DE 28 DE DICIEMBRE DE 2021, PÁGINA 6.]</small>
-
-CPFFM i t = Coeficiente de Participación del Fondo de Fomento Municipal del Municipio i-ésimo en el año para el cual se efectúa el cálculo, para la distribución del 30% del excedente del Fondo de Fomento Municipal, siempre y cuando tenga firmado con el Gobierno del Estado convenio de coordinación para el cobro del impuesto predial.
-
-Bi= Coeficiente de participación municipal en el año actual para el cual se efectúa el cálculo.
-
-TB= Suma de Bi
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 13.
 
-En caso de integrarse un Fondo de Reserva de Contingencia de conformidad con el artículo 4 de la Ley de Coordinación Fiscal, se repartirá aplicando el Índice Municipal de Pobreza y el Coeficiente de Participación Municipal que corresponda a cada municipio en el ejercicio de que se trate.
+Todos los planteles educativos del Estado poseerán un Escudo del Estado en su modalidad de bandera, misma que se utilizará en los actos cívicos que se realicen. Se alentará entre los alumnos el respeto y el culto a dicho símbolo del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE ENERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 14.
 
-Los municipios recibirán como mínimo el 20% de la participación que le corresponda al Estado de los ingresos provenientes del Impuesto Especial sobre Producción y Servicios; el 20% de lo que recaude el Estado por concepto del Impuesto sobre automóviles nuevos; y, el 20% del incentivo de la recaudación derivada de los contribuyentes que tributen en términos del artículo 126 del Impuesto Sobre la Renta.
+En su caso, podrán realizarse ceremonias de entrega formal del Escudo del Estado a organizaciones e instituciones públicas y privadas. El personal de las mismas que la reciba se ubicará en la forma más adecuada posible conforme al lugar en el cual se efectúe la ceremonia y observará, en todo caso, los siguientes preceptos:
 
-La distribución de los conceptos señalados en el párrafo anterior, se hará aplicando el Índice Municipal de Pobreza y el Coeficiente de Participación Municipal en los porcentajes a que hace referencia el artículo 10 de esta Ley.
+I.- Si la entrega tiene lugar en campo abierto, se formará en línea de 3 filas en orden de revista, pero si es grupo montado lo hará en línea de secciones por tres, en el lugar que se disponga.
 
-> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2008)</small>
+II.- Si la entrega se efectúa en un salón, patio o cualquier otro sitio que no reúna las condiciones necesarias para las formaciones indicadas en la fracción anterior, la colocación del grupo se adaptará a las características del lugar.
+
+III.- Si la ceremonia coincide con la entrega oficial del Lábaro Patrio en términos de la ley federal sobre la materia, se seguirán las reglas señaladas en la misma, entregándose primero la Bandera Nacional y posteriormente el Escudo de Armas del Estado en su modalidad de bandera.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+IV.- La persona encargada de hacer la entrega formal del escudo lo tomará en sus manos y frente a la representación de la organización o institución que habrá de recibirla tomará la siguiente protesta:
+
+"Tamaulipecos: en nombre del Estado Libre y Soberano de Tamaulipas entrego a ustedes el Escudo que simboliza sus orígenes, la diversidad de su riqueza, el trabajo de su pueblo y su integridad como Estado de la República Mexicana. ¿Protestan honrarlo con lealtad y convicción?
+
+Los integrantes de la organización o institución responderán:
+
+"Sí, protesto".
+
+Quien haya hecho entrega del escudo, referirá:
+
+“Al poner el Escudo de Tamaulipas en sus manos, nuestro Estado confía en que su protesta será honrada”.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+V.- Enseguida se entregará el Escudo al representante de la organización o institución, quien a su vez la entregará a quien sea designado como portaestandarte.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 15.
 
-El Estado participará a los municipios el 20% de la recaudación que efectúe la Secretaría por concepto del Impuesto Sobre Tenencia o Uso de Vehículos, sin incluir los accesorios. Las participaciones sobre dicho concepto serán distribuidas mediante la aplicación de los factores establecidos en la siguiente tabla:
+Si fueren varias las instituciones que hayan de recibir el Escudo del Estado se procederá en cada caso como lo refiere el artículo anterior, ordenándose alfabéticamente la precedencia de la entrega.
 
-MUNICIPIO FACTOR DE DISTRIBUCIÓN
-
-1. ACAJETE 0.00144017889
-
-2. ACATLÁN 0.00148295939
-
-3. ACAYUCAN 0.00800621175
-
-4. ACTOPAN 0.00419915967
-
-5. ACULA 0.00109833429
-
-6. ACULTZINGO 0.00160067111
-
-7. AGUA DULCE 0.01003961907
-
-8. ALPATLÁHUAC 0.00131527721
-
-9. ALTO LUCERO
-
-DE GUTIÉRREZ
-
-BARRIOS 0.00369198132
-
-10. ALTOTONGA 0.00318660341
-
-11. ALVARADO 0.00453995489
-
-12. AMATITLÁN 0.00127152484
-
-13. AMATLÁN DE
-
-LOS REYES 0.00320090329
-
-14. ÁNGEL R. CABADA 0.00395323005
-
-15. APAZAPAN 0.00103181939
-
-16. AQUILA 0.00102477504
-
-17. ASTACINGA 0.00136133278
-
-18. ATLAHUILCO 0.00142549775
-
-19. ATOYAC 0.00377390147
-
-20. ATZACAN 0.00181851935
-
-21. ATZALAN 0.00360744287
-
-22. AYAHUALULCO 0.00176388309
-
-23. BANDERILLA 0.00249236372
-
-24. BENITO JUÁREZ 0.00180899249
-
-25. BOCA DEL RÍO 0.02465583133
-
-26. CALCAHUALCO 0.00141787444
-
-27. CAMARÓN DE
-
-TEJEDA 0.00113071127
-
-28. CAMERINO Z.
-
-MENDOZA 0.00480314273
-
-29. CARLOS A. CARRILLO 0.00108022996
-
-30. CARRILLO PUERTO 0.00161302792
-
-31. CASTILLO DE TEAYO 0.00214219032
-
-32. CATEMACO 0.00437006538
-
-33. CAZONES DE
-
-HERRERA 0.00271083965
-
-34. CERRO AZUL 0.00368491815
-
-35. CITLATÉPETL 0.00136162529
-
-36. COACOATZINTLA 0.00137757831
-
-37. COAHUITLÁN 0.00127827250
-
-38. COATEPEC 0.00659188234
-
-39. COATZACOALCOS 0.08125811533
-
-40. COATZINTLA 0.00323750264
-
-41. COETZALA 0.00101108256
-
-42. COLIPA 0.00147907244
-
-43. COMAPA 0.00186759370
-
-44. CÓRDOBA 0.02995025750
-
-45. COSAMALOAPAN 0.00812963294
-
-46. COSAUTLÁN DE
-
-CARVAJAL 0.00252836870
-
-47. COSCOMATEPEC 0.00227579303
-
-48. COSOLEACAQUE 0.01499659786
-
-49. COTAXTLA 0.00671078338
-
-50. COXQUIHUI 0.00145545963
-
-51. COYUTLA 0.00170502210
-
-52. CUICHAPA 0.00213604972
-
-53. CUITLÁHUAC 0.00326320606
-
-54. CHACALTIANGUIS 0.00204352637
-
-55. CHALMA 0.00200834068
-
-56. CHICONAMEL 0.00125949394
-
-57. CHICONQUIACO 0.00158277425
-
-58. CHICONTEPEC 0.00304921088
-
-59. CHINAMECA 0.00214346854
-
-60. CHINAMPA DE
-
-GOROSTIZA 0.00167097729
-
-61. CHOCAMÁN 0.00166107277
-
-62. CHONTLA 0.00184956981
-
-63. CHUMATLÁN 0.00130071904
-
-64. EL HIGO 0.00448053654
-
-65. EMILIANO ZAPATA 0.00458937766
-
-66. ESPINAL 0.00174259177
-
-67. FILOMENO MATA 0.00158470437
-
-68. FORTÍN 0.00452589326
-
-69. GUTIÉRREZ ZAMORA 0.00507817517
-
-70. HIDALGOTITLÁN 0.00243613913
-
-71. HUATUSCO 0.00561690188
-
-72. HUAYACOCOTLA 0.00198519134
-
-73. HUEYAPAN DE
-
-OCAMPO 0.00383787129
-
-74. HUILOAPAN DE
-
-CUAUHTÉMOC 0.00140914775
-
-75. IGNACIO DE LA
-
-LLAVE 0.00264207947
-
-76. ILAMATLÁN 0.00127118522
-
-77. ISLA 0.00482318602
-
-78. IXCATEPEC 0.00160732806
-
-79. IXHUACÁN DE
-
-LOS REYES 0.00179309046
-
-80. IXHUATLÁN DE
-
-MADERO 0.00257570767
-
-81. IXHUATLÁN DEL
-
-CAFÉ 0.00258313730
-
-82. IXHUATLÁN DEL
-
-SURESTE 0.00233021071
-
-83. IXHUATLANCILLO 0.00143909009
-
-84. IXMATLAHUACAN 0.00201326908
-
-85. IXTACZOQUITLÁN 0.01487963872
-
-86. JALACINGO 0.00211986406
-
-87. JALCOMULCO 0.00130100998
-
-88. JÁLTIPAN 0.00461445297
-
-89. JAMAPA 0.00139992931
-
-90. JESÚS CARRANZA 0.00319662576
-
-91. JILOTEPEC 0.00154720639
-
-92. JOSÉ AZUETA 0.00351065013
-
-93. JUAN RODRÍGUEZ
-
-CLARA 0.00387307071
-
-94. JUCHIQUE DE FERRER 0.00315625844
-
-95. LA ANTIGUA 0.00445059098
-
-96. LA PERLA 0.00165090802
-
-97. LANDERO Y COSS 0.00118931605
-
-98. LAS CHOAPAS 0.00805675342
-
-99. LAS MINAS 0.00126676044
-
-100. LAS VIGAS DE
-
-RAMÍREZ 0.00201133164
-
-101. LERDO DE TEJADA 0.00388242035
-
-102. LOS REYES 0.00135172196
-
-103. MAGDALENA 0.00115745503
-
-104. MALTRATA 0.00146921053
-
-105. MANLIO FABIO
-
-ALTAMIRANO 0.00219767731
-
-106. MARIANO ESCOBEDO 0.00214112211
-
-107. MARTÍNEZ DE
-
-LA TORRE 0.01185674852
-
-108. MECATLÁN 0.00169099117
-
-109. MECAYAPAN 0.00141657090
-
-110. MEDELLÍN 0.00341068462
-
-111. MIAHUATLÁN 0.00146276434
-
-112. MINATITLÁN 0.02077915837
-
-113. MISANTLA 0.00539639499
-
-114. MIXTLA DE
-
-ALTAMIRANO 0.00133430472
-
-115. MOLOACÁN 0.00391767995
-
-116. NANCHITAL DE
-
-LÁZARO
-
-CÁRDENAS DEL RÍO 0.01031268460
-
-117. NAOLINCO 0.00188766984
-
-118. NARANJAL 0.00108041633
-
-119. NARANJOS-AMATLÁN 0.00359472020
-
-120. NAUTLA 0.00224156051
-
-121. NOGALES 0.00429936601
-
-122. OLUTA 0.00257484394
-
-123. OMEALCA 0.00209280825
-
-124. ORIZABA 0.03188751675
-
-125. OTATITLÁN 0.00190111272
-
-126. OTEAPAN 0.00185666687
-
-127. OZULUAMA 0.00463599512
-
-128. PAJAPAN 0.00140146134
-
-129. PÁNUCO 0.00836683404
-
-130. PAPANTLA 0.01562085073
-
-131. PASO DE OVEJAS 0.00313622556
-
-132. PASO DEL MACHO 0.00261829530
-
-133. PEROTE 0.00361239713
-
-134. PLATÓN SÁNCHEZ 0.00213703326
-
-135. PLAYA VICENTE 0.00474026189
-
-136. POZA RICA DE
-
-HIDALGO 0.02598330256
-
-137. PUEBLO VIEJO 0.00380541096
-
-138. PUENTE NACIONAL 0.00238166485
-
-139. RAFAEL DELGADO 0.00133965572
-
-140. RAFAEL LUCIO 0.00144363248
-
-141. RÍO BLANCO 0.00591111466
-
-142. SALTABARRANCA 0.00146099076
-
-143. SAN ANDRÉS
-
-TENEJAPAN 0.00121111480
-
-144. SAN ANDRÉS
-
-TUXTLA 0.00773342114
-
-145. SAN JUAN
-
-EVANGELISTA 0.00330956704
-
-146. SAN RAFAEL 0.00433208682
-
-147. SANTIAGO
-
-SOCHIAPAN 0.00322095348
-
-148. SANTIAGO TUXTLA 0.00425594720
-
-149. SAYULA DE ALEMÁN 0.00357720918
-
-150. SOCONUSCO 0.00175947552
-
-151. SOCHIAPA 0.00099132132
-
-152. SOLEDAD ATZOMPA 0.00175396723
-
-153. SOLEDAD DE
-
-DOBLADO 0.00290426888
-
-154. SOTEAPAN 0.00197256661
-
-155. TAMALÍN 0.00224008116
-
-156. TAMIAHUA 0.00295328011
-
-157. TAMPICO ALTO 0.00225576905
-
-158. TANCOCO 0.00104178473
-
-159. TANTIMA 0.00183867042
-
-160. TANTOYUCA 0.00523841862
-
-161. TATAHUICAPAN
-
-DE JUÁREZ 0.00127129223
-
-162. TATATILA 0.00126905457
-
-163. TECOLUTLA 0.00351197772
-
-164. TEHUIPANGO 0.00177428077
-
-165. ÁLAMO TEMAPACHE 0.00801186048
-
-166. TEMPOAL 0.00468356179
-
-167. TENAMPA 0.00125643278
-
-168. TENOCHTITLÁN 0.00147902493
-
-169. TEOCELO 0.00254854425
-
-170. TEPATLAXCO 0.00148500870
-
-171. TEPETLÁN 0.00131306180
-
-172. TEPETZINTLA 0.00163956800
-
-173. TEQUILA 0.00165012546
-
-174. TEXCATEPEC 00.00165208201
-
-175. TEXHUACAN 0.00119989729
-
-176. TEXISTEPEC 0.00222942586
-
-177. TEZONAPA 0.00388768853
-
-178. TIERRA BLANCA 0.01140911971
-
-179. TIHUATLÁN 0.00653002171
-
-180. TLACOJALPAN 0.00166039476
-
-181. TLACOLULAN 0.00138080343
-
-182. TLACOTALPAN 0.00277181798
-
-183. TLACOTEPEC
-
-DE MEJÍA 0.00138788325
-
-184. TLACHICHILCO 0.00148747866
-
-185. TLALIXCOYAN 0.00336575616
-
-186. TLALNELHUAYOCAN 0.00141059087
-
-187. TLALTETELA 0.00134522826
-
-188. TLAPACOYAN 0.00450260156
-
-189. TLAQUILPA 0.00151690384
-
-190. TLILAPAN 0.00104630501
-
-191. TOMATLÁN 0.00171075984
-
-192. TONAYÁN 0.00144373290
-
-193. TOTUTLA 0.00150913864
-
-194. TRES VALLES 0.00469328136
-
-195. TUXPAN 0.02581257874
-
-196. TUXTILLA 0.00097862054
-
-197. ÚRSULO GALVÁN 0.00317175517
-
-198. UXPANAPA 0.00152427411
-
-199. VEGA DE ALATORRE 0.00362537120
-
-200. VERACRUZ 0.09387125717
-
-201. VILLA ALDAMA 0.00160870817
-
-202. XALAPA 0.06579315133
-
-203. XICO 0.00244945340
-
-204. XOXOCOTLA 0.00138293145
-
-205. YANGA 0.00188256522
-
-206. YECUATLA 0.00212464922
-
-207. ZACUALPAN 0.00164600760
-
-208. ZARAGOZA 0.00161183264
-
-209. ZENTLA 0.00155196480
-
-210. ZONGOLICA 0.00290134117
-
-211. ZONTECOMATLÁN 0.00144388400
-
-212. ZOZOCOLCO DE HIDALGO 0.00168944916
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 16.
 
-Las participaciones se determinarán por cada ejercicio fiscal, para lo cual se hará en forma provisional un cálculo mensual, considerando la recaudación federal participable obtenida en el mes inmediato anterior.
+Cuando la representación de una organización o institución desfile con el Escudo del Estado, el portaestandarte lo colocará en la portabandera, de modo que la cuja caiga sobre su cadera derecha; introducirá el regatón del asta en la cuja y con la mano derecha a la altura del hombro mantendrá el escudo cuidando que quede ligeramente inclinado hacia delante y evitando en todo momento que toque el suelo.
 
-Cada cuatro meses la Legislatura realizará un ajuste de las participaciones efectuando el cálculo sobre la recaudación obtenida en ese periodo. Las diferencias resultantes serán liquidadas dentro de los dos meses siguientes.
+Al hacerse alto, se sacará el asta de la cuja y se bajará hasta que el regatón toque el suelo, aproximadamente a 10 centímetros a la derecha de la punta del pie de ese costado, sosteniéndola con la mano derecha a la altura del pecho en posición vertical.
 
-A más tardar dentro de los cinco meses siguientes, al cierre de cada ejercicio fiscal la Legislatura determinará las participaciones que correspondan a la recaudación obtenida en el ejercicio; aplicará las cantidades que hubiera afectado provisionalmente a los fondos y formulará de inmediato las liquidaciones que procedan.
-
-Durante los primeros cinco meses de cada ejercicio, las participaciones se calcularán provisionalmente con los factores y coeficientes del ejercicio inmediato anterior, en tanto se cuente con la información necesaria para calcular los nuevos coeficientes.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
-Los municipios recibirán directamente de la Federación en términos de la Ley de Coordinación Fiscal lo siguiente:
+Los particulares podrán utilizar la modalidad de bandera del Escudo del Estado en sus vehículos y exhibirla en sus lugares de residencia o de trabajo. En todo caso los particulares observarán el respeto que corresponde a este símbolo del Estado y lo exhibirán y portarán con pulcritud y deferencia.
 
-a) Los ingresos que se generen por la colindancia de los municipios de la entidad con litorales por los que se realicen materialmente la entrada o salida al país de bienes que se importen o exporten, de conformidad con lo establecido en los convenios que se celebren para tal efecto;
-
-b) Los derechos adicionales sobre la extracción de petróleo excluyendo el derecho extraordinario sobre el mismo, respecto de los municipios colindantes con los litorales por donde se realice materialmente la salida del país de dichos productos, y
-
-c) Los ingresos que deriven de convenios de colaboración celebrados con la Federación.
-
-> <small>(ADICIONADO, G.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 17 Bis.
 
@@ -839,35 +603,13 @@ La participación correspondiente a los municipios se realizará de conformidad 
 
 ###### Artículo 18.
 
-De los ingresos que el Estado otorgue a los municipios, derivados de convenios de colaboración, corresponderá a la Legislatura vigilar la debida aplicación de los mismos.
+Los ejemplares del Escudo de Tamaulipas en su modalidad de bandera que estén destinados al comercio, deberán satisfacer las características de diseño y proporcionalidad establecidas en el artículo 3 de esta ley.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE JUNIO DE 2016)</small>
-
-### CAPÍTULO IV. De la colaboración administrativa entre los Municipios y el Estado
+### Capítulo Quinto. De la ejecución y difusión del Himno de Tamaulipas
 
 ###### Artículo 19.
 
-El Fondo de Aportaciones para la Infraestructura Social Municipal y el Fondo de Aportaciones para el Fortalecimiento de los Municipios que se integran con los recursos que la Federación transfiera a los municipios, estarán a lo dispuesto en la Ley de Coordinación Fiscal, condicionando su gasto a la consecución y cumplimiento de los objetivos que para cada tipo de aportación establece dicha Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
-
-Las aportaciones federales serán cubiertas a los municipios en efectivo, sin condicionamiento alguno, son inembargables y no pueden estar sujetas a retención, y sólo podrán afectarse como fuente de pago, garantía, o ambas, de sus obligaciones, en términos de la Ley de Coordinación Fiscal Federal, esta Ley y las demás disposiciones aplicables.
-
-Los fondos de aportaciones se integran, distribuyen, administran y ejercen de acuerdo a lo dispuesto en la Ley de Coordinación Fiscal, en la legislación estatal correspondiente y conforme a las normas que para tal efecto emita la Legislatura.
-
-> <small>(ADICIONADO, G.O. 13 DE FEBRERO DE 2008)</small>
-
-Con el fin de cumplir con sus obligaciones en términos de la Ley de Coordinación Fiscal Federal, el Estado podrá instrumentar mecanismos de captación, distribución, o ambos, de las aportaciones federales, incluyendo los recursos que correspondan a los Municipios para su posterior entrega, a través de cuentas, depósitos, fideicomisos u otros medios legales, los cuales en su operación deberán respetar los montos, plazos y condiciones de entrega de los recursos a los Municipios conforme a la Ley y a los convenios aplicables, sin perjuicio de cumplir con los fines de las afectaciones que, como fuente de pago, garantía, o ambas, hubieren realizado los Municipios a favor de sus acreedores en términos del Código Hacendario Municipal.
-
-> <small>(ADICIONADO, G.O. 13 DE FEBRERO DE 2008)</small>
-
-Los fideicomisos que se constituyan como mecanismos de captación, distribución, o ambos, no serán considerados, en ningún caso, parte de la administración pública estatal, por lo que no les serán aplicables las disposiciones de las entidades paraestatales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+El canto, ejecución y difusión del Himno de Tamaulipas se apegarán a la letra y música de la versión establecida en este ordenamiento. Su interpretación se hará siempre de manera respetuosa y en un clima que permita observar la debida solemnidad.
 
 ###### Artículo 19 Bis.
 
@@ -905,71 +647,31 @@ Lo anterior, en el entendido de que las retenciones y pagos relativos a los dere
 
 ###### Artículo 20.
 
-El Fondo de Aportaciones para la Infraestructura Social Municipal de cada Municipio se ejercerá en los términos que definan los Ayuntamientos previo acuerdo con el Consejo de Desarrollo Municipal.
+Queda prohibido alterar la letra o música del Himno de Tamaulipas y ejecutarlo total o parcialmente en composiciones o arreglos. Asimismo, se prohíbe cantarlo o ejecutarlo con fines de publicidad comercial o de índole semejante.
 
-El Fondo de Aportaciones para el Fortalecimiento de los Municipios, se destinará exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 21.
 
-Respecto de las Aportaciones Federales que integran los fondos señaladas en el artículo anterior, los municipios tendrán las siguientes obligaciones:
+Las ediciones o reproducciones que se hagan del Himno de Tamaulipas serán autorizadas por las Secretaría General de Gobierno y por la Secretaría de Educación.
 
-I. Hacer del conocimiento de sus habitantes los montos que reciban, las acciones y obras a realizar, el costo de cada una de ellas, su ubicación, metas y beneficiarios;
-
-II. Promover la participación de las comunidades beneficiarias en su destino, aplicación y vigilancia, así como en la programación, ejecución, control, seguimiento y evaluación de las obras y acciones que se vayan a realizar, y
-
-III. Informar a sus habitantes, al término de cada ejercicio, sobre los resultados alcanzados.
+Sin demérito de la naturaleza federal de las concesiones de radio y televisión, el Gobierno del Estado podrá convenir con sus titulares en la jurisdicción del Estado, que se difunda el Himno de Tamaulipas al inicio y al final de sus trasmisiones.
 
 ###### Artículo 22.
 
-Los Consejos de Desarrollo Municipal a que se hace referencia el artículo 20 de esta Ley, tendrán las siguientes atribuciones:
+El Himno de Tamaulipas se ejecutará en actos solemnes de carácter oficial, cívico, cultural, escolar o deportivo. Cuando deba ejecutarse el Himno Nacional, el Himno de Tamaulipas se entonará con posterioridad a aquél.
 
-a) Establecer los objetivos, programas y acciones del Fondo para la Infraestructura Social Municipal;
-
-b) Promover e impulsar la organización social y la participación de la población en la planeación y desarrollo de los programas y acciones del Fondo;
-
-c) Seleccionar y apoyar las obras y acciones a realizar con cargo al Fondo, en base a las propuestas que hagan los Comités Comunitarios;
-
-d) Participar en el seguimiento, control y evaluación del Fondo;
-
-e) Promover e impulsar el establecimiento y desarrollo de las contralorías sociales;
-
-f) Apoyar la planeación del desarrollo municipal;
-
-g) Impulsar y apoyar los programas de desarrollo institucional, coordinados con el Estado y la Federación tendentes a mejorar las capacidades técnicas de las administraciones municipales y Comités Comunitarios;
-
-h) Ordenar y sistematizar las demandas sociales definidas al interior de los Comités Comunitarios, y
-
-i) Establecer comisiones de trabajo por actividad, a fin de dar seguimiento a las acciones definidas por los diferentes Comités.
-
-La organización y funcionamiento de los Consejos de Desarrollo Municipal serán establecidos en el Reglamento que para tal efecto emita la Legislatura.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2017)</small>
 
 ###### Artículo 23.
 
-El Ejecutivo del Estado, por conducto de la Secretaría podrá celebrar convenios de colaboración administrativa con los municipios, entre otras, sobre las siguientes materias:
-
-I. Registro de contribuyentes;
-
-II. Recaudación, notificación, cobranza, verificación y fiscalización respecto de contribuciones estatales coordinadas;
-
-III. Recaudación, notificación y cobranza respecto de ingresos coordinados conforme a lo establecido en el convenio de colaboración administrativa en materia fiscal federal;
-
-IV. Catastro;
-
-V. Capacitación;
-
-VI. Desarrollo de sistemas de informática para la recaudación de contribuciones estatales y municipales;
-
-VII. Vigilancia del cumplimiento de obligaciones fiscales;
-
-VIII. Intercambio de información respecto de ingresos y actividades coordinadas;
-
-IX. Convenios de colaboración respecto de puentes de peaje operados por la Federación ubicados en los municipios, y
-
-X. Modernización administrativa.
+La demostración civil de respeto al Himno de Tamaulipas se hará en posición de firmes y deberá colocarse la mano derecha sobre el pecho a la altura del corazón, con la palma hacia el cuerpo. Los varones se descubrirán la cabeza.
 
 ###### Artículo 24.
 
-Los convenios de colaboración administrativa, en todo caso, serán autorizados por el Cabildo correspondiente y por la H. Legislatura del Estado.
+Es obligatoria la enseñanza del Himno de Tamaulipas en todos los planteles de educación obligatoria en el Estado.
+
+Cada año las autoridades educativas convocarán a un concurso de coros infantiles sobre la interpretación del Himno de Tamaulipas, en el que participarán los alumnos que cursen educación primaria y secundaria en los plantes del sistema educativo del Estado.
 
 ## TRANSITORIOS
 
@@ -1745,9 +1447,11 @@ Al efecto se convocará regularmente a concursos estatales sobre dicho (sic) sí
 
 La aplicación del presente ordenamiento corresponde a la Secretaría General de Gobierno y, en lo que hace a los planteles educativos del Estado a la Secretaría de Educación. Para efectos de la aplicación y cumplimiento de sus disposiciones, todas las autoridades del Estado serán auxiliares de la Secretaría General de Gobierno.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 32.
 
-Las infracciones del presente ordenamiento que no constituyan delito pero que impliquen desacato o falta de respeto a los símbolos del Estado, se castigarán con multa hasta por el equivalente a 500 salarios mínimos o arresto hasta por 36 horas. La imposición de una sanción económica se graduará conforme a la gravedad de la falta y la condición del infractor, pero si la infracción se comete con fines de lucro, la multa podrá imponerse hasta por el equivalente a tres tantos del beneficio económico percibido por el infractor.
+Las infracciones del presente ordenamiento que no constituyan delito pero que impliquen desacato o falta de respeto a los símbolos del Estado, se castigarán con multa hasta por el equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización o arresto hasta por 36 horas. La imposición de una sanción económica se graduará conforme a la gravedad de la falta y la condición del infractor, pero si la infracción se comete con fines de lucro, la multa podrá imponerse hasta por el equivalente a tres tantos del beneficio económico percibido por el infractor.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
@@ -1793,55 +1497,31 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 
 P.O. 6 DE SEPTIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 590 QUE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
-
-Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
-
-Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-G.O. 16 DE DICIEMBRE DE 2013.
-
-Primero. El presente Decreto entrará en vigor el primero de enero de 2014, previa publicación en la Gaceta Oficial, Órgano de Gobierno del Estado de Veracruz de Ignacio de la Llave.
-
-Segundo. La actualización de contribuciones, aprovechamientos y sus accesorios, prevista en la presente reforma, se calculará a partir del ejercicio fiscal 2014, aun cuando el hecho impositivo se hubiere producido con anterioridad a dicho ejercicio.
-
-Tercero. Las autoridades fiscales, mediante reglas de carácter general, establecerán las bases bajo las cuales los contribuyentes del Impuesto por la Prestación de Servicios de Hospedaje deberán cumplir con la obligación de dictaminar el referido impuesto en términos de la presente reforma, pudiendo en su caso brindar facilidades administrativas.
-
-Cuarto. Las autoridades fiscales, mediante reglas de carácter general, establecerán las bases bajo las cuales los contribuyentes del Impuesto sobre Loterías, Rifas, Sorteos y Concursos deberán cumplir con la obligación de dictaminar el referido impuesto en términos de la presente reforma.
-
-G.O. 31 DE DICIEMBRE DE 2013.
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
-
-Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-G.O. 30 DE DICIEMBRE DE 2014.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
-
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-G.O. 28 DE DICIEMBRE DE 2015.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-1007 MEDIANTE EL CUAL SE DECLARAN LOS DÍAS VEINTICINCO Y VEINTISÉIS DE DICIEMBRE DE 1842, FECHAS HISTÓRICAS OFICIALES PARA EL ESTADO DE TAMAULIPAS Y SE CONCEDE LA DISTINCIÓN DE HEROICA A LA CIUDAD DE MIER, TAMAULIPAS, EN RECONOCIMIENTO A SU VALIOSA CONTRIBUCIÓN EN DEFENSA DE LA SOBERANÍA NACIONAL; ASÍ TAMBIÉN, SE REFORMA LA FRACCIÓN XCIII, Y SE ADICIONA LA FRACCIÓN XCIV, RECORRIÉNDOSE EN SU ORDEN LA XCIV PARA SER XCV DEL ARTÍCULO 11 DE LA LEY SOBRE EL ESCUDO Y EL HIMNO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 625 QUE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+P.O. 21 DE DICIEMBRE DE 2016.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+###### ARTÍCULO PRIMERO.
 
-G.O. 28 DE JUNIO DE 2016.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 885 QUE ADICIONA LOS ARTÍCULOS 18 BIS Y 18 TER A LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+###### ARTÍCULO SEGUNDO.
 
-Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
 
-Artículo Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
+P.O. 20 DE ABRIL DE 2017.
 
-G.O. 30 DE DICIEMBRE DE 2016.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-157 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 23 DE LA LEY SOBRE EL ESCUDO Y EL HIMNO A TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 9 QUE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
