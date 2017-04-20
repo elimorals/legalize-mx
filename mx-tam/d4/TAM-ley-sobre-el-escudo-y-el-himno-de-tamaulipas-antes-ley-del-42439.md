@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-escudo-y-el-himno-de-tamaulipas-antes-ley-del-4243
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2016-12-21"
+last_updated: "2017-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL ESCUDO Y EL HIMNO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2017.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2004.
 
@@ -573,11 +573,11 @@ Sin demérito de la naturaleza federal de las concesiones de radio y televisión
 
 El Himno de Tamaulipas se ejecutará en actos solemnes de carácter oficial, cívico, cultural, escolar o deportivo. Cuando deba ejecutarse el Himno Nacional, el Himno de Tamaulipas se entonará con posterioridad a aquél.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2017)</small>
 
 ###### Artículo 23.
 
-La demostración civil de respeto al Himno de Tamaulipas se hará en posición de firmes y podrá colocarse la mano derecha sobre el pecho a la altura del corazón, con la palma hacia el cuerpo. Los varones se descubrirán la cabeza.
+La demostración civil de respeto al Himno de Tamaulipas se hará en posición de firmes y deberá colocarse la mano derecha sobre el pecho a la altura del corazón, con la palma hacia el cuerpo. Los varones se descubrirán la cabeza.
 
 ###### Artículo 24.
 
@@ -792,3 +792,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 20 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-157 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 23 DE LA LEY SOBRE EL ESCUDO Y EL HIMNO A TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
