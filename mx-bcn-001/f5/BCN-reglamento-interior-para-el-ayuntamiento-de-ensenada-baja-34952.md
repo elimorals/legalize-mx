@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2016-12-09"
+last_updated: "2017-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS ACUERDOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2016.
+REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE ENSENADA, B. C.
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -41,9 +43,11 @@ SECRETARIO FEDATARIO DEL XVII AYUNTAMIENTO
 
 LIC. GUILLERMO BERNARDO ISLAS LEON
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MARZO DE 2016)</small>
+
+REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE ENSENADA, B. C.
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -99,11 +103,11 @@ En caso de tratarse de actos o eventos donde se requiera la representación lega
 
 INTEGRACION DEL AYUNTAMIENTO.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADO, P.O. 22 DE NOVIEMBRE DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 8.
 
-El Ayuntamiento se integra por un Presidente Municipal, un Síndico Procurador, un Síndico Social y Regidores electos por el principio de mayoría relativa, y de representación proporcional, electos en el número y términos de lo dispuesto por la Constitución Política del Estado Libre y Soberano de Baja California, y la legislación correspondiente.
+El Ayuntamiento se integra por un Presidente Municipal, un Síndico Procurador y Regidores electos por el principio de mayoría relativa, y de representación proporcional, electos en el número y términos de lo dispuesto por la Constitución Política del Estado Libre y Soberano de Baja California, y la legislación correspondiente.
 
 Los integrantes del Ayuntamiento también son llamados Munícipes y/o ediles.
 
@@ -285,11 +289,11 @@ VII.- Promover la participación ciudadana en los programas y acciones del Gobie
 
 INASISTENCIAS A LAS SESIONES DE CABILDO Y COMISIONES.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADO, P.O. 22 DE NOVIEMBRE DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 26.
 
-El Síndico Procurador, el Síndico Social o los Regidores sólo podrán dejar de asistir a las sesiones de cabildo o comisiones a la que hayan sido previamente convocados, en los siguientes casos:
+El Síndico Procurador y a (sic) los Regidores sólo podrán dejar de asistir a las sesiones de cabildo o comisiones a la (sic) que hayan sido previamente convocados, en los siguientes casos:
 
 I.- Cuando previamente a la sesión, hayan avisado y expuesto el motivo de su inasistencia, por escrito, al Presidente Municipal o al Regidor que coordine la comisión respectiva, salvo casos fortuitos que impidan avisar oportunamente. Cuando la inasistencia corresponda al Coordinador de la Comisión, el aviso deberá darse al Secretario de la misma con la debida oportunidad; y
 
@@ -297,9 +301,9 @@ II.- Cuando haya sido comisionado por el Ayuntamiento, por el Presidente Municip
 
 III.- Cuando asistan a eventos fuera del municipio relacionados con su comisión dando cuenta previamente de la ausencia y a su regreso, deberán informar de los resultados obtenidos.
 
-(REFORMADO, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADO, P.O. 22 DE NOVIEMBRE DE 2013)
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
-Se considerarán inasistencias a las sesiones de cabildo, cuando algún Regidor, el Síndico Social o el Síndico Procurador que hubieren sido convocados, no se presenten aún cuando no se reúna el quórum correspondiente, para lo cual se deberá levantar acta circunstanciada por el Secretario Fedatario, donde precise los nombres de los presentes y ausentes, y demás hechos que considere necesarios.
+Se considerarán inasistencias a las sesiones de cabildo, cuando algún Regidor el Síndico Procurador que hubieren sido convocados, no se presenten aun cuando no se reúna el quórum correspondiente, para lo cual se deberá levantar acta circunstanciada por el Secretario Fedatario, donde precise los nombres de los presentes y ausentes, y demás hechos que considere necesarios.
 
 JUSTIFICACIÓN DE LAS INASISTENCIAS.
 
@@ -341,15 +345,17 @@ No se concederán licencias con goce de dietas cuando sea llamado el suplente, s
 
 SUPLENCIAS.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 31.
 
 Las ausencias en que incurran los Munícipes serán suplidas conforme el procedimiento previsto en el presente Reglamento, en los siguientes términos:
 
 I.- Las ausencias temporales del Presidente Municipal serán suplidas por un Regidor, mientras que las definitivas serán cubiertas por su suplente;
 
-(REFORMADA, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 22 DE NOVIEMBRE DE 2013)
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-II.- Las ausencias temporales del Síndico Procurador y del Síndico Social, no serán suplidas. En el caso de ausencias definitivas las cubrirá su suplente; y
+II.- Las ausencias temporales del Síndico Procurador, no serán suplidas. En el caso de ausencias definitivas las cubrirá su suplente;
 
 III.- Las ausencias temporales de los Regidores no se suplirán, a menos que sea necesario para garantizar el quórum en las sesiones de cabildo. En ese caso y en las ausencias definitivas, será llamado su suplente para cubrirlas;
 
@@ -375,11 +381,11 @@ III.- Mediante votación económica se tomará el acuerdo de cabildo para llamar
 
 SUPLENCIA DEL SÍNDICO PROCURADOR, SÍNDICO SOCIAL Y REGIDORES.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADO, P.O. 22 DE NOVIEMBRE DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 33.
 
-Cuando el Sindico Procurador, el Síndico Social o algún Regidor deban ausentarse de manera temporal, darán aviso al Ayuntamiento a través del Presidente Municipal. Tratándose de ausencia definitiva, solicitarán la autorización de la licencia correspondiente para separarse del cargo.
+Cuando el Síndico Procurador o algún Regidor deban ausentarse de manera temporal, darán aviso al Ayuntamiento a través del Presidente Municipal. Tratándose de ausencia definitiva, solicitarán la autorización de la licencia correspondiente para separarse del cargo.
 
 En los casos que se solicite y autorice la licencia, así como cuando las causas que generen una ausencia definitiva sobrevengan repentina o accidentalmente y que sea necesario llamar al suplente a Juicio del Ayuntamiento, éste lo acordará en Sesión de Cabildo.
 
@@ -545,6 +551,8 @@ En la sesión de instalación actuará como Secretario Fedatario el del Ayuntami
 
 FORMALIDADES DE LA SESION DE INSTALACIÓN.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 50.
 
 La sesión solemne de cabildo donde se instale el Ayuntamiento sólo tendrá ese objeto, por lo que se desarrollará con sujeción estricta a lo siguiente:
@@ -557,9 +565,11 @@ III.- El Secretario Fedatario tomará lista de presentes a los Munícipes entran
 
 IV.- Se procederá a realizar honores a los símbolos patrios, y después a tomar la protesta legal de los integrantes del Ayuntamiento entrante ante el representante del Congreso del Estado y demás personalidades de la comunidad, para lo cual primeramente lo hará el Presidente Municipal entrante pidiendo a los Munícipes y asistentes que se pongan de pie para pasar a exclamar elevando el brazo derecho: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Baja California, las Leyes que de ambas emanen y la reglamentación municipal, desempeñando leal y patrióticamente el cargo de Presidente Municipal que el pueblo de Ensenada me ha conferido, mirando en todo por el bien y el progreso del Municipio, y si así no lo hiciere que el pueblo de Ensenada me lo demande".
 
-(REFORMADO, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADO, P.O. 22 DE NOVIEMBRE DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2017)</small>
 
-Acto seguido, el Presidente Municipal entrante tomará la protesta a los demás integrantes del Ayuntamiento en los siguientes términos: "¿Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Baja California, las Leyes que de ambas emanen y la reglamentación municipal, desempeñando leal y patrióticamente el cargo de Síndico Procurador, Síndico Social y Regidores que el pueblo de Ensenada les ha conferido, mirando en todo por el bien y el progreso del Municipio?. Los Munícipes entrantes elevarán el brazo derecho y contestarán:
+Acto seguido, el Presidente Municipal entrante tomará la protesta a los demás integrantes del Ayuntamiento en los siguientes términos:"¿ Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Baja California, las Leyes que de ambas emanen y la reglamentación municipal, desempeñando leal y patrióticamente el cargo de Síndico Procurador y Regidores que el pueblo de Ensenada les ha conferido, mirando en todo por el bien y el progreso del Municipio?. Los Munícipes entrantes elevarán el brazo derecho y contestarán:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE ABRIL DE 2017)</small>
 
 "Sí, protesto"; el Presidente Municipal dirá: "Si así no lo hicieren, que el pueblo de Ensenada se los demande";
 
@@ -673,11 +683,11 @@ Para efectos de proceder a la celebración de sesiones de cabildo, deberá convo
 
 AUTORIDAD CONVOCANTE.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADO, P.O. 22 DE NOVIEMBRE DE 2013)
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 57.
 
-Para efectos de celebrar sesiones ordinarias, extraordinarias y solemnes de Cabildo, por instrucción del Presidente Municipal, la convocatoria será expedida por el Secretario Fedatario del Ayuntamiento y notificada al Síndico Procurador, al Síndico Social y a los Regidores.
+Para efectos de celebrar sesiones ordinarias, extraordinarias y solemnes de Cabildo, por instrucción del Presidente Municipal, la convocatoria será expedida por el Secretario Fedatario del Ayuntamiento y notificada al Síndico Procurador y a los Regidores.
 
 En el caso de la celebración de sesiones extraordinarias de Cabildo, a petición de la mayoría de sus miembros, el Presidente Municipal instruirá al Secretario Fedatario para expedir la convocatoria y notificarla al resto de los Munícipes.
 
@@ -691,6 +701,8 @@ La convocatoria se entregará personalmente a cada Munícipe recabando la firma 
 
 ORDEN DEL DIA.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 59.
 
 La convocatoria que se expida para la celebración de sesiones de Cabildo deberá ir acompañada del Orden del Día, mismo que deberá considerar en lo procedente según se hubieren agendado, por lo menos, los siguientes puntos:
@@ -701,9 +713,9 @@ II.- Lectura y aprobación del Orden del Día;
 
 III.- Lectura, discusión, y aprobación en su caso, del acta de la sesión anterior, excepto en los casos de dispensa;
 
-(REFORMADA, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 22 DE NOVIEMBRE DE 2013)
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-IV.- Presentación de informes del Presidente Municipal, Sindico Procurador, Síndico Social y de las Comisiones de Regidores;
+IV.- Presentación de informes del Presidente Municipal, Síndico Procurador y de las Comisiones de Regidores;
 
 V.- Presentación de dictámenes u opiniones de las Comisiones;
 
@@ -761,6 +773,8 @@ Actuará como Secretario Fedatario del Ayuntamiento, una persona distinta a los 
 
 ATRIBUCIONES DEL PRESIDENTE.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 64.
 
 El Presidente Municipal o quien ejerza sus funciones, en lo que al funcionamiento interior del Ayuntamiento se refiere, tendrá las siguientes atribuciones:
@@ -795,9 +809,9 @@ XIV.- Suscribir en unión con el Secretario Fedatario del Ayuntamiento, los acue
 
 XV.- Dar publicidad a los reglamentos y demás disposiciones de carácter general aprobados por el Ayuntamiento;
 
-(REFORMADA, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 22 DE NOVIEMBRE DE 2013)
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-XVI.- Convocar y promover reuniones de consensos con el Síndico Procurador, el Síndico Social y los Regidores coordinadores que representen a los diferentes partidos políticos con presencia en el Ayuntamiento, con el objeto de promover entendimientos y convergencias políticas que resulten necesarios para alcanzar acuerdos a fin de que el Ayuntamiento, esté en mejores condiciones de adoptar las decisiones que constitucional, legal y reglamentariamente le corresponden;
+XVI.- Convocar y promover reuniones de consensos con el Síndico Procurador y los Regidores coordinadores que representen a los diferentes partidos políticos con presencia en el Ayuntamiento, con el objeto de promover entendimientos y convergencias políticas que resulten necesarios para alcanzar acuerdos a fin de que el Ayuntamiento, esté en mejores condiciones de adoptar las decisiones que constitucional, legal y reglamentariamente le corresponden; y,
 
 XVII.- En general, tomar las medidas necesarias, durante la celebración de las sesiones, para proveer al cumplimiento de la Ley, del presente Reglamento y de los Acuerdos del Cabildo.
 
@@ -1241,25 +1255,37 @@ Con el propósito de vincular los trabajos de la Comisión a la función de Gobi
 
 ATRIBUCIONES DE LAS COMISIONES.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 105.
 
 Para ejercer las atribuciones que como órganos de trabajo del Ayuntamiento le corresponden, las Comisiones actuarán conforme a lo siguiente:
 
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
 I.- Tendrán facultad para estudiar y supervisar que se ejecuten los Acuerdos de Cabildo y demás disposiciones aplicables al Gobierno y a la Administración Pública Municipal;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
 II.- Propondrán al Ayuntamiento los proyectos de solución o los problemas de su conocimiento, a efecto de atender todos los ramos de la Administración Pública Municipal, mediante opinión o dictamen de los asuntos que les sean turnados;
 
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
 III.- Actuarán con plena autoridad para requerir por conducto del Presidente Municipal y por escrito a los titulares de las dependencias y entidades de la Administración Pública Municipal, la información que requieran para el despacho de los asuntos de su conocimiento y el desarrollo de su función;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
 IV.- Supervisarán el correcto funcionamiento de las dependencias y entidades de la Administración Pública Municipal relativas al ramo o materia de la Comisión y coadyuvarán en la promoción, difusión de sus programas o acciones; y
 
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
 V.- Realizar anualmente la glosa del informe de gobierno municipal que presente el Presidente Municipal, de acuerdo al ramo de la administración que le corresponda.
 
-VI.- Ejercerán las demás facultades que les señalen este Reglamento o los Acuerdos de Cabildo, siempre y cuando no correspondan a las del Presidente Municipal, el Síndico Procurador y Sindico Social.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+VI.- Ejercerán las demás facultades que les señale este Reglamento o los Acuerdos de Cabildo, siempre y cuando no correspondan a las del Presidente Municipal y el Síndico Procurador.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 Por su naturaleza, las Comisiones no podrán asumir funciones ejecutivas ni de representación del Ayuntamiento."
 
@@ -1291,7 +1317,9 @@ II.- Comisiones conjuntas.- Son aquellas a las que se encomiende el estudio, an�
 
 III.- Comisiones especiales.- Son aquellas de carácter temporal o transitorio, que se constituyen por Acuerdo de Cabildo para conocer de los hechos o asuntos específicos que hayan motivado su creación y que no estén previstos para las comisiones permanentes, preferentemente para atender o investigar una situación y rendir un informe al Presidente y/o al Ayuntamiento. Estas dejarán de existir sin necesidad de declaración especial al cumplir sus objetivos o en el término señalado en el acuerdo de creación.
 
-INTEGRACION DE LAS COMISIONES PERMANENTES.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+INTEGRACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES PERMANENTES.
 
 ###### ARTÍCULO 108.
 
@@ -1304,6 +1332,24 @@ En su primera reunión de trabajo, las Comisiones designarán de entre sus miemb
 Las comisiones permanentes sesionarán por lo menos una vez al mes, ya sea para emitir dictamen sobre algún asunto turnado a la misma o discutir en su caso, sobre el análisis, supervisión y vigilancia de la dependencia relacionada con su comisión, así como la elaboración de proyectos de trabajo que permitan mayor eficiencia en la captación de recursos (tratándose de dependencia recaudadora), o un mejor funcionamiento.
 
 La modificación de la integración y coordinación de las comisiones podrá tener lugar en cualquier tiempo por acuerdo del Ayuntamiento a propuesta del Presidente Municipal y/o el coordinador de la comisión cuando algún miembro de la misma no cumpla con su cometido. El cambio de Secretario de una comisión podrá realizarse en cualquier tiempo por acuerdo de sus integrantes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE ABRIL DE 2017)</small>
+
+Cada comisión permanente elaborará y aprobará un programa de trabajo dentro de los tres primeros meses del Inicio del periodo constitucional del Ayuntamiento, mismo que deberá contener lo siguiente:
+
+I.- La programación de sus sesiones ordinarias;
+
+II.- La agenda normativa de la comisión;
+
+III.- La metodología de trabajo en grupos, comités o subcomisiones para atender asuntos, del ramo que coordina cada comisión;
+
+IV.- La organización de reuniones, consultas, visitas, entrevistas, audiencias e invitaciones a particulares y funcionarios estatales y federales, así como el desahogo de comparecencias de servidores públicos municipales para atender asuntos del ramo que coordina cada comisión; y,
+
+V.- Las demás actividades que deban planificarse para el mejor funcionamiento de cada comisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE ABRIL DE 2017)</small>
+
+El programa de trabajo deberá enviarse a la Secretaría General del Ayuntamiento dentro de los quince días posteriores a su aprobación, para su publicación en la Gaceta Municipal y su difusión en los medios electrónicos e impresos disponibles.
 
 DE LA INTEGRACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES ESPECIALES Y CONJUNTAS.
 
@@ -1325,9 +1371,17 @@ III.- Someter a consideración el orden del día, en que deberán ser atendidos 
 
 IV.- Emitir voto de calidad en caso de empate;
 
-V.- Presentar al Ayuntamiento en Sesión de Cabildo, un informe trimestral de los trabajos de la Comisión; y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-VI.- Las demás que le señale este Reglamento y en general, aquellas que resulten necesarias para garantizar el debido funcionamiento de la Comisión.
+V.- Presentar al Ayuntamiento en Sesión de Cabildo, un informe trimestral de los trabajos de la Comisión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2017)</small>
+
+VI.- Someter a consideración de los integrantes de la Comisión, el programa de trabajo que la misma desarrollará para el cumplimiento de sus funciones; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2017)</small>
+
+VII.- Las demás que le señale este Reglamento y en general, aquellas que resulten necesarias para garantizar el debido funcionamiento de la Comisión.
 
 SECRETARIO DE COMISION.
 
@@ -1349,19 +1403,21 @@ VI.- Las demás que el Coordinador o la Comisión le encomienden.
 
 MUNICIPES NO MIEMBROS DE LA COMISION.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADO, P.O. 22 DE NOVIEMBRE DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 112.
 
-El Presidente Municipal podrá participar en todas las Comisiones que considere necesario, el Síndico Procurador se adherirá a cualquiera de ellas cuando los asuntos que se traten, involucren los intereses patrimoniales del Ayuntamiento o se relacionen con el ejercicio de sus funciones, el Síndico social se adherirá a cualquiera de ellas cuando los asuntos de que se traten, versen sobre temas y acciones de Desarrollo Social o se relacionen con el desarrollo de sus funciones. Dichos munícipes participarán con derecho a voz, pero sin derecho a voto.
+El Presidente Municipal podrá participar en todas las Comisiones que considere necesario, y el Síndico Procurador se adherirá a cualquiera de ellas cuando los asuntos que se traten, involucren los intereses patrimoniales del Ayuntamiento o se relacionen con el ejercicio de sus funciones. Dicho munícipe participará con derecho a voz, pero sin derecho a voto.
 
 Los Regidores que no sean miembros de una comisión podrán asistir a las reuniones de ésta con voz, pero sin voto.
 
 PARTICIPACION DE FUNCIONARIOS Y CIUDADANOS.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 113.
 
-Las sesiones de las Comisiones no serán públicas; sin embargo, cuando así lo acuerden sus integrantes, celebrarán reuniones de información y audiencia a las que podrán asistir ciudadanos interesados en el asunto de que se trate, a fin de conocer o recibir orientación del mismo. En su caso, tratándose de funcionarios públicos de la administración municipal podrán ser invitados por escrito, cuando el tema de la sesión lo amerite, a través del Presidente Municipal.
+Las sesiones de las Comisiones no serán públicas; sin embargo, cuando así lo acuerden sus integrantes, celebrarán reuniones de información y audiencia a las que podrán asistir ciudadanos interesados en el asunto de que se trate, a fin de conocer o recibir orientación del mismo. En su caso, tratándose de funcionarios públicos de la administración municipal podrán ser invitados por escrito por el Coordinador, cuando el punto de acuerdo de la sesión amerite.
 
 Los funcionarios y/o servidores públicos no serán sujetos de reclamos o llamadas de atención en estas sesiones.
 
@@ -1381,9 +1437,13 @@ II.- Hacienda y Patrimonio Municipal;
 
 III.- Administración Pública y Fortalecimiento Municipal;
 
-IV.- Equidad y Género;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-V.- Obras y Servicios Públicos;
+IV.- Equidad Social e Igualdad de Género;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+V.- Obras y Servicios Públicos e infraestructura;
 
 VI.- Desarrollo Urbano;
 
@@ -1459,63 +1519,89 @@ VI.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesar
 
 VII.- Revisar mensualmente los informes de la Tesorería Municipal respecto del estado de origen y aplicación de recursos, incluyendo un extracto de los movimientos de cada sub-cuenta, así como de los movimientos de ingresos y egresos.
 
-COMISION DE EQUIDAD Y GÉNERO.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+COMISIÓN DE EQUIDAD SOCIAL E IGUALDAD DE GÉNERO
 
 ###### ARTÍCULO 117.
 
 Atribuciones:
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-I.- Dictaminar respecto de los proyectos de reglamentos y disposiciones normativas de observancia general, formalizando de manera sustantiva la aplicación de las políticas públicas encaminadas a lograr una Cultura de Equidad y Género.
+I.- Dictaminar sobre cuestiones y asuntos tendientes a garantizar la igualdad y equidad en todas las esferas de la vida social, educativa, cultural, laboral, económica y política, entre hombre y mujer;
 
-> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-II.- Proponer al Ayuntamiento:
+II.- Proponer al Ayuntamiento políticas públicas, así como promover y realizar investigaciones y estudios normativos tendientes a garantizar relaciones equitativas e igualitarias entre hombre y mujer;
 
-a) Los mecanismos e instrumentos que resulten necesarios para promover la implementación de políticas públicas encaminadas a la Equidad y Genero, en las dependencias Municipales y Paramunicipales.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-b) La integración de programas y acciones a favor del desarrollo de la comunidad respecto al enfoque de equidad y genero en las dependencias y entidades del Municipio.
+III.- Dar seguimiento y supervisar las acciones de la administración pública municipal con la finalidad de verificar la plena observancia de las disposiciones generales en materia de igualdad entre el hombre y la mujer;
 
-c) Los dispositivos y lineamientos necesarios para mejorar la atención que las dependencias Municipales brindan a la comunidad haciendo referencia al enfoque de Equidad y Género.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-d) La realización de estudios e informes técnicos de diagnostico sobre la situación de las mujeres y hombres en materia de igualdad laboral y retribución económica, dentro de las diferentes dependencias Municipales y Paramunicipales, siendo la Comisión quien supervisara los trabajos
+IV.- Impulsar proyectos normativos y acciones que fortalezcan las condiciones de desarrollo integral de la mujer.
 
-> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-III.- Coordinar e Impulsar acciones afirmativas con diferentes órganos de gobierno, orientados al cumplimiento de la igualdad de Géneros, en los ámbitos público y privado.
+V.- Evaluar la reglamentación municipal en materia de género y sobre derechos humanos de las mujeres y de los hombres, promoviendo su armonización con las disposiciones aplicables.
 
-> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-IV.- Vigilar y fomentar las condiciones de la participación social, política y económica dirigida a lograr la igualdad entre mujeres y hombres, en los ámbitos públicos y privados del Municipio.
+VI.- Impulsar las propuestas de la sociedad para alcanzar la equidad social e igualdad de género en el ámbito político, social, cultural y económico.
 
-> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-V.- Coadyuvar con las Dependencias Federales, Estatales y Municipales, en la consolidación de los programas en materia de equidad y género, para garantizar el ejercicio pleno de los derechos de las mujeres y hombres.
+VII.- Coadyuvar ante las autoridades de los tres niveles de gobierno acciones encaminadas al ejercicio pleno de los derechos de las mujeres y de los hombres.
 
-> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-VI.- Supervisar el correcto funcionamiento de los servicios que preste el Instituto Municipal de la Mujer de Ensenada (INMUJERE) y recibir de éste los informes relativos al gasto público de las acciones y programas que se lleven a cabo por el mismo, y
+VIII.- Colaborar con organismos de la sociedad civil para establecer estrategias y programas en relación a la equidad social e igualdad de género y propiciar su difusión y beneficios de la comunidad.
 
-> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-VII.- Impulsar ante el Pleno de Cabildo Iniciativas y/o Puntos de Acuerdo, promoviendo los derechos específicos de la mujer como derechos humanos universales, encaminados a la erradicación de las distintas modalidades de discriminación y/o violencia de Género.
+IX.- Promover el reconocimiento público de hombres y mujeres sobresalientes en los ámbitos, políticos, social, cultural, deportivo y demás actividades que resalten la oportunidad de equidad social e igualdad de género.
 
-COMISION DE OBRAS Y SERVICIOS PUBLICOS.
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+X.- Proponer al Ayuntamiento la adopción de programas y medidas que tiendan a incentivar la promoción del empleo y desarrollo integral de sus habitantes procurando la equidad social e igualdad de género.
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+XI.- Supervisar el correcto funcionamiento de los servicios que preste el Instituto Municipal de la Mujer de Ensenada (INMUJER) y recibir de este los informes relativos al gasto público de acciones y programas que se lleven a cabo por el mismo.
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+XII.- Impulsar ante el pleno de Cabildo Iniciativas y/o Puntos de Acuerdo, promoviendo los derechos específicos de la mujer como derechos humanos universales, encaminados a la erradicación de las distintas modalidades de discriminación y/o violencia de (sic) Social y de Género.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+COMISIÓN DE OBRAS Y SERVICIOS PÚBLICOS E INFRAESTRUCTURA.
 
 ###### ARTÍCULO 118.
 
 Atribuciones:
 
-I.- Dictaminar respecto de los proyectos de reglamentos y disposiciones normativas de observancia general en materia de obras y servicios públicos;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-II.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesarios para mejorar la prestación de los servicios públicos municipales;
+I.- Dictaminar respecto de los proyectos de reglamentos y disposiciones normativas de observancia general en materia de obras y servicios públicos e infraestructura;
 
-III.- Dictaminar respecto de los proyectos de disposiciones normativas relacionadas con la municipalización y concesión de servicios públicos municipales, y la concurrencia del Ayuntamiento con los Gobiernos Federal y Estatal en su prestación;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-IV.- Dictaminar respecto de los proyectos de convenio por los que el Ayuntamiento concurra con otros Gobiernos Municipales en la prestación de los servicios públicos; y
+II.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesarios para mejorar la prestación de los Servicios Públicos e Infraestructura Municipal;
 
-V.- Dictaminar sobre el programa anual de obra pública municipal.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+III.- Dictaminar respecto de los proyectos de disposiciones normativas relacionadas con la municipalización y concesión de servicios públicos e infraestructura municipal, y la concurrencia del Ayuntamiento con los Gobiernos Federal y Estatal en su prestación;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+IV.- Dictaminar respecto de los proyectos de convenio por los que el Ayuntamiento concurra con otros Gobiernos Municipales en la prestación de los servicios públicos;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+V.- Dictaminar sobre el programa anual de Obra pública e infraestructura municipal.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
 
@@ -1879,7 +1965,9 @@ CONVOCATORIA.
 
 Las sesiones de las comisiones serán convocadas por su Coordinador, o el secretario de la comisión en su caso, cuando menos con cuarenta y ocho horas de anticipación, indicándose fecha, hora, lugar y asuntos a tratar. Para notificar la convocatoria a los Regidores integrantes de la Comisión, se observara el procedimiento aplicable en el caso de convocatorias a sesiones de cabildo.
 
-A los demás integrantes del Ayuntamiento, incluyendo al Síndico Procurador, Síndico Social y al Presidente Municipal, se les turnará copia de la convocatoria para su conocimiento.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+A los demás integrantes del Ayuntamiento, incluyendo al Síndico Procurador y al Presidente Municipal, se les turnará copia de la convocatoria para su conocimiento.
 
 A las convocatorias, incluyendo las remitidas a los munícipes no miembros de la comisión, deberán adjuntarse copias fotostáticas o enviarse por medio electrónico, los proyectos de los asuntos a tratar, el expediente de los mismos y cualquier información adicional que obre en la comisión convocante.
 
@@ -1955,11 +2043,11 @@ En la sesión ordinaria de Cabildo inmediata anterior a la que deba rendirse el 
 
 SANCIONES A MUNICIPES POR INASISTENCIAS A SESIONES DE CABILDO.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADO, P.O. 22 DE NOVIEMBRE DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 135.
 
-Los Regidores, el Síndico Social o el Sindico Procurador que sin causa justificada dejen de asistir a dos sesiones de cabildo de manera consecutiva, serán exhortados por él Presidente Municipal para que concurran a la siguiente sesión, dando fe de dicho acto el Secretario Fedatario del Ayuntamiento, quien será el encargado de notificar por escrito al faltista.
+Los Regidores o el Síndico Procurador que sin causa justificada dejen de asistir a dos sesiones de cabildo de manera consecutiva, serán exhortados por él Presidente Municipal para que concurran a la siguiente sesión, dando fe de dicho acto el Secretario Fedatario del Ayuntamiento, quien será el encargado de notificar por escrito al faltista.
 
 Si una vez formulada la exhortación se incurriere en otra inasistencia injustificada, se impondrá una multa equivalente a quince días del ingreso que perciba por su dieta, aplicando la retención por conducto de la Tesorería Municipal y destinando esos recursos a los programas de asistencia social. Si se incurriera en faltas injustificadas a cuatro sesiones de cabildo consecutivas, procederá la revocación del mandato, en los términos previstos por este Reglamento.
 
@@ -2187,6 +2275,30 @@ TERCERO.- Se derogan todas las disposiciones contrarias a la presente reforma.
 
 P.O. 9 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE REFORMA DE LOS ARTÍCULOS 114 Y 119, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 127 UNDECIES DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA".]
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE REFORMA DE LOS ARTÍCULOS 114 Y 119, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 127 UNDECIES DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR LOS ARTÍCULOS 108 Y 110 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, RELATIVO A DICTAMEN 011/2017”.]
+
+ÚNICO.- Las presente reforma entrarán en vigor el día 01 de Enero del 2018 siguiente una vez publicado en el periódico oficial del Estado de Baja California.
+
+P.O. 21 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 114 FRACCIÓN IV Y V, 117 Y 118 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, RELATIVO A DICTAMEN 024/2017".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 113 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, RELATIVO A DICTAMEN 026/2017”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO DEL CONSEJO CIUDADANO PARA LA PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO PARA LA PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO DEL COMITÉ MUNICIPAL CONTRA LAS ADICCIONES DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO INTERIOR DE LA SINDICATURA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO PARA EL USO DE VEHÍCULOS OFICIALES DEL GOBIERNO MUNICIPAL DE ENSENADA, BAJA CALIFORNIA, DE RELATIVO A DICTAMEN 007/2017."]
+
+UNICO.- La presente reforma y derogaciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
