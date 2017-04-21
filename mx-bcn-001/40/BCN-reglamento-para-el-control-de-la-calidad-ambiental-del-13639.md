@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-control-de-la-calidad-ambiental-del-13639"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-01-29"
-last_updated: "2016-05-20"
+last_updated: "2017-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,7 +26,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL CONTROL DE LA CALIDAD AMBIENTAL DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 29 de enero de 1999.
 
@@ -576,13 +576,15 @@ Los poseedores o propietarios de vehículos automotores que transporten material
 
 ### CAPITULO CUARTO. PREVENCION Y CONTROL DE LA CONTAMINACION DEL SUELO Y CONTROL DE RESIDUOS SOLIDOS
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### Artículo 40.
 
-Las disposiciones previstas en el presente capítulo tienen por objeto regular el manejo y disposición final de los residuos sólidos, para prevenir y controlar los efectos sobre el medio ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos.
+Las disposiciones previstas en el presente capítulo tienen por objeto regular el manejo y disposición final de los residuos sólidos, para prevenir y controlar los efectos sobre el medio ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento, utilización, facilitación, obsequio y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
-Artículos 41.- La Dirección tendrá a su cargo la aplicación de las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos en los términos de la Ley General y la Ley Estatal.
+Artículos 41.- La Dirección tendrá a su cargo la aplicación de las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento utilización, facilitación, obsequio y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos en los términos de la Ley General y la Ley Estatal. Las atribuciones a que se refiere este artículo, se ejercerán sin perjuicio de las disposiciones aplicables en materia de salud.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
@@ -613,6 +615,12 @@ Los centros comerciales, hospitales, talleres, restaurantes, oficinas, centros d
 ###### Artículo 43 Ter.
 
 Los establecimientos mercantiles o de servicios deberán comprobar la disposición final de los residuos sólidos urbanos que generan por la actividad, por medio de comprobantes fiscales expedidos por el relleno sanitario, estaciones de transferencia, centros de acopio o mediante contrato con una empresa recolectora de residuos sólidos urbanos autorizada.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+Artículo 43 Cuarter (sic).- Dentro del ámbito territorial del Municipio de Ensenada, Baja California, los centros comerciales, hospitales, talleres, restaurantes, oficinas, centros de espectáculos o similares y demás sitios mercantiles o de servicios no podrán proporcionar bolsas de plástico para carga, envoltura o empaque. Lo dispuesto en el párrafo anterior, no se aplicará cuando las bolsas de plástico sean fabricadas con materiales que permitan su reciclado, reutilización o pronta biodegradación. En todo caso el ciclo de vida de las bolsas de plástico no será mayor a diez años, procurando la utilización de materiales provenientes de recursos renovables, como los biopolímeros para su pronta biodegradación en los destinos finales. Las bolsas de cualquier otro material no plástico que garanticen su reutilización y reciclaje no estarán sujetas a este plazo.
+
+En el caso de las bolsas que cuenten con un aditivo que sea incompatible con el reciclaje, estas deberán garantizar tener un ciclo de vida menor a cinco años
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
@@ -838,7 +846,7 @@ Los propietarios de fuentes de jurisdicción municipal, generadoras de vibracion
 
 ###### Artículo 78.
 
-Los establecimientos y actividades mercantiles o de servicios que generen ruidos, deberán construirse o instalarse de manera que permitan un aislamiento acústico suficiente para que el ruido que generen, al trascender las construcciones adyacentes, a los predios colindantes o la vía pública, no rebasen los niveles máximos permisibles establecidos en la normatividad ambiental vigente que las regule, o las condiciones particulares de emisión establecidas en la licencia ambiental..
+Los establecimientos y actividades mercantiles o de servicios que generen ruidos, deberán construirse o instalarse de manera que permitan un aislamiento acústico suficiente para que el ruido que generen, al trascender las construcciones adyacentes, a los predios colindantes o la vía pública, no rebasen los niveles máximos permisibles establecidos en la normatividad ambiental vigente que las regule, o las condiciones particulares de emisión establecidas en la licencia ambiental.
 
 ###### Artículo 79.
 
@@ -1853,3 +1861,9 @@ SEGUNDO.- Siendo aprobada la presente reforma, incorpórese al libro de actas y 
 SEGUNDO.- Túrnese a la Secretaria General para los trámites y efectos legales a que haya lugar.
 
 TERCERO.- Cúmplase.
+
+P.O. 21 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 40 Y 41 DEL REGLAMENTO PARA EL CONTROL DE LA CALIDAD AMBIENTAL DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, RELATIVO AL DICTAMEN 001/2017".]
+
+ÚNICO.- La presente reforma entrará en vigor dentro de los 180 días naturales a partir del día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
