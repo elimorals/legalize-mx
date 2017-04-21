@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-etica-de-los-servidores-publicos-del-gobierno-del-121
 country: "mx"
 rank: "codigo"
 publication_date: "2017-04-10"
-last_updated: "2017-04-10"
+last_updated: "2017-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SIN"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DEL GOBIERNO DEL ESTADO DE SINALOA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 21 DE ABRIL DE 2017 Y EL 13 DE NOVIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE SINALOA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL GOBIERNO DEL ESTADO DE SINALOA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 21 DE ABRIL DE 2017 NO APLICA AL ARTICULADO DEL ACUERDO PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2017.]</small>
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Sinaloa, el lunes 10 de abril de 2017.
 
