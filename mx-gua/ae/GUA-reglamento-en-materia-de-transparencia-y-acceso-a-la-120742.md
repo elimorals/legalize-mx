@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-en-materia-de-transparencia-y-acceso-a-la-120742"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-03-03"
-last_updated: "2017-03-03"
+last_updated: "2017-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ABRIL DE 2017 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE ABRIL DE 2017.]
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 3 de marzo de 2017.
 
@@ -63,7 +63,9 @@ VI. Representación Parlamentaria: Es la forma de organización que adoptarán d
 
 VII. Unidad de Transparencia: La Unidad de Transparencia del Poder Legislativo; y
 
-VIII. Unidades Administrativas: Las dependencias a que se refiere el Título Noveno de la Ley Orgánica del Poder Legislativo del Estado de Guanajuato, y las unidades, áreas o estructuras administrativas de éstas.
+> <small>(F. DE E., P.O. 21 DE ABRIL DE 2017)</small>
+
+VIII. Unidades Administrativas: Las dependencias a que se refiere el Título Décimo de la Ley Orgánica del Poder Legislativo del Estado de Guanajuato, y las unidades, áreas o estructuras administrativas de éstas.
 
 Principios rectores
 
