@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2017-03-18"
+last_updated: "2017-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -1253,13 +1253,25 @@ XLIX. Integrar el programa anual de inversión pública del Estado; y
 
 L. Emitir reglas de carácter general que faciliten el cumplimiento de las obligaciones fiscales a cargo de los contribuyentes de la Hacienda Pública Estatal.
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-LI. Emitir lineamientos para la presentación de los informes de Avance de Gestión en términos de lo dispuesto por la Ley General de Contabilidad Gubernamental y Ley Estatal de Presupuesto y Responsabilidad Hacendaria; y
+LI. Emitir lineamientos para la presentación de los informes de Avance de Gestión en términos de lo dispuesto por la Ley General de Contabilidad Gubernamental y la Ley Estatal de Presupuesto y Responsabilidad Hacendaria;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-LII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su reglamento interno y demás disposiciones normativas aplicables.
+LII. Coordinar, supervisar y evaluar las actividades y resultados del Monte de Piedad del Estado de Oaxaca;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+LIII. Atender los mecanismos de vigilancia y supervisión conjuntamente con las áreas involucradas en la planeación, organización y ejecución de las giras de trabajo y eventos especiales del Gobernador;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+LIV. Administrar el Hangar Oficial del Gobierno del Estado, y
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+LV. Administrar la Casa Oficial del Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -1363,13 +1375,11 @@ XXXIII. Establecer políticas generales y programas estratégicos para la mejora
 
 XXXIV. Administrar los parques y espacios recreativos en su custodia;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+XXXV. (DEROGADO, P.O. 21 DE ABRIL DE 2017)
 
-XXXV. Atender los mecanismos de vigilancia y supervisión conjuntamente con las áreas involucradas en la planeación, organización y ejecución de las giras de trabajo y eventos especiales del Gobernador;
+XXXVI. (DEROGADO, P.O. 21 DE ABRIL DE 2017)
 
-XXXVI. Administrar el Hangar Oficial del Gobierno del Estado;
-
-XXXVII. Administrar la Casa Oficial del Gobierno del Estado;
+XXXVII. (DEROGADO, P.O. 21 DE ABRIL DE 2017)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -2898,3 +2908,29 @@ P.O. 18 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 576.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO TRANSITORIO DÉCIMO SEGUNDO DEL DECRETO NÚMERO 564 EMITIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA Y PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE OAXACA EL VEINTIOCHO DE ENERO DE DOS MIL DIECISIETE".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 21 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 578.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL MONTE DE PIEDAD DEL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA."]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las áreas administrativas a través de la Secretaría de Administración, que por este Decreto se transfieren o cambian de sector, o se extinguen y transfieren sus recursos humanos, materiales y financieros se entenderán subrogadas y contraídas por sus correlativas.
+
+TERCERO. Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las áreas y entidades, cuyas funciones se reforman en virtud de esta Ley, se entenderán referidas a las áreas y entidades a quienes respectivamente, corresponden tales funciones.
+
+CUARTO. Los recursos humanos, financieros y materiales que venía utilizando el área administrativa de Giras, el Hangar y Casa Oficial bajo la administración de la Secretaría de Administración, se trasferirán a la Secretaría de Finanzas, debiendo intervenir en el ámbito de sus competencias; la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+QUINTO. Las Secretarías de Finanzas, de Administración y de la Contraloría y Transparencia Gubernamental, en uso de sus facultades legales, realizarán todos los actos concernientes para el debido cumplimiento del presente Decreto.
+
+SEXTO. Los asuntos que con motivo de estas reformas, deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado, hasta que las áreas administrativas que se trasfieren se incorporen a la Dependencia que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+SÉPTIMO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar los cambios en las estructuras orgánicas que por esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca se derogan o transfieren, así como para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación del presente Decreto, informando las adecuaciones a la Legislatura del Congreso del Estado.
+
+OCTAVO. En todos los casos que por la aplicación de esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca se modifique la estructura orgánica de las áreas administrativas y entidades o sus áreas administrativas de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables de la materia.
+
+NOVENO. Se faculta al Titular de la Secretaría de Finanzas para que, en términos de lo establecido en la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, y su Reglamento, así como en el Decreto que autoriza el Presupuesto de Egresos del Estado de Oaxaca para el ejercicio fiscal dos mil diecisiete, realice los ajustes presupuestales que correspondan, para el cumplimiento del presente Decreto, informando a la Legislatura del Congreso del Estado, para los efectos legales conducentes.
+
+DÉCIMO. El Consejo de Administración del Monte de Piedad deberá quedar instalado dentro de los siguientes 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Titular del Poder Ejecutivo en un término no mayor a 60 días hábiles siguientes al de la entrada en vigor del presente Decreto, publicará las adecuaciones reglamentarias necesarias de conformidad con la presente reforma.
