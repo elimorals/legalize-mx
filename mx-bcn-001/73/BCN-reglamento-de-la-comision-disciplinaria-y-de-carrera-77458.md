@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-comision-disciplinaria-y-de-carrera-77458"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-19"
-last_updated: "2015-10-16"
+last_updated: "2017-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA COMISIÓN DISCIPLINARIA Y DE CARRERA DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 19 de noviembre de 2010.
 
@@ -603,7 +603,7 @@ A efecto de llevar a cabo el desahogo del procedimiento de separación definitiv
 
 ### CAPITULO PRIMERO. DE SU COMPETENCIA E INTEGRACION
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2015)</small>
+> <small>[N. DE E. DE ANÁLISIS AL ACUERDO PUBLICADO EN EL P.O. DE 21 DE ABRIL DE 2017, SE ADVIERTE QUE LA FRACCIÓN III DEL PRESENTE ARTÍCULO CONTABA CON CINCO INCISOS, POR LO QUE SE SUGIERE CONSULTAR SU CRONOLOGÍA.]</small>
 
 ###### ARTÍCULO 29.
 
@@ -613,31 +613,27 @@ I.- Un Presidente, que será el Director;
 
 II.- Un Secretario Técnico, que será el Jefe del Departamento de Responsabilidades y de Situación Patrimonial de la Sindicatura Municipal.
 
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+
 III.- Cinco Vocales, que serán:
 
 A) El Titular de la Sindicatura Municipal.
 
 B) El Regidor Coordinador de la Comisión de Seguridad, Tránsito y Transporte.
 
-C) Un Representante, de las unidades operativas de investigación, prevención y reacción de la Dirección de Seguridad Pública Municipal, que deberá ser un miembro condecorado, en términos de la Ley, quien deberá contar, además con la certificación del Centro de Evaluación y Control de Confianza y la aprobación de la Sindicatura Municipal en relación a sus antecedentes.
+C) Un Representante, de la (sic) Subdirecciones operativas de investigación, prevención y reacción de la Dirección de Seguridad Pública Municipal, que deberá ser un miembro condecorado, en términos de la Ley, quien deberá contar, además con la certificación del Centro de Evaluación y Control de Confianza y la aprobación de la Sindicatura Municipal en relación a sus antecedentes.
 
-D) Un representante de la Asociación de Policía legalmente constituida a la cual pertenezca el miembro sujeto a procedimiento.
-
-E) El Presidente del Comité Ciudadano de Seguridad Pública de Ensenada Baja California.
-
-Todos los integrantes tendrán derecho a voz y voto, a excepción del Secretario técnico y el representante de cualquiera de las asociaciones, que tendrán derecho a voz pero sin voto.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 30.
 
 Cuando el asunto a tratar corresponda a una controversia que se suscite con relación a procedimientos del Servicio de Carrera Policial; además de los integrantes de la Comisión a que se refiere el artículo que antecede, deberán incorporarse a la misma en calidad de Vocales, los servidores públicos siguientes:
 
-I.- El Coordinador de Profesionalización de la Dirección.
+I.- El subdirector de Profesionalización y desarrollo, de la dirección.
 
-II.- El Coordinador Administrativo de la Dirección.
+II.- El subdirector Administrativo, de la dirección.
 
-III.- El Regidor Coordinador de la Comisión de Hacienda y Patrimonio Municipal.
+III.- El Regidor Coordinador de la Comisión de Hacienda y Patrimonio Municipal
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -958,3 +954,9 @@ PRIMERO.- La presente reforma reglamentaria, entrará en vigor al día siguiente
 SEGUNDO.- Túrnese a la Secretaría General del Ayuntamiento para los efectos legales a que haya lugar.
 
 TERCERO.- Cúmplase.
+
+P.O. 21 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 29 Y 30, DEL REGLAMENTO DE LA COMISIÓN DISCIPLINARIA Y DE CARRERA POLICIAL DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA, RELATIVO DICTAMEN 005/2017”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
