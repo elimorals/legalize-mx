@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-designar-estimular-y-reconocer-a-ciudadanos-603
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-14"
-last_updated: "2015-03-27"
+last_updated: "2017-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA DESIGNAR, ESTIMULAR Y RECONOCER A CIUDADANOS, HUÉSPEDES Y VISITANTES DISTINGUIDOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 27 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de marzo de 2008.
 
@@ -37,7 +35,9 @@ A C U E R D O:
 
 Se aprobó en lo general y en lo particular por votación nominal y unánime de los munícipes presentes del XIX Ayuntamiento Constitucional de Ensenada, Baja California, el Dictamen No. 05/2008, presentado por las Comisiones Conjuntas de Gobernación y Legislación y la de Educación y Cultura, relativo al Proyecto de REGLAMENTO PARA DESIGNAR, ESTIMULAR Y RECONOCER A CIUDADANOS DISTINGUIDOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA.
 
-ANTECEDENTES: ...
+ANTECEDENTES:
+
+[...]
 
 Se pone a consideración del H. Ayuntamiento Constitucional de Ensenada, Baja California, el siguiente: PUNTO DE ACUERDO.-
 
@@ -58,8 +58,6 @@ Se extiende la presente Certificación para los usos legales a que haya lugar, e
 El Secretario Fedatario del XIX Ayuntamiento de Ensenada.
 
 MARIO ALBERTO GARCIA SALAIZA.
-
-> <small>N. DE E. EL ACUERDO EXPEDIDO POR LA H. XXI AYUNTAMIENTO CONSTITUCIONAL DE ENSENADA, PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2014, MODIFICÓ DE FORMA SUSTANCIAL EL CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
 
 REGLAMENTO PARA DESIGNAR, ESTIMULAR Y RECONOCER A CIUDADANOS, HUÉSPEDES Y VISITANTES DISTINGUIDOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA.
 
@@ -127,7 +125,9 @@ Para los efectos del presente reglamento se entenderá por:
 
 I. AYUNTAMIENTO.- al Honorable Ayuntamiento de Ensenada Baja California.
 
-II.- COMITÉ.- Al Comité de Evaluación para designar a Ciudadanos y Visitantes Distinguidos.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+II. COMITÉ.- Al Comité de Evaluación para Designar a Ciudadanos y Huéspedes Distinguidos.
 
 III. MUNICIPIO.- Al Municipio de Ensenada, Baja California
 
@@ -135,7 +135,9 @@ IV. PRESIDENTE.- Al Presidente Municipal de Ensenada, Baja California.
 
 V. RECONOCIMIENTO.- A las distinciones otorgadas por el H. Ayuntamiento o en su caso, por los demás funcionarios públicos municipales facultados por el presente Reglamento, a los ciudadanos o visitantes de este Municipio.
 
-VI.- REGLAMENTO.- Reglamento para designar, estimular y reconocer a ciudadanos, huéspedes y visitantes distinguidos del municipio de Ensenada, Baja California.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+VI. REGLAMENTO.- Reglamento para designar, estimular y reconocer a ciudadanos, huéspedes y visitantes distinguidos del municipio de Ensenada.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -433,6 +435,10 @@ En el caso de los Regidores de las comisiones de las enumeradas en los incisos f
 
 Todos los integrantes del comité podrán nombrar un suplente en coso de ausencia quien se acreditará con oficio, nombramiento o carta-poder del titular u organismo que representa, con el cual gozará de voz y voto.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE ABRIL DE 2017)</small>
+
+Si de la hora señalada para el inicio de la sesión no se encuentran presentes integrantes en número suficientes para la declaración del quórum legal, se señalará hora para sesionar en segunda convocatoria a más tardar el siguiente día hábil, celebrando válidamente la sesión con los integrantes que concurran, debiendo estar obligatoriamente entre estos el Presidente Municipal o a quien el designe.
+
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 28.
@@ -510,3 +516,9 @@ P.O. 28 DE NOVIEMBRE DE 2014.
 PRIMERO.- Una vez siendo aprobada la presente reforma, publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
 
 SEGUNDO.- El presente reglamento abroga el Reglamento para estimular y reconocer a Maestras y Maestros distinguidos del municipio de Ensenada, Baja California.
+
+P.O. 21 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR LOS ARTÍCULOS 4 FRACCIÓN II Y 27 DEL REGLAMENTO PARA DESIGNAR, ESTIMULAR Y RECONOCER A CIUDADANOS, HUÉSPEDES Y VISITANTES DISTINGUIDOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, RELATIVO A DICTAMEN 006/2016".]
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
