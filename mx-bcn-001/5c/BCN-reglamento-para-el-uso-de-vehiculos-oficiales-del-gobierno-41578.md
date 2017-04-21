@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-uso-de-vehiculos-oficiales-del-gobierno-4157
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-08"
-last_updated: "2014-10-17"
+last_updated: "2017-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL USO DE VEHÍCULOS OFICIALES DEL GOBIERNO MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2004.
 
@@ -247,11 +247,11 @@ El trabajador que tenga asignado un vehículo y que quiera utilizarlo fuera del 
 
 El usuario del vehículo deberá abstenerse de circular con el vehículo fuera de los límites del Municipio, o abandonar el territorio nacional, salvo autorización expresa y por escrito de su jefe inmediato o el Oficial Mayor, cuando la naturaleza del servicio o comisión así lo requiera.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### Artículo 24.
 
-Los vehículos asignados al Presidente Municipal, Síndico Procurador, Síndico Social y Regidores estarán bajo su custodia las 24 horas del día.
+Los vehículos asignados al Presidente Municipal, Síndico Procurador y Regidores estarán bajo su custodia las 24 horas del día.
 
 ###### Artículo 25.
 
@@ -460,3 +460,9 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de la fecha de
 SEGUNDO.- la Dirección de Seguridad Pública Municipal contará con un año a partir de la entrada en vigor de la presente reforma, para impartir el curso de manejo defensivo previsto en el artículo 3bis de la presente reforma a todos los usuarios de vehículos oficiales del Gobierno Municipal.
 
 TERCERO.- La Oficialía Mayor contará con Seis meses a partir de la entrada en vigor de la presente reforma, para rotular en la totalidad los vehículos del Gobierno Municipal con las características previstas en la reforma del artículo 17 del presente ordenamiento.
+
+P.O. 21 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO DEL CONSEJO CIUDADANO PARA LA PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO PARA LA PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO DEL COMITÉ MUNICIPAL CONTRA LAS ADICCIONES DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO INTERIOR DE LA SINDICATURA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO PARA EL USO DE VEHÍCULOS OFICIALES DEL GOBIERNO MUNICIPAL DE ENSENADA, BAJA CALIFORNIA, DE RELATIVO A DICTAMEN 007/201”.]
+
+UNICO.- La presente reforma y derogaciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
