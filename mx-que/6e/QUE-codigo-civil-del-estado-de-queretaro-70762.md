@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2017-01-06"
+last_updated: "2017-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -33,7 +33,9 @@ Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, 
 
 LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, expide el siguiente:
 
@@ -529,9 +531,11 @@ II. Tratándose de matrimonio o divorcio entre un nacional y un extranjero o ent
 
 Las declaraciones del nacimiento, se harán presentando al infante ante el Oficial del Registro Civil en su oficina y en los casos en que circunstancialmente sea necesario, el Oficial acudirá al lugar en que se encuentre.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### Artículo 74.
 
-Tienen obligación de declarar el nacimiento, dentro de los ciento ochenta días siguientes a la fecha en que hubiere ocurrido, los padres del menor, de manera conjunta o separada, aún cuando se trate de padre o madre menor de edad y no estén casados; a falta de éstos, los abuelos paternos o maternos o quienes tengan a su cargo el cuidado o custodia del menor.
+Tienen obligación de declarar el nacimiento, dentro de los sesenta días siguientes a la fecha en que hubiere ocurrido, los padres del menor, de manera conjunta o separada, aún cuando se trate de padre o madre menor de edad y no estén casados; a falta de éstos, los abuelos paternos o maternos o quienes tengan a su cargo el cuidado o custodia del menor.
 
 Para que el Oficial del Registro Civil realice la inscripción, deberá proceder en los siguientes términos:
 
@@ -15815,7 +15819,7 @@ Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jera
 
 P.O. 21 DE ENERO DE 2011.
 
-Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado."La Sombra de Arteaga".
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
@@ -15936,6 +15940,16 @@ P.O. 6 DE ENERO DE 2017.
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 21 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA EL ARTÍCULO 74 DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 ###### ARTÍCULO PRIMERO.
 
