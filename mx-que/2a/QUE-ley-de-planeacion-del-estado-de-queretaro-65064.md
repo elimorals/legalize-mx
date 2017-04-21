@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-planeacion-del-estado-de-queretaro-65064"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-17"
-last_updated: "2016-05-30"
+last_updated: "2017-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -71,11 +71,21 @@ I. El fortalecimiento de la soberanía del Estado dentro del pacto federal, en l
 
 II. La preservación y el perfeccionamiento del régimen democrático, republicano, federal y representativo que la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Querétaro establecen; así como el fortalecimiento del estado de derecho y la consolidación de la democracia como sistema de vida, fundada en el constante mejoramiento económico, social y cultural de la sociedad, impulsando su participación activa en la planeación y ejecución de las actividades del Gobierno del Estado;
 
-III. La igualdad de derechos, priorizando la atención a las necesidades básicas de la población y la mejoría en todos los aspectos de la calidad de vida, con el fin de lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-IV. El fortalecimiento del pacto federal y del municipio libre, promoviendo la descentralización de la vida nacional, estatal y municipal; y
+III. La igualdad sustantiva entre mujeres y hombres, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos de calidad de vida, para lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población;
 
-V. El impulso al desarrollo regional como una forma de garantizar la distribución equitativa de los beneficios, aprovechar los recursos locales y de articular los esfuerzos de las instancias que intervienen en la planeación.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+IV. El fortalecimiento del pacto federal y del municipio libre, promoviendo la descentralización de la vida nacional, estatal y municipal;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+V. El impulso al desarrollo regional como una forma de garantizar la distribución equitativa de los beneficios, aprovechar los recursos locales y de articular los esfuerzos de las instancias que intervienen en la planeación; y
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+VI. La perspectiva de género, para garantizar la igualdad sustantiva entre mujeres y hombres y promover el adelanto de las mujeres mediante el acceso equitativo de los bienes, recursos y beneficios del desarrollo.
 
 ###### Artículo 4.
 
@@ -622,3 +632,13 @@ P.O. 30 DE MAYO DE 2016.
 Artículo Primero. La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 21 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA EL ARTÍCULO 3 DE LA LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
