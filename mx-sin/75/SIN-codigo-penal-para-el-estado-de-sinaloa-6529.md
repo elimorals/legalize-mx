@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2016-12-28"
+last_updated: "2017-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -3121,6 +3121,8 @@ Al que profane un cadáver con actos de necrofilia, se le impondrá prisión de 
 
 ### CAPITULO IV. ABUSO DE AUTORIDAD
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTICULO 279.
 
 Los profesionistas y sus auxiliares, que cometan delitos en el ejercicio de su actividad, además de las sanciones que les correspondan, podrán ser suspendidos en el ejercicio de ésta, por un período de tres meses a tres años.
@@ -3183,6 +3185,8 @@ A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a o
 
 ### CAPITULO VI (SIC). PECULADO
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTICULO 285.
 
 Se aplicará la pena de tres meses a cuatro años y de treinta a trescientos días multa, a quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimiento de una ley, se reúnan tumultuariamente, y perturben el orden público con empleo de violencia en las personas o sobre las cosas, o amenacen a la autoridad para intimidarla u obligarla a tomar alguna determinación.
@@ -3190,6 +3194,8 @@ Se aplicará la pena de tres meses a cuatro años y de treinta a trescientos dí
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de motín, se les aplicará la pena de uno a cinco años de prisión y de sesenta a quinientos días multa.
 
 ### CAPITULO VII. COHECHO
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 286.
 
@@ -3295,6 +3301,8 @@ A los mexicanos que cometan alguno de los delitos previstos en el artículo ante
 
 ### CAPITULO II. COHECHO COMETIDO POR PARTICULARES
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTICULO 296.
 
 Para los efectos de este Código, servidor público es toda persona que desempeñe algún empleo, cargo o comisión de cualquier naturaleza en la administración pública del Estado o sus municipios, centralizada, paraestatal o paramunicipal, o en los Poderes Legislativo y Judicial del Estado de Sinaloa y todas aquellas personas que manejen o apliquen recursos económicos del Estado o de los ayuntamientos.
@@ -3315,11 +3323,23 @@ II.- Continúe ejerciendo las funciones de un empleo, cargo o comisión después
 
 III.- Sin autorización legítima desempeñe funciones distintas de aquéllas para las que fue designado;
 
-IV.- Teniendo conocimiento por razón de su empleo, cargo o comisión de que puedan resultar gravemente afectados por cualquier acto u omisión el patrimonio o los intereses de alguna dependencia o entidad de la administración pública estatal o municipal, sea centralizada, paraestatal o paramunicipal, o de los Poderes Legislativo o Judicial del Estado, intencionalmente no informe por escrito a su superior jerárquico o no lo evite si está dentro de sus facultades; o
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-V.- Por sí, o por interpósita persona sustraiga, destruya, oculte, utilice o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión.
+IV.- Teniendo conocimiento por razón de su empleo, cargo o comisión de que puedan resultar gravemente afectados por cualquier acto u omisión el patrimonio o los intereses de alguna dependencia o entidad de la administración pública estatal o municipal, sea centralizada, paraestatal o paramunicipal, o de los Poderes Legislativo o Judicial del Estado, intencionalmente no informe por escrito a su superior jerárquico o no lo evite si está dentro de sus facultades;
 
-Al que cometa algunos de los delitos a que se refieren las fracciones I, II, y III, de este artículo, se le sancionará con prisión de tres meses a dos años y de diez a ciento cincuenta días multa.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+V.- Por sí, o por interpósita persona sustraiga, destruya, oculte, utilice o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión; o
+
+(NOTA: EL 3 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 31/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE ABRIL DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+VI.- IMPIDA LA GRABACIÓN DE AUDIOS, VIDEOS O IMÁGENES DE ESCENAS PÚBLICAS QUE NO ATENTEN CONTRA LA VIDA PRIVADA DE LAS PERSONAS, NI PERTURBEN U OBSTACULICEN LOS PROTOCOLOS ESTABLECIDOS POR LA AUTORIDAD; O EJECUTE CUALQUIER OTRO ACTO ARBITRARIO O ATENTATORIO A LOS DERECHOS GARANTIZADOS EN LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS O EN LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+Al que cometa algunos de los delitos a que se refieren las fracciones I, II, III y VI de este artículo, se le sancionará con prisión de tres meses a dos años y de diez a ciento cincuenta días multa.
 
 Al responsable de los delitos previstos en las fracciones IV y V se les impondrá prisión de dos a siete años y de treinta a trescientos días multa.
 
@@ -3359,27 +3379,45 @@ Cuando el monto del producto del delito o de los daños o perjuicios causados, e
 
 ###### ARTICULO 301.
 
-Comete el delito de abuso de autoridad, el servidor público que:
+Comete el delito de abuso de autoridad el servidor público que incurra en alguna de las siguientes conductas:
 
-I.- Para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
+I. El que en razón de su empleo, cargo o comisión realice un hecho arbitrario o indebido;
 
-II.- Ejerciendo sus funciones o con motivo de ellas, haga violencia a una persona sin causa legítima o la veje o la insulte, o la prive de su libertad;
+II. Cuando en razón de su empleo, cargo o comisión violentare de palabra o de obra a una persona sin causa legítima;
 
-III.- Indebidamente retarde o niegue a los particulares la protección o servicio que tenga obligación de otorgarle o impida la presentación o el curso de una solicitud;
+III. Cuando sin causa justificada retrase o niegue a los particulares la protección o servicio que sea su obligación prestar, o impida la presentación o el curso de una solicitud;
 
-IV.- Encargado de una fuerza pública, requeridos legalmente por una autoridad competente para que le preste auxilio, se niegue indebidamente a dárselo;
+IV. Cuando teniendo bajo su mando una fuerza pública, se niegue a auxiliar a alguna autoridad competente que lo requiera;
 
-V.- Con cualquier pretexto obtenga de un subalterno parte de los sueldos de éste, dádivas o algún servicio indebido;
+V. Cuando sin orden de la autoridad competente, obligue a los particulares a presentar documentos o realice la inspección en bienes de su propiedad o posesión; y
 
-VI.- Haga que se le entreguen fondos, valores u otra cosa que no se le hayan confiado a él y se los apropie o disponga de ellos indebidamente;
+VI. La autoridad que fomente, tolere, autorice o intervenga en la imposición indebida de sanciones o de medidas de seguridad con motivo de la aplicación de la normatividad de tránsito del Estado.
 
-VII.- Ejecute cualquier otro acto arbitrario o atentatorio a los derechos garantizados en la Constitución Federal o en la del Estado;
+Al responsable de las conductas señaladas de las fracciones I a la VI se le impondrán de dos a seis años de prisión y de treinta a ciento cincuenta días multa, la destitución del cargo será definitiva y la inhabilitación será de dos a ocho años para desempeñar empleo, cargo o comisión públicos.
 
-VIII.- Siendo director, alcaide o carcelero de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad que, sin los requisitos legales, reciba como presa o detenida a una persona o la mantenga privada de libertad y sin dar parte a la autoridad correspondiente; o
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
 
-IX.- Teniendo conocimiento de una privación ilegal de libertad no la denunciare a la autoridad competente o no la haga cesar, si esto estuviere en sus atribuciones.
+###### ARTICULO 301 Bis.
 
-Al que cometa el delito de abuso de autoridad se le aplicará prisión de uno a seis años y de treinta a trescientos días multa, penas que se aumentarán hasta en una mitad más para el caso previsto en la fracción VI.
+Comete el delito de abuso de autoridad, el servidor público que utilice su empleo, cargo o comisión para obtener la entrega de fondos, valores o cualquiera otra cosa que no le haya sido confiada, para aprovecharse o disponer de ella en su favor o de un tercero.
+
+I. De dos a seis años de prisión y de treinta a trescientos días multa, destitución definitiva e inhabilitación de dos a seis años para desempeñar empleo, cargo o comisión públicos, cuando la cantidad o el valor de lo obtenido no exceda del equivalente de noventa veces el valor diario de la Unidad de Medida y Actualización o no sea cuantificable; y
+
+II. De tres a ocho años de prisión, de quinientos a un mil días multa, destitución definitiva e inhabilitación de seis a dieciséis años para desempeñar empleo, cargo o comisión, públicos cuando la cantidad o el valor de lo obtenido exceda el equivalente de noventa veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+ARTICULO 301 Bis A.- Comete el delito de abuso de autoridad, el servidor público que haciendo uso de su empleo, cargo o comisión:
+
+I. Obtenga por cualquier motivo, para sí o para un tercero, parte del sueldo, dádivas o cuotas de uno o más de sus subalternos; y
+
+II. Obligue a uno o más de sus subalternos a realizar cualquier acto que le reporte beneficios económicos para sí o para un tercero.
+
+Al que cometa este delito se le impondrán las sanciones siguientes:
+
+I. De dos a seis años de prisión y de treinta a quinientos días multa, destitución e inhabilitación de dos a seis años para desempeñar empleo, cargo o comisión en el servicio público, cuando la cantidad o el valor de lo obtenido no exceda del equivalente de noventa veces el valor diario de la Unidad de Medida y Actualización o no sea cuantificable; y
+
+II. De ocho a doce años de prisión y de mil a mil quinientos días multa, destitución e inhabilitación de siete a diecisiete años para desempeñar empleo, cargo o comisión en el servicio público, cuando la cantidad o el valor de lo obtenido exceda del equivalente de noventa veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPITULO VI. QUEBRANTAMIENTO DE SELLOS
 
@@ -3397,15 +3435,61 @@ A los servidores públicos que se coaliguen para tomar medidas contrarias a una 
 
 ###### ARTICULO 304.
 
-Al servidor público que para sí o para otro se apropie de dinero, valores, fincas o cualquier otra cosa pertenecientes a los poderes, dependencias o entidades de la administración pública del Estado, de un municipio, o de un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por otra causa, se le impondrá de seis meses a nueve años de prisión y de sesenta a trescientos días multa.
+Comete el delito de peculado el servidor público que disponga en beneficio propio o indebidamente para terceros, de dinero, rentas, fondos, valores o bienes o sus rendimientos que tenga confiados en razón de su cargo, ya sean del Estado, municipios, organismos auxiliares, empresas de participación municipal mayoritaria o fideicomisos públicos.
+
+Al que cometa este delito se le impondrán las siguientes sanciones:
+
+I. De dos a ocho años de prisión y de treinta a setenta y cinco días multa, destitución e inhabilitación de dos a ocho años para desempeñar empleo, cargo o comisión públicos, cuando la cantidad o valor de lo que se haya dispuesto no exceda del equivalente de mil veces el valor diario de la Unidad de Medida y Actualización o no sea cuantificable; y
+
+II. De tres a diez años de prisión, de setenta y cinco a doscientos días multa, destitución e inhabilitación de seis a veinte años para desempeñar empleo, cargo o comisión públicos, cuando la cantidad o el valor de lo que se haya dispuesto, exceda del equivalente de mil veces el valor diario de la Unidad de Medida y Actualización.
+
+La disposición de bienes para asegurar su conservación y evitar su destrucción y siempre que se destinen a la función pública, no será sancionada.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+###### ARTICULO 304 Bis.
+
+Al servidor público que reciba o administre recursos públicos y omita destinarlos al fin para el que estaban previstos de conformidad con las leyes y demás disposiciones jurídicas o estatutarias aplicables, o los aplique a fin distinto al establecido por las mismas, se le impondrán las sanciones siguientes:
+
+I. De cuatro a ocho años de prisión cuando el valor del detrimento patrimonial sea de hasta un importe equivalente de dos mil veces el valor diario de la Unidad de Medida y Actualización;
+
+II. De seis a doce años de prisión cuando dicho monto exceda de un importe equivalente de dos mil pero no de cuatro mil veces el valor diario de la Unidad de Medida y Actualización; y
+
+III. De ocho a quince años de prisión cuando el mencionado monto o daño patrimonial causado excede de un importe equivalente a cuatro mil veces el valor diario de la Unidad de Medida y Actualización.
+
+Además, a los responsables de este delito se les impondrá inhabilitación de dos a ocho años para ejercer funciones públicas y una multa por un importe equivalente de trescientas a mil veces el valor diario de la Unidad de Medida y Actualización.
+
+Cuando se configuren los supuestos previstos en los párrafos anteriores, si el servidor público reintegra la totalidad de los recursos públicos antes de concluir el ejercicio fiscal correspondiente en que tenían que ser aplicados, se le impondrá pena de prisión de uno a cuatro años, inhabilitación para ejercer cargos, empleos o comisiones en el servicio público por un término de tres a seis años, y de trescientos a quinientos días multa.
 
 ### CAPITULO IX. USO INDEBIDO DE UNIFORMES OFICIALES Y CONDECORACIONES
 
 ###### ARTICULO 305.
 
-Se impondrán de seis meses a cinco años de prisión y de treinta a trescientos días multa, al servidor público que por sí o por interpósita persona solicite o reciba indebidamente para sí o para otro, dinero o cualquier otra dádiva o acepte una promesa, para hacer o dejar de hacer algo justo o injusto relacionado con sus funciones.
+Incurre en el delito de cohecho el servidor público que solicite u obtenga para sí o para otro u otros, de los particulares o de otros servidores públicos, por sí o por interpósita persona, dádivas de cualquier tipo, en numerario o en especie para permitir, realizar u omitir un acto o actos lícitos o ilícitos, relacionados con sus funciones.
 
-En ningún caso se devolverán a los responsables del delito del cohecho, el dinero o dádivas que se hubiesen entregado, los cuales se aplicarán al Fondo Auxiliar para la Administración de Justicia.
+Al servidor público que cometa este delito se le impondrán las siguientes sanciones:
+
+I. De dos a seis años de prisión y de treinta a trescientos días multa, destitución e inhabilitación de dos a seis años para desempeñar empleo, cargo o comisión públicos, cuando el beneficio obtenido o la cantidad o el valor de la dádiva no exceda el equivalente de noventa veces el valor diario de la Unidad de Medida y Actualización o no sean cuantificables; y
+
+II. De cuatro a diez años de prisión, de quinientos a mil días multa, destitución e inhabilitación de ocho a veinte años para desempeñar empleo, cargo o comisión públicos, cuando el beneficio obtenido o la cantidad o el valor de la dádiva exceda el equivalente de noventa veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+###### ARTICULO 305 Bis.
+
+También incurre en cohecho el servidor público que con el propósito de obtener dádivas de cualquier tipo, realice dolosamente alguna de las siguientes conductas:
+
+I. Impedir u obstaculizar a cualquier persona mediante actos u omisiones indebidos la presentación de peticiones, escritos o promociones; y
+
+II. Retardar o negar a cualquier persona el curso, despacho o resolución de los asuntos, de las prestaciones o de los servicios que tenga el deber de atender.
+
+A quien cometa este delito se le impondrá pena de prisión de dos a seis años o de treinta a trescientos días multa o ambas sanciones, así como destitución o inhabilitación de dos a seis años para desempeñar empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+ARTICULO 305 Bis A.- En ningún caso se devolverá a los responsables del delito de cohecho, el dinero o dádiva entregadas. Las mismas se aplicarán en beneficio de la procuración de justicia.
+
+Cuando el delito de cohecho sea cometido por algún elemento de los cuerpos policíacos o servidor de seguridad pública o servidor de la administración o procuración de justicia, se aumentarán las penas hasta en una mitad.
 
 ### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PUBLICOS
 
@@ -3457,11 +3541,19 @@ Al particular que por sí o por interpósita persona promueva una conducta ilíc
 
 ###### ARTICULO 311.
 
-Al particular que de manera espontánea dé u ofrezca a un servidor público o a interpósita persona, dinero, bienes o servicios para que dicho servidor lleve a cabo u omita un acto justo o injusto relacionado con sus funciones, se le aplicarán de seis meses a cuatro años de prisión y de veinte a doscientos cuarenta días multa.
+Comete el delito de cohecho el particular que ofrezca, prometa o entregue dinero o cualquier dádiva a algún servidor público para que realice u omita un acto, o actos lícitos o ilícitos relacionados con sus funciones.
+
+Al que comete este delito se le impondrán las siguientes sanciones:
+
+I. De dos a seis años de prisión y de treinta a trescientos días de multa, cuando el beneficio obtenido o la cantidad o el valor de la dádiva o promesa no exceda del equivalente de noventa veces el valor diario de la Unidad de Medida y Actualización o no sean cuantificables; y
+
+II. De tres a ocho años de prisión y de quinientos a un mil días multa cuando el beneficio obtenido o la cantidad o el valor de la dádiva o promesa exceda el equivalente de noventa veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 312.
 
-La autoridad judicial podrá imponer al cohechador hasta una tercera parte de las penas señaladas en el artículo anterior cuando denuncie espontáneamente el delito cometido o hubiere actuado para beneficiar a una persona con la que lo ligue un vínculo familiar.
+No será sancionado el particular que denuncie ante el Ministerio Público dentro de los quince días siguientes a los hechos, la entrega que haya efectuado a un servidor público de dinero o cualquier otra dádiva cuando éste lo hubiera solicitado o lo incitara a ello.
 
 ### CAPITULO VII. ENCUBRIMIENTO POR FAVORECIMIENTO
 
@@ -3605,19 +3697,37 @@ XXI.- Permitir, fuera de los casos previstos por la ley, la salida temporal de p
 
 XXII.- Aprovechar el poder, el empleo o el cargo para satisfacer indebidamente un interés propio;
 
-> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-XXIII.- Presionar u obligar a una persona o sus representantes a otorgar el perdón en los delitos que se persigan por querella; o,
+XXIII.- Presionar u obligar a una persona o sus representantes a otorgar el perdón en los delitos que se persigan por querella;
 
-> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
 
-XXIV.- Omita solicitar sin causa debidamente justificada las órdenes de .protección establecidas en la Ley.
+XXIV.- Omita solicitar sin causa debidamente justificada las órdenes de protección establecidas en la Ley;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2012)</small>
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+XXV.- Cuando siendo responsable de cualquier establecimiento de detención preventiva o administrativa niegue que se encuentra detenida, arrestada o interna una persona, si lo estuviere, o no cumpla la orden de libertad girada por autoridad competente dentro del término legal;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+XXVI.- Los servidores públicos del área de Servicios Periciales asignados al órgano estatal competente en el ejercicio de la acción penal, que indebidamente:
+
+a) Destruyan, alteren o sustraigan documentos del registro;
+
+b) Retengan, modifiquen o divulguen información; y
+
+c) Expidan certificaciones de inscripción que obren en el registro; o
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+XXVII.- Cuando el personal al cuidado o disposición de los registros de audiograbación y videograbación de las audiencias celebradas en un procedimiento penal, haga uso indebido de los mismos, los sustraiga, entregue, copie, reproduzca, altere, modifique, venda o facilite información contenida en aquellos o parte de la misma o de cualquier otra forma los utilice para fines distintos a lo previsto por la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 327.
 
-Al que cometa alguno de los delitos a que se refiere el artículo anterior, se le aplicará prisión de tres meses a tres años y de treinta a ciento ochenta días multa, excepto en los casos previstos por las fracciones VIII, XX, XXI y XXIV; que se sancionarán con prisión de uno a cinco años y de sesenta a trescientos sesenta días multa.
+Al que cometa alguno de los delitos a que se refiere el artículo anterior, se le aplicará prisión de tres meses a tres años y de treinta a ciento ochenta días multa, excepto en los casos previstos por las fracciones VIII, XX, XXI, XXIV, XXV, XXVI y XXVII; que se sancionarán con prisión de uno a cinco años y de sesenta a trescientos sesenta días multa.
 
 Además de las penas establecidas en el párrafo que antecede, el agente sufrirá privación del cargo y podrá ser inhabilitado para obtener otro cargo público hasta por un término igual al doble de la pena de prisión señalada por la ley para el delito cometido.
 
@@ -4390,3 +4500,11 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 21 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 104 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
