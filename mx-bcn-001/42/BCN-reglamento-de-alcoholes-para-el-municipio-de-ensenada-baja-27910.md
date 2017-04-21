@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-alcoholes-para-el-municipio-de-ensenada-baja-2791
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-10"
-last_updated: "2017-02-10"
+last_updated: "2017-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 10 de enero de 2003.
 
@@ -889,9 +889,11 @@ El pago de la revalidación o cualquier otro crédito fiscal que se haya generad
 
 ### CAPITULO OCTAVO. DE LOS CAMBIOS DE TITULAR, DOMICILIO, GIRO Y CANCELACIÓN DE OPERACIONES
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 57.
 
-El Presidente Municipal, podrá autorizar el cambio de titular, giro, domicilio, cuando se reúnan los requisitos que señala el presente reglamento.
+Se podrá autorizar por el Ayuntamiento el cambio de giro y domicilio. El Presidente Municipal podrá autorizar el cambio de titular y nombre comercial, en ambos casos cuando se reúnan los requisitos que señala el presente reglamento.
 
 ###### ARTÍCULO 58.
 
@@ -901,7 +903,9 @@ En caso de que el titular del permiso transmita el inmueble y/o enseres del esta
 
 Para llevar a cabo el trámite a que se refieren los artículos anteriores, se requiere, que el interesado efectúe el procedimiento respectivo, ante la Secretaria del Ayuntamiento conforme los siguientes requisitos:
 
-I.- Solicitud de dictamen de cambio de permiso al C. Presidente Municipal, respecto del permisionario, del domicilio, del giro o del nombre comercial.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+I.- Solicitud de dictamen de cambio de permiso al C. Presidente Municipal, respecto del permisionario y/o nombre comercial.
 
 II.- Original del Permiso y de los cambios autorizados, si los hubiere, y de la última revalidación, cuando se trate de cambio de Permisionario. En los demás casos, sólo se requerirá exhibir copias del Permiso existente, de sus cambios y de la última Revalidación.
 
@@ -945,9 +949,17 @@ c).- Identificación del apoderado legal.
 
 XIX.- En caso de ser de nacionalidad extranjera deberá presentar el documento que acredite su estancia legal en el País, expedido por Servicios Migratorios (Forma FM-4).
 
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+ARTÍCULO 59 BIS.- Una vez reunidos los requisitos de que habla el artículo anterior para el caso de cambio de giro o de domicilio, el Presidente Municipal turnara a la Comisión de Regidores competente para que dictamine, autorice o rechace la solicitud.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 60.
 
 Una vez autorizado el cambio de propietario, la Secretaria del Ayuntamiento lo notificará a Recaudación de Rentas Municipal, dentro de los 10 días hábiles siguientes, y no podrá autorizarse modificación alguna si no ha transcurrido por lo menos 6 meses, a excepción de los casos en la que se justifique la necesidad de la medida a partir de esa autorización.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 61.
 
@@ -1461,8 +1473,14 @@ CUARTO.- Cúmplase.
 
 > <small>[N. DE E. EL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL ARTÍCULO 1 TRANSITORIO DEL REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
 
-P.O.10 DE FEBRERO DE 2017.
+P.O. 10 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL “ACUERDO DEL CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LOS ARTÍCULOS 3, 20, 70 Y 82 DEL REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, RELATIVO A DICTAMEN 002/2017”.]
+## [N. DE E. TRANSITORIO DEL "ACUERDO DEL CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LOS ARTÍCULOS 3, 20, 70 Y 82 DEL REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, RELATIVO A DICTAMEN 002/2017".]
 
 UNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 57, 59, 60 Y 61, ASÍ COMO LA ADICIÓN DEL 59 BIS DEL REGLAMENTO DE ALCOHOLES DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA RELATIVO A DICTAMEN 020/2017”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
