@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-comercio-para-el-municipio-de-ensenada-baja-38724
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-19"
-last_updated: "2014-10-10"
+last_updated: "2017-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de marzo de 2004.
 
@@ -61,13 +63,17 @@ La aplicación y observancia obligatoria del Reglamento de Comercio se circunscr
 
 Corresponde la vigilancia y aplicación en la esfera administrativa de las disposiciones a que se refiere el presente Reglamento, a la Autoridad Municipal conforme a su ámbito de competencia y atribuciones que le son conferidas por las Constituciones Federal y Local, Ley de Régimen Municipal y Ley de Hacienda Municipal para el Estado de Baja California.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 4.
 
-El presente Reglamento tiene sentido social, y tendrán preferencia para obtener un permiso para el ejercicio del comercio sobre la vía pública en cualquiera de sus modalidades aquellas personas de escasos recursos económicos, sin menoscabo de la política general de ordenamiento del comercio que tenga el Gobierno Municipal.
+El presente Reglamento tiene sentido social, y tendrán preferencia para obtener un permiso para el ejercicio del comercio sobre la vía pública en cualquiera de sus modalidades aquellas personas de escasos recursos económicos, de la tercera edad, personas con discapacidad y/o aquellos que por obligatoriedad legal sean responsables de las atenciones y/o cuidados de persona con discapacidad, quedando exentados de pago los tres últimos, entendiéndose que su permiso será gratuito una vez justificando el estado socioeconómico en el que se encuentren, sin menoscabo de la política general de ordenamiento del comercio que tenga el Gobierno Municipal.
 
 ###### ARTÍCULO 5.
 
 De considerarlo necesario y pertinente, la Dirección de Comercio Municipal solicitará un estudio socioeconómico a la Dirección de Desarrollo Social del Gobierno Municipal, con el objeto de corroborar la situación económica.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 6.
 
@@ -83,19 +89,19 @@ d).- Tesorero Municipal;
 
 e).- Delegado Municipal de la zona de que se trate;
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE ABRIL DE 2010)</small>
-
-f).- Director de Comercio, Alcoholes y Espectáculos Públicos;
+f).- Jefe del Departamento de Comercio, Alcoholes y Espectáculos Públicos;
 
 g).- Director de Seguridad Pública Municipal;
 
-h).- El Director de Obras y Servicios Públicos Municipales;
+h).- El Director de Servicios Públicos Municipales e Infraestructura;
 
-i).- Director de Desarrollo Urbano de Ecología;
+i).- Director de Administración Urbana, Ecología y Medio Ambiente;
 
-j).- Director del Departamento de Bomberos y Protección Civil;
+j).- Director de Bomberos;
 
-k).- Director de servicios Médicos Municipales.
+k).- Jefe del Departamento de Servicios Médicos Municipales.
+
+l).- Director de la Unidad Municipal de Protección Civil.
 
 ###### ARTÍCULO 7.
 
@@ -205,21 +211,47 @@ Aquellas personas que tengan un permiso para el ejercicio del comercio sobre la 
 
 Estos giros deberán especificarse claramente, con la finalidad de facilitar la labor de los inspectores y evitar entre los comerciantes la competencia desleal.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 14.
 
 Los permisos otorgados en la vía pública por el Ejecutivo Municipal para el ejercicio del Comercio Ambulante, Comercio en puestos fijos o semifijos, y Mercados Comunes, son: personalísimos, no negociables y por lo tanto intransferibles.
+
+El titular del permiso ambulante, comercio en puesto fijo o semifijo y de mercados comunes, en el periodo de renovación o el ciudadano que solicite permiso nuevo, podrá designar ante el Departamento de Comercio, Alcoholes y Espectáculos Públicos a su cónyuge, hijos o padres, para efectos de que opere dicho permiso hasta un periodo de 15 días naturales, hasta por dos ocasiones en el año, cuando se presente alguno de los siguientes supuestos:
+
+a) Incapacidad medica del titular;
+
+b) Estado grave de necesidad que impida la comparecencia del titular hasta por 15 días naturales a juicio del Departamento;
+
+c) Por llamado judicial;
+
+Debiéndose incorporar el titular del permiso una vez terminado el plazo otorgado.
 
 ###### ARTÍCULO 15.
 
 Los vendedores en la vía pública enmarcados por este Reglamento tendrán derecho única y exclusivamente a un sólo permiso, consecuentemente a quien se le compruebe que tiene dos o más, se le cancelarán los excedentes, y únicamente si reincide se le cancelarán en su totalidad; y a quien cuente con licencia para comercio establecido se le cancelará el que ejerza en la vía pública; sin perjuicio de las sanciones administrativas que prevé este Reglamento.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 16.
 
-Los permisos podrán renovarse a Juicio del Órgano Ejecutivo Municipal a través de la Dirección de Comercio al cumplirse con la normatividad vigente y con las obligaciones fiscales, siempre y cuando las condiciones de vialidad, tránsito, prestación de los servicios públicos Municipales y el Desarrollo Urbano de Ensenada lo permitan.
+Los permisos podrán renovarse a Juicio del Órgano Ejecutivo Municipal a través del Departamento de Comercio, Alcoholes y Espectáculos Públicos al cumplirse con la normatividad vigente y con las obligaciones fiscales, siempre y cuando las condiciones de vialidad, tránsito, prestación de los servicios públicos municipales y el desarrollo urbano de Ensenada lo permitan.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 17.
 
-La renovación de los permisos anuales deberá solicitarse en los meses de enero, febrero y marzo, de ejercicio fiscal en curso.
+La renovación de los permisos anuales deberá solicitarse en los meses de enero, febrero y marzo, del ejercicio fiscal en curso, satisfaciendo los siguientes requisitos:
+
+a).- Permiso obtenido en el ejercicio fiscal anterior por el Departamento de Comercio, Alcoholes y Espectáculos Públicos;
+
+b).- Certificado de Salud, para aquellas personas que expendan alimentos;
+
+c).- Certificado de Inspección de la Dirección de Bomberos, para aquellas personas que manejen gas butano;
+
+d).- Credencial del INAPAM, para las personas mayores de 60 años;
+
+e).- Comprobante de discapacidad, para el caso de aquellas personas que tengan una disminución en sus facultades físicas.
 
 ###### ARTÍCULO 18.
 
@@ -241,31 +273,33 @@ Los comerciantes sujetos al presente Reglamento, para obtener el permiso para ej
 
 Todos los permisos anuales se consideran patrimonio familiar, exclusivamente para efectos de trámites de cesión de derechos o sustitución.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 22.
 
-Toda modificación a los datos contenidos en los permisos anuales, se podrá solicitar por escrito solamente en el período de renovación de los mismos, debiendo la Dirección de Comercio Municipal, proporcionar el formato para tal fin.
+Toda modificación a los datos contenidos en los permisos anuales, se podrá solicitar por escrito solamente en el período de renovación de los mismos, debiendo el Departamento de Comercio, Alcoholes y Espectáculos Públicos, proporcionar el formato para tal fin.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 23.
 
-Los permisos otorgados a personas mayores de 60 años, discapacitados, pensionados y jubilados y todo aquel permiso que sea gratuito, no son factibles de cesión de derechos.
+Los permisos otorgados a personas de la tercera edad, personas con discapacidad y/o aquellos que por obligatoriedad legal sean responsables de las atenciones y/o cuidados de persona con discapacidad, pensionados y jubilados y todo aquel permiso que sea gratuito, no son factibles de cesión de derechos.
 
 ###### ARTÍCULO 24.
 
 La renovación de los permisos, así como los de nueva creación no están supeditados a que los poseedores de los mismos estén afiliados a alguna Unión o algún partido político como requisito indispensable, ya que esto lesiona la libertad del individuo.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 25.
 
-Para el ejercicio del comercio en la vía pública, es necesario obtener el permiso correspondiente por lo que el interesado deberá presentar su solicitud ante la Dirección de Comercio en la forma y términos que determine la dependencia, debiendo satisfacer los siguientes requisitos:
+Para el ejercicio del comercio en la vía pública, es necesario obtener el permiso correspondiente por lo que el interesado deberá presentar su solicitud ante el Departamento de Comercio, Alcoholes y Espectáculos Públicos en la forma y términos que determine la dependencia.
 
-a).- Ser ciudadano Mexicano en pleno uso de sus derechos;
-
-b).- En el supuesto de que no sea mayor de edad, tener más de 16 años y tener la autorización de alguno de sus padres o tutor así como de la Secretaría de Trabajo y Prevención Social;
-
-c).- Tener domicilio fijo en el municipio de Ensenada, con residencia mínima de un año.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 26.
 
-Para comprobar los requisitos que establece el artículo anterior el solicitante deberá presentar la siguiente documentación:
+El interesado en obtener permiso de comercio en la vía pública, debe ser ciudadano mexicano en pleno uso de sus derechos, tener domicilio fijo en el domicilio de Ensenada, con residencia mínima de un año y en el supuesto de que no sea mayor de edad, tener más de 16 años y contar con autorización de alguno de sus padres o tutor, así como de la Secretaría del Trabajo y Previsión Social; y deberá presentar la siguiente documentación:
 
 a).- Acta de Nacimiento;
 
@@ -277,21 +311,33 @@ d).- Certificado de salud, para aquellas personas que expendan alimentos;
 
 e).- Estudio Socioeconómico;
 
-f) Comprobante de discapacidad, para el caso de aquellas personas que tengan una disminución en sus facultades físicas;
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+f) Comprobante de discapacidad, para el caso de aquellas personas que tengan una disminución en sus facultades físicas y/o documentación oficial que avale tener la obligatoriedad legal de ser responsable de atenciones y/o cuidados de persona con discapacidad;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE ABRIL DE 2017)</small>
 
 g).- Certificado de inspección de bomberos, para aquellas personas que manejen gas butano;
 
-h).- Credencial del INSEN, para las personas mayores de 60 años;
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+h).- Credencial del INAPAM, para las personas mayores de 60 años;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE ABRIL DE 2017)</small>
 
 i).- Carta de no inconveniente en caso de encontrarse frente a un negocio o casa habitación;
 
-j).- En casos excepcionales y a juicio de la Dirección de Comercio Municipal se solicitará la carta de no antecedentes penales;
+j).- (DEROGADO, P.O. 21 DE ABRIL DE 2017)
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE ABRIL DE 2017)</small>
 
 k).- Pensionados y Jubilados deberán presentar comprobante que los avale como tales.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 27.
 
-El C. Presidente Municipal esta facultado para exentar del pago cuando se trate de personas con disminución en sus capacidades físicas y mayores de 60 años de acuerdo a la Ley de Ingresos vigente en el Municipio de Ensenada.
+El C. Presidente Municipal está facultado para exentar del pago cuando se trate de personas con disminución en sus capacidades físicas, mayores de 60 años de edad, personas con discapacidad y/o aquellos que por obligatoriedad legal sean responsables de las atenciones y/o cuidados de persona con discapacidad de acuerdo a la Ley de Ingresos vigente en el Municipio de Ensenada.
 
 ###### ARTÍCULO 28.
 
@@ -363,9 +409,11 @@ La Comisión Federal de Electricidad no podrá instalar ningún tablero ni aprob
 
 ### CAPITULO IV. DE LAS ZONAS PARA EJERCER EL COMERCIO
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 35.
 
-Considerando que la Zona Turística comprendida por la Av. Adolfo López Mateos (Primera), Bulevar Lázaro Cárdenas (Costero), y el Primer Cuadro de la Ciudad, constituyen el patrimonio histórico de los ensenadenses, queda establecida como zona restringida, con relación a toda actividad comercial que se realice en la vía pública, y por tanto en dicha zona queda prohibido el otorgamiento de permisos nuevos anuales y accidentales salvo en la época decembrina (permisos accidentales) en que se sujetará las modalidades que dicte el interés público, y a los dictámenes y estudios que emita la Dirección de Desarrollo Urbano y Ecología, Dirección de Obras y Servicios Públicos Municipales y la Dirección de Seguridad Pública Municipal.
+Considerando que la Zona Turística comprendida por la Av. Adolfo López Mateos (Primera), Bulevar Lázaro Cárdenas (Costero), y el Primer Cuadro de la Ciudad, constituyen el patrimonio histórico de los ensenadenses, queda establecida como zona restringida, con relación a toda actividad comercial que se realice en la vía pública, y por tanto en dicha zona queda prohibido elotorgamiento (sic) de permisos nuevos anuales y accidentales salvo en la época decembrina (permisos accidentales) en que se sujetará (sic) las modalidades que dicte el interés público, y a los dictámenes y estudios que emita la Dirección de Administración Urbana, Ecología y Medio Ambiente, Dirección (sic) Servicios Públicos Municipales e Infraestructura y la Dirección de Seguridad Pública Municipal.
 
 ###### ARTÍCULO 36.
 
@@ -397,15 +445,19 @@ En los casos en que no se respete el área de vía pública autorizada, el Ejecu
 
 Los vendedores: ambulantes, en puesto fijo, semifijo y mercados comunes, podrán ejercer el comercio en las áreas que a juicio de la autoridad municipal se determine siempre y cuando no se afecten los intereses de terceros o del orden público conforme lo establece el Artículo 5to. Constitucional.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 43.
 
-En casos excepcionales, el titular de un permiso anual de Comercio en cualquiera de sus modalidades, podrá solicitar autorización de ausencia temporal por motivos de salud o para atender asuntos de carácter personal; debiendo hacerlo por escrito al Presidente Municipal a través de la Dirección de Comercio Municipal y ésta valorará otorgarla para que se deje de explotar temporalmente por un plazo que no exceda de dos meses, y hasta por dos ocasiones en el año.
+En casos excepcionales, el titular de un permiso de Comercio en cualquiera de sus modalidades, podrá solicitar autorización de ausencia temporal por motivos de salud o para atender asuntos de carácter personal; debiendo hacerlo por escrito al Presidente Municipal a través del Departamento de Comercio, Alcoholes y Espectáculos Públicos, quien valorará otorgarla para que se deje de explotar temporalmente debiéndose de ajustar el titular del permiso al igual que la autoridad responsable, a lo que se establece en el artículo 14 del presente ordenamiento.
 
 ###### ARTÍCULO 44.
 
 Los puestos retirados de la vía pública, por diferentes circunstancias, y que no hayan sido reclamados por su propietario en un término de 30 días naturales serán desarmados y el material del mismo donado a una institución de beneficencia pública.
 
 ### CAPITULO V. DE LOS MERCADOS COMUNES
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 45.
 
@@ -425,7 +477,11 @@ f).- Queda prohibido para fines publicitarios la utilización de aparatos de son
 
 g).- A cada puesto se le asignará un número de manera progresiva;
 
-h).- Deberán ajustarse disposiciones que en materia de salud, vialidad, uso de suelo y protección civil que se encuentren vigentes, para lo cual la Dirección de Comercio Municipal solicitará la expedición de dictámenes de factibilidad a efecto corroborar dicha situación;
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+h).- Deberán ajustarse (sic) disposiciones que en materia de salud, vialidad, uso de suelo y protección civil que se encuentren vigentes, para lo cual el Departamento de Comercio, Alcoholes y Espectáculos (sic)
+
+(sic) Públicos, solicitará la expedición de dictámenes de factibilidad a efecto (sic) corroborar dicha situación;
 
 i).- Al instalarse, no tapar la visibilidad de otro puesto con lona o mercancía;
 
@@ -441,17 +497,19 @@ n).- El horario para el funcionamiento de los mercados comunes es de las 8:00 a 
 
 ### CAPITULO VI. DE LA REUBICACION
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 46.
 
-La Dirección de Comercio Municipal otorgará un plazo de hasta 45 días naturales, a los propietarios de los puestos fijos y semifijos que sean necesarios reubicarlos por las siguientes causas:
+El Departamento de Comercio, Alcoholes y Espectáculos Públicos, otorgará un plazo de hasta 45 días naturales, a los propietarios de los puestos fijos y semifijos que sean necesarios reubicarlos por las siguientes causas:
 
-a).- Por necesidad de remodelación en fachadas de negocios establecidos y en la construcción de casas habitación, frente a donde se fije o semifijo el comercio o puesto. El quejoso deberá fundamentar y comprobar dicha solicitud, mediante la presentación de permisos de construcción, planos arquitectónicos y demás documentos que acrediten dicha situación;
+a).- Por necesidad de remodelación en fachadas de negocios establecidos y en la construcción de casas habitación, frente a donde se fije o semifijo (sic) el comercio o puesto. El quejoso deberá fundamentar y comprobar dicha solicitud, mediante la presentación de permisos de construcción, planos arquitectónicos y demás documentos que acrediten dicha situación;
 
-b).- Por dictamen de la Dirección de Obras y Servicios Públicos Municipales, Dirección de Desarrollo Urbano, Ecología, Dirección de Seguridad Pública Municipal y Protección Civil y la Dirección de Servicios Médicos Municipales, donde se determine técnicamente la no factibilidad del ejercicio del comercio sobre la vía pública;
+b).- Por dictamen de la Dirección Servicios Públicos Municipales e Infraestructura, Dirección de Administración Urbana, Ecología y Medio Ambiente, Dirección de Seguridad Pública Municipal, Unidad Municipal de Protección Civil y la Dirección de Servicios Médicos Municipales, donde se determine técnicamente la no factibilidad del ejercicio del comercio sobre la vía pública;
 
 c).- Por disposiciones de Autoridades Sanitarias a efecto de evitar el detrimento de la salud pública;
 
-d).- Cuando dichos puestos vayan en contra de la buena imagen urbana de la Ciudad, las buenas costumbres, y afectación del medio ambiente. La dependencia encargada de auxiliar en la remoción de los puestos es la Dirección de Obras y Servicios Públicos Municipales, previa solicitud por escrito de la Dirección de Comercio Municipal;
+d).- Cuando dichos puestos vayan en contra de la buena imagen urbana de la Ciudad, las buenas costumbres, y afectación del medio ambiente. La dependencia encargada de auxiliar en la remoción de los puestos es la Dirección de Servicios Públicos Municipales e Infraestructura, previa solicitud por escrito del Departamento de Comercio, Alcoholes y Espectáculos Públicos;
 
 e).- Por otras disposiciones que a juicio del Ayuntamiento considere necesaria la reubicación.
 
@@ -461,11 +519,11 @@ Para garantizar la aplicación correcta del artículo anterior. Por ningún moti
 
 ### CAPITULO VII. DE LAS OBLIGACIONES
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 48.
 
-Aquellas personas que tengan un permiso anual en sus distintas modalidades expedido por la Dirección de Comercio Municipal, tendrán la obligación de usar el permiso original y colocarlo a la altura del pecho, con la finalidad de facilitar el trabajo de inspección y vigilancia.
-
-Deberán presentarlo cuando se lo requiera la Dirección de Comercio Municipal por conducto de los Inspectores, previa identificación de los mismos.
+Aquellas personas que tengan un permiso anual en sus distintas modalidades expedido por el Departamento de Comercio, Alcoholes y Espectáculos Públicos, tendrán la obligación de usar el permiso original y colocarlo a la altura del pecho, con la finalidad de facilitar el trabajo de inspección y vigilancia. Deberán presentarlo cuando se lo requiera el Departamento de Comercio, Alcoholes y Espectáculos Públicos por conducto de los Inspectores, previa identificación de los mismos.
 
 ###### ARTÍCULO 49.
 
@@ -483,11 +541,25 @@ V.- Queda estrictamente prohibido que las personas que manejen alimentos cobren 
 
 VI.- Los vendedores de las delegaciones que desarrollen esta actividad, se sujetarán al mismo precepto.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+ARTÍCULO 49 BIS.- Los vendedores ambulantes, vendedores en puesto fijo, o semifijo, se sujetarán a las disposiciones siguientes:
+
+I.- Acatarán la ubicación y horarios establecidos en su permiso;
+
+II.- Sólo llevarán a cabo las disposiciones consignadas en su permiso;
+
+III.- Y solo para el caso de vendedores ambulantes, llevar puesto un chaleco, mismo que será proporcionado por el Departamento de Comercio, Alcoholes y Espectáculos Públicos, el cual contendrá número de control y nombre del titular del permiso;
+
+IV.- Los vendedores de las delegaciones que desarrollen esta actividad, se sujetarán al mismo precepto.
+
 ### CAPITULO VIII. DE LAS PROHIBICIONES
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 50.
 
-Las personas que sean sorprendidos por la Autoridad Municipal ejerciendo en la vía pública actividad comercial regulada por este Reglamento sin contar con el permiso respectivo y/o transgredan las disposiciones señaladas en el artículo 63 del presente Reglamento, se harán acreedores a las sanciones administrativas enmarcadas en el mismo; independientemente de las sanciones a que se pudieran hacer acreedores por infracción a los demás Reglamentos Municipales vigentes. Los Inspectores adscritos a la Dirección de Comercio Municipal, en sus funciones de control y aplicación del presente Reglamento deberán proceder a la práctica de la inspección administrativa correspondiente, y en caso de percatarse del incumplimiento o infracción a las disposiciones que establece este documento impondrá la sanción administrativa que corresponda de acuerdo a la infracción cometida, y para efectos de garantizar y asegurar el crédito fiscal habrá de practicar en forma inmediata el embargo precautorio de bienes propiedad del infractor, atento a lo previsto por el artículo 117 en correlación con la fracción II del 120 de la Ley de Hacienda Municipal para el Estado de Baja California en vigor.
+Las personas que sean sorprendidos (sic) por la Autoridad Municipal ejerciendo en la vía pública actividad comercial regulada por este Reglamento sin contar con el permiso respectivo y/o transgredan las disposiciones señaladas en el artículo 63 del presente Reglamento, se harán acreedores a las sanciones administrativas enmarcadas en el mismo; independientemente de las sanciones a que se pudieran hacer acreedores por infracción a los demás Reglamentos Municipales vigentes. Los Inspectores adscritos al Departamento de Comercio, Alcoholes y Espectáculos Públicos en sus funciones de control y aplicación del presente Reglamento deberán proceder a la práctica de la inspección administrativa correspondiente, y en caso de percatarse del incumplimiento o infracción a las disposiciones que establece este documento impondrá la sanción administrativa que corresponda de acuerdo a la infracción cometida, y para efectos de garantizar y asegurar el crédito fiscal habrá de practicar en forma inmediata el embargo precautorio de bienes propiedad del infractor, atento a lo previsto por el artículo 117 en correlación con la fracción II del 120 de la Ley de Hacienda Municipal para el Estado de Baja California en vigor.
 
 ###### ARTÍCULO 51.
 
@@ -539,15 +611,21 @@ III.- Para el caso de que la persona infraccionada no cumpla con lo dispuesto en
 
 No podrán colocarse dos o más puestos que tengan un mismo giro comercial a una distancia mínima de 100 metros lineales, a excepción de los mercados comunes.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 54.
 
-Si se encuentra abandonado un puesto fijo o semifijo en la vía pública los inspectores darán aviso a la Dirección de Obras Públicas Municipales para que procedan a levantarlo y el interesado tendrá un plazo de 30 días para recogerlo, pagando una multa conforme lo estipula el Artículo 63 del presente Reglamento.
+Si se encuentra abandonado un puesto fijo o semifijo en la vía pública los inspectores darán aviso a la Dirección de Servicios Públicos Municipales e Infraestructura para que procedan a levantarlo y el interesado tendrá un plazo de 30 días para recogerlo, pagando una multa conforme lo estipula el artículo 63 del presente Reglamento.
 
 ### CAPITULO IX. DE LAS DELEGACIONES MUNICIPALES
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 55.
 
-Las personas que deseen dedicarse al comercio en cualquiera de sus modalidades en las delegaciones del Municipio de Ensenada, solicitarán el permiso correspondiente al Presidente Municipal por conducto del Delegado, debiendo reunir los requisitos señalados en los Artículos 25 y 26 de este Reglamento. Siendo los Delegados Municipales, quienes tienen la facultad y la responsabilidad de administrar la vía pública de la mejor manera e impulsar el mejoramiento de la imagen urbana, serán quienes decidan dentro de su jurisdicción, la autorización de permisos nuevos anuales o accidentales, por lo que deberán integrar la documentación a que se refiere los artículos mencionados y remitirla a la Dirección de Comercio Municipal para la elaboración de permisos anuales. Las Delegaciones deberán rendir su informe mensual y pormenorizado de los permisos autorizados ante el Presidente Municipal a través de la dirección de Comercio Municipal.
+Las personas que deseen dedicarse al comercio en cualquiera de sus modalidades en las delegaciones del Municipio de Ensenada, solicitarán el permisocorrespondiente (sic) al Presidente Municipal por conducto del Delegado, debiendo reunir los requisitos señalados en los artículos 25 y 26 de este Reglamento. Siendo los Delegados Municipales, quienes tienen la facultad y la responsabilidad de administrar la vía pública de la mejor manera e impulsar el mejoramiento de la imagen urbana, serán quienes decidan dentro de su jurisdicción, la autorización de permisos nuevos anuales o accidentales, por lo que deberán integrar la documentación a que se refiere (sic) los artículos mencionados y remitirla al Departamento de Comercio, Alcoholes y Espectáculos Públicos para la elaboración de permisos anuales.
+
+Las Delegaciones deberán rendir su informe mensual y pormenorizado de los permisos autorizados ante el Presidente Municipal a través del Departamento de Comercio, Alcoholes y Espectáculos Públicos.
 
 ###### ARTÍCULO 56.
 
@@ -569,9 +647,11 @@ III.- Las establecidas en los artículos 59, 60, 61 y 62 de este Reglamento.
 
 ### CAPITULO X. DE LOS INSPECTORES
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 59.
 
-Los inspectores de comercio municipal, tendrán a su cargo la vigilancia, regulación del cumplimiento de las disposiciones del presente Reglamento y la que les sea asignada por el C. Presidente Municipal y Director de Comercio Municipal para lo cual deberán identificarse en el ejercicio de sus funciones.
+Los inspectores de comercio municipal, tendrán a su cargo la vigilancia, regulación del cumplimiento de las disposiciones del presente Reglamento y la que les sea asignada por el C. Presidente Municipal y el Jefe del el Departamento de Comercio, Alcoholes y Espectáculos Públicos para lo cual deberán identificarse en el ejercicio de sus funciones.
 
 ###### ARTÍCULO 60.
 
@@ -667,9 +747,11 @@ Las infracciones que no queden comprendidas en el presente Reglamento, serán sa
 
 Contra la imposición de multas a que se refiere el artículo anterior procederá el recurso de inconformidad.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 67.
 
-Para que proceda el recurso de inconformidad a que se refiere el Artículo anterior, deberá promoverse por el interesado ante el Presidente Municipal en cumplimiento a lo que establece el Artículo 8 de la Constitución Federal dentro de los 15 días siguientes a la fecha de calificación de la infracción por el Director de Comercio Municipal, dicho recurso deberá reunir los siguientes requisitos:
+Para que proceda el recurso de inconformidad a que se refiere el artículo anterior, deberá promoverse por el interesado ante el Presidente Municipal en cumplimiento a lo que establece el artículo 8 de la Constitución Federal dentro de los 15 días siguientes a la fecha de calificación de la infracción por el Jefe del Departamento de Comercio, Alcoholes y Espectáculos Públicos, dicho recurso deberá reunir los siguientes requisitos:
 
 a).- El nombre y domicilio del recurrente y en su caso, el de la persona que promueva en su nombre y representación acreditando debidamente la personalidad con que comparece;
 
@@ -719,7 +801,7 @@ Lic. Guillermo Bernardo Islas León
 
 SECRETARIO FEDATARIO
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 21 DE ENERO DE 2005.
 
@@ -740,3 +822,15 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 P.O. 10 DE OCTUBRE DE 2014.
 
 ÚNICO.- La presente reforma entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial para el Estado de Baja California.
+
+P.O. 21 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 25 DEL REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, RELATIVO A DICTAMEN 001/2017”.]
+
+UNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 6, 14, 16, 17, 22, 23, 25, 26, 27, 35, 43, 45, 46, 48, 49 BIS, 50, 54, 55, 59 Y 67 DEL REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, RELATIVO A DICTAMEN 005/2017”.]
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California a excepción del artículo 49 bis que entrará en vigor en el ejercicio fiscal 2018.
