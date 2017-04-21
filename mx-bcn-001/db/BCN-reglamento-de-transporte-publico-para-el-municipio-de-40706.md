@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-40706"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-16"
-last_updated: "2017-02-03"
+last_updated: "2017-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 16 de julio de 2004.
 
@@ -945,8 +945,6 @@ Previo al otorgamiento de una concesión o permiso para la prestación del servi
 
 ### CAPITULO IX. DE LAS OBLIGACIONES DE LOS PERMISIONARIOS Y CONCESIONARIOS
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
-
 ###### Artículo 58.
 
 Son obligaciones de los permisionarios y concesionarios:
@@ -967,7 +965,21 @@ VII.- Proporcionar capacitación continúa y permanente a sus operadores y demá
 
 VIII.- Cumplir con las disposiciones jurídicas y administrativas aplicables en materia ambiental;
 
-IX.- Vigilar que los conductores de sus vehículos, cuenten con su licencia para operar unidades de transporte público y con los requisitos y documentos necesarios para desempeñar esta actividad;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+IX.- Vigilar que los conductores de sus vehículos, cuenten con:
+
+a. Licencia de conducir vigente para operar unidades de transporte público.
+
+b. Constancia de antecedentes penales.
+
+c. Certificado médico que acredite las condiciones óptimas del conductor para prestar el servicio.
+
+d. Examen toxicológico.
+
+e. Requisitos y documentos necesarios para desempeñar esta actividad que deberán ser parte de un expediente administrativo de la Unidad Municipal de Transporte.
+
+La Unidad Municipal de Transporte será la autoridad competente de la revisión del cumplimiento de los documentos que se mencionan en los incisos anteriores.
 
 X.- Contar con póliza de seguro vigente para responder de los daños y perjuicios que con motivo de la prestación del servicio, pudieran ocasionarse a los usuarios, peatones, conductores y terceros en su persona o patrimonio;
 
@@ -1205,7 +1217,7 @@ Tanto la fijación inicial como las sucesivas revisiones de las tarifas, deberá
 
 Las tarifas del transporte público y de las actividades auxiliares y complementarias del transporte, deberán cubrir la totalidad de los costos reales en condiciones normales de productividad y organización, y permitirán una adecuada amortización y un razonable beneficio empresarial y una correcta prestación del servicio o realización de la actividad, no dejando de retribuir, en su caso, las prestaciones complementarias.
 
-La estructura tarifaría se ajustará a las características del transporte o de la actividad auxiliar o complementaria del mismo de que en cado caso se trate, y se configurará de forma que fomente la inversión, la seguridad y la calidad.
+La estructura tarifaría se ajustará a las características del transporte o de la actividad auxiliar o complementaria del mismo de que en cada caso se trate, y se configurará de forma que fomente la inversión, la seguridad y la calidad.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
@@ -1576,3 +1588,9 @@ P.O. 3 DE FEBRERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 004/2016, RELATIVO AL PROYECTO QUE REFORMA LOS ARTÍCULOS 60 Y 61 DEL REGLAMENTO DEL TRANSPORTE PÚBLICO DE MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
 
 UNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal.
+
+P.O. 21 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 58 DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, RELATIVO A DICTAMEN 001/2017”.]
+
+UNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
