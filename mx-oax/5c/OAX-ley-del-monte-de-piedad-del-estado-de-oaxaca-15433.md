@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-monte-de-piedad-del-estado-de-oaxaca-15433"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-10"
-last_updated: "2005-03-22"
+last_updated: "2017-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL MONTE DE PIEDAD DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 10 de octubre de 1998.
 
@@ -119,31 +119,45 @@ II.- El Director General.
 
 El Consejo de Administración es la autoridad suprema del Monte de Piedad y se integrará de la siguiente forma:
 
-I.- Un Presidente que será el Titular del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+I.- Un Presidente, que será el Titular de la Secretaría de Finanzas;
 
 II.- Un Secretario Técnico que será el Director General del Monte de Piedad;
 
 III.- Seis vocales que serán:
 
-A).- Un Representante de la Secretaría de Finanzas, designado por su titular;
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+A).- El Titular de la Consejería Jurídica del Gobierno del Estado;
 
-B).- Un Representante de la Secretaría de Economía, designado por su titular;
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
-C).- Un Representante de la Secretaría de Administración, designado por su titular;
+B).- El Titular de la Secretaría de Economía;
 
-D).- Un representante de la Secretaría de Salud, designado por su titular;
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
-E).- Un representante de la Secretaría de Protección Ciudadana, designado por su titular; y
+C).- El Titular de la Secretaría de Administración;
 
-F).- Un Representante del Sistema para el Desarrollo Integral de la Familia en el Estado de Oaxaca, designado por su titular; y
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+D).- El Titular de la Secretaría de Salud;
 
-IV.- Un Comisario que será el delegado contralor adscrito al Monte de Piedad o un representante de la Secretaría de la Contraloría.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
-Por cada integrante propietario existirá un suplente, quien será designado por el Titular del Poder Ejecutivo del Estado. El cargo de suplente es indelegable, por lo que en las sesiones del Consejo de Administración no podrán acreditarse representantes de éste.
+E).- El Titular de la Coordinación Estatal de Protección Civil de Oaxaca, y
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+F).- El Titular del Sistema para el Desarrollo Integral de la Familia en el Estado de Oaxaca.
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+
+IV.- Un Comisario, que será el Titular de la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+Cada integrante propietario podrá acreditar un suplente, mediante oficio que expida el miembro propietario dirigido al Presidente del Consejo de Administración. El cargo de suplente es indelegable, por lo que en las sesiones no podrán acreditarse representantes de éste.
 
 Los miembros del Consejo de Administración participarán en las sesiones del mismo, con voz y voto, a excepción del Secretario técnico y el Comisario quienes, tendrán voz pero no voto.
 
@@ -299,7 +313,7 @@ El personal de confianza queda sujeto a las cláusulas del contrato respectivo y
 
 Para efectos de coordinación, supervisión y evaluación de los planes y programas, el Monte de Piedad, estará sujeto a las disposiciones que las Secretarías de Finanzas, de Administración y de la Contraloría, tiene como atribuciones de acuerdo a lo dispuesto por los artículos 45, 46, 47 y 48 de la Ley de Entidades Paraestatales del Estado de Oaxaca.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### Artículo 23.
 
@@ -365,8 +379,34 @@ LIC. HECTOR ANUAR MAFUD MAFUD.
 
 Al C......
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 22 DE MARZO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 578.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL MONTE DE PIEDAD DEL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las áreas administrativas a través de la Secretaría de Administración, que por este Decreto se transfieren o cambian de sector, o se extinguen y transfieren sus recursos humanos, materiales y financieros se entenderán subrogadas y contraídas por sus correlativas.
+
+TERCERO. Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las áreas y entidades, cuyas funciones se reforman en virtud de esta Ley, se entenderán referidas a las áreas y entidades a quienes respectivamente, corresponden tales funciones.
+
+CUARTO. Los recursos humanos, financieros y materiales que venía utilizando el área administrativa de Giras, el Hangar y Casa Oficial bajo la administración de la Secretaría de Administración, se trasferirán a la Secretaría de Finanzas, debiendo intervenir en el ámbito de sus competencias; la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+QUINTO. Las Secretarías de Finanzas, de Administración y de la Contraloría y Transparencia Gubernamental, en uso de sus facultades legales, realizarán todos los actos concernientes para el debido cumplimiento del presente Decreto.
+
+SEXTO. Los asuntos que con motivo de estas reformas, deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado, hasta que las áreas administrativas que se trasfieren se incorporen a la Dependencia que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+SÉPTIMO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar los cambios en las estructuras orgánicas que por esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca se derogan o transfieren, así como para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación del presente Decreto, informando las adecuaciones a la Legislatura del Congreso del Estado.
+
+OCTAVO. En todos los casos que por la aplicación de esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca se modifique la estructura orgánica de las áreas administrativas y entidades o sus áreas administrativas de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables de la materia.
+
+NOVENO. Se faculta al Titular de la Secretaría de Finanzas para que, en términos de lo establecido en la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, y su Reglamento, así como, en el Decreto que autoriza el Presupuesto de Egresos del Estado de Oaxaca para el ejercicio fiscal dos mil diecisiete, realice los ajustes presupuestales que correspondan, para el cumplimiento del presente Decreto, informando a la Legislatura del Congreso del Estado, para los efectos legales conducentes.
+
+DÉCIMO. El Consejo de Administración del Monte de Piedad deberá quedar instalado dentro de los siguientes 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Titular del Poder Ejecutivo en un término no mayor a 60 días hábiles siguientes al de la entrada en vigor del presente Decreto, publicará las adecuaciones reglamentarias necesarias de conformidad con la presente reforma.
