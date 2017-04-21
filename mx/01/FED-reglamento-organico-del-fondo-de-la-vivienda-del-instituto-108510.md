@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-fondo-de-la-vivienda-del-instituto-1085
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-06-09"
-last_updated: "2015-06-09"
+last_updated: "2017-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108510&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-04-29"
 
 REGLAMENTO ORGÁNICO DEL FONDO DE LA VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE ABRIL DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 9 de junio de 2015.
 
@@ -58,6 +58,8 @@ Este Reglamento es de observancia obligatoria para los servidores públicos del 
 En el ejercicio de sus responsabilidades, atribuciones y funciones, los servidores públicos del FOVISSSTE deben promover, respetar y proteger los derechos humanos consagrados en la Constitución Política de los Estados Unidos Mexicanos, bajo criterios de legalidad, honestidad, igualdad, transparencia, no discriminación e integridad. Asimismo deben aplicar el principio pro persona e incorporar la centralidad del Derechohabiente en sus procesos y actividades. Ello con el propósito de que el Instituto ofrezca seguros, prestaciones y servicios de calidad, con oportunidad y calidez.
 
 Los servidores públicos del FOVISSSTE deben realizar sus actividades con una perspectiva de género que impulse la igualdad sustantiva entre los sexos sin discriminación.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 21 DE ABRIL DE 2017)
 
 ###### Artículo 4.
 
@@ -111,13 +113,25 @@ XIX. Secretario Técnico: el Secretario Técnico de la Comisión Ejecutiva;
 
 XX. SIBADAC: el Sistema Integral de Bases de Datos de Cartera del FOVISSSTE;
 
-XXI. Unidades Administrativas: las señaladas en el artículo 5 del Estatuto Orgánico;
+> <small>(ADICIONADA, D.O.F. 21 DE ABRIL DE 2017)</small>
 
-XXII. Unidades Administrativas Centrales: las Unidades Administrativas, señaladas en la fracción II del artículo 5 del Estatuto Orgánico; y
+XXI. Sistema de Control Interno: el conjunto de objetivos y lineamientos necesarios para su implementación, que establezca el Vocal Ejecutivo de la Comisión Ejecutiva del FOVISSSTE, con el propósito de operar una estrategia que permita prever, identificar, administrar, dar seguimiento y evaluar los riesgos que pueden derivarse del otorgamiento y recuperación de los créditos hipotecarios, con el propósito de minimizar las posibles pérdidas en las que se pueda incurrir; así como delimitar las funciones y responsabilidades de las áreas administrativas del FOVISSSTE.
 
-XXIII. Unidades Administrativas Desconcentradas: las Unidades Administrativas, señaladas en la fracción III del artículo 5 del Estatuto Orgánico; y
+(REPUBLICADA, D.O.F. 21 DE ABRIL DE 2017)
 
-XXIV. Vocal Ejecutivo: el Vocal Ejecutivo de la Comisión Ejecutiva.
+XXII. Unidades Administrativas: las señaladas en el artículo 5 del Estatuto Orgánico;
+
+> <small>(REFORMADA, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+XXIII. Unidades Administrativas Centrales: las Unidades Administrativas, señaladas en la fracción II del artículo 5 del Estatuto Orgánico;
+
+(REPUBLICADA, D.O.F. 21 DE ABRIL DE 2017)
+
+XXIV. Unidades Administrativas Desconcentradas: las Unidades Administrativas, señaladas en la fracción III del artículo 5 del Estatuto Orgánico; y
+
+(REPUBLICADA, D.O.F. 21 DE ABRIL DE 2017)
+
+XXV. Vocal Ejecutivo: el Vocal Ejecutivo de la Comisión Ejecutiva.
 
 ###### Artículo 5.
 
@@ -201,6 +215,8 @@ Para su administración, el FOVISSSTE cuenta con un Vocal Ejecutivo, que es nomb
 
 El Vocal Ejecutivo representa al FOVISSSTE y a la Comisión Ejecutiva, de acuerdo con las facultades otorgadas en la Ley, el Estatuto Orgánico, el Reglamento, así como las que en su caso, le delegue el Director General.
 
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 21 DE ABRIL DE 2017)
+
 ###### Artículo 13.
 
 El Vocal Ejecutivo tiene las facultades y funciones que establecen el artículo 175 de la Ley, el artículo 66 del Estatuto Orgánico y las siguientes funciones:
@@ -209,19 +225,89 @@ I. Presentar a la Comisión Ejecutiva los asuntos previstos en el artículo 214,
 
 II. Coordinar las directrices y mecanismos para ejecutar la planeación estratégica del FOVISSSTE, con base en las políticas del Plan Nacional de Desarrollo y del programa sectorial de vivienda, así como el programa institucional;
 
-III. Aprobar y ejecutar los planes anuales de auditoría interna y de control interno del FOVISSSTE, en términos de las disposiciones de carácter general emitidas por la CNBV y por otras normas aplicables;
+> <small>(REFORMADA, D.O.F. 21 DE ABRIL DE 2017)</small>
 
-IV. Someter a consideración de la Comisión Ejecutiva el modelo integral de cobranza del FOVISSSTE, así como las propuestas de solución para los acreditados interesados en regularizar su adeudo;
+III. Emitir opinión sobre el plan anual de auditoría interna del FOVISSSTE, en términos de las disposiciones de carácter general emitidas por la CNBV y por otras normas aplicables;
 
-V. Proponer a la Comisión Ejecutiva los criterios para la aplicación por parte del FOVISSSTE de Acciones de vivienda;
+> <small>(REFORMADA, D.O.F. 21 DE ABRIL DE 2017)</small>
 
-VI. Representar a la Comisión Ejecutiva y al Instituto en los juicios en que sean parte respecto de asuntos vinculados con el ejercicio de las facultades del FOVISSSTE, ejercitando las acciones, excepciones, defensas y medios de impugnación que a su consideración resulten pertinentes y procedentes, y rendir los informes en los juicios de amparo en la que sea señalada como autoridad responsable, pudiendo delegar la presente función en el servidor público que resulte idóneo;
+IV. Elaborar el Plan de Continuidad de Negocio, para someterlo a consideración del Comité de Auditoría y posterior presentación a la Comisión Ejecutiva, en términos de las disposiciones de carácter general emitidas por la CNBV;
 
-VII. Delegar a las Gerencias Regionales la aplicación del beneficio previsto en el artículo 182 de la Ley;
+> <small>(REFORMADA, D.O.F. 21 DE ABRIL DE 2017)</small>
 
-VIII. Atender los asuntos que requieran urgente resolución, a reserva de informar a la Comisión Ejecutiva sobre las acciones realizadas y los resultados obtenidos; y
+V. Revisar y actualizar el Código de Conducta para su presentación a la Comisión Ejecutiva;
 
-IX. Realizar las demás funciones inherentes al cargo que le confiera o le señalen los órganos de gobierno del Instituto y/o sean determinadas por la normatividad aplicable.
+> <small>(REFORMADA, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+VI. Revisar y actualizar los manuales del FOVISSSTE, para aprobación de la Comisión Ejecutiva;
+
+> <small>(REFORMADA, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+VII. Someter a consideración de la Comisión Ejecutiva el modelo integral de cobranza del FOVISSSTE, así como las propuestas de solución para los acreditados interesados en regularizar su adeudo;
+
+> <small>(REFORMADA, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+VIII. Proponer a la Comisión Ejecutiva los criterios para la aplicación por parte del FOVISSSTE de Acciones de vivienda;
+
+> <small>(REFORMADA, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+IX. Representar a la Comisión Ejecutiva y al Instituto en los juicios en que sean parte respecto de asuntos vinculados con el ejercicio de las facultades del FOVISSSTE, ejercitando las acciones, excepciones, defensas y medios de impugnación que a su consideración resulten pertinentes y procedentes, y rendir los informes en los juicios de amparo en la que sea señalada como autoridad responsable, pudiendo delegar la presente función en el servidor público que resulte idóneo;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+X. Delegar a las Gerencias Regionales la aplicación del beneficio previsto en el artículo 182 de la Ley;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+XI. Entregar, en tiempo y forma, la información relativa a las operaciones crediticias al menos a una sociedad de información crediticia, en términos de la normatividad aplicable;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+XII. Informar bimestralmente a la Comisión Ejecutiva, al Comité de Auditoría, así como al Comité de Riesgos, sobre las desviaciones que detecte con relación a los objetivos, lineamientos, políticas, procedimientos, estrategias y normatividad vigente en materia de crédito;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+XIII. Informar cada dos años a la Comisión Ejecutiva, los resultados de la evaluación técnica de los aspectos de la Administración Integral de Riesgos, para su posterior remisión a la CNBV, en términos de las disposiciones de carácter general emitidas por la citada CNBV;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+XIV. Elaborar, revisar y en su caso, actualizar los objetivos y lineamientos del Sistema de Control Interno, para someterlo a consideración del Comité de Auditoría y posterior presentación a la Comisión Ejecutiva;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+XV. Implementar el Sistema de Control Interno, acorde con las estrategias y fines del Fondo de la Vivienda, aplicando las medidas preventivas y correctivas necesarias;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+XVI. Cumplir con las medidas preventivas y correctivas determinadas por la Comisión Ejecutiva o el Comité de Auditoría relacionadas con el Sistema de Control Interno;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+XVII. Dictar las medidas necesarias para que en el manejo de la información de los acreditados se conserve su confidencialidad conforme a las disposiciones legales y reglamentarias aplicables;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+XVIII. Elaborar y presentar a la Comisión Ejecutiva, para aprobación, las políticas para el adecuado empleo y aprovechamiento de los recursos humanos y materiales;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+XIX. Informar anualmente por escrito a la Comisión Ejecutiva sobre la implementación del Sistema de Control Interno, previa consideración del Comité de Auditoría;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+XX. Informar a la CNBV, la designación y remoción del Auditor Externo Independiente y del Auditor Interno;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+XXI. Ejercer las funciones de contraloría interna, en términos de las disposiciones de carácter general emitidas por la CNBV y por otras normas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+XXII. Atender los asuntos que requieran urgente resolución, a reserva de informar a la Comisión Ejecutiva sobre las acciones realizadas y los resultados obtenidos; y
+
+> <small>(ADICIONADA, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+XXIII. Realizar las demás funciones inherentes al cargo que le confiera o le señalen los órganos de gobierno del Instituto y/o sean determinadas por la normatividad aplicable.
 
 Para la ejecución de los programas referidos en la fracción III de este artículo, el FOVISSSTE puede contratar a los prestadores de servicios que considere necesarios en términos de las leyes aplicables.
 
@@ -248,6 +334,12 @@ VIII. Organizar los eventos profesionales que se programen en el FOVISSSTE;
 IX. Proponer el diseño de las campañas de difusión de interés del FOVISSSTE; y
 
 X. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+###### Artículo 14 Bis.
+
+La Vocalía Ejecutiva cuenta con un Departamento de Contraloría Interna, que tendrá las funciones de control y gestión previstas en las disposiciones de carácter general emitidas por la CNBV, y las que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
 
 ### CAPÍTULO CUARTO. DE LA SECRETARÍA TÉCNICA
 
@@ -2755,9 +2847,11 @@ IV. Comité de Auditoría; y
 
 V. Grupo de Trabajo de Atención a Acreditados.
 
+> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 2017)</small>
+
 ###### Artículo 111.
 
-El Comité de Riesgos se constituye como un cuerpo colegiado de carácter técnico y consultivo para auxiliar en el ámbito de su competencia a la Subdirección de Administración Integral de Riesgos, teniendo las atribuciones que se establezcan en el Manual de Integración y Funcionamiento que al efecto expida el Director General y aquellas que le asignen la Junta, la Comisión Ejecutiva y el Vocal Ejecutivo.
+El Comité de Riesgos se constituye como un cuerpo colegiado de carácter técnico para auxiliar en el ámbito de su competencia a la Comisión Ejecutiva, en la administración de los riesgos a que se encuentra expuesto el FOVISSSTE, teniendo las atribuciones que se establezcan en el Manual de Integración y Funcionamiento que al efecto expida el Director General y aquellas que le asignen la Junta y la Comisión Ejecutiva.
 
 ###### Artículo 112.
 
@@ -2767,9 +2861,11 @@ El Comité de Inversiones se constituye como un cuerpo colegiado de carácter t�
 
 El Comité de Crédito se constituye como un cuerpo colegiado de carácter técnico y consultivo para auxiliar en el ámbito de su competencia a la Subdirección de Crédito, teniendo las atribuciones que se establezcan en el Manual de Integración y Funcionamiento que al efecto expida el Director General y aquellas que le asignen la Junta, la Comisión Ejecutiva y el Vocal Ejecutivo.
 
+> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 2017)</small>
+
 ###### Artículo 114.
 
-El Comité de Auditoría se constituye como un cuerpo colegiado de carácter técnico y consultivo para auxiliar en el ámbito de su competencia al Vocal Ejecutivo, teniendo las atribuciones que se establezcan en el Manual de Integración y Funcionamiento que al efecto expida el Director General y aquellas que le asignen la Junta, la Comisión Ejecutiva y el Vocal Ejecutivo.
+El Comité de Auditoría se constituye como un cuerpo colegiado de carácter técnico y consultivo de apoyo a la Comisión Ejecutiva en la definición y actualización de los objetivos del Sistema de Control Interno y de los lineamientos para su implementación y evaluación, teniendo las atribuciones que se establezcan en el Manual de Integración y Funcionamiento que al efecto expida el Director General y aquellas que le asignen la Junta y la Comisión Ejecutiva.
 
 ###### Artículo 115.
 
@@ -2777,9 +2873,29 @@ El Grupo de Trabajo de Atención a Acreditados se constituye en un cuerpo de car
 
 ## TÍTULO CUARTO. DEL ÓRGANO INTERNO DE CONTROL
 
+> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 2017)</small>
+
 ###### Artículo 116.
 
-El FOVISSSTE cuenta con un Órgano Interno de Control, cuyo titular es designado en términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, y depende jerárquica y funcionalmente del titular de la Secretaría de la Función Pública. En el ejercicio de sus funciones dicho órgano cuenta con los titulares a que se refiera el Reglamento Interno de la Secretaría de la Función Pública.
+El FOVISSSTE cuenta con un Órgano Interno de Control, cuyo titular es designado en términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, y depende jerárquica y funcionalmente del titular de la Secretaría de la Función Pública. Dicho órgano cuenta con la estructura y facultades a que se refiera el Reglamento Interno de la Secretaría de la Función Pública.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+## TÍTULO QUINTO. DE LA AUDITORÍA INTERNA
+
+> <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+###### Artículo 117.
+
+El FOVISSSTE cuenta con un área de Auditoría Interna, independiente de sus Unidades de negocio y administrativas, cuyo responsable será designado por la Comisión Ejecutiva, a propuesta del Comité de Auditoría.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 2017)</small>
+
+###### Artículo 118.
+
+El Área de Auditoría Interna revisará periódica y sistemáticamente, de acuerdo con su Programa Anual de Trabajo, el funcionamiento del Sistema de Control Interno y, sujeto a la disponibilidad presupuestal del FOVISSSTE, realizará cuando menos, una vez al año o al cierre de cada ejercicio una auditoría de Administración Integral de Riesgos, observando las disposiciones de carácter general de la CNBV.
+
+Las funciones, políticas y metodología para su correcto desempeño atenderán a las disposiciones de carácter general emitidas por la CNBV y se establecerán en los Manuales que al efecto se expidan.
 
 ## TRANSITORIOS
 
@@ -2798,3 +2914,13 @@ Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
 Atentamente
 
 México, D.F., a 29 de abril de 2015.- El Secretario General y Secretario de la Junta Directiva, Ricardo Luis Antonio Godina Herrera.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 21 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO 60.1357.2017 DE LA JUNTA DIRECTIVA RELATIVO A LA APROBACIÓN DE REFORMAS Y ADICIONES DEL REGLAMENTO ORGÁNICO DEL FONDO DE LA VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO".]
+
+PRIMERO. Las reformas y adiciones al presente Reglamento entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Departamento de Contraloría Interna y el área de Auditoría Interna previstos en este Reglamento, entrarán en vigor hasta que su estructura orgánica y presupuestal le sea aprobada al FOVISSSTE, por parte de la Secretaría de Hacienda y Crédito Público y de la Secretaría de la Función Pública.
