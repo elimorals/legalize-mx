@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2017-04-19"
+last_updated: "2017-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -819,13 +819,13 @@ IV. La realización de estudios epidemiológicos; y
 
 V. Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### Artículo 69 Bis.
 
-La Secretaría de Salud implementará programas de educación, prevención, información, socialización y detección de cáncer de mama y cérvicouterino, y de próstata de manera permanente en las dependencias y hospitales del sector salud, de tal forma que garantice a las mujeres la realización de exámenes de detección de cáncer de mama y cérvicouterino, y de próstata a los hombres, de manera gratuita, por lo menos una vez al año.
+La Secretaría de Salud implementará programas de educación, prevención, información, socialización y detección de cáncer de mama, cérvicouterino, de próstata y de diabetes de manera permanente en las dependencias y hospitales del sector salud, de tal forma que garantice a las mujeres la realización de exámenes de detección de cáncer de mama, cérvicouterino, de próstata a los hombres y de diabetes para ambos, de manera gratuita, por lo menos una vez al año.
 
-En los lugares donde no existan clínicas del sector público, dicha autoridad de salud del Estado realizará convenios de colaboración con los Ayuntamientos, clínicas particulares o patrocinadoras del sector privado, para que se realice el servicio gratuito de exámenes para la detección de cáncer de mama y cérvicouterino, y de próstata.
+En los lugares donde no existan clínicas del sector público, dicha autoridad de salud del Estado realizará convenios de colaboración con los Ayuntamientos, clínicas particulares o patrocinadoras del sector privado, para que se realice el servicio gratuito de exámenes para la detección de cáncer de mama, cérvicouterino, próstata y de diabetes.
 
 ###### Artículo 70.
 
@@ -3078,3 +3078,11 @@ P.O. 19 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 110 DEL H. CONGRESO DEL ESTADO.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 33, FRACCIÓN I DEL 84 Y 85 DE LA LEY DE SALUD DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 21 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 108 QUE REFORMA EL ARTÍCULO 69 BIS DE LA LEY DE SALUD DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
