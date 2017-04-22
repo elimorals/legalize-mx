@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-la-juventud-del-estado-de-zacatecas-100875"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-03"
-last_updated: "2016-08-27"
+last_updated: "2017-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 3 de mayo de 2014.
 
@@ -59,7 +59,9 @@ I. Ejecutivo. Al titular del Poder Ejecutivo del Estado de Zacatecas;
 
 II. Secretaría. A la Secretaría de Desarrollo Social del Poder Ejecutivo del Estado de Zacatecas;
 
-III. Subsecretaría. A la Subsecretaría de la Juventud de la Secretaría de Desarrollo Social del Poder Ejecutivo del Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2017)</small>
+
+III. Instituto: Al Instituto de la Juventud del Estado de Zacatecas;
 
 IV. Legislatura. A la Legislatura del Estado de Zacatecas;
 
@@ -67,9 +69,9 @@ V. Comisión. A la Comisión de la Niñez, la Juventud y la Familia de la Legisl
 
 VI. Instancias municipales de juventud. A los institutos u organismos municipales encargados de la atención de los jóvenes;
 
-VII. Sistema Estatal. Al Sistema Estatal de Juventud de Zacatecas;
+VII. (DEROGADA, P.O. 22 DE ABRIL DE 2017)
 
-VIII. Junta Directiva. A la Junta Directiva del Sistema Estatal de Juventud de Zacatecas;
+VIII. (DEROGADA, P.O. 22 DE ABRIL DE 2017)
 
 IX. Consejo Juvenil. Al Consejo Juvenil del Estado de Zacatecas;
 
@@ -93,9 +95,11 @@ V. Identidad. Promover entre los jóvenes acciones y programas destinados a la c
 
 VI. Transversalidad. La directriz para articular, homologar y complementar políticas públicas, programas y acciones entre los distintos órdenes de gobierno a partir de una visión integral que incluya la seguridad pública, desarrollo social, economía, cultura y derechos humanos con atención particular en los derechos fundamentales de los jóvenes, considerando las diversas etapas de la juventud y la necesidad de establecer estrategias específicas para cada una de ellas.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2017)</small>
+
 ###### Artículo 4.
 
-La Legislatura, el Ejecutivo, los Ayuntamientos, las instituciones educativas, las asociaciones civiles y la ciudadanía, de manera corresponsable, promoverán y coadyuvarán en el cumplimiento de la presente Ley.
+La Legislatura, el Ejecutivo, el Instituto, los Ayuntamientos, las instituciones educativas, las asociaciones civiles y la ciudadanía, de manera corresponsable, promoverán y coadyuvarán en el cumplimiento de la presente Ley.
 
 ###### Artículo 5.
 
@@ -411,9 +415,11 @@ XXIX. Respetar los derechos y garantías de los demás.
 
 ### CAPÍTULO I. CONSIDERACIONES PARA EL DISEÑO DE POLÍTICAS PÚBLICAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2017)</small>
+
 ###### Artículo 19.
 
-El diseño de las políticas públicas en materia de juventud, así como el Sistema Estatal, deberá considerar la planeación, programación y la elaboración del presupuesto necesario para su implementación y con estricto apego a las siguientes consideraciones:
+El diseño de las políticas públicas en materia de juventud, deberá considerar la planeación, programación y la elaboración del presupuesto necesario para su implementación y con estricto apego a las siguientes consideraciones:
 
 I. Fomentar la incorporación de buenos hábitos en el desarrollo de la juventud, a través de programas educativos y sociales pertinentes, que faciliten a la juventud su integración social y la práctica de valores universales;
 
@@ -451,7 +457,9 @@ El Comité Organizador estará integrado por:
 
 I. Un Presidente, que será el presidente de la Comisión;
 
-II. Una Secretaría, que será el titular de la Subsecretaría;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2017)</small>
+
+II. Una Secretaría, que será el titular del Instituto;
 
 III. Una primera vocalía, a cargo del presidente de la autoridad electoral administrativa;
 
@@ -495,15 +503,21 @@ La conformación de la mesa directiva del Parlamento Joven y el desarrollo de la
 
 Se declara el doce de agosto de cada año como "Día Estatal de la Juventud", fecha en la cual se otorgarán premios y reconocimientos a jóvenes zacatecanos destacados por su contribución a la sociedad.
 
-La Subsecretaría deberá impulsar y gestionar actividades, con el firme propósito de honrar a la juventud como baluarte de la familia y la sociedad zacatecana, las que podrán desarrollarse en el marco de las celebraciones del Día Estatal de la Juventud.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2017)</small>
+
+El Instituto deberá impulsar y gestionar actividades, con el firme propósito de honrar a la juventud como baluarte de la familia y la sociedad zacatecana, las que podrán desarrollarse en el marco de las celebraciones del Día Estatal de la Juventud.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2017)</small>
 
 ###### Artículo 31.
 
-El Ejecutivo, a través de la Subsecretaria, celebrará durante el mes de agosto, actos y ceremonias que promuevan el desarrollo integral de los jóvenes y coordinará la celebración del "Día Internacional de la Juventud" por medio de la realización de conferencias, concursos, eventos sociales y culturales que estimulen la sana convivencia y el desarrollo del sector juvenil.
+El Instituto celebrará durante el mes de agosto, actos y ceremonias que promuevan el desarrollo integral de los jóvenes y coordinará la celebración del “Día Internacional de la Juventud” por medio de la realización de conferencias, concursos, eventos sociales y culturales que estimulen la sana convivencia y el desarrollo del sector juvenil.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2017)</small>
 
 ###### Artículo 32.
 
-La Subsecretaría podrá coordinarse con las dependencias y entidades de la administración pública de los ámbitos federal, estatal y municipal para dichas celebraciones.
+El Instituto podrá coordinarse con las dependencias y entidades de la administración pública de los ámbitos federal, estatal y municipal para dichas celebraciones.
 
 ### CAPÍTULO IV. DEL PREMIO ESTATAL DE LA JUVENTUD
 
@@ -511,9 +525,11 @@ La Subsecretaría podrá coordinarse con las dependencias y entidades de la admi
 
 Se instituye el Premio Estatal de la Juventud, con el objetivo de reconocer y motivar a los jóvenes que se destacan por sus conductas, actos u obras de trayectoria.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2017)</small>
+
 ###### Artículo 34.
 
-El Ejecutivo, a través de la Subsecretaría, será responsable de la emisión y publicación de la convocatoria para la participación en los concursos y eventos con motivo del Premio, en ella se establecerán las bases, requisitos, modalidades y categorías para su otorgamiento, así como para la difusión de los mismos.
+El Instituto será responsable de la emisión y publicación de la convocatoria para la participación en los concursos y eventos con motivo del Premio, en ella se establecerán las bases, requisitos, modalidades y categorías para su otorgamiento, así como para la difusión de los mismos.
 
 ###### Artículo 35.
 
@@ -525,21 +541,27 @@ La convocatoria se publicará en el mes de mayo, la cual tendrá una duración d
 
 El Ejecutivo incentivará en los jóvenes la constitución de organizaciones de la sociedad civil, conforme a lo establecido en la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil y la propia del Estado, para fomentar la participación social y política de este sector.
 
-El Ejecutivo, a través de la Subsecretaría, proporcionará las capacitaciones necesarias para la creación y fortalecimiento de asociaciones de las organizaciones de la sociedad civil de jóvenes.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2017)</small>
+
+El Instituto proporcionará las capacitaciones necesarias para la creación y fortalecimiento de asociaciones y organizaciones de la sociedad civil de jóvenes.
 
 ###### Artículo 37.
 
 El Ejecutivo promoverá la celebración de convenios para la obtención de descuentos en el costo por el servicio de notaría, en la conformación de organizaciones de la sociedad civil integradas por jóvenes.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2017)</small>
+
 ###### Artículo 38.
 
-Las organizaciones de la sociedad civil enfocadas al sector juvenil podrán coadyuvar, según sea el caso, con el Sistema Estatal y con el Consejo Juvenil, fomentando actividades a favor del desarrollo integral de los jóvenes.
+Las organizaciones de la sociedad civil enfocadas al sector juvenil podrán coadyuvar, según sea el caso, con el Consejo Juvenil, fomentando actividades a favor del desarrollo integral de los jóvenes.
 
 ### CAPÍTULO VI. DEL PRIMER EMPLEO DEL JOVEN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2017)</small>
+
 ###### Artículo 39.
 
-El Primer Empleo del Joven se entenderá como el proceso de integración al mercado laboral de los jóvenes de los catorce a los veintinueve años de edad y les permitirá participar en la capacitación y formación laboral articulados con el proceso de la educación formal.
+El Primer Empleo del Joven se entenderá como el proceso de integración al mercado laboral de los jóvenes de los dieciséis a los veintinueve años de edad y les permitirá participar en la capacitación y formación laboral articulados con el proceso de la educación formal.
 
 Las actividades a desempeñar en el Primer Empleo del Joven deberán ser adecuadas al nivel de formación y preparación académica.
 
@@ -547,9 +569,11 @@ Bajo ninguna circunstancia dichas actividades serán en detrimento de su formaci
 
 Las actividades de los jóvenes en el Primer Empleo del Joven se realizarán en las modalidades de práctica de aprendizaje y pasantía.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2017)</small>
+
 ###### Artículo 40.
 
-El Ejecutivo, a través de la Subsecretaría, dependencias competentes, el Sistema Estatal y los Ayuntamientos, promoverán la implementación de programas, acciones y políticas públicas para el Primer Empleo del Joven, pudiendo coordinarse para tal fin.
+El Ejecutivo, el Instituto, las dependencias competentes y los Ayuntamientos, promoverán la implementación de programas, acciones y políticas públicas para el Primer Empleo Joven, pudieron (sic) coordinarse para tal fin.
 
 ###### Artículo 41.
 
@@ -577,19 +601,25 @@ El programa de rescate de espacios públicos tiene como objeto mejorar el entorn
 
 En dichos espacios se privilegiará el desarrollo de actividades artístico-culturales, recreativas, deportivas y, en general, de desarrollo personal de los jóvenes.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2017)</small>
+
 ###### Artículo 43.
 
-El Ejecutivo, a través de la Subsecretaría, administrará el padrón de espacios públicos con éstas características y mantendrá una estrecha colaboración con las diversas instancias federales, estales (sic) y municipales, con la finalidad dar (sic) seguimiento a su aprovechamiento óptimo.
+El Instituto administrará el padrón de espacios públicos con éstas características y mantendrá una estrecha colaboración con las diversas instancias federales, estatales y municipales, con la finalidad de dar seguimiento a su aprovechamiento óptimo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2017)</small>
 
 ###### Artículo 44.
 
-El Ejecutivo, a través de la Secretaría, establecerá la política pública pertinente en materia de rescate de espacios en desuso y que representen puntos de convivencia o cuenten con potencial para el desarrollo académico, cultural, social y deportivo de los jóvenes.
+El Ejecutivo, a través de la Secretaría, quien a su vez se coordinará con la dependencia encargada del desarrollo urbano, establecerá una política pública pertinente en materia de rescate de espacios en desuso y que representen puntos de convivencia o cuenten con potencial para el desarrollo académico, cultural, social y deportivo de los jóvenes.
 
 La habilitación de dichos espacios estará sujeta a la disponibilidad presupuestal del ejercicio.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2017)</small>
+
 ###### Artículo 45.
 
-La Subsecretaría realizará las gestiones que sean de su competencia para la conservación de los espacios rescatados, fomentando una estrecha comunicación con las instancias de juventud respectivas en los municipios y la Secretaría.
+El Instituto realizará las gestiones que sean de su competencia para la conservación de los espacios rescatados, fomentando una estrecha comunicación con las instancias de juventud respectivas en los municipios y la Secretaría.
 
 ## TÍTULO CUARTO. DE LAS AUTORIDADES EN MATERIA DE JUVENTUD
 
@@ -615,9 +645,13 @@ VII. Otorgar las facilidades necesarias a los jóvenes, en su derecho de acceso 
 
 VIII. Apoyar el fortalecimiento de las organizaciones juveniles constituidas legalmente;
 
-IX. Proveer los recursos, medios y lineamientos que permitan el cumplimiento pleno del Programa Estatal de la Juventud;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2017)</small>
 
-X. Publicar el Programa Estatal de la Juventud, previa aprobación de la Junta Directiva del Sistema Estatal;
+IX. Proveer los recursos y medios que permitan el cumplimiento pleno del Programa Estatal de la Juventud, en lo que respecte a sus atribuciones;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2017)</small>
+
+X. Elaborar, a través de la Secretaría y la Coordinación Estatal de Planeación, en coordinación con el Instituto, el Programa Estatal de Juventud, mismo que deberá aprobar y publicar en el Periódico Oficial, Órgano de Gobierno del Estado;
 
 XI. Establecer estrategias dirigidas a la creación, fomento y ampliación de las fuentes de trabajo para jóvenes, así como su capacitación laboral;
 
@@ -625,193 +659,81 @@ XII. Facilitar el acceso a servicios y beneficios sociales que permitan el desar
 
 XIII. Incluir en el Presupuesto de Egresos las partidas correspondientes;
 
-XIV. Vigilar el eficiente funcionamiento del Sistema Estatal; y
+XIV. (DEROGADA, P.O. 22 DE ABRIL DE 2017)
 
 XV. Las demás que contemple la presente Ley y la legislación aplicable.
 
 ###### Artículo 47.
 
-Corresponde a la Subsecretaría de la Juventud las siguientes atribuciones:
+(DEROGADO, P.O. 22 DE ABRIL DE 2017)
 
-I. Aplicar y evaluar la política de juventud en el Estado, de conformidad con los Planes Nacional y Estatal de Desarrollo, así como ejecutar las acciones necesarias, para su cumplimiento y evaluar sistemáticamente el impacto de su aplicación;
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE ABRIL DE 2017)</small>
 
-II. Organizar, dirigir y coordinar programas que permitan incorporar a los jóvenes en el desarrollo del Estado;
+## TÍTULO QUINTO
 
-III. Actuar como órgano de consulta y asesoría de las dependencias y entidades de la administración pública estatal y municipal, así como de los sectores social y privado en materia de juventud;
-
-IV. Coordinar, promover y difundir estudios, investigaciones y diagnósticos sobre la problemática y temas de relevancia para los jóvenes, a fin de establecer políticas encaminadas al mejoramiento de las condiciones de la vida y la búsqueda de alternativas y coordinación institucional para el desarrollo juvenil;
-
-V. Promover la creación y funcionamiento de los institutos o dependencias municipales de atención a los jóvenes;
-
-VI. Auxiliar a las dependencias y entidades de la administración pública federal, estatal y municipal, en la difusión y promoción de los servicios que prestan a la juventud, cuando así lo requieran;
-
-VII. Generar la participación activa y organizada de los jóvenes para que actúen en la promoción, atención y defensa de sus derechos humanos;
-
-VIII. Impulsar el reconocimiento público al mérito y talento destacado de jóvenes zacatecanos;
-
-IX. Establecer acciones y acuerdos con las instituciones y organismos de los sectores social y privado, para llevar a cabo programas encaminados a fomentar la educación de los jóvenes;
-
-X. Generar políticas y programas que fomenten la integración de los jóvenes al mercado laboral con empleo digno y productivo, así como generar las condiciones de autoempleo y crecimiento para su desarrollo económico;
-
-XI. Coordinar la recuperación, rehabilitación y equipamiento de espacios públicos para la recreación juvenil;
-
-XII. Fomentar programas y estímulos educativos a los jóvenes estudiantes;
-
-XIII. Impulsar la creación y el fortalecimiento de las organizaciones de la sociedad civil integradas por jóvenes o cuyo objeto social sea el desarrollo del sector juvenil;
-
-XIV. Recabar y actualizar la información en materia de los jóvenes que considere pertinente, con el fin de diseñar y proponer acciones, planes, programas y políticas públicas en la materia; y
-
-XV. Las demás que le confieran otros ordenamientos jurídicos o le encomiende el Ejecutivo o el Secretario.
-
-## TÍTULO QUINTO. DEL SISTEMA ESTATAL DE JUVENTUD
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE ABRIL DE 2017)</small>
 
 ### CAPÍTULO I. DE LA NATURALEZA Y EL OBJETO
 
 ###### Artículo 48.
 
-El Sistema Estatal es un mecanismo permanente de diseño, aplicación, evaluación, coordinación, colaboración y concertación de acciones de las dependencias y entidades de los tres órdenes de gobierno; tiene por objeto el cumplimiento de los objetivos, planes y programas y la transversalidad de las políticas públicas de atención y bienestar de la juventud, así como la asignación de recursos para su realización con la finalidad de homologar y complementar políticas públicas, programas y acciones entre los distintos órdenes de gobierno.
-
-Dicho sistema procurará la congruencia de los planes y programas estatales y municipales en materia de juventud, con las políticas que sobre esta materia implemente el gobierno federal.
+(DEROGADO, P.O. 22 DE ABRIL DE 2017)
 
 ###### Artículo 49.
 
-Las atribuciones del Sistema son:
+(DEROGADO, P.O. 22 DE ABRIL DE 2017)
 
-I. Definir e instrumentar una política estatal de la juventud que permita incorporar plenamente a los jóvenes al desarrollo del Estado;
-
-II. El diseño, aplicación y evaluación de las políticas públicas y acciones relacionadas con el desarrollo de los jóvenes;
-
-III. Promover coordinadamente con las dependencias y entidades de la administración pública estatal y municipal, así como con la Comisión, en el ámbito de sus respectivas competencias, las acciones destinadas a mejorar el nivel de vida de los jóvenes, sus expectativas sociales y culturales, además de atender sus diversas problemáticas;
-
-IV. Unificar criterios en el diseño y ejecución de las políticas públicas en materia de juventud, con la finalidad de optimizar los recursos humanos, financieros y materiales, así como establecer indicadores de evaluación y seguimiento para verificar su impacto en el desarrollo de los jóvenes del Estado;
-
-V. Propiciar el acceso a las herramientas tecnológicas, técnicas y humanas para fomentar una dinámica de colaboración entre sociedad y gobierno de los niveles estatal y municipal;
-
-VI. Coadyuvar en la elaboración del Programa Estatal de Juventud, en apego a los lineamientos establecidos en el Plan Estatal de Desarrollo, el Programa Nacional de Juventud y la legislación vigente en la materia; y
-
-VII. Las demás que le confieran la presente Ley y otros ordenamientos.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE ABRIL DE 2017)</small>
 
 ### CAPÍTULO II. DE LA JUNTA DIRECTIVA
 
 ###### Artículo 50.
 
-El Sistema Estatal se compone por una Junta Directiva, cuyos integrantes tendrán carácter honorífico, y se conformará de la siguiente manera:
-
-I. Una Presidencia Honorífica, que será el titular del Poder Ejecutivo del Estado;
-
-II. Una Presidencia, que será el titular de la Secretaría de Desarrollo Social;
-
-III. Una Secretaría Ejecutiva, que será el titular de la Subsecretaría de la Juventud; y
-
-IV. Seis Coordinaciones de Eje.
+(DEROGADO, P.O. 22 DE ABRIL DE 2017)
 
 ###### Artículo 51.
 
-Los acuerdos de la Junta Directiva se tomarán por mayoría de votos de sus integrantes presentes en la sesión, ya sea en sesión ordinaria o extraordinaria, en caso de empate, la Presidencia tendrá voto de calidad.
+(DEROGADO, P.O. 22 DE ABRIL DE 2017)
 
 ###### Artículo 52.
 
-Las Coordinaciones de Eje, y sus titulares, son las siguientes:
-
-I. Fortalecimiento Académico, el titular de la Secretaría de Educación;
-
-II. Inserción Productiva, el titular de la Secretaría de Economía;
-
-III. Fomento Cultural, el titular del Instituto Zacatecano de Cultura "Ramón López Velarde";
-
-IV. Prevención, el titular de la Secretaría de Seguridad Pública del Estado de Zacatecas;
-
-V. Fomento a la Salud, el titular de los Servicios de Salud de Zacatecas; y
-
-VI. Activación Deportiva, el titular del Instituto de Cultura Física y Deporte del Estado de Zacatecas;
+(DEROGADO, P.O. 22 DE ABRIL DE 2017)
 
 ###### Artículo 53.
 
-Las atribuciones de la Presidencia son:
-
-I. Convocar a reunión ordinaria, con un mínimo de tres sesiones al año;
-
-II. Evaluar periódicamente el cumplimiento del Programa Estatal de Juventud, a fin de dar continuidad o establecer la reorientación de las acciones de los miembros del Sistema Estatal;
-
-III. Dar a conocer las determinaciones que emita la Junta Directiva;
-
-IV. Coordinar las actividades desempeñadas por la Secretaría Ejecutiva;
-
-V. Determinar indicadores de impacto y evaluación de funcionalidad de las políticas públicas instrumentadas por dependencia, en coordinación con la Secretaría Ejecutiva;
-
-VI. Establecer el formato y la temática a abordar en las reuniones de la Junta Directiva, considerando la información proporcionada por la Secretaría Ejecutiva;
-
-VII. Establecer la dinámica de trabajo del Sistema Estatal;
-
-VIII. Diseñar, en coordinación con la Secretaría Ejecutiva, los indicadores de evaluación, necesarios para cada etapa y cada proceso del Sistema Estatal;
-
-IX. Conducir las sesiones de la Junta Directiva del Sistema Estatal; y
-
-X. Las demás que establezca la presente Ley y su Reglamento.
+(DEROGADO, P.O. 22 DE ABRIL DE 2017)
 
 ###### Artículo 54.
 
-Las atribuciones de la Secretaría Ejecutiva son:
-
-I. Suplir, por ausencia, al Presidente en las reuniones ordinarias y extraordinarias que se establezcan;
-
-II. Convocar a reunión ordinaria por instrucciones de la Presidencia de la Junta Directiva;
-
-III. Convocar de manera extraordinaria a los miembros del Sistema Estatal, cuando las condiciones lo requieran;
-
-IV. Elaborar las minutas correspondientes a cada sesión de trabajo;
-
-V. Exponer la minuta al final de cada sesión y comunicar los acuerdos tomados;
-
-VI. Establecer un sistema de información en materia de juventud, con la finalidad de hacerse llegar los elementos necesarios para la toma de decisiones respecto del diseño, aplicación y evaluación de las acciones, planes, programas y políticas públicas para el desarrollo integral de los jóvenes;
-
-VII. Recabar la información relativa a las actividades realizadas por los Coordinadores de Eje;
-
-VIII. Recabar la información que sea solicitada por el Presidente, así como las opiniones y sugerencias de las dependencias que conforman la Junta Directiva del Sistema Estatal; y
-
-IX. Las demás que establezca la presente Ley y su Reglamento.
+(DEROGADO, P.O. 22 DE ABRIL DE 2017)
 
 ###### Artículo 55.
 
-Las Coordinaciones de Eje diseñarán, aplicarán y evaluarán la política pública en relación con cada Eje de atención considerado por el Sistema Estatal, en el ámbito de sus competencias.
+(DEROGADO, P.O. 22 DE ABRIL DE 2017)
 
 ###### Artículo 56.
 
-Los titulares de las Coordinaciones de Eje podrán nombrar a un suplente que los represente ante la Junta Directiva.
-
-Lo anterior, sin perjuicio del cumplimiento de los asuntos encomendados por el Sistema Estatal, siendo sometidos igualmente a la evaluación respectiva.
+(DEROGADO, P.O. 22 DE ABRIL DE 2017)
 
 ###### Artículo 57.
 
-Las atribuciones de las Coordinaciones de Eje, serán las siguientes:
-
-I. Asistir a las reuniones de la Junta Directiva convocadas por la Presidencia o por la Secretaría Ejecutiva, con derecho a voz y voto;
-
-II. Dar cumplimiento a las disposiciones establecidas por la Junta Directiva del Sistema Estatal;
-
-III. Proporcionar los medios técnicos y humanos para el cumplimiento de los planes, programas, acciones y políticas públicas derivados de los acuerdos tomados por la Junta Directiva del Sistema Estatal;
-
-IV. Coadyuvar con la elaboración del Programa Estatal de Juventud de conformidad con la legislación en (sic) aplicable;
-
-V. Elaborar y entregar a la Secretaría Ejecutiva la propuesta inicial de las temáticas a conocer en la Junta Directiva;
-
-VI. Plantear ante la Junta Directiva los objetivos, las metas y estrategias que podrán ser implementadas para la resolución de las problemáticas en relación al ámbito de competencia de dicha coordinación;
-
-VII. Evaluar el impacto de las políticas públicas implementadas; y
-
-VIII. Las demás que establezca la presente Ley y su Reglamento.
+(DEROGADO, P.O. 22 DE ABRIL DE 2017)
 
 ### CAPÍTULO III. DEL PROGRAMA ESTATAL DE JUVENTUD
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2017)</small>
+
 ###### Artículo 58.
 
-El Sistema Estatal colaborará en la elaboración del Programa Estatal de Juventud apegado a los lineamientos establecidos en el Plan Estatal de Desarrollo, el Programa Nacional de Juventud y en los términos de la legislación aplicable.
+El Instituto y las Dependencias del Ejecutivo que correspondan elaborarán conjuntamente el Programa Estatal de Juventud apegado a los lineamientos establecidos en el Plan Estatal de Desarrollo, el Programa Nacional de Juventud y en los términos de la legislación aplicable.
 
 ###### Artículo 59.
 
 El Programa Estatal de Juventud es el instrumento de planeación en el que se establecen las políticas, estrategias y lineamientos que las dependencias y entidades de la administración pública estatal deberán tomar en cuenta para su planeación administrativa, con el objetivo de coadyuvar debidamente a su realización en beneficio de los jóvenes.
 
-En la elaboración del programa se garantizará la participación de los jóvenes y será evaluado de manera permanente por la Unidad de Planeación y por la Subsecretaría.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2017)</small>
+
+En la elaboración del programa se garantizará la participación de los jóvenes y será evaluado de manera permanente tanto por el Instituto, como por la Coordinación Estatal de Planeación.
 
 Artículos 60. El Programa contendrá como mínimo los siguientes objetivos y estrategias:
 
@@ -845,23 +767,141 @@ XIV. La determinación de lineamientos que permitan unificar los criterios neces
 
 XV. La implementación de objetivos, metas y estrategias adecuadas a cada problemática detectada en el diagnóstico previo;
 
-XVI. La inclusión de instituciones educativas, organismos autónomos, instancias municipales de juventud y personas de la sociedad civil dentro de la dinámica del Sistema Estatal;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2017)</small>
+
+XVI. La inclusión de instituciones educativas, organismos autónomos, instancias municipales de juventud y personas de la sociedad civil;
 
 XVII. Los lineamientos necesarios para el diseño e implementación de políticas públicas estatales que busquen la disminución gradual de las problemáticas propias del sector; y
 
-XVIII. El diseño y aplicación de indicadores adecuados para la evaluación objetiva de las acciones del Sistema Estatal.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2017)</small>
+
+XVIII. El diseño y aplicación de indicadores adecuados para la evaluación objetiva de los planes, programas y acciones en materia de juventud.
 
 ###### Artículo 61.
 
 El Programa Estatal de Juventud deberá ser publicado en el Periódico Oficial, Órgano de Gobierno del Estado.
 
-## TITULO SEXTO. CONSEJO JUVENIL DEL ESTADO DE ZACATECAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE ABRIL DE 2017)</small>
+
+## TITULO SEXTO. DEL INSTITUTO DE LA JUVENTUD DEL ESTADO DE ZACATECAS Y DEL CONSEJO JUVENIL DEL ESTADO DE ZACATECAS
 
 ### CAPÍTULO ÚNICO
 
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2017)</small>
+
+Artículo 61 bis. El Instituto es un organismo público descentralizado de la administración pública estatal, con personalidad jurídica y patrimonio propio, con domicilio legal en la Ciudad de Zacatecas.
+
+Tendrá a su cargo la aplicación y vigilancia de esta Ley, así como de los objetivos, planes y programas establecidos de la materia; y coordinará a las instituciones públicas y a los organismos sociales para la juventud, que persigan los fines que de esta normatividad se derivan.
+
+Son atribuciones del Instituto:
+
+I. Coordinar, articular e instrumentar la política pública dirigida a las personas jóvenes del Estado;
+
+II. Respetar y promover los derechos humanos de las personas jóvenes;
+
+III. Proponer a las autoridades encargadas de la aplicación de la presente Ley, los programas, las medidas y las acciones que consideren pertinentes, con la finalidad de garantizar los derechos humanos de las personas jóvenes del Estado;
+
+IV. Crear mecanismos de coordinación institucional entre instancias del Gobierno estatal, federal y municipal; así como con organismos no gubernamentales, instituciones de asistencia privada y asociaciones civiles que realizan trabajo con personas jóvenes o que tengan relación con las temáticas de juventud;
+
+V. Supervisar y dar seguimiento a las políticas públicas, planes, programas y acciones dirigidas a las personas jóvenes en el Estado;
+
+VI. Establecer mecanismos de evaluación de la política estatal en materia de juventud;
+
+VII. Fomentar, coordinar y realizar estudios de investigación sobre las personas jóvenes;
+
+VIII. Coordinar y desarrollar el Sistema de Información e Investigación de la Juventud del Estado de Zacatecas;
+
+IX. Generar un sistema de red de información estadística desagregado por sexo, edad, escolaridad, ingreso, certificación laboral, participación, vivienda, seguridad social, empleo y todos aquellos que resulten relevantes a fin de generar indicadores de las condiciones sociales, políticas, económicas, laborales, civiles, familiares y culturales de las personas jóvenes en los distintos ámbitos de la sociedad para el diseño, seguimiento y evaluación de impacto en los programas de las dependencias y entidades del Estado;
+
+X. Promover la elaboración de metodologías, indicadores y estudios sobre juventud en colaboración con instituciones públicas, privadas y académicas del Estado;
+
+XI. Capacitar y, en su caso, proponer esquemas de capacitación dirigidos a las y los servidores públicos que trabajen con las personas jóvenes;
+
+XII. Diseñar programas interinstitucionales para promover el desarrollo, protección y participación de las personas jóvenes y sus organizaciones;
+
+XIII. Fomentar la cooperación en materia de juventud en los términos de esta Ley, su reglamento y las leyes que resulten aplicables;
+
+XIV. Organizar, dirigir y coordinar programas que permitan incorporar a los jóvenes al desarrollo del Estado;
+
+XV. Impulsar acciones que contribuyan a evitar y superar la visión tutelar del estado hacia las personas jóvenes;
+
+XVI. Generar programas que coadyuven a la integración de los jóvenes al mercado laboral con empleo digno y productivo;
+
+XVII. Proponer al Titular del Ejecutivo del Estado la inclusión de la perspectiva juvenil en la elaboración de los proyectos anuales de presupuesto de egresos;
+
+XVIII. Coadyuvar en la elaboración del Programa Estatal de Juventud;
+
+XIX. Concertar acciones en los ámbitos gubernamental, social y privado a favor de las personas jóvenes del Estado, a través de los convenios de concertación y colaboración que sean pertinentes;
+
+XX. Diseñar programas especiales para los grupos juveniles en condiciones de vulnerabilidad, con apego al Programa Estatal de Juventud;
+
+XXI. Propiciar el acceso a las herramientas tecnológicas, técnicas y humanas para fomentar una dinámica de colaboración entre las personas jóvenes del Estado y los gobiernos estatal y municipal, y
+
+XXII. Las demás que determine la presente Ley, su reglamento y los demás ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2017)</small>
+
+Artículo 61 ter. El Instituto contará con los siguientes órganos:
+
+I. Junta de Gobierno, y
+
+II. II. (SIC) Director General.
+
+La Junta de Gobierno es el órgano superior del Instituto y estará integrada de la siguiente manera:
+
+I. Presidente, que será el titular de la Secretaría de Desarrollo Social y contará con derecho a voz y voto;
+
+II. Un Secretario Técnico, que será el titular de la Dirección General del Instituto con derecho a voz;
+
+III. Los siguientes vocales con derecho a voz y voto:
+
+a) Titular de la Secretaría de Educación del Estado;
+
+b) Titular de la Secretaría de Economía del Estado;
+
+c) Titular de la Secretaría de Seguridad Pública del Estado;
+
+d) Titular de la Secretaría de Salud del Estado;
+
+e) Titular del Instituto Zacatecano de Cultura “Ramón López Velarde”;
+
+f) Titular del Instituto de Cultura Física y Deporte del Estado; y
+
+g) Un representante del Consejo Juvenil del Estado.
+
+Los integrantes de la Junta de gobierno, podrán designar a sus respectivos suplentes haciéndolo saber mediante oficio a la presidencia de la Junta.
+
+La Junta de Gobierno celebrará, por lo menos, una sesión ordinaria cada dos meses y extraordinaria cuando se requiera, previa convocatoria del Presidente o del Secretario Técnico. Sesionará válidamente con la mitad más uno de sus integrantes y las resoluciones se tomarán por mayoría de votos, teniendo el Presidente el voto de calidad en caso de empate.
+
+La Junta de Gobierno tendrá las atribuciones que le señale el Reglamento de la Ley y el Estatuto Orgánico del Instituto.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2017)</small>
+
+Artículo 61 quáter. La administración del Instituto estará a cargo del Director General del Instituto, que será nombrado por el Titular del Ejecutivo y deberá reunir los requisitos establecidos en la Ley de Entidades Públicas Paraestatales.
+
+El Director General tendrá las atribuciones que le señale el Reglamento de la Ley y el Estatuto Orgánico del Instituto.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2017)</small>
+
+Artículo 61 quinquies. Corresponderá al Órgano de Vigilancia del Instituto el ejercicio de las atribuciones que en materia de control, inspección, vigilancia y evaluación que le confiere la Ley de Entidades Públicas Paraestatales y el Reglamento Interior de la Secretaría de la Función Pública.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2017)</small>
+
+Artículo 61 sexies. El Patrimonio del Instituto estará constituido por:
+
+I. Los bienes muebles e inmuebles, ingresos, derechos y servicios;
+
+II. Las aportaciones, subsidios, bienes muebles e inmuebles y demás ingresos, derechos y servicios que los gobiernos federal, estatal o municipales le otorguen o destinen;
+
+III. Los fondos que provengan de organismos no gubernamentales y organizaciones sociales en general; y
+
+IV. Los demás que adquiera por cualquier título legal.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2017)</small>
+
 ###### Artículo 62.
 
-Se crea el Consejo Juvenil del Estado de Zacatecas, como órgano de consulta cuyo objeto será proponer, opinar y coadyuvar con el Ejecutivo y los ayuntamientos, en la implementación de políticas, planes y programas en materia del desarrollo integral de los jóvenes, a través de las facultades y atribuciones establecidas en la presente Ley y su reglamento; así como participar con la Legislatura del Estado en foros, talleres o seminarios que se relacionen con asuntos de juventud.
+Se crea el Consejo Juvenil del Estado de Zacatecas, como órgano de consulta cuyo objeto será proponer, opinar y coadyuvar con el Ejecutivo, el Instituto y los ayuntamientos, en la implementación de políticas, planes y programas en materia del desarrollo integral de los jóvenes, a través de facultades y atribuciones establecidas en la presente Ley y su reglamento; así como participar con la Legislatura del Estado en foros, talleres o seminarios que se relaciones (sic) con asuntos de juventud.
 
 ###### Artículo 63.
 
@@ -875,7 +915,9 @@ La pertenencia y asignación de funciones en relación con las necesidades propi
 
 El Consejo Juvenil estará integrado de la siguiente manera:
 
-I. Una Presidencia, que será el titular de la Subsecretaría;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2017)</small>
+
+I. Una Presidencia, que será el Director General del Instituto;
 
 II. Una Secretaría General, que será el Presidente de la Comisión;
 
@@ -889,13 +931,17 @@ VI. Dos vocalías integradas por alumnos en representación de las instituciones
 
 VII. Un Secretario Técnico, que será designado por la Presidencia del Consejo.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2017)</small>
+
 ###### Artículo 66.
 
-Todos los cargos a los que se refieren las fracciones III y IV del artículo anterior serán designados mediante convocatoria expedida por la Subsecretaría y durarán tres años en dicho encargo.
+Todos los cargos a los que se refieren las fracciones III y IV del artículo anterior serán designados mediante convocatoria expedida por el Instituto y durarán tres años en dicho encargo.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2017)</small>
 
 ###### Artículo 67.
 
-Las vocalías a las que se refiere la fracción III del artículo 65, podrán recibir un apoyo por parte de la Subsecretaría para el desempeño de las labores propias del objeto social de dicha sociedad civil.
+Las vocalías a las que se refiere la fracción III del artículo 65, podrán recibir un apoyo por parte del Instituto para el desempeño de las labores propias del objeto social de dichas organizaciones.
 
 ###### Artículo 68.
 
@@ -909,7 +955,9 @@ III. Proponer estrategias, mecanismos y acciones para su incorporación en el Pr
 
 IV. Analizar los objetivos del Programa Estatal de Juventud y dar seguimiento a las metas alcanzadas para fortalecer los proyectos y acciones previstos en tal instrumento;
 
-V. Mantener relaciones permanentes de colaboración y coordinación con la Subsecretaría, instancias municipales de juventud, así como con la Comisión;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2017)</small>
+
+V. Mantener relaciones permanentes de colaboración y coordinación con el Instituto, instancias municipales de juventud, así como con la Comisión;
 
 VI. Aprobar los planes de trabajo, así como su realización por medio de la aplicación de indicadores de seguimiento;
 
@@ -921,9 +969,11 @@ IX. Coadyuvar con los proyectos y actividades en beneficio de la juventud que la
 
 X. Las demás que establezca la presente Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2017)</small>
+
 ###### Artículo 69.
 
-La Presidencia del Consejo Juvenil será un cargo honorífico, que asumirá el titular de la Subsecretaría como parte de sus responsabilidades al frente del sector juvenil, pudiendo designar un suplente que lo represente.
+La Presidencia del Consejo Juvenil será un cargo honorífico, que asumirá el Director General del Instituto como parte de sus responsabilidades, pudiendo designar un suplente que lo represente.
 
 La Secretaría General será, también, un cargo honorífico, el cual corresponderá al Presidente la Comisión, pudiendo designar un suplente que podrá ser un secretario de la propia Comisión.
 
@@ -953,7 +1003,7 @@ VI. Instruir al Secretario Técnico para el levantamiento y archivo de las actas
 
 VII. Recibir las solicitudes de gestión bajo los formatos establecidos, así como darle el seguimiento requerido;
 
-VIII. Coadyuvar con el Sistema Estatal en la realización de los estudios, diagnósticos e investigaciones necesarias para el establecimiento de las problemáticas de mayor recurrencia en la juventud y las correspondientes propuestas de solución; y
+VIII. (DEROGADA, P.O. 22 DE ABRIL DE 2017)
 
 IX. Las demás que establezca la presente Ley y su Reglamento.
 
@@ -1011,9 +1061,11 @@ XI. Las demás que le instruyan el Presidente y Secretario General del Consejo.
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2017)</small>
+
 ###### Artículo 75.
 
-Cada Ayuntamiento procurará el establecimiento y desarrollo de una instancia municipal de juventud, con la finalidad que los jóvenes, en sus municipios, puedan acceder a los planes, programas, acciones y políticas públicas derivados del Programa Estatal de Juventud, del Sistema Estatal, y puedan ejercer los derechos establecidos en la presente Ley y demás ordenamientos aplicables.
+Cada Ayuntamiento procurará el establecimiento y desarrollo de una instancia municipal de juventud, con la finalidad que los jóvenes, en sus municipios, puedan acceder a los planes, programas, acciones y políticas públicas derivados del Programa Estatal de Juventud y puedan ejercer los derechos establecidos en la presente Ley y demás ordenamientos aplicables.
 
 ###### Artículo 76.
 
@@ -1027,7 +1079,9 @@ III. Dar seguimiento y realizar la evaluación del Programa Municipal de Juventu
 
 IV. Vincularse con la Subsecretaría y participar en sus programas y actividades;
 
-V. Fungir como enlace entre el Sistema Estatal y los jóvenes de los municipios;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2017)</small>
+
+V. Fungir como enlace entre el Instituto y los jóvenes de los municipios;
 
 VI. Coadyuvar con el Consejo Juvenil en la formulación de propuestas encaminadas al desarrollo integral de los jóvenes;
 
@@ -1116,3 +1170,21 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 22 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 133.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. De conformidad con el Artículo Décimo Transitorio del Decreto Número 18 que contiene la Ley Orgánica de la Administración Pública del Estado, emitido por la Sexagésima Segunda Legislatura del Estado, publicado en Suplemento 3 al número 96 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al 30 de noviembre del 2016, el Gobierno del Estado realizará la trasferencia al Instituto de la Juventud de los recursos humanos y materiales que corresponden a la Subsecretaría de la Juventud.
+
+Asimismo, el Gobierno del Estado realizará la transferencia de la asignación presupuestal que corresponde al Instituto de la Juventud, para el ejercicio fiscal 2017.
+
+TERCERO. El personal que con motivo del presente Decreto sea transferido al Instituto de la Juventud, conservará sus derechos laborales.
+
+CUARTO. Formarán parte del patrimonio del Instituto de la Juventud los recursos materiales, asignaciones presupuestales, bienes muebles y archivos, que le sean transferidos por el Gobierno del Estado, con motivo de este Decreto.
+
+QUINTO. En un término de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, deberá aprobarse el Estatuto Orgánico del Instituto.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
