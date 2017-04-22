@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-bienestar-y-proteccion-de-los-animales-en-el-estado-1164
 country: "mx"
 rank: "ley"
 publication_date: "2016-08-24"
-last_updated: "2016-08-24"
+last_updated: "2017-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2017.
 
 Ley publicada en el Suplemento 3 del Periódico Oficial del Estado de Zacatecas, el miércoles 24 de agosto de 2016.
 
@@ -609,7 +609,9 @@ IV. Procedencia del animal, con especificación de su certificado de sanidad; y
 
 V. Calendario de vacunación, antecedentes clínicos y genealógicos.
 
-Dichos establecimientos se sujetarán a las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2017)</small>
+
+Dichos establecimientos no podrán exhibir en sus instalaciones a los animales que tengan a la venta, la exhibición se hará solo por medio de catálogos impresos y medios electrónicos en los cuales se manifestará toda la información de identificación del ejemplar en venta, además se sujetarán a las disposiciones legales aplicables.
 
 Observancia de procedimiento
 
@@ -629,11 +631,9 @@ Adiestramiento canino en seguridad
 
 Toda persona física o moral que se dedique al adiestramiento de perros para guarda y protección y a la prestación de servicios de seguridad que manejen animales, deberá contar con un certificado expedido por la autoridad competente.
 
-Exhibición de animales
-
 ###### Artículo 37.
 
-La exhibición de animales será realizada atendiendo a las necesidades básicas de bienestar de los mismos, de acuerdo con las características propias de cada especie y en cumplimiento de las normas oficiales mexicanas, normas zoológicas y demás disposiciones aplicables.
+(DEROGADO, P.O. 22 DE ABRIL DE 2017)
 
 ### CAPÍTULO II. TRASLADO DE ANIMALES
 
@@ -1153,7 +1153,9 @@ Montos de las multas
 
 Las infracciones cometidas por la violación de las disposiciones de la presente Ley, se sancionarán conforme a las reglas siguientes:
 
-I. Multa equivalente de 10 a 100 veces la unidad de medida y actualización, a quienes cometan los actos, hechos u omisiones establecidas en los artículos 28, 29, 53 y 54 de la presente Ley;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2017)</small>
+
+I. Multa equivalente de 10 a 100 veces la unidad de medida y actualización diaria, a quienes cometan los actos, hechos u omisiones establecidas en los artículos 28, 29, 33, 53 y 54 de la presente Ley;
 
 II. Multa equivalente de 15 a 150 veces la unidad de medida y actualización, a quienes cometan los actos, acciones u omisiones establecidas en los artículos 34, 35, 36, 39, 40, 41, 43, 44, 45 y 46 de la presente Ley;
 
@@ -1258,3 +1260,13 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Primera Legislatura del 
 Y para que llegue al conocimiento de todos y se le de el debido cumplimiento, mando se imprima, publique y circule
 
 Dado en el Despacho del Poder Ejecutivo del Estado, a primero de agosto del año dos mil dieciséis. Gobernador del Estado de Zacatecas.- LIC. MIGUEL ALEJANDRO ALONSO REYES Y SECRETARIO GENERAL DE GOBIERNO.- LIC. JAIME SANTOYO CASTRO. Rúbricas
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 129.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
