@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-110857
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-12-23"
-last_updated: "2016-07-23"
+last_updated: "2017-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2017.
 
 Ley publicada en el Suplemento D del Periódico Oficial del Estado de Tabasco, el miércoles 23 de diciembre de 2015.
 
@@ -33,7 +33,9 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA SEXAGÉSIMA PRIMERA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES CONFERIDAS POR EL ARTÍCULO 36, FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TABASCO, Y CON BASE EN LOS SIGUIENTES:
 
-ANTECEDENTES…
+ANTECEDENTES
+
+[...]
 
 Que en virtud de lo anterior y tomando en cuenta que el Honorable Congreso del Estado, de conformidad con lo dispuesto por el artículo 36, fracción I de la Constitución Política Local, se encuentra facultado para expedir, reformar, adicionar, derogar y abrogar las leyes y decretos para la mejor administración del Estado, planeando su desarrollo económico y social. Por lo que se emite y somete a consideración del Pleno el siguiente:
 
@@ -1405,6 +1407,12 @@ Los diputados, aun cuando no estén inscritos en la lista de oradores, podrán p
 
 Los oradores se referirán concretamente al asunto sujeto a discusión y la duración de su intervención no excederá de diez minutos en lo general y de cinco en lo particular.
 
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2017)</small>
+
+###### Artículo 147 Bis.
+
+En el Salón de Sesiones del Pleno del Congreso existirá un reloj electrónico que, de manera pública, cierta y claramente visible, señalará el inicio de la intervención de cada Orador y el tiempo que va transcurriendo de la misma; alertará cuando se encuentre en el último minuto del tiempo asignado; así como contabilizará detalladamente cuando se exceda en el tiempo reglamentario.
+
 ###### Artículo 148.
 
 Siempre que en la discusión algún diputado solicite de la comisión dictaminadora la explicación de los fundamentos de su dictamen o que se dé lectura a las constancias del expediente, el Presidente ordenará que así se haga y acto continuo proseguirá el debate.
@@ -1509,9 +1517,13 @@ Por regla general, las votaciones serán ordinarias en todos los asuntos, a exce
 
 Las votaciones ordinarias se manifestarán poniéndose de pie para aprobar, desaprobar o abstenerse, según lo solicite sucesivamente la mesa directiva, De haber duda en el resultado de una votación ordinaria, a juicio del Presidente, se procederá a realizar votación nominal.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2017)</small>
+
 ###### Artículo 164.
 
-Las votaciones nominales se harán por orden de lista, y consistirán en ponerse de pie cada diputado conforme sea nombrado, expresando si se está en pro, en contra o declarar que se abstiene de votar. De existir sistema electrónico de votación, se utilizará preferentemente.
+Las votaciones nominales se harán a través de un sistema automatizado de asistencia, votación y audio, con un mecanismo de votación electrónica, cuyo resultado será público y visible. El resultado de la votación electrónica podrá hacerse constar en medio impreso inmediatamente después de que se haya cerrado el sistema. Dicha información deberá también estar disponible en los mecanismos electrónicos del Congreso del Estado.
+
+Este sistema podrá ser empleado también en las votaciones ordinarias, cuando por la importancia del asunto sujeto a discusión, a propuesta del presidente de la Mesa Directiva, el Pleno lo apruebe.
 
 ###### Artículo 165.
 
@@ -1720,3 +1732,17 @@ PRIMERO.- El correspondiente decreto entrará en vigor al día siguiente de su p
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 
 TERCERO.- En el Reglamento correspondiente inclúyanse las nuevas atribuciones de la Comisión de Educación, Cultura, Ciencia y Tecnología.
+
+P.O. 22 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 088 POR EL QUE "SE REFORMA EL ARTÍCULO 164; Y SE ADICIONA EL ARTÍCULO 147 BIS, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La implementación del sistema de asistencia, votación y audio automatizado, será implementado en el momento en que las finanzas de la Cámara de Diputados lo permitan. En consecuencia, la Junta de Coordinación Política, deberá realizar los trámites y adecuaciones presupuestales para ello.
+
+TERCERO.- En tanto se establece el sistema al que se refiere el artículo transitorio anterior, las votaciones se continuaran realizando en los términos de las disposiciones vigentes antes de la entrada en vigor del presente Decreto.
+
+CUARTO.- En su oportunidad, háganse las modificaciones correspondientes al Reglamento Interior del Congreso del Estado de Tabasco, a fin de reglamentar la implementación y uso del sistema parlamentario de asistencia, votación y audio automatizado.
+
+QUINTO.- Se derogan todas aquellas disposiciones en lo que se opongan al presente decreto.
