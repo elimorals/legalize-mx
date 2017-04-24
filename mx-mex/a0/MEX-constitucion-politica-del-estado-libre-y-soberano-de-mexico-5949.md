@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2017-02-03"
+last_updated: "2017-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ABRIL DE 2017.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1019,6 +1019,10 @@ V. A los ciudadanos del Estado;
 
 VI. A la Comisión de Derechos Humanos del Estado de México, en materia de derechos humanos.
 
+> <small>(ADICIONADA, G.G. 24 DE ABRIL DE 2017)</small>
+
+VII. A la Fiscalía General de Justicia del Estado de México, en materia de su competencia.
+
 > <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2010)</small>
 
 El Gobernador del Estado tendrá derecho a presentar hasta tres iniciativas de carácter preferente al inicio del periodo ordinario de sesiones, debiendo sustentar las razones por las cuales les otorga dicho carácter.
@@ -1037,7 +1041,9 @@ No podrán incluirse como iniciativas preferentes las que modifiquen disposicion
 
 La Legislatura podrá solicitar del Gobernador del Estado la presencia de los titulares de las dependencias del Poder Ejecutivo, así como de los directores de los organismos auxiliares. Del Presidente del Tribunal Superior de Justicia podrá solicitar la presencia de los magistrados y de los miembros del Consejo de la Judicatura del Poder Judicial, cuando sea necesaria para el estudio de iniciativas de ley o decreto, de sus respectivas competencias.
 
-Cuando se trate de iniciativas de los ayuntamientos o se discutan asuntos de su competencia, podrá solicitarse al presidente municipal que concurra él o un integrante del ayuntamiento, para responder a los cuestionamientos que se les planteen. Tratándose de iniciativas que caigan en el ámbito de competencia de la Comisión Estatal de Derechos Humanos del Estado, la Legislatura podrá solicitar la presencia de un representante de la misma. Las solicitudes de la Legislatura se harán por conducto de la Junta de Coordinación Política.
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2017)</small>
+
+Cuando se trate de iniciativas de los ayuntamientos o se discutan asuntos de su competencia, podrá solicitarse al presidente municipal que concurra él o un integrante del ayuntamiento, para responder a los cuestionamientos que se les planteen. Tratándose de iniciativas que incidan en el ámbito de competencia de la Comisión de Derechos Humanos del Estado de México, o de la Fiscalía General de Justicia del Estado de México, la Legislatura podrá solicitar la presencia de un representante de los mismos para responder los cuestionamientos que se les planteen. Las solicitudes de la Legislatura se harán por conducto de la Junta de Coordinación Política.
 
 El Gobernador del Estado podrá participar en el análisis de los proyectos legislativos que caigan dentro de su ámbito competencial, así como de la discusión del dictamen, ya sea de propia voz, o a través de la voz del representante que designe al efecto. El mismo derecho tendrán las autoridades a quienes la Constitución otorga el derecho de iniciativa. La ley y el reglamento establecerán las bases bajo las cuales se dará esta participación una vez que haya sido formalmente solicitada por quien tiene derecho a ello.
 
@@ -1161,9 +1167,9 @@ XIII. Designar a los funcionarios electorales cuyo nombramiento le reserve ésta
 
 XIV. Constituirse en Colegio Electoral para designar Gobernador interino o sustituto, en los casos que determine la presente Constitución;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE ABRIL DE 2017)</small>
 
-XV. Aprobar los nombramientos de magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo que hagan el Consejo de la Judicatura y el Gobernador, respectivamente, dentro de los 10 días hábiles siguientes a la fecha de los nombramientos. Si éstos transcurren sin que la Legislatura hubiera resuelto, se entenderán aprobados.
+XV. Aprobar por las dos terceras partes de la Legislatura, los nombramientos de Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa del Estado de México que hagan el Consejo de la Judicatura y el Gobernador, respectivamente, dentro de los 10 días hábiles siguientes a la fecha de los nombramientos, en los términos que disponga la Ley.
 
 > <small>(REFORMADO, G.G. 4 DE MARZO DE 2010)</small>
 
@@ -1171,15 +1177,23 @@ En caso de negativa, el Consejo o el Gobernador, según corresponda, podrán for
 
 Durante los recesos de la Legislatura, los nombramientos a que se refiere este precepto podrán ser aprobados por la Diputación Permanente;
 
+> <small>(ADICIONADA, G.G. 24 DE ABRIL DE 2017)</small>
+
+XV Bis. Expedir la Ley que instituya el Tribunal de Justicia Administrativa del Estado de México, dotado de plena autonomía para dictar los fallos y que establezca su organización, su funcionamiento y los recursos para impugnar sus resoluciones.
+
 XVI. Nombrar a los miembros de los ayuntamientos cuya designación le corresponda en los términos de la presente Constitución;
 
-XVII. Resolver sobre las licencias temporales o absolutas de sus miembros, del Gobernador, de los magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, cuando las ausencias excedan del término que establezcan las leyes respectivas.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE ABRIL DE 2017)</small>
+
+XVII. Resolver sobre las licencias temporales o absolutas de sus miembros, del Gobernador, de los Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa del Estado de México, cuando las ausencias excedan del término que establezcan las leyes respectivas.
 
 > <small>(REFORMADO, G.G. 2 DE OCTUBRE DE 1998)</small>
 
 Para los efectos de esta fracción, se consideran temporales las ausencias que excedan de 15, pero no de 60 días. La Legislatura calificará cuando existan los motivos fundados que justifiquen una licencia temporal por un período mayor y que podrá extenderse por el tiempo que dure la causa que la motivó;
 
-XVIII. Conocer y resolver de las solicitudes de destitución de los Magistrados del Tribunal de lo Contencioso Administrativo y del Tribunal Superior de Justicia en términos de la presente Constitución;
+> <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
+
+XVIII. Conocer y resolver de las solicitudes de destitución por faltas graves, de los Magistrados del Tribunal de Justicia Administrativa del Estado de México y del Tribunal Superior de Justicia en términos de la presente Constitución.
 
 > <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1187,9 +1201,9 @@ XIX. Recibir el aviso del Ejecutivo del Estado y de los presidentes municipales,
 
 XX. Nombrar y remover al personal del Poder Legislativo y de sus dependencias en los términos de la Legislación respectiva;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE ABRIL DE 2017)</small>
 
-XXI. Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo del Estado, del Auditor Superior de Fiscalización y del Presidente y miembros del Consejo de la Comisión de Derechos Humanos;
+XXI. Recibir la protesta del Gobernador, los Diputados, y los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa del Estado de México, del Auditor Superior de Fiscalización y del Presidente y miembros del Consejo de la Comisión de Derechos Humanos.
 
 El Gobernador del Estado protestará en los siguientes términos:
 
@@ -1289,23 +1303,41 @@ Si llegado el 31 de enero no se hubiese aprobado la Ley de Ingresos de los Munic
 
 XXXII. Recibir, revisar y fiscalizar las cuentas públicas del Estado y de los Municipios, del año anterior, mismas que incluirán, en su caso, la información correspondiente a los Poderes Públicos, organismos autónomos, organismos auxiliares, fideicomisos públicos o privados y demás entes públicos que manejen recursos del Estado y Municipios. Para tal efecto, contará con un Órgano Superior de Fiscalización, dotado de autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la legislación aplicable.
 
-La función de fiscalización se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2017)</small>
+
+La función de fiscalización se desarrollará conforme a los principios de legalidad, definitividad, imparcialidad, confiabilidad y de máxima publicidad. Así mismo deberá fiscalizar, a través del Órgano Superior de Fiscalización del Estado de México, las acciones del Estado y Municipios en materia de fondos, recursos estatales y deuda pública.
+
+> <small>(ADICIONADO, G.G. 24 DE ABRIL DE 2017)</small>
+
+El Órgano Superior de Fiscalización del Estado de México deberá entregar a la Legislatura un informe de resultados y los informes de auditoría que correspondan, dichos informes serán de carácter público y se presentarán en los términos y con el contenido que determine la Ley.
 
 El Auditor Superior de Fiscalización será designado y removido por el voto de las dos terceras partes de los miembros presentes de la Legislatura, a propuesta de la Junta de Coordinación Política.
 
 El Auditor Superior de Fiscalización durará en su encargo ocho años y podrá ser nombrado nuevamente por una sola vez, por el voto de las dos terceras partes de los miembros presentes de la Legislatura, y deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades;
 
-> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
 
-XXXIII. Revisar, por conducto del Órgano Superior de Fiscalización del Estado de México, las cuentas y actos relativos a la aplicación de los fondos públicos del Estado y de los Municipios, así como fondos públicos federales en los términos convenidos con dicho ámbito que incluirán la información correspondiente a los Poderes Públicos, organismos autónomos, organismos auxiliares, fideicomisos públicos o privados y demás entes públicos que manejen recursos del Estado y Municipios;
+XXXIII. Revisar, por conducto del Órgano Superior de Fiscalización del Estado de México, las cuentas y actos relativos a la aplicación de los fondos públicos del Estado y de los Municipios, así como fondos públicos federales en los términos convenidos con dicho ámbito que incluirán la información correspondiente a los Poderes Públicos, organismos autónomos, organismos auxiliares, fideicomisos públicos o privados y demás entes que manejen recursos del Estado y Municipios.
 
-> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2010)</small>
+El Órgano Superior de Fiscalización del Estado de México podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas estatales y municipales. Las observaciones y recomendaciones que, respectivamente, el Órgano Superior de Fiscalización del Estado de México emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
-XXXIV. Fiscalizar la administración de los ingresos y egresos del Estado y de los Municipios, que incluyen a los Poderes Públicos, organismos autónomos, organismos auxiliares, fideicomisos públicos o privados y demás entes públicos que manejen recursos del Estado y Municipios, a través del Órgano Superior de Fiscalización;
+Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que determine la Ley de la materia, derivado de denuncias, el Órgano Superior de Fiscalización del Estado de México, previo análisis de procedencia, podrá revisar durante el ejercicio fiscal en curso a las autoridades fiscalizables, así como respecto de ejercicios anteriores, o en su caso remitirlas a la autoridad competente. Las autoridades fiscalizables proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la Ley de la materia y en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. El Órgano Superior de Fiscalización del Estado de México rendirá un informe específico a la Legislatura en Pleno y en su caso, promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa del Estado de México, la Fiscalía Especializada en Combate a la Corrupción o las autoridades competentes.
 
-> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2010)</small>
+Derivado de sus revisiones, el Órgano Superior de Fiscalización del Estado de México podrá promover las responsabilidades que sean procedentes ante el Tribunal Estatal de Justicia Administrativa y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de sanciones que correspondan a los servidores públicos del Estado y municipios y a los particulares.
 
-XXXV. Determinar por conducto del Órgano Superior de Fiscalización, los daños y perjuicios que afecten a la hacienda pública del Estado y de los Municipios, incluyendo a los Poderes Públicos, organismos autónomos, organismos auxiliares, fideicomisos públicos o privados y demás entes públicos que manejen recursos del Estado y Municipios, asimismo a través del propio Órgano fincar las responsabilidades resarcitorias que correspondan y promover en términos de ley, la imposición de otras responsabilidades y sanciones ante las autoridades competentes;
+> <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
+
+XXXIV. Fiscalizar la administración de los ingresos y egresos del Estado y de los Municipios, que incluyen a los Poderes Públicos, organismos autónomos, organismos auxiliares, fideicomisos públicos o privados y demás entes que manejen recursos del Estado y Municipios, a través del Órgano Superior de Fiscalización del Estado de México.
+
+El Órgano Superior de Fiscalización del Estado de México podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en las cuentas públicas.
+
+Respecto a la planeación de las auditorías, el Órgano Superior de Fiscalización del Estado de México podrá solicitar información del ejercicio en curso, respecto de procesos concluidos, sin que se entiendan abiertos nuevamente.
+
+Los Poderes Públicos del Estado de México y las demás autoridades fiscalizables auxiliarán al Órgano Superior de Fiscalización del Estado de México en el ejercicio de sus funciones y atribuciones, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la Ley en la materia. Asimismo, los servidores públicos estatales y municipales, así como cualquier autoridad, persona física o jurídico colectiva, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos federales, estatales y municipales deberán proporcionar la información y documentación que solicite el Órgano Superior de Fiscalización del Estado de México, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de las y los usuarios del sistema financiero. En caso de no proporcionar la información, las y los responsables serán acreedores a las sanciones que establezca la Ley.
+
+> <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
+
+XXXV. Determinar por conducto del Órgano Superior de Fiscalización del Estado de México, los daños y perjuicios que afecten a la hacienda pública del Estado y de los Municipios, incluyendo a los Poderes Públicos, organismos autónomos, organismos auxiliares, fideicomisos públicos o privados y demás entes que manejen recursos del Estado y Municipios; asimismo, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa del Estado de México, la Fiscalía Especializada en Combate a la Corrupción y demás autoridades competentes, para el fincamiento de responsabilidades resarcitorias y la imposición de sanciones que correspondan a las y los servidores públicos estatales, municipales y a los particulares.
 
 > <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
 
@@ -1379,9 +1411,17 @@ LII. Ejercer las acciones necesarias para el debido cumplimiento de las disposic
 
 LIII. Autorizar al Ejecutivo del Estado la celebración de convenios con la Secretaría de Hacienda y Crédito Público para adherirse al mecanismo de contratación de Deuda Estatal Garantizada.
 
-> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
 
-LIV. Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales o las del Estado le atribuyan.
+LIV. Designar por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los organismos a los que esta Constitución reconoce autonomía y que ejerzan recursos del Presupuesto de Egresos del Estado, en términos que disponga la Ley.
+
+> <small>(ADICIONADA, G.G. 24 DE ABRIL DE 2017)</small>
+
+LV. Objetar en su caso, en un plazo no mayor de 10 días hábiles con el voto de las dos terceras partes de los miembros presentes, el nombramiento del titular de la Fiscalía Especializada en Combate a la Corrupción que realice el Fiscal General de Justicia del Estado de México.
+
+> <small>(ADICIONADA, G.G. 24 DE ABRIL DE 2017)</small>
+
+LVI. Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales, o las del Estado le atribuyan.
 
 > <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -1579,15 +1619,19 @@ X. Cuidar de la instrucción de la Guardia Nacional en el Estado, conforme a las
 
 XI. Objetar por una sola vez, en el improrrogable término de 10 días hábiles, las leyes y decretos aprobados por la Legislatura; si ésta después de haberlos discutido nuevamente los ratifica, serán promulgados;
 
-> <small>(REFORMADA, G.G. 4 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
 
-XII. Nombrar a los magistrados del Tribunal de lo Contencioso Administrativo del Estado, sometiendo los nombramientos a la aprobación de la Legislatura o de la Diputación Permanente, en su caso;
+XII. Nombrar a las y los Magistrados del Tribunal de Justicia Administrativa del Estado de México, sometiendo los nombramientos a la aprobación de la Legislatura o de la Diputación Permanente, en su caso.
 
-XIII. Aceptar las renuncias de los Magistrados del Tribunal de lo Contencioso Administrativo, sometiéndolas a la aprobación de la Legislatura o de la Diputación Permanente, en su caso, así como acordar las licencias de esos funcionarios cuando éstas excedan de tres meses, sometiéndolas a la aprobación del Cuerpo Legislativo;
+> <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
+
+XIII. Aceptar las renuncias de los Magistrados del Tribunal de Justicia Administrativa del Estado de México, previo sometimiento a la aprobación de la Legislatura o de la Diputación Permanente, en su caso, así como acordar las licencias de esos funcionarios cuando éstas excedan de tres meses, sometiéndolas a la aprobación de la Legislatura del Estado o la Diputación permanente en su caso.
 
 XIV. Nombrar y remover libremente a los servidores públicos del Estado cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución y por las leyes;
 
-XV. Solicitar de la Legislatura Local, o en su caso, de la Diputación Permanente, la destitución por mala conducta, de los Magistrados del Tribunal de lo Contencioso Administrativo del Estado;
+> <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
+
+XV. Solicitar a la Legislatura Local, o en su caso, a la Diputación Permanente, la destitución por faltas graves, de las y los Magistrados del Tribunal de Justicia Administrativa del Estado de México.
 
 XVI. Hacer que las sentencias ejecutoriadas dictadas por los tribunales en materia penal sean debidamente ejecutadas;
 
@@ -1599,9 +1643,9 @@ XVII. Conceder el indulto necesario y por gracia, con arreglo a la ley de la mat
 
 XVIII. Rendir a la Legislatura del Estado, a través de la entrega, por sí mismo o por medio de un representante, de un documento impreso o de un archivo en medio magnético o electrónico, dentro del mes de septiembre de cada año, previo aviso a la Legislatura, por lo menos, con ocho días naturales de anticipación, el informe acerca del estado que guarde la administración pública, con excepción del último año del período constitucional del Gobernador del Estado que deberá ser en los primeros quince días del mes de septiembre, en cuyo caso, el aviso deberá darse, por lo menos, con cinco días naturales de anticipación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE ABRIL DE 2017)</small>
 
-XIX. Enviar cada año a la Legislatura, a más tardar el 21 de noviembre, los proyectos de ley de ingresos y presupuesto de egresos del Gobierno del Estado, que deberán regir en el año fiscal inmediato siguiente, o hasta el 20 de diciembre, cuando inicie su periodo Constitucional el Ejecutivo Federal, y presentar la cuenta pública del año inmediato anterior, a más tardar el 30 de abril;
+XIX. Enviar cada año a la Legislatura, a más tardar el 21 de noviembre, los proyectos de ley de ingresos y presupuesto de egresos del Gobierno del Estado, que deberán regir en el año fiscal inmediato siguiente, o hasta el 20 de diciembre, cuando inicie su periodo Constitucional el Ejecutivo Federal, y presentar la cuenta pública del año inmediato anterior, a más tardar el 30 de abril del año siguiente.
 
 > <small>(ADICIONADO, G.G. 30 DE JULIO DE 2010)</small>
 
@@ -1883,15 +1927,25 @@ La Seguridad Pública, en la Entidad, es una función a cargo del Estado y los m
 
 Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional. El Ministerio Público y las Instituciones Policiales, deberán de coordinarse entre si para cumplir los objetivos de la Seguridad Pública y conformarán los Sistemas Nacional y Estatal de Seguridad Pública.
 
-> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE ABRIL DE 2017)</small>
 
-#### SECCION CUARTA. Del Tribunal de lo Contencioso Administrativo
+#### SECCIÓN CUARTA. Del Tribunal de Justicia Administrativa del Estado de México
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 87.
 
-El Tribunal de lo Contencioso Administrativo conocerá y resolverá las controversias que se susciten entre las administraciones públicas estatal o municipales y organismos auxiliares con funciones de autoridad y los particulares y tendrá plena autonomía para dictar sus fallos.
+El Tribunal de Justicia Administrativa del Estado de México es un órgano dotado de plena autonomía para dictar sus fallos y ejercer su presupuesto; su organización, funcionamiento, procedimientos y en su caso, recursos contra sus resoluciones, se regirán por lo establecido en la Ley de la materia.
+
+Conocerá y resolverá de las controversias que se susciten entre la administración pública estatal, municipal, organismos auxiliares con funciones de autoridad y los particulares. Así mismo, impondrá en los términos que disponga la Ley, las sanciones a las y los servidores públicos por responsabilidad administrativa grave y a los particulares que incurran en actos vinculados con faltas administrativas graves, así como fincar el pago de las responsabilidades resarcitorias, a quien corresponda, indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública estatal y municipal o al patrimonio de los entes públicos locales y municipales.
+
+El Tribunal funcionará en Pleno o en Salas Regionales.
+
+Las y los Magistrados de la Sala Superior serán designados por el Gobernador y ratificados por el voto de las dos terceras partes de los miembros presentes de la Legislatura o, en sus recesos, por la Diputación Permanente.
+
+Durarán en su encargo diez años improrrogables.
+
+Las y los Magistrados solo podrán ser removidos de sus encargos por las causas graves que determine la ley de la materia.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -2191,6 +2245,10 @@ Para efectos de la administración de justicia, el Estado de México se dividir�
 
 La administración, vigilancia y disciplina del Poder Judicial, estarán a cargo del Consejo de la Judicatura del Estado de México, conforme a las bases que señala esta Constitución y las leyes respectivas.
 
+> <small>(ADICIONADO, G.G. 24 DE ABRIL DE 2017)</small>
+
+Para la investigación, sustanciación y resolución de los procedimientos de responsabilidad administrativa, el Consejo de la Judicatura deberá auxiliarse de un órgano interno de control, con la denominación y en los casos, términos y condiciones que señalen la Ley.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2010)</small>
 
 ###### Artículo 107.
@@ -2387,11 +2445,11 @@ Los municipios tendrán a su cargo las funciones y servicios públicos que seña
 
 Los municipios ejercerán las facultades señaladas en la Constitución General de la República, de manera coordinada con el Gobierno del Estado, de acuerdo con los planes y programas federales, estatales, regionales y metropolitanos a que se refiere el artículo 139 de este ordenamiento.
 
-> <small>(REFORMADO, G.G. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 123.
 
-Los ayuntamientos, en el ámbito de su competencia, desempeñarán facultades normativas, para el régimen de gobierno y administración del Municipio, así como funciones de inspección, concernientes al cumplimiento de las disposiciones de observancia general aplicables.
+Los ayuntamientos, en el ámbito de su competencia, desempeñarán facultades normativas, para el régimen de gobierno y administración del Municipio, así como lo relacionado al Sistema Municipal Anticorrupción y funciones de inspección, concernientes al cumplimiento de las disposiciones de observancia general aplicables.
 
 > <small>(REFORMADO, G.G. 16 DE MAYO DE 2001)</small>
 
@@ -2539,33 +2597,99 @@ Los servidores públicos del Estado y municipios, tienen en todo tiempo la oblig
 
 La propaganda que bajo cualquier modalidad de comunicación social, difundan como tales los poderes públicos, los órganos autónomos, los Ayuntamientos, las dependencias y entidades de la administración pública estatal y municipal, así como las empresas de participación estatal o municipal, sociedades o asociaciones asimiladas a éstas y en los fideicomisos y cualquier otra entidad pública del Estado de México, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público, de cualquiera de los poderes del Estado u órganos de gobierno. Las leyes de la materia regularán estas circunstancias.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2017)</small>
 
-El Órgano Superior de Fiscalización, la Secretaría de la Contraloría, las contralorías de los Poderes Legislativo y Judicial, las de los organismos autónomos y las de los Ayuntamientos, vigilarán el cumplimiento de lo dispuesto en este Título, conforme a sus respectivas competencias.
+El Órgano Superior de Fiscalización del Estado de México, la Secretaría de la Contraloría del Gobierno del Estado, los órganos internos de control de los Poderes Legislativo y Judicial, de los organismos constitucionalmente autónomos y de los ayuntamientos, vigilarán el cumplimiento de lo dispuesto en este Título, conforme a sus respectivas competencias.
 
 > <small>(ADICIONADO, G.G. 9 DE MAYO DE 2008)</small>
 
 La infracción a las disposiciones previstas en este Título será sancionada conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de México y sus Municipios y demás leyes aplicables.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE ABRIL DE 2017)</small>
 
-## TITULO SEPTIMO. De la Responsabilidad de los Servidores Públicos y del Juicio Político
+## TITULO SEPTIMO
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+De la Responsabilidad de las y los Servidores Públicos del Estado, Patrimonial del Estado, del Sistema Estatal Anticorrupción y del Juicio Político.
+
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 130.
 
-Para los efectos de las responsabilidades a que alude este título, se considera como servidor público a toda persona que desempeñe un empleo, cargo o comisión en alguno de los poderes del Estado, en los ayuntamientos de los municipios y organismos auxiliares, así como los titulares o quienes hagan sus veces en empresas de participación estatal o municipal, sociedades o asociaciones asimiladas a éstas y en los fideicomisos públicos. Por lo que toca a los demás trabajadores del sector auxiliar, su calidad de servidores públicos estará determinada por los ordenamientos legales respectivos.
+Para los efectos de las responsabilidades a que alude este título, se considera como servidor público a toda persona que desempeñe un empleo, cargo o comisión en alguno de los poderes del Estado, organismos autónomos, en los municipios y organismos auxiliares, así como los titulares o quienes hagan sus veces en empresas de participación estatal o municipal, sociedades o asociaciones asimiladas a éstas y en los fideicomisos públicos. Por lo que toca a las y los demás trabajadores del sector auxiliar, su calidad de servidores públicos estará determinada por los ordenamientos legales respectivos. Las y los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial, de intereses ante las autoridades competentes y constancia de presentación de la declaración fiscal y en los términos que determine la ley.
 
 La Ley de Responsabilidades regulará sujetos, procedimientos y sanciones en la materia.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+Las y los servidores públicos y particulares que incurran en responsabilidad frente al Estado, serán sancionados conforme a lo siguiente:
 
-> <small>(REFORMADO, G.G. 28 DE JULIO DE 2016)</small>
+I. Se aplicarán sanciones administrativas a las y los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones. Dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La ley de la materia establecerá los procedimientos para la investigación y sanción de dichos actos u omisiones.
+
+Las faltas administrativas graves serán investigadas y substanciadas por la Secretaría de la Contraloría del Poder Ejecutivo, por el Órgano Superior de Fiscalización del Estado de México y los órganos internos de control, según corresponda, y serán resueltas por el Tribunal de Justicia Administrativa del Estado de México. Las demás faltas y sanciones administrativas que no sean calificadas como graves, serán conocidas y resueltas por los órganos internos de control, quienes substanciarán los procedimientos y en su caso aplicarán las sanciones correspondientes.
+
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se regirá por lo previsto en el artículo 106 de esta Constitución, sin perjuicio de las atribuciones del Órgano Superior de Fiscalización del Estado de México en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
+
+La ley de la materia establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control.
+
+Las dependencias, organismos auxiliares del Ejecutivo Estatal, los órganos constitucionalmente autónomos y los ayuntamientos tendrán órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos y omisiones que pudieran constituir responsabilidades administrativas, para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado de México, revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos federales, estatales y municipales, así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+Las instituciones de seguridad pública tendrán su sistema de separación del servicio, de investigación y sanción disciplinaria, de conformidad con lo previsto en las leyes respectivas en congruencia con la fracción XIII del apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+II. El Tribunal de Justicia Administrativa del Estado de México, impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas, inhabilitación para participar en adquisiciones, arrendamientos, servicios y obras públicas, así como el resarcimiento de los daños y perjuicios ocasionados a la hacienda pública Estatal o Municipal o al patrimonio de las entidades públicas estatales o municipales. Las personas jurídico colectivas serán sancionadas en los términos de este párrafo cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona jurídico colectiva y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la hacienda pública estatal o municipal o al patrimonio de las entidades públicas, estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves, en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes de la materia establecerán los procedimientos para la investigación e imposición de sanciones aplicables de dichos actos u omisiones.
+
+Los procedimientos para la aplicación de las sanciones mencionadas en las fracciones anteriores se desarrollarán autónomamente y no podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba podrá formular denuncia ante el Órgano Superior de Fiscalización del Estado de México, respecto de las conductas a las que se refiere el presente artículo.
+
+III. En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios que competan al ámbito local. La ley de la materia establecerá los procedimientos para que les sea entregada dicha información.
+
+La responsabilidad del Estado y de los municipios por los daños que, con motivo de su actividad administrativa irregular, causen en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezca la ley.
+
+> <small>(ADICIONADO, G.G. 24 DE ABRIL DE 2017)</small>
+
+###### Artículo 130 Bis.
+
+El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas, actos y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas y conforme a la ley respectiva:
+
+I. El Sistema contará con un Comité Coordinador que estará integrado por el titular de la Secretaría de la Contraloría del Poder Ejecutivo, el titular del Órgano Superior de Fiscalización del Estado de México, el titular de la Fiscalía Especializada en Combate a la Corrupción, el Presidente del Tribunal de Justicia Administrativa del Estado de México, el titular del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, así como un representante del Consejo de la Judicatura Estatal y otro del Comité de Participación Ciudadana, quien lo presidirá. El Sistema tendrá la organización y funcionamiento que determine la Ley.
+
+II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, rendición de cuentas o combate a la corrupción y serán designados en los términos que establezca la ley.
+
+III. Corresponderá al Comité Coordinador del Sistema, en los términos que determine la ley:
+
+a) El establecimiento de mecanismos de coordinación con el sistema federal y con las instituciones integrantes del Sistema Estatal.
+
+b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas, actos y hechos de corrupción, en especial sobre las causas que los generan.
+
+c) La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes de los órdenes de gobierno.
+
+d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos.
+
+e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia. Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, para que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
+
+El Sistema Municipal Anticorrupción es la instancia de coordinación y coadyuvancia con el Sistema Estatal Anticorrupción que concurrentemente tendrá por objeto establecer principios, bases generales, políticas públicas, acciones y procedimientos en la prevención, detección y sanción de faltas administrativas, actos y hechos de corrupción, así como coadyuvar con las autoridades competentes en la fiscalización y control de recursos públicos en el ámbito municipal, en congruencia con los Sistemas Federal y Estatal.
+
+Para su funcionamiento se sujetará a las siguientes bases mínimas y conforme a la ley respectiva:
+
+I. El Sistema contará con un Comité Coordinador que estará integrado por el titular de la Contraloría Municipal, el de la Unidad de Transparencia y Acceso a la Información, así como un representante del Comité de Participación Ciudadana, quien lo presidirá.
+
+II. El Comité de Participación Ciudadana del Sistema deberá integrarse por tres ciudadanos que se hayan destacado por su contribución al combate a la corrupción, de notoria buena conducta y honorabilidad manifiesta, los cuales serán designados en los términos que establezca la ley.
+
+III. Corresponderá al Comité Coordinador del Sistema, en los términos que determine la Ley:
+
+a) El establecimiento de mecanismos de coordinación y armonización con el Sistema Estatal Anticorrupción.
+
+b) El diseño y promoción de políticas integrales en materia de prevención, control y disuasión de faltas administrativas y hechos de corrupción.
+
+c) Actualización y difusión de la información que sobre estas materias generen las instituciones competentes de los órdenes de gobierno.
+
+d) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+
+e) Elaboración y entrega de un informe anual al Comité Coordinador del Sistema Estatal Anticorrupción de las acciones realizadas, las políticas aplicadas y del avance de éstas con respecto al ejercicio de sus funciones, además informar al mismo Comité de la probable comisión de hechos de corrupción y faltas administrativas para que en su caso, emita recomendaciones no vinculantes a las autoridades competentes, a fin de que adopten medidas dirigidas al fortalecimiento institucional para la prevención y erradicación de tales conductas.
+
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 131.
 
-Los diputados de la Legislatura del Estado, los magistrados y los integrantes del Consejo de la Judicatura del Tribunal Superior de Justicia, los magistrados del Tribunal de lo Contencioso Administrativo, los titulares de las dependencias del Poder Ejecutivo y el Fiscal General de Justicia y los integrantes de los órganos superiores de los organismos a los que la presente Constitución les otorga autonomía, son responsables de los delitos graves del orden común que cometan durante su encargo y de los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones. El Gobernador lo será igualmente, pero durante el período de su ejercicio sólo podrá ser acusado por delitos graves del orden común y por delitos contra la seguridad del Estado.
+Los Diputados de la Legislatura del Estado, los Magistrados y los integrantes del Consejo de la Judicatura del Tribunal Superior de Justicia, los magistrados del Tribunal de Justicia Administrativa del Estado de México, los titulares de las dependencias del Poder Ejecutivo, el Fiscal General de Justicia y los integrantes de los órganos superiores de los organismos a los que la presente Constitución les otorga autonomía, son responsables de los delitos graves del orden común, que cometan durante su encargo y de los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones. El Gobernador lo será igualmente, pero durante el período de su ejercicio sólo podrá ser acusado por delitos graves del orden común y por delitos contra la seguridad del Estado.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -2575,17 +2699,19 @@ Tratándose de los delitos a que se refiere el artículo anterior, la Legislatur
 
 Contra las declaraciones y resoluciones de la Legislatura erigida en Gran Jurado no procede juicio o recurso alguno.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 133.
 
-El Gobernador del Estado, cuando el caso lo amerite, podrá pedir a la Legislatura o a la Diputación Permanente la destitución de los magistrados del Tribunal de lo Contencioso Administrativo del Estado. Si por mayoría absoluta del número total de sus integrantes, en sesión de una u otra, se declara justificada la petición, el magistrado acusado quedará privado de su puesto a partir de la fecha en que se le haga saber la resolución, independientemente de la responsabilidad en que, en su caso, haya incurrido, y se procederá a nueva designación.
+El Gobernador del Estado, cuando el caso lo amerite, podrá pedir a la Legislatura o a la Diputación Permanente la destitución de los Magistrados del Tribunal de Justicia Administrativa del Estado de México. Si por el voto de las dos terceras partes de los miembros de la Legislatura o de la Diputación Permanente, en sesión de una u otra, se declara justificada la petición, el magistrado acusado quedará privado de su puesto a partir de la fecha en que se le haga saber la resolución, independientemente de la responsabilidad en que, en su caso, haya incurrido y se procederá a nueva designación.
 
-El Consejo de la Judicatura del Estado de México, cuando el caso lo amerite, podrá pedir a la Legislatura o a la Diputación Permanente la destitución de los magistrados del Tribunal Superior de Justicia, en términos del procedimiento que al efecto determine la ley.
+El Consejo de la Judicatura del Estado de México, cuando el caso lo amerite, por causas de responsabilidad administrativa o por la comisión de delitos del fuero común, incluidas aquellas faltas y delitos relacionados con actos de corrupción, podrá pedir a la Legislatura o a la Diputación Permanente la destitución de los magistrados del Tribunal Superior de Justicia, misma que será aprobada en su caso por el voto de las dos terceras partes de los miembros presentes de la Legislatura o de la Diputación Permanente, en términos del Procedimiento que al efecto determine la ley.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 134.
+
+La Fiscalía Especializada en Combate a la Corrupción es la unidad administrativa competente de la Fiscalía General de Justicia del Estado de México, encargada de la investigación de los delitos, y del ejercicio de la acción penal, ante los tribunales correspondientes, derivado de las acciones u omisiones de los servidores públicos y particulares constitutivos de delitos en materia de corrupción, de acuerdo con las leyes de la materia.
 
 Los servidores públicos condenados por delitos cometidos con motivo del desempeño de sus funciones públicas no gozarán del indulto por gracia.
 
@@ -2659,6 +2785,10 @@ f) Publicar los acuerdos y convenios que se suscriban para dar cumplimiento a lo
 
 La Mejora Regulatoria y el Gobierno Digital son instrumentos de desarrollo. Es obligatorio para el Estado y los municipios, sus dependencias y organismos auxiliares, implementar de manera permanente, continua y coordinada sus normas, actos, procedimientos y resoluciones, ajustándose a las disposiciones que establece esta Constitución, a fin de promover políticas públicas relativas al uso de las tecnologías de la información e impulsar el desarrollo económico del Estado de México.
 
+> <small>(ADICIONADO, G.G. 24 DE ABRIL DE 2017)</small>
+
+La Ley establecerá la creación de registros estatales y municipales que incluyan todos los trámites y servicios de la administración pública, atendiendo las disposiciones relativas a la protección de datos personales y acceso a la información pública que la ley en la materia disponga, con el objetivo de generar certeza, seguridad jurídica y facilitar su cumplimiento mediante el uso de las tecnologías de la información y comunicaciones. La inscripción en el registro y su actualización será obligatoria para todas las dependencias de las administraciones públicas estatal, municipal y organismos auxiliares, en los términos que señale la ley de la materia.
+
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 140.
@@ -2703,11 +2833,13 @@ Ningún individuo podrá desempeñar dos cargos de elección popular, pero el el
 
 Los ciudadanos mexicanos que ejerzan el ministerio de cualquier culto no podrán desempeñar cargos de secretarios, subsecretarios, directores en la administración pública estatal, o ser titulares de organismos auxiliares a menos que se separen formal, material y definitivamente de su ministerio cuando menos cinco años antes de la aceptación del cargo respectivo y seis meses para los demás puestos.
 
-> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 147.
 
-El Gobernador, los diputados, los magistrados de los Tribunales Superior de Justicia y de lo Contencioso Administrativo, los miembros del Consejo de la Judicatura, los trabajadores al servicio del Estado, los integrantes y servidores de los organismos autónomos, así como los miembros de los ayuntamientos y demás servidores públicos municipales recibirán una retribución adecuada e irrenunciable por el desempeño de su empleo, cargo o comisión, que será determinada en el presupuesto de egresos que corresponda.
+El Gobernador, los Diputados, y los Magistrados de los Tribunales Superior de Justicia y de Justicia Administrativa del Estado de México, los miembros del Consejo de la Judicatura, los trabajadores al servicio del Estado, los integrantes y los servidores de los organismos constitucionalmente autónomos, así como los miembros de los ayuntamientos y demás servidores públicos municipales recibirán una retribución adecuada e irrenunciable por el desempeño de su empleo, cargo o comisión, que será determinada en el presupuesto de egresos que corresponda.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2006)</small>
 
 Las remuneraciones mínimas y máximas se determinarán con base, entre otros, en los factores siguientes: población, recursos económicos disponibles, costo promedio de vida, índice inflacionario, grado de marginalidad, productividad en la prestación de servicios públicos, responsabilidad de la función y eficiencia en la recaudación de ingresos, de acuerdo con la información oficial correspondiente.
 
@@ -4408,3 +4540,47 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 24 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 202.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 52 EN SU SEGUNDO PÁRRAFO, 61 EN SUS FRACCIONES XV, XVII, XVIII, XXI, XXXII EN SU SEGUNDO Y TERCER PÁRRAFO, XXXIII, XXXIV, XXXV Y LIV, 77 EN SUS FRACCIONES XII, XIII, XV Y XIX, LA DENOMINACIÓN DE LA SECCIÓN CUARTA DEL CAPÍTULO TERCERO DEL TÍTULO CUARTO, 87, 123, 129 EN SU PÁRRAFO SÉPTIMO, LA DENOMINACIÓN DEL TÍTULO SÉPTIMO, 130, 131, 133, 134, 147 PRIMER PÁRRAFO. SE ADICIONAN LAS FRACCIONES VII AL ARTÍCULO 51, EL PÁRRAFO TERCERO RECORRIÉNDOSE EL ACTUAL TERCERO PARA SER CUARTO DEL ARTÍCULO 52, XV BIS, UN TERCER PÁRRAFO A LA FRACCIÓN XXXII RECORRIÉNDOSE LOS SUBSECUENTES PÁRRAFOS, LV Y LVI AL ARTÍCULO 61, UN SEGUNDO PÁRRAFO AL ARTÍCULO 106, EL ARTÍCULO 130 BIS, UN SEGUNDO PÁRRAFO AL ARTÍCULO 139 BIS, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno", sin perjuicio de lo previsto en los transitorios siguientes.
+
+TERCERO. El Poder Ejecutivo del Gobierno del Estado deberá considerar para cada ejercicio fiscal la partida presupuestal asignada a cada sujeto obligado para cubrir las obligaciones indemnizatorias derivadas de la responsabilidad patrimonial, por lo que hace al Poder Legislativo y Judicial así como los órganos constitucionalmente autónomos, deberán asignar dichas partidas de conformidad con las disposiciones aplicables.
+
+CUARTO. Se deberá expedir la Ley de Responsabilidad Patrimonial, a más tardar en un término de ciento veinte días naturales siguientes a la fecha de entrada en vigor del presente Decreto.
+
+QUINTO. Dentro del plazo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto se deberán expedir y aprobar las leyes reglamentarias o sus reformas, así como realizar las adecuaciones normativas correspondientes que permitan la implementación del presente Decreto.
+
+SEXTO. Una vez que entre en vigor la Ley de Responsabilidades Administrativas del Estado de México y Municipios, se expedirá la Ley a que se refiere la fracción XV Bis del artículo 61 de esta Constitución, en la cual se establecerá que, observando lo dispuesto en la normatividad aplicable, el Tribunal de Justicia Administrativa del Estado de México:
+
+a). Aprobará su proyecto de presupuesto, con sujeción a los criterios generales de política económica y los techos globales de gasto establecidos por el Ejecutivo Estatal.
+
+b). Ejercerá directamente su presupuesto aprobado por la Legislatura, sujetándose únicamente a las disposiciones legales aplicables.
+
+c). Autorizará las adecuaciones presupuestarias sin requerir la autorización de la Secretaría de Finanzas, siempre y cuando no rebase su techo global aprobado por la Legislatura.
+
+d). Determinará los ajustes que correspondan a su presupuesto en caso de disminución de ingresos durante el ejercicio fiscal.
+
+e). Realizará los pagos, llevará la contabilidad y elaborará sus informes, a través de su propia tesorería en los términos de las leyes aplicables.
+
+SÉPTIMO. El Tribunal de Justicia Administrativa del Estado de México, deberá entrar en funciones una vez expedidas las leyes reglamentarias o sus reformas, así como realizadas las adecuaciones normativas y administrativas correspondientes.
+
+Los Magistrados del Tribunal de lo Contencioso Administrativo del Estado de México que hayan sido nombrados a la fecha de entrada en vigor del presente Decreto, continuarán como Magistrados del Tribunal de Justicia Administrativa del Estado de México exclusivamente por el tiempo que hayan sido nombrados.
+
+El Tribunal de lo Contencioso Administrativo del Estado de México continuará funcionando con su organización y facultades actuales hasta la entrada en funciones del Tribunal de Justicia Administrativa del Estado de México.
+
+Los recursos humanos, presupuestales financieros, materiales y los derechos derivados de los fondos o fideicomisos vigentes del Tribunal de lo Contencioso Administrativo del Estado de México pasarán a formar parte del Tribunal de Justicia Administrativa del Estado de México.
+
+Las y los trabajadores de base que se encuentren prestando sus servicios en el Tribunal de lo Contencioso Administrativo del Estado de México, a la entrada en vigor del presente Decreto, seguirán conservando su misma calidad y los derechos laborales que les corresponden ante el Tribunal de Justicia Administrativa del Estado de México, en los términos de la normatividad aplicable.
+
+OCTAVO. En tanto se expiden y reforman las leyes a que se refiere el Quinto Transitorio, continuará aplicándose la legislación en vigor en materia de responsabilidades administrativas de servidores públicos, así como de fiscalización y control de recursos públicos, que se encuentre vigente a la fecha de entrada del presente Decreto.
+
+NOVENO. Los titulares de los Órganos Internos de Control de los Órganos constitucionalmente Autónomos, que se encuentren en funciones al entrar en vigor el mismo, se sujetarán al procedimiento de designación o ratificación que establezca la Ley, dentro de los treinta días hábiles posteriores al cumplimiento del Cuarto Transitorio, en términos de los procedimientos aplicables.
+
+DÉCIMO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+DÉCIMO PRIMERO. El Titular del Poder Ejecutivo del Estado de México dispondrá de lo necesario para el cumplimiento del presente Decreto.
