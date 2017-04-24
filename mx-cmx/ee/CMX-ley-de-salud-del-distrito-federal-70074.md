@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2017-04-18"
+last_updated: "2017-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 18 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE ABRIL DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -1028,9 +1028,9 @@ La atención a la salud materno-infantil tiene carácter prioritario y comprende
 
 I. La atención de la mujer durante el embarazo, el parto y el puerperio;
 
-> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2017)</small>
 
-II. La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna; así como el fomento y disposición de espacios que permitan su correcta nutrición, tales como son lactarios.
+II. La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna y de su correcta nutrición; para el cumplimiento de esto último, la Secretaría dará a conocer, por los medios de su alcance y en el ámbito de su competencia, la importancia de la lactancia materna, así como las conductas consideradas discriminatorias que limitan esta práctica y con ello, afecten la dignidad humana de la mujer y el derecho a la alimentación de las niñas y los niños.
 
 III. La realización de los estudios de laboratorio y gabinete y aplicación de indicaciones preventivas y tratamiento médico que corresponda, a fin de evitar, diagnosticar y controlar defectos al nacimiento;
 
@@ -1077,6 +1077,10 @@ III. Acciones para controlar las enfermedades prevenibles por vacunación, los p
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE FEBRERO DE 2015)</small>
 
 IV. Acciones de diagnóstico y atención temprana de la displasia en el desarrollo de los menores de 5 años.
+
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2017)</small>
+
+V. Acciones tendientes a fomentar la práctica de la lactancia materna así como erradicar la discriminación hacia las mujeres que la realicen en vías y espacios públicos.
 
 ###### Artículo 51.
 
@@ -3269,3 +3273,11 @@ SEGUNDO. Remítase el presente Decreto al Jefe de Gobierno de la Ciudad de Méxi
 TERCERO. La Asamblea Legislativa de la Ciudad de México, por conducto de la Comisión de Presupuesto y Cuenta Pública, deberá considerar recursos suficientes en el Presupuesto de Egresos de la Ciudad de México para el ejercicio 2017, para la aplicación del presente Decreto.
 
 CUARTO. El Gobierno de la Ciudad de México una vez determinada la disposición presupuestal correspondiente, canalizará los debidos recursos que aseguren las atribuciones que describe este decreto.
+
+G.O. 24 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL, DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL DISTRITO FEDERAL, DE LA LEY DE SALUD DEL DISTRITO FEDERAL Y DE LA LEY DE LOS DERECHOS DE LOS NIÑOS, NIÑAS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
