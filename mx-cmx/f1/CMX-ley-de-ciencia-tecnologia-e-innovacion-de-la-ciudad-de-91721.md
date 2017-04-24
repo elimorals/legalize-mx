@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-ciencia-tecnologia-e-innovacion-de-la-ciudad-de-91721"
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-29"
-last_updated: "2014-08-07"
+last_updated: "2017-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91721&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2013-01-10"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE ABRIL DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2013.
 
@@ -118,19 +118,23 @@ VIII. Delegaciones del Distrito Federal: Órganos Político Administrativos del 
 
 IX. Desarrollo Científico, Tecnológico e Innovación: El proceso de mejoramiento constante del bienestar de la población a través de nuevas tecnologías impulsadas por estudios científicos, asimismo en relación con la cantidad y calidad de los empleos y el nivel de los ingresos que esta materia pueda generar;
 
-X. Estímulos: Las medidas jurídicas, administrativas, fiscales y financieras que aplicarán las dependencias y entidades de la administración pública local, competentes para promover y facilitar el desarrollo de las actividades científicas sujetas a fomento;
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2017)</small>
 
-XI. Fomento: El conjunto de políticas públicas y concertación de acciones con los sectores privado y social para incidir en los factores que promueven el desarrollo científico, tecnológico y de innovación;
+X. Emergencia: Situación anormal generada por la inminencia o la presencia de un fenómeno perturbador que altera o pone en peligro la continuidad de las condiciones ordinarias de vida de la población o el funcionamiento normal de los servicios vitales o los sistemas estratégicos y que de no atenderse puede generar un desastre;
 
-XII. Fondos Federales: A los fondos regulados por la Ley de Ciencia y Tecnología;
+XI. Estímulos: Las medidas jurídicas, administrativas, fiscales y financieras que aplicarán las dependencias y entidades de la administración pública local, competentes para promover y facilitar el desarrollo de las actividades científicas sujetas a fomento;
 
-XIII. Fondos Locales: A los fondos e instrumentos financieros operados por el Gobierno del Distrito Federal, a través de la reglamentación vigente, con la finalidad de realizar acciones en materia de ciencia, tecnología e innovación en beneficio de la población del Distrito Federal.
+XII. Fomento: El conjunto de políticas públicas y concertación de acciones con los sectores privado y social para incidir en los factores que promueven el desarrollo científico, tecnológico y de innovación;
 
-XIV. Fondos Institucionales, sectoriales y regionales: A los fondos que operará directamente la Secretaría con base en la aportación anual que se determine en el presupuesto del Distrito Federal, pudiendo recibir recursos de otras entidades o dependencias locales o federales, así como de las Delegaciones del Distrito Federal;
+XIII. Fondos Federales: A los fondos regulados por la Ley de Ciencia y Tecnología;
 
-XV. Fondos Mixtos: A los que operará conjuntamente la Secretaría con las instituciones públicas involucradas y que se integrarán con las aportaciones que se determinen tanto en el presupuesto del Distrito Federal como por parte de las entidades y dependencias, locales o federales, o bien de las Delegaciones del Distrito Federal;
+XIV. Fondos Locales: A los fondos e instrumentos financieros operados por el Gobierno del Distrito Federal, a través de la reglamentación vigente, con la finalidad de realizar acciones en materia de ciencia, tecnología e innovación en beneficio de la población del Distrito Federal.
 
-XVI. Fondos Específicos: A los destinados a la investigación científica, el desarrollo tecnológico y la innovación, que se formarán con las aportaciones que realicen los centros de investigación o las organizaciones no gubernamentales del Distrito Federal o de otras entidades. Así como aquéllos que se constituyan por:
+XV. Fondos Institucionales, sectoriales y regionales: A los fondos que operará directamente la Secretaría con base en la aportación anual que se determine en el presupuesto del Distrito Federal, pudiendo recibir recursos de otras entidades o dependencias locales o federales, así como de las Delegaciones del Distrito Federal;
+
+XVI. Fondos Mixtos: A los que operará conjuntamente la Secretaría con las instituciones públicas involucradas y que se integrarán con las aportaciones que se determinen tanto en el presupuesto del Distrito Federal como por parte de las entidades y dependencias, locales o federales, o bien de las Delegaciones del Distrito Federal;
+
+XVII. Fondos Específicos: A los destinados a la investigación científica, el desarrollo tecnológico y la innovación, que se formarán con las aportaciones que realicen los centros de investigación o las organizaciones no gubernamentales del Distrito Federal o de otras entidades. Así como aquéllos que se constituyan por:
 
 a) Herencias, legados, donaciones o créditos que se obtengan a su favor por el sector público o privado. Los beneficios generados por la explotación de derechos de propiedad intelectual que se registren a su nombre;
 
@@ -140,25 +144,25 @@ d) Apoyos de organismos nacionales e internacionales; y
 
 e) Otros recursos que determine el Distrito Federal.
 
-XVII. Instituciones Federales: Las dependencias y entidades de la Administración Pública Federal, con atribuciones y programas relacionados con los Sectores de producción y de servicios en el Distrito Federal;
+XVIII. Instituciones Federales: Las dependencias y entidades de la Administración Pública Federal, con atribuciones y programas relacionados con los Sectores de producción y de servicios en el Distrito Federal;
 
-XVIII. Jefe de Gobierno: el Jefe de Gobierno del Distrito Federal;
+XIX. Jefe de Gobierno: el Jefe de Gobierno del Distrito Federal;
 
-XIX. Ley: Ley de Ciencia, Tecnología e Innovación del Distrito Federal;
+XX. Ley: Ley de Ciencia, Tecnología e Innovación del Distrito Federal;
 
-XX. Ley Orgánica: Ley Orgánica de la Administración Pública del Distrito Federal;
+XXI. Ley Orgánica: Ley Orgánica de la Administración Pública del Distrito Federal;
 
-XXI. PROCTEIDF: Al Programa de Ciencia, Tecnología e Innovación del Distrito Federal;
+XXII. PROCTEIDF: Al Programa de Ciencia, Tecnología e Innovación del Distrito Federal;
 
-XXII. Programa General: Al Programa General de Desarrollo del Distrito Federal;
+XXIII. Programa General: Al Programa General de Desarrollo del Distrito Federal;
 
-XXIII. RENIECYT: Al Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas, previsto en la Ley de Ciencia, Tecnología e Innovación;
+XXIV. RENIECYT: Al Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas, previsto en la Ley de Ciencia, Tecnología e Innovación;
 
-XXIV. Secretaría: A la Secretaría de Ciencia, Tecnología e Innovación del Distrito Federal;
+XXV. Secretaría: A la Secretaría de Ciencia, Tecnología e Innovación del Distrito Federal;
 
-XXV. SIICYT: Al Sistema Integrado de Información de Ciencia y Tecnología, previsto en la Ley de Ciencia, Tecnología e Innovación; y
+XXVI. SIICYT: Al Sistema Integrado de Información de Ciencia y Tecnología, previsto en la Ley de Ciencia, Tecnología e Innovación; y
 
-XXVI. Sistema: Al Sistema Local de Ciencia, Tecnología e Innovación, que estará conformado por los sectores académicos, públicos y privados dedicados al impulso de esta materia.
+XXVII. Sistema: Al Sistema Local de Ciencia, Tecnología e Innovación, que estará conformado por los sectores académicos, públicos y privados dedicados al impulso de esta materia.
 
 ## TÍTULO II. DE LOS ÓRGANOS COMPETENTES EN LA APLICACIÓN DE LA LEY
 
@@ -360,7 +364,7 @@ XII. Estudiar los problemas en el campo de la ciencia y tecnología que necesite
 
 XIII. Sugerir proyectos productivos que contribuyan a impulsar el desarrollo científico y tecnológico en la Ciudad;
 
-XIV. Conocer y opinar sobre los Programas de Ciencia, Tecnología e Innovación delegacionales, para recomendar las acciones necesarias tendientes al mejor desempeño de dichas actividades; y (sic)
+XIV. Conocer y opinar sobre los Programas de Ciencia, Tecnología e Innovación delegacionales, para recomendar las acciones necesarias tendientes al mejor desempeño de dichas actividades; y
 
 XV. Emitir opinión, proponer prioridades y adecuaciones a los programas del Campo Científico y Tecnológico, así como dar seguimiento y evaluar su cumplimiento.
 
@@ -491,6 +495,24 @@ XXII. Formular los proyectos de normas y estatutos que previene esta Ley y somet
 XXIII. Integrar la información relacionada con los recursos administrativos que se interpongan contra los actos y resoluciones de la Secretaría y presentarla al Consejo de Desarrollo Científico, Tecnológico e Innovación del Distrito Federal para el análisis y resolución correspondientes; y
 
 XXIV. Las demás que le otorgue esta Ley, sus normas y estatutos y la legislación aplicable.
+
+> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2017)</small>
+
+###### Artículo 22 Bis.
+
+Además de las facultades previstas en el artículo anterior, para dar solución a un caso de emergencia que se suscite en la Ciudad de México, el titular de la Secretaría tendrá las atribuciones siguientes:
+
+I. Identificar al investigador, innovador, persona física o moral pública o privada que pertenezca o no a una institución académica, para que a través de la Ciencia, la Tecnología o la Innovación, pueda desarrollar un proyecto que atienda y enfrente el problema.
+
+II. El proyecto en cuestión deberá contener una proyección de la presupuestación necesaria, así como un detallado análisis técnico para definir la solución de la problemática que se pretende atender.
+
+III. Recibido el proyecto, el Secretario llevará a cabo su evaluación para determinar si resulta viable el otorgamiento del apoyo económico para el desarrollo del mismo, atendiendo en todo momento el cumplimiento de la legislación aplicable sin obviar ninguno de los requisitos de forma establecidos.
+
+IV. El proyecto referido en la fracción anterior no será sometido ante el Consejo, pero deberá ser remitido al Jefe de Gobierno de la Ciudad de México para su visto bueno y aprobación, el cual tendrá un término no mayor a quince días hábiles posteriores a su recepción para pronunciarse al respecto, agotado el término antes mencionado sin la respuesta correspondiente, se tendrá por aprobado para sus efectos legales y administrativos a que haya lugar.
+
+V. Una vez cumplido el plazo establecido en la fracción anterior, el Secretario hará del conocimiento de la ejecución del proyecto al Consejo de Desarrollo Científico, Tecnológico e Innovación del Distrito Federal.
+
+En ningún caso, los proyectos aprobados y ejecutados bajo el presente precepto, podrán superar el 35% del presupuesto anual total asignado a la Secretaría.
 
 ## TÍTULO IV. ESTÍMULOS Y APOYOS AL DESARROLLO CIENTÍFICO, TECNOLÓGICO E INNOVACIÓN
 
@@ -843,3 +865,13 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente a su publicaci
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario oficial de la Federación para su mayor difusión.
 
 TERCERO.- Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente Decreto.
+
+G.O. 24 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan a la (sic) presente Decreto
