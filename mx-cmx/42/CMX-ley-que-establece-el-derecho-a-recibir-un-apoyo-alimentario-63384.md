@@ -4,7 +4,7 @@ identifier: "CMX-ley-que-establece-el-derecho-a-recibir-un-apoyo-alimentario-633
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-03"
-last_updated: "2016-11-16"
+last_updated: "2017-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63384&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-09-18"
 
 LEY QUE ESTABLECE EL DERECHO A RECIBIR UN APOYO ALIMENTARIO A LAS MADRES SOLAS DE ESCASOS RECURSOS RESIDENTES EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE ABRIL DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 3 de octubre de 2008.
 
@@ -67,6 +67,10 @@ III. Que tengan un ingreso diario no superior a dos salarios mínimos generales 
 > <small>(ADICIONADA, G.O. 16 DE NOVIEMBRE 2016)</small>
 
 IV. De igual forma podrán ser consideradas madres solas de escasos recursos, las que cumpliendo con los requisitos anteriores, se encuentren internas en cualquiera de los centros penitenciarios del Distrito Federal sujetas a proceso penal.
+
+> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2017)</small>
+
+ARTÍCULO 2 BIS.- Para efectos de esta Ley, se considera también madre sola de escasos recursos a la familiar en línea recta ascendiente en segundo grado que por extravío o por el deceso de la madre biológica, quede a cargo, de manera definitiva y permanente, de la crianza y tutela de sus nietos. Siempre y cuando se encuentre dentro de los supuestos establecidos en el artículo anterior.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -167,3 +171,11 @@ SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conoc
 TERCERO.- El Gobierno de la Ciudad de México otorgará, mediante ampliaciones presupuestales, los recursos necesarios para iniciar en el año 2016, la aplicación del presente Decreto.
 
 CUARTO.- Se deberán considerar recursos suficientes en el Presupuesto de Egresos de la Ciudad de México para el ejercicio 2017, para la aplicación del presente Decreto.
+
+G.O. 24 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 2 BIS A LA LEY QUE ESTABLECE EL DERECHO A RECIBIR UN APOYO ALIMENTARIO A LAS MADRES SOLAS DE ESCASOS RECURSOS RESIDENTES EN EL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
