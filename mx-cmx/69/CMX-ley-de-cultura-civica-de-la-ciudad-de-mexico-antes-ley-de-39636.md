@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-antes-ley-de-39636
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2017-03-23"
+last_updated: "2017-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39636&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-19"
 
 LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE ABRIL DE 2017.
 
 Ley publicada en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de mayo de 2004.
 
@@ -502,11 +502,17 @@ III. Propinar a una persona, en forma intencional y fuera de riña, golpes que n
 
 IV. Lesionar a una persona siempre y cuando las lesiones que se causen de acuerdo al dictamen médico tarden en sanar menos de quince días. En caso de que las lesiones tarden en sanar más de quince días el juez dejará a salvo los derechos del afectado para que éste los ejercite por la vía que estime procedente.
 
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2017)</small>
+
+V. Condicionar, insultar o intimidar a la mujer, que alimente a una niña o a un niño a través de la lactancia, en las vías y espacios públicos.
+
 La infracción establecida en la fracción I se sancionará con multa por el equivalente de 1 a 10 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 6 a 12 horas.
 
 Las infracciones establecidas en las fracciones II y III se sancionarán con multa por el equivalente de 11 a 20 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 13 a 24 horas.
 
-La infracción establecida en la fracción IV, se sancionará con arresto de veinticinco a treinta y seis horas. Sólo procederá la conciliación cuando el probable infractor repare el daño. Las partes de común acuerdo fijarán el monto del daño.
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2017)</small>
+
+Las infracciones establecidas en las fracciones IV y V, se sancionarán con arresto de veinticinco a treinta y seis horas. En caso de la fracción IV sólo procederá la conciliación cuando el probable infractor repare el daño. Las partes de común acuerdo fijarán el monto del daño.
 
 > <small>(REFORMADO, G.O. 23 DE MARZO DE 2017)</small>
 
@@ -666,7 +672,9 @@ En el supuesto de que el infractor no pagare la multa que se le hubiese impuesto
 
 Cuando una infracción se ejecute con la participación de dos o más personas, a cada una se le aplicará la sanción máxima que para esa infracción señala esta Ley.
 
-Cuando la persona molestada u ofendida sea menor de edad, anciano, persona con discapacidad o indigente, se aumentará la sanción hasta en una mitad, sin exceder el máximo constitucional y legal establecido para el caso de la multa.
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2017)</small>
+
+Cuando la persona molestada u ofendida sea menor de edad, mujer lactante, persona adulta mayor, persona con discapacidad o personas pertenecientes a las poblaciones callejeras, se aumentará la sanción hasta en una mitad, sin exceder el máximo constitucional y legal establecido para el caso de la multa.
 
 > <small>(REFORMADO, G.O. 23 DE MARZO DE 2017)</small>
 
@@ -1887,3 +1895,11 @@ SEXTO. En un término de seis meses, contados a partir de la entrada en vigor de
 SÉPTIMO. El Tribunal Superior de Justicia de la Ciudad de México, por conducto de su Centro de Justicia Alternativa, continuará con los programas de formación de mediadores comunitarios así como en el diseño y consolidación de los programas delegacionales de mediación comunitaria en coordinación con la Dirección Ejecutiva de Justicia Cívica de la Consejería Jurídica y de Servicios Legales.
 
 OCTAVO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 24 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL, DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL DISTRITO FEDERAL, DE LA LEY DE SALUD DEL DISTRITO FEDERAL Y DE LA LEY DE LOS DERECHOS DE LOS NIÑOS, NIÑAS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
