@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2017-03-20"
+last_updated: "2017-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE AGUASCALIENTES, AGUASCALIENTES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ABRIL DE 2017 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE ABRIL DE 2017.]</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1471,14 +1471,6 @@ Dirección Jurídica.
 
 Departamento Jurídico de Recursos Humanos y Recursos Materiales.
 
-Dirección de Tecnologías de la Información y Comunicación.
-
-Departamento de Servicios e Infraestructura.
-
-Departamento de Soporte Técnico.
-
-Departamento de Desarrollo.
-
 Dirección de Recursos Humanos.
 
 Departamento de Remuneración al Personal.
@@ -1497,10 +1489,6 @@ Departamento de Taller Gráfico.
 
 Departamento de Compras.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2017)</small>
-
-Coordinación General de Gobierno Digital
-
 Dirección de Servicios Generales.
 
 Departamento de Mantenimiento.
@@ -1508,6 +1496,26 @@ Departamento de Mantenimiento.
 Departamento de Intendencia.
 
 Departamento de Mantenimiento y Reparación de Vehículos.
+
+(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2017) (F. DE E. P.O. 24 DE ABRIL DE 2017)
+
+Coordinación General de Gobierno Digital
+
+> <small>(F. DE E. P.O. 24 DE ABRIL DE 2017)</small>
+
+Dirección de Tecnologías de la Información y Comunicación.
+
+> <small>(F. DE E. P.O. 24 DE ABRIL DE 2017)</small>
+
+Departamento de Servicios e Infraestructura.
+
+> <small>(F. DE E. P.O. 24 DE ABRIL DE 2017)</small>
+
+Departamento de Soporte Técnico.
+
+> <small>(F. DE E. P.O. 24 DE ABRIL DE 2017)</small>
+
+Departamento de Desarrollo.
 
 Dirección de Desarrollo Organizacional y Eficiencia Presupuestal.
 
@@ -5825,7 +5833,7 @@ ARTICULO 342 SEPTIES.- Sanciones por infracción a lo dispuesto por el artículo
 
 5. Arresto hasta por 36 horas al responsable de la emisión de ruido.
 
-(REUBICADO [N. DE E. ANTES APARTADO SÉPTIMO ], P.O. 9 DE ENERO DE 2017)
+(REUBICADO [N. DE E. ANTES APARTADO SÉPTIMO], P.O. 9 DE ENERO DE 2017)
 
 APARTADO OCTAVO
 
@@ -5913,7 +5921,7 @@ VIII. Menospreciar o dar trato diferenciado entre mujeres y hombres, que pueda i
 
 Las personas que incurran en las faltas administrativas contempladas en este capítulo serán sancionadas en los términos precisados en este código.
 
-(REUBICADO [N. DE E. ANTES APARTADO NOVENO ], P.O. 9 DE ENERO DE 2017)
+(REUBICADO [N. DE E. ANTES APARTADO NOVENO], P.O. 9 DE ENERO DE 2017)
 
 APARTADO DÉCIMO
 
