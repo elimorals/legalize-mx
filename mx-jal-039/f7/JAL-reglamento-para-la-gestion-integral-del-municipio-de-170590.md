@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-la-gestion-integral-del-municipio-de-170590"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-15"
-last_updated: "2016-07-15"
+last_updated: "2017-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA DEL ESTADO DE GUADALAJARA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 24 DE ABRIL DE 2017.
 
 Reglamento publicado en el Suplemento de la Gaceta Municipal del Estado de Guadalajara, el viernes 15 de julio de 2016.
 
@@ -59,11 +59,15 @@ IV. Fijar las restricciones al Uso del Suelo y a la construcción de edificacion
 
 V. Establecer los mecanismos para comprobar el cumplimiento de las disposiciones en materia de Ordenamiento Territorial, Desarrollo Urbano, Equipamiento, Construcciones e Infraestructura Vial que se lleven a cabo dentro del territorio municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 2.
 
 Para los efectos de este reglamento, se entiende por:
 
-I. Acción Urbanística Mayor: La urbanización del suelo; redensificación; fraccionamientos de áreas y predios para el asentamiento humano; el desarrollo de conjuntos urbanos o habitacionales; edificación nueva; ampliación; la rehabilitación de zonas urbanas públicas y privadas, así como la introducción, conservación o mejoramiento de las redes de infraestructura y cualquier obra de edificación;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+I. Acción Urbanística Mayor: La urbanización del suelo; fraccionamientos de áreas y predios para el asentamiento humano; el desarrollo de conjuntos urbanos o habitacionales; la rehabilitación de zonas urbanas, así como la introducción, conservación o mejoramiento de las redes de infraestructura y la edificación del equipamiento urbano;
 
 II. Acción Urbanística Menor: Los cambios de uso, las fusiones y subdivisiones de áreas y predios para el asentamiento humano; régimen de condominio; relotificación; adaptación; y rehabilitación de fincas;
 
@@ -71,11 +75,15 @@ III. Alineamiento: Es la traza sobre el terreno que señala el límite de una pr
 
 IV. Altura Máxima: La altura máxima permitida para una edificación, expresada en alguna de las siguientes formas: En metros lineales a partir del nivel de la vía pública o en niveles de construcción, sin incluir sótanos;
 
-V. Ampliación: La Acción Urbanística Mayor de aumentar la superficie edificada en una construcción;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+V. Ampliación: La acción de aumentar la superficie edificada en una construcción;
 
 VI. Aprovechamiento de la Infraestructura Básica Existente: La contribución que los promotores o urbanizadores deben pagar a la Hacienda Municipal, por concepto de las obras de infraestructura necesarias para la utilización de sus predios, que se hayan realizado sin su participación y les generen un beneficio directo;
 
-VII. Áreas de Cesión para Destino: Las que determina el Código Urbano para el Estado de Jalisco, el Programa y los Planes de Desarrollo Urbano para proveer los fines públicos que requiera la comunidad y establezca la autoridad;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+VII. Áreas de Cesión para Destino: Las que determina el Código Urbano para el Estado de Jalisco, el Programa y los Planes de Desarrollo Urbano y los Proyectos Definitivos de Urbanización, para proveer los fines públicos que requiera la comunidad y establezca la autoridad;
 
 VIII. Áreas y Predios de Conservación Ecológica: Las tierras, aguas y bosques que por sus características de valor científico, ambiental o paisajístico deben ser conservadas, de conformidad con la legislación aplicable;
 
@@ -91,9 +99,21 @@ c) Franja de mobiliario o vegetación.
 
 XI. Centro de Población: Las áreas constituidas por las zonas urbanizadas, las que se reserven a su expansión y las que se consideren no urbanizables por causas de prevención ecológica, prevención de riesgos y mantenimiento de actividades productivas dentro de los límites de dicho centro;
 
-XII. Coeficiente de Ocupación del Suelo: El factor que, multiplicado por el área total de un Predio, determina la máxima superficie de desplante edificable;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
-XIII. Coeficiente de Utilización del Suelo: El factor que, multiplicado por el área total de un Predio, determina la máxima superficie construible; excluye de su cuantificación las áreas ocupadas por sótanos;
+XII. Coeficiente de Ocupación del Suelo: El factor que, multiplicado por el área total de un Predio, determina la superficie de desplante edificable;
+
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+XII Bis. Coeficiente de Ocupación del Suelo Incrementado: Es el incremento al factor que, multiplicado por el área total de un Predio, determina la máxima superficie de desplante edificable;
+
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+XIII. Coeficiente de Utilización del Suelo: El factor que, multiplicado por el área total de un Predio, determina la superficie edificable; excluye de su cuantificación las áreas ocupadas por sótanos;
+
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+XIII Bis. Coeficiente de Utilización del Suelo Incrementado: Es el incremento al factor que, multiplicado por el área total de un Predio, determina la máxima superficie de edificable; excluye de su cuantificación las áreas ocupadas por sótanos;
 
 XIV. Colonia: Conjunto habitacional relacionado con instrumentos de planeación y administrativos, que se toma como unidad física y social de organización;
 
@@ -101,7 +121,9 @@ XV. Corredor Metropolitano de Infraestructura Ciclista: Es un eje vial que forma
 
 XVI. Corredor de Desarrollo Orientado al Transporte Público Masivo: Superficie que se determina en los instrumentos de planeación urbana municipales, en corredores urbanos vinculados al transporte público masivo, en donde se podrá aplicar, ya sea por el sector público o privado, una estrategia de desarrollo urbano sustentable, pudiendo implicar de manera optativa, la modificación de usos y destinos de predios, con usos de suelo mixtos y de alta densidad. Se identificarán con la clave DOT;
 
-XVII. Derechos Adquiridos: El reconocimiento y validación por parte de la autoridad, de los derechos tanto del Giro o Uso, así como de las Normas de Control a la Urbanización y Edificación que, por el aprovechamiento legítimo y continuo, tienen los propietarios o arrendatarios de un Predio y edificación, en su totalidad o en unidades identificables de este, con anterioridad a la entrada en vigor de los planes que los prohibieron;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+XVII. Derechos Adquiridos: El reconocimiento y validación por parte de la autoridad, de los derechos del giro, así como de las normas de control a la urbanización y edificación que, por el aprovechamiento legítimo y continuo, tienen los propietarios o arrendatarios de un Predio y edificación, en su totalidad o en unidades identificables de este, con anterioridad a la entrada en vigor de los planes que los prohibieron;
 
 XVIII. Derechos de Desarrollo Urbano: La capacidad o potencial de un Predio dentro del Municipio de Guadalajara, para el aprovechamiento y ejecución de acciones urbanísticas de carácter privado o público;
 
@@ -127,11 +149,15 @@ XXVIII. Giro: La actividad económica o prestación de servicio que se desarroll
 
 XXIX. Impacto al Contexto: La afectación que la instalación u operación de un Giro o construcción genera o podría generar sobre una zona, y que resultaría perjudicial al medio ambiente y/o a la habitabilidad de dicha zona;
 
-XXX. Índice de Edificación: Factor que determina la cantidad máxima de unidades privativas de vivienda que pueden ser edificadas en un mismo predio, en relación a su superficie;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+XXX. Índice de Edificación: Factor que determina la cantidad máxima de unidades privativas o de viviendas que pueden ser edificadas en un mismo Predio, en relación a su superficie;
 
 XXXI. Infraestructura Básica: Redes generales que permiten suministrar en las distintas unidades territoriales y áreas que integran el Centro de Población, los servicios públicos de vialidad municipal, agua potable, drenaje sanitario y pluvial, energéticos y telecomunicaciones;
 
-XXXII. Instrumentos de Planeación Urbana: Los descritos en el artículo 78 del Código Urbano para el Estado de Jalisco, y los que el Ayuntamiento apruebe, así como los que deriven del artículo 28 de la Ley de Coordinación Metropolitana del Estado de Jalisco, a fin de controlar o promover el desarrollo urbano;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+XXXII. Instrumentos de Planeación Urbana: Los descritos en el artículo 78 del Código Urbano para el Estado de Jalisco, así como los que deriven del artículo 28 de la Ley de Coordinación Metropolitana del Estado de Jalisco, a fin de controlar o promover el desarrollo urbano;
 
 XXXIII. Ordenamiento Territorial de los Asentamientos Humanos: Es el proceso de distribución equilibrada y sustentable de la población y de las actividades económicas en el territorio;
 
@@ -143,7 +169,9 @@ XXXVI. Plan de Ordenamiento Territorial Metropolitano del Área Metropolitana de
 
 XXXVII. Plan Rector: Documento dictaminado, aprobado, decretado y publicado por el Ayuntamiento y las dependencias municipales correspondientes, que autoriza el régimen regulativo del Polígono de Intervención Urbana Especial, PIUE;
 
-XXXVIII. Polígono de Intervención Urbana Especial: Son los ilnstrumentos (sic) de desarrollo urbano municipal, cuyo propósito es focalizar acciones de las políticas municipales en espacios estratégicos. También son conocidos como Nuevos Entornos Urbanos Sustentables, NEUS del Plan de Ordenamiento Territorial Metropolitano del Área Metropolitana de Guadalajara, POTmet o como Zona de Intervención Urbana Especial;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+XXXVIII. PIUE: Polígono de Intervención Urbana Especial, PIUE. Son los instrumentos de desarrollo urbano municipal, cuyo propósito es focalizar acciones de las políticas municipales en espacios estratégicos. También son conocidos como Nuevos Entornos Urbanos Sustentables, NEUS del Plan de Ordenamiento Territorial Metropolitano del Área Metropolitana de Guadalajara, POTmet o como Zona de Intervención Urbana Especial;
 
 XXXIX. Punto Limpio: Instalación uitilizada (sic) para el depósito y almacenamiento diferenciado de residuos sólidos susceptibles a reciclaje o valorización de acuerdo a sus características físicas;
 
@@ -167,11 +195,15 @@ XLVIII. Sistema de Transferencia de Derechos de Desarrollo Urbano: Conjunto de n
 
 XLIX. Subdistrito Urbano: Es la subdivisión territorial del Distrito Urbano, para los efectos de facilitar la administración y planeación del municipio;
 
-L. Subdivisión: La Acción Urbanística de partición de un Predio en dos o más fracciones, para su utilización independiente;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+L. Subdivisión: La Acción Urbanística de partición de un Predio en dos o más fracciones, para su utilización independiente, en los términos señalados en el Código Urbano para el Estado de Jalisco;
 
 LI. Superficie Máxima de Giro: La superficie máxima en metros cuadrados, que se permite a un giro para su operación, determinada en función al nivel de impacto;
 
-LII. Transferencia de Derechos de Desarrollo Urbano: Es el mecanismo por el cual los predios que contienen elementos del patrimonio edificado de valor histórico, artístico, fisonómico y cultural, así como el patrimonio de alto valor ambiental natural del Municipio de Guadalajara, generan un derecho al desarrollo urbano, restringido por su naturaleza de conservación y continua restauración en favor del interés social, que puede ser recibido por un predio clasificado como receptor en determinada zona, con el objeto de adquirir una mayor superficie edificable, en los términos establecidos en la Ley del Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios y de este reglamento;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+LII. Transferencia de Derechos de Desarrollo Urbano: Es el mecanismo por el cual los predios que contienen elementos del patrimonio edificado de valor histórico, artístico, fisonómico y cultural, así como el patrimonio de alto valor ambiental natural del Municipio de Guadalajara, generan un derecho al desarrollo urbano, restringido por su naturaleza de conservación y continua restauración en favor del interés social, que puede ser recibido por un Predio clasificado como receptor en determinada zona, con el objeto de adquirir una mayor superficie edificable, en los términos establecidos en la Ley del Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios y de este reglamento, sujetándose a las disposiciones de los planes y programas municipales;
 
 LIII. Uso del Suelo: Es el fin particular a que podrá dedicarse determinada zona, área o Predio, de conformidad con lo establecido por los Instrumentos de Planeación Urbana respectivos;
 
@@ -183,15 +215,21 @@ LVI. Zona de Accesibilidad Preferencial: Área delimitada al interior de centros
 
 LVII. Zona de Pacificación del Tránsito: Zona que tiene por objeto la construcción de comunidad y proximidad social, al interior de colonias barrios o pueblos a través del rediseño de espacio público, para reducir el volumen y control de velocidad de tránsito automotor. Las cuales se denominarán de acuerdo a la velocidad de diseño definida tales como zona 30;
 
-LVIII. Zonificación Primaria: Es la determinación de los aprovechamientos genéricos, o utilización general del suelo, en las distintas zonas del área objeto de ordenamiento y regulación, prevista en el presente reglamento; y
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+LVIII. Zonificación Primaria: Es la determinación de los aprovechamientos genéricos, o utilización general del suelo, en las distintas zonas del área objeto de ordenamiento y regulación, prevista en el presente reglamento, de conformidad a los planes de desarrollo urbano; y
 
 LIX. Zonificación Secundaria: Derivada de la Zonificación Primaria, es la determinación o utilización particular del suelo y sus aprovechamientos de áreas y predios comprendidos en el plan parcial; complementándose con sus respectivas matrices de utilización del suelo y Normas de Control de la Urbanización y Edificación presentes en este reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 3.
 
-Para simplificar la lectura de este reglamento, se entenderá lo siguiente:
+Para simplificar la lectura de este Reglamento, se entenderá lo siguiente:
 
-I. Ayuntamiento: El Ayuntamiento del Municipio de Guadalajara;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+I. Ayuntamiento: El Ayuntamiento de Guadalajara;
 
 II. Código: Código Urbano para el Estado de Jalisco;
 
@@ -225,9 +263,19 @@ XVI. Planes Parciales: Planes Parciales de Desarrollo Urbano;
 
 XVII. POTmet: Plan de Ordenamiento Territorial Metropolitano del Área Metropolitana de Guadalajara;
 
-XVIII. Programa: El Programa Municipal de Desarrollo Urbano y Plan de Desarrollo Urbano de Centro de Población; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 24 DE ABRIL DE 2017)</small>
 
-XIX. Reglamento: Reglamento de Gestión Integral del Municipio de Guadalajara.
+XVIII. Plan: Plan de Desarrollo Urbano de Centro de Población;
+
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+XIX. Programa: El Programa Municipal de Desarrollo Urbano; y
+
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+XX. Reglamento: Reglamento para la Gestión Integral del Municipio de Guadalajara.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 4.
 
@@ -247,7 +295,9 @@ VI. La Dirección de Obras Públicas;
 
 VII. La Dirección de Movilidad y Transporte;
 
-VIII. La Dirección de Espacio Público;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+VIII. La Dirección de Proyectos del Espacio Público;
 
 IX. La Dirección de Medio Ambiente;
 
@@ -265,13 +315,23 @@ XIV. Las demás que señalen las disposiciones jurídicas aplicables.
 
 Están obligadas a respetar y cumplir las disposiciones de este ordenamiento, las personas físicas o jurídicas, las dependencias de la administración pública federal, estatal y municipal, los organismos descentralizados y entidades paraestatales propietarias de predios o fincas, o poseedores a título de dueño quienes se desempeñen como promotores y sus respectivos directores responsables, que realicen acciones urbanísticas, sean públicas o privadas, con independencia del régimen de propiedad.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 6.
 
-Las acciones urbanísticas normadas por el presente Reglamento, solo podrán realizarse previa autorización otorgada por la dependencia competente, una vez que se hayan cumplido los requisitos establecidos en este Reglamento, el Código, Programas y Planes de Desarrollo Urbano del Municipio, las normas técnicas y los demás ordenamientos aplicables de acuerdo a la naturaleza, alcance e impacto de las obras a ejecutar. Por lo que toda acción autorizada que contravenga el presente ordenamiento, serán nulas de pleno derecho, sin menoscabo de las responsabilidades administrativas, civiles, penales o de cualquier otra índole a que haya lugar.
+Las acciones urbanísticas normadas por el presente Reglamento, solo podrán realizarse previa autorización otorgada por la dependencia competente, una vez que se hayan cumplido los requisitos establecidos en este Reglamento, el Código, Programas y Planes de Desarrollo Urbano del Municipio, las normas técnicas y los demás ordenamientos aplicables de acuerdo a la naturaleza, alcance e impacto de las obras a ejecutar. Por lo que toda acción autorizada que contravenga el presente ordenamiento, el Código y demás instrumentos de planeación urbana y normatividad aplicable, será nula de pleno derecho, sin menoscabo de las responsabilidades administrativas, civiles, penales o de cualquier otra índole a que haya lugar.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 7.
 
-En caso de contradicción entre las normas señaladas en este Reglamento y cualquier otra reglamentación de nivel municipal, relativo a los temas materia del presente Reglamento, así como con lo señalado en los Instrumentos de Planeación de Desarrollo Urbano elaborados por el Municipio, prevalecerá lo contenido en el presente Reglamento, con excepción de aquello donde se exprese lo contrario, prevalece lo que dice el Código.
+En caso de contradicción entre las normas señaladas en este Reglamento y cualquier otra reglamentación de nivel municipal, relativo a los temas materia del presente Reglamento, así como con lo señalado en los Instrumentos de Planeación Urbana elaborados por el Municipio, prevalecerá lo contenido en el presente Reglamento. En caso de contradicción del presente Reglamento con el Código, prevalece lo que dice el Código.
+
+En caso de no contar con norma específica en alguno de los temas de esta reglamentación, se aplicará lo que al respecto especifica el Reglamento Estatal de Zonificación.
+
+> <small>(ADICIONADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+Artículo 7 bis. En caso de que un instrumento de jerarquía mayor cuente ya con los estudios con la especificidad necesaria al ámbito de aplicación que se requiere, bastará la remisión a dicho documento y estudio específico.
 
 ### CAPÍTULO II. Del Sistema Municipal de Planeación Urbana
 
@@ -279,39 +339,53 @@ En caso de contradicción entre las normas señaladas en este Reglamento y cualq
 
 Los programas y planes que integran el Sistema Municipal de Planeación Urbana estarán a cargo del Ayuntamiento y serán congruentes entre sí con lo que señala el artículo 78 del Código.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 9.
 
 El Sistema Municipal de Planeación Urbana estará compuesto por:
 
-I. El Programa Municipal de Desarrollo Urbano y el Plan de Desarrollo Urbano de (sic) Centro de Población, ambos integrados en un solo instrumento, donde estarán el conjunto de políticas, lineamientos, estrategias, reglas técnicas y disposiciones encaminadas a regular y planear el desarrollo urbano en el territorio del Municipio. Establecerá la clasificación de áreas y la Zonificación Primaria, estando sujeto a lo establecido en el Código, así como en lo referente a la Ley de Coordinación Metropolitana del Estado de Jalisco; y
+I. El Programa Municipal de Desarrollo Urbano;
 
-II. Los Planes Parciales de Desarrollo Urbano integran el conjunto de normas específicas a efecto de precisar la Zonificación Secundaria y regular los usos, destinos y reservas en los predios localizados en su área de aplicación, estando sujetos a lo establecido en el Código.
+II. El Plan de Desarrollo Urbano de Centro de Población; y
+
+III. Los Planes Parciales de Desarrollo Urbano.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 10.
 
-De conformidad con lo señalado por el Código, el Programa Municipal de Desarrollo Urbano integrará los objetivos y elementos del Plan de Desarrollo Urbano de Centro de Población.
+De conformidad con lo señalado en el artículo 95 del Código, el Programa Municipal de Desarrollo Urbano podrá integrar los objetivos y elementos del Plan de Desarrollo Urbano de Centro de Población.
 
 ###### Artículo 11.
 
 Los proyectos definitivos de urbanización, son formulados y ejecutados por el Municipio o cualquier particular, atendiendo al origen de los recursos con que se pretendan financiar. Los proyectos definitivos deberán ser realizados de conformidad con el Código y aprobados de acuerdo a sus artículos 251 y 256.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 12.
 
-El proceso de elaboración, aprobación y actualización del Programa y Planes Parciales, se realizará de acuerdo a lo establecido en el Código.
+El proceso de elaboración, aprobación y actualización del Programa, Plan y Planes Parciales, se realizará de acuerdo a lo establecido en el Código.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 13.
 
-La estrategia de desarrollo urbano y Zonificación Primaria definida en el Programa de Desarrollo Metropolitano y el Plan de Ordenamiento Territorial Metropolitano del Área Metropolitana de Guadalajara, son la referencia obligada para la elaboración y actualización de los Instrumentos de Planeación Urbana del Ayuntamiento.
+La estrategia de desarrollo urbano y Zonificación Primaria definida en el Programa de Desarrollo Metropolitano y el POTmet, son la referencia obligada para la elaboración y actualización de los Instrumentos de Planeación Urbana del Municipio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 14.
 
-La Dirección, conformará el Sistema de Información del Desarrollo Urbano, el cual estará compuesta (sic) de las siguientes bases de datos, de manera enunciativa, más no limitativa:
+La Dirección coadyuvará con la Dirección de Innovación Gubernamental, para conformar el Sistema de Información del Desarrollo Urbano, el cual estará compuesta (sic) de las siguientes bases de datos, de manera enunciativa, más no limitativa:
 
 I. Cartografía de la Dirección de Catastro, en su última actualización, en formato digital;
 
 II. Zonificación Primaria y Secundaria de los Planes Parciales más recientes, en formato digital e impreso;
 
-III. Padrón y mapa de localización digital e impreso de Predio de propiedad pública para la determinación de equipamiento y espacios verdes, instalaciones de infraestructura urbana, especiales y de riesgo;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+III. Mapa de predios de propiedad pública, equipamientos, espacios verdes e instalaciones de infraestructura;
 
 IV. Mapas de Polígonos de Intervención Urbana Especial;
 
@@ -351,19 +425,31 @@ IV. Perímetros de protección al patrimonio; y
 
 V. Las demás unidades espaciales (sic) que señale el Programa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 16.
 
-Se determina en el Programa y los Planes Parciales, la siguiente clasificación de áreas:
+Se determina en el Programa Municipal de Desarrollo Urbano, Plan de Desarrollo Urbano de Centro de Población y los Planes Parciales de Desarrollo Urbano, la siguiente clasificación de áreas:
 
-I. Áreas de Renovación Urbana: Aquellas sujetas al mejoramiento o transformación, mediante la ejecución de obras materiales para el saneamiento o reposición de sus elementos de dominio público, aún con infraestructura, equipamiento y servicios, pudiendo implicar o no, un cambio en las relaciones de propiedad, tenencia del suelo, densidades de edificación, así como usos y destinos de los predios o fincas. Se identifican con la clave RN y el número consecutivo;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+I. Áreas Urbanizadas: Aquellas sujetas al mejoramiento o transformación, mediante la ejecución de obras materiales para el saneamiento o reposición de sus elementos de dominio público, aún con infraestructura, equipamiento y servicios, pudiendo implicar o no, un cambio en las relaciones de propiedad, tenencia del suelo, densidades de edificación, así como usos y destinos de los predios o fincas. Se identifican con la clave AU y el número consecutivo. Las áreas urbanizadas se subdividen en:
+
+a) Áreas Incorporadas: Son las áreas urbanizadas pertenecientes al centro de población que han sido debidamente incorporadas al Municipio, es decir, que las autoridades municipales ya recibieron las obras de urbanización, o las mismas forman parte del sistema municipal, y han aportado las áreas de cesión en caso de haber pertenecido a la reserva urbana. Se identifican con la clave AU y el número consecutivo;
+
+b) Áreas de Urbanización Progresiva: Son las áreas urbanizadas mediante la modalidad de la Acción Urbanística por objetivo social o aquellas de urbanización espontánea que el Ayuntamiento autorice regularizar de acuerdo a los procedimientos legales en la materia. Se identifican con la clave UP y el número consecutivo; y
+
+c) Áreas de Renovación Urbana: Aquellas sujetas al mejoramiento o transformación, mediante la ejecución de obras materiales para el saneamiento o reposición de sus elementos de dominio público, aún con infraestructura, equipamiento y servicios, pudiendo implicar o no, un cambio en las relaciones de propiedad, tenencia del suelo, densidades de edificación, así como usos y destinos de los predios o fincas. Se identifican con la clave RN y el número consecutivo.
 
 II. Áreas de Reserva Urbana: Los predios y terrenos sin distinción del régimen de propiedad, predominantemente no edificados, con o sin infraestructura básica, donde la urbanización y la edificación es viable. Se incluyen predios intraurbanos o baldíos. En estas áreas se promoverá preferentemente el equipamiento, los espacios verdes o la infraestructura que requiera el contexto. Se identifican con la clave RU y el número consecutivo; y
 
 III. Áreas No Urbanizables: Aquellas que, por motivos ambientales o de riesgo, no serán sujetas a urbanización, incluyendo las áreas de protección ambiental, o que estén consideradas para tal fin, según la legislación federal, estatal y municipal de protección ambiental. Se identifican con la clave NU y el número consecutivo.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 17.
 
-Las Áreas se dividen en Zonificación Primaria, que es donde se determinan los aprovechamientos generales y la utilización general del suelo, y se identificarán con su clave y número consecutivo. La Zonificación Primaria se divide en la Zonificación Secundaria.
+Las Áreas se dividen en Zonificación Primaria, que es donde se determinan los aprovechamientos generales y la utilización general del suelo, y se identificarán con su clave y número consecutivo. La Zonificación Primaria se divide en la Zonificación Secundaria; ambas deberán estar especificadas en el Plan Parcial de Desarrollo Urbano.
 
 ###### Artículo 18.
 
@@ -381,13 +467,17 @@ V. Espacio Abierto (EA): Comprende aquellos espacios de acceso no restringido y 
 
 VI. Restricción por Infraestructura (RI): Sujetas a restricciones legales de carácter federal, estatal o municipal, por razones de seguridad y funcionamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 19.
 
 Las Áreas No Urbanizables, se dividen en la siguiente Zonificación Primaria:
 
 I. Protección Ambiental (P): Las relativas a las tierras, aguas y bosques que, por sus características naturales o paisajísticas, deben preservarse para mantener el equilibrio ambiental; así como las sujetas a declaratoria de protección ambiental, según la legislación federal, estatal y municipal; y
 
-II. Aprovechamiento de Recursos Naturales (ARU): Las que no son destinadas a ser soporte de procesos de urbanización y desarrollo urbano, sino a aprovechamiento, concordantes con su carácter de medio rural.
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+II. Aprovechamiento de Recursos Naturales (ARN): Las que no son destinadas a ser soporte de procesos de urbanización y desarrollo urbano, sino a aprovechamiento, concordantes con su carácter de medio rural.
 
 ###### Artículo 20.
 
@@ -415,7 +505,9 @@ III. Habitacional Densidad Media (H3);
 
 IV. Habitacional Densidad Alta (H4);
 
-V. Habitacional Densidad Alta (H5);
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+V. Habitacional Densidad Máxima (H5) localizados en los Planes y Programas de Desarrollo Urbano, en los PIUEs y en NEUS en corredores urbanos con acceso directo a las líneas de transporte público masivo de personas que cuenten con dos líneas de transporte público masivo, en las líneas del Tren Ligero, así como la del Macrobús;
 
 VI. Comercio y Servicios Impacto Mínimo (CS1);
 
@@ -463,7 +555,13 @@ XXVII. Protección de Recursos Hídricos (PRH); y
 
 XXVII. Aprovechamiento de Recursos Naturales (ARU).
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 24 DE ABRIL DE 2017)</small>
+
+XXVIII. Aprovechamiento de Recursos Naturales (ARN).
+
 > <small>[N. DE E. VÉASE TABLA EN LA G.M. DE 15 DE JULIO DE 2016, PÁGINAS DE LA 14 A LA 16.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.M. DE 24 DE ABRIL DE 2017, PÁGINAS DE LA 7 A LA 8.]</small>
 
 ###### Artículo 22.
 
@@ -499,9 +597,11 @@ III. Transporte en vialidades.
 
 Los usos permitidos en las Zonas de Restricción por Infraestructura de Transportes, serán aquellos relacionados al suministro de combustible para vehículos, estacionamientos y pensiones para vehículos automotores; y comercios y servicios de impacto mínimo y medio, permitiéndose oficinas en edificio exclusivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 26.
 
-Las zonas deberán definirse en función de la similitud de usos del suelo, tipo de edificación u otro que determine los Instrumentos de Planeación del Territorio, conforme a los siguientes criterios de trazado:
+Las zonas deberán definirse en función de la similitud de usos del suelo, tipo de edificación u otro que determine los Instrumentos de Planeación Urbana, conforme a los siguientes criterios de trazado:
 
 I. Los límites de la clasificación funcional del territorio municipal;
 
@@ -515,19 +615,23 @@ V. Los linderos de la zona federal en los ríos, arroyos, canales y otros cuerpo
 
 VI. Curvas de nivel.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 27.
 
 Cuando en los planos de zonificación, los límites de zonas dividan un Predio, el propietario puede optar entre lo siguiente:
 
 I. Respetar la delimitación de la Zonificación Secundaria que el Plan Parcial establece;
 
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
 II. Asimilar la totalidad del Predio a una sola Zonificación Secundaria presente, en alguna de las siguientes modalidades:
 
-a) Asimilar la totalidad de la superficie del Predio con la zonificación de menor impacto al contexto;
+a) Asimilar la totalidad de la superficie del Predio con la zonificación de menor impacto de la zona urbana contigua o inmediata;
 
-b) Asimilar la totalidad de la superficie del Predio con la zonificación de mayor impacto al contexto, solo cuando la fracción con menor impacto carezca de frente a una vialidad; y
+b) Asimilar la totalidad de la superficie del Predio con la zonificación de mayor impacto de la zona urbana contigua o inmediata; y
 
-c) Los predios que tienen colindancia con dos o más vialidades con Zonificación Secundaria distinta, podrán asimilar la totalidad de su superficie a la Zonificación Secundaria con el uso del suelo de mayor impacto al contexto, siempre y cuando se condicione a que las actividades económicas, de carga y descarga y de estacionamiento, se realicen únicamente sobre la vialidad donde se encuentra la Zonificación Secundaria con el uso de mayor impacto al contexto que originó dicha asimilación.
+c) Los predios que tienen colindancia con dos o más vialidades con Zonificación Secundaria distinta, podrán asimilar la totalidad de su superficie a la Zonificación Secundaria con el uso del suelo de mayor impacto de la zona urbana contigua o inmediata, siempre y cuando se condicione a que las actividades económicas, de carga y descarga y de estacionamiento, se realicen únicamente sobre la vialidad donde se encuentra la Zonificación Secundaria con el uso de mayor impacto al contexto que originó dicha asimilación.
 
 ###### Artículo 28.
 
@@ -535,15 +639,19 @@ Cuando se fusionen dos o más predios, y estos tengan una zonificación diferent
 
 ### CAPÍTULO II. Del Control de Usos y Destinos para las Zonas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 29.
 
-Los Usos y Destinos establecidos en las Zonas de Comercio y Servicios, Industrial, y Equipamiento, se clasifican de la siguiente manera:
+Los Impactos al Contexto causados por los distintos Usos y Destinos a las diferentes zonas, se clasifican con base al grado de afectación a estas, de la siguiente manera:
 
 I. Impacto Mínimo: Se consideran aquellos giros que:
 
 a) Se desarrollen en la vivienda, permitiéndose solo un Giro por vivienda;
 
-b) Ocupen superficies de hasta 30 metros cuadrados de construcción, ya sea en local o dentro de la vivienda, esté en planta baja y con acceso directo a vía pública;
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+b) Ocupen superficies hasta 30 metros cuadrados de operación de Giro, ya sea en local o dentro de la vivienda, esté en planta baja y con acceso directo a vía pública. Los Giros de Equipamientos pueden ocupar la totalidad del Predio;
 
 c) Se desarrollen en predios que no exceden el tipo de la Zonificación Secundaria;
 
@@ -557,9 +665,13 @@ II. Impacto Bajo: Se consideran aquellos giros que:
 
 a) Se desarrollen en el mismo edificio que la vivienda, permitiéndose solo un giro por vivienda;
 
-b) Ocupen superficies entre 31 a 100 metros cuadrados de construcción en el mismo edificio que la vivienda, en local independiente en planta baja, con acceso directo a la vía pública;
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+b) Ocupen superficies hasta 250 metros cuadrados de operación de Giro en el mismo edificio que la vivienda, en local independiente en planta baja o hasta en un segundo nivel, con acceso directo a la vía pública. Los Giros de Equipamientos pueden ocupar la totalidad del Predio;
 
 c) Se desarrollen en predios de las mismas dimensiones que la vivienda según la Zonificación Secundaria;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
 d) Emiten olores, ruido, vibración, producen energía térmica o lumínica pero no requieren equipos o sistemas de control para no rebasar los límites máximos establecidos en las Normas Oficiales Mexicanas, NOM, aplicables o para no ser percibidos en los predios colindantes o cercanos;
 
@@ -571,11 +683,15 @@ g) No realizan actividades que representen molestias, incomodidades o riesgos a 
 
 III. Impacto Medio: Se consideran como tal, aquellos giros que:
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 a) Se desarrollen en los siguientes casos:
 
-Caso 1: En edificios de vivienda plurifamiliar vertical, en locales en planta baja que sean independientes a la vivienda y con acceso a la vía pública, cuya superficie de ocupación, individual o del conjunto de locales agrupados, se encuentre entre 101 a 300 metros cuadrados; y
+Caso 1: En edificios de vivienda plurifamiliar vertical, en locales en planta baja o hasta en una (sic) segundo nivel, que sean independientes a la vivienda y con acceso a la vía pública, cuya superficie de ocupación, individual o del conjunto de locales agrupados, sea hasta 500 metros cuadrados; y
 
-Caso 2: En edificaciones exclusivas al Giro, siendo 1000 metros cuadrados el tamaño máximo del Giro y se apega a los coeficientes de control de la edificación de la Zonificación Secundaria.
+Caso 2: En edificaciones exclusivas al Giro, siendo 1500 metros cuadrados el tamaño máximo del Giro.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
 b) Emiten sustancias o materiales, al aire, agua o suelo y requieren equipos, instalaciones o sistemas de control para no rebasar los límites máximos permisibles establecidos en las Normas Oficiales Mexicanas, NOM, aplicables o para no ser percibidos en los predios colindantes o cercanos;
 
@@ -589,7 +705,11 @@ IV. Impacto Alto: Se consideran como tal, aquellos giros que:
 
 a) No son asimilables a la vivienda;
 
-b) Se necesitan desarrollar en predios mayores a 1,000 metros cuadrados y su densidad de la edificación no excede el COS, CUS ni los niveles de edificación máxima de la Zonificación Secundaria;
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+b) La operación del Giro no está limitada a una superficie máxima;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
 c) Emiten sustancias o materiales, al aire, agua o suelo y requieren equipos, instalaciones o sistemas de control para no rebasar los límites máximos permisibles establecidos en las Normas Oficiales Mexicana (sic), NOM, aplicables o para no ser percibidos en los predios colindantes o cercanos;
 
@@ -599,17 +719,27 @@ e) Generan residuos sólidos, que incluyen, además del tipo municipal, desechos
 
 f) Los equipos de transporte que utilizan son de 3 a 30 toneladas de capacidad de carga y deben contar con un área interna para realizar actividades de carga y descarga.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
+
 V. Impacto Máximo: Se consideran como tal, aquellos giros que establece la Ley General del Equilibrio Ecológico y Protección al Ambiente, sus Reglamentos, Normas Oficiales Mexicanas, NOM, o las disposiciones reglamentarias aplicables, a aquellos establecimientos, inmuebles o instalaciones que, por sus actividades o procesos, presentan una o más de las siguientes circunstancias:
 
-a) Emiten al aire, agua o suelo sustancias, materiales o residuos que se consideran contaminantes, riesgosos o peligrosos, de acuerdo a las disposiciones de la normatividad, reglamentos u ordenamientos legales ambientales y aún contando con equipos rebasan los límites máximos permitidos por las Normas Oficiales Mexicanas, NOM;
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
-b) Manejan, generan y emiten materiales tóxicos, inflamables y explosivos de acuerdo a las regulaciones, Normas Oficiales Mexicanas, NOM, o criterios de las autoridades sanitarias, los cuales causan daños a la salud pública o los recursos naturales;
+a) Emiten al aire, agua o suelo sustancias, materiales o residuos que se consideran contaminantes, riesgosos o peligrosos, de acuerdo a las disposiciones de la normatividad, reglamentos u ordenamientos legales ambientales y aun contando con equipos rebasan los límites máximos permitidos por las Normas Oficiales Mexicanas, NOM;
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+b) Manejan, generan y emiten materiales tóxicos, inflamables y explosivos de acuerdo a las regulaciones, Normas Oficiales Mexicanas, o criterios de las autoridades sanitarias, los cuales causan daños a la salud pública o los recursos naturales;
 
 c) Emiten olores excepcionalmente ofensivos o penetrantes de tal forma que los equipos o sistemas de control de contaminación son insuficientes para evitar que sean percibidos a 100 metros o más a la redonda, produciendo molestias o riesgos a la salud;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
 d) Emiten ruido de percusiones, detonaciones o vibraciones; producen energía térmica o lumínica que trasciende las colindancias del bien inmueble donde se realizan por arriba de los límites máximos permisibles establecidos en las Normas Oficiales Mexicanas, NOM, aplicables, y son percibidos en los predios colindantes o cercanos, aún con equipos o sistemas de control;
 
 e) Las descargas de agua residual contienen materiales, sustancias o elementos considerados como tóxicos por la autoridad sanitaria o ambiental competente y requieren del cumplimiento de los niveles máximos permisibles establecidos en la normatividad aplicable, para su manejo, transporte y disposición adecuada;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
 f) Los residuos sólidos, incluyen, además del tipo municipal, los desechos o subproductos que derivan de algún proceso de trabajo, considerados como peligrosos de acuerdo a la definición de la Norma Oficial Mexicana, NOM, correspondiente, deben manejarse por separado de los residuos ordinarios y solo pueden ser entregados al servicio de aseo de controlado (sic) especializado de acuerdo con el artículo 91 del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Residuos Peligrosos, y demás normatividad ambiental vigente. Todos los residuos generados en el Giro o actividad deben ser sujetos a las disposiciones contenidas (sic) el Programa de Gestión Integral de Residuos Municipal;
 
@@ -621,6 +751,8 @@ i) Requieren del uso de equipos de transporte con capacidad mayor a 30- treinta 
 
 j) Aun contando con área para carga y descarga, utiliza vehículos pesados que afectan la circulación del lugar o lo hace en horas inhábiles.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 30.
 
 El Control de los Usos y Destinos del Suelo de la Zonificación Secundaria, será determinado por el Giro y los criterios de superficie según los impactos, conforme los siguientes criterios:
@@ -629,21 +761,33 @@ I. Permitidos: Los usos que predominen en la zona o desarrollan actividades que 
 
 II. Condicionados: Los usos con un impacto al contexto superior inmediato al predominante en la zona que, para ser permitidos, deben cumplir con las condiciones del artículo anterior; y
 
-III. Prohibidos: Aquellos que no cumplen con alguna de las dos fracciones anteriores, indicados en la Matriz de Compatibilidad (Tabla 3).
+III. Prohibidos: Aquellos que no cumplen con alguna de las dos fracciones anteriores, indicados en la Matriz de Compatibilidad.
+
+En cualquier caso, las direcciones de Ordenamiento del Territorio, Movilidad y Transporte, Medio Ambiente, y de Protección Civil y Bomberos, podrán indicar otras condicionantes contempladas en la reglamentación federal, estatal y municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 31.
 
-La Matriz de Compatibilidad, es el instrumento mediante el cual, se define la compatibilidad de Usos y Destinos en las Zonas Secundarias, estableciéndose los Usos Permitidos, Condicionados y Prohibidos para cada una de las zonas. Para determinar la permisibilidad, deberá leerse de manera horizontal desde la Zona Secundaria en la que se encuentre clasificado el Predio de referencia (A), cruzándose con los Usos y Destinos establecidos para cada zona (B). La letra P se refiere a que el uso se encuentra Permitido; la letra C, se refiere a que el uso se encuentra condicionado, y la letra X, a que el uso se encuentra prohibido (Tabla 3):
+La Matriz de Compatibilidad, es el instrumento mediante el cual, se define la compatibilidad de usos y destinos en las Zonas Secundarias, estableciéndose los usos permitidos, condicionados y prohibidos para cada una de las zonas. Para determinar la permisibilidad, deberá leerse de manera horizontal desde la Zona Secundaria en la que se encuentre clasificado el Predio de referencia (A), cruzándose con los usos y destinos establecidos para cada zona (B). La letra P se refiere a que el uso se encuentra permitido; la letra C, se refiere a que el uso se encuentra condicionado, y la letra X, a que el uso se encuentra prohibido (Tabla 2):
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.M. DE 15 DE JULIO DE 2016, PÁGINA 21.]</small>
 
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN LA G.M. DE 24 DE ABRIL DE 2017 PÁGINA 11.]</small>
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 32.
 
-En caso de que un uso se encuentre condicionado, en el Dictamen de Usos y Destinos Específicos, se indicarán las condicionantes que deberá cumplir el propietario o poseedor, las cuales incluyen el visto bueno de las Direcciones de Medio Ambiente, de Movilidad y Transporte y de Protección Civil y Bomberos, que deberán ser presentados en la Dirección de Padrón y Licencias, para que esta pueda emitir la Licencia de Funcionamiento correspondiente.
+Las acciones urbanísticas en Zonas de Comercio y de Servicios, e Industrial, cuyo uso de suelo solicitado es permitido o condicionado, se sujetarán a los lineamientos de control de impacto de dicha zona, de conformidad con el artículo 29 de este Reglamento. En el resto de las zonas se aplicarán los lineamientos de control de impacto del uso permitido o condicionado.
+
+En caso de que un uso se encuentre condicionado, en el dictamen correspondiente se indicarán las condicionantes que deberán cumplir el propietario o poseedor.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 33.
 
-En las zonas de Impacto Mínimo y Bajo, quedan prohibidas las edificaciones destinadas exclusivamente a giros comerciales y de servicios, debiendo estar incorporados en la vivienda. Se exceptúan los Equipamientos.
+En las zonas habitacionales y de Impacto Mínimo y Bajo, quedan prohibidas las edificaciones destinadas exclusivamente a giros comerciales y de servicios, debiendo estar incorporados a la vivienda. Se exceptúan los equipamientos.
 
 ###### Artículo 34.
 
@@ -653,39 +797,57 @@ Queda prohibida la instalación de giros comerciales y de servicios en las coche
 
 En los predios clasificados como espacios abiertos, se podrán construir equipamientos con una superficie total construida de hasta 10% de la superficie del Predio y un desplante de hasta 5%, previa autorización de la dependencia municipal competente en materia de Ordenamiento del Territorio. Si el Predio ya cuenta con construcciones, se deberá realizar la suma de superficies de desplante y de construcción de las mismas, a fin de cuantificar la superficie disponible para destinar a equipamiento; si excede los porcentajes, ya no podrá destinarse más superficie a construir.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 36.
 
-Los centros comerciales y los mercados públicos, están exentos de que sus locales tengan acceso directo a la vía pública.
+Los centros comerciales y los mercados públicos, están exentos de que sus locales estén en planta baja, con acceso directo a la vía pública.
 
 ###### Artículo 37.
 
 Los propietarios o poseedores de predios clasificados como Equipamiento, y zonas de restricción por infraestructura podrán solicitar a la Dirección, la aplicación de la zonificación y Normas de Control de la Edificación y Urbanización colindante a su Predio, determinadas en los Planes Parciales, cuando el destino establecido en el Predio, haya llegado a su término. En caso de que existan dos o más zonificaciones colindantes directamente en el Predio, el propietario o poseedor podrá optar por la que más le convenga de las colindantes.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 38.
 
-Los propietarios de predios privados clasificados como Espacios Verdes o Abiertos, podrán solicitar a la Dirección, la aplicación de la zonificación y Normas de Control de la Edificación y Urbanización colindante a su Predio, determinadas en los Planes Parciales, siempre y cuando se compruebe que dichos espacios abiertos, no sea (sic) de utilidad pública y de interés general, ni que representen un activo ambiental para la ciudad, debiendo sujetarse a las disposiciones que emita la Dirección de Medio Ambiente. En caso de que existan dos o más zonificaciones colindantes directamente en el Predio, el propietario o poseedor podrá optar por la que más le convenga de las colindantes. Esto no aplica en predios que se encuentren dentro de un Área Natural Protegida.
+Los propietarios de predios privados clasificados como Espacios Abiertos, podrán solicitar a la Dirección, la aplicación de la zonificación y Normas de Control de la Edificación y Urbanización colindante a su Predio, determinadas en los Planes Parciales, siempre y cuando se compruebe que dicho (sic) Espacios Abiertos, no sea (sic) de utilidad pública y de interés general, ni que representen un activo ambiental para la ciudad, debiendo sujetarse a las disposiciones que emita la Dirección de Medio Ambiente. En caso de que existan dos o más zonificaciones colindantes directamente en el Predio, el propietario o poseedor podrá optar por la que más le convenga de las colindantes. Esto no aplica en predios que se encuentren dentro de un Área Natural Protegida.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 39.
 
-En el caso de edificación de nuevo Equipamiento, ya sea público o privado, se podrá optar por la sustitución de la zonificación existente a una zonificación E, Equipamiento, considerando las Normas de Control a la Urbanización y la Edificación establecidas en este Reglamento; siempre y cuando, corresponda a acciones o proyectos para el mejoramiento de la calidad de vida de la población y sean promovidos por la dependencia municipal acorde al Equipamiento solicitado.
+En el caso de edificación de nuevo Equipamiento, ya sea público o privado, se podrá optar por la sustitución de la zonificación existente a una zonificación E, Equipamiento, considerando las Normas de Control a la Urbanización y la Edificación establecidas en la normativa municipal específica correspondiente; siempre y cuando, corresponda a acciones o proyectos para el mejoramiento de la calidad de vida de la población y sean promovidos por la dependencia municipal acorde al Equipamiento solicitado.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 40.
 
-Con el objeto de agilizar la apertura de negocios en el Municipio, la Dirección de Padrón y Licencias, podrá emitir la Licencia Municipal de funcionamiento para giros comerciales, industriales o prestación de servicios, solo en aquellos Giros del Sistema de Clasificación Industrial de América del Norte, SCIAN, catalogados en el presente Reglamento como de Impacto Mínimo y Bajo. Cuando se solicite un Giro que no se encuentre dentro del catálogo, la Dirección de Padrón y Licencias, deberá solicitar a la Dirección de Ordenamiento del Territorio, que determine su equivalencia con alguno que sí se encuentre, según la naturaleza del funcionamiento del Giro de impacto, para así determinar la permisibilidad.
+Con el objeto de agilizar la apertura de negocios en el Municipio, la Dirección de Padrón y Licencias, podrá emitir la Licencia Municipal de funcionamiento para giros comerciales, industriales o prestación de servicios, sin necesidad de la emisión de un Dictamen de Usos y Destinos, solo en aquellos giros del Sistema de Clasificación Industrial de América del Norte, SCIAN, catalogados en el presente Reglamento como de Impacto Mínimo, Bajo y Medio. Cuando se solicite un Giro que no se encuentre dentro del catálogo, la Dirección de Padrón y Licencias, deberá solicitar a la Dirección, que determine su equivalencia con alguno que sí se encuentre, según la naturaleza del funcionamiento del Giro de impacto, para así determinar la permisibilidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 41.
 
-Para la aplicación y ejercicio de los derechos adquiridos en predios y fincas respecto a los Giro (sic) o edificaciones, se observarán las siguientes disposiciones:
+Para la aplicación y ejercicio de los derechos adquiridos en predios y fincas respecto a los Giros o edificaciones, se observarán las siguientes disposiciones:
 
-I. Los derechos adquiridos para giro, surgen a partir de que la finca en cuestión, cuente con una Licencia Municipal de funcionamiento para giros comerciales, industriales o prestación de servicios, previamente se haya verificado que su emisión haya sido legítima;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
-II. Los derechos adquiridos prescribirán al término de 18 meses en que se deje de refrendar la licencia de la actividad o Giro de que se trate, quedando aplicable la zonificación que determinen los Planes de Desarrollo Urbano vigente, en donde se ubique el inmueble o unidad identificable de que se trate;
+I. Los derechos adquiridos para giro, surgen a partir de que la finca en cuestión, cuente con una Licencia Municipal vigente de funcionamiento para giros comerciales, industriales o prestación de servicios, previamente se haya verificado que su emisión haya sido conforme a la normatividad vigente;
 
-III. Para la acreditación (sic) los derechos adquiridos, en la factibilidad de uso del suelo, deberá presentar los antecedentes de licencias emitidos por la Dirección de Padrón y Licencias, para su cotejo a nombre del propietario o promotor, que comprueben el funcionamiento en el año inmediato anterior;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+II. Los derechos adquiridos prescribirán al término de 14 meses en que se deje de refrendar la licencia de la actividad o Giro de que se trate, quedando aplicable la zonificación que determinen los Planes de Desarrollo Urbano vigentes, en donde se ubique el bien inmueble o unidad identificable de que se trate;
+
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+III. Para la acreditación (sic) los derechos adquiridos, en la factibilidad de Giro, deberá presentar los antecedentes de licencias emitidos por la Dirección de Padrón y Licencias, que comprueben el funcionamiento en el año inmediato anterior;
 
 IV. En los casos de construcciones que hayan sido edificadas con anterioridad a la existencia de Normas de Control a la Urbanización y Edificación y rebasen lo permitido en los Planes Parciales, no se permitirán obras de ampliación sobre la superficie de desplante del Predio, sin embargo podrá ampliarse en elevación, sin alterar su COS actual, acatando estrictamente su CUS si es que no lo ha rebasado. Cuando dichas construcciones sufran daños o colapsos estructurales, requiriendo la demolición por riesgos a la habitabilidad, se perderán los derechos adquiridos, y la nueva edificación deberá respetar las permisibilidades y las Normas de Control a la Urbanización y Edificación aplicables. Cuando se quiera realizar una nueva construcción en sustitución de la anterior, ésta deberá respetar las permisibilidades y las Normas de Control a la Urbanización y Edificación señaladas en el Plan Parcial vigente; y
 
-V. Para predios donde exista edificación de dos o más unidades privativas que pretendan subdividirse y las fracciones resultantes no cumplan con frentes o superficies mínimas requeridas, podrá ser autorizada la Subdivisión, únicamente si presenta Licencia de Construcción, o la certificación de planos donde se demuestren los derechos adquiridos. La Subdivisión será procedente siempre y cuando, las fracciones resultantes presenten muros divisorios totalmente independientes, y en caso contrario, se autorizará un régimen de condominio.
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+V. Para predios donde exista edificación de dos o más unidades privativas que pretendan subdividirse o constituir un régimen de condominio, y las fracciones resultantes o el Predio no cumplan con frentes o superficies mínimas requeridas, podrá ser autorizada la subdivisión o el régimen de condominio, únicamente si presenta Licencia de Construcción, la certificación de planos donde se demuestren situación de hecho o si acredita las dimensiones existentes del Predio con escritura pública, boletas prediales, comprobantes de pago de agua, luz, historial catastral de al menos 5 años de antigüedad o imágenes satelitales validadas por el Área de licencias y permisos de construcción de la Dirección de Obras Públicas. La subdivisión será autorizada siempre y cuando las fracciones resultantes presenten muros divisorios e instalaciones totalmente independientes, y en caso contrario, se autorizará un régimen de condominio.
 
 ### CAPÍTULO III. Lineamientos Generales de Control a la Urbanización y la Edificación
 
@@ -723,27 +885,49 @@ XIII. Altura máxima.
 
 En los casos de edificaciones nuevas en predios no edificados, que no cumplan con la superficie o frente mínimos requeridos, podrán acceder a las Normas de Control a la Urbanización y la Edificación del uso solicitado, siempre y cuando cumplan con cualquiera de las siguientes condiciones:
 
-I. Acreditar que el Predio presenta esa condición en cuanto a dimensionamiento, con una antigüedad igual o mayor a 5 años, mediante escritura pública, boletas prediales o historial catastral; y
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
-II. En caso de no acreditar dicha antigüedad, deberá obtener la Opinión Técnica de la Dirección, la cual puede ajustar el número máximo de viviendas permitidas, así como los usos, giros y actividades en el Predio, con el objeto de minimizar los impactos en el entorno inmediato.
+I. Acreditar que el Predio presenta esa condición en cuanto a dimensionamiento, con una antigüedad igual o mayor a 5 años, mediante escritura pública, boletas prediales o historial catastral;
+
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+II. En caso de no acreditar dicha antigüedad, deberá obtener la opinión técnica de la Dirección, la cual puede ajustar el número máximo de viviendas permitidas, así como los usos, giros y actividades en el Predio, con el objeto de minimizar los impactos en el entorno inmediato; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 24 DE ABRIL DE 2017)</small>
+
+III. En cualquiera de los supuestos anteriores la Dirección podrá solicitar la opinión de las direcciones de Movilidad y Transporte, y de Medio Ambiente.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
 Dichos predios, ya no podrán subdividirse en fracciones menores, y deberán cumplir cabalmente, con el resto de las Normas de Control a la Urbanización y la Edificación y con los lineamientos establecidos por la Dirección, en su caso.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 44.
 
-Se podrá autorizar la Subdivisión de un Predio con un dimensionamiento menor a lo establecido en las Normas de Control a la Urbanización y la Edificación, siempre y cuando se acredite dicha situación con una antigüedad mayor a 5 años mediante escritura pública, boletas prediales o historial catastral.
+Se podrá autorizar la subdivisión de un Predio con un dimensionamiento menor a lo establecido en las Normas de Control a la Urbanización y la Edificación, siempre y cuando las edificaciones estén totalmente independientes y se acredite dicha situación con una antigüedad mayor a 5 años mediante escritura pública, boletas prediales, comprobantes de pago de agua, luz, historial catastral de al menos 5 años de antigüedad o imágenes satelitales validadas por la Dirección de Obras Públicas.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 45.
 
 Para el aprovechamiento de predios y fincas existentes para el desdoblamiento se aplicarán los siguientes criterios:
 
-I. Se permitirá edificar una segunda vivienda en un Predio de vivienda unifamiliar alcanzando la altura permitida en la zonificación para tal fin, aplicando para ambas propiedades un régimen de condominio;
+I. Se permitirá edificar una segunda y hasta una tercer vivienda en un Predio de vivienda unifamiliar, alcanzando la altura permitida en la zonificación para tal fin, aplicando para las propiedades un régimen de condominio;
 
-II. La nueva edificación no deberá rebasar el COS ni el CUS establecido en las normas de edificación;
+II. La nueva edificación no deberá rebasar el COS ni el CUS máximos establecido en las normas de edificación;
 
-III. Se podrá subdividir una construcción de uso habitacional unifamiliar para generar una segunda vivienda, aplicando para ambas propiedades un régimen de condominio; y
+III. Se podrá subdividir una construcción de uso habitacional unifamiliar para generar una segunda y hasta una tercer vivienda, aplicando para dichas propiedades un régimen de condominio;
 
-IV. El comercio y servicio será permitido en planta baja de conformidad con las permisibilidades del propio plan parcial y la clasificación de giros por impacto.
+IV. El comercio y servicio será permitido en planta baja de conformidad con las permisibilidades del propio plan parcial y la clasificación de giros por impacto;
+
+V. Las escaleras podrán ubicarse dentro de la restricción frontal, siempre y cuando estos espacios no estén cubiertos, estén dentro de la propiedad, no obstruyan la iluminación y ventilación de un espacio habitable y no alteren de manera negativa la imagen urbana del contexto inmediato;
+
+VI. Para el trámite de desdoblamiento no se requiere de la emisión de un Dictamen de Trazo, Usos y Destinos Específicos, por lo que podrá tramitarse directamente ante la Dirección de Obras Públicas; y
+
+VII. Para cualquier acción de desdoblamiento no será obligatorio otorgar cajones de estacionamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 46.
 
@@ -753,7 +937,9 @@ I. El solicitante deberá declarar el estado actual de la construcción, así co
 
 II. Cuando las fincas tengan un desplante mayor al COS establecido, podrán aumentar su superficie de construcción, CUS, hasta el límite de lo establecido, no pudiendo aumentar en ningún caso, la superficie de desplantes;
 
-III. Cuando las fincas tengan una superficie de construcción mayor al CUS permitido, no se podrá autorizar ninguna ampliación; y
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+III. Cuando las fincas tengan una superficie de construcción mayor al CUS máximo permitido, no se podrá autorizar ninguna ampliación; y
 
 IV. Se deberá cumplir con el resto de normas de edificación.
 
@@ -771,27 +957,55 @@ II. Considerando el número de viviendas máximas permitidas con el CUS básico,
 
 En los predios clasificados como Habitacional Unifamiliar, solo se permitirá la edificación de una vivienda por Predio, salvo que opte por aplicar el desdoblamiento.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 49.
 
-La superficie construida bajo nivel de banqueta, no cuantifica dentro de la superficie máxima de construcción permitida, siempre y cuando se destine a espacios no habitables, como estacionamientos, almacenes, bodegas y cuartos de máquinas. En caso de que existan espacios habitables debajo del nivel de banqueta, estos sí cuantificarán.
+La superficie construida bajo nivel de banqueta no cuantificará como CUS, siempre y cuando se destine a espacios no habitables, como estacionamientos, almacenes, bodegas y cuartos de máquinas. En caso de que existan espacios habitables debajo del nivel de banqueta, estos sí cuantificarán.
 
 ###### Artículo 50.
 
-El diseño y desarrollo de proyectos específicos, se sujetará a las siguientes determinaciones en materia de alturas de edificación y restricciones en la colindancia posterior del Predio:
+(DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
-I. La altura total de la edificación será la establecida en las Normas de Control a la Urbanización y Edificación, pudiendo establecerse en niveles, metros o como resultante de los Coeficientes de Ocupación y Utilización del Suelo, o bien de acuerdo a la aplicación de los Coeficientes de Utilización del Suelo Incrementado, ICUS, y se deberá considerar a partir del nivel medio de banqueta;
+> <small>(ADICIONADO, G.M. 24 DE ABRIL DE 2017)</small>
 
-II. Para el caso de techos inclinados, la altura de estos forma parte de la altura total de la edificación;
+Artículo 50 bis. Para la aplicación de las Normas de Control de Edificación, deberá verificarse el cumplimiento de las siguientes disposiciones:
 
-III. En el caso de que, por razones de procedimiento constructivo, se opte por construir el estacionamiento medio nivel por debajo del nivel de banqueta, el número de niveles permitidos se contará a partir del nivel resultante arriba del nivel medio de banqueta. Este último podrá tener una altura máxima de 1.80 metros sobre el nivel medio de banqueta;
+I. En las áreas urbanizadas:
 
-IV. La altura máxima de entre niveles será:
+a) Las referentes a dimensionamiento, coeficientes, alturas, estacionamiento y restricciones que se establezcan para las zonas, serán las que se contienen en los Planes Parciales vigentes al área de aplicación;
 
-a) En los usos habitacionales será la suma del espacio mínimo de circulación con la distancia media para instalaciones de entrepisos de 1.5 metros, determinado a piso terminado; y
+b) El control de la escala y configuración de las edificaciones de una manera acorde con la zona urbana inmediata, a fin de proteger las áreas caracterizadas por su valor fisonómico, tradicional e histórico;
 
-b) Para giros comerciales y de servicios, será de hasta 4.50 metros, a menos que exista una norma específica para giros especiales.
+c) La sujeción de la altura máxima permisible al Plan Parcial de Desarrollo Urbano que corresponda;
 
-V. Los mezzanine, tapanco o similar, serán considerados como nivel constructivo.
+d) El establecimiento de las restricciones frontales en las áreas de Protección Histórico Patrimonial son las que se establecen en los Planes Parciales de Desarrollo Urbano aplicables y vigentes;
+
+e) Cuando se construya una nueva edificación, colindando por su parte posterior con una edificación existente que no tiene restricción posterior, las restricciones que se señalen para la zona deben quedar sin efecto para la nueva edificación; y
+
+f) Los predios que en su parte posterior colinden con espacios públicos destinados como espacios verdes y abiertos para la recreación y el deporte quedan exentos de la restricción posterior, pero en ningún caso se puede utilizar este extremo del Predio para ingreso y salida del mismo.
+
+II. En las áreas de reserva urbana, es de manera estricta conforme las siguientes condiciones:
+
+a) Las densidades máximas de vivienda señaladas para las zonas habitacionales, superficies mínimas de lotes, coeficientes, áreas de cesión para destinos, lineamientos de ingeniería vial, estacionamientos y demás normas de control de la densidad de la edificación, serán las contenidas en los planes de desarrollo urbano para la zona específica del Predio en cuestión, y demás lineamientos establecidos en este Reglamento;
+
+b) Cuando no se especifiquen diferencias, el frente mínimo del lote se aplica tanto a lotes con acceso a través de la vía pública como a lotes con frente a áreas comunes;
+
+d) (Sic) En lo relativo a la superficie máxima construida se permite, además de la que resulte de la aplicación del Coeficiente de Utilización del Suelo, una adición en el último nivel para servicios complementarios, que ocupe como máximo una superficie no mayor al 40% del área de azotea o último nivel, el cual debe estar integrado a la fisonomía urbana del entorno;
+
+e) En las colindancias posteriores, la edificación se sujeta a los siguientes lineamientos:
+
+1. A una distancia del límite de propiedad determinada por la dimensión especificada como restricción posterior, sólo se debe permitir edificar a una altura máxima que se determine para cada tipo de zona, excepto las zonas habitacionales en las que se permiten hasta tres metros incluyendo las bardas perimetrales. Esta superficie puede ser parcial o totalmente cubierta; las dimensiones de los patios interiores o áreas ajardinadas, cualquiera que sea su posición, se deben regir por lo especificado en lo correspondiente a zonas habitacionales;
+
+2. La altura de las edificaciones hacia la colindancia posterior a partir de la azotea de la planta baja, debe retirarse a una distancia de tres metros, contados del límite de la colindancia posterior; a partir de la azotea del segundo nivel se debe incrementar un metro más de distancia tomando como referencia la distancia establecida para el primer nivel o planta baja, guardando a esta proporción y referencia por cada piso que se agregue en caso que sea autorizado;
+
+3. Cuando se construyan edificaciones de conjuntos habitacionales, las cuales se adosan total o parcialmente por su colindancia posterior, sin implicar pérdida de asoleamiento, iluminación, ventilación y privacidad de los espacios habitables, las restricciones especificadas en los incisos a) y b) deben quedar sin efecto en aquella parte en la que se adosan las edificaciones;
+
+4. Cuando se trate de edificaciones en lotes cabeceros que colindan por su parte posterior, en forma perpendicular, con linderos laterales de los predios contiguos, las restricciones especificadas en los incisos a) y b) deben quedar sin efecto en la parte adyacente con la edificación vecina no sujeta a restricción posterior; y
+
+5. Cuando se construya una nueva edificación, que colinden por su parte posterior con una edificación existente que no tiene restricción posterior, las restricciones especificadas en los incisos a) y b) deben quedar sin efecto para la nueva edificación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 51.
 
@@ -799,11 +1013,19 @@ Las Normas de Control a la Urbanización y la Edificación para las Zonas Habita
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.M. DE 15 DE JULIO DE 2016, PÁGINAS DE LA 26 A LA 27.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.M. DE 24 DE ABRIL DE 2017, PÁGINAS DE LA 16 A LA 17.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 52.
 
-Las Normas de Control a la Urbanización y la Edificación para las Zonas Habitacionales Densidad Baja, serán las siguientes:
+Las Normas de Control a la Urbanización y la Edificación para las Zonas Habitacionales de Densidad Baja, serán las siguientes:
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.M. DE 15 DE JULIO DE 2016, PÁGINAS DE LA 27 A LA 28.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.M. DE 24 DE ABRIL DE 2017, PÁGINA 17.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 53.
 
@@ -811,29 +1033,47 @@ Las Normas de Control a la Urbanización y la Edificación para las Zonas Habita
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.M. DE 15 DE JULIO DE 2016, PÁGINAS DE LA 28 A LA 29.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.M. DE 24 DE ABRIL DE 2017, PÁGINA 18.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 54.
 
 Las Normas de Control a la Urbanización y la Edificación para las Zonas Habitacionales Densidad Alta, serán las siguientes:
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.M. DE 15 DE JULIO DE 2016, PÁGINA 29.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.M. DE 24 DE ABRIL DE 2017, PÁGINAS DE LA 18 A LA 19.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 55.
 
-Las Normas de Control a la Urbanización y la Edificación para las Zonas Habitacionales para Vivienda de interés Social, serán las siguientes:
+Las Normas de Control a la Urbanización y la Edificación para las Zonas Habitacionales de Densidad Máxima Plurifamiliar Horizontal y/o Vertical localizados en los Planes y Programas de Desarrollo Urbano, en los PIUEs y en NEUS en corredores urbanos con acceso directo a las líneas de transporte público masivo de personas que cuenten con dos líneas de transporte público masivo, en las líneas del Tren Ligero, así como la del Macrobús, serán las siguientes:
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.M. DE 15 DE JULIO DE 2016, PÁGINAS DE LA 29 A LA 30.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.M. DE 24 DE ABRIL DE 2017, PÁGINAS DE LA 19 A LA 20.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 56.
 
-Las Normas de Control a la Urbanización y la Edificación para las Zonas Comerciales y de Servicios, serán las siguientes:
+Las Normas de Control a la Urbanización y la Edificación para las Zonas de Comercio y Servicios, serán las siguientes:
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.M. DE 15 DE JULIO DE 2016, PÁGINAS DE LA 30 A LA 31.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.M. DE 24 DE ABRIL DE 2017, PÁGINAS DE LA 20 A LA 21.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 57.
 
-Las Normas de Control a la Urbanización y la Edificación para las Zonas Industriales, serán las siguientes:
+Las Normas de Control a la Urbanización y la Edificación para las zonas industriales, serán las siguientes:
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.M. DE 15 DE JULIO DE 2016, PÁGINAS DE LA 31 A LA 32.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.M. DE 24 DE ABRIL DE 2017, PÁGINAS DE LA 21 A LA 22.]</small>
 
 ###### Artículo 58.
 
@@ -841,15 +1081,19 @@ Las Normas de Control a la Urbanización y la Edificación establecidas en el pr
 
 ### CAPÍTULO IV. De las Zonas Habitacionales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 59.
 
-El uso habitacional por sus relaciones de propiedad y forma de edificar, independientemente de su densidad, se define en las siguientes modalidades:
+El uso habitacional por sus relaciones de propiedad y forma de edificar, independientemente de su densidad, se define en las siguientes modalidades en el Plan Parcial de Desarrollo Urbano correspondiente:
 
 I. Habitacional Unifamiliar: Una vivienda por familia en un Predio individual;
 
 II. Habitación Plurifamiliar Horizontal: Viviendas para dos o más familias dentro de un mismo Predio, independientemente del régimen de propiedad que se constituya, pudiendo ser aisladas, adosadas o superpuestas, permitiéndose las últimas en un número no mayor a dos unidades y debiendo ser menor o igual a tres niveles de altura; y
 
-III. Habitación Plurifamiliar Vertical: Viviendas agrupadas en edificios cuyas unidades están superpuestas en un número mayor a dos unidades, siendo necesario un régimen de propiedad condominal, debiendo ser igual o mayor a cinco niveles de altura.
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+III. Habitación Plurifamiliar Vertical: Viviendas agrupadas en edificios cuyas unidades están superpuestas en un número mayor a dos unidades, siendo necesario un régimen de propiedad condominal, debiendo ser igual o mayor a tres niveles de altura.
 
 ###### Artículo 60.
 
@@ -869,13 +1113,17 @@ En la emisión de los dictámenes a que se refiere el artículo 284 del Código,
 
 El Inventario Municipal de Inmuebles de Valor Patrimonial, es el registro del total de inmuebles que constituyen una zona de valor patrimonial, para su identificación, clasificación, niveles de intervención y establecimiento de acciones y competencias municipales, estatales y federales, que fungirá como herramienta para su futura gestión y conservación. La Dirección es la dependencia municipal encargada de realizar el Inventario Municipal de Inmuebles de Valor Patrimonial, para lo cual, tomará en cuenta los inventarios competencia del Instituto Nacional de Antropología e Historia, INAH y del Gobierno del Estado, donde estarán referidos a la clasificación especificada en este Reglamento.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 64.
 
-Independientemente de considerar los Listados de Bienes y Zonas Inscritos en el Inventario Estatal del Patrimonio Cultural, del Municipio deberá establecer en dichos registros los inmuebles que considere de valor patrimonial en el ámbito municipal, la Dirección deberá remitir al Ayuntamiento la propuesta de inventario para su aprobación y publicación en la Gaceta Municipal de Guadalajara.
+Independientemente de considerar los Listados de Bienes y Zonas Inscritos en el Inventario Estatal del Patrimonio Cultural, el Municipio deberá establecer en dichos registros los bienes inmuebles que considere de valor patrimonial en el ámbito municipal, la Dirección deberá remitir para su aprobación por el Pleno del Ayuntamiento, la propuesta de inventario para su aprobación y publicación en la Gaceta Municipal de Guadalajara.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 65.
 
-La Dirección elaborará los Manuales Técnicos para la Conservación del Patrimonio Cultural Urbano, así como las disposiciones administrativas para el ordenamiento, regulación, fisonomía (sic), configuración, visual, imagen, ambiente y comunicación del patrimonio cultural urbano; y las acciones permitidas de conservación y mejoramiento en áreas zonificadas y elementos patrimoniales, al interior del Municipio.
+La Dirección elaborará los Manuales Técnicos para la Conservación del Patrimonio Cultural Urbano, así como las disposiciones administrativas para el ordenamiento, regulación, fisonomía, configuración, visual, imagen, ambiente y comunicación del patrimonio cultural urbano; y las acciones permitidas de conservación y mejoramiento en áreas zonificadas y elementos patrimoniales, al interior del Municipio.
 
 ###### Artículo 66.
 
@@ -893,19 +1141,25 @@ V. Jardines Históricos y Arbolado Público: Son los que resultan (sic) producto
 
 VI. Espacios Públicos: Cuyo valor radica en la homogeneidad tipológica espacial, así como en la presencia en cantidad y calidad de edificios de valor histórico y de las condiciones espaciales y funcionales ofrecidas para el uso social característico de la zona.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 67.
 
-El Inventario Municipal de Inmuebles de Valor Patrimonial definirá los niveles de intervención en función del valor histórico arquitectónico que poseen los inmuebles, entendiendo por intervención, a cualquier acción que se ejecute sobre un bien patrimonial, siendo los siguientes:
+En los inventarios y catálogos federal, estatal y municipal, se definirán los niveles de intervención en función del valor histórico arquitectónico que poseen los bienes inmuebles, entendiendo por intervención, a cualquier acción que se ejecute sobre un bien patrimonial, siendo los siguientes:
 
 I. Conservación: Es el nivel máximo de protección a través del cual el inmueble requiere un mínimo de acciones de mantenimiento cotidiano o no, especializadas para su preservación ya que no manifiesta un grado de deterioro significativo en sus componentes o estructura arquitectónica. Las acciones de conservación tienden a salvar, mantener, proteger, custodiar o cuidar la permanencia y el estado original de bienes patrimoniales. Entre las acciones que implican este nivel de intervención están:
 
-a) Mantenimiento: Sección referente a conservar en buen estado el bien patrimonial mediante el cuidado y protección de los elementos formales y espaciales que lo componen;
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+a) Mantenimiento: Acción referente a conservar en buen estado el bien patrimonial mediante el cuidado y protección de los elementos formales y espaciales que lo componen;
 
 b) Protección: Al efecto de acciones preventivas establecidas para la conservación de un bien inmueble; y
 
 c) Reparación: Las acciones que tienen por objeto corregir las deficiencias estructurales y funcionales de una edificación o de sus elementos, generadas por el deterioro natural o inducido.
 
-II. Restauración Especializada: Es el nivel de intervención máximo a través del cual se aplican acciones especializadas tendientes a la recuperación de un bien patrimonial cuando ha sido alterado o su imagen se ha deteriorado. Las acciones de intervención para una restauración deberán ser ejecutadas por especialistas en la materia y mano de obra calificada, preservando íntegra la estructura arquitectónica original. Una restauración podrá ser conforme a su estado original cuando queden vestigios de cómo fue éste, o documentación gráfica sobre el estado original de una época determinada. La Restauración hipotética, cuando no sea posible saber a ciencia cierta el estado original se propondrá un diseño integrado a lo que sea apreciable de la construcción y que respete los elementos permanentes del edificio y dentro de, las tipologías específicas. Los trabajos de restauración implican diferentes tipos de acciones pudiendo ser los siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
+
+II. Restauración Especializada: Es el nivel de intervención máximo a través del cual se aplican acciones especializadas tendientes a la recuperación de un bien patrimonial cuando ha sido alterado o su imagen se ha deteriorado. Las acciones de intervención para una restauración deberán ser ejecutadas por especialistas en la materia y mano de obra calificada, preservando íntegra la estructura arquitectónica original. Una restauración podrá ser conforme a su estado original cuando queden vestigios de cómo fue este, o documentación gráfica sobre el estado original de una época determinada. La restauración hipotética es cuando no sea posible saber a ciencia cierta el estado original, para lo cual se propondrá un diseño integrado a lo que sea apreciable de la construcción y que respete los elementos permanentes del edificio y dentro de, las tipologías específicas. Los trabajos de restauración implican diferentes tipos de acciones pudiendo ser los siguientes:
 
 a) Consolidación: Los trabajos necesarios para restablecer las condiciones de trabajo mecánicas y solidez de los componentes de un bien patrimonial mueble o inmueble;
 
@@ -917,7 +1171,9 @@ d) Liberación: Al retiro de elementos arquitectónicos, escultóricos, de acaba
 
 e) Rehabilitación: A la intervención que permite la recuperación de las condiciones óptimas estructurales y espaciales de una edificación sin alterar negativamente sus características ni su entorno;
 
-f) Reutilización: A las adaptaciones de uso en un monumento, sin alterar su estructura ni su entorno; y
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+f) Reutilización: A las adaptaciones de uso en un bien inmueble, sin alterar su estructura ni su entorno; y
 
 g) Revitalización: Toda acción con fines de mejoramiento, conservación y reanimación de la imagen.
 
@@ -961,7 +1217,9 @@ Según sus características y valor arquitectónico, las construcciones se clasi
 
 I. Monumento Histórico por Determinación de Ley: Son los que establece la Ley Federal y que se refieren a edificaciones realizadas entre los siglos XVI y XIX, destinados al uso público;
 
-II. Monumento Histórico Civil Relevante: Son los que establece la Ley Federal, y que se refiere a los inmuebles considerados arquitectura civil relevante, realizados entre los siglos XVI y XIX;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+II. Monumento Histórico Civil Relevante por Determinación de Ley: Son los que establece la Ley Federal, y que se refiere a los bienes inmuebles considerados arquitectura civil relevante, realizados entre los siglos XVI y XIX;
 
 III. Monumento Artístico: Son las que establece la Ley Federal, que deben contar con la declaratoria correspondiente, y se refieren a edificaciones de valor estético relevante;
 
@@ -983,33 +1241,49 @@ De acuerdo a la clasificación de los inmuebles, se establecerán los niveles m�
 
 I. Monumento Histórico por determinación de Ley: Conservación y Restauración especializada;
 
-II. Monumento Histórico Civil Relevante: Conservación, Restauración especializada y Adaptación controlada;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
-III. Monumento Artístico: Conservación, Restauración especializada y Adaptación controlada;
+II. Monumento Histórico Civil Relevante: Conservación y Restauración especializada;
 
-IV. Inmueble de Valor Artístico Relevante: Conservación, Restauración especializada, Adaptación controlada y Adecuación a la imagen urbana;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
-V. Inmueble de Valor Histórico Ambiental: Conservación, Restauración especializada, Adaptación controlada y Adecuación a la imagen urbana;
+III. Monumento Artístico: Conservación y Restauración;
 
-VI. Inmueble de Valor Artístico Ambiental: Conservación, Restauración especializada, Adaptación controlada y Adecuación a la imagen urbana;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+IV. Inmueble de Valor Artístico Relevante: Conservación y Restauración especializada;
+
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+V. Inmueble de Valor Histórico Ambiental: Conservación, Restauración especializada y Adaptación controlada;
+
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+VI. Inmueble de Valor Artístico Ambiental: Conservación, Restauración especializada y Adaptación controlada;
 
 VII. Edificación Armónica: Adaptación controlada, Adecuación a la imagen urbana y sustitución controlada;
 
 VIII. Edificación No Armónica: Adecuación a la imagen urbana y sustitución controlada; y
 
-IX. Baldío: Adecuación a la imagen urbana.
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+IX. Baldío o Predio sin Edificación: Adecuación a la imagen urbana.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 70.
 
-Cuando por las características de las solicitudes de intervenciones en el Patrimonio Cultura Urbano del Municipio, sea necesario realizar inspecciones físicas, o su entorno, podrá acordarlo la Dirección, la decisión será informada al particular por cualquier medio que asegure la comunicación y posibilite la inspección, con señalamiento de día y hora para su desahogo. Las observaciones que se tengan con motivo de la inspección deberán ser anotadas para ser anexadas al expediente.
+Cuando por las características de las solicitudes de intervenciones en el Patrimonio Cultural Urbano del Municipio, sea necesario realizar inspecciones físicas, o su entorno, podrá acordarlo la Dirección, la decisión será informada al particular por cualquier medio que asegure la comunicación y posibilite la inspección, con señalamiento de día y hora para su desahogo. Las observaciones que se tengan con motivo de la inspección deberán ser anotadas para ser anexadas al expediente.
 
 ###### Artículo 71.
 
 La Dirección realizará la revisión y, en su caso, actualización de los Perímetros de las Áreas de Protección al Patrimonio Cultural Urbano marcados en los Instrumentos de Planeación, para lo cual deberá contar con la delimitación de las zonas de monumentos presentadas por los gobiernos federal y estatal, y las zonas de protección inscritas en el Inventario Estatal del Patrimonio Cultural, a través de sus dependencias responsables, de acuerdo al ámbito de su competencia.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 72.
 
-En inmuebles que se identifiquen dentro de las fracciones I a la VI del artículo 61 de este Reglamento, que hayan sido demolidos sin las autorizaciones correspondientes, serán sancionados con la suspensión total de cualquier tipo de licencia, ya sea para construcción o funcionamiento, proyecto u obra de intervención en un periodo de 3 años, así como lo establecido en la Ley de Ingresos del Municipio de Guadalajara, salvo que la licencia sea con el fin de reconstruirla en su estado original.
+En bienes inmuebles que se identifiquen dentro de las fracciones I a la VI del artículo 68 de este Reglamento, que hayan sido demolidos sin las autorizaciones correspondientes, serán sancionados con la suspensión total de cualquier tipo de licencia, ya sea para construcción o funcionamiento, proyecto u obra de intervención en un periodo de 3 años, así como lo establecido en la Ley de Ingresos del Municipio de Guadalajara, salvo que la licencia sea con el fin de reconstruirla en su estado original.
 
 ###### Artículo 73.
 
@@ -1053,19 +1327,27 @@ II. La Dirección de Participación Ciudadana y Coordinación General de Gestió
 
 III. La aprobación y declaratoria del Ayuntamiento, estará condicionada a que la asociación de vecinos cumpla los requisitos y demuestre la capacidad de organización para los fines manifestados.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 78.
 
-Le corresponde a la Coordinación General de Servicios Públicos Municipales, la vigilancia de que la comunidad aporte los recursos necesarios para la expansión o el mejoramiento de los servicios públicos domiciliarios, en concertación con las empresas de servicios públicos domiciliarios y los Municipios, derivado de los acuerdos alcanzados en el convenio.
+Le corresponde a la Coordinación General de Servicios Públicos Municipales, la vigilancia de que la comunidad aporte los recursos necesarios para la expansión o el mejoramiento de los servicios públicos domiciliarios, en concertación con las empresas de servicios públicos domiciliarios y el Municipio, derivado de los acuerdos alcanzados en el convenio.
 
 ### CAPÍTULO VII. Áreas de Cesión para Destinos
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 79.
 
 Las Áreas de Cesión para Destinos se clasifican en:
 
-I. Cesiones para Equipamiento: Corresponde a los espacios de uso público, necesarios para el desarrollo de la comunidad, por lo que todo propietario o promotor que realice cualquier acción urbanística de las descritas en este título, cede, a título gratuito al Municipio, al término de la Acción Urbanística, la superficie correspondiente;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
-II. Espacios Abiertos: Comprenden aquellas áreas en las que solo deben edificarse las instalaciones mínimas necesarias; para su clasificación y radio de influencia;
+I. Cesiones para Equipamiento: Corresponde a los espacios de uso público, necesarios para el desarrollo de la comunidad, por lo que todo propietario o promotor que realice cualquier Acción Urbanística de las descritas en este título, cede, a título gratuito al Municipio, al término de la Acción Urbanística, la superficie correspondiente;
+
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+II. Espacios Abiertos: Comprenden aquellas áreas en las que solo deben edificarse las instalaciones mínimas necesarias para alojar las actividades destinadas a prestar los fines públicos asignados; para su clasificación y radio de influencia;
 
 III. Espacios Construidos: comprenden todo tipo de edificaciones necesarias para alojar las actividades destinadas a prestar los fines públicos asignados; para su clasificación y radio de influencia;
 
@@ -1073,17 +1355,61 @@ IV. Cesiones para Vialidad: Corresponde a las vías públicas que resultan al t�
 
 V. Áreas de cesión para infraestructuras y sus instalaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 80.
 
-Las Cesiones para Destinos se aplican en Áreas de Reserva Urbana como en Áreas de Renovación Urbana, bajo las siguientes consideraciones:
+Las Cesiones para Destinos se aplican en áreas de Reserva Urbana como en Áreas de Renovación Urbana, bajo las siguientes consideraciones:
 
 I. En Áreas de Reserva Urbana, se aplican en todas aquellas urbanizaciones que pretendan transformar predios rústicos en áreas urbanizadas, según lo estipulan los Instrumentos de Planeación Urbana; y
 
-II. En Áreas de Renovación Urbana, se aplican en zonas que se pretenda modificar la utilización del suelo o alterar la densidad indicada en el Plan Parcial de Desarrollo Urbano y como consecuencia, al incrementar la densidad de población, demandará mayores servicios públicos, o por no contar anteriormente con ellos. Entendido de que el equipamiento existente o futuro corresponda al nivel de servicio requerido.
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+II. En Áreas de Renovación Urbana, se aplicaran en zonas ya urbanizadas que se pretenda modificar cambiando la utilización del suelo o alterando la densidad de edificación indicada en el Plan Parcial de Desarrollo Urbano y que como consecuencia, se incremente la densidad de población, demandará mayores servicios públicos, o por no contar anteriormente con ellos, en el entendido de que el equipamiento existente o futuro corresponda al nivel de servicio requerido; contará para la dosificación respectiva, para lo cual deberá realizarse un Estudio de capacidades de equipamiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 24 DE ABRIL DE 2017)</small>
+
+Se entenderá por Conjunto Habitacional la modalidad de aprovechamiento inmobiliario consistente en varias obras de edificación en un área determinada con vías públicas en su interior, tal y como lo establece la fracción XXVI del artículo 5 del Código.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 81.
 
-Quedan obligadas de otorgar Áreas de Cesión para Destinos cualquier Acción Urbanística Mayor o que implique una redensificación, cuya superficie del Predio en que se realice sea de 2,500 metros cuadrados o más, en apego al artículo 80. En caso de que la superficie sea menor, quedará exenta de otorgar área de cesión.
+Quedaran exentas de otorgar áreas de cesión, las acciones urbanas que se encuentren en áreas de renovación urbana, cuando se acredite, a través de un estudio de capacidades de equipamiento que el área urbana de que se trate cuente con el equipamiento necesario para atender a la población existente y la proyectada por la acción urbana promovida y por lo tanto no se requieren mayores áreas de cesión.
+
+I. El estudio de capacidades de equipamiento deberá contar con los siguientes criterios generales:
+
+a) Fundamentación Jurídica: Establecer cada supuesto conforme a la reglamentación vigente aplicable y la vinculación del proyecto con los ordenamientos legales correspondientes;
+
+b) Objetivos: Se especifique el objeto y alcance del estudio;
+
+c) Datos Generales, Datos generales del promovente y responsables del estudio;
+
+d) Dictamen de Trazo, Usos y Destinos Específicos;
+
+e) Definir Área de Aplicación, (superficie total, de restricciones y neta);
+
+f) Determinar la población existente en el área de estudio;
+
+g) Anexar la población acumulada en el área de estudio por los proyectos ingresados de la misma, así como del proyecto que se promueve (datos proporcionados por la Dirección del Ordenamiento del Territorio);
+
+h) Anexar la población generada por la ejecución del área de estudio, analizar y evaluar impacto total;
+
+i) Descripción del Proyecto: Tipo de Acción Urbanística a desarrollar, uso propuesto; y
+
+j) Estructura Socioeconómica: Análisis de aquellos fenómenos sociales que afectan a la estructura social del área urbana impactada respecto a la población total de la misma.
+
+II. En el caso de Equipamiento para Educación, se deberá establecer si se cuenta dentro del área de estudio con servicios educativos, tipo o niveles de ellos con sus características generales (Jardín de Niños, Primaria, Secundaria, Preparatoria), si son públicos o privados y distancias al Predio del proyecto. Integrarse para el análisis aquel equipamiento ubicado en el área de estudio y en el entorno inmediato, conforme a los radios de influencia establecidos en las normas de El Instituto Nacional de la Infraestructura Física Educativa, INIFED, y/o la Secretaría de Desarrollo Social, SEDESOL.
+
+III. En el caso de Equipamiento para Salud, se determinará si se cuenta dentro del área de estudio con servicios de salud, tipos o niveles de ellos con sus características generales (unidad médica de primer contacto, hospital, centro de especialidades, etc.), si son públicos o privados y distancias a la zona de proyecto, en un radio de 1 kilómetro. Integrarse para el análisis aquel equipamiento ubicado en el área de estudio y en el entorno inmediato, conforme a los radios de influencia establecidos en las normas de la Secretaría de Desarrollo Social, SEDESOL
+
+IV. En el caso de Equipamiento para Espacios verdes y abiertos, se deberá describir si se cuenta dentro del área de estudio con espacios verdes (Jardín vecinal, parque barrial, parque distrital, camellones, etc.), con sus características generales, si son públicos o privados, el responsable de su mantenimiento y su ubicación en la zona del proyecto. Describir en forma general la vegetación existente en ellos, sus características y sus condiciones fitosanitarias.
+
+V. Conclusiones: Se deberá especificar de manera concreta el análisis de aquellos fenómenos sociales que afectan a la estructura social del área de estudio, así como si resulta necesario el otorgamiento de áreas de cesión para equipamiento o no.
+
+> <small>(ADICIONADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+Artículo 81 bis. Quedarán exentas de otorgar áreas de cesión las acciones urbanísticas que ya hubieran sido afectadas por este concepto y no se requiera para su ejecución de nuevas áreas de cesión, de conformidad a lo establecido en el artículo 175 del Código Urbano.
 
 ###### Artículo 82.
 
@@ -1107,7 +1433,9 @@ b) En las zonas habitacionales, la cesión al Ayuntamiento comprenderá el 16% d
 
 c) En los usos turísticos, la cesión al Ayuntamiento comprenderá el 11 % de la superficie bruta de aplicación, de la Acción Urbanística a desarrollar;
 
-d) En las zonas Comercial y de Servicios, la cesión al Ayuntamiento comprenderá el 13% de la superficie bruta del área de aplicación, de la Acción Urbanística a desarrollar; y
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+d) En las zonas de Comercio y Servicios, la cesión al Ayuntamiento comprenderá el 13% de la superficie bruta del área de aplicación, de la Acción Urbanística a desarrollar; y
 
 e) En las zonas Industriales, la cesión al Ayuntamiento comprenderá el 8% de la superficie bruta del área de aplicación, de la Acción Urbanística a desarrollar.
 
@@ -1121,23 +1449,33 @@ b) La superficie restante, correspondiente a vialidades y predios con usos difer
 
 c) El Área de Cesión para Equipamiento se cuantificará con el porcentaje del uso que genere más superficie de área de cesión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 84.
 
-En el caso de edificaciones de 5 o más niveles:
+En el caso de zonas habitacionales en densidades mayores a 137 viviendas por hectárea, en suelo urbanizable, la superficie relativa a las Áreas de Cesión para Equipamiento, se calculará en razón de tres metros cuadrados por habitante, considerando el promedio de ocupantes por vivienda, establecido por el Instituto Nacional de Estadística y Geografía, sin que pueda exceder del 24% de la superficie bruta de aplicación de la Acción Urbanística a desarrollar.
 
-I. En zonas habitacionales la superficie relativa a la cesión al Ayuntamiento se calcula a razón de 9 metros cuadrados por cada 50 de vivienda. Estas áreas de cesión en ningún caso pueden ser menor al 16%, ni podrán exceder el 24% de la superficie bruta del área de aplicación de la acción urbanística a desarrollar;
+I. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
-II. En el caso de incrementos de densidades para uso habitacional, se calcula el área de cesión considerando únicamente dicho incremento; y
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+II. En el caso de incrementos de densidades para uso habitacional, en donde sí se requieran áreas de cesión, se calcula el área de cesión considerando únicamente dicho incremento; y
 
 III. En hoteles, la superficie relativa a la cesión al Ayuntamiento se calcula a razón de 5 metros cuadrados por cuarto. Estas áreas de cesión en ningún caso pueden ser menores al 11% ni podrán exceder el 20% de la superficie bruta del área de aplicación de la Acción Urbanística a desarrollar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 85.
 
 Las Áreas de Cesión para Destinos deberán cumplir las siguientes características:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.M. 24 DE ABRIL DE 2017)</small>
+
 I. Los niveles de servicio y compatibilidad, así como las dimensiones mínimas para el Equipamiento;
 
-II. No deberá estar afectado por restricciones federales y estatales, restricciones por paso de infraestructura y sus instalaciones, o cualquier área protegida o no urbanizable;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+II. No deberá estar afectado por restricciones federales y estatales; restricciones por paso de infraestructura y sus instalaciones, o cualquier área protegida o no urbanizable;
 
 III. Deberá ser de la misma calidad y características al promedio de las que componen al resto de la zona;
 
@@ -1147,9 +1485,15 @@ V. La pendiente topográfica del área de cesión, deberá ser adecuada para los
 
 VI. Debe tener acceso a la vía pública;
 
-VII. Cuando las áreas resultantes sean mayores a 2,500 metros cuadrados, deberán de colocarse con frente a la o las vialidades de mayor jerarquía, asignándose el destino de equipamiento institucional;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
-VIII. No podrá tener una superficie menor a 300 metros cuadrados. El ancho del área de cesión no deberá ser menor a 15 metros o, en caso de tratarse de un parque lineal, de 12 metros; y
+VII. Las áreas de cesión para destinos, deberán de colocarse con frente a la o las vialidades de la jerarquía que corresponda en función al tipo del equipamiento institucional requerido;
+
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+VIII. No podrá tener una superficie menor a 300 metros cuadrados. El ancho del área de cesión no deberá ser menor a 15 metros o, en caso de tratarse de un parque lineal de 12 metros; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.M. 24 DE ABRIL DE 2017)</small>
 
 IX. Cuando las áreas de cesión sean menores a 1000 metros cuadrados, no podrán disgregarse.
 
@@ -1165,13 +1509,17 @@ Los predios que determine la autoridad a destinar para obras de infraestructura 
 
 Las obras de edificación en las Áreas de Cesión para Destinos contempladas como equipamiento educativo, deberán contar con la edificación e instalaciones necesarias para cumplir con las funciones que se les asignen. Dichas obras serán realizadas por cuenta del urbanizador o el gobierno municipal, estatal o federal, según lo determine el proyecto aprobado.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 88.
 
-Las áreas de cesión serán inalienables e imprescriptibles, y solo podrán utilizarse para los fines descritos en este capítulo, y no podrán otorgarse concesiones sobre áreas para su uso, aprovechamiento o explotación a particulares, asociaciones vecinales o instituciones de derecho público o privado, garantizando siempre su uso público. En los casos en los que sea necesario realizar afectaciones con fines de utilidad pública, la autoridad municipal deberá contar con el acuerdo del Cabildo.
+Las áreas de cesión serán inalienables e imprescriptibles, y solo podrán utilizarse para los fines descritos en este capítulo, y no podrán otorgarse concesiones sobre áreas para su uso, aprovechamiento o explotación a particulares, asociaciones vecinales o instituciones de derecho público o privado, garantizando siempre su uso público. En los casos en los que sea necesario realizar afectaciones con fines de utilidad pública, la autoridad municipal deberá contar con el acuerdo de aprobación del Pleno del Ayuntamiento.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 89.
 
-En las obras de urbanización que se realicen por etapas, se deberá garantizar desde la primera etapa, el total de la superficie de las Áreas de Cesiones para Destinos, sin importar las etapas en las que se realicen las obras.
+En las obras de urbanización que se realicen por etapas, se deberá garantizar el total de la superficie de las Áreas de Cesiones para Destinos, realizándose las obras mínimas de urbanización y las de equipamiento, en proporción al grado de avance de la urbanización.
 
 ###### Artículo 90.
 
@@ -1187,33 +1535,63 @@ Las áreas de cesión para infraestructuras y sus instalaciones, están controla
 
 Las áreas de cesión deberán contar con las obras de urbanización que les permitan su inmediata operación y funcionamiento, sin lo cual el Predio en cuestión no podrá obtener la recepción por parte del Municipio.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 93.
 
-Las áreas de cesión deberán contar con el visto bueno de la Dirección de Ordenamiento del Territorio, sin lo cual el Predio en cuestión no podrá proceder a la recepción de las obras de urbanización. Una vez que se reciban las obras de urbanización, el Ayuntamiento estará obligado a gestionar los servicios básicos y el equipamiento para el funcionamiento óptimo del asentamiento, conforme a la modalidad de la Acción Urbanística.
+Las áreas de cesión deberán contar con el visto bueno de la Dirección encargada de la autorización y de la recepción de las obras de urbanización, sin lo cual no se podrá proceder a la recepción de las obras de urbanización. Una vez que se reciban las obras de urbanización, el Ayuntamiento estará obligado a gestionar los servicios básicos y el equipamiento para el funcionamiento óptimo del asentamiento, conforme a la modalidad de la Acción Urbanística.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 94.
 
-Cuando a juicio de la autoridad municipal, las áreas de cesión no sean útiles para fines públicos o que, por las características del Predio en el que se realice la acción urbanística, éste no pueda otorgar dicha área de cesión en el mismo Predio, éstas podrán trasladarse el área de la cesión a otro Predio, de manera total o parcial, siempre y cuando no se divida en más de 2 partes y cada una de estas tenga una superficie de al menos 400 metros cuadrados.
+Cuando a juicio de la autoridad municipal, las áreas de cesión no sean útiles para fines públicos o que, por las características del Predio en el que se realice la Acción Urbanística, este no pueda otorgar dicha área de cesión en el mismo Predio, estas podrán permutarse por otros terrenos, sujetos a las siguientes reglas:
+
+I. No podrán permutarse áreas de cesión para destinos por vialidades;
+
+II. Solo podrán ser objeto de permuta parcial las áreas destinadas para equipamiento, cuando no sean útiles para el municipio; la falta de utilidad deberá comprobarse en el acuerdo del Pleno del Ayuntamiento que autorice la permuta, la cual no podrá rebasar el 20 % por ciento del área de cesión a que esté obligado el urbanizador;
+
+III. Únicamente se podrán recibir a cambio áreas que constituyan reserva territorial o para la protección ambiental de los centros de población previstas en los planes municipales aplicables;
+
+IV. Para cuantificar los términos del intercambio las áreas de cesión se valorarán incorporando el costo del terreno, más el costo prorrateado de la infraestructura y del equipamiento, por metro cuadrado, que el urbanizador haya sufragado o deba sufragar; contra el valor comercial del terreno que se proponga permutar;
+
+V. El terreno que entregará el urbanizador al municipio por motivo de la permuta, deberá ser dentro del mismo plan de centro de población;
+
+VI. Se requerirá acuerdo del Pleno del Ayuntamiento para la permuta de que se trate;
+
+VI (SIC) La permuta no podrá ser mayor del 50% del área de cesión a que este obligado el urbanizador en el caso de usos habitacionales, con excepción de predios intraurbanos no mayores a 10,000 metros, cuyo porcentaje podrá ser total; y
+
+VIII. En ningún caso podrá hacerse pago en efectivo, únicamente procederá la permuta por suelo que permita la constitución de reservas territoriales o asegure políticas de conservación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 95.
 
 La Dirección operará un Sistema de Áreas de Cesión para Destino de la siguiente manera:
 
-I. Con base en los diagnósticos realizados en los Planes Parciales, identificará las zonas con mayores carencias de equipamiento y de áreas verdes públicas, ubicando en estas zonas, predios o baldíos susceptibles de compra;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
-II. Cuando una Acción Urbanística quiera permutar su área de cesión, la Dirección de Ordenamiento del Territorio definirá en dónde se ubicará dicha cesión;
+I. Con base en los diagnósticos realizados en los Planes Parciales, identificará las zonas con mayores carencias de equipamiento y de áreas verdes públicas, ubicando en estas zonas, predios o baldíos susceptibles de compra por el desarrollador que pretenda realizar la permuta de áreas de cesión;
 
-III. La compra en este terreno se realizará tomando en cuenta el valor comercial del suelo en el área generadora del área de cesión -expedido por la Dirección de Catastro con vigencia de 3 meses- y calculando el valor total que tendría el área de cesión de otorgarse en el lugar de la Acción Urbanística. Dicho valor será el que se aplique para la compra del terreno a permutar en la zona receptora del área de cesión; y
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+II. Cuando una Acción Urbanística quiera permutar su área de cesión, la Dirección encargada de la autorización y de la recepción de las obras de urbanización definirá en dónde se ubicará la misma, debiendo elegir el desarrollador entre los predios señalados en el listado previsto en la fracción que antecede. En todo caso la permuta deberá ser aprobada por el Pleno del Ayuntamiento;
+
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+III. La compra en este terreno se realizará tomando en cuenta el valor comercial del suelo en el área generadora del área de cesión de conformidad a lo establecido por la fracción IV, del artículo 94 de este Reglamento. Dicho valor será el que se aplique para la compra del terreno a permutar en la zona receptora del área de cesión; y
 
 IV. La Dirección promoverá que las áreas de cesión sean agrupadas o concentradas en áreas de mayor tamaño, a fin de garantizar su mejor aprovechamiento, mantenimiento y acceso público.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 96.
 
 Dentro de los PIUEs, las áreas de cesión podrán permutarse por las siguientes:
 
-I. Obras de Infraestructura: Se calculará a razón a la superficie de área de cesión que estaría obligado a otorgar y permutar, dependiendo del porcentaje por el tipo de Acción Urbanística, y considerando el valor comercial actualizado del suelo, expedido por la Dirección de Catastro con una vigencia no mayor de 3 meses. El valor que tendría dicha área de cesión, será el que se destine a obras de infraestructura. El proyecto de obra de infraestructura se ubicará en área colindante al Predio de la Acción Urbanística y deberá ser previamente validado por la Dirección de Obras Públicas; y
+I. Obras de Infraestructura: Se calculará a razón a la superficie de área de cesión que estaría obligado a otorgar y permutar, dependiendo del porcentaje por el tipo de Acción Urbanística, y considerando el costo del terreno, más el costo prorrateado de la infraestructura y del equipamiento, por metro cuadrado, que el urbanizador haya sufragado o deba sufragar; y
 
-II. Obras de Equipamiento: Se calculará el equivalente de la superficie de área de cesión que estaría obligado a otorgar o permutar de acuerdo al valor comercial.
+II. El valor que tendría dicha área de cesión, será el que se destine a obras de infraestructura. El proyecto de obra de infraestructura se ubicará en el área colindante al Predio de la Acción Urbanística y deberá ser previamente validado por la Dirección de Obras Públicas.
 
 ### CAPÍTULO VIII. Transferencia de Derechos de Desarrollo Urbano
 
@@ -1241,9 +1619,11 @@ Los predios receptores de Transferencia de Derechos de Desarrollo, deberán iden
 
 Para ser catalogados como tal, dichos predios deberán incluirse en los PIUE, excluyendo Predio de valor patrimonial o ambiental natural.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 100.
 
-La Transferencia de Derechos de Desarrollo Urbano es promovida por el solicitante receptor, cuyo Predio sea susceptible de realizar tal acción; y estará controlada por el Ayuntamiento a través de la Dirección de Ordenamiento del Territorio, mediante el Sistema de Transferencia de Derechos de Desarrollo Urbano, los procedimientos, la participación de dependencias y la creación del Fondo del Sistema de Transferencia de Derechos de Desarrollo Urbano para tal fin.
+La Transferencia de Derechos de Desarrollo Urbano es promovida por el solicitante receptor, cuyo predio sea susceptible de realizar tal acción; y estará controlada por la Dirección en coadyuvancia con la Dirección de Innovación Gubernamental, mediante la utilización de las plataformas digitales para el Sistema de Transferencia de Derechos de Desarrollo Urbano, los procedimientos, la participación de dependencias y la creación del Fondo del Sistema de Transferencia de Derechos de Desarrollo Urbano para tal fin.
 
 ###### Artículo 101.
 
@@ -1287,17 +1667,15 @@ b) Escritura del Predio inscrita en el Registro Público de la Propiedad y del C
 
 c) En caso de que el Predio tenga una edificación existente, presentar plano arquitectónico con vistas en planta, alzado y secciones, con el objeto de proporcionar elementos para el análisis de coeficientes de la edificación.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 105.
 
-La Dirección deberá administrar el Inventario y Catálogo del Patrimonio Cultural Urbano Arquitectónico del Municipio de Guadalajara, instrumento que almacenará la información relativa al estado de conservación de la finca, su valor artístico, su planta física, el potencial de desarrollo de cada Predio respecto a las Normas de Control a la Urbanización y Edificación establecidas para la Zonificación Secundaria en el Plan Parcial, así como su historial de Transferencia de Derechos de Desarrollo Urbano, mismo con la que podrá emitirse la ficha técnica para la obtención del ingreso al Sistema de Registro de Transferencia de Derechos de Desarrollo Urbano.
+La Dirección deberá administrar el Inventario y Catálogo del Patrimonio Cultural Urbano Arquitectónico y de los predios de Valor Natural Ambiental del Municipio, instrumento que almacenará la información relativa al estado de conservación de la finca, su valor artístico, su planta física, el potencial de desarrollo de cada Predio respecto a las Normas de Control a la Urbanización y Edificación establecidas para la Zonificación Secundaria en los Planes Parciales, así como su historial de Transferencia de Derechos de Desarrollo Urbano, mismo con la que podrá emitirse la ficha técnica para la obtención del ingreso al Sistema de Registro de Transferencia de Derechos de Desarrollo Urbano.
 
 ###### Artículo 106.
 
-Los predios contenidos en las áreas de Transferencia de Derechos de Desarrollo Urbano, deberán sujetarse a los siguientes lineamientos de la densidad de edificación, una vez adquiridos los Derechos de Desarrollo Urbano:
-
-I. Los predios con clave catastral incluido en un área receptora de Transferencia de Derechos de Desarrollo Urbano, no podrán obtener Derechos de Desarrollo Urbano con un porcentaje mayor al 25% de la superficie máxima de construcción del Predio sujeto a recepción; y
-
-II. Todo Predio receptor de Transferencia de Derechos de Desarrollo Urbano, deberá cumplir con restricciones a la edificación frontales, laterales y posteriores mínima de 2 metros en Predio con un frente de Predio superior a los 12 metros lineales. En Predio con frente de Predio inferiores a los 12 metros lineales, deberán respetar 1 metro en las mencionadas restricciones a la edificación.
+(DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
 ###### Artículo 107.
 
@@ -1307,21 +1685,27 @@ El mecanismo de recaudación de la Transferencia de Derechos de Desarrollo Urban
 
 Deberá crearse el Fondo del Sistema de Transferencia de Derechos de Desarrollo Urbano, que captará los recursos por la administración de la Transferencia, a través de la Tesorería Municipal, previo convenio. Estos recursos serán ejercidos por la Dirección de Obras Públicas, en favor de la restauración y conservación continua de las fincas patrimoniales de las cuales procederán los ingresos relativos a la generación de Derechos de Desarrollo Urbano, así como en favor de las Áreas Naturales Protegidas por decreto para su restauración y conservación continua. Las transacciones por este concepto, estarán relacionados y publicados en un informe semestral, siendo junio y diciembre los meses para esta declaración, a través en el sitio Web del Ayuntamiento de Guadalajara.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 109.
 
-Los recursos recaudados por el ejercicio del mecanismo de Transferencia de Derechos de Desarrollo Urbano, deberán ser ingresados por conducto de la Hacienda Municipal, en los términos de la Ley de Hacienda Municipal del Estado de Jalisco y de la Ley de Ingresos para el Municipio de Guadalajara para el ejercicio fiscal vigente, y la Tesorería Municipal en la iniciativa de Presupuesto de Egresos de cada año, los recursos recaudados se asignaran estrictamente a las áreas generadoras de Trasferencia de Derechos de Desarrollo Urbano, bajo los siguientes fondos:
+Los recursos recaudados por el ejercicio del mecanismo de Transferencia de Derechos de Desarrollo Urbano, deberán ser ingresados por conducto de la Hacienda Municipal, en los términos de la Ley de Hacienda Municipal del Estado de Jalisco y de la Ley de Ingresos vigente para el Municipio. La Tesorería Municipal en la iniciativa de Presupuesto de Egresos de cada año, establecerá que los recursos recaudados se asignarán estrictamente a las áreas generadoras de Trasferencia de Derechos de Desarrollo Urbano, bajo los siguientes fondos:
 
 I. Fondo de Renovación Urbana: Para áreas urbanas identificadas en los Planes Parciales de Desarrollo Urbano y PIUE, para el mejoramiento y reposición de infraestructura hidrosanitaria, de alumbrado público, así como la mejora de la imagen urbana de dichas áreas, deberán emplearse estos recursos en los proyectos planteados para la administración;
 
 II. Fondo para Conservación y Ampliación de Espacios Públicos: Para Áreas Naturales Protegidas por decreto, parques y plazas públicas, así como instalaciones deportivas, deberán emplearse estos recursos en los proyectos planteados para la administración;
 
-III. Fondo para la Conservación del Patrimonio Cultural Arquitectónico: Los recursos serán para la conservación y restauración de las fincas que han generado la Transferencia de Derechos de Desarrollo Urbano, y su instrumentación estará a cargo de la Dirección de Obras Públicas, dando prioridad a los elementos del patrimonio edificado identificados como monumentos históricos, así como los que son de valor artístico ambiental, debiendo emplearse estos recursos en las fincas que han cedido sus derechos; y
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+III. Fondo para la Conservación del Patrimonio Cultural Arquitectónico: Los recursos serán para la conservación y restauración de las fincas que han generado la Transferencia de Derechos de Desarrollo Urbano, y su instrumentación estará a cargo de la Dirección de Obras Públicas, dando prioridad a los elementos del patrimonio edificado identificados como monumentos históricos, monumentos artísticos, bienes inmuebles de valor artístico relevante, así como los que son de valor histórico o artístico ambiental, debiendo emplearse estos recursos en las fincas que han cedido sus derechos; y
 
 IV. Fondo para el Equipamiento en Materia de Protección Civil: Los recursos se destinarán para la compra y mantenimiento de equipo para garantizar la seguridad de la población en caso de cualquier contingencia.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 110.
 
-El apoyo económico proveniente del fondo, para la conservación del patrimonio cultural arquitectónico, será entregado al propietario o representante legal de la finca que generó los Derechos de Desarrollo Urbano, debidamente inscrito en el Inventario y Catálogo del Patrimonio Cultural Arquitectónico del Municipio de Guadalajara, y deberá ser aplicado por la Dirección de Obras Públicas a las obras de restauración y conservación de las fincas generadoras de Derechos de Desarrollo Urbano.
+El apoyo económico proveniente del fondo, para la conservación del patrimonio cultural arquitectónico, será entregado al propietario o representante legal del Predio que generó los Derechos de Desarrollo Urbano, debidamente inscrito en el Inventario y Catálogo del Patrimonio Cultural Arquitectónico del Municipio de Guadalajara, o en los inventarios de competencia estatal y federal; y deberá ser aplicado por la Dirección de Obras Públicas a las Obras de Restauración y Conservación de las Fincas Generadoras de Derechos de Desarrollo Urbano.
 
 ###### Artículo 111.
 
@@ -1359,9 +1743,11 @@ IV. Cuando así lo acuerde el Presidente Municipal; y
 
 V. Cuando exista un Corredor de Transporte Público Masivo.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 117.
 
-Para los supuestos de las fracciones I y II del artículo anterior, los procedimientos de autorización no requieren de procedimientos especiales o diferentes a los ya previstos en los Instrumentos de Planeación Urbana del Sistema Municipal de Planeación.
+Para los supuestos de las fracciones I y II del artículo anterior, la autorización del PIUE no requiere realizar procedimientos especiales a los previstos para los Instrumentos de Planeación Urbana del Sistema Municipal de Planeación de conformidad al Código.
 
 ###### Artículo 118.
 
@@ -1397,23 +1783,31 @@ V. El programa que define la totalidad de las edificaciones a ejecutar, para con
 
 VI. El programa de acciones específicas a ejecutar para la protección patrimonial, el mejoramiento ambiental y la prevención, control y reducción de riesgos urbanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 120.
 
-Los Polígonos de Intervención Urbana Especial deberán especificar sus límites de aplicación y en coherencia con su objetivo, y podrán aplicar las siguientes estrategias de desarrollo y, en su caso, incentivos fiscales contemplados en el artículo 16 Capítulo IV de la Ley de Ingresos del Municipio de Guadalajara:
+Los PIUEs deberán especificar sus límites de aplicación y en coherencia con su objetivo, y podrán aplicar las siguientes estrategias de desarrollo y, en su caso, incentivos fiscales contemplados en el artículo 16 Capítulo IV de la Ley de Ingresos del Municipio:
 
-I. Permutar las áreas de cesión por algunas de las alternativas previstas en este Reglamento;
+I. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
 II. Disminuir en 70% los cajones de estacionamiento requeridos en el Capítulo de Estacionamientos para Licencias de Uso, y hasta en 100% en zonas de Conservación Patrimonial, previo dictamen de la Dirección de Movilidad y Transporte;
 
-III. Recibir derechos de desarrollo, de acuerdo al Capítulo 10 del presente Reglamento;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+III. Recibir derechos de desarrollo, de acuerdo al Capítulo VIII del Título Segundo del presente Reglamento;
 
 IV. Los edificios de vivienda plurifamiliar, contemplarán usos mixtos;
 
 V. Redistribuir dentro de los predios, el potencial del Plan Parcial vigente;
 
-VI. Tendrán descuentos en pagos de Licencia de Construcción cuando contemplen plantas bajas activas, prevean obras de accesibilidad universal en proyecto y demuestren una reducción de espacios para vehículos del 60%; y
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
-VII. En edificaciones y urbanizaciones con certificación sustentable, se podrán realizar descuentos, conforme a lo señalado en la Ley de Ingresos vigente para el Municipio de Guadalajara.
+VI. Tendrán descuentos en pagos de licencia de construcción cuando contemplen plantas bajas activas, prevean obras de accesibilidad universal en proyecto y demuestren una reducción de espacios para vehículos del 60%; y
+
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+VII. En edificaciones y urbanizaciones con certificación sustentable, se podrán realizar descuentos, conforme a lo señalado en la Ley de Ingresos vigente para el municipio.
 
 ###### Artículo 121.
 
@@ -1425,6 +1819,8 @@ Para la identificación de los PIUE en la cartografía que corresponda, podrá u
 
 ### CAPÍTULO II. De la Dictaminación del Uso del Suelo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 122.
 
 El Área Dictaminadora para la Gestión Integral de la Ciudad, estará conformada por las Direcciones de Ordenamiento del Territorio, Obras Públicas, Movilidad y Transporte, Medio Ambiente y Protección Civil y Bomberos.
@@ -1435,21 +1831,29 @@ Su objetivo primordial, será el de agilizar y eficientar los procesos de Dictam
 
 ### CAPÍTULO III. De las Urbanizaciones
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 124.
 
-Tanto el Dictamen de Usos y Destinos Específicos, como el Dictamen de Trazo, Usos y Destinos Específicos, establecen las disposiciones legales necesarias para el aprovechamiento de predios y edificaciones localizados en el territorio municipal, lo anterior dispuesto en los Planes Parciales de Desarrollo Urbano y en este Reglamento. Ambos son pre requisito para la obtención de Licencias de Urbanización, Subdivisión, Construcción, Ampliación, y Licencia Municipal de Giros de Impacto Alto y Máximo. La emisión de ambos tipos de dictámenes estará a cargo de la Dirección de Ordenamiento del Territorio.
+Tanto el Dictamen de Usos y Destinos como el Dictamen de Trazo, Usos y Destinos Específicos, establecen las disposiciones legales necesarias para el aprovechamiento de predios y edificaciones localizados en el territorio municipal, lo anterior conforme a lo dispuesto por los Planes Parciales y este Reglamento. Ambos son prerequisito (sic) para la obtención de licencias de urbanización, subdivisión, construcción, ampliación, y licencia municipal de giros de impacto alto y máximo. La emisión de ambos tipos de dictámenes estará a cargo de la Dirección.
 
 El propietario o promotor del dictamen, deberá garantizar el cumplimiento de las disposiciones normativas, restricciones, observaciones y obligaciones contenidas en el mismo.
 
 La normatividad contenida en ambos dictámenes, será la misma en tanto el presente Reglamento y el Plan Parcial de Desarrollo Urbano con el que se emitieron, se encuentren vigentes, sin perjuicio de las contribuciones fiscales a que está obligado el solicitante para prorrogar la vigencia de dichos documentos.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 125.
 
-La fundamentación y ordenamiento del Dictamen de Usos y Destinos Específicos, y del Dictamen de Trazo, Usos y Destinos Específico (sic), se determinará de conformidad con lo establecido en el Programa Municipal de Desarrollo Urbano, los Planes que de este deriven, y el presente Reglamento.
+La fundamentación y ordenamiento del Dictamen de Usos y Destinos como el Dictamen de Trazo, Usos y Destinos Específicos, se determinará de conformidad con lo establecido en el Programa Municipal de Desarrollo Urbano, los planes que de este se deriven, y el presente Reglamento.
+
+Además de las disposiciones y normatividad que se especifique en los dictámenes arriba señalados como de cumplimiento obligatorio, las acciones urbanísticas deberán sujetarse al resto de la reglamentación federal, estatal y/o municipal aplicable a cada caso, aun cuando esta no se contenga o se haga referencia a ellas en dichas certificaciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 126.
 
-La solicitud de Dictamen de Usos y Destinos Específicos, así como del Dictamen de Trazo, Usos y Destinos Específicos deberá acompañarse en original para cotejo, y copia simple de lo siguiente:
+La solicitud de Dictamen de Usos y Destinos como el Dictamen de Trazo, Usos y Destinos Específicos, deberá acompañarse en original para cotejo, y copia simple de lo siguiente:
 
 I. Identificación oficial del propietario, del promotor o ambos, que contenga fotografía y firma;
 
@@ -1461,11 +1865,15 @@ IV. Fotografía a color del Predio o edificación promovidos, donde se aprecie e
 
 V. Poder notarial, o carta poder simple, en caso de designarse un representante legal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 127.
 
-La solicitud de Dictamen de Usos y Destinos Específicos, así como del Dictamen de Trazo, Usos y Destinos Específicos deberá contener:
+La solicitud de Dictamen de Usos y Destinos como el Dictamen de Trazo, Usos y Destinos Específicos deberá contener:
 
-I. Nombre completo del propietario y promotor, y de representante legal, en su caso;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+I. Nombre completo del propietario y promotor, y de representante legal, en su caso, así como correo electrónico para recibir notificaciones;
 
 II. Datos de ubicación del Predio objeto del trámite, domicilio, colonia, croquis de ubicación que contenga medidas del Predio y las 4 calles que circundan la manzana donde se localiza, (sic) clave catastral;
 
@@ -1479,89 +1887,113 @@ VI. Tratándose del Uso Comercial, Industrial o Equipamiento, superficie a utili
 
 La solicitud deberá tener firma autógrafa del propietario o promotor; tratándose de personas jurídicas colectivas, deberá contener la firma autógrafa del representante legal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 128.
 
-El procedimiento para la tramitación del Dictamen de Usos y Destinos Específicos, y del Dictamen de Trazo, Usos y Destinos Específicos es el siguiente:
+El procedimiento para la tramitación del Dictamen de Usos y Destinos como el Dictamen de Trazo, Usos y Destinos Específicos es el siguiente:
 
-I. Entrega de los requisitos señalados en el artículo anterior, en la Ventanilla de Dictaminación de Uso de Suelo, de la Dirección de Ordenamiento del Territorio;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
-II. El plazo máximo para la respuesta del Dictamen de Usos y Destinos Específicos será de 5 días hábiles, contados a partir del día siguiente a la recepción de la documentación;
+I. Entrega de los requisitos señalados en el artículo anterior, en la Ventanilla de la Dirección;
+
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+II. El plazo máximo para la respuesta del Dictamen de Usos y Destinos será de 5 días hábiles, contados a partir del día siguiente a la recepción de la documentación;
 
 III. El plazo máximo para la respuesta del Dictamen de Trazo, Usos y Destinos Específicos será de 10 días hábiles, contados a partir del día siguiente a la recepción de la documentación. Dicho plazo se suspende si se emite una prevención, descrita en el siguiente artículo, para requerir documentación complementaria, y deberá reanudarse en cuanto la documentación sea ingresada por el solicitante; y
 
-IV. La entrega del trámite concluido se efectuará a través de la Ventanilla de Entrega de la Dirección de Ordenamiento del Territorio.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 24 DE ABRIL DE 2017)</small>
+
+IV. La expedición del dictamen, se notificará al solicitante por medio de listas fijadas en el domicilio de la Dirección, de conformidad al artículo 84 fracción V de la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios; y
+
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+V. La entrega del trámite concluido se efectuará a través de la Ventanilla de Entrega de la Dirección, en la cual el dictamen quedará a disposición del solicitante por un periodo de tres meses; una vez cumplido el plazo anterior sin que el solicitante o promotor acuda a recogerlo, se entenderá la falta de interés jurídico y se archivará el trámite como asunto concluido. De requerirse posterior al plazo mencionado, se deberá tramitar un nuevo dictamen.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 129.
 
-La Dirección podrá emitir, dentro de los términos estipulados en el Reglamento del Acto y del Procedimiento Administrativo del Municipio de Guadalajara, una prevención al solicitante durante el proceso de dictaminación, con la finalidad de contar con los mejores elementos para la emisión del dictamen. La documentación relativa a la prevención deberá ingresar por la Ventanilla de Dictaminación de Uso de Suelo de la citada Dirección, con el sello de acuse de recibido de la fecha de ingreso. Si la documentación es ingresada en un plazo que exceda el establecido en el Reglamento del Acto y del Procedimiento Administrativo del Municipio de Guadalajara, la Dirección deberá informar por escrito al solicitante que el trámite es desechado debido a la falta de elementos para la dictaminación.
+La Dirección podrá emitir, de conformidad a los artículos 21 y 35 del Reglamento del Acto y del Procedimiento Administrativo del Municipio de Guadalajara, una prevención al solicitante durante el proceso de dictaminación, notificando dicha prevención a su correo electrónico o bien por medio de listas fijadas en el domicilio de la Dirección, con la finalidad de contar con los mejores elementos para la emisión del dictamen. La documentación relativa a la prevención deberá ingresar por la Ventanilla de la citada Dirección, con el sello de acuse de recibido de la fecha de ingreso. Si la documentación es ingresada en un plazo que exceda el establecido en el Reglamento del Acto y del Procedimiento Administrativo del Municipio, la Dirección deberá informar por escrito al solicitante que el trámite es desechado debido a la falta de elementos para la dictaminación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 130.
 
-El Dictamen de Usos y Destinos Específicos deberá contener, al menos, las disposiciones aplicables siguientes:
+El Dictamen de Usos y Destinos, es el documento mediante el cual se certificará la clasificación y utilización determinadas para el Predio en la zonificación vigente, para los efectos legales de actos o documentos donde se requiera.
 
-I. La necesidad de solicitar la factibilidad por parte del Sistema Intermunicipal de Agua Potable y Alcantarillado de la Zona Metropolitana de Guadalajara;
+I. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
-II. Las disposiciones aplicables para la mitigación del impacto con respecto a su contexto;
+II. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
-III. Convivencia de la Vivienda Unifamiliar y Plurifamiliar Horizontal con los usos de Impacto Mínimo y Bajo, así como la convivencia de la vivienda vertical con los usos de Impacto Medio y Alto;
+III. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
-IV. Los requerimientos, en su caso, de Puntos Limpios;
+IV. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
-V. Las disposiciones relativas a la ubicación en zonas de valor patrimonial histórico, cultural y fisonómico, así como la reducción del requerimiento de cajones de estacionamiento;
+V. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
-VI. Las disposiciones en caso de ser una finca inventariada de valor patrimonial; y
+VI. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
-VII. Si la Dirección emitió una prevención para solicitar documentación que coadyuve a la dictaminación, el dictamen deberá incluir la referencia al análisis de la documentación requerida.
+VII. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 131.
 
-El Dictamen de Trazo, Usos y Destinos Específicos emitido deberá contener las disposiciones aplicables siguientes:
+El Dictamen de Trazo, Usos y Destinos Específicos, fundado en el Plan y en su caso, en el Plan Parcial de Desarrollo Urbano correspondiente, es el documento donde se precisarán las normas y lineamientos para la elaboración del plan de urbanización, el Proyecto Definitivo de Urbanización o el Proyecto de Edificación, así como las normas a las que se sujetarán las edificaciones afectas al Patrimonio Cultural del Estado y sus Municipios.
 
-I. Normas de Control a la Urbanización y Edificación: Coeficiente de Ocupación del Suelo, COS, Coeficiente de Utilización del Suelo, CUS, Incremento de Coeficiente de Ocupación del Suelo, ICOS, Incremento de Coeficiente de Utilización del Suelo, ICUS, Altura Máxima permisible, Índice de Edificación y Número máximo de viviendas, Restricciones a la Edificación y Porcentaje de Frente Ajardinado;
+I. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
-II. Garantizar Áreas de Cesión para Destino correspondientes, previstas en el Capítulo VII, Título Segundo de este Reglamento;
+II. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
-III. En caso de que el Predio se localice en un área de Reserva Urbana provista de infraestructura vial y de servicios, deberá solicitar que se garantice el pago por aprovechamiento de infraestructura conforme lo previsto en la Ley de Ingresos del Municipio de Guadalajara para el ejercicio fiscal vigente;
+III. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
-IV. Señalar las áreas de restricción que el Plan Parcial de Desarrollo Urbano indique;
+IV. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
-V. Recabar el trámite de Alineamiento y Número Oficial;
+V. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
-VI. Deberá solicitarse la factibilidad por parte del Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado de la Zona Metropolitana de Guadalajara, SIAPA. En caso de solicitar subdivisión, deberá solicitar dicha factibilidad para cada fracción resultante;
+VI. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
-VII. En caso de que un destino solicite Acción Urbanística, deberán señalarse las disposiciones aplicables por la normatividad establecida en los Planes Parciales;
+VII. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
-VIII. Atender el requerimiento de cajones de estacionamiento requeridos en giros, viviendas y visitantes;
+VIII. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
-IX. Los requerimientos, en su caso, de Puntos Limpios;
+IX. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
-X. En caso de tratarse de obras en predios con una superficie mayor a una hectárea, deberá solicitarse además el proyecto de urbanización y el pago por los derechos de la licencia correspondiente;
+X. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
-XI. Para el caso de subdivisiones o relotificaciones, señalar los frentes y las superficies mínimas de Predio. Cuando los predios tengan dimensiones inferiores a lo establecido en las Normas de Control a la Urbanización y Edificación, deberá solicitarse la acreditación ante la Dirección de Obras Públicas para la validación de derechos adquiridos;
+XI. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
-XII. Las disposiciones relativas a la ubicación en zonas de valor patrimonial histórico, cultural y fisonómico, así como la reducción del requerimiento de cajones de estacionamiento;
+XII. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
-XIII. Las disposiciones en caso de ser una finca inventariada de valor patrimonial;
+XIII. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
-XIV. Las disposiciones relacionadas con la Transferencia de Derechos de Desarrollo Urbano, si el Predio se localiza en áreas generadoras o receptoras y el solicitante requiere de este mecanismo; y
+XIV. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
-XV. Si la Dirección de Ordenamiento del Territorio emitió una prevención para solicitar documentación que coadyuve a la dictaminación, el dictamen deberá incluir la referencia al análisis de la documentación requerida.
+XV. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 132.
 
-Para la emisión del Dictamen de Usos y Destinos Específicos, así como del Dictamen de Trazo, Usos y Destinos Específicos, la Dirección de Ordenamiento del Territorio podrá ordenar que se lleven a cabo estudios técnicos, visitas de campo o cualquier otro recurso que le permita tener los mejores elementos para la correcta dictaminación.
+Para la emisión del Dictamen de Usos y Destinos, así como del Dictamen de Trazo, Usos y Destinos Específicos, la Dirección de Ordenamiento del Territorio podrá ordenar que se lleven a cabo estudios técnicos, visitas de campo o cualquier otro recurso que le permita tener los mejores elementos para la correcta dictaminación.
 
 ###### Artículo 133.
 
 La Dirección deberá incluir en el expediente de cada Dictamen emitido, la documentación que compruebe la aplicación de medios técnicos en las posibles omisiones que la solicitud de dictamen pueda tener.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 134.
 
-En caso de que el Predio se localice en una zona de valor patrimonial, o se encuentre incluido en el Inventario del Patrimonio Cultural Urbano Arquitectónico del Municipio de Guadalajara, se deberá incluir la clasificación del inmueble de cuya intervención se solicita, a fin de determinar si dicho inmueble se encuentra o no inventariado como patrimonio cultural ya sea federal, estatal o municipal, y de ser el caso, derivar al solicitante con la instancia correspondiente para emitir la licencia, autorización o dictamen técnico de procedencia.
+En caso de que el Predio se localice en un polígono o perímetro de protección al patrimonio, o se encuentre incluido en los inventarios o listados de competencia federal, estatal o municipal en materia de protección al patrimonio cultural urbano, se deberá incluir la clasificación del bien inmueble de cuya intervención se solicita, y de ser el caso, derivar al solicitante con la instancia o dependencia competente para que esta emita la licencia, autorización o dictamen técnico respectivo.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 135.
 
-En el caso de inmuebles de competencia exclusiva federal o estatal, la resolución del Dictamen será siempre respecto de los temas que sean competencia del Municipio, de conformidad a lo señalado en el Programa, Planes Parciales y el presente Reglamento, quedando condicionado a cumplir con los requerimientos solicitados por dichas dependencias.
+En el caso de bienes inmuebles de competencia exclusiva federal o estatal, la resolución del dictamen será siempre respecto de los temas que sean competencia del Municipio, de conformidad a lo señalado en el Programa, Plan, Planes Parciales y el presente Reglamento, quedando condicionado a cumplir con los requerimientos solicitados por dichas dependencias.
 
 ###### Artículo 136.
 
@@ -1571,11 +2003,13 @@ Cuando para un mismo Predio se soliciten 2 o más actividades de diferente impac
 
 Para las solicitudes de Dictámenes de Usos y Destinos para Licencias de Funcionamiento, no se aplicarán los requerimientos de superficie y frente mínimos, señalados en las Normas de Control a la Urbanización y Edificación.
 
-### CAPÍTULO IV. De las Licencias de Edificación
+### CAPÍTULO IV. De las Licencias de Construcción
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 138.
 
-Toda acción en áreas y predios que genere la transformación del suelo rústico a urbano; así como la autorización de subdivisiones de predios urbanos y rústicos, fusiones, conjuntos urbanos y habitacionales, fraccionamiento de terrenos, los cambios en la utilización de estos; deberán atender lo conducente en las disposiciones aplicables en la materia, las disposiciones de los ordenamientos ecológicos regionales del estado y locales, así como los programas y Planes de Desarrollo Urbano del Municipio, e Instrumentos de Planeación Urbana y los reglamentos municipales e intermunicipales que correspondan.
+Toda acción en áreas y predios que genere la transformación del suelo rústico a urbano; así como la autorización de subdivisiones de predios urbanos y rústicos, fusiones, desarrollo de condominios, conjuntos urbanos y habitacionales, fraccionamiento de terrenos, los cambios en la utilización de estos, la rehabilitación de fincas y zonas urbanas, así como la introducción, conservación o mejoramiento de las redes públicas de infraestructura y la edificación del equipamiento urbano; deberán atender lo conducente en las disposiciones aplicables en la materia, las disposiciones de los ordenamientos ecológicos regionales del estado y locales, así como los Programas y Planes de Desarrollo Urbano del Municipio, e Instrumentos de Planeación Urbana y los reglamentos municipales e intermunicipales que correspondan.
 
 ###### Artículo 139.
 
@@ -1621,9 +2055,13 @@ g) Los planos manzaneros conteniendo las dimensiones y superficies de cada Predi
 
 h) En el caso de urbanizaciones para la renovación urbana, el plano indicando el estado de la edificación existente y su grado de intervención.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
+
 II. Los planos de servicios en original que incluyen:
 
-a) Planos del proyecto de obras e instalaciones técnicas, propias de la urbanización con descripciones correspondientes, que comprenden el plano de niveles de rasantes y plataformas indicando las zonas de cortes y rellenos; el proyecto de la red de agua potable con la autorización del Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado de la Zona Metropolitana de Guadalajara, SIAPA, o el organismo operador; el proyecto de la red o del sistema de desalojo de las aguas residuales y pluviales con la autorización del Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado de la Zona Metropolitana de Guadalajara, SIAPA, o el organismo operador; el proyecto de la red de electrificación y del alumbrado público con autorización de (sic) Comisión Federal de Electricidad, CFE, y planos del proyecto de pavimentos, mecánica de suelos y características del tipo de pavimentos conforme a las normas de construcción; y
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+a) Planos del proyecto de obras e instalaciones técnicas, propias de la urbanización con descripciones correspondientes, que comprenden el plano de niveles de rasantes y plataformas indicando las zonas de cortes y rellenos; el proyecto de la red de agua potable con la autorización del Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado de la Zona Metropolitana de Guadalajara, o el organismo operador; el Proyecto de la Red o del Sistema de Desalojo de las Aguas Residuales y Pluviales con la Autorización del Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado de la Zona Metropolitana de Guadalajara, o el organismo operador; el proyecto de la red de electrificación y del alumbrado público con autorización de (sic) Comisión Federal de Electricidad, CFE, y planos del proyecto de pavimentos, mecánica de suelos y características del tipo de pavimentos conforme a las normas de construcción; y
 
 b) El plano que indique fuentes de aprovisionamiento de agua potable, sitios de descarga de los drenajes, alimentaciones eléctricas, telefónicas e instalaciones especiales y su conexión con el Predio a urbanizar.
 
@@ -1635,25 +2073,35 @@ b) El plano que, en su caso, defina las etapas de ejecución y la secuencia de l
 
 c) En su caso, los planteamientos de afectaciones a la vialidad durante la ejecución de las obras, incluyendo los desvíos del tránsito por etapas y el proyecto de señalamiento de orientación del tránsito y de protección de las obras.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
+
 IV. La documentación complementaria:
 
 a) El proyecto de reglamento al que se sujetarán los adquirientes de los predios o fincas; y
 
-b) La autorización de las dependencias y organismos federales, o sus concesionarios, que controlen los diferentes servicios públicos. El proyecto definitivo de urbanización se integrará con los documentos, que exige (sic) los artículos 234 y 235 del Código Urbano del Estado de Jalisco.
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+b) La autorización de las dependencias y organismos federales, o sus concesionarios, que controlen los diferentes servicios públicos. El Proyecto Definitivo de Urbanización se integrará con los documentos, que exige (sic) los artículos 234 y 235 del Código.
 
 V. Las demás que por la naturaleza de la Acción Urbanística dispongan los ordenamientos aplicables o lo que requiera la Dirección de Obras Públicas.
 
-Habiendo sido aprobado el Proyecto Definitivo de Urbanización por parte de la Dirección de Obras Públicas, esta emite la Licencia de Urbanización una vez que se haya enterado el pago de los derechos respectivos, de acuerdo a la Ley de Ingresos del Municipio de Guadalajara vigente, en el tiempo máximo de respuesta establecido en el de 20 días hábiles.
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+Habiendo sido aprobado el Proyecto Definitivo de Urbanización por parte de la Dirección de Obras Públicas, esta emite la Licencia de Urbanización una vez que se haya enterado el pago de los derechos respectivos, de acuerdo a la Ley de Ingresos del Municipio vigente, en el tiempo máximo de respuesta establecido de 5 días hábiles.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 144.
 
-Para autorizar desarrollos urbanos mayores a una hectárea o que se prevea contar con una población mayor de 10,000 habitantes, es requisito la elaboración del Proyecto de Integración Urbana de acuerdo con lo señalado en el Código, así como tramitar el Dictamen de Trazo, Usos y Destinos Específicos.
+Para autorizar acciones urbanísticas mayores que requieran la obtención de Licencia de Urbanización, es requisito la elaboración del Proyecto de Integración Urbana, así como tramitar el Dictamen de Trazo, Usos y Destinos Específicos, de acuerdo con lo señalado en el Código.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 145.
 
 Una vez aprobado el Proyecto de Integración Urbana por la dependencia técnica, deberá elaborarse el Proyecto Definitivo de Urbanización de acuerdo con lo señalado en los artículos 257 y 258 del Código, observando las normas técnicas de diseño urbano, ingeniería urbana e ingeniería vial, señaladas en la normatividad legal y reglamentaria aplicable al momento de su elaboración.
 
-Si dentro de un periodo de 30 días hábiles el promotor, urbanizador o propietario no cumplen con la corrección de las observaciones hechas en la revisión de su proyecto definitivo, se le reintegrará su expediente, teniendo que volver a iniciar su trámite de Licencia de Urbanización con una nueva solicitud.
+Si dentro de un periodo de 30 días hábiles, el promotor, urbanizador o propietario no cumplen con la corrección de las observaciones hechas en la revisión de su proyecto definitivo, se le tendrá por desechado su trámite y podrá solicitar la devolución de su expediente, teniendo que volver a iniciar su trámite de Licencia de Urbanización con una nueva solicitud.
 
 ###### Artículo 146.
 
@@ -1671,9 +2119,11 @@ Los proyectos técnicos presentados, deberán ser revisados y avalados por el á
 
 Para otorgar la autorización de la Licencia de Urbanización, se deberá haber cumplido conforme a lo señalado en el Capítulo II, artículos del 247 al 266 del Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 150.
 
-Recibida la manifestación de terminación de obra, la Dirección de Obras Públicas realizará la inspección correspondiente para verificar el cumplimiento de los requisitos señalados en la Licencia de Urbanización respectiva, comparando lo ejecutado con los planos de proyecto y demás documentos que hayan servido de base para el otorgamiento de la Licencia de Urbanización. Una vez cumplido lo anterior, se procede a la entrega de la obra por parte del urbanizador y a la recepción de la misma por parte de la autoridad municipal, a través de un acta de certificación de hechos ante Notario Público, constituyéndose desde este momento la autoridad municipal, como responsable de la operación y mantenimiento de las obras de urbanización. La Dirección de Obras Públicas permitirá diferencias en la obra ejecutada con respecto al proyecto aprobado, siempre y cuando las mismas sean manifestadas a la autoridad municipal para su previa autorización y que no afecten las restricciones y condiciones marcadas en los Programas y Planes de Desarrollo Urbano o en los dictámenes y normas de este Reglamento.
+Recibida la manifestación de terminación de obra, la Dirección de Obras Públicas realizará la inspección correspondiente para verificar el cumplimiento de los requisitos señalados en la Licencia de Urbanización respectiva, comparando lo ejecutado con los planos de proyecto y demás documentos que hayan servido de base para el otorgamiento de la Licencia de Urbanización. Una vez cumplido lo anterior, se procede a la entrega de la obra por parte del urbanizador y a la recepción de la misma por parte de la autoridad municipal, a través de un acta de certificación de hechos ante Notario Público, constituyéndose desde este momento la autoridad municipal, como responsable de la operación y mantenimiento de las obras de urbanización. La Dirección de Obras Públicas permitirá diferencias en la obra ejecutada con respecto al proyecto aprobado, siempre y cuando las mismas sean manifestadas a la autoridad municipal para su previa autorización y que no afecten las restricciones y condiciones marcadas en el Programa, el Plan y/o los Planes Parciales o en los dictámenes y normas de este Reglamento.
 
 Si como resultado de la inspección y el cotejo de la documentación correspondiente, apareciera que la obra no se ajustó a las normas, restricciones y licencia autorizada, la Dirección de Obras Públicas aplicará las sanciones correspondientes y ordenará al urbanizador efectuar las modificaciones que fuesen necesarias y en tanto estas no se ejecuten a satisfacción de la propia autoridad, las obras no serán recibidas.
 
@@ -1683,9 +2133,11 @@ Para realizar la recepción de las obras de urbanización autorizadas bajo una l
 
 Para el caso de obras de urbanización en Predio bajo régimen jurídico condominal, además de lo dispuesto en el artículo anterior, según su aplicación, deberán de cumplir con lo señalado en los artículos 302 y 303 del Código.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 152.
 
-Es requisito indispensable para las obras de urbanización, ya sean del orden público o del régimen condominal, el otorgar por parte del urbanizador, una fianza equivalente al 20% del costo de urbanización con el fin de garantizar los vicios ocultos de las obras, por un plazo no menor de 3 años a partir de la fecha de recepción y certificado de habitabilidad en su caso.
+Es requisito indispensable para las obras de urbanización, el otorgar por parte del urbanizador, una fianza de conformidad a la Ley de Ingresos vigente, con el fin de garantizar los vicios ocultos de las obras, por un plazo no menor de 2 años a partir de la fecha de recepción y certificado de habitabilidad en su caso.
 
 ###### Artículo 153.
 
@@ -1693,23 +2145,29 @@ La vigencia de las Licencias de Urbanización que expida la Dirección de Obras 
 
 Terminado el plazo para urbanizar señalado en la Licencia de Urbanización sin que esta se haya concluido, para continuarla deberá solicitar su refrendo respectivo para estar vigente cubriendo los derechos correspondientes establecidos en la Ley de Ingresos vigente.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 154.
 
-Con fundamento en lo que señala el artículo 267 fracción II del Código, la suspensión de la Licencia de Urbanización tendrá como máximo un periodo de gracia de 2 años, si al término de este no ha sido reactivada, para continuar vigente deberá pagar el refrendo correspondiente por el tiempo posterior requerido, mismo que será cuantificado en base a lo que señale la Ley de Ingresos Municipal vigente al momento de su petición.
+Con fundamento en lo que señala el artículo 267 fracción III del Código, la suspensión de la Licencia de Urbanización tendrá como máximo un periodo de gracia de 2 años, si al término de este no ha sido reactivada, para continuar vigente deberá pagar el refrendo correspondiente por el tiempo posterior requerido, mismo que será cuantificado en base a lo que señale la Ley de Ingresos Municipal vigente al momento de su petición.
 
 ###### Artículo 155.
 
 Para estar en posibilidades de iniciar una preventa en cualquiera de los tipos de Uso o Destino, deberá solicitarlo a la autoridad municipal correspondiente, cumpliendo con los requisitos que establezca la misma autoridad, y con fundamento en lo que señala el artículo 298 del Código.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 156.
 
-Cuando se pretenda urbanizar el suelo o construir condominios y/o conjuntos habitacionales en cualquiera de los tipos de zona, y que de acuerdo a su respectivo Plan de Desarrollo Urbano presente restricción por traza vial, automáticamente deberá tramitar su Licencia de Urbanización y por ende la aplicación de la normatividad correspondiente, como es el caso de las Áreas de Cesión para Destinos.
+Cuando se pretenda realizar obras de urbanización, condominios o conjuntos habitacionales, subdivisiones y relotificaciones en cualquiera de los tipos de zona, y que de acuerdo a su respectivo Plan Parcial de Desarrollo Urbano presente restricción por traza vial, automáticamente deberá tramitar su Licencia de Urbanización y por ende la aplicación de la normatividad correspondiente, como es el caso de las Áreas de Cesión para Destinos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.M. 24 DE ABRIL DE 2017)</small>
 
 ### CAPÍTULO V. De la Dictaminación en Materia de Movilidad
 
 ###### Artículo 157.
 
-Para iniciar el proceso de autorización de Licencia de Edificación, es necesario obtener previamente el Dictamen de Trazo, Usos y Destinos Específicos, el cual deberá respetar los lineamientos técnicos y legales establecidos en el Programa Municipal de Desarrollo Urbano, Planes Parciales de Desarrollo Urbano y demás normatividad aplicable a la materia.
+Para iniciar el proceso de autorización de licencia de construcción, es necesario obtener previamente el Dictamen de Trazo, Usos y Destinos Específicos, el cual deberá respetar los lineamientos técnicos y legales establecidos en el Programa, el Plan, Planes Parciales y demás normatividad aplicable a la materia. Queda exenta de esta obligación la vivienda unifamiliar.
 
 ###### Artículo 158.
 
@@ -1719,9 +2177,11 @@ Los proyectos arquitectónicos y la ejecución de obras de edificación deberán
 
 Los proyectos ejecutivos y las construcciones, deberán cumplir las especificaciones necesarias para la estabilidad estructural y servicio o función de sus diversos elementos e instalaciones según las normas técnicas y previsiones de seguridad, salubridad, comodidad, acordes con su magnitud, uso, destino y ubicación así como, los requisitos mínimos de ventilación e iluminación y los espacios diseñados para proporcionar tal servicio. Dichos proyectos deberán ser signados por el autor del proyecto quien deberá fungir como director responsable en los términos de lo establecido por el Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 160.
 
-Toda construcción que se pretenda realizar requerirá de la Licencia de Edificación, con excepción de aquellos casos señalados en el artículo 163 del presente Reglamento, expedida por el Municipio, de acuerdo con la zonificación establecida en los Planes y Programas de Desarrollo Urbano aplicables; y conforme a las normas establecidas en el Código, sus disposiciones reglamentarias, las normas específicas para la clasificación y el género respectivo como mínimo y se sujetarán a lo establecido en el presente Reglamento y demás leyes, reglamentos y normas técnicas aplicables, debiendo para tal efecto:
+Toda construcción que se pretenda realizar requerirá de la licencia de construcción, con excepción de aquellos casos señalados en el artículo 163 del presente Reglamento, expedida por el Municipio, de acuerdo con la zonificación establecida en los Planes y Programas de Desarrollo Urbano aplicables; y conforme a las normas establecidas en el Código, sus disposiciones reglamentarias, las normas específicas para la clasificación y el género respectivo como mínimo y se sujetarán a lo establecido en el presente Reglamento y demás leyes, reglamentos y normas técnicas aplicables, debiendo para tal efecto:
 
 I. Observar los Instrumentos de Planeación Urbana y la zonificación establecida en los mismos;
 
@@ -1737,29 +2197,63 @@ VI. Contar con los accesos adecuados y los espacios para estacionamiento para ve
 
 VII. Contar durante la ejecución de la obra con un plan de atención a emergencias de acuerdo al tipo de obra que se trate de conformidad con el dictamen emitido por la Dirección de Protección Civil y Bomberos; y
 
-VIII. Cumplir con lo previsto en con (sic) el dictamen emitido por la Dirección de Protección Civil y Bomberos para realizar trabajos en altura.
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+VIII. Cumplir con lo previsto en el dictamen emitido por la Dirección de Protección Civil y Bomberos para realizar trabajos en altura.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 161.
 
-En toda Acción Urbanística mayor, pública o privada realizadas y autorizadas por el Ayuntamiento, el propietario o promotor deberá generar las superficies de áreas verdes determinadas en los planes o los que determine la Dirección de Medio Ambiente, sin perjuicio de la obligación de generar al frente del Predio o construcción un espacio entre la banqueta y el machuelo (jardinera o arriate), en el cual colocará un árbol de 1.50 metros de altura como mínimo a cada 6 metros lineales con relación del frente del Predio y, de preferencia de las variedades establecidas en el ordenamiento regulador en materia de parques, jardines y recursos forestales en el Municipio, obligándose a darles un adecuado mantenimiento y conservación.
+En toda Acción Urbanística mayor, pública o privada realizadas y autorizadas por el Ayuntamiento, el propietario o promotor deberá colocar en la banqueta, como mínimo, un árbol a cada 6 metros lineales con relación del frente del Predio, cuyas dimensiones mínimas son las siguientes:
 
-Únicamente en casos excepcionales que, por la sección de la banqueta o algún otro elemento físico o característica arquitectónica impida su colocación, se puede eximir la norma establecida en el punto anterior, previa autorización de la dependencia técnica que emita el dictamen o licencia correspondiente.
+I. Cada árbol deberá tener una altura de 2.5 metros de altura y un diámetro de tronco de 1.5 pulgadas medida a 15 centímetros del cuello de la raíz; y
 
-En toda Acción Urbanística pública y privada autorizada, solo se permitirá el derribo o poda de árboles que se ubiquen dentro del Predio, bajo los términos que establezca el dictamen que al efecto emita la Dirección de Parques y Jardines.
+II. Las especies deben ser de las variedades establecidas en el ordenamiento regulador en materia de parques, jardines y recursos forestales en el municipio.
+
+Salvo imposibilidad manifiesta, se puede eximir la norma establecida en el párrafo anterior, previa autorización de la dependencia técnica que emita la licencia correspondiente, sin perjuicio del cumplimiento de la normativa en materia de banquetas de este Reglamento.
+
+En toda Acción Urbanística pública y privada autorizada, solo se permitirá el derribo o poda de árboles que se ubiquen dentro del predio, bajo los términos que establezca el dictamen que al efecto emita la Dirección de Parques y Jardines.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 162.
 
-Previo a otorgar permisos para nuevas construcciones en áreas no urbanizadas, deberá contar con la factibilidad de servicios hidráulicos, la cual se tramitará en el Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado.
+Previo a otorgar permisos para nuevas construcciones en áreas no urbanizadas, además de cumplir con lo establecido en el Capítulo III De las Urbanizaciones de este Reglamento, deberá contar con la factibilidad de servicios hidráulicos, la cual se tramitará en el organismo operador correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 163.
 
-Para la expedición de licencias, los trabajos de rehabilitación, pueden realizarse sin permiso de construcción siempre y cuando no se trate de inmuebles patrimoniales y/o ubicados en zonas, perímetros y polígonos de conservación, protección y preservación del patrimonio cultural urbano de conformidad a las disposiciones reglamentarias en la materia, a estas últimas, únicamente se les requiere el dictamen favorable previo emitido por la autoridad federal, estatal o municipal competente, tratándose sólo de alguno de los siguientes casos:
+Para la expedición de licencias, los trabajos de rehabilitación, pueden realizarse sin permiso de construcción siempre y cuando no se trate de bienes inmuebles patrimoniales registrados en inventarios de competencia federal, estatal o municipal en materia de conservación, protección y preservación del patrimonio cultural urbano, de conformidad a las disposiciones reglamentarias en la materia; a estas últimas, únicamente se les requiere el dictamen favorable previo emitido por la autoridad federal, estatal o municipal competente, con excepción de las fincas catalogadas como Ambientales y no Ambientales, que no necesiten dictamen de la autoridad en materia de patrimonio, tratándose sólo de alguno de los siguientes casos:
+
+> <small>(REFORMADA [N. DE E. ], G.M. 24 DE ABRIL DE 2017)</small>
 
 I. Construcción y reparación de banquetas;
 
-II. Reparaciones, reposición de acabados, trabajos de mantenimiento o mejoramiento llevados a cabo en el interior de una edificación, siempre y cuando no impliquen modificaciones estructurales, de espacios, del estado original de la edificación o de cambios de uso de suelo; y
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
-III. Trabajos de mantenimiento, reparación, reposición de acabados de fachadas menores a 2 niveles, rejas o marquesinas que no modifiquen el estado original de la edificación.
+II. Reparaciones, reposición de acabados, trabajos de mantenimiento o mejoramiento llevados a cabo en el interior de una edificación, siempre y cuando no impliquen modificaciones estructurales, de espacios, del estado original de la edificación o de cambios de uso de suelo;
+
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+III. Trabajos de mantenimiento, reparación, reposición de acabados de fachadas menores a 2 niveles, rejas o marquesinas que no modifiquen el estado original de la edificación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 24 DE ABRIL DE 2017)</small>
+
+IV. Acciones emergentes para prevención de accidentes, con reserva de comunicar a la Dirección de Obras Públicas dentro del plazo menor a las setenta y dos horas a partir de la iniciación de las obras;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 24 DE ABRIL DE 2017)</small>
+
+V. Construcciones de carácter provisional dentro del Predio, para uso de oficina de obra, bodegas, letrinas o vigilancia en el Predio donde se edifique la obra y los servicios provisionales correspondientes, entendiéndose que estas construcciones provisionales solo se utilizarán durante el tiempo de ejecución de la obra y al término de la misma deberán ser retiradas por el responsable de la obra;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 24 DE ABRIL DE 2017)</small>
+
+VI. Reparaciones en instalaciones eléctricas, hidráulicas, sanitarias, que no impliquen ningún tipo de ampliaciones o modificaciones a la estructura de la finca; e
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 24 DE ABRIL DE 2017)</small>
+
+VII. Impermeabilizaciones, reparaciones integrales de azoteas sin afectar los elementos estructurales.
 
 La exención de la Licencia de Construcción no libera a los propietarios de la responsabilidad de la ejecución de los trabajos, ni de la obligación de respetar las normas técnicas de construcción de la legislación vigente, además de que los mismos trabajos, están sujetos a la supervisión de la autoridad municipal para efectos de su verificación y cumplimiento.
 
@@ -1805,9 +2299,11 @@ IX. Marquesinas adosadas; y
 
 X. Movimientos de tierras cuando el corte sea mayor a 50 centímetros de profundidad o cuando este se realice a una distancia menor a 1.50 metros de las construcciones aledañas.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 166.
 
-Para hacer modificaciones al proyecto original, éstas se deben presentar para conocimiento de la Dirección de Obras Públicas y deben sujetarse al mismo uso y superficie del proyecto autorizado y durante el tiempo de vigencia de la licencia. Todo cambio debe respetar las disposiciones de los Programas y Planes de Desarrollo Urbano y el presente Reglamento y las restricciones y especificaciones del dictamen, alineamiento y demás autorizaciones de acuerdo a la naturaleza de la Acción Urbanística, en caso de no cumplirse, se aplicarán las sanciones correspondientes.
+Para hacer modificaciones al proyecto original, estas se deben presentar para validación de la Dirección de Obras Públicas y deben sujetarse al mismo uso y superficie del proyecto autorizado y durante el tiempo de vigencia de la licencia. Todo cambio debe respetar las disposiciones de los Programas y Planes de Desarrollo Urbano y el presente Reglamento y las restricciones y especificaciones del dictamen, alineamiento y demás autorizaciones de acuerdo a la naturaleza de la Acción Urbanística, en caso de no cumplirse, se aplicarán las sanciones correspondientes.
 
 ###### Artículo 167.
 
@@ -1833,9 +2329,11 @@ IV. Emitir vistos buenos, aprobar equipamiento de infraestructura ciclista y pea
 
 V. Reducir cajones de estacionamiento a partir de los lineamientos que la dependencia emita.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 169.
 
-Se requiere de estudios de impacto en el tránsito como parte integral de los Planes Parciales o del Proyecto Definitivo de Urbanización y arquitectónico, en todas aquellas acciones urbanísticas y de edificación que por su naturaleza o la magnitud de sus efectos en el contexto urbano presenten impactos de alcance zonal, urbano o regional, de conformidad con los lineamientos y disposiciones técnicas emitidas por la Dirección de Movilidad y Transporte considerando para ello los siguientes usos y criterios:
+Se requiere de estudios de impacto al tránsito como parte integral de los Proyectos de Integración Urbana o del Proyecto Definitivo de Urbanización y arquitectónico, en todas aquellas acciones urbanísticas y de edificación que por su naturaleza o la magnitud de sus efectos en el contexto urbano presenten impactos de alcance zonal, urbano o regional, de conformidad con los lineamientos y disposiciones técnicas emitidas por la Dirección de Movilidad y Transporte considerando para ello los siguientes usos y criterios:
 
 I. Centros y plazas comerciales;
 
@@ -1851,37 +2349,49 @@ VI. Edificios de oficinas, apartamentos y usos mixtos;
 
 VII. Conjuntos o unidades administrativas públicas o privadas;
 
-VIII. Conjuntos habitacionales de más de 85 viviendas; y
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
-IX. Desarrollos de cualquier tipo que generen más de 100 viajes en la hora de máxima demanda lo cual en términos de cajones de estacionamiento seria al prever más (sic) 126 cajones.
+VIII. Conjuntos habitacionales de alta densidad plurifamiliar vertical de más de 500 viviendas.
+
+IX. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 170.
 
-Se requiere de estudios de integración a la vialidad como parte integral del proyecto definitivo de construcción en los casos que la Dirección de Movilidad y Transporte determine. El objeto de este estudio es regular y establecer el diseño de las entradas, salidas y ubicación de todos aquellos predios de carácter público-privado que por las características de su giro requieran un análisis de factibilidad, así como la relación de estos con el espacio público con el fin de minimizar los problemas que se causan al tránsito de peatones, ciclistas y vehículos sobre la vía pública afectada, de acuerdo con los lineamientos de la Dirección de Movilidad y Transporte.
+Se requiere de estudios de integración vial como parte integral del Proyecto Definitivo de Urbanización en los casos en que lo determine la normatividad en materia de movilidad y transporte que el Ayuntamiento emita para tales efectos. El objeto de este estudio es regular y establecer el diseño de las entradas, salidas y ubicación de todos aquellos predios de carácter público o privado que por las características de su giro requieran un análisis de factibilidad, así como la relación de estos con el espacio público con el fin de minimizar los problemas que se causan al tránsito de peatones, ciclistas y vehículos sobre la vía pública afectada.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 171.
 
-Los estudios de impacto en el tránsito, así como de integración vial se deberán realizar tanto para los desarrollos urbanos en el proceso de ejecución de su proyecto definitivo de urbanización como para las obras de edificación durante la elaboración de los estudios y proyectos constructivos. Con los resultados de estos estudios, se deberá conocer la forma como la utilización del uso del suelo puede afectar el sistema vial y de transporte en donde se encuentre enclavado, los requerimientos que deban aplicarse para mantener o mejorar el nivel de servicio de estos sistemas y garantizar la seguridad vial. De la misma forma se deberá conocer la compatibilidad en materia de acciones de vialidad y transporte que indique el presente Reglamento y los Instrumentos de Planeación del Territorio.
+Los estudios de impacto al tránsito, así como de integración vial, también denominados de ingresos y salidas, se deberán realizar tanto para los desarrollos urbanos en el proceso de ejecución del Proyecto Definitivo de Urbanización como para las obras de edificación, durante la elaboración de los estudios y proyectos constructivos. Con los resultados de estos estudios, se deberá conocer la forma como la utilización del uso del suelo puede afectar el sistema vial y de transporte en donde se encuentre enclavado, los requerimientos que deban aplicarse para mantener o mejorar el nivel de servicio de estos sistemas y garantizar la seguridad vial. De la misma forma se deberá conocer la compatibilidad en materia de acciones de vialidad y transporte que marque el presente Reglamento y los Instrumentos de Planeación del Territorio.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 172.
 
-Toda solicitud para la dictaminación de estudio de impacto al tránsito o de integración vial, será parte integral y considerada como ingeniería en los procesos de licencia para un proyecto definitivo de urbanización o construcción, y deberá ir acompañada de la carta de aceptación del perito corresponsable en los términos de lo establecido en el Reglamento para la Gestión Integral del Municipio de Guadalajara, solo se autorizarán como peritos corresponsables para definir la ingeniería de tránsito en obras de urbanización y/o edificación los profesionistas con título de arquitecto, ingeniero civil o profesiones afines, conforme las reglas que expida para este dictamen la Dirección de Movilidad y Transporte.
+Toda solicitud para la dictaminación de estudio de impacto al tránsito o de integración vial, será parte integral y considerada como ingeniería en los procesos de licencia para un Proyecto Definitivo de Urbanización o construcción, y deberá ir acompañada de la carta de aceptación del perito corresponsable en los términos de lo establecido en este Reglamento, solo se autorizarán como peritos corresponsables para definir la ingeniería de tránsito en obras de urbanización y/o edificación, los profesionistas con título de arquitecto, ingeniero civil o profesiones afines, conforme las reglas que expida para este dictamen la Dirección de Movilidad y Transporte.
 
 ###### Artículo 173.
 
 La Dirección de Movilidad y Transporte, será la encargada de aprobar los proyectos de protección de obra para garantizar y preservar el libre tránsito de peatones y de seguridad vial de acuerdo con la normatividad aplicable.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 174.
 
-Para la reducción de cajones de estacionamiento, de acuerdo con los lineamientos emitidos por la Dirección de Movilidad y Transporte, para cualquier desarrollo inmobiliario, estará sujeta al visto bueno de esta dependencia, previo ingreso de proyecto arquitectónico, con la finalidad de reducir el número de viajes en automóvil particular y promover la multimodalidad. Los lineamientos que la Dirección de Movilidad y Transporte emita para reducir el número de cajones de estacionamiento deberán de estar con estricto apego al reglamento de la materia, y a falta de normatividad municipal, se aplicara los criterios que así determine la dirección conforme a sus atribuciones.
+La Dirección de Movilidad y Transporte emitirá los lineamientos para la reducción del número de cajones de estacionamiento, con estricto apego al reglamento de la materia y la normatividad municipal aplicable. Para la aplicación de estos lineamientos para cualquier desarrollo inmobiliario, estará sujeto al visto bueno de esta dependencia, previo ingreso del proyecto arquitectónico, con la finalidad de reducir el número de viajes en automóvil particular y promover la multimodalidad.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 175.
 
-La Dirección de Movilidad y Transporte, será la encargada de otorgar vistos buenos a todas aquellas modificaciones a particulares que se realicen en espacio público en materia de infraestructura peatonal y equipamiento ciclista, asimismo autorizará las permutas de cajones de estacionamientos por infraestructura peatonal, ciclista y/o área verde.
+La Dirección de Movilidad y Transporte, será la encargada de otorgar vistos buenos a todas aquellas modificaciones efectuadas por particulares, que se realicen en espacio público en materia de infraestructura peatonal y equipamiento ciclista; asimismo autorizará las permutas de cajones de estacionamientos por infraestructura peatonal, ciclista y/o área verde.
 
 ###### Artículo 176.
 
-Los estudios de impacto en el tránsito, así como de Integración Vial también denominados de ingresos y salidas, se deberán realizar tanto para los desarrollos urbanos en el proceso de ejecución de su Plan Parcial de la Urbanización como para las obras de edificación durante la elaboración de los estudios y proyectos constructivos. Con los resultados de estos estudios, se deberá conocer la forma como la utilización del uso del suelo puede afectar el sistema vial y de transporte en donde se encuentre enclavado, los requerimientos que deban aplicarse para mantener o mejorar el nivel de servicio de estos sistemas y garantizar la seguridad vial. De la misma forma se deberá conocer la compatibilidad en materia de acciones de vialidad y transporte que marque el presente Reglamento y los Instrumentos de Planeación del Territorio.
+(DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
 ###### Artículo 177.
 
@@ -1893,37 +2403,41 @@ II. El técnico responsable del estudio, deberá establecer contacto inicial con
 
 III. Presentar para validación y visto bueno la propuesta de alcances de estudio con base en la Guía de Apoyo y Contenidos Básicos publicados en la página Web del Municipio, la ficha descriptiva del proyecto, la definición del área de estudio, puntos y formatos de aforos (vehiculares, peatonales y ciclistas), elaboración del programa de trabajo con base en el cual se realizará las entregas parciales y revisión de los apartados del Estudio y apertura de bitácora.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 178.
 
-La solicitud de estudios de impacto al tránsito o de integración vial se presentará en la Dirección de Movilidad y Transporte y deberá contener y acompañarse en original para cotejo, y copia simple de lo siguiente:
+La solicitud de estudios de impacto al tránsito o de integración vial se presentará en la Dirección de Movilidad y Transporte, deberá contener el nombre del promovente y correo electrónico para recibir notificaciones, y deberá acompañarse en original para cotejo, y copia simple de lo siguiente:
 
-I. Dictamen de Trazo, Usos y Destinos del Suelo (favorable);
+I. Dictamen de Trazo, Usos y Destinos del Suelo favorable;
 
 II. Alineamiento y número oficial;
 
 III. Copia de escritura que ampare la propiedad del Predio;
 
-IV. Copia del Acta de la empresa en caso de tratarse de persona moral;
+IV. Copia del Acta Constitutiva en caso de tratarse de persona jurídica;
 
 V. Oficio en el cual se especifique el nombre completo del propietario y promotor, del representante legal en su caso, datos de ubicación del Predio objeto del trámite, domicilio y colonia, así como del uso(s) proyectado;
 
-VI. Carta poder Certificada (cotejo de firmas) con membrete de la empresa, indicando el trámite a realizar con 2 testigos, expedida por el propietario o representante legal hacia el técnico responsable que realizará el estudio de impacto al tránsito o de integración vial, presentar en original y copia;
+VI. Carta poder Certificada con membrete de la empresa, indicando el trámite a realizar con 2 testigos, expedida por el propietario o representante legal hacia el técnico responsable que realizará el estudio de impacto al tránsito o de integración vial;
 
-VII. Presentar copia de identificaciones oficiales del propietario, del promotor y del técnico responsable;
+VII. Identificación oficial del propietario, del promotor y del técnico responsable;
 
-VIII. Pago de derechos para revisión y emisión de Dictamen;
+VIII. Pago de derechos para revisión y emisión de dictamen;
 
-IX. Copia del número de Registro asignado al Profesionista con cédula profesional (urbanista, arquitecto o ingeniero en transporte) que será el responsable técnico del estudio;
+IX. Número de Registro asignado al Profesionista con Cédula Profesional (urbanista, arquitecto o ingeniero en transporte) que será el responsable técnico del estudio;
 
-X. Planos impresos formato 60 x 90 y en digital del proyecto ejecutivo de la promoción urbana sujeta a dictaminación, firmada por el Perito responsable del proyecto; y
+X. Planos impresos formato 60 x 90 y en digital del proyecto ejecutivo de la promoción urbana sujeta a dictaminación, firmada por el perito responsable del proyecto; y
 
-XI. Bitácora electrónica, (física en su caso), aperturada y aprobado su programa de trabajo por parte del Área (sic) la Unidad de Gestión del Transporte y Tránsito.
+XI. Bitácora electrónica, (física en su caso), aperturada y aprobado su programa de trabajo por parte del Área de Gestión del Transporte y Tránsito.
 
-El expediente deberá estar completo para ser sujeto de recepción por parte de la Dirección de Movilidad y Transporte, en caso contrario se negará su recepción.
+Cuando la solicitud que presenten los interesados no contengan los datos o no cumplan con los requisitos aplicables, la Dirección de Movilidad y Transporte deberá prevenir a los interesados por una sola vez, notificándolo al correo electrónico proporcionado en su solicitud y para que subsanen la omisión dentro de cinco días hábiles contados a partir de que haya surtido efectos la notificación; transcurrido el plazo correspondiente sin desahogar la prevención, se desechará el trámite.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 179.
 
-Los estudios de impacto en el tránsito deberán contener como mínimo, lo siguiente:
+Los estudios de impacto al tránsito deberán contener como mínimo, lo siguiente:
 
 I. Propósito del Estudio:
 
@@ -1937,17 +2451,25 @@ a) Generalidades del Desarrollo; y
 
 b) Recopilación de información documental.
 
-III. Definición de la Zona en Estudio y su Área de Influencia:
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
-a) Localización del Predio en Estudio; y
+III. Definición de la zona en estudio y su área de influencia:
 
-b) Determinación de las Áreas de Influencia, directa e indirecta.
+a) Localización del Predio en estudio; y
+
+b) Determinación de las áreas de influencia, directa e indirecta.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
 
 IV. Diagnóstico Integral:
 
-a) Descripción del Sistema y/o Estructura Vial Existente;
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
-b) Determinación Física de las Vialidades al Momento del Estudio;
+a) Descripción del sistema y/o estructura vial existente;
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+b) Determinación física de las vialidades al momento del estudio;
 
 c) Secciones Transversales;
 
@@ -1961,29 +2483,43 @@ g) Identificación de los dispositivos de control del tránsito (semáforos, top
 
 h) Puntos de conflicto detectados.
 
-V. Investigación de los Usos del Suelo Actuales y Futuros dentro del Área en Estudio:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
+
+V. Investigación de los usos del suelo actuales y futuros dentro del área en estudio:
 
 a) Usos de suelo predominante que se presentan a lo largo de cada una de las vías que componen el polígono con el propósito de asociar el comportamiento de la demanda con los mismos;
 
-b) Previsiones de usos del suelo, proyectos urbanos y viales de acuerdo al PPDU vigente; y
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
-c) Presentación y explicación del Dictamen de Uso del Suelo respecto a condicionantes de diseño, (movilidad y transporte), que deberá resolver el desarrollo en su Predio y área inmediata:
+b) Previsiones de usos del suelo, proyectos urbanos y viales de acuerdo al plan parcial de desarrollo urbano vigente; y
 
-VI. Determinación Física de la Operación del Transporte Colectivo en el Área y sus Perspectivas en Desarrollo:
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+c) Presentación y explicación del dictamen de uso del suelo respecto a condicionantes de diseño, (movilidad y transporte), que deberá resolver el desarrollo en su Predio y área inmediata.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
+
+VI. Determinación física de la operación del transporte colectivo en el área y sus perspectivas en desarrollo:
 
 a) Levantamiento de rutas de transporte público detallando las características de las mismas: origen-destino; índices de ocupación; frecuencia de paso; puntos de parada en la zona, finalizando con un análisis de zonas con cobertura y sin cobertura; y
 
 b) En caso de existir en su proximidad líneas de transporte masivo y semi-masivo, recopilar información del sistema y estaciones cercanas y con cobertura al polígono de estudio.
 
-VII. Levantamiento de la Información sobre Volúmenes de Tránsito en Días y Horas Representativas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
+
+VII. Levantamiento de la información sobre volúmenes de tránsito en días y horas representativas:
 
 a) Flujos peatonales, ciclistas y vehiculares considerando la composición de los mismos y todos aquellos puntos de incorporación y flujos que por su importancia afecten a la operación de la vialidad.
 
-VIII. Análisis de Accidentes de Tránsito en la Zona:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
+
+VIII. Análisis de accidentes de tránsito en la zona:
 
 a) Identificar, cuantificar y matizar los hechos de tránsito en la zona cualificando el comportamiento de cada sitio.
 
-IX. Velocidades y Tiempos de Recorrido:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
+
+IX. Velocidades y tiempos de recorrido:
 
 a) El objetivo de este inciso es evaluar la calidad del movimiento vehicular a lo largo de una ruta o vialidad y determinar la ubicación, tipo y magnitud de las demoras de tránsito.
 
@@ -1995,7 +2531,9 @@ XI. Estudio de flujos de saturación en intersecciones (análisis de colas):
 
 a) Estimar la capacidad de flujo de las intersecciones semaforizadas, con la intensión de entender la capacidad de un acceso a una intersección, entiéndase que el flujo de saturación es la tasa máxima de salidas que puede ser obtenida cuando existan colas.
 
-XII. Generación, Distribución y Asignación de Viajes Futuros:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
+
+XII. Generación, distribución y asignación de viajes futuros:
 
 a) Estimación del tráfico generado en función de los usos del suelo;
 
@@ -2037,9 +2575,11 @@ d) Actualización de los análisis de capacidad y nivel de servicio.
 
 XVI. Recomendaciones Finales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 180.
 
-Los estudios de Integración Vial (ingresos y salidas) deberán contener:
+Los estudios de integración vial (ingresos y salidas) deberán contener:
 
 I. Propósito del Estudio:
 
@@ -2053,17 +2593,25 @@ a) Generalidades del Desarrollo; y
 
 b) Recopilación de información documental.
 
-III. Definición de la Zona en Estudio y su Área de Influencia:
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
-a) Localización del Predio en Estudio; y
+III. Definición de la zona en estudio y su área de influencia:
 
-b) Determinación de las Áreas de Influencia, directa e indirecta.
+a) Localización del Predio en estudio; y
+
+b) Determinación de las áreas de influencia, directa e indirecta.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
 
 IV. Diagnóstico Integral:
 
-a) Descripción del Sistema y/o Estructura Vial Existente;
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
-b) Determinación Física de las Vialidades al Momento del Estudio;
+a) Descripción del sistema y/o estructura vial existente;
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+b) Determinación física de las vialidades al momento del estudio;
 
 c) Secciones Transversales;
 
@@ -2081,25 +2629,37 @@ V. Investigación de los usos del suelo actuales y futuros dentro del área en e
 
 a) Usos de suelo predominantes que se presentan a lo largo de cada una de las vías que componen el polígono con el propósito de asociar el comportamiento de la demanda con los mismos;
 
-b) Previsiones de usos del suelo, proyectos urbanos y viales de acuerdo al PPDU vigente; y
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
-c) Presentación y explicación del Dictamen de Uso del Suelo respecto a condicionantes de diseño (movilidad y transporte) que deberá resolver el desarrollo en su Predio y área inmediata.
+b) Previsiones de usos del suelo, proyectos urbanos y viales de acuerdo al plan parcial de desarrollo urbano vigente; y
 
-VI. Determinación Física de la Operación del Transporte Colectivo en el Área y sus Perspectivas en Desarrollo:
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+c) Presentación y explicación del dictamen de uso del suelo respecto a condicionantes de diseño, (movilidad y transporte), que deberá resolver el desarrollo en su Predio y área inmediata.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
+
+VI. Determinación física de la operación del transporte colectivo en el área y sus perspectivas en desarrollo:
 
 a) Levantamiento de rutas de transporte público detallando las características de las mismas: Origen-destino; índices de ocupación; frecuencia de paso; puntos de parada en la zona, finalizando con un análisis de zonas con cobertura y sin cobertura; y
 
 b) En caso de existir en su proximidad líneas de transporte masivo y semi-masivo recopilar información del sistema y estaciones cercanas y con cobertura al polígono de estudio.
 
-VII. Levantamiento de la Información sobre Volúmenes de Tránsito en días y horas representativas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
+
+VII. Levantamiento de la información sobre volúmenes de tránsito en días y horas representativas:
 
 a) Flujos peatonales, ciclistas y vehiculares considerando la composición de los mismos y todos aquellos puntos de incorporación y flujos que por su importancia afecten a la operación de la vialidad.
 
-VIII. Análisis de Accidentes de Tránsito en la Zona:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
+
+VIII. Análisis de accidentes de tránsito en la zona:
 
 a) Identificar, cuantificar y matizar los hechos de tránsito en la zona cualificando el comportamiento de cada sitio.
 
-IX. Velocidades y Tiempos de Recorrido:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
+
+IX. Velocidades y tiempos de recorrido:
 
 a) El objetivo de este inciso es evaluar la calidad del movimiento vehicular a lo largo de una ruta o vialidad y determinar la ubicación, tipo y magnitud de las demoras de tránsito.
 
@@ -2131,65 +2691,53 @@ XIII. Recomendaciones finales:
 
 ### CAPÍTULO VII. De la Dictaminación en Materia de Protección Civil
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 181.
 
 El procedimiento en materia de impacto ambiental consta de las siguientes etapas, como lo son: La manifestación de impacto ambiental, la evaluación de impacto ambiental, la resolución en materia de impacto ambiental, el seguimiento y la operación.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 182.
 
-Le corresponde al Municipio evaluar el impacto ambiental respecto de obras o actividades que no sean competencia de la Federación o del Estado, que se realicen íntegramente dentro del territorio municipal; quedando condicionado al dictamen satisfactorio de dicha evaluación, el otorgamiento de las licencias de construcción u operación respectivas.
+Le corresponde al Municipio, a través de la Dirección de Medio Ambiente, evaluar el impacto ambiental respecto de obras o actividades que no sean competencia de la Federación o del Estado, que se realicen íntegramente dentro del territorio municipal.
+
+Asimismo es competencia de la Dirección de Medio Ambiente, llevar a cabo la evaluación en materia de impacto ambiental de los Programas y Planes de Desarrollo Urbano municipal o de ordenamiento ecológico del territorio, así como su modificación previamente a su autorización.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 183.
 
-Las personas físicas o morales interesadas en la realización de acciones urbanísticas o edificaciones públicas o privadas, tratándose de Verticales de 5 niveles en adelante incluyendo el o los sótanos como un nivel o más niveles o a partir de 2000 metros cuadrados de construcción; en horizontales de 10 viviendas en adelante o a partir de 3000 metros cuadrados de construcción, previo a su realización, requieren someterse al procedimiento de evaluación en materia de impacto y riesgo ambiental, las que se enumeran a continuación:
+Las personas físicas o jurídicas interesadas en la realización de las siguientes acciones urbanísticas, requerirán previamente la autorización en materia de impacto ambiental emitida por la Dirección de Medio Ambiente:
 
-I. Conjuntos Habitacionales Plurifamiliares: Verticales y/o Horizontales;
+I. Conjuntos Habitacionales Plurifamiliares Horizontales a partir de 20 unidades de vivienda o 3500 metros cuadrados de construcción;
 
-II. Hoteles;
+II. Edificaciones de cualquier uso, mayores a 6 niveles o mayores a 3500 mil metros cuadrados de construcción;
 
-III. Centros comerciales;
+III. Ductos y/o canalizaciones a partir de 300 metros cúbicos;
 
-IV. Oficinas;
+IV. Los Proyectos Definitivos de Urbanización que modifiquen el uso de suelo aprobado en los Programas y Planes de Desarrollo Urbano;
 
-V. Canalizaciones eléctricas: A partir de 300 metros lineales por 1 metro de ancho por 1 metro de profundidad;
+V. Las vías de comunicación y las obras públicas de competencia municipal, que comprendan o se ubiquen exclusivamente en su jurisdicción;
 
-VI. Ductos de agua potable y alcantarillado: A partir de 300 metros lineales por 1 metro de ancho por 1 metro de profundidad;
+VI. Ampliación de establecimientos comerciales y de servicios que rebasen los 3500 metros cuadrados de construcción;
 
-VII. Ductos para fibra óptica: A partir de 300 metros lineales;
+VII. Construcción, ampliación y/o remodelación de obras de infraestructura urbana municipal o estatal a partir de 3000 metros cuadrados de construcción; y
 
-VIII. Los Planes y Programas de Desarrollo Urbano o de ordenamiento ecológico del territorio, así como su modificación previamente a su autorización;
-
-IX. Los proyectos definitivos de urbanización que modifiquen el uso de suelo;
-
-X. Las vías de comunicación y las obras públicas de su competencia, que comprendan o se ubiquen exclusivamente en su jurisdicción;
-
-XI. Los desarrollos inmobiliarios dentro del territorio municipal;
-
-XII. Las obras de infraestructura de agua potable, alcantarillado pluvial y sanitario, las plantas de tratamiento y las demás obras y proyectos similares;
-
-XIII. Remodelación y/o ampliación de establecimientos comerciales y de servicios que se ubiquen en su jurisdicción;
-
-XIV. Construcción, ampliación y/o remodelación de obras de infraestructura urbana municipal o estatal: A partir de 3000 metros cuadrados de construcción; y
-
-XV. Bodegas y/o naves industriales.
-
-En el supuesto de que las acciones urbanísticas de que se trate, no se encuentre dentro de alguno de los incisos anteriores, el promovente deberá consultar a la Dirección de Medio Ambiente, si procede o se exenta de la presentación de una manifestación de impacto ambiental, de conformidad con la guía que para tal efecto se expida.
+VIII. Las edificaciones de cualquier uso que cuenten con más de dos sótanos.
 
 ###### Artículo 184.
 
-Las ampliaciones, modificaciones, sustitución de infraestructura, rehabilitación y el mantenimiento de instalaciones relacionadas con las obras y actividades señaladas en el presente capítulo, podrán exentarse o no requerir de la presentación de la manifestación de impacto ambiental, cuando el promovente demuestre que su ejecución no causará desequilibrios ecológicos, ni daños a la salud pública, ni rebasará los límites y condiciones establecidos en las disposiciones jurídicas aplicables, relativas a la protección al ambiente, y a la preservación y restauración de los ecosistemas; siempre y cuando cumplan con todos los requisitos siguientes:
+(DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
-I. Las obras y actividades que cuenten previamente con la autorización respectiva, a menos de que conforme a la normatividad de la materia, no la hubieran requerido;
+> <small>(ADICIONADO, G.M. 24 DE ABRIL DE 2017)</small>
 
-II. Que las acciones por realizar no tengan relación alguna con procesos de producción; y
-
-III. Que dichas acciones no impliquen incremento alguno en el nivel de impacto o riesgo ambiental, en virtud de su ubicación, dimensiones, características o alcances.
-
-El promovente, previo a la realización de dichas obras y/o actividades, deberá someter a consideración de la Dirección de Medio Ambiente la exención o no requerimiento de la evaluación de impacto ambiental, en el formato de la guía que para tal efecto publique dicha autoridad.
+Artículo 184 bis. Para la expedición de la licencia de construcción se requiere cumplir con la Evaluación de Impacto Ambiental, referida en el artículo 183, así como cumplir con el reglamento en la materia y la guía técnica correspondiente.
 
 ###### Artículo 185.
 
-Cuando se trate de los supuestos previstos en el segundo párrafo del artículo 183, antes de dar inicio a la obra o actividad de que se trate, el promovente, deberá consultar a la Dirección de Medio Ambiente, si procede o se exenta de la presentación de una manifestación de impacto ambiental.
+(DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
 ###### Artículo 186.
 
@@ -2205,53 +2753,65 @@ La declaración de daños es el documento mediante el cual las personas a las qu
 
 ###### Artículo 189.
 
-Las acciones urbanísticas públicas o privadas tratándose de edificaciones menores a 3 niveles o 1000 metros cuadrados de construcción; en conjuntos horizontales menores a 5 viviendas o 1000 metros cuadrados. Canalizaciones menores a 300 metros lineales por 1 metro de ancho por 1 metro de profundidad, no requerirán de dicha autorización por parte de la Dirección de Medio Ambiente en materia de impacto ambiental.
-
-El no requerimiento de dicha autorización en materia de impacto ambiental no exime al desarrollador de realizar los trámites relacionados con cualquier otra área de la Dirección de Medio Ambiente y otras dependencias de cualquier nivel de gobierno.
-
-Los criterios anteriormente señalados no eximen el cumplimiento de las obligaciones en materia de manejo de residuos, descargas de agua, ruido, manejo de arbolado, partículas suspendidas, emisiones a la atmósfera, protección a los cuerpos de agua subterráneos y la normatividad ambiental aplicable, de igual manera la autoridad municipal ejercerá las funciones de vigilancia e inspección que correspondan para verificar el cumplimiento de dichas obligaciones.
+(DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
 ### CAPÍTULO VIII. De la Delimitación de Colonias, la Nomenclatura y la Asignación de Números Oficiales
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 190.
 
-La expedición de la Licencia de Construcción, requiere del visto bueno para el proceso constructivo, de parte de la Dirección de Protección Civil y Bomberos. Los proyectos de construcción que la Dirección de Protección Civil (sic) Bomberos revisará, son los que recaigan en cualquiera de las características siguientes:
+La expedición de la Licencia de Construcción, requiere cumplir con las normas técnicas vigentes establecidas por la Dirección de Protección Civil y Bomberos, siendo estos los que recaigan en cualquiera de las características siguientes:
 
 I. Construcciones de más de 3000 metros cuadrados;
 
 II. Edificios de 6 niveles en adelante o más de 15 metros de altura;
 
-III. Construcciones que por su uso albergarán en su interior 150 personas o más ocupantes;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
-IV. Construcciones para usos específicos como: Estancias infantiles, escuelas en todos sus niveles, discotecas, centros de culto, etcétera;
+III. Construcciones que por su uso albergarán en su interior más de 150 ocupantes;
 
-V. Construcciones para uso de almacenamiento o procesos con sustancias peligrosas (estaciones de servicio, estaciones de carburación, bodegas, etcétera);
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
-VI. Infraestructura (puentes vehiculares, túneles vehiculares, redes de drenaje y agua, líneas de fibra óptica, líneas eléctricas de mediana y alta tensión, líneas de gas natural, etcétera; y
+IV. Construcciones de uso Equipamientos de tipo educativo, bares, centros nocturnos, discotecas y centros de culto;
+
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+V. Construcciones destinadas al comercio y almacenamiento de sustancias peligrosas, como gasolina, diésel, gas o carbón;
+
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+VI. Construcciones de infraestructura de transportes, redes de drenaje y agua, fibra óptica, líneas eléctricas de mediana y alta tensión, líneas de gas natural; y
 
 VII. Las demás que establezcan los distintos reglamentos o leyes en la materia.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 191.
 
-Para otorgar visto bueno para el proceso constructivo al que se refiere el artículo anterior, la Dirección de Protección Civil y Bomberos elaborará y expedirá las guías para la elaboración del estudio de riesgos de las acciones urbanísticas señaladas en el artículo anterior.
+Para otorgar el visto bueno para el proceso constructivo y de demolición, la Dirección de Protección Civil y Bomberos propondrá la elaboración y expedición de las normas técnicas, en las que se fijarán los requerimientos para la elaboración del estudio de riesgos de las acciones urbanísticas señaladas en el artículo anterior.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 192.
 
-Una vez recibidos los requisitos completos y correctos, la Dirección de Protección Civil y Bomberos elaborará y expedirá el dictamen técnico favorable para el proceso constructivo en un plazo máximo de 30 días hábiles.
+Una vez recibidos los requisitos completos y correctos, la Dirección de Protección Civil y Bomberos elaborará y expedirá la constancia de medidas de seguridad favorable para el proceso constructivo en un plazo máximo de 20 días hábiles.
 
 ###### Artículo 193.
 
-Dentro del proceso de resolución, la Dirección de Protección Civil y Bomberos deberá realizar una visita de inspección al Predio para evaluar las condiciones y el entorno del mismo.
+(DEROGADO, G.M. 24 DE ABRIL DE 2017)
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 194.
 
-La vigencia del dictamen técnico emitido es de 1 año a partir del día siguiente de su emisión; antes del vencimiento de la misma, el interesado podrá solicitar su renovación y deberá de encontrarse vigente hasta en tanto se obtenga el certificado de habitabilidad correspondiente.
+La vigencia de la constancia a que hace mención el artículo 192 de este reglamento, es de 1 año a partir del día siguiente de su emisión; antes del vencimiento de la misma, el interesado podrá solicitar su renovación y deberá de encontrarse vigente hasta en tanto se obtenga el certificado de habitabilidad correspondiente.
 
 ### CAPÍTULO IX. De los Certificados de Alineamiento y Número Oficial
 
 ###### Artículo 195.
 
-La Dirección de Obras Públicas establecerá la delimitación y división de las colonias, así como la actualización de los nombres de calles, colonias y avenidas nuevas, debiendo dicha actualización estará (sic) sujeta a la norma técnica sobre domicilios geográficos establecida por el Instituto Nacional de Estadística y Geografía, INEGI.
+La Dirección de Obras Públicas establecerá la delimitación y división de las colonias, así como la actualización de los nombres de calles, colonias y avenidas nuevas, debiendo dicha actualización estar sujeta a la norma técnica sobre domicilios geográficos establecida por el Instituto Nacional de Estadística y Geografía, INEGI.
 
 ###### Artículo 196.
 
@@ -2263,9 +2823,11 @@ Los particulares podrán designar a vías y espacios de dominio privado destinad
 
 Es obligación de los propietarios de fincas ubicadas en las esquinas, permitir la colocación de placas de nomenclatura en el lugar que determine la autoridad municipal.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 198.
 
-Es facultad de la Dirección de Obras Públicas, previa solicitud de los interesados, indicar el número que corresponde a la entrada de cada finca o Predio, siempre que este tenga frente a la vía pública; debiendo presentar Dictamen de Trazos Usos y Destinos Específicos, para el caso de solicitar más de dos números oficiales; y corresponderá a esta dependencia el control de la numeración y el autorizar u ordenar el cambio de un número cuando este sea irregular o provoque confusión, quedando obligado el propietario a colocar el nuevo número en un plazo no mayor de 10 días naturales de recibido el aviso correspondiente, con derecho a conservar el antiguo hasta por 90 días naturales después de dicha notificación.
+Es facultad de la Dirección de Obras Públicas, previa solicitud de los interesados, indicar el número que corresponde a la entrada de cada finca o Predio, siempre que este tenga frente a la vía pública; y corresponderá a esta dependencia el control de la numeración y el autorizar u ordenar el cambio de un número cuando este sea irregular o provoque confusión, quedando obligado el propietario a colocar el nuevo número en un plazo no mayor de 10 días naturales de recibido el aviso correspondiente, con derecho a conservar el antiguo hasta por 90 días naturales después de dicha notificación.
 
 ###### Artículo 199.
 
@@ -2293,9 +2855,11 @@ En caso de que la asignación de número oficial sea solicitada por una persona 
 
 Es obligación de la Dirección de Obras Públicas, dar aviso a la Dirección de Catastro, al Registro Público de la Propiedad y del Comercio del Estado de Jalisco, y a cualquier otra dependencia municipal, estatal o federal, que deba tener conocimiento de cualquier cambio que hubiere en la denominación de las vías y espacios públicos, así como cuando hubiere cambio general en la numeración de los inmuebles, por regularización de la numeración general de fincas en una o varias zonas.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 203.
 
-No podrán asignarse a las vialidades y demás sitios públicos municipales, los nombres de personas que desempeñan cargos públicos, estatales o federales, ni de sus cónyuges o parientes hasta en segundo grado, durante el periodo de su gestión y 2 periodos posteriores.
+No podrán asignarse a las vialidades y demás sitios públicos municipales, los nombres de personas que desempeñan cargos públicos, municipales, estatales o federales, ni de sus cónyuges o parientes hasta en segundo grado, durante el periodo de su gestión y 2 periodos posteriores.
 
 ###### Artículo 204.
 
@@ -2313,27 +2877,39 @@ III. Procurará hacer referencia a los valores nacionales, o personajes ilustres
 
 ### CAPÍTULO X. De la Dictaminación en Materia de Canalizaciones e Instalaciones Subterráneas
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 206.
 
 La determinación oficial de la vía pública, alineamientos a la misma, números oficiales, derechos de vía, afectaciones y destinos para proyectos futuros de infraestructura o servicios y restricciones de construcción, se indicarán en los planos correspondientes, los cuales se integrarán como anexo de los programas y planes de desarrollo urbano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 207.
 
-Para el certificado de alineamiento y número oficial para predios urbanos y regulares el tiempo máximo de respuesta será de 3 días hábiles o 72 horas y se requerirá:
+Para el certificado de alineamiento y número oficial para predios urbanos y regulares el tiempo máximo de respuesta será de 3 días hábiles y se requerirá:
 
-I. La Solicitud Multitrámite elaborada;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+I. La solicitud multitrámite elaborada;
 
 II. Una copia identificación oficial del propietario;
 
 III. Una copia legible de las escrituras inscritas en el Registro Público de la Propiedad y del Comercio que manifiesten la ubicación de la finca con el nombre del propietario actual;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.M. 24 DE ABRIL DE 2017)</small>
+
 IV. Croquis de ubicación del Predio, indicando los números oficiales de los vecinos colindantes, distancia a la esquina más próxima, ancho de banqueta y arroyo vehicular;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.M. 24 DE ABRIL DE 2017)</small>
 
 V. Una copia del recibo oficial del pago del impuesto predial actualizado; sin perjuicio de que se trate de un Predio de origen ejidal;
 
 VI. Una copia del recibo que acredite que se ha realizado el pago de las contribuciones correspondientes por este trámite;
 
-VII. Una copia de resolución jurídica de Subdivisión cuando sea aplicable; y
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+VII. Una copia de resolución jurídica de subdivisión cuando sea aplicable; y
 
 VIII. Las demás que por la naturaleza de la acción urbanística dispongan los ordenamientos aplicables.
 
@@ -2347,9 +2923,11 @@ II. Deberá contarse con el dictamen técnico favorable emitido por la Direcció
 
 III. Cuando la solicitud se refiera a modificaciones en suelo no urbanizable, en lugar del dictamen a que se refiere el párrafo anterior, el interesado deberá gestionar y obtener una resolución favorable en materia de impacto urbano ambiental, como requisito previo a su dictaminación.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 209.
 
-No se autorizarán modificaciones a planos de alineamiento, números oficiales, derechos de vía, afectaciones y destinos para proyectos futuros de infraestructura o servicios y restricciones de construcción, cuando dicha modificación contravenga los objetivos, estrategias o disposiciones del Programa y los Planes Parciales.
+No se autorizarán modificaciones a planos de alineamiento, números oficiales, derechos de vía, afectaciones y destinos para proyectos futuros de infraestructura o servicios y restricciones de construcción, cuando dicha modificación contravenga los objetivos, estrategias o disposiciones del Programa, del Plan o de los Planes Parciales.
 
 ### CAPÍTULO I. Del Manejo Integral de Residuos
 
@@ -2359,7 +2937,9 @@ Las disposiciones generales para las canalizaciones son:
 
 I. Los trabajos en las zonas centro o en cruceros de gran afluencia vehicular deberán ejecutarse en estricto apego a las disposiciones de la Dirección de Movilidad y Transporte;
 
-II. El cruce del arroyo en calzadas, avenidas y calles, se hará por partes (para evitar el cierre del tránsito), excepto en los casos de ancho menor de 6 metros, en que se recabará el permiso correspondiente de la Dirección de Movilidad del Municipio para el cierre total;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+II. El cruce del arroyo en calzadas, avenidas y calles, se hará por partes (para evitar el cierre del tránsito), excepto en los casos de ancho menor de 6 metros, en que se recabará el permiso correspondiente de la Dirección de Movilidad y Transporte del Municipio para el cierre total;
 
 III. Se colocarán dispositivos de protección y señalamiento adecuados para evitar daños a personas, vehículos y fincas adyacentes con motivo de la ejecución de las obras;
 
@@ -2381,6 +2961,8 @@ Cuando se haga necesaria la ruptura de los pavimentos de las vías públicas par
 
 Para el efecto de la colocación de las canalizaciones que deban alojarse bajo las superficies ocupadas por las banquetas, se dividirá esta en 3 zonas como sigue: La orillera, para ductos de alumbrados y semáforos; la central, para ductos de telecomunicaciones; y la más próxima al paño de la propiedad se reservará para redes de gas. La profundidad mínima de estas instalaciones será de 65 centímetros bajo el nivel de la banqueta. En caso de ruptura para reparación o introducción de redes de infraestructura el corte deberá hacerse con disco y la reparación con el material original o de mejores características; en el caso de banquetas de .90 metros de ancho o menores, deberán reponerse en su totalidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 213.
 
 En cuanto a las losas de concreto hidráulico, el ejecutor deberá:
@@ -2399,7 +2981,9 @@ VI. Dotar de un colchón mínimo de relleno de 90 centímetros sobre el ducto;
 
 VII. Colocar el relleno de la zanja con material producto de la excavación, en capas de espesor máximo de 20 centímetros, proporcionando humedad óptima para compactar a un mínimo del 90% del P.V.S. máx. en las banquetas o del 95% del P.V.S. máx. en el arroyo; de los últimos 30 centímetros se rellenarán con cemento (50 kilogramos de cemento gris por metro cúbico de material suelto); y
 
-VIII. Ejecutar la obra en pavimento de concreto hidráulico, sujetándose a las disposiciones complementarias que tenga a bien dictar la Dirección de Obras Públicas en cada caso, previa visita al lugar. El pavimento será repuesto de concreto hidráulico con una resistencia a la tensión por flexión mr=45 kilogramo por centímetro cuadrado (alta resistencia rápida), con un espesor de losa de 1.25 veces del espesor original; se colarán alternadas en los cruceros usando formas machim-bradas y concreto premezclado, se utilizará vibrador de inmersión; el curado del concreto calafateo de juntas, será utilizando productos industriales de calidad reconocida, previa autorización de la Dirección General de Obras Públicas, se utilizará adhesivo a base de resinas epóxicas u otro producto adecuado. Su colocación deberá contener algún elemento que permita la rápida identificación del servicio instalado.
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+VIII. Ejecutar la obra en pavimento de concreto hidráulico, sujetándose a las disposiciones complementarias que tenga a bien dictar la Dirección de Obras Públicas en cada caso, previa visita al lugar. El pavimento será repuesto de concreto hidráulico con una resistencia a la tensión por flexión mr=45 kilogramos por centímetro cuadrado (alta resistencia rápida), con un espesor de losa de 1.25 veces del espesor original; se colarán alternadas en los cruceros usando formas machim-bradas y concreto premezclado, se utilizará vibrador de inmersión; el curado del concreto calafateo de juntas, será utilizando productos industriales de calidad reconocida, previa autorización de la Dirección de Obras Públicas, se utilizará adhesivo a base de resinas epóxicas u otro producto adecuado. Su colocación deberá contener algún elemento que permita la rápida identificación del servicio instalado.
 
 ###### Artículo 214.
 
@@ -2429,9 +3013,11 @@ Para las instalaciones subterráneas, uso de la infraestructura de penetración,
 
 Para llevar a cabo cualquier instalación aérea, tales como elementos de telecomunicación, postes, contra postes, puntales, postes de refuerzo, sostenes para apoyo, antenas, cables, tensores, cámaras de video, o cualquier otro elemento similar, deberán observarse las normas técnicas en materia de diseño de cada especialidad de ingeniería e imagen urbana.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 219.
 
-Las excavaciones o cortes de cualquier índole que se realicen en vía pública para instalaciones subterráneas y cuya profundidad sea mayor a 60 centímetros, requerirán de Licencia de Edificación suscrita por un Director responsable de obra. Este requisito no será exigido cuando la excavación constituya una etapa de la edificación autorizada por la Licencia de Construcción respectiva o se trate de pozos con línea de exploración para estudios de mecánica de suelos, o para obras de jardinería.
+Las excavaciones o cortes de cualquier índole que se realicen en vía pública para instalaciones subterráneas y cuya profundidad sea mayor a 60 centímetros, requerirán de licencia de construcción suscrita por un Director responsable de obra. Este requisito no será exigido cuando la excavación constituya una etapa de la edificación autorizada por la licencia de construcción respectiva o se trate de pozos con línea de exploración para estudios de mecánica de suelos, o para obras de jardinería.
 
 ###### Artículo 220.
 
@@ -2459,6 +3045,8 @@ IX. Acreditar el pago de derechos conforme a la Ley de Ingresos municipal vigent
 
 Una vez que se tenga la totalidad de requisitos, la Dirección de Obras Públicas, elaborará el dictamen técnico y, con base en el referido dictamen, emitirá la autorización correspondiente, pudiendo señalar en la misma, la realización de actos de adecuación. Concluidas las obras autorizadas, el responsable de las mismas deberá realizar la reparación a las afectaciones a la vía pública a entera satisfacción del Municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 222.
 
 Para las instalaciones subterráneas en la vía pública de redes de telecomunicaciones como fibra óptica, telefonía, televisión por cable, vigilancia, de electrificación, instalaciones o redes similares, el promovente deberá tramitar la Licencia de Canalización, presentando ante la Dirección de Obras Públicas el expediente con la documentación que a continuación se detalla, a efecto de que la dependencia valore su procedencia:
@@ -2471,13 +3059,19 @@ III. Memoria técnico-descriptiva de la instalación de las redes;
 
 IV. En el caso de redes de electrificaciones además de lo anterior comprobante de pago ante la Comisión Federal de Electricidad o dependencia responsable de proporcionar el servicio; y
 
-V. Dictamen técnico emitido por la Dirección de Obras Públicas a través de la Dirección de Proyectos del Espacio Público y de la Gestión de Recursos.
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
-Una vez cubiertos los requisitos descritos anteriormente, la Dirección de Obras Públicas a través de la Dirección de Proyectos del Espacio Público y de la Gestión de Recursos emitirá el dictamen técnico correspondiente. La Dirección de Obras Públicas con base en el referido dictamen, emitirá la autorización correspondiente, previo pago de los derechos municipales, pudiendo señalar en la misma la realización de actos de adecuación.
+V. Dictamen técnico emitido por la Dirección de Obras Públicas, a través del Área de Gestión de Recursos.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+Una vez cubiertos los requisitos descritos anteriormente, la Dirección de Obras Públicas emitirá el dictamen técnico correspondiente. La Dirección de Obras Públicas con base en el referido dictamen, emitirá la autorización correspondiente, previo pago de los derechos municipales, pudiendo señalar en la misma la realización de actos de adecuación.
 
 Concluidas las obras autorizadas, el responsable de las mismas deberá realizar la reparación a las afectaciones a la vía pública a entera satisfacción del Municipio.
 
 ### CAPÍTULO II. De las Especificaciones de los Puntos Limpios
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ## TÍTULO CUARTO. Del Programa de Gestión de Residuos Sólidos Base Cero
 
@@ -2487,33 +3081,45 @@ Concluidas las obras autorizadas, el responsable de las mismas deberá realizar 
 
 El manejo integral de los residuos en el Municipio de Guadalajara, se rige a través de Gestión de Residuos Sólidos Base Cero, el cual establece entre sus objetivos principales, la reducción en la generación de la basura en su fuente, le (sic) gestión de modelo que permita aumentar el volumen de almacenaje y acopio a través de la construcción de un sistema de Puntos Limpios en toda la ciudad, la valorización de los residuos a efectos de que se conviertan en materia prima para las industrias, el cumplimiento de los más altos estándares en materia de protección al medio ambiente, y la corresponsabilidad junto con la población para consolidar un modelo de gestión sostenible.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 224.
 
-Los residuos son responsabilidad de quien los genere, por lo que toda Acción Urbanística del suelo para el asentamiento humano a través del desarrollo de conjuntos habitacionales o condominios, a partir de 4 unidades habitacionales por desarrollo, se estará obligado a mantener sus residuos sólidos separados a través de Puntos Limpios en la fuente generadora; tomando en consideración la información y lineamientos emitidos para la gestión integral de residuos por parte de la Dirección del Medio Ambiente.
+Los residuos son responsabilidad de quien los genere, por lo que toda Acción Urbanística del suelo para el asentamiento humano a través del desarrollo de conjuntos habitacionales en régimen condominal, plurifamiliar horizontal y/o plurifamiliar vertical, a partir de 4 unidades de viviendas, se estará obligado a mantener sus residuos sólidos separados a través de Puntos Limpios en la fuente generadora, en la modalidad que establece la fracción I del artículo 228 del presente Reglamento; tomando en consideración la información y lineamientos emitidos para la gestión integral de residuos por parte de la Dirección de Medio Ambiente.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 225.
 
-Toda Acción Urbanística para actividades comerciales o de servicios ofertadas al público en general que genere más de 10 toneladas en peso bruto total de residuos al año, adicionalmente a su obligación de transportar y disponer de sus residuos sólidos en los sitios autorizados para ese efecto, estará obligada a instalar los Puntos Limpios necesarios que permitan fortalecer el sistema de manejo de residuos de la ciudad; tomando en consideración la información y lineamientos emitidos para la gestión integral de residuos por parte de la Dirección del Medio Ambiente.
+Toda Acción Urbanística para actividades comerciales o de servicios ofertadas al público en general, en zonas de impacto medio, alto y máximo, que genere más de 10 toneladas en peso bruto total de residuos al año, adicionalmente a su obligación de transportar y disponer de sus residuos sólidos en los sitios autorizados para ese efecto, estará obligada a instalar Puntos Limpios necesarios dentro del Predio, en la modalidad que establece la fracción I del artículo 228 del presente Reglamento, que permitan fortalecer el sistema de manejo de residuos de la ciudad; tomando en consideración la información y lineamientos emitidos para la gestión integral de residuos por parte de la Dirección de Medio Ambiente.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 226.
 
-Toda acción urbanística realizada mediante obra pública que contenga construcción de equipamiento urbano y que por sus características implique un alto flujo de personas en el uso del espacio público, estará obligada a instalar los Puntos Limpios necesarios que permitan fortalecer el sistema de manejo de residuos de la ciudad; tomando en consideración la información y lineamientos emitidos para la gestión integral de residuos por parte de la Dirección del Medio Ambiente.
+Toda Acción Urbanística realizada mediante obra pública que contenga construcción de equipamiento urbano y que por sus características implique un alto flujo de personas en el uso del espacio público, estará obligada a instalar los Puntos Limpios necesarios que permitan fortalecer el sistema de manejo de residuos de la ciudad; tomando en consideración la información y lineamientos emitidos para la gestión integral de residuos por parte de la Dirección de Medio Ambiente.
 
 ### CAPÍTULO II. De las Banquetas y los Cruces Peatonales
 
 ###### Artículo 227.
 
-Toda Acción Urbanística que deba contar con Puntos Limpios deberá seguir los criterios de clasificación que determine la Dirección del Medio Ambiente en relación a las características de producción de sus residuos sólidos. Los Puntos Limpios deberán contar con al menos 4 de las siguientes clasificaciones: Orgánicos, plástico y PET, cartón, papel, metales, vidrio, y resto, entre otras.
+Toda Acción Urbanística que deba contar con Puntos Limpios deberá seguir los criterios de clasificación que determine la Dirección de Medio Ambiente en relación a las características de producción de sus residuos sólidos. Los Puntos Limpios deberán contar con al menos 4 de las siguientes clasificaciones: Orgánicos, plástico y PET, cartón, papel, metales, vidrio, y resto, entre otras.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 228.
 
-Los tipos de Puntos Limpios podrán ser a través de Contenedores Clasificados o a través de Plataformas Soterradas, según dictamine para cada caso la Dirección del Medio Ambiente, y de acuerdo a las siguientes características:
+Los tipos de Puntos Limpios podrán ser a través de contenedores clasificados o a través de plataformas soterradas, según dictamine para cada caso la Dirección de Medio Ambiente, y de acuerdo a las siguientes características:
 
-I. Punto Limpio "Contenedores Clasificados": Espacio cerrado en el interior de la construcción para el manejo interno de los residuos sólidos con al menos 4 contenedores a nivel y que puedan ser accesibles para su recolección con camiones compactadores de residuos diferenciados. Las características de los contenedores deberán ser determinadas por la Dirección del Medio Ambiente a efectos que coincidan con los equipos de recolección estandarizados en el Municipio; y
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+I. Punto Limpio “Contenedores Clasificados”: Espacio cerrado en el interior del Predio para el manejo interno de los residuos sólidos con al menos 4 contenedores a nivel y que puedan ser accesibles para su recolección con camiones compactadores de residuos diferenciados. Las características de los contenedores deberán ser determinadas por la Dirección de Medio Ambiente a efectos que coincidan con los equipos de recolección estandarizados en el Municipio; y
 
 II. Punto Limpio "Plataforma Soterrada": Mobiliario urbano que consta de 4 buzones con entrada selectiva de acuerdo al tipo de residuo y 4 contenedores de polietileno de alta densidad inyectado que quedan instalados bajo tierra dentro de la plataforma (uno para cada buzón). La plataforma deberá tener la capacidad de elevación por medio de un sistema hidráulico para poder acceder a los contenedores y realizar la recolección. Las características de las plataformas y contenedores deberán ser determinadas por la Dirección del Medio Ambiente a efectos que coincidan con los equipos de recolección estandarizados en el Municipio.
 
-Para casos especiales donde no aplique ninguna (sic) de los 2 tipos de Puntos Limpios antes referidos, será la Dirección de Medio Ambiente quien dictamine las características especiales procedentes del Punto Limpio.
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+Para casos especiales donde no aplique ninguno de los 2 tipos de Puntos Limpios antes referidos, será la Dirección de Medio Ambiente quien dictamine las características especiales procedentes del Punto Limpio.
 
 ### CAPÍTULO III. De los Criterios de Movilidad No Motorizada
 
@@ -2527,11 +3133,15 @@ Las acciones de las autoridades municipales en materia de espacio público y de 
 
 Los espacios públicos y las vías de propiedad municipal, mientras no se desafecten del uso público a que están destinadas por resolución de las autoridades municipales, tendrán el carácter de inalienables, imprescriptibles e inembargables y no podrán impedir el acceso ni privar a la ciudadanía del uso y libre tránsito.
 
-Corresponde a las dependencias de la administración pública municipal, normar sobre el espacio público y vigilar el cumplimiento de las disposiciones del presente Reglamento y otros ordenamientos respectivos.
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+Corresponde al Municipio normar sobre el espacio público dentro de su territorio, y, a través de sus dependencias competentes, vigilar el cumplimiento de las disposiciones del presente Reglamento y otros ordenamientos en la materia.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 230.
 
-Los particulares, instituciones públicas o privadas que sin previo permiso de la Coordinación, ocupen la vía pública con escombros o materiales, tapiales, andamios, anuncios, aparatos, puertas de cochera o en cualquier forma; o bien ejecuten alteraciones de cualquier tipo de sistemas de agua potable o alcantarillado, pavimentos, guarniciones, aceras o banquetas, postes o cableado del alumbrado público; están obligados al cumplimiento de las sanciones administrativas o penales a que se hagan acreedores, a retirar los obstáculos y a hacer las reparaciones a las vías y servicios públicos en la forma y plazos que al efecto le sean señalados por la Dirección de Inspección y Vigilancia, y al pago de la licencia para su uso en caso procedente a la Tesorería Municipal.
+Los particulares, instituciones públicas o privadas que sin previo permiso de la Dirección de Obras Públicas, ocupen la vía pública con escombros o materiales, tapiales, andamios, anuncios, aparatos, puertas de cochera o en cualquier forma; o bien ejecuten alteraciones de cualquier tipo de sistemas de agua potable o alcantarillado, pavimentos, guarniciones, aceras o banquetas, postes o cableado del alumbrado público; están obligados al cumplimiento de las sanciones administrativas, penales o de cualquier otra índole a que se hagan acreedores, a retirar los obstáculos y a hacer las reparaciones a las vías y servicios públicos en la forma y plazos que al efecto le sean señalados por la Dirección de Inspección y Vigilancia u otras dependencias competentes, y al pago de la licencia para su uso en caso procedente a la Tesorería Municipal.
 
 ###### Artículo 231.
 
@@ -2539,9 +3149,11 @@ En caso de afectación al espacio público y/o bienes inmuebles, la Dirección d
 
 ###### Artículo 232.
 
-La Dirección de Movilidad y Transporte, será la encargada de otorgar vistos buenos a todas aquellas modificaciones de particulares que se realicen en espacio público en materia de infraestructura peatonal y equipamiento ciclista, asimismo autorizará las permutas de cajones de estacionamientos por infraestructura peatonal, ciclista y/o área verde.
+(DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
 ### CAPÍTULO V. Del Tránsito y el Transporte Público
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 233.
 
@@ -2793,7 +3405,7 @@ VI. Cualquier cambio de dirección mayor a 45 grados, deberá indicarse mediante
 
 ###### Artículo 260.
 
-El espacio que integra la vía pública está limitado por los planos verticales que siguen el alineamiento oficial o el lindero de la misma y sus condiciones señaladas en este capítulo serán de aplicación obligada cuando el Programa y Planes Parciales lo determine.
+El espacio que integra la vía pública está limitado por los planos verticales que siguen el alineamiento oficial o el lindero de la misma y sus condiciones señaladas en este capítulo serán de aplicación obligada cuando el Programa, el Plan o los Planes Parciales lo determine.
 
 ###### Artículo 261.
 
@@ -2839,11 +3451,15 @@ V. En el diseño de la vialidad, en todos sus niveles, deberá contemplar arbola
 
 Las características geométricas para las nuevas vialidades, o la renovación de las ya existentes, serán determinadas por la Dirección de Movilidad y Transporte, mediante la norma técnica en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 266.
 
 Son normas básicas para las vías públicas, además de los lineamientos señalados en los artículos precedentes, las siguientes:
 
-I. En el Programa y Planes Parciales se definirán, de conformidad con lo establecido en este capítulo, las vías públicas y sus correspondientes derechos de vía, prohibiciones y restricciones de construcción;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+I. En el Programa, el Plan y Planes Parciales se definirán, de conformidad con lo establecido en este capítulo, las vías públicas y sus correspondientes derechos de vía, prohibiciones y restricciones de construcción;
 
 II. Deberán respetarse las especificaciones y características de las vías en toda su longitud;
 
@@ -2853,11 +3469,13 @@ IV. Las vías colectoras, así como las vías de jerarquía superior no podrán 
 
 V. En ningún caso se permitirán accesos rodados directos desde las propiedades colindantes a los carriles centrales de las vialidades metropolitanas;
 
-VI. Como regla general no se permitirán accesos rodados directos a las vialidades primarias, a no ser que cuenten con vías de servicio. Excepcionalmente serán autorizables accesos rodados desde las vialidades principales, siempre que se demuestre la imposibilidad de solucionarlo desde alguna vialidad local, debiéndose incorporar las medidas necesarias para disminuir la incidencia en la circulación;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+VI. Como regla general, no se permitirán salida de vehículos a las vialidades primarias, a no ser que cuenten con vías de servicio. Excepcionalmente serán autorizables accesos rodados desde las vialidades principales, siempre que se demuestre la imposibilidad de solucionarlo desde alguna vialidad local, debiéndose incorporar las medidas necesarias para disminuir conflictos de circulación a los peatones;
 
 VII. No se permitirá la localización de accesos de carga y descarga a menos de 20 metros de un cruce, medidos desde la intersección de la prolongación de los bordillos;
 
-VIII. Las viviendas deberán estar como máximo a 300 metros de distancia de una vía colectora o principal, siguiendo el lindero de la vía pública. Todo fraccionamiento de 300 o más viviendas deberá contar con una vialidad colectora que garantice su conectividad en todos los medios de transporte;
+VIII. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
 
 IX. Cuando las calles cuenten con carril de estacionamiento, todas las banquetas deben ampliarse hasta la orilla del arroyo vial y a lo largo de 9 metros a partir de la esquina del lindero, debiendo dejar una transición de 45 grados;
 
@@ -2891,6 +3509,8 @@ V. Si el ancho de la calle no permite ninguna de las soluciones anteriores, se d
 
 ### CAPÍTULO II. De las Clausuras y Terminación de Obras
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 270.
 
 Se denomina estacionamiento, al espacio para la estancia de vehículos, siendo regulados en las siguientes modalidades:
@@ -2907,7 +3527,7 @@ c) Estacionamiento Masivo de Bicicletas: predios y/o edificaciones cuyo giro exc
 
 ###### Artículo 271.
 
-Para la reducción de cajones de estacionamiento, de acuerdo con los lineamientos emitidos por la Dirección de Movilidad y Transporte, para cualquier desarrollo inmobiliario, estará sujeta al visto bueno de esta dependencia, previo ingreso de proyecto arquitectónico, con la finalidad de reducir el número de viajes en automóvil particular y promover la multimodalidad. Los lineamientos que la Dirección de Movilidad y Transporte emita para reducir el número de cajones de estacionamiento deberán de estar con estricto apego al reglamento de la materia, y a falta de normatividad municipal, se aplicarán los criterios que así determine la dirección conforme a sus atribuciones.
+(DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
 ###### Artículo 272.
 
@@ -3085,35 +3705,99 @@ h) Se admiten los giros de lavado y lubricado de automóviles y camiones; y serv
 
 La regulación de los estacionamientos para camiones y autobuses están sujetos a las normas técnicas que emita la Dirección de Movilidad y Transporte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 278.
 
-El estacionamiento asociado al uso será requisito para obtener la Licencia de Construcción o de uso, debiendo cumplir con los siguientes criterios de cajones para automóviles:
+El estacionamiento asociado al uso será requisito para obtener la licencia de construcción o de uso, debiendo cumplir con los siguientes criterios de cajones para automóviles:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
 
 I. Generales:
 
-a) Para giros de Impacto Mínimo:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
+
+a) Para Giro Comercial y de Servicios Impacto Mínimo:
 
 1. Cajones mínimos: 0; y
 
 2. Cajones máximos: 1.
 
-b) Para giros de Impacto Bajo:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
+
+b) Para Giro Comercial y de Servicios Impacto Bajo:
 
 1. Cajones mínimos: 0; y
 
-2. Cajones máximos: 2.
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
-c) Para giros de Impacto Medio, según los siguientes casos:
+2. Cajones máximos: 1 por cada 80 metros cuadrados de operación del Giro.
 
-1. Cajones mínimos: 1 por cada 80 metros cuadrados de superficie edificada; y
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
-2. Cajones máximos: Dos veces el mínimo.
+c) Para giro Comercial y de Servicios Impacto Medio:
 
-d) Para giros de Impacto Alto y Máximo:
+1. Cajones mínimos: 1 por cada 80 metros cuadrados de operación del Giro; y
 
-1. Cajones mínimos: 1 por cada 80 metros cuadrados de superficie edificada; y
+2. Cajones máximos: 3 por cada 80 metros cuadrados de operación del Giro.
 
-2. Cajones máximos: En edificios completos no se establece un límite para el número de cajones máximos. Su cuantía deberá quedar justificada en el proyecto de edificación, y tener el visto bueno de la Dirección de Movilidad y Transporte del Municipio.
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+d) Para giro Comercial y de Servicios Impacto Alto:
+
+1. Cajones mínimos: 1 por cada 80 metros cuadrados de operación del Giro; y
+
+2. Cajones máximos: 6 por cada 80 metros cuadrados de operación del Giro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 24 DE ABRIL DE 2017)</small>
+
+e) Para giro Comercial y de Servicios Impacto Máximo:
+
+1. Cajones mínimos: 1 por cada 80 metros cuadrados de operación del Giro; y
+
+2. Cajones máximos: 9 por cada 80 metros cuadrados de operación del Giro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 24 DE ABRIL DE 2017)</small>
+
+f) Para giro Industrial Impacto Mínimo:
+
+1. Cajones mínimos: 0; y
+
+2. Cajones máximos: 1 por cada 150 metros cuadrados de operación del Giro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 24 DE ABRIL DE 2017)</small>
+
+g) Para giro Industrial Impacto Bajo:
+
+1. Cajones mínimos: 0; y
+
+2. Cajones máximos: 1 por cada 150 metros cuadrados de operación del Giro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 24 DE ABRIL DE 2017)</small>
+
+h) Para giro Industrial Impacto Medio:
+
+1. Cajones mínimos: 1 por cada 150 metros cuadrados de operación del Giro; y
+
+2. Cajones máximos: 3 por cada 150 metros cuadrados de operación del Giro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 24 DE ABRIL DE 2017)</small>
+
+i) Para giro Industrial Impacto Alto:
+
+1. Cajones mínimos: 1 por cada 150 metros cuadrados de operación del Giro; y
+
+2. Cajones máximos: 6 por cada 150 metros cuadrados de operación del Giro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 24 DE ABRIL DE 2017)</small>
+
+j) Para giro Industrial Impacto Máximo:
+
+1. Cajones mínimos: 1 por cada 150 metros cuadrados de operación del Giro; y
+
+2. Cajones máximos: 1 por cada 150 metros cuadrados de operación del Giro.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
 
 II. Particulares:
 
@@ -3121,25 +3805,43 @@ a) En edificios para equipamientos de salud, independientemente de su impacto:
 
 1. Cajones mínimos: 1 por cada dos camas; y
 
-2. Cajones máximos: No se establece un límite para el número de cajones máximos. Su cuantía deberá quedar justificada en el proyecto de edificación.
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+2. Cajones máximos: 1 por cada 60 metros cuadrados de operación del Giro.
 
 b) En edificios de equipamientos educativos y de oficinas, independientemente de su impacto:
 
-1. Cajones mínimos: No se establece un límite para el número de cajones mínimos. Su cuantía deberá quedar justificada en el proyecto de edificación; y
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
-2. Cajones máximos: 1 por cada dos empleos.
+1. Cajones mínimos: 1 por cada 80 metros cuadrados de operación del Giro; y
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+2. Cajones máximos: 2 por cada 80 metros cuadrados de operación del Giro.
 
 c) Para servicios de alojamiento temporal, independientemente de su impacto:
 
-1. Cajones mínimos: No se establece un límite para el número de cajones mínimos. Su cuantía deberá quedar justificada en el proyecto de edificación; y
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+1. Cajones mínimos: 1 por cada 10 habitaciones.
 
 2. Cajones máximos: 1 cajón por cada dos habitaciones en instalaciones de 4 o 5 estrellas, 1 cajón por cada cuatro habitaciones en instalaciones de 3 estrellas y 1 cajón por cada seis habitaciones en instalaciones de 2 o menos estrellas.
 
-d) Para usos habitacionales:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
 
-1. Cajones mínimos: 1 por cada vivienda; y
+d) Para usos habitacionales: Según las Normas de Control de la Urbanización y la Edificación contenidas en los Planes Parciales para cada una de las diferentes zonas habitacionales.
 
-2. Cajones máximos: 2 cajones por vivienda o, en el caso de viviendas verticales, las que se puedan localizar en los dos primeros sótanos. En caso de no completarse con ellas los cajones mínimos, se puede ampliar las necesarias en un tercero.
+1. (DEROGADO, G.M. 24 DE ABRIL DE 2017)
+
+2. (DEROGADO, G.M. 24 DE ABRIL DE 2017)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 24 DE ABRIL DE 2017)</small>
+
+e) Para fincas incluidas en los catálogos e inventarios de competencia federal y estatal:
+
+1. Cajones mínimos: 0; y
+
+2. Cajones máximos: De acuerdo a lo que establezca el Plan Parcial de Desarrollo Urbano aplicable a la zona.
 
 ###### Artículo 279.
 
@@ -3167,13 +3869,7 @@ V. En la regularización de las viviendas unifamiliares.
 
 ###### Artículo 281.
 
-La Dirección de Movilidad y Transporte podrá limitar el número máximo de cajones de estacionamiento máximos establecidos cuando:
-
-I. Sea previsible que puedan ocasionarse perjuicios al tráfico en las inmediaciones, por objetivos de mejora peatonal o por razones de funcionalidad en edificios de equipamiento, servicios urbanos y administrativos;
-
-II. Se acredite que el incremento de capacidad no ha de incidir sensiblemente en el tráfico de las inmediaciones; y
-
-III. Existan motivos de interés general, tales como la existencia en el entorno de edificios objeto de protección carentes de estacionamientos propios o una demanda de estacionamientos para residentes que no tenga solución alternativa o cualquier otro debidamente justificado.
+(DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
 ###### Artículo 282.
 
@@ -3207,43 +3903,21 @@ e) Planos constructivos de la ampliación de banqueta e instalación del ciclo p
 
 ###### Artículo 284.
 
-Los accesos a los estacionamientos están sujetos al cumplimiento de las siguientes normas:
-
-I. Las entradas o salidas de los estacionamientos deben estar ubicadas sobre calles secundarias y lo más lejos posible de las intersecciones;
-
-II. En estacionamientos públicos se debe contar como mínimo con dos carriles de circulación, uno de entrada y otro de salida, los cuales pueden estar juntos o separados;
-
-III. Las entradas y salidas de los estacionamientos deben permitir que todos los movimientos de los automóviles se desarrollen con fluidez sin cruces ni entorpecimientos al tránsito en la vía pública;
-
-IV. Toda maniobra para el estacionamiento de un automóvil debe llevarse a cabo en el interior del Predio, sin invadir la vía pública y en ningún caso deben salir vehículos en reversa a la calle;
-
-V. La caseta para control de los estacionamientos debe estar situada dentro del Predio, como mínimo, a 4.5 metros del alineamiento de la entrada. Su área debe tener un mínimo de 2 metros cuadrados;
-
-VI. En estacionamientos de servicio particular se puede admitir que cuenten con un solo carril de entrada y salida siempre y cuando no se exceda la capacidad de 10 cajones de estacionamiento;
-
-VII. En estacionamientos de servicio particular y públicos que cuenten con más de 10 cajones de estacionamiento se debe contar con un carril de entrada y otro de salida; y
-
-VIII. La anchura mínima de cada carril de circulación de las entradas y salidas es de 2.5 metros; en caso de tener concentrado (sic) la salida e ingreso por una sola rampa se deben respetar los anchos de carril más una franja separadora de 0.50 metros al centro y 0.25 metros de machuelo (botallantas) a cada extremo de la rampa.
+(DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
 ###### Artículo 285.
 
-A consideración de la Dirección de Obras Públicas, previo dictamen de la Dirección de Movilidad y Transporte, podrán exigir o disminuir la cantidad de cajones para determinados usos.
+(DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
 ###### Artículo 286.
 
-La Dirección de Obras Públicas podrá denegar la Licencia de Edificación de estacionamientos, previa opinión técnica de la Dirección de Movilidad y Transporte, cuando concurra con al menos una de las siguientes circunstancias:
-
-I. La salida de vehículos se sitúe en un emplazamiento de baja visibilidad;
-
-II. La salida de vehículos se sitúe en vialidades metropolitanas y principales;
-
-III. En lugares que incidan negativamente en la circulación de vehículos o peatones; y
-
-IV. Los accesos de vehículos se sitúen a menos de 20 metros de las paradas de transporte público.
+(DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
 ## TÍTULO SEXTO. Normas de Vialidad
 
 ### CAPÍTULO III. Del Procedimiento de Demolición
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 287.
 
@@ -3278,6 +3952,10 @@ V. Soportes: Los tableros se montarán sobre postes en el caso de las permanente
 ###### Artículo 291.
 
 La Dirección de Inspección y Vigilancia podrá realizar inspecciones por zonas y de manera aleatoria en cualquier momento durante la ejecución de una obra, de acuerdo a las formalidades establecidas en la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
+
+> <small>(ADICIONADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+Artículo 291 bis. El Patronato del Centro Histórico, Barrios y Zonas Tradicionales de la Ciudad de Guadalajara, coadyuvará en las labores de inspección referidas a la ejecución de obras en fincas inventariadas como Patrimonio Cultural Urbano, pudiendo emitir apercibimientos a los infractores, por todo acto u omisión que contravenga lo dispuesto por este Reglamento y demás disposiciones en materia de conservación de fincas patrimoniales. El Patronato deberá observar los procedimientos aplicables y remitir los apercibimientos en un plazo no mayor a cinco días hábiles a la Dirección de Inspección y Vigilancia para su debido seguimiento.
 
 ###### Artículo 292.
 
@@ -3323,7 +4001,9 @@ En caso de haber apercibimientos que se deriven de las inspecciones, la direcci�
 
 ###### Artículo 299.
 
-La Dirección de Inspección y Vigilancia debe ordenar la inmediata suspensión de actividades y en su caso la clausura de la obra total o parcial por trabajos efectuados sin la Licencia de Construcción, Licencia de Urbanización, certificado de habitabilidad, dictamen de centro histórico, Dictamen de Uso de Suelo, cambios en las especificaciones estructurales y arquitectónicas autorizadas, ruptura de pavimento, invasión a la vía pública y restricciones, colocación de antenas para sistemas de telecomunicaciones, construcciones o proceso constructivo llevado a cabo en zona de protección o zonas de riesgo y demás que no se observen u omitan acatar las disposiciones legales y reglamentarias vigentes. En caso de existir director responsable de obra éste deberá ser corresponsable solidario.
+La Dirección de Inspección y Vigilancia debe ordenar la inmediata suspensión de actividades y en su caso, la clausura de la obra total o parcial por trabajos efectuados sin la licencia de construcción, licencia de urbanización, certificado de habitabilidad, dictamen de la autoridad federal, estatal o municipal competente en patrimonio cultural urbano según sea el caso, Dictamen de Uso de Suelo, cambios en las especificaciones estructurales y arquitectónicas autorizadas, ruptura de pavimento, invasión a la vía pública y restricciones, colocación de antenas para sistemas de telecomunicaciones, construcciones o proceso constructivo llevado a cabo en zona de protección o zonas de riesgo y demás que no se observen u omitan acatar las disposiciones legales y reglamentarias vigentes. En caso de existir director responsable de obra este deberá ser corresponsable solidario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 300.
 
@@ -3351,9 +4031,13 @@ X. Por usarse una construcción o parte de ella sin haberse terminado ni obtenid
 
 XI. Por ejecutar obras o trabajos de construcción que causen daños o molestias a los vecinos;
 
-XII. Por estarse ejecutando una obra sobre un inmueble sujeto a protección de conformidad a las normas de protección del patrimonio cultural, sin el dictamen favorable del Comité de Dictaminación del Patrimonio Cultural Urbano, con independencia de que cuente o no con licencia;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
-XIII. Por estar ejecutando una obra sobre un inmueble sujeto a protección dentro de los polígonos A y B de protección al Centro Histórico sin el dictamen favorable de la dependencia competente con independencia de que cuente o no con Licencia de Construcción;
+XII. Por estarse ejecutando una obra sobre un bien inmueble sujeto a protección de conformidad a las normas de protección del patrimonio cultural, sin el dictamen favorable de la dependencia competente;
+
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+XIII. Por estar ejecutando una obra sobre un bien inmueble sujeto a protección dentro de las zonas o perímetros de protección al patrimonio sin el dictamen favorable de la dependencia competente, con independencia de que cuente o no con licencia de construcción;
 
 XIV. Por no respetar las áreas de restricción;
 
@@ -3367,9 +4051,31 @@ XVIII. Por invadir propiedad privada con brazo de grúa (sic) torre sin anuencia
 
 XIX. Por falta de póliza de seguro de responsabilidad civil o presentarla vencida;
 
-XX. Por no atender citatorios y se ejecute trabajos para los cuales requiere licencia, así como impedir el paso a personal de la Dirección de Inspección y Vigilancia en el ejercicio de sus funciones, apegándose a lo estipulado en los artículos 86 y 87 de la Ley de Procedimiento Administrativo del Estado de Jalisco y sus Municipios, procediendo a realizarse la notificación por cédula; y
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
-XXI. Por violar o retirar sellos de clausura.
+XX. Por no atender citatorios y se ejecute trabajos para los cuales requiere licencia, así como impedir el paso a personal de la Dirección de Inspección y Vigilancia en el ejercicio de sus funciones, apegándose a lo estipulado en los artículos 86 y 87 de la Ley de Procedimiento Administrativo del Estado de Jalisco y sus Municipios, procediendo a realizarse la notificación por cédula;
+
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+XXI. Por violar o retirar sellos de clausura;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 24 DE ABRIL DE 2017)</small>
+
+XXII. Por estar ejecutando una obra fuera del horario de 7 a 22 horas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 24 DE ABRIL DE 2017)</small>
+
+XXIII. Por ocupar aceras y cocheras con vehículos o materiales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 24 DE ABRIL DE 2017)</small>
+
+XXIV. Por mantener obras inconclusas, abandonadas o suspendidas; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 24 DE ABRIL DE 2017)</small>
+
+XXV. Por tener una construcción defectuosa que no reúna las condiciones de seguridad, provocando daño a la finca colindante.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 301.
 
@@ -3379,25 +4085,45 @@ I. Por haberse ejecutado la obra sin licencia, por modificaciones no aprobadas a
 
 II. Por usarse una construcción o parte de ella sin el Certificado de Habitabilidad o dándole un uso diferente para el cual haya sido expedida la licencia. Previa comprobación de haberse cubierto las sanciones respectivas puede otorgarse el Certificado de Habitabilidad siempre que el mismo no resulte un peligro para las personas y las cosas; y
 
-III. Por haberse ejecutado la obra sobre un inmueble sujeto a protección de conformidad a las normas de protección del patrimonio cultural, sin el dictamen favorable del Comité de Dictaminación del Patrimonio Cultural Urbano, con independencia de que cuente o no con licencia.
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+III. Por haberse ejecutado la obra sobre un bien inmueble sujeto a protección de conformidad a las normas de protección del patrimonio cultural, sin el dictamen favorable de la dependencia competente, con independencia de que cuente o no con licencia de construcción.
 
 ### CAPÍTULO III. De las Sanciones a los Directores Responsables de Obra o Proyecto y Peritos
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 302.
 
-El Procedimiento de Demolición procede:
+El procedimiento de demolición procede:
 
-I. En contra de toda construcción ejecutada en contravención a lo autorizado por la Licencia de Edificación correspondiente;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
 
-II. En contra de toda construcción que se realice sin la correspondiente Licencia de Edificación;
+I. En contra de toda construcción ejecutada en contravención a lo autorizado por la Licencia de Construcción correspondiente;
+
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+II. En contra de toda construcción que se realice sin licencia, autorización o permiso, o en contravención de lo dispuesto en el Programa o Plan de Desarrollo Urbano correspondiente;
 
 III. En contra de toda construcción que se ejecute sobre áreas de protección a cauces y cuerpos de agua, áreas de conservación ecológica y áreas naturales protegidas; y
 
 IV. En contra de toda construcción que se ejecute en predios de propiedad municipal sin consentimiento del Ayuntamiento, o en áreas de restricción de cualquier tipo.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 303.
 
-El procedimiento de demolición será iniciado por la Dirección de Inspección y Vigilancia y/o de Obras Públicas, de oficio en ejercicio de sus facultades de supervisión e inspección, una vez levantados los documentos por parte de esta dirección serán enviados a la Dirección Jurídica de lo Contencioso para su análisis y seguimiento al marco legal. Emitida la resolución se gira orden a la Dirección de Obras Públicas para que con apoyo del área de Contingencias ejecute lo ordenado, pasando la relación de gastos y costos derivados de dichos trabajos al propietario del inmueble.
+El procedimiento de demolición será iniciado por la Dirección de Inspección y Vigilancia y/o de Obras Públicas, de oficio en ejercicio de sus facultades de supervisión e inspección. El expediente completo será enviado a la Dirección Jurídica de lo Contencioso para su análisis, seguimiento y resolución con apego a la normatividad aplicable. Emitida la resolución procedente a demolición, se gira orden a la Dirección de Obras Públicas para que con apoyo del área de Contingencias ejecute lo ordenado, procediendo a demoler dicha obra dentro de los 60 días posteriores a la notificación, conforme a los siguientes criterios:
+
+I. Si las acciones se ejecutaron sin autorización, licencia o permiso, el costo de los trabajos será a cargo de los propietarios o poseedores a título de dueño y el municipio no tendrá obligación de pagar indemnización alguna.
+
+De no llevar a cabo la demolición dentro del tiempo señalado, la autoridad municipal procederá con cargo a los propietarios o poseedores a título de dueño e informará de las erogaciones a la Tesorería Municipal, para el efecto de que se proceda al cobro, en los términos de la Ley de Hacienda Municipal; y
+
+II. Si las acciones se ejecutaron con autorización, licencia o permiso expedido por autoridad competente, el costo de los trabajos será a cargo de la autoridad responsable y los propietarios o poseedores a título de dueño que acrediten que actuaron de buena fe, tendrán derecho a la indemnización sobre pago de daños.
+
+En el caso de la fracción I cuando se trate de no más de 50 metros cuadrados de reconstrucción, o ampliación en vivienda popular y no invada zona de propiedad privada, pública, servidumbres o restricciones, no será demolida la obra y solo procederá la multa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 304.
 
@@ -3409,7 +4135,9 @@ II. El interés jurídico con que comparece;
 
 III. La ubicación exacta de la construcción que le causa perjuicio o afectación al promovente;
 
-IV. La descripción bajo protesta de decir verdad, de los motivos que le provocan detrimento o menoscabo, acreditando la procedencia del procedimiento de demolición por estar dentro de alguno de los supuestos del artículo 172 del presente ordenamiento;
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+IV. La descripción bajo protesta de decir verdad, de los motivos que le provocan detrimento o menoscabo, acreditando la procedencia del procedimiento de demolición por estar dentro de alguno de los supuestos del artículo 302 del presente ordenamiento;
 
 V. Las pruebas y medios de convicción que considere pertinente ofrecer al procedimiento; y
 
@@ -3427,21 +4155,29 @@ En su caso, la Dirección de Inspección y Vigilancia, a través del acuerdo adm
 
 En caso de considerarlo necesario, para la correcta resolución del procedimiento de demolición, la Dirección de Inspección y Vigilancia y/o Obras Públicas, solicitará el informe respectivo a las autoridades que considere pertinentes, quienes deberán rendirlo en un término no mayor a los 10 días hábiles.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 308.
 
-El informe que rinda la Dirección de Obras Públicas en el procedimiento de demolición, deberá contener la precisión respecto a si existe o no Licencia de Edificación para la construcción; en caso de existir Licencia de Edificación, el informe contendrá el dictamen técnico que determine si la construcción se realiza con apego al proyecto autorizado, o en su caso, hará referencia detallada de las irregularidades o contravenciones detectadas.
+El informe que rinda la Dirección de Obras Públicas en el procedimiento de demolición, deberá contener la precisión respecto a si existe o no autorización o licencia para la construcción; en caso de existir Licencia de Construcción, el informe contendrá el dictamen técnico que determine si la construcción se realiza con apego al proyecto autorizado, o en su caso, hará referencia detallada de las irregularidades o contravenciones detectadas.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 309.
 
-Derivado del informe rendido por la Dirección de Obras Públicas, en caso de considerarlo pertinente, las Direcciones de Obras Públicas y la de Inspección y Vigilancia realizará las verificaciones necesarias para resolver el procedimiento de demolición.
+Derivado del informe rendido por la Dirección de Obras Públicas, en caso de considerarlo pertinente, las Direcciones de Obras Públicas y la de Inspección y Vigilancia realizará las verificaciones necesarias para coadyuvar a la resolución del procedimiento de demolición llevado a cabo ante la Sindicatura del Municipio.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 310.
 
-En el procedimiento de demolición la Dirección de Inspección respetará la garantía de audiencia de los interesados, pudiendo aportar el presunto infractor, dentro de los 10 días hábiles siguientes a la notificación del acuerdo admisorio, las pruebas y medios de convicción que considere pertinentes para acreditar que su construcción es apegada a las normas técnicas y urbanas aplicables, salvo que se trate de una demolición decretada como medida de seguridad para garantizar la seguridad e integridad física de las personas, por medio de dictamen de Protección Civil y Bomberos, que determine el riesgo inminente y la necesidad de la demolición.
+En el procedimiento de demolición la dependencia competente de instaurarlo y tramitarlo, respetará la garantía de audiencia de los interesados, pudiendo aportar el presunto infractor, dentro de los 10 días hábiles siguientes a la notificación del acuerdo admisorio, las pruebas y medios de convicción que considere pertinentes para acreditar que su construcción es apegada a las normas técnicas y urbanas aplicables, salvo que se trate de una demolición decretada como medida de seguridad para garantizar la seguridad e integridad física de las personas, por medio de dictamen de la Dirección de Protección Civil y Bomberos, que determine el riesgo inminente y la necesidad de la demolición.
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 311.
 
-Una vez que la Dirección de Inspección y Vigilancia, reciba la totalidad de los informes otorgados por el afectado, el presunto infractor, la Dirección de Obras Públicas, o en su caso la dependencia que corresponda, tendrá el plazo de 15 días hábiles para resolver el procedimiento de demolición.
+Una vez que la Sindicatura Municipal reciba la totalidad de los informes otorgados por el afectado, el presunto infractor, dictámenes técnicos de la Dirección de Obras Públicas, Dirección de Protección Civil y Bomberos o en su caso la dependencia que corresponda, tendrá el plazo de 15 días hábiles para resolver el procedimiento de demolición.
 
 ###### Artículo 312.
 
@@ -3535,29 +4271,41 @@ II. Transcurrido el término a que se refiere la fracción anterior, se emitirá
 
 Las sanciones al director responsable de obra o proyecto y perito, se aplicarán de conformidad a los siguientes criterios:
 
-I. Será acreedor a una amonestación el director responsable de obra o proyecto o perito que:
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
+
+I. Será acreedor a una amonestación por escrito el director responsable de obra o proyecto o perito que:
 
 a) No firme la bitácora oficial de conformidad con lo señalado por la autoridad;
 
 b) Efectúe o tolere cambios de proyecto, en el caso de no contar al momento de la inspección con la nueva Licencia de Construcción que modifique al proyecto original, cuando se hubiese ejecutado una modificación del proyecto antes del trámite del certificado de habitabilidad, siempre y cuando no se violente el cumplimiento de la (sic) normas legales y reglamentarias en materia de desarrollo urbano, ni el Plan Parcial de Desarrollo Urbano. De igual forma, si la bitácora no coincide con el proyecto autorizado, o las obras y la bitácora no coinciden, previa autorización de modificación o dentro de los límites de tolerancia que contempla este Reglamento;
 
-c) Se separe de sus funciones por más de 30 días hábiles, sin la autorización correspondiente por parte de la Dirección de Obras Públicas, respecto a las obras de las que sea responsable;
+c) (DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
 d) No solicite darse de baja como perito responsable de una obra de conformidad con las normas legales y reglamentarias vigentes; o
 
 e) No efectúe notificación a la Dirección de Obras Públicas del cambio de su domicilio.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
+
 II. Se suspende el ejercicio de director responsable de obra o proyecto por un periodo comprendido entre 5 y 6 meses cuando:
 
 a) Omita la tramitación del certificado de habitabilidad, una vez terminada la construcción autorizada;
 
-b) Acumule 2 amonestaciones en el período de la vigencia de la Licencia de Construcción; o
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
-c) No se respete las restricciones de la edificación conforme al proyecto autorizado.
+b) Acumule 3 amonestaciones en el período de 1 año, a partir de la primera amonestación que se pretenda computar; o
 
-III. Se procede a la cancelación del registro del perito cuando:
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
-a) Acumule dos suspensiones;
+c) No se respete el Proyecto Definitivo de Urbanización o el Proyecto Ejecutivo autorizado.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
+
+III. Se procede a la cancelación del registro del perito o director responsable cuando:
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+a) Acumule tres suspensiones;
 
 b) Realice modificaciones sustanciales al proyecto que impliquen daños a la infraestructura municipal, al medio ambiente o que ponga en riesgo inminente la integridad de las personas o de las cosas;
 
@@ -3565,23 +4313,39 @@ c) Firme como director responsable en proyectos sin haberlo realizado; y
 
 d) Firme como perito o director responsable de obra y no lo esté realizando.
 
+> <small>(ADICIONADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+Artículo 321 bis. El perito o director responsable, en cualquiera de sus categorías, será suspendido en sus funciones por un término de 3 años, en los siguientes casos:
+
+I. Actuar sin autorización fuera de su adscripción territorial;
+
+II. Separarse del cargo por más de 30 días hábiles, sin la licencia correspondiente; e
+
+III. Incurrir en falta de probidad durante su función.
+
 ###### Artículo 322.
 
 La imposición de las sanciones a los peritos, referidas en el presente capítulo, es atribución de la Dirección de Obras Públicas, la cual, garantizando el derecho de audiencia del afectado y observando las disposiciones legales y reglamentarias aplicables determina la sanción correspondiente.
 
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 323.
 
-En el caso de los peritos urbanos de obras y proyectos, pueden ser suspendidos cuando omitan atender oportunamente las indicaciones asentadas en la bitácora de obra por el perito de supervisión municipal o de la dependencia competente en materia de inspección cuyo incumplimiento signifique grave peligro para la seguridad de las obras bajo su responsabilidad.
+En el caso de los peritos o directores responsables de obras y proyectos, se aplicarán las sanciones señaladas en el artículo 321 cuando omitan atender oportunamente las indicaciones asentadas en la bitácora de obra por el perito de supervisión municipal o de la dependencia competente en materia de inspección cuyo incumplimiento signifique grave peligro para la seguridad de las obras bajo su responsabilidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 324.
 
-Se revocará el registro de perito o directo responsable, en cualquiera de sus denominaciones, y se le inhabilitará para desempeñar el cargo posteriormente, cuando incurra en uno de los siguientes casos
+Se revocará el registro de perito o director responsable, en cualquiera de sus denominaciones, y se le inhabilitará para desempeñar el cargo posteriormente, cuando incurra en uno de los siguientes casos:
 
 I. Separarse de sus funciones sin haber obtenido la licencia correspondiente, por más de 60 días hábiles continuos;
 
 II. Reincidir en faltas de probidad en el ejercicio de sus funciones; y
 
-III. Autorizar solicitudes que no cumplan con lo establecido en este Reglamento, en los Planes y Programas y de Desarrollo Urbano, o en los reglamentos municipales, Reglamento de Construcción del Municipio correspondientes.
+> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+
+III. Autorizar solicitudes que no cumplan con lo establecido en este Reglamento, en los Planes y Programas y de Desarrollo Urbano, o en los reglamentos municipales correspondientes.
 
 ###### Artículo 325.
 
@@ -3637,15 +4401,15 @@ El recurso de revisión será tramitado y resuelto por la Sindicatura Municipal,
 
 ###### Artículo 335.
 
-Los recursos de revisión presentados con fundamento al artículo 357 del Código deben ser tramitados y resueltos por el Comité Dictaminador de los Recursos de Revisión en Materia de Desarrollo Urbano, de conformidad a lo dispuesto en el Reglamento de Gestión del Desarrollo Urbano para el Municipio de Guadalajara.
+(DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
-El Comité deberá hacerse valer de los instrumentos y documentos de planeación disponibles y/o en caso de ser necesario podrá solicitar las opiniones técnicas a las dependencias competentes para emitir su resolución.
+> <small>(ADICIONADO, G.M. 24 DE ABRIL DE 2017)</small>
 
-Las resoluciones que emita el Comité deberán ser validadas por el Ayuntamiento para su eficacia, para tal efecto se seguirá el siguiente procedimiento:
+Artículo 335 bis. El Comité Dictaminador de los Recursos de Revisión en Materia de Desarrollo Urbano, será el competente para tramitar y resolver los recursos de revisión en los siguientes supuestos:
 
-I. El Síndico cuidará que el envío del expediente y el proyecto de resolución lleguen a la Secretaría General con una anticipación mínima de 72 horas anteriores a la celebración de la sesión del Ayuntamiento en que se deba conocer del asunto; y
+I. Los recursos presentados con fundamento en el artículo 357 del Código.
 
-II. Una vez recibidas las constancias a que se refiere el artículo anterior el Secretario General, a más tardar 48 horas anteriores a la celebración de la sesión en que se deba de conocer del asunto, lo hará del conocimiento de la misma mediante una copia o en digital a cada uno de los miembros del Ayuntamiento.
+II. Los recursos presentados con relación a la emisión de dictámenes y autorizaciones en materia de desarrollo urbano.
 
 ###### Artículo 336.
 
@@ -3667,11 +4431,11 @@ Tercero. La Dirección (sic) Medio Ambiente para el procedimiento de evaluación
 
 Cuarto. Las Direcciones Municipales de la Coordinación General de Gestión Integral de la Ciudad, así como la Dirección de Protección Civil y Bomberos tendrán un plazo de 90 días para emitir las disposiciones administrativas, que se desprendan de la publicación del presente reglamento.
 
-Quinto. El propietario o poseedor de un Predio, podrá optar por un giro o actividad del impacto inmediato superior, debiéndolo solicitar a la Dirección de Padrón y Licencias cuando se trate de Giro Impacto Mínimo, Bajo y Medio, y a la Dirección de Ordenamiento del Territorio tratándose de giros Impacto Alto y Máximo, mediante un Dictamen de Usos y Destinos Específico, documento en el cual, se establecerá si es posible o no dicha permisibilidad. En caso positivo, se indicarán las condicionantes que deberá cumplir el propietario o poseedor, las cuales incluyen el visto bueno de las Direcciones de Medio Ambiente, de Movilidad y Transporte y de Protección Civil y Bomberos, que deberán ser presentados en la Dirección de Padrón y Licencias, para que esta pueda emitir la Licencia de Funcionamiento correspondiente.
+Quinto. (DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
-La clasificación de áreas y zonificación señalada en el presente reglamento, será aplicable con los Instrumentos de Planeación Urbana municipales posteriores y sucesivos a la aplicación del presente reglamento.
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
-Sexto. El Inventario del Patrimonio Cultural Urbano del Municipio de Guadalajara deberá elaborarse y publicarse en la Gaceta Municipal de Guadalajara dentro de los 180 días hábiles siguientes a la entrada en vigor del presente reglamento, bajo la coordinación de la Dirección de Ordenamiento del Territorio. El Ayuntamiento de Guadalajara a través de la dependencia competente deberá destinar la partida presupuestal necesaria para la elaboración y publicación del inventario municipal aquí mencionado.
+Sexto. El Inventario del Patrimonio Cultural Urbano Arquitectónico del Municipio de Guadalajara deberá elaborarse y publicarse en la Gaceta Municipal de Guadalajara dentro de los 180 días hábiles siguientes a la entrada en vigor del presente reglamento, bajo la coordinación de la Dirección de Ordenamiento del Territorio. El Ayuntamiento de Guadalajara a través de la dependencia competente deberá destinar la partida presupuestal necesaria para la elaboración y publicación del inventario municipal aquí mencionado.
 
 Séptimo. En tanto no se publique en la Gaceta Municipal de Guadalajara, el Inventario actualizado del Patrimonio Cultural Urbano del Municipio de Guadalajara, para la dictaminación se seguirá aplicando el inventario que se encuentre vigente a la fecha de publicación del presente Reglamento.
 
@@ -3679,11 +4443,15 @@ Octavo. La Dirección de Ordenamiento del Territorio elaborará el o los manuale
 
 Noveno. Los bienes que se encuentren protegidos por la Ley de Patrimonio Cultural del Estado de Jalisco y sus Municipios o, por cualquier otro instrumento legal o convencional, seguirán contando con la protección de la que gozan actualmente, hasta en tanto sean integrados al inventario del patrimonio cultural, en los términos del presente reglamento.
 
-Décimo. A las acciones urbanísticas que se encuentren en los supuestos a que se refieren las Disposiciones Administrativas que Regulan los Mecanismos de Compensación, Indemnización y Mitigación para el Municipio de Guadalajara y que se localicen en un perímetro de 500 metros de un corredor de transporte público masivo, para el caso del total de excedentes de construcción, les serán aplicables los valores contenidos en artículo 33 de la Ley de Ingresos del Municipio de Guadalajara.
+Décimo. (DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
 Décimo Primero. El catálogo de giros para los usos y destinos aplicables en el Municipio, se tomará del Sistema de Clasificación Industrial de América del Norte, SCIAN, para efectos del presente Reglamento, la Clase de Actividad se entenderá por Giro. La Dirección de Ordenamiento del Territorio deberá verificar las actualizaciones realizadas a dicho instrumento, para poder realizar la clasificación de los giros, de acuerdo al impacto generado.
 
 Décimo Segundo. Quedan derogadas las disposiciones de orden municipal que se opongan a lo establecido en el presente ordenamiento.
+
+> <small>(ADICIONADO, G.M. 24 DE ABRIL DE 2017)</small>
+
+Décimo Tercero. En tanto no se actualicen los instrumentos de planeación urbana, la Dirección hará la equivalencia entre la zonificación del presente reglamento y los instrumentos de planeación, la cual deberá definirse en la norma técnica.
 
 Para su publicación y observancia, promulgo el presente Reglamento de Gestión Integral del Municipio de Guadalajara, a los 30 días del mes de junio del año 2016.
 
@@ -3698,3 +4466,19 @@ PRESIDENTE MUNICIPAL DE GUADALAJARA
 LICENCIADO JUAN ENRIQUE IBARRA PEDROZA
 
 SECRETARIO GENERAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.M. 24 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA”.]
+
+Primero. Publíquese el presente ordenamiento municipal en la Gaceta Municipal de Guadalajara.
+
+Segundo. Este ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Se derogan todas las disposiciones municipales que se opongan al presente ordenamiento municipal.
+
+Cuarto. Publicado que sea el presente ordenamiento, remítase un tanto del mismo al Congreso del Estado de Jalisco para los efectos estipulados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+Quinto. Se faculta a los ciudadanos Presidente Municipal, Secretario General, Síndico y Tesorero Municipal, todos de este Ayuntamiento, a suscribir la documentación inherente y necesaria para el cumplimiento del presente.
