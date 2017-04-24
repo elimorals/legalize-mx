@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-la-ley-para-la-prevencion-y-gestion-integral-6358
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-15"
-last_updated: "2008-08-15"
+last_updated: "2017-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63587&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # REGLAMENTO DE LA LEY PARA LA PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS SOLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE PUEBLA
 
-REGLAMENTO DE LA LEY PARA LA PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS SOLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE PUEBLA
+REGLAMENTO DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2017.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 15 de agosto de 2008.
 
@@ -33,7 +33,9 @@ Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos
 
 LICENCIADO MARIO P. MARÍN TORRES, Gobernador Constitucional del Estado Libre y Soberano de Puebla; y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 79 fracción IV y 121 de la Constitución Política del Estado Libre y Soberano de Puebla; 2, 3 Y 19 de la Ley Orgánica de la Administración Pública del Estado de Puebla, he tenido a bien emitir el siguiente:
 
@@ -45,9 +47,11 @@ DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY PARA LA PREVENCIÓN Y GESTI
 
 El presente ordenamiento es de interés público y de observancia general en la Entidad y tiene por objeto proveer en el ámbito administrativo, el exacto cumplimiento de las disposiciones de la Ley para la Prevención y Gestión Integral de Residuos Sólidos Urbanos y de Manejo Especial para el Estado de Puebla.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 2.
 
-La aplicación de este Reglamento corresponde al Ejecutivo del Estado, por conducto de la Secretaría del Medio Ambiente y Recursos Naturales; así como a los Ayuntamientos, en el ámbito de sus respectivas competencias, sin perjuicio de las atribuciones que corresponda a otras dependencias o entidades del Poder Ejecutivo Federal o Estatal, de conformidad con las disposiciones legales aplicables.
+La aplicación de este Reglamento corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial; así como a los Ayuntamientos, en el ámbito de sus respectivas competencias, sin perjuicio de las atribuciones que correspondan a otras dependencias o entidades del Poder Ejecutivo Federal o Estatal, de conformidad con las disposiciones legales aplicables.
 
 ###### ARTÍCULO 3.
 
@@ -169,7 +173,9 @@ IX.- Presentar copia simple de la licencia de funcionamiento; y
 
 X.- Los demás que sean requeridos por la Secretaria y sean necesarios para la integración del expediente respectivo.
 
-La Secretaría para emitir su resolución, podrá formular las observaciones pertinentes al solicitante; lo anterior para que en un término no mayor a cinco días se realicen las modificaciones o adecuaciones correspondientes.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2017)</small>
+
+La Secretaría para emitir su resolución, podrá formular las observaciones pertinentes al solicitante; lo anterior para que en un término no mayor a diez días hábiles se realicen las modificaciones o adecuaciones correspondientes.
 
 De no efectuarse las adecuaciones sugeridas por la Secretaría; por parte del responsable de la formulación del Plan de Manejo respectivo, se entenderá por no presentada y se archivará, sin responsabilidad alguna, para la Secretaría.
 
@@ -212,6 +218,12 @@ XVI.- Productos y subproductos;
 XVII.- Fecha; y
 
 XVIII.- Los demás que sean necesarios para la debida integración del expediente respectivo.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2017)</small>
+
+ARTÍCULO 12 BIS.- El trámite de evaluación de los planes de manejo de residuos de construcción, mantenimiento y demolición, podrá realizarse de manera simultánea al relativo a la obtención de la autorización en materia de impacto ambiental, en los términos establecidos en la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla.
+
+Sin embargo, los planes de manejo de residuos de construcción, mantenimiento y demolición no podrán autorizarse sin que se cuente con el pronunciamiento previo respecto de la autorización en materia de impacto ambiental.
 
 ###### ARTÍCULO 13.
 
@@ -301,15 +313,31 @@ V.- Equipo de transporte a utilizar del sitio de transferencia al sitio de dispo
 
 Lo anterior sin perjuicio de contar con las autorizaciones de impacto ambiental, de uso de suelo y demás permisos y licencias emitidos por las autoridades ambientales; independientemente de las correspondientes en materia de medidas de seguridad y protección civil.
 
-Los requisitos señalados en el presente artículo serán también aplicables pata (sic) otorgar la autorización de la Secretaría a que hacen referencia los artículos 53 y 55 de la Ley, ello independientemente de contar con el Plan de Manejo debidamente autorizado por dicha Dependencia.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2017)</small>
+
+Los requisitos señalados en el presente artículo serán también aplicables para otorgar la autorización de la Secretaría a que hacen referencia los artículos 53 y 55 de la Ley, ello independientemente de contar con el Plan de Manejo debidamente autorizado por dicha Dependencia.
 
 ###### ARTÍCULO 23.
 
 El transporte de residuos sólidos urbanos y de manejo especial, a través del territorio del Estado se realizará por parte de los responsables con autorización de la Secretaría, siempre que esta actividad sea de su competencia.
 
-Todo vehículo destinado al transporte de residuos sólidos urbanos y de manejo especial que tengan una capacidad de 20 yardas cúbicas o superior a ésta deberán contar con la autorización de la Secretaría.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2017)</small>
+
+Todo vehículo destinado al transporte de residuos sólidos urbanos y de manejo especial, deberá contar con la autorización de la Secretaría.
 
 Los prestadores de servicios de manejo de los residuos sólidos que lleven a cabo la transferencia de los mismos, deberán informar permanentemente a las autoridades correspondientes sobre el control y manejo de los mismos.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2017)</small>
+
+ARTÍCULO 23 BIS.- Los vehículos destinados al transporte de residuos sólidos urbanos y de manejo especial, deberán contar con las características de funcionalidad para la prestación del servicio de recolección y disposición de residuos, así como con las condiciones adecuadas para su operación de acuerdo con las características del o los residuos que se manejen, evitando el riesgo de derrames, liberación, dispersión o voladura de residuos, asegurando en todo momento no afectar el ambiente o la salud de las personas.
+
+En ningún momento los vehículos deberán de exceder del noventa por ciento de su capacidad de carga, y además deberán contar con las especificaciones siguientes:
+
+I. Contar con equipo contra incendios consistente en extintores de polvo químico seco, como mínimo uno por vehículo, y en caso de vehículos dedicados a la transferencia de residuos de manejo especial con capacidad de 20 toneladas o más, deberán contar con dos extintores como mínimo;
+
+II. Contar con arnés y conectores tipo automotriz, tratándose de remolques, y
+
+III. Tener luces de iluminación para trabajo nocturno, estrobos, torreta, señales de alerta y reflejantes.
 
 #### SECCIÓN II. PRESTACIÓN DE SERVICIOS EN MATERIA DE RESIDUOS
 
@@ -434,3 +462,13 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 Se derogan todas las disposiciones legales y administrativas que se opongan al presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los cuatro días del mes de agosto de dos mil ocho.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.- El Secretario del Medio Ambiente y Recursos Naturales.- LICENCIADO FRANCISCO E. CASTILLO MONTEMAYOR.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
