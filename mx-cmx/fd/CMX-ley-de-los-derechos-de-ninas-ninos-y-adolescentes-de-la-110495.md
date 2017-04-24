@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2016-11-04"
+last_updated: "2017-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE ABRIL DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -80,7 +80,7 @@ VII. Impulsar y consolidar la atención integral y la generación de oportunidad
 
 Para garantizar la protección de los derechos humanos de niñas, niños y adolescentes en la Ciudad de México, las autoridades realizarán las acciones y tomarán medidas, de conformidad con los principios establecidos en la presente Ley.
 
-> <small>[N. DE E. REUBICADO ANTES PARTE DEL PRIMER PÁRRAFO , G.O. 4 DE NOVIEMBRE DE 2016]</small>
+> <small>[N. DE E. REUBICADO ANTES PARTE DEL PRIMER PÁRRAFO, G.O. 4 DE NOVIEMBRE DE 2016]</small>
 
 Para tal efecto, deberán:
 
@@ -634,15 +634,21 @@ XVI. Establecer medidas para la detección temprana de discapacidades a efecto d
 
 XVII. Coadyuvar en el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad.
 
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2017)</small>
+
+XVIII. Fomentar, promover y proteger la práctica de lactancia materna como medida para combatir la mortalidad por desnutrición de las niñas y los niños que se encuentran en la primera infancia.
+
 En todos los casos que proporcionen los servicios de salud se respetará el derecho a la intimidad de niñas, niños y adolescentes y a un trato digno.
 
 ###### Artículo 48.
 
 Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, deberán garantizar el derecho a la seguridad social.
 
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 49.
 
-Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias, deben desarrollar políticas para fortalecer la salud materno infantil y aumentar la esperanza de vida.
+Las autoridades y las alcaldías, en el ámbito de sus respectivas competencias, deben desarrollar políticas para fortalecer la salud materno infantil, prácticas de lactancia materna y aumentar la esperanza de vida.
 
 (REPUBLICADO PRIMER PÁRRAFO, G.O. 4 DE NOVIEMBRE DE 2016)
 
@@ -1710,7 +1716,7 @@ SE EXPIDEN EN LA CIUDAD DE MÉXICO, A LOS TRECE DÍAS DEL MES DE ABRIL DEL AÑO 
 
 DIRECTOR DE LEGISLACIÓN Y TRÁMITES INMOBILIARIOS
 
-LIC. FALVIO MARTÍNEZ ZAVALA
+LIC. FLAVIO MARTÍNEZ ZAVALA
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
@@ -1721,3 +1727,11 @@ G.O. 4 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 24 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL, DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL DISTRITO FEDERAL, DE LA LEY DE SALUD DEL DISTRITO FEDERAL Y DE LA LEY DE LOS DERECHOS DE LOS NIÑOS, NIÑAS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
