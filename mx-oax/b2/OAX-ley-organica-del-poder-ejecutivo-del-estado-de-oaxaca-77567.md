@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2017-04-21"
+last_updated: "2017-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "OAX"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2017 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -397,6 +401,10 @@ IV. Coordinación General de Educación Media Superior y Superior; Ciencia y Tec
 
 V. Coordinación General de Enlace Federal y Relaciones Internacionales.
 
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2017)</small>
+
+VI. Coordinación General de Delegaciones de Gobierno.
+
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
 Asimismo, podrán estar directamente sectorizadas a la Gubernatura del Estado, las entidades paraestatales o áreas administrativas que el Gobernador determine.
@@ -441,23 +449,17 @@ XIII. Solicitar la declaratoria de emergencia a la Secretaría de Gobernación e
 
 XIV. Instaurar y tramitar los procedimientos, integrando los expedientes respectivos, y ejecutar los acuerdos que emita el Gobernador en materia de expropiación, ocupación temporal y limitación de dominio, en los casos de utilidad pública y de acuerdo con la normatividad aplicable;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XV. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2016)
 
 XVI. Intervenir en auxilio o coordinación con las autoridades federales en los términos de las leyes relativas en materia de loterías, rifas y juegos prohibidos;
 
 XVII. Intervenir en auxilio o coordinación con las autoridades federales en los términos de las leyes y convenios relativos, en materia de migración, política poblacional, cultos religiosos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XVIII. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2016)
 
 XIX. Certificar todo tipo de documentos, así como, dar legalidad a todos los actos relativos al despacho de los asuntos del Ejecutivo;
 
 XX. Recibir del Instituto Estatal Electoral y de Participación Ciudadana, las salas competentes del Tribunal Electoral del Poder Judicial de la Federación y del Estado, o en su caso, del Congreso del Estado, el padrón de firmas de las autoridades municipales y auxiliares, e integrar, legalizar, certificar o expedir la acreditación administrativa respectiva;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 XXI. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2016)
 
@@ -473,8 +475,6 @@ XXVI. Apoyar a los organismos electorales del Estado, en el ejercicio de sus atr
 
 XXVII. Promover la celebración de convenios de coordinación y colaboración con los municipios para la realización de acciones, estudios y proyectos tendientes al fortalecimiento del desarrollo municipal y fomentar la participación ciudadana;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 XXVIII. Refrendar con su firma las leyes o decretos enviados para su promulgación y publicación por el Congreso del Estado, así como los reglamentos, decretos, acuerdos y demás disposiciones de carácter general que expide el Gobernador del Estado y aquellas que deban de regir en la entidad y establezca la normatividad aplicable en la materia, remitiéndolos inmediatamente a la consejería jurídica del gobierno del Estado para su publicación en el Periódico Oficial del Gobierno del Estado;
@@ -485,21 +485,13 @@ XXX. Dirigir, planear, desarrollar y promover la aplicación de la política de 
 
 XXXI. Coordinar, supervisar y evaluar las actividades y resultados de sus órganos desconcentrados y las entidades sectorizadas a la Secretaría;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XXXII. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 XXXIII. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XXXIV. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2016)
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-XXXV. Coordinar y Organizar las Delegaciones de Gobierno para desarrollar acciones de fortalecimiento municipal.
+XXXV. (DEROGADA, P.O. 24 DE ABRIL DE 2017)
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
@@ -2243,7 +2235,7 @@ A la Coordinación General de Enlace Federal y Relaciones Internacionales, le co
 
 I. Cumplir con las directrices en materia de política federal y con las Entidades Federativas que determine el Titular del Poder Ejecutivo;
 
-II. Establecer comunicación y coordinación con los Poderes de la Unión, con la colaboración de la Secretaría de Finanzas, así como con los órganos y organismos constitucionales autónomos federales y nacionales, así como con los Gobiernos de las Entidades Federativas para la atención y resolución de los asuntos de interés público;
+II. Establecer comunicación y coordinación con los Poderes de la Unión, con la colaboración de la Secretaría de Finanzas, así como los órganos y organismos constitucionales autónomos federales y nacionales, así como con los Gobiernos de las Entidades Federativas para la atención y resolución de los asuntos de interés público;
 
 III. Facilitar y promover la gestión de fondos federales e internacionales e inversiones en sectores estratégicos para el crecimiento económico sostenible del Estado;
 
@@ -2294,6 +2286,30 @@ XXV. Contribuir con las instituciones competentes en el diseño de políticas p�
 XXVI. Promover y desarrollar acciones y programas a favor de los oaxaqueños en el exterior, coordinándose con otras dependencias y organismos competentes en la materia, y
 
 XXVII. Las demás que señalen las leyes, reglamentos y decretos, así como las que le encomiende el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2017)</small>
+
+ARTÍCULO 54 BIS. A la Coordinación General de Delegaciones de Gobierno le corresponde el despacho de los siguientes asuntos:
+
+I. Representar al Poder Ejecutivo en las regiones del Estado y auxiliarlo en las actividades que le encomiende;
+
+II. En representación del Gobernador del Estado, atender regionalmente las peticiones de la ciudadanía y canalizarlas para su atención a las Dependencias y Entidades de la Administración Pública Estatal y en su caso solicitar la colaboración de las autoridades municipales, estatales y federales;
+
+III. Elaborar un diagnóstico de las situaciones prevalecientes en el interior del Estado en el contexto administrativo, económico, político, social y presentar alternativas de solución al Gobernador;
+
+V (SIC). A solicitud de las autoridades Municipales auxiliar en los trámites y gestiones que deban realizar ante las oficinas de las Administraciones Públicas Federal y Estatal;
+
+VI. Coordinar mediante el apoyo de Protección Civil Estatal y Federal las acciones en materia de prevención y atención a desastres naturales;
+
+VII. Proponer proyectos y políticas públicas en la operación regional, mediante mecanismos de coordinación;
+
+VIII. En coordinación con COPLADE procurar el desarrollo y gobernabilidad regional en el Estado;
+
+IX. Coadyuvar en las tareas de organización, dirección, ejecución, supervisión y evaluación de acciones que realice la Administración Pública Estatal;
+
+X. Coadyuvar en el cumplimiento de las funciones que están a cargo de las Dependencias y Entidades de la Administración Pública Estatal; y
+
+XI. Los demás que le señalen las Leyes, Decretos y Reglamentos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
@@ -2911,7 +2927,7 @@ P.O. 18 DE MARZO DE 2017.
 
 P.O. 21 DE ABRIL DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 578.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL MONTE DE PIEDAD DEL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA."]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 578.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL MONTE DE PIEDAD DEL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA.”]
 
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -2934,3 +2950,15 @@ NOVENO. Se faculta al Titular de la Secretaría de Finanzas para que, en términ
 DÉCIMO. El Consejo de Administración del Monte de Piedad deberá quedar instalado dentro de los siguientes 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto.
 
 DÉCIMO PRIMERO. El Titular del Poder Ejecutivo en un término no mayor a 60 días hábiles siguientes al de la entrada en vigor del presente Decreto, publicará las adecuaciones reglamentarias necesarias de conformidad con la presente reforma.
+
+P.O. 24 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 595.- MEDIANTE EL CUAL SE ADICIONAN LA FRACCIÓN VI AL ARTICULO 33 Y EL ARTICULO 54 BIS; Y SE DEROGA LA FRACCIÓN XXXV DEL ARTICULO 34 A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- En todos los casos en que por la aplicación de este Decreto se modifique la estructura orgánica de la reciente dependencia de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables.
+
+CUARTO.- Cuando una unidad administrativa se transfiera de una dependencia a otra, se hará incluyendo los recursos humanos, financieros y materiales que venía utilizando para la atención de los asuntos a su cargo, debiendo intervenir en el ámbito de sus competencias, la Secretaría de Finanzas y la Secretaría de Administración.
