@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-social-para-88667"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-07-30"
-last_updated: "2017-04-13"
+last_updated: "2017-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88667&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,6 +24,8 @@ issue_date: "2012-07-23"
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL D.O.F. DE 24 DE ABRIL DE 2017.]</small>
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 30 de julio de 2012.
 
@@ -91,9 +93,25 @@ XIII. Un Organo Interno de Control, que se regirá conforme a lo dispuesto por e
 
 ### CAPITULO SEGUNDO. De la Junta Directiva
 
-> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2017)</small>
+> <small>(F. DE E., D.O.F. 24 DE ABRIL DE 2017)</small>
 
-ART. 4.- La Junta Directiva actuará válidamente con seis de sus miembros y sus resoluciones se tomarán por mayoría de votos de los miembros presentes. En caso de no asistir el Presidente y Vicepresidente de la Junta Directiva, se suspenderá la sesión, levantándose el Acta Circunstanciada correspondiente y estableciendo la nueva fecha de sesión.
+ART. 4.- Además de las atribuciones y funciones que la Ley de este Instituto concede a la Junta Directiva, la misma observará los siguientes lineamientos.
+
+> <small>(F. DE E., D.O.F. 24 DE ABRIL DE 2017)</small>
+
+La Junta Directiva celebrará por lo menos dos sesiones al mes y cuantas sean necesarias para la debida marcha del Instituto.
+
+> <small>(F. DE E., D.O.F. 24 DE ABRIL DE 2017)</small>
+
+Con dos sesiones al mes se pueden ajustar las semanas a los días feriados, además se podrá convocar a sesiones extraordinarias en caso de requerirlo.
+
+(REFORMADO, D.O.F. 13 DE ABRIL DE 2017) (F. DE E., D.O.F. 24 DE ABRIL DE 2017)
+
+La Junta Directiva actuará válidamente con seis de sus miembros y sus resoluciones se tomarán por la mayoría de votos de los miembros presentes. En caso de no asistir el Presidente y Vicepresidente de la Junta Directiva, se suspenderá la sesión, levantándose el Acta Circunstanciada correspondiente y estableciendo la nueva fecha de sesión.
+
+> <small>(F. DE E., D.O.F. 24 DE ABRIL DE 2017)</small>
+
+De no contar con quórum, se considerará reunión de trabajo y los asuntos que se traten serán sometidos a consideración de la Junta Directiva para su posterior aprobación por el pleno de ésta. En caso de ser reunión de trabajo, no se numerará y se corre el número a la siguiente sesión.
 
 ART. 5.- Para la celebración de las sesiones de la Junta Directiva se emitirá convocatoria por el Director General o por el Secretario de ésta, en su caso. La convocatoria se hará llegar a los miembros de la Junta Directiva con una anticipación no menor de cinco días hábiles a la fecha de la cita y se acompañará del orden del día y de la documentación correspondiente de los asuntos a tratar.
 
@@ -769,6 +787,6 @@ D.O.F. 2 DE DICIEMBRE DE 2016.
 
 D.O.F. 13 DE ABRIL DE 2017.
 
-## [N. DE E. TRANSITORIO DE "REFORMAS Y ADICIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS".]
+## [N. DE E. TRANSITORIO DE “REFORMAS Y ADICIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS”.]
 
 ÚNICO.- Las presentes reformas y adiciones al Estatuto Orgánico entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
