@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-y-eliminar-la-discriminacion-en-la-ciudad-798
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-24"
-last_updated: "2015-11-18"
+last_updated: "2017-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79884&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-02-23"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE ABRIL DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 24 de febrero de 2011.
 
@@ -254,7 +254,11 @@ XX. Negar, obstaculizar, restringir o impedir, bajo cualquier forma, el acceso a
 
 XXI. Negar, obstaculizar, restringir o impedir, bajo cualquier forma, la celebración del contrato de seguro sobre las personas o de seguros médicos;
 
-XXII. Limitar, obstaculizar o impedir el derecho a la alimentación, la vivienda, la recreación y los servicios de atención médica adecuados;
+> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2017)</small>
+
+XXII. Limitar, obstaculizar o impedir el derecho a la alimentación, la vivienda, la recreación y los servicios de atención médica adecuados.
+
+Se considera limitación, obstaculización e impedimento al derecho a la alimentación correcta de un niño o niña, los insultos o condicionantes que se le impongan a la mujer que lo alimente a través de la lactancia materna en las vías y espacios públicos.
 
 XXIII. Negar, obstaculizar o impedir, bajo cualquier forma, el acceso a cualquier servicio público o de institución privada que preste u ofrezca servicios al público;
 
@@ -1469,3 +1473,11 @@ G.O. 18 DE NOVIEMBRE DE 2015.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 24 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL, DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL DISTRITO FEDERAL, DE LA LEY DE SALUD DEL DISTRITO FEDERAL Y DE LA LEY DE LOS DERECHOS DE LOS NIÑOS, NIÑAS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
