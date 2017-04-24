@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-educacion-cultura-y-190
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-01-11"
-last_updated: "2014-09-17"
+last_updated: "2017-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION, CULTURA Y BIENESTAR SOCIAL
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ABRIL DE 2017.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 11 de enero de 2001.
 
 ARTURO MONTIEL ROJAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTICULO 77 FRACCION IV DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO, Y CON FUNDAMENTO EN LO DISPUESTO EN LOS ARTICULOS 2, 7 Y 8 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO; Y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 En mérito de lo expuesto, he tenido a bien expedir el siguiente:
 
@@ -53,37 +55,43 @@ La Secretaría de Educación, como dependencia del Poder Ejecutivo del Estado, t
 
 Cuando este ordenamiento haga referencia a la Secretaría, se entenderá a la Secretaría de Educación y Secretario, al Secretario de Educación.
 
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 3.
 
-Para el estudio, planeación y despacho de los asuntos de su dependencia, así como para entender las funciones de control y evaluación que le corresponden, la Secretaría contará con las siguientes unidades administrativas:
+Para el estudio, planeación y despacho de los asuntos de su competencia, así como atender las funciones de control y evaluación que le corresponden, la Secretaría contará con las unidades administrativas siguientes:
 
-I. Subsecretaría de Educación Básica y Normal;
+I. Subsecretaría General de Educación;
 
-II. Subsecretaría de Educación Media Superior y Superior;
+II. Subsecretaría de Educación Básica y Normal;
 
-III. Subsecretaría de Planeación y Administración;
+III. Subsecretaría de Educación Media Superior y Superior;
 
-IV. Dirección General de Educación Básica;
+IV. Subsecretaría de Planeación y Administración;
 
-V. Dirección General de Educación Normal y Desarrollo Docente;
+V. Dirección General de Educación Básica;
 
-VI. Dirección General de Educación Media Superior;
+VI. Dirección General de Educación Normal y Fortalecimiento Profesional;
 
-VII. Dirección General de Educación Superior;
+VII. Dirección General de Educación Media Superior;
 
-VIII. Dirección General de Planeación y Proyectos;
+VIII. Dirección General de Educación Superior;
 
-IX. Dirección General de Administración y Finanzas;
+IX. Dirección General de Información, Planeación, Programación y Evaluación;
 
-X. Coordinación Jurídica y de Legislación; y
+X. Dirección General de Administración y Finanzas;
 
-XI. Contraloría Interna.
+XI. Coordinación Jurídica y de Legislación; y
 
-El Secretario contará con el número de asesores y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo al presupuesto respectivo.
+XII. Contraloría Interna.
+
+El titular de la Secretaría contará, además, con los asesores y órganos técnicos y administrativos necesarios, para el cumplimiento de sus atribuciones de acuerdo al presupuesto respectivo.
+
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 4.
 
-La Secretaría, subsecretarias, direcciones generales y demás unidades administrativas que la integran, conducirán sus actividades en forma programada, con base en lo señalado en el Plan de Desarrollo del Estado de México, así como en los programas regionales, sectoriales, institucionales y especiales a cargo de la dependencia.
+La Secretaría, la Subsecretaría General, las Subsecretarías, Direcciones Generales y demás Unidades Administrativas que la integran, conducirán sus actividades en forma coordinada y programada, con base en lo señalado por el Plan de Desarrollo del Estado de México, así como en los programas regionales, sectoriales, institucionales y especiales a cargo de la dependencia de conformidad con las disposiciones legales de la materia.
 
 ### CAPITULO II. DE LAS ATRIBUCIONES DEL SECRETARIO
 
@@ -157,43 +165,59 @@ XXI. Resolver las dudas que se susciten, con motivo de la interpretación o apli
 
 XXII. Las demás que le confieran las disposiciones aplicables y el titular del Poder Ejecutivo Estatal, en el ámbito de sus atribuciones.
 
-### CAPITULO III. DE LAS ATRIBUCIONES GENERICAS DE LOS SUBSECRETARIOS
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE ABRIL DE 2017)</small>
+
+### CAPITULO III. DE LAS ATRIBUCIONES GENERICAS DE LA SUBSECRETARIA GENERAL DE EDUCACION Y DE LAS SUBSECRETARIAS
+
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 7.
 
-Al frente de cada subsecretaría habrá un subsecretario, quien tendrá las siguientes atribuciones genéricas:
+Al frente de la Subsecretaría General de Educación y de cada Subsecretaría, habrá un titular, quien tendrá las atribuciones genéricas siguientes:
 
-I. Acordar con el Secretario el despacho de los asuntos que le sean encomendados e informarle de las actividades que realicen las unidades administrativas a su cargo;
+I. Acordar con su superior jerárquico el despacho de los asuntos que le sean encomendados e informarle de las actividades que realicen las unidades administrativas a su cargo;
 
-II. Formular y proponer al Secretario los proyectos de los programas anuales de actividades y el presupuesto que les corresponda, así como gestionar los recursos que sean necesarios para el eficaz desarrollo de sus funciones;
+II. Formular y proponer a su superior jerárquico los proyectos de los programas anuales de actividades y el presupuesto que les corresponda, así como gestionar los recursos que sean necesarios para el eficaz desarrollo de sus funciones;
 
-III. Emitir los dictámenes, opiniones o informes que le sean solicitados por el Secretario;
+III. Emitir los dictámenes, opiniones o informes que le sean solicitados por su superior jerárquico;
 
-IV. Suscribir documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o que le correspondan por suplencia;
+IV. Suscribir documentos relativos al ejercicio de sus atribuciones y aquellos que sean señalados por delegación o que le correspondan por suplencia;
 
-V. Proporcionar la información y el apoyo que le sean requeridos por otras dependencias del Ejecutivo del Estado, previo acuerdo del titular de la Secretaría;
+V. Proporcionar la información y el apoyo que le sean requeridos por otras dependencias del Ejecutivo del Estado, previo acuerdo de su superior jerárquico;
 
 VI. Representar al Secretario en los asuntos que este le encomiende;
 
-VII. Someter a la consideración del Secretario los nombramientos de los titulares de las unidades administrativas que correspondan a su área;
+VII. Someter a consideración de su superior jerárquico los nombramientos de los titulares de las unidades administrativas que correspondan a su área;
 
-VIII. Someter a la aprobación del Secretario los estudios, proyectos y acuerdos internos relacionados con el área de su responsabilidad;
+VIII. Someter a aprobación de su superior jerárquico los estudios, proyectos y acuerdos internos con el área de su responsabilidad;
 
 IX. Establecer, de acuerdo al ámbito de su competencia, las normas, políticas, criterios, sistemas y procedimientos de carácter técnico que deban regir el funcionamiento y operación de las unidades administrativas que tenga adscritas;
 
-X. Desempeñar las comisiones que el Secretario le encomiende, e informarle respecto de su desarrollo;
+X. Desempeñar las comisiones que su superior jerárquico le encomiende, e informarle respecto de su desarrollo;
 
-XI. Rendir por escrito los informes diario, semanal, mensual y anual de las actividades realizadas por la subsecretaría a su cargo, así como los que le sean requeridos eventualmente; y
+XI. Rendir por escrito los informes diario, semanal, mensual y anual de las actividades de la Subsecretaría General de Educación o Subsecretaría a su cargo, así como los que le sean requeridos;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+XII. Certificar los documentos que correspondan al ejercicio de sus funciones; y
 
-XII. Certificar los documentos que correspondan al ejercicio de sus funciones.
+XIII. Las demás que le confieran las disposiciones aplicables y aquellas que le encomiende su superior jerárquico.
 
-> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE ABRIL DE 2017)</small>
 
-XIII. Las demás que le confieran las disposiciones aplicables y aquellas que le encomiende el titular de la Secretaría.
+### CAPITULO IV. DE LAS ATRIBUCIONES ESPECIFICAS DE LA SUBSECRETARIA GENERAL DE EDUCACION, DE LAS SUBSECRETARIAS Y ADSCRIPCION DE LAS UNIDADES ADMINISTRATIVAS
 
-### CAPITULO IV. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS SUBSECRETARIAS Y DE LA ADSCRIPCION DE LAS UNIDADES ADMINISTRATIVAS
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE ABRIL DE 2017)</small>
+
+###### Artículo 7 Bis.
+
+A la Subsecretaría General de Educación le corresponde planear, dirigir y evaluar las acciones e instrumentación de los programas y estrategias relativas a las actividades de educación con base en la normatividad, políticas y lineamientos establecidos en la materia.
+
+Quedan adscritas a la Subsecretaría General de Educación:
+
+I. Subsecretaría de Educación Básica y Normal.
+
+II. Subsecretaría de Educación Media Superior y Superior.
+
+III. Subsecretaría de Planeación y Administración.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
 
@@ -205,7 +229,9 @@ Quedan adscritas a la Subsecretaría de Educación Básica y Normal:
 
 I. Dirección General de Educación Básica; y
 
-II. Dirección General de Educación Normal y Desarrollo Docente.
+> <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
+
+II. Dirección General de Educación Normal y Fortalecimiento Profesional.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
 
@@ -241,9 +267,11 @@ La Coordinación Jurídica y de Legislación y la Contraloría Interna quedan ad
 
 Al frente de cada dirección general, habrá un director general, quien se auxiliará de los directores de área, subdirectores, jefes de departamento y demás servidores públicos que las necesidades del servicio requieran, de acuerdo a la organización interna aprobada por el Secretario y al presupuesto de egresos correspondiente.
 
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 13.
 
-Los directores generales ejercerán las atribuciones de su competencia, las que les señalen los ordenamientos aplicables y las funciones que acuerden con el Secretario o subsecretario correspondiente.
+Los directores generales ejercerán las atribuciones de su competencia, las que les señalen los ordenamientos aplicables y las funciones que acuerden con el Secretario, el Subsecretario General de Educación o el Subsecretario correspondiente.
 
 ###### Artículo 14.
 
@@ -265,13 +293,15 @@ VI. Proponer a su superior inmediato las modificaciones administrativas que tien
 
 VII. Asesorar y apoyar técnicamente, en asuntos de su competencia, a los servidores públicos que lo soliciten;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
 
-VIII. Colaborar con el Subsecretario correspondiente en el desempeño de las funciones que el titular de la Secretaría tenga encomendadas como coordinador de sector, respecto a los organismos auxiliares del Poder Ejecutivo.
+VIII. Colaborar con su superior jerárquico en el desempeño de las funciones que el Secretario tenga encomendadas como coordinador de sector, respecto a los organismos auxiliares del Poder Ejecutivo;
 
 IX. Tramitar y resolver, en su caso, los recursos administrativos que se les presenten;
 
-X. Proporcionar, previo acuerdo del Secretario o del subsecretario que corresponda, la información, datos o la cooperación técnica que les sean requeridos por otras dependencias del Poder Ejecutivo del Estado, conforme a las políticas establecidas a este respecto;
+> <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
+
+X. Proporcionar, previo acuerdo de su superior jerárquico, la información, datos o la cooperación técnica que les sean requeridos por otras dependencias del Poder Ejecutivo del Estado, conforme a las políticas establecidas a este respecto;
 
 XI. Rendir por escrito a su superior inmediato los informes diario, semanal, mensual y anual de las actividades realizadas por la dirección general a su cargo, así como los requeridos eventualmente; y
 
@@ -283,9 +313,9 @@ XII. Certificar los documentos que correspondan al ejercicio de sus funciones.
 
 XIII. Participar, en su caso, en los actos y procedimientos relacionados con el ingreso, promoción, permanencia y reconocimiento del personal docente conforme a las disposiciones legales aplicables.
 
-> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
 
-XIV. Las demás que les confieran las disposiciones legales aplicables y aquellas que les encomiende el titular de la Secretaría o de la Subsecretaría correspondiente.
+XIV. Las demás que les confieran las disposiciones legales aplicables y aquellas que les encomiende el titular de la Secretaría, de la Subsecretaría General de Educación o de la Subsecretaría correspondiente.
 
 ### CAPITULO VI. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES GENERALES Y DEMAS UNIDADES ADMINISTRATIVAS
 
@@ -317,11 +347,15 @@ IX. Llevar a cabo la acreditación, registro y certificación de los conocimient
 
 X. Coadyuvar en la supervisión de la vigilancia del cumplimiento de las disposiciones y criterios que regulan las relaciones entre la Secretaría y los planteles particulares que impartan educación básica, con autorización o reconocimiento de validez oficial; y
 
-XI. Las demás que les señalan otros ordenamientos aplicables y las que le encomiende el secretario o el Subsecretario de Educación Básica y Normal.
+> <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
+
+XI. Las demás que les confieran otros ordenamientos aplicables y las que le encomiende el titular de la Secretaría, de la Subsecretaria General de Educación o de la Subsecretaría de Educación Básica y Normal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 16.
 
-Corresponde a la dirección General de Educación Normal y Desarrollo Docente, el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección General de Educación Normal y Fortalecimiento Profesional, el ejercicio de las siguientes atribuciones:
 
 I. Organizar, operar, desarrollar, y supervisar los servicios de educación normal en el subsistema educativo estatal, conforme a las políticas, lineamientos y disposiciones aplicables;
 
@@ -345,11 +379,13 @@ VII. Llevar a cabo la acreditación, registro y certificación de los conocimien
 
 VIII. Coadyuvar en la supervisión y vigilancia del cumplimiento de las disposiciones y criterios que regulan las relaciones entre la Secretaría y los planteles particulares que imparta educación normal, con autorización o reconocimiento de validez oficial;
 
-IX. Desarrollar y operar el programa de carrera magisterial en el subsistema educativo estatal;
+IX. (DEROGADA, G.G. 24 DE ABRIL DE 2017)
 
 X. (DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2014)
 
-XI. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Secretario o el Subsecretario de Educación Básica y Normal.
+> <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
+
+XI. Las demás que le confieran otros ordenamientos aplicables y las que le encomiende el titular de la Secretaría, de la Subsecretaría General de Educación o de la Subsecretaría de Educación Básica y Normal.
 
 ###### Artículo 17.
 
@@ -381,7 +417,9 @@ VIII. Coadyuvar en la supervisión y la vigilancia del cumplimiento de las dispo
 
 IX. Promover mecanismos y procedimientos de coordinación con instituciones que impartan la educación media superior en la Entidad y el país para concertar la planeación y mejoramiento de este tipo educativo.
 
-X. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Secretario o el Subsecretario de Educación Media Superior y Superior.
+> <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
+
+X. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el titular de la Secretaría, de la Subsecretaría General de Educación o de la Subsecretaría de Educación Media Superior y Superior.
 
 ###### Artículo 18.
 
@@ -411,7 +449,9 @@ VIII. Coadyuvar en la supervisión y vigilancia del cumplimiento de las disposic
 
 IX. Promover mecanismos y procedimientos de coordinación con instituciones que impartan la educación superior en la Entidad y el país, para concertar la planeación, evaluación y el mejoramiento de este tipo educativo.
 
-X. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Secretario o el Subsecretario de Educación Media Superior y Superior.
+> <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
+
+X. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el titular de la Secretaría, de la Subsecretaría General de Educación o de la Subsecretaría de Educación Media Superior y Superior.
 
 ###### Artículo 19.
 
@@ -431,15 +471,19 @@ IV. Formular los estudios y proyectos especiales que requiera el sector y propon
 
 V. Vincular los planes y programas del sector con el Plan de Desarrollo del Estado de México.
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
 
-VI. Emitir los dictámenes y opiniones que le solicite el Secretario y las unidades administrativas y organismos auxiliares sectorizados a la Secretaría.
+VI. Emitir los dictámenes y opiniones que le solicite el titular de la Secretaría, de la Subsecretaría General de Educación o de la Subsecretaría de Planeación y Administración, las unidades administrativas y organismos auxiliares sectorizados a la Secretaría;
 
 > <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
 
 VII. Proponer al Subsecretario los proyectos de acuerdos interinstitucionales, de coordinación con los municipios, así como de convenios con los sectores social y privado en los asuntos de su competencia y vigilar el cumplimiento de las obligaciones asumidas por la Secretaría en los convenios o acuerdos que suscriba.
 
 VIII. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Secretario o el Subsecretario de Planeación y Administración.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 24 DE ABRIL DE 2017)</small>
+
+IX. Las demás que le confieran otros ordenamientos legales y las que le encomiende el titular de la Secretaría, de la Subsecretaría General de Educación o de la Subsecretaría de Planeación y Administración.
 
 ###### Artículo 20.
 
@@ -461,7 +505,9 @@ VI. Instrumentar la operación de los programas de becas para los alumnos, en lo
 
 VII. (DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2014)
 
-VIII. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Secretario o el Subsecretario de Planeación y Administración.
+> <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
+
+VIII. Las demás que le confieran otros ordenamientos aplicables y las que le encomiende el titular de la Secretaría, de la Subsecretaría General de Educación o de la Subsecretaría de Planeación y Administración.
 
 ###### Artículo 21.
 
@@ -571,15 +617,17 @@ Para la atención y eficiente despacho de los asuntos de su competencia, la Secr
 
 ### CAPITULO IX. DE LA SUPLENCIA DE LOS TITULARES
 
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2017)</small>
+
 ###### Artículo 28.
 
-El Secretario será suplido en sus ausencias temporales menores de 15 días, por el Subsecretario que el designe. En las mayores de 15 días, por el Subsecretario que designe el Gobernador del Estado.
+El Secretario será suplido en sus ausencias por el Subsecretario General de Educación.
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 29.
 
-Los subsecretarios serán suplidos en sus ausencias hasta por quince días, por el Director General que ellos designen. En las mayores de quince días por el servidor público que designe el Secretario.
+El titular de la Subsecretaría General de Educación y de las Subsecretarías serán suplidos en sus ausencias hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días por el servidor público que designe el Secretario.
 
 > <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
 
@@ -628,3 +676,13 @@ SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente acuerdo.
 
 CUARTO. Cuando en los ordenamientos jurídicos estatales se haga referencia al Reglamento Interior de la Secretaría de Educación, Cultura y Bienestar Social se entenderá al Reglamento Interior de la Secretaría de Educación.
+
+G.G. 24 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente acuerdo.
