@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-coordinacion-estatal-de-asuntos-83033
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-27"
-last_updated: "2014-10-20"
+last_updated: "2017-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83033&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA COORDINACION ESTATAL DE ASUNTOS INTERNACIONALES Y DE APOYO A MIGRANTES POBLANOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA COORDINACIÓN ESTATAL DE ASUNTOS INTERNACIONALES Y DE APOYO A MIGRANTES POBLANOS, PUBLICADO EN EL P.O. DE 25 DE ABRIL DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+
 REGLAMENTO INTERIOR DE LA COORDINACIÓN ESTATAL DE ASUNTOS INTERNACIONALES Y DE APOYO A MIGRANTES POBLANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2017.
 
 Reglamento publicado en la Décima Sección del Periódico Oficial del Estado de Puebla, el lunes 27 de junio de 2011.
 
@@ -53,33 +55,41 @@ La Coordinación Estatal de Asuntos Internacionales y de Apoyo a Migrantes Pobla
 
 Este Reglamento tiene por objeto regular las funciones y atribuciones de la estructura administrativa de la Coordinación Estatal de Asuntos Internacionales y de Apoyo a Migrantes Poblanos, de acuerdo con los objetivos y atribuciones señalados en su Decreto de creación.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 3.
 
 Para los efectos de este Reglamento Interior se entenderá por:
 
-l. Casas de representación: Las oficinas de la Coordinación que se encuentren ubicadas en territorio extranjero;
+I. Casas de representación: A las oficinas de la Coordinación Estatal de Asuntos Internacionales y de Apoyo a Migrantes Poblanos que se encuentren ubicadas en territorio extranjero denominadas “Mi Casa es Puebla”;
 
-II. Coordinación: El Organismo Público Descentralizado de la Administración Pública Estatal denominado "Coordinación Estatal de Asuntos Internacionales y de Apoyo a Migrantes Poblanos";
+II. Consejo del Instituto: Al Consejo Consultivo creado como órgano de apoyo y asesoría del Instituto Poblano para la Asistencia al Migrante;
 
-III. Coordinador General: El Coordinador General de la Coordinación Estatal de Asuntos Internacionales y de Apoyo a Migrantes Poblanos;
+III. Coordinación: Al Organismo Público Descentralizado de la Administración Pública Estatal denominado “Coordinación Estatal de Asuntos Internacionales y de Apoyo a Migrantes Poblanos”;
 
-IV. Decreto: El Decreto por el que se crea la Coordinación Estatal de Asuntos Internacionales y de Apoyo a Migrantes Poblanos como un Organismo Público Descentralizado;
+IV. Coordinador General: Al Coordinador General de la Coordinación Estatal de Asuntos Internacionales y de Apoyo a Migrantes Poblanos;
 
-V. Estado: El Estado Libre y Soberano de Puebla;
+V. Decreto: Al Decreto por el que se crea la Coordinación Estatal de Asuntos Internacionales y de Apoyo a Migrantes Poblanos como un Organismo Público Descentralizado;
 
-VI. Gobernador: El Gobernador Constitucional del Estado de Puebla;
+VI. Estado: Al Estado Libre y Soberano de Puebla;
 
-VII. Junta Directiva: La Junta Directiva de la Coordinación Estatal de Asuntos Internacionales y de Apoyo a Migrantes Poblanos;
+VII. Gobernador: Al Gobernador Constitucional del Estado de Puebla;
 
-VIII. Vocales: Los Vocales que integran la Junta Directiva a que se refiere el Decreto;
+VIII. Instituto: Al Instituto Poblano de Asistencia al Migrante;
 
-IX. Presidente Ejecutivo: El Secretario General de Gobierno;
+IX. Junta Directiva: A la Junta Directiva de la Coordinación Estatal de Asuntos Internacionales y de Apoyo a Migrantes Poblanos;
 
-X. Migrante: Toda persona sin distinción de sexo, originaria o residente del Estado de Puebla, que deja su propio país con ánimo de establecerse en otro extranjero;
+X. Migrante: A toda persona sin distinción de sexo, originaria o residente del Estado de Puebla, que deja su propio país con ánimo de establecerse en otro extranjero;
 
-XI. Reglamento: El Reglamento Interior de la Coordinación Estatal de Asuntos Internacionales y de Apoyo a Migrantes Poblanos; y
+XI. Presidente Ejecutivo: Al Secretario General de Gobierno;
 
-XII. Unidades Administrativas: Las Direcciones, Subdirecciones y demás unidades que conforman la Coordinación.
+XII. Reglamento: Al Reglamento Interior de la Coordinación Estatal de Asuntos Internacionales y de Apoyo a Migrantes Poblanos;
+
+XIII. Repatriado: Al Migrante que retorna a su población de origen, independientemente del tiempo que hayan (sic) residido en el extranjero;
+
+XIV. Unidades Administrativas: A las Direcciones, Subdirecciones y demás unidades que conforman la Coordinación, y
+
+XV. Vocales: A los Vocales que integran la Junta Directiva a que se refiere el Decreto.
 
 ###### ARTÍCULO 4.
 
@@ -93,17 +103,21 @@ II. Coordinador General; y
 
 III. Las siguientes unidades administrativas:
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
 
-1. Coordinación Adjunta;
+1. El Instituto;
 
 > <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
 1.1 Dirección de Apoyo y Protección de Migrantes;
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2017)</small>
 
-1.2 Dirección de Oficinas en el Extranjero;
+1.1.1. Consejo Consultivo;
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
+
+1.2 Dirección de Oficinas en el Extranjero y Vinculación;
 
 2. (DEROGADO, P.O. 20 DE OCTUBRE DE 2014)
 
@@ -239,47 +253,63 @@ XXVIII. Proponer a la Junta Directiva el establecimiento de oficinas de represen
 
 XXIX. Las demás que le delegue o encomiende el Gobernador del Estado de Puebla, la Junta Directiva, así como aquellas que otros ordenamientos le confieran.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ABRIL DE 2017)</small>
 
-#### SECCIÓN II. DE LA COORDINACIÓN ADJUNTA
+#### SECCIÓN II. DEL INSTITUTO POBLANO DE ASISTENCIA AL MIGRANTE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 11.
 
-El Titular de la Coordinación Adjunta, dependerá directamente de la Coordinación General y tendrá las atribuciones siguientes:
+El Instituto es un órgano técnico de apoyo, opinión y colaboración de la Coordinación General, que tiene como finalidad el generar e implementar acciones transversales entre la Federación, el Estado y sus dependencias, para facilitar la re-integración económica, social y cultural de los migrantes y sus familias, el cual tendrá las atribuciones siguientes:
 
-I. Proponer al Coordinador General la apertura o cierre de las casas de representación;
+I. Fortalecer el sentido de pertenencia y el orgullo poblano de nuestros migrantes, a través de la promoción de iniciativas y programas culturales, en coordinación con las autoridades competentes;
 
-II. Poner a consideración del Coordinador General los informes que deban rendirse en relación con las actividades desarrolladas, en el ámbito de su competencia;
+II. Formular y dar seguimiento a las acciones y los programas para apoyar la protección a ciudadanos poblanos y a sus familias en el extranjero y en sus lugares de origen;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2014)</small>
+III. Planear y dirigir las acciones orientadas a promover el desarrollo integral de migrantes poblanos y sus familias;
 
-III. Vigilar la operación de las casas de representación para el cumplimiento oportuno y eficaz de las acciones y programas de protección, de conformidad con la normatividad aplicable;
+IV. Planear las acciones para promover en todo sentido los derechos de los migrantes poblanos, y los migrantes en retorno, con el objeto de fortalecer las condiciones de salud, la formación educativa y el desarrollo social; así como el mejoramiento de la infraestructura de sus comunidades de origen;
 
-IV. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2013)
+V. Promover el compromiso cívico de los poblanos en el extranjero, en coordinación con las distintas instituciones públicas y privadas, con la finalidad de favorecer la democracia participativa para la toma de decisiones en el Estado;
 
-V. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2013)
+VI. Planear y promover programas temporales o permanentes de atención y orientación a migrantes;
 
-VI. Ejecutar las políticas, criterios, sistemas y procedimientos que deban regir a las unidades a su cargo;
+VII. Proponer acciones de apoyo a la población en retorno para reinsertarse de manera exitosa en la vida social del Estado; a través de la promoción de programas institucionales existentes y de reforzar los vínculos entre las comunidades de origen y destino de la migración poblana, en provecho del bienestar familiar y del desarrollo regional y nacional;
 
-VII. Participar en la elaboración del anteproyecto del presupuesto correspondiente a su ámbito de competencia;
+VIII. Promocionar programas de trabajo que beneficien a las empresas y negocios que empleen a los migrantes en retorno, en coordinación con las instancias competentes;
 
-VIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquéllos que le sean señalados por delegación o le correspondan por suplencia;
+IX. Promover y operar el intercambio de información con dependencias e instituciones nacionales e internacionales en materia de migración;
 
-IX. Proporcionar en el ámbito de su competencia y en términos de las disposiciones legales aplicables, la información requerida por las dependencias y entidades de la administración pública del Estado, la Federación, los Municipios y particulares en los casos permitidos por la ley;
+X Llevar el registro de estadística, programas temporales o permanentes de atención y orientación a migrantes, y
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+XI. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las de naturaleza semejante, para el buen funcionamiento.
 
-X. Coordinar sus acciones con las demás unidades administrativas de la Coordinación para el mejor desempeño de sus atribuciones;
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2014)</small>
+###### ARTÍCULO 11 Bis.
 
-XI. Someter a consideración de sus (sic) superior jerárquico las acciones y los programas para apoyar la protección a ciudadanos poblanos y a sus familias en el extranjero y en sus lugares de origen; así como aquellas orientadas a promover el desarrollo integral de migrantes poblanos y sus familias;
+El Instituto contará con un Director General del Instituto, quien dependerá directamente de la Coordinación General y tendrá las atribuciones siguientes:
 
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+I. Apoyar al Coordinador General en las actividades que le encomiende, rindiendo los informes respectivos cuando éste los solicite;
 
-XII. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante, para el buen funcionamiento de la Coordinación, le encomiende el Coordinador General.
+II. Vigilar e informar al Coordinador General el estado que guarda la operación de las casas de representación para el cumplimiento oportuno y eficaz de las acciones y programas de protección, de conformidad con la normatividad aplicable;
+
+III. Proponer al Coordinador General la celebración de convenios y acuerdos de colaboración con la Federación, estados y municipios; a fin de promover ordenamientos jurídicos para el desarrollo integral de los migrantes poblanos, sus familias y sus comunidades de origen;
+
+IV. Participar previo acuerdo con el Coordinador General, en la elaboración del anteproyecto del presupuesto correspondiente a su ámbito de competencia;
+
+V. Ejecutar, previo acuerdo con el Coordinador General, las políticas, criterios, sistemas y procedimientos que deban regir a las unidades a su cargo;
+
+VI. Proporcionar, previo acuerdo con el Coordinador General, la información requerida por las dependencias y entidades de la administración pública del Estado, la Federación, los Municipios y particulares en los casos permitidos por la ley;
+
+VII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquéllos que le sean encomendados por el Coordinador General o le correspondan por suplencia;
+
+VIII. Proponer al Coordinador General políticas públicas dirigidas al desarrollo personal, social, cultural y económico de los migrantes poblanos en retorno;
+
+IX. Promover y operar, previo acuerdo con el Coordinador General, el intercambio de información con dependencias e instituciones nacionales e internacionales en materia de migración, y
+
+X. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las de naturaleza semejante, para el buen funcionamiento.
 
 ### CAPÍTULO III
 
@@ -329,13 +359,15 @@ XIII. Coordinar sus acciones con las demás unidades administrativas de la Coord
 
 XIV. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante, para el buen funcionamiento de la Coordinación, le encomiende la Coordinación General o su superior jerárquico.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE OFICINAS EN EL EXTRANJERO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+#### SECCIÓN II. DE LA DIRECCIÓN DE OFICINAS EN EL EXTRANJERO Y VINCULACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 13.
 
-El Titular de la Dirección de Oficinas en el Extranjero, dependerá directamente de la Coordinación Adjunta y tendrá, además de las atribuciones señaladas en el artículo 12 del Reglamento, las siguientes:
+El Titular de la Dirección de Oficinas en el Extranjero y Vinculación, dependerá directamente del Director General del Instituto y tendrá, además de las atribuciones señaladas en el artículo 12 del Reglamento, las siguientes:
 
 I. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2013)
 
@@ -369,17 +401,47 @@ XII. Colaborar en el ámbito de su competencia, en la promoción del Estado en m
 
 XIII. Crear una base de datos de los migrantes que acuden a las casas de representación;
 
-XIV. Ejecutar programas, a través de las casas de representación, para vincular a los residentes poblanos en el extranjero con el Estado; y
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XIV. Ejecutar programas, a través de las casas de representación, para vincular a los residentes poblanos en el extranjero con el Estado;
 
 XV. Promover a través de las casas de representación, programas de cooperación internacional que involucren al Estado.
 
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XVI. Planear y dirigir las acciones para apoyar la protección a ciudadanos poblanos y a sus familias en el extranjero y en sus lugares de origen; así como para promover en todo sentido los derechos de los migrantes poblanos, y los migrantes en retorno, con el objeto de fortalecer las condiciones de salud, la formación educativa y el desarrollo social; así como el mejoramiento de la infraestructura de sus comunidades de origen;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XVII. Promocionar programas de trabajo que beneficien a las empresas y negocios que empleen a los migrantes en retorno, en coordinación con las instancias competentes;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XVIII. Proponer al Director General del Instituto la celebración de convenios y acuerdos de colaboración con la Federación, estados y municipios; a fin de promover acciones coordinadas para el desarrollo integral de los migrantes poblanos, sus familias y sus comunidades de origen,
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XIX. Fungir como enlace entre las casas de representación y la Coordinación;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XX. Promover programas de apoyo a los migrantes en las casas de representación, y coordinar su desarrollo y cumplimiento, manteniendo informado a su superior jerárquico del resultado de los mismos;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XXI. Llevar el registro de estadística de trámites que se realicen en las casas de representación y revisar que los informes sean rendidos, de conformidad con las disposiciones aplicables en la materia, y
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XXII. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las de naturaleza semejante, para el buen funcionamiento.
+
 #### SECCIÓN III. DE LA DIRECCIÓN DE APOYO Y PROTECCIÓN DE MIGRANTES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 14.
 
-El Titular de la Dirección de Apoyo y Protección de Migrantes, dependerá directamente de la Coordinación Adjunta y su Titular tendrá, además de las atribuciones señaladas en el artículo 12 del Reglamento, las siguientes:
+El Titular de la Dirección de Apoyo y Protección de Migrantes, dependerá directamente del Director General del Instituto y su Titular tendrá, además de las atribuciones señaladas en el artículo 12 del Reglamento, las siguientes:
 
 I. Coordinar con instancias y organismos locales, nacionales e internacionales, públicos o privados, el desarrollo de acciones conjuntas en beneficio de los migrantes;
 
@@ -407,7 +469,9 @@ XII. Intervenir cuando sea necesario, con las Comisiones Nacional y Estatal de D
 
 XIII. Fomentar la reunificación familiar de los migrantes y orientarlos respecto de los trámites en cuestiones de protección de sus familias;
 
-XIV. Realizar los trámites necesarios para la repatriación de cadáveres de poblanos en el extranjero;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XIV. Asesorar y apoyar en los trámites necesarios para la repatriación de cadáveres de poblanos en el extranjero y traslado de enfermos;
 
 XV. Asesorar a los poblanos en el extranjero y a sus familias, en la obtención de copias certificadas de actas de nacimiento, de matrimonio, de defunción, de adopción, constancias de identidad, constancias de estudio, renovación de licencias para conducir y otros documentos que se requieran;
 
@@ -420,6 +484,30 @@ XVII. Proponer a su superior jerárquico las acciones que fomenten la participac
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2014)</small>
 
 XVIII. Dirigir la operación de las oficinas de representación de la Coordinación en el interior del Estado, para el cumplimiento oportuno y eficaz de las acciones y programas de protección, de conformidad con la normatividad aplicable.
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XIX. Recibir documentación por parte de los migrantes para apoyarlos con trámites expedidos por el Estado;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XX. Asesorar a los migrantes para que realicen los trámites necesarios para la obtención de documentación consular ante la Secretaría de Relaciones Exteriores;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XXI. Coadyuvar con las autoridades competentes, en la realización de los trámites para la obtención de documentos de identificación oficiales en favor de los migrantes;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XXII. Promover proyectos productivos que ofrecen otras instancias en las casas de representación, para beneficio de los migrantes;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XXIII. Apoyar en la localización de migrantes en países extranjeros, y
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XXIV. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las de naturaleza semejante, para el buen funcionamiento.
 
 > <small>(DEROGADA SU DENOMINACIÓN Y EL ARTÍCULO QUE LA INTEGRA; P.O. 20 DE OCTUBRE DE 2014)</small>
 
@@ -623,87 +711,151 @@ XVII. Difundir los convenios o acuerdos celebrados en materia de cooperación in
 
 XVIII. Llevar un registro actualizado de los acuerdos y convenios del Estado, aprobados y vigentes, sobre cooperación internacional;
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-XIX. Coordinar acciones con las demás unidades administrativas, para el mejor desempeño de sus atribuciones, y
+XIX. Coordinar acciones con las demás unidades administrativas para el mejor desempeño de sus atribuciones;
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-XX. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios; así como las que de naturaleza semejante para el buen funcionamiento de la Coordinación, le encomiende la Junta Directiva o la Coordinación General.
+XX. Coordinar con las Unidades Administrativas de la Coordinación General, las acciones en materia de transparencia, acceso a la información pública y protección de datos personales, en términos de la legislación, lineamientos y normatividad aplicables en la materia;
 
-## TÍTULO TERCERO. DEL CONSEJO CONSULTIVO
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XXI. Conocer, y en su caso, autorizar los procedimientos internos respecto a la transparencia y acceso a la información pública para la más eficiente y eficaz atención de las solicitudes de acceso a la información pública, y
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XXII. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento de la Coordinación le encomiende la Junta Directiva o la Coordinación General.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ABRIL DE 2017)</small>
+
+## TÍTULO TERCERO. DEL CONSEJO CONSULTIVO DEL INSTITUTO
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 19.
 
-El Consejo Consultivo es la unidad de asesoría, apoyo técnico y de promoción de las acciones de la Coordinación, y estará integrado en la forma que dispone su Decreto y demás ordenamientos aplicables.
+El Consejo Consultivo es la unidad de asesoría, apoyo técnico y de promoción de las acciones del Instituto Poblano de Asistencia al Migrante, cuyo objetivo es emitir opiniones y proponer acciones en materia de política migratoria del Estado de Puebla.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 20.
 
-El Consejo Consultivo sesionará ordinariamente cada seis meses y en forma extraordinaria, las veces que sea necesario, atendiendo a la urgencia del caso a tratar, a juicio del Coordinador General.
+El Consejo Consultivo contará con un Presidente Honorario que será el Gobernador Constitucional del Estado Libre y Soberano de Puebla, y un Secretario Técnico que será el Titular de la Coordinación Estatal de Asuntos Internacionales y de Apoyo a Migrantes Poblanos.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 21.
 
-Las convocatorias del Consejo Consultivo deberán ser notificadas a todos los integrantes con anticipación de por lo menos cinco días hábiles para sesiones ordinarias, y con dos días para sesiones extraordinarias por medio del Coordinador General.
+El Consejo estará integrado por los siguientes Consejeros:
+
+a. Un representante de la Secretaría de Relaciones Exteriores;
+
+b. Un representante del Instituto Nacional de Migración;
+
+c. Un representante de la Comisión de Derechos Humanos del Estado de Puebla;
+
+d. Un representante de la Secretaría de Salud del Gobierno del Estado de Puebla;
+
+e. Un representante de la Secretaría de Educación Pública del Gobierno del Estado de Puebla;
+
+f. Un representante de la Secretaría de Desarrollo Social del Gobierno del Estado de Puebla;
+
+g. Un representante de la Secretaría de Competitividad, Trabajo y Desarrollo Económico del Gobierno del Estado de Puebla;
+
+h. Tres representantes de la sociedad civil vinculados a temas migratorios;
+
+i. Tres académicos;
+
+j. Dos ciudadanos poblanos distinguidos, y
+
+k. Dos representantes del sector empresarial vinculados con temas migratorios.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 22.
 
-El Coordinador General presidirá las sesiones, las que serán válidas con la asistencia de la mayoría simple de sus integrantes; los acuerdos del Consejo Consultivo serán aprobados por mayoría de votos por los miembros presentes, en caso de empate, el Coordinador General tendrá voto de calidad.
+El Consejo Consultivo sesionará ordinariamente cada seis meses y en forma extraordinaria, las veces que sea necesario, atendiendo a la urgencia del caso a tratar, a juicio del Secretario Técnico.
+
+Las convocatorias del Consejo Consultivo deberán ser notificadas a todos los integrantes con anticipación de por lo menos cinco días hábiles para sesiones ordinarias, y con dos días para sesiones extraordinarias por medio del Secretario Técnico.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 23.
 
-El Coordinador General someterá a consideración del Consejo Consultivo los temas a tratar en cada sesión y será el encargado de vigilar el cumplimiento de los acuerdos del Consejo, y en su caso, podrá solicitar la opinión de instituciones públicas o privadas cuando así lo considere necesario para sustentar técnicamente la opinión del Consejo Consultivo.
+El Consejo sesionará válidamente con la asistencia de su Presidente y la mayoría simple de sus integrantes; los acuerdos del Consejo Consultivo serán aprobados por mayoría de votos por los miembros presentes, en caso de empate, el Presidente tendrá voto de calidad.
+
+En caso contrario, se emitirá una segunda convocatoria por parte del Secretario Técnico y la sesión será válida con la asistencia del Presidente y los integrantes presentes.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 24.
 
-Los integrantes del Consejo Consultivo, tendrán las siguientes obligaciones y facultades:
+El Secretario Técnico someterá a consideración del Consejo Consultivo los temas a tratar en cada sesión y será el encargado de vigilar el cumplimiento de los acuerdos del Consejo, y en su caso, podrá solicitar la opinión de instituciones públicas o privadas cuando así lo considere necesario para sustentar técnicamente la opinión del Consejo Consultivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE ABRIL DE 2017)</small>
+
+###### ARTÍCULO 25.
+
+Los integrantes del Consejo Consultivo tendrán las siguientes obligaciones y facultades:
 
 I. Acudir puntualmente a las sesiones ordinarias y extraordinarias, ejercer su derecho de voz y voto;
 
 II. Emitir opinión sobre los asuntos que se les requiera por el Coordinador General;
 
-III. Proponer al Coordinador General las acciones para mejorar la vinculación internacional en asuntos de apoyo en la protección de migrantes poblanos, y de promoción cultural, turística, social y económica del Estado;
+III. Emitir sus lineamientos internos;
 
-IV. Colaborar con la Coordinación en la implementación, organización y desarrollo de cualquier forma de participación ciudadana que permita atender las necesidades existentes en materia internacional, respecto de la comunidad de migrantes poblanos;
+IV. Colaborar con el Instituto en la implementación, organización y desarrollo de cualquier forma de participación ciudadana que permita atender las necesidades existentes en materia de políticas migratorias en el Estado de Puebla;
 
-V. Coadyuvar con la Coordinación y las demás instancias estatales y municipales en la realización de eventos de carácter informativo, para dar a conocer y apoyar los programas en materia de apoyo a migrantes poblanos; y
+V. Coadyuvar con el Instituto y las demás instancias estatales y municipales en la realización de eventos de carácter informativo, para dar a conocer y apoyar los programas en materia de apoyo a migrantes poblanos en el extranjero, migrantes en retorno, y migrantes de paso por el territorio del Estado, y
 
 VI. Las demás que considere convenientes el Coordinador General conforme a la naturaleza del órgano, que es de análisis y opinión.
 
-> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
-
-###### ARTÍCULO 25.
-
-(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2013)
-
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 26.
 
-(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2013)
+A las sesiones del Consejo podrán ser invitados por su Presidente personas cuya actividad esté relacionada con temas migratorios, cuando por la naturaleza de los asuntos a tratar se considere pertinente su participación.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 25 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 27.
 
-Las ausencias y licencias de los servidores públicos no mayores a quince días hábiles, serán suplidas de la siguiente manera:
+Son atribuciones del Presidente:
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2014)</small>
+I. Presidir las sesiones del Consejo;
 
-I. El Coordinador General será suplido por el Coordinador Adjunto, o por el Director de área, conforme a la competencia del asunto de que se trate, sin perjuicio de las facultades que correspondan a la Junta Directiva, y
+II. Representar al Consejo;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2014)</small>
+III. Dirigir los trabajos del Consejo;
 
-II. El Coordinador Adjunto y los Directores serán suplidos por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias, o en su caso, por quienes determine el Coordinador General, sin perjuicio de las facultades que correspondan a la Junta Directiva.
+IV. Convocar a través del Secretario Técnico, a sesiones ordinarias y extraordinarias;
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+V. Solicitar a los Consejeros la información que se requiera para el desahogo de las sesiones, y
+
+VI. Informar el estado que guardan las recomendaciones del Consejo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 25 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 28.
 
-Para el caso de las ausencias del Coordinador General por más de quince días hábiles, se deberá observar lo dispuesto por la Ley Orgánica de la Administración Pública del Estado.
+Son atribuciones del Secretario Técnico:
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2014)</small>
+I. Apoyar al Presidente en el ejercicio de sus funciones;
 
-En los casos de ausencias temporales por más de quince días hábiles del Coordinador Adjunto y Directores, el Coordinador General podrá autorizar por escrito a los servidores públicos subalternos para que realicen en ausencia del Titular las atribuciones que correspondan.
+II. Colaborar en la preparación de temas a tratar, agendas, informes y documentos que se requieran para las sesiones del Consejo;
+
+III. Convocar a nombre del Presidente a sesiones del Consejo;
+
+IV. Llevar el registro de los participantes a las sesiones del Consejo y elaborará las minutas correspondientes;
+
+V. Dar seguimiento a las recomendaciones del Consejo e informar al Presidente sobre el estado que guardan las mismas, y
+
+VI. Suplir al Presidente en caso de ausencia.
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
 ## TÍTULO CUARTO
 
@@ -711,13 +863,17 @@ En los casos de ausencias temporales por más de quince días hábiles del Coord
 
 ### CAPÍTULO I
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
 ### CAPÍTULO II
 
-## TÍTULO QUINTO. DE LAS SUPLENCIAS
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 25 DE ABRIL DE 2017)</small>
+
+## TÍTULO QUINTO
+
+> <small>(DEROGADO, P.O. 25 DE ABRIL DE 2017)</small>
 
 ### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
 ## TRANSITORIOS
 
@@ -744,3 +900,19 @@ P.O. 20 DE OCTUBRE DE 2014.
 PRIMERO. El presente Reglamento se publicará en el Periódico Oficial del Estado y entrará en vigor el día hábil siguiente de su publicación.
 
 SEGUNDO. Quedan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Reglamento.
+
+P.O. 25 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA COORDINACIÓN ESTATAL DE ASUNTOS INTERNACIONALES Y DE APOYO A MIGRANTES POBLANOS”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor el día de su publicación.
+
+SEGUNDO. Derivado de la entrada en vigor del presente Decreto, las unidades administrativas de la Coordinación deberán realizar las modificaciones conducentes en los sellos, declaraciones, avisos, manifiestos y demás documentos oficiales que utilizan para el adecuado desarrollo de sus funciones.
+
+TERCERO. Los asuntos que se refieran a actos o resoluciones que se hubieren emitido con anterioridad a la entrada en vigor del presente Decreto, se tramitarán, resolverán, defenderán y en general, serán de la competencia de la unidad administrativa de la Coordinación a la que le sean conferidas las facultades que correspondan conforme a este Decreto.
+
+CUARTO. Cuando las funciones de alguna unidad administrativa establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercidas por alguna otra de las que el mismo establece, o cuando se cambie su adscripción, el personal, el archivo, el mobiliario y en general, el equipo que aquélla haya utilizado, pasarán a la unidad competente.
+
+QUINTO. En tanto se expidan o modifiquen los manuales administrativos, el Coordinador General está facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal para los fines de orden administrativo.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
