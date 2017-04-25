@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-239-para-el-fomento-y-desarrollo-de-la-cultura-y-117
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-05"
-last_updated: "2016-11-08"
+last_updated: "2017-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 239 PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2017.
 
 Ley publicada en el Alcance I al Número 89 del Periódico Oficial del Estado de Guerrero, el martes 5 de noviembre de 2013.
 
@@ -883,19 +883,17 @@ III. la Secretaría y los municipios deberán fijar y publicar anualmente la lis
 
 El Gobierno del Estado y los municipios deberán reglamentar y programar el uso de estos espacios públicos. En dicho reglamento se establecerán los procedimientos, términos y condiciones en los que se autorice su uso.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 444 PARA LA PROTECCIÓN DEL PATRIMONIO CULTURAL Y NATURAL DEL ESTADO Y LOS MUNICIPIOS DE GUERRERO, PUBLICADA EN EL P.O. DE 25 DE ABRIL DE 2017)</small>
+
 ### Capítulo XIV. Del Patrimonio Cultural y Natural y su Preservación
 
 ###### ARTÍCULO 86.
 
-En el Estado de Guerrero son de orden público e interés social la investigación, conservación, protección y difusión del patrimonio cultural, considerado éste, como toda manifestación del quehacer humano y del medio natural que tenga para los habitantes del estado, relevancia histórica, artística, etnográfica, antropológica, tradicional, arquitectónica, urbana, científica, tecnológica, lingüística e intelectual. Para estos efectos el patrimonio cultural de la entidad lo conforman sus manifestaciones tangibles e intangibles en los términos establecidos en la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley General de Bienes Nacionales y la Ley para la Protección del Patrimonio Cultural y Natural del Estado y los Municipios del Estado de Guerrero.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 444 PARA LA PROTECCIÓN DEL PATRIMONIO CULTURAL Y NATURAL DEL ESTADO Y LOS MUNICIPIOS DE GUERRERO, PUBLICADA EN EL P.O. DE 25 DE ABRIL DE 2017)
 
 ###### ARTÍCULO 87.
 
-Los bienes del patrimonio cultural tangible, que se localicen en zonas de monumentos arqueológicos, artísticos e históricos con declaratoria federal, serán objeto de un régimen de protección que haga concurrir las facultades federales, estatales y municipales.
-
-El Estado y los Ayuntamientos de Guerrero, a través de la Secretaría, podrán emitir declaratorias de patrimonio cultural tangible e intangible, según sea el caso, sobre bienes culturales que tengan relevancia para los habitantes del estado, y que no cuenten con declaratoria federal. La Secretaría, conjuntamente con los Ayuntamientos y los interesados, promoverá el reconocimiento de estas declaratorias a nivel nacional y en su caso internacional.
-
-En el caso de los bienes protegidos por esta ley, la autorización otorgada por la Secretaría no excluye al solicitante de cumplir con los requerimientos establecidos por otras instancias competentes. En todo caso, las autoridades estatales deberán exigir dicha autorización como requisito previo indispensable para los demás trámites a que haya lugar.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 444 PARA LA PROTECCIÓN DEL PATRIMONIO CULTURAL Y NATURAL DEL ESTADO Y LOS MUNICIPIOS DE GUERRERO, PUBLICADA EN EL P.O. DE 25 DE ABRIL DE 2017)
 
 ## TÍTULO DÉCIMO. De la Infraestructura Cultural
 
@@ -1154,3 +1152,29 @@ PRIMERO.-El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO.-La Secretaría de Cultura del Gobierno del Estado en coordinación con las secretarías y dependencias del Poder Ejecutivo y los Ayuntamientos, dentro de un plazo que no excederá de noventa días posteriores a la publicación del presente Decreto, deberán crear el Instituto de Investigación de las Artesanías del Estado de Guerrero, con los lineamientos que la misma determine.
 
 CUARTO (sic).- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página web del Congreso del Estado.
+
+P.O. 25 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 444 PARA LA PROTECCIÓN DEL PATRIMONIO CULTURAL Y NATURAL DEL ESTADO Y LOS MUNICIPIOS DE GUERRERO".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Guerrero.
+
+SEGUNDO. Se abroga en su totalidad la Ley de Fomento a la Cultura publicada en el Periódico Oficial del Gobierno del Estado número 38, el día 10 de mayo de 1988; y se deroga del Título Noveno, el Capítulo XIV, denominado "Del Patrimonio Cultural y Natural y su Preservación" de la Ley número 239 de Fomento y Desarrollo de la Cultura y las Artes del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado número 89 Alcance I, el 5 de noviembre de 2013.
+
+TERCERO. La Comisión Ejecutiva a que se refiere esta Ley, se integrará a más tardar a los cuarenta y cinco días naturales siguientes a la entrada en vigor de la misma.
+
+CUARTO. Los ayuntamientos deberán integrar sus respectivos consejos consultivos municipales en los términos de la presente Ley, en un plazo no mayor de noventa días naturales contados a partir de su entrada en vigor.
+
+QUINTO. El Registro de acuerdo con lo establecido en la presente Ley será habilitado en una sección del Comité Técnico de la Secretaría de Cultura, y será contemplado en el Presupuesto de Egresos del Estado a fin de estar en posibilidad de cumplir con los procedimientos administrativos necesarios para llevar a cabo el registro y la catalogación correspondiente. Lo mismo procederá respecto del Registro Estatal de Nomenclatura.
+
+SEXTO. El Registro Único del Patrimonio Cultural y Natural del Estado, y el Catálogo del Patrimonio de los Municipios y del Estado, deberán ser publicados en el Portal Oficial del Gobierno del Estado.
+
+SÉPTIMO. Las disposiciones reglamentarias de la presente Ley, deberán expedirse dentro de los ciento veinte días naturales contados a partir de la entrada en vigor de este ordenamiento.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+NOVENO.- Remítase la presente al Titular del Poder Ejecutivo, para su conocimiento y efectos legales conducentes.
+
+DÉCIMO.- Hágase del conocimiento de los Titulares de los 81 Ayuntamientos del Estado de Guerrero, para los efectos legales conducentes.
+
+DÉCIMO PRIMERO.- Publíquese el (sic) presente Ley en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página web del Congreso del Estado.
