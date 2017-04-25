@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-estatal-para-la-garantia-de-los-derechos-99963"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-18"
-last_updated: "2017-04-18"
+last_updated: "2017-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DEL SISTEMA ESTATAL PARA LA GARANTIA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 18 de marzo de 2014.
 
@@ -97,47 +99,93 @@ XI. Transparencia y rendición de cuentas.
 
 Para los efectos de esta ley, se entenderá por:
 
-- Acogimiento Residencial: Aquél brindado por centros de asistencia social como una medida especial de protección de carácter subsidiario, que será de último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-- Adolescente: Personas de entre 12 años cumplidos y menores de 18 años de edad.
+I. Acogimiento Residencial: Aquél brindado por centros de asistencia social como una medida especial de protección de carácter subsidiario, que será de último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar.
 
-- Amenaza: Acción u omisión con que se da a entender que se quiere hacer algún daño.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-- Afectación: Acción u omisión que se desarrolla para dañar, menoscabar, perjudicar o influir desfavorablemente.
+II. Adolescente: Personas de entre 12 años cumplidos y menores de 18 años de edad.
 
-- Consejo: Consejo para la Garantía de los Derechos Humanos de Niños y Niñas.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-- Consejo Técnico de Adopciones: El perteneciente al Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
+III. Amenaza: Acción u omisión con que se da a entender que se quiere hacer algún daño.
 
-- Defensor: Defensor de los derechos de niños, niñas y adolescentes.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-- DIF: Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
+IV. Afectación: Acción u omisión que se desarrolla para dañar, menoscabar, perjudicar o influir desfavorablemente.
 
-- Familia de origen: Aquélla compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes, niños, niñas y adolescentes tienen parentesco ascendente hasta segundo grado.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-- Familia extensa o ampliada: Aquélla compuesta por los ascendientes de niños, niñas y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado.
+V. Consejo: Consejo para la Garantía de los Derechos Humanos de Niños y Niñas.
 
-- Familia de Acogimiento Pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niños, niñas y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-- Familia de Acogida: Es una modalidad de atención en la cual una familia seleccionada y capacitada, acoge voluntariamente a un niño, niña o adolescente, como una medida de protección, esto con la finalidad de que se le brinde la atención integral que le garantice y restituya sus derechos, hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva.
+VI. Consejo Técnico de Adopciones: El perteneciente al Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
 
-- Ley: Ley del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-- Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes.
+VII. Defensor: Defensor de los derechos de niños, niñas y adolescentes.
 
-- Niño o niña: Personas menores de 12 años de edad.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-- Niño, niña o adolescente institucionalizado: Es aquel que recibe como medida de protección judicial o administrativa, el internamiento en un centro de asistencia social público o privado, debido a la carencia de cuidado parental o familiar.
+VIII. DIF: Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
 
-- Procuraduría: Procuraduría para Niños, Niñas y la Familia.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-- Riesgo: Contingencia o proximidad de un daño.
+IX. Familia de origen: Aquélla compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes, niños, niñas y adolescentes tienen parentesco ascendente hasta segundo grado.
 
-- Sistema: Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-- Sistema Municipal: Sistema Municipal para la Garantía de los Derechos Humanos de Niños y Niñas.
+X. Familia extensa o ampliada: Aquélla compuesta por los ascendientes de niños, niñas y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado.
 
-- Situación extraordinaria: Conjunto de factores o circunstancias que impiden el disfrute de alguno o algunos de los derechos humanos de niños, niñas y adolescentes.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XI. Familia de Acogimiento Pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niños, niñas y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez.
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XII. Familia de Acogida: Es una modalidad de atención en la cual una familia seleccionada y capacitada, acoge voluntariamente a un niño, niña o adolescente, como una medida de protección, esto con la finalidad de que se le brinde la atención integral que le garantice y restituya sus derechos, hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva.
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XIII. Ley: Ley del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XIV. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XV. Niño o niña: Personas menores de 12 años de edad.
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XVI. Niño, niña o adolescente institucionalizado: Es aquel que recibe como medida de protección judicial o administrativa, el internamiento en un centro de asistencia social público o privado, debido a la carencia de cuidado parental o familiar.
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XVII. Procuraduría: Procuraduría para Niños, Niñas y la Familia.
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XVIII. Riesgo: Contingencia o proximidad de un daño.
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XIX. Sistema: Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas.
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XX. Sistema Municipal: Sistema Municipal para la Garantía de los Derechos Humanos de Niños y Niñas.
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XXI. Situación extraordinaria: Conjunto de factores o circunstancias que impiden el disfrute de alguno o algunos de los derechos humanos de niños, niñas y adolescentes.
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XXII. Victimización secundaria: Conjunto de hechos o el hecho en que un individuo es víctima de violencia interpersonal en dos o más momentos separados en el tiempo, y realizada por al menos dos perpetradores diferentes; la victimización producida no como resultado directo de un acto delictivo en el cual el niño, la niña o el adolescente estuvo presente, sino por la respuesta de las instituciones y personas individuales en relación con la víctima.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MAYO DE 2015)</small>
 
@@ -546,6 +594,14 @@ El Programa Estatal de Protección de Niños, Niñas y Adolescentes, deberá ali
 ###### Artículo 19.
 
 La Unidad de Evaluación y Seguimiento para la Protección de Derechos de Niños y Niñas, con la finalidad de lograr la transversalidad de las políticas públicas, supervisará que los programas que las dependencias y entidades públicas generen a favor de niños, niñas y adolescentes, observen el Plan Estatal de Desarrollo, las disposiciones de esta ley, así como las recomendaciones de organismos autónomos e internacionales con facultades para ello. De igual manera, velará porque se observe el cumplimiento de las obligaciones internacionales a nivel estatal y municipal.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2017)</small>
+
+###### Artículo 19 Bis.
+
+La Procuraduría, deberá impedir en el proceso judicial: la realización de prácticas o procedimientos que conduzcan a la victimización secundaria de la niña, niño o adolescente, que les cause estrés psicológico como consecuencia de las declaraciones reiteradas; rememorar los hechos de un ambiente formal y distante, que no permita la comprensión y tranquilidad del niño, niña o adolescente; interrogatorios repetidos; demoras prolongadas e innecesarias; la declaración frente a la persona acusada, y demás requerimientos legales que puedan ser intimidantes, y causar repercusiones a largo plazo en su desenvolvimiento.
+
+Para efectos de asistir al menor en toda diligencia a la que comparezca, la autoridad deberá en todo momento, solicitar la comparecencia de personal especializado del Centro de Evaluación Psicosocial del Poder Judicial del Estado de Coahuila de Zaragoza.
 
 ### CAPÍTULO SEXTO
 
@@ -1612,6 +1668,14 @@ Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 18 DE ABRIL DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 800.- SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 2 Y LA FRACCIÓN I DEL ARTÍCULO 4 DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 804.- SE ENUMERAN POR FRACCIONES LAS DEFINICIONES CONTENIDAS EN EL ARTÍCULO 3°, ADICIONANDO UNA FRACCIÓN XXII A DICHO NUMERAL Y UN ARTÍCULO 19 BIS A LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ###### ARTÍCULO ÚNICO.
 
