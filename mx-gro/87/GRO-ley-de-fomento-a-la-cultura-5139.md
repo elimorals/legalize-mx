@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fomento-a-la-cultura-5139"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-10"
-last_updated: "2013-11-05"
+last_updated: "2017-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5139&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY DE FOMENTO A LA CULTURA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 444 PARA LA PROTECCIÓN DEL PATRIMONIO CULTURAL Y NATURAL DEL ESTADO Y LOS MUNICIPIOS DE GUERRERO, PUBLICADA EN EL P.O. DE 25 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FOMENTO A LA CULTURA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2017 (ABROGADA).
 
 Ley Publicada en el Periódico Oficial del Estado de Guerrero, el martes 10 de mayo de 1988.
 
@@ -430,3 +432,29 @@ QUINTO.- La integración y funcionamiento del Consejo relativo al artículo 25 y
 SEXTO.- Por esta única ocasión, el Gobernador del Estado emitirá el Primer Programa para el Fomento y Desarrollo de la Cultura y las Artes del Estado, en un plazo no mayor de los 180 días naturales, posteriores a la entrada en vigor de la presente Ley.
 
 SÉPTIMO.- La fracción III del artículo 18 entrará en vigor a partir del ejercicio fiscal siguiente al del año de entrada en vigor de esta Ley.
+
+P.O. 25 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 444 PARA LA PROTECCIÓN DEL PATRIMONIO CULTURAL Y NATURAL DEL ESTADO Y LOS MUNICIPIOS DE GUERRERO".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Guerrero.
+
+SEGUNDO. Se abroga en su totalidad la Ley de Fomento a la Cultura publicada en el Periódico Oficial del Gobierno del Estado número 38, el día 10 de mayo de 1988; y se deroga del Título Noveno, el Capítulo XIV, denominado "Del Patrimonio Cultural y Natural y su Preservación" de la Ley número 239 de Fomento y Desarrollo de la Cultura y las Artes del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado número 89 Alcance I, el 5 de noviembre de 2013.
+
+TERCERO. La Comisión Ejecutiva a que se refiere esta Ley, se integrará a más tardar a los cuarenta y cinco días naturales siguientes a la entrada en vigor de la misma.
+
+CUARTO. Los ayuntamientos deberán integrar sus respectivos consejos consultivos municipales en los términos de la presente Ley, en un plazo no mayor de noventa días naturales contados a partir de su entrada en vigor.
+
+QUINTO. El Registro de acuerdo con lo establecido en la presente Ley será habilitado en una sección del Comité Técnico de la Secretaría de Cultura, y será contemplado en el Presupuesto de Egresos del Estado a fin de estar en posibilidad de cumplir con los procedimientos administrativos necesarios para llevar a cabo el registro y la catalogación correspondiente. Lo mismo procederá respecto del Registro Estatal de Nomenclatura.
+
+SEXTO. El Registro Único del Patrimonio Cultural y Natural del Estado, y el Catálogo del Patrimonio de los Municipios y del Estado, deberán ser publicados en el Portal Oficial del Gobierno del Estado.
+
+SÉPTIMO. Las disposiciones reglamentarias de la presente Ley, deberán expedirse dentro de los ciento veinte días naturales contados a partir de la entrada en vigor de este ordenamiento.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+NOVENO. Remítase la presente al Titular del Poder Ejecutivo, para su conocimiento y efectos legales conducentes.
+
+DÉCIMO. Hágase del conocimiento de los Titulares de los 81 Ayuntamientos del Estado de Guerrero, para los efectos legales conducentes.
+
+DÉCIMO PRIMERO. Publíquese el (sic) presente Ley en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página web del Congreso del Estado.
