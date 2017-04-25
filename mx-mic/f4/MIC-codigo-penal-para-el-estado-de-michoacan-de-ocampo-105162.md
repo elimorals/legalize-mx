@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2017-04-19"
+last_updated: "2017-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2017.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -1275,11 +1275,13 @@ Homicidio en razón de parentesco o relación
 
 A quien con conocimiento de la relación que le une con el sujeto pasivo, prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, adoptante o adoptado, cónyuge, pareja, concubina o concubinario, se le impondrá de veinte a treinta y cinco años de prisión y suspensión de los derechos que tenga con respecto a la víctima, incluidos los de carácter sucesorio, hasta por el mismo término de la pena impuesta.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
+
 ###### Artículo 119.
 
 Homicidio de persona menor de edad
 
-A quien dolosamente prive de la vida a una persona menor de dieciocho años de edad se le impondrá la pena de quince a treinta y cinco años de prisión.
+A quien dolosamente prive de la vida a una persona menor de dieciocho años de edad, se le aplicará una pena de veinticinco a cincuenta años de prisión.
 
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 2017)</small>
 
@@ -3794,3 +3796,9 @@ P.O. 19 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 350 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 283 Y 286 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 25 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 351 POR EL QUE "SE REFORMA EL ARTÍCULO 119 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional de Michoacán de Ocampo.
