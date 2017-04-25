@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2017-03-31"
+last_updated: "2017-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2017.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -895,15 +895,75 @@ El Sistema Estatal DIF enviará al Sistema Nacional DIF la información en el mo
 
 En ningún caso una situación migratoria irregular de niñas, niños o adolescentes, preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en condición migratoria irregular.
 
-### CAPÍTULO XXI. DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN, ASÍ COMO A LOS SERVICIOS DE RADIODIFUSIÓN Y TELECOMUNICACIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE ABRIL DE 2017)</small>
 
-### CAPÍTULO XXII. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA, GUARDA O CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO XX BIS. NIÑAS Y NIÑOS QUE VIVEN CON SUS MADRES EN LOS CENTROS PENITENCIARIOS
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2017)</small>
+
+Artículo 55 bis. La Ley reconoce a las niñas y niños que viven con sus madres en centros penitenciarios como un sector infantil en condiciones de vulnerabilidad, por lo que las autoridades estatales y municipales deberán garantizar el ejercicio, respeto, protección y promoción de sus derechos; asíí (sic) como prever primordialmente las acciones y mecanismos que les permitan un crecimiento y desarrollo pleno, en concordancia con el principio de protección integral, el derecho de igualdad sustantiva y la tutela de los derechos contenidos en la presente Ley, la Constitución Política del Estado de Michoacán de Ocampo y demás leyes aplicables.
+
+Para los efectos a que se refiere este artículo, se considerara a las niñas y niños que viven con sus madres en centros penitenciarios, desde que nacen y hasta lo establecido en la Ley de la materia. El Sistema para el Desarrollo Integral de la Familia Michoacana en coordinación con la autoridad penitenciaria, valorarán a las mujeres que se encontraren en estado de gravidez al momento de estar privada de su libertad con motivo de compurgación de una pena o de estar sometida a prisión preventiva.
+
+Las niñas y niños que vivan con sus madres en los centros penitenciarios no serán considerados como sujetos de la legislación en materia de ejecución penal, por lo que la autoridad penitenciara (sic) garantizaraí (sic) el respeto pleno a sus derechos humanos asíí (sic) como de su desarrollo, sin menoscabo de la libertad.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2017)</small>
+
+Artículo 55 ter. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a crear, implementar, instrumentar y ejecutar programas especiales y políticas públicas tendientes a garantizar el pleno desarrollo de las niñas y niños que viven con sus madres en centros penitenciarios; con el fin de garantizarles una mejor calidad de vida, el ejercicio de sus derechos y la entera satisfacción de sus necesidades básicas.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2017)</small>
+
+Artículo 55 quater. Las autoridades estatales y municipales a través del Sistema para el Desarrollo Integral de la Familia Michoacana, en el ámbito de sus respectivas competencias, están obligadas a instaurar los mecanismos necesarios y realizar las acciones conducentes que, como mínimo, aseguren a las niñas y niños que viven con sus madres en centros penitenciarios, los siguientes derechos:
+
+I. Al desarrollo físico;
+
+II. A la salud;
+
+III. A una adecuada nutrición;
+
+IV. Al pleno desarrollo psicosocial;
+
+V. A la protección y cuidado de su integridad física, mental y emocional;
+
+VI. A una educación inicial, integral y de calidad;
+
+VII. A la igualdad de oportunidades para el desarrollo de sus capacidades;
+
+VIII. Al descanso, esparcimiento y a la cultura, como factores primordiales de su desarrollo y crecimiento;
+
+IX. A desarrollarse en un entorno saludable, seguro, afectivo y pacífico; y,
+
+X. A la no discriminación.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2017)</small>
+
+Artículo 55 quinquies. Las autoridades competentes deberán garantizar el total acceso a los derechos de las niñas y niños que vivan con sus madres en los centros penitenciarios, desde una perspectiva de igualdad sustantiva y tomando en consideración para la ejecución de sus planes, políticas, programas y acciones; la condición de vulnerabilidad en la que se encuentra este sector y las circunstancias especiales en que se desarrollan, a efecto de implementar ajustes razonables focalizados y la atención especializada conducente a las condiciones de estas niñas y niños, para dotar de efectividad el acceso a los derechos que detenta.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2017)</small>
+
+Artículo 55 sexies. El Sistema para el Desarrollo Integral de la Familia Michoacana y la Procuraduría de Protección, en el ámbito de su competencia, deberán conformar una coordinación de seguimiento que verifique la actualización del debido acceso y ejercicio de los derechos de las niñas y los niños que viven con sus madres en prisión y que prevenga el maltrato, violencia, discriminación o cualquier otro tipo de abuso o conducta lesiva en contra de aquellos.
+
+Los centros penitenciarios garantizarán la implementación de las políticas públicas establecidas por el Sistema para el Desarrollo Integral de la Familia Michoacana.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2017)</small>
+
+Artículo 55 septies. Una vez concluido el tiempo permitido para que el niño permanezca en el centro penitenciario, el Sistema para el Desarrollo Integral de la Familia Michoacana valorará las condiciones socioeconómicas y psicológicas del familiar, tutor o encargado de la niña o el niño, para los efectos legales correspondientes.
+
+Si la hija o el hijo tuvieran una discapacidad, a valoración del Sistema para el Desarrollo Integral de la Familia Michoacana, se podrá solicitar a la autoridad penitenciaria la ampliación del plazo de estancia al cuidado de la madre. En todo caso, se resolverá ponderando el interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2017)</small>
+
+Artículo 55 octies. El Sistema para el Desarrollo Integral de la Familia Michoacana conformará un padrón respecto de las madres en reclusión con hijos o hijas, solamente para dar seguimiento al estatus de ellas y con la finalidad de garantizar los derechos de las niñas y niños, sin que ello signifique un antecedente para el menor, ni se genere un expediente sobre el mismo.
+
+Llegado el momento en que el menor sea incorporado a la sociedad sus datos personales serán tratados conforme a lo establecido en la Ley de la materia.
+
+### CAPÍTULO XXI. DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN, ASÍ COMO A LOS SERVICIOS DE RADIODIFUSIÓN Y TELECOMUNICACIONES
 
 ###### Artículo 56.
 
 Niñas, Niños y Adolescentes tienen derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, para ello, las autoridades del Estado darán todas las facilidades a efecto de coordinarse con la Secretaría de Comunicaciones y Transportes, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión.
 
-### CAPÍTULO XXIII. CENTROS DE ASISTENCIA SOCIAL
+### CAPÍTULO XXII. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA, GUARDA O CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Artículo 57.
 
@@ -945,7 +1005,7 @@ Al efecto, la Procuraduría de Protección ejercerá la representación coadyuva
 
 Cuando existan indicios de conflicto de intereses entre quienes ejerzan la representación originaria o de éstos con niñas, niños y adolescentes o por una representación deficiente o dolosa, a petición del Ministerio Público, de la Procuraduría de Protección o de oficio, el órgano jurisdiccional o administrativo que conozca del asunto, deberá sustanciar por vía incidental, un procedimiento sumario de restricción, suspensión o revocación de la representación originaria, según sea el caso, para efectos de que la Procuraduría de Protección ejerza la representación en suplencia.
 
-### CAPÍTULO XXIV. AUTORIDADES EN LA PROTECCIÓN Y RESTITUCIÓN INTEGRAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO XXIII. CENTROS DE ASISTENCIA SOCIAL
 
 ###### Artículo 60.
 
@@ -1035,7 +1095,7 @@ Sin perjuicio de las atribuciones que las disposiciones jurídicas aplicables es
 
 La Procuraduría de Protección será coadyuvante de la Procuraduría de Protección Federal en la supervisión que se realice a las instalaciones de los centros de asistencia social, en términos de lo previsto en la Ley General y Estatal de Asistencia Social.
 
-### CAPÍTULO XXV. DISTRIBUCIÓN DE COMPETENCIAS
+### CAPÍTULO XXIV. AUTORIDADES EN LA PROTECCIÓN Y RESTITUCIÓN INTEGRAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Artículo 68.
 
@@ -1045,7 +1105,7 @@ Las políticas públicas emprendidas por dichas autoridades garantizarán el goc
 
 Los principios de esta Ley orientarán la actuación de las autoridades gubernamentales del Estado y de los municipios, encargados de la defensa y representación jurídica, asistencia, provisión, prevención, protección y participación de niñas, niños y adolescentes.
 
-### CAPÍTULO XXVI. SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MICHOACÁN
+### CAPÍTULO XXV. DISTRIBUCIÓN DE COMPETENCIAS
 
 ###### Artículo 69.
 
@@ -1207,9 +1267,7 @@ XI. Impulsar la participación de las organizaciones privadas dedicadas a la pro
 
 XII. Las demás que establezcan las autoridades estatales y municipales y aquellas que deriven del cumplimiento de lo dispuesto en la Ley General.
 
-### CAPÍTULO XXVII. PROCURADURÍA DE PROTECCIÓN
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+### CAPÍTULO XXVI. SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MICHOACÁN
 
 ###### Artículo 74.
 
@@ -1233,7 +1291,9 @@ VII. Actuar con interés jurídico ante los tribunales del Estado, en todo juici
 
 VIII. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
-### CAPÍTULO XXVIII. SISTEMA ESTATAL DE PROTECCIÓN INTEGRAL
+### CAPÍTULO XXVII. PROCURADURÍA DE PROTECCIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 75.
 
@@ -1375,7 +1435,7 @@ El nombramiento de Procurador de Protección deberá ser aprobado por la Junta d
 
 La Procuraduría Estatal de Protección contará con representaciones regionales a efecto de lograr la mayor presencia y cobertura posible en los municipios.
 
-### CAPÍTULO XXIX. SECRETARÍA EJECUTIVA
+### CAPÍTULO XXVIII. SISTEMA ESTATAL DE PROTECCIÓN INTEGRAL
 
 ###### Artículo 80.
 
@@ -1485,7 +1545,7 @@ XX. Celebrar convenios de coordinación en la materia;
 
 XXI. Las demás que le otorguen otras disposiciones jurídicas aplicables.
 
-### CAPÍTULO XXX. SISTEMAS MUNICIPALES DE PROTECCIÓN INTEGRAL
+### CAPÍTULO XXIX. SECRETARÍA EJECUTIVA
 
 ###### Artículo 86.
 
@@ -1537,7 +1597,7 @@ IV. Contar con al menos cinco años de experiencia en las áreas correspondiente
 
 V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
-### CAPÍTULO XXXI. ORGANISMO DE PROTECCIÓN DE LOS DERECHOS HUMANOS
+### CAPÍTULO XXX. SISTEMAS MUNICIPALES DE PROTECCIÓN INTEGRAL
 
 ###### Artículo 88.
 
@@ -1559,15 +1619,15 @@ En casos excepcionales, el Presidente Municipal podrá ser suplido por el Síndi
 
 Los integrantes del Sistema Municipal de Protección Integral nombrarán un suplente que deberá tener el nivel inmediato inferior al que le corresponda a su titular.
 
-### CAPÍTULO XXXII. PROGRAMAS ESTATAL Y MUNICIPALES
+### CAPÍTULO XXXI. ORGANISMO DE PROTECCIÓN DE LOS DERECHOS HUMANOS
 
-### CAPÍTULO XXXIII. EVALUACIÓN Y DIAGNÓSTICO
+### CAPÍTULO XXXII. PROGRAMAS ESTATAL Y MUNICIPALES
 
 ###### Artículo 90.
 
 La Comisión Estatal de los Derechos Humanos del Estado de Michoacán, en el ámbito de sus competencias, deberá establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
 
-### CAPÍTULO XXXIV. INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+### CAPÍTULO XXXIII. EVALUACIÓN Y DIAGNÓSTICO
 
 ###### Artículo 91.
 
@@ -1580,6 +1640,8 @@ II. Prever acciones de mediano y largo alcance e indicar los objetivos, estrateg
 III. Incluir mecanismos transparentes que permitan su evaluación y seguimiento, así como de participación ciudadana, mismos que serán publicados en el Periódico Oficial del Gobierno del Estado de Michoacán.
 
 Para la implementación y aplicación de los Programas Estatal y Municipales, los Sistemas Estatal y Municipales de Protección Integral, contarán con órganos consultivos de apoyo, en los que participarán las autoridades competentes y representantes de los sectores social y privado.
+
+### CAPÍTULO XXXIV. INFRACCIONES Y SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 92.
 
@@ -1682,3 +1744,13 @@ P.O. 31 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 343 POR EL QUE “SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 29, Y SE ADICIONA EL ARTÍCULO 31 BIS, ASÍ COMO EL PÁRRAFO TERCERO Y LAS FRACCIONES VI Y VII AL ARTÍCULO 32 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 25 DE ABRIL DE 2017.
+
+> <small>[N. DE E. NÚMERO 353 POR EL QUE SE ADICIONA UN CAPÍTULO XX BIS Y LOS ARTÍCULOS 55 BIS, 55 TER, 55 QUATER, 55 QUINQUIES, 55 SEXIES, 55 SEPTIES Y 55 OCTIES, DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]</small>
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Una vez entrado en vigor el presente Decreto, el Sistema para el Desarrollo Integral de la Familia Michoacana realizará un ajuste presupuestal para implementar programas especiales para la atención integral de las niñas y niños que viven con sus madres en centros penitenciarios.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, a partir del Presupuesto de Egresos para el ejercicio fiscal 2018, deberá hacer las previsiones presupuestarias para la implementación de los programas especiales para la atención integral de las niñas y niños que viven con sus madres en centros penitenciarios.
