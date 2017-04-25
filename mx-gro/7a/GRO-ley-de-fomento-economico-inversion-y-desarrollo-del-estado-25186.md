@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fomento-economico-inversion-y-desarrollo-del-estado-2518
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-21"
-last_updated: "2013-11-19"
+last_updated: "2017-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE FOMENTO ECONÓMICO, INVERSIÓN Y DESARROLLO DEL ESTADO DE GUERRERO, NÚMERO 487
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, el 21 de junio de 2002.
 
@@ -133,7 +133,9 @@ Para los efectos de esta Ley se entenderá por:
 
 I.- LEY: Ley de Fomento Económico, Inversión y Desarrollo del Estado de Guerrero;
 
-II.- SECRETARIA: Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+II.- SECRETARÍA: Secretaría de Fomento y Desarrollo Económico;
 
 III.- CARTERA ESTATAL DE PROYECTOS DE INVERSION: Conjunto de proyectos prioritarios de inversión considerados de alto impacto para el desarrollo industrial, comercial, minero o de bienes y servicios turísticos del Estado, en razón de la cuantía de las inversiones, la vinculación con agrupamientos industriales regionales, la utilización de tecnologías de punta, la generación de empleos y su orientación a los mercados local, nacional e internacional;
 
@@ -385,9 +387,11 @@ La Secretaría deberá notificar lo conducente a las autoridades involucradas en
 
 Las solicitudes de estímulos fiscales sólo se tendrán por recibidas en forma oficial cuando a juicio de la Secretaría, éstas hayan sido plenamente requisitadas, de lo que se asentará constancia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2017)</small>
+
 ###### Artículo 22.
 
-La Secretaría estará obligada a dar respuesta por escrito a las solicitudes de estímulos fiscales debidamente requisitadas, en un plazo no mayor a treinta días hábiles posteriores a la presentación de las mismas, salvo en el caso de estímulos y apoyos adicionales que en base a sus atribuciones puede otorgar el Ejecutivo Estatal como los Presidentes Municipales en las que se dará respuesta en un plazo no mayor a sesenta días hábiles.
+La Secretaría estará obligada a dar respuesta por escrito a las solicitudes de estímulos fiscales debidamente requisitadas, en un plazo no mayor a diez días hábiles posteriores a la presentación de las mismas, salvo en el caso de estímulos y apoyos adicionales que en base a sus atribuciones puede otorgar el Ejecutivo Estatal como los Presidentes Municipales en las que se dará respuesta en un plazo no mayor a quince días hábiles.
 
 Se entenderá como resuelta en forma positiva la solicitud, en caso de no contestarse en estos plazos.
 
@@ -513,7 +517,9 @@ a) Estos Programas son de apoyo y respaldo de financiamiento económico permanen
 
 b) Para el Programa de Fomento Económico a la Artesanía Platera y de los Artesanos Plateros, se establecerán mecanismos para la adquisición de maquinaria o herramientas, insumos, materia prima, capacitación educativa artesanal, comercialización y exposición de las artesanías. El mismo considerara criterios de sustentabilidad en el buen uso, manejo y transformación de los minerales y materiales para la producción artesanal. El Gobierno Estatal será coadyuvante permanente en esta materia. Se fomentara la participación en la Feria anual de la Plata. En la ejecución del programa y su operación; La relación para el otorgamiento de los apoyos económicos será directamente con el artesano o artesana platera, para la elaboración de sus productos y derivados, por medio técnicas (sic) como filigrana, limado, pulido, repujado, recortado, empavonado, martillado, cincelado, calado, cartonado, sochapado, esmerilado, cera perdida y devastado, entre otras.
 
-De ningún modo y en ninguna circunstancia se otorgaran recursos fiscales a gestores o intermediarios entre el artesano y la Administración Pública Estatal. Las reglas de operación considerarán los criterios para el apoyo económico y continuidad anual del mismo, en caso de cumplimiento de las metas establecidas por los artesanos plateros, y en caso de incumplimiento, se hará la suspensión inmediata del apoyo económico. La Secretaría de Desarrollo Económico del Gobierno del Estado, realizara esta verificación.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
+
+De ningún modo y en ninguna circunstancia se otorgaran recursos fiscales a gestores o intermediarios entre el artesano y la Administración Pública Estatal. Las reglas de operación considerarán los criterios para el apoyo económico y continuidad anual del mismo, en caso de cumplimiento de las metas establecidas por los artesanos plateros, y en caso de incumplimiento, se hará la suspensión inmediata del apoyo económico. La Secretaría de Fomento y Desarrollo Económico del Gobierno del Estado, realizara esta verificación.
 
 c) El Programa de Fomento Económico del Mezcal contara financiamiento (sic) permanente de recursos fiscales, para modernizar y equipar con tecnología industrial a todas las instalaciones de procesamiento del Mezcal del Estado reconocidas y se fortalecerá la cadena productiva Maguey-Mezcal en las regiones de vocación económica de este sistema, que de continuidad a la siembra del Maguey y a la modernización permanente de la infraestructura de la industria. El programa facilitara el acceso a la capacitación de los productores y técnicos fitosanitarios, en la instalación de viveros magueyeros y acompañamiento para la siembra y mantenimiento de cultivos de Maguey. Dentro del programa estará contemplado la elaboración y concreción del Corredor Eco-turístico que abarque la ruta del Mezcal en el Estado de Guerrero.
 
@@ -543,25 +549,49 @@ VI.- Las que determine el propio Consejo en sus objetivos y estrategias de desar
 
 ### CAPITULO II. De la Integración del Consejo Estatal
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
+
 ###### Artículo 38.
 
-El Consejo Estatal estará integrado por:
+El Consejo Estatal de Fomento Económico, Inversión y Desarrollo estará integrado por:
 
-I.- El Gobernador Constitucional del Estado, quien fungirá como Presidente Honorario;
+I.- El Gobernador del Estado, Presidente Honorario;
 
-II.- El Secretario de Desarrollo Económico, quien será el Secretario Ejecutivo;
+II.- El Secretario de Fomento y Desarrollo Económico, Presidente Ejecutivo;
 
-III.- El Secretario Técnico, quien será designado por el Secretario de Desarrollo Económico, nombramiento que recaerá en uno de sus funcionarios de su dependencia;
+III.- El Subsecretario que designe el Titular de la Secretaría de Fomento y Desarrollo Económico, Secretario Técnico;
 
-IV.- Los Presidentes de las Comisiones de Desarrollo Económico y Hacienda del Congreso del Estado;
+IV.- Los presidentes y secretarios de las Comisiones de Desarrollo Económico y Trabajo y de Hacienda del Honorable Congreso del Estado;
 
-V.- Los Representantes de las dependencias y entidades Estatales y Federales, encargadas del desarrollo económico sectorial y regional;
+V.- Los Secretarios de Finanzas y Administración; de Agricultura, Ganadería, Pesca y Desarrollo Rural; del Trabajo y Previsión Social, de la Juventud y la Niñez; de la Mujer y el de Contraloría y Transparencia Gubernamental;
 
-VI.- Los Representantes de las Cámaras Comerciales, Industriales y de otros Centros Empresariales de Guerrero; y
+VI.- El Comisionado Presidente del Instituto de Transparencia y Acceso a la Información del Estado de Guerrero;
 
-VII.- Los Representantes de los Sectores Público, Social, Profesional, Educativo y laboral.
+VII.- El Titular del Instituto Guerrerense del Emprendedor;
 
-Los cargos en el Consejo Estatal serán de carácter honorífico.
+VIII.- El Delegado Federal de la Secretaría de Economía del Gobierno Federal;
+
+IX.- El representante de Nacional Financiera en el Estado;
+
+X.- El representante de ProMéxico en el Estado;
+
+XI.- Tres representantes de los organismos empresariales acreditados ante el Consejo;
+
+XII.- El Rector de la Universidad Autónoma de Guerrero;
+
+XIII.- Un representante de las instituciones educativas privadas, a propuesta del Presidente Honorario;
+
+XIV.- El Presidente del Colegio de Notarios del Estado de Guerrero;
+
+XV.- Un representante de los corredores públicos de la entidad, a propuesta del Presidente Honorario, y
+
+XVI.- Tres representantes de organizaciones ciudadanas, a propuesta del Presidente Honorario.
+
+Los cargos del Consejo Estatal serán de carácter honorífico.
+
+Los integrantes señalados de las fracciones XII a la XVI tendrán derecho a voz pero no a voto.
+
+Por cada miembro propietario el titular deberá nombrar a un suplente del nivel jerárquico similar con autoridad para tomar decisiones, quien se acreditará por escrito ante el Secretario Técnico del Consejo el día de la sesión.
 
 ### CAPITULO III. De las Sesiones
 
@@ -573,9 +603,11 @@ I.- Ordinarias las que se realicen dentro de los términos pactados para su cele
 
 II.- Extraordinarias las que se lleven a cabo fuera de los términos pactados para la celebración de sesiones ordinarias.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
+
 ###### Artículo 40.
 
-Las sesiones ordinarias del Consejo Estatal habrán de celebrarse trimestralmente y las extraordinarias cuando los asuntos a tratar así lo requieran.
+Las sesiones ordinarias del Consejo Estatal habrán de celebrarse bimestralmente y las extraordinarias cuando los asuntos a tratar así lo requieran.
 
 ###### Artículo 41.
 
@@ -633,9 +665,11 @@ V.- Realizar las actividades que determine el Consejo Estatal o su Presidente.
 
 ### CAPITULO I. De la Integración de los Consejos Regionales
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
+
 ###### Artículo 48.
 
-La Secretaría de Desarrollo Económico, en su calidad de Secretaría Ejecutiva del Consejo Estatal de Fomento Económico, Inversión y Desarrollo promoverá la creación y funcionamiento de los Consejos Regionales en aquellas regiones que por su propio dinamismo y auge empresarial lo requieran.
+La Secretaría de Fomento y Desarrollo Económico, en su calidad de Presidencia Ejecutiva del Consejo Estatal de Fomento Económico, Inversión y Desarrollo promoverá la creación y funcionamiento de los Consejos Regionales en aquellas regiones que por su propio dinamismo y auge empresarial lo requieran.
 
 ###### Artículo 49.
 
@@ -695,7 +729,9 @@ I.- Un Presidente, que será el Presidente Municipal;
 
 II.- El Síndico Procurador, dos Regidores y el Director de Planeación y Desarrollo Municipal o su equivalente;
 
-III.- Un Secretario Técnico, designado por la Secretaría de Desarrollo Económico; y
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+III.- Un Secretario Técnico, designado por la Secretaría de Fomento y Desarrollo Económico; y,
 
 IV.- Los Representantes de otras dependencias y entidades del Sector Público, así como de los Sectores Social y Privado que se estimen convenientes.
 
@@ -1294,3 +1330,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos legales conducentes.
 
 TERCERO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
+
+P.O. 25 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 446 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO ECONÓMICO, INVERSIÓN Y DESARROLLO DEL ESTADO DE GUERRERO NÚMERO 487”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Comuníquese al Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales pertinentes.
+
+TERCERO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+CUARTO.- Las referencias que se hagan a la Secretaría de Desarrollo Económico en otras leyes y disposiciones, se tendrán aplicables a la Nueva Secretaría de Fomento y Desarrollo Económico del Gobierno del Estado.
