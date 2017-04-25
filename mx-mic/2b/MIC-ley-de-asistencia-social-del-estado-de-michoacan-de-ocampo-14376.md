@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-asistencia-social-del-estado-de-michoacan-de-ocampo-1437
 country: "mx"
 rank: "ley"
 publication_date: "1987-05-14"
-last_updated: "2016-03-18"
+last_updated: "2017-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 14 de mayo de 1987.
 
@@ -73,7 +73,7 @@ Corresponde al Estado en el marco de la corresponsabilidad con los sectores priv
 
 Para los efectos de esta Ley, se entienden como servicios de asistencia social el conjunto de acciones y programas del gobierno y la sociedad, tendientes a la atención de los individuos, familias o grupos de población en situación de riesgo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 5o.
 
@@ -83,31 +83,37 @@ I. Menores en estado de abandono, desamparo, desnutrición, o sujetos a maltrato
 
 II. Menores infractores;
 
-III. Alcohólicos y farmacodependientes;
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+III. Niñas y niños que viven con sus madres en los Centros Penitenciarios, conforme a la Ley en la materia;
+
+IV. Alcohólicos y farmacodependientes;
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
-IV. La mujer que se encuentre en período de gestación, lactancia o que tenga a su cargo exclusivo los alimentos de hijo menor de edad o con discapacidad, que no tenga ingreso adicional o empleo, o teniéndolos, su ingreso no sea mayor de un salario mínimo general diario vigente en la entidad;
+V. La mujer que se encuentre en período de gestación, lactancia o que tenga a su cargo exclusivo los alimentos de (sic) hijo menor de edad o con discapacidad, que no tenga ingreso adicional o empleo, o teniéndolos, su ingreso no sea mayor de un salario mínimo general diario vigente en la entidad;
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
-V. Ancianos en desamparo, discapacidad, marginación o sujeto a maltrato;
+VI. Ancianos en desamparo, discapacidad, marginación o sujeto a maltrato;
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
-VI. Personas con discapacidad, por causa de ceguera, sordera, mudez, alteraciones del sistema neuromusculoesquelético, discapacidades mentales, problemas del lenguaje u otras discapacidades;
+VII. Personas con discapacidad, por causa de ceguera, sordera, mudez, alteraciones del sistema neuromusculoesquelético, discapacidades mentales, problemas del lenguaje u otras discapacidades;
 
-VII. Indigentes;
+VIII. Indigentes;
 
-VIII. Personas que por su extrema ignorancia requieran de servicios asistenciales;
+IX. Personas que por su extrema ignorancia requieran de servicios asistenciales;
 
-IX. Víctimas de la comisión de delitos, en estado de abandono;
+X. Víctimas de la comisión de delitos, en estado de abandono;
 
-X. Familiares que dependan económicamente de quienes se encuentran detenidos por causas penales, y que queden en estado de abandono;
+XI. Familiares que dependan económicamente de quienes se encuentran detenidos por causas penales, y que queden en estado de abandono;
 
-XI. Habitantes marginados del medio rural o del urbano, que carezcan de lo indispensable para su subsistencia; y
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-XII. Personas afectadas por desastres.
+XII. Habitantes marginados del medio rural o del urbano, que carezcan de lo indispensable para su subsistencia; y,
+
+XIII. Personas afectadas por desastres.
 
 ###### ARTICULO 6o.
 
@@ -159,15 +165,15 @@ El Sistema para el Desarrollo Integral de la Familia Michoacana, Organismo Públ
 
 (DEROGADO, P.O. 31 DE AGOSTO DE 2007)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 9o.
 
-El organismo para el logro de sus objetivos tendrá las siguientes funciones:
+El Organismo para el logro de sus objetivos tendrá las siguientes funciones:
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
 
-I. Promover y prestar servicios de asistencia social, con apoyo en las normas que dicte la Secretaría de Salud y el Sistema Nacional para el Desarrollo Integral de la Familia, así como el Ejecutivo (sic) a través de la Secretaría de Desarrollo Social. Las facultades de las dependencias y entidades mencionadas, se entienden sin perjuicio de las atribuciones del Sistema;
+I. Promover y prestar servicios de asistencia social, con apoyo en las normas que dicte la Secretaría de Salud y el Sistema Nacional para el Desarrollo Integral de la Familia, así como el (sic) Ejecutivo a través de la Secretaría de Desarrollo Social. Las facultades de las dependencias y entidades mencionadas, se entienden sin perjuicio de las atribuciones del Sistema;
 
 II. Apoyar el desarrollo de la familia y de la comunidad;
 
@@ -205,7 +211,21 @@ XIV. Fomentar la organización de grupos de promotores voluntarios y coordinar s
 
 XV. Participar en programas de rehabilitación y educación especial; y
 
-XVI. Las demás que establezcan las disposiciones aplicables en la materia.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XVI. Diseñar e implementar políticas públicas y programas especiales para la atención integral de las niñas y niños que viven con sus madres en centros penitenciarios; con el fin de garantizarles una mejor calidad de vida, el ejercicio de sus derechos y la entera satisfacción de sus necesidades básicas, lo anterior dispuesto se realizará en coordinación con los Sistemas DIF municipales;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XVII. Elaborar un padrón respecto de las niñas y niños que viven con sus madres en centros penitenciarios y las condiciones en las cuales se encuentran; y, dar seguimiento a las niñas y niños una vez que abandonan los centros penitenciarios;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XVIII. Facilitar las visitas de las niñas y niños a sus madres que se encuentran en los centros penitenciarios; y,
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XIX. Las demás que establezcan las disposiciones aplicables en la materia.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
@@ -263,7 +283,7 @@ VI. Las Unidades Técnicas y Administrativas que determine la Junta.
 
 Los miembros del Patronato, el Presidente de éste y el Director General del organismo, serán nombrados y removidos por el Gobernador del Estado, los titulares de las unidades técnicas y administrativas lo serán por acuerdo de la Junta.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 19 DE NOVIEMBRE DE 1987)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 13.
 
@@ -439,11 +459,11 @@ V. Fortalecer el patrimonio de los sistemas Municipales para el Desarrollo Integ
 
 El Organismo y los integrantes competentes del Sistema, promoverán ante los gobiernos municipales, el establecimiento de mecanismos idóneos que permitan una interrelación sistemática entre los distintos órdenes de gobierno a fin de conocer las demandas de servicios básicos de salud en materia de asistencia social, para los grupos sociales en situación de riesgo y coordinar su oportuna atención.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 29.
 
-El Ejecutivo del Estado, a través del Organismo, celebrará convenios o contratos para la concertación de acciones de asistencia social con los sectores social y privado, con objeto de coordinar su participación en la realización de programas de asistencia social que coadyuven a la realización de los objetivos a que se refiere esta Ley, la Ley de DesarrolIo (sic) para el Estado de Michoacán y demás relativas. La concertación en todo caso deberá ajustarse a las siguientes bases:
+El Ejecutivo del Estado, a través del Organismo, celebrará convenios o contratos para la concertación de acciones de asistencia social con los sectores social y privado, con objeto de coordinar su participación en la realización de programas de asistencia social que coadyuven a la realización de los objetivos a que se refiere esta Ley, la Ley de Desarrollo (sic) para el Estado de Michoacán y demás relativas. La concertación en todo caso deberá ajustarse a las siguientes bases:
 
 I. Definición de las responsabilidades que asuman los integrantes de los sectores social y privado;
 
@@ -453,7 +473,7 @@ III. Fijación del objeto, materia y alcances jurídicos de los compromisos que 
 
 IV. Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 30.
 
@@ -525,7 +545,7 @@ En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constit
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LUIS MARTINEZ VILLICAÑA.- EL SECRETARIO DE GOBIERNO.- JAIME GENOVEVO FIGUEROA ZAMUDIO.- (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 19 DE NOVIEMBRE DE 1987.
 
@@ -548,3 +568,13 @@ P.O. 18 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 125.- PRIMERO. SE REFORMA EL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- SEGUNDO. SE REFORMA EL CÓDIGO DE JUSTICIA ESPECIALIZADA PARA ADOLESCENTES DEL ESTADO DE MICHOACÁN.- TERCERO. SE REFORMA LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- CUARTO. SE REFORMA LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- QUINTO. SE REFORMA LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO.- SEXTO. SE REFORMA LA LEY DE DESARROLLO RURAL INTEGRAL Y SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO.- SÉPTIMO. SE REFORMA LA LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO.- OCTAVO. SE REFORMA LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO.- NOVENO. SE REFORMA LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS.- DÉCIMO. SE REFORMA LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO.- DÉCIMO PRIMERO. SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MICHOACÁN DE OCAMPO.- DÉCIMO SEGUNDO. SE REFORMA LA LEY PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MICHOACÁN”.]
 
 ÚNICO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 25 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 353 POR EL QUE "SE ADICIONA LA FRACCIÓN III AL ARTÍCULO 5° RECORRIÉNDOSE LAS DEMÁS FRACCIONES EN SU ORDEN; SE REFORMA LA FRACCIÓN XVI Y ASE ADICIONAN LAS FRACCIONES XVII, XVIII Y XIX AL ARTÍCULO 9 DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Una vez entrado en vigor el presente Decreto, el Sistema para el Desarrollo Integral de la Familia Michoacana realizará un ajuste presupuestal para implementar programas especiales para la atención integral de las niñas y niños que viven con sus madres en centros penitenciarios.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, a partir del Presupuesto de Egresos para el ejercicio fiscal 2018, deberá hacer las previsiones presupuestarias para la implementación de los programas especiales para la atención integral de las niñas y niños que viven con sus madres en centros penitenciarios.
