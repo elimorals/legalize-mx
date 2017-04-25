@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-75672"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-15"
-last_updated: "2017-03-24"
+last_updated: "2017-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75672&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-06-29"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE ABRIL DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 15 de julio de 2010.
 
@@ -982,6 +982,146 @@ El Comité sesionará de manera ordinaria por lo menos una vez al mes, y de mane
 
 Las normas de ordenación establecerán las especificaciones para los usos y aprovechamientos del suelo. La Secretaría las expedirá en los términos que señale esta ley y su reglamento.
 
+> <small>(ADICIONADO, G.O. 25 DE ABRIL DE 2017)</small>
+
+###### Artículo 47 Bis.
+
+NORMA PARA IMPULSAR Y FACILITAR LA CONSTRUCCIÓN DE VIVIENDA PARA LOS TRABAJADORES DERECHOHABIENTES DE LOS ORGANISMOS NACIONALES DE VIVIENDA EN SUELO URBANO (PARTE PRIMERA). Cuando en un predio se pretenda construir únicamente Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda y sin excepción se reúnan todas las condiciones previstas en el artículo 47 Quater de esta Ley, y sea exclusivamente para la construcción de vivienda para los trabajadores derechohabientes de los Organismos Nacionales de Vivienda (ONAVIS), en predios que se encuentren ubicados al interior de las poligonales denominadas ZONAS establecidas en el Artículo 47 Sexies, Plano E-4. Ámbitos de Aplicación de la Norma para Impulsar y Facilitar la Construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano, se considerará que el predio tiene asignado, con base en su zonificación, un incremento de un nivel adicional en el número de niveles máximos permitidos y la literal de densidad de vivienda Z (Zonificación), de conformidad con lo establecido en la Norma General de Ordenación 11.
+
+I. El precio final de venta de la Vivienda para Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda que se construya al interior de las poligonales denominadas ZONAS, en el Plano E-4. Ámbitos de Aplicación de la Norma para Impulsar y Facilitar la Construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano, no superará el monto máximo del crédito básico o tradicional, sin coparticipación con una entidad financiera y sin la utilización de figuras de cofinanciamiento, establecido de conformidad con las reglas de operación de los Organismos Nacionales de Vivienda. Los montos máximos, los plazos y las tasas de interés de los créditos serán los que se determinan de acuerdo a la disponibilidad de recursos que se establecen anualmente en los Programas de Financiamiento de Crédito que aprueban y publican los ONAVIS para los créditos básico o tradicional.
+
+II. Para el cálculo del número de viviendas permitidas para los proyectos de construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en las poligonales denominadas ZONAS, en el Plano E-4. Ámbitos de Aplicación de la Norma para Impulsar y Facilitar la Construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano, sin modificar el área libre mínima, establecida en la zonificación de cada predio, con un incremento de un nivel adicional en el número de niveles máximos permitidos y la literal de densidad de vivienda Z (Zonificación), se aplicará lo establecido por la Norma General de Ordenación 1, para calcular el potencial constructivo máximo permitido por la zonificación, que deriva del cálculo del Coeficiente de Utilización del Suelo otorgado por la zonificación del predio en cada caso, una vez calculado dicho potencial constructivo máximo y expresado en metros cuadrados (m2), se dividirá entre 70 y el resultado de ese cociente será el número máximo de unidades de viviendas permitidas para la construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda. Se calcula con la expresión siguiente:
+
+Número máximo de viviendas permitidas = [CUS x superficie del predio] / 70;
+
+III. La Secretaría establecerá en el Certificado Único de Zonificación de Uso del Suelo, aplicando el criterio descrito en la fracción II de este artículo, el número máximo de unidades de viviendas permitidas, en cada caso;
+
+> <small>(ADICIONADO, G.O. 25 DE ABRIL DE 2017)</small>
+
+###### Artículo 47 Ter.
+
+NORMA PARA IMPULSAR Y FACILITAR LA CONSTRUCCIÓN DE VIVIENDA PARA LOS TRABAJADORES DERECHOHABIENTES DE LOS ORGANISMOS NACIONALES DE VIVIENDA EN SUELO URBANO (PARTE SEGUNDA). Cuando en un predio se pretenda construir únicamente Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda y sin excepción se reúnan todas las condiciones previstas en el artículo 47 Quater de esta Ley, y sea exclusivamente para la construcción de vivienda para los trabajadores derechohabientes de los Organismos Nacionales de Vivienda (ONAVI) en predios que se encuentren ubicados al interior de las poligonales denominadas CORREDORES establecidas en el Artículo 47 Sexies, Plano E-4. Ámbitos de Aplicación de la Norma para Impulsar y Facilitar la Construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano, se considerará que el predio tiene asignado, con base en su zonificación, nueve niveles obligatorios de construcción y la literal de densidad de vivienda Z (Zonificación), de conformidad con la Norma General de Ordenación 11.
+
+I. El precio final de venta de la Vivienda para Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda que se construya al interior de las poligonales denominadas CORREDORES, en el Plano E-4. Ámbitos de Aplicación de la Norma para Impulsar y Facilitar la Construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano, no superará el monto máximo del crédito básico o tradicional, con coparticipación con una entidad financiera y sin la utilización de figuras de cofinanciamiento, establecido de conformidad con las reglas de operación de los Organismos Nacionales de Vivienda. Los montos máximos, los plazos y las tasas de interés de los créditos serán los que se determinan de acuerdo a la disponibilidad de recursos que se establecen anualmente en los Programas de Financiamiento de Crédito que aprueban y publican los ONAVIS para los créditos básico o tradicional.
+
+II. Para el cálculo del número de viviendas permitidas para los proyectos de construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en las poligonales denominadas CORREDORES, en el Plano E-4. Ámbitos de Aplicación de la Norma para Impulsar y Facilitar la Construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano, sin modificar el área libre mínima, establecida en la zonificación de cada predio, con nueve niveles obligatorios y la literal de densidad de vivienda Z (Zonificación), se aplicará lo establecido por la Norma General de Ordenación 1, para calcular el potencial constructivo máximo permitido por la zonificación, que deriva del cálculo del Coeficiente de Utilización del Suelo otorgado por la zonificación del predio en cada caso, una vez calculado dicho potencial constructivo máximo y expresado en metros cuadrados (m2), se dividirá entre 70 y el resultado de ese cociente será el número máximo de unidades de viviendas permitidas para la construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda. Se calcula con la expresión siguiente:
+
+Número máximo de viviendas permitidas = [CUS x superficie del predio] / 70;
+
+III. La Secretaría establecerá en el Certificado Único de Zonificación de Uso del Suelo, aplicando el criterio descrito en la fracción II de este artículo, el número máximo de unidades de viviendas permitidas, en cada caso;
+
+> <small>(ADICIONADO, G.O. 25 DE ABRIL DE 2017)</small>
+
+###### Artículo 47 Quater.
+
+NORMA PARA IMPULSAR Y FACILITAR LA CONSTRUCCIÓN DE VIVIENDA PARA LOS TRABAJADORES DERECHOHABIENTES DE LOS ORGANISMOS NACIONALES DE VIVIENDA EN SUELO URBANO (PARTE TERCERA). Para aplicar lo dispuesto en los artículos 47 Bis y 47 Ter de esta Ley, deberán cumplirse las siguientes condiciones:
+
+I. Con la norma de ahorro de agua y energía en un 70%;
+
+II. Con la norma de porcentaje de la superficie total del predio para usos de comercio en planta baja:
+
+A. En un 4%, si el predio es mayor de hasta 250 m2 y hasta 1,000 m2;
+
+B. En un 8%, si el predio es mayor de 1,000 m2;
+
+III. El cumplimiento de las normas de ahorro de agua y energía, de porcentaje de la superficie total privativa de vivienda para usos de comercio en planta baja; deberá verificarse en la etapa de operación del proyecto, para lo cual el promovente deberá presentar ante la Secretaría y la Delegación competente, las responsivas correspondientes, las cuales deberán integrarse al Visto Bueno de Seguridad y Operación;
+
+IV. El proyecto de construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda deberá presentarse ante la Secretaría;
+
+V. El proyecto de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda comprenderá viviendas que deberán construirse de conformidad con las normas de antropometría, habitabilidad y accesibilidad previstas en el Reglamento de Construcciones para el Distrito Federal y sus Normas Técnicas Complementarias;
+
+VI. El predio en el que se pretenda construir Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda deberá ubicarse en Suelo Urbano, y por lo tanto, no podrá ubicarse en Suelo de Conservación;
+
+VII. El predio en el que se pretenda construir Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano no deberá ubicarse en zona de alto riesgo y vulnerabilidad;
+
+VIII. El predio en el que se pretenda construir Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano deberá tener acceso a la vía pública, y tal acceso deberá ser, para los predios al interior de las poligonales denominadas ZONAS en el Plano E-4. Ámbitos de Aplicación de la Norma para Impulsar y Facilitar la Construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano, igual o mayor a ocho metros de ancho; y, para los predios al interior de las poligonales denominadas CORREDORES en el Plano E-4. Ámbitos de Aplicación de la Norma para Impulsar y Facilitar la Construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano, igual o mayor a doce metros de ancho;
+
+IX. El predio en el que se pretenda construir Vivienda para los Trabajadores deberá contar con factibilidad de servicios urbanos, otorgada por las autoridades competentes y especializadas en cada materia;
+
+X. El predio en el que se pretenda construir Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano deberá tener asignado, por disposición del Programa de Desarrollo Urbano aplicable, cualquiera de los siguientes usos del suelo: Habitacional (H), Habitacional con Comercio (HC), Habitacional con Oficinas (HO), Habitacional Mixto (HM) y Centro de Barrio (CB);
+
+XI. El predio en el que se pretenda construir Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano no podrá ubicarse al interior de las poligonales de los Programas Parciales, que no se encuentren señaladas en el Plano E-4. Ámbitos de Aplicación de la Norma para Impulsar y Facilitar la Construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano;
+
+XII. El proyecto para la construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano deberá contar con dictamen de la Dirección del Patrimonio Cultural Urbano de la Secretaría y, en su caso, del Instituto Nacional de Bellas Artes (INBA) y/o del Instituto Nacional de Antropología e Historia (INAH), cuando el proyecto de vivienda se pretenda construir en un inmueble catalogado como parte del patrimonio cultural edificado; en un inmueble colindante con otro catalogado; en un Área de Conservación Patrimonial, o en cualquier otro polígono de valor histórico, cultural o tradicional, o determinado de cualquier otro modo como susceptible de protección en un Programa de Desarrollo Urbano de la ciudad; y, por lo tanto, para esos casos y territorios, dicha normativa será considerada supletoria de la de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano;
+
+XIII. El proyecto de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano a construir no debe impactar de manera negativa en la imagen urbana o en la traza urbana del entorno;
+
+XIV. El precio final de los proyectos de construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano, deberá acreditarse ante la Secretaría, previamente a la emisión del Certificado Único de Zonificación de Uso del Suelo, mediante los documentos en los que se describa el proyecto de vivienda a construir y en los que conste la corrida financiera respectiva, suscritos por un Perito en Desarrollo Urbano o un Director Responsable de Obra;
+
+XV. La Secretaría asentará en el Certificado Único de Zonificación de Uso del Suelo, los datos generales del solicitante, los del propietario del predio, en su caso, y los del Director Responsable de Obra o los del Perito en Desarrollo Urbano;
+
+XVI. La Secretaría de Desarrollo Urbano y Vivienda publicará en su página electrónica, para consulta e información pública abierta y actualizada, los datos sobre los certificados o autorizaciones que emita, incluyendo:
+
+a). Certificado de zonificación expedido, con el resguardo de datos personales que proceda; y
+
+b). Características del proyecto autorizado, incluyendo la información sobre superficies, coeficientes de ocupación del suelo, coeficientes de uso del suelo, alturas, valores autorizados por vivienda y demás elementos técnicos del mismo.
+
+c). En los formatos de manifestación de construcción tipo B y C, se incluirá un apartado en el que se haga constar cuando dicha manifestación haya sido obtenida al amparo y con los beneficios de la presente Norma y en el que se identifiquen las viviendas tipo “A”, “B” y “C” que se pretendan edificar, a efecto de que sean identificables por terceros, así como para la constitución del régimen de propiedad en condominio, y
+
+XVII. Los recursos económicos derivados de los pagos por aprovechamientos establecidos en los artículos 300, 301 y 302 del Código Fiscal del Distrito Federal, para las Manifestaciones de Construcción tipo B y C, que los proyectos de construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo
+
+Urbano deban cubrir, deberán aplicarse íntegramente a la ejecución, por parte de los desarrolladores, en las obras de reforzamiento de la infraestructura hidráulica y de drenaje, para la implementación de medidas de seguridad y mitigación o compensación a las alteraciones o afectaciones al impacto vial y al ambiente y a los recursos naturales; para lo cual, el Sistema de Aguas de la Ciudad de México, la Secretaría de Movilidad y la Secretaría de Medio Ambiente, respectivamente, emitirán los dictámenes técnicos en los que se establezcan, proporcionalmente a los aprovechamientos, las medidas de reforzamiento o de seguridad y mitigación o compensación, correspondientes.
+
+XVIII. Para la determinación de la ejecución de las obras derivadas de los dictámenes técnicos descritos en la fracción XVII de este artículo, y previo a la ocupación, la Comisión para el Mejoramiento de la Infraestructura y el Equipamiento del Distrito Federal, en coordinación con el Órgano Político Administrativo correspondiente, determinará los calendarios de obra, presupuestos de las obras a ejecutar y, asimismo, otorgará el visto bueno al cumplimiento de dichas obras y acciones.
+
+> <small>(ADICIONADO, G.O. 25 DE ABRIL DE 2017)</small>
+
+###### Artículo 47 Quinquies.
+
+NORMA PARA IMPULSAR Y FACILITAR LA CONSTRUCCIÓN DE VIVIENDA PARA LOS TRABAJADORES DERECHOHABIENTES DE LOS ORGANISMOS NACIONALES DE VIVIENDA EN SUELO URBANO (PARTE CUARTA). La vivienda que se construya con motivo de la aplicación de los artículos 47 Bis, 47 Ter y 47 Quater de esta Ley, y durante los siguientes 7 años posteriores a su escrituración, sólo podrá volver a venderse al mismo precio con la que fue adquirida, más un excedente que en ningún caso podrá ser mayor a la inflación calculada conforme al Índice Nacional de Precios al Consumidor.
+
+Los notarios sólo otorgarán escrituras por la compraventa de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano construidas con motivo de la aplicación de los artículos 47 Bis, 47 Ter y 47 Quater de esta Ley, a derechohabientes de los Organismos Nacionales de Vivienda y de manera individualizada. En dichas escrituras los notarios deberán transcribir el párrafo anterior de este artículo y los valores que correspondan a cada vivienda en la tabla de valores e indivisos que forma parte del Régimen de Propiedad en Condomínio. En ningún caso los notarios podrán escriturar compraventas por un monto superior al previsto en el párrafo primero del presente artículo.
+
+Tratándose de avalúos de viviendas construidas con motivo de la aplicación de los artículos 47 Bis, 47 Ter y 47 Quater de esta Ley, los peritos y demás personas que los emitan, deberán reproducir en los mismos el párrafo primero del presente artículo y harán constar expresamente esta circunstancia en el avalúo respectivo, considerándola en la determinación del valor, los estímulos y condicionantes que este título establece, a efecto de proveer a los interesados de la información pertinente.
+
+Los acabados de la vivienda y la implementación de ecotécnias en la construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano no serán adicionales al precio de compraventa de la vivienda y en los créditos que otorguen los ONAVIS ya deberán estar incluidas dichas acciones.
+
+La Secretaría, atendiendo las actualizaciones de los programas de financiamiento de crédito aprobados por los ONAVIS, deberá dar a conocer y publicar, en un periodo no mayor a 15 días hábiles contados a partir de la publicación de las mismas en el Diario Oficial de la Federación, e implementarlas, en lo correspondiente, respecto de los lineamientos, criterios y normas que resulten aplicables para la construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano.
+
+> <small>(ADICIONADO, G.O. 25 DE ABRIL DE 2017)</small>
+
+###### Artículo 47 Sexies.
+
+NORMA PARA IMPULSAR Y FACILITAR LA CONSTRUCCIÓN DE VIVIENDA PARA LOS TRABAJADORES DERECHOHABIENTES DE LOS ORGANISMOS NACIONALES DE VIVIENDA EN SUELO URBANO (PARTE QUINTA). Los ámbitos de aplicación para la construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano son los establecidos en el Plano E-4. Ámbitos de Aplicación de la Norma para Impulsar y Facilitar la Construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano:
+
+> <small>[N. DE E. VÉASE IMAGEN EN LA G. O. DE 25 DE ABRIL DEL 2017, PÁGINA 8]</small>
+
+Para la construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano se deberá observar, en lo que resulte aplicable, lo previsto por las Normas Generales de Ordenación, que forman parte de la presente Ley, de conformidad con lo establecido por el artículo TRANSITORIO TERCERO del decreto POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN LAS NORMAS GENERALES DE ORDENACION, PARA FORMAR PARTE DE LA LEY DE DESARROLLO URBANO Y DEL PROGRAMA GENERAL DE DESARROLLO URBANO DEL DISTRITO FEDERAL, publicado en la Gaceta Oficial del Distrito Federal en fecha ocho de abril de dos mi cinco; así como, con el DECRETO que en la misma materia fue publicado en fecha diez de agosto de dos mil diez.
+
+> <small>(ADICIONADO, G.O. 25 DE ABRIL DE 2017)</small>
+
+###### Artículo 47 Septies.
+
+NORMA PARA IMPULSAR Y FACILITAR LA CONSTRUCCIÓN DE VIVIENDA PARA LOS TRABAJADORES DERECHOHABIENTES DE LOS ORGANISMOS NACIONALES DE VIVIENDA EN SUELO URBANO (PARTE SEXTA). Las violaciones a los preceptos de esta Ley, derivadas de la construcción de un proyecto que incumpla con lo establecido por la Norma para Impulsar y Facilitar la Construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano serán sancionadas administrativamente por el Instituto de Verificación Administrativa del Distrito Federal a solicitud de la Secretaría, por denuncia ciudadana o de manera oficiosa, con las siguientes sanciones:
+
+I. Multa por el equivalente al valor comercial de las viviendas edificadas por el particular en contravención a lo señalado por el certificado de zonificación de usos de suelo que haya emitido la Secretaría.
+
+II. Clausura temporal o definitiva, total o parcial, cuando:
+
+a). El infractor no hubiere cumplido en los plazos, los términos y las condiciones impuestos por la autoridad en materia de uso de suelo y construcciones;
+
+b). En casos de reincidencia
+
+c). Se determine la revocación de las licencias, permisos, registros o autorizaciones correspondientes en materia de construcciones; y.
+
+III. Demolición de los niveles o edificaciones excedentes, en caso de que existan.
+
+> <small>(ADICIONADO, G.O. 25 DE ABRIL DE 2017)</small>
+
+###### Artículo 47 Octies.
+
+NORMA PARA IMPULSAR Y FACILITAR LA CONSTRUCCIÓN DE VIVIENDA PARA LOS TRABAJADORES DERECHOHABIENTES DE LOS ORGANISMOS NACIONALES DE VIVIENDA EN SUELO URBANO (PARTE SÉPTIMA). Cuando la persona responsable de la construcción incumpla con la superficie o los niveles permitidos por la Norma para Impulsar y Facilitar la Construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano, y la resolución sancionatoria sea firme, se observarán las siguientes reglas:
+
+I. El infractor será responsable por el incumplimiento de la obligación de demoler, la cual no terminará en tanto no se ejecute;
+
+II. La Secretaría volverá a ordenar al infractor que la demolición la ejecute dentro de los 15 días naturales siguientes a la notificación personal del nuevo mandamiento, el cual deberá ser por escrito, fundado y motivado, y
+
+III. Si el infractor no practicare la demolición ordenada en los términos de la fracción anterior, entonces la Secretaría ordenará ejecutar la demolición correspondiente, y su costo será determinado por la Tesorería del Distrito Federal, a su cargo, como crédito fiscal en favor del erario, haciéndolo efectivo mediante el procedimiento administrativo de ejecución, de conformidad con lo dispuesto por el Código Fiscal del Distrito Federal.
+
+En términos de lo antes previsto serán señalados como responsables: el propietario del predio, el poseedor del mismo, el Director Responsable de Obra, el Corresponsable en Seguridad Estructural, El Corresponsable en Diseño Urbano y Arquitectónico, el Corresponsable en Instalaciones, y cualquier otra persona que haya construido, indistintamente.
+
+La Secretaría independientemente de las sanciones administrativas que resulten procedentes y se impongan por las violaciones a los preceptos de esta Ley, derivadas de la construcción de una edificación que incumpla con lo establecido por la Norma para Impulsar y Facilitar la Construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos de Vivienda, deberá también presentar la denuncia penal correspondiente y solicitar al Registro Público de la Propiedad y de Comercio la custodia de los folios reales del inmueble.
+
 ## Título Cuarto. Del ordenamiento territorial
 
 ### Capítulo Primero. Disposiciones generales
@@ -1793,3 +1933,21 @@ G.O. 24 DE MARZO DE 2017.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. Remítase el presente Decreto al Jefe de Gobierno de la Ciudad de México, para su respectiva promulgación, refrendo y publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 25 DE ABRIL DEL 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Hasta que no se actualice la Norma Técnica Complementaria para el Proyecto arquitectónico del Reglamento de Construcciones del distrito Federal, en materia de cajones de estacionamiento, las viviendas que se construyan bajo la NORMA PARA IMPULSAR Y FACILITAR LA CONSTRUCCIÓN DE VIVIENDA PARA LOS TRABAJADORES DERECHOHABIENTES DE LOS ORGANISMOS NACIONALES DE VIVIENDA EN SUELO URBANO deberán cumplir máximo con el 30% de los cajones de estacionamiento que dicha norma señala.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Dentro de un plazo no mayor a 30 días hábiles, contados a partir de la vigencia del presente decreto la Secretaría deberá publicar las Reglas de Operación del Comité de Normalización Territorial a que refiere el artículo 22 de la Ley de Desarrollo Urbano del Distrito Federal, con el objeto de revisar y, en su caso, actualizar el contenido de las Normas Generales de Ordenación.
+
+CUARTO. El Jefe de Gobierno contará con un plazo de treinta días hábiles para emitir los decretos derogatorios y abrogatorios de las disposiciones y ordenamientos que respectivamente se opongan al presente Decreto.
+
+QUINTO. La Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México, tendrá un periodo de tres meses a partir de la entrada en vigor de la presente Ley, para implementar un programa de reorganización administrativa que deberá comprender, al menos, las normas y criterios para la homologación programática del presente decreto.
+
+SEXTO. La Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México, tendrá un plazo de 10 días hábiles, a partir de la entrada en vigor de la presente Ley, para inscribir en el Registro de los Planes y Programas de Desarrollo Urbano de la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México, los Planos 1:10,000 del Plano E-4. Ámbitos de Aplicación de la Norma para Impulsar y Facilitar la Construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano, y su envío al Registro Público de la Propiedad y de Comercio de la Ciudad de México, para su inscripción correspondiente.
+
+SÉPTIMO. Remítase el presente Decreto al Jefe de Gobierno, para su respectiva promulgación, refrendo y publicación en la Gaceta Oficial del Distrito Federal.
