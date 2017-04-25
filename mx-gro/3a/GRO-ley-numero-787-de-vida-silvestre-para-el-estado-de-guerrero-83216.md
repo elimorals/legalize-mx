@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-787-de-vida-silvestre-para-el-estado-de-guerrero-832
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-20"
-last_updated: "2011-09-20"
+last_updated: "2017-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 787 DE VIDA SILVESTRE PARA EL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 20 de septiembre de 2011.
 
@@ -43,9 +43,11 @@ LEY NÚMERO 787 DE VIDA SILVESTRE PARA EL ESTADO DE GUERRERO.
 
 ## TÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público, interés social y de observancia obligatoria para el Estado de Guerrero, con fundamento del artículo 24 de la Constitución Política del Estado de Guerrero. Su objeto primordial es ejercitar las facultades de concurrencia que le otorga la Federación a las entidades federativas en el ámbito de sus respectivas competencias, relativa a la conservación y aprovechamiento sustentable de la vida silvestre y su hábitat en los municipios que conforman el territorio estatal, además de establecer los lineamientos normativos para el aprovechamiento sustentable de especies o poblaciones en riesgo, respetando la competencia y jurisdicción territorial de la Federación en términos de las disposiciones jurídicas aplicables por la Ley General de Vida Silvestre.
+La presente Ley es de orden público, interés social y de observancia obligatoria para el Estado de Guerrero, con fundamento en lo dispuesto por los artículos 22 y 23 de la Constitución Política del Estado Libre y Soberano de Guerrero. Su objeto primordial es ejercitar las facultades de concurrencia que le otorga la federación a las entidades federativas en el ámbito de sus respectivas competencias, relativa a la conservación y aprovechamiento sustentable de la vida silvestre y su hábitat en los municipios que conforman el territorio estatal, además de establecer los lineamientos normativos para el aprovechamiento sustentable de especies o poblaciones en riesgo, respetando la competencia y jurisdicción territorial de la federación en términos de las disposiciones jurídicas aplicables por la Ley General de Vida Silvestre.
 
 ###### ARTÍCULO 2.
 
@@ -77,9 +79,11 @@ Tomando en consideración que todas las especies de animales silvestres que subs
 
 El aprovechamiento de la fauna silvestre dentro de las zonas de amortiguamiento de las áreas naturales protegidas, deberá realizarse atendiendo a las restricciones ecológicas que al efecto emitan las autoridades competentes, sin perjuicio de lo que establezca el calendario cinegético y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 8.
 
-En todo lo no previsto por la presente Ley, se aplicarán las disposiciones de la Ley General de Vida Silvestre, la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Guerrero y demás leyes que incidan en la materia.
+En todo lo no previsto por la presente Ley, se aplicarán las disposiciones de la Ley General de Vida Silvestre, la Ley Número 878 del Equilibrio Ecológico y la Protección al Ambiente del Estado de Guerrero y además (sic) leyes que incidan en la materia.
 
 ###### ARTÍCULO 9.
 
@@ -177,7 +181,9 @@ XXII.- Hábitat: El sitio específico en un medio ambiente físico, ocupado por 
 
 XXIII.- Ley General: A la Ley General de Vida Silvestre;
 
-XXIV.- Ley del Equilibrio: A la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Guerrero;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XXIV.- Ley del Equilibrio.- A la Ley número 878 del Equilibrio Ecológico y la Protección al Ambiente del Estado de Guerrero;
 
 XXV.- Licencia de caza: El documento mediante el cual la autoridad competente acredita que una persona está calificada, tanto por sus conocimientos sobre los instrumentos y medios de las actividades cinegéticas, como de las regulaciones en la materia, para realizar la caza deportiva en el territorio nacional;
 
@@ -205,7 +211,9 @@ XXXVI.- Población: El conjunto de individuos de una especie silvestre que ocupa
 
 XXXVII.- Predio: Unidad territorial delimitada por un polígono que puede contener cuerpos de agua o ser parte de ellos;
 
-XXXVIII.- PROPEG: Procuraduría de Protección Ecológica, como órgano desconcentrado con autonomía administrativa adscrito a la SEMAREN;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+XXXVIII.- PROPEG: Procuraduría de Protección Ecológica, como dependencia de la Administración Pública Centralizada, encargada de vigilar el cumplimiento de las leyes ambientales;
 
 XXXIX.- Recuperación: El restablecimiento de los procesos naturales y de los parámetros genéticos, demográficos o ecológicos de una población o especie, con referencia a su estado al iniciar las actividades de recuperación, así como a su abundancia local, estructura y dinámica en el pasado, para retornar a cumplir con su papel ecológico y evolutivo con la consecuente mejoría en la calidad del hábitat;
 
@@ -327,7 +335,9 @@ X. Promover el desarrollo de proyectos, estudios y actividades encaminados a la 
 
 Dichas facultades serán ejercidas conforme a lo dispuesto en esta Ley y demás disposiciones federales aplicables, así como en aquellas que de las mismas deriven.
 
-En contra de los actos que emitan los Municipios, en ejercicio de las facultades que asuman de conformidad con este precepto respecto de los particulares, procederán los recursos y medios de defensa establecidos en el Capítulo V del Título Sexto de la Ley del Equilibrio Ecológico
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
+
+En contra de los actos que emitan los municipios, en ejercicio de las facultades que asuman de conformidad con este precepto respecto de los particulares, procederán los recursos y medios de defensa establecidos en el Capítulo V del Título Sexto de la Ley del Equilibrio.
 
 ###### ARTÍCULO 24.
 
@@ -335,7 +345,9 @@ La celebración de los convenios o acuerdos de coordinación a que se refiere el
 
 I. Se celebrarán a petición de la Entidad Federativa, cuando ésta cuente con los medios necesarios, el personal capacitado, los recursos materiales y financieros, así como la estructura institucional específica para el desarrollo de las facultades que asumiría y que para tales efectos requiera la autoridad federal. Estos requerimientos dependerán del tipo de convenio o acuerdo a firmar y las capacidades serán evaluadas en conjunto con la SEMAREN.
 
-Los requerimientos que establezcan la autoridad federal y las evaluaciones que se realicen para determinar las capacidades del Estado, deberán publicarse en el Diario Oficial de la Federación y en la gaceta o periódico oficial de la entidad federativa, con antelación a la celebración de los convenios o acuerdos de coordinación;
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
+
+Los requerimientos que establezcan la autoridad federal y las evaluaciones que se realicen para determinar las capacidades del Estado, deberán publicarse en el Diario Oficial de la Federación y en el Periódico Oficial del Gobierno del Estado, con antelación a la celebración de los convenios o acuerdos de coordinación;
 
 II. Establecerán con precisión su objeto, así como las materias y facultades que se asumirán, debiendo ser congruente con los objetivos de los instrumentos de planeación nacional de desarrollo y con la política ambiental nacional;
 
@@ -353,15 +365,19 @@ VIII. Las demás estipulaciones que las partes consideren necesarias para el cor
 
 Corresponde a la SEMAREN evaluar el cumplimiento de los compromisos que se asuman en los convenios o acuerdos de coordinación a que se refiere este artículo.
 
-Los convenios o acuerdos de coordinación a que se refiere el presente artículo, sus modificaciones, así como su acuerdo de terminación, deberán publicarse en el Diario Oficial de la Federación y en la gaceta o periódico oficial de la entidad federativa.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
+
+Los convenios o acuerdos de coordinación a que se refiere el presente artículo, sus modificaciones, así como su acuerdo de terminación, deberán publicarse en el Diario Oficial de la Federación y en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO 25.
 
 Los Municipios en el ámbito de su jurisdicción, están facultados a ejercer las atribuciones relacionadas a esta materia que prevé el artículo 115 constitucional, además de aquellas que les otorgue la presente ley y demás ordenamientos locales, así como las atribuciones que el Estado les transfieran mediante acuerdos o convenios que entre estos ordenes de gobierno celebren.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 26.
 
-Cuando por razón de la materia y de conformidad con la Ley Orgánica de la Administración Pública Estatal u otras disposiciones aplicables, se requiera de la intervención de otras dependencias estatales o federales, la SEMAREN ejercerá sus atribuciones en coordinación con las mismas.
+Cuando por razón de la materia y de conformidad con la Ley Orgánica de la Administración Pública del Estado de Guerrero Número 08 u otras disposiciones aplicables, se requiera de la intervención de otras dependencias estatales o federales, la SEMAREN ejercerá sus atribuciones en coordinación con las mismas.
 
 Las dependencias y entidades de la Administración Pública Estatal que ejerzan atribuciones que les confieren otros ordenamientos cuyas disposiciones se relacionen con el objeto de la presente Ley, ajustarán su ejercicio a la política estatal sobre vida silvestre establecida en ésta y en la Ley del Equilibro, así como a las demás disposiciones que de ellas emanen.
 
@@ -437,7 +453,9 @@ IV. El combate al tráfico o apropiación ilegal de especies de vida silvestre;
 
 V. El fomento y creación de las estaciones biológicas de rehabilitación y repoblamiento de especies de fauna silvestre;
 
-VI. La participación de las organizaciones sociales, públicas o privadas, y los demás interesadas (sic) en la preservación de la biodiversidad;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+VI.- La participación de las organizaciones sociales, públicas o privadas, y los demás interesados en la preservación de la biodiversidad;
 
 VII. El fomento y desarrollo de la investigación de la fauna silvestre, y de los materiales genéticos, con el objeto de conocer su valor científico, ambiental, económico y estratégico para el Estado y la Nación;
 
@@ -649,9 +667,11 @@ Para el eficaz cumplimiento de este Capítulo, se observará lo dispuesto en lo 
 
 ### CAPÍTULO VII. CENTROS PARA LA CONSERVACIÓN E INVESTIGACIÓN
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 72.
 
-Tratándose del rubro de los Centros para la Conservación e Investigación, la SEMAREN, la PROPEG y los órganos desconcentrados de la misma Secretaría, coadyuvarán en la inspección y vigilancia del cumplimiento a lo previsto por los preceptos normativos previstos por el Capítulo VII del Título V de la Ley General y su respectivo Reglamento.
+Tratándose del rubro de los Centros para la Conservación e Investigación, la SEMAREN y la PROPEG, coadyuvarán en la inspección y vigilancia del cumplimiento a lo previsto por los preceptos normativos previstos por el Capítulo VII del Título V de la Ley General y su respectivo Reglamento.
 
 ### CAPÍTULO VIII. SISTEMA DE UNIDADES DE MANEJO PARA LA CONSERVACIÓN DE LA VIDA SILVESTRE
 
@@ -705,7 +725,9 @@ La resolución que emita la SEMAREN previo análisis de la solicitud del promove
 
 I. Registrar las unidades y aprobar sus planes de manejo en los términos presentados para el desarrollo de las actividades.
 
-II. Negar el desarrollo de las actividades cuando de la ejecución del plan de manejo resulte que se contravendrán las disposiciones de esta Ley, y de más (sic) leyes que incidan en este rubro.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+II. Negar el desarrollo de las actividades cuando de la ejecución del plan de manejo resulte que se contravendrán las disposiciones de esta Ley, y demás leyes que incidan en este rubro.
 
 III. Condicionar el desarrollo de las actividades a la modificación del plan de manejo, en cuyo caso, se señalarán los criterios técnicos para efectuar dicha modificación.
 
@@ -769,13 +791,11 @@ Asimismo, la SEMAREN promoverá que dentro de las áreas naturales protegidas, q
 
 ### CAPÍTULO IX. SISTEMA ESTATAL DE INFORMACIÓN
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 86.
 
-Dentro del Sistema Estatal de Información Ambiental y de Recursos Naturales, toda persona tendrá derecho a que la SEMAREN, la PROPEG y los Ayuntamientos pongan a su disposición la información sobre la Vida Silvestre que les soliciten, en términos previstos por la Ley de Acceso a la Información Pública del Estado de Guerrero.
-
-La información relativa a los proyectos de conservación y recuperación de especies y poblaciones prioritarias para la conservación, estará a disposición del público.
-
-Por otra parte la SEMAREN no pondrá a disposición del público información susceptible de generar derechos de propiedad intelectual.
+Dentro del Sistema Estatal de Información Ambiental y de Recursos Naturales, toda persona tendrá derecho a que la SEMAREN, la PROPEG y los Ayuntamientos pongan a su disposición la información sobre la vida silvestre que les soliciten, en términos previstos por la Ley Número 207 de Transparencia y de Acceso a la Información Pública del Estado de Guerrero.
 
 ###### ARTÍCULO 87.
 
@@ -815,11 +835,9 @@ Los registros y autorizaciones relacionados con ejemplares, partes y derivados d
 
 ## TÍTULO VI. CONSERVACIÓN DE LA VIDA SILVESTRE
 
-CAPÍTULO (SIC)
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
 
-ESPECIES Y POBLACIONES EN RIESGO Y PRIORITARIAS PARA LA CONSERVACIÓN
-
-### CAPÍTULO II. HÁBITAT CRÍTICO PARA LA CONSERVACIÓN DE LA VIDA SILVESTRE
+### CAPÍTULO I. ESPECIES Y POBLACIONES EN RIESGO Y PRIORITARIAS PARA LA CONSERVACIÓN
 
 ###### ARTÍCULO 90.
 
@@ -867,7 +885,7 @@ Para el caso del manglar, la SEMAREN, observará lo dispuesto por el artículo 1
 
 La SEMAREN promoverá el desarrollo de proyectos para la conservación, recuperación de especies y poblaciones prioritarias para la conservación, con la participación en su caso de las personas que manejen dichas especies o poblaciones y demás involucrados.
 
-### CAPÍTULO III. SANTUARIOS DE VIDA SILVESTRE
+### CAPÍTULO II. HÁBITAT CRÍTICO PARA LA CONSERVACIÓN DE LA VIDA SILVESTRE
 
 ###### ARTÍCULO 98.
 
@@ -879,7 +897,7 @@ La SEMAREN acordará con los propietarios o legítimos poseedores de predios en 
 
 La realización de cualquier obra pública o privada, así como de aquellas actividades que puedan afectar la protección, recuperación y restablecimiento de los elementos naturales en los hábitats críticos, deberá quedar sujeta a las condiciones que se establezcan como medidas especiales de manejo y conservación en los planes de manejo de que se trate, así como del informe preventivo correspondiente, de conformidad con lo que establezca el respectivo reglamento y demás ordenamientos legales que incidan en la materia.
 
-### CAPÍTULO IV. ÁREAS DE REFUGIO PARA PROTEGER ESPECIES ACUÁTICAS
+### CAPÍTULO III. SANTUARIOS DE VIDA SILVESTRE
 
 ###### ARTÍCULO 100.
 
@@ -913,7 +931,7 @@ El cuidado, administración, manejo y protección de los parques, reservas, refu
 
 La SEMAREN podrá solicitar a la Federación, coadyuve con los recursos financieros necesarios para la operatividad y la vigilancia correspondiente, así como para el cumplimiento de los objetivos establecidos en la respectiva declaratoria de parque, reserva, refugio o santuario.
 
-### CAPÍTULO V. RESTAURACIÓN
+### CAPÍTULO IV. ÁREAS DE REFUGIO PARA PROTEGER ESPECIES ACUÁTICAS
 
 ###### ARTÍCULO 107.
 
@@ -923,19 +941,21 @@ La SEMAREN, en ejercicio de la asunción de las atribuciones que le confiere la 
 
 En el ámbito estatal, la conservación de las áreas de Refugio para la Protección de Especies Acuáticas en áreas de jurisdicción territorial, se sujetará a las políticas establecidas en el Capítulo II del Titulo Sexto de la Ley General.
 
-### CAPÍTULO VI. VEDAS
+### CAPÍTULO V. RESTAURACIÓN
 
 ###### ARTÍCULO 109.
 
 El Ejecutivo del Estado, a través de la SEMAREN, en el ámbito de su jurisdicción territorial y en apoyo a la Federación, tratándose de la atención de problemas de destrucción, contaminación, degradación, desertificación o desequilibrio del hábitat de la vida silvestre, coadyuvará en el cumplimiento de la ejecución de los programas que instrumente de prevención, de atención de emergencias y de restauración para la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales de la vida silvestre, en términos de la normatividad aplicable.
 
-### CAPÍTULO VII. EJEMPLARES Y POBLACIONES QUE SE TORNEN PERJUDICIALES
+### CAPÍTULO VI. VEDAS
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 110.
 
-El rubro de las vedas, se sujetará a la observancia del Capítulo V, Titulo VI de la Ley General y 81 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y demás ordenamientos legales que incidan en la materia; por lo que la SEMAREN, a través de sus instancias facultativas coadyuvará en la inspección y vigilancia del cumplimiento de los preceptos señalados.
+El rubro de las vedas se sujetará a la observancia del Capítulo V, Título VI de la Ley General y 81 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y demás ordenamientos legales que incidan en la materia; por lo que la SEMAREN en coordinación con la PROPEG coadyuvará en la inspección y vigilancia del cumplimiento de los preceptos señalados.
 
-### CAPÍTULO VIII. MOVILIDAD Y DISPERSIÓN DE POBLACIONES DE ESPECIES SILVESTRES NATIVAS
+### CAPÍTULO VII. EJEMPLARES Y POBLACIONES QUE SE TORNEN PERJUDICIALES
 
 ###### ARTÍCULO 111.
 
@@ -951,21 +971,25 @@ Los medios y técnicas deberán ser los adecuados para no afectar a otros ejempl
 
 La comercialización o exportación, así como el aprovechamiento extractivo de ejemplares, partes o derivados, obtenidos de las acciones realizadas para efectuar el control de ejemplares que se tornen perjudiciales para la conservación de los ecosistemas o de especies y poblaciones en riesgo, sólo podrán realizarse cuando se lleven a cabo como parte de un programa integral orientado a la restauración de los ecosistemas en cuestión o la protección de especies o poblaciones en riesgo, sin comprometer en forma alguna la conservación de la vida silvestre y los ecosistemas.
 
-### CAPÍTULO IX. CONSERVACIÓN DE LA VIDA SILVESTRE FUERA DE SU HÁBITAT NATURAL
+### CAPÍTULO VIII. MOVILIDAD Y DISPERSIÓN DE POBLACIONES DE ESPECIES SILVESTRES NATIVAS
 
 ###### ARTÍCULO 114.
 
 En el ámbito estatal, en materia del uso de cercos u otros métodos, para retener o atraer ejemplares de la fauna silvestre nativa, la SEMAREN se sujetará a las disposiciones normativas contenidas en el Capítulo VII de la Ley General.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 115.
 
-En los casos en que, para el desarrollo natural de poblaciones de especies silvestres nativas, sea necesario establecer una estrategia que abarque el conjunto de unidades de manejo para la conservación de vida silvestre colindantes, la SEMAREN, a través de la PROPEG o de sus órganos desconcentrados en coadyuvancia a los lineamientos de la federación, podrá inspeccionar y vigilar se cumpla con las normas que se establecen en la Ley General.
+En los caso (sic) en que, para el desarrollo natural de poblaciones de especies silvestres nativas, sea necesario establecer una estrategia que abarque el conjunto de unidades de manejo para la conservación de vida silvestre colindantes, la PROPEG en coordinación con la SEMAREN, en coadyuvancia a los lineamientos de la federación, podrá inspeccionar y vigilar se cumpla con las normas que se establecen en la Ley General.
 
-### CAPÍTULO X. LIBERACIÓN DE EJEMPLARES AL HÁBITAT NATURAL
+### CAPÍTULO IX. CONSERVACIÓN DE LA VIDA SILVESTRE FUERA DE SU HÁBITAT NATURAL
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 116.
 
-Tratándose al rubro de conservación de la vida silvestre fuera de su habitad natural, se sujetará a las condiciones establecidas por la Ley General, quedando facultada la SEMAREN en coadyuvar a través de la PROPEG y de sus órganos desconcentrado (sic) correspondientes en la inspección y vigilancia de la observancia de la Ley, asimismo podrá adoptar las medidas de seguridad y sanciones administrativas establecidas por la misma y por la presente ley y su respectivo reglamento.
+Tratándose al rubro de conservación de la vida silvestre fuera de su hábitat natural, se sujetará a las condiciones establecidas por la Ley General, quedando facultada la PROPEG en la inspección y vigilancia de la observancia de la Ley; asimismo podrá adoptar las medidas de seguridad y sanciones administrativas establecidas por la misma y por la presente Ley y su respectivo reglamento.
 
 ###### ARTÍCULO 117.
 
@@ -975,7 +999,7 @@ Los parques zoológicos deberán contemplar en sus planes de manejo, aspectos de
 
 Todos aquellos espectáculos públicos que manejen vida silvestre fuera de su hábitat, deberán contemplar en sus planes de manejo, aspectos de educación ambiental y de conservación, con especial atención a las que se encuentren en alguna categoría de riesgo y además deberán registrarse y actualizar sus datos ante la autoridad correspondiente, en el padrón que para tal efecto se lleve, de conformidad con lo establecido en la reglamentación en la materia.
 
-### CAPÍTULO I. APROVECHAMIENTO EXTRACTIVO
+### CAPÍTULO X. LIBERACIÓN DE EJEMPLARES AL HÁBITAT NATURAL
 
 ###### ARTÍCULO 119.
 
@@ -1003,7 +1027,7 @@ Cuando no sea posible realizar acciones de repoblación ni de reintroducción, l
 
 ## TÍTULO VII. APROVECHAMIENTO SUSTENTABLE DE LA VIDA SILVESTRE
 
-### CAPÍTULO II. APROVECHAMIENTO PARA FINES DE SUBSISTENCIA
+### CAPÍTULO I. APROVECHAMIENTO EXTRACTIVO
 
 ###### ARTÍCULO 123.
 
@@ -1079,7 +1103,7 @@ La autorización de aprovechamiento generará para su titular la obligación de 
 
 Todo lo no previsto por este Capítulo, se sujetará a los lineamientos previamente establecidos por la Ley General y demás disposiciones legales que de ellas emanen.
 
-### CAPÍTULO III. DE LA CAZA DEPORTIVA Y SU APROVECHAMIENTO
+### CAPÍTULO II. APROVECHAMIENTO PARA FINES DE SUBSISTENCIA
 
 ###### ARTÍCULO 131.
 
@@ -1093,17 +1117,19 @@ Los rituales se podrán realizar dentro de sus predios o con el consentimiento d
 
 La SEMAREN, podrá establecer limitaciones o negar el aprovechamiento, en los casos en que la información muestre que dichas prácticas o volúmenes están poniendo en riesgo la conservación de las poblaciones o especies silvestres.
 
-### CAPÍTULO IV. COLECTA CIENTÍFICA Y CON PROPÓSITOS DE ENSEÑANZA
+### CAPÍTULO III. DE LA CAZA DEPORTIVA Y SU APROVECHAMIENTO
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 133.
 
-El Estado, a través de la SEMAREN, en ejercicio de las facultades que le confiera la federación, acorde a lo establecido por el artículo 11 de la Ley General, podrá otorgar, suspender, modificar y revocar las autorizaciones, certificaciones, registros y demás actos administrativos vinculados al ejercicio de la caza deportiva y para la prestación de servicios de este tipo de aprovechamiento, de conformidad a los (sic) Normas Oficiales Mexicanas y demás disposiciones legales aplicables.
+El Estado, a través de la SEMAREN, en ejercicio de las facultades que le confiera la Federación, acorde a lo establecido por el artículo 11 de las (sic) Ley General, podrá otorgar, suspender, modificar y revocar las autorizaciones, certificaciones, registros y demás actos administrativos vinculados al ejercicio de la caza deportiva y para la presentación de servicios de este tipo de aprovechamiento, de conformidad a las Normas Oficiales Mexicanas y demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 134.
 
 Para los efectos de la caza deportiva, sus autorizaciones, certificaciones o registros, las prohibiciones, y el aprovechamiento de las especies y sus derivados, se regulará con independencia en los lineamientos referidos en el artículo que antecede y de conformidad con lo considerado por el Capítulo III del Título VII de la Ley General.
 
-### CAPÍTULO V. APROVECHAMIENTO NO EXTRACTIVO
+### CAPÍTULO IV. COLECTA CIENTÍFICA Y CON PROPÓSITOS DE ENSEÑANZA
 
 ###### ARTÍCULO 135.
 
@@ -1125,21 +1151,25 @@ II. Destinar al menos un duplicado del material biológico colectado a instituci
 
 III. Exhibir en buen estado dicho material en las mencionadas instituciones o colecciones.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO V. APROVECHAMIENTO NO EXTRACTIVO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 137.
 
-El aprovechamiento no extractivo de vida silvestre se sujetará a las disposiciones expuestas en la Ley General, correspondiendo a la SEMAREN, a través de la PROPEG o de sus órganos desconcentrado (sic) respectivos, el coadyuvar en la inspección y vigilancia de las normas oficiales mexicanas y de las leyes que incidan en la materia, siempre y cuando se dé el principio de concurrencia previsto por el artículo 73 fracción XXIX-G Constitucional, a través de los instrumentos jurídicos delegatorios de facultades en la materia que descentralice la Federación al Estado, en su caso con la participación de sus municipios.
+El aprovechamiento no extractivo de vida silvestre se sujetará a las disposiciones expuestas en la Ley General, correspondiendo a la PROPEG, en coordinación con la SEMAREN, el coadyuvar en la inspección y vigilancia de las normas oficiales mexicanas y de las leyes que incidan en la materia, siempre y cuando se dé el principio de concurrencia previsto por el artículo 73 fracción XXIX-G de la Constitución Política de los Estados Unidos Mexicanos, a través de los instrumentos jurídicos delegatorios de facultades en la materia que descentralice la federación al estado, en su caso con la participación de sus municipios.
 
 De acuerdo a lo establecido por la Ley General, Los ingresos que obtengan los Municipios y el Estado del aprovechamiento no extractivo de vida silvestre en predios de su propiedad, o en aquellos en los que cuenten con el consentimiento del propietario o poseedor legítimo, los destinarán, de acuerdo a las disposiciones aplicables, al desarrollo de programas, proyectos y actividades vinculados con la restauración, conservación y recuperación de especies y poblaciones, así como a la difusión, capacitación y vigilancia.
 
 ## TITULO VIII. MEDIDAS DE CONTROL Y DE SEGURIDAD, INFRACCIONES Y SANCIONES
 
-### CAPÍTULO II. DAÑOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 138.
 
-El Estado, a través de la PROPEG, homologando los criterios y lineamientos legales de la Ley General, podrá realizar actos de inspección y vigilancia necesarios para la conservación y aprovechamiento sustentable de la vida silvestre, con arreglo a lo previsto en esta Ley, la Ley General, la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Guerrero, la Ley General del Equilibrio Ecológico y la Protección al Ambiente y en las disposiciones que de ellas se deriven, debiendo llevar un padrón de los infractores a las mismas.
+El Estado, a través de la PROPEG, homologando los criterios y lineamientos legales de la Ley General, podrá realizar actos de inspección y vigilancia necesarios para la conservación y aprovechamiento sustentable de la vida silvestre, con arreglo a lo previsto en esta Ley, la Ley del Equilibrio, la Ley General, la Ley General del Equilibrio Ecológico y la Protección al Ambiente y en las disposiciones que de ellas se deriven, debiendo llevar un padrón de los infractores a las mismas.
 
 Las personas que se encuentren incluidas en dicho padrón, respecto a las faltas a las que se refiere el artículo 148, fracción II de la presente ley, en los términos que se establezca en su reglamento, no se les otorgarán autorizaciones de aprovechamiento, ni serán sujetos de transmisión de derechos de aprovechamiento.
 
@@ -1147,7 +1177,7 @@ Las personas que se encuentren incluidas en dicho padrón, respecto a las faltas
 
 El Estado, a través de la SEMAREN y demás autoridades locales, podrá participar con las autoridades municipales y federales, de conformidad con el Reglamento respectivo, con la finalidad de supervisar la aplicación de las medidas de control y de seguridad previstas en este título, conforme a lo que prevean los acuerdos o convenios de coordinación reseñados por los artículos 11, 12 y 13 de la Ley General y demás ordenamientos legales que inciden en la materia.
 
-### CAPÍTULO III. VISITAS DE INSPECCIÓN
+### CAPÍTULO II. DAÑOS
 
 ###### ARTÍCULO 140.
 
@@ -1169,11 +1199,13 @@ Esta acción podrá ser ejercitada sin perjuicio de la acción indemnizatoria pr
 
 La reparación del daño para el caso de la acción de responsabilidad por daño a la vida silvestre y su hábitat, consistirá en el restablecimiento de las condiciones anteriores a la comisión de dicho daño y, en el caso de que el restablecimiento sea imposible, en el pago de una indemnización la cual se destinará, de conformidad con lo establecido en el reglamento, al desarrollo de programas, proyectos y actividades vinculados con la restauración, conservación y recuperación de especies y poblaciones, así como a la difusión, capacitación y vigilancia.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 143.
 
-Serán competentes para conocer de la acción de responsabilidad por daño a la vida silvestre y su hábitat dentro de la jurisdicción territorial del Estado, los Juzgados Estatales en materia civil, conforme a la competencia territorial que establezcan las disposiciones respectivas, regulándose el procedimiento conforme al Código de Procedimientos Civiles en vigor para el Estado.
+Serán competentes para conocer de la acción de responsabilidad por daño a la vida silvestre y su hábitat dentro de la jurisdicción territorial del Estado, los Juzgados Estatales en materia civil, conforme a la competencia territorial que establezcan las disposiciones respectivas, regulándose el procedimiento conforme al Código Procesal Civil del Estado Libre y Soberano de Guerrero Número 364.
 
-### CAPÍTULO IV. MEDIDAS DE SEGURIDAD
+### CAPÍTULO III. VISITAS DE INSPECCIÓN
 
 ###### ARTÍCULO 144.
 
@@ -1221,7 +1253,7 @@ III. El infractor demuestre que ha cumplido con las obligaciones materia de la i
 
 En los casos en que no se pudiera identificar a los presuntos infractores de esta Ley y de las disposiciones que de ella deriven, la PROPEG pondrá término al procedimiento mediante la adopción de las medidas que correspondan para la conservación de la vida silvestre y de su hábitat y, en su caso, ordenará el destino que debe darse a los ejemplares, partes o derivados de la vida silvestre que hayan sido abandonados.
 
-### CAPÍTULO V. INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+### CAPÍTULO IV. MEDIDAS DE SEGURIDAD
 
 ###### ARTÍCULO 151.
 
@@ -1243,7 +1275,9 @@ I.- No exista posibilidad inmediata de colocar los bienes asegurados en los Cent
 
 II.- No existan antecedentes imputables al mismo, en materia de aprovechamiento o comercio ilegales;
 
-III.- No existan faltas en materia de trato digno y respetuoso;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+III.- No se acredite incumplimiento a las medidas en materia de trato digno y respetuoso;
 
 IV.- Los bienes asegurados no estén destinados al comercio nacional o internacional dentro de la jurisdicción del Estado.
 
@@ -1265,7 +1299,9 @@ V. Exista un riesgo inminente de daño o deterioro grave a la vida silvestre o d
 
 VI. Existan signos evidentes de alteración de documentos o de la información contenida en los documentos mediante los cuales se pretenda demostrar la legal posesión de los ejemplares, productos o subproductos de vida silvestre de que se trate; y
 
-VII. Existan faltas respecto al trato digno y respetuoso, conforme a lo estipulado en la presente Ley.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+VII.- Existan incumplimiento de las medidas en materia de trato digno y respetuoso, conforme a lo estipulado en la presente Ley.
 
 ###### ARTÍCULO 154.
 
@@ -1275,11 +1311,15 @@ Las personas sujetas a inspección que sean designadas como depositarias de los 
 
 En caso de que el depositario incumpla con sus obligaciones legales, la PROPEG procederá a hacer efectivas las garantías exhibidas, independientemente de cualquier otra responsabilidad civil, penal o administrativa que proceda y sin perjuicio de las sanciones que en su caso, se haya hecho acreedor el inspeccionado, por las infracciones que conforme a esta Ley y las disposiciones jurídicas que de ella emanen, hubiere cometido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 155.
 
-La PROPEG podrá ordenar la venta al precio de mercado de bienes perecederos asegurados precautoriamente, si el presunto infractor no acredita la legal procedencia de los mismos dentro de los quince días siguientes a su aseguramiento, siempre y cuando se trate de un bien permitido en el comercio, la cual se realizará conforme a lo establecido en la Ley del Equilibrio o la Ley General de aplicación supletoria a la local, en términos de su artículo 12. En este caso, la PROPEG deberá invertir las cantidades correspondientes en programas de conservación y preservación de de (sic) flora y fauna silvestre, en términos del Reglamento de la presente Ley.
+La PROPEG podrá ordenar la venta al precio de mercado de bienes perecederos asegurados precautoriamente, si el presunto infractor no acredita la legal procedencia de los mismos dentro de los quince días siguientes a su aseguramiento, siempre y cuando se trate de un bien permitido en el comercio, la cual se realizará conforme a lo establecido en la Ley del Equilibrio o la Ley General de aplicación supletoria a la local, en términos de su artículo 12. En este caso, la PROPEG deberá invertir las cantidades correspondientes en programas de conservación y preservación de flora y fauna silvestre, en términos del Reglamento de la presente Ley
 
 En caso de que en la resolución que concluya el procedimiento de inspección respectivo no se ordene el decomiso de los bienes perecederos asegurados precautoriamente y éstos hubiesen sido vendidos, la PROPEG deberá entregar al interesado el precio de venta de los bienes de que se trate al momento del aseguramiento, más los rendimientos que se hubiesen generado a la fecha de vencimiento de los títulos a que se refiere el párrafo anterior.
+
+### CAPÍTULO V. INFRACCIONES Y SANCIONES ADMINISTRATIVAS
 
 ###### ARTÍCULO 156.
 
@@ -1335,7 +1375,9 @@ XXII.- Exportar o importar ejemplares, partes o derivados de la vida silvestre, 
 
 XXIII.- Realizar actos que contravengan las disposiciones de trato digno y respetuoso a la fauna silvestre, establecidas en la presente Ley y en las disposiciones que de ella se deriven.
 
-Se considerarán infractores no sólo las personas que hayan participando en su comisión, sino también quienes hayan participado en su preparación o en su encubrimiento.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
+
+Se consideran infractores no sólo las personas que hayan participado en su comisión, sino también quienes hayan participado en su preparación o en su encubrimiento.
 
 ###### ARTÍCULO 158.
 
@@ -1409,35 +1451,49 @@ II. El domicilio proporcionado por el inspeccionado resulte ser falso o inexacto
 
 III. No se señale domicilio en el lugar en el que se encuentra la autoridad encargada de sustanciar el procedimiento administrativo de inspección.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 163.
 
-La PROPEG, podrá solicitar a instituciones de educación superior, centros de investigación y de expertos reconocidos en la materia la elaboración de dictámenes que, en su caso, serán considerados en la emisión de las resoluciones que pongan fin a los procedimientos administrativos a que se refiere este Título, así como en otros actos que realice la propia SEMAREN.
+La PROPEG, podrá solicitar a instituciones de educación superior, centros de investigación y de expertos reconocidos en la materia la elaboración de dictámenes que, en su caso, serán considerados en la emisión de las resoluciones que pongan fin a los procedimientos administrativos a que se refiere este Título, así como en otros aspectos que realice la SEMAREN.
 
 ###### ARTÍCULO 164.
 
 La imposición de las multas a que se refiere el artículo 158 de la presente Ley, se determinará conforme a los criterios siguientes:
 
-I. Con el equivalente de 5 a 5000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones XII, XVII, XXI y XXIII del artículo 157 de la presente Ley; y
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-II. Con el equivalente de 20 a 50000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XIV, XV, XVI, XVIII, XIX, XX y XXII del artículo 157 de la presente Ley.
+I.- Con el equivalente de 5 a 5000 veces del valor de la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones XII, XVII, XXI y XXIII del artículo 157 de la presente Ley; y
 
-La imposición de las multas se realizará con base en el salario mínimo general diario vigente en el lugar de la comisión de la infracción al momento de cometerse ésta.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+II.- Con el equivalente de 20 a 5000 veces del valor de la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XIV, XV, XVI, XVIII, XIX, XX Y XXII del artículo 157 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
+
+La imposición de las multas se realizará con base al valor de la Unidad de Medida y Actualización vigente, en el lugar de la comisión de la infracción al momento de cometerse ésta.
 
 En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto.
 
 La autoridad correspondiente podrá otorgar al infractor la opción a que se refiere el artículo 159 de la presente ley, si éste se obliga a reparar el daño cometido mediante el restablecimiento de las condiciones anteriores a su comisión o a realizar una inversión equivalente en los términos que se establezcan, en cuyo caso se observará lo previsto en esas disposiciones.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 165.
 
-En el caso de que se imponga el decomiso como sanción, el infractor estará obligado a cubrir los gastos que se hubieren realizado para la protección, conservación, liberación o el cuidado, según corresponda, de los ejemplares de vida silvestre que hubiesen sido asegurados. Las cantidades respectivas tendrán el carácter de crédito fiscal y serán determinadas por la instancia facultativa de la SEMAREN en las resoluciones que concluyan los procedimientos de inspección correspondientes.
+En el caso de que se imponga el decomiso como sanción, el infractor estará obligado a cubrir los gastos que se hubieren realizado para la protección, conservación, liberación o el cuidado, según corresponda, de los ejemplares de vida silvestre que hubiesen sido asegurados. Las cantidades respectivas tendrán el carácter de crédito fiscal y serán determinadas por la PROPEG en las resoluciones que concluyan los procedimientos de inspección correspondientes.
 
 ###### ARTÍCULO 166.
 
 La PROPEG, dará a los bienes decomisados cualquiera de los siguientes destinos:
 
-I.- Venta a través de invitación a cuando menos tres compradores, en aquellos casos en que el valor de lo decomisado no exceda de 5,000 mil veces el salario mínimo vigente en el lugar donde se cometió la infracción al momento de imponer la sanción. Si dichos invitados no comparecen el día señalado para la venta o sus precios no fueren aceptados, la autoridad podrá proceder a su venta directa;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-II.- Remate en subasta pública cuando el valor de lo decomisado exceda de 5,000 veces el salario diario mínimo vigente en el lugar donde se haya cometido la infracción al momento de imponer la sanción;
+I.- Venta a través de invitación cuando menos tres compradores, en aquellos caso (sic) en que el valor de lo decomisado no exceda de 5,000 mil veces el valor de la Unidad de Medida y Actualización. Sí dichos invitados no comparecen el día señalado para la venta o en sus precios no sean aceptados, la autoridad podrá proceder a su venta directa;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+
+II.- Remate en subasta pública cuando el valor de lo decomisado exceda de 5,000 veces el valor de la Unidad de Medida y Actualización vigente, en el lugar donde se haya cometido la infracción al momento de imponer la sanción;
 
 III.- Tratándose de especies y subespecies de flora y fauna silvestre, éstas podrán ser donadas a zoológicos públicos siempre que se garantice la existencia de condiciones adecuadas para su desarrollo, o
 
@@ -1516,3 +1572,13 @@ EL SECRETARIO DE MEDIO AMBIENTE Y RECURSOS NATURALES.
 M.C. CARLOS TOLEDO MANZÚR.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 443 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 787 DE VIDA SILVESTRE PARA EL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
