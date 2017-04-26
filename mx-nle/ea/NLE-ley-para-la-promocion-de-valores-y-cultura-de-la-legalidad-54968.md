@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-promocion-de-valores-y-cultura-de-la-legalidad-5496
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-23"
-last_updated: "2016-04-08"
+last_updated: "2017-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA PROMOCIÓN DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 23 de marzo de 2007.
 
@@ -223,13 +223,15 @@ El Comité a que se refiere el Artículo 10 será de carácter permanente para d
 
 ### CAPÍTULO IV. DEL RECINTO DE LOS HOMBRES Y MUJERES ILUSTRES DEL ESTADO DE NUEVO LEÓN
 
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
 
 ###### Artículo 12.
 
-El “Recinto de los Hombres y Mujeres Ilustres del Estado de Nuevo León”, será un espacio de honor destinado a rendir homenaje póstumo permanente a los nuevoleoneses que, habiendo transcurrido 15 años como mínimo de su fallecimiento, en el transcurso de su vida se hayan distinguido por su obra trascendente, relevante, ejemplar y por sus acciones cívicas o políticas o por sus aportaciones en los campos de la ciencia, de la educación, de las artes, de la cultura y demás actividades humanas, en beneficio de la sociedad, con independencia de su género, posiciones ideológicas, filosóficas o políticas, conforme a las bases y procedimientos aquí regulados.
+El "Recinto de los Hombres y Mujeres Ilustres del Estado de Nuevo León", será un espacio de honor destinado a rendir homenaje póstumo a los nuevoleoneses que, habiendo transcurrido 10 años como mínimo de su fallecimiento, en el transcurso de su vida se hayan distinguido por su obra trascendente, relevante, ejemplar y por sus acciones cívicas o políticas o por sus aportaciones en los campos de la ciencia, de la educación, de las artes, de la cultura y demás actividades humanas, en beneficio de la sociedad, con independencia de su género, posiciones ideológicas, filosóficas o políticas, conforme a las bases y procedimientos aquí regulados.
 
 Para efectos de esta Ley, en el Estado sólo habrá un Recinto para los fines señalados en este Capítulo.
+
+Excepcionalmente, podrá ser objeto de reconocimiento en vida, personajes destacados en las disciplinas a que se refiere el párrafo anterior.
 
 > <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2009)</small>
 
@@ -406,5 +408,11 @@ P.O. 29 DE DICIEMBRE DE 2014.
 P.O. 8 DE ABRIL DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 095. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY PARA LA PROMOCIÓN DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 250. SE REFORMA EL ARTÍCULO 12 DE LA LEY PARA LA PROMOCIÓN DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
