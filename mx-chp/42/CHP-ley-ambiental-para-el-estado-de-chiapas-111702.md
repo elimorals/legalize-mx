@@ -4,7 +4,7 @@ identifier: "CHP-ley-ambiental-para-el-estado-de-chiapas-111702"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-18"
-last_updated: "2015-11-18"
+last_updated: "2017-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY AMBIENTAL PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de noviembre de 2015.
 
@@ -135,7 +135,9 @@ VIII. Auditoría Ambiental: A los procesos de verificación y autorregulación a
 
 IX. Biodiversidad: A la variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros, los ecosistemas terrestres y acuáticos, y los complejos ecológicos de los que forman parte; comprendiendo la diversidad dentro de cada especie y los ecosistemas.
 
-X. Certificación de Área Natural Protegida: Al reconocimiento que otorga la Secretaría, para el establecimiento de un área natural protegida de aquellos terrenos destinados voluntariamente por sus propietarios o poseedores para la preservación, conservación y protección de la biodiversidad.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+X. Certificación de Área Natural Protegida: Al reconocimiento que realiza la Secretaría, para el establecimiento de un área natural protegida de aquellos terrenos destinados voluntariamente por sus propietarios o poseedores para la preservación, conservación y protección de la biodiversidad.
 
 XI. Consejo Consultivo: Al Consejo Consultivo Ambiental Estatal.
 
@@ -147,9 +149,13 @@ XIV. Contaminante: A toda materia o energía en cualesquiera de sus estados fís
 
 XV. Contingencia Ambiental: A la situación derivada de actividades humanas o fenómenos naturales, que pone en peligro la integridad de uno o varios ecosistemas y así como de las poblaciones.
 
-XVI. Control: A la implementación y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
 
-XVII. Criterios Ecológicos: A los lineamientos de observancia obligatoria contenidos en la Norma Oficial Mexicana o Norma Técnica Ambiental Estatal que se establezca para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales, la protección al ambiente y a la biodiversidad, y que permiten la aplicación de los instrumentos de la política ambiental.
+XVI. Control: A la implementación de inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento.
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+XVII. Criterios Ecológicos: A los lineamientos obligatorios contenidos en la presente Ley, emitidas para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales, la protección al ambiente y a su biodiversidad, y que permiten la aplicación de los instrumentos de la política ambiental.
 
 XVIII. Cultura Ambiental: Al proceso de construcción de conocimientos, valores, hábitos y actitudes que conducen a una sociedad a actuar en armonía con la naturaleza, transmitidos a través de generaciones, o adquiridos por medio de la educación ambiental.
 
@@ -183,7 +189,9 @@ XXXII. Estudio de Riesgo Ambiental: Al documento mediante el cual se da a conoce
 
 XXXIII. Equilibrio Ecológico: A la relación de interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, transformación y desarrollo del hombre y demás seres vivos.
 
-XXXIV. Evaluación de Impacto Ambiental: Al procedimiento a través del cual la Autoridad evalúa los efectos que sobre el ambiente y los recursos naturales pueden generar la realización de programas, obras y actividades de desarrollo dentro del territorio del Estado de Chiapas, a fin de evitar o reducir al mínimo efectos negativos sobre el medio ambiente, prevenir futuros daños al mismo y propiciar el aprovechamiento sustentable de los recursos naturales.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+XXXIV. Evaluación de Impacto Ambiental: Al procedimiento a través del cual la Autoridad evalúa los efectos que sobre el ambiente y los recursos naturales pueden generar la realización de obras y actividades de desarrollo dentro del territorio del Estado de Chiapas, a fin de evitar o reducir al mínimo efectos negativos sobre el medio ambiente, prevenir futuros daños al mismo y propiciar el aprovechamiento sustentable de los recursos naturales.
 
 XXXV. Fauna Silvestre: A las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación.
 
@@ -256,6 +264,38 @@ LXVIII. Verificación: A las acciones de inspección y vigilancia que realiza la
 LXIX. Vigilancia: Al monitoreo y supervisión que permite conocer la forma en que se da cumplimiento a las disposiciones contenidas en la presente Ley.
 
 LXX. Zonificación: Al instrumento técnico de planeación que puede ser utilizado en el establecimiento de las Áreas Naturales Protegidas, que permite ordenar su territorio en función del grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial, de conformidad con los objetivos dispuestos en la misma declaratoria.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+LXXI. Derivados: A los materiales generados por los ejemplares a través de procesos biológicos, cuyo aprovechamiento no implica la destrucción de ejemplares o partes. Para efectos de las disposiciones que se aplican al comercio exterior, se considerarán productos los derivados no transformados y subproductos aquellos que han sido sujetos a algún proceso de transformación.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+LXXII. Ejemplares o Poblaciones Ferales: Aquellos pertenecientes a especies domésticas que al quedar fuera del control del hombre, se establecen en el hábitat natural de la vida silvestre.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+LXXIII. Estudio de Poblaciones: Aquel que se realiza con el objeto de conocer sus parámetros demográficos, tales como el tamaño y densidad; la proporción de sexos y edades; y las tasas de natalidad, mortalidad y crecimiento durante un período determinado, así como la adición de cualquier otra información relevante.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+LXXIV. Hábitat: Al sitio específico en un medio ambiente físico, ocupado por un organismo, por una población, por una especie o por comunidades de especies en un tiempo determinado.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+LXXV. Monitoreo Biológico: A la toma de datos periódica y sistemática para conocer tendencias de cambio, que requiere de una línea base de información, que permita entender el comportamiento de un sistema a través del tiempo.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+LXXVI. Parte: A la porción, fragmento o componente de un ejemplar, para efectos de las disposiciones que se aplican al comercio exterior, se considerarán productos las partes no transformadas y subproductos aquellas que han sido sujetas a algún proceso de transformación.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+LXXVII. Población: Al conjunto de ejemplares de una especie silvestre que comparten el mismo hábitat. Se considera la unidad básica de manejo de las especies silvestres en vida libre.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+LXXVIII. Vida Silvestre: A los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los ferales
 
 ### Capítulo II. De las Autoridades Ambientales
 
@@ -367,7 +407,9 @@ XXVIII. Desarrollar guías y lineamientos en el ámbito de su competencia, para 
 
 XXIX. Impulsar campañas y programas educativos permanentes de protección ambiental y fomento de una cultura ecológica, con el propósito de lograr la participación activa de la sociedad en la preservación, conservación y protección del medio ambiente y sus recursos naturales.
 
-XXX. Formular los listados de las actividades riesgosas, así como de las obras o actividades que generen impacto ambiental significativo, siempre y cuando no contravengan las Normas Oficiales Mexicanas en la materia.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+XXX. Regular las actividades riesgosas tomando como referencia las cantidades de reportes que se encuentren por debajo de las establecidas en los listados de las actividades altamente riesgosas emitidos por la Federación, en términos de la Ley General y las Normas Oficiales Mexicanas, en materia de riesgo ambiental.
 
 XXXI. Expedir el registro único de prestadores de servicios en materia ambiental.
 
@@ -801,23 +843,29 @@ I. Los lineamientos y estrategias ecológicas ya no resulten necesarios o adecua
 
 II. Las perturbaciones en los ecosistemas causadas por fenómenos físicos o meteorológicos se traduzcan en contingencias ambientales que serán significativas y pongan en riesgo el aprovechamiento sustentable de los recursos naturales, el mantenimiento de los bienes y servicios ambientales y la conservación de los ecosistemas y la biodiversidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 42.
 
-El programa de ordenamiento ecológico del territorio será considerado en la regulación de aprovechamiento de los recursos naturales en la localización de las actividades productivas y en los asentamientos humanos, conforme a las siguientes bases:
+El programa de ordenamiento ecológico del territorio para la regulación del aprovechamiento de los recursos naturales en la localización de las actividades productivas y asentamientos humanos, se sujetará a los siguientes criterios:
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
 
 I. En lo que se refiere a los asentamientos humanos, será considerado en:
 
-a) El programa estatal y municipal de desarrollo urbano.
+a) La emisión de autorización de uso de suelo.
 
-b) La fundación de nuevos centros de población.
+b) El programa estatal, los programas regionales y municipales de desarrollo urbano.
 
-c) La creación de reservas territoriales para el desarrollo urbano y la vivienda, y la determinación del uso y destino del suelo.
+c) La fundación de nuevos centros de población.
 
-d) La ordenación urbana del territorio de la entidad y los programas estatales y municipales para infraestructura, equipamiento urbano y vivienda.
+d) La creación de reservas territoriales para el desarrollo urbano y la vivienda, y la determinación del uso y destino del suelo.
 
-e) Los financiamientos para infraestructura, equipamiento urbano y vivienda otorgados por las instituciones de crédito público y privado y otras entidades.
+e) La ordenación urbana del territorio de la entidad y los programas federales, estatales y municipales para infraestructura, equipamiento urbano y vivienda.
 
-f) En los apoyos que otorguen el Gobierno del Estado y los Municipios para orientar los usos del suelo.
+f) Los financiamientos para infraestructura, equipamiento urbano y vivienda otorgados por las instituciones de crédito público y privado y otras entidades.
+
+g) En los apoyos que otorgue el Gobierno Federal, Estatal y los Municipios para orientar los usos del suelo.
 
 II. En cuanto al aprovechamiento de los recursos naturales, será considerado en:
 
@@ -841,9 +889,17 @@ c) El otorgamiento de estímulos fiscales orientados a promover la adecuada loca
 
 d) Financiamiento a las actividades económicas para inducir su adecuada localización y en su caso su reubicación.
 
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+En cuanto a la ejecución de proyectos estratégicos federales y en áreas prioritarias del desarrollo nacional, respecto al Ordenamiento Ecológico del Territorio, su regulación quedará sujeta a las disposiciones legales y criterios normativos previstos al ámbito federal aplicable.
+
 ###### Articulo 43.
 
 Para la autorización y ejecución de una obra pública o privada indistintamente de los requerimientos establecidos por otras disposiciones de orden federal, estatal o municipal, es obligatorio para la dependencia, entidad pública o privada contar con el Dictamen Técnico en materia ambiental emitida por la Secretaría, la cual tendrá vigencia de un año.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+En el caso de obras relacionadas con proyectos estratégicos federales y en áreas prioritarias del desarrollo nacional, se estará a lo dispuesto al párrafo segundo del artículo 42 de la presente Ley.
 
 #### Sección Tercera. Participación Social
 
@@ -971,9 +1027,11 @@ Asimismo, la Secretaría, promoverá el reconocimiento a los esfuerzos más dest
 
 #### Sección Cuarta. Sistema Estatal de Información Ambiental
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 51.
 
-Para fortalecer el derecho de acceso a la información ambiental en la Entidad, la Secretaría creará e implementará el Sistema Estatal de Información Ambiental, que tendrá como objetivo general registrar, organizar, actualizar y difundir información ambiental local, en cumplimiento a lo que establece la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas, y demás disposiciones legales aplicables.
+Para fortalecer el derecho de acceso a la información ambiental en la Entidad, la Secretaría creará e implementará el Sistema Estatal de Información Ambiental, que tendrá como objetivo general registrar, organizar, actualizar y difundir información ambiental local, en cumplimiento a lo que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Chiapas, y demás disposiciones legales aplicables.
 
 ###### Artículo 52.
 
@@ -1013,7 +1071,13 @@ XVI. El informe que expida la Secretaría en los términos de la presente Ley.
 
 XVII. Las áreas de conservación ecológica y reservas municipales establecidas en los Programas de Desarrollo Urbano.
 
-XVIII. Cualquier otro tema o documento relacionado con las materias que regula la presente Ley, y que a criterio de la Secretaría sea considerado como de interés general.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+XVIII. La compilación de información en materia de vida silvestre.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+XIX. Cualquier otro tema o documento relacionado con las materias que regula la presente Ley, y que a criterio de la Secretaría sea considerado como de interés general.
 
 ###### Artículo 53.
 
@@ -1029,13 +1093,17 @@ La Secretaría, promoverá la creación de centros comunitarios de información 
 
 La Secretaría, elaborará y presentará anualmente el informe sobre la gestión ambiental de la Entidad, el cual, será turnado al Congreso del Estado para conocer su opinión previamente a su publicación.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 56.
 
-La Secretaría, proporcionará o negará la información ambiental que le sea solicitada, dependiendo de la clasificación de la misma en términos de lo previsto por la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas y demás disposiciones legales aplicables.
+La Secretaría, proporcionará o negará la información ambiental que le sea solicitada, dependiendo de la clasificación de la misma en términos de lo previsto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Chiapas y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
 
 ###### Artículo 57.
 
-La Secretaría, contará en su estructura orgánica con una área de participación social y transparencia, como el órgano responsable de promover y coordinar la participación de individuos y grupos, así como de garantizar la transparencia y derecho a la información pública en materia de conservación, mejoramiento ambiental, aprovechamiento sustentable de los recursos naturales y adecuado manejo de residuos, en cumplimiento a lo que establece la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas y demás ordenamientos legales aplicables.
+La Secretaría, contará en su estructura orgánica con una área de participación social y transparencia, como el órgano responsable de promover y coordinar la participación de individuos y grupos, así como de garantizar la transparencia y acceso a la información pública en materia de conservación, mejoramiento ambiental, aprovechamiento sustentable de los recursos naturales y adecuado manejo de residuos, en cumplimiento a lo que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Chiapas y demás ordenamientos legales aplicables.
 
 ###### Artículo 58.
 
@@ -1369,7 +1437,9 @@ Para ello, en los casos que determine la presente Ley y otros ordenamientos que 
 
 I. Obra pública estatal y municipal.
 
-II. Actividades consideradas riesgosas tales como: instalaciones de servicio, almacenamiento y distribución de combustibles o sustancias riesgosas cuando éstas no sean competencia de la federación.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+II. Actividades consideradas riesgosas tales como: instalaciones de servicio, almacenamiento y aprovechamiento de combustibles o sustancias riesgosas cuando éstas no sean competencia de la federación.
 
 III. Caminos estatales, municipales y rurales.
 
@@ -1405,15 +1475,17 @@ En el reglamento de la presente Ley o en las normas que al efecto se emitan, se 
 
 La evaluación del impacto y riesgo ambiental, se realizará mediante los estudios que al efecto requiera la Secretaría, a los interesados que pretendan llevar a cabo alguno de las obras o actividades señaladas en el artículo 87 de esta Ley. Dichos estudios se presentarán en informe preventivo, estudio de riesgo o manifestaciones de impacto ambiental en las modalidades que en la materia determine el reglamento respectivo de la presente Ley.
 
-Para los efectos del artículo anterior, la Secretaría, notificará a los interesados su determinación para excluirlos o someterlos al procedimiento de evaluación del impacto y riesgo ambiental, fundando y motivando las razones que lo justifiquen, esto con el propósito de que los interesados presenten los informes, dictámenes y demás documentación que la Secretaría juzgue conveniente, en un plazo no mayor a diez días hábiles.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 26 DE ABRIL DE 2017)</small>
 
 ###### Artículo 90.
 
 Los efectos negativos que sobre el ambiente y los recursos naturales a que se refiere esta Ley, pudieran causar las obras o actividades de competencia estatal que no requieran someterse al procedimiento de evaluación de impacto ambiental mencionado en el presente capítulo, estarán sujetos en lo conducente, a las disposiciones legales y normatividad aplicables en la materia, así como lo que señalen los permisos, licencias, autorizaciones, concesiones y normas técnicas que conforme a las mismas se requieran en las materias a que se refiere la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 91.
 
-Para obtener la autorización a que se refiere el artículo 87 de esta Ley, los interesados deberán presentar a la Secretaría, una manifestación o estudio de impacto ambiental en cualquiera de sus modalidades, el cual deberá contener la descripción de los posibles efectos en el o los ecosistemas que pudieran ser afectados por la obra o actividad que se trate, considerando el conjunto de los elementos que conforman dichos ecosistemas, así como las medidas preventivas, de mitigación y las demás necesarias para evitar los efectos negativos sobre el ambiente, conforme a los lineamientos expedidos por la Secretaría para tal efecto.
+Para obtener la autorización a que se refiere el artículo 87 de esta Ley, los interesados deberán presentar a la Secretaría, una manifestación o estudio de impacto ambiental en cualquiera de sus modalidades, el cual deberá acreditar la propiedad del inmueble y exhibir previamente las autorizaciones municipales, estatales y/o federales necesarias para la ejecución del proyecto, así como la descripción de los posibles efectos en el o los ecosistemas que pudieran ser afectados por la obra o actividad que se trate, considerando el conjunto de los elementos que conforman dichos ecosistemas, así como las medidas preventivas, de mitigación y las demás necesarias para evitar los efectos negativos sobre el ambiente, conforme a los lineamientos expedidos por la Secretaría para tal efecto.
 
 Cuando se trate de actividades consideradas riesgosas, en los términos de la presente Ley, aunado al estudio de impacto ambiental deberá presentar el estudio de riesgo ambiental correspondiente.
 
@@ -1475,7 +1547,9 @@ La Secretaría, podrá exigir el otorgamiento de seguros o garantías respecto d
 
 Se deberá tramitar la autorización en materia de impacto ambiental, previo al inicio de cualquier obra o actividad que pudiera alterar las condiciones naturales del sitio donde se pretenda desarrollar el proyecto.
 
-En los casos, en que las obras o actividades señaladas en el artículo 87 de esta Ley, requieran de la licencia, permiso o autorización vigente del ayuntamiento, éste deberá verificar que el promovente cuente previamente a la expedición con la autorización en materia de impacto ambiental.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+En los casos, en que las obras o actividades señaladas en el artículo 87 de esta Ley, requieran de la licencia, permiso o autorización vigente por parte del Ayuntamiento para la construcción correspondiente, éste deberá verificar previamente al promovente de exhibir la autorización en materia de impacto ambiental.
 
 En aquellas obras o actividades que requieran contar con la autorización en materia de impacto ambiental en el ámbito federal y además requieran la autorización de impacto ambiental en el ámbito estatal, en los términos de la presente Ley, la Secretaría podrá emitir la resolución correspondiente, tomando como base el mismo estudio de impacto ambiental presentado a la autoridad federal, siempre y cuando el promovente incorpore y destaque en la manifestación de impacto ambiental presentada a la Secretaría, los aspectos que sirvan para la evaluación del mismo en los términos del presente capítulo.
 
@@ -1571,13 +1645,29 @@ En el caso de cancelación de alguna Norma Técnica Ambiental Estatal, se deber�
 
 En casos de emergencia que ponga en riesgo la integridad de las personas o daños ambientales, la Secretaría podrá publicar en el Periódico Oficial, Normas Técnicas Ambientales emergentes, sin sujetarse al procedimiento establecido en el artículo anterior y en el reglamento respectivo. Estas Normas Técnicas tendrán una vigencia máxima de seis meses. En ningún caso se podrá expedir más de dos veces consecutivas la misma Norma Técnica en los términos de este artículo.
 
-## Título Tercero. Biodiversidad y el Aprovechamiento Sustentable de los Recursos Naturales y Vida Silvestre
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ABRIL DE 2017)</small>
+
+## Título Tercero. De la Vida Silvestre y el Aprovechamiento Sustentable de los Recursos Naturales
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 112.
 
-Las autoridades que en el ejercicio de sus atribuciones deban intervenir en las actividades relacionadas con el aprovechamiento del suelo, agua y demás recursos naturales con fines agrícolas, ganaderos, piscícolas, forestales, de ecoturismo o cualquier otra actividad que pueda afectar los recursos naturales, adoptarán las medidas que sean necesarias para que dichas actividades se lleven a cabo de modo que se eviten, prevengan, mitiguen, restauren o compensen los efectos negativos al medio ambiente de conformidad con lo que señala la presente Ley y demás disposiciones legales aplicables.
+Los propietarios o legítimos poseedores de los predios en donde se distribuye la vida silvestre, tendrán derechos de aprovechamiento sustentable sobre sus ejemplares, partes y derivados en los términos en la Ley General de Vida Silvestre y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+###### Artículo 112 Bis.
+
+La Secretaría, de conformidad con lo dispuesto en la Ley General de Vida Silvestre y demás disposiciones legales aplicables, podrá ejercer las facultades siguientes:
+
+I. La compilación de la información sobre los usos y formas de aprovechamiento de ejemplares, partes y derivados de la vida silvestre con fines de subsistencia por parte de las comunidades rurales y la promoción de la organización de los distintos grupos y su integración a los procesos de desarrollo sustentable en los términos de esta Ley.
+
+II. El apoyo, asesoría técnica y capacitación a las comunidades rurales para el desarrollo de actividades de conservación y aprovechamiento sustentable de la vida silvestre, la elaboración de planes de manejo, el desarrollo de estudios de poblaciones y la solicitud de autorizaciones.
+
+III. La conducción de la política estatal de información y difusión en materia de vida silvestre; además de su integración, seguimiento y actualización en el Sistema Estatal de Información Ambiental en compatibilidad e interrelación con el Subsistema Nacional de Información sobre la Vida Silvestre, en el ámbito de su jurisdicción territorial.
 
 ###### Artículo 113.
 
@@ -1781,9 +1871,11 @@ I. Las restricciones o prohibiciones de las actividades que puedan alterar los e
 
 II. La promoción para generar nuevos patrones de desarrollo regional acordes con objetivos de sustentabilidad en el territorio de las Áreas Naturales Protegidas y sus zonas de influencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 137.
 
-Previamente a la expedición de la declaratoria para el establecimiento de las Áreas Naturales Protegidas, se deberán realizar los estudios técnicos que justifiquen la constitución de las mismas, de llevarse a cabo los estudios citados, deberá notificarse a los propietarios o poseedores de los predios, incluidos dentro del proyecto del Área Natural Protegida, en forma personal cuando se conozca su domicilio, en caso contrario, la notificación se hará mediante dos publicaciones hechas en el Periódico Oficial, teniendo la segunda publicación efectos de notificación personal para que, dentro del término de 15 días hábiles contados a partir de que surta sus efectos, comparezcan ante la Secretaría a manifestar lo que a sus derechos correspondan o a interponer el recurso de revisión, el cual en su caso, será desahogado en términos de la Ley de Procedimientos Administrativos para el Estado de Chiapas.
+Previamente a la expedición de la declaratoria para el establecimiento de las Áreas Naturales Protegidas, se deberán realizar los estudios técnicos que justifiquen la constitución de las mismas, de llevarse a cabo los estudios citados, deberá notificarse a los propietarios o poseedores de los predios, incluidos dentro del proyecto del Área Natural Protegida, en forma personal cuando se conozca su domicilio, en caso contrario, la notificación se hará mediante dos publicaciones realizadas en uno de los diarios de mayor circulación en la Entidad, teniendo la segunda publicación efectos de notificación personal para que, dentro del término de 15 días hábiles contados a partir de que surta sus efectos, comparezcan ante la Secretaría a manifestar lo que a sus derechos correspondan o a interponer el recurso de revisión, el cual en su caso, será desahogado en términos de la Ley de Procedimientos Administrativos para el Estado de Chiapas y demás disposiciones legales aplicables.
 
 En ese sentido, la Secretaría podrá solicitar la opinión de:
 
@@ -1835,9 +1927,11 @@ X. La vigilancia y las actividades de resguardo de la zona.
 
 Asimismo deberá publicarse en el Periódico Oficial, un resumen del programa de manejo que contenga por lo menos la zonificación primaria y secundaria en el cual se incluya un plano de localización del área.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 142.
 
-Las declaratorias deberán publicarse en el Periódico Oficial y un extracto de las mismas en alguno de los diarios de mayor circulación en la Entidad; y se notificarán a los propietarios o poseedores de los predios incluidos dentro de la delimitación del área protegida, en forma personal cuando se conocieren sus domicilios, en caso contrario, se hará una segunda publicación, la que surtirá efectos de notificación personal. Las declaratorias se inscribirán en el o los Registros Públicos de la Propiedad y del Comercio, y del Agrario Nacional que correspondan.
+Las declaratorias de las Áreas Naturales Protegidas, deberán publicarse en el Periódico Oficial y un extracto de las mismas en uno de los diarios de mayor circulación en la Entidad; y se notificarán a los propietarios o poseedores de los predios incluidos dentro de la delimitación del área protegida, en forma personal cuando se conocieren sus domicilios, en caso contrario, se hará una segunda publicación la que surtirá efectos de notificación personal. Las declaratorias de las Áreas Naturales Protegidas se inscribirán en el Registro Público de la Propiedad y del Comercio y del Registro Agrario Nacional que correspondan.
 
 ###### Artículo 143.
 
@@ -2309,6 +2403,8 @@ Queda prohibida la instalación, fijación o colocación de anuncios publicitari
 
 ### Capítulo I. Actividades Riesgosas de Competencia Estatal
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 203.
 
 Se crea el Registro Estatal de Emisiones y Transferencia de Contaminantes al Aire, Agua, y Suelo. La información de dicho Registro se integrará con los datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante la Secretaría.
@@ -2339,7 +2435,7 @@ La Secretaría diseñará los procedimientos y formatos para la presentación de
 
 ###### Artículo 207.
 
-La Secretaría, determinará y publicará en el Periódico Oficial, el listado de actividades riesgosas a que se refiere esta Ley, observando los criterios y parámetros establecidos en los listados de actividades altamente riesgosas que publique la Federación.
+La Secretaría, observará los criterios y parámetros establecidos en los listados de actividades altamente riesgosas que publique la Federación.
 
 ###### Artículo 208.
 
@@ -2361,7 +2457,7 @@ III. Señalamiento de las medidas de seguridad y protección en materia de riesg
 
 ###### Artículo 211.
 
-La Secretaría en coordinación con las autoridades competentes en materia de salud y de protección civil, y previa opinión de las mismas, aprobará los programas para la prevención de accidentes ambientales cuando se realicen actividades riesgosas de conformidad con lo que señala el presente capítulo.
+(DEROGADO, P.O. 26 DE ABRIL DE 2017)
 
 ###### Artículo 212.
 
@@ -2371,23 +2467,11 @@ En el caso de que una industria que lleve a cabo actividades riesgosas, se encue
 
 ###### Artículo 213.
 
-Para la autorización de uso de suelo en donde se pretendan desarrollar actividades riesgosas, el Ayuntamiento de manera previa, deberá solicitar al promovente el Dictamen Técnico emitido por la Secretaría en materia de riesgo ambiental.
+(DEROGADO, P.O. 26 DE ABRIL DE 2017)
 
 ###### Artículo 214.
 
-Para los efectos de la autorización y el Dictamen Técnico a que se refiere el artículo anterior, se considerará lo siguiente:
-
-I. Las condiciones geológicas, topográficas, fisiográficas y meteorológicas de las zonas, de manera que se facilite la rápida dispersión de contaminantes.
-
-II. Su proximidad a centros de población, previendo las tendencias de expansión o de creación de nuevos asentamientos.
-
-III. Los impactos que tendría un posible evento extraordinario de la industria, comercio o servicio de que se trate, sobre los centros de población y sobre los recursos naturales.
-
-IV. La compatibilidad con otras actividades de las zonas.
-
-V. La infraestructura existente y necesaria para la atención de emergencias ambientales.
-
-VI. La infraestructura para la dotación de servicios básicos.
+(DEROGADO, P.O. 26 DE ABRIL DE 2017)
 
 ### Capítulo III. Servicios Municipales
 
@@ -2401,7 +2485,9 @@ En la realización de tales actividades se observarán las disposiciones de esta
 
 Las personas físicas o morales que lleven a cabo las actividades a que se refiere este Capítulo, estarán obligadas a:
 
-I. Presentar la Manifestación de Impacto Ambiental.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+I. Presentar el informe preventivo de impacto ambiental para la extracción de materiales pétreos.
 
 II. Contar con previa autorización de la Secretaría para su operación y desarrollo, así como para la ampliación, modificación o conclusión de sus actividades.
 
@@ -2447,7 +2533,9 @@ II. El uso de sistemas de reciclaje de desechos sólidos para disminuir su canti
 
 III. La fabricación y utilización de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la generación de residuos sólidos.
 
-IV. La disposición final adecuada de lodos provenientes de procesos industriales y de las plantas de tratamiento de aguas residuales que no se consideren como residuos peligrosos, en los términos que así determine la normatividad vigente.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+IV. La disposición final adecuada de biosólidos y sólidos provenientes de procesos industriales y de las plantas de tratamiento de aguas residuales que no se consideren como residuos peligrosos, en los términos que así determine la normatividad vigente.
 
 ###### Artículo 222.
 
@@ -2892,3 +2980,15 @@ Juan Carlos Gómez Aranda,
 Secretario General de Gobierno.
 
 .- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 161 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- El titular de la Secretaría de Medio Ambiente e Historia Natural, deberá someter a consideración y aprobación del titular del Poder Ejecutivo Estatal, los proyectos de los reglamentos por materia de la Ley Ambiental para el Estado de Chiapas y además de la normatividad que resulte aplicable, en un plazo no mayor a noventa días hábiles siguientes a la publicación del presente Decreto.
