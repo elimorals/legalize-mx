@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-coordinacion-hacendaria-del-estado-de-nuevo-leon-110684"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-03"
-last_updated: "2017-01-23"
+last_updated: "2017-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 3 de diciembre de 2015.
 
@@ -491,9 +491,9 @@ III. Al inicio de cada ejercicio fiscal, se realizará el cálculo correspondien
 
 Como participaciones se entenderán todos los rubros de recursos por participaciones contempladas en la Ley de Ingresos del Estado señalada al año fiscal correspondiente, además de lo señalado en el artículo 2, fracción VIII de esta Ley.
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
 
-La ministración de los recursos que corresponda a los Municipios de la Zona No Metropolitana; así como a los Municipios de Cadereyta Jiménez, Salinas Victoria y Santiago, no podrá ser inferior a los del año inmediato anterior.
+La ministración de los recursos que corresponda a los Municipios de la Zona No Metropolitana; así como a los Municipios de Cadereyta Jiménez, Salinas Victoria y Santiago, no podrá ser inferior a los del año inmediato anterior, en caso de requerirse, el Gobierno del Estado deberá crear una provisión económica o fondo compensatorio para el cumplimiento de este párrafo.
 
 Los recursos de este Fondo se ministrarán a los Municipios, de acuerdo a los coeficientes que resulten de los últimos cálculos desarrollados y publicados de las fórmulas establecidas en el artículo 14 fracción I de esta Ley, los cuales serán ministrados en partes iguales en forma mensual.
 
@@ -551,7 +551,7 @@ III. Al inicio de cada ejercicio fiscal, se realizará el cálculo correspondien
 
 Este apartado del fondo se distribuirá en dos fórmulas la primera será de forma equitativa y la segunda por población con la que cuente cada municipio de acuerdo al último censo de población publicado por el INEGI.
 
-I. La fórmula de repartición de acuerdo al criterio de ingreso mínimo garantizado se asignará un monto fijo anual de $1 ,000,000.00.
+I. La fórmula de repartición de acuerdo al criterio de ingreso mínimo garantizado se asignará un monto fijo anual de $1,000,000.00.
 
 II. Por la fórmula de población se repartirá el resto del fondo una vez restado el monto repartido en la fracción anterior se asignara un 60% a los Municipios de la Zona Metropolitana y un 40% para los Municipios de la Zona No Metropolitana y distribuyéndolo en proporción a la población que tiene cada municipio en relación a la población total de la Zona Metropolitana o Zona No Metropolitana según sea el caso.
 
@@ -664,3 +664,9 @@ P.O. 23 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 215. SE REFORMA POR ADICIÓN DE UN CAPÍTULO QUINTO, FONDO DE SEGURIDAD PARA LOS MUNICIPIOS Y UN ARTÍCULO 31 BIS A LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor el día primero de enero del 2017.
+
+P.O. 26 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM 245. SE REFORMA POR MODIFICACIÓN EL PÁRRAFO CUARTO DEL ARTÍCULO 31 DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Nuevo León.
