@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2017-04-14"
+last_updated: "2017-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -705,9 +705,9 @@ XXX.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 1994)
 
 XXXI.- Organizar el sistema penal sobre la base del trabajo como medio de regeneración.
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 1965)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
 
-XXXII.- Autorizar la contratación de empréstitos, cuando en garantía se afecten ingresos o bienes del Estado.
+XXXII.- Autorizar por las dos terceras partes de los miembros presentes, la contratación de obligaciones o empréstitos cuando en garantía se afecten ingresos o bienes del Estado o de los Municipios;
 
 XXXIII.- Expedir la ley general de Enseñanza Primaria Elemental y Superior, la cual deberá ser uniforme en todo el Estado y estará sujeta a las bases que determina el art. 3o. de esta Constitución.
 
@@ -1099,9 +1099,9 @@ III.- Nombrar y remover libremente a los titulares de las Dependencias que integ
 
 IV.- Auxiliar a los Tribunales del Estado para que la justicia se administre en forma pronta y expedita y para que se ejecuten las sentencias, prestando a aquéllos el apoyo que necesiten para el mejor ejercicio de sus funciones.
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
 
-V.- Ejercer el presupuesto asignado al Ejecutivo aprobado por el Congreso con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos del Estado a los que están destinados; contratar créditos previa Ley o Decreto del Congreso del Estado con las limitaciones que establece esta Constitución y las Leyes; garantizar las obligaciones que contraigan las entidades paraestatales y los Ayuntamientos del Estado. El titular del Ejecutivo dará cuenta al Congreso del Estado de los términos en que ejerza las atribuciones anteriores.
+V.- Ejercer el presupuesto asignado al Ejecutivo aprobado por el Congreso con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos del Estado a los que están destinados; contratar obligaciones o empréstitos previa ley o decreto del Congreso del Estado con las limitaciones que establece el artículo 117 fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las Leyes aplicables; garantizar las obligaciones que contraigan las entidades paraestatales y los Ayuntamientos del Estado. El titular del Ejecutivo dará cuenta al Congreso del Estado de los términos en que ejerza las atribuciones anteriores;
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2000)</small>
 
@@ -1823,15 +1823,25 @@ Los Municipios que integran el Estado son independientes entre sí. Cada uno de 
 
 La Administración Pública Municipal se conformará y organizará según determine la ley respectiva.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2017)</small>
 
 ###### Art. 119.
 
-Los Municipios administrarán libremente su hacienda, la que se integrará por las contribuciones, aprovechamientos, productos, financiamientos y otros ingresos que la Legislatura establezca a su favor, así como con las participaciones y aportaciones federales que les correspondan o reciban de acuerdo a la ley.
+Los Municipios administrarán libremente su hacienda, la que se integrará por las contribuciones, aprovechamientos, productos, financiamientos y otros ingresos que la Legislatura establezca a su favor, así como las participaciones y aportaciones federales que les correspondan o reciban de acuerdo a la ley.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+Los Municipios podrán contratar obligaciones o empréstitos con las condiciones que establece el artículo 117 fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las Leyes aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 El Congreso del Estado no expedirá leyes que establezcan exenciones o subsidios a favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la Federación, del Estado y los de los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+
 Los Ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del Estado las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 Los Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de alguna de las funciones relacionadas con la administración de esas contribuciones.
 
@@ -3581,7 +3591,7 @@ Artículo Segundo.- Las disposiciones referentes a los medios de control constit
 
 Artículo Tercero.- A partir del día siguiente al de la publicación del presente Decreto y hasta la fecha indicada en el Transitorio Cuarto del presente Decreto, el Consejo de la Judicatura del Estado se integrará de la siguiente manera: con un Presidente, que lo será el Presidente del Tribunal Superior de Justicia, y con los actuales tres Consejeros en funciones. El Presidente en funciones cesará en su encargo de Presidente, pero se mantendrá como integrante del Consejo de la Judicatura, hasta la fecha que se indica en el transitorio cuarto del presente Decreto. El Consejo de la Judicatura tomará sus decisiones por mayoría de votos de sus integrantes, teniendo su Presidente un voto de calidad en caso de empate, durante el tiempo que esté integrado por cuatro miembros.
 
-Artículo Cuarto.- El Consejo de la Judicatura se integrará con el Presidente del Tribunal Superior de Justicia y dos consejeros, a partir de la fecha en que concluya el encargo del actual Consejero en funciones designado por el Pleno del Tribunal Superior de Justicia, o bien, al separarse este Consejero de su cargo por cualquier causa. Los Consejeros designados por el Titular del Poder Ejecutivo y por el H. Congreso del Estado, que en esa fecha se encuentren en funciones, continuarán en su cargo hasta completar el período para el que hubieren sido originalmente designados.
+Artículo Cuarto.- El Consejo de la Judicatura se integrará con el Presidente del Tribunal Superior de Justicia y dos Consejeros, a partir de la fecha en que concluya el encargo del actual Consejero en funciones designado por el Pleno del Tribunal Superior de Justicia, o bien, al separarse este Consejero de su cargo por cualquier causa. Los Consejeros designados por el Titular del Poder Ejecutivo y por el H. Congreso del Estado, que en esa fecha se encuentren en funciones, continuarán en su cargo hasta completar el período para el que hubieren sido originalmente designados.
 
 Artículo Quinto.- Los asuntos en trámite ante el Tribunal Superior de Justicia a la fecha de entrada en vigor del presente Decreto, y que correspondan a las atribuciones que están siendo asignadas al Consejo de la Judicatura en esta reforma, serán concluidos por dicho Tribunal.
 
@@ -3924,3 +3934,9 @@ Séptimo.- A la entrada en vigor del presente Decreto, quienes se hallen en func
 Los recursos humanos, materiales, financieros y presupuestales de la Procuraduría General de Justicia, así como de la Subprocuraduría Especializada en Cobate (sic) a la Corrupción, se transfieren a la Fiscalía General de Justicia del Estado de Nuevo León y a la Fiscalía Especializada en Combate a la Corrupción, según corresponda en términos de la Ley.
 
 Octavo.- El Auditor Superior del Estado que actualmente se encuentra en funciones continuará en su cargo hasta el término por el que fue nombrado.
+
+P.O. 26 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 246. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN XXXII DEL ARTÍCULO 63, SE MODIFICA LA FRACCIÓN V DEL ARTÍCULO 85, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 119; SE ADICIONA UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE LOS SUBSECUENTES, DEL ARTÍCULO 119, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
