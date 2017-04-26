@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5775
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2017-04-12"
+last_updated: "2017-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -287,7 +287,9 @@ Los tipos de violencia contra las mujeres que pueden encontrarse en sus diferent
 
 I.- Violencia psicológica y emocional.- Cualquier acción de negligencia, abandono, intimidación, coacción, devaluación, marginación, anulación, conducta celotípica, prohibiciones, coacciones, condicionamientos, restricción a la autodeterminación y amenazas, que provocan en quien las recibe deterioro, disminución o afectación en las diferentes áreas de la personalidad;
 
-II.- Violencia física.- Cualquier acto intencional en el que se utiliza parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física de las mujeres, independientemente de que se produzcan o no lesiones internas o externas o ambas y que va encaminado a obtener el sometimiento y control;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+II.- Violencia física.- Cualquier acto intencional que ocasione daño, ya sea haciendo uso de la fuerza física o de algún objeto, arma o sustancia que pueda causar lesiones externas, internas o ambas.
 
 III.- Violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
 
@@ -1251,7 +1253,7 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 
 ###### ARTÍCULO SEGUNDO.
 
-El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 ###### ARTÍCULO TERCERO.
 
@@ -1264,3 +1266,13 @@ P.O. 12 DE ABRIL DE 2017.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 26 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHOCIENTOS DIECINUEVE POR EL QUE SE REFORMA EL ARTÍCULO 20 FRACCIÓN II DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente Decreto.
