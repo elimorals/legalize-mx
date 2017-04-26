@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2017-03-16"
+last_updated: "2017-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -365,9 +365,9 @@ II.- PUEBLO: Centro de población que tenga más de veinticinco mil habitantes p
 
 > <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-III.- COLONIA: Centro de población que tenga un censo menor de veinticinco mil habitantes pero más de cinco mil, y que cuente con los servicios públicos más indispensables, edificios para las oficinas de las autoridades del lugar, establecimiento penitenciario, panteón y escuelas de enseñanza que sean acordes a las demandas de este centro de población;
+III.- COLONIA: Centro de población que tenga un censo menor de veinticinco mil habitantes pero más de cinco mil, y que cuente con los servicios públicos mas indispensables, edificios para las oficinas de las autoridades del lugar, establecimiento penitenciario, panteón y escuelas de enseñanza que sean acordes a las demandas de este centro de población;
 
-IV.- COMUNIDAD: Centro de población que tenga censo menor a cinco mil habitantes, locales adecuados para la prestación de los servicios públicos mas indispensables así como instalaciones adecuadas para la impartición de la enseñanza preescolar y primaria cuando menos.
+IV.- COMUNIDAD: Centro de población que tenga censo menor a cinco mil habitantes, locales adecuados para la prestación de los servicios públicos más indispensables así como instalaciones adecuadas para la impartición de la enseñanza preescolar y primaria cuando menos.
 
 Cuando así lo estimen conveniente, los Ayuntamientos podrán promover ante la Legislatura local, la elevación de rango a Ciudad de alguno de sus pueblos siempre y cuando reúnan los requisitos establecidos en la fracción I del presente artículo. En este caso, la Legislatura Local, atendiendo a las razones expuestas por el Ayuntamiento solicitante, resolverá lo conducente.
 
@@ -535,7 +535,7 @@ Una vez verificado el quórum legal, y rendida la protesta por parte de los miem
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
-“Queda legítimamente instalado el Ayuntamiento del Municipio de...que deberá funcionar durante del período...”.
+"Queda legítimamente instalado el Ayuntamiento del Municipio de...que deberá funcionar durante del período...".
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
@@ -549,9 +549,9 @@ En dicha sesión, actuará como Secretario el Síndico, en el caso de que esté 
 
 Una vez instalado, el Cabildo se ocupará de desahogar el orden del día, que incluirá la atención de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013.)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
 
-I.- Designar a los titulares de las dependencias de la administración pública municipal, así como a la titular de la dirección de la instancia de la mujer con excepción del Secretario del Ayuntamiento, el Tesorero, el Contralor Municipal, el Titular de la Seguridad Pública Municipal, los cuales serán nombrados por el Presidente, en una proporción que no exceda el cincuenta por ciento para un mismo género. En todo momento, el Ayuntamiento verificará que la remuneración autorizada a dichos servidores públicos no rebase los montos establecidos en la fracción V del artículo 20 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos.
+I.- Designar a los titulares de las dependencias de la administración pública municipal, así como a la titular de la dirección de la instancia de la mujer, con excepción del Secretario del Ayuntamiento, el Tesorero, el Contralor Municipal, el Titular de la Seguridad Pública Municipal, los cuales serán nombrados por el Presidente; en ambos casos las designaciones tendrán que ajustarse al principio de paridad, en una proporción que no exceda el cincuenta por ciento para un mismo género. En los casos de los ayuntamientos que tengan un número impar de secretarías, los nombramientos de los titulares deberán apegarse al porcentaje más cercano a la mitad del total de las secretarías para alcanzar la paridad. En todo momento, el Ayuntamiento verificará que la remuneración autorizada a dichos servidores públicos no rebase los montos establecidos en la fracción V del artículo 20 de la Ley de Presupuesto, Contabilidad y Gasto Público del estado de Morelos.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -2417,7 +2417,7 @@ Cuando las licitaciones a que se hace referencia en el artículo anterior no sea
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2012)</small>
 
-Con el propósito de preservar las fuentes deempleo, el Ayuntamiento podrá disponer, de se s aun diez por ciento como máximo, del total delpresupuesto anual destinado a las adquisiciones oprestaciones de servicios, contratando para ello amicro o pequeños empresarios de la misma localidadmunicipal. Los recursos en ningún caso podráninvolucrar aportaciones o subsidios de origen federal oestatal. (sic)
+Con el propósito de preservar las fuentes deempleo, el Ayuntamiento podrá disponer, de se s aun diez por ciento como máximo, del total delpresupuesto anual destinado a las adquisiciones oprestaciones de servicios, contratando para ello amicro o pequeños empresarios de la misma localidadmunicipal. Los recursos en ningún caso podráninvolucrar aportaciones o subsidios de origen federal oestatal (sic).
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4010,6 +4010,16 @@ TERCERO. A partir de la entrada en vigor del presente, se derogan todas y cada u
 CUARTO. Dentro de un plazo no mayor a 90 días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, se deberán realizar, las adecuaciones a las disposiciones reglamentarias correspondientes.
 
 QUINTA. Dentro de un plazo no mayor a 150 días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, los Ayuntamientos municipales del Estado de Morelos, deberán realizar en su caso, las adecuaciones necesarias a sus reglamentos de construcciones, así como al de ecología y protección al ambiente, según corresponda.
+
+P.O. 26 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHOCIENTOS VEINTE POR EL QUE SE REFORMA EL ARTÍCULO 24, FRACCIÓN I DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS, PARA ESTABLECER EL PRINCIPIO DE PARIDAD DE GÉNERO EN TODAS LAS DESIGNACIONES DE LOS TITULARES DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL".]
+
+PRIMERA. Remítase el presente decreto al Gobernador Constitucional del Estado para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación, sin perjuicio de lo señalado en la siguiente disposición transitoria.
+
+TERCERA. La presente reforma será aplicable a partir del 1º de enero de 2019, fecha en que tomen protesta los nuevos Ayuntamientos.
 
 ###### ARTÍCULO CUARTO.
 
