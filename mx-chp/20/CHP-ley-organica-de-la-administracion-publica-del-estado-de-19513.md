@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-19513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-08"
-last_updated: "2017-02-01"
+last_updated: "2017-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 8 de diciembre de 2000.
 
@@ -1169,11 +1169,11 @@ XXXVI. SUPERVISAR EL MANEJO Y ADMINISTRACION DE LAS PLATAFORMAS ELECTRONICAS, SI
 
 XXXVII. LOS DEMAS ASUNTOS QUE LE CORRESPONDAN, EN TERMINOS DE LAS LEYES APLICABLES, SU REGLAMENTO INTERIOR Y LOS QUE LE INSTRUYA EL GOBERNADOR DEL ESTADO.
 
-(ADICIONADO, P.O. 15 DE MAYO DE 2010) (F. DE E., P.O. 26 DE MAYO DE 2010)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 31-A.
 
-A LA TITULAR DE LA SECRETARIA PARA EL DESARROLLO Y EMPODERAMIENTO DE LAS MUJERES, LE CORRESPONDE EL DESPACHO DE LOS SIGUIENTES ASUNTOS:
+AL TITULAR DE LA SECRETARIA PARA EL DESARROLLO Y EMPODERAMIENTO DE LAS MUJERES, LE CORRESPONDE EL DESPACHO DE LOS SIGUIENTES ASUNTOS:
 
 I. DEFINIR, EJECUTAR Y DAR SEGUIMIENTO A LAS POLITICAS ENCAMINADAS AL EMPODERAMIENTO SOCIAL, ECONOMICO, POLITICO Y CULTURAL DE LAS MUJERES EN EL ESTADO.
 
@@ -1211,9 +1211,7 @@ XV. CELEBRAR CONVENIOS Y ACUERDOS DE COLABORACION Y COORDINACION, EN EL AMBITO D
 
 XVI. CONTRIBUIR, EN COORDINACION CON LAS DEPENDENCIAS DEL EJECUTIVO DEL ESTADO Y LOS GOBIERNOS MUNICIPALES, EN EL MEJORAMIENTO DE LAS CONDICIONES ALIMENTICIAS DE LA POBLACION MARGINADA Y DESPROTEGIDA, A TRAVES DE PROGRAMAS DE PRODUCTIVIDAD FAMILIAR.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-XVII. PROMOVER Y EJECUTAR ACCIONES NECESARIAS PARA FACILITAR EL ACCESO AL FINANCIAMIENTO PUBLICO Y PRIVADO PARA EL FORTALECIMIENTO Y DESARROLLO DEL ESTADO.
+XVII. (DEROGADA, P.O. 26 DE ABRIL DE 2017)
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1537,9 +1535,13 @@ XXIV. (DEROGADA, P.O. 31 DE JULIO DE 2013)
 
 XXV. (DEROGADA, P.O. 31 DE JULIO DE 2013)
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
 
-XXVI. LOS DEMAS ASUNTOS QUE LE CORRESPONDAN, EN LOS TERMINOS DE LAS LEYES APLICABLES, SU REGLAMENTO INTERIOR Y LOS QUE LE INSTRUYA EL TITULAR DEL PODER EJECUTIVO DEL ESTADO.
+XXVI. PROMOVER Y EJECUTAR LAS ACCIONES NECESARIAS PARA FACILITAR EL ACCESO AL FINANCIAMIENTO PUBLICO Y PRIVADO, ASI COMO BRINDAR APOYOS MEDIANTE APORTACIONES SOLIDARIAS PARA EL FORTALECIMIENTO Y DESARROLLO DEL ESTADO, A TRAVES DEL ORGANO DESCONCENTRADO CORRESPONDIENTE.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+XXVII. LOS DEMAS ASUNTOS QUE LE CORRESPONDAN, EN LOS TERMINOS DE LAS LEYES APLICABLES, SU REGLAMENTO INTERIOR Y LOS QUE LE INSTRUYA EL TITULAR DEL PODER EJECUTIVO DEL ESTADO.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2016)</small>
 
@@ -3600,3 +3602,17 @@ Artículo Quinto.- Las Dependencias normativas del Poder Ejecutivo del Estado, e
 Artículo Sexto.- El Titular de la Consejería Jurídica y de Asistencia Legal, deberá someter a consideración del Titular del Ejecutivo del Estado, las adecuaciones que correspondan al marco jurídico de actuación del mismo, a efectos de hacerlos congruentes con las disposiciones del presente Decreto.
 
 Artículo Séptimo.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 26 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 162 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+Artículo Tercero.- Los recursos materiales y financieros que a la entrada en vigor del presente Decreto, se encuentran asignados a la Secretaría para el Desarrollo y Empoderamiento de las Mujeres, los cuales pertenecían al Organismo denominado BANCHIAPAS, serán transferidos de inmediato al Organismo Desconcentrado encargado de promover y ejecutar las acciones necesarias para facilitar el acceso al financiamiento público y privado para el fortalecimiento y desarrollo en la Entidad.
+
+Artículo Cuarto.- El Titular de la Secretaría de Economía, deberá someter a consideración del Titular del Ejecutivo del Estado, en un plazo no mayor a noventa días naturales, las adecuaciones que correspondan al marco jurídico de su actuación, a efecto de hacerlo congruente con las disposiciones del presente Decreto.
+
+Artículo Quinto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
