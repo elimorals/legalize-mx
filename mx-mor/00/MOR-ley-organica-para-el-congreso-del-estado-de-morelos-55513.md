@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2017-04-19"
+last_updated: "2017-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -80,6 +80,10 @@ Salón de Plenos: Espacio físico en donde se realizan las sesiones del Congreso
 Legislatura: El periodo constitucional de tres años para el que fueron electos los diputados.
 
 Conferencia: Conferencia para la Dirección y Programación de los Trabajos Legislativos.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+Entidades Fiscalizadas: Los poderes del Estado de Morelos, el Tribunal Electoral, Municipios Libres, organismos autónomos, entidades públicas, servidores públicos, persona (sic) físicas o morales públicas o privadas, fideicomisos, mandatos, fondos o cualquier otra figura jurídica que por su naturaleza o concepto reciba, administre o ejerza recursos públicos.
 
 ###### Artículo 5.
 
@@ -513,13 +517,21 @@ XXVII. Vigilar que el Secretario de Administración y Finanzas y los servidores 
 
 XXVIII. Designar a los Encargados de Despacho de la Secretaría del Congreso y/o de la Secretaría de Administración y Finanzas, así como a los encargados de despacho de aquéllas áreas del Congreso donde existan ausencias temporales o definitivas que sean de su competencia, con las excepciones previstas en la Ley y el Reglamento;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2017)</small>
 
-XXIX. Expedir los nombramientos del personal que se requieren; y
+XXIX.- Solicitar al Instituto Nacional de Lenguas Indígenas, realice la traducción y divulgación de todo el sistema jurídico vigente del Estado de Morelos.
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE NOVIEMBRE DE 2012)</small>
+La traducción será del español a las lenguas originarias del Estado de Morelos.
 
-XXX. Las demás que se deriven de esta Ley, del Reglamento y de las disposiciones o acuerdos que emita el Congreso del Estado.
+La divulgación de la traducción será en los pueblos indígenas en base a los medios más idóneos y accesibles.
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+XXX.- Expedir los nombramientos del personal que se requieren;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+XXXI.- Las demás que se deriven de esta Ley, del Reglamento y de las disposiciones o acuerdos que emita el congreso del Estado.
 
 ###### Artículo 37.
 
@@ -927,41 +939,31 @@ V. Los relativos a las leyes que no sean materia específica de otra Comisión; 
 
 VI. Las demás que el pleno le confiera.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 61.
 
 Corresponde a la Comisión de Hacienda, Presupuesto y Cuenta Pública, el conocimiento y dictamen de los asuntos siguientes:
 
-I. Conocer sobre la cuenta pública trimestral del Poder Ejecutivo;
+I. Conocer sobre la cuenta pública trimestral y anual de las Entidades fiscalizadas;
 
 II. Conocer y dictaminar sobre el Presupuesto de Egresos del Gobierno del Estado;
 
-III. Conocer sobre la Cuenta Pública Anual que rindan los Ayuntamientos;
+III. Conocer y dictaminar sobre las iniciativas de la Ley de Ingresos del Gobierno del Estado y de los Municipios;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+IV. Solicitar de la Entidad Superior de Auditoría y Fiscalización, la información sobre el ejercicio de los recursos públicos por parte del Gobierno del Estado y de los Ayuntamientos;
 
-IV. Solicitar del Órgano de Auditoría Superior de Fiscalización, la información sobre el ejercicio de los recursos públicos por parte del Gobierno del Estado y de los Ayuntamientos;
+V. Recibir de la Mesa Directiva los informes sobre las revisiones de las Cuentas Públicas que haya practicado la Entidad Superior de Auditoría y Fiscalización y remitir los mismos al pleno para ordenar su publicación en el Periódico Oficial “Tierra y Libertad”;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+VI. Dictaminar lo relativo a los empréstitos que el Ejecutivo Estatal y los Ayuntamientos soliciten, estos últimos cuando su duración exceda del término de su administración;
 
-V. Recibir de la Mesa Directiva los informes sobre las revisiones de las Cuentas Públicas que haya practicado la Auditoría Superior de Fiscalización y remitir los mismos al pleno para ordenar su publicación en el Periódico Oficial “Tierra y Libertad”;
+VII. Representar al Congreso del Estado ante los organismos hacendarios reconocidos por las Leyes del Estado;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
+VIII. Analizar y dictaminar los asuntos relativos a la autorización que el Gobierno del Estado solicite para enajenar, ceder, permutar, gravar o ejercer cualquier acto de dominio sobre sus bienes inmuebles;
 
-VI. Recibir de la Mesa Directiva los informes sobre las revisiones de las Cuentas Públicas que haya practicado la Auditoría Superior de Fiscalización y remitir los mismos al pleno para ordenar su publicación en el Periódico Oficial “Tierra y Libertad”;
+IX. Dictaminar los asuntos que se refieran a la desincorporación de bienes de dominio público del Estado; y
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
-
-VII. Dictaminar lo relativo a los empréstitos, créditos y demás modalidades y actos jurídicos previstos en la Ley de Deuda Pública para el Estado de Morelos;
-
-VIII. Representar al Congreso del Estado ante los organismos hacendarios reconocidos por las Leyes del Estado;
-
-IX. Analizar y dictaminar los asuntos relativos a la autorización que el Gobierno del Estado solicite para enajenar, ceder, permutar, gravar o ejercer cualquier acto de dominio sobre sus bienes inmuebles;
-
-X. Dictaminar los asuntos que se refieran a la desincorporación de bienes de dominio público del Estado; y
-
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
-
-XII (SIC).- Todas aquellas que la Constitución Política del Estado, la presente Ley y las leyes relativas a la materia hacendaría, le confieran.
+X. Los demás asuntos que le sean turnados y que no sean competencia de otra comisión.
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
@@ -2727,8 +2729,24 @@ SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de s
 
 P.O. 19 DE ABRIL DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL SETECIENTOS CINCUENTA Y SIETE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE MORELOS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SETECIENTOS CINCUENTA Y SIETE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE MORELOS”.]
 
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 26 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHOCIENTOS DOS POR EL QUE SE REFORMA Y ADICIONA LA FRACCIÓN XXIX DEL ARTÍCULO 36 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS, Y SE RECORREN LAS FRACCIONES XXX Y XXXI”.]
+
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 26 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHOCIENTOS TRES POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 4 Y SE REFORMA EL ARTÍCULO 61, AMBOS DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
