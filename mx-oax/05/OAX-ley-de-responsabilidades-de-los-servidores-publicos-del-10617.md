@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-responsabilidades-de-los-servidores-publicos-del-10617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-01"
-last_updated: "2017-03-03"
+last_updated: "2017-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el Sábado 1o de junio de 1996.
 
@@ -191,7 +191,11 @@ I.- El ataque a las instituciones democráticas.
 
 II.- El ataque a la forma de gobierno republicano, representativo y democrático del Estado, así como a la organización política y administrativa de los municipios.
 
-III.- Las violaciones graves y sistemáticas a las garantías individuales y sociales.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+III.- Las violaciones graves y sistemáticas a los derechos humanos y fundamentales que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Local y demás disposiciones legales.
+
+Por actos de violencia política ejercida contra la mujer, en términos de la legislación aplicable.
 
 IV.- El ataque a la libertad de sufragio.
 
@@ -911,9 +915,15 @@ LI.- Atender en tiempo y forma las resoluciones, criterios generales, lineamient
 
 LII.- Publicar y difundir la información a la que todo ciudadano tiene derecho en términos de las Leyes en materia de transparencia, acceso a la información pública y protección de datos personales; y
 
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ABRIL DE 2017)</small>
 
-LIII.- Las demás que le impongan las Leyes y disposiciones reglamentarias o administrativas.
+LIII.- Abstenerse de ejercer cualquier tipo de violencia que lesionen o sean susceptibles de dañar la integridad, dignidad, libertad y los derechos de las mujeres.
+
+Tratándose de violencia política, por los integrantes de los ayuntamientos del Estado, procederá, la solicitud de revocación de mandato, que establece el artículo 61, fracción VII de la Ley Orgánica Municipal del Estado de Oaxaca.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE ABRIL DE 2017)</small>
+
+LIV. Las demás que le impongan las Leyes y disposiciones reglamentarias o administrativas.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -993,9 +1003,9 @@ Este último plazo de inhabilitación también será aplicable por conductas gra
 
 En caso de infracciones graves cuando se imponga la sanción de inhabilitación y el servidor público esté en ejercicio de sus funciones, será destituido del cargo correspondiente, según el ámbito de competencia de las autoridades establecidas en el artículo 3 de esta Ley.
 
-> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
 
-Se considerará infracción grave el incumplimiento a las obligaciones previstas en las fracciones II, III, V, VI, VII, IX, XVII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXX, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXIX, XL, XLI, XLII, XLIII, XLIV, XLV, XLVII, L, LI y LII del artículo 56. así como el párrafo último del artículo 48 de esta Ley.
+Se considerará infracción grave el incumplimiento a las obligaciones previstas en las fracciones II, III, V, VI, VII, IX, XVII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXX, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXIX, XL, XLI, XLII, XLIII, XLIV, XLV, XLVII, L, LI y LIII del artículo 56, así como el párrafo último del artículo 48 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -1610,3 +1620,9 @@ P.O. 3 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 567.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 26 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 589.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GENERO".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
