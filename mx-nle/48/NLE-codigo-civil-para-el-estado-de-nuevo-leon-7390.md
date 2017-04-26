@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2017-01-18"
+last_updated: "2017-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -233,7 +235,7 @@ Persona es todo titular de derechos y obligaciones y sujeto de deberes jurídico
 
 Son sujetos de derecho:
 
-l.- Las personas físicas, a quienes la ley reconoce personalidad jurídica por el solo hecho de su naturaleza humana; y
+I.- Las personas físicas, a quienes la ley reconoce personalidad jurídica por el solo hecho de su naturaleza humana; y
 
 II.- Las personas morales, que son las entidades reconocidas como tales por la ley, en virtud de haber sido legalmente constituidas.
 
@@ -1249,23 +1251,17 @@ El Oficial del Registro Civil que sin motivo justificado retarde la celebración
 
 ### CAPITULO VI. ACTAS DE DIVORCIO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 114.
 
 Ejecutoriada la resolución de divorcio, el juez remitirá copia certificada de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 115.
 
 El acta de divorcio contendrá nombres, apellidos, edad, domicilio y nacionalidad de los divorciados, la parte resolutiva de la resolución judicial o administrativa, en su caso, fecha y la autoridad que la dictó.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -1570,8 +1566,6 @@ II.- La falta de autorización del que, o los que ejerzan la patria potestad, de
 III.- El parentesco de consanguinidad legítima o natural, sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
 IV.- El parentesco de afinidad en línea recta, sin limitación alguna;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 V.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2016)
 
@@ -1963,8 +1957,6 @@ Las donaciones antenupciales no se revocan por sobrevenir hijos al donante.
 
 Tampoco se revocarán por ingratitud, a no ser que el donante fuere un extraño, que la donación haya sido hecha a ambos esposos y que los dos sean ingratos.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 228.
@@ -2195,29 +2187,21 @@ Los que infrinjan el artículo anterior, así como los que siendo mayores de eda
 
 El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 267.
 
 El divorcio puede ser incausado o por mutuo consentimiento. Es incausado cuando cualquiera de los cónyuges lo solicita sin necesidad de señalar la razón que lo motiva y por mutuo consentimiento, cuando se solicita de común acuerdo en forma judicial o administrativa en los términos de este Código, del Código de Procedimientos Civiles para el Estado y de la Ley del Registro Civil del Estado.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Art. 268.
 
 (DEROGADO, P.O. 14 DE DICIEMBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 269.
 
 El divorcio en cualquiera de sus formas solo podrá pedirse pasado un año de la celebración del matrimonio.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -2233,15 +2217,11 @@ III.- La exposición clara, sucinta, en párrafos numerados, de la situación qu
 
 IV.- La propuesta de convenio para regular las consecuencias jurídicas del divorcio en los términos de este Código.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 271.
 
 La falta o deficiente presentación de la propuesta de convenio a que se refiere el artículo anterior, no será obstáculo para admitir a trámite la solicitud.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -2261,15 +2241,11 @@ Los consortes que no se encuentren en el caso previsto en los anteriores párraf
 
 (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 274.
 
 Se sobreseerá el procedimiento de divorcio cuando durante su trámite muera uno de los cónyuges.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -2277,15 +2253,11 @@ Se sobreseerá el procedimiento de divorcio cuando durante su trámite muera uno
 
 La reconciliación de los cónyuges pone término al divorcio en cualquier estado en que se encuentre, si aún no se hubiere decretado. En este caso los interesados están obligados a comunicar su reconciliación al juez y previa su ratificación, se sobreseerá el procedimiento.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 276.
 
 La persona que no quiera pedir el divorcio incausado cuando su cónyuge padezca una enfermedad crónica o incurable que sea, además, contagiosa o hereditaria que ponga en riesgo la salud del cónyuge o de los demás miembros de la familia o por haber sido declarado el estado de interdicción mediante sentencia que haya causado ejecutoria, podrá solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el Juez, con conocimiento de causa, podrá decretar esa suspensión, aplicando todas las medidas de naturaleza cautelar necesarias para tal efecto, quedando subsistentes las demás obligaciones creadas por el matrimonio.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -2293,15 +2265,11 @@ La persona que no quiera pedir el divorcio incausado cuando su cónyuge padezca 
 
 En la sentencia de divorcio incausado el juez declarará que, de no existir convenio entre los progenitores respecto de la custodia y convivencia en relación a sus hijos menores o incapaces, quedan obligados para con estos y cualquier cuestión al respecto, podrá ejercitarse a través de la vía incidental o en juicio autónomo según las circunstancias del caso, a fin de que el juez resuelva lo conducente en los términos de este Código y el Código de Procedimientos Civiles para el Estado.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 278.
 
 Al decretarse el divorcio incausado se declarará que la obligación alimentaria subsiste para los padres en relación con sus hijos; la pensión alimenticia en caso de no quedar establecida en la sentencia de divorcio, se fijará y asegurará en la vía incidental o el juicio autónomo a elección del acreedor, excepto lo establecido en el Artículo 285 de este Código.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -2309,15 +2277,11 @@ Al decretarse el divorcio incausado se declarará que la obligación alimentaria
 
 En la resolución en la cual se decrete el divorcio incausado, el juez declarará que él o la ex cónyuge podrá tener derecho a alimentos, cuando demuestre en la vía incidental los extremos del artículo 311 de este Código, así como que durante su matrimonio se dedicó preponderantemente a las labores del hogar y al cuidado de los hijos si los hubiere, esté imposibilitado para trabajar o carezca de bienes suficientes para su subsistencia.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 280.
 
 La resolución incidental que decrete subsistente el derecho alimentario a que se refiere el artículo anterior, determinará su monto, forma y duración de pago acorde a lo dispuesto en este Código.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -2327,15 +2291,11 @@ Quien reclame el derecho a los alimentos que regulan los artículos anteriores, 
 
 Si la contraparte la desvirtúa y se hubiere pagado en todo o en parte dicha pensión, el juez ordenará en la sentencia incidental que se le reintegre lo que hubiere otorgado más el interés legal correspondiente y dará conocimiento del Ministerio Público, para los efectos a que hubiere lugar.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 282.
 
 En el caso de que las partes lleguen a un convenio después de haberse resuelto el divorcio incausado, lo harán del conocimiento del juez para su aprobación si este no contraviene alguna disposición legal, previa la intervención del Ministerio Público si involucra derechos de menores o incapaces.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -2345,15 +2305,11 @@ Antes de emitir la sentencia incidental que resuelva las consecuencias jurídica
 
 En caso de existir menores, el juez escuchará su opinión conforme a su edad y madurez.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 284.
 
 La sentencia de los incidentes que resuelvan las consecuencias jurídicas del divorcio incausado, señalará que las determinaciones emitidas por el juez o las convenidas por las partes, podrán ser modificadas judicialmente, en la vía incidental o por nuevo convenio, cuando se alteren sustancialmente las circunstancias tomadas en consideración para su Decreto.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -2361,15 +2317,11 @@ La sentencia de los incidentes que resuelvan las consecuencias jurídicas del di
 
 En el divorcio incausado, los diversos juicios en trámite o resueltos mediante convenio o sentencia respecto de las consecuencias jurídicas del mismo, tendrán fuerza vinculante entre las partes y en todo caso deberá estarse a sus actuaciones judiciales, salvo lo dispuesto por el artículo 279 de este Código.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 286.
 
 El cónyuge que hubiere sido condenado mediante sentencia ejecutoria por haber incurrido en ingratitud hacia el otro cónyuge, perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge conservará lo recibido y podrá reclamar lo pactado en su provecho.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -2381,21 +2333,15 @@ Decretado el divorcio incausado, se procederá conforme a las disposiciones de l
 
 Para el caso de que existan bienes afectos al patrimonio familiar deberá estarse a lo dispuesto en el artículo 739 fracción VI de este Código.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 288.
 
 En los casos de divorcio incausado de los matrimonios bajo el régimen de separación de bienes, si uno de los cónyuges fuera el que se dedicó preponderantemente a las labores del hogar o al cuidado de los hijos, y no hubiere generado bienes o en su caso, habiéndolos generado estos no alcancen la proporción equivalente en valor a los generados por el otro, deberá el juez decretar una compensación para aquel cónyuge, bajo los principios de equidad y solidaridad, misma que podrá ser hasta del cincuenta por ciento del valor de dichos bienes.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Art. 288 Bis.
 
 (DEROGADO, P.O. 14 DE DICIEMBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -2403,13 +2349,9 @@ En los casos de divorcio incausado de los matrimonios bajo el régimen de separa
 
 Tratándose de la violencia familiar a que se refiere el artículo 323 bis de este Código, dentro de un procedimiento de divorcio incausado, el juez de oficio o a petición de parte en su caso, con intervención del Ministerio Público emitirá de inmediato las medidas cautelares en los términos del artículo 1118 del Código de Procedimientos Civiles para el Estado.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Art. 290.
 
 (DEROGADO, P.O. 14 DE DICIEMBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -2603,8 +2545,6 @@ El tutor interino dará garantía por el importe anual de los alimentos. Si admi
 
 En los casos en que los que ejerzan la patria potestad gocen de la mitad del usufructo de los bienes del hijo, el importe de los alimentos se deducirá de dicha mitad, y si ésta no alcanza a cubrirlos, el exceso será de cuenta de los que ejerzan la patria potestad.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 320.
@@ -2615,8 +2555,6 @@ I.- Cuando el que la tiene carece de medios para cumplirla;
 
 II.- Cuando el alimentista deja de necesitar los alimentos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 III.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2016)
 
 IV.- Cuando la necesidad de los alimentos depende de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsistan estas causas;
@@ -2625,17 +2563,11 @@ IV.- Cuando la necesidad de los alimentos depende de la conducta viciosa o de la
 
 V.- Si el alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 VI.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 En cualquiera de los supuestos anteriores, de cambiar las circunstancias que originaron la suspensión, podrá reclamarse en la vía incidental atendiendo la necesidad de quien los reclama y la posibilidad de quien debe otorgarlos.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -2654,8 +2586,6 @@ IV.- Cuando el acreedor contraiga nupcias o se una con fines semejantes al matri
 V.- Por resolución judicial.
 
 Acreditado en forma plena, cualquiera de los supuestos anteriores a través de acción autónoma, la pensión alimenticia se cancelará y el derecho se perderá en definitiva, salvo en aquellos casos en que la sentencia de divorcio hubiere la declaración respectiva.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -2737,15 +2667,11 @@ V. Económica: Es toda acción u omisión del agresor que controle o este encami
 
 ### CAPITULO IV. DE LAS ORDENES DE PROTECCION
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
 
 ###### Art. 323 Bis 2.
 
 Las órdenes de protección constituyen un derecho para quienes sufran de cualquiera de los tipos de violencia descritos en el Capítulo anterior y se otorgarán de oficio. Son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad competente en los términos previstos por esta Ley y conforme al Código de Procedimientos Civiles del Estado, inmediatamente que conozca de actos o de hechos probablemente constitutivos de infracciones a las leyes o delitos que impliquen violencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
 
@@ -2761,8 +2687,6 @@ III. De naturaleza civil.
 
 Las órdenes de protección de emergencia y preventivas podrán otorgarse hasta por treinta días y deberán expedirse en los términos del Código de Procedimientos Civiles del Estado de Nuevo León.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
 
 ###### Art. 323 Bis 4.
@@ -2776,8 +2700,6 @@ II. Prohibición al probable responsable de acercarse al domicilio, lugar de tra
 III. Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad; y
 
 IV. Prohibición de intimidar o molestar a la víctima, así como a cualquier integrante de su núcleo familiar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
 
@@ -2797,8 +2719,6 @@ V. Entrega inmediata de objetos de uso personal y documentos de identidad de la 
 
 VI. Auxilio policíaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre la víctima en el momento de solicitar el auxilio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
 
 ###### Art. 323 Bis 6.
@@ -2810,8 +2730,6 @@ I. El riesgo o peligro existente;
 II. La seguridad de la víctima; y
 
 III. Los elementos con que se cuente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
 
@@ -3147,8 +3065,6 @@ Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo ac
 
 En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la custodia el que primero lo hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el juez no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
 
 ###### Art. 381 Bis.
@@ -3349,11 +3265,11 @@ El procedimiento para hacer la adopción se regulará por lo establecido en el C
 
 Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, ésta quedará consumada para todos los efectos legales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2017)</small>
 
 ###### Art. 398.
 
-El Juez que apruebe la adopción remitirá copia de la sentencia al Oficial del Registro Civil del lugar para que levante el acta correspondiente, y al Sistema para el Desarrollo Integral de la Familia, para que realice el seguimiento de la adopción del menor, realizando como mínimo dos visitas durante el año, en un período de hasta dos años, contados a partir de la fecha en que se otorgó la adopción. A excepción de las adopciones tramitadas por organismos privados aprobados y certificados por el Consejo Estatal de Adopciones, quienes darán el seguimiento correspondiente.
+El Juez que aprueba la adopción remitirá copia de la sentencia al Oficial del Registro Civil del lugar para que levante el acta correspondiente y al Consejo Estatal de Adopciones, para que realice el seguimiento de la adopción del menor, quien deberá llevar a cabo como mínimo dos visitas durante el año, en un periodo no menor de dos años, contados a partir de la fecha en que se otorgó la adopción, incluyendo las realizadas por particulares y las tramitadas por instituciones públicas y privadas.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
@@ -3508,8 +3424,6 @@ En los términos de este Capítulo, el padre y la madre son los titulares de la 
 Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
 
 Tratándose de niñas, niños o adolescentes que se encuentren a disposición de la Procuraduría de la Defensa del Menor y la Familia, y que después de treinta días no haya sido posible reincorporarlos con sus padres, los abuelos podrán ejercer los derechos y obligaciones derivados de la patria potestad, quienes serán sujetos a evaluaciones psicológicas y sociales; en caso contrario se les llamará mediante edicto que será publicado por única ocasión en el Diario Oficial de la Federación así como en el Periódico Oficial del Estado, a fin de que comparezcan en el improrrogable término de diez días naturales, contados a partir de la publicación. Transcurrido dicho término sin que hubieran comparecido a ejercitar su derecho, se entenderá su falta de interés manifiesta y por ende los abuelos no serán considerados para el procedimiento judicial de perdida de patria potestad.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -3676,8 +3590,6 @@ II. Cuando existan circunstancias, actos o hechos que afecten el interés superi
 En cualquiera de los supuestos anteriores, la Procuraduría de la Defensa del Menor y la Familia podrá egresar de manera provisional al niño, niña o adolescente de la familia de acogida, encomendándolo preferentemente a otra familia de acogida y de no ser posible esto a una Institución Asistencial para su atención, debiendo dar de manera inmediata aviso al Juez que conoció de las diligencias, para iniciar el trámite de revocación de la familia de acogida.
 
 El Juez previa audiencia de los interesados incluyendo a la niña, niño o adolescente según sea el caso y del Ministerio Público, con el correspondiente ofrecimiento y desahogo de pruebas, resolverá lo que fuere más conveniente al bienestar de la a la niña, niño o adolescente en atención al interés superior del menor.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -3888,8 +3800,6 @@ También se perderá la patria potestad cuando quien la ejerza sea condenado exp
 ###### Art. 445.
 
 El ascendiente que pase a ulteriores nupcias, no pierde por este hecho la patria potestad.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -5007,8 +4917,6 @@ V.- Cuidar con especialidad de que los tutores cumplan la obligación que les im
 
 VI.- Vigilar el registro de tutelas, a fin de que sea llevado en debida forma.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 632 Bis.
@@ -5393,9 +5301,9 @@ Cuando hayan transcurrido tres años desde la declaración de ausencia, el juez,
 
 Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que hayan transcurrido dos años, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero si se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
 
-Cuando la desaparición sea consecuencia de incendio, explosión, terremoto, ciclón, huracán, inundación o catástrofe en medios de transporte público aéreo, terrestre o marítimo y exista fundada presunción de que el desaparecido se encontraba en (sic) lugar del siniestro o catástrofe, bastará en el trascurso de seis meses, contados a partir del trágico acontecimiento para que el juez declare presunción de muerte sin que en esos casos sea necesario que previamente se declare su ausencia, pero si se tomaran las medidas provisionales autorizadas por el Capítulo I de ese título. En estos casos, el Juez acordará la publicación de la solicitud de la declaración de presunción de muerte, hasta por tres veces durante el procedimiento, que en ningún caso excederá de treinta días. Las reglas previstas en este apartado también serán aplicables cuando la ausencia sea consecuencia de un hecho relacionado con la privación ilegal de la libertad, en su modalidad de secuestro o desaparición forzada de personas, en ambos casos el término para decretar la presunción de muerte será de seis meses a partir de que se haya denunciado ante la Autoridad competente el acto ilícito correspondiente.
+Cuando la desaparición sea consecuencia de incendio, explosión, terremoto, ciclón, huracán, inundación o catástrofe en medios de transporte público o privado aéreo, terrestre o marítimo y exista fundada presunción de que el desaparecido se encontraba en (sic) lugar del siniestro o catástrofe, bastará en el trascurso de tres meses, contados a partir del trágico acontecimiento para que el juez declare presunción de muerte sin que en esos casos sea necesario que previamente se declare su ausencia, pero si se tomaran las medidas provisionales autorizadas por el Capítulo I de ese título. En estos casos, el Juez acordará la publicación de la solicitud de la declaración de presunción de muerte, hasta por 2 veces durante el procedimiento, que en ningún caso excederá de quince días. Las reglas previstas en este apartado también serán aplicables cuando la ausencia sea consecuencia de un hecho relacionado con la privación ilegal de la libertad, en su modalidad de secuestro o desaparición forzada de personas, en ambos casos el término para decretar la presunción de muerte será de tres meses a partir de que se haya denunciado ante la Autoridad competente el acto ilícito correspondiente.
 
 ###### Art. 706.
 
@@ -8067,11 +7975,7 @@ I.- El que haya sido condenado por haber dado, mandado o intentado dar muerte a 
 
 II.- El que haya hecho contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge, acusación de delito que merezca pena capital o de prisión, aún cuando aquella sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano, a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra, o la de sus descendientes, ascendientes, hermanos o cónyuge;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 III.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 IV.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2016)
 
@@ -9665,7 +9569,7 @@ Si al morir el autor de la herencia tiene varias concubinas o concubinos según 
 
 A falta de todos los herederos llamados en los capítulos anteriores, sucederá el fisco del Estado.
 
-(Sic) 1533.- Cuando sea heredero el fisco del Estado y entre lo que le corresponda existan bienes raíces que no pueda adquirir conforme al artículo 27 de la Constitución Federal, se venderán los bienes en pública subasta, antes de hacerse la adjudicación, aplicándose al Estado el precio que se obtuviere.
+1533 (Sic).- Cuando sea heredero el fisco del Estado y entre lo que le corresponda existan bienes raíces que no pueda adquirir conforme al artículo 27 de la Constitución Federal, se venderán los bienes en pública subasta, antes de hacerse la adjudicación, aplicándose al Estado el precio que se obtuviere.
 
 ## TITULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGITIMA
 
@@ -13237,19 +13141,13 @@ I.- Si el donatario comete algún delito contra la persona, la honra o los biene
 
 II.- Si el donatario rehusa socorrer, según el valor de la donación, al donante que ha venido a pobreza;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 III.- Si el donatario es condenado por sentencia que haya causado ejecutoria en proceso civil por cometer contra el donante hechos o actos de violencia familiar;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 IV.- Por falta de ministración de alimentos; y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -14328,8 +14226,6 @@ I.- Para desistirse;
 II.- Para transigir;
 
 III.- Para comprometer en árbitros;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -16603,8 +16499,6 @@ III.- El valor de los bienes o derechos a que se refieren las fracciones anterio
 
 IV.- Tratándose de hipotecas, la época en que podrá exigirse el pago del capital garantizado, y si causare réditos, la tasa o el monto de éstos y la fecha desde que deban correr;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 18 DE ENERO DE 2017)</small>
 
 V.- Los nombres, fecha de nacimiento, domicilios y profesiones de las personas que por sí mismas o por medio de representantes hubieren celebrado el contrato o ejecutado el acto. Las personas morales se designarán por su nombre oficial, razón social o denominación.
@@ -16622,8 +16516,6 @@ Los interesados deberán presentar para su registro los documentos por duplicado
 ###### Art. 2909.
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 18 DE ENERO DE 2017)</small>
 
@@ -17402,6 +17294,18 @@ Primero.- El presente Decreto entrará en vigor el día primero de enero de 2017
 Segundo.- Los avisos, inscripciones, escrituras y demás trámites llevados a cabo previo a la entrada en vigor del presente decreto se sujetarán a los plazos, términos y condiciones vigentes al momento de su realización.
 
 Tercero.- El primer informe a que (sic) referencia el segundo párrafo del artículo 138 de la Ley del Notariado del Estado de Nuevo León deberá presentarse durante el mes de agosto de 2017.
+
+P.O. 26 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 248. SE REFORMA LA FRACCIÓN III AL ARTÍCULO 20 DE LA LEY QUE CREA EL CONSEJO ESTATAL PARA ADOPCIONES”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 249. SE REFORMA POR MODIFICACIÓN EL TERCER PÁRRAFO DEL ARTÍCULO 705 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entra en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 ###### ARTICULO TERCERO.
 
