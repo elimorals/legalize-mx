@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-consejo-de-la-judicatura-del-poder-7266
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-13"
-last_updated: "2014-02-12"
+last_updated: "2017-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 13 de enero de 2010.
 
@@ -53,7 +53,7 @@ El Consejo de la Judicatura del Poder Judicial del Estado de Chiapas, es el órg
 
 Para los efectos del presente Reglamento se entenderá:
 
-l. Por lo que se refiere a los ordenamientos jurídicos:
+I. Por lo que se refiere a los ordenamientos jurídicos:
 
 Constitución: A la Constitución Política del Estado de Chiapas.
 
@@ -63,7 +63,7 @@ Código de Organización: Al Código de Organización del Poder Judicial del Est
 
 Reglamento: Al Reglamento Interior del Consejo de la Judicatura del Poder Judicial del Estado de Chiapas.
 
-ll. En cuanto a las autoridades, órganos y áreas del Consejo de la Judicatura del Poder Judicial:
+II. En cuanto a las autoridades, órganos y áreas del Consejo de la Judicatura del Poder Judicial:
 
 Tribunal: Al Tribunal Superior de Justicia del Estado.
 
@@ -87,7 +87,9 @@ Servidor Público: A Todo personal no mencionado, que presta sus servicios en el
 
 Áreas Administrativas: A las Direcciones y los Órganos auxiliares del Consejo de la Judicatura del Poder Judicial del Estado de Chiapas.
 
-Órganos Jurisdiccionales: Salas Regionales Colegiadas; Juzgados de Primera Instancia; Juzgados y Salas Especializados en Justicia para Adolescentes; Juzgados de Paz y Conciliación; Juzgados de Paz y Conciliación Indígena; y Juzgados Municipales.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+Órganos Jurisdiccionales: Salas Regionales Colegiadas; Juzgados de Primera Instancia; Juzgados y Tribunales de Alzada especializados en justicia para adolescentes; Juzgados de Paz y Conciliación; Juzgados de Paz y Conciliación Indígena; y Juzgados Municipales.
 
 ###### Artículo 4°.
 
@@ -103,9 +105,9 @@ El Consejo dictará acuerdos específicos y acuerdos generales, entendiéndose p
 
 Para cumplir con sus funciones, estará integrado por cinco Consejeros, en los términos del artículo 57, de la Constitución Política local; de los cuales uno será el Presidente del Tribunal Superior de Justicia del Estado, quien será el titular del Consejo, y funcionará en pleno, y por comisiones que estarán integradas por los Consejeros que deban presidirla, de la siguiente forma:
 
-l. Un Magistrado que será el Presidente del Tribunal Superior de Justicia del Estado, y un Juez de Primera Instancia, designado por el Tribunal Constitucional, por insaculación en audiencia pública de entre una lista de cinco Jueces de Primera Instancia, en términos del artículo 57, de la Constitución Política del Estado de Chiapas;
+I. Un Magistrado que será el Presidente del Tribunal Superior de Justicia del Estado, y un Juez de Primera Instancia, designado por el Tribunal Constitucional, por insaculación en audiencia pública de entre una lista de cinco Jueces de Primera Instancia, en términos del artículo 57, de la Constitución Política del Estado de Chiapas;
 
-ll. Dos Consejeros, designados por el Congreso del Estado o por la Comisión Permanente, en su caso;
+II. Dos Consejeros, designados por el Congreso del Estado o por la Comisión Permanente, en su caso;
 
 III. Un Consejero, nombrado por el titular del Poder Ejecutivo del Estado; y,
 
@@ -119,9 +121,9 @@ Para cumplir con sus funciones el Consejo, se integrará por comisiones: de Admi
 
 El Consejo ejercerá sus atribuciones a través de:
 
-l. El Pleno del Consejo.
+I. El Pleno del Consejo.
 
-ll. El Presidente.
+II. El Presidente.
 
 III. Las Comisiones del Consejo.
 
@@ -149,9 +151,9 @@ Para que el Consejo funcione en Pleno, bastará la presencia de su Presidente y 
 
 Para el cumplimiento de sus funciones, el Consejo tomará en consideración las bases siguientes:
 
-l. Celebrará sesiones ordinarias, cuando menos una vez al mes y extraordinarias cuantas veces sea convocado por su Presidente. Las sesiones las presidirá el propio Presidente del Consejo, serán privadas, y tendrán lugar el día y hora que se determine en la primera sesión plenaria del año. Sólo podrán dejar de celebrarse cuando así lo determine el Pleno en la sesión inmediata anterior, o por causa de fuerza mayor o caso fortuito;
+I. Celebrará sesiones ordinarias, cuando menos una vez al mes y extraordinarias cuantas veces sea convocado por su Presidente. Las sesiones las presidirá el propio Presidente del Consejo, serán privadas, y tendrán lugar el día y hora que se determine en la primera sesión plenaria del año. Sólo podrán dejar de celebrarse cuando así lo determine el Pleno en la sesión inmediata anterior, o por causa de fuerza mayor o caso fortuito;
 
-ll. Para la validez de los acuerdos del Pleno será necesario el voto de la mayoría de sus integrantes, siempre y cuando esté presente la totalidad de sus miembros. En caso contrario se requerirá mayoría absoluta;
+II. Para la validez de los acuerdos del Pleno será necesario el voto de la mayoría de sus integrantes, siempre y cuando esté presente la totalidad de sus miembros. En caso contrario se requerirá mayoría absoluta;
 
 III. Las quejas serán turnadas equitativamente y por el número de expediente en forma progresiva y diariamente a cada Consejero integrante de la comisión que corresponda, para su aprobación o para la elaboración del proyecto respectivo según sea el caso;
 
@@ -205,9 +207,9 @@ Las facultades de las comisiones pueden ser decisorias o de instrumentación, se
 
 Para el cumplimiento de las atribuciones del Consejo, el Pleno tendrá las facultades que en seguida se enuncian:
 
-l. Opinar en la ratificación de los Magistrados, determinar la adscripción de éstos y resolver sobre los procedimientos administrativos de los mismos;
+I. Opinar en la ratificación de los Magistrados, determinar la adscripción de éstos y resolver sobre los procedimientos administrativos de los mismos;
 
-ll. Designar a los Jueces de Primera Instancia, y determinar la adscripción de los mismos, así como de los demás servidores del Poder Judicial, en los términos de la Constitución Política del Estado, y del Código de Organización, asimismo, ratificar los nombramientos de éstos, y en su caso, la remoción del cargo por causa justificada;
+II. Designar a los Jueces de Primera Instancia, y determinar la adscripción de los mismos, así como de los demás servidores del Poder Judicial, en los términos de la Constitución Política del Estado, y del Código de Organización, asimismo, ratificar los nombramientos de éstos, y en su caso, la remoción del cargo por causa justificada;
 
 III. Organizar y vigilar el correcto funcionamiento del Archivo Judicial del Poder Judicial, debiendo acordar en todo caso, las normas que estime convenientes para ello;
 
@@ -279,9 +281,9 @@ XI. Las demás que determinen las leyes, y los acuerdos generales del Pleno del 
 
 Son facultades y obligaciones de cada Consejero:
 
-l. Proponer al Pleno a los Secretarios Técnicos y Servidores Públicos que conforme su ponencia;
+I. Proponer al Pleno a los Secretarios Técnicos y Servidores Públicos que conforme su ponencia;
 
-ll. Asignar a su personal las labores que desempeñará acorde con las funciones que tenga encomendadas;
+II. Asignar a su personal las labores que desempeñará acorde con las funciones que tenga encomendadas;
 
 III. Dictar y poner en práctica, las medidas necesarias para el pronto y expedito despacho de los asuntos de su ponencia:
 
@@ -351,9 +353,9 @@ La Secretaría tendrá un mínimo de tres secretarios administrativos, un Actuar
 
 Corresponde al Secretario Ejecutivo, lo siguiente:
 
-l. Autorizar y dar fe de los actos del Pleno, Presidente y de los Consejeros, en el ejercicio de sus atribuciones y en sus respectivas competencias;
+I. Autorizar y dar fe de los actos del Pleno, Presidente y de los Consejeros, en el ejercicio de sus atribuciones y en sus respectivas competencias;
 
-ll. Ejecutar los acuerdos tomados por el Consejo, por conducto de las áreas involucradas en la ejecución;
+II. Ejecutar los acuerdos tomados por el Consejo, por conducto de las áreas involucradas en la ejecución;
 
 III. Intervenir en la substanciación de los procedimientos administrativos disciplinarios que competa conocer, y dar cuenta al Pleno del Consejo y a los Consejeros;
 
@@ -383,9 +385,9 @@ XIV. Las demás que determinen las leyes, reglamentos y las que le sean asignada
 
 Para ser Secretario Ejecutivo del Consejo, se requiere:
 
-l. Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos civiles y políticos;
+I. Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-ll. Tener cuando menos veinticinco años de edad cumplidos, al día de la designación y no más de setenta y cinco años;
+II. Tener cuando menos veinticinco años de edad cumplidos, al día de la designación y no más de setenta y cinco años;
 
 III. Tener título profesional de Licenciado en Derecho y cédula profesional expedida por autoridad o institución legalmente facultada para ello;
 
@@ -401,9 +403,9 @@ VI. Gozar de buena reputación, y no haber sido condenado por delito que amerite
 
 Los Secretarios Técnicos tendrán las siguientes funciones:
 
-l. Auxiliar en las audiencias de atención al público del Consejero;
+I. Auxiliar en las audiencias de atención al público del Consejero;
 
-ll. Revisar y analizar los expedientes formados con motivos de los diferentes procedimientos administrativos turnados para su atención;
+II. Revisar y analizar los expedientes formados con motivos de los diferentes procedimientos administrativos turnados para su atención;
 
 III. Elaborar los proyectos o documentos jurídicos o administrativos que le asigne el Consejero;
 
@@ -417,9 +419,9 @@ VI. Las demás que le confiera el Pleno y su Consejero.
 
 Para ser Secretario Técnico del Consejo, se requiere:
 
-l. Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos civiles y políticos;
+I. Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-ll. Tener cuando menos veinticinco años de edad cumplidos, al día de la designación y no más de setenta y cinco años;
+II. Tener cuando menos veinticinco años de edad cumplidos, al día de la designación y no más de setenta y cinco años;
 
 III. Tener título profesional de Licenciado en Derecho y cédula profesional expedida por autoridad o institución legalmente facultada para ello;
 
@@ -441,9 +443,9 @@ Las percepciones recibidas con motivo al desempeño de sus atribuciones serán e
 
 Para ser Actuario notificador del Consejo, se deberán reunir los siguientes requisitos:
 
-l. Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos civiles y políticos;
+I. Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-ll. Tener cuando menos veinticinco años de edad cumplidos, al día de la designación y no más de setenta y cinco años;
+II. Tener cuando menos veinticinco años de edad cumplidos, al día de la designación y no más de setenta y cinco años;
 
 III. Tener título profesional de Licenciado en Derecho y cédula profesional expedida por autoridad o institución legalmente facultada para ello;
 
@@ -529,7 +531,7 @@ La Comisión de Administración tendrá las facultades siguientes:
 
 I. Presentar al Pleno, conforme a las disposiciones legales aplicables en materia de Planeación, Programación y Presupuesto, el anteproyecto de Presupuesto de Egresos del Poder Judicial, con excepción del Tribunal Constitucional, de Justicia Electoral y Administrativa y del Trabajo Burocrático;
 
-ll. Coordinar con los órganos facultados, la administración y el ejercicio presupuestal del Consejo;
+II. Coordinar con los órganos facultados, la administración y el ejercicio presupuestal del Consejo;
 
 III. Informar al Pleno, conforme a los plazos legales, términos establecidos y los acuerdos que al respecto emita éste, de los avances en el ejercicio presupuestal;
 
@@ -857,21 +859,29 @@ Los interesados tendrán acceso a los libros, archivos y registros que no tengan
 
 El Poder Judicial, contará con los Servidores Públicos que sea necesario y permita el presupuesto.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 94.
 
-El personal de las Salas o Juzgados estará bajo la Dirección del Secretario General de Acuerdos o Secretario de Acuerdos según sea el caso, quien responderá del buen funcionamiento de dichos órganos; el Titular de la Sala o Juzgado, tiene a su cargo vigilar que esto se cumpla.
+El personal de las Salas, Tribunales de Alzada especializados en justicia para adolescentes o Juzgados, estará bajo la Dirección del Secretario General de Acuerdos o Secretario de Acuerdos según sea el caso, quien responderá del buen funcionamiento de dichos órganos; el Titular de la Sala o Juzgado, tiene a su cargo vigilar que esto se cumpla.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
 
 ###### Artículo 95.
 
-Los oficiales administrativos adscritos a las Salas o a los Juzgados, realizarán las labores inherentes a su encargo y las demás de la misma naturaleza que le encomiende su Titular.
+Los oficiales administrativos adscritos a las Salas, Tribunales de Alzada especializados en justicia para adolescentes o a los Juzgados, realizarán las labores inherentes a su encargo y las demás de la misma naturaleza que le encomiende su Titular.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
 
 ###### Artículo 96.
 
-Los oficiales administrativos adscritos a los Tribunales y Juzgados, así como los auxiliares en la Administración de Justicia, están obligados a poner en conocimiento del Juez o Magistrado Presidente de las Salas, las excusas que en ellos concurran y que pudieran justificar su abstención en cualquier clase de juicio.
+Los oficiales administrativos adscritos a los Tribunales y Juzgados, así como los auxiliares en la Administración de Justicia, están obligados a poner en conocimiento del Juez, Magistrado Presidente de las Salas y de Tribunales de Alzada especializados en justicia para adolescentes, las excusas que en ellos concurran y que pudieran justificar su abstención en cualquier clase de juicio.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
 
 ###### Artículo 97.
 
-Los Titulares de los Juzgados o Salas adoptarán, en su caso, de oficio o a solicitud de parte, con audiencia del funcionario de que se trate, las medidas que procedan para garantizar su imparcialidad en las actuaciones judiciales conforme a las Leyes procesales.
+Los Titulares de los Juzgados, Salas y de Tribunales de Alzada especializados en justicia para adolescentes adoptarán, en su caso, de oficio o a solicitud de parte, con audiencia del funcionario de que se trate, las medidas que procedan para garantizar su imparcialidad en las actuaciones judiciales conforme a las Leyes procesales.
 
 ###### Artículo 98.
 
@@ -973,9 +983,9 @@ XVI.- Las demás que le otorguen el presente reglamento, y otras disposiciones a
 
 Para la atención de sus atribuciones la Oficialía Mayor contará por lo menos con la siguiente estructura:
 
-l.- Una Dirección de Asuntos Jurídicos;
+I.- Una Dirección de Asuntos Jurídicos;
 
-ll.- Una Dirección de Recursos Humanos;
+II.- Una Dirección de Recursos Humanos;
 
 III.- Una Dirección de Programación y Presupuesto;
 
@@ -1095,9 +1105,9 @@ XII. Los demás que le señale el Código de Organización del Poder Judicial de
 
 Son funciones y atribuciones de la Dirección de Contabilidad, las siguientes:
 
-l.- Registrar y controlar las operaciones financieras, presupuestales y contables;
+I.- Registrar y controlar las operaciones financieras, presupuestales y contables;
 
-ll.- Recopilar; analizar y consolidar la información financiera generada;
+II.- Recopilar; analizar y consolidar la información financiera generada;
 
 III.- Realizar el registro de todas las operaciones contables que se realicen en el Poder Judicial;
 
@@ -1117,9 +1127,9 @@ VIII.- Integrar la Cuenta de la Hacienda Pública Anual del Consejo de la Judica
 
 La Dirección de Tesorería tiene como función la de asegurar una eficiente administración, gestión, y ejecución de los recursos financieros, cuentas bancarias y todo tipo de valores e inversiones, autorizados por el Congreso del Estado al Consejo de la Judicatura; procurando que los recursos que permitan su inversión produzcan los más altos rendimientos a efecto de que sus productos amplíen el presupuesto del Consejo, y le permitan contar con recursos que atribuyan a entender de una mejor forma los compromisos, proyectos y programas del Consejo, teniendo entre otras atribuciones las siguientes:
 
-l.- Garantizar el debido resguardo y custodia de los bienes y valores afectos a procesos judiciales;
+I.- Garantizar el debido resguardo y custodia de los bienes y valores afectos a procesos judiciales;
 
-ll.- Impulsar la depuración de los procesos judiciales;
+II.- Impulsar la depuración de los procesos judiciales;
 
 III.- Administrar los recursos que le son asignados al Consejo, y cumplir sus obligaciones de pago.
 
@@ -1149,9 +1159,9 @@ VII.- Las demás que establece la normatividad aplicable y las que acuerde el Co
 
 La Dirección de Construcción y Remodelación de Inmuebles, tiene como finalidad satisfacer el desarrollo de la infraestructura judicial con la visión de dignificar los espacios existentes y futuros de Juzgados, Salas y Áreas Administrativas; conservar y mantener la infraestructura existente para la adecuada preservación del patrimonio inmobiliario; así como la de remodelar y adecuar los espacios e instalaciones existentes para mejorar el funcionamiento y brindar una adecuada atención al público; teniendo entre otras las siguientes funciones:
 
-l.- Diseñar e integrar planes y programas que permitan el desarrollo de la infraestructura jurisdiccional y administrativa;
+I.- Diseñar e integrar planes y programas que permitan el desarrollo de la infraestructura jurisdiccional y administrativa;
 
-ll.- Presentar al Consejo, por conducto de la Oficialía Mayor; los planes, programas, proyectos de obras y construcciones;
+II.- Presentar al Consejo, por conducto de la Oficialía Mayor; los planes, programas, proyectos de obras y construcciones;
 
 III.- Elaborar convocatorias y bases para la licitación de obras de construcción y remodelación;
 
@@ -1159,7 +1169,7 @@ IV.- Participar en el proceso de licitaciones de obras, así como en juntas de a
 
 V.- Realizar los estudios de impacto ambiental y de riesgo para la ejecución de la obra;
 
-Vl.- Remodelar y adecuar los diferentes espacios e instalaciones existentes para mejorar su funcionamiento;
+VI.- Remodelar y adecuar los diferentes espacios e instalaciones existentes para mejorar su funcionamiento;
 
 VII.- Recibir debidamente documentadas y finiquitadas las obras que se realicen, verificando las condiciones y terminados de las mismas;
 
@@ -1171,7 +1181,7 @@ X.- Recibir evaluaciones de las diferentes propuestas de los prestadores de serv
 
 XI.- Realizar levantamientos arquitectónicos, planos, maquetas, anteproyectos técnicos, presupuestos, cuantificaciones y cotizaciones para la reparación, remodelación y construcción de áreas o instalaciones;
 
-XIl.- Realizar los trámites de licencias, permisos y pagos, ante las instituciones municipales y estatales, correspondientes para la realización de la obra;
+XII.- Realizar los trámites de licencias, permisos y pagos, ante las instituciones municipales y estatales, correspondientes para la realización de la obra;
 
 XIII.- Realizar el análisis de expedientes técnicos y económicos de las obras o remodelaciones programadas en coordinación con la Contraloría Interna;
 
@@ -1261,9 +1271,9 @@ VII.- Las demás, que en ámbito de su competencia le sean conferidas por el Con
 
 La Dirección de Transparencia y Acceso a la Información Pública, tendrá por objeto promover y difundir el ejercicio ciudadano del derecho de acceso a la información; resolver sobre la negativa a las solicitudes de acceso a la información y proteger los datos personales en poder de los Órganos Administrativos y Jurisdiccionales del Poder Judicial, con las siguientes funciones y atribuciones:
 
-l.- Proporcionar a los Órganos Administrativos y Jurisdiccionales los elementos establecidos en el Acceso a la Información Pública, con la finalidad de mantener actualizadas las Políticas y Ordenamientos Jurídicos aplicables.
+I.- Proporcionar a los Órganos Administrativos y Jurisdiccionales los elementos establecidos en el Acceso a la Información Pública, con la finalidad de mantener actualizadas las Políticas y Ordenamientos Jurídicos aplicables.
 
-ll.- Llevar un control en el que se impacten las áreas en las que se haya dado a conocer las Políticas y Ordenamientos Jurídicos aplicables al Acceso a la Información Pública Gubernamental, con el objeto de evitar la falta de elementos que permitan el buen desarrollo y manejo de la información.
+II.- Llevar un control en el que se impacten las áreas en las que se haya dado a conocer las Políticas y Ordenamientos Jurídicos aplicables al Acceso a la Información Pública Gubernamental, con el objeto de evitar la falta de elementos que permitan el buen desarrollo y manejo de la información.
 
 III.- Establecer los medios de difusión en coordinación con los diferentes Órganos Administrativos y Jurisdiccionales con el fin de mantener la Normatividad vigente que aplica en el Acceso de la Información Pública Gubernamental.
 
@@ -1271,7 +1281,7 @@ IV.- Establecer qué procedimiento es el adecuado para atender las solicitudes d
 
 V.- Revisar las Solicitudes de Información determinando la competencia del Poder Judicial y analizar las respuestas emitidas por los Órganos Administrativos y Jurisdiccionales con el fin de asegurar un mejor servicio al ciudadano.
 
-Vl.- Comunicar a los Órganos Administrativos y Jurisdiccionales las aclaraciones y dudas relacionadas con las Solicitudes de Información con la finalidad de mantenerlos actualizados, agilizando y eficientando las respuestas de las mismas.
+VI.- Comunicar a los Órganos Administrativos y Jurisdiccionales las aclaraciones y dudas relacionadas con las Solicitudes de Información con la finalidad de mantenerlos actualizados, agilizando y eficientando las respuestas de las mismas.
 
 VII.- Registrar las solicitudes de información con el objeto de mantener un control y reflejar el estado que guardan.
 
@@ -1281,7 +1291,7 @@ IX.- Supervisar y elaborar los reportes y listas en los que se refleje el flujo,
 
 X.- Publicar en la página Web la información que con base en la legislación de la materia sea obligatoria hacer del conocimiento público.
 
-XI. Las demás que señalen la normatividad de la materia y el pleno del Consejo de la Judicatura.
+XI.- Las demás que señalen la normatividad de la materia y el pleno del Consejo de la Judicatura.
 
 ## Título Décimo Tercero. De la de Oficialía de Partes
 
@@ -1291,9 +1301,9 @@ XI. Las demás que señalen la normatividad de la materia y el pleno del Consejo
 
 El Departamento de Oficialía de Partes, dependerá del Consejo y estará a cargo de una persona especializada en la materia, contará con los Servidores Públicos que determine el propio Consejo, además se encargará de recibir, depurar, sistematizar y analizar cualitativamente la información cuantitativa generada por las Salas, Juzgados y el Consejo, para determinar las tendencias en la demanda de impartición de justicia del orden común y la evolución de la capacidad de respuesta; asimismo, tendrá las siguientes funciones y atribuciones:
 
-l.- Coordinar las oficialías de partes civiles, penales y familiares establecidas en los diferentes Distritos Judiciales, para vigilar la recepción y equitativa distribución de los asuntos entre los Juzgados;
+I.- Coordinar las oficialías de partes civiles, penales y familiares establecidas en los diferentes Distritos Judiciales, para vigilar la recepción y equitativa distribución de los asuntos entre los Juzgados;
 
-ll.- Remitir en forma inmediata las demandas iníciales, a las Salas y Juzgados;
+II.- Remitir en forma inmediata las demandas iníciales, a las Salas y Juzgados;
 
 III.- Proponer al personal de oficialía de partes que deba cubrir las guardias, conforme a la calendarización anual de labores;
 
@@ -1317,9 +1327,11 @@ Las actividades del archivo judicial se regirán por la normatividad establecida
 
 El Jefe del Archivo Judicial, tendrá las siguientes funciones y atribuciones:
 
-l.- Desarrollar y aplicar los trabajos técnicos necesarios para la clasificación, catalogación, conservación, depuración, restauración y resguardo de los documentos administrativos, jurisdiccionales e históricos que forman parte del acervo documental del Poder Judicial.
+I.- Desarrollar y aplicar los trabajos técnicos necesarios para la clasificación, catalogación, conservación, depuración, restauración y resguardo de los documentos administrativos, jurisdiccionales e históricos que forman parte del acervo documental del Poder Judicial.
 
-ll.- Recibir, resguardar e inventariar la documentación que remitan las Salas, Juzgados, áreas administrativas y delegaciones regionales de archivo.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+II.- Recibir, resguardar e inventariar la documentación que remitan las Salas, Tribunales de Alzada especializados en justicia para adolescentes, Juzgados, áreas administrativas y delegaciones regionales de archivo.
 
 III.- Llevar a cabo los trabajos de digitalización de expedientes y por cualquier otro medio electrónico o sistematizado que se autorice.
 
@@ -1349,7 +1361,9 @@ Los expedientes y documentos recibidos en el archivo general, serán anotados en
 
 Ningún expediente podrá salir del Archivo Judicial si no es por orden escrita del Presidente del Consejo o cualquiera de los Consejeros; de los Magistrados de las Salas; de los Jueces; de los Secretarios Generales de Acuerdos y de los Magistrados Visitadores, copia de la orden deberá quedar en el lugar que ocupaba el expediente. La salida de cualquier documento únicamente podrá ser autorizado por el responsable del área.
 
-## Título Décimo Quinto. De la Dirección de Informática
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ABRIL DE 2017)</small>
+
+## Título Décimo Quinto. De la Dirección de Desarrollo e Infraestructura Tecnológica
 
 ### Capítulo Único. De su Integración, Funciones y Atribuciones
 
@@ -1357,9 +1371,9 @@ Ningún expediente podrá salir del Archivo Judicial si no es por orden escrita 
 
 La Dirección de Informática estará a cargo de una persona especializada en el conocimiento y manejo de sistemas computacionales, auxiliados por las oficinas y el personal técnico necesarios y tendrá las siguientes funciones y atribuciones:
 
-l.- Expedir certificaciones de los datos capturados en la Red Jurídica cuando se soliciten por autoridad legitimada;
+I.- Expedir certificaciones de los datos capturados en la Red Jurídica cuando se soliciten por autoridad legitimada;
 
-ll.- Instalar y mantener los sistemas de información procedentes de las Salas Regionales y Especializadas del Tribunal Superior de Justicia del Estado, así como de los Juzgados, relativa a los procesos que ante ellos se tramiten, con el fin de efectuar el seguimiento de los mismos, y poder ingresar a dicha información utilizando las innovaciones de la tecnología;
+II.- Instalar y mantener los sistemas de información procedentes de las Salas Regionales y Especializadas del Tribunal Superior de Justicia del Estado, así como de los Juzgados, relativa a los procesos que ante ellos se tramiten, con el fin de efectuar el seguimiento de los mismos, y poder ingresar a dicha información utilizando las innovaciones de la tecnología;
 
 III.- Sistematizar las acciones y procedimientos de cada una de las Áreas del Consejo; proponiendo, desarrollando e instrumentando alternativas de automatización, que coadyuven a brindar un servicio eficiente de impartición de justicia.
 
@@ -1397,9 +1411,9 @@ XVI.- Las demás que en la esfera de sus atribuciones, le señale el Consejo.
 
 La Dirección de Estadística será la encargada de coordinar las labores de recopilación y manejo de la información estadística relativa a la actividad jurisdiccional de los órganos del Poder Judicial del Estado, con el fin de producir y proveer la información oportuna para la adecuada toma de decisiones; y tendrá las atribuciones siguientes:
 
-l.- Difundir los datos, métodos y formas de requerimiento y obtención de información para la construcción de indicadores de la gestión jurisdiccional;
+I.- Difundir los datos, métodos y formas de requerimiento y obtención de información para la construcción de indicadores de la gestión jurisdiccional;
 
-ll.- Coordinar la publicación periódica de la información estadística de carácter público en los medios;
+II.- Coordinar la publicación periódica de la información estadística de carácter público en los medios;
 
 III.- Elaborar los informes y proporcionar datos estadísticos a las áreas designadas por el Consejo de la Judicatura para el cumplimiento de los planes y programas de evaluación y vigilancia de la actividad jurisdiccional;
 
@@ -1427,9 +1441,9 @@ Corresponde al Fondo Auxiliar para la Administración de Justicia, dentro del ma
 
 Corresponde al Pleno del Consejo:
 
-l.- Administrar el Fondo;
+I.- Administrar el Fondo;
 
-ll.- Aprobar el Presupuesto Anual de Egresos del Fondo en el mes de enero de cada año;
+II.- Aprobar el Presupuesto Anual de Egresos del Fondo en el mes de enero de cada año;
 
 III.- Ejercer los recursos económicos que integran al Fondo, con transparencia, honradez y con estricto apego a las políticas de disciplina, racionalidad y austeridad;
 
@@ -1449,13 +1463,15 @@ IX.- Aprobar el sistema o método para el registro y control contable de las ope
 
 Corresponde al Presidente del Consejo en relación al Fondo:
 
-l.- Representar por sí o por conducto del Oficial Mayor, al Fondo en todas las inversiones que se realicen, así como negocios jurídicos en que intervenga;
+I.- Representar por sí o por conducto del Oficial Mayor, al Fondo en todas las inversiones que se realicen, así como negocios jurídicos en que intervenga;
 
-ll.- Invertir las cantidades que integran el Fondo en la adquisición de títulos, bonos o valores de renta fija, a la vista o a plazo fijo, deberán ser nominativos y a favor del Consejo, cuidando que las inversiones resulten las más productivas del mercado y que se conserve la liquidez necesaria para las devoluciones de depósitos judiciales que deban hacerse;
+II.- Invertir las cantidades que integran el Fondo en la adquisición de títulos, bonos o valores de renta fija, a la vista o a plazo fijo, deberán ser nominativos y a favor del Consejo, cuidando que las inversiones resulten las más productivas del mercado y que se conserve la liquidez necesaria para las devoluciones de depósitos judiciales que deban hacerse;
 
 III.- Celebrar convenios con el Ejecutivo del Estado y contratos con Instituciones de Crédito, en las condiciones que sean más convenientes, para garantizar la conservación e incremento de los fondos definitivos y revolventes.
 
-IV.- Vigilar y supervisar que los diversos Juzgados de Primera Instancia y Salas del Poder Judicial del Estado cumplan con todas las obligaciones que en relación con el Fondo se les impongan por los ordenamientos legales aplicables;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+IV.- Vigilar y supervisar que los diversos Juzgados de Primera Instancia, Salas, Tribunales de Alzada especializados en justicia para adolescentes del Poder Judicial del Estado cumplan con todas las obligaciones que en relación con el Fondo se les impongan por los ordenamientos legales aplicables;
 
 V.- Vigilar la incorporación de los intereses o rentas obtenidas, al Fondo Definitivo para su reinversión; y,
 
@@ -1465,7 +1481,7 @@ VI.- Las demás facultades que le concedan la legislación y el Pleno del Consej
 
 El Fondo Auxiliar para la Administración de Justicia se integrará de la siguiente manera:
 
-l.- Fondo Definitivo constituido por:
+I.- Fondo Definitivo constituido por:
 
 a). El monto de las cauciones constituidas y que deban hacerse efectivas en los casos previstos por la leyes respectivas;
 
@@ -1475,7 +1491,9 @@ c). Las multas que por cualquier causa impongan los Juzgados de Primera Instanci
 
 d). El monto de la reparación del daño, cuando la parte ofendida renuncie al mismo;
 
-e). Los intereses que generen los bienes y valores del propio Fondo; además de los intereses provenientes de cantidades consignadas por los particulares, por cualquier causa, ante los Juzgados de Primera instancia y Salas del Poder Judicial del Estado;
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+e). Los intereses que generen los bienes y valores del propio Fondo; además de los intereses provenientes de cantidades consignadas por los particulares, por cualquier causa, ante los Juzgados de Primera Instancia, Salas y Tribunales de Alzada especializados en justicia para adolescentes, del Poder Judicial del Estado;
 
 f). Los bienes o valores que por cualquier medio adquiera en propiedad el Fondo, y se incorporen a su patrimonio;
 
@@ -1495,7 +1513,7 @@ m). Los ingresos que genere el Boletín Judicial;
 
 n). Cualesquiera otros ingresos que por cualquier título obtenga el Poder Judicial del Estado.
 
-ll.- Fondo Revolvente, constituido por los depósitos que se exhiban por los particulares por cualquier causa ante los Juzgados de Primera Instancia y Salas del Poder Judicial del Estado:
+II.- Fondo Revolvente, constituido por los depósitos que se exhiban por los particulares por cualquier causa ante los Juzgados de Primera Instancia y Salas del Poder Judicial del Estado:
 
 De estos recursos el Fondo tendrá exclusivamente la tenencia y administración, hasta en tanto se les dé el destino o aplicación que legalmente los motivó.
 
@@ -1515,9 +1533,9 @@ Las remuneraciones del personal adscrito al Fondo Auxiliar para la Administraci�
 
 Corresponde al Director del Fondo Auxiliar:
 
-l.- Coordinar todo lo relativo al Fondo en los términos de los ordenamientos legales que lo rigen o las directrices que reciba del Pleno o del Presidente del Consejo;
+I.- Coordinar todo lo relativo al Fondo en los términos de los ordenamientos legales que lo rigen o las directrices que reciba del Pleno o del Presidente del Consejo;
 
-ll.- Elaborar el proyecto de Presupuesto Anual de Egresos del Fondo para someterlo a consideración del Oficial Mayor, para su aprobación por el Pleno;
+II.- Elaborar el proyecto de Presupuesto Anual de Egresos del Fondo para someterlo a consideración del Oficial Mayor, para su aprobación por el Pleno;
 
 III.- Llevar la contabilidad del Fondo;
 
@@ -1533,7 +1551,9 @@ VII.- Asesorar en todo lo necesario a los funcionarios judiciales que, por dispo
 
 VIII.- Incorporar de inmediato los intereses o rentas obtenidas, al Fondo Definitivo para su reinversión;
 
-IX.- Controlar los depósitos que le remitan los Juzgados de Primera Instancia y Salas del Poder Judicial del Estado, en los términos de los artículos relativos;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+IX.- Controlar los depósitos que le remitan los Juzgados de Primera Instancia, Salas y Tribunales de Alzada especializados en justicia para adolescentes, del Poder Judicial del Estado, en los términos de los artículos relativos;
 
 X.- Cuidar que las inversiones del Fondo se hagan de la manera prevista por el artículo 122, de este Reglamento;
 
@@ -1547,15 +1567,19 @@ XIII.- En general, realizar todos aquellos actos de ejecución que para la mejor
 
 Son obligaciones del Director:
 
-l.- Establecer un sistema general para recibir información de los Juzgados de Primera Instancia y Salas del Poder Judicial del Estado, a fin de mantener actualizada la contabilidad del Fondo;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
 
-ll.- Recibir los bienes que por cualquier motivo deban integrar o incrementar el patrimonio del Fondo;
+I.- Establecer un sistema general para recibir información de los Juzgados de Primera Instancia, Salas y Tribunales de Alzada especializados en justicia para adolescentes del Poder Judicial del Estado, a fin de mantener actualizada la contabilidad del Fondo;
+
+II.- Recibir los bienes que por cualquier motivo deban integrar o incrementar el patrimonio del Fondo;
 
 III.- Comunicar oportunamente al Oficial Mayor las fechas de vencimiento de valores, así como investigar y sugerirle las mejores opciones de rendimiento financiero;
 
 IV.- Registrar contablemente todos los movimientos del Fondo, recabar y custodiar la documentación, para conocimiento del Oficial Mayor y la revisión que, en su caso, practique el Órgano de Fiscalización Superior del Congreso del Estado;
 
-V.- Integrar un expediente por cada Juzgado de Primera Instancia y Sala del Poder Judicial del Estado, para llevar un registro de las cantidades que se encuentren a su disposición, a fin de formular los estados contables respectivos;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+V.- Integrar un expediente por cada Juzgado de Primera Instancia, Salas y Tribunales de Alzada especializados en justicia para adolescentes del Poder Judicial del Estado, para llevar un registro de las cantidades que se encuentren a su disposición, a fin de formular los estados contables respectivos;
 
 VI.- Informar periódicamente al Consejo, sobre la administración y estado que guarda el fondo; y,
 
@@ -1577,9 +1601,11 @@ Para garantizar las cantidades que amparan los depósitos judiciales, se emitir�
 
 Los documentos referidos en el artículo anterior se documentarán mediante la siguiente forma: deberá ser foliado, contendrá la cantidad que se recibe, el concepto, el nombre del depositante y del beneficiario en su caso y fecha del depósito, debiendo el receptor registrarlo e ingresarlo de inmediato en la forma autorizada al efecto.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 139.
 
-Las garantías que se otorguen en pólizas, deberán expedirse a favor del Consejo, Salas, o Juzgado correspondiente; conservándose en custodia por el titular del órgano jurisdiccional hasta en tanto se puedan hacer efectivas; debiendo remitirse copia de la misma a la Dirección, a la brevedad posible.
+Las garantías que se otorguen en pólizas, deberán expedirse a favor del Consejo, Salas, Tribunales de Alzada especializados en justicia para adolescentes o Juzgado correspondiente; conservándose en custodia por el titular del órgano jurisdiccional hasta en tanto se puedan hacer efectivas; debiendo remitirse copia de la misma a la Dirección, a la brevedad posible.
 
 ###### Artículo 140.
 
@@ -1597,7 +1623,7 @@ I. Adquirir, construir, mantener, remodelar o ampliar inmuebles del Poder Judici
 
 II. Arrendar inmuebles para servicio del Poder Judicial;
 
-lII. Comprar, rentar, reparar o mantener el mobiliario y equipo necesario para el funcionamiento de los Órganos del Poder Judicial;
+III. Comprar, rentar, reparar o mantener el mobiliario y equipo necesario para el funcionamiento de los Órganos del Poder Judicial;
 
 IV. Desarrollar programas y acciones de capacitación, actualización y especialización profesional del personal del Poder Judicial;
 
@@ -1641,25 +1667,33 @@ Para el caso de cauciones garantizadas por empresas afianzadoras, se harán efec
 
 Independientemente de las visitas judiciales que prevé el Código de Organización, y su Reglamento, el Pleno del Consejo podrá acordar visitas administrativas por auditores, para que revisen el manejo de los valores y depósitos a cargo de dichos órganos; según el resultado de la visita, el Pleno tomará el acuerdo correspondiente.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 150.
 
-Los titulares de las Salas y Juzgados de Primera Instancia del Poder Judicial del Estado, efectuarán cada mes revisiones internas, a fin de verificar en qué asuntos se dan los supuestos necesarios para adjudicar en favor del Fondo, los depósitos de bienes o valores, comunicando lo anterior a la Dirección para los efectos correspondientes.
+Los titulares de las Salas, Tribunales de Alzada especializados en justicia para adolescentes y Juzgados de Primera Instancia del Poder Judicial del Estado, efectuarán cada mes revisiones internas, a fin de verificar en qué asuntos se dan los supuestos necesarios para adjudicar en favor del Fondo, los depósitos de bienes o valores, comunicando lo anterior a la Dirección para los efectos correspondientes.
 
 ###### Artículo 151.
 
 Lo no previsto en este Reglamento, será resuelto por el Pleno del Consejo, tomando en cuenta los ordenamientos legales aplicables
 
-## Título Décimo Octavo. De las Salas Regionales del Tribunal Superior de Justicia del Poder Judicial del Estado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ABRIL DE 2017)</small>
+
+## Título Décimo Octavo. De los Tribunales de Alzada del Poder Judicial del Estado
 
 ### Capítulo Primero. Integración y Funcionamiento
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 152.
 
-Las Salas Regionales Colegiadas que integren el Tribunal Superior de Justicia del Estado, conocerán y resolverán en segunda instancia en sus respectivas circunscripciones territoriales, los recursos que establecen los Códigos de Procedimientos Penales y Civiles, y el de Comercio.
+Las Salas Regionales Colegiadas y los Tribunales de Alzada especializados en justicia para adolescentes que integren el Tribunal Superior de Justicia del Estado, conocerán y resolverán en segunda instancia en sus respectivas circunscripciones territoriales, los recursos que establecen los Códigos de Procedimientos Penales y Civiles, aplicables y el de Comercio.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
 
 ###### Artículo 153.
 
-Para efectos del artículo anterior, las Salas Regionales Civiles conocerán de las materias civil, mercantil y familiar, las Penales conocerán de la materia penal. Las Salas Regionales Mixtas conocerán de todas las materias; y las salas Especializadas en Justicia para Adolescentes, conocerán de su materia.
+Para efectos del artículo anterior, las Salas Regionales Civiles conocerán de las materias civil, mercantil y familiar, las Penales conocerán de la materia penal. Las Salas Regionales Mixtas conocerán de todas las materias; y los Tribunales de Alzada especializados en justicia para adolescentes, conocerán de su materia.
 
 ###### Artículo 154.
 
@@ -1669,43 +1703,61 @@ Los Magistrados integrantes de las Salas, sesionarán una vez a la semana, y cua
 
 Los asuntos se turnarán en su estricto orden de recibido a la ponencia que corresponda.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 156.
 
-La Sala por conducto de su Presidente, dará vista al Ministerio Público de aquellos asuntos en los que deba intervenir con los que la índole de los mismos lo haga conveniente. El Magistrado ponente, a la vista del pedimento del representante social, formulará la correspondiente propuesta y dará cuenta a la Sala.
+Las Salas Regionales y los Tribunales de Alzada especializados en justicia para adolescentes por conducto de su Presidente, dará (sic) vista al Ministerio Público de aquellos asuntos en los que deba intervenir, o en los que la índole de los mismos lo haga conveniente. El Magistrado ponente, a la vista del pedimento del representante social, formulará la correspondiente propuesta y dará cuenta a la Sala.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
 
 ###### Artículo 157.
 
-En días hábiles, las Salas Regionales Colegiadas y las Especializadas en Justicia para Adolescentes, celebrarán audiencias para la práctica de pruebas, vistas de los litigios y causas; publicarán las sentencias dictadas y demás actos que señale la ley.
+En días hábiles, las Salas Regionales y los Tribunales de Alzada especializados en justicia para adolescentes, celebrarán audiencias para la práctica de pruebas, vistas de los litigios y causas; publicarán las sentencias dictadas y demás actos que señale la ley.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
 
 ###### Artículo 158.
 
-El horario de labores de las Salas, sus Secretarías y Oficinas, será fijado por el Pleno del Consejo.
+El horario de labores de las Salas Regionales y de los Tribunales de Alzada especializados en justicia para adolescentes, sus Secretarías y Oficinas, será fijado por el Pleno del Consejo.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
 
 ###### Artículo 159.
 
-Cada Magistrado en la Sesión de la Sala, tratará los asuntos relacionados con su ponencia y presentará, en su caso, la propuesta de acuerdo o resolución.
+Cada Magistrado en la Sesión del Tribunal de Alzada, tratará los asuntos relacionados con su ponencia y presentará, en su caso, la propuesta de acuerdo o resolución.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE ABRIL DE 2017)</small>
 
 ###### Artículo 160.
 
-Al ocurrir una excusa, recusación o ausencia temporal de alguno de los Magistrados de Sala Regional Colegiada, se sustituirá por el Secretario General de Acuerdos de la misma Sala, quien a su vez será suplido por uno de los Secretarios de Estudio y Cuenta que designe la Sala para tal efecto.
+Al ocurrir una excusa, recusación o ausencia temporal de alguno de los Magistrados de Salas Regionales o de Tribunales de Alzada especializados en justicia para adolescentes se sustituirá por el Secretario General de Acuerdos del mismo Tribunal de Alzada, quien a su vez será suplido por uno de los Secretarios de Estudio y Cuenta que designe la Sala para tal efecto.
 
 Cuando se trate del Presidente de la Sala, será sustituido por el Magistrado que le siga en orden alfabético de su apellido, y éste a su vez, por el Secretario General de Acuerdos de Sala.
 
 Los Magistrados que fueren recusados o se excusen, no deberán estar presentes en las discusiones y votaciones en el asunto de que se trate.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 161.
 
-Las faltas de los Secretarios Generales de Acuerdos de las Salas, serán suplidas por un Secretario de Estudio y Cuenta y, en su defecto, por el Actuario que designe el Presidente de la Sala.
+Las faltas de los Secretarios Generales de Acuerdos de las Salas Regionales o de los Tribunales de Alzada especializados en justicia para adolescentes, serán suplidas por un Secretario de Estudio y Cuenta y, en su defecto, por el Actuario que designe el Presidente de la Sala.
 
-### Capítulo Segundo. De los Magistrados Presidentes de Salas Regionales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ABRIL DE 2017)</small>
+
+### Capítulo Segundo. De los Magistrados Presidentes de Salas Regionales y Tribunales de Alzada Especializados en Justicia para Adolescentes
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE ABRIL DE 2017)</small>
 
 ###### Artículo 162.
 
-Además de las señaladas en el Código de Organización y éste Reglamento, los Magistrados Presidentes de Salas Regionales tendrán, las atribuciones siguientes:
+Además de las señaladas en el Código de Organización y este Reglamento, los Magistrados Presidentes de Salas Regionales y de los Tribunales de Alzada especializados en justicia para adolescentes, tendrán, las atribuciones siguientes:
 
-l.- Convocar y presidir las sesiones de Pleno de Sala;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
 
-ll.- Vigilar la disciplina y el debido desempeño del personal adscrito;
+I.- Convocar y presidir las sesiones de Pleno de las Salas Regionales y de los Tribunales de Alzada especializados en justicia para adolescentes, cuando así corresponda.
+
+II.- Vigilar la disciplina y el debido desempeño del personal adscrito;
 
 III.- Rendir los informes que le solicite el Consejo y el Tribunal Constitucional, y aquellos necesarios para la memoria anual expositiva;
 
@@ -1719,9 +1771,9 @@ V.- Dar cuenta al Consejo de los actos u omisiones de los Servidores Públicos q
 
 Son atribuciones y obligaciones de las Salas en Materia Civil dentro de su jurisdicción:
 
-l.- Conocer de los recursos en materia civil, familiar y mercantil, contra las resoluciones dictadas por los Jueces de Primera Instancia; así como de los recursos de reposición que procedan, conforme al Código respectivo;
+I.- Conocer de los recursos en materia civil, familiar y mercantil, contra las resoluciones dictadas por los Jueces de Primera Instancia; así como de los recursos de reposición que procedan, conforme al Código respectivo;
 
-ll.- Conocer de los impedimentos, las recusaciones y las excusas de sus miembros y de sus subalternos cuando se trate de asuntos en materia civil, familiar y mercantil y cuando medie oposición de parte;
+II.- Conocer de los impedimentos, las recusaciones y las excusas de sus miembros y de sus subalternos cuando se trate de asuntos en materia civil, familiar y mercantil y cuando medie oposición de parte;
 
 III.- Conocer de los conflictos de competencia que se susciten entre los Jueces de Primera Instancia en materia civil, familiar y mercantil;
 
@@ -1735,9 +1787,9 @@ V.- De las demás que le confieran este Reglamento, el Código de Organización,
 
 Son atribuciones y obligaciones de las Salas en Materia Penal dentro de su jurisdicción:
 
-l.- Conocer de los recursos que procedan en materia penal, en contra de las resoluciones dictadas por los Jueces de Primera Instancia; así como de los recursos de reposición que procedan, conforme al Código respectivo;
+I.- Conocer de los recursos que procedan en materia penal, en contra de las resoluciones dictadas por los Jueces de Primera Instancia; así como de los recursos de reposición que procedan, conforme al Código respectivo;
 
-ll.- Conocer de los impedimentos, las recusaciones y las excusas de sus miembros y de sus subalternos cuando se trate de asuntos penales y cuando medie oposición de parte;
+II.- Conocer de los impedimentos, las recusaciones y las excusas de sus miembros y de sus subalternos cuando se trate de asuntos penales y cuando medie oposición de parte;
 
 III.- Conocer de los conflictos de competencia que se susciten en materia penal entre Juzgados de Primera Instancia;
 
@@ -1751,9 +1803,9 @@ V.- De las demás que le señalen este Reglamento, el Código de Organización, 
 
 Son atribuciones y obligaciones de las Salas Mixtas dentro de su jurisdicción:
 
-l.- Conocer de los recursos en materia civil, familiar, mercantil y penal en contra de las resoluciones pronunciadas por los Jueces de Primera Instancia; así como de los recursos de reposición que procedan, conforme a la ley respectiva.
+I.- Conocer de los recursos en materia civil, familiar, mercantil y penal en contra de las resoluciones pronunciadas por los Jueces de Primera Instancia; así como de los recursos de reposición que procedan, conforme a la ley respectiva.
 
-ll.- Conocer de la calificación de los impedimentos, excusas y recusaciones de sus miembros, y de sus subalternos dentro de su jurisdicción;
+II.- Conocer de la calificación de los impedimentos, excusas y recusaciones de sus miembros, y de sus subalternos dentro de su jurisdicción;
 
 III.- Conocer de los conflictos de competencia que se susciten entre Juzgados de Primera Instancia de su jurisdicción;
 
@@ -1763,19 +1815,31 @@ V.- Intervenir en los juicios de amparo, de los asuntos radicados en la Sala; y,
 
 VI.- De las demás que le confieran este Reglamento, el Código de Organización, y otras disposiciones legales aplicables.
 
-### Capítulo Sexto. De las Salas Colegiadas Especializadas en Justicia para Adolescentes
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ABRIL DE 2017)</small>
+
+### Capítulo Sexto. De los Tribunales de Alzada Especializados en Justicia para Adolescentes
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE ABRIL DE 2017)</small>
 
 ###### Artículo 166.
 
-Corresponde a las Salas Colegiadas Especializadas en Justicia para Adolescentes dentro de su jurisdicción, conocer de los recursos y asuntos a que se refieren los artículos del 351 al 365, de la Ley que Establece el Sistema de Justicia para Adolescentes en el Estado, y 68, del Código de Organización.
+Corresponde a los Tribunales de Alzada especializados en justicia para adolescentes dentro de su jurisdicción, conocer de los recursos y asuntos a que se refieren las leyes de la materia y relativos del Código de Organización.
 
-Cuando por causa de recusación, excusa o cualquier otro motivo justificado, un Magistrado de Sala Especializada en Justicia para Adolescentes no integre Sala, será sustituido por el Secretario de Acuerdos de la misma, y éste por un Secretario de Estudio y Cuenta.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
 
-Cuando los Magistrados de Sala Especializada en Justicia para Adolescentes no integren Sala, por cualquier causa, conocerá del asunto la otra sala con igual competencia.
+Cuando por causa de recusación, excusa o cualquier otro motivo justificado, un Magistrado de los Tribunales de Alzada especializados en justicia para adolescentes no lo integre, será sustituido por el Secretario General de Acuerdos de la misma, y éste por un Secretario de Estudio y Cuenta.
 
-Cuando se trate del Presidente de la Sala Especializada en Justicia para Adolescentes será sustituido por el Magistrado que siga en orden alfabético de su apellido y éste a su vez por el Secretario de Acuerdos de Sala.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
 
-Cuando el Secretario General de Acuerdos de una Sala Especializada en Justicia para Adolescentes, estuviere impedido para conocer de un asunto, será sustituido por un Secretario de Estudio y Cuenta. Si el impedimento recae en un Actuario, cuando no haya otro será sustituido por el Secretario de Acuerdos de la propia Sala.
+Cuando los Magistrados de los Tribunales de Alzada especializados en justicia para adolescentes, por cualquier causa no integren el mismo, conocerá del asunto otro con igual competencia.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+Cuando se trate del Presidente del Tribunal de Alzada especializado en justicia para adolescentes será sustituido por el Magistrado que siga en orden alfabético de su apellido y éste a su vez por el Secretario General de Acuerdos del Tribunal Especializado.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+Cuando el Secretario General de Acuerdos de un Tribunal de Alzada especializado en justicia para adolescentes, estuviere impedido para conocer de un asunto, será sustituido por un Secretario de Estudio y Cuenta. Si el impedimento recae en un actuario, cuando no haya otro será sustituido por el Secretario General de Acuerdos del propio Tribunal Especializado.
 
 Lo no previsto por este precepto será resuelto por el Pleno del Consejo de la Judicatura.
 
@@ -1783,17 +1847,19 @@ Lo no previsto por este precepto será resuelto por el Pleno del Consejo de la J
 
 Para el desempeño de sus labores, las Salas Regionales, contarán con el siguiente personal:
 
-l.- Secretarios Generales de Acuerdos;
+I.- Secretarios Generales de Acuerdos;
 
-ll.- Secretarios de Estudio y Cuenta;
+II.- Secretarios de Estudio y Cuenta;
 
 III.- Actuarios; y,
 
 IV.- Secretarios Auxiliares.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 168.
 
-Para efectos del artículo anterior el Consejo, de acuerdo con el presupuesto determinará el número de Secretarios Generales de Acuerdos, Secretarios de Estudio y Cuenta, Actuarios, Secretarios Auxiliares y el personal que sea necesario para el funcionamiento de las Salas.
+Para efectos del artículo anterior el Consejo, de acuerdo con el presupuesto determinará el número de Secretarios Generales de Acuerdos, Secretarios de Estudio y Cuenta, Actuarios, Secretarios Auxiliares y el personal que sea necesario para el funcionamiento del Tribunal de Alzada especializado en justicia para adolescentes.
 
 ## Título Décimo Noveno. De los Juzgados de Primera Instancia
 
@@ -1807,9 +1873,9 @@ En cada uno de los Distritos Judiciales habrá el número de Juzgados de Primera
 
 Los Juzgados de Primera Instancia del Estado, contaran con el siguiente personal:
 
-l.- Secretarios de Acuerdos;
+I.- Secretarios de Acuerdos;
 
-ll.- Actuarios;
+II.- Actuarios;
 
 III.- Secretarios Proyectistas. En los Juzgados que acuerde el Pleno del Consejo, atendiendo a las cargas de trabajo; y,
 
@@ -1831,9 +1897,9 @@ El horario de trabajo de los Juzgados, será fijado por este Código de Organiza
 
 A los Jueces de Primera Instancia les corresponde:
 
-l.- Verificar y controlar las listas de asistencia de todo su personal, incluyendo a los Defensores Sociales adscritos, enviando las mismas al Consejo; y por lo que se refiere a estos últimos, informar de las irregularidades administrativas que advierta para los efectos de que el Jefe de la Defensoría Social, subsane las anomalías detectadas;
+I.- Verificar y controlar las listas de asistencia de todo su personal, incluyendo a los Defensores Sociales adscritos, enviando las mismas al Consejo; y por lo que se refiere a estos últimos, informar de las irregularidades administrativas que advierta para los efectos de que el Jefe de la Defensoría Social, subsane las anomalías detectadas;
 
-ll.- Remitir los expedientes que forman parte del archivo inactivo y concluido, al archivo judicial general;
+II.- Remitir los expedientes que forman parte del archivo inactivo y concluido, al archivo judicial general;
 
 III.- Declarar de oficio la caducidad de la instancia en materia civil, y la prescripción en materia penal, cuando éstas fueren procedentes y con estricto apego a derecho;
 
@@ -1865,9 +1931,9 @@ XV.- Las demás que le señalen este reglamento, las leyes de la materia y otras
 
 Cuando por necesidades en la Administración de Justicia, por suspensión o separación del cargo, haya cambio de Titular en los Órganos Jurisdiccionales, se elaborará acta de entrega y recepción con intervención de la contraloría interna, con las exigencias mínimas siguientes:
 
-l.- Acta circunstanciada con la fecha en que se entrega y recibe el despacho, por triplicado, debiendo firmar el Juez saliente y el entrante y dos empleados del Juzgado de mayor categoría;
+I.- Acta circunstanciada con la fecha en que se entrega y recibe el despacho, por triplicado, debiendo firmar el Juez saliente y el entrante y dos empleados del Juzgado de mayor categoría;
 
-ll.- El acta deberá contener el número de expedientes que se encuentren en trámite, conteniendo el nombre del actor y demandado y la clase de juicio, y en los asuntos penales, el número de registro, nombre del acusado, el delito que se le atribuye, si se encuentra privado de su libertad, gozando de libertad caucional o prófugo;
+II.- El acta deberá contener el número de expedientes que se encuentren en trámite, conteniendo el nombre del actor y demandado y la clase de juicio, y en los asuntos penales, el número de registro, nombre del acusado, el delito que se le atribuye, si se encuentra privado de su libertad, gozando de libertad caucional o prófugo;
 
 III.- De los expedientes que se encuentren pendientes de resolución,
 
@@ -1889,9 +1955,9 @@ IX.- De las consignaciones penales, demandas civiles u otras promociones pendien
 
 Son atribuciones de los Juzgados de Primera Instancia en Materia Civil, las siguientes:
 
-l.- Conocer de los actos prejudiciales, juicios civiles, mercantiles y, familiares cuando no se cuente en el distrito judicial con Juzgados especializados en esa materia;
+I.- Conocer de los actos prejudiciales, juicios civiles, mercantiles y, familiares cuando no se cuente en el distrito judicial con Juzgados especializados en esa materia;
 
-ll.- De los asuntos de jurisdicción voluntaria, cuyo conocimiento no corresponda específicamente a los jueces de lo familiar;
+II.- De los asuntos de jurisdicción voluntaria, cuyo conocimiento no corresponda específicamente a los jueces de lo familiar;
 
 III.- Conocer de las diligencias de los exhortos, requisitorias y despachos, relacionados con el derecho civil y mercantil; y,
 
@@ -1903,9 +1969,9 @@ IV.- De las demás que les reconozcan las disposiciones legales aplicables.
 
 Son atribuciones de los Juzgados de Primera Instancia en Materia Familiar, las siguientes:
 
-l.- Conocer de las controversias del orden familiar, y de todas las acciones del estado civil de las personas;
+I.- Conocer de las controversias del orden familiar, y de todas las acciones del estado civil de las personas;
 
-ll.- Conocer de los asuntos de ausencia, presunción de muerte y los que se refieran a cualquier cuestión relacionada con el patrimonio familiar;
+II.- Conocer de los asuntos de ausencia, presunción de muerte y los que se refieran a cualquier cuestión relacionada con el patrimonio familiar;
 
 III.- Conocer de los juicios sucesorios y de la acción de petición de herencia, cualquiera que sea su cuantía;
 
@@ -1923,9 +1989,9 @@ VII.- De las demás que les reconozcan las disposiciones legales aplicables.
 
 Son atribuciones de los Juzgados de Primera Instancia en Materia Penal, las siguientes:
 
-l.- Conocer de los procesos por delitos que se persiguen de oficio y por querella;
+I.- Conocer de los procesos por delitos que se persiguen de oficio y por querella;
 
-ll.- Conocer de los juicios que competen a los Jueces de Paz y Conciliación, así como de los asuntos que correspondan a los jueces municipales, cuando no existan éstos en el distrito judicial de su jurisdicción;
+II.- Conocer de los juicios que competen a los Jueces de Paz y Conciliación, así como de los asuntos que correspondan a los jueces municipales, cuando no existan éstos en el distrito judicial de su jurisdicción;
 
 III.- Visitar a los internos en los centros de reinserción social del Estado, por lo menos una vez al mes, en compañía del defensor social adscrito, debiendo dar cuenta de ello, al Consejo;
 
@@ -1939,19 +2005,21 @@ V.- De las demás que les reconozcan las disposiciones legales aplicables.
 
 Los Juzgados Penales Especializados en Medidas Cautelares serán competentes para conocer los asuntos en materia penal, respecto de cateos, arraigos y demás medidas cautelares y tendrán las atribuciones siguientes:
 
-l.- Atender las Solicitudes de arraigo o cateo de los Fiscales del Ministerio Público, sobre la investigación y autorizarlas en caso de ser procedentes; y,
+I.- Atender las Solicitudes de arraigo o cateo de los Fiscales del Ministerio Público, sobre la investigación y autorizarlas en caso de ser procedentes; y,
 
-ll.- Las demás que le otorguen el Código de Organización, este Reglamento, la Ley de la materia y las que le reconozcan otras disposiciones aplicables.
+II.- Las demás que le otorguen el Código de Organización, este Reglamento, la Ley de la materia y las que le reconozcan otras disposiciones aplicables.
 
-### Capítulo Sexto. De los Juzgados Especializados en Justicia para Adolescentes
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ABRIL DE 2017)</small>
+
+### Capítulo Sexto. De los Juzgados de Primera Instancia Especializados en Justicia para Adolescentes
 
 ###### Artículo 180.
 
 Son atribuciones de los Juzgados Especializados en Justicia para Adolescentes, las siguientes:
 
-l.- Librar la orden de presentación, de comparecencia, de cateo, de arraigo en el lugar de residencia habitual del adolescente, de apertura de correspondencia, de aseguramiento de bienes, de prohibición de ir a lugares determinados y de prohibición de acercarse a personas determinadas;
+I.- Librar la orden de presentación, de comparecencia, de cateo, de arraigo en el lugar de residencia habitual del adolescente, de apertura de correspondencia, de aseguramiento de bienes, de prohibición de ir a lugares determinados y de prohibición de acercarse a personas determinadas;
 
-ll.- Decretar la libertad vigilada del adolescente, las medidas cautelares establecidas en la Ley de la materia, inclusive el internamiento conforme a la misma, y la reparación del daño de acuerdo a lo establecido en la Ley de la materia;
+II.- Decretar la libertad vigilada del adolescente, las medidas cautelares establecidas en la Ley de la materia, inclusive el internamiento conforme a la misma, y la reparación del daño de acuerdo a lo establecido en la Ley de la materia;
 
 III.- Resolver sobre la diferencia en la opinión del tratamiento jurídico entre el menor y sus padres, tutores o quienes ejerzan la patria potestad y su defensor, así como de la modificación de la medida cautelar;
 
@@ -1961,7 +2029,9 @@ V.- Sujetar al adolescente al proceso en los casos que establece la Ley de la ma
 
 VI.- Sancionar con multa a los funcionarios que en la ejecución de las medidas vulneren o amenacen por acción u omisión, los derechos de los menores, así como informar a la autoridad competente para la aplicación de la sanción penal y administrativa a que hubiere lugar; y,
 
-VII.- Las demás que le otorguen el Código de Organización, este Reglamento, la ley de la materia y otras disposiciones legales aplicables
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+VII.- Las que así establezcan el Código de Organización del Poder Judicial del Estado de Chiapas, este Reglamento, La Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y las demás disposiciones aplicables.
 
 ### Capítulo Séptimo. De los Juzgados Mixtos de Primera Instancia
 
@@ -2001,45 +2071,71 @@ También corresponderá a los Secretarios Generales de Acuerdos o Secretarios de
 
 En los Juzgados y Tribunales en que hubieren dos Secretarías, la primera de ellas se hará cargo de las funciones y disciplinas del personal; en el caso de los Juzgados Mixtos, lo será la Secretaría Civil.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 187.
 
-A los Secretarios de las Salas y de los Juzgados, corresponde la guarda, depósito y custodia de la documentación, su archivo, y la conservación de los bienes y objetos consignados; asimismo, responderán del debido depósito de las instituciones legales, de cuantos valores se efectúen.
+A los Secretarios de Acuerdos de las Salas, Tribunales de Alzada especializados en justicia para adolescentes y de los Juzgados, corresponde la guarda, depósito y custodia de la documentación y su archivo; asimismo, responderán del debido depósito de cuantos valores se efectúen en las instituciones legales.
 
 ###### Artículo 188.
 
 Los Secretarios Judiciales en general, deberán abstenerse de actuar en algún juicio en los casos establecidos en la ley, y si no lo hicieren, podrán ser recusados y hacerse acreedores a la sanción que establezca el Reglamento del Régimen Disciplinario.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 189.
 
-Los Secretarios de Acuerdos de las Salas y de los Juzgados, únicamente podrán entregar para consulta los expedientes a quienes se encuentren debidamente autorizados en autos.
+Los Secretarios de Acuerdos de las Salas, Tribunales de Alzada especializados en justicia para adolescentes y de los Juzgados, únicamente podrán entregar para consulta los expedientes a quienes se encuentren debidamente autorizados en autos.
 
-### Capítulo Segundo. De los Secretarios Generales de Acuerdos de Sala
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ABRIL DE 2017)</small>
+
+### Capítulo Segundo
+
+De los Secretarios Generales de Acuerdos de las Salas Regionales y de los Tribunales de Alzada Especializados en Justicia para Adolescentes.
 
 ###### Artículo 190.
 
 Son atribuciones y deberes de los Secretarios Generales de Acuerdos, las siguientes:
 
-I.- Dar cuenta diariamente al Presidente de Sala de los asuntos que se reciban para su asignación y trámite;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
 
-II.- Llevar el control, registro y seguimiento en los libros de Gobierno de los asuntos de la competencia de la Sala;
+I.- Dar cuenta diariamente al Presidente de la Sala Regional y del Tribunal de Alzada especializado en justicia para adolescentes de los asuntos que se reciban para su asignación y trámite;
 
-III.- Elaborar el orden del día, respecto a los proyectos de resolución que presenten los Magistrados en Sesión de Pleno de Sala;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
 
-IV.- Levantar las actas respectivas, en las Sesiones de Pleno de Sala, dando fe del sentido de las resoluciones y si éstas fueron aprobadas por mayoría de votos o por unanimidad, quedando bajo su responsabilidad la documentación correspondiente, a efecto de darle el trámite que proceda;
+II.- Llevar el control, registro y seguimiento en los libros de Gobierno de los asuntos de la competencia de las Salas Regionales y de los Tribunales de Alzada especializados en justicia para adolescentes;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+III.- Elaborar el orden del día, respecto a los proyectos de resolución que presenten los Magistrados en Sesión de Pleno de Sala Regional o Tribunal de Alzada especializado en justicia para adolescentes;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+IV.- Elaborar las actas respectivas, en las Sesiones de Pleno de Sala Regional o Tribunal de Alzada especializado en justicia para adolescentes, dando fe del sentido de las resoluciones y si éstas fueron aprobadas por mayoría de votos o por unanimidad, quedando bajo su responsabilidad la documentación correspondiente, a efecto de darle el trámite que proceda;
 
 V.- Notificar por estrados los asuntos que listen los Magistrados para resolver y las listas de acuerdos y turnarlas a la Dirección de informática para su publicación en la página de Internet del Tribunal Superior de Justicia del Estado;
 
-VI.- Expedir las certificaciones que obren en los expedientes que sean competencia de la Sala;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+VI.- Expedir las certificaciones que obren en los expedientes que sean competencia de la Sala Regional o del Tribunal de Alzada especializado en justicia para adolescentes;
 
 VII.- Notificar oportunamente por estrados los días de suspensión de labores y los períodos de vacaciones, de acuerdo a las determinaciones del Consejo de la Judicatura;
 
-VIII.- Recibir los expedientes turnados a la Sala y las promociones respectivas;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
 
-IX.- Recibir en custodia los documentos que amparen valores relacionados con los asuntos que sean de la competencia de la Sala;
+VIII.- Recibir los expedientes turnados a la Sala Regional o al Tribunal de Alzada especializado en justicia para adolescentes y las promociones respectivas;
 
-X.- Llevar el control de los asuntos que se tramiten en la Sala, turnando los expedientes a los Actuarios para el desahogo de las diligencias respectivas, supervisando el trabajo de éstos;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
 
-XI.- Integrar, custodiar y controlar los libros de registro, índice y demás que se requieran para el funcionamiento de la Sala;
+IX.- Recibir en custodia los documentos que amparen valores relacionados con los asuntos que sean de la competencia de la Sala Regional o del Tribunal de Alzada especializado en justicia para adolescentes;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+X.- Llevar el control de los asuntos que se tramiten en la Sala Regional o en el Tribunal de Alzada especializado en justicia para adolescentes, turnando los expedientes a los Actuarios para el desahogo de las diligencias respectivas, supervisando el trabajo de éstos;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+XI.- Integrar, custodiar y controlar los libros de registro, índice y demás que se requieran para el funcionamiento de la Sala Regional o del Tribunal de Alzada especializado en justicia para adolescentes;
 
 XII.- Remitir al Archivo Judicial todos aquellos expedientes relativos a los asuntos terminados; y,
 
@@ -2053,7 +2149,9 @@ En el libro de Gobierno registrarán el número de toca o expediente que se le a
 
 I.- El número de expediente de origen;
 
-II-. La fecha de recibido en la Sala;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+II.- La fecha de recibido en la Sala Regional o en el Tribunal de Alzada especializado en justicia para adolescentes;
 
 III.- El número de oficio con el que el Juzgado remite el expediente;
 
@@ -2085,23 +2183,31 @@ XVI.- La fecha en que se recibe el amparo;
 
 XVII.- La fecha de devolución del expediente al Juzgado de origen; y,
 
-XVIII.- Los demás que a juicio del Magistrado Presidente de la Sala considere necesario.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+XVIII.- Los demás que a juicio del Magistrado Presidente de la Sala Regional o del Tribunal de Alzada especializado en justicia para adolescentes considere necesario.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
 
 ###### Artículo 192.
 
-Para ser Secretario General de Acuerdos de Salas se requiere cumplir con lo dispuesto por el artículo 65, del Código de Organización del Poder Judicial del Estado.
+Para ser Secretario General de Acuerdos de Salas Regionales o de los Tribunales de Alzada especializados en justicia para adolescentes se requiere cumplir con lo dispuesto por el artículo 65 del Código de Organización del Poder Judicial del Estado.
 
 ### Capítulo Tercero. De los Secretarios de Estudio y Cuenta
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 193.
 
-Las Salas Regionales y Especializadas en Justicia para Adolescentes contarán, con el número necesario de Secretarios de Estudio y Cuenta que permita el presupuesto, para el despacho de los asuntos del cuerpo Colegiado correspondiente.
+Las Salas Regionales y los Tribunales de Alzada especializados en justicia para adolescentes contarán, con el número necesario de Secretarios de Estudio y Cuenta que permita el presupuesto, para el despacho de los asuntos del cuerpo Colegiado correspondiente.
 
 ###### Artículo 194.
 
 El Secretario de Estudio y Cuenta tendrá los deberes y obligaciones siguientes:
 
-I.- Formular los proyectos de resolución que le sean encomendados y que sean competencia de la Sala de su adscripción;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+I.- Formular los proyectos de resolución que le sean encomendados y que sean competencia de la Sala Regional o del Tribunal de Alzada especializado en justicia para adolescentes de su adscripción;
 
 II.- Llevar un libro de control de expedientes de los asuntos que se le turnen, asentando la fecha de recepción y la de devolución con el proyecto de resolución respectivo;
 
@@ -2155,7 +2261,7 @@ XIX.- Tener bajo su responsabilidad el archivo, la guarda, depósito y custodia 
 
 XX.- Vigilar la conducta de los empleados de su Secretaría, dando aviso al superior de las faltas o irregularidades que observe;
 
-XXl.- Hacer las notificaciones que le encomienden los Códigos de Procedimientos Civiles, Penales, Comercio, las Salas Regionales Colegiadas y Unitarias y el Consejo; y,
+XXI.- Hacer las notificaciones que le encomienden los Códigos de Procedimientos Civiles, Penales, Comercio, las Salas Regionales Colegiadas y Unitarias y el Consejo; y,
 
 XXII.- Guardar reserva en los asuntos del Juzgado y desempeñar todas las demás funciones que le señalen este Reglamento y las demás disposiciones legales aplicables.
 
@@ -2163,9 +2269,9 @@ XXII.- Guardar reserva en los asuntos del Juzgado y desempeñar todas las demás
 
 Los Secretarios de Acuerdos tienen a su cargo el manejo y custodia de los libros siguientes:
 
-l.- De Gobierno; en él deberán anotarse, en estricto orden los expedientes que se tramitan en el Juzgado, haciéndose las anotaciones conforme avance el trámite de los mismos, de conformidad con los lineamentos para su llenado;
+I.- De Gobierno; en él deberán anotarse, en estricto orden los expedientes que se tramitan en el Juzgado, haciéndose las anotaciones conforme avance el trámite de los mismos, de conformidad con los lineamentos para su llenado;
 
-ll.- De Índice alfabético; en él se registrarán los expedientes que se tramitan en el Juzgado, por orden alfabético del actor o actores, considerándose el primer apellido;
+II.- De Índice alfabético; en él se registrarán los expedientes que se tramitan en el Juzgado, por orden alfabético del actor o actores, considerándose el primer apellido;
 
 III.- De registro de correspondencia; en él se asentarán todos los escritos que se reciban en el Juzgado;
 
@@ -2177,7 +2283,7 @@ VI.- De registro de exhortos recibidos;
 
 VII.- De registro de exhortos remitidos;
 
-VIIl.- De expedientes turnados para dictar sentencias;
+VIII.- De expedientes turnados para dictar sentencias;
 
 IX.- De apelaciones;
 
@@ -2223,9 +2329,9 @@ Cuando un Secretario haya de separarse del despacho, deberá entregar a su suces
 
 Los Secretarios Proyectistas tendrán a su cargo las facultades y obligaciones siguientes:
 
-l.- Formular los proyectos de resolución respecto a los asuntos que les sean encomendados y de la competencia de los Juzgados de su adscripción;
+I.- Formular los proyectos de resolución respecto a los asuntos que les sean encomendados y de la competencia de los Juzgados de su adscripción;
 
-ll.- Llevar un libro de control de expedientes de los asuntos que les sean encomendados a fin de registrar las fechas de recepción y devolución de los mismos, y las demás que les atribuyan las leyes y los reglamentos.
+II.- Llevar un libro de control de expedientes de los asuntos que les sean encomendados a fin de registrar las fechas de recepción y devolución de los mismos, y las demás que les atribuyan las leyes y los reglamentos.
 
 ### Capítulo Sexto. De los Secretarios Actuarios
 
@@ -2237,9 +2343,9 @@ Los órganos jurisdiccionales, contarán para la eficaz y expedita Administraci�
 
 A los Secretarios Actuarios les corresponde la ejecución de embargos, lanzamientos, notificaciones no encomendadas a otros funcionarios y demás actos cuya naturaleza lo requiera. Las facultades y obligaciones de dichos funcionarios, entre otras, son las siguientes:
 
-l.- Asistir diariamente al Órgano Jurisdiccional de su adscripción, durante las horas de oficina;
+I.- Asistir diariamente al Órgano Jurisdiccional de su adscripción, durante las horas de oficina;
 
-ll.- Recibir diariamente de los Secretarios de Acuerdos los expedientes de notificaciones personales o diligencias que deben de llevarse a cabo fuera de la oficina; firmando las constancias de recibido;
+II.- Recibir diariamente de los Secretarios de Acuerdos los expedientes de notificaciones personales o diligencias que deben de llevarse a cabo fuera de la oficina; firmando las constancias de recibido;
 
 III.- Efectuar de manera oportuna y eficaz las notificaciones personales y las diligencias que se le indiquen, devolviendo los expedientes, previa anotación en el libro respectivo, dando cuenta a su superior jerárquico de sus actuaciones;
 
@@ -2321,7 +2427,7 @@ XIX.- Recabar informes estadísticos sobre la actividad jurisdiccional de los Ju
 
 XX.- Dar a conocer al Consejo las quejas que presenten ante esa Dirección, de las faltas en que incurran los Servidores y Funcionarios Públicos de los Juzgados a su cargo;
 
-XXl.- Comunicar al Consejo las vacantes que existan en los Juzgados a su cargo; y,
+XXI.- Comunicar al Consejo las vacantes que existan en los Juzgados a su cargo; y,
 
 XVII.- Las demás que le confiera el Consejo de la Judicatura o su Presidente.
 
@@ -2351,9 +2457,9 @@ En el Municipio donde no haya Juzgado de Primera Instancia podrá haber un Juzga
 
 Por cada Juzgado de Paz y Conciliación y de Paz y Conciliación Indígena habrá:
 
-l.- Un Juez;
+I.- Un Juez;
 
-ll.- El número de Secretarios y Actuarios que a juicio del Pleno del Consejo de la Judicatura se requieran; y,
+II.- El número de Secretarios y Actuarios que a juicio del Pleno del Consejo de la Judicatura se requieran; y,
 
 III.- Los demás Servidores Públicos que designe el Consejo.
 
@@ -2367,9 +2473,9 @@ Los Jueces de Paz y Conciliación y de Paz y Conciliación Indígena, y los supl
 
 Los Jueces de Paz y Conciliación, de Paz y Conciliación Indígena, tendrán además de las señaladas en el Código de Organización del Poder Judicial, las siguientes funciones:
 
-l.- Mediar y conciliar a las partes en el ámbito civil, familiar, penal y mercantil para lograr una amigable composición;
+I.- Mediar y conciliar a las partes en el ámbito civil, familiar, penal y mercantil para lograr una amigable composición;
 
-ll.- Intervenir en las primeras diligencias en los delitos flagrantes e inmediatamente turnarlos al Ministerio Público que corresponda;
+II.- Intervenir en las primeras diligencias en los delitos flagrantes e inmediatamente turnarlos al Ministerio Público que corresponda;
 
 III.- Dar protección a las víctimas del delito;
 
@@ -2411,9 +2517,9 @@ Las multas que impongan los Jueces Municipales ingresarán a la tesorería de su
 
 Para acreditar el servicio social, se requiere:
 
-l.- Prestar servicio por el tiempo que señale la Institución educativa correspondiente;
+I.- Prestar servicio por el tiempo que señale la Institución educativa correspondiente;
 
-ll.- Observar buena conducta;
+II.- Observar buena conducta;
 
 III.- Actuar con diligencia en el desempeño de la función que se le encomiende; y,
 
@@ -2473,7 +2579,7 @@ La Licenciada María Itzel Ballinas Barbosa, Secretaria Ejecutiva del Consejo de
 
 Tuxtla Gutiérrez, Chiapas; a los 10 diez días del mes de julio de 2009, dos mil nueve.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 12 DE FEBRERO DE 2014.
 
@@ -2482,3 +2588,15 @@ P.O. 12 DE FEBRERO DE 2014.
 Segundo.- El presente acuerdo entrará en vigor el día de su aprobación.
 
 Tercero.- Publíquese este acuerdo en el Periódico Oficial del Estado y en la página de Internet del Consejo de la Judicatura del Estado.
+
+P.O. 26 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. NO. 1883-A-2017 REFORMA AL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS”.]
+
+Primero.- El presente Decreto entrará en vigor el día posterior a su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los procedimientos que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en las presentes reformas, se resolverán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+Tercero.- Publíquese el presente Decreto en el Periódico Oficial de la Entidad.
+
+Cuarto.- Cúmplase.
