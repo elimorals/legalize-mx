@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109622"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-17"
-last_updated: "2017-02-01"
+last_updated: "2017-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,27 +21,101 @@ state: "CHP"
 ---
 # LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS
 
-LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS
+LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2025.
 
-Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 17 de junio de 2015.
+Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
-Manuel Velasco Coello, Gobernador del Estado de Chiapas, a sus habitantes hace saber: Que la Honorable Sexagésima Quinta Legislatura del mismo, se ha servido dirigir al Ejecutivo a su cargo el siguiente:
+HORACIO SANCHEZ UNZUETA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, A SUS HABITANTES SABED:
 
-Decreto Número 248
+QUE LA QUINCUAGESIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
-La Honorable Sexagésima Quinta Legislatura Constitucional del Estado Libre y Soberano de Chiapas, en uso de las facultades que le concede la Constitución Política local; y,
+DECRETO 533
 
-C o n s i d e r a n d o…
+LA QUINCUAGESIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI DECRETA LO SIGUIENTE:
 
-Por las consideraciones antes expuestas, el Honorable Congreso del Estado de Chiapas, ha tenido a bien emitir el siguiente Decreto de:
+[...]
 
-Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Chiapas
+LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PUBLICAS DEL ESTADO DE SAN LUIS POTOSI
 
-## Título Primero. Disposiciones Generales
+## TITULO PRIMERO.
 
-### Capítulo Único. Generalidades
+### CAPITULO UNICO.
+
+DISPOSICIONES GENERALES.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 1o.
+
+La presente Ley es de observancia general y obligatoria en el Estado de San Luis Potosí, y rige las relaciones de trabajo de los poderes, Legislativo; Ejecutivo; y Judicial y de los municipios, así como de los organismos públicos descentralizados, órganos jurisdiccionales, tribunales constitucionalmente autónomos y empresas de participación estatal o municipal con sus trabajadores.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2014)</small>
+
+###### ARTICULO 2o.
+
+El trabajo es un derecho y un deber social, y ha de efectuarse en condiciones de equidad e igualdad entre mujeres y hombres, que aseguren la integridad física y mental, así como un nivel económico decoroso para las personas trabajadoras y su familia, en un marco de libertad y dignidad, no discriminación y libre de violencia.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+
+No podrán establecerse distinciones entre las personas trabajadoras del servicio público por motivo de origen étnico, nacional o regional, sexo, género, edad, discapacidad, condición social, económica o de salud, apariencia física, por embarazo, opiniones, preferencias sexuales, pertenecer a grupos y/o comunidades de diversidad sexual o de género, políticas o culturales, estado civil, por tener tatuajes o modificaciones corporales, costumbres, raza, ideologías, creencias religiosas, migración o cualquier otra condición que dé origen a conductas que atenten contra la dignidad humana o que tengan por objeto anular o menoscabar los derechos y libertades de las personas.
+
+###### ARTICULO 3o.
+
+Los derechos que otorga esta ley son irrenunciables y por lo tanto de orden público.
+
+> <small>(F. DE E., P.O. 17 DE MAYO DE 1996)</small>
+
+###### ARTICULO 4o.
+
+En lo no previsto en este ordenamiento, se aplicarán supletoriamente y, en su orden, la Ley Federal del Trabajo, la Ley Federal de los Trabajadores al Servicio del Estado, los principios generales del Derecho y de la justicia social, la jurisprudencia, la costumbre y la equidad. Si aún persiste la duda se resolverá con la interpretación más favorable al trabajador.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+Al aplicarse supletoriamente la Ley Federal del Trabajo, tanto las funciones correspondientes al secretario instructor, como las destinadas al juez, serán de la competencia del Pleno del Tribunal, salvo lo expresamente dispuesto en la presente Ley.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 5o.
+
+Para efectos de la presente ley, se entenderán por instituciones públicas de gobierno, a los Poderes Legislativo, Ejecutivo y Judicial, a los municipios, organismos públicos descentralizados, órganos jurisdiccionales, tribunales constitucionalmente autónomos, y empresas de participación estatal y municipal.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2021)</small>
+
+###### ARTICULO 5 Bis.
+
+Para los efectos de esta Ley se entiende por:
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2023)</small>
+
+I. Acoso sexual: a una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo del poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2023)</small>
+
+II. Hostigamiento: al ejercicio del poder en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral, que se expresa en conductas verbales, físicas o ambas;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2023)</small>
+
+III. Violencia y acoso laboral: al conjunto de comportamientos y prácticas inaceptables, o de amenazas de tales comportamientos y prácticas, ya sea que se manifiesten una sola vez o de manera repetida, que tengan por objeto, que causen o sean susceptibles de causar, un daño físico, psicológico, sexual o económico, e incluye la violencia y el acoso por razón de género, y
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2023)</small>
+
+IV. Violencia y acoso por razón de género: se le designa así a la violencia y el acoso que van dirigidos contra las personas por razón de su sexo o género, o que afectan de manera desproporcionada a personas de un sexo o género determinado, e incluye el acoso sexual.
+
+###### ARTICULO 6o.
+
+Las disposiciones de esta ley son de orden público, por lo que no producirán efecto legal ni impedirán el goce y el ejercicio de los derechos que en ésta se consignan, la estipulación escrita o verbal, que establezca:
+
+I.- Una jornada semanal mayor de treinta y cinco horas;
+
+II.- Labores peligrosas e insalubres, así como el trabajo nocturno, para menores de dieciséis años;
+
+III.- Una jornada inhumana por notoriamente excesiva o peligrosa para la vida del trabajador;
+
+IV.- Un salario inferior al mínimo del área económica respectiva; y
+
+V.- Un plazo mayor de quince días para el pago de las retribuciones.
 
 ###### Artículo 1°.
 
@@ -213,2138 +287,2192 @@ La normatividad Estatal y Municipal, deberá garantizar el ejercicio, respeto, p
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, impulsarán la cultura de respeto, promoción y protección de derechos de niñas, niños y adolescentes, basada en los principios rectores de la Ley General y de la presente Ley, a través de la ejecución de las acciones coordinadas que para el efecto se establezcan en los Programas Estatal y Municipales respectivamente.
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-En todo lo no previsto por esta Ley, se aplicará supletoriamente la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la Ley General, y (sic) Constitución Política Local; a falta de disposición expresa, se estará a los principios generales que deriven de dichos ordenamientos y a falta de éstos, a los principios generales del derecho, privilegiando en todo momento los principios rectores de esta Ley.
+La categoría de trabajador de confianza depende de la naturaleza de las funciones desempeñadas y no de la designación que se dé al puesto.
 
-###### Artículo 11.
+Son funciones de confianza las de dirección, inspección, vigilancia y fiscalización, cuando tengan carácter general, así como todas aquellas que por su naturaleza se definan como tales en los catálogos o tabuladores generales de puestos a que se refiere el artículo 9o. de la presente ley.
 
-En la aplicación de la presente Ley se tomarán en cuenta las condiciones particulares de niñas, niños y adolescentes en los diferentes grupos de población, a fin de proteger el ejercicio igualitario de todos sus derechos.
+###### ARTICULO 11.
 
-###### Artículo 12.
+Se consideran trabajadores de base aquellos que prestan un servicio permanente a las instituciones públicas a que se refiere el artículo 1o. de la presente ley, en virtud de nombramiento o por figurar en las nóminas.
 
-Las autoridades del Estado y Municipios, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en condición de desplazamiento interno, en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, circunstancias de nacimiento, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
+###### ARTICULO 12.
 
-Para lo anterior, se les otorgará al menos, alimentos indispensables, agua potable, cobijo y alojamiento básicos, vestido adecuado, servicios médicos y de saneamiento indispensables, así como la educación básica obligatoria.
+Son trabajadores eventuales, los que prestan un servicio personal subordinado, por tiempo u obra determinados o por cantidad presupuestada por la institución pública respectiva, para la realización de una obra o servicio.
 
-###### Artículo 13.
+###### ARTICULO 13.
 
-Corresponde al Estado, municipios, a la familia, a la comunidad y a la sociedad en general, promover e impulsar una cultura de protección, auxilio y respeto a los derechos de las niñas, niños y adolescentes; así como garantizarles un nivel adecuado de vida.
+Se respetará la libertad de los trabajadores de base para formar parte del sindicato que les corresponda.
 
-Asimismo, se deberá promover entre las diversas dependencias e instituciones estatal y municipal, el respeto y cuidado a los derechos de las niñas, niños y adolescentes, además de sensibilizar y ofrecer capacitación permanente a cada uno de éstos para que en todo acto que realicen privilegien el interés superior de la niñez, sin distinción alguna de raza, etnia color, sexo, idioma, lengua, circunstancia de nacimiento o cualquier otra condición propia de quienes ejerzan la patria potestad, su guarda o tutela, discapacidad, religión, situación migratoria, opinión política o de cualquier otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición de sus padres, representantes o responsables de su familia.
+###### ARTICULO 14.
 
-###### Artículo 14.
+Los trabajadores de confianza y los eventuales no formarán parte del sindicato, ni podrán ser representantes de los trabajadores de base en los organismos o comisiones que se integren conforme a esta ley.
 
-Toda persona que tenga conocimiento de hechos o actos que atenten, vulneren o trasgredan los derechos de las niñas, niños y adolescentes, deberán hacerlo inmediatamente del conocimiento a las autoridades competentes, de manera que pueda seguirse la investigación correspondiente y en su caso, instrumentar las medidas cautelares, de protección y restitución integrales procedentes en términos de las disposiciones aplicables.
+## TITULO SEGUNDO.
 
-## Título Segundo. De los Derechos de Niñas, Niños y Adolescentes
+DE LOS TRABAJADORES.
 
-### Capítulo Primero. Disposiciones Generales
+### CAPITULO I.
 
-###### Artículo 15.
+DISPOSICIONES GENERALES.
 
-Para efectos de la presente Ley, son derechos de niñas, niños y adolescentes, de manera enunciativa más no limitativa, los siguientes:
+###### ARTICULO 7o.
 
-I. Derecho a la vida, a la supervivencia y al desarrollo.
+Para efectos de la presente ley, se entiende por trabajador toda persona física que presta un servicio personal subordinado a las instituciones públicas a que se refiere el artículo 1o. de la misma, en virtud de nombramiento expedido por funcionario competente.
 
-II. Derecho de prioridad.
+###### ARTICULO 8o.
 
-III. Derecho a la identidad y a la certeza jurídica.
+Los trabajadores a que se refiere el artículo anterior podrán ser:
 
-IV. Derecho a vivir en familia.
+I.- De confianza;
 
-V. Derecho a la igualdad sustantiva.
+II.- De base; y
 
-VI. Derecho a no ser discriminado.
+III.- Eventuales.
 
-VII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral.
+###### ARTICULO 9o.
 
-VIII. Derecho de acceso a una vida libre de violencia y a la integridad personal.
+Los trabajadores de las instituciones públicas de gobierno, se clasificarán conforme a los catálogos o tabuladores generales de puestos que al efecto se establezcan en sus leyes orgánicas o reglamentos internos. En la formulación, aplicación y actualización del catálogo de puestos, participarán los titulares de las dependencias o sus representantes, conjuntamente con los sindicatos correspondientes.
 
-IX. Derecho a la protección de la salud y a la seguridad social.
+###### ARTICULO 15.
 
-X. Derecho a la inclusión de niñas, niños y adolescentes con discapacidad.
+Las personas mayores de dieciséis años podrán prestar libremente sus servicios a las instituciones públicas del Estado, de los ayuntamientos y demás entidades públicas que señala este ordenamiento, disfrutarán de plena capacidad jurídica, gozarán de los beneficios de esta ley y estarán obligados en sus términos.
 
-XI. Derecho a la educación.
+### CAPITULO II.
 
-XII. Derecho al descanso y al esparcimiento.
+DE LA CAPACITACION Y ADIESTRAMIENTO.
 
-XIII. Derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura.
+###### ARTICULO 16.
 
-XIV. Derecho a la libertad de expresión y de acceso a la información.
+Los derechos de los elementos operativos de las fuerzas de seguridad pública del Estado y de los municipios, se sujetarán a sus propios ordenamientos.
 
-XV. Derecho a la participación.
+###### ARTICULO 17.
 
-XVI. Derecho de asociación y reunión.
+Sólo se podrá cambiar de adscripción a un trabajador dentro de la misma institución pública de gobierno o fuera de ella, por las siguientes causas:
 
-XVII. Derecho a la intimidad.
+I.- Temporalmente por necesidades del servicio, pero sólo con anuencia del trabajador;
 
-XVIII. Derecho a la movilidad humana y al libre tránsito.
+II.- Por reorganización, según lo determinen las condiciones generales de trabajo;
 
-XIX. Derecho a la seguridad jurídica y al debido proceso.
+III.- Por desaparición de la institución pública de gobierno;
 
-XX. Derechos de niñas, niños y adolescentes migrantes.
+IV.- Por permuta autorizada;
 
-XXI. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión.
+V.- Por fallo del Tribunal Estatal de Conciliación y Arbitraje;
 
-El Estado y sus municipios, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición, a través de la ejecución de las acciones coordinadas que para el efecto se establezcan en los Programas Estatal y Municipales, respectivamente.
+VI.- Por solicitud expresa del propio trabajador, o por convenio que celebre con el titular de la institución pública respectiva; y
 
-### Capítulo Segundo. Del Derecho a la Vida, a la Supervivencia y al Desarrollo
+VII.- Cuando existan causas imputables al trabajador, que hagan imposible que continúe prestando sus servicios en la misma área o dependencia.
 
-###### Artículo 16.
+###### ARTICULO 18.
 
-Las niñas, niños y adolescentes tienen derecho a que se les preserve la vida, a la supervivencia y al desarrollo.
+Por ser de interés público y social promover y vigilar la capacitación y el adiestramiento de los trabajadores, las instituciones públicas de gobierno deberán establecer centros de capacitación y adiestramiento para los trabajadores, donde celebren cursos para que éstos actualicen y perfeccionen sus conocimientos, aptitudes y habilidades que les permitan una mayor eficiencia y eficacia en el desempeño de sus labores.
 
-Las autoridades e instituciones estatales y municipales, en el ámbito de sus respectivas competencias, deberán atender de manera inmediata las acciones necesarias para garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como investigar y sancionar efectivamente los actos de privación de la vida.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2016)</small>
 
-###### Artículo 17.
+### CAPITULO I.
 
-Las niñas, niños y adolescentes deberán disfrutar de una vida plena y digna en igualdad de condiciones a fin de garantizar su seguridad y desarrollo integral.
+DISPOSICIONES GENERALES.
 
-###### Artículo 18.
+###### ARTICULO 19.
 
-Las niñas, niños y adolescentes tienen el derecho a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos, ni ser instrumento para la comisión de un delito u objeto del mismo.
+La capacitación y el adiestramiento se impartirán a los trabajadores en las oficinas de las instituciones públicas de gobierno o fuera de ellas, pudiendo ser en el interior del Estado o en cualquier otro lugar del país, por lo menos una vez al año, conforme al reglamento de capacitación y adiestramiento respectivo.
 
-### Capítulo Tercero. Del Derecho de Prioridad
+###### ARTICULO 20.
 
-###### Artículo 19.
+Los trabajadores deben:
 
-Las Niñas, niños y adolescentes tienen derecho a que se les asegure prioridad en el ejercicio de todos sus derechos, especialmente a que:
+I.- Asistir puntualmente a los cursos, sesiones y demás actividades que formen el programa de capacitación y adiestramiento para el trabajo, practicando las indicaciones de los instructores; y
 
-I. Se les brinde protección y socorro en cualquier circunstancia y con la oportunidad necesaria, por conducto de las autoridades competentes.
+II.- Cuando sea necesario someterse a exámenes y pruebas de evaluación sobre conocimientos y aptitudes, que sean requeridos para el desempeño de un puesto o actividad.
 
-II. Se les atienda antes que a las personas adultas en todos los servicios, en igualdad de condiciones; y,
+### CAPITULO II.
 
-III. Se les considere para el diseño y ejecución de las políticas públicas necesarias para la protección de sus derechos.
+DE LA JORNADA DE TRABAJO.
 
-###### Artículo 20.
+###### ARTICULO 21.
 
-En todas las medidas concernientes a niñas, niños y adolescentes que tomen las instituciones de los Poderes del Estado y los municipios, se tomarán en cuenta, como consideración primordial, el interés superior de la niñez. Dichas autoridades elaborarán los mecanismos necesarios para garantizar éste principio.
+Será facultad de los titulares de las entidades públicas respectivas, establecer las condiciones generales de trabajo, con acuerdo del sindicato correspondiente, a través de su directiva.
 
-### Capítulo Cuarto. Del Derecho a la Identidad y a la Certeza Jurídica
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2019)</small>
 
-###### Artículo 21.
+Las condiciones de trabajo estarán basadas en los principios de no discriminación, y de igualdad sustantiva, en ningún caso podrán ser inferiores a las fijadas en esta Ley y deberán ser proporcionales a la importancia de los servicios e iguales para trabajos iguales, sin que puedan establecerse diferencias y/o exclusiones por motivo de sexo, edad, raza, nacionalidad, algún tipo de discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, condiciones de embarazo, responsabilidades familiares o estado civil y/o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-Las niñas, niños y adolescentes desde su nacimiento, tienen derecho a:
+###### ARTICULO 22.
 
-I. Ser inscritos en el Registro Civil respectivo de forma inmediata y gratuita, registrando su nombre y dos apellidos, y a que se les expida en forma ágil y sin costo la primera copia certificada del acta correspondiente, en los términos que establece el Código Civil para el Estado de Chiapas.
+Las condiciones generales de trabajo estipularán cuando menos:
 
-II. Contar con nacionalidad, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales y la Constitución Política local.
+I.- La intensidad, esmero y calidad del trabajo;
 
-III. Conocer su filiación y su origen en la medida de lo posible y siempre que ello sea acorde con el interés superior de la niñez.
+II.- Los riesgos de trabajo, adoptando las medidas necesarias para evitarlos;
 
-IV. Vivir y crecer en el seno de una familia, a mantener relaciones personales y contacto directo con ambos padres de modo regular, aún cuando haya necesidad de ser separado de los mismos, siempre que ello sea acorde con el interés superior de la niñez.
+III.- Las fechas y condiciones en que los trabajadores se sometan a exámenes previos y periódicos de salud;
 
-V. Preservar su identidad, incluidos el nombre, la nacionalidad y su pertenencia cultural, así como sus relaciones familiares.
+IV.- Las correcciones disciplinarias y normas de aplicación;
 
-VI. A recibir el apoyo de los Poderes del Estado así como de los municipios en lo relativo al ejercicio y respeto de sus derechos por sí o a través de su representante, tutor o las instituciones creadas para tal efecto.
+V.- El lugar y horario en donde se presten los servicios;
 
-VII. A conservar su cultura, idiosincrasia, idioma o lengua de origen.
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
 
-VIII. Que cuando un niño, niña o adolescentes sea atendido por alguna institución de salud, educativa o cualquier autoridad estatal o municipal, y se desconozca su identidad, de manera prioritaria e inmediata, en coordinación con la Procuraduría General de Justicia del Estado de Chiapas, se deberá localizar a los progenitores o a falta de estos a las personas que tienen a su cargo a los mismos.
+VI.- Las medidas preventivas de seguridad e higiene que deben adoptarse para que no se desempeñen trabajos que pongan en riesgo la integridad física de los trabajadores;
 
-Cuando existan dificultades para conocer la filiación u origen de una niña, niño o adolescentes, las autoridades estatales y municipales colaborarán y facilitarán los medios para la investigación de la misma.
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
 
-IX. Las autoridades estatales y municipales preservarán la identidad de niñas, niños y adolescentes cuando sus derechos hayan sido vulnerados o en el caso de los adolescentes, cuando se presuma la comisión de un delito por su parte o hayan sido sentenciados. Los datos que incluyen la identidad, solo podrán ser utilizados por las autoridades de manera interna para los fines propios de su servicio y para la colaboración con otras autoridades en beneficio de los mismos.
+VII.- El libre acceso y desplazamiento de las personas en general, así como también de las personas trabajadoras que padezcan alguna discapacidad, todo ello en condiciones de igualdad y no discriminación, y
 
-X. Las Procuradurías de Protección Estatal y Municipales, en el ámbito de su competencia, deberán asistir a las demás autoridades en sus labores de investigación sobre la identidad de las niñas, niños y adolescentes, así como orientarlos y vigilar que los datos no sean divulgados de manera inapropiada.
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
 
-XI. La falta de documentación para acreditar la identidad de niñas, niños y adolescentes, no será obstáculo para garantizar sus derechos.
+VIII.- Las que fueran necesarias a fin de obtener más seguridad y eficacia en el trabajo.
 
-XII. Cuando haya procesos o procedimientos que deriven en cambio de apellidos de niñas, niños y adolescentes, éstos tendrán el derecho a opinar y a ser tomados en cuenta, directamente o por medio de su representante o tutor, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez. El Código de Procedimientos Civiles del Estado establecerá los mecanismos para tal efecto.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
 
-###### Artículo 22.
+###### ARTICULO 23.
 
-Para comprobar la identidad de los niños, niñas y adolescentes de nacionalidad extranjera, las autoridades estatales y municipales reconocerán los documentos extranjeros emitidos por la autoridad competente u otros medios previstos en la Ley de Migración y demás disposiciones aplicables.
+Deberán ser consultadas la Secretaría de Finanzas y las tesorerías municipales correspondientes, para la fijación de las condiciones generales de trabajo que impliquen erogación con cargos a los gobiernos estatal y municipal.
 
-En los casos en que niñas, niños o adolescentes cumplan con los requisitos para obtener la nacionalidad mexicana, las autoridades estatales y municipales les brindarán la información sobre dónde acudir y les brindarán todas las facilidades a efecto de darles un trato prioritario.
+### CAPITULO III.
 
-###### Artículo 23.
+DE LOS DIAS DE DESCANSO.
 
-Para efectos del reconocimiento de maternidad y paternidad de niñas, niños y adolescentes, y los derechos y obligaciones derivados de la filiación y parentesco, se estará a la legislación civil aplicable. Ante la negativa injustificada de practicarse la prueba pericial de paternidad o maternidad, la autoridad competente presumirá que es el padre o la madre respectivamente.
+###### ARTICULO 24.
 
-### Capítulo Quinto. Del Derecho a Vivir en Familia
+Las condiciones generales de trabajo surtirán efecto entre las partes, a partir de la fecha de su depósito en el Tribunal Estatal de Conciliación y Arbitraje, donde quedará un ejemplar.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
+###### ARTICULO 25.
 
-###### Artículo 24.
+Cualquier inconformidad que establezca controversia sobre las condiciones generales de trabajo, podrá ser ventilada ante el Tribunal Estatal de Conciliación y Arbitraje, el que resolverá en definitiva.
 
-Las niñas, niños y adolescentes tienen derecho a vivir en familia. La falta de recursos no podrá considerarse motivo suficiente para separarlos de sus padres o de los familiares con los que conviva, ni causa para la pérdida de la patria potestad. Estas condiciones imputables directas exclusivamente a la pobreza económica y material no constituirán la única justificación para separar a niñas, niños o adolescentes del cuidado de sus padres, sino que deberán considerarse como un indicio de la necesidad de proporcionar a la familia el apoyo apropiado.
+###### ARTICULO 26.
 
-###### Artículo 25.
+Por jornada de trabajo se entiende, el tiempo durante el cual el trabajador está a disposición de la institución pública de gobierno para prestar sus servicios.
 
-Niñas, niños y adolescentes no podrán ser separados de las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia, salvo que medie orden de autoridad competente, en la que se determine la procedencia de la separación, en cumplimiento a la preservación del interés superior de la niñez, de conformidad con las causas previstas en las leyes y mediante el debido proceso en el que se garantice el derecho de audiencia de todas las partes involucradas. En todos los casos, se tendrá en cuenta la opinión de niñas, niños y adolescentes conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+###### ARTICULO 27.
 
-Para ello, el Código de Procedimientos Civiles para el Estado de Chiapas establecerá los mecanismos para hacer efectiva la participación de los mismos.
+La jornada semanal acumulada será hasta de treinta y cinco horas, que podrá comprender siete horas diarias en la jornada diurna; seis horas en la nocturna y seis y media horas en la mixta siempre que el período nocturno abarque menos de dos horas y media, pues si excede, se considerará jornada nocturna.
 
-###### Artículo 26.
+###### ARTICULO 28.
 
-Los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente, no serán considerados como supuestos de exposición o estado de abandono, siempre que los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
+Cuando por circunstancias especiales deban aumentarse las horas de la jornada máxima de trabajo, éstas serán consideradas como tiempo extraordinario, las que no podrán exceder de tres horas al día, ni de tres veces consecutivas.
 
-###### Artículo 27.
+El tiempo extraordinario de trabajo, se pagará con un cien por ciento más del salario asignado a las horas de la jornada ordinaria.
 
-En los casos de ausencia de aquellas personas que se encargan de la tutela, guarda y custodia de niñas, niños y adolescentes que se encuentren separados de sus padres en los supuestos señalados en el párrafo anterior, será la Procuraduría de Protección Municipal correspondiente, en coordinación con la Procuraduría de Protección Estatal, las que realizarán las acciones necesarias para evitar que los mismos se encuentren en una situación de abandono, asimismo velará por que se preserve su integridad y se garanticen sus derechos.
+Siempre y cuando exista la anuencia del trabajador para la prolongación del tiempo extraordinario que exceda de nueve horas a la semana, obliga a las instituciones públicas a pagar al trabajador el tiempo excedente con un doscientos por ciento más del salario que corresponda a las horas de la jornada normal de trabajo.
 
-###### Artículo 28.
+###### ARTICULO 29.
 
-Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia.
+En casos de siniestro o catástrofe, que pongan en peligro la vida o la continuidad de los servicios en los centros de trabajo, la jornada podrá prolongarse por el tiempo que sea necesario para restablecer las condiciones de seguridad y no causará retribución mayor que la establecida para las horas de tiempo ordinario.
 
-###### Artículo 29.
+###### ARTICULO 30.
 
-Es un derecho de las niñas, niños y adolescentes cuyas familias estén separadas, el convivir o mantener relaciones personales y contacto directo y permanente con sus familiares, excepto en los casos en que el órgano jurisdiccional competente determine que ello es contrario al interés superior de la niñez, sin perjuicio de las medidas cautelares y de protección que se dicten por las autoridades competentes en los procedimientos respectivos, en los que se deberá garantizar el derecho de audiencia de todas las partes involucradas, en especial de niñas, niños y adolescentes.
+Por cada cinco días de trabajo disfrutará el servidor público de dos días de descanso con salario integro, procurando que sean sábados y domingos; cuando se requiera una labor continua, se disfrutará el descanso semanal de acuerdo a los roles de actividad que se establezcan por los titulares de las instituciones públicas de gobierno y con acuerdo del sindicato respectivo.
 
-###### Artículo 30.
+###### ARTICULO 31.
 
-Las niñas, niños y adolescentes tienen derecho a convivir con sus familiares cuando éstos se encuentren privados de su libertad. Las autoridades competentes en materia jurisdiccional y penitenciaria deberán garantizar este derecho y establecer las condiciones necesarias para que esta convivencia se realice en un espacio y forma adecuada, conforme a las disposiciones aplicables. Este derecho sólo podrá ser restringido por resolución del órgano jurisdiccional competente, siempre y cuando no sea contrario a su interés superior.
+Serán considerados como días de descanso obligatorio, los indicados en la Ley del Presupuesto de Egresos del Gobierno del Estado, así como los que convengan los titulares de las instituciones públicas de gobierno con los representantes de los trabajadores y, en todo caso, los que señala la Ley Federal del Trabajo.
 
-###### Artículo 31.
+###### ARTICULO 32.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, establecerán las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre y cuando no sea contrario a su interés superior.
+Los trabajadores que presten sus servicios en día de descanso obligatorio; además de su salario normal, percibirán un doscientos por ciento más por el servicio prestado, sin que pueda repetirse este evento en más de dos ocasiones en el término de un mes. Los trabajadores que laboren en domingo, percibirán una prima dominical del veinticinco por ciento del sueldo que corresponda a un día de jornada normal.
 
-Durante la localización de la familia, las niñas, niños y adolescentes tienen derecho a acceder a las modalidades alternativas de cuidados de carácter temporal, en tanto se incorporan a su familia conforme a las disposiciones legales aplicables.
+###### ARTICULO 33.
 
-###### Artículo 32.
+Los trabajadores que tengan más de seis meses de servicio disfrutarán de dos períodos anuales de vacaciones de diez días laborales cada uno, para lo cual se señalará el calendario que para tal efecto establezcan las entidades públicas de acuerdo a las necesidades del servicio. En todo caso, quedarán guardias para la tramitación de asuntos urgentes, debiendo desempeñarlas de preferencia los trabajadores que no tuvieren derecho a vacaciones.
 
-En caso de no ser posible la reintegración al vínculo familiar de las niñas, niños y adolescentes, los Sistemas DIF - Municipales, en coordinación con el Sistema DIF-Chiapas, deberán otorgarles el acogimiento correspondiente de conformidad con lo previsto en la presente Ley.
+Las vacaciones son irrenunciables y no podrán compensarse con una retribución, por lo que, si por necesidades del servicio los trabajadores no pudieran hacer uso de las vacaciones en el período señalado en el calendario, las disfrutarán durante los quince días siguientes a la fecha en que haya desaparecido el impedimento.
 
-###### Artículo 33.
+###### ARTICULO 34.
 
-La legislación estatal deberá contener disposiciones para prevenir y sancionar el traslado o retención ilícita de niñas, niños y adolescentes cuando se produzcan en violación de los derechos atribuidos individual o conjuntamente a las personas o instituciones que ejerzan la patria potestad, la tutela o la guarda y custodia, y preverán procedimientos expeditos para garantizar el ejercicio de esos derechos.
+Se establece una prima vacacional, equivalente al cuarenta por ciento sobre el salario de los días correspondientes a cada período, la que será adicionada al mismo.
 
-###### Artículo 34.
+###### ARTICULO 35.
 
-En los casos de traslados o retenciones ilícitas de niñas, niños y adolescentes fuera del territorio nacional, las autoridades estatales y municipales facilitarán a la persona interesada la información y medios para que pueda presentar una solicitud de restitución ante la Secretaría de Relaciones Exteriores, para que ésta lleve a cabo las acciones correspondientes en el marco de sus atribuciones, de conformidad con lo dispuesto en los instrumentos internacionales y demás disposiciones aplicables.
+Los trabajadores tendrán derecho a permisos con goce de sueldo, por un período no mayor de tres días, dos veces al año.
 
-###### Artículo 35.
+Las instituciones públicas previo estudio, concederán permisos o licencias sin goce de sueldo a los trabajadores, hasta por seis meses, cuando tengan por lo menos un año de antigüedad.
 
-Cuando las autoridades estatales y municipales tengan conocimiento de casos de niñas, niños y adolescentes de nacionalidad mexicana trasladados o retenidos de manera ilícita en el extranjero, se coordinarán con las autoridades federales competentes, conforme a las demás disposiciones aplicables, para su localización y restitución.
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2021)</small>
 
-###### Artículo 36.
+La trabajadora o trabajador, que funja como cuidador de una hija o hijo con padecimiento de cáncer infantil menor de 16 años, podrá optar por un permiso o licencia sin goce de sueldo, en periodos críticos de hospitalización, de reposo o cuidados paliativos. Con una vigencia de uno a veintiocho días, se podrán expedir todas las licencias que se estimen necesarias, durante un periodo máximo de tres años sin que se excedan los 364 días, mismos que no necesariamente tendrán que ser continuos. Para el caso de que ambas personas cuidadoras de la menor o el menor, trabajen al servicio de las instituciones públicas, no podrán disfrutar de manera conjunta este tipo de permisos o licencias, por lo que deberán turnarse la asignación, para que, bajo criterios de equidad, se cuide de manera alternativa a las hijas e hijos sujetos a esta condición, estos permisos o licencias no generan la perdida de derechos de antigüedad para las o los trabajadores.
 
-Las autoridades estatales y municipales, coadyuvarán de manera coordinada de acuerdo a sus respectivas competencias en la localización de una niña, niño o adolescente que haya sido trasladado o retenido ilícitamente en territorio chiapaneco, o trasladado legalmente pero retenido ilícitamente, a través de programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas necesarias para prevenir que sufran mayores daños y en la sustanciación de los procedimientos de urgencia necesarios para garantizar su restitución inmediata, cuando la misma resulte procedente conforme a los tratados internacionales en materia de sustracción de niñas, niños y adolescentes, garantizando en todo momento su integridad física y psicológica, y preservando cada uno de sus derechos.
+Estos permisos o licencias en ningún momento podrán juntarse con otros similares o con períodos vacacionales, y estarán sujetos a los requisitos y condiciones establecidos al efecto en los reglamentos correspondientes.
 
-###### Artículo 37.
+Los trabajadores que obtengan licencias sin goce de sueldo, no perderán derechos escalafonarios ni de antigüedad, durante el tiempo que el interesado desempeñe un cargo de elección popular o de representación del Estado. Para conceder los permisos o licencias, es requisito que el trabajador lo solicite por escrito.
 
-Cuando una niña, niño o adolescente se encuentre privado de su familia o hayan sido separados (sic) de su familia de origen por resolución judicial, tendrá derecho a recibir la protección del Estado y los municipios, por conducto de las instancias competentes, quienes de manera coordinada deberán otorgar medidas especiales de protección a niñas, niños y adolescentes, a fin de garantizar en todo momento el goce pleno de sus derechos.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE ENERO DE 2025)</small>
 
-Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar, debiendo considerar el interés superior de la niñez para determinar la opción que sea más adecuada y, de ser el caso, restituirle su derecho a vivir en familia.
+###### ARTICULO 35 Bis.
 
-###### Artículo 38.
+Las personas trabajadoras tendrán derecho a un día con goce de sueldo, para realizarse exámenes médicos para la detección y prevención del cáncer; previa solicitud y aprobación del área de adscripción correspondiente; debiendo presentar el certificado médico o documento que lo acredite.
 
-En estos casos previstos en el artículo anterior, y de conformidad con la legislación aplicable, el Sistema DIF-Chiapas y los Sistemas Municipales DIF, en el ámbito de su competencia, se asegurarán de que niñas, niños y adolescentes:
+Los exámenes médicos de detección y prevención del cáncer no implicarán un gasto adicional por parte de las instituciones públicas del Estado.
 
-I. Sean ubicados con su familia extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior.
+###### ARTICULO 36.
 
-II. Sean recibidos por una familia de acogida como medida de protección, de carácter temporal, en los casos en los cuales ni los progenitores, ni la familia extensa de niñas, niños y adolescentes pudieran hacerse cargo.
+Las trabajadoras embarazadas no realizarán actividades que exijan grandes esfuerzos o impliquen peligro para su salud, en relación con la gestación, gozarán de un mes de descanso antes de la fecha del parto y otros dos después del mismo, con goce de sueldo.
 
-III. Sean sujetos del acogimiento pre-adoptivo como una fase dentro del procedimiento de adopción, que supone la vinculación de niñas, niños y adolescentes, respecto del cual ya se ha declarado la condición de adoptabilidad, con su nuevo entorno y determinar la idoneidad de la familia para convertirse en familia adoptiva.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2020)</small>
 
-El Sistema DIF - Chiapas, deberá registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, pudiéndose auxiliar con los Sistemas DIF Municipales.
+Así mismo, las trabajadoras que logren obtener la adopción de un infante, gozarán de cinco días laborables de descanso a partir de la adopción.
 
-IV. Sean colocados, dadas las características específicas de cada caso, en acogimiento residencial brindado por Centros de Asistencia Social el menor tiempo posible. Esta medida especial de protección tendrá carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar.
+Durante la lactancia, las madres trabajadoras dispondrán de dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos, por un período de seis meses contados a partir de la terminación de la licencia por maternidad.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2021)</small>
 
-La autoridad competente deberá tener en consideración el interés superior de la niñez para determinar la opción que sea más adecuada.
+En caso de que las hijas o hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria, el descanso podrá ser de hasta dos meses y medio posteriores al parto, previa presentación del certificado médico correspondiente.
 
-El Sistema DIF Estatal y los Sistemas DIF municipales darán seguimiento de la situación en la que se encuentren niñas, niños y adolescentes durante y una vez que haya concluido el acogimiento o forma alternativa de cuidado, de conformidad con lo previsto por la Ley General, la presente Ley y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2020)</small>
 
-###### Artículo 39.
+ARTICULO 36 BIS.- Otorgar un permiso de paternidad de cinco días laborables con goce de sueldo, a los hombres trabajadores, por el nacimiento de sus hijos; y de igual manera en el caso de adopción.
 
-La legislación que regule los Centros de Asistencia Social, así como las modalidades alternativas de cuidados de niñas, niños y adolescentes, deberán prever los siguientes criterios indispensables:
+###### ARTICULO 37.
 
-I. Las modalidades de alternativas de cuidados deberán ajustarse a las necesidades de las niñas, niños y adolescentes caso por caso y evitar la separación entre hermanos, funcionando a partir del interés superior de la niñez, los principios de necesidad, idoneidad y diligencia excepcional.
+Cuando los trabajadores sufran enfermedades generales o profesionales tendrán derecho a licencias con goce de sueldo, mediante certificado médico de incapacidad expedido por el Instituto Mexicano del Seguro Social, la Secretaría de Salud, o cualquier otra institución de salud autorizada por los titulares de las instituciones públicas de gobierno. La entrega del certificado médico de incapacidad deberá hacerse a los titulares de las instituciones públicas de gobierno, dentro de las setenta y dos horas de haber sido expedida; su entrega fuera de ese término, será motivo de sanción, pero no perderá su validez para comprobar la incapacidad.
 
-II. Dar prioridad a las soluciones basadas en las familias y comunidades de origen de cada niña, niño o adolescente.
+###### ARTICULO 38.
 
-III. Brindar mecanismos adaptados, confiables y seguros para que las niñas, niños y adolescentes puedan presentar denuncias y/o quejas sobre cualquier situación que les afecte durante su estancia.
+Salario es la retribución que deben pagar las instituciones públicas de gobierno a sus trabajadores a cambio de los servicios prestados, incluyendo todas las prestaciones derivadas de la relación laboral.
 
-IV. Todas las medidas alternativas deberán ser temporales, se establecerán procedimientos periódicos para analizar su continuidad, necesidad e idoneidad para cada niña, niño o adolescente.
+###### ARTICULO 39.
 
-V. Los cambios en las modalidades alternativas de cuidados para las niñas, niños y adolescentes deberán ser notificadas de inmediato a las autoridades competentes para que éstas a su vez realicen todas las acciones necesarias con el fin de garantizar que los derechos de las niñas, niños y adolescentes a vivir y crecer en familia y comunidad se respete.
+Las instituciones públicas de gobierno y los sindicatos, conjuntamente, en los períodos que estimen convenientes, revisarán los salarios y las prestaciones que disfrutarán los trabajadores,.
 
-###### Artículo 40.
+Los salarios nunca podrán ser inferiores al mínimo general y profesional, para el área económica donde se preste el servicio.
 
-El Sistema DIF Estatal y los Sistemas DIF Municipales deberán desarrollar una política integral en materia de cuidados alternativos y contar con programas respectivos que permitan a los niños, niñas y adolescentes acceder a los mismos, de conformidad con lo previsto por la Ley General y en la presente Ley.
+Podrán determinarse compensaciones, bonos y demás prestaciones en efectivo y en especie, según el costo de la vida en el Estado.
 
-Las autoridades estatales y municipales competentes deberán tener en consideración el interés superior de la niñez para determinar la opción que sea más adecuada y, de ser el caso, restituirle su derecho a vivir en familia.
+###### ARTICULO 40.
 
-###### Artículo 41.
+El salario se pagará en el lugar en donde se presten los servicios, será en moneda de curso legal o por medio de cheque nominativo, procurando que dicha entrega se haga durante la jornada de trabajo; se pagará el día hábil último o anterior de la quincena.
 
-En caso de niñas, niños y adolescentes en condiciones de desplazamiento interno, las autoridades estatales y municipales:
+###### ARTICULO 41.
 
-I. Privilegiarán la unidad familiar al no separar a los miembros de una misma familia.
+Los salarios no serán objeto de descuentos, deducciones, compensaciones, retenciones o embargo, salvo en los siguientes casos:
 
-II. Tomarán las medidas conducentes para acelerar la reunificación familiar.
+I.- Por deudas contraídas con las instituciones públicas de gobierno, por concepto de anticipos o por pagos hechos por error;
 
-III. Garantizarán el derecho de conocer el destino y paradero de familiares desaparecidos.
+II.- Por aportaciones al fondo para la constitución de cooperativas o cajas de ahorro, siempre que el trabajador manifieste expresamente su conformidad;
 
-### Capítulo Sexto. Del Derecho a la Igualdad Sustantiva y a la No Discriminación
+III.- Por retención para cuotas ordinarias del sindicato respectivo;
 
-###### Artículo 42.
+IV.- Por el pago de adeudos ante la Dirección de Pensiones del Gobierno del Estado o instituciones que hagan sus veces, para el caso de los trabajadores de los ayuntamientos;
 
-Niñas, niños y adolescentes tienen derecho al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales, sin distinción alguna de raza, étnica, color, sexo, idioma, lengua, circunstancia de nacimiento o cualquier otra condición propia de quienes ejerzan la patria potestad, su guarda o tutela, condición física y mental religión, situación migratoria, opinión política o de cualquier otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición de sus padres, representantes o responsables de su familia.
+V.- Para cubrir alimentos, mediante orden de autoridad judicial competente;
 
-Las autoridades están obligadas a llevar a cabo medidas especiales para prevenir, atender y erradicar la Discriminación Múltiple de la que son objeto niñas, niños y adolescentes en situación de exclusión social o cualquiera otra condición de marginalidad.
+VI.- Previo procedimiento y resolución administrativa o judicial que cause estado, para cubrir el importe proveniente de la sustracción, pérdida o averías dolosas de los bienes públicos de que sea responsable;
 
-Las autoridades e instituciones estatales y municipales deberán recibir y atender a todos los niños, niñas y adolescentes sin excepción ni restricciones en el servicio en razón de las condiciones y circunstancias establecidas en el párrafo anterior.
+VII.- Cuando se trate de descuentos por Impuesto Sobre el Producto del Trabajo, o los ordenados por el Fondo Nacional para el Consumo de los Trabajadores, por la Dirección de Pensiones del Estado o las instituciones que hagan las veces de ésta;
 
-###### Artículo 43.
+VIII.- Las que deriven de sanciones impuestas por faltas de asistencia, retardos o suspensión, ordenadas como medidas disciplinarias; y
 
-Las autoridades Estatales y Municipales, para garantizar la igualdad sustantiva deberán:
+IX.- Las demás convenidas en las condiciones generales de trabajo.
 
-I. Transversalizar la perspectiva de género en todas sus actuaciones y procurar la utilización de un lenguaje no sexista en sus documentos oficiales.
+### CAPITULO IV.
 
-II. Diseñar, implementar y evaluar programas, políticas públicas a través de Acciones afirmativas tendientes a eliminar los obstáculos que impiden la igualdad de acceso y de oportunidades a la alimentación, a la educación y a la atención médica entre niñas, niños y adolescentes.
+DE LAS VACACIONES, PERMISOS Y LICENCIAS.
 
-III. Implementar acciones específicas para alcanzar la eliminación de prejuicios, roles y estereotipos sexistas o de cualquier otra índole que estén basadas en la idea de inferioridad.
+###### ARTICULO 42.
 
-IV. Establecer medidas dirigidas de manera preferente a niñas y adolescentes que pertenezcan a grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja para el ejercicio de los derechos contenidos en la presente Ley.
+Los trabajadores tendrán derecho a un aguinaldo anual equivalente a cincuenta días de sueldo, que deberá pagarse en la primera quincena de diciembre.
 
-V. Establecer los mecanismos institucionales que orienten al Estado hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las niñas y las adolescentes.
+Los trabajadores que no hayan cumplido un año de servicio, tendrán derecho a la parte proporcional del aguinaldo, según el tiempo de trabajo efectivo.
 
-VI. Desarrollar campañas permanentes de sensibilización y fomento al respeto y protección de los derechos de niñas y las adolescentes.
+###### ARTICULO 43.
 
-VII. El Programa Estatal y los programas municipales incluirán las acciones y medidas específicas que cada una de las autoridades estatales y municipales obligadas deban realizar de manera coordinada para dar cumplimiento a lo previsto en el presente artículo.
+Los beneficiarios del trabajador fallecido tendrán derecho a percibir las prestaciones o indemnizaciones pendientes de cubrirse, ejercitar las acciones derivadas del trabajo y continuar los juicios laborales acreditando legalmente su parentesco.
 
-###### Artículo 44.
+###### ARTICULO 44.
 
-Las normas aplicables a las niñas y a las adolescentes en el Estado de Chiapas, deberán estar dirigidas a visibilizar, promover, respetar, proteger y garantizar, en todo momento, sus derechos en aras de alcanzar la igualdad sustantiva con respecto a los niños y a los adolescentes; y, en general, con toda la sociedad.
+Ningún trabajador de base podrá ser separado de sus servicios, sin que medie causa plenamente justificada y conforme a los procedimientos señalados en esta ley y reglamentos aplicables.
 
-###### Artículo 45.
+###### ARTICULO 45.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a adoptar medidas y a realizar las acciones afirmativas necesarias para garantizar a niñas, niños y adolescentes la igualdad sustantiva, de oportunidades y el derecho a la no discriminación. Dichas acciones también deberán estar contempladas en el Programa Estatal y los programas municipales.
+El relevo de los funcionarios de una institución pública de gobierno en ningún caso, afectará la estabilidad de los trabajadores, excepto los catalogados como de confianza.
 
-La adopción de estas medidas y la realización de acciones afirmativas formarán parte de la perspectiva antidiscriminatoria, la cual será incorporada de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, implementación y evaluación de las políticas públicas. Serán factor de análisis prioritario las diferencias de género como causa de vulnerabilidad y discriminación en contra de las niñas y las adolescentes.
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2016)</small>
 
-###### Artículo 46.
+La excepción a que alude el párrafo anterior prescribirá en los cuarenta y cinco días naturales, contados a partir del día siguiente al en que entre en funciones el nuevo titular de la dependencia o institución pública de gobierno de que se trate.
 
-Constituye un deber de las instancias públicas del Estado y de los órganos constitucionales autónomos reportar de forma semestral al Consejo Estatal contra la Discriminación las medidas y programas que adopten para su registro y monitoreo en términos de la Ley que previene y combate la discriminación en el Estado de Chiapas.
+###### ARTICULO 46.
 
-Dichos reportes deberán desagregar la información, por lo menos, en razón de edad, sexo, municipio, escolaridad y tipo de discriminación.
+Se entiende por escalafón, el sistema organizado en cada institución pública de gobierno, conforme a las bases establecidas en este título, para efectuar las promociones de ascenso de los trabajadores y autorizar las permutas que se soliciten.
 
-###### Artículo 47.
+###### ARTICULO 47.
 
-Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, adoptarán medidas para la eliminación de usos, costumbres, prácticas culturales o prejuicios que atenten contra la igualdad de niñas, niños y adolescentes, así como prevenir y combatir toda forma de discriminación y promover la igualdad de oportunidades y de trato.
+Tienen derecho a participar en los concursos para ser ascendidos, todos los trabajadores de base con un mínimo de seis meses en la plaza inmediata inferior.
 
-### Capítulo Séptimo. Del Derecho a Vivir en Condiciones de Bienestar y a un Sano Desarrollo Integral
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
 
-###### Artículo 48.
+### CAPITULO V.
 
-Las Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
+DE LOS SALARIOS.
 
-###### Artículo 49.
+###### ARTICULO 48.
 
-Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, tienen la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo.
+En cada institución pública de gobierno se expedirá un reglamento de escalafón, el cual se formulará, de común acuerdo por los representantes legales de los poderes del Estado, de los municipios, organismos públicos descentralizados, órganos jurisdiccionales, tribunales constitucionalmente autónomos, empresas de participación estatal o municipal y con el sindicato correspondiente.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán adoptar las medidas apropiadas, las cuales, serán definidas en los Programas Estatal y municipales, respectivamente.
+###### ARTICULO 49.
 
-###### Artículo 50.
+Para la aplicación del escalafón, se constituirá una comisión mixta, que se integrará con igual número de representantes de la institución pública de gobierno de que se trate y representantes sindicales.
 
-De conformidad con lo establecido por la Ley general, la edad mínima para contraer matrimonio en el Estado de Chiapas, será de 18 años, salvo dispensa de edad en los casos que proceda conceder por autoridad judicial.
+###### ARTICULO 50.
 
-### Capítulo Octavo. Del Derecho ae (sic) Acceso a una Vida Libre de Violencia y a la Integridad Personal
+La Comisión de Escalafón establecerá en el reglamento respectivo, los factores escalafonarios.
 
-###### Artículo 51.
+### CAPITULO UNICO.
 
-Las niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
+###### ARTICULO 51.
 
-###### Artículo 52.
+Las instituciones públicas de gobierno en sus relaciones laborales, están obligadas a:
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, atender y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
+I.- Preferir en igualdad de condiciones a los trabajadores sindicalizados, respecto de quienes no lo sean; a los que con anterioridad hubieran prestado sus servicios; para quienes represente la fuente única de ingresos; y a quienes tuvieren familia, respecto de los que no la tengan.
 
-I. El descuido, maltrato, negligencia, abandono o abuso físico, psicológico o sexual;
+II.- Pagar los sueldos y demás prestaciones en los días previamente señalados y de preferencia en el domicilio de la realización de los servicios;
 
-II. Trata de personas menores de 18 años de edad, abuso sexual infantil, explotación sexual infantil con o sin fines comerciales, o cualquier otro tipo de explotación, y demás conductas punibles establecidas en las disposiciones aplicables.
+III.- Observar y cumplir todas las medidas de higiene y seguridad, para prevenir riesgos de trabajo;
 
-III. El tráfico de niñas, niños y adolescentes.
+IV.- Proporcionar a los trabajadores los útiles, instrumentos y materiales necesarios para el desempeño del trabajo encomendado;
 
-IV. El trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables.
+V.- Acatar en sus términos los laudos que emita el Tribunal Estatal de Conciliación y Arbitraje, siempre que no existan recursos pendientes de resolución;
 
-V. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables.
+VI.- Señalar las condiciones generales de trabajo, las que nunca podrán ser menores a las que establece la presente ley, debiendo acordarlas con el sindicato respectivo;
 
-VI. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral.
+VII.- Sin menoscabo de sus derechos de antigüedad, en los términos de las condiciones generales de trabajo, otorgar licencias a sus trabajadores en los siguientes casos:
 
-Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia.
+a).- Para desempeñar cargos de elección popular;
 
-La legislación estatal, así como los Programas Estatal y municipales, respectivamente, deberán establecer las disposiciones que orientarán las políticas de prevención, protección, atención, sanción y erradicación de los supuestos a que se refieren las fracciones anteriores.
+b).- Para desempeñar comisiones sindicales;
 
-Las autoridades competentes, están obligadas a implementar medidas especiales para prevenir, sancionar y reparar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad.
+c).- Los previstos en el artículo 37 de esta ley; y
 
-###### Artículo 53.
+d).- Cuando sean promovidos temporalmente a otras comisiones, en dependencias diferentes a la de su adscripción o cargos de confianza;
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, en coordinación con la Procuraduría de Protección que corresponda, están obligadas a adoptar las medidas apropiadas para promover la recuperación física y psicológica y la restitución de derechos de niñas, niños y adolescentes para lograr el pleno ejercicio de sus derechos y garantizar su reincorporación a la vida cotidiana.
+VIII.- Aportar a las instituciones de seguridad social respectivas, los porcentajes que correspondan al trabajador y a las entidades públicas de gobierno, para que aquéllas otorguen las jubilaciones o pensiones que procedan;
 
-La recuperación y restitución de derechos a que se refiere el párrafo anterior se llevarán a cabo en un ambiente que fomente la salud física y psicológica, el respeto y la dignidad de niñas, niños y adolescentes.
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2015)</small>
 
-###### Artículo 54.
+En el caso de los municipios del Estado, cada ayuntamiento debe crear un Fondo de Pensiones que dependerá de la tesorería municipal, y será vigilado por los órganos de control interno de la propia administración. Este fondo deberá contar con recursos suficientes para garantizar las jubilaciones, pensiones, y retiros de los trabajadores que, con ese carácter, tengan derecho a tales prestaciones. El ayuntamiento podrá celebrar convenios con instituciones públicas o privadas de seguridad social, para el manejo, y ejecución de su fondo de pensiones, siempre que lo apruebe (sic) cuando menos las dos terceras partes de los integrantes del cabildo y, la posterior autorización del Congreso del Estado;
 
-En los casos en que niñas, niños y adolescentes sean víctimas de delitos se aplicarán las disposiciones de la Ley de Víctimas para el Estado de Chiapas y demás disposiciones que resulten aplicables. En todo caso, los protocolos de atención que se desarrollen y apliquen por las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño.
+IX.- Cubrir las demás aportaciones que según las leyes de la materia correspondan y las convenidas con los sindicatos respectivos, para que los trabajadores tengan los beneficios de la seguridad social;
 
-### Capítulo Noveno. Del Derecho a la Protección de la Salud y a la Seguridad Social
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-###### Artículo 55.
+X.- Cuando fueren condenadas en virtud de laudo ejecutorio, cubrir las indemnizaciones por despido injustificado, cuando los trabajadores afectados hayan optado por esta solución o, en su caso, reinstalar a los trabajadores en los puestos de los cuales hubieren sido separados injustamente, y cubrir los salarios caídos conforme a los (sic) dispuesto en el artículo 59 de esta Ley;
 
-Las niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica gratuita y de calidad de conformidad con la legislación aplicable, con el fin de prevenir, proteger y restaurar su salud.
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2014)</small>
 
-###### Artículo 56.
+X BIS.- Tratándose de ayuntamientos, respecto de los laudos firmes que se hayan originado con motivo del despido o cese injustificado de un trabajador, y éste se haya generado durante su gestión, deberán acatarlo antes de concluir el periodo para el que fueron electos; en caso de no hacerlo, serán responsables en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí;
 
-Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, deberán hacer diagnósticos de las condiciones de salud de las niñas, niños y adolescentes, definir prioridades, diseñar políticas y programas para atenderlas, e implementar y coordinar los programas y acciones necesarios a fin de:
+XI.- Guardar hacia los trabajadores el debido respeto y consideración;
 
-I. Reducir la morbilidad y mortalidad infantil.
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2021)</small>
 
-II. Asegurar asistencia médica y sanitaria para la atención y tratamiento de las enfermedades que afecten a las niñas, niños y adolescentes.
+XI BIS.- Implementar, en acuerdo con las o los trabajadores, protocolo para prevenir el hostigamiento y/o acoso sexual;
 
-III. Promover la alimentación directa de la madre al recién nacido, desde la primer (sic) hora de vida y las ventajas que esta conlleva.
+XII.- Contribuir para el fomento de actividades cívicas, culturales y deportivas de los trabajadores;
 
-IV. Atender de manera especial las enfermedades respiratorias, renales, gastrointestinales, cáncer, endémicas, epidémicas, VIH/SIDA y otras enfermedades de transmisión sexual, impulsando programas de protección e información sobre ellas.
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
 
-V. Establecer las medidas tendentes para prevenir embarazos de las niñas y las adolescentes.
+XIII.- Proporcionar capacitación y adiestramiento en los términos de la presente Ley;
 
-VI. Disponer lo necesario para que las niñas, niños y adolescentes con discapacidad, reciban la atención apropiada a su condición, que los rehabiliten, les mejore su calidad de vida y los equipare a las demás personas en ejercicio de sus derechos.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2021)</small>
 
-VII. Establecer las medidas tendentes para que en los servicios de salud se detecten y atiendan de manera especial los casos de las niñas, niños y adolescentes, víctimas y sujetos de violencia intrafamiliar.
+XIV.- Adoptar las medidas, adecuaciones, ajustes y mejoras necesarios que aseguren el libre acceso y desplazamiento de las personas en general, así como también de las personas trabajadoras que padezcan de alguna discapacidad en condiciones de igualdad y no discriminación. Para estos efectos deberán modificar, en su caso, las instalaciones, en los términos que señalen las propias autoridades y la normatividad vigente;
 
-VIII. Asegurar que quienes ejerzan la patria potestad, tutela o guarda y custodia, así como las niñas, niños y adolescentes, conozcan los principios básicos de salud y nutrición, higiene, saneamiento ambiental, así como, las medidas de prevención de accidentes.
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2021)</small>
 
-IX. Otorgar cuidados paliativos para liberar a las niñas, niños y adolescentes enfermos, del dolor evitable, en armonía con el tratamiento de curación.
+XV.- Implementar, con base en el Programa Interno de Protección Civil que establece la Ley del Sistema de Protección Civil del Estado de San Luis Potosí, capacitación para las y los trabajadores en el rubro, por lo menos una vez al año dentro de la jornada laboral, y
 
-X. Combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así como otros trastornos de la conducta alimentaria mediante la promoción de hábitos de alimentación saludables, mejorando las condiciones que los determinan como, el acceso a agua segura y limpia, promoción de actividad física, actividades recreativas, así como impulsar programas que promuevan y prevengan estilos de vida saludables desde la infancia.
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
 
-XI. Fomentar y ejecutar los programas de vacunación y el control de la niñez y adolescencia sana para vigilar su crecimiento y desarrollo en forma periódica.
+XVI.- Cumplir con las demás obligaciones que deriven de este Ordenamiento.
 
-XII. Prohibir, sancionar y erradicar la esterilización forzada de niñas, niños y adolescentes y cualquier forma de violencia obstétrica.
+###### ARTICULO 52.
 
-XIII. Proporcionar asesoría y orientación sobre salud sexual y reproductiva, conforme a su edad, el desarrollo evolutivo, cognoscitivo y madurez.
+Son obligaciones de los trabajadores al servicio de las instituciones públicas a que se refiere esta ley:
 
-XIV. Establecer medidas tendentes a que en los servicios de salud se detecten y atiendan de manera especial los casos de niñas, niños y adolescentes con problemas de salud mental.
+I.- Desempeñar el trabajo con la intensidad, esmero y eficiencia apropiados, sujetándose a la subordinación de sus jefes inmediatos y a los reglamentos respectivos. Las actividades deberán desempeñarse conforme al trabajo y en los horarios establecidos;
 
-XV. Garantizar el acceso oportuno y adecuado a los servicios de salud mental.
+II.- Cumplir fielmente todas las obligaciones que se contemplen en las condiciones generales de trabajo;
 
-XVI. Proporcionar atención médica en el momento que sea solicitado, y en su caso a ser atendidos en las instancias de salud correspondientes, para completar su proceso de tratamiento y rehabilitación.
+III.- Ser respetuosos y atentos con el público, observando buena conducta;
 
-XVII. Informar acerca de las campañas, programas y servicios que proporcione el Gobierno y las instituciones sociales y privadas en materia de salud mental.
+IV.- Asistir puntualmente a sus labores respetando los horarios establecidos;
 
-XVIII. Aplicar exámenes de valoración, confiables y actualizados que consideren su entorno social y a conocer los alcances y las limitaciones de las evaluaciones realizadas.
+V.- Evitar actos de imprudencia o negligencia que pongan en peligro su propia seguridad, la de sus compañeros de labores y la del centro de trabajo;
 
-XIX. En materia de salud mental, se deberá informar a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a las niñas, niños y adolescentes, de la condición y el posible efecto del programa, campaña o tratamiento que reciban.
+VI.- Guardar los secretos que son propios de la dependencia respectiva y de las funciones que requieran de sigilo, según la índole del servicio público de que se trate;
 
-XX. A conservar la confidencialidad de información personal, a una historia clínica de conformidad con lo establecido en las normas oficiales y al anonimato de las niñas, niños y adolescentes en los casos de salud mental.
+VII.- Concurrir a los cursos de capacitación y adiestramiento que se organicen por las entidades o dependencias públicas respectivas;
 
-XXI. Adoptar medidas tendentes a la eliminación de las prácticas culturales, usos y costumbres que sean perjudiciales para la salud de niñas, niños y adolescentes.
+VIII.- No suspender o abandonar el trabajo, sin previo consentimiento del titular de la dependencia o su representante;
 
-XXII. Establecer medidas tendentes a la prevención, atención, combate y rehabilitación de los problemas de salud pública causados por las adicciones.
+IX.- Guardar para con sus superiores y compañeros de trabajo la consideración y respeto debidos;
 
-Asimismo, las autoridades estatales y municipales garantizarán que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
+X.- No hacer propaganda, rifas, ventas, colectas o cualquier otra actividad ajena al trabajo, dentro de los edificios o lugares de labores, excepto las comunicaciones o informaciones de carácter sindical;
 
-Los Programas Estatal y municipales incluirán las acciones y medidas específicas que cada una de las autoridades estatales y municipales obligadas deberán realizar de manera coordinada para dar cumplimiento a lo previsto en el presente artículo.
+XI.- Custodiar con esmero la documentación e informes que reciban por razones de su empleo, cargo o comisión, evitando la destrucción, sustracción, ocultamiento o utilización indebida de aquellos;
 
-###### Artículo 57.
+XII.- No desempeñar otro empleo, cargo o comisión oficial o particular, que sean incompatibles con los horarios y ejecución de sus labores;
 
-El Sistema Estatal de Salud deberá garantizar el pleno cumplimiento del derecho a la salud atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad sustantiva y la no discriminación, así como establecer acciones afirmativas a favor de niñas, niños y adolescentes.
+XIII.- Someterse periódicamente a exámenes médicos, tendientes a comprobar si padecen alguna incapacidad o enfermedad contagiosa, cuando lo determinen los superiores de la entidad o dependencia respectiva;
 
-En todos los casos se respetará el derecho a la intimidad de niñas, niños y adolescentes, considerándose en todo momento, la participación de quienes ejerzan la patria potestad, tutela, guarda o custodia de los mismos en la prestación de los servicios de salud que se les otorgue.
+XIV.- Dar aviso oportuno a su jefe inmediato de las causas justificadas que les impidan asistir a su trabajo; tratándose de enfermedad, entregar al titular de la dependencia la incapacidad médica dentro de las setenta y dos horas siguientes al primer día de inasistencia;
 
-###### Artículo 58.
+XV.- No realizar campañas partidistas dentro del horario de trabajo;
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, deberán garantizar el derecho a la seguridad social.
+XVI.- Informar al titular de su área de trabajo sobre las enfermedades contagiosas que padezcan, tan pronto tengan conocimiento de las mismas;
 
-###### Artículo 59.
+XVII.- Comunicar a su titular o jefe inmediato, las averías o deficiencias que adviertan en su maquinaria, equipo o útiles de trabajo;
 
-Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, deben desarrollar políticas para fortalecer la salud materno infantil y aumentar la esperanza de vida.
+XVIII.- Restituir los materiales no usados y conservar en buen estado la maquinaria, equipo, instrumentos y útiles de trabajo que se les hayan proporcionado para el buen desempeño de sus labores; y
 
-### Capítulo Décimo. Del Derecho a la Inclusión de Niñas, Niños y Adolescentes con Discapacidad
+XIX.- Las demás que se encuentren previstas en la presente ley, condiciones generales de trabajo y demás ordenamientos relativos.
 
-###### Artículo 60.
+###### ARTICULO 53.
 
-Las Niñas, niños y adolescentes con discapacidad tienen derecho a la igualdad sustantiva y a disfrutar de los derechos contenidos en la Ley General, la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la Constitución Política Local, la presente Ley y demás leyes aplicables.
+Se suspenderán temporalmente las obligaciones de los sujetos de la relación de trabajo, sin responsabilidad para las instituciones públicas de gobierno, en los siguientes casos:
 
-En términos de lo dispuesto por la Ley General, cuando exista duda o percepción si una niña, niño o adolescente es persona con discapacidad, se presumirá que es una niña, niño o adolescente con discapacidad.
+I.- Las enfermedades contagiosas del trabajador;
 
-Son niñas, niños o adolescentes con discapacidad los que por razón congénita o adquirida presentan una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás.
+II.- La incapacidad física o mental, que no se derive de los riesgos de trabajo, en cuanto impidan al trabajador la reincorporación a sus labores;
 
-Las niñas, niños y adolescentes con discapacidad tienen derecho a vivir incluidos en la comunidad, en igualdad de condiciones que las demás niñas, niños y adolescentes.
+III.- Por sanción disciplinaria hasta por el término de cinco días, impuesta por el titular de la institución pública de gobierno, como consecuencia directa de faltas cometidas en el desempeño del servicio, siempre que no ameriten el cese;
 
-###### Artículo 61.
+IV.- Tratándose de los trabajadores que manejen fondos, cuando apareciere alguna irregularidad en su gestión, mientras se resuelve definitivamente su situación legal. En caso de que el trabajador obtenga resolución absolutoria, se cubrirán al mismo los salarios caídos y deberá reintegrársele en su puesto o actividad;
 
-Las autoridades Estatales y Municipales, en el ámbito de sus respectivas competencias, están obligadas a implementar medidas de nivelación, inclusión y acciones afirmativas en términos de las disposiciones aplicables, considerando los principios de participación e inclusión plenas y efectivas en la sociedad, respeto por la diferencia y la aceptación de las personas con discapacidad como parte de la diversidad y la condición humanas, respeto a la evolución de las facultades de niñas, niños y adolescentes con discapacidad y de su derecho a preservar su identidad.
+V.- El arresto o prisión preventiva del trabajador, impuesto por autoridad administrativa o judicial. Cuando recaiga sentencia absolutoria, el trabajador podrá reintegrarse a sus labores;
 
-La discriminación por motivos de discapacidad también comprende la negación de ajustes razonables.
+VI.- El cumplimiento de los servicios públicos, obligaciones y desempeño de los cargos establecidos en los artículos 5o. cuarto párrafo, 31 fracciones II y III y 36 fracciones IV y V de la Constitución Política de los Estados Unidos Mexicanos; y
 
-Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, están obligadas a realizar lo necesario para fomentar la inclusión social y deberán establecer el diseño universal de accesibilidad de niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable.
+VII.- Por licencias o permisos sin goce de sueldo, debidamente autorizados, excepto comisiones sindicales o de representación de las instituciones públicas de gobierno.
 
-Además del diseño universal, se deberá dotar a las instalaciones que ofrezcan trámites y servicios a niñas, niños y adolescentes con discapacidad, la señalización en Braille y formatos accesibles de fácil lectura y comprensión. Asimismo, procurarán ofrecer otras medidas de asistencia e intermediarios.
+El trabajador podrá reintegrarse a su trabajo dentro del término de tres días, cuando desaparezca la causa que motivó o dió origen a la suspensión de sus obligaciones.
 
-No se podrá negar o restringir la inclusión de niñas, niños y adolescentes con discapacidad a la educación, ni su plena participación en actividades recreativas, deportivas, lúdicas o culturales en instituciones públicas, privadas y sociales.
+###### ARTICULO 54.
 
-La negación de este derecho implicará la imposición de sanciones a las autoridades responsables y de medidas de reparación a su cargo.
+Son causas de terminación de las relaciones jurídicas de trabajo, las siguientes:
 
-No se considerarán discriminatorias las medidas específicas que sean necesarias para acelerar o lograr la igualdad sustantiva de las niñas, niños y adolescentes con discapacidad.
+I.- Renuncia voluntaria;
 
-###### Artículo 62.
+II.- El mutuo consentimiento de las partes;
 
-Las autoridades Estatales y municipales en el ámbito de sus respectivas competencias, realizarán acciones a fin de sensibilizar a la sociedad, incluso a nivel familiar, para que tome mayor conciencia respecto de las niñas, niños y adolescentes con discapacidad y fomentar el respeto a sus derechos y dignidad, así como combatir los estereotipos y prejuicios respecto de su discapacidad.
+III.- Muerte del trabajador;
 
-Las leyes estatales establecerán disposiciones tendentes a:
+IV.- Por terminación de la obra, tiempo o cantidad presupuestada; y
 
-I. Reconocer y aceptar la existencia de la discapacidad, a efecto de prevenir la ocultación, abandono, negligencia y segregación de niñas, niños y adolescentes con discapacidad.
+V.- Por incapacidad total permanente del trabajador.
 
-II. Ofrecer apoyos educativos y formativos para quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes con discapacidad, a fin de aportarles los medios necesarios para que puedan fomentar su desarrollo y vida digna.
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2021)</small>
 
-III. Promover acciones interdisciplinarias para el estudio, diagnóstico temprano, tratamiento y rehabilitación de las discapacidades de niñas, niños y adolescentes que en cada caso se necesiten, asegurando que sean accesibles a las posibilidades económicas de sus familiares.
+En el caso de la fracción I de este artículo, a solicitud del trabajador o trabajadora, la renuncia voluntaria será ratificada ante el Tribunal Estatal de Conciliación y Arbitraje, o autoridad auxiliar que éste determine.
 
-IV. Disponer acciones que permitan ofrecerles cuidados elementales gratuitos, acceso a programas de estimulación temprana, servicios de salud, rehabilitación, esparcimiento, actividades ocupacionales, así como a la capacitación para el trabajo.
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2021)</small>
 
-V. Establecer mecanismos que permitan la recopilación periódica y sistemática de información y estadística de niñas, niños y adolescentes con discapacidad, que permita una adecuada formulación de políticas públicas en la materia.
+Queda prohibido obligar a las o los trabajadores a firmar documentos en blanco, o sin fecha determinada, o que mediante cualquier otra circunstancia implique renuncia de derechos o imponga obligaciones a la o el trabajador. En caso de que la o el trabajador sea obligado a la firma de documento en blanco o sin fecha determinada, podrá acudir ante la Procuraduría de la Defensa del Trabajo o ante las oficinas de la Inspección del Trabajo local a denunciar el hecho. La Procuraduría de la Defensa del Trabajo o la Inspección del Trabajo local conservará en secreto dicha denuncia para el caso de que fuere necesario aportarla como elemento probatorio pre constituido.
 
-Dichos reportes deberán desagregarse, al menos, por sexo, edad, escolaridad, municipio y tipo de discapacidad.
+### CAPITULO UNICO.
 
-###### Artículo 63.
+###### ARTICULO 55.
 
-Niñas, niños y adolescentes con discapacidad tienen derecho en todo momento a que se les facilite un intérprete o aquellos medios tecnológicos que les permitan obtener información de forma comprensible.
+Las instituciones públicas de gobierno, podrán cesar al trabajador, sin incurrir en responsabilidad, cuando éste:
 
-### Capítulo Décimo Primero. Del Derecho a la Educación
+I.- Incurra en faltas de probidad u honradez o en actos de violencia, amagos, injurias o malos tratos contra sus jefes, compañeros o familiares de unos u otros durante el servicio, salvo que medie provocación o legitima defensa; si son tan graves que hagan imposible la relación de trabajo;
 
-###### Artículo 64.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-Niñas, niños y adolescentes tienen derecho a una educación de calidad que contribuya al conocimiento de sus propios derechos y, basada en un enfoque de derechos humanos y de igualdad sustantiva, que garantice el respeto a su dignidad humana; el desarrollo armónico de sus potencialidades y personalidad, y fortalezca el respeto a los derechos humanos y a las libertades fundamentales, en los términos del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, La Constitución Política Local, la Ley de Educación del Estado y demás disposiciones aplicables.
+II.- Tenga más de tres faltas de asistencia en un periodo de treinta días, sin permiso por escrito del titular de su área de trabajo o sin causa justificada;
 
-Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho a intervenir en la educación que habrá de darse a niñas, niños y adolescentes, en términos de lo previsto por el artículo 111 de esta Ley.
+III.- Sin previo aviso preste sus servicios para otro patrón o dependencia o cuando siendo para la misma u otra institución pública de gobierno, exista incompatibilidad de horarios u otra causa suficiente que así lo amerite;
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias garantizarán la consecución de una educación de calidad y la igualdad sustantiva en el acceso y permanencia en la misma, para lo cual deberán:
+IV.- Abandone el servicio en horas hábiles de la jornada de trabajo;
 
-I. Proporcionar la atención educativa que niñas, niños y adolescentes requieran para su pleno desarrollo, para lo cual, los programas respectivos deberán considerar la edad, madurez, circunstancias particulares y tradiciones culturales, así como garantizar los derechos lingüísticos y culturales de niñas niños y adolescentes indígenas.
+V.- Ocasione daños intencionales en los edificios, instrumentos, maquinaria, materias primas y demás objetos relacionados con el trabajo; o bien, cause dichos daños por negligencia, que sea causa de perjuicio a la institución pública de que se trate;
 
-II. Adoptar medidas orientadas hacia el pleno ejercicio del derecho a la educación.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
 
-III. Establecer medidas para garantizar la gratuidad de la educación pública obligatoria y para procurar la accesibilidad material, económica y geográfica a la educación, sin discriminación.
+VI.- Cometa la o el trabajador actos inmorales o de hostigamiento y/o acoso sexual contra cualquier persona en el establecimiento o lugar de trabajo;
 
-IV. Establecer las condiciones necesarias para fortalecer la calidad educativa, tales como la relevancia y pertinencia del currículo, la disposición de la infraestructura y equipamiento adecuados para el aprendizaje y para las prácticas de enseñanza, la evaluación docente, entre otras.
+VII.- Divulgue los secretos o la reserva en los asuntos de su conocimiento, con motivo de su trabajo, que requieran del sigilo o discreción por razón del servicio público;
 
-V. Destinar recursos humanos, materiales y presupuestarios adecuados y suficientes para garantizar la educación de calidad de niñas, niños y adolescentes.
+VIII.- Desobedezca a sus superiores sobre el trabajo encomendado durante las horas de labores;
 
-VI. Adaptar el sistema educativo a las condiciones, intereses y contextos específicos de niñas, niños y adolescentes para garantizar su permanencia en el sistema educativo.
+IX.- Desempeñe el trabajo durante las horas de servicio en estado de embriaguez o bajo los efectos de alguna droga o enervante, salvo que en estos dos últimos casos exista prescripción médica;
 
-VII. Establecer acciones afirmativas para garantizar el derecho y permanencia a la educación de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, trabajo, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales.
+X.- Deje de cumplir las condiciones generales de trabajo de la institución pública de gobierno;
 
-VIII. Prestar servicios educativos en condiciones de normalidad mínima, entendida ésta como el conjunto de condiciones indispensables que deben cumplirse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje de los educandos.
+XI.- Pierda la libertad como resultado de prisión decretada en sentencia ejecutoria;
 
-IX. Implementar mecanismos para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a la educación de niñas, niños y adolescentes.
+XII.- Se niegue a trabajar u observar y cumplir las medidas preventivas de seguridad e higiene a fin de evitar los riesgos de trabajo;
 
-X. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos.
+XIII.- Mediante engaños, presentando documentos o testimonios falsos o cualquier otra circunstancia, logre que se le otorgue nombramiento o se le contrate en determinado puesto, sin tener los conocimientos o aptitudes necesarios; y
 
-XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite en los centros educativos.
+XIV.- Realice actos u omisiones cuya gravedad y consecuencias sean análogas a las causales anteriores en lo que al servicio se refiere.
 
-XII. Se elaboren protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2019)</small>
 
-XIII. Garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad en todos los niveles del Sistema Educativo Nacional, desarrollando y aplicando normas y reglamentos que eviten su discriminación y las condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente capacitado.
+###### ARTÍCULO 56.
 
-XIV. Adoptar medidas para responder a las necesidades de niñas, niños y adolescentes con aptitudes sobresalientes, de tal manera que se posibilite su desarrollo progresivo e integral, conforme a sus capacidades y habilidades personales.
+Cuando el trabajador incurra en cualquiera de las causales de cese previstas en esta Ley, el servidor público facultado por los ordenamientos de la institución pública de que se trate, citará al trabajador, así como a su representante sindical, por lo menos con veinticuatro horas de anticipación al levantamiento del acta administrativa. El servidor público facultado procederá a la realización del acta administrativa, en la que se oirá en defensa al trabajador y dándosele intervención a su representación sindical. Se asentarán en el acta los hechos con la mayor precisión, tomándosele la declaración al afectado, escuchando a los testigos de cargo y descargo, y se recibirán además las demás pruebas pertinentes dentro del plazo improrrogable de tres días hábiles; firmándose cada una de las actuaciones con dos testigos de asistencia.
 
-XV. Establecer mecanismos para la expresión y participación de niñas, niños y adolescentes, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez que permita atender y tomar en cuenta sus intereses y preocupaciones en materia educativa.
+###### ARTICULO 57.
 
-XVI. Contribuir a garantizar la permanencia y conclusión de la educación obligatoria de niñas, niños y adolescentes y para abatir el ausentismo, abandono y deserción escolares.
+El acta a que se refiere el artículo anterior, no se invalida si alguno de los que intervienen se niega a firmarla; siempre deberá entregársele copia legible al trabajador afectado en los casos de abandono de empleo o de servicio, prisión del mismo y demás casos en que por su naturaleza no pudiere estar presente. No se exigirá que concurra para levantar el acta administrativa correspondiente.
 
-XVII. Administrar la disciplina escolar de modo compatible con la dignidad humana, impidiendo la imposición de medidas de disciplina que no estén previamente establecidas, sean contrarias a la dignidad humana o atenten contra la vida o la integridad física o mental de niñas, niños y adolescentes.
+###### ARTICULO 58.
 
-XVIII. Erradicar el castigo corporal y las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes.
+Todo cese deberá efectuarse por causa justificada precedida de investigación y éste no podrá darse si el trabajador se encuentra incapacitado, de vacaciones, con permiso o licencia. En estos casos el término para llevar a cabo la investigación o imponer la sanción, empezará a correr hasta que el trabajador se encuentre nuevamente en servicio.
 
-XIX. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2013)</small>
 
-XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación.
+###### ARTICULO 59.
 
-XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional.
+El trabajador que se considere cesado injustamente, podrá demandar ante el Tribunal Estatal de Conciliación y Arbitraje, la reinstalación en el cargo o puesto que tenía con todos sus derechos anteriores, y en las mismas condiciones en que las que se desempeñara, o la indemnización equivalente a tres meses de sueldo, y los salarios caídos desde la fecha del cese y hasta por un período máximo de doce meses, a razón del que corresponda a la fecha en que se realice el pago.
 
-XXII. Integrar de manera transversal mecanismos para garantizar los derechos lingüísticos y culturales de niñas niños y adolescentes indígenas.
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
 
-XXIII. Establecer acciones afirmativas que garanticen el acceso y permanencia escolar de niñas, niños y adolescentes trabajadores, faciliten su reingreso y promuevan su egreso del sistema educativo nacional.
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento, o no se ha dado cumplimiento al laudo, se pagará al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago.
 
-XXIV. Otorgar una correcta orientación vocacional, para que así puedan elegir la profesión, arte, oficio y opción educativa que cumpla con sus expectativas y virtudes.
+La falta de notificación por escrito del cese al trabajador dentro de los tres días siguientes al mismo, será causa para considerar el despido como injustificado. En caso de que el trabajador se niegue a recibirla, el representante de la institución pública, lo comunicará al Tribunal Estatal de Conciliación y Arbitraje para los efectos de su notificación.
 
-Las autoridades escolares, en el ámbito de su competencia, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
+### CAPITULO I.
 
-###### Artículo 65.
+DE LAS OBLIGACIONES DE LAS INSTITUCIONES PUBLICAS.
 
-La educación, además de lo dispuesto en las disposiciones aplicables, tendrá los siguientes fines:
+###### ARTICULO 60.
 
-I. Fomentar en niñas, niños y adolescentes los valores fundamentales y el respeto de la identidad propia, así como a las diferencias culturales y opiniones diversas.
+Las instituciones públicas de gobierno o sus titulares, quedarán eximidos de reinstalar al trabajador, en los siguientes casos:
 
-II. Desarrollar la personalidad, las aptitudes y las potencialidades de niñas, niños y adolescentes.
+I.- Tratándose de trabajadores que tengan antigüedad menor a un año;
 
-III. Inculcar a niñas, niños y adolescentes sentimientos de identidad y pertenencia a su escuela, comunidad y nación, así como su participación activa en el proceso educativo y actividades cívicas en términos de las disposiciones aplicables.
+II.- Tratándose de trabajadores de confianza; y
 
-IV. Orientar a niñas, niños y adolescentes respecto a la formación profesional, las oportunidades de empleo y las posibilidades de carrera.
+III.- Tratándose de trabajadores eventuales.
 
-V. Apoyar a niñas, niños y adolescentes que sean víctimas de maltrato y la atención especial de quienes se encuentren en situación de riesgo.
+En los casos señalados en las fracciones anteriores, las instituciones públicas de gobierno, deberán pagar al trabajador cuando proceda, la indemnización que se determina en el artículo 61 de esta ley.
 
-VI. Prevenir el delito y las adicciones, mediante el diseño y ejecución de programas.
+###### ARTICULO 61.
 
-VII. Emprender, en cooperación con quienes ejerzan la patria potestad, tutela o guarda y custodia, así como con grupos de la comunidad, la planificación, organización y desarrollo de actividades extracurriculares que sean de interés para niñas, niños y adolescentes.
+Las indemnizaciones que correspondan a los casos previstos en el artículo anterior, consistirán:
 
-VIII. Promover la educación sexual integral conforme a su edad, el desarrollo evolutivo, cognoscitivo y madurez, que le permitan a niñas, niños y adolescentes ejercer de manera informada y responsable sus derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, en las Leyes y los Tratados Internacionales.
+I.- En el trabajo contratado por tiempo determinado menor de un año, el importe de los salarios de la mitad del tiempo de servicios prestados; si excede de un año, el importe de los salarios de seis meses por el primer año y de veinte días por cada uno de los años siguientes en que se hubieren prestado los servicios;
 
-IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos.
+II.- En la relación de trabajo por tiempo indeterminado, consistirá en veinte días de salario por cada año de servicios prestados; y
 
-X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2023)</small>
 
-###### Artículo 66.
+III. Además de las indemnizaciones señaladas anteriormente, se pagará el importe de tres meses de salarios y los salarios caídos desde la fecha del cese y hasta por un período máximo de doce meses, a razón del que corresponda a la fecha en que se realice el pago.
 
-Sin perjuicio de lo dispuesto en otras disposiciones aplicables, las autoridades competentes llevarán a cabo las acciones necesarias para propiciar las condiciones idóneas para crear un ambiente libre de violencia en las instituciones educativas, en el que se fomente la convivencia armónica y el desarrollo integral de niñas, niños y adolescentes, incluyendo la creación de mecanismos de mediación permanentes donde participen quienes ejerzan la patria potestad o tutela.
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2023)</small>
 
-Para efectos del párrafo anterior, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, y las instituciones académicas se coordinarán para:
+En su caso también se pagarán intereses, en términos del segundo párrafo del artículo 59.
 
-I. Diseñar estrategias y acciones para la detección temprana, contención, prevención y erradicación del acoso o la violencia escolar en todas sus manifestaciones, que contemplen la participación de los sectores público, privado y social, así como indicadores y mecanismos de seguimiento, evaluación y vigilancia;
+###### ARTICULO 62.
 
-II. Desarrollar actividades de capacitación para servidores públicos y para el personal administrativo y docente.
+El trabajador podrá dar por terminada la relación de trabajo con la institución pública a la que preste sus servicios, sin responsabilidad para éste, por las siguientes causas:
 
-Creando un mecanismo para garantizar la formación, capacitación y profesionalización continua y obligatoria de los servidores públicos vinculados con la protección, restitución y garantía de sus derechos a nivel estatal y municipal.
+I.- Ser engañado por el titular de la institución pública de gobierno, respecto de las condiciones de trabajo propuestas. Dejará de tener efecto esta causa después de treinta días de prestarse el trabajo;
 
-III. Establecer mecanismos gratuitos de atención, asesoría, orientación y protección de niñas, niños y adolescentes involucrados en una situación de acoso o violencia escolar.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
 
-IV. Establecer y aplicar las sanciones que correspondan a las personas, responsables de centros de asistencia social, personal docente o servidores públicos que realicen, promuevan, propicien, toleren o no denuncien actos de acoso o violencia escolar, conforme a lo dispuesto en esta Ley y demás disposiciones aplicables.
+II.- Incurrir el titular de la institución de gobierno, sus familiares o su personal directivo o administrativo, dentro del servicio, en faltas de probidad u honradez, actos de violencia, amenazas, injurias, hostigamiento y/o acoso sexual, malos tratamientos u otros análogos, en contra del trabajador, cónyuge, padres, hijos o hermanos de éste;
 
-###### Artículo 67.
+III.- Las mismas faltas señaladas en la fracción anterior fuera del servicio, si son tan graves que hagan imposible el cumplimiento de la relación de trabajo;
 
-La falta de documentación para acreditar la identidad de niñas, niños y adolescentes no será obstáculo para que el Estado garantice su derecho a la educación; sin embargo quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes están obligados a realizar los trámites correspondientes y poder dotarlos de una identidad.
+IV.- Reducción del salario del trabajador;
 
-### Capítulo Décimo Segundo. Del Derecho al Descanso y al Esparcimiento
+V.- No recibir el sueldo en el lugar y fecha establecidos;
 
-###### Artículo 68.
+VI.- Recibir perjuicio en sus herramientas o útiles de trabajo, causados por la institución pública de gobierno o sus representantes; y
 
-Niñas, niños y adolescentes tienen derecho al descanso, al esparcimiento, al juego y a las actividades recreativas propias de su edad, así como a participar libremente en actividades culturales, deportivas y artísticas, los cuales serán respetados como factores primordiales de su desarrollo y crecimiento.
+VII.- Las que sean análogas a las fracciones anteriores e igualmente graves y de consecuencias semejantes, en lo que al trabajo se refiere.
 
-Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes deberán respetar el ejercicio de estos derechos y, por lo tanto, no podrán imponerles regímenes de vida, estudio, trabajo o reglas de disciplina desproporcionadas a su edad, desarrollo evolutivo, cognoscitivo y madurez, que impliquen la renuncia o el menoscabo de los mismos.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2018)</small>
 
-###### Artículo 69.
+###### ARTICULO 63.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a garantizar el derecho de niñas, niños y adolescentes al descanso y el esparcimiento y a fomentar oportunidades apropiadas, en condiciones de igualdad, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
+El trabajador podrá separarse del servicio dentro del término de treinta días contados a partir de la fecha en que se dé cualquiera de las causas mencionadas en el artículo anterior, teniendo derecho al pago de una indemnización conforme al artículo 61 de esta Ley, así como de las prestaciones que le correspondan conforme a la ley.
 
-### Capítulo Décimo Tercero. Del Derecho a la Libertad de Convicciones Éticas, Pensamiento, Conciencia, Religión y Cultura
+### CAPITULO II.
 
-###### Artículo 70.
+DE LAS OBLIGACIONES DE LOS TRABAJADORES.
 
-Las niñas, niños y adolescentes tendrán derecho a mantener y desarrollar su identidad cultural, haciendo uso de su lengua materna en privado y en público y recibiendo información y educación en su lengua. Las instituciones estatales y municipales deberán establecer mecanismos para que niñas, niños y adolescentes sean debidamente atendidos.
+###### ARTICULO 64.
 
-Las niñas, niños y adolescentes, tendrán derecho a participar en todos los medios de comunicación de manera equitativa, con el fin de reflejar su diversidad cultural ante la sociedad, y con ello, lograr el respeto (sic) sus derechos.
+Se entienden por riesgos de trabajo los accidentes y enfermedades a los que están expuestos los servidores públicos en ejercicio de sus labores. También se incluyen los accidentes que se produzcan al trabajador en el trayecto de su domicilio al lugar de trabajo o viceversa.
 
-Las autoridades estatales y municipales observarán la garantía de este derecho en la aplicación de esta ley. Así mismo, estas, junto con la sociedad, deberán respetar las costumbres, tradiciones, lengua, vestimenta y todo lo que implique la identidad cultural de las niñas, niños y adolescentes pertenecientes a cualquier grupo social.
+###### ARTICULO 65.
 
-###### Artículo 71.
+Accidente de trabajo es aquel cuyas consecuencias pueden consistir en una lesión orgánica, perturbación funcional, inmediata o posterior o la muerte, producidas repentina o intempestivamente en ejercicio o con motivo del trabajo, donde quiera que sea el lugar y el tiempo en que se presenten.
 
-Las Niñas, niños y adolescentes tienen derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias garantizarán este derecho en el marco del estado laico.
+###### ARTICULO 66.
 
-La libertad de profesar la propia religión o creencias estará sujeta únicamente a las limitaciones prescritas por la ley que sean necesarias para proteger los derechos y libertades fundamentales de los demás.
+Debe entenderse por enfermedad profesional el estado patológico derivado de una acción continuada, con motivo de la prestación de servicios.
 
-Niñas, niños y adolescentes no podrán ser discriminados de forma alguna por ejercer su libertad de convicciones éticas, pensamiento, conciencia, religión y cultura.
+###### ARTICULO 67.
 
-###### Artículo 72.
+Cuando se sufra un riesgo de trabajo y sea rehabilitado el servidor público, se le reinstalará de acuerdo a su capacidad en el puesto que ocupaba y en el caso de que no pueda desempeñarlo, se le podrá designar aquel que sea compatible con el esfuerzo que pueda desarrollar y de acuerdo con su aptitud física y mental.
 
-Las niñas, niños y adolescentes tienen derecho a disfrutar libremente de su lengua, cultura, usos, costumbres, prácticas culturales, religión, recursos y formas específicas de organización social y todos los elementos que constituyan su identidad cultural.
+### CAPITULO I.
 
-Las autoridades Estatales y Municipales en el ámbito de sus respectivas competencias, estarán obligados a establecer políticas tendentes a garantizar la promoción, difusión y protección de la diversidad de las expresiones culturales, regionales y universales, entre niñas, niños y adolescentes.
+DE LA SUSPENSION DE LAS RELACIONES DE TRABAJO.
 
-Lo dispuesto en este artículo no será limitativo del ejercicio del derecho a la educación, según lo dispuesto en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y el artículo 4° de la Constitución Política local, ni de los principios rectores de la presente Ley.
+###### ARTICULO 68.
 
-### Capítulo Décimo Cuarto. Del Derecho a la Libertad de Expresión y de Acceso a la Información
+Los titulares de las instituciones públicas de gobierno, levantarán acta circunstanciada de los hechos, dándole intervención al representante sindical en su caso, comunicando inmediatamente el suceso a la institución o dependencia responsable del control del personal y del pago de las indemnizaciones por riesgo de trabajo, para los efectos consiguientes. Además se dará vista con la documentación respectiva a la Comisión Mixta de Higiene y a la institución médica autorizada para conocer y dictaminar al respecto.
 
-###### Artículo 73.
+###### ARTICULO 69.
 
-Las autoridades Estatales y Municipales en el ámbito de sus respectivas competencias deberán garantizar el derecho de niñas, niños y adolescentes a expresar su opinión libremente, así como a buscar, generar, acceder, recibir y difundir información e ideas de todo tipo y por cualquier medio, sin más limitaciones que las establecidas en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política local.
+Los trabajadores al servicio de las instituciones públicas de gobierno, tendrán derecho a la jubilación en los términos y bajo las condiciones y requisitos establecidos por la ley.
 
-La libertad de expresión de niñas, niños y adolescentes conlleva el derecho a que se tome en cuenta su opinión respecto de los asuntos que les afecten directamente, o a sus familias o comunidades. Dichas autoridades, en el ámbito de sus respectivas competencias, deberán establecer las acciones que permitan la recopilación de opiniones y realización de entrevistas a niñas, niños y adolescentes sobre temas de interés general para ellos.
+### CAPITULO II.
 
-En poblaciones predominantemente indígenas, las autoridades a que se refiere este artículo, tienen la obligación de difundir la información institucional y la promoción de los derechos en la lengua indígena local.
+DE LA TERMINACION DE LAS RELACIONES DE TRABAJO.
 
-Asimismo, las autoridades a que se refiere este artículo dispondrán lo necesario para garantizar que niñas, niños y adolescentes con discapacidad cuenten con los sistemas de apoyo para ejercer su derecho a la libertad de expresión, acceso a la información y sistema de apoyo para la expresión de su voluntad.
+###### ARTICULO 70.
 
-###### Artículo 74.
+Sindicato es la asociación de trabajadores al servicio de las instituciones públicas, constituido para el estudio, mejoramiento y defensa de sus intereses comunes.
 
-Niñas, niños y adolescentes tienen derecho al libre acceso a la información. Las autoridades Estatales y Municipales, en el ámbito de sus respectivas competencias promoverán la difusión de información y material que tengan por finalidad asegurar su bienestar social y ético, así como su desarrollo cultural y salud física y mental.
+###### ARTICULO 71.
 
-El Sistema Estatal de Protección Integral acordará lineamientos generales sobre la información y materiales para difusión entre niñas, niños y adolescentes, conforme a lo dispuesto en esta Ley.
+Quedarán en suspenso todos los derechos y obligaciones sindicales, cuando los trabajadores de base sindicalizados desempeñen temporalmente un puesto de confianza o de elección popular.
 
-###### Artículo 75.
+###### ARTICULO 72.
 
-Las autoridades Estatales y Municipales, en el ámbito de sus respectivas competencias, promoverán mecanismos para la protección de las niñas, niños y adolescentes respecto de los riesgos derivados del acceso a medios de comunicación y uso de sistemas de información que afecten o impidan objetivamente su desarrollo integral.
+Para la constitución de un sindicato se requieren por lo menos veinte trabajadores de base en servicio activo.
 
-###### Artículo 76.
+### CAPITULO III.
 
-Sin perjuicio de lo previsto en las disposiciones aplicables a los medios de comunicación, las autoridades estatales competentes, en el ámbito de sus respectivas competencias, procurarán que éstos difundan información y materiales relacionados con:
+DEL CESE.
 
-I. El interés social y cultural para niñas, niños y adolescentes, de conformidad con los objetivos de la educación que dispone la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política local.
+###### ARTICULO 73.
 
-II. La existencia en la sociedad de servicios, instalaciones y oportunidades destinados a niñas, niños y adolescentes.
+El registro de un sindicato se realizará ante el Tribunal Estatal de Conciliación y Arbitraje, para lo cual la solicitud deberá ser acompañada por duplicado, con la siguiente documentación:
 
-III. La orientación a niñas, niños y adolescentes en el ejercicio de sus derechos.
+I.- Copia autorizada del acta de asamblea constitutiva;
 
-IV. La promoción de la prevención de violaciones a los derechos humanos de niñas, niños y adolescentes y la comisión de actos delictivos.
+II.- Copia del acta de la asamblea donde se hayan aprobado los estatutos del sindicato;
 
-V. El enfoque de inclusión, igualdad sustantiva, no discriminación y perspectiva de género y de derechos humanos.
+III.- Copia autorizada del acta de asamblea en la que se haya elegido el comité ejecutivo del sindicato; y
 
-###### Artículo 77.
+IV.- Padrón de miembros integrantes del sindicato, expresándose el nombre, domicilio, edad, estado civil, empleo o cargo que desempeñan.
 
-La Procuraduría de Protección Estatal, podrá promover ante las autoridades administrativas competentes la imposición de sanciones a los medios de comunicación, en los términos que establece esta Ley y demás disposiciones aplicables.
+Al ser recibida la solicitud de registro por el tribunal, éste podrá discrecionalmente por los medios mas prácticos y eficaces, cerciorarse de la información proporcionada por los interesados; asimismo deberá recabar constancias o certificaciones de que no existe otro sindicato dentro de la entidad pública de que se trate.
 
-Asimismo, la Procuraduría de Protección Estatal, estará facultada para promover acciones colectivas ante el órgano jurisdiccional competente, con objeto de que éste ordene a los medios de comunicación que se abstengan de difundir información o contenidos que pongan en peligro de forma individual o colectiva, la vida, la integridad, la dignidad u otros derechos de niñas, niños y adolescentes y, en su caso, reparen los daños que se hubieren ocasionado, sin menoscabo de las atribuciones que sobre esta materia tengan las autoridades competentes.
+También será facultad del tribunal, previa a la resolución de registro, certificar o constatar si el sindicato solicitante cuenta con la mayoría de los trabajadores.
 
-Lo anterior, sin perjuicio de cualquier otra responsabilidad a la que hubiere lugar de conformidad con las disposiciones aplicables.
+###### ARTICULO 74.
 
-### Capítulo Décimo Quinto. Del Derecho a la Participación
+Será negado el registro sindical:
 
-###### Artículo 78.
+I.- Si el sindicato no tuviere por objeto el estudio, mejoramiento y defensa de los intereses de sus miembros;
 
-Niñas, niños y adolescentes tienen derecho a ser escuchados y tomados en cuenta en los asuntos de su interés, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+II.- Si no contare cuando menos con veinte miembros;
 
-###### Artículo 79.
+III.- Si no exhibe la documentación que le impone esta ley; y
 
-Las autoridades Estatales y Municipales en el ámbito de sus respectivas competencias, están obligadas a disponer e implementar los mecanismos que garanticen la participación permanente y activa de niñas, niños y adolescentes en las decisiones que se toman en los ámbitos familiar, escolar, social, comunitario o cualquier otro en el que se desarrollen.
+IV.- Cuando existiere otro sindicato registrado dentro de la misma Institución pública de gobierno.
 
-###### Artículo 80.
+Satisfechos los requisitos establecidos para el registro de los sindicatos, no podrá negarse este derecho.
 
-Niñas, niños y adolescentes tienen derecho a participar, a ser escuchados y tomados en cuenta en todos los procesos judiciales y de procuración de justicia donde se diriman controversias que les afectan, en los términos señalados por el Capítulo Décimo Noveno del Título Segundo de la presente Ley.
+Si el Tribunal Estatal de Conciliación y Arbitraje no resuelve dentro del término de sesenta días, los solicitantes podrán requerirlo para que dicte resolución y si no lo hace dentro de los tres días siguientes, se tendrá por hecho automáticamente el registro, quedando obligado el tribunal, dentro de los tres días siguientes a expedir constancia.
 
-###### Artículo 81.
+###### ARTICULO 75.
 
-Niñas, niños y adolescentes tienen derecho a que las autoridades estatales y municipales, les informen de qué manera su opinión será valorada y tomada en cuenta su solicitud.
+El registro de un sindicato podrá cancelarse:
 
-### Capítulo Décimo Sexto. Del Derecho de Asociación y Reunión
+I.- Por disolución; y
 
-###### Artículo 82.
+II.- Por dejar de cumplir los requisitos legales.
 
-Las niñas, niños y adolescentes tienen derecho a asociarse y reunirse, sin más limitaciones que las establecidas en la Constitución Política de los Estados Unidos Mexicanos.
+El Tribunal Estatal de Conciliación y Arbitraje será competente para resolver sobre la cancelación de registros.
 
-Quienes ejerzan la patria potestad, tutela o guarda y custodia representarán a niñas, niños y adolescentes para el ejercicio del derecho de asociación, cuando ello sea necesario para satisfacer las formalidades que establezcan las disposiciones aplicables.
+###### ARTICULO 76.
 
-### Capítulo Décimo Séptimo. Del Derecho a la Intimidad
+No procede la disolución, suspensión o cancelación de un registro sindical, por vía administrativa.
 
-###### Artículo 83.
+###### ARTICULO 77.
 
-Las niñas, niños y adolescentes tienen derecho a la intimidad personal y familiar, y a la protección de sus datos personales.
+Los sindicatos legalmente constituidos son personas morales y tienen capacidad para:
 
-Las niñas, niños y adolescentes no podrán ser objeto de injerencias arbitrarias o ilegales en su vida privada, su familia, su domicilio o su correspondencia tanto física como electrónica; tampoco de divulgaciones o difusiones ilícitas de información o datos personales, incluyendo aquélla que tenga carácter informativo a la opinión pública o de noticia que permita identificarlos y que atenten contra su honra, imagen o reputación.
+I.- Adquirir bienes muebles;
 
-Quienes ejerzan la patria potestad, tutela o guarda y custodia, deberán orientar, supervisar y, en su caso, restringir, las conductas y hábitos de niñas, niños y adolescentes, siempre que atiendan al interés superior de la niñez.
+II.- Adquirir los bienes inmuebles destinados directa e indirectamente al objeto de su organización; y
 
-###### Artículo 84.
+III.- Defender ante cualquier autoridad sus derechos y ejercitar las acciones legales correspondientes.
 
-Se considerará violación a la intimidad de niñas, niños o adolescentes cualquier manejo directo de su imagen, nombre, datos personales o referencias que permitan su identificación en los medios de comunicación que cuenten con concesión para prestar el servicio de radiodifusión y telecomunicaciones, así como medios impresos, o en medios electrónicos de los que tenga control el concesionario o medio impreso del que se trate, que menoscabe su honra o reputación, sea contrario a sus derechos o que los ponga en riesgo, conforme al principio de interés superior de la niñez.
+### CAPITULO I.
 
-###### Artículo 85.
+DE LOS RIESGOS DE TRABAJO.
 
-Cualquier medio de comunicación que difunda entrevistas a niñas, niños y adolescentes, procederá como sigue:
+###### ARTICULO 78.
 
-I. Deberá recabar el consentimiento por escrito o cualquier otro medio, de quienes ejerzan la patria potestad o tutela, así como la opinión de la niña, niño o adolescente, respectivamente, conforme a lo señalado en el artículo anterior y a lo previsto en el párrafo segundo del artículo 83 de la presente Ley.
+Los sindicatos pueden representar a sus afiliados en la defensa de sus derechos individuales, sin perjuicio del derecho que éstos tienen para intervenir directamente, cesando entonces a petición del trabajador, la intervención del sindicato.
 
-II. La persona que realice la entrevista será respetuosa y no podrá mostrar actitudes ni emitir comentarios que afecten o impidan objetivamente el desarrollo integral de niñas, niños y adolescentes.
+###### ARTICULO 79.
 
-En el caso de que no sea posible recabar el consentimiento de quienes ejerzan la patria potestad o tutela de un adolescente, éste podrá otorgarlo siempre que ello no implique una afectación a su derecho a la privacidad por el menoscabo a su honra o reputación.
+Tendrá la representación del sindicato el Secretario General o la persona que designe la directiva, salvo lo dispuesto en sus estatutos.
 
-No se requerirá el consentimiento de quienes ejerzan la patria potestad o tutela de niñas, niños o adolescentes, cuando la entrevista tenga por objeto que éstos expresen libremente, en el ejercicio de su derecho a la libertad de expresión, su opinión respecto de los asuntos que les afecten directamente, siempre que ello no implique una afectación a sus derechos, en especial a su honra y reputación.
+###### ARTICULO 80.
 
-###### Artículo 86.
+No podrán ser directivos sindicales los menores de dieciséis años, ni los extranjeros.
 
-Las autoridades Estatales y Municipales en el ámbito de sus respectivas competencias y en todos los procedimientos con independencia de su naturaleza, garantizarán la protección de la identidad e intimidad de niñas, niños y adolescentes cualquiera que sea su participación, a fin de evitar su identificación pública.
+###### ARTICULO 81.
 
-###### Artículo 87.
+Son obligaciones del sindicato:
 
-Los medios de comunicación deberán asegurarse que las imágenes, voz o datos a difundir, no pongan en peligro, de forma individual o colectiva, la vida, integridad, dignidad o vulneren el ejercicio de derechos de niñas, niños y adolescentes, aun cuando se modifiquen, se difuminen o no se especifiquen sus identidades, y evitarán la difusión de imágenes o noticias que propicien o sean tendentes a su discriminación, criminalización o estigmatización, en contravención a las disposiciones aplicables.
+I.- Atender la solicitud sobre informes que le envíe el Tribunal Estatal de Conciliación y Arbitraje, siempre que se trate de las actuaciones inherentes al sindicato;
 
-En caso de incumplimiento a lo establecido en el presente artículo, niñas, niños o adolescentes afectados, por conducto de su representante legal o, en su caso, de la Procuraduría de Protección Estatal, actuando de oficio o en representación sustituta, podrá promover las acciones civiles de reparación del daño e iniciar los procedimientos por la responsabilidad administrativa a que haya lugar; así como dar seguimiento a los procedimientos hasta su conclusión.
+II.- Comunicar al tribunal en un término no mayor de diez días, los cambios de directiva y las modificaciones a los estatutos, acompañando por duplicado copia autorizada de las actas respectivas;
 
-Niñas, niños o adolescentes afectados, considerando su edad, grado de desarrollo cognoscitivo y madurez, solicitarán la intervención de la Procuraduría de Protección Estatal.
+III.- Cada tres meses por lo menos, informar al tribunal de las altas y bajas de sus agremiados; y
 
-En los procedimientos civiles o administrativos que sean iniciados o promovidos por quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, las Procuradurías de Protección Municipales ejercerán su representación coadyuvante.
+IV.- Las demás que le señalen sus respectivos estatutos y ordenamientos de la materia.
 
-###### Artículo 88.
+### CAPITULO II.
 
-En los procedimientos ante órganos jurisdiccionales, se podrá solicitar que se imponga como medida cautelar la suspensión o bloqueo de cuentas de usuarios en medios electrónicos, a fin de evitar la difusión de información, imágenes, sonidos o datos que puedan contravenir el interés superior de la niñez.
+DE LA JUBILACION.
 
-El órgano jurisdiccional, con base en este artículo y en las disposiciones aplicables, podrá requerir a las empresas de prestación de servicios en materia de medios electrónicos, que realicen las acciones necesarias para el cumplimiento de las medidas cautelares que ordene.
+###### ARTICULO 82.
 
-### Capítulo Décimo Octavo. Del Derecho a la Movilidad Humana y al Libre Tránsito
+Se prohibe a los sindicatos ejercer actos de comercio con ánimo de lucro.
 
-###### Artículo 89.
+### CAPITULO I.
 
-Niñas, niños y adolescentes tienen derecho a migrar y a transitar libremente por el territorio nacional, a entrar y salir de él, acompañados de quien ejerza la patria potestad, tutela, guarda o custodia, o en su caso, con la autorización de éstos o de la autoridad competente, en plena observancia al principio rector del interés superior de la niñez.
+DE LOS SINDICATOS.
 
-### Capítulo Décimo Noveno. Del Derecho a la Seguridad Jurídica y al Debido Proceso
+###### ARTICULO 83.
 
-###### Artículo 90.
+Los sindicatos se disolverán:
 
-Las niñas, niños y adolescentes gozan de los derechos y garantías de seguridad jurídica y debido proceso establecidos en la Constitución Política de los Estados Unidos Mexicanos, Los Tratados Internacionales, la presente Ley y demás disposiciones aplicables.
+I.- Por el voto de las dos terceras partes de los miembros integrantes; y
 
-###### Artículo 91.
+II.- Por transcurrir el término fijado en los estatutos.
 
-En todo proceso de orden jurisdiccional o administrativo, en el que las niñas, niños y adolescentes se vean involucrados, se deberán cumplir con los derechos fundamentales y las garantías previstas en la ley. Además serán tratados con respeto y, en función de su edad y madurez, se les tendrá la consideración debida. Para ello serán valorados por profesionales que determinen si por su condición se encuentran en posibilidad de comparecer en un procedimiento seguido en forma de juicio.
+###### ARTICULO 84.
 
-Esta circunstancia se acreditará mediante el certificado psicológico que determine el grado de conciencia y la manera, forma o mecanismos idóneos para tomar su parecer, acorde a su madurez y edad, a fin de no afectar su expresión de voluntad y su estabilidad emocional.
+En caso de disolución del sindicato, el activo se aplicará en la forma que determinen sus estatutos.
 
-Para garantizar lo establecido en el párrafo anterior, la Procuraduría General de Justicia del Estado y el Tribunal Superior de Justicia, deberán contar con el personal especializado en psicología que certifique y acompañe a las niñas, niños y adolescentes, en los procesos respectivos.
+###### ARTICULO 85.
 
-###### Artículo 92.
+Huelga es la suspensión temporal del trabajo como resultado de una coalición de trabajadores, decretada en la forma y términos que esta ley establece.
 
-En todo proceso judicial o administrativo en el que las niñas, niños o adolescentes participen, independientemente de la calidad con que lo hagan, se establecerán las condiciones necesarias, de conformidad con su grado de desarrollo y estado emocional, a fin de que su comparecencia no tenga como consecuencia una victimización y que la experiencia sea lo menos perjudicial posible.
+###### ARTICULO 86.
 
-En términos del párrafo anterior, las autoridades jurisdiccionales o administrativas, procurarán que las participaciones se desarrollen en el horario matutino o vespertino preferentemente.
+Declaración de huelga es la manifestación de la voluntad de la mayoría de los trabajadores de una institución pública de gobierno, de suspender las labores, de acuerdo con los requisitos que establece esta ley.
 
-###### Artículo 93.
+###### ARTICULO 87.
 
-Las autoridades Estatales y Municipales, que sustancien procedimientos de carácter jurisdiccional o administrativo o que realicen cualquier acto de autoridad en los que estén relacionados niñas, niños o adolescentes, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez estarán obligadas a observar, cuando menos a:
+Los trabajadores podrán hacer uso del derecho de huelga en una o varias dependencias de las instituciones públicas de gobierno, cuando se violen de manera general y sistemática en su perjuicio, los derechos comprendidos en esta ley.
 
-I. Garantizar la protección y prevalencia del interés superior de la niñez a que se refiere la presente Ley.
+###### ARTICULO 88.
 
-II. Garantizar el ejercicio de los derechos de niñas, niños y adolescentes, establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la Constitución Política Local, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la presente Ley y demás disposiciones aplicables.
+La huelga deberá limitarse al mero acto de la suspensión del trabajo. Su objeto será exigir el cumplimiento de lo establecido por esta ley y, en su caso, las condiciones generales de trabajo.
 
-III. Proporcionar información clara, sencilla y comprensible para las niñas, niños y adolescentes sobre el procedimiento judicial o administrativo de que se trate y la importancia de su participación en el mismo, incluyendo, en su caso, formatos accesibles de fácil comprensión y lectura para niñas, niños y adolescentes con discapacidad.
+### CAPITULO II.
 
-IV. Implementar mecanismos de apoyo al presentar una denuncia, participar en una investigación o en un proceso judicial.
+DE LA HUELGA.
 
-V. Garantizar el derecho de niñas, niños y adolescentes a ser representados en términos de lo dispuesto en el Título Quinto, Capítulo Segundo, de la presente Ley, así como información sobre las medidas de protección disponibles.
+###### ARTICULO 89.
 
-VI. Proporcionar asistencia de profesionales especializados cuando la naturaleza del procedimiento lo requiera.
+La huelga sólo suspende los efectos de los nombramientos de los trabajadores por el tiempo que dure, pero sin terminar o extinguir los efectos del propio nombramiento.
 
-VII. Proporcionar la asistencia de un traductor o intérprete.
+### CAPITULO I.
 
-VIII. Ponderar, antes de citar a una niña, niño o adolescente a alguna audiencia, la pertinencia de la misma, considerando su edad, madurez, estado psicológico, así como cualquier otra condición específica.
+DEL TRIBUNAL ESTATAL DE CONCILIACION Y ARBITRAJE.
 
-IX. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potestad, tutela, guarda o custodia durante la sustanciación de todo el procedimiento, salvo disposición judicial en contrario.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
 
-X. Poseer la infraestructura necesaria como medida de protección para evitar el contacto con personas que puedan influir en el comportamiento o estabilidad emocional de la persona menor de edad.
+###### ARTICULO 90.
 
-XI. Destinar espacios lúdicos de descanso y aseo para niñas, niños y adolescentes en los recintos en que se lleven a cabo procedimientos en que deban intervenir.
+Pierden la calidad de trabajadores, los huelguistas que cometieren actos de coacción, de violencia física o moral sobre los titulares de las instituciones públicas de gobierno afectadas o que cometieren daños en las cosas e instalaciones de las mismas.
 
-XII. Procurar que el tiempo de comparecencia ante la autoridad competente sea el mínimo indispensable a fin de disminuir el temor y angustia.
+###### ARTICULO 91.
 
-XIII. Implementar medidas para proteger a niñas, niños o adolescentes de sufrimientos durante su participación y garantizar el resguardo de su intimidad y datos personales.
+Para declarar la huelga se requiere que se compruebe con la copia del acta de la asamblea respectiva que las dos terceras partes de los trabajadores de la institución pública de gobierno, han manifestado su voluntad de suspender las labores, documento que se exhibirá con el pliego de peticiones, para que el Tribunal Estatal de Conciliación y Arbitraje cuente con elementos para determinar su autenticidad.
 
-###### Artículo 94.
+###### ARTICULO 92.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, garantizarán que niñas y niños a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito se les reconozca que están exentos de responsabilidad penal y garantizarán que no serán privados de la libertad ni sujetos a procedimiento alguno, sino que serán únicamente sujetos a la asistencia social con el fin de restituirles, en su caso, en el ejercicio de sus derechos.
+Antes de suspender las labores, los trabajadores presentarán por conducto del Presidente del Tribunal Estatal de Conciliación y Arbitraje el pliego de peticiones, adjuntando la copia del acta de asamblea en la que se haya acordado por las dos terceras partes cuando menos declarar la huelga. En la solicitud deberán establecer fecha y hora del estallamiento.
 
-Lo anterior, sin perjuicio de las responsabilidades civiles que correspondan a quienes ejerzan la patria potestad, tutela o guarda y custodia, conforme a las disposiciones aplicables.
+El tribunal, una vez recibido el escrito de solicitud y sus anexos, mandará correr traslado, con la copia de éstos, al o a los funcionarios de quienes dependa la solución de las violaciones generales y sistemáticas a los derechos consagrados en esta ley, para que resuelvan lo conducente en el término de diez días contados a partir de la notificación.
 
-###### Artículo 95.
+###### ARTICULO 93.
 
-En aquellos casos en que el Ministerio Público o cualquier otra autoridad competente, tenga conocimiento de la presunta comisión o participación de una niña, niño y adolescentes (sic) en un hecho que la ley señale como delito, de manera inmediata dará aviso a la Procuraduría de Protección competente.
+El Tribunal Estatal de Conciliación y Arbitraje decidirá dentro del término de setenta y dos horas, contado a partir del momento en que se reciba copia del escrito declarando la huelga, si ésta es procedente e iniciará desde luego la conciliación de las partes, siendo obligatoria la presencia de éstas en las juntas de avenencia.
 
-En ningún caso, niñas o niños podrán ser detenidos, retenidos, sometidos a interrogatorios o privados de su libertad argumentándose su probable participación en un hecho que la ley señale como delito.
+###### ARTICULO 94.
 
-La Procuraduría de Protección competente en el marco de sus atribuciones, deberá, en su caso, solicitar a la autoridad competente de manera inmediata las medidas necesarias para la protección integral, de asistencia social y en su caso, restitución de sus derechos para garantizar que a las niñas y niños les sean respetados todos sus derechos.
+Si la huelga es procedente a juicio del tribunal, transcurrido el plazo de diez días que menciona el artículo 92 de esta ley y si no hubieren llegado a un acuerdo las partes, los trabajadores podrán suspender las labores. A petición de las partes, podrá ampliarse el período de diez días de pre-huelga, si es que se están verificando pláticas tendientes a la solución.
 
-Toda medida que se adopte será susceptible de revisión por órgano judicial competente en un proceso contradictorio en el que se garantice, por lo menos, el derecho a ser escuchado y la asistencia de un abogado especializado.
+###### ARTICULO 95.
 
-###### Artículo 96.
+En caso que la suspensión de labores se lleve a cabo antes de los diez días de verificado el emplazamiento, el tribunal dictará resolución declarando inexistente el estado de huelga y fijará a los trabajadores un término de veinticuatro horas para que reanuden sus labores, con apercibimiento de que si no lo hacen, quedarán extinguidas sus relaciones de trabajo sin responsabilidad para la institución pública de gobierno.
 
-Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, garantizarán que en todos los procedimientos con independencia de su naturaleza, en que estén relacionadas niñas, niños o adolescentes cualquiera que sea su participación, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, tengan al menos los siguientes derechos:
+###### ARTICULO 96.
 
-I. Se les informe sobre la naturaleza del procedimiento y el carácter de su participación en el mismo, el que en ningún caso podrá ser el de imputado o probable responsable.
+Si se pronuncia resolución de improcedencia de la huelga, el tribunal prevendrá a los trabajadores que en caso de suspender las labores, ese acto será causa justificada de cese y pronunciará las medidas que juzgue necesarias para evitar la suspensión de labores.
 
-II. Que su participación en un procedimiento se lleve a cabo de la manera más expedita, asistidos por un profesional en derecho y atendiendo a lo dispuesto por la fracción XI del artículo 93 de esta Ley.
+###### ARTICULO 97.
 
-III. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potestad, tutela o guarda y custodia durante la sustanciación de todo el procedimiento, salvo disposición judicial en contrario, con base en el interés superior de la niñez.
+Si la huelga se declara improcedente, los trabajadores que suspendan las labores quedarán cesados por este hecho, sin responsabilidad para los titulares de la institución pública de gobierno.
 
-IV. Que se preserve su derecho a la intimidad, que no se divulguen sus datos de identificación en los términos de esta Ley y las demás aplicables.
+###### ARTICULO 98.
 
-V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra necesaria atendiendo a las características del caso, a fin de salvaguardar sus derechos, en términos de las disposiciones aplicables.
+La huelga será declarada ilegal y delictuosa cuando la mayoría de los huelguistas ejecuten actos de violencia contra las personas, las propiedades o cuando se decreten durante una invasión perturbaciones graves de la paz pública y de cualquier otro caso en que se ponga a la sociedad en grave peligro o conflicto.
 
-VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos.
+###### ARTICULO 99.
 
-###### Artículo 97.
+En tanto que no se declare ilegal, inexistente o terminado un estado de huelga, el tribunal y las autoridades civiles y militares darán protección al derecho que ejerciten los trabajadores, prestándoles las garantías y auxilio que soliciten.
 
-Siempre que se encuentre una niña, niño o adolescente en el contexto de la comisión de un delito, se notificará de inmediato a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección municipal del domicilio de éstos, para el debido seguimiento.
+### CAPITULO II.
 
-###### Artículo 98.
+DE LAS OBLIGACIONES Y RESPONSABILIDADES DEL PERSONAL DEL TRIBUNAL.
 
-En los procedimientos de orden civil, familiar, penal y administrativos, se deben privilegiar las medidas de protección para evitar la violación a cualesquiera de los derechos de las niñas, niños y adolescentes, cuando exista conflicto de intereses entre quienes ejercen la patria potestad, guarda o custodia y los que estén sujetos a ellas.
+###### ARTICULO 100.
 
-Para garantizar lo anterior, la Procuraduría de Protección municipal que corresponda al domicilio de las niñas, niños y adolescentes, nombrará al representante coadyuvante, sin perjuicio de la intervención que legalmente compete al Ministerio Público.
+Son causas de terminación de la huelga:
 
-###### Artículo 99.
+I.- El acuerdo entre las partes en conflicto;
 
-Ante la comisión de conductas que constituyan faltas o infracciones de orden administrativo, se deberá hacer del conocimiento inmediato de sus padres, tutores o custodios dicha circunstancia, a efecto de que los implicados tomen conciencia sobre las consecuencias del acto y asuman las responsabilidades que derivan de la ley.
+II.- El acuerdo de la mayoría de los trabajadores previamente tomado por la asamblea para disolverla;
 
-Tratándose de conductas consideradas por la legislación penal como delito, se estará a las disposiciones contenidas en la Ley que Establece el Sistema Integral de Justicia para Adolescentes en el Estado de Chiapas y demás ordenamientos aplicables.
+III.- Cualquiera de las causales previstas en los artículos 95 y 96 de esta ley; y
 
-### Capítulo Vigésimo. De las Niñas, Niños y Adolescentes Migrantes
+IV.- El laudo del Tribunal Estatal de Conciliación y Arbitraje que ordene su terminación.
 
-###### Artículo 100.
+###### ARTICULO 101.
 
-Las niñas, niños y adolescentes migrantes, gozarán en igualdad de condiciones de todos los derechos consagrados en la presente Ley.
+Antes de la suspensión de labores, cuando una huelga es declarada procedente, a petición de las autoridades respectivas, el tribunal tomando en consideración las pruebas aportadas, fijará el número de trabajadores de emergencia para desempeñar las labores que sean necesarias para mantener la estabilidad de las instituciones, la conservación de las instalaciones o la salud pública. En caso de que los trabajadores huelguistas se nieguen a desempeñar las labores de emergencia mencionadas, las instituciones públicas de gobierno podrán ocupar a otras personas para su desempeño.
 
-El Estado y los municipios, garantizarán esta igualdad de derechos y acceso a los sistemas de protección para las niñas, niños y adolescentes que no sean de nacionalidad mexicana y se encuentren en condiciones de movilidad humana, incluyendo a migrantes, desplazados internos, solicitantes de asilo, refugiados y apátridas.
+###### ARTICULO 102.
 
-El Estado y los municipios, garantizarán el acceso a los servicios públicos, en situación de movilidad humana, y en especial el acceso a la atención en salud y la educación para las niñas, niños y adolescentes migrantes establecidos de manera permanente o temporal.
+El Tribunal Estatal de Conciliación y Arbitraje es un órgano con personalidad jurídica y patrimonio propios, autónomo en el dictado de sus fallos y con facultad jurisdiccional para resolver las controversias entre las instituciones públicas del Gobierno del Estado, ayuntamientos, organismos públicos descentralizados, órganos jurisdiccionales, tribunales constitucionalmente autónomos, y empresas de participación estatal constituidas conforme a la ley, con sus trabajadores, derivados de las relaciones de trabajo y, en su caso, de los conflictos colectivos. Tendrá su residencia en la capital del Estado.
 
-###### Artículo 101.
+###### ARTICULO 103.
 
-Las autoridades estatales y municipales deberán adoptar, en base al interés superior de la niñez, medidas especiales de protección para garantizar los derechos de niñas, niños y adolescentes migrantes, cualquiera que sea su condición en el contexto de movilidad humana, teniendo en cuenta sus opiniones y privilegiando la reunificación familiar, excepto cuando sea contrario a su interés superior.
+Los gastos que origine el funcionamiento del Tribunal Estatal de Conciliación y Arbitraje serán cubiertos por el Estado y sus integrantes percibirán los emolumentos que se asignen en la ley del Presupuesto de Egresos del Gobierno del Estado.
 
-###### Artículo 102.
+###### ARTICULO 104.
 
-Las autoridades competentes deberán observar los procedimientos de atención y protección especial de derechos de niñas, niños y adolescentes migrantes, previstos en la Ley de Migración, su Reglamento, la Ley sobre Refugiados y Protección Complementaria, su Reglamento, y demás disposiciones jurídicas aplicables, debiendo observar en todo momento el principio del interés superior de la niñez y los estándares internacionales más altos en materia de derechos humanos.
+El Tribunal será colegiado, funcionará en pleno y se integrará por cuatro representantes, con sus respectivos suplentes, y un Presidente que durarán en su cargo tres años, pudiendo ser reelectos por una sola vez.
 
-###### Artículo 103.
+Un representante será designado por el Ejecutivo del Estado; uno por el Ayuntamiento de la capital en representación de todos los municipios de la Entidad; uno por los trabajadores al servicio del Gobierno del Estado y uno por los trabajadores al servicio del Ayuntamiento de la capital, debiendo designar asimismo a los suplentes respectivos. El Presidente será designado por mayoría del Congreso del Estado.
 
-Las Procuradurías de Protección Estatal y municipales, que atiendan a niñas, niños y adolescentes que se encuentren en procesos migratorios, deberán:
+###### ARTICULO 105.
 
-I. Brindarles orientación sobre sus derechos y las etapas del proceso migratorio.
+Para ser miembro del tribunal se requiere:
 
-II. Coadyuvar para que se garantice su derecho de participación en las diferentes etapas procesales.
+I.- Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
-III. Solicitar a la autoridad competente que sean asistidos gratuitamente por un traductor y/o intérprete.
+II.- (DEROGADA, P.O. 20 DE AGOSTO DE 2020)
 
-IV. Asistirlos legalmente, o representarlos en suplencia.
+III.- (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2019)
 
-V. Recurrir la decisión de la autoridad migratoria, ante el órgano jurisdiccional competente.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
 
-###### Artículo 104.
+IV. Ser licenciado en derecho o abogado; en el caso del Presidente del Tribunal con una experiencia de cinco años en el ejercicio de una de estas profesiones.
 
-Para garantizar la protección integral de los derechos, el Sistema DIF-Chiapas y los Sistemas DIF-Municipales, habilitarán espacios de alojamiento o albergues para recibir a niñas, niños y adolescentes migrantes, en términos de lo que establezca la normatividad correspondiente.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 22 DE JUNIO DE 2021)</small>
 
-###### Artículo 105.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 22 DE JUNIO DE 2021)</small>
 
-En caso de que el Sistema DIF-Chiapas y los Sistemas DIF-Municipales según sea el caso, identifiquen, mediante una evaluación inicial, a niñas, niños o adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán a la Comisión Mexicana de Ayuda al Refugiado a fin de adoptar medidas de protección especial e iniciar el procedimiento de solicitud de asilo.
+###### ARTICULO 106.
 
-El Sistema DIF-Chiapas y los Sistemas Municipales, en el ámbito de sus respectivas competencias, deberán, en coordinación con las instituciones competentes, identificar a las niñas, niños y adolescentes extranjeros que requieren de protección internacional, ya sea como refugiado o de algún otro tipo, a través de una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado que sea necesario mediante la adopción de medidas de protección especial.
+Es competencia del tribunal en pleno:
 
-###### Artículo 106.
+I.- Conocer y resolver los conflictos individuales y colectivos que se susciten entre las instituciones públicas de gobierno y sus trabajadores;
 
-El Sistema DIF-Chiapas y los Sistemas Municipales deberán diseñar y administrar las bases de datos de niñas, niños y adolescentes migrantes extranjeros no acompañados, en las que se debe incluir, entre otros aspectos, la condición étnica, las causas de su migración, las condiciones de tránsito, sus vínculos familiares, factores de riesgo en origen y tránsito, información de sus representantes legales, datos sobre su alojamiento y situación jurídica, entre otros.
+II.- Conocer el registro de los sindicatos y dictar resolución sobre la cancelación de los mismos;
 
-El Sistema DIF-Chiapas, enviará al Sistema Nacional DIF la información en el momento en que se genere a fin de que se incorpore en las bases de datos a que se refiere el párrafo anterior, atendiendo a lo previsto en la Ley que Garantiza la Transparencia y el Derecho a la Información Pública en el Estado de Chiapas y demás disposiciones aplicables en materia de transparencia.
+III.- Conocer los conflictos intersindicales a petición de parte interesada, siempre que se trate de problemas de la relación jurídica de trabajo con las instituciones públicas de gobierno;
 
-###### Artículo 107.
+IV.- Recibir en depósito las condiciones generales de trabajo, reglamentos de escalafón, reglamentos de otras comisiones y de los estatutos de los sindicatos;
 
-En ningún caso una situación migratoria irregular de niña, niño o adolescente, preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en dicha condición migratoria.
+V.- Conocer los procedimientos para-procesales; y
 
-### Capítulo Vigésimo Primero
+VI.- Expedir su propio reglamento.
 
-Del Derecho de Acceso a las Tecnologías de la Información y Comunicación, Servicios de Radiodifusión y Telecomunicaciones, Incluido el de Banda Ancha e Internet
+###### ARTICULO 107.
 
-###### Artículo 108.
+Corresponde al Presidente del tribunal:
 
-Las niñas, niños y adolescentes tienen derecho a acceder de forma libre y universal al internet, a las tecnologías de la información y la comunicación, así como, a los servicios de radiodifusión y telecomunicación. El Estado garantizará el acceso a este derecho.
+I.- Cuidar que la tramitación de los negocios se desarrolle con la celeridad debida, mayor economía, concentración y sencillez en los procesos laborales;
 
-###### Artículo 109.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2016)</small>
 
-El Estado implementará de manera paulatina la infraestructura necesaria en aquellos espacios públicos que para tal efecto se establezcan, para que las niñas, niños y adolescentes accedan a internet y a las tecnologías de la información y la comunicación.
+II.- Ejercer la representación del tribunal ante cualquier autoridad y encargarse de la administración del mismo, pudiendo además nombrar ante los tribunales, delegados, representantes legales, apoderados, coadyuvantes, según sea el caso; ello en los terminos que establezca la ley que rija la materia en cuyo procedimiento comparezca;
 
-## Título Tercero. De las Obligaciones
+III.- Presidir las sesiones del pleno;
 
-### Capítulo Único. De Quienes Ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
+IV.- Mantener el orden en el desarrollo de las audiencias o diligencias;
 
-###### Artículo 110.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2016)</small>
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias están obligadas a proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como un traductor o intérprete en caso de ser necesario, asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en cuanto a las obligaciones que establecen esta Ley y demás disposiciones aplicables.
+V.- Procurar el orden y la disciplina del personal del tribunal, y conceder las licencias que de acuerdo con la ley le sean solicitadas;
 
-###### Artículo 111.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2016)</small>
 
-Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia, así como de las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado niñas, niños o adolescentes, en proporción a su responsabilidad y, cuando sean instituciones públicas, conforme a su ámbito de competencia, las siguientes:
+VI.- Designar y remover libremente al Secretario General de Acuerdos y secretarios proyectistas. Además, habilitar, y remover al personal que considere necesario para realizar funciones de actuario de manera temporal; lo que deberá comunicar a los demás miembros representantes del Tribunal.
 
-I. Garantizar sus derechos alimentarios, el libre desarrollo de su personalidad y el ejercicio de sus derechos, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables.
+Para el efecto, en el oficio respectivo se deberá precisar el plazo que durará la habilitación;
 
-Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación. Las leyes estatales deberán prever los procedimientos y la orientación jurídica necesaria así como las medidas de apoyo para asegurar el cumplimiento del deber de garantizar los derechos alimentarios.
+VII.- Encargarse de la correspondencia oficial;
 
-II. Registrarlos dentro de los primeros sesenta días de vida, cumpliendo con el trámite de inscripción en el Registro Civil.
+VIII.- Vigilar que se cumplan los laudos dictados por el pleno; y
 
-III. Asegurar que cursen la educación obligatoria, participar en su proceso educativo y proporcionarles las condiciones para su continuidad y permanencia en el sistema educativo e incentivarlos para que realicen actividades formativas, culturales, recreativas, deportivas y de esparcimiento.
+IX.- Rendir los informes relativos a los amparos que se interpongan en contra de los laudos y de las resoluciones dictadas por el pleno.
 
-IV. Impartir en consonancia con la evolución de sus facultades, dirección y orientación apropiada a niñas, niños y adolescentes, sin que ello pueda justificar limitación, vulneración o restricción alguna en el ejercicio de sus derechos.
+### CAPITULO UNICO.
 
-V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
-VI. Fomentar en niñas, niños y adolescentes el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral.
+###### ARTICULO 108.
 
-VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación.
+El tribunal contará con un Secretario General de Acuerdos y demás personal jurídico y de base que sea conveniente.
 
-VIII. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de la patria potestad, la tutela o la guarda y custodia de niñas, niños y adolescentes no podrá ser justificación para incumplir la obligación prevista en la presente fracción.
+Corresponde al Secretario de Acuerdos:
 
-IX. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre niñas, niños y adolescentes, y de éstos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de su familia.
+I.- Autorizar las actuaciones del tribunal o del Presidente;
 
-X. Considerar la opinión y preferencia de las niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+II.- Auxiliar a la presidencia durante la tramitación de juicios hasta formular el dictamen; y
 
-XI. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación.
+III.- Suplir al Presidente en sus ausencias temporales.
 
-XII. Darles a conocer sus derechos y responsabilidades, leyes y normas que rigen a la sociedad, así como brindarles orientación y dirección sobre la trascendencia de su ejercicio y debida observancia, específicamente para que tomen conciencia respecto a la importancia de:
+###### ARTICULO 109.
 
-a) Respetar a las personas y los derechos de terceros.
+Las obligaciones del personal administrativo, así como el funcionamiento general del Tribunal Estatal de Conciliación y Arbitraje, será fijado en el reglamento interior que al efecto se expida.
 
-b) Cuidar su cuerpo para el sano desarrollo físico y emocional.
+## TITULO TERCERO.
 
-c) Atender las instrucciones que para su correcta formación, cuidado de la salud, protección de su integridad y para el mantenimiento del orden social reciban de sus padres, familiares, tutores, maestros o cualquier persona que represente una autoridad.
+DE LAS CONDICIONES GENERALES DE TRABAJO.
 
-d) Respetar las leyes y normas que rigen a la sociedad.
+### CAPITULO I.
 
-e) Respetar y cuidar el medio ambiente y su entorno social.
+DEL PROCEDIMIENTO.
 
-f) Ejercer sus derechos con responsabilidad y defenderlos.
+###### ARTICULO 110.
 
-g) Cumplir con las obligaciones educativas.
+El incumplimiento de las obligaciones del personal jurídico y administrativo del tribunal, será sancionado por el Presidente del mismo.
 
-h) Honrar a la patria y sus símbolos.
+###### ARTICULO 111.
 
-i) Participar con la familia y sociedad en las tareas formativas o de interés comunitario.
+La persona o personas afectadas por una sanción impuesta, podrán acudir ante el pleno del tribunal para que se les oiga en justicia, dentro del término de veinticuatro horas contadas a partir de la notificación. Se le citará dentro de los ocho días hábiles siguientes para que exponga lo que crea conveniente, dictándose la resolución correspondiente en un término no mayor de veinticuatro horas.
 
-j) Los demás que coadyuven a asegurar su desarrollo armónico e integral.
+###### ARTICULO 112.
 
-En casos de controversia, el órgano jurisdiccional competente determinará el grado de responsabilidad de quien tenga a su cargo y cuidado a niñas, niños o adolescentes, atendiendo a los principios rectores de esta Ley.
+Prescriben en un año los derechos de los trabajadores derivados de la relación de trabajo o del nombramiento; con excepción de los casos previstos en los artículos 113 y 113 BIS de esta Ley.
 
-La normatividad estatal y municipal, deberá prever disposiciones que regulen y sancionen las obligaciones establecidas en el presente artículo.
+###### ARTICULO 113.
 
-###### Artículo 112.
+Prescriben en treinta días:
 
-Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, independientemente de que habiten en domicilios distintos, darán cumplimiento a las obligaciones a su cargo de manera coordinada y respetuosa.
+I.- Las acciones de las autoridades para rescindir la relación de trabajo, cuando el trabajador no reúna los requisitos indispensables para el cargo o empleo de que se trate;
 
-Las autorizaciones a que se refiere esta Ley deberán ser otorgadas por quienes ejerzan la patria potestad o tutela, en los mismos términos y con las mismas formalidades.
+II.- El derecho de los trabajadores para reincorporarse al puesto que hubieran dejado con motivo de riesgos no profesionales o causas ajenas al servicio, contándose el plazo a partir de la fecha en que de acuerdo con la constancia médica respectiva, estén aptos para volver al trabajo;
 
-###### Artículo 113.
+III.- La facultad de los titulares de entidades o dependencias públicas para suspender a los trabajadores por causas justificadas y para disciplinar sus faltas, tomándose en consideración el momento en que se conozcan las causas de la suspensión o que sean conocidas las faltas.
 
-Quienes ejercen la patria potestad, tutela, guarda o custodia de niñas, niños y adolescentes, o quienes los cuiden y atiendan, deberán protegerlos contra toda forma de abuso, tratarlos con respeto a su dignidad, y orientarlos a fin de que conozcan sus derechos, aprendan a defenderlos y a respetar los de otras personas.
+IV.- La facultad de las autoridades para cesar a los trabajadores, tomando en cuenta el término a partir de que sean conocidas las causas de rescisión; y
 
-###### Artículo 114.
+V.- El derecho para impugnar las resoluciones que establezcan sanciones impuestas por los titulares de las entidades o dependencias, cuando no amerite cese.
 
-La Directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, deberán abstenerse de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y formularán programas e impartirán cursos de formación permanente para prevenirlas y erradicarlas.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2014)</small>
 
-###### Artículo 115.
+ARTICULO 113 BIS.- Las acciones de los trabajadores para exigir la reinstalación en su trabajo, o la indemnización que la ley concede para el caso de despido o suspensión injustificados, prescriben en dos meses; término contado a partir del momento en que sea notificado el trabajador; o sea despedido o suspendido de su trabajo.
 
-En caso de incumplimiento de lo dispuesto en los artículos 113 y 114 de la presente Ley, se sancionará conforme a la legislación estatal correspondiente.
+###### ARTICULO 114.
 
-###### Artículo 116.
+Prescriben en dos años:
 
-La directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole están obligados a dar parte a las autoridades competentes sin perjuicio de la responsabilidad penal en la que pudieran incurrir en los siguientes casos:
+I.- Las acciones de los trabajadores o de sus beneficiarios, para exigir el pago de las indemnizaciones como consecuencia de un riesgo de trabajo;
 
-I. Maltrato físico, psicológico, verbal, patrimonial, abuso sexual o de cualquier índole, y corrupción, que involucre a las niñas, niños y adolescentes como víctimas o causantes de ello.
+II.- En caso de muerte por riesgo de trabajo, las acciones de sus beneficiarios;
 
-II. Consumo de drogas o estupefacientes.
+III.- Las acciones de los beneficiarios para el otorgamiento de pensiones, cuando éstas procedan conforme a la ley correspondiente; y
 
-###### Artículo 117.
+IV.- Las acciones para hacer efectivas las determinaciones que en calidad de laudo sean pronunciadas por el Tribunal Estatal de Conciliación y Arbitraje.
 
-A falta de quienes ejerzan la representación originaria de niñas, niños y adolescentes, o cuando por otra causa así lo determine el órgano jurisdiccional o autoridad administrativa competente, con base en el interés superior de la niñez, la representación en suplencia corresponderá a la Procuraduría de Protección municipal competente.
+###### ARTICULO 115.
 
-###### Artículo 118.
+La prescripción se interrumpe:
 
-En los casos en que exista (sic) indicios de conflicto de intereses entre quienes ejerzan la representación originaria o de éstos con niñas, niños y adolescentes o por una representación deficiente o dolosa, a petición del Ministerio Público, de la Procuraduría de Protección competente o de oficio, el órgano jurisdiccional o administrativo que conozca del asunto, deberá sustanciar por vía incidental, un procedimiento sumario de restricción, suspensión o revocación de la representación originaria, según sea el caso, para efectos de que la Procuraduría de Protección competente ejerza la representación en suplencia.
+I.- Por la presentación de la demanda ante el Tribunal Estatal de Conciliación y Arbitraje; y
 
-El Ministerio Público tendrá la intervención que las leyes dispongan en los procedimientos jurisdiccionales o administrativos en que niñas, niños o adolescentes estén relacionados. En materia de justicia penal, se estará a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, esta Ley y demás disposiciones aplicables.
+II.- Por el reconocimiento de la persona contra quien corre la prescripción, respecto de aquellos a favor de quienes prescribe.
 
-No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, niños y adolescentes.
+###### ARTICULO 116.
 
-## Título Cuarto. De la Preservación, Procuración y Protección de los Derechos de las Niñas, Niños y Adolescentes
+El término de la prescripción no corre:
 
-### Capítulo Único. De los Centros de Asistencia Social
+I.- Contra los incapacitados;
 
-###### Artículo 119.
+II.- Contra los trabajadores incorporados al servicio militar en tiempo de guerra; y
 
-Las autoridades Estatales, en términos de lo dispuesto por esta Ley, la Ley General y demás disposiciones aplicables, establecerán, los requisitos para autorizar, registrar, certificar y supervisar los centros de asistencia social, a fin de garantizar el cumplimiento de los derechos de niñas, niños y adolescentes privados de cuidado parental o familiar, atendidos en dichos centros.
+III.- Durante el tiempo en que el trabajador esté privado de su libertad corporal siempre que obtenga sentencia absolutoria que cause estado.
 
-###### Artículo 120.
+###### ARTICULO 117.
 
-Las instalaciones de los Centros de Asistencia Social observarán los requisitos que les señale la Legislación u ordenamiento correspondiente, y deberán cumplir con lo siguiente:
+Para interpretar los términos en que corre la prescripción, los meses se regularán por el número de días de calendario que les corresponde; el primer día se contará completo y cuando sea inhábil el último, no se tendrá por consumada la prescripción sino cumplido el primer día hábil siguiente.
 
-I. Ser administradas por una institución pública o privada, o por una asociación que brinde el servicio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar.
+## TITULO DECIMO SEGUNDO.
 
-II. Su infraestructura inmobiliaria deberá cumplir con las dimensiones físicas acordes a los servicios que proporcionan y con las medidas de seguridad y protección civil en términos de la legislación aplicable.
+DE LO CONTENCIOSO LABORAL.
 
-III. Ser acordes con el diseño universal y la accesibilidad en términos de la legislación aplicable.
+###### ARTICULO 118.
 
-IV. Contar con medidas de seguridad, protección y vigilancia necesarios (sic) para garantizar la comodidad, higiene, espacio idóneo de acuerdo a la edad, sexo o condición física o mental de niñas, niños o adolescentes alojados, de manera tal que se permita un entorno afectivo y libre de violencia, en los términos de las disposiciones aplicables.
+El procedimiento para dirimir conflictos laborales será publico, inmediato, gratuito, predominantemente oral y se iniciará con la presentación por escrito de la demanda ante el Tribunal Estatal de Conciliación y Arbitraje, el que tomará las medidas necesarias para lograr economía, concentración y sencillez en el proceso.
 
-V. Alojar y agrupar a niñas, niños y adolescentes de acuerdo a su edad y sexo en las áreas de dormitorios, sin que por ningún motivo éstos puedan ser compartidos por adultos, salvo que necesiten ser asistidos por algún adulto.
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2019)</small>
 
-VI. Contar con espacios destinados especialmente para cada una de las actividades en las que participen niñas, niños y adolescentes.
+Cuando la demanda del trabajador sea obscura, vaga o existiera alguna irregularidad en su escrito, o estuviera ejerciendo acciones contradictorias, o no hubiera precisado el salario base de la acción, o sea incompleta, por no contener petición sobre prestaciones que de acuerdo con la ley deriven de la acción intentada y conforme a los derechos expuestos, el Tribunal, en el acuerdo le señalará al trabajador los defectos u omisiones en que haya incurrido, y lo prevendrá para que la subsane dentro de un término de tres días. El acuerdo referido, deberá notificarse en los términos del artículo 151 fracción I de esta Ley.
 
-VII. Atender los requerimientos establecidos por las autoridades de protección civil, salubridad y asistencia social.
+Cuando la demanda del trabajador sea incompleta, por no contener petición sobre prestaciones que de acuerdo con la ley deriven de la acción intentada y conforme a los derechos expuestos, el tribunal en el momento de admitir la demanda subsanará ésta.
 
-VIII. Procurar un entorno que provea los apoyos necesarios para que niñas, niños y adolescentes con discapacidad vivan incluidos en su comunidad.
+## TITULO CUARTO.
 
-IX. Brindar una atención de calidad, personalizada y conforme al marco de respeto a los derechos humanos y equidad de género de las niñas, niños y adolescentes que se encuentren en cualquiera de las modalidades de cuidado alternativo.
+DE LA ESTABILIDAD EN EL TRABAJO.
 
-###### Artículo 121.
+### CAPITULO II.
 
-Los Centros de Asistencia Social, serán responsables de garantizar la integridad física y psicológica de las niñas, niños y adolescentes que tengan bajo su custodia.
+DEL PROCEDIMIENTO DE EJECUCION.
 
-Los servicios que presten los Centros de Asistencia Social estarán orientados a brindar, en cumplimiento a sus derechos:
+###### ARTICULO 119.
 
-I. Un entorno seguro, afectivo y libre de violencia.
+La demanda deberá contener los siguientes elementos:
 
-II. Cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicológica.
+I.- Nombre y domicilio del actor;
 
-III. Alimentación que les permita tener una nutrición equilibrada y que cuente con la periódica certificación de la autoridad sanitaria.
+II.- Nombre y domicilio del demandado;
 
-IV. Atención integral y multidisciplinaria que le brinde (sic) servicio médico integral, atención de primeros auxilios, seguimiento psicológico, social, jurídico, entre otros.
+III.- El objeto de la demanda, con precisión de los puntos petitorios;
 
-V. Orientación y educación apropiada a su edad, encaminadas a lograr un desarrollo físico, cognitivo, afectivo y social, así como a la comprensión y el ejercicio de sus derechos, hasta el máximo de sus posibilidades.
+IV.- Una relación explícita de los hechos en que se funda la demanda, sin que se requiera solemnidad o forma especial; y
 
-VI. Disfrutar en su vida cotidiana, del descanso, recreación, juego, esparcimiento y actividades que favorezcan su desarrollo integral.
+V.- La indicación del lugar donde se puedan obtener las pruebas que el reclamante no pudiera aportar directamente y que tiendan a demostrar los hechos en que se funda la demanda; así como las diligencias cuya práctica solicite con el mismo fin.
 
-VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez.
+En la demanda se ofrecerán y acompañarán las pruebas de que se disponga y los documentos que acrediten la personalidad del representante, en su caso.
 
-VIII. Las personas responsables y el personal de los centros de asistencia social se abstendrán de realizar actividades que afecten la integridad física y psicológica de niñas, niños y adolescentes. De igual manera, los responsables evitarán que el personal que realice actividades diversas al cuidado de niñas, niños y adolescentes, tenga contacto con éstos.
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
 
-IX. Espacios de participación para expresar libremente sus ideas y opiniones sobre los asuntos que les atañen y que dichas opiniones sean tomadas en cuenta.
+En lo referente a las fracciones I y II de este artículo, el actor, además de los datos como nombre oficial de la vialidad, numeración oficial que le corresponda y colonia o fraccionamiento, podrá proporcionar datos complementarios que faciliten la identificación del domicilio como lo son, código postal de conformidad con las asignaciones del Servicio Postal Mexicano, y descripción de la ubicación, es decir, las calles entre las que se localiza el domicilio.
 
-X. Brindarles la posibilidad de realizar actividades externas que les permitan tener contacto con su comunidad.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2020)</small>
 
-XI. Fomentar la inclusión de las niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable.
+###### ARTICULO 120.
 
-Asimismo y con la finalidad de brindarles mejores alternativas de protección para el cumplimiento de sus derechos, se deberá llevar a cabo la revisión periódica de su situación, de la de su familia y de la medida especial de protección por la cual ingresó al centro de asistencia social, garantizando el contacto con su familia y personas significativas siempre que esto sea posible, atendiendo a su interés superior.
+Dentro de las setenta y dos horas siguientes a la presentación de la demanda, el tribunal dictará auto de radicación señalando fecha y hora de la audiencia de conciliación, demanda y excepciones, ofrecimiento y admisión de pruebas, ordenando emplazar a la parte demandada, corriéndole traslado con las copias simples de la demanda, documentos anexos y del acuerdo de radicación, apercibiéndola que de no contestar la demanda se le tendrá por contestada en sentido afirmativo, salvo prueba en contrario.
 
-Las niñas, niños o adolescentes deberán contar con un expediente completo para efectos de que su situación sea revisada y valorada de manera particular, así como para determinar procedimientos de ingreso y egreso con el apoyo de las autoridades competentes que faciliten su reincorporación familiar o social.
+En el mismo acuerdo se ordenará que se notifique personalmente a las partes con diez días de anticipación a la fecha de la audiencia; la falta de esta notificación obligará al tribunal a señalar de oficio nueva fecha y hora para la celebración de la audiencia, salvo que el actor se desista de la acción intentada. El acuerdo en mención deberá contener además las observaciones del artículo siguiente.
 
-Asimismo, se le deberá garantizar la protección de sus datos personales conforme a la legislación aplicable y hacer de su conocimiento, en todo momento, su situación legal.
+###### ARTICULO 121.
 
-###### Artículo 122.
+Para el caso de que cualquiera de las partes no acuda a la etapa conciliatoria, se les tendrá por inconformes con todo arreglo; si la parte actora no concurre a la etapa de demanda y excepciones, se le tendrá por reproducido su escrito inicial de demanda; pero si la demandada no concurre a ésta, se le tendrá por contestado en sentido afirmativo salvo prueba en contrario. Si las partes no ocurrieron a la etapa de ofrecimiento y admisión de pruebas se les tendrá por perdido este derecho.
 
-Los centros de asistencia social deberán contar por lo menos, con el siguiente personal:
+###### ARTICULO 122.
 
-I. Un Responsable de la coordinación o dirección.
+La etapa de conciliación se verificará de la siguiente manera:
 
-II. Personal especializado en proporcionar atención en actividades de estimulación, formación, promoción y autocuidado de la salud; atención médica y actividades de orientación social y de promoción de la cultura de protección civil, de derechos humanos y equidad de género conforme a las disposiciones aplicables.
+I.- Las partes comparecerán personalmente a las juntas; esto es el trabajador y el titular de la dependencia o quien legalmente lo represente;
 
-III. El número de personas que presten sus servicios en cada centro de asistencia social será determinado en función de la capacidad económica de éstos, así como del número de niñas, niños y adolescentes que tengan bajo su custodia en forma directa e indirecta, debiendo contar por lo menos con una persona de atención por cada cuatro niños o niñas menores de un año, y una persona de atención por cada ocho mayores de esa edad.
+II.- El tribunal intervendrá para la celebración de pláticas entre las partes, exhortándolas para que lleguen a un acuerdo conciliatorio, pero cuidando que dicho acuerdo no conculque derechos al trabajador;
 
-Además del personal señalado en el presente artículo, el centro de asistencia social podrá solicitar la colaboración de instituciones, organizaciones o dependencias que brinden apoyo en psicología, trabajo social, derecho, pedagogía, y otros para el cuidado integral de las niñas, niños y adolescentes.
+III.- Si las partes llegan a un acuerdo, el convenio respectivo aprobado y sancionado por el tribunal, producirá todos los efectos jurídicos de un laudo; y
 
-Se deberá brindar de manera permanente, capacitación y formación especializada al personal del Centro, así como supervisar y evaluar de manera periódica al mismo.
+IV.- Si las partes no llegan a ningún acuerdo, se les tendrá por inconformes pasando a la etapa de demanda y excepciones.
 
-###### Artículo 123.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2019)</small>
 
-Son obligaciones de los titulares o responsables legales de los centros de Asistencia Social:
+###### ARTICULO 123.
 
-I. Garantizar el cumplimiento de los requisitos establecidos por esta Ley y demás disposiciones aplicables para formar parte del registro estatal de centros de asistencia social del Sistema DIF-Chiapas.
+La etapa de demanda y excepciones se desarrollará conforme a las normas siguientes:
 
-II. Llevar un registro de niñas, niños y adolescentes bajo su custodia con la información de la situación jurídica en la que se encuentren, y remitirlo semestralmente a la Procuraduría de Protección Estatal.
+I. El Presidente del Tribunal o el funcionario conciliador y demás personal jurídico de la Junta exhortará nuevamente a las partes para que resuelvan el conflicto mediante un arreglo conciliatorio y, si estas persisten en su actitud, dará la palabra al actor para que exponga su demanda;
 
-III. Asegurar que las instalaciones tengan en lugar visible, la constancia de registro de incorporación a los Centros de Asistencia Social.
+II. El actor expondrá su demanda, ratificándola, aclarándola o modificándola, precisando los puntos petitorios. En caso de modificación, aclaración o enderezamiento de la demanda, cuando el actor sea el trabajador o sus beneficiarios, podrá hacerlo por una sola vez en esta etapa. Tratándose de aclaración o modificación de la demanda, el Tribunal, a petición del demandado, señalará nueva fecha, dentro del término de diez días, para la continuación de la audiencia a fin de que pueda contestar la demanda en su totalidad; en caso de enderezamiento, el Tribunal procederá de igual forma, pero de oficio;
 
-IV. Garantizar que el centro de asistencia social cuente con un Reglamento Interno, aprobado por el Sistema DIF- Chiapas.
+III. Expuesta la demanda por el actor, el demandado procederá, en su caso, a dar contestación a la demanda oralmente o por escrito. En este último caso, estará obligado a entregar copia simple al actor de su contestación; si no lo hace, el Tribunal la expedirá a costa del demandado.
 
-V. Contar con un Programa Interno de Protección Civil en términos de las disposiciones aplicables.
+La falta de asistencia del trabajador a esta etapa, trae como consecuencia que se le tenga por reproduciendo su escrito inicial de demanda; pero la falta de la contestación de la demanda implica que se le tenga por contestando en sentido afirmativo;
 
-VI. Brindar las facilidades a la Procuraduría de Protección Estatal, para que realicen la verificación periódica que corresponda en términos de las disposiciones aplicables; y en su caso, atender sus recomendaciones.
+IV. En la contestación del demandado, se opondrán sus excepciones y defensas, debiendo de referirse a todos y cada uno de los hechos aducidos en la demanda, afirmándolos o negándolos, y expresando los que ignore cuando no sean propios; pudiendo agregar las explicaciones que estime convenientes. El silencio y las evasivas harán que se tengan por admitidos aquellos sobre los que no se suscite controversia, y no podrá admitirse prueba en contrario. La negación pura y simple del derecho, importa la confesión de los hechos. La confesión de éstos no entraña la aceptación del derecho;
 
-VII. Esta verificación deberá observar el seguimiento de la situación jurídica y social así como la atención médica y psicológica de la niña, niño o adolescentes (sic) y el proceso de reincorporación familiar o social.
+V. La excepción de incompetencia no exime al demandado de contestar la demanda en la misma audiencia, y si no lo hiciere, y el Tribunal se declara competente, se tendrá por confesada la demanda;
 
-VIII. Informar oportunamente a la autoridad competente, cuando el ingreso de una niña, niño o adolescente corresponda a una situación distinta de la derivación por parte de una autoridad o tenga conocimiento de que peligra su integridad física estando bajo su custodia, a fin de iniciar los procedimientos de protección especial de forma oportuna, identificar la mejor solución para el niño, niña o adolescente y, en su caso, evitar su permanencia en el centro de asistencia social, dado su carácter de último recurso y excepcional.
+VI. Si el demandado reconviene al actor, éste procederá a contestar de inmediato; o bien, a solicitud del mismo, el Tribunal acordará la suspensión de la audiencia, señalando para su continuación una fecha dentro de los diez días siguientes, y
 
-IX. Proporcionar a niñas, niños y adolescentes bajo su custodia, a través del personal capacitado, atención médica.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-X. Dar puntual seguimiento a las recomendaciones emitidas por las autoridades competentes.
+VII. Al concluir el periodo de demanda y excepciones, se continuará con la etapa de ofrecimiento y admisión de pruebas. Si las partes están de acuerdo con los hechos y la controversia queda reducida a un punto de derecho, se declarará cerrada la instrucción turnándose los autos a resolución.
 
-XI. Realizar acciones específicas para fortalecer la profesionalización del personal de los centros de asistencia social.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2019)</small>
 
-XII. Garantizar, en corresponsabilidad con las autoridades competentes, que se promuevan acciones a favor de las niñas, niños y adolescentes para su acompañamiento, autonomía, ejercicio de sus derechos, estabilidad en sus vínculos, libertad de expresión y no discriminación, protección infantil y juvenil, perspectiva de género y medidas de restitución de sus derechos a fin de tener vínculos familiares y comunitarios.
+###### ARTICULO 124.
 
-XIII. Llevar el Sistema Informático que la Procuraduría de Protección Estatal genere para el registro de las niñas, niños y adolescentes.
+La etapa de ofrecimiento y admisión de pruebas se desarrollará conforme a las reglas siguientes:
 
-XIV. Las demás obligaciones establecidas en la presente Ley y demás disposiciones aplicables.
+I. El actor ofrecerá sus pruebas en relación con los hechos controvertidos. Inmediatamente después el demandado ofrecerá sus pruebas y podrá objetar las de su contraparte y aquel podrá, a su vez, objetar las del demandado;
 
-###### Artículo 124.
+II. Las partes podrán ofrecer nuevas pruebas, siempre que se relacionen con las ofrecidas por la contraparte y que no se haya cerrado la etapa de ofrecimiento de pruebas. Asimismo, en caso de que el actor necesite ofrecer pruebas relacionadas con hechos desconocidos que se desprendan de la contestación de la demanda, podrá solicitar que la audiencia se suspenda para reanudarse dentro de los cinco días siguientes, a fin de preparar dentro de este plazo las pruebas correspondientes a tales hechos, y
 
-La Procuraduría de Protección Estatal, en coordinación con la Procuraduría de Protección Federal, serán las autoridades competentes para autorizar, registrar, certificar y supervisar los Centros de Asistencia social destinados a brindar los servicios descritos en el presente Capítulo, para lo cual conformarán el Registro Estatal de Centros de Asistencia Social, que alimentará al Registro Nacional en los términos que establece la Ley General.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-Al efecto, la Procuraduría de Protección Estatal deberá reportar semestralmente a la Procuraduría Federal de Protección, la actualización de sus registros, así como los resultados de las visitas de supervisión efectuadas como coadyuvantes.
+III. Concluido el ofrecimiento, el tribunal resolverá en la audiencia respectiva sobre las pruebas que admita o deseche.
 
-###### Artículo 125.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2019)</small>
 
-Sin perjuicio de las atribuciones que las disposiciones aplicables establezcan a otras autoridades, corresponderá a la Procuraduría de Protección Estatal, la supervisión de los Centros de Asistencia Social y, en su caso, ejercitarán las acciones legales que correspondan.
+###### ARTICULO 125.
 
-La Procuraduría de Protección Estatal será coadyuvante de la Procuraduría de Protección Federal en la supervisión que se realice a las instalaciones de los Centros de Asistencia Social, en términos de lo previsto en las Leyes aplicables.
+Concluida la etapa de ofrecimiento y admisión de pruebas solamente se admitirán las que se refieren a hechos supervenientes.
 
-La Procuraduría de Protección Estatal deberá proporcionar el apoyo que sea necesario para la efectiva garantía de los derechos de las niñas, niños y adolescentes en los Centros de Asistencia Social, este apoyo deberá fundarse en el principio de corresponsabilidad.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2019)</small>
 
-## Título Quinto. De la Protección y Restitución Integral de los Derechos de Niñas, Niños y Adolescentes
+## TITULO QUINTO.
 
-### Capítulo Primero. De las Autoridades
+DEL ESCALAFON.
 
-###### Artículo 126.
+### CAPITULO III.
 
-El Estado y los municipios garantizarán la protección integral de los derechos de niñas, niños y adolescentes, y el cumplimiento de las políticas públicas y la ejecución de programas destinados a su atención, prevención y defensa.
+DE LA CAPACIDAD Y PERSONALIDAD.
 
-Las políticas públicas emprendidas por dichas autoridades garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
+###### ARTICULO 126.
+
+El Tribunal Estatal de Conciliación y Arbitraje eximirá de la carga de la prueba al trabajador, cuando por otros medios esté en posibilidad de llegar al conocimiento de los hechos y para tal efecto requerirá a la institución pública de gobierno respectiva para que exhiba los documentos que obren en su poder, bajo el apercibimiento de que de no presentarlos, se presumirán ciertos los hechos alegados por el trabajador. En todo caso, corresponderá a la institución pública de gobierno probar su dicho cuando exista controversia sobre:
+
+I. Fecha de ingreso del trabajador;
+
+II. Antigüedad del trabajador;
+
+III. Faltas de asistencia del trabajador;
+
+IV. Causa de cese de la relación de trabajo;
+
+V. Terminación de la relación;
+
+VI. Constancia de haber dado aviso por escrito al trabajador de la fecha y causa de su despido;
+
+VII. El nombramiento o contrato de trabajo;
+
+VIII. Duración de la jornada de trabajo;
+
+IX. Pagos de días de descanso y obligatorios;
+
+X. Disfrute y pago de las vacaciones;
+
+XI. Pago de las primas, dominical, vacacional y de antigüedad, y
+
+XII. Monto y pago del salario.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2019)</small>
 
 #### Sección Primera. De la Distribución de Competencias
 
-###### Artículo 127.
+###### ARTICULO 127.
 
-El Estado y los municipios coadyuvarán para el cumplimiento de los objetivos de esta Ley, de conformidad con las competencias previstas en el presente ordenamiento y demás disposiciones legales aplicables.
+Todas las instituciones públicas, aún ajenas al procedimiento, que tengan conocimiento de los hechos o tengan documentos en su poder que puedan contribuir al esclarecimiento de la verdad, están obligadas a aportarlos cuando sean requeridas por el Tribunal Estatal de Conciliación y Arbitraje.
 
-###### Artículo 128.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2019)</small>
 
-Corresponde a las autoridades Estatales y municipales de manera concurrente, las atribuciones siguientes:
+###### ARTICULO 128.
 
-I. Coordinar la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley.
+Tanto las autoridades administrativas como las judiciales, dentro de la esfera de su jurisdicción, están obligadas a auxiliar al Tribunal Estatal de Conciliación y Arbitraje para hacer respetar y cumplir sus determinaciones, cuando fueren requeridas para tal fin.
 
-II. Impulsar el conocimiento de los derechos de niñas, niños y adolescentes, así como la cultura de respeto, promoción y protección de los mismos, de conformidad con los principios rectores de esta Ley.
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
 
-III. Garantizar el cabal cumplimiento de la presente Ley, de los instrumentos internacionales y demás ordenamientos aplicables.
+###### ARTICULO 129.
 
-IV. Adoptar medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten sus derechos.
+Las audiencias se celebrarán en el local del Tribunal, salvo los casos establecidos en esta Ley y sus supletorias, de las cuales se levantará acta circunstanciada que deberán firmar los integrantes del Pleno, ante la fe del secretario general de acuerdos, y por quienes hayan intervenido en ella si quieren y pueden hacerlo.
 
-V. Proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en relación a las obligaciones que establece esta Ley.
+###### ARTICULO 130.
 
-VI. Colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes.
+Concluido el desahogo de las pruebas, formulados los alegatos de las partes y hecha la certificación del Secretario de Acuerdos de que ya no quedan pruebas pendientes de desahogo, se declarará cerrada la instrucción y se turnará el expediente al Secretario Proyectista, para que formule su opinión, que deberá contener los siguientes elementos:
 
-VII. Establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia.
+I.- Extracto de la demanda y de la contestación;
 
-VIII. Establecer las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre que no sea contrario a su interés superior.
+II.- Señalamiento de los hechos controvertidos;
 
-IX. Coadyuvar en la localización de niñas, niños y adolescentes sustraídos, trasladados o retenidos ilícitamente.
+III.- Relación de las pruebas admitidas y desahogadas, su apreciación en conciencia a verdad sabida y buena fe guardada, sin sujetarse a reglas fijas en su valoración, debiendo expresar las consideraciones en que se funde la decisión;
 
-X. Implementar medidas de inclusión plena y realizar las Acciones afirmativas para garantizar a niñas, niños y adolescentes la igualdad de oportunidades y de trato, así como a no ser discriminados.
+IV.- Las consideraciones fundadas que se deriven de lo alegado y probado; y
 
-XI. Adoptar medidas para la eliminación de usos, costumbres, prácticas culturales, religiosas, estereotipos sexistas o prejuicios que atenten contra la igualdad y los derechos de niñas, niños y adolescentes por razón de género o que promuevan cualquier tipo de discriminación.
-
-XII. Adoptar las medidas apropiadas para promover la recuperación física y psicológica y la restitución de derechos de niñas, niños y adolescentes, víctimas de cualquier forma de violencia.
-
-XIII. Garantizar que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
-
-XIV. Propiciar las condiciones idóneas para crear un ambiente libre de violencia en las instituciones educativas.
-
-XV. Establecer el diseño universal, la accesibilidad y políticas para la prevención, atención y rehabilitación de niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable.
-
-XVI. Realizar acciones a fin de sensibilizar a la sociedad, para que tome mayor conciencia respecto de las niñas, niños y adolescentes con discapacidad y fomentar el respeto a sus derechos y dignidad, así como combatir los estereotipos y prejuicios respecto de su discapacidad.
-
-XVII. Disponer e implementar los mecanismos que garanticen la participación permanente y activa de niñas, niños y adolescentes en las decisiones que se toman en los ámbitos familiar, escolar, social, comunitario o cualquier otro en el que se desarrollen.
-
-XVIII. Garantizar la consecución de una educación de calidad y la igualdad sustantiva en el acceso y permanencia en la misma.
-
-XIX. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno.
-
-XX. Celebrar convenios de cooperación, coordinación y concertación en la materia.
-
-XXI. Coadyuvar con las instituciones públicas o privadas dedicadas a la atención de niñas, niños y adolescentes.
-
-XXII. Garantizar la protección de los derechos de niñas, niños y adolescentes y asegurar que las violaciones a los mismos sean atendidas de forma preferente por todas las autoridades, en el ámbito de sus respectivas competencias.
-
-XXIII. Desarrollar todos los mecanismos necesarios para el cumplimiento de la presente Ley.
-
-XXIV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene.
-
-###### Artículo 129.
-
-Corresponden a las autoridades estatales, en el ámbito de sus respectivas competencias, las atribuciones siguientes:
-
-I. Garantizar en el ámbito de su competencia, el cabal cumplimiento de la presente Ley, de los tratados internacionales, y demás ordenamientos aplicables.
-
-II. Instrumentar y articular sus políticas públicas tomando en consideración el Programa Nacional para la adecuada garantía y protección de los derechos de niñas, niños y adolescentes.
-
-III. Elaborar y aplicar el Programa Estatal a que se hacen (sic) referencia en esta Ley.
-
-IV. Impulsar la creación de instituciones públicas y privadas que tengan trato con niñas, niños y adolescentes, así como fortalecer las ya existentes.
-
-V. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento de los programas de protección para las niñas, niños y adolescentes.
-
-VI. Promover, en coordinación con el Gobierno Federal, programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de niñas, niños y adolescentes.
-
-VII. Impulsar programas estatales para el adelanto y desarrollo de niñas, niños y adolescentes en situación de vulnerabilidad.
-
-VIII. Revisar y valorar la eficacia de las acciones, las políticas públicas y los programas estatales en la materia, con base en los resultados de las evaluaciones que al efecto se realicen.
-
-IX. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución del Programa Estatal.
-
-X. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno, para facilitar la actuación de la Secretaría Ejecutiva del Sistema Estatal de Protección Integral.
-
-XI. Imponer las sanciones por las infracciones que establece la presente Ley.
-
-XII. Revocar temporal o definitivamente, a través de la autoridad competente, la autorización para operar los Centros de Asistencia Social, por el incumplimiento de las obligaciones y requisitos previstos en esta Ley.
-
-XIII. Difundir por todos los medios de comunicación el contenido de esta Ley.
-
-XIV. Rendir ante el Sistema Nacional de Protección Integral un informe anual sobre los avances.
-
-XV. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre protección de derechos de niñas, niños y adolescentes, a fin de mejorar los mecanismos en la materia.
-
-XVI. Proporcionar a las instancias encargadas de realizar estadísticas y de integrar el Sistema Nacional de información, la información necesaria para la elaboración de éstas.
-
-XVII. Coordinar con las autoridades de los tres órdenes de gobierno la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley.
-
-XVIII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley.
-
-XIX. Garantizar el desarrollo y la supervivencia así como investigar, sancionar efectivamente los actos de privación de la vida de niñas, niños y adolescentes y garantizar la reparación del daño que corresponda.
-
-XX. Cualquier otra prevista para el cumplimiento de esta Ley.
-
-###### Artículo 130.
-
-Corresponde a los municipios, de conformidad con esta Ley y demás normatividad en la materia, las atribuciones siguientes:
-
-I. Elaborar su programa municipal y participar en el diseño del Programa Estatal.
-
-II. Realizar acciones de difusión que promuevan los derechos de niñas, niños y adolescentes en el municipio, para que sean plenamente conocidos y ejercidos.
-
-III. Promover la libre manifestación de ideas de niñas, niños y adolescentes en los asuntos concernientes a su municipio.
-
-IV. Ser enlace entre la administración pública municipal y niñas, niños y adolescentes que deseen manifestar inquietudes.
-
-V. Recibir quejas y denuncias por violaciones a los derechos contenidos en la presente Ley y demás disposiciones aplicables, brindándoles la atención a través de la Procuraduría de Protección Municipal que corresponda, y dándoles el seguimiento hasta la restitución de los derechos de las niñas, niños y adolescentes.
-
-VI. Auxiliar a la Procuraduría de Protección Estatal y demás municipales, en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones.
-
-VII. Promover la celebración de convenios de coordinación con las autoridades competentes, así como con otras instancias públicas o privadas, para la atención y protección de niñas, niños y adolescentes.
-
-VIII. Difundir y aplicar los protocolos específicos sobre niñas, niños y adolescentes que autoricen las instancias competentes de la federación y del Estado.
-
-IX. Coordinarse con las autoridades de los diferentes órdenes de gobierno para la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley.
-
-X. Llevar el registro y control de la acciones, para la correcta alimentación del Sistema Estatal de Protección Integral.
-
-XI. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales.
-
-XII. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el Sistema Nacional DIF y el Sistema DIF- Chiapas.
+V.- Los puntos resolutivos.
 
 #### Sección Segunda. De los Sistemas para el Desarrollo Integral de la Familia del Estado y Municipios
 
-###### Artículo 131.
+###### ARTICULO 131.
 
-Sin perjuicio de las atribuciones que establezcan las demás disposiciones aplicables, corresponde a los Sistemas para el Desarrollo Integral de la Familia del Estado y Municipios en materia de niñas, niños y adolescentes:
+Cuando el actor solicite el desistimiento de las acciones intentadas, el tribunal citará a las partes a una audiencia, en la que después de oírlas y de recibir en su caso las pruebas que ofrezcan, que deberán versar sobre la materia del desistimiento, dictará la resolución correspondiente.
 
-I. Proteger los derechos de niñas, niños y adolescentes, cuando los mismos se encuentren restringidos o vulnerados, en términos de esta Ley y las demás disposiciones aplicables. La institucionalización procederá como último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar.
+### CAPITULO IV.
 
-II. Realizar las actividades de asistencia social, así como fomentar y promover la estabilidad y el bienestar familiar.
+DE LAS NORMAS PROCESALES EN MATERIA DE NOTIFICACIONES, ACTUACIONES Y TERMINOS.
 
-III. Celebrar los convenios de colaboración con el Sistema Federal y Sistemas Municipales, así como con organizaciones e instituciones de los sectores público, privado y social.
+###### ARTICULO 132.
 
-IV. Promover la formación, capacitación y profesionalización continua del personal de instituciones vinculadas con la protección y restitución de los derechos de niñas, niños y adolescentes, así como para realizar y apoyar estudios e investigaciones en la materia.
+Formulado el proyecto del laudo, el Presidente del tribunal citará a los miembros que lo integren, para la discusión y votación que se llevará a cabo en audiencia del pleno del tribunal, observándose lo siguiente:
 
-V. Auxiliar al Ministerio Público o a los órganos jurisdiccionales, con los elementos a su alcance para la protección de las niñas, niños y adolescentes y proporcionar a aquellos la información que les requieran sobre el particular.
+I.- Se dará lectura al proyecto del laudo, a los legajos y demás documentos que se estimen necesarios que obren en el expediente;
 
-VI. Vigilar que las instituciones y los hogares provisionales presten el cuidado y atención adecuada a las niñas, niños y adolescentes respetando y garantizando todos sus derechos.
+II.- El Presidente pondrá a discusión el proyecto; y
 
-VII. Recabar los informes y datos estadísticos que requiera para el debido cumplimiento de sus atribuciones y solicitar el auxilio de las demás autoridades en el ámbito de su competencia.
+III.- Terminada la discusión, se votará y el Presidente declarará el resultado.
 
-VIII. Impulsar la cooperación y coordinación de las autoridades estatales y municipales en el ámbito de sus respectivas competencias en materia de protección y restitución de derechos de niñas, niños y adolescentes para establecer los mecanismos necesarios para ello.
+Si el proyecto es aprobado sin adiciones ni modificaciones será elevado a la categoría de laudo y se firmará por los miembros del tribunal.
 
-IX. Establecer programas de apoyo a las familias para que la falta de recursos no sea causa de separación de las niñas, niños y adolescentes.
+Si se hicieren modificaciones o adiciones al proyecto, se ordenará al Secretario que redacte el laudo de acuerdo con lo aprobado, haciéndose constar, en este caso, en el acta de la sesión.
 
-X. Las demás que les confieran otros ordenamientos jurídicos.
+###### ARTICULO 133.
 
-### Capítulo Segundo. De la Procuraduría de Protección Estatal y las Procuradurías de Protección Municipales
+Engrosado el laudo y firmado por los miembros del tribunal que votaron el negocio, se turnará el expediente al actuario para que lo notifique personalmente a las partes.
 
-###### Artículo 132.
+###### ARTICULO 134.
 
-Para una efectiva protección y restitución de los derechos de niñas, niños y adolescentes, el Estado, dentro de la estructura del Sistema DIF-Chiapas contará con una Procuraduría de Protección de los Derechos de las Niñas, Niños, Adolescentes y la Familia.
+Las disposiciones de este capítulo rigen la ejecución de los laudos dictados por el Tribunal Estatal de Conciliación y Arbitraje y de los convenios celebrados y aprobados por el mismo.
 
-Por su parte, los municipios deberán tener una Procuraduría Municipal de Protección de los Derechos de las Niñas, Niños, Adolescentes y la Familia, que podrán depender de los Sistemas DIF-Municipales.
+###### ARTICULO 135.
 
-###### Artículo 133.
+Los laudos deben cumplirse dentro de los quince días hábiles siguientes al en que surta efectos la notificación. Las partes podrán convenir las modalidades de su cumplimiento. Concluido dicho término si no se ha recurrido la resolución, el actor solicitará la ejecución del laudo.
 
-Para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes, la Procuraduría de Protección Estatal y Municipales podrán establecer contacto y trabajar conjuntamente con las autoridades de asistencia social, de servicios de salud, de educación, de protección social, de cultura, deporte y con todas aquellas con las que sea necesario, para garantizar los derechos de niñas, niños y adolescentes.
+###### ARTICULO 136.
 
-Asimismo, podrán auxiliarse de las autoridades ministeriales, la policía y demás autoridades estatales y municipales, quienes deberán actuar coordinadamente para salvaguardar los derechos de las niñas, niños y adolescentes.
+Siempre que en ejecución de un laudo deba entregarse una cantidad de dinero o el cumplimiento de un derecho al trabajador, el Presidente del tribunal cuidará que se le haga entrega personalmente.
 
-###### Artículo 134.
+###### ARTICULO 137.
 
-La Procuraduría de Protección Estatal es la instancia especializada con funciones de autoridad competente en materia de infancia en el Estado, interviniendo en la defensa de los derechos contemplados en esta Ley, a favor de las niñas, niños y adolescentes, sin perjuicio de la aplicación de otras disposiciones legales vigentes en nuestro Estado.
+El Presidente del tribunal tendrá la obligación de proveer a la inmediata y eficaz ejecución de los laudos y para ese efecto dictará todas las medidas que a su juicio sean necesarias.
 
-La Procuraduría de Protección Estatal podrá ejercer sus facultades a través de (sic) Procuradurías Regionales de Protección de los Derechos de las Niñas, Niños y Adolescentes.
+###### ARTICULO 138.
 
-Las Procuradurías de Protección Municipales, serán las autoridades competentes en su municipio. La Procuraduría de Protección Estatal, podrá auxiliarse de las Procuradurías de Protección Municipales para la adecuada defensa de los derechos de las niñas, niños y adolescentes del municipio que corresponda, así como solicitar los informes que requiera para tal fin y para las estadísticas que se generen de sus actividades.
+Las resoluciones del tribunal serán inapelables y deberán acatarse estrictamente por las partes a quienes corresponda su cumplimiento.
 
-En el supuesto de que las Procuradurías de Protección Municipales se negaren a brindar la atención, rendir los informes solicitados o ejercitar alguna de sus facultades, la Procuraduría de Protección Estatal hará de conocimiento al superior jerárquico.
+### CAPITULO V.
 
-###### Artículo 135.
+DE LOS IMPEDIMENTOS Y EXCUSAS.
 
-Las Procuradurías de Protección Estatal y Municipales, en el ámbito de sus respectivas competencias, tendrán como facultades las siguientes:
+###### ARTICULO 139.
 
-I. Procurar la protección integral de niñas, niños y adolescentes que prevé la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la Ley General de los derechos de niñas, niños y adolescentes, la Constitución Política Local, la presente Ley y demás disposiciones aplicables. Dicha protección integral deberá abarcar, por lo menos:
+Al ejecutarse el laudo, el Presidente del tribunal despachará auto con efectos de mandamiento en forma y autorizará al actuario para que, asociado de la parte que obtuvo resolución favorable, se constituya en el domicilio u oficina de la parte contraria, a la que requerirá por el cumplimiento de la resolución, apercibiéndola de que de no hacerlo, se hará uso de los medios de apremio.
 
-a) Atención médica y psicológica.
+Salvo en los casos que señala el artículo 60 de esta ley, las instituciones públicas no podrán negarse a reinstalar al trabajador, si han sido condenadas a hacerlo mediante laudo ejecutorio.
 
-b) Seguimiento a las actividades académicas y entorno social y cultural.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-c) La inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en las medidas de rehabilitación y asistencia.
+###### ARTICULO 140.
 
-Las autoridades estatales y municipales competentes, deberán coadyuvar para garantizar la protección integral de los derechos de las niñas, niños y adolescentes.
+En caso de incumplimiento a resoluciones del Tribunal Estatal de Conciliación y Arbitraje, el Presidente del mismo impondrá la sanción siguiente: multa de hasta sesenta veces el valor diario de la unidad de medida y actualización vigente. Impuesta la sanción anterior, si se continúa en la negativa para cumplirla, se procederá en los términos de la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí.
 
-II. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir oficiosamente, con representación coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables.
+###### ARTICULO 141.
 
-III. Establecer acciones y mecanismos de prevención y protección a niñas, niños y adolescentes maltratados, en desamparo o con problemas sociales, para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas para su custodia, formación e instrucción, así como garantizar en todo momento su situación jurídica de acuerdo a las disposiciones aplicables.
+Las partes podrán comparecer a juicio en forma directa o por conducto de apoderado legalmente autorizado.
 
-IV. Coadyuvar con la Procuraduría General de Justicia del Estado en la atención y tratamiento de las niñas, niños y adolescentes víctimas del delito.
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2014)</small>
 
-V. Recibir quejas, denuncias e informes en relación de quienes ejerzan la patria potestad, su guarda o tutela, sobre la violación de los derechos de las niñas, niños y adolescentes, haciéndolo del conocimiento de las autoridades competentes y de ser procedente ejercitar las acciones legales correspondientes.
+Los apoderados de las partes deberán acreditar ser abogados o licenciados en derecho con cédula profesional, o contar con carta de pasante vigente, expedida por autoridad competente para el ejercicio de dicha profesión. Se podrán autorizar personas que no reúnan los anteriores requisitos para recibir notificaciones y documentos, pero éstas no podrán comparecer en las audiencias ni efectuar promoción alguna.
 
-VI. Coordinarse con las autoridades estatales y municipales, a fin de establecer acciones que permitan a las niñas, niños y adolescentes disfrutar del goce pleno de sus derechos.
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2014)</small>
 
-VII. Coordinar la ejecución y dar seguimiento a las medidas de protección para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada.
+En caso de que no se acrediten los supuestos del párrafo anterior, se requerirá al actor para que designe apoderado que satisfaga los extremos que en éste se establecen.
 
-VIII. Fungir como conciliadora y mediadora en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La conciliación no procederá en casos de violencia.
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
 
-IX. Denunciar ante las autoridades competentes cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general cualquier acción que perjudique a la niña, niño o adolescente.
+Para la obtención de copia simple de cualquier documento que obre en el juicio, únicamente bastará que la parte interesada o su apoderado, tengan reconocida su personalidad en los términos del presente capítulo, y lo solicite de forma escrita o verbal, sin que tenga que existir decreto judicial.
 
-X. Gestionar ante el Registro Civil la inscripción en las partidas regístrales de las niñas, niños y adolescentes, solicitadas por instituciones privadas y sociales.
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
 
-XI. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de los derechos de las niñas, niños y adolescentes.
+Para obtener copia certificada, la parte interesada o su apoderado cuya personalidad tenga debidamente reconocida, debe de solicitarla mediante escrito o en audiencia, requiriéndose decreto judicial para ello.
 
-XII. Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes.
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
 
-XIII. Solicitar al Ministerio Público competente la imposición de medidas de protección a favor de niñas, niños y adolescentes.
+En ambos casos, se expedirán las copias a costa del solicitante, y así mismo, se dejará constancia en autos de su recepción.
 
-XIV. Ejecutar acciones y programas de protección especial para las niñas, niños y adolescentes en condiciones de desventaja social.
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
 
-XV. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables.
+De igual modo, previa autorización, se podrá hacer uso de las innovaciones tecnológicas que permitan de una manera más ágil a las partes, el acceso a las constancias o autos que obran en el expediente, mediante el uso de cámaras fotográficas, grabadoras, lectores ópticos u otro medio electrónico de reproducción portátil, para copiar o reproducir el contenido de las actuaciones o resoluciones que obran en ellos. Debiendo observarse, desde luego, lo previsto en la parte final del párrafo anterior.
 
-XVI. Desarrollar los lineamentos y procedimientos a los que se sujetarán para la restitución de los derechos de niñas, niños y adolescentes.
+###### ARTICULO 142.
 
-XVII. Proporcionar, en forma gratuita, los servicios de asistencia jurídica y de orientación social a las niñas, niños y adolescentes y a quienes ejerzan la patria potestad, su guarda o tutela.
+Las autoridades acreditarán su personalidad con el nombramiento respectivo y podrán hacerse representar por medio de apoderado, quien acreditará su personalidad o su carácter, mediante simple oficio.
 
-XVIII. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial.
+###### ARTICULO 143.
 
-XIX. En los casos que conozca sobre padres, tutores o quienes tenga legalmente la custodia de una niña, niño o adolescente, que impliquen conductas u omisiones que pongan en riesgo la salud mental y/o física de los menores a su cargo, emitirá dictámenes en materia de trabajo social y psicología, para la elaboración del plan de resarcimiento de los derechos.
+Los trabajadores podrán hacerse representar mediante carta poder firmada ante dos testigos, sin necesidad de ser ratificada ante el Tribunal Estatal de Conciliación y Arbitraje.
 
-XX. Hacer del conocimiento del Ministerio Público, los casos en que los padres, tutores o quienes tengan legalmente la custodia de un menor de edad, incurran en las conductas a que se refiere la fracción anterior, y rendir los informes, dictámenes, antecedentes e información con que cuente al respecto.
+###### ARTICULO 144.
 
-XXI. Realizar, promover y difundir estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de los derechos de las niñas, niños y adolescentes, y hacerlos llegar a las autoridades competentes y a los sectores social y privado para su incorporación en los programas respectivos.
+Los trabajadores previa identificación, podrán otorgar poder mediante simple comparecencia ante el tribunal.
 
-XXII. Impulsar y promover el reconocimiento y ejercicio de los derechos de las niñas, niños y adolescentes en condiciones de desventaja social y establecer centros de información y denuncia que permita (sic) canalizar ante la representación social los hechos constitutivos de delito, cometidos en agravio de los menores y gestionar la atención de los mismos.
+###### ARTICULO 145.
 
-XXIII. Gestionar ante las autoridades correspondientes, la aplicación de las sanciones a que se hagan acreedores los infractores de la presente Ley.
+Los representantes de los sindicatos acreditarán su personalidad con la certificación que les extienda el propio Tribunal Estatal de Conciliación y Arbitraje.
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
+## TITULO SEXTO.
 
-XXIV. En aquellos municipios en los que no exista Ministerio Público, o se encuentre ausente, podrá ordenar fundada y motivadamente, bajo su más estricta responsabilidad, la aplicación de medidas urgentes de protección especial, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, dando aviso de inmediato al Ministerio Público más cercano y a la autoridad jurisdiccional competente, dentro del término previsto en el artículo 182 de esta Ley.
+DE LAS OBLIGACIONES DE LAS INSTITUCIONES PUBLICAS Y SUS TRABAJADORES.
 
-> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2016)</small>
+### CAPITULO VI.
 
-XXV. Las demás que les confieran otras disposiciones aplicables para la atención integral de las niñas, niños y adolescentes.
+DE LAS CORRECCIONES DISCIPLINARIAS Y MEDIOS DE APREMIO.
 
-###### Artículo 136.
+###### ARTICULO 146.
 
-Son facultades de la Procuraduría de Protección Estatal, además de las previstas en el artículo anterior, las siguientes:
+El Tribunal Estatal de Conciliación y Arbitraje podrá tener por acreditada la personalidad de los trabajadores, sindicatos o autoridades, así como de sus apoderados, sin sujetarse a las reglas contenidas en los artículos anteriores, excepción hecha de lo señalado en el artículo 143 de esta ley, siempre que de los documentos que se exhiban, llegue al convencimiento de que efectivamente representan a la parte interesada, haciéndose constar tal circunstancia en la actuación correspondiente.
 
-I. Autorizar, registrar, certificar y supervisar los centros de asistencia social, en términos de la ley de la materia.
+###### ARTICULO 147.
 
-II. Desarrollar los lineamentos y procedimientos a los que se sujetarán para la restitución de los derechos de niñas, niños y adolescentes, los cuales deberá compartir con las Procuradurías de Protección Municipales.
+Siempre que dos o más personas ejerciten la misma acción contra un mismo demandado en un procedimiento, deben litigar unidas y con una representación común. De igual forma se procederá cuando se opongan las mismas excepciones. Si los interesados no hicieren el nombramiento, el tribunal requerirá a los promoventes para que lo hagan, apercibiéndolos que de no hacerlo, dicho tribunal lo hará en su rebeldía, escogiéndolo de entre los propios interesados. El representante común tendrá los derechos, obligaciones y responsabilidades inherentes a un mandato judicial.
 
-III. Registrar, capacitar e integrar expedientes de las familias candidatas al acogimiento pre-adoptivo.
+###### ARTICULO 148.
 
-IV. Proporcionar información para integrar y sistematizar el Registro Nacional de Centros de Asistencia Social.
+Las partes en su primer escrito o comparecencia, deberán señalar domicilio para recibir notificaciones en el lugar de residencia del tribunal; si no lo hacen, se les harán por estrados, aún las personales.
 
-###### Artículo 137.
+###### ARTICULO 149.
 
-El Titular de la Procuraduría de Protección Estatal, deberá contar con los siguientes requisitos:
+En tanto no se designe nuevo domicilio en autos, las notificaciones personales se harán en el domicilio señalado desde el principio y desde luego surtirán plenamente efectos.
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener una residencia mínima de tres años en el Estado.
+###### ARTICULO 150.
 
-II. Tener más de 30 años de edad.
+Las actuaciones y certificaciones que se hicieren con motivo de la aplicación de esta ley, no causarán impuestos.
 
-III. Contar con título y cédula profesional de licenciatura en derecho debidamente registrados.
+## TITULO SEPTIMO.
 
-IV. Contar con al menos dos años de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes.
+DE LA SUSPENSION, TERMINACION Y CESE DE LAS RELACIONES DE TRABAJO.
 
-V. Tener buena conducta y no haber sido sentenciado por delito doloso o inhabilitado como servidor público.
+### CAPITULO UNICO.
 
-El nombramiento del Procurador o Procuradora de Protección de los derechos de las Niñas, Niños, Adolescentes y la Familia deberá ser aprobado por la Junta de Gobierno del Sistema DIF-Chiapas, a propuesta de su Titular.
+###### ARTICULO 151.
 
-###### Artículo 138.
+Se harán notificaciones personales de:
 
-El Titular de la Procuraduría de Protección municipal, deberá cumplir con los requisitos siguientes:
+I.- El emplazamiento a juicio y en todo caso cuando se trate de la primera notificación;
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener una residencia mínima de tres años en el Estado.
+II.- La resolución que cite a la audiencia de conciliación, demanda y excepciones, recepción de pruebas, alegatos y resolución.
 
-II. Tener más de 25 años de edad.
+III.- La resolución en la que se declare incompetente el Tribunal Estatal de Conciliación y Arbitraje;
 
-III. Contar con título y cédula profesional de licenciatura en derecho debidamente registrados.
+IV.- La resolución que ordene la reanudación del procedimiento, cuando éste haya estado interrumpido o suspendido por cualquier causa legal;
 
-IV. Contar con al menos un año de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes.
+V.- El auto que cite a absolver posiciones;
 
-V. Tener buena conducta y no haber sido sentenciado por delito doloso o inhabilitado como servidor público.
+VI.- La resolución de que deban conocer los terceros extraños al juicio;
 
-El nombramiento del Procurador o Procuradora Municipal de Protección de los derechos de las Niñas, Niños, Adolescentes y la Familia deberá ser aprobado (sic) el Presidente Municipal y se deberá enviar copia a la Procuraduría de Protección Estatal.
+VII.- El auto que declare la caducidad;
 
-### Capítulo Tercero. De las Facultades del Sistema DIF Estatal y de la Procuraduría de Protección Estatal en Materia de Adopción
+VIII.- El acuerdo que manda recibir la sentencia de amparo;
 
-###### Artículo 139.
+IX.- El laudo; y
 
-Las personas interesadas en adoptar niñas, niños y/o adolescentes que se encuentren bajo la tutela de las Procuradurías de Protección Estatal o Municipales, deberán presentar ante (sic) su solicitud ante la Procuraduría de Protección Estatal.
+X.- Cuando a juicio del tribunal concurran circunstancias especiales o urgentes.
 
-La Procuraduría de Protección Estatal, ordenará realizar las valoraciones psicológica, económica, de trabajo social y todas aquéllas que sean necesarias para integrar el expediente de los solicitantes para ser sometido al Consejo Técnico de Adopciones del Estado, quien evaluará la información y, en su caso, emitirá o negará el certificado de idoneidad respectivo.
+###### ARTICULO 152.
 
-La asignación de niñas, niños y adolescentes, sólo podrá otorgarse a una familia de acogida pre-adoptiva que cuente con certificado de idoneidad. Para tal efecto, se observará lo siguiente:
+La primera notificación observará las siguientes normas:
 
-I. Niñas, niños y adolescentes, siempre que sea posible de acuerdo con su edad, desarrollo cognoscitivo y grado de madurez, serán escuchados y su opinión será fundamental para la determinación que adopte el órgano jurisdiccional competente.
+I.- El actuario se cerciorará de que la persona que deba ser notificada tenga su domicilio en la oficina o casa señalada en autos para hacer la notificación;
 
-II. Se tomará en cuenta que las condiciones en la familia de acogimiento pre-adoptiva sean adecuadas para el desarrollo integral de niñas, niños y adolescentes, de conformidad con el principio de interés superior de la niñez.
+II.- Encontrándose el interesado o su apoderado, el actuario notificará la resolución entregando copia de la misma; si se trata de la parte demandada, lo asentará en el acta y en su caso, se asegurará de que la persona con quien entiende la diligencia, es el representante legal;
 
-III. Se tomará en consideración el grado de parentesco; la relación de afinidad y de afectividad; el origen, la comunidad y las condiciones culturales en que se desarrollen niñas, niños y adolescentes.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
-IV. Se procurará no separar a hermanas y hermanos, pero si hubiere necesidad de ello, considerando el interés superior del niño, niña o adolescente, y una vez descartadas todas las posibilidades de permanecer juntos en otra modalidad de cuidado alternativo a largo plazo, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente. Para lo anterior, se podrá escuchar la opinión de todas las hermanas y hermanos, de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez.
+III.- Si no está presente el interesado o su representante, se le dejará citatorio para que lo espere al día siguiente en hora determinada, si el domicilio se encuentra cerrado, y es el señalado por las partes para recibir notificaciones, en términos de los artículos 148 y 149 de esta Ley, el actuario fijará el citatorio en la puerta del inmueble y asentará razón de ello, observando lo dispuesto por el artículo 158 de la presente Ley;
 
-###### Artículo 140.
+IV.- Si no obstante el citatorio, no está presente el interesado o su representante, la notificación podrá entenderse con la persona que se encuentre en la casa, local u oficina señalados, siempre que sea mayor de edad. Si estuvieren cerrados, se fijará una copia de la resolución en la puerta de acceso; y
 
-La Procuraduría de Protección Estatal deberá dar seguimiento a la convivencia entre niñas, niños o adolescentes y la una (sic) familia de acogida pre-adoptiva autorizada por el Consejo Técnico de Adopciones, con el fin de prevenir o superar las dificultades que se puedan presentar.
+V.- Si en la casa, local u oficina designados para hacer la notificación se negare el interesado, su apoderado o la persona con quien se entienda la diligencia a recibir la notificación, ésta se hará por cédula que se fijará en la puerta de acceso, adjuntándose copia de la resolución.
 
-En los casos que la Procuraduría de Protección Estatal constate que no se consolidaron las condiciones de adaptación de niñas, niños o adolescentes con la familia de acogida pre-adoptiva, procederá a iniciar el procedimiento a fin de reincorporarlos al sistema que corresponda y se realizará, en su caso, una nueva asignación.
+###### ARTICULO 153.
 
-Cuando se verifique cualquier tipo de violación a los derechos de niñas, niños o adolescentes asignados, el sistema competente revocará la asignación y ejercerá las facultades que le otorgan la presente Ley y demás disposiciones aplicables.
+En todos los casos señalados anteriormente el actuario levantará razón en el acta, señalando con claridad los elementos de convicción en que se apoye.
 
-Los procedimientos de adopción se desahogarán de conformidad con el Código Civil del Estado.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
 
-###### Artículo 141.
+###### ARTICULO 154.
 
-Corresponde al Sistema DIF- Estatal, a través de la Procuraduría de Protección Estatal:
+Las siguientes notificaciones personales se harán al interesado o persona autorizada, si concurre al local del Tribunal, o en el domicilio que hubiere designado y si no estuviere presente, se le dejará copia de la resolución y cédula; si la casa o local estuvieren cerrados, el actuario fijará en la puerta de entrada copia de la resolución respectiva y de la cédula de notificación, de todo lo cual asentará razón en autos.
 
-I. Prestar servicios de asesoría y asistencia jurídica a las personas que deseen asumir el carácter de familia de acogimiento pre-adoptivo de niñas, niños o adolescentes, así como su capacitación.
+###### ARTICULO 155.
 
-II. Realizar evaluaciones sobre la idoneidad de las condiciones de quienes pretendan adoptar, y emitir los dictámenes correspondientes, así como formular las recomendaciones pertinentes al órgano jurisdiccional.
+Los actuarios fijarán en los estrados del local del tribunal las listas autorizadas de las notificaciones, que deberán contener la fecha, el número del expediente y los nombres de las partes.
 
-III. Contar con un sistema de información que permita registrar a las niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, así como el listado de las personas solicitantes de adopción, adopciones concluidas e informar de manera trimestral a la Procuraduría Federal de Protección y a la Procuraduría de Protección Estatal.
+###### ARTICULO 156.
 
-Para el cumplimiento de lo anterior, la Procuraduría de Protección Estatal se auxiliará de las Procuradurías de Protección Municipal y los Sistemas DIF Municipales, a través de los servidores públicos certificados para tal fin.
+Las notificaciones surtirán efectos de la siguiente forma:
 
-###### Artículo 142.
+I.- Las personales, el día y hora en que se practiquen contándose de momento a momento, cualquiera que sea la hora en que se haya hecho la notificación, salvo disposición en contrario; y
 
-En materia de adopciones en el Estado, regirán las siguientes condiciones mínimas:
+II.- Las demás notificaciones, al día siguiente al de su publicación en los estrados del tribunal.
 
-I. Niñas, niños y adolescentes serán adoptados en pleno respeto de sus derechos, de conformidad con el principio de interés superior de la niñez.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2020)</small>
 
-II. Se escuchará y tomará en cuenta la opinión de niñas, niños y adolescentes de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, en términos de la presente Ley.
+###### ARTICULO 157.
 
-III. Se asesorará jurídicamente, tanto a quienes consientan la adopción, como a quienes la acepten, a fin de que conozcan los alcances jurídicos, familiares y sociales de la misma.
+Las notificaciones deberán verificarse en días y horas hábiles, cuando menos con dos días de anticipación del día y hora en que debe efectuarse la diligencia.
 
-IV. El Consejo Técnico de Adopciones y el órgano jurisdiccional verificarán que la adopción no sea motivada por beneficios económicos para quienes participen en ella.
+###### ARTICULO 158.
 
-V. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, velarán porque en los procesos de adopción se respeten las normas que los rigen a nivel estatal.
+La notificación por cédula, deberá contener:
 
-###### Artículo 143.
+I.- Lugar, día y hora en que se practica;
 
-Tratándose de adopción internacional, la normativa estatal dispondrá lo necesario para asegurar que los derechos de niñas, niños y adolescentes que sean adoptados sean garantizados en todo momento y se ajusten el (sic) interés superior de la niñez, así como garantizar que esta adopción no sea realizada para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación, las peores formas de trabajo infantil o cualquier ilícito en contra de los mismos.
+II.- El número del expediente;
 
-En los procedimientos judiciales de adopción internacional deberá requerirse el informe de adoptabilidad por parte del Sistema DIF- Estatal y, una vez que el órgano jurisdiccional competente otorgue la adopción, previa solicitud de los adoptantes, se solicitará de la Secretaría de Relaciones Exteriores la certificación correspondiente, de conformidad con los tratados internacionales.
+III.- Los nombres de las partes;
 
-Las personas que ejerzan profesiones en el trabajo social y psicología de las instituciones públicas y privadas que intervengan en procedimientos de adopción internacional, en términos de lo dispuesto en los tratados internacionales, deberán contar con la autorización y registro del Sistema DIF- Estatal en el ámbito de su competencia.
+IV.- El nombre y domicilio de la persona que deba ser notificada; y
 
-La adopción internacional de una niña, niño o adolescente de nacionalidad mexicana procederá cuando se haya constatado por las autoridades correspondientes que ésta responde al interés superior de la niñez, después de haber examinado adecuadamente las posibilidades de asignación de la niña, niño o adolescente para adopción nacional.
+V.- Copia autorizada de la resolución que se anexará a la cédula.
 
-###### Artículo 144.
+### CAPITULO UNICO.
 
-Las personas que ejerzan profesiones en el trabajo social y psicología o carreras afines de las instituciones públicas y privadas que realicen estudios socioeconómicos, psicológicos e informes psicosociales en materia de adopción, deberán cumplir con los requisitos siguientes:
+###### ARTICULO 159.
 
-I. Contar con título y cédula profesional de licenciatura en trabajo social, psicología o carreras afines.
+Son nulas las notificaciones que no se practiquen conforme a lo dispuesto en este capítulo.
 
-II. Acreditar experiencia en temas de desarrollo de la niñez y de la adolescencia, familia, pareja o adopción.
+### CAPITULO UNICO.
 
-III. Acreditar experiencia laboral mínima de dos años, en trabajo social o psicología, o en la atención de niñas, niños o adolescentes sujetos de asistencia social o solicitantes de adopción.
+###### ARTICULO 160.
 
-IV. Presentar carta compromiso por parte de la institución de asistencia privada que proponga al profesional de que se trate ante el Sistema Nacional DIF, y los Sistemas de las Entidades, en los casos de profesionales que busquen ingresar a instituciones privadas.
+Si en autos consta que una persona se manifiesta sabedora de una resolución, la notificación mal realizada u omitida, surtirá sus efectos como si estuviese hecha conforme a la ley.
 
-V. No haber sido condenado por delitos dolosos.
+###### ARTICULO 161.
 
-VI. Presentar constancia de la institución de asistencia privada en la que indique que las personas profesionales en trabajo social o psicología o carreras afines, son personas empleadas asalariadas con remuneración mensual fija.
+Se entiende por días hábiles, todos los del año, excepto sábados y domingos, descansos obligatorios y aquellos en que el Tribunal Estatal de Conciliación y Arbitraje suspenda sus labores.
 
-VII. El Sistema DIF- Estatal expedirá las autorizaciones correspondientes y llevará un registro de las mismas.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
 
-###### Artículo 145.
+## TITULO OCTAVO.
 
-Cuando las personas que laboren en las instituciones públicas y privadas contravengan los derechos de niñas, niños y adolescentes o incurran en actos contrarios al interés superior de la niñez, el Sistema DIF- Estatal revocarán (sic) la autorización y registrará la cancelación a que se refiere el artículo anterior.
+DE LOS RIESGOS DE TRABAJO Y LA JUBILACION.
 
-Las personas profesionales a quienes sea revocada la autorización serán inhabilitadas y boletinadas por el Sistema DIF- Estatal, a fin de evitar adopciones contrarias al interés superior de la niñez. Lo anterior, sin perjuicio de las sanciones previstas en las disposiciones jurídicas aplicables.
+### CAPITULO UNICO.
 
-Para la revocación de las autorizaciones e inhabilitación a que se refiere este artículo, se seguirán las disposiciones en materia de procedimiento administrativo aplicables en el Estado.
+###### ARTICULO 197.
 
-Cualquier persona podrá presentar una queja ante el Sistema DIF -Estatal si considera que se actualizan los supuestos previstos en el primer párrafo de este artículo.
+Se tendrá por desistida de la acción intentada a toda persona que no haga promoción alguna en el término de seis meses, siempre que ésta sea necesaria para la continuación del procedimiento.
 
-## Título Sexto. Del Consejo de Investigación y Evaluación de la Política Social del Estado
+No operará la caducidad, aún cuando dicho término se cumpla, si está pendiente el desahogo de alguna diligencia que deba practicarse por el tribunal, la recepción de informes o documentos que hayan sido solicitados por el propio tribunal o alguna promoción pendiente de acuerdo.
 
-### Capítulo Único. Generalidades
+A petición de las partes interesadas o de oficio, el tribunal declarará la caducidad, cuando se estime consumada.
 
-###### Artículo 146.
+## TITULO DECIMO SEPTIMO.
 
-Corresponderá al CIEPSE la evaluación de las políticas de desarrollo social vinculadas con la protección de los derechos de niñas, niños y adolescentes, en términos de lo establecido por la presente Ley, su Decreto de creación y las demás disposiciones legales aplicables.
+DE LOS RECURSOS.
 
-###### Artículo 147.
+###### ARTICULO 162.
 
-La evaluación consistirá en revisar periódicamente el cumplimiento de esta Ley y del Programa Estatal y metas y acciones en materia de derechos de niñas, niños y adolescentes.
+Son horas hábiles las comprendidas entre las ocho y las dieciocho horas del día, pero en materia de huelga son hábiles todos los días y las horas.
 
-###### Artículo 148.
+## TITULO NOVENO.
 
-De acuerdo con los resultados de las evaluaciones, el CIEPSE emitirá, las sugerencias, opiniones y recomendaciones que en su caso considere pertinentes al Sistema Estatal y Sistema Nacional de Protección Integral.
+DERECHO COLECTIVO DEL TRABAJO.
 
-###### Artículo 149.
+### CAPITULO UNICO.
 
-Los resultados de las evaluaciones serán entregados al Titular del Poder Ejecutivo del Estado de forma anual, preferentemente en el mes de enero.
+###### ARTICULO 198.
 
-###### Artículo 150.
+En ejecución de los laudos o convenios, procede el recurso de revisión contra actos del Presidente y de los Actuarios.
 
-Sin perjuicio de las atribuciones contenidas en su Decreto de creación, el CIEPSE contará con las siguientes atribuciones:
+###### ARTICULO 199.
 
-I. Fomentar y fortalecer la colaboración, concertación, coordinación y participación responsable de Instituciones Públicas y Privadas en la realización de acciones para garantizar el ejercicio de los derechos de las niñas, niños y adolescentes.
+Conocerá de la revisión:
 
-II. Evaluar los logros y avances de los programas de la Administración Pública en la materia y proponer medidas para su optimización.
+I.- El Presidente del Tribunal Estatal de Conciliación y Arbitraje cuando se trate de actos de los Actuarios; y
 
-III. Analizar y proponer a las instancias competentes, modelos de atención para las niñas, niños y adolescentes.
+II.- El pleno del tribunal cuando se trate de actos del Presidente.
 
-IV. Contribuir en la difusión de los principios y derechos de las niñas, niños y adolescentes en el Estado.
+###### ARTICULO 200.
 
-## Título Séptimo. Del Sistema Estatal de Protección Integral
+La revisión se interpondrá por escrito dentro de los cinco días siguientes al en que se tenga conocimiento del acto que se impugna.
 
-### Capítulo Primero. De los Integrantes y de sus Atribuciones
+###### ARTICULO 201.
 
-###### Artículo 151.
+Se observarán las normas siguientes al substanciarse la revisión;
 
-Para asegurar una adecuada protección de los derechos de niñas, niños y adolescentes en el Estado de Chiapas, se crea el Sistema Estatal de Protección Integral de los Derechos de Niñas, Niños y Adolescentes como instancia encargada de establecer instrumentos, políticas, procedimientos, servicios y acciones de protección de los derechos de niñas, niños y adolescentes.
+I.- Con el escrito de solicitud se ofrecerán las pruebas respectivas;
 
-###### Artículo 152.
+II.- Con el escrito se dará vista por el término de tres días a la contra parte para que manifieste su defensa y ofrezca las pruebas conducentes; y
 
-El Sistema Estatal de Protección Integral estará conformado por:
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
 
-I. El Titular del Poder Ejecutivo del Estado, quien lo presidirá.
+III. Transcurrido el término que señala la fracción anterior, el Tribunal contará con tres días hábiles para resolver el recurso.
 
-II. El Titular de la Secretaría General de Gobierno.
+Si se declara procedente la revisión, se modificará el acto que la originó en el sentido que legalmente corresponda.
 
-III. El Titular de la Secretaría de Hacienda.
+###### ARTICULO 202.
 
-IV. El Titular de la Secretaría del Trabajo.
+Procede el recurso de reclamación contra las medidas de apremio y las sanciones pecuniarias impuestas por el Presidente o el Secretario de Acuerdos.
 
-V. La Titular de la Secretaría para el Desarrollo y Empoderamiento de las Mujeres.
+###### ARTICULO 203.
 
-VI. El Titular de la Secretaría para el Desarrollo Sustentable de los Pueblos Indígenas.
+El recurso de reclamación se substanciará en la siguiente forma:
 
-VII. El Titular de la Secretaría de Salud y Director General del Instituto de Salud.
+I.- Se promoverá por escrito, dentro de los tres días siguientes al en que se tenga conocimiento de la medida, ofreciéndose las pruebas relativas ante el Tribunal Estatal de Conciliación y Arbitraje.
 
-VIII. El Titular de la Secretaría de Educación.
+II.- Admitido el recurso, se solicitará al funcionario que haya dictado la medida impugnada, rinda por escrito un informe fundado y motivado en relación al acto recurrido, acompañando además las pruebas conducentes; y
 
-IX. El Titular de la Secretaría de Seguridad y Protección Ciudadana.
+III.- Dentro de los diez días siguientes a la admisión del recurso, el tribunal citará a una audiencia de recepción de pruebas y resolución.
 
-X. El Titular de la Secretaría para el Desarrollo de la Frontera Sur y Enlace para la Cooperación Internacional.
+Siendo procedente la reclamación, se ordenará modificar la medida de apremio o la sanción.
 
-XI. El Titular de la Secretaría de la Juventud, Recreación y Deporte.
+###### ARTICULO 204.
 
-XII. El Titular del Instituto de la Consejería Jurídica y de Asistencia Legal.
+Cuando se promueva un recurso notoriamente improcedente, el tribunal lo desechará de plano.
 
-XIII. La Titular del Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas, DIF-Chiapas.
+Un recurso se considerará notoriamente improcedente, cuando a juicio del tribunal se deduzca que se promueve solamente con el propósito de demorar o entorpecer la administración de justicia.
 
-XIV. El Titular de la Procuraduría General de Justicia del Estado.
+## TRANSITORIOS
 
-XV. El Presidente del Tribunal Superior de Justicia del Estado.
+###### ARTICULO PRIMERO.
 
-XVI. Cuatro representantes de la sociedad civil, que serán nombrados por el Sistema Estatal de Protección Integral, en términos de lo que establezca el Reglamento de la Ley.
+Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Cada uno de los integrantes del Sistema Estatal de Protección Integral, tendrá derecho a voz y voto en las sesiones que se celebren.
+###### ARTICULO SEGUNDO.
 
-Serán invitados especiales a las sesiones del Sistema Estatal de Protección Integral, el Presidente de la Comisión Estatal de los Derechos Humanos, y los Presidentes de las Comisiones de Atención a la Mujer y a la Niñez, y de Atención a Grupos Vulnerables del Congreso del Estado, quienes intervendrán con voz, pero sin voto.
+La presente ley abroga el Estatuto Jurídico de los Trabajadores al Servicio de las Autoridades de San Luis Potosí expedido el 15 de diciembre de 1960; así como todas las disposiciones que se opongan a este ordenamiento.
 
-###### Artículo 153.
+###### ARTICULO TERCERO.
 
-Los integrantes del Sistema Estatal de Protección Integral nombrarán un suplente que deberá tener el nivel de subsecretario o su equivalente.
+Los procesos que se encuentren pendientes a la vigencia de esta ley, serán resueltos conforme al estatuto que se abroga.
 
-###### Artículo 154.
+###### ARTICULO CUARTO.
 
-El Presidente del Sistema Estatal de Protección Integral podrá invitar a las sesiones respectivas a representantes de otras dependencias y entidades de la Administración Pública Estatal, de los órganos con autonomía constitucional, así como de los ayuntamientos, según la naturaleza de los asuntos a tratar quienes intervendrán con voz pero sin voto.
+Tratándose de aspectos sindicales no quedarán comprendidos dentro de esta ley, los trabajadores de la educación que integran las Secciones 26 y 52 del Sindicato Nacional de Trabajadores de la Educación, en virtud de que el Acuerdo Nacional para la modernización de la Educación Básica, establece: "Los gobiernos de los Estados reconocen al Sindicato Nacional de Trabajadores de la Educación como el titular de las relaciones laborales colectivas de los trabajadores de base que prestan sus servicios en los establecimientos y unidades administrativas que se incorporan al sistema educativo estatal".
 
-En las sesiones del Sistema Estatal de Protección Integral, participarán de forma permanente, sólo con voz, niñas, niños y adolescentes, que serán seleccionados por el propio Sistema, teniendo la facultad de poder presentar propuestas, mismas que deberán ser tomadas en cuenta. La participación de niñas, niños y adolescentes deberá ser de manera voluntaria. De igual forma, se podrá invitar a personas o instituciones, nacionales o internacionales, especializadas en la materia.
+Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
 
-###### Artículo 155.
+DADO en el Salón de Sesiones del H. Congreso del Estado a los veintidós días del mes de noviembre de mil novecientos noventa y cinco.
 
-El Sistema Estatal de Protección Integral se reunirá cuando menos tres veces al año. Para sesionar válidamente se requerirá un quórum de la mayoría de sus miembros y la asistencia de su Presidente o su representante; sus decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
+DIPUTADO PRESIDENTE, GERARDO LIMON MONTELONGO.- DIPUTADO SECRETARIO, EDUARDO SAUCEDO SIAS.- DIPUTADO SECRETARIO, ALVARO ELIAS LOREDO.- Rúbricas.
 
-###### Artículo 156.
+POR TANTO, MANDO SE CUMPLA Y EJECUTE EL PRESENTE DECRETO Y QUE TODAS LAS AUTORIDADES LO HAGAN CUMPLIR Y GUARDAR Y AL EFECTO SE IMPRIMA, PUBLIQUE Y CIRCULE A QUIENES CORRESPONDA.
 
-Para el mejor cumplimiento de sus funciones, el Sistema Estatal de Protección Integral podrá constituir comisiones encargadas de atender asuntos o materias específicas y emitirá los lineamientos para su integración, organización y funcionamiento.
+DADO EN EL PALACIO DE GOBIERNO, SEDE DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, A LOS SEIS DIAS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y CINCO.
 
-###### Artículo 157.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 
-El Sistema Estatal de Protección Integral tiene las siguientes atribuciones:
+LIC. HORACIO SANCHEZ UNZUETA.
 
-I. Instrumentar y articular las políticas públicas en concordancia con la política nacional.
+EL SECRETARIO GENERAL DE GOBIERNO.
 
-II. Coadyuvar en la adopción y consolidación del Sistema Nacional de Protección.
+JUAN JOSE RODRIGUEZ.
 
-III. Difundir el marco jurídico estatal, nacional e internacional de protección a los derechos de niñas, niños y adolescentes.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
-IV. Integrar la participación de los sectores público, social y privado y de la sociedad civil, en la definición e instrumentación de políticas para la garantía y protección integral de los derechos de niñas, niños y adolescentes.
+P.O. 12 DE OCTUBRE DE 2010.
 
-V. Generar los mecanismos necesarios para garantizar la participación directa y efectiva de niñas, niños y adolescentes en los procesos de elaboración de programas y políticas para la garantía y protección integral de sus derechos.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-VI. Promover, en los diferentes sectores de gobierno, el establecimiento de presupuestos etiquetados, destinados a la protección de los derechos de niñas, niños y adolescentes.
+SEGUNDO. Los trabajadores que hayan sido despedidos o suspendidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sujetarán a las disposiciones vigentes en el momento del despido o suspensión.
 
-VII. Impulsar la incorporación de la perspectiva de derechos de niñas, niños y adolescentes en la planeación estatal del desarrollo.
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-VIII. Garantizar la transversalidad de la perspectiva de derechos de niñas, niños y adolescentes en la elaboración de programas estatales y municipales, así como en las políticas y acciones de las dependencias y entidades de la Administración Pública Estatal.
+P.O. 7 DE MAYO DE 2013.
 
-IX. Aprobar, en el marco de los Planes Nacional y Estatal de Desarrollo, el Programa Estatal.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-X. Elaborar y ejecutar coordinadamente el Programa Estatal con la participación de los sectores público, social y privado, así como de niñas, niños y adolescentes.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-XI. Asegurar la colaboración y coordinación entre el Estado y los municipios, para la formulación, ejecución e instrumentación de políticas, programas, estrategias y acciones en materia de protección y ejercicio de los derechos de niñas, niños y adolescentes, con la participación de los sectores público, social y privado así como de niñas, niños y adolescentes.
+P.O. 14 DE ENERO DE 2014.
 
-XII. Hacer efectiva la concurrencia, vinculación y congruencia de los programas y acciones del gobierno estatal y los municipios, con los objetivos, estrategias y prioridades de la política pública estatal de protección de los derechos de niñas, niños y adolescentes.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-XIII. Garantizar la participación de niñas, niños y adolescentes en el ejercicio de sus derechos humanos, tomando en consideración las medidas especiales que se requieran.
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
-XIV. Fortalecer las acciones de corresponsabilidad y cercanía entre las instancias públicas y privadas con niñas, niños y adolescentes.
+P.O. 25 DE FEBRERO DE 2014.
 
-XV. Promover la celebración de instrumentos de colaboración y coordinación, así como acciones de concertación con instancias públicas y privadas, nacionales e internacionales, que contribuyan al cumplimiento de la Ley General y la presente Ley.
+DECRETO NO. 516 POR EL QUE SE ADICIONA PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 141, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ.
 
-XVI. Establecer mecanismos de coordinación con otros sistemas estatales que desarrollen programas, acciones y políticas en beneficio de niñas, niños y adolescentes, en los términos de las disposiciones aplicables.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-XVII. Conformar un sistema de información a nivel estatal, con el objeto de contar con datos desagregados que permitan monitorear los progresos alcanzados en el cumplimiento de los derechos de niñas, niños y adolescentes en el país, incluyendo indicadores cualitativos y cuantitativos. Este sistema de información se coordinará y compartirá con otros sistemas estatales, municipales y el sistema nacional, en términos de los convenios de coordinación que al efecto se celebren, de conformidad con las disposiciones aplicables.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-XVIII. Establecer mecanismos para garantizar la formación, capacitación y profesionalización de manera sistémica, continua y obligatoria sobre derechos humanos de niñas, niños y adolescentes, de los servidores públicos vinculados con la protección, restitución y garantía de sus derechos a nivel estatal y municipal.
+P.O. 25 DE FEBRERO DE 2014.
 
-XIX. Vigilar la correcta ejecución del Programa Estatal.
+DECRETO NO. 517 POR EL QUE SE REFORMAN LOS ARTÍCULOS, 140, Y 176 EN SU FRACCIÓN I, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ.
 
-XX. Emitir un informe anual sobre los avances del Programa Estatal y remitirlo al Sistema Nacional de Protección Integral.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-XXI. Las demás que sean necesarias para el cumplimiento de la Ley General y de esta Ley.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-###### Artículo 158.
+P.O. 22 DE MARZO DE 2014.
 
-El Sistema Estatal de Protección Integral se coordinará con el Sistema Nacional de Protección Integral y los Sistemas Municipales de Protección Integral en un marco de respeto y colaboración.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-### Capítulo Segundo. De la Secretaría Ejecutiva
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-###### Artículo 159.
+P.O. 5 DE ABRIL DE 2014.
 
-La coordinación operativa del Sistema Estatal de Protección Integral, estará a cargo de la Secretaría Ejecutiva, que será un órgano administrativo de la Subsecretaría de Gobierno y Derechos Humanos, de la Secretaría General de Gobierno, la cual se implementará y constituirá como el máximo órgano de autoridad del propio Sistema.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-La Secretaria Ejecutiva participará en las sesiones del Sistema Estatal de Protección Integral, únicamente con derecho a voz.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-La Secretaría Ejecutiva tiene las atribuciones siguientes:
+P.O. 22 DE MAYO DE 2014.
 
-I. Coordinar las acciones entre las dependencias y las entidades competentes de la Administración Pública estatal que deriven de la presente Ley.
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
-II. Elaborar el anteproyecto del Programa Estatal para someterlo a consideración de los miembros del Sistema.
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
-III. Llevar a cabo el seguimiento y monitoreo de la ejecución del Programa Estatal;
+P.O. 10 DE JUNIO DE 2014.
 
-IV. Elaborar y mantener actualizado el marco normativo del Sistema Estatal de Protección Integral.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-V. Compilar los acuerdos que se tomen en el Sistema Estatal de Protección Integral, llevar el archivo de éstos y de los instrumentos jurídicos que deriven, y expedir constancia de los mismos.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-VI. Apoyar al Sistema Estatal de Protección Integral en la ejecución y seguimiento de los acuerdos y resoluciones emitidos.
+P.O. 4 DE JULIO DE 2015.
 
-VII. Celebrar convenios de coordinación, colaboración y concertación con instancias públicas y privadas, nacionales e internacionales.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-VIII. Administrar el sistema de información a nivel local en materia de niñez y adolescencia y remitir la información al Sistema Nacional de Protección Integral.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-IX. Coordinar la recopilación de información y la homogeneización de estándares e indicadores y el envío oportuno de dicha información al Sistema Nacional y al Sistema Estatal de Protección Integral, para su procesamiento, análisis y evaluación.
+P.O. 14 DE ABRIL DE 2016.
 
-X. Realizar y promover estudios e investigaciones para fortalecer las acciones en favor de la atención, defensa y protección de niñas, niños y adolescentes con el fin de difundirlos a las autoridades competentes y a los sectores social y privado para su incorporación en los programas respectivos.
+###### ARTICULO 163.
 
-XI. Difundir entre las autoridades correspondientes y la población en general los resultados de los trabajos que realice, así como toda aquella información pública que tienda a la generación, desarrollo y consolidación de perspectiva en la materia, desagregada por lo menos, en razón de edad, sexo, entidad federativa, escolaridad y discapacidad.
+Las actuaciones del Tribunal Estatal de Conciliación y Arbitraje deberán practicarse en días y horas hábiles, bajo pena de nulidad, siempre que esta ley no disponga lo contrario.
 
-XII. Asesorar y apoyar al Gobierno del Estado, así como a las autoridades municipales que lo requieran para el ejercicio de sus atribuciones.
+###### ARTICULO 164.
 
-XIII. Proporcionar la información necesaria al CIEPSE y al Sistema Estatal de Protección Integral para la evaluación de las políticas de desarrollo social vinculadas con la protección de niñas, niños y adolescentes.
+El Presidente o el tribunal en pleno podrán habilitar días y horas inhábiles para que se practiquen algunas diligencias, cuando medie causa justificada.
 
-XIV. Dar seguimiento al cumplimiento de sugerencias y recomendaciones derivadas de la evaluación de las políticas de desarrollo social vinculadas con la protección de niñas, niños y adolescentes.
+###### ARTICULO 165.
 
-XV. Fungir como instancia de interlocución con organizaciones de la sociedad civil, academia y demás instituciones de los sectores social y privado.
+Todas las actuaciones serán autorizadas con la firma del Secretario de Acuerdos, con excepción de las actas encomendadas a otros servidores públicos. Se levantará acta circunstanciada en las audiencias, que deberán ser firmadas por las personas que en ella intervinieron cuando sepan y quieran hacerlo.
 
-XVI. Coordinar con las autoridades municipales la articulación de la política estatal, así como el intercambio de información necesaria a efecto de dar cumplimiento con el objeto de esta Ley.
+Para el caso de que algún miembro del tribunal omitiera firmar las actas de las diligencias en que estuvo presente, se asentará este hecho señalando la causa y se entregará a las partes copia de las actas de las audiencias en que hayan comparecido.
 
-XVII. Desarrollar campañas de difusión y sensibilización para la promoción de los derechos de la niñez y la adolescencia.
+###### ARTICULO 166.
 
-XVIII. Las demás que le encomiende el Presidente o el Sistema Estatal de Protección Integral.
+Las resoluciones del tribunal no admiten recurso alguno, asimismo el tribunal no puede revocar sus propias resoluciones.
 
-### Capítulo Tercero. De los Sistemas Municipales de Protección
+###### ARTICULO 167.
 
-###### Artículo 160.
+Los términos empiezan a contar al día siguiente en que surta efectos la notificación y se tomará en cuenta el día del vencimiento.
 
-En cada Municipio del Estado se instalarán Sistemas Municipales de Protección, que serán presididos por los Presidentes Municipales, y estarán integrados por las dependencias e instituciones vinculadas con la protección y garantía de los derechos de niñas, niños y adolescentes.
+## TITULO DECIMO.
 
-Los Sistemas Municipales contarán con una Secretaría Ejecutiva y garantizarán la participación de los sectores social y privado, así como de niñas, niños y adolescentes.
-
-###### Artículo 161.
-
-Los Sistemas Municipales de Protección, deberán contar con un programa de atención y la Secretaría Ejecutiva podrá fungir como autoridad de primer contacto con niñas, niños o adolescentes y será el enlace con las instancias federales y estatales competentes.
-
-La Secretaría Ejecutiva a que se refiere el presente artículo coordinará a los servidores públicos municipales cuando en la operación, verificación y supervisión de las funciones y servicios que les correspondan, detecten casos de violación a los derechos contenidos en la presente Ley, a efecto de que se dé vista a la Procuraduría de Protección Municipal de forma inmediata.
-
-Los Sistemas Municipales de Protección deberán ejercer las atribuciones previstas en (sic) artículo 130 de esta Ley, sin perjuicio de otras que se dispongan en esta Ley y demás normativa aplicable.
-
-## Título Octavo. De los Organismos de Protección de los Derechos Humanos
-
-### Capítulo Único. De la Comisión Estatal de los Derechos Humanos
-
-###### Artículo 162.
-
-La Comisión Estatal de los Derechos Humanos en el ámbito de su respectiva competencia, deberá establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
-
-## Título Noveno. Del Programa Estatal y de los Programas Municipales
-
-### Capítulo Único. Generalidades
-
-###### Artículo 163.
-
-Las autoridades Estatales y municipales, en el ámbito de sus (sic) respectiva competencia, a través del Sistema Estatal de Protección Integral, así como los sectores privado y social, participarán en la elaboración y ejecución del Programa Estatal, el cual deberá ser acorde con los Planes Federal y Estatal de Desarrollo y con la presente Ley.
-
-###### Artículo 164.
-
-El Programa Estatal contendrá las políticas, objetivos, estrategias y líneas de acción prioritarias en materia de ejercicio, respeto, promoción y protección integral de niñas, niños y adolescentes.
-
-###### Artículo 165.
-
-Los Programas Municipales preverán acciones de mediano y largo alcance, indicarán los objetivos, estrategias y líneas de acción prioritarias, y deberán alinearse al Programa Estatal.
-
-###### Artículo 166.
-
-El Programa Estatal y los Programas Municipales, deberán incluir mecanismos transparentes que permitan su evaluación y seguimiento, así como de participación ciudadana y serán publicados en el Periódico Oficial.
-
-###### Artículo 167.
-
-Los Sistemas Estatal y Municipales de Protección Integral, contarán con órganos consultivos de apoyo, en los que participarán las autoridades competentes y representantes de los sectores social y privado, para la implementación y aplicación de los Programas correspondiente (sic).
-
-## Título Décimo. De las Medidas de Protección a Favor de Niñas, Niños y Adolescentes
-
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 6 DE JULIO DE 2016)</small>
+DE LAS AUTORIDADES.
 
 ### Capítulo I. Generalidades
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
-###### Artículo 168.
+###### ARTICULO 168.
 
-Las medidas de protección, son disposiciones dictadas por autoridad competente, con el objeto de suspender los efectos de acciones u omisiones de autoridades o particulares que vulneren los derechos de niñas, niños o adolescentes, a fin de proteger y garantizar los derechos de éstos.
+Cuando algún acto procesal o el ejercicio de algún derecho no tengan señalado término, éste será de tres días hábiles.
 
-Las medidas de protección, se clasifican de la siguiente manera:
+###### ARTICULO 169.
 
-I. Medidas de Protección de Restitución.
+Para computar los términos, los meses serán de treinta días naturales; los días hábiles se considerarán de veinticuatro horas naturales, contadas de las cero a las veinticuatro horas.
 
-II. Medidas de Protección Especial.
+###### ARTICULO 170.
 
-III. Medidas Urgentes de Protección Especial.
+Los miembros integrantes del tribunal estarán impedidos para conocer de los procesos en que intervengan y deberán excusarse del conocimiento de los mismos, cuando:
 
-Dichas medidas están enfocadas a colocar a niñas, niños y adolescentes en una situación en la que todos sus derechos estén garantizados para que accedan a tantos servicios del Estado, como sea necesario para lograr la restitución de sus derechos.
+I.- Sean parientes consanguíneos hasta el cuarto grado o de afinidad hasta el segundo, del trabajador;
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+II.- Tengan igual parentesco, hasta el segundo grado, con el apoderado legal o abogado de alguna de las partes;
 
-###### Artículo 169.
+III.- Hayan tenido el carácter de denunciantes o querellantes en contra del trabajador;
 
-Son autoridades competentes para ordenar las medidas de protección enunciadas en este título, el Ministerio Público, la autoridad jurisdiccional, la Procuraduría de Protección Estatal y los titulares de las Procuradurías de Protección Municipales.
+IV.- Hayan sido apoderados, peritos o testigos del trabajador en el mismo juicio;
 
-La Procuraduría de Protección Estatal, podrá ordenar o solicitar las medidas de protección de restitución, medidas de protección especial y medidas urgentes de protección especial, en todo el Estado. Las personas que funjan como titulares de las Procuradurías Municipales están obligadas a ordenar o solicitar cualquier tipo de medidas de protección dentro de la demarcación territorial donde ejerzan sus funciones.
+V.- Sean socios, arrendatarios, patronos, dependientes económicos del trabajador o de su apoderado; y
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+VI.- Sean acreedores, deudores, herederos o legatarios del trabajador o de su apoderado.
 
-###### Artículo 170.
+###### ARTICULO 171.
 
-Las autoridades competentes, deberán llevar el registro de las órdenes de medidas de protección solicitadas, decretadas, en trámite y concluidas, e informar a la Procuraduría de Protección Estatal para integrar el Registro Estatal de Órdenes de Protección, en términos del respectivo reglamento.
+Las excusas se calificarán y resolverán por el tribunal en pleno. Cuando la parte interesada conozca que alguno de los miembros del tribunal o el Secretario de Acuerdos se encuentran impedidos para conocer de algún juicio y no se abstengan de hacerlo, podrá ocurrir haciendo por escrito la denuncia y acompañando las pruebas necesarias.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+El procedimiento no será suspendido mientras se tramita la excusa.
 
-###### Artículo 171.
+###### ARTICULO 172.
 
-Las niñas, niños y adolescentes tienen derecho a ser informados sobre el estado y probable curso de su situación legal y social cuando se dicte alguna de las medidas de protección previstas en el presente Título, mediante un lenguaje claro y acorde a su edad y nivel de desarrollo evolutivo, cognoscitivo y madurez.
-
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
-
-###### Artículo 172.
-
-Las medidas de protección concluirán:
-
-I. Cuando hayan cesado los efectos de la situación de riesgo, violencia o vulneración de derechos de las niñas, niños y adolescentes, objeto por el cual se emitieron.
-
-II. Cuando quede sin materia, al extinguirse el motivo que originó su expedición.
-
-III. Hasta en el término de seis meses, una vez agotadas todas las medidas necesarias para la ejecución de la misma.
-
-IV. Cuando previa solicitud, debidamente fundada y motivada, de la Procuraduría de Protección Estatal o las Procuradurías de Protección Municipales, el órgano jurisdiccional competente o el ministerio público, determine el cese de los efectos de la medida de protección.
-
-La autoridad que emitió la medida de protección, en términos del presente artículo, deberá acordar la conclusión de la medida, fundando y motivando su determinación, debiendo notificar por escrito a quien haya solicitado la misma, y en el caso de que se ignore la identidad o el domicilio del peticionario, se notificará a la Procuraduría de Protección Estatal.
-
-Lo anterior sin perjuicio que de existir la necesidad de una nueva medida de protección, podrá solicitarse o dictarse, bajo el interés superior de la infancia.
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+El Presidente y el Secretario de Acuerdos podrán imponer correcciones disciplinarias para que se mantenga el orden en el desarrollo de las audiencias o diligencias y exigir se guarden el respeto y la consideración debidas a todo el personal del Tribunal Estatal de Conciliación y Arbitraje.
 
 ### Capítulo II. De las Medidas de Protección de Restitución
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
-###### Artículo 173.
+###### ARTICULO 173.
 
-Las medidas de protección de restitución son las disposiciones dictadas por las Procuradurías de Protección Estatal o Procuradurías de Protección Municipales, de carácter administrativo, dirigidas a organismos federales, estatales y municipales, públicos, privados y sociales, y particulares, según corresponda, para intervenir en el ámbito de su competencia, al cumplimiento de los planes de restitución de derechos de niñas, niños y adolescentes. Estas medidas no deben afectar a las medidas de protección especial o urgentes de protección especial que se soliciten o emitan, con la finalidad de prevenir o sustraer a la niña, niño o adolescente del riesgo, amenaza o afectación de cualquiera de sus derechos.
+Se pueden imponer indistintamente, las siguientes correcciones disciplinarias:
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+I.- Amonestación;
 
-###### Artículo 174.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-Las medidas de protección de restitución pueden consistir en:
+II.- Multa que no exceda del equivalente a siete veces el valor diario de la unidad de medida y actualización vigente, y
 
-I. La inclusión de la niña, niño o adolescente y su familia en forma conjunta o separada, en programas de asistencia social, de salud y educativos; así como actividades deportivas, culturales, artísticas o cualquier otra actividad recreativa al que puedan incorporarse por sus características.
+III.- Expulsión del recinto del tribunal, mediante el auxilio de la fuerza publica en caso necesario.
 
-II. El exhorto al cumplimento del reconocimiento de quienes ejerzan la patria potestad, tutela o guarda y custodia de la niña, niño o adolescente, a través de una declaratoria por escrito en la que admite su responsabilidad y reconoce el compromiso de respetar sus derechos.
+###### ARTICULO 174.
 
-III. La separación inmediata de la niña, niño o adolescente de la actividad laboral.
-
-IV. Ordenar el registro de nacimiento de niñas, niños y adolescentes, de conformidad con la normatividad aplicable.
-
-V. La reintegración de la niña, niño o adolescente a su núcleo familiar, cuando las personas que acrediten ejercer la patria potestad, tutoría o la guarda y custodia, no tenga limitados sus derechos por resolución de autoridad competente.
-
-VI. Las demás que resulten necesarias para salvaguardar los derechos de las niñas, niños y adolescentes.
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+Si los hechos que impidan la imposición de una corrección disciplinaria pueden constituir algún delito, los funcionarios correspondientes levantarán acta circunstancial y la turnarán al Ministerio Público para los efectos legales conducentes.
 
 ### Capítulo III. De las Medidas de Protección Especiales
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
-###### Artículo 175.
+###### ARTICULO 175.
 
-Las medidas de protección especiales son disposiciones ordenadas para proteger y garantizar los derechos de niñas, niños y adolescentes cuando se detecten actos u omisiones que vulneran sus derechos y que no actualicen hechos considerados como delitos, y es necesario para su eficacia, transgredir derechos de terceros. Estas medidas no deben afectar a las medidas urgentes de protección especial, y pueden consistir en:
+El Presidente y el Secretario de Acuerdos del tribunal, podrán imponer conjunta o indistintamente cualquiera de los medios de apremio, para que las personas de las que se requiera su presencia concurran a las audiencias, o en su caso, para asegurar el cumplimiento de sus determinaciones.
 
-I. La separación temporal de niñas, niños y adolescentes de las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia, cuando por sus acciones u omisiones pongan en riesgo gravemente los derechos de los mismos, siempre y cuando dichas acciones u omisiones no constituyan un delito.
+###### ARTICULO 176.
 
-II. El resguardo temporal de niñas, niños y adolescentes por parte de un integrante de la familia de origen, de la familia extensa, de una familia de acogida o de un centro de asistencia social, en dicho orden de preferencia, que en términos de la fracción anterior, hayan sido separados de las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia.
+Son medios de apremio:
 
-III. La orden de tratamiento psicológico de niñas, niños o adolescentes y de su familia, así como su capacitación en materia de derechos de la infancia, fortalecimiento familiar, derechos humanos y prevención de la violencia familiar.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-IV. La inclusión de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en medidas de rehabilitación y asistencia terapéutica; misma que sólo será decretada por el órgano jurisdiccional competente.
+I.- La multa hasta cincuenta veces el valor diario de la unidad de medida y actualización vigente;
 
-V. Las demás que resulten necesarias para salvaguardar los derechos de las niñas, niños y adolescentes, que no actualicen hechos considerados como delitos, y sea necesario para su eficacia, transgredir derechos de terceros.
+II.- La comparecencia física de las personas por medio de la fuerza pública; y
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+III.- El arresto hasta por treinta y seis horas.
 
-###### Artículo 176.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-La Procuraduría de Protección Estatal o en su caso, las Procuradurías de Protección Municipales, ordenarán las medidas de protección especial, previstas en el artículo anterior, cuando tengan la sospecha fundada de la violación de los derechos de niñas, niños y adolescentes, debiendo hacer del conocimiento del órgano jurisdiccional competente sobre las mismas, en el término de tres días hábiles a partir de haber ejecutado la medida de protección especial correspondiente, para su ratificación, modificación o cancelación.
+###### ARTICULO 177.
 
-La Procuraduría de Protección Estatal, o en su caso, las Procuradurías de Protección Municipales, presentarán ante el órgano jurisdiccional competente, la solicitud de ratificación de la medida, expresando los hechos y argumentos que justifiquen la necesidad de la medida de protección dictada, acompañada con lo siguiente:
+El Presidente del tribunal podrá castigar las infracciones a esta ley, que no tengan señalada otra sanción, con multa de hasta quince veces el valor diario de la unidad de medida y actualización vigente, pero si se trata del trabajador, se estará a lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
-I. Estudio de trabajo social.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
 
-II. Valoración Psicológica.
+###### ARTICULO 178.
 
-III. Demás datos con que se cuenten y acrediten la necesidad de la medida.
-
-La Procuraduría de Protección Estatal, o en su caso, las Procuradurías de Protección Municipales, presentarán ante el órgano jurisdiccional competente, la solicitud de las medidas de protección especial previstas en la fracción IV del artículo 175, expresando los hechos y argumentos que justifiquen la necesidad de dictar la medida de protección especial respectiva, acompañada con los requisitos previstos en el párrafo anterior.
-
-Dentro de los tres días hábiles siguientes a partir de la recepción de la solicitud de medidas de protección especial o de la solicitud de la ratificación de la medida de protección especial dictada por la Procuraduría de Protección Estatal o las Procuradurías de Protección Municipales, el órgano jurisdiccional competente deberá emitir la medida de protección especial que corresponda, o en su caso, ratificar, modificar o cancelar las medidas de protección especial vigentes.
-
-En caso de que la autoridad jurisdiccional determine cancelar la medida de protección especial, la Procuraduría de Protección Estatal o las Procuradurías de Protección Municipales, dejarán sin efecto la medida una vez que le sea notificada la determinación, y realizarán las acciones que correspondan para que las cosas vuelvan al estado en que se encontraban antes de la aplicación de la medida de protección especial.
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
-
-###### Artículo 177.
-
-Las medidas de protección especial pueden ser solicitadas por escrito, en forma verbal o por cualquier otro medio de comunicación que sea eficaz, a la Procuraduría de Protección Estatal o las Procuradurías de Protección Municipales, según sea el caso, por:
-
-I. La niña, niño o adolescente que sufra de alguna afectación a sus derechos.
-
-II. Cualquier persona, institución pública o privada que tenga conocimiento de una situación de riesgo, amenaza o afectación de derechos de niñas, niños o adolescentes.
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
-
-###### Artículo 178.
-
-La solicitud de medidas de protección especial, deberán cumplir con los requisitos siguientes:
-
-I. Datos de identificación de la niña, niño o adolescente.
-
-II. Descripción que conforman la vulneración de la niña, niño o adolescente.
-
-III. Lugar donde ocurren los hechos de vulneración.
-
-La Procuraduría de Protección Estatal o las Procuradurías de Protección Municipales, según sea el caso, una vez recibida la solicitud de la medida especial de protección, en términos del artículo anterior, deberán realizar la (sic) acciones tendentes para detectar la posible vulneración de los derechos de la niña, niño o adolescente, y cuando corresponda, emitirá o solicitará la medida de protección especial, en un plazo no mayor a quince días hábiles a partir de recibida la solicitud.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2016)</small>
+Para hacer efectivas las multas deberá girarse oficio al titular de la Secretaría de Finanzas del Estado. Cumplimentada la multa, la oficina recaudadora rendirá informe al tribunal con los datos correspondientes que acrediten su recepción.
 
 ### Capítulo IV. De las Medidas Urgentes de Protección Especial
 
 > <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
 
-###### Artículo 179.
+###### ARTICULO 179.
 
-Las medidas urgentes de protección especial son disposiciones que el Ministerio Público, ordenará de oficio o a petición de parte, para proteger, garantizar y resguardar los derechos de niñas, niños y adolescentes cuando exista riesgo inminente contra la vida, la libertad, integridad de éstos o circunstancias de hecho que puedan constituir delitos de conformidad con las leyes penales.
+Tanto las sanciones pecuniarias como las medidas de apremio previstas en este capítulo, se impondrán de plano y podrán ser impugnadas en los términos que establece esta ley.
 
-Las medidas urgentes de protección especial que la autoridad determine, serán vinculantes para todas las autoridades estatales y municipales, y deberán darle cumplimiento inmediatamente después de recibir la orden respectiva, en el ámbito de su competencia.
+## TITULO DECIMO TERCERO.
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+DE LOS PROCEDIMIENTOS ESPECIALES.
 
-###### Artículo 180.
+###### ARTICULO 180.
 
-Las medidas urgentes de protección especial pueden ser solicitadas por escrito, en forma verbal o por cualquier otro medio de comunicación que sea eficaz por:
+Las disposiciones de este capítulo rigen la tramitación de los conflictos que se susciten en los siguientes casos:
 
-I. La niña, niño o adolescente que sufra de alguna afectación a sus derechos.
+I.- La aplicación de disposiciones que establezcan una jornada inhumana por lo notoriamente excesiva;
 
-II. La Procuraduría de Protección Estatal, o las Procuradurías de Protección Municipales.
+II.- Las acciones individuales o colectivas que deriven de la obligación de capacitación y adiestramiento;
 
-III. Cualquier persona, institución pública o privada que tenga conocimiento de una situación de riesgo, amenaza o afectación de la vida, la libertad, integridad de niñas, niños o adolescentes.
+III.- La determinación de la antigüedad del trabajador e inconformidad contra la misma;
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+IV.- Las omisiones en el reglamento interior del trabajo o revisión de las disposiciones que se estimen contrarias a la ley o normas de trabajo;
 
-###### Artículo 181.
+V.- La suspensión temporal de las relaciones de trabajo por fuerza mayor o caso fortuito;
 
-Cuando se solicite la imposición de medidas urgentes de protección especial, se deberá manifestar los hechos y argumentos que justifiquen las mismas. Son medidas urgentes de protección especial, en relación con niñas, niños y adolescentes, además de las establecidas en el Código Nacional de Procedimientos Penales, las siguientes:
+VI.- La terminación colectiva de las relaciones de trabajo por causas de fuerza mayor o caso fortuito, no imputables a las instituciones públicas;
 
-I. El acogimiento residencial de la niña, niño o adolescente afectado, cuando se encuentre en peligro su vida, integridad o libertad, como último recurso una vez agotada la posibilidad del acogimiento por parte de la familia extensa o ampliada.
+VII.- La terminación colectiva de las relaciones de trabajo derivada de la implantación de tecnología o procedimientos de trabajo nuevos que tengan como consecuencia la reducción de personal, así como para determinar las indemnizaciones a los reajustados; y
 
-II. La separación inmediata de la persona que maltrate a un niño, niña o adolescente del entorno de éstos.
+VIII.- Por el pago de indemnización en los casos de muerte por riesgo de trabajo.
 
-III. Prohibición de acercarse o comunicarse con la niña, niño o adolescente, hasta por 60 días naturales, pudiéndose prorrogar por el término de 30 días o hasta que cese el riesgo, de conformidad con el interés superior de la niña, niño o adolescente.
+###### ARTICULO 181.
 
-IV. La orden de tratamiento médico, psicológico o psiquiátrico de la niña, niño o adolescente o de su madre, padre, representante o responsable, en especial los servicios de salud de emergencia previstos en los artículos 29 y 30 de la Ley General de Víctimas.
+Se tramitarán a petición de parte y ante el Tribunal Estatal de Conciliación y Arbitraje los conflictos individuales y colectivos, mediante el procedimiento que se establece en este capítulo.
 
-V. Las demás que resulten necesarias para salvaguardar los derechos de las niñas, niños y adolescentes cuando exista riesgo inminente contra la vida, la libertad, integridad de éstos o circunstancias de hecho que puedan constituir delitos de conformidad con las leyes penales.
+###### ARTICULO 182.
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+Recibida la demanda con sus anexos, se correrá traslado de ella a la contraparte para que, en un término de diez días hábiles, produzca su contestación.
 
-###### Artículo 182.
+###### ARTICULO 183.
 
-La Procuraduría de Protección Estatal y los titulares de las Procuradurías de Protección Municipales, podrán ordenar mediante determinación administrativa, fundando y motivando, las medidas urgentes de protección especial que deberán cumplirse de inmediato con auxilio de las instituciones de seguridad pública competente, cuando no exista Ministerio Público o cuando se encuentre ausente del territorio de su adscripción, dando aviso de inmediato al ministerio público más cercano.
+Transcurrido el término previsto en el artículo anterior con la contestación de la demanda o sin ella, se citará a las partes a una audiencia de conciliación, en donde la comparecencia de las partes será obligatoria. Si no concurre la parte actora, se dará por concluido el conflicto, ordenándose el archivo del expediente; si no concurre la parte demandada se le tendrá por contestando la demanda en sentido afirmativo.
 
-El Ministerio Público, y en su caso la Procuraduría de Protección Estatal o las Procuradurías de Protección Municipales, deberán decretar las medidas urgentes de protección especial a más tardar dentro de las tres horas siguientes a partir de la recepción de la solicitud. Una vez impuesta la medida urgente de protección, dentro del término de doce horas, el Ministerio Público, y en su caso la Procuraduría de Protección Estatal o las Procuradurías de Protección Municipales, darán aviso al órgano jurisdiccional competente quien en el término de veinticuatro horas siguientes a la imposición de la medida urgente de protección, deberá pronunciarse sobre la ratificación, modificación o cancelación de la medida que se encuentre vigente.
+## TITULO DECIMO PRIMERO.
 
-En caso de incumplimiento de las medidas urgentes de protección especial, la Procuraduría de Protección Estatal o las Procuradurías de Protección Municipales podrán solicitar la imposición de las medidas de apremio correspondientes a la autoridad competente.
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
-
-###### Artículo 183.
-
-En caso de que la autoridad jurisdiccional determine cancelar la medida urgente de protección especial decretada por el Ministerio Público, y en su caso por la Procuraduría de Protección Estatal o las Procuradurías de Protección Municipales, éste la dejará sin efecto una vez que le sea notificada la determinación y ordenará a la autoridad encargada de ejecutarla que las cosas vuelvan al estado en que se encontraban antes de la aplicación de la medida.
-
-En los demás casos, se estará a lo que determine la autoridad jurisdiccional en la resolución respectiva.
-
-## Título Décimo Primero. De las Infracciones Administrativas
+DE LAS PRESCRIPCIONES.
 
 ### Capítulo Único. De las Infracciones y Sanciones Administrativas
 
 > <small>(ADICIONADO [N. DE E. REUBICADO -ANTES ARTÍCULO 170-], P.O. 6 DE JULIO DE 2016)</small>
 
-###### Artículo 184.
+###### ARTICULO 184.
 
-Los servidores públicos, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas que, en el ejercicio de sus funciones o actividades o con motivo de ellas, indebidamente impidan el ejercicio de algún derecho o nieguen la prestación del servicio al que están obligados, a las niñas, niños o adolescentes, serán sujetos a las sanciones administrativas y demás que resulten aplicables, en términos de las disposiciones correspondientes.
+La audiencia de conciliación tendrá por objeto procurar la avenencia entre los interesados. Logrado el convenio, una vez aprobado y sancionado por el tribunal, se tendrá por concluido el procedimiento. De no existir conciliación, se recibirán las pruebas que aporten las partes. En la misma audiencia se oirán los alegatos y se dictará la resolución correspondiente.
 
-No se considerarán como negación al ejercicio de un derecho, las molestias que sean consecuencia de sanciones legales, que sean inherentes o incidentales a éstas o derivadas de un acto legítimo de autoridad.
+## TITULO DECIMO CUARTO.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO -ANTES ARTÍCULO 171-], P.O. 6 DE JULIO DE 2016)</small>
+DE LOS PROCEDIMIENTOS PARAPROCESALES O VOLUNTARIOS.
 
-###### Artículo 185.
+###### ARTICULO 185.
 
-Se consideran infracciones a la presente Ley:
+Se tramitarán conforme a lo dispuesto en este capítulo, los asuntos que por mandato de ley, por su naturaleza o a petición de parte interesada, requieran la intervención del tribunal, sin que esté promovido juicio o conflicto alguno entre las partes.
 
-I. Respecto de servidores públicos, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas, así como centros de asistencia social o de cualquier otra índole de jurisdicción estatal o municipal, cuando en el ejercicio de sus funciones o actividades o con motivo de ellas conozcan de la violación de algún derecho de las niñas, niños o adolescente (sic), e indebidamente se abstengan de hacerlo del conocimiento de la autoridad competente en contravención a lo dispuesto por esta Ley y demás ordenamientos aplicables.
+###### ARTICULO 186.
 
-II. Respecto de servidores públicos, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas, así como centros de asistencia social o de cualquier otra índole de jurisdicción estatal o municipal, cuando propicien, toleren o se abstengan de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato o perjuicio de que tengan conocimiento, en contra de niñas, niños y adolescentes.
+En los procedimientos paraprocesales, las entidades públicas, sindicatos o parte interesada podrán concurrir al tribunal, solicitando por escrito la intervención del mismo y señalando expresamente a la persona cuya declaración se requerirá, la cosa que debe exhibirse o la diligencia que se pide se lleve a cabo. El tribunal acordará dentro de las veinticuatro horas siguientes sobre la solicitud y, en su caso, señalará día y hora para llevar a cabo la diligencia y ordenará la presentación de las personas cuya declaración se pretende.
 
-III. Respecto de profesionales en trabajo social o psicología que intervengan en procedimientos de adopción que no cuenten con la autorización del Sistema DIF-Chiapas a que se refiere el artículo 143 de esta Ley.
+###### ARTICULO 187.
 
-IV. Las demás contravenciones a lo dispuesto en la presente Ley.
+Cuando tenga que otorgarse depósito o fianza, por mandato de la ley o por disposición de alguna autoridad o por acuerdo entre las partes, podrá el interesado concurrir ante el Presidente del tribunal, el cual la recibirá y en su caso, lo notificará a la parte interesada. Cuando se trate de la cancelación de una fianza o de la devolución de un depósito, también podrá tramitarse ante el Presidente del tribunal, quien acordará de inmediato con citación del beneficiario y previa comprobación de que cumplió las obligaciones que garantizan la fianza o el depósito, autorizará su cancelación y devolución.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO -ANTES ARTÍCULO 172-], P.O. 6 DE JULIO DE 2016)</small>
+###### ARTICULO 188.
 
-###### Artículo 186.
+Cuando las instituciones públicas de gobierno y los trabajadores lleguen a un acuerdo o liquidación fuera de juicio, podrán ocurrir ante el Tribunal Estatal de Conciliación y Arbitraje, solicitando su aprobación y ratificación, a fin de que se le otorguen efectos jurídicos mediante laudo.
 
-A quienes incurran en las infracciones previstas en las fracciones I, II y III del artículo anterior, se sancionará con:
+###### ARTICULO 189.
 
-I. Apercibimiento.
+Si como consecuencia de un convenio o liquidación o por mandato de un laudo ejecutorio el trabajador o sus beneficiarios deben recibir alguna cantidad de dinero, éstos deberán ocurrir personalmente o mediante representante legal al tribunal, debiendo identificarse satisfactoriamente.
 
-II. Amonestación por escrito.
+## TITULO DECIMO QUINTO.
 
-III. Multa de hasta mil quinientos días de salario mínimo general, al momento de realizarse la conducta sancionada.
+DE LOS INCIDENTES.
 
-IV. Arresto Administrativo hasta por treinta y seis horas.
+###### ARTICULO 190.
 
-V. Suspensión del empleo hasta por quince días, sólo para el caso de ser servidor público.
+Los incidentes se tramitarán dentro del expediente principal donde se promueva.
 
-VI. Separación definitiva del cargo.
+###### ARTICULO 191.
 
-Sin perjuicio de las sanciones que procedan, en caso de que el infractor sea servidor público, se podrá denunciar ante el superior jerárquico, para que inicie el procedimiento en materia de responsabilidades de servidores públicos en los términos de la legislación aplicable.
+Se tramitarán como incidentes las siguientes cuestiones:
 
-En casos de reincidencia, la multa podrá aplicarse hasta por el doble de lo previsto en este artículo. Se considerará reincidente al que:
+I.- La competencia;
 
-a) Habiendo incurrido en una infracción que haya sido sancionada, realice otra violación del mismo precepto de esta Ley.
+II.- La personalidad;
 
-b) Al inicio del segundo o ulterior procedimiento exista resolución previa que haya causado estado.
+III.- La nulidad; y
 
-c) Que entre el inicio del procedimiento y la resolución que haya causado estado no hayan transcurrido más de diez años.
+IV.- La acumulación.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO -ANTES ARTÍCULO 173-], P.O. 6 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
 
-###### Artículo 187.
+###### ARTICULO 192.
 
-Para la determinación de la sanción, las autoridades competentes deberán considerar:
+Cuando se promueva algún incidente durante la celebración de una audiencia o diligencia, se substanciará y resolverá de plano oyendo a las partes, y se continuará el procedimiento de inmediato.
 
-I. La gravedad de la infracción.
+Tratándose de nulidad, competencia y, en los casos de acumulación, se dará vista de la cuestión incidental a las demás partes por un término de tres días, a efecto de que en el mismo ofrezcan pruebas y formulen sus alegatos. Una vez transcurrido ese término el Tribunal contará con tres días hábiles para resolver la cuestión incidental.
 
-II. El carácter intencional o no de la acción u omisión constitutiva de la infracción.
+El Tribunal Estatal de Conciliación y Arbitraje podrá desechar de plano los incidentes notoriamente improcedentes, sustentando las causas de tal determinación.
 
-III. Los daños que se hubieren producido o puedan producirse.
+###### ARTICULO 193.
 
-IV. La condición económica del infractor.
+Los incidentes que se susciten con motivo de la personalidad de las partes o de sus apoderados en materia de competencia, por nulidad de actuaciones o por cualquier otro motivo, serán resueltos de plano, teniendo en cuenta las pruebas que se aporten al promoverse la cuestión incidental.
 
-V. La reincidencia del infractor.
+Los incidentes de falta de personalidad y de competencia, deberán interponerse dentro de los tres días siguientes al en que concluya la etapa conciliatoria y el de nulidad de actuaciones se promoverá hasta antes de que se dicte el laudo correspondiente.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO -ANTES ARTÍCULO 174-], P.O. 6 DE JULIO DE 2016)</small>
+###### ARTICULO 194.
 
-###### Artículo 188.
+Todas las cuestiones incidentales serán materia de resolución por parte del pleno del tribunal y será indispensable la asistencia del Presidente.
 
-Las sanciones previstas en esta Ley se aplicarán por las siguientes autoridades:
+###### ARTICULO 195.
 
-I. La dependencia o entidad de la Administración Pública Estatal o Municipal que resulte competente, en los casos de las fracciones I y II del artículo 185 de esta Ley.
+En los procedimientos que se encuentren en trámite ante el Tribunal Estatal de Conciliación y Arbitraje, procede la acumulación, de oficio o a instancia de parte, en los siguientes supuestos:
 
-II. Tratándose de servidores públicos, así como empleados o trabajadores de establecimientos sujetos al control, administración o coordinación, del Poder Judicial del Estado; el Honorable Congreso del Estado; órganos con autonomía constitucional, o del Tribunal Superior de Justicia del Estado, las sanciones serán impuestas por los órganos que establezcan sus respectivos ordenamientos legales.
+I.- Cuando se trate de procedimientos promovidos por el mismo actor en contra del mismo demandado, en las que se reclamen las mismas prestaciones;
 
-III. El Sistema DIF- Chiapas, en los casos de la fracción III del artículo 185 de esta Ley.
+II.- Cuando sean las mismas partes, aunque las prestaciones sean distintas, pero derivadas de una misma relación de trabajo;
 
-> <small>(ADICIONADO [N. DE E. REUBICADO -ANTES ARTÍCULO 175-], P.O. 6 DE JULIO DE 2016)</small>
+III.- Cuando se trate de procedimientos promovidos por diversos actores contra el mismo demandado, si el conflicto tuvo su origen en el mismo hecho derivado de la relación de trabajo; y
 
-###### Artículo 189.
+IV.- En todos aquellos casos, que por su propia naturaleza las prestaciones reclamadas o los hechos que las motivaron, puedan originar resoluciones contradictorias.
 
-Contra las sanciones que las autoridades estatales o municipales impongan en cumplimiento de esta Ley, se podrá interponer el recurso de revisión previsto en la Ley de Procedimientos Administrativos para el Estado de Chiapas.
+###### ARTICULO 196.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO -ANTES ARTÍCULO 176-], P.O. 6 DE JULIO DE 2016)</small>
+Si se declara procedente la acumulación, el procedimiento o procedimientos más recientes se acumularán al más antiguo.
 
-###### Artículo 190.
+## TITULO DECIMO SEXTO.
 
-Para los efectos de este Título, a falta de disposición expresa y en lo que no contravenga a esta Ley, se aplicará supletoriamente la Ley de Procedimientos Administrativos para el Estado de Chiapas.
+DE LA CADUCIDAD.
 
-T r a n s i t o r i o s
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0196.- SE REFORMA EL ARTÍCULO 19, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
-Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Artículo Segundo.- Todas las modificaciones a las disposiciones normativas, derivadas de lo establecido en la presente Ley, deberán ser expedidas, en un término no mayor a 90 días hábiles, siguientes a la entrada en vigor del presente Decreto.
+SEGUNDO. Las instituciones públicas de Gobierno del Estado, deberán expedir en un término máximo de ciento veinte días, contados a partir de la vigencia del presente Decreto, el Reglamento de Capacitación y Adiestramiento para sus trabajadores.
 
-Artículo Tercero.- Se deroga con el presente Decreto, lo relativo al Libro Segundo denominado "De la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado", que comprende de los artículos 61 al 123, todos del Código de Atención a la Familia y Grupos Vulnerables para el Estado Libre y Soberano de Chiapas.
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
-Artículo Cuarto.- Los Sistemas de Protección Integral Estatal y Municipales, deberán integrarse a más tardar dentro de los noventa días hábiles, siguientes a la entrada en vigor del presente Decreto.
+P.O. 14 DE ABRIL DE 2016.
 
-El Presidente de los Sistemas de Protección Integral Estatal y Municipales, realizarán las acciones necesarias para la elaboración de sus Programa (sic), los cuales deberá (sic) aprobarse dentro de los treinta días hábiles siguientes a la instalación de dichos Sistemas.
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0197.- SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO 45, DE LA LEY DE LOS TRABAJADORES AL SERVICIOS DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
 
-Artículo Quinto.- Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo del Estado en un plazo no mayor a los ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Artículo Sexto.- El Titular de la Secretaría Ejecutiva del Sistema Estatal de Protección Integral, una vez instalado el mismo, dentro de los siguientes treinta días naturales, deberá presentar a consideración y en su caso aprobación de los integrantes de dicho Sistema, el proyecto de lineamientos a que se refiere el artículo 156 de la presente Ley.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-Artículo Séptimo.- Los Centros de Asistencia que se encuentren operando con antelación a la entrada en vigor del presente Decreto, contarán con un plazo de 180 días naturales, a partir de la publicación del presente Decreto, para realizar las adecuaciones conducentes a su reglamentación, en términos de lo previsto en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Chiapas.
+P.O. 28 DE ABRIL DE 2016.
 
-Artículo Octavo.- El Ejecutivo Estatal, a través de la Secretaría de Hacienda, preverá una partida presupuestal, para coadyuvar en el cumplimiento de la presente Ley.
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0201.- REFORMAS AL ARTÍCULO 107 EN SUS FRACCIONES, II, V, Y VI, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO”.]
 
-Artículo Noveno.- La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, del Estado, deberá constituirse en un término no mayor a 90 días hábiles, siguientes a la entrada en vigor del presente Decreto.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Para efectos del párrafo anterior, el Sistema DIF - Chiapas, deberá reformar la normatividad correspondiente, a fin de que se formalice la creación de dicha Procuraduría.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-Artículo Décimo.- Los Municipios del Estado, deberán asignar las partidas presupuestales que correspondan, para hacer lo concurrente a lo mandatado en esta Ley, para tales efectos se deberán realizar las modificaciones legales correspondientes a su legislación fiscal.
+P.O. 15 DE JUNIO DE 2017.
 
-Así mismo, deberán prever dentro de su presupuesto, la creación de las Procuradurías Municipales de Protección de los Derechos de las Niñas, Niños, Adolescentes y la Familia, las cuales deberán contar con al menos, un procurador, un psicólogo y un trabajador social.
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0659.- REFORMA AL ARTÍCULO 125 EN SU FRACCIÓN V, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO”.]
 
-Artículo Décimo Primero.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
-El Ejecutivo del Estado, dispondrá se publique, circule y se le dé el debido cumplimiento.
+SEGUNDO. Los juicios iniciados con las disposiciones anteriores a la vigencia del presente Decreto, deberán concluirse de conformidad con ellas.
 
-Dado en el Salón de Sesiones del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los 02 días del mes de junio del año dos mil quince.- D.P.C. Jorge Enrrique Hernández Bielma.- D.S.C. José Guillermo Toledo Moguel.- Rúbricas.
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
-De conformidad con la fracción I del artículo 44 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los 02 días del mes de junio del año dos mil quince.
+P.O. 26 DE JULIO DE 2018.
 
-Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1026.- SE REFORMA EL ARTÍCULO 63 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
-P.O. 6 DE JULIO DE 2016.
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 235 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS".]
+P.O. 2 DE OCTUBRE DE 2018.
 
-Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1211.- SE REFORMAN LAS LEYES DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ; HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ; ASOCIACIONES PÚBLICO PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ; BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSÍ; LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ; OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ; RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ; DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ Y DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ, A EFECTO DE ELIMINAR LAS REFERENCIAS AL SALAMIO (SIC) MÍNIMO Y SUSTITUIRLAS POR LAS RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
 
-Artículo Segundo.- Todas las modificaciones a las disposiciones reglamentarias derivadas de lo establecido en el presente Decreto, deberán ser expedidas, en un término no mayor a 90 días hábiles, siguientes a la entrada en vigor del presente Decreto.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
-Artículo Tercero.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
 
-P.O. 1 DE FEBRERO DE 2017.
+P.O. 22 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 134 POR EL QUE SE REFORMA Y ADICIONA (SIC) DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0184.- SE REFORMAN LOS ARTÍCULOS 123, 124, 125, 126, 127, Y 128; Y SE DEROGA EL ARTÍCULO 129 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO".]
 
-Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
-Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0188.- SE ADICIONA PÁRRAFO AL ARTÍCULO 118, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Los juicios iniciados con las disposiciones anteriores a esta adición, deberán concluirse de conformidad con ellas.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0191.- SE ADICIONA AL ARTÍCULO 21, PÁRRAFO SEGUNDO, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0207.- SE REFORMA EL ARTÍCULO 56, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PIMERO (SIC). Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis."
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0312.- SE DEROGA DEL ARTÍCULO 105 LA FRACCIÓN III, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0445.- SE REFORMA EL ARTÍCULO 120 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0446.- SE REFORMAN LOS ARTÍCULOS 152 Y 154 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0621.- SE REFORMA EL ARTÍCULO 105 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis."
+
+SEGUNDO. Se derogan todas disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0634.- SE REFORMA EL ARTÍCULO 157; Y ADICIONA AL ARTÍCULO 141 CUATRO PÁRRAFOS, ÉSTOS COMO, CUARTO, QUINTO, SEXTO, Y SÉPTIMO, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LA INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0646.- SE REFORMA (SIC) LOS ARTÍCULOS 120 EN SU PÁRRAFO PRIMERO, 123 EN SU FRACCIÓN VII Y 124 EN SU FRACCIÓN III, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis.”
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La audiencia trifásica en el Procedimiento Laboral Burocrático Local que se establece mediante este Decreto, se aplicará en los asuntos que se presenten a partir de la entrada en vigencia del mismo, los iniciados con anteriores esquemas procedimentales seguirán desahogando con ellos.
+
+P.O. 26 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0653.- SE REFORMA (SIC) LOS ARTÍCULOS 36 EN SU PÁRRAFO SEGUNDO Y 36 BIS, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0736.- SE DEROGA DEL ARTÍCULO 105 LA FRACCIÓN II, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis.”
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0828- SE REFORMA (SIC) LOS ARTÍCULOS 1°, 5°, 48 Y 102, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0829 - SE ADICIONA AL ARTÍCULO 4° EL PÁRRAFO SEGUNDO Y EL ARTÍCULO 129, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1136.- SE ADICIONA AL ARTÍCULO 54 LOS PÁRRAFOS SEGUNDO Y TERCERO, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se deroga todo lo que se oponga al presente Decreto.
+
+P.O. 6 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1145.- SE REFORMA (SIC) LOS ARTÍCULOS 55 EN SU FRACCIÓN VI Y 62 EN SU FRACCIÓN II; Y ADICIONA A Y (SIC) LOS ARTÍCULOS 5° BIS Y 51 LA FRACCIÓN XI BIS, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Se establece un plazo de noventa días naturales a partir de la entrada en vigencia de este Decreto, para que las instituciones públicas del Estado tengan vigente un protocolo de prevención del hostigamiento y acoso sexual, en los términos previstos por la fracción XI Bis que se adiciona al artículo 51 de la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí.
+
+P.O. 22 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1160.- SE ADICIONA EL ARTÍCULO 35 BIS, A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1164.- SE ADICIONA PÁRRAFO AL ARTÍCULO 35, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1180.- SE REFORMA EL ARTÍCULO 51 EN SU FRACCIÓN XIV; Y ADICIONA AL MISMO ARTÍCULO 51 UNA FRACCIÓN, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Las instituciones públicas de gobierno que señala el artículo 5° de Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí, tendrán ciento ochenta días a partir de la entrada en vigor de este Decreto, para realizar la primera capacitación que refiere este Decreto en materia de protección civil.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1181.- SE REFORMA EL ARTÍCULO 154, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1197.- SE REFORMA EL ARTÍCULO 105 EN SU FRACCIÓN IV; Y DEROGA DEL MISMO ARTÍCULO 105 LOS PÁRRAFOS, PENÚLTIMO Y ÚLTIMO, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1206.- SE ADICIONA AL ARTÍCULO 36 EL PÁRRAFO CUARTO, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0141.- SE REFORMA EL ARTÍCULO 162 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0361.- SE REFORMA EL ARTÍCULO 55 EN SU FRACCIÓN II, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0365.- SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 119, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 14 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0715.- SE REFORMA EL ARTÍCULO 5° BIS EN SUS FRACCIONES I Y II; Y ADICIONA AL MISMO ARTÍCULO 5° BIS, LAS FRACCIONES III Y IV, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0747.- SE REFORMA LA FRACCIÓN III, DEL ARTÍCULO 61; Y ADICIONA PÁRRAFO ÚLTIMO, AL ARTÍCULO 61, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0765.- SE REFORMA EL ARTÍCULO 2° EN SU PÁRRAFO SEGUNDO, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 1° Y 8° EN SU FRACCIÓN XXXVII, SU PÁRRAFO PRIMERO, DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE SEPTIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0826.- SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 2°, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0138.- SE ADICIONA EL ARTÍCULO 35 BIS, A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
