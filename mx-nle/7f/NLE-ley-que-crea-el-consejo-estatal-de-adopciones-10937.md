@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-consejo-estatal-de-adopciones-10937"
 country: "mx"
 rank: "ley"
 publication_date: "1996-02-09"
-last_updated: "2011-07-05"
+last_updated: "2017-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10937&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY QUE CREA EL CONSEJO ESTATAL DE ADOPCIONES
 
-LEY QUE CREA EL CONSEJO ESTATAL DE ADOPCIONES
+LEY QUE CREA EL CONSEJO ESTATAL DE ADOPCIONES DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 9 de febrero de 1996.
 
@@ -53,7 +53,9 @@ I.- Unificar todos los programas de adopción que se apliquen en el Estado, con 
 
 II.- Emitir opinión respecto de las adopciones que se tramiten en la entidad en los casos previstos por la fracción VIII del artículo 390 del Código Civil para el Estado de Nuevo León;
 
-III.- (DEROGADA, P.O. 5 DE JULIO DE 2011)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ABRIL DE 2017)</small>
+
+III.- Dar seguimiento por un periodo no menor de dos años a cada menor entregado en adopción en el Estado, así como en el supuesto de que las instituciones públicas de otras Entidades lo soliciten. Presentando un informe semestral al Presidente del Tribunal Superior de Justicia del Estado del seguimiento efectuado.
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
 
@@ -69,9 +71,9 @@ VI.- Difundir los objetivos del Consejo Estatal de Adopciones;
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
 
-VlI.- Llevar un registro de sus miembros:
+VII.- Llevar un registro de sus miembros:
 
-VlII.- (DEROGADA, P.O. 5 DE JULIO DE 2011)
+VIII.- (DEROGADA, P.O. 5 DE JULIO DE 2011)
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
 
@@ -225,7 +227,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 HECTOR S. MALDONADO PEREZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 22 DE ENERO DE 1997.
 
@@ -280,3 +282,9 @@ Cuarto.- La Procuraduría emitirá una convocatoria dentro de los 15-quince día
 Quinto.- El Titular del Ejecutivo deberá emitir el Reglamento de la Ley que Regula el Funcionamiento de las Instituciones que tienen bajo su Guarda y Custodia a Niñas, Niños y Adolescentes en el Estado de Nuevo León, en un plazo que no podrá exceder de 90-noventa días hábiles contados a partir del día siguiente a la entrada en vigor del presente Decreto.
 
 Sexto.- Se derogan las disposiciones contenidas en las Leyes, reglamentos y demás ordenamientos que se opongan al presente Decreto.
+
+P.O. 26 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 248. SE REFORMA LA FRACCIÓN III AL ARTÍCULO 20 DE LA LEY QUE CREA EL CONSEJO ESTATAL PARA ADOPCIONES".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
