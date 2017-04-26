@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-tecnicos-generales-para-la-publicacion-114411"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2016-05-04"
-last_updated: "2016-11-10"
+last_updated: "2017-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-04-13"
 
 LINEAMIENTOS TÉCNICOS GENERALES PARA LA PUBLICACIÓN, HOMOLOGACIÓN Y ESTANDARIZACIÓN DE LA INFORMACIÓN DE LAS OBLIGACIONES ESTABLECIDAS EN EL TÍTULO QUINTO Y EN LA FRACCIÓN IV DEL ARTÍCULO 31 DE LA LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, QUE DEBEN DE DIFUNDIR LOS SUJETOS OBLIGADOS EN LOS PORTALES DE INTERNET Y EN LA PLATAFORMA NACIONAL DE TRANSPARENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ABRIL DE 2017.
 
 Lineamientos publicados en la Séptima, Octava, Novena y Décima Sección del Diario Oficial de la Federación, el miércoles 4 de mayo de 2016.
 
@@ -396,3 +396,25 @@ ANEXO ÚNICO
 Anexo del presente Acuerdo, mediante el cual se realizan modificaciones a los Anexos de los Lineamientos Técnicos Generales para la publicación, homologación y estandarización de la información de las obligaciones establecidas en el Título Quinto y en la fracción IV del artículo 31 de la Ley General de Transparencia y Acceso a la Información Pública, que deben de difundir los sujetos obligados en los portales de Internet y en la Plataforma Nacional de Transparencia, para quedar como siguen:
 
 > <small>[N. DE E. VÉASE REFORMAS A LOS ANEXOS I, II, V, VIII Y IX EN EL D.O.F. DE 10 DE NOVIEMBRE DE 2016, PAGINAS DE LA 100 A LA 108.]</small>
+
+D.O.F. 26 DE ABRIL DE 2017.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ACUERDO MEDIANTE EL CUAL SE REFORMA EL ANEXO V DE LOS LINEAMIENTOS TÉCNICOS GENERALES PARA LA PUBLICACIÓN, HOMOLOGACIÓN Y ESTANDARIZACIÓN DE LA INFORMACIÓN DE LAS OBLIGACIONES ESTABLECIDAS EN EL TÍTULO QUINTO Y EN LA FRACCIÓN IV DEL ARTÍCULO 31 DE LA LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, QUE DEBEN DE DIFUNDIR LOS SUJETOS OBLIGADOS EN LOS PORTALES DE INTERNET Y EN LA PLATAFORMA NACIONAL DE TRANSPARENCIA, CORRESPONDIENTE AL ARTÍCULO 74, FRACCIÓN I, INCISOS D, F, J, M Y N, DE LA LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, RELACIONADOS CON LAS OBLIGACIONES DE TRANSPARENCIA ESPECÍFICAS APLICABLES AL INSTITUTO NACIONAL ELECTORAL Y A LOS ORGANISMOS PÚBLICOS ELECTORALES DE LAS ENTIDADES FEDERATIVAS.]</small>
+
+PRIMERO. Se aprueban las modificaciones al Anexo V de los Lineamientos Técnicos Generales para la Publicación, Homologación y Estandarización de la Información de las Obligaciones Establecidas en el Título Quinto y en la fracción IV del artículo 31 de la Ley General de Transparencia y Acceso a la Información Pública, que deben de difundir los Sujetos Obligados en los Portales de Internet y en la Plataforma Nacional de Transparencia, relativo al artículo 74, fracción I, incisos d, f, j, m y n; de la Ley General de Transparencia y Acceso a la Información Pública, que corresponden a las obligaciones de transparencia aplicables al Instituto Nacional Electoral y a los organismos públicos electorales de las Entidades Federativas.
+
+Las modificaciones propuestas al Anexo V de los Lineamientos Técnicos Generales, forman parte integral de este Acuerdo como Anexo al presente.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+CUARTO. Publíquese el presente Acuerdo y su Anexo, a través en la página electrónica del Sistema Nacional de Transparencia y en forma adicional, envíese a las direcciones de correo electrónico institucional de los integrantes del Sistema Nacional a través de la dirección de correo del Secretario Ejecutivo (federico.guzman@inai.org.mx).
+
+QUINTO. Se instruye al Secretario Ejecutivo a ejecutar el presente Acuerdo en sus términos.
+
+Así lo acordó el Pleno del Consejo Nacional del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales por unanimidad, en su primera sesión extraordinaria de 2017, celebrada el 4 abril de 2017, en la Ciudad de México, lo que se certifica y se hace constar, con fundamento en el artículo 12 fracción XII y 13 fracciones VII y VIII del Reglamento del Consejo Nacional del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
+
+La Presidenta del Consejo Nacional del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, Ximena Puente de la Mora.- Rúbrica.- El Secretario Ejecutivo del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, Federico Guzmán Tamayo.- Rúbrica.
+
+El presente acuerdo y su anexo pueden ser consultados en la dirección electrónica siguiente: http://snt.org.mx/images/Doctos/CONAIP_SNT_ACUERDO_EXT04_04_2017_03.pdf
