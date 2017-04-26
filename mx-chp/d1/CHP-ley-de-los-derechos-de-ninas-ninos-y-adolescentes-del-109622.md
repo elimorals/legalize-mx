@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109622"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-17"
-last_updated: "2017-02-01"
+last_updated: "2017-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 17 de junio de 2015.
 
@@ -101,7 +101,7 @@ VIII. CONEVAL: Al Consejo Nacional de Evaluación de la Política de Desarrollo 
 
 IX. Congreso del Estado: Al Honorable Congreso del Estado de Chiapas.
 
-X. CIEPSE: Al Consejo de Investigación y Evaluación de la Política Social del Estado.
+X. (DEROGADA, P.O. 26 DE ABRIL DE 2017)
 
 XI. Constitución Política local: A la Constitución Política del Estado de Chiapas.
 
@@ -539,15 +539,21 @@ Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán adoptar las medidas apropiadas, las cuales, serán definidas en los Programas Estatal y municipales, respectivamente.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 50.
 
-De conformidad con lo establecido por la Ley general, la edad mínima para contraer matrimonio en el Estado de Chiapas, será de 18 años, salvo dispensa de edad en los casos que proceda conceder por autoridad judicial.
+De conformidad con lo establecido por la Ley general, la edad mínima para contraer matrimonio en el Estado de Chiapas, será de 18 años.
 
 ### Capítulo Octavo. Del Derecho ae (sic) Acceso a una Vida Libre de Violencia y a la Integridad Personal
 
 ###### Artículo 51.
 
 Las niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+Las personas que ejerzan la patria potestad, guarda y custodia, tutela o persona alguna, no podrán imponer castigo corporal que atente contra la dignidad humana, como forma de corrección disciplinaria, por lo que en toda circunstancia y momento se deberá de observar el interés superior de la niñez.
 
 ###### Artículo 52.
 
@@ -1745,21 +1751,29 @@ Para la revocación de las autorizaciones e inhabilitación a que se refiere est
 
 Cualquier persona podrá presentar una queja ante el Sistema DIF -Estatal si considera que se actualizan los supuestos previstos en el primer párrafo de este artículo.
 
-## Título Sexto. Del Consejo de Investigación y Evaluación de la Política Social del Estado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ABRIL DE 2017)</small>
+
+## Título Sexto
+
+De la Evaluación de la Política de Desarrollo Social en el Estado.
 
 ### Capítulo Único. Generalidades
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 146.
 
-Corresponderá al CIEPSE la evaluación de las políticas de desarrollo social vinculadas con la protección de los derechos de niñas, niños y adolescentes, en términos de lo establecido por la presente Ley, su Decreto de creación y las demás disposiciones legales aplicables.
+Corresponderá a la instancia normativa competente, la evaluación de las políticas de desarrollo social vinculadas con la protección de los derechos de niñas, niños y adolescentes, en términos de lo establecido en la presente Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 147.
 
 La evaluación consistirá en revisar periódicamente el cumplimiento de esta Ley y del Programa Estatal y metas y acciones en materia de derechos de niñas, niños y adolescentes.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 148.
 
-De acuerdo con los resultados de las evaluaciones, el CIEPSE emitirá, las sugerencias, opiniones y recomendaciones que en su caso considere pertinentes al Sistema Estatal y Sistema Nacional de Protección Integral.
+De acuerdo con los resultados de las evaluaciones, la instancia normativa competente, emitirá las sugerencias, opiniones y recomendaciones que en su caso considere pertinentes al Sistema Estatal y Sistema Nacional de Protección Integral.
 
 ###### Artículo 149.
 
@@ -1767,15 +1781,7 @@ Los resultados de las evaluaciones serán entregados al Titular del Poder Ejecut
 
 ###### Artículo 150.
 
-Sin perjuicio de las atribuciones contenidas en su Decreto de creación, el CIEPSE contará con las siguientes atribuciones:
-
-I. Fomentar y fortalecer la colaboración, concertación, coordinación y participación responsable de Instituciones Públicas y Privadas en la realización de acciones para garantizar el ejercicio de los derechos de las niñas, niños y adolescentes.
-
-II. Evaluar los logros y avances de los programas de la Administración Pública en la materia y proponer medidas para su optimización.
-
-III. Analizar y proponer a las instancias competentes, modelos de atención para las niñas, niños y adolescentes.
-
-IV. Contribuir en la difusión de los principios y derechos de las niñas, niños y adolescentes en el Estado.
+(DEROGADO, P.O. 26 DE ABRIL DE 2017)
 
 ## Título Séptimo. Del Sistema Estatal de Protección Integral
 
@@ -1927,7 +1933,9 @@ XI. Difundir entre las autoridades correspondientes y la población en general l
 
 XII. Asesorar y apoyar al Gobierno del Estado, así como a las autoridades municipales que lo requieran para el ejercicio de sus atribuciones.
 
-XIII. Proporcionar la información necesaria al CIEPSE y al Sistema Estatal de Protección Integral para la evaluación de las políticas de desarrollo social vinculadas con la protección de niñas, niños y adolescentes.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+XIII. Proporcionar la información necesaria a la instancia normativa competente y al Sistema Estatal de Protección Integral, para la evaluación de las políticas de desarrollo social vinculadas con la protección de niñas, niños y adolescentes.
 
 XIV. Dar seguimiento al cumplimiento de sugerencias y recomendaciones derivadas de la evaluación de las políticas de desarrollo social vinculadas con la protección de niñas, niños y adolescentes.
 
@@ -2348,3 +2356,11 @@ P.O. 1 DE FEBRERO DE 2017.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 26 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 163 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
