@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-instituciones-politicas-y-procedimientos-89193"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-08-10"
-last_updated: "2017-02-04"
+last_updated: "2017-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # CODIGO DE INSTITUCIONES POLITICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 3 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2017 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
 
 Código publicado en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 10 de agosto de 2012.
 
@@ -100,6 +102,28 @@ XVII.- Presidente: Para referirse al Consejero Presidente del Consejo General de
 XVIII.- Tribunal: Para referirse al Tribunal Electoral del Poder Judicial del Estado de Oaxaca; y
 
 XIX.- Unidad: Para referirse a la Unidad Técnica de Fiscalización de los Recursos de los Partidos Políticos.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+Artículo 2 Bis
+
+Para los efectos de este Código se entiende por Violencia Política contra las mujeres, la acción u omisión que, en el ámbito político o público, tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político-electorales de una mujer, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o su función del poder público.
+
+Se manifiesta en presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad o de la vida en razón del género.
+
+Constituyen acciones y omisiones que configuran Violencia Política contra las mujeres, las siguientes:
+
+I. Proporcionar información o documentación incompleta o errónea con el objeto de impedir el ejercicio pleno de los derechos político-electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
+
+II. Ocultar, información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político-electorales o inducir al ejercicio indebido de sus atribuciones;
+
+III. Proporcionar o difundir información con la finalidad de impedir o limitar el ejercicio de los derechos político-electorales o impedir el ejercicio de sus atribuciones o facultades;
+
+IV. Impedir o restringir su incorporación, toma de protesta o acceso al cargo o función para el cual ha sido nombrada o elegida;
+
+V. Impedir o restringir su reincorporación al cargo o función posterior en los casos de licencia o permiso conforme a las disposiciones aplicables; y
+
+VI. Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos en razón de género.
 
 Artículo 3
 
@@ -215,9 +239,15 @@ V.- Integrar las mesas directivas de casillas en los términos de este Código.
 
 2. Para el cumplimiento de la obligación de desempeñar las funciones electorales para las que sean requeridos los ciudadanos, los patrones están obligados a otorgar el permiso correspondiente a sus trabajadores, en los términos de la legislación laboral.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 Artículo 12
 
-En los municipios que eligen a sus ayuntamientos mediante sus sistemas normativos internos, los requisitos para el ejercicio del voto, los derechos y sus restricciones así como las obligaciones de los ciudadanos, se harán conforme a sus normas, instituciones, prácticas y tradiciones democráticas, sólo en lo que corresponde a la elección de concejales, siempre que no violen derechos humanos reconocidos por la Constitución Federal, por los tratados internacionales y por la Constitución Estatal.
+1. En los municipios que eligen a sus ayuntamientos mediante sus sistemas normativos internos, los requisitos para el ejercicio del voto, los derechos y sus restricciones así como las obligaciones de los ciudadanos, se harán conforme a sus normas, instituciones, prácticas y tradiciones democráticas, sólo en lo que corresponde a la elección de concejales, siempre que no violen derechos humanos reconocidos por la Constitución Federal, por los tratados internacionales y por la Constitución Estatal.
+
+2. El ejercicio de los derechos y el cumplimento de las obligaciones de la ciudadanía en el ámbito político electoral, se regirán por el principio de la no violencia.
+
+3. El Instituto, el Tribunal, los Partidos Políticos y las Agrupaciones Políticas, en términos de los artículos 1º, 2º y 4º de la Constitución y de los tratados internacionales en la materia de los que el Estado mexicano sea parte, y en el ámbito de sus atribuciones, establecerán mecanismos, para prevenir, atender, sancionar y en su caso erradicar la violencia política en razón de género.
 
 # LIBRO SEGUNDO. DEL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA
 
@@ -243,7 +273,9 @@ I.- Contribuir al desarrollo de la vida e institucionalidad democrática del Est
 
 II.- Fomentar el ejercicio de los derechos político-electorales del ciudadano, así como promover y difundir la educación cívica y la cultura democrática, en aras de la autenticidad, la efectividad del sufragio y los derechos políticos y electorales de los ciudadanos;
 
-III.- Promover el principio de igualdad de oportunidades entre hombres y mujeres como criterio fundamental de la democracia;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+III.- Promover el principio de paridad entre mujeres y hombres como requisito fundamental de la democracia;
 
 IV.- Asegurar a los ciudadanos el ejercicio de los derechos político-electorales, vigilar el cumplimiento de sus obligaciones, así como su efectivo acceso a los mecanismos de participación ciudadana establecidos en la Constitución Estatal;
 
@@ -256,6 +288,10 @@ VII.- Reconocer, respetar, salvaguardar y garantizar los sistemas normativos int
 VIII.- Fortalecer el régimen de partidos políticos; y
 
 IX.- Ser garante de los principios rectores de certeza, legalidad, independencia, imparcialidad y objetividad.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+En el cumplimiento de estas obligaciones se promoverá la igualdad sustantiva entre mujeres y hombres y se prohibirá la discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 Artículo 15
 
@@ -1889,7 +1925,9 @@ Artículo 87
 
 Artículo 88
 
-1. Los partidos políticos constituyen entidades de interés público, democráticos hacia su interior y autónomos en su organización, que tienen como finalidad promover la organización y participación de los ciudadanos en la vida democrática, contribuir a la integración de los órganos públicos estatales y municipales de elección popular, y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público mediante el sufragio, de acuerdo con los programas, principios e ideología que postulan.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+1. Los partidos políticos constituyen entidades de interés público, democráticos hacia su interior y autónomos en su organización, que tienen como finalidad promover la organización y participación de los ciudadanos en la vida democrática, contribuir a la integración de los órganos públicos estatales y municipales de elección popular, y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público garantizando la paridad entre los sexos, mediante el sufragio, de acuerdo con los programas, principios e ideología que postulan.
 
 2. Los partidos políticos tienen personalidad jurídica propia, gozan de los derechos y las prerrogativas y quedan sujetos a las obligaciones que establecen la Constitución Federal, la Constitución Estatal y este Código.
 
@@ -1989,11 +2027,15 @@ e).- Un Órgano de Fiscalización Interna; y
 
 f).- Un Órgano Autónomo e imparcial, que vigile el respeto de los derechos de los afiliados, así como el cumplimiento de sus obligaciones.
 
-V.- La integración de sus órganos directivos, en la que se procure garantizar la paridad de género;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+V. La integración de sus órganos directivos, en la que se garantizará la paridad de género;
 
 VI.- Los mecanismos para formar ideológica y políticamente a sus afiliados, infundiendo en ellos el respeto a la pluralidad política y a la Ley, en la búsqueda de sus objetivos políticos;
 
-VII.- Las normas para la postulación democrática de sus candidatos, procurando la paridad de género;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+VII.- Las normas para la postulación democrática de sus candidatos, garantizando la paridad de género;
 
 VIII.- La obligación de presentar una plataforma electoral, para cada elección en que participe, sustentada en su declaración de principios y programa de acción;
 
@@ -2131,9 +2173,13 @@ XII.- Utilizar las prerrogativas y aplicar el financiamiento público, conforme 
 
 XIII.- Sostener por lo menos un centro de formación política para sus afiliados, infundiendo en ellos el respeto al adversario y a sus derechos en la lucha política;
 
-XIV.- Abstenerse de cualquier expresión que implique diatriba, calumnia, infamia, injuria o difamación que denigre a los ciudadanos, a las instituciones públicas o a otros partidos políticos o candidatos;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
 
-XV.- Impulsar y garantizar la participación de las mujeres, en la toma de decisiones e incorporar perspectiva de género en sus acciones de formación y capacitación política, así como el acceso paritario a los cargos de representación popular en los términos señalados en este ordenamiento;
+XIV.- Abstenerse de cualquier expresión que implique diatriba, calumnia, infamia, injuria o difamación que denigre a los ciudadanos, que discriminen o que constituyan violencia Política contra las mujeres, o expresiones que denigren a las instituciones públicas o a otros partidos políticos o candidatos.
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+XV.- Impulsar y garantizar la participación de las mujeres, en la toma de decisiones e incorporar la perspectiva de género en sus acciones de formación y capacitación política; garantizar la paridad entre los sexos en candidaturas para legisladores en el Congreso y otros cargos de representación popular, en los términos señalados en este ordenamiento;
 
 XVI.- Adoptar los procedimientos que garanticen los derechos de los militantes, así como aquellos que permitan impugnar las resoluciones de sus órganos internos;
 
@@ -2339,7 +2385,11 @@ Artículo 110
 
 2. Los partidos políticos tienen derecho al uso de manera permanente de los medios de comunicación social, sujetándose a las normas y modalidades que establece la Constitución Federal y las leyes aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 3. Los partidos políticos, precandidatos y candidatos a cargos de elección popular, accederán a la radio y la televisión a través del tiempo que la Constitución Federal otorga como prerrogativa a los primeros, en la forma y términos establecidos por las leyes aplicables.
+
+Se debe garantizar la no discriminación en razón de género en la programación y distribución de tiempos.
 
 4. Los partidos políticos, precandidatos y candidatos a cargos de elección popular, en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión con cobertura en el Estado. Tampoco podrán contratar los dirigentes y afiliados a un partido político, o cualquier ciudadano, para su promoción personal con fines electorales. La violación a esta norma será sancionada por el Instituto Federal Electoral, en los términos dispuestos por la legislación aplicable.
 
@@ -2935,15 +2985,23 @@ I.- Por listas de diecisiete candidatos a diputados propietarios y suplentes por
 
 II.- Por relaciones de hasta veinticinco candidatos a diputados por el principio de representación proporcional, conformadas con los mismos candidatos de mayoría relativa.
 
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+En ambos casos, los partidos políticos garantizarán la paridad entre los sexos, alternando candidatos de uno y otro sexo hasta agotar la lista o relación.
+
 5. Al momento del registro de las listas de candidatos a diputados por el principio de representación proporcional, los partidos políticos precisarán por cuál de las dos opciones registran dichas listas. En caso de no precisar cualquiera de las dos opciones, se entenderá que eligió la opción contenida en la fracción primera del párrafo cuarto de este artículo.
 
 6. Los partidos políticos registrarán fórmulas completas de candidatos a diputados según los principios de mayoría relativa y representación proporcional, en este último caso deberán ser formulas del mismo género.
 
 7. De la totalidad de solicitudes de registro, tanto de las candidaturas a diputados por ambos principios que presenten los partidos políticos o las coaliciones ante el Instituto, deberán integrarse con al menos el cuarenta por ciento de candidatos propietarios y suplentes de un mismo género, procurando llegar a la paridad de género.
 
-8.- En el caso de los municipios que se rigen por partidos políticos, se procurará integrar planillas con al menos el cuarenta por ciento de candidatos propietarios y suplentes de un mismo género.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
 
-9. En los Distritos o municipios en los que la población sea mayoritariamente indígena, los partidos políticos de acuerdo a sus estatutos procuraran postular a cargo de elección popular a candidatos indígenas.
+8. En el caso de los municipios que se rigen por partidos políticos, se integrarán planillas garantizando la paridad entre los sexos; para tales efectos, registrarán alternadamente candidatos de uno y otro sexo hasta agotar la planilla; los candidatos propietarios y suplentes deberán ser del mismo sexo.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+9. En los Distritos o municipios en los que la población sea mayoritariamente indígena, los partidos políticos de acuerdo a sus estatutos procurarán postular a cargo de elección popular a candidatos indígenas, garantizando siempre la paridad y la alternancia entre los sexos.
 
 Artículo 154
 
@@ -3017,11 +3075,13 @@ Artículo 157
 
 6. De igual manera, el Consejo General comunicará de inmediato a los consejos distritales y municipales electorales, la determinación que haya tomado sobre el registro de la lista de candidatos a elegirse por el principio de representación proporcional. Asimismo informará de los registros que haya efectuado en forma supletoria.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
 Artículo 158
 
-1. Concluido el registro de candidaturas, si un partido político o coalición no cumple con la postulación de candidatos de conformidad con el principio de paridad de género en los términos previstos por el artículo 153 de este Código, o en su defecto, no anexa documento alguno que acredite que las candidaturas de mayoría relativa, son el resultado de un proceso de elección democrático conforme a los estatutos del partido político que corresponda, el Consejo General le requerirá en primera instancia para que en el plazo de cuarenta y ocho horas, contadas a partir de la notificación, rectifique la solicitud de registro de candidaturas y le apercibirá de que, en caso de no hacerlo le hará una amonestación pública.
+1. Concluido el registro de candidaturas, si un partido político o coalición no cumple con la postulación de candidatos de conformidad con el principio de paridad de género en los términos previstos por el artículo 153 de este Código, el Consejo General le requerirá en primera instancia para que en el plazo de cuarenta y ocho horas, contadas a partir de la notificación, rectifique la solicitud de registro de candidaturas y le apercibirá de que, en caso de no hacerlo le hará una amonestación pública.
 
-2. Transcurrido el plazo a que se refiere el párrafo anterior, el partido político o coalición que no realice la sustitución de candidatos, será acreedor a una amonestación pública y el Consejo le requerirá, de nueva cuenta, para que en un plazo de veinticuatro horas, contadas a partir de la notificación, haga la corrección. En caso de reincidencia se sancionará con la negativa del registro de las candidaturas correspondientes.
+2. Transcurrido el plazo a que se refiere el párrafo anterior, el partido político o coalición que no realice la sustitución de candidatos, será acreedor a la sanción prevista en el inciso f), de la fracción I, del artículo 281 de este Código, y el Consejo le requerirá, de nueva cuenta, para que en un plazo de veinticuatro horas, contadas a partir de la notificación, haga la corrección. En caso de reincidencia se sancionará con la negativa del registro de las candidaturas correspondientes. Asimismo, se le negará el registro de las candidaturas correspondientes; en caso de reincidencia, se aplicará la sanción prevista en el inciso g) del referido artículo.
 
 Artículo 159
 
@@ -3111,7 +3171,9 @@ Artículo 167
 
 1. La propaganda y mensajes que en el curso de las precampañas y campañas electorales difundan los partidos políticos, se ajustarán a lo dispuesto por el primer párrafo del artículo 6 de la Constitución Federal y 3 de la Constitución Estatal.
 
-2. En la propaganda política o electoral que realicen los partidos políticos, las coaliciones y los candidatos, deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+2. En la propaganda política o electoral que difundan los partidos políticos, las coaliciones y los candidatos no deben contener expresiones que constituyan violencia política en razón de género, ni expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas;
 
 3. Los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6 de la Constitución Federal y 3 de la Constitución Estatal, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a los delitos, las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta, y de las disposiciones civiles y penales aplicables.
 
@@ -4281,7 +4343,13 @@ II.- Cumplir con los cargos, servicios y contribuciones que la Asamblea les conf
 
 III.- Participar en el desarrollo de las elecciones municipales, así como ser electo para los cargos y servicios establecidos por su sistema normativo interno.
 
-2. El ejercicio de los derechos político-electorales de las ciudadanas y los ciudadanos de las comunidades y municipios que se rigen bajo sistemas normativos internos, se podrán restringir exclusivamente por razones de capacidad civil o mental, condena penal con privación de libertad, o con motivo de la defensa y salvaguarda de la identidad y cultura de dichas comunidades y municipios.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+2. El ejercicio de los derechos político-electorales de las ciudadanas y los ciudadanos de las comunidades y municipios que se rigen bajo sistemas normativos internos, se podrán restringir exclusivamente por razones de capacidad civil o mental, condena penal con privación de libertad, garantizando la no discriminación y la no violencia política por razón de género.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+3. En ningún caso los sistemas normativos, las prácticas de los pueblos y de las comunidades indígenas podrán limitar, anular o menoscabar los derechos político-electorales de la ciudadanía en la elección de sus autoridades municipales.
 
 ## TÍTULO SEGUNDO. DE LOS REQUISITOS DE ELEGIBILIDAD Y DEL PROCEDIMIENTO DE ELECCIÓN
 
@@ -4307,7 +4375,9 @@ II.- El procedimiento de elección de sus autoridades;
 
 III.- Los requisitos para la participación ciudadana;
 
-IV.- Los requisitos de elegibilidad para ocupar los cargos a elegir;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+IV.- Los requisitos de elegibilidad para ocupar los cargos a elegir, los cuales garantizarán la paridad entre los sexos;
 
 V.- Las instituciones comunitarias que intervienen para conducir el proceso de elección;
 
@@ -4317,7 +4387,9 @@ VII.- De haberse presentado disenso en la elección anterior, respecto a alguno 
 
 2. Vencido el plazo a que se refiere el párrafo 1 del presente artículo, y sí aun hubiere municipios por entregar sus informes o estatutos electorales comunitarios, en su caso, el Instituto los requerirá por única ocasión, para que en un plazo de treinta días contados a partir de la notificación, presenten el informe, o en su caso, el estatuto correspondiente.
 
-3. Recibido los informes sobre las reglas de sus sistemas normativos internos o, en su caso, sus estatutos electorales comunitarios, la Dirección Ejecutiva de Sistemas Normativos Internos, elaborará dictámenes en lo individual, con el único propósito de identificar sustancialmente el método de elección comunitaria de aquellos municipios que entregaron su documentación, y los presentará al Consejo General para su aprobación. Asimismo, la Dirección Ejecutiva manifestará los municipios que omitieron la entrega de su documentación y ofrecerá como dictamen, el catálogo de elección que rigió la pasada elección en el municipio de que se trate.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+3. Recibido (sic) los informes sobre las reglas de sus sistemas normativos internos o, en su caso, sus estatutos electorales comunitarios, la Dirección Ejecutiva de Sistemas Normativos Internos, elaborará dictámenes en lo individual, con el único propósito de verificar que se ha garantizado la paridad entre los sexos e identificar sustancialmente el método de elección comunitaria de aquellos municipios que entregaron su documentación, y los presentará al Consejo General para su aprobación. Asimismo, la Dirección Ejecutiva manifestará los municipios que omitieron la entrega de su documentación y ofrecerá como dictamen, el catálogo de elección que rigió la pasada elección en el municipio de que se trate, garantizando siempre la paridad entre los sexos.
 
 4. Aprobados por el Consejo General los informes sobre las reglas de sus sistemas normativos internos, en el que se precisa la forma de elección municipal, el Consejo General ordenará la publicación de cada uno de ellos en el Periódico Oficial y solicitará a la autoridad municipal de que se trate, la coadyuvancia para fijar los acuerdos en los lugares de mayor publicidad en sus localidades.
 
@@ -4455,7 +4527,9 @@ Artículo 270
 
 Constituyen infracciones de los partidos políticos al presente Código:
 
-I.- El incumplimiento de las obligaciones señaladas en los artículos 106, 267 y demás disposiciones aplicables de este Código;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+I.- El incumplimiento de las obligaciones señaladas en los artículos 101 fracción XV, 106, 267 y demás disposiciones aplicables de este Código;
 
 II.- El incumplimiento de las resoluciones o acuerdos del Instituto;
 
@@ -4481,9 +4555,17 @@ XII.- La omisión o el incumplimiento de la obligación de proporcionar en tiemp
 
 XIII.- El incumplimiento de sus obligaciones en materia de retiro y borrado de propaganda electoral de sus candidatos;
 
-XIV.- Realizar propuestas de precampaña o campaña electoral que atenten contra el régimen democrático; y
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
 
-XV.- La comisión de cualquiera otra falta de las previstas en este Código.
+XIV.- Realizar propuestas de precampaña o campaña electoral que atenten contra el régimen democrático;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ABRIL DE 2017)</small>
+
+XV.- La inobservancia de los principios de igualdad sustantiva entre mujeres y hombres, de no discriminación, la perspectiva de género en términos de las disposiciones aplicables, y la violencia política en razón de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE ABRIL DE 2017)</small>
+
+XVI.- La comisión de cualquiera otra falta de las previstas en este Código.
 
 Artículo 271
 
@@ -4599,6 +4681,10 @@ g).- Con la cancelación de su registro como partido político local.
 
 Las sanciones previstas en los incisos d) al f), sólo procederán cuando el incumplimiento o infracción sea particularmente grave o sistemática, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos.
 
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+Las sanciones previstas en los incisos a) al c), procederán por el incumplimiento de sus obligaciones en materia de prevención y atención de violencia política en razón de género, en términos del presente Código.
+
 II.- Respecto de los aspirantes, precandidatos o candidatos a cargos de elección popular:
 
 a).- Con amonestación pública;
@@ -4607,11 +4693,17 @@ b).- Con multa de cincuenta a cinco mil días de salario mínimo general vigente
 
 c).- Con la pérdida del derecho del precandidato infractor a ser registrado como candidato, o con la cancelación si ya estuviere registrado. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato.
 
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+La sanción que estable el párrafo anterior se aplicará por la acción u omisión que constituya violencia política en razón de género en los términos de las disposiciones aplicables.
+
 III.- Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o de cualquiera persona física o moral:
 
 a).- Con amonestación pública;
 
-b).- Con multa de hasta quinientos días de salario mínimo general vigente en el Estado, en el caso de aportaciones que violen lo dispuesto en este Código; y
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+b).- Con multa de hasta quinientas veces el valor diario de la Unidad de Medida y Actualización, en el caso de aportaciones que violen lo dispuesto en este Código, así como, actos u omisiones que constituyan violencia política en razón de género; y
 
 c).- Con multa de hasta mil días de salario mínimo general vigente en el Estado, a las personas jurídicas por las conductas señaladas en la fracción anterior;
 
@@ -5294,3 +5386,9 @@ P.O. 4 DE FEBRERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM 535.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 33 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA Y SE REFORMA EL ARTÍCULO 268 DEL CÓDIGO DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+P.O. 26 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 589.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
