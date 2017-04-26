@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-turismo-del-estado-de-morelos-65018"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-10"
-last_updated: "2017-03-01"
+last_updated: "2017-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TURISMO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de diciembre de 2008.
 
@@ -33,7 +33,7 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
 
-...
+[...]
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -599,7 +599,7 @@ Los prestadores de servicios turísticos, personas físicas y morales que brinde
 
 ###### Artículo 30 Quinquies.
 
-Los proyectos de turismo de naturaleza se tendrá que observar que la actividad cumpla con los siguientes criterios:
+Los proyectos de turismo de naturaleza se tendrá (sic) que observar que la actividad cumpla con los siguientes criterios:
 
 I. Con la protección y preservación de la vida silvestre, sus especies y ecosistemas;
 
@@ -718,6 +718,14 @@ XV. Operar módulos de información y orientación al turista;
 XVI. Recibir y canalizar las quejas de los turistas, para su atención ante la autoridad competente; y
 
 XVII. En general, promover la observancia de las disposiciones emanadas de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+###### Artículo 41 Bis.
+
+Los Ayuntamientos podrán implementar cursos de capacitación en materia turística para su personal, mismos que deberán contribuir a la realización de las funciones descritas en el artículo anterior.
+
+Con el fin de dar cumplimento a esta disposición, los Ayuntamientos podrán celebrar convenios de colaboración en materia de capacitación turística con la Secretaría, o en su caso, con la Secretaría Federal.
 
 ## TÍTULO CUARTO. DE LA PROMOCIÓN E INFORMACIÓN TURÍSTICA
 
@@ -1212,3 +1220,11 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 26 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL SEISCIENTOS CUARENTA Y CINCO POR EL QUE SE ADICIONA EL ARTÍCULO 41 BIS A LA LEY DE TURISMO DEL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado de Morelos.
