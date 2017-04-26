@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2016-02-29"
+last_updated: "2017-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -151,9 +151,11 @@ V. Violencia sexual: Es cualquier acto que degrade o dañe el cuerpo o la sexual
 
 VI. Violencia feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres; y
 
-> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
 
-VII. Violencia política.- Es cualquier acción u omisión cometida por una o varias personas o servidores públicos por si o a través de terceros, que causen daño físico, psicológico, económico o sexual en contra de una o varias mujeres y/o de su familia, para acotar, restringir, suspender o impedir el ejercicio de sus derechos ciudadanos y político-electorales o inducirla a tomar decisiones en contra de su voluntad.
+VII. Violencia política: Es cualquier acción u omisión cometida por una o varias personas o servidores públicos por sí o a través de terceros, que causen daño físico, psicológico, económico o sexual en contra de una o varias mujeres y/o de su familia, para acotar, restringir, suspender o impedir el ejercicio de sus derechos ciudadanos y político-electorales o inducirla a tomar decisiones en contra de su voluntad; así como impedir el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o su función del poder público.
+
+Se manifiesta en presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad o de la vida por razón de género.
 
 > <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
@@ -213,7 +215,9 @@ d) Eviten por cualquier medio que las mujeres electas, titulares o suplentes, o 
 
 e) Proporcionen al instituto electoral datos falsos o información incompleta de la identidad o sexo de la persona candidata.
 
-f) Impidan o restrinjan su reincorporación al cargo cuando hagan uso de una licencia justificada.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+f) Impedir o restringir su incorporación al cargo o función posterior a los casos de licencia o permiso conforme a las disposiciones aplicables;
 
 g) Restrinjan el uso de la palabra en las asambleas, sesiones u otras reuniones, así como su participación en comisiones, comités y otras instancias de toma de decisiones conforme a la reglamentación establecida.
 
@@ -232,6 +236,34 @@ m) Obligar mediante la fuerza o intimidación a las autoridades electas o design
 n) Discriminen a la autoridad electa designada o en el ejercicio de la función político-pública, por razón de su género o por encontrarse en la etapa de embarazo, parto y puerperio; y,
 
 o) Divulguen o revelen información personal y privada de las mujeres candidatas, electas, designadas o en el ejercicio de funciones político-públicas, con el objetivo de menoscabar su dignidad como seres humanos y utilizar la misma para obtener contra su voluntad la renuncia y o licencia al cargo que ejercen o postulan.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+p) Imponer la realización de actividades distintas a las atribuciones inherentes a su cargo o función;
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+q) Restringir injustificadamente la realización de acciones o actividades inherentes a su cargo o función;
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+r) Proporcionar información o documentación incompleta o errónea con el objeto de impedir el ejercicio pleno de los derechos político-electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+s) Ocultar, información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político-electorales o inducir al ejercicio indebido de sus atribuciones;
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+t) Proporcionar o difundir información con la finalidad de impedir o limitar el ejercicio de los derechos político-electorales o impedir el ejercicio de sus atribuciones o facultades;
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+u) Impedir o restringir su incorporación o acceso al cargo o función, para el cual ha sido nombrada o elegida;
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+v) Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos, en razón de género.
 
 ### Capítulo Tercero. En el Ámbito Laboral y Docente
 
@@ -463,6 +495,10 @@ Toda persona física o moral, podrá efectuar aportaciones de recursos al Sistem
 
 El Consejo Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia de Género contra las Mujeres, es el órgano del Sistema encargado de las funciones de planeación y coordinación de las acciones tendientes a prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como para fomentar y gestionar la protección y asistencia de las víctimas en el Estado, conforme a los lineamientos aplicables en la materia.
 
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+Todas las medidas que lleve a cabo el Consejo deberán ser realizadas sin discriminación alguna.
+
 ###### Artículo 39.
 
 El Consejo estará integrado por las o los titulares de:
@@ -477,7 +513,9 @@ IV. El Honorable Tribunal Superior de Justicia del Estado;
 
 V. El Honorable Congreso del Estado;
 
-VI. La Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+VI. La Fiscalía General del Estado;
 
 VII. La Dirección General del Sistema Estatal para el Desarrollo Integral de la Familia;
 
@@ -499,9 +537,21 @@ XV. La Coordinación General del Comité Estatal de Planeación para el Desarrol
 
 XVI. La Corporación Oaxaqueña de Radio y Televisión;
 
-XVII. El Consejo Estatal para la Prevención y Control del Sida; y
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
 
-XVIII. Los organismos o dependencias instituidos en el ámbito municipal por acuerdo del Cabildo, para el desarrollo integral de las mujeres.
+XVII. El Consejo Estatal para la Prevención y Control del Sida;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+XVIII. El Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca;
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+XIX. La Comisión para atender, prevenir y eliminar la discriminación en el Estado de Oaxaca, y
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+XX. Los organismos o dependencias instituidos en el ámbito municipal por acuerdo del Cabildo, para el desarrollo integral de las mujeres.
 
 El desempeño de estas funciones será de manera honoraria y gratuita.
 
@@ -769,9 +819,11 @@ II. Aprobar en el presupuesto anual de egresos del Gobierno del Estado, recursos
 
 III. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 57.
 
-Son atribuciones de la Procuraduría General de Justicia del Estado:
+Son atribuciones de la Fiscalía General del Estado:
 
 I. Participar en la elaboración y ejecución del Programa y en el diseño de nuevos modelos de erradicación de la violencia contra las mujeres;
 
@@ -787,15 +839,19 @@ VI. Proporcionar a las víctimas información sobre las instituciones públicas 
 
 VII. Brindar a las víctimas información objetiva que les permita reconocer su situación;
 
-VIII. Promover la cultura de denuncia de la violencia contra las mujeres garantizando la seguridad de quienes denuncian;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+VIII. Promover la cultura de denuncia de la violencia contra las mujeres garantizando la seguridad de quienes denuncian, así mismo, promover y proteger a través de la Fiscalía Especializada en Materia de Delitos Electorales, (sic) ejercicio de los derechos humanos político-electorales de las mujeres.
 
 IX. Informar al Consejo sobre la ejecución de las actividades de su competencia contenidas en el Programa; y
 
 X. Las demás que esta Ley y otras disposiciones aplicables le señalen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 58.
 
-Corresponde al Instituto de la Mujer Oaxaqueña:
+Corresponde a la Secretaría de la Mujer Oaxaqueña
 
 I. Participar en la elaboración y ejecución del Programa, y en el diseño de modelos de prevención y erradicación de la violencia contra las mujeres;
 
@@ -843,9 +899,17 @@ XIII. Formular los proyectos de toda clase de contratos, convenios y acuerdos pa
 
 XIV. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
-XV. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
 
-XVI. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
+XV. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+XVI. Coadyuvar en la formación de liderazgos políticos de las mujeres; impulsar mecanismos de promoción, protección y respeto de los derechos-político electorales de las mujeres; y
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+XVII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
 ###### Artículo 59.
 
@@ -1128,6 +1192,24 @@ V. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 VI. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
 
 VII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+
+###### Artículo 69 Bis.
+
+Corresponde al Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca:
+
+I. Prevenir, atender, sancionar y en su caso erradicar la violencia;
+
+II. Prevenir, atender, sancionar y en su caso erradicar la violencia política en razón de género;
+
+III. Garantizar la igualdad sustantiva y el pleno ejercicio de los derechos políticos de las mujeres;
+
+IV. Realizar la difusión en los medios de comunicación de las conductas, acciones u omisiones que conllevan a la violencia política en razón de género; la prevención, formas de denuncia y conciencia sobre la erradicación de ésta;
+
+V. Capacitar al personal que labora en el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca y personas integrantes de mesas directivas de casilla para prevenir y en su caso erradicar la violencia política en razón de género; y
+
+VI. Las demás que establezcan esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 70.
 
@@ -1414,3 +1496,9 @@ P.O. 29 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1721.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 26 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 589.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
