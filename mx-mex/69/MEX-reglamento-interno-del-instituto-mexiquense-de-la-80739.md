@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-mexiquense-de-la-80739"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-22"
-last_updated: "2011-03-22"
+last_updated: "2017-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO MEXIQUENSE DE LA INFRAESTRUCTURA FISICA EDUCATIVA, DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERNO DEL INSTITUTO MEXIQUENSE DE LA INFRAESTRUCTURA FISICA EDUCATIVA
+REGLAMENTO INTERNO DEL INSTITUTO MEXIQUENSE DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 22 de marzo de 2011.
 
 LA JUNTA DIRECTIVA DEL INSTITUTO MEXIQUENSE DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, EN EJERCICIO DE LA ATRIBUCIÓN QUE LE CONFIERE EL ARTÍCULO 3.59 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; Y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 En mérito de lo anterior, expide el siguiente:
 
@@ -199,7 +201,9 @@ XVII. Expedir constancias o certificar documentos existentes en sus archivos, cu
 
 XVIII. Autorizar los contratos, convenios modificatorios, anticipos estimaciones y finiquitos de la construcción, reparación, mantenimiento y rehabilitación de la infraestructura física educativa, apegándose a la normatividad aplicable.
 
-XIX. Instaurar los procedimientos administrativos sancionadores en contra de los proveedores y contratistas por incumplimiento a los contratos de adquisición de bienes y servicios, y de construcción de obra pública y servicios relacionados con la misma.
+> <small>(REFORMADA, G.G. 26 DE ABRIL DE 2017)</small>
+
+XIX. Resolver los procedimientos administrativos sancionadores en contra de los proveedores y contratistas por incumplimiento a los contratos de adquisición de bienes y servicios, y de construcción de obra pública y servicios relacionados con la misma, y por rescisión y terminación anticipada de los mismos.
 
 XX. Aplicar y cobrar las penas convencionales, así como las multas que sean procedentes de conformidad con la legislación aplicable, por incumplimiento a los contratos de adquisición de bienes y servicios, y de construcción de obra pública y servicios relacionados con la misma.
 
@@ -385,11 +389,15 @@ I. Representar al Director General y a sus unidades administrativas en todas las
 
 II. Intervenir como representante legal, así como ejercer atribuciones de mandatario ante autoridades e instancias administrativas, previo mandato o poderes generales y especiales que otorgue el Director General, a fin de proteger el interés jurídico y el patrimonio del Organismo.
 
-III. Elaborar los proyectos de acuerdos y las resoluciones relativas a los recursos administrativos competencia del Organismo.
+> <small>(REFORMADA, G.G. 26 DE ABRIL DE 2017)</small>
+
+III. Elaborar los proyectos de acuerdos y las resoluciones relativas a los procesos, procedimientos y recursos administrativos competencia del Organismo y someterlos a aprobación y firma del Director General.
 
 IV. Auxiliar a los servidores públicos del Organismo en el cumplimiento de las resoluciones emitidas por las autoridades administrativas, ministeriales y judiciales, así como de las recomendaciones en materia de derechos humanos, en asuntos competencia del Organismo.
 
-V. Iniciar, tramitar y substanciar, a petición de las unidades administrativas competentes, los procedimientos administrativos por incumplimiento de proveedores y contratistas a los contratos de adquisición de bienes y servicios, y de construcción de obra pública y servicios relacionados con las mismas, y por rescisión y terminación anticipada de dichos contratos, de conformidad con la ley aplicable; así como elaborar los proyectos de resolución y someterlos a la aprobación del Director General.
+> <small>(REFORMADA, G.G. 26 DE ABRIL DE 2017)</small>
+
+V. Iniciar, tramitar y substanciar, a petición de las unidades administrativas competentes, los procedimientos administrativos correspondientes por incumplimiento de proveedores y contratistas a los contratos de adquisición de bienes y servicios, y de construcción de obra pública y servicios relacionados con las mismas, y por rescisión y terminación anticipada de dichos contratos, de conformidad con la ley aplicable; así como elaborar los proyectos de resolución y someterlos a la aprobación del Director General.
 
 VI. Promover, ante las autoridades competentes, la recuperación de las garantías presentadas por los proveedores y contratistas en los contratos de adquisición de bienes y servicios, y de construcción de obra pública y servicios relacionados con la misma.
 
@@ -399,47 +407,75 @@ VIII. Expedir constancias o certificar copias de los documentos existentes en su
 
 IX. Las demás que le confieren otras disposiciones y las que le encomiende el Director General.
 
+> <small>(REFORMADO, G.G. 26 DE ABRIL DE 2017)</small>
+
 ###### Artículo 19.
 
 Corresponde a la Contraloría Interna:
 
-I. Vigilar el cumplimiento de los programas, proyectos y acciones de las unidades administrativas del Organismo y emitir los reportes correspondientes, con base en las acciones de control y evaluación realizadas y constatar que el Organismo observe las disposiciones aplicables en el ejercicio de los recursos estatales y federales.
+I. Recibir, tramitar y resolver las quejas y denuncias, que se interpongan en contra de los servidores públicos del Organismo.
 
-II. Realizar acciones de control y evaluación administrativas y contables en las unidades administrativas del Organismo, tendientes a verificar el cumplimiento de las normas y disposiciones relacionadas con los sistemas de registro, contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos del Organismo.
+II. Recibir y tramitar las sugerencias y reconocimientos ciudadanos.
 
-III. Dar seguimiento a la solventación de las observaciones determinadas por instancias fiscalizadoras internas y externas, derivadas de las acciones de control y evaluación, así como de las realizadas por auditores externos y, en su caso, por otras instancias de fiscalización.
+III. Iniciar, substanciar y resolver los procedimientos administrativos, de acuerdo con la Ley de Responsabilidades de los Servidores Públicos de (sic) Estado y Municipios del Estado de México.
 
-IV. Iniciar, substanciar y resolver los procedimientos administrativos, disciplinarios y resarcitorios e imponer, en su caso, las sanciones que correspondan en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, conforme a las políticas y criterios establecidos por la Dirección General de Responsabilidades de la Secretaría de la Contraloría y demás normatividad aplicable.
+IV. Remitir a la Dirección General de Responsabilidades de la Secretaría de la Contraloría del Gobierno del Estado de México, los expedientes que le sean solicitados y aquellos en los que se determine necesaria su intervención.
 
-V. Remitir a la Dirección General de Responsabilidades de la Secretaría de la Contraloría, los expedientes que le sean solicitados y aquéllos en los que se determine necesaria su intervención.
+V. Acordar la suspensión temporal de servidores públicos durante la substanciación del procedimiento administrativo, de acuerdo con la Ley de Responsabilidades de los Servidores Públicos de (sic) Estado y Municipios del Estado de México, dando aviso a la autoridad correspondiente.
 
-VI. Fincar pliegos preventivos de responsabilidades y calificar la responsabilidad administrativa resarcitoria pudiendo confirmarla, modificarla o cancelarla en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+VI. Fincar pliegos preventivos de responsabilidades y calificar la responsabilidad administrativa resarcitoria, pudiendo confirmarla, modificarla o cancelarla en términos de la Ley de Responsabilidades de los Servidores Públicos de (sic) Estado y Municipios.
 
-VII. Realizar, ante las diversas instancias jurisdiccionales, la defensa jurídica de las resoluciones que emita.
+VII. Realizar las acciones de control y evaluación, a fin de constatar que el Organismo, observe las disposiciones aplicables en el ejercicio de los recursos, según su naturaleza.
 
-VIII. Verificar el adecuado ejercicio del presupuesto del Organismo, atendiendo a los principios de racionalidad, austeridad y disciplina presupuestaria que al respecto se establezcan.
+VIII. Realizar acciones de control y evaluación a los ingresos, gastos, recursos y obligaciones del Organismo.
 
-IX. Participar en los procesos de entrega y recepción de las unidades administrativas del Organismo, conforme a la normatividad aplicable en la materia.
+IX. Informar a la Secretaría de la Contraloría del Gobierno del Estado de México, y al Director General del Organismo, sobre el resultado de las acciones de control y evaluación que le encomienden.
 
-X. Recibir, tramitar y resolver las quejas y denuncias que se interpongan en contra de los servidores públicos del Organismo, así como establecer las investigaciones y el procedimiento correspondiente y recibir y tramitar las sugerencias y reconocimientos ciudadanos.
+X. Proponer y acordar con la unidad administrativa auditada, las acciones de mejora derivadas de las acciones de control y evaluación practicadas, tendientes a fortalecer el control interno y la gestión del Organismo, así como vigilar su implementación.
 
-XI. Instrumentar las acciones preventivas que contribuyan a lograr que los servidores públicos obligados del Organismo, cumplan con la presentación de las declaraciones de situación patrimonial, verificando la presentación oportuna de éstas, conforme a lo dispuesto por la normatividad correspondiente.
+XI. Dar seguimiento a la solventación de las observaciones derivadas de las acciones de control y evaluación, así como de las realizadas por los auditores externos y, en su caso, por otras instancias de fiscalización, ya sea estatales, federales o autónomas.
 
-XII. Informar a la Secretaría de la Contraloría y al Director General del Organismo, sobre el resultado de las acciones de control y evaluación que le encomienden.
+XII. Verificar el adecuado ejercicio presupuestal del Organismo, atendiendo a los principios de racionalidad, austeridad y disciplina presupuestaría que establece la normatividad aplicable.
 
-XIII. Difundir entre el personal del Organismo, las disposiciones en materia de control que incidan en el desarrollo de sus labores, así como vigilar el cumplimiento de las disposiciones que les son aplicables.
+XIII. Vigilar que el Organismo cumpla las disposiciones jurídicas y administrativas aplicables en sus diferentes ámbitos.
 
-XIV. Impulsar la modernización en los sistemas y procesos internos de trabajo del Organismo, a efecto de elevar su eficiencia y eficacia en el cumplimiento de los programas y proyectos institucionales.
+XIV. Vigilar el cumplimiento de los programas, proyectos y acciones de las unidades administrativas del Organismo, constatando que se observen las disposiciones aplicables en el ejercicio de los recursos estatales, federales u otros que obtenga el Organismo.
 
-XV. Promover el fortalecimiento del control interno y la gestión del Organismo, así como la mejora continua en los procesos y servicios a cargo del mismo.
+XV. Elaborar diagnósticos del Organismo, con base en las acciones de control y evaluación realizadas.
 
-XVI. Certificar copias de documentos existentes en los archivos de la unidad administrativa a su cargo, así como de aquellos que con motivo de las funciones de control y evaluación, tenga a la vista para su compulsa y cotejo.
+XVI. Participar en los procesos de entrega recepción de las unidades administrativas del Organismo, verificando su apego a la normatividad correspondiente.
 
-XVII. Instar al área facultada por el Organismo para formular, cuando así se requiera, las querellas y/o denuncias a que hubiere lugar.
+XVII. Instrumentar las acciones preventivas que contribuyan a lograr que el personal obligado del Organismo, cumpla con la manifestación de bienes y declaración de intereses, conforme a lo dispuesto por la normatividad correspondiente.
 
-XVIII. Solicitar a las unidades administrativas del Organismo la información necesaria para cumplir con sus atribuciones.
+XVIII. Promover el fortalecimiento de mecanismos de control de la gestión del Organismo e impulsar el autocontrol y la autoevaluación en el cumplimiento de planes, programas, objetivos y metas, así como la mejora continua de los procesos y servicios públicos.
 
-XIX. Las demás que le señalen otras disposiciones legales y aquellas que le encomiende el Secretario de la Contraloría.
+XIX. Expedir constancias o certificar copias de documentos existentes en los archivos de la Contraloría Interna, así como de la impresión documental de los datos contenidos en los sistemas informáticos de la Secretaría de la Contraloría, y otros que opere con relación a los asuntos de su competencia.
+
+XX. Dar vista a la autoridad competente de los hechos que tenga conocimiento que puedan ser constitutivos de delitos; e instar ante el área facultada del Organismo para formular, las querellas correspondientes cuando así se requiera.
+
+XXI. Realizar, ante las diversas instancias jurisdiccionales, la defensa jurídica de las resoluciones que emita.
+
+XXII. Solicitar a las unidades administrativas del Organismo la información necesaria para cumplir con sus atribuciones.
+
+XXIII. Elaborar el Programa Anual de Control y Evaluación del Órgano de Control Interno, conforme a las políticas, normas, lineamientos, procedimientos y demás disposiciones que al efecto se establezcan; y someterlo a la consideración de la Dirección General de Control y Evaluación que corresponda;
+
+XXIV. Cumplir con el Programa Anual de Control y Evaluación autorizado, conforme a las políticas, normas, procedimientos y demás disposiciones que al efecto se establezcan;
+
+XXV. Iniciar, substanciar y resolver los procedimientos administrativos sancionadores, en términos del Libro Décimo Segundo del Código Administrativo del Estado de México, su Reglamento y demás disposiciones aplicables;
+
+XXVI. Conocer, tramitar y resolver los recursos administrativos que le correspondan, de acuerdo con las disposiciones aplicables, sin menoscabo de lo dispuesto en el artículo 21, fracción XIV, del Reglamento Interior de la Secretaría de la Contraloría;
+
+XXVII. Ejercer cuando así se le encomiende, las funciones de Comisario ante la Junta Directiva del Organismo;
+
+XVIII (SIC). Proponer e informar a la Dirección General de Control y Evaluación correspondiente y a la (sic) Responsabilidades, las políticas, normas, lineamientos, procedimientos y demás disposiciones que mejoren las acciones de control y evaluación, y de responsabilidades;
+
+XXIX. Brindar apoyo en la realización de las funciones que tienen encomendadas las unidades administrativas de la Secretaría de la Contraloría y los demás órganos de control interno;
+
+XXX. Proporcionar en el ámbito de su competencia, la información que le sea solicitada por las unidades administrativas de la Secretaría de la Contraloría y los órganos de control interno para el cumplimiento de sus funciones;
+
+XXXI. Solicitar el apoyo de las unidades administrativas de la Secretaría de la Contraloría, cuando así lo requiera; y
+
+XXXII. Las demás que le señalen otras disposiciones legales y aquellas que le encomiende el Secretario de la Contraloría.
 
 ### CAPÍTULO V. DE LA ADMINISTRACIÓN DEL PATRIMONIO
 
@@ -490,3 +526,15 @@ ARQ. EDUARDO HERNÁNDEZ PARDO
 DIRECTOR GENERAL DEL INSTITUTO MEXIQUENSE DE LA INFRAESTRUCTURA FISICA EDUCATIVA Y SECRETARIO DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 26 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERNO DEL INSTITUTO MEXIQUENSE DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA”.]
+
+PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a las establecidas en el presente acuerdo.
