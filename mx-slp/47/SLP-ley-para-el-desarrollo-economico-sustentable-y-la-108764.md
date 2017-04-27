@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2016-09-17"
+last_updated: "2017-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2017.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -199,9 +199,15 @@ IV. Incentivar el desarrollo de infraestructura y equipamiento de centros de inv
 
 V. Emprender la capacitación y consultoría para el diagnóstico, diseño e implementación de procesos que fomenten la innovación o la migración de las empresas a operaciones de mayor valor agregado y diferenciación con orientación a oportunidades de mercado;
 
-VI. Fomentar la participación y organización de foros y eventos de innovación y desarrollo científico y tecnológico, y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2017)</small>
 
-VII. Las demás que correspondan al Consejo Potosino de Ciencia y Tecnología, que se orienten a impulsar el desarrollo económico y elevar la competitividad del Estado.
+VI. Fomentar la participación y organización de foros y eventos de innovación y desarrollo científico y tecnológico;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2017)</small>
+
+VII. Fomentar la difusión y promoción de las MIPYMES, a través de las herramientas digitales y tecnologías de la información, y
+
+VIII. Las demás que correspondan al Consejo Potosino de Ciencia y Tecnología, que se orienten a impulsar el desarrollo económico y elevar la competitividad del Estado.
 
 ### CAPÍTULO IV. Del Consejo para el Desarrollo Económico Sustentable, y la Competitividad
 
@@ -331,7 +337,21 @@ Los Consejos Regionales tendrán como objetivo trabajar en forma coordinada y es
 
 En el padrón empresarial del Estado quedarán inscritas las empresas que pretendan acceder a los estímulos y beneficios que se establecen en la presente Ley, por lo que la inscripción será estrictamente voluntaria en los términos que fije el Reglamento.
 
-El Padrón Empresarial del Estado quedará a cargo de la Secretaría de Desarrollo Económico.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+La Secretaría elaborará además, el Padrón Empresarial Digital del Estado, para dar a conocer las MIPYMES en los ámbitos local, nacional e internacional, a través de la red y dentro del portal web de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+En el portal web se difundirá el nombre de la MIPYME, marca y/o denominación con que pretenda darse a conocer, su giro, ubicación, horario de atención, descripción de productos, bienes o servicios ofertados, una galería fotográfica que describa lo ofertado, precios, promociones, todo ello con la finalidad de emitir la difusión más amplia que le permita darse a conocer.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+La información antes señalada, deberá ser habilitada, administrada y actualizada de manera voluntaria por los titulares y/o representantes legales de las MIPYMES, para lo cual contarán con un registro y una clave de acceso que la Secretaría proporcionará.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+La Secretaría capacitará a los particulares en la utilización de esta plataforma de red, para la inclusión al padrón.
 
 ###### ARTÍCULO 26.
 
@@ -655,13 +675,17 @@ X. Promover la cultura emprendedora, a través de los programas educativos y de 
 
 XI. Impulsar la participación de los municipios;
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2017)</small>
 
-XII. Contar con mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las MIPYMES, que permitan corregirlas o mejorarlas, y
+XII. Contar con mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las MIPYMES, que permitan corregirlas o mejorarlas;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2017)</small>
+
+XIII. Elaborar en coordinación con los ayuntamientos, el Padrón Empresarial Digital del Estado, y
 
 > <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
 
-XIII. Las demás que emanen de las atribuciones del Consejo y el reglamento.
+XIV. Las demás que emanen de las atribuciones del Consejo y el reglamento.
 
 ###### ARTÍCULO 65.
 
@@ -824,5 +848,13 @@ P.O. 17 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0381.- SE REFORMA EL ARTÍCULO 64 EN SUS FRACCIONES VIII, XI, Y XII; Y ADICIONA AL MISMO ARTÍCULO 64 LA FRACCIÓN XIII, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ.”]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0613.- SE REFORMA Y ADICIONA LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ."]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis"
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
