@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-periodico-oficial-del-estado-de-tamaulipas-50627"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-10"
-last_updated: "2017-03-23"
+last_updated: "2017-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 10 de mayo de 2006.
 
@@ -61,13 +61,17 @@ MEDIANTE EL CUAL SE EXPIDE LEY DEL PERIODICO OFICIAL DEL ESTADO DE TAMAULIPAS.
 
 2. Al Periódico Oficial del Estado también le corresponde llevar a cabo la publicación de las leyes federales en términos de lo dispuesto por el artículo 120 de la Constitución Política de los Estados Unidos Mexicanos, así como de los tratados internacionales que celebre el Presidente de la República con la aprobación de la Cámara de Senadores, una vez que se hubieren publicado en el Diario Oficial de la Federación.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
 ###### ARTICULO 3.
 
-Es obligación del Ejecutivo del Estado publicar en el Periódico Oficial del Estado, a través de la Secretaría General de Gobierno, los ordenamientos, disposiciones y documentos a que se refiere el artículo anterior.
+Es obligación del Ejecutivo del Estado publicar en el Periódico Oficial del Estado, a través de la Secretaría General de Gobierno, los ordenamientos, disposiciones y documentos a que se refiere el artículo anterior, así como asegurar su adecuada divulgación y distribución, en condiciones de accesibilidad y simplificación en su consulta.
 
 ###### ARTICULO 4.
 
-1. El Periódico Oficial del Estado de Tamaulipas se editará en Victoria, Tamaulipas, en el domicilio que para este efecto designe el Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+1. El Periódico Oficial del Estado de Tamaulipas se editará en forma impresa y electrónica en Victoria, Tamaulipas, en el domicilio que para este efecto designe el Ejecutivo del Estado.
 
 2. La distribución del Periódico Oficial del Estado se hará conforme a las determinaciones que adopte la Secretaría General de Gobierno, de conformidad con la disponibilidad de recursos.
 
@@ -81,7 +85,9 @@ Las disposiciones de carácter general emitidas por órganos estatales o municip
 
 ###### ARTICULO 6.
 
-1. El Periódico Oficial del Estado será elaborado por un responsable de impresión, quien será nombrado por el Secretario General de Gobierno.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+1. El Periódico Oficial del Estado será elaborado por un responsable, quien será nombrado por el Secretario General de Gobierno.
 
 2. Al responsable del Periódico Oficial del Estado le corresponde su administración y que se remitan al Archivo General del Estado dos ejemplares de cada número que edite.
 
@@ -97,23 +103,41 @@ c) Editar, imprimir y publicar el Periódico Oficial del Estado;
 
 d) Planear estrategias de distribución del Periódico Oficial del Estado;
 
-e) Integrar y conservar el archivo del Periódico Oficial del Estado;
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+e) Integrar, custodiar y conservar la edición electrónica e impresa del Periódico Oficial del Estado;
 
 f) Rendir un informe anual de actividades al Secretario General de Gobierno;
 
 g) Elaborar una estadística anual de la información publicada;
 
-h) Elaborar la compilación anual en versión digital, de los ejemplares del Periódico Oficial del Estado y hacer entrega de éstos a los tres Poderes, a los Ayuntamientos y a los órganos constitucionales autónomos del Estado;
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
 
-i) Otorgar ejemplares gratuitos a los Poderes del Estado, las dependencias y entidades del Ejecutivo, así como a los Ayuntamientos, dependencias y entidades municipales y órganos constitucionales autónomos previa solicitud por oficio dirigido al responsable;
+h) El Periódico Oficial del Estado será distribuido gratuitamente en sus formatos impreso o electrónico a los Poderes del Estado y los Ayuntamientos. Las demás dependencias y entidades del Ejecutivo, así como los órganos constitucionales autónomos, contarán con acceso universal y gratuito al sitio web del Periódico Oficial del Estado;
 
-j) Proponer al Director General de Asuntos Jurídicos de la Secretaría General de Gobierno, las modificaciones operativas y reglamentarias que aprecie necesarias para mejorar la elaboración del Periódico Oficial;
+i) (DEROGADO, P.O. 27 DE ABRIL DE 2017)
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+j) Proponer al Subsecretario de Legalidad y Servicios Gubernamentales o su equivalente, las modificaciones operativas y reglamentarias que aprecie necesarias para mejorar la elaboración del Periódico Oficial del Estado;
 
 k) Participar en la divulgación del orden jurídico estatal;
 
-l) Proponer proyectos para la edición y difusión de las leyes y demás ordenamientos jurídicos de carácter general del Estado; y
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
 
-m) Aquellas que le impongan otras leyes.
+l) Proponer al Subsecretario de Legalidad y Servicios Gubernamentales o su equivalente, de la Secretaría General de Gobierno, las modificaciones operativas y reglamentarias, así como incorporar el desarrollo y la innovación tecnológica a los procesos de producción y distribución;
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+m) Velar por la accesibilidad de la edición electrónica, en términos que determine la autoridad correspondiente;
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+n) Garantizar la autenticidad, integridad e inalterabilidad del Periódico Oficial del Estado que se publique en su dirección electrónica, a través de la firma electrónica avanzada; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 27 DE ABRIL DE 2017)</small>
+
+ñ) Aquellas que le impongan otras leyes.
 
 ### CAPITULO III. DEL FUNCIONAMIENTO DEL PERIODICO OFICIAL
 
@@ -245,15 +269,19 @@ Cuando el contenido del documento publicado contenga errores derivados del propi
 
 2. Cada ejemplar del Periódico Oficial del Estado será difundido en el sitio web del propio órgano público de información, dentro de un término de veinticuatro horas posteriores a su publicación impresa.
 
-3. La publicación electrónica del Periódico Oficial del Estado será exclusivamente para efectos de consulta y sólo se reconocerá validez oficial a la edición impresa.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+3. La publicación electrónica e impresa del Periódico Oficial del Estado tendrá validez oficial y será considerado (sic) prueba documental pública para los efectos previstos en las leyes aplicables.
 
 4. A quien sin causa justificada altere los textos y gráficos del sitio Web del Periódico Oficial del Estado, se le aplicarán las penas previstas en las leyes de la materia.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
 ###### ARTICULO 22.
 
-1. El responsable del Periódico Oficial editará compilaciones electrónicas del propio Periódico para facilitar su colección.
+1. El responsable del Periódico Oficial del Estado editará compilaciones electrónicas del propio Periódico para facilitar su colección y resguardo.
 
-2. Dichas compilaciones se harán, llegar por el propio responsable del Periódico Oficial a las instituciones públicas señaladas en el artículo 7 inciso h); de este ordenamiento.
+2. Las instituciones públicas podrán consultar de manera gratuita las publicaciones oficiales en el sitio web del Periódico Oficial del Estado de Tamaulipas.
 
 ## TRANSITORIOS
 
@@ -282,3 +310,11 @@ P.O. 23 DE MARZO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-154 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3; 4 PÁRRAFO 1; 6 PÁRRAFO 1; 7 INCISOS E), H), J), L) Y M); 21 PÁRRAFO 3; Y 22; SE ADICIONAN LOS INCISOS N) Y Ñ) Y SE DEROGA EL INCISO I) DEL ARTÍCULO 7, DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
