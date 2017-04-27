@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2016-12-26"
+last_updated: "2017-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ABRIL DE 2017.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -2101,6 +2101,8 @@ Además de lo previsto en el presente capítulo, se observará lo dispuesto en l
 
 ### CAPITULO QUINTO. DE LAS CONCESIONES SOBRE LOS BIENES DE DOMINIO PUBLICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE ABRIL DE 2017)</small>
+
 ###### Artículo 188.
 
 Son bienes de dominio público municipal:
@@ -2149,7 +2151,9 @@ VII. Los demás clasificados por otros ordenamientos como tales.
 
 Son bienes destinados a un servicio público:
 
-I. Los inmuebles destinados a las dependencias y oficinas municipales;
+> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2017)</small>
+
+I. Los inmuebles destinados a los servicios que prestan las dependencias y oficinas municipales, estatales y federales.
 
 II. Los inmuebles afectos a los servicios públicos municipales;
 
@@ -2227,9 +2231,31 @@ Los recursos que se obtengan por la enajenación del vehículo se destinarán, e
 
 En el procedimiento de declaratoria de abandono de vehículos a favor del Municipio, se aplicarán supletoriamente las disposiciones del procedimiento administrativo previsto en el Título Décimo Cuarto de este ordenamiento.
 
+> <small>(REFORMADO, B.O. 27 DE ABRIL DE 2017)</small>
+
 ###### Artículo 197.
 
-Los bienes de dominio privado de los municipios se destinarán prioritariamente al servicio de las diversas dependencias y entidades de la administración municipal.
+Los bienes del patrimonio inmobiliario municipal, se destinarán prioritariamente al servicio de las dependencias y entidades de la administración pública municipal; pudiendo destinarse a otras instituciones públicas del gobierno federal y estatal, mediante acuerdo administrativo, en el que se especificará la institución destinataria y el uso autorizado.
+
+Se podrá destinar un mismo inmueble municipal para el servicio de distintas instituciones públicas, siempre que con ello se cumplan los requisitos de dichas instituciones y se permita un uso adecuado del bien por parte de las mismas.
+
+Corresponde a los ayuntamientos emitir el acuerdo administrativo de destino de inmuebles municipales. Los usos que se den a los inmuebles municipales, deberán ser compatibles con los previstos en las disposiciones en materia de planeación del territorio y desarrollo urbano del municipio que corresponda.
+
+> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 197 Bis.
+
+Para resolver sobre el destino de un inmueble, los ayuntamientos, en el ámbito de sus respectivas competencias, deberán tomar en cuenta por lo menos:
+
+I.- Las características del bien;
+
+II.- El plano topográfico correspondiente; y
+
+III.- La compatibilidad del uso para el que se requiere, con el uso de suelo establecido en la zona.
+
+Las instituciones destinatarias podrán asignar y reasignar entre sus unidades administrativas y órganos desconcentrados, los espacios de los inmuebles que le hubiesen sido destinados, siempre y cuando no se le dé un uso distinto al autorizado en el acuerdo de destino e iniciar la utilización del inmueble que se destine a su servicio, dentro de un plazo de seis meses contado a partir del momento en que se ponga a su disposición.
+
+El destino únicamente confiere a la institución destinaria el derecho de usar el inmueble destinado en el uso autorizado, pero no transmite la propiedad del mismo, ni otorga derecho real alguno sobre él. Las instituciones destinatarias no podrán realizar ningún acto de enajenación sobre los inmuebles destinados. La inobservancia de esta disposición producirá la nulidad del acto relativo al destino y el Ayuntamiento podrá proceder a la ocupación administrativa del inmueble.
 
 ###### Artículo 198.
 
@@ -2239,17 +2265,29 @@ I. Transmisión del dominio a título oneroso o gratuito, según el caso, de con
 
 II. Enajenación directa en forma onerosa de bienes inmuebles fuera de subasta, cuando se trate de satisfacer necesidades de suelo urbano para vivienda, o bien, cuando así lo determine ese cuerpo colegiado por mayoría calificada;
 
-III. Permuta con las entidades o dependencias del gobierno federal o estatal, de inmuebles que por su ubicación, características y aptitudes satisfagan necesidades de las partes;
+> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2017)</small>
+
+III. Permuta con las entidades o dependencias de los gobiernos federal, estatal o municipal, de inmuebles que por su ubicación, características y aptitudes satisfagan necesidades de las partes o con particulares, cuando se satisfagan necesidades de interés público.
 
 IV. Enajenación a título oneroso, para la adquisición de otros inmuebles que se requieran para la atención de los servicios a cargo de las dependencias y entidades de la administración municipal;
 
 V. Donación al gobierno federal o estatal, para que utilicen los inmuebles en los servicios públicos locales, en fines educativos o de asistencia social;
 
-VI. Arrendamiento, donación o comodato a favor de asociaciones o instituciones privadas que realicen actividades de interés social y que no persigan fines de lucro;
+> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2017)</small>
 
-VII. Enajenación a título oneroso, a favor de personas de derecho privado que requieran disponer de dichos inmuebles para la creación, fomento o conservación de una empresa que beneficie a la colectividad; y
+VI. Arrendamiento, donación o comodato a favor de asociaciones o instituciones privadas que realicen actividades de interés social y que no persigan fines de lucro o a favor de adultos mayores;
 
-VIII. Enajenación o donación en los demás casos en que se justifique en los términos de esta Ley.
+> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2017)</small>
+
+VII. Enajenación a titulo oneroso, a favor de personas de derecho privado que requieran disponer de dichos inmuebles para la creación, fomento o conservación de una empresa que beneficie a la colectividad;
+
+> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2017)</small>
+
+VIII. Enajenación, donación o cualesquiera de los actos de disposición señalados en éste artículo, siempre que se justifique en los términos de esta Ley; y
+
+> <small>(ADICIONADA, B.O. 27 DE ABRIL DE 2017)</small>
+
+IX. Destino al servicio de los gobiernos federal, estatal o municipal para que utilicen los inmuebles en los servicios públicos locales.
 
 ###### Artículo 199.
 
@@ -2321,13 +2359,17 @@ IV. El promedio de sus ingresos, a fin de que pueda calcularse, la posibilidad d
 
 V. La no propiedad de bienes inmuebles. Si el que tenga interés demuestra que quien hizo la compra era propietario de bienes inmuebles, la enajenación estará afectada de nulidad absoluta.
 
-Cumplidos los requisitos arriba expuestos y mediando solicitud, el Síndico Municipal podrá celebrar promesas de compra-venta sobre los lotes del patrimonio municipal en tanto el Ayuntamiento autoriza la respectiva enajenación.
+> <small>(REFORMADO, B.O. 27 DE ABRIL DE 2017)</small>
+
+Cumplidos los requisitos arriba expuestos y exceptuando el requisito de la fracción III para los adultos mayores, mediando solicitud, el síndico municipal podrá celebrar promesas de compraventa sobre los lotes de patrimonio municipal en tanto el Ayuntamiento autoriza la respectiva enajenación.
+
+> <small>(REFORMADO, B.O. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 205.
 
-En las enajenaciones de inmuebles que realice el Ayuntamiento en los términos del artículo anterior, no se requerirá el otorgamiento de escritura ante Notario. El documento que contenga la enajenación tendrá el carácter de escritura pública y deberá ser suscrito por el Presidente Municipal, el Secretario del Ayuntamiento, el Síndico Municipal y el particular respectivo.
+En las enajenaciones de inmuebles que realice el Ayuntamiento en los términos del artículo anterior y además respecto de los actos de administración y disposición a que se refiere el artículo 198 de esta Ley, no se requerirá el otorgamiento de escritura ante Notario. El documento que contenga los actos de referencia, tendrá el carácter de escritura pública y deberá ser suscrito por el Presidente Municipal, el Secretario del Ayuntamiento, el Síndico Municipal y el particular respectivo.
 
-El documento que contenga dicha enajenación, deberá ser inscrito en el Registro Público de la Propiedad que corresponda, dentro de los quince días siguientes a su suscripción, previas las gestiones que para tal efecto deberá realizar el Síndico Municipal. Será causa de responsabilidad del Síndico Municipal, en los términos de Ley, el incumplimiento de lo antes establecido.
+Dichos actos deberán ser inscritos en el Registro Público de la Propiedad que corresponda, dentro de los quince días siguientes a su suscripción, previas las gestiones que para tal efecto deberá realizar el Síndico Municipal. Será causa de responsabilidad del Síndico Municipal, en los términos de Ley, el incumplimiento de lo antes establecido.
 
 ###### Artículo 206.
 
@@ -2365,7 +2407,7 @@ Cuando se requiera afectar un bien inmueble de propiedad privada, que por su ubi
 
 ###### Artículo 214.
 
-Los derechos sobre la explotación, uso y aprovechamiento de los bienes inmuebles del dominio público municipal, se adquirirán mediante el otorgamiento de las concesiones respectivas, mismas que no confieren derechos reales, otorgan simplemente frente a la administración y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamientos o explotaciones de acuerdo con las reglas y condiciones que establezcan las leyes y el documento que contenga la concesión.
+Los Ayuntamientos podrán otorgar a los particulares derechos sobre la explotación, uso y aprovechamiento de los bienes inmuebles del dominio público municipal, mediante el otorgamiento de las concesiones, mismas que no confieren derechos reales, otorgan simplemente frente a la administración y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamientos o explotaciones de acuerdo con las reglas y condiciones que establezca ésta ley, los reglamentos municipales y el documento que contenga la concesión.
 
 > <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -2605,7 +2647,7 @@ I. Se advierta que existan o pudieren existir actos contrarios a las disposicion
 
 II. Con la suspensión no se cause perjuicio al interés social y no se contravengan disposiciones de orden público.
 
-Cuando sea el inconforme quien solicite la suspensión, éste deberá garantizar los daños y perjuicios que pudiere ocasionar, mediante fianza por el monto que fije el Organo de Control y Evaluación Gubernamental, de conformidad con los lineamientos que al efecto expida; sin embargo, el tercero perjudicado podrá dar contra fianza equivalente a la que corresponda a la fianza, en cuyo caso quedará sin efecto la suspensión.
+Cuando sea el inconforme quien solicite la suspensión, éste deberá garantizar los daños y perjuicios que pudiere ocasionar, mediante fianza por el monto que fije el Órgano de Control y Evaluación Gubernamental, de conformidad con los lineamientos que al efecto expida; sin embargo, el tercero perjudicado podrá dar contra fianza equivalente a la que corresponda a la fianza, en cuyo caso quedará sin efecto la suspensión.
 
 ###### Artículo 253.
 
@@ -3277,7 +3319,7 @@ De suspenderse o revocarse el mandato de quien funja como Presidente Municipal, 
 
 ###### Artículo 342.
 
-Si la persona que resulte electa para ocupar el cargo de Presidente Municipal no compareciera en el lugar, día y hora fijadas para la instalación del Ayuntamiento, se comunicará de inmediato tal situación al Congreso del Estado para que designe de entre los restantes miembros del Ayuntamiento a quien fungirá como Presidente Municipal.
+Si la persona que resulte electa para ocupar el cargo de Presidente Municipal no compareciera en el lugar, día y hora fijadas (sic) para la instalación del Ayuntamiento, se comunicará de inmediato tal situación al Congreso del Estado para que designe de entre los restantes miembros del Ayuntamiento a quien fungirá como Presidente Municipal.
 
 ## TITULO DECIMO PRIMERO. DE LA FACULTAD REGLAMENTARIA
 
@@ -4158,3 +4200,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Hacienda del Estado deberá emitir y publicar en el Boletín Oficial del Gobierno del Estado, dentro de los 180 días hábiles posteriores a la entrada en vigor del presente Decreto, los lineamientos y metodología para la elaboración del análisis de costo-beneficio a que se refiere el artículo 21 de la Ley de Alianzas Público Privadas de Servicios del Estado de Sonora.
+
+B.O. 27 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 116, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL".]
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación ele (sic) Boletín Oficial del Gobierno del Estado de Sonora.
