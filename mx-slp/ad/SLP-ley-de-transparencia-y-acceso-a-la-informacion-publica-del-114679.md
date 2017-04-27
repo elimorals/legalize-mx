@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2016-10-06"
+last_updated: "2017-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -465,7 +465,7 @@ El Congreso del Estado, deberá otorgar un presupuesto adecuado y suficiente a l
 
 ###### ARTÍCULO 33.
 
-La CEGAIP, a través de su Comisionado Presidente, presentará por escrito dentro de los primeros dos meses del año, un informe anual actividades (sic), que entregará a los poderes del Estado; y comparecerá ante la Comisión de Transparencia y Acceso a la Información Pública del Poder Legislativo, dentro de los treinta días naturales siguientes a su presentación, para exponer el informe en el Congreso del Estado y recibir de los legisladores, opiniones, preguntas, y sugerencias respecto de los resultados de su desempeño. Dicha comparecencia será difundida en la forma más amplia posible para conocimiento de la sociedad.
+La CEGAIP, a través de su Comisionado Presidente, presentará por escrito dentro de los primeros dos meses del año, un informe anual (sic) actividades, que entregará a los poderes del Estado; y comparecerá ante la Comisión de Transparencia y Acceso a la Información Pública del Poder Legislativo, dentro de los treinta días naturales siguientes a su presentación, para exponer el informe en el Congreso del Estado y recibir de los legisladores, opiniones, preguntas, y sugerencias respecto de los resultados de su desempeño. Dicha comparecencia será difundida en la forma más amplia posible para conocimiento de la sociedad.
 
 Antes de comenzar la comparecencia, el Secretario de la Comisión de Transparencia y Acceso a la Información Pública del Poder Legislativo, protestará al Comisionado Presidente para que se conduzca con verdad, advirtiéndole de las penas en que incurren aquellos que lo hagan con falsedad.
 
@@ -1022,6 +1022,10 @@ III. Justicia Abierta.
 ###### ARTÍCULO 74.
 
 Los sujetos obligados deben poner a disposición de los particulares la información a que se refiere este Título en su página de internet y en la Plataforma Nacional de Transparencia, como lo dispone (sic) los artículos 49 y 60 de la Ley General.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+El dominio de internet correspondiente a las páginas electrónicas de los sujetos obligados, deberá ser registrado a nombre de la institución vinculada a dicha página y, en ningún caso, a nombre de la persona quien haya realizado el trámite.
 
 ###### ARTÍCULO 75.
 
@@ -2930,3 +2934,11 @@ P.O. 6 DE OCTUBRE DE 2016.
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0612.- SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO 74, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
