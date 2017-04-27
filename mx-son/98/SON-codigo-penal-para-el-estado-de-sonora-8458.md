@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2016-12-19"
+last_updated: "2017-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ABRIL DE 2017.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -3117,7 +3117,7 @@ Se impondrán de seis meses a cinco años de prisión y de diez a doscientos dí
 
 ### CAPITULO II. ALLANAMIENTO DE MORADA Y ASALTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 27 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 232.
 
@@ -3355,9 +3355,17 @@ Si el amenazador exigía que el amenazado ejecutara un delito y consigue su prop
 
 ###### ARTICULO 240.
 
-Se impondrá prisión de un mes a cuatro años y de diez a ciento cincuenta días multa, al que, sin motivo justificado, sin orden de autoridad competente y fuera de los casos en que la ley lo permita, se introduzca con engaños o sin permiso de la persona autorizada para darlo, a un departamento, vivienda, aposento o dependencia de casa habitada.
+Se impondrá prisión de dos a diez años y de cien a ciento cincuenta unidades de medida y actualización, al que, sin motivo justificado, sin orden de autoridad competente y fuera de los casos en que la ley lo permita, se introduzca, furtivamente o con engaño o violencia, o sin permiso de la persona autorizada para darlo, a una posesión o propiedad habitada o deshabitada, a un departamento, vivienda, finca, edificio, predio, rancho, parcela, milpa, baldío, patio, terreno, casa móvil, aposento o dependencias de una casa habitación, o cualquier inmueble que sirva de albergue, residencia, hogar o morada de las personas. El presente delito será oficioso, sin perjuicio de la aplicación de las reglas del concurso previstas en este Código.
 
-Igual sanción se aplicará al que permanezca en los lugares señalados en este artículo con engaño o contra la voluntad expresa de la persona autorizada para ello.
+El delito a que se refiere el artículo anterior se aumentara la sanción con prisión de tres a doce años y hasta mil unidades de medida y actualización, a la persona que al momento de allanar una morada realice alguno de los siguientes actos:
+
+I.- Cuando el allanamiento se ejecute utilizando armas de fuego;
+
+II.- Empleándose violencia en las personas;
+
+III.- Cuando el allanamiento se realice de noche o por dos o más personas; o
+
+IV.- Valiéndose de identificaciones falsas o supuestas órdenes provenientes de alguna autoridad violente el domicilio.
 
 ###### ARTICULO 241.
 
@@ -5138,3 +5146,11 @@ B.O. 19 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 124, QUE REFORMA EL ARTÍCULO 240 DEL CÓDIGO PENAL DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
