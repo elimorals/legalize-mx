@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asociaciones-publico-privadas-en-proyectos-para-la-88737
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-12"
-last_updated: "2016-10-06"
+last_updated: "2017-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 12 de junio de 2012.
 
@@ -51,11 +51,11 @@ LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVIC
 
 La presente ley es de orden público y tiene por objeto regular la planeación, programación, presupuestación, autorización, adjudicación, contratación, ejecución y control de los proyectos para la prestación de servicios que competen a las dependencias y entidades de la administración pública estatal y municipal, con la participación del sector privado.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
 ###### Artículo 2.
 
-Las disposiciones de ésta ley no se aplicarán a aquellas áreas de la gestión pública estatal o municipal, en las que por disposición constitucional o de ley ordinaria, la función inherente corresponda en forma exclusiva a la administración pública estatal o municipal, sea central o descentralizada.
-
-La contratación de proyectos para la prestación de servicios que realicen la administración pública estatal o municipal, con cargo total o parcial a fondos del Presupuesto de Egresos de la Federación, estará sujeta a la normatividad federal en la materia y, en lo conducente, a lo dispuesto por este ordenamiento, así como a lo pactado en los convenios y acuerdos de coordinación que se celebren.
+Las disposiciones de la ley federal de la materia serán aplicables a los proyectos de asociaciones público-privadas que realicen las dependencias y entidades de la administración pública estatal y municipal, aquellos casos y en la medida que así lo establezca la propia ley federal, sin perjuicio de los convenios y acuerdos de coordinación que se celebren.
 
 ###### Artículo 3.
 
@@ -83,17 +83,27 @@ j) Garantía estatal: la afectación por parte de la administración pública es
 
 k) Inversionista-proveedor: la persona física o moral que celebre un contrato para la prestación de servicios en los términos de esta ley;
 
-l) Largo plazo: La vigencia de un contrato para la prestación de servicios en los términos de esta ley, que podrá ser hasta de treinta años;
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+l) Largo plazo: la vigencia de un contrato para la prestación de servicios en los términos de esta Ley, que podrá ser hasta de cuarenta años, pudiéndose ampliar hasta por un término del cincuenta por ciento más del período original del contrato, previa autorización del Congreso;
 
 m) Licitante: la persona física o moral del sector privado que participe en cualquier procedimiento de licitación pública o de invitación restringida para el desarrollo de un proyecto;
 
 n) Programa: el Programa Estatal de Infraestructura;
 
-o) Proyecto: el proyecto para la prestación de servicios desarrollado por una dependencia o entidad, mediante la contratación de un inversionista-proveedor que se obliga a prestar a largo plazo uno o más servicios, incluyendo descriptivamente el diseño, disponibilidad de espacios, operación, mantenimiento y administración de bienes, sean propiedad del Gobierno del Estado, de cualquiera de sus Municipios o de alguna entidad estatal o municipal, o bienes muebles o inmuebles que el inversionista-proveedor construya o provea por sí o a través de un tercero, a cambio de una contraprestación por el servicio prestado y conforme a su desempeño; y
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
 
-p) Secretaría: la Secretaría de Finanzas del Gobierno del Estado.
+o) Proyecto: el proyecto para la prestación de servicios desarrollado por una dependencia o entidad, mediante la contratación de un inversionista-proveedor que se obliga a prestar a largo plazo uno o más servicios, incluyendo descriptivamente el diseño, disponibilidad de espacios, operación, mantenimiento y administración de bienes, sean propiedad del Gobierno del Estado, de cualquiera de sus Municipios o de alguna entidad estatal o municipal, o bienes muebles o inmuebles que el inversionista-proveedor construya o provea por sí o a través de un tercero, a cambio de una contraprestación por el servicio prestado y conforme a su desempeño;
 
-q) Tesorería: la Tesorería de los Ayuntamientos de la Entidad.
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+p) Proyectos autofinanciables: proyectos de utilidad pública, financiados en su totalidad mediante inversión privada, y que deberán de ser aprobados por las dependencias estatales o municipales para su ejecución;
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+q) Secretaría: la Secretaría de Finanzas del Gobierno del Estado, y
+
+r) Tesorería: la Tesorería de los Ayuntamientos de la Entidad.
 
 ###### Artículo 4.
 
@@ -101,11 +111,11 @@ En la aplicación de esta ley, las dependencias y entidades deberán observar qu
 
 Al aplicar este ordenamiento, las dependencias y entidades observarán las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
 ###### Artículo 5.
 
-En lo no previsto por esta ley se aplicarán supletoriamente, en lo conducente, la Ley de Planeación del Estado y Municipios de San Luis Potosí, la Ley de Presupuesto, Contabilidad y Gasto Público del Estado, la Ley de Deuda Pública del Estado y Municipios de San Luis Potosí, la Ley de Presupuesto, Contabilidad y Gasto Público para los Municipios del Estado de San Luis Potosí, la Ley de Adquisiciones del Estado, el Código Civil y el Código de Procedimientos Civiles, ambos del Estado de San Luis Potosí.
-
-Para efectos administrativos, la interpretación de esta ley corresponde a la Secretaría y a la Contraloría, respectivamente, en el ámbito de sus atribuciones. En el ámbito municipal, la interpretación corresponderá a las Tesorerías.
+En lo no previsto por esta Ley se aplicarán supletoriamente, en lo conducente, la Ley de Disciplina Financiera de Entidades Federativas y Municipios; la Ley de Planeación del Estado y Municipios de San Luis Potosí; la Ley de Presupuesto y Responsabilidad Hacendaria del Estado (sic) Municipios de San Luis Potosí; la Ley de Deuda Pública del Estado y Municipios de San Luis Potosí; la Ley de Adquisiciones del Estado de San Luis Potosí; la Ley de Adquisiciones del Estado de San Luis Potosí; y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ## TÍTULO SEGUNDO. Del Programa Estatal de Infraestructura
 
@@ -119,13 +129,19 @@ El Programa contendrá el diagnóstico de la infraestructura pública existente 
 
 En sus respectivos ejercicios de planeación, presupuestación y programación, las dependencias y entidades se sujetarán a lo establecido en el Programa para las acciones que a cada una corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2017)</small>
+
 ###### Artículo 7.
 
-El Programa hará referencia a la necesidad de infraestructura pública en el largo plazo y planteará opciones para su ejecución, señalándose aquéllas que puedan realizarse a través de asociaciones público-privadas en proyectos para la prestación de servicios.
+El Programa hará referencia a la necesidad de infraestructura pública en el largo plazo, y planteará opciones para la ejecución. Las asociaciones público privadas en proyectos para la prestación de servicios se entenderán como una opción, siempre que se obtengan las autorizaciones referidas en términos de esta Ley.
 
 Cuando en la iniciativa de Decreto del Presupuesto de Egresos del Estado se plantee la asignación de recursos para proyectos previstos en esta ley, el Ejecutivo del Estado señalará la naturaleza y alcances del proyecto en el Programa. De igual manera, los ayuntamientos tendrán la misma obligación en su caso, en sus presupuestos de egresos respectivos.
 
 En las iniciativas de decretos de los Presupuestos de Egresos del Estado o de los Municipios, se incluirán los proyectos de desarrollo e inversión en infraestructura cuya realización requiera de previsiones presupuestales multianuales. La aprobación de las asignaciones presupuestales relativas a dichos proyectos vincula a su inclusión en las asignaciones de gasto público necesarias para su culminación en los subsiguientes presupuestos de egresos.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+Los proyectos deberán ser congruentes y estar alineados con los objetivos y metas del Plan Estatal de Desarrollo, así como con los del Programa Estatal de Infraestructura que, en su caso, hubiere presentado el Ejecutivo.
 
 ## TÍTULO TERCERO. De los Proyectos para la Prestación de Servicios
 
@@ -141,9 +157,21 @@ b) Los servicios que se presten a la dependencia o entidad que contrate deberán
 
 c) Los particulares interesados deberán prestar los servicios con activos propios, activos de un tercero privado que otorgue título legal para poder hacer uso de los mismos o bienes públicos, siempre que éstos hayan sido legítimamente otorgados para su utilización, a los particulares interesados;
 
-d) La adopción por parte de los particulares interesados de la responsabilidad de la inversión y el financiamiento, en su caso, necesarios para el desarrollo del proyecto; y
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
 
-e) La elaboración del estudio de costo-beneficio a que se refiere esta ley.
+d) La adopción por parte de los particulares interesados de la responsabilidad de la inversión y el financiamiento, en su caso, necesarios para el desarrollo del proyecto;
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+e) La elaboración del estudio de costo-beneficio a que se refiere esta ley, y
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+f) No se podrá contraer obligaciones derivadas de Contratos de Proyectos frente a gobiernos de otras naciones, con sociedades o particulares extranjeros, ni obligaciones pagaderas en moneda extranjera o fuera del territorio nacional. Lo anterior, sin perjuicio de que se podrá contraer obligaciones derivadas de Contratos de Proyectos frente a personas morales constituidas bajo las leyes de los Estados Unidos Mexicanos, que tengan participación directa o indirecta de capital extranjero, siempre que en los estatutos de dicha sociedad se incluya el convenio ante la Secretaría de Relaciones a que se refiere el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y, sujeto en cualquier caso, a lo establecido por la Ley de Inversión Extranjera.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+Al dar cumplimiento a los requisitos antes señalados, y a las disposiciones del Título Quinto de la presente Ley, se entenderá que el Proyecto correspondiente se contrata en las mejores condiciones de mercado, para efectos de lo estipulado (sic) el artículo 27 de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios. Una vez adjudicado y formalizado el Contrato del Proyecto, la Secretaría o la Tesorería, según corresponda, confirmarán que dicho Contrato fue celebrado en las mejores condiciones del mercado.
 
 ###### Artículo 9.
 
@@ -175,17 +203,25 @@ En tratándose de la administración pública estatal, el Ejecutivo del Estado p
 
 En la planeación de los proyectos, las dependencias y entidades se ajustarán a lo siguiente:
 
-a) La Ley de Planeación del Estado;
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+a) La Ley de Planeación del Estado y Municipios de San Luis Potosí;
 
 b) Los objetivos y metas del Plan Estatal de Desarrollo, o de los Planes Municipales de Desarrollo, en su caso;
 
-c) Los objetivos y metas del Programa Estatal de Infraestructura;
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
 
-d) Los objetivos y metas de los diversos programas que conforme a la Ley Estatal de Planeación deriven del Plan Estatal de Desarrollo; y
+c) Los objetivos y metas del Programa Estatal de Infraestructura, en su caso;
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+d) Los objetivos y metas de los diversos programas que conforme a la Ley Estatal de Planeación del Estado y Municipios de San Luis Potosí, deriven del Plan Estatal de Desarrollo o de los Planes Municipales de Desarrollo, en su caso; y
 
 e) Los objetivos, metas y previsiones de recursos establecidos en sus respectivos presupuestos de egresos.
 
-La asignación de recursos públicos destinados a las asociaciones público-privadas en proyectos para la prestación de servicios, se rige por las disposiciones de esta ley, de la Ley de Planeación del Estado y la Ley de Presupuesto, Contabilidad y Gasto Público.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+La asignación de recursos públicos destinados a las asociaciones público-privadas en proyectos para la prestación de servicios, se rige por las disposiciones de esta Ley; de la Ley de Planeación del Estado y Municipios de San Luis Potosí; de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí; y de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ### Capítulo III. Supuestos presupuestales de una solicitud de Proyecto
 
@@ -235,15 +271,21 @@ En el caso de la administración municipal, si la Tesorería estima procedente l
 
 La garantía estatal será contingente y no representará una obligación incondicional de pago, por lo que no tendría el carácter de deuda pública. La Secretaría preferirá el otorgamiento de la garantía estatal mediante la creación de fideicomisos de garantía o fuente de pago alterna.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
 ###### Artículo 18.
 
-Las dependencias o entidades informarán a la Secretaría o a la Tesorería Municipal, en su caso, de las eventuales necesidades de modificaciones del contrato, en virtud de cambios sobre la naturaleza o alcance del proyecto, cuando dicha modificación implique un incremento en la contraprestación que deba pagar la dependencia o entidad correspondientes.
+Las dependencias o entidades informarán a la Secretaría o a la Tesorería Municipal, en su caso, de las eventuales necesidades de modificaciones del contrato, en virtud de cambios sobre la naturaleza o alcance del proyecto, o de las circunstancias del mismo, cuando dicha modificación implique un incremento en la contraprestación que deba pagar la dependencia o entidad correspondientes (sic), o bien, una prórroga del plazo originalmente previsto.
 
-Conforme a lo dispuesto en el párrafo anterior, las dependencias o entidades solicitarán la aprobación de un incremento presupuestal, y deberá analizarse y evaluarse por la Secretaría o la Tesorería Municipal cuando corresponda, la viabilidad del mismo conforme a lo estipulado en el contrato y los compromisos adquiridos por la dependencia o entidad correspondiente.
+Conforme a lo dispuesto en el párrafo anterior, las dependencias o entidades solicitarán la aprobación de un incremento presupuestal y/o prórroga del plazo, y deberá analizarse y evaluarse por la Secretaría o la Tesorería Municipal cuando corresponda, la viabilidad del mismo conforme a lo estipulado en el contrato y los compromisos adquiridos por la dependencia o entidad correspondiente.
 
-De estimar pertinente la solicitud de incremento, tratándose de la administración estatal, la Secretaría someterá a la aprobación del Ejecutivo del Estado la autorización del aumento presupuestal con el señalamiento de las partidas del gasto público susceptibles de afectación dentro del ejercicio del Presupuesto de Egresos del año fiscal correspondiente. Tratándose de la administración municipal, la tesorería someterá a la aprobación del Cabildo respectivo la autorización del aumento presupuestal con el señalamiento de las partidas del gasto público susceptibles de afectación dentro del ejercicio del Presupuesto de Egresos del año fiscal correspondiente.
+De estimar pertinente la solicitud correspondiente, tratándose de la administración estatal, la Secretaría someterá a la aprobación del Ejecutivo del Estado, la autorización de que se trate, indicando el aumento presupuestal con el señalamiento de las partidas del gasto público susceptibles de afectación dentro del ejercicio del Presupuesto de Egresos del año fiscal correspondiente.
 
-De obtenerse la autorización prevista en el párrafo anterior, la dependencia o entidad establecerá lo conducente en el proceso de presupuestación de los ejercicios fiscales subsecuentes, a fin de que se contemple en las respectivas iniciativas de Decreto del Presupuesto de Egresos y en la preferencia que conforme a esta ley tendrán dichas erogaciones.
+Tratándose de la administración municipal, la tesorería someterá a la aprobación del Cabildo respectivo, la autorización del aumento presupuestal, con el señalamiento de las partidas del gasto público susceptibles de afectación dentro del ejercicio del Presupuesto de Egresos del año fiscal correspondiente.
+
+De obtenerse la autorización prevista en el párrafo anterior, la dependencia o entidad establecerá lo conducente en el proceso de presupuestación de los ejercicios fiscales subsecuentes, a fin de que se contemple en las respectivas iniciativas de Decreto del Presupuesto de Egresos y en la preferencia que conforme a esta Ley tendrán dichas erogaciones.
+
+La modificación de los contratos en términos de este artículo requerirá aprobación del Congreso, cuando se trate de prórrogas de plazo de contratos que cuenten con Garantía Estatal, y ésta se pretenda extender durante parte o la totalidad de la prórroga.
 
 ### Capítulo IV. Bienes para la realización del Proyecto
 
@@ -319,9 +361,19 @@ d) El estudio de costo-beneficio;
 
 e) El procedimiento de adjudicación que se seguirá y la justificación del mismo, previéndose la participación que corresponda al Comité de Proyectos;
 
-f) La presentación de los principales elementos que deberá contener el contrato, considerándose al menos los siguientes elementos: la descripción de los servicios que prestará el inversionista-proveedor; la situación jurídica de los bienes necesarios para que el inversionista-proveedor preste los servicios a contratarse; la duración del contrato; el precio que pagará la dependencia o entidad anualmente por los servicios contratados durante la vigencia del contrato; la descripción y análisis de los principales riesgos que asumirán la dependencia o entidad y el inversionista-proveedor, así como las consecuencias económicas para ambas partes de producirse esos riesgos; y las obligaciones de pago que asumirán las partes en caso de terminación anticipada o rescisión del contrato; y
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
 
-g) La solicitud de otorgamiento de la garantía estatal o municipal, según corresponda, en su caso.
+f) La presentación de los principales elementos que deberá contener el contrato, considerándose al menos los siguientes elementos: la descripción de los servicios que prestará el inversionista-proveedor; la situación jurídica de los bienes necesarios para que el inversionista-proveedor preste los servicios a contratarse; la duración del contrato; el precio que pagará la dependencia o entidad anualmente por los servicios contratados durante la vigencia del contrato; la descripción y análisis de los principales riesgos que asumirán la dependencia o entidad y el inversionista-proveedor, así como las consecuencias económicas para ambas partes de producirse esos riesgos; y las obligaciones de pago que asumirán las partes en caso de terminación anticipada o rescisión del contrato;
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+g) La solicitud de otorgamiento de la garantía estatal o municipal, según corresponda, en su caso, y
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+h) Un análisis de conveniencia para llevar a cabo el proyecto, a través del esquema de asociación público privada, en comparación con un mecanismo de obra pública tradicional, así como un análisis de transferencia de riesgos al sector privado.
+
+Dichos análisis deberán hacerse públicos, a través de las páginas oficiales de internet de la Secretaría o la Tesorería, según corresponda, una vez que dichas dependencias emitan el dictamen a que se refiere el artículo 10 de la presente Ley.
 
 Si la dependencia o entidad omite presentar alguna información prevista en el párrafo anterior, la Secretaría podrá otorgar un plazo de cinco días hábiles para que se integre la misma. Una vez transcurrido el plazo sin haberse subsanado la omisión, la solicitud se tendrá por no formulada.
 
@@ -331,7 +383,13 @@ Una vez formulada la solicitud de autorización de un proyecto, la Secretaría o
 
 En el supuesto de que por la complejidad del proyecto, la Secretaría requiera de mayor tiempo para formular el dictamen, su titular lo acordará previa justificación de las razones que lo motivan, pero la extensión del plazo no será por más de treinta días hábiles.
 
-Otorgada la autorización del proyecto en los términos de los párrafos precedentes, el Gobernador del Estado, en el caso de las entidades estatales, o el Ayuntamiento correspondiente, deberán solicitar la aprobación del Congreso del Estado, remitiendo con dicha solicitud además de la autorización respectiva, la información a que se refiere el artículo 25. Y hasta en tanto no se obtenga la aprobación del Congreso del Estado, no podrá implementarse el proyecto.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+Otorgada la autorización del proyecto en los términos de los párrafos precedentes, el Gobernador del Estado, en el caso de las entidades estatales, o el Ayuntamiento correspondiente, deberán solicitar la aprobación del Congreso, remitiendo con dicha solicitud además de la autorización respectiva, la información a que se refiere el artículo 25 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+Y hasta en tanto no se obtenga la aprobación del Congreso otorgada por una mayoría de al menos, dos terceras partes de los miembros presentes, no podrá implementarse el proyecto. Para el otorgamiento de su aprobación, el Congreso deberá realizar previamente un análisis de la capacidad de pago de la dependencia o entidad a cuyo cargo estaría el compromiso de pago del Proyecto, del destino del Proyecto, y de la constitución de la fuente de pago o garantía, en su caso. La aprobación del Congreso deberá especificar, por lo menos, el monto autorizado de los compromisos de pago derivados del Proyecto; el plazo máximo autorizado para el pago; el destino de los recursos; la fuente de pago o garantía, en su caso, y la vigencia de la autorización, que no podrá exceder el ejercicio fiscal siguiente. De no establecer una vigencia específica, se entenderá que la aprobación sólo se podrá ejercer en el ejercicio fiscal en que fue aprobada.
 
 ### Capítulo VIII. Administración del Proyecto
 
@@ -395,7 +453,9 @@ El modelo de contrato contemplará, al menos, los elementos siguientes:
 
 I. Con relación a sus antecedentes:
 
-a) La inclusión del proyecto en el Programa Estatal de Infraestructura; y
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+a) La justificación de congruencia entre el Proyecto y los objetivos y metas del Plan Estatal de Desarrollo y planes municipales, en su caso, y los programas que, en su caso, se deriven del mismo, y
 
 b) Las características del procedimiento de adjudicación del contrato; y
 
@@ -793,13 +853,179 @@ k) Aquellas que se encuentren impedidas para ello por disposición de ley.
 
 La dependencia o entidad podrá abstenerse de recibir propuestas, invitar, adjudicar o celebrar contratos de un proyecto para la prestación de servicios con cualquier persona a quien por causas imputables a la misma, la Federación o una entidad federativa le haya rescindido algún contrato similar al que implique el procedimiento de adjudicación.
 
-### Capítulo I. Generalidades
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE ABRIL DE 2017)</small>
 
-### Capítulo II. De la ejecución del contrato
+### Capítulo VI. De los Proyectos No Solicitados
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 58 Bis.
+
+En los órdenes estatal y municipal cualquier interesado en realizar un Proyecto, podrá presentar su propuesta de proyecto a la dependencia o entidad estatal o municipal competente.
+
+Para efecto de lo anterior, las dependencias o entidades podrán emitir un acuerdo que se publicará en el Periódico Oficial del Gobierno del Estado, "Plan de San Luis", y en su página de internet, señalando los sectores, subsectores, ámbitos geográficos, tipo de proyectos, su vinculación con los objetivos, estrategias y prioridades contenidos en el Plan Estatal de Desarrollo o en los Planes Municipales de Desarrollo, según sea el caso, y demás elementos de las propuestas que estén dispuestas a recibir, las cuales podrán ser adicionales a aquellas a que se refiere el artículo 7 de la presente Ley.
+
+En estos casos sólo se procederá al análisis de las propuestas que atiendan los elementos citados.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 58 Ter.
+
+Sólo se analizarán los Proyectos que cumplan con los requisitos siguientes:
+
+I. Se presenten acompañados con el estudio preliminar de factibilidad, que deberá incluir los aspectos siguientes:
+
+a) Descripción del proyecto que se propone, con sus características y viabilidad técnicas;
+
+b) Descripción de las autorizaciones para la ejecución de la obra que, en su caso, resultarían necesarias, con especial mención a las autorizaciones de uso de suelo de los inmuebles de que se trate, sus modificaciones y la eventual problemática de adquisición de éstos;
+
+c) La viabilidad jurídica y ambiental del proyecto;
+
+d) En su caso, la rentabilidad social del proyecto;
+
+e) Las estimaciones de inversión y aportaciones, en efectivo y en especie, tanto estatales, municipales y de los particulares, así como, en su caso, federales, en las que se haga referencia al costo estimado de adquisición de los inmuebles, bienes y derechos necesarios para el proyecto;
+
+f) La conveniencia de llevar a cabo el proyecto mediante un esquema de prestación de servicios;
+
+g) La viabilidad económica y financiera del proyecto, y
+
+h) Las características esenciales del contrato para la Prestación de Servicios a celebrar. En el evento de que el proyecto considere la intervención de dos o más personas morales del sector privado, las responsabilidades de cada participante de dicho sector;
+
+II. Los proyectos que se encuentren en los supuestos señalados en los acuerdos que, en su caso, la dependencia o entidad competente haya expedido conforme al párrafo segundo del artículo 59 de la presente Ley, y
+
+III. No se trate de proyectos previamente presentados y ya resueltos.
+
+Si el proyecto no cumple con alguno de los requisitos, o los estudios se encuentran incompletos, el proyecto no será analizado.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 58 Quáter.
+
+La dependencia o entidad competente que reciba el proyecto, contará con un plazo de hasta tres meses para su análisis y evaluación. Este plazo podrá prorrogarse hasta por otros tres meses adicionales, cuando la dependencia o entidad así lo resuelva, en atención a la complejidad del proyecto.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+Artículo 58 Quinque. En el análisis del proyecto, la dependencia o entidad podrá requerir por escrito al interesado aclaraciones o información adicional, o podrá ella misma realizar los estudios complementarios.
+
+Asimismo, podrá transferir el proyecto a otra dependencia o entidad estatal o municipal, o invitar a éstas y otras instancias de la administración pública federal, estatal o municipal, a participar en el proyecto.
+
+En la evaluación del proyecto no solicitado deberán considerarse, entre otros aspectos, su alineación y congruencia con el Plan Estatal de Desarrollo, el Programa Estatal de Infraestructura, los programas que deriven de la Ley de Planeación del Estado y Municipios de San Luis Potosí, o bien en los Planes Municipales de Desarrollo respectivos; el que se refiera a un proyecto de interés público, la rentabilidad social del mismo; así como la conveniencia para llevar a cabo dicho proyecto mediante un esquema de asociación público privada; y la viabilidad económica-financiera.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+Artículo 58 Sexties. Transcurrido el plazo para la evaluación del proyecto y, en su caso, su prórroga, la dependencia o entidad emitirá la opinión de viabilidad que corresponda sobre el proyecto y del concurso, o bien sobre la adquisición o no de los estudios presentados por quien presentó el proyecto.
+
+La aludida opinión se notificará a quien presente el proyecto, y deberá publicarse en el Periódico Oficial del Gobierno del Estado "Plan de San Luis", y en la página de internet de la dependencia o entidad, dentro de los cinco días hábiles siguientes a la fecha en que haya sido emitida, sin incluir información reservada o confidencial, en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 58 Septies.
+
+Si el proyecto es procedente y la dependencia o entidad decide celebrar la licitación, ésta se realizará conforme a lo previsto en el Capítulo Quinto de la presente Ley, así como a lo siguiente:
+
+I. La dependencia o entidad convocante entregará a quien presente el proyecto, un certificado en el que se indicará el nombre del beneficiario, monto, plazo y demás condiciones para el reembolso de los gastos incurridos por los estudios realizados, para el evento de que el promotor no resulte ganador o no participe en el concurso. Este reembolso será con cargo al adjudicatario del contrato, en los términos que se indiquen en las bases del concurso.
+
+Contra entrega de este certificado, todos los derechos relativos a los estudios presentados pasarán al dominio de la dependencia o entidad convocante;
+
+II. Quien haya presentado el proyecto deberá suscribir declaración unilateral de voluntad, irrevocable, en la que se obligue a:
+
+a) Otorgar sin limitación alguna toda la información relativa al proyecto, que le sea solicitada por cualquier postor en el concurso, incluyendo hojas de trabajo y demás documentos conceptuales o proyectos alternos, y
+
+b) Ceder los derechos y otorgar las autorizaciones en materia de derechos de autor y propiedad industrial, así como cualquier otra, para que el proyecto pueda desarrollarse, en el evento de que el ganador del concurso sea distinto a quien presentó el proyecto;
+
+III. La dependencia o entidad podrá contratar con terceros, la evaluación de los proyectos o la realización de estudios complementarios que se requieran para convocar al concurso;
+
+IV. La convocatoria a la licitación se realizará siempre y cuando se hayan cumplido todos los requisitos señalados en las fracciones I y II anteriores.
+
+Si la licitación no se convoca por causa imputable a quien presentó el proyecto, éste perderá en favor de las dependencias o entidades convocantes, todos sus derechos sobre los estudios presentados, incluso si el proyecto se concursa, y se hará efectiva la garantía de seriedad en los términos que hubiera determinado la dependencia o entidad correspondiente;
+
+V. Quien presentó el proyecto con base en el cual se realiza el concurso, tendrá un premio en la evaluación de su oferta, mismo que se establecerá en las bases y que no podrá exceder del equivalente a un diez por ciento en relación con los criterios señalados para adjudicar el contrato. La dependencia o entidad convocante deberá establecer en las bases los métodos y procedimientos para calcular este premio;
+
+VI. En el evento de la licitación en que sólo participe quien presentó el proyecto, podrá adjudicársele el contrato, siempre que haya cumplido con todos los requisitos previstos en las bases de la citada licitación, y
+
+VII. En caso de que se declare desierta la licitación y que la dependencia o entidad convocante decida no adquirir los derechos sobre los estudios presentados, se procederá a cancelar el certificado a que se refiere la fracción I del presente artículo, y a devolver a quien presentó el proyecto, los estudios que éste haya presentado, sin que tenga derecho al pago de contraprestación alguna.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 58 Octies.
+
+Si el proyecto no es procedente, por no ser de interés público, por razones presupuestarias, o por cualquier otra razón, la dependencia o entidad así lo comunicará a quien hubiera presentado el proyecto.
+
+En todo caso, quien presente el proyecto estará a lo dispuesto en el artículo 58 Decies de esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 58 Nonies.
+
+Cuando se presenten dos o más propuestas en relación con un mismo proyecto y más de una se consideren viables, la dependencia o entidad resolverá en favor de la que, a su juicio, represente mayores beneficios esperados y, en igualdad de condiciones, en favor de la primera presentada.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 58 Decies.
+
+La presentación de propuestas sólo da derecho al promotor a que la dependencia o entidad las analice y evalúe. La opinión de viabilidad por la cual un proyecto se considere o no procedente, no representa un acto de autoridad y, contra ella, no procederá instancia ni medio de defensa alguno.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+Artículo 58 Undecies. En caso de que durante el plazo de evaluación el interesado no proporcione la información solicitada sin causa justificada, o bien, promueva el proyecto con alguna otra entidad o de alguna otra manera, o ceda su propuesta a terceros, se dará por concluido el trámite, y el interesado perderá en favor del Ejecutivo del Estado o del Municipio, en su caso, todos sus derechos sobre los estudios presentados, incluso si el proyecto se concursa.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+Artículo 58 Duodecies. Si el proyecto se considera procedente, pero la dependencia o entidad decide no celebrar el concurso, en su caso podrá ofrecer bajo su responsabilidad al promotor adquirir, previa autorización escrita e indelegable del titular de la dependencia o entidad debidamente motivada y justificada, los estudios realizados, junto con los derechos de autor y de propiedad industrial correspondientes, mediante reembolso de todo o parte de los costos incurridos. La motivación y justificación deberá acreditar, de manera expresa, la congruencia del proyecto con el Plan Estatal de Desarrollo, así como con los programas que de éste derivan o de los Planes Municipales de Desarrollo, en su caso.
+
+Los actos u omisiones que impliquen el incumplimiento a lo establecido en el presente artículo, serán sancionados de conformidad con lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, y demás disposiciones aplicables, en términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+Artículo 58 Terdecies. En los supuestos del artículo 58 Septies de esta Ley, el promotor deberá justificar los gastos realizados y su monto. El monto a reembolsar será determinado por un tercero acordado por ambas partes, contratado específicamente para ello, y previo el respectivo estudio de mercado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE ABRIL DE 2017)</small>
+
+### Capítulo VII. De los Proyectos Autofinanciables
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+Artículo 58 Quáterdecies. Las dependencias estatales y municipales considerarán la recepción de proyectos autofinanciables, siempre y cuando sean considerados por éstas como de utilidad pública, de acuerdo a las necesidades sociales y económicas.
+
+Sólo se analizarán los proyectos autofinanciables que se presenten acompañados del respectivo estudio de factibilidad, que deberá incluir lo siguiente:
+
+I. Descripción del proyecto que se propone, con sus características y viabilidad técnicas;
+
+II. Descripción de las autorizaciones para la ejecución del proyecto que, en su caso, resultarían necesarias, con especial mención a las autorizaciones de uso de suelo de los inmuebles de que se trate, sus modificaciones y la eventual problemática de adquisición de éstos;
+
+III. La viabilidad jurídica y ambiental del proyecto;
+
+IV. La rentabilidad social del proyecto;
+
+V. Las estimaciones de inversión en las que se haga referencia al costo estimado de adquisición de inmuebles, bienes y derechos necesarios para el proyecto;
+
+VI. La viabilidad económica y financiera del proyecto, y
+
+VII. Las características esenciales del Convenio del Proyecto. En el evento de que el proyecto considere la intervención de dos o más personas morales del sector privado, las responsabilidades de cada participante de dicho sector.
+
+Si los proyectos no cumplen con alguno de los requisitos, o los estudios se encuentran incompletos, o ya fueron previamente presentados y resueltos, no serán analizados.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+Artículo 58 Quindecies. Transcurrido un plazo máximo de tres meses, la dependencia o entidad emitirá la opinión que corresponda sobre el proyecto.
+
+La aludida opinión se notificará a quien presente el proyecto, y deberá publicarse en el Periódico Oficial del Estado "Plan de San Luis", y en la página de internet de la dependencia o entidad, dentro de los cinco días hábiles siguientes a la fecha en que haya sido emitida, sin incluir información reservada o confidencial, en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+Artículo 58 Sexdecies. Si el proyecto es procedente, la dependencia o entidad celebrará el convenio correspondiente.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+Artículo 58 Septedecies. Si el proyecto no es procedente por no ser de interés público, o por presentar inconvenientes, la dependencia o entidad así lo comunicará al promotor, en el término establecido en el artículo 58 Quindecies de esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+Artículo 58 Octedecies. La presentación de propuestas no confiere ningún derecho a los promotores. Para todos los casos, la propiedad del proyecto y de los estudios queda salvaguardada por las leyes respectivas. Las dependencias y entidades no están obligadas al pago de proyectos ni de los estudios respectivos.
 
 ## TÍTULO SEXTO. Celebración y ejecución de los contratos
 
-### Capítulo III. Rescisión y terminación del contrato
+### Capítulo I. Generalidades
 
 ###### Artículo 59.
 
@@ -835,9 +1061,7 @@ La fecha, modalidades y condiciones de pago al inversionista-proveedor quedarán
 
 La dependencia o entidad sólo podrá compensar cantidades que adeuden al inversionista-proveedor contra cantidades que éste, a su vez adeude, con relación a débitos derivados del contrato.
 
-### Capítulo Único
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2016)</small>
+### Capítulo II. De la ejecución del contrato
 
 ###### Artículo 64.
 
@@ -879,7 +1103,7 @@ Si conforme a la evaluación, el desempeño del inversionista-proveedor es infer
 
 El cálculo del descuento o la penalización se harán conforme a las previsiones que se hubieren pactado en el contrato.
 
-### Capítulo Único
+### Capítulo III. Rescisión y terminación del contrato
 
 ###### Artículo 69.
 
@@ -919,15 +1143,17 @@ Para el caso de pago de eventuales indemnizaciones, la dependencia o entidad pre
 
 ### Capítulo Único
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 73.
 
 Compete a la Secretaría, a través de la Dirección de Financiamiento, Deuda y Crédito Público, tener a su cargo la organización, funcionamiento y servicio del Registro de Contratos de Proyectos para la Prestación de Servicios.
 
 En el Registro se inscribirán todos los actos jurídicos relacionados con los proyectos para la prestación de servicios, la inscripción de los inversionistas-proveedores que participen en dichos proyectos y los procedimientos de adjudicación previstos en esta ley, así como la información inherente al seguimiento y control administrativo de cada proyecto.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
 
-Existe la obligación de inscribir todos los contratos de proyectos para la prestación de servicios, en el Registro Público Único a cargo de la Secretaría de Hacienda y Crédito Público, en términos del Capítulo VI del Título Tercero de la Ley de Deuda Pública del Estado y Municipios de San Luis Potosí.
+Lo anterior, sin perjuicio de la obligación de inscribir el contrato de asociación público privada en el Registro Público Único previsto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Para llevar a cabo la inscripción, se deberá presentar al Registro Público Único, la información relativa al monto de inversión del proyecto a valor presente, y el pago mensual del servicio, identificando la parte correspondiente al pago de inversión, el plazo del contrato, así como las erogaciones pendientes de pago. A más tardar diez días posteriores a la inscripción en el Registro Público Único, la dependencia o entidad de la administración pública estatal o municipal que hubiere celebrado el Contrato, deberá publicar dicho instrumento en su página oficial de internet. Asimismo, la dependencia o entidad de la administración pública estatal o municipal que hubiere celebrado el Contrato, presentará en los informes trimestrales a que se refiere la Ley General de Contabilidad Gubernamental y, en su respectiva cuenta pública, la información detallada de cada Contrato, incluyendo como mínimo, el importe, tasa, plazo, comisiones y demás accesorios pactados.
 
 ###### Artículo 74.
 
@@ -1023,6 +1249,8 @@ Las responsabilidades a que se refiere esta ley son independientes de las de ord
 
 ## TÍTULO DÉCIMO. Del recurso de inconformidad
 
+### Capítulo Único
+
 ###### Artículo 85.
 
 Los hipotéticos inversionistas-proveedores que participen en un procedimiento de adjudicación mediante licitación pública o por invitación restringida, podrá presentar el recurso de inconformidad en contra del procedimiento, cuando estime que existe una contravención a las disposiciones de esta ley o de su reglamento.
@@ -1068,6 +1296,8 @@ La Contraloría General del Estado o la Contraloría Municipal, en su caso, podr
 La Contraloría Gubernamental notificará al inversionista-proveedor que hubiere resultado ganador en el fallo del procedimiento de adjudicación por licitación pública o por invitación restringida, la interposición del recurso de inconformidad, a fin de que dentro de los 5 días hábiles siguientes concurra a exponer lo que a su derecho convenga.
 
 ## TÍTULO UNDÉCIMO. De la solución de controversias
+
+### Capítulo Único
 
 ###### Artículo 89.
 
@@ -1126,3 +1356,15 @@ QUINTO. Los sujetos de esta Ley deberán inscribir todas sus obligaciones o empr
 SEXTO. La Secretaría de Finanzas, a través de la Dirección de Financiamiento, Deuda y Crédito Público, llevará el registro y control de contratos de prestación de servicios y arrendamientos a largo plazo, el cual estaba a cargo de la Oficialía Mayor, a fin de integrarlo al Registro Estatal.
 
 SÉPTIMO. El Ejecutivo del Estado deberá emitir el reglamento de esta Ley, a más tardar ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 27 DE ABRIL DE 2017.
+
+## N. DE E. TRANSITORIOS DEL "DECRETO 0611.- SE REFORMA Y ADICIONA LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. La inscripción en el Registro Público Único a que se refiere el artículo 73 de la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí, será obligatoria una vez que dicho Registro entre en operación, en términos del artículo Décimo Octavo Transitorio del decreto que expide la Ley de Disciplina Financiera de las Entidades Federativos (sic) y los Municipios, publicado en el Diario Oficial de la Federación el 27 de abril de 2016.
+
+CUARTO. Las autorizaciones para desarrollar un Proyecto que se hayan obtenido con anterioridad a la entrada en vigor de este Decreto, se considerarán válidas y suficientes siempre que: (i) cumplan con los requisitos de validez establecidos en la ley que estaba vigente cuando se obtuvieron; y (ii) en términos de dicha ley, se consideren suficientes para los efectos que se hubieren obtenido. Lo anterior en el entendido que, para cualquier autorización pendiente de obtenerse, así como para el procedimiento de adjudicación y formalización del Contrato y demás disposiciones aplicables, regirá la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí que se modifica en términos del presente Decreto. Los procedimientos de adjudicación que hubieren iniciado con anterioridad a la entrada en vigor de este Decreto, continuarán rigiéndose por las disposiciones de la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí vigentes antes de esta adecuación, hasta su fallo y adjudicación, en el entendido que para la formalización del contrato y demás disposiciones aplicables, regirá la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí modificada en términos del presente Decreto. Los contratos que se hubieren formalizado con anterioridad a la entrada en vigor de este Decreto, se considerarán válidos siempre que cumplan con los requisitos de validez establecidos en la ley que estaba vigente cuando se formalizaron, en el entendido que para las demás disposiciones aplicables, regirá la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí modificada en términos del presente Decreto.
