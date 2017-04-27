@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2017-03-10"
+last_updated: "2017-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ABRIL DE 2017.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -405,7 +405,9 @@ X. Eficacia en la aplicación del gasto público: Lograr en el ejercicio fiscal 
 
 XI. Eficiencia en el ejercicio del gasto público: Ejercicio del Presupuesto de Egresos del Poder Judicial de la Federación en tiempo y forma, en los términos del citado Capítulo y demás disposiciones aplicables;
 
-XII. Estructura Programática: Conjunto de categorías y elementos programáticos ordenados en forma coherente, el cual define las acciones que efectúan los ejecutores de gasto para alcanzar sus objetivos y metas de acuerdo con las políticas definidas por el Pleno y en los programas y presupuestos; asimismo, ordena y clasifica las acciones de los ejecutores de gasto para delimitar la aplicación del gasto y permite conocer el rendimiento esperado de la utilización de los recursos públicos;
+> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+XII. Estructura Programática: Conjunto de categorías y elementos programáticos ordenados en forma coherente, para identificar la asignación y aplicación de los recursos presupuestales conforme a la clasificación funcional y programática, económica, geográfica, administrativa, y de género que determine el Consejo para alcanzar el cumplimiento de sus objetivos y metas, de acuerdo con las políticas definidas en el Plan de Desarrollo Institucional que corresponda;
 
 XIII. Gasto programable: Erogaciones que el Consejo realiza en cumplimiento de sus atribuciones de carácter administrativo, en términos de los artículos 100 de la Constitución y 68 de la Ley Orgánica;
 
@@ -425,7 +427,9 @@ XX. Percepciones ordinarias: Pagos por sueldos y salarios, conforme a los tabula
 
 XXI. Presupuesto de Egresos: Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente, los anexos y tomos que lo integran;
 
-XXII. Presupuesto de Egresos del Poder Judicial de la Federación: Presupuesto de Egresos autorizado por el Pleno, que comprende el presupuesto autorizado por la Cámara de Diputados dentro del Presupuesto de Egresos de la Federación, así como las ampliaciones líquidas por ingresos excedentes que se obtengan durante el ejercicio;
+> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+XXII. Presupuesto de Egresos del Poder Judicial de la Federación: Con excepción del de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, es el Presupuesto de Egresos autorizado por el Pleno, que comprende el presupuesto autorizado por la Cámara de Diputados dentro del Presupuesto de Egresos de la Federación, así como las modificaciones derivadas de reducciones líquidas, y en su caso, las ampliaciones líquidas por ingresos excedentes que se obtengan durante el ejercicio;
 
 XXIII. Presupuesto devengado: Reconocimiento de las obligaciones de pago por parte de las unidades ejecutoras de gasto a favor de terceros, por los compromisos o requisitos cumplidos por éstos conforme a las disposiciones aplicables, así como de las obligaciones de pago que se derivan por mandato de leyes o decretos, resoluciones y sentencias definitivas;
 
@@ -441,11 +445,23 @@ XXVIII. Responsabilidad Presupuestaria: La observancia de los principios y las d
 
 XXIX. Secretaría de Hacienda: Secretaría de Hacienda y Crédito Público;
 
+> <small>(ADICIONADA, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+XXIX Bis. Sistema electrónico presupuestal: Sistema informático en el que los usuarios registran, procesan, tramitan, contabilizan y archivan todas las operaciones que afectan al presupuesto en sus diferentes momentos, conforme a lo dispuesto en las normas y procedimientos vigentes;
+
+> <small>(ADICIONADA, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+XXIX Ter. Sistema de Contabilidad: Conjunto de registros, procedimientos, criterios e informes, estructurados sobre la base de principios técnicos comunes destinados a capturar, valuar, registrar, clasificar, informar e interpretar, las transacciones, transformaciones y eventos que, derivados de la actividad económica, modifican la situación patrimonial de los rubros a cargo del Consejo;
+
 XXX. Sistema Institucional de Evaluación: Conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos;
 
 XXXI. Subejercicio de gasto: Disponibilidades presupuestarias que resultan, con base en el calendario de presupuesto, sin cumplir las metas contenidas en los programas o sin contar con el compromiso formal de su ejecución;
 
 XXXII. Transferencias: Movimientos de recursos financieros, materiales y plazas de personal entre los órganos del Poder Judicial de la Federación, con el fin de fortalecer la función jurisdiccional, de conformidad con las disposiciones normativas correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+XXXII Bis. Unidades Administrativas Foráneas: Administraciones Regionales y Delegaciones Administrativas;
 
 XXXIII. Unidades ejecutoras de gasto: áreas administrativas y unidades globalizadoras;
 
@@ -7825,6 +7841,8 @@ Las donaciones y las enajenaciones que liberen al Poder Judicial de la Federaci�
 
 #### SECCIÓN SEGUNDA. EQUILIBRIO Y PRINCIPIOS DE RESPONSABILIDAD PRESUPUESTARIA
 
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 ###### Artículo 671.
 
 Los gastos que se generen con motivo de la instrumentación de los procedimientos de enajenación, así como los costos de administración, a que se refiere este Capítulo, se atenderán con recursos presupuestales.
@@ -7890,6 +7908,8 @@ III. Acta de la destrucción del bien, que deberán suscribir el titular de la D
 La Dirección General de Recursos Materiales o la Administración Regional comunicarán a la Secretaría Ejecutiva de Administración, sobre las destrucciones que se hayan realizado a efecto de que ésta lleve el registro y control de ello, debiendo informar a la Comisión de Administración sobre cualquier operación de destrucción de bienes asegurados no reclamados y decomisados que se haya llevado a cabo en los términos de este Capítulo.
 
 #### SECCIÓN SEGUNDA. PROGRAMACIÓN Y PRESUPUESTACIÓN
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 681.
 
@@ -8265,19 +8285,27 @@ Las cuestiones no previstas en este Capítulo serán resueltas por la Comisión 
 
 ## TÍTULO PRIMERO. PROCESO PRESUPUESTARIO
 
-### CAPÍTULO QUINTO. REGISTRO DEL GASTO PÚBLICO EN EL CONSEJO
+### CAPÍTULO QUINTO. DE LA CONTABILIDAD EN EL CONSEJO DE LA JUDICATURA FEDERAL
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 #### SECCIÓN PRIMERA. EJERCICIO DEL GASTO PÚBLICO
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 697.
 
 Los sujetos obligados a cumplir las disposiciones de este Título deberán observar que la administración de los recursos se realice con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas, e igualdad de género.
 
-Lo no previsto y la interpretación de este Título, será resuelto por el Pleno y la Comisión de Administración en el ámbito de sus respectivas competencias.
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+Lo no previsto y la interpretación de este Título, así como del Acuerdo General Conjunto emitido por el Comité Coordinador para Homologar Criterios en Materia Administrativa e Interinstitucional del Poder Judicial de la Federación, que regula el proceso contable de dichos órganos, será resuelto por el Pleno y la Comisión de Administración en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 698.
 
-El gasto público en el Consejo comprende las erogaciones por concepto de gasto corriente y de inversión que realizan las unidades ejecutoras de gasto.
+El gasto público en el Consejo comprende las erogaciones por concepto de gasto corriente y de inversión; así como de responsabilidad patrimonial que realizan las unidades ejecutoras de gasto.
 
 ###### Artículo 699.
 
@@ -8293,69 +8321,97 @@ IV. Realizar sus pagos a través de la Dirección General de Tesorería;
 
 V. Determinar los ajustes que correspondan en su presupuesto en caso de disminución de ingresos; y
 
-VI. Llevar la contabilidad y elaborar sus informes conforme a lo previsto en este Título y en la Ley General de Contabilidad Gubernamental, así como enviarlos a la Secretaría de Hacienda para su integración a los informes trimestrales y a la Cuenta Pública.
+> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+VI. Llevar la contabilidad y elaborar sus informes conforme a la Ley General de Contabilidad Gubernamental; el Acuerdo General Conjunto emitido por el Comité Coordinador para Homologar Criterios en Materia Administrativa e Interinstitucional del Poder Judicial de la Federación que regula el proceso contable de dichos órganos; así como remitirlos a las autoridades competentes para su integración a los informes trimestrales y a la Cuenta Pública.
 
 #### SECCIÓN SEGUNDA. SERVICIOS PERSONALES
 
 ###### Artículo 700.
 
-Los objetivos, estrategias y metas del Consejo, estarán encaminados al cumplimiento de lo establecido en los artículos 94 y 100 de la Constitución, así como el 68 de la Ley Orgánica.
+Los objetivos, estrategias y metas del Consejo, estarán encaminados al cumplimiento de lo establecido en los artículos 94 y 100 de la Constitución, así como en el 68 de la Ley Orgánica.
 
-El Presupuesto de Egresos del Poder Judicial de la Federación se elaborará con base en los objetivos, estrategias y metas anuales establecidas por el Pleno, para lo cual se tomarán en consideración, en lo procedente, los criterios generales de política económica.
+El Presupuesto de Egresos del Poder Judicial de la Federación se elaborará de acuerdo con los objetivos, políticas, estrategias, prioridades y metas con base en indicadores de desempeño, contenidos en los programas para cada ejercicio fiscal aprobados por el Pleno, conforme a lo dispuesto en la Ley de Presupuesto y acorde con los criterios generales de política económica.
 
-En toda propuesta derivada de una necesidad que implique aumento en el gasto o inversión, no contemplada inicialmente en el presupuesto autorizado, se deberá contar con la autorización del Pleno.
+La Dirección General de Innovación, Planeación y Desarrollo Institucional será la responsable de integrar el Programa Anual de Trabajo, los proyectos, objetivos, metas e indicadores anuales previstos por las áreas administrativas para el siguiente ejercicio fiscal y lo someterá a la aprobación de la Secretaría Ejecutiva de Administración, para autorización del Pleno, previa consideración favorable de la Comisión de Administración.
 
-La Dirección General de Programación y Presupuesto realizará una evaluación del impacto presupuestario de las propuestas de adición o modificación del gasto autorizado que presenten las unidades ejecutoras de gasto, la cual se hará del conocimiento del Pleno.
+Toda propuesta que implique aumento en el gasto corriente o de inversión, no contemplada inicialmente en el presupuesto autorizado, deberá contar con la autorización del Pleno.
 
-El Pleno podrá autorizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos del Poder Judicial de la Federación, con cargo a los excedentes que en su caso, resulten de las provisiones financieras originales. En el caso de los ingresos que tengan un destino específico por disposición expresa de leyes de carácter fiscal, éstos deberán reconocerse como ampliación al presupuesto autorizado del área ejecutora del gasto que los generó.
+Dicha propuesta, se presentará por la unidad ejecutora de gasto, para autorización del Pleno, previa consideración favorable de la Comisión de Administración, en la que se precise la justificación motivada y fundada de la solicitud; y se anexe la certificación de suficiencia presupuestal, expedida por la Dirección General de Programación y Presupuesto.
+
+El Pleno podrá autorizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos del Poder Judicial de la Federación, con cargo a los excedentes que, en su caso, resulten de las provisiones financieras originales. En el caso de los ingresos que tengan un destino específico por disposición expresa de leyes de carácter fiscal, éstos deberán reconocerse como ampliación al presupuesto autorizado del área ejecutora del gasto que los generó.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 701.
 
 Los ingresos excedentes que obtenga el Consejo, deberán:
 
-I. Contar con la aprobación de la Comisión de Administración, para su incorporación al Presupuesto como adecuaciones presupuestales en ampliación líquida.
+I. Contar con la aprobación de la Comisión de Administración, para su incorporación al Presupuesto de Egresos del Poder Judicial de la Federación como ampliación líquida;
 
 II. Registrarse ante la Secretaría de Hacienda conforme lo establece la Ley de Presupuesto; y
 
 III. Informar a la Secretaría de Hacienda sobre la obtención y la aplicación de dichos ingresos, para efectos de la integración de los informes trimestrales y la Cuenta Pública.
 
-Para efectos de la aprobación a que se refiere la fracción I de este artículo, la Dirección General de Programación y Presupuesto deberá someter a consideración de la Comisión de Administración los montos, origen y conceptos de ampliación, y además deberá elaborar un informe mensual al Pleno en el que se reúnan los ingresos registrados en un mes de calendario, el que deberá contener, al menos, la descripción de los conceptos de ingreso; el monto de cada uno y la suma total; así como la partida o partidas presupuestales a las que se aplicará la ampliación líquida.
+Para efectos de la aprobación a que se refiere la fracción I de este artículo, la Secretaría Ejecutiva de Administración por conducto de la Dirección General de Programación y Presupuesto someterá a la autorización de la Comisión de Administración los montos, origen y conceptos de ampliación.
 
-El informe relativo corresponderá a los ingresos registrados en el Sistema Integral Financiero en el mes anterior de calendario y deberá someterse, previamente, a consideración de la Comisión de Administración en la primera sesión de ésta del mes siguiente.
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
-No obstante lo dispuesto en el párrafo anterior, los ingresos registrados al 15 de noviembre podrán ser incorporados al presupuesto como ampliación líquida, durante el periodo de receso, con la sola autorización de la Comisión de Receso; de lo cual, la Dirección General de Programación y Presupuesto informará al Pleno en la primera sesión ordinaria del año siguiente.
+###### Artículo 701 Bis.
 
-Las adecuaciones presupuestales como ampliaciones líquidas provenientes de recursos presupuestales de la Suprema Corte de Justicia de la Nación o del Tribunal Electoral del Poder Judicial de la Federación, deberán ser autorizadas por el Pleno.
+La Dirección General de Programación y Presupuesto, rendirá informe mensual al Pleno, previo conocimiento de la Comisión de Administración, dentro de los primeros veinte días de cada mes, en el que precisará los ingresos registrados en el mes inmediato anterior en el sistema presupuestal, mismo que contendrá, por lo menos:
+
+I. Descripción de los conceptos;
+
+II. Monto de cada uno;
+
+III. Partida o partidas presupuestales a las que se aplicará la ampliación líquida; y
+
+IV. Suma total.
+
+La Dirección General de Programación y Presupuesto podrá, previa autorización de la Comisión de Receso, incorporar al Presupuesto de Egresos del Poder Judicial de la Federación como ampliación líquida, los ingresos excedentes registrados del 1° al 15 de noviembre de cada ejercicio fiscal. Esto se informará al Pleno en la primera sesión ordinaria del año inmediato posterior.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 702.
 
-En caso de que durante el ejercicio fiscal disminuyan las ministraciones por recorte al Presupuesto de Egresos del Poder Judicial de la Federación, el Pleno, por conducto de la Dirección General de Programación y Presupuesto, podrá aplicar las siguientes medidas de disciplina presupuestaria:
+En caso de que durante el ejercicio fiscal disminuyan las ministraciones por recorte al presupuesto autorizado al Consejo, el Pleno, por conducto de la Secretaría Ejecutiva de Administración, podrá aplicar las siguientes medidas de disciplina presupuestaria:
 
-I. Ajustes compensados con ingresos excedentes y transferencias financieras provenientes de la Suprema Corte de Justicia de la Nación o del Tribunal Electoral del Poder Judicial de la Federación; y
+I. Ajustes compensados con ingresos excedentes y transferencias financieras provenientes de otras instancias del Poder Judicial de la Federación; y
 
-II. En el caso de que los ajustes compensados a que se refiere la fracción anterior no sean suficientes, se procederá a la reducción del gasto conforme a las prioridades que determine el Pleno, procurando en todo caso, no afectar los programas sustantivos.
+II. En el caso de que los ajustes compensados a que se refiere la fracción anterior no sean suficientes, se procederá a la reducción del gasto conforme a las prioridades que determine el Pleno, y demás disposiciones jurídicas aplicables, sin afectar programas de carácter sustantivo.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 703.
 
-En el ejercicio de sus presupuestos, las unidades ejecutoras de gasto se sujetarán a los calendarios de presupuesto autorizados por el Pleno, atendiendo los requerimientos de las mismas.
+En el ejercicio de sus presupuestos, las unidades ejecutoras de gasto se sujetarán a los calendarios mensuales de presupuesto autorizados por el Pleno. Para tal efecto, la Dirección General de Programación y Presupuesto será la responsable de:
 
-Las unidades ejecutoras de gasto remitirán a la Dirección General de Programación y Presupuesto sus proyectos de calendarios en los términos y plazos autorizados por el Pleno. Dicha Dirección General integrará los calendarios tomando en consideración las necesidades institucionales y la oportunidad en la ejecución de los recursos para el mejor cumplimiento de los objetivos propuestos.
+I. Recibir de las unidades ejecutoras de gasto, el proyecto de calendario mensual en los términos y plazos aprobados por el Pleno;
 
-La Dirección General de Programación y Presupuesto es competente para elaborar los calendarios de presupuesto de las unidades ejecutoras de gasto, cuando no le sean presentados en los términos que establezca el Pleno.
+II. Integrar los calendarios tomando en consideración las necesidades institucionales y la oportunidad en la ejecución de los recursos para el mejor cumplimiento de los objetivos propuestos; y
 
-Los calendarios a que se refiere este artículo deberán ser en términos mensuales.
+III. Elaborar dichos calendarios, cuando no le sean presentados conforme a lo autorizado por el Pleno.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 704.
 
-La Dirección General de Programación y Presupuesto reportará mensualmente a la Comisión de Administración, el estado de avance del ejercicio del presupuesto de las unidades ejecutoras de gasto, con el fin de informar sobre la acumulación de saldos y adoptar las medidas conducentes.
+La Dirección General de Programación y Presupuesto, reportará mensualmente a la Comisión de Administración, el estado de avance del ejercicio del presupuesto de las unidades ejecutoras de gasto, con el fin de informar sobre la acumulación de saldos y adoptar las medidas conducentes.
 
-En su caso, la acumulación de saldos de los presupuestos de las unidades ejecutoras de gasto que resulten, deberán subsanarse en un plazo máximo de 90 días naturales, excepto en el último trimestre del año. En caso contrario dichos recursos podrán ser reasignados a los programas y conceptos de gasto que determine la Comisión de Administración, con base en las expectativas de gasto que formulen las propias unidades ejecutoras de gasto.
+La acumulación de saldos presupuestales de las unidades ejecutoras de gasto que resulten, deberán subsanarse a la brevedad, teniendo un plazo máximo de noventa días naturales, excepto en el último trimestre del año. En caso contrario, dichos recursos podrán ser reasignados a los programas y conceptos de gasto que determine la Comisión de Administración, con base en las expectativas de gasto que formulen las propias unidades ejecutoras de gasto.
 
-Las disposiciones de los párrafos precedentes están orientadas a evitar el subejercicio de los recursos presupuestales al concluir el ciclo fiscal y a optimizar la aplicación del gasto en la consecución de los objetivos y metas institucionales.
+Por su parte, la Dirección General de Innovación, Planeación y Desarrollo Institucional informará mensualmente a la Comisión de Administración, el cumplimiento en la ejecución de programas anuales de trabajo de las unidades ejecutoras de gasto a fin de detectar oportunamente las variaciones respecto a lo programado; de manera conjunta con la unidad ejecutora involucrada, propondrá estrategias para corregir las deficiencias detectadas en la ejecución; y dará seguimiento a su correcta implementación.
+
+El registro histórico de indicadores que resulte del seguimiento físico y financiero formará parte del Sistema Institucional de Evaluación y será considerado en ejercicios subsecuentes.
+
+Lo previsto en este artículo tiene por objeto evitar el subejercicio de los recursos presupuestales al concluir el ejercicio fiscal, así como optimizar y racionalizar el uso de los mismos en cumplimiento al Plan de Desarrollo Institucional y los objetivos y metas institucionales.
 
 #### SECCIÓN TERCERA. ADECUACIONES PRESUPUESTARIAS
 
 #### SECCIÓN CUARTA. DESCONCENTRACIÓN DEL EJERCICIO DEL GASTO
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 705.
 
@@ -8369,11 +8425,15 @@ En el marco de la autonomía e independencia que la Constitución otorga al Pode
 
 Sin detrimento de que cada instancia del Poder Judicial de la Federación pueda hacerlo individualmente y de lo establecido en la Constitución y en la Ley Orgánica, el Consejo, a través de la Secretaría Ejecutiva de Administración, podrá establecer de manera directa los vínculos institucionales con los órganos competentes de los Poderes Ejecutivo y Legislativo de la Federación, para la atención de las funciones financieras y administrativas relacionadas con la gestión de los recursos presupuestales autorizados.
 
-#### SECCIÓN PRIMERA. SISTEMA DE CONTABILIDAD
+#### SECCIÓN PRIMERA. DEL SISTEMA DE CONTABILIDAD EN EL CONSEJO DE LA JUDICATURA FEDERAL
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ### CAPÍTULO SEXTO. CONTROL Y VIGILANCIA DEL GASTO PÚBLICO EN EL CONSEJO
 
-#### SECCIÓN SEGUNDA. CATALOGO DE CUENTAS Y REGISTRO CONTABLE DE LAS OPERACIONES
+#### SECCIÓN SEGUNDA. DEL REGISTRO CONTABLE DE LAS OPERACIONES Y DEL REGISTRO PATRIMONIAL
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 706.
 
@@ -8383,27 +8443,31 @@ El Presupuesto de Egresos del Poder Judicial de la Federación se apoyará en un
 
 Las unidades ejecutoras de gasto, en términos del artículo 45 de la Ley de Presupuesto, serán responsables de la administración por resultados del Consejo, para lo cual deberán establecer lo necesario para cumplir oportunamente con eficiencia y eficacia las metas y objetivos previstos en los programas respectivos, conforme a lo dispuesto en la Ley de Presupuesto, en este Título y demás disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 ###### Artículo 708.
 
-El Presupuesto de Egresos del Poder Judicial de la Federación se administrará por resultados, para lo cual, las unidades ejecutoras de gasto deberán establecer y registrar ante la Dirección General de Programación y Presupuesto, los compromisos de resultados que permitan alcanzar un ejercicio eficiente y eficaz del gasto en el Consejo, así como una efectiva rendición de cuentas. En consecuencia, las unidades ejecutoras de gasto se sujetarán a los controles presupuestarios correspondientes, conforme a sus presupuestos autorizados y a las disposiciones generales aplicables.
+El Presupuesto de Egresos del Poder Judicial de la Federación se administrará por resultados, para lo cual, las unidades ejecutoras de gasto, deberán establecer y registrar en su Programa Anual de Trabajo, los objetivos, metas e indicadores que pretendan lograr, de conformidad con un ejercicio eficiente y eficaz del gasto y a una efectiva rendición de cuentas. En consecuencia, se sujetarán a los controles programáticos y presupuestarios correspondientes, conforme a sus programas y presupuestos autorizados y a las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 709.
 
-La Comisión de Administración, a través de la Secretaría Ejecutiva de Administración, administrará los recursos del Consejo, con apego al Presupuesto de Egresos del Poder Judicial de la Federación, a los acuerdos determinados por el Pleno y conforme a los principios de honestidad, economía, eficiencia y eficacia.
+La Comisión de Administración, por conducto de la Secretaría Ejecutiva de Administración, administrará los recursos del Consejo, de conformidad con el Presupuesto de Egresos del Poder Judicial de la Federación y las disposiciones jurídicas aplicables; bajo los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas, y equidad de género.
 
-La Secretaría Ejecutiva de Administración apoyará a la citada Comisión en la administración de los recursos financieros del Consejo, a través de las áreas administrativas, atendiendo al calendario del ejercicio presupuestal autorizado y de conformidad con este Título, la Ley de Presupuesto, el Presupuesto de Egresos y los lineamientos que al respecto emita el Pleno; asimismo presentará a los órganos facultados y al Pleno los informes relativos al ejercicio presupuestal conforme a los plazos legales y términos establecidos, proponiendo en el área de su competencia, sistemas de control y de evaluaciones internas del ejercicio presupuestal.
+La Secretaría Ejecutiva de Administración verificará que se dé cumplimiento a lo dispuesto en el artículo 704 de este Acuerdo y propondrá los sistemas de control y de evaluaciones internas del ejercicio presupuestal, a través de las unidades administrativas competentes.
 
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 710.
 
-La Secretaría Ejecutiva de Administración establecerá la coordinación y comunicación adecuada para que exista un flujo de información ágil y oportuna.
+La Secretaría Ejecutiva de Administración, por conducto de la Dirección General de Programación y Presupuesto, establecerá la coordinación y comunicación adecuada con las demás unidades ejecutoras de gasto para que exista un flujo de información ágil y oportuna.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 711.
 
-La Dirección General de Programación y Presupuesto estará a cargo de la programación, presupuestación y registro del gasto en el Consejo. El control y la evaluación de dicho gasto corresponderán a dicha Dirección General y a la Contraloría, en el ámbito de sus respectivas atribuciones. Asimismo, la Contraloría inspeccionará y vigilará el cumplimiento de las disposiciones de este Título y de la Ley de Presupuesto, así como de las que ellas emanen, respecto de dicho gasto.
+La Dirección General de Programación y Presupuesto será la encargada de elaborar la propuesta de programación, presupuestación, distribución y calendarización del presupuesto anual de egresos del Poder Judicial de la Federación, así como de llevar a cabo el registro y control del ejercicio del gasto en el Consejo. La evaluación de los resultados obtenidos corresponderá a la Dirección General de Innovación, Planeación y Desarrollo Institucional; mientras que la Contraloría inspeccionará y vigilará el cumplimiento de las disposiciones previstas en este Título y de la Ley de Presupuesto, así como de las que de ellas emanen, respecto de dicho gasto.
 
 ###### Artículo 712.
 
@@ -8413,11 +8477,13 @@ El ejercicio del gasto será responsabilidad de las unidades ejecutoras del mism
 
 El Consejo establecerá los sistemas informáticos que sean adecuados para las distintas fases de su proceso presupuestario. Asimismo, podrá celebrar convenios con la Secretaría de Hacienda para mantener la compatibilidad con sus correspondientes sistemas informáticos, exclusivamente para efectos de registro e información de sus operaciones financieras.
 
-#### SECCIÓN TERCERA. FORMULACIÓN DE LOS ESTADOS FINANCIEROS
+#### SECCIÓN TERCERA. DE LA FORMULACIÓN DE ESTADOS FINANCIEROS Y DE LA INTEGRACIÓN DE LA CUENTA PÚBLICA
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 714.
 
-El Consejo, por conducto de la Dirección General de Programación y Presupuesto, deberá coordinarse con la Secretaría de Hacienda para efectos de la programación y presupuestación en los términos previstos en este Título y en la Ley de Presupuesto.
+La Dirección General de Programación y Presupuesto deberá coordinarse con la Secretaría de Hacienda para efectos de la programación y presupuestación, de conformidad con la normatividad aplicable.
 
 ###### Artículo 715.
 
@@ -8435,53 +8501,69 @@ La programación y presupuestación anual del gasto en el Consejo, se realizará
 
 I. Las políticas y estrategias que determine el Pleno;
 
-II. Los criterios generales de política económica, que en su caso considere el Pleno;
+> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2017)</small>
 
-III. La evaluación de los avances logrados en el cumplimiento de las metas, así como los avances físicos y financieros del ejercicio fiscal anterior y los pretendidos para el ejercicio siguiente; y
+II. Los criterios generales de política económica;
+
+> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+III. Los avances logrados en el cumplimiento de los objetivos y las metas; así como los avances físicos y financieros del ejercicio fiscal anterior y los pretendidos para el ejercicio siguiente; y
 
 IV. La interrelación que en su caso exista con los otros Poderes de la Unión, los sectores privado y social, y con los poderes de las entidades federativas.
 
 El anteproyecto se elaborará por unidad ejecutora del gasto, estimando los costos para alcanzar los resultados cuantitativos y cualitativos previstos en las metas, así como con los indicadores necesarios para medir su cumplimiento.
 
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 ###### Artículo 717.
 
-Los anteproyectos deberán sujetarse a la estructura programática aprobada por el Pleno, la cual contendrá como mínimo:
+El anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación deberá sujetarse a la estructura programática aprobada por el Pleno y presentada ante la Secretaría de Hacienda, la cual contendrá como mínimo:
 
-I. Las categorías, que comprenderán el programa, el subprograma y el proyecto;
+I. Las categorías que comprenderán la función, la subfunción, el programa, el subprograma, la actividad institucional, y el proyecto;
 
-II. Los elementos, que comprenderán la misión, la visión, los objetivos y las metas con base en indicadores, y la unidad ejecutora del gasto, en congruencia con las políticas y estrategias que determine el Pleno; y
+II. Los elementos que comprenderán la misión, la visión, los objetivos y las metas con base en indicadores de desempeño, y la unidad ejecutora del gasto, en congruencia con las políticas y estrategias que determine el Pleno;
 
-III. Los indicadores referidos en la fracción anterior corresponderán a un índice, medida, cociente o fórmula que permita establecer un parámetro de medición de lo que se pretende lograr en un año, expresado en términos de cobertura, eficiencia, impacto económico y social, calidad, equidad o cualquier otro que se considere significativo y relevante de la función sustantiva del Consejo. Estos indicadores serán la base para el funcionamiento del Sistema de Evaluación del Consejo.
+III. Los indicadores corresponderán a un índice, medida, cociente o fórmula que permita establecer un parámetro de medición de lo que se pretende lograr en un año, expresado en términos de cobertura, eficiencia, impacto económico y social, calidad, equidad o cualquier otro que se considere significativo y relevante de la función sustantiva del Consejo. Estos indicadores serán la base para el funcionamiento del Sistema Institucional de Evaluación; y
 
-La estructura programática deberá ser sencilla y facilitar el examen del Presupuesto y sólo sufrirá modificaciones cuando éstas tengan el objetivo de fortalecer dichos principios, en los términos de las disposiciones aplicables.
+IV. Las acciones que promuevan la igualdad entre mujeres y hombres.
+
+La estructura programática facilitará la vinculación de la programación de las unidades ejecutoras de gasto con el Plan de Desarrollo Institucional y los programas aprobados por el Pleno, y deberá incluir indicadores de desempeño con sus correspondientes metas anuales. La Dirección General de Innovación, Planeación y Desarrollo Institucional deberá diferenciar los indicadores y metas del Consejo de los indicadores y metas de sus unidades responsables.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 718.
 
-El anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación se presentará y aprobará, conforme a las siguientes clasificaciones:
+El anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación, para su presentación ante la Secretaría de Hacienda, deberá tener las siguientes clasificaciones:
 
 I. La administrativa, la cual agrupa a las previsiones de gasto conforme a las unidades ejecutoras de gasto;
 
-II. La funcional y programática, la cual agrupa a las previsiones de gasto con base en las actividades que orgánicamente le corresponden a las unidades ejecutoras de gasto y de acuerdo con los resultados que se proponen alcanzar, en términos de funciones, programas, proyectos, actividades, objetivos y metas, permitiendo a través de indicadores, conocer y evaluar la productividad y los resultados del gasto en cada una de las etapas del proceso presupuestario; y
+II. La funcional y programática, la cual agrupa a las previsiones de gasto con base en las actividades que orgánicamente le corresponden a las unidades ejecutoras de gasto y de acuerdo con los resultados que se proponen alcanzar, en términos de funciones, programas, proyectos, actividades, objetivos y metas, permitiendo a través de indicadores, conocer y evaluar la productividad y los resultados del gasto en cada una de las etapas del proceso presupuestario.
 
-III. La económica, la cual agrupa las previsiones de gasto en función de su naturaleza económica y objeto, en erogaciones corrientes, inversión física, transferencias y, en su caso, subsidios.
+Asimismo, se incluirá en el anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación una clasificación que presente los distintos programas con su respectiva asignación;
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+III. La económica, la cual agrupa las previsiones de gasto en función de su naturaleza económica y objeto, en erogaciones corrientes, inversión física, inversión financiera, otras erogaciones de capital, transferencias y, en su caso, subsidios;
+
+IV. La geográfica, que agrupa a las previsiones de gasto con base en su destino geográfico; y
+
+V. La de género, la cual agrupa las previsiones de gasto con base en su destino por género, diferenciado entre mujeres y hombres.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 719.
 
-El anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación, se formulará conforme a los criterios y lineamientos que autorice el Pleno. Dichos criterios y lineamientos serán presentados a la consideración del Pleno por el Secretario Ejecutivo de Administración, previa aprobación de la Comisión de Administración. La elaboración del proyecto de los criterios y lineamientos será elaborado por la Dirección General de Programación y Presupuesto.
+El anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación, se formulará conforme a los criterios y lineamientos que autorice el Pleno. Dichos criterios y lineamientos serán propuestos al Pleno por la Secretaría Ejecutiva de Administración, previa aprobación de la Comisión de Administración.
 
-La elaboración del proyecto de los criterios y lineamientos será elaborado por la Dirección General de Programación y Presupuesto.
-
-La Dirección General de Programación y Presupuesto es competente para formular el anteproyecto de presupuesto de las unidades ejecutoras de gasto, cuando las mismas no lo presenten en los plazos establecidos.
+La Secretaría Ejecutiva de Administración, por conducto de la Dirección General de Programación y Presupuesto está facultada para formular el anteproyecto de presupuesto de las unidades ejecutoras de gasto con la información que ésta tenga disponible, cuando las mismas no lo presenten en los plazos establecidos.
 
 ###### Artículo 720.
 
 El anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación, deberá ser aprobado por el Pleno. Una vez aprobado deberá ser enviado a la Suprema Corte de Justicia de la Nación, para que por su conducto se remita al titular del Poder Ejecutivo para su incorporación al Proyecto de Presupuesto de Egresos de la Federación, conforme lo establecido por la Constitución, la Ley Orgánica y la Ley de Presupuesto.
 
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 ###### Artículo 721.
 
-En el anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación se deberán prever, en un capítulo específico, los compromisos plurianuales de gasto que se autoricen en los términos del artículo 730 de este Acuerdo, los cuales se deriven de contratos de obra pública, adquisiciones, arrendamientos y servicios. En estos casos, los compromisos excedentes no cubiertos tendrán preferencia respecto de otras previsiones de gasto, quedando sujetos a la disponibilidad presupuestaria anual.
+En el anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación se deberán prever, en un capítulo específico, los compromisos plurianuales de gasto que se autoricen en los términos de los artículos 730 y 730 Bis de este Acuerdo, los cuales se deriven de contratos de obra pública, adquisiciones, arrendamientos y servicios. En estos casos, los compromisos excedentes no cubiertos, tendrán preferencia respecto de otras previsiones de gasto, quedando sujetos a la disponibilidad presupuestaria anual.
 
 ###### Artículo 722.
 
@@ -8491,35 +8573,49 @@ I. Las remuneraciones de los servidores públicos y las erogaciones a cargo del 
 
 II. Las previsiones económicas para cubrir los incrementos salariales, la creación de plazas y otras medidas económicas de índole laboral.
 
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 ###### Artículo 723.
 
-Para la programación de los recursos destinados a programas y proyectos de inversión, las unidades globalizadoras deberán observar el siguiente procedimiento:
+Para la programación de los recursos destinados a programas y proyectos, las unidades globalizadoras deberán observar el siguiente procedimiento:
 
-I. Elaborar anualmente el documento de planeación que identifique los programas y proyectos de inversión que se encuentren en proceso de realización, así como aquéllos que se consideren susceptibles de realizarse en años futuros;
+I. Elaborar anualmente el documento de planeación que identifique los programas y proyectos que se encuentren en proceso de realización, así como aquéllos que se consideren susceptibles de realizarse en años futuros;
 
-II. Presentar a la Dirección General de Programación y Presupuesto la evaluación, costo y beneficio de los programas y proyectos de inversión que tengan a su cargo; y
+II. Identificar las necesidades a corto, mediano y largo plazo;
 
-III. Registrar cada programa y proyecto de inversión en la cartera que integra la Dirección General de Programación y Presupuesto, para lo cual se deberá presentar la evaluación costo y beneficio correspondiente. Las unidades globalizadoras deberán mantener actualizada la información contenida en la cartera. Sólo los programas y proyectos de inversión registrados en la cartera se podrán incluir en el anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación. La Dirección General de Programación y Presupuesto podrá negar o cancelar el registro si un programa o proyecto de inversión no cumple con las disposiciones aplicables.
+III. Integrar en su documento de planeación, la evaluación, costo y beneficio de los programas y proyectos que tengan a su cargo; y
+
+IV. Registrar cada programa y proyecto en la cartera que integra la Dirección General de Innovación, Planeación y Desarrollo Institucional.
+
+La Dirección General de Innovación, Planeación y Desarrollo Institucional y las unidades globalizadoras deberán mantener actualizada la información contenida en la cartera. Sólo los programas y proyectos registrados en la cartera se podrán incluir en el anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación.
 
 ### CAPÍTULO SÉPTIMO. EVALUACIÓN, INFORMACIÓN Y TRANSPARENCIA
 
-#### SECCIÓN CUARTA. INTEGRACIÓN DE LA CUENTA PÚBLICA
+#### SECCIÓN CUARTA. DEL ARCHIVO Y CONSERVACIÓN DE DOCUMENTOS
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 724.
 
-El ejercicio del gasto público en el Consejo se efectuará con base en el calendario del ejercicio presupuestal autorizado por el Pleno. Dicho ejercicio comprenderá el manejo y aplicación que de los recursos realice el Consejo, por medio de las unidades ejecutoras de gasto, para dar cumplimiento a los objetivos y metas de los programas contenidos en el Presupuesto de Egresos del Poder Judicial de la Federación aprobado anualmente.
+Las unidades ejecutoras de gasto serán responsables de la administración por resultados; para ello deberán cumplir con oportunidad y eficiencia las metas y objetivos previstos en sus respectivos programas, conforme a lo dispuesto en este Título y las demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+El ejercicio del gasto público en el Consejo se efectuará con base en el calendario del ejercicio presupuestal autorizado por el Pleno. Dicho ejercicio comprenderá el manejo y aplicación que de los recursos realice el Consejo, por medio de las unidades ejecutoras de gasto, para dar cumplimiento a los objetivos y metas considerados en el Programa Anual de Trabajo.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 725.
 
-Las políticas, lineamientos, directrices y criterios para el ejercicio del gasto público en el Consejo, serán definidos anualmente por la Comisión de Administración a propuesta de la Dirección General de Programación y Presupuesto por conducto de la Secretaría Ejecutiva de Administración, para autorización del Pleno y dándose a conocer a las unidades ejecutoras de gasto para su estricta observancia, las cuales tendrán vigencia hasta que sean emitidas las que las sustituyan.
+Las políticas, lineamientos, directrices y criterios para el ejercicio del gasto público en el Consejo, serán formulados por la Dirección General de Programación y Presupuesto y presentados por la Secretaría Ejecutiva de Administración a la Comisión de Administración para su definición anual y su posterior autorización del Pleno.
+
+Los instrumentos reglamentarios señalados en el párrafo anterior se darán a conocer a las unidades ejecutoras de gasto para su estricta observancia y tendrán vigencia hasta que sean emitidas aquellas que las sustituyan.
 
 ###### Artículo 726.
 
 Las unidades ejecutoras de gasto, para la elaboración de los calendarios del ejercicio presupuestal a que se refiere el artículo 724 de este Acuerdo, deberán observar además de lo dispuesto en las disposiciones legales aplicables, lo siguiente:
 
-I. Los calendarios serán anuales con base mensual y deberán compatibilizar las estimaciones de avance de metas con los requerimientos periódicos de recursos financieros necesarios para alcanzarlas;
+> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+I. Los calendarios serán anuales con base mensual y deberán compatibilizar las estimaciones de avance de las metas del programa de trabajo, con los requerimientos periódicos de recursos financieros necesarios para alcanzarlas;
 
 II. Los calendarios contemplarán las necesidades de pago, en función de los compromisos contraídos y por contraer; y
 
@@ -8553,7 +8649,11 @@ Las unidades globalizadoras, de acuerdo a sus atribuciones, deberán, en su caso
 
 Los contratos estarán sujetos a la disponibilidad presupuestaria del año en el que se prevé el inicio de su vigencia, por lo que sus efectos estarán condicionados a la existencia de los recursos presupuestarios respectivos, sin que la no realización de la referida condición suspensiva origine responsabilidad alguna para las partes.
 
-Para todo gasto no contemplado en los programas de ejecución, deberá obtenerse autorización previa del Pleno.
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+Para todo gasto no contemplado en los programas de ejecución, deberá obtenerse autorización previa del Pleno. Las variaciones a las estimaciones previstas en el programa, no serán consideradas como gasto no contemplado en el mismo, sin perjuicio de quedar sujetas a la suficiencia presupuestal correspondiente, que resulte del presupuesto autorizado a la unidad ejecutora de gasto respectiva.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 730.
 
@@ -8565,39 +8665,45 @@ II. Justifiquen el plazo de la contratación;
 
 III. Identifiquen el gasto corriente o de inversión correspondiente;
 
-IV. Desglosen el gasto a precios del año tanto para el ejercicio fiscal correspondiente, como para los subsecuentes y en el caso de obra pública, los avances físicos esperados;
+IV. Desglosen el gasto a precios del año tanto para el ejercicio fiscal correspondiente, como para los subsecuentes y, en el caso de obra pública, los avances físicos esperados;
 
 V. Soliciten la autorización del Pleno; y
 
-VI. Las normas generales que para tal efecto emita el Pleno.
+VI. Con las normas generales que para tal efecto emita el Pleno.
 
-Cuando se requiera actualizar los montos plurianuales autorizados que sirvieron de base para celebrar originalmente los contratos derivados de la variación de costos o montos, se deberá presentar al Pleno la justificación correspondiente, así como el avance financiero y en el caso de obra pública, además el avance físico.
+Cuando se requiera actualizar los montos plurianuales autorizados, que sirvieron de base para celebrar originalmente los contratos derivados de la variación de costos o montos, se deberá presentar al Pleno la justificación correspondiente, así como el avance financiero y, en el caso de obra pública, además el avance físico.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 730 Bis.
 
 La autorización de contratos plurianuales se sujetará a las siguientes reglas:
 
 I. El monto total de los contratos plurianuales no deberá implicar riesgos de incumplimiento de las obligaciones a cargo del Consejo ni restricciones a la flexibilidad requerida para el adecuado ejercicio del gasto;
 
-II. El monto máximo para la contratación plurianual, de cada ejercicio, deberá fijarse hasta por el monto que, como porcentaje del Presupuesto de Egresos en que se ejerza, autorice el Pleno a propuesta de la Dirección General de Programación y Presupuesto, lo que podrá ser reducido o ampliado conforme a las economías obtenidas en los capítulos de gasto corriente;
+II. El monto máximo para la contratación plurianual, de cada ejercicio, deberá fijarse hasta por el monto que, como porcentaje del presupuesto en que se ejerza, autorice el Pleno a propuesta de la Secretaría Ejecutiva de Administración, lo que podrá ser reducido o ampliado conforme a las economías obtenidas en los capítulos de gasto corriente;
 
-III. En todo caso se tomarán en consideración las erogaciones plurianuales aprobadas en ejercicios anteriores;
+III. De ser el caso, se tomarán en consideración las erogaciones plurianuales aprobadas en ejercicios anteriores;
 
 IV. Los compromisos plurianuales excedentes no cubiertos tendrán preferencia respecto de otras previsiones de gasto de infraestructura, quedando la ejecución de éstos sujeta a la disponibilidad presupuestaria anual;
 
 V. Tratándose de contratos plurianuales de obra pública, deberá preferirse la contratación mediante el esquema conocido como precio alzado, a no ser que el Comité correspondiente justifique motivadamente al Pleno, la conveniencia de otro esquema de contratación; y
 
-VI. En todo caso, las asignaciones de recursos de los ejercicios fiscales subsecuentes a la aprobación de dichas erogaciones deberán incluirse en el Presupuesto de Egresos.
+VI. En todo caso, las asignaciones de recursos de los ejercicios fiscales subsecuentes a la aprobación de dichas erogaciones deberán incluirse en el Presupuesto de Egresos del Poder Judicial de la Federación.
 
 Las unidades globalizadoras deberán informar al Pleno sobre cualquier variación significativa en los términos y estimaciones presentadas para obtener las autorizaciones correspondientes, así como cualquier asunto superveniente que afecte sustancialmente el desarrollo de la prestación de servicios de que se trate, en los términos de las disposiciones aplicables.
 
-El Consejo deberá incluir en los informes trimestrales, un reporte sobre el monto total erogado durante el periodo correspondiente a los contratos a que se refiere este artículo. Asimismo, deberá incluir las previsiones correspondientes en sus anteproyectos de presupuesto para el siguiente ejercicio fiscal, en los términos de este Título y de la Ley de Presupuesto.
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 731.
 
-El Consejo recibirá y operará sus recursos financieros a través de la Dirección General de Tesorería. Por lo que se refiere a los pagos, éstos serán realizados directamente por dicha Tesorería o por las Administraciones Regionales, Delegaciones Administrativas y Administraciones de Edificios del Distrito Federal y zona conurbada, conforme a este Título y demás disposiciones aplicables.
+El Consejo recibirá y operará sus recursos financieros a través de la Dirección General de Tesorería. Por lo que se refiere a los pagos, éstos serán realizados directamente por dicha Tesorería o por las Unidades Administrativas Foráneas y Administraciones de Edificios de la Ciudad de México y zona conurbada, conforme a este Título y demás disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 732.
 
-Los pagos que realice el Consejo, se podrán efectuar a través de diversos instrumentos y mecanismos, tales como: cheques, órdenes de pago, transferencias electrónicas de fondos, sistema de pago electrónico interbancario, depósitos en cuenta o cualquier otro mecanismo que opere el sistema bancario, derivado de la modernización tecnológica.
+Las unidades ejecutoras de gasto realizarán los cargos al Presupuesto de Egresos del Poder Judicial de la Federación, a través del registro de los momentos presupuestales conforme a los procedimientos establecidos.
 
 ###### Artículo 733.
 
@@ -8629,6 +8735,14 @@ De no cumplir los requisitos antes señalados, dichos compromisos se cubrirán c
 
 Cuando por cualquier motivo al treinta y uno de diciembre, el Consejo conserve recursos del Presupuesto de Egresos del Poder Judicial de la Federación, incluyendo los rendimientos obtenidos, deberá reintegrar el importe disponible a la Tesorería de la Federación, dentro de los quince días naturales siguientes al cierre del ejercicio.
 
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+Queda prohibido realizar erogaciones al final del ejercicio con cargo a ahorros y economías del Presupuesto de Egresos del Poder Judicial de la Federación que tengan por objeto evitar el reintegro de recursos.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+Las fechas de cierre de cada ejercicio presupuestal serán establecidas en las respectivas políticas y lineamientos para el ejercicio del presupuesto de egresos del Poder Judicial de la Federación, que anualmente se expiden.
+
 ###### Artículo 736.
 
 Los pagos que afecten el Presupuesto de Egresos del Poder Judicial de la Federación sólo podrán hacerse efectivos en tanto no prescriba la acción para exigir su pago, conforme a las disposiciones legales aplicables.
@@ -8645,17 +8759,21 @@ II. Por el ejercicio de acciones correspondientes ante los tribunales competente
 
 Las certificaciones, los compromisos, las ministraciones de fondos, los pagos, las operaciones que signifiquen cargos y abonos a los presupuestos sin que exista erogación material de fondos, así como las adecuaciones presupuestarias, implicarán afectaciones a los presupuestos aprobados.
 
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 ###### Artículo 739.
 
-Las afectaciones al Presupuesto de Egresos el Poder Judicial de la Federación, se realizarán por medio de los siguientes documentos presupuestarios:
+Las afectaciones al Presupuesto de Egresos del Poder Judicial de la Federación, se realizarán por medio de los siguientes documentos presupuestarios:
 
 I. Adecuaciones Presupuestarias;
 
 II. Certificación de Disponibilidad Presupuestal;
 
-III. Documento de Afectación Presupuestal; y
+III. Documento de Afectación Presupuestal;
 
-IV. Volante de Autorización Presupuestal.
+IV. Registro del Presupuesto Devengado; y
+
+V. Volante de Autorización Presupuestal.
 
 ###### Artículo 740.
 
@@ -8731,13 +8849,17 @@ IV. Se especifique en el contrato respectivo la necesidad y el alcance de los se
 
 V. Se apeguen a las demás disposiciones generales aplicables.
 
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 ###### Artículo 748.
 
-Las erogaciones que se realicen por concepto de gastos de orden social, congresos, convenciones, exposiciones, seminarios, espectáculos culturales o cualquier otro tipo de foro o evento análogo, se sujetarán a los lineamientos específicos autorizados por el Pleno.
+Las erogaciones que se realicen por concepto de asesorías, estudios e investigaciones, gastos de orden social, congresos, convenciones, exposiciones, seminarios, espectáculos culturales o cualquier otro tipo de foro o evento análogo, se sujetarán a los lineamientos específicos autorizados por el Pleno.
 
-Las erogaciones que se realicen por concepto de gastos de orden social, seminarios, asesorías, estudios e investigaciones, así como las de carácter imprevisto que efectúe el Consejo a través de las áreas competentes, para la atención de necesidades urgentes, de ejecución inmediata y de montos relativamente menores, serán autorizadas por la Dirección General de Programación y Presupuesto. De los gastos realizados dicha Dirección General deberá presentar mensualmente un informe a la Comisión de Administración.
+Las erogaciones relacionadas con gastos de orden social, seminarios, asesorías, estudios e investigaciones, que efectúe el Consejo a través de las áreas competentes, para la atención de necesidades urgentes, de ejecución inmediata y de montos relativamente menores, serán autorizadas por la Dirección General de Programación y Presupuesto.
 
-#### SECCIÓN QUINTA. ARCHIVO CONTABLE
+De los gastos realizados, la Dirección General de Programación y Presupuesto, deberá presentar mensualmente un informe a la Comisión de Administración.
+
+#### SECCIÓN PRIMERA. CONTROL Y VIGILANCIA
 
 ###### Artículo 749.
 
@@ -8759,9 +8881,11 @@ VII. Otras medidas económicas de índole laboral, establecidas en las disposici
 
 Una vez aprobada la asignación global de servicios personales en el Presupuesto de Egresos del Poder Judicial de la Federación, ésta no podrá incrementarse.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 ###### Artículo 750.
 
-La creación de nuevas plazas definitivas deberá contar, previamente, con el dictamen de suficiencia presupuestal correspondiente.
+La creación de nuevas plazas, definitivas o temporales, deberá contar, previamente, con el dictamen de suficiencia presupuestal correspondiente, para someterse a autorización de las instancias superiores.
 
 Asimismo, se evitará la realización de traspasos de recursos de otros capítulos presupuestales al capítulo de servicios personales, salvo que se cuente con previa y expresa autorización del Pleno.
 
@@ -8823,15 +8947,21 @@ Las unidades ejecutoras de gasto deberán establecer los mecanismos necesarios p
 
 Independientemente de la forma de pago, el Consejo, a través de las Direcciones Generales de Recursos Humanos, Tesorería y de las Administraciones Regionales, según corresponda, deberá asegurarse de entregar a cada servidor público, directamente o por medios electrónicos, el comprobante de pago donde se especifiquen los conceptos y cantidades que correspondan a sus percepciones y descuentos. Asimismo, deberá conservar los documentos que emitan las instituciones bancarias de los abonos efectuados a las cuentas de los servidores públicos, lo que comprobará que efectivamente se efectuó el pago.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 ###### Artículo 755.
 
-La Dirección General de Programación y Presupuesto propondrá para autorización del Pleno, el Manual de Remuneraciones para los servidores públicos a cargo del Consejo, incluyendo las reglas para su aplicación.
+La Secretaría Ejecutiva de Administración a través de sus unidades administrativas someterá a la autorización del Pleno, previa consideración favorable de la Comisión de Administración, el Manual de Percepciones y Prestaciones para los servidores públicos a cargo del Consejo; así como las reglas para su aplicación.
 
 El Manual a que se refiere este artículo deberá publicarse en el Diario Oficial de la Federación conforme a los plazos establecidos en las disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 ###### Artículo 756.
 
-Los movimientos que realice la Dirección General de Programación y Presupuesto, con base en la autorización de la Comisión de Administración o el Pleno, a las estructuras orgánicas y ocupacionales, deberán realizarse mediante adecuaciones presupuestarias compensadas, las que en ningún caso incrementarán el presupuesto regularizable para servicios personales del ejercicio fiscal inmediato siguiente, salvo en el caso de la creación de plazas, conforme a los recursos previstos específicamente para tal fin en el Presupuesto de Egresos del Poder Judicial de la Federación, por concepto de Servicios Personales, en los términos del artículo 749 de este Acuerdo.
+Los movimientos a las estructuras orgánicas y ocupacionales, deberán realizarse mediante adecuaciones presupuestarias compensadas, sin incrementar el presupuesto regularizable (sic) de servicios personales del ejercicio fiscal inmediato siguiente.
+
+En el caso de creación de plazas, dicho incremento se realizará conforme a los recursos previstos específicamente para tal fin en el Presupuesto de Egresos del Poder Judicial de la Federación.
 
 ###### Artículo 757.
 
@@ -8859,17 +8989,21 @@ La Dirección General de Asuntos Jurídicos dictaminará los contratos conforme 
 
 La Dirección General de Programación y Presupuesto, deberá reportar en los informes trimestrales y en la Cuenta Pública, las contrataciones por honorarios que el Consejo realice durante el ejercicio fiscal.
 
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 ###### Artículo 759.
 
-La Secretaría Ejecutiva de Administración, a través de la Dirección General de Recursos Humanos, será la responsable de establecer y operar un sistema que permita la concentración y consolidación de las nóminas, mismas que estarán integradas por el total de los servidores públicos a cargo del Consejo.
+La Dirección General de Recursos Humanos, será la responsable de establecer y operar un sistema que permita la concentración y consolidación de las nóminas, mismas que estarán integradas por el total de los servidores públicos del Consejo.
 
 ###### Artículo 760.
 
 El personal que ingrese a prestar sus servicios en el Consejo deberá declarar, bajo protesta de decir verdad, si se encuentra o no desempeñando otro empleo o comisión con cargo a la Federación y, en caso afirmativo, la Dirección General de Recursos Humanos deberá abstenerse de contratarlo, hasta en tanto se determine la compatibilidad correspondiente, en la inteligencia que, de no acatarse esta disposición, se constituirá la responsabilidad que proceda.
 
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 ###### Artículo 761.
 
-Para determinar la compatibilidad a que se refiere el artículo anterior la Secretaría Ejecutiva de Administración, a través de la Dirección General de Recursos Humanos, expedirá la autorización correspondiente, debiendo considerar las circunstancias en que se realice dicho empleo o comisión, a efecto de que se cumpla con los horarios establecidos y el ejercicio adecuado de las funciones respectivas.
+Para determinar la compatibilidad a que se refiere el artículo anterior, la Dirección General de Recursos Humanos, expedirá la autorización correspondiente, debiendo considerar las circunstancias en que se realice dicho empleo o comisión, a efecto de que se cumpla con los horarios establecidos y el ejercicio adecuado de las funciones respectivas.
 
 ###### Artículo 762.
 
@@ -8889,7 +9023,7 @@ Los pagos por concepto de defunción que se otorguen a los beneficiarios con mot
 
 Para que se tenga derecho a las pagas y apoyo por concepto de defunción, es indispensable que la persona fallecida no se hubiese encontrado disfrutando de licencia sin goce de sueldo, excepto cuando se trate de licencia por enfermedad.
 
-#### SECCIÓN PRIMERA. CONTROL Y VIGILANCIA
+#### SECCIÓN SEGUNDA. AUDITORÍAS
 
 ###### Artículo 766.
 
@@ -8909,9 +9043,11 @@ I. El análisis y evaluación que de las operaciones financieras y de la realiza
 
 II. Las situaciones coyunturales, contingentes y extraordinarias que incidan en el desarrollo de los programas.
 
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 ###### Artículo 768.
 
-La Dirección General de Programación y Presupuesto realizará las adecuaciones presupuestarias entre partidas, capítulos de gasto y programas en los siguientes casos:
+La Dirección General de Programación y Presupuesto, realizará las adecuaciones presupuestarias entre partidas, capítulos de gasto, o programas en los siguientes casos:
 
 I. Cuando previo análisis del comportamiento del gasto, se estimen pertinentes para un óptimo ejercicio de los recursos presupuestales;
 
@@ -8919,11 +9055,11 @@ II. Cuando se requiera dotar de suficiencia presupuestal a partidas por gastos e
 
 III. A solicitud de las unidades ejecutoras de gasto, después de satisfacer el análisis y la evaluación correspondiente.
 
-En todos los casos, las adecuaciones presupuestarias que realice la Dirección General de Programación y Presupuesto, deberán apegarse a las disposiciones legales y normativas aplicables.
+En todos los casos, las adecuaciones presupuestarias, deberán cumplir con las disposiciones jurídicas aplicables.
 
-A nivel de gasto desconcentrado, la Coordinación de Administración Regional y las Direcciones Generales de Recursos Materiales; y de Servicios Generales, así como las Administraciones Regionales y las Administraciones de Edificios del Distrito Federal y zona conurbada, realizarán las adecuaciones que sean necesarias, conforme a la normatividad vigente.
+A nivel de gasto desconcentrado, la Coordinación de Administración Regional y las Direcciones Generales de Recursos Materiales; Servicios Generales; e Inmuebles y Mantenimiento, así como las Unidades Administrativas Foráneas y las Administraciones de Edificios de la Ciudad de México y zona conurbada, realizarán las adecuaciones que sean necesarias, conforme a la normatividad vigente.
 
-De los movimientos realizados la Dirección General de Programación y Presupuesto deberá informar periódicamente a la Comisión de Administración y al Pleno.
+De los movimientos realizados, la Dirección General de Programación y Presupuesto, integrará el informe que presente la Secretaría Ejecutiva de Administración periódicamente a la Comisión de Administración y al Pleno.
 
 ###### Artículo 769.
 
@@ -8937,13 +9073,13 @@ III. Se realicen reducciones a partidas de inversión para incrementar las de ga
 
 IV. Cuando lo solicite de manera expresa la Comisión de Administración.
 
-#### SECCIÓN PRIMERA. CONTROL Y VIGILANCIA
+#### SECCIÓN TERCERA. RESPONSABILIDADES
 
 ###### Artículo 770.
 
-Con el fin de procurar el ejercicio eficiente y eficaz del gasto, la Dirección General de Programación y Presupuesto podrá desconcentrar en las Administraciones Regionales, Delegaciones Administrativas y las Administraciones de Edificios del Distrito Federal y zona conurbada, la realización de funciones presupuestales y operaciones financieras, en los términos de este Título y demás disposiciones aplicables.
+Con el fin de procurar el ejercicio eficiente y eficaz del gasto, la Secretaría Ejecutiva de Administración podrá desconcentrar en las Unidades Administrativas Foráneas y las Administraciones de Edificios de la Ciudad de México y zona conurbada, la realización de funciones presupuestales y operaciones financieras, en los términos de este Título y demás disposiciones jurídicas aplicables.
 
-Corresponde a la Dirección General de Programación y Presupuesto supervisar el adecuado desarrollo de la desconcentración de las funciones y operaciones señaladas en el párrafo anterior, con la finalidad de mantener el control del gasto, y la integridad y consistencia de la información financiera.
+La Dirección General de Programación y Presupuesto tendrá la atribución de supervisar el adecuado desarrollo de la desconcentración de las funciones y operaciones señaladas en el párrafo anterior, con la finalidad de mantener el control del gasto, y la integridad y consistencia de la información financiera.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -8955,85 +9091,163 @@ Son considerados como fideicomisos públicos en los términos de lo dispuesto po
 
 La autorización de la creación o aportación a los fideicomisos será atribución indelegable del Pleno. Estos estarán sujetos a las obligaciones que establece este Título.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 772 DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 772.
 
 El Consejo deberá publicar en el Diario Oficial de la Federación, dentro del mes siguiente al término del trimestre, los ingresos del periodo, incluyendo los rendimientos financieros; egresos; destino y saldo de los fideicomisos en los que participe, en los términos de las disposiciones aplicables.
 
-La información a que se refiere el párrafo anterior deberá remitirse a la Secretaría de Hacienda para efectos de la integración de los informes trimestrales, a más tardar diez días hábiles antes de la fecha de entrega del informe trimestral correspondiente. Asimismo, deberán reportar a la Auditoría el ejercicio de los recursos públicos aportados a dichos fideicomisos para efectos de la Cuenta Pública.
+La información a que se refiere el párrafo anterior deberá remitirse a la Secretaría de Hacienda para efectos de la integración de los informes trimestrales, conforme al plazo establecido en la Ley de Presupuesto.
+
+Asimismo, deberán reportar a la Auditoría Superior de la Federación el ejercicio de los recursos públicos aportados a dichos fideicomisos para efectos de la Cuenta Pública.
 
 Al extinguirse los fideicomisos, los recursos públicos remanentes deberán destinarse conforme lo establezca la Ley de Presupuesto, previa autorización del Pleno.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ### CAPÍTULO SEGUNDO. AUTORIZACIÓN DE COMISIONES
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-#### SECCIÓN SEGUNDA. AUDITORÍAS
+#### SECCIÓN PRIMERA. EVALUACIÓN
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 773.
 
-El sistema de contabilidad del Consejo será definido, desarrollado, operado y supervisado de tal forma que facilite el registro de las operaciones financieras y presupuestales, así como la fiscalización de los activos, pasivos, ingresos, erogaciones y gastos atendiendo al conjunto de principios, normas y procedimientos técnicos que permitan registrar, procesar e informar sobre las operaciones y la situación financiera del Consejo, que coadyuve a la toma de decisiones, la transparencia y la rendición de cuentas.
+El Sistema de Contabilidad del Consejo permitirá:
+
+I. Registrar de manera armónica, delimitada y específica las operaciones presupuestarias y contables derivadas de la gestión pública, así como otros flujos económicos;
+
+II. Facilitar la fiscalización de los activos, pasivos, ingresos, erogaciones y gastos; atendiendo al conjunto de principios, normas y procedimientos técnicos que permitan registrar, procesar e informar sobre las operaciones y la situación financiera del Consejo; y
+
+III. Generar estados financieros, confiables, oportunos, comprensibles, periódicos y comparables, los cuales serán expresados en términos monetarios que coadyuven a la toma de decisiones, la transparencia y la rendición de cuentas.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 774.
 
-La Dirección General de Programación y Presupuesto, implementará, modificará y actualizará el sistema de contabilidad conforme a lo establecido en el artículo anterior y contará para ello con las herramientas informáticas necesarias.
+La Dirección General de Programación y Presupuesto, será responsable del Sistema de Contabilidad y de vigilar el correcto registro de las operaciones en el sistema electrónico.
+
+Lo anterior, de conformidad con la Ley General de Contabilidad Gubernamental y los Acuerdos que emita el Consejo Nacional de Armonización Contable, así como la normativa que emita el Consejo.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 775.
 
-El registro de las operaciones y la preparación de informes financieros del Consejo se efectuarán tomando en consideración los principios de contabilidad gubernamental, generales y específicos y de manera supletoria las normas de información financiera y de contabilidad del sector público.
+El Sistema de Contabilidad del Consejo deberá:
 
-#### SECCIÓN TERCERA. RESPONSABILIDADES
+I. Reflejar la aplicación de los principios, normas contables generales y específicas e instrumentos que establezcan la Ley General de Contabilidad Gubernamental, el Consejo Nacional de Armonización Contable, y las autoridades correspondientes;
+
+II. Permitir el reconocimiento de las operaciones de ingresos, gastos, activos, pasivos y patrimoniales;
+
+III. Integrar en forma automática el ejercicio presupuestario con la operación contable, a partir de la utilización del gasto devengado;
+
+IV. Permitir que los registros se efectúen considerando la base acumulativa para la integración de la información presupuestaria y contable;
+
+V. Reflejar un registro congruente y ordenado de cada operación que genere derechos y obligaciones derivados de la gestión financiera;
+
+VI. Generar, en tiempo real, estados financieros, de ejecución presupuestaria;
+
+VII. Facilitar el registro y control de los inventarios de los bienes muebles e inmuebles; y
+
+VIII. Facilitar el registro y control de los activos intangibles.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 775 Bis.
+
+El Consejo adoptará los manuales de contabilidad, así como otros instrumentos contables que defina el Consejo Nacional de Armonización Contable, en lo que resulten aplicables.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 775 Ter.
+
+La contabilidad se basará en un marco conceptual que represente los conceptos fundamentales para la elaboración de normas, la contabilización, valuación y presentación de la información financiera confiable y comparable para satisfacer las necesidades de los usuarios y permitirá ser reconocida e interpretada por especialistas e interesados en la (sic) finanzas públicas.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 775 Quater.
+
+El Consejo adoptará los Postulados Básicos de Contabilidad Gubernamental, a efecto de sustentar técnicamente la contabilidad, así como organizar la efectiva sistematización que permita la obtención de información veraz, clara y concisa.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+#### SECCIÓN SEGUNDA. INFORMACIÓN Y TRANSPARENCIA
 
 ###### Artículo 776.
 
-La contabilidad deberá llevarse con base acumulativa a través del registro de las operaciones devengadas, por lo que la contabilización de las transacciones se efectuará conforme a la fecha de su realización, independientemente de la de su pago.
+La contabilidad del Consejo, deberá expresar íntegramente, las transacciones en los estados financieros y considerar las mejores prácticas contables, nacionales e internacionales, de conformidad con la Ley General de Contabilidad Gubernamental y las resoluciones del Consejo Nacional de Armonización Contable, en apoyo a las tareas de planeación financiera, control de recursos, análisis y fiscalización.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 777.
 
-Es responsabilidad de la Dirección General de Programación y Presupuesto, la confiabilidad de las cifras consignadas en su contabilidad, así como la representatividad de los saldos de las cuentas de balance en función de los activos, pasivos, patrimonio y cuentas presupuestales, adoptando para ello las medidas de control y depuración correspondientes.
+La contabilidad del Consejo, se llevará con base acumulativa, a través del registro de las operaciones devengadas. La contabilización de las transacciones de gasto se hará conforme a la fecha de su realización, independientemente de la de su pago, y la del ingreso se registrará cuando efectivamente sean recibidos.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 778.
 
-La contabilidad del Consejo deberá contar con auxiliares contables y presupuestales que muestren los avances presupuestarios y financieros, con objeto de facilitar la evaluación en el ejercicio de gasto público, así como permitir el control y conocimiento individual de la integración de los saldos de cada cuenta de balance y de resultados.
+El Consejo deberá mantener en los libros de diario, mayor, inventarios y balances, un registro histórico detallado de las operaciones realizadas.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 779.
 
-El Catálogo de Cuentas al que deberá ajustarse el Consejo para el registro de sus operaciones financieras, estará integrado por los siguientes grupos de cuentas:
+El registro de las etapas del presupuesto se efectuará en las cuentas contables que, para tal efecto, establezca el Consejo Nacional de Armonización Contable, las cuales deberán reflejar:
 
-I. Activo;
+I. En lo relativo al gasto, el aprobado, modificado, comprometido, devengado, ejercido y pagado; y
 
-II. Pasivo;
+II. En lo relativo al ingreso, el estimado, modificado, devengado y recaudado.
 
-III. Patrimonio;
-
-IV. Resultados;
-
-V. Orden; y
-
-VI. Presupuesto.
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 780.
 
-Para modificar el Catálogo de Cuentas a que se refiere el artículo anterior se deberá observar lo establecido en las disposiciones legales aplicables. Dicha modificación se podrá llevar a cabo en los siguientes casos:
+Los procesos administrativos que impliquen transacciones presupuestarias y contables generarán por única vez su registro automático en los momentos contables correspondientes.
 
-I. Creación de un nuevo sistema;
+Para tales efectos, se dispondrá de clasificadores presupuestarios, listas de cuentas y catálogos de bienes o instrumentos similares que permitan su interrelación automática.
 
-II. Requerimientos específicos del Consejo;
-
-III. Adecuaciones por reformas técnico-administrativas; y
-
-IV. Actualización de la técnica contable.
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 781.
 
-La Dirección General de Programación y Presupuesto llevará a cabo la desagregación de las cuentas contables en subcuentas y subsubcuentas que permitan el suministro de información interna para la toma de decisiones administrativas y para el control en la ejecución de las acciones, de acuerdo con las necesidades del Consejo.
+Será responsabilidad de la Dirección General de Programación y Presupuesto, la confiabilidad de las cifras consignadas en su contabilidad, así como la representatividad de los saldos de las cuentas de balance en función de los activos, pasivos, patrimonio y cuentas presupuestales, adoptando para ello las medidas de control y depuración correspondientes.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 782.
 
-La Dirección General de Programación y Presupuesto registrará anualmente como asiento de apertura en la contabilidad, los saldos finales de las cuentas de balance del ejercicio inmediato anterior.
+La contabilidad deberá contener registros auxiliares que muestren los avances presupuestarios y contables, que permitan realizar el seguimiento y evaluación del ejercicio del gasto público y la obtención del ingreso, así como el análisis y la integración de los saldos contenidos en sus estados financieros.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 783.
+
+Para el registro de las operaciones presupuestarias y contables, el Consejo a través de la Dirección General de Programación y Presupuesto, deberá ajustarse a sus respectivos catálogos de cuentas, cuyas listas de cuentas estarán alineadas, tanto conceptualmente como en sus principales agregados, al plan de cuentas que emita el Consejo Nacional de Armonización Contable.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 784.
+
+Para modificar el catálogo de cuentas a que se refiere el artículo anterior, el Consejo deberá observar lo establecido en las disposiciones que, en su caso, emita el Consejo Nacional de Armonización Contable.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 785.
+
+La Dirección General de Programación y Presupuesto llevará a cabo la desagregación de las cuentas contables en los niveles que permitan el suministro de información interna para la toma de decisiones administrativas y para el control en la ejecución de las acciones, de acuerdo con las necesidades del Consejo.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 786.
+
+La Dirección General de Programación y Presupuesto, registrará anualmente, como asiento de apertura en la contabilidad, los saldos finales de las cuentas de balance del ejercicio inmediato anterior.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 787.
 
 El registro contable de los ingresos, según sea el caso, deberá estar respaldado por:
 
@@ -9043,131 +9257,295 @@ II. Depósitos bancarios;
 
 III. Transferencias electrónicas; y
 
-IV. Cualquier otro documento que por su naturaleza sea considerado ingreso.
+IV. Cualquier otro documento que acredite la entrada de recursos que por su naturaleza sea considerado ingreso.
 
-En los casos excepcionales en que no se cuente con alguno de los documentos antes citados, y se desconozca el origen del ingreso, la Dirección General de Programación y Presupuesto registrará con base en los estados de cuenta bancarios en los cuales se identifique el ingreso a la cuenta correspondiente.
+En los casos excepcionales en que no se cuente con alguno de los documentos antes citados, o se desconozca el origen del ingreso, la Dirección General de Programación y Presupuesto registrará, con base en los estados de cuenta bancarios en los cuales se identifique el ingreso a la cuenta correspondiente.
 
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
-
-###### Artículo 784.
-
-Las recuperaciones de recursos presupuestales de ejercicios anteriores que se registren contablemente en el ejercicio fiscal en curso, por hasta tres millones de pesos 00/100 moneda nacional en un sólo mes, deberán ser reintegradas a la Tesorería de la Federación por conducto de la Secretaría Ejecutiva de Administración, a través de la Dirección General de Programación y Presupuesto, de conformidad con las disposiciones legales aplicables. Los reintegros mayores a tres millones de pesos 00/100 moneda nacional, deberán contar con la autorización previa de la Comisión de Administración. Los reintegros por montos iguales o menores se efectuarán directamente por la Dirección General de Programación y Presupuesto, previa opinión favorable de la Contraloría.
-
-###### Artículo 785.
-
-Tratándose de sueldos y prestaciones devengados no cobrados que hayan prescrito conforme a la Ley de Presupuesto, y una vez realizadas las gestiones correspondientes, se efectuarán las ampliaciones líquidas al presupuesto.
-
-###### Artículo 786.
-
-Para el registro de las operaciones financieras, entre otras, se deberá observar lo siguiente:
-
-I. En el caso de obras públicas, el presupuesto se considera devengado y ejercido al momento de aprobarse el anticipo o la estimación de avance físico de las mismas por las áreas autorizadas para tal efecto. Para su contabilización, las áreas competentes deberán tramitar ante la Dirección General de Programación y Presupuesto, la estimación correspondiente;
-
-II. Cuando se trate de gastos que se devenguen en forma continua, como son, entre otros: carga social, arrendamiento, servicio telefónico y energía, se podrán registrar como presupuesto ejercido, si no se tuvieren los comprobantes de su importe, mediante una estimación de éste, tomando como base el importe del mes inmediato anterior, tomando en consideración la solicitud expresa de las unidades ejecutoras de gasto; y
-
-III. La contabilización de los pagos correspondientes al pasivo por operaciones de ejercicios anteriores se ajustará a lo dispuesto en las disposiciones legales aplicables.
-
-###### Artículo 787.
-
-Para la contabilización de las operaciones, en casos excepcionales cuando se carezca de los documentos justificativos o comprobatorios, la Dirección General de Programación y Presupuesto, deberá consignar mediante acta circunstanciada o documento público, entre otros datos, la causa del faltante y su justificación, los importes y fechas de las operaciones, solicitando la autorización correspondiente a la Comisión de Administración a fin de proceder al registro contable.
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 788.
 
-La Dirección General de Programación y Presupuesto contabilizará los movimientos y existencias de sus almacenes mediante la valuación de los inventarios, con base en el método de costos promedio autorizado para tal efecto.
+Las recuperaciones de recursos presupuestales de ejercicios anteriores que se registren contablemente en el ejercicio fiscal en curso, deberán ser reintegradas a la Tesorería de la Federación por la Secretaría Ejecutiva de Administración, a través de la Dirección General de Programación y Presupuesto, previa opinión favorable de la Contraloría. Los reintegros que en el periodo de un mes excedan la cantidad de 41,073.3844 veces el valor de la Unidad de Medida y Actualización, deberán contar además con la autorización previa de la Comisión de Administración.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 789.
 
-Las bajas del activo fijo, es decir de bienes muebles, por concepto de enajenación, donación, transferencias, pérdidas por siniestros o determinación de desechos, y cualquier otro que determine el órgano facultado del Consejo, serán registradas con la documentación e información que las áreas competentes deberán remitir a la Dirección General de Programación y Presupuesto, las cuales como mínimo, según sea el caso, deberán contener:
+Tratándose de ingresos excedentes, y una vez obtenidas las autorizaciones correspondientes, se efectuarán las ampliaciones líquidas al presupuesto o su reintegro a la Tesorería de la Federación, conforme a la política que determine el Pleno.
 
-I. Aviso de baja de almacén;
-
-II. Número de inventario;
-
-III. Descripción del artículo;
-
-IV. Proveedor;
-
-V. Número de factura;
-
-VI. Fecha de adquisición;
-
-VII. Costo de adquisición; y
-
-VIII. Precio de Venta.
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 790.
 
-La Dirección General de Recursos Materiales deberá contar con un sistema de inventarios de activo fijo que permita un control administrativo, registro contable y el manejo adecuado de los inventarios, el cual debe de contener como mínimo lo siguiente:
+Para el registro de las operaciones financieras, se deberá observar lo siguiente:
 
-I. Aviso de alta de almacén;
+I. En cuanto al devengo de los conceptos aplicables al Consejo, las Normas y Metodología emitidas por el Consejo Nacional de Armonización Contable;
 
-II. Número de inventario;
+II. Cuando se trate de gastos que se devenguen en forma continua, como son, entre otros: carga social, arrendamiento, servicio telefónico y energía, se podrán afectar presupuestalmente como presupuesto devengado, si no se tuvieren los comprobantes fiscales que amparen el importe, con base en una estimación de éste, o bien, pudiendo tomar como base el del mes inmediato anterior, y a solicitud expresa de las unidades ejecutoras de gasto; y
 
-III. Descripción del artículo;
+III. La contabilización de los pagos correspondientes al pasivo por operaciones de ejercicios anteriores se ajustará a lo dispuesto en las disposiciones jurídicas aplicables.
 
-IV. Proveedor;
-
-V. Número de factura;
-
-VI. Fecha de adquisición; y
-
-VII. Costo de adquisición.
-
-Asimismo, deberá enviar a la Dirección General de Programación y Presupuesto, un reporte mensual de movimientos de altas y bajas y, dentro de los quince días posteriores al cierre del ejercicio fiscal, el inventario del activo fijo a nivel nacional. En caso de que se detecten diferencias entre éste y el registro contable, se procederá a realizar la revisión con el área administrativa correspondiente y, en su caso, se efectuarán los ajustes necesarios previa autorización de la Comisión de Administración.
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 791.
 
-Las unidades ejecutoras de gasto serán las responsables de remitir a la Dirección General de Programación y Presupuesto las solicitudes de pagos a terceros, así como las aportaciones por concepto de carga social que realiza el Consejo, con la documentación comprobatoria debidamente requisitada que ampare y justifique el pago, para su solicitud a la Dirección General de Tesorería y su posterior registro contable.
+La contabilidad de las operaciones deberá estar respaldada con los documentos originales comprobatorios y justificativos.
+
+En casos excepcionales, cuando se carezca de los documentos justificativos o comprobatorios, la Dirección General de Programación y Presupuesto, o en su caso, las Unidades Administrativas Foráneas deberán consignar mediante acta circunstanciada o documento público, entre otros datos, la causa del faltante y su justificación, los importes y fechas de las operaciones, solicitando la autorización correspondiente a la Comisión de Administración a fin de proceder al registro contable, tomando en consideración las recomendaciones que para efectos de fiscalización y auditoría, emita la Contraloría.
+
+El Consejo estará obligado a conservar y poner a disposición de las autoridades competentes los documentos, comprobatorios y justificativos, así como los libros principales de contabilidad, de conformidad con los lineamientos que para tal efecto establezca el Consejo Nacional de Armonización Contable.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 792.
 
-La contabilidad de las operaciones deberá estar respaldada con los documentos comprobatorios y justificativos originales o, en su caso, con los documentos autorizados por la Comisión de Administración para los casos excepcionales para efectos contables, que permitan verificar las operaciones de ingreso, gasto público y otros que afecten el patrimonio de la Hacienda Pública Federal, tomando en cuenta las recomendaciones que para efectos de fiscalización y auditoría, emita la Contraloría.
+La contabilidad del Consejo deberá reflejar los registros de los movimientos y existencias de los almacenes, mediante la información que genere la Dirección General de Recursos Materiales, mismos que deberán ser valuados con base en el método de costos promedio autorizado para tal efecto.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 792 Bis.
+
+El Consejo deberá registrar en su contabilidad los bienes muebles, inmuebles e intangibles que forman parte del patrimonio a su cargo y que estarán integrados por:
+
+I. Los inmuebles destinados a un servicio público conforme a la normativa aplicable;
+
+II. Todos los bienes identificados como mobiliario y equipo, incluido el de cómputo, vehículos y demás bienes muebles;
+
+III. Los bienes intangibles, tales como software, patentes, derechos, concesiones y licencias, entre otros; y
+
+IV. Cualesquiera otros bienes muebles, inmuebles e intangibles que las autoridades correspondientes y la normativa aplicable establezcan.
+
+Asimismo, en la Cuenta Pública incluirán la relación de los bienes muebles e inmuebles que componen su patrimonio conforme a los formatos establecidos por las autoridades correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 792 Ter.
+
+Las áreas encargadas del control y administración de los diversos activos del Consejo, deberán mantener actualizada una integración sujeta a inventario, de los diversos bienes muebles, inmuebles e intangibles; mismos que deberán ser registrados en cuentas específicas del activo.
+
+Las relaciones de bienes mencionados, deberán contar con la misma clasificación por tipo de bien de la contabilidad, así como el costo histórico de cada uno, de tal manera que los registros contables y los controles de las áreas encargadas del control y administración de los diversos bienes muebles, inmuebles e intangibles sean coincidentes y puedan ser conciliados, por lo menos una vez al año, con saldos al 31 de diciembre de cada ejercicio fiscal.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 792 Quater.
+
+Las áreas encargadas del control y administración de los diversos activos del Consejo, deberán llevar a cabo un levantamiento físico de los bienes muebles e inmuebles a que se refiere el artículo 792 Ter de este Acuerdo. Dicho inventario deberá estar debidamente conciliado con los registros contables, el cual deberá actualizarse, por lo menos, cada seis meses, debiendo publicar dicho inventario a través de Internet, de conformidad con los formatos establecidos por el Consejo Nacional de Armonización Contable.
+
+En el caso de bienes inmuebles, no podrá establecerse un valor inferior al catastral.
+
+El control de los activos intangibles deberá de actualizarse y conciliarse, cuando menos, cada seis meses.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 792 Quinquies.
+
+La unidad administrativa responsable del control de los inventarios, deberá contar con un sistema de inventarios de activo fijo que permita mantener un control administrativo, registro contable y, el manejo adecuado de los inventarios, el cual debe contener como mínimo, lo siguiente:
+
+I. Código o cuenta;
+
+II. Número de inventario;
+
+III. Área de ubicación del bien;
+
+IV. Descripción del bien o artículo; y
+
+V. Valor.
+
+En caso de que se detecten diferencias en el levantamiento del inventario físico, se efectuarán los ajustes necesarios previa autorización de las autoridades correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 792 Sexies.
+
+Cuando se realice la transición de una administración a otra, los bienes que no se encuentren inventariados o estén en proceso de registro y hubieren sido recibidos o adquiridos durante el encargo de su administración, deberán ser entregados oficialmente a la administración entrante a través de un acta de entrega y recepción. La administración entrante realizará el registro e inventario a que se refiere este Título.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 792 Septies.
+
+Las bajas del activo fijo, es decir de bienes muebles, inmuebles e intangibles por concepto de enajenación, donación, transferencias, pérdidas por siniestros, vigencia o determinación de desechos, y cualquier otro que determine el órgano facultado del Consejo, serán registradas por las unidades administrativas responsables en cuentas específicas del activo con la documentación correspondiente, las cuales según sea el caso, deberán contener cuando menos:
+
+I. Código o cuenta;
+
+II. Número de inventario;
+
+III. Área de ubicación del bien;
+
+IV. Descripción del bien o artículo; y
+
+V. Valor.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 792 Octies.
+
+Las obras en proceso deberán registrarse, invariablemente, en una cuenta contable específica del activo, la cual reflejará su grado de avance financiero en forma objetiva y comprobable.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 792 Nonies.
+
+Las unidades administrativas responsables deberán registrar en una cuenta de activo, los fideicomisos sin estructura orgánica y contratos análogos sobre los que tenga derecho o de los que emane una obligación, conforme a los lineamientos establecidos para tales efectos.
 
 ###### Artículo 793.
 
 La Dirección General de Programación y Presupuesto recabará trimestralmente de las áreas administrativas competentes, la información necesaria relativa a los juicios o procedimientos de cualquier tipo que afecten recursos presupuestales del Consejo, con la finalidad de realizar los ajustes que correspondan a los saldos de las cuentas contables, previa autorización de la Comisión de Administración.
 
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 793 Bis.
+
+Las unidades administrativas registrarán las provisiones que se constituyan para hacer frente a los pasivos de cualquier naturaleza. Dichas provisiones deberán ser revisadas y ajustadas para mantener su vigencia.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 793 Ter.
+
+Las unidades ejecutoras de gasto serán las responsables de remitir a la Dirección General de Programación y Presupuesto, las solicitudes de pagos a terceros, así como las aportaciones por concepto de carga social que realiza el Consejo, con la documentación comprobatoria debidamente requisitada que ampare y justifique el pago, para su solicitud a la Dirección General de Tesorería.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 ###### Artículo 794.
 
-La Dirección General de Programación y Presupuesto realizará la depuración contable de las cuentas de balance, efectuando los registros de ajustes y reclasificaciones contables, anexando la documentación soporte que refleje el trabajo realizado de depuración en los términos establecidos en las disposiciones normativas aplicables.
+La Dirección General de Programación y Presupuesto realizará la depuración contable efectuando los registros de ajustes y reclasificaciones contables, anexando la documentación soporte, justificativa y comprobatoria, que refleje el trabajo realizado de depuración en los términos establecidos en las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 795.
 
-En los casos que no se cuente con los elementos suficientes para la depuración o cancelación de saldos contables, la Dirección General de Programación y Presupuesto, de conformidad con los lineamientos autorizados por la Comisión de Administración, elaborará una acta narrativa de hechos en la que se describan las acciones que llevaron al resultado obtenido, a la cual deberá anexarse la documentación soporte que garantice que se han agotado los mecanismos de investigación, por cada uno de los saldos a depurar, y la presentará a la Comisión, para su autorización y cancelación de movimientos y saldos contables correspondientes.
+En los casos que no se cuente con los elementos suficientes para la depuración o cancelación de saldos contables, la Dirección General de Programación y Presupuesto, de conformidad con los lineamientos autorizados por la Comisión de Administración, elaborará una acta narrativa de hechos en la que se describan las acciones que llevaron al resultado obtenido, a la cual deberá anexarse la documentación soporte que garantice que se han agotado los mecanismos de investigación, por cada uno de los saldos a depurar, y la presentará a la Comisión antes citada, para la autorización y cancelación de movimientos y saldos contables correspondientes.
 
-#### SECCIÓN PRIMERA. EVALUACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+#### SECCIÓN PRIMERA. PATRIMONIO DEL FONDO DE APOYO
+
+SUBSECCIÓN PRIMERA
+
+DISPOSICIONES GENERALES
+
+###### Artículo 795 Bis.
+
+Los estados financieros y la información emanada de la contabilidad deberán sujetarse a criterios de armonización contable, utilidad, confiabilidad, relevancia, comprensibilidad y de comparación, así como a otros atributos asociados a cada uno de ellos, como oportunidad, veracidad, representatividad, objetividad, suficiencia, posibilidad de predicción e importancia relativa.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 796.
 
-Para efectos de la formulación de estados financieros, la Dirección General de Programación y Presupuesto deberá elaborar el balance general o estado de situación financiera; estado de resultados; estado de origen y aplicación de recursos; estado de modificación al patrimonio; y demás información financiera y presupuestal que emane de la contabilidad y forme parte integrante de la misma.
+El sistema contable del Consejo permitirá, en la medida que corresponda, la generación periódica de los estados, y la información financiera que a continuación se señala:
 
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+I. Información contable, con la desagregación siguiente:
+
+a) Estado de actividades;
+
+b) Estado de situación financiera;
+
+c) Estado de variación en la hacienda pública;
+
+d) Estado de cambios en la situación financiera;
+
+e) Estado de flujos de efectivo;
+
+f) Informes sobre pasivos contingentes;
+
+g) Notas a los estados financieros;
+
+h) Estado analítico del activo; e
+
+i) Estado analítico de la deuda y otros pasivos, del cual se derivarán las clasificaciones siguientes:
+
+1. Corto y largo plazo, así como por su origen en interna y externa;
+
+2. Fuentes de financiamiento;
+
+3. Por moneda de contratación; y
+
+4. Por país acreedor;
+
+II. Información presupuestaria, con la desagregación siguiente:
+
+a) Estado analítico de ingresos, del que se derivará la presentación en clasificación económica por fuente de financiamiento y concepto, incluyendo los ingresos excedentes generados;
+
+b) Estado analítico del ejercicio del Presupuesto de Egresos del Poder Judicial de la Federación del que se derivarán las siguientes clasificaciones:
+
+1. Administrativa;
+
+2. Económica y por objeto del gasto; y
+
+3. Funcional-programática.
+
+El estado analítico del ejercicio del Presupuesto de Egresos del Poder Judicial de la Federación deberá identificar los montos y adecuaciones presupuestarias y subejercicios por Ramo y/o Programa;
+
+c) Endeudamiento neto, financiamiento menos amortización, del que derivará la clasificación por su origen en interno y externo;
+
+d) Intereses de la deuda; y
+
+e) Un flujo de fondos que resuma todas las operaciones y los indicadores de la postura fiscal;
+
+III. Información programática, con la desagregación siguiente:
+
+a) Gasto por categoría programática;
+
+b) Programas y proyectos;
+
+c) Indicadores de resultados; y
+
+IV. La información complementaria para generar las cuentas nacionales y atender otros requerimientos provenientes de organismos internacionales de los que los Estados Unidos Mexicanos es miembro.
+
+Los estados analíticos sobre deuda pública y otros pasivos, y el de capital deberán considerar por concepto el saldo inicial del ejercicio, las entradas y salidas por transacciones, otros flujos económicos y el saldo final del ejercicio.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 797.
 
-La Dirección General de Programación y Presupuesto deberá elaborar, autorizar y enviar a la Secretaría Ejecutiva de Administración y a la Contraloría, los estados financieros de manera mensual y en los términos establecidos en las disposiciones aplicables.
+La Dirección General de Programación y Presupuesto es la responsable de elaborar, autorizar y enviar a la Secretaría Ejecutiva de Administración y a la Contraloría, los estados financieros de manera mensual, en los términos establecidos en las disposiciones jurídicas aplicables.
+
+La información financiera, de conformidad con este Título y con la Ley General de Contabilidad Gubernamental será organizada, sistematizada y difundida, al menos, trimestralmente en el portal de Internet del Consejo a solicitud de la Dirección General de Programación y Presupuesto, a más tardar treinta días después del cierre del período que corresponda, en términos de las disposiciones en materia de transparencia que le sean aplicables y, en su caso, de los criterios que emita el Consejo Nacional de Armonización Contable. La difusión de la información a través de Internet no exime de la obligación de presentar los informes ante las instancias correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 797 Bis.
+
+Las notas a los estados financieros son parte integral de los mismos; éstas deberán revelar y proporcionar información adicional y suficiente que amplíe y dé significado a los datos contenidos en los reportes, y cumplir con lo siguiente:
+
+I. Incluir la declaración de responsabilidad sobre la presentación razonable de los estados financieros;
+
+II. Señalar las bases técnicas en las que se sustenta el registro, reconocimiento y presentación de la información presupuestaria, contable y patrimonial;
+
+III. Destacar que la información se elaboró conforme a las normas, criterios y principios técnicos emitidos de conformidad a las disposiciones legales aplicables, obedeciendo a las mejores prácticas contables;
+
+IV. Contener información relevante del pasivo que se registra; y
+
+V. Proporcionar información relevante y suficiente relativa a los saldos y movimientos de las cuentas consignadas en los estados financieros, así como sobre los riesgos y contingencias no cuantificadas, o bien, de aquéllas en que aún conociendo su monto por ser consecuencia de hechos pasados, no ha ocurrido la condición o evento necesario para su registro y presentación, así sean derivadas de algún evento interno o externo siempre que puedan afectar la posición financiera y patrimonial.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 798.
 
-Para dar cumplimiento a la integración y presentación de la Cuenta Pública, al informe de avance de gestión financiera y a los informes trimestrales, la Dirección General de Programación y Presupuesto deberá consolidar la información financiera, presupuestal, programática y económica del Consejo, de conformidad con este Título, la Ley de Presupuesto y demás disposiciones aplicables.
+Para dar cumplimiento a la integración y presentación de la Cuenta Pública, al informe de avance de gestión financiera y a los informes trimestrales, la Dirección General de Programación y Presupuesto deberá consolidar la información financiera, presupuestal, programática y económica del Consejo, de conformidad con este Acuerdo, la Ley General de Contabilidad Gubernamental y las disposiciones que emita el Consejo Nacional de Armonización Contable.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 798 Bis.
+
+Los estados financieros elaborados por la Dirección General de Programación y Presupuesto y demás información presupuestaria, programática y contable que emanen de los registros de las operaciones financieras, serán la base para la emisión de informes periódicos y para la formulación de la Cuenta Pública anual.
+
+El Consejo deberá elaborar los estados financieros de conformidad con las disposiciones normativas y técnicas de este Acuerdo o las que emitan las autoridades correspondientes.
+
+Los estados relativos a los ingresos y gastos públicos presupuestarios se elaborarán sobre la base de devengado y, adicionalmente, se presentarán en flujo de efectivo.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 799.
 
-El Consejo, por conducto de las áreas administrativas responsables, verificará que la elaboración de la Cuenta Pública cumpla con la normatividad respectiva y se apegue a los principios de contabilidad generales y específicos, aplicables al sector público, considerando al menos lo siguiente:
+El Consejo, por conducto de la Contraloría, verificará que la elaboración de la Cuenta Pública cumpla con la normativa aplicable, en lo referente a lo emitido por la Secretaría de Hacienda, considerando los formatos requeridos para tal efecto.
 
-I. Hoja de trabajo;
+Para lo anterior, se aplicarán las normas de auditoría para verificar que los sistemas, procedimientos, métodos de contabilidad, registro contable y documentos comprobatorios del ingreso y Gasto Público Federal de la Cuenta Pública, comprueben que el ejercicio del gasto público sea congruente con el Presupuesto de Egresos del Poder Judicial de la Federación.
 
-II. Estado del ejercicio del presupuesto;
-
-III. Estado analítico de ingresos; y
-
-IV. Principales variaciones a las cuentas de balance y resultados.
-
-Asimismo, aplicará las normas de auditoría para verificar que los sistemas, procedimientos, métodos de contabilidad, registro contable y documentos comprobatorios del ingreso y Gasto Público Federal de la Cuenta Pública, comprueben que el ejercicio del gasto público sea congruente con el Presupuesto de Egresos del Poder Judicial de la Federación.
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 800.
 
-Como resultado de la elaboración y consolidación de la Cuenta Pública, cuando se requiera, se efectuarán los ajustes correspondientes en la contabilidad del Consejo, de conformidad con lo establecido en las disposiciones legales aplicables.
+Como resultado de la elaboración y verificación de la Cuenta Pública, cuando se requiera, se efectuarán los ajustes correspondientes en la contabilidad del Consejo, de conformidad con las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 25 DE MAYO DE 2015)</small>
 
@@ -9177,51 +9555,69 @@ La Secretaría Ejecutiva de Administración, con la opinión favorable de la Con
 
 Una vez aprobada la Cuenta Pública el titular de la Dirección General de Programación y Presupuesto la remitirá a la Secretaría de Hacienda para su incorporación a la Cuenta Anual de la Hacienda Pública Federal, en los términos de las disposiciones aplicables; e informará a la Comisión de Administración y al Pleno al respecto.
 
-#### SECCIÓN SEGUNDA. INFORMACIÓN Y TRANSPARENCIA
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 801 Bis.
+
+La Dirección General de Programación y Presupuesto publicará la Cuenta Pública en la página de Internet del Consejo, conforme a lo dispuesto en las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
+
+#### SECCIÓN SEGUNDA. CONTROL Y LA VIGILANCIA
 
 ###### Artículo 802.
 
-La Dirección General de Programación y Presupuesto y las Administraciones Regionales estarán obligadas a conservar en su poder y a disposición del Pleno y de las demás autoridades competentes, por los plazos que al respecto se establezcan en los ordenamientos legales aplicables y en los acuerdos del Consejo, los registros contables e información correspondiente, así como los documentos justificativos y comprobatorios de las operaciones financieras del Consejo.
+La Dirección General de Programación y Presupuesto y las Unidades Administrativas Foráneas estarán obligadas a conservar en su poder y a disposición del Pleno y de las demás autoridades competentes, por los plazos que al respecto se establezcan en los ordenamientos legales aplicables y en los acuerdos del Consejo, los registros contables e información correspondiente, así como los documentos justificativos y comprobatorios de las operaciones financieras del Consejo.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 803.
 
-En el caso de que se carezca de documentos justificativos y comprobatorios, por pérdida o daño, la Dirección General de Programación y Presupuesto y las Administraciones Regionales, según corresponda, deberán consignar mediante acta o documento público en presencia de la Contraloría, la existencia previa así como la causa del faltante o justificación en la cual se consignen los importes y las fechas de las operaciones.
+En el caso de que se carezca de documentos justificativos y comprobatorios, por pérdida o daño, la Dirección General de Programación y Presupuesto y las Unidades Administrativas Foráneas, según corresponda, deberán consignar mediante acta o documento público en presencia de la Contraloría, la existencia previa así como la causa del faltante o justificación en la cual se consignen los importes y las fechas de las operaciones.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 804.
 
 Cuando se cumplan los plazos de conservación de documentación justificativa y comprobatoria, la Dirección General de Programación y Presupuesto, previo dictamen de la Contraloría, someterá a consideración de la Comisión de Administración, la solicitud de autorización para efectuar la baja y destrucción del archivo contable.
 
-Las Administraciones Regionales someterán previamente a visto bueno de la Dirección General de Programación y Presupuesto, la lista de documentos justificatorios y comprobatorios del gasto para su destrucción, revisado lo anterior, se someterá a dictamen de la Contraloría y posterior consideración de la Comisión de Administración.
+Las Unidades Administrativas Foráneas someterán previamente a visto bueno de la Dirección General de Programación y Presupuesto, la lista de documentos justificativos y comprobatorios del gasto para su destrucción, revisado lo anterior, se someterá a dictamen de la Contraloría y a la consideración de la Comisión de Administración.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 805.
 
-La documentación contable que le sea requerida a la Dirección General de Programación y Presupuesto y a las Administraciones Regionales, deberá ser consultada en las instalaciones del Consejo, en consecuencia no se permitirá su salida.
+La documentación contable que le sea requerida a la Dirección General de Programación y Presupuesto y a las Unidades Administrativas Foráneas, deberá ser consultada en las instalaciones del Consejo, en consecuencia no se permitirá su salida.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 806.
 
-Para dar cumplimiento a la normatividad establecida, la Dirección General Programación y Presupuesto deberá contar con los espacios suficientes para la conservación, control y resguardo de la documentación comprobatoria y justificativa de las operaciones financieras del Consejo.
+Para dar cumplimiento a la normatividad aplicable, la Dirección General de Programación y Presupuesto y las Unidades Administrativas Foráneas deberán contar con los espacios suficientes, con la ubicación, orientación, iluminación, grado de humedad y ventilación apropiadas, además de establecer medidas de seguridad contra plagas, incendios, inundaciones y sustracciones de todo tipo para el archivo, conservación, control y resguardo de la documentación comprobatoria y justificativa de las operaciones financieras del Consejo.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 807.
 
-Con la finalidad de optimizar el gasto y los espacios para el archivo contable, la Dirección General de Programación y Presupuesto evitará la recepción de documentación que no sea de carácter contable.
+Con la finalidad de optimizar el gasto y los espacios para el archivo contable, la Dirección General de Programación y Presupuesto y las Unidades Administrativas Foráneas evitarán la recepción de documentación que no sea de carácter contable.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 808.
 
-En el resguardo y conservación de la documentación comprobatoria de los pagos de nóminas del Consejo, la Dirección General de Recursos Humanos conservará para su guarda, manejo y custodia los recibos originales de pago de nómina y las nóminas por adscripción, de conformidad con lo establecido en las disposiciones aplicables, remitiendo a la Dirección General de Programación y Presupuesto únicamente para su registro contable y resguardo el resumen general de nómina. Asimismo, establecerá lo conducente para que la guarda, manejo y custodia de los documentos antes señalados se digitalicen, o bien, que la emisión se realice a través de medios electrónicos.
+Las unidades administrativas, en el ámbito de su competencia, serán las responsables del resguardo y conservación de la documentación comprobatoria de los pagos de nóminas. Para tal fin, conservarán para su guarda, manejo y custodia los recibos de pago de nómina y las nóminas por adscripción o, en su caso, el archivo electrónico que lo sustituya, de conformidad con lo establecido en las disposiciones jurídicas aplicables; asimismo remitirán a la Dirección General de Programación y Presupuesto o a las Unidades Administrativas Foráneas, según corresponda, el resumen general de nómina, para los efectos a que haya lugar.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 809.
 
-La Dirección General de Programación y Presupuesto iniciará el programa de digitalización de la documentación contable justificativa y comprobatoria, con la finalidad de evitar el deterioro y el riesgo de pérdida de los documentos originales, agilizando de esta manera la consulta en forma electrónica de la información.
+La Dirección General de Programación y Presupuesto, así como las Unidades Administrativas Foráneas llevarán a cabo un programa de digitalización de documentación justificativa y comprobatoria de las operaciones financieras del Consejo que se encuentren bajo su resguardo.
 
 ### CAPÍTULO TERCERO. TRÁMITE DE SOLICITUD DE VIÁTICOS Y TRANSPORTACIÓN
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-#### SECCIÓN PRIMERA. PATRIMONIO DEL FONDO DE APOYO
-
-SUBSECCIÓN PRIMERA
-
-DISPOSICIONES GENERALES
+#### SECCIÓN TERCERA. ADMINISTRACIÓN Y OPERACIÓN
 
 ###### Artículo 810.
 
@@ -9241,7 +9637,7 @@ La Contraloría vigilará que el ejercicio presupuestal se apegue a las disposic
 
 El control y vigilancia del gasto público en el Consejo, se basará en la información derivada de:
 
-I. La contabilidad que, conforme a las disposiciones legales aplicables y a los acuerdos del Pleno, lleve el propio Consejo, a través de la Dirección General de Programación y Presupuesto;
+I. La contabilidad que, conforme a las disposiciones jurídicas aplicables, lleve el propio Consejo, por conducto de la Dirección General de Programación y Presupuesto;
 
 II. La observación de los hechos, las conclusiones y recomendaciones y, en general, los informes y resultados de las auditorías y visitas practicadas por los órganos competentes del Consejo; y
 
@@ -9269,7 +9665,7 @@ II. Fincamiento de las responsabilidades, en términos de las disposiciones lega
 
 III. Adopción de medidas tendentes a mejorar la gestión y el control interno.
 
-#### SECCIÓN SEGUNDA. CONTROL Y LA VIGILANCIA
+#### SECCIÓN CUARTA. INSTITUCIÓN DEPOSITARIA
 
 ###### Artículo 815.
 
@@ -9321,15 +9717,17 @@ Para el caso de auditorías externas, los órganos facultados someterán a consi
 
 La Contraloría llevará el control de las observaciones y recomendaciones generadas en las auditorías, para efectuar el seguimiento sobre el cumplimiento de las medidas preventivas o correctivas que se hayan derivado.
 
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 ###### Artículo 823.
 
-Si como resultado de las auditorías se detectan irregularidades que ameriten fincar algún tipo de responsabilidad, se procederá en los términos de la Sección Tercera del Capítulo Sexto de este Título y de las disposiciones aplicables.
+Si como resultado de las auditorías se detectan irregularidades que ameriten fincar algún tipo de responsabilidad, se procederá en los términos de este Título y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 824.
 
 La revisión y vigilancia que efectúe la Contraloría y en general las actividades propias de la auditoría, no deberán formar parte de las labores operativas y trámites administrativos que en forma directa realicen las unidades ejecutoras, por lo que los mecanismos de verificación y control interno que formen parte de los sistemas y procedimientos propios de la competencia, funciones y programas de las unidades ejecutoras, no podrán ser desarrollados por el personal de la Contraloría.
 
-#### SECCIÓN TERCERA. ADMINISTRACIÓN Y OPERACIÓN
+#### SECCIÓN QUINTA. DESTINO
 
 ###### Artículo 825.
 
@@ -9391,39 +9789,49 @@ Artículo 835 Vicies. La Comisión de Administración, autorizará la actualizac
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-#### SECCIÓN CUARTA. INSTITUCIÓN DEPOSITARIA
+#### SECCIÓN SEXTA. TRANSPARENCIA Y RENDICIÓN DE CUENTAS
 
 ###### Artículo 830.
 
-El Consejo implementará el Sistema Institucional de Evaluación a que se refiere el artículo 111 de la Ley de Presupuesto, de conformidad con los mecanismos que establezca la Secretaría de Hacienda y Crédito Público.
+El Consejo implementará un Sistema Institucional de Evaluación a que se refiere el artículo 111 de la Ley de Presupuesto, que incorporará indicadores para evaluar los resultados y el cumplimiento de los criterios establecidos en el párrafo segundo del artículo 1 de la Ley de Presupuesto.
 
-La Dirección General de Programación y Presupuesto realizará la evaluación del ejercicio del presupuesto en función de los calendarios autorizados a las unidades ejecutoras de gasto. El cumplimiento de los objetivos y metas de los programas aprobados serán analizados y evaluados por ésta y la Contraloría en el ámbito de sus atribuciones.
+Dicho sistema será autorizado por el Pleno, a propuesta de la Secretaría Ejecutiva de Administración y de la Dirección General de Innovación, Planeación y Desarrollo Institucional.
+
+La Dirección General de Innovación, Planeación y Desarrollo Institucional, evaluará mediante el Sistema Institucional de Evaluación el cumplimiento de los objetivos y metas de los programas aprobados y verificará los resultados de ejecución de los programas de las unidades ejecutoras de gasto, que deberán ser presentados en informes para identificar el cumplimiento de los criterios establecidos en el segundo párrafo del artículo 1 de la Ley de Presupuesto.
+
+El Sistema Institucional de Evaluación deberá incorporar indicadores específicos que permitan evaluar la incidencia de los programas en la igualdad entre mujeres y hombres, la erradicación de la violencia de género y de cualquier forma de discriminación de género, su elaboración y seguimiento será responsabilidad de la Dirección General de Innovación, Planeación y Desarrollo Institucional.
+
+La Dirección General de Innovación, Planeación y Desarrollo Institucional, realizará la evaluación de los programas aprobados. La Dirección General de Programación y Presupuesto aportará la información presupuestaría que se requiera para tales efectos.
+
+La Contraloría llevará a cabo las revisiones procedentes, para evaluar los resultados y el cumplimiento de los criterios establecidos en el párrafo segundo del artículo 1 de la Ley de Presupuesto de conformidad con sus atribuciones.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 831.
 
-La Dirección General de Programación y Presupuesto, en el ámbito de su competencia, verificará periódicamente, los resultados de ejecución de los programas y presupuestos de las unidades ejecutoras de gasto, con base en el Sistema Institucional de Evaluación, entre otros, para identificar la eficiencia, economía, eficacia y la calidad en el Consejo y el impacto social del ejercicio del gasto público, así como aplicar las medidas conducentes. Dicho sistema incorporará indicadores para evaluar los resultados presentados en los informes, desglosados por mes.
+La Dirección General de Innovación, Planeación y Desarrollo Institucional, integrará la información necesaria para el adecuado funcionamiento del Sistema Institucional de Evaluación.
 
-Los resultados a los que se refiere este artículo deberán ser considerados para efectos de la programación, presupuestación y ejercicio de los recursos.
+Los resultados a los que se refiere este artículo podrán ser considerados, por la Dirección General de Programación y Presupuesto para efectos de la programación y presupuestación de los recursos.
 
-Asimismo, la Contraloría llevará a cabo las revisiones procedentes de conformidad a sus programas de auditoría autorizados.
+Los indicadores del Sistema Institucional de Evaluación deberán formar parte del Presupuesto de Egresos del Poder Judicial de la Federación e incorporar sus resultados en la Cuenta Pública, explicando las variaciones y su correspondiente efecto económico.
 
 ###### Artículo 832.
 
-El Consejo contará con un Sistema Institucional de Evaluación, que será autorizado por el Pleno, a propuesta de la Dirección General de Programación y Presupuesto.
+(DEROGADO, D.O.F. 27 DE ABRIL DE 2017)
 
 ###### Artículo 833.
 
 Las unidades ejecutoras de gasto serán responsables de la rendición de cuentas sobre los recursos humanos, materiales y financieros que administra el Consejo para el cumplimiento de sus programas institucionales.
 
-#### SECCIÓN QUINTA. DESTINO
+#### SECCIÓN SÉPTIMA. SANCIONES
 
 ###### Artículo 834.
 
-El manejo de los recursos públicos en el Consejo estará sujeto a los principios de transparencia, acceso a la información y rendición de cuentas.
+(DEROGADO, D.O.F. 27 DE ABRIL DE 2017)
 
 ###### Artículo 835.
 
-Para efectos del artículo anterior, las unidades ejecutoras de gasto observarán, en lo conducente, lo dispuesto en este Título, la Ley de Presupuesto, la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, el Reglamento de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal para la aplicación de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de transparencia, acceso a la información pública, protección de datos personales y archivos y demás disposiciones aplicables.
+(DEROGADO, D.O.F. 27 DE ABRIL DE 2017)
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
@@ -10003,7 +10411,7 @@ La contratación a que hace referencia este artículo deberá sujetarse a las re
 
 ### CAPÍTULO SEGUNDO. ACTIVIDADES COMERCIALES
 
-#### SECCIÓN SEXTA. TRANSPARENCIA Y RENDICIÓN DE CUENTAS
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 854.
 
@@ -10173,7 +10581,9 @@ Los depósitos en dinero diversos a los depósitos judiciales corresponden, entr
 
 La Dirección General de Programación y Presupuesto solicitará a la Dirección General de Tesorería que transfiera, en un plazo no mayor a diez días naturales, los ingresos a que se refiere el artículo anterior y tenga en su posesión, a la cuenta patrimonial del Fondo de Apoyo e informará de ello a la Secretaría Técnica y al Comité.
 
-#### SECCIÓN SÉPTIMA. SANCIONES
+#### SECCIÓN SEGUNDA. PROGRAMAS DE SEGURIDAD INSTITUCIONAL
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
 ###### Artículo 888.
 
@@ -10205,7 +10615,9 @@ III. El sistema de registro y control de los recursos ajenos; y
 
 IV. Las demás que se establezcan en las disposiciones legales aplicables y en los acuerdos que emitan el Consejo y el Comité.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN TERCERA. MEDIDAS DE CONTROL PARA EL ACCESO DE SERVIDORES PÚBLICOS Y VISITANTES
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
 ###### Artículo 891.
 
@@ -10275,9 +10687,7 @@ La devolución de cantidades o valores que deban ser reintegrados al depositante
 
 Se procurará que los billetes, certificados o instrumentos de depósito se puedan hacer efectivos en cualquier sucursal del país de la institución depositaria, previa orden de pago de la autoridad judicial competente.
 
-#### SECCIÓN SEGUNDA. PROGRAMAS DE SEGURIDAD INSTITUCIONAL
-
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+#### SECCIÓN CUARTA. INSTALACIONES
 
 ###### Artículo 901.
 
@@ -10305,9 +10715,7 @@ La institución depositaria debe informar a la secretaría técnica del Fondo, p
 
 Los informes de la institución depositaria deberán rendirse de forma que permitan la conciliación oportuna, completa y precisa de los ingresos, egresos y rendimientos. En caso de inconsistencias en los estados de cuenta, la secretaría técnica del Fondo de Apoyo deberá promover las aclaraciones correspondientes en un término no mayor de treinta días posteriores a que tenga conocimiento de ellas.
 
-#### SECCIÓN TERCERA. MEDIDAS DE CONTROL PARA EL ACCESO DE SERVIDORES PÚBLICOS Y VISITANTES
-
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+#### SECCIÓN QUINTA. SERVICIO DE SEGURIDAD Y VIGILANCIA
 
 ###### Artículo 907.
 
@@ -10325,7 +10733,7 @@ En todo caso, se debe considerar que los recursos disponibles del Fondo de Apoyo
 
 Las percepciones del secretario técnico y las del personal que se designe para auxiliar en las actividades del Fondo de Apoyo, se cubrirán directamente de los recursos disponibles del Fondo de Apoyo, en los términos previstos en el artículo 249, fracción I, de la Ley Orgánica.
 
-#### SECCIÓN CUARTA. INSTALACIONES
+#### SECCIÓN SEXTA. BIENES
 
 ###### Artículo 911.
 
@@ -10335,7 +10743,7 @@ El Comité enviará en forma trimestral a la entidad de fiscalización superior 
 
 La información que se genere con motivo de la administración y operación del Fondo de Apoyo, se regirá por lo dispuesto en las normas que en materia de transparencia tiene establecidas el Consejo.
 
-#### SECCIÓN QUINTA. SERVICIO DE SEGURIDAD Y VIGILANCIA
+#### SECCIÓN PRIMERA. DEROGADA
 
 ###### Artículo 913.
 
@@ -10377,7 +10785,7 @@ La Dirección General de Comunicación Social deberá presentar al Pleno y a la 
 
 ### CAPÍTULO TERCERO. PROGRAMA ANUAL DE PROTECCIÓN CIVIL Y SU EJECUCIÓN
 
-#### SECCIÓN SEXTA. BIENES
+#### SECCIÓN SEGUNDA. DEROGADA
 
 ###### Artículo 918.
 
@@ -10407,7 +10815,7 @@ Todas las instalaciones deberán contar con un análisis de riesgo.
 
 En las instalaciones, la Administración de Inmuebles deberá colocar en lugar visible, las medidas de acceso, estancia y salida de las mismas, con el propósito de orientar a servidores públicos y visitantes, así como transparentar las mismas.
 
-#### SECCIÓN PRIMERA. DEROGADA
+#### SECCIÓN TERCERA. DEROGADA
 
 ###### Artículo 922.
 
@@ -10453,7 +10861,7 @@ II. Gestionar y proveer los servicios de mantenimiento para la correcta operaci�
 
 La Coordinación de Seguridad atenderá los requerimientos que en materia de seguridad le soliciten las áreas administrativas, órganos jurisdiccionales y servidores públicos y, en su caso, atenderá en forma oportuna a las llamadas urgentes que se reciban en esta materia.
 
-#### SECCIÓN SEGUNDA. DEROGADA
+#### SECCIÓN CUARTA. DEROGADA
 
 ###### Artículo 927.
 
@@ -10525,7 +10933,7 @@ En la aplicación de los acuerdos generales y demás disposiciones del Consejo r
 
 El ingreso y estancia de periodistas y medios de comunicación en las instalaciones, requerirá la previa autorización de la Dirección General de Comunicación Social o del Administrador del Centro de Justicia Penal quienes, en todo caso, deberán dar aviso a la Coordinación de Seguridad a efecto de que se apliquen los protocolos o manuales correspondientes.
 
-#### SECCIÓN TERCERA. DEROGADA
+#### SECCIÓN QUINTA. DEROGADA
 
 ###### Artículo 934.
 
@@ -10549,7 +10957,7 @@ La información que se genere por el uso de los equipos mencionados en el artíc
 
 El manejo, resguardo y entrega de la información generada por dichos sistemas, se regulará por los manuales, procedimientos y sistemas establecidos por la Coordinación de Seguridad, en ellos se privilegiará en todo momento la protección de los datos personales, con las excepciones que las leyes determinen. El mal uso de dicha información quedará bajo la responsabilidad de quien la controle y divulgue.
 
-#### SECCIÓN CUARTA. DEROGADA
+#### SECCIÓN SEXTA. DEROGADA
 
 ###### Artículo 938.
 
@@ -10559,7 +10967,7 @@ Asimismo, y a través del personal de seguridad, evaluará la prestación de los
 
 La administración de Inmuebles deberá reportar al área de contratación de que se trate, cualquier situación que contravenga las obligaciones contractuales.
 
-#### SECCIÓN QUINTA. DEROGADA
+#### SECCIÓN SÉPTIMA. DEROGADA
 
 ###### Artículo 939.
 
@@ -11575,7 +11983,7 @@ Derogado.
 
 ## TÍTULO SEGUNDO. DE LOS PREMIOS, PRESTACIONES Y LICENCIAS
 
-#### SECCIÓN SEXTA. DEROGADA
+#### SECCIÓN OCTAVA. DEROGADA
 
 ###### Artículo 74.
 
@@ -11926,3 +12334,11 @@ D.O.F. 10 DE MARZO DE 2017.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 27 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL PROCESO PRESUPUESTARIO Y CONTABLE”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo.
