@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2017-04-07"
+last_updated: "2017-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2017.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -340,19 +340,19 @@ V.- Por vagancia, ebriedad o toxicomanía consuetudinarias, declaradas en la for
 
 VI.- El que esté residiendo habitualmente fuera del Estado, salvo los casos de desempeño de cargo de elección popular, estudios, o de alguna otra comisión o empleo conferido por la Federación, Estado, o alguno de los Municipios del mismo.
 
-> <small>(REFORMADO, 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 18.
 
-Es facultad exclusiva del Congreso del Estado, rehabilitar en los derechos de ciudadano a quien los hubiere perdido; pero es requisito indispensable para conceder esta gracia, que la persona objeto de ella goce de los derechos de ciudadano mexicano.
+La calidad de ciudadano morelense se recobra por el solo hecho de haber cesado la causa que motiva la pérdida o suspensión, pero es requisito indispensable que la persona goce de los derechos de ciudadano mexicano.
 
-La calidad de ciudadano morelense se recobra por el solo hecho de haber cesado la causa que motiva la suspensión.
-
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 19.
 
-La mujer y el varón tienen igualdad de derechos ante la Ley. De igual manera protegerán la organización y desarrollo de la familia, incluidas las familias monoparentales, entre las que se dará protección al menor de edad, la mujer, las personas con capacidades diferentes y los ancianos.
+La mujer y el varón tienen igualdad de derechos ante la Ley. Los ordenamientos respectivos tutelarán la igualdad de estos derechos y sancionarán cualquier tipo de discriminación o menoscabo producido en relación al género masculino y femenino, a la edad, religión, etnia, condición social, discapacidad, y cualquiera otra que vulnere o dañe la dignidad, la condición y los derechos humanos reconocidos por esta Constitución, la Constitución Política de los Estados Unidos Mexicanos y los tratados, acuerdos e instrumentos internacionales a los que el país se haya adherido. El Estado protegerá la organización y desarrollo en armonía de la familia, incluidas las familias monoparentales, entre las que se dará protección al menor de edad, la mujer, las personas con discapacidad y las personas adultas mayores.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 La protección familiar e individual se dará conforme a las siguientes bases:
 
@@ -408,7 +408,11 @@ f) Las sanciones a todo acto de violencia física o moral contra las mujeres, de
 
 g) Las medidas de seguridad preventivas y definitivas a favor de las mujeres.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
+
 Los morelenses que de acuerdo a los estudios socioeconómicos de los distintos órganos de Gobierno, que se determinen que viven en condiciones de pobreza extrema, tienen derecho a acceder a los programas sociales y por lo tanto, el Poder Ejecutivo del Estado y los Ayuntamientos de la Entidad, tienen la obligación de llevar a cabo las acciones necesarias, a efecto de determinar quienes se encuentran en pobreza extrema, registrarlos en los padrones correspondientes y beneficiarlos prioritariamente con los apoyos derivados de los programas que a nivel Federal, Estatal y Municipal se otorgan y que son proporcionados a través o por las autoridades locales. Lo anterior, con independencia de la atención que debe otorgarse a los grupos vulnerables y en pobreza.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 Los habitantes de Morelos que ingresen a los Institutos de Salud Pública del Estado, recibirán la totalidad de medicamentos que comprende el cuadro básico, material de curación e insumos necesarios para su correcta recuperación.
 
@@ -418,101 +422,9 @@ Los habitantes de Morelos que ingresen a los Institutos de Salud Pública del Es
 
 DE LA PARTICIPACION CIUDADANA.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
 
-###### Artículo 19
-
-bis.- Esta Constitución reconoce como medios de participación ciudadana al Plebiscito, al Referéndum, a la Iniciativa Popular y la rendición de cuentas.
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
-
-Asimismo, la participación ciudadana tendrá lugar en la planeación estatal y municipal, en los términos previstos por esta Constitución.
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
-
-Los mecanismos de participación ciudadana pueden tener origen popular o provenir de autoridad pública, según sean promovidos o presentados directamente mediante solicitud avalada por firmas ciudadanas o por una autoridad, en los términos de la normativa aplicable.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
-
-A.- DE LOS MEDIOS DE PARTICIPACIÓN CIUDADANA
-
-I.- Se entiende por Plebiscito la consulta a los ciudadanos para que expresen su previa aprobación o rechazo a un acto o decisión del Poder Ejecutivo o de los Ayuntamientos, que sean considerados como trascendentes para la vida pública del Estado o de los Municipios.
-
-a).- Podrán someterse a Plebiscito:
-
-1.- Los actos o decisiones de carácter general del Ejecutivo del Estado que se consideren como trascendentes en la vida pública de esta Entidad Federativa; y
-
-2.- Los actos o decisiones de gobierno, de las autoridades municipales, siempre que se consideren como trascendentes para la vida pública del municipio.
-
-3.- Los actos y/o decisiones del Poder Legislativo.
-
-b).- No podrán someterse a Plebiscito los actos o decisiones del Ejecutivo del Estado o de los Ayuntamientos, relativos a:
-
-1.- El régimen interno de la Administración Pública Estatal y Municipal;
-
-2.- Los actos cuya realización sea obligatoria en los términos de las leyes aplicables; y
-
-3.- Las demás que determine la propia Constitución.
-
-c).- Podrán solicitar que se convoque a Plebiscito:
-
-1) El Titular del Poder Ejecutivo;
-
-2) El tres por ciento de los ciudadanos inscritos en la lista nominal de electores en el ámbito estatal, cuando se trate de actos del Ejecutivo; y del tres al cinco por ciento de los electores inscritos en listas nominales municipales, dependiendo de su volumen en cada municipio y de acuerdo a la tabla que para el efecto se establezca en la Ley Reglamentaria, para actos o decisiones de gobierno de autoridades municipales.
-
-3) El Congreso del Estado, a solicitud de uno de sus grupos parlamentarios y por acuerdo de mayoría simple en el pleno.
-
-4) Los Ayuntamientos por mayoría simple de sus integrantes, en el ámbito de su competencia.
-
-Realizado que sea el plebiscito establecido en esta Constitución, si este fuere aprobado por un número de ciudadanos igual al quince por ciento de los inscritos en la lista nominal de electores, tratándose de actos del Ejecutivo estatal, o del tres al quince por ciento de los electores inscritos en listas nominales municipales, dependiendo de su volumen en cada municipio y de acuerdo a lo que para el efecto se establezca en la Ley Reglamentaria, el acto sometido a plebiscito será válido y en su caso, continuará el procedimiento respectivo para perfeccionarlo; de no aprobarse, el acto o decisión deberá interrumpirse, sea para no continuarlo y extinguirlo por el medio legal correspondiente, incluyendo su revocación.
-
-II.- Se entiende por Referéndum, el proceso mediante el cual los ciudadanos morelenses, manifiestan su aprobación o rechazo a las reformas, adiciones o derogaciones a la Constitución Política del Estado, a las leyes que expida el Congreso del Estado o a los reglamentos y bandos que emitan los Ayuntamientos.
-
-a).- El Referéndum no procederá cuando se trate de:
-
-1.- Leyes o disposiciones de carácter tributario o fiscal;
-
-2.- Reformas a la Constitución Política del Estado y a las leyes locales que deriven de reformas o adiciones a la Constitución Política de los Estados Unidos Mexicanos;
-
-3.- El régimen interno del Gobierno Estatal o Municipal;
-
-4.- La designación del Gobernador interino, substituto o provisional;
-
-5.- Juicio Político;
-
-6.- Los convenios con la Federación y con otros Estados de la República; y
-
-7.- Las demás que determine la propia Constitución.
-
-b).- El Referéndum podrá ser promovido por:
-
-1.- El Titular del Poder Ejecutivo;
-
-2.- El tres por ciento de los ciudadanos inscritos en el padrón electoral cuando se trate de leyes, decretos, reglamentos, acuerdos, iniciativas o proyectos de éstos en el ámbito estatal y reglamentos, bandos o acuerdos y demás disposiciones normativas o los proyectos correspondientes en el ámbito municipal.
-
-Tratándose de la Constitución Política del Estado, deberá reunirse el cinco por ciento de los ciudadanos inscritos en listas nominales de cuando menos quince municipios del Estado.
-
-3.- El Congreso del Estado, a solicitud de un grupo parlamentario y por acuerdo de mayoría simple en el pleno.
-
-4.- La mayoría de los integrantes del Ayuntamiento, en el ámbito de su competencia.
-
-Para la declaración de validez del Referéndum se deberá contar con el voto de cuando menos el quince por ciento de los ciudadanos inscritos en listas nominales del padrón electoral del Estado o del que corresponda al municipio, según sea el caso.
-
-El referéndum deberá realizarse hasta antes de la publicación e inicio de vigencia de cualquier reforma, adición o derogación a la Constitución Política del Estado de Morelos y a las leyes, decretos o acuerdos que expida el Congreso del Estado y a los acuerdos, reglamentos y demás disposiciones gubernativas que expida el Poder Ejecutivo del Estado o los Ayuntamientos, incluyendo los que sean de nueva creación; si la proporción de los ciudadanos requerida en esta Constitución manifiesta su consentimiento, el trámite administrativo o el proceso legislativo continuarán de manera legítima; en el caso de no aprobarse, el trámite administrativo o el proceso legislativo se extinguirá.
-
-III.- La iniciativa popular es el medio por el cual, los ciudadanos del Estado de Morelos podrán presentar al Congreso del Estado, al titular del Poder Ejecutivo o a los Ayuntamientos, en el primer caso, proyectos de modificación a la Constitución Política del Estado en los casos establecidos en este artículo, así como de leyes o decretos para la creación, reforma, adición, derogación o abrogación de disposiciones normativas en el ámbito estatal; en los dos últimos casos, para la presentación de proyectos que creen, reformen, adicionen, deroguen o abroguen decretos, acuerdos, reglamentos y demás disposiciones gubernativas en las materias de su respectiva competencia.
-
-En todos los casos la autoridad ante la que se promueva la iniciativa popular, estará obligada invariablemente a dar respuesta a los solicitantes, en un plazo no mayor de sesenta días hábiles, contados a partir de la recepción de la iniciativa.
-
-La iniciativa popular corresponde a cualquier ciudadano del Estado.
-
-No podrán ser objeto de Iniciativa Popular las materias señaladas por esta Constitución para el caso de improcedencia del Referéndum.
-
-IV.- (DEROGADA, P.O. 6 DE JULIO DE 2016)
-
-V.- La Rendición de Cuentas, como medio por el cual el Consejo de Participación Ciudadana podrá solicitar información a los funcionarios públicos estatales o municipales, mandatarios y representantes populares, así como a los servidores públicos en general.
-
-B. (DEROGADO, P.O. 6 DE JULIO DE 2016)
+Artículo 19 bis.- Esta Constitución reconoce como medios de participación ciudadana los contemplados en la ley de la materia. El Instituto Morelense de Procesos Electorales y Participación Ciudadana, calificará su procedencia o improcedencia, y se encargará de su organización, desarrollo, cómputo y declaración de resultados, de conformidad con la normativa aplicable.
 
 ## TITULO SEGUNDO.
 
@@ -550,17 +462,17 @@ Los poderes públicos residirán en la Ciudad de Cuernavaca y en segundo términ
 
 Los procesos electorales y de participación ciudadana del Estado, se efectuarán conforme a las bases que establecen la presente Constitución y las Leyes de la materia y se sujetarán a los principios de constitucionalidad, certeza, legalidad, independencia, imparcialidad, equidad, objetividad, definitividad, profesionalismo, máxima publicidad y paridad de género.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
 
-Las fórmulas para Diputados al Congreso del Estado que registren los Partidos Políticos, tanto en el caso de mayoría relativa, como de representación proporcional, estarán compuestas cada una por un Propietario y un Suplente ambos del mismo género. La Lista de Representación Proporcional de Diputados al Congreso del Estado, se integrarán alternando las fórmulas de distinto género para garantizar el principio de paridad hasta agotar la lista.
+Las fórmulas para Diputados al Congreso del Estado que registren los Partidos Políticos, tanto en el caso de mayoría relativa, como de representación proporcional, estarán compuestas cada una por un propietario y un suplente ambos del mismo género. Las listas de representación proporcional de Diputados al Congreso del Estado, se integrarán alternando las fórmulas de distinto género para garantizar el principio de paridad hasta agotar la lista.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
 
-Las listas de candidatos a Regidores que presenten los Partidos Políticos, se registrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género. Con el objeto de garantizar la paridad de género, la lista de regidores alternará las fórmulas de distinto género, hasta agotar la lista correspondiente.
+Los partidos políticos y candidatos independientes deberán postular una planilla con candidaturas a la presidencia municipal, sindicatura, y regidurías. La planilla deberá alternar los géneros desde la presidencia municipal hasta la última regiduría. Los partidos políticos no podrán postular candidatos de un mismo género en más de la mitad de sus candidaturas a Presidencias Municipales si el número de sus candidaturas es par o en más de la mitad más una en caso de candidaturas impares. En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellas candidaturas a presidencias municipales en las que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
 
-En el caso de candidatos de mayoría relativa al Congreso del Estado, y con objeto de garantizar la paridad de género, la mitad de los distritos se integrará con candidatos de un género diferente. En ningún caso se admitirán criterios que tengan como resultado que alguno de los géneros le sea (sic) asignados exclusivamente aquellos distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
+En el caso de candidatos de mayoría relativa al Congreso del Estado, y con objeto de garantizar la paridad de género, la mitad de los distritos se integrará con candidatos de un género diferente. En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellos distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -596,7 +508,9 @@ c) El financiamiento público del Estado para las actividades tendientes a la ob
 
 La Ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y en las campañas electorales. La propia Ley establecerá el monto máximo que tendrán las aportaciones de sus militantes y simpatizantes; ordenará los procedimientos para el control, fiscalización oportuna y vigilancia, durante la campaña, del origen y uso de todos los recursos con que cuenten; asimismo, dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
-De igual manera, la Ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados a la Federación.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+De igual manera, la Ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes sean adjudicados.
 
 IV. El candidato independiente, es el ciudadano en pleno ejercicio de sus derechos políticos que se postule para ser votado para cualquier cargo de elección popular, que obtenga de la autoridad electoral el acuerdo de registro, teniendo las calidades que establezca la normatividad en la materia.
 
@@ -604,7 +518,9 @@ La Ley señalará las reglas a que se sujetará el financiamiento de los candida
 
 a) Las erogaciones para candidatos independientes serán solo para la campaña electoral respectiva;
 
-b) El tiempo en medios de comunicación establecido como derecho de los Partidos Políticos y, en su caso, de los candidatos independientes, se regulará conforme a la normatividad en la materia; y
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+b) El tiempo en radio y televisión establecido como derecho de los Partidos Políticos y, en su caso, de los candidatos independientes, se regulará conforme a la normatividad en la materia, y
 
 c) Los recursos públicos prevalecerán sobre los de origen privado, los cuales se fijarán conforme a la normatividad en la materia.
 
@@ -676,17 +592,23 @@ El Instituto Morelense de Procesos Electorales y Participación Ciudadana, ejerc
 
 Corresponde al Instituto Nacional Electoral designar y remover a los integrantes del órgano superior de dirección del Instituto Morelense de Procesos Electorales y Participación Ciudadana.
 
+(NOTA: EL 21 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2017 Y SUS ACUMULADAS 32/2017, 34/2017 Y 35/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SÉPTIMO DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+EL INSTITUTO MORELENSE DE PROCESOS ELECTORALES Y PARTICIPACIÓN CIUDADANA DEBERÁ IMPLEMENTAR, VIGILAR Y DESARROLLAR EL SERVICIO PROFESIONAL ELECTORAL, EN EL ÁMBITO DE SU COMPETENCIA Y EN LOS TÉRMINOS DE LA NORMATIVA APLICABLE.
+
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
 Al Instituto Morelense de Procesos Electorales y Participación Ciudadana, se le dispondrán los medios necesarios para acceder al Servicio Profesional Electoral.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
 
-El Instituto Morelense de Procesos Electorales y Participación Ciudadana, calificará la procedencia o improcedencia de las solicitudes de plebiscito, referéndum o revocación de mandato y se encargará de la organización, dirección y vigilancia de estos procedimientos de participación ciudadana, salvaguardando los derechos ciudadanos, de conformidad con el artículo 19 Bis de esta Constitución y la normativa aplicable.
+El Instituto Morelense de Procesos Electorales y Participación Ciudadana, calificará la procedencia o improcedencia, y se encargará de la organización, dirección y vigilancia de los mecanismos de participación ciudadana que contemple la ley en la materia, salvaguardando los derechos ciudadanos, de conformidad con el artículo 19 Bis de esta Constitución y la normativa aplicable.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
 
-Los mecanismos de participación ciudadana que se convoquen, se deberán efectuar en tiempos electorales.
+Los mecanismos de participación ciudadana que se convoquen, se podrán efectuar en cualquier tiempo, salvo aquellos que requieran llevarse a cabo a la par de la jornada electoral de elecciones constitucionales, de conformidad con la normativa aplicable.
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
@@ -814,37 +736,57 @@ DEL PODER LEGISLATIVO.
 
 DE LA ELECCION Y CALIDAD DE LOS DIPUTADOS.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+(NOTA: EL 21 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2017 Y SUS ACUMULADAS 32/2017, 34/2017 Y 35/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 24.
 
-El Poder Legislativo se deposita en una Asamblea que se denomina Congreso del Estado de Morelos, integrada por dieciocho Diputados electos por el principio de mayoría relativa, mediante el sistema de Distritos Electorales Uninominales y por doce Diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción territorial. La ley determinará la demarcación territorial de cada uno de los distritos y el territorio del Estado comprenderá una circunscripción plurinominal única.
+El Poder Legislativo se deposita en una Asamblea que se denomina Congreso del Estado de Morelos, integrada por doce Diputados electos por el principio de mayoría relativa, mediante el sistema de Distritos Electorales Uninominales y por ocho Diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción territorial. LA LEY DETERMINARÁ LA DEMARCACIÓN TERRITORIAL DE CADA UNO DE LOS DISTRITOS Y el territorio del Estado comprenderá una circunscripción plurinominal única.
 
-Al Partido Político que obtenga en las respectivas elecciones el tres por ciento de la votación válida emitida, se le asignará una diputación por el principio de representación proporcional, independientemente de los triunfos de mayoría que hubiese obtenido.
+(NOTA: EL 21 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2017 Y SUS ACUMULADAS 32/2017, 34/2017 Y 35/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+AL PARTIDO POLÍTICO QUE OBTENGA EN LAS RESPECTIVAS ELECCIONES EL CINCO POR CIENTO DE LA VOTACIÓN VÁLIDA EMITIDA PARA DIPUTADOS, SE LE ASIGNARÁ UNA DIPUTACIÓN POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL, INDEPENDIENTEMENTE DE LOS TRIUNFOS DE MAYORÍA QUE HUBIESE OBTENIDO.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 Realizada la distribución anterior, se procederá a asignar el resto de las diputaciones de representación proporcional conforme a la fórmula establecida en la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
 La Legislatura del Estado se integrará con Diputados Electos, según los principios de mayoría relativa y de representación proporcional, en los términos que señale la ley.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 En ningún caso, un Partido Político podrá contar con un número de Diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al Partido Político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la Legislatura, el porcentaje de representación de un Partido Político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
-El Congreso del Estado se renovará cada tres años. Por cada Diputado Propietario se elegirá un Suplente; los Diputados Propietarios podrán ser electos hasta por tres períodos consecutivos.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+
+El Congreso del Estado se renovará cada tres años. Por cada Diputado Propietario se elegirá un Suplente; los Diputados Propietarios podrán ser electos hasta por cuatro períodos consecutivos.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 La postulación sólo podrá ser realizada por el mismo Partido o por cualquiera de los Partidos integrantes de la Coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su encargo.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
 Los Diputados Locales Suplentes podrán ser electos para el período inmediato con el carácter de Propietario, pudiendo reelegirse de conformidad con la normatividad.
 
-Ningún Partido Político podrá contar con más de dieciocho Diputados por ambos principios.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 1991)</small>
+Ningún Partido Político podrá contar con más de doce Diputados por ambos principios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 25.
 
-Para ser Diputado Propietario o suplente se requiere:
+Para ser Diputado propietario o suplente se requiere:
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2017)</small>
 
-I.- Ser morelense por nacimiento, o ser morelense por residencia con antigüedad mínima de diez años anteriores a la fecha de la elección.
+I. Ser morelense por nacimiento o con residencia efectiva de tres años anteriores a la fecha de la elección, en pleno goce de sus derechos como ciudadano del estado.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1996)</small>
 
@@ -876,13 +818,15 @@ I.- El Gobernador del Estado, ya sea con carácter de interino, sustituto o prov
 
 II.- Los Magistrados Electorales o los Secretarios del Tribunal Electoral del Estado de Morelos, salvo que se separen del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2017)</small>
 
-III.- Los Secretarios o Subsecretarios de Despacho, el Fiscal General del Estado de Morelos, los Fiscales y Fiscales Especializados, los Magistrados del Tribunal Superior de Justicia, Tribunal de Justicia Administrativa del Estado de Morelos y Tribunal Unitario de Justicia para Adolescentes, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los administradores de rentas Estatales o Municipales, los Delegados o equivalentes de la Federación, los miembros del Ejército en servicio activo y los Jefes o Mandos Superiores de Policía de Seguridad Pública Estatal o Municipal y los Presidentes Municipales o los titulares de algún Órgano Político-Administrativo, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo noventa días antes de la fecha de la elección;
+III.- Los Secretarios o Subsecretarios de Despacho, el Fiscal General del Estado de Morelos, los Fiscales y Fiscales Especializados, los Magistrados del Tribunal Superior de Justicia, Tribunal de Justicia Administrativa del Estado de Morelos y Tribunal Unitario de Justicia para Adolescentes, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los administradores de rentas Estatales o Municipales, los Delegados o equivalentes de la Federación, los miembros del Ejército en servicio activo y los Jefes o Mandos Superiores de Policía de Seguridad Pública Estatal o Municipal y los presidentes municipales, así como quienes ocupen un cargo de dirección en los gobiernos federal, estatal y municipal o ejerzan bajo cualquier circunstancia las mismas funciones, los titulares de los organismos públicos autónomos, salvo que se separen del cargo ciento ochenta días antes del día de la fecha de la elección. Los Diputados que pretendan ser reelectos, podrán optar por no separarse de su cargo, en términos de la normativa aplicable;
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
+(NOTA: EL 21 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2017 Y SUS ACUMULADAS 32/2017, 34/2017 Y 35/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-IV.- El Consejero Presidente o los Consejeros Electorales del Instituto Morelense de Procesos Electorales y Participación Ciudadana, el Secretario Ejecutivo o el Director Ejecutivo del Organismo Público Electoral del Estado, salvo que se separen del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate; y los Comisionados del Instituto Morelense de Información Pública y Estadística, aún si se separan de sus funciones, conforme a lo dispuesto en el artículo 23 de la presente Constitución;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2017)</small>
+
+IV.- EL CONSEJERO PRESIDENTE, LOS CONSEJEROS ELECTORALES Y EL SECRETARIO EJECUTIVO DEL INSTITUTO MORELENSE DE PROCESOS ELECTORALES Y PARTICIPACIÓN CIUDADANA SALVO QUE SE SEPAREN DEL CARGO TRES AÑOS ANTES DE LA FECHA DE INICIO DEL PROCESO ELECTORAL DE QUE SE TRATE; Y los Comisionados del Instituto Morelense de Información Pública y Estadística, aún si se separan de sus funciones, conforme a lo dispuesto en el artículo 23 de la presente Constitución;
 
 V.- Quienes pertenezcan al Servicio Profesional Electoral, salvo que se separen del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
 
@@ -1136,7 +1080,7 @@ Igual procedimiento seguirán las modificaciones que el Ejecutivo Estatal realic
 
 XVII.- (DEROGADA, P.O. 18 DE FEBRERO DE 2015)
 
-XVIII.- (DEROGADA, P.O. 3 DE JUNIO DE 1992)
+XVIII.- (DEROGADA, P.O. 27 DE ABRIL DE 2017)
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 1992)</small>
 
@@ -1614,7 +1558,11 @@ I. Ser mexicano por nacimiento;
 
 II. Estar en pleno goce de sus derechos;
 
-III. Ser morelense por nacimiento con residencia efectiva no menor a cinco años antes de la elección, o morelense por residencia con una vecindad habitual efectiva en el estado no menor a cinco años inmediatamente anteriores al día de la elección.
+(NOTA: EL 21 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2017 Y SUS ACUMULADAS 32/2017, 34/2017 Y 35/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2017)</small>
+
+III. Ser morelense por nacimiento o morelense por residencia CON UNA VECINDAD HABITUAL EFECTIVA EN EL ESTADO NO MENOR A DOCE AÑOS INMEDIATAMENTE ANTERIORES AL DÍA DE LA ELECCIÓN.
 
 La residencia no se interrumpirá por el desempeño de un cargo de elección popular al Congreso de la Unión o un empleo, cargo o comisión en la Administración Pública Federal; y
 
@@ -2862,7 +2810,7 @@ Los Presidentes Municipales, los Síndicos y los Regidores, así como los demás
 
 DE LOS REQUISITOS DE ELEGIBILIDAD.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 113.
 
@@ -3032,13 +2980,23 @@ DE LAS OBLIGACIONES DE LOS SERVIDORES PUBLICOS.
 
 ###### Artículo 117.
 
-Los requisitos de elegibilidad para ser miembro de un Ayuntamiento o Ayudante Municipal son:
+Los requisitos de elegibilidad para ser Presidente Municipal, Síndico o miembro de un Ayuntamiento o Ayudante Municipal son:
 
-I.- Ser morelense por nacimiento, o ser morelense por residencia con antigüedad mínima de diez años anteriores a la fecha de la elección, en pleno goce de sus derechos como ciudadano del Estado.
+(NOTA: EL 21 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2017 Y SUS ACUMULADAS 32/2017, 34/2017 Y 35/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-II.- Tener cinco años de residencia en el Municipio o en la población en la que deban ejercer su cargo, respectivamente.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2017)</small>
+
+I.- Ser morelense por nacimiento o con residencia efectiva de tres años anteriores a la fecha de la elección, en pleno goce de sus derechos como ciudadano del estado; CON EXCEPCIÓN DEL PRESIDENTE MUNICIPAL Y SÍNDICO, LOS CUALES DEBERÁ (SIC) TENER UNA RESIDENCIA EFECTIVA MÍNIMA DE SIETE AÑOS;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2017)</small>
+
+II.- Tener veintiún años cumplidos; excepto para los cargos de Presidente Municipal y Síndico, en los cuales la edad mínima será de veinticinco años cumplidos al día de la elección;
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 III.- Saber leer y escribir.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 IV.- No ser ministro de algún culto, salvo que hubiere dejado de serlo con la anticipación y en la forma que establezca la ley reglamentaria del Artículo 130 de la Constitución Federal.
 
@@ -3046,9 +3004,11 @@ IV.- No ser ministro de algún culto, salvo que hubiere dejado de serlo con la a
 
 V.- No ser Consejero Presidente o Consejero Electoral del Instituto Morelense de Procesos Electorales y Participación Ciudadana, ni Magistrado del Tribunal Electoral del Estado de Morelos, así como formar parte del personal directivo del Organismo Público Electoral de Morelos, aún si se separan de sus funciones, conforme a lo dispuesto en el Artículo 23 de la presente Constitución;
 
-VI.- Tampoco podrán ser, los que tuvieren mando de fuerza pública, si no se separan de su cargo o puesto noventa días antes del día de la elección; y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2017)</small>
 
-VII.- El padre en concurrencia con el hijo; el esposo o esposa con el cónyuge, el hermano con la del hermano, el primo con el primo, el socio con su consocio y el patrón con su dependiente.
+VI.- Tampoco podrán ser, los que tuvieren mando de fuerza pública, si no se separan de su cargo o puesto noventa días antes del día de la elección, excepto los miembros de un Ayuntamiento que pretendan ser reelectos, y
+
+VII.- (DEROGADA, P.O. 27 DE ABRIL DE 2017)
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -5229,3 +5189,39 @@ OCTAVA. Las menciones que se hagan en cualquier ordenamiento legal o administrat
 NOVENA. Para el caso de la designación del Fiscal Especializado en Combate a la Corrupción que entrara en funciones a partir del 28 de agosto de 2018, el Congreso del Estado realizará las modificaciones legislativas que resulten necesarias para adoptar un procedimiento análogo al que se establezca para la designación ordinaria del Fiscal Especializado en Combate a la Corrupción adscrito a la Fiscalía General de la República.
 
 DÉCIMA. Se derogan las disposiciones de menor rango que se opongan a la presente reforma.
+
+P.O. 27 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHOCIENTOS SESENTA Y CINCO POR EL QUE SE REFORMAN DIVERSAS DISPSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS, EN MATERIA ELECTORAL".]
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de la Declaratoria emitida por la LIII Legislatura del Congreso del Estado; en consecuencia, las reformas forman parte integral de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
+
+TERCERA. El Congreso del Estado de Morelos contará con 30 días naturales a partir de la publicación del presente Decreto en el Periódico Oficial "Tierra y Libertad", para realizar las reformas derivadas del presente Decreto, a la legislación secundaria en materia electoral.
+
+CUARTA. El Congreso del Estado, contará con 30 días naturales a partir de la publicación del presente Decreto en el Periódico Oficial "Tierra y Libertad" para expedir la ley a la que se hace referencia en el artículo 19 Bis de la Constitución Política del Estado Libre y Soberano de Morelos, en la cual se contemplarán como mínimo, los siguientes mecanismos de participación ciudadana:
+
+a) Plebiscito;
+
+b) Referéndum;
+
+c) Iniciativa Popular;
+
+d) Rendición de Cuentas;
+
+e) Consulta ciudadana;
+
+f) Colaboración ciudadana; y
+
+g) Difusión Pública.
+
+(NOTA: EL 21 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2017 Y SUS ACUMULADAS 32/2017, 34/2017 Y 35/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO QUINTO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+QUINTA. LA REFORMA AL ARTÍCULO 24 DE ÉSTA CONSTITUCIÓN SERÁ APLICABLE A LOS DIPUTADOS LOCALES QUE SEAN ELECTOS EN EL PROCESO ELECTORAL 2017-2018. PARA TAL EFECTO, EL INSTITUTO MORELENSE DE PROCESOS ELECTORALES Y PARTICIPACIÓN CIUDADANA, SOLICITARÁ AL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL LA REALIZACIÓN DE LA DEMARCACIÓN DE LOS DISTRITOS UNINOMINALES.
+
+SEXTA. El Congreso del Estado, contará con 30 días naturales a partir de la publicación del presente Decreto en el Periódico Oficial "Tierra y Libertad" para realizar las reformas correspondientes a la legislación secundaria, por lo que hace a la acreditación de la residencia efectiva a la que hacen referencia los artículos 25, 58 y 117 de ésta Constitución, para el caso de candidaturas para diputaciones, gobernador y miembros del Ayuntamiento, respectivamente. La constancia de residencia deberá precisar la antigüedad de la misma y deberá ser expedida dentro de los quince días anteriores a la presentación de la solicitud de registro correspondiente.
+
+SÉPTIMA. El Congreso del Estado, contará con 30 días naturales a partir de la publicación del presente Decreto en el Periódico Oficial "Tierra y Libertad" para realizar las reformas necesarias que sienten las bases y reglas que deberán acatar las personas que pretendan la reelección y opten por no separarse del cargo, las cuales, deberán salvaguardar como mínimo, la no utilización de recursos humanos, materiales o económicos propios de su encargo público para su precampaña o campaña electoral.
+
+OCTAVA. Se Abroga la Ley de Participación Ciudadana del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Liberad" número 5167 y se derogan las demás disposiciones de igual o menor rango que se opongan a lo dispuesto en el presente Decreto.
