@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-participacion-ciudadana-del-estado-de-morelos-99377"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-05"
-last_updated: "2014-03-05"
+last_updated: "2017-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA OCTAVA DEL DECRETO NÚMERO MIL OCHOCIENTOS SESENTA Y CINCO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS, EN MATERIA ELECTORAL, PUBLICADO EN EL P.O. DE 27 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de marzo de 2014.
 
@@ -35,7 +37,9 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:
 
-I.- DEL PROCESO LEGISLATIVO…
+I.- DEL PROCESO LEGISLATIVO
+
+[…]
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -786,3 +790,39 @@ SECRETARIO DE GOBIERNO
 ING. JORGE VICENTE MESSEGUER GUILLÉN
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHOCIENTOS SESENTA Y CINCO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS, EN MATERIA ELECTORAL”.]
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de la Declaratoria emitida por la LIII Legislatura del Congreso del Estado; en consecuencia, las reformas forman parte integral de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
+
+TERCERA. El Congreso del Estado de Morelos contará con 30 días naturales a partir de la publicación del presente Decreto en el Periódico Oficial “Tierra y Libertad”, para realizar las reformas derivadas del presente Decreto, a la legislación secundaria en materia electoral.
+
+CUARTA. El Congreso del Estado, contará con 30 días naturales a partir de la publicación del presente Decreto en el Periódico Oficial “Tierra y Libertad” para expedir la ley a la que se hace referencia en el artículo 19 Bis de la Constitución Política del Estado Libre y Soberano de Morelos, en la cual se contemplarán como mínimo, los siguientes mecanismos de participación ciudadana:
+
+a) Plebiscito;
+
+b) Referéndum;
+
+c) Iniciativa Popular;
+
+d) Rendición de Cuentas;
+
+e) Consulta ciudadana;
+
+f) Colaboración ciudadana; y
+
+g) Difusión Pública.
+
+QUINTA. La reforma al artículo 24 de ésta Constitución será aplicable a los Diputados Locales que sean electos en el proceso electoral 2017-2018. Para tal efecto, el Instituto Morelense de Procesos Electorales y Participación Ciudadana, solicitará al Consejo General del Instituto Nacional Electoral la realización de la demarcación de los distritos uninominales.
+
+SEXTA. El Congreso del Estado, contará con 30 días naturales a partir de la publicación del presente Decreto en el Periódico Oficial “Tierra y Libertad” para realizar las reformas correspondientes a la legislación secundaria, por lo que hace a la acreditación de la residencia efectiva a la que hacen referencia los artículos 25, 58 y 117 de ésta Constitución, para el caso de candidaturas para diputaciones, gobernador y miembros del Ayuntamiento, respectivamente. La constancia de residencia deberá precisar la antigüedad de la misma y deberá ser expedida dentro de los quince días anteriores a la presentación de la solicitud de registro correspondiente.
+
+SÉPTIMA. El Congreso del Estado, contará con 30 días naturales a partir de la publicación del presente Decreto en el Periódico Oficial “Tierra y Libertad” para realizar las reformas necesarias que sienten las bases y reglas que deberán acatar las personas que pretendan la reelección y opten por no separarse del cargo, las cuales, deberán salvaguardar como mínimo, la no utilización de recursos humanos, materiales o económicos propios de su encargo público para su precampaña o campaña electoral.
+
+OCTAVA. Se Abroga la Ley de Participación Ciudadana del Estado de Morelos, publicada en el Periódico Oficial “Tierra y Liberad” número 5167 y se derogan las demás disposiciones de igual o menor rango que se opongan a lo dispuesto en el presente Decreto.
