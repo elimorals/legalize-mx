@@ -4,7 +4,7 @@ identifier: "SON-ley-del-servicio-civil-para-el-estado-de-sonora-8403"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-27"
-last_updated: "2016-11-22"
+last_updated: "2017-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ABRIL DE 2017.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el sábado 27 de agosto de 1977.
 
@@ -997,9 +997,11 @@ En la audiencia sólo se aceptarán las pruebas ofrecidas previamente, a no ser 
 
 Los trabajadores deberán comparecer por sí o por medio de sus representantes ante el Tribunal. Cuando sean demandados y no comparezcan en ninguna de las formas prescritas, se tendrá por contestada la demanda en sentido afirmativo, salvo prueba en contrario.
 
+> <small>(REFORMADO, B.O. 27 DE ABRIL DE 2017)</small>
+
 ###### ARTICULO 121.
 
-Los funcionarios del Estado podrán hacerse representar por medio de apoderados que acrediten ese carácter mediante simple oficio.
+Los funcionarios del Estado y los Municipios podrán hacerse representar por medio de apoderados que acrediten ese carácter mediante simple oficio.
 
 ###### ARTICULO 122.
 
@@ -1175,7 +1177,7 @@ Dr. Samuel Ocaña García.
 
 Firmado.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 B.O. 3 DE ENERO DE 1983.
 
@@ -1254,6 +1256,14 @@ El presente Decreto entrará en vigor el día de su publicación en el Boletín 
 B.O. 22 DE NOVIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 91, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE SONORA Y DE LA LEY DEL SERVICIO CIVIL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 27 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 122, QUE REFORMA EL ARTÍCULO 121 DE LA LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA”.]
 
 ###### ARTÍCULO ÚNICO.
 
