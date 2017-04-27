@@ -4,7 +4,7 @@ identifier: "SON-ley-de-cultura-fisica-y-deporte-del-estado-de-sonora-66847"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-16"
-last_updated: "2010-05-27"
+last_updated: "2017-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE SONORA
 
-LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE SONORA
+LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 27 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ABRIL DE 2017.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el lunes 16 de febrero de 2009.
 
@@ -91,9 +91,21 @@ III.- Actividad física: Actos motores propios del ser humano, realizados como p
 
 IV.- Recreación física: Actividad física con fines lúdicos que permiten la utilización positiva del tiempo libre;
 
-V.- Deporte: Actividad física o motriz, institucionalizada y reglamentada, desarrollada en competiciones con uno mismo o con los demás; y
+> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2017)</small>
 
-VI.- Rehabilitación física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo.
+V.- Deporte: Actividad física o motriz, institucionalizada y reglamentada, desarrollada en competiciones con uno mismo o con los demás;
+
+> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2017)</small>
+
+VI.- Deporte adaptado: Práctica del deporte de personas con cualquier restricción o impedimento del funcionamiento de una actividad ocasionado por una deficiencia dentro del ámbito neurológico, motor, mental y sensorial;
+
+> <small>(ADICIONADA, B.O. 27 DE ABRIL DE 2017)</small>
+
+VII.- Deporte adaptado de alto rendimiento: diferentes disciplinas y modalidades deportivas reconocidas como oficiales por el Comité Paralímpico Internacional; y
+
+> <small>(ADICIONADA, B.O. 27 DE ABRIL DE 2017)</small>
+
+VIII.- Rehabilitación física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo.
 
 ###### Artículo 5º.
 
@@ -123,9 +135,17 @@ II.- Los Órganos o Unidades Administrativas Municipales responsables de la Cult
 
 III.- Las Asociaciones Deportivas Estatales;
 
-IV.- Los Consejos Estatales del Deporte de la Educación Básica, Media Superior y Superior; y
+> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2017)</small>
 
-V.- Las Asociaciones y Sociedades que estén reconocidas en términos de esta ley.
+IV.- Los Consejos Estatales del Deporte de la Educación Básica, Media Superior y Superior;
+
+> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2017)</small>
+
+V.- Las Asociaciones y Sociedades que estén reconocidas en términos de esta ley; y
+
+> <small>(ADICIONADA, B.O. 27 DE ABRIL DE 2017)</small>
+
+VI.- Comité del Deporte Adaptado del Estado de Sonora.
 
 ###### Artículo 9º
 
@@ -223,11 +243,11 @@ XXII.- Las demás que esta Ley u otras disposiciones legales determinen.
 
 La administración de la Comisión estará a cargo de un órgano de gobierno denominado Junta Directiva, la cual se integrará por el Gobernador del Estado, o la persona que éste designe, quien la presidirá y por representantes de cada una de las siguientes Instituciones:
 
-I.- Secretaría de Educación y Cultura;
+I.- Secretaria de Educación y Cultura;
 
 II.- Secretaria de Hacienda;
 
-III.- Secretaria de Salud Pública;
+III.- Secretaría de Salud Pública;
 
 IV.- Sistema para el Desarrollo Integral de la Familia del Estado de Sonora;
 
@@ -583,7 +603,9 @@ c.- Deporte federado;
 
 d.- Talentos deportivos y de alto rendimiento;
 
-e.- Deporte para discapacitados;
+> <small>(REFORMADO, B.O. 27 DE ABRIL DE 2017)</small>
+
+e.- Deporte adaptado;
 
 f.- Deporte tradicional; y
 
@@ -659,6 +681,10 @@ La Comisión en el término de 30 días deberá proporcionar las constancias y d
 
 ## TÍTULO CUARTO. DE LA CULTURA FÍSICA Y EL DEPORTE
 
+## TÍTULO QUINTO. DEL DEPORTE ADAPTADO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE ABRIL DE 2017)</small>
+
 ### CAPÍTULO I. DEL FOMENTO A LA PRÁCTICA DE ACTIVIDADES FÍSICAS Y DEPORTIVAS
 
 ###### Artículo 57.
@@ -670,6 +696,10 @@ La Comisión, en coordinación con los municipios, planificará y promocionará 
 Los titulares de las dependencias y los directores generales de las entidades de la administración pública estatal y municipal, tendrán la obligación de promover y fomentar la práctica de actividades físicas y deportivas entre sus trabajadores, con objeto de facilitar las condiciones de su plena integración en el desarrollo social y cultural.
 
 Igualmente, impulsarán la adopción de disposiciones y acuerdos tendientes a facilitar las condiciones de empleo compatibles con su entrenamiento y participación en competiciones oficiales.
+
+> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2017)</small>
+
+Asimismo, se establecerán acciones que permitan generar y difundir la cultura del deporte adaptado, así como promover e impulsar la investigación de los diferentes implementos que se requieren para la práctica de las diferentes disciplinas y modalidades que practican las personas con discapacidad.
 
 ### CAPÍTULO II. DE LA INFRAESTRUCTURA
 
@@ -752,6 +782,12 @@ Los anteproyectos que presente la Comisión para infraestructura deportiva y equ
 ###### Artículo 60.
 
 La planificación y construcción de instalaciones de cultura física y deporte financiadas con recursos provenientes del erario público, deberá realizarse tomando en cuenta las especificaciones técnicas de los deportes y actividades que se proyecta desarrollar, así como los requerimientos de construcción y seguridad determinados en la Norma Oficial Mexicana correspondiente, que para tal efecto expida la dependencia en la materia, para el uso normal de las mismas por parte de personas con alguna discapacidad física, garantizando en todo momento que se favorezca su utilización multifuncional, teniendo en cuenta las diferentes disciplinas deportivas, la máxima disponibilidad de horario y los distintos niveles de práctica de los ciudadanos. Estas instalaciones deberán ser puestas a disposición de la comunidad para su uso público
+
+> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 60 Bis.
+
+Las instalaciones deportivas de cada uno de los municipios del estado de Sonora deberán contar con las adecuaciones arquitectónicas para la práctica del deporte adaptado que realizan las personas con discapacidad, debiendo contemplarse por los Municipios como por la Secretaría de Desarrollo Social del Estado de Sonora, por conducto de la Comisión del Deporte del Estado de Sonora, los presupuestos que se ejercerán cada año para dar cumplimiento a las adecuaciones que resulten necesarias.
 
 ###### Artículo 61.
 
@@ -949,6 +985,10 @@ II.- Acreditar un desempeño deportivo sobresaliente.
 
 En el ámbito estatal, el trámite y demás requisitos para ser acreedores de los estímulos a que se refiere este capítulo, se especificarán en el reglamento de la presente ley y su otorgamiento y goce estará sujeto al estricto cumplimiento de las disposiciones antes mencionadas, a los reglamentos técnicos y deportivos de su disciplina deportiva, así como a las bases que establezca el Ejecutivo Estatal, por conducto de la Comisión.
 
+> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2017)</small>
+
+Los deportistas de alto rendimiento a que hace referencia el artículo 50 en su inciso d, con discapacidad física, intelectual o sensorial o enfermedad mental, que cumplan los requisitos citados en el párrafo anterior en atención a su trayectoria deportiva y relevancia social, serán candidatos a estos estímulos.
+
 ###### Artículo 83.
 
 Los estímulos previstos en esta ley podrán consistir en:
@@ -1121,6 +1161,54 @@ El procedimiento para la imposición de sanciones a las infracciones previstas e
 
 Contra las resoluciones dictadas con fundamento en las disposiciones de la presente ley y demás derivadas de ésta, podrá interponerse el recurso de inconformidad que establece la Ley de Procedimiento Administrativo del Estado de Sonora.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE ABRIL DE 2017)</small>
+
+### CAPÍTULO ÚNICO. DEL DEPORTE ADAPTADO
+
+> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 105.
+
+Todas las personas a que se refiere este título recibirán, sin discriminación, las prerrogativas y demás beneficios de esta Ley y su reglamento.
+
+> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 106.
+
+La Comisión del Deporte del Estado de Sonora, así como los institutos del deporte de los municipios, deberán alentar la práctica de nuevas disciplinas y modalidades del deporte adaptado en las instalaciones deportivas donde se cuente con la infraestructura necesaria, contando para ello con la colaboración de las diferentes organizaciones del deporte adaptado, con el objeto de apoyar su integración a la sociedad y propiciar su bienestar, en un marco de respeto e igualdad, vigilándose la salud física y mental del individuo.
+
+El DIF estatal y los sistemas DIF municipal coadyuvarán en la promoción en todo el Estado la capacitación deportiva y la práctica de deportes para las personas con discapacidad y buscarán otorgarles facilidades necesarias para el desarrollo de sus prácticas deportivas, como lo establece el artículo 54 de la Ley de Integración para Personas con Discapacidad del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 107.
+
+Los aspirantes a ingresar a cualquiera de las disciplinas del deporte adaptado, requerirán un certificado médico que los acredite aptos para su práctica. Cuando las personas a que se refiere el presente Título deseen realizar actividades deportivas, que no impliquen un riesgo para la salud, no será necesaria la presentación del diagnóstico médico citado.
+
+> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 108.
+
+La Comisión del Deporte del Estado de Sonora, deberá contar con un área específica que, en Coordinación con el DIF estatal, se encargue de la elaboración, programación, ejecución, difusión y, en su caso, de la supervisión de los programas que con relación al deporte adaptado sean elaborados para su aplicación en el Estado de Sonora, observando en todo momento las propuestas que emita el Comité del Deporte Adaptado del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 109.
+
+El Gobierno del Estado de Sonora, a través de la Comisión del Deporte del Estado de Sonora y los organismos deportivos de los Ayuntamientos, promoverá la celebración de una Olimpiada Especial de Personas con Discapacidad, una vez cada tres años, en la que exista, por lo menos, una actividad deportiva a realizar para cada tipo de discapacidad que señala la fracción VI del artículo 4° de la presente Ley.
+
+> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 110.
+
+Los Institutos del deporte de los Municipios deberán contar con un departamento específico cuya función sea la de elaborar, complementar y en su caso supervisar los programas para el deporte adaptado, atendiendo en todo momento las recomendaciones realizadas por el Comité del Deporte Adaptado del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2017)</small>
+
+###### Artículo 111.
+
+Las autoridades municipales, en el ámbito de sus respectivas circunscripciones deberán observar el debido cumplimiento del presente Título, así como de los demás ordenamientos establecidos en la presente Ley y su reglamento.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -1139,7 +1227,7 @@ COMUNÍQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACIÓN EN EL BOLETÍN 
 
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS NUEVE DÍAS DEL MES DE FEBRERO DEL AÑO DOS MIL NUEVE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- WENCESLAO COTA MONTOYA.- RUBRICA.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 B.O. 27 DE MAYO DE 2010.
 
@@ -1164,3 +1252,11 @@ De igual manera, por única ocasión, para el ejercicio fiscal del año 2011, lo
 ###### ARTICULO QUINTO.
 
 Se derogan las disposiciones que se opongan al contenido del presente decreto.
+
+B.O. 27 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 121, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
