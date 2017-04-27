@@ -4,7 +4,7 @@ identifier: "SON-ley-de-proteccion-civil-para-el-estado-de-sonora-46456"
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-03"
-last_updated: "2014-01-09"
+last_updated: "2017-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ABRIL DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 3 de octubre de 2005.
 
@@ -395,9 +395,11 @@ XV.- Las demás que le señale la presente Ley y disposiciones aplicables.
 
 Se crea la Unidad Estatal como un órgano desconcentrado con personalidad jurídica y autonomía técnica y operativa, jerárquicamente subordinado a la Secretaría de Gobierno, el cual tendrá por objeto ejecutar las políticas, programas y acciones de protección civil en la Entidad con el fin de salvaguardar a las personas y su patrimonio y entorno, así como el funcionamiento de los servicios vitales y estratégicos, en casos de riesgo, emergencia, siniestro o desastre.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 13.
 
-Para el cumplimiento de su objeto, la Unidad Estatal tendrá las siguientes atribuciones:
+Para el cumplimiento de su objeto, la Unidad Estatal por conducto de su Coordinador Estatal, tendrá las siguientes atribuciones:
 
 I.- Dirigir y ejecutar los programas de protección civil, coordinando sus acciones con las instituciones y organismos de los sectores público, social y privado;
 
@@ -507,7 +509,7 @@ q) Otros que por sus características y magnitud sean similares a los mencionado
 
 > <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
 
-Cuando dos o más establecimientos, edificaciones o inmuebles de los señalados en la fracción Xl del artículo 6° de esta Ley, compartan o estén ubicados dentro de una misma unidad de construcción, la Unidad Estatal será competente para realizar visitas de inspección a los mismos.
+Cuando dos o más establecimientos, edificaciones o inmuebles de los señalados en la fracción XI del artículo 6° de esta Ley, compartan o estén ubicados dentro de una misma unidad de construcción, la Unidad Estatal será competente para realizar visitas de inspección a los mismos.
 
 > <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
 
@@ -527,9 +529,49 @@ XXIV.- Imponer las sanciones correspondiente conforme a la presente Ley;
 
 XXV.- Llevar el registro e inspección del manejo, almacenamiento, transporte y utilización de materiales peligrosos y explosivos en la entidad y disponer, conforme a las disposiciones legales y reglamentarias aplicables, las medidas preventivas en las instalaciones y el transporte que en materia de protección civil se deban cumplir para garantizar el menor riesgo posible a la población, reservándose esta atribución exclusivamente a la Unidad Estatal;
 
-XXVI.- Certificar y llevar el registro de las empresas especializadas en la elaboración de los conceptos enmarcados en los numerales del uno al nueve, de la fracción XVII, del artículo 13 de la presente Ley. En caso de que no existan en la entidad empresas certificadas por la Unidad Estatal para la elaboración de lo (sic) conceptos enmarcados en los numerales del uno al nueve, de esta fracción, la Unidad Estatal estará facultada para elaborar los mismos, previo pago de los derechos correspondientes; y
+> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2017)</small>
 
-XXVII.- Las demás que le confieran esta Ley y otras disposiciones aplicables.
+XXVI.- Certificar y llevar el registro de las empresas especializadas en la elaboración de los conceptos enmarcados en los numerales del uno al nueve, de la fracción XVIII del artículo 13 de la presente Ley. En caso de que no existan en la entidad empresas certificadas por la Unidad Estatal para la elaboración de los conceptos enmarcados en los numerales del uno al nueve, de esta fracción XVIII de este artículo, la Unidad Estatal estará facultada para elaborar los mismos, previo pago de los derechos correspondientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE ABRIL DE 2017)</small>
+
+XXVII.- Representar legalmente a la Unidad Estatal, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley;
+
+> <small>(ADICIONADA, B.O. 27 DE ABRIL DE 2017)</small>
+
+XXVIII.- Administrar los recursos humanos, materiales y financieros a cargo de la Unidad Estatal;
+
+> <small>(ADICIONADA, B.O. 27 DE ABRIL DE 2017)</small>
+
+XXIX.- Vigilar que las actividades de la Unidad Estatal, se ajusten a los programas y presupuestos aprobados;
+
+> <small>(ADICIONADA, B.O. 27 DE ABRIL DE 2017)</small>
+
+XXX.- Gestionar ante el Fondo de Desastres Naturales, el Fondo para la Prevención de Desastres y demás organismos públicos competentes, para acceder a los fondos y programas que estos tengan disponibles;
+
+> <small>(ADICIONADA, B.O. 27 DE ABRIL DE 2017)</small>
+
+XXXI.- Erogar los montos necesarios, dentro de los límites que para tal efecto establezca la Ley de Protección Civil para el Estado de Sonora, su Reglamento y el Presupuesto de Egresos, cuando se esté ante la presencia de un desastre natural que ponga en riesgo la vida humana y cuando la rapidez de la actuación sea necesaria para cubrir las necesidades prioritarias de la población, principalmente en materia de protección civil;
+
+> <small>(ADICIONADA, B.O. 27 DE ABRIL DE 2017)</small>
+
+XXXII.- Ordenar y suscribir las ordenes de inspección y verificación que en su caso procedan, así como los oficios de comisión para el personal que actuará y realizará las visitas de inspección;
+
+> <small>(ADICIONADA, B.O. 27 DE ABRIL DE 2017)</small>
+
+XXXIII.- Designar al personal que realizará las funciones de inspección y vigilancia en los establecimientos de los sectores privado y social, para dar cumplimiento a las disposiciones en materia de protección civil;
+
+> <small>(ADICIONADA, B.O. 27 DE ABRIL DE 2017)</small>
+
+XXXIV.- Iniciar y resolver el procedimiento administrativo en materia de protección civil y determinar en su caso, las sanciones que le resulten aplicables a los sujetos que sean obligados por ley;
+
+> <small>(ADICIONADA, B.O. 27 DE ABRIL DE 2017)</small>
+
+XXXV.- Imponer las multas que correspondan en el ámbito de su competencia, relacionadas con el incumplimiento de las obligaciones en materia de protección civil; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 27 DE ABRIL DE 2017)</small>
+
+XXXVI.- Las demás que le confieran esta Ley y demás disposiciones legales aplicables.
 
 > <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
 
@@ -1258,3 +1300,19 @@ B.O. 9 DE ENERO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 117, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ARTÍCULO 13 DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos administrativos que se encuentran en curso ante la Unidad Estatal de Protección Civil al momento de la entrada en vigor del presente Decreto, estarán sujetos a la normatividad vigente en la que se fundamentaron al momento de su presentación.
+
+###### ARTÍCULO TERCERO.
+
+Los manuales de organización, de procedimiento y, en su caso, de servicios al público deberán de expedirse dentro de los noventa días posteriores a la publicación de la presenta (sic) reforma, quedando facultado el Coordinador Estatal para resolver las cuestiones que se presenten en tanto se expidan los mencionados manuales.
