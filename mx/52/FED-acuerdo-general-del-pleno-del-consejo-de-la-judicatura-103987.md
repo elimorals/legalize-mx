@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2017-04-27"
+last_updated: "2017-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2014-12-12"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO]
 
-> <small>[N. DE E. PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTÍCULO ÚNICO DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO" PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]</small>
+[NOTA 1: PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTÍCULO ÚNICO DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO" PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2017.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -351,7 +353,7 @@ III. Bienes decomisados: Los bienes muebles, inmuebles o derechos reales que por
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
 
-IV. Bienes incosteables: Aquellos distintos a numerario, cuyo valor comercia sea inferior a sus costos de administración; a los gastos inherentes a obtener su disponibilidad, o bien que tengan un valor menor al equivalente a seis veces el valor mensual de la Unidad de Medida y Actualización;
+IV. Bienes incosteables: Aquellos distintos a numerario, cuyo valor comercia (sic) sea inferior a sus costos de administración; a los gastos inherentes a obtener su disponibilidad, o bien que tengan un valor menor al equivalente a seis veces el valor mensual de la Unidad de Medida y Actualización;
 
 V. Costos de administración: La suma de todos los gastos, tanto directos como indirectos, que se requieran para la conservación, mantenimiento, supervisión, custodia, destrucción o enajenación de un bien, tales como los pagos que se generen por concepto de honorarios, pagos a terceros especializados, servicios de vigilancia, transporte, embalaje, almacenamiento, avalúos, contribuciones, seguros y energía eléctrica, entre otros, que se vinculen estrictamente con el bien de que se trate;
 
@@ -931,9 +933,11 @@ En todo caso se dejará constancia del proceso de depuración.
 
 El servidor público que use o exhiba documentos falsos para ingresar o desempeñar algún empleo, cargo o comisión; o para integrar su expediente personal será sancionado administrativamente, en términos del artículo 8, fracciones I y XXIV, de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y demás disposiciones aplicables, sin perjuicio de las responsabilidades penal o civil a que haya lugar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2017)</small>
+
 ###### Artículo 29.
 
-La Secretaría Ejecutiva de Administración a través de la Dirección General de Recursos Humanos, deberá sistematizar y digitalizar la documentación contenida en los expedientes personales bajo resguardo de la citada Dirección General, mediante la utilización de medios tecnológicos que proporcionará la Dirección General de Tecnologías de la Información, a efecto de contar con un mecanismo que facilite su control archivístico y su consulta de forma electrónica, evitando su deterioro y el préstamo físico del expediente personal.
+La Secretaría Ejecutiva de Finanzas y Servicios Personales a través de la Dirección General de Recursos Humanos, deberá sistematizar y digitalizar la documentación contenida en los expedientes personales bajo resguardo de la citada Dirección General, mediante la utilización de medios tecnológicos que proporcionará la Dirección General de Tecnologías de la Información, a efecto de contar con un mecanismo que facilite su control archivístico y su consulta de forma electrónica, evitando su deterioro y el préstamo físico del expediente personal.
 
 Asimismo, deberá privilegiarse la utilización de la firma electrónica o sello digital, para la certificación de los documentos que obren en los expedientes personales.
 
@@ -1381,6 +1385,8 @@ El premio se entregará en ceremonia especial, con motivo del Día del Servidor 
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+
 ###### Artículo 97.
 
 (DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
@@ -1559,9 +1565,13 @@ Los servidores públicos se incorporarán al Fondo en forma voluntaria mediante 
 
 Los servidores públicos de nivel operativo inscritos en el Fondo podrán realizar el retiro total de sus aportaciones, cuando:
 
-a Se termine la relación laboral, ya sea por renuncia o fallecimiento; o bien,
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
 
-b Una vez al año, en caso de bajar por cambio de nivel operativo a mando medio o superior.
+I. Se termine la relación laboral, ya sea por renuncia o fallecimiento; o bien,
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+
+II. Una vez al año, en caso de baja por cambio de nivel operativo a mando medio o superior.
 
 En caso de fallecimiento del servidor público los recursos se entregarán a sus beneficiarios designados, a falta de éstos, a quien acredite legalmente tener derecho a ellos.
 
@@ -1603,7 +1613,7 @@ Cuando el servidor público cause baja y cuente con un préstamo vigente, de as�
 
 ###### Artículo 127.
 
-El Pleno, a propuesta de la Secretaría Ejecutiva de Administración, y previo visto bueno de la Comisión de Administración, podrá autorizar la creación de un CENDI, siempre que la disponibilidad presupuestal lo permita.
+El Pleno, a propuesta de la Secretaría Ejecutiva de Finanzas y Servicios Personales, y previo visto bueno de la Comisión de Administración, podrá autorizar la creación de un CENDI, siempre que la disponibilidad presupuestal lo permita.
 
 > <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
 
@@ -1611,9 +1621,11 @@ El Pleno, a propuesta de la Secretaría Ejecutiva de Administración, y previo v
 
 La organización y funcionamiento de los CENDI se regirá conforme a lo previsto en la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil; este Capítulo y las demás disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+
 ###### Artículo 128.
 
-Los casos no previstos en este Capítulo serán resueltos por el Pleno, la Comisión de Administración y la Secretaría Ejecutiva de Administración, en su ámbito de competencia.
+Los casos no previstos en este Capítulo serán resueltos por el Pleno, la Comisión de Administración y la Secretaría Ejecutiva de Finanzas y Servicios Personales, en su ámbito de competencia.
 
 > <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
 
@@ -1641,11 +1653,11 @@ V. Igualdad de género.
 
 Asimismo, debe orientarse al logro de la observancia y ejercicio de los derechos a que se refiere el artículo 11 de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.
 
-> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
 ###### Artículo 128 Quater.
 
-La Secretaría Ejecutiva de Administración, por conducto de la Dirección General de Servicios al Personal, deberá inscribir cada CENDI en el registro local que corresponda, previa revisión del cumplimiento de requisitos conforme a la modalidad y tipo que se trate y conforme a las leyes locales aplicables.
+La Secretaría Ejecutiva de Finanzas y Servicios Personales, por conducto de la Dirección General de Servicios al Personal, deberá inscribir cada CENDI en el registro local que corresponda, previa revisión del cumplimiento de requisitos conforme a la modalidad y tipo que se trate y conforme a las leyes locales aplicables.
 
 > <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
 
@@ -1801,7 +1813,9 @@ El Consejo procurará que los CENDI cuenten con personal capacitado en la atenci
 
 Los CENDI que tengan matriculados niñas y niños con discapacidad, conforme a la suficiencia presupuestal, deberán proporcionarles materiales y ayudas técnicas que apoyen su rendimiento académico.
 
-La Secretaría Ejecutiva de Administración, por conducto de la Dirección General de Servicios al Personal, deberá adoptar las medidas necesarias para procurar que los CENDI que lo requieran cuenten con libros en braille, materiales didácticos, apoyo de intérpretes de lengua de señas mexicana o especialistas en sistema braille, equipos computarizados con tecnología para personas ciegas y todos aquellos apoyos que se identifiquen como necesarios para brindar una educación con calidad, en términos de las disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+
+La Secretaría Ejecutiva de Finanzas y Servicios Personales, por conducto de la Dirección General de Servicios al Personal, deberá adoptar las medidas necesarias para procurar que los CENDI que lo requieran cuenten con libros en braille, materiales didácticos, apoyo de intérpretes de lengua de señas mexicana o especialistas en sistema braille, equipos computarizados con tecnología para personas ciegas y todos aquellos apoyos que se identifiquen como necesarios para brindar una educación con calidad, en términos de las disposiciones aplicables.
 
 > <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
 
@@ -2091,9 +2105,9 @@ VII. Entregar los artículos de uso personal del infante y materiales didáctico
 
 VIII. En su caso, los demás que determine la Comisión de Administración.
 
-> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
-La Comisión de Administración podrá fijar requisitos adicionales a los previstos en este artículo, por ciclo escolar, a propuesta de la Secretaría Ejecutiva de Administración.
+La Comisión de Administración podrá fijar requisitos adicionales a los previstos en este artículo, por ciclo escolar, a propuesta de la Secretaría Ejecutiva de Finanzas y Servicios Personales.
 
 ###### Artículo 193.
 
@@ -2409,13 +2423,13 @@ El servidor público podrá presentar solicitud de reconsideración en contra de
 
 El plazo para formular la solicitud de reconsideración será de cinco días hábiles siguientes a la fecha en que se tenga por recibida la amonestación escrita, la suspensión o la notificación que niegue la inscripción.
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
 ###### Artículo 224.
 
-La Secretaría Ejecutiva de Administración será competente para resolver las solicitudes de reconsideración en las que se reclame una suspensión definitiva; en los demás casos será la Dirección General de Servicios al Personal, la unidad administrativa competente para emitir la resolución que corresponda.
+La Secretaría Ejecutiva de Finanzas y Servicios Personales será competente para resolver las solicitudes de reconsideración en las que se reclame una suspensión definitiva; en los demás casos será la Dirección General de Servicios al Personal, la unidad administrativa competente para emitir la resolución que corresponda.
 
-La solicitud de reconsideración se substanciará de plano por la Dirección General de Servicios al Personal, quien deberá emitir la resolución que corresponda dentro de los treinta días hábiles siguientes al de su recepción o, en su caso, proponer el proyecto de resolución a la Secretaría Ejecutiva de Administración.
+La solicitud de reconsideración se substanciará de plano por la Dirección General de Servicios al Personal, quien deberá emitir la resolución que corresponda dentro de los treinta días hábiles siguientes al de su recepción o, en su caso, proponer el proyecto de resolución a la Secretaría Ejecutiva de Finanzas y Servicios Personales.
 
 ###### Artículo 225.
 
@@ -3091,15 +3105,15 @@ El Comité estará integrado en los siguientes términos:
 
 I. Presidente: El titular de la Secretaría Ejecutiva de Administración; y
 
-> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
 
-II. Vocales: Los titulares de la Coordinación de Administración Regional, y de la Dirección General de Programación y Presupuesto.
+II. Vocales: Los titulares de la Secretaría Ejecutiva de Finanzas y Servicios Personales; y de la Coordinación de Administración Regional.
 
 Los citados integrantes tendrán derecho a voz y voto durante las sesiones, y no podrán ser representados en éstas.
 
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
-Existirá quórum para celebrar válidamente una sesión cuando se cuente con la asistencia de dos de sus integrantes y en caso de ausencia del presidente del Comité, asumirá las funciones correspondientes el titular de la Coordinación de Administración Regional.
+Existirá quórum para celebrar válidamente una sesión cuando se cuente con la asistencia de dos de sus integrantes y en caso de ausencia del presidente del Comité, asumirá las funciones correspondientes el titular de la Secretaría Ejecutiva de Finanzas y Servicios Personales.
 
 La responsabilidad de cada integrante del Comité quedará limitada al voto o comentario que emita u omita, en lo particular, respecto al asunto sometido a su consideración, con base en la documentación que le sea presentada. En este sentido, las determinaciones y opiniones de los miembros del Comité, no comprenden las acciones u omisiones que posteriormente se generen durante el desarrollo de los procedimientos de contratación o en el cumplimiento de los contratos.
 
@@ -5127,9 +5141,21 @@ Podrá exceptuarse a los contratistas de presentar la garantía del cumplimiento
 
 I. Se trate de contrataciones urgentes;
 
-II. Se trate de servicios relacionados con las obras públicas prestados por una persona física, siempre que éstos sean realizados por ella misma, sin requerir de la utilización de más de un especialista o técnico; y
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
 
-III. A juicio del Comité así resulte conveniente a los intereses del Consejo o por las circunstancias de mercado o por su costo no resulte conveniente pactar esta garantía.
+II. Se trate de servicios relacionados con las obras públicas prestados por una persona física, siempre que éstos sean realizados por ella misma, sin requerir de la utilización de más de un especialista o técnico;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+
+III. A juicio del Comité, a que se refiere la fracción VIII, del artículo 7 de este Acuerdo General, así resulte conveniente a los intereses del Consejo o por las circunstancias de mercado o por su costo no resulte conveniente pactar esta garantía; y
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+
+IV. Cuando para la ejecución de los programas de formación, capacitación, actualización, investigación y desarrollo, a juicio del Director General del Instituto de la Judicatura así resulte conveniente a los intereses del Consejo; o por las circunstancias de mercado, o por su costo no resulte conveniente pactar esta garantía.
+
+Lo previsto en el párrafo anterior, tratándose de los convenios que se efectúen con autoridades, organismos públicos, instituciones, asociaciones o entes; nacionales o internacionales que brinden servicios académicos, cuyo objeto sea la investigación, capacitación o algún otro análogo.
+
+En los casos de excepción a que se refiere esta fracción deberá preverse en el contrato o convenio la cláusula de daños y perjuicios por incumplimiento.
 
 ###### Artículo 406.
 
@@ -5687,9 +5713,9 @@ El Comité de Administración Inmobiliaria estará integrado en los siguientes t
 
 I. Presidente: El titular de la Secretaría Ejecutiva de Administración; y
 
-> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
 
-II. Vocales: Los titulares de la Coordinación de Administración Regional y de la Dirección General de Programación y Presupuesto.
+II. Vocales: Los titulares de la Secretaría Ejecutiva de Finanzas y Servicios Personales; y de la Coordinación de Administración Regional.
 
 ###### Artículo 458.
 
@@ -5821,9 +5847,9 @@ Las sesiones del Comité se celebrarán de la siguiente forma:
 
 I. Tendrán lugar siempre que sea necesario y las decisiones se tomarán por mayoría de votos. En caso de empate el Presidente tendrá voto de calidad;
 
-> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
 
-II. Para la validez de las sesiones será necesaria la presencia del presidente y un vocal. En casos estrictamente necesarios, en ausencia del presidente, las sesiones serán presididas por el titular de la Coordinación de Administración Regional, con la asistencia del otro vocal;
+II. Para la validez de las sesiones será necesaria la presencia del presidente y un vocal. En casos estrictamente necesarios, en ausencia del presidente, las sesiones serán presididas por el titular de la Secretaría Ejecutiva de Finanzas y Servicios Personales, con la asistencia del otro vocal;
 
 III. La convocatoria se notificará a los miembros del Comité con un día hábil de anticipación; sin embargo, en sesiones extraordinarias dicho término podrá reducirse;
 
@@ -6675,9 +6701,9 @@ El Comité estará integrado en los siguientes términos:
 
 I. Presidente: El Secretario Ejecutivo de Administración; y
 
-> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
 
-II. Vocales: Los titulares de la Coordinación de Administración Regional y de la Dirección General de Programación y Presupuesto.
+II. Vocales: Los titulares de la Secretaría Ejecutiva de Finanzas y Servicios Personales; y de la Coordinación de Administración Regional.
 
 Los citados integrantes, que siempre serán tres, salvo la ausencia de alguno de ellos, tendrán derecho a voz y voto durante las sesiones.
 
@@ -6791,7 +6817,9 @@ Las sesiones del Comité se celebrarán de la siguiente manera:
 
 I. Tendrán lugar siempre que sea necesario y las decisiones se tomarán por mayoría de votos; el presidente del Comité tendrá voto de calidad;
 
-II. Para que se realicen las sesiones, será necesaria la asistencia de su presidente y un vocal. En ausencia del titular de la Secretaría Ejecutiva de Administración, las sesiones podrán llevarse a cabo, en casos estrictamente necesarios, presidiéndolas el titular de la Dirección General de Programación y Presupuesto, con la asistencia del otro vocal;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+
+II. Para que se realicen las sesiones, será necesaria la asistencia de su presidente y un vocal. En ausencia del titular de la Secretaría Ejecutiva de Administración, las sesiones podrán llevarse a cabo, en casos estrictamente necesarios, presidiéndolas el titular de la Secretaría Ejecutiva de Finanzas y Servicios Personales, con la asistencia del otro vocal;
 
 III. El orden del día, junto con la documentación soporte, se entregará a los integrantes del Comité y asesores, con veinticuatro horas de anticipación para la sesión, cuando así sea posible;
 
@@ -7931,9 +7959,9 @@ El Comité de Informática estará integrado en los siguientes términos:
 
 I. Presidente: El titular de la Secretaría Ejecutiva de Administración; y
 
-> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
 
-II. Vocales: Los titulares de la Coordinación de Administración Regional y de la Dirección General de Programación y Presupuesto.
+II. Vocales: Los titulares de la Secretaría Ejecutiva de Finanzas y Servicios Personales; y de la Coordinación de Administración Regional.
 
 Los integrantes tendrán derecho a voz y voto durante las sesiones.
 
@@ -8073,7 +8101,9 @@ Las sesiones del Comité se celebrarán de la siguiente manera:
 
 I. En forma ordinaria una vez por mes y de manera extraordinaria cuando así lo convoque su presidente. Invariablemente, sesionará en las fechas previas a los calendarios establecidos para la presentación de los programas estratégicos en materias de informática y de telecomunicaciones;
 
-II. Deberán concurrir todos los integrantes del Comité; sin embargo, podrán llevarse a cabo con la presencia del presidente y, cuando menos, un vocal. En ausencia del presidente y con la presencia de los dos vocales, aquel podrá ser suplido, en los casos debidamente justificados por el Director General de Programación y Presupuesto;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+
+II. Deberán concurrir todos los integrantes del Comité; sin embargo, podrán llevarse a cabo con la presencia del presidente y, cuando menos, un vocal. En ausencia del presidente y con la presencia de los dos vocales, aquel podrá ser suplido, en los casos debidamente justificados por el Secretario Ejecutivo de Finanzas y Servicios Personales;
 
 III. La convocatoria, el orden del día, junto con la documentación soporte, se entregarán a los integrantes del Comité, ponentes, asesores y, en su caso, invitados al menos con tres días hábiles de anticipación, a la celebración de sesiones ordinarias y un día hábil de anticipación tratándose de extraordinarias;
 
@@ -8241,7 +8271,9 @@ XXVII. Realizar y controlar el levantamiento y actualización de los inventarios
 
 XXVIII. Observar los procedimientos y parámetros autorizados para la adjudicación de contratos de adquisiciones, arrendamientos, prestación de servicios y mantenimiento de inmuebles, aplicables al Consejo; y
 
-XXIX. Las demás que determine el Pleno, la Comisión de Administración, la Secretaría Ejecutiva de Administración y la Dirección General de Servicios Generales.
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+
+XXIX. Las demás que determine el Pleno, y las Comisiones.
 
 ###### Artículo 695.
 
@@ -8269,7 +8301,9 @@ X. Proporcionar a la Dirección General de Servicios Generales la información n
 
 XI. Operar y controlar el fondo fijo asignado; y
 
-XII. Las demás que determine el Pleno, la Comisión de Administración, la Secretaría Ejecutiva de Administración y la Dirección General de Servicios Generales.
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+
+XII. Las demás que determine el Pleno, y las Comisiones.
 
 Las administraciones de edificios deberán ejercer sus atribuciones de conformidad con las disposiciones aplicables; y deberán atender, en todo caso, al monto de la operación, sin incluir el impuesto al valor agregado, conforme a los parámetros que anualmente emita el Pleno para la adjudicación de contratos de adquisiciones, arrendamientos y prestación de servicios y mantenimiento de inmuebles.
 
@@ -8333,7 +8367,9 @@ Los objetivos, estrategias y metas del Consejo, estarán encaminados al cumplimi
 
 El Presupuesto de Egresos del Poder Judicial de la Federación se elaborará de acuerdo con los objetivos, políticas, estrategias, prioridades y metas con base en indicadores de desempeño, contenidos en los programas para cada ejercicio fiscal aprobados por el Pleno, conforme a lo dispuesto en la Ley de Presupuesto y acorde con los criterios generales de política económica.
 
-La Dirección General de Innovación, Planeación y Desarrollo Institucional será la responsable de integrar el Programa Anual de Trabajo, los proyectos, objetivos, metas e indicadores anuales previstos por las áreas administrativas para el siguiente ejercicio fiscal y lo someterá a la aprobación de la Secretaría Ejecutiva de Administración, para autorización del Pleno, previa consideración favorable de la Comisión de Administración.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+
+La Dirección General de Innovación, Planeación y Desarrollo Institucional será la responsable de integrar el Programa Anual de Trabajo, los proyectos, objetivos, metas e indicadores anuales previstos por las áreas administrativas para el siguiente ejercicio fiscal y lo someterá a la aprobación de la Secretaría Ejecutiva de Finanzas y Servicios Personales, para autorización del Pleno, previa consideración favorable de la Comisión de Administración.
 
 Toda propuesta que implique aumento en el gasto corriente o de inversión, no contemplada inicialmente en el presupuesto autorizado, deberá contar con la autorización del Pleno.
 
@@ -8353,7 +8389,9 @@ II. Registrarse ante la Secretaría de Hacienda conforme lo establece la Ley de 
 
 III. Informar a la Secretaría de Hacienda sobre la obtención y la aplicación de dichos ingresos, para efectos de la integración de los informes trimestrales y la Cuenta Pública.
 
-Para efectos de la aprobación a que se refiere la fracción I de este artículo, la Secretaría Ejecutiva de Administración por conducto de la Dirección General de Programación y Presupuesto someterá a la autorización de la Comisión de Administración los montos, origen y conceptos de ampliación.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+
+Para efectos de la aprobación a que se refiere la fracción I de este artículo, la Secretaría Ejecutiva de Finanzas y Servicios Personales, por conducto de la Dirección General de Programación y Presupuesto, someterá a la autorización de la Comisión de Administración los montos, origen y conceptos de ampliación.
 
 > <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
@@ -8371,13 +8409,17 @@ IV. Suma total.
 
 La Dirección General de Programación y Presupuesto podrá, previa autorización de la Comisión de Receso, incorporar al Presupuesto de Egresos del Poder Judicial de la Federación como ampliación líquida, los ingresos excedentes registrados del 1° al 15 de noviembre de cada ejercicio fiscal. Esto se informará al Pleno en la primera sesión ordinaria del año inmediato posterior.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
 ###### Artículo 702.
 
-En caso de que durante el ejercicio fiscal disminuyan las ministraciones por recorte al presupuesto autorizado al Consejo, el Pleno, por conducto de la Secretaría Ejecutiva de Administración, podrá aplicar las siguientes medidas de disciplina presupuestaria:
+En caso de que durante el ejercicio fiscal disminuyan las ministraciones por recorte al presupuesto autorizado al Consejo, el Pleno, por conducto de la Secretaría Ejecutiva de Finanzas y Servicios Personales, podrá aplicar las siguientes medidas de disciplina presupuestaria:
+
+> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 I. Ajustes compensados con ingresos excedentes y transferencias financieras provenientes de otras instancias del Poder Judicial de la Federación; y
+
+> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 II. En el caso de que los ajustes compensados a que se refiere la fracción anterior no sean suficientes, se procederá a la reducción del gasto conforme a las prioridades que determine el Pleno, y demás disposiciones jurídicas aplicables, sin afectar programas de carácter sustantivo.
 
@@ -8411,7 +8453,7 @@ Lo previsto en este artículo tiene por objeto evitar el subejercicio de los rec
 
 #### SECCIÓN CUARTA. DESCONCENTRACIÓN DEL EJERCICIO DEL GASTO
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
 ###### Artículo 705.
 
@@ -8421,9 +8463,9 @@ El Pleno podrá autorizar la recepción o transferencia de recursos financieros,
 
 En el marco de la autonomía e independencia que la Constitución otorga al Poder Judicial de la Federación, y bajo el principio de respeto institucional entre Poderes, el Consejo podrá establecer canales de comunicación y colaboración institucional con las Cámaras de Senadores y de Diputados del Congreso de la Unión, con los Congresos Locales y con las dependencias de la Administración Pública Federal y de las Entidades Federativas, que coadyuven al cumplimiento de sus funciones.
 
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
-Sin detrimento de que cada instancia del Poder Judicial de la Federación pueda hacerlo individualmente y de lo establecido en la Constitución y en la Ley Orgánica, el Consejo, a través de la Secretaría Ejecutiva de Administración, podrá establecer de manera directa los vínculos institucionales con los órganos competentes de los Poderes Ejecutivo y Legislativo de la Federación, para la atención de las funciones financieras y administrativas relacionadas con la gestión de los recursos presupuestales autorizados.
+Sin detrimento de que cada instancia del Poder Judicial de la Federación pueda hacerlo individualmente y de lo establecido en la Constitución y en la Ley Orgánica, el Consejo, a través de la Secretaría Ejecutiva de Finanzas y Servicios Personales, podrá establecer de manera directa los vínculos institucionales con los órganos competentes de los Poderes Ejecutivo y Legislativo de la Federación, para la atención de las funciones financieras y administrativas relacionadas con la gestión de los recursos presupuestales autorizados.
 
 #### SECCIÓN PRIMERA. DEL SISTEMA DE CONTABILIDAD EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
@@ -8449,19 +8491,19 @@ Las unidades ejecutoras de gasto, en términos del artículo 45 de la Ley de Pre
 
 El Presupuesto de Egresos del Poder Judicial de la Federación se administrará por resultados, para lo cual, las unidades ejecutoras de gasto, deberán establecer y registrar en su Programa Anual de Trabajo, los objetivos, metas e indicadores que pretendan lograr, de conformidad con un ejercicio eficiente y eficaz del gasto y a una efectiva rendición de cuentas. En consecuencia, se sujetarán a los controles programáticos y presupuestarios correspondientes, conforme a sus programas y presupuestos autorizados y a las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
 ###### Artículo 709.
 
-La Comisión de Administración, por conducto de la Secretaría Ejecutiva de Administración, administrará los recursos del Consejo, de conformidad con el Presupuesto de Egresos del Poder Judicial de la Federación y las disposiciones jurídicas aplicables; bajo los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas, y equidad de género.
+La Comisión de Administración, por conducto de la Secretaría Ejecutiva de Finanzas y Servicios Personales, administrará los recursos del Consejo, de conformidad con el Presupuesto de Egresos del Poder Judicial de la Federación y las disposiciones jurídicas aplicables; bajo los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas, y equidad de género.
 
-La Secretaría Ejecutiva de Administración verificará que se dé cumplimiento a lo dispuesto en el artículo 704 de este Acuerdo y propondrá los sistemas de control y de evaluaciones internas del ejercicio presupuestal, a través de las unidades administrativas competentes.
+La Secretaría Ejecutiva de Finanzas y Servicios Personales verificará que se dé cumplimiento a lo dispuesto en el artículo 704 de este Acuerdo y propondrá los sistemas de control y de evaluaciones internas del ejercicio presupuestal, a través de las unidades administrativas competentes.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
 ###### Artículo 710.
 
-La Secretaría Ejecutiva de Administración, por conducto de la Dirección General de Programación y Presupuesto, establecerá la coordinación y comunicación adecuada con las demás unidades ejecutoras de gasto para que exista un flujo de información ágil y oportuna.
+La Secretaría Ejecutiva de Finanzas y Servicios Personales, por conducto de la Dirección General de Programación y Presupuesto, establecerá la coordinación y comunicación adecuada con las demás unidades ejecutoras de gasto para que exista un flujo de información ágil y oportuna.
 
 > <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
@@ -8547,13 +8589,13 @@ IV. La geográfica, que agrupa a las previsiones de gasto con base en su destino
 
 V. La de género, la cual agrupa las previsiones de gasto con base en su destino por género, diferenciado entre mujeres y hombres.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
 ###### Artículo 719.
 
-El anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación, se formulará conforme a los criterios y lineamientos que autorice el Pleno. Dichos criterios y lineamientos serán propuestos al Pleno por la Secretaría Ejecutiva de Administración, previa aprobación de la Comisión de Administración.
+El anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación, se formulará conforme a los criterios y lineamientos que autorice el Pleno. Dichos criterios y lineamientos serán propuestos al Pleno por la Secretaría Ejecutiva de Finanzas y Servicios Personales, previa aprobación de la Comisión de Administración.
 
-La Secretaría Ejecutiva de Administración, por conducto de la Dirección General de Programación y Presupuesto está facultada para formular el anteproyecto de presupuesto de las unidades ejecutoras de gasto con la información que ésta tenga disponible, cuando las mismas no lo presenten en los plazos establecidos.
+La Secretaría Ejecutiva de Finanzas y Servicios Personales, por conducto de la Dirección General de Programación y Presupuesto está facultada para formular el anteproyecto de presupuesto de las unidades ejecutoras de gasto con la información que ésta tenga disponible, cuando las mismas no lo presenten en los plazos establecidos.
 
 ###### Artículo 720.
 
@@ -8601,11 +8643,13 @@ Las unidades ejecutoras de gasto serán responsables de la administración por r
 
 El ejercicio del gasto público en el Consejo se efectuará con base en el calendario del ejercicio presupuestal autorizado por el Pleno. Dicho ejercicio comprenderá el manejo y aplicación que de los recursos realice el Consejo, por medio de las unidades ejecutoras de gasto, para dar cumplimiento a los objetivos y metas considerados en el Programa Anual de Trabajo.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
 ###### Artículo 725.
 
-Las políticas, lineamientos, directrices y criterios para el ejercicio del gasto público en el Consejo, serán formulados por la Dirección General de Programación y Presupuesto y presentados por la Secretaría Ejecutiva de Administración a la Comisión de Administración para su definición anual y su posterior autorización del Pleno.
+Las políticas, lineamientos, directrices y criterios para el ejercicio del gasto público en el Consejo, serán formulados por la Dirección General de Programación y Presupuesto y presentados por la Secretaría Ejecutiva de Finanzas y Servicios Personales a la Comisión de Administración para su definición anual y su posterior autorización del Pleno.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 Los instrumentos reglamentarios señalados en el párrafo anterior se darán a conocer a las unidades ejecutoras de gasto para su estricta observancia y tendrán vigencia hasta que sean emitidas aquellas que las sustituyan.
 
@@ -8681,7 +8725,9 @@ La autorización de contratos plurianuales se sujetará a las siguientes reglas:
 
 I. El monto total de los contratos plurianuales no deberá implicar riesgos de incumplimiento de las obligaciones a cargo del Consejo ni restricciones a la flexibilidad requerida para el adecuado ejercicio del gasto;
 
-II. El monto máximo para la contratación plurianual, de cada ejercicio, deberá fijarse hasta por el monto que, como porcentaje del presupuesto en que se ejerza, autorice el Pleno a propuesta de la Secretaría Ejecutiva de Administración, lo que podrá ser reducido o ampliado conforme a las economías obtenidas en los capítulos de gasto corriente;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+
+II. El monto máximo para la contratación plurianual, de cada ejercicio, deberá fijarse hasta por el monto que, como porcentaje del presupuesto en que se ejerza, autorice el Pleno a propuesta de la Secretaría Ejecutiva de Finanzas y Servicios Personales, lo que podrá ser reducido o ampliado conforme a las economías obtenidas en los capítulos de gasto corriente;
 
 III. De ser el caso, se tomarán en consideración las erogaciones plurianuales aprobadas en ejercicios anteriores;
 
@@ -8783,11 +8829,13 @@ I. Con cargo a los programas y, en su caso, los subprogramas, proyectos y unidad
 
 II. Con sujeción al Clasificador por Objeto del Gasto del propio Consejo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
 ###### Artículo 741.
 
-Cuando los capítulos, partidas o conceptos del Clasificador por Objeto del Gasto, no satisfagan los requerimientos de registro presupuestario del Consejo, la Secretaría Ejecutiva de Administración a través de la Dirección General de Programación y Presupuesto podrá, conforme a sus funciones y requerimientos específicos, identificar sus erogaciones con una apertura y desagregación mayor a la prevista en dicho clasificador.
+Cuando los capítulos, partidas o conceptos del Clasificador por Objeto del Gasto, no satisfagan los requerimientos de registro presupuestario del Consejo, la Secretaría Ejecutiva de Finanzas y Servicios Personales a través de la Dirección General de Programación y Presupuesto podrá, conforme a sus funciones y requerimientos específicos, identificar sus erogaciones con una apertura y desagregación mayor a la prevista en dicho clasificador.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 2015)</small>
 
 Las partidas del Clasificador por Objeto del Gasto podrán desagregarse en subpartidas, que correspondan con la estructura y contenido genérico de los capítulos y conceptos de gasto del mismo, previa autorización de la Comisión de Administración.
 
@@ -8947,11 +8995,11 @@ Las unidades ejecutoras de gasto deberán establecer los mecanismos necesarios p
 
 Independientemente de la forma de pago, el Consejo, a través de las Direcciones Generales de Recursos Humanos, Tesorería y de las Administraciones Regionales, según corresponda, deberá asegurarse de entregar a cada servidor público, directamente o por medios electrónicos, el comprobante de pago donde se especifiquen los conceptos y cantidades que correspondan a sus percepciones y descuentos. Asimismo, deberá conservar los documentos que emitan las instituciones bancarias de los abonos efectuados a las cuentas de los servidores públicos, lo que comprobará que efectivamente se efectuó el pago.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
 ###### Artículo 755.
 
-La Secretaría Ejecutiva de Administración a través de sus unidades administrativas someterá a la autorización del Pleno, previa consideración favorable de la Comisión de Administración, el Manual de Percepciones y Prestaciones para los servidores públicos a cargo del Consejo; así como las reglas para su aplicación.
+La Secretaría Ejecutiva de Finanzas y Servicios Personales a través de sus unidades administrativas someterá a la autorización del Pleno, previa consideración favorable de la Comisión de Administración, el Manual de Percepciones y Prestaciones para los servidores públicos a cargo del Consejo; así como las reglas para su aplicación.
 
 El Manual a que se refiere este artículo deberá publicarse en el Diario Oficial de la Federación conforme a los plazos establecidos en las disposiciones aplicables.
 
@@ -8959,7 +9007,7 @@ El Manual a que se refiere este artículo deberá publicarse en el Diario Oficia
 
 ###### Artículo 756.
 
-Los movimientos a las estructuras orgánicas y ocupacionales, deberán realizarse mediante adecuaciones presupuestarias compensadas, sin incrementar el presupuesto regularizable (sic) de servicios personales del ejercicio fiscal inmediato siguiente.
+Los movimientos a las estructuras orgánicas y ocupacionales, deberán realizarse mediante adecuaciones presupuestarias compensadas, sin incrementar el presupuesto regularizable de servicios personales del ejercicio fiscal inmediato siguiente.
 
 En el caso de creación de plazas, dicho incremento se realizará conforme a los recursos previstos específicamente para tal fin en el Presupuesto de Egresos del Poder Judicial de la Federación.
 
@@ -9059,7 +9107,9 @@ En todos los casos, las adecuaciones presupuestarias, deberán cumplir con las d
 
 A nivel de gasto desconcentrado, la Coordinación de Administración Regional y las Direcciones Generales de Recursos Materiales; Servicios Generales; e Inmuebles y Mantenimiento, así como las Unidades Administrativas Foráneas y las Administraciones de Edificios de la Ciudad de México y zona conurbada, realizarán las adecuaciones que sean necesarias, conforme a la normatividad vigente.
 
-De los movimientos realizados, la Dirección General de Programación y Presupuesto, integrará el informe que presente la Secretaría Ejecutiva de Administración periódicamente a la Comisión de Administración y al Pleno.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+
+De los movimientos realizados, la Dirección General de Programación y Presupuesto, integrará el informe que presente la Secretaría Ejecutiva de Finanzas y Servicios Personales periódicamente a la Comisión de Administración y al Pleno.
 
 ###### Artículo 769.
 
@@ -9077,7 +9127,9 @@ IV. Cuando lo solicite de manera expresa la Comisión de Administración.
 
 ###### Artículo 770.
 
-Con el fin de procurar el ejercicio eficiente y eficaz del gasto, la Secretaría Ejecutiva de Administración podrá desconcentrar en las Unidades Administrativas Foráneas y las Administraciones de Edificios de la Ciudad de México y zona conurbada, la realización de funciones presupuestales y operaciones financieras, en los términos de este Título y demás disposiciones jurídicas aplicables.
+Con el fin de procurar el ejercicio eficiente y eficaz del gasto, la Secretaría Ejecutiva de Finanzas y Servicios Personales podrá desconcentrar en las Unidades Administrativas Foráneas y las Administraciones de Edificios de la Ciudad de México y zona conurbada, la realización de funciones presupuestales y operaciones financieras, en los términos de este Título y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 La Dirección General de Programación y Presupuesto tendrá la atribución de supervisar el adecuado desarrollo de la desconcentración de las funciones y operaciones señaladas en el párrafo anterior, con la finalidad de mantener el control del gasto, y la integridad y consistencia de la información financiera.
 
@@ -9261,11 +9313,11 @@ IV. Cualquier otro documento que acredite la entrada de recursos que por su natu
 
 En los casos excepcionales en que no se cuente con alguno de los documentos antes citados, o se desconozca el origen del ingreso, la Dirección General de Programación y Presupuesto registrará, con base en los estados de cuenta bancarios en los cuales se identifique el ingreso a la cuenta correspondiente.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
 ###### Artículo 788.
 
-Las recuperaciones de recursos presupuestales de ejercicios anteriores que se registren contablemente en el ejercicio fiscal en curso, deberán ser reintegradas a la Tesorería de la Federación por la Secretaría Ejecutiva de Administración, a través de la Dirección General de Programación y Presupuesto, previa opinión favorable de la Contraloría. Los reintegros que en el periodo de un mes excedan la cantidad de 41,073.3844 veces el valor de la Unidad de Medida y Actualización, deberán contar además con la autorización previa de la Comisión de Administración.
+Las recuperaciones de recursos presupuestales de ejercicios anteriores que se registren contablemente en el ejercicio fiscal en curso, deberán ser reintegradas a la Tesorería de la Federación por la Secretaría Ejecutiva de Finanzas y Servicios Personales, a través de la Dirección General de Programación y Presupuesto, previa opinión favorable de la Contraloría. Los reintegros que en el periodo de un mes excedan la cantidad de 41,073.3844 veces el valor de la Unidad de Medida y Actualización, deberán contar además con la autorización previa de la Comisión de Administración.
 
 > <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
@@ -9493,11 +9545,13 @@ IV. La información complementaria para generar las cuentas nacionales y atender
 
 Los estados analíticos sobre deuda pública y otros pasivos, y el de capital deberán considerar por concepto el saldo inicial del ejercicio, las entradas y salidas por transacciones, otros flujos económicos y el saldo final del ejercicio.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
 ###### Artículo 797.
 
-La Dirección General de Programación y Presupuesto es la responsable de elaborar, autorizar y enviar a la Secretaría Ejecutiva de Administración y a la Contraloría, los estados financieros de manera mensual, en los términos establecidos en las disposiciones jurídicas aplicables.
+La Dirección General de Programación y Presupuesto es la responsable de elaborar, autorizar y enviar a la Secretaría Ejecutiva de Finanzas y Servicios Personales y a la Contraloría, los estados financieros de manera mensual, en los términos establecidos en las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 La información financiera, de conformidad con este Título y con la Ley General de Contabilidad Gubernamental será organizada, sistematizada y difundida, al menos, trimestralmente en el portal de Internet del Consejo a solicitud de la Dirección General de Programación y Presupuesto, a más tardar treinta días después del cierre del período que corresponda, en términos de las disposiciones en materia de transparencia que le sean aplicables y, en su caso, de los criterios que emita el Consejo Nacional de Armonización Contable. La difusión de la información a través de Internet no exime de la obligación de presentar los informes ante las instancias correspondientes.
 
@@ -9547,11 +9601,13 @@ Para lo anterior, se aplicarán las normas de auditoría para verificar que los 
 
 Como resultado de la elaboración y verificación de la Cuenta Pública, cuando se requiera, se efectuarán los ajustes correspondientes en la contabilidad del Consejo, de conformidad con las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 25 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
 ###### Artículo 801.
 
-La Secretaría Ejecutiva de Administración, con la opinión favorable de la Contraloría, aprobará la Cuenta Pública integrada por la Dirección General de Programación y Presupuesto, y validada por su titular.
+La Secretaría Ejecutiva de Finanzas y Servicios Personales, con la opinión favorable de la Contraloría, aprobará la Cuenta Pública integrada por la Dirección General de Programación y Presupuesto, y validada por su titular.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2015)</small>
 
 Una vez aprobada la Cuenta Pública el titular de la Dirección General de Programación y Presupuesto la remitirá a la Secretaría de Hacienda para su incorporación a la Cuenta Anual de la Hacienda Pública Federal, en los términos de las disposiciones aplicables; e informará a la Comisión de Administración y al Pleno al respecto.
 
@@ -9795,7 +9851,9 @@ Artículo 835 Vicies. La Comisión de Administración, autorizará la actualizac
 
 El Consejo implementará un Sistema Institucional de Evaluación a que se refiere el artículo 111 de la Ley de Presupuesto, que incorporará indicadores para evaluar los resultados y el cumplimiento de los criterios establecidos en el párrafo segundo del artículo 1 de la Ley de Presupuesto.
 
-Dicho sistema será autorizado por el Pleno, a propuesta de la Secretaría Ejecutiva de Administración y de la Dirección General de Innovación, Planeación y Desarrollo Institucional.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+
+Dicho sistema será autorizado por el Pleno, a propuesta de la Secretaría Ejecutiva de Finanzas y Servicios Personales y de la Dirección General de Innovación, Planeación y Desarrollo Institucional.
 
 La Dirección General de Innovación, Planeación y Desarrollo Institucional, evaluará mediante el Sistema Institucional de Evaluación el cumplimiento de los objetivos y metas de los programas aprobados y verificará los resultados de ejecución de los programas de las unidades ejecutoras de gasto, que deberán ser presentados en informes para identificar el cumplimiento de los criterios establecidos en el segundo párrafo del artículo 1 de la Ley de Presupuesto.
 
@@ -10181,9 +10239,9 @@ III. Todos aquellos recursos de idéntica naturaleza que en lo futuro le corresp
 
 El Comité de Inversión de Recursos Financieros estará integrado de la siguiente forma:
 
-> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
 
-I. Presidente: El Secretario Ejecutivo de Administración; y
+I. Presidente: El Secretario Ejecutivo de Finanzas y Servicios Personales; y
 
 > <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
@@ -12342,3 +12400,33 @@ D.O.F. 27 DE ABRIL DE 2017.
 PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo.
+
+D.O.F. 28 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE ADMINISTRACIÓN".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de mayo de dos mil diecisiete, con excepción de lo previsto en el Transitorio QUINTO de este instrumento, cuya vigencia iniciará al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Las referencias que se hagan en cualquier disposición a la Secretaría Ejecutiva de Administración como superior jerárquico de las unidades administrativas que se adscriben en este Acuerdo a la Secretaría Ejecutiva de Finanzas y Servicios Personales se entenderán hechas a esta última. Lo mismo se observará, respecto de las que se hagan a la Secretaría Ejecutiva de Administración cuando, de conformidad con la distribución de competencias prevista en este Acuerdo, deban corresponder a la Secretaría Ejecutiva de Finanzas y Servicios Personales. El resto de las referencias a la Secretaría Ejecutiva de Administración se entenderán hechas a ésta.
+
+CUARTO. Los recursos materiales y financieros relacionados con el desempeño de las atribuciones que se confieren a la Secretaría Ejecutiva de Finanzas y Servicios Personales, con que cuente a la entrada en vigor del presente Acuerdo la Secretaría Ejecutiva de Administración, se transferirán a la mencionada Secretaría Ejecutiva de Finanzas y Servicios Personales. Respecto de los recursos humanos ambas secretarías ejecutivas contarán con las plantillas que autorice el Pleno del Consejo de la Judicatura Federal.
+
+Lo previsto en el párrafo anterior se deberá materializar dentro de los quince días naturales siguientes a la entrada en vigor del presente Acuerdo, mediante la suscripción de las actas de entrega-recepción respectivas y demás instrumentos necesarios.
+
+QUINTO. La Secretaría Ejecutiva de Administración, por conducto de las unidades administrativas competentes que le están adscritas, deberá adoptar las acciones a que haya lugar para el debido cumplimiento de este Acuerdo.
+
+SEXTO. Los asuntos que se relacionen con las atribuciones que se confieren a la Secretaría Ejecutiva de Finanzas y Servicios Personales, que se encuentren en trámite en la Secretaría Ejecutiva de Administración a la entrada en vigor del presente Acuerdo, serán atendidos por la referida Secretaría Ejecutiva de Finanzas y Servicios Personales.
+
+SÉPTIMO. La Contraloría del Poder Judicial de la Federación, intervendrá dentro de su ámbito de competencia en el cumplimiento del presente Acuerdo.
+
+OCTAVO. Las secretarías ejecutivas de Administración; y de Finanzas y Servicios Personales deberán formular los manuales específicos de organización y de puestos; y los manuales de procedimientos respectivos dentro de los cuarenta y cinco días hábiles posteriores a la entrada en vigor del presente Acuerdo, y remitirlos para los efectos correspondientes a la Dirección General de Innovación, Planeación y Desarrollo Institucional.
+
+D.O.F. 28 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELATIVO A LAS CONTRATACIONES DEL INSTITUTO DE LA JUDICATURA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
