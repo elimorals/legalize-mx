@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-reguladora-de-energia-103717"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-11-28"
-last_updated: "2016-01-14"
+last_updated: "2017-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103717&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-11-20"
 ---
 # REGLAMENTO INTERNO DE LA COMISION REGULADORA DE ENERGIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA COMISIÓN REGULADORA DE ENERGÍA, PUBLICADO EN EL D.O.F. DE 28 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DE LA COMISIÓN REGULADORA DE ENERGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2017 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 28 de noviembre de 2014.
 
@@ -1654,3 +1656,31 @@ Cuarto. Inscríbase el presente Acuerdo bajo el Núm. A/076/2015 en el registro 
 Quinto. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
 
 Sexto. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DE LA COMISIÓN REGULADORA DE ENERGÍA”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interno de la Comisión Reguladora de Energía, publicado en el Diario Oficial de la Federación el 28 de noviembre de 2014.
+
+A partir de la entrada en vigor del presente Reglamento, se derogan todas las disposiciones administrativas que se opongan al mismo.
+
+TERCERO.- Los Consejeros del Consejo Consultivo continuarán en su encargo hasta la conclusión del periodo para el que fueron nombrados con base en el Acuerdo por el que la Comisión Reguladora de Energía establece la integración del Consejo Consultivo para el periodo 2015-2018 de fecha 5 de marzo de 2015, publicado en el portal de Internet de la Comisión Reguladora de Energía: http://www.gob.mx/cre y, considerando lo establecido en las reglas de operación del Consejo Consultivo que emita el Órgano de Gobierno.
+
+CUARTO.- Queda sin efectos el Acuerdo por el que se delega al Secretario Ejecutivo de la Comisión Reguladora de Energía las facultades de emisión, suscripción y actualización de permisos A/037/2015, publicado en el Diario Oficial de la Federación el 29 de julio de 2015.
+
+QUINTO.- Queda sin efectos el Acuerdo por el que la Comisión Reguladora de Energía delega al Secretario Ejecutivo las facultades de inscripción, emisión y suscripción de constancias, actualización de datos y baja en el registro de usuarios calificados A/025/2016, publicado en el Diario Oficial de la Federación el 16 de junio de 2016.
+
+SEXTO.- Queda sin efectos el Acuerdo que delega a la Secretaría Ejecutiva de la Comisión Reguladora de Energía la facultad de aprobar los ajustes anuales a las tarifas máximas aprobadas por el Órgano de Gobierno A/044/2016, publicado en el Diario Oficial de la Federación el 2 de diciembre de 2016.
+
+SÉPTIMO.- Queda sin efectos el Acuerdo por el que delega a la Secretaría Ejecutiva las facultades de inscripción, emisión y suscripción de constancias, actualización de datos y baja en el registro de comercializadores no suministradores A/047/2016, publicado en el Diario Oficial de la Federación el 8 de diciembre de 2016.
+
+OCTAVO.- Los asuntos que estén tramitándose por las distintas Unidades Administrativas a la entrada en vigor del presente Reglamento, permanecerán en el último estado que hubieran alcanzado y se continuarán atendiendo y resolverán por la nueva Unidad o Unidades Administrativas a las que se haya otorgado la competencia conforme a este Reglamento.
+
+NOVENO.- En tanto se emita el manual de organización, el Presidente resolverá lo conducente en aquellos asuntos no previstos en este Reglamento.
+
+DÉCIMO.- En tanto se adecua la estructura orgánica de la Comisión, las funciones de los Jefes de Unidad serán ejercidas por aquellos Servidores Públicos que designe el Presidente.
+
+DÉCIMO PRIMERO.- Los Servidores Públicos que, por virtud de la reestructuración y redistribución de funciones previstas en el presente Reglamento Interno, deban entregar a otros Servidores Públicos expedientes, asuntos, trámites o procedimientos para su recepción y continuación, documentarán la entrega-recepción de los mismos de conformidad con las disposiciones aplicables. A partir de la publicación del presente Reglamento Interno en el Diario Oficial de la Federación, las Unidades Administrativas deberán coordinarse para preparar la entrega-recepción prevista en este artículo.
