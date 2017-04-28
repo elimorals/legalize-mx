@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-movilidad-del-estado-de-guanajuato-y-sus-municipios-1137
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-18"
-last_updated: "2016-04-12"
+last_updated: "2017-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE ABRIL DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2017.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de marzo de 2016.
 
@@ -2841,7 +2839,13 @@ VIII. Revocación de concesiones;
 
 IX. Cancelación de permisos; y
 
-X. Arresto hasta por treinta seis horas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2017)</small>
+
+X. Trabajo a favor de la comunidad en instituciones públicas educativas o de asistencia social, sin que exceda de diez jornadas de hasta tres horas en no más de tres días a la semana, fuera del horario de actividad habitual del infractor; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE ABRIL DE 2017)</small>
+
+XI. Arresto hasta por treinta seis horas.
 
 Las sanciones anteriores se aplicarán en los términos que al respecto establezcan los reglamentos correspondientes, sin perjuicio de las que pudieran derivarse de los hechos cometidos.
 
@@ -2897,19 +2901,27 @@ Serán causas de remisión de vehículos al depósito, las determinadas por el r
 
 Procedimiento para conductores en estado inconveniente
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### Artículo 257.
 
-Se sancionará con multa o arresto hasta de treinta y seis horas, a quien cometa cualquier infracción de tránsito conduciendo en estado de ebriedad, o bajo el influjo de estupefacientes, psicotrópicos o cualquier otra sustancia que produzca efectos similares.
+Se sancionará con arresto de veinte hasta treinta y seis horas, a quien conduzca con un nivel de alcohol en la sangre superior a 0.8 gramos por litro o de alcohol en aire espirado superior a 0.4 miligramos por litro, así como bajo el influjo de narcóticos, estupefacientes, psicotrópicos o cualquier otra sustancia que produzca efectos similares.
 
 En este caso, inmediatamente se practicará al conductor la prueba de alcoholemia o de aire espirado en alcoholímetro. Cuando el conductor se niegue a otorgar muestra de aire espirado se remitirá a la autoridad competente, y se le practicará un examen pericial clínico médico.
 
-La licencia del conductor será suspendida por ciento ochenta días si se encuentra intoxicado por la ingesta de bebidas alcohólicas, que del examen correspondiente arroje un nivel de alcoholemia igual o superior al 0.08% medido por alcoholímetro, o su equivalente en términos de espirometría.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
 
-Si antes de que concluya el plazo de suspensión a que se refiere el párrafo anterior el conductor sancionado demuestra, con constancia expedida por una institución oficial de salud, que se le han practicado los exámenes de toxicomanía y alcoholismo, que comprueben que el interesado no es dependiente de bebidas alcohólicas, ni estupefacientes o psicotrópicos, y otras sustancias que produzcan efectos similares, podrá proporcionársele nuevamente la licencia, para ello, deberá cumplir con los mismos requisitos señalados para la primera expedición de la licencia.
+La licencia del conductor será suspendida por ciento ochenta días si se encuentra intoxicado por la ingesta de bebidas alcohólicas, que del examen correspondiente arroje un nivel de alcoholemia igual o superior al 0.8 gramos por litro o de alcohol en aire espirado superior a 0.4 miligramos por litro, así como bajo el influjo de narcóticos, estupefacientes, psicotrópicos o cualquier otra sustancia que produzca efectos similares, además el conductor deberá someterse a un programa de prevención o rehabilitación de adicciones en instituciones públicas o privadas que cumplan con los requisitos establecidos en el reglamento de la presente Ley.
 
-A la persona que incurriere por segunda vez en el supuesto a que se refiere el párrafo tercero de este artículo, se le sancionará además con arresto administrativo de treinta y seis horas y se le cancelará su licencia, y solamente podrá proporcionársele con los mismos requisitos que deberá cumplir para la licencia nueva, hasta haber transcurrido tres años a partir de la cancelación, además de los exámenes de toxicomanía y alcoholismo, que demuestren que el interesado no es dependiente de bebidas alcohólicas, ni estupefacientes o psicotrópicos, y otras sustancias que produzcan efectos similares.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 28 DE ABRIL DE 2017)</small>
 
-Tratándose de menores de 18 años se les cancelará el permiso para conducir y estarán inhabilitados para obtenerlo por un año contado a partir de la fecha en que se cometió la infracción.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
+A la persona que incurriere por segunda vez en un periodo que no exceda de tres años en el supuesto a que se refiere el párrafo anterior, se le sancionará con arresto administrativo de treinta y seis horas y se le cancelará su licencia, y solamente podrá proporcionársele con los mismos requisitos que deberá cumplir para la licencia nueva, hasta haber transcurrido tres años a partir de la cancelación, además el conductor deberá acreditar haberse sometido a un programa de prevención o rehabilitación de adicciones en instituciones públicas o privadas, y deberá presentar los exámenes de toxicomanía y alcoholismo, que demuestren que no es dependiente de bebidas alcohólicas, narcóticos, estupefacientes, psicotrópicos, o cualquier otra sustancia que produzcan efectos similares.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
+Tratándose de menores de 18 años únicamente se les cancelará el permiso para conducir y estarán inhabilitados para obtenerlo por un año contado a partir de la fecha en que se cometió la infracción; además el conductor deberá someterse a un programa de prevención o rehabilitación de adicciones en instituciones públicas o privadas.
 
 La imposición de las sanciones contenidas en el presente artículo quedará a cargo de las autoridades de tránsito y transporte, previa audiencia del infractor, siguiendo el procedimiento que establece el reglamento respectivo y sin perjuicio de la responsabilidad civil o penal que pudiera resultar de la falta cometida en los términos de la ley de la materia.
 
@@ -3158,3 +3170,15 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 181, APROBADO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado y los ayuntamientos deberán adecuar sus reglamentos, dentro de los noventa días, posteriores a la entrada en vigencia del presente Decreto.
+
+Artículo Tercero. Los municipios que no cuenten con la infraestructura y los recursos materiales y humanos necesarios para la aplicación del presente Decreto, contarán hasta con un año, contado a partir del inicio de su vigencia, a efecto de que adecúen su infraestructura y su organización administrativa.
