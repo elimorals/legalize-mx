@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-11967
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-02-14"
-last_updated: "2017-02-14"
+last_updated: "2017-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2017.
 
 Reglamento publicado en la Sección Tercera al Número 28 de la Gaceta del Gobierno del Estado de México, el martes 14 de febrero de 2017.
 
@@ -131,21 +131,31 @@ Las Visitadurías Generales se organizarán de conformidad con la denominación 
 
 I. La Visitaduría General sede Toluca, tendrá competencia en el territorio que comprenden los municipios de: Almoloya de Alquisiras; Almoloya de Juárez; Amanalco; Amatepec; Donato Guerra; Ixtapan del Oro; Lerma; Luvianos; Metepec; Ocoyoacac; Otzoloapan; Otzolotepec; San Mateo Atenco; San Simón de Guerrero; Santo Tomás; Sultepec; Tejupilco; Temascaltepec; Temoaya; Texcaltitlán; Tlatlaya; Toluca; Valle de Bravo; Villa de Allende; Villa Victoria; Xonacatlán; Zacazonapan; Zacualpan y Zinacantepec.
 
-II. La Visitaduría General sede Tlalnepantla, tendrá competencia en el territorio que comprenden los municipios de: Apaxco; Atizapán de Zaragoza; Coyotepec; Cuautitlán; Cuautitlán Izcalli; Huehuetoca; Hueypoxtla; Tepotzotlán; Tequixquiac; Tlalnepantla de Baz y Zumpango;
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2017)</small>
+
+II. La Visitaduría General sede Tlalnepantla, tendrá competencia en el territorio que comprenden los municipios de: Atizapán de Zaragoza; Cuautitlán Izcalli; Huehuetoca; Tepotzotlán; y Tlalnepantla de Baz;
 
 III. La Visitaduría General sede Chalco, tendrá competencia en el territorio que comprenden los municipios de: Amecameca; Atlautla; Ayapango; Cocotitlán; Chalco; Ecatzingo; Ixtapaluca; Juchitepec; Ozumba; Temamatla; Tenango del Aire; Tepetlixpa; Tlalmanalco y Valle de Chalco Solidaridad;
 
 IV. La Visitaduría General sede Nezahualcóyotl, tendrá competencia en el territorio que comprenden los municipios de: Atenco; Chicoloapan; Chiconcuac; Chimalhuacán; La Paz; Nezahualcóyotl y Texcoco;
 
-V. La Visitaduría General sede Ecatepec, tendrá competencia en el territorio que comprenden los municipios de: Acolman; Axapusco; Coacalco de Berriozabal; Chiautla; Ecatepec de Morelos; Jaltenco; Nextlalpan; Nopaltepec; Otumba; Papalotla; San Martín de las Pirámides; Tecámac; Temascalapa; Teotihuacán; Tepetlaoxtoc; Tezoyuca; Tonanitla; Tultepec y Tultitlán;
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2017)</small>
+
+V. La Visitaduría General sede Ecatepec, tendrá competencia en el territorio que comprenden los municipios de: Acolman; Axapusco; Coacalco de Berriozabal; Chiautla; Ecatepec de Morelos; Nopaltepec; Otumba; Papalotla; San Martín de las Pirámides; Tecámac; Temascalapa; Teotihuacán; Tepetlaoxtoc; Tezoyuca y Tonanitla;
 
 VI. La Visitaduría General sede Atlacomulco, tendrá competencia en el territorio que comprenden los municipios de: Acambay de Ruíz Castañeda; Aculco; Atlacomulco; Chapa de Mota; El Oro; Ixtlahuaca; Jilotepec; Jiquipilco; Jocotitlán; Morelos; Polotitlán; San Felipe del Progreso; San José del Rincón; Soyaniquilpan de Juárez; Temascalcingo y Timilpan;
 
-VII. La Visitaduría General sede Naucalpan, tendrá competencia en el territorio que comprenden los municipios de: Huixquilucan; Isidro Fabela; Jilotzingo; Melchor Ocampo; Naucalpan de Juárez; Nicolás Romero; Teoloyucan y Villa del Carbón;
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2017)</small>
+
+VII. La Visitaduría General sede Naucalpan, tendrá competencia en el territorio que comprenden los municipios de: Huixquilucan; Isidro Fabela; Jilotzingo; Naucalpan de Juárez; Nicolás Romero y Villa del Carbón;
 
 VIII. La Visitaduría General sede Tenango del Valle, tendrá competencia en el territorio que comprenden los municipios de: Almoloya del Río; Atizapán; Calimaya; Capulhuac; Chapultepec; Coatepec Harinas; Ixtapan de la Sal; Joquicingo; Malinalco; Mexicaltzingo; Ocuilan; Rayón; San Antonio la Isla; Tenancingo; Tenango del Valle; Texcalyacac; Tianguistenco; Tonatico; Villa Guerrero; Xalatlaco; y Zumpahuacán; y
 
-IX. La Visitaduría General de Supervisión Penitenciaria, tendrá competencia específica para supervisar el debido respeto a los derechos humanos en los Centros de Prevención y Readaptación Social del Estado de México, la Escuela de Reintegración Social para Adolescentes, áreas de aseguramiento e internamiento, y conocerá de presuntas violaciones a derechos fundamentales de las personas privadas de libertad en territorio estatal.
+> <small>(ADICIONADA, G.G. 28 DE ABRIL DE 2017)</small>
+
+IX. La Visitaduría General sede Cuautitlán, tendrá competencia en el territorio que comprenden los municipios de: Apaxco, Cuautitlán; Coyotepec, Hueypoxtla, Jaltenco, Melchor Ocampo, Nextlalpan, Teoloyucan, Tequixquiac, Tultepec, Tultitlán y Zumpango;
+
+X. La Visitaduría General de Supervisión Penitenciaria, tendrá competencia específica para supervisar el debido respeto a los derechos humanos en los Centros de Prevención y Readaptación Social del Estado de México, la Escuela de Reintegración Social para Adolescentes, áreas de aseguramiento e internamiento, y conocerá de presuntas violaciones a derechos fundamentales de las personas privadas de libertad en territorio estatal.
 
 La distribución territorial señalada, es para efectos administrativos, ya que la facultad para conocer de denuncias y quejas competencia del Organismo, podrá realizarse por los Visitadores Generales y Adjuntos en todo el territorio del Estado, previo acuerdo de la Presidencia o de la Primera Visitaduría General.
 
@@ -1536,3 +1546,13 @@ M. en D. María del Rosario Mejía Ayala
 Secretaria General de la Comisión de Derechos Humanos y Secretaria Técnica del Consejo Consultivo
 
 (Rúbrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 28 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 04/2017-05, POR EL QUE SE APRUEBA LA REFORMA Y ADICIÓN DEL ARTÍCULO 8 DEL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial “Gaceta del Gobierno” del Estado de México, así como en la Gaceta de Derechos Humanos órgano informativo de la Comisión de Derechos Humanos del Estado de México.
+
+SEGUNDO.- Este Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
