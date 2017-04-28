@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2017-04-21"
+last_updated: "2017-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE ENSENADA, B. C.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -1357,49 +1357,45 @@ DE LA INTEGRACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES ESPECIALES Y CONJUNTAS.
 
 Cuando el Presidente Municipal determine la necesidad de que un asunto sea atendido por una comisión conjunta, o la creación de una comisión especial, designará al Regidor que deba fungir como coordinador.
 
-COORDINADOR DE COMISION.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
 
-###### ARTÍCULO 110.
+PRESIDENTE DE LA COMISION.
 
-Son funciones de los Coordinadores de Comisión:
+###### Artículo 110.
 
-I.- Coordinar las sesiones de la Comisión;
+Son funciones de los Presidentes de Comisión:
 
-II.- Convocar a los miembros de la Comisión para celebrar sesiones, en los términos del artículo 97 de este Ordenamiento;
+I.- Presidir las sesiones de la Comisión;
+
+II.- Convocar a los miembros de la Comisión para celebrar sesiones, en los términos del ARTÍCULO 97 de este Ordenamiento;
 
 III.- Someter a consideración el orden del día, en que deberán ser atendidos los asuntos en Comisiones;
 
 IV.- Emitir voto de calidad en caso de empate;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+V.- Presentar al Ayuntamiento en Sesión de Cabildo, un informe trimestral de los trabajos de la Comisión; y
 
-V.- Presentar al Ayuntamiento en Sesión de Cabildo, un informe trimestral de los trabajos de la Comisión;
+VI.- Las demás que le señale este Reglamento y en general, aquellas que resulten necesarias para garantizar el debido funcionamiento de la Comisión.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
 
-VI.- Someter a consideración de los integrantes de la Comisión, el programa de trabajo que la misma desarrollará para el cumplimiento de sus funciones; y
+SECRETARIO DE COMISIÓN.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2017)</small>
-
-VII.- Las demás que le señale este Reglamento y en general, aquellas que resulten necesarias para garantizar el debido funcionamiento de la Comisión.
-
-SECRETARIO DE COMISION.
-
-###### ARTÍCULO 111.
+###### Artículo 111.
 
 Son funciones de los Secretarios de Comisión:
 
-I.- Coordinar en ausencia del Coordinador, las sesiones de la Comisión;
+I.- Presidir en ausencia del Presidente, las sesiones de la Comisión;
 
-II.- Convocar en ausencia y con el consentimiento por escrito del Coordinador, a los miembros de la Comisión para celebrar sesiones;
+II.- Convocar en ausencia y con el consentimiento por escrito del Presidente, a los miembros de la Comisión para celebrar sesiones;
 
 III.- Fungir como secretario de actas de las sesiones de la Comisión;
 
 IV.- Integrar y llevar los expedientes de los asuntos que hayan sido turnados a la comisión;
 
-V.- Tomar lista de asistencia y declarar la existencia de quórum legal para sesionar; y
+V.- Tomar lista de asistencia y declarar la existencia de quórum legal para sesionar; y.
 
-VI.- Las demás que el Coordinador o la Comisión le encomienden.
+VI.- Las demás que el Presidente o la Comisión le encomienden.
 
 MUNICIPES NO MIEMBROS DE LA COMISION.
 
@@ -1420,6 +1416,10 @@ PARTICIPACION DE FUNCIONARIOS Y CIUDADANOS.
 Las sesiones de las Comisiones no serán públicas; sin embargo, cuando así lo acuerden sus integrantes, celebrarán reuniones de información y audiencia a las que podrán asistir ciudadanos interesados en el asunto de que se trate, a fin de conocer o recibir orientación del mismo. En su caso, tratándose de funcionarios públicos de la administración municipal podrán ser invitados por escrito por el Coordinador, cuando el punto de acuerdo de la sesión amerite.
 
 Los funcionarios y/o servidores públicos no serán sujetos de reclamos o llamadas de atención en estas sesiones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE ABRIL DE 2017)</small>
+
+Las comisiones son reuniones de trabajo donde se deliberan, analizan, discuten y en su caso se dictaminan asuntos de interés del Ayuntamiento, es por esto que la información ahí tratada no podrá ser divulgada, sino hasta que sea aprobada en la sesión de Cabildo por ser esta la última instancia que determine el sentido del asunto en discusión, con excepción de las sesiones que tengan que ver con las iniciativas de Reglamentos, su reforma o adición.
 
 ### CAPITULO SEGUNDO. DE LAS COMISIONES PERMANENTES COMISIONES PERMANENTES (SIC)
 
@@ -2302,3 +2302,19 @@ P.O. 21 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO DEL CONSEJO CIUDADANO PARA LA PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO PARA LA PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO DEL COMITÉ MUNICIPAL CONTRA LAS ADICCIONES DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO INTERIOR DE LA SINDICATURA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO PARA EL USO DE VEHÍCULOS OFICIALES DEL GOBIERNO MUNICIPAL DE ENSENADA, BAJA CALIFORNIA, DE RELATIVO A DICTAMEN 007/2017."]
 
 UNICO.- La presente reforma y derogaciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 032/2017, RELATIVO A LA REFORMA DE LOS ARTÍCULOS 110 Y 111 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA".]
+
+PRIMERO.- La presente reforma entrara en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California
+
+SEGUNDO.- Se establecerá un término de 100 días para que la Comisión de Gobernación y Legislación modifique los Reglamentos relativos al Municipio de Ensenada, Baja California en el mismo sentido y objetivo de esta propuesta.
+
+TERCERO.- En los Reglamentos vinculados con el Municipio de Ensenada, Baja California, se entenderá por Presidente de la Comisión, en todas aquellas disposiciones normativas en donde diga Coordinador de la Comisión, a efectos de hacer cumplir el transitorio segundo.
+
+P.O. 28 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 064/2017, RELATIVO A LA REFORMA DEL ARTÍCULO 113 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California
