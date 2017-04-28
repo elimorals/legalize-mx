@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-escalafon-de-los-trabajadores-del-poder-102544"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-08-22"
-last_updated: "2014-08-22"
+last_updated: "2017-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE ESCALAFÓN DE LOS TRABAJADORES DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2017.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de agosto de 2014.
 
@@ -44,6 +44,8 @@ REGLAMENTO DE ESCALAFÓN DE LOS TRABAJADORES DEL PODER LEGISLATIVO DEL ESTADO DE
 El presente ordenamiento reglamenta el Título Décimo Tercero de la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California y tiene por objeto establecer el escalafón del Poder Legislativo; las facultades, obligaciones, atribuciones e integración de la Comisión Mixta de Escalafón, de los procedimientos para garantizar la estabilidad, el ascenso y permutas de los trabajadores de base del Poder Legislativo, así como para el otorgamiento de plazas concursables a aquellos trabajadores con derecho a ello.
 
 Se exceptúan de las disposiciones de este Reglamento al personal de confianza del Poder Legislativo que desempeñen los cargos señalados en el artículo 6 de la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 2.
 
@@ -75,7 +77,7 @@ XII. Plaza vacante temporal: La plaza de base cuyo titular se encuentre ausente 
 
 XIII. Plaza desierta: La plaza de base definitiva que se encuentre vacante temporal o definitivamente y que habiendo sido concursada, no exista candidato a ocuparla, ya sea porque ningún trabajador de base que haya participado en el concurso reúna los requisitos para ello, o bien porque no existan interesados.
 
-XIV. Poder Legislativo: El Poder Legislativo del Estado de Baja California, considerándose como parte de el al Congreso del Estado y al Órgano de Fiscalización Superior.
+XIV. Poder Legislativo: El Poder Legislativo del Estado de Baja California, considerándose como parte de el al Congreso del Estado y al Orfis.
 
 XV. Puesto Tipo: puesto representativo que contiene atributos genéricos o compartidos con un conjunto de puestos con características similares o cuando estas se refieren a un puesto único.
 
@@ -89,11 +91,15 @@ XIX. Trabajador o trabajadores: Los trabajadores del Poder Legislativo exceptuan
 
 XX. Tribunal: El Tribunal de Arbitraje del Estado de Baja California.
 
-XXI. Titular: El titular de la Secretaría de Servicios Administrativos del Congreso del Estado.
+XXI. Titular: El titular de la Dirección de Administración del Congreso del Estado.
+
+XXII. Orfis: El Órgano de Fiscalización Superior del Estado de Baja California.
 
 ###### ARTÍCULO 3.
 
 Las disposiciones de este Reglamento son de observancia obligatoria para el Poder Legislativo, la Comisión, el Sindicato y los trabajadores, su aplicación e interpretación corresponde al Titular, quien podrá emitir los lineamientos, manuales, formatos y demás normatividad necesaria para su eficaz cumplimiento, por si o por conducto de los servidores públicos facultados para ello. En caso de duda, interpretación o controversia, y en caso de aspectos no previstos en el presente reglamento, el titular emitirá el acuerdo correspondiente de conformidad con el artículo 12 de la Ley.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 4.
 
@@ -105,7 +111,7 @@ II. Vacantes temporales por más de seis meses; y,
 
 III. Plazas de nueva creación.
 
-El Sindicato tendrá derecho a proponer a los candidatos a ocupar las plazas a que se refieren las fracción (sic) I y II, pero sólo cuando hubieren ocurrido por motivo de separación del titular o por renuncia, jubilación, fallecimiento, pensión, recisión de contrato no impugnado o con sentencia firme dictada por los tribunales competentes.
+El Sindicato tendrá derecho a proponer a los candidatos a ocupar las plazas a que se refieren las fracciones I y II, pero sólo cuando hubieren ocurrido por motivo de separación del titular o por renuncia, jubilación, fallecimiento, pensión, recisión de contrato no impugnado o con sentencia firme dictada por los tribunales competentes.
 
 Los nombramientos que se otorguen para ocupar las vacantes temporales a que se refiere la fracción II tendrán el carácter de provisional por lo que cuando el titular de la misma reingrese al servicio, automáticamente se recorrerá en forma inversa el escalafón y el trabajador de la última categoría, dejará de prestar sus servicios sin responsabilidad para el Titular.
 
@@ -153,27 +159,29 @@ El trabajador beneficiado con un ascenso escalafonario no podrá volver a concur
 
 ### CAPÍTULO III. DE LA COMISIÓN MIXTA DE ESCALAFÓN
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 12.
 
 La implementación, operación, control y seguimiento del Escalafón son atribuciones de la Comisión, misma que se integra de la siguiente manera:
 
 I. Con voz y voto:
 
-a) Por el Poder Legislativo: Dos representantes designados por el titular de la Secretaría de Servicios Administrativos.
+a) Por el Poder Legislativo: Dos representantes designados por el titular de la Dirección de Administración.
 
 b) Por el Sindicato: Dos representantes designados por el Secretario General de la Sección Sindical en el Municipio de Mexicali, Baja California.
 
 II. Con voz pero sin voto:
 
-a) Un secretario técnico, que será el titular de la Dirección General de Administración del Poder Legislativo.
+a) Un secretario técnico, que será el Jefe del Departamento de Recursos Humanos del Congreso del Estado de Baja California.
 
-b) Cuando así lo estime conveniente la Comisión, el titular del Órgano de Apoyo Parlamentario o Administrativo de adscripción, tratándose del Órgano de Fiscalización será el titular del área correspondiente.
+b) Cuando así lo estime conveniente la Comisión, el titular del Órgano Técnico o Administrativo de adscripción, tratándose del Órgano de Fiscalización será el titular del área correspondiente.
 
 Los integrantes de la Comisión designarán libremente a su suplente, quien para todos los efectos legales, deberá presentar el oficio de representación correspondiente, para su registro y control.
 
 Para el caso de la representación sindical estos durarán en su cargo el tiempo para el que fueron electos.
 
-Para en (sic) caso de empate, de conformidad a lo establecido en el artículo 162 de la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California, la Comisión solicitara al Tribunal de Arbitraje del Estado para que a (sic) en un término que no excederá de diez días hábiles, contados a partir de la solicitud que por escrito haga la Comisión misma que deberá ir acompañada de una lista de cuatro candidatos propuestos paritariamente por los integrantes a que se refiere la fracción I de este artículo, designe un árbitro y su respectivo suplente para que sea el quien emita el voto de desempate en un plazo no mayor a 3 días hábiles contados a partir de su designación.
+En caso de empate, de conformidad a lo establecido en el artículo 162 de la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California, la Comisión solicitara al Tribunal de Arbitraje del Estado para que en un término que no excederá de diez días hábiles, contados a partir de la solicitud que por escrito haga la Comisión misma que deberá ir acompañada de una lista de cuatro candidatos propuestos paritariamente por los integrantes a que se refiere la fracción I de este artículo, designe un árbitro y su respectivo suplente para que sea el quien emita el voto de desempate en un plazo no mayor a 3 días hábiles contados a partir de su designación.
 
 Todos los cargos de los integrantes de la Comisión, incluido el de Arbitro, son honorarios por lo que no recibirán emolumento o compensación alguna.
 
@@ -186,6 +194,8 @@ Para cada sesión se deberá formular previamente un orden del día, la cual se 
 ###### ARTÍCULO 14.
 
 Habrá quórum siempre que estén presentes la mayoría de los integrantes de la Comisión con voz y voto, propietarios o suplentes.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 15.
 
@@ -203,11 +213,13 @@ V. Proporcionar la información relacionada con las funciones de la Comisión;
 
 VI. Turnar al Tribunal de Arbitraje del Estado para su resolución, las inconformidades que se presenten ante la Comisión; y,
 
-VI. (SIC) Las demás que deriven de las disposiciones aplicables.
+VII. Las demás que deriven de las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 16.
 
-El domicilio de la Comisión será el de las oficinas de la Secretaría de Servicios Administrativos del Poder Legislativo, no obstante podrá sesionar en cualquier domicilio que de común acuerdo se habilite por la Comisión y se refiera en la convocatoria respectiva.
+El domicilio de la Comisión será el de las oficinas de la Dirección de Administración del Congreso del Estado de Baja California, no obstante podrá sesionar en cualquier domicilio que de común acuerdo se habilite por la Comisión y se refiera en la convocatoria respectiva.
 
 ###### ARTÍCULO 17.
 
@@ -239,13 +251,17 @@ XII. Revisar y compilar las solicitudes de las plazas concursables; y
 
 XIII. Las que se deriven del presente reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 18.
 
-Los Órganos de Apoyo Parlamentario y Administrativo, así como las áreas de procedencia del Órgano de Fiscalización Superior, sindicato, trabajadores y en general todo servidor público deberán proporcionar a la Comisión todos los documentos de información que esta requiera para resolver los asuntos de su competencia.
+Los Órganos Técnicos y Administrativos, así como las áreas de procedencia del Orfis, sindicato, trabajadores y en general todo servidor público deberán proporcionar a la Comisión todos los documentos de información que esta requiera para resolver los asuntos de su competencia.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 19.
 
-Las unidades administrativas o áreas equivalentes de los Órganos de Apoyo Parlamentario y Administrativo del Congreso del Estado, así como las áreas de procedencia del Órgano de Fiscalización Superior, son órganos de apoyo de la Comisión y para los efectos de este reglamento tendrán las siguientes atribuciones en el ámbito de sus respectivas competencias:
+Las unidades administrativas o áreas equivalentes de los Órganos Técnicos y Administrativos del Congreso del Estado, así como las áreas de procedencia del Orfis, son órganos de apoyo de la Comisión y para los efectos de este reglamento tendrán las siguientes atribuciones en el ámbito de sus respectivas competencias:
 
 I. Integrar el expediente y resguardar la documentación escalafonaria de los trabajadores;
 
@@ -281,13 +297,15 @@ IV. Las demás que las leyes, este Reglamento, las Condiciones Generales de Trab
 
 Se denomina escalafón al sistema organizado para efectuar el otorgamiento de plazas de base definitivas, así como las promociones de ascenso de los trabajadores y para autorizar las permutas, mismo que se realizará mediante el concurso que establece el capítulo V de este reglamento.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 24.
 
 Las plazas que integran el escalafón se agrupan en Ramas de Escalafón integradas por los Puestos tipo previstos en el Catálogo General de Puestos, de conformidad con las características típicas que los distinguen, conforme a lo siguiente:
 
-a) Rama Administrativa: Integrada con los puestos adscritos a la Secretaría de Servicios Administrativos del Congreso del Estado y al Órgano de Fiscalización Superior.
+a) Rama Administrativa: Integrada con los puestos adscritos a la Dirección de Administración; a la Dirección de Contabilidad y Finanzas; y, al Orfis.
 
-b) Rama Parlamentaria: Integrada con los puestos adscritos a la Secretaría de Servicios Parlamentarios del Congreso del Estado.
+b) Rama Técnica: Integrada con los puestos adscritos a la Dirección de Procesos Parlamentarios; Dirección de Consultoría Legislativa; Unidad de contraloría Interna; Unidad de Asuntos Jurídicos; Unidad de Transparencia y Unidad de Comunicación Social.
 
 Las ramas anteriores generan que los movimientos de escalafón se harán dentro de cada una de ellas y dentro del mismo puesto, de conformidad con las categorías o rangos salariales que para cada puesto se establezcan.
 
@@ -295,9 +313,11 @@ Las ramas anteriores generan que los movimientos de escalafón se harán dentro 
 
 Los puestos de los trabajadores de base que integran las diferentes ramas, así como las categorías o rangos salariales en que éstos se subdividen, son los registrados en el Catálogo General de Puestos, los cuales podrán ser modificados o adicionados anualmente de conformidad con las necesidades del servicio, notificando de ello al sindicato, en su caso.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 26.
 
-Los requisitos para ocupar puestos escalafonarios son los establecidos en las cedulas de identificación de puestos que en su caso, formen parte del Catálogo General de Puestos.
+Los requisitos para ocupar puestos escalafonarios son los establecidos en las cedulas de identificación de puestos que, en su caso, formen parte del Catálogo General de Puestos.
 
 ###### ARTÍCULO 27.
 
@@ -403,9 +423,11 @@ VII. No haber solicitado licencia en los seis meses anteriores a la fecha de sol
 
 #### SECCIÓN TERCERA. DEL REGISTRO AL CONCURSO DE ESCALAFÓN
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 37.
 
-Para inscribirse en un concurso escalafonario el trabajador, a través de la Secretaría de Servicios Administrativos deberá presentar ante la Comisión:
+Para inscribirse en un concurso escalafonario el trabajador, a través de la Dirección de Administración deberá presentar ante la Comisión:
 
 I. Cédula de inscripción a concurso escalafonario;
 
@@ -415,7 +437,7 @@ III. Copia del certificado de acreditación académica;
 
 IV. Copias de constancias de participación en cursos, talleres, diplomados, seminarios, certificados de competencia laboral o especializaciones;
 
-V. Copia del reporte por empleado expedido por la Dirección General de Administración o la Unidad General de Administración del Órgano de Fiscalización Superior;
+V. Copia del reporte por empleado expedido por la Dirección General de Administración o la Unidad General de Administración del Orfis;
 
 VI. Copia del gafete expedido por el Poder Legislativo; y
 
@@ -447,17 +469,19 @@ Se entiende por puntualidad la concurrencia del trabajador a las labores, confor
 
 Se entiende por disciplina al comportamiento que observan los trabajadores durante el ejercicio o cumplimiento de sus funciones o prestación de sus servicios, el apego a la normatividad, a los manuales, procedimientos y disposiciones de cualquier naturaleza que les resulten aplicables y en su caso las sanciones que se les hubieren impuesto.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 42.
 
 La Comisión tomará en cuenta los factores escalafonarios atendiendo a los siguientes porcentajes:
 
 Conocimientos 30% En base al reporte que emita la Dirección
 
-General de Administración o la Unidad
+de Administración del Congreso o la
 
-General de Administración del Órgano de
+Unidad General de Administración del
 
-Fiscalización Superior.
+Orfis.
 
 Aptitud 30% En base a la evaluación o informe rendida
 
@@ -473,9 +497,7 @@ acta administrativa desfavorable,
 
 amonestación o sanción por parte del Jefe
 
-inmediato, o el área de Recursos
-
-Humanos.
+inmediato, o el área de Recursos Humanos.
 
 Antigüedad 20% En base al reporte que emita el área de
 
@@ -483,9 +505,11 @@ Recursos Humanos correspondiente.
 
 La suma de las calificaciones obtenidas en la evaluación de estos factores será equivalente a la calificación definitiva.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 43.
 
-Para la evaluación de la antigüedad de los trabajadores que presenten su solicitud para concursar, la Comisión solicitará al área de Recursos Humanos correspondiente un reporte, con la actualización de la antigüedad generada en el Poder Legislativo, así como en la plaza y categoría salarial que ocupan.
+Para la evaluación de la antigüedad de los trabajadores que presenten su solicitud para concursar, la Comisión solicitará al Departamento de Recursos Humanos correspondiente un reporte, con la actualización de la antigüedad generada en el Poder Legislativo, así como en la plaza y categoría salarial que ocupan.
 
 La antigüedad no se interrumpe con motivo del otorgamiento de licencias con goce de sueldo, salvo en caso de disposición legal en contrario.
 
@@ -503,15 +527,19 @@ La puntualidad será evaluada por la Comisión conforme a los resultados que der
 
 El área de Recursos Humanos elaborará el formato autorizado para rendir esos informes.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 47.
 
-Los conocimientos se evaluarán considerando las calificaciones obtenidas de conformidad con el reporte que al efecto emita la Dirección General de Administración o la Unidad General de Administración del Órgano de Fiscalización Superior.
+Los conocimientos se evaluarán considerando las calificaciones obtenidas de conformidad con el reporte que al efecto emita la Dirección de Administración del Congreso, o la Unidad General de Administración del Orfis.
 
-Para el caso de cursos o capacitaciones tomadas en los centro de capacitación sindicales o externos, se tomarán en cuenta para acreditar el cumplimiento de este factor escalafonario, siempre y cuando correspondan a la descripción del puesto establecida en la cédula correspondiente y aquellos que sean avalados por la Dirección General de Gestión y Vinculación o la Unidad General de Administración del Órgano de Fiscalización Superior.
+Para el caso de cursos o capacitaciones tomadas en los centro de capacitación sindicales o externos, se tomarán en cuenta para acreditar el cumplimiento de este factor escalafonario, siempre y cuando correspondan a la descripción del puesto establecida en la cédula correspondiente y aquellos que sean avalados por la Dirección de Administración del Congreso o la Unidad General de Administración del Orfis.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 48.
 
-La aptitud será evaluada por la Comisión con base en el informe rendido por el titular del área correspondiente a las que se encuentren adscritos los trabajadores. Dichos reportes se rendirán en los formatos elaborados por la Dirección General de Administración y aprobados por la Comision.
+La aptitud será evaluada por la Comisión con base en el informe rendido por el titular del área correspondiente a las que se encuentren adscritos los trabajadores. Dichos reportes se rendirán en los formatos elaborados por la Dirección de Administración y aprobados por la Comisión.
 
 ###### ARTÍCULO 49.
 
@@ -563,9 +591,11 @@ Ningún trabajador que haya consumado una permuta podrá solicitar otra sino des
 
 ### CAPÍTULO VIII. DE LOS IMPEDIMENTOS, RESPONSABILIDADES E INCONFORMIDADES
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 57.
 
-No son recusables los integrantes de la Comisión, pero deberán manifestar que están impedidos en los siguientes casos:
+No son recusables los integrantes de la Comisión, pero deberán manifestar que están impedidos de voz y voto en los siguientes casos:
 
 I. Si tienen parentesco con alguno de los concursantes en línea recta sin limitación del grado; en la colateral por consanguinidad, hasta el cuarto grado, y en la colateral por afinidad hasta el segundo;
 
@@ -668,3 +698,23 @@ POR EL SINDICATO
 LIC. VICTORIA BENTLEY DUARTE
 
 SECRETARÍA GENERAL DEL SINDICATO ÚNICO DE TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADOS DE BAJA CALIFORNIA, SECCIÓN MEXICALI
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE REFORMA EL REGLAMENTO DE ESCALAFÓN DE LOS TRABAJADORES DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas al Reglamento de Escalafón del Poder Legislativo entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Derivado de las reformas a este Reglamento el Director de Administración y el Sindicato, respectivamente deberán designar a sus representantes para integrar la Comisión Mixta de Escalafón en un plazo que no exceda de 5 días hábiles, contados a partir del día hábil siguiente a la publicación de las reformas al presente Reglamento de Escalafón en el Periódico Oficial del Estado.
+
+TERCERO.- A partir de la designación de sus integrantes y a más tardar dentro de los tres días hábiles siguientes a dicha designación la Comisión Mixta de Escalafón deberá quedar formalmente instalada, mediante el acta correspondiente.
+
+CUARTO.- Una vez realizada la publicación en el Periódico Oficial del Estado, el presente Reglamento de Escalafón deberá remitirse al Tribunal de Arbitraje del Estado, para los efectos previstos en el artículo 107 fracción V de la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California.
+
+QUINTO.- El Secretario Ejecutivo de la Comisión en un plazo que no exceda de 10 días hábiles siguientes a la publicación del presente Reglamento de escalafón en el Periódico Oficial del Estado, deberá actualizar los lineamientos, formatos y demás normatividad que ya estaba siendo utilizada por la Comisión Mixta de Escalafón hasta antes de estas reformas.
+
+SÉXTO.- Los trabajadores de base en los puestos que, de conformidad con la Reforma de la Ley del servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California publicada el 08 de mayo de 2014, se redefinieron como de confianza, conservarán sus plazas de base y el nivel salarial obtenido.
+
+SEPTIMO.- Las reformas al presente Reglamento de Escalafón no afectarán los derechos adquiridos y demás prestaciones reconocidas a los trabajadores de base con anterioridad a su publicación en apego y observancia a lo dispuesto en el artículo OCTAVO Transitorio del Decreto numero 19 aprobado por el Pleno de la H. XXII Legislatura el 24 de noviembre de 2016.
