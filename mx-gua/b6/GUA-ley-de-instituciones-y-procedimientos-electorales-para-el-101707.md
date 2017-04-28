@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-instituciones-y-procedimientos-electorales-para-el-10170
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-27"
-last_updated: "2016-12-27"
+last_updated: "2017-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2017.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de junio de 2014.
 
@@ -1149,6 +1149,10 @@ El Secretario Ejecutivo del Consejo General colaborará con las comisiones para 
 
 El Consejo General, de acuerdo con la disponibilidad presupuestal del Instituto, podrá crear comités técnicos especiales para actividades o programas específicos, en que requiera del auxilio o asesoría técnico-científica de especialistas en las materias en que así lo estime conveniente.
 
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2017)</small>
+
+Las convocatorias a reuniones de las comisiones, se realizarán a través de notificación electrónica.
+
 ###### Artículo 91.
 
 El Consejo General integrará las comisiones temporales que considere para el desempeño de sus atribuciones, las que siempre serán presididas por un Consejero Electoral.
@@ -1613,7 +1617,9 @@ Los consejos distritales electorales se instalarán a más tardar el quince de o
 
 Los consejos distritales sesionarán con la asistencia de la mayoría de sus integrantes con derecho a voto, entre los que deberá estar su presidente. Las resoluciones se tomarán por mayoría de votos.
 
-Cuando no se reúna el quórum legal previsto en el párrafo anterior, el presidente convocará mediante cédula a todos los integrantes del consejo distrital a nueva reunión, la cual tendrá validez con los consejeros y representantes que asistan, entre los que deberá estar el presidente.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
+Cuando no se reúna el quórum legal previsto en el párrafo anterior, el presidente convocará mediante notificación electrónica a todos los integrantes del consejo distrital a nueva reunión, la cual tendrá validez con los consejeros y representantes que asistan, entre los que deberá estar el presidente.
 
 ###### Artículo 120.
 
@@ -1703,7 +1709,9 @@ Los consejos municipales electorales se instalarán a más tardar el quince de o
 
 Para que los consejos municipales puedan sesionar, es necesaria la presencia de la mayoría de sus integrantes con derecho a voto, entre los que deberá estar el presidente. Las resoluciones se tomarán por mayoría de votos.
 
-Cuando no se reúna el quorum legal previsto en el párrafo anterior, el presidente convocará, mediante cédula, a todos los integrantes del Consejo municipal a nueva reunión, la cual tendrá validez con los consejeros y representantes que asistan, entre los que deberá estar el presidente.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
+Cuando no se reúna el quorum legal previsto en el párrafo anterior, el presidente convocará mediante notificación electrónica a todos los integrantes del consejo municipal a nueva reunión, la cual tendrá validez con los consejeros y representantes que asistan, entre los que deberá estar el presidente.
 
 ###### Artículo 129.
 
@@ -1915,6 +1923,10 @@ Vencido este plazo, los partidos políticos y los candidatos independientes que 
 
 Las sesiones de los consejos serán públicas. Los concurrentes deberán guardar el debido orden en el recinto y sólo sus integrantes podrán tener voz para intervenir en las sesiones.
 
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2017)</small>
+
+Las sesiones de los consejos se registrarán en versión escrita y por medios electrónicos que permitan garantizar la fidelidad, autenticidad e integridad de la información, conservación y reproducción de su contenido. Las notificaciones de las convocatorias a sesiones de los consejos se practicarán a través de medios remotos de comunicación electrónica que permitan garantizar la recepción de las mismas y con las medidas de seguridad que el Instituto establezca.
+
 ###### Artículo 147.
 
 Para garantizar el orden, los presidentes podrán tomar las siguientes medidas:
@@ -1927,9 +1939,11 @@ III. Solicitar el auxilio de la fuerza pública para restablecer el orden y expu
 
 Los locales donde sesionen los órganos electorales deberán ser adecuados en amplitud y funcionalidad para garantizar su carácter público y el cumplimiento de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### Artículo 148.
 
-Los consejos distritales y municipales dentro de las veinticuatro horas siguientes a su instalación, remitirán copia del acta respectiva al presidente del Consejo General. En idéntica forma procederán respecto de las subsecuentes sesiones.
+Los consejos distritales y municipales, dentro de las veinticuatro horas siguientes a su instalación, a través de notificación electrónica, remitirán copia del acta respectiva al presidente del Consejo General. En idéntica forma procederán respecto las subsecuentes sesiones.
 
 ###### Artículo 149.
 
@@ -5928,3 +5942,13 @@ Artículo Cuarto. El Congreso del Estado contará con un plazo de ciento ochenta
 Artículo Quinto. Los contralores que hayan sido nombrados con antelación a la entrada en vigor del presente Decreto, continuarán como titulares de los órganos internos de control hasta en tanto el Congreso del Estado realice las nuevas designaciones, atendiendo al procedimiento establecido en la Ley, sin perjuicio de que puedan ser propuestos, atendiendo a los requisitos y principios de certeza, imparcialidad y legalidad.
 
 Artículo Sexto. La Universidad de Guanajuato deberá designar a través de su Consejo General Universitario al titular del órgano interno de control, en un plazo de ciento veinte días, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 28 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 182, APROBADO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El Instituto Electoral del Estado de Guanajuato deberá reglamentar las notificaciones electrónicas a más tardar en noventa días contados a partir de que inicie su vigencia el presente Decreto.
+
+Artículo Tercero. El Instituto Electoral del Estado de Guanajuato deberá implementar la plataforma digital que permita la notificación electrónica a más tardar en noventa días contados a partir de que inicie su vigencia el presente Decreto.
