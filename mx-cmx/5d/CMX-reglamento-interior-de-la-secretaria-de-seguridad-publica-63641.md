@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-secretaria-de-seguridad-publica-63641
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-16"
-last_updated: "2016-01-29"
+last_updated: "2017-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63641&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-10-10"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE ABRIL DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 16 de octubre de 2008.
 
@@ -92,23 +92,23 @@ I. Unidades Administrativas Policiales:
 
 > <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
 
-a) Dirección General de Policía de Proximidad “Zona Norte”;
+a) Dirección General de Policía de Proximidad "Zona Norte";
 
 > <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
 
-b) Dirección General de Policía de Proximidad “Zona Centro”;
+b) Dirección General de Policía de Proximidad "Zona Centro";
 
 > <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
 
-c) Dirección General de Policía de Proximidad “Zona Sur”;
+c) Dirección General de Policía de Proximidad "Zona Sur";
 
 > <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
 
-d) Dirección General de Policía de Proximidad “Zona Oriente”;
+d) Dirección General de Policía de Proximidad "Zona Oriente";
 
 > <small>(ADICIONADO, G.O. 4 DE OCTUBRE DE 2010)</small>
 
-e) Dirección General de Policía de Proximidad “Zona Poniente”;
+e) Dirección General de Policía de Proximidad "Zona Poniente";
 
 > <small>(ADICIONADO, G.O. 4 DE OCTUBRE DE 2010)</small>
 
@@ -190,11 +190,13 @@ c) Dirección General de Mantenimiento y Servicios.
 
 d) Dirección General de Recursos Financieros.
 
-e) Dirección Ejecutiva de Transparencia.
+e) (DEROGADO, G.O. 28 DE ABRIL DE 2017)
 
 f) Dirección Ejecutiva de Rendición de Cuentas.
 
-g) Dirección Ejecutiva de Organización y Administración Territorial.
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2017)</small>
+
+g) Dirección Ejecutiva de Desarrollo Organizacional y Administrativo.
 
 II. (DEROGADA, G.O. 4 DE OCTUBRE DE 2010)
 
@@ -203,6 +205,10 @@ II. (DEROGADA, G.O. 4 DE OCTUBRE DE 2010)
 I. Unidades Administrativas:
 
 a) Dirección General de Enlace Institucional.
+
+> <small>(ADICIONADO, G.O. 28 DE ABRIL DE 2017)</small>
+
+b) Dirección General de Coordinación de Unidades de Apoyo Técnico.
 
 II. Unidad Administrativa Policial:
 
@@ -572,7 +578,7 @@ XI. Promover los servicios de obra, mantenimiento y conservación de bienes mueb
 
 XII. Establecer las acciones de mejoramiento administrativo en las áreas que integran la Secretaría;
 
-XIII. Garantizar el acceso a la información pública en los términos establecidos por la ley en la materia;
+XIII. (DEROGADA, G.O. 28 DE ABRIL DE 2017)
 
 XIV. Suscribir los convenios, contratos y acuerdos para sustentar actos de administración; y
 
@@ -640,7 +646,9 @@ VI. Autorizar los cambios de adscripción del personal adscrito a su área;
 
 VII. Participar en los procesos de adquisición de bienes o servicios en el ámbito de su competencia;
 
-VIII. Asegurar el cumplimiento de las obligaciones emanadas de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2017)</small>
+
+VIII. Asegurar el cumplimiento de las obligaciones en materia de transparencia, acceso a la información pública, rendición de cuentas, protección de datos personales y archivos, en los términos que establezca la normatividad vigente;
 
 IX. Participar en los órganos colegiados de los que forme parte como miembro y en aquellos a los que sea convocado;
 
@@ -870,7 +878,7 @@ IX. Las demás que le atribuya la normativa vigente.
 
 ###### Artículo 22.
 
-Son atribuciones de las Direcciones Generales de la Policía de Proximidad: “Zona Norte”, “Zona Centro”, “Zona Sur”, “Zona Oriente” y “Zona Poniente” en el ámbito del territorio de adscripción las siguientes:
+Son atribuciones de las Direcciones Generales de la Policía de Proximidad: "Zona Norte", "Zona Centro", "Zona Sur", "Zona Oriente" y "Zona Poniente" en el ámbito del territorio de adscripción las siguientes:
 
 I. Dirigir la implementación de los planes, programas operativos y servicios de seguridad y orden públicos en su área de atención;
 
@@ -892,11 +900,9 @@ VIII. Asegurar el desarrollo de los procesos de supervisión, investigación y r
 
 IX. Vigilar el cumplimiento de las obligaciones de los elementos de la policía;
 
-X. Supervisar la aplicación de los mecanismos de control establecidos por la Secretaría para las plantillas de personal y sus incidencias, los suministros de gasolina y alimentación, equipamiento de seguridad, armamento, vehículos e instalaciones asignados a las unidades policiales que integran la Región asignada;
+X. (DEROGADA, G.O. 28 DE ABRIL DE 2017)
 
-> <small>(REFORMADA, G.O. 29 DE ENERO DE 2016)</small>
-
-XI. Informar a la Dirección General de Asuntos Internos y a la Contraloría Interna en la Secretaría de Seguridad Pública, según sea el caso, aquellos movimientos o irregularidades que se detecten durante la operación de los recursos humanos y materiales de los Sectores;
+XI. (DEROGADA, G.O. 28 DE ABRIL DE 2017)
 
 > <small>(REFORMADA, G.O. 29 DE ENERO DE 2016)</small>
 
@@ -1718,47 +1724,9 @@ X. Gestionar y suscribir aquellos documentos inherentes a la contratación y pag
 
 XI. Las demás que le atribuya la normatividad vigente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE OCTUBRE DE 2010)</small>
-
 ###### Artículo 46.
 
-Son atribuciones de la Dirección Ejecutiva de Transparencia:
-
-I. Asegurar la prerrogativa de toda persona para acceder a la información pública que detenta la Secretaría en los términos que establezca la normatividad vigente;
-
-II. Dirigir el trámite de atención a las solicitudes de información pública conforme a la Ley, los lineamientos de INFOMEX y demás disposiciones de la materia;
-
-> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
-
-III. Instrumentar mecanismos de asesoría y apoyo a los servidores públicos de la Secretaría, para el debido cumplimiento de las obligaciones que impone la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y demás disposiciones de la materia;
-
-> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
-
-IV. Representar a la Secretaría en lo relativo a la transparencia;
-
-> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
-
-V. Elaborar proyectos y programas de formación de servidores públicos de esta Secretaría, para generar capital humano capacitado en materia de transparencia;
-
-> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
-
-VI. Diseñar, actualizar e instrumentar la metodología y los criterios que atiendan a la evaluación del cumplimiento de las obligaciones en materia de transparencia que realice el órgano garante de la Ley;
-
-VII. Elaborar e instrumentar estrategias que promuevan la cultura de la Transparencia;
-
-> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
-
-VIII. Las demás que atribuya la normatividad vigente.
-
-IX. (DEROGADA, G.O. 4 DE OCTUBRE DE 2010)
-
-X. (DEROGADA, G.O. 4 DE OCTUBRE DE 2010)
-
-XI. (DEROGADA, G.O. 4 DE OCTUBRE DE 2010)
-
-XII. (DEROGADA, G.O. 4 DE OCTUBRE DE 2010)
-
-XII (SIC). (DEROGADA, G.O. 4 DE OCTUBRE DE 2010)
+(DEROGADO, G.O. 28 DE ABRIL DE 2017)
 
 > <small>(ADICIONADO, G.O. 4 DE OCTUBRE DE 2010)</small>
 
@@ -1778,11 +1746,11 @@ V. Dirigir la formulación y presentación de informes referidos a rendición de
 
 VI. Las demás que le atribuya la normatividad vigente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ABRIL DE 2017)</small>
 
 ###### Artículo 47.
 
-Son atribuciones de la Dirección Ejecutiva de Organización y Administración Territorial.
+Son atribuciones de la Dirección Ejecutiva de Desarrollo Organizacional y Administrativo:
 
 I. Coordinar los procesos de modificación a la estructura orgánica de la Secretaría y tramitar su autorización, dictamen y registro ante la autoridad competente;
 
@@ -1796,25 +1764,21 @@ V. Elaborar y someter a consideración de las Unidades Administrativas de la Sec
 
 VI. Inducir y conducir un proceso de cambio ordenado de la organización, enfocado en la planeación estratégica;
 
-VII. Proponer y desarrollar herramientas administrativas innovadoras que coadyuven a la efectividad de los procesos sustantivos de las Unidades Administrativas y Unidades Administrativas Policiales;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2017)</small>
+
+VII. Diseñar e implementar herramientas administrativas que permitan y faciliten el desarrollo de los procesos sustantivos de las Unidades Administrativas, así como su seguimiento en apego a los manuales, lineamientos y demás instrumentos jurídicos y administrativos aplicables a la Secretaría;
 
 VIII. Diseñar e implementar sistemas administrativos orientados a mejorar y facilitar la operación de los procesos y actividades que desarrollan las Unidades Administrativas adscritas a la Oficialía Mayor; y
 
-> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2017)</small>
 
-IX. Supervisar, controlar, y evaluar a las Jefaturas de Unidad Departamental de Unidades de Control Administrativo o su equivalente de las Zonas, Regiones, Agrupamientos, Tránsito, Unidades de Protección Ciudadana de la Secretaría, y en los Centros de Control y Comando (C2), en la debida aplicación de las políticas, lineamientos y normatividad establecidas para la administración de los recursos humanos, materiales y financieros. Lo anterior, sin menoscabo de las facultades que correspondan a los titulares de las Unidades Administrativas Policiales, Unidades Administrativas de Apoyo Técnico Operativo Policial, y de los Responsables de los Centros de Control y Comando (C2), a las que se encuentren adscritas y a las que les brinden apoyo;
+IX. Las demás que le atribuya la normatividad vigente.
 
-> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+X. (DEROGADA, G.O. 28 DE ABRIL DE 2017)
 
-X. Establecer los mecanismos de control que permitan la supervisión y coordinación de las Jefaturas de Unidad Departamental de Unidades de Control Administrativo o su equivalente en la correcta aplicación de la normatividad y disposiciones complementarias de la Secretaría en materia administrativa, de recursos materiales, de mantenimiento y servicios, de recursos financieros y de recursos humanos aplicable a las Zonas, Regiones, Agrupamientos, Tránsito y Unidades de Protección Ciudadana y sus elementos;
+XI. (DEROGADA, G.O. 28 DE ABRIL DE 2017)
 
-> <small>(REFORMADA, G.O. 29 DE ENERO DE 2016)</small>
-
-XI. Informar a la Dirección General de Asuntos Internos y a la Contraloría Interna, según corresponda, aquellos casos, situaciones o hechos en que se detecten irregularidades con motivo de la operación de los recursos humanos, materiales y financieros asignados a las Zonas, Regiones, Agrupamientos, Tránsito, y Unidades de Protección Ciudadana; y
-
-> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
-
-XII. Las demás que atribuya la normatividad vigente.
+XII. (DEROGADA, G.O. 28 DE ABRIL DE 2017)
 
 ###### Artículo 48.
 
@@ -1833,6 +1797,26 @@ V. Evaluar los riesgos para la prestación de los servicios de apoyo solicitados
 VI. Establecer enlace durante la ejecución de las diligencias judiciales, a fin de evitar la confrontación y el uso de la fuerza pública; y
 
 VII. Las demás que le atribuya la normativa vigente.
+
+> <small>(ADICIONADO, G.O. 28 DE ABRIL DE 2017)</small>
+
+###### Artículo 48 Bis.
+
+Son atribuciones de la Dirección General de Coordinación de Unidades de Apoyo Técnico:
+
+I. Supervisar y coordinar a las Unidades Administrativas de Apoyo Técnico-Operativo, ubicadas en las Unidades de Protección Ciudadana y Agrupamientos de la Ciudad de México;
+
+II. Implementar herramientas administrativas que apoyen la ejecución y estandarización de los procesos sustantivos de las Unidades Administrativas Policiales;
+
+III. Supervisar y evaluar a las Unidades Administrativas de Apoyo Técnico-Operativo, ubicadas en las Unidades de Protección Ciudadana y Agrupamientos de la Ciudad de México, en la aplicación de las políticas, lineamientos y normatividad establecidas para la administración de los recursos humanos, materiales y financieros;
+
+IV. Proponer mecanismos de seguimiento para la integración de información de las plantillas de personal y sus incidencias, los suministros de gasolina y alimentación, equipamiento de seguridad, armamento, vehículos e instalaciones asignados a las unidades policiales que integran las zonas asignadas;
+
+V. Establecer los mecanismos de coordinación de las Unidades Administrativas de Apoyo Técnico-Operativo, ubicadas en las Unidades de Protección Ciudadana y Agrupamientos de la Ciudad de México para la aplicación de la normatividad y disposiciones complementarias de la Secretaría en materia administrativa, de recursos materiales, de mantenimiento y servicios generales, de recursos financieros y de recursos humanos aplicables a las zonas asignadas;
+
+VI. Informar y aportar elementos a la Dirección General de Asuntos Internos y a la Contraloría Interna en la Secretaría de Seguridad Pública, según corresponda, de aquellos casos, situaciones o hechos en que se detecten irregularidades con motivo de la operación de los recursos humanos, financieros, materiales y servicios generales, administrados en las zonas asignadas, y
+
+VII. Las demás que les atribuye la normatividad vigente.
 
 > <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
 
@@ -2133,3 +2117,13 @@ CUARTO.- La Secretaría de Seguridad Pública deberá adecuar su estructura org�
 QUINTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las Unidades Administrativas que por virtud de este Decreto hubieran dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
 
 SEXTO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente decreto.
+
+G.O. 28 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
