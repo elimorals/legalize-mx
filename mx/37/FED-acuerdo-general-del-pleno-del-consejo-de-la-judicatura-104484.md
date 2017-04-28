@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2017-04-07"
+last_updated: "2017-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,11 @@ issue_date: "2015-01-06"
 
 > <small>[N. DE E. PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTICULO ÚNICO DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO" PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]</small>
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2017.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -163,11 +165,11 @@ I. Que se devengue efectivamente la contraprestación que recibe el servidor pú
 
 II. Que las justificaciones por omisiones de registro de entrada, salida, así como de retardos y faltas del personal de su adscripción, únicamente se efectúen cuando haya existido causa justificada que se acredite en términos de los lineamientos a que alude este artículo.
 
-> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
 ###### Artículo 8.
 
-La Secretaría Ejecutiva de Administración, a través del área correspondiente, se encargará de instrumentar la aplicación de este Capítulo, así como de atender las dudas o consultas que surjan por parte de los titulares y demás servidores públicos adscritos a los órganos jurisdiccionales.
+La Secretaría Ejecutiva de Finanzas y Servicios Personales, a través del área correspondiente, se encargará de instrumentar la aplicación de este Capítulo, así como de atender las dudas o consultas que surjan por parte de los titulares y demás servidores públicos adscritos a los órganos jurisdiccionales.
 
 ### CAPÍTULO SEGUNDO. DÍAS INHÁBILES Y DE DESCANSO
 
@@ -329,13 +331,9 @@ Se establecerán diferentes oficinas de correspondencia común para los órganos
 
 Cuando en un circuito o lugar existan dos o más tribunales o juzgados especializados, se establecerán oficinas de correspondencia común para cada especialidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 El funcionamiento de las oficinas de correspondencia común de los Centros Auxiliares, se regirá por los acuerdos generales que los crean y las disposiciones aplicables de este Acuerdo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -345,15 +343,11 @@ Cada oficina de correspondencia común, estará a cargo de un jefe, quien superv
 
 Asimismo, deberá proporcionar la información solicitada tanto por la Dirección General de Estadística Judicial, como por los magistrados de Circuito o jueces de Distrito a los que les presta el servicio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 27.
 
 El personal de las oficinas de correspondencia común para ingresar al sistema computarizado contará con una clave de acceso individual e intransferible, que será proporcionada por la Dirección General de Estadística Judicial para cada operario del sistema.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -371,8 +365,6 @@ Con el fin de evitar poner en riesgo la integridad física de los servidores pú
 
 Las oficinas de correspondencia común, auxiliarán a las oficialías de partes de cada uno de los órganos jurisdiccionales a los que prestan servicio en la recepción de los asuntos de término, relativos a todas las materias, que estén dirigidos de manera concreta a cada uno de ellos fuera del horario de atención al público esto es, de las ocho horas con treinta minutos a las nueve horas y de las quince a las veinticuatro horas del día del vencimiento del plazo para su presentación, ello, en su caso, de conformidad con lo dispuesto en el artículo 21 de la Ley de Amparo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 Con el fin de facilitar la recepción de los asuntos de término señalados en dicho precepto, en las localidades donde coincidan, por un lado, órganos jurisdiccionales únicos que operen con sus oficialías de partes y, por otro, oficinas de correspondencia común, éstas las apoyarán en la recepción de asuntos de término no urgentes fuera de su horario de labores y hasta las veinticuatro horas.
@@ -381,13 +373,9 @@ Con el fin de facilitar la recepción de los asuntos de término señalados en d
 
 La Comisión de Creación de Nuevos Órganos, a propuesta que haga la Dirección General de Estadística Judicial, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, determinará cuál de estas últimas será la encargada de brindar el auxilio correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 El apoyo se limitará a la recepción del documento y su entrega al órgano jurisdiccional de inmediato o bien, a primera hora del día hábil siguiente a través del personal asignado, quien debe acudir a la oficina de correspondencia común respectiva para recibir las promociones. El control de estos documentos se realizará en un registro de promociones distinto del que corresponda al de turno de asuntos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -396,8 +384,6 @@ El apoyo se limitará a la recepción del documento y su entrega al órgano juri
 Sólo se recibirán en las oficinas de correspondencia común los escritos de alegatos cuando estén dirigidos al tribunal que notificó el acuerdo relativo a la admisión de la demanda de amparo.
 
 #### SECCIÓN TERCERA. HORARIOS DE FUNCIONAMIENTO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -445,8 +431,6 @@ Si no son asuntos urgentes, esperará al día hábil siguiente para remitirlos a
 
 La Oficina de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales en la Ciudad de México tendrá un horario de las ocho horas con treinta minutos a las catorce horas con treinta minutos y la de los Juzgados de Procesos Penales Federales en el Estado de Jalisco, con residencia en Puente Grande, así como la de Procesos Penales Federales en el Estado de Nayarit, con residencia en Tepic, observarán un horario de las ocho horas con treinta minutos a las dieciocho horas, todas en días hábiles.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 #### SECCIÓN CUARTA. SISTEMA COMPUTARIZADO
@@ -456,8 +440,6 @@ La Oficina de Correspondencia Común de los Juzgados de Distrito de Procesos Pen
 ###### Artículo 34.
 
 El registro y turno de asuntos se hará mediante el sistema computarizado que determine la Secretaría Ejecutiva de Creación de Nuevos Órganos, por conducto de la Dirección General de Estadística Judicial, previa aprobación de la Comisión de Creación de Nuevos Órganos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -469,8 +451,6 @@ Durante los periodos vacacionales, en los casos de licencias, renuncia o cualqui
 
 La Secretaría Ejecutiva de Creación de Nuevos Órganos, por conducto de la Dirección General de Estadística Judicial, determinará la diferencia máxima permitida en el turno global y por rubro o tipo de asuntos, previa aprobación de la Comisión de Creación de Nuevos Órganos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 En caso de que se rebase la diferencia máxima, aquélla hará la revisión correspondiente y dictará las medidas necesarias para equilibrar las cargas de trabajo.
@@ -481,13 +461,9 @@ En caso de que se rebase la diferencia máxima, aquélla hará la revisión corr
 
 La Dirección General de Estadística Judicial, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, propondrá a la Comisión de Creación de Nuevos Órganos las medidas necesarias que permitan el mejoramiento del sistema de distribución de asuntos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 #### SECCIÓN QUINTA. RECEPCIÓN DE LOS DOCUMENTOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -497,23 +473,17 @@ Previa verificación por parte del personal de la oficina de correspondencia com
 
 En la copia que se entregará al interesado, así como en los comprobantes de registro, se deberá anotar el número de copias y anexos, si los hubiere, asentando el nombre y firma o rúbrica de la persona que haya recibido la documentación, proporcionando la información relativa al turno del asunto y el número de registro que le fue asignado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 38.
 
 Una vez registrado el asunto de manera consecutiva, se obtendrá del sistema la impresión por triplicado de la boleta de turno, tantos que serán sellados y firmados por la persona que haya recibido el asunto. Un ejemplar de dicha boleta se entregará al interesado, otro al órgano jurisdiccional al que se turne y, el último lo conservará la oficina de correspondencia común como acuse de recibo y soporte documental en el cual se asentará el nombre y firma del servidor público que entrega y del que recibe, así como la fecha y hora, lo anterior, para efectos de consulta, inspección y archivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 39.
 
 Los titulares de los órganos jurisdiccionales a los que preste servicio la oficina de correspondencia común, deberán enviar personal a su cargo ante dicha unidad administrativa por lo menos dos veces al día, dentro del horario de labores del órgano jurisdiccional, para recibir los asuntos que les hayan sido turnados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -555,21 +525,15 @@ XVI. El asunto o asuntos con el cual el sistema de turno relaciona, en los casos
 
 XVII. Nombre y firma del servidor público que recibió el asunto y del que lo entregue al órgano jurisdiccional.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 41.
 
 Cuando encontrándose próximo a concluir el horario de actividades de la oficina de correspondencia común se presentasen varios interesados solicitando la recepción de sus asuntos, el personal de la citada oficina les entregará comprobantes o contraseñas a todos aquéllos que acudan hasta el término del horario, con el objeto de atenderles y recibir los documentos que exhibiesen y de justificar su recepción fuera del horario establecido.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 #### SECCIÓN SEXTA. REGISTRO SECUENCIAL O MANUAL DE ASUNTOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -583,21 +547,15 @@ Para el registro y turno manual de los asuntos se utilizarán formatos con idén
 
 Al reanudarse el sistema computarizado deberán ingresarse los datos asentados en los referidos formatos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 #### SECCIÓN SÉPTIMA. MOVIMIENTOS CORRECTIVOS EN EL REGISTRO Y TURNO DE ASUNTOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 43.
 
 En caso de error en la captura de los asuntos, el jefe de la oficina de correspondencia común contará con una clave de acceso para uso exclusivo de corrección, proporcionada por la Dirección General de Estadística Judicial, y con ella realizará los movimientos correctivos en el registro de los asuntos, bajo su estricta responsabilidad, haciendo la anotación en la bitácora respectiva.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -606,8 +564,6 @@ En caso de error en la captura de los asuntos, el jefe de la oficina de correspo
 Las oficinas de correspondencia común rendirán dentro de los primeros cinco días hábiles de cada mes, un informe a la Dirección General de Estadística Judicial, sobre el ingreso de asuntos recibidos en el mes inmediato anterior, del tipo de juicio, recurso o procedimiento, la materia y el turno realizado a cada uno de los órganos jurisdiccionales a los que brindan servicio, así como de los movimientos correctivos y cambios de turno realizados.
 
 En dicho informe, en su caso, también se indicará cuántos asuntos y promociones se presentaron en el buzón judicial.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -619,19 +575,13 @@ En dicho informe, en su caso, también se indicará cuántos asuntos y promocion
 
 Los asuntos se turnarán mediante el sistema computarizado que determine la Secretaría Ejecutiva de Creación de Nuevos Órganos, por conducto de la Dirección General de Estadística Judicial, previa aprobación de la Comisión de Creación de Nuevos Órganos, de la siguiente manera:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 I. Forma Aleatoria: Una vez capturados los datos de registro del asunto que no cuente con antecedente alguno en el sistema computarizado, éste lo distribuirá aleatoriamente, y de manera equilibrada entre los órganos jurisdiccionales; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 II. Forma Relacionada: Si al capturar los datos de registro del asunto, el sistema computarizado arroja un antecedente que lo vincule con otro registrado con anterioridad, ya sea por disposición expresa de la ley o conforme a un criterio de relación, general o específico, de los contenidos en el propio sistema, se turnará al mismo órgano jurisdiccional que conoce o conoció de aquél.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -654,8 +604,6 @@ V. Las demandas de amparo que se promuevan respecto del cumplimiento de una ejec
 VI. Los recursos de revisión fiscal, al que conozca o haya conocido del juicio de amparo directo;
 
 VII. Los recursos de apelación, al tribunal unitario de Circuito que haya conocido del o los anteriores;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 VIII. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE DEROGA LA FRACCIÓN VIII DEL ARTÍCULO 46 DEL DIVERSO QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON LOS CRITERIOS PARA EL TURNO DE ASUNTOS, D.O.F. 13 DE DICIEMBRE DE 2016)
 
@@ -697,8 +645,6 @@ Cuando se turne un asunto al órgano jurisdiccional y éste estime que es a otro
 
 En caso contrario, de no aceptar, devolverá el asunto al requirente, quien resolverá si insiste en no conocer del asunto por razón de turno, si no insiste, se limitará a comunicar su resolución al requerido. Si persiste en ello, sin suspender el trámite y únicamente con copia certificada de las constancias que acrediten lo argumentado; así como, la propuesta que se plantee, formulará consulta a la Comisión de Creación de Nuevos Órganos, la que resolverá de plano.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 47.
@@ -711,13 +657,9 @@ El recurso de queja previsto en el artículo 97, fracción I, inciso b), de la L
 
 El sistema computarizado generará una base de datos de cada uno de los asuntos que se reciban y el destino que se les dio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 #### SECCIÓN NOVENA. TURNO DE LOS ASUNTOS URGENTES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -761,17 +703,13 @@ Tratándose de los juzgados de Distrito de procesos penales federales en el Dist
 
 c) Fuera del horario de servicio de las oficinas de correspondencia común, así como los días sábados y domingos e inhábiles las promociones y oficios urgentes serán recibidos por el secretario autorizado del órgano jurisdiccional de guardia para la recepción de esta clase de asuntos, quien deberá presentarlas a la Oficina de Correspondencia Común en cuanto ésta reanude sus labores, a fin de que se realice el registro y la compensación respectiva para equilibrar las cargas de trabajo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
-#### SECCIÓN DÉCIMA. HERRAMIENTA: “SECRETARIO QUE RECIBE”
+#### SECCIÓN DÉCIMA. HERRAMIENTA: "SECRETARIO QUE RECIBE"
 
 ###### Artículo 49.
 
-Tratándose de los asuntos recibidos por el secretario de guardia, el personal adscrito a las oficinas de correspondencia común los registrará y turnará utilizando la herramienta del sistema computarizado denominada “secretario que recibe”.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Tratándose de los asuntos recibidos por el secretario de guardia, el personal adscrito a las oficinas de correspondencia común los registrará y turnará utilizando la herramienta del sistema computarizado denominada "secretario que recibe".
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -779,13 +717,9 @@ Con esta herramienta únicamente se registrarán y turnarán aquellos asuntos re
 
 Al hacer uso de dicha herramienta invariablemente se deberá capturar la hora y fecha de recepción asentada por el secretario de guardia en los acuses respectivos o bien en los controles implementados, así como el nombre del referido servidor público.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 #### SECCIÓN DÉCIMA PRIMERA. BUZONES JUDICIALES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -805,15 +739,11 @@ Los buzones judiciales no operarán durante las vacaciones ni aquellos días en 
 
 La Comisión de Creación de Nuevos Órganos podrá autorizar la modificación de los horarios de funcionamiento de las oficinas de correspondencia común y de sus buzones judiciales atendiendo a las necesidades del servicio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 52.
 
 Es responsabilidad exclusiva de los usuarios verificar que los asuntos y promociones que depositen en los buzones judiciales estén debidamente firmados, integrados y dirigidos a los tribunales de Circuito o juzgados de Distrito a los que presta servicio la oficina de correspondencia común de que se trate.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -821,35 +751,25 @@ Es responsabilidad exclusiva de los usuarios verificar que los asuntos y promoci
 
 El personal de la oficina de correspondencia común, después de revisar que la documentación presentada se encuentra dirigida a los órganos jurisdiccionales a los que presta servicio o auxilia, procederá a su inmediato registro y turno a través del sistema computarizado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 En el supuesto de que por error o desconocimiento se deposite en el buzón judicial un viernes por la noche y fin de semana, una demanda de amparo de trámite urgente, pero esto se advierte por el personal de la oficina de correspondencia común a la que auxilia dicho buzón, hasta el lunes a las siete horas con treinta minutos al abrir el buzón, dicho asunto se turnará al juzgado de Distrito que inició guardia a partir de ese lunes.
 
 Si de lunes a jueves se deposita en el buzón judicial, algún asunto de los considerados como urgentes, se registrará y turnará al día siguiente antes de las ocho horas con treinta minutos, con ese carácter, pero de manera aleatoria entre los órganos jurisdiccionales a los que proporciona servicio el buzón.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 Si la documentación que se presente en el buzón judicial se encuentra dirigida a diverso órgano jurisdiccional de los que auxilia el buzón, a la brevedad posible mediante oficio se enviará a su destinatario, por la vía más expedita, sin responsabilidad para el personal de la oficina de correspondencia común.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 En caso de que se depositen en el buzón judicial asuntos urgentes en el horario comprendido entre las catorce horas con treinta y un minutos y las veinte horas, y el personal de la oficina de correspondencia advierta que ya se depositaron este tipo de asuntos, se deben enviar al órgano jurisdiccional que se encuentre en turno, entregándose de inmediato al secretario autorizado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 54.
 
 Para no interrumpir el servicio de los buzones judiciales en caso de desabasto o fallas en los insumos, el personal de la oficina de correspondencia común de que se trate deberá vigilar que se cuente con los insumos indispensables; en caso de no contar con el material necesario para el funcionamiento de los buzones, dicha oficina deberá realizar la recepción de los asuntos ordinariamente, hasta en tanto se solucione la problemática.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -867,8 +787,6 @@ Los demás aspectos inherentes al funcionamiento de los buzones judiciales se re
 
 #### SECCIÓN DÉCIMA SEGUNDA. TURNO DE ASUNTOS DURANTE LOS PERIODOS VACACIONALES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 57.
@@ -879,8 +797,6 @@ A los órganos jurisdiccionales que estén laborando se les entregarán de inmed
 
 Las oficinas de correspondencia común que prestan servicio a tribunales colegiados especializados únicamente recibirán, registrarán y turnarán los asuntos de la materia a la que dan servicio, con excepción de lo previsto en la parte final del párrafo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 #### SECCIÓN DÉCIMA TERCERA. PERFIL DE LOS PUESTOS
@@ -889,13 +805,9 @@ Las oficinas de correspondencia común que prestan servicio a tribunales colegia
 
 Las plazas que se adscriban a las oficinas de correspondencia común serán de confianza; dichas unidades administrativas contarán por lo menos con un jefe y los técnicos de enlace administrativos OCC necesarios, atendiendo a las cargas de trabajo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 El jefe de la oficina de correspondencia común será el responsable de los registros en el sistema y del uso de las bitácoras previstas en el presente Capítulo, de supervisar las actividades de los técnicos de enlace administrativo OCC, a fin de lograr el eficaz cumplimiento de las labores asignadas; así como, del resguardo, uso y respaldo de la información.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -929,8 +841,6 @@ IV. No haber sido condenado por delito doloso con sanción privativa de libertad
 
 V. No estar inhabilitado para desempeñar empleo, cargo o comisión en el servicio público.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 61.
@@ -941,13 +851,9 @@ La Dirección General de Estadística Judicial solicitará a la Dirección Gener
 
 Los exámenes serán los que determine la Comisión de Administración a propuesta que haga la Dirección General de Estadística Judicial, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos. Dicha Dirección General elaborará el proyecto de examen de conocimientos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 Las personas que hayan causado baja en los cargos de jefe de oficina de correspondencia común y técnico de enlace administrativo OCC por más de tres años, para poder reingresar a dichos puestos deberán aprobar nuevamente los exámenes respectivos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -959,27 +865,19 @@ Las personas que hayan causado baja en los cargos de jefe de oficina de correspo
 
 La Dirección General de Estadística Judicial, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, propondrá los nombramientos del personal de las oficinas de correspondencia común a la Comisión de Administración, de entre los aspirantes que hayan aprobado los exámenes respectivos y cumplan los requisitos del puesto previstos en el catálogo correspondiente; asimismo, autorizará las prórrogas de nombramientos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 Las administraciones regionales y delegaciones administrativas de la Coordinación de Administración Regional, así como la Dirección General de Recursos Humanos, según corresponda, elaborarán y suscribirán los movimientos del personal de conformidad con las disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 La Dirección General de Recursos Humanos enviará a la Dirección General de Estadística Judicial copia del nombramiento y demás movimientos del personal y conservará a su disposición los expedientes que se integren.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 63.
 
 En el supuesto de que se encuentre vacante la plaza de jefe de oficina de correspondencia común, se dará preferencia en el escalafón a quienes ocupen los puestos de técnicos de enlace administrativo OCC con mayor antigüedad en la propia oficina de que se trate o en otras, quienes deberán cubrir el perfil y aprobar los exámenes técnico-jurídicos y psicométricos que correspondan.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -995,8 +893,6 @@ Tratándose de la ausencia de un técnico de enlace administrativo OCC por un pl
 
 La Dirección General de Estadística Judicial, previo visto bueno de la Secretaría Ejecutiva de Creación de Nuevos Órganos autorizará las licencias del personal de las oficinas de correspondencia común de conformidad con las disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 #### SECCIÓN DÉCIMA QUINTA. SUPERVISIÓN
@@ -1005,15 +901,11 @@ La Dirección General de Estadística Judicial, previo visto bueno de la Secreta
 
 (DEROGADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 67.
 
 El Consejo, a través de la Dirección General de Estadística Judicial, inspeccionará el funcionamiento de las oficinas de correspondencia común y supervisará el desempeño tanto de los titulares de las oficinas de correspondencia común, como de los servidores públicos adscritos a éstas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -1029,13 +921,9 @@ Lo anterior con independencia de las responsabilidades que en materia penal, civ
 
 La remoción de los servidores públicos de las oficinas de correspondencia común corresponde a la Comisión de Administración previo dictamen que para el efecto presente la Dirección General de Estadística Judicial, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, cuando se incumpla con las obligaciones inherentes al puesto en que se desempeña, de conformidad con las disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 #### SECCIÓN DÉCIMA SEXTA. CONVOCATORIAS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -1053,13 +941,9 @@ La Dirección General de Comunicación Social colaborará en el diseño de la ca
 
 Los requisitos de las convocatorias, su calendario, etapas, las formas de identificar a los aspirantes, la vigencia de los resultados obtenidos, la instancia que aplicará los exámenes y resolverá las circunstancias no previstas, la comunicación de los resultados y demás elementos, se precisarán en el protocolo que al efecto expida la Secretaría Ejecutiva de Creación de Nuevos Órganos, por conducto de la Dirección General de Estadística Judicial, con autorización de la Comisión de Administración.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 #### SECCIÓN DÉCIMA SÉPTIMA. OBLIGACIONES DEL PERSONAL ADSCRITO A LAS OFICINAS DE CORRESPONDENCIA COMÚN
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -1067,15 +951,11 @@ Los requisitos de las convocatorias, su calendario, etapas, las formas de identi
 
 Son obligaciones de los servidores públicos de las oficinas de correspondencia común, cumplir con la máxima diligencia el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de éste, debiendo entender por servicio encomendado, al cúmulo de obligaciones, atribuciones y funciones inherentes al cargo, las cuales se encuentran contenidas en la Ley Orgánica, en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, en el presente Acuerdo, y en las demás disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 73.
 
 La Dirección General de Estadística Judicial de manera potestativa y con apego a sus atribuciones, podrá dictar medidas preventivas de carácter general, a fin de procurar el adecuado funcionamiento de las oficinas de correspondencia común, las cuales deberán estar orientadas a prevenir y evitar conductas u omisiones que puedan propiciar o generar actuaciones y prácticas irregulares en el desempeño de los servidores públicos adscritos a éstas. Las medidas preventivas no tienen la naturaleza de sanciones administrativas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -1083,13 +963,9 @@ La Dirección General de Estadística Judicial de manera potestativa y con apego
 
 La Dirección General de Estadística Judicial deberá llevar un control de incidencias de los servidores públicos adscritos a las oficinas de correspondencia común.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 #### SECCIÓN DÉCIMA OCTAVA. DISPOSICIONES COMPLEMENTARIAS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -1103,45 +979,31 @@ La Dirección General de Estadística Judicial coadyuvará en las gestiones que 
 
 Corresponde a la Secretaría Ejecutiva de Creación de Nuevos Órganos, por conducto de la Dirección General de Estadística Judicial, elaborar los protocolos relativos al establecimiento de los buzones judiciales, nombramiento de personal, y las convocatorias para la selección de personal, así como los que se requieran para el cumplimiento de este Capítulo, previa aprobación de las Comisiones del Consejo que resulten competentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 ###### Artículo 77.
 
 Las Comisiones de Creación de Nuevos Órganos y de Administración, en el ámbito de sus respectivas atribuciones, interpretarán y resolverán cualquier cuestión administrativa que surja con motivo de la aplicación de este Capítulo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 78.
 
 (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 79.
 
 (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 80.
 
 (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 #### SECCIÓN DÉCIMA NOVENA. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 81.
 
 (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 82.
 
@@ -3588,3 +3450,25 @@ Decimosegundo Decimocuarto Decimoctavo
 Para determinar el inicio del rol se deberá estar al vigente al momento del inicio de la vigencia de este Acuerdo, el cual se podrá modificar en los términos establecidos en el quinto párrafo del precepto indicado.
 
 QUINTO. Se faculta a la Secretaría Ejecutiva de Creación de Nuevos Órganos para que, en caso de ser necesario, provea sobre el cumplimiento de los transitorios TERCERO y CUARTO de este Acuerdo, así como para resolver cualquier consulta relacionada con los mismos.
+
+D.O.F. 28 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE ADMINISTRACIÓN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de mayo de dos mil diecisiete, con excepción de lo previsto en el Transitorio QUINTO de este instrumento, cuya vigencia iniciará al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Las referencias que se hagan en cualquier disposición a la Secretaría Ejecutiva de Administración como superior jerárquico de las unidades administrativas que se adscriben en este Acuerdo a la Secretaría Ejecutiva de Finanzas y Servicios Personales se entenderán hechas a esta última. Lo mismo se observará, respecto de las que se hagan a la Secretaría Ejecutiva de Administración cuando, de conformidad con la distribución de competencias prevista en este Acuerdo, deban corresponder a la Secretaría Ejecutiva de Finanzas y Servicios Personales. El resto de las referencias a la Secretaría Ejecutiva de Administración se entenderán hechas a ésta.
+
+CUARTO. Los recursos materiales y financieros relacionados con el desempeño de las atribuciones que se confieren a la Secretaría Ejecutiva de Finanzas y Servicios Personales, con que cuente a la entrada en vigor del presente Acuerdo la Secretaría Ejecutiva de Administración, se transferirán a la mencionada Secretaría Ejecutiva de Finanzas y Servicios Personales. Respecto de los recursos humanos ambas secretarías ejecutivas contarán con las plantillas que autorice el Pleno del Consejo de la Judicatura Federal.
+
+Lo previsto en el párrafo anterior se deberá materializar dentro de los quince días naturales siguientes a la entrada en vigor del presente Acuerdo, mediante la suscripción de las actas de entrega-recepción respectivas y demás instrumentos necesarios.
+
+QUINTO. La Secretaría Ejecutiva de Administración, por conducto de las unidades administrativas competentes que le están adscritas, deberá adoptar las acciones a que haya lugar para el debido cumplimiento de este Acuerdo.
+
+SEXTO. Los asuntos que se relacionen con las atribuciones que se confieren a la Secretaría Ejecutiva de Finanzas y Servicios Personales, que se encuentren en trámite en la Secretaría Ejecutiva de Administración a la entrada en vigor del presente Acuerdo, serán atendidos por la referida Secretaría Ejecutiva de Finanzas y Servicios Personales.
+
+SÉPTIMO. La Contraloría del Poder Judicial de la Federación, intervendrá dentro de su ámbito de competencia en el cumplimiento del presente Acuerdo.
+
+OCTAVO. Las secretarías ejecutivas de Administración; y de Finanzas y Servicios Personales deberán formular los manuales específicos de organización y de puestos; y los manuales de procedimientos respectivos dentro de los cuarenta y cinco días hábiles posteriores a la entrada en vigor del presente Acuerdo, y remitirlos para los efectos correspondientes a la Dirección General de Innovación, Planeación y Desarrollo Institucional.
