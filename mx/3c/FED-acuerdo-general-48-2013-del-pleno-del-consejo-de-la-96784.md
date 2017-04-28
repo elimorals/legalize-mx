@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-48-2013-del-pleno-del-consejo-de-la-96784"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-12-06"
-last_updated: "2016-10-12"
+last_updated: "2017-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96784&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-28"
 
 ACUERDO GENERAL 48/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2017.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 6 de diciembre de 2013.
 
@@ -57,7 +57,7 @@ El fideicomiso público de administración y pago se denomina Fideicomiso para e
 
 Dicha instalación no deberá de exceder del plazo a que se refiere el artículo 392, fracción III, de la Ley General de Títulos y Operaciones de Crédito.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 2.
 
@@ -71,19 +71,19 @@ III. Construcción de infraestructura, y
 
 IV. La adquisición de equipamiento necesario.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
-La constitución del Fideicomiso no implicará la creación de estructura administrativa en el Consejo. La Secretaría Ejecutiva de Administración, por conducto de sus unidades administrativas, vigilará la correcta aplicación del Acuerdo, la operación del Fideicomiso, así como los actos tendientes al cumplimiento de los fines y el resultado de los mismos.
+La constitución del Fideicomiso no implicará la creación de estructura administrativa en el Consejo. La Secretaría Ejecutiva de Finanzas y Servicios Personales, por conducto de sus unidades administrativas, vigilará la correcta aplicación del Acuerdo, la operación del Fideicomiso, así como los actos tendientes al cumplimiento de los fines y el resultado de los mismos.
 
 ###### Artículo 3.
 
 Para efectos del presente Acuerdo se entenderá por:
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2015)</small>
 
 I. Acuerdo General en materia administrativa: Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo;
 
-> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
 II. Comité Técnico: Comité Técnico del Fideicomiso para el Desarrollo de Infraestructura del Nuevo Sistema de Justicia Penal;
 
@@ -93,7 +93,7 @@ IV. Consejo: Consejo de la Judicatura Federal;
 
 V. Contralor: Contralor del Poder Judicial de la Federación;
 
-> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
 VI. Fideicomiso: El Fideicomiso para el Desarrollo de Infraestructura del Nuevo Sistema de Justicia Penal;
 
@@ -107,13 +107,13 @@ X. Poder Judicial de la Federación: Poder Judicial de la Federación a excepci�
 
 XI. Reglas de Operación: Instrumento aprobado por el Comité Técnico que tiene como propósito regir el funcionamiento del Fideicomiso, y
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2015)</small>
 
 XII. Secretario: Servidor público que sea designado por el Comité como Secretario del Comité Técnico y de la Unidad de Evaluación de Proyectos; y
 
-> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
 
-XIII. Unidad: Unidad de Evaluación de Proyectos, integrada por el Consejero de la Judicatura que designe el Pleno; el Secretario Ejecutivo de Carrera Judicial y Creación de Nuevos Órganos; y el Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal.
+XIII. Unidad: Unidad de Evaluación de Proyectos, integrada por el Consejero de la Judicatura que designe el Pleno; el Secretario Ejecutivo de Creación de Nuevos Órganos; y el Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal.
 
 ### Capítulo II. Del Patrimonio
 
@@ -137,11 +137,11 @@ Los ingresos que se generan por concepto de enajenación de bienes muebles, por 
 
 El registro contable correspondiente será responsabilidad de la Dirección General de Programación y Presupuesto.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
 ###### Artículo 6.
 
-La Dirección General de Programación y Presupuesto solicitará a la Dirección General de Tesorería que transmita al patrimonio del Fideicomiso los ingresos que corresponden a éste. Dicha transferencia se realizará en un plazo no mayor a cinco días hábiles. De ello informará a la Secretaría Ejecutiva de Administración para que ésta ejecute las acciones que resulten procedentes. El Fiduciario deberá otorgar recibo por separado de estas entregas en la fecha de su recepción.
+La Dirección General de Programación y Presupuesto solicitará a la Dirección General de Tesorería que transmita al patrimonio del Fideicomiso los ingresos que corresponden a éste. Dicha transferencia se realizará en un plazo no mayor a cinco días hábiles. De ello informará a la Secretaría Ejecutiva de Finanzas y Servicios Personales para que ésta ejecute las acciones que resulten procedentes. El Fiduciario deberá otorgar recibo por separado de estas entregas en la fecha de su recepción.
 
 ### Capítulo III. Del Comité Técnico
 
@@ -173,9 +173,9 @@ I. Emitir y, en su caso, modificar las Reglas de Operación que regirán el func
 
 II. Autorizar, previa opinión de la Unidad, los proyectos que se pretendan financiar con cargo a los recursos del fideicomiso y los importes estimados para su inversión; así como la cancelación de los mismos, conforme a lo previsto por la fracción IV del Artículo 12 Bis de este Acuerdo, y en su caso ordenar el reintegro correspondiente;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
 
-III. Tomar conocimiento de la información contenida en los estados financieros del fideicomiso que el Fiduciario le presente por conducto de la Secretaría Ejecutiva de Administración, aprobados previamente por la Dirección General de Programación y Presupuesto y, en su caso, realizar las observaciones a las que haya lugar;
+III. Tomar conocimiento de la información contenida en los estados financieros del fideicomiso que el Fiduciario le presente por conducto de la Secretaría Ejecutiva de Finanzas y Servicios Personales, aprobados previamente por la Dirección General de Programación y Presupuesto y, en su caso, realizar las observaciones a las que haya lugar;
 
 IV. Aprobar, y en su caso modificar, previa opinión del Comité de Inversión, la política de inversión del patrimonio fideicomitido, y
 
@@ -257,7 +257,7 @@ VII. Acuerdo de cada uno de los asuntos indicando los votos emitidos y su sentid
 
 ### Capítulo III Bis. De la Unidad
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MARZO DE 2015)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 2015)</small>
 
 ###### Artículo 12 Bis.
 
@@ -267,19 +267,19 @@ I. Presentar propuestas sobre los proyectos que se pretendan financiar con cargo
 
 II. Someter a consideración del Comité Técnico sus propuestas, a través del Secretario, en la sesión inmediata posterior del referido Comité;
 
-> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 12 BIS, FRACCIONES III Y IV; Y SE ADICIONA LA FRACCIÓN V, AL MISMO PRECEPTO DEL ACUERDO GENERAL 48/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 8 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
 
-III. Hacer el seguimiento de los proyectos autorizados por el Comité Técnico, en coordinación con la Secretaría Ejecutiva de Administración;
+III. Hacer el seguimiento de los proyectos autorizados por el Comité Técnico, en coordinación con la Secretaría Ejecutiva de Finanzas y Servicios Personales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, EN RELACIÓN CON EL CONTROL Y TRANSPARENCIA DEL EJERCICIO DE LOS RECURSOS, D.O.F. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 11 DE OCTUBRE DE 2016)</small>
 
 IV. Someter a la autorización del Comité Técnico, la cancelación de los proyectos previamente aprobados, así como el reintegro de los recursos al patrimonio del Fideicomiso, para lo cual se realizarán las adecuaciones presupuestales a los saldos del mismo;
 
-> <small>(ADICIONADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 12 BIS, FRACCIONES III Y IV; Y SE ADICIONA LA FRACCIÓN V, AL MISMO PRECEPTO DEL ACUERDO GENERAL 48/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 8 DE MAYO DE 2015)</small>
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2015)</small>
 
 V. Las demás que determine el Comité Técnico.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, EN RELACIÓN CON EL CONTROL Y TRANSPARENCIA DEL EJERCICIO DE LOS RECURSOS, D.O.F. 11 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADO, D.O.F. 11 DE OCTUBRE DE 2016)</small>
 
 La cancelación a que se refiere la fracción IV del presente artículo, será presentada a la Unidad por las áreas operativas quienes serán las responsables de las valoraciones técnicas y financieras de las propuestas correspondientes.
 
@@ -299,11 +299,11 @@ En cada sesión de la Unidad, se levantará acta que contendrá los mismos requi
 
 El Fiduciario invertirá el patrimonio del Fideicomiso siguiendo la política de inversión que establezca el Comité Técnico, previa opinión favorable del Comité de Inversión, buscando la mayor seguridad y rendimiento posibles, así como la liquidez que requiera el cumplimiento de los fines del Fideicomiso.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
 ###### Artículo 14.
 
-El Fiduciario deberá presentar al Comité Técnico informes detallados del destino del patrimonio fideicomitido, así como, por conducto de la Secretaría Ejecutiva de Administración, los estados financieros del fideicomiso previamente aprobados por la Dirección General de Programación y Presupuesto.
+El Fiduciario deberá presentar al Comité Técnico informes detallados del destino del patrimonio fideicomitido, así como, por conducto de la Secretaría Ejecutiva de Finanzas y Servicios Personales, los estados financieros del fideicomiso previamente aprobados por la Dirección General de Programación y Presupuesto.
 
 ### Capítulo V. Del ejercicio de recursos
 
@@ -339,11 +339,11 @@ IV. Programación de actividades y recursos, y
 
 V. Mecanismos de supervisión y transparencia del ejercicio del gasto.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
 ###### Artículo 18.
 
-La planeación, programación, ejecución y control de los proyectos que se realicen con el patrimonio del Fideicomiso, son responsabilidad de la Secretaría Ejecutiva de Administración y de sus unidades administrativas, en el ámbito de sus respectivas competencias.
+La planeación, programación, ejecución y control de los proyectos que se realicen con el patrimonio del Fideicomiso, son responsabilidad de las secretarías ejecutivas de Administración; y de Finanzas y Servicios Personales, según corresponda, así como de sus unidades administrativas, en el ámbito de sus respectivas competencias.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 29 DE FEBRERO DE 2016)</small>
 
@@ -355,13 +355,17 @@ Las ampliaciones o reducciones de recursos se realizarán a petición expresa y 
 
 ### Capítulo VI. De la transparencia y rendición de cuentas
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
 ###### Artículo 19.
 
-La Secretaría Ejecutiva de Administración será la responsable de presentar ante el Comité Técnico para su conocimiento la información y documentos a que se refiere el artículo 772 del Acuerdo General en materia administrativa; previa publicación en el Diario Oficial de la Federación. Adicionalmente deberá difundirlo a través de la página de Internet del Consejo.
+La Secretaría Ejecutiva de Finanzas y Servicios Personales será la responsable de presentar ante el Comité Técnico para su conocimiento la información y documentos a que se refiere el artículo 772 del Acuerdo General en materia administrativa; previa publicación en el Diario Oficial de la Federación. Adicionalmente deberá difundirlo a través de la página de Internet del Consejo.
+
+> <small>(REFORMADO, D.O.F. 29 DE FEBRERO DE 2016)</small>
 
 La Dirección General de Programación y Presupuesto en auxilio del Comité Técnico, recibirá los estados financieros que presente la Fiduciaria, analizará su información, y en su caso, los aprobará para su presentación al Comité Técnico.
+
+> <small>(REFORMADO, D.O.F. 29 DE FEBRERO DE 2016)</small>
 
 En caso de que no sean aprobados los regresará a la Fiduciaria con las observaciones para que vuelvan a ser formulados.
 
@@ -488,3 +492,25 @@ PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes de su
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 28 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE ADMINISTRACIÓN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de mayo de dos mil diecisiete, con excepción de lo previsto en el Transitorio QUINTO de este instrumento, cuya vigencia iniciará al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Las referencias que se hagan en cualquier disposición a la Secretaría Ejecutiva de Administración como superior jerárquico de las unidades administrativas que se adscriben en este Acuerdo a la Secretaría Ejecutiva de Finanzas y Servicios Personales se entenderán hechas a esta última. Lo mismo se observará, respecto de las que se hagan a la Secretaría Ejecutiva de Administración cuando, de conformidad con la distribución de competencias prevista en este Acuerdo, deban corresponder a la Secretaría Ejecutiva de Finanzas y Servicios Personales. El resto de las referencias a la Secretaría Ejecutiva de Administración se entenderán hechas a ésta.
+
+CUARTO. Los recursos materiales y financieros relacionados con el desempeño de las atribuciones que se confieren a la Secretaría Ejecutiva de Finanzas y Servicios Personales, con que cuente a la entrada en vigor del presente Acuerdo la Secretaría Ejecutiva de Administración, se transferirán a la mencionada Secretaría Ejecutiva de Finanzas y Servicios Personales. Respecto de los recursos humanos ambas secretarías ejecutivas contarán con las plantillas que autorice el Pleno del Consejo de la Judicatura Federal.
+
+Lo previsto en el párrafo anterior se deberá materializar dentro de los quince días naturales siguientes a la entrada en vigor del presente Acuerdo, mediante la suscripción de las actas de entrega-recepción respectivas y demás instrumentos necesarios.
+
+QUINTO. La Secretaría Ejecutiva de Administración, por conducto de las unidades administrativas competentes que le están adscritas, deberá adoptar las acciones a que haya lugar para el debido cumplimiento de este Acuerdo.
+
+SEXTO. Los asuntos que se relacionen con las atribuciones que se confieren a la Secretaría Ejecutiva de Finanzas y Servicios Personales, que se encuentren en trámite en la Secretaría Ejecutiva de Administración a la entrada en vigor del presente Acuerdo, serán atendidos por la referida Secretaría Ejecutiva de Finanzas y Servicios Personales.
+
+SÉPTIMO. La Contraloría del Poder Judicial de la Federación, intervendrá dentro de su ámbito de competencia en el cumplimiento del presente Acuerdo.
+
+OCTAVO. Las secretarías ejecutivas de Administración; y de Finanzas y Servicios Personales deberán formular los manuales específicos de organización y de puestos; y los manuales de procedimientos respectivos dentro de los cuarenta y cinco días hábiles posteriores a la entrada en vigor del presente Acuerdo, y remitirlos para los efectos correspondientes a la Dirección General de Innovación, Planeación y Desarrollo Institucional.
