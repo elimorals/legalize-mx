@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-quejas-medicas-y-solicitudes-de-reembolso-del-824
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-16"
-last_updated: "2012-12-18"
+last_updated: "2017-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82442&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-06-23"
 ---
 # REGLAMENTO DE QUEJAS MEDICAS Y SOLICITUDES DE REEMBOLSO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE QUEJAS MÉDICAS Y SOLICITUDES DE REEMBOLSO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN LA TERCERA SECCIÓN DEL D.O.F. DE 28 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE QUEJAS MÉDICAS Y SOLICITUDES DE REEMBOLSO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2017 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 16 de agosto de 2011.
 
@@ -738,3 +740,17 @@ D.O.F. 18 DE DICIEMBRE DE 2012.
 PRIMERO.- El presente Acuerdo, entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las quejas médicas y las solicitudes de reembolso que se encuentren en trámite o pendientes de resolución a la entrada en vigor del presente Acuerdo, se sustanciarán y resolverán conforme a las disposiciones vigentes al momento de su presentación.
+
+D.O.F. 28 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO 38.1357.2017 DE LA JUNTA DIRECTIVA RELATIVO A LA APROBACIÓN DEL REGLAMENTO DE QUEJAS MÉDICAS Y SOLICITUDES DE REEMBOLSO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO".]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento de Quejas Médicas y Solicitudes de Reembolso del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, aprobado mediante Acuerdo 32.1328.2011 de la Junta Directiva, publicado en el Diario Oficial de la Federación el 16 de agosto de 2011.
+
+Tercero.- Las Quejas Médicas, las Solicitudes de Reembolso y los Recursos de Reconsideración que se encuentren en trámite a la fecha de entrada en vigor de este Reglamento, serán sustanciados y resueltos por el Comité o las Comisiones según corresponda y deberán resolverse conforme a la normatividad vigente al momento de su presentación.
+
+Cuarto.- El incumplimiento al presente Reglamento por parte de los servidores públicos, se sujetará a las disposiciones aplicables.
+
+Quinto.- El Instituto expedirá el Manual de Integración y Funcionamiento que regule al Comité, el Subcomité, las Comisiones y las Subcomisiones de Quejas Médicas y Solicitudes de Reembolso del ISSSTE, en un término no mayor a 180 días, a partir de la entrada en vigor del Reglamento."
