@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-exterior-mexicano-25548"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-23"
-last_updated: "2016-08-22"
+last_updated: "2017-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25548&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2002-08-20"
 ---
 # REGLAMENTO DE LA LEY DEL SERVICIO EXTERIOR MEXICANO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DEL SERVICIO EXTERIOR MEXICANO, PUBLICADO EN EL D.O.F. DE 28 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DEL SERVICIO EXTERIOR MEXICANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2017 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 23 de agosto de 2002.
 
@@ -1424,3 +1426,27 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- La Secretaría deberá emitir a más tardar en un plazo de ciento ochenta días, posteriores a la entrada en vigor del presente Decreto, los lineamientos a que hace referencia el artículo 82, párrafo segundo del Reglamento de la Ley del Servicio Exterior Mexicano.
 
 TERCERO.- Las erogaciones que sean necesarias para cumplir con la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado a la Secretaría de Relaciones Exteriores, por lo que no requerirá de recursos adicionales para tales efectos.
+
+D.O.F. 28 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DEL SERVICIO EXTERIOR MEXICANO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de la Ley del Servicio Exterior Mexicano, publicado en el Diario Oficial de la Federación el 23 de agosto de 2002.
+
+TERCERO. Las disposiciones administrativas vigentes que fueron expedidas con base en el Reglamento señalado en el transitorio segundo, continuarán en vigor, en lo que no contravengan las disposiciones del nuevo Reglamento que se expide y en tanto no se abroguen o deroguen expresamente.
+
+CUARTO. Las temporalidades de Adscripción previstas en el artículo 94, fracción III, del presente Reglamento se aplicarán a cada miembro del personal de carrera del Servicio Exterior a partir de la orden de traslado que así la establezca.
+
+QUINTO. La Subcomisión de Evaluación elaborará, con el apoyo de especialistas, la metodología para evaluar el desempeño del personal de carrera del Servicio Exterior a que se refiere el artículo 71 del presente Reglamento y la someterá a la aprobación de la Comisión de Personal dentro de los sesenta días hábiles siguientes a su entrada en vigor.
+
+SEXTO. Los plazos a que se refiere el artículo 52 del presente ordenamiento, para la presentación del examen de media carrera, para quienes a la fecha de entrada en vigor de este Reglamento tengan el rango de primeros secretarios, se contabilizarán a partir del 28 de enero de 2002, fecha de entrada en vigor de las reformas a la Ley del Servicio Exterior Mexicano que establecieron dicho examen.
+
+SÉPTIMO. El examen al rango de consejero de los primeros secretarios que a la fecha de entrada en vigor del presente Reglamento hayan aprobado el examen de media carrera, se limitará a los exámenes de habilidades gerenciales y liderazgo, así como teórico-práctico de asuntos consulares y de protección a que se refiere el artículo 52 del presente Reglamento.
+
+OCTAVO. Quienes a la fecha de entrada en vigor de este Reglamento se encuentren en comisión, disponibilidad o licencia, conforme a lo establecido en la Ley y el Reglamento que se abroga, gozarán de éstas en los términos autorizados y podrán solicitar las prórrogas previstas en el presente ordenamiento.
+
+NOVENO. Los procedimientos administrativos disciplinarios en trámite a la fecha de entrada en vigor del presente Reglamento, se substanciarán y resolverán conforme a las disposiciones vigentes en el momento en que se iniciaron, salvo aquéllas que resulten de beneficio para los miembros del Servicio Exterior sujetos a tales procedimientos.
+
+DÉCIMO. La aplicación del presente Reglamento no incrementará el presupuesto autorizado a la Secretaría en el presente ejercicio fiscal y los subsecuentes.
