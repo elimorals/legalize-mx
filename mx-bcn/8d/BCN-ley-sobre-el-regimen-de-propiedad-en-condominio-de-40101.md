@@ -4,7 +4,7 @@ identifier: "BCN-ley-sobre-el-regimen-de-propiedad-en-condominio-de-40101"
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-18"
-last_updated: "2015-12-18"
+last_updated: "2017-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 18 de junio de 2004.
 
@@ -43,6 +43,8 @@ Las disposiciones de esta Ley son de orden público e interés social, de observ
 
 Asimismo el presente ordenamiento regula las relaciones entre los condóminos y entre estos y su administración, estableciendo las bases para resolver las controversias que se susciten con motivo de tales relaciones, sin perjuicio de la competencia que corresponda a las autoridades judiciales o administrativas.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 2.
 
 Para los efectos de esta Ley se entiende por:
@@ -51,47 +53,53 @@ I. Administrador: Es el condómino o habitante de la unidad de propiedad exclusi
 
 II. Administrador profesional: Es la persona física o moral, que no resida en el condominio, que demuestre capacidad o conocimientos en administración de condominios y que sea nombrado para tal efecto;
 
-III. Areas y bienes de uso común: Son aquellos que pertenecen en forma pro indiviso a los condóminos y su uso estará regulado por esta Ley, por la escritura constitutiva o por el Reglamento del Condominio;
+III. Áreas y bienes de uso común: Son aquellos que pertenecen en forma pro indiviso a los condóminos y su uso estará regulado por esta Ley, por la escritura constitutiva o por el Reglamento del Condominio;
 
 IV. Asamblea: Es el órgano supremo del bien inmueble en condominio, en donde en reunión de todos los condóminos celebrada, previa convocatoria, se tratan, discuten y resuelven, en su caso, asuntos de interés común a los condóminos respecto del bien inmueble;
 
-V. Condominio: Modalidad de propiedad sobre un inmueble que otorga a su titular el derecho exclusivo de uso, goce y disfrute de su unidad privada y a la vez un derecho de copropiedad sobre los bienes de uso común, de acuerdo a las disposiciones de esta Ley, a la escritura constitutiva o al reglamento de condominio y administración;
+V. Bienes comunes de uso exclusivo: Son aquellos bienes que siendo comunes, se señalen en la escritura constitutiva del condominio o en el Reglamento del mismo, como de uso exclusivo de unidad o grupo de unidades de propiedad exclusiva;
 
-VI. Condómino: A la persona física o moral, pública o privada, que en calidad de propietario o poseedor originario o derivado por cualquier título legal, aproveche los departamentos, viviendas, casas, locales o áreas de un condominio, así como aquella persona que haya celebrado contrato en virtud del cual, de cumplirse en sus términos, llegue a ser propietario o fideicomisario sujeto al régimen de propiedad en condominio;
+VI. Condominio: Modalidad de propiedad sobre un inmueble que otorga a su titular el derecho exclusivo de uso, goce y disfrute de su unidad privada y a la vez un derecho de copropiedad sobre los bienes de uso común, de acuerdo a las disposiciones de esta Ley, a la escritura constitutiva o al reglamento de condominio y administración;
 
-VII. Copropiedad: Existe copropiedad para efectos de esta Ley sobre los bienes comunes que pertenecen a los condóminos pro indiviso, es decir, sin división material de partes, expresado en una parte alícuota y sujeta a las disposiciones de esta ley, que no está sujeta a la acción de división, salvo en el caso de extinción;
+VII. Condómino: A la persona física o moral, pública o privada, que en calidad de propietario o poseedor originario o derivado por cualquier título legal, aproveche los departamentos, viviendas, casas, locales o áreas de un condominio, así como aquella persona que haya celebrado contrato en virtud del cual, de cumplirse en sus términos, llegue a ser propietario o fideicomisario sujeto al régimen de propiedad en condominio;
 
-VIII. Cultura Condominal: Todo aquello que contribuya a generar las acciones y actitudes que permitan, en sana convivencia, el cumplimiento del objetivo del régimen de propiedad en condominio. Entendiéndose como elementos necesarios: el respeto y la tolerancia; la responsabilidad y cumplimiento; la corresponsabilidad y participación; la solidaridad y la aceptación mutua.
+VIII. Condominio Maestro: Toda aquella agrupación de dos o más condominios, ya sean horizontales, verticales o mixtos, construidos en un solo predio, siempre que cada uno de dichos condominios conserve para sí áreas de uso exclusivo, y a su vez existan áreas y bienes de uso común para todos los condominios que integran el condominio maestro, como pueden ser vialidades, construcciones e instalaciones, entre otras de la misma naturaleza que serán administradas, conservadas y mantenidas por todos los condominios integrados al condominio maestro, siempre que cumpla para su constitución con las disposiciones en materia de desarrollo urbano, edificaciones, planeación urbana y prestación de servicios públicos, así como los programas que de dichas normas deriven;
 
-IX. Cuota Extraordinaria: Cantidad proporcional al valor de su propiedad exclusiva con relación al condominio, para absorber gastos extraordinarios por adiciones, conservación y reposición de bienes y equipos, previa aprobación de la asamblea general de condóminos;
+IX. Copropiedad: Existe copropiedad para efectos de esta Ley sobre los bienes comunes que pertenecen a los condóminos pro indiviso, es decir, sin división material de partes, expresado en una parte alícuota y sujeta a las disposiciones de esta ley, que no está sujeta a la acción de división, salvo en el caso de extinción;
 
-X. Cuota Ordinaria: Cantidad proporcional al valor de su propiedad exclusiva con respecto al condominio para absorber los gastos de administración, mantenimiento y operación de acuerdo a lo establecido en la escritura constitutiva o en el Reglamento del Condominio;
+X. Cultura Condominal: Todo aquello que contribuya a generar las acciones y actitudes que permitan, en sana convivencia, el cumplimiento del objetivo del régimen de propiedad en condominio. Entendiéndose como elementos necesarios: el respeto y la tolerancia; la responsabilidad y cumplimiento; la corresponsabilidad y participación; la solidaridad y la aceptación mutua.
 
-XI. Escritura Constitutiva: A la escritura pública o documento privado, que contenga la declaración unilateral de voluntad, por la que se constituya el régimen en condominio para un inmueble determinado;
+XI. Cuota Extraordinaria: Cantidad proporcional al valor de su propiedad exclusiva con relación al condominio, para absorber gastos extraordinarios por adiciones, conservación y reposición de bienes y equipos, previa aprobación de la asamblea general de condóminos;
 
-XII. Extinción Voluntaria: La desaparición del régimen de propiedad en condominio;
+XII. Cuota Ordinaria: Cantidad proporcional al valor de su propiedad exclusiva con respecto al condominio para absorber los gastos de administración, mantenimiento y operación de acuerdo a lo establecido en la escritura constitutiva o en el Reglamento del Condominio;
 
-XIII. Ley: Ley sobre el Régimen de Propiedad en Condominio de Inmuebles para el Estado Libre y Soberano de Baja California;
+XIII. Escritura Constitutiva: A la escritura pública o documento privado, que contenga la declaración unilateral de voluntad, por la que se constituya el régimen en condominio para un inmueble determinado;
 
-XIV. Oficialías Conciliadoras y Calificadoras: La autoridad competente dentro de los Ayuntamientos para desahogar los procedimientos arbitrales y para resolver controversias en materia de propiedad en condominio;
+XIV. Extinción Voluntaria: La desaparición del régimen de propiedad en condominio;
 
-XV. Parte alícuota o indiviso: Es la proporción que guarda el valor nominal de cada unidad de propiedad exclusiva, respecto de la suma de los valores nominales de todas las unidades que integran el condominio, expresada en una cifra porcentual, y representa, a su vez, el derecho de los condóminos sobre los bienes comunes, proporcional al valor que representa su unidad o fracción en relación al valor total del condominio;
+XV. Ley: Ley sobre el Régimen de Propiedad en Condominio de Inmuebles para el Estado Libre y Soberano de Baja California;
 
-XVI. Procedimiento de Arbitraje: Procedimiento para la resolución de controversias que buscará proporcionar a las partes la mayor equidad posible y, se regirá por los principios de legalidad, sencillez, celeridad, oficiosidad, eficacia, publicidad, gratuidad y buena fe, e iniciará siempre a petición de parte. Dicho procedimiento se substanciará ante las mesas de arbitraje de las Oficialías Conciliadoras y Calificadoras Municipales del Ayuntamiento correspondiente, las cuales contarán con plena libertad y autonomía para emitir sus laudos e imponer las sanciones previstas en la presente Ley;
+XVI. Oficialías Conciliadoras y Calificadoras: La autoridad competente dentro de los Ayuntamientos para desahogar los procedimientos arbitrales y para resolver controversias en materia de propiedad en condominio;
 
-XVII. Promoventes: A las personas que tramiten o que promuevan ante las autoridades competentes que señala esta Ley, la constitución o modificación de un régimen de propiedad en condominio;
+XVII. Parte alícuota o indiviso.- Es la proporción que guarda el valor nominal de cada unidad de propiedad exclusiva, respecto de la suma de los valores nominales de todas las unidades que integran el condominio, expresada en una cifra porcentual, y representa, a su vez, el derecho de los condóminos sobre los bienes comunes, proporcional al valor que representa su unidad o fracción en relación al valor total del condominio.
 
-XVIII. Reglamento del Condominio: Se refiere al reglamento que el condominio requiere para su administración, que, agregado a la escritura constitutiva de cada condominio, contiene las normas especiales a que deberán sujetarse los condóminos, arrendatarios o quien disfrute del condominio, en relación al uso, goce y disposición, tanto en los bienes propios como de los comunes, así como lo referente a la administración de éstos últimos;
+XVIII. Procedimiento de Arbitraje: Procedimiento para la resolución de controversias que buscará proporcionar a las partes la mayor equidad posible y, se regirá por los principios de legalidad, sencillez, celeridad, oficiosidad, eficacia, publicidad, gratuidad y buena fe, e iniciará siempre a petición de parte. Dicho procedimiento se substanciará ante las mesas de arbitraje de las Oficialías Conciliadoras y Calificadoras Municipales del Ayuntamiento correspondiente, las cuales contarán con plena libertad y autonomía para emitir sus laudos e imponer las sanciones previstas en la presente Ley;
 
-XIX. Reglamento General de Condominios: Ordenamiento municipal de las edificaciones sujetas al régimen de condominio, que regula la administración, los derechos y las obligaciones de los condóminos, expedido por los Ayuntamientos;
+XIX. Promoventes: A las personas que tramiten o que promuevan ante las autoridades competentes que señala esta Ley, la constitución o modificación de un régimen de propiedad en condominio;
 
-XX. Residente: Persona que en calidad de poseedor por cualquier título legal, aproveche en su beneficio una unidad de propiedad exclusiva;
+XX. Reglamento del Condominio: Se refiere al reglamento que el condominio requiere para su administración, que, agregado a la escritura constitutiva de cada condominio, contiene las normas especiales a que deberán sujetarse los condóminos, arrendatarios o quien disfrute del condominio, en relación al uso, goce y disposición, tanto en los bienes propios como de los comunes, así como lo referente a la administración de éstos últimos;
 
-XXI. Sanción: Pena o multa que está obligado a cubrir el condómino infractor de esta Ley, Código Civil para el Estado de Baja California, escritura constitutiva, contrato de traslación de dominio, Reglamento del Condominio y cualesquier otra ley aplicable;
+XXI. Reglamento General de Condominios: Ordenamiento municipal de las edificaciones sujetas al régimen de condominio, que regula la administración, los derechos y las obligaciones de los condóminos, expedido por los Ayuntamientos;
 
-XXII. Unidad en condóminio o de propiedad exclusiva: A la casa, departamento, vivienda, local, oficina, comercio, industria o terreno y las áreas y elementos anexos que le corresponda sobre el cual el condómino tiene un derecho de propiedad y de uso exclusivo; y
+XXII. Residente: Persona que en calidad de poseedor por cualquier título legal, aproveche en su beneficio una unidad de propiedad exclusiva;
 
-XXIII. Usuario: Es la persona que con el carácter de arrendatario, comodatario, cesionario o por cualquier otro título usa y disfruta de los derechos que corresponden al condómino, y se substituye solidariamente en los derechos y obligaciones que aquél corresponden en el régimen en condominio.
+XXIII. Sanción: Pena o multa que está obligado a cubrir el condómino infractor de esta Ley, Código Civil para el Estado de Baja California, escritura constitutiva, contrato de traslación de dominio, Reglamento del Condominio y cualesquier otra ley aplicable;
+
+XXIV. Sub-Condominio.- Es aquel Condominio horizontal, vertical o mixto que forma parte de un Condominio;
+
+XXV. Unidades de propiedad exclusiva: A la casa, departamento, vivienda, local, oficina, comercio, industria o terreno y las áreas y elementos anexos que le corresponda sobre el cual el condómino tiene un derecho de propiedad y de uso exclusivo; y
+
+XXVI. Usuario: Es la persona que con el carácter de arrendatario, comodatario, cesionario o por cualquier otro título usa y disfruta de los derechos que corresponden al condómino, y se substituye solidariamente en los derechos y obligaciones que (sic) aquél corresponden en el régimen en condominio.
 
 ### CAPÍTULO II. DEL RÉGIMEN DE PROPIEDAD EN CONDOMINIO
 
@@ -149,15 +157,21 @@ b) Comercial o de servicios: Son aquellos en los que las unidades de propiedad e
 
 c) Mixtos: Son aquellos en donde las unidades de propiedad exclusiva se destinan a dos o más de los usos señalados en los incisos anteriores.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 7.
 
-Antes de la Constitución del Régimen de Propiedad en Condominio, a que se refiere el Artículo siguiente, los propietarios interesados deberán obtener una declaración que en su caso expedirá el Ayuntamiento de cada municipio, en el sentido de ser realizable el proyecto general por hallarse dentro de las previsiones o sistemas establecidos, así como de las previsiones legales de desarrollo urbano, de planeación urbana y de prestación de los servicios públicos; entendiendo que dicha declaración no da por cumplidas las obligaciones a que se contrae el numeral indicado entre las cuales se preverá el otorgamiento de licencias de construcción hasta un máximo de 120 departamentos, viviendas, casas o locales por condominio, aún cuando éste y otros formen parte de un conjunto o unidad urbana habitacional, o de un complejo turístico.
+Antes de la constitución del Régimen de Propiedad en Condominio, a que se refiere el artículo siguiente, los propietarios interesados deberán obtener una declaración que en su caso expedirá el Ayuntamiento de cada municipio, en el sentido de ser realizable el proyecto general por hallarse dentro de las previsiones o sistemas establecidos, así como de las disposiciones en materia de desarrollo urbano, edificaciones, planeación urbana y prestación de servicios públicos, así como los programas que de ellas se derivan; entendiendo que dicha declaración no da por cumplidas las obligaciones a que se contrae el numeral indicado.
+
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2017)
 
 ###### ARTÍCULO 8.
 
 Para constituir el régimen de la propiedad en condominio el propietario o propietarios deberán declarar su voluntad en escritura pública, en la cual se hará constar:
 
-I. La situación, dimensiones y linderos del terreno que corresponda al condominio de que se trate, con especificación precisa de su separación del resto de áreas, si está ubicado dentro de un conjunto o unidad urbana habitacional, o dentro de un complejo turístico. Asimismo, cuando se trate de construcciones vastas, los límites de los edificios o de las alas o secciones que de por sí deban constituir condominios independientes, en virtud de que la ubicación y número de copropiedad origine la separación de los condóminos en grupos distintos;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2017)</small>
+
+I.- La ubicación, dimensiones, medidas, linderos y colindancias del terreno que corresponda al condominio de que se trate, con especificación precisa de su separación del resto de áreas, si está ubicado dentro de un conjunto o unidad urbana habitacional, dentro de un complejo turístico o de un condominio maestro. Asimismo, cuando se trate de construcciones vastas, los límites de los edificios o de las alas o secciones que de por sí deban constituir condominios independientes integrados en un condominio maestro, en virtud de que la ubicación y número de copropiedades origine la conveniencia o necesidad de separar a los condóminos en grupos distintos;
 
 II. Constancia de haber obtenido la declaratoria a que se refiere el Artículo anterior y de que las autoridades competentes han expedido las licencias, autorizaciones o permisos de construcciones urbanas y de salubridad, que requieran este tipo de obras;
 
@@ -177,7 +191,9 @@ IX. Los casos y condiciones en que pueda ser modificada la propia escritura.
 
 Al apéndice de la escritura se agregarán, debidamente certificados por el Notario, el plano general y los planos correspondientes a cada uno de los departamentos, viviendas, casa o locales y a los elementos comunes, así como el Reglamento del propio condominio.
 
-De la documentación anterior y de las demás que se juzgue necesaria, se entregarán al Administrador copias notarialmente certificadas, para el debido desempeño de su cargo.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
+En los casos de constitución de condominios maestros, las autoridades competentes podrán autorizar zonas comerciales, de servicios y equipamiento urbano, así como de comunicaciones y transporte en general para facilitar la organización y funcionamiento de los condominios integrados, en cuyo caso de atender a las disposiciones vigentes en materia de participación ciudadana para la realización de las obras.
 
 ###### ARTÍCULO 9.
 
@@ -199,9 +215,11 @@ El Ayuntamiento de cada Municipio, podrá adoptar las medidas administrativas qu
 
 ### CAPÍTULO I. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONDOMINOS
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 13.
 
-Se entiende por condómino a la persona física o moral, pública o privada, que en calidad de propietario o poseedor originario, aproveche uno o más de los departamentos, viviendas, casas, locales o áreas de un condominio, así como aquella persona que haya celebrado contrato en virtud del cual, de cumplirse en sus términos, llegue a ser propietario o fideicomisario sujeto al régimen de propiedad en condominio.
+El condómino puede usar, gozar y disponer de su unidad de propiedad exclusiva, con las limitaciones y modalidades de esta Ley y las demás que establezcan la escritura constitutiva y el Reglamento del Condominio.
 
 ###### ARTÍCULO 14.
 
@@ -217,9 +235,9 @@ Los condóminos y residentes del condominio usarán sus unidades exclusivas de p
 
 Cuando el condómino arriende, subarriende u otorgue en comodato su unidad de propiedad exclusiva, será solidariamente responsable junto con su arrendatario, subarrendatarios o comodatario de sus obligaciones respecto del condominio.
 
-###### ARTÍCULO 17.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
 
-El condómino puede usar, gozar y disponer de su unidad de propiedad exclusiva, con las limitaciones y modalidades de esta Ley y las demás que establezcan la escritura constitutiva y el Reglamento del Condominio.
+###### ARTÍCULO 17.
 
 El condómino y su arrendatario o cualquiera otro cesionario del uso convendrán entre sí quién debe cumplir determinadas obligaciones ante los demás condóminos y en qué caso el usuario tendrá la representación del condómino en las asambleas que se celebren, pero en todo momento el usuario será solidario de las obligaciones del condómino.
 
@@ -327,49 +345,53 @@ En los condominios verticales, ningún condómino independientemente de la ubica
 
 Salvo que lo establezca la escritura constitutiva del régimen de propiedad en condominio, los condóminos de planta baja no podrán hacer obras, ocupar para su uso exclusivo o preferente sobre los demás condóminos, los vestíbulos, sótanos, jardines, patios, ni otros espacios de tal planta considerados como comunes, incluidos los destinados a cubos de luz. Asimismo, los condóminos del último piso no podrán ocupar la azotea ni elevar nuevas construcciones. Las mismas restricciones son aplicables a los demás condóminos del inmueble.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 29.
 
 Para las obras en los bienes comunes e instalaciones generales, se observarán las siguientes reglas:
 
-I. Las obras necesarias para mantener el condominio en buen estado de seguridad, estabilidad y conservación, y, para que los servicios funcionen normal y eficazmente, se efectuarán por el Administrador previa licencia, en su caso, de las autoridades competentes, bastando la conformidad del Consejo de Vigilancia, con cargo al fondo de gastos de mantenimiento y administración debiendo informar al respecto en la siguiente Asamblea General.
+I.- Las obras necesarias para mantener el condominio en buen estado de seguridad, estabilidad y conservación, y, para que los servicios funcionen normal y eficazmente, se efectuarán por el Administrador previa licencia, en su caso, de las autoridades competentes, bastando la conformidad del Consejo de Vigilancia, con cargo al fondo de gastos de mantenimiento y administración debiendo informar al respecto en la siguiente Asamblea General.
 
 Cuando este fondo no baste o sea preciso efectuar obras no previstas, el Administrador convocará a Asamblea General, a fin de que, conforme lo prevenga el Reglamento del Condominio, resuelva lo conducente;
 
-II. El propietario o propietarios del condominio en caso de enajenación, responderán por el saneamiento para el caso de evicción.
+II.- El propietario o propietarios del condominio en caso de enajenación, responderán por el saneamiento para el caso de evicción.
 
-Tratándose de construcciones nuevas, el propietario o propietarios originales del condominio serán responsables por los defectos o vicios ocultos de las construcciones, extinguiéndose las acciones correspondientes tres años posteriores a la entrega del área afectada.
+Tratándose de construcciones nuevas, el propietario o propietarios originales del condominio serán responsables por los defectos o vicios ocultos de las construcciones, cuyas acciones correspondientes no podrán extinguirse antes de que transcurra un año desde la entrega de la unidad de propiedad exclusiva respectiva.
 
-III. Para realizar obras nuevas, excepto en áreas verdes, que no impliquen la modificación de la escritura constitutiva y se traduzcan en mejor aspecto o mayor comodidad, se requerirá acuerdo aprobatorio de la Asamblea General Extraordinaria con la asistencia de los condóminos y por un mínimo de votos que represente el 51% del valor total del condominio;
+En todo caso se tendrá en cuenta la póliza de fianza que prevé la fracción VIII del artículo 8 de ésta Ley, para el ejercicio de las acciones que procedan.
 
-IV. En caso de falta de Administrador las reparaciones o reposiciones urgentes en los bienes y servicios comunes podrán ser efectuados por cualquiera de los condóminos, los gastos que haya realizado serán reembolsados repartiendo el costo en partes iguales entre todos los condóminos, previa autorización del Consejo de Vigilancia;
+III.- Para realizar obras nuevas, excepto en áreas verdes, que no impliquen la modificación de la escritura constitutiva y se traduzcan en mejor aspecto o mayor comodidad, se requerirá acuerdo aprobatorio de la Asamblea General Extraordinaria con la asistencia de los condóminos y por un mínimo de votos que represente el 51% del valor total del condominio;
 
-V. Los gastos que se originen con motivo de la operación, reparación, conservación y mantenimiento de las instalaciones y servicios generales, así como de las áreas o bienes comunes, serán cubiertos por todos los condóminos conforme a lo establecido en el Título Cuarto Capítulo II de esta Ley;
+IV.- En caso de falta de Administrador las reparaciones o reposiciones urgentes en los bienes y servicios comunes podrán ser efectuados por cualquiera de los condóminos, los gastos que haya realizado serán reembolsados repartiendo el costo en partes iguales entre todos los condóminos, previa autorización del Consejo de Vigilancia;
 
-Los gastos que se originen con motivo de la operación, reparación, conservación y mantenimiento de las instalaciones y servicios generales destinadas únicamente a servir a una sección del condominio serán cubiertos por todos los condóminos de esa sección, de acuerdo a lo establecido en el Título Cuarto Capítulo II de esta Ley;
+V.- Los gastos que se originen con motivo de la operación, reparación, conservación y mantenimiento de las instalaciones y servicios generales, así como de las áreas o bienes comunes, serán cubiertos por todos los condóminos conforme a lo establecido en el Título Cuarto Capítulo II de esta Ley;
 
-VI. Cuando un Condominio sea abandonado en forma absoluta por su inquilino o propietario, por un término de treinta días naturales, el Administrador notificará por escrito de esa situación a su copropietario o al propietario cuando este inmueble sea rentado o en su defecto al organismo público que detente su propiedad, para que tomen las medidas adecuadas, en un término de cinco días naturales a partir de la fecha de la notificación, con el objeto de que el lugar no se convierta en un foco de contaminación, que vaya en contra de la salud o la seguridad del resto de los condóminos.
+VI.- Cuando un Condominio sea abandonado en forma absoluta por su inquilino o propietario, por un término de treinta días naturales, el Administrador notificará por escrito de esa situación a su copropietario o al propietario cuando este inmueble sea rentado o en su defecto al organismo público que detente su propiedad, para que tomen las medidas adecuadas, en un término de cinco días naturales a partir de la fecha de la notificación, con el objeto de que el lugar no se convierta en un foco de contaminación o inseguridad, que vaya en contra de la salud o la seguridad del resto de los condóminos.
 
-En caso de que en dicho término no se tomen las medidas apropiadas, de conformidad con el Consejo de Vigilancia del Condominio, se harán los gastos necesarios para evitar que ese espacio sea destinado a otro uso del estipulado en la escritura correspondiente y los gastos que se originen por el mantenimiento y administración del mismo, será a cargo del propietario o del organismo público, pudiendo en su caso aplicar lo señalado en el Artículo 64 de la presente Ley;
+En caso de que en dicho término no se tomen las medidas apropiadas, se deberá dar aviso a las autoridades competentes en materia de salud y desarrollo urbano y de conformidad con el Consejo de Vigilancia del Condominio, se harán los gastos necesarios para evitar que ese espacio sea destinado a otro uso del estipulado en la escritura correspondiente y los gastos que se originen por el mantenimiento y administración del mismo, serán a cargo del propietario o del organismo público, pudiendo en su caso aplicar lo señalado en el artículo 64 de la presente Ley;
 
-VII. Cuando un vehículo sea estacionado en cualquiera de las áreas comunes del Condominio, incluyendo el propio estacionamiento si lo hubiera o en el frente del inmueble, por un término mayor a veinte días naturales, el Administrador notificará por escrito a su propietario, cuando el mismo sea uno de los condóminos, a retirar en un término no mayor a cinco días naturales el vehículo de referencia y en caso de que se desconozca al propietario de esa unidad, el Administrador notificará a las autoridades Municipales, con el fin de que la unidad se retire en forma inmediata del lugar donde se encuentre.
+VII.- Cuando un vehículo sea estacionado en cualquiera de las áreas comunes del Condominio, incluyendo el propio estacionamiento si lo hubiera o en el frente del inmueble, por un término mayor a veinte días naturales, el Administrador notificará por escrito a su propietario, cuando el mismo sea uno de los condóminos, a retirar en un término no mayor a cinco días naturales el vehículo de referencia y en caso de que se desconozca al propietario de esa unidad, el Administrador notificará a las autoridades Municipales, con el fin de que la unidad se retire en forma inmediata del lugar donde se encuentre.
 
-Esta medida no se aplicará cuando el condómino avise por escrito al Administrador, que el vehículo permanecerá en determinado sitio del Condominio, por causas que a juicio del Consejo de Vigilancia, sean valederos, pero en ningún caso esa unidad podrá permanecer mas de treinta, días en el mismo lugar; y,
+Esta medida no se aplicará cuando el condómino avise por escrito al Administrador, que el vehículo permanecerá en determinado sitio del Condominio, por causas que a juicio del Consejo de Vigilancia, sean valederos, pero en ningún caso esa unidad podrá permanecer más de treinta, días en el mismo lugar; y,
 
-VIII. Tratándose de los gastos que se originen por la prestación del servicio de energía eléctrica, agua y otros en las áreas o bienes comunes se cubrirán de acuerdo a lo establecido en las Fracciones V y VI de este Artículo. El proveedor o prestador del servicio incluirá la cantidad respectiva en la factura o recibo que individualmente expida a cada condómino por el servicio en su unidad de propiedad exclusiva.
+VIII.- Tratándose de los gastos que se originen por la prestación del servicio de energía eléctrica, agua y otros en las áreas o bienes comunes se cubrirán de acuerdo a lo establecido en las Fracciones V y VI de este Artículo. El proveedor o prestador del servicio incluirá la cantidad respectiva en la factura o recibo que individualmente expida a cada condómino por el servicio en su unidad de propiedad exclusiva.
 
 ###### ARTÍCULO 30.
 
 En los condominios de construcción vertical, las obras que requieran los techos en su parte exterior y los sótanos, serán por cuenta de todos los condóminos, así como la reparación de desperfectos ocasionados por sismos, hundimientos diferenciales o por cualquier otro fenómeno natural.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 31.
 
-Tratándose de condominios financiados o construidos por organismos federales, estatales o municipales, los condóminos no podrán enajenar, arrendar o transmitir a terceros bajo ningún título, los derechos de la unidad de propiedad exclusiva, observando las disposiciones y reglas que establezcan los propios organismos.
+Tratándose de condominios financiados o construidos por organismos públicos estatales o municipales, los condóminos solo podrán enajenar, arrendar o transmitir a terceros, los derechos de la unidad de propiedad exclusiva, siempre que se observen las disposiciones y reglas que establezcan los propios organismos.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 32.
 
-Queda prohibido que una misma persona por sí o por medio de otra, adquiera más de un departamento, vivienda, local o unidad de propiedad exclusiva en los condominios financiados o construidos por organismos públicos, so pena de rescindírsele el contrato respectivo.
-
-Iguales sanciones se les aplicarán a las personas que siendo propietarias de inmuebles en el centro de población correspondiente, por sí o por interpósita persona, adquieran una unidad de propiedad exclusiva en condominios construidos o financiados por organismos públicos.
+En el caso de personas que desean adquirir otro departamento, vivienda, local o unidad de propiedad exclusiva en los condominios financiados o construidos por organismos públicos estatales o municipales, se estará a lo dispuesto por las reglas que establezcan los propios organismos, tomando en consideración la capacidad crediticia y los ingresos de cada persona interesada.
 
 ## TÍTULO TERCERO
 
@@ -385,17 +407,31 @@ I. Las Asambleas Generales ordinarias se celebrarán cada seis meses teniendo co
 
 II. Las Asambleas Generales Extraordinarias se celebrarán cuando haya asuntos de carácter urgente que atender y cuando se trate de los siguientes asuntos conforme a lo establecido en esta Ley: cualquier modificación a la escritura constitutiva del régimen o su reglamento; para la extinción voluntaria del régimen; para realizar obras nuevas; para acordar lo conducente en caso de destrucción, ruina o reconstrucción.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2017)
+
 ###### ARTÍCULO 34.
 
 Podrán celebrarse otro tipo de asambleas, siempre sujetas a la Asamblea General y que se regirán conforme a lo que establece esta Ley y el Reglamento del Condominio, como son:
 
-I. Las de administradores, que se celebrarán en el caso de un conjunto condominal o cuando el condominio se hubiese subdividido en razón de haber adoptado una organización por secciones o grupos, para tratar los asuntos relativos a los bienes de uso común del conjunto condominal o condominio. Serán convocadas por el comité de administración del mismo.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2017)</small>
+
+I.- Las de administradores, que se celebrarán en el caso de un condominio maestro o cuando el condominio se hubiese subdividido en razón de haber adoptado una organización por secciones o grupos, para tratar los asuntos relativos a los bienes de uso común del condominio maestro o condominio. En dichas asambleas se elegirá al consejo de administración general y al consejo de vigilancia general del condominio maestro;
 
 II. Las de sección o grupo, que se celebrarán cuando el condominio se compone de diferentes edificios, alas, secciones, zonas, manzanas, entradas y áreas en donde se tratarán asuntos de áreas internas en común que sólo dan servicio o sirven a las mismas; serán convocadas de acuerdo a lo establecido en el Artículo 36 de esta Ley y sus determinaciones en ningún caso podrán contravenir o afectar las decisiones de la Asamblea General del Condominio; y
 
-III. Las Asambleas Generales de Condóminos del conjunto condominal, las cuales serán opcionales a las Asambleas de Administradores. En dichas asambleas se podrá elegir el comité de administración y el Consejo de Vigilancia del conjunto condominal. De igual modo, se podrá tratar cualquier asunto relacionado con las áreas comunes del conjunto condominal y serán convocadas en los términos del artículo 36 de esta Ley.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2017)</small>
+
+III.- Las Asambleas Generales de condóminos del condominio maestro, las cuales serán opcionales a las Asambleas de Administradores. En dichas asambleas se podrá tratar cualquier asunto relacionado con las áreas comunes del condominio maestro y serán convocadas en los términos del artículo 36 de esta Ley.
 
 Sin perjuicio de las disposiciones aplicables a las Asambleas de Condóminos, éstos podrán acordar otros mecanismos y formas para tomar decisiones y acuerdos para la mejor administración de los condominios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE ABRIL DE 2017)</small>
+
+Para el caso de condominios maestros se podrá celebrar asambleas resolver cuestiones relativas a las diferentes áreas o bienes de uso común de cada condominio integrado, comprendiendo varias escaleras, patios, jardines, obras e instalaciones destinadas a servir exclusivamente a dicho condominio, cuyos gastos especiales serán a cargo del grupo de condóminos beneficiados, incluyendo también ascensores, montacargas y otros elementos, aparatos o instalaciones de uso exclusivo del condominio integrado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE ABRIL DE 2017)</small>
+
+En el Reglamento del Condominio podrán establecerse normas especiales para el reparto de estos gastos, así como aquellos para regular las asambleas de administradores, cuando dicho condominio se haya organizado por secciones o grupos, o se trate de un condominio maestro, en los términos del artículo 62 de esta Ley.
 
 ###### ARTÍCULO 35.
 
@@ -495,9 +531,11 @@ En estos supuestos no serán considerados para el quórum de instalación de la 
 
 ### CAPÍTULO II. DEL NOMBRAMIENTO Y FACULTADES DE LOS ADMINISTRADORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 39.
 
-Los condominios serán administrados por la persona física o moral que designe la Asamblea General en los términos de esta Ley y el Reglamento del Condominio. Cuando exista un impedimento material o estructural que dificulte la organización condominal o los condóminos tengan una forma tradicional de organización, se podrá nombrar administración por edificios, alas, secciones, zonas, manzanas, entradas y áreas, y en aquellos casos en que el condominio tenga más de una entrada, los condóminos podrán optar por la organización, por acceso o módulo, siempre y cuando se trate de asuntos de áreas internas en común que sólo dan servicio a quienes habitan esa sección del condominio.
+Los condominios serán administrados por la persona física o moral que designe la Asamblea General en los términos de esta Ley y el Reglamento del Condominio. Cuando exista un impedimento material o estructural que dificulte la organización condominal o los condóminos tengan una forma tradicional de organización, se podrá nombrar administración por edificios, alas, secciones, zonas, manzanas, entradas y áreas, y en aquellos casos en que el condominio tenga más de una entrada, los condóminos podrán optar por la organización, por acceso o módulo, siempre y cuando se trate de asuntos de áreas internas en común que sólo dan servicio a quienes habitan esa sección del condominio. Lo anterior resulta aplicable también para los condominios maestros.
 
 Se prohíbe la organización fragmentada dentro de las secciones y si el acceso es compartido por dos alas, no se permitirá la organización separada de éstas.
 
@@ -597,9 +635,11 @@ Cuando la Asamblea de condóminos designe una nueva administración, la saliente
 
 Transcurrido el plazo anterior se deberá entregar a las Oficialías Conciliadoras y Calificadoras Municipales del Ayuntamiento copia certificada del acta levantada del cambio de administración, debiendo entregarse ésta en un plazo que no exceda de siete días hábiles a partir de la fecha de la designación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 47.
 
-Los conjuntos condominales para la administración de la totalidad de los bienes de uso común del conjunto, elegirán un comité de administración, el cual quedará integrado por:
+Los condominios maestros para la administración de la totalidad de los bienes de uso común del conjunto, elegirán un comité de administración, el cual quedará integrado por:
 
 I. Un Administrador, quien tendrá las funciones contenidas en el Artículo 45;
 
@@ -607,9 +647,13 @@ II. Un secretario, que tendrá a su cargo las actividades administrativas relaci
 
 III. Un tesorero, que será responsable del manejo contable interno de la administración, debiendo ser solidario con el administrador de llevar actualizados los estados de cuenta de la administración, sin poder tener la disponibilidad ni ejercicio de los mismos.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 48.
 
-Para la elección de los miembros del comité de administración de un conjunto condominal, se celebrará una Asamblea General de Condóminos, conforme a las reglas previstas por el Artículo 36 de esta Ley, para que mediante su voto se elija al comité de administración.
+Para la elección de los miembros del comité de administración general de un condominio maestro se celebrará una asamblea de administradores, conforme a las disposiciones previstas por el artículo 36 de esta Ley, convocando a cada uno de los administradores de los condominios que integren el condominio maestro para que mediante sus votos se elija al comité de administración general, en el entendido de que cada administrador conservará para todos los efectos legales y para todos los casos la calidad de representante de su respectivo condominio.
+
+En la segunda asamblea de administradores, se aprobará por mayoría simple de votos el Reglamento que les va a regir en su organización, mismo en el que se pormenorizarán las facultades y obligaciones del comité de administración general.
 
 ### CAPÍTULO III. NOMBRAMIENTO Y ATRIBUCIONES DEL CONSEJO DE VIGILANCIA
 
@@ -651,23 +695,29 @@ XII. Cubrir las funciones de Administrador en los casos previstos en el Párrafo
 
 XIII. Las demás que se deriven de esta Ley y de la aplicación de otras que impongan deberes a su cargo así como de la escritura constitutiva y del Reglamento del Condominio.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 52.
 
-Los conjuntos condominales deberán contar con un Consejo de Vigilancia integrado por los presidentes de los Consejos de Vigilancia de los condominios que integran dicho conjunto, mismos que actuarán en forma colegiada, eligiendo entre ellos a un coordinador.
+Los condominios maestros deberán contar con un Consejo de Vigilancia general integrado por los presidentes de los Consejos de Vigilancia de los condominios integrados al condominio maestro, mismos que actuarán en forma colegiada, eligiendo entre ellos a un coordinador.
 
-La integración del Consejo de Vigilancia de los conjuntos condominales y la elección del coordinador, se efectuará dentro de la asamblea a que se refiere el Artículo 48 de ésta Ley, sin que la participación de los presidentes de los Consejos de Vigilancia, cuente para la instalación del quórum en las asambleas de administradores.
+La integración del Consejo de Vigilancia general de los condominios maestros y la elección del coordinador, se efectuará en la asamblea a que se refiere el artículo 48 de ésta Ley para la integración del consejo de administración general, sin que la participación de los presidentes de los Consejos de Vigilancia, cuente para la instalación del quórum en las asambleas de administradores.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 53.
 
-Las funciones del Consejo de Vigilancia del conjunto condominal serán las que establece el Artículo 51 de esta Ley referidas al ámbito de la administración y las áreas comunes del conjunto condominal.
+Las funciones del Consejo de Vigilancia general del condominio maestro serán las que establece el Artículo 51 de esta Ley referidas al ámbito de la administración y las áreas comunes del condominio maestro.
 
 ## TÍTULO CUARTO
 
 ### CAPÍTULO I. DEL REGLAMENTO DE CONDOMINIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 54.
 
-El Reglamento del Condominio contendrá, sin contravenir lo establecido por esta Ley y la escritura constitutiva correspondiente, las disposiciones que por las características específicas del condominio se consideren necesarias refiriéndose, por lo menos, a lo siguiente:
+El Reglamento del Condominio contendrá, sin contravenir lo establecido por esta Ley y el (sic) escritura constitutiva correspondiente, las disposiciones que por las características específicas del condominio o condominio maestro se consideren necesarias refiriéndose, por lo menos, a lo siguiente:
 
 I. Los derechos y obligaciones de los condóminos respecto a los bienes de uso común, especificando estos bienes, así como las limitaciones a que queda sujeto el ejercicio del derecho de usar de ellos y los de propiedad exclusiva;
 
@@ -723,11 +773,11 @@ Si uno o varios propietarios, siempre que sus porciones no representen la tercer
 
 Cada condómino debe contribuir en proporción al porcentaje de indiviso que corresponda a su departamento, vivienda, local o área, a los gastos de la administración, conservación y operación de los bienes y servicios comunes, así como a la constitución de los fondos de administración y mantenimiento, y de reserva, y demás previstos en la escritura constitutiva o en el Reglamento del Condominio.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 59.
 
-Cuando un condominio conste de diferentes partes y comprenda, por ejemplo, varias escaleras, patios, jardines, obras e instalaciones destinados a servir únicamente a una parte del condominio, los gastos especiales relativos serán a cargo del grupo de condóminos beneficiados.
-
-También en el caso de las escaleras, ascensores, montacargas y otros elementos, aparatos o instalaciones cuya utilización sea variable por los condóminos podrán establecerse normas especiales para el reparto de los gastos. Esta modalidad deberá regularse en la escritura constitutiva o en el Reglamento del Condominio.
+Las mismas reglas de los dos párrafos anteriores podrán aplicarse para los casos de un condominio maestro de conformidad con los últimos dos párrafos del artículo 34 de esta Ley.
 
 ###### ARTÍCULO 60.
 
@@ -817,9 +867,13 @@ Si se optare por la extinción total del régimen de conformidad con las disposi
 
 ### CAPÍTULO I. DE LAS AUTORIDADES
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 75.
 
-Las autoridades competentes del Gobierno del Estado y de los Municipios, previa la autorización de un condominio o zona de condominios, deberán verificar que los mismos reúnan las condiciones y requisitos establecidos en la legislación vigente en materia de desarrollo urbano, ecología, salubridad y protección civil.
+Las autoridades competentes del Gobierno del Estado y de los Municipios, previa la autorización de un condominio, condominio maestro o zona de condominios, deberán verificar que los mismos reúnan las condiciones y requisitos establecidos en la legislación vigente en materia de desarrollo urbano, ecología, salubridad y protección civil.
+
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2017)
 
 ###### ARTÍCULO 76.
 
@@ -835,9 +889,17 @@ IV. Medidas provisionales en caso de ausencia temporal del Administrador o Conse
 
 V. Formas de extinción del condominio;
 
-VI. Especificaciones sobre el suministro de servicios públicos municipales; y,
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2017)</small>
 
-VII. Las causas y condiciones bajo las cuales procederá la remoción del Administrador o comité de administración del condominio.
+VI.- Especificaciones sobre el suministro de servicios públicos municipales;
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2017)</small>
+
+VII.- Las causas y condiciones bajo las cuales procederá la remoción del Administrador o comité de administración del condominio; y
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2017)</small>
+
+VIII.- Las normas para la organización y convivencia en un condominio maestro.
 
 ###### ARTÍCULO 77.
 
@@ -1018,3 +1080,15 @@ P.O. 18 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 414 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE MODIFICA LA FRACCIÓN III Y DEROGA LA FRACCIÓN IV AL ARTÍCULO 79 DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente adición y reforma entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 586 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 7, 8, 13, 17, 29, 31, 32, 34, 39, 47, 48, 52, 53, 54, 59, 75, 76, DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Esta reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Los Ayuntamientos del Estado deberán actualizar sus respectivos reglamentos municipales, un año después de la publicación del presente decreto en el Periódico Oficial de (sic) del Estado.
+
+CUARTO.- ( sic) Ejecutivo Estatal y los Ejecutivos Municipal (sic) deberán procurar que los planes y programas de desarrollo urbano y vivienda que sean aplicables se adapten a las disposiciones del presente decreto.
