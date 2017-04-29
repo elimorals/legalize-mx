@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2016-12-20"
+last_updated: "2017-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2017.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -703,6 +703,10 @@ La señalización vial en su carácter preventivo, restrictivo e informativo, ti
 
 La señalización deberá contemplar la inclusión de los ciclistas al sistema vial urbano.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2017)</small>
+
+En las vías de acceso controlado, estará permitida la circulación de motocicletas con capacidad igual o superior a 400cc, por lo que la señalización en dichas vías no podrá restringir el acceso a este tipo de vehículos.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 52.
@@ -722,6 +726,50 @@ II. El carril central, para la circulación continua y adelantamiento al carril 
 III. El carril derecho será utilizado para incorporarse o desincorporarse de la vía, y
 
 IV. Para establecer los límites de velocidad en los carriles de circulación se realizará previo estudio de la ingeniería vial.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2017)</small>
+
+En las vías de acceso controlado, los conductores de motocicletas con capacidad igual o superior a 400cc, deberán observar lo siguiente:
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2017)</small>
+
+V. No deberá rebasar por el mismo carril a otro vehículo de cuatro o más llantas;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2017)</small>
+
+VI. No podrán conducir entre los carriles de tránsito o entre hileras adyacentes de vehículos;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2017)</small>
+
+VII. No deberá transportar carga que impida un debido control del vehículo o su necesaria estabilidad;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2017)</small>
+
+VIII. No podrá Asirse o sujetarse a otros vehículos en movimiento;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2017)</small>
+
+IX. Deberá hacer uso total de un carril de circulación, aunque el mismo pueda ser compartido con otro vehículo de igual naturaleza;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2017)</small>
+
+X. No circular por vías exclusivas para ciclistas;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2017)</small>
+
+XI. No circular por los carriles confinados para el transporte público de pasajeros;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2017)</small>
+
+XII. No circular entre carriles, salvo cuando el tránsito vehicular se encuentre detenido y busque colocarse en el área de espera para motocicletas o en un lugar visible para reiniciar la marcha, sin invadir los pasos peatonales;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2017)</small>
+
+XIII. No realizar maniobras riesgosas o temerarias, cortes de circulación o cambios abruptos de carril que pongan en riesgo su integridad y la de terceros, y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2017)</small>
+
+XIV. Las demás que le señalen los reglamentos de tránsito respectivos.
 
 ### Capítulo II. De los Estacionamientos
 
@@ -1540,5 +1588,13 @@ P.O. 20 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0449.- SE REFORMA EL ARTÍCULO 68 EN SU FRACCIÓN IX; Y ADICIONA FRACCIÓN AL MISMO ARTÍCULO 68, ÉSTA COMO X, POR LO QUE LA ACTUAL X PASA A SER FRACCIÓN XI, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0618.- SE ADICIONA LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ."]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis", así mismo una vez publicado el presente Decreto los ayuntamientos del Estado tendrán noventa días para realizar las adecuaciones correspondientes a sus Reglamentos de Tránsito.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
