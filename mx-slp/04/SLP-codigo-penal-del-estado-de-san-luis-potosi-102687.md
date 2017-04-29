@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2017-04-11"
+last_updated: "2017-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2017.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -362,6 +362,8 @@ Concurso ideal y real
 Hay concurso ideal, cuando con una sola acción o una sola omisión se cometen varios delitos.
 
 Hay concurso real, cuando con pluralidad de acciones u omisiones se cometen varios delitos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE ABRIL DE 2017)</small>
 
 En caso de concurso de delitos se estará a lo dispuesto en el artículo 85 de este código.
 
@@ -991,11 +993,13 @@ En caso de concurso ideal, se impondrán las sanciones correspondientes al delit
 
 En caso de concurso real, se impondrá la pena del delito que merezca la mayor, la cual podrá aumentarse con las penas que la ley contempla para cada uno de los delitos restantes, sin que exceda del máximo señalado en el artículo 31 de este Código.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 86.
 
 Punibilidad para el delito continuado.
 
-En caso de delito continuado, se aumentarán en una mitad las penas que la ley prevea para el delito cometido.
+En caso de delito continuado, se aumentará la sanción penal hasta en una mitad de la correspondiente al máximo del delito cometido.
 
 ### CAPÍTULO V. Punibilidad de la Complicidad, Auxilio en Cumplimiento de Promesa Anterior; y Autoría Indeterminada
 
@@ -4320,3 +4324,11 @@ P.O. 11 DE ABRIL DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0617.- REFORMA A LOS ARTÍCULOS 29 EN SU PÁRRAFO TERCERO Y 86 DEL CÓDIGO PENAL DEL ESTADO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente.
