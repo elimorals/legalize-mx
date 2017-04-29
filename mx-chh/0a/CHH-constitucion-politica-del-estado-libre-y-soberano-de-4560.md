@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2017-02-25"
+last_updated: "2017-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2017.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1997,299 +1997,325 @@ DEL PODER JUDICIAL.
 
 DISPOSICIONES GENERALES.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
 ###### Art. 99.
 
-La potestad de aplicar las leyes del fuero común en materia civil, familiar, penal, de justicia para adolescentes, fiscal, administrativa, de extinción de dominio y justicia alternativa, en el territorio del Estado, corresponde al Poder Judicial, salvo las excepciones previstas en la ley. Lo anterior sin perjuicio de las potestades que deriven de otros ordenamientos.
+Corresponde al Poder Judicial dirimir toda controversia que se suscite con motivo de la aplicación de la legislación del Estado, y las que se originen, dentro de su territorio, con motivo de leyes del orden federal, cuando así lo autoricen dichos ordenamientos, sujetándose para ello a los procedimientos que al efecto establezcan, así como resolver las cuestiones en que deba intervenir cuando no exista contienda entre partes.
+
+Las y los Magistrados, Consejeras y Consejeros de la Judicatura y las y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo, y solo podrán ser destituidos en los casos que determinen esta Constitución o las leyes.
+
+Las y los servidores públicos del Poder Judicial, estando en funciones o disfrutando de licencia con goce de sueldo, no podrán desempeñar otro cargo, empleo o comisión, que fueren retribuidos, salvo los de docencia y fuera del horario del despacho de los asuntos del Poder Judicial.
+
+(NOTA: EL 9 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 179/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE ABRIL DE 2018 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+LAS Y LOS MAGISTRADOS Y CONSEJEROS DE LA JUDICATURA DESIGNADOS POR EL TRIBUNAL SUPERIOR DE JUSTICIA NO PODRÁN, DURANTE EL TIEMPO QUE GOCEN DE UN HABER DE RETIRO, ACTUAR COMO PATRONOS, ABOGADOS O REPRESENTANTES EN CUALQUIER PROCESO ANTE LOS ÓRGANOS DEL PODER JUDICIAL DEL ESTADO.
+
+En la integración del Tribunal Superior de Justicia, del Consejo de la Judicatura, de los Juzgados y de cualquier cargo dentro del Poder Judicial del Estado, deberá brindarse igualdad de oportunidades para las mujeres y los hombres, y se deberá privilegiar que la selección para ocupar cargos judiciales recaiga en personas íntegras e idóneas, que tengan la formación o las calificaciones jurídicas apropiadas para el cargo, mediante procesos en los que se valoren objetivamente los conocimientos y méritos de las y los aspirantes, fundamentalmente su experiencia y capacidad profesionales.
+
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 29 DE ABRIL DE 2017)</small>
 
 ### CAPITULO II.
 
-DEL TRIBUNAL SUPERIOR DE JUSTICIA Y EL CONSEJO DE LA JUDICATURA DEL ESTADO.
+DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+(NOTA: EL 9 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 179/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE ABRIL DE 2018 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE ABRIL DE 2017)</small>
 
 ###### Art. 100.
 
-(DEROGADO, P.O. 1 DE OCTUBRE DE 1994)
+El Tribunal Superior de Justicia funciona en Pleno o en Salas y se integrará con un mínimo de quince Magistrados y Magistradas. SU INTEGRACIÓN PODRÁ AUMENTAR O DISMINUIR, MEDIANTE ACUERDO DEL CONSEJO DE LA JUDICATURA POR MAYORÍA DE SUS MIEMBROS, CUANDO UN ESTUDIO OBJETIVO, MOTIVE Y JUSTIFIQUE LAS NECESIDADES DEL TRABAJO JURISDICCIONAL Y LAS CONDICIONES PRESUPUESTALES DEL ESTADO LO PERMITAN.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
 ###### Art. 101.
 
-Todos los cargos y empleos en el Poder Judicial son de aceptación y desempeño enteramente libres, pudiendo los nombrados tanto excusarse de aceptarlos como de renunciarlos ante la autoridad que haya hecho la designación.
+El procedimiento para nombrar Magistradas y Magistrados se llevará en la forma y términos que señale la Ley Orgánica del Poder Judicial, conforme a las siguientes bases:
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2014)</small>
+I.- En casos de faltas definitivas de Magistradas y Magistrados o la creación de otras Salas, el Pleno del Consejo de la Judicatura convocará a concurso de oposición para seleccionar a quienes deban cubrir las plazas vacantes o las creadas.
+
+II.- El Consejo de la Judicatura en pleno se constituirá en Jurado Calificador del concurso de oposición. Las y los Consejeros deberán excusarse de intervenir en el examen de las y los aspirantes respecto de quienes estén impedidos para actuar con imparcialidad, caso en el que serán sustituidos por un suplente. La o el suplente será designado por el mismo mecanismo por el cual fue seleccionado la o el Consejero propietario.
+
+El Jurado Calificador tomará sus decisiones por mayoría de votos y será presidido por quien ocupe la titularidad de la Presidencia del Consejo. En caso de excusa de la o del Presidente, será sustituido por la o el Consejero de entre las y los designados por el Tribunal Superior y que tenga mayor antigüedad en la función judicial.
+
+III.- El Jurado Calificador examinará a las y los participantes con transparencia, objetividad, exhaustividad, imparcialidad y profesionalismo respecto de la materia de la magistratura en la que concursan y en otras relacionadas con aquella.
+
+IV.- El Jurado Calificador integrará una terna de quienes hayan participado en el concurso y la remitirá al Ejecutivo del Estado.
+
+V.- Quien ocupe la titularidad de la Gubernatura propondrá, para su ratificación, al Congreso del Estado, a una de las personas que integran la terna. La ratificación se efectuará por el voto de las dos terceras partes de sus miembros presentes en la sesión respectiva, dentro del plazo improrrogable de treinta días naturales a partir de la presentación de la propuesta. En caso que el Congreso no resolviere en dicho plazo, ocupará el cargo la persona propuesta por la o el Gobernador.
+
+En caso que el Congreso rechace la propuesta, quien ocupe la titularidad de la Gubernatura enviará una nueva, de entre las personas a que se refiere el párrafo anterior. Si esta segunda propuesta fuere rechazada, ocupará el cargo el último de los integrantes de la terna, quien deberá ser designado por el Congreso.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
 ###### Art. 102.
 
-En caso de que un magistrado hubiese cumplido los requisitos de ley para su jubilación, se deberá nombrar a quien habrá de sustituirlo dentro de los tres meses previos a que dicho supuesto se actualice.
+El nombramiento de Magistrada o Magistrado no podrá recaer en persona que tenga la calidad de cónyuge, parentesco por consanguinidad en línea recta, colateral dentro del cuarto grado, y segundo por afinidad en ambas líneas, de otra que desempeñe dicho cargo.
 
-Si habiendo concluido el periodo de encargo de los jueces del Poder Judicial, no se ha verificado su reelección, se entenderá que han sido ratificados.
-
-Lo anterior, sin perjuicio de la responsabilidad en que incurran los funcionarios omisos.
-
-En todo caso, cuando no se hubiese nombrado o electo a quien deba reemplazar al funcionario judicial cuyo cargo concluye o aquel no se hubiese presentado, asumirá el ejercicio de sus funciones quien conforme a la ley deba sustituirlo en caso de ausencia temporal, hasta en tanto se verifique el nombramiento o se presente a asumir el cargo quien fuere designado.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
 ###### Art. 103.
 
-El Tribunal Superior de Justicia se compondrá de mínimo veinte y máximo treinta magistrados, quienes serán nombrados bajo el siguiente procedimiento:
+Las y los Magistrados del Tribunal Superior de Justicia serán nombrados para un único periodo de quince años, durante el cual serán inamovibles. Sin embargo, concluirán su encargo y cesarán sus funciones, las y los Magistrados que satisfagan los requisitos que exigen las leyes atinentes para gozar de la jubilación y además hayan desempeñado el cargo de magistratura cuando menos por un periodo de cinco años.
 
-Cuando exista una vacante absoluta o se autorice la creación de una nueva Sala, el Consejo de la Judicatura convocará a un concurso de oposición; los aspirantes invariablemente deberán cumplir con los requisitos que establece el artículo 108 de esta Constitución.
-
-El Consejo de la Judicatura convocará, en un caso, únicamente a personas que presten sus servicios al Poder Judicial y, en otro, solo con abogados externos a dicho Poder, de manera alternada.
-
-El Gobernador propondrá para su ratificación al Congreso a una de las personas que hayan obtenido los primeros diez lugares en el concurso de oposición. La ratificación se efectuará dentro del plazo improrrogable de treinta días naturales a partir de la presentación de la propuesta. En caso de que el Congreso no resolviere en dicho plazo, ocupará el cargo la persona propuesta por el Gobernador.
-
-Cuando el Congreso rechace la propuesta, el Gobernador enviará una nueva, de entre las personas a que se refiere el párrafo anterior. Si esta segunda propuesta fuere rechazada, el Congreso nombrará a la persona que designe el Gobernador de entre los restantes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
 ###### Art. 104.
 
-El Tribunal Superior de Justicia funcionará en pleno, en salas colegiadas o en unitarias, que podrán ser regionales, según lo determine la Ley.
+Para ser Magistrada o Magistrado se requiere:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JUNIO DE 2013)</small>
+I.- Tener la ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
 
-Su Presidente rendirá en el mes de enero de cada año, un informe ante el pleno sobre el estado que guarda la administración de justicia.
+II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco años cumplidos el día de la designación.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+III.- Poseer el día de la designación, con una antigüedad mínima de diez años, título profesional de licenciatura en derecho, expedido por autoridad o institución legalmente facultada para ello.
 
-###### Art. 105.
+IV.- Gozar de buena reputación y no haber tenido condena por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, se le inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-Corresponde a la Sala de Control Constitucional la revisión de las resoluciones de los jueces de primera instancia y de las salas unitarias del Tribunal Superior de Justicia, mediante las cuales se determine la inaplicación de las normas jurídicas, por considerarlas contrarias a los contenidos de la Constitución Política del Estado, de la Constitución Política de los Estados Unidos Mexicanos o de los tratados internacionales celebrados y ratificados por el Estado Mexicano, con arreglo a esta última.
+V.- No haber ocupado la titularidad de alguna Secretaría de Estado, de la Fiscalía General de la República, de una Senaduría, Diputación Federal o local, ni la titularidad del Poder Ejecutivo, Secretaría o Fiscalía General de alguna Entidad Federativa, durante el año previo al día de su nombramiento.
 
-Cuando la inaplicación a que se refiere el párrafo anterior la determinen las salas colegiadas del Tribunal Superior de Justicia, las atribuciones de la Sala de Control Constitucional serán ejercidas directamente por el Pleno.
-
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
-
-Art. 105 bis.- La administración, vigilancia y disciplina del Poder Judicial, estará a cargo del Consejo de la Judicatura del Estado de Chihuahua, conforme a las bases que señala esta Constitución y las leyes respectivas.
-
-El Consejo es un órgano del Poder Judicial del Estado, con independencia técnica, de gestión y para emitir sus resoluciones; funcionará en Pleno o en comisiones.
-
-El Pleno del Consejo resolverá sobre la designación, adscripción y remoción de magistrados y jueces, así como los demás asuntos que la ley determine.
-
-El Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la ley.
-
-Las decisiones del Consejo serán definitivas e inatacables, salvo aquellas que se traten de designación, adscripción, ratificación o remoción de jueces o remoción de magistrados, las cuales serán recurribles ante el Pleno de (sic) Tribunal Superior de Justicia.
-
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
-
-Art. 105 ter.- El Consejo de la Judicatura del Estado de Chihuahua estará integrado por siete consejeros, designados de la siguiente forma:
-
-I.- Uno será el Presidente del Tribunal Superior de Justicia del Estado, quien también lo será del Consejo;
-
-II.- Tres, serán magistrados designados por el Pleno del Tribunal Superior de Justicia del Estado, por mayoría de votos de los magistrados presentes;
-
-III.- Dos designados por el Congreso del Estado a propuesta de la Junta de Coordinación Política, los cuales deberán representar a la sociedad civil; y
-
-IV.- Uno designado por el Titular del Ejecutivo del Estado.
-
-Los consejeros deberán cumplir con los requisitos del artículo 108 de esta Constitución.
-
-Los magistrados nombrados como consejeros, continuarán en el ejercicio de su función jurisdiccional y no recibirán retribución adicional por ese cargo.
-
-Para el funcionamiento del Consejo, bastará la presencia de cuatro de sus integrantes.
-
-Salvo el Presidente del Consejo, los demás consejeros durarán en su encargo cinco años y no podrán ser nombrados para un nuevo período.
-
-Los consejeros ejercerán su función con independencia e imparcialidad, no representarán a quien los designe y solo podrán ser removidos en los términos y por las causas que establece esta Constitución.
-
-Los integrantes del Consejo de la Judicatura designados por el Ejecutivo y el Legislativo serán, para todos los efectos legales y por el tiempo que dure su encargo, funcionarios del Poder Judicial.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
-
-### CAPITULO III.
-
-DE LOS JUECES DE PRIMERA INSTANCIA Y MENORES DEL TRIBUNAL SUPERIOR DE JUSTICIA.
-
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2014)</small>
-
-###### Art. 106.
-
-Nunca podrán desempeñar su función simultáneamente en el Poder Judicial, magistrados o consejeros de la judicatura que entre sí sean cónyuges, parientes consanguíneos en línea recta o colateral dentro del cuarto grado. Tratándose de afines, la prohibición comprende la línea recta y la colateral dentro del segundo grado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2016)</small>
-
-###### Art. 107.
-
-Los magistrados del Tribunal Superior de Justicia serán nombrados para un único periodo de quince años. Sin embargo, concluirán su encargo y cesarán sus funciones, los magistrados que satisfagan los requisitos que exigen las leyes atinentes para gozar de la jubilación y además hayan desempeñado el cargo de magistrado cuando menos por un periodo de cinco años.
-
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2014)</small>
-
-Los magistrados serán inamovibles durante su encargo y solo podrán ser destituidos en los casos que determinen esta Constitución o las leyes.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
-
-Los jueces de primera instancia durarán en su encargo tres años y podrán ser reelectos por el Consejo de la Judicatura. En este caso, serán inamovibles y solo podrán ser destituidos en los casos que determinen esta Constitución o las leyes.
-
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2014)</small>
-
-Los jueces menores durarán indefinidamente en el cargo y podrán ser destituidos en términos de lo que la ley estipule.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
-
-Los magistrados, jueces y consejeros de la judicatura en funciones o que disfruten de licencia con goce de sueldo no podrán desempeñar otro cargo, empleo o comisión que fueren retribuidos, salvo los de docencia y fuera de las horas designadas al despacho de los asuntos del Poder Judicial.
-
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
-
-###### Art. 108.
-
-Para ser Magistrado se requiere:
-
-I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
-
-II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, al día de la elección.
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
-
-III.- Poseer el día de la elección, con antigüedad mínima de diez años, título profesional de Licenciado en Derecho, expedido por la autoridad legalmente facultada para ello;
-
-IV.- No haber sido condenado por delito que amerite pena corporal por más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
-
-V.- Ser del estado seglar.
-
-VI.- Ser de reconocida honorabilidad y buena conducta; y
-
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+VI.- No ser Ministra o Ministro de algún culto religioso.
 
 VII.- Haber residido en el Estado durante los últimos cinco años, salvo el caso de ausencia en el servicio del Estado o de la República, por un tiempo menor de seis meses.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2016)</small>
+Los nombramientos de las y los Magistrados deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
 
-###### Art. 109.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+
+###### Art. 105.
 
 Corresponde al Pleno del Tribunal Superior de Justicia:
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 1988)</small>
+I.- Iniciar ante el Congreso leyes y decretos, conforme a esta Constitución.
 
-I.- Iniciar ante el Congreso Leyes y decretos, conforme a esta Constitución.
+II.- Emitir su opinión sobre los proyectos de ley o decretos relativos a las cuestiones materia de su competencia cuando se lo soliciten los Poderes Legislativo o Ejecutivo.
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 1988)</small>
+III.- Designar a las y los funcionarios que señale su Ley Orgánica y no sean competencia del Consejo de la Judicatura del Estado.
 
-II.- Emitir su opinión sobre los proyectos de ley o decreto relativos a la legislación civil, penal, de procedimientos y organización de tribunales, cuando con ese fin se los remita el Congreso.
+IV.- Nombrar a su Presidente de entre sus integrantes, mediante el voto de las dos terceras partes de las y los Magistrados presentes en la sesión respectiva y tomarle la protesta de ley. Las y los Magistrados que desempeñen el cargo de Consejera o Consejero serán considerados, para este único efecto, integrantes del Pleno.
 
-III.- (DEROGADA, P.O. 1 DE OCTUBRE DE 2016)
+La persona que presida el Tribunal Superior de Justicia deberá contar, al día de la elección, con una antigüedad mínima de cinco años en el ejercicio de la magistratura. Durará tres años y podrá ser reelecta, por única ocasión, para el período inmediato siguiente y solo podrá ser removida mediante la misma votación requerida para su nombramiento.
 
-IV.- (DEROGADA, P.O. 1 DE OCTUBRE DE 2016)
+La o el designado rendirá informe, en el mes de agosto, de la situación que guarda la administración de justicia.
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+V.- Expedir los reglamentos que señale su Ley Orgánica y no sean competencia del Consejo de la Judicatura.
 
-V.- Nombrar a su Presidente de entre sus integrantes, mediante votación por mayoría calificada de las dos terceras partes de los magistrados presentes en el Pleno.
+VI.- Dirimir los conflictos que surjan entre los Poderes Ejecutivo y Legislativo del Estado, siempre que no sean de la competencia de la Cámara de Senadores, del Congreso de la Unión o de la Suprema Corte de Justicia de la Nación.
 
-VI.- (DEROGADA, P.O. 1 DE OCTUBRE DE 2016)
+VII.- Resolver las controversias que se susciten entre los ayuntamientos y el Congreso del Estado.
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+VIII.- Resolver los conflictos que se susciten entre dos o más municipios de la Entidad, así como entre los municipios y el Ejecutivo del Estado, en los términos que disponga la ley.
 
-VII.- Conceder licencias a los magistrados, para separarse de sus cargos cuando aquellas fueren por más de cinco días, pero no más de veinte.
+IX.- Resolver las cuestiones de límites entre los municipios del Estado, en los términos de la ley.
 
-VIII.- (DEROGADA, P.O. 18 DE OCTUBRE DE 2014)
+X.- Proponer al Congreso del Estado la creación de organismos descentralizados del Poder Judicial.
 
-IX.- (DEROGADA, P.O. 18 DE OCTUBRE DE 2014)
+XI.- Conocer sobre las violaciones a los derechos de las y los gobernados en los términos del artículo 200 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+XII.- Ejercer las demás atribuciones que le señalan las leyes.
 
-X.- Aprobar sus reglamentos interiores.
+Art. 105 bis.- (DEROGADO, P.O. 29 DE ABRIL DE 2017)
 
-XI.- (DEROGADA, P.O. 18 DE OCTUBRE DE 2014)
+Art. 105 ter.- (DEROGADO, P.O. 29 DE ABRIL DE 2017)
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 29 DE ABRIL DE 2017)</small>
 
-XII. Aprobar el Proyecto de Presupuesto de Egresos del Poder Judicial.
+### CAPITULO III.
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+DEL CONSEJO DE LA JUDICATURA.
 
-XIII.- Dirimir los conflictos que surjan entre el Poder Ejecutivo y el Legislativo del Estado, siempre que no sean de la competencia de la Cámara de Senadores del Congreso de la Unión o de la Suprema Corte de Justicia de la Nación.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+###### Art. 106.
 
-XIV.- Resolver las controversias que se susciten entre los ayuntamientos y el Congreso del Estado.
+El Consejo de la Judicatura es un órgano del Poder Judicial del Estado con independencia presupuestal, técnica, de gestión y para emitir sus resoluciones.
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+El Consejo tendrá a su cargo la administración, vigilancia, disciplina y carrera judicial en los términos que indique la Ley Orgánica del Poder Judicial del Estado de Chihuahua y demás disposiciones aplicables.
 
-XV.- Resolver los conflictos que se susciten entre dos o más municipios de la entidad, así como entre los municipios y el Ejecutivo del Estado, en los términos que disponga la ley.
+Es facultad exclusiva del Consejo de la Judicatura evaluar el desempeño de las y los Magistrados, Jueces y demás servidores públicos del Poder Judicial, con la periodicidad que determine su Ley Orgánica; así como resolver, en los casos que proceda, sobre su designación, adscripción, remoción o destitución; acordar sus renuncias y retiros forzosos; suspenderlos de sus cargos, conforme a los procedimientos establecidos en la Constitución y las leyes; o, si aparecieren involucrados en la comisión de un delito, formular denuncia o querella contra ellos.
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+El Consejo en Pleno estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Tribunal Superior de Justicia podrá solicitar al Consejo la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional estatal.
 
-XVI.- Resolver las cuestiones de límites entre los municipios del Estado, en los términos de la Ley.
+(NOTA: EL 9 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 179/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE ABRIL DE 2018 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+LAS RESOLUCIONES DEL CONSEJO DE LA JUDICATURA SERÁN DEFINITIVAS E INATACABLES Y EN SU CONTRA NO PROCEDE RECURSO ALGUNO. SOLO SERÁN RECURRIBLES ANTE EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA, AQUELLAS SOBRE LA DESIGNACIÓN, ADSCRIPCIÓN, RATIFICACIÓN, REMOCIÓN O DESTITUCIÓN. EN CONTRA DE DICHAS DETERMINACIONES DEL PLENO NO PROCEDERÁ RECURSO ALGUNO.
 
-XVII.- Proponer al Congreso del Estado, la creación de organismos descentralizados del Poder Judicial.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+###### Art. 107.
 
-XVIII.- Conocer sobre las violaciones a los derechos de los gobernados en los términos del artículo 200 de esta Constitución.
+El Consejo de la Judicatura estará integrado por cinco consejeras y consejeros designados de la siguiente forma:
 
-> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+I.- El primero será la o el Magistrado Presidente del Tribunal Superior de Justicia, quien lo será también del Consejo.
 
-XIX.- Ejercer las demás atribuciones que le señalan las leyes.
+II.- El segundo y tercero serán Magistradas y Magistrados designados por el voto de la mayoría de los miembros del Pleno del Tribunal Superior de Justicia, de entre quienes tengan, por lo menos, una antigüedad de cinco años en el ejercicio de la magistratura.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2016)</small>
+III.- El cuarto será designado o designada por el voto secreto de las dos terceras partes de los miembros del Congreso del Estado, a propuesta de la Junta de Coordinación Política.
+
+IV.- El quinto será designado o designada por quien ocupe la titularidad del Poder Ejecutivo del Estado.
+
+Las y los designados de acuerdo a las fracciones III y IV, deberán reunir los requisitos señalados en el artículo 104 de esta Constitución y representar a la sociedad civil. Además recibirán remuneración igual a la que perciben las y los Magistrados del Tribunal Superior de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+
+###### Art. 108.
+
+Salvo quien ocupe la Presidencia del Tribunal Superior de Justicia, las y los demás Consejeros durarán cinco años en el cargo, si dentro de este periodo faltare definitivamente alguna o alguno, se hará su designación para que concluya el periodo correspondiente, no pudiendo ser nombrada o nombrado para uno nuevo. Al terminar su encargo las y los Consejeros designados por el Tribunal Superior de Justicia, en su caso, regresarán como titulares de la Sala que ocupaban al momento de su designación. Y quienes los hayan sustituido serán considerados, de manera preferente, para la titularidad de aquellas salas vacantes o de nueva creación.
+
+Las y los integrantes del Consejo ejercerán su función con independencia e imparcialidad.
+
+Asimismo, las y los cónyuges y parientes en línea recta de los miembros del Consejo, así como sus parientes colaterales dentro del cuarto grado de consanguinidad o segundo de afinidad, no podrán ser simultáneamente miembros del mismo o de sus órganos auxiliares y unidades administrativas.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+
+###### Art. 109.
+
+El Consejo funcionará en Pleno o en comisiones, sin embargo las determinaciones de las comisiones deberán ser aprobadas por el Pleno para ser vinculatorias. El Pleno resolverá sobre los demás asuntos que determine la ley.
+
+El Consejo ejercerá sus atribuciones a través de las comisiones, órganos y unidades administrativas creados en la Ley, los reglamentos y las diversas disposiciones aplicables, así como en los acuerdos generales expedidos por el Pleno, los que tendrán las atribuciones que en esos ordenamientos se les señalen, contando cuando menos con las siguientes comisiones:
+
+I.- De Administración.
+
+II.- De Vigilancia.
+
+III.- De Carrera Judicial, Adscripción y Creación de Nuevos Órganos.
+
+IV.- De Disciplina.
+
+V.- Las demás que determine la ley, los acuerdos del Pleno y las disposiciones administrativas.
+
+Con excepción de la o el Presidente, cada uno de las y los Consejeros presidirá una comisión permanente.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
 ###### Art. 110.
 
-Los jueces del Estado serán nombrados en términos de Ley. Los de Primera Instancia lo serán mediante concurso de oposición.
+Son atribuciones del Consejo de la Judicatura:
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
+I.- Establecer las comisiones que estime convenientes para el adecuado funcionamiento del Consejo de la Judicatura, y designar a las y los Consejeros que deban integrarlas.
+
+II.- Expedir los reglamentos interiores en materia administrativa, de carrera judicial, de escalafón y régimen disciplinario del Poder Judicial, y todos aquellos acuerdos generales que fueren necesarios para el adecuado ejercicio de sus atribuciones.
+
+(NOTA: EL 9 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 179/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE ABRIL DE 2018 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+III.- DETERMINAR EL NÚMERO Y, EN SU CASO, ESPECIALIZACIÓN POR MATERIA DE LAS SALAS, ASÍ COMO SU JURISDICCIÓN.
+
+IV.- Determinar el número y materia de los juzgados de primera instancia y menores en cada uno de los distritos judiciales.
+
+V.- Elegir la terna que se enviará al Congreso del Estado para cubrir las ausencias absolutas o temporales de las y los Magistrados.
+
+VI.- Nombrar a las y los jueces de primera instancia y menores, y resolver sobre su ratificación, adscripción y remoción.
+
+VII.- Acordar las renuncias que presenten las y los jueces de primera instancia y menores.
+
+VIII.- Acordar el retiro forzoso de las y los Magistrados.
+
+IX.- Suspender en sus cargos a las y los Magistrados, jueces de primera instancia y menores, en los casos que proceda.
+
+(NOTA: EL 9 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 179/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE ABRIL DE 2018 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+X.- APROBAR EL PROYECTO DEL PRESUPUESTO ANUAL DE EGRESOS DEL PODER JUDICIAL, EL CUAL SE REMITIRÁ AL TITULAR DEL PODER EJECUTIVO.
+
+XI.- Dictar las bases generales de organización y funcionamiento de sus órganos auxiliares.
+
+XII.- Cambiar la residencia de las salas, juzgados de primera instancia y menores.
+
+XIII.- Conceder licencias en los términos previstos en esta Ley.
+
+(NOTA: EL 9 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 179/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE ABRIL DE 2018 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+XIV.- EJERCER EL PRESUPUESTO DE EGRESOS DEL PODER JUDICIAL.
+
+XV.- Nombrar a las y los servidores públicos de los órganos auxiliares del Consejo de la Judicatura, y acordar lo relativo a sus ascensos, licencias, remociones y renuncias.
+
+XVI.- Administrar los bienes muebles e inmuebles del Poder, cuidando su mantenimiento, conservación y acondicionamiento.
+
+XVII.- Realizar visitas administrativas ordinarias por lo menos una vez cada año a las salas, juzgados de primera instancia y menores; y extraordinarias las veces que así lo ameriten.
+
+XVIII.- Desempeñar cualquier otra función que la ley encomiende al Consejo de la Judicatura.
+
+El Consejo de la Judicatura incorporará la perspectiva de género, de forma transversal y equitativa en el desempeño de sus atribuciones, programas y acciones, con el objeto de garantizar a las mujeres y hombres, el ejercicio y goce de sus derechos humanos, en igualdad de condiciones y velará por que los órganos a su cargo así lo hagan.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
 ###### Art. 111.
 
-Para ser nombrado Juez de Primera Instancia se requiere:
+Serán atribuciones de quien ocupe la titularidad de la Presidencia del Consejo, cuando menos las siguientes:
 
-I.- Tener cuando menos veinticinco años de edad, el día del nombramiento.
+I.- Representar al Consejo por sí o por medio de la o el servidor público que se designe conforme a la normativa aplicable.
 
-II.- Poseer el día de la elección, con antigüedad mínima de un año, título profesional de Licenciado en Derecho, expedido por autoridad legalmente facultada para ello; y
+II.- Dirigir los debates y conservar el orden en las sesiones plenarias.
 
-III.- Cumplir además con lo preceptuado en las fracciones I, IV, V, VI y VII del artículo 108 de esta Constitución.
+III.- Vigilar el funcionamiento de las unidades administrativas y órganos auxiliares.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2014)</small>
+IV.- Informar al Pleno del Tribunal Superior de Justicia, al Congreso del Estado y a la o el Titular del Poder Ejecutivo, la terminación del encargo de las y los Consejeros, con dos meses de antelación o la falta definitiva de la o el Consejero que hubiesen designado, a efecto de que con toda oportunidad puedan hacerse los nombramientos concernientes.
+
+V.- Tomar la protesta de ley en sesión pública extraordinaria a las y los Consejeros, jueces y servidores públicos nombrados por concurso de oposición, titulares de las unidades administrativas y órganos auxiliares.
+
+VI.- Las demás que establezca la Ley, el Pleno mediante acuerdos generales y otras disposiciones administrativas.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
 ###### Art. 112.
 
-Para ser nombrado juez menor se requiere ser ciudadano mexicano, chihuahuense, en pleno ejercicio de sus derechos, mayor de veinticinco años y de probidad notoria e intachable.
+Serán atribuciones de las y los Consejeros, cuando menos las siguientes:
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+I.- Integrar el Pleno y al menos una de las comisiones permanentes del Consejo, así como las comisiones transitorias y los comités, conforme lo determine el Pleno.
+
+II.- Velar por el orden y la disciplina dentro y fuera de sus comisiones.
+
+III.- Despachar la correspondencia de sus oficinas.
+
+IV.- Cumplir con aquellas comisiones que le encomiende el Pleno.
+
+V.- Dar cuenta al Pleno de los asuntos trascendentes.
+
+VI.- Convocar a sesión extraordinaria del Pleno cuando la trascendencia del caso lo amerite y lo soliciten cuando menos tres Consejeras o Consejeros.
+
+VII.- Presidir cualquiera de las comisiones permanentes del Consejo, y participar, en términos de las disposiciones aplicables, en la designación de la o el Presidente de cada una de las comisiones y comités que integren.
+
+VIII.- Nombrar y remover al personal adscrito a su comisión, con excepción de los nombramientos realizados expresamente por el Pleno.
+
+IX.- Las demás que establezcan la ley, el Pleno mediante acuerdos generales y otras disposiciones administrativas.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
 ###### Art. 113.
 
-Los jueces de primera instancia otorgarán la protesta de ley, ante el Presidente del Tribunal Superior de Justicia; los jueces menores lo harán ante el juez de primera instancia del Distrito que corresponda.
+Las leyes reglamentarias, los acuerdos del Pleno y demás disposiciones administrativas establecerán las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2014)</small>
+En los concursos de oposición para el acceso a un cargo dentro del Poder Judicial que se celebren en los términos de la ley correspondiente, podrán participar todas las personas que cumplan con el perfil relacionado con el nivel, tipo, modalidad y materia correspondiente; así como con los requisitos que establezca esta Constitución, la ley respectiva, la convocatoria, en igualdad de condiciones, sin demérito de origen, residencia, lugar o formación profesional.
 
-### CAPITULO I.
+Quienes participen en alguna forma de ingreso distinta a lo establecido en este Capítulo, autoricen o efectúen algún pago o contraprestación u obtengan algún beneficio, incurrirán en responsabilidad y serán acreedores a las sanciones correspondientes.
 
-DE LA EDUCACION PUBLICA.
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 29 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2012)</small>
+### CAPITULO IV.
+
+DE LOS JUECES DE PRIMERA INSTANCIA Y MENORES DEL PODER JUDICIAL DEL ESTADO.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
 ###### Art. 114.
 
-Los jueces menores estarán sujetos, en el desempeño de sus cargos, a la vigilancia de los jueces de primera instancia. Estos deberán desahogar las consultas que aquellos les soliciten, pedirles informes, amonestarlos y, en su caso, dar cuenta al órgano competente de las conductas por las que deba fincarse responsabilidad.
+Las y los jueces de primera instancia y menores serán nombrados mediante concurso de oposición en los términos que establezca la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2014)</small>
+Protestarán sus cargos ante la o el funcionario que indique dicho ordenamiento.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
 ###### Art. 115.
 
-Los jueces de primera instancia y menores, nombrarán y removerán, con la aprobación del órgano competente, a los empleados cuya designación y remoción no esté determinada de otro modo en las leyes, y podrán concederles licencia hasta por diez días sin goce de sueldo, dando el aviso correspondiente.
-
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
+La Ley Orgánica del Poder Judicial determinará la jurisdicción, competencia y todo lo relativo a las y los servidores públicos y auxiliares de la administración de justicia.
 
 ###### Art. 116.
 
-Los Magistrados y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+(DEROGADO, P.O. 29 DE ABRIL DE 2017)
 
 ###### Art. 117.
 
-La Ley Orgánica determinará el número de Magistrados del Tribunal Superior de Justicia, Jueces de Control, Jueces de tribunal de enjuiciamiento y Jueces, sus jurisdicciones, competencias y todo lo demás relativo al Consejo de la Judicatura del Estado, así como a los funcionarios, empleados y auxiliares de la administración de justicia.
+(DEROGADO, P.O. 29 DE ABRIL DE 2017)
 
 ## TITULO X.
 
@@ -2757,11 +2783,11 @@ DE LA ADMINISTRACION GENERAL.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 1994)</small>
 
-### CAPITULO II.
+### CAPITULO I.
 
-DE LA SALUD PUBLICA.
+DE LA EDUCACION PUBLICA.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2012)</small>
 
 ###### Art. 143.
 
@@ -2855,9 +2881,11 @@ Para el cierre definitivo de una institución educativa oficial, se requerirá l
 
 (REUBICADO Y REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 1994)
 
-### CAPITULO III.
+### CAPITULO II.
 
-DE LA HACIENDA PUBLICA.
+DE LA SALUD PUBLICA.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 ###### Art. 155.
 
@@ -2903,11 +2931,9 @@ La Legislatura del Estado establecerá las normas sobre salud que no sean de la 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 1994)</small>
 
-### CAPITULO IV.
+### CAPITULO III.
 
-DEL SISTEMA ESTATAL DE FISCALIZACION.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+DE LA HACIENDA PUBLICA.
 
 ###### Art. 161.
 
@@ -3005,11 +3031,11 @@ La ley determinará las atribuciones de la dependencia encargada de las finanzas
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 9 DE MAYO DE 2007)</small>
 
-### CAPITULO V.
+### CAPITULO IV.
 
-DEL DESARROLLO SUSTENTABLE.
+DEL SISTEMA ESTATAL DE FISCALIZACION.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 170.
 
@@ -3053,9 +3079,11 @@ La falta de cumplimiento de este precepto será causa grave de responsabilidad.
 
 > <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO IV], P.O. 9 DE MAYO DE 2007)</small>
 
-### CAPITULO VI.
+### CAPITULO V.
 
-DE LA ASOCIACION PARA EL TRABAJO Y DE LA PREVISION SOCIAL.
+DEL DESARROLLO SUSTENTABLE.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 ###### Art. 173.
 
@@ -3064,6 +3092,10 @@ En el diseño de las políticas públicas, el Gobierno del Estado y los municipi
 Asimismo, los diversos proyectos de obra pública, en cualquiera de los órdenes de Gobierno, deberán garantizar, entre otras cosas, que el desarrollo sea integral y sustentable; que los mismos sean evaluables mediante criterios de carácter ambiental, económico y social, que tiendan a mejorar la calidad de vida y la productividad de las personas; que consideren medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
 
 > <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO V], P.O. 9 DE MAYO DE 2007)</small>
+
+### CAPITULO VI.
+
+DE LA ASOCIACION PARA EL TRABAJO Y DE LA PREVISION SOCIAL.
 
 ###### Art. 174.
 
@@ -4610,3 +4642,35 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+P.O. 29 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/RFCNT/0301/2017 II P.O., MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Las y los actuales Consejeros del Consejo de la Judicatura Estatal, concluirán sus funciones a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Tribunal Superior de Justicia, el Congreso del Estado y la o el Titular del Poder Ejecutivo, deberán designar a las y los Consejeros de la Judicatura Estatal, de conformidad con el artículo 107 constitucional de esta reforma, a más tardar treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Una vez nombrados sus integrantes, el Consejo de la Judicatura iniciará los trabajos para expedir los acuerdos generales y/o reglamentarios, así como las acciones operativas necesarias para el adecuado ejercicio de sus funciones.
+
+###### ARTÍCULO SEXTO.
+
+El Congreso del Estado deberá emitir las leyes y hacer las modificaciones necesarias del presente Decreto a más tardar treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Con relación a la previsión presupuestal para el funcionamiento del Consejo de la Judicatura, se estará a lo previsto en los artículos 41 y 42, en lo que corresponda, de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado de Chihuahua.
