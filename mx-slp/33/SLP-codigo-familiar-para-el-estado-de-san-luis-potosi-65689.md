@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2017-03-14"
+last_updated: "2017-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2017.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -791,7 +791,7 @@ La y el cónyuge aunque vivan separados se les tendrá por unidos para todos los
 
 ###### ARTICULO 105.
 
-El concubinato es la unión de hecho de un hombre con una mujer, libres de impedimentos de parentesco entre si y vinculo matrimonial, a través de la cohabitación doméstica, la unión sexual, el respeto y protección reciproca, con el propósito tácito de integrar una familia con o sin descendencia.
+El concubinato es la unión de hecho de un hombre con una mujer, libres de impedimentos de parentesco entre sí y vínculo matrimonial, a través de la cohabitación doméstica, la unión sexual, el respeto y protección recíproca, con el propósito tácito de integrar una familia con o sin descendencia.
 
 Si una misma persona establece varias uniones del tipo antes descrito, en ninguna se reputará concubinato.
 
@@ -865,7 +865,7 @@ En los casos de disolución del concubinato, la concubina o el concubinario inoc
 
 ###### ARTICULO 114.
 
-El patrimonio familiar es el conjunto de bienes y derechos de carácter inalienable, inembargable e imprescriptible, y será transmisible a titulo de herencia.
+El patrimonio familiar es el conjunto de bienes y derechos de carácter inalienable, inembargable e imprescriptible, y será transmisible a título de herencia.
 
 Son susceptibles de constituir el patrimonio familiar, los bienes inmuebles, muebles y semovientes.
 
@@ -1031,7 +1031,7 @@ Los alimentos constituyen una prioridad de naturaleza urgente e inaplazable, que
 
 ###### ARTICULO 142.
 
-La obligación de dar alimentos es reciproca. La o el que los da tiene a su vez el derecho de pedirlos.
+La obligación de dar alimentos es recíproca. La o el que los da tiene a su vez el derecho de pedirlos.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -1169,6 +1169,22 @@ VII. En los casos en que el cónyuge inocente de un divorcio contraiga nuevas nu
 
 El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2017)</small>
+
+ARTICULO 164 BIS. El derecho a recibir alimentos, y la obligación de darlos, derivados de una resolución judicial que declare la paternidad, será retroactivo al momento del nacimiento de la persona.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2017)</small>
+
+ARTICULO 164 TER. Los elementos que deberá considerar el juzgador en relación con el artículo 154 de este Código, a la luz del interés superior de la infancia, y del principio de igualdad y no discriminación, para el cálculo y pertinencia de la pensión alimenticia cuando ésta deba retrotraerse al momento del nacimiento de la persona, derivado del reconocimiento de paternidad y, en caso de que se indique su actualización para modular el monto, serán, los siguientes:
+
+I. Si existió o no conocimiento previo de su obligación;
+
+II. La buena o mala fe del deudor alimentario, en referencia al conocimiento previo del embarazo o nacimiento de la niña o niño. Lo anterior, por ser una condición esencial para la ponderación de la cuantía;
+
+III. La actuación del deudor alimentario en el transcurso del proceso para determinar la filiación y los alimentos, y
+
+IV. La buena o mala fe durante la tramitación del proceso; si se mostró coadyuvante en el esclarecimiento de la verdad en la definición de la paternidad.
+
 ###### ARTICULO 165.
 
 Cuando la o el deudor alimentario no estuviere presente o estándolo rehusare entregar lo necesario para los alimentos de los miembros de su familia con derecho a recibirlos, se hará responsable de las deudas que éstos contraigan para cubrir esa exigencia, pero sólo en la cuantía estrictamente necesaria.
@@ -1245,9 +1261,9 @@ Los herederos del cónyuge o el concubinario, excepto en el caso del artículo a
 
 ###### ARTICULO 177.
 
-Si la viuda, la divorciada o aquélla cuyo matrimonio fuere declarado nulo, y contrajera nuevas nupcias dentro los trescientos días después de la disolución del vinculo matrimonial anterior, la filiación de la hija o el hijo, que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
+Si la viuda, la divorciada o aquélla cuyo matrimonio fuere declarado nulo, y contrajera nuevas nupcias dentro los trescientos días después de la disolución del vínculo matrimonial anterior, la filiación de la hija o el hijo, que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
 
-I. Se presume que hija ó hijo es del primer matrimonio, si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
+I. Se presume que hija o hijo es del primer matrimonio, si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
 
 II. Se supone que la hija o hijo es del segundo marido, si nace después de ciento ochenta días de la celebración del segundo matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio;
 
@@ -1297,7 +1313,9 @@ Aunque el reconocimiento sea posterior, de las hijas o los hijos, adquieren todo
 
 Quedarán legitimados los descendientes de las hijas o hijos fallecidos, antes de celebrarse el matrimonio de sus padres.
 
-ARTCULO (SIC) 188. Las hijas o hijos no nacidos pueden también gozar del mismo derecho, siempre que el padre al casarse declare que reconoce a la hija o al hijo de quién la mujer está embarazada, o que le reconoce si aquélla estuviere embarazada.
+###### ARTICULO 188.
+
+Las hijas o hijos no nacidos pueden también gozar del mismo derecho, siempre que el padre al casarse declare que reconoce a la hija o al hijo de quién la mujer está embarazada, o que le reconoce si aquélla estuviere embarazada.
 
 ### Capítulo IV. Del Reconocimiento de Hijas o Hijos Nacidos Fuera del Matrimonio
 
@@ -2363,7 +2381,7 @@ Toda persona mayor de edad capaz, puede designar a la o el tutor que deberá enc
 
 La designación de la persona que ejerza la tutela o la curatela debe hacerse ante Notario Público e inscribirse en escritura pública, y deberá contener expresamente todas las reglas a las que se sujetará la tutela y curatela. Esta designación es revocable en cualquier momento, mediante las mismas formalidades.
 
-La persona designada no está obligada á aceptar el cargo, aunque no tenga excusa para ello; pero si lo acepta deberá permanecer en él un año cuando menos, pasado el cual, podrá solicitar a la autoridad judicial que se le releve del mismo.
+La persona designada no está obligada a aceptar el cargo, aunque no tenga excusa para ello; pero si lo acepta deberá permanecer en él un año cuando menos, pasado el cual, podrá solicitar a la autoridad judicial que se le releve del mismo.
 
 ### Capítulo V. De la Tutela Legítima de Menores y Mayores de Edad
 
@@ -2417,7 +2435,7 @@ I. A las o los hermanos, prefiriéndose a los que lo sean por ambas líneas;
 
 II. Por falta o incapacidad de las o los hermanos a los demás colaterales dentro del cuarto grado inclusive, y
 
-III. A la persona que ejerza la tutela autoasiganda.
+III. A la persona que ejerza la tutela autoasiganda (sic).
 
 ###### ARTICULO 377.
 
@@ -3508,3 +3526,11 @@ P.O. 14 DE MARZO DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 29 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0616.- SE ADICIONA (SIC) LOS ARTÍCULOS 164 BIS Y 164 TER, AL CÓDIGO FAMILIAR PARA EL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
