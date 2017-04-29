@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-judicial-para-el-estado-de-nayarit-74403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-03-20"
-last_updated: "2016-11-08"
+last_updated: "2017-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2017.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 20 de marzo de 2010.
 
@@ -43,17 +45,17 @@ LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
 Artículo 1
 
-La presente Ley es de orden público y tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado de Nayarit, a quien corresponde ejercer las atribuciones que le competen en materia de control constitucional local, en los asuntos de orden electoral, civil, familiar, penal, justicia para adolescentes, mercantil en jurisdicción concurrente, extinción de dominio, administrativo y fiscal, así como en los del orden federal en los casos en que las leyes de la materia le confiera jurisdicción.
+La presente Ley es de orden público y tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado de Nayarit, a quien corresponde ejercer las atribuciones que le competen en materia de control constitucional local, en los asuntos de orden civil, familiar; penal, justicia para adolescentes, mercantil en jurisdicción concurrente, extinción de dominio, así como en los del orden federal en los casos en que las leyes de la materia le confiera jurisdicción.
+
+Los principios rectores que rigen el servicio público son los siguientes: legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, eficiencia, eficacia, equidad, transparencia, economía, integridad y competencia por mérito.
+
+El Poder Judicial está obligado a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada servidor público.
 
 Artículo 2
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -61,23 +63,23 @@ Corresponde al Poder Judicial:
 
 1. Garantizar la supremacía de la Constitución, en los términos que ésta misma establece, así como la tutela de los derechos en ella contenidos, interpretarla, anular los actos, leyes y normas que la contravengan;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR EL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+2. Dirimir las controversias del fuero común en el orden civil, familiar, penal, de adolescentes, mercantil en jurisdicción concurrente, extinción de dominio;
 
-2. Dirimir las controversias del fuero común en el orden civil, familiar, penal, de adolescentes, mercantil en jurisdicción concurrente, extinción de dominio, administrativo y fiscal;
+3. (DEROGADO, P.O. 29 DE ABRIL DE 2017)
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
-3. Resolver los medios de impugnación en materia electoral, en los términos que disponga la ley de la materia;
+4. Dirimir controversias en aquellas materias concurrentes, que la ley le confiera jurisdicción;
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
-4. Dirimir controversias en aquellas materias concurrentes, que la ley le confiera jurisdicción, y
+5. Implementar en el ámbito de su competencia las políticas públicas que establezca el Comité Coordinador del Sistema Local Anticorrupción, y
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2017)</small>
 
-5. Las demás que con base en la Constitución federal, la Constitución local y demás leyes le confieran jurisdicción.
+6. Las demás que con base en la Constitución federal, la Constitución local y demás leyes le confieran jurisdicción.
 
 Artículo 3
 
@@ -283,7 +285,9 @@ Son atribuciones del Presidente del Tribunal Superior de Justicia:
 
 1. Representar legal o protocolariamente al Poder Judicial y al Tribunal Superior de Justicia o designar en su caso, representante para esos efectos.
 
-2. Presidir la Sala Constitucional-Electoral.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+
+2. Presidir la Sala Constitucional.
 
 3. Presidir el Consejo de la Judicatura, coordinar sus acciones y ejecutar los acuerdos dictados por éste.
 
@@ -407,9 +411,11 @@ Son atribuciones del titular de la Secretaría General de Acuerdos del Tribunal:
 
 ### CAPÍTULO I. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
-Artículo 25
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
-Para los asuntos de su competencia, el Tribunal Superior de Justicia ejercerá sus funciones en la Sala Constitucional-Electoral y en Salas Colegiadas y Unitarias que determine el Pleno.
+Articulo 25
+
+Para los asuntos de su competencia, el Tribunal Superior de Justicia ejercerá sus funciones en la Sala Constitucional y en Salas Colegiadas y Unitarias que determine el Pleno.
 
 Artículo 26
 
@@ -423,13 +429,11 @@ Artículo 28
 
 1. Las resoluciones de las salas colegiadas se tomarán por unanimidad o mayoría de votos de los magistrados, quienes no podrán abstenerse de votar, salvo que tengan impedimento legal.
 
-2. El magistrado que disienta de la mayoría podrá formular voto particular en un plazo no mayor de tres días, que se insertará en la ejecutoria respectiva, salvo en el caso de la Sala Constitucional-electoral, que se regirá por la ley de la materia.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR EL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+2. El magistrado que disienta de la mayoría podrá formular voto particular en un plazo no mayor de tres días, que se insertará en la ejecutoria respectiva, salvo en el caso de la Sala Constitucional, que se regirá por la ley de la materia
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
-
-3. Tratándose de la jurisdicción administrativa y fiscal, la Sala Constitucional-Electoral estará a lo dispuesto por el artículo 31 BIS de la presente Ley.
+3. (DEROGADO, P.O. 29 DE ABRIL DE 2017)
 
 Artículo 29
 
@@ -443,35 +447,21 @@ Artículo 30
 
 2. Cada una de las salas contará por lo menos con un notificador o actuario quien hará las notificaciones de la sala y las del Tribunal según la materia que corresponda.
 
-### CAPÍTULO II. DE LA SALA CONSTITUCIONAL-ELECTORAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE ABRIL DE 2017)</small>
+
+### CAPÍTULO II. DE LA SALA CONSTITUCIONAL
 
 Artículo 31
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
-
-La Sala Constitucional-Electoral, tendrá competencia para conocer y resolver los asuntos que le confiere la Constitución Política del Estado y las leyes aplicables.
+La Sala Constitucional, tendrá competencia para conocer y resolver los asuntos que le confiere la Constitución Política del Estado y las leyes aplicables.
 
 > <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
 
 Asimismo, en jurisdicción concurrente conforme a lo previsto en el artículo 107 fracción XII, de la Constitución Política de los Estados Unidos Mexicanos, tendrá competencia para conocer con carácter de superior jerárquico del juzgador que emita el acto, de los amparos que se promuevan por violaciones a los derechos y garantías previstas en los artículos 16, en materia penal, 19 y 20 de la propia Constitución Federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
-
-Artículo 31 Bis
-
-1. Para el ejercicio de la jurisdicción administrativa y fiscal, la Sala Constitucional- Electoral será la máxima autoridad y órgano especializado en la materia.
-
-2. En esos efectos, la Sala funcionará de la siguiente manera:
-
-a. Los magistrados que la integran tienen competencia unitaria para conocer, substanciar y resolver el juicio contencioso administrativo de acuerdo con las leyes aplicables.
-
-b. El Pleno de la misma tiene competencia para conocer y resolver el recurso de reconsideración que prevé la ley de la materia.
-
-3. La organización administrativa de la Sala garantizará su funcionamiento conforme a los principios de la función judicial. El personal que a ella se adscriba, de conformidad con el estatuto judicial, tendrá las atribuciones y funciones que establece esta ley y el reglamento correspondiente.
+Artículo 31 Bis (DEROGADO, P.O. 29 DE ABRIL DE 2017)
 
 ### CAPÍTULO III. DE LAS SALAS COLEGIADAS
 
@@ -511,13 +501,7 @@ Corresponde conocer y resolver a las salas de los asuntos siguientes:
 
 En materia penal, cuando un juez resuelva un asunto, la Sala correspondiente tendrá que conocer de los recursos que deriven de aquél.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR EL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
-
-6. De los recursos de reconsideración, en jurisdicción administrativa y fiscal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR EL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+6. (DEROGADO, P.O. 29 DE ABRIL DE 2017)
 
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -1169,9 +1153,13 @@ Son atribuciones del Consejo de la Judicatura:
 
 46. Conocer del Recurso de Revisión Administrativa.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
-47. Las demás que la ley le encomiende.
+47. Nombrar a un representante, para formar parte del Comité Coordinador en materia del Sistema Local Anticorrupción.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2017)</small>
+
+48. Las demás que la ley le encomiende.
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -1725,13 +1713,13 @@ La multa procederá cuando la conducta implique la obtención de un beneficio o 
 
 (DEROGADO, P.O. 28 DE MAYO DE 2014)
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+
 Artículo 127
 
-1. Para la imposición de las sanciones a que se refiere este apartado, se tomarán en cuenta los criterios previstos en el artículo 60 de la Ley de Responsabilidades de los Servidores Públicos.
+1. Para la imposición de las sanciones a que se refiere este apartado, se tomarán en cuenta los criterios previstos en la Ley de Responsabilidades Administrativas vigente en el Estado.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
-
-2. Se considerarán como faltas graves las previstas en los párrafos 1 al 6 y 13 al 16 del artículo 124 de esta ley, así como las previstas en el artículo 61 con relación al 54 de la Ley de Responsabilidades de los Servidores Públicos.
+2. Se considerarán como faltas graves las previstas en los párrafos 1 al 6 y 13 al 16 del artículo 124 de esta ley; así como las previstas en la Ley de Responsabilidades Administrativas vigente en el Estado.
 
 Artículo 128
 
@@ -1861,13 +1849,11 @@ En los asuntos de la competencia de las salas, se interrumpirá y dejará de ser
 
 3. Para la modificación de la jurisprudencia del Tribunal se observarán las mismas reglas establecidas en esta Ley para su formación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
 Artículo 140
 
-Las tesis y criterios que al efecto fije la Sala Constitucional-Electoral, se regirán por las leyes aplicables.
+Las tesis y criterios que al efecto fije la Sala Constitucional, se regirán por las leyes aplicables.
 
 ## TÍTULO DECIMO. DEL ARCHIVO, BOLETIN JUDICIAL, BIBLIOTECAS
 
@@ -2156,3 +2142,9 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 29 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
