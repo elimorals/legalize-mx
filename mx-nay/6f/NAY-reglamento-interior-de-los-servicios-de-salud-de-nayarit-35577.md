@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-los-servicios-de-salud-de-nayarit-35577"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-13"
-last_updated: "2016-09-03"
+last_updated: "2017-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE NAYARIT
 
-REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE NAYARIT.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE NAYARIT, PUBLICADO EN EL P.O. DE 29 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2016.
+REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE NAYARIT
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2017 (ABROGADO).
 
 Reglamento publicado en la sección novena del Periódico Oficial del Estado, el sábado 13 de diciembre de 2003.
 
@@ -942,3 +944,21 @@ P.O. 3 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO QUE MODIFICA LA FRACCIÓN XXI Y ADICIONA LA FRACCIÓN XXII, AMBOS DEL ARTÍCULO 22 DEL REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE NAYARIT".]
 
 UNICO.- La reforma entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE NAYARIT".]
+
+Artículo Primero.- El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial Órgano del Gobierno del estado de Nayarit.
+
+Artículo Segundo.- Se abroga a su similar publicado en el periódico Oficial Órgano del Gobierno del Estado de Nayarit, el día trece de diciembre de dos mil tres, así como todas las reformas y adiciones anteriores al presente; se abroga el Manual General de Organización de los Servicios de Salud de Nayarit, publicado en el periódico Oficial Órgano del Gobierno del Estado de Nayarit, el día trece de diciembre de dos mil tres; y se derogan todas aquellas disposiciones reglamentarias y administrativas que se opongan al presente ordenamiento.
+
+Artículo Tercero.- El Manual General de Organización deberá expedirse en un plazo no mayor a ciento veinte días contados a partir de la publicación del presente instrumento.
+
+Artículo Cuarto.- La Dirección General y la Dirección de Administración dentro del plazo de diez días hábiles deberán realizar los ajustes y modificaciones para dar cumplimiento a la estructura dispuesta en este Reglamento.
+
+Artículo Quinto.- Los recursos humanos, materiales y presupuestales asignados a la Dirección de Regulación Sanitaria, así como las atribuciones que ejercía esta, quedan reasignadas a la Comisión para la Protección contra Riesgos Sanitarios de Nayarit, y las relaciones laborales de los trabajadores de la entidad desconcentrada no sufre variación alguna, en tanto subsiste el mismo patrón, Servicios de Salud de Nayarit.
+
+Seguirán vigentes todos los Acuerdos de Coordinación suscritos con la Secretaría de Salud del Gobierno Federal, con la Comisión Federal para la Protección contra Riesgos Sanitarios y con los Ayuntamientos del Estado de Nayarit; así como los Convenios de Colaboración y demás instrumentos análogos celebrados en materia de regulación, control y fomento sanitario, en los cuales la Comisión Estatal para la Protección contra Riesgos Sanitarios de Nayarit sustituye a la Dirección de Regulación Sanitaria, de conformidad con lo que se dispone en el presente Reglamento.
