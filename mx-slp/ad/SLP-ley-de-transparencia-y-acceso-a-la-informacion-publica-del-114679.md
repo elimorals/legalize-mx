@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2017-04-27"
+last_updated: "2017-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -83,7 +83,9 @@ La presente Ley es de orden público y de observancia general en el Estado de Sa
 
 Tiene por objeto transparentar el ejercicio de la función pública y establecer los principios, bases generales y procedimientos para garantizar a toda persona el derecho humano de acceso a la información en posesión de cualquier autoridad, entidad, órgano y organismo de los poderes, Legislativo; Ejecutivo; y Judicial; organismos autónomos; partidos políticos; fideicomisos y fondos públicos; así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal.
 
-La Ley General de Transparencia y Acceso a la Información Pública, los lineamientos que determine el Sistema Nacional de Transparencia, la Constitución Política del Estado de San Luis Potosí, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, y demás disposiciones relacionadas con el derecho de acceso a la información y la protección de datos personales, se aplicarán de manera supletoria en lo no previsto por esta ley.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+
+La Ley General de Transparencia y Acceso a la Información Pública, los lineamientos que determine el Sistema Nacional de Transparencia, la Constitución Política del Estado de San Luis Potosí, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí, y demás disposiciones relacionadas con el derecho de acceso a la información y la protección de datos personales, se aplicarán de manera supletoria en lo no previsto por esta Ley.
 
 ###### ARTÍCULO 2°.
 
@@ -397,11 +399,15 @@ La sustitución de los comisionados se realizará de manera escalonada para gara
 
 La CEGAIP, se integrará por tres comisionados numerarios, y tres supernumerarios.
 
-El Congreso del Estado, por el voto de cuando menos las dos terceras partes de sus integrantes, elegirá al Comisionado Presidente, cada dos años, de entre los comisionados numerarios; el cual podrá ser reelecto por una sola ocasión.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+
+El Congreso del Estado, por el voto de cuando menos las dos terceras partes de sus integrantes, elegirá al Comisionado Presidente, cada dos años, de entre los comisionados numerarios; el cual podrá ser reelecto por una sola ocasión. Por cada comisionado numerario habrá un supernumerario que supla, en el orden de su nombramiento, sus ausencias.
 
 Por cada comisionado propietario habrá un supernumerario que supla, en el orden de su nombramiento, las ausencias de los propietarios. Las faltas temporales de los comisionados numerarios, o las excusas de los mismos calificadas de procedentes, se suplirán por los comisionados supernumerarios; en el orden de su nombramiento. Cuando la falta sea definitiva, se hará nueva designación de comisionado supernumerario, en los términos de la Constitución Política del Estado y la presente Ley.
 
-Los comisionados propietarios, y supernumerarios, rendirán la protesta de ley ante el Congreso del Estado.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+
+Los comisionados numerarios, y supernumerarios, rendirán la protesta de ley ante el Congreso del Estado.
 
 ###### ARTÍCULO 29.
 
@@ -503,7 +509,9 @@ XIII. Promover la rendición de cuentas de los poderes públicos entre sí; y la
 
 XIV. Promover la regulación e instrumentación del principio de publicidad de los actos y decisiones, así como el libre acceso a las reuniones de los poderes públicos estatales y municipales, e incentivar la participación ciudadana y comunitaria;
 
-XV. Recibir y sistematizar y, en su caso, requerir los informes mensuales que deberán enviarle a los sujetos obligados, relativas a la recepción y tramitación de solicitudes de información pública que hayan recibido;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2017)</small>
+
+XV. Recibir y sistematizar y, en su caso, requerir los informes mensuales que deberán enviarle los sujetos obligados, relativos a la recepción y tramitación de solicitudes de información pública que hayan recibido;
 
 XVI. Elaborar y aprobar su reglamento interior, y las disposiciones necesarias para el cumplimiento del mismo;
 
@@ -659,9 +667,17 @@ V. Dictaminar los estados financieros del área administrativa, y verificar que 
 
 VI. Realizar los inventarios generales de bienes muebles e inmuebles de la CEGAIP;
 
-VII. Informar oportunamente a los servidores públicos acerca de la obligación de realizar sus declaraciones patrimonial, fiscal y de intereses en los casos en que corresponda; verificando que tal declaración se presente en los términos de ley, y
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2017)</small>
 
-VIII. Vigilar el cumplimiento de las normas y disposiciones establecidas en la Ley General de Contabilidad, Responsabilidad Hacendaria del Estado, y todas aquellas tendientes a la fiscalización y ejercicio del presupuesto y gasto público, en su caso.
+VII. Informar oportunamente a los servidores públicos acerca de la obligación de realizar sus declaraciones patrimonial, fiscal y de intereses en los casos en que corresponda; verificando que tal declaración se presente en los términos de ley;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2017)</small>
+
+VIII. Vigilar el cumplimiento de las normas y disposiciones establecidas en la Ley General de Contabilidad, Responsabilidad Hacendaria del Estado, y todas aquellas tendientes a la fiscalización y ejercicio del presupuesto y gasto público, en su caso;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2017)</small>
+
+IX. Llevar a cabo los procedimientos que la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí señala.
 
 ###### ARTÍCULO 39.
 
@@ -849,7 +865,9 @@ Los titulares de los sujetos obligados, mediante el acuerdo o reglamento respect
 
 Los sujetos obligados designarán al responsable de la Unidad de Transparencia que tendrá las siguientes funciones:
 
-I. Recabar y difundir la información a que se refieren los capítulos, II, III, y IV, del Título Quinto de esta Ley y propiciar que las áreas la actualicen periódicamente, conforme la normatividad aplicable;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2017)</small>
+
+I. Recabar y difundir la información a que se refieren los capítulos, II, III, y IV, del Título Cuarto de esta Ley y propiciar que las áreas la actualicen periódicamente, conforme la normatividad aplicable;
 
 II. Recibir y dar trámite a las solicitudes de acceso a la información;
 
@@ -869,9 +887,15 @@ IX. Promover e implementar políticas de transparencia proactiva procurando su a
 
 X. Fomentar la transparencia y accesibilidad al interior del sujeto obligado;
 
-XI. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en esta Ley y en las demás disposiciones aplicables, y
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2017)</small>
 
-XII. Las demás que se desprendan de la normatividad aplicable.
+XI. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en esta Ley y en las demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2017)</small>
+
+XII. Informar por escrito a la CEGAIP, de forma mensual, sobre las solicitudes de información recibidas, el trámite y respuesta correspondiente en cada caso, y
+
+XIII. Las demás que se desprendan de la normatividad aplicable.
 
 Los sujetos obligados promoverán acuerdos con instituciones públicas especializadas que pudieran auxiliarles a entregar las repuestas a solicitudes de información, en la lengua indígena, braille o cualquier formato accesible correspondiente, en forma más eficiente.
 
@@ -2543,7 +2567,9 @@ En las resoluciones la CEGAIP podrán señalarle a los sujetos obligados que la 
 
 La CEGAIP deberá notificar a las partes y publicar las resoluciones, a más tardar, al tercer día siguiente de su aprobación.
 
-Los sujetos obligados deberán informar a la CEGAIP de que se trate el cumplimiento de sus resoluciones en un plazo no mayor a tres días siguientes a la notificación del auto que la declare ejecutoriada.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+
+Los sujetos obligados deberán informar a la CEGAIP el cumplimiento de sus resoluciones en un plazo no mayor a tres días.
 
 ###### ARTÍCULO 178.
 
@@ -2938,6 +2964,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 27 DE ABRIL DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0612.- SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO 74, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 29 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0614.- SE REFORMAN LOS ARTÍCULOS 1°, 28, 38, 54 Y 177; Y ADICIONA AL ARTÍCULO 30 LA FRACCIÓN IX, DE Y A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 29 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0615.- SE REFORMAN LOS ARTÍCULOS 34 Y 54; Y ADICIONA FRACCIÓN AL ARTÍCULO 54 DE Y A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
