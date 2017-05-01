@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-88635"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-13"
-last_updated: "2016-12-28"
+last_updated: "2017-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 13 de julio de 2012.
 
@@ -501,9 +501,37 @@ VI. El ordenamiento de la pesca y acuacultura debe hacerse a través de programa
 
 VII. El uso de artes y métodos de pesca selectivos y de menor impacto ambiental a fin de conservar y mantener la disponibilidad de los recursos pesqueros, la estructura de las poblaciones, la restauración de los ecosistemas costeros y acuáticos, así como la calidad de los productos de la pesca;
 
-VIII. En la conservación y protección de los recursos pesqueros y los ecosistemas en los que se encuentran, se adoptará el enfoque precautorio que incluya la definición de límites de captura y esfuerzo aplicables, así como la evaluación y monitoreo del impacto de la actividad pesquera sobre la sustentabilidad a largo plazo de las poblaciones; y
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2017)</small>
 
-IX. La participación, consenso y compromiso de los productores y sus comunidades en la corresponsabilidad de aprovechar de forma integral y sustentable los recursos pesqueros y acuícolas.
+VIII. Posicionar los productos pesqueros y acuícolas estatales en los mercados de alto valor, garantizando la eficiencia y sanidad a lo largo de la cadena productiva, dándoles valor agregado;
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2017)</small>
+
+IX. Impulsar el establecimiento de una cultura de inocuidad en el manejo, distribución y comercialización de productos pesqueros y acuícolas;
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2017)</small>
+
+X. Los sectores pesquero y acuícola se desarrollarán desde una perspectiva sostenible, que integre y concilie los factores económicos, sociales y ambientales, a través de un enfoque estratégico y ecoeficiente;
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2017)</small>
+
+XI. Transversalidad para la instrumentación de políticas públicas con enfoque multi o interdisciplinario para el fortalecimiento y desarrollo de una cultura empresarial, pesquera y acuícola, que aumente la productividad y mejore la competitividad;
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2017)</small>
+
+XII. Impulso estatal equilibrado y equitativo, que priorice el desarrollo público, privado, social y de sus comunidades;
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2017)</small>
+
+XIII. Financiamiento para el desarrollo e innovación tecnológica y científica, modernización de la flota pesquera, unidades de cultivo, técnicas ecoeficientes, plantas procesadoras, métodos y artes de captura;
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2017)</small>
+
+XIV. La transparencia en los procedimientos administrativos relativos al otorgamiento de concesiones y permisos, para realizar actividades pesqueras y acuícolas; así como en las medidas para el control del esfuerzo pesquero, para que sean eficaces e incorporen mecanismos de control accesibles a los productores;
+
+XV. En la conservación y protección de los recursos pesqueros y los ecosistemas en los que se encuentran, se adoptará el enfoque precautorio que incluya la definición de límites de captura y esfuerzo aplicables, así como la evaluación y monitoreo del impacto de la actividad pesquera sobre la sustentabilidad a largo plazo de las poblaciones; y
+
+XVI. La participación, consenso y compromiso de los productores y sus comunidades en la corresponsabilidad de aprovechar de forma integral y sustentable los recursos pesqueros y acuícolas.
 
 ## TÍTULO TERCERO. DE LA INVESTIGACIÓN Y CAPACITACIÓN PESQUERA Y ACUÍCOLA
 
@@ -969,9 +997,11 @@ XI. La recolección del medio natural de reproductores; y
 
 XII. La introducción y la repoblación de especies vivas en cuerpos de agua de jurisdicción federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 54.
 
-El otorgamiento de las concesiones y permisos para las diferentes modalidades enunciadas en los artículos 51 y 52, se regirá de acuerdo a lo establecido en la Ley General y demás disposiciones legales de la materia.
+El otorgamiento de las concesiones y permisos para las diferentes modalidades enunciadas en los artículos 52 y 53 de la presente Ley, se regirá de acuerdo a lo establecido en la Ley General y demás disposiciones legales de la materia.
 
 La SPyA podrá expedir para la pesca y la acuacultura en agua dulce continental, permisos a personas físicas o morales de nacionalidad mexicana, previo cumplimiento de los requisitos que se establezcan en las disposiciones reglamentarias.
 
@@ -1115,17 +1145,25 @@ El personal de la SPyA debidamente autorizado para la realización de los actos 
 
 El personal autorizado, al iniciar la inspección se identificará debidamente con la persona con quien se entienda la diligencia, exhibirá la orden respectiva y le entregará copia de la misma con firma autógrafa, requiriéndola para que en el acto designe dos testigos. En caso de negativa o de que los designados no acepten fungir como testigos, el personal autorizado podrá designarlos, haciendo constar esta situación en el acta administrativa que al efecto se levante, sin que esta circunstancia invalide los efectos de la inspección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 74.
 
-En toda visita de inspección se levantará acta, en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia.
+En toda visita de inspección se levantará acta, en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia, cumpliendo las formalidades previstas para tal efecto en la normatividad aplicable.
 
 Concluida la inspección, se dará oportunidad a la persona con la que se entendió la diligencia para que en el mismo acto formule observaciones en relación con los hechos u omisiones asentados en el acta respectiva; y para que ofrezca las pruebas que considere convenientes o haga uso de ese derecho en el término de cinco días siguientes a la fecha en que la diligencia se hubiere practicado.
 
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2017)</small>
+
+Los hechos, omisiones o irregularidades administrativas detectadas en las visitas de inspección que estén debidamente asentados en el acta respectiva se tendrán por ciertos, salvo prueba en contrario.
+
 Posteriormente, se procederá a firmar el acta por la persona con quien se entendió la diligencia, por los testigos y por el personal autorizado, quien entregará copia al interesado. Si la persona con quien se entendió la diligencia o los testigos, se negaren a firmar el acta o el interesado se negare a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez y valor probatorio.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 75.
 
-La persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado el acceso al lugar o lugares sujetos a inspección en los términos previstos en la orden escrita a que se hace referencia en el artículo 75 de esta Ley, así como a proporcionar toda clase de información que conduzca a la verificación del cumplimiento de esta Ley y demás disposiciones que de ella deriven. La información deberá mantenerse por la autoridad en absoluta reserva, si así lo solicita el interesado, salvo en caso de requerimiento judicial.
+La persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado el acceso al lugar o lugares sujetos a inspección en los términos previstos en la orden escrita a que se hace referencia en el artículo 72 de esta Ley, así como a proporcionar toda clase de información que conduzca a la verificación del cumplimiento de esta Ley y demás disposiciones que de ella deriven. La información deberá mantenerse por la autoridad en absoluta reserva, si así lo solicita el interesado, salvo en caso de requerimiento judicial.
 
 ###### ARTÍCULO 76.
 
@@ -1135,7 +1173,13 @@ La autoridad competente podrá solicitar el auxilio de la fuerza pública para e
 
 Recibida el acta de inspección por la autoridad ordenadora, requerirá al interesado, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas necesarias para cumplir con las disposiciones jurídicas aplicables, así como con las concesiones y permisos respectivos, fundando y motivando el requerimiento, señalando el plazo que corresponda, y para que dentro del término de quince días exponga lo que a su derecho convenga y, en su caso, aporte las pruebas que considere procedentes, en relación con la actuación de la autoridad.
 
-Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo a que se refiere el párrafo anterior, sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones, para que en un plazo tres días hábiles, presente por escrito sus alegatos.
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2017)</small>
+
+Si el visitado, en el plazo que señala el párrafo anterior ofrece pruebas, la autoridad, en el plazo de tres días hábiles, acordará su admisión y en el mismo proveído fijará fecha para la audiencia de desahogo de pruebas, la que deberá celebrarse dentro de los cinco días hábiles siguientes a la fecha en que se notifique; y de la cual se levantará acta que será suscrita por los que hayan intervenido.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2017)</small>
+
+Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo a que se refiere el primer párrafo de este artículo, sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones, para que en un plazo (sic) tres días hábiles, presente por escrito sus alegatos.
 
 Una vez recibidos los alegatos o transcurrido el término para presentarlos, la SPyA procederá, dentro de los veinte días siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
 
@@ -1366,3 +1410,9 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 1 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 114 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
