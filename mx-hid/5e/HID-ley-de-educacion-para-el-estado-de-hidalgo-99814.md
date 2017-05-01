@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-para-el-estado-de-hidalgo-99814"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-10"
-last_updated: "2016-12-31"
+last_updated: "2017-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2017.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 10 de marzo de 2014.
 
@@ -107,7 +107,9 @@ I. Contribuir al desarrollo integral de las personas, para que ejerzan plena y d
 
 II. Favorecer el desarrollo de las facultades para construir conocimientos y aplicarlos en la vida cotidiana, de tal manera que se vincule la enseñanza y el aprendizaje con el entorno social; así como la capacidad de observación, análisis y reflexión críticos;
 
-III. Fortalecer la conciencia de la nacionalidad y la soberanía, el aprecio por la historia nacional y estatal, los símbolos patrios, las instituciones nacionales, los derechos humanos, así como la valoración de las tradiciones, riqueza artística, especificidades interculturales y pluriétnicas, propiciando la adquisición, enriquecimiento y difusión de los bienes y valores de la cultura universal, nacional y en especial la del patrimonio cultural del Estado;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2017)</small>
+
+III. Fortalecer la conciencia de la nacionalidad y la soberanía, el aprecio por la historia nacional y estatal, los símbolos patrios, las instituciones nacionales, los derechos humanos, así como la valoración de las tradiciones, riqueza artística, artesanal, especificidades interculturales y pluriétnicas, propiciando la adquisición, enriquecimiento y difusión de los bienes y valores de la cultura universal, nacional y en especial la del patrimonio cultural del Estado;
 
 IV. Promover mediante la enseñanza, el conocimiento de la pluralidad lingüística del Estado, y el respeto a los derechos lingüísticos de los pueblos indígenas; así como impulsar el desarrollo de la educación indígena, bilingüe e intercultural, proteger y estimular las características lingüísticas e interculturales de cada uno de los diversos grupos étnicos del Estado. Los hablantes de lenguas indígenas, tendrán acceso a la educación básica en su propia lengua y en español;
 
@@ -127,7 +129,9 @@ X. Fomentar actitudes que estimulen la investigación y la innovación científi
 
 XI. Impulsar y orientar el uso de las Tecnologías de la Información y la Comunicación en todos los tipos y modalidades educativos, dotando a las y los estudiantes de elementos que contribuyan a comprender y participar en una realidad social de cambios vertiginosos, con base en la disponibilidad presupuestal;
 
-XII. Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquéllos que constituyen el patrimonio cultural de la Nación y del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2017)</small>
+
+XII. Impulsar la creación artística, artesanal y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquéllos que constituyen el patrimonio cultural de la Nación y del Estado de Hidalgo;
 
 XIII. Impulsar la enseñanza del idioma extranjero en el que mayoritariamente se difunden los nuevos conocimientos;
 
@@ -321,7 +325,9 @@ XIV. Promover permanentemente la investigación que sirva como base a la innovac
 
 XV. Promover la investigación y el desarrollo de la ciencia, la tecnología y fomentar su enseñanza y divulgación;
 
-XVI. Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones, con visión incluyente y afirmativa;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2017)</small>
+
+XVI. Fomentar y difundir las actividades artísticas, artesanales, culturales y físico-deportivas en todas sus manifestaciones, con visión incluyente y afirmativa;
 
 XVII. Promover e impulsar en el ámbito de su competencia, las actividades y programas relacionados con el fomento de la lectura, la escritura y el razonamiento lógico matemático, de acuerdo con lo establecido en la normatividad aplicable;
 
@@ -625,9 +631,17 @@ XX. Establecer, de forma paulatina y conforme a la suficiencia presupuestal, esc
 
 XXI. Impulsar esquemas eficientes para el suministro de alimentos nutritivos para estudiantes, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria;
 
-XXII. Realizar las demás actividades que permitan mejorar la calidad, equidad y ampliar la cobertura de los servicios educativos, para el logro de los propósitos y fines establecidos en la presente ley y en la normatividad aplicable; y
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2017)</small>
 
-XXIII. Coadyuvar en los programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendentes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
+XXII. Realizar las demás actividades que permitan mejorar la calidad, equidad y ampliar la cobertura de los servicios educativos, para el logro de los propósitos y fines establecidos en la presente ley y en la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2017)</small>
+
+XXIII. Coadyuvar en los programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendentes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos; y
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2017)</small>
+
+XXIV. Promover para que los planteles de educación pública de la entidad, cuenten con la infraestructura física educativa básica de luz eléctrica, agua potable e instalaciones hidrosanitarias funcionales, necesarias para favorecer el rendimiento académico de alumnas y alumnos y el trabajo de las maestras y los maestros, que contribuya a la correcta operación del Sistema Educativo Estatal.
 
 ###### ARTÍCULO 41.
 
@@ -1354,3 +1368,11 @@ P.O. 31 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 175 POR EL QUE SE REFORMAN LOS ARTÍCULOS 7 FRACCIONES III Y XII; 14 FRACCIÓN XVI; Y FRACCIONES XXII Y XXIII DEL ARTÍCULO 40; SE ADICIONA LA FRACCIÓN XXIV AL ARTÍCULO 40 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
