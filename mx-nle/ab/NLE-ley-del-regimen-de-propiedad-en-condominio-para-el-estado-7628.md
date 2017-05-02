@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-regimen-de-propiedad-en-condominio-para-el-estado-7628"
 country: "mx"
 rank: "ley"
 publication_date: "1993-04-02"
-last_updated: "1993-04-02"
+last_updated: "2017-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7628&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DEL REGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE NUEVO LEON
 
-LEY DEL REGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE NUEVO LEON
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 2 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY DEL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de abril de 1993.
 
@@ -458,3 +460,15 @@ LIC. SOCRATES C. RIZZO GARCIA
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 ING. LEOPOLDO ESPINOSA BENAVIDES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 251. SE EXPIDE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley del Régimen de Propiedad en Condominio para el Estado de Nuevo León, publicada en el Periódico Oficial del Estado mediante Decreto No. 163 de fecha 02 de abril de 1993.
+
+Tercero.- Los regímenes de propiedad en Condominio constituidos con anterioridad a la vigencia de la presente Ley seguirán rigiéndose por su Escritura Constitutiva y su Reglamento Interno, pero las modificaciones que se den a estos a partir de la vigencia del presente decreto se deberán ajustarse (sic) a lo previsto por esta Ley.
