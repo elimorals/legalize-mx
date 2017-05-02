@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2017-02-28"
+last_updated: "2017-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE MAYO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -398,7 +398,17 @@ C) Procuraduría Fiscal del Distrito Federal, a la que quedan adscritas:
 
 4. Subprocuraduría de Asuntos Penales.
 
-D) (DEROGADO, G.O. 15 DE OCTUBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 2 DE MAYO DE 2017)</small>
+
+D) Subsecretaría de Administración y Capital Humano, a la que quedan adscritas:
+
+1. Dirección General de Administración y Optimización del Capital Humano;
+
+2. Dirección General de Política Laboral;
+
+3. Dirección General de Desarrollo Humano y Profesionalización;
+
+4. Dirección General de Uninómina del Capital Humano.
 
 > <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2001)</small>
 
@@ -437,6 +447,10 @@ G) Unidad de Inteligencia Financiera del Distrito Federal.
 > <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2008)</small>
 
 1.4. Subdirección del Recinto Fiscal.
+
+> <small>(ADICIONADO, G.O. 2 DE MAYO DE 2017)</small>
+
+H) Las Direcciones Generales, Ejecutivas o de área encargadas de la administración en las dependencias de la Administración Pública Central.
 
 > <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
@@ -540,7 +554,7 @@ XII. La Procuraduría General de Justicia del Distrito Federal, se ubica en el �
 
 XIII. A la Oficialía Mayor:
 
-1. Dirección General de Administración y Desarrollo de Personal;
+1. (DEROGADO, G.O. 2 DE MAYO DE 2017)
 
 2. Dirección General de Recursos Materiales y Servicios Generales;
 
@@ -560,7 +574,7 @@ XIII. A la Oficialía Mayor:
 
 4.6 (DEROGADO, G.O. 15 DE MARZO DE 2016)
 
-5. Las Direcciones Generales, Ejecutivas o de área encargadas de la administración en las dependencias de la Administración Publica Central;
+5. (DEROGADO, G.O. 2 DE MAYO DE 2017)
 
 6. Coordinación General de Comunicación Social;
 
@@ -640,13 +654,13 @@ XIV. A la Contraloría General:
 
 > <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2014)</small>
 
-3.1. Direcciones Ejecutivas de Contralorías Internas en Dependencias y Órganos Desconcentrados “A” y “B”.
+3.1. Direcciones Ejecutivas de Contralorías Internas en Dependencias y Órganos Desconcentrados "A" y "B".
 
 3.2. (DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
 4. Dirección General de Contralorías Internas en Delegaciones.
 
-4.1. Direcciones de Contralorías Internas en Delegaciones, “A”, y “B”.
+4.1. Direcciones de Contralorías Internas en Delegaciones, "A", y "B".
 
 > <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -654,7 +668,7 @@ XIV. A la Contraloría General:
 
 5. Dirección General de Contralorías Internas en Entidades.
 
-5.1. Direcciones de Contralorías Internas en Entidades, “A”, y “B”.
+5.1. Direcciones de Contralorías Internas en Entidades, "A", y "B".
 
 > <small>(REFORMADO, G.O. 23 DE MARZO DE 2012)</small>
 
@@ -1082,33 +1096,35 @@ XVII. Las demás que le señalen las disposiciones jurídicas y administrativas 
 
 Corresponden al titular de la Oficialía Mayor, además de las atribuciones que expresamente le confiere la Ley, las siguientes:
 
-I. Atender las necesidades administrativas de la Administración Pública Centralizada del Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+I. Atender las necesidades administrativas de la Administración Pública Centralizada de la Ciudad de México, excepto las del Capital Humano;
 
-II. Apoyar a los titulares de las Unidades Administrativas, y Unidades Administrativas de Apoyo Técnico-Operativo de las Dependencias, Entidades, Órganos Político-Administrativos y Órganos Desconcentrados en la satisfacción de sus necesidades de servicios, recursos humanos y materiales para su adecuado funcionamiento, así como en la instrumentación de los programas y acciones relativas a la simplificación administrativa, modernización, mejora regulatoria, atención ciudadana, innovación de la actuación administrativa, evaluación del desempeño gubernamental, tecnologías de la información y comunicaciones;
+> <small>(REFORMADA, G.O. 2 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+II. Apoyar a los titulares de las Unidades Administrativas, y Unidades Administrativas de Apoyo Técnico-Operativo de las Dependencias, Entidades, Órganos Político-Administrativos y Órganos Desconcentrados en la satisfacción de sus necesidades de servicios y recursos materiales para su adecuado funcionamiento, así como en la instrumentación de los programas y acciones relativas a la simplificación administrativa, modernización, mejora regulatoria, atención ciudadana, innovación de la actuación administrativa, evaluación del desempeño gubernamental, tecnologías de la información y comunicaciones;
 
-III. Establecer, conducir, impulsar y difundir las políticas para regular la administración de recursos humanos y materiales, de servicios generales, de tecnologías de la información y comunicaciones, de bienes y servicios informáticos, del patrimonio inmobiliario, de los bienes muebles y del archivo documental, de la Administración Pública del Distrito Federal, así como dar seguimiento a los sistemas, normas, procesos y procedimientos, emitir opiniones técnicas y propuestas de actualización normativa, en estas materias.
+> <small>(REFORMADA, G.O. 2 DE MAYO DE 2017)</small>
 
-IV. Participar en el ámbito de su competencia, en las actividades que le confieren las disposiciones jurídicas en materia de Servicio Público de Carrera de la Administración Pública del Distrito Federal;
+III. Establecer, conducir, impulsar y difundir las políticas para regular la administración de recursos materiales, de servicios generales, de tecnologías de la información y comunicaciones, de bienes y servicios informáticos, del patrimonio inmobiliario, de los bienes muebles y del archivo documental, de la Administración Pública de la Ciudad de México, así como dar seguimiento a los sistemas, normas, procesos y procedimientos, emitir opiniones técnicas y propuestas de actualización normativa, en estas materias;
 
-V. Dirigir y resolver, con base en los lineamientos que fije el Jefe de Gobierno, los asuntos del personal al servicio de la Administración Pública y conducir las relaciones laborales;
+IV. (DEROGADA, G.O. 2 DE MAYO DE 2017)
 
-VI. Mantener actualizado el escalafón de los trabajadores y vigilar la adecuada difusión de los movimientos y procesos escalafón arios (sic);
+V. (DEROGADA, G.O. 2 DE MAYO DE 2017)
+
+VI. (DEROGADA, G.O. 2 DE MAYO DE 2017)
 
 > <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2016)</small>
 
 VII. Establecer la política que regule el ejercicio de los servicios de traslado, viáticos y demás erogaciones relacionadas con las comisiones oficiales nacionales e internacionales de las que sean parte las Dependencias, Órganos Desconcentrados, y Entidades de la Administración Pública de la Ciudad de México;
 
-VIII. Imponer, reducir y revocar las sanciones administrativas a que se haga acreedor el personal, de conformidad con las disposiciones jurídicas y administrativas aplicables, sin perjuicio de las que les competan jurídica y administrativamente imponer a otras autoridades;
+VIII. (DEROGADA, G.O. 2 DE MAYO DE 2017)
 
-IX. Determinar la terminación de los efectos del nombramiento de los trabajadores de la Administración Pública;
+IX. (DEROGADA, G.O. 2 DE MAYO DE 2017)
 
-X. Elaborar las normas y criterios para dictaminar las estructuras ocupacionales de la Administración Pública del Distrito Federal;
+X. (DEROGADA, G.O. 2 DE MAYO DE 2017)
 
-XI. Definir, actualizar, modificar y, en su caso, aprobar las estructuras ocupacionales, los catálogos de puestos, los tabuladores para el pago de los servidores públicos de la Administración Pública del Distrito Federal, y los procedimientos de aplicación de remuneraciones, incentivos y estímulos;
+XI. (DEROGADA, G.O. 2 DE MAYO DE 2017)
 
 XII. Llevar a cabo las licitaciones públicas, invitaciones restringidas o adjudicaciones directas de las adquisiciones consolidadas de la Administración Pública del Distrito Federal. Con forme a las disposiciones jurídico-administrativas; autorizar las adquisiciones de los bienes y servicios restringidos que requieran las dependencias, entidades y órganos desconcentrados;
 
@@ -1128,7 +1144,7 @@ XIX. Proyectar y supervisar la ejecución de obras de mantenimiento, remodelaci�
 
 XX. Formalizar, salvo que el Jefe de Gobierno establezca disposición distinta, la contratación conforme a la Ley de Adquisiciones y Ley de Obras Públicas, para la adecuada operación de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo a su cargo;
 
-XXI. Coordinar a las Direcciones Generales, Ejecutivas o de Área encargadas de la administración en las dependencias de la Administración Pública Central;
+XXI. (DEROGADA, G.O. 2 DE MAYO DE 2017)
 
 > <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
 
@@ -1146,9 +1162,7 @@ XXIV. Establecer las normas y criterios para dictaminar las estructuras orgánic
 
 XXV. Definir, actualizar, modificar y, en su caso, dictaminar las estructuras orgánicas;
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
-
-XXVI. Dictaminar la procedencia de los contratos de prestadores de servicios con remuneración equivalente a la de los servidores públicos de estructura, de las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+XXVI. (DEROGADA, G.O. 2 DE MAYO DE 2017)
 
 > <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -2095,6 +2109,64 @@ V. Coordinar el diseño y mejora continua de modelos de atención ciudadana para
 VI. Vigilar en coordinación con el Órgano Regulador del Transporte el cumplimiento de la normatividad, especificaciones y principios de la Ley por los concesionarios y permisionarios del servicio de transporte de pasajeros público; y
 
 VII. Vigilar que concesionarios y permisionarios realicen puntualmente las aportaciones al fondo de movilidad y seguridad vial.
+
+> <small>(ADICIONADO, G.O. 2 DE MAYO DE 2017)</small>
+
+###### Artículo 34 Bis 1.
+
+Corresponde a la Subsecretaría de Administración y Capital Humano:
+
+I. Emitir las normas y disposiciones, así como la interpretación de las leyes en la materia, que permitan a las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades, obtener una administración eficaz y eficiente de su capital humano, para el cumplimiento del programa general de desarrollo vigente;
+
+II. Coordinar que la incorporación de servidores públicos en las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades, se efectué bajo procesos de calidad, eficiencia y transparencia, priorizando la igualdad y equidad de género en los procesos de selección;
+
+III. Implementar la política salarial, las prestaciones sociales y económicas que tenga a bien acordar el Jefe de Gobierno, así como la formalización de nombramientos de los servidores públicos de las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades, pudiendo exentarlos inclusive, del proceso de reclutamiento, selección y control de confianza por parte de la Contraloría General;
+
+IV. Implementar las acciones necesarias y suficientes que permitan que los sueldos y demás prestaciones del capital humano al servicio de las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades, se realice de manera oportuna a través de medios electrónicos y en apego a los calendarios establecidos, así como a las disposiciones vigentes relativas a la materia;
+
+V. Innovar mediante el uso y aprovechamiento de nuevas tecnologías de la información y comunicación (TICs), los procesos de selección, ingreso y administración, inherentes al capital humano de las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades;
+
+VI. Dirigir el proceso de estimación y seguimiento a la programación, asignación y ejercicio de recursos presupuestales destinados al capítulo de servicios personales de las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades;
+
+VII. Asumir la representación patronal en todas las negociaciones, ante las representaciones sindicales titulares de las condiciones generales de trabajo y contratos colectivos de trabajo vigentes en las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades, para su revisión y/o formalización de las mismas ante la autoridad correspondiente, así como ante los juicios de orden laboral;
+
+VIII. Acordar directrices para establecer la atención de las relaciones laborales con el capital humano al servicio de la Administración Pública, con base en las disposiciones constitucionales y legales aplicables y los lineamientos que fije el Jefe de Gobierno, así como resolver los asuntos laborales de las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades, cuya atención no esté a cargo de otra autoridad conforme a las disposiciones jurídicas respectivas;
+
+IX. Dictaminar la imposición, reducción o revocación de las sanciones que pretendan aplicarse a los trabajadores de las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades, dentro de los plazos previstos por las leyes y cuyo dictamen no quede a cargo de otra autoridad, conforme a las disposiciones jurídicas respectivas;
+
+X. Supervisar la difusión y el cumplimiento de la normatividad laboral en las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades;
+
+XI. Acordar las normas para la profesionalización, el desarrollo laboral y personal, a través de plataformas digitales, del capital humano adscrito a las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades;
+
+XII. Supervisar el diseño e implementación de la Universidad Laboral y Escalafón digitalizado, como un sistema de movilidad laboral ascendente de forma transparente y equitativo mediante el uso de plataformas digitales, en las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades;
+
+XIII. Supervisar la operación de las prestaciones sociales y económicas en materia educativa y de estímulos y recompensas del capital humano y/o sus beneficiarios a través de plataformas digitales;
+
+XIV. Coordinar la implementación de la cultura laboral a través de disposiciones normativas y acciones que coadyuven al desarrollo laboral, humano y profesional de grupos sustantivos de capital humano, así como establecer una administración eficaz y eficiente mediante el uso de las tecnologías;
+
+XV. Vigilar la operatividad de los Programas de Servicio Social y Prácticas Profesionales en las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades, para la implementación de un sistema de empleabilidad del Gobierno de la Ciudad de México;
+
+XVI. Asumir la representación de la Secretaría de Finanzas del Gobierno de la Ciudad de México ante las autoridades fiscales federales y locales para la presentación de avisos, declaraciones, manifestaciones y en general los actos y actividades tendientes a cumplir centralmente con las obligaciones fiscales a cargo de las Dependencias, Órganos Político Administrativos, Órganos Desconcentrados y Entidades del Gobierno de la Ciudad de México;
+
+XVII. Coordinar la administración, operación y control del Sistema Integral Desconcentrado de Nómina, mediante el cual se realizarán los registros y publicación de la Nómina de Pago, del Capital Humano de las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades que usan el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México, así como la administración del Sistema Integral de Comprobantes Fiscales Electrónicos (SICFE), el cual servirá para cumplir con las disposiciones fiscales federales, en materia de facturas electrónica (sic) y recibos de nómina digital;
+
+XVIII. Supervisar la correcta implementación de las disposiciones fiscales federales y locales para el oportuno cumplimiento de las obligaciones patronales, así como de la tramitación y pago de cuotas sindicales;
+
+XIX. Expedir los lineamientos y políticas para el diseño, implementación y operación del programa de apoyo al salario, descuento vía nómina, de los trabajadores, adscritos a las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades, así como suscribir los convenios respectivos;
+
+XX. Coordinar con la Subsecretaría de Egresos, el diseño, implementación, operación y administración del sistema de registro y control de las erogaciones de servicios personales a que se refiere la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+XXI. Asumir la presidencia de los consejos de gobierno de los entes encargados de los sistemas de pensiones y jubilaciones, así como en los fondos y fideicomisos creados a favor del capital humano al servicio de la Administración Pública;
+
+XXII. Dictaminar la procedencia de los contratos de prestadores de servicios con remuneración equivalente a la de servidores públicos de estructura;
+
+XXIII. Suscribir convenios que faciliten el acceso a bienes y servicios para el mejoramiento de la calidad de vida del capital humano al servicio de la Administración Pública, así como a sus familias;
+
+XXIV. Coordinar a las Direcciones Generales, Ejecutivas o de Área encargadas de la administración en las dependencias de la Administración Pública Central;
+
+XXV. Suscribir los documentos relativos al ejercicio de sus atribuciones o que le sean delegados; así como certificar, por sí o a través de sus Direcciones; y
+
+XXVI. Las demás que le sean conferidas por la Secretaría de Finanzas, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos y/o administrativos.
 
 > <small>(ADICIONADO, G.O. 29 DE JUNIO DE 2007)</small>
 
@@ -6164,6 +6236,196 @@ VIII. Enajenar, previo acuerdo con su superior jerárquico, los vehículos que h
 
 IX. Realizar el reporte de las asignaciones al Distrito Federal de mercancías y vehículos de procedencia extranjera.
 
+> <small>(ADICIONADO, G.O. 2 DE MAYO DE 2017)</small>
+
+Artículo 92 Octavus.- Corresponde a la Dirección General de Administración y Optimización del Capital Humano:
+
+I. Autorizar y evaluar la organización de las plazas y puestos de trabajo de las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades, en función del grado de sistematización de sus procesos y naturaleza de los bienes y servicios que ofrecen a la ciudadanía;
+
+II. Promover y garantizar bajo una perspectiva de equidad, respeto a los derechos humanos y a la diversidad, la igualdad de oportunidades y condiciones, de bienestar y estabilidad laboral del capital humano de las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades;
+
+III. Proponer para su autorización los niveles del sueldo tabular, la determinación del catálogo de puestos, los descriptivos de las percepciones y deducciones de las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades, que se incorporaran en el Sistema Único de Nómina;
+
+IV. Proponer para su autorización la política en materia de sueldos que deberán observar las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades, tomando en consideración la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+V. Emitir para su autorización el acuerdo de los nombramientos del capital humano que ingrese a las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades, de conformidad a las plazas y puestos de trabajo autorizados;
+
+VI. Asegurar y dar seguimiento al cumplimiento oportuno de las prestaciones del capital humano de las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades, consignadas en leyes, contratos y demás normatividad relativa, promoviendo la autogestión a través de las plataformas digitales y aplicaciones tecnológicas que se incorporen al Sistema Único de Nomina;
+
+VII. Evaluar y autorizar las solicitudes que presenten las dependencias, unidades administrativas, órganos desconcentrados y órganos político administrativos, para formalizar contratos de prestación de servicios personales; debiendo hacer uso de las herramientas tecnológicas dispuestas para este fin, tomando en consideración la especificidad de los servicios que se proporcionaran, el origen de los recursos y los montos autorizados en el presupuesto de egresos;
+
+VIII. Proponer las normas, disposiciones y sistemas de información electrónicos que se observaran en la instrumentación, operación, seguimiento y evaluación de los fondos, seguros, sistemas de ahorro y demás conceptos de previsión social constituidos directamente por el gobierno de la Ciudad de México a través de las dependencias, unidades administrativas, órganos desconcentrados y órganos político administrativos;
+
+IX. Proponer las disposiciones que deberán observar las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades, para la integración, actualización y resguardo del sumario histórico laboral electrónico del capital humano;
+
+X. Coordinar con las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades, que la formulación de su anteproyecto de presupuesto correspondiente al capítulo de servicios personales, se formule acorde al número de puestos de trabajo autorizados y al techo presupuestal que para tales efectos determine la Secretaría;
+
+XI. Fungir como secretario técnico en los consejos de gobierno de los entes encargados de los sistemas de pensiones y jubilaciones, así como en los fondos y fideicomisos creados a favor del capital humano al servicio de la Administración Pública;
+
+XII. Acordar con su superior jerárquico el despacho de los asuntos a su cargo;
+
+XIII. Suscribir los documentos relativos al ejercicio de sus atribuciones; así como certificar, por sí o a través de sus Direcciones; y
+
+XIV. Las demás que le sean conferidas por la Subsecretaría de Administración y Capital Humano, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>(ADICIONADO, G.O. 2 DE MAYO DE 2017)</small>
+
+Artículo 92 Novenus.- Corresponde a la Dirección General de Política Laboral:
+
+I. Emitir normas, lineamientos y asesorar a las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades de la Administración Pública, en materia de relaciones laborales;
+
+II. Establecer mecanismos que aseguren, en el ámbito de sus atribuciones, la integración, elaboración, emisión, difusión y cumplimiento de normas y lineamientos jurídicos y administrativos, en materia de relaciones laborales;
+
+III. Establecer mecanismos de mejora regulatoria en materia laboral, que permitan identificar necesidades de normatividad en los diferentes procesos de la administración en la materia, mejorar el acervo normativo e implementar acciones con el apoyo de tecnologías de la información de simplificación administrativa para contar con un gobierno eficaz, digital y transparente;
+
+IV. Dirigir las relaciones laborales y atender los asuntos referentes al capital humano al servicio de las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades, con base en las disposiciones constitucionales y legales aplicables, conforme lo disponga el Jefe de Gobierno, el Secretario de Finanzas y el Subsecretario de Administración y Capital Humano;
+
+V. Atender los asuntos referentes a la instrumentación, aplicación, operación y supervisión de las Condiciones Generales de Trabajo y los Contratos Colectivos de Trabajo de las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades;
+
+VI. Difundir la normatividad en materia laboral del capital humano, promover su cumplimiento y vigilar su aplicación;
+
+VII. Tramitar licencias sin goce de sueldo hasta por tres meses por razones de carácter personal, a los servidores públicos superiores, mandos medios, líderes coordinadores y enlaces, no pudiendo solicitar otra hasta después de que haya transcurrido un año de concluida la última licencia tramitada;
+
+VIII. Establecer los mecanismos con las instituciones públicas y privadas, para que el capital humano del Gobierno de la Ciudad de México, pueda tener acceso a la adquisición de vivienda dentro del territorio de la Ciudad de México;
+
+IX. Participar en el desarrollo, operación, actualización y difusión, con el apoyo de las dependencias, unidades administrativas, órganos desconcentrados y órganos político administrativos, en la prevención de riesgos de la seguridad e integridad de los trabajadores en sus centros de trabajo;
+
+X. Implementar un Sistema de Gestión, Seguridad y Salud en el Trabajo, garantizando la integración y funcionamiento de la Comisión Central y de las demás Comisiones de Seguridad y Salud en el Trabajo del Gobierno de la Ciudad de México, así como el seguimiento de las incidencias detectadas en las verificaciones hasta su conclusión;
+
+XI. Diseñar, promover, difundir, ejecutar y evaluar una cultura de prevención de accidentes y enfermedades, a través de programas y campañas de sensibilización, centrada en la promoción del concepto de Seguridad y Salud en el Trabajo, para garantizar el derecho de los trabajadores a un medio ambiente de trabajo seguro y saludable;
+
+XII. Promover e implementar los servicios preventivos de la Medicina del Trabajo, así como la mejora regulatoria en materia de Seguridad y Salud en el Trabajo;
+
+XIII. Desarrollar e implementar sistemas de validación de funciones que coadyuven al cumplimiento de las obligaciones patronales, relacionadas con temas de Seguridad y Salud en el Trabajo;
+
+XIV. Suscribir los documentos relativos al ejercicio de sus atribuciones; así como certificar por sí, o a través de sus Direcciones; y
+
+XV. Las demás que le sean conferidas por la Subsecretaría de Administración y Capital Humano, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
+ADICIONADO, G.O. 2 DE MAYO DE 2017)
+
+Artículo 92 Décimus.- Corresponde a la Dirección General de Desarrollo Humano y Profesionalización:
+
+I. Dirigir la realización de estudios que permitan detectar las competencias requeridas por el Capital Humano que labora en las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades, para realizar las actividades asignadas a su puesto de trabajo, considerando la innovación de los procesos mediante la digitalización y los que se requieran para los proyectos derivados de los programas estratégicos generales y sectoriales;
+
+II. Regular los cursos de inducción relativos a la organización, estructuración y relación laboral, así como la aplicación de la evaluación digital, al capital humano de nuevo ingreso que vaya a ocupar plaza de base o estabilidad laboral en las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades;
+
+III. Implementar, normar, conducir y vigilar el sistema de profesionalización de la Administración Pública en línea a través de la Universidad Laboral considerando al capital humano técnico-operativo y de estructura, a fin de promover su crecimiento, desarrollo y promoción, así como su estabilidad en el empleo, en coadyuvancia con la Secretaría de Educación y de los convenios de colaboración con instituciones educativas públicas y/o privadas para su ejecución;
+
+IV. Dirigir, normar y supervisar la movilidad laboral y profesional ascendente del capital humano a través del sistema del servicio profesional de carrera y escalafón digitalizado;
+
+V. Implementar, dirigir y normar las prestaciones sociales y económicas que se le otorgan a los hijos de los trabajadores de base sindicalizados del Gobierno de la Ciudad de México, así como lo relacionado a estímulos y recompensas del capital humano a través de plataformas digitales;
+
+VI. Impulsar la generación del conocimiento a través de la implementación de programas especializados que mejoren el desarrollo laboral, humano y profesional del capital humano del Gobierno de la Ciudad de México;
+
+VII. Normar, implementar e innovar la cultura laboral mediante acciones y herramientas tecnológicas que permitan potencializar la competitividad de grupos sustantivos del capital humano generando la eficacia y eficiencia de la administración pública del Gobierno de la Ciudad de México;
+
+VIII. Normar, autorizar y vigilar los Programas de Capacitación, servicio social y prácticas profesionales del capital humano de las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades, para la implementación de un sistema de empleabilidad del Gobierno de la Ciudad de México;
+
+IX. Crear convenios de vinculación con instituciones educativas nacionales y/o extranjeras, públicas y/o privadas para fomentar la captación de capital humano para la realización del servicio social y prácticas profesionales en las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades;
+
+X. Regular la organización, administración y funcionamiento de los Centros de Atención y Cuidado Infantil (CACI) de la Secretaría, en coadyuvancia con la Secretaría de Educación de la Ciudad de México;
+
+XI. Normar y vigilar el funcionamiento, así como la operación de los Centros de Atención y Cuidado Infantil (CACI) de los Órganos Político Administrativos del Gobierno de la Ciudad de México;
+
+XII. Suscribir los documentos relativos al ejercicio de sus atribuciones; así como certificar, por sí o a través de sus Direcciones; y
+
+XIII. Las demás que le sean conferidas por la Subsecretaría de Administración y Capital Humano, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos de la legislación local o federal.
+
+> <small>(ADICIONADO, G.O. 2 DE MAYO DE 2017)</small>
+
+###### Artículo 92.
+
+Undécimos (sic).- Corresponde a la Dirección General de Uninómina del Capital Humano:
+
+I. Aplicar los lineamientos, políticas, reglas de operación, descriptivos de conceptos nominales y demás instrumentos normativos para la operación, administración y control de los sistemas informáticos a través del cual se registrará y procesará los pagos de sueldos y prestaciones del capital humano, adscrito a las dependencias, unidades administrativas, órganos desconcentrados, órgano (sic) político administrativos y entidades;
+
+II. Implementar, operar y administrar las plataformas informáticas, sitios web y en general los medios de comunicación digital que permitan entregar a los usuarios, los reportes, informes y documentos digitales derivados del procesamiento de la nómina;
+
+III. Aplicar las disposiciones fiscales para cumplir con las obligaciones de entero de Cuotas y Aportaciones de Seguridad Social, Impuesto Sobre Nóminas, retenciones del Impuesto Sobre la Renta, Impuesto al Valor Agregado y demás compromisos fiscales derivados de la relación laboral, de las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades que utilizan el Registro Federal de Contribuyentes del área central;
+
+IV. Autorizar el trámite de pago del Fondo de Ahorro de Retiro Jubilatorio, Fondo de Ahorro Capitalizable, Seguro Institucional y demás obligaciones contractuales, así como, tramitar y gestionar el pago a la representación sindical autorizada y en general a terceros, de las cantidades correspondientes a las retenciones hechas por su cuenta al capital humano;
+
+V. Aplicar los convenios, lineamientos, políticas, reglas de operación, calendarios y sistema informático para la operación y administración del programa de apoyo al salario (descuentos vía nómina), del capital humano, adscrito a las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades;
+
+VI. Implementar, operar y administrar en coordinación con la Subsecretaría de Egresos el sistema de registro y control de las erogaciones de servicios personales a que se refiere la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+VII. Supervisar la operación, administración y actualización del Sistema Integral de Comprobantes Fiscales Electrónicos, SICFE, mismo que deben utilizar las dependencias, unidades administrativas, órganos desconcentrados, órganos político administrativos y entidades, para cumplir con las disposiciones fiscales federales en materia de facturas electrónicas y recibos de nómina digital;
+
+VIII. Cumplir con las obligaciones derivadas de la designación del titular de la Subsecretaría como representante legal del Gobierno de la Ciudad de México, ante los Organismos Fiscales Federales y Locales, en términos de lo dispuesto en la fracción XVI del artículo 34 Bis 1 de este Reglamento;
+
+IX. Suscribir los documentos relativos al ejercicio de sus atribuciones; así como certificar, por sí o a través de sus Direcciones; y
+
+X. Las demás que le sean conferidas por la Subsecretaría de Administración y Capital Humano, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>(ADICIONADO, G.O. 2 DE MAYO DE 2017)</small>
+
+Artículo 92 Duodecimus.- Corresponde a las Direcciones Generales, Ejecutivas o de Área encargadas de la administración en las Dependencias, en el ámbito de su competencia las siguientes atribuciones:
+
+I. Coadyuvar en la programación y participar en la administración de los recursos humanos y materiales, así como en los recursos financieros destinados a los gastos por servicios personales y materiales de las Dependencias, conforme a las políticas, lineamientos, criterios y normas determinadas por la Secretaría de Finanzas y la Oficialía Mayor;
+
+II. Auxiliar a las Dependencias en los actos necesarios para el cierre del ejercicio anual, de conformidad con los plazos legales y criterios emitidos por la Secretaría de Finanzas;
+
+III. Coordinar la integración de los datos que requieran las Dependencias para presentar sus informes trimestrales de avance programático-presupuestal y la información para la elaboración de la Cuenta Pública;
+
+IV. Participar en el registro de las erogaciones realizadas por las Dependencias;
+
+V. Coadyuvar en la coordinación, integración y tramitación de los programas que consignen inversión, así como dar seguimiento a su ejecución;
+
+VI. Elaborar el registro sobre el estricto control financiero del gasto, en cuanto a pago de nómina del personal de base y confianza, así como a los prestadores de servicios profesionales, bajo el régimen de honorarios o cualquier otra forma de contratación;
+
+VII. Participar en la formulación, instrumentación y evaluación del programa anual de Modernización Administrativa, en el marco del Programa General de Desarrollo del Distrito Federal;
+
+VIII. Elaborar, de acuerdo a las disposiciones jurídicas y administrativas aplicables, las estrategias para formular el Programa Anual de Adquisiciones, Arrendamientos y Servicios, de conformidad con las políticas y programas de la Dependencia y sus áreas adscritas, así como supervisar su aplicación; y coordinar la recepción, guarda, suministro y control de los bienes muebles, y la asignación y baja de los mismos;
+
+IX. Instrumentar, de conformidad con la Normatividad aplicable, los procesos de licitaciones públicas para la adquisición de bienes, arrendamiento de bienes inmuebles y contratación de servicios que establezca la Ley de Adquisiciones, así como sus procedimientos de excepción;
+
+X. Coadyuvar para la adquisición de bienes, contratación de servicios y arrendamiento de bienes inmuebles, que realizan los titulares de las Dependencias, observando al efecto las disposiciones jurídicas y administrativas aplicables;
+
+XI. Aplicar al interior de las dependencias, unidades administrativas, unidades administrativas de apoyo técnico-operativo u órganos desconcentrados, las políticas, normas, sistemas, procedimientos y programas en materia de administración y desarrollo del personal, de organización, de sistemas administrativos, servicios generales, de la información que se genere en el ámbito de su competencia, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XII. Coadyuvar, en el ámbito de su competencia, en la vigilancia de la actuación de las diversas comisiones que se establezcan al interior de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados;
+
+XIII. Realizar las acciones que permitan instrumentar al interior de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados el Servicio Público de Carrera, así como vigilar el cumplimiento de las disposiciones jurídicas y administrativas aplicables;
+
+XIV. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como los demás actos jurídicos de carácter administrativo o de cualquier otra índole que se requiera, dentro del ámbito de su competencia, para el buen desempeño de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados;
+
+XV. Participar en la supervisión de la ejecución de obras de mantenimiento, remodelación y reparación de los bienes que requieran las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados, así como opinar sobre la contratación de los servicios generales, de conformidad con lo que señalen las disposiciones jurídicas y administrativas aplicables;
+
+XVI. Opinar sobre la contratación conforme a la Ley de Adquisiciones y la Ley de Obras Públicas, para la adecuada operación de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados de su sector;
+
+XVII. Participar en la planeación y coordinar la prestación de servicios de apoyo que requieran las diversas Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados de su sector;
+
+XVIII. Certificar los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo; y
+
+XIX. Elaborar el programa interno de protección civil de los inmuebles del patrimonio inmobiliario de la ciudad que ocupan las unidades administrativas de las dependencias que administran;
+
+XX. Atender, tramitar y autorizar las solicitudes de los servicios de traslado, viáticos y demás erogaciones relacionadas con las comisiones oficiales nacionales e internacionales, en el marco de la normatividad aplicable en la materia, y
+
+XXI. Las demás que le sean conferidas por el Secretario de Finanzas, así como las que correspondan a las unidades que le sean Adscritas
+
+> <small>(ADICIONADO, G.O. 2 DE MAYO DE 2017)</small>
+
+Artículo 92 Tertius Decimus.- Corresponde a la Dirección General de Administración en la Secretaría de Movilidad, además de las atribuciones a que alude el artículo 92 Duodecimus del presente Reglamento Interior, las siguientes:
+
+I. Celebrar convenios con los medios de comunicación, con la participación de las diversas Unidades y áreas del Sector, para dar a conocer a los usuarios y público en general información diversa en materia de movilidad transporte y vialidad, así como bloqueos de vialidades y/o hechos de tránsito, plantones y manifestaciones en la Ciudad y coordinarse con las áreas de la Secretaría de Seguridad Pública, para atender y tomar medidas encaminadas (sic) su atención y solución;
+
+II. Realizar las acciones necesarias que propicien en todo momento, la innovación tecnológica del Sector de Movilidad;
+
+III. Proveer de los insumos necesarios a las Unidades Administrativas, áreas de Apoyo Técnico Operativo y en su caso, al Órgano Desconcentrado, en forma oportuna, para el eficiente desarrollo de sus atribuciones;
+
+IV. Proporcionar en forma oportuna los equipos que se requieran y sean necesarios y facilitar su mantenimiento, a las Unidades Administrativas y áreas de Apoyo Técnico que integran el Sector de Movilidad;
+
+V. Propiciar el desarrollo de aplicaciones tecnológicas en forma oportuna y coordinada con las Unidades competentes de la Secretaría y facilitar la prestación del apoyo informático al Sector de Movilidad;
+
+VI. Facilitar a las Unidades competentes de la propia Secretaría, los elementos necesarios, para administrar y mantener la red e internet de la Dependencia;
+
+VII. Asistir a las áreas en la mejora incremental o radical de los procesos mediante metodologías de administración de procesos, en la incorporación de innovaciones a los mismos, su correspondiente documentación y en los cambios organizacionales que estos ocasionan;
+
+VIII. Coordinar las acciones en la Secretaría para implementar, mantener e incrementar la calidad de sus procesos, productos y servicios que permitan obtener y mantener su certificación bajo normas internacionales; y
+
+IX. Proveer con oportunidad los elementos necesarios a las Unidades y áreas competentes del Sector, para actualizar y sistematizar la información en medios electrónicos y/o documental para su permanente actualización.
+
 #### SECCION X
 
 DE LA SECRETARIA DE TRANSPORTES Y VIALIDAD.
@@ -7124,217 +7386,9 @@ XII. Recuperar espacios públicos a través de la programación de actividades a
 
 DE LA OFICIALIA MAYOR.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 98.
 
-Corresponde a la Dirección General de Administración y Desarrollo de Personal:
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-I. Proponer las normas para regular los asuntos del personal al servicio de la Administración Pública, con base en los criterios que fije la Oficialía Mayor y la Contraloría General en el ámbito de sus respectivas competencias;
-
-> <small>(REFORMADA, G.O. 31 MARZO DE 2010)</small>
-
-II. Autorizar los programas de contratación de los prestadores de servicios profesionales de las dependencias, órganos desconcentrados, entidades y, en su caso, de las delegaciones;
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
-
-III. Llevar a través del Sistema Integral Desconcentrado de Nómina, los registros del personal de las dependencias, órganos desconcentrados, órganos político-administrativos, así como de las entidades que utilizan el Registro Federal de Contribuyentes del Gobierno del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
-
-IV. Diseñar y proponer los tabuladores de sueldos del personal técnico-operativo, de estructura y eventual de las dependencias, órganos político-administrativos, órganos desconcentrados y entidades;
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
-
-V. Planear, dirigir y controlar la administración de sueldos y salarios;
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-VI. Tramitar y gestionar el pago a la representación sindical autorizada y en general a terceros, de las cantidades correspondientes a las retenciones hechas por su cuenta al personal de las dependencias, órganos político-administrativos y órganos desconcentrados, incorporados en el Sistema Integral Desconcentrado de Nómina;
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
-
-VII. Analizar, dictaminar y controlar el número de plazas, nivel salarial y demás características de las mismas, del personal técnico-operativo adscrito a las dependencias, órganos político-administrativos, órganos desconcentrados y entidades;
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
-
-VIII. Diseñar y proponer modificaciones o adiciones a los Catálogos de Puestos para las dependencias, órganos político-administrativos, órganos desconcentrados y entidades;
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-IX. Expedir e incorporar al Sistema Integral Desconcentrado de Nómina, los conceptos nominales, incidencias y movimientos que afecten las percepciones y deducciones del personal;
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
-
-X. Validar y dar seguimiento a la programación, asignación y ejercicio de los recursos presupuestales destinados al capítulo de servicios personales de las dependencias, órganos político-administrativos, órganos desconcentrados y entidades;
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
-
-XI. Dictaminar las modificaciones a las estructuras ocupacionales de las dependencias, órganos político-administrativos, órganos desconcentrados y entidades;
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
-
-XII. Emitir las credenciales de identificación de los trabajadores adscritos a las dependencias y órganos desconcentrados;
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XIII. Recibir y consolidar la información mensual del Impuesto Sobre la Renta retenido a personas físicas con motivo del pago de sueldos y salarios, honorarios, arrendamiento de bienes inmuebles y otras retenciones de las dependencias, órganos político-administrativos, órganos desconcentrados y entidades que utilizan el Registro Federal de Contribuyentes del Gobierno del Distrito Federal, con la finalidad de tramitar su pago oportuno ante la Secretaría de Finanzas y presentar la declaración respectiva ante la Secretaría de Hacienda y Crédito Público;
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XIV. Recibir y consolidar la información anual del Impuesto Sobre la Renta retenido a personas físicas con motivo del pago de sueldos y salarios, honorarios, arrendamiento de bienes inmuebles y otras retenciones de las dependencias, órganos político-administrativos, órganos desconcentrados y entidades que utilizan el Registro Federal de Contribuyentes del Gobierno del Distrito Federal, con la finalidad de formular y presentar oportunamente las declaraciones anuales informativas ante la Secretaría de Hacienda y Crédito Público;
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XV. Recibir y consolidar la información del Impuesto Sobre Nóminas, derivado del pago de sueldos y salarios al personal de las dependencias, órganos político - administrativos y órganos desconcentrados, con la finalidad de tramitar su pago oportunamente ante la Secretaría de Finanzas y presentar la declaración respectiva ante la Tesorería del D.F.;
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
-
-XVI. Proponer la adquisición o actualización de los programas y equipos de cómputo necesarios para la operación del Sistema Integral Desconcentrado de Nómina del Gobierno del Distrito Federal;
-
-XVII. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
-
-XVIII. Establecer los procesos administrativos para la operación y control del Sistema Integral Desconcentrado de Nómina del Gobierno del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
-
-XIX. Realizar los procesos para la emisión de la Nómina de Pago de los trabajadores, con base a la información ingresada al Sistema Integral Desconcentrado de Nómina del Gobierno del Distrito Federal, por parte de las dependencias, órganos político-administrativos, órganos desconcentrados y entidades, cuyo personal se encuentra registrado en el mismo;
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
-
-XX. Proporcionar la información y los reportes que requieran los usuarios del Sistema Integral Desconcentrado de Nómina del Gobierno del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
-
-XXI. Administrar y resguardar la Base de Datos del Sistema Integral Desconcentrado de Nómina del Gobierno del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
-
-XXII. Publicar la nómina de los trabajadores de las dependencias, órganos político-administrativos y órganos desconcentrados registrados en el Sistema de Nómina Central del Gobierno del Distrito Federal, a través de la página de Internet del mismo;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXIII. Dirigir y conducir las relaciones laborales del personal al servicio de la Administración Pública, con base en las disposiciones constitucionales y legales aplicables y los lineamientos que fije el Jefe de Gobierno y cuya dirección y conducción, conforme las disposiciones jurídicas respectivas, no estén a cargo de otra autoridad;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXIV. Resolver los asuntos laborales de la Administración Pública cuya atención, conforme las disposiciones jurídicas respectivas, no esté a cargo de otra autoridad;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXV. Dictaminar la imposición, reducción o revocación de las sanciones que pretendan aplicarse a los trabajadores de la Administración Pública dentro de los plazos previstos por las leyes y cuyo dictamen no quede a cargo de otra autoridad, conforme las disposiciones jurídicas respectivas;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXVI. Someter al Oficial Mayor, para su aprobación los dictámenes de terminación de los efectos del nombramiento de los trabajadores de la Administración Pública, que no sea competencia de otra autoridad;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXVII. Proponer la designación de los representantes propietarios y suplentes en las Comisiones Mixtas de Escalafón y Seguridad e Higiene, Comisión Mixta de Fondo de Estímulos y Recompensas, así como las Reglas de su actuación y la forma en que habrá de mantenerse la relación con éstas y con las demás Comisiones que se integren y con el Sindicato Único de Trabajadores del Gobierno del Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXVIII. Coordinar la formulación, aplicación y operación de las Condiciones Generales de Trabajo, difundirlas entre el personal, vigilar su cumplimiento y dar el seguimiento respectivo;
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XXIX. Administrar los Centros de Desarrollo Infantil de la Oficialía Mayor, vigilando que el servicio educativo-asistencial que se otorga a los hijos de los trabajadores y trabajadoras vigentes, de la Administración Pública Centralizada del Distrito Federal, sea de calidad y en apego a los lineamientos en materia educativa, proporcionando además servicios médicos, pedagógicos, psicológicos, nutricionales y de trabajo social, que coadyuven al desarrollo integral del menor, durante el horario de servicio establecido;
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XXX. Dictar normas para la prestación del servicio que brindan los Centros de Desarrollo Infantil, administrados por los órganos político-administrativos;
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XXXI. Emitir normas, lineamientos y asesorar a las dependencias, unidades administrativas, órganos político-administrativos, órganos desconcentrados y entidades de la Administración Pública en materia de relaciones laborales;
-
-> <small>(REFORMADA, G.O. 31 DE MAYO DE 2013)</small>
-
-XXXII. Coadyuvar con la Dirección Ejecutiva de Apoyo Jurídico de la Oficialía Mayor, en la atención de los asuntos de naturaleza laboral de la Oficialía Mayor;
-
-> <small>(REFORMADA, G.O. 31 DE MAYO DE 2013)</small>
-
-XXXIII. Ejecutar Realizar las acciones gestiones que competen a la Oficialía Mayor en materia de Servicio Público de Carrera;
-
-> <small>(REFORMADA, G.O. 31 DE MAYO DE 2013)</small>
-
-XXXIV. Participar en la propuesta del catálogo ocupacional y del tabulador de compensaciones del Servicio Público de Carrera con relación al tabulador de puestos de la Administración Pública del Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXXV. Vigilar que las plazas del Sistema del Servicio Público de Carrera sean ocupadas conforme a las normas y políticas aplicables;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXXVI. Participar en el desarrollo, operación, actualización y difusión, con el apoyo de las dependencias, órganos político-administrativos y los órganos desconcentrados, del modelo, estructura, proceso y movimientos escalafonarios;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXXVII. Normar, desarrollar, operar y evaluar el Sistema General de Capacitación y Enseñanza Abierta del Personal de la Administración Pública Centralizada, así como promover, difundir y evaluar los Programas de Servicio Social y Prácticas Profesionales;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXXVIII. Normar, autorizar y vigilar los Programas de Capacitación y Enseñanza Abierta del Personal de la Administración Pública Desconcentrada del Distrito Federal, así como los Programas de Servicio Social y Prácticas Profesionales;
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XXXIX. Normar, asesorar, desarrollar, supervisar y evaluar el Sistema General de Capacitación y Enseñanza Abierta del Personal de la Administración Pública Centralizada, conforme a sus necesidades reales de operación, así como promover y difundir los Programas de Servicio Social y Prácticas Profesionales.
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XL. Coordinar la creación, revisión, modificación y actualización del Catálogo General y Catálogo de Puestos de los Trabajadores de Base de la Administración Pública del Distrito Federal, y mecanismos de aplicación de remuneraciones, incentivos y estímulos al personal;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XLI. Coordinar la política salarial de los trabajadores de base y eventuales, al servicio de la Administración Pública del Distrito Federal;
-
-XLII. (DEROGADA, G.O. 30 DE MARZO DE 2009)
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XLIII. Vigilar que las normas y herramientas aplicadas al funcionamiento de los sistemas informáticos, se adecuen a la normativa para la operación, seguimiento, actualización, evaluación, información y aplicación de conceptos nominales, incidencias y movimientos que afecten las percepciones y deducciones del personal, así como de los seguros destinados a la protección del personal;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XLIV. Normar, formular, operar y verificar el otorgamiento de las prestaciones económicas, sociales y/o en especie, así como de los seguros destinados a la protección del personal y la difusión y administración de dichos seguros;
-
-XLV. (DEROGADA, G.O. 31 DE MAYO DE 2013)
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XLVI. Operar y verificar la aplicación de descuentos vía nómina, solicitados por el Fondo de la Vivienda del ISSSTE, a trabajadores derivados de los programas de créditos para la vivienda;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XLVII. Tramitar, supervisar y evaluar los procedimientos para la solicitud de pago de prima de Seguro Institucional y Seguro Colectivo de retiro del personal de la Secretaría de Seguridad Pública;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XLVIII. Tramitar, supervisar y evaluar los procedimientos para la solicitud de pago de aportaciones patronales, como Fondo de Ahorro de Retiro Jubilatorio, Fondo de Ahorro Capitalizable, Sistema de Ahorro para el Retiro y Fondo de la Vivienda del ISSSTE, así como las aportaciones patronales derivadas de los laudos, como Sistema de Ahorro para el Retiro, Fondo de la Vivienda del ISSSTE, Fondo de Ahorro Capitalizable y Seguro Institucional;
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XLIX. Participar en el desarrollo, operación, actualización y difusión, con el apoyo de las dependencias, órganos político-administrativos y los órganos desconcentrados, en la prevención de riesgos de la seguridad e integridad de los trabajadores en sus centros de trabajo;
-
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-L. Proponer la designación de los representantes propietarios y suplentes en los fideicomisos de los fondos de ahorro, sujetándose a las normas establecidas para su operación.
-
-> <small>(ADICIONADA, G.O. 31 DE MAYO DE 2013)</small>
-
-LI. Suscribir los documentos relativos al ejercicio de sus atribuciones;
-
-> <small>(ADICIONADA, G.O. 31 DE MAYO DE 2013)</small>
-
-LII. Certificar, por sí o a través de sus Direcciones, los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo; y
-
-> <small>(ADICIONADA, G.O. 31 DE MAYO DE 2013)</small>
-
-LIII. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+(DEROGADO, G.O. 2 DE MAYO DE 2017)
 
 ###### Artículo 99.
 
@@ -7522,81 +7576,9 @@ XL. Las demás que le sean conferidas por el Oficial Mayor, así como las que co
 
 (DEROGADO, G.O. 15 DE MARZO DE 2016)
 
-> <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
+Artículo 101 G.- (DEROGADO, G.O. 2 DE MAYO DE 2017)
 
-###### Artículo 101-G.
-
-Corresponde a las Direcciones Generales, Ejecutivas o de Área encargadas de la administración en las Dependencias, en el ámbito de su competencia las siguientes atribuciones:
-
-I. Coadyuvar en la programación y participar en la administración de los recursos humanos y materiales, así como en los recursos financieros destinados a los gastos por servicios personales y materiales de las Dependencias, conforme a las políticas, lineamientos, criterios y normas determinadas por la Oficialía Mayor y la Secretaría de Finanzas;
-
-II. Auxiliar a las Dependencias en los actos necesarios para el cierre del ejercicio anual, de conformidad con los plazos legales y criterios emitidos por la Secretaría de Finanzas;
-
-III. Coordinar la integración de los datos que requieran las Dependencias para presentar sus informes trimestrales de avance programático-presupuestal y la información para la elaboración de la Cuenta Pública;
-
-IV. Participar en el registro de las erogaciones realizadas por las Dependencias;
-
-V. Coadyuvar en la coordinación, integración y tramitación de los programas que consignen inversión, así como dar seguimiento a su ejecución;
-
-VI. Elaborar el registro sobre el estricto control financiero del gasto, en cuanto a pago de nómina del personal de base y confianza, así como a los prestadores de servicios profesionales, bajo el régimen de honorarios o cualquier otra forma de contratación;
-
-VII. Participar en la formulación, instrumentación y evaluación del programa anual de Modernización Administrativa, en el marco del Programa General de Desarrollo del Distrito Federal;
-
-VIII. Elaborar, de acuerdo a las disposiciones jurídicas y administrativas aplicables, las estrategias para formular el Programa Anual de Adquisiciones, Arrendamientos y Servicios, de conformidad con las políticas y programas de la Dependencia y sus áreas adscritas, así como supervisar su aplicación; y coordinar la recepción, guarda, suministro y control de los bienes muebles, y la asignación y baja de los mismos;
-
-IX. Instrumentar, de conformidad con la Normatividad aplicable, los procesos de licitaciones públicas para la adquisición de bienes, arrendamiento de bienes inmuebles y contratación de servicios que establezca la Ley de Adquisiciones, así como sus procedimientos de excepción;
-
-X. Coadyuvar para la adquisición de bienes, contratación de servicios y arrendamiento de bienes inmuebles, que realizan los titulares de las Dependencias, observando al efecto las disposiciones jurídicas y administrativas aplicables;
-
-XI. Aplicar al interior de las dependencias, unidades administrativas, unidades administrativas de apoyo técnico-operativo u órganos desconcentrados, las políticas, normas, sistemas, procedimientos y programas en materia de administración y desarrollo del personal, de organización, de sistemas administrativos, servicios generales, de la información que se genere en el ámbito de su competencia, de conformidad con las disposiciones jurídicas y administrativas aplicables;
-
-XII. Coadyuvar, en el ámbito de su competencia, en la vigilancia de la actuación de las diversas comisiones que se establezcan al interior de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico- Operativo u Órganos Desconcentrados;
-
-XIII. Realizar las acciones que permitan instrumentar al interior de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados el Servicio Público de Carrera, así como vigilar el cumplimiento de las disposiciones jurídicas y administrativas aplicables;
-
-XIV. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como los demás actos jurídicos de carácter administrativo o de cualquier otra índole que se requiera, dentro del ámbito de su competencia, para el buen desempeño de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados;
-
-XV. Participar en la supervisión de la ejecución de obras de mantenimiento, remodelación y reparación de los bienes que requieran las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados, así como opinar sobre la contratación de los servicios generales, de conformidad con lo que señalen las disposiciones jurídicas y administrativas aplicables;
-
-XVI. Opinar sobre la contratación conforme a la Ley de Adquisiciones y la Ley de Obras Públicas, para la adecuada operación de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados de su sector;
-
-XVII. Participar en la planeación y coordinar la prestación de servicios de apoyo que requieran las diversas Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados de su sector;
-
-XVIII. Certificar los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo; y
-
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
-
-XIX. Elaborar el programa interno de protección civil de los inmuebles del patrimonio inmobiliario de la ciudad que ocupan las unidades administrativas de las dependencias que administran;
-
-> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2016)</small>
-
-XX. Atender, tramitar y autorizar las solicitudes de los servicios de traslado, viáticos y demás erogaciones relacionadas con las comisiones oficiales nacionales e internacionales, en el marco de la normatividad aplicable en la materia, y
-
-> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2016)</small>
-
-XXI. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas
-
-> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2016)</small>
-
-Artículo 101 G Bis.- Corresponde a la Dirección General de Administración en la Secretaría de Movilidad, además de las atribuciones a que alude el artículo 101 G del presente Reglamento Interior, las siguientes:
-
-I. Celebrar convenios con los medios de comunicación, con la participación de las diversas Unidades y áreas del Sector, para dar a conocer a los usuarios y público en general información diversa en materia de movilidad transporte y vialidad, así como bloqueos de vialidades y/o hechos de tránsito, plantones y manifestaciones en la Ciudad y coordinarse con las áreas de la Secretaría de Seguridad Pública, para atender y tomar medidas encaminadas (sic) su atención y solución;
-
-II. Realizar las acciones necesarias que propicien en todo momento, la innovación tecnológica del Sector de Movilidad;
-
-III. Proveer de los insumos necesarios a las Unidades Administrativas, áreas de Apoyo Técnico Operativo y en su caso, al Órgano Desconcentrado, en forma oportuna, para el eficiente desarrollo de sus atribuciones;
-
-IV. Proporcionar en forma oportuna los equipos que se requieran y sean necesarios y facilitar su mantenimiento, a las Unidades Administrativas y áreas de Apoyo Técnico que integran el Sector de Movilidad;
-
-V. Propiciar el desarrollo de aplicaciones tecnológicas en forma oportuna y coordinada con las Unidades competentes de la Secretaría y facilitar la prestación del apoyo informático al Sector de Movilidad;
-
-VI. Facilitar a las Unidades competentes de la propia Secretaría, los elementos necesarios, para administrar y mantener la red e internet de la Dependencia;
-
-VII. Asistir a las áreas en la mejora incremental o radical de los procesos mediante metodologías de administración de procesos, en la incorporación de innovaciones a los mismos, su correspondiente documentación y en los cambios organizacionales que estos ocasionan;
-
-VIII. Coordinar las acciones en la Secretaría para implementar, mantener e incrementar la calidad de sus procesos, productos y servicios que permitan obtener y mantener su certificación bajo normas internacionales; y
-
-IX. Proveer con oportunidad los elementos necesarios a las Unidades y áreas competentes del Sector, para actualizar y sistematizar la información en medios electrónicos y/o documental para su permanente actualización.
+Artículo 101 G Bis.- (DEROGADO, G.O. 2 DE MAYO DE 2017)
 
 > <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
 
@@ -7720,7 +7702,7 @@ IX. Dictaminar la estructura orgánica de las unidades administrativas, dependen
 
 X. Asesorar a las unidades administrativas, dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal en el diseño de sus estructuras orgánicas, manuales administrativos, procesos y procedimientos y programas de prestadores de servicios, conforme a los mecanismos de coordinación y procedimientos de trabajo que se establezcan al efecto, emitiendo su opinión técnica, cuando proceda;
 
-XI. Dictaminar la procedencia de los contratos de prestadores de servicios con remuneración equivalente a la de servidores públicos de estructura, previo a la aprobación de los respectivos programas por parte de la Unidad Administrativa competente de la Oficialía Mayor;
+XI. (DEROGADA, G.O. 2 DE MAYO DE 2017)
 
 XII. Revisar, dictaminar y, en su caso, registrar los manuales administrativos y específicos de operación de las dependencias, unidades administrativas, órganos desconcentrados, órganos político-administrativos, entidades, comisiones, comités y cualquier otro órgano administrativo colegiado que constituya la Administración Pública del Distrito Federal;
 
@@ -19596,8 +19578,34 @@ OCTAVO.- Los trabajadores de base y lisia de raya base, con y sin dígito sindic
 
 G.O. 28 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
 
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 2 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- A las Unidades Administrativas de nueva creación se les transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor.
+
+CUARTO.- La transferencia a que se hace referencia en el artículo anterior incluirá personal, mobiliario, equipos, instrumentos, vehículos, maquinaria, aparatos, archivos y en general todos los efectos y dispositivos que tienen asignados y los que se requieran para la atención de los asuntos a su cargo, así como los recursos presupuestales correspondientes, de conformidad con las disposiciones jurídicas, administrativas y laborales aplicables.
+
+QUINTO.- Las Dependencias que por virtud de este Decreto se modifican, deberán adecuar sus estructuras orgánicas y actualizar los Manuales Administrativos en los plazos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor.
+
+SEXTO.- Las referencias hechas en otros ordenamientos jurídicos e instrumentos administrativos a la Dirección General de Administración y Desarrollo de Personal, se entenderán hechas a la Subsecretaría de Administración y Capital Humano.
+
+SÉPTIMO.- Las referencias hechas en otros ordenamientos jurídico (sic) de instrumentos administrativos a las Dependencias y Unidades Administrativas que por virtud de este Decreto hubieren dejado de tener competencia en la materia que regulan, se entenderán hechas a la Dependencia y nuevas Unidades Administrativas que derivado del presente Decreto cuenten con las facultades correspondientes.
+
+OCTAVO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite o pendientes de resolución, operación, administración o contratación, deberán ser atendidos por la Subsecretaría de Administración y Capital Humano dentro de los plazos establecidos para el efecto.
+
+NOVENO.- Para dar cumplimiento a las obligaciones en materia de transparencia se tendrá un plazo de 45 días naturales para la publicación en el portal de la Dependencia de la información de la Ley de Trasparencia, Acceso a la Información Pública y rendición de cuentas de la Ciudad de México y de 65 días naturales para publicar en la plataforma nacional de transparencia las obligaciones establecidas en la Ley General de Transparencia y Acceso a la Información Pública.
+
+DÉCIMO.- Para la modificación de los Sistemas de Datos Personales, la Secretaría de Finanzas tendrá un plazo de 90 días naturales a partir de la transferencia de los mismos, a efecto de cumplir con la (sic) establecido en la Ley de Protección de Datos Personales del Distrito Federal y los Lineamientos para la Protección de Datos Personales del Distrito Federal, emitidos por el Instituto de Acceso a la Información Pública y Protección de Datos Personales.
+
+DÉCIMO PRIMERO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
