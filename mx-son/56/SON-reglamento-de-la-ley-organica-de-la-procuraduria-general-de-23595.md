@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-235
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-26"
-last_updated: "2015-09-28"
+last_updated: "2017-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL (SIC) JUSTICIA DEL ESTADO DE SONORA, PUBLICADO EN LA SECCIÓN II DEL NUMERO 35 DEL B.O. DE 2 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO]</small>
+
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE MAYO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección III del Boletín Oficial del Estado Sonora, el lunes 26 de noviembre de 2001.
 
@@ -717,11 +719,11 @@ XV.- Revisar, valorar y hacer las observaciones respectivas a los Agentes del Mi
 
 XVI.- Llevar un control de los procesos penales en trámite, radicados en los juzgados de primera instancia en el Estado; y
 
-XVIl.- Las demás que le señalen otras disposiciones legales o reglamentarias o le confieran sus superiores jerárquicos.
+XVII.- Las demás que le señalen otras disposiciones legales o reglamentarias o le confieran sus superiores jerárquicos.
 
 Las anteriores atribuciones las podrá ejercer directamente el Subprocurador de Control de Procesos.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 13.
 
@@ -755,7 +757,7 @@ IX.- Investigar, desarrollar e implementar mecanismos innovadores para el interc
 
 X.- Las demás que le señalen las disposiciones legales o reglamentarias o le confieran sus superiores jerárquicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 14.
 
@@ -851,7 +853,7 @@ XXIII.- Ejercer y aplicar las demás atribuciones que a los Centros de Atención
 
 XXIV.- Las demás atribuciones que le señalen las disposiciones legales o reglamentarias o le confieran sus superiores jerárquicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 16.
 
@@ -1035,7 +1037,7 @@ VI.- Las demás que le confieran otras disposiciones legales o le asigne el Proc
 
 Los Agentes Especiales del Ministerio Público desempeñarán las funciones de Visitador, cuando así lo disponga el Procurador General de Justicia del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 22 DE MARZO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 22 DE MARZO DE 2007)</small>
 
 ### CAPITULO VII. DE LAS DELEGACIONES REGIONALES Y DE LA UNIDAD ESPECIALIZADA EN PROCURACION DE JUSTICIA PARA ADOLESCENTES DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
@@ -1343,7 +1345,7 @@ XI.- Los demás que señalen las leyes, reglamentos y la convocatoria, que en su
 
 Sólo cuando se trate de personas de reconocida experiencia profesional, el Procurador General de Justicia podrá eximir de los requisitos a que se refiere la fracción II de este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 45.
 
@@ -1357,7 +1359,7 @@ II.- No ser menor de veintitrés años de edad el día de la solicitud; y
 
 III.- Los demás que señalen las leyes, reglamentos y la convocatoria que en su caso se expida, para aspirantes a ingresar como Secretario Auxiliar de Acuerdos.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 46.
 
@@ -1467,11 +1469,11 @@ El Procurador General de Justicia, en forma directa o a través del Instituto Su
 
 Es obligación de todos los servidores públicos de la Procuraduría someterse a los exámenes médicos y clínicos generales que se les indique por parte de las autoridades de la dependencia.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ### CAPITULO XII. DE LOS ASCENSOS, ESTIMULOS, PREMIOS, RECOMPENSAS, RECONOCIMIENTOS Y CONDECORACIONES
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 #### SECCION PRIMERA. DEL COMITÉ DE ESTIMULOS Y ASCENSOS Y DE LA JUNTA DE HONOR, SELECCIÓN Y PROMOCIÓN
 
@@ -1489,7 +1491,7 @@ El Comité de Estímulos y Ascensos del personal de carrera de la Procuraduría,
 
 El Presidente podrá designar como su suplente a las reuniones del Comité a cualquier Subprocurador. Los Vocales podrán designar a sus respectivos suplentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 55.
 
@@ -1541,7 +1543,7 @@ a) Ministerio Público Titular.
 
 b) Secretario Auxiliar de Acuerdos.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE MARZO DE 2009)</small>
 
 II.- Personal de la Policía Estatal Investigadora:
 
@@ -1605,7 +1607,7 @@ El Comité de Estímulos y Ascensos o la Junta de Honor, Selección y Promoción
 
 Para acreditar la buena conducta y la capacidad profesional del personal de carrera de la Procuraduría, bastará con el informe que rinda el Director General de Programación, Organización y Presupuesto, el cual contendrá los antecedentes del servidor público que obren en su expediente y las constancias que le haya otorgado la Procuraduría respecto de los cursos que haya impartido el Instituto Superior de Seguridad Pública del Estado o una Institución educativa que la Procuraduría reconozca para tales efectos, y que hubiere aprobado el aspirante.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 62.
 
@@ -1647,7 +1649,7 @@ c) Para ser promovido a nivel A, el Perito deberá contar con una antigüedad de
 
 II.- Técnico.- Para ingresar al sistema de promociones, deberá tener una antigüedad de un año en la Procuraduría.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 65.
 
@@ -1667,11 +1669,11 @@ En el caso del artículo anterior, el Secretario Técnico del Comité de Estímu
 
 El personal de carrera de la Procuraduría podrá ascender de categoría por méritos extraordinarios, sin que se cubran los aspectos señalados en las fracciones II, V y VI del artículo 60 a propuesta del Procurador General de Justicia del Estado o de la Junta de Honor, Selección y Promoción, en el caso de los Agentes de la Policía Estatal Investigadora.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 #### SECCION TERCERA. DE LOS ESTIMULOS, PREMIOS, RECOMPENSAS, RECONOCIMIENTOS Y CONDECORACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 68.
 
@@ -1695,7 +1697,7 @@ Los premios consistirán en regalos simbólicos, que se otorgarán como un recon
 
 Las recompensas consistirán en la entrega de una cantidad en numerario al servidor público que en ejercicio de sus funciones realice una conducta de relevante importancia y trascendencia en beneficio de la procuración de justicia y de la sociedad en general.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 72.
 
@@ -1721,7 +1723,7 @@ V.- Coordinar la elaboración de diplomas, constancias, reconocimientos e insign
 
 VI.- Organizar la ceremonia de entrega de estímulos, premios, recompensas, reconocimientos y condecoraciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 73.
 
@@ -1759,7 +1761,7 @@ El Órgano Colegiado correspondiente elegirá al servidor público del año, de 
 
 Los servidores públicos seleccionados a que se refiere el artículo anterior, se harán merecedores a los estímulos, premios, recompensas, reconocimientos y condecoraciones que en cada caso se determinen.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 76.
 
@@ -1823,7 +1825,7 @@ El respeto y observancia a los principios de constitucionalidad y legalidad, deb
 
 En el orden institucional, todos los superiores jerárquicos son responsables de la conducta y actuación de sus subordinados en el desempeño de sus funciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 84.
 
@@ -1885,7 +1887,7 @@ Para los efectos del presente Reglamento, se entiende por Normas Éticas la cond
 
 Los miembros del Ministerio Público y de la Policía Estatal Investigadora antepondrán a su interés personal la lealtad a su País, al Estado de Sonora y a las Instituciones, debiendo abstenerse de realizar actos en detrimento de estos valores; para tal efecto, deberán mantener y preservar un alto concepto del honor, la dignidad y la reputación profesional y personal.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 87.
 
@@ -1943,7 +1945,7 @@ Las normas de Disciplina, invariablemente tendrán como fundamento de procedibil
 
 Los miembros de la Policía Estatal Investigadora deberán tener un alto sentido del deber y de la subordinación, así como conocer dentro del marco jurídico que les es aplicable, el límite de sus atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 92.
 
@@ -2063,7 +2065,7 @@ Dado en la residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a
 
 EL GOBERNADOR DEL ESTADO.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- OSCAR LOPEZ VUCOVICH.- RUBRICA.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 B.O. 17 DE NOVIEMBRE DE 2006.
 
@@ -2110,3 +2112,49 @@ SEXTO.- Se instruye a los titulares de las diferentes unidades administrativas y
 SÉPTIMO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente Decreto.
 
 OCTAVO.- Publíquese este Decreto en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 2 DE MAYO DE 2017.
+
+[N. DE. E TRANSITORIOS DEL "REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL (SIC) JUSTICIA DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento abroga el Reglamento de la Ley Orgánica de la Procuraduría General del Estado de Sonora, publicado en el Boletín Oficial con fecha de 26 de Noviembre de 2001.
+
+Se abrogan los acuerdos, circulares, instructivos, y demás disposiciones administrativas emitidas por el Procurador General con base en el Reglamento que se abroga; continuando en vigor los que no se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que a la entrada en vigor de este Reglamento, estén tramitando las Unidades administrativas y órganos desconcentrados contemplados en el Reglamento que se abroga o creados mediante Acuerdo del Procurador General; pasarán al conocimiento de las Unidades administrativas y órganos desconcentrados que asuman sus atribuciones, en los términos que establece el presente Reglamento; y, para los casos no contemplados en el mismo, conforme a lo que disponga el Fiscal General en el Acuerdo respectivo.
+
+###### ARTÍCULO CUARTO.
+
+Oficialía Mayor realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las Unidades administrativas u órganos desconcentrados que se modifican o desaparecen, sean transferidos a las Unidades administrativas u órganos desconcentrados que correspondan, en los términos del presente Reglamento, de conformidad con las normas aplicables y la disponibilidad presupuestal.
+
+Oficialía Mayor, en un plazo máximo de tres meses contados a la entrada en vigor del presente Reglamento, realizará las acciones conducentes para que sean asignados los recursos humanos, financieros y materiales que resulten necesarios para el debido funcionamiento de las Unidades administrativas u órganos desconcentrados de nueva creación, cuyas atribuciones no estaban contempladas en el Reglamento que se abroga.
+
+En tanto se realiza la asignación de los recursos a que se refiere el párrafo que antecede, las Unidades administrativas y órganos desconcentrados de la Fiscalía General auxiliarán a los titulares de las Unidades administrativas y órganos desconcentrados de nueva creación para el debido desempeño de sus funciones, en los términos que disponga el Fiscal General.
+
+###### ARTÍCULO QUINTO.
+
+Para dar cumplimiento (sic) establecido en la Ley General del Sistema Nacional de Seguridad Pública, además lo relativo al servicio de carrera pericial; los Peritos tendrán un periodo perentorio de cuatro años a partir de la vigencia del presente Reglamento, para presentar ante las instancias correspondientes de esta Fiscalía, el título y cédula profesional legalmente expedidos y registrados por autoridad competente que lo faculte para ejercer la ciencia, técnica, arte o disciplina de que se trate, o acreditar plenamente los conocimientos correspondientes a la disciplina sobre la que deba dictaminar cuando de acuerdo con las normas aplicables no necesite titulo o cédula profesional para su ejercicio.
+
+###### ARTÍCULO SEXTO.
+
+Para dar cumplimiento (sic) establecido en la Ley General del Sistema Nacional de Seguridad Publica, además de lo relativo a los requisitos de ingreso y permanencia de los Agentes Ministeriales; los integrantes de esta, tendrán un periodo perentorio de cuatro años a partir de la vigencia del presente Reglamento, para acreditar poseer enseñanza superior o equivalente; presentando ante las instancias correspondientes de esta Fiscalía General, El titulo y cédula profesional legalmente expedidos y registrados por autoridad competente.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para dar cumplimiento a lo relativo en la evaluación y control de confianza; la Fiscalía General en un plazo que no excederá de tres años a partir de la vigencia del presente Reglamento; contará con un Centro de Evaluación y Control de Confianza, conforme a los procedimientos, Protocolos y perfiles determinados por el Centro Nacional de Certificación y Acreditación; emitiendo entonces, esta Fiscalía General los certificados correspondientes a su personal que acrediten los requisitos de ingreso y permanencia que establece la Ley General del Sistema Nacional de Seguridad Publica, la Ley Orgánica y el presente Reglamento.
+
+Lo anterior en atención a los artículos 21, 22 y 56; así como a los lineamientos SESNSP/CNCA/LI/08/2012; por los cuales se establece el proceso para la acreditación de las personas físicas o morales u organismos públicos o privados, cuyo objeto se encuentre relacionado con la aplicación de las evaluaciones de control de confianza, a fin de que presten servicios subrogados a los centros de evaluación y control de confianza Federales, Estatales y del Distrito Federal.
+
+###### ARTICULO OCTAVO.
+
+Los resultados de la evaluación y control de confianza del personal de la Fiscalía General; generados por el Centro de Evaluación y Control de Confianza del Estado de Sonora, como órgano desconcentrado de la Secretaria de Seguridad Pública del Estado, continuarán su vigencia.
+
+Los Procedimientos Administrativos del personal de la Fiscalía General, que se encuentren en trámite o prescritos, derivados del Centro de Evaluación y Control de Confianza del Estado de Sonora, como órgano desconcentrado de la Secretaria de Seguridad Pública del Estado, perderán su vigencia; por lo que se iniciará el Proceso de Evaluación y Control de Confianza, en los términos del artículo anterior.
