@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2017-01-27"
+last_updated: "2017-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MAYO DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -174,7 +174,9 @@ c) El nombre del Coordinador del Grupo Parlamentario.
 
 8. Realizadas las votaciones y declarados los resultados para la elección de la Mesa Directiva de la Cámara, el Presidente de la Mesa de Decanos invitará a sus integrantes a que ocupen el lugar que les corresponde en el presidium, y los miembros de ésta tomarán su sitio en el Salón de Sesiones.
 
-9. La elección de la Mesa Directiva se comunicará al Presidente de la República, a la Cámara de Senadores, a la Suprema Corte de Justicia de la Nación, y a los órganos legislativos de los Estados y del Distrito Federal.
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2017)</small>
+
+9. La elección de la Mesa Directiva se comunicará al Presidente de la República, a la Cámara de Senadores, a la Suprema Corte de Justicia de la Nación, y a los órganos legislativos de las entidades federativas.
 
 10. En la circunstancia de que la Mesa de Decanos deba actuar como Mesa Directiva, en tanto se concretan los entendimientos necesarios para elegir ésta, se harán las comunicaciones pertinentes a que se refiere el párrafo anterior.
 
@@ -296,7 +298,9 @@ k) Las demás que le atribuyen esta ley, los ordenamientos aplicables y los acue
 
 1. El Presidente de la Mesa Directiva es el Presidente de la Cámara de Diputados y expresa su unidad. Garantiza el fuero constitucional de los diputados y vela por la inviolabilidad del Recinto Legislativo.
 
-2. El Presidente conduce las relaciones institucionales con la Cámara de Senadores, con los otros dos Poderes de la Unión, los poderes de los Estados y las autoridades locales del Distrito Federal. Asimismo, tiene la representación protocolaria de la Cámara en el ámbito de la diplomacia parlamentaria.
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2017)</small>
+
+2. El Presidente conduce las relaciones institucionales con la Cámara de Senadores, con los otros dos Poderes de la Unión y los poderes de las entidades federativas. Asimismo, tiene la representación protocolaria de la Cámara en el ámbito de la diplomacia parlamentaria.
 
 3. El Presidente, al dirigir las sesiones, velará por el equilibrio entre las libertades de los legisladores y de los Grupos Parlamentarios, y la eficacia en el cumplimiento de las funciones constitucionales de la Cámara; asimismo, hará prevalecer el interés general de la Cámara por encima de los intereses particulares o de grupo.
 
@@ -348,7 +352,7 @@ q) Solicitar al Instituto Nacional Electoral la verificación del porcentaje req
 
 > <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-r) Las demás que le atribuyan la Constitución General de la República, esta ley y los demás ordenamientos relativos a la actividad parlamentaria..
+r) Las demás que le atribuyan la Constitución General de la República, esta ley y los demás ordenamientos relativos a la actividad parlamentaria.
 
 > <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
@@ -364,7 +368,9 @@ d) Prevenir a la comisión o comisiones, siete días naturales antes de que venz
 
 e) Emitir la declaratoria de publicidad inmediatamente después de concluido el plazo de la comisión o comisiones para dictaminar.
 
-3. Asimismo, conforme a la declaración de Presidente Electo de los Estados Unidos Mexicanos que hubiere hecho el Tribunal Electoral del Poder Judicial de la Federación, corresponde al Presidente de la Cámara disponer la elaboración inmediata del Bando Solemne; darlo a conocer al Pleno en la sesión más próxima; ordenar su publicación en el Diario Oficial de la Federación; y tomar las medidas necesarias para que se difunda en los Periódicos Oficiales de las entidades federativas y se fije en las principales oficinas públicas de los Estados, del Distrito Federal y de los Municipios.
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2017)</small>
+
+3. Asimismo, conforme a la declaración de Presidente Electo de los Estados Unidos Mexicanos que hubiere hecho el Tribunal Electoral del Poder Judicial de la Federación, corresponde al Presidente de la Cámara disponer la elaboración inmediata del Bando Solemne; darlo a conocer al Pleno en la sesión más próxima; ordenar su publicación en el Diario Oficial de la Federación; y tomar las medidas necesarias para que se difunda en los Periódicos Oficiales de las entidades federativas y se fije en las principales oficinas públicas de las entidades federativas y de los Municipios.
 
 > <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 2008)</small>
 
@@ -1294,7 +1300,9 @@ VIII. Designación de comisiones de cortesía para el ceremonial de la sesión d
 
 2. La Mesa Directiva durará en su ejercicio un año legislativo y sus integrantes podrán ser reelectos. Antes de tomar posesión de sus cargos, los integrantes de la Mesa Directiva rendirán la protesta correspondiente en los términos que disponga el Reglamento.
 
-3. La elección de la Mesa Directiva se comunicará a la Cámara de Diputados, al Titular del Poder Ejecutivo Federal, al Presidente de la Suprema Corte de Justicia de la Nación, a las Legislaturas de los Estados, a la Asamblea Legislativa y al Jefe de Gobierno del Distrito Federal.
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2017)</small>
+
+3. La elección de la Mesa Directiva se comunicará a la Cámara de Diputados, al Titular del Poder Ejecutivo Federal, al Presidente de la Suprema Corte de Justicia de la Nación y a las Legislaturas de las entidades federativas.
 
 ###### ARTICULO 63.
 
@@ -1332,7 +1340,9 @@ d) Asegurar que los dictámenes, acuerdos parlamentarios, mociones, comunicados 
 
 e) Designar las comisiones de cortesía necesarias para cumplir con el ceremonial;
 
-f) Conducir las relaciones de la Cámara de Senadores con la otra Cámara, los otros Poderes de la Unión, los Poderes de los Estados y las autoridades locales del Distrito Federal; así como la diplomacia parlamentaria, designando para tal efecto a quienes deban representar a la Cámara en eventos de carácter internacional;
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2017)</small>
+
+f) Conducir las relaciones de la Cámara de Senadores con la otra Cámara, los otros Poderes de la Unión, los Poderes de las entidades federativas; así como la diplomacia parlamentaria, designando para tal efecto a quienes deban representar a la Cámara en eventos de carácter internacional;
 
 g) Disponer que la información del trabajo de los senadores sea difundida a los medios de comunicación en condiciones de objetividad y equidad;
 
@@ -1372,7 +1382,9 @@ d) Firmar, junto con uno de los secretarios de la Cámara, y en su caso con el P
 
 e) Firmar la correspondencia y demás comunicaciones oficiales de la Cámara;
 
-f) Presidir la conducción de las relaciones del Senado en los términos que señala el inciso e), del párrafo 1 del artículo anterior; y representarlo en las ceremonias a las que concurran los titulares de los otros Poderes de la Federación o las autoridades locales del Distrito Federal, así como en las reuniones de carácter internacional, pudiendo delegar su representación en cualquiera de los otros integrantes de la Mesa Directiva;
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2017)</small>
+
+f) Presidir la conducción de las relaciones del Senado en los términos que señala el inciso e), del párrafo 1 del artículo anterior; y representarlo en las ceremonias a las que concurran los titulares de los otros Poderes de la Federación o de los Poderes de la Ciudad de México, así como en las reuniones de carácter internacional, pudiendo delegar su representación en cualquiera de los otros integrantes de la Mesa Directiva;
 
 g) Excitar a cualquiera de las comisiones, a nombre de la Cámara, a que presenten dictamen si han transcurrido veinte días hábiles después de aquél en que se les turne un asunto, para que lo presenten en un término de diez días; si no presentaren el dictamen dentro de ese término y no mediare causa justificada, el o los proponentes podrán solicitar que se turne a otra Comisión;
 
@@ -1616,7 +1628,9 @@ VIII. Derechos Humanos;
 
 IX. Desarrollo Social;
 
-X. Distrito Federal;
+> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2017)</small>
+
+X. De la Ciudad de México;
 
 XI. Educación, Cultura, Ciencia y Tecnología;
 
@@ -2749,3 +2763,13 @@ Quinto. Las referencias relativas a la Ley General de Responsabilidades Administ
 Sexto. Los procedimientos administrativos iniciados por las autoridades federales correspondientes con la anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
 
 Séptimo. El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su legislación conforme al presente Decreto.
+
+D.O.F. 2 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, EN CONSONANCIA CON LA REFORMA POLÍTICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los asuntos que la Mesa Directiva del Senado de la República hubiera turnado a la Comisión del Distrito Federal previo a la entrada en vigor del presente Decreto se entenderán como materias a resolver por la Comisión de la Ciudad de México. Lo mismo sucederá con todos los trámites sobre recursos administrativos, financieros, materiales y humanos, así como los distintos asuntos que desarrolle y que no estén sujetos a dictamen.
+
+TERCERO. La integración de la Comisión de la Ciudad de México del Senado de la República será la misma que tenía la Comisión del Distrito Federal previo a la entrada en vigor del presente Decreto.
