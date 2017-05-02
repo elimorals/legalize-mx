@@ -4,7 +4,7 @@ identifier: "LFPA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1994-08-04"
-last_updated: "2012-04-09"
+last_updated: "2017-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2570&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPA"
 
 LEY FEDERAL DE PROCEDIMIENTO ADMINISTRATIVO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MAYO DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de agosto de 1994.
 
@@ -108,7 +108,7 @@ DEL ACTO ADMINISTRATIVO
 
 ART. 5.- La omisión o irregularidad de los elementos y requisitos exigidos por el Artículo 3 de esta Ley, o por las leyes administrativas de las materias de que se trate, producirán, según sea el caso, nulidad o anulabilidad del acto administrativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 ART. 6.- La omisión o irregularidad de cualquiera de los elementos o requisitos establecidos en las fracciones I a X del artículo 3 de la presente Ley, producirá la nulidad del acto administrativo, la cual será declarada por el superior jerárquico de la autoridad que lo haya emitido, salvo que el acto impugnado provenga del titular de una dependencia, en cuyo caso la nulidad será declarada por el mismo.
 
@@ -198,7 +198,7 @@ IX. Tratar con respeto a los particulares y a facilitar el ejercicio de sus dere
 
 X. Dictar resolución expresa sobre cuantas peticiones le formulen; así como en los procedimientos iniciados de oficio, cuya instrucción y resolución afecte a terceros, debiendo dictarla dentro del plazo fijado por la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE ABRIL DE 2000)</small>
 
 ART. 17.- Salvo que en otra disposición legal o administrativa de carácter general se establezca otro plazo, no podrá exceder de tres meses el tiempo para que la dependencia u organismo descentralizado resuelva lo que corresponda. Transcurrido el plazo aplicable, se entenderán las resoluciones en sentido negativo al promovente, a menos que en otra disposición legal o administrativa de carácter general se prevea lo contrario. A petición del interesado, se deberá expedir constancia de tal circunstancia dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante quien deba resolver; igual constancia deberá expedirse cuando otras disposiciones prevean que transcurrido el plazo aplicable la resolución deba entenderse en sentido positivo.
 
@@ -300,9 +300,9 @@ ART. 35.- Las notificaciones, citatorios, emplazamientos, requerimientos, solici
 
 I. Personalmente con quien deba entenderse la diligencia, en el domicilio del interesado;
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2017)</small>
 
-II. Mediante oficio entregado por mensajero o correo certificado, con acuse de recibo. También podrá realizarse mediante telefax, medios de comunicación electrónica o cualquier otro medio, cuando así lo haya aceptado expresamente el promovente y siempre que pueda comprobarse fehacientemente la recepción de los mismos, y
+II. Mediante oficio entregado por mensajero o correo certificado, con acuse de recibo. También podrá realizarse mediante telefax, medios de comunicación electrónica o cualquier otro medio, cuando así lo haya aceptado expresamente el promovente y siempre que pueda comprobarse fehacientemente la recepción de los mismos, en el caso de comunicaciones electrónicas certificadas, deberán realizarse conforme a los requisitos previstos en la Norma Oficial Mexicana a que se refiere el artículo 49 del Código de Comercio, y
 
 III. Por edicto, cuando se desconozca el domicilio del interesado o en su caso de que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal.
 
@@ -820,7 +820,7 @@ ART. 84.- La oposición a los actos de trámite en un procedimiento administrati
 
 ART. 85.- El plazo para interponer el recurso de revisión será de quince días contado a partir del día siguiente a aquél en que hubiere surtido efectos la notificación de la resolución que se recurra.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 ART. 86.- El escrito de interposición del recurso de revisión deberá presentarse ante la autoridad que emitió el acto impugnado y será resuelto por el superior jerárquico, salvo que el acto impugnado provenga del titular de una dependencia, en cuyo caso será resuelto por el mismo. Dicho escrito deberá expresar:
 
@@ -930,11 +930,11 @@ México, D.F., a 14 de julio de 1994.- Dip. Manuel Huerta Ladrón de Guevara, Pr
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de julio de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Jorge Carpizo.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 D.O.F. 24 DE DICIEMBRE DE 1996.
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+SE TRANSCRIBE ÚNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
 
@@ -973,3 +973,11 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 2 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 35, FRACCIÓN II DE LA LEY FEDERAL DE PROCEDIMIENTO ADMINISTRATIVO Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LOS ARTÍCULOS 90 BIS, 91 Y 92 DEL CÓDIGO DE COMERCIO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
