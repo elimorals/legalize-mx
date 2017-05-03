@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2017-04-01"
+last_updated: "2017-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -1699,7 +1699,13 @@ IV.- A los Ayuntamientos del Estado, en todo lo concerniente a su competencia mu
 
 V.- Al Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública, en materia de su competencia.
 
-VI.- A las y los chihuahuenses, mediante iniciativa popular presentada por ciudadanas o ciudadanos debidamente identificados, cuyo número sea cuando menos el uno por ciento de los inscritos en el padrón electoral.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MAYO DE 2017)</small>
+
+VI.- Al Gobernador electo, una vez que adquiera oficialmente ese carácter y haya sido publicado el Decreto que así lo declare. Lo anterior, solo en asuntos concernientes a la estructura orgánica del Poder Ejecutivo y en los términos que establece el artículo 68 de la Constitución Política del Estado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE MAYO DE 2017)</small>
+
+VII.- A las y los chihuahuenses, mediante iniciativa popular presentada por ciudadanas o ciudadanos debidamente identificados, cuyo número sea cuando menos el uno por ciento de los inscritos en el padrón electoral.
 
 ###### ARTÍCULO 168.
 
@@ -2308,3 +2314,15 @@ P.O. 1 DE ABRIL DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFCNT/0209/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 68 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA Y 167 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el Artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y de los debates a los Ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado, o por la Diputación Permanente en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
