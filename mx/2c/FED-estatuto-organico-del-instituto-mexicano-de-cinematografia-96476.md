@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-mexicano-de-cinematografia-9647
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-11-06"
-last_updated: "2015-02-17"
+last_updated: "2017-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96476&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-09-23"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DE CINEMATOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2017.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 6 de noviembre de 2013.
 
@@ -127,21 +127,35 @@ La permanencia de El Instituto, su desempeño eficiente y el cumplimiento de sus
 
 En razón de lo anterior, El Instituto cuenta con una Junta Directiva que, esencialmente se orienta a establecer la visión estratégica de la institución, a vigilar su operación, así como a aprobar la gestión en términos de economía, eficiencia y eficacia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2017)</small>
+
 ###### Artículo 7.
 
-Conforme al artículo 6o. de las reformas al Decreto de Creación de El Instituto, la Junta Directiva se integra por siete miembros, a saber:
+La Junta Directiva se integra por siete miembros, a saber:
 
-Presidente: El Presidente del Consejo Nacional para la Cultura y las Artes.
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2017)</small>
+
+Presidente: El Secretario de Cultura.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2017)</small>
 
 Un representante de la Secretaría de Gobernación.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2017)</small>
+
 Dos representantes de la Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2017)</small>
 
 Un representante de la Secretaría de Comunicaciones y Transportes.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2017)</small>
+
 Un representante de la Dirección General de Comunicación Social de la Presidencia de la República.
 
-Un representante del Consejo Nacional para la Cultura y las Artes.
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2017)</small>
+
+Un representante de la Secretaría de Cultura.
 
 En las sesiones de la Junta Directiva participará el Director General de El Instituto, con voz pero sin voto. Los integrantes de la Junta Directiva acreditarán ante la misma, a sus respectivos suplentes. La Junta Directiva nombrará a un Prosecretario, que auxiliará al Secretario Técnico para el cumplimiento de sus funciones, de acuerdo al inciso B) del artículo 13.
 
@@ -826,6 +840,14 @@ Aprobado por la H. Junta Directiva del Instituto Mexicano de Cinematografía en 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 17 DE FEBRERO DE 2015.
+
+Primero.- Las presentes modificaciones al Estatuto Orgánico del Instituto Mexicano de Cinematografía entrarán en vigor al día siguiente de su aprobación por su Junta Directiva, debiéndose publicar en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan las demás disposiciones internas de carácter administrativo que se opongan a lo previsto en las presentes modificaciones.
+
+D.O.F. 3 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DE CINEMATOGRAFÍA".]
 
 Primero.- Las presentes modificaciones al Estatuto Orgánico del Instituto Mexicano de Cinematografía entrarán en vigor al día siguiente de su aprobación por su Junta Directiva, debiéndose publicar en el Diario Oficial de la Federación.
 
