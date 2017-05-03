@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-fiscalia-general-del-estado-de-nayarit-10145
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-05-15"
-last_updated: "2017-02-11"
+last_updated: "2017-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el jueves 15 de mayo de 2014.
 
@@ -257,13 +257,17 @@ XXI. Las que prevea como tales esta ley y demás disposiciones aplicables.
 
 ### Capítulo III. De la Suplencia y Representación del Fiscal General
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2017)</small>
+
 ###### Artículo 12.
 
-En las faltas temporales y absolutas del Fiscal General y en los casos en que éste deba excusarse del conocimiento de determinado asunto conforme a lo dispuesto en la presente ley, será suplido por el Director General de Investigación Ministerial, quien podrá ejercer las facultades y atribuciones inherentes al cargo de Fiscal General con excepción de las que expresamente esta ley consigna como indelegables.
+Las ausencias temporales o definitivas del Fiscal General serán suplidas o sustituidas por el Director General de Investigación Ministerial, según corresponda, hasta la reincorporación del titular, o hasta la designación de uno nuevo, quien ejercerá las atribuciones inherentes al cargo, con excepción de las indelegables. En las ausencias definitivas el Congreso podrá autorizar el ejercicio temporal o indefinido de las facultades indelegables.
+
+En los casos en que el Fiscal General deba excusarse o bien sea recusado, se aplicará la suplencia prevista en el párrafo anterior.
 
 ###### Artículo 13.
 
-En el caso de las faltas absolutas del Fiscal General, el Gobernador deberá enviar al Congreso del Estado, a más tardar dentro de los diez días hábiles siguientes, la propuesta de quien habrá de asumir el encargo vacante, para efectos de que concluya el periodo correspondiente.
+(DEROGADO, P.O. 3 DE MAYO DE 2017)
 
 ###### Artículo 14.
 
@@ -1486,3 +1490,13 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. A partir de la entrada en vigor del presente decreto el H. Congreso del Estado iniciará el procedimiento respectivo para la designación del titular del Órgano Interno de Control.
 
 TERCERO. Se deberán realizar las adecuaciones presupuestarias a efecto de lograr el debido funcionamiento del Órgano Interno de Control creado en el presente decreto.
+
+P.O. 3 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial, Órgano del gobierno del Estado.
+
+Segundo. Se autoriza al Director General de Investigación Ministerial de la Fiscalía General del Estado de Nayarit, hasta en tanto se designe un nuevo Fiscal General, el ejercicio de las facultades establecidas en las fracciones I, IV, V, VI, VII, VIII, XIV, XVI y XVIII del artículo 11 de la Ley Orgánica de la Fiscalía General del Estado de Nayarit.
+
+Tercero. Notifíquese la presente determinación al Director General de Investigación Ministerial para los efectos legales conducentes.
