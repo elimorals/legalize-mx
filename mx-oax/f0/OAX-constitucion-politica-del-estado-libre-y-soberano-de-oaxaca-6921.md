@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2017-03-18"
+last_updated: "2017-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2017.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1607,8 +1609,6 @@ XI. Aprobar los convenios que celebren los municipios al resolver conciliatoriam
 
 XII. Resolver en la vía conciliatoria, los conflictos que surjan entre los Municipios entre sí y entre estos y los Poderes Ejecutivo y Judicial del Estado;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
 
 XIII.- Designar, a propuesta del Gobernador, a los integrantes de los Consejos Municipales;
@@ -1717,7 +1717,7 @@ XXVIII. Elegir a los Magistrados del Tribunal Superior de Justicia y del Tribuna
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-XXIX. Elegir al Gobernador sustituto o interino en los casos determinados por esta Constitución;
+XXIX. Elegir al Gobernador sustituto o Interino en los casos determinados por esta Constitución;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -1731,11 +1731,9 @@ XXXI. Conceder licencias a sus propios miembros, al Gobernador y a los demás se
 
 XXXII. Resolver sobre las renuncias de sus propios miembros, del Gobernador y a los demás servidores públicos que ella elija o nombre;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
-
-XXXIII. Elegir al Fiscal General del Estado de Oaxaca;
+XXXIII. Elegir al Fiscal General del Estado de Oaxaca, al Fiscal Especializado en Delitos Electorales y al Fiscal Especial en Materia de Combate a la Corrupción.
 
 XXXIV. (DEROGADA, P.O. 15 DE OCTUBRE DE 2016)
 
@@ -1802,8 +1800,6 @@ XLIX. Excitar a los Poderes de la Unión a que presten protección al Estado en 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 L. Cumplir con las obligaciones legislativas que le impone la Constitución Federal y las que le impongan las leyes generales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -2257,8 +2253,6 @@ XIII. Recibir las renuncias de los Magistrados del Tribunal Superior de Justicia
 
 XIV. Pedir la destitución de los funcionarios judiciales en los casos que proceda conforme a esta Constitución y a las Leyes de la materia;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
 
 XV.- Proponer al Congreso del Estado o a la Diputación Permanente en su caso, la integración de los Consejos Municipales, en los términos que señala esta Constitución; Por otra parte, hacer la designación de un encargado de la Administración Municipal, cuando por cualquier circunstancia especial no se verificare la elección de algún ayuntamiento o se hubiere declarado nula o no válida, o bien se hubiese declarado la suspensión o desaparición del mismo, lo anterior de conformidad con lo establecido en la Ley de la materia;
@@ -2309,9 +2303,9 @@ XXVI. En cualquier momento, optar por un gobierno de coalición con uno o varios
 
 El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por mayoría de los miembros presentes en el Congreso del Estado. El convenio establecerá las causas de la disolución del gobierno de coalición;
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2017)</small>
 
-XXVII. Proponer la terna para la elección del Fiscal General del Estado de Oaxaca, en términos de lo dispuesto en el apartado D del artículo 114, de esta Constitución, y
+XXVII. Intervenir en la designación del Fiscal General del Estado de Oaxaca y removerlo en términos de lo dispuesto en el apartado D del artículo 114 de esta Constitución.
 
 > <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -3243,43 +3237,49 @@ La Ley establecerá las medidas de apremio que podrá imponer el órgano garante
 
 Toda autoridad y servidor público estará obligado a coadyuvar con el organismo garante y sus integrantes para el buen desempeño de sus funciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
+D. DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA
 
-D. DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA.
+El Ministerio Público se organizará en una Fiscalía General del Estado de Oaxaca como órgano autónomo, dotado de personalidad jurídica y patrimonio propio.
 
-El Ministerio Público es un órgano público autónomo, único e indivisible, dotado de personalidad jurídica y de patrimonio propios, que representa a la sociedad y le compete la conducción de la investigación de los delitos y de manera exclusiva el ejercicio de la acción penal ante los Tribunales, debiendo velar por la exacta observancia de las leyes y que se rige en el ejercicio de sus funciones por los principios de buena fe, autonomía, certeza, legalidad, objetividad, pluriculturalidad, imparcialidad, eficacia, honradez, profesionalismo y respeto a los derechos humanos.
+Corresponde al Ministerio Público la persecución, ante los tribunales, de todos los delitos del orden común; y por lo mismo, solicitará las medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de estos hechos que las Leyes señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas e intervendrá en todos los asuntos que la Ley determine y que se rige en el ejercicio de sus funciones por los principios de buena fe, autonomía, certeza, legalidad, objetividad y pluriculturalidad, imparcialidad, eficacia, honradez, profesionalismo y respeto a los derechos humanos.
 
 El titular del Ministerio Público será el Fiscal General del Estado de Oaxaca.
 
-Para ser Fiscal General del Estado, se requiere: ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles; tener cuando menos treinta y cinco años cumplidos el día de su elección; contar al día de su elección con antigüedad mínima de diez años, con título y cédula profesional de licenciado en derecho, expedidos por la autoridad o institución legalmente facultada para ello; gozar de buena reputación; no haber sido condenado por delito doloso, y haber residido en el Estado durante los dos años anteriores al día de la elección. La ley determinará los requisitos que deben reunir los Agentes del Ministerio Público.
+Para ser Fiscal General del Estado de Oaxaca, se requiere: ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles; tener cuando menos treinta y cinco años cumplidos el día de su designación; contar, con antigüedad mínima de diez años con título profesional de licenciado en derecho; gozar de buena reputación; no haber sido condenado por delito doloso.
 
-El Fiscal General del Estado durará en su encargo cuatro años y será elegido por el Congreso del Estado de una terna de juristas de reconocida capacidad profesional y solvencia moral que el titular del Poder Ejecutivo someterá dentro (sic) los veinte días siguientes a partir de la ausencia definitiva del Fiscal General.
+El Fiscal General del Estado de Oaxaca durará en su encargo siete años y será designado y removido conforme a lo siguiente:
 
-El Congreso elegirá al Fiscal General del Estado, previa comparecencia de las personas propuestas, por la mayoría de los diputados presentes. En sus recesos, la Diputación Permanente convocara a un periodo extraordinario en el improrrogable plazo de diez días hábiles para elegir al Fiscal General. En caso de que la Legislatura no resuelva dentro de dicho plazo, ocupará el cargo la persona que de esta terna designe el Gobernador del Estado.
+I.- A partir de la ausencia definitiva del Fiscal General del Estado de Oaxaca, el Congreso del Estado, contará con veinte días para integrar una lista de al menos diez candidatos al cargo, aprobada por las dos terceras partes de los Diputados presentes, la cual enviará al Ejecutivo del Estado.
 
-Si el Congreso del Estado rechaza la terna propuesta o no hace la designación en los plazos que establecen los párrafos anteriores, ocupará el cargo la persona que dentro de la terna propuesta designe el Gobernador del Estado.
+En sus recesos, la Diputación Permanente convocará a un período extraordinario.
 
-El Fiscal General del Estado dejará de ejercer su cargo por renuncia, o podrá ser removido por el ejecutivo por las causales de responsabilidad en los casos previstos en el Título Séptimo de esta Constitución y la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes del Congreso del Estado dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción
+Si el Ejecutivo del Estado, no recibe la lista en el plazo antes señalado, enviará libremente al Congreso del Estado una terna y designará provisionalmente al Fiscal General del Estado de Oaxaca, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General designado podrá formar parte de la terna.
 
-Las ausencias del Fiscal General del Estado de Oaxaca, serán suplidas en los términos que determine la ley.
+II.- Recibida la lista a que se refiere la fracción anterior, dentro de los diez días siguientes el Titular del Ejecutivo del Estado formulará una terna y la enviará a la consideración del Congreso del Estado.
 
-El Fiscal General del Estado de Oaxaca, podrá crear las fiscalías que se requieran para el adecuado funcionamiento de la Institución, así mismo podrá nombrar y remover a los servidores públicos y agentes del Ministerio Público; y contará al menos con una fiscalía especializada en delitos electorales y otra en materia de combate a la corrupción.
+III.- El Congreso, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General del Estado de Oaxaca con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
 
-Los titulares de las fiscalías serán nombrados por el Fiscal General del Estado de Oaxaca, cumpliendo con los requisitos que establezca la Ley.
+En caso de que el ejecutivo no envíe la terna a la que se refiere la fracción anterior, el Congreso del Estado tendrá diez días para designar al Fiscal General del Estado de Oaxaca de entre los candidatos de la lista que señala la fracción I, mismo que será designado por el voto de las dos terceras partes de los miembros presentes.
+
+Si el Congreso no hace la designación en los plazos que se establecen (sic) los párrafos anteriores o rechaza la terna, el Ejecutivo designará al Fiscal General del Estado de Oaxaca de entre los candidatos que integran la lista o, en su caso, la terna respectiva.
+
+Por lo que se refiere a la remoción, el Fiscal General del Estado de Oaxaca dejará de ejercer su cargo por renuncia, o podrá ser removido por el Ejecutivo por causales de responsabilidad en los casos previstos en esta Constitución y la Ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes del Congreso del estado dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General del Estado de Oaxaca será restituido en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción.
+
+Las ausencias del Fiscal General del Estado de Oaxaca serán suplidas en los términos que determine la Ley, el Fiscal General del Estado de Oaxaca podrá crear las fiscalías que se requieran para el adecuado funcionamiento de la Institución, asimismo podrá nombrar y remover a los servidores públicos y Agentes del Ministerio Público; y contará al menos con una fiscalía especializada en delitos electorales y otra (sic) materia de combate a la corrupción, quienes serán nombrados por el Congreso del Estado, conforme al procedimiento establecido en ésta Constitución para la elección del Fiscal General del Estado de Oaxaca y quienes deberán cumplir con los mismo (sic) requisitos de elegibilidad establecidos para éste.
 
 La Ley determinará los requisitos que deben cubrir los Agentes del Ministerio Público y demás servidores públicos que integran la estructura de la Fiscalía General del Estado de Oaxaca.
 
-Las funciones del Fiscal General del Estado, Fiscalías y Agentes del Ministerio Público, son incompatibles con el ejercicio de la abogacía y con cualquier otro cargo, empleo o comisión por el que se disfrute sueldo, excepto cuando litigue en causa propia, de su cónyuge, concubina o concubinario, de sus ascendientes o descendientes, de sus hermanos o de su adoptante o adoptado; y cuando se trate de actividades académicas o docentes.
+Las funciones del Fiscal General del Estado de Oaxaca, Fiscalías y Agentes del Ministerio Público, son incompatibles con el ejercicio de la abogacía y con cualquier otro cargo, empleo, o comisión por el que se disfrute sueldo, excepto cuando litigue en su causa propia, de su cónyuge, concubina o concubinario; de sus ascendientes o descendientes, de sus hermanos o de su adoptante o adoptado; y cuando se trate de actividades académicas o docentes.
 
-La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía General, así como, para el desarrollo de la carrera profesional de los mismos.
+La Ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía General, así como, para el desarrollo de la carrera profesional de los mismos.
 
-El Fiscal General del Estado de Oaxaca, presentará anualmente, al Poder Legislativo un informe de actividades. Comparecerá ante el Congreso del Estado cuando se le cite.
+El Fiscal General del Estado de Oaxaca, presentará anualmente, a los Poderes Legislativos (sic) y Ejecutivo un informe de actividades y comparecerá ante el Congreso del Estado cuando se le cite.
 
-El Fiscal General del Estado de Oaxaca y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
+El Fiscal General del Estado de Oaxaca y sus agentes; serán responsables de toda falta, omisión o violación a la Ley en que incurran con motivo de sus funciones.
 
-La fiscalía General del Estado de Oaxaca, respetara, los sistemas normativos, las especificidades culturales y la integridad de las personas indígenas.
+La Fiscalía General del Estado de Oaxaca, respetará, los sistemas normativos, las especificidades culturales y la integridad de las personas Indígenas y Afromexicanas.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -4856,3 +4856,19 @@ P.O. 18 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM 575.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN IX DEL ARTÍCULO 113 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 601.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en todo lo que se oponga al contenido del presente Decreto.
+
+TERCERO.- Una vez que el presente Decreto entre en vigor la elección del Fiscal General del Estado de Oaxaca se llevará a cabo conforme a las nuevas disposiciones de esta Constitución; para ello, dentro del plazo de veinte días el Congreso remitirá al titular del Ejecutivo del Estado la lista para ocupar el cargo de Fiscal General del Estado de Oaxaca, para efectos que se lleve a cabo el procedimiento de designación que prevé el artículo 114 apartado D de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+
+Realizada que fuere la elección del Fiscal General del Estado de Oaxaca, se procederá en los términos de esta Constitución y la Ley, a la elección y nombramiento de los titulares de las fiscalías especializadas en combate a la corrupción y la de Delitos Electorales.
+
+CUARTO.- Con el fin de dar cumplimiento al procedimiento de integración de la lista de candidatos a Fiscal General del Estado de Oaxaca, se faculta, por única ocasión, a la Junta de Coordinación Política de la Sexagésima Tercera Legislatura del H. Congreso del Estado de Oaxaca para que emita los lineamientos.
+
+QUINTO.- El Fiscal General del Estado de Oaxaca deberá rendir protesta de Ley ante el Congreso del Estado el mismo día de su designación.
