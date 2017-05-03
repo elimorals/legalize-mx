@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-ordenamiento-territorial-y-80273"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-11"
-last_updated: "2017-02-24"
+last_updated: "2017-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS, EN MATERIA DE ORDENAMIENTO TERRITORIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 11 de marzo de 2011.
 
@@ -233,15 +233,19 @@ V. Datos generales de la empresa o responsable que elabora el estudio de impacto
 
 Como parte del proceso de revisión y validación de los dictámenes de impacto urbano y cuando el asunto lo requiera, la Secretaría podrá solicitar la opinión técnica de alguna Secretaría, Dependencia o Entidad en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2017)</small>
+
 ###### Artículo 14.
 
-Para la emisión del dictamen, la Secretaría deberá considerar lo siguiente:
+Para la emisión del Dictamen de Impacto Urbano, la Secretaría deberá considerar lo siguiente:
 
 I. La información contenida en el estudio de impacto urbano, complementos y anexos presentados;
 
 II. Los Programas de Desarrollo Urbano Sustentable;
 
-III. Reglamentos, normas técnicas y lineamientos;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2017)</small>
+
+III. Reglamentos, normas oficiales mexicanas, normas mexicanas, normas técnicas, normas técnicas complementarias de desarrollo urbano, y
 
 IV. Las autorizaciones y licencias emitidas, y
 
@@ -607,7 +611,9 @@ b) Zonificación secundaria;
 
 c) Matrices de compatibilidad de usos y destinos del suelo;
 
-d) Condicionantes generales, y
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2017)</small>
+
+d) Normas técnicas complementarias de desarrollo urbano: Entendiéndose por estas a las reglas o condicionantes generales que regulan, entre otras cosas, la intensidad, ocupación y formas de aprovechamiento del suelo y del espacio urbano, contienen las especificaciones y coeficientes de los diversos usos de suelo, las características principales que deben presentar las edificaciones y los diferentes componentes que integran la estructura urbana; indican las restricciones en zonas vulnerables y de riesgo, de protección federal, estatal y municipal; señalan las condicionantes específicas que deben cumplir las zonas con usos y destinos de tratamiento especial, usos mixtos, corredores, giros básicos y estaciones de servicio; asimismo, establecen las condicionantes primordiales que habrán de cumplirse para la expedición de las licencias de uso de suelo y de construcción, así como para la autorización de las diversas acciones urbanas previstas en la Ley, entre otros aspectos.
 
 e) Etapas de desarrollo: Se determinará la estrategia del proceso de ocupación del territorio en tres escenarios corto, mediano y largo plazo. El corto estará en función de seis años, el mediano de doce años y para el largo se sugiere treinta años;
 
@@ -650,6 +656,14 @@ IV. Previo al inicio del plazo de Consulta Pública de sesenta días naturales, 
 V. Una vez concluida la consulta pública y el proceso de planeación, previo a la solicitud del dictamen de congruencia, el Ayuntamiento le enviará a la Secretaría, el programa completo para su análisis y observaciones; las cuales cuando existan, deberán ser solventadas por la autoridad municipal, y
 
 VI. La Secretaría, previa verificación del cumplimiento de los requisitos y procedimientos establecidos en la Ley y este Reglamento, así como su congruencia respecto al Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable en un plazo no mayor de treinta días naturales, emitirá el Dictamen de congruencia al Programa de Desarrollo Urbano Sustentable y será responsable de solicitar al titular del Poder Ejecutivo del Estado la publicación e inscripción señaladas en las fracciones VIII y IX del artículo 44 de la Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2017)</small>
+
+Artículo 32 BIS. Las normas técnicas complementarias de desarrollo urbano como parte de los Programas Municipales de Desarrollo Urbano establecidos en el artículo 30 del presente Reglamento, deberán sujetarse al procedimiento que conforme a los artículos 44 de la Ley, así como 32 de este Reglamento se lleve a cabo para la formulación del Programa de que se trate.
+
+Dichas normas técnicas complementarias deberán publicarse, preferentemente, dentro de los Programas Municipales de Desarrollo Urbano, en el Decreto que para tal efecto expida el titular del Poder Ejecutivo Estatal. No obstante lo anterior, la Secretaría podrá realizar su publicación por separado en acuerdo administrativo diverso a dicho Decreto.
+
+La publicación por separado de dicho acuerdo administrativo que emita el Secretario de Desarrollo Sustentable con las normas técnicas complementarias, no podrá dar lugar a interpretar que se trata de un documento distinto al Programa de Desarrollo Urbano Sustentable de que se trate y su contenido formará parte integral del mismo.
 
 ###### Artículo 33.
 
@@ -1054,3 +1068,11 @@ PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente instrumento.
 
 TERCERA. A los programas a que se refiere el presente Decreto, que vayan a iniciarse, se encuentren en trámite o haya sido iniciado su procedimiento con anterioridad a la vigencia de este Decreto, les resultarán aplicables las reformas objeto del mismo, siendo convalidados por legalidad sobrevenida para los efectos (sic) que haya lugar, en su caso.
+
+P.O. 3 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS EN MATERIA DE ORDENAMIENTO TERRITORIAL, RELATIVO A LA REGULACIÓN DE NORMAS TÉCNICAS COMPLEMENTARIAS".]
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente instrumento.
