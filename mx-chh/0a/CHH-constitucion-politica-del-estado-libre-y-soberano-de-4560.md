@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2017-04-29"
+last_updated: "2017-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2017.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -38,8 +40,6 @@ DEL ESTADO Y SU TERRITORIO.
 ###### Art. 1o.
 
 El Estado de Chihuahua es parte integrante de los Estados Unidos Mexicanos y posee una composición pluricultural, pluriétnica y multilingüística.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 2015)</small>
 
@@ -563,8 +563,6 @@ Durante el tiempo que comprendan las campañas electorales y hasta la conclusió
 
 El ejercicio del poder público se limita a las facultades expresamente consignadas en esta Constitución, la Federal y las leyes que se expidan de conformidad con las mismas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2015)</small>
 
 ###### Art. 29.
@@ -646,8 +644,6 @@ IV.- El último Secretario General de Gobierno, y
 V.- Sucesivamente, el Presidente Municipal que, habiendo permanecido dentro del orden legal, represente a alguno de estos municipios: Chihuahua, Juárez, Cuauhtémoc, Delicias, Hidalgo del Parral, Camargo, Nuevo Casas Grandes, Jiménez, Guerrero y Madera.
 
 La persona que asuma el Poder Ejecutivo conforme a este artículo, convocará dentro de los noventa días siguientes a elecciones de diputados al Congreso, y éste una vez instalado, nombrará Gobernador con el carácter que corresponda.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA DENOMINACIÓN DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2013)</small>
 
@@ -917,8 +913,6 @@ V. Un representante de los chihuahuenses que hayan presentado la correspondiente
 
 Siempre que el Congreso abra o cierre un período de sesiones, lo hará por formal decreto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 55.
@@ -965,8 +959,6 @@ Si una vez instalado el Congreso transcurren treinta días sin que uno ó más d
 
 Si los ausentes hubieran sido electos según el principio de representación proporcional y no concurrieren al Congreso en los términos del párrafo anterior, se llamará a los respectivos suplentes y, en caso de no concurrir, al candidato propietario que siga en el orden de acreditación que corresponda al partido de que se trate, según el sistema de lista o el de más altos porcentajes de votación válida obtenida en su distrito por cada uno de los candidatos del mismo partido.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 61.
@@ -985,8 +977,6 @@ Los Coordinadores de los Grupos Parlamentarios no podrán presidir la Mesa Direc
 
 En ningún caso la Presidencia de la Mesa Directiva recaerá en el mismo año legislativo, en un diputado que pertenezca al Grupo Parlamentario que presida la Junta de Coordinación Política.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 62.
@@ -1002,8 +992,6 @@ Será presidida, de manera alternada, cada año legislativo, por quienes coordin
 El orden anual para presidir la Junta de Coordinación Política será acordado por los integrantes de la misma, considerando de manera prioritaria a los partidos políticos que por sí mismos representen la primera y segunda fuerza política.
 
 La Junta de Coordinación Política tomará sus decisiones por consenso, pero en el caso de que este no se obtenga, las llevará a cabo mediante votación ponderada, en la cual los respectivos coordinadores o representantes significarán tantos votos como integrantes tengan sus grupos o coaliciones parlamentarios.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
@@ -1072,8 +1060,6 @@ E.- Las disposiciones aplicables en aquellos municipios que no cuenten con los b
 VI.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos del Estado, discutiendo y aprobando primero las contribuciones que a su juicio deben decretarse para cubrirlo.
 
 En la aprobación del Presupuesto de Egresos del Estado, el Congreso autorizará las erogaciones plurianuales necesarias para cumplir con las obligaciones derivadas de los proyectos de inversión pública a largo plazo que haya aprobado, de acuerdo con lo dispuesto en la fracción IX, inciso G), del presente artículo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 2013)</small>
 
@@ -1223,8 +1209,6 @@ XX.- Aplicar, mediante juicio político, las sanciones mencionadas en el artícu
 
 XXI.- Dirimir los conflictos que se susciten entre los Poderes Ejecutivo y Judicial del Estado, salvo el caso en que deba intervenir el Senado o la Suprema Corte de Justicia de la Nación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 XXII.- Contar con patrimonio propio, así como aprobar, administrar y ejercer su presupuesto de egresos, en los términos que disponga su Ley Orgánica, previo acuerdo de la Junta de Coordinación Política.
@@ -1313,8 +1297,6 @@ XL. Expedir las leyes que regulen las relaciones entre el Estado, Municipios, or
 
 XLI.- Crear, a iniciativa del Poder que así lo requiera, organismos descentralizados y autorizar, a iniciativa del Poder Ejecutivo, la creación de empresas de participación estatal mayoritaria, así como de fideicomisos, patronatos o entidades similares que comprometan recursos públicos. Los correspondientes decretos establecerán la estructura orgánica y las funciones que se les asignen, así como la obligación del Ejecutivo de acompañar sus estados financieros a la cuenta pública anual.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 XLII.- (DEROGADA, P.O. 9 DE DICIEMBRE DE 2015)
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
@@ -1340,8 +1322,6 @@ XLVI.- Expedir las leyes necesarias a fin de hacer efectivas las facultades conc
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 XLVII.- Citar a comparecer ante el Pleno a los titulares de las Secretarías de Estado, a los directores de las entidades paraestatales y a quien ostente la representación de los Órganos Constitucionales Autónomos, en caso de requerir su presencia para tratar asuntos de relevancia y trascendencia para el Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
@@ -1409,8 +1389,6 @@ II.- No podrán contener más que la directa y estricta formulación de una sola
 
 III.- A más tardar en la segunda sesión posterior a la de su formulación ante el Pleno o la siguiente cuando se presente en la Diputación Permanente, el Presidente turnará la pregunta a quien va dirigida, con aviso al Gobernador, una vez que haya constatado que el cuestionamiento corresponde a un asunto de la competencia del funcionario de que se trate y que además reúne los requisitos señalados en las fracciones anteriores. En caso contrario, o bien porque ya se haya presentado por otra pregunta similar en el mismo período, la declarará improcedente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 IV.- Tratándose de la administración centralizada, el funcionario, por conducto del Secretario General de Gobierno, hará llegar su respuesta o informe correspondiente a quien presida la Mesa Directiva; en los demás casos por conducto del Presidente, Directores o sus equivalentes de los organismos mencionados, dentro de los veinte días naturales posteriores a la fecha en que haya recibido la pregunta, pero si presenta solicitud motivada, el plazo podrá prorrogarse por una sola vez hasta por cinco días naturales.
@@ -1424,8 +1402,6 @@ V.- El Congreso o la Diputación Permanente conocerán la respuesta y en su caso
 ###### Art. 67.
 
 Los diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y jamás podrán ser reconvenidos por ellas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
@@ -1457,9 +1433,15 @@ IV.- A los ayuntamientos, en lo que se relacione con asuntos del gobierno munici
 
 V.- Al Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública, en materia de acceso a la información pública y de protección de datos personales, por conducto del Comisionado Presidente, previo acuerdo del Consejo General.
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MAYO DE 2017)</small>
 
-VI.- A los chihuahuenses, mediante iniciativa popular signada, cuando menos, por el uno por ciento de los ciudadanos inscritos en el padrón electoral, debidamente identificados.
+VI. Al Gobernador electo, una vez que adquiera oficialmente ese carácter y haya sido publicado el Decreto que así lo declare. Lo anterior, solo en asuntos concernientes a la estructura orgánica del Poder Ejecutivo.
+
+Las reformas originadas con motivo de esta fracción, no tendrán vigencia hasta en tanto se le haya tomado protesta como Gobernador Constitucional.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE MAYO DE 2017)</small>
+
+VII. A los chihuahuenses, mediante iniciativa popular signada, cuando menos, por el uno por ciento de los ciudadanos inscritos en el padrón electoral, debidamente identificados.
 
 Las iniciativas presentadas conforme a esta fracción, deberán ser dictaminadas a más tardar en el siguiente período de sesiones ordinarias a aquel en que se reciban.
 
@@ -1517,8 +1499,6 @@ El Instituto Estatal Electoral efectuará el cómputo de los resultados del refe
 
 Si se hubiese vencido el plazo que el Gobernador tiene para formular observaciones, el decreto o ley de que se trate será considerado promulgado, y por aprobación del Pleno Legislativo se podrá ordenar su publicación en el Periódico Oficial del Estado, si el Ejecutivo no lo hace dentro de los diez días siguientes a dicho vencimiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 75.
@@ -1547,21 +1527,15 @@ Las leyes, decretos, reglamentos y demás disposiciones de observancia general o
 
 DE LA DIPUTACION PERMANENTE.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 79.
 
 La Mesa Directiva electa al inicio de cada año de ejercicio legislativo, conducirá los trabajos de la Diputación Permanente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### Art. 80.
 
 (DEROGADO, P.O. 9 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
@@ -1582,8 +1556,6 @@ Las atribuciones de la Diputación Permanente son:
 I.- Llevar la correspondencia del Congreso durante el receso.
 
 II.- Acordar, cuando a su juicio lo exijan las necesidades del Estado, la convocación a sesiones extraordinarias y el objeto de éstas, señalando día para la reunión del Congreso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 III.- (DEROGADA, P.O. 9 DE DICIEMBRE DE 2015)
 
@@ -1613,7 +1585,7 @@ X.- Recibir iniciativas de ley, de decreto o de puntos de acuerdo y turnarlas pa
 
 XI.- Convocar a junta previa, dentro de los diez días anteriores al inicio del primer período ordinario de sesiones de cada ejercicio legislativo, con base a lo siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO, P.O. 9 DE DICIEMBRE DE 2015.</small>
+(P.O. 9 DE DICIEMBRE DE 2015.)
 
 A) En el año de renovación de la Legislatura, a los diputados electos para instalarla y acordar lo relacionado con la designación de la Mesa Directiva del primer año de ejercicio constitucional.
 
@@ -1829,8 +1801,6 @@ XVII.- Enviar al Congreso del Estado, dentro de los seis meses siguientes, conta
 
 XVIII.- Presidir todas las reuniones oficiales a que concurra, a excepción de las del Congreso y Tribunales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 XIX.- Asistir a la apertura del segundo período ordinario de sesiones del Congreso, a presentar un informe sobre el estado que guarde la administración pública, salvo lo dispuesto en el artículo 55, párrafos segundo y tercero.
@@ -1961,13 +1931,9 @@ En el caso del Secretario General de Gobierno, se requiere ser mayor de treinta 
 
 Las relaciones entre el Poder Ejecutivo y los Poderes Legislativo y Judicial, se establecerán entre el Gobernador o el Secretario General de Gobierno en su caso, y los titulares de dichos Poderes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 El Secretario General de Gobierno, el Fiscal General del Estado, los Secretarios y los Coordinadores, a más tardar el día treinta de septiembre, presentarán al Congreso un informe por escrito del estado que guardan los asuntos de sus respectivos ramos, pudiendo ser llamados para asesorar y explicar al Congreso, cuando se vaya a discutir un proyecto de ley o a estudiar un negocio relacionado con las funciones de su cargo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
@@ -2567,8 +2533,6 @@ Los municipios podrán celebrar convenios con el Estado para que éste se haga c
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o bien, por quien ellos autoricen, conforme a la ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2013)</small>
 
 ###### Art. 133.
@@ -2967,8 +2931,6 @@ Si el Congreso dejare de aprobar, en los términos de esta Constitución, las le
 
 Los Poderes Legislativo, incluida la Auditoría Superior del Estado, Judicial y Ejecutivo del Estado, este último, tanto en la administración pública centralizada como en la paraestatal; los organismos públicos autónomos y los ayuntamientos, incluyendo las dependencias de la administración pública municipal centralizada y paraestatal y la sindicatura, deberán entregar antes del término de su función, a las autoridades entrantes, la documentación e información necesaria que permita conocer el ejercicio y funcionamiento de dicho encargo. La legislación regulará el proceso de entrega-recepción de las diferentes dependencias.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 2013)</small>
 
 Art. 165 bis.- Los servidores públicos del Estado, de los municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
@@ -2984,8 +2946,6 @@ III. Ningún servidor público podrá tener una remuneración igual o mayor que 
 IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
 
 V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
@@ -3415,7 +3375,7 @@ Palacio de Gobierno del Estado. Chihuahua a 16 de junio de 1950.
 
 ING. FERNANDO FOGLIO MIRAMONTES. El Srio. Gral. de Gobierno, ING.- CRISOFORO CABALLERO B.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.]</small>
 
 P.O. 2 DE MAYO DE 1951.
 
@@ -4674,3 +4634,15 @@ Una vez nombrados sus integrantes, el Consejo de la Judicatura iniciará los tra
 El Congreso del Estado deberá emitir las leyes y hacer las modificaciones necesarias del presente Decreto a más tardar treinta días naturales siguientes a la entrada en vigor del presente Decreto.
 
 Con relación a la previsión presupuestal para el funcionamiento del Consejo de la Judicatura, se estará a lo previsto en los artículos 41 y 42, en lo que corresponda, de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado de Chihuahua.
+
+P.O. 3 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/DRFCT/0313/2017 II P.O., MEDIANTE EL CUAL SE EXPIDE LA DECLARATORIA DE APROBACIÓN DE REFORMAS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO RELATIVA AL DECRETO NO. LXV/RFCNT/0209/2016 I P.O.”.]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el Artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y de los debates a los Ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado, o por la Diputación Permanente en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
