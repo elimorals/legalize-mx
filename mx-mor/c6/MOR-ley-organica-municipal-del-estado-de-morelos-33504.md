@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2017-04-26"
+last_updated: "2017-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -365,9 +365,9 @@ II.- PUEBLO: Centro de población que tenga más de veinticinco mil habitantes p
 
 > <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-III.- COLONIA: Centro de población que tenga un censo menor de veinticinco mil habitantes pero más de cinco mil, y que cuente con los servicios públicos mas indispensables, edificios para las oficinas de las autoridades del lugar, establecimiento penitenciario, panteón y escuelas de enseñanza que sean acordes a las demandas de este centro de población;
+III.- COLONIA: Centro de población que tenga un censo menor de veinticinco mil habitantes pero más de cinco mil, y que cuente con los servicios públicos más indispensables, edificios para las oficinas de las autoridades del lugar, establecimiento penitenciario, panteón y escuelas de enseñanza que sean acordes a las demandas de este centro de población;
 
-IV.- COMUNIDAD: Centro de población que tenga censo menor a cinco mil habitantes, locales adecuados para la prestación de los servicios públicos más indispensables así como instalaciones adecuadas para la impartición de la enseñanza preescolar y primaria cuando menos.
+IV.- COMUNIDAD: Centro de población que tenga censo menor a cinco mil habitantes, locales adecuados para la prestación de los servicios públicos mas indispensables así como instalaciones adecuadas para la impartición de la enseñanza preescolar y primaria cuando menos.
 
 Cuando así lo estimen conveniente, los Ayuntamientos podrán promover ante la Legislatura local, la elevación de rango a Ciudad de alguno de sus pueblos siempre y cuando reúnan los requisitos establecidos en la fracción I del presente artículo. En este caso, la Legislatura Local, atendiendo a las razones expuestas por el Ayuntamiento solicitante, resolverá lo conducente.
 
@@ -557,11 +557,13 @@ I.- Designar a los titulares de las dependencias de la administración pública 
 
 II.- Determinar las comisiones municipales que atiendan los ramos de la Administración Pública de acuerdo a sus necesidades y con base a las facultades consignadas en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Morelos, las cuales deberán ser colegiadas y permanentes, así como designar a los titulares de las mismas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2017)</small>
 
-El número y denominación de las comisiones, será determinado por los integrantes del ayuntamiento, pero en todo caso deberán considerar las siguientes materias:
+El número y denominación de las comisiones, será determinado por los integrantes del Ayuntamiento, pero en todo caso deberán considerar las siguientes materias:
 
-a) Gobernación y, Reglamentos;
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2017)</small>
+
+a) Gobernación y Reglamentos;
 
 b) Hacienda, Programación y Presupuesto;
 
@@ -585,9 +587,9 @@ k) Desarrollo Agropecuario;
 
 l) Coordinación de Organismos Descentralizados;
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2017)</small>
 
-m) Protección ambiental y Desarrollo sustentable
+m) Protección Ambiental;
 
 n) Derechos Humanos;
 
@@ -603,13 +605,17 @@ s) Asuntos Migratorios;
 
 t) Igualdad y Equidad de Género;
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2017)</small>
 
-u) Asuntos de la Juventud y,
+u) Asuntos de la Juventud;
 
-> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2017)</small>
 
-v) Transparencia y Protección de Datos Personales, Rendición de Cuentas y Combate a la corrupción.
+v) Transparencia y Protección de datos personales, rendición de cuentas y combate a la corrupción, y
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2017)</small>
+
+w) Ciencia, Tecnología e Innovación.
 
 Las comisiones que se designen a los miembros del Ayuntamiento serán irrenunciables, salvo causa grave justificada así calificada por la mayoría absoluta de los integrantes del Cabildo.
 
@@ -865,25 +871,17 @@ IX. Dentro del ámbito de su competencia y sujetándose a los requisitos que las
 
 X. Someter a consideración de la Legislatura Local, por conducto del Presidente Municipal, la creación de Organismos Municipales descentralizados, Fideicomisos o Empresas de Participación Municipal Mayoritaria, así como el otorgamiento de concesiones a personas privadas; para la prestación y operación de los Servicios Públicos; y en general para cualquier otro propósito de beneficio colectivo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
 XI. Someter a la autorización del Congreso del Estado la celebración de empréstitos o créditos conforme a lo dispuesto en la Ley de Deuda Pública para el Estado de Morelos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
 XII. Solicitar la autorización de la dependencia de la Administración Pública del Estado encargada del ramo de Hacienda, cuando el Municipio, sus organismos descentralizados, empresas de participación municipal mayoritaria o fideicomisos, requieran que el Estado se constituya en garante, avalista, deudor solidario, subsidiario o sustituto de los mismos para la contratación de empréstitos, créditos o contratos de colaboración público privada, conforme a lo dispuesto en las leyes aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
 XIII. Someter a la autorización del Congreso del Estado la celebración de contratos de colaboración público privada cuando, en términos de la legislación aplicable, impliquen obligaciones que constituyan deuda pública;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -1071,8 +1069,6 @@ V. Otorgar concesiones cuando comprometan al Municipio por un plazo mayor al per
 
 VI. Enajenar, gravar, arrendar o dar posesión de los bienes del Municipio sin sujetarse a los requisitos establecidos en la Constitución Estatal, la presente Ley y demás normas jurídicas aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
 VII. Con excepción de los casos expresamente previstos en las leyes, enajenar o afectar los ingresos municipales en cualquier forma;
@@ -1111,8 +1107,6 @@ VII. Proponer ante el Cabildo, en acuerdo con el Síndico, al responsable del á
 
 VIII. Representar al Ayuntamiento en todos los actos oficiales o delegar esta función;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
 IX. Celebrar, a nombre del Municipio, por acuerdo del Ayuntamiento, todos los actos y contratos necesarios para el funcionamiento de la administración municipal, con facultades de un apoderado legal;
@@ -1130,8 +1124,6 @@ XIII. Visitar los centros de población del Municipio para conocer los problemas
 XIV.- Presentar en el mes de diciembre por escrito, el informe del estado que guarde la administración y de las actividades desarrolladas por su Administración Pública Municipal durante la anualidad que corresponda. En el último año de la gestión Administrativa del Ayuntamiento, el informe se presentará en forma global, comprendiendo la totalidad del Período Constitucional.
 
 XV.- (DEROGADA, P.O. 9 DE ABRIL DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -1681,8 +1673,6 @@ III.- Disfrutar de buena fama y no estar procesado ni haber sido sentenciado por
 
 IV.- Contar con título y cédula profesional de las carreras de Contador Público, Licenciado en Economía, Licenciado en Administración o alguna afín;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2015)</small>
 
 V.- Tener la experiencia y conocimientos suficientes para el desempeño del cargo y contar con capacitación, especialización y/o actualización en contabilidad en el área gubernamental con un mínimo de cuarenta horas con validez oficial comprobada con el documento correspondiente, actualización que deberá realizarse cada año; y
@@ -1712,8 +1702,6 @@ V.- Organizar y vigilar que se lleven al día y con arreglo a la técnica, la co
 Lo anterior, tomándose en consideración la Ley General de Contabilidad Gubernamental y los lineamientos y normatividad que emita el Consejo Nacional de Armonización Contable;
 
 VI.- Llevar por sí mismo la caja de tesorería, cuyos valores estarán siempre bajo su inmediato cuidado y exclusiva responsabilidad;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -1792,8 +1780,6 @@ II. Ser ciudadano morelense en ejercicio de sus derechos civiles y políticos;
 III. Disfrutar de buena fama y no estar procesado, ni haber sido sentenciado por delitos intencionales o inhabilitado como servidor público; sea en el ámbito federal, estatal o municipal;
 
 IV. Contar con título y cédula profesional que lo acredite como profesionista afín al cargo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2015)</small>
 
@@ -2261,19 +2247,13 @@ Los bienes muebles de dominio privado de los Municipios son inembargables; la ad
 
 Los Municipios serán autónomos en la administración de su hacienda, para lo cual deberán sujetarse a lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos. La hacienda pública de los Municipios se integra de las contribuciones incluyendo las tasas adicionales que establezca la Legislación estatal sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación y mejora, y las que tengan por base el cambio de valor de los inmuebles, y con los demás ingresos ordinarios y extraordinarios, que en su favor establezca el Congreso del Estado, con las participaciones y subsidios que la Federación y el Estado les otorgue y con los rendimientos de los bienes que les pertenezcan.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
 
 Con el propósito de acrecentar las fuentes de empleo y los ingresos a favor de los vecinos del municipio, la autoridad fiscal estará facultada para auxiliarse de personas con discapacidad o adultos mayores, que, dentro de su misma calle o colonia, puedan fungir como Agentes Fiscales Municipales, cubriéndoles la proporción que corresponda de los ingresos efectivamente recaudados bajo su gestión o cobranza.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
 
 Los citados Agentes Fiscales promoverán el pago de las contribuciones municipales, y también podrán reportar las construcciones o actividades comerciales que no se hayan registrado ante la autoridad municipal. La autoridad municipal difundirá los mecanismos y requisitos para acceder a esta función.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
 
@@ -2297,23 +2277,17 @@ VI. Contribuciones especiales por la ejecución de obras públicas de urbanizaci
 
 VII. Fondos de los empréstitos públicos y privados y otros ingresos extraordinarios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### Artículo 114.
 
 Los egresos de la administración pública municipal deberán sujetarse estrictamente al presupuesto que el Ayuntamiento apruebe anualmente por ejercicios naturales, el cual deberá formularse sobre las bases, programas y modalidades que el propio Ayuntamiento determine, pero que invariablemente contendrá las asignaciones anuales para gastos generales, de operación y de administración, para inversiones públicas, para el pago de obligaciones derivadas de contratos de colaboración público privada, para el pago de deudas municipales y para erogaciones especiales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### Artículo 115.
 
 Con excepción de los casos previstos en el Artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos, ningún pago podrá hacerse sin que exista partida expresa del presupuesto que lo autorice y saldo disponible para cubrirlo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -2337,13 +2311,9 @@ Los Ayuntamientos deberán informar detalladamente con relación a los emprésti
 
 La cuenta pública anual de cada Municipio se formará, rendirá y aprobará en cada Ayuntamiento, conforme a las disposiciones de la Constitución Política del Estado y a las de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
 
 Los Ayuntamientos presentarán al Congreso, a más tardar el día 31 de enero de cada año, la Cuenta Pública correspondiente al año anterior, debidamente integrada y aprobada por el Cabildo, a excepción del año en que concluyan un período constitucional e inicien uno nuevo, en cuyo caso la aprobación de la cuenta pública y su presentación ante el Congreso la hará cada uno por el período a su cargo. El Ayuntamiento que concluya su gestión deberá presentar, a más tardar el 31 de octubre, la Cuenta Pública correspondiente a los meses de enero a septiembre del año en que termine el período constitucional. El Ayuntamiento que inicie su gestión deberá presentar, a más tardar el 31 de enero del año siguiente a aquel en que inicie su período constitucional, la Cuenta Pública, correspondiente a los meses octubre, noviembre y diciembre del año en que inicie dicho período. En el supuesto anterior, el Ayuntamiento entrante presentará la Cuenta Pública anual, consolidando los doce meses del ejercicio presupuestal, sin perjuicio de las responsabilidades que correspondan a los funcionarios públicos en funciones en cada período constitucional.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE ABRIL DE 2015)</small>
 
@@ -2361,21 +2331,15 @@ La Secretaría de la Contraloría tendrá la intervención en términos de la pr
 
 Los Ayuntamientos requieren de la aprobación de las dos terceras partes de sus integrantes para:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
 I. La contratación de empréstitos para inversiones públicas productivas;
 
 II. Adquirir y enajenar sus bienes muebles e inmuebles;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
 III. Dar en arrendamiento sus bienes propios;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -2387,19 +2351,13 @@ VI. Desincorporar del dominio público los Bienes Municipales;
 
 VII. Para donar bienes muebles e inmuebles siempre que se destinen a la realización de obras de beneficio colectivo; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
 VIII. Celebrar contratos de colaboración público privada;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
 
 IX. Afectar como fuente o garantía de pago, o en cualquier otra forma, los ingresos del Municipio o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos, contratos de colaboración público privada o de cualesquier otros actos jurídicos, en términos de las leyes aplicables;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -2419,19 +2377,13 @@ Cuando las licitaciones a que se hace referencia en el artículo anterior no sea
 
 Con el propósito de preservar las fuentes deempleo, el Ayuntamiento podrá disponer, de se s aun diez por ciento como máximo, del total delpresupuesto anual destinado a las adquisiciones oprestaciones de servicios, contratando para ello amicro o pequeños empresarios de la misma localidadmunicipal. Los recursos en ningún caso podráninvolucrar aportaciones o subsidios de origen federal oestatal (sic).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
 
 Para los efectos de esta ley, se entenderá por micro y pequeños empresarios, a las personas físicas o morales, cuyas actividades comerciales tengan una antigüedad de seis meses, cuenten con su registro de contribuyentes, su domicilio fiscal se ubique en el municipio y se auxilien de entre uno a veinte empleados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
 
 Dentro de las adquisiciones, proveedurías o servicios quedarán comprendidos, de manera enunciativa y no limitativa, los siguientes: materiales y artículos de oficina; mobiliario de todo tipo; material eléctrico; material de construcción; impresos; uniformes y otras prendas de vestir, incluyendo calzado; herramientas; refacciones; llantas; equipo y material médico, dental y veterinario; productos químicos; artículos de limpieza; servicio de alimentos; fletes; mantenimiento de oficinas, equipos, muebles e inmuebles; servicios de procesamiento de datos; pintura de inmuebles; impermeabilizaciones; entre otros.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
 
@@ -2564,8 +2516,6 @@ Cuando el Ayuntamiento en uso de sus facultades realice obra pública por contra
 ###### Artículo 129.
 
 Cuando varios Municipios del Estado tengan interés común en la realización de alguna misma obra pública, podrán celebrar convenio de asociación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -2801,7 +2751,7 @@ V. Cuando el concesionario no otorgue o amplíe las garantías en los términos 
 
 VI. Porque el concesionario hipoteque, enajene o de cualquier manera grave la concesión o alguno de los derechos en ella establecidos, o los bienes afectos o dedicados al servicio público municipal de que se trate y siempre que haya transcurrido cuando menos un año de su otorgamiento; y
 
-VII. Porque el concesionario modifique sin autorización de Ayuntamiento las tarifas autorizadas.
+VII. Porque el concesionario modifique sin autorización de (sic) Ayuntamiento las tarifas autorizadas.
 
 ###### Artículo 152.
 
@@ -2947,7 +2897,7 @@ En todo el Estado se dará entera fe y crédito a los actos y procedimientos de 
 
 ###### Artículo 169.
 
-Los actos administrativos de las autoridades municipales se sujetarán estrictamente a lo dispuesto en esta Ley y sus reglamentos y a la Ley de Procedimiento Administrativo para el estado de Morelos. Los actos que se dicten, ordenen o ejecuten en contravención a los ordenamientos mencionados o no queden comprendidos en sus prevenciones, son nulos de pleno derecho.
+Los actos administrativos de las autoridades municipales se sujetarán estrictamente a lo dispuesto en esta Ley y sus reglamentos y a la Ley de Procedimiento Administrativo para el Estado de Morelos. Los actos que se dicten, ordenen o ejecuten en contravención a los ordenamientos mencionados o no queden comprendidos en sus prevenciones, son nulos de pleno derecho.
 
 ###### Artículo 170.
 
@@ -3015,7 +2965,7 @@ Las licencias temporales podrán otorgarse con goce de sueldo, si así lo determ
 
 ###### Artículo 173.
 
-Sólo el Ayuntamiento en funciones de Cabildo, podrá conceder a sus miembros licencias mayores de quince días, en casos debidamente justificados, en caso de que la separación al cargo solicitada tenga• por objeto ejercer el derecho a ser votado a un cargo de elección popular, no requerirá la autorización del Cabildo, sólo se deberá dar aviso por escrito, al Secretario General del Ayuntamiento, para que este ordene al área correspondiente la suspensión del pago de las prerrogativas y prestaciones a que tenga derecho dicho Servidor Público y pueda competir en igualdad de circunstancias.
+Sólo el Ayuntamiento en funciones de Cabildo, podrá conceder a sus miembros licencias mayores de quince días, en casos debidamente justificados, en caso de que la separación al cargo solicitada tenga por objeto ejercer el derecho a ser votado a un cargo de elección popular, no requerirá la autorización del Cabildo, sólo se deberá dar aviso por escrito, al Secretario General del Ayuntamiento, para que este ordene al área correspondiente la suspensión del pago de las prerrogativas y prestaciones a que tenga derecho dicho Servidor Público y pueda competir en igualdad de circunstancias.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -3139,9 +3089,9 @@ En caso de que se declare procedente la desaparición o suspensión definitiva d
 
 ###### Artículo 190.
 
-Si la desaparición o suspensión definitiva de un Ayuntamiento se declara dentro de los doce meses del inicio de su ejercicio, el Concejo Municipal designado por el Congreso tendrá el carácter de provisional; en este caso el propio Congreso convocará a nueva elección del Ayuntamiento, de conformidad con las disposiciones de la Ley General de Instituciones y Procedimientos Electorales y del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos. El Ayuntamiento electo concluirá el período respectivo.
+Si la desaparición o suspensión definitiva de un Ayuntamiento se declara dentro de los doce meses del inicio de su ejercicio, el Concejo Municipal designado por el Congreso tendrá el carácter de provisional; en este caso el propio Congreso convocará a nueva elección del Ayuntamiento, de conformidad con las disposiciones de la Ley General de Instituciones y Procedimientos Electorales y del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos. El Ayuntamiento electo concluirá el periodo respectivo.
 
-En caso de que la desaparición del Ayuntamiento se declare dentro de los últimos veinticuatro meses de su ejercicio, el Concejo Municipal designado concluirá el periodo respectivo.
+En caso de que la desaparición del Ayuntamiento se declare dentro de los últimos veinticuatro meses de su ejercicio, el Concejo Municipal designado concluirá el período respectivo.
 
 ###### Artículo 191.
 
@@ -3247,7 +3197,7 @@ EDUARDO BECERRA PÉREZ
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 18 DE MAYO DE 2005.
 
@@ -3855,7 +3805,7 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para lo
 
 ###### ARTICULO SEGUNDO.
 
-El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y libertad", Órgano de difusión del Gobierno del Estado libre y Soberano de Morelos.
 
 ###### ARTICULO TERCERO.
 
@@ -3977,11 +3927,11 @@ CUARTA.- Las funciones, facultades, derechos y obligaciones establecidos a cargo
 
 P.O. 18 DE ENERO DE 2017.
 
-> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO MIL CUATROCIENTOS SESENTA Y CINCO POR EL QUE SE REFORMA EL PARRAFO TERCERO DEL ARTÍCULO 101 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS”.]</small>
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO MIL CUATROCIENTOS SESENTA Y CINCO POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 101 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS".]</small>
 
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA.- Los Municipios del Estado, a través de sus Ayuntamientos emitirán las disposiciones reglamentarias correspondientes en un término no mayor a 90 días hábiles, contados a partir de la fecha en que entre en vigor la presente reforma.
 
@@ -4020,6 +3970,14 @@ PRIMERA. Remítase el presente decreto al Gobernador Constitucional del Estado p
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación, sin perjuicio de lo señalado en la siguiente disposición transitoria.
 
 TERCERA. La presente reforma será aplicable a partir del 1º de enero de 2019, fecha en que tomen protesta los nuevos Ayuntamientos.
+
+P.O. 3 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHOCIENTOS VEINTIUNO POR EL QUE SE ADICIONA UN INCISO AL ARTÍCULO 24 FRACCIÓN II, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
 
 ###### ARTÍCULO CUARTO.
 
