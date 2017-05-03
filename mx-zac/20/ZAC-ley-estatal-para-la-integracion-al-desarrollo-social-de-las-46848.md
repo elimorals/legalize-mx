@@ -4,7 +4,7 @@ identifier: "ZAC-ley-estatal-para-la-integracion-al-desarrollo-social-de-las-468
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-05"
-last_updated: "2016-06-29"
+last_updated: "2017-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY ESTATAL PARA LA INTEGRACION AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 3 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ESTATAL PARA LA INTEGRACIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2017 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de noviembre de 2005.
 
@@ -1668,3 +1670,59 @@ Primero. El presente Decreto entrará en vigor el día de su publicación en el 
 Segundo. La Secretaría de Desarrollo Social del Gobierno del Estado, a través de la Subsecretaría para la Inclusión de Personas con Discapacidad, dentro del término de noventa días, reformará su reglamento interno para adicionar normas específicas a fin de ejecutar lo dispuesto en la presente reforma, relativas a la identificación, entrenamiento y certificación de perros guía.
 
 Tercero. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 3 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE ZACATECAS”.]
+
+Vigencia
+
+Artículo primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Abrogación
+
+Artículo segundo. Se abroga la Ley Estatal para la Integración al Desarrollo Social de las Personas con Discapacidad, publicada en Suplemento 2 al 89 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al 5 de noviembre de 2005.
+
+Emisión de Reglamento y Estatuto
+
+Artículo tercero. Dentro de los ciento veinte días naturales siguientes a la entrada en vigor de la presente Ley, se deberá expedir el Reglamento de esta Ley y el Estatuto Orgánico del Instituto para la Atención e Inclusión de las Personas con Discapacidad del Estado de Zacatecas.
+
+Los manuales o, en su caso, las reformas a los mismos, deberán publicarse dentro de los noventa días siguientes a la entrada en vigor del citado Estatuto Orgánico.
+
+Integración de la Junta de Gobierno
+
+Artículo cuarto. Dentro de los treinta días siguientes a la entrada en vigor de la presente Ley, deberá quedar conformada la Junta de Gobierno.
+
+Titular del Organismo y derechos laborales de los trabajadores
+
+Artículo quinto. El titular la Subsecretaría de las Personas con Discapacidad de la Secretaría de Desarrollo Social podrá continuar en el encargo en carácter de Director General del Instituto, hasta en tanto el Titular del Poder Ejecutivo del Estado realice un nuevo nombramiento.
+
+Los servidores públicos que a la entrada en vigor del presente Decreto formen parte de la Subsecretaría de las Personas con Discapacidad de la Secretaría de Desarrollo Social, conservarán sus derechos laborales y de seguridad social.
+
+Entrega-recepción de recursos
+
+Artículo sexto. El Ejecutivo del Estado transferirá los recursos humanos, financieros y materiales con los que cuenta actualmente la Subsecretaría de las Personas con Discapacidad de la Secretaría de Desarrollo Social, al Instituto para la Atención e Inclusión de las Personas con Discapacidad del Estado de Zacatecas.
+
+El proceso de entrega-recepción se llevará a cabo de acuerdo con la Ley de Entrega-Recepción del Estado y Municipios de Zacatecas, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios y demás disposiciones aplicables.
+
+Constitución Asamblea Consultiva
+
+Artículo séptimo. Dentro de los treinta días naturales siguientes a la entrada en vigor del Reglamento, será constituida la Asamblea Consultiva para Personas con Discapacidad. El Titular del Ejecutivo tomará la protesta correspondiente a sus integrantes.
+
+Plazo para emitir programas
+
+Artículo octavo. Dentro de un año siguiente a la vigencia de esta Ley, se publicará en el Periódico Oficial, Órgano del Gobierno del Estado, el Programa Estatal de Prevención de la Discapacidad y el Programa Estatal de Deporte Adaptado y Paralímpico.
+
+Accesibilidad
+
+Artículo noveno. De acuerdo con la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, el Código Urbano, la presente Ley, las calles, parques, jardines, instalaciones y edificios públicos, serán adaptados de manera paulatina.
+
+Para tal fin los Poderes Ejecutivo, Legislativo y Judicial, los Ayuntamientos Municipales y los organismos públicos autónomos, contemplarán en los subsiguientes presupuestos de egresos, los recursos necesarios para la realización de dichas adaptaciones.
+
+Cambio de denominación de dependencias
+
+Artículo décimo. Si con motivo de las reformas a la Ley Orgánica de la Administración Pública del Estado u otros ordenamientos, las dependencias a que se refiere esta Ley cambien de denominación, se entenderán hechas o conferidas a las dependencias o unidades administrativas que resulten competentes conforme a las citadas reformas y los nuevos cuerpos normativos.
+
+Derogación tácita
+
+Artículo decimoprimero. Se derogan las disposiciones que contravengan este Decreto.
