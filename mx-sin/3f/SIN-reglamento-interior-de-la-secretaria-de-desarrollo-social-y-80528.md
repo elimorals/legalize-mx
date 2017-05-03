@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-secretaria-de-desarrollo-social-y-805
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-30"
-last_updated: "2011-03-30"
+last_updated: "2017-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL Y HUMANO DEL ESTADO DE SINALOA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL Y HUMANO DEL ESTADO DE SINALOA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL, PUBLICADO EN LA EDICIÓN VESPERTINA AL NO. 55 DEL P.O. DE 3 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL Y HUMANO DEL ESTADO DE SINALOA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2017 (DEROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 30 de marzo de 2011.
 
@@ -1060,3 +1062,15 @@ LIC. JUAN ERNESTO MILLÁN PIETSCH
 EL SECRETARIO DE INNOVACIÓN GUBERNAMENTAL
 
 MTRO. KARIM PECHIR ESPINOSA DE LOS MONTEROS
+
+[N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
+
+P.O. 3 DE MAYO DE 2017.
+
+[N. DE. E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL”.]
+
+Artículo Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se deroga el Reglamento Interior de la Secretaría de Desarrollo Social y Humano, de fecha 15 de febrero de 2011, publicado en el Periódico Oficial "El Estado de Sinaloa", número 038, de fecha 30 de marzo del mismo año.
+
+Artículo Tercero.- La Secretaría formulará dentro de un plazo de sesenta días contados a partir de la entrada en vigor de este Reglamento, el manual de organización, y los manuales de procedimientos y de servicios al público.
