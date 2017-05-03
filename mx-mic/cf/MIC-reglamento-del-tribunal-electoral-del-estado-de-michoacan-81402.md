@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-del-tribunal-electoral-del-estado-de-michoacan-81402
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-20"
-last_updated: "2011-05-20"
+last_updated: "2017-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO DEL TRIBUNAL ELECTORAL DEL ESTADO DE MICHOACAN EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL TRIBUNAL ELECTORAL DEL ESTADO DE MICHOACÁN, DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, PUBLICADO EN EL P.O. DE 3 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL TRIBUNAL ELECTORAL DEL ESTADO DE MICHOACAN EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el viernes 20 de mayo de 2011.
 
@@ -418,3 +420,21 @@ MARÍA TERESA DEL NIÑO JESÚS OLGUÍN PÉREZ
 (Firmado)
 
 La suscrita Licenciada María Teresa del Niño Jesús Olguín Pérez, Secretaria General de Acuerdos, hago constar que las firmas que obran en la presente foja, forman parte del Reglamento del Tribunal Electoral del Estado de Michoacán en Materia de Transparencia y Acceso a la Información Pública, aprobado por unanimidad de votos, de los magistrados Jaime del Río Salcedo, en su calidad de Presidente, María de Jesús García Ramírez, Fernando González Cendejas, Alejandro Sánchez García, y Jorge Alberto Zamacona Madrigal, en sesión de Pleno de 16 dieciséis de mayo de dos mil once, el cual consta de dieciséis fojas incluida la presente. Conste. (Firmado).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL PLENO DEL TRIBUNAL ELECTORAL DEL ESTADO DE MICHOACÁN, POR EL QUE SE EXPIDE EL REGLAMENTO DEL TRIBUNAL ELECTORAL DEL ESTADO DE MICHOACÁN, DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES Y SE ABROGA EL REGLAMENTO EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DE ESTE ÓRGANO .JURISDICCIONAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a partir de la fecha de su aprobación.
+
+SEGUNDO. Se abroga el Reglamento del Tribunal Electoral del Estado de Michoacán en Materia de Transparencia y Acceso a la Información Pública, aprobado en sesión de Pleno el dieciséis de mayo de dos mil once y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el día veinte del mismo mes y año.
+
+TERCERO. Se expide el Reglamento del Tribunal Electoral del Estado de Michoacán, de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Tribunal Electoral del Estado de Michoacán.
+
+CUARTO. Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, en los estrados de este Tribunal y en la página web para su mayor difusión.
+
+QUINTO. Notifíquese, por oficio, el presente Acuerdo al Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+SEXTO. Se instruye a la secretaria administrativa, para que realice el trámite correspondiente para el cobro por reproducción, respecto de la información que sea solicitada en términos del presente Reglamento.
