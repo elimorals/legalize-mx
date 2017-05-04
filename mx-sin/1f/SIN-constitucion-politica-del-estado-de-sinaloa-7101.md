@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2017-03-17"
+last_updated: "2017-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2017.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -551,27 +551,35 @@ El Poder Legislativo del Estado, se deposita en una asamblea que se denominará 
 
 El Congreso del Estado se compondrá de representantes electos popularmente cada tres años. Por cada Diputado Propietario se elegirá un Suplente del mismo género.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2017)</small>
 
 ###### Art. 24.
 
-El Congreso del Estado se integrará con 40 Diputados, 24 de ellos electos por el sistema de mayoría relativa en distritos electorales uninominales y 16 Diputados electos de acuerdo con el principio de representación proporcional, mediante el sistema de lista de candidatos votada en circunscripción plurinominal.
+El Congreso del Estado se integrará con 30 Diputados, 18 de ellos electos por el sistema de mayoría relativa en distritos electorales uninominales y 12 Diputados electos de acuerdo con el principio de representación proporcional, mediante el sistema de lista de candidatos votada en circunscripción plurinominal.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
 La demarcación territorial de los distritos electorales uninominales locales será realizada por el Instituto Nacional Electoral con base en el último censo general de población y los criterios generales determinados por su Consejo General.
 
-Para la elección de los 16 Diputados según el principio de representación proporcional y el sistema de listas de candidatos, el territorio del Estado se podrá dividir de una a tres circunscripciones plurinominales. La Ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
 
-Para que un partido político obtenga el registro de sus listas para la elección de diputados de representación proporcional, deberá acreditar que participa con candidatos a diputados de mayoría relativa en por lo menos diez distritos uninominales, de ellos, en su caso, mínimamente tres deberán estar en cada circunscripción plurinominal.
+Para la elección de los 12 Diputados según el principio de representación proporcional y el sistema de listas de candidatos, el territorio del Estado se conformará en una circunscripción plurinominal. La Ley determinará la forma de establecer la demarcación territorial de esta circunscripción.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
+
+Para que un partido político obtenga el registro de sus listas para la elección de diputados de representación proporcional, deberá acreditar que participa con candidatos a diputados de mayoría relativa en por lo menos 10 distritos uninominales.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
 Todo partido político que alcance el tres por ciento de la votación estatal emitida para la elección de Diputados en el Estado, tendrá derecho a que se le asigne un Diputado de representación proporcional.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
+
 El número de Diputados de representación proporcional que se asigne a cada partido se determinará en función del porcentaje de votos efectivos obtenidos, mediante la aplicación de la fórmula electoral y procedimiento de asignación que señale la Ley. En todo caso la asignación se hará siguiendo el orden que tuvieren los candidatos en la lista o listas correspondientes.
 
-En ningún caso un partido político podrá contar con más de 24 diputados por ambos principios.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
+
+En ningún caso un partido político podrá contar con más de 18 diputados por ambos principios.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
@@ -2173,11 +2181,17 @@ Por cada Regidor y Síndico Procurador propietarios se elegirá un suplente del 
 
 Los municipios, cualquiera que sea su número de habitantes, integrarán sus Ayuntamientos de conformidad con lo siguiente:
 
-I. Los de Ahome, Guasave, Culiacán y Mazatlán, con un Presidente Municipal, un Síndico Procurador, once Regidores de Mayoría Relativa y siete Regidores de Representación Proporcional.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2017)</small>
 
-II. Los de El Fuerte, Sinaloa, Salvador Alvarado, Mocorito, Navolato, Rosario y Escuinapa, con un Presidente Municipal, un Síndico Procurador, ocho Regidores de Mayoría Relativa y cinco Regidores de Representación Proporcional.
+I. Los de Ahome, Guasave, Culiacán y Mazatlán, con un Presidente Municipal, un Síndico Procurador, siete Regidores de Mayoría Relativa y cinco Regidores de Representación Proporcional.
 
-III. Los Municipios de Choix, Angostura, Badiraguato, Cosalá, Elota, San Ignacio y Concordia, con un Presidente Municipal, un Síndico Procurador, seis Regidores de Mayoría Relativa y cuatro Regidores de Representación Proporcional.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2017)</small>
+
+II. Los de El Fuerte, Sinaloa, Salvador Alvarado, Mocorito, Navolato, Rosario y Escuinapa, con un Presidente Municipal, un Síndico Procurador, cinco Regidores de Mayoría Relativa y cuatro Regidores de Representación Proporcional.
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2017)</small>
+
+III. Los Municipios de Choix, Angostura, Badiraguato, Cosalá, Elota, San Ignacio y Concordia, con un Presidente Municipal, un Síndico Procurador, tres Regidores de Mayoría Relativa y tres Regidores de Representación Proporcional.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
@@ -4172,3 +4186,15 @@ El Tribunal de lo Contencioso Administrativo del Estado de Sinaloa continuará f
 NOVENO. Los recursos humanos, materiales, financieros y presupuestales con que cuenta el Tribunal de lo Contencioso Administrativo del Estado de Sinaloa, incluyendo todos sus bienes y los derechos derivados de los fondos o fideicomisos vigentes, pasarán a formar parte del Tribunal de Justicia Administrativa en los términos que determine la Ley a que se refiere la fracción XXXIX del artículo 43 de esta Constitución.
 
 DÉCIMO. Los trabajadores de base que se encuentren prestando sus servicios en el Tribunal de lo Contencioso Administrativo del Estado de Sinaloa, a la entrada en vigor de la Ley a que se refiere la fracción XXXIX del artículo 43 de esta Constitución, seguirán conservando su misma calidad y derechos laborales que les corresponden ante el Tribunal de Justicia Administrativa, en los términos que dicha ley determine.
+
+P.O. 4 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 105 QUE REFORMA LOS ARTÍCULOS 24 Y 112 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+La reforma del artículo 24 relativa a la integración del Congreso del Estado, entrará en vigor el primero de febrero de 2020, para ser aplicable al proceso electoral local 2020-2021.
+
+SEGUNDO. El Congreso del Estado en un plazo de 60 días posteriores al inicio de vigencia del presente Decreto, deberá armonizar la legislación electoral del Estado conforme al artículo 112 de la Constitución Política del Estado, asimismo, en un plazo que no deberá exceder del primero de febrero de 2020 conforme al artículo 24 de la Constitución Política del Estado.
+
+TERCERO. Comuníquese al Instituto Nacional Electoral el presente Decreto a efecto de que conforme a sus atribuciones constitucionales y legales, realice la demarcación territorial de los distritos electorales uninominales correspondientes al Estado de Sinaloa, que atiendan a la conformación del Congreso del Estado.
