@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2017-04-21"
+last_updated: "2017-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE MAYO DE 2017 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
-
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE MAYO DE 2017.]</small>
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -2561,9 +2561,21 @@ ARTICULO 207 BIS.- Al que sin autorización modifique, destruya, o provoque pér
 
 ARTICULO 207 TER.- Al que sin autorización modifique, destruya o provoque pérdida de información contenida en sistema o equipo de informática de alguna dependencia pública, protegida por algún mecanismo se le impondrá una sanción de dos a seis años de prisión y multa de doscientas a seiscientas veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. LXIII-160, PUBLICADO EN EL P.O. DE 21 DE ABRIL DE 2017, PÁGINA 10.]</small>
+(REFORMADO, P.O. 21 DE ABRIL DE 2017) (F. DE E., P.O. 4 DE MAYO DE 2017)
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+ARTICULO 207 QUATER.- Al que sin autorización, utilice, copie o modifique información contenida en sistemas o equipos de informática, protegida por algún mecanismo de seguridad, se le impondrá una sanción de dos a cinco años de prisión y multa de cien a trescientos veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 207 QUINQUIES.- Al que estando autorizado para acceder a sistemas y equipos de informática de alguna dependencia pública, indebidamente modifique, destruye o provoque pérdida de información que contengan se impondrá una sanción de tres a ocho años de prisión y multa de trescientas a ochocientas-veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 207 SEXIES.- Al que estando autorizado para acceder a sistemas y equipos de informática de alguna dependencia pública, indebidamente copie, transmita o imprima información que contengan se le impondrá de uno a cuatro años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+Los delitos previstos en este título serán sancionados por querella de la parte ofendida.
 
 ###### ARTICULO 205.
 
@@ -2671,9 +2683,9 @@ Comete el delito de abandono de funciones públicas el que sin habérsele admiti
 
 A los responsables de los delitos previstos en los artículos 209, fracciones I, II, III, IV y 210, se les impondrá una sanción de dos a seis años de prisión y multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización y destitución en su caso, e inhabilitación de tres a seis años para desempeñar un empleo, cargo o comisión públicos.
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+(ADICIONADO, P.O. 21 DE ABRIL DE 2017) (F. DE E., P.O. 4 DE MAYO DE 2017)
 
-A los infractores de las fracciones V, VI, VI (sic), VII y VIII del artículo 209, se les impondrá una sanción de tres a siete años de prisión y de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización y destitución en su caso, e inhabilitación de cuatro a siete años para desempeñar un empleo, cargo o comisión públicos.
+A los infractores de las fracciones V, VI, VII y VIII del artículo 209, se les impondrá una sanción de tres a siete años de prisión y de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización y destitución en su caso, e inhabilitación de cuatro a siete años para desempeñar un empleo, cargo o comisión públicos.
 
 ### CAPITULO IV. DE LA TORTURA
 
