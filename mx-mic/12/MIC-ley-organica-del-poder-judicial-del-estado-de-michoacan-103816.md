@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-de-michoacan-103816"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-03"
-last_updated: "2016-12-29"
+last_updated: "2017-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2017.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 3 de diciembre de 2014.
 
@@ -73,9 +73,21 @@ VIII. Magistrado: Integrante del Pleno y titular de alguna de las salas civiles 
 
 IX. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
 
-X. Pleno: Máximo órgano colegiado de carácter jurisdiccional que se integra y funciona con los Magistrados penales y civiles, así como su Presidente; y,
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2017)</small>
 
-XI. Poder Judicial: El Poder Judicial del Estado de Michoacán.
+X. Pleno: Máximo órgano colegiado de carácter jurisdiccional que se integra y funciona con los Magistrados Penales y Civiles, así como su Presidente;
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2017)</small>
+
+XI. Poder Judicial: El Poder Judicial del Estado de Michoacán;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2017)</small>
+
+XII. Tribunal de enjuiciamiento: El Órgano jurisdiccional del fuero común integrado por uno o tres juzgadores, que interviene después del auto de apertura a juicio oral, hasta el dictado y explicación de sentencia; y,
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2017)</small>
+
+XIII. Tribunal de alzada: El Órgano jurisdiccional integrado por uno o tres magistrados, que resuelven la apelación y los recursos de impugnación contra las resoluciones que dicten los jueces de primera instancia, jueces de control, Tribunal de enjuiciamiento y jueces de ejecución de sanciones.
 
 ###### Artículo 3.
 
@@ -85,7 +97,7 @@ I. El Pleno;
 
 II. El Consejo;
 
-IIl. Las Salas;
+III. Las Salas;
 
 IV. Los Juzgados;
 
@@ -397,7 +409,9 @@ IX. Las excusas y recusaciones con causa de los titulares de otras salas, tanto 
 
 Las salas penales conocerán, por turno, de los asuntos siguientes:
 
-I. De los recursos de impugnación contra las resoluciones que dicten los jueces de primera instancia, jueces de control, Tribunal de enjuiciamiento y jueces de ejecución de sanciones;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2017)</small>
+
+I. De los recursos de impugnación contra las resoluciones que dicten los jueces de primera instancia, jueces de control, Tribunal de enjuiciamiento en materia penal tanto de adultos como de adolescentes y de los jueces de ejecución de sanciones;
 
 II. El recurso de revocación en términos de ley;
 
@@ -557,11 +571,21 @@ El Consejo también podrá habilitar a jueces de control y tribunales de enjuici
 
 Los juzgados de Primera Instancia conocerán de todos los negocios que no sean de la competencia de los juzgados menores o comunales. El Consejo determinará las materias de que conocerá cada uno, pudiendo determinar la existencia de juzgados mixtos, de instrucción así como jueces de oralidad en las materias civil, familiar y mercantil, cuando la carga de trabajo especializado de la materia lo requiera y lo permita el presupuesto.
 
-En oralidad civil y familiar podrá haber jueces de instrucción y de oralidad o solamente éstos, los que conocerán de los asuntos previstos en los artículos 40 y 41, en los términos por (sic) los códigos de procedimientos civiles y familiar. Cuando solamente existan jueces de oralidad, estos conocerán también de las etapas procesales previstas por el Juez de instrucción.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
+
+En oralidad civil y familiar podrá haber jueces de instrucción y oralidad o solamente éstos, los que conocerán de los asuntos previstos en los artículos 40 y 41, en los términos de los códigos de procedimientos civiles y familiar. Cuando solamente existan jueces de oralidad, estos conocerán también de las etapas procesales previstas para el Juez de instrucción.
 
 En materia penal la primera instancia corresponde además a los juzgados de control y a los tribunales de enjuiciamiento, los que el Consejo podrá determinar que sean itinerantes.
 
-También son jueces de primera instancia los especializados en justicia integral para adolescentes y los de ejecución de sanciones.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
+
+También son jueces de primera instancia los jueces de control y tribunal de enjuiciamiento en justicia penal para adolescentes y los de ejecución de sanciones penales.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2017)</small>
+
+###### Artículo 39 Bis.
+
+Los jueces de oralidad en las materias civil, penal, familiar y mercantil, tendrán fe pública, en todas aquellas audiencias y diligencias orales que les corresponda presidir con motivo de sus funciones en esta modalidad.
 
 ###### Artículo 40.
 
@@ -723,7 +747,9 @@ V. Ejercer el poder de disciplina, cuidar que se mantenga el buen orden, exigir 
 
 VI. Las demás que le asignen las leyes o reglamentos.
 
-A. Son atribuciones del presidente del Tribunal de enjuiciamiento:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2017)</small>
+
+A. Son atribuciones del Presidente del Tribunal de enjuiciamiento:
 
 I. Verificar que se haya citado oportunamente a las partes e intervinientes a la audiencia de debate;
 
@@ -753,9 +779,15 @@ XIII. Aplicar los medios de apremio autorizados por la ley;
 
 XIV. Leer los resolutivos y explicar la sentencia en la audiencia respectiva;
 
-XV. Instruir los recursos que se promuevan en contra de la sentencia pronunciada en la audiencia del juicio oral; y,
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2017)</small>
 
-XVI. Las demás que le asignen las leyes o reglamentos.
+XV. Instruir los recursos que se promuevan en contra de la sentencia pronunciada en la audiencia del juicio oral;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2017)</small>
+
+XVI. Remitir los registros de las causas penales donde la sentencia no sea impugnada a la Comisión de Vigilancia y Disciplina del Consejo del Poder Judicial, para que conozca de los mismos respecto de la responsabilidad oficial; y,
+
+XVII. Las demás que le asignen las leyes o reglamentos.
 
 El Presidente del Tribunal de enjuiciamiento será asignado de entre los tres jueces que integren dicho tribunal de forma sucesiva por cada audiencia por la Dirección de Gestión del Sistema de Justicia Penal Acusatorio y Oral.
 
@@ -773,9 +805,11 @@ El Relator del tribunal de juicio oral será asignado de entre los tres jueces q
 
 En cada región judicial habrá el número de jueces de ejecución que determine el Consejo, acorde a su presupuesto.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
+
 ###### Artículo 50.
 
-Al Juez de ejecución le corresponde vigilar y garantizar jurisdiccionalmente el estricto cumplimiento de las normas que regulan la ejecución de las penas y medidas de seguridad.
+Al Juez de ejecución le corresponde vigilar y garantizar jurisdiccionalmente el estricto cumplimiento de las normas que regulan la ejecución de las penas y medidas de seguridad en materia penal tanto de adultos como de adolescentes.
 
 ###### Artículo 51.
 
@@ -797,15 +831,23 @@ VII. Resolver sobre las propuestas de otorgamiento de la libertad condicional qu
 
 VIII. Resolver sobre las solicitudes de rehabilitación de derechos, funciones o empleo, en los términos del código penal aplicable y la ley;
 
-IX. Dar fe de sus propias actuaciones, como la tienen los jueces de control de garantías y de juicio oral, en los términos de la normatividad adjetiva aplicable; y,
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2017)</small>
 
-X. Las demás que les encomienden las disposiciones normativas aplicables.
+IX. Dar fe de sus propias actuaciones, como la tienen los jueces de control de garantías y de juicio oral, en los términos de la normatividad adjetiva aplicable;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2017)</small>
+
+X. Remitir los expedientes de ejecución del sistema penal tradicional o los registros de las carpetas de ejecución del sistema acusatorio y oral que resuelvan de manera definitiva, de conformidad con la Ley aplicable, que no hayan sido recurridas, a la Comisión de Vigilancia y Disciplina del Consejo del Poder Judicial, para que conozca de los mismos respecto de la responsabilidad oficial; y,
+
+XI. Las demás que les encomienden las disposiciones normativas aplicables.
 
 Para los efectos de este artículo el Juez de ejecución podrá solicitar la colaboración necesaria de cualquier autoridad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2017)</small>
+
 ###### Artículo 52.
 
-La administración de los juzgados y tribunales de enjuiciamiento, estará a cargo de la Dirección de Gestión del Sistema de Justicia Penal Acusatorio y Oral, cuya función esencial será planificar, organizar, implementar, controlar y dirigir un equipo multidisciplinario de gestión que permita desarrollar con efectividad en todo el territorio del Estado, el sistema de justicia de que se trate, la cual tendrá las atribuciones siguientes:
+La administración de los juzgados y tribunales de enjuiciamiento en materia penal tanto de adultos como de adolescentes, así como de ejecución de sanciones, estará a cargo de la Dirección de Gestión del Sistema de Justicia Penal Acusatorio y Oral, cuya función esencial será planificar, organizar, implementar, controlar y dirigir un equipo multidisciplinario de gestión que permita desarrollar con efectividad en todo el territorio del Estado, el sistema de justicia de que se trate, la cual tendrá las atribuciones siguientes:
 
 I. Dirigir los trabajos y supervisar el desempeño del personal de apoyo;
 
@@ -849,51 +891,49 @@ El Juez, en caso de retiro forzoso, tendrá derecho al haber por retiro señalad
 
 ### Capítulo Tercero. Juzgados Especializados en Justicia Penal para Adolescentes
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
+
 ###### Artículo 58.
 
-La justicia integral para adolescentes contará con juzgados de primera instancia especializados y de apelación. Tendrán la competencia que señala la Ley de Justicia Integral para Adolescentes del Estado. Su número, denominaciones y circunscripciones territoriales las determinará el Consejo, acorde a las posibilidades presupuestales.
+La justicia especializada para adolescentes contará con:
+
+I. Tribunal de alzada;
+
+II. Juez de Control; y,
+
+III. Tribunal de enjuiciamiento.
+
+Tendrán la competencia que señala la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
+
+Su número, denominaciones y circunscripciones territoriales las determinará el Consejo, acorde a las posibilidades presupuestales.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
 
 ###### Artículo 59.
 
-Son atribuciones de los jueces especializados de apelación:
-
-I. Conocer de los recursos que señala la Ley de Justicia Integral para Adolescentes;
-
-II. Tener a su cargo al personal y poner en conocimiento del Consejo las irregularidades por éstos cometidas; y
-
-III. Desempeñar las demás funciones que les confieran las leyes.
+Las funciones para los jueces de control y Tribunal de enjuiciamiento unitario, serán las mismas que las establecidas para el sistema penal acusatorio y oral, establecidas en los artículos 47 y 48 de esta misma Ley, aplicando las reglas especiales para adolescentes que marca la Ley de la materia.
 
 ###### Artículo 60.
 
-Son atribuciones de los jueces especializados de la causa:
+(DEROGADO, P.O. 4 DE MAYO DE 2017)
 
-I. Conocer de los asuntos que señala la Ley de Justicia Integral para Adolescentes;
-
-II. Tener a su cargo al personal y poner en conocimiento del Consejo las irregularidades por éstos cometidas; y
-
-III. Desempeñar las demás funciones que les confieran las leyes.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
 
 ###### Artículo 61.
 
-Los juzgados especializados se integran por:
+Remitir los registros de las causas penales, de las sentencias no impugnadas, a la Comisión de Vigilancia y Disciplina del Consejo del Poder Judicial, para que conozca de los mismos respecto de la responsabilidad oficial.
 
-I. Juez Especializado de la causa o de Apelación;
-
-II. Secretario de Acuerdos;
-
-III. Actuario; y,
-
-IV. El demás personal que acuerde el Consejo según las necesidades, conforme a las posibilidades presupuestarias.
-
-El Secretario de Acuerdos y el Actuario tendrán, en lo conducente, las mismas facultades y obligaciones que sus homólogos de un Juzgado de Primera Instancia.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
 
 ###### Artículo 62.
 
-Los jueces especializados en justicia penal para adolescentes deberán cumplir con requisitos suficientes de especialización en la materia; conforme a los criterios de formación que establezca el Consejo, además de los señalados por la Constitución.
+Los jueces de control y de Tribunal de enjuiciamiento en justicia penal para adolescentes deberán cumplir con requisitos suficientes de especialización en la materia, conforme a los criterios de formación que establezca el Consejo, además de los señalados por la Constitución y esta Ley.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
 
 ###### Artículo 63.
 
-Los jueces especializados en justicia penal para adolescentes deberán someterse para su ingreso a concurso de oposición de conformidad con lo establecido en esta ley y el reglamento específico, durarán en su encargo tres años y solo podrán ser removidos en los términos de la normatividad aplicable.
+Los jueces de control y de Tribunal de enjuiciamiento en justicia penal para adolescentes deberán someterse para su ingreso a concurso de oposición de conformidad con lo establecido en esta ley y el reglamento específico, durarán en su encargo tres años y solo podrán ser removidos en los términos de la normatividad aplicable.
 
 ### Capítulo Cuarto. Juzgados Menores
 
@@ -1367,11 +1407,15 @@ Las visitas de inspección ordinarias, se realizarán por lo menos una vez al a�
 
 Corresponde a la Comisión de Vigilancia, por conducto de su Presidente, formular y proponer al Consejo los criterios generales de evaluación periódica de los juicios iniciados, en trámite y concluidos dentro del Poder Judicial, basados por lo menos en los criterios de rendimiento, eficiencia, eficacia y profesionalismo; asimismo, deberá llevar el control de las evaluaciones y verificar la autenticidad de los datos que se proporcionen en los informes estadísticos correspondientes.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
+
 ###### Artículo 100.
 
 Los jueces de primera instancia del sistema tradicional, enviarán oportunamente a la Comisión de Vigilancia y Disciplina, para los efectos de la responsabilidad oficial, los procesos penales concluidos por resolución que no haya sido recurrida.
 
-Los jueces del sistema acusatorio y oral ordenarán el envío de los registros que resuelvan de manera definitiva las controversias puestas a su consideración para efectos de la responsabilidad oficial, que no hayan sido recurridas.
+Los jueces del sistema acusatorio y oral ordenarán el envío de los registros que resuelvan de manera definitiva las controversias puestas a su consideración para efectos de la responsabilidad oficial, que no hayan sido recurridas; de igual forma lo harán los jueces de control y de Tribunal de enjuiciamiento en justicia penal para adolescentes.
+
+Los jueces de ejecución de sanciones penales remitirán los expedientes de ejecución del sistema penal tradicional o los registros de las carpetas de ejecución del sistema acusatorio y oral que resuelvan de manera definitiva de conformidad con la Ley aplicable que no hayan sido recurridas a la Comisión de Vigilancia y Disciplina del Consejo del Poder Judicial, para que conozca de los mismos respecto de la responsabilidad oficial.
 
 ### Capítulo Octavo. Secretarios del Consejo
 
@@ -2190,3 +2234,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 4 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 347 POR EL QUE "SE REFORMA LAS FRACCIONES X Y XI DEL ARTÍCULO 2, LA FRACCIÓN I DEL ARTÍCULO 28, LA FRACCIÓN XV DEL ARTÍCULO 48, EL PÁRRAFO SEGUNDO Y CUARTO DEL ARTÍCULO 39; LA FRACCIÓN IX DEL ARTÍCULO 51, LOS ARTÍCULOS 50, 52, 58, 59, 61, 62, 63 Y 100; SE ADICIONA LAS FRACCIONES XII Y XIII AL ARTÍCULO 2, EL ARTÍCULO 39 BIS, UNA FRACCIÓN XVI RECORRIENDO EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 48, UNA FRACCIÓN X RECORRIENDO EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 51; Y SE DEROGA EL ARTÍCULO 60, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
