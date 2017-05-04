@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-la-ley-de-transparencia-y-acceso-a-la-90996"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-31"
-last_updated: "2012-12-31"
+last_updated: "2017-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Vigésima Sexta Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -197,7 +199,7 @@ Los expedientes y documentos clasificados como reservados, deberán estar debida
 
 Una vez determinada la Clasificación de reserva de los documentos o expedientes y con la finalidad de llevar un registro pormenorizado de los mismos, así como orientar a las unidades administrativas respecto a sucesivas solicitudes, la Unidad de Acceso elaborará un listado genérico, el cual deberá contener:
 
-l. El rubro temático;
+I. El rubro temático;
 
 II. La fuente de la información;
 
@@ -283,7 +285,7 @@ Sin perjuicio de lo anterior, la información podrá ser enviada a domicilios fu
 
 Para efectos de las notificaciones a que se refiere el presente Capítulo, éstas se podrán hacer:
 
-l. Personalmente en el domicilio de la Unidad de Acceso;
+I. Personalmente en el domicilio de la Unidad de Acceso;
 
 II. En el domicilio señalado por el solicitante, si éste se ubica en el lugar de residencia de la Unidad de Acceso;
 
@@ -303,11 +305,11 @@ Las notificaciones por estrados de la Unidad de Acceso surtirán efectos al sigu
 
 Cuando la solicitud de información no sea competencia del Sujeto Obligado ante el cual se presentó, éste deberá comunicarlo al solicitante y deberá:
 
-l. Orientar al solicitante sobre el Sujeto o Sujetos Obligados que considere competentes para responder su solicitud; o
+I. Orientar al solicitante sobre el Sujeto o Sujetos Obligados que considere competentes para responder su solicitud; o
 
 II. Remitir la solicitud al Sujeto o Sujetos Obligados que considere competentes para atenderla.
 
-El solicitante deberá ser informado de ·la remisión de su solicitud de información al Sujeto o Sujetos Obligados que se hayan considerando competentes.
+El solicitante deberá ser informado de ·la remisión de su solicitud de información al Sujeto o Sujetos Obligados que se hayan considerando (sic) competentes.
 
 Una vez satisfecho el procedimiento establecido en este artículo, se dará por concluido el trámite ante el Sujeto Obligado no competente.
 
@@ -325,7 +327,7 @@ II. Dentro de los tres días hábiles siguientes a la recepción de la solicitud
 
 III. Dentro de los diez días hábiles siguientes a la recepción de la solicitud, la Unidad de Acceso notificará al solicitante la ampliación por una sola vez del plazo de respuesta hasta por diez días hábiles más; comunicando las razones por las cuales prorrogará el plazo. No podrán invocarse como causales de ampliación del plazo motivos que supongan negligencia o descuido de las unidades administrativas o de la Unidad de Acceso en el desahogo de la solicitud;
 
-IV. Dentro de los diez días hábiles siguientes a la recepción de la solicitud, orientar en su caso, al solicitante, cuando la petición no corresponda a una solicitud de acceso a la información pública sino a otro tipo de promociones, indicándole las autoridades o instancias que considere competente;. (sic)
+IV. Dentro de los diez días hábiles siguientes a la recepción de la solicitud, orientar en su caso, al solicitante, cuando la petición no corresponda a una solicitud de acceso a la información pública sino a otro tipo de promociones, indicándole las autoridades o instancias que considere competente;
 
 V. Cuando se advierta que el solicitante pretende iniciar o desahogar procedimientos, trámites o servicios a cargo del Sujeto Obligado, las Unidades de Acceso orientarán al solicitante, dentro de los diez días hábiles siguientes a la recepción de la solicitud, sobre los procedimientos establecidos para acceder a los mismos, pudiendo abstenerse de proporcionar la información que se solicita;
 
@@ -440,3 +442,15 @@ PRIMERO.- El presente Reglamento deberá publicarse en el Periódico Oficial del
 SEGUNDO.- Se deja sin efecto todas las disposiciones que se opongan al presente Reglamento.
 
 Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los 21 días del mes de diciembre de dos mil doce.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO. Rúbrica.- La Secretaria de la Contraloría.- C. IRMA PATRICIA LEAL ISLAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE EXPIDE EL REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de Transparencia y Acceso a la Información Pública de la Administración Pública del Estado de Puebla, publicado en el Periódico Oficial del Estado el treinta y uno de diciembre de dos mil doce.
+
+TERCERO. Se dejan sin efecto todas las disposiciones que se opongan al presente Decreto.
