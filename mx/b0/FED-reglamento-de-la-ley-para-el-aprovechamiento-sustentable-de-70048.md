@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-para-el-aprovechamiento-sustentable-de-700
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-11"
-last_updated: "2009-09-11"
+last_updated: "2017-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70048&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-09-10"
 ---
 # REGLAMENTO DE LA LEY PARA EL APROVECHAMIENTO SUSTENTABLE DE LA ENERGIA
 
-REGLAMENTO DE LA LEY PARA EL APROVECHAMIENTO SUSTENTABLE DE LA ENERGIA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE TRANSICIÓN ENERGÉTICA, PUBLICADO EN EL D.O.F. DE 4 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LA LEY PARA EL APROVECHAMIENTO SUSTENTABLE DE LA ENERGÍA
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MAYO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 11 de septiembre de 2009.
 
@@ -306,3 +308,33 @@ DÉCIMO.- Los registros a los que hacen referencia los artículos 31 y 32 del pr
 DÉCIMO PRIMERO.- La entrada en vigor del presente reglamento no implicará erogaciones adicionales para el presente ejercicio fiscal, por lo que la Secretaría de Energía y la Comisión Nacional para el Uso Eficiente de la Energía deberán sujetarse a su presupuesto aprobado para el ejercicio 2009.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de septiembre de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- La Secretaria de Energía, Georgina Yamilet Kessel Martínez.- Rúbrica.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 4 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE TRANSICIÓN ENERGÉTICA”.]
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial dela Federación.
+
+Segundo. Se abrogan el Reglamento de la Ley para el Aprovechamiento Sustentable de la Energía y el Reglamento de la Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética, así como las demás disposiciones administrativas que se opongan al presente Reglamento.
+
+Tercero. La Comisión Nacional para el Uso Eficiente de la Energía formulará y emitirá las metodologías a que se refiere el artículo 18, fracción III de la Ley de Transición Energética, dentro de los trescientos sesenta y cinco días naturales a partir de la entrada en vigor del presente Reglamento.
+
+Cuarto. El Subsistema Nacional de Información sobre el Aprovechamiento de la Energía deberá transformarse en el Sistema de Información de Transición Energética, en un periodo no mayor a trescientos sesenta y cinco días naturales a partir de la publicación del presente Reglamento.
+
+Quinto. La Comisión Nacional para el Uso Eficiente de la Energía publicará en el Diario Oficial de la Federación, dentro de los seis meses siguientes a la entrada en vigor del presente Reglamento, el catálogo a que se refiere el artículo 103 de la Ley de Transición Energética.
+
+Sexto. La Secretaría de Energía, dentro de los seis meses siguientes a la entrada en vigor del presente Reglamento, publicará en el Diario Oficial de la Federación, las disposiciones a que se refiere el artículo 101 de la Ley de Transición Energética.
+
+En tanto se emiten las disposiciones a que se refiere el párrafo anterior, se considerarán como Usuarios de Patrón de Alto Consumo energético a las personas físicas o morales que tengan instalaciones que cumplan con cualquiera de los criterios siguientes:
+
+I. Que su consumo anual de electricidad en el año calendario inmediato anterior haya superado cuarenta y cinco Gigawatts-hora, o
+
+II. Que su consumo anual de combustibles en el año calendario inmediato anterior haya superado cien mil barriles de petróleo crudo equivalente, excluyendo combustibles para el transporte.
+
+Los Usuarios de Patrón de Alto Consumo deberán registrar ante la Comisión Nacional para el Uso Eficiente de la Energía la información sólo de las instalaciones que cumplan con los criterios anteriores.
+
+Séptimo. La Secretaría de Energía publicará en el Diario Oficial de la Federación el primer Programa Especial de la Transición Energética, dentro de los seis meses siguientes a la actualización de la Estrategia a que se refiere el Décimo Quinto Transitorio de la Ley de Transición Energética.
+
+Octavo. La Comisión Nacional para el Uso Eficiente de la Energía emitirá y publicará las especificaciones ara realizar los diagnósticos o revisiones energéticas a que se refiere el artículo 20, fracción II, inciso a) de este Reglamento, dentro de los seis meses siguientes a su entrada en vigor.
