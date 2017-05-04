@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-junta-de-caminos-del-estado-de-46109"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-29"
-last_updated: "2013-08-02"
+last_updated: "2017-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46109&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DE LA JUNTA DE CAMINOS DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA JUNTA DE CAMINOS DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 4 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DE LA JUNTA DE CAMINOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE MAYO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 29 de agosto de 2005.
 
 EL CONSEJO DIRECTIVO DE LA JUNTA DE CAMINOS DEL ESTADO DE MÉXICO, DE CONFORMIDAD CON LO ESTABLECIDO EN EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 7.19 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO EN SU SEXAGÉSIMA PRIMERA SESIÓN ORDINARIA CELEBRADA EL DÍA DIECISEIS DE MARZO DEL DOS MIL CINCO; Y
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 En mérito de lo anterior, ha tenido a bien expedir el siguiente:
 
@@ -641,7 +645,7 @@ DIRECTOR GENERAL DE LA JUNTA DE CAMINOS DEL ESTADO DE MÉXICO
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.G. 2 DE AGOSTO DE 2013.
 
@@ -650,3 +654,17 @@ PRIMERO. Publíquese el presente acuerdo en el Periódico Oficial "Gaceta del Go
 SEGUNDO. Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente acuerdo.
+
+G.G. 4 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DE LA JUNTA DE CAMINOS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Reglamento Interno en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interno de la Junta de Caminos del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno el 29 de agosto de 2005".
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+QUINTO.- Los procesos y procedimientos iniciados antes de la publicación del presente ordenamiento, se regirán por la normatividad vigente al momento de su tramitación.
