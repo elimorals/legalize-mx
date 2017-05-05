@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-infraestructura-fisica-educativa-y-deportiva-de-89399"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-14"
-last_updated: "2015-11-04"
+last_updated: "2017-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA Y DEPORTIVA DE NUEVO LEÓN.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 14 de septiembre de 2012.
 
@@ -165,9 +165,11 @@ El Instituto estará encargado de la construcción, equipamiento, mantenimiento,
 
 El Instituto adecuará el desarrollo de sus actividades a las políticas, estrategias y prioridades que establezca el Plan Estatal de Desarrollo, a los programas sectoriales respectivos y los programas educativos Estatales aplicables en materia de la INFEYD.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 18.
 
-Son atribuciones del Instituto, las siguientes:
+Son atribuciones del instituto, las siguientes:
 
 I. Emitir normas y especificaciones técnicas para la elaboración de estudios, proyectos, obras e instalaciones, y participar en la elaboración de normas oficiales mexicanas en términos de lo dispuesto en la Ley Federal sobre Metrología y Normalización, así como proponer su emisión y difusión, en materia de construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción, reconversión y habilitación de los inmuebles e instalaciones destinados al servicio del sistema educativo y deportivo Estatal;
 
@@ -269,13 +271,17 @@ j) Otorgar las facilidades e información que requiera la Secretaría de Obras P
 
 XXIV. Llevar a cabo los procedimientos de contratación de obra, ya sea por licitación pública, invitación o adjudicación directa, conforme a la Ley de Obras Públicas para el Estado y Municipios de Nuevo León y demás normatividad aplicable vigente;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2017)</small>
 
-XXV. Garantizar que las instalaciones educativas y deportivas cuenten con infraestructura y equipamiento que satisfagan las condiciones higiénicas que la autoridad educativa y de deporte determinen, las cuales deberán garantizar el acceso al agua potable, en forma segura, gratuita y suficiente en libre demanda; y
+XXV. Garantizar que las instalaciones educativas y deportivas cuenten con infraestructura y equipamiento que satisfagan las condiciones higiénicas que la autoridad educativa y de deporte determinen las cuales deberán garantizar el acceso al agua potable, en forma segura, gratuita y suficiente en libre demanda;
 
-> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2017)</small>
 
-XXVI.- Las demás que para el cumplimiento de su objeto le señale la Ley y las demás disposiciones jurídicas aplicables.
+XXVI. Garantizar que las instalaciones educativas y deportivas cuenten con infraestructura con la que se permite utilizar el uso de energía renovable a través de paneles solares; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE MAYO DE 2017)</small>
+
+XXVII.- Las demás que para el cumplimiento de su objeto le señale la ley y las demás disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 19.
 
@@ -509,7 +515,7 @@ Segundo.- Se abroga la Ley que crea el Comité de Construcción de Escuelas, pub
 
 Tercero.- La Junta de Gobierno deberá instalarse dentro de un plazo de 30 días hábiles posteriores a la vigencia del presente Decreto, y ésta deberá expedir dentro de un término de 90 días hábiles siguientes el Reglamento Interior del Instituto.
 
-Cuarto.- Los trabajadores y los servidores públicos del Comité de Construcción de Escuelas, pasarán a formar parte del Instituto Constructor de Infraestructura Física Educativa y Deportiva de Nuevo León, con irrestricto respeto de todos sus derechos laborales en términos de Ley, tanto individual como colectivo (sic).
+Cuarto.- Los trabajadores y los servidores públicos del Comité de Construcción de Escuelas, pasarán a formar parte del Instituto Constructor de Infraestructura Física Educativa y Deportiva de Nuevo León, con irrestricto respeto de todos sus derechos laborales en términos de Ley, tanto individual como colectivo.
 
 De igual manera, los bienes muebles e inmuebles y los recursos financieros con los que actualmente cuenta el Comité de Construcción de Escuelas pasarán a formar parte del patrimonio del Instituto Constructor de Infraestructura Física Educativa y Deportiva de Nuevo León, al inicio de la vigencia de este Decreto.
 
@@ -553,7 +559,7 @@ EL C. SECRETARIO DE OBRAS PÚBLICAS
 
 LUIS GERARDO MARROQUIN SALAZAR
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 4 DE NOVIEMBRE DE 2015.
 
@@ -562,3 +568,9 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- El Ejecutivo del Estado, contará con un plazo no mayor de 2 años contados a partir de la publicación del presente Decreto, para realizar lo conducente y garantizar la implementación de este Decreto.
 
 Tercero.- Los particulares que imparten educación básica contarán con un plazo no mayor a 180 días contados a partir de la publicación del presente Decreto, para realizar las mejoras en sus instalaciones e infraestructura que permitan garantizar el cumplimiento del mismo.
+
+P.O. 5 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 255. SE REFORMA LAS FRACCIONES XXV Y XXVI Y SE ADICIONA UNA FRACCIÓN XXVII AL ARTÍCULO 18 DE LA LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA Y DEPORTIVA DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
