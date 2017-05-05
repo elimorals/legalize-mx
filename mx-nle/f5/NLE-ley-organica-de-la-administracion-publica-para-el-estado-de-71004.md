@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-710
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-10-02"
-last_updated: "2016-04-08"
+last_updated: "2017-05-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE ABRIL DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el viernes 2 de octubre de 2009.
 
@@ -121,9 +119,11 @@ El Ejecutivo del Estado, por sí mismo o por conducto de la Secretaría General 
 
 Las dependencias y entidades de la Administración Pública del Estado deberán conducir sus actividades en forma planeada y programada, con base en los objetivos, políticas y prioridades que establezca el Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2017)</small>
+
 ###### Artículo 14.
 
-Las dependencias y entidades de la Administración Pública del Estado deberán coordinarse en la ejecución de sus respectivas atribuciones, con la finalidad de facilitar la realización de los programas de Gobierno.
+Las dependencias y entidades de la Administración Publica del Estado deberán coordinarse en la ejecución de sus respectivas atribuciones, con la finalidad de facilitar la realización de los programas de Gobierno. Además, deberán instrumentar de manera prioritaria las acciones necesarias para la gestión y aprovechamiento de los recursos federales, así como el cumplimiento oportuno de las reglas de operación.
 
 ###### Artículo 15.
 
@@ -1824,3 +1824,9 @@ Sexto.- Las licitaciones, adquisiciones o procedimientos no jurisdiccionales que
 Séptimo.- El Ejecutivo del Estado o la entidad a quien legalmente le corresponda, deberá emitir las modificaciones a los Reglamentos de las dependencias y entidades materia de la reforma, para los efectos establecidos en el artículo segundo transitorio.
 
 Octavo.- Se abroga la Ley, que crea el Comité para el Desarrollo del Estado de Nuevo León publicada en el Periódico Oficial del Estado el 1° de mayo de 1981.
+
+P.O. 5 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 254. SE REFORMA EL ARTÍCULO 14 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreta (sic) entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
