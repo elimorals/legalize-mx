@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-75672"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-15"
-last_updated: "2017-04-25"
+last_updated: "2017-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75672&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-06-29"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE MAYO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 15 de julio de 2010.
 
@@ -202,11 +202,21 @@ Corresponde a la Asamblea:
 
 I. Legislar en materia de planeación del desarrollo; en desarrollo urbano, particularmente en uso del suelo;
 
-II. Aprobar los Programas, sus modificaciones y remitirlos al Jefe de Gobierno para su promulgación y publicación e inscripción en el Registro de Planes y Programas;
+> <small>(REFORMADA, G.O. 5 DE MAYO DE 2017)</small>
 
-III. Analizar, dictaminar y aprobar los instrumentos de planeación denominadas áreas de Gestión Estratégica, y
+II. Aprobar los decretos que contengan Programas o reformas o derogaciones a algunas de sus disposiciones, o adiciones a los mismos, y remitirlos al Jefe de Gobierno para su promulgación y publicación;
+
+> <small>(REFORMADA, G.O. 5 DE MAYO DE 2017)</small>
+
+III. Analizar, dictaminar y aprobar áreas de Gestión Estratégica, siempre que sean acordes con los Programas aplicables a cada caso concreto, y
 
 IV. Participar en las comisiones de planeación de la conurbación y el desarrollo metropolitano y megalopolitano, en los términos que establezcan esta y lás demás leyes aplicables.
+
+> <small>(ADICIONADO, G.O. 5 DE MAYO DE 2017)</small>
+
+###### Artículo 5 Bis.
+
+Es derecho de los diputados iniciar decretos que contengan Programas o reformas o derogaciones a algunas de sus disposiciones, o adiciones a los mismos, en los términos que establezca la presente Ley.
 
 ###### Artículo 6.
 
@@ -246,13 +256,21 @@ II. Realizar con el apoyo de las Delegaciones, los estudios para la elaboración
 
 III. Promover con el apoyo de las Delegaciones la participación ciudadana, mediante consulta pública, en la elaboración y modificación de los Programas, así como recibir, evaluar y atender las propuestas que en esta materia les sean presentadas por interesados de los sectores privado y social;
 
-IV. Formular las adecuaciones a los proyectos de Programas que la Asamblea devuelva con observaciones, y remitir los proyectos al Jefe de Gobierno para su consideración;
+> <small>(REFORMADA, G.O. 5 DE MAYO DE 2017)</small>
+
+IV. Auxiliar al Jefe de Gobierno en el ejercicio de las facultades que la presente Ley le otorgue en materia de Programas;
+
+> <small>(ADICIONADA, G.O. 5 DE MAYO DE 2017)</small>
+
+IV Bis. Formular y remitir al Presidente del Consejo Consultivo de Desarrollo Urbano de la Ciudad de México, su opinión sobre las iniciativas de decreto que en materia de Programas se presenten ante la Asamblea;
 
 V. Revisar los proyectos de Programas Delegacionales y de los Programas Parciales, así como los de sus modificaciones, para que guarden congruencia con el Programa General de Desarrollo Urbano;
 
 VI. Supervisar los actos administrativos de las Delegaciones, para vigilar el cumplimiento de los Programas y de las determinaciones que corresponde emitir al Jefe de Gobierno en esa materia, formulando las resoluciones necesarias, así como revisar periódicamente el registro delegacional de manifestaciones de construcción;
 
-VII. Ejecutar los actos que tenga atribuidos conforme a esta Ley, a los reglamentos correspondientes y a los acuerdos de delegación de facultades expedidos por el Jefe de Gobierno, incluyendo lo relativo a relotificaciones, zonificaciones, autorizaciones de los trámites relacionados con la inscripción de vías públicas y derechos públicos de paso. Asimismo y conforme a las determinaciones que expida el Jefe de Gobierno, ejecutará los actos relativos a la planeación, la organización, la administración, el control, la evaluación y la operación, la recepción de manifestaciones de polígonos de actuación, de construcción, el otorgamiento de dictámenes, licencias, referidos en general a la ejecución de obras, prestación de servicios públicos y realización de actos de gobierno relativos a la ordenación y servicios territoriales en la Ciudad, que incidan o se realicen en, o que se relacionen con, el conjunto de la Ciudad o tengan impacto en dos o más Delegaciones, así como todas aquellas que, en razón de jerarquía, magnitud y especialización, correspondan al Jefe de Gobierno en las materias que regula la presente ley. De tales actos informará para su conocimiento y registro, a la Delegación correspondiente;
+> <small>(REFORMADA, G.O. 5 DE MAYO DE 2017)</small>
+
+VII. Ejecutar los actos que tenga atribuidos conforme a esta Ley y a los reglamentos correspondientes;
 
 VIII. Coordinar a los órganos desconcentrados y entidades paraestatales que estén adscritos al sector que le corresponde;
 
@@ -352,7 +370,9 @@ IX. Las demás que le otorguen esta Ley y otros ordenamientos aplicables.
 
 El Registro de Planes y Programas de Desarrollo Urbano es la unidad administrativa de la Secretaría que tiene por objeto:
 
-I. Inscribir y resguardar los planes, programas, normas de ordenación y demás instrumentos de planeación del desarrollo urbano del Distrito Federal, así como aquellos actos y proyectos de diseño urbano que incidan en el territorio del Distrito Federal;
+> <small>(REFORMADA, G.O. 5 DE MAYO DE 2017)</small>
+
+I. Inscribir y resguardar los planes, programas y demás instrumentos de planeación del desarrollo urbano del Distrito Federal, así como aquellos actos y proyectos de diseño urbano que incidan en el territorio del Distrito Federal;
 
 II. Integrar el registro estadístico de información de usos de suelo por lote, colonia, zona y Delegación;
 
@@ -420,7 +440,9 @@ VIII. La Comisión de Límites del Distrito Federal;
 
 IX. El Comité Técnico de las Áreas de Gestión Estratégica; y
 
-X. El Comité Técnico de Modificaciones a los Programas de Desarrollo Urbano.
+> <small>(REFORMADA, G.O. 5 DE MAYO DE 2017)</small>
+
+X. El Consejo Consultivo de Desarrollo Urbano de la Ciudad de México.
 
 > <small>(ADICIONADA, G.O. 16 DE MARZO DE 2017)</small>
 
@@ -554,41 +576,81 @@ XIII. La Comisión determinará el destino y prioridad de los recursos aportados
 
 La Secretaría de Finanzas constituirá un Fideicomiso de Asentamientos Humanos Irregulares de la Ciudad de México, cuyo objeto será destinar los fondos aportados, a la ejecución de las siguientes acciones, en orden de prelación: a la restauración ambiental del suelo afectado; a la adquisición de predios ubicados en Suelo Urbano, destinados a la reubicación de los integrantes del asentamiento que deban ser reubicados; y a la prestación de los servicios públicos o construcción del equipamiento urbano, necesarios para un mínimo de calidad de vida de los asentamientos regularizados. El Fiduciario atenderá las indicaciones de la Comisión de Evaluación de Asentamientos Humanos Irregulares, en cada caso concreto, sobre la aplicación que haga de los recursos aportados.
 
+> <small>(REFORMADO, G.O. 5 DE MAYO DE 2017)</small>
+
 ###### Artículo 25.
 
-El Comité Técnico de Modificaciones a los Programas de Desarrollo Urbano es el órgano encargado de dictaminar las solicitudes de modificación a los programas en los términos que establece esta Ley, y estará integrado por un representante de:
+El Consejo Consultivo de Desarrollo Urbano de la Ciudad de México es una unidad administrativa adscrita a la Asamblea, integrada por trece Consejeros, de los cuales uno fungirá como Presidente; y el personal administrativo indispensable para el desempeño de sus funciones, de acuerdo al presupuesto que la Asamblea le asigne.
 
-I. La Secretaría de Desarrollo Urbano y Vivienda, quien lo presidirá;
+De los trece Consejeros, siete de ellos, incluido el Presidente, serán designados por acuerdo del Pleno de la Asamblea, aprobado por voto de las dos terceras partes de los diputados presentes en la sesión, previo dictamen de la Comisión de Desarrollo e Infraestructura Urbana. Los Consejeros designados por el Pleno de la Asamblea durarán en su cargo nueve años, y podrán ser ratificados por el mismo periodo por una sola vez. Para la ratificación se seguirá el mismo procedimiento establecido para la designación.
 
-II. La Secretaría de Desarrollo Económico;
+También serán Consejeros, sin remuneración alguna pero con voz y voto, los Secretarios de Desarrollo Urbano y Vivienda, de Movilidad y del Medio Ambiente, el Consejero Jurídico y de Servicios Legales, el Rector de la Universidad Nacional Autónoma de México y el Director General del Instituto Politécnico Nacional. Las ausencias de los titulares de la (sic) Dependencias de la Administración Pública Local, sólo podrá suplirlas un servidor público con rango de Subsecretario, de Coordinador General o de Director General; las de los titulares de las instituciones de educación superior, sólo podrá suplirlas un académico en activo con rango equivalente al de los servidores públicos señalados. Los servidores públicos y los académicos a los que se refiere este párrafo, formarán parte del Consejo durante el tiempo que duren sus respectivos cargos en la Dependencia o institución de que se trate.
 
-III. La Secretaría de Medio Ambiente;
+> <small>(ADICIONADO, G.O. 5 DE MAYO DE 2017)</small>
 
-IV. La Secretaría de Transportes y Vialidad;
+###### Artículo 25 Bis.
 
-V. La Consejería Jurídica y de Servicios Legales;
+Son requisitos para ser designado, por la Asamblea, Consejero Consultivo de Desarrollo Urbano de la Ciudad de México:
 
-VI. La Secretaría de Protección Civil;
+I. Tener grado académico de licenciatura, maestría o doctorado, y cédula profesional correspondiente expedida por la Secretaría de Educación Pública, en materia de arquitectura, urbanismo, medio ambiente, sociología, derecho, o disciplinas afines;
 
-VII. El Sistema de Aguas de la Ciudad de México;
+II. Contar con experiencia académica o en el servicio público, la cual se deberá acreditar:
 
-VIII. La Delegación correspondiente;
+a). La experiencia académica, con cualquiera de las siguientes formas:
 
-IX. La Comisión de Desarrollo e Infraestructura Urbana de la Asamblea; y
+1) Por lo menos tres proyectos de investigación científica promovidos por instituciones académicas o de investigación, en México o en el extranjero, relacionados con el urbanismo, el medio ambiente o materias afines, y
 
-X. El Coordinador de Desarrollo Urbano y Medio Ambiente del órgano de representación ciudadana que corresponda, de conformidad con la ley de la materia, a la unidad territorial en donde se ubique el predio que sea materia de modificación solicitada;
+2) Por lo menos tres obras publicadas sobre temas de urbanismo, medio ambiente o materias afines
 
-XI. La Secretaría de Gobierno, a través de la Dirección General de Regularización Territorial, participando con voz como instancia de coadyuvancia y asesoría técnica.
+b). La experiencia en el servicio público sólo se acreditará con copia certificada de, por lo menos, un nombramiento de Director General, Subsecretario o Secretario, o cargo de nivel jerárquico equivalente a los anteriores, siempre que el cargo haya tenido competencia legal en materia de desarrollo urbano o medio ambiente, independientemente de que haya estado adscrito a la Administración Pública Local o Federal, o a órganos constitucionales autónomos;
 
-El Comité sesionará de manera ordinaria por lo menos una vez al mes, y de manera extraordinaria las veces que sean necesarias para dictaminar en tiempo y forma las solicitudes que se presenten.
+III. No haber desempeñado, en los últimos diez años anteriores a la fecha de la designación, funciones de socio, administración o dirección de empresas inmobiliarias o asociaciones de desarrolladores o promotores inmobiliarios;
+
+IV. No haberse desempeñado como gestor de trámites administrativos ante la Administración Pública Local o Federal, o ante órganos constitucionales autónomos;
+
+V. No haber sido registrado como candidato a un cargo de elección popular, ni haber desempeñado cargo alguno de elección popular, en los últimos cuatro años anteriores a la designación;
+
+VI. No haber sido sancionado con inhabilitación para desempeñar empleo, cargo o comisión en el servicio público, y
+
+VII. No haber sido condenado por delito patrimonial o delito doloso que amerite pena privativa de libertad.
+
+Los requisitos previstos en este artículo, no serán aplicables a los Consejeros provenientes de la Administración Pública Local ni a los provenientes de las instituciones de educación superior, ni a sus respectivos suplentes.
+
+> <small>(ADICIONADO, G.O. 5 DE MAYO DE 2017)</small>
+
+###### Artículo 25 Ter.
+
+La Comisión de Desarrollo e Infraestructura Urbana elaborará un dictamen con proyecto de acuerdo que contenga una lista de siete candidatos a integrar el Consejo Consultivo de Desarrollo Urbano de la Ciudad de México, incluido el Presidente, previa convocatoria pública en la que se incluya la difusión de los requisitos que, para ser Consejeros designados por la Asamblea, establece la presente Ley.
+
+> <small>(ADICIONADO, G.O. 5 DE MAYO DE 2017)</small>
+
+###### Artículo 25 Quater.
+
+Son facultades del Consejo Consultivo de Desarrollo Urbano de la Ciudad de México:
+
+I. Revisar cada seis años, y en un plazo no mayor de seis meses, los Programas vigentes, para efecto de evaluar sus resultados prácticos en la calidad de vida de las personas, y en su caso, promover las reformas, derogaciones o adiciones pertinentes, o en su caso, la expedición de un nuevo Programa;
+
+II. Proponer a los integrantes de la Comisión de Desarrollo e Infraestructura Urbana, proyectos de iniciativas de decreto en materia de Programas, así como de Áreas de Gestión Estratégica, elaborándolos bajo una perspectiva interdisciplinaria que comprenda el desarrollo urbano, el medio ambiente, el espacio público, la vivienda; las construcciones y edificaciones; las vías públicas, el tránsito y el estacionamiento vehicular, las obras públicas, el uso y aprovechamiento de los bienes inmuebles del dominio público de la ciudad, y demás temas relacionados;
+
+III. Elaborar pre-dictámenes de las iniciativas de decreto que en materia de Programas, y en su caso, de Áreas de Gestión Estratégica, se presenten ante la Asamblea, y remitirlos a la Comisión de Desarrollo e Infraestructura Urbana para su consideración en la elaboración de sus respectivos dictámenes;
+
+IV. Solicitar al Jefe de Gobierno la publicación en la Gaceta Oficial del Distrito Federal, de los avisos necesarios para el desempeño de sus funciones. La solicitud deberá formularla por conducto del Presidente de la Mesa Directiva del Pleno de la Asamblea, o del Presidente de la Comisión de Gobierno, si la Asamblea se encontrare en receso;
+
+V. Crear y mantener actualizada una página electrónica institucional, en la que se difundan iniciativas de decreto, observaciones y opiniones técnicas, y demás información que deba conocer por razón de su competencia;
+
+VI. Acceder libremente, y en cualquier tiempo, al Sistema de Información y Evaluación del Desarrollo Urbano que integre y opere la Secretaría, ya sea por vía electrónica si el Sistema fuera virtual, o previa solicitud a la Secretaría si el Sistema se conformara de documentos impresos. En todo caso, la Secretaría deberá facilitarle al Consejo Consultivo la información que requiera del Sistema, y
+
+VII. Las demás que le otorgue la Ley.
 
 ###### Artículo 26.
 
 La Comisión de Límites del Distrito Federal es el órgano que tiene a su cargo la debida vigilancia de los límites del Distrito Federal. Tiene como funciones, entre otras, coadyuvar en el cumplimiento de los convenios sobre límites que acuerde el Jefe de Gobierno con los gobiernos de las entidades federativas colindantes.
 
+> <small>(REFORMADO, G.O. 5 DE MAYO DE 2017)</small>
+
 ###### Artículo 27.
 
-La integración y funciones de los órganos auxiliares del desarrollo urbano, se regirán por las disposiciones establecidas en el reglamento.
+La integración y funciones de los órganos auxiliares del desarrollo urbano, se regirán por las disposiciones de esta Ley y su reglamento.
 
 ## Título Tercero. De la Planeación del Desarrollo Urbano
 
@@ -610,15 +672,21 @@ Los servicios públicos urbanos se prestarán de conformidad con los instrumento
 
 Los servicios públicos en poblados rurales en suelo de conservación, serán acordes a la sustentabilidad y aprovechamiento de los recursos naturales.
 
+> <small>(REFORMADO, G.O. 5 DE MAYO DE 2017)</small>
+
 ###### Artículo 32.
 
 El Sistema de Información y Evaluación del Desarrollo Urbano que integre y opere la Secretaría, se regirá por las disposiciones del reglamento correspondiente.
 
+El Consejo Consultivo de Desarrollo Urbano de la Ciudad de México tendrá en cualquier tiempo libre acceso al Sistema al que se refiere el párrafo anterior, ya sea por vía electrónica si el Sistema fuera virtual, o previa solicitud a la Secretaría, si el Sistema se conformara de documentos impresos. En todo caso, la Secretaría deberá facilitarle al Consejo Consultivo la información que requiera del Sistema.
+
 ### Capítulo Segundo. De los Instrumentos de Planeación y Ordenamiento del Desarrollo Urbano
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE MAYO DE 2017)</small>
 
 ###### Artículo 33.
 
-La planeación del desarrollo urbano se ejecuta a través de los siguientes instrumentos:
+La planeación del desarrollo urbano se contiene en los siguientes ordenamientos jurídicos:
 
 I. El Programa General de Desarrollo Urbano;
 
@@ -626,23 +694,89 @@ II. Los Programas Delegacionales de Desarrollo Urbano;
 
 III. Los Programas Parciales de Desarrollo Urbano;
 
-IV. Las Áreas de Gestión Estratégica; y
+IV. (DEROGADA, G.O. 5 DE MAYO DE 2017)
 
-V. Las Normas de Ordenación.
+V. (DEROGADA, G.O. 5 DE MAYO DE 2017)
+
+> <small>(ADICIONADO, G.O. 5 DE MAYO DE 2017)</small>
+
+###### Artículo 33 Bis.
+
+Estarán afectados de nulidad absoluta y no podrán ser convalidados, los actos que celebre la Secretaría, y que tengan por objeto:
+
+I. Reformar, adicionar, derogar o abrogar Programas;
+
+II. Aplicar un Programa, sea General, Delegacional o Parcial, sin identificar con precisión, en el dictamen, opinión, autorización, permiso, constancia, certificado, acuerdo o resolución de que se trate, el capítulo, apartado, sub-apartado, inciso, sub-inciso, párrafo y página, del Programa aplicado;
+
+III. Establecer usos del suelo, número de niveles, porcentaje de área libre y área mínima por vivienda, que no se encuentren previstos en el Programa aplicable al caso concreto de que se trate, y
+
+IV. En general, modificar el contenido de los Programas, contravenir sus disposiciones u omitir la observancia de los mismos.
 
 ### Capítulo Tercero. De los Programas
 
+> <small>(REFORMADO, G.O. 5 DE MAYO DE 2017)</small>
+
 ###### Artículo 34.
 
-Los programas y sus modificaciones serán formulados por el Jefe de Gobierno y sometidos a la aprobación de la Asamblea, de acuerdo con los procedimientos y requisitos establecidos en esta Ley.
+Los Programas serán sometidos a la aprobación de la Asamblea, mediante iniciativas de decretos.
+
+Las necesidades de reforma, adición, derogación o abrogación de los Programas, sea que se trate de nuevas asignaciones o cancelaciones de zonificación, variación de límites territoriales, cumplimiento de ejecutorias, o cambios de uso del suelo; deberán desahogarse siempre a través de la presentación de iniciativas de decreto ante la Asamblea, en los términos que establece la presente Ley.
+
+El procedimiento y los requisitos para iniciar, dictaminar, discutir y votar los decretos de Programas, o de reformas, adiciones o derogaciones a los mismos, serán los establecidos en esta Ley, y a falta de disposición expresa, en la Ley Orgánica de la Asamblea Legislativa del Distrito Federal y en sus reglamentos.
+
+> <small>(ADICIONADO, G.O. 5 DE MAYO DE 2017)</small>
+
+###### Artículo 34 Bis.
+
+El derecho de iniciar ante la Asamblea decretos que contengan Programas o reformas, adiciones o derogaciones a los mismos, corresponde:
+
+I. Al Jefe de Gobierno;
+
+II. A los diputados de la Asamblea, en los términos que establezca esta Ley, y
+
+III. A cualquier persona mayor de edad con domicilio en la ciudad, en lo individual o en grupo, a través de una iniciativa ciudadana, en los términos que establezca esta Ley.
+
+> <small>(REFORMADO, G.O. 5 DE MAYO DE 2017)</small>
 
 ###### Artículo 35.
 
-Los programas y sus modificaciones serán formulados con base en los resultados que arroje el Sistema de Información y Evaluación del Desarrollo Urbano, a fin de verificar su congruencia con otros instrumentos de planeación y determinar si los factores que determinaron la aprobación de un programa, tales como los económicos, ambientales, sociales, de infraestructura urbana o de riesgo en el Distrito Federal, persisten o han variado de tal manera que sea necesario modificar los programas vigentes, o en su caso, formular unos nuevos.
+Las iniciativas de decreto en materia de Programas, deberán presentarse dirigidos al Presidente de la Mesa Directiva del Pleno, o al Presidente de la Comisión de Gobierno, en los recesos de la Asamblea; en un ejemplar impreso con rúbrica autógrafa, en otro escaneado en archivo electrónico, en uno adicional grabado en archivo electrónico manipulable, y cumplir con los siguientes requisitos:
+
+I. Denominación del decreto propuesto;
+
+II. Objetivo del decreto propuesto;
+
+III. Planteamiento del problema que con el decreto se pretende resolver y la solución que se propone;
+
+IV. El Programa o Programas que se propone modificar, y texto específico de los mismos;
+
+V. Razonamientos sobre la persistencia o variación de los factores económicos, ambientales, sociales, de infraestructura urbana o de riesgo, que motivaron la aprobación del Programa o Programas a modificar; y sobre la pertinencia de modificar los Programas referidos, o en su caso, sobre la pertinencia de aprobar uno nuevo;
+
+VI. Datos que motivan la iniciativa de decreto, ya sea que provengan del Sistema de Información y Evaluación del Desarrollo Urbano, del Instituto Nacional de Estadística y Geografía, o de cualquier otra fuente de información verificable;
+
+VII. Razonamientos sobre la constitucionalidad y convencionalidad del decreto propuesto;
+
+VIII. Razonamientos sobre la congruencia del decreto propuesto, con la Ley General de Asentamientos Humanos, y con el contexto normativo, los objetivos y la estrategia de desarrollo urbano que para la zona de la ciudad de que se trate, sea manzana, corredor, área de actuación, o cualquier otro polígono específicamente delimitado, establezca tanto el Programa al que se refiera la iniciativa, como el Programa de jerarquía superior inmediata. Los razonamientos de la congruencia con el contexto normativo, deberán incluir a las normas de uso del suelo, porcentaje de área libre, niveles de construcción, densidad constructiva y superficie máxima de construcción;
+
+IX. Texto normativo propuesto, el cual deberá reunir los siguientes requisitos:
+
+a). Deberá redactarse con lenguaje definido, preciso, consistente, sencillo, claro, adecuado y proporcional a los objetivos que se proponen, y en general, de conformidad con las reglas de la técnica legislativa;
+
+b). Deberá incluir artículos transitorios, y
+
+c). En ningún caso tendrá por objeto abrogar uno o más Programas sin proponer simultáneamente un texto normativo que lo sustituya;
+
+X. Lugar, fecha, nombre y rúbrica autógrafa de quienes presenten la iniciativa de decreto;
+
+XI. Si la iniciativa contuviere planos o cualquier otro documento gráfico, los tales deberán ser claros y legibles, tanto en su versión impresa como en las electrónicas, y
+
+XII. Tratándose de una iniciativa ciudadana, deberá adjuntarse copia, certificada por notario, de la credencial para votar en la que conste el domicilio del proponente, domicilio que, a su vez, deberá ubicarse dentro del polígono sobre el cual se pretenda que aplique el texto normativo propuesto.
+
+> <small>(REFORMADO, G.O. 5 DE MAYO DE 2017)</small>
 
 ###### Artículo 36.
 
-En todas aquellas etapas de formulación de los Programas en que participe la Secretaría, participarán los Jefes Delegacionales en lo que corresponda a sus respectivas demarcaciones delegacionales;
+En la elaboración de las iniciativas de decreto de Programas que presente el Jefe de Gobierno ante la Asamblea, participarán los Jefes Delegacionales en lo que corresponda a sus respectivas demarcaciones delegacionales.
 
 ###### Artículo 37.
 
@@ -662,241 +796,257 @@ VI. Las acciones estratégicas y las autoridades corresponsables de llevarlas a 
 
 VII. La información gráfica y estadística que referirá, en la forma más explícita posible, la regulación aplicable para las diversas áreas que refleje.
 
+> <small>(REFORMADO, G.O. 5 DE MAYO DE 2017)</small>
+
 ###### Artículo 38.
 
-La formulación y aprobación de los programas se sujetará al siguiente procedimiento:
+Las iniciativas de decreto que en materia de Programas se presenten a la Asamblea, serán turnadas, para su análisis y dictamen, a la Comisión de Desarrollo e Infraestructura Urbana, por el Presidente de la Mesa Directiva del Pleno, o por el Presidente de la Comisión de Gobierno, en los recesos de la Asamblea.
 
-I. La Secretaría publicará en la Gaceta Oficial del Distrito Federal el aviso para informar el inicio de la formulación del programa;
-
-> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
-
-II. La Secretaría, en un plazo máximo de 180 días hábiles contados a partir de la publicación del aviso a que se refiere la fracción anterior, formulará un proyecto de programa, con el auxilio de talleres de participación ciudadana. Cuando se trate de formulación y aprobación de programas relacionados con suelo de conservación, la Secretaría de Medio Ambiente deberá pronunciarse irrenunciablemente en un término no mayor a 90 días hábiles sobre el particular, fundando dicha resolución en el Programa General de Ordenamiento Ecológico del Distrito Federal; dicha resolución tendrá carácter definitivo y vinculatorio y en caso de negativa por parte de la Secretaría de Medio Ambiente, dicho asunto se tendrá por concluido y ya no se turnará a la Asamblea Legislativa del Distrito Federal para su análisis.
-
-III. La Secretaría lo remitirá, al Jefe Delegacional correspondiente para que haga observaciones;
-
-IV. El Jefe Delegacional podrá hacer observaciones al proyecto de programa, las cuales deberá notificar a la Secretaría en un plazo máximo de 10 días hábiles contados a partir de la fecha de recepción del proyecto;
-
-V. Si en el plazo a que se refiere la fracción anterior el Jefe Delegacional no notifica a la Secretaría sus observaciones, se entenderá aceptado el proyecto de programa;
-
-VI. Si el Jefe Delegacional notifica a la Secretaría sus observaciones en el plazo establecido por este artículo, la Secretaría integrará las que estime pertinentes;
-
-VII. En caso de que la Secretaría desestime integrar observaciones del Jefe Delegacional, deberá notificarle, en un plazo máximo de 15 días hábiles contados a partir de la fecha de recepción de las observaciones, una resolución fundada y motivada que especifique las razones por las que desestima cada observación;
-
-VIII. Una vez aceptado el proyecto de programa por el Jefe Delegacional, o en su caso, notificada la resolución de desestimación de observaciones, la Secretaría publicará en la Gaceta Oficial del Distrito Federal y en un diario de mayor de circulación, un aviso para informar el inicio de la consulta pública, su duración, el número de audiencias que se llevarán a cabo, lugar y fecha de las audiencias y los requisitos para participar en ellas;
-
-IX. El aviso para informar el inicio de la consulta pública deberá publicarse en un plazo máximo de 10 días hábiles contados a partir de la conclusión del plazo para que el Jefe Delegacional notifique a la Secretaría sus observaciones al proyecto de programa, o en su caso, a partir de la fecha en que la Secretaría haya notificado al Jefe Delegacional la desestimación de observaciones;
-
-X. Las audiencias que conformen la consulta pública serán presididas por la Secretaría y en ellas podrán participar las demás Dependencias, Órganos y Entidades de la Administración Pública, el órgano de representación ciudadana que corresponda según la ley de la materia y cualquier otro ciudadano que solicite formalmente su participación;
-
-XI. Por cada consulta pública la Secretaría elaborará una memoria que deberá contener, entre otros apartados, uno de conclusiones;
-
-XII. La Secretaría integrará al proyecto de programa las conclusiones de la consulta pública que estime pertinentes, y en su caso, emitirá una resolución fundada y motivada que especifique las razones por las que desestima cualquier conclusión de la consulta pública;
-
-XIII. Por cada proyecto de programa la Secretaría integrará un expediente técnico que deberá contener las constancias de todo lo actuado en el procedimiento, tales como la publicación del aviso de inicio de formulación del programa, los oficios de remisión al Jefe Delegacional, las observaciones del Jefe Delegacional y las constancias de su notificación a la Secretaría, la constancia de conclusión del plazo para que el Jefe Delegacional notifique observaciones al proyecto, la resolución de desestimación de observaciones y las constancias de su notificación al Jefe Delegacional, la publicación del aviso de inicio de consulta pública, la memoria de la consulta pública, y en su caso, la resolución de desestimación de conclusiones de la consulta pública;
-
-XIV. La Secretaría tendrá un plazo máximo de 30 días naturales contados a partir de la fecha de conclusión de la consulta pública, para integrar al proyecto de programa las conclusiones que estime pertinentes así como el expediente técnico respectivo;
-
-XV. Concluido el plazo a que se refiere la fracción anterior, la Secretaría deberá remitir al Jefe de Gobierno el proyecto de programa con su respectivo expediente técnico;
-
-XVI. El Jefe de Gobierno, en un plazo no mayor a 20 días hábiles, presentará a consideración de la Asamblea el programa;
-
-> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
-
-XVII. La Asamblea tendrá un plazo máximo de 90 días hábiles de los periodos de sesiones ordinarias, contados a partir de la fecha de recepción del programa, para resolver, o en su caso, notificar observaciones y devolver el programa con su expediente técnico al Jefe de Gobierno;
-
-XVIII. Si en el plazo a que se refiere la fracción anterior, la Asamblea no resuelve o no notifica al Jefe de Gobierno sus observaciones, se entenderá que el programa ha sido aprobado y el Jefe de Gobierno procederá a promulgarlo y publicarlo en la Gaceta Oficial del Distrito Federal;
-
-XIX. Si la Asamblea notifica al Jefe de Gobierno observaciones al programa en el plazo que establece este artículo, el Jefe de Gobierno, a su vez, las hará del conocimiento de la Secretaría para que practique las adecuaciones correspondientes;
-
-XX. La Secretaría practicará las adecuaciones al programa en un plazo máximo de 10 días hábiles, al término del cual lo volverá a remitir al Jefe de Gobierno para que, a su vez, lo presente nuevamente a consideración de la Asamblea;
-
-> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
-
-XXI. La Asamblea tendrá un plazo máximo de 45 días hábiles de los periodos de sesiones ordinarias para resolver sobre la aprobación del programa;
-
-XXII. Si en el plazo a que se refiere la fracción anterior, la Asamblea no resuelve sobre la aprobación del programa, se entenderá que éste ha sido aprobado y el Jefe de Gobierno procederá a promulgarlo y publicarlo en la Gaceta Oficial del Distrito Federal;
-
-XXIII. Si la Asamblea aprueba el programa, lo enviará al Jefe de Gobierno para su promulgación y publicación en la Gaceta Oficial del Distrito Federal; y
-
-XXIV. Una vez publicado el programa en la Gaceta Oficial del Distrito Federal, la Secretaría procederá a inscribirlo en el Registro de Planes y Programas y a solicitar su inscripción en el Registro Público de la Propiedad y del Comercio.
+> <small>(REFORMADO, G.O. 5 DE MAYO DE 2017)</small>
 
 ###### Artículo 39.
 
-La formulación de modificaciones a los programas será iniciada por la Secretaría, de oficio o a solicitud de parte.
+Las iniciativas de decreto deberán presentarse directamente a la Asamblea, en cualquiera de los siguientes supuestos:
 
-A. La Secretaría iniciará de oficio la formulación de las modificaciones cuando éstas versen sobre:
+I. Cuando las iniciativas las presente el Jefe de Gobierno;
 
-I. La delimitación de áreas de actuación señaladas en el Programa General de Desarrollo Urbano;
+II. Cuando se trate de iniciativas ciudadanas, o cuando las iniciativas las presente uno o varios diputados locales, en materia de reformas, adiciones o derogación de disposiciones de un Programa;
 
-II. Acciones estratégicas;
+III. Cuando se trate de iniciativas ciudadanas, o cuando las iniciativas las presente uno o varios diputados locales, y las iniciativas versen sobre el texto íntegro de un Programa, siempre que habiendo solicitado su autor a la Secretaría la elaboración de la iniciativa de decreto correspondiente, la Secretaría haya omitido cumplir, o no haya cumplido en tiempo y forma, con alguna de las etapas previstas para tal efecto en el artículo 41 de esta Ley, aunque eventualmente la cumpla de manera extemporánea.
 
-III. Instrumentos de ejecución;
-
-IV. Modificaciones por causa de fuerza mayor;
-
-V. Errores, imprecisiones o incongruencias en la determinación de la zonificación en los programas;
-
-VI. Variaciones en el límite del Distrito Federal con los municipios colindantes;
-
-VII. Modificaciones a los límites delegacionales; y
-
-VIII. Resoluciones judiciales que hayan causado ejecutoria.
-
-B. La Secretaría iniciará la formulación de modificaciones a solicitud de:
-
-I. Los diputados de la Asamblea;
-
-II. Un órgano de representación ciudadana constituido de conformidad con la ley de la materia;
-
-III. Una dependencia, órgano o entidad de la Administración Pública;
-
-IV. Una dependencia o entidad de la Administración Pública Federal; y
-
-V. Una persona distinta de las previstas en las fracciones anteriores.
+> <small>(REFORMADO, G.O. 5 DE MAYO DE 2017)</small>
 
 ###### Artículo 40.
 
-La formulación de modificaciones a los programas iniciada de oficio por la Secretaría o a solicitud de los diputados de la Asamblea; de un órgano de representación ciudadana; de una dependencia, órgano o entidad de la Administración Pública o de una dependencia o entidad de la Administración Pública Federal, se sujetará al siguiente procedimiento:
+Sólo el Jefe de Gobierno podrá presentar ante la Asamblea iniciativas de decreto que versen sobre el texto íntegro de un Programa, a menos que un diputado local o un ciudadano haya solicitado a la Secretaría la elaboración de una iniciativa, y la Secretaría, a su vez, haya omitido cumplir, o no haya cumplido en tiempo y forma, con alguna de las etapas del procedimiento previsto para tal efecto en el artículo 41 de esta Ley, aunque eventualmente la cumpla de manera extemporánea, en cuyo caso el solicitante podrá elaborar y presentar directamente su iniciativa de decreto ante la Asamblea.
 
-I. La Secretaría formulará el proyecto de modificación del programa;
-
-> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
-
-II. Si media una solicitud de parte, con base en ella la Secretaría deberá formular el proyecto en un plazo máximo de 20 días hábiles contados a partir de la fecha de recepción de la solicitud. Cuando se trate de modificaciones a los programas relacionados con suelo de conservación, la Secretaría de Medio Ambiente deberá pronunciarse irrenunciablemente en un término no mayor a 15 días hábiles sobre la procedencia o no de la solicitud, fundando dicha resolución en el Programa General de Ordenamiento Ecológico del Distrito Federal; dicha resolución tendrá carácter definitivo y vinculatorio y en caso de negativa por parte de la Secretaría de Medio Ambiente, dicho asunto se tendrá por concluido y ya no se turnará a la Asamblea Legislativa del Distrito Federal para su análisis.
-
-III. Por cada proyecto de modificación la Secretaría integrará un expediente técnico que deberá contener los antecedentes que determinan la necesidad de modificar el programa, y en su caso la solicitud de parte, así como las constancias de todo lo que se actúe en el procedimiento;
-
-IV. Una vez formulado el proyecto de modificación, la Secretaría lo remitirá con su expediente técnico, en un plazo máximo de 10 días hábiles, al Consejo para el Desarrollo Urbano Sustentable del Distrito Federal para su dictamen;
-
-V. El Consejo para el Desarrollo Urbano Sustentable del Distrito Federal deberá emitir su dictamen en un plazo máximo de 10 días hábiles contados a partir de la fecha en que reciba de la Secretaría el proyecto de modificación;
-
-VI. Si el Consejo para el Desarrollo Urbano Sustentable del Distrito Federal no emite su dictamen en el plazo a que se refiere la fracción anterior, se entenderá emitido en sentido positivo;
-
-VII. La Secretaría deberá remitir al Jefe de Gobierno el proyecto de modificación con su respectivo expediente técnico;
-
-VIII. El Jefe de Gobierno presentará a consideración de la Asamblea la modificación con su respectivo expediente técnico;
-
-> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
-
-IX. La Asamblea tendrá un plazo máximo de 90 días hábiles de los periodos de sesiones ordinarias contados a partir de la fecha de recepción de la modificación, para resolver, y en su caso, notificar observaciones y devolver la modificación con su expediente técnico al Jefe de Gobierno;
-
-X. Si en el plazo a que se refiere la fracción anterior, la Asamblea no resuelve o no notifica al Jefe de Gobierno sus observaciones, se entenderá que la modificación ha sido aprobada y el Jefe de Gobierno procederá a promulgarla y publicarla en la Gaceta Oficial del Distrito Federal;
-
-XI. Si la Asamblea notifica al Jefe de Gobierno observaciones a la modificación en el plazo que establece este artículo, el Jefe de Gobierno, a su vez, las hará del conocimiento de la Secretaría para que practique las adecuaciones correspondientes;
-
-XII. La Secretaría practicará las adecuaciones a la modificación en un plazo máximo de 10 días hábiles, al término del cual la volverá a remitir al Jefe de Gobierno para que, a su vez, la presente nuevamente a consideración de la Asamblea;
-
-> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
-
-XIII. La Asamblea tendrá un plazo máximo de 45 días hábiles de los periodos de sesiones ordinarias para resolver sobre la aprobación de la modificación;
-
-XIV. Si en el plazo a que se refiere la fracción anterior, la Asamblea no resuelve sobre la aprobación de la modificación, se entenderá que ésta ha sido aprobada y el Jefe de Gobierno procederá a promulgarla y publicarla en la Gaceta Oficial del Distrito Federal;
-
-XV. Si la Asamblea aprueba la modificación, la enviará al Jefe de Gobierno para su promulgación y publicación en la Gaceta Oficial del Distrito Federal; y
-
-XVI. Una vez publicada la modificación en la Gaceta Oficial del Distrito Federal, la Secretaría procederá a inscribirla en el Registro de Planes y Programas y a solicitar su inscripción en el Registro Público de la Propiedad y del Comercio.
+> <small>(REFORMADO, G.O. 5 DE MAYO DE 2017)</small>
 
 ###### Artículo 41.
 
-La formulación de modificaciones a los programas iniciada a solicitud de una persona distinta de los diputados de la Asamblea; de un órgano de representación ciudadana; de una dependencia, órgano o entidad de la Administración Pública o de una dependencia o entidad de la Administración Pública Federal, se sujetará al siguiente procedimiento:
+La elaboración de una iniciativa de decreto que verse sobre el texto íntegro de un Programa, se sujetará al siguiente procedimiento:
 
-I. El interesado deberá presentar su solicitud ante la Secretaría;
+I. Cuando la Secretaría determine de oficio la necesidad de elaborar un Programa, publicará en la Gaceta Oficial del Distrito Federal un aviso para informar el inicio de su elaboración;
 
-II. Cuando la solicitud se refiera al cambio de zonificación de un predio específico, el interesado deberá instalar en el inmueble que sea materia de su solicitud, un letrero visible y legible desde la vía pública en el que se indique la zonificación vigente y la solicitada; así como el número y la fecha de ingreso de su solicitud y la mención de que los vecinos tienen un plazo máximo de 15 días hábiles contados a partir de esa fecha para manifestar opiniones a la Secretaría;
+II. Las solicitudes que para elaborar un Programa presente un diputado local o un ciudadano, deberán reunir los requisitos que para las Iniciativas de Decreto establece el artículo 35 de esta Ley, salvo su denominación que será la de "solicitud de iniciativa de decreto de Programa de Desarrollo Urbano", especificándose el Programa de que se trate, y su destinatario, que será el Secretario de Desarrollo Urbano y Vivienda;
 
-III. Concluido el plazo previsto en la fracción anterior, la Secretaría remitirá la solicitud y las opiniones de los vecinos al Comité Técnico de Modificaciones a los Programas de Desarrollo Urbano, para su dictamen;
+III. Cuando la Secretaría reciba de un diputado local o de un ciudadano, una solicitud para elaborar un Programa, revisará que cumpla con los requisitos que establece el artículo 35 de esta Ley. Si cumpliere con ellos, admitirá a trámite la solicitud; en caso contrario, podrá desecharla de plano;
 
-> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
+IV. Si la Secretaría admitiere a trámite la solicitud de un diputado local o de un ciudadano, publicará en la Gaceta Oficial del Distrito Federal un aviso para informar el inicio de la elaboración del Programa, dentro de los diez días hábiles siguientes a la fecha de recepción de la solicitud;
 
-IV. El Comité Técnico de Modificaciones a los Programas de Desarrollo Urbano emitirá su dictamen en un plazo máximo de 10 días hábiles contados a partir de la fecha en que concluya el plazo para que los vecinos manifiesten opiniones a la Secretaría. Cuando la solicitud de modificación a los programas se refiera a suelo de conservación, la Secretaría de Medio Ambiente tendrá voto definitivo y vinculatorio, por lo que deberá pronunciarse sobre el particular en un término no mayor a 5 días hábiles sobre la procedencia o no de la solicitud, fundando dicha resolución en el Programa General de Ordenamiento Ecológico del Distrito Federal, y en caso de negativa por parte de la Secretaría de Medio Ambiente, dicho asunto se tendrá por concluido y ya no se turnará a la Asamblea Legislativa del Distrito Federal para su análisis.
+V. En un plazo máximo de sesenta días hábiles contados a partir de la fecha de publicación del aviso para informar el inicio de la elaboración del Programa, la Secretaría elaborará un proyecto de Programa con el auxilio de tantos talleres de participación ciudadana como sean necesarios para producir un documento razonablemente divulgado y consensuado. Cuando se trate de una solicitud presentada por un diputado local o un ciudadano para elaborar un Programa, la Secretaría presentará la solicitud a los talleres de participación ciudadana, sin necesidad de elaborar un proyecto de Programa adicional;
 
-V. Si el dictamen a que se refiere la fracción anterior es favorable, la Secretaría formulará el proyecto de modificación;
+VI. En un plazo máximo de diez días hábiles contados a partir del día siguiente al del vencimiento del plazo señalado en la fracción anterior, la Secretaría remitirá el proyecto de Programa al Jefe Delegacional competente por territorio, para que emita su opinión;
 
-VI. Si el Comité Técnico de Modificaciones a los Programas de Desarrollo Urbano no emite su dictamen en el plazo previsto por este artículo, se entenderá emitido en sentido positivo y la Secretaría procederá a formular el proyecto de modificación;
+VII. En un plazo máximo de treinta días hábiles contados a partir del día siguiente al del vencimiento del plazo señalado en la fracción anterior, el Jefe Delegacional deberá remitir a la Secretaría, por escrito, su opinión sobre el proyecto de Programa;
 
-VII. Por cada proyecto de modificación, la Secretaría integrará un expediente técnico que deberá contener la solicitud de parte, las opiniones de los vecinos, el dictamen del Comité Técnico de Modificaciones a los Programas de Desarrollo Urbano en su caso, y las constancias de las demás actuaciones en el procedimiento;
+VIII. En un plazo máximo de diez días hábiles contados a partir del día siguiente al del vencimiento del plazo previsto en la fracción anterior, la Secretaría publicará en la Gaceta Oficial del Distrito Federal un aviso para informar el inicio de una consulta pública, el número de audiencias que se llevarán a cabo, el lugar, las fechas y la hora de inicio de cada una de ellas. A las audiencias podrá asistir cualquier persona, siempre que se identifique con credencial para votar y entregue copia simple de ella al personal de control de acceso a las mismas. La consulta pública no podrá tener una duración menor de treinta ni mayor a sesenta días hábiles;
 
-VIII. La Secretaría deberá remitir al Jefe de Gobierno el proyecto de modificación con su respectivo expediente técnico, en un plazo máximo de 5 días hábiles contados a partir de la fecha en que el Comité Técnico de Modificaciones a los Programas de Desarrollo Urbano emita su dictamen positivo, o en su caso, de la fecha en que concluya el plazo para emitir su dictamen sin haberlo emitido;
+IX. Si el Jefe Delegacional remitiera en tiempo a la Secretaría su opinión sobre el proyecto de Programa, la Secretaría la integrará al proyecto referido si lo estimara procedente, y en caso contrario, le notificará por escrito al Jefe Delegacional, una respuesta que contenga las razones por las cuales no estimó procedente su integración, notificación que deberá practicarse en un plazo máximo de veinte días hábiles contados a partir del día siguiente al de la recepción de la opinión respectiva;
 
-IX. El Jefe de Gobierno presentará a consideración de la Asamblea la modificación con su respectivo expediente técnico, salvo que por acuerdo publicado en la Gaceta Oficial del Distrito Federal delegue al titular de la Secretaría la facultad para presentarla directamente;
+X. Si el Jefe Delegacional no remitiera en tiempo a la Secretaría su opinión sobre el proyecto de Programa, se presumirá que lo ha aceptado en sus términos, sin perjuicio de que la Secretaría reciba, y acuse de recibida, la opinión presentada de manera extemporánea;
 
-X. La Comisión de Desarrollo e Infraestructura Urbana de la Asamblea dictaminará la modificación presentada por el Jefe de Gobierno y someterá su dictamen a la aprobación del Pleno de la Asamblea;
+XI. El titular de la Secretaría presidirá todas y cada una de las audiencias que conformen la consulta pública, y su ausencia sólo podrá suplirla un servidor público de la misma Secretaría, con rango de Subsecretario, Coordinador General o Director General;
 
-> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
+XII. La Secretaría deberá convocar a las audiencias de la consulta pública, por escrito, a las demás Dependencias, Órganos y Entidades de la Administración Pública Local cuyas competencias se relacionen con las materias abordadas en el proyecto de Programa; a los integrantes de los Comités Ciudadanos, Consejos del Pueblo y Consejos Ciudadanos Delegacionales que resulten competentes por territorio; a las instituciones de educación superior que impartan posgrados en materia de urbanismo, medio ambiente, sociología, derecho y disciplinas afines, así como a especialistas en las materias señaladas;
 
-XI. El plazo máximo para que la Comisión de Desarrollo e Infraestructura Urbana de la Asamblea cumpla con la fracción anterior, será de 90 días hábiles contados a partir de la fecha en que reciba la modificación del programa;
+XIII. Por cada audiencia de la consulta pública, la Secretaría elaborará una memoria que deberá contener las ponencias de cada participante. En una de las memorias deberá incluirse también la opinión que el Jefe Delegacional remita a la Secretaría, sea en tiempo o extemporáneamente, así como la respuesta y la constancia de notificación de la misma que la Secretaría realice, en su caso, de conformidad con lo dispuesto en la fracción IX de este artículo;
 
-> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
+XIV. En un plazo máximo de treinta días hábiles contados a partir del día siguiente al de la última audiencia de la consulta pública, la Secretaría replanteará el proyecto de Programa con base en la información producida en las audiencias, y lo remitirá al Jefe de Gobierno, acompañado de las memorias de la consulta pública, para la elaboración de la iniciativa de decreto correspondiente;
 
-XII. El Pleno de la Asamblea resolverá sobre el dictamen de la Comisión de Desarrollo e Infraestructura Urbana en un plazo máximo de 45 días hábiles de los periodos de sesiones ordinarias contados a partir de la fecha en que se reciba el dictamen de la Comisión;
+XV. En un plazo máximo de veinte días hábiles, el Jefe de Gobierno deberá presentar ante la Asamblea la iniciativa de decreto que contenga el texto íntegro del Programa, acompañada de las memorias de la consulta pública;
 
-XIII. Si el Pleno de la Asamblea hace observaciones a la modificación, la devolverá al Jefe de Gobierno con su respectivo expediente técnico, en un plazo máximo de tres días hábiles de los periodos de sesiones ordinarias contados a partir de la fecha en que se aprueben las observaciones;
+XVI. Toda la información que se produzca en el curso del procedimiento previsto en el presente artículo, será pública, por lo cual la Secretaría la difundirá en su página electrónica, sin perjuicio de expedir, a quien las solicite, copias simples o certificadas de los documentos que obren en sus archivos, y
 
-XIV. Si en el plazo a que se refiere la fracción anterior, el Pleno de la Asamblea no notifica al Jefe de Gobierno sus observaciones, se entenderá que la modificación ha sido aprobada y el Jefe de Gobierno procederá a promulgarla y publicarla en la Gaceta Oficial del Distrito Federal;
+XVII. Recibida que sea por la Asamblea la iniciativa de decreto del Jefe de Gobierno, acompañada de las memorias de la consulta pública, el Presidente de la Mesa Directiva del Pleno, o el Presidente de la Comisión de Gobierno, en los recesos de la Asamblea, la turnará a la Comisión de Desarrollo e Infraestructura Urbana, para su análisis y dictamen.
 
-XV. Si en el plazo que establece este artículo, el Pleno de la Asamblea notifica al Jefe de Gobierno sus observaciones a la modificación, el Jefe de Gobierno, a su vez, las hará del conocimiento de la Secretaría para que practique las adecuaciones correspondientes;
-
-XVI. La Secretaría practicará las adecuaciones a la modificación en un plazo máximo de 10 días hábiles, al término del cual la volverá a remitir al Jefe de Gobierno para que, a su vez, la presente nuevamente a consideración de la Asamblea;
-
-> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
-
-XVII. La Asamblea tendrá un plazo máximo de 45 días hábiles para resolver sobre la aprobación de la modificación;
-
-XVIII. Si en el plazo a que se refiere la fracción anterior, el Pleno de la Asamblea no resuelve sobre la aprobación de la modificación, se entenderá que ésta ha sido aprobada y el Jefe de Gobierno procederá a promulgarla y publicarla en la Gaceta Oficial del Distrito Federal;
-
-XIX. Si la Asamblea aprueba la modificación, la enviará al Jefe de Gobierno para su promulgación y publicación en la Gaceta Oficial del Distrito Federal; y
-
-XX. Una vez publicada la modificación en la Gaceta Oficial del Distrito Federal, la Secretaría procederá a inscribirla en el Registro de Planes y Programas y a solicitar su inscripción en el Registro Público de la Propiedad y del Comercio.
-
-El Comité Técnico de Modificaciones a los Programas de Desarrollo Urbano estará integrado por un representante de:
-
-I. La Secretaría de Desarrollo Urbano y Vivienda, quien lo presidirá;
-
-II. La Secretaría de Desarrollo Económico;
-
-> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
-
-III. La Secretaría de Medio Ambiente, misma que tendrá voto definitivo y vinculatorio cuando se trate de modificaciones a los programas relacionados con suelo de conservación, por lo que deberá pronunciarse de manera irrenunciable en un término no mayor a 30 días hábiles sobre la procedencia o no de la solicitud, fundando dicha resolución en lo dispuesto por el Programa General de Ordenamiento Ecológico del Distrito Federal y en caso de negativa por parte de la Secretaría de Medio Ambiente, dicho asunto se tendrá por concluido y ya no se turnará a la Asamblea Legislativa del Distrito Federal para su análisis.
-
-IV. La Secretaría de Transporte y Vialidad;
-
-V. La Consejería Jurídica y de Servicios Legales;
-
-VI: La Secretaría de Protección Civil;
-
-VII: La Secretaria de Cultura;
-
-VIII. El Sistema de Aguas de la Ciudad de México;
-
-IX. La Delegación correspondiente;
-
-X. La Comisión de Desarrollo e Infraestructura Urbana de la Asamblea;
-
-XI. El Coordinador de Desarrollo Urbano y Medio Ambiente del órgano de representación ciudadana que corresponda, de conformidad con la Ley de la materia, a la unidad territorial en donde se ubique el predio que sea materia de la modificación solicitada, y
-
-XII. La Secretaría de Gobierno, a través de la Dirección General de Regularización Territorial, participando con voz como instancia de coadyuvancia y asesoría técnica.
-
-El Comité sesionará de manera ordinaria por lo menos una vez al mes, y de manera extraordinaria las veces que sean necesarias para dictaminar en tiempo y forma las solicitudes que se presenten.
+> <small>(REFORMADO, G.O. 5 DE MAYO DE 2017)</small>
 
 ###### Artículo 42.
 
-Las modificaciones de los programas para cambiar el uso del suelo urbano en predios particulares, para destinarlos al comercio, servicios de bajo impacto urbano o a la micro y pequeña industria, se sujetarán al siguiente procedimiento:
+Una vez turnada a la Comisión de Desarrollo e Infraestructura Urbana una iniciativa de decreto, sea que verse sobre reformas, adiciones o derogación de disposiciones de un Programa, o sobre el texto íntegro del mismo, se observará el siguiente procedimiento:
+
+I. El Presidente de la Comisión tendrá un plazo de cinco días hábiles contados a partir del siguiente al de la recepción de la iniciativa, para remitir al Presidente del Consejo Consultivo de Desarrollo Urbano de la Ciudad de México, copia simple de la iniciativa, salvo que ésta la hubiere presentado el mismo Presidente del Consejo, en cuyo caso se omitirá el pre-dictamen y el Presidente de la Comisión ejercerá las facultades previstas en las fracciones II a IX y XVI del presente artículo;
+
+II. El Presidente del Consejo Consultivo de Desarrollo Urbano de la Ciudad de México, tendrá un plazo de cinco días hábiles contados a partir del siguiente al de la recepción de la iniciativa, para remitir una copia simple de ella, y solicitar su opinión:
+
+a). Al Secretario de Desarrollo Urbano y Vivienda;
+
+b). Al Coordinador General de la Autoridad del Espacio Público del Distrito Federal;
+
+c). Al Secretario del Medio Ambiente;
+
+d). Al Director General del Sistema de Aguas de la Ciudad de México;
+
+e). Al Secretario de Obras y Servicios;
+
+f). Al Secretario de Movilidad;
+
+g). Al Secretario de Protección Civil;
+
+h). Al Jefe Delegacional competente por territorio;
+
+i). Al Procurador Ambiental y del Ordenamiento Territorial;
+
+j). Al coordinador interno del Comité Ciudadano competente por territorio;
+
+k). Al coordinador del Consejo del Pueblo competente por territorio, de ser el caso, y
+
+l). Al coordinador interno del Consejo Ciudadano Delegacional competente por territorio.
+
+Tratándose de iniciativas de decreto que versen sobre el texto íntegro de un Programa, el Consejo Consultivo procederá de conformidad con la presente fracción, cuando las iniciativas sean presentadas por el Jefe de Gobierno sin que las memorias de la consulta pública anexas contengan las opiniones de las personas señaladas en los incisos de esta fracción, o cuando conteniéndolas, las opiniones no sean en sentido favorable o desfavorable, o no se encuentren razonadas exhaustivamente con base en los conocimientos y normas de su competencia;
+
+III. Dentro del mismo plazo previsto en la fracción II del presente artículo, el Presidente del Consejo Consultivo de Desarrollo Urbano de la Ciudad de México, deberá:
+
+a). Solicitar la difusión de la iniciativa de decreto, en la Gaceta Parlamentaria, y
+
+b). Solicitar al Jefe de Gobierno, por conducto del Presidente de la Mesa Directiva del Pleno de la Asamblea, o del Presidente de la Comisión de Gobierno, si la Asamblea se encontrare en receso; la publicación, en la Gaceta Oficial del Distrito Federal, de un aviso que deberá contener:
+
+1). La mención de que en la Asamblea se ha presentado una iniciativa de decreto;
+
+2). La fecha de presentación de la iniciativa;
+
+3). El nombre completo del autor o autores de la iniciativa, y el carácter con el que se ostentaron al presentarla;
+
+4). La mención del Programa o Programas a modificar;
+
+5). La mención de que la iniciativa se encuentra difundida en la Gaceta Parlamentaria, y
+
+6). La mención del derecho que tiene todo habitante de la ciudad, a formular observaciones a la iniciativa y a dirigirlas al Presidente del Consejo, dentro de un plazo de quince días hábiles siguientes a la publicación del aviso;
+
+IV. Las personas señaladas en la fracción II del presente artículo, deberán emitir sus opiniones sobre la iniciativa, y remitirlas al Presidente del Consejo dentro del plazo al que se refiere la fracción III, inciso b), sub-inciso 6), de este artículo, sin perjuicio de difundirlas también en sus respectivas páginas electrónicas, si las tuvieren;
+
+V. Las opiniones que sobre las iniciativas de decreto de Programas presenten las personas señaladas en la fracción II del presente artículo, deberán contener rúbricas autógrafas. Las que no las contengan o contengan rúbricas en facsímil, se tendrán por no presentadas. Las opiniones que sean presentadas por terceros a nombre de las personas señaladas en la fracción II del presente artículo, se tendrán por no presentadas, aunque tengan facultad legal para suplirlos en sus ausencias;
+
+VI. Los servidores públicos señalados en la fracción II del presente artículo, deberán emitir sus opiniones en sentido favorable o desfavorable, razonándolas exhaustivamente con base en los conocimientos y normas de su competencia. Quedan prohibidas las abstenciones de opinión y las opiniones condicionadas. Quienes se abstengan de emitir su opinión o la emitan condicionada, serán sujetos de responsabilidad administrativa por no cumplir con la máxima diligencia el servicio encomendado, y por omitir actos de derecho público causando con ello deficiencia en el servicio encomendado;
+
+VII. Tanto el Presidente del Consejo como el Secretario Técnico de la Comisión dictaminadora, iniciarán la elaboración de los proyectos de pre-dictamen y dictamen respectivos, el mismo día en que reciban la iniciativa, independientemente de los plazos previstos en las fracciones I, II, III y IV, del presente artículo;
+
+VIII. El Presidente del Consejo deberá concluir la elaboración del proyecto de pre-dictamen, en un plazo de cinco días hábiles contados a partir del siguiente al del vencimiento del diverso referido en la fracción IV de este artículo, hubiere o no recibido opiniones de las personas con derecho a formularlas;
+
+IX. Si alguna persona hubiere presentado opiniones sobre la iniciativa, el Presidente del Consejo deberá incluir, en su proyecto de pre-dictamen, una respuesta fundada y motivada para cada una de ellas, a condición de que las opiniones se hubieren presentado antes del vencimiento del plazo al que se refiere la fracción IV del presente artículo;
+
+X. El Presidente del Consejo tendrá un plazo de tres días hábiles contados a partir del siguiente al del vencimiento del diverso de cinco días señalado en la fracción VIII de este artículo, para convocar a sesión de Consejo Consultivo en la que deberá discutirse y votarse el pre-dictamen;
+
+XI. Entre la convocatoria a la que se refiere la fracción anterior, y la sesión respectiva del Consejo Consultivo, deberán mediar por lo menos cinco días hábiles, y la convocatoria deberá ir acompañada del proyecto de pre-dictamen y de un expediente técnico integrado por las opiniones que, en su caso, hubiere recibido el Presidente del Consejo hasta antes del vencimiento del plazo al que se refiere la fracción IV de este artículo;
+
+XII. El Presidente del Consejo tendrá un plazo de cuarenta y ocho horas contadas a partir de la fecha de la sesión del Consejo Consultivo, para remitirle al Presidente de la Comisión dictaminadora el pre-dictamen aprobado y el expediente técnico respectivo, sin perjuicio de ser difundidos en la página electrónica del Consejo. Las opiniones que sobre la iniciativa reciba extemporáneamente el Presidente del Consejo, las seguirá remitiendo al Presidente de la Comisión dictaminadora, dentro de las veinticuatro horas siguientes a su recepción, sin perjuicio de ser difundidas también en la página electrónica del Consejo;
+
+XIII. El Secretario Técnico de la Comisión dictaminadora deberá concluir la elaboración del proyecto de dictamen, en un plazo de cinco días hábiles contados a partir del siguiente al de la recepción del pre-dictamen, hubiere o no recibido opiniones extemporáneas;
+
+XIV. En ningún caso las opiniones formuladas sobre las iniciativas de decreto, vincularán el sentido del pre-dictamen del Consejo, ni el del dictamen de la Comisión, ni el del acuerdo o decreto del Pleno de la Asamblea. Sin embargo, cuando la Comisión dictaminadora estime procedente desechar las opiniones recibidas, deberá incluir en su dictamen una respuesta fundada y motivada por cada opinión cuyo desechamiento proponga al Pleno. Asimismo, la Comisión dictaminadora deberá fundar y motivar las modificaciones que, en su caso, realice al contenido del pre-dictamen del Consejo Consultivo;
+
+XV. Cuando una autoridad jurisdiccional requiera el cumplimiento de un mandamiento o ejecutoria relativos a iniciativas de decreto en materia de Programas, la Asamblea atenderá estrictamente a los términos de los puntos resolutivos correspondientes, para lo cual el Consejo Consultivo, la Comisión dictaminadora y el Pleno de la Asamblea, se auxiliarán de la Dirección General de Asuntos Jurídicos de la Asamblea. Cuando el mandamiento jurisdiccional invada la competencia que las leyes le otorgan a la Asamblea, ésta deberá impugnarlo, a través de los medios de defensa establecidos;
+
+XVI. El Presidente de la Comisión dictaminadora tendrá un plazo de tres días hábiles contados a partir del siguiente al del vencimiento del diverso de cinco días señalado en la fracción XIII de este artículo, para convocar a reunión de trabajo de la Comisión, en la que deberá discutirse y votarse el dictamen;
+
+XVII. Entre la convocatoria a la que se refiere la fracción anterior, y la reunión de trabajo de la Comisión dictaminadora, deberán mediar por lo menos cinco días hábiles, y la convocatoria deberá ir acompañada del proyecto de dictamen, del pre-dictamen del Consejo Consultivo y de su expediente técnico, así como de las opiniones extemporáneas remitidas, en su caso, por el Presidente del Consejo;
+
+XVIII. El Presidente de la Comisión dictaminadora, tendrá un plazo de cuarenta y ocho horas contadas a partir de la fecha de la reunión de trabajo de la Comisión, para remitirle al Presidente de la Mesa Directiva del Pleno de la Asamblea, el dictamen aprobado por la Comisión. Los originales del expediente técnico, así como de las opiniones extemporáneas que, en su caso, hubiere remitido el Presidente del Consejo Consultivo, deberán conservarse en el archivo de la Comisión dictaminadora;
+
+XIX. El Pleno de la Asamblea deberá discutir y votar el dictamen de la Comisión, en la siguiente sesión programada dentro del mismo periodo de sesiones en el que su Mesa Directiva hubiere recibido el dictamen;
+
+XX. Cuando por haber concluido el periodo de sesiones no fuere posible para el Pleno discutir y votar un dictamen de la Comisión, deberá convocarse a un periodo de sesiones extraordinarias para discutir y votar el dictamen pendiente, antes de que inicie el siguiente periodo de sesiones ordinarias;
+
+XXI. Cuando el Pleno de la Asamblea apruebe un decreto en materia de Programas, el Presidente y un Secretario de la Mesa Directiva del Pleno, remitirán al Jefe de Gobierno, para su respectiva promulgación y publicación, el decreto aprobado, sin perjuicio de observar las demás formalidades previstas en la Ley Orgánica de la Asamblea Legislativa del Distrito Federal para toda clase de decretos, y
+
+XXII. Los decretos que en materia de Programas sean aprobados por el Pleno de la Asamblea, surtirán sus efectos en la fecha que dispongan los artículos transitorios de los mismos, con tal de que su publicación en la Gaceta Oficial del Distrito Federal sea anterior, sin necesidad de que tales decretos sean inscritos en el Registro de los Planes y Programas de Desarrollo Urbano, ni en el Registro Público de la Propiedad y de Comercio.
+
+> <small>(ADICIONADO, G.O. 5 DE MAYO DE 2017)</small>
+
+###### Artículo 42 Bis.
+
+Cuando la Asamblea reciba una iniciativa de decreto que verse sobre el texto íntegro de un Programa, presentada por un diputado local o por un ciudadano ante la omisión de la Secretaría de dar curso a su solicitud en los términos del artículo 41 de esta Ley; se observarán las siguientes reglas, sin perjuicio de observar las disposiciones del artículo 42 de esta Ley:
+
+I. El Presidente del Consejo Consultivo de Desarrollo Urbano de la Ciudad de México, o el Presidente de la Comisión de Desarrollo e Infraestructura Urbana, en caso de que la iniciativa se presente por el Presidente del Consejo, incluirá en el aviso al que se refiere el artículo 42, fracción III, inciso b), de esta Ley, una convocatoria de inicio de consulta pública, en la cual se indicará el número de audiencias que se llevarán a cabo, el lugar, las fechas y la hora de inicio de cada una de ellas, así como los requisitos para participar en ellas;
+
+II. La consulta pública deberá integrarse por al menos tres audiencias que deberán celebrarse en fechas consecutivas dentro del plazo de treinta días hábiles posteriores a la fecha de publicación de la convocatoria respectiva;
+
+III. Cada audiencia podrá durar hasta seis horas interrumpidas por tres recesos, correspondiendo al Presidente del Consejo, determinarlo en cada caso. Las audiencias podrán videograbarse y transmitirse en vivo por cualquier medio de comunicación, sin perjuicio de que el Coordinador de Servicios Parlamentarios de la Asamblea ordene los servicios de estenografía, grabación y sonido respectivos;
+
+IV. A las audiencias públicas podrá asistir cualquier persona que se identifique con credencial para votar, pero necesariamente lo hará el autor de la iniciativa;
+
+V. El Presidente del Consejo, o de la Comisión, en su caso, dirigirá cada audiencia pública, fijará los temas a debatir, conducirá las discusiones y moderará la intervención de los participantes;
+
+VI. En la primera audiencia el autor de la iniciativa hará una exposición sintética de la misma; acto seguido, el Presidente del Consejo, o de la Comisión, en su caso, solicitará a los asistentes el planteamiento de objeciones a textos concretos de la iniciativa, y con base en ellos fijará los temas a debatir; posteriormente, hará una lista de los asistentes que soliciten el uso de la palabra, alternando la participación de quienes estén a favor y en contra de cada tema a debatir; por cada tema a debatir se hará una sola ronda en la que podrán intervenir hasta diez asistentes durante cinco minutos cada uno, y el autor de la iniciativa durante dos minutos para réplica de cada intervención, y
+
+VII. La segunda y ulteriores audiencias, se destinarán a continuar el debate iniciado en la primera.
+
+> <small>(ADICIONADO, G.O. 5 DE MAYO DE 2017)</small>
+
+###### Artículo 42 Ter.
+
+En el procedimiento al que se refiere el artículo 42 de esta Ley, se observarán también las siguientes reglas:
+
+I. El Consejo Consultivo pre-dictaminará, la Comisión dictaminará, y el Pleno de la Asamblea aprobará, el desechamiento de plano de las iniciativas que se ubiquen en cualquiera de los siguientes supuestos:
+
+a) Que no contengan el nombre de su autor o autores;
+
+b) Que no contengan rúbrica autógrafa de su autor o autores;
+
+c) Que no contengan el lugar o la fecha de su presentación;
+
+d) Que no hayan sido presentadas con un ejemplar en archivo electrónico manipulable;
+
+e) Que no indiquen el Programa o Programas específicos que propongan modificar;
+
+f) Que no indiquen el texto normativo específico del Programa o Programas que propongan modificar;
+
+g) Que su texto normativo no incluya artículos transitorios;
+
+h) Que su texto normativo tenga por objeto abrogar uno o más Programas sin proponer simultáneamente un texto normativo que lo sustituya;
+
+i) Que su texto normativo no sea congruente con la Ley General de Asentamientos Humanos, o con el contexto normativo, los objetivos o la estrategia de desarrollo urbano que para la zona de la ciudad de que se trate, sea manzana, corredor, área de actuación, o cualquier otro polígono específicamente delimitado, establezca tanto el Programa al que se refiera la iniciativa, como el Programa de jerarquía superior inmediata. La falta de congruencia con el contexto normativo, deberá deducirse de confrontar la iniciativa de decreto presentada, con las normas de uso del suelo, porcentaje de área libre, niveles de construcción, densidad constructiva y superficie máxima de construcción vigentes;
+
+j) Que sus planos o cualquier otro documento gráfico que contenga, cuando lo contenga, sean ilegibles;
+
+k) Tratándose de iniciativas ciudadanas, que no hayan sido presentadas con copia, certificada por notario, de la credencial para votar en la que conste el domicilio del proponente, o las que habiéndose presentado con dicha certificación, el domicilio se ubique fuera del polígono sobre el cual se pretenda que aplique el texto normativo propuesto;
+
+l) Que propongan urbanizar en suelo de conservación, en áreas verdes, en espacios abiertos, o en bienes del dominio público de uso común, de la ciudad, y
+
+m) Respecto de las cuales medie opinión técnica negativa o desfavorable del Consejo Ciudadano Delegacional competente, de la Secretaría del Medio Ambiente, del Sistema de Aguas de la Ciudad de México, de la Secretaría de Movilidad, de la Secretaría de Protección Civil o de la Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal, indistintamente, y
+
+II. Las sesiones del Consejo Consultivo, las reuniones de trabajo de la Comisión dictaminadora, y las sesiones del Pleno de la Asamblea, serán siempre públicas, y podrán videograbarse y transmitirse en vivo por cualquier medio de comunicación, sin perjuicio de que el Coordinador de Servicios Parlamentarios de la Asamblea ordene los servicios de estenografía, grabación y sonido respectivos.
+
+Cualquier persona podrá denunciar ante la Contraloría General de la Asamblea, o en su caso, ante la Contraloría General del Distrito Federal, cualquier hecho que pueda constituir responsabilidad administrativa con motivo de la substanciación de los procedimientos previstos en los artículos 41, 42, 42 Bis y 42 Ter, de esta Ley.
+
+> <small>(ADICIONADO, G.O. 5 DE MAYO DE 2017)</small>
+
+###### Artículo 42 Quater.
+
+Los Programas vigentes deberán ser revisados cada seis años por el Consejo Consultivo de Desarrollo Urbano de la Ciudad de México, y en un plazo no mayor de seis meses contados a partir del inicio de la revisión, para efecto de evaluar sus resultados prácticos en la calidad de vida de las personas, y en su caso, promover las reformas, derogaciones o adiciones pertinentes, o en su caso, la aprobación de un nuevo Programa.
+
+El incumplimiento de la obligación prevista en el párrafo anterior, no afectará la vigencia de los Programas, pero será causa de responsabilidad administrativa de los servidores públicos encargados de iniciar y conducir la revisión, por no cumplir con la máxima diligencia el servicio encomendado, por omitir actos de derecho público y causar con ello deficiencia en el servicio encomendado, y por ejercer indebidamente el empleo, cargo o comisión otorgado.
+
+La facultad prevista en el párrafo primero del presente artículo, la ejercerá el Consejo Consultivo de Desarrollo Urbano de la Ciudad de México, sin perjuicio de la facultad que para el mismo efecto tenga la Secretaría en el ámbito de su competencia.
+
+> <small>(ADICIONADO, G.O. 5 DE MAYO DE 2017)</small>
+
+###### Artículo 42 Quinquies.
+
+Las reformas a los Programas para cambiar el uso del suelo urbano en predios particulares, para destinarlos al comercio, servicios de bajo impacto urbano o a la micro o pequeña industria, se sujetarán al siguiente procedimiento:
 
 I. El interesado deberá presentar su solicitud ante la Secretaría;
 
 II. La solicitud deberá referirse a cambios del uso del suelo para instalar:
 
-a). Comercio, servicios, administración y oficinas de bajo impacto urbano, en locales de hasta 250 m² de superficie construida y, en inmuebles afectos al patrimonio cultural urbano de hasta 750 m², previa opinión de la Dirección de Sitios Patrimoniales y Monumentos, de la Secretaría. En ambos casos, los usos de gasolinerías, verificentros, rastros, frigoríficos, mudanzas y paquetería, no podrán autorizarse.
+a). Comercio, servicios, administración y oficinas de bajo impacto urbano, en locales de hasta 250 m2 de superficie construida y, en inmuebles afectos al patrimonio cultural urbano de hasta 750 m2, previa opinión del Director del Patrimonio Cultural Urbano de la Secretaría. En ambos casos, los usos de gasolinerías, verificentros, rastros, frigoríficos, mudanzas y paquetería, no podrán autorizarse.
 
 Se entenderá por uso de bajo impacto urbano, los establecimientos mercantiles y de servicio, que no obstruyan la vía pública, no provoquen congestionamientos viales, no arrojen al drenaje sustancias o desechos tóxicos, no utilicen materiales peligrosos, no emitan humos ni ruidos perceptibles por los vecinos, cuenten con acceso directo a la vía pública y los procesos de comercialización que se desarrollen sean al menudeo.
 
-b). Micro y pequeña industria de bajo impacto urbano y anticontaminante, de hasta 1,000 m² de superficie del predio y 500 m² cuadrados de superficie construida;
+b). Micro o pequeña industria de bajo impacto urbano y anticontaminante, de hasta 1,000 m2 de superficie del predio y 500 m2 cuadrados de superficie construida;
 
-III. La Secretaría deberá emitir su resolución y notificarla al solicitante dentro de un plazo que no excederá de 20 días hábiles contados a partir de la recepción de la solicitud.
+III. La Secretaría deberá emitir su resolución y notificarla al solicitante dentro de un plazo que no excederá de 40 días hábiles contados a partir de la recepción de la solicitud.
 
-El procedimiento a que se refiere este artículo no podrá aplicarse en ningún caso en predios que se ubiquen dentro de los polígonos de programas parciales que, en el acuerdo que les dio origen, se haya incluido la no modificación de los mismos, durante la vigencia de los programas parciales en el suelo urbano.
+El procedimiento al que se refiere este artículo no podrá aplicarse en ningún caso en predios que se ubiquen dentro de los polígonos de Programas Parciales de Desarrollo Urbano.
 
-La Secretaría presentará cada seis meses a la Comisión de Desarrollo e Infraestructura Urbana de la Asamblea, un informe de los cambios de uso de suelo que se hayan autorizado.
+> <small>(ADICIONADO, G.O. 5 DE MAYO DE 2017)</small>
+
+###### Artículo 42 Sexies.
+
+El titular de la Secretaría presentará cada seis meses a la Comisión de Desarrollo e Infraestructura Urbana de la Asamblea, un informe detallado de los cambios de uso de suelo que haya autorizado de conformidad con lo dispuesto en el artículo 42 Quinquies de esta Ley.
+
+La Comisión, a su vez, y con la misma periodicidad, dará cuenta al Pleno de la Asamblea del contenido de tales informes, y con base en los mismos rendirá un dictamen sobre la pertinencia de mantener en vigor, o derogar, el artículo 42 Quinquies de esta Ley.
 
 ###### Artículo 43.
 
@@ -978,9 +1128,11 @@ El Comité sesionará de manera ordinaria por lo menos una vez al mes, y de mane
 
 ### Capítulo Quinto. De las normas de ordenación
 
+> <small>(REFORMADO, G.O. 5 DE MAYO DE 2017)</small>
+
 ###### Artículo 47.
 
-Las normas de ordenación establecerán las especificaciones para los usos y aprovechamientos del suelo. La Secretaría las expedirá en los términos que señale esta ley y su reglamento.
+Las normas de ordenación establecerán las especificaciones para los usos y aprovechamientos del suelo. Su expedición corresponde a la Asamblea en ejercicio de la facultad que para legislar en desarrollo urbano, particularmente en uso del suelo, así como en vivienda, construcciones y edificaciones, le confieren los artículos 122, apartado C, Base Primera, fracción V, inciso j), de la Constitución Federal, y 42, fracción XIV, del Estatuto de Gobierno del Distrito Federal.
 
 > <small>(ADICIONADO, G.O. 25 DE ABRIL DE 2017)</small>
 
@@ -1286,7 +1438,9 @@ Quienes lleven a cabo construcciones que requieran dictamen de impacto urbano, d
 
 I. Destinar la superficie de terreno para el equipamiento urbano y de servicios;
 
-II. Sujetarse a las normas de ordenación emitidas por la Secretaría y/o contenidas en los programas; y
+> <small>(REFORMADA, G.O. 5 DE MAYO DE 2017)</small>
+
+II. Sujetarse a las normas de ordenación que expida la Asamblea, en ejercicio de la facultad que para legislar en desarrollo urbano, particularmente en uso del suelo, así como en vivienda, construcciones y edificaciones, le confieren los artículos 122, apartado C, Base Primera, fracción V, inciso j), de la Constitución Federal, y 42, fracción XIV, del Estatuto de Gobierno del Distrito Federal; y
 
 III. Transmitir a título gratuito al Distrito Federal, el dominio del porcentaje de la superficie total del terreno, que señale el Reglamento de esta Ley.
 
@@ -1949,5 +2103,23 @@ CUARTO. El Jefe de Gobierno contará con un plazo de treinta días hábiles para
 QUINTO. La Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México, tendrá un periodo de tres meses a partir de la entrada en vigor de la presente Ley, para implementar un programa de reorganización administrativa que deberá comprender, al menos, las normas y criterios para la homologación programática del presente decreto.
 
 SEXTO. La Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México, tendrá un plazo de 10 días hábiles, a partir de la entrada en vigor de la presente Ley, para inscribir en el Registro de los Planes y Programas de Desarrollo Urbano de la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México, los Planos 1:10,000 del Plano E-4. Ámbitos de Aplicación de la Norma para Impulsar y Facilitar la Construcción de Vivienda para los Trabajadores Derechohabientes de los Organismos Nacionales de Vivienda en Suelo Urbano, y su envío al Registro Público de la Propiedad y de Comercio de la Ciudad de México, para su inscripción correspondiente.
+
+SÉPTIMO. Remítase el presente Decreto al Jefe de Gobierno, para su respectiva promulgación, refrendo y publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 5 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE CONTIENE LAS OBSERVACIONES AL DIVERSO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL Y DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Se derogan las disposiciones que contravengan las contenidas en el presente Decreto.
+
+TERCERO. El Jefe de Gobierno contará con un plazo de treinta días hábiles para emitir los decretos derogatorios y abrogatorios de las disposiciones y ordenamientos que respectivamente se opongan al presente Decreto.
+
+CUARTO. De manera enunciativa mas no limitativa, el Jefe de Gobierno deberá abrogar el Reglamento del Comité Técnico de Modificaciones a los Programas de Desarrollo Urbano del Distrito Federal, publicado el 18 de febrero de 2011 en la Gaceta Oficial del Distrito Federal; deberá derogar los artículos 8, 9, 10, 11, 12, 13, 25, 26, 27, 28, 29, el párrafo segundo del artículo 38, el párrafo último del artículo 39, y el 40, todos del Reglamento de la Ley de Desarrollo Urbano del Distrito Federal, publicado el 29 de enero de 2004 en la Gaceta Oficial del Distrito Federal; así como la fracción V de artículo 8 del Reglamento del Consejo para el Desarrollo Urbano Sustentable del Distrito Federal, publicado el 07 de octubre de 2014 en la Gaceta Oficial del Distrito Federal.
+
+QUINTO. La Asamblea Legislativa y el Jefe de Gobierno, contarán conjuntamente con un plazo de seis meses contados a partir de la entrada en vigor del presente Decreto, para establecer el presupuesto y autorizar la estructura organizativa del Consejo Consultivo de Desarrollo Urbano de la Ciudad de México, para que inicie el desempeño de las funciones atribuidas mediante el presente Decreto.
+
+SEXTO. En tanto se instale el Consejo Consultivo de Desarrollo Urbano de la Ciudad de México, el Presidente de la Comisión de Desarrollo e Infraestructura Urbana de la Asamblea Legislativa, ejercerá, en lo que resulte procedente, las facultades que el artículo 42, 42 Bis y 42 Ter de la Ley de Desarrollo Urbano del Distrito Federal, le otorga al Presidente del Consejo Consultivo, salvo las relacionadas con el pre-dictamen. En todo caso, la Comisión dictaminará, sin necesidad de pre-dictamen, las iniciativas de decreto que en materia de Programas de Desarrollo Urbano le turne el Presidente de la Mesa Directiva del Pleno, o el Presidente de la Comisión de Gobierno, según sea el caso.
 
 SÉPTIMO. Remítase el presente Decreto al Jefe de Gobierno, para su respectiva promulgación, refrendo y publicación en la Gaceta Oficial del Distrito Federal.
