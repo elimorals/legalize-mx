@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2017-02-17"
+last_updated: "2017-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE MAYO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -1338,6 +1338,10 @@ El nombramiento del Oficial Mayor, Tesorero, Contralor General, Coordinador Gene
 
 La Oficialía Mayor, la Tesorería, la Contraloría General, la Coordinación General de Comunicación Social, el Instituto de Investigaciones Parlamentarias, la unidad de Estudios de Finanzas Públicas, así como el titular de la Coordinación de Servicios Parlamentarios, las demás unidades administrativas que se creen y el Canal de Televisivo de la Asamblea Legislativa del Distrito Federal, tendrán las atribuciones que les señale el Reglamento para el Gobierno Interior y otras disposiciones que emita la Asamblea.
 
+> <small>(ADICIONADO, G.O. 5 DE MAYO DE 2017)</small>
+
+ARTÍCULO 83 BIS.- El Consejo Consultivo de Desarrollo Urbano de la Ciudad de México, es una unidad administrativa adscrita a la Asamblea Legislativa del Distrito Federal, cuya integración y competencia se regirán por las disposiciones de la Ley de Desarrollo Urbano del Distrito Federal.
+
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 79], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 84.
@@ -1508,11 +1512,9 @@ e). Las demás que señalen las leyes.
 
 Tanto las iniciativas presentadas por los Diputados y por el Jefe de Gobierno como las propuestas de iniciativas constitucionales, de leyes o decretos, previo turno dado por la Presidencia de la Mesa Directiva o de la Comisión de Gobierno, pasarán de inmediato a la Comisión o a las Comisiones respectivas para que se dictaminen, en los términos que precise el Reglamento para el Gobierno Interior.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, G.O. 5 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
-
-Las iniciativas populares serán turnadas a una Comisión Especial integrada por miembros de las Comisiones competentes en la materia de la propuesta para el efecto de que verifique que se cumplan con los requisitos que la Ley de Participación Ciudadana establezca, y de ser procedente, la remitirá a la Mesa Directiva o a la Comisión de Gobierno en su caso, para que se dé el turno correspondiente. En caso contrario, se desechará de plano la iniciativa presentada.
+Las iniciativas populares serán turnadas a una Comisión Especial integrada por miembros de las Comisiones competentes en la materia de la propuesta para el efecto de que verifique que se cumplan con los requisitos que la Ley de Participación Ciudadana establezca, y de ser procedente, la remitirá a la Mesa Directiva o a la Comisión de Gobierno en su caso, para que se dé el turno correspondiente. En caso contrario, se desechará de plano la iniciativa presentada. Las disposiciones anteriores no serán aplicables a las iniciativas ciudadanas que se presenten en materia de Programas de Desarrollo Urbano de la ciudad, en cuyo caso se estará a lo dispuesto en la Ley de Desarrollo Urbano del Distrito Federal.
 
 > <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
@@ -2481,3 +2483,21 @@ PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 5 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE CONTIENE LAS OBSERVACIONES AL DIVERSO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL Y DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Se derogan las disposiciones que contravengan las contenidas en el presente Decreto.
+
+TERCERO. El Jefe de Gobierno contará con un plazo de treinta días hábiles para emitir los decretos derogatorios y abrogatorios de las disposiciones y ordenamientos que respectivamente se opongan al presente Decreto.
+
+CUARTO. De manera enunciativa mas no limitativa, el Jefe de Gobierno deberá abrogar el Reglamento del Comité Técnico de Modificaciones a los Programas de Desarrollo Urbano del Distrito Federal, publicado el 18 de febrero de 2011 en la Gaceta Oficial del Distrito Federal; deberá derogar los artículos 8, 9, 10, 11, 12, 13, 25, 26, 27, 28, 29, el párrafo segundo del artículo 38, el párrafo último del artículo 39, y el 40, todos del Reglamento de la Ley de Desarrollo Urbano del Distrito Federal, publicado el 29 de enero de 2004 en la Gaceta Oficial del Distrito Federal; así como la fracción V de (sic) artículo 8 del Reglamento del Consejo para el Desarrollo Urbano Sustentable del Distrito Federal, publicado el 07 de octubre de 2014 en la Gaceta Oficial del Distrito Federal.
+
+QUINTO. La Asamblea Legislativa y el Jefe de Gobierno, contarán conjuntamente con un plazo de seis meses contados a partir de la entrada en vigor del presente Decreto, para establecer el presupuesto y autorizar la estructura organizativa del Consejo Consultivo de Desarrollo Urbano de la Ciudad de México, para que inicie el desempeño de las funciones atribuidas mediante el presente Decreto.
+
+SEXTO. En tanto se instale el Consejo Consultivo de Desarrollo Urbano de la Ciudad de México, el Presidente de la Comisión de Desarrollo e Infraestructura Urbana de la Asamblea Legislativa, ejercerá, en lo que resulte procedente, las facultades que el artículo 42, 42 Bis y 42 Ter de la Ley de Desarrollo Urbano del Distrito Federal, le otorga al Presidente del Consejo Consultivo, salvo las relacionadas con el pre-dictamen. En todo caso, la Comisión dictaminará, sin necesidad de pre-dictamen, las iniciativas de decreto que en materia de Programas de Desarrollo Urbano le turne el Presidente de la Mesa Directiva del Pleno, o el Presidente de la Comisión de Gobierno, según sea el caso.
+
+SÉPTIMO. Remítase el presente Decreto al Jefe de Gobierno, para su respectiva promulgación, refrendo y publicación en la Gaceta Oficial del Distrito Federal.
