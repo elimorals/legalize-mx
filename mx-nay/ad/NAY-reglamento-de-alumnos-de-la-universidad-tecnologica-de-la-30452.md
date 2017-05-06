@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-alumnos-de-la-universidad-tecnologica-de-la-30452
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-04-05"
-last_updated: "2008-12-03"
+last_updated: "2017-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30452&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # REGLAMENTO DE ALUMNOS DE LA UNIVERSIDAD TECNOLOGICA DE LA COSTA, NAYARIT
 
-REGLAMENTO DE ALUMNOS
+REGLAMENTO DE ALUMNOS DE LA UNIVERSIDAD TECNOLÓGICA DE LA COSTA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2017.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el sábado 5 de abril de 2003.
 
@@ -63,15 +63,15 @@ II. Irregulares: los estudiantes que no aprueben una evaluación en cualquiera d
 
 III. Especiales: los que se inscriban en cursos de extensión o especialización y que no tienen como finalidad la obtención de un grado académico.
 
-IV. Certificados: los que acrediten asignaturas mediante examen a Título de Suficiencia, requiriéndose que cuenten con experiencia laboral en puestos de supervisión y mandos medios o superiores en el sector Productivo.
+IV. (REFORMADA [N. DE E. DEROGADA], P.O. 6 DE MAYO DE 2017)
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2017)</small>
 
 ###### Artículo 6°.
 
-La condición de alumno de la Universidad se pierde:
+La condición de estudiante de la Universidad se pierde:
 
-I. Por interrumpir sus estudios por diez días hábiles consecutivos sin notificación previa ante servicios escolares, y
-
-II. Por causar baja definitiva, según lo estipula el presente reglamento.
+I. Por causar baja temporal o definitiva, según lo estípula el presente Reglamento en lo previsto por el capítulo octavo en lo relativo a la bajas.
 
 ###### Artículo 7°.
 
@@ -133,7 +133,7 @@ XV. Pertenecer a las agrupaciones con fines educativos que funcionen en la Unive
 
 XVI. Solicitar baja temporal, de acuerdo a lo establecido en el presente Reglamento;
 
-XVII. Representar a la Universidad en los eventos académicos, deportivos, artísticos y culturales que se organicen, previa selección y conforme a sus facultades y preferencias; (sic)
+XVII. Representar a la Universidad en los eventos académicos, deportivos, artísticos y culturales que se organicen, previa selección y conforme a sus facultades y preferencias;
 
 ###### Artículo 12°.
 
@@ -147,9 +147,11 @@ III. Boleta de calificaciones del cuatrimestre cursado;
 
 IV. Certificado parcial y total con las asignaturas acreditadas de la carrera correspondiente.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE MAYO DE 2017)</small>
+
 ###### Artículo 13°.
 
-Son obligaciones de los alumnos:
+Son obligaciones de los estudiantes las siguientes:
 
 I. Cumplir con las disposiciones reglamentarias vigentes de la Institución y con los acuerdos de las autoridades escolares;
 
@@ -165,45 +167,53 @@ VI. Preservar el prestigio institucional;
 
 VII. Portar credencial de estudiante para su respectiva identificación en el momento que se requiera;
 
-VIII. Realizar las prácticas de campo y laboratorio en los horarios establecidos por las autoridades;
+VIII. (DEROGADA, P.O. 6 DE MAYO DE 2017)
 
-IX. Reportar a los directivos de la carrera de su adscripción, las irregularidades que se presenten en la Universidad, y (sic)
+IX. (DEROGADA, P.O. 6 DE MAYO DE 2017)
 
-X. No introducir a personas ajenas a la Universidad, sin contar con la autorización correspondiente;
+X. (DEROGADA, P.O. 6 DE MAYO DE 2017)
 
-XI. Cubrir las cuotas escolares establecidas por la Institución en el tiempo asignado; de no hacerlo, perderá el derecho a cualquier trámite escolar mientras no exista un acuerdo para cubrir su adeudo correspondiente;
+XI. (DEROGADA, P.O. 6 DE MAYO DE 2017)
 
-> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2008)</small>
+XII. (DEROGADA, P.O. 6 DE MAYO DE 2017)
 
-XII. Los alumnos no deberán introducir a la Universidad, objetos punzo cortantes u otro que pudiere lastimar a alguna persona o ellos mismos;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE MAYO DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2008)</small>
+XIII. Reportar a los directivos de la carrera de su adscripción, las irregularidades que se presenten en la Universidad.
 
-XIII. No se podrán introducir juegos de azar a las instalaciones de la Universidad.
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2017)</small>
+
+XIV. Cumplir con el límite de velocidad vehicular establecido dentro de la Institución; y
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2017)</small>
+
+XV. Responsabilizarse de los bienes que introduzca a la Universidad.
 
 ### CAPÍTULO TERCERO. DE LA PRESENTACIÓN PERSONAL
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE MAYO DE 2017)</small>
+
 ###### Artículo 14°.
 
-Como parte de una formación integral y como preparación para su ingreso al sector productivo, en su arreglo personal dentro de la Universidad, el alumno deberá obligatoriamente cumplir con las siguientes disposiciones:
+Como parte de una formación integral y como su preparación para su ingreso al sector productivo, en su arreglo personal dentro de la universidad, el estudiante deberá obligatoriamente cumplir con las siguientes disposiciones:
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2017)</small>
 
-I.- Presentarse a clases debidamente aseado.
+I. Presentarse a clase debidamente aseado;
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2017)</small>
 
-II.- Tener corte de pelo adecuado (Hombre pelo corto).
+II. Tener corte de pelo adecuado (hombre pelo corto)
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2017)</small>
 
-III.- Usar uniforme reglamentario el cual será definido por el Comité Directivo.
+III. Usar uniforme reglamentado, el cual será definido por el Comité Directivo.
 
-IV.- (REFORMADA [N. DE E. DEROGADA], P.O. 3 DE DICIEMBRE DE 2008)
+IV. (DEROGADA, P.O. 6 DE MAYO DE 2017)
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2017)</small>
 
-V.- Queda prohibido usar gorra, aros (piercings) en lugares visibles del cuerpo, lentes oscuros, reproductores de música, teléfonos celulares dentro del salón de clase.
+V. Queda prohibido, sombreros o similares, salvo causa justificada dentro de las instalaciones de la Universidad, portar aros (piercings) en lugares visibles del cuerpo. Así corno también usar lentes oscuros, reproductores de música, teléfonos, celulares en actos cívicos y dentro de espacios cerrados de la Universidad, salón de clases, biblioteca.
 
 ### CAPÍTULO CUARTO. DEL HORARIO DE CLASES
 
@@ -211,17 +221,15 @@ V.- Queda prohibido usar gorra, aros (piercings) en lugares visibles del cuerpo,
 
 La hora de entrada y salida de clases será la que determine la Dirección de cada carrera, de acuerdo a los planes y programas de estudio.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2017)</small>
+
 ###### Artículo 16°.
 
-Se considerará retardo cuando el alumno ingrese a clase cinco minutos después de la hora señalada para el inicio de cada clase; de entrar después de quince minutos será falta. Cada tres retardos se considerará una falta.
-
-> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2008)</small>
-
-I. Se considerará falta, cuando el alumno ingrese a clases después de diez minutos de la hora señalada para el inicio de cada clase, éste deberá contar con el 85% de las asistencias para tener derecho a la evaluación ordinaria.
+Se considera falta, cuando el estudiante ingrese a clases después de quince minutos de la hora señalada para el inicio de cada clase; este deberá contar con el 85% de las asistencias para tener derecho a la evaluación ordinaria.
 
 ###### Artículo 17°.
 
-El alumno solo podrá salir de la Universidad dentro del horario de clases con la autorización del director de su carrera o de algún tutor de grupo. De retirarse sin autorización, se considerará una falta a la disciplina y se hará acreedor a las sanciones establecidas dentro del capítulo Décimo Primero del presente reglamento.
+(DEROGADO, P.O. 6 DE MAYO DE 2017)
 
 ### CAPÍTULO QUINTO. DE LOS PERIODOS ESCOLARES
 
@@ -229,55 +237,73 @@ El alumno solo podrá salir de la Universidad dentro del horario de clases con l
 
 Los cursos que conforman los planes y programas de estudio regulares de la Universidad, se impartirán en períodos cuatrimestrales establecidos conforme al Calendario Escolar de la Institución.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2017)</small>
+
 ###### Artículo 19°.
 
-Para los alumnos de nuevo ingreso, la Universidad ofrecerá cursos propedéuticos con carácter obligatorio que se desarrollarán conforme lo determine la propia Institución.
+Para los estudiantes de nuevo ingreso, la Universidad ofrecerá cursos propedéuticos que se desarrollan conforme lo determine la propia institución.
 
 ### CAPÍTULO SEXTO. DE LA ADMISIÓN E INSCRIPCIÓN
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2017)</small>
+
 ###### Artículo 20°.
 
-A fin de ser admitido para cursar una carrera en la Universidad, el aspirante deberá acreditar estudios de educación básica, media superior y haber obtenido un promedio mínimo de siete, así como presentar y aprobar el examen diagnóstico y/o de selección, en donde el puntaje mínimo para la admisión será establecido por la Universidad.
+A fin de ser admitidos, para cursar una carrera en la Universidad, el aspirante deberá acreditar estudios de educación media superior, así como presentar el examen nacional de ingreso (EXANI).
 
 ###### Artículo 21°.
 
 El examen de ingreso podrá presentarse más de una vez, siempre y cuando el período de tiempo entre dos intentos sea al menos de un año.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2017)</small>
+
 ###### Artículo 22°.
 
-Los alumnos podrán cambiar de carrera por una sola vez inmediatamente después de la primera evaluación parcial, sometiéndose a dictamen del Rector, Directores de Carrera y Tutores de las carreras involucradas.
+Los estudiantes podrán cambiar de carrera, por una sola vez, inmediatamente después del primer corte evaluativo, sometiéndose a valoración de la Secretaría Académica y Directores de Carrera.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2017)</small>
 
 ###### Artículo 23°.
 
-El alumno que al término del cuatrimestre repruebe tres o más asignaturas en el periodo ordinario, o dos asignaturas en el extraordinario y la evaluación de Última Asignatura en su caso, conforme lo establecido en el Reglamento de Evaluación y Acreditación, causará baja académica y no podrá ser admitido nuevamente en la Universidad.
+El estudiante que al término del corte evaluativo repruebe más de cuatro asignaturas en el periodo ordinario, o dos asignaturas en la evaluación extraordinario y la evaluación de última asignatura en su caso, conforme lo establecidos (sic) en el Reglamento de Evaluación y Acreditación, causará baja temporal, teniendo una única oportunidad de reinscribirse. En caso que el alumno se inscriba deberá cursar la totalidad de materias del cuatrimestre no acreditado.
 
 ###### Artículo 24°.
 
-Los alumnos especiales deberán cumplir con los requisitos establecidos por el área de estudios en donde deseen incrementar sus conocimientos.
+(DEROGADO, P.O. 6 DE MAYO DE 2017)
 
 ###### Artículo 25°.
 
 Los aspirantes que hayan realizado estudios de bachillerato o su equivalente en el extranjero, deberán cumplir el trámite de revalidación de estudios ante la autoridad competente.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE MAYO DE 2017)</small>
+
 ###### Artículo 26°.
 
-Para inscribirse a la Universidad se requiere:
+Para inscribirse a la Universidad requiere:
 
 I. Llenar formato de solicitud de inscripción;
 
-II. Presentar certificado de secundaria en original y una copia;
+II. (DEROGADA, P.O. 6 DE MAYO DE 2017)
 
-III. Presentar certificado de bachillerato en original y una copia;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE MAYO DE 2017)</small>
 
-IV. Presentar acta de nacimiento en original y una copia;
+III. Presentar certificado de bachillerato en original.
 
-V. Entregar cinco fotografías tamaño infantil;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE MAYO DE 2017)</small>
 
-VI. Presentar y aprobar examen de admisión;
+IV. Presentar acta de nacimiento en original.
 
-VII. Cursar y aprobar el Curso Propedéutico, y
+V. (DEROGADA, P.O. 6 DE MAYO DE 2017)
+
+VI. (DEROGADA, P.O. 6 DE MAYO DE 2017)
+
+VII. (DEROGADA, P.O. 6 DE MAYO DE 2017)
 
 VIII. Cubrir las cuotas correspondientes.
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2017)</small>
+
+IX. Presentar examen nacional de ingreso (EXANI).
 
 ###### Artículo 27°.
 
@@ -311,9 +337,13 @@ I. Estar al corriente de sus cuotas escolares, o en su caso contar con el conven
 
 II. Contar con su expediente escolar libre de sanciones que impliquen la pérdida de su condición de alumno;
 
-III. Tener en orden toda su documentación en el registro de control escolar;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2017)</small>
 
-IV. Presentar debidamente requisitada la solicitud de reinscripción.
+III. Tener completa su documentación en el registro de control escolar,
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2017)</small>
+
+IV. Realizar el trámite correspondiente en el Departamento de Servicios Escolares.
 
 ###### Artículo 32°.
 
@@ -329,113 +359,85 @@ II. Que el solicitante cumpla con los requisitos de admisión de la carrera en c
 
 III. Que el Rector y los Directores de ambas carreras involucradas, estén de acuerdo en la admisión del solicitando, basándose en el nivel de escolaridad del mismo en la primera carrera; y
 
-IV. Haber obtenido un promedio mínimo general de 8.5 en la primera carrera cursada.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2017)</small>
+
+IV. Haber obtenido un promedio mínimo general de 8.0 en la primera carrera cursada.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2017)</small>
 
 ###### Artículo 34°.
 
-Todo alumno que no pueda o no desee reinscribirse al ciclo escolar siguiente que le corresponda, tiene derecho y debe solicitar un permiso de baja temporal. Quien no lo haga, o el que una vez concluido el plazo otorgado no se reinscriba, será dado de baja definitiva.
+Todo estudiante que no pueda o no desee reinscribirse al cuatrimestre siguiente que le corresponda, tiene derecho y debe solicitar un permiso de baja. Quien no lo haga, o quien una vez concluido el plazo otorgado no se reinscriba, será dado de baja temporal.
 
 ### CAPÍTULO SÉPTIMO. DE LA EVALUACIÓN DEL APRENDIZAJE
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2017)</small>
+
 ###### Artículo 35°.
 
-La Universidad concibe a la evaluación académica como el proceso sistemático integral a través del cual se determinan los saberes (Saber, Saber Hacer, Saber Ser, Saber Crear) adquiridos por los estudiantes durante el proceso de aprendizaje.
+La Universidad concibe a la evaluación de aprendizaje como el proceso sistémico integral a través del cual se determinan las competencias a adquirir (saber, saber hacer y ser), contemplados en el Reglamento de Evaluación y Acreditación.
 
 ###### Artículo 36°.
 
-La Universidad establecerá los tipos de evaluación aplicables para garantizar el servicio educativo, tanto en lo relacionado a la formación académica, como a la formación integral del alumno.
+(DEROGADO, P.O. 6 DE MAYO DE 2017)
 
 ###### Artículo 37°.
 
-Los fines de la evaluación académica serán:
-
-I. Que el personal docente disponga de elementos para lograr los objetivos de aprendizaje, a efecto de retroalimentar y orientar hacia la superación del aprovechamiento escolar;
-
-II. Que la información que se obtenga se analice para apoyar la toma de decisiones orientadas a elevar la calidad del proceso de aprendizaje, y
-
-III. Que el personal docente, Directores de Carrera y funcionarios académicos, valoren de manera objetiva los logros y deficiencias del desempeño docente.
+(DEROGADO, P.O. 6 DE MAYO DE 2017)
 
 ###### Artículo 38°.
 
-Para la determinación de los logros del aprendizaje del alumno, el personal docente utilizará las técnicas, instrumentos y estrategias que promoverá la propia Universidad a través de las reuniones académicas.
+(DEROGADO, P.O. 6 DE MAYO DE 2017)
 
 ###### Artículo 39°.
 
-La Universidad establece como tipo de evaluación la de carácter formativo, que se aplica de manera sistemática, continua y flexible, durante todo el proceso de cada curso, para la aplicación de medidas correctivas oportunas, por lo menos cada mes.
+(DEROGADO, P.O. 6 DE MAYO DE 2017)
 
 ###### Artículo 40°.
 
-En la Evaluación Ordinaria, el alumno tendrá solamente una oportunidad para acreditar las unidades de aprendizaje de cualquier asignatura que forma parte del programa de estudios.
+(DEROGADO, P.O. 6 DE MAYO DE 2017)
 
 ###### Artículo 41°.
 
-En la Evaluación Ordinaria el profesor deberá tomar en cuenta las diversas actividades realizadas por los alumnos durante el periodo que se evalúa, tales como participaciones individuales, tareas, prácticas, proyectos, exposiciones, resolución de problemas, exámenes teóricos y prácticos, trabajos de investigación entre otras.
+(DEROGADO, P.O. 6 DE MAYO DE 2017)
 
 ###### Artículo 42°.
 
-La calificación de cada asignatura se expresará en cuatro resultados parciales; la calificación final será el promedio de los cuatro anteriores, mismos que entregarán los profesores de cada asignatura a los Directores de Carrera y a Servicios Escolares, según tiempos que establezca el calendario escolar de la Institución.
+(DEROGADO, P.O. 6 DE MAYO DE 2017)
 
 ###### Artículo 43°.
 
-Los resultados de las evaluaciones en la Universidad se expresarán en números enteros y un decimal, en una escala de cero a diez, siendo siete la mínima aprobatoria.
+(DEROGADO, P.O. 6 DE MAYO DE 2017)
 
 ###### Artículo 44°.
 
-El lapso que abarque cada periodo evaluativo estará fijado en el calendario de actividades académicas correspondiente.
+(DEROGADO, P.O. 6 DE MAYO DE 2017)
 
 ###### Artículo 45°.
 
-Si la calificación mensual obtenida es menor de siete, se aplicarán acciones de recuperación, que consistirán en apoyar a los estudiantes fuera del horario regular.
+(DEROGADO, P.O. 6 DE MAYO DE 2017)
 
 ###### Artículo 46°.
 
-El alumno podrá solicitar revisión de los resultados de sus evaluaciones, en primer término, al Profesor de Asignatura, o como última instancia al Director de Carrera correspondiente, el día hábil siguiente a la entrega de sus calificaciones, el cual estudiará dicha petición y en caso de considerar que ésta procede, la turnará al profesor correspondiente para su posible reconsideración.
+(DEROGADO, P.O. 6 DE MAYO DE 2017)
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2017)</small>
 
 ###### Artículo 47°.
 
-El alumno que no haya acreditado una asignatura de manera ordinaria, tendrá derecho a presentar una Evaluación Remedial, la cual procede en los siguientes supuestos:
-
-I.- Cuando el alumno no acreditó una o más unidades de aprendizaje comprendidas dentro de la Evaluación Ordinaria de una asignatura en el cuatrimestre respectivo.
-
-II.- No haber presentado la evaluación ordinaria teniendo derecho a ella, previa justificación por escrito del Director de Carrera.
-
-III.- El alumno tendrá derecho a presentar una Evaluación Remedial por cada Evaluación Ordinaria practicada en cada asignatura.
+El estudiante que no haya acreditado una signatura (sic) de manera ordinaria, tendrá derecho a presentar nivelaciones, las que comprenderán exclusivamente las unidades de aprendizaje de la asignatura que no fueron acreditadas en el curso normal; de acuerdo al Reglamento de Evaluación y Acreditación.
 
 ###### Artículo 48°.
 
-Cuando el alumno no acreditó la asignatura en la Evaluación Remedial, tendrá derecho a presentar Evaluación Extraordinaria, presentando como máximo dos evaluaciones en cada cuatrimestre; las que comprenderán exclusivamente las unidades de aprendizaje que no fueron acreditadas en el curso normal. En caso de reprobar tres o más asignaturas en periodo ordinario, causará baja definitiva automáticamente.
-
-I.- Para poder presentar examen extraordinario se deberá contar por lo menos con un 85% de asistencia a clases, de la asignatura en cuestión, pagar el derecho a examen y no adeudar cantidad alguna a la institución.
-
-II.- La Evaluación Extraordinaria se llevará a cabo por el profesor titular de la materia y esta será antes del inicio del siguiente cuatrimestre.
-
-III.- La calificación máxima en una evaluación extraordinaria será de nueve.
-
-IV.- Los resultados de los exámenes extraordinarios deberán ser asentados en sus respectivas actas con la firma del examinador y del Director de Carrera debiendo ser turnadas a servicios escolares para su certificación en el plazo estipulado.
+(DEROGADO, P.O. 6 DE MAYO DE 2017)
 
 ###### Artículo 49°.
 
-Si un alumno después de esta oportunidad vuelve a obtener calificación reprobatoria, tendrá derecho, según el Reglamento de Evaluación y Acreditación a presentar evaluación de última Asignatura; en caso de también reprobar ésta causará baja definitiva de la Universidad.
-
-I.- Para que el alumno tenga derecho a presentar evaluación de Última Asignatura, deberá solicitarlo dentro de los tres días hábiles contados a partir del día hábil siguiente de la publicación de las listas de calificaciones de exámenes extraordinarios.
-
-II.- La evaluación de la Última Asignatura se realizará el primer día hábil de clases del siguiente cuatrimestre.
-
-III.- El alumno acudirá personalmente en la fecha que se le indique para conocer el resultado de esta evaluación.
+(DEROGADO, P.O. 6 DE MAYO DE 2017)
 
 ###### Artículo 50°.
 
-La Evaluación a Título de Suficiencia es el procedimiento por el cual el alumno acredita tener los conocimientos necesarios correspondientes a cierta asignatura, adquiridos en forma autodidacta, en otra institución educativa sin acreditarlo, o a través de la experiencia laboral.
-
-I.- En los casos de reingreso de exalumnos que habiendo cursado con anterioridad en el Subsistema Nacional de Universidades Tecnológicas asignaturas de un plan de estudios diferente al vigente y que soliciten su reingreso a la institución.
-
-II.- Cuando los interesados se encuentren laborando en el sector productivo.
-
-III.- La Evaluación a Título de Suficiencia será elaborada, aplicada y revisada con una comisión integrada por el Director de Carrera que corresponda quien la presidirá, y por dos profesores con conocimientos de la asignatura que se vaya a evaluar designados por el Director de la carrera correspondiente.
-
-IV.- Las calificaciones del Examen a Título de Suficiencia deberán ser registradas en los concentrados de calificaciones, para tener derecho a presentar el o los exámenes deberá ser alumnos (sic) inscrito, cubrir el importe de los derechos de evaluación cuyo costo será el equivalente al de un examen extraordinario.
-
-V.- El alumno podrá presentar el o los Exámenes a Título de Suficiencia en un plazo máximo de 1 año a partir de su reingreso a la Universidad; tendrá dos oportunidades para acreditar la asignatura respectiva y de no hacerlo será dado de baja definitiva.
+(DEROGADO, P.O. 6 DE MAYO DE 2017)
 
 ### CAPÍTULO OCTAVO. DE LAS BAJAS
 
@@ -443,33 +445,61 @@ V.- El alumno podrá presentar el o los Exámenes a Título de Suficiencia en un
 
 Se entiende por baja la suspensión temporal o definitiva de las actividades académicas de los alumnos inscritos en la Universidad.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE MAYO DE 2017)</small>
+
 ###### Artículo 52°.
 
-La baja puede presentar la modalidad de voluntaria y se concede a solicitud por escrito del alumno ante Servicios Escolares. La temporalidad tiene vigencia hasta un año, después del cual se considerara baja automática.
+La baja temporal tendrá vigencia hasta por dos años, después del cual se considera baja definitiva. El estudiante que se haya dado de baja temporal tendrá una única oportunidad de reingresar a la Universidad en el cuatrimestre que le corresponda o cursar una carrera distinta. La baja temporal se puede presentar por las siguientes causas:
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2017)</small>
+
+I. De manera voluntaria a solicitud por escrito del estudiante a la Dirección de División de carrera.
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2017)</small>
+
+II. Por reprobación de más de cuatro asignaturas en nivelación o más de dos asignaturas en evaluación extraordinario, cuando no apruebe la evaluación de ultima asignatura o no tenga derecho a ella.
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2017)</small>
+
+III. Por deserción del estudiante, cuando se ausente de clases por diez días hábiles consecutivos sin justificación.
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2017)</small>
+
+IV. Cuando el estudiante no cumpla con la entrega de documentos oficiales, en el plazo establecido por servicios escolares.
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2017)</small>
+
+V. Y las demás que la Dirección de División de carrera determine.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE MAYO DE 2017)</small>
 
 ###### Artículo 53°.
 
-La baja definitiva se dará de manera automática:
+Una vez que el estudiante sea dado de baja definitiva en una carrera, podrá tener la oportunidad por única vez, de inscribirse en una carrera diferente, siempre y cuando acredite y cumpla con los requisitos establecidos.
 
-I. Por deserción del alumno cuando se ausente de clases por diez días hábiles consecutivos sin justificación;
+I. (DEROGADA, P.O. 6 DE MAYO DE 2017)
 
-II. Cuando el alumno no cumpla con la entrega de documentos oficiales en el plazo establecido por Servicios Escolares;
+II. (DEROGADA, P.O. 6 DE MAYO DE 2017)
 
 III. Cuando el alumno notifique que no regresará a estudiar a la Institución y retira sus documentos de la misma;
 
-IV. Por reprobación de tres o más asignaturas en el periodo ordinario o una asignatura en extraordinario, siempre y cuando tampoco apruebe la evaluación de Última Asignatura o no tenga derecho a ella; y
+IV. (DEROGADA, P.O. 6 DE MAYO DE 2017)
 
 V. Por actos cometidos en contra de la disciplina según lo establecido en el capitulo de sanciones del presente reglamento.
 
 ### CAPÍTULO NOVENO. DE LOS ESTIMULOS Y DISTINCIONES ACADÉMICAS
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2017)</small>
+
 ###### Artículo 54°.
 
-Para estimular a los estudiantes sobresalientes la Universidad establecerá y otorgará distinciones, menciones, reconocimientos y/o becas de acuerdo a las normas establecidas.
+Para estimular a los estudiantes sobresalientes la Universidad establecerá y otorgará distinciones, menciones, reconocimientos, becas de acuerdo a las normas establecidas.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2017)</small>
 
 ###### Artículo 55°.
 
-Son candidatos a recibir Mención Honorífica, los graduados que tengan un promedio de calificaciones finales en las asignaturas del plan de estudios igual a nueve y hasta nueve punto nueve, que no hayan reprobado asignatura alguna, y no se hayan hecho acreedores a ninguna sanción disciplinaria por parte de la Universidad.
+Son candidatos a recibir Mención Honorifica, los graduados que tengan el mejor promedio de calificaciones finales en las asignaturas del plan de estudios de cada carrera, que no hayan reprobado asignatura alguna, y no se hayan hecho acreedores a ninguna sanción disciplinaria por parte de la Universidad.
 
 ###### Artículo 56°.
 
@@ -477,23 +507,27 @@ Son candidatos a recibir Mención Honorífica de Excelencia, los graduados que t
 
 ### CAPÍTULO DÉCIMO. DE LOS TÍTULOS Y RECONOCIMIENTOS
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE MAYO DE 2017)</small>
+
 ###### Artículo 57°.
 
-Para obtener el titulo de Técnico Superior Universitario, el alumno requiere:
+Para obtener el título de Técnico Superior Universitario, el estudiante requiere:
 
-I. Tener integrado debidamente su expediente académico y administrativo;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2017)</small>
+
+I. Haber realizado la estadía y entregar la memoria correspondiente, en un plazo de 30 días naturales después del término de ésta, debidamente aprobado por el asesoro (sic) empresarial y asesor académico.
 
 II. Haber cursado y aprobado todas las asignaturas de la carrera;
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2008)</small>
+III. (DEROGADA, P.O. 6 DE MAYO DE 2017)
 
-I (SIC). Haber realizado la estadía y presentar la memoria correspondiente, en un plazo de 30 días naturales después del término de ésta, debidamente aprobado por el tutor empresarial y tutor académico, así como requisitarlo de acuerdo al Reglamento de Estadía;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2005)</small>
+IV. La representación de la memoria no es requisito de la titulación y el mismo será una actividad ceremonial.
 
-IV. La presentación del examen profesional o de grado no es requisito, de la titulación y el mismo será una actividad ceremonial, en el caso de las universidades que así lo tengan reglamentado;
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2017)</small>
 
-V. (DEROGADA, P.O. 4 DE JUNIO DE 2005)
+V. Entregar el formato de cumplimiento de requisitos para titulación en el Departamento de Servicios Escolares.
 
 ###### Artículo 58°.
 
@@ -533,23 +567,45 @@ IV.- (REFORMADA [N. DE E. DEROGADA], P.O. 3 DE DICIEMBRE DE 2008)
 
 Se considerarán faltas a la disciplina:
 
-I. La realización de actos antihigiénicos dentro de las instalaciones de la Universidad o que lesionen la moral y las buenas costumbres, la imagen, fines, prestigio, marcha normal, buen funcionamiento y patrimonio de la Universidad;
+I. (DEROGADA, P.O. 6 DE MAYO DE 2017)
 
-II. El maltrato al mobiliario y la utilización del patrimonio de la Universidad para fines distintos a aquellos que está destinado;
+II. (DEROGADA, P.O. 6 DE MAYO DE 2017)
 
-III. La suplantación de persona; prestar o recibir ayuda indebida en las pruebas de aprovechamiento;
+III. (DEROGADA, P.O. 6 DE MAYO DE 2017)
 
-IV. La desobediencia, falta de respeto a profesores, empleados y funcionarios de la Universidad;
+IV. (DEROGADA, P.O. 6 DE MAYO DE 2017)
 
-V. A quien ejerza presión moral o física, incitando o induciendo a cualquier miembro de la institución a la violencia o comisión de actos tendientes a alterar el orden establecido;
+V. (DEROGADA, P.O. 6 DE MAYO DE 2017)
 
 VI. A quienes no acaten lo dispuesto en cuanto a presentación personal establecido en el artículo 13 del presente reglamento, consumo de alimentos en el aula, portación de credencial de identificación como estudiante, portación de aparatos eléctricos, horario de asistencia y consumo de tabaco dentro de los edificios de la Universidad;
 
 VII. El retirarse de la Universidad durante el horario de clases, sin la autorización del Director de Carrera o de algún Tutor de Grupo.
 
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2017)</small>
+
+VIII. Suplantación de persona; prestar o recibir ayuda indebida en las pruebas de aprovechamiento;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2017)</small>
+
+IX. Desobedecer y faltar de respeto a profesores, empleados y funcionarios de la Universidad;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2017)</small>
+
+X. Ejercer presión moral o física, incitando o induciendo a cualquier miembro de la institución a la violencia o comisión de actos tendientes a alterar el orden establecido.
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2017)</small>
+
+XI. Desobedecer lo dispuesto en cuanto a presentación personal, establecido en el artículo 14 del presente reglamento, consumo de alimentos dentro de los edificios de la Universidad, Exceptuando cafetería y consumo de tabaco dentro de los edificios de la Universidad.
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2017)</small>
+
+XII. Vender cualquier tipo de productos dentro de la Universidad, consumir alimentos en espacios cerrados de la misma, exceptuando el área del comedor.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2017)</small>
+
 ###### Artículo 61°.
 
-En la aplicación de las sanciones, el alumno acatará el dictamen pronunciado por la Dirección de la Carrera a la que pertenezca.
+En la aplicación de las sanciones, el estudiante acatará el dictamen pronunciado por la Comisión de Honor y Justicia.
 
 ###### Artículo 62°.
 
@@ -614,3 +670,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADOS, NO SEÑALA DISPOSICIONES TRANSIT
 P.O. 3 DE DICIEMBRE DE 2008.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL DEL ESTADO DE NAYARIT.
+
+P.O. 6 DE MAYO DE 2017.
+
+> <small>[N. DE E. EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NAYARIT.]</small>
