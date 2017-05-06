@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-estadias-de-la-universidad-tecnologica-de-la-7677
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-09-04"
-last_updated: "2010-09-04"
+last_updated: "2017-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "NAY"
 ---
 # REGLAMENTO DE ESTADIAS DE LA UNIVERSIDAD TECNOLOGICA DE LA COSTA, NAYARIT
 
-REGLAMENTO DE ESTADlAS DE LA UNIVERSIDAD TECNOLOGICA DE LA COSTA
+REGLAMENTO DE ESTADÍAS DE LA UNIVERSIDAD TECNOLÓGICA DE LA COSTA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2017.
 
 Reglamento publicado en la Sección Sexta del Periódico Oficial del Estado de Nayarit, el sábado 4 de septiembre de 2010.
 
@@ -34,17 +34,25 @@ UNIVERSIDAD TECNOLOGICA DE LA COSTA REGLAMENTO DE ESTADIAS
 
 La Universidad Tecnológica de la Costa atendiendo a su modelo pedagógico, implementa durante el cuatrimestre establecido de la carrera, un programa académico denominado estadía.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2017)</small>
+
 ###### Artículo 2.
 
-Estadía es el período en el cual el alumno, durante el cuatrimestre que marque el plan de estudios permanecerá en una empresa o de preferencia en una organización pública o social, bajo la tutela de uno de sus integrantes, y contando con la asesoría de la Universidad, desarrollando un proyecto de investigación tecnológica que sea pertinente a su carrera y que represente la solución a una problemática en una empresa u organismo en una aportación a la misma.
+Estadía es el periodo en el cual el alumno, durante el cuatrimestre que marque el plan de estudios permanecerá en una empresa, organización pública o social, bajo la tutela de uno de los integrantes, y contando con la asesoría de la Universidad, desarrollando un proyecto de investigación tecnológica que sea pertinente a su carrera y que represente la solución a una problemática en una empresa u organismo en aportación a la misma.
 
 ###### Artículo 3.
 
 La Estadía tiene como propósito que el alumno ponga en práctica los conocimientos teóricos-prácticos que adquirió durante su formación en los cuatrimestres cursados en la Universidad Tecnológica de la Costa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2017)</small>
+
 ###### Artículo 4.
 
-La Estadía la realizará el alumno en una empresa del sector productivo de bienes y servicios, o en organismos públicos o privados, previo convenio entre dicha empresa u organismo y la Universidad, contando de igual manera con la cobertura del seguro sobre los riesgos del alumno en la empresa que la Universidad cubrirá bajo el Reglamento del Seguro Social.
+La estadía la realizará el alumno en una empresa del sector productivo de bienes y servicios, o en organismo público o privados (sic), previo convenio entre dicha empresa u organismos y la Universidad, contando de igual manera con la cobertura del seguro sobre riesgos del alumno en la empresa que la Universidad cubrirá bajo el Reglamento del Seguro Social.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2017)</small>
+
+En caso de que dos o más alumnos participen en el mismo proyecto de estadía, deberán presentar la memoria de manera individual, donde cada uno resuelva aspectos distintos del proyecto.
 
 ###### Artículo 5.
 
@@ -64,9 +72,11 @@ Es obligación de todos los alumnos el realizar la estadía en el cuatrimestre e
 
 El personal académico de la Universidad, tiene como obligación, asesorar a los alumnos que realicen su estadía en las empresas.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2017)</small>
+
 ###### Artículo 9.
 
-Son beneficiarias de las estadías, las empresas del sector productivo de bienes o servicios y los organismos públicos o privados, quienes asignarán a un asesor quien dará seguimiento al proyecto del alumno. Él estudiante en ningún caso podrá realizar su estadía en empresas u organismos en los que algún familiar directo ocupe la dirección.
+Son beneficiarias de las estadías, las empresas del sector productivo de bienes y servicios y los organismos públicos o privados, quien asignara a un asesor, quien dará seguimiento al proyecto del alumno.
 
 ### CAPITULO III. ESTRUCTURA Y OPERACIÓN
 
@@ -146,13 +156,17 @@ Los asesores empresariales en conjunto con los asesores académicos y alumnos tr
 
 Los Directores de División de Carrera en conjunto con cada asesor serán los responsables de llevar a cabo el seguimiento y evaluación académica de los proyectos de estadía de los alumnos de su área.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2017)</small>
+
 ###### Artículo 22.
 
-El asesor académico realizará la presentación del alumno en la empresa a través de la carta de aceptación de la misma.
+Los Directores de División de Carrera, ostentaran al alumno en la empresa a través de la carta de presentación del mismo.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2017)</small>
 
 ###### Artículo 23.
 
-Una vez iniciado el proyecto en la fecha marcada por el calendario académico y en caso de que la unidad receptora no brinde apoyo al alumno o el proyecto no coincida con las especificaciones originales o éstas cambien el proyecto, el alumno podrá solicitar cambio de empresa o de proyecto, el cual deberá quedar registrado tanto en la Dirección de Vinculación como en el Departamento de Control Escolar.
+Una vez que es (sic) estudiante inicie el periodo de estadía, y en caso que la unidad receptora no brinde el apoyo al mismo o el proyecto no coincida con las especificaciones establecidas, a petición del Asesor Académico, con la justificación correspondiente, se podrá realizar cambio de empresa o proyecto, el cual deberá quedar registrado en la Secretaría/Dirección de Vinculación.
 
 ###### Artículo 24.
 
@@ -208,29 +222,41 @@ V. Notificar inmediatamente a la Dirección de División de Carrera correspondie
 
 ### CAPITULO V. DE LA EVALUACIÓN DE LAS ESTADIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2017)</small>
+
 ###### Artículo 30.
 
-El desarrollo de las actividades del proyecto será evaluado, dentro del período que marca el calendario académico, tanto por el asesor empresarial como por el asesor académico, con base en lo siguiente.
+El asesor empresarial y el asesor académico darán seguimiento al desarrollo de las actividades del proyecto dentro del periodo que marca el calendario académico con base en lo siguiente:
 
-I- El alumno deberá reunirse de manera independiente con el asesor empresarial y con el asesor académico para llenar la forma de evaluación correspondiente. En las reuniones tanto con el asesor empresarial como con el asesor académico, el alumno y asesores deberán firmar de mutuo acuerdo.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2017)</small>
 
-II- La calificación se integrará en un 50% por el asesor empresarial y el otro 50% por el asesor académico.
+I. El alumno deberá reunirse de manera independiente con el asesor empresarial y con el asesor académico para revisión del avance del proyecto.
 
-III- El Director de División de Carrera correspondiente, deberá llenar y firmar el acta con las evaluaciones de todo el grupo, y las entregará al departamento de Control Escolar.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2017)</small>
 
-IV- En las evaluaciones se comparará el avance del proyecto así como el desempeño y actitudes del alumno.
+II. En el seguimiento se verificará el avance del proyecto; así como el desempeño y actitudes del alumno
+
+III. (DEROGADA, P.O. 6 DE MAYO DE 2017)
+
+IV. (DEROGADA, P.O. 6 DE MAYO DE 2017)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2017)</small>
 
 ###### Artículo 31.
 
-El asesor académico evaluará el reporte final de la estadía debiendo obtener el visto bueno del Director de División de Carrera correspondiente, dentro del período que marca el calendario académico considerando los siguientes elementos:
+El asesor académico revisará el reporte final de la estadía debiendo obtener el visto bueno del Director de División de carrera correspondiente, dentro del periodo que marca el calendario académico considerando los siguientes elementos.
 
-I- Por el contenido técnico.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2017)</small>
 
-II- Por la calidad de su redacción y presentación.
+I. Por el contenido Técnico.
+
+II. Por la calidad de su redacción y presentación.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2017)</small>
 
 ###### Artículo 32.
 
-El trabajo final de la estadía que elabore el alumno deberá estar dirigido por su asesor académico y asesor empresarial, debiendo presentarlo en "tipo memoria", respetando los elementos mencionados en el artículo anterior, en dos formatos digitales protegidos con clave de acceso, entregándolos en las siguientes áreas: uno para la empresa y otro para Biblioteca.
+El trabajo final de la estadía que elabore el alumno deberá estar dirigido por su asesor académico y asesor empresarial, debiendo presentarlo en "tipo memoria" respetando los requisitos establecidos por la Universidad, así como los elementos mencionados en el artículo anterior, en formato digital protegido, entregándolo en las siguientes áreas: Uno para la empresa y otro para biblioteca.
 
 ###### Artículo 33.
 
@@ -238,7 +264,7 @@ El alumno tendrá 30 días naturales a partir de la terminación de la estadía 
 
 ###### Artículo 34.
 
-Una vez que el alumno entregó satisfactoriamente su trabajo obtendrá la constancia de su entrega con lo cual quedarán cumplidos los requisitos académicos para la obtención del Titulo correspondiente.
+(DEROGADO, P.O. 6 DE MAYO DE 2017)
 
 ###### Artículo 35.
 
@@ -269,3 +295,9 @@ SEGUNDO.- Se abroga el Reglamento de Estadías para la Universidad Tecnológica 
 TERCERO.- El Rector de la Universidad deberá instrumentar las acciones necesarias para la impresión y publicación del presente reglamento, haciéndolo del conocimiento de la Comunidad Universitaria.
 
 RECTOR, DR. ANDRES BOGARÍN SERRANO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE MAYO DE 2017.
+
+> <small>[N. DE E. LAS “REFORMAS Y ADICIONES AL REGLAMENTO DE ESTADÍAS DE LA UNIVERSIDAD TECNOLÓGICA DE LA COSTA”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE NAYARIT.]</small>
