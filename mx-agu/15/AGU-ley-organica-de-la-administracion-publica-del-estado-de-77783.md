@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-77783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-28"
-last_updated: "2016-11-07"
+last_updated: "2017-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Estado de Aguascalientes, el martes 28 de diciembre de 2010.
 
@@ -1665,11 +1665,45 @@ XX. Presentar las denuncias o querellas penales cuando la conducta del servidor 
 
 XXI. Designar a los auditores externos que de acuerdo a las leyes específicas, deban intervenir en la realización de auditorías especiales;
 
-> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
 
-XXII. Intervenir en los procedimientos de contratación y celebrar los contratos de compraventa, comodato, donación y demás actos de dominio respecto del patrimonio inmobiliario del Gobierno del Estado, en los términos previstos en las leyes de la materia; y
+XXII. Intervenir en los procedimientos de contratación y celebrar los contratos de compraventa, comodato, donación y demás actos traslativos de la posesión así como de dominio respecto del patrimonio inmobiliario del Gobierno del Estado, en los términos previstos en las leyes de la materia;
 
-XXIII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
+
+XXIII. Expedir las normas que regulen los instrumentos y procedimientos de control interno en materia de combate a la corrupción de la Administración Pública del Estado, tomando para tal efecto opiniones de las otras dependencias. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+
+XXIV. Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control, así como asesorar y apoyar a los órganos de control interno de las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+
+XXV. Colaborar en el marco del Sistema Estatal Anticorrupción, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+
+XXVI. Implementar las acciones que acuerde el Sistema Estatal Anticorrupción, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+
+XXVII. Informar periódicamente al Comité Coordinador del Sistema Estatal Anticorrupción, así como al Ejecutivo Estatal, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la Administración Publica, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos estatales, y promover ante las autoridades competentes, las acciones que procedan para corregir las irregularidades detectadas;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+
+XXVIII. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, la política general de la Administración Pública Estatal para establecer acciones que propicien la integridad y la transparencia en la gestión publica, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+
+XXIX. Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Estatal Anticorrupción, en materia de combate a la corrupción en la Administración Publica Estatal;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+
+XXX. Emitir normas, lineamientos específicos y manuales que, dentro del ámbito de su competencia, integren disposiciones y criterios que impulsen la simplificación administrativa, para lo cual deberán tomar en consideración las bases y principios de coordinación y recomendaciones generales que emita el Comité Coordinador del Sistema Estatal Anticorrupción; y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+
+XXXI. Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE JUNIO DE 2013)</small>
 
@@ -2252,3 +2286,39 @@ P.O. 7 DE NOVIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El Presente Decreto iniciará su vigencia al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 79.- LEY DEL SISTEMA ESTATAL ANTICORRUPCION DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado deberá expedir las leyes y realizar las adecuaciones normativas correspondientes, de conformidad con lo previsto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado deberá designar a los primeros integrantes de la Comisión de Selección.
+
+La Comisión de Selección nombrará a los integrantes del Comité de Participación Ciudadana, en los términos siguientes:
+
+a. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador.
+
+b. Un integrante que durará en su encargo dos años.
+
+c. Un integrante que durará en su encargo tres años.
+
+d. Un integrante que durará en su encargo cuatro años.
+
+e. Un integrante que durará en su encargo cinco años.
+
+Los integrantes del Comité de Participación Ciudadana a que se refieren los incisos anteriores se rotarán la representación ante el Comité Coordinador en el mismo orden.
+
+La sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción, se llevará a cabo dentro del plazo de quince días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana en los términos de los párrafos anteriores.
+
+La Secretaría Ejecutiva deberá iniciar sus operaciones, a más tardar a los treinta días naturales siguientes a la sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción.
+
+Para tal efecto, el Ejecutivo Estatal y el Congreso del Estado proveerán los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
