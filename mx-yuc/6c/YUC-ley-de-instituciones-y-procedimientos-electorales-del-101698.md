@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-instituciones-y-procedimientos-electorales-del-101698"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-28"
-last_updated: "2016-12-28"
+last_updated: "2017-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE MAYO DE 2017.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el sábado 28 de junio de 2014.
 
@@ -33,7 +33,9 @@ Rolando Rodrigo Zapata Bello, Gobernador del Estado de Yucatán, con fundamento 
 
 “EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 29 Y 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA, 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, 117 Y 118 DEL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, TODOS DEL ESTADO DE YUCATÁN, EMITE LA SIGUIENTE,
 
-E X P O S I C I Ó N D E M O T I V O S:...
+E X P O S I C I Ó N D E M O T I V O S:
+
+[...]
 
 En tal virtud, con fundamento en los artículos 30, fracción V y VIII de la Constitución Política, artículos 18 y 43 fracción I inciso b) de la Ley de Gobierno del Poder Legislativo, y artículo 71 fracción II del Reglamento de la Ley de Gobierno del Poder Legislativo, todos los ordenamientos del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -2665,19 +2667,25 @@ a) Las candidaturas a diputados a elegirse por el principio de mayoría relativa
 
 b) Las candidaturas a diputados a elegirse por el principio de representación proporcional se registrarán por medio de listas de 5 candidatos propietarios, alternando los géneros de los candidatos para garantizar el principio de paridad hasta agotar la lista;
 
-c) Las candidaturas a regidores de ayuntamientos se registrarán por planillas integradas por candidatos de mayoría relativa y de representación proporcional, propietarios y suplentes; y de entre ellos, el primero de la planilla será electo con el carácter de Presidente Municipal y el segundo con el de Síndico. En todo caso se deberá observar que cuando los propietarios sean del género femenino, las suplentes deberán ser del mismo género, y
+> <small>(REFORMADO, D.O. 8 DE MAYO DE 2017)</small>
+
+c) Las candidaturas a regidores de ayuntamientos se registrarán por planillas integradas por candidatos de mayoría relativa y de representación proporcional, propietarios y suplentes; y de entre ellos, el primero de la planilla será electo con el carácter de Presidente Municipal y el segundo con el de Síndico. En todo caso se deberá observar que cuando los propietarios sean del género femenino, las suplentes deberán ser del mismo género. Se asegurará la paridad horizontal, esto es, cada uno de los géneros encabezará el 50 % de las planillas de candidatos a regidores que contenderán en los municipios del estado, y
 
 d) Ninguna persona podrá ser registrada como candidato a distintos cargos de elección popular o postulado simultáneamente como candidato de mayoría relativa y representación proporcional, en el mismo proceso electoral.
 
 En el caso de que para un mismo cargo de elección popular sean registrados diferentes candidatos por un mismo partido político, el secretario ejecutivo del Consejo que corresponda, una vez detectada esta situación, requerirá al partido político, a efecto de que informe al citado Consejo, en un término de 48 horas, qué candidato o fórmula prevalecerá. En caso de no hacerlo se entenderá que el partido político opta por el último de los registros presentados, quedando sin efecto los demás.
 
-II. Con objeto de que la representación popular en el Poder Legislativo del Estado se de en condiciones de paridad, y en los ayuntamientos se de en condiciones de equidad de género, y de garantizar la igualdad de oportunidades entre mujeres y hombres para ser postulados como candidatos a diputados y regidores respectivamente por los partidos políticos y coaliciones, las solicitudes se ajustarán a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 8 DE MAYO DE 2017)</small>
+
+II. Con objeto de que la representación popular en el Poder Legislativo y en los Ayuntamientos del Estado se dé en condiciones de paridad y para garantizar la igualdad de oportunidades entre mujeres y hombres para ser postulados como candidatos a diputados y regidores de los ayuntamientos, por los partidos políticos y coaliciones, las solicitudes se ajustarán a lo siguiente:
 
 a) De la totalidad de solicitudes de registro de candidaturas a diputados por el principio de mayoría relativa que presenten los partidos políticos o las coaliciones, en ningún caso incluirán más del 50% de candidatos propietarios de un mismo género;
 
 b) El Consejo General del Instituto tendrá la facultad para rechazar el registro del número de candidaturas de un género que exceda la paridad, fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros;
 
-c) En las listas de candidatos a regidores de los ayuntamientos no podrá incluirse más del 70% de candidatos propietarios de un mismo género, y
+> <small>(REFORMADO, D.O. 8 DE MAYO DE 2017)</small>
+
+c) En las listas de candidatos a regidores de los ayuntamientos, los candidatos propietarios siempre se integrarán alternando los géneros hasta completar la lista, y
 
 d) Tratándose de fórmulas en que el candidato propietario sea del género femenino, los suplentes deberán ser del mismo género.
 
@@ -2763,7 +2771,9 @@ El Consejo General del Instituto remitirá al Ejecutivo para su publicación, a 
 
 Para la sustitución de candidatos, los partidos políticos y las coaliciones lo solicitarán por escrito al Consejo General del Instituto, observando las siguientes disposiciones:
 
-I. Dentro del plazo establecido para el registro de candidatos podrán sustituirse libremente;
+> <small>(REFORMADA, D.O. 8 DE MAYO DE 2017)</small>
+
+I. Dentro del plazo establecido para el registro de candidatos podrán sustituirse libremente, respetando el equilibrio paritario entre hombres y mujeres.
 
 II. Vencido el plazo a que se refiere la fracción anterior, exclusivamente podrán sustituirlos por causas de fallecimiento, inhabilitación, incapacidad o renuncia. Para la corrección o sustitución, en su caso, de las boletas electorales se estará a lo dispuesto en esta Ley, y
 
@@ -5350,3 +5360,15 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 8 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 470/2017 POR EL QUE SE MODIFICA LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES Y LA LEY DE PARTIDOS POLÍTICOS, AMBAS DEL ESTADO DE YUCATÁN, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+Primero. Entrada en vigor.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación tácita.
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
