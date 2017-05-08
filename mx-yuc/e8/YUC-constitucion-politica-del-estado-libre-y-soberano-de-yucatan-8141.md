@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2016-12-27"
+last_updated: "2017-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE MAYO DE 2017.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -329,7 +329,9 @@ Las elecciones del Gobernador, de los diputados y de los integrantes de los ayun
 
 Apartado A. De los Partidos Políticos y Agrupaciones Políticas.
 
-Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal, las formas específicas de su participación en el proceso electoral, los derechos, obligaciones y prerrogativas que les corresponden, así como las reglas para garantizar la paridad de género en la asignación de candidaturas a diputados.
+> <small>(REFORMADO, D.O. 8 DE MAYO DE 2017)</small>
+
+Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal, las formas específicas de su participación en el proceso electoral, los derechos, obligaciones y prerrogativas que les corresponden, así como las reglas para garantizar la paridad de género en la asignación de candidaturas a diputados y de candidaturas para ayuntamientos, en sus dimensiones horizontal y vertical.
 
 Son fines esenciales de los partidos políticos: promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política estatal y, como organizaciones de ciudadanos, hacer posible el acceso de estos al ejercicio del poder público; de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo.
 
@@ -4356,3 +4358,15 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Derogación tácita.
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 8 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 468/2017 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE IGUALDAD.”]
+
+Primero. Entrada en vigor.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Obligación normativa
+
+El Congreso del Estado de Yucatán deberá expedir las modificaciones necesarias a la legislación secundaria para armonizar las disposiciones de este decreto, a más tardar dentro de los setenta días naturales siguientes a su entrada en vigor.
