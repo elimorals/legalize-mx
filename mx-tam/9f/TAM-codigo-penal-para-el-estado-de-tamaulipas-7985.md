@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2017-05-04"
+last_updated: "2017-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE MAYO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -167,8 +167,6 @@ El cumplimiento de las leyes fiscales, no podrá eludirse por la simulación de 
 
 Este Código se aplicará por los delitos cometidos en el territorio del Estado de Tamaulipas, que sean de la competencia de sus Tribunales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 4o.
@@ -237,8 +235,6 @@ Este Código se aplicará a todas las personas sin distinción alguna, con las e
 
 Delito es la conducta típica, antijurídica y culpable, a la que se atribuye una o varias sanciones penales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ARTICULO 14 BIS.- La conducta penalmente relevante puede ser de acción u omisión en las que medie voluntad.
@@ -256,8 +252,6 @@ II.- La persona se encuentre en una efectiva y concreta posición de custodia de
 III.- Cuando la persona haya creado una ocasión de riesgo para el bien jurídicamente protegido por el particular tipo penal, mediante una acción u omisión precedente. La conducta de acción u omisión puede ser de contenido doloso o de contenido culposo.
 
 Las conductas dolosas o culposas solamente serán punibles en los casos expresamente determinados por la ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ADICIONADO, P.O. 26 DE JUNIO DE 2014)
 
@@ -291,13 +285,9 @@ III.- Subjetivos: Considerados como tales, aquellos aspectos que aluden al motiv
 
 a).- El dolo o la culpa según lo requiera el particular tipo penal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ARTICULO 14 QUATER.- Un hecho punible se considera antijurídico cuando el inculpado incumple un mandato o viola una prohibición y afecto o pone en peligro concreto un interés jurídicamente tutelado por la figura típica que corresponda, sin estar justificado para actuar de esa manera.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -309,13 +299,9 @@ La culpabilidad consiste en el juicio de reproche que formula la autoridad judic
 
 Atendiendo a la forma, el delito puede ser realizado por acción o por omisión.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 En los delitos de resultado material también será atribuible el resultado típico producido al que omita impedirlo, si éste tenía el deber jurídico de evitarlo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -343,23 +329,15 @@ II.- Donde se produjo o debió producirse el efecto.
 
 Atendiendo a la culpabilidad, los delitos pueden ser:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
 I.- Dolosos; o
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
 II.- Culposos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 III.- (DEROGADA, P.O. 26 DE JUNIO DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -372,8 +350,6 @@ También actúa dolosamente el que queriendo producir el resultado de afectació
 ###### ARTICULO 20.
 
 Es culposo cuando se realiza con imprevisión, negligencia, impericia, falta de reflexión o de cuidado; asimismo, cuando habiéndose previsto el resultado, se confía en que no sucederá.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -455,13 +431,9 @@ No se aplicará la pena correspondiente a la tentativa, cuando fuera absolutamen
 
 ## TITULO TERCERO. CAUSAS QUE EXCLUYEN EL DELITO Y LA RESPONSABILIDAD
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2014)</small>
 
 ### CAPITULO I. ATIPICIDAD
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -479,8 +451,6 @@ IV.- El error de tipo vencible que recaiga sobre algún elemento del tipo penal 
 
 V.- El error de tipo invencible.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ARTICULO 31 BIS.- No habrá conducta punible cuando:
@@ -489,13 +459,9 @@ I.- Se provoca un resultado de afectación o de puesta en peligro concreto por f
 
 II.- Algún integrante o representante de una persona jurídica colectiva, con excepción de las instituciones del Estado, facilite los medios para la comisión de un hecho punible, de modo que éste resulte cometido a su nombre, bajo su amparo o en beneficio de ella. En este supuesto, los tribunales, con la audiencia del representante legal de aquélla, solo aplicarán las medidas jurídicas previstas por la ley, sin perjuicio de la responsabilidad individual por el o los hechos delictivos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ARTICULO 31 TER.- (DEROGADO, P.O. 26 DE JUNIO DE 2014)
 
 ### CAPITULO II. CAUSAS DE JUSTIFICACION
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -528,8 +494,6 @@ V.- Contravenir lo dispuesto en una ley penal, dejando de hacer lo que manda, po
 ###### ARTICULO 33.
 
 No se justifica el hecho, ni se disminuye la sanción, cuando, por error o accidente, en el golpe o en la persona, se realice una conducta punible, por lo que será considerado de acuerdo con las circunstancias en que fue cometido.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -566,8 +530,6 @@ Tratándose de personas de entre doce años cumplidos y menos de dieciocho años
 Si el procesado sufre discapacidad intelectual durante el procedimiento, se estará a lo dispuesto por el Código Procesal Penal.
 
 ### CAPITULO IV. CAUSAS DE INCULPABILIDAD
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -983,8 +945,6 @@ Las medidas de vigilancia consistirán en la obligación de residir en determina
 
 ### CAPITULO I. LA INDIVIDUALIZACION
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 69.
@@ -1059,8 +1019,6 @@ Se perseguirán, a petición de parte ofendida, los delitos culposos de lesiones
 
 ### CAPITULO III. DELITOS PRETERINTENCIONALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTICULO 78.
 
 (DEROGADO, P.O. 26 DE JUNIO DE 2014)
@@ -1083,15 +1041,11 @@ A los responsables de tentativa punible se les aplicará prisión de la tercera 
 
 En caso de concurso real o material, se aplicará la pena prevista para el delito de mayor sanción, la que podrá sumarse, a juicio del juez, con las sanciones de los demás delitos, sin que exceda de cincuenta años.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 82.
 
 En los casos de concurso ideal o formal, se impondrán las sanciones correspondientes al delito que merezca la mayor penalidad, las cuales podrán aumentarse sin rebasar la mitad del máximo de la duración de las penas correspondientes de los delitos restantes, siempre que las sanciones aplicables sean de la misma naturaleza; cuando sean de diversa naturaleza, podrán imponerse las consecuencias jurídicas señaladas para los restantes delitos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -1745,31 +1699,21 @@ ARTICULO 142 BIS.- Cualquiera que sea la pena o medida de seguridad impuesta en 
 
 Si la ha cumplido, da derecho a él o a sus herederos en sus respectivos casos, a obtener la declaratoria de su inocencia y la reparación del daño en los términos del Artículo 92 Bis.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE JUNIO DE 2014)</small>
 
 ### CAPITULO VIII. EL CUMPLIMIENTO DE LA PENA O MEDIDAS DE SEGURIDAD
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ARTICULO 142 TER.- La pena y medida de seguridad se extinguen, con todos sus efectos, por cumplimiento de aquellas o de las sanciones por las que hubiesen sido sustituidas o conmutadas. Asimismo, la sanción que se hubiese suspendido se extinguirá por el cumplimiento de los requisitos establecidos al otorgarla, en los términos y dentro de los plazos legalmente aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE JUNIO DE 2014)</small>
 
 ### CAPITULO IX. SUPRESION DEL TIPO PENAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ARTICULO 142 QUATER.- La ley que suprime el tipo penal lo modifique, extingue en su caso, la acción penal o la sanción correspondiente, conforme lo que dispone este Código en el ámbito de validez temporal de la ley penal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -1781,13 +1725,9 @@ DE LAS FACULTADES DEL CONGRESO.
 
 ### CAPITULO X. EXISTENCIA DE UNA SENTENCIA ANTERIOR DICTADA EN PROCESO INSTAURADO POR LOS MISMOS HECHOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ARTICULO 142 QUINQUIES.- Nadie puede ser juzgado dos veces por el mismo delito, ya sea que en el juicio se le absuelva o se le condena. Cuando se hubiese dictado sentencia en un proceso y aparezca que existe otro en relación con la misma persona y por los mismos hechos considerados en aquél, concluirá el segundo proceso mediante resolución que dictará de oficio la autoridad que esté conociendo. Si existen dos sentencias sobre los mismos hechos, se extinguirán los efectos de la dictada en segundo término.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -1799,21 +1739,15 @@ ARTICULO 142 QUINQUIES.- Nadie puede ser juzgado dos veces por el mismo delito, 
 
 ### CAPITULO XI. CUMPLIMIENTO DEL CRITERIO DE OPORTUNIDAD O LA SOLUCION ALTERNA CORRESPONDIENTE
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ARTICULO 142 SEXIES.- En los asuntos tramitados conforme al sistema procesal penal acusatorio, el cumplimiento de los criterios de oportunidad o la solución alterna correspondiente extinguen la acción, con todos sus efectos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE JUNIO DE 2014)</small>
 
 #### SECCION PRIMERA. Disposiciones Generales
 
 ### CAPITULO XII. ANULACION DE LA SENTENCIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -3551,9 +3485,9 @@ Al responsable del delito de acoso sexual se le impondrá una pena de seis meses
 
 ARTICULO 276 QUINQUIES.- Si la persona que comete estos delitos fuere servidor público y utilizase los medios o circunstancias que su función le proporciona para ejecutar el hostigamiento o el acoso sexual, además se le sancionará con la destitución e inhabilitación de seis meses a dos años para desempeñar cualquier empleo, cargo o comisión públicos.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2017)</small>
 
-ARTICULO 276 SEXIES.- Si el sujeto pasivo del delito de hostigamiento sexual es menor de dieciocho años de edad o estuviere privado de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia a los actos que lo constituyen, se le impondrá al responsable, de tres a cinco años de prisión y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+ARTICULO 276 SEXIES.- Si el sujeto pasivo del delito de hostigamiento o acoso sexual es menor de dieciocho años de edad o estuviere privado de razón o sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia a los actos que lo constituyen, se le impondrá al responsable, de tres a cinco años de prisión y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 (REUBICADO, ANTES CAPÍTULO IV, P.O. 19 DE OCTUBRE DE 2010)
 
@@ -4717,6 +4651,8 @@ No se podrá proceder contra el responsable de los delitos de golpes y violencia
 
 ## TITULO DECIMO OCTAVO. DELITOS CONTRA LA SEGURIDAD EN EL GOCE DE GARANTIAS
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE ABRIL DE 2017)</small>
+
 ### CAPITULO III. FRAUDE
 
 ###### ARTICULO 388.
@@ -4740,8 +4676,6 @@ Se impondrá la sanción a que se refiere el artículo anterior:
 I.- Al que obligue a otro a prestarle trabajos o servicios personales sin la retribución debida, ya sea empleando violencia física o moral, o valiéndose del engaño, de la intimidación o de cualquier medio; y
 
 II.- Al que celebre con otro un contrato que prive a éste de la libertad, o le imponga condiciones que lo constituyan en una especie de servidumbre o se apodere de una persona y la entregue a otra con el objeto de que ésta celebre contrato.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE ABRIL DE 2017)</small>
 
 ### CAPITULO IV. USURA
 
@@ -5277,8 +5211,6 @@ VII.- El autor del delito de manera continuada obtenga dinero o bienes por conce
 
 ### CAPITULO I. DAÑO AL MEDIO AMBIENTE
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 427.
@@ -5333,8 +5265,6 @@ Cuando la ocupación se haya efectuado sin violencia y el o los ocupantes volunt
 
 ### CAPITULO II. DELITO DE INCENDIOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 433.
@@ -5366,8 +5296,6 @@ III.- El daño se cauce para evadir la persecución o desempeño de las fuerzas 
 Si además de los daños resulta consumado algún otro delito se observarán las reglas del concurso.
 
 ### CAPITULO III. CONTAMINACION DE AGUAS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -5438,8 +5366,6 @@ III.- Los que estén ligados con el acusado por respeto, gratitud, estrecha amis
 > <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
 
 ### CAPITULO VI. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -5565,13 +5491,9 @@ La pena de prisión impuesta se incrementará hasta en dos años, cuando las con
 
 Los responsables de los delitos contenidos en el presente Capítulo por haber acordado o preparado su realización en los términos de la fracción I del artículo 39 de éste Código, no podrán gozar del beneficio de la libertad provisional bajo caución.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
 ## TITULO VIGESIMO TERCERO. DELITOS CONTRA EL MEDIO AMBIENTE Y LOS RECURSOS NATURALES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -5609,25 +5531,17 @@ Al responsable del delito previsto en el artículo anterior, se le impondrá una
 
 Se impondrá una pena de nueve meses a nueve años de prisión y multa de seiscientas a veinte mil veces el valor diario de la Unidad de Medida y Actualización, y destitución e inhabilitación de cinco a diez años para desempeñar otro empleo, cargo o comisión públicos, al servidor público que:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 I. Autorice, efectúe, conceda, permita, ordene o expida licencias, permisos o autorizaciones para el funcionamiento de industrias o cualquier otra actividad reglamentada en condiciones que, a sabiendas al momento de la conducta, impliquen o generen afectación al medio ambiente, a los recursos naturales, a la salud de las personas o a los ecosistemas en general, en términos que no resulten compensables con las condicionantes que establezca para la aprobación de la licencia, permiso o autorización;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 II. Autorice, efectúe, conceda, permita, consienta u ordene la realización de obras o actividades que contravengan las disposiciones legales aplicables, o no cumplan con las mismas, que ocasionen o puedan ocasionar daños al medio ambiente, a los recursos naturales o a los ecosistemas; o
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 III. Con motivo de auditorías, visitas de verificación o inspección, previstas en la legislación aplicable al caso concreto, hubiere permitido irregularidades o transgresiones a los ordenamientos jurídicos aplicables en materia de desarrollo sustentable vigente en el Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -5653,13 +5567,9 @@ Al responsable de la comisión del delito de incendios, previsto en la fracción
 
 Al responsable de la comisión del delito de incendios previstos en las fracciones II a la IV del artículo anterior, se le impondrá una sanción de seis meses a cuatro años de prisión y multa de trescientas a cinco mil veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 Cuando se afecte un área igual o mayor a cinco hectáreas, o recursos forestales maderables en una cantidad igual o mayor a mil metros cúbicos rollo total árbol, las sanciones se elevarán hasta en una mitad más de la prevista para cada supuesto.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -5681,33 +5591,23 @@ Al responsable de la comisión del delito de contaminación de aguas previsto en
 
 Al responsable de la comisión del delito de contaminación de aguas previsto en la fracción III del artículo anterior, se le impondrá una sanción de seis meses a cinco años de prisión y multa de trescientas a cinco mil veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 466.
 
 Se le impondrá una sanción de seis meses a cinco años de prisión y multa de quinientas a dos mil veces el valor diario de la Unidad de Medida y Actualización, a quien sin haber obtenido el permiso o autorización correspondiente, extraiga suelo o cubierta vegetal por un volumen igual o mayor a cinco metros cúbicos, de:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 I. Un área natural protegida estatal o municipal, o área de valor ambiental de competencia del Estado, de conformidad con las disposiciones jurídicas aplicables;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 II. El suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico del territorio del Estado aplicables; o
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 III. Un área verde en suelo urbano.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -5765,15 +5665,11 @@ Son excluyentes de delito las lesiones o muerte del animal, que se causen con la
 
 Los delitos señalados en el presente Capítulo se perseguirán de oficio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 472.
 
 El Ministerio Público tan pronto tenga conocimiento de la comisión de algún delito previsto en el presente Título, inmediatamente dará vista a la autoridad ambiental estatal, a fin de determinar el daño ambiental causado y las acciones de su competencia, para evitar la propagación de daños y la mitigación del mismo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -5781,15 +5677,11 @@ El Ministerio Público tan pronto tenga conocimiento de la comisión de algún d
 
 La autoridad ambiental proporcionará, en las materias de su competencia, los dictámenes técnicos o periciales que le solicite el Ministerio Público o las autoridades judiciales, con motivo de las denuncias presentadas por delitos en contra del medio ambiente y los recursos naturales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 474.
 
 Cuando una o más de las conductas descritas en el presente Capítulo resulte cometida a nombre, bajo el amparo o en beneficio de una persona, a ésta se le impondrá la consecuencia jurídica accesoria consistente en la prohibición de realizar determinados negocios u operaciones hasta por cinco años, independientemente de su responsabilidad penal en los hechos ejecutados por las personas físicas en la comisión del delito.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -6476,6 +6368,14 @@ P.O. 21 DE ABRIL DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-158 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 276 SEXIES, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO OCTAVO.
 
