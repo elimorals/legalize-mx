@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2016-05-02"
+last_updated: "2017-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE MAYO DE 2017.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -1479,11 +1479,9 @@ III.- Realizar estudios de evaluación de los suelos para lograr su aprovechamie
 
 IV.- Conducir y evaluar las acciones para elevar el nivel de vida de los productores del sector y sus familias, en coordinación con las instituciones educativas, de investigación, organismos públicos y privados;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, D.O. 8 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
-
-V.- Dirigir, dar seguimiento y controlar la ejecución de los programas de fomento y promoción del desarrollo agropecuario, forestal y agroindustrial, así como promover la creación de empleos en el medio rural y el incremento de la productividad y la rentabilidad de las actividades económicas del campo;
+V.- Dirigir, dar seguimiento y controlar la ejecución de los programas de fomento y promoción del desarrollo agropecuario y agroindustrial, así como promover la creación de empleos en el medio rural y el incremento de la productividad y la rentabilidad de las actividades económicas del campo;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3166,3 +3164,23 @@ Se salvaguardan los derechos laborales de los servidores públicos y empleados d
 Cuarto. Derogación tácita
 
 Se derogan las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
+
+D.O. 8 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 466/2017 POR EL QUE SE EXPIDE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE YUCATÁN Y SE MODIFICA EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de octubre de 2017, previa publicación en el diario oficial del estado.
+
+Segundo. Abrogación de decreto
+
+Se abroga el Decreto 96/2008 por el que se crea el Consejo Forestal del Estado de Yucatán, publicado en el diario oficial del estado el 14 de julio de 2008.
+
+Tercero. Instalación del consejo estatal
+
+El Consejo Forestal del Estado de Yucatán deberá instalarse dentro de un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor de este decreto.
+
+Cuarto. Expedición del reglamento interno
+
+El Consejo Forestal del Estado de Yucatán deberá expedir su reglamento interno dentro de un plazo de noventa días naturales contados a partir de su instalación.
