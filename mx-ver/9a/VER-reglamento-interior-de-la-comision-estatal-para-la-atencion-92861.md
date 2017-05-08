@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-comision-estatal-para-la-atencion-928
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-14"
-last_updated: "2017-03-07"
+last_updated: "2017-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "VER"
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS DEL ESTADO DE VERACRUZ
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE MARZO DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 8 DE MAYO DE 2017.]</small>
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 14 de febrero de 2013.
 
@@ -241,9 +243,19 @@ b) La Dirección Jurídica;
 
 c) La Unidad Administrativa;
 
-d) La Unidad de Transparencia; y
+> <small>[N. DE E. DEL ANÁLISIS AL ACUERDO CEAPP/PLENO/SO-10/09/07/2017, PUBLICADO EN LA G.O DE 8 DE MAYO DE 2017, SE ADVIERTE QUE ESTE INCISO ES IDÉNTICO AL INCISO C) DEL PRESENTE ARTÍCULO]</small>
 
-e) Unidad de Género.
+> <small>(F. DE E., G.O. 8 DE MAYO DE 2017)</small>
+
+d) La Unidad Administrativa
+
+> <small>(F. DE E., G.O. 8 DE MAYO DE 2017)</small>
+
+e) La Unidad de Acceso a la Información Pública y,
+
+> <small>(F. DE E., G.O. 8 DE MAYO DE 2017)</small>
+
+f) La Unidad de Género
 
 II. El Órgano de Control Interno, que dependerá directamente del Pleno de la Comisión.
 
@@ -509,9 +521,9 @@ X. Las demás que le encomiende el Pleno.
 
 Las funciones de los departamentos y oficinas que integran la Unidad Administrativa se fijarán mediante manuales de operación y conforme a los requerimientos del servicio.
 
-(REUBICADO [N. DE E. ANTES CAPÍTULO VII], G.O. 7 DE MARZO DE 2017)
+(REUBICADO [N. DE E. ANTES CAPÍTULO VII], G.O. 7 DE MARZO DE 2017) (F. DE E., G.O. 8 DE MAYO DE 2017)
 
-### CAPÍTULO VI. DE LA DIRECCIÓN JURÍDICA
+### CAPÍTULO VII (SIC). DE LA DIRECCIÓN JURÍDICA
 
 > <small>(REFORMADO, G.O. 7 DE MARZO DE 2017)</small>
 
@@ -543,25 +555,25 @@ XI. Proporcionar reportes semanales de sus principales actividades al Departamen
 
 XII. Las demás que por mayoría de razón se deriven de las funciones previamente enumeradas o en su defecto, mediante poder firmado por el Secretario Ejecutivo o los titulares de las áreas y departamentos de la Comisión.
 
-(REUBICADO [N. DE E. ANTES CAPÍTULO VIII], P.O. 7 DE MARZO DE 2017)
+> <small>(F. DE E., G.O. 8 DE MAYO DE 2017)</small>
 
 ###### Artículo 26 Bis.
 
 La Unidad de Género de la Comisión Estatal para la Atención y protección de los Periodistas, será la responsable de la coordinación y difusión de la materia en igualdad de Género al interior de la misma, a través de políticas que hagan prevalecer el respeto a los Derechos Humanos y su integridad como persona de cada uno de sus integrantes en esta Comisión Estatal.
 
-> <small>(ADICIONADO, G.O. 24 DE NOVIEMBRE DE 2016)</small>
+> <small>(F. DE E., G.O. 8 DE MAYO DE 2017)</small>
 
 ###### Artículo 26 Ter.
 
 La Unidad de Género de la Comisión Estatal para la Atención y Protección de los Periodistas estará a cargo de Dirección Jurídica.
 
-> <small>(ADICIONADO, G.O. 24 DE NOVIEMBRE DE 2016)</small>
+> <small>(F. DE E., G.O. 8 DE MAYO DE 2017)</small>
 
 ###### Artículo 26 Quater.
 
 Las funciones y actuación de la Unidad de Género de la Comisión Estatal para la Atención y Protección de los Periodistas, serán especificadas mediante los Lineamientos Generales de la misma.
 
-> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2014)</small>
+(REUBICADO [N. DE E. ANTES CAPÍTULO VIII], P.O. 7 DE MARZO DE 2017)
 
 ### CAPÍTULO VII. DE LA CONTRALORÍA
 
