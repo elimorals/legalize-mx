@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-deuda-publica-del-estado-de-aguascalientes-11767"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-10"
-last_updated: "2015-08-03"
+last_updated: "2017-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE DEUDA PÚBLICA Y DISCIPLINA FINANCIERA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 8 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DEUDA PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 10 de noviembre de 1996.
 
@@ -47,7 +49,7 @@ LEY DE DEUDA PUBLICA DEL ESTADO DE AGUASCALIENTES
 
 Esta Ley es reglamentaria de la Fracción IV del Artículo 27, en relación con la Fracción VIII del Artículo 46, ambos de la Constitución Política del Estado de Aguascalientes, y tiene por objeto establecer las bases y requisitos para la contratación, regulación y control de financiamientos y empréstitos que constituyan la Deuda Pública del Estado de Aguascalientes, así como el control e inscripción, de los pagos plurianuales por las obligaciones contraídas en los Proyectos de Prestación de Servicios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2003)</small>
 
 ###### Artículo 2o.
 
@@ -647,7 +649,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jesús Orozco Castellanos.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 13 DE OCTUBRE DE 2003.
 
@@ -708,3 +710,19 @@ P.O. 3 DE AGOSTO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 80.- LEY DE DEUDA PÚBLICA Y DISCIPLINA FINANCIERA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Deuda Pública del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado el 10 de noviembre de 1996.
+
+###### ARTÍCULO TERCERO.
+
+Toda referencia realizada en cualquier ordenamiento a la Ley de Deuda Pública del Estado de Aguascalientes, se entenderá hecha a la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios.
