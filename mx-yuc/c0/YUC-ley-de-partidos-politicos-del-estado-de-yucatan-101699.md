@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-partidos-politicos-del-estado-de-yucatan-101699"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-28"
-last_updated: "2016-12-28"
+last_updated: "2017-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE MAYO DE 2017.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 28 de junio de 2014.
 
@@ -77,9 +77,11 @@ II. Afiliarse libre e individualmente a los partidos políticos, y
 
 III. Votar y ser votado para todos los cargos de elección popular dentro de los procesos internos de selección de candidatos y elección de dirigentes, así como ser nombrado para cualquier otro empleo o comisión, teniendo las calidades que establezca la ley y los estatutos de cada partido político.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 8 DE MAYO DE 2017)</small>
+
 ###### Artículo 3.
 
-Los partidos políticos son entidades de interés público con personalidad jurídica y patrimonio propio, con registro legal ante el Instituto Nacional Electoral o ante el Instituto, según corresponda, y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público.
+Los partidos políticos son entidades de interés público con personalidad jurídica y patrimonio propios, con registro legal ante el Instituto Nacional Electoral o ante los Organismos Públicos Locales, y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, procurando la participación igualitaria de mujeres y hombres en la postulación de candidaturas.
 
 Los partidos políticos tienen personalidad jurídica, gozan de los derechos y las prerrogativas y quedan sujetos a las obligaciones y, en su caso, a las sanciones que establecen la Constitución Federal, la Constitución y la Ley de Instituciones.
 
@@ -93,7 +95,9 @@ III. Cualquier forma de afiliación corporativa.
 
 Los partidos políticos promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes. En la integración de sus órganos internos, buscarán la participación efectiva de ambos géneros.
 
-Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a diputados locales. Éstos deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
+> <small>(REFORMADO, D.O. 8 DE MAYO DE 2017)</small>
+
+Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a legisladores locales y a regidores. Éstos deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
 
 En ningún caso, se admitirán criterios que tengan como resultado que alguno de los géneros le sean asignados exclusivamente aquellos distritos electorales locales en los que el partido político haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
@@ -451,7 +455,21 @@ XXII. Cumplir con las obligaciones que la legislación en materia de transparenc
 
 XXIII. Tratándose de los partidos políticos, contar con centros de formación y estudios socio políticos, y
 
-XXIV. Las demás que establezca esta Ley y las aplicables a la materia.
+> <small>(REFORMADA, D.O. 8 DE MAYO DE 2017)</small>
+
+XXIV. Garantizar la paridad entre los géneros en candidaturas a legisladores locales, así como a los integrantes de planillas de ayuntamientos;
+
+> <small>(ADICIONADA, D.O. 8 DE MAYO DE 2017)</small>
+
+XXV. Diseñar y poner en práctica programas para institucionalizar la perspectiva de género en el partido;
+
+> <small>(ADICIONADA, D.O. 8 DE MAYO DE 2017)</small>
+
+XXVI. Garantizar a las militantes que contiendan o ejerzan un cargo de elección popular, el no ejercicio de la violencia política contra ellas; así como sancionar a quienes lo ejerzan, y
+
+> <small>(ADICIONADA, D.O. 8 DE MAYO DE 2017)</small>
+
+XXVII. Las demás que establezca esta Ley y las aplicables a la materia.
 
 ###### Artículo 26.
 
@@ -559,7 +577,9 @@ I. La elaboración y modificación de sus documentos básicos, los cuales en nin
 
 II. La determinación de los requisitos y mecanismos para la libre y voluntaria afiliación de los ciudadanos a éstos;
 
-III. La elección de los integrantes de sus órganos internos;
+> <small>(REFORMADA, D.O. 8 DE MAYO DE 2017)</small>
+
+III. La elección de los integrantes de sus órganos internos, debiendo considerar la participación de ambos géneros;
 
 IV. Los procedimientos y requisitos para la selección de sus precandidatos y candidatos a cargos de elección popular;
 
@@ -1584,3 +1604,15 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 8 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 470/2017 POR EL QUE SE MODIFICA LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES Y LA LEY DE PARTIDOS POLÍTICOS, AMBAS DEL ESTADO DE YUCATÁN, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación tácita.
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
