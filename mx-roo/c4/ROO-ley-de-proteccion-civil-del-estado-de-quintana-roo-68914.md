@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-civil-del-estado-de-quintana-roo-68914"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-01"
-last_updated: "2013-04-30"
+last_updated: "2017-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2017.
 
 Ley Publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 1 de junio del 2009.
 
@@ -187,7 +187,9 @@ XXV.- Simulacro: Ejercicio para la toma de decisiones y adiestramiento en protec
 
 XXVI.- Siniestro: Hecho funesto, daño grave, destrucción fortuita o pérdida importante que sufren los seres humanos en su persona o en sus bienes, causados por la presencia de una calamidad;
 
-XXVII.- Sistema: El Sistema Estatal de Protección Civil, conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos, procedimientos y programas, que establecen y conciertan los Gobiernos del Estado y de los Municipios con las autoridades federales y las organizaciones de los diversos grupos sociales y privados a fin de efectuar acciones corresponsables en cuanto a la prevención, mitigación, preparación, auxilio, restablecimiento, rehabilitación y reconstrucción en caso de riesgo, emergencia, siniestro o desastre;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
+
+XXVII.- Sistema: El Sistema Estatal de Protección Civil, como conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos, normas, instancias, principios, instrumentos, políticas, procedimientos, servicios y acciones, que establecen y conciertan los Gobiernos del Estado y de los Municipios con los Poderes Legislativo y Judicial del Estado, las autoridades federales y las organizaciones de los diversos grupos voluntarios, sociales y privados y los organismos autónomos a fin de efectuar acciones corresponsables en cuanto a la prevención, mitigación, preparación, auxilio, restablecimiento, rehabilitación y reconstrucción en caso de riesgo, emergencia, siniestro o desastre;
 
 XXVIII.- Sistema de Vigilancia Ambiental: Es el conjunto de acciones de Observación y Monitoreo, de Procesamiento de datos y Comunicaciones que permite evaluar, en cada instante y de manera continua, el estado del sistema tierra-atmósfera-océano, determinando las anomalías que podrían originar estados de alerta, en la región o regiones donde las proyecciones de los eventos provean indicios de riesgos futuros. La operación de este sistema provee la herramienta necesaria para definir las medidas previas a la adopción de la fase de prevención o alerta temprana y, también, evaluar la aplicación posible del Principio Precautorio;
 
@@ -201,9 +203,11 @@ Así como las demás definiciones que prevé el artículo 2° de la Ley General 
 
 ### CAPÍTULO PRIMERO. Del Sistema Estatal de Protección Civil
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 10.
 
-El Sistema Estatal de Protección Civil, como parte integrante del Sistema Nacional, es el mecanismo de enlace entre la Administración Pública del Estado de Quintana Roo y de los Ayuntamientos de la entidad. Su objeto es la conjunción de esfuerzos, instancias, instrumentos, políticas públicas, servicios y acciones institucionales destinadas a la prevención, detección, mitigación, protección, cooperación, coordinación, comunicación, restauración y atención de las situaciones generadas por el impacto de siniestros o fenómenos destructivos en la población, sus bienes y entorno en su ámbito territorial.
+El Sistema Estatal de Protección Civil, como parte integrante del Sistema Nacional, es el mecanismo de enlace entre la Administración Pública del Estado de Quintana Roo, los Poderes Judicial y legislativo del Estado y de los municipios de la entidad, así como de los diversos grupos voluntarios, sociales y privados, los organismos autónomos y autoridades federales. Su objeto es la conjunción de esfuerzos, instancias, instrumentos, políticas públicas, servicios y acciones institucionales destinadas a la prevención, detección, mitigación, protección, cooperación, coordinación, comunicación, restauración y atención de las situaciones generadas por el impacto de siniestros o fenómenos destructivos en la población, sus bienes y entorno en su ámbito territorial.
 
 ###### ARTÍCULO 11.
 
@@ -679,9 +683,13 @@ IX.- Difundir los programas y acciones federales, estatales y locales de protecc
 
 X.- Informar a la Secretaría del Trabajo y Previsión Social en el Estado, cuando en el ejercicio de sus funciones de inspección en centros de trabajo, tenga conocimiento de hechos u omisiones que puedan constituir infracciones a la normatividad en materia de seguridad e higiene; y,
 
-> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
 
-XI.- Las demás que les confiera el Sistema Nacional de Protección Civil, el Sistema Estatal de Protección Civil, esta Ley y otros ordenamientos aplicables.
+XI.- fortalecer la atención de emergencias impulsando el equipamiento y profesionalización de los cuerpos de bomberos;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+
+XII. Las demás que les confiera el Sistema Nacional de Protección Civil, el Sistema Estatal de Protección Civil, esta Ley y otros ordenamientos aplicables.
 
 ### CAPÍTULO SÉPTIMO. De los Sistemas y Consejos Municipales de Protección Civil
 
@@ -708,6 +716,20 @@ Los Consejos Municipales son órganos de consulta y de coordinación de los gobi
 ###### ARTÍCULO 40.
 
 Los Sistemas Municipales de Protección Civil son parte del Sistema Estatal de la materia; sus respectivas estructuras serán determinadas tomando en consideración la densidad de población y la extensión del territorio del Municipio a que correspondan, la disponibilidad de los recursos humanos, materiales y financieros con que cada Ayuntamiento cuente, así como las necesidades operacionales que la propia estructura de los Sistemas Municipales y su inserción en el Sistema Estatal imponen, en términos de compatibilidad, en los aspectos de comunicación, suministro y envío-recepción de información y coordinación de acciones.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+
+Los Cuerpos de Bomberos de los Municipios serán integrantes de la estructura de los Sistemas Municipales de Protección Civil que correspondan, formando parte del Sistema Estatal de protección Civil.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+
+ARTÍCULO 40 BIS.- Los Ayuntamientos tendrán a su cargo la prestación del servicio de bomberos, a través de los Cuerpos de Bomberos respectivos.
+
+El servicio de bomberos podrá ser prestado directamente por el Ayuntamiento, como una de sus dependencias, como entidades de la administración pública paramunicipal, o bien, a través de organizaciones o grupos de los sectores social o privado, previa la celebración de los convenios que, para tal efecto, se formalicen.
+
+El servicio de bomberos deberá prestarse con base en los objetivos, estrategias y prioridades establecidas en los programas municipales que correspondan.
+
+La integración, organización, funciones, jerarquías, insignias, uniformes, requisitos de ingreso, obligaciones y derechos de los integrantes de los cuerpos de bomberos se regulará en los reglamentos municipales correspondientes.
 
 ###### ARTÍCULO 41.
 
@@ -1696,3 +1718,13 @@ CUARTO.- Los recursos humanos, financieros y materiales que en razón del Decret
 P.O. 30 DE ABRIL DE 2013.
 
 Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 8 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 052 POR EL QUE SE REFORMAN LA FRACCIÓN XXVII DEL ARTÍCULO 9, EL ARTICULO 10 Y LA FRACCIÓN XI DEL ARTÍCULO 37; Y SE ADICIONAN LA FRACCIÓN XII AL ARTÍCULO 37, UN SEGUNDO PÁRRAFO AL ARTÍCULO 40 Y EL ARTÍCULO 40 BIS TODOS DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+TERCERO. Los Ayuntamientos dentro del término de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto deberán expedir su reglamento municipal para regular la organización y funcionamiento de los cuerpos de bomberos de conformidad al artículo 40 BIS del presente Decreto o en su caso adecuar sus reglamentos municipales vigentes en (sic) materia.
