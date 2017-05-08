@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2016-06-06"
+last_updated: "2017-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2017.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -629,13 +631,17 @@ En el Supremo Tribunal de Justicia el turno lo llevarán los presidentes de Sala
 
 #### SECCIÓN PRIMERA. Disposiciones Generales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
 ARTÍCULO 33 A.- En términos de lo que establece el (sic) 51 de la Constitución Política del Estado, la Sala Administrativa es la máxima autoridad jurisdiccional en la materia contencioso administrativa, y órgano permanente especializado, autónomo e independiente en sus decisiones y resoluciones, las cuales se sujetarán de manera invariable a los principios de legalidad y definitividad; rigiéndose por lo dispuesto en la propia Constitución, esta Ley, la Ley del Procedimiento Contencioso Administrativo, el Reglamento Interior que en uso de sus facultades expida y otros ordenamientos aplicables.
 
 La Sala Administrativa tiene a su cargo dirimir las controversias de carácter administrativo y fiscal, que se susciten entre las autoridades del Estado, de los Municipios, sus Organismos Descentralizados y otras personas, en funciones de autoridad, con los particulares. Se reputarán como otras personas, a los prestadores de servicios públicos considerados como áreas estratégicas, que sean concesionados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MAYO DE 2017)</small>
+
+Además, la Sala Administrativa ejercerá las facultades que en materia de combate a la Corrupción establecen la Constitución Política del Estado de Aguascalientes y la normatividad en materia de responsabilidades administrativas de los Servidores Públicos.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 8 DE MAYO DE 2017)</small>
 
 Contará con la organización y atribuciones que esta Ley establece, y estará dotada de plena jurisdicción y del imperio suficiente para hacer cumplir sus determinaciones.
 
@@ -691,8 +697,6 @@ IV.- Estar en pleno goce de sus derechos civiles y políticos.
 
 #### SECCIÓN TERCERA. De las Atribuciones de la Sala Administrativa
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2015)</small>
 
 ARTÍCULO 33 F.- La Sala Administrativa, conocerá de los juicios que se inicien contra:
@@ -723,23 +727,21 @@ d).- Que el procedimiento coactivo no se ajustó a la Ley. En este último caso,
 
 V.- La negativa de una autoridad para ordenar la devolución de cantidades pagadas indebidamente;
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
 
-VI.- Las resoluciones definitivas que constituyan créditos fiscales, por responsabilidades de los servidores públicos del Estado, de los ayuntamientos y sus organismos descentralizados; y
+VI.- Las resoluciones definitivas que constituyan créditos fiscales, por responsabilidades de los servidores públicos del Estado, de los ayuntamientos y sus organismos descentralizados;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
+VII.- De los procedimientos de Responsabilidad Administrativa, en los términos que al efecto establece la normatividad aplicable;
 
-VII.- Las resoluciones dictadas conforme a las leyes, que le otorgue competencia a la Sala Administrativa.
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE MAYO DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VIII.- Las resoluciones dictadas conforme a las leyes, que le otorgue competencia a la Sala Administrativa.
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
 Para los efectos de las dos primeras fracciones de este artículo, las resoluciones se considerarán definitivas cuando no admitan recurso administrativo o cuando previéndolo, el afectado opte por no agotarlo y acuda directamente a la Sala Administrativa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
@@ -2520,3 +2522,39 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos penales iniciados con antelación al inicio de vigencia de este Decreto, se regirán por las disposiciones vigentes al momento de su inicio.
+
+P.O. 8 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 79.- LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado deberá expedir las leyes y realizar las adecuaciones normativas correspondientes, de conformidad con lo previsto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado deberá designar a los primeros integrantes de la Comisión de Selección.
+
+La Comisión de Selección nombrará a los integrantes del Comité de Participación Ciudadana, en los términos siguientes:
+
+a. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador.
+
+b. Un integrante que durará en su encargo dos años.
+
+c. Un integrante que durará en su encargo tres años.
+
+d. Un integrante que durará en su encargo cuatro años.
+
+e. Un integrante que durará en su encargo cinco años.
+
+Los integrantes del Comité de Participación Ciudadana a que se refieren los incisos anteriores se rotarán la representación ante el Comité Coordinador en el mismo orden.
+
+La sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción, se llevará a cabo dentro del plazo de quince días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana en los términos de los párrafos anteriores.
+
+La Secretaría Ejecutiva deberá iniciar sus operaciones, a más tardar a los treinta días naturales siguientes a la sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción.
+
+Para tal efecto, el Ejecutivo Estatal y el Congreso del Estado proveerán los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
