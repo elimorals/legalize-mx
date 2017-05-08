@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2016-11-07"
+last_updated: "2017-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1745,6 +1745,56 @@ Al responsable de la comisión de la presente figura típica se le aplicarán de
 
 ### CAPÍTULO X. Tipos Penales Protectores de la Administración Pública
 
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+
+ARTÍCULO 163 A.- Para los efectos de este Código, es servidor público toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, organismos públicos descentralizados, empresas de participación estatal mayoritaria, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos, empresas productivas del Estado, en los órganos autónomos constitucionales, en el Congreso del Estado, o en el Poder Judicial del Estado, o que manejen recursos económicos públicos. Las disposiciones contenidas en el presente Capítulo, son aplicables al Gobernador del Estado, a los Diputados y a los Magistrados del Supremo Tribunal de Justicia del Estado, por la comisión de los delitos previstos en este Capítulo, en materia estatal.
+
+Se impondrán las mismas sanciones previstas para el delito de que se trate a cualquier persona que participe en la perpetración de alguno de los delitos previstos en este Capítulo
+
+De manera adicional a dichas sanciones, se impondrá a los responsables de su comisión, la pena de destitución y la inhabilitación para desempeñar empleo, cargo o comisión públicos, así como para participar en adquisiciones, arrendamientos, servicios u obras públicas, concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado por un plazo de uno a veinte años, atendiendo a los siguientes criterios:
+
+I. Será por un plazo de uno hasta diez años cuando no exista daño o perjuicio o cuando el monto de la afectación o beneficio obtenido por la comisión del delito no exceda de doscientas veces el valor diario de la Unidad de Medida y Actualización; y
+
+II. Será por un plazo de diez a veinte años si dicho monto excede el límite señalado en la fracción anterior.
+
+Para efectos de lo anterior, el juez deberá considerar, en caso de que el responsable tenga el carácter de servidor público, además de lo previsto en el artículo 163 Ter de este Código, los elementos del empleo, cargo o comisión que desempeñaba cuando incurrió en el delito.
+
+Cuando el responsable tenga el carácter de particular, el juez deberá imponer la sanción de inhabilitación para desempeñar un cargo público, así como para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, considerando, en su caso, lo siguiente:
+
+I. Los daños y perjuicios patrimoniales causados por los actos u omisiones;
+
+II. Las circunstancias socioeconómicas del responsable;
+
+III. Las condiciones exteriores y los medios de ejecución; y
+
+IV. El monto del beneficio que haya obtenido el responsable.
+
+Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
+
+Cuando los delitos a que se refieren los artículos 169, 173, 174, 175 y 176 Bis del presente Código sean cometidos por servidores públicos electos popularmente o cuyo nombramiento este sujeto a ratificación del Congreso del Estado, las penas previstas serán aumentadas hasta en un tercio.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+
+ARTÍCULO 163 B.- Para la individualización de las sanciones previstas en este Capítulo, el juez tomará en cuenta lo siguiente:
+
+I. El nivel jerárquico del servidor público y el grado de responsabilidad del encargo;
+
+II. La antigüedad en el empleo;
+
+III. Las percepciones del servidor público;
+
+IV. El grado de instrucción;
+
+V. La necesidad de reparar los daños y perjuicios causados por la conducta ilícita; y
+
+VI. Las circunstancias especiales de los hechos constitutivos del delito.
+
+Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+
+ARTÍCULO 163 C.- Cuando los delitos a que se refieren los artículos 169, 170 y 173 del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca las penas previstas serán aumentadas hasta en una mitad.
+
 ###### ARTÍCULO 160.
 
 Falsificación y uso indebido de sellos, marcas, llaves, contraseñas y otros objetos. La Falsificación y Uso Indebido de Sellos, Marcas, Llaves, Contraseñas y Otros Objetos consiste en la suplantación, alteración, enajenación, destrucción u ocultamiento de cualquier clase de sellos, marcas, llaves, boletos, contraseñas, troqueles o cuños oficiales o particulares o uso no autorizado de los mismos, con el fin manifiesto de obtener un beneficio indebido o para causar un daño.
@@ -1819,9 +1869,17 @@ I. Rehusar, sin justa causa, prestar un servicio de interés público a que la l
 
 II. Desobedecer un mandato legítimo de la autoridad;
 
-III. No comparecer ante autoridad cuando legalmente se lo exija, para declarar o rendir los informes que le pidan, previo agotamiento de los medios de apremio existentes para cada caso.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
 
-Al responsable de Desobediencia de Particulares se le aplicarán de 3 meses a 2 años de prisión y de 20 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+III. No comparecer ante autoridad cuando legalmente se lo exija, para declarar o rendir los informes que le pidan, previo agotamiento de los medios de apremio existentes para cada caso; o
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+
+IV. Generar y utilizar información falsa o alterada, respecto de los rendimientos o beneficios que obtenga, y cuando estando legalmente obligado a entregar a una autoridad información sobre los rendimientos o beneficios que obtenga, la oculte, siempre que tenga el carácter de contratista, permisionario, asignatario, titular de una concesión de prestación de un servicio público de explotación, aprovechamiento o uso de bienes del dominio del Estado, con la finalidad de obtener un beneficio para sí o para un tercero.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2017)</small>
+
+Al responsable de Desobediencia de Particulares se le aplicarán de 3 meses a 9 años de prisión y de 30 a 100 días multa.
 
 ###### ARTÍCULO 167.
 
@@ -1861,7 +1919,9 @@ IV. Sustraer, destruir, ocultar, utilizar o inutilizar ilícitamente informació
 
 V. Otorgar empleo, cargo o comisión pública o contrato de prestación de servicios profesionales, que sean remunerados, sabiendo que no se prestará el servicio para el que se les nombra, o no se cumplirán los términos del contrato celebrado;
 
-VI. Autorizar o contratar a quien se encuentre inhabilitado por resolución judicial para desempeñar un empleo, cargo o comisión en el servicio público, y con conocimiento de tal situación;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
+
+VI. Autorizar o contratar a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, o para participar en adquisiciones, arrendamientos, servicios u obras públicas, siempre que tenga conocimiento de tal situación;
 
 VII. Otorgar indebidamente, por sí o por interpósita persona:
 
@@ -1895,7 +1955,9 @@ XVII. Ordenar la aprehensión de un individuo cuando no se comprueben plenamente
 
 XVIII. No otorgar, cuando se solicite, la libertad caucional, si procede legalmente, sin fundar y motivar adecuadamente su negativa;
 
-XIX. Obligar a un inculpado a declarar en su contra, usando la incomunicación o cualquier otro medio ilícito;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
+
+XIX. Obligar a un inculpado a declarar, usando la incomunicación, la intimidación, la tortura o tratos crueles, inhumanos o degradantes; así como utilizar violencia física o moral que inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por este Código o por la Ley de Responsabilidades de los Servidores Públicos del Estado;
 
 XX. Prolongar la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motive el procedimiento;
 
@@ -1903,7 +1965,9 @@ XXI. Imponer gabelas o contribuciones en cualquier lugar de detención e interna
 
 XXII. Demorar injustificadamente el cumplimiento de las providencias judiciales, en las que se ordene poner en libertad a un detenido;
 
-XXIII. No dictar auto de formal prisión o de libertad de un detenido, dentro de las setenta y dos horas siguientes a las que haya sido puesto a disposición de la autoridad judicial;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
+
+XXIII. No dictar auto de vinculación a proceso o de libertad de un detenido, dentro de las setenta y dos horas siguientes a las que haya sido puesto a disposición de la autoridad judicial;
 
 XXIV. Ordenar o practicar cateos o visitas domiciliarias fuera de los casos autorizados por la ley;
 
@@ -1927,11 +1991,37 @@ XXXIII. Utilizar o haber utilizado, la fuerza o los medios a su disposición o b
 
 XXXIV. Comunicar a cualquier persona a quien se le impute un delito, información de la que tenga o haya tenido acceso por su empleo, cargo o comisión y que hubiere podido facilitarle la realización de dicho ilícito;
 
-XXXV. Inducir a uno o más elementos activos de las instituciones policiales o servidores públicos de una institución de procuración o de administración de justicia o de ejecución de sanciones, a participar en actividades ilícitas; o
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
 
-XXXVI. Poner fuera del procedimiento legal y sin tener facultades para ello, en libertad a un detenido.
+XXXV. Inducir a uno o más elementos activos de las instituciones policiales o servidores públicos de una institución de procuración o de administración de justicia o de ejecución de sanciones, a participar en actividades ilícitas;
 
-Al responsable de Ejercicio Indebido de Servicio Público, se le aplicarán de 2 a 6 años de prisión, de 50 a 100 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y la destitución e inhabilitación de 1 a 4 años para desempeñar otro empleo, cargo o comisión públicos.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
+
+XXXVI. Poner fuera del procedimiento legal y sin tener facultades para ello, en libertad a un detenido;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+
+XXXVII. Abstenerse de informar por escrito a su superior jerárquico cualquier acto u omisión que sea de su conocimiento por razón de su empleo, cargo o comisión cuando pueda resultar gravemente afectados (sic) el patrimonio o los intereses de alguna dependencia o entidad de la Administración Pública Estatal, del Congreso del Estado o del Poder Judicial del Estado;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+
+XXXVIII. Aplicar los recursos públicos de manera distinta a aquella a la que estuvieren destinados o realizar un pago ilegal, cuando tenga a su cargo dichos recursos; o
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+
+XXXIX. Otorgar por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o efectúe compras o ventas o realice cualquier acto jurídico que produzca beneficios económicos al propio servidor público, a su cónyuge, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2017)</small>
+
+Al responsable de Ejercicio Indebido de Servicio Público, se le impondrá de 3 meses a 12 años de prisión, y de 30 a 100 días multa, cuando el delito no importe alguna cuantía.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+
+Cuando los delitos importen una cuantía que no exceda del equivalente a 500 veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de 3 meses a 2 años de prisión y de 30 a 100 días multa.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+
+Cuando la cuantía exceda de 500 veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de 2 años a 12 años de prisión y de 100 a 150 días multa.
 
 ###### ARTÍCULO 170.
 
@@ -1951,15 +2041,23 @@ VI. Recibir, sin los requisitos constitucionales y legales, el encargado de cual
 
 VII. No denunciar de manera inmediata a la autoridad competente de una privación ilegal de libertad o no la haga cesar, si esto último estuviere dentro de sus atribuciones; o
 
-VIII. Obtener de un subalterno, parte de los sueldos de éste, dádivas u otro servicio con cualquier pretexto.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
 
-Al responsable de Abuso de Autoridad se le aplicarán de 1 a 6 años de prisión, de 20 a 100 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y destitución e inhabilitación de 1 a 6 años para desempeñar otro empleo, cargo o comisión públicos.
+VIII. Obtener, exigir o solicitar sin derecho o causa legítima, para sí o para cualquier otra persona, de un subalterno, parte de su sueldo o remuneración, dádivas u otros bienes servicios con cualquier pretexto.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2017)</small>
+
+Al responsable de Abuso de Autoridad se le aplicarán de 1 a 9 años de prisión, y de 50 a 150 días multa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 171.
 
-Coalición de servidores públicos. La Coalición de Servidores Públicos consiste en la reunión de servidores públicos para tomar medidas contrarias a una ley o reglamento, impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas.
+Coalición de servidores públicos. La Coalición de Servidores Públicos consiste en la reunión de servidores públicos para tomar medidas contrarias a una ley, reglamento u otras disposiciones, impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas.
 
-A los responsables de Coalición de Servidores Públicos se les aplicarán de 2 a 4 años de prisión, de 10 a 50 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y destitución e inhabilitación de 2 a 4 años para desempeñar otro empleo, cargo o comisión públicos.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2017)</small>
+
+A los responsables de Coalición de Servidores Públicos se les impondrán de 2 años a 7 años de prisión y de 30 a 300 días multa.
 
 No se configura el tipo de Coalición de Servidores Públicos cuando los trabajadores al servicio del Estado se unifiquen en ejercicio de sus derechos constitucionales o que hagan uso legítimo del derecho de huelga.
 
@@ -1967,35 +2065,75 @@ No se configura el tipo de Coalición de Servidores Públicos cuando los trabaja
 
 Concusión. La Concusión consiste en la exigencia que haga el servidor público, por sí o por medio de otro, y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, de dinero, valores, servicios, o cualquiera otra cosa que sepa no ser debida, o en mayor cantidad que la señalada por la ley.
 
-Al responsable de Concusión se le aplicarán de 1 a 4 años de prisión de 30 a 180 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos hasta por 2 años.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2017)</small>
+
+Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de 500 días de Unidades de Medida y Actualización en el momento de cometerse el delito, o no sea valorable, se impondrán de 3 meses a 2 años de prisión y de 30 a 100 días multa.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+
+Cuando la cantidad o el valor de lo exigido indebidamente exceda de 500 días de Unidades de Medida y Actualización en el momento de cometerse el delito, se impondrán de 2 años a 12 años de prisión y de 100 a 150 días multa.
 
 ###### ARTÍCULO 173.
 
 Cohecho. El Cohecho consiste en:
 
-I. La solicitud u obtención indebida de dinero o cualquier otra dádiva, que el servidor público, por sí o por interpósita persona, realice para sí o para otra, para hacer algo debido o indebido relacionado con sus funciones; o
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
 
-II. El ofrecimiento o entrega de dinero o cualquier otra dádiva que de manera espontánea haga el particular a favor de los servidores públicos, para que hagan u omitan un acto debido o indebido relacionado con sus funciones.
+I. La solicitud u obtención ilícita de dinero o cualquier otra dádiva, o acepte una promesa, para sí o para otro, el servidor público, por sí o por interpósita persona, para hacer o dejar de realizar un acto propio de sus funciones inherentes a su empleo, cargo o comisión; o
 
-Al responsable de Cohecho se le aplicarán de 6 meses a 5 años de prisión, de 25 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados y destitución e inhabilitación de 1 a 3 años para desempeñar otro empleo, cargo o comisión públicos.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
+
+II. El ofrecimiento o entrega de dinero o cualquier otra dádiva que de manera espontánea haga el particular a favor de los servidores públicos, para que hagan u omitan un acto relacionado con sus funciones inherentes a su empleo, cargo o comisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2017)</small>
+
+Al responsable de Cohecho se le impondrán las siguientes sanciones:
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+
+Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación no exceda del equivalente de 500 veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, o no sea valorable, se impondrán de 3 meses a 2 años de prisión y de 30 a 100 días multa.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+
+Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación exceda de 500 veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de 2 a 14 años de prisión y de 100 a 150 días multa.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+
+En ningún caso se devolverá a los responsables del delito de Cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado.
 
 ###### ARTÍCULO 174.
 
 Peculado. El Peculado consiste en:
 
-I. La distracción que haga el servidor público, para usos propios o ajenos, de dinero, valores, fincas o cualquier cosa perteneciente al Estado o a un Municipio, a un organismo descentralizado o a un particular, si por razón de su cargo los hubiese recibido en administración, en depósito o por otra causa;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
 
-II. La utilización por el servidor público de fondos públicos con el objeto de promover la imagen política y social de su persona, la de su superior jerárquico o la de un tercero, o a fin de denigrar a cualquier persona;
+I. La distracción que haga el servidor público, para su beneficio o el de una tercera persona física o moral, de dinero, valores, fincas o cualquier cosa perteneciente al Estado o a un Municipio, a un organismo descentralizado o a un particular, si por razón de su cargo los hubiese recibido en administración, en depósito, en posesión o por otra causa;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
+
+II. La utilización ilícita por el servidor público de fondos públicos con el objeto de promover la imagen política o social de su persona, la de su superior jerárquico o la de un tercero, o a fin de denigrar a cualquier persona; así como la solicitud o aceptación de cualquier persona para realizar las promociones o denigraciones a que se refiere esta fracción, a cambio de fondos públicos o del disfrute de los beneficios derivados de los actos a que se refiere el artículo del Ejercicio Indebido del Servicio Público;
 
 III. La distracción que de su objeto haga cualquier persona que, sin tener el carácter de servidor público estatal o municipal, está obligada legalmente a la custodia, administración o aplicación de recursos públicos estatales o municipales, para usos propios o ajenos, o les dé una aplicación distinta a la que se les haya destinado.
 
-Al responsable de Peculado se le aplicarán de 1 a 8 años de prisión, de 25 a 300 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y destitución e inhabilitación de 1 a 3 años para desempeñar otro.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2017)</small>
+
+Al responsable de Peculado se le aplicarán las siguientes sanciones:
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+
+Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda del equivalente de 500 veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, o no sea valorable, se impondrán de 3 meses a 2 años de prisión y de 30 a 100 días multa.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+
+Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de 500 veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de 2 años a 14 años de prisión y de 100 a 150 días multa.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 175.
 
-Tráfico de influencias. El Tráfico de Influencias consiste en la promoción o gestión del servidor público del Estado, por sí o por interpósita persona, de trámites de negocios o resoluciones públicas ajenas a las responsabilidades inherentes a su empleo, cargo o comisión.
+Tráfico de Influencias. El Tráfico de Influencias consiste en la promoción o gestión del servidor público del Estado, por sí o por interpósita persona, de trámites de negocios o resoluciones públicas ajenas a las responsabilidades inherentes a su empleo, cargo o comisión. Asimismo, afirmar un particular que, sin estar autorizado legalmente para intervenir en un negocio público, tiene influencia ante los servidores públicos facultados para tomar decisiones dentro de dichos negocios, e intervenga ante ellos para promover la resolución ilícita de los mismos, a cambio de obtener un beneficio para sí o para otro.
 
-Al responsable de Tráfico de Influencias se le aplicarán de 2 a 6 años de prisión, de 100 a 500 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y destitución e inhabilitación de 2 a 5 años para desempeñar empleo, cargo o comisión públicos.
+Al responsable de Tráfico de Influencias se le aplicarán de 2 a 6 años de prisión, y de 30 a 100 días multa.
 
 ###### ARTÍCULO 176.
 
@@ -2014,6 +2152,24 @@ V. Omitir o retardar dolosamente la denuncia de los hechos punibles ante la auto
 Al Responsable de Encubrimiento se le aplicarán de 1 a 6 años de prisión y de 50 a 200 días multa y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 En relación con las Fracciones II, III y IV del presente Artículo, no se tendrán por tipificados los hechos descritos, si quienes llevan a cabo las conductas tienen el carácter de ascendientes o descendientes consanguíneos o afines, se trate del cónyuge, concubina o concubinario, o parientes colaterales por consanguinidad hasta el segundo grado, respecto de los autores o partícipes del diverso hecho punible.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO 176 Bis.
+
+Enriquecimiento Ilícito. El Enriquecimiento Ilícito consiste en la imposibilidad del servidor público para acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño.
+
+Para efectos del párrafo anterior, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que el servidor público acredite que éstos los obtuvieron por sí mismos.
+
+No será enriquecimiento ilícito en caso de que el aumento del patrimonio sea producto de una conducta que encuadre en otra hipótesis del presente Capítulo. En este caso se aplicará la hipótesis y la sanción correspondiente, sin que dé lugar al concurso de delitos.
+
+Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguientes sanciones:
+
+Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar.
+
+Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de 5,000 veces el valor diario de la Unidad de Medida y Actualización se impondrán de 3 meses a 2 años de prisión y de 30 a 100 días multa.
+
+Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de 5,000 veces el valor diario de la Unidad de Medida y Actualización se impondrán de 2 años a 14 años de prisión y multa de 100 a 150 días multa.
 
 ### CAPÍTULO XII. Tipos Penales Protectores de la Confidencialidad y la Intimidad de la Información
 
@@ -2666,3 +2822,39 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 El Fondo para la Indemnización de Sentenciados Absueltos referido en el Artículo 204 de este Decreto, es el mismo que prevé el Artículo 303 del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Segundo del Decreto 331 publicado en el Periódico Oficial del Estado el 20 de mayo de 2013.
+
+P.O. 8 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 79.- LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado deberá expedir las leyes y realizar las adecuaciones normativas correspondientes, de conformidad con lo previsto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado deberá designar a los primeros integrantes de la Comisión de Selección.
+
+La Comisión de Selección nombrará a los integrantes del Comité de Participación Ciudadana, en los términos siguientes:
+
+a. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador.
+
+b. Un integrante que durará en su encargo dos años.
+
+c. Un integrante que durará en su encargo tres años.
+
+d. Un integrante que durará en su encargo cuatro años.
+
+e. Un integrante que durará en su encargo cinco años.
+
+Los integrantes del Comité de Participación Ciudadana a que se refieren los incisos anteriores se rotarán la representación ante el Comité Coordinador en el mismo orden.
+
+La sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción, se llevará a cabo dentro del plazo de quince días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana en los términos de los párrafos anteriores.
+
+La Secretaría Ejecutiva deberá iniciar sus operaciones, a más tardar a los treinta días naturales siguientes a la sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción.
+
+Para tal efecto, el Ejecutivo Estatal y el Congreso del Estado proveerán los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
