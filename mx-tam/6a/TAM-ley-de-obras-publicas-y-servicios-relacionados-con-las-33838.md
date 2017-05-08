@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-obras-publicas-y-servicios-relacionados-con-las-33838"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-21"
-last_updated: "2016-12-21"
+last_updated: "2017-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 21 de agosto de 2003.
 
@@ -497,11 +497,19 @@ X. Comprobante de inscripción en el Registro Patronal en el Instituto del Fondo
 
 XI. Comprobante de la última declaración del Impuesto Sobre la Renta;
 
-XII. Comprobante de pago de los derechos que establezca la ley respectiva;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
+
+XII. Comprobante de pago de los derechos que establezca la ley respectiva; así como los documentos que comprueben el no adeudo del contratista interesado, con el Instituto Mexicano del Seguro Social (IMSS);
 
 XIII. Cédula Profesional del responsable técnico; y
 
-XIV. Manifestación del domicilio para oír y recibir notificaciones en la capital del Estado, cuando el domicilio fiscal se encuentre fuera de la jurisdicción territorial de Tamaulipas.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
+
+XIV. Manifestación del domicilio para oír y recibir notificaciones en la capital del Estado, cuando el domicilio fiscal se encuentre fuera de la jurisdicción territorial de Tamaulipas; y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+
+XV. Documentos que comprueben el no adeudo del contratista interesado, con el Servicio de Administración Tributaria (SAT).
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
 
@@ -1464,3 +1472,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 8 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-166 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XII Y XIV; Y SE ADICIONA LA FRACCIÓN XV DEL ARTÍCULO 28 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones normativas que se opongan al presente Decreto.
