@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-etica-y-conducta-del-ayuntamiento-de-hermosillo-10805
 country: "mx"
 rank: "codigo"
 publication_date: "2015-05-21"
-last_updated: "2015-05-21"
+last_updated: "2017-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "SON"
 ---
 # CODIGO DE ETICA Y CONDUCTA DEL AYUNTAMIENTO DE HERMOSILLO, SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL CÓDIGO DE ÉTICA Y CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL AYUNTAMIENTO DE HERMOSILLO, PUBLICADO EN EL B.O. DE 8 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA Y CONDUCTA DEL AYUNTAMIENTO DE HERMOSILLO, SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE MAYO DE 2017 (ABROGADA).
 
 Código publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 21 de mayo de 2015.
 
@@ -434,3 +436,13 @@ PRESIDENTE MUNICIPAL
 C.P. JESUS VILLALOBOS GARCIA.
 
 SECRETARIO DEL AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 8 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA Y CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL AYUNTAMIENTO DE HERMOSILLO”.]
+
+PRIMERO: Queda abrogado el Código de Ética y Conducta aprobado el 14 de abril de 2015 en sesión ordinaria de Ayuntamiento y publicado en el Boletín Oficial del Estado, el 21 de mayo del 2015.
+
+SEGUNDO: El presente Código de Ética y Conducta de los Servidores Públucos (sic) del Ayuntamiento de Hermosillo, entra en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
