@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-adopciones-para-el-estado-de-tamaulipas-88544"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-04"
-last_updated: "2016-05-26"
+last_updated: "2017-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 8 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA P.O. EL 26 DE MAYO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO LXII-946 PUBLICADO EN EL P.O. DE 18 DE MAYO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2017 (ABROGADA).
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 4 de julio de 2012.
 
@@ -948,5 +948,33 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Los procedimientos de adopciones que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán desarrollándose conforme al procedimiento que se venía aplicando hasta la entrada en vigor del mismo,
 
 ###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
+
+P.O. 8 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-159 MEDIANTE EL CUAL SE EXPIDE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos de adopción que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán desarrollándose conforme al procedimiento que se venía aplicando hasta la entrada en vigor del mismo.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo Técnico de Adopciones deberá quedar instalado a más tardar a los quince días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Reglamento de la Ley de Adopciones para el Estado de Tamaulipas, deberá de expedirse en un plazo no mayor a treinta días hábiles posteriores a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+A la entrada en vigor de la presente Ley, se abroga la Ley de Adopciones para el Estado de Tamaulipas publicada en el Periódico Oficial del Estado de fecha 4 de julio de 2012.
+
+###### ARTÍCULO SEXTO.
 
 Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
