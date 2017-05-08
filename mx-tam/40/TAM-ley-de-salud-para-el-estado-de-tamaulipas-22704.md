@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2016-12-21"
+last_updated: "2017-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -2085,9 +2085,9 @@ La autoridad sanitaria competente podrá ordenar o proceder a la vacunación de 
 
 La autoridad sanitaria competente ejecutará las medidas necesarias para la destrucción o control de insectos u otra fauna transmisora y nociva, cuando éstos constituyan un peligro grave para la salud. De lo anterior, se dará la intervención que corresponda a las dependencias encargadas de la sanidad animal.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2017)</small>
 
-ARTICULO 145 BIS.- Para disminuir los riesgos a la salud de la población, las autoridades sanitarias podrán solicitar a los Ayuntamientos la limpieza, desmonte y demás medidas necesarias en la zonas o áreas de emergencia establecidas, ante el aumento de casos de enfermedades transmitidas por vector, en los lotes baldíos o no edificados que representen un riesgo adicional para su propagación.
+ARTICULO 145 BIS.- Para disminuir los riesgos a la salud de la población, las autoridades sanitarias podrán solicitar a los Ayuntamientos la limpieza, desmonte y demás medidas necesarias en las zonas o áreas de emergencia establecidas, ante el aumento de casos de enfermedades transmitidas por vector, en los lotes baldíos o no edificados, viviendas, construcciones o edificaciones abandonadas que representen un riesgo adicional para su propagación.
 
 ###### ARTICULO 146.
 
@@ -2827,6 +2827,8 @@ ARTICULO 193 QUINQUIES.- La asignación y distribución de órganos y tejidos po
 
 I.- Directamente en el establecimiento de salud donde se encuentre el paciente que lo requiera, previo dictamen del Comité Interno de Trasplantes tomando en cuenta los siguiente criterios de urgencia por órganos y tejidos:
 
+:
+
 a).- Corazón: Al paciente que se encuentra en cualquiera de los grados de insuficiencia cardiaca:
 
 1.- Grado I. Pacientes con falla primaria del injerto en el periodo inicial, dentro de las primeras 48 horas.
@@ -3545,13 +3547,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 12 DE FEBRERO DE 2008.
 
-DECRETO NO. LLX-1117 POR EL QUE SE ADICIONAN LOS ARTÍCULOS 30 BIS Y 38 BIS A LA LEY DE SALUD EN EL ESTADO DE TAMAULIPAS.
+DECRETO NO. LIX-1117 POR EL QUE SE ADICIONAN LOS ARTÍCULOS 30 BIS Y 38 BIS A LA LEY DE SALUD EN EL ESTADO DE TAMAULIPAS.
 
 Artículo Unico.- El presente Decreto entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado.
 
 P.O. 12 DE FEBRERO DE 2008.
 
-DECRETO No. LLX-1449 POR EL QUE SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 2°; EL INCISO C) DE LA FRACCIÓN I DEL ARTÍCULO 3°; LA FRACCIÓN II DEL ARTÍCULO 29; EL ARTÍCULO 30; EL TÍTULO NOVENO Y LOS ARTÍCULOS 92 Y 93 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LIX-1449 POR EL QUE SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 2°; EL INCISO C) DE LA FRACCIÓN I DEL ARTÍCULO 3°; LA FRACCIÓN II DEL ARTÍCULO 29; EL ARTÍCULO 30; EL TÍTULO NOVENO Y LOS ARTÍCULOS 92 Y 93 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -3718,3 +3720,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 8 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-164 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 145 BIS DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
