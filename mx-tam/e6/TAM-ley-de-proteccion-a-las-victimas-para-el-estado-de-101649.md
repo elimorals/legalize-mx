@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-las-victimas-para-el-estado-de-101649"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-01"
-last_updated: "2016-01-05"
+last_updated: "2017-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101649&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE PROTECCION A LAS VICTIMAS PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 8 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN A LAS VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 1 de julio de 2014.
 
@@ -1288,3 +1290,31 @@ Los recursos humanos, financieros y materiales, así como los bienes inmuebles a
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 8 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-156 MEDIANTE EL CUAL SE EXPIDE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Protección a las Víctimas para el Estado de Tamaulipas, Publicada en el Anexo al Periódico Oficial del Estado No. 78 de fecha 1 de julio de 2014, así como sus subsecuentes reformas.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los 90 días naturales posteriores a la entrada en vigor el presente Decreto, el Ejecutivo Estatal publicará el Reglamento de la Ley de Atención a Victimas para el Estado de Tamaulipas que se expide mediante el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los 60 días naturales posteriores a la entrada en vigor del presente Decreto, deberá quedar instalado el Sistema Estatal de Atención a Victimas.
+
+###### ARTÍCULO QUINTO.
+
+El Gobierno del Estado deberá hacer las previsiones presupuestales necesarias para la operación de la presente ley y establecer una partida presupuestal específica en el Presupuesto de Egresos del Estado para el siguiente ejercicio fiscal, incluyendo la constitución del Fondo de Atención a Víctimas del Estado de Tamaulipas.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
