@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-214-para-prevenir-combatir-y-eliminar-la-116662"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-19"
-last_updated: "2016-07-19"
+last_updated: "2017-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2017.
 
 Ley publicada en el Número 58 Alcance I del Periódico Oficial del Estado de Guerrero, el martes 19 de julio de 2016.
 
@@ -61,9 +61,9 @@ IV. Constitución Federal. La Constitución Política de los Estados Unidos Mexi
 
 V. Constitución Estatal. La Constitución Política del Estado Libre y Soberano de Guerrero;
 
-VI. Discriminación. Para los efectos de esta Ley se entenderá por discriminación toda distinción, exclusión, restricción o preferencia qué; por acción u omisión, con intención o sin ella; no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, impedir, anular o menoscabar el reconocimiento o el ejercicio de los derechos y libertades cuando se base en uno o más de los motivos siguientes: origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, las opiniones, las preferencias sexuales, la identidad de género, el estado civil, la situación familiar, las responsabilidades familiares, la apariencia física, las características genéticas, la condición migratoria, el embarazo, la lengua, el idioma, las ideas políticas, los antecedentes penales o cualquier motivo.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2017)</small>
 
-También se entenderá como discriminación la racial, la homofobia, la misoginia, el antisemitismo, la xenofobia, así como otras formas conexas de intolerancia;
+VI. Discriminación. Toda distinción, exclusión, restricción o preferencia qué; por acción u omisión, con intención o sin ella; no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, impedir, anular o menoscabar el reconocimiento, goce o el ejercicio de los derechos y libertades cuando se base en uno o más de los motivos siguientes: origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, las opiniones, las preferencias sexuales, la identidad de género, el estado civil, la situación familiar, las responsabilidades familiares, la apariencia física, las características genéticas, la condición migratoria, el embarazo, la lengua, el idioma, las ideas políticas, los antecedentes penales o cualquier motivo;
 
 VII. Diseño universal. Se entenderá el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado;
 
@@ -87,9 +87,17 @@ XVI. Protocolo de actuación. Los lineamientos para la investigación de casos d
 
 XVII. Resolución por disposición. Resolución emitida por el Consejo, con carácter vinculante, por medio de la cual se declara que se acreditó un acto discriminatorio, y por tanto, de manera fundada y motivada se imponen medidas administrativas y de reparación a quien resulte responsable de dichas conductas.
 
-Artículo 2 (SIC). Es obligación de las autoridades estatales y municipales del Estado de Guerrero, en colaboración con los demás organismos públicos, garantizar que todas las personas gocen, sin discriminación alguna, de los derechos humanos contenidos en la Constitución Federal, en los tratados internacionales firmados y ratificados por el Estado Mexicano, en la Constitución Estatal, en la presente Ley y en las demás leyes.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2017)</small>
+
+###### Artículo 2 Bis.
+
+Es obligación de las autoridades estatales y municipales del Estado de Guerrero, en colaboración con los demás organismos públicos, garantizar que todas las personas gocen, sin discriminación alguna, de los derechos humanos contenidos en la Constitución Federal, en los tratados internacionales firmados y ratificados por el Estado Mexicano, en la Constitución Estatal, en la presente Ley y en las demás leyes.
 
 Se obligan a impulsar, promover, gestionar y garantizar la eliminación de obstáculos que limiten a las personas el ejercicio del derecho humano a la igualdad y a la no discriminación e impidan su pleno desarrollo, así como su efectiva participación en la vida civil, política, económica, cultural, social, entre otras, en el Estado de Guerrero. Así mismo, impulsarán y fortalecerán acciones para promover una cultura de sensibilización, de respeto, de igualdad y de no violencia en contra de las personas, grupos y comunidades en situación de discriminación.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2017)</small>
+
+Asimismo, deberán adoptar todas las medidas apropiadas para educar a la opinión pública hacia la eliminación de los prejuicios y la abolición de las prácticas consuetudinarias y de cualquier otra índole que estén basadas en la idea de la inferioridad de la mujer.
 
 ###### Artículo 3.
 
@@ -97,9 +105,11 @@ Cada uno de los poderes públicos estatales, municipales, organismos autónomos 
 
 En el presupuesto de Egresos del Estado, municipios y organismos autónomos, para cada ejercicio fiscal se incluirán las asignaciones correspondientes para promover las medidas de nivelación, de inclusión y acciones afirmativas a que se refiere el Capítulo III de esta Ley.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2017)</small>
+
 ###### Artículo 4.
 
-Queda prohibida toda práctica discriminatoria que tenga por objeto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad en términos del artículo 1, fracción IV de la Ley.
+En el Estado de Guerrero, la discriminación contra la mujer, por cuanto niega o limita su igualdad de derechos con el hombre, es fundamentalmente injusta y constituye una ofensa a la dignidad humana. Por lo tanto, queda prohibida toda práctica discriminatoria que tenga por objeto impedir o anular el reconocimiento, goce o ejercicio de los derechos y la igualdad.
 
 ###### Artículo 5.
 
@@ -151,7 +161,9 @@ IX. Negar o condicionar el derecho de participación política y, específicamen
 
 X. Impedir adquirir el derecho de propiedad, administración y disposición de bienes de cualquier tipo;
 
-XI. Impedir el acceso a la procuración e impartición de justicia;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2017)</small>
+
+XI. Impedir o limitar el acceso a la procuración e impartición de justicia;
 
 XII. Negar, impedir o restringir el derecho a ser oídos y vencidos, a la defensa o asistencia, a la asistencia de personas intérpretes o traductoras, asistencia consular en los procedimientos administrativos o judiciales, de conformidad con las normas aplicables, así como el derecho de las niñas y niños a ser escuchados;
 
@@ -171,7 +183,9 @@ XIX. Obstaculizar las condiciones mínimas necesarias para el crecimiento y desa
 
 XX. Impedir el acceso a la seguridad social y a sus beneficios o establecer limitaciones para la contratación de seguros médicos, salvo en los casos que la ley así lo disponga;
 
-XXI. Reducir el derecho a la alimentación, la vivienda, el recreo y los servicios de atención médica adecuados, en los casos que la ley así lo prevea;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2017)</small>
+
+XXI. Impedir el goce, reducir o limitar el derecho a la alimentación, la vivienda, el recreo y los servicios de atención médica adecuados, en los casos que la ley así lo prevea;
 
 XXII. Impedir o limitar el acceso y desplazamiento en los espacios públicos de instituciones públicas o privadas;
 
@@ -215,19 +229,31 @@ La aplicación de este tipo de medidas y acciones tomará en cuenta la situació
 
 Las medidas de inclusión podrán comprender, entre otras, las siguientes:
 
-I. La educación para la igualdad y la diversidad dentro del sistema educativo estatal;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2017)</small>
+
+I. La educación para la igualdad y la diversidad dentro del sistema educativo estatal, así como en las instituciones gubernamentales estatales y municipales;
 
 II. La integración en el diseño, instrumentación y evaluación de las políticas públicas del derecho a la igualdad y no discriminación;
 
 III. El desarrollo de políticas públicas contra la homofobia, xenofobia, la misoginia y la discriminación por apariencia;
 
-IV Las acciones de sensibilización y capacitación dirigidas a integrantes del servicio público con el objetivo de combatir actitudes discriminatorias, y
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2017)</small>
 
-V. El llevar a cabo campañas de difusión al interior de los poderes públicos estatales, municipales y organismos autónomos.
+IV. Las acciones de sensibilización y capacitación dirigidas a integrantes del servicio público con el objetivo de combatir actitudes discriminatorias;
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2017)</small>
+
+V. El llevar a cabo campañas de difusión al interior de los poderes públicos estatales, municipales y organismos autónomos, y
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2017)</small>
+
+VI. El establecimiento de mecanismos que permitan la participación paritaria de las mujeres y hombres en las diferentes instituciones gubernamentales, sean de designación directa o por elección.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2017)</small>
 
 ###### Artículo 14.
 
-Las medidas de nivelación incluyen, entre otras:
+Las medidas de nivelación son aquellas que buscan hacer efectivo el acceso de todas las personas a la igualdad real de oportunidades eliminando las barreras físicas, comunicacionales, normativas o de otro tipo, que obstaculizan el ejercicio de derechos y libertades prioritariamente a las mujeres y a los grupos en situación de discriminación o vulnerabilidad, que incluyen, entre otras:
 
 I. Ajustes razonables en materia de accesibilidad física y de información y comunicaciones;
 
@@ -245,13 +271,17 @@ VII. Derogación o abrogación de las disposiciones normativas que impongan requ
 
 VIII. Implementar licencias de paternidad, homologación de condiciones de derechos y prestaciones para los grupos en situación de discriminación o vulnerabilidad.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2017)</small>
+
 ###### Artículo 15.
 
-Las acciones afirmativas podrán incluir, entre otras, medidas para favorecer el acceso, permanencia y promoción de personas pertenecientes a grupos en situación de discriminación, con presencia limitada en espacios educativos, laborales y cargos de elección popular a través del establecimiento de porcentajes o cuotas.
+Las acciones afirmativas son las medidas especiales, específicas y de carácter temporal, a favor de personas o grupo en situación temporal a favor de personas o grupos en situación de discriminación, cuyo objetivo es corregir situaciones patentes de desigualdad en el disfrute o ejercicio de derechos y libertades, aplicables mientras subsistan dichas situaciones. Debiendo ser legítimas y respetar los principios de justicia y proporcionalidad en todas las situaciones que quiera remediarse.
+
+Podrán incluir, entre otras, medidas para favorecer el acceso, permanencia y promoción de personas pertenecientes a grupos en situación de discriminación, con presencia limitada en espacios educativos, laborales y cargos de elección popular a través del establecimiento de porcentajes o cuotas.
 
 Las acciones afirmativas serán prioritariamente aplicables hacia personas pertenecientes a los pueblos indígenas, afromexicanos, mujeres, personas con discapacidad, entre otros.
 
-Se tomará en cuenta la edad de las personas a fin de aplicarlas a niñas, niños, adolescentes y personas adultas mayores en los ámbitos relevantes.
+Se tomara en cuenta la edad de las personas a fin de aplicarlas a niñas, niños, adolescentes y personas adultas mayores en los ámbitos relevantes.
 
 ###### Artículo 16.
 
@@ -281,7 +311,9 @@ I. Contribuir al desarrollo de la igualdad cultural, social y democrática del E
 
 II. Llevar a cabo, las acciones conducentes para prevenir, combatir y eliminar la discriminación;
 
-III. Formular y promover políticas públicas para la igualdad a favor de las personas que se encuentren en territorio estatal, y
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2017)</small>
+
+III. Formular y promover políticas públicas para la igualdad de oportunidades y de trato a favor de las personas que se encuentren en territorio estatal, y
 
 IV. Coordinar las acciones de las dependencias y entidades de los poderes públicos estatales y municipales, organismos autónomos y particulares en materia de prevención, combate y eliminación de la discriminación.
 
@@ -948,3 +980,15 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 436 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase este Decreto al Gobernador Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el portal oficial del Congreso del Estado, para su difusión.
