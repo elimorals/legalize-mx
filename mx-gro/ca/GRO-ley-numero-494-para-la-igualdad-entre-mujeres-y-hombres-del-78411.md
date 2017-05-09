@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-494-para-la-igualdad-entre-mujeres-y-hombres-del-784
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-28"
-last_updated: "2011-11-25"
+last_updated: "2017-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 494 PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 28 de diciembre de 2010.
 
@@ -51,7 +51,7 @@ La presente Ley es de orden público, de interés social y de observancia genera
 
 El objeto de la presente Ley es:
 
-l. Regular y garantizar la igualdad entre mujeres y hombres;
+I. Regular y garantizar la igualdad entre mujeres y hombres;
 
 II. Generar las condiciones para eliminar cualquier forma de discriminación por razón de género;
 
@@ -89,37 +89,47 @@ En lo no previsto por esta Ley, se aplicarán en forma supletoria y en lo conduc
 
 En caso de incompatibilidad o de duda entre las disposiciones de esta Ley y de cualquier otra que tengan por objeto la protección de los derechos en ésta contenidos, deberá de aplicarse la más favorable a su protección y desarrollo integral.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2017)</small>
+
 ###### Artículo 7.
 
 Para los efectos de esta Ley, se entenderá por:
 
-l. Estado: El Estado Libre y Soberano de Guerrero;
+I. Acciones afirmativas: El conjunto de medidas de carácter temporal encaminadas a acelerar la igualdad de hecho entre mujeres y hombres;
 
-II. Ley: La Ley para la Igualdad entre Mujeres y Hombres del Estado de Guerrero;
+II. Diversidad y diferencia: La diversidad y las diferencias existentes no sólo entre mujer y hombre en cuanto a su condición biológica, psicológica, social, cultural, de vida, de aspiraciones y necesidades, sino como la diversidad y diferencias existentes dentro de los propios colectivos de mujeres y hombres;
 
-III. Ley General: La Ley General para la Igualdad entre Mujeres y Hombres;
+III. Estado: El Estado Libre y Soberano de Guerrero;
 
-IV. Secretaría: La Secretaría de la Mujer;
+IV. Igualdad de trato: La prohibición de toda discriminación basada en el sexo de las personas, tanto directa como indirecta, cualquiera que sea la forma utilizada para ello;
 
-V. Sistema Estatal: El Sistema Estatal para la Igualdad entre Mujeres y Hombres;
+V. Integración de la perspectiva de género: La consolidación sistemática de las diferentes situaciones, condiciones, aspiraciones y necesidades de mujeres y hombres, dirigidas a eliminar la discriminación y generar la igualdad en todas las políticas y acciones, a todos los niveles y en todas sus fases de planificación, ejecución y evaluación;
 
-VI. Programa Estatal: Programa Estatal para la Igualdad entre Mujeres y Hombres;
+VI. Igualdad de oportunidades: El ejercicio efectivo por parte de las mujeres y los hombres en condiciones de igualdad, de sus derechos políticos, civiles, económicos, sociales y culturales, incluido el control y acceso al poder; así como a los recursos y beneficios económicos y sociales, entendiéndose no solo las condiciones de partida o inicio en el acceso al poder y a los recursos y beneficios, sino también a las condiciones para el ejercicio de aquéllos;
 
-VII. Acciones afirmativas: El conjunto de medidas de carácter temporal encaminadas a acelerar la igualdad de hecho entre mujeres y hombres;
+VII. Interculturalidad: La coexistencia o diálogo de culturas, que conlleva a una sociedad con un proceso dinámico, sostenido y permanente de relación, comunicación y aprendizaje mutuo, para desarrollar las potencialidades de personas y grupos que tienen diferencias culturales, sobre una base de respeto, igualdad, creatividad y desarrollo de espacios comunes;
 
-VIII. Transversalidad: El proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas;
+VIII. Ley: La Ley para la Igualdad entre Mujeres y Hombres del Estado de Guerrero;
 
-IX. Igualdad de trato: la prohibición de toda discriminación basada en el sexo de las personas, tanto directa como indirecta, cualquiera que sea la forma utilizada para ello;
+IX. Ley General: La Ley General para la Igualdad entre Mujeres y Hombres;
 
-X. Igualdad de oportunidades: el ejercicio efectivo por parte de las mujeres y los hombres en condiciones de igualdad, de sus derechos políticos, civiles, económicos, sociales y culturales, incluido el control y acceso al poder; así como a los recursos y beneficios económicos y sociales, entendiéndose no solo las condiciones de partida o inicio en el acceso al poder y a los recursos y beneficios, sino también a las condiciones para el ejercicio de aquéllos;
+X. Programa Estatal: El Programa Estatal para la Igualdad entre Mujeres y Hombres;
 
-XI. Diversidad y diferencia: la diversidad y las diferencias existentes no sólo entre mujer y hombre en cuanto a su condición biológica, psicológica, social, cultural, de vida, de aspiraciones y necesidades, sino como la diversidad y diferencias existentes dentro de los propios colectivos de mujeres y hombres;
+XI. Secretaría: La Secretaría de la Mujer;
 
-XII. Integración de la perspectiva de género: la consolidación sistemática de las diferentes situaciones, condiciones, aspiraciones y necesidades de mujeres y hombres, dirigidas a eliminar la discriminación y generar la igualdad en todas las políticas y acciones, a todos los niveles y en todas sus fases de planificación, ejecución y evaluación;
+XII. Sistema Estatal: El Sistema Estatal para la Igualdad entre Mujeres y Hombres;
 
-XIII. Roles y estereotipos en función del sexo: la deformación cultural sobre la que se sustenta la desigualdad entre mujeres y hombres y con la cual, entre otras, se asigna a las mujeres la responsabilidad del ámbito de lo doméstico y a los hombres el del público, con una valoración y reconocimiento discordante en lo económico y lo social o se le denigra con el uso del cuerpo femenino en la publicidad; y
+XIII. Representación equilibrada: Cuando ambos sexos están representados con equidad, de tal manera que la toma de decisiones sea estable, de manera corresponsable y conjunta en los órganos políticos y administrativos del Estado y los Municipios.
 
-XIV. Representación equilibrada: Cuando ambos sexos están representados con equidad, de tal manera que la toma de decisiones sea estable, de manera corresponsable y conjunta en los órganos políticos y administrativos del Estado y los Municipios.
+XIV. Roles y estereotipos en función del sexo: La deformación cultural sobre la que se sustenta la desigualdad entre mujeres y hombres y con la cual, entre otras, se asigna a las mujeres la responsabilidad del ámbito de lo doméstico y a los hombres el del público, con una valoración y reconocimiento discordante en lo económico y lo social o se le denigra con el uso del cuerpo femenino en la publicidad; y,
+
+XV. Transversalidad: El proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2017)</small>
+
+###### Artículo 7 Bis.
+
+El Gobierno del Estado a través de la la (sic) Secretaría Ejecutiva promoverá la incorporación de la perspectiva intercultural de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, implementación y evaluación de las políticas públicas por parte de los Poderes estatales y los municipios.
 
 ### CAPÍTULO II. Del principio de igualdad y de no discriminación por razón de sexo
 
@@ -201,7 +211,7 @@ XI. Mantener y preservar los derechos adquiridos a favor de las mujeres en el Es
 
 Para efectos de la coordinación interinstitucional, los poderes públicos, los municipios y los órganos autónomos, desconcentrados y descentralizados, de manera conjunta o por separado, podrán suscribir convenios con la finalidad de:
 
-l. Fortalecer las funciones y atribuciones en materia de igualdad;
+I. Fortalecer las funciones y atribuciones en materia de igualdad;
 
 II. Establecer mecanismos de coordinación para lograr la transversalidad de la perspectiva de género en la función pública estatal y municipal;
 
@@ -223,13 +233,13 @@ Los convenios que en materia de igualdad celebren las autoridades y entes públi
 
 La aplicación y seguimiento de esta Ley, corresponde a:
 
-l. El Poder Ejecutivo Estatal, preferentemente a través de la Secretaría de la Mujer y de las demás Secretarías de Despacho y dependencias que integran la Administración Pública Estatal;
+I. El Poder Ejecutivo Estatal, preferentemente a través de la Secretaría de la Mujer y de las demás Secretarías de Despacho y dependencias que integran la Administración Pública Estatal;
 
 II. Los Poderes Legislativo y Judicial del Estado a través de sus respectivos órganos de coordinación y administrativos y de sus representantes legales;
 
 III. Los Municipios, por conducto de sus Presidencias Municipales y de las áreas que conforman la Administración Pública Municipal;
 
-IV. Los Órganos Públicos Autónomos por vía de sus correspondientes órganos de coordinación y administrativos y de sus representantes legales; y (sic)
+IV. Los Órganos Públicos Autónomos por vía de sus correspondientes órganos de coordinación y administrativos y de sus representantes legales; y
 
 V. Los Órganos Públicos Desconcentrados y Paraestatales por medio de la/el titular de su Dirección; y
 
@@ -241,7 +251,7 @@ VI. La Sociedad Civil Organizada.
 
 Corresponderá al Poder Ejecutivo del Estado:
 
-l. Formular, conducir y evaluar la política de igualdad entre mujeres y hombres;
+I. Formular, conducir y evaluar la política de igualdad entre mujeres y hombres;
 
 II. Crear y fortalecer los mecanismos de promoción y procuración de la igualdad entre mujeres y hombres;
 
@@ -263,7 +273,7 @@ VIII. Las demás que esta Ley y otros ordenamientos aplicables le confieren.
 
 De conformidad con lo dispuesto en la presente Ley y demás ordenamientos aplicables en materia de igualdad entre mujeres y hombres, corresponderá a los Municipios del Estado:
 
-l. Diseñar, implementar y vigilar el cumplimiento de la política municipal en materia de igualdad entre mujeres y hombres, en concordancia con las políticas nacional y estatal;
+I. Diseñar, implementar y vigilar el cumplimiento de la política municipal en materia de igualdad entre mujeres y hombres, en concordancia con las políticas nacional y estatal;
 
 II. Coparticipar con el Ejecutivo Estatal, en la consolidación de los programas en materia de igualdad entre mujeres y hombres;
 
@@ -291,7 +301,7 @@ Los Órganos Públicos Autónomos, Desconcentrados y Descentralizados del Estado
 
 Corresponderá a la sociedad civil organizada:
 
-l. Vigilar la aplicación puntual de los objetivos y acciones encaminados a garantizar el principio de igualdad entre mujeres y hombres en el Estado, determinado en la presente Ley, conforme a lo dispuesto en el Programa Estatal y, en su caso, en los Programas Municipales y a los resultados obtenidos por el Sistema Estatal; y
+I. Vigilar la aplicación puntual de los objetivos y acciones encaminados a garantizar el principio de igualdad entre mujeres y hombres en el Estado, determinado en la presente Ley, conforme a lo dispuesto en el Programa Estatal y, en su caso, en los Programas Municipales y a los resultados obtenidos por el Sistema Estatal; y
 
 II. Auxiliar a las instancias que integran el Sistema Estatal en el cumplimiento de los objetivos y acciones de la política en materia de igualdad entre mujeres y hombres.
 
@@ -309,7 +319,7 @@ La política de igualdad entre mujeres y hombres que desarrollen las autoridades
 
 La política de igualdad entre mujeres y hombres que desarrollen las autoridades y entes públicos, deberá considerar, en forma enunciativa y no limitativa, los lineamientos siguientes:
 
-l. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida;
+I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida;
 
 II. Garantizar que la planeación presupuestal incorpore acciones afirmativas que aseguren la progresividad con perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos, acciones y convenios para la igualdad entre mujeres y hombres;
 
@@ -353,7 +363,7 @@ El Sistema Estatal y los Sistemas Municipales para la Igualdad entre Mujeres y H
 
 El Sistema Estatal estará integrado por:
 
-l. El Poder Ejecutivo Estatal, representado por su Titular que lo presidirá, las/los titulares de las Secretarías General de Gobierno, de Finanzas y Administración, de Educación; de Salud y de la Mujer, fungiendo la última, como Secretaría Técnica del Sistema Estatal, y la/el titular de la Procuraduría General de Justicia del Estado;
+I. El Poder Ejecutivo Estatal, representado por su Titular que lo presidirá, las/los titulares de las Secretarías General de Gobierno, de Finanzas y Administración, de Educación; de Salud y de la Mujer, fungiendo la última, como Secretaría Técnica del Sistema Estatal, y la/el titular de la Procuraduría General de Justicia del Estado;
 
 II. El Poder Legislativo, representado por las/los Presidentes de la Mesa Directiva del Congreso del Estado, de la Comisión de Gobierno y de la Comisión de Equidad y Género;
 
@@ -407,7 +417,7 @@ La Secretaría coordinará las acciones que el Sistema Estatal genere, sin perju
 
 El Sistema Estatal y los Sistemas Municipales, tiene (sic) los objetivos siguientes:
 
-l. Establecer lineamientos mínimos en materia de acciones afirmativas para la igualdad sustantiva y de resultados entre mujeres y hombres y acciones a favor de las mujeres, con la finalidad de erradicar la violencia y la discriminación por razón de sexo;
+I. Establecer lineamientos mínimos en materia de acciones afirmativas para la igualdad sustantiva y de resultados entre mujeres y hombres y acciones a favor de las mujeres, con la finalidad de erradicar la violencia y la discriminación por razón de sexo;
 
 II. Promover la progresividad en materia legislativa en lo referente al tema de igualdad entre mujeres y hombres, a fin de armonizar la legislación local con los patrones internacionales en la materia;
 
@@ -451,7 +461,7 @@ Las autoridades y entes públicos, coadyuvarán, en el ámbito de sus respectiva
 
 La concertación de acciones entre las autoridades y entes públicos y los sectores privado, académico y social, se realizará mediante convenios, los cuales se ajustarán a las bases siguientes:
 
-l. Definición de las responsabilidades que asuman las/los integrantes de los sectores social, académico y privado; y
+I. Definición de las responsabilidades que asuman las/los integrantes de los sectores social, académico y privado; y
 
 II. Determinación de las acciones de orientación, estímulo y apoyo que dichos sectores llevarán a cabo en coordinación con las instituciones correspondientes.
 
@@ -537,7 +547,7 @@ La política estatal definida en el Programa Estatal y encauzada a través del S
 
 El Estado garantizará que los planes de estudio, los enfoques pedagógicos, los métodos didácticos, así como los textos, publicaciones y material de apoyo docentes, contengan los principios y valores que expongan la igualdad entre hombres y mujeres. Asimismo tendrá que:
 
-l. Incorporar los criterios de igualdad en todos los niveles educativos orientados a modificar los patrones socioculturales de conducta de hombres y mujeres;
+I. Incorporar los criterios de igualdad en todos los niveles educativos orientados a modificar los patrones socioculturales de conducta de hombres y mujeres;
 
 II. Orientar y capacitar al personal docente en las prácticas educativas para la igualdad; y
 
@@ -553,7 +563,7 @@ Será objetivo de la presente Ley en el ámbito educativo, que el Sistema Educat
 
 Las instituciones educativas promoverán:
 
-l. Integrar en los programas y políticas educativas el principio de igualdad de trato, evitando la reproducción de estereotipos sociales que produzcan desigualdades entre mujeres y hombres;
+I. Integrar en los programas y políticas educativas el principio de igualdad de trato, evitando la reproducción de estereotipos sociales que produzcan desigualdades entre mujeres y hombres;
 
 II. Garantizar que la educación, en todos sus niveles, se realice en el marco de la igualdad entre mujeres y hombres, creando conciencia sobre la necesidad de eliminar la discriminación;
 
@@ -633,7 +643,7 @@ VI. Garantizar la participación equilibrada y sin discriminación de mujeres y 
 
 Con el fin de garantizar la igualdad en el acceso a los derechos sociales y el pleno disfrute de éstos, serán objetivos de la política estatal:
 
-l. Garantizar el conocimiento, la aplicación y difusión de la legislación existente en el ámbito del desarrollo social;
+I. Garantizar el conocimiento, la aplicación y difusión de la legislación existente en el ámbito del desarrollo social;
 
 II. Integrar la perspectiva de género al concebir, aplicar y evaluar las políticas públicas en el sector social; y
 
@@ -705,7 +715,7 @@ La política estatal, tendrá entre sus objetivos la eliminación de los estereo
 
 Para efectos de lo previsto en el artículo anterior, las autoridades y entes públicos desarrollarán las acciones siguientes:
 
-l. Implementar y promover acciones para erradicar toda discriminación, basada en estereotipos por razón de sexo;
+I. Implementar y promover acciones para erradicar toda discriminación, basada en estereotipos por razón de sexo;
 
 II. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres;
 
@@ -721,7 +731,7 @@ Como estrategia para la eliminación de los estereotipos sexistas, los medios de
 
 Para los efectos de lo previsto en el artículo anterior, los medios de comunicación social oficiales deberán:
 
-l. Reflejar de manera no estereotipada en razón de sexo, la presencia de las mujeres en los diversos ámbitos de la vida, así como su empoderamiento en los diferentes puestos de primer nivel de los entes públicos;
+I. Reflejar de manera no estereotipada en razón de sexo, la presencia de las mujeres en los diversos ámbitos de la vida, así como su empoderamiento en los diferentes puestos de primer nivel de los entes públicos;
 
 II. Utilizar un lenguaje no sexista; y
 
@@ -935,7 +945,7 @@ PROFRA. ROSA MARÍA GÓMEZ SAAVEDRA
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 25 DE NOVIEMBRE DE 2011.
 
@@ -954,3 +964,15 @@ En un plazo no mayor de noventa días, contados a partir de la entrada en vigor 
 ###### ARTÍCULO CUARTO.
 
 Comuníquese el presente Decreto al Titula del Poder Ejecutivo para los efectos legales conducentes.
+
+P.O. 9 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 435 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 494 PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Dentro de los 90 días naturales a partir de la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo elaborara y publicara el Reglamento de la presente Ley.
+
+TERCERO. Dentro de los 120 días naturales a partir de la entrada en vigor del presente Decreto, los Poderes del Estado y los municipios, deberán adecuar sus políticas públicas en materia de igualdad entre mujeres y hombres, contemplando los criterios establecidos en la presente Ley, principalmente, políticas públicas diferenciadas para las mujeres que se encuentren embarazadas, con alguna discapacidad o que sean menores de edad, migrantes, entre otros factores de vulnerabilidad.
+
+CUARTO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
