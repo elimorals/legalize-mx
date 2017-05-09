@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2016-08-12"
+last_updated: "2017-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # CODIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 358
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -174,6 +176,10 @@ Toda persona tiene derecho a que se le respete su integridad corporal y psicoló
 Se entiende por violencia familiar las conductas dirigidas a dominar, controlar o agredir física, psicológica, patrimonial o económicamente, a alguna persona con la que se encuentre o haya estado unida por un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, concubinato, o una relación de hecho, dentro o fuera del domicilio familiar.
 
 Ninguna forma de maltrato cometido contra los menores, podrá ser justificada como parte de la educación o formación de los mismos.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2017)</small>
+
+La autoridad jurisdiccional deberá emitir las medidas de protección necesarias para quienes sufren algún tipo de violencia familiar, desde el momento que tenga conocimiento del hecho.
 
 ### Capítulo II. De las personas jurídicas o morales
 
@@ -1823,7 +1829,9 @@ El juez o tribunal que resuelva que una adopción queda sin efecto, remitirá de
 
 Las personas que pretendan contraer matrimonio presentarán un escrito al oficial del Registro Civil del domicilio de cualquiera de ellas, que exprese:
 
-I. Los nombres, apellidos, edad, ocupación y domicilio, tanto de los pretendientes como de sus padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2017)</small>
+
+I. Los nombres, apellidos, edad, ocupación y domicilio, tanto de los pretendientes como de sus padres, si éstos fueren conocidos.
 
 II. Que no tienen impedimento legal para casarse; y
 
@@ -1835,9 +1843,11 @@ Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o 
 
 Al escrito a que se refiere el artículo anterior, se acompañará:
 
-I. El acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años y la mujer mayor de catorce;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2017)</small>
 
-II. La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 413 y 414;
+I. El acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que tengan dieciocho años cumplidos;
+
+II. (DEROGADA, P.O. 9 DE MAYO DE 2017)
 
 III. La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
@@ -1850,8 +1860,6 @@ V. El convenio que los pretendientes deberán celebrar si contrajeran matrimonio
 VI. Copia del acta de defunción del cónyuge fallecido si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente; y
 
 VII. Copia de la dispensa de impedimentos, si los hubo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
@@ -1922,6 +1930,10 @@ IV. Los nombres de los padres del difunto, si se supieren;
 V. Las causas de la muerte y el lugar en que se sepulte; y
 
 VI. La hora de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2017)</small>
+
+Cuando la muerte sea causada por violencia familiar o de género, el oficial del Registro Civil deberá remitir informe al Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
 
 ###### Artículo 355.
 
@@ -2273,17 +2285,19 @@ El deudor alimentario deberá de informar de inmediato al juez y éste a su vez 
 
 El matrimonio deberá celebrarse ante los funcionarios que establece la ley y con las formalidades que ella exige.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2017)</small>
+
 ###### Artículo 412.
 
-Podrá contraer matrimonio el hombre y la mujer, que hayan cumplido dieciocho años. Los presidentes municipales, según el caso, podrán conceder dispensas de edad por causas graves y justificadas, siempre y cuando ambos pretendientes hubiesen cumplido dieciséis años de edad. Esta dispensa de edad es independiente del consentimiento de la persona que ejerza la patria potestad, en los términos del artículo siguiente.
+Podrán contraer matrimonio el hombre y la mujer, que hayan cumplido dieciocho años edad.
 
 ###### Artículo 413.
 
-Si la persona que pretende contraer matrimonio no hubiere cumplido dieciocho años, deberá contar con el consentimiento de la persona que ejerza la patria potestad o la tutela para la realización de dicho acto.
+(DEROGADO, P.O. 9 DE MAYO DE 2017)
 
 ###### Artículo 414.
 
-Los interesados podrán ocurrir a los presidentes municipales, cuando los ascendientes o tutores negaren su consentimiento, revocaren el que hubieren concedido o carezcan de representante legal. Las mencionadas autoridades después de levantar una información sobre el particular, suplirán o no el consentimiento.
+(DEROGADO, P.O. 9 DE MAYO DE 2017)
 
 ###### Artículo 415.
 
@@ -2299,9 +2313,13 @@ La celebración conjunta de matrimonios, no eximirá al Oficial del Registro Civ
 
 Son impedimentos para celebrar el contrato de matrimonio:
 
-I. La falta de edad requerida por la ley, cuando no haya sido dispensada;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2017)</small>
 
-II. La falta de consentimiento del, o los que, ejerzan la patria potestad, tutor, o de la Autoridad en sus respectivos casos;
+I. La falta de edad requerida por la ley;
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2017)</small>
+
+II. Estar cumpliendo una condena por violencia familiar o de género;
 
 III. El parentesco de consanguinidad, sin limitación de grado en la línea recta ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende entre tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa. En caso de adopción plena, este impedimento existe entre el adoptado y los parientes del adoptante como si fuera parentesco por consanguinidad;
 
@@ -2315,27 +2333,33 @@ VII. La existencia de enfermedades crónicas e incurables, que sean, además, co
 
 VIII. El matrimonio subsistente con persona distinta de aquélla con quien se pretenda contraer;
 
-IX. El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado; y
+IX. (DEROGADA, P.O. 9 DE MAYO DE 2017)
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 X. La fuerza o miedo graves.
 
-De estos impedimentos sólo serán dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2017)</small>
+
+De estos impedimentos sólo será el parentesco de consanguinidad en línea colateral desigual.
 
 ###### Artículo 418.
 
 En caso de adopción simple, el adoptante no podrá contraer matrimonio con el adoptado o sus descendientes, en tanto que dure el lazo jurídico resultante de la adopción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2017)</small>
+
 ###### Artículo 419.
 
-La persona que ejerce la tutela y sus descendientes no podrán contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que se concederá por el presidente municipal respectivo, una vez que hayan sido aprobadas las cuentas de la tutela.
+La persona que ejerce la tutela y sus descendientes no podrán contraer matrimonio con la persona que ha estado o esté bajo su guarda.
 
 Esta prohibición comprende también al curador y a sus descendientes.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2017)</small>
+
 ###### Artículo 420.
 
-Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo anterior, el juez nombrará inmediatamente otra persona para que ejerza la tutela en forma interina y reciba los bienes y los administre mientras se obtiene la dispensa.
+Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo anterior, el juez nombrará inmediatamente otra persona para que ejerza la tutela en forma interina y reciba los bienes y los administre.
 
 ###### Artículo 421.
 
@@ -2631,33 +2655,27 @@ IV. Que se hubiere celebrado sin llenar las formalidades establecidas por la ley
 
 El error respecto de la persona anulará el matrimonio sólo cuando entendiendo un cónyuge contraerlo con una persona determinada, lo hubiere contraído con otra. La acción sólo podrá ser ejercitada por el cónyuge que incurrió en el error; pero se extinguirá si no se demanda la nulidad dentro de los treinta días siguientes a la fecha en que se advierta dicho error.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2017)</small>
+
 ###### Artículo 460.
 
-La nulidad fundada en la minoría de edad de los contrayentes podrá ser demandada por los ascendientes de cualquiera de ellos y en defecto de ascendientes, por la persona que desempeñaba la tutela. Esta acción se extinguirá:
+La nulidad fundada en la minoría de edad de los contrayentes deberá ser demandada por los ascendientes de cualquiera de ellos y en defecto de ascendientes, por la persona que desempeñaba la tutela. Esta acción se extinguirá:
 
-I. Cuando haya habido hijos;
+I. Cuando los cónyuges hayan tenido hijos que alcancen la mayoría de edad, sin que se hubiere intentado la nulidad; y
 
-II. Cuando, aunque no los haya habido, el cónyuge que al celebrarse el matrimonio no tenía la edad requerida para contraerlo la alcance y sin que se hubiere intentado la nulidad; y
+II. Cuando al momento de intentarse la acción la esposa se halle encinta.
 
-III. Cuando antes de declararse ejecutoriadamente la nulidad se obtuviese la dispensa de edad o la esposa se halle encinta.
+Cuando se ejercite la acción de nulidad el Juez deberá emitir medidas cautelares a efecto de impedir que la esposa pueda llegar a quedar en cinta durante el juicio hasta su conclusión.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2017)</small>
 
 ###### Artículo 461.
 
-La nulidad por falta de consentimiento de quien o quienes ejerzan la patria potestad, sólo podrá alegarse por el ascendiente a quien tocaba prestarlo y dentro de treinta días siguientes a aquél en que tuvieron conocimiento del matrimonio. Esta causa de nulidad caducará:
-
-I. Cuando han pasado los treinta días sin que se hubiere pedido la nulidad;
-
-II. Cuando, aún durante ese término, el ascendiente titular de la acción ha consentido expresa o tácitamente en el matrimonio, haciendo donación al cónyuge o cónyuges en consideración al matrimonio, recibiendo a los esposos a vivir en su casa, presentando a la prole en el Registro Civil como de los consortes, o practicando otros actos que a juicio del juez fueren tan conducentes al efecto como los expresados; y
-
-III. Si antes de dictarse sentencia ejecutoriada se obtiene, en su caso, el consentimiento del presidente municipal.
+La nulidad por falta de edad, deberá ser alegada por el ascendiente, por quien ejerza la patria potestad, tutela de cualquiera de los cónyuges o por el Ministerio Público, dentro de treinta días siguientes a aquél en que tuvieron conocimiento del matrimonio. Esta causa de nulidad caducará cuando han pasado los treinta días sin que se hubiere pedido la nulidad y que la cónyuge se encuentre encinta.
 
 ###### Artículo 462.
 
-La nulidad por falta de consentimiento de la persona que ejerce la tutela deberá hacerse valer por ésta.
-
-La nulidad por falta de autorización del juez corresponde demandarla al Ministerio Público.
-
-En los dos casos a que se refiere este artículo, la acción deberá ejercitarse dentro de los treinta días siguientes a la celebración del matrimonio; pero se extinguirá la acción si antes de dictarse sentencia ejecutoriada se obtuviere la ratificación del tutor, la autorización judicial o el consentimiento del presidente municipal.
+·(DEROGADO, P.O. 9 DE MAYO DE 2017)
 
 ###### Artículo 463.
 
@@ -3063,9 +3081,11 @@ El padre podrá reconocer, sin el consentimiento de su esposa, a un hijo habido 
 
 La mujer casada podrá reconocer al hijo habido antes o durante su matrimonio con persona distinta a su cónyuge.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2017)</small>
+
 ###### Artículo 533.
 
-El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo hubiere desconocido y por sentencia ejecutoriada se hubiere declarado que no fuere hijo suyo.
+El Hijo de mujer casada, podrá ser reconocido como tal por hombre distinto del marido, cuando este último lo hubiere desconocido o bien cuando en sentencia ejecutoriada la autoridad jurisdiccional haya determinado que no es hijo suyo.
 
 ###### Artículo 534.
 
@@ -3433,7 +3453,7 @@ La sentencia que la pronuncie podrá ser atacada de nulidad de acuerdo a las nor
 
 ###### Artículo 588 Bis.
 
-La adopción que se pretenda hacer por extranjeros o por mexicanos que residan permanentemente en otro país, se regirá .sobre todos aquellos tratados y convenios internacionales ratificados por el Estado Mexicano, bajo el .principio del bilateralidad, y en lo conducente por este Código y las Leyes del Estado de Guerrero.
+La adopción que se pretenda hacer por extranjeros o por mexicanos que residan permanentemente en otro país, se regirá sobre todos aquellos tratados y convenios internacionales ratificados por el Estado Mexicano, bajo el principio del bilateralidad, y en lo conducente por este Código y las Leyes del Estado de Guerrero.
 
 La adopción simple concedida a extranjeros o mexicanos radicados en otro país, tendrá los mismos efectos en lo dispuesto en el artículo 583 de este Código, siempre y cuando dos años después de otorgada, se solicite su conversión expresamente.
 
@@ -15802,3 +15822,13 @@ P.O. 12 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 234, POR EL QUE SE REFORMAN LOS ARTÍCULOS 539 Y 628; SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 539 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 540 DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358”.]
 
 ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 438 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase este Decreto al Gobernador Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el portal oficial del Congreso del Estado, para su difusión.
