@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-regulacion-de-la-venta-y-consumo-de-alcohol-en-8948
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-18"
-last_updated: "2017-04-18"
+last_updated: "2017-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Coahuila, el martes 18 de septiembre de 2012.
 
@@ -320,6 +320,10 @@ Días Domingo
 ###### ARTÍCULO 15.
 
 La venta de bebidas alcohólicas en envase cerrado en los establecimientos a que se refiere la fracción I del artículo anterior, estará permitido los días domingo, de las 10:00 a las 14:00 horas.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2017)</small>
+
+Las casas productoras de vinos y licores y sus distribuidores de los municipios de Parras y Cuatro Ciénegas, quedan exceptuados del horario de venta de bebidas alcohólicas establecido en esta ley para el día domingo, permitiéndose su venta en el horario comprendido de las doce a las veinte horas, tratándose de restaurant bar y restaurantes se permitirá también el expendio en botella cerrada para llevar, única y exclusivamente en lo referente a vinos producidos en dichos municipios.
 
 Excepción
 
@@ -1376,3 +1380,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación (sic)
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 847.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 15, DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
