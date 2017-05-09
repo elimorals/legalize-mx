@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-proteccion-y-promocion-de-los-derechos-del-88423"
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-26"
-last_updated: "2012-06-26"
+last_updated: "2017-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY PARA LA PROTECCION Y PROMOCION DE LOS DERECHOS DEL CONTRIBUYENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SÉPTIMO DE LA LEY PARA LA PROTECCIÓN Y PROMOCIÓN DE LOS DERECHOS DEL CONTRIBUYENTE DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 9 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA PROTECCIÓN Y PROMOCIÓN DE LOS DERECHOS DEL CONTRIBUYENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2017 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 26 de junio de 2012.
 
@@ -442,3 +444,27 @@ EL SECRETARIO DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS
 JORGE EDUARDO VERÁSTEGUI SAUCEDO
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 831.- SE CREA LA LEY PARA LA PROTECCIÓN Y PROMOCIÓN DE LOS DERECHOS DEL CONTRIBUYENTE DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se autoriza al Ejecutivo del Estado para que por conducto de la Secretaria de Finanzas prevea, de acuerdo a la disponibilidad presupuestal, los recursos humanos y materiales necesarios para el funcionamiento de la Defensoría para la Protección y Promoción de los Derechos del Contribuyente.
+
+TERCERO.- El Reglamento Interior de la Defensoría para la Protección y Promoción de los Derechos del Contribuyente se deberá expedir en un plazo no mayor de treinta días naturales.
+
+Hasta en tanto se emita el reglamento a que se refiere el párrafo que antecede, el Consejo podrá acordar las reglas de funcionamiento bajo las cuales operará.
+
+CUARTO.- Se abroga el Reglamento Interior de la Defensoría para la Protección y Promoción de los Derechos del Contribuyente, publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza número 62, el día 4 de agosto de 2015.
+
+No obstante, lo anterior, este ordenamiento será aplicable en lo que no se oponga al presente decreto hasta en tanto no entre en vigor el nuevo reglamento que se prevé en el transitorio que antecede.
+
+QUINTO.- Las personas que desempeñan el cargo de Defensor y Consejeros de la Defensoría para la Protección y Promoción de los Derechos del Contribuyente continuarán en su encargo hasta su conclusión en los términos en que fueron designados por el Congreso del Estado, sin perjuicio de que puedan ser ratificados una vez terminado su período de conformidad con la ley.
+
+SEXTO.- Las autoridades encargadas de la aplicación de esta ley, instrumentarán conjunta o separadamente los mecanismos idóneos para su divulgación.
+
+SÉPTIMO.- Se abroga la Ley para la Protección y Promoción de los Derechos del Contribuyente del Estado de Coahuila de Zaragoza publicada el 26 de junio de 2012 en el Periódico Oficial del Gobierno del Estado.
