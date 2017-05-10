@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2017-04-24"
+last_updated: "2017-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 10 DE MAYO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -134,13 +134,17 @@ XII. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado
 
 XIII. Órganos político administrativos: Son las 16 Delegaciones del Distrito Federal;
 
-XIV. DIF-DF: Sistema para el Desarrollo Integral de la Familia del Distrito Federal;
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2017)</small>
+
+XIV. DIF-CDMX: Sistema para el Desarrollo Integral de la Familia de la Ciudad de México;
 
 XV. Diseño Universal: El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten;
 
 XVI. Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
 
-XVII. EVALUA DF: Consejo de Evaluación del Desarrollo Social del Distrito Federal;
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2017)</small>
+
+XVII. EVALUA CDMX: Consejo de Evaluación del Desarrollo Social de la Ciudad de México;
 
 XVIII. Familia de Origen: Aquélla compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
 
@@ -180,15 +184,19 @@ XXXV. Sistema de Protección Delegacional: Sistema de Protección Integral de lo
 
 XXXVI. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
 
-XXXVII. Sistema Nacional de Protección: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y (revisar que aparezca en los artículos).
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2017)</small>
+
+XXXVII. Sistema Nacional de Protección: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
 
 XXXVIII. Violencia Física: Todo acto de agresión que cause daño a la integridad física de las niñas, niños y adolescentes.
 
 XXXIX. Violencia Psicoemocional: Los actos u omisiones cuya formas (sic) de expresión pueden ser silencios, prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, insultos, actitudes de descuido, devaluatorias o de abandono que provoquen en la niña, niño o adolescente daño en cualquiera de sus esferas cognoscitiva, conductual, afectiva y social;
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MAYO DE 2017)</small>
+
 ###### Artículo 5.
 
-Niñas, niños y adolescentes gozarán de los derechos que reconoce esta Ley, sin detrimento de los derechos, responsabilidades y obligaciones de los padres y/o tutores que para ellos contiene la Convención sobre los Derechos del Niño, la Ley de los Derechos de las Niñas y los Niños en el Distrito Federal, y demás disposiciones jurídicas aplicables, por lo que se reconoce la obligación que tienen las autoridades del Distrito Federal de promover, respetar, proteger y garantizar sus derechos, atendiendo a los principios pro persona, interés superior del niño y de autonomía progresiva en el ejercicio de los mismos, tomándose en cuenta el grado de desarrollo cognoscitivo y evolutivo de sus facultades.
+Niñas, niños y adolescentes gozarán de los derechos que reconoce esta Ley, sin detrimento de los derechos, responsabilidades y obligaciones de los padres y/o tutores que para ellos contiene la Convención sobre los Derechos del Niño, la presente Ley y demás disposiciones jurídicas aplicables, por lo que se reconoce la obligación que tienen las autoridades del Distrito Federal de promover, respetar, proteger y garantizar sus derechos, atendiendo a los principios pro persona, interés superior del niño y de autonomía progresiva en el ejercicio de los mismos, tomándose en cuenta el grado de desarrollo cognoscitivo y evolutivo de sus facultades.
 
 Son niñas y niños las personas menores a doce años de edad. Se encuentran en primera infancia las niñas y niños menores de seis años.
 
@@ -216,7 +224,9 @@ VII. La participación;
 
 VIII. La interculturalidad;
 
-IX. La corresponsabilidad de los miembros de la familia, la sociedad y las autoridades; (checar).
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2017)</small>
+
+IX. La corresponsabilidad de los miembros de la familia, la sociedad y las autoridades;
 
 X. La transversalidad en la legislación, políticas públicas, actividades administrativas, económicas y culturales;
 
@@ -308,7 +318,9 @@ XX. Derecho de acceso a la información y a las tecnologías de la información.
 
 En la aplicación de la presente Ley se tomarán en cuenta las condiciones particulares de niñas, niños y adolescentes en situación de vulnerabilidad, a fin de proteger y garantizar el ejercicio pleno de todos sus derechos.
 
-Las autoridades de la Ciudad de México y los órganos político administrativos, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos humanos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad de conformidad con lo previsto en el artículo 114 de la presente ley.
+> <small>(REFORMADO, G.O. 10 DE MAYO DE 2017)</small>
+
+Las autoridades de la Ciudad de México y los órganos político administrativos, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos humanos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad de conformidad con lo previsto en el artículo 115 de la presente ley.
 
 ### Capítulo Primero. Del Derecho a la Vida, a la Supervivencia y al Desarrollo
 
@@ -428,21 +440,27 @@ Cuando las autoridades tengan conocimiento de casos de niñas, niños y adolesce
 
 Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en territorio nacional, o haya sido trasladado legalmente pero retenido ilícitamente, las autoridades, en el ámbito de sus respectivas competencias, estarán obligadas a coadyuvar en su localización, a través de los programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas necesarias para prevenir que sufran mayores daños y en la sustanciación de los procedimientos de urgencia necesarios para garantizar su restitución inmediata, cuando la misma resulte procedente conforme a los tratados internacionales en materia de sustracción de niñas, niños y adolescentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MAYO DE 2017)</small>
+
 ###### Artículo 28.
 
-El DIF-DF deberá otorgar las medidas especiales para la protección de los derechos de las niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial.
+El DIF-CDMX a través de la Procuraduría de Protección deberá otorgar las medidas especiales para la protección de los derechos de las niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial.
 
 A fin de garantizar y restituir los derechos de niñas, niños y adolescentes en desamparo en la Ciudad de México, se actuará conforme lo dispone la Ley de Cuidados Alternativos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MAYO DE 2017)</small>
+
 ###### Artículo 29.
 
-Las personas interesadas en adoptar niñas, niños y adolescentes que se encuentren bajo la tutela del DIF-DF podrán presentar ante dicha instancia la solicitud correspondiente.
+Las personas interesadas en adoptar niñas, niños y adolescentes que se encuentren bajo la tutela del DIF-CDMX podrán presentar ante la Procuraduría de Protección la solicitud correspondiente.
 
 Los procedimientos de adopción se desahogarán de conformidad con la legislación civil aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MAYO DE 2017)</small>
+
 ###### Artículo 30.
 
-Corresponde al DIF-DF, en el ámbito de sus respectivas competencias:
+Corresponde al DIF-CDMX a través de la Procuraduría de Protección, en el ámbito de sus respectivas competencias:
 
 I. Prestar servicios de asesoría, asistencia jurídica y capacitación obligatoria a las personas que deseen asumir el carácter de familia adoptiva.
 
@@ -474,9 +492,43 @@ IX. Disponer las acciones necesarias para verificar que la adopción no sea moti
 
 X. Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias, velarán porque en los procesos de adopción se respeten las normas que los rijan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MAYO DE 2017)</small>
+
 ###### Artículo 32.
 
-Los Centros de Asistencia Social y todas las instituciones que brindan cuidados alternativos estarán sujetos a los mecanismos de autorización, supervisión y vigilancia previstos en la Ley de Cuidados Alternativos.
+Los Centros de Asistencia Social y todas las instituciones que brinden cuidados alternativos estarán sujetos a los mecanismos de autorización, supervisión y vigilancia previstos en la Ley de Cuidados Alternativos.
+
+> <small>(ADICIONADO, G.O. 10 DE MAYO DE 2017)</small>
+
+Los Centros de Asistencia Social y todas las instituciones que brinden cuidados alternativos, además deberán:
+
+> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2017)</small>
+
+I. Tomar las medidas necesarias que permitan a niñas, niños y adolescentes, a quienes les brindan alojamiento, contar con un plan de restitución de sus derechos, en coordinación con la Procuraduría de Protección;
+
+> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2017)</small>
+
+II. Contar con un registro de niñas, niños y adolescentes a quienes brindan alojamiento que contendrá la información jurídica en la que se encuentran;
+
+> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2017)</small>
+
+III. Brindar la información que le requiera la Procuraduría de Protección respecto de la atención integral que otorga a niñas, niños y adolescentes canalizados por cualquier autoridad del orden local, federal o municipal, o por su familia de origen o extensa;
+
+> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2017)</small>
+
+IV. Alimentar conforme a las disposiciones emitidas por la Procuraduría de Protección, el Sistema de Información que prevé la Ley de Cuidados Alternativos;
+
+> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2017)</small>
+
+V. Proporcionar los datos que le requiera la Procuraduría de Protección, que permitan contribuir a la integración y sistematización del Registro de Centros de Asistencia Social, Nacional y de la Ciudad de México; y
+
+> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2017)</small>
+
+VI. Brindar las facilidades a la Procuraduría de Protección a fin de dar seguimiento al cumplimiento del plan de restitución de derechos a favor de niñas, niños y adolescentes y atender las recomendaciones que, en su caso, emita para tales efectos.
+
+> <small>(ADICIONADO, G.O. 10 DE MAYO DE 2017)</small>
+
+En caso de incumplimiento, se solicitarán las medidas de apremio y sanciones administrativas que correspondan.
 
 ### Capítulo Quinto. Del Derecho a la Igualdad Sustantiva
 
@@ -704,7 +756,9 @@ No se considerarán discriminatorias las medidas específicas que sean necesaria
 
 Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias y en coordinación con el Sistema para el Desarrollo Integral de la Familia, deberán impulsar, promover y garantizar el reconocimiento, ejercicio y defensa de los derechos de las niñas, niños y adolescentes con discapacidad. A efecto de prevenir la ocultación, abandono, negligencia y segregación. Además impulsarán y fomentarán el desarrollo de la independencia, autonomía e inclusión, promoviendo el desarrollo de sus capacidades, a través de acciones interinstitucionales y conforme a la perspectiva de género y el principio de progresividad.
 
-Para tales efectos, el DIF-DF a través de su Dirección Ejecutiva de los Derechos de las Personas con Discapacidad se coordinará con dichas autoridades y órganos político administrativos, para realizar las siguientes acciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MAYO DE 2017)</small>
+
+Para tales efectos, el DIF-CDMX a través de su Dirección Ejecutiva de los Derechos de las Personas con Discapacidad se coordinará con dichas autoridades y órganos político administrativos, para realizar las siguientes acciones:
 
 I. Diseñar y realizar campañas de sensibilización orientadas a respetar y promover los derechos de las niñas, niños y adolescentes con discapacidad, así como combatir los estereotipos y prejuicios respecto de su discapacidad; la que deberán considerar la diversidad de personas con discapacidad, por lo que deberán contemplar el enfoque de género y todos los tipos de discapacidad;
 
@@ -1258,11 +1312,15 @@ XIII. Impulsar la participación de las organizaciones privadas dedicadas a la p
 
 XIV. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que (sic), de conformidad con la presente Ley.
 
-#### Sección Primera. Del DIF-DF
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE MAYO DE 2017)</small>
+
+#### Sección Primera. Del DIF de la Ciudad de México
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MAYO DE 2017)</small>
 
 ###### Artículo 102.
 
-Sin perjuicio de las atribuciones que establezcan las demás disposiciones aplicables, corresponde al DIF-DF:
+Sin perjuicio de las atribuciones que establezcan las demás disposiciones aplicables, corresponde al DIF-CDMX:
 
 I. Proteger los derechos de niñas, niños y adolescentes, cuando los mismos se encuentren restringidos o vulnerados, en términos de esta Ley y las demás disposiciones aplicables. La institucionalización procederá como último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar;
 
@@ -1350,7 +1408,9 @@ La coordinación, en un marco de respeto a las atribuciones entre las instancias
 
 El Sistema de Protección está conformado por las personas titulares de las siguientes instituciones:
 
-A. Del Gobierno del Distrito Federal:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MAYO DE 2017)</small>
+
+A. Del Gobierno de la Ciudad de México:
 
 I. Jefatura de Gobierno, quien lo presidirá;
 
@@ -1366,25 +1426,47 @@ VI. Secretaría de Salud;
 
 VII. Secretaría del Trabajo y Fomento al Empleo;
 
-VIII. Sistema para el Desarrollo Integral de la Familia DIF-DF;
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2017)</small>
+
+VIII. Sistema para el Desarrollo Integral de la Familia DIF- CDMX;
 
 IX. Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes de la Ciudad de México;
 
-X. Procuraduría General de Justicia del Distrito Federal, y
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2017)</small>
 
-XI. Instituto de la Juventud del Distrito Federal.
+X. Procuraduría General de Justicia de la Ciudad de México, y
+
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2017)</small>
+
+XI. Instituto de la Juventud de la Ciudad de México.
 
 B. Órgano Judicial del Distrito Federal:
 
 I. Presidencia del Tribunal Superior de Justicia del Distrito Federal.
 
-C. Organismos Públicos:
+> <small>(REFORMADO [N. DE E. REFORMADA SU DENOMINACIÓN], G.O. 10 DE MAYO DE 2017)</small>
+
+C. Órgano Legislativo:
+
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2017)</small>
+
+I. La Comisión de Atención al Desarrollo de la Niñez;
+
+> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2017)</small>
+
+II. La Comisión de Presupuesto y Cuenta pública; y
+
+> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2017)</small>
+
+III. La Comisión de Hacienda.
+
+D. Organismos Públicos:
 
 I. Presidencia de la Comisión de Derechos Humanos del Distrito Federal, y
 
-D. Representantes de la sociedad civil, academia, líderes de opinión, especialistas en la materia, que serán nombrados en los términos del reglamento de esta Ley.
+E. Representantes de la sociedad civil, academia, líderes de opinión, especialistas en la materia, que serán nombrados en los términos del reglamento de esta Ley.
 
-E. Serán invitados permanentes:
+F. Serán invitados permanentes:
 
 I. Titulares (sic) los órganos político administrativos.
 
@@ -1394,25 +1476,39 @@ III. Secretaría de Seguridad Pública;
 
 IV. Secretaría de Cultura;
 
-V. Instituto de las Mujeres del Distrito Federal;
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2017)</small>
+
+V. Instituto de las Mujeres de la Ciudad de México;
 
 VI. Secretaría de Desarrollo Rural y Equidad para las Comunidades y;
 
-VII. Escuela de Administración Pública del Distrito Federal.
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2017)</small>
 
-VIII. Consejo para la Evaluación del Desarrollo Social del Distrito Federal
+VII. Escuela de Administración Pública de la Ciudad de México.
+
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2017)</small>
+
+VIII. Consejo para la Evaluación del Desarrollo Social de la Ciudad de México.
 
 IX. Presidencia de la Comisión de Derechos Humanos de la Asamblea Legislativa del Distrito Federal;
 
-Los integrantes señalados en los incisos A, B, C y D tendrán voz y voto.
+> <small>(REFORMADO, G.O. 10 DE MAYO DE 2017)</small>
 
-Las y los representantes comprendidos en el inciso E sólo participarán con voz pero sin voto.
+Los integrantes señalados en los incisos A, B, C, D y E tendrán voz y voto.
 
-Para efectos de lo previsto en el apartado D, el reglamento deberá prever los términos para la emisión de una convocatoria pública, que contendrá las etapas completas para el procedimiento, sus fechas límites y plazos.
+> <small>(REFORMADO, G.O. 10 DE MAYO DE 2017)</small>
+
+Las y los representantes comprendidos en el inciso F sólo participarán con voz, pero sin voto.
+
+> <small>(REFORMADO, G.O. 10 DE MAYO DE 2017)</small>
+
+Para efectos de lo previsto en el apartado E, el reglamento deberá prever los términos para la emisión de una convocatoria pública, que contendrá las etapas completas para el procedimiento, sus fechas límites y plazos.
 
 El titular de la Jefatura de Gobierno, en casos excepcionales, podrá ser suplido por el servidor público que designe. Los integrantes del Sistema de Protección nombrarán un suplente que deberá tener el nivel de subsecretario o equivalente.
 
-La presidencia del Sistema podrá invitar a las sesiones respectivas a representantes de otras dependencias y entidades de la Administración Pública del Distrito Federal y de los órganos públicos autónomos según la naturaleza de los asuntos a tratar quienes intervendrán con voz pero sin voto.
+> <small>(REFORMADO, G.O. 10 DE MAYO DE 2017)</small>
+
+La presidencia del Sistema podrá invitar a las sesiones respectivas a representantes de otras dependencias y entidades de la Administración Pública de la Ciudad de México y de los órganos públicos autónomos según la naturaleza de los asuntos a tratar quienes intervendrán con voz, pero sin voto.
 
 De igual forma, se podrá invitar a personas o instituciones, locales, nacionales o internacionales, especializadas en la materia.
 
@@ -1480,7 +1576,9 @@ XI. Asesorar y apoyar a los órganos político administrativos que lo requieran 
 
 XII. Informar cada cuatro meses al Sistema de Protección y a su Presidencia, sobre sus actividades;
 
-XIII. Proporcionar la información necesaria a EVALUA DF, para la evaluación de las políticas de desarrollo social vinculadas con la protección de niñas, niños y adolescentes;
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2017)</small>
+
+XII (SIC). Proporcionar la información necesaria a EVALUA CDMX, para la evaluación de las políticas de desarrollo social vinculadas con la protección de niñas, niños y adolescentes;
 
 XIV. Fungir como instancia de interlocución con organizaciones de la sociedad civil, academia y demás instituciones de los sectores social y privado;
 
@@ -1504,13 +1602,17 @@ V. No haber sido sentenciado por delito doloso o inhabilitado como servidor púb
 
 #### Sección Tercera. De la Procuraduría de Protección
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MAYO DE 2017)</small>
+
 ###### Artículo 111.
 
-Para una efectiva protección y restitución de los derechos de niñas, niños y adolescentes, el Gobierno del Distrito Federal, dentro de la estructura del DIF-DF, contará con una Procuraduría de Protección.
+Para la efectiva protección y restitución de los derechos de niñas, niños y adolescentes, el Gobierno del Distrito Federal, dentro de la estructura del DIF-CDMX, contará con una Procuraduría de Protección.
 
 En el ejercicio de sus funciones, la Procuraduría de Protección podrá solicitar el auxilio de autoridades de los tres órdenes de gobierno, las que estarán obligadas a proporcionarlo de conformidad con las disposiciones aplicables.
 
 Para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes, la Procuraduría de Protección deberá establecer contacto y trabajar conjuntamente con las autoridades administrativas de asistencia social, de servicios de salud, de educación, de protección social, de cultura, deporte y con todas aquellas con las que sea necesario para garantizar los derechos de niñas, niños y adolescentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 10 DE MAYO DE 2017)</small>
 
 ###### Artículo 112.
 
@@ -1540,13 +1642,21 @@ b) La atención médica inmediata por parte de alguna institución del Sistema d
 
 Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección, el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente;
 
-VII. Ordenar, fundada y motivadamente, bajo su más estricta responsabilidad, la aplicación de medidas urgentes de protección especial establecidas en la fracción anterior, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños o adolescentes, dando aviso de inmediato a la autoridad ministerial y jurisdiccional competente.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MAYO DE 2017)</small>
+
+VII. Ordenar, fundada y motivadamente, bajo su más estricta responsabilidad, la aplicación de medidas urgentes de protección especial, concretamente para el ingreso de una niña, niño o adolescentes a un centro de asistencia social, y para la atención médica inmediata por parte de alguna institución del Sistema de Salud de la Ciudad de México; lo anterior, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños o adolescentes, dando aviso de inmediato a la autoridad ministerial y jurisdiccional competente.
 
 Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
 
 Para la imposición de las medidas urgentes de protección, la Procuraduría de Protección podrá solicitar el auxilio de las instituciones policiales competentes.
 
-En caso de incumplimiento de las medidas urgentes de protección, la Procuraduría de Protección podrá solicitar la imposición de las medidas de apremio correspondientes a la autoridad competente;
+> <small>(REFORMADO, G.O. 10 DE MAYO DE 2017)</small>
+
+En caso de incumplimiento de las medidas urgentes de protección, la Procuraduría de Protección podrá solicitar la imposición de las medidas de apremio correspondientes a la autoridad competente.
+
+> <small>(ADICIONADO, G.O. 10 DE MAYO DE 2017)</small>
+
+La implementación de las medidas urgentes de protección especial, se regirá por el procedimiento establecido para tal efecto.
 
 VIII. Promover, impulsar y suscribir convenios de participación y colaboración, de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de los derechos de las niñas, niños y adolescentes, que contribuyan al cumplimiento de estas atribuciones;
 
@@ -1562,7 +1672,21 @@ XIII. Colaborar en la supervisión de la ejecución de las medidas especiales de
 
 XIV. Colaborar en la realización y promoción de estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos,
 
-XV. Las demás que les confieran otras disposiciones aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MAYO DE 2017)</small>
+
+XV. Para el desarrollo de estas atribuciones, la Procuraduría contará con personal especializado para la defensa, protección y restitución de los derechos de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, G.O. 10 DE MAYO DE 2017)</small>
+
+Dentro del personal especializado se contará con personal jurídico en ejercicio de la representación en suplencia, en coadyuvancia y originaria.
+
+> <small>(ADICIONADO, G.O. 10 DE MAYO DE 2017)</small>
+
+Las actuaciones que realice el personal jurídico, tendrán el valor que se le otorga a los testimonios investidos de fe pública.
+
+> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2017)</small>
+
+XVI. Las demás que les confieran otras disposiciones aplicables.
 
 ###### Artículo 113.
 
@@ -1594,7 +1718,9 @@ IV. Contar con al menos cinco años de experiencia en defensa de los derechos de
 
 V. No tener sentencia por delito doloso o inhabilitación como servidor público;
 
-El nombramiento de la persona Titular de la Procuraduría de Protección deberá ser aprobado por la Junta de Gobierno del DIF-DF, a propuesta de su Titular.
+> <small>(REFORMADO, G.O. 10 DE MAYO DE 2017)</small>
+
+El nombramiento de la persona Titular de la Procuraduría de Protección deberá ser aprobado por la Junta de Gobierno del DIF-CDMX, a propuesta de su Titular.
 
 #### Sección Cuarta. De las Medidas de Protección Especial
 
@@ -1614,23 +1740,29 @@ Las autoridades y de (sic) los órganos político administrativos, están obliga
 
 #### Sección Quinta. De la Evaluación y Diagnóstico
 
+> <small>(REFORMADO, G.O. 10 DE MAYO DE 2017)</small>
+
 ###### Artículo 118.
 
-Corresponde a EVALUA DF la evaluación de las políticas de desarrollo social vinculadas con la protección de los derechos de niñas, niños y adolescentes, en términos de lo establecido por la Constitución Política de los Estados Unidos Mexicanos, la Ley General, esta Ley, el Programa de Protección Integral y las demás disposiciones aplicables.
+Corresponde a EVALUA CDMX la evaluación de las políticas de desarrollo social vinculadas con la protección de los derechos de niñas, niños y adolescentes, en términos de lo establecido por la Constitución Política de los Estados Unidos Mexicanos, la Ley General, esta Ley, el Programa de Protección Integral y las demás disposiciones aplicables.
 
 ###### Artículo 119.
 
 La evaluación consistirá en analizar y valorar los resultados e impactos de las políticas públicas orientadas al cumplimiento de esta Ley y del Programa de Protección Integral.
 
+> <small>(REFORMADO, G.O. 10 DE MAYO DE 2017)</small>
+
 ###### Artículo 120.
 
-De acuerdo con los resultados de las evaluaciones, el EVALUA DF emitirá, en su caso, las sugerencias y recomendaciones que considere pertinentes al Sistema de Protección.
+De acuerdo con los resultados de las evaluaciones, el EVALUA CDMX emitirá, en su caso, las sugerencias y recomendaciones que considere pertinentes al Sistema de Protección.
 
 ###### Artículo 121.
 
 Los resultados de las evaluaciones serán entregados a la Asamblea Legislativa del Distrito Federal y presentados en sesión ordinaria del Sistema de Protección para la revisión de sus indicadores de cumplimiento.
 
 #### Sección Sexta. De la Comisión de Derechos Humanos del Distrito del (sic) Federal
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 10 DE MAYO DE 2017)</small>
 
 ###### Artículo 122.
 
@@ -1696,7 +1828,9 @@ El Sistema para el Desarrollo Integral de la Familia del Distrito Federal deber�
 
 SEXTO. En su primera sesión, el Presidente del Sistema de Protección someterá a consideración y aprobación del mismo los lineamientos para su integración, organización y funcionamiento, así como la designación del Titular de la Secretaría Ejecutiva del Sistema de Protección.
 
-El Titular de la Secretaría Ejecutiva del Sistema de Protección, una vez instalado el Sistema de Protección, dentro de los siguientes treinta días hábiles, deberá presentar a consideración y en su caso aprobación de los integrantes del Pleno, el proyecto de lineamientos a que se refiere el artículo 111 de la Ley de Derechos de Niñas, Niños y Adolescentes.
+> <small>(REFORMADO, G.O. 10 DE MAYO DE 2017)</small>
+
+El Titular de la Secretaría Ejecutiva del Sistema de Protección, una vez instalado el Sistema de Protección, dentro de los siguientes treinta días hábiles, deberá presentar a consideración y en su caso aprobación de los integrantes del Pleno, el proyecto de lineamientos a que se refiere el artículo 108 de la Ley de Derechos de Niñas, Niños y Adolescentes.
 
 El Presidente del Sistema de Protección realizará las acciones necesarias para la elaboración del Programa, el cual deberá aprobarse dentro de los ciento veinte días hábiles siguientes a la instalación del Sistema de Protección.
 
@@ -1735,3 +1869,13 @@ G.O. 24 DE ABRIL DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 10 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO".]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Segundo.- Túrnese el presente Decreto al Jefe de Gobierno del Distrito Federal para su publicación.
+
+Artículo Tercero.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
