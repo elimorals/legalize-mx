@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-construccion-del-municipio-de-cuernavaca-17724"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-03"
-last_updated: "2012-12-19"
+last_updated: "2017-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO DE CONSTRUCCIÓN DEL MUNICIPIO DE CUERNAVACA, MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 3 de noviembre de 1999.
 
@@ -699,9 +699,11 @@ IV.- Tratándose de persona moral o física responsable de la obra, cuando se de
 
 DICTAMEN DE USO DEL SUELO.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2017)</small>
+
 ###### Artículo 55.
 
-DEL DICTAMEN DE USO DEL SUELO. Antes de la Solicitud de Licencia de Construcción, el propietario, poseedor o arrendatario de un predio o inmueble, deberá obtener el Dictamen de Uso del Suelo que emita la Secretaría, de acuerdo al PDUCPC, previo pago de los derechos establecidos en la Ley de Ingresos vigente para el Municipio de Cuernavaca, cuando se trate de:
+DEL DICTAMEN DE USO DEL SUELO. Antes de la Solicitud de Licencia de Construcción, el propietario, poseedor o arrendatario de un predio o inmueble, deberá obtener el Dictamen de Uso del Suelo que emita la Secretaría, de acuerdo al PDUCPC, previo pago de los derechos establecidos en la Ley de Ingresos vigente para el municipio de Cuernavaca, cuando se trate de:
 
 I.- USOS DIVERSOS:
 
@@ -773,13 +775,21 @@ c).- Información del uso actual en su caso.
 
 III.- EL DICTAMEN DE USO DEL SUELO: Se expedirá una vez que se determine procedente el Proyecto propuesto, la Secretaría emitirá por escrito previo análisis y pago de derechos respectivo, la aprobación del Uso del Suelo (Dictamen), el cual incluirá las condicionantes que requiera el Proyecto por su magnitud, estructura, imagen o impacto urbano o social. Los requisitos para obtener el Dictamen de Uso del Suelo son:
 
-a).- Solicitud manifestando el uso que se pretende dar;
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2017)</small>
 
-b).- Acreditación de la propiedad o posesión;
+a).- Visto bueno ambiental otorgado por la Dirección de Ordenamiento Ecológico;
 
-c).- Dos copias de anteproyecto o proyecto ejecutivo con croquis de localización; y
+b).- Solicitud manifestando el uso que se pretende dar;
 
-d).- Plano Catastral actualizado verificado en campo.
+c).- Acreditación de la propiedad o posesión;
+
+d).- Dos copias de anteproyecto o proyecto ejecutivo con croquis de localización; y
+
+e).- Plano Catastral actualizado verificado en campo.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2017)</small>
+
+En el caso de la obtención del visto bueno ambiental, la Dirección encargada de expedir el dictamen de uso de suelo deberá consultar y solicitar a la Dirección de Ordenamiento Ecológico que emita la opinión técnica correspondiente.
 
 ###### Artículo 56.
 
@@ -4580,3 +4590,13 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo establecido en el presente acuerdo.
 
 TERCERO.- Publíquese en la Gaceta Municipal.
+
+P.O. 10 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO SO/AC-231/30-III-2017.- POR EL QUE SE APRUEBA LA REFORMA DEL ARTÍCULO 55, FRACCIÓN III ADICIONANDO EL INCISO A) Y RECORRIENDO LAS YA EXISTENTES DEL REGLAMENTO DE CONSTRUCCIÓN DEL MUNICIPIO DE CUERNAVACA, MORELOS”.]
+
+PRIMERO: quedan exentos de la presente reforma los establecimientos de giro rojo que pretendan asentarse en edificaciones ya construidas o de centros comerciales ya establecidos.
+
+SEGUNDO: el presente Acuerdo entrará en vigor el mismo día de su aprobación por el Cabildo.
+
+TERCERO: publíquese el presente Acuerdo en el Periódico Oficial “Tierra y Libertad, órgano de difusión del Gobierno del estado de Morelos y en la Gaceta Municipal.
