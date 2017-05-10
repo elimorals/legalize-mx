@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-del-notariado-del-estado-de-morelos-16861"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-02-26"
-last_updated: "2016-08-31"
+last_updated: "2017-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MAYO DE 2017 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 26 de febrero de 1999.
 
@@ -31,7 +33,9 @@ Al margen izquierdo un Escudo del Estado de Morelos que dice.- La Tierra Volver�
 
 JORGE MORALES BARUD, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 70 FRACCIÓN XVII DE LA CONSTITUCIÓN POLÍTICA ESTATAL, Y
 
-CONSIDERANDO:...
+CONSIDERANDO:
+
+[...]
 
 Por todo lo antes expuesto y fundado, he tenido a bien expedir el siguiente:
 
@@ -101,9 +105,13 @@ VIII.- Octava Demarcación Notarial.- Comprende los Municipios de Temixco y Xoch
 
 IX.- Novena Demarcación Notarial.- Comprende los Municipios de Jiutepec y Emiliano Zapata, con sede en Jiutepec, Morelos.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2017)</small>
 
-Previa solicitud por escrito, la Secretaría podrá autorizar a los Notarios Públicos para ejercer sus funciones en diversa Demarcación a la que les corresponde.
+En casos urgentes, los Notarios Públicos podrán ejercer sus funciones fuera de su demarcación sin previa solicitud, debiendo notificar de ello a la Secretaría dentro de las 72 horas siguientes a la actividad realizada, en la que de igual manera se expondrán las causas que motivaron la atención urgente.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2017)</small>
+
+La Secretaría podrá comunicar a los Notarios un catálogo orientador, enunciativo más no limitativo, de los casos que podrán considerarse como urgentes.
 
 ###### Artículo 6.
 
@@ -112,6 +120,10 @@ Además de lo señalado en el artículo 4 del presente Reglamento para reubicaci
 ###### Artículo 7.
 
 Las Notarías se establecerán en locales adecuados y contarán con los medios necesarios para realizar la función notarial; estarán abiertas todos los días hábiles de cada año, durante un mínimo de 8 horas diarias y el Notario establecerá su residencia dentro de la misma Demarcación o en su zona conurbada.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2017)</small>
+
+Aunado a lo establecido en el artículo 4 del presente Reglamento, los Notarios Públicos podrán solicitar a la Secretaría la autorización de un calendario semestral para salir de las instalaciones principales de su Notaría para ejercer sus funciones en oficinas alternas ubicadas en determinadas localidades dentro de la demarcación notarial que le compete, debiendo celebrar dichos actos ante su presencia y en términos de la Ley, del presente Reglamento y demás normativa aplicable.
 
 ###### Artículo 8.
 
@@ -149,19 +161,37 @@ El cumplimiento de los requisitos legales para ser aspirante a Notario, particul
 
 La convocatoria a exámenes para obtener el Registro de Aspirante a Notario, la expedirá la Secretaría y se publicará en el Periódico Oficial ''Tierra y Libertad'', por una sola vez y por tres veces consecutivas con intervalos de cinco días naturales, en uno de los diarios de mayor circulación en el Estado. En la convocatoria se determinarán las bases, el lugar, la fecha y la hora en la que se realizarán los exámenes.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2017)</small>
+
 ###### Artículo 11.
 
-Los interesados en obtener el Registro de Aspirante a Notario deberán presentar por triplicado ante la Secretaría, su solicitud acompañada de la documentación a que se refiere este Reglamento, dentro de los treinta días naturales siguientes a la última publicación de la convocatoria.
+Los interesados en obtener el Registro de Aspirante a Notario deberán presentar por triplicado ante la Secretaría, su solicitud acompañada de la documentación a que se refiere este Reglamento, dentro de los treinta días naturales siguientes a la última publicación de la convocatoria, en la solicitud el interesado deberá indicar domicilio en la ciudad de Cuernavaca, Morelos así como una dirección de correo electrónico. Los interesados deberán cubrir los derechos que por concepto de examen fije la Ley General de Hacienda del Estado de Morelos y comprobar el pago.
 
 ###### Artículo 12.
 
 Concluido el plazo señalado en el artículo anterior, la Secretaría determinará, dentro de los treinta días naturales siguientes a la recepción de las solicitudes, quiénes reunieron los requisitos exigidos por la Ley para ser examinados y enviará al Colegio copia de la documentación respectiva.
 
-La Secretaría notificará personalmente o mediante correo certificado con acuse de recibo al interesado, la procedencia o improcedencia de su solicitud. En caso afirmativo se le informará, con quince días naturales de anticipación por lo menos, el lugar, día y hora en que se celebrará el examen.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2017)</small>
+
+La Secretaría notificará personalmente o mediante correo electrónico al interesado, la procedencia o improcedencia de su solicitud. En caso afirmativo se le informará, con quince días naturales de anticipación por lo menos, el lugar, día y hora en que se celebrará el examen.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2017)</small>
 
 ###### Artículo 13.
 
-El jurado calificador de los exámenes para obtener el Registro de Aspirante a Notario y de oposición para obtener la Patente de Notario, se integrará y funcionará en los términos establecidos en el artículo 16 de la Ley.
+El jurado calificador de los exámenes para obtener el Registro de Aspirante a Notario y de oposición para obtener la Patente de Notario, se integrará y funcionará en los términos establecidos por el artículo 16 de la Ley.
+
+La aplicación de examen de Aspirante a Notario podrá suspenderse por las siguientes razones:
+
+I.- Si transcurridos quince minutos del día y hora señalados para el examen, no se encuentra presente uno o más de los miembros propietarios o suplentes del jurado;
+
+II.- Por cualquier otra que, por su naturaleza o gravedad, impida llevarla a cabo, o
+
+III. Por declaración de las autoridades competentes, previa justificación y fundamentación.
+
+Si no se presenta ninguno de los aspirantes se declarará desierto el examen.
+
+Cualquiera de las causas anteriores deberá ser asentada en un acta, misma que deberá ser remitida a las autoridades correspondientes para que fijen en su caso nueva fecha y hora para la aplicación del examen.
 
 ###### Artículo 14.
 
@@ -171,11 +201,15 @@ I.- Una prueba práctica que consistirá en la redacción de un instrumento nota
 
 El sobre que contenga el tema a desarrollar, será elegido al azar por un sustentante, el cual será designado por mayoría de los demás sustentantes; una vez seleccionado el sobre, el Presidente del Jurado solicitará al Secretario haga constar que se encuentra cerrado y de ser así, procederá a abrirlo y dar lectura en voz alta.
 
-Los sustentantes procederán a la redacción del instrumento sin asesoría y podrán consultar los Códigos y libros de consulta, previa su revisión y autorización del Jurado; y
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2017)</small>
 
-II. Una prueba teórica que consistirá en examen oral, que los miembros del Jurado harán al sustentante sobre el caso jurídico notarial al que se refiera el tema que les haya correspondido.
+Los sustentantes procederán a la redacción del instrumento sin asesoría y en forma separada, podrán consultar la normativa y los libros de consulta que considere, previa su revisión y autorización del Jurado, el examen se hará en un tiempo que no exceda de cinco horas y al concluirse, se recogerán los trabajos, y
 
-El examen se hará en un tiempo que no exceda de cinco horas y al concluirse, se recogerán los trabajos. El Jurado, a puerta cerrada calificará los exámenes y dentro de los tres días naturales siguientes comunicará a los sustentantes el resultado. Su veredicto será inapelable.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2017)</small>
+
+II.- Una prueba teórica que consistirá en examen oral, en forma separada y a puerta cerrada, que los miembros del Jurado harán al sustentante sobre el caso jurídico notarial al que se refiera el tema que les haya correspondido en el examen práctico. Los sustentantes serán examinados sucesivamente en el orden en que hayan presentado su solicitud; la intervención de cada sinodal deberá limitarse a un mínimo de 20 y un máximo de 40 minutos.
+
+El Jurado, a puerta cerrada calificará los exámenes y dentro de los tres días naturales siguientes comunicará a los sustentantes el resultado. Su veredicto será inapelable.
 
 #### SECCIÓN SEGUNDA. DE LOS REQUISITOS PARA OBTENER LA PATENTE DE NOTARIO
 
@@ -187,9 +221,17 @@ I.- El Registro de Aspirante a Notario con la correspondiente publicación del P
 
 II.- El no haber sido condenado por delito intencional.- Con el certificado de no antecedentes penales expedido por la autoridad competente, con antigüedad no mayor de 90 días previos al examen, y
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2017)</small>
 
-III.- El no haber sido separado del ejercicio del notariado.- Mediante constancia expedida por el Notario con quien ejercitó la profesión, con una antigüedad previa al examen no mayor a 60 días naturales.
+III.- El no haber sido separado del ejercicio del notariado.- Mediante constancia expedida por el Notario con quien ejerce la profesión, con una antigüedad previa al examen no mayor a 60 días naturales;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2017)</small>
+
+IV.- Manifestar su aceptación a lo inapelable del fallo del jurado, y
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2017)</small>
+
+V.- No estar impedido temporalmente por reprobación al momento en que se vaya a efectuar el examen.
 
 ###### Artículo 16.
 
@@ -201,9 +243,11 @@ II.- Las bases, el lugar, la fecha y la hora en que se realizarán los exámenes
 
 Los exámenes de oposición se efectuarán de conformidad con lo dispuesto por el artículo 20 de este ordenamiento.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2017)</small>
+
 ###### Artículo 17.
 
-Los Aspirantes a obtener la Patente de Notario deberán presentar por triplicado ante la Secretaría, su solicitud y su registro de Aspirante al Notariado o copia certificada del mismo, en un plazo de treinta días hábiles, contados a partir de la última publicación de la convocatoria.
+Los Aspirantes a obtener la Patente de Notario deberán presentar por triplicado ante la Secretaría, su solicitud y su Registro de Aspirante al Notariado o copia certificada del mismo, en un plazo de treinta días hábiles, contados a partir de la última publicación de la convocatoria. Los interesados deberán cubrir los derechos que por concepto de examen fije la Ley General de Hacienda del Estado.
 
 ###### Artículo 18.
 
@@ -233,11 +277,15 @@ No podrán formar parte del Jurado los Notarios en cuyas Notarias hayan realizad
 
 El examen de oposición para obtener la Patente de Notario, que en todo caso será uno por cada Notaría vacante consistirá en dos pruebas, una teórica y otra práctica. La proposición, autorización, sellado y custodia de los temas de examen se hará en los términos del artículo 14, fracción I, primer párrafo de este ordenamiento. Estos temas serán de los más complejos de la práctica notarial.
 
-I.- Para la prueba práctica.- Se reunirán los aspirantes en el lugar, día y hora que con quince días naturales de anticipación señale la Secretaría. En presencia de un representante de la Secretaría y de un Notario, ambos miembros del Jurado, uno de los aspirantes designado por la mayoría de los otros, tomará uno de los sobres cerrados que guarden los temas, debiendo todos los examinados desarrollar el tema sorteado, en forma separada y solo con el auxilio de un mecanógrafo (a), bajo la vigilancia de los miembros del Jurado ante quienes se haya hecho el sorteo, pudiendo consultar la legislación necesaria, previa autorización y revisión del Jurado. Para el efecto dispondrán de cinco horas corridas; al concluir el tiempo, los sinodales responsables de la vigilancia de la prueba, recogerán los trabajos hechos y los guardarán en sobres cerrados, firmados por los propios sinodales y por los interesados. Los sobres quedarán en custodia del Presidente del Jurado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2017)</small>
+
+I.- Para la prueba práctica.- Se reunirán los aspirantes en el lugar, día y hora que con quince días naturales de anticipación señale la Secretaría. En presencia de un representante de la Secretaría y de un Notario, ambos miembros del Jurado, uno de los aspirantes designado por mayoría de los otros, tomará uno de los sobres cerrados que guarden los temas, debiendo todos los examinados desarrollar el tema sorteado, en forma separada y solo con el auxilio de una persona mecanógrafa, bajo la vigilancia de los miembros del Jurado ante quienes se haya hecho el sorteo, pudiendo consultar la legislación necesaria, previa autorización y revisión del Jurado. Para el efecto dispondrán de cinco horas corridas; al concluir el tiempo, los sinodales responsables de la vigilancia de la prueba, recogerán los trabajos hechos y los guardarán en sobres cerrados, firmados por los propios sinodales y por los interesados. Los sobres quedarán en custodia del Presidente del Jurado. Los aspirantes que no se presenten oportunamente a la prueba perderán su derecho a participar en el proceso, así como a solicitar reembolso de pago alguno;
 
 Concluido el examen práctico, el Jurado determinará y hará del conocimiento de los sustentantes, el lugar en el que se efectuará el examen teórico precisando el día y la hora en que deberán presentarse.
 
-II.- La prueba teórica será pública y consistirá en preguntas que los sinodales formulen al sustentante sobre cuestiones de derecho que sean de aplicación en el ejercicio de las funciones notariales. Los aspirantes serán examinados sucesivamente en el orden en que hayan presentado su solicitud; la réplica de cada sinodal deberá limitarse a un máximo de 45 minutos.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2017)</small>
+
+II.- La prueba teórica será pública y consistirá en preguntas que los sinodales formulen al sustentante sobre cuestiones de derecho que sean de aplicación en el ejercicio de las funciones notariales. Los aspirantes serán examinados sucesivamente en el orden en que hayan presentado su solicitud; la intervención de cada sinodal deberá limitarse a un mínimo de 20 y un máximo de 40 minutos.
 
 ###### Artículo 21.
 
@@ -247,9 +295,11 @@ Los miembros del Jurado calificarán cada prueba en escala numérica del 0 al 10
 
 El Jurado a puerta cerrada determinará quien de los aprobados obtuvo la mayor puntuación para obtener la patente de Notario. En caso de empate en la puntuación, se otorgará al sustentante de mayor antigüedad. El veredicto será irrevocable. El Secretario levantará el acta correspondiente que deberá ser suscrita por los integrantes del Jurado.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2017)</small>
+
 ###### Artículo 22.
 
-Cuando el Jurado haya determinado a quien se otorgará la patente respectiva, el Presidente hará saber a los asistentes la determinación correspondiente; así mismo, comunicará el resultado del examen de oposición a la Secretaría, a quien remitirá la documentación respectiva.
+Cuando el Jurado haya determinado a quien se otorgará la patente respectiva, el Presidente hará saber a los asistentes la determinación correspondiente; asimismo, comunicará el resultado del examen de oposición a la Secretaría, a quien remitirá la documentación correspondiente para el efecto de que el Ejecutivo expida las patentes respectivas. En todo caso, de cada patente se expedirán tres ejemplares.
 
 ###### Artículo 23.
 
@@ -265,19 +315,73 @@ En caso de que ninguno de los sustentantes haya obtenido la calificación mínim
 
 Lo dispuesto en el párrafo anterior, también será aplicable para el caso de que ningún aspirante se presente a la oposición convocada.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2017)</small>
+
 ###### Artículo 26.
 
-Los sustentantes de los exámenes para obtener la Patente de Notario que no obtengan la calificación mínima, no podrán presentar otro examen hasta que hayan transcurrido seis meses.
+Los sustentantes de los exámenes para obtener la Patente de Notario que no obtengan la calificación mínima, no podrán presentar otro examen hasta que hayan transcurrido doce meses.
 
 ###### Artículo 27.
 
 Cuando sean varias las Notarías vacantes, se procederá conforme a lo dispuesto por el artículo 18 de la Ley.
 
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2017)</small>
+
+###### Artículo 27 Bis.
+
+Las patentes de aspirantes y de Notario deberán registrarse ante la autoridad competente, en el Registro Público de la Propiedad del Estado de Morelos, en el Archivo General de Notarias y en el Colegio, previo pago de los derechos que señale la Ley General de Hacienda del Estado de Morelos.
+
+Una vez registrada una patente, uno de sus ejemplares se entregará a la autoridad competente, otro al Periódico Oficial para efectos de su publicación y el otro lo conservará su titular.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2017)</small>
+
+###### Artículo 27 Ter.
+
+Los Notarios podrán ser removidos del cargo únicamente en los casos previstos en la Ley.
+
+Por su parte, la patente de los aspirantes es definitiva siempre y cuando se observe lo dispuesto en el presente Reglamento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MAYO DE 2017)</small>
+
+### CAPÍTULO III BIS. DE LA SUSPENSIÓN Y LA REVOCACIÓN DEL REGISTRO DE ASPIRANTE A NOTARIO
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2017)</small>
+
+###### Artículo 27 Quáter.
+
+Es causa de suspensión del Registro de Aspirante a Notario estar sujeto a un proceso penal, patrimonial, o de responsabilidades administrativas, hasta en tanto se dicte en, su caso, sentencia definitiva absolutoria.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2017)</small>
+
+Artículo 27 Quintus.- Son causas de revocación del Registro de Aspirante a Notario:
+
+I.- Haber sido condenado en un proceso penal, patrimonial, o de responsabilidades administrativas;
+
+II.- Haber incurrido en faltas de probidad en el ejercicio profesional del derecho o de sus funciones como Aspirante a Notario, y
+
+III.- Llevar una conducta que demerite la función notarial o al ejercicio profesional del derecho.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2017)</small>
+
+Artículo 27 Sextus.- Quedará sin efecto el registro expedido a favor de un Aspirante a Notario, si dentro del término de un año, contado a partir del día de su toma de protesta, no ejerce funciones en alguna Notaria del Estado.
+
+De igual forma, quedará sin efectos el registro del Aspirante que, por el término de un año consecutivo, suspenda sus labores sin causa debidamente justificada en la Notaria en la que se encuentre desarrollando sus actividades; en cuyo caso el Notario bajo quien se encuentre ejerciendo tendrá la obligación de notificar a la Secretaría lo conducente.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2017)</small>
+
+Artículo 27 Séptimus.- El Ejecutivo del Estado, a través de la Secretaría, realizará la declaración de revocación definitiva del Registro de Aspirante a Notario, previo dictamen del Colegio, una vez realizada la investigación que corresponda, habiendo escuchado al Aspirante de que se trate y desahogado las pruebas permitidas por la ley entre las que no podrán encontrarse la confesional por posiciones, declaración de parte y aquellas contrarias a derecho, a la moral y a las buenas costumbres.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MAYO DE 2017)</small>
+
+### CAPÍTULO III TER. DEL INICIO DE LA ACTUACIÓN NOTARIAL
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2017)</small>
+
+Artículo 27 Octavus.- Para que se pueda dar inicio al ejercicio de la función notarial y pertenecer al Colegio, se deberá rendir protesta ante el titular del Poder Ejecutivo o, en su defecto, ante el Secretario de Gobierno, en los siguientes términos:
+
+"Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del ejercicio de Notario Público que el Estado os ha conferido" el interrogado contestará: "Si protesto". Acto continuo, quien tome la protesta dirá: "Si no lo hiciereis así, que la Nación y el Estado os lo demanden".
+
 ### CAPÍTULO IV. DE LA SUPLENCIA Y ASOCIACIÓN DE NOTARIOS
-
-### CAPÍTULO V. DE LAS FUNCIONES DEL ASPIRANTE A NOTARIO ADSCRITO A NOTARÍA
-
-### CAPÍTULO VI. DEL EJERCICIO DEL NOTARIADO Y DE LA PRESTACIÓN DEL SERVICIO
 
 ###### Artículo 28.
 
@@ -291,35 +395,75 @@ Mientras subsista el convenio de asociación, ambos Notarios firmarán las razon
 
 Los convenios de asociación a que se refiere el artículo 28 de este ordenamiento, así como la terminación de los mismos, empezarán a surtir efectos al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
-### CAPÍTULO VII. DE LA ENTREGA-RECEPCIÓN Y CLAUSURA DE LAS NOTARÍAS
+### CAPÍTULO V. DE LAS FUNCIONES DEL ASPIRANTE A NOTARIO ADSCRITO A NOTARÍA
 
 ###### Artículo 31.
 
 El aspirante o aspirantes adscritos a una Notaría, actuarán de conformidad con lo dispuesto por el artículo 17, fracciones I y II de la Ley.
 
-### CAPÍTULO VIII. DE LA VIGILANCIA E INSPECCIÓN DE LAS NOTARÍAS
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
+### CAPÍTULO VI. DEL EJERCICIO DEL NOTARIADO Y DE LA PRESTACIÓN DEL SERVICIO
 
 ###### Artículo 32.
 
 Los Notarios deben guardar reserva sobre lo pasado ante ellos, salvo los informes que obligatoriamente establezcan las leyes respectivas y los actos que deban inscribirse en el Registro Público, en cuyo caso podrán enterarse las personas que sin haber intervenido en los mismos, a juicio del Notario, tengan interés legítimo en el asunto.
 
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2017)</small>
+
+###### Artículo 32 Bis.
+
+El informe mensual a que se refiere la fracción IV, del artículo 28 de la Ley, así como el artículo anterior, deberá contener, cuando menos, lo siguiente:
+
+I.- El número total de actividades relacionadas a la función notarial realizadas durante el periodo que corresponda.
+
+II.- El número total de escrituras públicas asentadas, relacionadas a inmuebles en el mes que corresponde;
+
+III.- Los datos de las escrituras públicas asentadas durante el mes, tales como número de testimonio, fecha, acto jurídico celebrado, así como los costos por impuestos y honorarios respectivos;
+
+IV.- El número total de las contribuciones que, en el mes que corresponde, deban ser pagadas mediante retención, las diversas que hayan sido retenidas por el Notario y las que se encuentren debidamente enteradas ante la autoridad fiscal correspondiente, y
+
+V.- En el caso de las retenciones realizadas, indicar, en el informe del mes que corresponda, la fecha en la que se realizó el entero ante la autoridad fiscal.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2017)</small>
+
 ###### Artículo 33.
 
-El Notario autorizará definitivamente la escritura al pie de la misma, cuando se den los supuestos del artículo 64 de la Ley y se hayan enterado los impuestos correspondientes. Si el Notario hubiese fallecido y en la escritura aparece la autorización preventiva con la razón "ante mi", su firma y su sello, el director o encargado del Archivo General de Notarías, podrá autorizarla definitivamente, una vez que se hubiesen enterado los impuestos mencionados.
+El Notario autorizará definitivamente la escritura al pie de la misma, cuando se den los supuestos del artículo 64 de la Ley y se hayan enterado los impuestos correspondientes. Asimismo, si durante el transcurso del tiempo el Notario hiciere cambios significativos a su firma, deberá dar aviso de tal circunstancia a la Secretaría para el registro y anotación respectiva.
+
+Si el Notario hubiese fallecido y en la escritura aparece la autorización preventiva con la razón "ante mí", su firma y su sello, la persona titular del Archivo General de Notarías podrá autorizarla definitivamente, una vez que se hubiesen enterado los impuestos mencionados.
 
 ###### Artículo 34.
 
 Los instrumentos públicos otorgados ante funcionarios extranjeros, una vez legalizados y, en su caso, traducidos por perito oficial, podrán protocolizarse en el Estado de Morelos, salvo que el país en el cual se hubiesen otorgado dichos instrumentos, hayan suscrito el Convenio de la Haya, o se hubiere adherido al mismo; en este supuesto, no se requerirá de la protocolización mencionada, por lo que el instrumento respectivo tendrá efectos jurídicos en el Estado con el solo requisito de la apostilla y, en su caso, previa traducción.
 
-### CAPÍTULO IX. DEL PROCEDIMIENTO PARA IMPONER SANCIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MAYO DE 2017)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+### CAPÍTULO VI BIS. DE LA TRAMITACIÓN DE LOS PROCEDIMIENTOS NO CONTENCIOSOS
 
-### CAPÍTULO X. DEL COLEGIO DE NOTARIOS
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 50], P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+###### Artículo 34 Bis.
+
+Para la tramitación del divorcio administrativo ante Notario serán aplicables las disposiciones relativas del Código Familiar y del Código Procesal Familiar, ambos para el Estado de Morelos, en lo no previsto por la Ley y por este Reglamento.
+
+Al realizar dicho divorcio administrativo el Notario deberá declarar solemnemente la disolución del vínculo matrimonial, asentándose lo conducente en la escritura respectiva.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2017)</small>
+
+###### Artículo 34 Ter.
+
+Cuando se trate del divorcio administrativo ante Notario en el que se encuentre involucrada una persona extranjera, para efectos de su identificación se estará a lo dispuesto por la Ley de Migración.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2017)</small>
+
+###### Artículo 34 Quáter.
+
+Para materializar el acto a que hace referencia el artículo 503 BIS del Código Procesal Familiar para el Estado de Morelos, el Notario establecerá, en el convenio respectivo la disolución de la sociedad conyugal y su liquidación, pudiendo hacer constar los actos que se deriven de la misma en una escritura distinta a la de la declaración de la disolución del vínculo matrimonial; lo anterior, siempre que los interesados así lo decidan y soliciten al Notario, conforme a sus intereses.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2017)</small>
+
+Artículo 34 Quintus.- El Notario una vez inscrito el acto en el protocolo respectivo, mandará copia de la escritura donde conste la declaración de divorcio al Oficial del Registro Civil de la jurisdicción, en la que el matrimonio se efectuó, a efecto de su inscripción y para que se realice la anotación marginal correspondiente, de conformidad con lo establecido por el artículo 503 BIS del Código Procesal Familiar para el Estado de Morelos.
+
+### CAPÍTULO VII. DE LA ENTREGA-RECEPCIÓN Y CLAUSURA DE LAS NOTARÍAS
 
 ###### Artículo 35.
 
@@ -333,15 +477,17 @@ III.- Los expedientes judiciales que obren en poder del Notario, y
 
 IV.- Los apéndices, índices y en general, la documentación que obre en la Notaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2017)</small>
+
 ###### Artículo 36.
 
-En caso de muerte del Notario, el albacea de su sucesión, con intervención de la Secretaría y de un Notario designado por el Colegio, tomará posesión de los bienes muebles que hayan pertenecido al Notario y la Secretaría de los protocolos, apéndices, índices y demás documentación relacionada con los asuntos en trámite que obren en la Notaría. Igualmente, el albacea tomará posesión del inmueble en donde se encuentre establecida la misma, siempre que dicho mueble haya sido propiedad del Notario, de su familia o de algún tercero.
+En caso de muerte del Notario, el albacea de su sucesión, con intervención de la Secretaría y de un Notario designado por el Colegio, tomará posesión de los bienes muebles que hayan pertenecido al Notario y la Secretaría, de los protocolos, apéndices, índices y demás documentación relacionada con los asuntos en trámite que obren en la Notaría, para su oportuna remisión al Archivo General de Notarías, o para lo que en cada caso se determine por la autoridad competente. Igualmente, el albacea tomará posesión del inmueble en donde se encuentre establecida la misma, siempre que dicho inmueble haya sido propiedad del Notario, de su familia o de algún tercero.
 
 La Secretaría procederá en los términos establecidos en los artículos 135 y 136 de la Ley.
 
-### CAPÍTULO XI. DEL ARANCEL DE HONORARIOS Y GASTOS NOTARIALES
+### CAPÍTULO VIII. DE LA VIGILANCIA E INSPECCIÓN DE LAS NOTARÍAS
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 51], P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 37.
 
@@ -479,7 +625,11 @@ II.- Actas de inspecciones generales y especiales;
 
 III.- Avisos de cambio de domicilio, y
 
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2017)</small>
+
 IV.- Impresión del sello en uso.
+
+Los notarios utilizarán un sólo sello en sus actuaciones, que será el registrado ante la Secretaría.
 
 ###### Artículo 47.
 
@@ -493,7 +643,11 @@ II.- Lugar de residencia, domicilio y números telefónicos del Notario y de la 
 
 Los registros anteriores deberán contenerse en libros y ordenarse alfabéticamente por Demarcaciones Notariales y por el número de Notaría.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
+### CAPÍTULO IX. DEL PROCEDIMIENTO PARA IMPONER SANCIONES
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], P.O. 7 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 49.
 
@@ -501,31 +655,41 @@ Los Notarios Públicos serán responsables ante el Ejecutivo del Estado por las 
 
 La responsabilidad administrativa a que se refiere este capítulo podrá derivarse como resultado de una visita de inspección general o por la presentación de queja.
 
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2017)</small>
+
+###### Artículo 49 Bis.
+
+La Secretaría, en cualquier momento, para hacer cumplir sus acuerdos y resoluciones, así como las demás determinaciones del Ejecutivo del Estado, podrá emplear indistintamente y sin orden de prelación los medios de apremio que considere eficaces, entre los que enunciativamente se encuentran:
+
+I.- La amonestación;
+
+II.- La multa;
+
+III.- El auxilio de la fuerza pública, y
+
+IV.- La fractura de cerraduras si fuere necesario.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2017)</small>
 
 ###### Artículo 50.
 
-La Secretaría a través de la Unidad Administrativa que corresponda de acuerdo a su Reglamento Interior iniciará y tramitará hasta su resolución, las quejas que los interesados presenten en contra de los Notarios, así como las posibles irregularidades en que estos incurran, derivadas de las visitas de inspecciones generales que se practiquen en sus Notarías, de acuerdo con el procedimiento contenido en los siguientes artículos.
+La Secretaría a través de la Unidad Administrativa que corresponda de acuerdo a su Reglamento Interior iniciará y tramitará hasta su resolución, las quejas o los procedimientos que de manera oficiosa se lleven a cabo, así como las que los interesados presenten en contra de los Notarios, así como las posibles irregularidades en que estos incurran, derivadas de las visitas de inspecciones generales que se practiquen en sus Notarias, de acuerdo con el procedimiento contenido en los siguientes artículos.
 
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2017)</small>
 
 ###### Artículo 51.
 
-Tratándose de quejas, únicamente se procederá a petición de parte; éstas deberán ser presentadas por escrito dentro del término de dos años, contados a partir de la fecha del acto que se reclame o haya tenido conocimiento de él o de su ejecución. La sola presentación de la queja, interrumpirá la prescripción.
-
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
-
-###### Artículo 52.
+Tratándose de quejas, deberán ser presentadas por escrito dentro del término de dos años, contados a partir de la fecha del acto que se reclame o haya tenido conocimiento de él o de su ejecución por quien acredite haber intervenido en el acto notarial. La sola presentación de la queja interrumpirá la prescripción.
 
 Todo escrito de queja deberá contener:
 
-I.- Nombre y domicilio del promovente o de quien promueva en su nombre; en este caso, deberá acreditar la personalidad que ostente en términos de la legislación civil vigente en el Estado;
+I.- Nombre y domicilio del promovente o de quien promueva en su nombre; en este caso, deberá acreditar la personalidad que ostente en términos de la legislación civil aplicable. El domicilio que señale para efectos de oír y recibir notificaciones deberá estar en la ciudad de Cuernavaca, Morelos;
 
 II.- Nombre y número del Notario en contra de quien se formule la queja;
 
 III.- Nombre y domicilio del tercero perjudicado, si lo hubiere;
 
-IV.- Una relación clara y suscinta (sic) de los hechos que sean antecedentes de la queja;
+IV.- Una relación clara y suscinta de los hechos que sean antecedentes de la queja;
 
 V.- La fecha en que haya tenido conocimiento del acto;
 
@@ -533,11 +697,19 @@ VI.- El ofrecimiento de las pruebas que obren en su poder con las que pretenda a
 
 VII.- Firma del promovente.
 
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2017)</small>
+
+###### Artículo 52.
+
+Cuando la Secretaría advierta la existencia de hechos que afecten a algún particular y que sean motivo de queja en contra de un Notario, podrá iniciar de oficio y a través de la Unidad Administrativa respectiva el procedimiento correspondiente dentro del término de tres meses, contados a partir de que dicha Secretaría conozca del hecho.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2017)</small>
 
 ###### Artículo 53.
 
-La autoridad dentro de los cinco días hábiles siguientes a la recepción del escrito, examinará la queja y si encontrare motivo manifiesto de improcedencia, la desechará inmediatamente; si hubiere alguna irregularidad en cuanto a los requisitos establecidos en el artículo anterior, o en su propio escrito de queja, mandará a prevenir al promovente, a efecto de que en el invariable término de tres días hábiles, haga las aclaraciones que correspondan, si no llenare los requisitos o no se hicieren la (sic) aclaraciones conducentes, se tendrá por no puesta.
+La autoridad dentro de los cinco días hábiles siguientes a la recepción del escrito, examinará la queja y si encontrare motivo manifiesto de improcedencia, la desechará inmediatamente; si hubiere alguna irregularidad en cuanto a los requisitos establecidos en el artículo 51, o en su propio escrito de queja, mandará a prevenir al promovente, a efecto de que en el invariable término de tres días hábiles, haga las aclaraciones que correspondan, si no cubren los requisitos o no se hicieren la (sic) aclaraciones conducentes, se tendrá por no puesta.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
 
 Fuera de los casos a que se refiere el párrafo anterior, la autoridad emitirá un acuerdo en el que admitirá la queja, ordenará su inscripción en el libro de registro, iniciará un expediente y notificará al Notario a efecto de que en un término que no exceda de diez días hábiles, comparezca a manifestar lo que estime pertinente y aporte las pruebas que a su juicio considere conveniente, apercibiéndole que de no hacerlo se le tendrá por contestados los hechos de la queja en sentido afirmativo.
 
@@ -631,6 +803,10 @@ La responsabilidad administrativa, penal o civil en que incurran los Notarios p�
 
 (REUBICADO [N. DE E. ANTES CAPITULO IX], P.O. 7 DE SEPTIEMBRE DE 2005)
 
+### CAPÍTULO X. DEL COLEGIO DE NOTARIOS
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 50], P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+
 ###### Artículo 63.
 
 Son atribuciones del Colegio además de las señaladas en la Ley, las siguientes:
@@ -645,7 +821,9 @@ IV.- Organizar a los Notarios para el cumplimiento de las obligaciones derivadas
 
 V.- Realizar cursos de actualización, congresos y conferencias tendientes a la superación del notariado;
 
-VI.- Emitir los dictámenes a que se refiere el artículo 57 de este Reglamento;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2017)</small>
+
+VI.- Emitir los dictámenes a que se refiere este Reglamento;
 
 VII.- Fomentar las relaciones con otras instituciones similares tanto del país como del extranjero;
 
@@ -654,6 +832,10 @@ VIII.- Fijar a sus miembros las cuotas necesarias para el cumplimiento de sus fi
 IX.- Vigilar el cumplimiento de la Ley, del presente ordenamiento y de sus Estatutos.
 
 (REUBICADO [N. DE E. ANTES CAPITULO X], P.O. 7 DE SEPTIEMBRE DE 2005)
+
+### CAPÍTULO XI. DEL ARANCEL DE HONORARIOS Y GASTOS NOTARIALES
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 51], P.O. 7 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 64.
 
@@ -691,7 +873,7 @@ JORGE ARTURO GARCÍA RUBÍ
 
 RÚBRICAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 7 DE SEPTIEMBRE DE 2005.
 
@@ -724,3 +906,13 @@ PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publi
 SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
 
 TERCERA. Las modificaciones realizadas en virtud del presente Decreto podrán ser aplicables a los trámites o procedimientos que se encuentren en desarrollo o pendientes con relación a la Convocatoria al examen para obtener el registro de aspirante al notariado que se formuló para las personas que reúnan los requisitos señalados (sic) la Ley del Notariado del Estado, publicada en el Periódico Oficial "Tierra y Libertad", número 5414, de 20 de julio de 2016.
+
+P. O. 10 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS”.]
+
+PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+TERCERA. Las disposiciones procesales que se incorporan al texto del presente Reglamento por virtud del presente Decreto podrán ser aplicadas a los asuntos que aún se encuentren en trámite o pendientes por resolver por la autoridad competente.
