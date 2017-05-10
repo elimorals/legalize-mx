@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-120888
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-04-12"
-last_updated: "2017-04-12"
+last_updated: "2017-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120888&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2017-04-05"
 ---
 # ESTATUTO ORGANICO DE LA COMISION FEDERAL DE ELECTRICIDAD
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE MAYO DE 2017 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 10 DE MAYO DE 2017.]</small>
 
 Estatuto publicado en la Segunda Sección al Número 8 del Diario Oficial de la Federación, el miércoles 12 de abril de 2017.
 
@@ -193,7 +193,9 @@ D. Unidades de Negocio:
 
 I. CFE TELECOM;
 
-II. Laboratorio de Pruebas de Equipo y Materiales;
+> <small>(F. DE E., D.O.F. 10 DE MAYO DE 2017)</small>
+
+II. Laboratorio de Pruebas de Equipos y Materiales;
 
 III. Programa de Ahorro de Energía del Sector Eléctrico;
 
@@ -231,7 +233,9 @@ I. CFE Calificados S.A. de C.V.;
 
 II. CFEnergía S.A. de C.V.;
 
-III. CFE Internacional LLC; y
+> <small>(F. DE E., D.O.F. 10 DE MAYO DE 2017)</small>
+
+III. CFE International LLC; y
 
 IV. CFE Intermediación de Contratos Legados S.A. de C.V.
 
@@ -491,7 +495,9 @@ VII. Delegar funciones a los titulares de las áreas bajo su dirección, sin per
 
 VIII. Validar la información necesaria de su respectiva área para la elaboración del informe anual de la Comisión, sus empresas productivas subsidiarias y empresas filiales;
 
-IX. Coordinar los asuntos y establecer mecanismos de colaboración con las empresas productivas subsidiarias de la Comisión y, en su caso, empresas filiales;
+> <small>(F. DE E., D.O.F. 10 DE MAYO DE 2017)</small>
+
+IX. Establecer mecanismos de colaboración con las empresas productivas subsidiarias de la Comisión y, en su caso, empresas filiales;
 
 X. Proporcionar la información solicitada por autoridad competente o por otras áreas de la Comisión y expedir constancias de los documentos que obren en sus archivos. Asimismo, expedir, a petición del interesado, copias certificadas de los documentos que obren en los archivos de las respectivas áreas de la Comisión, en términos de lo dispuesto en las disposiciones jurídicas aplicables;
 
@@ -575,9 +581,11 @@ VII. Emitir opinión sobre los proyectos de normatividad y de políticas general
 
 VIII. Someter a consideración del Director General, para aprobación del Consejo, la creación, fusión o escisión de empresas productivas subsidiarias, así como de empresas filiales.
 
+> <small>(F. DE E., D.O.F. 10 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 28.
 
-A la Dirección Corporativa de Negocios Comerciales, además de las funciones genéricas señaladas en el presente Estatuto, le corresponden, en relación con las actividades de suministro básico, suministro calificado, de proveeduría de insumos primarios, así como las Unidades de Negocio denominadas CFE TELECOM, Laboratorio de Pruebas de Equipo y Materiales, y Programa de Ahorro de Energía del Sector Eléctrico, las siguientes:
+A la Dirección Corporativa de Negocios Comerciales, además de las funciones genéricas señaladas en el presente Estatuto, le corresponden, en relación con las actividades de suministro básico, suministro calificado, de proveeduría de insumos primarios, así como las Unidades de Negocio denominadas CFE TELECOM, Laboratorio de Pruebas de Equipos y Materiales, y Programa de Ahorro de Energía del Sector Eléctrico, las siguientes:
 
 I. Proponer metas estratégicas e indicadores clave para el desempeño de los principales proyectos, productos o servicios, conforme al Plan de Negocios;
 
@@ -645,7 +653,9 @@ IV. Proponer al Director General la modificación a las estructuras orgánicas y
 
 V. Coordinar la implementación de las políticas de remuneraciones y de evaluación al desempeño del personal de la Comisión y sus empresas productivas subsidiarias;
 
-VI. Dirigir la política institucional de seguridad industrial, salud en el trabajo; inclusión, no discriminación y equidad de género;
+> <small>(F. DE E., D.O.F. 10 DE MAYO DE 2017)</small>
+
+VI. Dirigir la política institucional de seguridad y salud en el trabajo, inclusión, no discriminación y equidad de género;
 
 VII. Dirigir la capacitación, el adiestramiento, la certificación y el desarrollo profesional de los trabajadores;
 
@@ -847,7 +857,9 @@ I. Coordinar la integración de la información financiera que las empresas fili
 
 II. Emitir opiniones sobre las modificaciones a las políticas contables de la Comisión y sus empresas productivas subsidiarias que se sometan a la aprobación del Consejo;
 
-III. Coordinar e integrar anualmente, la propuesta global de financiamiento de la Comisión, incluyendo la que corresponda a sus empresas productivas subsidiarias para aprobación del Consejo y posterior envío a la Secretaría de Hacienda y Crédito Público; y
+> <small>(F. DE E., D.O.F 10 DE MAYO DE 2017)</small>
+
+III. Coordinar e integrar anualmente el informe sobre la situación financiera, así como de los planes de inversión de la Comisión, sus empresas productivas subsidiarias y empresas filiales; y
 
 IV. Elaborar la información correspondiente a la Subdirección para el informe anual sobre el desempeño de la Comisión.
 
@@ -863,7 +875,9 @@ III. Establecer políticas y criterios de contratación de servicios financieros
 
 IV. Instrumentar la estrategia e implementación de los lineamientos de la administración de riesgos financieros de la Comisión, sus empresas productivas subsidiarias y, en su caso, empresas filiales;
 
-V. Coordinar e integrar anualmente el informe sobre la situación financiera, así como de los planes de inversión de la Comisión, sus empresas productivas subsidiarias y empresas filiales; y
+> <small>(F. DE E., D.O.F. 10 DE MAYO DE 2017)</small>
+
+V. Coordinar e integrar anualmente, la propuesta global de financiamiento de la Comisión, incluyendo la que corresponda a sus empresas productivas subsidiarias para aprobación del Consejo y posterior envío a la Secretaría de Hacienda y Crédito Público; y
 
 VI. Elaborar la información correspondiente a la Subdirección para el informe anual sobre el desempeño de la Comisión.
 
@@ -1079,9 +1093,11 @@ El Consejo, a propuesta del Director General, aprobará la creación, modificaci
 
 CFE TELECOM es la Unidad de Negocio responsable de la prestación o provisión de servicios de telecomunicaciones, en términos de las leyes aplicables a la materia.
 
+> <small>(F. DE E., D.O.F. 10 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 58.
 
-El Laboratorio de Pruebas de Equipo y Materiales es la Unidad de Negocio responsable de la creación de valor a través del aprovechamiento, administración y comercialización de servicios relacionados a soluciones de ingeniería especializada, pruebas de laboratorio y campo a equipos y materiales, así como servicios de gestión de calidad de suministros y sistemas en el sector energético nacional y extranjero.
+El Laboratorio de Pruebas de Equipos y Materiales es la Unidad de Negocio responsable de la creación de valor a través del aprovechamiento, administración y comercialización de servicios relacionados a soluciones de ingeniería especializada, pruebas de laboratorio y campo a equipos y materiales, así como servicios de gestión de calidad de suministros y sistemas en el sector energético nacional y extranjero.
 
 ###### ARTÍCULO 59.
 
