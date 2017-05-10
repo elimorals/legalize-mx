@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-unidad-de-transparencia-y-83053"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-28"
-last_updated: "2011-09-28"
+last_updated: "2017-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DE LA UNIDAD DE TRANSPARENCIA Y RENDICION DE CUENTAS, DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE TRANSPARENCIA Y RENDICIÓN DE CUENTAS, PUBLICADO EN EL P.O. DE 10 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA UNIDAD DE TRANSPARENCIA Y RENDICION DE CUENTAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2017 (DEROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 28 de septiembre de 2011.
 
-Lic. Mario López Valdez, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, en ejercicio de las facultades que me confieren los artículos 65, fracciones I, XIV Y XXIV, 66, párrafo primero, y 72 de la Constitución Política Local, y con fundamento en lo dispuesto por los artículos 1°, 2°, 3°, 7°, 9°, 14 y demás relativos de la Ley Orgánica de la Administración Pública del Estado de Sinaloa y 1°, 2°, 6°, 7°, 8°, 9°, 10, 13, 48, fracción II, 51 y 52 del Reglamento Orgánico de la Administración Pública Estatal de Sinaloa, he tenido a bien expedir el siguiente:
+Lic. Mario López Valdez, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, en ejercicio de las facultades que me confieren los artículos 65, fracciones I, XIV y XXIV, 66, párrafo primero, y 72 de la Constitución Política Local, y con fundamento en lo dispuesto por los artículos 1°, 2°, 3°, 7°, 9°, 14 y demás relativos de la Ley Orgánica de la Administración Pública del Estado de Sinaloa y 1°, 2°, 6°, 7°, 8°, 9°, 10, 13, 48, fracción II, 51 y 52 del Reglamento Orgánico de la Administración Pública Estatal de Sinaloa, he tenido a bien expedir el siguiente:
 
 Reglamento Interior de la Unidad de Transparencia y Rendición de Cuentas
 
@@ -569,7 +571,7 @@ XVII. Turnar a la Dirección de Responsabilidades del Servidor Público, los exp
 
 XVIII. Efectuar y realizar las auditorías, inspecciones e investigaciones necesarias para cumplir con el programa de trabajo autorizado, así como las complementarias y en alcance de las auditorías practicadas, o bien, las solicitadas por otra unidad administrativa, aportando oportunamente los resultados obtenidos;
 
-XIX. Expedir las copias certificadas que se requieran de la documentación a la que tenga acceso con motivo de .las auditorías y visitas de inspección que se practiquen y que obren en los archivos de la Dirección a su cargo; y,
+XIX. Expedir las copias certificadas que se requieran de la documentación a la que tenga acceso con motivo de las auditorías y visitas de inspección que se practiquen y que obren en los archivos de la Dirección a su cargo; y,
 
 XX. Las demás que le confieran las leyes, decretos, reglamentos y acuerdos, y aquellos que expresamente le encomiende el Titular de la Unidad o el Coordinador de Contraloría.
 
@@ -962,3 +964,15 @@ Lic. Armando Villareal Ibarra
 El Titular de la Unidad de Transparencia y Rendición de Cuentas
 
 Lic. Juan Pablo Yamuni Robles
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE TRANSPARENCIA Y RENDICIÓN DE CUENTAS."]
+
+Artículo Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se deroga el Reglamento Interior de la Unidad de Transparencia y Rendición de Cuentas, de fecha 28 de septiembre de 2011, publicado en el Periódico Oficial "El Estado de Sinaloa", número 116, así como todas aquellas disposiciones que se opongan o sean contrarias al presente Reglamento.
+
+Artículo Tercero.- La Secretaría formulará dentro de un plazo de sesenta días hábiles, contados a partir de la entrada en vigor de este Reglamento, su manual de organización, de procedimientos y de servicios al público.
