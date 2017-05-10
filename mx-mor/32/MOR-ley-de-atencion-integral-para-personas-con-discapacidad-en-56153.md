@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-atencion-integral-para-personas-con-discapacidad-en-5615
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2017-03-01"
+last_updated: "2017-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ATENCIÓN INTEGRAL PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
 
@@ -85,9 +85,9 @@ IV.- La Comisión Estatal.- La Comisión Estatal de Valoración de las Personas 
 
 V.- Consejo.- Consejo Estatal para la Atención Integral de las Personas con Discapacidad;
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2017)</small>
 
-VI.- Lengua de señas.- Lengua de una comunidad de discapacitados auditivos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral;
+VI.- Lenguaje de Señas Mexicana.- Lengua de una comunidad de discapacitados auditivos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral.
 
 > <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
 
@@ -151,7 +151,7 @@ XXI.- Trabajo Protegido.- Aquel que realizan las personas con discapacidad menta
 
 > <small>(ADICIONADA, P.O. 23 DE ENERO DE 2013)</small>
 
-XXII.- Discriminación.- El término “Discriminación contra las personas con discapacidad” significa toda distinción, exclusión o restricción basada en una discapacidad, antecedente de discapacidad, consecuencia de discapacidad anterior o percepción de una discapacidad presente o pasada, que tenga el efecto o propósito de impedir o anular el reconocimiento, goce o ejercicio por parte de las personas con discapacidad, de sus derechos humanos y libertades fundamentales; no constituye discriminación la distinción o preferencia adoptada por el estado a fin de promover la integración social o el desarrollo personal de las personas con discapacidad, siempre que la distinción o preferencia no limite en sí misma el derecho a la igualdad de las personas con discapacidad y que los individuos con discapacidad no se vean obligados a aceptar tal distinción o preferencia. La declaratoria de interdicción, cuando sea necesaria y apropiada para su bienestar, no constituirá discriminación.
+XXII.- Discriminación.- El término "Discriminación contra las personas con discapacidad" significa toda distinción, exclusión o restricción basada en una discapacidad, antecedente de discapacidad, consecuencia de discapacidad anterior o percepción de una discapacidad presente o pasada, que tenga el efecto o propósito de impedir o anular el reconocimiento, goce o ejercicio por parte de las personas con discapacidad, de sus derechos humanos y libertades fundamentales; no constituye discriminación la distinción o preferencia adoptada por el estado a fin de promover la integración social o el desarrollo personal de las personas con discapacidad, siempre que la distinción o preferencia no limite en sí misma el derecho a la igualdad de las personas con discapacidad y que los individuos con discapacidad no se vean obligados a aceptar tal distinción o preferencia. La declaratoria de interdicción, cuando sea necesaria y apropiada para su bienestar, no constituirá discriminación.
 
 ### CAPÍTULO III. De la Competencia
 
@@ -1144,3 +1144,11 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medída y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 10 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHOCIENTOS CUARENTA Y UNO POR EL CUAL SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 3 DE LA LEY DE ATENCIÓN INTEGRAL PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
