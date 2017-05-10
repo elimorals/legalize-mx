@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-115838"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-08-05"
-last_updated: "2016-08-05"
+last_updated: "2017-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115838&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-08-03"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE MAGISTRADO DE CIRCUITO, MEDIANTE CONCURSOS INTERNOS DE OPOSICION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE MAGISTRADO DE CIRCUITO MEDIANTE CONCURSOS INTERNOS DE OPOSICIÓN, PUBLICADO EN EL D.O.F. DE 10 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE MAGISTRADO DE CIRCUITO, MEDIANTE CONCURSOS INTERNOS DE OPOSICIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2017 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 9 de agosto de 2016.
 
@@ -480,3 +482,19 @@ TERCERO. Se abroga el Acuerdo General 36/2015, del Pleno del Consejo de la Judic
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece el procedimiento y lineamientos generales para acceder al cargo de magistrado de Circuito, mediante concursos internos de oposición, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de tres de agosto de dos mil dieciséis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Rosa Elena González Tirado, Martha María del Carmen Hernández Álvarez, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- Ciudad de México, a tres de agosto de dos mil dieciséis.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. DE 10 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE MAGISTRADO DE CIRCUITO MEDIANTE CONCURSOS INTERNOS DE OPOSICIÓN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se instruye a las Direcciones Generales de Tecnologías de la Información y de Comunicación Social, para que, en el ámbito de sus atribuciones, den cumplimiento a lo establecido en el presente acuerdo.
+
+TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en la página web del Instituto.
+
+CUARTO. Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece el procedimiento y lineamientos generales para acceder al cargo de Magistrado de Circuito, mediante concursos internos de oposición, publicado en el Diario Oficial de la Federación el cinco de agosto de dos mil dieciséis.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
