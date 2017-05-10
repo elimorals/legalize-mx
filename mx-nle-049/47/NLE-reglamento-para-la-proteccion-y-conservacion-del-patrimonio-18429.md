@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-proteccion-y-conservacion-del-patrimonio-184
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-03-20"
-last_updated: "2000-03-20"
+last_updated: "2017-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "NLE"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE PROTECCIÓN Y CONSERVACIÓN DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL MUNICIPIO DE SANTIAGO, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 10 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-REGLAMENTO PARA LA PROTECCION Y CONSERVACION DEL PATRIMONIO HISTORICO Y CULTURAL DE LA ZONA CONSIDERADA DE RESGUARDO PATRIMONIAL EN EL MUNICIPIO DE SANTIAGO, N. L., EN CUMPLIMIENTO AL ACUERDO DEL R. AYUNTAMIENTO DE FECHA 20 DE SEPTIEMBRE DE 1999, ACTA NO. 42
+REGLAMENTO PARA LA PROTECCIÓN Y CONSERVACIÓN DEL PATRIMONIO HISTÓRICO Y CULTURAL DE LA ZONA CONSIDERADA DE RESGUARDO PATRIMONIAL EN EL MUNICIPIO DE SANTIAGO, N. L., EN CUMPLIMIENTO AL ACUERDO DEL R. AYUNTAMIENTO DE FECHA 20 DE SEPTIEMBRE DE 1999, ACTA NO. 42
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 20 de marzo de 2000.
 
@@ -484,3 +484,19 @@ PRESIDENTE MUNICIPAL
 C. C.P. POMPEYO DE JESÚS AYALA FERNANDEZ
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 07 DE ABRIL DE 2017, REGLAMENTO DE PROTECCIÓN Y CONSERVACIÓN DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL MUNICIPIO DE SANTIAGO, N.L.".]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Queda abrogado el "Reglamento para la Protección y Conservación del Patrimonio Histórico y Cultural de la Zona Considerada de Resguardo Patrimonial en el Municipio de Santiago, N. L.", publicado en el Periódico Oficial del Estado el 20 de marzo del 2000, así como todas aquellas disposiciones que se opongan al presente Reglamento.
+
+Tercero.- Los casos no previstos en este ordenamiento se sujetarán a lo establecido en la Ley de Gobierno Municipal del Estado de Nuevo León, al Reglamento Orgánico de la Administración Pública Municipal de Santiago, Nuevo León, a la Ley del Patrimonio Cultural del Estado de Nuevo León, a la Ley de Desarrollo Urbano del Estado de Nuevo León y a la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos y demás normatividad aplicable.
+
+Cuarto.- La Comisión de Protección y Conservación del Patrimonio Histórico y Cultural de Santiago, Nuevo León, regulada por el presente Reglamento, será el organismo técnico, de consulta y de auxilio para su debida observancia, por lo tanto queda sin efecto cualquier otro organismo o Comisión que para un fin similar se haya constituido anteriormente en el Municipio.
+
+Quinto.- La Comisión de Protección y Conservación del Patrimonio Histórico y Cultural, a que se refiere el presente Reglamento, deberá de instalarse en un término no mayor de 60 días hábiles a partir del inicio de su vigencia.
