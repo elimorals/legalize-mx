@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-fiscalia-general-del-estado-de-chiapas-12033
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-03-08"
-last_updated: "2017-03-08"
+last_updated: "2017-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 8 de marzo de 2017.
 
@@ -461,21 +461,13 @@ VI. La formulación de acusación o no acusación.
 
 VII. El acuerdo para el desistimiento total o parcial del ejercicio de la acción penal, por parte del Ministerio Público.
 
-(NOTA: EL 5 DE MARZO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 22/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE MARZO DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 147, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### Artículo 15.
 
-Contra el no ejercicio de la acción penal, procede el recurso de inconformidad.
-
-La materia del recurso se limitará exclusivamente a la decisión de las cuestiones tomadas en cuenta para determinar el no ejercicio de la acción penal, sin poder comprender otras.
-
-El recurso a que se refiere este artículo, se interpondrá dentro del plazo de 10 días hábiles, contados a partir de la fecha en que se le notifique a la víctima u ofendido.
-
-(NOTA: EL 5 DE MARZO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 22/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE MARZO DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 147, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, 10 DE MAYO DE 2017)
 
 ###### Artículo 16.
 
-El Fiscal Jurídico, resolverá en definitiva el recurso a que se refiere el artículo anterior, dentro del término de quince días hábiles, contados a partir de que reciba el mismo.
+(DEROGADO, 10 DE MAYO DE 2017)
 
 ### CAPÍTULO IV. DE LA SUPLENCIA Y REPRESENTACIÓN DEL FISCAL GENERAL DEL ESTADO
 
@@ -1590,3 +1582,17 @@ Dado en el Salón de Sesiones Sergio Armando Valls Hernández del Honorable Cong
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 07 días del mes de Marzo del año Dos Mil Diecisiete.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 171 POR EL QUE DEROGAN LOS ARTÍCULOS 15 Y 16 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIAPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Derogan todas las disposiciones que se opongan al presente Decreto.
