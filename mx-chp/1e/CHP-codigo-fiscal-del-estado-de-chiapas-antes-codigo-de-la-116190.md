@@ -4,7 +4,7 @@ identifier: "CHP-codigo-fiscal-del-estado-de-chiapas-antes-codigo-de-la-116190"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-18"
-last_updated: "2016-12-31"
+last_updated: "2017-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # CODIGO FISCAL DEL ESTADO DE CHIAPAS -- ANTES CODIGO DE LA HACIENDA PUBLICA PARA EL ESTADO DE CHIAPAS --
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 2018 EN EL P.O. DEL ESTADO DE CHIAPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2017.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de Mayo del 2016.
 
@@ -239,9 +241,11 @@ IX. El Director de Auditoría Fiscal.
 
 X. Los Delegados de Hacienda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2017)</small>
+
 ###### Artículo 14.
 
-La recepción de todos los ingresos que tiene derecho a percibir el Estado la realizará la Secretaría a través de la Tesorería Única; la recaudación de las contribuciones y de los créditos fiscales en favor del Estado, podrán realizarse por las áreas de recaudación de ingresos y otras oficinas que autorice la propia Secretaría, pudiendo convenir con las instituciones bancarias, empresas privadas y Ayuntamientos Municipales para que se constituyan como auxiliares o centros autorizados en el cobro de las contribuciones.
+La recepción de todos los ingresos que tiene derecho a percibir el Estado la realizará la Secretaría a través de la Tesorería Única; la recaudación de las contribuciones y de los créditos fiscales en favor del Estado, podrán realizarse por las áreas de recaudación de ingresos y otras oficinas que autorice la propia Secretaría, pudiendo convenir y/o contratar con los Ayuntamientos Municipales, las instituciones bancarias y empresas privadas, para que se constituyan como auxiliares o centros autorizados en el cobro de las contribuciones, a través de la formalización de los instrumentos jurídicos correspondientes, mismos que serán suscritos por la Autoridad Recaudadora, los cuales no estarán sujetos a lo dispuesto por la Ley de Adquisiciones, Arrendamientos de Bienes Muebles y la Contratación de Servicios para el Estado de Chiapas.
 
 La Secretaría estará facultada para celebrar mandatos, instrucciones o cualquier otro instrumento con instituciones, privadas o públicas, a fin de garantizar la transparencia de los ingresos estatales afectos a los fideicomisos para la instrumentación financiera a que hace referencia el artículo 407 del presente Código. Dichos mandatos, instrucciones e instrumentos serán considerados irrevocables hasta en tanto las obligaciones a cargo del Estado hayan sido cumplidas de conformidad con lo establecido en el fideicomiso para la instrumentación financiera correspondiente.
 
@@ -3699,6 +3703,8 @@ El Fondo de Extracción de Hidrocarburos, se constituirá con las cantidades de 
 
 > <small>[N. DE E. VÉASE FÓRMULA EN LA CUARTA SECCIÓN DEL P.O. DE 18 DE MAYO DE 2016, PÁGINAS DE LA 136 A LA 137.]</small>
 
+> <small>[N. DE E. VÉASE REFORMA A LA FÓRMULA EN LA SEGUNDA SECCIÓN DEL P.O. 10 DE MAYO DE 2017, PÁGINA 8.]</small>
+
 ###### Artículo 278.
 
 El Fondo de Compensación se constituirá con la cantidad de la fracción VII del artículo 272 de este Código, y se distribuirá a los municipios conforme a la siguiente fórmula:
@@ -4651,7 +4657,9 @@ Tratándose de la 2 1 1 1 165 0 Provisiones Salariales y Económicas, se generar
 
 Dentro de las Unidades Responsables de Apoyo, podrán crearse subunidades o subclasificaciones que permitan identificar el destino y orientación de los recursos públicos, a fin de dar transparencia al registro.
 
-La Secretaría tiene la facultad de llevar el registro presupuestario y contable de la 2 1 1 1 162 0 Desarrollo Social; el ejercicio de los recursos de esta Unidad es responsabilidad directa de quienes ejerzan el gasto público, en el marco de los programas, proyectos, obras y acciones que se convengan con la Federación y/o los municipios en el Estado.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2017)</small>
+
+La Secretaría de Desarrollo Social, tiene la facultad de llevar el registro presupuestario y contable de la 2 1 1 1 162 0 Desarrollo Social; el ejercicio de los recursos de esta Unidad es responsabilidad directa de quienes ejerzan el gasto público, en el marco de los programas, proyectos, obras y acciones que se convengan con la Federación y/o los municipios en el Estado.
 
 La Unidad Responsable de Apoyo 3 1 1 1 001 0 Municipios, generará los registros presupuestarios y contables de los recursos que le correspondan a los municipios y que le son ministrados. La única responsabilidad es la de emitir y consolidar los estados financieros. La responsabilidad de la administración, control y ejercicio de los recursos financieros, así como, la guarda y custodia de la documentación comprobatoria y de la publicación de la información en términos de la ley y convenios con la federación, es responsabilidad directa de los Ayuntamientos municipales.
 
@@ -6112,3 +6120,15 @@ Artículo Cuarto.- Lo dispuesto en la fracción I del Artículo 349 A de este C�
 Artículo Quinto.- En lo correspondiente a los ingresos excedentes derivados de ingresos de libre disposición señalados en el segundo párrafo del artículo 359 de este Código, adicionalmente podrán destinarse a gasto corriente hasta el ejercicio fiscal 2018.
 
 Artículo Sexto.- Para cualquier disposición no prevista en este Código, en materia de disciplina financiera, se aplicará supletoriamente lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y Municipios.
+
+P.O. 10 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 167 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+Artículo Tercero.- Las dependencias y entidades de la Administración Pública que hayan recibido garantías de anticipo, cumplimiento y/o vicios ocultos derivadas de la adjudicación de contratos y pedidos vigentes, en términos de la Ley de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios para el Estado de Chiapas, abrogada mediante Decreto 033, publicado en el Periódico Oficial 271, Segunda Sección, Tomo III, de fecha 21 de diciembre de 2016, deberán en el plazo de 60 días naturales, realizar los actos jurídicos y administrativos para hacer el cambio de beneficiaria de las garantías otorgadas, de conformidad con lo dispuesto en el artículo 35 de la Ley de Adquisiciones, Arrendamiento de Bienes Muebles y la Contratación de Servicios para el Estado de Chiapas.
+
+Lo anterior con excepción de aquellos contratos y/o pedidos vigentes que se encuentren en proceso de rescisión o terminación anticipada, las cuales deberán ser requeridas y exigidas por la Secretaría de Hacienda a través de la Procuraduría Fiscal.
