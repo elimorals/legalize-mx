@@ -4,7 +4,7 @@ identifier: "CHP-codigo-civil-para-el-estado-de-chiapas-33800"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-02-02"
-last_updated: "2017-02-01"
+last_updated: "2017-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2017.
 
 Código publicado en el Alcance al Periódico Oficial Estado de Chiapas, el 2 de febrero de 1938.
 
@@ -1668,6 +1668,10 @@ DE LA VIOLENCIA FAMILIAR.
 > <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
 ART. 319 BIS.- TODA PERSONA TIENE DERECHO A QUE SE LE RESPETE SU INTEGRIDAD FISICA, EMOCIONAL Y SEXUAL, ASI COMO SU SANO DESARROLLO PARA INCORPORARSE AL NUCLEO SOCIAL, Y PARA ELLO CONTARA CON LA ASISTENCIA Y PROTECCION DEL ESTADO, CONFORME A LAS LEYES DE SALUD Y ASISTENCIA SOCIAL, SIENDO SANCIONABLE TODO ACTO DE VIOLENCIA FAMILIAR.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2017)</small>
+
+LAS PERSONAS QUE EJERZAN LA PATRIA POTESTAD, GUARDA Y CUSTODIA, TUTELA O PERSONA ALGUNA, NO PODRAN IMPONER CASTIGO CORPORAL QUE ATENTE CONTRA LA DIGNIDAD HUMANA, COMO FORMA DE CORRECCION DISCIPLINARIA, POR LO QUE EN TODA CIRCUNSTANCIA Y MOMENTO SE DEBERA DE OBSERVAR EL INTERES SUPERIOR DE LA NIÑEZ.
 
 > <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
@@ -11244,3 +11248,15 @@ P.O. 1 DE FEBRERO DE 2017.
 Artículo Primero.- El presente Decreto, entrara en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 10 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 166 POR EL QUE SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 319 BIS DEL CÓDIGO CIVIL DEL ESTADO DE CHIAPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
