@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-transparencia-y-acceso-a-la-informacion-99164"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-02-26"
-last_updated: "2014-02-26"
+last_updated: "2017-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99164&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-01-16"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DE LA COMISION FEDERAL DE COMPETENCIA ECONOMICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA, PUBLICADO EN EL D.O.F. DE 10 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el miércoles 26 de febrero de 2014.
 
@@ -960,3 +962,15 @@ El presente Reglamento fue aprobado por el Pleno de la Comisión Federal de Comp
 PUBLÍQUESE. Así lo acordó y firma el Pleno de la CFCE por unanimidad de votos, en sesión del dieciséis de enero de dos mil catorce, de conformidad con lo dispuesto en los artículos anteriormente citados a lo largo del presente acuerdo, así como en los artículos 28, párrafos décimo cuarto y vigésimo, de la Constitución, 25 de la Ley Federal de Competencia Económica, 10, 11, fracciones I y XVI, 12, 16, 17, 18, fracción XIII, del Estatuto Orgánico de la Comisión Federal de Competencia Económica y ante la fe del Secretario Ejecutivo, quien actúa con fundamento en los artículos 29 de la LFCE y 19, fracción IV, del Estatuto Orgánico de la Comisión Federal de Competencia Económica.
 
 La Presidente, Alejandra Palacios Prieto.- Rúbrica.- Los Comisionados: Jesús Ignacio Navarro Zermeño, Martín Moguel Gloria, Benjamín Contreras Astiazarán, Alejandro Ildefonso Castañeda Sabido, Francisco Javier Núñez Melgoza, Eduardo Martínez Chombo.- Rúbricas.- El Secretario Ejecutivo, Pedro Adalberto González Hernández.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 10 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO CFCE-136-2017 POR EL QUE SE EMITE EL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA”.]
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de Transparencia y Acceso a la Información Pública de la Comisión publicado en el Diario Oficial de la Federación el veintiséis de febrero de dos mil catorce.
+
+TERCERO. Se deroga el Acuerdo CFCE-145-2016 publicado en el Diario Oficial de la Federación el siete de julio de dos mil dieciséis.
