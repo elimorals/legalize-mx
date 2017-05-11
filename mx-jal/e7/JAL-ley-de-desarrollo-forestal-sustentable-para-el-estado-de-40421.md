@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-40421"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-20"
-last_updated: "2017-01-28"
+last_updated: "2017-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 20 de julio de 2004.
 
@@ -229,13 +229,17 @@ IV. Desarrollar y apoyar viveros y programas de producción de plantas;
 
 V. Hacer del conocimiento a las autoridades competentes y, en su caso, denunciar las infracciones, faltas administrativas o delitos que se cometan en materia forestal;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
 
-VI. Regular y vigilar la disposición final de los residuos provenientes de la extracción de materias primas forestales, y
+VI. Regular y vigilar la disposición final de los residuos provenientes de la extracción de materias primas forestales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
 
-VII. Conformar brigadas para la prevención y combate de incendios forestales, cuando cuenten con superficie forestal.
+VII. Conformar brigadas para la prevención y combate de incendios forestales, cuando cuenten con superficie forestal; y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2017)</small>
+
+VIII. Delimitar dentro de sus instrumentos de planeación, las áreas que han sido incendiadas de manera intencional previo (sic) emitido por la secretaría en áreas que no son competencia federal.
 
 ### CAPÍTULO II. De la Coordinación entre el Gobierno del Estado y los Gobiernos Municipales
 
@@ -800,3 +804,11 @@ P.O. 28 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26220/LXI/16 QUE REFORMA LOS ARTÍCULOS 5, 40 Y 61 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26319/LXI/17 QUE REFORMA EL ARTÍCULO 10 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 251 DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Las obras de urbanización iniciadas con anterioridad a la entrada en vigor del presente decreto, seguirán su trámite con los requisitos establecidos al momento de su presentación.
