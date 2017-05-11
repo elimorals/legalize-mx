@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-entrega-recepcion-de-las-administraciones-74606"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-26"
-last_updated: "2009-11-26"
+last_updated: "2017-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA ENTREGA-RECEPCION DE LAS ADMINISTRACIONES PUBLICAS DEL ESTADO Y MUNICIPIOS DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de noviembre de 2009.
 
@@ -75,7 +75,9 @@ X.- Órganos Internos de Control.- Las Contralorías Internas de las dependencia
 
 XI.- Marco Normativo.- Todo ordenamiento que regule, ordene, dé transparencia y uniformidad al proceso de Entrega-Recepción;
 
-XII.- Servidores Públicos.- Los que señala el artículo 116 de la Constitución Política del Estado Libre y Soberano de Durango y el artículo 1 de la presente Ley;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
+
+XII.- Servidores Públicos.- Los que señala el artículo 175 de la Constitución Política del Estado Libre y Soberano de Durango y el artículo 1 de la presente Ley;
 
 XIII.- Sujeto Obligado.- Aquél que sin ser servidor público tenga un cargo honorífico, administre recursos y asuntos públicos;
 
@@ -648,3 +650,13 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 138.- QUE CONTIENE REFORMA A LA FRACCIÓN XII DEL ARTÍCULO 2 DE LA LEY PARA LA ENTREGA RECEPCIÓN DE LAS ADMINISTRACIONES PÚBLICAS DEL ESTADO Y MUNICIPIOS DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
