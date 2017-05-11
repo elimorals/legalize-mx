@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2015-del-pleno-del-consejo-de-la-105751"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-02-13"
-last_updated: "2016-12-15"
+last_updated: "2017-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105751&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-02-11"
 ---
 # ACUERDO GENERAL 5/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO AL TRAMITE, RESOLUCION Y EN SU CASO EJECUCION POR PARTE DE LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO DEL CENTRO AUXILIAR DE LA PRIMERA REGION, CON RESIDENCIA EN EL DISTRITO FEDERAL, DE LOS JUICIOS DE AMPARO PROMOVIDOS A PARTIR DEL UNO DE ENERO DE DOS MIL QUINCE EN LOS QUE SE RECLAME LA INCONSTITUCIONALIDAD, ENTRE OTRAS, LAS DISPOSICIONES SIGUIENTES: ARTICULO 17 K, 18, 28 FRACCIONES III Y IV, 69-B DEL CODIGO FISCAL DE LA FEDERACION, PUBLICADO EL NUEVE DE DICIEMBRE DE DOS MIL TRECE, ASI COMO LAS RESOLUCIONES EMITIDAS POR EL SERVICIO DE ADMINISTRACION TRIBUTARIA QUE CONTIENEN EL LISTADO DE CONTRIBUYENTES QUE EXPIDIERON COMPROBANTES FISCALES QUE SIMULAN CIERTAS OPERACIONES INEXISTENTES; LAS LEYES DE INGRESOS DE LA FEDERACION PARA LOS EJERCICIOS FISCALES DE 2014 Y 2015; LOS ARTICULOS 33 Y 34 DEL REGLAMENTO DEL CODIGO FISCAL DE LA FEDERACION, PUBLICADO EL DOS DE ABRIL DE DOS MIL CATORCE ]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL ACUERDO GENERAL 4/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D. O. F. EL 11 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL 5/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL TRÁMITE, RESOLUCIÓN Y EN SU CASO EJECUCIÓN POR PARTE DE LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, CON RESIDENCIA EN EL DISTRITO FEDERAL, DE LOS JUICIOS DE AMPARO PROMOVIDOS A PARTIR DEL UNO DE ENERO DE DOS MIL QUINCE EN LOS QUE SE RECLAME LA INCONSTITUCIONALIDAD, ENTRE OTRAS, LAS DISPOSICIONES SIGUIENTES: ARTÍCULO 17 K, 18, 28 FRACCIONES III Y IV, 69-B DEL CÓDIGO FISCAL DE LA FEDERACIÓN, PUBLICADO EL NUEVE DE DICIEMBRE DE DOS MIL TRECE, EN EL DIARIO OFICIAL DE LA FEDERACIÓN ASÍ COMO LAS RESOLUCIONES EMITIDAS POR EL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA QUE CONTIENEN EL LISTADO DE CONTRIBUYENTES QUE EXPIDIERON COMPROBANTES FISCALES QUE SIMULAN CIERTAS OPERACIONES INEXISTENTES; LAS LEYES DE INGRESOS DE LA FEDERACIÓN PARA LOS EJERCICIOS FISCALES DE 2014 Y 2015; LOS ARTÍCULOS 33 Y 34 DEL REGLAMENTO DEL CÓDIGO FISCAL DE LA FEDERACIÓN, PUBLICADO EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL DE DOS DE ABRIL DE DOS MIL CATORCE; LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, PUBLICADA EL TREINTA DE DICIEMBRE DE DOS MIL TRECE EN EL DIARIO OFICIAL DE LA FEDERACIÓN, ASÍ COMO LA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, PUBLICADA EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EL CUATRO DE JULIO DE DOS MIL CATORCE, ENTRE OTRAS LAS REGLAS I.2.8.6, I.2.8.7 Y I.2.8.8, RELATIVAS A CONTABILIDAD EN MEDIOS ELECTRÓNICOS, OBLIGATORIAS A PARTIR DEL UNO DE JULIO DE DOS MIL CATORCE, EN TÉRMINOS DEL ARTÍCULO CUADRAGÉSIMO TERCERO TRANSITORIO DE LA CITADA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014; LA SÉPTIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, PUBLICADA EL DIECIOCHO DE DICIEMBRE DE DOS MIL CATORCE EN EL DIARIO OFICIAL DE LA FEDERACIÓN, ENTRE OTRAS REGLAS I.2.8.1.6. A LA I.2.8.1.9., ASÍ COMO TERCERO Y CUARTO RESOLUTIVOS, APLICABLES A PARTIR DEL UNO DE ENERO DE DOS MIL QUINCE; Y, LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015 PUBLICADA EL TREINTA DE DICIEMBRE DE DOS MIL CATORCE, EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL, EN VIGOR A PARTIR DEL UNO DE ENERO DE DOS MIL QUINCE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2017 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, viernes 13 de febrero de 2015.
 
@@ -116,3 +118,19 @@ TERCERO. La Secretaría Ejecutiva del Pleno del Consejo de la Judicatura Federal
 CUARTO. Las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información, prestarán el apoyo necesario a los Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Primera Región, con residencia en la Ciudad de México, así como a las autoridades señaladas como responsables, a fin de resolver cualquier incidencia relacionada con la operación del sistema informático.
 
 QUINTO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 11 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 4/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL TRÁMITE DE LAS RESOLUCIONES EMITIDAS POR LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, CON RESIDENCIA EN LA CIUDAD DE MÉXICO, RESPECTO DE LOS JUICIOS DE AMPARO PROMOVIDOS A PARTIR DEL UNO DE ENERO DE DOS MIL QUINCE EN LOS QUE SE RECLAME LA INCONSTITUCIONALIDAD DE DIVERSAS DISPOSICIONES FISCALES, RELATIVAS A LA DENOMINADA CONTABILIDAD ELECTRÓNICA Y POR EL QUE SE ABROGA EL DIVERSO 5/2015”.]
+
+PRIMERO. Se abroga el Acuerdo General 5/2015 del Pleno del Consejo de la Judicatura Federal y su reforma, en lo que se oponga al presente Acuerdo.
+
+SEGUNDO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+TERCERO. La Secretaría Ejecutiva del Pleno del Consejo de la Judicatura Federal comunicará la determinación del presente Acuerdo a la Secretaría Ejecutiva de Administración, a la Dirección de Servicios Generales, y a las Administraciones Regionales de la República, para el efecto de que se adopten las medidas pertinentes con respecto al envío de expedientes a los órganos jurisdiccionales y se provean los recursos materiales necesarios con motivo de lo dispuesto en el presente Acuerdo. Asimismo, comunicará a las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información, así como a la Visitaduría Judicial, para los fines conducentes.
+
+CUARTO. Las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información, prestarán el apoyo necesario a los Tribunales Colegiados de Circuito en materia Mixta y los diversos especializados o semi-especializados en materia Administrativa, distribuidos en los treinta y dos circuitos en que se divide el territorio de la República Mexicana; así como, los Tribunales Colegiados de Circuito Primero y Cuarto del Centro Auxiliar de la Primera Región, con residencia en la Ciudad de México, así como a las partes, a fin de resolver cualquier incidencia relacionada con la operación de los sistemas informáticos.
+
+QUINTO. La Comisión de Creación de Nuevos Órganos resolverá cualquier cuestión con respecto al turno de los asuntos y la carga de trabajo de los Tribunales Colegiados de Circuito de los Centros Auxiliares, a propuesta de la Secretaría Ejecutiva de Creación de Nuevos Órganos.
+
+SEXTO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
