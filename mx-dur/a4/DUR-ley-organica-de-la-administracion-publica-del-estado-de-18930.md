@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2014-12-25"
+last_updated: "2017-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2017.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -206,6 +206,10 @@ El Ejecutivo del Estado promulgará y publicara las leyes y decretos que expida 
 ###### ARTICULO 18.
 
 El Gobernador del Estado, podrá nombrar y remover libremente a los servidores de la administración pública, cuyo nombramiento o remoción no esté determinado de manera distinta en la Constitución Política del Estado y en las demás leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2017)</small>
+
+El Gobernador del Estado, en su caso, podrá nombrar a un encargado de despacho, cuyo tiempo máximo de permanencia en dicho cargo será de 30 días naturales, salvo de aquellos casos, que derivado de otras disposiciones legales aplicables, en el término deba ser mayor. Durante este tiempo el encargado de despacho contará con todas las obligaciones, facultades y atribuciones que establece la ley a los titulares de las secretarias u órganos de la administración pública estatal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
@@ -2564,3 +2568,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a las previstas en el presente Decreto.
+
+P.O. 11 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 134.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 18 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
