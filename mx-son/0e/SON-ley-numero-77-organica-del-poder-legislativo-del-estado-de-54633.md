@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2016-06-09"
+last_updated: "2017-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2017.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -663,7 +663,9 @@ Las comisiones del Congreso del Estado serán:
 
 I.- De Dictamen Legislativo;
 
-II.- De Vigilancia del Instituto Superior de Auditoría y Fiscalización;
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+
+II.- De fiscalización;
 
 III.- De Administración;
 
@@ -827,9 +829,9 @@ V.- Invitar, por conducto de la presidencia de la Mesa Directiva o de la Diputac
 
 VI.- Solicitar, por conducto de la presidencia de la Mesa Directiva o de la Diputación Permanente, según sea el caso, oficialmente a cualquier dependencia o funcionario del Estado o municipios, de acuerdo a la normatividad correspondiente, copias certificadas o informe documental que estime necesarios para el mejor despacho de los asuntos. La omisión, negativa o imprecisión de la información y documentos solicitados, en un plazo razonable de acuerdo a la naturaleza del caso, motivará que la comisión, por conducto del Presidente del Congreso del Estado, lo haga del conocimiento del Gobernador del Estado o Ayuntamiento respectivo, para los efectos legales correspondientes; y
 
-> <small>(ADICIONADA, B.O. 23 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
 
-VII.- Emitir su opinión ante la Comisión de Vigilancia del Instituto Superior de Auditoría y Fiscalización en el ámbito de su competencia, sobre el cumplimiento de metas y aspectos presupuestales contenidos en los Estados Financieros trimestrales y las cuentas públicas de los entes públicos sujetos a la Ley de Fiscalización.
+VII.- Emitir su opinión ante la Comisión de Fiscalización, en el ámbito de su competencia, sobre el cumplimiento de metas y aspectos presupuestales contenidos en los Estados Financieros trimestrales y las cuentas públicas de los entes públicos sujetos a la Ley de Fiscalización.
 
 ###### ARTÍCULO 95.
 
@@ -961,11 +963,11 @@ La administración de los recursos presupuestales y patrimoniales del Congreso d
 
 Cada Grupo Parlamentario tendrá, dentro de la Comisión de Administración, voto ponderado en relación directa al número de diputados que representan.
 
-> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 112.
 
-Esta comisión estará integrada por hasta dos diputados de cada Grupo Parlamentario acreditado en el Congreso del Estado. Todos los integrantes gozarán del derecho a voz y el voto ponderado será expresado por el diputado que al efecto señale cada Grupo Parlamentario. Los miembros de esta comisión no podrán formar parte de las comisiones de Régimen Interno y Concertación Política ni de la de Vigilancia del Instituto Superior de Auditoría y Fiscalización.
+Esta comisión estará integrada por hasta dos diputados de cada Grupo Parlamentario acreditado en el Congreso del Estado. Todos los integrantes gozarán del derecho a voz y el voto ponderado será expresado por el diputado que al efecto señale cada Grupo Parlamentario. Los miembros de esta comisión no podrán formar parte de las comisiones de Régimen Interno y Concertación Política ni de la de Fiscalización.
 
 ###### ARTÍCULO 113.
 
@@ -1599,11 +1601,13 @@ Los titulares de la Oficialía Mayor, de las Direcciones Generales y de Contralo
 
 Queda prohibido acordar la entrega de numerario o bienes en especie a diputados o servidores públicos de confianza de primer nivel del Poder Legislativo, a título de bono, indemnización, compensación o cualquier otro concepto semejante o análogo, por motivo de la conclusión anticipada u ordinaria de sus funciones en el Congreso del Estado.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 11 DE MAYO DE 2017)</small>
+
 ### CAPÍTULO III
 
 ###### ARTÍCULO 187.
 
-El Instituto Superior de Auditoría y Fiscalización tendrá la organización y atribuciones que le establezca la Constitución Política del Estado y la ley de la materia.
+(DEROGADO, B.O. 11 DE MAYO DE 2017)
 
 > <small>(DEROGADA SU DENOMINACIÓN, B.O. 1 DE OCTUBRE DE 2015)</small>
 
@@ -1859,7 +1863,59 @@ XVI.- Vigilar que se haga buen uso del mobiliario, equipo y vehículos que se as
 
 XVII.- Las demás que les señale el Oficial Mayor o que le confieran otras disposiciones legales.
 
-### CAPÍTULO ÚNICO. DEL SERVICIO CIVIL DE CARRERA
+### CAPÍTULO VI. DEL CENTRO DE INVESTIGACIONES PARLAMENTARIAS DEL ESTADO DE SONORA
+
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+
+ARTÍCULO 197 BIS.- El Centro de Investigaciones Parlamentarias es un órgano técnico del Congreso del Estado, al cual le corresponde:
+
+I.- Desarrollar programas de investigación de temas relacionados con la historia, funciones, evolución y prácticas parlamentarias y en materia de fiscalización de recursos públicos;
+
+II.- Apoyar a la Mesa Directiva, a la Diputación Permanente y a las comisiones en los eventos de consulta, foros y debate, para la sistematización de las propuestas o conclusiones que se obtengan;
+
+III.- Asistir a los diputados en la elaboración de iniciativas;
+
+IV.- En coordinación con la Dirección General Jurídica del Congreso del Estado, asistir a las comisiones en la elaboración de iniciativas, dictámenes, comunicaciones y demás documentación de análisis que soliciten;
+
+V.- Atender y dar curso a las solicitudes de los diputados en materia de investigaciones, estudios y análisis legislativo;
+
+VI.- Aportar a los Diputados investigaciones técnicas que contribuyan al mejoramiento de su trabajo legislativo;
+
+VII.- Recabar información documental de análisis, debate y legislación sobre los diversos temas de interés social, económico, político y cultural, que sirvan de apoyo para un adecuado desahogo del proceso legislativo;
+
+VIII.- En coordinación con la Dirección General Jurídica del Congreso del Estado, prestar los servicios de corrección y estilo que se requieran en la elaboración de dictámenes e iniciativas de ley;
+
+IX.- Participar en los diversos grupos de trabajo que establezcan las comisiones, la Mesa Directiva, el pleno del Congreso del Estado o la Diputación Permanente, en el desarrollo de sus funciones;
+
+X.- Recopilar y clasificar la legislación y reglamentación histórica estatal con el objeto de realizar estudios sobre su génesis, evolución e impacto en la vida de la sociedad;
+
+XI.- Recopilar y clasificar la legislación federal y de otras entidades del país, incluyendo los Tratados Internacionales que México ha ratificado, con el propósito de analizar su relación con el orden jurídico del Estado;
+
+XII.- Efectuar estudios de derecho comparado en los temas relevantes del interés del Congreso del Estado;
+
+XIII.- Llevar el control de las adecuaciones que deban realizarse al marco normativo local en función de las reformas a la Constitución Política de los Estados Unidos Mexicanos que así lo ordenen;
+
+XIV.- Investigar el estado que guarda el orden jurídico estatal aplicando diversos criterios metodológicos y presentar propuestas que contribuyan a su actualización;
+
+XV.- Fomentar la celebración de convenios de colaboración e intercambio con organismos académicos, públicos, privados y sociales, locales, nacionales e internacionales;
+
+XVI.- Instrumentar programas de profesionalización y formación de especialistas en áreas del conocimiento vinculadas con el quehacer parlamentario y la fiscalización de recursos públicos;
+
+XVII.- Organizar, promover y participar en cursos, seminarios, congresos, diplomados, foros, coloquios, conferencias y mesas redondas;
+
+XVIII.- Impulsar programas editoriales y de difusión de las actividades del Congreso del Estado de Sonora; y
+
+XIX.- Coordinar los temas de capacitación del Congreso del Estado.
+
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+
+ARTÍCULO 197 BIS 1.- El Centro estará presidido por un Director General, quien será apoyado por un Subdirector, ambos designados por la Comisión de Régimen Interno y Concertación Política.
+
+Para ser nombrado Director General y Subdirector del Centro se requiere ser mexicano y contar con título profesional de Licenciado en Derecho con una antigüedad mínima de 7 años.
+
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+
+ARTÍCULO 197 BIS 2.- Para el ejercicio de las atribuciones establecidas en este artículo, el Centro contará con la estructura administrativa necesaria para el desempeño de sus funciones, la cual deberá ser aprobada y nombrada por la Comisión de Régimen Interno y Concertación Política del Congreso del Estado. El personal del Centro deberá contar con un perfil profesional relacionado de manera preferencial con los ámbitos académicos y de la investigación.
 
 ###### ARTÍCULO 194.
 
@@ -1887,11 +1943,15 @@ Para desempeñar el cargo de Contralor Interno se requieren los mismos requisito
 
 La Contraloría Interna contará con las áreas, unidades y personal necesario para su funcionamiento, conforme a lo establecido en el presupuesto de egresos.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 11 DE MAYO DE 2017)</small>
+
+### CAPÍTULO ÚNICO. DEL SERVICIO CIVIL DE CARRERA
+
+## TÍTULO DÉCIMO TERCERO. DEL SERVICIO CIVIL DE CARRERA
+
 ### CAPÍTULO ÚNICO. DEL PARLAMENTO DE LAS MUJERES DEL ESTADO DE SONORA
 
 > <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
-
-## TÍTULO DÉCIMO TERCERO. DEL SERVICIO CIVIL DE CARRERA
 
 ###### ARTÍCULO 198.
 
@@ -2200,3 +2260,25 @@ B.O. 9 DE JUNIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 11 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE SONORA Y DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA".]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos materiales, humanos y financieros del Instituto Superior de Auditoría y Fiscalización, como órgano del Poder Legislativo, pasarán a formar parte del patrimonio del organismo público autónomo a que se refiere este Decreto.
+
+Para el ejercicio fiscal del año 2017, el Congreso del Estado realizará las previsiones correspondientes para garantizar los fondos suficientes para el adecuado desempeño de las atribuciones conferidas al Instituto Superior de Auditoría y Fiscalización.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado realizará las adecuaciones necesarias a su presupuesto para que el Centro de Investigaciones Parlamentarias cuente con los recursos suficientes para el cumplimiento de sus funciones.
+
+El Instituto Superior de Auditoría y Fiscalización transferirá al patrimonio del Congreso del Estado, los recursos materiales y humanos que a la fecha de entrada en vigor de este Decreto, se encuentren en uso del Centro de Investigaciones Parlamentarias.
+
+Asimismo, el Instituto Superior de Auditoría y Fiscalización transferirá al patrimonio del Congreso del Estado, lo que resta de los recursos económicos que tiene autorizado el Centro de Investigaciones Parlamentarias del Estado de Sonora para el presente ejercicio fiscal.
