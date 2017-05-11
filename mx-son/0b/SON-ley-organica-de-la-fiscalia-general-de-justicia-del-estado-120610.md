@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1206
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-03-27"
-last_updated: "2017-03-27"
+last_updated: "2017-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DE JUSTICIA DEL ESTADO DE SONORA -ANTES LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE SONORA-
 
-LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SONORA
+LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2017.
 
 Ley publicada en el Número 25 de la Sección II, del Boletín Oficial del Estado de Sonora, el lunes 27 de marzo de 2017.
 
@@ -37,7 +37,9 @@ NÚMERO 180
 
 EL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, TIENE A BIEN EXPEDIR LA SIGUIENTE:
 
-LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SONORA
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 11 DE MAYO DE 2017)</small>
+
+LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -79,7 +81,9 @@ III.- Fiscalía Anticorrupción del Estado de Sonora: La Fiscalía Especializada
 
 IV.- Fiscal General: El Fiscal General del Estado de Sonora;
 
-V.- Fiscalía General: La Fiscalía General del Estado de Sonora;
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+
+V.- Fiscalía General: La Fiscalía General de Justicia del Estado de Sonora;
 
 VI.- Agencia Ministerial de Investigación Criminal: Los policías que integran la Agencia Ministerial de Investigación Criminal de la Fiscalía General;
 
@@ -453,7 +457,9 @@ Cuando en la comisión de los delitos cometidos en el párrafo segundo de este a
 
 El titular de la Fiscalía Anticorrupción del Estado de Sonora tendrá nivel de Vicefiscal y será agente del Ministerio Público para los efectos legales correspondientes, debiendo cumplir con los requisitos que establece la Constitución del Estado.
 
-La Fiscalía Anticorrupción del Estado de Sonora tendrá las áreas técnicas y administrativas que establezca el Reglamento.
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
+
+La Fiscalía Anticorrupción del Estado de Sonora tendrá las áreas técnicas y administrativas que establezca el Reglamento, entre las que deberán incluirse al menos la Dirección General de Auditoría Forense y una Coordinación de Investigadores.
 
 Asimismo, la Fiscalía Anticorrupción del Estado de Sonora contará con Agentes del Ministerio Público Especializados en combate a los hechos que la ley considera como delitos en materia de corrupción.
 
@@ -1117,6 +1123,10 @@ Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, d
 
 La Ley Orgánica de la Procuraduría General, publicada en el Boletín Oficial del Gobierno del Estado de Sonora número 53, sección VIII, de fecha 30 de diciembre de 1991, continuará su aplicación en los casos que se tramiten bajo el régimen del Código de Procedimientos Penales del Estado de Sonora y quedará abrogada, una vez se concluya el último proceso penal seguido bajo sus reglas, y entre en vigor y en su totalidad el Código Nacional de Procedimientos Penales.
 
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+
+Asimismo, se abroga la Ley número 82, Orgánica de la Procuraduría General de Justicia del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado de Sonora Edición Especial, de fecha 11 de diciembre de 2015 y sus modificaciones.
+
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
@@ -1130,3 +1140,13 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los veinticuatro días del mes de marzo del año dos mil diecisiete.- SUFRAGIO EFECTIVO, NO REELECCIÓN. GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 11 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 134 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
