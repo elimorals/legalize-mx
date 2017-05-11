@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-51863"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-28"
-last_updated: "2016-08-08"
+last_updated: "2017-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2017.
 
 Ley publicada en el la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 28 de septiembre de 2006.
 
@@ -1439,6 +1439,10 @@ C.- VIALIDADES LOCALES:
 
 a).- De acuerdo a los programas de desarrollo urbano de los centros de población.
 
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+
+Se deben considerar en las acciones de urbanización, que se cumpla con los lineamientos de infraestructura verde, para que los desarrollos sigan un enfoque sustentable con diseños urbanos sensibles al agua y, por lo tanto, sean resilientes al cambio climático
+
 ###### ARTÍCULO 97.
 
 Los fraccionamientos industriales según el tipo y compatibilidad quedarán ubicados dentro o fuera del centro de población en las zonas definidas para este fin por los programas de ordenamiento territorial y desarrollo urbano correspondientes.
@@ -2224,6 +2228,14 @@ El presente Decreto entrará en vigor al siguiente día de su publicación en el
 B.O. 8 DE AGOSTO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 81, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 11 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 129, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA Y A LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA".]
 
 ###### ARTÍCULO ÚNICO.
 
