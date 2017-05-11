@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2017-01-30"
+last_updated: "2017-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2017.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -601,13 +601,13 @@ I. Ser ciudadano sonorense en ejercicio de sus derechos políticos.
 
 II. (DEROGADA, B.O. 5 DE ABRIL DE 2006)
 
-> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
 
-III. Tener vecindad y residencia efectiva dentro del Distrito Electoral correspondiente, de cuando menos dos años inmediatamente anteriores al día en que se haga la elección, tratándose de los nativos del Estado; y cinco años inmediatamente anteriores al día de la elección, en caso de no serlo.
+III. Tener vecindad y residencia efectiva dentro del distrito electoral correspondiente, excepto en el caso de municipios que abarquen dos o más Distritos Electorales en su demarcación, caso en el cual bastará con acreditar la vecindad y residencia en dicho municipio para contender por el cargo de diputado en cualquiera de los Distritos que lo integran.
+
+La vecindad y residencia a que se refiere esta fracción deberá ser de cuando menos dos años inmediatamente anteriores al día de la elección, tratándose de los nativos del Estado, y de cinco años inmediatamente anteriores al día de la elección, en caso de no serlo.
 
 IV. No haber sido Gobernador del Estado dentro del período en que se efectúe la elección, aún cuando se hubiere separado definitivamente de su puesto.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, B.O. 13 DE ENERO DE 2017)</small>
 
@@ -638,8 +638,6 @@ Los Diputados rendirán la protesta de Ley ante el Congreso o ante la Diputació
 #### SECCION III.
 
 Instalación y funcionamiento del Congreso.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, B.O. 11 DE JULIO DE 2016)</small>
 
@@ -673,19 +671,15 @@ En todos los casos en que por cualquiera causa desaparezca el Congreso, el Ejecu
 
 Para designar el Congreso electo en la forma establecida en el Artículo anterior, se añadirá al número que le corresponda la palabra "BIS", si dentro del periodo constitucional del Congreso desaparecido se instalare el nuevo.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, B.O. 11 DE JULIO DE 2016)</small>
 
-###### ARTÍCULO 41.
+###### Artículo 41.
 
 El Congreso tendrá, durante el año, dos periodos de sesiones ordinarias y dos periodos de sesiones extraordinarias. Los periodos de sesiones ordinarias serán: el primero desde el 01 de septiembre hasta el 15 de diciembre y, el segundo, desde el día 01 de febrero hasta el 30 de abril. Ambos periodos podrán prorrogarse. Los periodos de sesiones extraordinarias serán: el primero desde la terminación del primer periodo de sesiones ordinarias hasta el 31 de enero y, el segundo, desde la terminación del segundo periodo de sesiones ordinarias hasta el 31 de agosto.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2016)</small>
 
-###### ARTÍCULO 42.
+###### Artículo 42.
 
 Sin perjuicio de su función legislativa ordinaria, en el primer periodo de sesiones ordinarias el Congreso se ocupará de discutir y aprobar las leyes y presupuestos de ingresos y egresos para el año siguiente. En las mismas condiciones, a más tardar el 15 de octubre, el Congreso deberá examinar y calificar las cuentas públicas del año anterior.
 
@@ -1123,8 +1117,6 @@ X. Convocar al Congreso a sesiones extraordinarias cuando el Ejecutivo lo solici
 
 XI. Las demás que expresamente le confiere esta Constitución.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(DEROGADA, B.O. 13 DE ENERO DE 2017)</small>
 
 #### SECCION VII.
@@ -1164,8 +1156,6 @@ E) Entregar, al pleno del Congreso, el informe de resultados de la revisión de 
 Para coordinar la entrega del informe de resultados y demás información que deba remitir el Instituto Superior de Auditoría y Fiscalización al Congreso del Estado, éste deberá integrar una Comisión en su seno, en los términos que se establezca en la legislación de la materia.
 
 F) Investigar los actos u omisiones relativos a irregularidades o conductas ilícitas en el ingreso, egreso, manejo, custodia y aplicación de recursos públicos, pudiendo, para este efecto, realizar todas las diligencias que resulten conducentes; incluyéndose visitas domiciliarias a particulares que hubiesen fungido como proveedores de bienes o servicios a la autoridad estatal o municipal, con el exclusivo propósito de compulsar las transacciones correspondientes y la documentación que las sustente, en los términos y con las formalidades previstas para los cateos.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, B.O. 13 DE ENERO DE 2017)</small>
 
@@ -1215,13 +1205,9 @@ Ni el Auditor Mayor ni los auditores adjuntos del Instituto Superior de Auditori
 
 Tanto las oficinas públicas estatales y municipales como los particulares que ejerzan o hayan ejercido recursos públicos, deberán coadyuvar en lo que resulte legalmente necesario para el buen ejercicio de las funciones del Instituto Superior de Auditoria y Fiscalización.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, B.O. 13 DE ENERO DE 2017)</small>
 
 #### SECCION II.. Del Tribunal de Justicia Administrativa
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, B.O. 13 DE ENERO DE 2017)</small>
 
@@ -1275,8 +1261,6 @@ III. (DEROGADA, B.O. 5 DE ABRIL DE 2006)
 
 IV. No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, B.O. 13 DE ENERO DE 2017)</small>
 
 V. No haber sido Magistrado del Supremo Tribunal o del Tribunal de Justicia Administrativa, Fiscal General de Justicia del Estado, Fiscal Especializado, Secretario o Subsecretario, Auditor Mayor del Instituto Superior de Auditoría y Fiscalización, ni militar en servicio activo ni haber tenido mando de fuerzas dentro del Estado, en los seis meses inmediatamente anteriores al día de la elección.
@@ -1286,8 +1270,6 @@ VI. No haber figurado, directa o indirectamente, en alguna asonada, motín o cua
 > <small>(ADICIONADA, B.O. 3 DE ENERO DE 1983)</small>
 
 VII. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1711,8 +1693,6 @@ El Ministerio Público del Estado de Sonora se organizará en una Fiscalía Gene
 
 Corresponde al Ministerio del Estado la persecución, de todos los delitos, y por lo mismo, solicitará las medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurando que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, B.O. 13 DE ENERO DE 2017)</small>
 
 La Fiscalía General de Justicia del Estado contará, al menos, con las fiscalías especializadas en materia de delitos electorales y anticorrupción, las cuales tendrán autonomía técnica y de gestión en el ejercicio de sus atribuciones, cuyos titulares serán nombrados y removidos por el Fiscal General de Justicia del Estado.
@@ -1721,13 +1701,9 @@ Los fiscales especializados en materia de delitos electorales y anticorrupción,
 
 Los fiscales especializados en materia de delitos electorales y anticorrupción, ejercerán la acción penal, previo acuerdo y autorización del Fiscal General de Justicia del Estado.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 13 DE ENERO DE 2017)</small>
 
 El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley y su respectiva reglamentación. La aplicación de los criterios de oportunidad deberá ser autorizada por el Fiscal General o por el servidor público en quien se delegue esta facultad.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 13 DE ENERO DE 2017)</small>
 
@@ -2105,8 +2081,6 @@ IV. No haber sido condenado por la Comisión de un delito intencional, aún cuan
 
 V. (DEROGADA, B.O. 5 DE ABRIL DE 2006)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
 VI. No haber sido magistrado o suplente común del Tribunal Estatal Electoral, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separe del cargo dentro del plazo que establezca la ley.
@@ -2407,13 +2381,9 @@ En los términos y condiciones que establezca la Ley respectiva los servidores p
 
 Artículo 143 A. El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, B.O. 13 DE ENERO DE 2017)</small>
 
 I.- El Sistema contará con un Comité Coordinador que estará integrado por los titulares del Instituto Superior de Auditoría y Fiscalización; de la Fiscalía Especializada Anticorrupción; de la Secretaría del Ejecutivo del Estado responsable del control interno; por el presidente del Tribunal de Justicia Administrativa; el presidente del organismo garante que establece el artículo 2, Apartado A de esta Constitución; así como por un representante del Consejo del Poder Judicial del Estado y otro del Comité de Participación Ciudadana;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 13 DE ENERO DE 2017)</small>
 
@@ -2445,8 +2415,6 @@ II.- La comisión de delitos por parte de cualquier servidor público o particul
 
 III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones. Dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La ley establecerá los procedimientos para la investigación y sanción de dichos actos u omisiones.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, B.O. 13 DE ENERO DE 2017)</small>
 
 Las faltas administrativas graves serán investigadas y substanciadas por el Instituto Superior de Auditoría y Fiscalización y los órganos internos de control, según corresponda, y serán resueltas por la Sala Especializada del Tribunal de Justicia Administrativa. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
@@ -2454,8 +2422,6 @@ Las faltas administrativas graves serán investigadas y substanciadas por el Ins
 Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial de (sic) del Estado, conocerá de los mismos el Consejo del Poder Judicial del Estado, sin perjuicio de las atribuciones de la (sic) el Instituto Superior de Auditoría y Fiscalización en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 
 La ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, B.O. 13 DE ENERO DE 2017)</small>
 
@@ -3820,3 +3786,11 @@ B.O. 30 DE ENERO DE 2017
 ###### ARTÍCULO ÚNICO.
 
 La presente Ley entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
+
+B.O. 11 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DE LA “LEY NÚMERO 181, QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 33 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+En los términos del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, la presente ley entrará en vigor al momento de su publicación en el Boletín Oficial del Gobierno del Estado y una vez culminado el proceso electoral 2014-2015, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente ley para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
