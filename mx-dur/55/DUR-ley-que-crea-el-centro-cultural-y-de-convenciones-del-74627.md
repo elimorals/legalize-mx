@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-centro-cultural-y-de-convenciones-del-74627"
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-21"
-last_updated: "2010-03-21"
+last_updated: "2017-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY QUE CREA EL CENTRO CULTURAL Y DE CONVENCIONES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 21 de marzo de 2010.
 
@@ -169,7 +169,9 @@ VIII. Un Vocal, que será un representante del Municipio de Durango;
 
 IX. Tres vocales, representantes de la iniciativa privada, a propuesta del Presidente; y
 
-X. Un Comisario Público, que será designado por la Secretaría de Contraloría y Modernización Administrativa.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
+
+X. Un Comisario Público, que será designado por la Secretaría de Contraloría.
 
 El Presidente del Consejo, por conducto del Director General, podrá invitar a las reuniones del mismo a los servidores públicos o personas que por el asunto que traten, amerite su participación.
 
@@ -311,9 +313,11 @@ Las relaciones obrero-patronales del personal que labore en el Centro de Convenc
 
 ### CAPÍTULO V. DE LOS ÓRGANOS DE VIGILANCIA
 
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
+
 ###### Artículo 26.
 
-El órgano de vigilancia del Centro de Convenciones, estará a cargo de un Comisario Público, que será designado por la Secretaría de Contraloría y Modernización Administrativa, quien tendrá las atribuciones que establecen las disposiciones legales aplicables.
+El órgano de vigilancia del Centro de Convenciones, estará a cargo de un Comisario Público, que será designado por la Secretaría de Contraloría, quien tendrá las atribuciones que establecen las disposiciones legales aplicables.
 
 ###### Artículo 27.
 
@@ -374,3 +378,11 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 11 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 135.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 12 EN SU FRACCIÓN X y 26 DE LA LEY QUE CREA EL CENTRO CULTURAL Y DE CONVENCIONES DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
