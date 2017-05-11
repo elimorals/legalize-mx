@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-40-de-planeacion-del-estado-de-sonora-8386"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-02"
-last_updated: "1991-12-23"
+last_updated: "2017-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE PLANEACION DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 23 DE DICIEMBRE DE 1991.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2017.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 2 de febrero de 1984.
 
@@ -329,6 +329,10 @@ Los Ayuntamientos del Estado al enviar al Congreso las iniciativas de Leyes y Pr
 
 La revisión de las cuentas públicas de los municipios, deberán relacionarse con las decisiones tomadas para la ejecución del Plan y de los Programas, a fin de permitir al Congreso el análisis de las acciones y resultados de las mismas, con relación a los objetivos y prioridades del Plan Municipal y sus programas.
 
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+
+ARTICULO 34 BIS.- Los municipios con población superior a los 50.000 habitantes, de conformidad con el último censo oficial levantado por el Instituto Nacional de Estadística, Geografía e Informática, deberán constituir un organismo descentralizado denominado Instituto Municipal de Planeación, que ejercerá las atribuciones previstas en este capítulo en materia de Planes Municipales de Desarrollo y sus Programas. Lo anterior, sin demerito de las atribuciones que establece para los ayuntamientos y los demas órganos de gobierno, la presente Ley, la Ley de Gobierno y Administración Municipal, la Ley de Ordenamiento Territorial y Desarrollo Urbano del Estado de Sonora y demás disposiciones legales aplicables en la materia.
+
 ### CAPITULO VI. COORDINACION
 
 ###### ARTICULO 35.
@@ -456,3 +460,19 @@ Lic. Carlos Gámez Fimbres.
 B.O. 23 DE DICIEMBRE DE 1991.
 
 UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 11 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 127, QUE ADICIONA UN ARTÍCULO 34 BIS A LA LEY DE PLANEACIÓN DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los municipios con población superior a los 50.000 habitantes contaran con un plazo de 1 año, contado a partir de la entrada en vigor de este decreto, para constituir los Institutos Municipales de Planeación.
+
+###### ARTÍCULO TERCERO.
+
+Para la constitución del Instituto Municipal de Planeación los Ayuntamientos utilizarán los recursos financieros, humanos y materiales disponibles a la fecha de publicación de este Decreto, atendiendo a los principios de austeridad, disciplina financiera y responsabilidad hacendaria. Los Ayuntamientos deberán considerar para constituir su Instituto los recursos que actualmente destinan a las áreas encargadas de la planeación municipal, así como un porcentaje de los recursos propios que recaudan los Ayuntamientos y que destinan a obras públicas en el municipio.
