@@ -4,7 +4,7 @@ identifier: "SON-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-63502
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-25"
-last_updated: "2015-07-16"
+last_updated: "2017-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2017.
 
 Ley publicada en la Sección VIII del Boletín Oficial del Estado de Sonora, el jueves 25 de septiembre de 2008.
 
@@ -79,7 +79,9 @@ III.- El establecimiento de zonas intermedias de salvaguardia, con motivo de la 
 
 IV.- El establecimiento de museos, zonas de demostración, zoológicos, jardines botánicos y otras instalaciones o exhibiciones similares relacionados con el objeto de esta ley; y
 
-V.- La formulación y ejecución de acciones de protección y preservación de la biodiversidad del territorio del Estado.
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+
+V.- La formulación y ejecución de acciones de protección y preservación de la biodiversidad del territorio del Estado, así como la formulación y ejecución de acciones de mitigación y adaptación al cambio climático.
 
 ###### ARTÍCULO 3º.
 
@@ -193,9 +195,37 @@ L.- Residuos sólidos urbanos: Los desechos que resultan de la eliminación de l
 
 LI.- Restauración: Las actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y la continuidad de los procesos naturales;
 
-LII.- Tratamiento de aguas residuales: Proceso al que se someten las aguas residuales con el objeto de disminuir o eliminar los contaminantes que contengan; y
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
 
-LIII.- Zonas de preservación ecológica de los centros de población: Las áreas naturales en las que existen uno o más ecosistemas en buen estado de conservación, destinadas a preservar los elementos naturales indispensables para el equilibrio ecológico y el bienestar general.
+LII.- Tratamiento de aguas residuales: Proceso al que se someten las aguas residuales con el objeto de disminuir o eliminar los contaminantes que contengan;
+
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+
+LIII.- Zonas de preservación ecológica de los centros de población: Las áreas naturales en las que existen uno o más ecosistemas en buen estado de conservación, destinadas a preservar los elementos naturales indispensables para el equilibrio ecológico y el bienestar general;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
+
+LIV.- Calentamiento global: Incremento continuo de la temperatura promedio global;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
+
+LV.- Cambio climático: Cambio de clima atribuido directamente o indirectamente a las actividades humanas;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
+
+LVI.- Capacidad adaptativa: Capacidad de un sistema para ajustarse al cambio climático (incluidas la variabilidad climática y los fenómenos extremos) con el fin de moderar los daños potenciales, de beneficiarse de las oportunidades o de afrontar las consecuencias;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
+
+LVII.- Infraestructura verde: Infraestructura polifuncional que utiliza sistemas naturales (o sistemas producto de ingeniería que imitan procesos naturales) para mejorar la calidad ambiental general y proveer servicios ambientales, sociales, económicos y culturales. La cual puede ser usada como componente de un sistema de manejo de agua pluvial cuando el suelo y la vegetación son usados para infiltrar, evapotranspirar, o aprovechar escorrentías;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
+
+LVIII.- Resiliencia: Capacidad de adaptación de un ser vivo frente a un agente perturbador o un estado o situación adversos; y
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
+
+LIX.- Sensibilidad: Es el grado en que un sistema es potencialmente modificado o afectado por un disturbio, interno, externo o un grupo de ellos.
 
 ###### ARTÍCULO 4º.
 
@@ -285,6 +315,10 @@ Corresponde a los municipios, a través de los ayuntamientos:
 
 I.- La formulación, conducción y evaluación de la política ambiental municipal;
 
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
+
+I BIS.- La formulación y ejecución de acciones de mitigación y adaptación al cambio climático;
+
 II.- La aplicación de los instrumentos de política ambiental previstos en esta ley y la preservación y restauración del equilibrio ecológico y la protección al ambiente en bienes y zonas de jurisdicción municipal, en las materias que no estén expresamente atribuidas a la Federación o al Estado;
 
 III.- La aplicación de las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como de emisiones de contaminantes a la atmósfera provenientes de fuentes móviles que no sean consideradas de jurisdicción federal o estatal, con la participación que de acuerdo con esta ley corresponda al Estado;
@@ -369,7 +403,9 @@ X.- Los criterios de preservación y restauración del equilibrio ecológico que
 
 XI.- Toda persona tiene derecho a disfrutar de un ambiente sano. Las autoridades, en los términos de esta ley y otras disposiciones legales aplicables, tomarán las medidas para preservar ese derecho;
 
-XII.- Quien realice obras o actividades que afecten o puedan afectar el ambiente está obligado a prevenir, minimizar o reparar los daños que cause, así como a asumir los costos que dicha afectación implique. Asimismo, debe incentivarse a quien proteja el ambiente y aproveche de manera sustentable los recursos naturales;
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+
+XII.- Quien realice obras o actividades que afecten o puedan afectar el ambiente está obligado a prevenir, minimizar o reparar los daños que cause, así como a asumir los costos que dicha afectación implique. Asimismo, debe incentivarse a quien proteja el ambiente, promueva o realice acciones de mitigación y adaptación a los efectos del cambio climático y aproveche de manera sustentable los recursos naturales;
 
 XIII.- La transversalidad de las políticas públicas en materia ambiental promueve el desarrollo sustentable mediante la coordinación intersectorial de las estrategias, acciones y metas contenidas en los programas sectoriales, integrando y jerarquizando las políticas públicas e induciendo sinergias entre crecimiento económico, bienestar y sustentabilidad;
 
@@ -533,6 +569,10 @@ VIII.- En la determinación de áreas para actividades altamente riesgosas hecha
 
 IX.- La política ambiental debe buscar la corrección de aquellos desequilibrios que deterioren la calidad de vida de la población y, a la vez, prever las tendencias de crecimiento del asentamiento humano, para mantener una relación suficiente entre la base de recursos y la población, y cuidar de los factores ecológicos y ambientales que son parte integrante de la calidad de vida.
 
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+
+Las autoridades del Estado y los Municipios, en la esfera de su competencia, deberán de evitar los asentamientos humanos en zonas donde las poblaciones se expongan al riesgo de desastres por impactos adversos del cambio climático.
+
 #### SECCIÓN IV. DE LOS INSTRUMENTOS ECONÓMICOS
 
 ###### ARTÍCULO 23.
@@ -569,15 +609,27 @@ I.- La investigación, incorporación o utilización de mecanismos, equipos y te
 
 II.- La investigación e incorporación de sistemas de ahorro de energía y de utilización de fuentes de energía menos contaminantes;
 
-III.- El ahorro y aprovechamiento sustentable y la prevención de la contaminación del agua;
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+
+III.- El ahorro y aprovechamiento sustentable y la prevención de la contaminación del agua, incluyendo acciones relacionadas con infraestructura verde;
 
 IV.- La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas;
 
-V.- El establecimiento, manejo y vigilancia de áreas naturales protegidas;
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
 
-VI.- Los procesos, productos y servicios que, conforme a la normatividad aplicable, hayan sido certificados ambientalmente; y
+V.- El establecimiento, manejo y vigilancia de áreas naturales protegidas, así como con la valoración del capital natural de dicha área mediante la estimación de sus servicios ecosistémicos;
 
-VII.- En general, aquellas actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente previstas en éste y en otros ordenamientos aplicables.
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+
+VI.- Los procesos, productos y servicios que, conforme a la normatividad aplicable, hayan sido certificados ambientalmente;
+
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+
+VII.- En general, aquellas actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente previstas en éste y en otros ordenamientos aplicables; y
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
+
+VIII.- El desarrollo de infraestructura verde.
 
 #### SECCIÓN V. DE LA AUTORIZACIÓN EN MATERIA DE IMPACTO AMBIENTAL
 
@@ -2768,3 +2820,11 @@ El presente decreto entrará en vigor el día de su publicación en el Boletín 
 ###### ARTÍCULO SEGUNDO.
 
 Los ayuntamientos tendrán un plazo de 120 días naturales contados a partir de la publicación del presente decreto, para emitir el procedimiento de solicitud y los requisitos que mitiguen el impacto a los recursos naturales y a propiedades colindantes, para la obtención de la licencia de quema controlada.
+
+B.O. 11 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 129, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA Y A LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
