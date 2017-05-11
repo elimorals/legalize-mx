@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2016-12-22"
+last_updated: "2017-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2017.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -581,11 +581,11 @@ La atención materno-infantil tiene carácter preferente y comprende las siguien
 
 > <small>(REFORMADA, B.O. 16 DE JULIO DE 2015)</small>
 
-I.- La atención de la mujer durante el embarazo, el parto y el puerperio, brindando especial atención a la transmisión del VIH/Sida y otras infecciones de transmisión sexual en mujeres embarazadas, a fin de evitar la transmisión perinatal;
+I. La atención de la mujer durante el embarazo, el parto y el puerperio, brindando especial atención a la transmisión del VIH/Sida y otras infecciones de transmisión sexual en mujeres embarazadas, a fin de evitar la transmisión perinatal;
 
-> <small>(REFORMADA, B.O. 16 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
 
-II. La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas, y atención que incluya la aplicación de la prueba del tamiz neonatal ampliado, y su salud visual;
+II. La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas, y atención que incluya la aplicación de la prueba del tamiz neonatal ampliado, tamiz cardiológico por oximetría de pulso y su salud visual.
 
 > <small>(ADICIONADA, B.O. 16 DE JULIO DE 2015)</small>
 
@@ -1473,7 +1473,7 @@ IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, 
 
 ### CAPITULO IV. ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 23 DE JUNIO DE 2011)</small>
 
 ARTICULO 148 BIS.- Las autoridades sanitarias, en coordinación con la Secretaría de Salud y el Consejo de Salubridad General, ejecutarán en el Estado el programa contra las enfermedades cardiovasculares, la obesidad y la diabetes que comprenderá, entre otras, las siguientes acciones:
 
@@ -1489,7 +1489,7 @@ V.- La formación de un comité de nutriólogos, que a través de la Secretaria 
 
 El Ejecutivo del Estado procurará las disposiciones presupuestales para el cumplimiento de este programa.
 
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, B.O. 23 DE JUNIO DE 2011)</small>
 
 ARTICULO 148 BIS 1.- Para recabar y actualizar constantemente la información que oriente las acciones contra las enfermedades cardiovasculares, la obesidad y la diabetes, el Gobierno del Estado, a través de la Secretaria de Salud, deberá llevar a cabo actividades de investigación en los siguientes aspectos:
 
@@ -1557,17 +1557,27 @@ El Ejecutivo del Estado deberá destinar recursos suficientes para el cumplimien
 
 El Ejecutivo del Estado realizará acciones coordinadas con la Secretaría de Salud, en la ejecución de programas y acciones contra la farmacodependencia, en los términos del Acuerdo de Coordinación específico que celebren ambos órdenes de gobierno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 148.
 
-El Ejecutivo del Estado y los Ayuntamientos, para evitar y prevenir el consumo de sustancias inhalantes que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
+El Ejecutivo del Estado y los Ayuntamientos, para evitar y prevenir el consumo de sustancias inhalantes, drogas, narcóticos o de sustancias toxicas que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
 
 I. Determinarán y ejercerán medios de control en el expendio de sustancias inhalantes, para prevenir su consumo por parte de menores de edad e incapaces;
 
 II. Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas sustancias, para evitar el empleo indebido de las mismas;
 
-III. Brindarán la atención médica que se requiera, a las personas que realicen o hayan realizado el consumo de inahalantes; y
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
 
-IV. Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de substancias inhalantes.
+III.- Brindarán la atención médica que se requiera, a las personas que realicen o hayan realizado el consumo de inhalantes;
+
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+
+IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de substancias inhalantes; y
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
+
+V.- El Ejecutivo del Estado en coordinación con los Ayuntamientos deberán instalar un sistema de comunicación visual, definido como señalética como espacio o zona libre de drogas, substancias inhalantes, drogas, narcóticos o de sustancias tóxicas, en las áreas públicas, campos deportivos, parques recreativos, jardines y áreas verdes, para el desarrollo óptimo de los menores de edad o de incapaces.
 
 A los establecimientos que vendan o utilicen inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan el Ejecutivo Estatal y los Ayuntamientos, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta ley.
 
@@ -3063,7 +3073,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 Dentro de un plazo de 90 días contados a partir de la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado deberá emitir la normatividad correspondiente con el propósito de hacer efectivas las disposiciones del presente Decreto.
 
-P.O. 23 DE JUNIO DE 2011.
+B.O. 23 DE JUNIO DE 2011.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3168,3 +3178,23 @@ B.O. 22 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 11 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 125, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA Y DE LA LEY DE SALUD PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 11 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 128, QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 50 DE LA LEY DE SALUD PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá contemplar una partida especial dentro del proyecto del Presupuesto de Egresos del Gobierno del Estado para el Ejercicio Fiscal de 2018, para hacer efectiva la aplicación el (sic) presente Decreto.
