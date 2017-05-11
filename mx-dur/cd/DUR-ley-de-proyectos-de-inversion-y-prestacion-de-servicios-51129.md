@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proyectos-de-inversion-y-prestacion-de-servicios-51129"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-29"
-last_updated: "2006-06-29"
+last_updated: "2017-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE PROYECTOS DE INVERSION Y PRESTACION DE SERVICIOS PARA EL ESTADO DE DURANGO
 
-LEY DE PROYECTOS DE INVERSION Y PRESTACION DE SERVICIOS PARA EL ESTADO DE DURANGO
+LEY DE PROYECTOS DE INVERSIÓN Y PRESTACIÓN DE SERVICIOS PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 2006.
 
@@ -99,7 +99,9 @@ Una vez que el Congreso haya emitido el decreto aprobatorio, la Entidad podrá l
 
 En caso de que durante el proceso de licitación, surja la necesidad de cambiar los términos aprobados por el Congreso, la Entidad correspondiente deberá recabar la autorización u opinión de parte de la Secretaría, según se trate de Entidades Estatales o Entidades Municipales respectivamente y, posteriormente, la autorización del Congreso.
 
-La autorización del Congreso conforme a lo anterior, tendrá los efectos señalados en el Artículo 55, fracción III de la Constitución Política del Estado Libre y Soberano de Durango.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2017)</small>
+
+La autorización del Congreso conforme a lo anterior, tendrá los efectos aplicables, señalados en el artículo 82, fracción I de la Constitución Política del Estado Libre y soberano de Durango.
 
 ### CAPÍTULO IV. CONTRATACIÓN E INFORMACIÓN
 
@@ -162,3 +164,13 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. RICARDO LÓPEZ PESCADOR
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 137.- QUE CONTIENE REFORMA AL ÚLTIMO PARRAFO DEL ARTÍCULO 5 DE LA LEY DE PROYECTOS DE INVERSION Y PRESTACION DE SERVICIOS PARA EL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
