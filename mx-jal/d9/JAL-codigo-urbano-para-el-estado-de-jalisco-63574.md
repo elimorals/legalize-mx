@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2016-10-11"
+last_updated: "2017-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -2607,7 +2607,7 @@ Las acciones de conservación de los centros de población se podrán regular y 
 
 I. La formulación, aprobación y ejecución de los planes parciales que señalen las acciones, obras y servicios, así como los aprovechamientos predominantes;
 
-II La asignación de usos y destinos;
+II. La asignación de usos y destinos;
 
 III. La reglamentación de la edificación, integrando disposiciones que garanticen la preservación de la imagen urbana y eviten la destrucción o la degradación del Patrimonio Cultural;
 
@@ -3807,6 +3807,10 @@ Cuando el Proyecto Definitivo de Urbanización proponga una modificación en el 
 
 El dictamen técnico señalado en el presente artículo deberá ser sometido a consulta pública de acuerdo con los procedimientos señalados en el artículo 98 del presente Código.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE MAYO DE 2017)</small>
+
+En ningún caso se autorizarán obras de urbanización en predios que hubiesen sido incendiados de manera intencional, decretado así, previo dictamen emitido por la Secretaría de Medio Ambiente y Desarrollo Territorial, por el término de veinte años.
+
 ###### Artículo 252.
 
 Cuando un centro de población no cuente con un Plan de Desarrollo Urbano de Centro de Población que ordene y regule un área específica donde se pretendan realizar obras de urbanización o cuando dichas áreas se encuentren fuera de los límites de un centro de población, los interesados en su urbanización deberán proponer y tramitar la aprobación de un Plan Parcial de Desarrollo Urbano que regule las acciones de crecimiento correspondientes.
@@ -4559,7 +4563,7 @@ IV. La declaración por parte del municipio, de que recibe a satisfacción las o
 
 V. En caso de la acción urbanística por objetivo social, cuando la asociación de vecinos haya solicitado y obtenido la administración de servicios públicos municipales, la indicación de los servicios concesionados y la declaración de su representante respecto a la recepción de las obras de infraestructura y equipamiento urbano correspondientes, y
 
-VI La declaración por parte del urbanizador indicando los datos de la fianza que otorgue y del municipio aceptando la garantía que constituya el urbanizador, obligándose a reponer las obras que presenten defectos ocultos de construcción, por un plazo no menor de dos años.
+VI. La declaración por parte del urbanizador indicando los datos de la fianza que otorgue y del municipio aceptando la garantía que constituya el urbanizador, obligándose a reponer las obras que presenten defectos ocultos de construcción, por un plazo no menor de dos años.
 
 ###### Artículo 302.
 
@@ -5988,3 +5992,11 @@ CUARTO. El Gobierno del Estado a través de las Secretarías de Movilidad y de E
 QUINTO. El instituto de Movilidad y Transporte del Estado de Jalisco dispondrá de un plazo de noventa días a partir de la publicación del presente decreto, para elaborar las propuestas de normas técnicas respecto a las ciclovías, ciclocarriles y estacionamiento para bicicletas mismas que deberán tomar en consideración la opinión de las asociaciones y colectivos ciclistas, y las mejores prácticas internacionales.
 
 SEXTO. Los Poderes del Estado, sus dependencias y entidades, los Órganos Constitucionales del Estado, así como los Ayuntamientos implementarán programas e incentivos para inhibir el uso de automóviles por parte de los servidores públicos y gestionar apoyos o fondos de garantía para facilitar la obtención de créditos para la adquisición de bicicletas.
+
+P.O. 11 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26319/LXI/17 QUE REFORMA EL ARTÍCULO 10 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 251 DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Las obras de urbanización iniciadas con anterioridad a la entrada en vigor del presente decreto, seguirán su trámite con los requisitos establecidos al momento de su presentación.
