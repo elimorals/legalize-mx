@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-185-de-justicia-administrativa-para-el-estado-de-105
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-04"
-last_updated: "2014-12-04"
+last_updated: "2017-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "SON"
 ---
 # LEY NUMERO 185 DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 29 DE JUNIO DE 2017, 03 DE JULIO DE 2017 Y 10 DE JULIO DE 2017 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2017.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 4 de diciembre de 2014.
 
@@ -49,39 +53,143 @@ DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA
 
 La presente Ley tiene por objeto regular la impartición de la justicia administrativa en el Estado de Sonora y sus disposiciones son de orden público e interés social.
 
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 2.
 
-La jurisdicción administrativa la ejercerá el Tribunal de lo Contencioso Administrativo, órgano autónomo dotado de plena jurisdicción para dictar sus resoluciones e imperio para hacerlas cumplir; así como de independencia presupuestal para garantizar la imparcialidad de su actuación.
+La jurisdicción administrativa la ejercerá el Tribunal de Justicia Administrativa, órgano autónomo dotado de plena jurisdicción para dictar sus resoluciones e imperio para hacerlas cumplir; así como de independencia presupuestal para garantizar la imparcialidad de su actuación.
+
+Formará parte del Sistema Estatal Anticorrupción y estará sujeto a las bases establecidas en los artículos 113 de la Constitución Política de los Estados Unidos Mexicanos, 143 A de la Constitución Política del Estado de Sonora, en la Ley General del Sistema Nacional Anticorrupción, en la Ley del Sistema Estatal Anticorrupción del Estado de Sonora y en el presente ordenamiento.
+
+Las resoluciones y actuaciones del Tribunal de Justicia Administrativa del Estado de Sonora deberán apegarse a los principios de legalidad, máxima publicidad, respeto a los derechos humanos, verdad material, razonabilidad, proporcionalidad, presunción de inocencia, tipicidad y debido proceso.
+
+El presupuesto asignado al Tribunal de Justicia Administrativa del Estado de Sonora, se ejercerá con autonomía y conforme a la Ley del Presupuesto de Egresos y Gasto Público Estatal y las disposiciones legales aplicables, bajo los principios de legalidad, certeza, independencia, honestidad, responsabilidad y transparencia. Su administración será eficiente para lograr la eficacia de la justicia administrativa bajo el principio de rendición de cuentas.
+
+Dicho ejercicio deberá realizarse con base en los principios de honestidad, responsabilidad, eficiencia, eficacia, transparencia, rendición de cuentas, austeridad, racionalidad y bajo estos principios estará sujeto a la evaluación y control de los órganos correspondientes.
+
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+
+ARTÍCULO 2 BIS.- Para efectos de esta Ley se entenderá, por:
+
+I.- Ley: La Ley Justicia Administrativa del Estado de Sonora;
+
+II.- Tribunal: El Tribunal de Justicia Administrativa del Estado de Sonora;
+
+III.- Sala Especializada: La Sala Especializada en materia de anticorrupción y responsabilidades administrativas;
+
+IV.- Reglamento Interior: El Reglamento Interior del Tribunal de Justicia Administrativa del Estado de Sonora; y
+
+V.- Estado: El estado de Sonora.
+
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 3.
 
-El Tribunal de lo Contencioso Administrativo conocerá y resolverá las controversias que se susciten en relación con la legalidad, interpretación, cumplimiento y efectos de actos, procedimientos y resoluciones de naturaleza administrativa y fiscal, que emitan, ordenen, ejecuten o traten de ejecutar las autoridades del Estado, de los Municipios, sus organismos descentralizados o cualquier persona o institución que funja como autoridad y cuya actuación afecte la esfera jurídica de los particulares.
+El Tribunal tiene a su cargo dirimir las controversias que se susciten entre la administración pública estatal y municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos locales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables, el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales.
+
+Bajo ninguna circunstancia se entenderá que la atribución del Tribunal para imponer sanciones a particulares por actos u omisiones vinculadas con faltas administrativas graves se contrapone o menoscaba la facultad que cualquier ente público posea para imponer sanciones a particulares en los términos de la legislación aplicable.
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN Y FUNCIONAMIENTO
 
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 4.
 
-El Tribunal de lo Contencioso Administrativo estará integrado por cinco Magistrados propietarios, y resolverá en Pleno. En la integración del Tribunal deberán establecerse Magistrados propietarios de distinto género.
+El Tribunal funcionará mediante una Sala Superior y contará con una Sala Especializada en materia de anticorrupción y responsabilidades administrativas.
+
+El Tribunal deberá integrarse por Magistrados de distinto género.
+
+El Pleno de la Sala Superior del Tribunal se compondrá de cinco Magistrados que serán nombrados por el titular del Poder Ejecutivo y ratificados mediante el voto de las dos terceras partes de los diputados presentes en la sesión que corresponda. Durarán en su encargo nueve años, pudiendo ser considerados para nuevos nombramientos.
+
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+
+ARTÍCULO 4 BIS.- El Tribunal de Justicia Administrativa contará con una Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas, con autonomía presupuestal, técnica y de gestión, la cual conocerá de las faltas administrativas que señala la Ley de la materia y se integrará con tres Magistrados que serán designados por el titular del Poder Ejecutivo y ratificados por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado. Durarán en su encargo nueve años, pudiendo ser considerados para nuevos nombramientos. El Pleno de la Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas designará a su Presidente, quien durará en su encargo tres años.
+
+La Sala Especializada conocerá de las responsabilidades administrativas de los servidores públicos y particulares vinculados con faltas graves y no graves promovidas por la Secretaría de la Contraloría General y los órganos internos de control de los entes públicos del estado, o por el Instituto Superior de Auditoría y Fiscalización del Estado de Sonora, en materia de imposición de sanciones en términos de la ley de la materia. Así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública del estado o al patrimonio de los entes públicos estatales.
+
+En el Decreto de Presupuesto de Egresos, se deberá especificar el monto del presupuesto aprobado por el Congreso del Estado, para la Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+
+ARTÍCULO 4 TER.- Son atribuciones del Presidente de la Sala Especializada en Materia de Anticorrupción y Responsabilidades Administrativas:
+
+I.- Ejercer la representación de la Sala;
+
+II.- Presidir el Pleno;
+
+III.- Despachar la correspondencia;
+
+IV.- Distribuir conforme a los acuerdos emitidos por el Pleno, entre todos y cada uno de los magistrados de esta Sala, los asuntos y los recursos que sean de la competencia del mismo;
+
+V.- Proponer al Pleno de la Sala la designación de su Secretario General y del Titular del Órgano Interno de Control;
+
+VI.- Sancionar, en su caso, los convenios suscritos en conciliación por las partes;
+
+VII.- Hacer uso de los medios de apremio y medidas disciplinarias para hacer cumplir sus determinaciones o para imponer el orden;
+
+VIII.- Autorizar en unión con el Secretario General, las actas relativas a las deliberaciones de los magistrados y los acuerdos y resoluciones de la Sala;
+
+IX.- Imponer sanciones administrativas al personal, de acuerdo con lo dispuesto en esta Ley y el reglamento respectivo;
+
+X.- Fomentar la cultura de la justicia administrativa;
+
+XI.- Promover la capacitación y especialización del personal profesional de la Sala;
+
+XII.- Formular y administrar el Presupuesto de Egresos de la Sala;
+
+XIII.- Enviar oportunamente el Anteproyecto del Presupuesto de Egresos de la Sala al Presidente del Tribunal de Justicia Administrativa, para que lo incorpore al Presupuesto de Egresos en los términos de esta Ley.
+
+XIV.- Proporcionar al Pleno del Tribunal de Justicia Administrativa, la información necesaria para integrar el informe que debe rendir el Presidente de este Tribunal, en los términos de esta Ley;
+
+XIV (SIC).- Evaluar la actuación de los servidores públicos adscritos a la Sala;
+
+XV.- Elaborar y someter a la aprobación del Pleno de la Sala el Reglamento Interior (sic) esta, así como los manuales administrativos y de procedimientos y demás disposiciones necesarias para el funcionamiento de la Sala;
+
+XVI.- Instruir, estudiar y elaborar proyectos de resolución, que se turnen a su ponencia y someterlos a consideración del pleno, en los términos previstos en esta Ley; y
+
+XVII.- Las demás que establezca esta Ley y las disposiciones reglamentarias aplicables.
+
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 5.
 
-El Tribunal contará con un Secretario General de Acuerdos, los Secretarios Auxiliares, Actuarios y demás personal que requiera el servicio, cuyas atribuciones serán establecidas en el Reglamento Interior.
+La Sala Superior y la Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas del Tribunal de Justicia Administrativa, se integrarán por Magistrados propietarios.
+
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 6.
 
-Los Magistrados serán nombrados mediante propuesta del Gobernador al Congreso del Estado y deberán ser ratificados por las dos terceras partes de los diputados presentes en la sesión correspondiente. En el caso que el Congreso decida no ratificar la o las propuestas del Gobernador, este deberá enviar nuevas propuestas.
+La Sala Superior y la Sala Especializada en materia de Anticorrupción del Tribunal, contarán con un Secretario General de Acuerdos, los Secretarios Auxiliares, Actuarios y demás personal que requiera el servicio, cuyas atribuciones serán establecidas en el Reglamento Interior. El personal de la Sala Especializada recibirá las mismas percepciones que los funcionarios y empleados de la misma o análoga categoría del Supremo Tribunal de Justicia del Estado de Sonora y estas no podrán ser reducidas durante el tiempo de su gestión.
+
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 7.
 
-Los Magistrados durarán en sus cargos 9 años. Durante el ejercicio de sus cargos solo podrán ser removidos en los términos del Título Sexto de la Constitución Política del Estado. Entrarán en funciones a partir de su toma de protesta constitucional y deberán permanecer en sus cargos hasta que tomen posesión los nuevamente nombrados.
+Los Magistrados de la Sala Superior y de la Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas del Tribunal durarán en su encargo nueve años, entrarán en funciones a partir de su toma de protesta constitucional, deberan permanecer en sus cargos hasta que tomen posesión quienes los habrán de sustituir y solo podrán ser removidos de sus cargos por las siguientes causas:
+
+I.- Incurrir en violaciones graves a los derechos humanos o infracciones graves, previstas por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Sonora;
+
+II.- Incurrir en responsabilidad administrativa grave en términos de la Ley de la materia;
+
+III.- Haber sido condenado por delito doloso;
+
+IV.- Utilizar, en beneficio propio o de terceros, la información confidencial o reservada de que disponga en razón de su cargo, así como divulgar la mencionada información en contravención a la Ley;
+
+V.- Abstenerse de resolver sin causa justificada y en forma reiterada, los asuntos de su competencia dentro (sic) los plazos previstos en (sic) ley;
+
+VI.- Causar perjuicios graves a las instituciones democráticas del país, a la sociedad, o motivar alguna deficiencia en el funcionamiento normal de las instituciones estatales y del país; y
+
+VII.- Faltar gravemente en el ejercicio de su cargo a la observancia de los principios de legalidad, máxima publicidad, objetividad, eficiencia, profesionalismo, restricciones de contacto, honradez, debido proceso, transparencia y respeto a los derechos humanos.
 
 ###### ARTÍCULO 8.
 
 Los magistrados rendirán la protesta constitucional ante el Congreso del Estado y los demás funcionarios empleados, ante el Presidente del Tribunal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 9.
 
-Para ser Magistrado se requiere:
+Para ser Magistrados de la Sala Superior y de la Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas del Tribunal de Justicia Administrativa, se requiere:
 
 I.- Ser mexicano por nacimiento y no tener otra nacionalidad, en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -93,23 +201,31 @@ IV.- Tener buena reputación y no haber sido condenado por delito intencional; y
 
 V.- Haber residido en el Estado los últimos cinco años, salvo el caso de ausencia en servicio de la Republica o del Estado.
 
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 10.
 
-Las ausencias temporales de los magistrados propietarios serán cubiertas por el Secretario General.
+Las ausencias temporales de los magistrados propietarios de la Sala Superior y de la Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas del Tribunal de Justicia Administrativa serán cubiertas por el Secretario General de la Sala correspondiente.
+
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 11.
 
-El Pleno del Tribunal concederá licencias a los magistrados hasta por treinta días con goce de sueldo y las que excedan de este tiempo sin goce de sueldo.
+El Pleno de la Sala Superior del Tribunal de Justicia Administrativa concederá licencias a los magistrados hasta por treinta días con goce de sueldo y las que excedan de este tiempo sin goce de sueldo. Las licencias a que se refiere este artículo, en el caso de los Magistrados de la Sala Especializada serán autorizadas por su propio Pleno.
+
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 12.
 
-El Tribunal tendrá un Presidente, que será electo de entre los mismos magistrados, durará en su encargo 3 años.
+La Sala Superior y la Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas, tendrán un Presidente respectivamente, que será electo de entre los mismos magistrados correspondientes a cada Sala, que durarán en su encargo 3 años, pudiendo ser reelectos por la mayoría de los integrantes del Pleno correspondiente.
 
 ### CAPÍTULO III. DE LA COMPETENCIA Y ATRIBUCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 13.
 
-El Tribunal de lo Contencioso Administrativo del Estado de Sonora, será competente para conocer y resolver de los juicios:
+La Sala Superior del Tribunal, será competente para conocer y resolver de los juicios y recursos siguientes:
 
 I.- Que se ventilen por las controversias que se susciten en relación con la legalidad, interpretación, cumplimiento y efectos de actos, procedimientos y resoluciones de naturaleza administrativa y fiscal que emitan las autoridades estatales, Municipales o sus organismos descentralizados y cuya actuación afecte la esfera jurídica de los particulares;
 
@@ -119,7 +235,9 @@ III.- De lesividad, que son aquellos promovidos por la autoridad, para que sean 
 
 IV.- En los que se reclame responsabilidad civil objetiva al Estado, a los Municipios o a sus organismos descentralizados;
 
-V.- En los que se impugne el establecimiento de responsabilidad administrativa a servidores públicos Estatales o Municipales o de sus organismos descentralizados, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado;
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+
+V.- Resolver el recurso de apelación que interpongan las partes en contra de las resoluciones dictadas por la Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas;
 
 VI.- Que se refieran a la interpretación y cumplimiento de contratos de naturaleza administrativa en que sean parte el Estado, los Municipios o sus organismos descentralizados;
 
@@ -129,47 +247,103 @@ VIII.- Que se inicien en los términos de la fracción I del presente artículo 
 
 IX.- Que le señalen otras leyes y reglamentos.
 
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+
+ARTÍCULO 13 BIS.- La Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas del Tribunal conocerá de los procedimientos y resoluciones a que se refiere el artículo 4 BIS de esta Ley, con las siguientes facultades:
+
+I.- Resolverá respecto de las faltas administrativas graves, investigadas y substanciadas por la Secretaría de la Contraloría General y los Órganos Internos de control de los entes públicos estatales y municipales, o por el Instituto Superior de Auditoria y Fiscalización, según sea el caso, ya sea que el procedimiento se haya seguido por denuncia, de oficio o derivado de las auditorías practicadas por las autoridades competentes, conforme a las disposiciones y procedimientos establecidos en la Ley de la materia;
+
+II.- Impondrá sanciones que correspondan a los servidores públicos y particulares, personas físicas o morales, que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades. Así como fincar a los responsables el pago de las cantidades por concepto de responsabilidades resarcitorias, las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al Patrimonio de los entes públicos estatales o municipales, conforme a las disposiciones y procedimientos establecidos en la Ley de la materia;
+
+III.- Dictar las medidas preventivas y cautelares para evitar que el procedimiento sancionador quede sin materia, y el desvío de recursos obtenidos de manera ilegal, conforme a las disposiciones y procedimientos establecidos en la (sic) de la materia; y
+
+IV.- De los recursos que se hagan valer en contra de las resoluciones definitivas que impongan sanciones administrativas a los servidores públicos en términos de la Ley de la materia, así como contra las que decidan los recursos administrativos previstos en dicho ordenamiento.
+
+Para el ejercicio de las facultades y atribuciones que la Constitución Política del Estado de Sonora, esta ley y la Ley de la materia le concede (sic) la Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas del Tribunal de Justicia Administrativa, realizará la sustanciación, instrucción y tramite de los procedimientos de su competencia de manera unitaria, hasta la elaboración del proyecto correspondiente, debiendo ser resuelto por el pleno de los Magistrados que la integran.
+
+Además, el Pleno de la Sala Especializada en Materia de Anticorrupción y Responsabilidades Administrativas contará con las siguientes atribuciones:
+
+A.- Designar al Presidente de la Sala;
+
+B.- Resolver sobre las excitativas de justicia que se planteen por las partes;
+
+C.- Dictar los acuerdos necesarios para que se establezca la manera en que habrán de distribuirse entre los magistrados, los juicios y recursos que se presenten ante la Sala, procurando en todo momento el despacho pronto y expedito de los negocios;
+
+D.- Nombrar al Secretario General de Acuerdos a propuesta del Presidente del Pleno y al Titular del Órgano Interno de Control;
+
+E.- Expedir y modificar el Reglamento Interior, los manuales administrativos y de procedimientos y demás disposiciones administrativas generales necesarias para el funcionamiento de la Sala en materia de anticorrupción y responsabilidades administrativas;
+
+F.- Designar a la Comisión de Evaluación de Exámenes, en el sistema de servicio profesional de carrera de la Sala Especializada en materia de anticorrupción y responsabilidades administrativas;
+
+G.- Aprobar su Anteproyecto de Presupuesto de Egresos, el cual no podrá ser modificado por la Sala Superior del Tribunal; y
+
+H.- Las demás que establezcan esta Ley y otras disposiciones legales y reglamentarias.
+
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+
+ARTÍCULO 13 TER.- Son atribuciones de los Magistrados de la Sala Especializada en Materia de Anticorrupción y Responsabilidades Administrativas:
+
+I.- Instruir, sustanciar y poner en estado de resolución los asuntos y recursos que le sean asignados por el Presidente de la Sala;
+
+II.- Hacer uso de los medios de apremio y aplicar las medidas disciplinarias que se establecen en esta ley, para que se cumplan sus determinaciones y para mantener el buen orden en el desarrollo de las audiencias o diligencias, exigiendo el respeto y consideración debidos;
+
+III.- Proponer a los integrantes de sus ponencias respectivas en los términos del Reglamento Interior;
+
+IV.- Imponer las correcciones disciplinarias al personal adscrito a la misma, en los términos del Reglamento Interior; y
+
+V.- Las demás que le señale esta Ley y otros ordenamientos legales aplicables.
+
 ### CAPÍTULO IV. DEL PLENO
+
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 14.
 
-El Pleno se integrará por los magistrados en funciones y será necesaria la presencia de la mayoría de sus integrantes para que pueda celebrar sesiones.
+El pleno de la Sala Superior y de la Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas del Tribunal de Justicia Administrativa, se integrará por los Magistrados en funciones y será necesaria la presencia de la mayoría de los integrantes del Pleno para que pueda celebrar sesiones.
+
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 15.
 
-Las resoluciones del Pleno se tomarán por unanimidad o mayoría de votos de los magistrados, quienes no podrán abstenerse de votar, a menos que exista algún impedimento legal. El magistrado que difiera de la mayoría, podrá formular voto particular.
+Las resoluciones del Pleno de la Sala Superior y de la Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas del Tribunal de Justicia Administrativa, se tomarán por unanimidad o mayoría de votos de los magistrados, quienes no podrán abstenerse de votar, a menos que exista algún impedimento legal. El magistrado que difiera de la mayoría, podrá formular voto particular.
+
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 16.
 
-Las sesiones del Pleno serán públicas, salvo que este determine que sean privadas.
+Las sesiones del Pleno de la Sala Superior y de la Sala Especializada, serán públicas y se transmitirán por los medios electrónicos que faciliten su seguimiento, en los casos que se estime necesario serán videograbadas, resguardando los datos personales en términos de la legislación en materia de transparencia y protección de datos. Sólo en los casos que la ley lo establezca, las sesiones podrán ser privadas, no obstante se harán versiones públicas para la consulta ciudadana que, en su caso, sea requerida a través de los procedimientos establecidos en la ley de la materia.
+
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 17.
 
-Son atribuciones del Pleno:
+Son atribuciones del Pleno de la Sala Superior del Tribunal:
 
-I.- Designar al Presidente del Tribunal;
+I.- Designar al Presidente de la Sala Superior;
 
-II.- Conocer y resolver sobre los juicios que sean de la competencia del Tribunal;
+II.- Conocer y resolver sobre los juicios y recursos que sean de su competencia;
 
-III.- Resolver los recursos de revisión que se presenten;
+III.- Resolver sobre las excitativas de justicia que se planteen por las partes;
 
-IV.- Calificar las excusas y recusaciones de los magistrados
+IV.- Dictar los acuerdos necesarios para que se establezca la manera en que habrá (sic) de distribuirse entre los magistrados, los juicios y recursos que se presenten ante la Sala Superior, procurando en todo momento el despacho pronto y expedito de los negocios;
 
-V.- Resolver sobre las excitativas de justicia que se planteen por las partes;
+V.- Nombrar al Secretario General de Acuerdos, a los Secretarios auxiliares, actuarios y demás personal administrativo adscrito a la Sala Superior;
 
-VI.- Dictar los acuerdos necesarios para que se establezca la manera en que habrán de distribuirse entre los magistrados, los juicios y recursos que se presenten ante el Tribunal, procurando en todo momento el despacho pronto y expedito de los negocios;
+VI.- Nombrar al titular del órgano de control de la Sala Superior del Tribunal, que será responsable del control y evaluación del desarrollo administrativo y financiero de dicha Sala, el Reglamento establecerá las atribuciones que le corresponderán a dicho órgano;
 
-VII.- Nombrar al Secretario General de Acuerdos, a los Secretarios auxiliares, actuarios y demás personal administrativo del Tribunal;
+VII.- Designar a la Comisión de Evaluación de Exámenes, en el sistema de servicio profesional de carrera de la Sala Superior;
 
-VIII.- Designar a la Comisión de Evaluación de Exámenes, en el sistema de servicio profesional de carrera;
+VIII.- Expedir y modificar el Reglamento Interior, los manuales administrativos y de procedimientos y demás disposiciones administrativas generales necesarias para el funcionamiento de la Sala Superior;
 
-IX.- Expedir y modificar el Reglamento Interior, los manuales administrativos y de procedimientos y demás disposiciones administrativas generales necesarias para el funcionamiento del Tribunal; y
+IX.- Calificar las excusas y recusaciones de los magistrados de la Sala Superior del Tribunal de Justicia Administrativa; y
 
 X.- Las demás que establezcan esta Ley y otras disposiciones legales y reglamentarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 18.
 
-Son atribuciones de los Magistrados:
+Son atribuciones de los Magistrados de la Sala Superior del Tribunal:
 
 I.- Instruir, sustanciar y poner en estado de resolución los asuntos y recursos que le sean asignados por el Presidente del Tribunal;
 
@@ -181,51 +355,77 @@ IV.- Las demás que le señale esta Ley y otros ordenamientos legales aplicables
 
 ### CAPÍTULO V. DEL PRESIDENTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 19.
 
-Son atribuciones del Presidente del Tribunal:
+Son atribuciones del Presidente de la Sala Superior del Tribunal:
 
-I.- Ejercer la representación del Tribunal;
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
 
-II.- Presidir el Pleno;
+I.- Ejercer la representación de la Sala Superior del Tribunal;
 
-III.- Despachar la correspondencia;
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
 
-IV.- Distribuir conforme a los acuerdos emitidos por el Pleno, entre todos y cada uno de los magistrados de este Tribunal, los asuntos y los recursos que sean de la competencia del mismo;
+II.- Presidir el Pleno de la Sala Superior;
+
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+
+III.- Despachar la correspondencia de la Sala Superior;
+
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+
+IV.- Distribuir conforme a los acuerdos emitidos por el Pleno de la Sala Superior, entre todos y cada uno de los magistrados los asuntos y los recursos que sean de la competencia de la misma;
 
 V.- Sancionar los convenios suscritos en conciliación por las partes;
 
 VI.- Hacer uso de los medios de apremio y mediadas (sic) disciplinarias para hacer cumplir sus determinaciones o para imponer el orden;
 
-VII.- Autorizar en unión del Secretario General de Acuerdos, las actas relativas a las deliberaciones de los magistrados y los acuerdos y resoluciones del Tribunal;
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
 
-VIII.- Imponer sanciones administrativas al personal, de acuerdo con lo dispuesto en esta Ley y el reglamento respectivo;
+VII.- Autorizar en unión del Secretario General de Acuerdos las actas relativas a las deliberaciones de los magistrados y los acuerdos y resoluciones de la Sala Superior del Tribunal;
+
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+
+VIII.- Imponer sanciones administrativas al personal de la Sala Superior, de acuerdo con lo dispuesto en esta Ley y el reglamento respectivo;
 
 IX.- Dirigir la publicación del órgano oficial del Tribunal;
 
 X.- Fomentar la cultura de la justicia administrativa;
 
-XI.- Promover la capacitación y especialización del personal profesional del Tribunal;
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
 
-XII.- Formular y someter a la consideración del Pleno, así como administrar el Presupuesto de Egresos del Tribunal;
+XI.- Promover la capacitación y especialización del personal profesional de la Sala Superior del Tribunal;
+
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+
+XII.- Formular y someter a la consideración del Pleno de la Sala Superior, así como administrar el Presupuesto de Egresos de la misma;
 
 XIII.- Enviar oportunamente el Anteproyecto del Presupuesto de Egresos del Tribunal al Titular del Poder Ejecutivo para su incorporación al Presupuesto de Egresos del Gobierno del Estado;
 
 XIV.- Rendir ante el Congreso del Estado y el Titular del Poder Ejecutivo, en el primer mes de cada año, un informe anual sobre la impartición de la justicia administrativa;
 
-XV.- Evaluar la actuación de los servidores públicos adscritos a la Institución;
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
 
-XVI.- Presentar, previa aprobación del Pleno, ante la autoridad competente, propuestas de reformas a la legislación administrativa y fiscal del Estado y los municipios;
+XV.- Evaluar la actuación de los servidores públicos adscritos a la Sala Superior;
 
-XVII.- Elaborar y someter a la aprobación del Pleno el Reglamento Interior del Tribular (sic), así como los manuales administrativos y de procedimientos y demás disposiciones necesarias para el funcionamiento del Tribunal; y
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+
+XVI.- Presentar, previa aprobación del Pleno de la Sala Superior, ante la autoridad competente, propuestas de reformas a la legislación administrativa y fiscal del Estado y los Municipios;
+
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+
+XVII.- Elaborar y someter a la aprobación del Pleno de la Sala Superior, el Reglamento Interior, así como los manuales administrativos y de procedimientos y demás disposiciones necesarias para el funcionamiento de la misma; y
 
 XVIII.- Las demás que establezca esta Ley y las disposiciones reglamentarias aplicables.
 
 ### CAPÍTULO VI. DEL PERSONAL
 
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 20.
 
-Los magistrados, el secretario general de acuerdos, los secretarios auxiliares, los actuarios y los titulares de las áreas de apoyo administrativo y de asesoría del Tribunal están impedidos para desempeñar otro empleo dependiente del gobierno federal, estados, municipios, entidades paraestatales y paramunicipales o de algún particular, salvo los de carácter docente, siempre y cuando su desempeño no afecte las funciones propias y, tratándose de magistrados, sea gratuito. También están impedidos para ejercer la profesión de abogados.
+Los magistrados de la Sala Superior y de la Sala Especializada, así como los Secretarios Generales y auxiliares, actuarios y titulares de las áreas de apoyo administrativo y de asesoría del Tribunal están impedidos para desempeñar otro empleo dependiente del gobierno federal, estados, municipios, entidades paraestatales y paramunicipales o de algún particular, salvo los de carácter docente, siempre y cuando su desempeño no afecte las funciones propias y, tratándose de magistrados, sea gratuito. También están impedidos para ejercer la profesión de abogados.
 
 ###### ARTÍCULO 21.
 
@@ -261,9 +461,11 @@ El ingreso y promoción del personal profesional del Tribunal, se realizará med
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 26.
 
-Los Asuntos competencia del Tribunal de lo Contencioso Administrativo del Estado de Sonora se promoverán, substanciarán y resolverán en los términos que dispone la presente Ley. A falta de disposición expresa, se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado de Sonora, siempre que se refiera a instituciones previstas en esta Ley y que la disposición supletoria se avenga al procedimiento contencioso administrativo que la misma establece.
+Los Asuntos de competencia del Tribunal de Justicia Administrativa del Estado de Sonora se promoverán, substanciará (sic) y resolverán en los términos que dispone la presente Ley. A falta de disposición expresa, se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado de sonora, siempre que se refiera a instituciones previstas en esta Ley y que la disposición supletoria se avenga al procedimiento contencioso administrativo que la misma establece.
 
 ###### ARTÍCULO 27.
 
@@ -449,11 +651,15 @@ II.- Se contarán por días hábiles, entendiéndose por éstos, aquéllos en qu
 
 ### CAPÍTULO IV. DE LOS IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 44.
 
-Los Magistrados del Tribunal de lo Contencioso Administrativo estarán impedidos para conocer en los siguientes casos:
+Los Magistrados de la Sala Superior y de la Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas del Tribunal de Justicia Administrativa, estarán impedidos para conocer en los siguientes casos:
 
-I.- Si tienen interés personal en el asunto;
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+
+I.- Cuando exista conflicto de interés;
 
 II.- Si son parientes consanguíneos, afines o civiles de alguna de las partes o de sus representantes, en línea recta sin limitación de grado; dentro del cuarto grado en línea colateral por consanguinidad, o dentro del segundo por afinidad.
 
@@ -465,15 +671,21 @@ V.- Si figuran como parte en juicio similar, pendiente de resolución por el Tri
 
 VI.- Si tuviesen amistad estrecha o enemistad manifiesta con alguna de las partes o sus representantes.
 
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 45.
 
-Los Magistrados tienen el deber de excusarse del conocimiento de los asuntos en que ocurra alguna de las causas de impedimento señaladas en el artículo anterior, expresando concretamente la causal, pero no serán admisibles las excusas voluntarias.
+Los Magistrados de la Sala Superior y de la Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas del Tribunal de Justicia Administrativa, tienen el deber de excusarse del conocimiento de los asuntos en que ocurra alguna de las causas de impedimento señaladas en el artículo anterior, expresando correctamente la casual (sic), pero no serán admisibles las excusas voluntarias.
 
-Manifestada la causa de impedimento, pasara el expediente al conocimiento del Magistrado que corresponda.
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 46.
 
-El Magistrado que estando impedido, no se excuse para conocer de un juicio, en los términos del artículo anterior, podrá ser recusado por las partes, incurriendo en responsabilidad de acuerdo a lo previsto por la Ley de Responsabilidades de los Servidores Públicos del Estado.
+El Magistrado de la Sala Superior y de la Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas del Tribunal de Justicia Administrativa que estando impedido, no se excuse para conocer de un juicio, en los términos del artículo anterior, podrá ser recusado por las partes, incurriendo en responsabilidad de acuerdo a lo previsto por la Ley de la materia.
+
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+
+ARTÍCULO 46 BIS.- Manifestada la causa de impedimento, excusa o en su caso la propuesta de recusación, se turnará al pleno de la Sala correspondiente a la adscripción del Magistrado, para que resuelva sobre la procedencia o improcedencia de la misma.
 
 ### CAPÍTULO V. DE LA DEMANDA
 
@@ -697,9 +909,11 @@ En los demás casos, una vez que se declare ejecutoriada la sentencia, los parti
 
 ### CAPÍTULO VIII. DE LOS INCIDENTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 71.
 
-En las cuestiones incidentales que tengan lugar en los asuntos que se tramiten en el Tribunal de lo Contencioso Administrativo, sólo serán de previo y especial pronunciamiento las siguientes:
+En las cuestiones incidentales que tengan lugar en los asuntos que se tramiten en el Tribunal de Justicia Administrativa, sólo serán de previo y especial pronunciamiento las siguientes:
 
 I.- La acumulación de autos;
 
@@ -731,9 +945,11 @@ El incidente de acumulación podrá promoverse o iniciarse de oficio por el Magi
 
 Procederá el incidente de nulidad de notificaciones, cuando éstas no se practiquen de conformidad a lo dispuesto en esta Ley. En este caso, la parte agraviada podrá pedir que se declare su nulidad dentro de los cinco días siguientes a aquél en que conoció el hecho que lo motive. Si se declara la nulidad el Pleno ordenará reponer la notificación anulada y las actuaciones posteriores que sean consecuencia de ella.
 
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 74.
 
-Las partes podrán recusar a los Magistrados cuando estén en alguno de los casos de impedimento previstos en el artículo 44 de esta Ley. De la recusación conocerá el Pleno del Tribunal, y podrá promoverse hasta antes de la celebración de la audiencia.
+Las partes podrán recusar a los Magistrados cuando estén en alguno de los casos de impedimento previstos en el artículo 44 de esta Ley. De la recusación conocerá el Pleno de la Sala correspondiente a la adscripción del Magistrado, en los términos del artículo 46 BIS de esta Ley, y podrá promoverse hasta antes de la celebración de la audiencia.
 
 ###### ARTÍCULO 75.
 
@@ -755,9 +971,11 @@ Las partes deberán ofrecer las pruebas en los escritos de demanda y contestaci�
 
 Las pruebas podrán ser objetadas en el término de cinco días a partir de la notificación del auto que las admitió, o en su caso, al contestar la demanda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 78.
 
-En el juicio ante el Tribunal de lo Contencioso Administrativo, serán admisibles toda clase de pruebas que tengan relación con la litis, excepto la confesional a cargo de las autoridades, las que fueren contrarias a la moral y al derecho. En particular, esta ley reconoce como medios de prueba:
+En el juicio ante el Tribunal de Justicia Administrativa, serán admisibles toda clase de pruebas que tengan relación con la litis, excepto la confesional a cargo de las autoridades, las que fueren contrarias a la moral y al derecho. En particular, esta Ley reconoce como medios de prueba:
 
 I.- La confesional a cargo de los particulares:
 
@@ -811,7 +1029,7 @@ Las pruebas rendidas ante las autoridades demandadas deberán remitirse con el o
 
 Los Magistrados podrán ordenar en todo tiempo, sea cual fuere la naturaleza del caso, la práctica, repetición o ampliación de cualquier diligencia probatoria, siempre que, a su juicio, sean adecuados para conocer la verdad sobre los puntos controvertidos.
 
-En la práctica de estas diligencias, los Magistrados obrarán como estimen pertinente para obtener el mejor resultado de ellas, sin lesionar el derecho de las partes, oyéndolas y procurando en todo su igualdad.
+En la práctica de estas diligencias, los Magistrados obrarán como estimen pertinente, para obtener el mejor resultado de ellas, sin lesionar el derecho de las partes, oyéndolas y procurando en todo su igualdad.
 
 ###### ARTÍCULO 80.
 
@@ -887,9 +1105,11 @@ La audiencia deberá suspenderse cuando no se hayan resuelto los incidentes de p
 
 ### CAPÍTULO XI. DE LA IMPROCEDENCIA Y SOBRESEIMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 86.
 
-Será improcedente el juicio ante el Tribunal de lo Contencioso Administrativo cuando se promueva en contra de actos:
+Será improcedente el juicio ante el Tribunal de Justicia Administrativa cuando se promueva en contra de actos:
 
 I.- Que no sean competencia del Tribunal;
 
@@ -989,9 +1209,11 @@ Las partes podrán formular excitativa de justicia ante el Pleno del Tribunal, s
 
 La aclaración de sentencia tendrá lugar cuando se requiera esclarecer algún concepto o suplir cualquier omisión que contenga, sin que esto implique variar o modificar el sentido en que fue pronunciada la misma. Podrá solicitarla cualquiera de las partes y su trámite será incidental.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 94.
 
-Causarán ejecutoria las sentencias dictadas por el Tribunal de lo Contencioso Administrativo no impugnadas en los términos de Ley, o que habiéndolo sido, se haya declarado desierto o improcedente el medio de impugnación, o se haya desistido de él quien promueva, así como las consentidas en forma expresa por las partes o sus representantes legítimos. Asimismo, los fallos del Pleno en los recursos de revisión interpuestos por las autoridades demandadas causarán ejecutoria.
+Causarán ejecutoria las sentencias dictadas por la Sala Superior del Tribunal de Justicia Administrativa no impugnadas en los términos de Ley, o que habiéndolo sido, se haya declarado desierto o improcedente el medio de impugnación, o se haya desistido de él quien promueva, así como las consentidas en forma expresa por las partes o sus representantes legítimos. Asimismo, los fallos del Pleno en los recursos de revisión interpuestos por las autoridades demandadas causarán ejecutoria.
 
 En igual forma, causarán ejecutoria los convenios que suscriben las partes para conciliar sus intereses poniendo fin al juicio, siempre que hayan sido elevados a la categoría de cosa Juzgada por el Pleno.
 
@@ -1003,19 +1225,27 @@ La declaración de sentencia ejecutoria, se hará de oficio o a petición de par
 
 Si dentro del término a que se refiere el artículo anterior, la autoridad no cumple con la sentencia o su cumplimiento es excesivo o defectuoso; o, habiéndola cumplido, en cualquier tiempo repite el acto declarado inválido o nulo; o bien, no rinde el informe que corresponda, se le aplicará una multa de diez a sesenta veces el salario mínimo general diario vigente en el Estado. Independientemente de esta sanción, el Pleno del conocimiento comunicará al superior jerárquico de la autoridad de que se trate, la actitud de desobediencia, a fin de que lo conmine al cumplimiento de la resolución.
 
-Si no obstante los requerimientos y sanciones anteriores, no se da cumplimiento a la sentencia, el Pleno del Tribunal, a petición de parte, podrá decretar la destitución del Servidor Público responsable del incumplimiento, excepto de aquellos que gocen de fuero constitucional.
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
+
+Si no obstante los requerimientos y sanciones anteriores, no se da cumplimento a la sentencia, el Pleno de la Sala Superior del Tribunal de Justicia Administrativa, a petición de parte, podrá decretar la destitución del Servidor Público responsable del incumplimiento, excepto de aquellos que gocen de fuero constitucional.
+
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 97.
 
-Si la autoridad demandada goza de fuero constitucional, el Pleno del Tribunal formulará ante la Legislatura del Estado, de conformidad con lo que establece la Ley de Responsabilidades de los Servidores Públicos, la solicitud de declaración de procedencia correspondiente.
+Si la autoridad demandada goza de fuero constitucional, el pleno de la Sala Superior o en su caso de la Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas del Tribunal de Justicia Administrativa, formulará ante la Legislatura del Estado, de conformidad con lo que establece la Ley de la materia, la solicitud de declaración de procedencia correspondiente.
 
 ###### ARTÍCULO 98.
 
 Las sanciones mencionadas en este capítulo también serán aplicables cuando no se cumplimente en sus términos la suspensión que se hubiere decretado respecto del acto reclamado. En este caso, cuando la violación no esté debidamente acreditada en autos, el Pleno requerirá a la autoridad correspondiente para que rinda un informe al respecto dentro de las veinticuatro horas siguientes. Si no lo rindiere se tendrá por acreditada la violación, procediendo a la aplicación de las sanciones correspondientes y ordenando nuevamente su cumplimiento dentro de las veinticuatro horas siguientes. Los actos o procedimientos que hubieren motivado la violación a la suspensión, se declararán sin efectos jurídicos por el Pleno.
 
-## TÍTULO CUARTO. DEL RECURSO DE REVISIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 11 DE MAYO DE 2017)</small>
 
-### CAPÍTULO ÚNICO. DEL RECURSO DE REVISIÓN
+## TÍTULO CUARTO. DE LOS RECURSOS DE REVISIÓN Y APELACIÓN
+
+> <small>(REFORMADO EN SU NUMERACIÓN, B.O. 11 DE MAYO DE 2017)</small>
+
+### CAPÍTULO PRIMERO. DEL RECURSO DE REVISIÓN
 
 ###### ARTÍCULO 99.
 
@@ -1041,7 +1271,9 @@ I.- En los casos de las fracciones I, II, III y VI del artículo que antecede, d
 
 II.- En los casos de las fracciones IV y V del artículo anterior, dentro de los quince días siguientes a la notificación de la resolución recurrida.
 
-De dicho recurso conocerá el Pleno del Tribunal, ante quien debe dirigirse, debiendo presentarse por conducto del Magistrado que haya dictado la resolución recurrida, quien mandará correr traslado a las partes contrarias con el escrito respectivo, concediéndoles el término de cinco días para que contesten los agravios. Transcurrido dicho término, el Pleno lo turnará de inmediato acompañando los documentos necesarios para su resolución y una constancia de la fecha de notificación al recurrente de la resolución impugnada y de los días inhábiles que hubo entre ella y la de presentación del recurso. En caso de que se envíe el expediente original completo, el Pleno dejará copia certificada de un duplicado debidamente sellado y cotejado.
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
+
+De dicho recurso el Pleno de la Sala Superior del Tribunal de Justicia Administrativa, ante quien debe dirigirse, debiendo presentarse por conducto del Magistrado que haya dictado la resolución recurrida, quien mandará correr traslado a las partes contrarias con el escrito respectivo, concediéndoles el término de cinco días para que contesten los agravios. Transcurrido dicho término, el Pleno lo turnará de inmediato acompañando los documentos necesarios para su resolución y una constancia de la fecha de notificación al recurrente de la resolución impugnada y de los días inhábiles que hubo entre ella y la de presentación del recurso. En caso de que se envíe el expediente original completo, el Pleno dejará copia certificada de un duplicado debidamente sellado y cotejado.
 
 El Magistrado deberá suspender la tramitación del procedimiento o la ejecución de las sentencias en el expediente de origen, cuando la resolución impugnada sea alguna de las señaladas en las fracciones I, III y V del artículo 99 de esta Ley, o cuando a su juicio sea necesario.
 
@@ -1053,9 +1285,47 @@ En el auto admisorio se designará al Magistrado Ponente, que no podrá ser el q
 
 Transcurrido este término, el Magistrado formulará su proyecto de resolución, sometiéndolo a la votación del Pleno en la siguiente sesión, dictándose la resolución que corresponda por mayoría o unanimidad de votos.
 
-### CAPÍTULO ÚNICO. RESPONSABILIDAD DE LAS PARTES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 11 DE MAYO DE 2017)</small>
+
+### CAPÍTULO SEGUNDO. DEL RECURSO DE APELACIÓN
+
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+
+ARTÍCULO 101 BIS. Procederá el recurso de apelación contra las resoluciones siguientes:
+
+I.- La que determine imponer sanciones por la comisión de Faltas administrativas graves o Faltas de particulares, y
+
+II.- La que determine que no existe responsabilidad administrativa por parte de los presuntos infractores, ya sean Servidores Públicos o particulares.
+
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+
+ARTÍCULO 101 TER.- El recurso de apelación se promoverá mediante escrito ante la Sala Especializada por conducto de su Presidencia, dentro de los quince días hábiles siguientes a aquél en que surta sus efectos la notificación de la resolución que se recurre.
+
+En el escrito deberán formularse los agravios que consideren las partes se les hayan causado, exhibiéndose una copia del mismo para el expediente y una para cada una de las partes.
+
+El escrito que contenga el recurso de apelación deberá ser remitido junto con el expediente a la Sala Superior en un plazo de cinco días hábiles.
+
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+
+ARTÍCULO 101 QUATER. Una vez recibido el expediente de apelación por la Sala Superior, ésta deberá resolver en el plazo de tres días hábiles si admite el recurso, o lo desecha por encontrar motivo manifiesto e indudable de improcedencia. Si hubiera irregularidades en el escrito del recurso por no haber satisfecho los requisitos de procedencia, se señalará al promovente en un plazo que no excederá de tres días hábiles, para que subsane las omisiones o corrija los defectos precisados en la providencia relativa.
+
+Admitido que fuere el recurso, la Sala Superior dará vista a las partes para que en el término de tres días hábiles, manifiesten lo que a su derecho convenga; vencido dicho término, el Magistrado Ponente formulará el proyecto y dará cuenta del mismo al Pleno de la Sala Superior en un plazo no mayor a sesenta días.
+
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+
+ARTÍCULO 101 QUINTUS.- La Sala Superior procederá al estudio de los conceptos de apelación, atendiendo a su prelación lógica. En todos los casos, se privilegiará el estudio de los conceptos de apelación de fondo por encima de los de procedimiento y forma, a menos que invertir el orden dé la certeza de la inocencia del servidor público o del particular, o de ambos; o que en el caso de que el recurrente sea la Autoridad Investigadora, las violaciones de forma hayan impedido conocer con certeza la responsabilidad de los involucrados.
+
+En los asuntos en los que se desprendan violaciones de fondo de las cuales pudiera derivarse el sobreseimiento del procedimiento de responsabilidad administrativa, la inocencia del recurrente, o la determinación de culpabilidad respecto de alguna conducta, se le dará preferencia al estudio de aquéllas aún de oficio.
+
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+
+ARTÍCULO 101 SEXTUS.- En el caso de ser revocada la sentencia o de que su modificación así lo disponga, cuando el recurrente sea el servidor público o el particular, se ordenará al Ente público en el que se preste o haya prestado sus servicios, lo restituya de inmediato en el goce de los derechos de que hubiese sido privado por la ejecución de las sanciones impugnadas, en los términos de la sentencia respectiva, sin perjuicio de lo que establecen otras leyes.
+
+Se exceptúan del párrafo anterior, los Agentes del Ministerio Público, peritos oficiales y miembros de las instituciones policiales en cuyos casos sólo estarán obligadas (sic) a pagar la indemnización y demás prestaciones a que tengan derecho, sin que en ningún caso proceda la reincorporación al servicio, en los términos previstos en el apartado B, fracción XIII, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## TÍTULO QUINTO. RESPONSABILIDAD DE LAS PARTES
+
+### CAPÍTULO ÚNICO. RESPONSABILIDAD DE LAS PARTES
 
 ###### ARTÍCULO 102.
 
@@ -1069,7 +1339,7 @@ I.- Afirmen dolosamente hechos falsos u omitan los que les consta en relación c
 
 II.- Presenten documentos o testigos falsos.
 
-## TRANSITORIO
+## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1104,3 +1374,53 @@ Comuníquese al Titular del Poder Ejecutivo para su sanción y publicación en e
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los cuatro días del mes de diciembre del año dos mil catorce.- SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR DEL ESTADO.- GUILLERMO PADRÉS ELÍAS.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO ROMERO LÓPEZ.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 11 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 130 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 19 de Julio del año 2017, previa publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Magistrados del Tribunal de lo Contencioso Administrativo que a la entrada en vigor de esta Ley se encuentren en funciones, continuarán en su encargo como Magistrados en el Tribunal hasta la culminación del plazo por el cual se otorgó su nombramiento.
+
+Tratándose de los Magistrados de la Sala Especializada, éstos se designarán en los términos previstos por el artículo 67 bis, párrafo cuarto de la Constitución Política del Estado de Sonora y entrarán en funciones el 19 de julio de 2017, previa toma de protesta y publicación de la misma en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
+
+###### ARTÍCULO CUARTO.
+
+Previo a la entrada en vigor de la presente ley, el Titular del Ejecutivo Estatal deberá enviar al Congreso del Estado, las propuestas de nombramientos de Magistrados que integren las Salas Especializadas, a más tardar en el periodo ordinario de sesiones inmediato anterior a la entrada en vigor de la Ley General de Responsabilidades Administrativas. Los Magistrados que sean designados entrarán en funciones el diecinueve de julio de dos mil diecisiete.
+
+###### ARTÍCULO QUINTO.
+
+El Pleno del Tribunal, deberá realizar las adecuaciones necesarias en su normatividad interna, para efecto de dar cumplimiento a las obligaciones y atribuciones establecidas en el presente Decreto, en un plazo no mayor de 60 días naturales contados a partir de la entrada en vigor del mismo.
+
+###### ARTICULO SEXTO.
+
+La Sala Especializada deberá expedir su reglamento interior y demás normatividad interna en un plazo no mayor (sic) 30 días hábiles contados a partir de la entrada en vigor del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Hacienda deberá proporcionar la suficiencia presupuestal al Tribunal y a la Sala Especializada para su debida integración y funcionamiento.
+
+###### ARTÍCULO OCTAVO.
+
+Los recursos materiales, presupuestales, humanos, así como los bienes muebles e inmuebles y contratos celebrados por el Tribunal Contencioso Administrativo pasan al Tribunal de Justicia Administrativa.
+
+###### ARTÍCULO NOVENO.
+
+De conformidad con el artículo sexto transitorio de la Ley del Servicio Civil, el Tribunal de Justicia Administrativa continuará conociendo de los asuntos previstos en el artículo 112 de la citada Ley del Servicio Civil, hasta en tanto se instala y constituye el Tribunal de Conciliación y Arbitraje.
+
+###### ARTÍCULO DÉCIMO.
+
+El Tribunal de Justicia Administrativa seguirá conociendo de los juicios y recursos en materia fiscal administrativa, responsabilidad administrativa, responsabilidad objetiva y de servicio civil, que actualmente se encuentran en trámite ante el Tribunal Contencioso Administrativo.
+
+Asimismo, todas aquellas disposiciones en las que se mencione el Tribunal Contencioso Administrativo se entenderán referidas al Tribunal de Justicia Administrativa.
