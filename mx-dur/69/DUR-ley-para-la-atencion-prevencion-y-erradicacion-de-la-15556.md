@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-atencion-prevencion-y-erradicacion-de-la-15556"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2015-12-10"
+last_updated: "2017-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15556&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA ATENCIÓN, PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -131,9 +131,17 @@ b) Violencia Psicológica: Cualquier acto u omisión del agresor que cause a la 
 
 c) Violencia patrimonial: Toda conducta de acción u omisión del agresor que afecta la independencia patrimonial de la víctima, que se manifiesta mediante la destrucción, sustracción, retención o distracción de bienes comunes o propios de la víctima, así como de valores, derechos patrimoniales, objetos o documentos personales;
 
-d) Violencia económica: Toda acción u omisión del agresor que afecta la independencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso o recursos económicos destinados a satisfacer las necesidades de la víctima y sus hijos; así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral; y
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2017)</small>
 
-e) Violencia sexual: Todo acto que atente contra la libertad, integridad y seguridad sexual de la víctima, así como contra su dignidad al denigrarla y concebirla como un objeto.
+d) Violencia económica: Toda acción u omisión del agresor que afecta la independencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso o recursos económicos destinados a satisfacer las necesidades de la víctima y sus hijos; así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2017)</small>
+
+e) Violencia sexual: Todo acto que atente contra la libertad, integridad y seguridad sexual de la víctima, así como contra su dignidad al denigrarla y concebirla como un objeto; y
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2017)</small>
+
+f) Violencia de alienación parental.- Manipulación que un progenitor o un familiar realiza hacia un menor de edad, mediante la desaprobación o la crítica, con el objeto de denigrar al otro progenitor o a sus familiares y con el propósito de producir en el menor, rechazo, rencor, odio o desprecio hacia alguno de éstos, con el propósito de inducir al menor a rechazar la convivencia con el progenitor o familiar.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
@@ -677,11 +685,19 @@ I. Prestar servicios de atención, asesoría jurídica, psicológica y social a 
 
 II. Coadyuvar y coordinar a las instancias competentes en las acciones y programas de asistencia, atención y prevención de la violencia familiar, realizando diversas acciones encaminadas a sensibilizar a la población;
 
-III. Capacitar al personal operativo para detectar, atender y canalizar a los agresores y víctimas de la violencia familiar, impulsando la formación de promotores comunitarios, cuya función básica será difundir los programas de prevención de la violencia familiar en comunidades alejadas; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
 
-IV. Promover la instalación de centros de protección y asistencia a las víctimas de violencia familiar, apoyando y revisando el servicio y atención proporcionada por las casas hogar de asistencia privada; y
+III. Capacitar al personal operativo para detectar, atender y canalizar a los agresores y víctimas de la violencia familiar, impulsando la formación de promotores comunitarios, cuya función básica será difundir los programas de prevención de la violencia familiar en comunidades alejadas;
 
-V. Las demás que acuerde el Concejo Estatal y el Municipal.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
+
+IV. Promover la instalación de centros de protección y asistencia a las víctimas de violencia familiar, apoyando y revisando el servicio y atención proporcionada por las casas hogar de asistencia privada;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2017)</small>
+
+V. Difundir las causas y efectos nocivos del síndrome de alienación parental en las niñas, niños y adolescentes, así como implementar las medidas necesarias para su detección y tratamiento; y
+
+VI. Las demás que acuerde el Consejo Estatal y el Municipal.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
 
@@ -962,3 +978,11 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 11 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 133.- QUE CONTIENE REFORMAS Y ADICIONES A DIVERSOS ARTÍCULOS DE LA LEY PARA LA ATENCIÓN, PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA DAMILIAR".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
