@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-82-organica-de-la-procuraduria-general-de-110873"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-11"
-last_updated: "2017-03-27"
+last_updated: "2017-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY NUMERO 82 ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-> <small>[N. DE E. VÉASE NUEVA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 27 DE MARZO DE 2017.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO PÁRRAFO DEL ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 27 DE MARZO DE 2017 Y SU DECRETO DE REFORMAS NÚMERO 134, PUBLICADO EN EL B.O. DE 11 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2017 (ABROGADA).
 
 Ley publicada en Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 11 de diciembre de 2015.
 
@@ -39,9 +39,7 @@ NÚMERO 82
 
 EL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, TIENE A BIEN EXPEDIR LA SIGUIENTE:
 
-LEY
-
-ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -1347,6 +1345,10 @@ Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, d
 
 La Ley Orgánica de la Procuraduría General, publicada en el Boletín Oficial del Gobierno del Estado de Sonora número 53, sección VIII, de fecha 30 de diciembre de 1991, continuará su aplicación en los casos que se tramiten bajo el régimen del Código de Procedimientos Penales del Estado de Sonora y quedará abrogada, una vez se concluya el último proceso penal seguido bajo sus reglas, y entre en vigor y en su totalidad el Código Nacional de Procedimientos Penales.
 
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+
+Asimismo, se abroga la Ley número 82, Orgánica de la Procuraduría General de Justicia del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado de Sonora Edición Especial, de fecha 11 de diciembre de 2015 y sus modificaciones.
+
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
@@ -1354,3 +1356,11 @@ Se derogan todas las disposiciones que se opongan a la presente Ley.
 ###### ARTÍCULO NOVENO.
 
 Las menciones que se realicen en la presente Ley y demás leyes, reglamentos, acuerdos, circulares y documentos oficiales, respecto de la Agencia Ministerial de Investigación Criminal, se entenderán que se refieren a la Policía Estatal Investigadora.
+
+B.O. 11 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 134 "QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
