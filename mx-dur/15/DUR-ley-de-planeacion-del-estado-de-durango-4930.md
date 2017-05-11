@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-planeacion-del-estado-de-durango-4930"
 country: "mx"
 rank: "ley"
 publication_date: "1987-02-01"
-last_updated: "2013-04-09"
+last_updated: "2017-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PLANEACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 1 de febrero de 1987.
 
@@ -53,13 +53,17 @@ LEY de PLANEACION del ESTADO de DURANGO
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 1o.
 
-Las disposiciones de esta Ley son de órden público e interés social y tienen por objeto establecer las normas y principios básicos, conforme a los cuales se llevará a cabo la planeación para el desarrollo del Estado de Durango, así como el establecimiento de las bases de integración y funcionamiento del Sistema Estatal de Planeación Democrática.
+Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto establecer las normas y principios básicos, conforme a los cuales se llevará a cabo la planeación para el desarrollo del Estado de Durango, así como el establecimiento de las bases de integración y funcionamiento del Sistema Estatal de Planeación del Desarrollo.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2017)</small>
 
 ###### ARTICULO 2o.
 
-La planeación deberá llevarse a cabo, como un medio de utilización eficiente de los recursos de que se puede disponer en el Estado, propiciando el desarrollo integral de la entidad que encauce el crecimiento económico hacia las exigencias del desarrollo social.
+La planeación deberá llevarse bajo los principios de racionalidad y optimización de los recursos, deberá mantener en su formulación una visión a largo plazo, de desarrollo económico y social de la entidad, una programación con objetivos y metas a mediano y corto plazo, la identificación de prioridades producto del consenso social, así como los mecanismos que permitan dar seguimiento a su ejecución y la evaluación de resultados con la participación ciudadana.
 
 ###### ARTICULO 3o.
 
@@ -79,13 +83,17 @@ V.- Buscar el equilibrio entre los factores de producción e impulsar la product
 
 VI.- Fomentar el uso eficiente de los recursos públicos con el fin de maximizar los resultados, previendo siempre su orientación al logro de los objetivos de la planeación en el marco de una gestión basada en resultados.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 4o.
 
-Las disposiciones reglamentarias de esta Ley establecerán las normas de organización y funcionamiento del sistema estatal de planeación democrática y el proceso de planeación a que deberán sujetarse las actividades conducentes a la formulación, instrumentación, evaluación y control del plan y los programas a que se refiere este ordenamiento.
+Las disposiciones reglamentarias de esta Ley establecerán las normas de organización y funcionamiento del Sistema Estatal de Planeación del Desarrollo y el proceso de planeación a que deberán sujetarse las actividades conducentes a la formulación, instrumentación, evaluación y control del plan y los programas a que se refiere este ordenamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2017)</small>
 
 ###### ARTICULO 5o.
 
-El Gobernador del Estado tiene la responsabilidad del desarrollo y la planeación democrática en las esferas de su competencia y atribuciones. Para tal fin, proveerá lo conducente para establecer los canales de participación y consulta popular en el proceso de planeación, así como para entablar la relación más equitativa tanto con el Gobierno Federal como con los Ayuntamientos de la Entidad. El Ejecutivo Estatal aprobará el Plan Estatal de Desarrollo y los Programas que de él emanen.
+El Gobernador del Estado tiene la responsabilidad del desarrollo y la planeación democrática en las esferas de su competencia y atribuciones. Para tal fin, proveerá lo conducente para establecer los canales de participación y consulta popular en el proceso de planeación, así como para entablar la relación más equitativa tanto con el Gobierno Federal como con los Ayuntamientos de la Entidad. El Ejecutivo Estatal aprobará los Planes Estratégico y Estatal de Desarrollo y los Programas que de él emanen.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
@@ -97,29 +105,37 @@ Los Ayuntamientos del Estado formularán sus planes de desarrollo y sus programa
 
 El Gobierno Estatal prestará la asesoría necesaria en materia de planeación, programación, evaluación y control.
 
-### CAPITULO SEGUNDO. EL SISTEMA ESTATAL de Planeación Democrática
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2017)</small>
+
+### CAPITULO SEGUNDO. El Sistema Estatal de Planeación del Desarrollo
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2017)</small>
 
 ###### ARTICULO 7o.
 
-Con el fín de garantizar los derechos económicos y sociales de los individuos y de los grupos organizados de la Entidad, la planeación del desarrollo se estructurará en un sistema de carácter democrático y participativo.
+Con el fin de garantizar los derechos económicos y sociales de los individuos y de los grupos organizados de la Entidad, la planeación del desarrollo se estructurará en un sistema de carácter democrático, participativo e incluyente que recogerá las aspiraciones y demandas de la sociedad para incorporarlas en un Plan Estratégico, el cual contendrá objetivos con proyección a largo plazo para lograr el desarrollo sostenido y sustentable de la entidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2017)</small>
 
 ###### ARTICULO 8o.
 
-El Sistema Estatal de planeación democrática estructurará los esfuerzos de la Administración Pública, de los sectores social y privado y de los ciudadanos interesados en el proceso de desarrollo.
+El Sistema Estatal de planeación del Desarrollo, estructurará los esfuerzos de la Administración Pública, de los sectores social y privado y de los ciudadanos interesados en el proceso de desarrollo.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
 Forman parte del sistema, las dependencias y entidades u organismos de la administración pública estatal, y los ayuntamientos, a través de sus unidades administrativas que tengan .asignadas las funciones de planeación; con el apoyo de la participación ciudadana, así mismo podrán formar parte del sistema las representaciones en el Estado de las dependencias y entidades de la administración pública federal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2017)</small>
 
 ###### ARTICULO 9o.
 
-En el sistema de planeación democrática, la Secretaría de Finanzas y de Administración tendrá las siguientes atribuciones:
+En el sistema de planeación del desarrollo, la Secretaría de Finanzas y de Administración tendrá las siguientes atribuciones:
 
 I.- Coordinar las acciones en el proceso de la planeación del desarrollo del Estado.
 
-II.- Elaborar el Plan Estatal de Desarrollo, los programas que de el se deriven y vigilar el seguimiento de su ejecución escuchando la opinión y tomando en cuenta las propuestas de las demás dependencias del Ejecutivo, de las dependencias federales, de los Ayuntamientos y de los grupos e individuos interesados.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
+
+II.- Elaborar los Planes Estratégico y Estatal de Desarrollo, los programas que de ellos se deriven y vigilar el seguimiento de su ejecución escuchando la opinión y tomando en cuenta las propuestas de las demás dependencias del Ejecutivo, de las dependencias federales, de los Ayuntamientos y de los grupos e individuos interesados.
 
 III.- Hacer congruente la planeación y el desarrollo estatales con la planeación y conducción del desarrollo nacional, poniendo en práctica mecanismos de control y evaluación del plan y los programas.
 
@@ -163,7 +179,9 @@ V.- Las demás que les asignen esta Ley y otros ordenamientos.
 
 A las Dependencias de la Administración Pública les corresponde:
 
-I.- Participar en la elaboración del Plan Estatal de Desarrollo respecto de las materias que les competan y les sean asignadas en la Ley Orgánica de la Administración Pública y otras Leyes y Reglamentos.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
+
+I.- Participar en la elaboración de los Planes Estratégico y Estatal de Desarrollo respecto de las materias que les competan y les sean asignadas en la Ley Orgánica de la Administración Pública y otras Leyes y Reglamentos.
 
 II.- Elaborar programas sectoriales tomando en consideración los elementos del sistema de planeación nacional, estatal, municipal y las opiniones de los grupos sociales interesados.
 
@@ -185,9 +203,9 @@ I.- Presentar propuestas en relación a sus funciones y objeto, participando en 
 
 II.- Considerar, en la elaboración de sus propuestas presupuestales y programáticas, a política de regionalización del Gobierno y las prioridades y objetivos que en su caso fije la planeación estatal.
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
 
-III.- Asegurar que los programas operativos anuales correspondientes a cada programa presupuestario, guarden la debida congruencia con el programa sectorial respectivo y con los objetivos del Plan Estatal de Desarrollo, debiendo enviar, cada inicio de año, su programa operativo anual a la Secretaría de Finanzas y Administración para su registro y análisis correspondiente;
+III.- Asegurar que los programas operativos anuales correspondientes a cada programa presupuestario, guarden la debida congruencia con el programa sectorial respectivo y con los objetivos del Plan Estatal de Desarrollo y del Plan Estratégico, debiendo enviar, cada inicio de año, su programa operativo anual a la Secretaría de Finanzas y de Administración para su registro y análisis correspondiente;
 
 IV.- Verificar periódicamente, por conducto de sus respectivos órganos de gobierno, sus programas y la relación que guardan los resultados de su acción con las prioridades y objetivos de los programas sectoriales.
 
@@ -219,11 +237,17 @@ En los foros de consulta popular participará, en un marco de corresponsabilidad
 
 Las disposiciones reglamentarias que normarán el sistema estatal democrático determinarán la organización y funcionamiento, formalidades, periodicidad y términos a los que se sujetarán la participación y consulta de la sociedad en la planeación del desarrollo.
 
-### CAPITULO CUARTO. Del Plan Estatal de Desarrollo y Programas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2017)</small>
+
+### CAPITULO CUARTO. De los Planes Estratégico, Estatal de Desarrollo y Programas
 
 ###### ARTICULO 18o.
 
 El Plan Estatal de Desarrollo, se elaborará, aprobará y publicará dentro de un plazo de seis meses, contados a partir de la toma de posesión del Gobernador. Su vigencia no excederá del período constitucional que le corresponda, pero sus previsiones y proyecciones si podrán exceder de ese término.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE MAYO DE 2017)</small>
+
+El Plan Estratégico contiene la visión, objetivos y estrategias de desarrollo económico y social con proyección a largo plazo; será revisado y, en su caso, ajustados sus objetivos cada seis años. Los Planes Estatales y Municipales guardarán congruencia con el Plan Estratégico.
 
 ###### ARTICULO 19o.
 
@@ -245,9 +269,13 @@ Aprobado y publicado el Plan Estatal de Desarrollo adquiere carácter obligatori
 
 Dichos programas especificarán su naturaleza, el ámbito espacial de su operatividad, la dimensión económica y social que han de efectuar, las bases de coordinación y concertación y los plazos de su ejecución.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 22o.
 
 Los programas sectoriales, regionales, institucionales y especiales tendrán congruencia con los objetivos, estrategias y prioridades del plan; estarán sujetos a la política de regionalización establecida y no excederán al período constitucional en que fueron aprobados aunque sus previsiones y proyectos involucren plazos mayores.
+
+Los proyectos de inversión pública de carácter multianual, destinados a programas estratégicos, podrán trascender en su conclusión el periodo de administración estatal o municipal correspondiente, pero deberán ser autorizados por el Congreso del Estado.
 
 ###### ARTICULO 23o.
 
@@ -279,9 +307,9 @@ Dicha actividad implica la programación sectorial, regional e institucional y e
 
 En los términos de la presente Ley, la planeación y programación estatales serán sometidas a la aprobación de las siguientes prescripciones:
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
 
-I.- El Plan Estatal de Desarrollo y los Programas Regionales y Especiales del Estado que impliquen relaciones de dos o más sectores, serán presentados por la Secretaría de Finanzas y de Administración;
+I.- Los Planes Estratégico, Estatal de Desarrollo y los Programas Regionales y Especiales del Estado que impliquen relaciones de dos o más sectores, serán presentados por la Secretaría de Finanzas y de Administración;
 
 II.- Los programas sectoriales serán presentados por los titulares de las Dependencias de la Administración Pública Centralizada.
 
@@ -333,9 +361,11 @@ IV.- En el curso de Marzo de cada año, los Presidentes Municipales informarán 
 
 Los planes de desarrollo y los programas estatales y municipales harán referencia a los mecanismos de coordinación entre las diferentes instancias de gobierno y a las acciones que pueden concertarse como resultado de la participación democrática de la sociedad en la planeación del desarrollo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 36o.
 
-El Plan Estatal de desarrollo y los Planes Municipales serán publicados en el Periódico Oficial del Estado.
+Los Planes Estratégico, Estatal de desarrollo y los Planes Municipales serán publicados en el Periódico Oficial del Estado.
 
 Las modificaciones esenciales al Plan Estatal de Desarrollo seguirán el procedimiento que se señala en esta Ley para su aprobación y publicación.
 
@@ -345,9 +375,11 @@ Las modificaciones a los planes municipales de desarrollo que pudieran afectar e
 
 La denominación "PLAN", queda reservada exclusivamente para el Plan Estatal de Desarrollo y los planes municipales.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 38o.
 
-Una vez aprobados por el Ejecutivo, el Plan Estatal de Desarrollo y los programas que de el se deriven, serán obligatorios para las dependencias y entidades u organismos de carácter estatal en el ámbito de sus respectivas competencias.
+Una vez aprobados por el Ejecutivo, los Planes Estratégico, Estatal de Desarrollo y los programas que de ellos se deriven, serán obligatorios para las dependencias y entidades u organismos de carácter estatal en el ámbito de sus respectivas competencias.
 
 ###### ARTICULO 39o.
 
@@ -415,9 +447,11 @@ Los convenios de planeación y desarrollo que el Gobierno de la Entidad firme co
 
 ### CAPITULO SEXTO. De la Concertación e Inducción
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 49o.
 
-El Ejecutivo del Estado y los Titulares de sus Dependencias, así como los directores de las entidades u organismos son los responsables de la concertación e inducción de las acciones del Estado con las representaciones legítimas de los grupos sociales y con los particulares interesados, previstas en el Plan Estatal de Desarrollo y en los programas.
+El Ejecutivo del Estado y los Titulares de sus Dependencias, así como los directores de las entidades u organismos son los responsables de la concertación e inducción de las acciones del Estado con las representaciones legítimas de los grupos sociales y con los particulares interesados, previstas en los Planes Estratégico, Estatal de Desarrollo y en los programas.
 
 En los mismos términos de responsabilidad a que se refiere el párrafo anterior y mediante los instrumentos de desarrollo a que dispone la Administración Pública, los actos de Gobierno inducirán las acciones de los diversos sectores e individuos de la sociedad hacia los objetivos y prioridades de la planeación del desarrollo.
 
@@ -457,13 +491,13 @@ I. Gestionar e impulsar la participación de las comunidades y del sector social
 
 II. Proyectar y coordinar, con la participación del Gobierno del Estado y los Municipios, la planeación regional;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
 
-III. Propiciar la integración de los sectores social y privado, de los Municipios y la Federación en el sistema estatal de planeación democrática, procurando la incorporación de sus esfuerzos al proceso del desarrollo estatal;
+III. Propiciar la integración de los sectores social y privado, de los Municipios y la Federación en el Sistema Estatal de Planeación del Desarrollo, procurando la incorporación de sus esfuerzos al proceso del desarrollo estatal;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
 
-IV. Establecer las bases o lineamientos generales para la formulación del Plan Estatal de Desarrollo; y
+IV. Establecer las bases o lineamientos generales para la formulación de los Planes Estratégico y Estatal de Desarrollo; y
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
@@ -523,7 +557,9 @@ I. Brindar apoyo técnico a las dependencias y entidades de la administración p
 
 II. Operar la planeación, programación y concertación para el desarrollo del Estado, de acuerdo a la encomienda del Ejecutivo Estatal, además de coordinar y evaluar la política general de desarrollo de la entidad;
 
-III. Coordinar los trabajos para la formulación del Plan Estatal de Desarrollo y de los informes anuales del Ejecutivo del Estado; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
+
+III. Coordinar los trabajos para la formulación de los Planes Estratégico y Estatal de Desarrollo y de los informes anuales del Ejecutivo del Estado; y
 
 Representar al Comité en todos los actos en que éste participe, así como ejecutar las tareas especiales que le encomiende el titular del Poder Ejecutivo del Estado.
 
@@ -565,7 +601,9 @@ I. Participar en todos los grupos de trabajo, así como en los Subcomités Secto
 
 II. Participar en la formulación, actualización e instrumentación del Plan Estatal de Desarrollo;
 
-III. Programar las actividades de sus dependencias, conforme a sus lineamientos y objetivos del Plan Estatal de Desarrollo, buscando siempre los aspectos compatibles y la coordinación de sus programas con los del Gobierno Federal y los de los Municipios de la Entidad; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
+
+III. Programar las actividades de sus dependencias, conforme a sus lineamientos y objetivos de los Planes Estratégico y Estatal de Desarrollo, buscando siempre los aspectos compatibles y la coordinación de sus programas con los del Gobierno Federal y los de los Municipios de la Entidad; y
 
 IV. Ejecutar las tareas especiales que les encomiende el Presidente del Comité.
 
@@ -581,15 +619,21 @@ II. Cuidar que la formulación de sus programas, sea compatible y la ejecución 
 
 III. Sugerir al Presidente del Comité, programas y acciones a concertar entre el Ejecutivo del Estado y el Ejecutivo Federal.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2017)</small>
 
 ###### ARTICULO 61º.
 
-Con respecto a la autonomía municipal, a los Presidente (sic) de los Ayuntamientos se les invitará a:
+Con respeto a la autonomía municipal, a los Presidentes de los Ayuntamientos se les invitará a:
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 I. Participar en todos los grupos de trabajo, así como en los Subcomités Sectoriales, Regionales y Especiales, de los cuales formen parte;
 
-II. Colaborar en la formulación, actualización e instrumentación del Plan Estatal de Desarrollo; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
+
+II. Colaborar en la formulación, actualización e instrumentación de los Planes Estratégico y Estatal de Desarrollo; y
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 III. Cuidar que la programación de sus actividades, sea compatible y la ejecución de sus programas, se coordine con los planes, programas y proyectos del Gobierno del Estado y Municipios colindantes.
 
@@ -601,7 +645,9 @@ A los miembros representantes de los Sectores Social y Privado, se les invitará
 
 I. Participar en todos los grupos de trabajo, así como en los subcomités sectoriales, regionales y especiales, de los cuales formen parte;
 
-II. Participar en la formulación y actualización del Plan Estatal de Desarrollo, planteando los problemas, soluciones y puntos de vista de los sectores que representan;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
+
+II. Participar en la formulación y actualización de los Planes Estratégico y Estatal de Desarrollo, planteando los problemas, soluciones y puntos de vista de los sectores que representan;
 
 III. Promover, en sus sectores, el espíritu y actos concretos de coordinación y cooperación en la Entidad; y
 
@@ -686,3 +732,19 @@ El proceso de transferencia se realizará de conformidad a las disposiciones leg
 ###### ARTÍCULO SEXTO.
 
 En un plazo de 90 días se deberá expedir las disposiciones administrativas derivadas de la reforma y adición a la presente Ley.
+
+P.O. 11 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 136.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE PLANEACION DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Para dar debido cumplimiento a lo establecido en el artículo 18 del presente decreto; el Plan Estratégico, se elaborará, aprobará y promulgará en los términos de esta Ley.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
