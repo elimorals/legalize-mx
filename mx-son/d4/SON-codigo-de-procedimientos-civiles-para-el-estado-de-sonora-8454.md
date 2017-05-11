@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2017-01-26"
+last_updated: "2017-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2017.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -1753,13 +1753,19 @@ a) Para el desistimiento se requerirá el consentimiento expreso del demandado, 
 
 b) Las costas y gastos serán a cargo del actor, salvo convenio en contrario.
 
-II.- Por caducidad debida a inactividad de las partes durante dos años consecutivos. En este caso se tendrá en cuenta lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE MAYO DE 2017)</small>
 
-a) No operará la caducidad si ya se dictó sentencia definitiva.
+II.- Por caducidad debida a inactividad de las partes durante seis meses consecutivos. En este caso se tendrá en cuenta lo siguiente:
+
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
+
+a) No operará la caducidad en primera instancia, si ya se dictó sentencia definitiva. Cuando la caducidad opere en segunda instancia la sentencia impugnada causará ejecutoria y, tratándose de otras resoluciones, éstas quedarán firmes.
 
 b) Sólo procederá por falta de promoción de las partes, ya sea en el expediente principal o en cualquier incidente. Los actos o promociones de mero trámite que no impliquen ordenación o impulso del procedimiento, no se considerarán como actividad de las partes ni impedirán que la caducidad se realice.
 
-C) La caducidad debe ser declarada a petición de parte, y el auto relativo será apelable en el efecto suspensivo, y
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
+
+c) La caducidad debe ser declarada de oficio o a petición de la parte, y el auto relativo será apelable en el efecto suspensivo, y
 
 d) Cada parte reportará los gastos y costas que hubiere erogado.
 
@@ -8764,5 +8770,17 @@ El presente Decreto entrará en vigor a los treinta días hábiles después de s
 En aquellos asuntos que se encuentren en proceso al entrar en vigor el presente Decreto, las partes y sus abogados podrán de manera opcional proporcionar una dirección de correo electrónico para que en lo sucesivo se les realicen notificaciones a través de ese medio y con base en la normatividad de este decreto.
 
 ###### ARTÍCULO TERCERO.
+
+Las demandas interpuestas antes de la fecha de entrada en vigor de estas reformas, se regirán por la normatividad vigente en el momento de su presentación.
+
+B.O. 11 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 126, QUE REFORMA DIVERSAS DISPOSICIONES DEL ARTÍCULO 192 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
 
 Las demandas interpuestas antes de la fecha de entrada en vigor de estas reformas, se regirán por la normatividad vigente en el momento de su presentación.
