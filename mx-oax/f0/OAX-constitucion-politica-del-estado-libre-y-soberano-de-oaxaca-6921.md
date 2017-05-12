@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2017-05-03"
+last_updated: "2017-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -283,7 +283,7 @@ La prisión preventiva no podrá exceder del tiempo que como máximo de pena fij
 
 Toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención.
 
-C. De la víctima o del ofendido:
+C. De la víctima o del ofendido
 
 I. Recibir asesoría jurídica; ser informado de los derechos que en su favor establece la Constitución; y, cuando lo solicite, ser informado del desarrollo del procedimiento penal;
 
@@ -303,7 +303,7 @@ La Ley fijará procedimientos ágiles para ejecutar las sentencias en materia de
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
-V. Al resguardo de sus (sic) identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos de violación, trata de personas o secuestro; y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
+V. Al resguardo de sus (sic) identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos de violación, trata de personas o secuestro, y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
 
 El Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y en general todas los sujetos que intervengan en el proceso. Los jueces deberán vigilar el buen cumplimiento de esta obligación;
 
@@ -399,7 +399,7 @@ El patrimonio familiar es inalienable, imprescriptible e inembargable.
 
 (REFORMADO, P.O. 26 DE JULIO DE 2008) (F. DE E., P.O. 16 DE AGOSTO DE 2008)
 
-Las niñas y los niños nacidos en el matrimonio o fuera de él tienen derecho a igual protección. La Ley posibilitará la investigación de la paternidad.
+Las niñas y los niños nacidos en el matrimonio o fuera de él tienen derecho a igual protección. La ley posibilitará la investigación de la paternidad.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
@@ -1593,9 +1593,13 @@ VIII. Suprimir Municipios, siempre que sus rentas no alcancen a cubrir sus Presu
 
 IX. La Legislatura Local, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que estos han desaparecido y suspender o revocar el mandato a alguno de sus miembros por alguna de las causas graves que la ley reglamentaria prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir pruebas y hacer los alegatos que a su juicio convengan.
 
-En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entraren en funciones los suplentes, ni que se celebren nuevas elecciones, la Legislatura designará entre los vecinos a los Concejos Municipales que concluirán los periodos respectivos; estos Concejos estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir con los requisitos de elegibilidad establecidos para los regidores.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
-Si alguno de los miembros dejare de desempeñar su cargo, será substituido por su suplente o se procederá, según lo disponga la ley;
+En caso de declararse desaparecido o suspendido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entraren en funciones los suplentes, ni que se celebren nuevas elecciones, o cuando por cualquier circunstancia especial no se verificare la elección de un Ayuntamiento o esta se hubiere declarado nula o no válida, la Legislatura, a propuesta del Gobernador, designará por las dos terceras partes de sus miembros, a los Concejos Municipales, que concluirán los periodos respectivos.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+
+Los integrantes de los Concejos Municipales se elegirán entre los vecinos y estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir con los requisitos de elegibilidad establecidos para los regidores.
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -1609,9 +1613,7 @@ XI. Aprobar los convenios que celebren los municipios al resolver conciliatoriam
 
 XII. Resolver en la vía conciliatoria, los conflictos que surjan entre los Municipios entre sí y entre estos y los Poderes Ejecutivo y Judicial del Estado;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
-
-XIII.- Designar, a propuesta del Gobernador, a los integrantes de los Consejos Municipales;
+XIII.- (DEROGADA, P.O. 12 DE MAYO DE 2017)
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -1801,9 +1803,9 @@ XLIX. Excitar a los Poderes de la Unión a que presten protección al Estado en 
 
 L. Cumplir con las obligaciones legislativas que le impone la Constitución Federal y las que le impongan las leyes generales;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2017)</small>
 
-LI. Requerir la comparecencia de los secretarios de despacho del Gobierno del Estado, Consejero Jurídico, Fiscal General del Estado de Oaxaca, titulares de los órganos constitucionales autónomos, directores o administradores de las dependencias y entidades de la Administración Pública Estatal, Administradores Municipales que considere pertinente, para que informen cuando se discuta o estudie un asunto relativo a su ramo o actividades, así como, para que respondan a preguntas que se les formulen;
+LI.- Requerir la comparecencia de los secretario de despacho del Gobierno del Estado, Consejero Jurídico, Fiscal General del Estado de Oaxaca, titulares de los órganos constitucionales autónomos, directores o administradores de las dependencias y entidades de la Administración Pública Estatal, concejos municipales y comisionados municipales que se consideren pertinente (sic), para que informen cuando se discuta o estudie un asunto relativo a su ramo o actividades, así como, para que respondan a preguntas que se les formulen;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -2253,9 +2255,11 @@ XIII. Recibir las renuncias de los Magistrados del Tribunal Superior de Justicia
 
 XIV. Pedir la destitución de los funcionarios judiciales en los casos que proceda conforme a esta Constitución y a las Leyes de la materia;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2017)</small>
 
-XV.- Proponer al Congreso del Estado o a la Diputación Permanente en su caso, la integración de los Consejos Municipales, en los términos que señala esta Constitución; Por otra parte, hacer la designación de un encargado de la Administración Municipal, cuando por cualquier circunstancia especial no se verificare la elección de algún ayuntamiento o se hubiere declarado nula o no válida, o bien se hubiese declarado la suspensión o desaparición del mismo, lo anterior de conformidad con lo establecido en la Ley de la materia;
+XV.- Proponer al Congreso del Estado o a la Diputación Permanente en su caso, la integración de los Concejos Municipales, así como designar directamente al comisionado municipal provisional, cuando por cualquier circunstancia especial no se verificare la elección de algún ayuntamiento o se hubiere declarado nula o no válida, o bien se hubiese declarado la suspensión o desaparición del mismo, en los términos y plazos que señala esta Constitución. La función de los comisionados en ningún caso podrá exceder de sesenta días naturales. Estos servidores públicos serán responsables de atender exclusivamente los servicios básicos de los municipios.
+
+La ley determinará los requisitos que deberán reunir los referidos servidores públicos.
 
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -3333,7 +3337,7 @@ El Consejero Presidente y los consejeros electorales del Instituto serán design
 
 Los consejeros electorales locales tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración que no podrá ser superior a la que percibe un Secretario de la Administración Pública Estatal y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la Ley General de Instituciones y Procedimientos Electorales.
 
-Los consejeros electorales locales y demás servidores públicos que establezca la Ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+Los consejeros electorales locales y demás servidores públicos que establezca la Ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales; de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
 El Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca ejercerá funciones en las siguientes materias:
 
@@ -4872,3 +4876,13 @@ Realizada que fuere la elección del Fiscal General del Estado de Oaxaca, se pro
 CUARTO.- Con el fin de dar cumplimiento al procedimiento de integración de la lista de candidatos a Fiscal General del Estado de Oaxaca, se faculta, por única ocasión, a la Junta de Coordinación Política de la Sexagésima Tercera Legislatura del H. Congreso del Estado de Oaxaca para que emita los lineamientos.
 
 QUINTO.- El Fiscal General del Estado de Oaxaca deberá rendir protesta de Ley ante el Congreso del Estado el mismo día de su designación.
+
+P.O. 12 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 588.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor una vez publicado en el Periódico Oficial del Gobierno del Estado de Oaxaca, a partir del uno de enero de 2018.
+
+SEGUNDO.- Una vez que entre en vigor el presente decreto, la legislatura contará con el término de treinta días para que ésta proponga, y dentro de dicho plazo se aprueben las adecuaciones necesarias a las Leyes secundarias.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan a la presente reforma.
