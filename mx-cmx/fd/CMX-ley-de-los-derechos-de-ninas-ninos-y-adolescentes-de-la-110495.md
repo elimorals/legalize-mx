@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2017-05-10"
+last_updated: "2017-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 10 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 12 DE MAYO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -1408,9 +1408,9 @@ La coordinación, en un marco de respeto a las atribuciones entre las instancias
 
 El Sistema de Protección está conformado por las personas titulares de las siguientes instituciones:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE MAYO DE 2017)</small>
 
-A. Del Gobierno de la Ciudad de México:
+A. Del Gobierno del Distrito Federal:
 
 I. Jefatura de Gobierno, quien lo presidirá;
 
@@ -1444,63 +1444,79 @@ B. Órgano Judicial del Distrito Federal:
 
 I. Presidencia del Tribunal Superior de Justicia del Distrito Federal.
 
-> <small>(REFORMADO [N. DE E. REFORMADA SU DENOMINACIÓN], G.O. 10 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, G.O. 12 DE MAYO DE 2017)</small>
 
-C. Órgano Legislativo:
+C. Órgano Legislativo
 
-> <small>(REFORMADA, G.O. 10 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, G.O. 12 DE MAYO DE 2017)</small>
 
-I. La Comisión de Atención al Desarrollo de la Niñez;
+I. Comisión de Atención al Desarrollo de la Niñez
 
-> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2017)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 12 DE MAYO DE 2017)</small>
 
-II. La Comisión de Presupuesto y Cuenta pública; y
+II. Comisión de Presupuesto y Cuenta Pública
 
-> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, G.O. 12 DE MAYO DE 2017)</small>
 
-III. La Comisión de Hacienda.
+III. Comisión de Hacienda
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 12 DE MAYO DE 2017)</small>
 
 D. Organismos Públicos:
 
 I. Presidencia de la Comisión de Derechos Humanos del Distrito Federal, y
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 12 DE MAYO DE 2017)</small>
+
 E. Representantes de la sociedad civil, academia, líderes de opinión, especialistas en la materia, que serán nombrados en los términos del reglamento de esta Ley.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADA] PRIMER PÁRRAFO, G.O. 12 DE MAYO DE 2017)</small>
 
 F. Serán invitados permanentes:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 12 DE MAYO DE 2017)</small>
+
 I. Titulares (sic) los órganos político administrativos.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 12 DE MAYO DE 2017)</small>
 
 II. Consejería Jurídica y de Servicios Legales;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 12 DE MAYO DE 2017)</small>
+
 III. Secretaría de Seguridad Pública;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 12 DE MAYO DE 2017)</small>
 
 IV. Secretaría de Cultura;
 
-> <small>(REFORMADA, G.O. 10 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, G.O. 12 DE MAYO DE 2017)</small>
 
-V. Instituto de las Mujeres de la Ciudad de México;
+V. Instituto de las Mujeres del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 12 DE MAYO DE 2017)</small>
 
 VI. Secretaría de Desarrollo Rural y Equidad para las Comunidades y;
 
-> <small>(REFORMADA, G.O. 10 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, G.O. 12 DE MAYO DE 2017)</small>
 
-VII. Escuela de Administración Pública de la Ciudad de México.
+VII. Escuela de Administración Pública del Distrito Federal.
 
-> <small>(REFORMADA, G.O. 10 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, G.O. 12 DE MAYO DE 2017)</small>
 
-VIII. Consejo para la Evaluación del Desarrollo Social de la Ciudad de México.
+VIII. Consejo para la Evaluación del Desarrollo Social del Distrito Federal
 
-IX. Presidencia de la Comisión de Derechos Humanos de la Asamblea Legislativa del Distrito Federal;
+IX. (DEROGADA, G.O. 12 DE MAYO DE 2017);
 
-> <small>(REFORMADO, G.O. 10 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 12 DE MAYO DE 2017)</small>
 
 Los integrantes señalados en los incisos A, B, C, D y E tendrán voz y voto.
 
-> <small>(REFORMADO, G.O. 10 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 12 DE MAYO DE 2017)</small>
 
 Las y los representantes comprendidos en el inciso F sólo participarán con voz, pero sin voto.
 
-> <small>(REFORMADO, G.O. 10 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 12 DE MAYO DE 2017)</small>
 
 Para efectos de lo previsto en el apartado E, el reglamento deberá prever los términos para la emisión de una convocatoria pública, que contendrá las etapas completas para el procedimiento, sus fechas límites y plazos.
 
@@ -1602,11 +1618,15 @@ V. No haber sido sentenciado por delito doloso o inhabilitado como servidor púb
 
 #### Sección Tercera. De la Procuraduría de Protección
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 111.
 
-Para la efectiva protección y restitución de los derechos de niñas, niños y adolescentes, el Gobierno del Distrito Federal, dentro de la estructura del DIF-CDMX, contará con una Procuraduría de Protección.
+Para una efectiva protección y restitución de los derechos de niñas, niños y adolescentes, el Gobierno del Distrito Federal, dentro de la estructura del DIF-DF, contará con una Procuraduría de Protección.
+
+> <small>(ADICIONADO, G.O. 12 DE MAYO DE 2017)</small>
+
+La Procuraduría de Protección es un órgano adscrito del Sistema para el Desarrollo Integral de la Familia del Distrito Federal con las atribuciones y facultades que señala esta Ley, el Sistema para el Desarrollo Integral de la Familia del Distrito Federal, dotara de los recursos necesarios a la Procuraduría de Protección para la consecución de su objeto.
 
 En el ejercicio de sus funciones, la Procuraduría de Protección podrá solicitar el auxilio de autoridades de los tres órdenes de gobierno, las que estarán obligadas a proporcionarlo de conformidad con las disposiciones aplicables.
 
@@ -1879,3 +1899,21 @@ Artículo Primero.- El presente decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Túrnese el presente Decreto al Jefe de Gobierno del Distrito Federal para su publicación.
 
 Artículo Tercero.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+G.O. 12 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Gobierno de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- Se deberán hacer las adecuaciones normativas respectivas para adaptar a la presente ley, en un plazo no mayor a noventa días.
+
+G.O. 12 DE MAYO DE 2017.
+
+> <small>[N. DE E. "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 111 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO".]</small>
+
+Artículo Primero.- El presente decreto entrara en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+Artículo Segundo.- A efecto de dar cumplimiento al último párrafo del artículo 124 de la Ley General de los derechos de niñas, niños y adolescentes se establece al órgano legislativo de la Ciudad de México un plazo de 180 días para hacer las modificaciones legales conducentes.
