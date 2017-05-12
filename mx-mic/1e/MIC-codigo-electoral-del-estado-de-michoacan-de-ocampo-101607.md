@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2017-01-25"
+last_updated: "2017-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -1189,11 +1189,13 @@ III. Cualquier forma de afiliación corporativa.
 
 Los partidos políticos promoverán los valores cívicos y la cultura democrática en personas menores de edad y buscarán la participación efectiva de ambos géneros en la integración de sus órganos, así como en la postulación de candidatos.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
-Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a cargos de elección popular. Estos deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
+Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a diputados locales y ayuntamientos. Éstos deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
 
-En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellos distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+
+En ningún caso se admitirán criterios que tengan como resultado que alguno de los géneros le sean asignados exclusivamente aquellos distritos o ayuntamientos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
 ###### ARTÍCULO 72.
 
@@ -3107,7 +3109,9 @@ Los partidos políticos promoverán, en los términos que determinen sus documen
 
 De la totalidad de solicitudes de registro de diputados de mayoría relativa, que presenten los partidos políticos, las coaliciones o candidatos independientes ante el Instituto deberán integrarse, garantizando la paridad entre los géneros; los partidos políticos o las coaliciones en las listas de representación proporcional alternarán las fórmulas de distinto género hasta agotar la lista.
 
-En el caso de los ayuntamientos las candidaturas a regidores serán de forma alternada por distinto género hasta agotar la lista.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+
+En el caso de los ayuntamientos las candidaturas a Presidente Municipal, Síndico y regidores serán de forma alternada y en igual proporción de géneros hasta agotar la lista; de igual manera los partidos políticos y coaliciones deberán garantizar la paridad de género en el registro de candidaturas entre los diferentes ayuntamientos que forman parte del Estado.
 
 ###### ARTÍCULO 190.
 
@@ -5125,7 +5129,7 @@ TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 P.O. 29 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE ”SE REFORMAN LOS ARTÍCULOS 112 INCISO A) FRACCIÓN I; 124 INCISO B); 231 INCISO A) FRACCIÓN II, INCISO B) FRACCIÓN II, INCISO C) FRACCIÓN II; INCISO D) FRACCIÓN II, INCISO E) FRACCIÓN II, INCISO F) FRACCIÓN III, INCISO G) FRACCIÓN II E INCISO H) FRACCIÓN II, DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 112 INCISO A) FRACCIÓN I; 124 INCISO B); 231 INCISO A) FRACCIÓN II, INCISO B) FRACCIÓN II, INCISO C) FRACCIÓN II; INCISO D) FRACCIÓN II, INCISO E) FRACCIÓN II, INCISO F) FRACCIÓN III, INCISO G) FRACCIÓN II E INCISO H) FRACCIÓN II, DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -5148,3 +5152,9 @@ P.O. 25 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 293 POR EL QUE "SE REFORMA EL ARTÍCULO 173 Y SE DEROGA EL TRANSITORIO OCTAVO DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 12 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 357 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 71 Y 189 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
