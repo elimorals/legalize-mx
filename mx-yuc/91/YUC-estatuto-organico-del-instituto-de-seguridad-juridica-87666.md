@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-de-seguridad-juridica-87666"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-05-02"
-last_updated: "2015-01-21"
+last_updated: "2017-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE MAYO DE 2017.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el miércoles 2 de mayo de 2012.
 
@@ -131,13 +131,21 @@ I. Dirección general;
 
 a) Departamento de Vinculación de Servicios y Atención a Usuarios.
 
+> <small>(ADICIONADO, D.O. 12 DE MAYO DE 2017)</small>
+
+b) Departamento de Transparencia y Acceso a la Información Pública.
+
 II. Secretario Técnico;
 
 III. Dirección de Registro Público:
 
-a) Un Departamento de Trámites Mercantiles, y
+> <small>(REFORMADO, D.O. 12 DE MAYO DE 2017)</small>
 
-b) Ocho Departamentos de Asuntos Inmobiliarios;
+a) Dos departamentos de trámites mercantiles, y
+
+> <small>(REFORMADO, D.O. 12 DE MAYO DE 2017)</small>
+
+b) Diez departamentos de asuntos inmobiliarios;
 
 IV. Dirección de Catastro:
 
@@ -201,11 +209,11 @@ II. Autorizar los Libros del Sistema Manual de Información a que se refiere la 
 
 III. Las demás que le confieran la Ley, su Reglamento, este Estatuto y demás disposiciones legales, reglamentarias y administrativas aplicables.
 
-> <small>(ADICIONADO, D.O. 4 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 14 Bis.
 
-La Dirección General del Instituto contará con un Departamento de Vinculación de Servicios y Atención a Usuarios, que tendrá las atribuciones y funciones que le señale la Ley, el Reglamento, este Estatuto, el Manual de Organización y demás disposiciones legales y administrativas aplicables.
+La Dirección General del Instituto contará con el Departamento de Vinculación de Servicios y Atención a Usuarios, y el Departamento de Transparencia y Acceso a la Información Pública, que tendrán las atribuciones que les señale la Ley, el Reglamento, este Estatuto, el Manual de Organización y demás disposiciones legales y administrativas aplicables.
 
 #### Sección Única. De la Secretaría Técnica
 
@@ -231,7 +239,7 @@ VIII. Dar seguimiento a las instrucciones que gire el Director General a los Dir
 
 IX. Supervisar la instalación de la infraestructura necesaria para el buen despacho de la oficina del Director General, a efecto de que esté en óptimo estado de funcionamiento y cuente con los suministros para cubrir las necesidades propias de la función;
 
-X. Realizar las funciones de la unidad de acceso a la información del Instituto, en términos de las disposiciones legales, reglamentarias y administrativas correspondientes, y
+X. (DEROGADA, D.O. 12 DE MAYO DE 2017)
 
 XI. Las demás que le asigne el Director General, de conformidad a las disposiciones legales aplicables.
 
@@ -373,9 +381,11 @@ XIII. Delegar la fe pública registral de la que es depositario, a aquellas pers
 
 XIV. Las demás que señalen otras disposiciones legales y reglamentarias aplicables.
 
+> <small>(REFORMADO, D.O. 12 DE MAYO DE 2017)</small>
+
 ###### Artículo 22.
 
-La Dirección del Registro Público contará con ocho departamentos de Asuntos Inmobiliarios y un Departamento de Trámites Mercantiles, los cuales tendrán las atribuciones que les señala la Ley, el Reglamento, este Estatuto, el Manual de Organización y demás disposiciones legales y administrativas aplicables.
+La Dirección del Registro Público contará con diez departamentos de asuntos inmobiliarios y dos departamentos de trámites mercantiles, que tendrán las atribuciones que les señale la Ley, el Reglamento, este Estatuto, el Manual de Organización y demás disposiciones legales y administrativas aplicables.
 
 ###### Artículo 23.
 
@@ -808,3 +818,15 @@ El Director General del Instituto de Seguridad Jurídica Patrimonial de Yucatán
 Tercero. Derogación tácita
 
 Se derogan las disposiciones normativas emitidas por la Junta de Gobierno del Instituto de Seguridad Jurídica Patrimonial de Yucatán, de igual o menor jerarquía que se opongan al contenido de este acuerdo.
+
+D.O. 12 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO INSEJUPY 08/2017 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN".]
+
+Artículo primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Artículo segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El director general del Instituto de Seguridad Jurídica Patrimonial de Yucatán deberá tramitar la inscripción de las modificaciones efectuadas al estatuto orgánico mediante este acuerdo, en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, en un plazo de treinta días naturales, contados a partir de su entrada en vigor.
