@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2017-04-26"
+last_updated: "2017-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "OAX"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
-
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -1513,9 +1511,9 @@ Las dependencias y entidades deberán informar a la Secretaría previamente a la
 
 Reparación del daño.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2017)</small>
 
-27.- La reparación del daño comprende:
+27.- La reparación del daño debe ser integral, adecuada, eficaz, efectiva, proporcional a la gravedad del daño causado y a la afectación sufrida, comprenderá cuando menos:
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
@@ -1528,6 +1526,8 @@ b).- La Indemnización del daño material y moral causado, incluyendo el pago de
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2008)</small>
 
 En los casos de delitos contra la libertad, la seguridad y el normal desarrollo psicosexual, de violencia intrafamiliar y otros que así lo requieran, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima, así como todos los gastos erogados por la víctima del delito, ofendido o su representante legal para el restablecimiento de su salud física o psicológica; y
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 c).- El resarcimiento de los perjuicios causados.
 
@@ -1547,11 +1547,13 @@ La indemnización a que se refiere el párrafo anterior, no puede ser inferior a
 
 29.- A falta de pruebas específicas para fijar el monto de la reparación del daño:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2017)</small>
 
-I.- En caso de homicidio y feminicidio, el monto será la cantidad equivalente al importe de setecientos noventa días, calculados sobre el triple del salario mínimo vigente en el Estado.
+I.- En caso de homicidio y feminicidio, los jueces, para calcular el monto de la reparación, tomarán como base la Unidad de Medida y Actualización, y las disposiciones establecidas en el artículo 502 de la Ley Federal del Trabajo, en materia de indemnizaciones en caso de muerte por riesgo de trabajo.
 
-Tratándose de menores de dieciocho años o de incapacitados, que no contribuyan económicamente al sustento familiar, el monto será la cantidad mencionada en el párrafo anterior, calculada sobre el doble del salario mínimo vigente;
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+
+Tratándose de menores de dieciocho años o de incapacitados, que no contribuyan económicamente al sustento familiar, el monto será la cantidad equivalente al importe de setecientos noventa veces, calculada sobre el valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito;
 
 > <small>(REFORMADA PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
 
@@ -1608,6 +1610,10 @@ Para los efectos de este artículo, los terceros propietarios de vehículos y ot
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 35.- El pago de la reparación del daño, se hará ante el tribunal de origen dentro del plazo razonable que se le haya fijado; sí no lo hiciere, el Estado lo exigirá mediante el procedimiento económico coactivo.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+La obligación de pagar la reparación de los daños es preferente con respecto al de la multa y se cubrirá primero que cualquier otra de las obligaciones personales que se hubieren contraído con posterioridad a la comisión del delito, a excepción de las relacionadas con los alimentos y los salarios.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -6500,3 +6506,13 @@ P.O. 26 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 589.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA DE VIOLENCIA DE GÉNERO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 596.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+TERCERO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
