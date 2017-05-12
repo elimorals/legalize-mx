@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-694-de-victimas-del-estado-libre-y-soberano-de-10724
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-06"
-last_updated: "2015-03-06"
+last_updated: "2017-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107242&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,846 +21,754 @@ state: "GRO"
 ---
 # LEY NUMERO 694 DE VICTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 450 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, PUBLICADA EN EL P.O. DE 12 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE LA CIUDAD DE MÉXICO
 
-LEY NÚMERO 694 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
+ÚLTIMA REFORMA PUBLICADA EN GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE ABRIL DE 2022.
 
-TEXTO ORIGINAL.
+Estatuto publicado en el No. 25 de la Gaceta Oficial de la Ciudad de México, el miércoles 6 de febrero de 2019.
 
-Ley publicada en el Alcance II del Periódico Oficial del Estado de Guerrero, el viernes 6 de marzo de 2015.
+LICDA. ESTHELA DAMIÁN PERALTA, Directora General del Sistema para el Desarrollo Integral de la Familia de la Ciudad de México, con fundamento en los artículos 33 de la Constitución Política de la Ciudad de México; 54 y 74 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; 2 y 12 del Decreto por el que se crea un Organismo Descentralizado de la Administración Pública del Distrito Federal, con personalidad jurídica y patrimonio propio que se denomina Sistema para el Desarrollo Integral de la Familia del Distrito Federal; y
 
-LEY NÚMERO 694 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
+CONSIDERANDO
 
-SALVADOR ROGELIO ORTEGA MARTÍNEZ, Gobernador del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
+Que mediante acuerdo SE/I/03/2019, la H. Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia de la Ciudad de México, con fundamento en el artículo 73 fracción VIII de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; artículos 4 fracción II y 10 fracción IV del Decreto por el que se crea un Organismo Descentralizado de la Administración Pública de la Ciudad de México, con personalidad jurídica y patrimonio propio que se denomina Sistema para el Desarrollo Integral de la Familia de la Ciudad de México, aprobó en su Primera Sesión Extraordinaria celebrada el día 04 de enero del año 2019, se presenta el nuevo Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia de la Ciudad de México y su publicación en la Gaceta Oficial de la Ciudad de México, para su debida difusión.
 
-Que el H. Congreso Local, se ha servido comunicarme que,
+He tenido a bien expedir el siguiente:
 
-LA SEXAGÉSIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
+AVISO POR EL QUE SE DA A CONOCER EL NUEVO ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE LA CIUDAD DE MÉXICO
 
-C O N S I D E R A N D O
+ÚNICO: Se expide el nuevo Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia de la Ciudad de México, para quedar como sigue:
 
-Que en sesión de fecha 27 de enero del 2015, los Ciudadanos Diputados integrantes de la Comisión de Justicia, presentaron a la Plenaria el Dictamen con Proyecto de Ley de Víctimas del Estado Libre y Soberano de Guerrero, en los siguientes términos….
+ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE LA CIUDAD DE MÉXICO
 
-Por lo anteriormente expuesto y con fundamento en lo dispuesto en los artículos 61 fracción I de la Constitución Política Local y 8 fracción I de la Ley Orgánica del Poder Legislativo en vigor, el Honorable Congreso del Estado, decreta y expide la siguiente:
+### CAPÍTULO I. DEL ÁMBITO DE COMPETENCIA, ORGANIZACIÓN Y PATRIMONIO
 
-LEY NÚMERO 694 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
+###### ARTÍCULO 1.
 
-## Título Primero. Disposiciones Generales
+El Sistema para el Desarrollo Integral de la Familia de la Ciudad de México es un Organismo Público Descentralizado de la Administración Pública de la Ciudad de México, con personalidad jurídica y patrimonio propio, teniendo como objetivos la promoción de la asistencia social y la prestación de servicios asistenciales en la Ciudad de México, sectorizado a la Jefatura de Gobierno de la Ciudad de México.
 
-### Capítulo Único. Naturaleza y Objeto
+###### ARTÍCULO 2.
 
-###### Artículo 1.
+Las menciones realizadas en el presente ordenamiento al Organismo o al Sistema, se entenderán hechas al Sistema para el Desarrollo Integral de la Familia de la Ciudad de México.
 
-La presente Ley es de orden público, interés social y de observancia general en el Estado de Guerrero y tiene por objeto crear los procedimientos, mecanismos e instituciones que permitan garantizar su plena efectividad en el Estado de Guerrero, en materia de atención, ayuda, asistencia, acceso a la verdad, a la justicia y a la reparación integral de las víctimas de delitos de fuero común y violaciones de derechos humanos cometidas por servidores públicos del Estado y municipios.
+###### ARTÍCULO 3.
 
-###### Artículo 2.
+El Organismo, para el logro de sus objetivos, realizará las siguientes funciones:
 
-Las autoridades del Estado y sus Municipios, en el ámbito de sus respectivas competencias deberán garantizar el goce y ejercicio de los derechos y las medidas de atención, apoyo y reparación integral a la víctima del delito. Para ello realizarán las acciones siguientes:
+I. Promover y prestar servicios de asistencia social;
 
-I. Reconocer y garantizar los derechos de las víctimas del delito y de violaciones a Derechos Humanos, en especial el derecho a la asistencia, protección, atención, verdad, justicia, reparación integral, debida diligencia, y todos los demás derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de Derechos Humanos de los que los Estados Unidos Mexicanos es parte, en la Ley General de Víctimas y demás instrumentos de Derechos Humanos vinculantes para el Estado de Guerrero;
+II. Apoyar el desarrollo de la familia y de la comunidad;
 
-II. Evitar la victimización secundaria al establecer que las características y condiciones particulares de la víctima no podrán ser motivo para negarle su calidad. El Estado tampoco podrá exigir mecanismos o procedimientos que agraven su condición ni establecer requisitos que obstaculicen e impidan el ejercicio de sus derechos ni la expongan a sufrir un nuevo daño por la conducta de los servidores públicos.
+III. Realizar y promover acciones de apoyo educativo y acceso a la cultura para la integración social y de capacitación para el trabajo a los sujetos en situación de vulnerabilidad y de la asistencia social;
 
-III. Establecer y coordinar las acciones y medidas necesarias para promover, respetar, proteger, garantizar y permitir el ejercicio efectivo de los derechos de las víctimas; así como implementar los mecanismos para que todas las autoridades en el ámbito de sus respectivas competencias cumplan con sus obligaciones de prevenir, investigar, sancionar y lograr la reparación integral;
+IV. Promover e impulsar el sano crecimiento físico, mental, social y cultural de las niñas y niños en situación de vulnerabilidad sujetos de la asistencia social;
 
-IV. Implementar los mecanismos para que las autoridades estatales en el ámbito de sus respectivas competencias cumplan con las obligaciones de prevenir, investigar, sancionar y lograr la reparación integral, velar por la protección de las víctimas, a proporcionar ayuda, asistencia o reparación integral. Los Municipios deberán regular y garantizar estas obligaciones en el ámbito de sus competencias;
+V. Fomentar y apoyar a las asociaciones y sociedades civiles y demás entidades privadas, cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias;
 
-V. Garantizar un efectivo ejercicio del derecho de las víctimas a la justicia en estricto cumplimiento de las reglas del debido proceso, y
+VI. Operar establecimientos de asistencia social y desarrollo comunitario en beneficio de niñas, niños, personas con discapacidad en estado de abandono;
 
-VI. Establecer los deberes y obligaciones específicos a cargo de las autoridades y de todo aquel que intervenga en los procedimientos relacionados con las víctimas.
+VII. Llevar a cabo acciones de prevención de la discapacidad y de rehabilitación para personas con discapacidad en centros no hospitalarios;
 
-VII. Establecer las sanciones respecto al incumplimiento por acción o por omisión de cualquiera de sus disposiciones.
+VIII. Realizar estudios e investigaciones sobre asistencia social y discapacidad;
 
-###### Artículo 3.
+IX. Prestar asistencia jurídica y de orientación social a niñas, niños, personas con discapacidad y en general, a toda persona en estado de vulnerabilidad conforme a las Políticas y Lineamientos internos;
 
-Todas las autoridades del Estado de Guerrero y sus municipios, en el ámbito de sus respectivas competencias, deberán respetar, garantizar, promover y proteger los derechos de las víctimas que están reconocidos en la Ley General de Víctimas. Los derechos, principios y medidas de ayuda, asistencia, atención y reparación integral contemplados en la Ley General de Víctimas serán irrestrictamente garantizados por las autoridades obligadas por esta ley, así como serán observados los conceptos y definiciones dispuestos por la citada legislación general en la materia.
+X. Vigilar y controlar a los Consejos Locales de Tutela;
 
-###### Artículo 4.
+XI. Apoyar el ejercicio de la tutela de las niñas, los niños y las personas con discapacidad;
 
-Las medidas de ayuda inmediata, asistencia y atención no sustituyen ni reemplazan a las medidas de reparación integral a la que tuvieran derecho las víctimas. Las medidas establecidas por la Ley General de Víctimas no limitan la característica específica del caso, del daño causado por el hecho victimizante o de las condiciones particulares de la víctima.
+XII. Elaborar y ejecutar programas de rehabilitación y educación especial;
 
-###### Artículo 5.
+XIII. Vigilar la observancia, por parte de organizaciones públicas y privadas, de las Normas Oficiales Mexicanas en materia de Asistencia Social y en su caso generar las recomendaciones que correspondan;
 
-Para los efectos de esta Ley, se entenderá por:
+XIV. Participar en la coordinación de acciones que realicen los diferentes sectores en beneficio de la población afectada en casos de desastre;
 
-I. Asesor Jurídico: El Asesor Jurídico o Asesora Jurídica Estatal de Atención a Víctimas;
+XV. Coordinar y realizar acciones en colaboración con asociaciones, sociedades civiles y demás entidades privadas, con la finalidad de complementar los programas que son objetivos del Sistema; y
 
-II. Asesoría Jurídica: Asesoría Jurídica de Atención a Víctimas;
+XVI. Las demás que establezcan las disposiciones legales aplicables en la materia vigente.
 
-III. Código Penal. El Código Penal del Estado de Guerrero;
+###### ARTÍCULO 4.
 
-IV. Código de Procedimientos Penales. El Código Nacional de Procedimientos Penales;
+El Sistema, para el estudio, planeación y despacho de los asuntos que le competen contará con los siguientes órganos y unidades administrativas:
 
-V. Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos;
+I. Junta de Gobierno;
 
-VI. Constitución Estatal: La Constitución Política del Estado Libre y Soberano de Guerrero;
+II. Dirección General;
 
-VII. Comisión: La Comisión de Derechos Humanos;
+III. Dirección Ejecutiva Jurídica y Normativa;
 
-VIII. Comisión Ejecutiva Estatal: La Comisión Ejecutiva Estatal de Atención a Víctima;
+IV. Dirección Ejecutiva de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes de la Ciudad de México;
 
-IX. Comisión Ejecutiva Federal: La Comisión Ejecutiva del Sistema Nacional de Atención a Víctimas;
+V. Dirección Ejecutiva de Centros de Educación Inicial y Alimentación;
 
-X. Comité: El Comité Interdisciplinario Evaluador;
+VI. Dirección Ejecutiva de Apoyo a las Niñas, Niños y Adolescentes;
 
-XI. Estado: El Estado Libre y Soberano de Guerrero;
+VII. Dirección Ejecutiva de los Derechos de las Personas con Discapacidad y Desarrollo Comunitario;
 
-XII. Fondo Estatal: El Fondo Estatal de Ayuda, Asistencia y Reparación Integral;
+VIII. Dirección Ejecutiva de Administración y Finanzas;
 
-XIII. Fiscalía Estatal: La Fiscalía General del Estado de Guerrero;
+IX. Órgano Interno de Control;
 
-XIV. Ley. La Ley de Víctimas del Estado de Guerrero;
+X. Comisaria o Comisario;
 
-XV. Programa Estatal: El Programa Estatal de Ayuda, Asistencia y Atención Integral para las Víctimas;
+El Sistema contará con las unidades subalternas que se establezcan en la estructura básica autorizada por la Secretaría de Administración y Finanzas, las que deberán contenerse y especificarse en su correspondiente Manual Administrativo.
 
-XVI. Poder Judicial: El Tribunal Superior de Justicia del Estado de Guerrero;
+###### ARTÍCULO 5.
 
-XVII. Registro Estatal: El Registro Estatal de Víctimas;
+El patrimonio del Organismo se integrará con:
 
-XVIII. Reglamento: El Reglamento de la Ley Víctimas del Estado Libre y Soberano de Guerrero;
+I. Los bienes muebles e inmuebles, así como los recursos financieros que le transfiera el Gobierno Federal;
 
-XIX. Secretaría de Seguridad: La Secretaría de Seguridad Pública;
+II. Los recursos que anualmente le sean asignados por el Presupuesto de Egresos de la Ciudad de México;
 
-XX. Secretaría de Salud: La Secretaría de Salud del Estado;
+III. Los bienes muebles e inmuebles que le transfiera el Gobierno de la Ciudad de México;
 
-XXI. Secretaría General: La Secretaría General de Gobierno;
+IV. Los recursos que le sean canalizados por la administración del patrimonio de la beneficencia pública;
 
-XXII. Sistema Estatal: El Sistema Estatal de Atención a Víctimas;
+V. Los subsidios, participaciones, donaciones, herencias y legados que reciba de personas físicas o morales, nacionales o extranjeras;
 
-XXIII. Sistema Nacional: El Sistema Nacional de Atención a Víctimas;
+VI. Las cuotas de recuperación y otros ingresos que reciba por los servicios que preste, de acuerdo con lo establecido en el Código Fiscal de la Ciudad de México; y
 
-XXIV. Tratados Internacionales: Los Tratados Internacionales de los que el Estado Mexicano es parte, y
+VII. Los demás bienes, derechos y recursos que por cualquier título legal adquiera.
 
-XXV. Unidad de Atención: La Unidad de Atención Inmediata y Primer Contacto.
+###### ARTÍCULO 6.
 
-## Título Segundo. Coordinación de las Autoridades Públicas del Estado con el Sistema Nacional
+Las áreas del Organismo conducirán sus actividades en forma programada y de conformidad con las prioridades, políticas y estrategias del Plan Nacional de Desarrollo, del Programa General de Desarrollo de la Ciudad de México y los programas sectoriales e institucionales.
 
-###### Artículo 6.
+En la prestación de servicios y en la realización de acciones, el Organismo actuará en coordinación con las dependencias y entidades federales o locales, según la competencia que a éstas otorguen las leyes.
 
-Con el fin de asegurar la adecuada coordinación y articulación entre el Sistema Nacional y las autoridades Estatales, corresponderán al Poder Ejecutivo Estatal, a través de la dependencia que corresponda a la materia, las siguientes atribuciones:
+El Organismo observará una vinculación sistemática entre sus servicios de rehabilitación y asistencia social y los que proporcionen las dependencias y entidades del Sector Salud, federal y local.
 
-I. Garantizar los Derechos que la Constitución Federal, los tratados internacionales en la materia, la Ley General de Víctimas, la Constitución Estatal y demás disposiciones aplicables reconocen en favor de las víctimas a que se refiere esta Ley;
+### CAPÍTULO II. DE LAS ATRIBUCIONES DE LA JUNTA DE GOBIERNO
 
-II. Instrumentar y articular las políticas públicas de Estado en concordancia con la política nacional de atención integral a víctimas, para la adecuada atención y protección a las víctimas, tomando en consideración las políticas diseñadas para el efecto por el Sistema Nacional;
+###### ARTÍCULO 7.
 
-III. Ejercer sus facultades reglamentarias para mejor proveer a la aplicación de la presente ley;
+La Junta de Gobierno del Sistema se integrará con las o los titulares de:
 
-IV. Coadyuvar en el cumplimiento de políticas, lineamientos, modelos u otros acuerdos adoptados por el Sistema Nacional;
+I. La Jefatura de Gobierno, con el carácter de Presidente;
 
-V. Fortalecer las instituciones que presten atención a las víctimas;
+II. La Secretaría de Gobierno, con el carácter de vocal;
 
-VI. Promover en coordinación con los demás poderes de la entidad y órdenes de gobierno, programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de las víctimas de acuerdo con el Programa de Atención Integral a Víctimas a que se refiere la Ley General de Víctimas;
+III. La Secretaría de Desarrollo Económico, con el carácter de vocal;
 
-VII. Impulsar la creación de refugios para las víctimas, tomando en consideración el modelo base de atención que para el efecto acuerde el Sistema Nacional;
+IV. La Secretaría de Salud, con el carácter de vocal;
 
-### Capítulo I. Atribuciones del Poder Ejecutivo
+V. La Secretaría de Administración y Finanzas, con el carácter de vocal;
 
-###### Artículo 7.
+VI. La Procuraduría General de Justicia de la Ciudad de México, con el carácter de vocal;
 
-Corresponde a los municipios del Estado de conformidad con lo dispuesto en la Ley General, las siguientes atribuciones:
+VII. La Secretaría de la Contraloría General;
 
-I. Instrumentar y articular la política municipal para la adecuada atención y protección a las víctimas, en concordancia con las políticas Nacional y Estatal:
+VIII. La Junta de Asistencia Privada de la Ciudad de México; y
 
-II. Coadyuvar con los Gobiernos Federal y Estatal, en la ejecución de los acuerdos tomados por el Sistema Nacional,
+IX. Dos Contraloras Ciudadanas o Contralores Ciudadanos.
 
-III. Promover en coordinación con las autoridades estatales, cursos de capacitación a las personas que atienden a víctimas;
+La Junta de Gobierno podrá invitar a las sesiones a un representante del Sistema Nacional para el Desarrollo Integral de la Familia; a otras dependencias o entidades de la Administración Pública de la Ciudad de México así como a particulares cuando se traten asuntos que así lo requieran.
 
-IV. Apoyar la creación de refugios para las víctimas;
+El cargo de miembro de la Junta de Gobierno será personal y no podrá desempeñarse por medio del representante. No obstante, cada titular podrá nombrar a su suplente.
 
-V. Participar y coadyuvar en la protección y atención a las víctimas;
+Asimismo, la Directora o el Director General y la o el titular del Órgano Interno de Control tendrán el carácter de invitados permanentes a las sesiones ordinarias y extraordinarias de la Junta de Gobierno.
 
-VI. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+Por su parte, la Secretaría de la Contraloría General fungirá como órgano de vigilancia.
 
-VII. Las demás aplicables a la materia que les conceda la Ley u otros ordenamientos legales aplicables.
+###### ARTÍCULO 8.
 
-VI. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+La Junta de Gobierno tendrá, además de las atribuciones señaladas en el artículo 73 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México, las facultades siguientes:
 
-VII. Las demás aplicables a la materia que les conceda la Ley u otros ordenamientos legales aplicables.
+I. Aprobar el programa de labores, el presupuesto y los informes de actividades del Organismo;
 
-## Título Tercero. Coordinación para la Atención Integral a Víctimas en el Estado
+II. Aprobar anualmente, previo informe de la Dirección de Comisarios y Control de Auditores Externos de la Dirección General de Órganos Internos de Control Sectorial y dictamen de las y los Auditores Externos, los estados financieros del Organismo;
 
-###### Artículo 8.
+III. Aprobar, de acuerdo con las disposiciones aplicables, las políticas, bases y programas generales que requieren los convenios, contratos o pedidos que deba celebrar el Organismo con terceros en materia de obra pública, adquisiciones, arrendamiento, administración de bienes y prestación de servicios;
 
-Se crea el Sistema Estatal, que será un órgano operativo que coordinará esfuerzos con la Comisión Ejecutiva Estatal a fin de realizar los fines de esta ley y de la Ley General en materia de planeación, establecimiento y realización de las políticas públicas, acciones y medidas necesarias conjuntas a desarrollar con el Sistema Nacional.
+IV. Aprobar las reformas al Estatuto Orgánico del Organismo, así como la estructura básica del mismo;
 
-###### Artículo 9.
+V. Nombrar y remover, a propuesta de la Directora o Director General, a las y los servidores públicos del Organismo que ocupen cargos en las dos jerarquías administrativas inferiores a las de aquél o aquella;
 
-El Sistema Estatal, estará conformado por los siguientes integrantes:
+VI. Aprobar la aceptación y destino de herencias, legados y donativos; y
 
-I. Poder Ejecutivo del Estado:
+VII. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
-a) El Gobernador del Estado; quien lo presidirá;
+###### ARTÍCULO 9.
 
-b) El Secretario General de Gobierno;
+La Junta de Gobierno sesionará ordinariamente en forma trimestral y podrá celebrar sesiones extraordinarias cuando la Presidencia de la misma lo estime necesario.
 
-c) El Secretario de Finanzas y Administración;
+Para la celebración de las sesiones se requerirá la asistencia de cuando menos la mitad más uno de sus miembros y siempre que la mayoría de éstos sean representantes de la Administración Pública de la Ciudad de México. Las resoluciones que tome la Junta se adoptarán por mayoría de votos; en caso de empate, la o el Presidente de la misma tendrá voto de calidad.
 
-d) El Fiscal General del Estado;
+La Junta de Gobierno designará a una Secretaria o Secretario y a una Prosecretaria o Prosecretario, quienes, actuando conjunta o separadamente, levantarán las actas de las sesiones de la Junta y certificarán las mismas.
 
-e) El Secretario de Seguridad Pública;
+En caso de ausencia o por instrucciones de la Presidenta o Presidente de la Junta de Gobierno, la Secretaria o Secretario podrá convocar a las sesiones ordinarias o extraordinarias.
 
-f) El Secretario de Educación-Guerrero;
+### CAPÍTULO III. DE LAS ATRIBUCIONES DE LA DIRECTORA O EL DIRECTOR GENERAL
 
-g) El Secretario de Salud,
+###### ARTÍCULO 10.
 
-h) La Secretaria de la Mujer,
+La Directora o Director General será designada o designado por el o la titular de la Jefatura de Gobierno de la Ciudad de México.
 
-i) El Secretario de Desarrollo Económico y
+###### ARTÍCULO 11.
 
-j) El Director General del Sistema Estatal para el Desarrollo Integral de la Familia.
+Para ser nombrada o nombrado Directora o Director General se requiere:
 
-II. Poder Legislativo del Estado:
+I. Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
-a). El Presidente de la Comisión de Derechos Humanos del Congreso, y
+II. Haberse distinguido por su probidad, competencia y antecedentes profesionales en el ejercicio de actividades que se vinculen con las atribuciones del Organismo;
 
-b) El Presidente de la Comisión de Justicia del Congreso del Estado.
+III. No tener impedimento legal para ejercer el cargo.
 
-III. Poder Judicial del Estado;
+###### ARTÍCULO 12.
 
-a). El Presidente del Tribunal Superior de Justicia del Estado;
+La Directora o Director General tendrá además de las facultades señaladas en el artículo 74 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México, las siguientes:
 
-IV. Un representante de los municipios del Estado;
+I. Administrar y representar legalmente al Sistema con las más amplias facultades de dominio, administración, pleitos y cobranzas y aún aquellas que requieran cláusula especial conforme a la ley. Asimismo, delegar, en su caso, en uno o más apoderados, los mandatos generales y especiales que se requieran;
 
-V. El Presidente de la Comisión de los Derechos Humanos, y
+II. Planear, dirigir y controlar el funcionamiento del Organismo conforme a las disposiciones generales aplicables, con sujeción a los acuerdos de la Junta de Gobierno;
 
-VI. Un representante de la Comisión Ejecutiva Estatal.
+II. Bis. Desempeñar el cargo de la Secretaría Ejecutiva del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes de la Ciudad de México, en términos del nombramiento que emita la Jefa de Gobierno y cumplir con las facultades y obligaciones que establecen los ordenamientos aplicables;
 
-### Capítulo II. Mecanismos de Coordinación de las autoridades Municipales con el Sistema Nacional
+III. Presentar a la Junta de Gobierno los estados financieros trimestrales, con los comentarios, informes y recomendaciones de la Comisaria o Comisario y de la Auditora o Auditor Externo, así como el informe anual del desempeño de las actividades del Organismo. Asimismo, ejecutar los acuerdos de la Junta de Gobierno;
 
-###### Artículo 10.
+IV. Someter a la aprobación de la Junta de Gobierno los planes de trabajo, presupuesto, informe de actividades y estados financieros anuales del Organismo;
 
-Los integrantes del Sistema Estatal se reunirán en Pleno o en subcomisiones, las cuales se deberán crear por consenso de los integrantes del Pleno. El Pleno se reunirá por lo menos una vez cada seis meses a convocatoria de su Presidente, quién integrará la agenda de los asuntos a tratar tomando en consideración las recomendaciones de la Comisión Ejecutiva Estatal, y en forma extraordinaria, cada que una situación así lo requiera a solicitud de cualquiera de los integrantes del Sistema Estatal. Los integrantes tienen obligación de comparecer a las sesiones.
+V. Proponer a la Junta de Gobierno la designación y remoción de las y los servidores públicos que ocupen cargos en las dos jerarquías administrativas inmediatamente inferiores a la Dirección General;
 
-###### Artículo 11.
+VI. Establecer las políticas en materia de relaciones laborales, de acuerdo con las disposiciones legales;
 
-El quórum para las reuniones del Sistema Estatal se conformará con la mitad más uno de sus integrantes quienes deberán asistir personalmente. Los acuerdos se tomarán por la mayoría de los integrantes presentes con derecho a voto. El Presidente del Sistema Estatal, será suplido en sus ausencias por el Secretario General de Gobierno.
+VII. Establecer los procedimientos y métodos de trabajo para que las funciones se realicen de manera articulada, congruente y eficaz;
 
-###### Artículo 12.
+VIII. Informar a la Junta de Gobierno de los convenios de coordinación que celebre el Organismo con dependencias, instituciones públicas, privadas, nacionales y extranjeras;
 
-Tendrán el carácter de invitados a las sesiones del Sistema Estatal, las instituciones u organizaciones privadas o sociales, los colectivos o grupos de víctimas o las demás instituciones nacionales o extranjeras, que por acuerdo del Pleno de la Comisión Ejecutiva Estatal deban participar en la sesión que corresponda. El Reglamento establecerá el mecanismo de invitación correspondiente. Los invitados acudirán a las reuniones con derecho a voz pero sin voto.
+IX. Celebrar acuerdos y concertar acciones con los sectores público, social y privado, en materia de asistencia social;
 
-### Capítulo I. Sistema Estatal
+X. Celebrar los convenios, contratos y demás actos jurídicos que sean indispensables para el cumplimiento de los objetivos, metas y programas del Organismo;
 
-###### Artículo 13.
+XI. Someter el Programa Institucional Anual del Organismo a la consideración de la Junta de Gobierno;
 
-El Sistema Estatal tendrá las siguientes atribuciones:
+XII. Implementar el Sistema de Información, para el seguimiento de metas y resultados en los servicios y programas sociales operados por el Organismo, para una mejor operación;
 
-I. Coordinar los mecanismos de colaboración entre las instituciones, entidades públicas estatales, municipales y organismos autónomos encargados de la protección de los derechos humanos;
+XIII. Realizar la evaluación interna de los programas sociales que opera el Organismo de acuerdo a los lineamientos que establezca la instancia evaluadora del Gobierno de la Ciudad de México, que permitan modificar o crear nuevas estrategias para su operación;
 
-II. Impulsar la participación social en las actividades de atención a víctimas;
+XIV. Participar en los órganos colegiados de la administración pública de la Ciudad de México en materia de planeación, monitoreo y evaluación, así como en instancias federales, locales y órganos autónomos, para el uso de diversas metodologías y herramientas que coadyuven a la toma de decisiones en beneficio de la población que atiende el Organismo;
 
-III. Formular propuestas a la Comisión Ejecutiva Federal sobre las políticas nacionales en materia de protección, ayuda, asistencia, atención, defensa de los derechos humanos, acceso a la justicia, a la verdad y a la reparación integral de las víctimas;
+XV. Presentar para su aprobación, a la Junta de Gobierno, las modificaciones al Estatuto Orgánico y a la estructura orgánica del Sistema;
 
-IV. Promover la cultura de respeto a las víctimas y a sus derechos;
+XVI. Desistirse de juicios de amparo en donde el Organismo sea parte, previo acuerdo de la Junta de Gobierno;
 
-V. Promover la uniformidad de criterios jurídicos al interior de las instituciones del Estado en las materias que regula esta ley, y
+XVII. Emitir opinión ante otras dependencias del Gobierno de la Ciudad de México sobre la expedición de permisos, licencias o autorizaciones que soliciten personas físicas o morales, cuya actividad u objeto sea la asistencia social;
 
-VI. Las demás que le otorga esta Ley y otras disposiciones aplicables.
+XVIII. Opinar sobre el otorgamiento de donativos a instituciones públicas y privadas que actúen en el campo de la asistencia social;
 
-### CAPÍTULO III (SIC). Comisión Ejecutiva Estatal
+XIX. Informar a la Junta de Gobierno de la creación de comités que coadyuven a la operación del Organismo;
 
-###### Artículo 14.
+XX. Promover la cultura de la donación entre los sectores público, social y privado para la obtención de los donativos que permitan incrementar el patrimonio del sistema y cumplir su objeto; y
 
-Se crea la Comisión Ejecutiva Estatal, como Organismo Público Descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, con autonomía técnica y de gestión, cuyo objeto es desarrollar mecanismos de coordinación entre instituciones públicas y privadas estatales con el Sistema Nacional, en los términos del artículo 79 párrafos cuarto y quinto de la Ley General, a fin de garantizar la realización y protección de los derechos de las víctimas a las que se refiere esta Ley.
+XXI. Promover la atención y prevención de todas las formas de abuso y maltrato hacia las Niñas, Niños y Adolescentes;
 
-### Capítulo III (SIC). Programa Estatal
+XXII. Las demás que sean necesarias para el ejercicio de las atribuciones anteriores, en los términos de las disposiciones legales aplicables vigentes.
 
-###### Artículo 31.
+### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA JURÍDICA Y NORMATIVA
 
-La Comisión Ejecutiva Estatal, en coordinación con las instituciones que integran el Sistema Estatal y otras instituciones públicas, privadas o sociales que lo ameriten, según sea el caso, será responsable de la implementación del Programa Estatal, mediante el cual se formularán las directrices y lineamientos para la ejecución de los servicios y prestaciones relacionados con los derechos a la ayuda inmediata, la asistencia y la atención.
+###### ARTÍCULO 13.
 
-La Comisión Ejecutiva Estatal será responsable de establecer pautas y esquemas de coordinación para el efectivo desarrollo del Programa Estatal. Todas las instituciones públicas del Estado deberán participar en el desarrollo de este programa, en el ámbito de sus respectivas atribuciones y mediante los recursos financieros, humanos y materiales a su disposición para ese efecto.
+La Dirección Ejecutiva Jurídica y Normativa, tendrá a su cargo las siguientes atribuciones:
 
-###### Artículo 32.
+I. Asesorar jurídicamente a la Dirección General y a los titulares de las diversas áreas que integran al Organismo, y establecer, definir y difundir los criterios de interpretación y aplicación de las disposiciones legales que atañen al Sistema para el Desarrollo Integral de la Familia de la Ciudad de México;
 
-El Presidente de la Comisión Ejecutiva Estatal, así como el Titular de la Secretaria de Salud, en el marco de sus respectivas competencias, serán responsables de establecer mecanismos de coordinación con la Comisión Ejecutiva Federal para los efectos señalados en el artículo 32 de la Ley General en materia de diseño y operación del Modelo Integral de Salud, que deberá contemplar a aquellas víctimas que no sean beneficiarias de un sistema de prestación social o será complementario cuando los servicios especializados necesarios no puedan ser brindados por el sistema al cual se hallen afiliadas.
+II. Revisar jurídicamente los convenios y contratos a celebrar por el Organismo, de acuerdo con los requerimientos de las áreas respectivas; así como todos aquellos instrumentos jurídicos relacionados con las funciones del propio Organismo;
 
-###### Artículo 33.
+III. Compilar y difundir las normas jurídicas relacionadas con las atribuciones del Organismo y las que norman la asistencia social;
 
-Los Sistemas para el Desarrollo Integral de la Familia del Estado y Municipales y demás instituciones públicas que brinden servicios de desarrollo y asistencia social en el ámbito estatal o municipal, brindarán directamente alojamiento y alimentación en condiciones de seguridad y dignidad a las víctimas que se encuentren en especial condición de vulnerabilidad o que se encuentren amenazadas o desplazadas de su lugar de residencia por causa del hecho punible cometido contra ellas o de la violación de sus derechos humanos. El alojamiento y la alimentación se brindarán durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de emergencia y pueda retornar libremente en condiciones seguras y dignas a su hogar.
+IV. Atender los juicios, procedimientos administrativos y medios de impugnación, inclusive los que se interpongan contra actos o resoluciones que dicte el Organismo; presentar demandas, querellas, quejas, denuncias, contestación de demandas, desistimientos en cualquier materia, otorgamientos de perdón, rendición de informes previos y justificados en materia de amparo, transigir, someter en arbitraje, absolver y articular posiciones, recusar, delegar poderes y facultades, así como todas aquellas actuaciones encaminadas a la defensa de los intereses del Organismo;
 
-Se podrán establecer convenios de coordinación con instituciones privadas para la prestación de estos servicios.
+V. Atender y dar seguimiento a los juicios laborales interpuestos en contra del Organismo, así como celebrar acuerdos o transacciones, encaminadas a la defensa de los intereses del Organismo;
 
-###### Artículo 34.
+VI. Intervenir y representar ante toda clase de autoridades judiciales o administrativas, del fuero común o federal, coordinando las acciones y siguiendo los procesos y procedimientos que competan al Organismo para el cumplimiento de sus objetivos, protección de su patrimonio o en cualquier otro asunto en que tenga interés jurídico; así como interponer las denuncias y querellas ante las Procuradurías General de la República, General de Justicia de la Ciudad de México y de las Entidades Federativas en su caso, sobre hechos que pudieran ser constitutivos de delito y que afecten al Organismo;
 
-El Sistema Estatal para el Desarrollo Integral de la Familia, con el auxilio de las instituciones integrantes del Sistema Estatal, administrará los albergues temporales para víctimas. Las instalaciones y servicios con los que cuenten dichos albergues se adaptarán a los requerimientos necesarios para su funcionamiento, guardando especial atención a los principios de dignidad, buena fe, mínimo existencial, enfoque diferencial y especializado y trato preferente.
+VII. Coadyuvar con la Dirección Ejecutiva de Administración en los actos que requieran la regularización, adquisición y enajenación de bienes inmuebles del Organismo, de acuerdo con los requerimientos que se realicen para tal efecto;
 
-Los albergues temporales para víctimas se regirán por el reglamento que a su efecto emita el Ejecutivo Estatal, teniendo en cuenta las recomendaciones que al respecto realice la Comisión Ejecutiva Estatal, la cual supervisará, asimismo, que el funcionamiento de estos albergues se apegue a lo dispuesto en la presente ley y en la Ley General.
+VIII. Expedir copias certificadas y cotejos de los documentos existentes en sus archivos, así como de los que tenga acceso con motivo del desarrollo de sus funciones;
 
-## Titulo Cuarto. Registro Estatal
+IX. Promover la participación del personal del área en los programas de capacitación y adiestramiento, diseñados para atender las necesidades de formación que se detecten;
 
-###### Artículo 15.
+X. Coordinar y definir el apoyo jurídico necesario para el cumplimiento de los programas que se realizan en el Organismo;
 
-La Comisión Ejecutiva, estará a cargo del Registro y Fondo Estatal, así como de la Asesoría Jurídica creados por esta Ley, en congruencia con lo que dispone la Ley General, así como de la coordinación y asesoría técnica y operativa, para los mismos fines, con el Sistema Estatal.
+XI. Proporcionar los reportes e informes del avance y resultados de las áreas a su cargo, así como la información, dictámenes técnicos y cooperación que le sean requeridos, tanto por las áreas del Organismo, como por otras dependencias y entidades de la Administración Pública de la Ciudad de México, siempre y cuando sean del ámbito de su competencia y se cumplan las políticas que al respecto se establezcan;
 
-### Capítulo I. Atribuciones
+XII. Expedir constancias a las Asociaciones, Sociedades Civiles e Instituciones de Asistencia Privada sin fines de lucro, que corroboren la actividad de asistencia social que tengan su domicilio fiscal en la Ciudad de México;
 
-###### Artículo 35.
+XIII. Coordinar el desarrollo de las investigaciones jurídico documentales que permitan proveer las herramientas legales necesarias para el ejercicio de las facultades de la Dirección General;
 
-Se crea el Registro Estatal, como mecanismo técnico y administrativo adscrito a la Comisión Ejecutiva Estatal, que soporta el proceso de ingreso y registro de las víctimas de delito y de violaciones a los derechos humanos del fuero Estatal.
+XIV. Tramitar los proyectos de modificación, abrogación e iniciativas de ley ante la Consejería Jurídica y de Servicios Legales de la Ciudad de México, debiendo contar previamente con la justificación o exposición de motivos que haya emitido la Dirección General o las Ejecutivas solicitantes;
 
-Para el logro de sus fines, serán atribuciones del Registro Estatal, las siguientes:
+XV. Emitir opinión jurídica a petición de la Dirección General o las Ejecutivas, respecto de los reglamentos, decretos, acuerdos, programas, circulares y demás disposiciones jurídicas relacionadas con las atribuciones del Organismo;
 
-I. Unificar los registros y sistemas de información que actualmente tienen las diferentes instituciones y dependencias con presencia en el Estado, así como la Comisión de los Derechos Humanos del Estado. En la unificación de la información, el Registro Estatal deberá identificar aquellos casos en donde se hayan dictado recomendaciones, medidas precautorias o bien se hayan celebrado acuerdos de conciliación:
+XVI. Coadyuvar a solicitud de la Dirección General o las Ejecutivas que integran el Organismo, en la elaboración de acuerdos, circulares, lineamientos, protocolos, directrices, decretos, programas y demás instrumentos normativos necesarios para la operación del Organismo;
 
-II. Poner a disposición la información del Registro Estatal al Registro Nacional contemplado en la Ley General de manera permanente y actualizada diariamente, para lo cual contará con las herramientas tecnológicas e informáticas que se requieran;
+XVII. Fungir como enlace con los organismos públicos de Derechos Humanos, para la atención de las quejas y recomendaciones que emitan al Organismo;
 
-III. Elaborar un plan de difusión, capacitación y actualización sobre el procedimiento para la recepción de la declaración y su trámite hasta la decisión de inclusión o no en el Registro Estatal.
+XVIII. Coadyuvar con las áreas que integran el Organismo, en la atención de las quejas y recomendaciones emitidas por los Organismos Públicos de Derechos Humanos, así como, en la atención de las disposiciones en materia de derechos humanos;
 
-Este plan debe estar enfocado no sólo en las víctimas que soliciten su ingreso sino a los diferentes servidores públicos, asesores jurídicos, integrantes de organizaciones de víctimas y la población en general;
+XIX. Participar en los diversos órganos colegiados del Organismo o en cualquier otro, previa designación de la Dirección General o en aquellos en los que se tenga intervención por ministerio de ley;
 
-IV. Garantizar que las personas que soliciten el ingreso en el Registro Estatal sean atendidas y orientadas de forma digna y respetuosa;
+XX. Establecer la supervisión, procedimientos y métodos de trabajo para que las funciones se realicen de manera articulada, congruente y eficaz; y
 
-V. Disponer de los medios tecnológicos y administrativos necesarios para la toma de la declaración;
+XXI. Las demás que le confiera la Dirección General y las disposiciones legales y normativas aplicables vigentes.
 
-VI. Orientar a la persona que solicite el ingreso sobre el trámite y efectos de la inscripción en el Registro Estatal;
+### CAPITULO V. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE LA PROCURADURÍA DE PROTECCIÓN DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-VII. Recabar la información necesaria sobre las circunstancias de tiempo, modo y lugar que generaron el hecho victimizante, así como su caracterización socioeconómica, con el propósito de contar con información precisa que facilite su valoración, de conformidad con el principio de participación conjunta consagrado en esta Ley y en la Ley General;
+###### ARTÍCULO 14.
 
-VII (sic). Indagar las razones por las cuales no se llevó a cabo con anterioridad la solicitud de registro;
+La Dirección Ejecutiva de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes, tendrá a su cargo las siguientes atribuciones:
 
-VIII. Verificar los requisitos mínimos de legibilidad en los documentos aportados por el declarante y relacionar el número de anexos que se adjunten con la declaración;
+I. Fomentar la protección integral de los derechos de niñas, niños y adolescentes que habitan o transitan en la Ciudad de México en términos de la Ley de los Derechos de las Niñas, Niños y Adolescentes de la Ciudad de México y su reglamento;
 
-IX. Bajo ninguna circunstancia negarse a recibir la solicitud de registro a las víctimas a las que se refiere la presente ley;
+II. Coordinar la atención de los reportes de violencia familiar, maltrato, abandono, descuido o negligencia, en agravio de niñas, niños y adolescentes que habitan o transitan en la Ciudad de México, mediante la implementación de acciones de prevención, investigación e intervención social;
 
-X. Garantizar la confidencialidad, reserva y seguridad de la información y abstenerse de hacer uso de la información contenida en la solicitud de registro o del proceso de inscripción para obtener provecho para sí o para terceros. o por cualquier uso ajeno a lo previsto en esta ley y a las relativas a la protección de datos personales;
+III. Denunciar ante la autoridad ministerial aquellos hechos que se presuman constitutivos de delito en agravio de niñas, niños y adolescentes que habitan o transitan en la Ciudad de México;
 
-XI. Dar cumplimiento a las disposiciones y medidas dictadas por la Comisión Ejecutiva Estatal para garantizar la integración y preservación de la información administrada y sistematizada en el Registro Estatal;
+IV. Participar en la detección y recibir casos de restricción y vulneración de derechos de niñas, niños y adolescentes que habitan o transitan en la Ciudad de México y coordinar la implementación de un plan de restitución, en colaboración y participación oportuna y articulada con las autoridades competentes;
 
-XII. Entregar una copia, recibo o constancia de su solicitud de registro a las víctimas o a quienes hayan realizado la solicitud, y
+V. Solicitar a la autoridad ministerial competente la imposición de medidas precautorias, cautelares, de seguridad y de protección, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes que habitan o transitan en la Ciudad de México;
 
-XIII. Cumplir con las demás obligaciones que determine la Comisión Ejecutiva Estatal.
+VI. Ordenar, fundamentar y motivar, la aplicación de medidas urgentes de protección especial, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños o adolescentes que habitan o transitan en la Ciudad de México, dando aviso de inmediato a la autoridad ministerial y jurisdiccional competente, por si o a través del personal facultado para ello en términos de la normatividad aplicable;
 
-###### Artículo 36.
+VII. Solicitar el auxilio de las instituciones policiales competentes para la imposición de las medidas urgentes de protección;
 
-Las solicitudes de ingreso al Registro Estatal se realizarán en forma gratuita y en ningún caso el servidor público responsable podrá negarse a recibir la solicitud de Registro Estatal.
+VIII. Solicitar la imposición de las medidas de apremio correspondientes a la autoridad competente, en caso de incumplimiento de las medidas urgentes de protección;
 
-###### Artículo 37.
+IX. Iniciar los procedimientos legales correspondientes ante las autoridades competentes, respecto de niñas, niños y adolescentes bajo la tutela temporal del Organismo;
 
-El Poder Ejecutivo del Estado, a través de sus organismos. Dependencias y entidades de Salud Pública y de procuración de justicia, así como los municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias, serán las entidades obligadas a otorgar el carnet que identifique a las víctimas ante el Sistema Estatal de Atención a Víctimas y sus instituciones, con base en la inscripción correspondiente en el Registro Nacional de Víctimas, sea de forma directa o mediante el Registro Estatal que crea esta Ley la ausencia de carnet de identificación por parte de la víctima no será impedimento para ninguna autoridad para cumplir con las obligaciones previstas en esta ley, en el marco de sus respectivas competencias.
+X. Prestar asesoría y representación en suplencia, coadyuvancia y originaria a niñas, niños y adolescentes que habitan o transitan en la Ciudad de México, de acuerdo a la normatividad aplicable a cada caso;
 
-###### Artículo 38.
+XI. Coordinar los programas de orientación, asistencia y patrocinio jurídico, así como de orientación social y psicológica a niñas, niños y adolescentes, conforme a la Ley, las políticas y lineamientos internos y demás disposiciones aplicables;
 
-El Registro Estatal recabará e integrará su información entre otras por las siguientes fuentes siempre que cumplan con los requisitos contemplados en esta ley y la ley General de Víctimas:
+XII. Instruir la realización de estudios de trabajo social y psicológico a petición de la autoridad jurisdiccional, únicamente cuando se encuentren involucrados niñas, niños y adolescentes, en términos de la ley y demás disposiciones aplicables en la materia;
 
-I. Las solicitudes de ingreso hechas directamente por las víctimas del delito o violaciones de derechos humanos, a través de su representante legal o de algún familiar o persona de confianza ante la Comisión Ejecutiva Estatal, las solicitudes de ingreso que presente cualquier autoridad estatal o municipal, y
+XIII. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes que viven o transitan en la Ciudad de México hayan sido restringidos o vulnerados, salvo en los casos de violencia;
 
-II. Los registros de víctimas, existentes al momento de la entrada en vigor de la presente Ley que se encuentren en cualquier institución o entidad del ámbito estatal, así como de la Comisión de Derechos Humanos del Estado, en aquellos casos en donde se hayan dictado recomendaciones, medidas precautorias o bien se hayan celebrado acuerdos de conciliación.
+XIV. Recibir y tramitar las solicitudes de las personas interesadas en adoptar niñas, niños y/o adolescentes que se encuentren bajo la tutela del Organismo y otorgarles capacitación al respecto;
 
-###### Artículo 39.
+XV. Integrar la lista de personas que cumplan con los requisitos previstos en la normatividad aplicable para desempeñar la tutela en términos de la Ley en la materia y demás disposiciones;
 
-Las entidades productoras y usuarias de información sobre víctimas a nivel estatal o municipal y que posean registros de víctimas, pondrán a disposición del Registro la información que producen y administran, de conformidad con lo establecido en las leyes que regulan el manejo de datos personales, para lo cual se suscribirán los respectivos acuerdos de confidencialidad para el uso de la información.
+XVI. Regular y Supervisar los Centros de Asistencia Social que brinden acogimiento residencial a niñas, niños y adolescentes que se encuentren bajo la tutela del Organismo;
 
-En los casos en que existiere soporte documental de los registros que reconocen la calidad de víctima, deberá entregarse copia digital al Registro Nacional de Víctimas. En caso que estos soportes no existan, las entidades a que se refiere este artículo certificarán dicha circunstancia al Registro.
+XVII. Atender, organizar, integrar, dirigir, supervisar, evaluar y dar seguimiento de acuerdo a las normas y/o reglas de operación de los programas sociales asignados;
 
-Dichas entidades serán responsables por el contenido de la información que transmiten al Registro Nacional de Víctimas por medio del Registro Estatal de Víctimas. El Registro que crea esta ley deberá actualizar la información sobre inscripciones de víctimas que envía al Registro Nacional de-Víctimas de manera diaria.
+XVIII. Colaborar en la realización y promoción de estudios e investigaciones para la defensa y restitución de los derechos de niñas, niños y adolescentes;
 
-###### Artículo 40.
+XIX. Promover, impulsar y suscribir convenios de participación y colaboración, con los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa, protección y restitución de los derechos de niñas, niños y adolescentes;
 
-Para que las autoridades competentes procedan a la inscripción de datos de la víctima en el Registro Estatal se deberá incluir como mínimo los que establece el artículo 99 de la Ley General.
+XX. Elaborar los lineamientos y procedimientos a los que se sujetará la restitución de los derechos;
 
-###### Artículo 41.
+XXI. Expedir copias certificadas y cotejos de los documentos existentes en sus archivos, así como de los que tenga acceso con motivo del desarrollo de sus funciones; y
 
-La solicitud de inscripción de la víctima no implica su ingreso automático al Registro Estatal. Presentada la solicitud, deberá ingresarse la misma al Registro y se procederá a la valoración de la información recogida en el formato único junto con la documentación remitida que acompañe dicho formato. Para practicar esa valoración la Comisión Ejecutiva Estatal podrá solicitar la información que considere necesaria a cualquiera de las autoridades estatales o municipales, las que estarán en el deber de suministrarla en un plazo que no supere los diez días naturales.
+XXII. Las demás que le confiera la Dirección General, Ley de los Derechos de Niñas, Niños y Adolescentes de la Ciudad de México y las disposiciones aplicables vigentes.
 
-Para efectos de determinar lo relativo a duda razonable sobre los hechos, excepciones a la práctica de la valoración de los hechos y cancelación de la inscripción en el Registro Estatal. Las autoridades adscritas al Registro Estatal se remitirán a lo establecido en el Título Sexto Capítulo IV de la Ley General.
+### CAPÍTULO VI. DIRECCIÓN EJECUTIVA DE CENTROS DE EDUCACIÓN INICIAL Y ALIMENTACIÓN
 
-###### Artículo 16.
+###### ARTÍCULO 15.
 
-Con el fin de hacer plenamente accesibles los servicios brindados por la Comisión Ejecutiva Estatal, ésta contará con delegaciones en los municipios en puntos geográficos estratégicos que permitan una rápida, oportuna y eficaz atención inmediata a las víctimas. Estas unidades canalizarán a las víctimas a las instituciones competentes para que reciban la ayuda, asistencia y atención apropiada y especializada que les corresponda. Para este fin la Comisión Ejecutiva Estatal establecerá rutas de atención y coordinación entre instituciones estatales y municipales.
+La Dirección Ejecutiva de Centros de Educación Inicial y Alimentación, tendrá a su cargo las siguientes atribuciones:
 
-### Capítulo II. Ingreso de las víctimas al Registro Estatal
+I. Establecer de acuerdo a los lineamientos y directrices fijados por la Dirección General y con apego a la normatividad aplicable, las políticas y procedimientos en materia de alimentación en instituciones de educación preescolar y primaria públicos; y Centros de Educación Inicial Públicos de la Ciudad de México;
 
-###### Artículo 42.
+II. Implementar, verificar, evaluar y dar seguimiento al Modelo de Atención Integral de los Centros de Educación Inicial Públicos de la Ciudad de México;
 
-El ingreso de la víctima al Registro Estatal se realizará por la denuncia, la queja o el conocimiento de los hechos que podrá realizar la propia víctima, la autoridad, la Comisión de los Derechos Humanos del Estado o un tercero que tenga conocimiento sobre los hechos.
+III. Elaborar, coordinar, integrar y supervisar un programa nutricional para los Centros de Educación Inicial Públicos de la Ciudad de México;
 
-###### Artículo 43.
+IV. Evaluar, capacitar y supervisar al personal que brinda atención en los Centros de Educación Inicial Públicos de la Ciudad de México;
 
-Toda autoridad que tenga contacto con la victima estará obligada a recibir su declaración, la cual consistirá en una narración de los hechos con los detalles y elementos de prueba que la misma ofrezca, la cual se hará constar en el formato único de declaración.
+V. Vigilar con base en sus atribuciones, que los Centros de Educación Inicial Públicos cumplan con las normas, reglamentos, programas y servicios;
 
-###### Artículo 44.
+VI. Proponer y realizar en coordinación con otras instituciones las investigaciones y estudios necesarios en materia de control de calidad alimenticia en instituciones de educación preescolar y primaria públicos, así como en los Centros de Educación Inicial Públicos de la Ciudad de México;
 
-EL Ministerio Público, los Defensores Públicos, los asesores jurídicos de las víctimas y la Comisión de Derechos Humanos del Estado no podrán negarse a recibir dicha declaración y enviar el Formato Único a la Comisión Ejecutiva Estatal. De acuerdo a lo establecido por la presente ley.
+VII. Proponer a la Dirección General las medidas de modernización y simplificación administrativa, para mejorar la eficiencia en la administración de los recursos y la eficacia en el cumplimiento de sus objetivos;
 
-Cuando la víctima sea mayor de 12 años podrá solicitar su ingreso al Registro por sí misma o a través de sus representantes. Cuando las autoridades citadas no se en encuentren accesibles, disponibles o se nieguen a recibir la declaración, la víctima podrá acudir a cualquier otra autoridad federal, estatal o municipal para realizar su declaración, las cuales tendrán las obligaciones que la Ley General determine.
+VIII. Promover convenios de colaboración con entes públicos y privados que celebre el Organismo, de acuerdo a los programas sustantivos vigentes y la normativa aplicable;
 
-###### Artículo 45.
+IX. Planear y programar la integración y distribución de alimentos en instituciones de educación preescolar y primaria públicos, que permitan satisfacer en función de los recursos existentes, a la población beneficiaria;
 
-Una vez recibida la denuncia, queja o el conocimiento de los hechos, deberán ponerla en conocimiento de la autoridad más inmediata en un término que no excederá de veinticuatro horas. En el caso de las personas que se encuentren bajo custodia del Estado, estarán obligados a recibir su declaración las autoridades que estén a cargo de los centros de reinserción social, con la presencia de los representantes jurídicos de las personas declarantes, así como de representantes de la Comisión Estatal de los Derechos Humanos y de la Comisión Ejecutiva Estatal.
+X. Supervisar la aplicación de las normas de calidad e higiene establecidas que deben reunir los productos que se utilicen en la preparación de alimentos en instituciones de educación preescolar y primaria públicos que distribuya el Organismo, así como en los Centros de Educación Inicial Públicos de la Ciudad de México;
 
-Toda autoridad pública que tenga conocimiento de un hecho de violación de derechos humanos deberá denunciarlo de inmediato ante la autoridad competente.
+XI. Calendarizar y vigilar la distribución y suministro de alimentos en instituciones de educación preescolar y primaria públicos de la Ciudad de México;
 
-###### Artículo 46.
+XII. Turnar a la Dirección Ejecutiva de Administración y Finanzas la información proporcionada por las vocalías del programa de alimentos en instituciones de educación preescolar y primaria públicos de la Ciudad de México sobre las cuotas de recuperación;
 
-Para efectos de esta Ley, el reconocimiento de la calidad de víctima se realiza por la determinación de cualquiera de las siguientes autoridades:
+XIII. Expedir copias certificadas y cotejos de los documentos existentes en sus archivos, así como de los que tenga acceso con motivo del desarrollo de sus funciones;
 
-I. El Juzgador penal mediante sentencia ejecutoriada;
+XIV. Proporcionar dentro del ámbito de su competencia la información que le sea requerida por las áreas del Organismo; y
 
-II. El juzgador en materia de amparo, civil o familiar que tenga los elementos para acreditar que el sujeto es víctima;
+XV. Las demás que le confiera la Dirección General y las disposiciones aplicables vigentes.
 
-III. El Ministerio Público;
+### CAPÍTULO VII. DIRECCIÓN EJECUTIVA DE APOYO A LAS NIÑAS, NIÑOS Y ADOLESCENTES
 
-IV. La Comisión de Derechos Humanos del Estado;
+###### ARTÍCULO 16.
 
-V. Los organismos internacionales de protección de derechos humanos a los que el Estado de Mexicano les reconozca competencia, y
+La Dirección Ejecutiva de Apoyo a las Niñas, Niños y Adolescentes, tendrá a su cargo las siguientes atribuciones:
 
-VI. La Comisión Ejecutiva Estatal deberá estudiar el caso y, de ser procedente, dar el reconocimiento formal de la condición de víctima. A dicho efecto deberá tener en cuenta los peritajes de instituciones públicas de los que se desprendan las situaciones para poder determinar que la persona que lo ha solicitado, podrá adquirir la condición de víctima.
+I. Establecer, de acuerdo a los lineamientos y directrices fijados por la Dirección General, las políticas orientadas a promover y fomentar el mejoramiento de las condiciones sociales del individuo, la familia y la comunidad, primordialmente en zonas de vulnerabilidad y/o marginación social en la Ciudad de México;
 
-###### Artículo 47.
+II. Planear, organizar, integrar, dirigir, supervisar, evaluar y dar seguimiento de acuerdo a las normas y los lineamientos establecidos para el fortalecimiento de los programas de apoyo social para la atención integral de niñas, niños y adolescentes de la Ciudad de México;
 
-El reconocimiento de la calidad de víctima tendrá los siguientes efectos:
+III. Establecer de acuerdo a los lineamientos y directrices fijados por la Dirección General, las políticas orientadas a promover, fomentar y operar un sistema de estímulos que permitan el desarrollo de las niñas, niños y adolescentes que vivan y que estudien en escuelas públicas en el (sic) Ciudad de México, mediante la impartición de actividades y clases extraescolares;
 
-I. Permitirá acceder a todos los derechos, garantías, acciones, mecanismos y procedimientos, en los términos de esta Ley y sus disposiciones reglamentarias; y
+IV. Promover y fomentar en los beneficiarios de los programas de las Niñas, niños y adolescentes una cultura de innovación, orientada a la mejora en la convivencia y de las condiciones de vida de los habitantes de la Ciudad de México;
 
-II. Facilitará el acceso a los recursos del Fondo y la reparación integral, de conformidad con lo previsto en la presente ley y la normatividad que de ella emane. El procedimiento y los elementos a acreditar se determinarán en el Reglamento correspondiente; y
+V. Impulsar programas para la promoción, defensa y restitución de los derechos de las niñas, niños y adolescentes, conforme a los principios de supervivencia y desarrollo, no discriminación, interés superior y protección integral; Difundir y promover una cultura de respeto a los derechos de las niñas, niños y adolescentes en lo general y en particular de aquellos que se ubican en una situación de vulnerabilidad o riesgo;
 
-III. En el caso de lesiones graves, delitos contra la libertad psicosexual, violencia familiar, trata de personas, secuestro, tortura, tratos crueles, inhumanos o degradantes, desapariciones, privación de la libertad y todos aquellos que impidan a la víctima acceder adecuadamente a la defensa de sus derechos y el Juez de la causa o la autoridad responsable del procedimiento ordenarán suspender de inmediato, todos los juicios y procedimientos administrativos y detendrán los plazos de prescripción y caducidad en que aquella se vea involucrada, y todos los efectos que de éstos se deriven, en tanto su condición no sea superada, siempre que se justifique la imposibilidad de ejercer adecuadamente los derechos en dichos juicios y procedimientos.
+VI. Establecer estrategias que permitan apoyar y acompañar el desarrollo de las niñas, niños y adolescentes a lo largo de su formación académica;
 
-## Título Quinto. Fondo Estatal
+VII. Propiciar la formación de las Niñas, Niños y adolescentes con los valores de la equidad de género, la vida en libertad, la identidad de nuestra cultura y la conciencia ecológica;
 
-###### Artículo 17.
+VIII. Fomentar la integración familiar, la motivación permanente, el gusto por las artes, la cultura y los deportes, así como la sana y productiva convivencia en las familias de las niñas, niños y adolescentes beneficiados por los programas del Sistema, a través de organización de eventos de toda índole, que contribuyan al logro de los objetivos de sus programas;
 
-La Comisión Ejecutiva Estatal estará integrada por tres comisionados que durarán en su encargo tres años, pudiendo ser reelectos por una sola ocasión.
+IX. Coordinar con otras direcciones de la institución, los apoyos técnicos requeridos para el cumplimiento de los programas institucionales de su competencia;
 
-El Ejecutivo Estatal enviará al Congreso del Estado, previa convocatoria pública, una terna por cada comisionado a elegir.
+X. Proponer, coordinar y vigilar la ejecución, seguimiento y evaluación de convenios establecidos entre el Organismo e instituciones públicas y privadas, para apoyar el cumplimiento de los programas institucionales asignados a esta Dirección;
 
-Una vez cerrada la convocatoria, el Ejecutivo deberá publicar la lista de las propuestas recibidas.
+XI. Proponer a la Dirección General las medidas de modernización y simplificación, para mejorar la Eficiencia en la administración de los recursos y la eficacia en el cumplimiento de sus objetivos;
 
-El Congreso elegirá por el voto de las dos terceras partes de sus integrantes a los comisionados y designará a su Presidente.
+XII. Proporcionar dentro del ámbito de su competencia la información, cooperación y dictámenes técnicos que le sean requeridos, tanto por las áreas del Organismo, como por las dependencias y entidades de la administración pública federal y local de acuerdo a las políticas que al efecto se establezcan;
 
-Para garantizar que en la Comisión Ejecutiva Estatal estén representados colectivos de víctimas, especialistas y expertos que trabajen en la atención a víctimas, ésta se con formará con las propuestas presentadas al Ejecutivo Estatal, en los siguientes términos:
+XIII. Establecer y coordinar acciones que contribuyan a fomentar y fortalecer la cultura, el deporte y la recreación en el individuo, la familia y la comunidad, primordialmente en zonas de vulnerabilidad y/o marginación social en la Ciudad de México.
 
-I. Una persona especialista en derecho, psicología, derechos humanos, sociología o especialidades equivalentes con experiencia en la materia de esta Ley, propuesta por las universidades públicas o privadas del Estado;
+XIV. Definir los perfiles requeridos del personal adecuado para la operación de los programas; y definir los criterios de selección de tutores para la impartición de las disciplinas;
 
-II. Una persona que haya sido víctima de delito o violación de derechos humanos, o que represente a colectivos de víctimas propuesta por grupos de víctimas u organizaciones de la sociedad civil, con actividad acreditada en atención de víctimas de al menos cinco años, y
+XV. Fungir como enlace en las resoluciones o acuerdos de los Consejos de los Programas de apoyo social para Niñas, Niños y Adolescentes;
 
-III. Una persona especializada en la promoción de los derechos humanos, propuesta por organizaciones no gubernamentales con actividad acreditada en la materia de al menos cinco años, o por la Comisión de los Derechos Humanos del Estado.
+XVI. Establecer y coordinar acciones que contribuyan a fomentar y fortalecer la cultura, el deporte y la recreación en el individuo, la familia y la comunidad, primordialmente en zonas de vulnerabilidad y/o marginación social en la Ciudad de México;
 
-En el caso de las universidades privadas que postulen candidatos o candidatas para la conformación de la Comisión Ejecutiva Estatal, deberán contar con al menos cinco años de existencia y gozar de reconocimiento público por su calidad académica y sus aportes a la investigación en temas relacionados con la atención integral a víctimas.
+XVII. Vigilar en términos administrativos y operativos los Centros de Día y albergue de la Central de Abastos;
 
-### Capítulo I. Objeto e integración
+XVIII. Expedir copias certificadas y cotejos de los documentos existentes en sus archivos, así como de los que tengan acceso con motivo del desarrollo de sus funciones; y
 
-###### Artículo 48.
+XIX. Las demás que le confiera la Dirección General y las disposiciones aplicables vigentes.
 
-Se crea el Fondo Estatal, el cual tiene por objeto brindar los recursos necesarios para la ayuda, asistencia y reparación integral de las víctimas, en los términos previstos en la Ley General, en esta Ley y demás disposiciones aplicables.
+### CAPÍTULO VIII. DIRECCIÓN EJECUTIVA DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD Y DESARROLLO COMUNITARIO
 
-###### Artículo 49.
+###### ARTÍCULO 17.
 
-Para ser beneficiario del apoyo del Fondo, además de los requisitos que al efecto establece la Ley General, esta Ley y la normatividad que de ella emane, las víctimas deberán estar inscritas en el Registro Estatal a efecto de que la Comisión Ejecutiva Estatal realice una evaluación integral de su entorno familiar y social con el objeto de contar con los elementos suficientes para determinar las medidas de la ayuda, asistencia, protección, reparación integral y, en su caso, la compensación.
+La Dirección Ejecutiva de los Derechos de las Personas con Discapacidad y Desarrollo Comunitario, tendrá a su cargo las siguientes funciones:
 
-###### Artículo 50.
+I. Planear, organizar, integrar, dirigir y controlar de acuerdo a las normas y lineamientos establecidos, los programas que contribuyan al respeto de los Derechos Humanos de las Personas con Discapacidad, y los que se establezcan para dar cumplimiento a las obligaciones que competan en la materia con base en la perspectiva de género;
 
-El Fondo se conformará con:
+II. Establecer de acuerdo a los lineamientos y directrices emitidas por la Dirección General y en apego a la normatividad aplicable, las políticas del Organismo en materia de atención para la garantía de los derechos de las personas con discapacidad;
 
-I. Recursos previstos expresamente para dicho fin en el Presupuesto de Egresos del Estado, en un porcentaje no inferior al 0.014 % del Gasto Programable; sin que pueda disponerse de dichos recursos para fines diversos a los señalados por esta Ley;
+III. Coordinar la atención de los reportes de maltrato, abandono, descuido o negligencia, de que sean objeto las personas con discapacidad por parte de sus padres, tutores, o de quien los tenga bajo su cuidado y atención, para su investigación y tratamiento social, y de ser procedente interponer las denuncias correspondientes;
 
-II. Recursos obtenidos por la enajenación de bienes decomisados en procesos penales;
+IV. Asumir el cuidado, atención integral, representación jurídica y en su caso, la tutela de las personas con discapacidad en situación de abandono;
 
-III. Recursos provenientes de las fianzas o garantías que se hagan efectivas cuando los procesados incumplan con las obligaciones impuestas por la autoridad, de conformidad con la normatividad aplicable;
+V. Impulsar y fomentar la autonomía de las personas con discapacidad, promoviendo actividades que permitan el desarrollo de sus capacidades;
 
-IV. Recursos provenientes de multas y sanciones pecuniarias impuestas por la autoridad administrativa o judicial cuando se violen deberes reconocidos por esta Ley, en términos de la normatividad aplicable;
+VI. Impulsar políticas de cooperación con organizaciones sociales, apoyar y fomentar las acciones de las instituciones de asistencia privada y promover el establecimiento de instrumentos que permitan apoyar, coordinar y estimular la participación ciudadana en la defensa y promoción de los derechos de las personas con discapacidad en particular las de escasos recursos;
 
-V. Recursos provenientes de multas y sanciones impuestas al Estado por violaciones de derechos humanos, que en los términos de esta Ley y su Reglamento se establezcan;
+VII. Impulsar y promover el reconocimiento, ejercicio y defensa de los derechos de las personas con discapacidad, y establecer centros de información y denuncias de abuso y violación a sus derechos;
 
-VI. Donaciones o aportaciones en efectivo o especie realizadas por terceros, personas físicas o morales, de carácter público, privado o social, nacional o extranjera, de manera altruista;
+VIII. Impulsar la creación de fondos mixtos, programas de trabajos comunitarios, campañas de sensibilización, promover la adecuación de la infraestructura y de los servicios y acciones eficientes que fomenten la generación de mayores recursos en apoyo al ejercicio de los derechos de la población con discapacidad y de sus familias;
 
-VII. El monto de la reparación integral del daño cuando el beneficiario renuncie a ella o no lo reclame dentro del plazo legal establecido;
+IX. Elaborar e impulsar políticas, programas y acciones específicos que amplíen y mejoren la cobertura de servicios, la accesibilidad, la movilidad y la vida independiente de las personas con discapacidad principalmente las de escasos recursos;
 
-VIII. Las subastas públicas respecto de objetos o valores que se encuentren a disposiciones de autoridades investigadoras o Judiciales, siempre y cuando no hayan sido reclamados por quien tenga derecho a ello, en términos de ley;
+X. Realizar y apoyar estudios e investigaciones y promover el intercambio de experiencias en materia de derechos de personas con discapacidad que permitan hacer más eficientes las acciones dirigidas a las diferentes problemáticas que enfrenta esta población;
 
-IX. Las sumas recuperadas por el Estado en los juicios de carácter civil, que se dirijan en contra de los servidores públicos que hayan sido encontrados como responsables de haber cometido violaciones a los derechos humanos;
+XI. Realizar y promover acciones para la inclusión educativa, cultural y laboral de las personas con discapacidad;
 
-XI. Los rendimientos que generen los recursos del Fondo, y
+XII. Promover e impulsar el ejercicio de los derechos de niñas y niños con discapacidad en forma integral;
 
-XII. Los montos que se recuperen en virtud del derecho de repetición en los términos de Ley.
+XIII. Llevar a cabo acciones en materia de rehabilitación de personas con discapacidad, en centros no hospitalarios;
 
-Las compensaciones subsidiarias se cubrirán con los recursos del Fondo correspondiente del ejercicio fiscal vigente al momento de la solicitud, la Comisión Ejecutiva Estatal velará por la optimización del uso de los recursos, priorizando en todo momento aquellos casos de mayor gravedad.
+XIV. Expedir constancias a las Asociaciones, Sociedades Civiles e Instituciones de Asistencia Privada en materia de discapacidad y desarrollo familiar, de conformidad con lo establecido en el Código Fiscal de la Ciudad de México;
 
-###### Artículo 51.
+XV. Supervisar la aplicación de las normas establecidas que deben reunir los productos que se utilicen en la preparación de alimentos en los comedores populares;
 
-El Fondo Estatal estará exento de toda imposición de carácter Fiscal, así como de los diversos gravámenes que pudieren estar sujetas las operaciones que se realicen con el Estado.
+XVI. Calendarizar y vigilar la distribución y suministro de alimentos en los comedores populares;
 
-###### Artículo 18.
+XVII. Desarrollar el programa anual de suministros alimenticios de los comedores populares a su cargo, en coordinación con las áreas respectivas de la Dirección Ejecutiva de Administración y Finanzas;
 
-Para la elección de las comisionadas y los comisionados, las comisiones de Justicia y de Derechos Humanos del Congreso recibirán las ternas enviadas por el Gobernador y supervisarán el proceso de selección.
+XVIII. Proponer a la Dirección General la celebración de convenios o acuerdos interinstitucionales para el desarrollo de programas de asistencia social alimentaria;
 
-### Capítulo II. Administración
+XIX. Establecer de acuerdo a los lineamientos y directrices fijados por la Dirección General, las políticas orientadas a promover y fomentar el mejoramiento de las condiciones sociales del individuo, la familia y la comunidad, primordialmente en zonas de vulnerabilidad y/o marginación social en la Ciudad de México;
 
-###### Artículo 52.
+> <small>(REFORMADA, G.O. 21 DE ABRIL DE 2022)</small>
 
-Los recursos del Fondo Estatal serán administrados y operados por la Comisión Ejecutiva Estatal a través de un Fideicomiso Público, de acuerdo a la reglamentación que para tal efecto se expida.
+XX. Vigilar en términos administrativos y operativos que los Centros DIF Ciudad de México, Centros de Capacitación para Instructores y Técnicos y Áreas Operativas de Medicina Preventiva y las purificadoras de agua para consumo humano, cumplan con las políticas, normas, reglamentos, programas y servicios que le han sido encomendados;
 
-###### Artículo 53.
+XXI. Promover en los espacios señalados en la fracción anterior, el bienestar, la participación comunitaria y familiar, y las demás que se establezcan para dar cumplimiento a la atención de la población;
 
-El Titular del Fondo Estatal tendrá las atribuciones y deberes que el Reglamento de esta Ley le confiera. En especial tendrá las obligaciones y atribuciones siguientes:
+XXII. Coordinar con otras Direcciones de la Institución, los apoyos técnicos requeridos para el cumplimiento de los programas institucionales de su competencia;
 
-I. Administrar cautelosamente los recursos que conforman el Fondo a fin de permitir el cumplimiento efectivo del objeto de ésta Ley;
+XXIII. Proponer, coordinar y vigilar la ejecución, seguimiento y evaluación de convenios establecidos entre el Organismo e instituciones públicas y privadas, para apoyar el cumplimiento de los programas institucionales asignados a esta Dirección;
 
-II. Gestionar lo pertinente para que los recursos asignados al Fondo ingresen oportunamente al mismo;
+XXIV. Establecer la organización y el funcionamiento de las unidades y áreas operativas que proporcionan servicios asistenciales, que tengan a su cargo;
 
-III. Presentar periódicamente informes y rendición de cuentas ante el Pleno de la Comisión Ejecutiva;
+XXV. Establecer coordinación con las instituciones locales en el ámbito de salud, para promover acciones de promoción, prevención, educación y atención. Asimismo, cumplir con las normas y programas que conjuntamente se emiten con los grupos interinstitucionales de salud;
 
-IV. Crear mecanismos e incentivos para nutrir de recursos el Fondo, y
+XXVI. Coordinar, supervisar y evaluar los programas de Promoción de la Salud en las unidades de servicios de esta Dirección, con el fin de atender a las familias a través de acciones de fomento y atención de la salud integral;
 
-V. Realizar las previsiones necesarias a fin de procurar la solvencia del fondo.
+XXVII. Coordinar y supervisar la participación del Organismo en los programas emergentes en caso de desastre con el propósito de proporcionar asistencia a damnificados y a personas de escasos recursos, sumando esfuerzos con los sectores oficiales que intervengan;
 
-###### Artículo 54.
+XXVIII. Vigilar el apego de las áreas y unidades operativas de medicina de primer nivel a las normas que en el ámbito de salud se emitan;
 
-Los recursos del Fondo se aplicarán para otorgar apoyos de carácter económico a la víctima, las cuales podrán ser de ayuda, asistencia o reparación integral, en los términos de la Ley General, la presente ley y conforme el Reglamento que la desarrolle,
+XXIX. Expedir copias certificadas y cotejos de los documentos existentes en sus archivos, así como de los que tenga acceso con motivo del desarrollo de sus funciones;
 
-El Titular del Fondo será el responsable de entregar la indemnización o compensación que corresponda otorgar a la víctima, previa autorización que al respecto emita la Comisión Ejecutiva Estatal. El pago de las indemnizaciones se regirá en los términos dispuestos por la presente ley.
+XXX. Promover y fomentar Programas emergentes que permitan abastecer de agua potable para beneficiar a familias de escasos recursos que radican en zonas marginadas, carezcan de este servicio público en forma permanente o lo reciban en forma intermitente, en coordinación con el Sistema de Aguas de la Ciudad de México;
 
-###### Artículo 19.
+XXXI. Brindar las facilidades y apoyo necesario para que las Direcciones Ejecutivas lleven a cabo las actividades correspondientes;
 
-En su conformación, el Ejecutivo y el Congreso garantizarán la representación de las diversas regiones geográficas de la entidad federativa y de las diversas especializaciones sobre hechos victimizantes, así como el enfoque transversal de género y diferencial.
+XXXII. Las demás que le confieran la Dirección General y las disposiciones legales vigentes.
 
-### Capítulo III. Procedimiento
+### CAPÍTULO IX. DIRECCIÓN EJECUTIVA DE ADMINISTRACIÓN Y FINANZAS
 
-###### Artículo 55.
+###### ARTÍCULO 18.
 
-Para acceder a los recursos del Fondo Estatal, la víctima deberá presentar su solicitud ante la Comisión Ejecutiva Estatal de acuerdo a los términos que se establezcan en el Reglamento de esta Ley.
+La Dirección Ejecutiva de Administración y Finanzas, le corresponde la atención de los siguientes asuntos:
 
-Las resoluciones de la Comisión Ejecutiva Estatal serán apelables en los términos que señale el Reglamento que al efecto se emita.
+I. Establecer, de acuerdo a los lineamientos y directrices emitidos por la Dirección General, Dependencias y Entidades Federales y locales y con apego a la normatividad aplicable, las políticas y procedimientos generales a observar en las relaciones laborales con el personal del Organismo, así como coordinar, administrar y supervisar todas las actividades necesarias para atender los requerimientos de los trabajadores de este Organismo, de una manera efectiva, con la aplicación debida de las Políticas, Normas y Procedimientos señalados en las Condiciones Generales de Trabajo vigentes y Leyes Complementarias;
 
-###### Artículo 56.
+II. Fijar y aplicar las Políticas y Procedimientos en materia de reclutamiento, selección y contratación de personal del Organismo. Así como instrumentar políticas relativas al análisis de puestos y recodificación de plazas conforme a las disposiciones legales aplicables, además de elaborar los nombramientos y credenciales al personal del Organismo, así como la integración y custodia de los expedientes personales de los mismos;
 
-Las solicitudes que se presenten en términos de este Capítulo se atenderán considerando:
+III. Otorgar los estímulos, premios y recompensas al personal del Organismo que así lo amerite, de acuerdo a las Condiciones Generales de Trabajo y las Políticas y Procedimientos elaborados por la Dirección de Recursos Humanos;
 
-I. La condición socioeconómica de la víctima;
+IV. Proporcionar la asesoría y apoyo que, en materia de relaciones laborales, requieran las áreas que integran el Organismo;
 
-II. La repercusión del daño en la vida familiar;
+V. Tramitar licencias, bajas, reubicación, descuentos derivados de juicios, reservaciones de plaza, constancias de accidentes de trabajo y autorizar cambios de horario del personal del Organismo en los términos de las disposiciones aplicables;
 
-III. La imposibilidad de trabajar como consecuencia del daño;
+VI. Aplicar, con apego a la normatividad correspondiente los tabuladores de sueldo vigentes, debidamente autorizados por los Organismos competentes, realizar la liquidación y pago de las remuneraciones al personal del Organismo, así como la aplicación de los aumentos y descuentos que procedan;
 
-IV. El número y la edad de los dependientes económicos;
+VII. Aplicar y registrar con base en la legislación relacionada con la materia laboral, en los términos de las Condiciones Generales de Trabajo del Organismo y con la participación que corresponda a la representación sindical, las correcciones disciplinarias y sanciones que sean procedentes al personal;
 
-V. El enfoque diferencial, y
+VIII. Aplicar y registrar, en los términos de las Condiciones Generales de Trabajo del Organismo y con base en la legislación aplicable en materia laboral, con la participación que corresponda a la representación sindical, las sanciones procedentes al personal;
 
-VI. Los recursos disponibles en el Fondo.
+IX. Proponer, mediante acuerdo con la Dirección General a los representantes del Organismo, en las Comisiones Mixtas de Escalafón, Capacitación y Seguridad e Higiene, Bolsa de Trabajo y Ropa de Trabajo;
 
-###### Artículo 57.
+X. Instrumentar y aplicar las prestaciones y servicios de carácter educativo, social, económico, cultural y recreativo a que tenga derecho el personal del Organismo y en algunos casos sus familiares directos; en los términos que marcan las Condiciones Generales de Trabajo y otras disposiciones aplicables;
 
-Si las autoridades obligadas por esta Ley no pudiesen hacer efectiva total o parcialmente la orden de reparación integral, establecida por mandato judicial o por acuerdo de la Comisión Ejecutiva, deberán justificar la razón y tomar las medidas suficientes para cobrar su valor o gestionar lo pertinente a fin de logar (sic) que se concrete la reparación integral de la víctima.
+XI. Instrumentar y aplicar programas de capacitación acorde a las necesidades vigentes de las Direcciones Ejecutivas, para un mejor desarrollo laboral del personal del Organismo, en los términos legales y convencionales correspondientes;
 
-## Título Sexto. Asesoría Jurídica
+XII. Establecer, de acuerdo a los lineamientos y directrices admitidos por la Dirección General y con apego a la normatividad aplicable, las políticas y procedimientos relacionados con las adquisiciones, la conservación y el mantenimiento de los bienes muebles e inmuebles, así como con los servicios generales del Organismo;
 
-###### Artículo 58.
+XIII. Integrar y ejecutar la programación anual de adquisiciones, mantenimiento y conservación de bienes muebles e inmuebles, de conformidad con los requerimientos y recursos del Organismo;
 
-Se crea la Asesoría Jurídica, como área especializada en asesoría, asistencia y acompañamiento jurídico para víctimas, dependiente de la Comisión Ejecutiva Estatal.
+XIV. Participar en los comités de adquisiciones, así como de obras y conservación y donación;
 
-###### Artículo 59.
+XV. Adquirir, administrar y abastecer los recursos materiales y proporcionar los servicios generales que requieran para su operación las áreas que integran al Organismo;
 
-La Asesoría Jurídica estará integrada por Asesores Jurídicos, peritos y profesionistas técnicos de diversas disciplinas que se requieran para la defensa de los derechos de las víctimas. Contará con una Directora o un Director General, y las áreas administrativas que se requieran para el eficaz desempeño de sus atribuciones, incluyendo un área de archivo y las instalaciones adecuadas para la atención directa con víctimas, en los términos que señale el Reglamento. Todas las actuaciones que realicen las Asesoras o Asesores Jurídicos adscritos a la Asesoría Jurídica, indistintamente de la materia de que se trate, deberán velar por la aplicación de las normas constitucionales y convencionales en materia de derechos humanos, de conformidad con el artículo 1o de la Constitución Federal.
+XVI. Intervenir en la elaboración, trámite, supervisión y suscripción de convenios, contratos y pedidos, conforme a los montos autorizados por los comités correspondientes;
 
-###### Artículo 60.
+XVII. Intervenir en las licitaciones públicas para adquisiciones, prestación de servicios y obra pública, de conformidad con las disposiciones aplicables;
 
-La víctima tendrá derecho a nombrar una Asesora o un Asesor Jurídico el cual elegirá libremente desde su solicitud de ingreso al Registro Estatal. La víctima tendrá el derecho de que su Asesor Jurídico comparezca a todos los actos en los que sea requerido.
+XVIII. Mantener actualizado el inventario de bienes muebles de acuerdo a las políticas establecidas por la Junta de Gobierno y determinar, en su caso, la baja y destino final de los mismos, en los términos de la normatividad correspondiente;
 
-En caso de que no pueda nombrar un asesor jurídico, la Asesoría Jurídica designará a uno.
+XIX. Suministrar los recursos materiales y prestar los servicios generales de apoyo que requieran para su funcionamiento las diversas áreas del Organismo;
 
-El servicio de la Asesoría Jurídica será gratuito y se prestará a todas las víctimas que quieran o no pueden contratar a un abogado particular y en especial a:
+XX. Programar, ejecutar y supervisar las obras de adaptación que requieran los bienes y equipos propiedad del Organismo;
 
-I. Las personas que estén desempleadas y o no perciban ingresos;
+XXI. Llevar el control del parque vehicular propiedad del Organismo;
 
-II. Los trabajadores jubilados o pensionados, así como sus cónyuges;
+XXII. Administrar y supervisar las funciones, proyectos, bienes y servicios informáticos de las diversas áreas del Organismo;
 
-III. Los trabajadores eventuales o subempleados;
+XXIII. Coordinar, definir y establecer de acuerdo a los lineamientos y directrices emitidos por la Dirección General y en apego a la normatividad aplicable, las políticas y procedimientos de programación y presupuesto y su interrelación y evaluación con objetivos, metas y recursos, así como elaborar e integrar el Techo Presupuestal, Programa Operativo Anual y Programa Anual de Necesidades;
 
-IV. Los miembros de los pueblos o comunidades originarios, y
+XXIV. Elaborar el Manual General de Organización del Sistema y formular los lineamientos técnicos para la elaboración de los manuales de organización y procedimientos específicos de las diversas áreas del Organismo, verificando su autorización y llevando un registro de los mismos;
 
-V. Las personas que por cualquier razón social o económica tengan la necesidad de estos servicios.
+XXV. Establecer los mecanismos de administración, registro y control de las fuentes de ingresos respecto al origen de los recursos del Organismo;
 
-###### Artículo 61.
+XXVI. Coordinar y vigilar el cumplimiento y entrega de la información presupuestal y contable del Organismo ante diversas Instancias;
 
-Se establece la figura del Asesor Jurídico el cual tendrá las mismas facultades y atribuciones que las contempladas para sus homólogos federales en la Ley General, en el ámbito de su respectiva competencia.
+XXVII. Coordinar y vigilar el compromiso presupuestal del Organismo en coordinación con otras áreas;
 
-###### Artículo 62.
+XXVIII. Ejecutar las obligaciones fiscales a cargo del Organismo y el seguimiento de adecuaciones y/o modificaciones de la normatividad fiscal aplicable;
 
-La estructura, operación, funcionamiento, atribuciones y facultades de la Asesoría Jurídica se establecerán en el Reglamento que al efecto se emita.
+XXIX. Coordinar y supervisar la elaboración y entrega de información específica ante diversos órganos de supervisión y control a que está sujeto el Organismo;
 
-## Título Séptimo. Capacitación, Formación, Actualización y Especialización
+XXX. Coordinar y supervisar el cumplimiento oportuno de obligaciones de pago a favor de proveedores, acreedores, contratistas y prestadores de servicio a través de mecánicas de operación y procedimientos que contengan la normatividad aplicable previa a la generación de los pagos efectuados;
 
-###### Artículo 63.
+XXXI. Coordinar, establecer y supervisar los mecanismos de adquisiciones y abastecimiento del Organismo en estricto apego a la normatividad a fin de asegurar el cumplimiento y desarrollo de la asistencia social que presta el Organismo;
 
-El Ejecutivo del Estado y sus auxiliares, garantizarán:
+XXXII. Supervisar el desarrollo y enlace jurídico interno del Organismo en sus aspectos laborales, contractuales y sindicales;
 
-I. La inclusión dentro de sus programas de formación y capacitación contenidos temáticos sobre los principios, derechos, mecanismos, acciones y procedimientos reconocidos por la Ley General de Víctimas y la presente Ley, así como las disposiciones específicas de derechos humanos contenidos en la Constitución Federal y Tratados Internacionales, protocolos específicos y demás instrumentos del Derecho Internacional de los Derechos Humanos, y
+XXXIII. Coordinar la actualización y funcionamiento de los sistemas de voz y datos del Organismo;
 
-II. El diseño e implementación de un sistema de seguimiento que logre medir el impacto de la capacitación en los miembros de sus respectivas dependencias. A dicho efecto deberá tenerse en cuenta, entre otros aspectos, las denuncias y quejas hechas contra dichos servidores públicos, las sanciones impuestas, las entrevistas y sondeos directos practicados a las víctimas.
+XXXIV. Planear, analizar, diseñar, programar, elaborar, adecuar e implantar los sistemas electrónicos de información que requieran las áreas para el logro de sus objetivos, brindando el apoyo técnico y operativo necesario para tal efecto;
 
-###### Artículo 64.
+XXXV. Establecer las políticas generales y específicas para el uso y aprovechamiento óptimo de los equipos de cómputo y sistemas electrónicos de información del Organismo, asegurando la resolución de los problemas técnicos y operativos de software y hardware, así como su mantenimiento preventivo;
 
-Todo procedimiento de ingreso, selección, permanencia, estímulo, promoción y reconocimiento de servidores públicos que, por su competencia, tengan trato directo o brinden su servicio a víctimas en cumplimento de medidas de asistencia, ayuda, apoyo, reparación integral o cualquier mecanismo de acceso a la justicia, deberá incluir, dentro de los criterios de valoración, un rubro relativo a los Derechos Humanos.
+XXXVI. Desarrollar acciones de Protección Civil, al interior del Organismo, que garanticen la integridad de los trabajadores, así como de los bienes de la institución;
 
-###### Artículo 65.
+XXXVII. Celebrar toda clase de contratos, convenios, acuerdos y demás instrumentos jurídicos contemplados en la normatividad vigente, relativos a adquisiciones, arrendamientos, obras y prestación de servicios, en materia civil, administrativa, mercantil, laboral. Así como conocer, iniciar, substanciar, agotar y resolver los procedimientos de rescisión administrativa, terminación anticipada, suspensión temporal y definitiva de los contratos, convenios, acuerdos y demás instrumentos jurídicos que haya celebrado en nombre y representación del Sistema para el Desarrollo Integral de la Familia de la Ciudad de México, adicionalmente podrá efectuar la ejecución de las garantías de cumplimiento de los contratos;
 
-La Comisión Ejecutiva Estatal creará un programa continuado de capacitación y formación para servidores públicos que atienden víctimas, adscritos a las instituciones integrantes del Sistema Estatal. Este programa deberá garantizar como mínimo:
+XXXVIII. Delegar atribuciones a sus direcciones de área con base en el Manual Administrativo del Sistema para el Desarrollo Integral de la Familia de la Ciudad de México;
 
-I. La formación en derechos de las víctimas a la verdad, [a (sic) justicia y la reparación integral;
+XXXIX. Expedir copias certificadas y cotejos de los documentos existentes en sus (sic) archivo, así como de los que tenga acceso con motivo del desarrollo de sus funciones; y
 
-II. Enfoque diferencial para mujeres, niños, niñas, adolescentes, comunidades o pueblos originarios y otros grupos vulnerables;
+XL. Las demás que le confiera la Dirección General y las disposiciones legales vigentes.
 
-III. Procedimientos administrativos y judiciales;
+### CAPÍTULO X. DE LAS ATRIBUCIONES DEL ÓRGANO INTERNO DE CONTROL
 
-IV. Normatividad internacional, nacional y estatal relacionada, y
+###### ARTÍCULO 19.
 
-V. Rutas y procedimientos de atención a víctimas.
+Corresponde al Órgano Interno Control, la competencia de los siguientes asuntos:
 
-###### Artículo 66.
+I. Proponer, para la aprobación del o la Titular de la Dirección General de Órganos Internos de Control Sectorial, el Programa de Auditoría para cada ejercicio presupuestal, sus modificaciones y mantener el seguimiento sistemático de su ejecución;
 
-El Poder Ejecutivo del Estado implementará una estrategia integral de difusión de los derechos de las víctimas en todo el territorio estatal que permita obtener a las mismas, a las organizaciones y a la población en general el conocimiento de los derechos contemplados en la presente Ley y otras normas relacionadas.
+II. Asistir y participar en los órganos de gobierno, comités, subcomités y demás cuerpos colegiados, instalados en la Entidad, en términos de las disposiciones jurídicas y administrativas aplicables;
 
-###### Artículo 67.
+III. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo de la práctica de auditorías, verificaciones, revisiones, inspecciones y visitas; procedimientos administrativos disciplinarios, y demás de las que tenga acceso con motivo del desarrollo de sus actividades;
 
-La Fiscalía General del Estado y la Secretaría de Seguridad Pública deberán disponer lo pertinente para que los contenidos temáticos señalados en la Ley General, la presente Ley y la normatividad que de ella emane sean parte de las estrategias, políticas y modelos de profesionalización, así como los de supervisión de los programas correspondientes en los institutos de capacitación.
+IV. Ejecutar verificaciones, revisiones, inspecciones, visitas e intervenir en todos los procesos administrativos que efectúe la Entidad, en la materia relativa a: procedimientos, ingresos, egresos, programación, presupuesto, ejercicio presupuestal, inversión, financiamiento, recursos económicos en general, deuda pública, subsidios, ayudas, donaciones, aportaciones y trasferencias federales, sistemas de registro, contabilidad y presupuesto, recursos humanos, adquisiciones, arrendamientos, servicios, obra pública, conservación, uso, destino, afectación, enajenación, adquisición y baja de bienes muebles e inmuebles, almacenes, inventarios, activos, pasivos y demás que correspondan; en términos de las disposiciones jurídicas y administrativas aplicables;
 
-## Título Octavo. Sanciones
+V. Atender los requerimientos que les formule la Secretaría de la Contraloría General, por conducto de su titular o, a través de sus direcciones generales, ejecutivas o de área;
 
-###### Artículo 68.
+VI. Requerir de acuerdo con la naturaleza de sus funciones, información y documentación a las Dependencias y Órganos Desconcentrados, Alcaldías, Entidades, y Órganos Internos de Control, así como a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenaciones y todos los que tengan alguna participación en los procedimientos previstos en el marco jurídico de la Ciudad de México;
 
-Los servidores públicos que en el marco del proceso penal o cualquier otro tipo de actuación jurisdiccional o administrativa afecten derechos de las víctimas, responderán ante las instancias competentes por las acciones u omisiones en que incurran.
+VII. Intervenir en las actas de Entrega-Recepción que realicen los titulares y servidores públicos de la Entidad y personal del Órgano Interno de Control, a fin de vigilar que se cumpla con la normatividad aplicable, y en caso de incumplimiento, determinar las responsabilidades y sanciones administrativas correspondientes;
 
-###### Artículo 69.
+VIII. Conocer, investigar, iniciar, desahogar y resolver procedimientos administrativos disciplinarios sobre actos, omisiones e incumplimiento a los requerimientos que efectúe el Órgano Interno de Control, respecto de servidores públicos adscritos a la Entidad, que pudieran afectar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión, de los cuales tengan conocimiento por cualquier medio, para determinar, en su caso, las sanciones que correspondan en los términos de la Ley de la materia;
 
-Incurrirán en responsabilidad administrativa los servidores públicos que:
+IX. Conocer, substanciar y resolver los recursos de revocación que se promuevan en contra de resoluciones que impongan sanciones administrativas a los servidores públicos, en términos de las disposiciones jurídicas y administrativas aplicables vigentes;
 
-I. Impidan u obstaculicen el acceso de las víctimas y sus representantes a la información, no sujeta a reserva legal, sobre las causas de su victimización y sobre las causas y condiciones de las violaciones a las que se refiere la presente Ley, así como a conocer la verdad acerca de esas violaciones;
+X. Acordar cuando proceda, la suspensión temporal de los servidores públicos de sus empleos, cargos o comisiones cuando a su juicio resulte conveniente para la conducción o continuación de las investigaciones;
 
-II. Proporcionen información falsa a las víctimas o sobre los hechos que produjeron la victimización;
+XI. Dar seguimiento hasta solventar, las observaciones y recomendaciones generadas a la Entidad, por parte de la Contaduría Mayor de Hacienda del Congreso de la Ciudad de México, de la Auditoría Superior de la Federación y otros órganos de fiscalización. Asimismo, dar seguimiento a la Carta de Recomendaciones de los Auditores Externos, en su caso;
 
-III. Discriminen por razón de la victimización, o
+XII. Verificar la aplicación de los indicadores de gestión establecidos por la Secretaría de la Contraloría General para la Entidad, a efecto de evaluar el desempeño y resultados de las mismas;
 
-IV. Se nieguen, cuando estén obligados a ello, a dar una disculpa pública que incluya el reconocimiento de los hechos y la aceptación de responsabilidades.
+XIII. Conocer, desahogar y resolver a través de la unidad correspondiente el proceso de Aclaración de los Actos, en términos de la Ley de Obras Públicas de la Ciudad de México;
 
-T R A N S I T O R I O S
+XIV. Supervisar el cumplimiento de las obligaciones fiscales por parte de la Entidad;
 
-PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+XV. Ordenar y ejecutar auditorías ordinarias y extraordinarias a la Entidad, conforme a los programas establecidos y autorizados; a fin de promover la eficiencia en sus operaciones y verificar el cumplimiento de sus objetivos, y de las disposiciones legales, reglamentarias y administrativas vigentes;
 
-SEGUNDO. El Gobierno del Estado, sus dependencias y entidades deberán adecuar la normatividad que les resulte aplicable, así como redistribuir los recursos materiales, económicos y humanos previamente existentes para la atención de víctimas y realizar lo previsto en esta Ley a partir del año de ejercicio fiscal posterior al de su publicación.
+XVI. Elaborar y remitir a la Dirección General de Órganos Internos de Control Sectorial, los informes periódicos relativos al Programa de Auditoría, Programa Operativo Anual, otros programas, informes, reportes, datos, y demás documentación solicitada que se les requiera;
 
-TERCERO. Los procedimientos iniciados así como los demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y regularán conforme a las disposiciones vigentes al momento en que se iniciaron.
+XVII. Formular propuestas de mejoras regulatorias y administrativas tendientes a hacer más eficiente la operación y prevención de cualquier posible desviación en la operación de la Entidad;
 
-CUARTO. El Gobierno del Estado y los Municipios del Estado deberán emitir la reglamentación, los acuerdos, circulares, instructivos, bases, manuales de organización, protocolos, procedimientos y/o lineamientos que resulten necesarios para dar cumplimiento a las obligaciones que sean competencia estatal, que se deriven de la presente Ley de conformidad al presupuesto aprobado, en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor de la presente Ley.
+XVIII. Dar contestación a las opiniones y propuestas de las Contraloras o Contralores Ciudadanos que sean remitidos por la Dirección General de Contraloría Ciudadana;
 
-El Reglamento Interno deberá elaborarse en un término no mayor a tres meses, contados a partir de la fecha de publicación.
+XIX. Vigilar que la entidad cumpla con las disposiciones de la Ley de Transparencia y Acceso a la Información Pública de la Ciudad de México y su Reglamento; y
 
-QUINTO. Se abroga la Ley de Atención y Protección a Víctimas u Ofendidos del Delito para el Estado de Guerrero publicada en el Periódico Oficial del Gobierno del Estado de Guerrero número 53 Alcance V, del 4 de julio de 2014.
+XX. Suspender temporal o definitivamente, declarar la nulidad y reposición, en su caso, de los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas, adjudicaciones directas, así como cualesquiera otros procesos y procedimientos administrativos previstos en los ordenamientos aplicables vigentes;
 
-SEXTO. La Comisión Ejecutiva Estatal deberá elegirse dentro de los treinta días naturales posteriores a la entrada en vigor de la presente Ley.
+XXI. Ordenar y realizar visitas e inspecciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en los procesos administrativos que efectúa la Entidad, las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos y demás previstos en el marco jurídico del Gobierno de la Ciudad de México, para vigilar que cumplan con lo establecido en los contratos, convenios, títulos concesión, acuerdos, permisos, cualquier otro instrumento jurídico, así como en las normas y disposiciones jurídicas y administrativas aplicables vigentes; y
 
-SÉPTIMO. La Comisión Ejecutiva Estatal se instalará por primera vez con la designación de tres comisionados.
+XXII. Las demás atribuciones que se deriven de este Estatuto, así como las que la Dirección General de Órganos Internos de Control Sectorial; y la que otorguen otros ordenamientos jurídicos o administrativos vigentes.
 
-El Sistema Estatal deberá instalarse dentro de los tres meses posteriores a la publicación de la presente ley.
+### CAPÍTULO XI. DE LAS ATRIBUCIONES COMUNES DE LAS O LOS DIRECTORES
 
-OCTAVO. Las instituciones del Estado y de los Municipios deberán reglamentar sobre la capacitación de los servidores públicos a su cargo sobre el contenido del rubro denominado De la Capacitación, Formación, Actualización y Especialización, en la presente Ley.
+###### ARTÍCULO 20.
 
-NOVENO. El Gobierno del Estado deberá hacer previsiones presupuestales necesarias para la operación de la presente Ley y establecer una partida presupuestal específica en el presupuesto de egresos del estado para el ejercicio fiscal a su entrada en vigor.
+Las Directoras o Directores Ejecutivos y Coordinadoras o Coordinadores, serán auxiliados en el desempeño de sus funciones por las o los Directores, Subdirectoras o Subdirectores, Jefas o Jefes de Departamento y en general, por el personal que ellos requieran.
 
-Dada en el Salón de Sesiones del Honorable Poder Legislativo, a los veintinueve días del mes de enero del año dos mil quince.
+###### ARTÍCULO 21.
 
-DIPUTADA PRESIDENTA.
+A las o los Directores Ejecutivos, les corresponden las siguientes atribuciones comunes:
 
-LAURA ARIZMENDI CAMPOS.
+I. Acordar con la Directora o Director General sobre la atención y resolución de los asuntos de su competencia, poniendo en práctica el cumplimiento de los mismos;
 
-Rúbrica.
+II. Planear, programar, organizar, ejecutar, controlar y evaluar los programas que le sean encomendados a sus respectivas áreas, en atención a los lineamientos y políticas aplicables, así como asesorar técnicamente en los asuntos de su especialidad a los demás servidores públicos del Organismo;
 
-DIPUTADO SECRETARIO.
+III. Elaborar los anteproyectos de presupuesto relativos a las respectivas áreas a su cargo y remitirlos a la Dirección Ejecutiva de Administración, en los términos requeridos;
 
-ROGER ARELLANO SOTELO.
+IV. Atender los asuntos relacionados con la administración del personal adscrito a sus respectivas áreas, conforme a los lineamientos establecidos;
 
-Rúbrica.
+V. Proporcionar, dentro del ámbito de su competencia, la información, cooperación, opinión y dictámenes técnicos que le sean requeridos por las áreas del Organismo;
 
-DIPUTADA SECRETARIA.
+VI. Emitir opinión, dentro del ámbito de su competencia, sobre los donativos que el Organismo otorgue o reciba, con el propósito de lograr un aprovechamiento racional de los mismos;
 
-EUNICE MONZÓN GARCÍA.
+VII. Responsabilizarse de la adecuada administración de los recursos humanos, materiales y financieros de las áreas a su respectivo cargo;
 
-Rúbrica.
+VIII. Mantener permanentemente informado a la Directora o Director General de las actividades realizadas; y
 
-En cumplimiento a lo dispuesto en los artículos 90 numeral 1 y 91 fracción II de la Constitución Política del Estado Libre y Soberano de Guerrero, promulgo y ordeno la publicación, para su debida observancia, de la LEY NÚMERO 694 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, en la oficina del titular del Poder Ejecutivo Estatal, ubicada en Palacio de Gobierno en la Ciudad de Chilpancingo, Guerrero, a los diecinueve días del mes de febrero del año dos mil quince.
+IX. Las demás que les confieran, respectivamente, la Dirección General y las disposiciones legales aplicables vigentes.
 
-SUFRAGIO EFECTIVO. NO REELECCIÓN.
+### CAPÍTULO XII. DE LAS ATRIBUCIONES DE LA COMISARIA O COMISARIO
 
-EL GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE GUERRERO.
+###### ARTÍCULO 22.
 
-DR. SALVADOR ROGELIO ORTEGA MARTÍNEZ.
+El órgano de vigilancia del Sistema estará integrado por una Comisaria o Comisario Público y un suplente, designados por la Secretaría de la Contraloría General de la Ciudad de México.
 
-Rúbrica.
+###### ARTÍCULO 23.
 
-EL SECRETARIO GENERAL DE GOBIERNO.
+La Comisaria o Comisario público, asistirá con voz pero sin voto, a las sesiones ordinarias y extraordinarias de la Junta de Gobierno, pudiendo también asistir a las sesiones de comités y subcomités técnicos especializados.
 
-DR. DAVID CIENFUEGOS SALGADO.
+###### ARTÍCULO 24.
 
-Rúbrica.
+La Comisaria o Comisario Público, tendrá dentro del Organismo, las siguientes atribuciones:
 
-EL SUSCRITO SANTIAGO AGUIRRE RIVERA, DIRECTOR GENERAL DE ASUNTOS JURÍDICOS DE LA SECRETARÍA GENERAL DE GOBIERNO, CON FUNDAMENTO EN LA DISPUESTO POR EL ARTÍCULO 21 FRACCIÓN XIII DEL REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO.
+I. Evaluar el desempeño general y por funciones;
 
-H A C E C O N S T A R
+II. Verificar la eficiencia con que son ejercidos los desembolsos en los rubros de ingresos, gasto corriente e inversión;
 
-QUE LAS PRESENTES COPIAS FOTOSTÁTICAS COMPUESTAS DE VEINTIUN FOJAS ÚTILES, INCLUYENDO ESTA ÚLTIMA, DEBIDAMENTE FOLIADAS, SELLADAS Y RUBRICADAS, SON REPRODUCIDAS FIELMENTE DE SU ORIGINAL, RELATIVAS AL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUERRERO, NÚMERO 19 ALCANCE II, DE FECHA DE SEIS DE MARZO DEL AÑO DOS MIL QUINCE, MISMO QUE TUVE A LA VISTA, EL CUAL OBRA EN LOS ARCHIVOS DE LA SECRETARÍA GENERAL DE GOBIERNO.
+III. Vigilar el cumplimiento de las disposiciones legales, reglamentarias y sectoriales;
 
-SE EXTIENDE LA PRESENTE, PARA LOS EFECTOS LEGALES A QUE HAYA LUGAR, EN LA CIUDAD DE CHILPANCINGO, CAPITAL DEL ESTADO DE GUERRERO A LOS VEINTIUN DÍAS DEL MES DE ABRIL DEL AÑO DOS MIL QUINCE.- CONSTE.
+IV. Vigilar la instrumentación y funcionamiento de los sistemas de programación y presupuesto;
 
-###### Artículo 20.
+V. Vigilar el cumplimiento de las disposiciones y lineamientos relativos al sistema de control y evaluación gubernamental;
 
-Para ser comisionada o comisionado, se requiere:
+VI. Vigilar que sea observado el programa sectorial, en lo conducente, así como el cumplimiento del programa institucional;
 
-I. Ser ciudadana o ciudadano mexicano;
+VII. Promover y vigilar el establecimiento de indicadores básicos de gestión en materia de operación, productividad, financieros y de impacto social, que permitan medir y evaluar el desempeño;
 
-II. No haber sido condenado por la comisión de un delito doloso o inhabilitado como servidor público;
+VIII. Emitir opinión sobre el desempeño general con base en las autoevaluaciones del propio Organismo;
 
-IV. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en sociedad civil o académicas relacionadas con la materia de esta Ley;
+IX. Evaluar aspectos específicos y efectuar las recomendaciones procedentes;
 
-V. No haber desempeñado cargo de dirección nacional o estatal en algún partido político, dentro de los dos años previos a su designación, Y
+X. Verificar la debida integración de la Junta de Gobierno, así como su funcionamiento;
 
-VI. No haber ocupado cargo público dentro de los dos años previos a su designación, con excepción de aquellas personas cuyas funciones en el servicio público estuvieran directamente relacionadas con la atención a víctimas.
+XI. Solicitar y verificar que se incluya, en el orden del día, los asuntos que considere necesario tratar en las sesiones de la Junta de Gobierno;
 
-###### Artículo 21.
+XII. Rendir anualmente un informe sobre los estados financieros, con base en el dictamen de los auditores externos, a la Junta de Gobierno; y
 
-Para su adecuado funcionamiento, la Comisión Ejecutiva Estatal tendrá, en el ámbito de su competencia, las facultades siguientes:
+XIII. Las demás inherentes a su función, así como las que expresamente le señale la Secretaría de la Contraloría General de la Ciudad de México.
 
-I. Ejecutar y dar seguimiento a los acuerdos y resoluciones adoptados por el Sistema Nacional y el Sistema Estatal;
+###### ARTÍCULO 25.
 
-II. Proponer políticas públicas para la prevención de delitos y violaciones a derechos humanos en el ámbito estatal, así como de ayuda, atención, asistencia, protección, acceso a la justicia, a la verdad y a la reparación integral dirigido a víctimas;
+Corresponde a las o los Contralores Ciudadanos asistir a las sesiones de la Junta de Gobierno, en términos de los artículos 65 y 66 y demás relativos aplicables, de la Ley de Participación Ciudad del Distrito Federal.
 
-III. Coordinar a las instituciones competentes para la atención de víctimas del Estado, en conjunto con el Sistema Estatal, de acuerdo con los principios establecidos en la Ley General. Así como los de coordinación, concurrencia y subsidiariedad;
+Las y los Contralores Ciudadanos no tendrán suplencia.
 
-IV. Rendir un informe anual ante los Sistemas Nacional y Estatal, sobre los avances en el ámbito Estatal del Plan Anual Integral de Atención a Víctimas previsto en la Ley General de Víctimas;
+### CAPÍTULO XIII. DE LA SUPLENCIA DE LAS Y LOS SERVIDORES PÚBLICOS
 
-V. Administrar y vigilar el adecuado ejercicio del Fondo Estatal y emitir las recomendaciones pertinentes a fin de garantizar su óptimo y eficaz funcionamiento, con base en los principios de publicidad, transparencia y rendición de cuentas;
+###### ARTÍCULO 26.
 
-VI. Solicitar al órgano competente se apliquen las medidas disciplinarias y sanciones correspondientes, a los funcionarios que incumplan con lo dispuesto en la presente Ley;
+Corresponde a las y los Directores Ejecutivos, ante la ausencia de la Directora o Director General del Organismo, la atención y resolución de los asuntos conforme al ámbito de sus respectivas competencias.
 
-VII. Nombrar a los titulares del Fondo y Registro Estatal y de la Asesoría Jurídica;
+La Directora o Director General podrá nombrar una encargada o encargado de despacho para el trámite de los asuntos de su competencia en el caso de ausencia justificada.
 
-VIII. Proponer al Titular del Poder Ejecutivo el proyecto de Reglamento de la presente Ley y sus reformas y adiciones;
+###### ARTÍCULO 27.
 
-IX. Promover la coordinación interinstitucional de las dependencias, instituciones y órganos estatales, municipales, así como generar vínculos con las federales por medio de la Comisión Ejecutiva Federal;
+La ausencia de las o los Directores Ejecutivos serán suplidas por las y los servidores públicos de la jerarquía inmediata inferior, dentro del área de cada responsabilidad.
 
-X. Diseñar e implementar una plataforma informática que permita integrar, desarrollar y consolidar la información sobre las víctimas a nivel estatal a fin de orientar políticas, programas, planes y demás acciones a favor de las víctimas para la prevención del delito y de violaciones a los derechos humanos, ayuda, atención, asistencia, protección, acceso a la verdad, justicia y reparación integral con el fin de llevar a cabo el monitoreo, seguimiento y evaluación del cumplimiento de las políticas, acciones y responsabilidades establecidas en esta Ley;
+### CAPÍTULO XIV. DE LAS MODIFICACIONES AL ESTATUTO
 
-XI. Elaborar los manuales, lineamientos, programas y demás acciones, acorde a lo establecido por la normatividad de la materia en sus protocolos;
+###### ARTÍCULO 28.
 
-XII. Analizar y generar, en casos de graves violaciones a derechos humanos o delitos graves cometidos contra de un grupo de víctimas, programas integrales emergentes de ayuda, atención, asistencia, protección, acceso o justicia, a la verdad y reparación integral;
+La Junta de Gobierno del Organismo tendrá la facultad exclusiva de modificar el presente Estatuto Orgánico.
 
-XIII. Realizar un diagnóstico estatal que permita evaluar las problemáticas concretas que enfrentan las víctimas en términos de prevención del delito o de violaciones a los derechos humanos atención, asistencia, acceso a la justicia, derecho a la verdad y reparación integral del daño;
+###### ARTÍCULO 29.
 
-XIV. Generar diagnósticos específicos sobre las necesidades estatales y municipales en materia de capacitación, capital humano, y materiales que se requieran para garantizar un estándar mínimo de atención digna a las víctimas cuando requieran acciones de ayuda, apoyo, asistencia o acceso a la justicia, a la verdad y la reparación integral, de tal manera que sea disponible y efectiva. Estos diagnósticos servirán de base para la canalización o distribución de recursos y servicios de atención a víctimas;
+Será facultad de la Directora o Director General presentar a la Junta de Gobierno, para su aprobación, en su caso, las iniciativas de modificación al presente Estatuto Orgánico.
 
-XV. Promover, proteger, respetar y garantizar la labor de las organizaciones de la sociedad civil y personas defensoras de derechos humanos que atender víctimas y colectivos de víctimas en el Estado, priorizando aquellas que se encuentran en lugares de las condiciones de acceso a la ayuda, asistencia, atención y reparación integral es difícil debido a las condiciones precarias de desarrollo y marginación;
+## TRANSITORIOS
 
-XVI. Implementar los mecanismos de control, con la participación de la sociedad civil, que permitan supervisar y evaluar las acciones, programas, planes y políticas públicas en materia de víctimas;
+PRIMERO. El presente Aviso entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
-XVII. Recibir y evaluar los informes rendidos por los titulares del Fondo y del Registro Estatal y de la Asesoría Jurídica, y emitir las recomendaciones pertinentes a fin de garantizar un óptimo y eficaz funcionamiento, siguiendo los principios de publicidad y transparencia;
+SEGUNDO. Los actos a que aluden a su contenido y a la última reforma del Estatuto Orgánico, publicada el día 19 de abril de 2017, en la Gaceta Oficial de la Ciudad de México, quedan abrogados y sin efecto.
 
-XVIII. Crear y coordinar los comités especiales de atención a víctimas de delitos o violaciones de derechos humanos que requieran prevención, atención e investigación con una perspectiva integral tales como en los casos de desaparición de personas, extravío, ausencia o no localización de personas, trata de personas, tráfico de personas, violencia familiar y secuestro, a fin de que además de las acciones, propuestas, planes o programas que se deriven para un grupo de víctimas específicas, se guarde una integralidad respecto al tratamiento de las víctimas y reparación integral, con cargo a su presupuesto autorizado, y
+Ciudad de México al primer día del mes de febrero del dos mil diecinueve.
 
-XIX. Las demás que se deriven de esta Ley, y demás normatividad aplicable.
+(Firma)
 
-###### Artículo 22.
+LICDA. ESTHELA DAMIÁN PERALTA
 
-Para su adecuado funcionamiento, la Comisión Ejecutiva Estatal contará con las unidades administrativas que dispongan el Reglamento de esta Ley, debiendo contarse entre dichas unidades administrativas con al menos con una Unidad de Atención Inmediata y Primer Contacto, así como un Comité Interdisciplinario Evaluador, que cumpla con las atribuciones que contempla para su a fin federal la Ley General en su artículo 148.
+DIRECTORA GENERAL
 
-###### Artículo 23.
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-La Unidad de Atención, es el área de la Comisión Ejecutiva Estatal encargada de brindar servicios directos y de orientación para las víctimas sobre los derechos, procedimientos, servicios y mecanismos de garantía contemplados en esta Ley; dar acompañamiento, ayuda inmediata, asistencia y atención en materia psicosocial, médica y de trabajo social de emergencia; así como de articular los esfuerzos de las instituciones que forman parte del Sistema Estatal para la adopción de las medidas de ayuda inmediata contempladas en la Ley General.
+G.O. 21 DE ABRIL DE 2022.
 
-###### Artículo 24.
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DA A CONOCER LA REFORMA A SU ESTATUTO ORGÁNICO”.]
 
-La Unidad de Atención, contará con una Directora o Director General dependiente del Pleno de la Comisión Ejecutiva Estatal, y estará conformado al menos por una unidad de atención psicosocial, una de trabajo de social, una de atención médica y otra de representación de niñas, niños y adolescentes, integradas por profesionales de estas materias, especializados en la atención a víctimas.
+PRIMERO.- La reforma al Estatuto entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
 
-De igual modo, la Unidad de Atención coordinará los trabajos de los módulos de enlace integrados por el personal que para el efecto asignen las siguientes instituciones integrantes del Sistema Estatal, sin menoscabo que pueda incluirse con posterioridad a otras instituciones que lo ameriten:
+SEGUNDO.- El Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia de la Ciudad de México con la reforma correspondiente, podrá ser consultado en la dirección electrónica https://www.dif.cdmx.gob.mx/dependencia/marco-normativo, apartado Marco Normativo del portal electrónico del DIF Ciudad de México.
 
-I. La Fiscalía General del Estado;
-
-II. La Secretaría de Seguridad Pública;
-
-III. La Secretaría de Educación-Guerrero;
-
-IV. La Secretaría de Salud;
-
-V. La secretaría de la Mujer:
-
-VI. El Sistema Estatal para el Desarrollo Integral de la familia, y
-
-VII. La Comisión de los Derechos Humanos.
-
-En el desempeño de sus funciones en el marco de la Unidad de Atención, el personal de las instituciones asignadas, estarán bajo el mando técnico y operativo de dicha Unidad de Atención.
-
-###### Artículo 25.
-
-Serán atribuciones de la Unidad de Atención, las siguientes:
-
-I. Diseñar y ejecutar las rutas especializadas, integrales e individualizadas de atención y acompañamiento a víctimas;
-
-II. Brindar atención y asistencia a víctimas en las áreas de psicología, psiquiatría, asesoría jurídica, protección, alojamiento, alimentación, gastos funerarios de emergencia, transporte y atención médica urgente;
-
-III. Gestionar, en los casos que el tipo de atención médica, psicológica o de cualquier otra índole que sea requerida por la víctima sea especializada y las instituciones locales no cuenten con ella, que dicho tratamiento médico se otorgue a la víctima en otras instituciones que cuenten con la especialidad;
-
-IV. Tramitar las medidas de protección a que hubiere lugar ante las autoridades competentes;
-
-V. Canalizar a la víctima a las instituciones de Salud Pública obligadas por esta Ley una vez se logre la estabilización de la víctima tras la emergencia;
-
-VI. Coordinar con la institución de salud que esté a cargo de la atención de la víctima en una o varias especialidades, para que rinda informes periódicos al Juez de Control y a sus familiares, en el que se dé a conocer el avance de la recuperación, y
-
-VII. Establecer las causales para traslado inmediato de víctimas en caso de riesgo o urgencia, y realizar el traslado correspondiente, en los términos de los artículos 31 y 39 de la Ley General.
-
-###### Artículo 26.
-
-Los servicios médicos, psicológicos y de trabajo social que brinde la Unidad de Atención no sustituirán a los que están obligados a prestar a las víctimas las instituciones señaladas en esta Ley y la Ley General, sino que tendrán una función complementaria, que habrá de privilegiar la atención de emergencias.
-
-Los servicios que se brindarán en la Unidad de Atención y sus unidades municipales serán las siguientes:
-
-I. En materia de ayuda, asistencia y atención médica:
-
-a. Diagnóstico de emergencia;
-
-b. Dotación y aplicación de material médico-quirúrgico, de osteosíntesis, prótesis y órtesis;
-
-c. Dotación de medicamentos;
-
-d. Servicios de apoyo tales como banco de sangre, laboratorios, imágenes diagnósticas, y
-
-e. Transporte de emergencia para hospitalización.
-
-II. En materia de ayuda asistencia y atención psicológica y psiquiátrica:
-
-a. Atención psicológica o psiquiátrica de emergencia;
-
-b. Terapia individual o grupal;
-
-c. Acompañamiento psicosocial durante procesos administrativos o judiciales;
-
-III. En materia de ayuda, asistencia y atención por parte de trabajadoras o trabajadores sociales:
-
-a. Orientación a víctimas para diseñar y desarrollar en conjunto estrategias de atención personalizadas, apoyando a las víctimas en la gestión y canalización a las instituciones competentes para cada una de sus necesidades y requerimientos, incluyendo la orientación para ingresar al Registro Estatal, recibir la atención de la Asesoría Jurídica, o ser atendida por cualquiera otra institución obligada por esta ley;
-
-b. Gestión ante la Comisión Ejecutiva de las medidas de ayuda inmediata y asistencia en materia económica, protección, traslado de emergencia, alojamiento temporal en los albergues para víctimas, ayuda en materia de gastos funerarios de emergencia medidas educativas y las demás que requieran las víctimas en los términos de esta Ley, y
-
-c. Acompañamiento a las víctimas en procesos de reintegración social.
-
-###### Artículo 27.
-
-La Unidad de Atención Inmediata y Primer Contacto contará con la infraestructura que sea necesaria para garantizar el trato digno y la mayor comodidad y seguridad de las víctimas, así como prevenir la victimización secundaria, para lo cual deberá estar habilitado con todos los servicios, instrumentos, herramientas y equipamiento necesarios, en caso de que la víctima requiera atención que la Unidad de Atención Inmediata y Primer Contacto no se encuentre en posibilidad de brindarle, se canalizará a la institución competente en los términos que determine el Reglamento.
-
-###### Artículo 28.
-
-La Comisión Ejecutiva Estatal emitirá los lineamientos y protocolos que estime pertinentes para la conformación, garantía de capacidad institucional y atribuciones de la Unidad de Atención. Su estructura, operación, funcionamiento, atribuciones y facultades se establecerán en el Reglamento de esta ley.
-
-###### Artículo 29.
-
-El Comité Interdisciplinario Evaluado, es el área de la Comisión Ejecutiva Estatal encargada de emitir opiniones técnicas sobre la inscripción de las solicitudes de las víctimas al Registro Estatal y elaborar los proyectos de compensación subsidiaria para que sean aprobados, en su caso, por la Comisión Ejecutiva.
-
-###### Artículo 30.
-
-Son atribuciones del Comité Interdisciplinario Evaluador:
-
-I. Solicitar el esclarecimiento de aspectos dudosos en las solicitudes de inscripción de víctimas al Registro Estatal;
-
-II. Solicitar información complementaria a las instituciones del Sistema Estatal sobre las características del hecho victimizante a efecto de integrar de manera completa la información que se incorporará al Registro Estatal;
-
-III. Elaborar los dictámenes de ingreso al Registro Estatal y emitir las constancias respectivas;
-
-IV. Elaborar los dictámenes de negativa de ingreso al Registro Estatal y, en su caso, los de cancelación del mismo, así como emitir las constancias respectivas, y
-
-V. Analizar la información de las declaraciones, solicitud de inscripción y el expediente de la víctima respecto del hecho victimizante, y remitirla a los titulares de la Asesoría Jurídica y el Registro para que adopten las acciones conducentes por cuanto a medidas de apoyo y reparación integral.
+TERCERO.- La Dirección Ejecutiva de Administración y Finanzas en el DIF Ciudad de México, realizará las adecuaciones y gestiones ante la Secretaría de Administración y Finanzas para la modificación del Manual Administrativo del Organismo; así como las unidades administrativas harán lo correspondiente con los demás ordenamientos que sean necesarios para el adecuado desarrollo de sus funciones.
