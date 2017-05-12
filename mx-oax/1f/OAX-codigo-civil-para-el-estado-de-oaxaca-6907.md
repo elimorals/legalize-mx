@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2017-04-17"
+last_updated: "2017-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE OAXACA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -433,11 +435,11 @@ Se hará referencia de las anotaciones que modifiquen el estado civil de las per
 
 Los actos y actas del estado civil del propio Oficial, de su cónyuge, ascendientes y descendientes de cualquiera de ellos, no podrán autorizarse por el mismo Oficial. Se asentarán en las formas correspondientes autorizadas por el sustituto legal.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 61.
 
-En los Municipios en los que no exista Oficial del Registro Civil, los Presidentes Municipales auxiliarán a los Oficiales de Registro Civil a cuya jurisdicción pertenezcan en el registro de Nacimientos y Defunciones, sujetándose a las disposiciones de la presente Ley y su Reglamento.
+En los Municipios en los que no exista Oficial del Registro Civil, los Presidentes Municipales auxiliarán a los Oficiales de Registro Civil a cuya jurisdicción pertenezcan en el registro de Nacimientos, Defunciones y en la recepción de solicitudes de divorcios administrativos, sujetándose a las disposiciones de la presente Ley y su Reglamento.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -445,11 +447,15 @@ En los Municipios en los que no exista Oficial del Registro Civil, los President
 
 Los Presidentes Municipales podrán celebrar matrimonios y certificar reconocimientos de hijos, cuando sean autorizados por escrito por el Oficial del Registro Civil a cuya jurisdicción pertenezca la Municipalidad de que se trate.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+En el caso del divorcio administrativo, los Presidentes Municipales, están facultados para recibir la solicitud de aquellos cónyuges, que pretendan divorciarse mediante dicha figura, remitiéndola al Oficial del Registro Civil que corresponda en un término de dos días con independencia de que quieran hacerlo directamente en la Oficialía correspondiente.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 63.
 
-Los interesados en los actos a que se refiere el artículo anterior, deberán dirigir solicitud escrita al Oficial del Registro Civil de cuya jurisdicción se trate, expresando y justificando el motivo por el cual se solicita la autorización para celebrar estos actos. Los Oficiales del Registro Civil pueden conceder discrecionalmente el permiso para la celebración, cuando encuentren justificada la causa, y le remitirán el formato correspondiente.
+Para el trámite de los actos a que se refiere el artículo anterior, los interesados; deberán dirigir su solicitud escrita al Oficial del Registro Civil de cuya jurisdicción se trate, expresando y justificando el motivo por el cual se solicita la autorización para celebrar estos actos. Los oficiales le remitirán el formato correspondiente.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -767,7 +773,9 @@ V. El convenio que los pretendientes celebren con relación a sus bienes present
 
 Si de acuerdo con lo dispuesto en el artículo 200 fuera necesario que las capitulaciones matrimoniales consten en escritura pública será acompañado del testimonio de esa escritura;
 
-VI. Copia certificada del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia definitiva de divorcio, o de nulidad del Matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2017)</small>
+
+VI. Copia certificada del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, o de nulidad de matrimonio, y de la copia certificada del acta de divorcio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente.
 
 VII. Copia certificada de la dispensa de impedimento, si lo hubo.
 
@@ -915,11 +923,41 @@ La sentencia ejecutoria que decrete el divorcio, se remitirá en copia certifica
 
 Una vez declarado el divorcio administrativo, el Oficial del Registro Civil, hará la anotación marginal correspondiente en el acta de matrimonio; cuando el divorcio administrativo de (sic) efectúe en Oficialía distinta a la que contrajo el matrimonio, el Oficial que decrete el divorcio administrativo, remitirá copia de la resolución de divorcio administrativo al Oficial donde se registró el matrimonio para que efectúe la anotación correspondiente.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+Asimismo, para el caso de que la disolución matrimonial se haya obtenido mediante divorcio administrativo, el oficial del registro civil que lo haya concedido, deberá anexarla al apéndice correspondiente; además de que deberá dar aviso a la dirección del registro civil del estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 117.
 
-El acta de divorcio expresará el nombre, apellido, edad, ocupación, domicilio, lugar de nacimiento y nacionalidad de los divorciados, la fecha y lugar en que se celebró el matrimonio y la parte resolutiva de la sentencia que haya decretado el divorcio.
+El acta de divorcio expresará lo siguiente:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2017)</small>
+
+I. Tratándose de divorcios decretados mediante sentencia judicial, expresará el nombre, apellido, edad, ocupación, domicilio, lugar de nacimiento y nacionalidad de los divorciados, la fecha y lugar en que se celebró el matrimonio y la parte resolutiva de la sentencia que haya decretado el divorcio.
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2017)</small>
+
+II. Tratándose de divorcio administrativo el acta expresará:
+
+a) Fecha de la solicitud.
+
+b) Lugar y fecha en que se efectuó el matrimonio que mediante esta vía se disuelve.
+
+c) Expresión bajo protesta de decir verdad de que no existen hijos en el matrimonio.
+
+d) Para el caso de tener hijos, acreditar que son mayores de edad y no son acreedores alimentarios.
+
+e) Acreditar que la cónyuge no está embarazada.
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2017)</small>
+
+III. Con independencia de los datos señalados en la fracción anterior, en el divorcio entre una persona mexicana con una extranjera, deberán expresar:
+
+a) Número de Identificación oficial del extranjero interesado expedido por la Secretaría de Gobernación, o bien, número de certificado de su legal estancia en el país, expedido por la Secretaría de Relaciones Exteriores.
+
+b) Manifestación de la calidad migratoria que les permite realizar el divorcio administrativo.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -927,11 +965,11 @@ El acta de divorcio expresará el nombre, apellido, edad, ocupación, domicilio,
 
 Extendida el acta se anotarán las de nacimiento y matrimonio de los divorciados, y la copia de la sentencia mencionada servirá para formar el apéndice correspondiente conforme a las disposiciones de este Código.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 119.
 
-Cuando el nacimiento o matrimonio de los divorciados se haya inscrito en lugar distinto de aquél en que se siguió el divorcio y se pronunció la sentencia, el Oficial del Registro Civil a quien se comunique la ejecutoria remitirá copia del acta que levante y de la sentencia al Oficial del Registro Civil que corresponda para que haga las anotaciones del caso.
+Cuando el nacimiento o matrimonio de los divorciados se haya inscrito en lugar distinto de aquél en que se tramitó el juicio o siguió el divorcio administrativo, remitirá la sentencia o en su caso la copia del acta que decrete el divorcio, al Oficial del Registro Civil correspondiente para que haga las anotaciones del caso.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -1092,6 +1130,10 @@ El juicio de rectificación o modificación de acta se seguirá en la forma que 
 ###### Artículo 140.
 
 La sentencia que cause ejecutoria se comunicará al Oficial del Registro Civil y éste hará una referencia de ella al margen del acta impugnada, observando además las disposiciones contenidas en la respectiva ejecutoria, sea que ésta conceda o niegue la rectificación.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+De igual forma se hará cuando la disolución matrimonial se haya obtenido mediante el divorcio administrativo, remitiendo copia de la misma al Archivo Central del Registro Civil y solo en el supuesto del artículo 119 se hará del conocimiento del oficial del registro civil correspondiente.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -1401,9 +1443,15 @@ I.- Si el socio administrador, por su notoria negligencia o torpe administració
 
 II.- Cuando el socio administrador hace cesión de bienes a sus acreedores o es declarado en quiebra.
 
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
 ###### Artículo 184.
 
-El abandono injustificado del domicilio conyugal por uno de los cónyuges, por más de seis meses, hace cesar para él, desde el día del abandono, los efectos de la sociedad conyugal en cuanto le favorezcan; éstos no podrán comenzar de nuevo sino por convenio expreso.
+El abandono injustificado del domicilio conyugal por uno de los cónyuges, por más de seis meses produce, en relación al matrimonio los siguientes efectos:
+
+I. Hace cesar para él, desde el día del abandono, los efectos de la sociedad conyugal en cuanto le favorezcan; estos no podrán comenzar de nuevo sino por convenio expreso.
+
+II. Es causa suficiente para decretar el divorcio administrativo, sin necesidad de la presentación del convenio a que hacen referencia los artículos 117 fracción II inciso a, numeral seis y 117 bis inciso a, numeral 10, del presente ordenamiento, siempre y cuando el cónyuge interesado, lo solicite a la instancia correspondiente y demuestre fehacientemente dicho abandono.
 
 ###### Artículo 185.
 
@@ -1735,6 +1783,8 @@ Estas donaciones no se anularán por la supervivencia de hijos, pero se reducir�
 
 ### CAPITULO X. Del divorcio
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+
 ###### Artículo 248.
 
 Son causas de nulidad de un matrimonio:
@@ -1853,11 +1903,11 @@ Si la demanda de nulidad fue entablada por uno solo de los cónyuges, desde lueg
 
 ###### Artículo 271.
 
-Luego que la sentencia sobre nulidad cause ejecutoria, los hijos varones mayores de cinco años quedarán al cuidado del padre; y las hijas al cuidado de la madre, si de parte de ambos cónyuges hubiere habido buena fe.
+(DEROGADO, P.O. 12 DE MAYO DE 2017)
 
 ###### Artículo 272.
 
-Si uno solo de los cónyuges ha procedido de buena fe, quedarán todos los hijos bajo su cuidado, pero siempre, y aun tratándose de divorcio, los hijos e hijas menores de cinco años se mantendrán al cuidado de la madre hasta que cumplan esa edad a menos que la madre se dedicare a la prostitución, al lenocinio, hubiere contraído hábitos de embriaguez, tuviere alguna enfermedad contagiosa o por su conducta ofreciere peligro grave para la salud o la moralidad de los hijos.
+(DEROGADO, P.O. 12 DE MAYO DE 2017)
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 1971)</small>
 
@@ -1899,81 +1949,93 @@ Los que infrinjan el artículo anterior así como los que siendo mayores de edad
 
 ###### Artículo 278.
 
-El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
+El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. El divorcio se clasifica en incausado, mutuo consentimiento y administrativo.
+
+El divorcio incausado, podrá solicitarse por cualquiera de los cónyuges ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita, siempre que haya transcurrido cuando menos un año desde la celebración del mismo.
+
+No es necesario el transcurso del plazo a que se refiere el párrafo anterior, siempre que se acredite la existencia de un riesgo para la vida, la integridad física o moral, la dignidad, la libertad o el libre desarrollo de la sexualidad de los cónyuges o de los hijos.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 279.
 
-Son causas de divorcio:
+El cónyuge, que pretenda divorciarse; estará obligado a presentar al Juzgado la propuesta de convenio en que se fijen los siguientes puntos:
 
-I. El adulterio de uno de los cónyuges;
+I. La designación de la persona o personas, que tendrán la guarda y custodia de los hijos del matrimonio, menores de edad o incapaces.
 
-> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 1998)</small>
+II. Las modalidades bajo las cuales se ejercerá el derecho de visita, con el progenitor que no tenga la custodia, así mismo se especificará la casa en que habitarán los hijos.
 
-II. El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse este contrato y que judicialmente sea declarado que no es hijo de su cónyuge;
+III. El modo de subvenir a las necesidades de los hijos y en su caso, del cónyuge a quien deba darse alimentos, tanto durante el procedimiento como después de decretarse el divorcio, así como las medidas correspondientes en caso de que la mujer se encuentre en cinta (sic). Deberá precisarse la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
 
-III. La propuesta del marido para prostituir a su mujer, no sólo cuando el mismo marido lo haya hecho directamente, sino cuando se pruebe que ha recibido dinero o cualquiera remuneración, con el objeto expreso de permitir que otro tenga relaciones carnales con su mujer;
+IV. Designación del cónyuge que hará uso del domicilio conyugal y del menaje, o en su caso el domicilio en que vivirá cada uno de los cónyuges en caso de no existir domicilio conyugal;
 
-IV. La incitación o la violencia hecha por un cónyuge al otro para cometer algún delito, aunque no sea de incontinencia carnal;
+V. El nombramiento del administrador de los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma y bases de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avalúo de todos los bienes muebles e inmuebles de la sociedad conyugal y el proyecto de partición.
 
-V. Los actos inmorales efectuados por el marido o por la mujer con el fin de corromper a los hijos, ya sean de ambos o bien de uno solo de ellos, así como la tolerancia de su corrupción;
+VI. En caso de que el matrimonio esté sujeto al régimen de separación de bienes, deberá señalarse la compensación, que no podrá ser superior al cincuenta por ciento del valor de los bienes adquiridos dentro del matrimonio, para el cónyuge que carezca de bienes o que durante el matrimonio haya realizado cotidianamente trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o al cuidado de la familia, o que esté imposibilitado para trabajar.
 
-VI. Padecer sífilis, tuberculosis, o cualquiera otra enfermedad crónica o incurable que sea, además, contagiosa o hereditaria; y la impotencia incurable que sobrevenga después de celebrado el matrimonio.
-
-VII. Padecer enajenación mental incurable;
-
-VIII. La separación de la casa conyugal por más de seis meses sin causa justificada;
-
-IX. La separación del hogar conyugal originada por una causa que sea bastante para pedir el divorcio, si se prolonga más de un año sin que el cónyuge que se separe entable la demanda de divorcio;
-
-X. La declaración de ausencia legalmente hecha, o la de presunción de muerte, en los casos de excepción en que no se necesita, para que se haga ésta, que preceda la declaración de ausencia;
-
-XI. La sevicia, las amenazas, o las injurias graves de un cónyuge para el otro;
-
-XII. La negativa de los cónyuges de darse alimentos de acuerdo con lo previsto en el artículo 163, siempre que no puedan hacer efectivos los derechos que conceden los artículos 164 y 165;
-
-XIII. La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
-
-XIV. Haber cometido uno de los cónyuges un delito que no sea político, pero que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
-
-XV. Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE ABRIL DE 2008)</small>
-
-XVI. El mutuo consentimiento;
-
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
-
-XVII. Las conductas de violencia familiar.
-
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
-
-XVIII. El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a eliminar los actos de violencia familiar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello; y
-
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2008)</small>
-
-XIX. La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 280.
 
-Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o que haya resultado insuficiente, el demandado tiene a su vez el derecho de pedir el divorcio; pero no podrá hacerlo sino pasados tres meses de la notificación de la última sentencia. Durante estos tres meses, los cónyuges no están obligados a vivir juntos.
+Los jueces de lo familiar están obligados a suplir la deficiencia de las partes en el convenio propuesto.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 281.
 
-Cualquiera de los esposos puede pedir el divorcio por el adulterio de su cónyuge. Esta acción dura seis meses, contados desde que se tuvo conocimiento del adulterio.
+La reconciliación de los cónyuges pone término al procedimiento de divorcio en cualquier estado en que se encuentre. Para tal efecto los interesados deberán comunicar su reconciliación a el Juez de lo Familiar.
 
-REFORMADO, P.O. 7 DE FEBRERO DE 1998)
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 282.
 
-Para que la tolerancia en la corrupción de los hijos sea causa de divorcio debe consistir en actos positivos o en omisiones, siempre que en éste último caso se demuestre que hubo un descuido grave o reiterado o una omisión dolosa.
+El cónyuge que no quiera pedir el divorcio, podrá solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, cuando éste se encuentre en alguno de los siguientes casos:
+
+I. Padezca cualquier enfermedad incurable que sea, además, contagiosa o hereditaria;
+
+II. Padezca impotencia sexual irreversible, siempre y cuando no tenga su origen en la edad avanzada; o
+
+III. Padezca trastorno mental incurable, previa declaración de interdicción que se haga respecto del cónyuge enfermo;
+
+En estos casos, el Juez, con conocimiento de causa, podrá decretar esa suspensión, quedando subsistentes las demás obligaciones creadas por el matrimonio.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 283.
 
-Para que pueda pedirse el divorcio por causa de enajenación mental que se considere incurable, es necesario qu (sic) hayan transcurrido dos años desde que comenzó a padecerse la enfermedad.
+Las acciones y pretensiones derivadas del matrimonio relativas a la situación de hijos menores de edad o incapaces, al derecho de alimentos o al régimen patrimonial adoptado en el matrimonio, que sean consecuencia de la disolución del vínculo, se resolverán en el mismo procedimiento de divorcio.
 
 ###### Artículo 284.
 
 El divorcio por mutuo consentimiento se obtendrá ocurriendo ante el juez competente en los términos que ordene el Código de Procedimientos Civiles.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+###### Artículo 284 Bis.
+
+Al admitirse la demanda de divorcio, o antes si hubiere urgencia, y solo mientras dure el juicio, se dictarán las medidas provisionales pertinentes, conforme a las disposiciones siguientes:
+
+I. Separar a los cónyuges. Para este efecto el juzgador verificará que el uso de la vivienda familiar sea designado al cónyuge que vaya a ejercer la guarda y custodia de los hijos, salvo que a solicitud de éste optará por la separación del domicilio conyugal; informando al Juez el nuevo lugar de residencia;
+
+II. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges pudiendo ser uno de éstos o bien, el régimen de custodia compartida.
+
+El otorgamiento de la guarda y custodia de menores de edad no estará sustentado en prejuicios de género, por lo cual deberá atenderse al interés superior de la niñez;
+
+III. Establecer las modalidades del derecho de visita o convivencia de las personas menores de dieciocho años o incapaces con el progenitor que no los tenga en custodia, en caso de disensión, el Juzgador resolverá lo conducente tomando siempre en cuenta las circunstancias personales, la opinión de niñas, niños y adolescentes conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
+
+IV. Señalar y asegurar los alimentos que debe dar el cónyuge obligado al cónyuge acreedor y a los hijos.
+
+V. Dictar, en su caso, las medidas precautorias que la ley establece respecto de la mujer que quede encinta;
+
+VI. Dictar las medidas necesarias para que los cónyuges no se causen daños o perjuicios en sus personas ni en sus bienes, ni en los de la sociedad conyugal; bienes o derechos de sus hijos;
+
+VII. Ordenar, cuando existan bienes que puedan pertenecer a ambos cónyuges, la anotación preventiva de la demanda en el Registro Público de la Propiedad y del Comercio del Estado y de aquellos lugares en que se conozca que tienen bienes;
+
+VIII. Revocar o suspender los mandatos que entre los cónyuges se hubieran otorgado, con las excepciones que marca el artículo 2476 de este Código;
+
+IX. Separar al cónyuge agresor del domicilio conyugal, así como prohibirle acudir a dicho domicilio, al lugar de trabajo, donde estudien y/o lugar determinado donde se encuentren los agraviados. Siempre que la gravedad del caso así lo requiera el juzgador podrá prohibir al cónyuge agresor, que se acerque, intimide o moleste a los agraviados en su entorno social, así como a las personas integrantes de su familia, escuchando previamente a éstos; y, dictar las medidas necesarias a fin de evitar actos de violencia familiar; y
+
+X. Las demás que considere necesarias.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 1998)</small>
 
@@ -1995,6 +2057,36 @@ IV. La cantidad que a título de alimentos el cónyuge debe pagar al otro durant
 
 V. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio así como la designación de liquidadores, cuando se haya celebrado el matrimonio bajo el régimen de sociedad conyugal. A este efecto, se acompañará un inventario y avalúo de todos los bienes muebles e inmuebles de la sociedad.
 
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+###### Artículo 285 Bis.
+
+Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, el juzgador podrá acordar, de manera provisional, a petición de los ascendientes, parientes colaterales o de los propios menores de edad, cualquier medida que se considere benéfica para éstos últimos.
+
+El juzgador podrá modificar esta decisión si las circunstancias en que la tomó varían y se demuestra que la modificación es en interés de las personas menores de dieciocho años.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+###### Artículo 285 Ter.
+
+En el divorcio tendrá derecho a los alimentos el que lo necesite, y su monto se fijará de acuerdo a las circunstancias siguientes:
+
+I. La edad y el estado de salud de los cónyuges;
+
+II. Su grado de estudios y posibilidad de acceso a un empleo;
+
+III. Medios económicos de uno y de otro cónyuge, así como de sus necesidades;
+
+IV. Otras obligaciones que tenga el cónyuge deudor; y
+
+V. Las demás que el juzgador estime necesarias y pertinentes.
+
+En todos los casos, el cónyuge que carezca de bienes o que durante el matrimonio haya realizado cotidianamente trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o al cuidado de la familia, o que esté imposibilitado para trabajar, tendrá derecho a alimentos, sin menoscabo de la repartición equitativa de bienes.
+
+La obligación de dar alimentos cesará, si el acreedor alimentario contrae nuevas nupcias o hace vida en común con otra persona como su pareja.
+
+En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad.
+
 ###### Artículo 286.
 
 El divorcio por mutuo consentimiento no puede pedirse sino pasado un año de la celebración del matrimonio.
@@ -2013,131 +2105,145 @@ El divorcio así obtenido no surtirá efectos legales, si se comprueba que los c
 
 Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden solicitar su divorcio por mutuo consentimiento ocurriendo al Juez competente en los términos que ordena el Código de Procedimientos Civiles.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+
 ###### Artículo 287.
 
-Mientras que se decreta el divorcio, el juez autorizará la separación de los cónyuges de una manera provisional y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes haya obligación de dar alimentos.
+La sentencia de divorcio fijará la situación de los hijos, para lo cual, el Juzgador gozarán (sic) de las más amplias facultades para resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad y en especial a la custodia y cuidado de las personas menores de dieciocho años, así como las obligaciones de crianza y el derecho de los hijos de convivir con ambos progenitores, debiendo obtener los elementos de juicio para ello; oír y considerar la opinión de niñas, niños y adolescentes, atendiendo a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+
+Asimismo, podrá dictar todas las medidas necesarias para proteger a los hijos de actos de violencia familiar o cualquier otra circunstancia que afecte el desarrollo superior del menor. De igual forma, para el caso de mayores de dieciocho años incapaces, sujetos a la tutela de alguno de los excónyuges.
+
+Para el caso de los mayores incapaces sujetos a tutela de alguno de los excónyuges, se deberán establecer las medidas a que se refiere este artículo para su protección. Así también fijará lo relativo a la división de los bienes y tomará las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a sus hijas e hijos.
+
+En caso de desacuerdo, el juzgador habrá de resolver sobre la procedencia de la compensación que prevé el artículo 279 fracción VI, del presente Código, atendiendo a las circunstancias especiales de cada caso.
+
+De igual manera el juzgador fijará las medidas de seguridad, seguimiento y las psicoterapias necesarias para corregir los actos de violencia familiar, en términos de la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género. Medidas que podrán ser suspendidas o modificadas.
+
+En los casos en que cualquiera de los progenitores pierda la patria potestad queda sujetos (sic) a todas las obligaciones que tiene para con sus hijos.
 
 ###### Artículo 288.
 
 Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decreto. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año después de su reconciliación.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+
 ###### Artículo 289.
 
-El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 279 podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el juez, con conocimiento de causa podrá decretar esa suspensión, quedando subsistentes las demás obligaciones creadas por el matrimonio.
+Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y, en su caso, a la liquidación de la sociedad conyugal; se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges, o en relación a los hijos. Los divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a la subsistencia y educación de los hijos hasta que lleguen a la mayoría de edad.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 290.
 
-El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él y dentro de los seis meses siguientes al día en que haya llegado a su noticia los hechos en que funde la demanda. Se exceptúan las causas a que se refieren las fracciones VI, VII, XII y XV del artículo 279, que podrán alegarse en cualquier tiempo como causa de divorcio.
+El cónyuge que estime haber sufrido daño moral o afectación en los derechos de la personalidad con motivo y por el tiempo que estuvo unido en matrimonio, podrá ejercer la acción prevista en el artículo 1787 de este Código, en contra de quien fue su cónyuge.
+
+Se presumirá el daño moral y, por tanto, habrá lugar a la indemnización, además de los casos previstos en el párrafo segundo del artículo de referencia, cuando un cónyuge:
+
+I. Cometa delito doloso que merezca pena corporal en perjuicio del otro cónyuge o de sus hijos menores de edad o incapaces;
+
+II. Ejerza violencia o intimidación en el seno del hogar común; y
+
+III. Oculte deliberadamente padecer sífilis, síndrome de inmunodeficiencia adquirida, tuberculosis, enfermedad crónica e incurable que sea, además, contagiosa y hereditaria.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 291.
 
-Ninguna de las causas enumeradas en el artículo 279 puede alegarse para pedir el divorcio, cuando haya mediado perdón expreso. Se exceptúan las marcadas con los números VI y VII del propio artículo 279.
+Procede el divorcio administrativo cuando ambos consortes convengan en divorciarse de mutuo acuerdo, no tengan descendientes, y si los hubiere, sean mayores de dieciocho años, y que la mujer no esté embarazada.
+
+I. Los requisitos para la procedencia del divorcio administrativo son los siguientes:
+
+a) Solicitud por escrito;
+
+b) Copia certificada del acta de matrimonio de reciente expedición de no más de seis meses anteriores a la fecha de la solicitud;
+
+c) Declaración por escrito, bajo protesta de decir verdad, de no haber procreado hijos durante el matrimonio;
+
+d) Para el caso de tener hijos, deberá acreditar que son mayores de edad y no son acreedores alimentarios;
+
+e) Acreditar que la cónyuge no está embarazada;
+
+f) Comprobante de domicilio declarado por los cónyuges;
+
+g) En caso de haber contraído matrimonio bajo el régimen de sociedad conyugal legal, convenio de liquidación de la sociedad conyugal legal;
+
+h) Identificación oficial; y
+
+i) Ratificar la solicitud por comparecencia dentro de un término de dos días posteriores a la fecha de presentación de la misma.
+
+II. Con independencia de los requisitos referidos en la fracción anterior, las personas extranjeras deberán cumplir con la siguiente documentación.
+
+a) Para el caso de que el divorcio lo soliciten mediante mandatario, por encontrarse fuera del país, acreditar la personalidad del mismo;
+
+b) Identificación oficial de los interesados;
+
+c) Demostrar que sus condiciones y calidad migratoria les permite realizar el divorcio administrativo; y
+
+d) Presentar certificación de su legal estancia en el país, debidamente expedida por la secretaria de relaciones exteriores.
+
+Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden solicitar el divorcio incausado ocurriendo a la o el Juez competente en los términos que ordena el Código de Procedimientos Civiles.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 292.
 
-La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre, si no hubiere sentencia ejecutoria. En este caso los interesados deberán denunciar su reconciliación al juez, sin que la misión de esta denuncia destruya los efectos producidos por la reconciliación.
+En virtud del divorcio los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 293.
 
-El cónyuge que no haya dado causa al divorcio, puede, antes de que se pronuncie la sentencia que ponga fin al litigio, prescindir de sus derechos y obligar al otro a reunirse con él; mas, en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
+La muerte de uno de los cónyuges pone fin al juicio de divorcio y los herederos del extinto tienen los mismos derechos y obligaciones que tendrían si no hubiera existido dicho juicio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 294.
 
-Al admitirse la demanda de divorcio, o antes si hubiere urgencia, y solo mientras dure el juicio, se dictarán las medidas provisionales pertinentes, conforme a las disposiciones siguientes:
-
-I. Separar a los cónyuges en todo caso;
-
-> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 1998)</small>
-
-II. Establecerá las modalidades del derecho de visita o convivencia de los menores o incapaces con el progenitor que no los tenga en custodia, en caso de discenso (sic), el Juez resolverá lo conducente teniendo presente el interés superior de los hijos;
-
-III. Señalar y asegurar los alimentos que debe dar el cónyuge obligado al cónyuge acreedor y a los hijos;
-
-> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 1998)</small>
-
-IV. Dictar las medidas necesarias para que los cónyuges no se causen daños o perjuicios en sus personas ni en sus bienes, ni en las personas, bienes o derechos de los hijos;
-
-V. Dictar, en su caso, las medidas precautorias que la ley establece respecto de la mujer que quede encinta;
-
-VI. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deban quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente;
-
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
-
-VII. Separar al cónyuge agresor del domicilio familiar y la prohibición de acudir a dicho domicilio; prohibir al cónyuge agresor a ir a lugar determinado; tales como el lugar donde habitan, trabajan o estudian los agraviados. Siempre que la gravedad del caso así lo requiera el Juez podrá prohibir al cónyuge agresor, que se acerque a los agraviados, escuchando previamente a éstos. Así como las medidas necesarias para evitar actos de violencia familiar.
-
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
-
-En todo caso, el Juez atenderá al interés superior de los menores y, si fuere necesario, los escuchará respecto de las medidas que piensa tomar.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+Ejecutoriada la sentencia de divorcio el Juez de Primera Instancia remitirá copia de ella al Oficial del Registro Civil, ante quien se celebró el matrimonio, para que levante el acta correspondiente y haga las anotaciones respectivas y, además, para que publique el extracto de la resolución durante quince días en las tablas destinadas al efecto.
 
 ###### Artículo 295.
 
-La sentencia de divorcio fijará la situación de los hijos, para lo cual el Juez gozará de las facultades que le concede este Código y en especial, la referida en el último párrafo del artículo que antecede, para resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, así como la custodia y el cuidado de los hijos, debiendo evaluar pormenorizadamente todos los elementos de juicio a su alcance y razonando debidamente su determinación. También llamará al ejercicio de la patria potestad a quien legalmente tenga derecho a ello, o cuando proceda, designar tutor, de acuerdo con las disposiciones correspondientes.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE SEPTIEMBRE DE 2001)</small>
-
-I. Cuando la causa de divorcio estuviere comprendida en las fracciones I, II, III, IV, V, VIII, XIV, XV, XVII y XVIII del artículo 279, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere se nombrará tutor.
-
-II. (DEROGADA, P.O. 20 DE ABRIL DE 2001)
-
-III. (DEROGADA, P.O. 20 DE ABRIL DE 2001)
-
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2001)</small>
-
-En cuanto a las modalidades del derecho de visita serán acordadas por ambos progenitores y en caso de desacuerdo, será el Juez quien resuelva discrecionalmente tales modalidades, en ejecución de sentencia, con audiencia tanto de la madre como del padre.
-
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 12 DE MAYO DE 2017)
 
 ###### Artículo 296.
 
-Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos y de las hijas, el Juez podrá acordar, de manera provisional, a petición de los ascendientes, parientes colaterales o de los propios menores, cualquier medida que se considere benéfica para éstos últimos.
-
-El Juez podrá modificar esta decisión si las circunstancias en que la tomó varían y se demuestra que la modificación es en interés de los menores.
+(DEROGADO, P.O. 12 DE MAYO DE 2017)
 
 ###### Artículo 297.
 
-El padre y la madre, aunque pierdan la patria potestad quedan sujetos a todas las obligaciones que tienen para con sus hijos.
+(DEROGADO, P.O. 12 DE MAYO DE 2017)
 
 ###### Artículo 298.
 
-El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+(DEROGADO, P.O. 12 DE MAYO DE 2017)
 
 ###### Artículo 299.
 
-Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y, en su caso, a la liquidación de la sociedad conyugal; se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges, o en relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes, a la subsistencia y educación de los hijos hasta que lleguen a la mayor edad.
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
+(DEROGADO, P.O. 12 DE MAYO DE 2017)
 
 ###### Artículo 300.
 
-El cónyuge que haya dado causa al divorcio, sólo podrá ser condenado a ministrar alimentos si el otro está imposibilitado para trabajar o careciere de bienes propios.
+(DEROGADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2017)
 
-La mujer que haya estado dedicada exclusivamente a las labores del hogar, tendrá a su favor la presunción de la necesidad de alimentos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE MAYO DE 2017)</small>
 
-La obligación de dar alimentos cesará, si el acreedor alimentario hace vida en común con otra persona como su pareja.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 12 DE MAYO DE 2017)</small>
 
-Cuando por el divorcio se originen daños y perjuicios a los intereses del cónyuge que no dio origen al divorcio, el otro responderá de ellos como autor de un hecho ilícito.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 12 DE MAYO DE 2017)</small>
 
 En el divorcio por mutuo consentimiento, el cónyuge que estuviere imposibilitado para trabajar y careciere de bienes propios, tendrá derecho a percibir alimentos del otro. La obligación de éste, cesará en el mismo caso que tratándose del divorcio necesario.
 
 ###### Artículo 301.
 
-En virtud del divorcio los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
-
-El cónyuge que haya dado causa al divorcio, no podrá volver a casarse sino después de un año, a contar desde que se decretó el divorcio.
-
-Para que los cónyuges que se divorcian voluntariamente puedan volver a contraer matrimonio, es indispensable que haya transcurrido el mismo término desde que obtuvieron el divorcio.
+(DEROGADO, P.O. 12 DE MAYO DE 2017)
 
 ###### Artículo 302.
 
-La muerte de uno de los cónyuges pone fin al juicio de divorcio y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiera existido dicho juicio.
+(DEROGADO, P.O. 12 DE MAYO DE 2017)
 
 ###### Artículo 303.
 
-Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia remitirá copia de ella al Oficial del Registro Civil, ante quien se celebró el matrimonio, para que levante el acta correspondiente y haga las anotaciones respectivas y, además, para que publique el extracto de la resolución durante quince días en las tablas destinadas al efecto.
+(DEROGADO, P.O. 12 DE MAYO DE 2017)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MAYO DE 2015)</small>
 
@@ -4269,6 +4375,8 @@ Tampoco pueden alegarla los menores, si han presentado certificados falsos del R
 
 ### CAPITULO I. De las medidas provisionales en caso de ausencia
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+
 ###### Artículo 655.
 
 El matrimonio del menor produce de derecho la emancipación del mismo. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
@@ -4297,7 +4405,7 @@ Hecha la emancipación, no puede ser revocada.
 
 ###### Artículo 659.
 
-Fuera del caso a que se refiere el artículo 655, la emancipación siempre será decretada por el juez, y la resolución correspondiente se remitirá al juez del Registro Civil para que levante el acta respectiva.
+(DEROGADO, P.O. 12 DE MAYO DE 2017)
 
 ### CAPITULO II. De la declaración de ausencia
 
@@ -4311,7 +4419,7 @@ La mayor edad se rige por las prevenciones de los artículos 23 y 24 de este Có
 
 ###### Artículo 661.
 
-El que se hubiere ausentado del lugar de su residencia ordinaria y tuviere apoderado constituído antes o después de su partida, se tendrá como presente para todos los efectos civiles y sus negocios se podrán tratar con el apoderado hasta donde alcance el poder.
+En cualquier caso en que los cónyuges dejaren pasar más de tres meses, sin continuar el procedimiento iniciado por mutuo consentimiento o no acudieren a ratificar su solicitud presentada para obtener el divorcio administrativo, la autoridad correspondiente declarará sin efectos la solicitud y se mandara archivar el expediente.
 
 ###### Artículo 662.
 
@@ -15255,13 +15363,9 @@ El Registro Público de la Propiedad, es la Institución mediante la cual el Eje
 
 El Registro Público de la Propiedad en el Estado, estará a cargo del Director del Registro Público de la Propiedad, quien se auxiliará de registradores en cada distrito judicial, con asiento en las localidades que determine el Ejecutivo del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 El registro Público de la Propiedad contará con un sistema informático denominado Sistema Informático Registral, en el que se realizarán las inscripciones, cancelaciones, anotaciones y asientos que competen, a esta Institución.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
@@ -15269,13 +15373,9 @@ El registro Público de la Propiedad contará con un sistema informático denomi
 
 El Reglamento fijará el número de secciones de que se componga el registro y la sección en que deban inscribirse los títulos que se registren, así como el sistema adoptado para el registro.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 Las inscripciones de los actos jurídicos se asentarán en el medio electrónico generado por el Sistema Informático Registral de acuerdo al Reglamento correspondiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
@@ -15284,8 +15384,6 @@ En el caso de los Libros de registro anteriores al Sistema Informático Registra
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 Cualquier anotación, cancelación o modificación de una inscripción correspondiente a año distinto de aquél en que se haga, se avisará por el registrador respectivo al Director, para que este mande practicar en los libros del archivo igual anotación, cancelación o modificación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
@@ -16030,3 +16128,15 @@ P.O. 17 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM 585.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 437 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 591.- MEDIANTE EL CUAL SE REFORMA, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los juicios iniciados previo a la publicación del presente Decreto deberán ser concluidos de conformidad con los procedimientos vigentes en el momento de su presentación.
+
+TERCERO. La Dirección del Registro Civil, contará con un término de treinta días, a partir de la publicación del presente Decreto para realizar las adecuaciones necesarias a su Reglamento.
+
+CUARTO. Se derogan todos los preceptos legales contemplados en cualquier otro ordenamiento legal de igual o menor rango y que se opongan a las disposiciones del presente Decreto.
