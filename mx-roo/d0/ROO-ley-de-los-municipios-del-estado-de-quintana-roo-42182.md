@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2016-01-15"
+last_updated: "2017-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -874,6 +874,10 @@ g) Dictar normas para la administración del Patrimonio Municipal;
 h) Autorizar al o la Presidente/a Municipal, a que solicite a la Legislatura del Estado, la aprobación para contraer obligaciones o contratar y obtener empréstitos, de conformidad con lo estipulado en la Ley de Deuda Pública del Estado, los que en todo caso deberán destinarse a inversiones públicas productivas;
 
 i) Proponer a la Legislatura Estatal, a más tardar en el mes de octubre de cada año, con arreglo a los principios de equidad, proporcionalidad, racionalidad y capacidad contributiva, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en el ejercicio fiscal inmediato siguiente;
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+j) Autorizar los convenios para adherirse al mecanismo de contratación de Deuda Estatal Garantizada, así como suscribir dichos convenios, previa a la autorización de la Legislatura, de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 V. En materia de Desarrollo Económico y Social:
 
@@ -2851,6 +2855,26 @@ VIII. La Legislatura del Estado, revisará y fiscalizará la Cuenta Pública de 
 
 La Legislatura, en coordinación con los Municipios, garantizará la disposición de la información de la Cuenta Pública Municipal a la comunidad en general, con base a lo que establece la Ley de Transparencia y Acceso a la Información Pública del Estado.
 
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+ARTÍCULO 230 BIS. Las iniciativas de las Leyes de Ingresos y los proyectos de Presupuestos de Egresos de los Municipios se deberán elaborar conforme a lo establecido en esta ley, en la Ley General de Contabilidad Gubernamental, en las normas que emita el Consejo Nacional de Armonización Contable y demás normatividad aplicable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberán ser congruentes con los planes estatales y municipales de desarrollo y los programas derivados de los mismos; e incluirán cuando menos objetivos anuales, estrategias y metas.
+
+Las Leyes de Ingresos y los Presupuestos de Egresos de los Municipios deberán ser congruentes con los Criterios Generales de Política Económica y las estimaciones de las participaciones y transferencias federales etiquetadas que se incluyan no deberán exceder a las previstas en la iniciativa de la Ley de Ingresos de la Federación y en el proyecto de Presupuesto de Egresos de la Federación, así como aquellas transferencias al Estado.
+
+Los Municipios, además de lo previsto en los párrafos anteriores, deberán incluir en sus iniciativas de las Leyes de Ingresos y los proyectos de Presupuestos de Egresos:
+
+I. Proyecciones de finanzas públicas, considerando las premisas empleadas en los Criterios Generales de Política Económica.
+
+Las proyecciones se realizarán con base en los formatos que emita el Consejo Nacional de Armonización Contable y abarcarán un periodo de tres años en adición al ejercicio fiscal en cuestión, las que se revisarán y, en su caso, se adecuarán anualmente en los ejercicios subsecuentes;
+
+II. Descripción de los riesgos relevantes para las finanzas públicas, incluyendo los montos de Deuda Contingente, acompañados de propuestas de acción para enfrentarlos;
+
+III. Los resultados de las finanzas públicas que abarquen un periodo de los tres últimos años y el ejercicio fiscal en cuestión, de acuerdo con los formatos que emita el Consejo Nacional de Armonización Contable para este fin, y
+
+IV. Un estudio actuarial de las pensiones de sus trabajadores, el cual como mínimo deberá actualizarse cada cuatro años. El estudio deberá incluir la población afiliada, la edad promedio, las características de las prestaciones otorgadas por la ley aplicable, el monto de reservas de pensiones, así como el periodo de suficiencia y el balance actuarial en valor presente.
+
+Las proyecciones y resultados a que se refieren las fracciones I y III, respectivamente, comprenderán sólo un año para el caso de los Municipios con una población menor a 200,000 habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía. Dichos Municipios contarán con el apoyo técnico de la Secretaría de Finanzas y Planeación del Estado para cumplir lo previsto en este artículo.
+
 ###### ARTÍCULO 231.
 
 La Hacienda Municipal será regulada por la ley de la materia y cuya aplicación corresponderá a las personas autorizadas de acuerdo a las Leyes Fiscales del Municipio y Convenios de Coordinación con la Federación y el Estado.
@@ -2861,9 +2885,29 @@ La Hacienda Municipal será regulada por la ley de la materia y cuya aplicación
 
 La inspección de la Hacienda Pública Municipal compete al Ayuntamiento por conducto de la Presidencia, la Sindicatura y la Comisión de Hacienda.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 233.
 
 Corresponde a los Ayuntamientos la aprobación, ejercicio y vigilancia del Presupuesto de Egresos Municipales.
+
+El Gasto total propuesto por los Ayuntamientos de los Municipios en el proyecto de Presupuesto de Egresos, el aprobado y el que se ejerza en el año fiscal, deberán contribuir al Balance presupuestario sostenible.
+
+Los Ayuntamientos de los Municipios deberán generar Balances presupuestarios sostenibles. Se considerará que el Balance presupuestario cumple con el principio de sostenibilidad, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. Igualmente, el Balance presupuestario de recursos disponibles es sostenible, cuando al final del ejercicio y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. El Financiamiento Neto que, en su caso, se contrate por parte del Municipio y se utilice para el cálculo del Balance presupuestario de recursos disponibles sostenible, deberá estar dentro del Techo de Financiamiento Neto que resulte de la aplicación del Sistema de Alertas, de acuerdo con el artículo 46 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Debido a las razones excepcionales a que se refiere el artículo 7 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Legislatura local podrá aprobar un Balance presupuestario de recursos disponibles negativo para el Municipio respectivo. Para tal efecto, el tesorero municipal o su equivalente, será responsable de cumplir lo previsto en el artículo 6, párrafos tercero a quinto de la mencionada Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+ARTÍCULO 233 BIS. Los recursos para cubrir los adeudos del ejercicio fiscal anterior, previstos en el proyecto de Presupuesto de Egresos, podrán ser hasta por el 2.5 por ciento de los Ingresos totales del respectivo Municipio.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+ARTÍCULO 233 TER. Los Municipios y sus entes públicos deberán observar las disposiciones establecidas en los artículos 8, 10, 11, 14, 15 y 17 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Adicionalmente, los Municipios y sus Entes Públicos deberán observar lo previsto en el artículo 13 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Lo anterior, con excepción de la fracción III, segundo párrafo de dicho artículo, la cual sólo será aplicable para los Municipios de más de 200,000 habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía.
+
+Las autorizaciones a las que se hace mención en dichos artículos serán realizadas por las autoridades municipales competentes.
 
 ###### ARTÍCULO 234.
 
@@ -3370,3 +3414,15 @@ P.O. 15 DE ENERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 382 POR EL QUE SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 8 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 12 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
 
 ÚNICO. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 12 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 057 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, EN MATERIA DE DISCIPLINA FINANCIERA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo, salvo por lo previsto en los transitorios siguientes.
+
+SEGUNDO. Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios contenidas en los artículos 230 Bis, 233 segundo, tercer y cuarto párrafos, 233 Bis y 233 Ter, entrarán en vigor para efectos del ejercicio fiscal 2018, con las salvedades previstas en el artículo transitorio siguiente y los que apliquen de acuerdo al artículo 21 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+TERCERO. El porcentaje a que hace referencia el artículo 233 Bis relativo a los adeudos del ejercicio fiscal anterior de los Municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho artículo.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
