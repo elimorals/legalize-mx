@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-profesiones-para-el-estado-de-guanajuato-48160"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2016-07-01"
+last_updated: "2017-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE PROFESIONES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el martes 20 de diciembre de 2005.
 
@@ -41,9 +41,11 @@ LEY DE PROFESIONES PARA EL ESTADO DE GUANAJUATO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+
 ###### Artículo 1.
 
-La presente Ley es reglamentaria del artículo 7 de la Constitución Política del Estado de Guanajuato, sus disposiciones son de orden público e interés social y regulan el ejercicio profesional en el Estado de Guanajuato.
+La presente ley es reglamentaria del artículo 3 de la Constitución Política para el Estado de Guanajuato, sus disposiciones son de orden público e interés social y regulan el ejercicio profesional en el estado de Guanajuato.
 
 ###### Artículo 2.
 
@@ -297,7 +299,9 @@ II. Registrar los títulos profesionales y cancelar los mismos en los términos 
 
 III. Promover la creación y registro de colegios de profesionistas;
 
-IV. Otorgar las autorizaciones provisionales para el ejercicio de las diversas profesiones y sus ramas;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2017)</small>
+
+IV. Otorgar a petición de parte las autorizaciones provisionales para el ejercicio de las diversas profesiones y sus ramas;
 
 V. Proponer al Ejecutivo del Estado la suscripción de convenios en materia de profesiones con autoridades federales, estatales, municipales, instituciones educativas y con los particulares;
 
@@ -353,17 +357,21 @@ El registro de títulos profesionales se realizará ante la Secretaría, la que 
 
 Para este efecto podrá celebrar convenios de coordinación con el Ejecutivo Federal y con otras entidades federativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2017)</small>
+
 ###### Artículo 14.
 
-La autorización provisional para el ejercicio profesional se otorgará al solicitante después de:
+La autorización provisional para el ejercicio profesional se otorgará al solicitante una vez que la Secretaría reciba el trámite de registro correspondiente, después de:
 
 I. Haber cumplido con los requisitos para obtener el título profesional y éste se encuentre en trámite; o
 
 II. Haber obtenido el título profesional y éste se encuentre en trámite de registro para obtener la cédula profesional respectiva.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+
 ###### Artículo 15.
 
-La autorización provisional para el ejercicio profesional se otorgará hasta por dos años. Los requisitos para su otorgamiento se establecerán en el reglamento de esta Ley.
+La autorización provisional para el ejercicio profesional se otorgará de forma gratuita y tendrá una vigencia de hasta por dos años.
 
 ###### Artículo 16.
 
@@ -1298,3 +1306,15 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTO, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN.”]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 183, APROBADO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROFESIONES PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. La Secretaría de Educación de Guanajuato tendrá 90 días naturales para adecuar sus funciones administrativas a lo establecido en el artículo 15 del presente decreto.
+
+Artículo Tercero. El titular del Poder Ejecutivo tendrá 90 días naturales para modificar el Reglamento de la Ley de Profesiones para el Estado de Guanajuato.
+
+Artículo Cuarto. El titular del Poder Ejecutivo en un plazo de 60 días naturales, a partir de la entrada en vigor del presente decreto deberá presentar la iniciativa correspondiente a efecto de reformar la Ley de Ingresos para el Estado de Guanajuato para el ejercicio fiscal de 2017, y prever lo relativo al derecho por la expedición de la autorización provisional para el ejercicio profesional y su gratuidad.
