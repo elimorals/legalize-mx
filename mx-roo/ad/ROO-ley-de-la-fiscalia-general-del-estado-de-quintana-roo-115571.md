@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-fiscalia-general-del-estado-de-quintana-roo-115571"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-05"
-last_updated: "2016-08-30"
+last_updated: "2017-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 5 de julio de 2016.
 
@@ -327,11 +327,15 @@ XXV. La Fiscalía Especializada en Delitos cometidos en contra de los Migrantes;
 
 XXVI. La Fiscalía Especializada en Materia de Delitos Electorales;
 
-XXVII. Unidad de Transparencia;
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2017)</small>
 
-XXVIII. El Secretario Particular del Fiscal General, y
+XXVII. Fiscalía Especializada para la Atención de Delitos contra la Mujer y por Razones de Género;
 
-XXIX. Los Asesores de la Fiscalía General.
+XXVIII. Unidad de Transparencia;
+
+XXIX. El Secretario Particular del Fiscal General, y
+
+XXX. Los Asesores de la Fiscalía General.
 
 ###### Artículo 8.
 
@@ -959,6 +963,10 @@ XI. Establecer mecanismos de coordinación y de interrelación con otras áreas 
 
 XII. Las demás que le confieran las disposiciones legales aplicables, el reglamento interior y las que le encomiende el Fiscal General.
 
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+Dicho Centro estará integrado por personal altamente capacitado en las áreas médica psicológica, legal y de trabajo social, que trabajan para las afectadas, sus hijos e hijas puedan lograr su empoderamiento y poder llevar una vida libre de violencia.
+
 ### Capítulo Décimo Sexto
 
 Del Centro de Justicia Alternativa Penal.
@@ -1315,17 +1323,65 @@ La coordinación de la Fiscalía Especializada en Materia de Delitos Electorales
 
 Cuando la Fiscalía Especializada en Materia de Delitos Electorales conozca de un asunto del cual se desprenda la probable comisión de delitos que sean de la competencia del Fiscal del Ministerio Público de la Federación, declinará competencia por razón de fuero y coadyuvará con dicha instancia, para dar cumplimiento a los acuerdos en la materia, asumidos en el seno de la Conferencia Nacional de Procuración de Justicia.
 
-### Capítulo Vigésimo Cuarto. De la Unidad de Transparencia
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2017)</small>
 
-### Capítulo Vigésimo Quinto. Del Secretario Particular del Fiscal General
+### Capítulo Vigésimo Cuarto. De la Fiscalía Especializada para la Atención de Delitos contra la Mujer y por Razones de Género
 
-### Capítulo Vigésimo Sexto. De los Asesores de la Fiscalía General
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+###### Artículo 58 Bis.
+
+El o la Titular de la Fiscalía Especializada para la Atención de Delitos contra la Mujer y por Razones de Género, tendrá la calidad de Fiscal del Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+###### Artículo 58 Ter.
+
+La Fiscalía Especializada para la Atención de Delitos contra la Mujer y por Razones de Género, además de las inherentes al Fiscal del Ministerio Público, tiene las siguientes atribuciones:
+
+I. Conocer de las denuncias y querellas que se presenten, por hechos que pudieran ser constitutivos de los delitos de su competencia de conformidad con el Código Penal y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+II. Recibir y atender toda denuncia o querella que tenga relación con hechos posiblemente constitutivos de los delitos de su especialidad como delitos contra las mujeres por razón de género, discriminación por razones de género, feminicidio y feminicidio en grado de tentativa, delitos de homicidio doloso cuando la víctima sea mujer, homicidio o lesiones contra la población lésbico-gay y bisexual.
+
+III. Dirigir la investigación de los delitos que conozca, practicando y ordenando para ello todas las diligencias que resulten necesarias para su comprobación y la identificación de quien lo cometió o participó en su comisión, en los términos del Código Penal y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y demás disposiciones legales aplicables;
+
+IV. Atraer y recibir las investigaciones que se hayan iniciado en unidades diversas por los delitos de su especialidad, para continuar con su atención y resolución procedente, salvo en los casos que, para la mejor investigación del delito, resulte más idóneo que la diversa unidad continúe conociendo del asunto, para lo cual el titular de esta Fiscalía deberá habilitar al Fiscal del Ministerio Público, mediante el oficio correspondiente, previo acuerdo con el Fiscal General;
+
+V. Acordar y en su caso, solicitar al órgano jurisdiccional, la práctica de actividades necesarias para la investigación, así como la aplicación de las medidas necesarias para la protección integral de las víctimas, primordialmente su integridad física y psicológica.
+
+VI. Coordinarse con el Centro de Justicia para las Mujeres que preste servicio en el Estado, mediante un modelo de atención integral a las usuarias, que preste los servicios de: presentación de denuncia ante el representante social, atención médica, estancia y servicios de atención, atención psicológica, acceso a servicios periciales, asesoría y representación jurídica, servicios ofrecidos por organizaciones de la sociedad civil, empoderamiento de las mujeres y bolsa de trabajo, acceso a refugios, juzgados familiares para la obtención de órdenes de protección.
+
+VII. Restituir a la víctima o persona ofendida en el goce de sus derechos, cuando ello se encuentre al alcance de la Fiscalía General del Estado, en los términos de las disposiciones legales aplicables;
+
+VIII. Participar en los programas, comités y comisiones que así lo requieran, en temas de delitos por razones de género;
+
+IX. Informar al Fiscal General del Estado sobre los asuntos encomendados a esta Fiscalía Especializada.
+
+X. Brindar información, asesoramiento a la víctima u ofendido en su idioma o lengua materna sobre sus derechos y el proceso de los trámites judiciales y administrativos, de manera gratuita y expedita;
+
+XI. Canalizar a la víctima en forma inmediata para su atención médica psicológica;
+
+XII. Tratar con respeto a la víctima u ofendido, con relación a su integridad y al ejercicio pleno de sus derechos;
+
+XIII. Proteger la identidad de la víctima y la de su familia;
+
+XIV. Las demás que le atribuyan los tratados internacionales en los que México sea parte, otras disposiciones legales aplicables o las que el Fiscal General del Estado le encomiende.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+###### Artículo 58 Quáter.
+
+El o la titular de la Fiscalía Especializada contará con el apoyo de la Dirección de Investigación y Acusación, Policía Ministerial, de las Unidades Administrativas que considere el Fiscal General del Estado, y demás personal que requiera para el cumplimiento de sus funciones. En todo caso, el personal adscrito a esta Fiscalía deberá contar con el perfil especializado que garantice la aplicación de la perspectiva de género en su desempeño, así como con los conocimientos en derechos humanos, que les permitan atender los compromisos internacionales, en materia de su competencia y desarrollar sus labores, en el marco de los estándares internacionales, reconocidos por México en este rubro.
+
+### Capítulo Vigésimo Quinto. De la Unidad de Transparencia
+
+### Capítulo Vigésimo Sexto. Del Secretario Particular del Fiscal General
 
 ###### Artículo 59.
 
 La Unidad de Transparencia de la Fiscalía General del Estado, es la responsable de la atención de las solicitudes de información que reciba la misma en términos de la ley de la materia.
 
-### Capítulo Primero. De los requisitos del personal
+### Capítulo Vigésimo Séptimo. De los Asesores de la Fiscalía General
 
 ###### Artículo 60.
 
@@ -1369,7 +1425,7 @@ XVIII. Compilar los índices de los expedientes clasificados como reservados y a
 
 XIX. Las demás que se desprendan de la normatividad aplicable o que le señale el Fiscal General.
 
-### Capítulo Segundo. De la organización del personal
+### Capítulo Primero. De los requisitos del personal
 
 ###### Artículo 61.
 
@@ -1395,7 +1451,7 @@ IX. Convocar y verificar la asistencia puntual de los servidores públicos citad
 
 X. Las demás que le confiera el Fiscal General.
 
-### Capítulo Tercero. Del Servicio Profesional de Carrera de la Fiscalía General del Estado
+### Capítulo Segundo. De la organización del personal
 
 ###### Artículo 62.
 
@@ -1415,7 +1471,7 @@ VI. Las demás que le sean encomendadas por el Fiscal General.
 
 ## Título Cuarto. Del régimen del personal
 
-### Capítulo Primero. Del Consejo de Profesionalización, Honor y Justicia
+### Capítulo Tercero. Del Servicio Profesional de Carrera de la Fiscalía General del Estado
 
 ###### Artículo 63.
 
@@ -1455,7 +1511,7 @@ IX. Ser de notoria buena conducta, honradez y probidad.
 
 Los Directores, Titulares de los Centros y Fiscalías, Titular de Unidad así como el demás personal de la Fiscalía General del Estado, deberán cumplir con los requisitos que se señalen para su nombramiento, estipulados en el reglamento interior y en las demás disposiciones aplicables.
 
-### Capítulo Segundo. De las excusas e incompatibilidades
+### Capítulo Primero. Del Consejo de Profesionalización, Honor y Justicia
 
 ###### Artículo 67.
 
@@ -1479,7 +1535,7 @@ El personal de la Fiscalía General del Estado, con las excepciones previstas en
 
 El ingreso, promoción, estímulo, evaluación y separación del personal de confianza o de base, se regirá por lo establecido en el reglamento interior y demás disposiciones aplicables.
 
-### Capítulo Primero. Del patrimonio
+### Capítulo Segundo. De las excusas e incompatibilidades
 
 ###### Artículo 71.
 
@@ -1691,7 +1747,7 @@ En todo lo no previsto en la presente ley respecto al Servicio Profesional de Ca
 
 ## Título Quinto. Del régimen disciplinario
 
-### Capítulo Segundo. Del Fondo para el Mejoramiento de la Procuración de Justicia
+### Capítulo Primero. Del patrimonio
 
 ###### Artículo 82.
 
@@ -1915,6 +1971,8 @@ Además de lo dispuesto en el artículo anterior, todo el personal de la Fiscal�
 
 Cuando en el desempeño de sus funciones el personal de la Fiscalía General del Estado incurra en el incumplimiento de alguna de las obligaciones señaladas en esta ley, su reglamento interno y demás normatividad aplicable, se iniciará el procedimiento respectivo ante el órgano interno competente de la Fiscalía General del Estado.
 
+### Capítulo Segundo. Del Fondo para el Mejoramiento de la Procuración de Justicia
+
 ###### Artículo 91.
 
 El personal de la Fiscalía General del Estado que participe directamente en un procedimiento, deberá excusarse cuando exista alguna de las causas que motiven dicha excusa, contenidas en el Código Nacional, debiendo informar de forma inmediata al superior jerárquico, para que éste decida lo que conforme a derecho corresponda.
@@ -2130,3 +2188,11 @@ P.O. 30 DE AGOSTO DE 2016.
 PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+P.O. 12 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 058 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LEY DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
