@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2016-08-22"
+last_updated: "2017-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -173,6 +173,8 @@ XVI. El establecer procedimientos arbitrales y administrativos para los casos do
 
 La violencia familiar es todo acto de poder u omisión intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, sexual, patrimonial o económicamente a las mujeres, dentro o fuera del domicilio conyugal, realizado por personas con quien tengan relación de parentesco por consanguinidad y tengan o hayan tenido relación por matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 9.
 
 Los tipos de violencia contra las mujeres son:
@@ -183,11 +185,13 @@ II. Violencia física: Cualquier acto u omisión, en que se utiliza parte del cu
 
 III. Violencia sexual: Cualquier acción, mediante la violencia física o psicológica que genera daño y limita o condiciona el ejercicio de la sexualidad, independientemente de que constituya un ilícito previsto y sancionado por las leyes penales; el acoso sexual es parte de la violencia sexual, independientemente de la modalidad en que se manifieste;
 
-IV. Violencia patrimonial: Cualquier acción u omisión encaminada a la sustracción, destrucción, retención de objetos, alteración de valores, documentos personales o bienes de las mujeres o de su entorno familiar, que limitan o dañan la supervivencia económica, independientemente del valor material o emocional, asociado a éstos;
+IV. Violencia patrimonial: Cualquier acción u omisión encaminada a la sustracción, destrucción, retención de objetos, alteración de valores, documentos personales o bienes de las mujeres o de su entorno familiar, que limitan o dañan la supervivencia económica, independientemente del valor material o emocional, asociado a estos;
 
-V. Violencia económica: Cualquier acción limitativa y de control de los ingresos propios, adquiridos o asignados a las mujeres, para lesionar su independencia y supervivencia económica; y,
+V. Violencia económica: Cualquier acción limitativa y de control de los ingresos propios, adquiridos o asignados a las mujeres, para lesionar su independencia y supervivencia económica;
 
-VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+VI. Violencia política: Todo acto u omisión en contra de las mujeres por medio del cual se cause un daño moral, físico o psicológico a través de la presión, persecución, hostigamiento, acoso, coacción, amenaza y/o privación de la vida por cuestión de género, cometidos por una persona o un grupo de personas, directamente o a través de terceros, con el fin de menoscabar, limitar, condicionar, excluir, impedir o anular el ejercicio de sus derechos político-electorales, así como el inducirla u obligarla a tomar decisiones de tipo político-electoral en contra de su voluntad; y,
+
+VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ###### ARTÍCULO 10.
 
@@ -936,3 +940,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su public
 SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
 
 TERCERO. El Ejecutivo deberá adecuar sus disposiciones reglamentarias a la presente reforma en un plazo no mayor de 90 días naturales a partir de su publicación.
+
+P.O. 12 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 359 POR EL QUE “SE REFORMA EL ARTÍCULO 9 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
