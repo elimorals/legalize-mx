@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-694-de-victimas-del-estado-libre-y-soberano-de-10724
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-06"
-last_updated: "2015-03-06"
+last_updated: "2017-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107242&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY NÚMERO 694 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017 (ABROGADA).
 
 Ley publicada en el Alcance II del Periódico Oficial del Estado de Guerrero, el viernes 6 de marzo de 2015.
 
@@ -864,3 +864,41 @@ H A C E C O N S T A R
 QUE LAS PRESENTES COPIAS FOTOSTÁTICAS COMPUESTAS DE VEINTIUN FOJAS ÚTILES, INCLUYENDO ESTA ÚLTIMA, DEBIDAMENTE FOLIADAS, SELLADAS Y RUBRICADAS, SON REPRODUCIDAS FIELMENTE DE SU ORIGINAL, RELATIVAS AL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUERRERO, NÚMERO 19 ALCANCE II, DE FECHA DE SEIS DE MARZO DEL AÑO DOS MIL QUINCE, MISMO QUE TUVE A LA VISTA, EL CUAL OBRA EN LOS ARCHIVOS DE LA SECRETARÍA GENERAL DE GOBIERNO.
 
 SE EXTIENDE LA PRESENTE, PARA LOS EFECTOS LEGALES A QUE HAYA LUGAR, EN LA CIUDAD DE CHILPANCINGO, CAPITAL DEL ESTADO DE GUERRERO A LOS VEINTIUN DÍAS DEL MES DE ABRIL DEL AÑO DOS MIL QUINCE.- CONSTE.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 450 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. Se abroga la Ley número 694 de Víctimas del Estado Libre y Soberano de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado, número 19 Alcance II de fecha 6 de marzo de 2015.
+
+Tercero. El Ejecutivo Estatal, dentro de los noventa días hábiles siguientes a la entrada en vigor de la presente Ley, expedirá el Reglamento de dicha Ley.
+
+Cuarto. Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Comisión Ejecutiva Estatal de Atención a Víctimas, creada de conformidad en la Ley 694, incluyendo todos sus bienes muebles e inmuebles se transferirán a la Comisión Ejecutiva que se crea en virtud de esta Ley.
+
+Quinto. Los asuntos y procedimientos cuyo trámite se haya iniciado previo a la vigencia de la presente Ley, serán sustanciados y resueltos conforme a lo establecido en la Ley Número 694 de Víctimas del Estado Libre y Soberano de Guerrero. Los procedimientos que se inicien a la entrada en vigor de la presente Ley, se regirán por ésta.
+
+Sexto. Los Comisionados nombrados por el Congreso del Estado en sesión de fecha 15 y 25 de enero del 2016, y que se encuentren en funciones, dejarán de ejercer el cargo que les fue conferido a la entrada en vigor de la presente Ley, quedando sin efecto el nombramiento realizado en esas fechas. Asimismo se abrogan los Decretos números 173, 174 y 177 publicados en los Periódicos Oficiales del Gobierno del Estado números 07 Alcance I de fecha 22 de enero de 2016 y el número 11 Alcance I de fecha 5 de febrero de 2016.
+
+En tanto no se designe al Comisionado Ejecutivo Estatal, el titular del Área de Asesoría Jurídica estará a cargo de la Comisión Ejecutiva Estatal. Por lo que se refiere a las autorizaciones para el acceso a los recursos del Fondo Estatal, éstas serán emitidas de manera conjunta entre el titular del área de Asesoría Jurídica y el servidor público responsable del Fondo Estatal.
+
+Séptimo. Por única ocasión, dentro de los treinta días siguientes a la entrada en vigor de la presente Ley, el titular del Poder Ejecutivo Estatal remitirá al Congreso del Estado la propuesta para efectos de nombramiento del Comisionado Ejecutivo Estatal, quien durará en el cargo tres años.
+
+En adelante la designación del Comisionado Ejecutivo Estatal se realizará de acuerdo al proceso establecido en el artículo 26 de esta Ley.
+
+Octavo. La Comisión Ejecutiva Estatal, en un plazo no mayor de treinta días hábiles a partir de la entrada en vigor de la presente Ley, publicará la convocatoria a que se refiere el artículo 34 de la Ley.
+
+Noveno. La Comisión Ejecutiva Estatal realizará las adecuaciones necesarias a su estructura orgánica y al contrato de fideicomiso en un plazo de noventa días hábiles posteriores a la entrada en vigor del Reglamento.
+
+Décimo. Las erogaciones adicionales que se generen con motivo de la entrada en vigor de la presente Ley, se realizarán con cargo al presupuesto autorizado, por lo que no se autorizarán recursos adicionales en el ejercicio fiscal correspondiente. Las previsiones presupuestales para la operación de la presente Ley, deberán hacerse con la debida antelación para el siguiente ejercicio fiscal a su entrada en vigor.
+
+Décimo Primero. Por única ocasión, para la primera designación de los miembros de la Asamblea Consultiva a que se refiere el artículo 34 de la Ley, el Comisionado Ejecutivo Estatal enviará propuestas de integrantes al Congreso del Estado, el cual los elegirá por las dos terceras partes de los presentes en sesión ordinaria.
+
+Décimo Segundo. Constituida la Asamblea Consultiva, deberá elegir a los integrantes de la Junta de Gobierno dentro de los diez días siguientes.
+
+Décimo Tercero. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Décimo Cuarto.- Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
