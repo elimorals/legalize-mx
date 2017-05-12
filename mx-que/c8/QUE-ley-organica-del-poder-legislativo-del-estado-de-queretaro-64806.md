@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2016-12-23"
+last_updated: "2017-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2016 NO APLICA AL ARTICULADO DE LA LEY PUBLICADA EN EL P.O. DE 28 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -467,9 +465,11 @@ E. Del dictamen definitivo.
 
 Una vez realizado el estudio de las observaciones al proyecto de dictamen y su respectiva validación o en caso de no haber existido observaciones, la Comisión emitirá el dictamen definitivo, fundado y motivado, el que será puesto a consideración y votación del Pleno, siguiendo el trámite previsto en los Capítulos Tercero, Cuarto, Quinto y Sexto del presente Título. La resolución del Pleno que recaiga a las solicitudes tendrá el carácter de decreto.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+
 F. De su aprobación en sentido favorable.
 
-En caso de que el Pleno de la Legislatura haya resuelto de forma favorable la solicitud para el otorgamiento de la jubilación, pensión por vejez o pensión por muerte, el decreto respectivo se remitirá para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+En caso de que el Pleno de la Legislatura haya resuelto de forma favorable la solicitud para el otorgamiento de la jubilación, pensión por vejez o pensión por muerte, el decreto respectivo se remitirá para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 G. De su aprobación en sentido de rechazo.
 
@@ -507,6 +507,8 @@ Las iniciativas pendientes de dictaminarse al finalizar una Legislatura, podrán
 
 ### Capítulo Tercero. De los dictámenes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2017)</small>
+
 ###### Artículo 42.
 
 (Requisitos de la iniciativa) La iniciativa deberá de reunir los siguientes requisitos:
@@ -535,9 +537,15 @@ Cuando la iniciativa proponga la creación de organismos, dependencias o la ampl
 
 Las iniciativas turnadas se darán a conocer a los integrantes de la Legislatura de manera electrónica.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+
 ###### Artículo 45.
 
-(Desistimiento de la iniciativa) Antes de su turno a Comisión, podrá el autor de una iniciativa, solicitud o proposición, retirarla.
+(Retiro de iniciativa) El autor de una iniciativa podrá retirarla desde el momento de su admisión y hasta antes de que la Comisión a la que se haya turnado emita el dictamen correspondiente.
+
+Para los efectos de este supuesto, por autor se entiende la o las personas que suscriban la iniciativa.
+
+Cuando la iniciativa haya sido firmada por más de una persona, se requiere que la totalidad de quienes la signaron manifiesten su voluntad de retirarla.
 
 ###### Artículo 46.
 
@@ -551,9 +559,7 @@ Las iniciativas turnadas se darán a conocer a los integrantes de la Legislatura
 
 ###### Artículo 48.
 
-(Obligatoriedad de emitir dictamen) Las Comisiones deberán emitir el dictamen que proponga aprobar la iniciativa, en sus términos o con modificaciones, o bien, rechazarla, pero no podrá dispensarse en ningún caso su dictamen.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2015)</small>
+(Obligatoriedad de emitir dictamen) Las comisiones deberán emitir el dictamen que proponga aprobar la iniciativa, en sus términos o con modificaciones, o bien, rechazarla, pero no podrá dispensarse en ningún caso su dictamen, salvo los casos en que se haya retirado la iniciativa, en los términos de esta Ley.
 
 En las modificaciones se podrán suprimir fragmentos de la iniciativa, hacer variaciones de forma o de fondo y adicionar o complementar el texto original con elementos distintos a los que formen parte de la iniciativa.
 
@@ -2490,3 +2496,13 @@ Artículo Primero. La presente Ley entrará en vigor a partir del día de su apr
 Artículo Segundo. Remítase esta Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Tercero. Las menciones que se hagan a la "Junta de Concertación Política", en otros ordenamientos, acuerdos y consideraciones administrativas, serán entendidas a la denominación actual de "Junta de Coordinación Política".
+
+P.O. 12 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LOS ARTÍCULOS 37 BIS, 45 Y 48 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día de su aprobación por el Pleno de la Quincuagésima Octava Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Remítase la presente Ley, al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
