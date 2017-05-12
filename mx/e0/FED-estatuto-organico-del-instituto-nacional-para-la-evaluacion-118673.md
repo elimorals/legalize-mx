@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-para-la-evaluacion-118
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-01-31"
-last_updated: "2017-01-31"
+last_updated: "2017-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118673&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-01-23"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE MAYO DE 2017.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 31 de enero de 2017.
 
@@ -59,9 +59,11 @@ Asimismo, el Instituto diseña y realiza mediciones y evaluaciones que correspon
 
 El Instituto funge como autoridad en materia de evaluación educativa a nivel nacional y expide los lineamientos a los que, en dicha materia, deberán sujetarse las autoridades educativas. También le compete generar y difundir información y, con base en ésta, emitir directrices que sean relevantes para contribuir a las decisiones tendientes a mejorar la calidad de la educación y su equidad, como factor esencial en la búsqueda de la igualdad social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE MAYO DE 2017)</small>
+
 ###### Artículo 2.
 
-El presente Estatuto tiene por objeto establecer las facultades y funciones que corresponden a la Junta de Gobierno, al Consejero Presidente, unidades administrativas, órganos colegiados y la Contraloría Interna que integran el Instituto, en el marco de las atribuciones que le confiere la normatividad aplicable.
+El presente Estatuto tiene por objeto establecer las facultades y funciones que corresponden a la Junta de Gobierno, al Consejero Presidente, las unidades administrativas, los órganos colegiados que integran al Instituto; así como al Órgano Interno de Control, en el marco de las atribuciones que les confiere la normatividad aplicable.
 
 Para efectos del presente Estatuto, se entenderán como funciones de responsabilidad directa aquellas que ejerzan las unidades administrativas en términos de coordinar, dirigir y establecer, entre otras. Como funciones de responsabilidad indirecta, aquellas que realicen en corresponsabilidad con una o más unidades administrativas en términos de colaborar, participar, informar y apoyar.
 
@@ -75,7 +77,7 @@ I. Autoridades Educativas, a la Secretaría de Educación Pública de la Adminis
 
 II. CDINEE, a la Coordinación de Direcciones del INEE en las Entidades Federativas.
 
-III. CI, a la Contraloría Interna, órgano de control, vigilancia, auditoría y fiscalización de las actividades del Instituto.
+III. (DEROGADA, D.O.F. 12 DE MAYO DE 2017)
 
 IV. Conferencia, a la reunión para el intercambio de información y experiencias relativas a la evaluación educativa en el marco del Sistema Nacional de Evaluación Educativa.
 
@@ -143,6 +145,14 @@ XXXV. Junta, a la Junta de Gobierno del Instituto.
 
 XXXVI. Ley, a la Ley del Instituto Nacional para la Evaluación de la Educación.
 
+> <small>(ADICIONADA, D.O.F. 12 DE MAYO DE 2017)</small>
+
+XXXVI. Bis. OIC, al Órgano Interno de Control del Instituto, dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves, para sancionar aquellas distintas a las que son competencia del Tribunal Federal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos federales; presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción;
+
+> <small>(ADICIONADA, D.O.F. 12 DE MAYO DE 2017)</small>
+
+XXXVI. Ter. Protocolos de actuación, documentos que establecen actos de coordinación, entre las unidades administrativas centrales y las direcciones del INEE en las entidades federativas, para llevar a cabo el desarrollo de sus actividades;
+
 XXXVII. Secretaría, a la Secretaría de Educación Pública de la Administración Pública Federal.
 
 XXXVIII. Secretario de Actas, al servidor público del Instituto que coadyuva en el desahogo de los asuntos de los órganos colegiados.
@@ -155,6 +165,10 @@ XLI. Sistema, al Sistema Nacional de Evaluación Educativa constituido en térmi
 
 XLII. Sistema Educativo Nacional, al constituido en términos de lo dispuesto en el artículo 10 de la Ley General de Educación.
 
+> <small>(ADICIONADA, D.O.F. 12 DE MAYO DE 2017)</small>
+
+XLII. Bis. SPD, al Servicio Profesional Docente;
+
 XLIII. UA, Unidad de Administración.
 
 XLIV. UESEN, Unidad de Evaluación del Sistema Educativo Nacional.
@@ -163,7 +177,9 @@ XLV. UIFCE, Unidad de Información y Fomento de la Cultura de la Evaluación.
 
 XLVI. UNPE, Unidad de Normatividad y Política Educativa.
 
-XLVII. Unidades Administrativas, las áreas que se señalan en el artículo 4, en donde se establece la adscripción y subordinación de las unidades, coordinaciones, direcciones generales y direcciones del INEE en las entidades federativas, excepto la Contraloría Interna.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2017)</small>
+
+XLVII. Unidades Administrativas, las áreas que se señalan en el artículo 4, en donde se establece la adscripción y subordinación de las unidades, coordinaciones, direcciones generales y direcciones del INEE en las entidades federativas, excepto el Órgano Interno de Control.
 
 ### CAPÍTULO II. De la Organización del Instituto
 
@@ -239,7 +255,9 @@ f.3 Dirección General de Asuntos Jurídicos;
 
 f.4 Dirección General de Informática y Servicios Técnicos.
 
-V. Contraloría Interna:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE MAYO DE 2017)</small>
+
+V. Órgano Interno de Control:
 
 a. Titular de Auditoría Interna;
 
@@ -247,7 +265,9 @@ b. Titular de Responsabilidades y Quejas;
 
 c. Titular de Control y Evaluación.
 
-El Instituto tendrá direcciones generales adjuntas, direcciones de área, subdirecciones de área, jefaturas de departamento y de proyecto, y el personal necesario para el cumplimiento de sus atribuciones, conforme a lo que se establezca en el Manual de Organización.
+> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 2017)</small>
+
+El Órgano Interno de Control tendrá un Titular que lo representará, contará con la estructura orgánica, el personal y los recursos necesarios para el cumplimiento de su objeto y determinará su organización interna de conformidad con la normatividad aplicable.
 
 ### CAPÍTULO III. De la Coordinación del Sistema Nacional de Evaluación Educativa
 
@@ -345,7 +365,17 @@ XVI. Conocer el avance de los programas de trabajo de las unidades y de las coor
 
 XVII. Autorizar la remuneración a los integrantes de los Consejos Técnicos conforme corresponda a su participación y contribuciones específicas que les hayan sido requeridas;
 
-XVIII. Aprobar los manuales y procedimientos que emita la Contraloría Interna, conforme a las atribuciones que establezca la normatividad en la materia; y
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2017)</small>
+
+XVIII. Aprobar los proyectos de modificación o actualización de la estructura orgánica, personal y/o recursos del OIC de conformidad con la disponibilidad presupuestaria;
+
+> <small>(ADICIONADA, D.O.F. 12 DE MAYO DE 2017)</small>
+
+XVIII Bis. Aprobar a propuesta de su Titular, el anteproyecto de presupuesto del OIC;
+
+> <small>(ADICIONADA, D.O.F. 12 DE MAYO DE 2017)</small>
+
+XVIII Ter. Recibir del Titular del Órgano Interno de Control los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas; y
 
 XIX. Las demás que establezca la Junta mediante acuerdos específicos, en el marco de la normatividad aplicable.
 
@@ -442,6 +472,14 @@ VII. Constituir comités o grupos de trabajo integrados por servidores públicos
 VIII. Nombrar, cesar o remover a los servidores públicos del Instituto cuya designación no sea competencia de la Junta, facultad que podrá delegar en el titular de la Unidad de Administración;
 
 IX. Establecer, previa autorización de la Junta, los lineamientos que regulen las condiciones laborales y de contratación del personal del Instituto; y
+
+> <small>(ADICIONADA, D.O.F. 12 DE MAYO DE 2017)</small>
+
+IX. Bis. Requerir la comparecencia del Titular del Órgano Interno de Control ante la Junta de Gobierno, derivado de los informes previo y anual de resultados de su gestión, así como hacerlos del conocimiento a la Junta;
+
+> <small>(ADICIONADA, D.O.F. 12 DE MAYO DE 2017)</small>
+
+IX. Ter. Recibir del Titular del Órgano Interno de Control los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto, así como hacerlos del conocimiento a la Junta;
 
 X. Las demás que le asigne la Junta.
 
@@ -1017,7 +1055,9 @@ XXVIII. Desarrollar otras actividades que le sean encomendadas por la Junta.
 
 La Dirección General para la Coordinación del Sistema Nacional de Evaluación Educativa tendrá las siguientes funciones:
 
-I. Elaborar propuestas para el diseño, implementación y seguimiento de la Política Nacional de Evaluación de la Educación, con la participación de las unidades administrativas que correspondan;
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2017)</small>
+
+I. Elaborar propuestas para el diseño de la Política Nacional de Evaluación de la Educación y dar seguimiento a su implementación, con la participación de las unidades administrativas que correspondan;
 
 II. Diseñar y dar seguimiento al Programa de Mediano Plazo del Sistema Nacional de Evaluación Educativa, en colaboración con las unidades administrativas que correspondan;
 
@@ -1547,13 +1587,19 @@ La Dirección General para la Integración y Análisis de Información tendrá l
 
 I. Desarrollar, administrar y actualizar el sistema de indicadores educativos de contexto, componentes, procesos y resultados del Sistema Educativo Nacional, en lo referente a la educación obligatoria y su incorporación al SIRE;
 
+> <small>(ADICIONADA, D.O.F. 12 DE MAYO DE 2017)</small>
+
+I. Bis. Definir los criterios y estándares técnicos para el diseño y desarrollo de indicadores para las mediciones y evaluaciones de componentes, procesos y resultados del Sistema Educativo Nacional, con la participación de las unidades administrativas que correspondan;
+
 II. Identificar e integrar información estadística que produce el Instituto y las autoridades educativas y otras instancias nacionales e internacionales. En lo referente a la información que proviene del Sistema Educativo Nacional le corresponde integrar, administrar y actualizar, la estadística educativa oficial en colaboración con la DGSIRE;
 
 III. Elaborar marcos muestrales derivados de la estadística educativa oficial, a solicitud de las áreas interesadas en el diseño muestral que requieran, así como brindar la asesoría técnica;
 
 IV. Colaborar con la DGMTD en el diseño muestral para las evaluaciones y estudios del Instituto, así como brindar la asesoría técnica para asegurar la validez de las inferencias estadísticas;
 
-V. Elaborar criterios estadísticos para la generación, tratamiento, explotación y análisis de la información que requieran las evaluaciones y estudios, con la participación de las unidades administrativas que correspondan;
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2017)</small>
+
+V. Participar en la definición de estándares para el análisis estadístico de los datos secundarios derivados de los resultados de las evaluaciones, con la participación de las unidades administrativas correspondientes;
 
 VI. Analizar la calidad de los datos y las estadísticas educativas, producidas por las unidades administrativas, el sector educativo y otras instituciones nacionales e internacionales y, en su caso, formular recomendaciones técnicas para su mejora;
 
@@ -1693,7 +1739,9 @@ XIV. Coordinar el desarrollo de acciones locales de comunicación social de conf
 
 XV. Apoyar los procesos de supervisión de las evaluaciones de componentes, procesos y resultados del Sistema Educativo Nacional, así como las relativas al SPD, de conformidad con los protocolos que de manera conjunta se establezcan con la UNPE y la UESEN;
 
-XVI. Colaborar conforme a los protocolos que se establezcan de manera conjunta con la UESEN y la UA en las actividades de apoyo logístico; integración de información; capacitación de aplicadores; gestión, dispersión y comprobación de recursos, así como el control y supervisión y otras acciones vinculadas a los procesos de evaluación que se encomienden a las DINEE;
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2017)</small>
+
+XVI. Apoyar el seguimiento de los operativos de levantamiento de datos de las evaluaciones de los componentes, procesos y resultados del Sistema Educativo Nacional, así como los relativos al SPD, implementados por las DINEE, y retroalimentar a las unidades correspondientes para la mejora de los procesos de evaluación, de conformidad con los protocolos que se establezcan de manera conjunta con la UNPE y UESEN;
 
 XVII. Coordinar la organización y seguimiento de la participación de observadores acreditados por el Instituto en los procesos de evaluación vinculados al SPD, de conformidad con los protocolos que se establezcan de manera conjunta con la UNPE;
 
@@ -1715,7 +1763,9 @@ XXIV. Desarrollar otras actividades que le sean encomendadas por la Junta.
 
 Las Direcciones del INEE en las Entidades Federativas tendrán las siguientes funciones:
 
-I. Dar seguimiento a la Política Nacional de Evaluación de la Educación en la entidad federativa;
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2017)</small>
+
+I. Apoyar el seguimiento de la Política Nacional de Evaluación de la Educación en la entidad federativa;
 
 II. Realizar acciones de vinculación con las diversas instancias que en el ámbito estatal estén relacionadas con la evaluación del Sistema Educativo Nacional y del SPD;
 
@@ -1727,11 +1777,15 @@ V. Proponer a la CDINEE la suscripción de convenios de colaboración con divers
 
 VI. Difundir la información que genere el Instituto, así como la de otros proyectos en los que participe y promover su uso, de conformidad con los protocolos que establezca la DGDFCE;
 
-VII. Dar seguimiento a la difusión de directrices para la mejora educativa que se emitan, de conformidad con los protocolos que establezca la DGDME y la DGDFCE;
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2017)</small>
+
+VII. Apoyar el seguimiento de las directrices para la mejora educativa que se emitan, de conformidad con los protocolos que establezca la DGDME y la DGDFCE;
 
 VIII. Implementar mecanismos de diálogo con las autoridades educativas locales y los centros escolares para promover la cultura de la evaluación y el uso de la información que genere el Instituto;
 
-IX. Realizar las acciones de formación y certificación de evaluadores, de conformidad con los protocolos que se establezcan de manera conjunta con las unidades administrativas que correspondan;
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2017)</small>
+
+IX. Apoyar acciones de formación y certificación de evaluadores, de conformidad con los protocolos que se establezcan de manera conjunta con las unidades administrativas que correspondan;
 
 X. Realizar las acciones locales de comunicación social, en el ámbito de su competencia, de conformidad con los protocolos establecidos;
 
@@ -1757,7 +1811,9 @@ La Unidad de Administración tendrá las siguientes funciones:
 
 I. Programar, administrar y controlar los recursos humanos, presupuesto, recursos financieros, bienes y servicios, servicios tecnológicos, asuntos jurídicos y mejora de la gestión del Instituto;
 
-II. Coordinar y proponer los lineamientos para llevar a cabo los procesos de planeación y programación, así como dar seguimiento a su implementación, con la participación de las unidades administrativas;
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2017)</small>
+
+II. Coordinar y proponer las disposiciones para llevar a cabo los procesos de planeación y programación, así como dar seguimiento a su implementación, con la participación de las unidades administrativas;
 
 III. Dirigir la integración del Programa Estratégico de Desarrollo Institucional y la determinación de los indicadores de desempeño, así como dar seguimiento a su implementación;
 
@@ -1803,7 +1859,9 @@ La Dirección General de Planeación, Evaluación y Organización tendrá las si
 
 I. Definir, formular e integrar el Programa Estratégico de Desarrollo Institucional y la determinación de los indicadores de desempeño, así como dar seguimiento a su implementación;
 
-II. Definir el modelo, lineamientos e instrumentos de planeación, programación, presupuestación, organización y evaluación, así como los indicadores y lineamientos para el seguimiento y evaluación de los programas, planes y proyectos del Instituto, con la participación de las unidades administrativas;
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2017)</small>
+
+II. Proponer el modelo, disposiciones e instrumentos de planeación, programación, presupuestación, organización y evaluación, así como los indicadores y lineamientos para el seguimiento y evaluación de los programas, planes y proyectos del Instituto, con la participación de las unidades administrativas;
 
 III. Dirigir las actividades de planeación, programación, presupuestación, organización y evaluación, conforme a los objetivos, estrategias y prioridades establecidos en el Programa Estratégico de Desarrollo Institucional, con la participación de las unidades administrativas;
 
@@ -1811,7 +1869,9 @@ IV. Supervisar la elaboración y seguimiento de las matrices de indicadores para
 
 V. Integrar, formular y coordinar la elaboración y seguimiento del Programa de Trabajo Anual, garantizando su alineación con el Programa Estratégico de Desarrollo Institucional, en coordinación con las unidades administrativas;
 
-VI. Definir lineamientos para integrar el Programa de Trabajo Anual y el proyecto de presupuesto anual del Instituto, en colaboración con la DGAF;
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2017)</small>
+
+VI. Proponer disposiciones para integrar el Programa de Trabajo Anual y el proyecto de presupuesto anual del Instituto, en colaboración con la DGAF;
 
 VII. Integrar el anteproyecto de presupuesto anual del Instituto, con base en los proyectos planteados por las unidades administrativas del Instituto, con la colaboración de la DGAF;
 
@@ -1861,7 +1921,9 @@ La Dirección General de Administración y Finanzas tendrá las siguientes funci
 
 I. Coordinar la atención de las necesidades administrativas relacionadas con los recursos humanos, financieros y materiales de las unidades administrativas del Instituto;
 
-II. Colaborar en la definición de lineamientos para integrar el Programa de Trabajo Anual y el proyecto de presupuesto anual del Instituto, con la DGPEO;
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2017)</small>
+
+II. Colaborar en la definición de las disposiciones para integrar el Programa de Trabajo Anual y el proyecto de presupuesto anual del Instituto, con la DGPEO;
 
 III. Colaborar con la DGPEO en la integración del anteproyecto de presupuesto anual del Instituto;
 
@@ -1915,7 +1977,9 @@ II. Elaborar los informes previos y justificados en los juicios de amparo, cuand
 
 III. Representar legalmente al Instituto en toda clase de juicios, procedimientos administrativos e investigaciones ante los tribunales y otras autoridades competentes; ejercitar las acciones, excepciones y defensas que competan al Instituto; coordinar la elaboración de escritos de demanda o contestación en toda clase de procedimientos judiciales o contencioso-administrativos, autorizar y proponer la designación de abogados, ofrecer pruebas, absolver posiciones, formular alegatos e interponer todo tipo de recursos que procedan ante los citados tribunales y autoridades; y, en general, atender la tramitación de los juicios y procedimientos y dar cumplimiento a las resoluciones que en ellos se pronuncien; así como coordinar la defensa en los juicios promovidos en el extranjero en que sea parte el Instituto;
 
-IV. Presentar denuncias o querellas ante el Ministerio Público competente, respecto de hechos que en los que el Instituto haya resultado ofendido o tenga interés; además de aquellos que así lo ameriten por indicación del Contralor Interno; asimismo, coordinar la coadyuvancia con el Ministerio Público en los procesos penales y, cuando proceda, autorizar el otorgamiento del perdón, desistimientos y conciliaciones en beneficio del Instituto;
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2017)</small>
+
+IV. Presentar denuncias o querellas ante el Ministerio Público competente, respecto de hechos en los que el Instituto haya resultado ofendido o tenga interés; además de aquellos que así lo ameriten por conocimiento del Titular del Órgano Interno de Control; asimismo, coordinar la coadyuvancia con el Ministerio Público en los procesos penales y, cuando proceda, autorizar el otorgamiento del perdón, desistimientos y conciliaciones en beneficio del Instituto;
 
 V. Asesorar en materia jurídica al Consejero Presidente y a los Consejeros;
 
@@ -1987,143 +2051,237 @@ XV. Proponer acciones de vinculación con instituciones y organizaciones de la s
 
 XVI. Desarrollar otras funciones que le sean encomendadas por su Titular.
 
-### CAPÍTULO XVII. De la Contraloría Interna
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 12 DE MAYO DE 2017)</small>
+
+### CAPÍTULO XVII. Del Órgano Interno de Control
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 84.
 
-La Contraloría Interna es el órgano de control, vigilancia, auditoría y fiscalización de las actividades del Instituto, tendrá competencia para llevar a cabo las actividades de control interno, ordenar la práctica de auditorías, visitas de inspección y otras intervenciones, recibir e investigar quejas y denuncias, instruir procedimientos de responsabilidad administrativa, de sanción a licitantes y proveedores, y el administrativo sancionador en materia anticorrupción, de conformidad con las disposiciones jurídicas aplicables; así como conocer y resolver las inconformidades, conciliaciones e intervenciones de oficio.
+El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves, para sancionar aquellas distintas a las que son competencia del Tribunal Federal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos federales; presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción; promover, evaluar y fortalecer el buen funcionamiento del control interno institucional; ordenar la práctica de auditorías, visitas de verificación; iniciar, tramitar y resolver los procedimientos de sanción a licitantes y proveedores; conocer y resolver las inconformidades, conciliaciones e intervenciones de oficio, de conformidad con las disposiciones jurídicas aplicables; realizar la defensa jurídica de las resoluciones que emita.
 
-Asimismo, la Contraloría Interna deberá establecer y llevar el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Instituto.
+Asimismo, inscribir y mantener actualizada en el sistema de evolución patrimonial, de declaración de intereses y constancia de declaración fiscal la información correspondiente a los declarantes del Instituto. De igual manera, verificará la situación o posible actualización de algún Conflicto de Interés según la información proporcionada, llevará el seguimiento de la evolución y la verificación de la situación patrimonial de los declarantes en términos de las disposiciones legales aplicables.
+
+En el desempeño de su cargo, el Titular del Órgano Interno de Control se sujetará a los principios previstos en los ordenamientos legales en materia de responsabilidades administrativas.
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 85.
 
-Adicionalmente, la vigilancia del Instituto estará encomendada a un Auditor externo nombrado por la Junta entre una terna de empresas de auditoría de reconocido prestigio a propuesta del Contralor Interno. Al menos cada tres años se deberá designar a un nuevo Auditor Externo.
+Adicionalmente, la vigilancia del Instituto estará encomendada a un auditor externo nombrado por la Junta entre una terna de empresas de auditoría de reconocido prestigio a propuesta del Titular del Órgano Interno de Control.
 
-La Contraloría Interna de manera conjunta con la Unidad de Administración evaluarán anualmente el desempeño de los Auditores Externos informando de ello a la Junta.
+El OIC de manera conjunta con la Unidad de Administración evaluarán anualmente el desempeño de los Auditores Externos informando de ello a la Junta.
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 86.
 
-La Contraloría Interna del Instituto estará a cargo de un Titular, el cual contará con las siguientes facultades y funciones:
+El OIC del Instituto estará a cargo de un Titular, el cual contará con las siguientes facultades y funciones:
 
-I. Vigilar que las operaciones, programas y proyectos del Instituto se desarrollen de conformidad con la Ley y demás normatividad que le sea aplicable, así como llevar a cabo programas específicos tendientes a verificar el cumplimiento de las obligaciones a cargo de los servidores públicos del Instituto;
+I. Las que contempla el ordenamiento legal en materia de responsabilidades administrativas;
 
-II. Proponer las normas, manuales de organización y procedimientos correspondientes a la CI;
+II. Verificar que el ejercicio de gasto del Instituto se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
 
-III. Presentar a la Junta para su aprobación, por conducto del Consejero Presidente, el anteproyecto de presupuesto para cubrir los recursos humanos, materiales y financieros para el adecuado funcionamiento de la CI;
+III. Ordenar y coordinar auditorías y visitas de verificación para la correcta y legal aplicación de los recursos y bienes del Instituto;
 
-IV. Evaluar el control interno del Instituto, promover su mejora continua y orientar a las unidades administrativas en la identificación de riesgos;
+IV. Presentar a la Junta los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del instituto; por conducto del Consejero Presidente;
 
-V. Ordenar y coordinar la realización de las auditorías, investigaciones, visitas de inspección y otras intervenciones a las unidades administrativas, e informar de sus resultados a la Junta, por conducto del Consejero Presidente;
+V. Revisar que las operaciones presupuestales que realice el Instituto, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
 
-VI. Instruir, coordinar y llevar a cabo investigaciones para la atención de quejas y denuncias;
+VI. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
 
-VII. Instruir procedimientos de responsabilidad administrativa, de sanción a licitantes y proveedores, y el administrativo sancionador en materia anticorrupción, de conformidad con las disposiciones jurídicas aplicables; así como, conocer de inconformidades, conciliaciones e intervenciones de oficio;
+VII. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto;
 
-VIII. Instruir y resolver los recursos de revocación y, en su caso, de revisión que se interpongan en contra de las resoluciones; así como, la defensa jurídica de éstas ante las diversas instancias jurisdiccionales;
+VIII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que éste determine;
 
-IX. Expedir copias certificadas de los documentos que obren en los archivos de la CI del Instituto, de conformidad con la normatividad aplicable;
+IX. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto, empleando la metodología que determine;
 
-X. Denunciar ante las autoridades competentes los hechos de los que tenga conocimiento y que puedan ser constitutivos de delito o, en su defecto, instar a la UA a formular las querellas a que haya lugar, cuando las conductas ilícitas así lo requieran;
+X. Recibir quejas y denuncias conforme a la normatividad aplicable;
 
-XI. Aportar elementos a la Junta para nombrar al auditor externo y coordinar con la participación de la UA los trabajos que deberá desarrollar el auditor externo;
+XI. Solicitar la información y efectuar visitas a las unidades administrativas y órganos del Instituto para el cumplimento de sus funciones;
 
-XII. Designar al personal de la CI para participar en los actos de entrega-recepción de los servidores públicos del Instituto;
+XII. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicios y obras públicas; los procedimientos de sanción a licitantes y proveedores, así como, conocer de conciliaciones e intervenciones de oficio, de conformidad con las disposiciones jurídicas aplicables;
 
-XIII. Atender las solicitudes de la Junta y asesorar a las áreas que lo requieran;
+XIII. Intervenir y designar al personal del OIC que participará en los actos de entrega-recepción de los servidores públicos del Instituto de mandos medios y superiores, en los términos de la normativa aplicable;
 
-XIV. Ejercer las facultades y funciones que le correspondan del artículo 57; y
+XIV. Participar, conforme a las disposiciones vigentes, en los comités y subcomités en los que el OIC forme parte; e intervenir en los actos que deriven de los mismos;
 
-XV. Las demás que le confieran las leyes, el presente Estatuto y las disposiciones normativas y administrativas aplicables, así como las que les competan a los Titulares de Auditoría Interna; Responsabilidades y Quejas y de Control y Evaluación.
+XV. Atender conforme a su competencia las solicitudes de información y datos que le sean requeridos al OIC, de acuerdo a la normatividad en materia de transparencia;
+
+XVI. Atender las solicitudes de las diferentes unidades administrativas y órganos del Instituto, en los asuntos de su competencia;
+
+XVII. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
+
+XVIII. Formular su anteproyecto de presupuesto para cubrir los recursos humanos, materiales y financieros para el adecuado funcionamiento del OIC;
+
+XIX. Presentar a la Junta los informes previo y anual de resultados de su gestión, y comparecer ante la misma, cuando así lo requiera el Consejero Presidente;
+
+XX. Presentar a la Junta los informes respecto de los expedientes relativos a las faltas administrativas y en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas;
+
+XXI. Instruir, coordinar y llevar a cabo la investigación, substanciación y resolución de los procedimientos de responsabilidad administrativa en los términos previstos por los ordenamientos legales aplicables;
+
+XXII. Aportar elementos a la Junta para nombrar al auditor externo y coordinar con la participación de la UA los trabajos que deberá desarrollar el auditor externo;
+
+XXIII. Instruir y resolver los recursos que se interpongan en contra de las resoluciones que emita el OIC; de conformidad con la normatividad aplicable;
+
+XXIV. Realizar la defensa jurídica de las resoluciones y demás actos que emita el OIC ante las diversas instancias jurisdiccionales;
+
+XXV. Denunciar ante la Fiscalía Especializada en Combate a la Corrupción los hechos u omisiones de los que tenga conocimiento y que puedan ser constitutivos de delito o, en su caso, hacer del conocimiento a la DGAJ para la presentación de denuncias o querellas respecto de hechos en los que el Instituto haya resultado ofendido o tenga interés, además de aquellos que así lo ameriten;
+
+XXVI. Promover, evaluar y fortalecer el buen funcionamiento del control interno del Instituto;
+
+XXVII. Expedir copias certificadas de los documentos que obren en los archivos del OIC, de conformidad con la normatividad aplicable;
+
+XXVIII. Designar a los Titulares de Área de la Estructura Orgánica del OIC autorizada e informar a la Junta de Gobierno por conducto del Consejero Presidente. Por lo que se refiere al demás personal, lo designará sin perjuicio de las propuestas que, en su caso le formulen los titulares de sus respectivas áreas;
+
+XXIX. Aprobar las normas, manuales de organización y procedimientos, acuerdos, circulares, lineamientos y demás normatividad interna correspondientes al OIC; proponer, a la Junta de Gobierno el suscribir convenios de colaboración; así como fijar, dirigir y controlar su política, de conformidad con los objetivos, estrategias y prioridades del Programa Anual de Trabajo;
+
+XXX. Emitir los lineamientos generales de prevención y rendición de cuentas de los servidores públicos;
+
+XXXI. Emitir el Código de Ética y Conducta conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, así como hacerse del conocimiento de los servidores públicos del Instituto y darle la máxima publicidad;
+
+XXXII. Inscribir y mantener actualizada la información correspondiente del sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, de los servidores públicos del Instituto, de conformidad con las leyes aplicables vigentes;
+
+XXXIII. Emitir recomendaciones y observaciones, así como verificar que se cumplan en el ámbito de su competencia, las emitidas por cualquier otro órgano fiscalizador; y
+
+XXXIV. Las demás que le confieran las leyes, el presente Estatuto y las disposiciones normativas y administrativas aplicables.
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 87.
 
-El Titular de la Contraloría Interna, para el mejor desempeño de sus atribuciones, se auxiliará de los Titulares de Auditoría Interna; Responsabilidades y Quejas y de Control y Evaluación.
+El Titular del Órgano Interno de Control, para el mejor desempeño de sus atribuciones, se auxiliará de los Titulares de Auditoría Interna; Responsabilidades y Quejas y de Control y Evaluación.
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 88.
 
 El Titular de Auditoría Interna tendrá las siguientes facultades y funciones:
 
-I. Proponer al Contralor Interno las auditorías, visitas de inspección y otras intervenciones que deban integrarse al Programa de Trabajo Anual y al Programa Anual de Auditoría Interna;
+I. Proponer al Titular del Órgano Interno de Control:
 
-II. Ordenar la realización de auditorías, visitas de inspección y otras intervenciones a las unidades administrativas del Instituto, a efecto de:
+a. Las auditorías y visitas de verificación que deban integrarse al Programa de Trabajo Anual y al Programa Anual de Auditoría Interna;
 
-a. Verificar el logro eficiente, eficaz y económico de sus metas y objetivos; el cumplimiento de las disposiciones de la Ley y demás normatividad aplicable; y
+b. Los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto, para su presentación a la Junta; y
 
-b. Verificar que la información contable, presupuestal y financiera del Instituto refleje en forma razonable su situación conforme a la Ley General de Contabilidad Gubernamental y demás normatividad aplicable.
+c. La promoción ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías.
 
-III. Requerir a las unidades administrativas que se auditen la entrega de información y documentación necesaria para el cumplimiento de sus facultades; solicitar a proveedores y contratistas los datos e informes que se requieran, en términos de las disposiciones normativas aplicables; así como, en los casos necesarios certificar copias de la documentación correspondiente;
+II. Coordinar la realización de las auditorías y visitas de verificación a las unidades administrativas y órganos del Instituto, a efecto de:
 
-IV. Concluido el proceso de auditoría, coordinará la elaboración y entrega del informe preliminar de auditoría a las unidades auditadas para dar a conocer los resultados y recomendaciones de las auditorías, visitas de inspección y otras intervenciones, a fin de que aquellas presenten sus comentarios, previo a la emisión del informe final;
+a. Verificar que el ejercicio del gasto del Instituto se realice conforme a la normatividad aplicable, los programas aprobados y los montos autorizados;
 
-V. Verificar y promover que las unidades auditadas cumplan con las recomendaciones emitidas por la Contraloría, la Auditoría Superior de la Federación y el auditor externo;
+b. Verificar el cumplimiento eficiente, eficaz y económico de las metas y objetivos fijados en los programas presupuestarios del Instituto; el cumplimiento de las disposiciones de la Ley y demás normatividad aplicable;
 
-VI. Integrar los expedientes de presuntas responsabilidades de los servidores públicos del Instituto, detectadas en las auditorías, visitas de inspección y otras intervenciones, y remitirlos al Titular de Responsabilidades y Quejas para los efectos de su competencia. Hacer del conocimiento del Contralor Interno los presuntos hechos ilícitos, integrando el expediente respectivo para los efectos a que haya lugar. Asimismo, coordinará la emisión de los dictámenes técnicos y contables que soliciten las autoridades competentes;
+c. Verificar que la información contable, presupuestal y financiera del Instituto refleje en forma razonable su situación conforme a la Ley General de Contabilidad Gubernamental y demás normatividad aplicable;
 
-VII. De conformidad con la esfera de su atribución deberá:
+d. Revisar que las operaciones presupuestales que realice el Instituto, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen; e
+
+e. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto.
+
+III. Evaluar los Informes de Avance de la Gestión Financiera respecto de los programas autorizados y los relativos a procesos concluidos;
+
+IV. Establecer la metodología para el análisis de la gestión financiera;
+
+V. Requerir a las unidades administrativas y órganos del Instituto la entrega de información y documentación necesaria para el cumplimiento de sus facultades; efectuar visitas de verificación y solicitar a proveedores y contratistas los datos e informes que se requieran, en términos de las disposiciones normativas aplicables; así como, en los casos necesarios, certificar copias de la documentación correspondiente;
+
+VI. Concluido el proceso de auditoría, coordinar la elaboración y entrega del informe preliminar de auditoría a las unidades auditadas para dar a conocer los resultados y recomendaciones de las auditorias y visitas de verificación, a fin de que aquellas presenten sus comentarios, previo a la emisión del informe final;
+
+VII. Emitir recomendaciones y observaciones, así como verificar y promover que las unidades auditadas cumplan con las recomendaciones y observaciones emitidas por el OIC y por cualquier otro órgano fiscalizador;
+
+VIII. Integrar los expedientes de presuntas responsabilidades de los servidores públicos del Instituto, detectadas en las auditorías, visitas de verificación y otras intervenciones, de conformidad con las disposiciones jurídicas aplicables, y remitirlos al Titular de Responsabilidades y Quejas para los efectos de su competencia. Hacer del conocimiento del Titular del Órgano Interno de Control los presuntos hechos ilícitos, integrando el expediente respectivo para los efectos a que haya lugar. Asimismo, coordinar la emisión de los dictámenes técnicos y contables que soliciten las autoridades competentes;
+
+IX. De conformidad con la esfera de su atribución deberá:
 
 a. Supervisar los avances de las auditorías que practique el auditor externo, verificar su conclusión y la entrega de los informes respectivos; y
 
-b. Coordinar la participación del personal a su cargo en los actos de entrega-recepción de los servidores públicos del Instituto.
+b. Coordinar la participación del personal a su cargo en los actos de entrega-recepción de los servidores públicos de mandos medios y superiores del Instituto, de conformidad con la normativa aplicable.
 
-VIII. Llevar el registro de los asuntos de su competencia y expedir copias certificadas de los documentos que obran en sus archivos, en términos de la normatividad aplicable.
+X. Llevar el registro de los asuntos de su competencia y expedir copias certificadas de los documentos que obran en sus archivos, en términos de la normatividad aplicable;
 
-IX. Atender las solicitudes de información y datos que le sean requeridos a la CI, de acuerdo a la normatividad en materia de transparencia;
+XI. Atender conforme a su competencia las solicitudes de información y datos que le sean requeridos al OIC, de acuerdo a la normatividad en materia de transparencia;
 
-X. Ejercer las facultades y funciones que le correspondan del artículo 58; y
+XII. Atender las solicitudes de las diferentes unidades administrativas y órganos del Instituto en los asuntos de su competencia;
 
-XI. Las demás que le confiera el Contralor Interno o establezcan las disposiciones legales y administrativas aplicables.
+XIII. Solicitar la información y efectuar visitas de verificación a las unidades administrativas y órganos del Instituto para el cumplimiento de sus funciones;
+
+XIV. Hacer del conocimiento del Titular del Órgano Interno de Control presuntos hechos constitutivos de delito a efecto de que se presente la Denuncia ante la Fiscalía Especializada en Combate a la Corrupción o, en su caso, hacer del conocimiento de la DGAJ para la presentación de denuncias o querellas respecto de hechos en los que el Instituto haya resultado ofendido o tenga interés, además de aquellos que así lo ameriten; y
+
+XV. Las demás que le confiera el Titular del Órgano Interno de Control conforme a las disposiciones legales y administrativas aplicables.
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 89.
 
 El Titular de Responsabilidades y Quejas tendrá las siguientes facultades y funciones:
 
-I. Recibir e investigar las quejas y denuncias presentadas en contra de los servidores públicos del Instituto, conforme a la normatividad aplicable.
+I. Recibir, investigar y resolver las quejas y denuncias, conforme a la normatividad aplicable;
 
-II. Instruir procedimientos de responsabilidad administrativa a los servidores públicos del Instituto, de sanción a licitantes y proveedores, y el administrativo sancionador en materia anticorrupción, de conformidad con las disposiciones jurídicas aplicables; así como, conocer, tramitar y resolver las inconformidades, conciliaciones e intervenciones de oficio;
+II. Solicitar la información y efectuar visitas de verificación a las unidades administrativas y órganos del Instituto para el cumplimento de sus funciones;
 
-III. Instruir y resolver los recursos de revocación y, en su caso, revisión que interpongan en contra de sus resoluciones; así como realizar la defensa jurídica de las mismas, ante las diversas instancias jurisdiccionales; y representar en su caso, al Contralor Interno en los procedimientos administrativos y jurisdiccionales, según corresponda;
+III. Participar por instrucciones del Titular del Órgano Interno de Control, conforme a las disposiciones vigentes, en los comités y subcomités en los que el OIC forme parte;
 
-IV. Administrar el Sistema DeclaraINEE, a efecto de recibir, registrar y resguardar las declaraciones de situación patrimonial presentadas por los servidores públicos obligados del Instituto.
+IV. Substanciar y resolver los procedimientos de responsabilidad administrativa en los términos previstos por los ordenamientos legales aplicables;
 
-V. Ordenar el análisis de la evolución patrimonial y, en su caso instruir las investigaciones correspondientes en términos de la normatividad aplicable;
+V. Substanciar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicios y obras públicas; incluido el de sanción a licitantes y proveedores, así como, conocer de conciliaciones e intervenciones de oficio, de conformidad con las disposiciones jurídicas aplicables;
 
-VI. Coordinar y supervisar la recepción, registro, seguimiento, control y destino de los obsequios, donativos o beneficios en términos de la normatividad aplicable;
+VI. Instruir y resolver los recursos que se interpongan en contra de sus resoluciones de conformidad con la normatividad aplicable; así como realizar la defensa jurídica de las mismas, ante las diversas instancias jurisdiccionales; y representar en su caso, al Titular del Órgano Interno de Control en los procedimientos administrativos y jurisdiccionales, según corresponda;
 
-VII. Administrar los sistemas y registros de servidores públicos y de proveedores y contratistas sancionados, así como expedir constancias relativas en términos de la normatividad aplicable;
+VII. Administrar el Sistema DeclaraINEE, a efecto de recibir, registrar y resguardar las declaraciones de situación patrimonial presentadas por los servidores públicos obligados del Instituto. Ordenar el análisis de la evolución patrimonial y, en su caso instruir las investigaciones correspondientes en términos de la normatividad aplicable;
 
-VIII. Atender las solicitudes de información y datos que le sean requeridos a la CI, de acuerdo a la normatividad en materia de transparencia;
+VIII. Inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, de los servidores públicos del Instituto, de conformidad con las Leyes aplicables;
 
-IX. Llevar los registros de los asuntos de su competencia y expedir copias certificadas de los documentos que obren en sus archivos, de conformidad con la normatividad aplicable;
+IX. Hacer del conocimiento del Titular del Órgano Interno de Control presuntos hechos constitutivos de delito a efecto de que se presente la Denuncia ante la Fiscalía Especializada en Combate a la Corrupción o, en su caso, hacer del conocimiento de la DGAJ para la presentación de denuncias o querellas respecto de hechos en los que el Instituto haya resultado ofendido o tenga interés, además de aquellos que así lo ameriten;
 
-X. Ejercer las facultades y funciones que le correspondan del artículo 58; y
+X. Coordinar y supervisar la recepción, registro, seguimiento, control y destino de los obsequios, donativos o beneficios en los términos de la normatividad aplicable;
 
-XI. Las demás que le confiera el Contralor Interno o establezcan las disposiciones legales y administrativas aplicables.
+XI. Administrar los sistemas y registros de servidores públicos y de proveedores y licitantes sancionados, así como expedir constancias relativas en términos de la normatividad aplicable;
+
+XII. Atender conforme a su competencia las solicitudes de información y datos que le sean requeridos al OIC, de acuerdo a la normatividad en materia de transparencia;
+
+XIII. Atender las solicitudes de las diferentes unidades administrativas y órganos del Instituto en los asuntos de su competencia;
+
+XIV. Llevar los registros de los asuntos de su competencia y expedir copias certificadas de los documentos que obren en sus archivos, de conformidad con la normatividad aplicable;
+
+XV. Proponer al Titular del Órgano Interno de Control los Informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas;
+
+XVI. Proponer al Titular del Órgano Interno de Control la promoción ante las instancias correspondientes las acciones administrativas y legales que se deriven de los resultados de las auditorías; y
+
+XVII. Las demás que le confiera el Titular del Órgano Interno de Control conforme a las disposiciones legales y administrativas aplicables.
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2017)</small>
 
 ###### Artículo 90.
 
 El Titular de Control y Evaluación tendrá las siguientes facultades y funciones:
 
-I. Proponer al Contralor Interno las intervenciones y actividades de control interno, evaluación, simplificación administrativa, auditorías de desempeño, revisiones de control, diagnósticos y visitas de inspección y promoción de eficiencia que deban formar parte del Programa de Trabajo Anual de la Contraloría Interna;
+I. Proponer al Titular del Órgano Interno de Control las actividades para el funcionamiento del control interno que deban formar parte del Programa de Trabajo Anual del OIC;
 
-II. Verificar y promover que las unidades administrativas cumplan las recomendaciones emitidas por la Auditoría Superior de la Federación, la Contraloría, y el auditor externo;
+II. Verificar y promover que las unidades administrativas cumplan con las acciones de mejora, recomendaciones y observaciones emitidas por el OIC y cualquier otro órgano fiscalizador;
 
-III. Coordinar la elaboración y entrega del informe preliminar de auditoría de desempeño a las unidades administrativas auditadas para dar a conocer los resultados y recomendaciones con el fin de que aquellas lo revisen y en su caso formulen sus comentarios y a partir de ello se integre el informe final;
+III. Coordinar la planeación, ejecución de diagnósticos, revisiones de control y auditorias de desempeño hasta la elaboración y entrega del informe final, así como el seguimiento correspondiente, a efecto de promover, evaluar y fortalecer el control interno;
 
-IV. Orientar a las unidades administrativas del Instituto en la identificación de riesgos que amenacen el logro de sus metas y objetivos, así como sugerir las medidas necesarias para su mejor administración;
+IV. Promover entre las unidades administrativas del Instituto la implementación del control interno para el fortalecimiento institucional;
 
-V. Promover y evaluar el control interno y el desempeño institucional para fortalecer el proceso administrativo integral del Instituto, así como promover el apego a la legalidad, la transparencia y el comportamiento ético de los servidores públicos de éste;
+V. Evaluar el control interno, así como impulsar el apego a los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público;
 
-VI. Asesorar a las unidades administrativas del Instituto en la emisión de disposiciones para regular su operación y funcionamiento, así como promover la simplificación de la normatividad interna;
+VI. Atender conforme a su competencia las solicitudes de información y datos que le sean requeridos al OIC, de acuerdo a la normatividad en materia de transparencia;
 
-VII. Asesorar a las áreas correspondientes en los procesos de adquisición o arrendamiento de bienes y contratación de servicios u obras públicas, así como en los procesos de baja y destino final de bienes y finiquito de los contratos de servicios;
+VII. Llevar los registros de los asuntos de su competencia y expedir copias certificadas de los documentos que obren en sus archivos, de conformidad con la normatividad aplicable;
 
-VIII. Atender las solicitudes de información y datos que le sean requeridos a la CI, de acuerdo a la normatividad en materia de transparencia;
+VIII. Elaborar y presentar al Titular del Órgano Interno de Control los informes de las revisiones, diagnósticos y auditorías de desempeño que se realicen, para verificar la correcta y legal aplicación de los recursos y bienes para el fortalecimiento del control interno;
 
-IX. Llevar los registros de los asuntos de su competencia y expedir copias certificadas de los documentos que obren en sus archivos, de conformidad con la normatividad aplicable;
+IX. Solicitar la información y efectuar visitas de verificación a las unidades administrativas y órganos del Instituto para el cumplimento de sus funciones;
 
-X. Ejercer las facultades y funciones que le correspondan del artículo 58; y
+X. Atender las solicitudes de las diferentes unidades administrativas y órganos del Instituto en los asuntos de su competencia;
 
-XI. Las demás que le confiera el Contralor Interno o establezcan las disposiciones legales y administrativas aplicables.
+XI. Coordinar e integrar el anteproyecto del presupuesto del OIC y someterlo a consideración del Titular;
+
+XII. Coordinar y elaborar los informes previo y anual de resultados de la gestión del OIC y someterlo a consideración del Titular;
+
+XIII. Hacer del conocimiento del Titular del Órgano Interno de Control presuntos hechos constitutivos de delito a efecto de que se presente la denuncia ante la Fiscalía Especializada en Combate a la Corrupción o, en su caso, hacer del conocimiento de la DGAJ para la presentación de denuncias o querellas respecto de hechos en los que el Instituto haya resultado ofendido o tenga interés, además de aquellos que así lo ameriten; y
+
+XIV. Las demás que le confiera el Titular del Órgano Interno de Control conforme a las disposiciones legales y administrativas aplicables.
 
 ### CAPÍTULO XVIII. De los Órganos en Materia de Transparencia, Acceso a la Información y Protección de Datos Personales
 
@@ -2135,9 +2293,11 @@ El Instituto contará con una Unidad de Transparencia y un Comité de Transparen
 
 El titular de la Unidad de Administración fungirá como titular de la Unidad de Transparencia.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2017)</small>
+
 ###### Artículo 93.
 
-El Comité de Transparencia estará integrado por el titular de la Unidad de Transparencia, quien fungirá como Presidente, el titular de la unidad que determine la Junta y el Titular de la Contraloría Interna.
+El Comité de Transparencia estará integrado por el Titular de la Unidad de Transparencia, quien fungirá como Presidente, el titular de la unidad que determine la Junta y el Titular del Órgano Interno de Control.
 
 ### CAPÍTULO XIX. De la Suplencia por Ausencia
 
@@ -2153,9 +2313,11 @@ III. Los demás servidores públicos del Instituto serán suplidos por el servid
 
 IV. El Secretario Técnico de la Junta, de la Conferencia y del Consejo Social, así como los Secretarios de Actas de los órganos colegiados del Instituto, serán suplidos por los servidores públicos que designe la Junta.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2017)</small>
+
 ###### Artículo 95.
 
-Las ausencias del Contralor Interno serán suplidas en el siguiente orden de prelación: por los Titulares de Responsabilidades y Quejas, de Auditoría Interna, y de Control y Evaluación.
+Las ausencias del Titular del Órgano Interno de Control serán suplidas en el siguiente orden de prelación: por los Titulares de Responsabilidades y Quejas, de Auditoría Interna y de Control y Evaluación.
 
 ### CAPÍTULO XX. De las Modificaciones al Estatuto
 
@@ -2188,3 +2350,21 @@ SEXTO.- Se instruye a la Unidad de Administración para que, en un término no m
 SÉPTIMO.- Se instruye a la Dirección General de Asuntos Jurídicos para que realice las gestiones necesarias a efecto de que el presente Estatuto se publique en el Diario Oficial de la Federación.
 
 Ciudad de México, a veintitrés de enero de dos mil diecisiete.- Así lo aprobó la Junta de Gobierno del Instituto Nacional para la Evaluación de la Educación en la Segunda Sesión Extraordinaria de dos mil diecisiete, celebrada el veintitrés de enero de dos mil diecisiete.- Acuerdo número SEJG/02-17/02,R. La Consejera Presidenta, Sylvia Irene Schmelkes del Valle.- Rúbrica.- Los Consejeros: Eduardo Backhoff Escudero, Teresa Bracho González, Gilberto Ramón Guevara Niebla, Margarita María Zorrilla Fierro.- Rúbricas.- El Director General de Asuntos Jurídicos, Agustín E. Carrillo Suárez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 12 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- De conformidad con el artículo 98 del Estatuto Orgánico del Instituto Nacional para la Evaluación de la Educación, una vez que se publique en el Diario Oficial de la Federación el presente Acuerdo, difúndase éste en la página de Internet del Instituto.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias que se opongan a lo dispuesto en el presente Estatuto.
+
+CUARTO.- Las menciones que en otras disposiciones legales y administrativas se hagan a la Contraloría Interna del Instituto Nacional para la Evaluación de la Educación, se entenderán referidas al Órgano Interno de Control del Instituto Nacional para la Evaluación de la Educación, hasta en tanto se armonice la normatividad interna en los términos del DECRETO por el que se reforman, adicionan y derogan diversas disposiciones, entre las que se encuentra la Ley del Instituto Nacional para la Evaluación de la Educación, publicado en el Diario Oficial de la Federación el 27 de enero de 2017.
+
+QUINTO.- Se instruye a la Unidad de Administración para que, en el término señalado en el transitorio tercero del DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley, expida el Manual de Organización del Instituto, conforme al presente Estatuto.
+
+SEXTO.- Se instruye a la Dirección General de Asuntos Jurídicos para que realice las gestiones necesarias a efecto de que el presente Estatuto se publique en el Diario Oficial de la Federación.
