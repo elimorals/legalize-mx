@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2016-01-30"
+last_updated: "2017-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -307,9 +307,13 @@ Todo el que conforme a la ley esté en el pleno ejercicio de sus derechos civile
 
 Por los que no se hallen en el caso del artículo anterior comparecerán sus representantes legítimos o los que deban suplir su incapacidad conforme a derecho. Los ausentes e ignorados serán representados como se previene en el Título Décimo Primero, Libro Primero del Código Civil del Estado.
 
-En toda controversia en que puedan afectarse los intereses de un menor, se le oirá al respecto.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
-El menor deberá estar asistido de su representante legítimo o de su tutor en la audiencia en la que se le escuche, en la que también estará presente el Ministerio Público. El Juez valorará la opinión tomando en cuenta la edad, la madurez y las circunstancias personales del menor.
+En toda controversia en que puedan afectarse los intereses de un menor, se le oirá al respecto, siempre que su madurez lo permita.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+
+El menor deberá estar asistido de su representante legítimo o de su tutor en la audiencia en la que se le escuche, siempre que las circunstancias del caso lo permitan, en la que también estará presente el Ministerio Público y un especialista en temas de la niñez, llevándose dicha audiencia en un lenguaje sencillo, adecuado y amigable para el menor. El Juez valorará la opinión tomando en cuenta la edad, la madurez, las circunstancias personales y emocionales del menor, así como lo señalado por el especialista.
 
 ###### Artículo 44.
 
@@ -4537,11 +4541,13 @@ Si sólo alguno de los bienes ejecutados fuere objeto de la tercería, los proce
 
 Si la tercería, cualquiera que sea, se interpone ante el Alcalde y el interés de ella excede del que la ley somete a la jurisdicción de estos jueces, aquel ante quien se interponga remitirá lo actuado en el negocio principal y tercería, al juez que sea competente para conocer del negocio que representa mayor Interés. El juez correrá traslado de la demanda entablada y decidirá la tercería, sujetándose en la substanciación a lo prevenido en los artículos anteriores. Si fueren dos o más los jueces competentes, el juez opositor designará a quién deben remitirse los autos.
 
-TITULO DECIMOPRIMERO
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
-Divorcio por mutuo consentimiento
+## TITULO DECIMO PRIMERO
 
-### CAPITULO UNICO
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+
+### CAPITULO PRIMERO. Divorcio por mutuo consentimiento
 
 ###### Artículo 656.
 
@@ -4599,13 +4605,141 @@ La sentencia que decrete el divorcio por mutuo consentimiento, es apelable en el
 
 Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ella al Oficial del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al del nacimiento de los divorciados, para los efectos de los artículos 116, 118 y 303 del Código Civil.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2017)</small>
+
+### CAPITULO SEGUNDO. Divorcio incausado
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+###### Artículo 664 Bis.
+
+El cónyuge que desee disolver el vínculo matrimonial de manera unilateral podrá ocurrir al juzgado competente en los términos del artículo 278 del Código Civil, presentando su demanda por escrito y con las formalidades que este Código señala para una demanda, a la que acompañarán el convenio que se exige en el artículo 279 del Código citado, debiendo ofrecer todas la (sic) pruebas tendientes a acreditar la procedencia de su propuesta de convenio, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores de edad o incapacitados, si los hubiere.
+
+En la demanda, se podrá pedir la aplicación de medidas precautorias, acompañando en su caso, la documentación que se estime necesaria.
+
+Deberá exhibir copia de la demanda y documentos exhibidos para su traslado.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+###### Artículo 664 Ter.
+
+En términos de la Ley General de Derechos de Niñas, Niños y Adolescentes, en el auto de inicio, el juzgador deberá dar vista, a la Procuraduría de Protección, a efecto de que preste asesoría y, en su caso, representación en suplencia a niñas, niños y adolescentes, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir oficiosamente en el procedimiento de divorcio, con el objetivo de velar el respeto a los derechos de éstos.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+###### Artículo 664 Quater.
+
+Si la demanda fuere obscura o irregular, o no cumpliera con algunos de los requisitos del artículo 257 de este código o 279 del Código Civil, el juzgador dentro del término de tres días señalará con toda precisión en qué consisten los defectos de la misma, en el proveído que al efecto se dicte. El impetrante deberá cumplir con la prevención que haga el juzgador en un plazo máximo de tres días contados a partir del día siguiente a aquél en que haya sido notificado y de no hacerlo así, (sic) juzgador desechará y devolverá al interesado todos los documentos originales y copias simples que se hayan anexado a su escrito inicial de demanda. La anterior determinación o cualquier otra por la que no se dé curso a la demanda, se podrá impugnar mediante recurso de queja, para que se dicte por el Superior la resolución que corresponda.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+###### Artículo 664 Quinquies.
+
+Admitida la demanda de divorcio, el juzgador debe ordenar notificar personalmente al otro cónyuge sobre la demanda y propuesta de convenio, y se le emplazara para que conteste dentro del plazo de cinco días, manifestando si está de acuerdo o no con la referida propuesta de convenio.
+
+Además, se señalará día y hora para la audiencia preliminar que tendrá verificativo después de cinco y antes de quince días, contados a partir de la notificación del propio auto.
+
+En el mismo auto en que admita la demanda de divorcio, el juzgador de oficio proveerá sobre las medidas provisionales correspondientes. Contra estas medidas no se admite más recurso que el de responsabilidad.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+###### Artículo 664 Sexies.
+
+Si el otro cónyuge no se localiza en el domicilio señalado o no tiene uno fijo, la notificación se hará por edictos. En los casos en que se ignore el paradero de uno de los cónyuges, se atenderá a lo dispuesto por el Capítulo II, del Título Undécimo del Código Civil.
+
+La audiencia se señalará dentro de los cinco días siguientes a la fecha de exhibición de las publicaciones que contengan los edictos respectivos.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+###### Artículo 664 Septies.
+
+El demandado formulará la contestación en los términos previstos para la demanda. En la misma contestación y en caso de no estar de acuerdo con el convenio, deberá presentar su contrapropuesta, debiendo anexar las pruebas necesarias relacionadas con la misma. Si en la contestación se fuere omiso sobre la conformidad o no del convenio, el juzgador prevendrá al cónyuge para que se pronuncie al respecto. De esta nueva propuesta debe darse vista a la otra parte por tres días.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+###### Artículo 664 Octies.
+
+Si el demandado se allanare a la demanda de divorcio, el juzgador citará a las partes con el fin de que el cónyuge que se allane ratifique su escrito, una vez realizada la ratificación se dictará sentencia.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+###### Artículo 664 Nonies.
+
+Los cónyuges no pueden hacerse representar por apoderado o procurador en el juicio de divorcio, debiendo comparecer personalmente, y además identificarse con documento indubitable, cuya copia se agregará en autos.
+
+Si los cónyuges no presentan documento indubitable, se suspenderá la celebración de la audiencia preliminar.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+###### Artículo 664 Decies.
+
+En cualquier caso en que él o los cónyuges dejaren pasar más de tres meses sin continuar el procedimiento, el juez declarará sin efecto la solicitud y mandará archivar el expediente.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+Artículo 664 Undecies.- En la audiencia preliminar el juzgador tratará de conciliar a las partes, para continuar con el matrimonio, no habiéndose obtenido la conciliación, se continuará la misma; y el juzgador las escuchará sobre la propuesta del convenio, en la que se podrán modificar o adicionar las cláusulas del mismo a petición de los interesados. El juzgador tendrá la obligación de explicar los alcances jurídicos del convenio y de la demanda de divorcio; los beneficios de terminar amistosamente el trámite de divorcio y las consecuencias jurídicas y sociales tanto para ellos como para los menores de edad implicados en el procedimiento.
+
+De manifestar su conformidad con los términos del convenio y, de no haber observación alguna por el juzgador o por el Ministerio Público, se aprobará y elevará a la categoría de cosa juzgada, decretando la disolución del vínculo matrimonial y la aprobación del convenio.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+Artículo 664 Duodecies.- En caso de que el demandado no diera contestación a la demanda o no comparezca a la Audiencia Preliminar, se le tendrá por conforme con las prestaciones establecidas en el Convenio por la parte actora y se aprobará y elevará a la categoría de cosa juzgada, decretando la disolución del vínculo matrimonial.
+
+En lo que refiere al convenio el juzgador aprobará el convenio, siempre que no contenga cláusulas contrarias a la moral o al derecho o que afecten de manera manifiesta la equidad entre las partes o que descubran la intención de defraudar a terceros. Aprobado el convenio, se elevará a la categoría de cosa juzgada, dándose por concluido el juicio.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+Artículo 664 Terdecies.- En caso de que en la audiencia preliminar, el juzgador, el Ministerio Público, o alguna de las partes se opongan a la aprobación del convenio, se deberá decretar el divorcio y se ordenará entrar a la calificación y desahogo de las pruebas que se hayan ofrecido, sin más limitación que no sean contrarias a la moral o estén prohibidas por la ley.
+
+Las partes deberán presentar a sus testigos y peritos, de manifestar bajo protesta de decir verdad no estar en aptitud de hacerlo, se impondrá al Actuario del Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos asimismo, para la audiencia respectiva, en la que deberán rendir su dictamen. Dicha citación se hará con apercibimiento de arresto hasta por treinta y seis horas, de no comparecer el testigo o el perito sin causa justificada y el promovente de la prueba, de imponerle una multa hasta de cincuenta veces el valor diario de la Unidad de Medida y Actualización en caso de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante, las partes en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir. El juzgador y las partes podrán interrogar a los testigos con relación a los hechos controvertidos en el convenio, pudiéndoles hacer todas las preguntas que juzguen procedentes, con la sola limitación de que no sean contrarias a la moral.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+Artículo 664 Quaterdecies.- El Agente del Ministerio Público podrá oponerse al convenio cuando:
+
+I. La solicitud se haya hecho en contravención a lo dispuesto por el Código Civil;
+
+II. El convenio que en este caso deben presentar los cónyuges, viole los derechos de los hijos menores de dieciocho años o incapaces; y
+
+III. Los derechos de los hijos no queden debidamente garantizados.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+Artículo 664 Quindecies.- Siempre que el juzgador lo estime necesario, podrá mandar citar a las niñas, niños, adolescentes y personas incapaces para que éstos sean escuchados en condiciones idóneas, a fin de salvaguardar sus intereses, sin injerencias de otras personas.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+Artículo 664 Sexdecies.- El juzgador, para resolver respecto a los puntos del convenio en que haya discordancia, podrá cerciorarse personalmente o con el auxilio de trabajadoras sociales, médicos, psicólogos y en general de toda clase de peritos oficiales, de la veracidad de los hechos, a quienes se les citará en el auto en que se señale fecha para la audiencia preliminar, por lo que podrán tener acceso a los autos a partir de su legal notificación y una vez presentes en la audiencia, podrán ser interrogados por el juzgador y por las partes. En el fallo se expresarán en todo caso los medios y pruebas en los que se haya fundado el juzgador para dictarlo.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+Artículo 664 Septendecies.- La audiencia de desahogo de pruebas, no se podrá suspender más de una vez, y solo en caso de que haya pruebas periciales o estudios socioeconómicos por realizar; para tal caso en la audiencia preliminar se fijará fecha y hora para que se realicen los estudios correspondientes, la cual se verificará dentro de los quince días siguientes, apercibiendo a las partes que para el caso de incumplimiento se le tendrá por desierta la prueba; y a los peritos correspondientes, se les apercibirá que para el caso de incumplimiento se iniciará el procedimiento de responsabilidad y su posible inhabilitación como perito.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+Artículo 664 Octodecies.- Una vez desahogadas todas y cada una de las pruebas ofrecidas por las partes y aquellas que el juzgador considere pertinentes, en beneficio del interés superior del niño, se dictara sentencia la cual se pronunciará de manera breve y concisa, en el mismo momento de la audiencia de ser así posible o dentro de los quince días siguientes.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+Artículo 664 Novodecies.- La sentencia que declare la disolución del vínculo matrimonial es inapelable, únicamente es apelable en el efecto devolutivo la resolución que recaiga respecto del o los convenios presentados.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+Artículo 664 Vicies.- Ejecutoriada la sentencia de divorcio, el juez mandará remitir copia de ella al Oficial del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al del nacimiento de los divorciados, para los efectos de los artículos 116, 118 y 303 del Código Civil.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+Artículo 664 Unvicies.- Son procedentes en materia de recursos, todos los previstos en este Código y su tramitación se sujetará a las disposiciones generales del mismo.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+Artículo 664 Duovicies.- Para todo lo no previsto en este Capítulo, se atenderá a lo dispuesto por el Código Civil del estado de Oaxaca, así como al de sus Procedimientos.
+
 TITULO DECIMOSEGUNDO
 
 De los recursos
 
 ### CAPITULO I. De las revocaciones y apelaciones
-
-### CAPITULO II. De la queja
 
 ###### Artículo 665.
 
@@ -4849,7 +4983,7 @@ La Sala reservará la resolución de la apelación de la sentencia hasta que no 
 
 Tratándose de violaciones procesales que trasciendan al resultado del fallo, de oficio o a petición de parte, la Sala debe revocar la resolución y ordenar la reposición del procedimiento a partir de dichas violaciones.
 
-### CAPITULO III. De la responsabilidad judicial
+### CAPITULO II. De la queja
 
 ###### Artículo 697.
 
@@ -4883,7 +5017,7 @@ Si hubiere recurso ordinario contra la resolución reclamada, la queja será des
 
 El recurso de queja contra los jueces sólo procede en los juicios cuya sentencia sea apelable, a no ser que se intente para calificar el grado en la denegación de apelación o en los casos de denegación de justicia.
 
-### CAPITULO I. Reglas generales
+### CAPITULO III. De la responsabilidad judicial
 
 ###### Artículo 702.
 
@@ -4935,9 +5069,7 @@ TITULO DECIMOTERCERO
 
 De los concursos
 
-### CAPITULO II. De la rectificación y graduación de créditos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+### CAPITULO I. Reglas generales
 
 ###### Artículo 712.
 
@@ -4989,7 +5121,9 @@ En este caso y en el previsto en el artículo anterior, la revocación se tramit
 
 El concursado en el caso de concurso necesario deberá presentar al juzgado, dentro de los cinco días de la notificación del auto que lo declare, un estado detallado de su activo y pasivo con nombres y domicilios de acreedores y deudores, privilegiados y valistas; si no lo presentare, lo hará el síndico.
 
-### CAPITULO III. De la administración del concurso
+### CAPITULO II. De la rectificación y graduación de créditos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 718.
 
@@ -5075,7 +5209,7 @@ Los acreedores listados en el estado del deudor o que presentaren sus documentos
 
 Cuando al hacerse una cesión de bienes, o al presentarse el concurso, sólo hubiere acreedores hipotecarios, se observarán las disposiciones del artículo 2857 del Código Civil, siendo forzosamente el síndico quien litigará en representación de los acreedores.
 
-### CAPITULO IV. Del deudor común
+### CAPITULO III. De la administración del concurso
 
 ###### Artículo 734.
 
@@ -5117,7 +5251,7 @@ El síndico será removido de plano si dejare de rendir la cuenta mensual o deja
 
 Por mal desempeño de su cargo o por comprobarse alguno de los impedimentos del artículo 736 será removido siguiéndose los trámites establecidos para los incidentes.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO IV. Del deudor común
 
 ###### Artículo 741.
 
@@ -5137,7 +5271,7 @@ TITULO DECIMOCUARTO
 
 Juicios sucesorios
 
-### CAPITULO II. De las testamentarías
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 743.
 
@@ -5291,7 +5425,7 @@ VI. Lo relativo a la aplicación de los bienes.
 
 Si durante la tramitación de un intestado apareciere el testamento, se sobreseerá aquél para abrir el juicio de testamentaría, a no ser que las disposiciones testamentarias se refieran sólo a una parte de los bienes hereditarios. En este caso se acumularán los juicios bajo la representación del ejecutor testamentario y la liquidación y partición serán siempre comunes; los inventarios lo serán también cuando los juicios se acumularen antes de su facción.
 
-### CAPITULO III. De los intestados
+### CAPITULO II. De las testamentarías
 
 ###### Artículo 764.
 
@@ -5335,7 +5469,7 @@ Si se impugnare la validez del testamento o la capacidad legal de algún hereder
 
 En la junta prevenida por el artículo 764 podrán los herederos nombrar interventor conforme a la facultad que les concede el artículo 1610 del Código Civil y se nombrará precisamente en los casos previstos por el 1613 del mismo Código.
 
-### CAPITULO IV. Del inventario y avalúo
+### CAPITULO III. De los intestados
 
 ###### Artículo 773.
 
@@ -5441,7 +5575,7 @@ El Ministerio Público será considerado parte en estos juicios hasta que haya u
 
 Si no se presentare alguno reclamando la herencia o no fuere reconocido el derecho de los presentados, se declarará heredera a la Beneficencia Pública y quienes sean los representantes de esta Institución continuarán con el carácter de albacea interviniendo en el juicio hasta su terminación.
 
-### CAPITULO V. De la administración
+### CAPITULO IV. Del inventario y avalúo
 
 ###### Artículo 797.
 
@@ -5535,7 +5669,7 @@ La remoción a que se refiere el último precepto se promoverá en forma inciden
 
 Los gastos de inventario y avalúo son a cargo de la herencia, salvo que el testador hubiere dispuesto otra cosa.
 
-### CAPITULO VI. De la rendición de cuentas
+### CAPITULO V. De la administración
 
 ###### Artículo 814.
 
@@ -5603,7 +5737,7 @@ Si nadie se hubiere presentado alegando derecho a la herencia o no hubieren sido
 
 Aprobados el inventario y el avalúo de los bienes y terminados todos los incidentes a que uno y otro hayan dado lugar, se procederá a la liquidación del caudal.
 
-### CAPITULO VII. De la liquidación y partición de la herencia
+### CAPITULO VI. De la rendición de cuentas
 
 ###### Artículo 827.
 
@@ -5647,7 +5781,7 @@ El auto que apruebe o repruebe la cuenta es apelable en el efecto devolutivo.
 
 Concluido y aprobado el inventario, el albacea procederá a la liquidación de la herencia.
 
-### CAPITULO VIII. De la transmisión hereditaria del patrimonio familiar
+### CAPITULO VII. De la liquidación y partición de la herencia
 
 ###### Artículo 836.
 
@@ -5825,7 +5959,7 @@ VI. La firma de todos los interesados.
 
 La sentencia que apruebe o repruebe la partición es apelable en ambos efectos cuando el monto del caudal exceda de mil pesos.
 
-### CAPITULO IX. Del testamento público cerrado
+### CAPITULO VIII. De la transmisión hereditaria del patrimonio familiar
 
 ###### Artículo 864.
 
@@ -5859,7 +5993,7 @@ La transmisión de los bienes del patrimonio familiar está exenta de cualquier 
 
 Si la persona que constituyó el patrimonio familiar, además de los bienes que forman éste, tuviere otros, respecto de los últimos regirán las disposiciones de los capítulos anteriores de este título, ya sea que se trate de testamentario o de intestado.
 
-### CAPITULO X. Declaración de ser formal el testamento privado
+### CAPITULO IX. Del testamento público cerrado
 
 ###### Artículo 871.
 
@@ -5879,7 +6013,7 @@ Será preferida para la protocolización de todo testamento cerrado la notaría 
 
 Si se presentaren dos o más testamentos cerrados de una misma persona, sean de la misma fecha o de diversa, el juez procederá respecto a cada uno de ellos como se previene en este capítulo y los hará protocolizar en un mismo oficio para los efectos a que haya lugar, en los casos previstos por los artículos 1398 y 1400 del Código Civil.
 
-### CAPITULO XI. Del testamento militar
+### CAPITULO X. Declaración de ser formal el testamento privado
 
 ###### Artículo 875.
 
@@ -5907,7 +6041,7 @@ Recibidas las declaraciones el tribunal procederá conforme al artículo 1458 de
 
 De la resolución que niegue la declaración solicitada, pueden apelar el promovente y cualquiera de las personas interesadas en la disposición testamentaria; de la que acuerde la declaración puede apelar el representante del Ministerio Público.
 
-### CAPITULO XII. Del testamento marítimo y del hecho en país extranjero
+### CAPITULO XI. Del testamento militar
 
 ###### Artículo 879.
 
@@ -5917,9 +6051,7 @@ Luego que el tribunal reciba, por conducto del Secretario de la Defensa Nacional
 
 En lo demás se observará lo dispuesto en el capítulo que antecede.
 
-### CAPITULO XIII. De las Sucesiones ante Notario Público
-
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2001)</small>
+### CAPITULO XII. Del testamento marítimo y del hecho en país extranjero
 
 ###### Artículo 881.
 
@@ -5931,7 +6063,9 @@ Ante el tribunal competente se procederá, en sus respectivos casos, según est�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 2001)</small>
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO XIII. De las Sucesiones ante Notario Público
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2001)</small>
 
 ###### Artículo 882
 
@@ -5973,9 +6107,7 @@ TITULO DECIMOQUINTO
 
 De la jurisdicción voluntaria
 
-### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 1999)</small>
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 883.
 
@@ -6013,7 +6145,9 @@ El juez podrá variar o modificar las providencias que dictare sin sujeción est
 
 Las providencias de jurisdicción voluntaria serán apelables en ambos efectos, salvo los casos en que la ley disponga otra cosa, y la apelación se substanciará conforme a lo establecido en este Código para los juicios ordinarios.
 
-### CAPITULO III. De la enajenación de bienes de menores o de incapacitados y transacción acerca de sus derechos
+### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 890.
 
@@ -6151,9 +6285,7 @@ Cuando del examen de la cuenta resulten motivos graves para sospechar dolo, frau
 
 Los tutores y curadores no pueden ser removidos ni excusarse por actos de jurisdicción voluntaria.
 
-### CAPITULO IV. De la Adopción Plena
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+### CAPITULO III. De la enajenación de bienes de menores o de incapacitados y transacción acerca de sus derechos
 
 ###### Artículo 906.
 
@@ -6213,7 +6345,9 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2010)</small>
 
-### CAPITULO V. De las informaciones ad-perpetuam
+### CAPITULO IV. De la Adopción Plena
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 914.
 
@@ -6243,7 +6377,7 @@ El adoptante deberá informar cada seis meses al Juez que la concedió, acerca d
 
 (DEROGADO, P.O. 13 DE NOVIEMBRE DE 2010)
 
-### CAPITULO VI. Apeo y deslinde
+### CAPITULO V. De las informaciones ad-perpetuam
 
 ###### Artículo 918.
 
@@ -6275,7 +6409,7 @@ Las informaciones se protocolizarán en el oficio del notario que designe el pro
 
 En ningún caso se admitirán en jurisdicción voluntaria informaciones de testigos sobre hechos que fueren materia de un juicio comenzado.
 
-### CAPITULO VII. Disposiciones relativas a otros actos de jurisdicción voluntaria
+### CAPITULO VI. Apeo y deslinde
 
 ###### Artículo 923.
 
@@ -6333,9 +6467,7 @@ Los puntos respecto a los cuales hubiere oposición, no quedarán deslindados ni
 
 Los gastos generales del apeo se harán por el que lo promueva. Los que importen la intervención de los peritos que designen y de los testigos que presenten los colindantes serán pagados por el que nombre a los unos y presente a los otros.
 
-### CAPITULO UNICO. De las controversias de orden familiar
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
+### CAPITULO VII. Disposiciones relativas a otros actos de jurisdicción voluntaria
 
 ###### Artículo 929.
 
@@ -6539,11 +6671,9 @@ TITULO DECIMOSEPTIMO
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
-### CAPITULO UNICO. DE LOS JUICIOS DE RECTIFICACION O MODIFICACION
+### CAPITULO UNICO. De las controversias de orden familiar
 
-DE LAS ACTAS DEL ESTADO CIVIL DE LAS PERSONAS
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2004)</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
 ###### Artículo 962.
 
@@ -6690,6 +6820,12 @@ En todo lo no previsto, regirán las reglas generales de este Código de Procedi
 TITULO DECIMOOCTAVO
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE AGOSTO DE 2004)</small>
+
+### CAPITULO UNICO. DE LOS JUICIOS DE RECTIFICACION O MODIFICACION
+
+DE LAS ACTAS DEL ESTADO CIVIL DE LAS PERSONAS
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 979.
 
@@ -6942,5 +7078,23 @@ P.O. 9 DE MAYO DE 2015.
 P.O. 30 DE ENERO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1371.- MEDIANTE EL CUAL SE ADICIONA EL ARTICULO 965 BIS AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 591.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los juicios iniciados previo a la publicación del presente Decreto deberán ser concluidos de conformidad con los procedimientos vigentes en el momento de su presentación.
+
+TERCERO. La Dirección del Registro Civil, contará con un término de treinta días, a partir de la publicación del presente Decreto para realizar las adecuaciones necesarias a su Reglamento.
+
+CUARTO. Se derogan todos los preceptos legales contemplados en cualquier otro ordenamiento legal de igual o menor rango y que se opongan a las disposiciones del presente Decreto.
+
+P.O. 12 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 597.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OXACA (SIC)”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
