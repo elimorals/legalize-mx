@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-turismo-del-estado-de-michoacan-de-ocampo-81262"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-03"
-last_updated: "2016-12-29"
+last_updated: "2017-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
 
 Ley publicada en la Quinta Sección al Periódico Oficial del Estado de Michoacán, el martes 3 de mayo de 2011.
 
@@ -71,9 +71,17 @@ IV. La coordinación de la Secretaría de Turismo del Estado con la Federación,
 
 V. La disminución de trámites que obstaculicen el desarrollo del turismo en el Estado, en los términos de la legislación aplicable;
 
-VI. Organizar y promover el Sistema Estatal de Protección al Turista; y,
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2017)</small>
 
-VII. El impulso a las empresas turísticas que operen en el Estado y que cumplan con las disposiciones de esta Ley, propiciando, entre otras, la creación de fideicomisos que motiven el desarrollo, financiamiento y la inversión en la actividad turística.
+VI. Organizar y promover el Sistema Estatal de Protección al Turista;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2017)</small>
+
+VII. El impulso a las empresas turísticas que operen en el Estado y que cumplan con las disposiciones de esta Ley, propiciando, entre otras, la creación de fideicomisos que motiven el desarrollo, financiamiento y la inversión de la actividad turística; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2017)</small>
+
+VIII. Facilitar a las personas con discapacidad las oportunidades necesarias para el uso y disfrute de las instalaciones destinadas a la actividad turística, así como su participación dentro de los programas de turismo accesible.
 
 ###### ARTÍCULO 4.
 
@@ -619,13 +627,17 @@ IV. Participar con los sectores público, social y privado, en la constitución,
 
 V. Implementar las acciones necesarias para apoyar a los prestadores de servicios turísticos, en caso de presentarse acontecimientos meteorológicos o sociales que los afecten directamente;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2017)</small>
 
-VI. Asesorar a los inversionistas de los sectores social y privado en sus gestiones ante los organismos competentes a efecto de obtener asistencia técnica, información y demás apoyos para el desarrollo de la actividad turística; y,
+VI. Asesorar a los inversionistas de los sectores social y privado en sus gestiones ante los organismos competentes a efecto de obtener asistencia técnica, información y demás apoyos para el desarrollo de la actividad turística;
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2017)</small>
 
-VII. Las demás que permitan mejorar la actividad y desarrollo turístico en el Estado.
+VII. Ejecutar obras de infraestructura y urbanización, y realizar edificaciones e instalaciones en centros de desarrollo turístico que permitan la oferta de servicios turísticos; para dicho fin el Fondo deberá tomar en cuenta en la ejecución de dichas obras las necesidades de las personas con discapacidad; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE MAYO DE 2017)</small>
+
+VIII. Las demás que permitan mejorar la actividad y desarrollo turístico en el Estado.
 
 ###### ARTÍCULO 66.
 
@@ -799,6 +811,10 @@ IV. En general promover la programación, capacitación, fomento y desarrollo de
 
 La Secretaría participará en la elaboración de programas de capacitación turística para prestadores de servicios turísticos y servidores públicos y promoverá acciones de coordinación con las dependencias federales, estatales o municipales involucradas, así como con organismos públicos y privados para el establecimiento o mejoramiento de escuelas, centros de educación y de capacitación para la formación de profesionales y técnicos en todas las ramas de la actividad turística.
 
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+
+En los citados programas se deberá considerar la profesionalización respecto a la atención de las personas con discapacidad.
+
 De igual forma, la Secretaría propondrá al Ejecutivo la operación permanente de programas de vinculación de los profesionales y técnicos de la actividad turística con el sector productivo.
 
 ###### ARTÍCULO 78.
@@ -935,17 +951,43 @@ La Secretaría, en coordinación con las dependencias estatales respectivas, par
 
 ### CAPÍTULO IV. DEL TURISMO ACCESIBLE
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 99.
 
-Los prestadores de servicios turísticos deben considerar con la oferta de sus servicios, las condiciones de accesibilidad para personas con alguna discapacidad.
+La Secretaría, con el apoyo y en coordinación de las dependencias y entidades competentes, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a la población con alguna discapacidad.
+
+Siendo la accesibilidad la previsión necesaria que permita asegurar el acceso de las personas con discapacidad, en igualdad de condiciones al entorno físico, transporte, información y comunicaciones.
+
+La Secretaría diseñará, aplicará y fomentará una Política Estatal que atienda al turismo accesible, en la cual se deberá de tomar en cuenta cuando menos los aspectos siguientes:
+
+I. Fomento a la infraestructura accesible;
+
+II. Aplicación de programas de calidad turística, con criterios de accesibilidad e inclusión;
+
+III. Impulso a los destinos turísticos que faciliten el uso y disfrute de su infraestructura a personas con discapacidad;
+
+IV. Programar y ejecutar permanentemente en coordinación con instituciones u organizaciones especializadas cursos de capacitación, actualización, sensibilización en materia de discapacidad, así como capacitación en lengua de señas, dirigidos a personal administrativo en hoteles, restaurantes, centros y lugares turísticos del Estado;
+
+V. Diseñar y elaborar material de promoción turística para personas sordas, débiles visuales y ciegos; y,
+
+VI. Diseñar e implementar programas en coordinación con instituciones u organizaciones especializadas, sobre ecoturismo, turismo alternativo y turismo inclusivo para personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 100.
 
-Para cumplir con lo dispuesto en el artículo anterior, deberán contar con espacios, productos y materiales suficientes para atender a las personas con alguna discapacidad, para que su estancia y actividades sean placenteras, de acuerdo a lo establecido en el reglamento de esta Ley.
+Los prestadores de servicios turísticos deberán proveer lo necesario para que las personas con discapacidad cuenten con accesibilidad a los servicios en condiciones adecuadas.
+
+La misma obligación tendrán las autoridades respecto de los sitios culturales con afluencia turística.
+
+La Secretaría y los Municipios, supervisarán que lo dispuesto en este Capítulo se cumpla.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 101.
 
-La misma obligación tendrán las autoridades de los sitios culturales con afluencia turística.
+Para cumplir con lo dispuesto en el artículo anterior, deberán contar con espacios, productos y materiales suficientes para atender a las personas con alguna discapacidad, para que su estancia y actividades sean placenteras, de acuerdo a lo establecido en el reglamento de esta Ley.
 
 ### CAPÍTULO V. DEL TURISMO ALTERNATIVO
 
@@ -1294,3 +1336,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 12 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 346 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 3, 65, 99, 100 Y 101; Y SE ADICIONA UN SEGUNDO PÁRRAFO RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE AL ARTÍCULO 77 DE LA LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
