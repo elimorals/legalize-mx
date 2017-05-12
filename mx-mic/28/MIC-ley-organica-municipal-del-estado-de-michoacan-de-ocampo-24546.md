@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2016-10-31"
+last_updated: "2017-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -789,13 +791,49 @@ X. En general, las demás que establece la Constitución Política de los Estado
 
 e).- En materia de cultura:
 
-I. Elaborar el diagnóstico y el programa municipal de cultural (sic) el catálogo de su patrimonio y el de sus principales manifestaciones culturales;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2017)</small>
 
-II. Promover el establecimiento de centros, casas de cultura u organismos similares para el fomento del desarrollo cultural, alentando la participación social en las diversas actividades culturales;
+I. Contar con la instancia responsable del diseño e implementación de políticas, programas y acciones necesarios para el desarrollo cultural del municipio;
 
-III. Fomentar la investigación y difusión de las manifestaciones culturales en el Municipio; y,
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2017)</small>
 
-IV. Participar en los términos de la Ley de Desarrollo Cultural para el Estado de Michoacán de Ocampo, en los programas estatales en materia de cultura.
+II. Elaborar el Diagnóstico Cultural Municipal, el catálogo de su patrimonio y el de sus principales manifestaciones culturales y artísticas, los cuales deberán estar contemplados en el Plan Municipal de Desarrollo;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2017)</small>
+
+III. Diseñar y desarrollar el Programa Municipal de Cultura en base a lo establecido en la Ley de Desarrollo Cultural para el Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2017)</small>
+
+IV. Promover el establecimiento y fortalecimiento de casas de cultura y centros culturales para el fomento del desarrollo cultural, alentando la participación social en las diversas actividades culturales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2017)</small>
+
+V. Fomentar la investigación y difusión de las manifestaciones culturales en el Municipio a través de la instancia correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2017)</small>
+
+VI. Impulsar y participar en el diseño e implementación de políticas, programas y acciones de promoción de la cultura y el arte, dentro de los lineamientos de la política cultural establecidos en la Ley de Desarrollo Cultural para el Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2017)</small>
+
+VII. Presentar propuestas ante la Secretaría de Cultura del Estado de Michoacán de Ocampo, para ser incorporados en el Sistema Estatal de Educación Artística;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2017)</small>
+
+VIII. Participar en la integración y funcionamiento de las Redes Regionales de Cultura;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2017)</small>
+
+IX. Promover convenios con los gobiernos Federal, Estatal y Municipal, así como con diversos organismos públicos, privados y sociales, con el fin de fortalecer las políticas, programas y acciones culturales en su municipio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2017)</small>
+
+X. Destinar presupuesto en materia de cultura, congruente con su Plan Municipal de Desarrollo y atendiendo las leyes en la materia; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2017)</small>
+
+XI. Las demás que señale la Ley de Desarrollo Cultural para el Estado de Michoacán de Ocampo, así como otras disposiciones legales aplicables.
 
 ###### Artículo 33.
 
@@ -953,23 +991,53 @@ X. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones apl
 
 La Comisión de Educación Pública, Cultura y Turismo tendrá las siguientes funciones:
 
-I. Coadyuvar con los gobiernos federal y estatal en el cumplimiento de las disposiciones que en materia de educación establezcan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de éstas emanen y sus reglamentos;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2017)</small>
+
+I. Coadyuvar con los gobiernos federal y estatal en el cumplimiento de las disposiciones que en materia de educación establezca la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de éstas emanen y sus reglamentos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE MAYO DE 2017)</small>
 
 II. Promover la capacitación permanente de los empleados municipales, con la finalidad de eficientar la prestación de los servicios públicos;
 
-III. Fomentar el establecimiento y operación de centros de cultura, bibliotecas y esparcimiento públicos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE MAYO DE 2017)</small>
 
-IV. Impulsar la participación social en la construcción y conservación de los centros educativos y culturales;
+III. Disuadir, en el ámbito de su competencia, la deserción escolar y el ausentismo magisterial;
 
-V. Disuadir, en el ámbito de su competencia, la deserción escolar y el ausentismo magisterial;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2017)</small>
 
-VI. Establecer y aplicar una política de difusión y promoción de los atractivos turísticos del municipio;
+IV. Participar en el diseño, implementación y seguimiento del Programa Municipal de Cultura; sustentado en los lineamientos de la política cultural establecidos en la Ley de Desarrollo Cultural del Estado de Michoacán de Ocampo;
 
-VII. Coadyuvar en el desarrollo de centros turísticos municipales;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2017)</small>
 
-VIII. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las iniciativas de reglamentos de su competencia; y,
+V. Participar en las Redes Regionales de Cultura y en el Sistema Estatal de Educación Artística;
 
-IX. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2017)</small>
+
+VI. Impulsar la participación social en la construcción, desarrollo y conservación de los centros educativos y culturales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE MAYO DE 2017)</small>
+
+VII. Establecer y aplicar una política de difusión y promoción de los atractivos turísticos del municipio;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE MAYO DE 2017)</small>
+
+VIII. Coadyuvar en el desarrollo de centros turísticos municipales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2017)</small>
+
+IX. Participar en el diseño del Plan Municipal de Desarrollo en los rubros Educación, Cultura y Turismo;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2017)</small>
+
+X. Fomentar el establecimiento y operación de centros educativos, culturales, y turísticos de esparcimiento público;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE MAYO DE 2017)</small>
+
+XI. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las iniciativas de reglamentos de su competencia; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE MAYO DE 2017)</small>
+
+XII. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
 
 ###### Artículo 42.
 
@@ -2647,27 +2715,19 @@ IX. Las demás que le señale su reglamento, de esta Ley y otras disposiciones j
 
 Los ayuntamientos proporcionarán, con base en su Presupuesto de Egresos, los recursos necesarios al Consejo Municipal de la Crónica para el cumplimiento de su objeto y atribuciones.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2016)</small>
 
 ## TÍTULO DÉCIMO SEGUNDO. INSTITUTO MUNICIPAL DE PLANEACIÓN
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2016)</small>
 
 ### Capítulo Único
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 176.
 
 El Instituto Municipal de Planeación, es un órgano profesional especializado en la planeación del desarrollo del Municipio, que procure y permita la permanencia de los planes, a corto, mediano y largo plazo, la equidad en el desarrollo y la participación social, que impulse la competitividad económica y el equilibrio ambiental de los planes, programas y proyectos del Municipio.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -2678,8 +2738,6 @@ La creación del Instituto Municipal de Planeación, será de observancia genera
 El Instituto Municipal de Planeación, contará con un Consejo Directivo presidido por el Presidente Municipal, además estará integrado por lo menos por tres miembros ciudadanos que no desempeñen algún cargo de la Administración Pública o tengan militancia en algún partido político, así como funcionarios del Ayuntamiento designados por el Presidente Municipal sin que éstos sean mayor al número de ciudadanos integrantes del Consejo Directivo.
 
 La designación del Titular del Instituto Municipal de Planeación, se realizará a través del Consejo Directivo, mediante convocatoria pública dando prioridad e inclusión a la sociedad organizada y de acuerdo con el reglamento que cada Ayuntamiento elabore para su funcionamiento y será por un periodo de tres años pudiendo reelegirse hasta por un periodo más.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -2695,8 +2753,6 @@ III. Ser de reconocida honorabilidad; y,
 
 IV. Demostrar conocimiento profesional sobre las actividades y acontecimientos pasados y presentes que afectan la situación del municipio.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 179.
@@ -2704,8 +2760,6 @@ IV. Demostrar conocimiento profesional sobre las actividades y acontecimientos p
 Los cargos del Titular y de los demás integrantes del Consejo Directivo del Instituto Municipal de Planeación serán honorarios.
 
 La designación de los demás integrantes ciudadanos del Consejo Directivo deberá cumplir con los mismos requisitos que se establecen para el Titular.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -2718,8 +2772,6 @@ I. Por causa grave que imposibilite el cumplimiento de sus funciones;
 II. Por incumplimiento constante de sus obligaciones o por ausencias injustificadas; y,
 
 III. Por renuncia.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -2746,8 +2798,6 @@ VIII. Elaborar estudios y proyectos para fortalecer el proceso de toma de decisi
 IX. Incorporar la participación ciudadana en el proceso de planeación; y,
 
 X. Crear un modelo de articulación, entre la sociedad y el Gobierno Municipal para el apoyo técnico y normativo dentro del proceso de planeación.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -3096,3 +3146,11 @@ SEGUNDO. Los Ayuntamientos deberán incluir en su programación presupuestal y f
 TERCERO. La designación del Titular y demás integrantes del Instituto Municipal de Planeación por primera y única ocasión se realizará por el Ayuntamiento en el momento de su creación a propuesta de las organizaciones de la sociedad civil.
 
 CUARTO. Una vez que entre en vigor el presente decreto, los Ayuntamientos tendrán un plazo no mayor a 180 días para la elaboración del reglamento interno del Instituto Municipal de Planeación.
+
+P.O. 12 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 360 POR EL QUE "SE REFORMA EL INCISO E) DEL ARTÍCULO 32 Y EL ARTÍCULO 41 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado (sic) Michoacán de Ocampo.
+
+Artículo Segundo. Remítase el presente Decreto al Gobernador del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
