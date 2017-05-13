@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2017-04-04"
+last_updated: "2017-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE MAYO DE 2017 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2017.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 13 DE MAYO DE 2017 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 26305/LXI/17 PUBLICADO EN EL P.O. DE 4 DE ABRIL DE 2017.]</small>
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -697,9 +697,7 @@ XV. Ejercer en coordinación con la Federación y el Gobierno del Estado, en el 
 
 XVI. Solicitar a la Secretaría de Cultura previo a emitir licencia de construcción relativa a inmuebles inventariados como Patrimonio Cultural, el dictamen técnico en los términos de la Ley de Patrimonio Cultural del Estado de Jalisco y sus Municipios; y
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2017)</small>
-
-XVII. Las demás que les establezcan la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado de Jalisco, y demás leyes, tanto federales como locales, y reglamentos.
+XVII. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes, tanto federales como locales, y reglamentos.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -1181,7 +1179,7 @@ La Carta de Origen será expedida a petición de parte o a través de familiares
 
 Son requisitos para la expedición de la Carta de Origen:
 
-I. Copia certificada reciente del acta de nacimiento o de su extracto, de la persona respecto de la cual se solicita la Carta de Origen;
+l. Copia certificada reciente del acta de nacimiento o de su extracto, de la persona respecto de la cual se solicita la Carta de Origen;
 
 II. Dos fotografías tamaño pasaporte a color con fondo blanco, de la persona respecto de la cual se solicita la Carta de Origen;
 
@@ -2361,7 +2359,7 @@ Sexto. En su primera sesión ordinaria el Concejo Municipal de Capilla de Guadal
 
 Séptimo. El Ayuntamiento de Tepatitlán de Morelos, seguirá ejerciendo sus funciones en la demarcación correspondiente al nuevo municipio, hasta la entrada en funciones del Concejo Municipal de Capilla de Guadalupe.
 
-Octavo. Efectuada la designación por parte del Congreso del Estado, los integrantes del Concejo Municipal recibirán del Ayuntamiento de Tepatitlán de Morelos toda la información y documentación de las delegaciones, comunidades y poblaciones que componen al nuevo municipio, necesaria para el buen desempeño de la nueva administración municipal, incluyendo los padrones de contribuyentes, proveedores, acreedores y las cuentas catastrales de la nueva jurisdicción municipal.
+Octavo. Efectuada la designación por parte del Congreso del Estado, los integrantes del Consejo Municipal recibirán del Ayuntamiento de Tepatitlán de Morelos toda la información y documentación de las delegaciones, comunidades y poblaciones que componen al nuevo municipio, necesaria para el buen desempeño de la nueva administración municipal, incluyendo los padrones de contribuyentes, proveedores, acreedores y las cuentas catastrales de la nueva jurisdicción municipal.
 
 Noveno. Una vez que entre en funciones el Concejo Municipal de Capilla de Guadalupe, el Ayuntamiento de Tepatitlán de Morelos, procederá a transferir los bienes muebles e inmuebles a los que se refiere el artículo 84 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, que estén dentro de su patrimonio, los cuales deberán estar dentro de la extensión territorial a que se refiere este decreto, y transferirlos con el destino al que estaban afectos a favor del nuevo municipio.
 
@@ -2375,7 +2373,7 @@ Serán aplicables en el Municipio de Capilla de Guadalupe, en el ejercicio fisca
 
 Décimo Tercero. Las obligaciones laborales del Municipio de Tepatitlán de Morelos con los trabajadores a su servicio en las Delegaciones Municipales de Capilla de Guadalupe y San José de Gracia, serán asumidas por el nuevo municipio a partir del día 1º de enero del año 2006, el cual deberá respetar los derechos individuales y colectivos de dichos trabajadores, en los términos de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
 
-Décimo Cuarto. En tanto entran en vigor las disposiciones reglamentarias expedidas por el Concejo Municipal de Capilla de Guadalupe se observarán en lo conducente las correspondientes al municipio de Tepatitlán de Morelos.
+Décimo Cuarto. En tanto entran en vigor las disposiciones reglamentarias expedidas por el Concejo Municipal de Capilla de Guadalupe se observarán en lo conducente las correspondientes al Municipio de Tepatitlán de Morelos.
 
 Décimo Quinto. En Congreso del Estado tendrá facultad para dictar las normas interpretativas y aclaratorias del presente Decreto necesarias para resolver cualquier controversia que su aplicación motive.
 
@@ -2453,7 +2451,7 @@ Cuarto. En caso de no haber designación de Auditor Superior del Estado al día 
 
 Quinto. Los sujetos auditables podrán acogerse a los procedimientos y disposiciones que establece la presente ley en la revisión de las cuentas públicas o estados financieros correspondientes a los ejercicios fiscales que no se hubieren dictaminado por la Auditoría Superior del Estado, mediante solicitud dirigida al Auditor Superior del Estado de Jalisco.
 
-La Auditoría Superior del Estado, en las revisiones a que se refiere el párrafo anterior, tendrá todas las atribuciones previstas en esta ley y en la reforma constitucional que le da fundamento, debiendo observar los principios rectores de la fiscalización superior de legalidad, certeza, independencia, objetividad, imparcialidad, posterioridad, anualidad y profesionalismo; de la misma forma, los servidores públicos de la Auditoría Superior deberán cumplir con las obligaciones que les impone esta ley.
+La Auditoria Superior del Estado, en las revisiones a que se refiere el párrafo anterior, tendrá todas las atribuciones previstas en esta ley y en la reforma constitucional que le da fundamento, debiendo observar los principios rectores de la fiscalización superior de legalidad, certeza, independencia, objetividad, imparcialidad, posterioridad, anualidad y profesionalismo; de la misma forma, los servidores públicos de la Auditoría Superior deberán cumplir con las obligaciones que les impone esta ley.
 
 Los sujetos auditables y fiscalizables que soliciten la revisión prevista en el presente artículo tendrán un término de quince días a partir de la entrega de su solicitud para proporcionar el domicilio al que se refiere el artículo 5 de esta ley.
 
