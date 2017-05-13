@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2017-04-04"
+last_updated: "2017-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,139 +21,33 @@ state: "JAL"
 ---
 # LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA DEL MUNICIPIO DE PACHUCA DE SOTO, ESTADO DE HIDALGO
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL DECRETO NUMERO NUEVE, PUBLICADA EN EL P.O. DE 22 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2017.
 
-Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de octubre de 2002.
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 13 DE MAYO DE 2017.]</small>
 
-El Ciudadano Ingeniero José Antonio Tellería Beltrán, Presidente Municipal Constitucional de Pachuca de Soto, Estado de Hidalgo, a sus habitantes hace saber:
+Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
-Que el Honorable Ayuntamiento, en uso de las facultades que le confiere el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, así como la fracción II del Artículo 141 de la Constitución Política del Estado Libre y Soberano de Hidalgo y el Artículo 49 fracciones I y II, de la Ley Orgánica Municipal del Estado de Hidalgo, ha tenido a bien expedir el siguiente:
+Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
-DECRETO MUNICIPAL NUMERO 23
+Enrique Alvarez del Castillo, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber:
 
-QUE CONTIENE EL REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA DEL MUNICIPIO DE PACHUCA DE SOTO, ESTADO DE HIDALGO.
+Que por la Secretaría del H. Congreso del Estado se me ha comunicado el siguiente
 
-CONSIDERANDO
+DECRETO
 
-PRIMERO.- Que uno de los objetivos de la actual Administración Municipal, es crear los ordenamientos legales necesarios a fin de lograr una correcta administración de los recursos, buscando en todo momento el respeto a los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia con que debe desempeñarse toda función pública.
+Número 11558. El Congreso del Estado decreta:
 
-SEGUNDO.- Que la Ley Orgánica Municipal del Estado de Hidalgo, otorga la facultad al H. Ayuntamiento para aprobar Reglamentos que organicen la Administración Pública Municipal que regulen las materias, procedimientos, funciones y servicios públicos de su competencia.
-
-TERCERO.- Que es una estrategia de esta Administración Municipal, lograr una Gestión de Gobierno efectiva y de bienestar social, sustentada en la capacidad de acción conjunta con la sociedad, promoviendo así una cultura cívica en el manejo de los recursos.
-
-CUARTO.- Que es necesario que la Comisión de Transparencia del Municipio de Pachuca de Soto, cuente con un ordenamiento jurídico adecuado mediante el cual se regule el desarrollo de las Sesiones que celebre la Comisión de Transparencia del Municipio de Pachuca de Soto, así como sus atribuciones y facultades.
-
-QUINTO.- Derivado de la reforma al Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, el Municipio de Pachuca de Soto, ha iniciado un proceso de adecuación en su Marco Jurídico a efecto de consolidar la autonomía municipal.
-
-SEXTO.- Toda vez que la Ley Orgánica Municipal del Estado de Hidalgo, faculta a los Ayuntamientos a aprobar disposiciones de observancia general que aseguren la participación ciudadana y vecinal de sus habitantes, el H. Ayuntamiento asume su responsabilidad implementando las acciones, por lo cual se crea la Comisión de Transparencia del Municipio de Pachuca de Soto, como un Organo de Consulta y Participación Ciudadana encargado de auxiliar a la Contraloría Interna Municipal en. la vigilancia de los recursos humanos y materiales a fin de salvaguardar los principios de legalidad, imparcialidad, lealtad, eficiencia y honradez en la Administración Pública Municipal y a efecto de cumplir con los diversos compromisos adquiridos con la ciudadanía en el sentido de gobernar de manera eficiente y eficaz.
-
-Por lo anteriormente expuesto y fundado, los integrantes del Honorable Ayuntamiento de Pachuca de Soto, Estado de Hidalgo, han tenido a bien expedir el siguiente:
-
-DECRETO MUNICIPAL NUMERO 23
-
-QUE CONTIENE EL REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA DEL MUNICIPIO DE PACHUCA DE SOTO, ESTADO DE HIDALGO.
+Ley de Hacienda Municipal del estado de Jalisco
 
 # LIBRO PRIMERO. Disposiciones Preliminares
 
 ## TITULO UNICO
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
-
-###### ARTICULO 1.
-
-El presente Reglamento tiene por objeto regular la integración, atribuciones, facultades y funcionamiento de la Comisión de Transparencia del Municipio de Pachuca de Soto.
-
-###### ARTICULO 2.
-
-La Comisión de Transparencia del Municipio de Pachuca de Soto, es el Organo de Consulta y Participación Ciudadana encargada de auxiliar a la Secretaría de la Contraloría Municipal en la vigilancia de los recursos humanos y materiales, a fin de salvaguardar los principios de legalidad, imparcialidad, lealtad, eficiencia y honradez en la Administración Pública Municipal.
-
-###### ARTICULO 3.
-
-Corresponde al H. Ayuntamiento:
-
-I.- Aprobar y evaluar el cumplimiento del Plan Anual de Fortalecimiento de la transparencia Municipal;
-
-II.- Designar de entre los Regidores integrantes del H. Ayuntamiento, a quien deba integrar la Comisión de Transparencia del Municipio de Pachuca de Soto;
-
-III.- Designar de entre los ciudadanos que reúnan los requisitos de la convocatoria, a los integrantes de la Comisión de Transparencia del Municipio de Pachuca de Soto, así como al Presidente de la misma; y
-
-IV.-Tomar protesta a los miembros de la Comisión de Transparencia del Municipio de Pachuca de Soto.
-
-###### ARTICULO 4.
-
-Corresponde a la Comisión de Transparencia del Municipio de Pachuca de Soto:
-
-I.- Elaborar y someter a consideración del H. Ayuntamiento, el Plan Anual de Fortalecimiento de la Transparencia Municipal;
-
-II.- Coadyuvar con la Secretaría de la Contraloría Municipal, en el cumplimiento del Plan Anual de Fortalecimiento de la Transparencia Municipal;
-
-III.- Celebrar las Sesiones Ordinarias, Extraordinarias o Solemnes, que se requieran para el cumplimiento de sus funciones;
-
-IV.- Promover la integración y participación de órganos de consulta, organismos ciudadanos públicos o privados, para el cumplimiento del Plan Anual de Fortalecimiento de la Transparencia Municipal;
-
-V.- Promover estudios e investigaciones que aporten medios, métodos de control e indicadores para el Fortalecimiento de la Transparencia en la Administración Pública Municipal;
-
-VI.- Realizar sondeos y encuestas con los habitantes del Municipio, que permitan conocer aquellos índices que afecten el Desarrollo de las Funciones de la Administración Pública Municipal;
-
-VII.- Organizar y trabajar en Subcomisiones Permanentes o Transitorias, para el estudio, examen y propuestas de solución a los asuntos que les sean turnados;
-
-VIII.- Resolver respecto de los Proyectos de Acuerdo que presenten las Subcomisiones;
-
-IX.- Remover a los miembros de la Comisión de Transparencia del Municipio de Pachuca de Soto, cuando incurran en cualquiera de los supuestos del Artículo 13 del presente Reglamento; y
-
-X.- Las demás que establezca expresamente el H. Ayuntamiento y el presente Ordenamiento.
-
-###### ARTICULO 5.
-
-El Plan Anual de Fortalecimiento de la Transparencia Municipal, es el documento que integra los compromisos y propuestas de los miembros de la Comisión de Transparencia del Municipio de Pachuca de Soto; a efecto de abatir la corrupción, transparentar el manejo de los recursos humanos y materiales, así como salvaguardar los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en la Administración Pública Municipal.
-
-El Informe de los resultados obtenidos de la ejecución del Plan Anual de Fortalecimiento de la Transparencia Municipal, deberá presentarse en los meses de junio y diciembre de cada año.
-
-###### ARTICULO 6.
-
-Corresponde al Presidente de la Comisión de Transparencia del Municipio de Pachuca:
-
-I.- Informar verbalmente y por escrito al H. Ayuntamiento semestralmente, sobre los resultados obtenidos del Plan Anual de Fortalecimiento de la Transparencia Municipal;
-
-II.- Presidir las Sesiones de la Comisión de Transparencia del Municipio de Pachuca de Soto y en su caso ejercer voto de calidad;
-
-III.- Convocar a Sesiones Ordinarias, Extraordinarias y Solemnes, por conducto del Secretario Ejecutivo, debiendo indicar la fecha, hora, lugar y. Orden del Día;
-
-IV.- Expedir los nombramientos a los integrantes de la Comisión de Transparencia del Municipio de Pachuca de Soto; y
-
-V.- Vigilar el cumplimiento de los Acuerdos de la Comisión de Transparencia del Municipio de Pachuca de Soto, así como la ejecución del Plan Anual de Fortalecimiento de la Transparencia Municipal.
-
-###### ARTICULO 7.
-
-. Corresponde al Secretario Ejecutivo de la Comisión de Transparencia del Municipio de. Pachuca de Soto:
-
-I.- Expedir la Convocatoria Pública, para la selección de los ciudadanos que formarán parte de la Comisión de Transparencia del Municipio de Pachuca de Soto;
-
-II.- Presentarse por lo menos quince minutos antes de la hora señalada, para el inicio de la Sesión de la Comisión de Transparencia del Municipio de Pachuca de Soto, a fin de corroborar que el lugar respectivo se encuentre en condiciones adecuadas para celebrar la Sesión correspondiente;
-
-III.- Estar presente en las Sesiones de la Comisión de Transparencia del Municipio de Pachuca de Soto;
-
-IV.- Pasar lista de asistencia a los integrantes de la Comisión de Transparencia del Municipio de Pachuca de Soto y comprobar que exista el Quórum requerido;
-
-V.- Moderar las Sesiones de la Comisión de Transparencia del Municipio de Pachuca de Soto y otorgar el uso de la voz a quien tenga derecho a ello;
-
-VI.- Presidir las Sesiones que celebre la Comisión de Transparencia del Municipio de Pachuca de Soto, en ausencia de su Presidente;
-
-VII.- Elaborar las minutas, constancias y demás documentos que integren el Archivo de la Comisión de Transparencia del Municipio de Pachuca de Soto;
-
-VIII:- Levantar las Actas de las Sesiones de la Comisión de Transparencia del Municipio de Pachuca de Soto;
-
-IX.- Llevar el libro de Actas de las Sesiones de la Comisión de Transparencia del Municipio de Pachuca de Soto, donde se asienten todos los asuntos tratados y los acuerdos tomados;
-
-X.- Llevar el archivo y registro de la documentación que se generen por la Comisión de Transparencia del Municipio de Pachuca de Soto;
-
-XI.- Publicar en los medios de comunicación, las acciones que realice la Comisión de Transparencia del Municipio de Pachuca de Soto; y
-
-XII.- Las demás que le sean conferidas por el H. Ayuntamiento.
+### CAPITULO I. Disposiciones Generales
 
 ###### Art. 1°.
 
@@ -283,67 +177,7 @@ Los impuestos, contribuciones especiales, derechos, aprovechamientos, participac
 
 Los productos se regularán por las disposiciones legales indicadas en el párrafo anterior o por lo que, en su caso, prevengan los contratos o concesiones respectivas.
 
-### CAPITULO SEGUNDO. DE LA INTEGRACION Y FUNCIONAMIENTO
-
-###### ARTICULO 8.
-
-La Comisión de Transparencia del Municipio de Pachuca de Soto, estará integrada por:
-
-I.- Un Funcionario de la Administración Pública Municipal, designado por el Presidente Municipal de Pachuca de Soto, con derecho a voz y voto;
-
-II.- Un Regidor integrante del H. Ayuntamiento, con derecho a voz y voto;
-
-III.- Un Secretario Ejecutivo, que será el Secretario de la Contraloría Municipal, con derecho a voz y voto; y
-
-IV.- Cuatro Ciudadanos Representantes: 2 de la Iniciativa Privada, uno del Area Social y uno del Area Académica, de entre los cuales elegirán al Presidente de la Comisión de Transparencia del Municipio de Pachuca de Soto, todos con derecho a voz y voto.
-
-###### ARTICULO 9.
-
-Los Titulares de las Dependencias de la Administración Pública Municipal, podrán participar en las Sesiones que realice la Comisión de Transparencia del Municipio de Pachuca de Soto, con derecho a voz, previa invitación que al efecto expida el Secretario Ejecutivo por acuerdo de la Comisión o invitación del Presidente de la misma.
-
-Asimismo, deberán participar en los trabajos de las Subcomisiones de la Comisión de Transparencia del Municipio de Pachuca de Soto, cuando por la naturaleza del asunto que se trate se relacione con su área, previa invitación que al efecto emita el Coordinador de cada Subcomisión.
-
-###### ARTICULO 10.
-
-Los requisitos para ser Ciudadano integrante de la Comisión de Transparencia del Municipio de Pachuca de Soto, son los siguientes:
-
-I.- Ser ciudadano mexicano en pleno goce de sus derechos;
-
-II.- Contar por lo menos con cinco años de residencia en el Municipio de Pachuca de Soto, anteriores al día de la elección;
-
-III.- Edad mínima de veinticinco años a la fecha de la elección;
-
-IV.- No desempeñar cargo público o por honorarios en la Federación, Estados o Municipios; y
-
-V.- No ser miembro o militante de algún partido o agrupación política.
-
-Los cargos de los integrantes de la Comisión de Transparencia del Municipio de Pachuca de Soto, tienen el carácter de honorarios.
-
-###### ARTICULO 11.
-
-La duración en el cargo de los integrantes de la Comisión de Transparencia del Municipio de Pachuca de Soto, será por el mismo período que dure la Administración Pública Municipal que los designe.
-
-###### ARTICULO 12.
-
-La Comisión de Transparencia del Municipio de Pachuca de Soto, deberá ser instalada en un plazo no mayor de 60 días naturales posteriores al inicio de cada Administración Pública Municipal, de conformidad con el presente Reglamento.
-
-###### ARTICULO 13.
-
-Son causas de remoción del cargo de los integrantes de la Comisión de Transparencia del Municipio de Pachuca de Soto:
-
-I.- Para los Servidores Públicos, cualquiera de las establecidas en la Ley de
-
-Responsabilidades de los Servidores Públicos del Estado de Hidalgo;
-
-II.- Para los integrantes ciudadanos, cuando en el ejercicio de sus funciones generen violaciones a las garantías individuales y sociales; y
-
-III.- Faltar por tres ocasiones consecutivas sin justificación, a las Sesiones que se convoquen debidamente para los trabajos del Pleno de la Comisión de Transparencia del Municipio de Pachuca de Soto.
-
-###### ARTICULO 14.
-
-Los ciudadanos miembros de la Comisión de Transparencia del Municipio de Pachuca de Soto, podrán solicitar autorización al Pleno de la misma, para dejar de participar definitivamente como parte de la Comisión.
-
-Dentro de los treinta días naturales posteriores a la separación del cargo que apruebe el Pleno de la Comisión de Transparencia del Municipio de Pachuca de Soto, deberá expedirse una nueva Convocatoria.
+### CAPITULO II. De las Autoridades Fiscales, sus Atribuciones y del Procedimiento Administrativo
 
 ###### Art. 20.
 
@@ -549,41 +383,7 @@ Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin
 
 El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones fiscales, estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados. Dicha reserva, no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los servidores públicos encargados de la administración y la defensa de los intereses fiscales del municipio, a las autoridades judiciales en proceso del orden penal o a los Tribunales competentes que conozcan de pensiones alimenticias.
 
-### CAPITULO TERCERO. DE LAS SESIONES
-
-###### ARTICULO 15.
-
-Las Sesiones de la Comisión de Transparencia del Municipio de Pachuca de Soto, podrán tener el carácter de Ordinarias, Extraordinarias o Solemnes.
-
-El Quórum para la validez de los trabajos realizados por la Comisión de Transparencia del Municipio de Pachuca de Soto, requiere de la asistencia de más de la mitad de sus integrantes.
-
-###### ARTICULO 16.
-
-Las Sesiones Ordinarias, se deberán llevar a cabo el primer martes hábil de cada mes.
-
-Las Sesiones Extraordinarias, se podrán celebrar cuantas veces se considere necesario y deberán ser convocadas por escrito por el Presidente de la Comisión de Transparencia del Municipio de Pachuca de Soto.
-
-###### ARTICULO 17.
-
-Serán Solemnes las Sesiones de la Comisión de Transparencia del Municipio de Pachuca de Soto, en las que se desahoguen los siguientes asuntos:
-
-I.- Cuando concurran a las Sesiones de la Comisión de Transparencia del Municipio de Pachuca de Soto, personalidades distinguidas de los sectores público, privado, social o académico, a consideración expresa y previa aprobación del Pleno; y
-
-II.- Las demás que acuerden previamente los miembros de la Comisión de Transparencia del Municipio de Pachuca de Soto.
-
-###### ARTICULO 18.
-
-Las Actas de las Sesiones de la Comisión de Transparencia del Municipio de Pachuca de Soto, deberán contener:
-
-I.- Orden del día;
-
-II.- Nombre de quienes participen;
-
-III.- Día y hora de apertura y clausura;
-
-IV.- Observaciones, correcciones y aprobación del Acta anterior; y
-
-V.- Relación sucinta, ordenada y clara de cuanto se trate y acuerde en las Sesiones.
+### CAPITULO III. De los Sujetos, sus Derechos y Obligaciones
 
 ###### Art. 29.
 
@@ -745,41 +545,7 @@ En los casos de cambio de nombre, denominación o razón social, domicilio o act
 
 Cuando un establecimiento sea objeto de traspaso, simultáneamente al aviso correspondiente, el adquirente deberá cumplir con la obligación de registrarse o empadronarse.
 
-### CAPITULO CUARTO. DE LAS DISCUSIONES
-
-###### ARTICULO 19.
-
-No podrá ser puesto a discusión, ningún documento que no hubiese sido integrado en el Orden del Día o como punto adicional en los términos que establece el presente Reglamento.
-
-###### ARTICULO 20.
-
-Los asuntos que pretendan incluirse en el Orden del Día, como puntos adicionales por los miembros de la Comisión de Transparencia del Municipio de Pachuca, deberán especificarse de manera breve y se votará su inclusión por el Pleno de la misma.
-
-###### ARTICULO 21.
-
-Una vez leído un Proyecto de Acuerdo o Documento incluido en el Orden del Día, será sometido a discusión del Pleno por el Secretario Ejecutivo.
-
-###### ARTICULO 22.
-
-Durante la discusión de un asunto en Pleno, los integrantes de la Comisión de Transparencia del Municipio de Pachuca, podrán hacer uso de la palabra hasta por dos ocasiones, sin excederse en cada intervención de tres minutos. Los Representantes integrantes de la Subcomisión autora del documento, podrán hacer uso de la palabra en la discusión cuantas veces sea necesario.
-
-###### ARTICULO 23.
-
-Cuando se hubiese propuesto una modificación al contenido del documento sometido a discusión, el Secretario Ejecutivo preguntará a cada uno de los autores del mismo si están de acuerdo con la modificación, en este caso, someterá a votación el documento con la modificación aprobada por los autores, de lo contrario, el documento se votará como originalmente se presentó.
-
-###### ARTICULO 24.
-
-Iniciada la Sesión, sólo podrá ser suspendida por las siguientes causas:
-
-I.- Por desintegración del Quórum;
-
-II.- Por Acuerdo de las dos terceras partes de los integrantes de la Comisión de Transparencia del Municipio de Pachuca de Soto presentes en la Sesión, en cuyo caso quien preside la Sesión deberá fijar el día y la hora en que ésta deba continuar; y
-
-III.- Cuando se vea afectado el orden y seguridad del Recinto o integridad de los miembros presentes.
-
-###### ARTICULO 25.
-
-Cuando la discusión derive en cuestiones diversas al tema tratado, el Secretario Ejecutivo hará moción de orden que haga volver al tema de discusión.
+### CAPITULO IV. Del Nacimiento y Extinción de los Créditos Fiscales
 
 ###### Art. 42.
 
@@ -1063,61 +829,7 @@ Unicamente el Congreso del Estado, mediante disposición de carácter general, p
 
 ## TITULO PRIMERO. Impuestos
 
-### CAPITULO QUINTO. DE LAS VOTACIONES
-
-###### ARTICULO 26.
-
-Podrán votar los Acuerdos en el Pleno de la Comisión de Transparencia del Municipio de Pachuca de Soto, exclusivamente quienes tengan derecho expreso a ello.
-
-###### ARTICULO 27.
-
-Para los efectos del presente Reglamento, las votaciones se entenderán de la siguiente manera:
-
-I.- UNANIMIDAD: Cuando el voto del total de los integrantes asistentes sea en un mismo sentido;
-
-II.- MAYORIA ABSOLUTA: Aquélla que implique más de la mitad de los votos de integrantes;
-
-III.- MAYORIA CALIFICADA: Requiere el voto de las dos terceras partes de los integrantes en un mismo sentido; y
-
-IV.- MAYORIA SIMPLE: La que alcance el mayor número de votos, pero no los suficientes para llegar a la Mayoría Absoluta.
-
-###### ARTICULO 28.
-
-Los integrantes de la Comisión de Transparencia del Municipio de Pachuca de Soto, podrán ejercer el voto de las formas siguientes:
-
-I.- Votación Nominal;
-
-II.- Votación Económica; y
-
-III.- Por Cédula.
-
-###### ARTICULO 29.
-
-Se harán Votaciones Nominales, en todos aquellos casos en que a solicitud de por lo menos dos terceras partes de los miembros de la Comisión de Transparencia del Municipio de Pachuca de Soto, así lo acuerden.
-
-###### ARTICULO 30.
-
-La Votación Nominal, se efectuará de la siguiente forma:
-
-I.- El Secretario Ejecutivo, mencionará en voz alta el nombre y apellidos de cada miembro de la Comisión de Transparencia del Municipio de Pachuca de Soto, iniciando siempre con el Presidente de la misma y anotando el sentido de su voto o bien su abstención;
-
-II.- Después de escuchar el sentido de la votación, el Secretario Ejecutivo anotará los que voten en forma afirmativa, negativa y las abstenciones; y
-
-III.- Concluida la votación, el Secretario Ejecutivo procederá a efectuar el cómputo y dirá el número total de cada lista.
-
-###### ARTICULO 31.
-
-Las demás Votaciones sobre Resoluciones o Acuerdos de la Comisión de Transparencia del Municipio de Pachuca de Soto, serán de forma económica, consistiendo únicamente en levantar la mano quienes estén a favor.
-
-###### ARTICULO 32.
-
-Cuando se empate la votación en cualquiera de sus formas, el Presidente de la Comisión de Transparencia del Municipio de Pachuca de Soto, tendrá la facultad de ejercer voto de calidad para definir el resultado.
-
-###### ARTICULO 33.
-
-Las Resoluciones o Acuerdos de la Comisión de Transparencia del Municipio de Pachuca de Soto, se tomarán por mayoría de votos de los integrantes presentes, a excepción de aquellos casos en los que se requiera otro tipo de votación.
-
-Si finaliza la exposición de un asunto y nadie solicita el uso de la palabra o se hubiere agotado el número de oradores o bien, cuando se considere suficientemente discutido el asunto a juicio de quien presida la Sesión, éste será sometido a votación.
+### CAPITULO I. Disposiciones Generales
 
 ###### Art. 67.
 
@@ -1127,57 +839,7 @@ Los Impuestos se liquidarán y pagarán, de conformidad con las tarifas, tasas o
 
 En el caso de celebrarse convenios entre los gobiernos Estatal y Municipal para la recaudación de los Impuestos establecidos en este título se estará a lo señalado en los convenios respectivos.
 
-### CAPITULO SEXTO. DE LAS SUBCOMISIONES
-
-###### ARTICULO 34.
-
-La Comisión de Transparencia del Municipio de Pachuca de Soto, para el mejor desempeño de sus funciones, se organizará en Subcomisiones Permanentes o Transitorias.
-
-###### ARTICULO 35.
-
-Dentro de los siguientes 30 días a la instalación de la Comisión de Transparencia del Municipio de Pachuca de Soto, sus miembros se constituirán en Subcomisiones Permanentes para el estudio, examen y resolución de los asuntos que les sean turnados.
-
-Las Subcomisiones Transitorias, se constituirán por Acuerdo del Pleno de la Comisión de Transparencia del Municipio de Pachuca de Soto, por las dos terceras partes de sus integrantes.
-
-###### ARTICULO 36.
-
-Cada Subcomisión, estará integrada por miembros de la Comisión de Transparencia del Municipio de Pachuca de Soto, que sean designados por el Pleno de la misma y por Funcionarios de la Administración Pública Municipal, atendiendo a la naturaleza de los asuntos a tratar y debiendo nombrar un Coordinador.
-
-###### ARTICULO 37.
-
-Los integrantes de la Comisión de Transparencia del Municipio de Pachuca de Soto, deberán formar parte de por lo menos una Subcomisión.
-
-###### ARTICULO 38.
-
-Las Subcomisiones Permanentes serán las siguientes:
-
-I.- DE DIAGNOSTICO Y PLANEACION ESTRATEGICA: Cuya competencia será elaborar los mecanismos para la detección y corrección de deficiencias y problemas en las diferentes áreas de la Administración Pública Municipal;
-
-II.- DE DIFUSION INSTITUCIONAL: Cuya competencia será buscar y proponer los mecanismos óptimos para dar a conocer a los habitantes del Municipio de Pachuca de Soto, los avances y resultados del Plan Anual de Fortalecimiento de la Transparencia Municipal; y
-
-III.- DE SUPERVISION: Cuya competencia será promover los métodos de control y evaluación para el cumplimiento del Plan Anual de Fortalecimiento de la Transparencia Municipal.
-
-###### ARTICULO 39.
-
-Los asuntos que hayan sido turnados a las Subcomisiones, deberán ser presentados para su votación al Pleno de la Comisión de Transparencia del Municipio de Pachuca de Soto, en un plazo no mayor de 30 días hábiles contados a partir del día siguiente al de la celebración de-la Reunión de Trabajo de la Subcomisión respectiva.
-
-En el caso de que los asuntos tengan el carácter de urgente resolución, serán analizados y resueltos dentro de la Sesión en que sean presentados.
-
-###### ARTICULO 40.
-
-Si algún integrante de la Comisión de Transparencia del Municipio de Pachuca de Soto o de las Subcomisiones, tuviere interés personal en algún asunto, dejará de conocer inmediatamente de éste, debiendo excusarse mediante escrito presentado ante el Secretario Ejecutivo.
-
-El Secretario Ejecutivo informará dicho asunto, en la siguiente Sesión a la Comisión de Transparencia del Municipio de Pachuca de Soto.
-
-###### ARTICULO 41.
-
-Cuando un asunto por su naturaleza involucre la competencia de dos o más Subcomisiones, el Presidente de la Comisión de Transparencia del Municipio de Pachuca de Soto, determinará cuál de ellas será la convocante para el desahogo de los trabajos.
-
-Las Subcomisiones involucradas, deberán celebrar las Reuniones necesarias para mejor proveer el asunto, previa Convocatoria.
-
-###### ARTICULO 42.
-
-Las Subcomisiones, fundamentarán por escrito sus Proyectos con proposiciones claras y precisas.
+### CAPITULO II. Impuesto sobre Actividades Comerciales Industriales y de Prestación de Servicios
 
 ###### Art. 69.
 
@@ -2609,91 +2271,247 @@ V. Autorizar, previamente, los pagos o erogaciones de fondos que deban hacerse c
 
 VI. De acuerdo con las modificaciones al presupuesto en ejercicio, y para la preparación del mismo para el ejercicio fiscal siguiente, deberá realizar estudios de carácter presupuestal, con el propósito de formar estadística razonada, respecto al desenvolvimiento de los servicios públicos, y determinar si su costo corresponde a la función que desarrollan, con fines de economía y eficiencia en el ejercicio del gasto público.
 
-> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>[N. DE E. EL DECRETO NUMERO 26305/LXI/17, PUBLICADO EN LA SECCIÓN VI DEL P.O. DE 4 DE ABRIL DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE TÍTULO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2017)</small>
 
 ## TITULO SEGUNDO. Del Presupuesto de Egresos
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2017)</small>
 
-### CAPITULO I. De la Estructura
+### CAPITULO I. De la Preparación del Presupuesto
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 206.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+El gasto público del municipio se basará en el presupuesto que se elaborará para cada año calendario y su preparación comprenderá todas aquellas tareas que se señalan en el presente capítulo.
+
+El Plan Municipal de Desarrollo y los programas que de él se deriven serán base fundamental para la elaboración anual del proyecto de presupuesto de egresos del municipio
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 207.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+El Presidente Municipal, a través de la Tesorería o el área Encargada de la Hacienda, determinará los lineamientos del gasto, así como las políticas y normas que se aplicarán durante la elaboración del anteproyecto de presupuesto de egresos, a los cuales tendrán que sujetarse las dependencias y entidades municipales mencionadas en el artículo 20 de esta Ley.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 208.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+La Tesorería o el área Encargada de la Hacienda emitirá los manuales e instructivos para la formulación de los anteproyectos de presupuesto de egresos y los remitirá oportunamente a las dependencias y entidades municipales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 209.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+La Tesorería o el área Encargada de la Hacienda realizará estudios pertinentes con el propósito de formular una política de gasto público razonada respecto al desenvolvimiento de los indicadores de impacto en la sociedad y de contar con criterios financieros que permitan incrementar la eficiencia en el aprovechamiento de los arbitrios del municipio.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+Los recursos para cubrir los adeudos del ejercicio fiscal anterior, previstos en el proyecto de presupuesto de egresos, podrán ser hasta por el 2.5 por ciento de los ingresos totales del municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 210.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+El importe del presupuesto de egresos, no deberá exceder de la estimación de los ingresos señalados para el ejercicio correspondiente por la Ley de Ingresos y de los excedentes que provengan del ejercicio inmediato anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 211.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+Para la formulación del proyecto de presupuesto de egresos del gobierno municipal, de las dependencias y entidades municipales elaborarán sus anteproyectos con base en los programas respectivos, ajustándose a los principios de racionalidad, austeridad, disciplina presupuestal, motivación, certeza, equidad, proporcionalidad y perspectiva de género, así como a los montos que establezca el Presidente Municipal, por conducto de la Tesorería o el área Encargada de la Hacienda.
+
+(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017) (F. DE E., P.O. 13 DE MAYO DE 2017)
 
 ###### Art. 212.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+Los anteproyectos de presupuesto a que se refiere el presente artículo deben contener las plantillas de personal en las que se especifiquen los empleos públicos del municipio y se señale el total de las remuneraciones a que tengan derecho cada uno de los servidores públicos municipales, las cuales deben ser acordes a lo dispuesto por los artículos 127 de la Constitución Política de los Estados Unidos Mexicanos y 111 de la Constitución Política del Estado de Jalisco, así como a lo dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás disposiciones legales aplicables, sin que bajo ninguna circunstancia, puedan incorporarse ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+En materia de servicios personales, se observará lo siguiente:
 
-### CAPITULO II. De la Estimación del Monto
+I. La asignación global de recursos para servicios personales que se apruebe en el Presupuesto de Egresos, tendrá como límite, el producto que resulte de aplicar al monto aprobado en el Presupuesto de Egresos del ejercicio inmediato anterior, una tasa de crecimiento equivalente al valor que resulte menor entre:
+
+a) El 3 por ciento de crecimiento real, y
+
+b) El crecimiento real del Producto Interno Bruto señalado para el ejercicio que se está presupuestando. En caso de que el Producto Interno Bruto presente una variación real negativa para el ejercicio que se está presupuestando, se deberá considerar un crecimiento real igual a cero.
+
+Se exceptúa del cumplimiento de la presente fracción, el monto erogado por sentencias laborales definitivas emitidas por la autoridad competente.
+
+Los gastos en servicios personales que sean estrictamente indispensables para la implementación de nuevas leyes federales o locales, así como reformas a las mismas, podrán autorizarse sin sujetarse al límite establecido en la presente fracción, hasta por el monto que específicamente se requiera para dar cumplimiento a lo establecido en esta Ley.
+
+(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2017) (F. DE E., P.O. 13 DE MAYO DE 2017)
+
+### CAPITULO II. De la Estructura del Presupuesto
+
+(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017) (F. DE E., P.O. 13 DE MAYO DE 2017)
 
 ###### Art. 213.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+La estructura del proyecto de presupuesto de egresos, tendrá una base programática y se le dará una sustentación lo suficientemente amplia, que abarque todas las responsabilidades del Gobierno Municipal por conducto de todas sus entidades y dependencias.
+
+(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017) (F. DE E., P.O. 13 DE MAYO DE 2017)
 
 ###### Art. 214.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+El proyecto de Presupuesto de Egresos del Municipio se integrará con los documentos que se refieren a:
+
+I. Exposición de motivos en la que se señalen los efectos políticos, económicos y sociales que se pretendan lograr;
+
+II. Descripción de los programas que integran el proyecto de presupuesto de egresos, señalando objetivos y prioridades globales, así como las dependencias y entes públicos municipales, responsables de su ejecución;
+
+III. Matrices de indicadores para resultados de cada una de las dependencias y entes públicos municipales;
+
+IV. Informe de los avances en el cumplimiento de los objetivos y metas de desarrollo establecidas en el Plan Municipal y de cada una de las Matrices de Indicadores para Resultados aplicados durante el año;
+
+V. Explicación y justificación de los principales programas, en especial de aquellos que abarquen dos o más ejercicios presupuestales; y de las diferentes partidas del presupuesto;
+
+VI. Estimación de ingresos y proporción de gastos del ejercicio presupuestal para el que se proponen;
+
+VII. Las proyecciones del presupuesto de egresos considerando los criterios generales de política económica y con base en los formatos que emita el Consejo Nacional de Armonización Contable y abarcarán un periodo de tres años en adición al ejercicio fiscal en cuestión, las que se revisarán y, en su caso, se adecuarán anualmente en los ejercicios subsecuentes;
+
+VIII. Presentación según su clasificación: por dependencia, por objeto del gasto y programática;
+
+IX. Ingresos y gastos estimados del ejercicio presupuestal en curso;
+
+X. Situación de la deuda pública al fin del ejercicio presupuestal en curso y estimación de la que se tendrá al cierre del que se propone, incluyendo el saldo total de la deuda, condiciones de contratación, calendario de vencimiento de las obligaciones contraídas en el ejercicio inmediato anterior y la aplicación de los recursos a proyectos de inversión, así como su impacto en relación con el Presupuesto de Egresos;
+
+XI. Plantillas de personal por jornada y por nivel, conforme lo dispuesto en el artículo 10, fracción II, de la Ley de la Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Asimismo, un estudio actuarial de las pensiones de sus trabajadores, el cual como mínimo deberá actualizarse cada cuatro años. El estudio deberá incluir la población afiliada, la edad promedio, las características de las prestaciones otorgadas por la ley aplicable, el monto de reservas de pensiones, así como el periodo de suficiencia y el balance actuarial en valor presente;
+
+XII. Programas de obra pública o similar que detalle proyectos de obra, su ubicación, el costo por cada una y el número de habitantes que se verán beneficiados, así como la cantidad asignada para cada caso en el Presupuesto de Egresos; y el capítulo específico que incorpore las erogaciones multianuales para proyectos de inversión en infraestructura;
+
+XIII. Situación que guardan las obligaciones de pago derivadas de los contratos de asociación público-privada para el desarrollo de proyectos de inversión en infraestructura anual o multianual, o de prestación de servicios que en ejercicios anteriores fueron autorizados por el Ayuntamiento;
+
+XIV. Descripción de los riesgos relevantes para las finanzas municipales, incluyendo los montos de Deuda Contingente, acompañados de su propuesta de acción para enfrentarlos;
+
+XV. Los resultados de las finanzas públicas que abarquen un periodo de los tres últimos años y el ejercicio fiscal en cuestión, de acuerdo con los formatos que emita el Consejo Nacional de Armonización Contable para este fin; y
+
+XVI. En general, toda información que se considere útil para mostrar la propuesta en forma clara y completa.
+
+La proyección y resultados a que se refiere (sic) las fracciones VII y XV, comprenderán sólo un año para el caso de los Municipios con una población menor a 200,000 habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía. Dichos Municipios contarán con el apoyo técnico de la Secretaría de Planeación, Administración y Finanzas para cumplir con lo previsto en este artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 215.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+El proyecto de Presupuestos de Egresos de los Municipios se deberán elaborar conforme a lo establecido en esta Ley, en la Ley General de Contabilidad Gubernamental y las normas que emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; debiendo ser congruentes con los planes estatales y municipales de desarrollo y los programas derivados de los mismos e incluirán cuando menos objetivos anuales, estrategias y metas.
 
-### CAPITULO III. De la Iniciativa, Discusión y Aprobación
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2017)</small>
+
+### CAPITULO III. De la Iniciativa, Aprobación y Reformas al Presupuesto
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 216.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+El Presidente Municipal deberá presentar al Ayuntamiento, para su aprobación a más tardar el primer día hábil del mes de diciembre de cada año, el proyecto de presupuesto de egresos que reúna los requisitos señalados en esta ley, para ejercer en el año siguiente, y deberá transcurrir un plazo mínimo de diez días antes de que el Ayuntamiento proceda a su discusión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 217.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+El Ayuntamiento dará trámite a la Iniciativa del proyecto de Presupuesto de Egresos presentado, procediendo a su estudio y análisis para su aprobación.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 218.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+El Presupuesto de Egresos deberá ser aprobado a más tardar el 30 de diciembre. En caso de que para el día 31 de diciembre no sea aprobado el Presupuesto de Egresos correspondiente se aplicará el ejercicio del año inmediato anterior, incluyendo sus modificaciones.
 
-### CAPITULO IV. De su Ejercicio
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2017)</small>
+
+### CAPITULO IV. Del Ejercicio del Gasto
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 219.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+No procederá pago alguno que no esté comprendido en el Presupuesto de Egresos y en sus modificaciones posteriores o con cargo a Ingresos excedentes, atendiendo lo establecido en el artículo 21 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Los Municipios deberán revelar en la cuenta pública y en los informes que periódicamente entreguen al Congreso del Estado, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el gasto etiquetado y no etiquetado.
+
+Los recursos que integran la hacienda municipal deben ser ejercidos en forma directa por los ayuntamientos, o bien, por quienes ellos autoricen en sus reglamentos.
+
+El Gasto total propuesto por el Ayuntamiento del Municipio en el proyecto de Presupuesto de Egresos, el aprobado y el que se ejerza en el año fiscal, deberán contribuir al Balance presupuestario sostenible.
+
+Se considerará que el Balance presupuestario cumple con el principio de sostenibilidad, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. Igualmente, el Balance presupuestario de recursos disponibles es sostenible, cuando al final del ejercicio y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. El Financiamiento Neto que, en su caso, se contrate por parte del Municipio y se utilice para el cálculo del Balance presupuestario de recursos disponibles sostenible, deberá estar dentro del Techo de Financiamiento Neto que resulte de la aplicación del Sistema de Alertas, de acuerdo con el artículo 46 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 220.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+Se podrá incurrir en un balance presupuestario de recursos disponibles negativo, solo mediante aprobación del Congreso del Estado, cuando:
+
+I. Se presente una caída en el Producto Interno Bruto nacional en término (sic) reales, y lo anterior origine una caída en las participaciones federales con respecto a lo aprobado en el Presupuesto de Egresos de la Federación, y ésta no logre compensarse con los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
+
+II. Sea necesario cubrir el costo de la reconstrucción provocada por los desastres naturales declarados en los términos de la Ley General de Protección Civil, o
+
+III. Se tenga la necesidad de prever un costo mayor al 2 por ciento del Gasto no etiquetado observado en el Presupuesto de Egresos del ejercicio fiscal inmediato anterior, derivado de la implementación de ordenamientos jurídicos o medidas de política fiscal que, en ejercicios fiscales posteriores, contribuyan a mejorar ampliamente el Balance presupuestario de recursos disponibles negativo, ya sea porque generen mayores ingresos o menores gastos permanentes; es decir, que el valor presente neto de dicha medida supere ampliamente el costo de la misma en el ejercicio fiscal que se implemente.
+
+Debido a las razones excepcionales a que se refiere este artículo, el Ayuntamiento podrá proponer al Congreso del Estado que apruebe un Balance presupuestario de recursos disponibles negativo, para lo cual deberá presentar una iniciativa (sic) contenga cuando menos los siguientes elementos:
+
+a) Las razones excepcionales que justifican el Balance presupuestario de recursos disponibles negativos (sic), conforme a lo establecido en este artículo;
+
+b) Las fuentes de recursos necesarias y el monto específico para cubrir el Balance presupuestario de recursos negativo; y
+
+c) El número de ejercicios fiscales y las acciones requeridas para que dicho Balance presupuestario de recursos disponibles negativo sea eliminado y se restablezca el Balance presupuestario de recursos disponibles sostenible.
+
+En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos en la Ley de Ingresos correspondiente, los ayuntamientos a efecto de cumplir con el principio de sostenibilidad del balance presupuestario y del balance presupuestario de recursos disponibles, de acuerdo con la en (sic) la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, deberán aplicar ajustes al Presupuesto de Egresos en los rubros de gasto en el siguiente orden:
+
+a) Gastos de comunicación social;
+
+b) Gasto corriente que no constituya un subsidio entregado directamente a la población, y
+
+c) Gasto en servicios personales, prioritariamente las erogaciones por concepto de percepciones extraordinarias.
+
+En caso de que los ajustes anteriores no sean suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto, siempre y cuando se procure no afectar los programas sociales.
+
+En caso de registrase (sic) ingresos excedentes derivados de ingresos de libre disposición, estos ingresos se deberán destinar en términos de lo establecido por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 221.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+Una vez aprobado el Presupuesto de Egresos, para el ejercicio del gasto, el Gobierno Municipal deberá observar las disposiciones siguientes:
+
+I. Sólo podrán comprometer recursos con cargo al presupuesto autorizado, contando previamente con la suficiencia presupuestaria, identificando la fuente de ingresos;
+
+II. Podrán realizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos con cargo a los Ingresos excedentes de libre disposición que obtengan, en los términos del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativos (sic) y los Municipios, con la autorización previa del Ayuntamiento.
+
+Si alguna de las asignaciones vigentes en el presupuesto de egresos municipal resulta insuficiente para cubrir las necesidades que originen las funciones encomendadas al gobierno y administración pública municipal, el ayuntamiento puede decretar las ampliaciones necesarias previa justificación de los ingresos adicionales o en su caso la compensación mediante reducciones en otras previsiones de gasto, en las que habrá de soportarse el nuevo gasto, siempre y cuando no se altere el balance presupuestario.
+
+Los ayuntamientos podrán prever para su último año de gestión administrativa, en sus respectivos presupuestos de egresos un capítulo específico para el proceso de entrega-recepción del órgano de gobierno municipal y de la administración pública que le deriva con el objeto de eficientar, agilizar y transparentar este proceso.
+
+La partida prevista para el proceso de entrega-recepción, deberá cumplir en forma estricta con los criterios de racionalidad, austeridad y disciplina presupuestal;
+
+III. Con anterioridad al ejercicio o contratación de cualquier programa o proyecto de inversión cuyo monto rebase el equivalente a 10 millones de Unidades de Inversión, deberá realizarse un análisis costo y beneficio, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. Dicho análisis no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria de desastres naturales declarados en los términos de la Ley General de Protección Civil.
+
+Para los propósitos señalados en el párrafo anterior, cada Gobierno Municipal deberá contar con un área encargada de evaluar el análisis socioeconómico, conforme a los requisitos que, en su caso, se determinen para tales efectos; así como de integrar y administrar el registro de proyectos de Inversión pública productiva del municipio.
+
+Tratándose de proyectos de Inversión pública productiva que se pretendan contratar bajo un esquema de Asociación Público-Privada, los municipios y sus Entes Públicos municipales deberán acreditar, por lo menos, un análisis de conveniencia para llevar a cabo el proyecto a través de dicho esquema, en comparación con un mecanismo de obra pública tradicional y un análisis de transferencia de riesgos al sector privado.
+
+Dichas evaluaciones deberán ser públicas a través de las páginas oficiales de Internet del municipio;
+
+IV. Sólo procederá hacer pagos con base en el Presupuesto de Egresos autorizado, y por los conceptos efectivamente devengados, siempre que se hubieren registrado y contabilizado debida y oportunamente las operaciones consideradas en éste;
+
+V. La asignación global de servicios personales aprobada originalmente en el Presupuesto de Egresos no podrá incrementarse durante el ejercicio fiscal. Lo anterior, exceptuando el pago de sentencias laborales definitivas emitidas por la autoridad competente.
+
+La Tesorería o área Encargada de la Hacienda Municipal contará con un sistema de registro y control de las erogaciones de servicios personales;
+
+VI. Deberán tomar medidas para racionalizar el Gasto corriente.
+
+Los ahorros y economías generados como resultado de la aplicación de dichas medidas, así como los ahorros presupuestarios y las economías que resulten por concepto de un costo financiero de la Deuda Pública menor al presupuestado, deberán destinarse en primer lugar a corregir desviaciones del Balance presupuestario de recursos disponibles negativo, y en segundo lugar a los programas prioritarios del municipio;
+
+VII. En materia de subsidios se deberá identificar la población objetivo, el propósito o destino principal y la temporalidad de su otorgamiento. Los mecanismos de distribución, operación y administración de los subsidios deberán garantizar que los recursos se entreguen a la población objetivo y reduzcan los gastos administrativos del programa correspondiente.
+
+La información señalada en el párrafo anterior deberá hacerse pública a través de las páginas oficiales de Internet del municipio, y
+
+VIII. Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá realizar pagos con base en dicho presupuesto, por los conceptos efectivamente devengados en el año que corresponda y que se hubieren registrado en el informe de cuentas por pagar y que integran el pasivo circulante al cierre del ejercicio.
+
+Los Municipios y sus Entes Públicos deberán observar lo previsto en este artículo con excepción de la fracción III, segundo párrafo de dicho artículo, el cual sólo será aplicable para los Municipios de más de 200,000 habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía.
+
+Las autorizaciones a las que se hace mención en dichos artículos serán realizadas por las autoridades municipales.
+
+> <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO V. De las Modificaciones
 
@@ -3641,73 +3459,439 @@ En todo lo no previsto por la presente Ley, se atenderá a lo dispuesto en las d
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+Primero. Esta Ley entrará en vigor tres días después de su publicación en el Periódico Oficial El Estado de Jalisco.
 
-SEGUNDO.- En un plazo no mayor de 40 días naturales posteriores a la fecha de publicación, deberá de integrarse la Comisión de Transparencia del Municipio de Pachuca de Soto de conformidad con el presente Ordenamiento.
+Segundo. Se abrogan las disposiciones contenidas en la Ley de Hacienda Municipal, contenida en Decreto Número 4720, expedido por el Congreso del Estado, junto con sus reformas.
 
-TERCERO.- El primer Informe de los resultados obtenidos de la Ejecución del Plan Anual de Fortalecimiento de la Transparencia Municipal, deberá presentarse en el mes de diciembre de 2002.
+Tercero. Los procedimientos iniciados y que se encuentren en trámite con anterioridad a la vigencia de esta Ley, se regirán por las disposiciones en vigor en la época de su iniciación y, las resoluciones que se dicten tendrán definitividad para los efectos del Juicio de Garantías, sin que contra las mismas pueda promoverse el Juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado.
 
-Dado en el Salón de Cabildos de la Presidencia Municipal de Pachuca de Soto, Estado de Hidalgo, a los ocho días del mes de agosto del año dos mil dos.
+Cuarto. Para calcular el importe de las cantidades en dinero a que alude esta Ley, se tendrá como base el salario mínimo general vigente en cada municipio.
 
-EL Síndico Procurador
+Salón de Sesiones del Congreso del Estado
 
-C. Miguel Ángel Ortega Jiménez
+Guadalajara, Jal., a 15 de marzo de 1984
 
-Regidores
+Diputado Presidente
 
-C. José Francisco García Osuna
+Francisco Ruiz Guerrero
 
-C. Sonia Leslie Del Villar Sosa
+Dip. Secretario
 
-C. Roque Delfino Licona Meníndez
+Dr. Carlos González Guevara
 
-C. José Enrique Maqueda Hernández
+Dip. Secretario
 
-C. Sofio Martínez Hernández
+Ing. Salvador Farías Chávez
 
-C. Marisol Vargas Barcena
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-C. Encarnación Villegas Hernández
+Dado en Palacio del Poder Ejecutivo del Estado, a los diecinueve días del mes de marzo de mil novecientos ochenta y cuatro.
 
-C. Enrique Pichardo Monzalvo
+El Gobernador Constitucional del Estado
 
-C. Hilda Georgina Pineda López
+Lic. Enrique Alvarez del Castillo
 
-C. David Reyes Razo
+El Secretario General de Gobierno
 
-C. Quintín Serrano Guzmán
+Lic. Eugenio Ruiz Orozco
 
-C. Angel Eleazar Sosa Beiza
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-C. Alejandra Villalpando Rentería
+P.O. 31 DE MARZO DE 1990.
 
-C. Esteban Jesús Mercado Mercado
+Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
-C. Maricela Tinoco Moreno
+P.O. 1 DE ENERO DE 1991.
 
-C. Joel Trejo Mendoza
+Unico. El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y uno, previa su publicación en el Periódico Oficial El Estado de Jalisco.
 
-En uso de las facultades que me confiere la fracción III del Artículo 144 de la Constitución Política del Estado Libre y Soberano de Hidalgo y la fracción III del Artículo 52 de la Ley Orgánica Municipal, tengo a bien sancionar el presente Decreto para su debido cumplimiento.
+P.O. 29 DE JUNIO DE 1991.
 
-Dado en el Palacio Municipal de Pachuca de Soto, Estado de Hidalgo, a los ocho días del mes de agosto del año dos mil dos.
+Artículo Primero. Los predios cuyo valor se determine en operaciones translativas de dominio, a partir del 1º. de julio de 1991, pagarán el Impuesto Predial únicamente sobre el valor de tablas de terreno y construcción, vigentes para cada Municipio, y aprobado por las Juntas Tabuladoras correspondientes.
 
-El Presidente Municipal Constitucional
+Artículo Segundo. El presente Decreto entrará en vigor el día 1º. primero de julio de 1991 mil novecientos noventa y uno, previa su publicación en el Periódico Oficial El Estado de Jalisco".
 
-Ing. José Antonio Tellería Beltrán
+P.O. 16 DE ENERO DE 1992.
 
-Con fundamento en la fracción V del Artículo 93 de la Ley Orgánica Municipal del Estado de Hidalgo, tengo a bien refrendar la presente sanción.
+Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
-El Secretario General Municipal
+P.O. 6 DE FEBRERO DE 1993.
 
-Lic. Armando Madariaga Nava.
+Unico. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+P.O. 30 DE DICIEMBRE DE 1993.
 
-P.O. 22 DE MARZO DE 2010.
+DECRETO NUMERO 15311.
 
-PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 1996)</small>
 
-SEGUNDO.- El personal que se encontraba ejerciendo las actividades establecidas en el Reglamento Municipal abrogado pasará a disposición de la secretaría de la Contraloría Municipal a efecto de que en coordinación con la Secretaría de Administración Municipal determinen sus (sic) situación jurídica. Por lo que hace a los recursos materiales se reasignarán previo acuerdo entre las Secretarías antes citadas.
+PRIMERO.- Las asociaciones religiosas, legalmente constituidas, que hubieren obtenido la declaratoria de procedencia por parte de la Secretaría de Gobernación, a partir del 16 de julio de 1992 a la fecha de publicación del presente decreto, podrán beneficiarse con la exención del pago del Impuesto Sobre Transmisiones Patrimoniales, hasta el 31 de diciembre de 1997.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE DICIEMBRE DE 1993.
+
+DECRETO NUMERO 15315.
+
+Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 8 DE OCTUBRE DE 1994.
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE MAYO DE 1995.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE AGOSTO DE 1996.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 31 DE OCTUBRE DE 1996.
+
+ÚNICO.- El presente decreto entrará en vigor ocho días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 5 DE DICIEMBRE DE 1996.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 9 DE ENERO DE 1997.
+
+Único. El presente decreto entrará en vigor el día 1º de enero de 1997, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE ENERO DE 1997.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE JUNIO DE 1997.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 9 DE DICIEMBRE DE 1997.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+Primero.- El presente decreto entrará en vigor en su totalidad el día 1º de enero de 1998, para los municipios de Guadalajara y Zapopan. Para Los Municipios de Puerto Vallarta, Tepatitlán de Morelos, Tlaquepaque, Tonalá y Villa Corona, Jalisco, regirán a partir del día 1º de enero de 1998, salvo las disposiciones relativas al impuesto predial que entrarán en vigor el día 1º de enero de 1999. Para los demás municipios de la entidad empezarán a surtir efectos el día 1º de enero de 1998, salvo las disposiciones del impuesto predial que entrarán en vigor el día 1º de enero del año 2000.
+
+Segundo.- Se derogan todas aquellas disposiciones que se opongan a (sic) al presente decreto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+Tercero.- Publíquese el texto íntegro de este decreto en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 27 DE DICIEMBRE DE 1997.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE FEBRERO DE 1998.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 29 DE AGOSTO DE 1998.
+
+ÚNICO. Este decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 31 DE DICIEMBRE DE 1998.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE FEBRERO DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 1 DE ABRIL DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 3 DE JUNIO DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 7 DE AGOSTO DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día 1°/01/00 previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 7 DE DICIEMBRE DE 1999.
+
+ÚNICO.- El presente Decreto entrará en vigor el día primero de Enero del año 2000, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE JULIO DE 2000.
+
+Único.- Este Decreto entrará en vigor el 1 de febrero del 2001, previa publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 23 DE ENERO DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor a los 60 sesenta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 3 DE FEBRERO DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE JULIO DE 2001.
+
+DECRETO NUMERO 19112.
+
+ÚNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE JULIO DE 2001.
+
+DECRETO NUMERO 19113.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE FEBRERO DE 2002.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- Para el ejercicio fiscal del 2002, el Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, será convocado de inmediato, para que a más tardar el 31 de marzo del 2002, evalúe las percepciones aprobadas en los presupuestos respectivos, sin que esta evaluación pueda afectar las prestaciones ya aprobadas.
+
+P.O. 21 DE MAYO DE 2002.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- El presente decreto entrará en vigor el 1 de enero del año 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- Los asuntos que se encuentren en trámite en las dependencias o entidades relacionados con la indemnización a los particulares, derivados de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo a las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
+
+CUARTO.- El Gobierno del Estado y los ayuntamientos deberán incluir en sus respectivos presupuestos de egresos para el ejercicio fiscal del año 2004, una partida que haga frente a su responsabilidad patrimonial.
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco", aplicándose lo dispuesto en los siguientes artículos transitorios.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. La Auditoría Superior iniciará sus funciones a la entrada en vigor del presente decreto, y su titular será el actual Contador Mayor de Hacienda, hasta el 31 de julio del año 2004.
+
+CUARTO. La revisión de la cuenta pública, que incluye el informe de avance de gestión financiera, conforme a las disposiciones de la ley contenida en el artículo primero de este decreto, se efectuará a partir de la cuenta pública del año 2004. Las revisiones de las cuentas públicas de los años 1999, 2000, 2001, 2002 y 2003 se efectuarán conforme a las disposiciones vigentes en dichos ejercicios.
+
+QUINTO. En todas las disposiciones legales o administrativas; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia del presente decreto, en que se haga referencia a la Contaduría Mayor de Hacienda, se entenderán referidos a la Auditoría Superior del Estado; igualmente, cuando se haga referencia al Contador Mayor, se entenderá referido al Auditor Superior.
+
+SEXTO. Todos los inmuebles, equipos, archivos, expedientes, papeles y, en general, los bienes de la Contaduría Mayor de Hacienda, pasarán a la Auditoría Superior del Estado quedando destinados y afectos a su servicio. La Auditoría Superior del Estado igualmente se subroga en todos los derechos y obligaciones de aquella.
+
+Los servidores públicos de la Contaduría Mayor de Hacienda pasarán a formar parte de la Auditoría Superior del Estado, respetándose sus derechos en los términos de ley.
+
+SÉPTIMO. Los asuntos que se encuentren en trámite o en proceso en la Contaduría Mayor de Hacienda al entrar en vigor el presente decreto, continuarán tramitándose, por la Auditoría Superior del Estado en los términos de las disposiciones vigentes antes de la entrada en vigor del presente decreto.
+
+OCTAVO. Dentro del término de noventa días naturales, contados a partir de la entrada en vigor del presente decreto, deberá expedirse el Reglamento Interno de la Auditoría Superior del Estado de Jalisco.
+
+P.O. 28 DE FEBRERO DE 2004.
+
+DECRETO NUMERO 20439.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE FEBRERO DE 2004.
+
+DECRETO NUMERO 20440.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 4 DE MAYO DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 26 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a la entrada en vigor del decreto número 20514 que contiene reformas al artículo 111 de la Constitución Política del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- El Comité Técnico de Transparencia y Valoración Salarial, deberá reunirse de forma inmediata a fin de aprobar su reglamento interno. El reglamento deberá ser aprobado dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 23 DE JUNIO DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Jalisco" y tendrá efectos a partir del 11 de enero de 2005.
+
+P.O. 7 DE JULIO DE 2005.
+
+ÚNICO. El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE NOVIEMBRE DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 7 DE DICIEMBRE DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 4 DE ENERO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE ENERO DE 2007.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Tratándose de la cuenta pública municipal de los Ayuntamientos del Estado, correspondiente a los meses del ejercicio fiscal del año 2007, ésta deberá presentarse conforme a las disposiciones que estuvieron en vigor antes de la entrada en vigor de este decreto.
+
+TERCERO.- En lo conducente, cuando en las disposiciones legales o administrativas de aplicación municipal; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia del presente decreto, en que se haga referencia a ramos, partidas y claves, se entenderán referidos a capítulos, conceptos y partidas.
+
+P.O. 5 DE JULIO DE 2008.
+
+Primero. El presente decreto entrará en vigor al día 1.° de enero de 2009 en lo conducente, salvo lo establecido en el artículo tercero transitorio, mismo que entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+Envíese la minuta correspondiente al Poder Ejecutivo del Estado, para los efectos del artículo 31 de la Constitución Política del estado de Jalisco, una vez que haya entrado en vigor la reforma constitucional contenida en la minuta de decreto 22222.
+
+Segundo. Se abroga la Ley de Fiscalización Superior del Estado de Jalisco publicada en el periódico oficial El Estado de Jalisco, el 30 de diciembre de 2003 y sus respectivas reformas; asimismo, se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+Tercero. El actual Auditor Superior del Estado, durará en el cargo hasta el 31 de julio de 2008, al término del cual podrá ser nuevamente designado. Para lo cual deberán observarse los requisitos y procedimientos establecidos en los artículos 29, 30 y 31 de la Ley de Fiscalización y Auditoría Pública del Estado de Jalisco y sus Municipios.
+
+Cuarto. En caso de no haber designación de Auditor Superior del Estado al día primero de agosto de 2008, el actual titular continuará en el cargo, en tanto no sea electo uno nuevo o no sea aprobado el actual conforme los procedimientos establecidos en la ley.
+
+Quinto. Los sujetos auditables podrán acogerse a los procedimientos y disposiciones que establece la presente ley en la revisión de las cuentas públicas o estados financieros correspondientes a los ejercicios fiscales que no se hubieren dictaminado por la Auditoría Superior del Estado, mediante solicitud dirigida al Auditor Superior del Estado de Jalisco.
+
+La Auditoría Superior del Estado, en las revisiones a que se refiere el párrafo anterior, tendrá todas las atribuciones previstas en esta ley y en la reforma constitucional que le da fundamento, debiendo observar los principios rectores de la fiscalización superior de legalidad, certeza, independencia, objetividad, imparcialidad, posterioridad, anualidad y profesionalismo; de la misma forma, los servidores públicos de la Auditoría Superior deberán cumplir con las obligaciones que les impone esta ley.
+
+Los sujetos auditables y fiscalizables que soliciten la revisión prevista en el presente artículo tendrán un término de quince días a partir de la entrega de su solicitud para proporcionar el domicilio al que se refiere el artículo 5 de esta ley.
+
+En caso que los sujetos auditables que no se acojan a este decreto, la revisión de sus cuentas se harán con las disposiciones de la Ley de Fiscalización Superior del Estado de Jalisco, vigente en el ejercicio fiscal de su gestión, es decir, 2006, 2007 y 2008.
+
+Sexto. En tanto se establece la infraestructura y el procedimiento necesario para la utilización de la firma electrónica por las entidades auditables y la Auditoría Superior, las entidades auditables que opten en enviar su documentación justificativa y comprobatoria de las cuentas públicas y de los informes de avance de gestión financiera en medios magnéticos o electrónicos las enviarán conforme al procedimiento estipulado por los acuerdos del Auditor Superior relativos a la presentación de las cuentas públicas por estos medios.
+
+Séptimo. Los recursos materiales, técnicos y financieros que actualmente están afectos o destinados a la Auditoría Superior, pasarán a formar parte del patrimonio del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior.
+
+Octavo. Todos los recursos humanos asignados a la actual Auditoría Superior pasarán a formar parte de la plantilla de personal del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior. Por lo cual, deberán respetarse los derechos laborales de los servidores públicos de la Auditoría Superior, y las Condiciones Generales para los Trabajadores al Servicio del Poder Legislativo del Estado de Jalisco, incluso ante la reestructuración administrativa.
+
+Noveno. El Poder Legislativo, en conjunto con la Auditoría Superior del Estado de Jalisco y el Poder Ejecutivo, llevarán a cabo las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
+
+Para tal efecto, una vez designado el Auditor Superior, deberá presentar a la Junta de Coordinación Política, así como a la Comisión de Hacienda y Presupuestos del Congreso del Estado, el anteproyecto de presupuesto de la Auditoría Superior del Estado.
+
+Décimo. Dentro del término de sesenta días naturales, contados a partir de la entrada en vigor del presente decreto, el Auditor Superior del Estado deberá expedir el reglamento interno de la Auditoría Superior de Jalisco, conforme a esta ley y las disposiciones aplicables para el Congreso del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 30 DE OCTUBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 3 DE MARZO DE 2011.
+
+UNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 29 DE OCTUBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 15 DE DICIEMBRE DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Noventa días hábiles después de la publicación del presente decreto, la Secretaría de Medio Ambiente para el Desarrollo Sustentable del Estado de Jalisco, emitirá la norma ambiental que establece las especificaciones técnicas para la instalación de sistemas de naturación.
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 23910/LIX/11, POR EL QUE SE REFORMAN LOS ARTÍCULOS 36, 63, PÁRRAFO TERCERO, 318, PÁRRAFO PRIMERO, 319 Y 320 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO.
+
+UNICO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 23911/LIX/11, POR EL QUE SE ADICIONAN UNA FRACCIÓN XVI AL ARTÍCULO 112, UNA FRACCIÓN VII AL ARTÍCULO 131-BIS, Y UN QUINTO PÁRRAFO AL ARTÍCULO 147, DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Treinta días hábiles después de la publicación del presente decreto, la Secretaría de Medio Ambiente para el Desarrollo Sustentable del Estado de Jalisco emitirá los lineamientos para la expedición de las constancias respectivas a los contribuyentes que acrediten el cumplimiento de los beneficios fiscales implementados en el presente decreto.
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 23955/LIX/11, POR EL QUE SE REFORMA EL ARTÍCULO 147 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO.
+
+PRIMERO. Los artículos primero y segundo del presente decreto, relativos (sic) la Ley de Hacienda Municipal y el Código Urbano para el Estado de Jalisco, entrarán en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El artículo tercero del presente decreto, relativo a la Ley de Ingresos del municipio de Guadalajara, Jalisco, para el ejercicio fiscal de 2012, entrará en vigor el día 1.° de enero de 2012, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 18 DE AGOSTO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Titular del Poder Ejecutivo, los Ayuntamientos y los organismos operadores, en el ámbito de sus respectivas competencias, deberán expedir o promover se emitan o modifiquen los reglamentos necesarios para la aplicación del presente Decreto en un término de noventa días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
+
+TERCERO. Los Ayuntamientos procederán a emitir los reglamentos municipales para regular la prestación de los servicios de agua potable, alcantarillado, drenaje y tratamiento de sus aguas residuales, conforme a sus atribuciones constitucionales y las disposiciones que se establecen en el presente decreto y en la Ley del Gobierno y la Administración Pública Municipal.
+
+CUARTO. Los Ayuntamientos y los organismos operadores deberán constituir, integrar y operar su respectivo consejo tarifario, en un término no mayor de treinta días naturales contados (sic) partir del día siguiente de la entrada en vigor del presente decreto.
+
+Los Consejos Tarifarios deberán establecer la tarifa para el ejercicio fiscal 2013 a más tardar el 30 de septiembre de 2012. En caso de que no se haya realizado en dicha fecha, se actualizarán las tarifas vigentes conforme al índice nacional de precios al consumidor al mes de noviembre de 2012, para su vigencia a partir del año 2013.
+
+QUINTO. Los Ayuntamientos y sus organismos operadores, para asumir la administración de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, con la atribución de autorizar sus cuotas o tarifas conforme las disposiciones de la presente Ley, será necesario hayan cumplido con:
+
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
+
+I. Constituir el Consejo Tarifario, de conformidad con las disposiciones del presente Decreto; y
+
+II. Formular y aprobar los instrumentos administrativos necesarios para adecuarse a las presentes reformas.
+
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
+
+SEXTO. A partir de la fecha cuando el Ayuntamiento y sus dependencias u organismos asuman la administración de los servicios públicos de agua potable y saneamiento en los términos de las reformas y adiciones que se autorizan, se derogarán todas las disposiciones que se opongan a lo establecido en el presente Decreto, en el ámbito de aplicación correspondiente a ese Municipio.
+
+P.O. 23 DE AGOSTO DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE ABRIL DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 31 DE JULIO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 5 DE AGOSTO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 26 DE AGOSTO DE 2014.
+
+PRIMERO. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios.
+
+TERCERO. El Ejecutivo del Estado contará con el término no mayor de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente decreto, para expedir el Reglamento de la presente Ley.
+
+CUARTO. La Secretaría contará con un término de ciento ochenta días hábiles para integrar y publicar el inventario del patrimonio Cultural del Estado de Jalisco, sin perjuicio de que se actualice posteriormente.
+
+QUINTO. La Secretaría de Cultura contará con un término de noventa días para instituir un Centro de Información del Patrimonio Cultural del Estado.
+
+SEXTO. Los bienes que se encuentren protegidos por la Ley (sic) Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios o, por cualquier otro instrumento legal o convencional, seguirán contando con la protección de la que gozan actualmente, hasta en tanto sean integrados al inventario del Patrimonio Cultural, en los términos de la presente ley.
+
+P.O. 9 DE OCTUBRE DE 2014.
+
+DECRETO NÚMERO 24966/LX/14 POR EL QUE SE REFORMA EL ARTÍCULO 173 FRACCIONES II Y III; Y SE ADICIONA UN ARTÍCULO 170 BIS Y UNA FRACCIÓN IV AL ARTÍCULO 173 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor el 1.° de enero de 2015, previa publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE OCTUBRE DE 2014.
+
+DECRETO NÚMERO 24967/LX/14 POR EL QUE SE REFORMAN LOS ARTÍCULOS 20 Y 316 BIS DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 2 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 21 DE MARZO DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Treinta días hábiles después de la publicación del presente decreto, la dependencia municipal competente en la materia, emitirá los lineamientos para la emisión de las constancias respectivas a los particulares que acrediten el cumplimiento de los lineamientos de la norma estatal de naturación de techo.
+
+De igual forma la Tesorería, treinta días hábiles después de la publicación emitirá los lineamientos para aplicar las reducciones a las que se refiere el presente decreto.
+
+P.O. 11 DE OCTUBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO 25840/LXI/16 POR EL QUE "SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO; CÓDIGO FISCAL DEL ESTADO DE JALISCO; CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; CÓDIGO URBANO PARA EL ESTADO DE JALISCO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO; LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO; LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO; LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO; LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO (SIC) JALISCO; LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO; LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LEY DE LIBRE CONVIVENCIA DEL ESTADO DE JALISCO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO; LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO; LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; LEY DE SALUD DEL ESTADO DE JALISCO; LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO; LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JALISCO; LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO; LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO; LEY PARA LA INTEGRACIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO; LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO; LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; LEY DEL NOTARIADO DEL ESTADO DE JALISCO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
 
@@ -3727,31 +3911,23 @@ P.O. 21 DE FEBRERO DE 2017.
 
 ÚNICO. El presente decreto entrará en vigor a los diez días hábiles siguientes al de su publicación en el periódico oficial "El Estado de Jalisco".
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO TREINTA, QUE CONTIENE LAS REFORMAS, ADICIONES Y DEROGACIONES AL DECRETO DE CREACIÓN DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS; AL REGLAMENTO PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES Y ESPECTÁCULOS PÚBLICOS; AL REGLAMENTO DE MEJORA REGULATORIA; AL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; AL REGLAMENTO DE PROTECCIÓN CIVIL, Y AL REGLAMENTO DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE”.]
+P.O. 4 DE ABRIL DE 2017.
 
-PRIMERA. Este Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26305/LXI/17 QUE REFORMA LOS ARTÍCULOS 37 Y 79 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL Y REFORMA EL TÍTULO SEGUNDO DEL LIBRO CUARTO, JUNTO CON LOS CAPÍTULOS QUE LOS INTEGRAN, ASÍ COMO LOS ARTÍCULOS 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220 y 221 DE LA LEY DE HACIENDA MUNICIPAL, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
-SEGUNDA. Se derogan todas las disposiciones que se opongan al presente Reglamento.
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el en el (sic) periódico oficial El Estado de Jalisco.
 
-TERCERA. El grupo de trabajo a que se refiere el artículo 17 del Reglamento del Sistema de Apertura Rápida de Empresas someterá a la consideración del Ayuntamiento el proyecto de Catálogo Municipal de Actividades Económicas dentro de los quince días siguientes a la publicación de este Decreto.
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
 
-El Ayuntamiento aprobará el Catálogo dentro de los treinta días siguientes a que se haya presentado el proyecto.
+Tercero. El artículo 212 de la Ley de Hacienda Municipal del Estado de Jalisco entrará en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal 2018.
 
-CUARTA. La Dirección de Vinculación e Innovación Institucional integrará al Sistema Electrónico de Trámites y Servicios, la Tabla de Normatividad de Usos de Suelo y los planos de la zonificación secundaria de la mancha urbana y por localidades, vigentes conforme al Programa Municipal de Desarrollo Urbano, dentro de los quince días siguientes a la publicación de este Decreto, en coordinación con las Direcciones competentes.
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el artículo 212 de la Ley de Hacienda Municipal del Estado de Jalisco hasta el año 2020. En ningún caso, la excepción transitoria deberá considerar personal administrativo.
 
-QUINTA. Al revalidar las Licencias de funcionamiento vigentes los giros actuales se asimilarán a los previstos en el Catálogo Municipal de Actividades Económicas.
+Cuarto. Los ingresos excedentes derivados de Ingresos de libre disposición a que hace referencia el artículo 219 de la Ley de Hacienda Municipal del Estado de Jalisco, podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de esta Ley y hasta el ejercicio fiscal 2022.
 
-SEXTA. Respecto de Solicitudes que se presenten para obtener Licencia de funcionamiento en inmuebles comprendidos en polígonos cuyos usos de suelo no estén previstos en el Programa Municipal de Desarrollo Urbano, las mismas se sujetarán al procedimiento previsto en el artículo 8 C del Decreto de Creación del Sistema de Apertura Rápida de Empresas y las Disposiciones Normativas sobre el Sistema de Apertura Rápida de Empresas.
+Adicionalmente los ingresos excedentes de libre disposición podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018, siempre y cuando el ayuntamiento se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
 
-En estos supuestos, el Departamento del Sistema de Apertura Rápida de Empresas solicitará al Instituto Municipal de Investigación y Planeación que emita un dictamen sobre la factibilidad para el funcionamiento del establecimiento mercantil tomando en consideración la zonificación primaria prevista en el Programa Municipal de Desarrollo Urbano y las consideraciones urbanísticas que estime pertinentes. El dictamen a que se refiere este párrafo hará las veces de la constancia de uso de suelo a que se refiere la fracción I del numeral a que se refiere el párrafo anterior.
-
-SÉPTIMA. Los trámites iniciados antes de la vigencia de estas reformas se resolverán conforme a las normas vigentes al momento de su inicio, salvo que las nuevas disposiciones resulten más favorables para los particulares.
-
-OCTAVA. Los establecimientos que al inicio de la vigencia de las presentes reformas estén funcionando sin la Licencia respectiva deberán presentar su Solicitud a más tardar dentro del primer trimestre del ejercicio fiscal 2020, con el objeto de obtener la Licencia respectiva.
-
-En caso de que el Giro Principal no pueda ser autorizado en la ubicación donde esté operando el establecimiento, el Titular podrá optar por cambiar la actividad económica a alguna de ellas que estén permitidas o sean condicionadas en atención al uso de suelo aplicable, tramitando la Solicitud respectiva.
-
-P.O. 28 DE ENERO DE 2020.
+Quinto. El porcentaje a que hace referencia el artículo 209 de la Ley de Hacienda Municipal del Estado de Jalisco, relativo a los adeudos del ejercicio fiscal anterior (Adefas) de los Municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho artículo.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO TREINTA Y SEIS DECRETO POR EL QUE SE REFORMA EL DECRETO DE CREACIÓN DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS; SE REFORMA EL REGLAMENTO PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES Y ESPECTÁCULOS PÚBLICOS; SE REFORMA EL REGLAMENTO DE MEJORA REGULATORIA; SE REFORMA EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; SE REFORMA EL REGLAMENTO DE PROTECCIÓN CIVIL; Y SE REFORMA EL REGLAMENTO DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE, TODOS DE PACHUCA DE SOTO, HIDALGO”.]
 
