@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-adquisiciones-del-estado-de-san-luis-potosi-12345"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2016-10-25"
+last_updated: "2017-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 29 de enero de 1997.
 
@@ -189,9 +189,11 @@ I.- Los objetivos y prioridades contenidos en el Plan Estatal de Desarrollo y en
 
 II.- Los objetivos, metas y previsiones de aplicación de los recursos financieros establecidos en los presupuestos de egresos de cada una de las instituciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 15.
 
-Las instituciones formularán sus programas anuales de adquisiciones, arrendamientos y servicios, y sus respectivos presupuestos, considerando los siguientes aspectos:
+Las instituciones formularán sus programas anuales de adquisiciones, arrendamientos y servicios, así como los que abarquen más de un ejercicio presupuestal, y sus respectivos presupuestos, considerando los siguientes aspectos:
 
 I.- Las acciones previas, paralelas y posteriores a la realización de dichas operaciones;
 
@@ -283,13 +285,13 @@ II.- Invitación restringida a cuando menos tres proveedores; y
 
 III.- Adjudicación directa.
 
-> <small>(F. DE E., P.O. 19 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2017)</small>
 
 ###### ARTICULO 23.
 
-Las adquisiciones, arrendamientos y servicios que rebasen los montos establecidos semestralmente por el Congreso del Estado, deberán ser turnados al conocimiento de los comités respectivos.
+Los montos para las adquisiciones, arrendamientos y servicios, serán establecidos anualmente por el Congreso del Estado, mismos que serán aprobados dentro del mes de diciembre del año inmediato anterior, y se difundirán a través del Periódico Oficial del Estado.
 
-Dichos montos serán aprobados dentro de la segunda quincena de los meses enero y julio de cada año, lo cual se difundirá a través del Periódico Oficial del Estado.
+Dichos montos estarán calculados en función al valor de la unidad de medida y actualización vigente.
 
 ###### ARTICULO 24.
 
@@ -766,3 +768,11 @@ P.O. 25 DE OCTUBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0629.- SE REFORMA LOS ARTÍCULOS, 15 EN SU PÁRRAFO PRIMERO, Y 23, DE LA LEY DE ADQUISICIONES DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
