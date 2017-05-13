@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2017-04-29"
+last_updated: "2017-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2017.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -1636,6 +1636,10 @@ IV. Traición, cuando se utiliza la perfidia, violando la fe o la seguridad que 
 V. Cruel perversidad, cuando el inculpado actúa sanguinariamente y con tal saña, que revelan en el sujeto un profundo desprecio por la vida humana, y
 
 VI. Odio, cuando el agente comete el hecho por antipatía o aversión contra una persona o su patrimonio, específicamente por su condición social o económica; vinculación, pertenencia o relación con un grupo social definido; origen étnico o social; nacionalidad o lugar de origen; color de piel o cualquier otra característica genética; lengua; género; religión; edad; opiniones; discapacidad; condiciones de salud o embarazo; apariencia física; orientación sexual; identidad de género; estado civil; ocupación o actividad.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2017)</small>
+
+Es equiparable al homicidio calificado, y se sancionará como tal, aquel que se cometa en contra de elementos de seguridad pública, estatal o municipal, así como de agentes del Ministerio Público del fuero común, que por razón de sus labores sean víctimas de este delito.
 
 ###### ARTÍCULO 145.
 
@@ -4332,3 +4336,11 @@ P.O. 29 DE ABRIL DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente.
+
+P.O. 13 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0624.- SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 144, DEL CÓDIGO PENAL DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
