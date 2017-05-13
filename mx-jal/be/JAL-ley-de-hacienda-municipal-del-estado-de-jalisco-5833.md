@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2017-04-04"
+last_updated: "2017-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "JAL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE MAYO DE 2017 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 13 DE MAYO DE 2017.]</small>
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -2321,7 +2321,7 @@ El importe del presupuesto de egresos, no deberá exceder de la estimación de l
 
 Para la formulación del proyecto de presupuesto de egresos del gobierno municipal, de las dependencias y entidades municipales elaborarán sus anteproyectos con base en los programas respectivos, ajustándose a los principios de racionalidad, austeridad, disciplina presupuestal, motivación, certeza, equidad, proporcionalidad y perspectiva de género, así como a los montos que establezca el Presidente Municipal, por conducto de la Tesorería o el área Encargada de la Hacienda.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
+(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017) (F. DE E., P.O. 13 DE MAYO DE 2017)
 
 ###### Art. 212.
 
@@ -2339,17 +2339,17 @@ Se exceptúa del cumplimiento de la presente fracción, el monto erogado por sen
 
 Los gastos en servicios personales que sean estrictamente indispensables para la implementación de nuevas leyes federales o locales, así como reformas a las mismas, podrán autorizarse sin sujetarse al límite establecido en la presente fracción, hasta por el monto que específicamente se requiera para dar cumplimiento a lo establecido en esta Ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2017)</small>
+(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2017) (F. DE E., P.O. 13 DE MAYO DE 2017)
 
 ### CAPITULO II. De la Estructura del Presupuesto
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
+(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017) (F. DE E., P.O. 13 DE MAYO DE 2017)
 
 ###### Art. 213.
 
 La estructura del proyecto de presupuesto de egresos, tendrá una base programática y se le dará una sustentación lo suficientemente amplia, que abarque todas las responsabilidades del Gobierno Municipal por conducto de todas sus entidades y dependencias.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
+(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017) (F. DE E., P.O. 13 DE MAYO DE 2017)
 
 ###### Art. 214.
 
