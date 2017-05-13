@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2017-04-13"
+last_updated: "2017-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -255,7 +255,9 @@ X. Diseñar, instrumentar, ejecutar y evaluar, los programas de investigación p
 
 XI. Promover y reconocer todos los tipos de turismo que puedan desarrollarse y aprovecharse en el Estado;
 
-XII. Promover y celebración de convenios hacia los municipios con actividad y potencial turístico;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2017)</small>
+
+XII. Proyectar y ejecutar, en coordinación con los ayuntamientos, planes que tengan como objetivo la incorporación y permanencia en el Programa Pueblos Mágicos. Así como en la participación de recursos federales del Programa de Desarrollo Regional Turístico Sustentable y Pueblos Mágicos que lleva anualmente la Secretaría de Turismo;
 
 XIII. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, de la administración pública centralizada o paraestatal, y con sectores social y privado, para el trámite y atención de asuntos de interés común;
 
@@ -321,7 +323,9 @@ VIII. Colaborar en los términos que establezca la ley de la materia, con el gob
 
 IX. Participar con el Gobierno Federal, así como con los prestadores de servicios turísticos, en la constitución de fondos de fomento turístico;
 
-X. Proponer al Ejecutivo del Estado la Declaratoria de Zonas de Desarrollo Turístico;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2017)</small>
+
+X. Proponer al Ejecutivo del Estado la Declaratoria de Zonas de Desarrollo Turístico; así como participar con la Secretaría en la planeación y diseño de proyectos que tengan como fin la declaratoria de incorporación al Programa Pueblos Mágicos y su permanencia;
 
 XI. Vigilar que la publicidad, instalaciones, equipos fijos o móviles, o cualquier otro objeto, no demeriten el aspecto típico o el estilo arquitectónico de las poblaciones;
 
@@ -1124,3 +1128,11 @@ P.O. 13 DE ABRIL DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0626.- SE REFORMAN LOS ARTÍCULOS 8° Y 9° DE LA LEY DE TURISMO DEL ESTADO".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
