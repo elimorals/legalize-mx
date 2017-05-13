@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2017-02-22"
+last_updated: "2017-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2017.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -1669,7 +1669,9 @@ b) Secretaría de Hacienda.
 
 c) Secretaría de Desarrollo Social.
 
-d) Secretaría de Educación, Cultura y Deporte.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2017)</small>
+
+d) Secretaría de Educación y Deporte.
 
 e) Secretaría de Salud.
 
@@ -1685,7 +1687,17 @@ V. La persona titular de la Comisión Estatal de los Derechos Humanos.
 
 VI. Diez representantes electos de entre las Organizaciones de la Sociedad Civil.
 
-Para efectos de lo previsto en las fracciones IV y VI, el reglamento deberá prever los términos para la emisión de una convocatoria pública, que contendrá las etapas completas para el procedimiento, sus fechas, límites y plazos.
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2017)</small>
+
+VII. Dos representantes de instituciones educativas públicas o privadas.
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2017)</small>
+
+VIII. Quien presida la Comisión de Derechos Humanos del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2017)</small>
+
+Para efectos de lo previsto en las fracciones IV, VI y VII, el reglamento deberá prever los términos para la emisión de una convocatoria pública, que contendrá las etapas completas para el procedimiento, sus fechas, límites y plazos.
 
 Serán invitados permanentemente a las sesiones del Sistema Estatal de Protección Integral, el Presidente del Congreso del Estado y un representante del Poder Judicial quien deberá ser Juez o Magistrado, quienes intervendrán con voz pero no voto.
 
@@ -2322,3 +2334,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 13 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0305/2017 II P.O., POR EL QUE SE REFORMAN EL INCISO D) DE LA FRACCIÓN III Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 136; Y SE ADICIONAN LAS FRACCIONES VII Y VIII AL MISMO ARTÍCULO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
