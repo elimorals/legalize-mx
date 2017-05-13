@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-para-la-lectura-y-el-libro-del-estado-y-65768"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-18"
-last_updated: "2008-12-18"
+last_updated: "2017-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, DEL ESTADO Y MUNICIPIOS DE SAN LUlS POTOSI
+LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, DEL ESTADO Y MUNICIPIOS DE SAN LUlS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -77,9 +77,17 @@ VII. Sistema educativo estatal: constituido por los educandos y educadores, las 
 
 VIII. Bibliotecas escolares, y de aula: acervos bibliográficos que la Secretaría de Educación Pública, y la Secretaría de Educación de Gobierno del Estado, selecciona, adquiere y distribuye para su uso durante los procesos de enseñanza y aprendizaje en las aulas y las escuelas públicas de educación básica;
 
-IX. Salas de lectura: espacios alternos a las escuelas y bibliotecas, coordinadas por voluntarios de la sociedad civil, donde la comunidad tiene acceso gratuito al libro y otros materiales impresos; así como a diversas actividades encaminadas al fomento a la lectura, y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2017)</small>
 
-X. Autor: persona que realiza alguna obra destinada a ser difundida en forma de libro. Se considera como tal, sin perjuicio de los requisitos establecidos en la legislación vigente, al traductor respecto de su traducción, al compilador y a quien extracta o adapta obras originales, así como al ilustrador y al fotógrafo, respecto de sus correspondientes trabajos.
+IX. Salas de lectura: espacios alternos a las escuelas y bibliotecas, coordinadas por voluntarios de la sociedad civil, donde la comunidad tiene acceso gratuito al libro y otros materiales impresos; así como a diversas actividades encaminadas al fomento a la lectura;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2017)</small>
+
+X. Autor: persona que realiza alguna obra destinada a ser difundida en forma de libro. Se considera como tal, sin perjuicio de los requisitos establecidos en la legislación vigente, al traductor respecto de su traducción, al compilador y a quien extracta o adapta obras originales, así como al ilustrador y al fotógrafo, respecto de sus correspondientes trabajos, y
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2017)</small>
+
+XI. Biblioteca pública: todo establecimiento que contenga un acervo de carácter general superior a quinientos títulos, catalogados y clasificados, y que se encuentren destinados a atender en forma gratuita a toda persona que solicite la consulta o préstamo del mismo, en los términos de las normas administrativas aplicables.
 
 ###### ARTICULO 4°.
 
@@ -119,9 +127,17 @@ I. Promover la lectura, publicación y distribución de libros con contenidos de
 
 II. Organizar todo tipo de actividades y eventos que promuevan libros con contenidos de calidad y estimulen el hábito de la lectura, en apoyo a los objetivos de esta Ley;
 
-III. Fomentar y promover, en coordinación con la Secretaría de Educación de Gobierno del Estado, la creación literaria en las lenguas autóctonas del Estado, y buscar mecanismos de distribución para todas las zonas de la Entidad, y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2017)</small>
 
-IV. Generar convenios de colaboración con la Secretaría de Educación de Gobierno del Estado, y los ayuntamientos de la Entidad, a efecto de invertir recursos en materia de infraestructura, para la creación de bibliotecas públicas en las zonas rurales, en los barrios y las zonas indígenas del Estado.
+III. Fomentar y promover, en coordinación con la Secretaría de Educación de Gobierno del Estado, la creación literaria en las lenguas autóctonas del Estado, y buscar mecanismos de distribución para todas las zonas de la Entidad;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2017)</small>
+
+IV. Generar convenios de colaboración con la Secretaría de Educación de Gobierno del Estado, y los ayuntamientos de la Entidad, a efecto de invertir recursos en materia de infraestructura, para la creación de bibliotecas públicas en las zonas rurales, en los barrios y las zonas indígenas del Estado, y
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2017)</small>
+
+V. Realizar campañas de difusión acerca de la ubicación de las bibliotecas públicas del Estado a fin de incrementar las visitas a las mismas y, con ello, fomentar el hábito de la lectura en la población.
 
 ###### ARTICULO 7º.
 
@@ -234,3 +250,13 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0625.- SE REFORMA (SIC) LOS ARTÍCULOS, 3º EN SUS FRACCIONES, IX, Y X, Y 6º EN SUS FRACCIONES, III, Y IV; Y ADICIONA A LOS ARTÍCULOS, 3º LA FRACCIÓN XI, Y 6º LA FRACCIÓN V, DE Y A LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, DEL ESTADO Y MUNICIPIOS”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
