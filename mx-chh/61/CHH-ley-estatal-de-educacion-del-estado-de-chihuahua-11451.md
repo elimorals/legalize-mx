@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2017-02-22"
+last_updated: "2017-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -591,9 +591,9 @@ LII. Instrumentar un sistema accesible a los ciudadanos y docentes para la prese
 
 LIII. Vigilar que en las instituciones de educación básica y media superior, públicas y privadas, no se condicione el acceso o permanencia del alumnado a la adquisición de útiles escolares, uniformes y demás enseres u objetos vinculados al proceso de enseñanza aprendizaje, en establecimientos específicos, de cierta marca o determinada calidad.
 
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2017)</small>
 
-LIV. Fomentar el uso responsable y seguro de las tecnologías de la información y la comunicación en el sistema educativo estatal, para apoyar el aprendizaje de los estudiantes, ampliar sus competencias para la vida y favorecer su inserción en la sociedad del conocimiento, con base en los lineamientos generales que emita la Autoridad Educativa Federal.
+LIV. Fomentar el uso responsable y seguro de las tecnologías de la información y la comunicación e impulsar la alfabetización digital en el sistema educativo estatal, para apoyar el aprendizaje de los estudiantes, ampliar sus competencias para la vida y favorecer su inserción en la sociedad del conocimiento, con base en los lineamientos generales que emita la Autoridad Educativa Federal.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -4238,3 +4238,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 13 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFLEY/0304/2017 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 13, FRACCIÓN LIV DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
