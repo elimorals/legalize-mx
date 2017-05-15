@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2017-05-11"
+last_updated: "2017-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE MAYO DE 2017.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -425,6 +425,10 @@ El Secretario Ejecutivo y los representantes de los partidos políticos concurri
 
 El Instituto Estatal Electoral y de Participación Ciudadana podrá convenir con el Instituto Nacional Electoral para que se haga cargo de la organización de los procesos electorales locales, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
 
+> <small>(ADICIONADO, B.O. 15 DE MAYO DE 2017)</small>
+
+En los procesos electorales, el Instituto Estatal Electoral y de Participación Ciudadana observará, con la debida diligencia, la prevención y sanción administrativa de aquellas conductas o hechos presumiblemente constitutivos de violencia política por razones de género. El Consejo General de dicho Instituto tendrá a su cargo el análisis de forma particular para definir si se trata o no de violencia de género y adoptará las acciones dentro del ámbito de su competencia para salvaguardar los derechos políticos electorales que resulten afectados.
+
 Los partidos políticos son entidades de interés público cuyo fin es promover la participación del pueblo en la vida democrática del Estado, contribuir a la integración de los órganos de representación política estatal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
 
 Tendrán el derecho para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en el artículo 2°, apartado A, fracciones III y VII de la Constitución Política de los Estados Unidos Mexicanos.
@@ -432,6 +436,14 @@ Tendrán el derecho para solicitar el registro de candidatos a cargos de elecci�
 Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos, por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
 Asimismo, promoverán, en los términos de esta Constitución y la Ley, la igualdad de oportunidades y la equidad entre las mujeres y los hombres en la vida política del Estado y sus municipios, a través de la postulación a cargos de elección popular en el Congreso del Estado y en los ayuntamientos, tanto de mayoría relativa como de representación proporcional. La intervención de los partidos políticos en el proceso electoral estará a lo dispuesto por las leyes aplicables.
+
+> <small>(ADICIONADO, B.O. 15 DE MAYO DE 2017)</small>
+
+Las candidaturas comunes se regirán bajo lo que dispongan las leyes de la materia aplicable, siempre y cuando establezca como mínimo que el convenio de las candidaturas comunes deberá contener el nombre de los partidos políticos que la conforman y el tipo de elección de que se trate; así como el emblema común de los partidos políticos que la conforman y el color o colores con que se participa, la forma en que se acreditarán los votos a cada uno de los partidos políticos que postulan la candidatura común para los efectos de conservación del registro y el otorgamiento de financiamiento público.
+
+> <small>(ADICIONADO, B.O. 15 DE MAYO DE 2017)</small>
+
+Los votos se computarán a favor del candidato común y la distribución del porcentaje de votación será conforme al convenio de candidatura común registrada ante la autoridad electoral.
 
 El Estado garantizará el financiamiento público a los partidos políticos con registro nacional o estatal que participen en la elección ordinaria inmediata anterior en la Entidad y mantengan actividades ordinarias permanentes en el Estado, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
 
@@ -445,7 +457,9 @@ Los ciudadanos sonorenses tendrán el derecho de solicitar su registro como cand
 
 La ley establecerá un sistema de nulidades y medios de impugnación de los que conocerá un Tribunal Estatal Electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos, acuerdos y resoluciones se sujeten, invariablemente, al principio de legalidad. Sus sesiones serán públicas.
 
-El Tribunal Estatal Electoral tendrá plena autonomía operativa y de decisión, así como personalidad jurídica y patrimonio propios. Será la máxima autoridad jurisdiccional en materia electoral y de procesos de participación ciudadana, funcionará de manera permanente y tendrá a su cargo la sustanciación y resolución, en única instancia, de los medios de impugnación que establezcan las leyes aplicables.
+> <small>(REFORMADO, B.O. 15 DE MAYO DE 2017)</small>
+
+El Tribunal Estatal Electoral tendrá plena autonomía operativa y de decisión, así como personalidad jurídica y patrimonio propios. Será la máxima autoridad jurisdiccional en materia electoral y de procesos de participación ciudadana, funcionará de manera permanente y tendrá a su cargo la sustanciación y resolución, en única instancia, de los medios de impugnación que establezcan las leyes aplicables, así como la resolución de los procedimientos sancionadores ordinarios y juicios orales sancionadores en materia electoral en los términos que establezca la ley.
 
 El Tribunal se integrará por tres magistrados propietarios los cuales serán designados por la Cámara de Senadores, en términos de la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
 
@@ -601,11 +615,9 @@ I. Ser ciudadano sonorense en ejercicio de sus derechos políticos.
 
 II. (DEROGADA, B.O. 5 DE ABRIL DE 2006)
 
-> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, B.O. 15 DE MAYO DE 2017)</small>
 
-III. Tener vecindad y residencia efectiva dentro del distrito electoral correspondiente, excepto en el caso de municipios que abarquen dos o más Distritos Electorales en su demarcación, caso en el cual bastará con acreditar la vecindad y residencia en dicho municipio para contender por el cargo de diputado en cualquiera de los Distritos que lo integran.
-
-La vecindad y residencia a que se refiere esta fracción deberá ser de cuando menos dos años inmediatamente anteriores al día de la elección, tratándose de los nativos del Estado, y de cinco años inmediatamente anteriores al día de la elección, en caso de no serlo.
+III. Tener vecindad y residencia efectiva dentro del distrito electoral correspondiente, excepto en el caso de municipios que abarquen dos o mas distritos electorales en su demarcación, caso en el cual bastará con acreditar la vecindad y residencia en dicho municipio para contender por el cargo de diputado en cualquiera de los distritos que lo integran. La vecindad y residencia a que se refiere esta fracción deberá de ser, cuando menos, de dos años inmediatamente anteriores al día de la elección.
 
 IV. No haber sido Gobernador del Estado dentro del período en que se efectúe la elección, aún cuando se hubiere separado definitivamente de su puesto.
 
@@ -3581,11 +3593,11 @@ La sesión de instalación del Consejo del Poder Judicial deberá celebrarse den
 
 ###### ARTICULO SEXTO.
 
-La reforma al artículo 30 de esta Constitución, en materia de reelección, será aplicable a los diputados que sean electos a partir del proceso electoral que culmine en el año 2018.
+(DEROGADO, B.O. 15 DE MAYO DE 2017)
 
 ###### ARTÍCULO SÉPTIMO.
 
-La reforma al artículo 131 de esta Constitución, en materia de reelección, será aplicable a los integrantes de los ayuntamientos que sean electos a partir del proceso electoral que culmine en el año 2018.
+(DEROGADO, B.O. 15 DE MAYO DE 2017)
 
 B.O. 16 DE JULIO DE 2015.
 
@@ -3794,3 +3806,17 @@ B.O. 11 DE MAYO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 En los términos del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, la presente ley entrará en vigor al momento de su publicación en el Boletín Oficial del Gobierno del Estado y una vez culminado el proceso electoral 2014-2015, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente ley para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
+
+B.O. 15 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 187, QUE REFORMA Y ADICIONA DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado y previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá (sic) notificar los terminos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en caso de resultar aprobada.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan los artículos sexto y séptimo transitorios de la Ley número 173, que reforma, adiciona y deroga diversas disposiciones de la Constitución Política del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado de Sonora número 49, sección III de fecha 19 de junio de 2014.
