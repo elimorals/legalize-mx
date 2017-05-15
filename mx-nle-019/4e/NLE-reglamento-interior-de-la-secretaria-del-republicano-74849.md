@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-del-republicano-74849"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-26"
-last_updated: "2016-03-04"
+last_updated: "2017-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DEL REPUBLICANO AYUNTAMIENTO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de abril de 2010.
 
@@ -41,7 +41,9 @@ PRESENTE.-
 
 A los integrantes de la Comisión de Gobierno y Reglamentación de este Republicano Ayuntamiento de San Pedro Garza García, Nuevo León, nos fue turnada para su estudio y dictamen la propuesta de INICIATIVA DE REGLAMENTO INTERIOR DE LA SECRETARÍA DEL REPUBLICANO AYUNTAMIENTO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, el cual presentamos con su proceso de reforma y en el de "RESULTANDOS", hechos relacionados con su proceso de reforma y en el de los "CONSIDERANDOS" argumentaciones de carácter jurídico aplicables.
 
-RESULTANDOS...
+RESULTANDOS
+
+[...]
 
 Por lo anterior expuesto y fundado y de conformidad con lo establecido en los artículos 115, fracción II de la Constitución Política de los Estados Unidos Mexicanos; 130 de la Constitución Política de (sic) del Estado Libre y Soberano de Nuevo León; 1, 10, 14, 26 inciso a) fracción VII, inciso c) fracción VI, 1060, 161, 162, 163, 164, 165, 166, 167, 168, de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León; artículo 10 fracción VI d la Ley del Periódico Oficial del Estado der Nuevo León; artículos 58, 59, 60, 61 fracción I, numeral 3, 63, 64, 70, 71, 73, 74, 75, 76, 77 y demás relativos del Reglamento para el Gobierno Interior del Republicano Ayuntamiento de San Pedro Garza García, Nuevo León; esta Comisión de Gobierno y Reglamentación del Republicano Ayuntamiento, presenta por medio de la presente su propuesta de dictamen de la INICIATIVA DE REGLAMENTO INTERIOR DE LA SECRETARÍA DEL REPUBLICANO AYUNTAMIENTO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, y para efectos de desahogar el procedimiento reglamentario respectivo, pone a la consideración de este Órgano Colegiado, el siguiente:
 
@@ -75,11 +77,11 @@ El Secretario del Republicano Ayuntamiento auxiliará al Presidente Municipal en
 
 El Secretario del Republicano Ayuntamiento tiene la obligación de formular, previamente, el orden del día de cada una de las sesiones del Honorable Cabildo como cuerpo colegiado para someterlo a la aprobación del Presidente Municipal, previa citación a la sesión del Honorable Cabildo que corresponda. El Secretario deberá solicitar de las distintas dependencias de la Administración Pública Municipal los datos e información de los temas a incluirse en la agenda.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 7.
 
-Para el ejercicio de las atribuciones que le corresponden, el Secretario del Republicano Ayuntamiento se auxiliará de: Dirección de Gobierno, Dirección General de Asuntos Jurídicos, Dirección de Ordenamiento e Inspección, Dirección de Jueces Calificadores, Dirección de Participación Ciudadana, Dirección de Delegaciones y Salones Polivalentes, Dirección de Protección Civil y demás unidades administrativas que resulten necesarias.
+Para el ejercicio de las atribuciones que le corresponden, el Secretario del Republicano Ayuntamiento se auxiliará de: Dirección de Gobierno, Dirección General de Asuntos Jurídicos, Dirección de Comercio, Dirección de Inspección y Vigilancia, Dirección de Jueces Calificadores, Dirección de Participación Ciudadana, Dirección de Delegaciones y Salones Polivalentes, Dirección de Protección Civil y demás unidades administrativas que resulten necesarias.
 
 ###### ARTÍCULO 8.
 
@@ -133,11 +135,11 @@ XV. Presidir las reuniones de Directores y titulares de las unidades administrat
 
 XVI. Las demás que se desprenda de las leyes y reglamentos aplicables.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 10.
 
-La Secretaría del Republicano Ayuntamiento, además de la Dirección de Gobierno, Dirección General de Asuntos Jurídicos, Dirección de Ordenamiento e Inspección, Dirección de Jueces Calificadores, Dirección de Participación Ciudadana, Dirección de Delegaciones y Salones Polivalentes y Dirección de Protección Civil contará con el personal administrativo de base, de confianza y auxiliares que permita el presupuesto de egresos.
+La Secretaría del Republicano Ayuntamiento, además de la Dirección de Gobierno, Dirección General de Asuntos Jurídicos, Dirección de Comercio, Dirección de Inspección y Vigilancia, Dirección de Jueces Calificadores, Dirección de Participación Ciudadana, Dirección de Delegaciones y Salones Polivalentes y Dirección de Protección Civil contará con el personal administrativo de base, de confianza y auxiliares que permita el presupuesto de egresos.
 
 ###### ARTÍCULO 11.
 
@@ -345,69 +347,125 @@ Todo escrito, promoción, acuerdo y demás actos que suscriban el Presidente Mun
 
 Las ausencias del Director General de Asuntos Jurídicos serán cubiertas por el servidor público que designe el Secretario del Republicano Ayuntamiento.
 
-### CAPÍTULO QUINTO. DIRECCIÓN DE ORDENAMIENTO E INSPECCIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MAYO DE 2017)</small>
+
+### CAPÍTULO QUINTO. DIRECCIÓN DE COMERCIO
 
 ###### ARTÍCULO 22.
 
-A la Dirección de Ordenamiento e Inspección le compete:
+A la Dirección de Comercio le compete:
 
-I. Analizar, ordenar y regular los asentamientos humanos en el municipio;
+I. (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
-II. Administrar los panteones municipales y otorgar los servicios de inhumación y exhumación;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+II. Administrar los panteones municipales y resolver las solicitudes de trámite para otorgar los servicios de inhumación y exhumación a los habitantes del Municipio;
 
-III. Auxiliar a la comisión competente para la formulación de los dictámenes que deban someterse al acuerdo del Republicano Ayuntamiento de solicitudes para espectáculos públicos, observando las disposiciones del Reglamento de Eventos del Municipio de San Pedro Garza García, Nuevo León;
+III. (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
-IV. Auxiliar a la comisión competente para la formulación de los dictámenes que deban someterse al acuerdo del Republicano Ayuntamiento de solicitudes para espectáculos públicos, observando las disposiciones del Reglamento de Espectáculo del Municipio de San Pedro Garza García, Nuevo León;
+IV. (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
-V. Auxiliar a la comisión competente de los dictámenes para obtención de licencia para venta y consumo de bebidas alcohólicas que deban someterse al acuerdo del Republicano Ayuntamiento;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
 
-VI. Tramitar, substanciar hasta formular proyecto de resolución los recursos administrativos que correspondan conocer al Republicano Ayuntamiento, sometiéndolos a consideración de la Comisión competente;
+V. Dar trámite a las solicitudes de anuencias, revalidaciones, revocaciones y cambio de nombre comercial de establecimientos para la obtención de permisos en materia de alcohol y auxiliar a la comisión competente del Republicano Ayuntamiento sobre los dictámenes de los mismos que deban someterse al acuerdo del Republicano Ayuntamiento;
 
-VII. Expedir, firmar y archivar los mandamientos para practicar inspecciones a comercios, espectáculos y establecimientos en que se consuman o expendan bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
 
-VIII. Revisar y archivar las actas de los inspectores para calificarlas e imponer las sanciones administrativas que correspondan de acuerdo con los reglamentos, e informar de lo anterior al Secretario del Republicano Ayuntamiento debiendo conformar un archivo de todo lo anterior;
+VI. Substanciar hasta formular proyecto de resolución los recursos administrativos que correspondan conocer al Republicano Ayuntamiento, sometiéndolos a consideración de la comisión competente del Republicano Ayuntamiento;
+
+VII. (DEROGADA, P.O. 15 DE MAYO DE 2017)
+
+VIII. (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
 IX. Imponer en el ámbito de su competencia sanciones administrativas a los infractores a las disposiciones de los reglamentos y leyes que le corresponda aplicar;
 
-X. Remitir a la Secretaría de Finanzas y Tesorería Municipal, copia certificada del instructivo notificado que contenga el acuerdo o resolución donde se impongan sanciones por violaciones a la normativa que regula la venta y consumo de bebidas alcohólicas; lo anterior para los efectos de que se siga el procedimiento administrativo de ejecución debiendo presentar informe a la Comisión de Hacienda y Patrimonio Municipal;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
 
-XI. Asistir a las reuniones a las que convoque el Secretario del Republicano Ayuntamiento y rendir los informes correspondientes a las actividades realizadas o a realizar;
+X. Asistir a las reuniones a las que convoque el Secretario del Republicano Ayuntamiento y rendir los informes correspondientes a las actividades realizadas, así como las actividades por realizar;
 
-XII. Administrar los panteones municipales y otorgar los contratos para asignación de lotes del servicio de inhumación;
+XI. (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
-XIII. Coordinar las funciones que realizan los inspectores de comercio, espectáculos y alcoholes;
+XII. (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
 
-XIV. Aplicar y hacer cumplir el Reglamento para la Prevención y Combate del Abuso del Alcohol y de Regulación para su Venta y Consumo, así como el Reglamento de Eventos, ambos del Municipio de San Pedro Garza García, Nuevo León;
+XIII. Presentar un informe a la comisión competente del Republicano Ayuntamiento, cuando le sea requerido, de todas las actividades que ha realizado, así como del estatus e integración de los archivos y expedientes;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
 
-XV. Presentar un informe a la Comisión de Ordenamiento e Inspección, cuando le sea requerido, de todas las actividades que ha realizado, así como del status e integración de los archivos y expedientes; y
+XIV. Expedir y verificar los permisos para la realización de actividades tanto comerciales como no comerciales, así como las de promoción, distribución o de prestación de servicios en lugares públicos;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
 
-XVI. Las demás que se desprendan de la ley, reglamentos, disposiciones del Republicano Ayuntamiento y del Presidente Municipal.
+XV. Expedir los permisos para la realización de eventos públicos y privados;
 
-XVII. Las demás que se desprendan de la ley y otros reglamentos municipales (SIC).
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+XVI. Expedir y verificar los permisos de mercados rodantes y comerciantes ambulantes, fijos, semifijos y móviles, en la vía pública, pudiendo revocar los mismos, previo procedimiento que se dicte de conformidad con las leyes y reglamentos de la materia y en coordinación con las autoridades municipales, cuando el caso lo amerite;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE MAYO DE 2017)</small>
+
+XVII. Expedir el permiso a establecimientos, personas físicas o morales que presten el servicio de estacionado de automóviles, asimismo administrar el padrón de dicho servicio;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+
+XVIII. Ordenar y coordinar las funciones que realizan los notificadores y verificadores, de acuerdo a las disposiciones legales y reglamentarias aplicables, para que los establecimientos y titulares de las licencias o permisos expedidos por las autoridades competentes acaten las leyes y reglamentos aplicables y en su caso notificar las resoluciones de carácter administrativo por violación a alguna de estas disposiciones; y
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+
+XIX. Las demás que se desprendan de la ley, reglamentos, disposiciones del Republicano Ayuntamiento y del Presidente Municipal.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 23.
 
-La Dirección de Ordenamiento e Inspección contará con un Director; un Coordinador General; Coordinadores de Comercio Informal y Panteones, de Alcoholes y Espectáculos; Capturista, Auxiliar de Oficina, Secretaria, Intendente, Recepcionista, Panteoneros e Inspectores, con las atribuciones que se les asignen.
+La Dirección de Comercio contará con un Director; un Coordinador General; Coordinador de Comercio y Panteones, Coordinador de Anuencias; Capturista, Auxiliares de Oficina, Secretaria, Intendente, Recepcionista, Panteoneros, Mayordomo, notificadores, verificadores y demás personal para el cumplimiento de sus funciones.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 24.
 
-La ausencia del Director de Ordenamiento e Inspección será cubierta por el servidor público que designe el Secretario del Republicano Ayuntamiento.
+La ausencia del Director Comercio será cubierta por el servidor público que designe el Secretario del Republicano Ayuntamiento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MAYO DE 2017)</small>
+
+### CAPÍTULO QUINTO BIS. DIRECCIÓN DE INSPECCIÓN Y VIGILANCIA
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2017)</small>
+
+ARTÍCULO 24 BIS. A la Dirección de Inspección y Vigilancia le compete:
+
+I. Previo visto bueno del Secretario del Republicano Ayuntamiento, expedir, firmar y archivar los mandamientos para practicar inspecciones en eventos y establecimientos en que se consuman o expendan bebidas alcohólicas.
+
+II. Elaborar y archivar las actas de los inspectores para calificarlas e imponer las sanciones administrativas que correspondan de acuerdo con los reglamentos, e informar de lo anterior al Secretario del Republicano Ayuntamiento debiendo conformar un archivo de todo lo anterior.
+
+III. Asistir a las reuniones a las que convoque el Secretario del Republicano Ayuntamiento y rendir los informes correspondientes a las actividades realizadas o a realizar;
+
+IV. Coordinar las funciones que realizan los inspectores y ejecutores de alcoholes;
+
+V. Aplicar y hacer cumplir el Reglamento para la Prevención y Combate del Abuso del Alcohol y de Regulación para su Venta y Consumo, así como el Reglamento de Eventos, ambos del Municipio de San Pedro Garza García, Nuevo León; debiendo expedir la orden de la clausura temporal, provisional y definitiva, colocar, imponer sellos y símbolos de clausura a los establecimientos que contravengan al presente Reglamento o las disposiciones de la Ley estatal en materia de alcohol;
+
+VI. Coadyuvar con las autoridades competentes en las inspecciones que se vayan a realizar en establecimientos en los que se consuman o expendan bebidas alcohólicas sobre la ejecución y cumplimiento de las normativas aplicables;
+
+VII. Presentar un informe a la Comisión competente del Republicano Ayuntamiento, cuando le sea requerido, de todas las actividades que ha realizado, así como del estatus e integración de los archivos y expedientes;
+
+VIII. Remitir a la Secretaría de Finanzas y Tesorería Municipal, copia simple del instructivo notificado que contenga el acuerdo o resolución donde se impongan sanciones por violaciones a la normativa que regula la venta y consumo de bebidas alcohólicas; lo anterior para los efectos de que se siga el procedimiento administrativo de ejecución debiendo presentar informe a la Comisión de Hacienda y Patrimonio Municipal;
+
+IX. Aplicar y hacer cumplir el Reglamento para la Prevención y Combate del Abuso del Alcohol y de Regulación para su Venta y Consumo, así como el Reglamento de Eventos, ambos del Municipio de San Pedro Garza García, Nuevo León; y
+
+X. Las demás que se desprendan de las leyes, reglamentos, disposiciones del Republicano Ayuntamiento y del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2017)</small>
+
+ARTÍCULO 24 BIS 1.- La Dirección de Inspección y Vigilancia contará con un Director, Coordinación General, Asesor Jurídico, Auxiliar Administrativo, Secretaria, Cuerpo de Inspectores y Ejecutores y demás personal para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2017)</small>
+
+ARTÍCULO 24 BIS 2.- La ausencia del Director de Inspección y Vigilancia será cubierta por el servidor público que designe el Secretario del Republicano Ayuntamiento.
 
 ### CAPÍTULO SEXTO. DIRECCIÓN DE JUECES CALIFICADORES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
-
-### CAPITULO SÉPTIMO. DIRECCIÓN DE PARTICIPACIÓN CIUDADANA
 
 ###### ARTÍCULO 25.
 
@@ -447,37 +505,7 @@ La Dirección de Jueces Calificadores contará con un Director, el número de Ju
 
 Las ausencias del Director de Jueces Calificadores, serán cubiertas por el servidor público que designe el Secretario del Republicano Ayuntamiento.
 
-### CAPÍTULO SÉPTIMO BIS. DE LA DIRECCIÓN DE PROTECCIÓN CIVIL
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
-
-ARTÍCULO 30 BIS.- La Dirección de Protección Civil tendrá las siguientes atribuciones:
-
-I. Apoyar el funcionamiento del Consejo Municipal de Protección Civil en los términos del Reglamento de Protección Civil en el Municipio de San Pedro Garza García, Nuevo León;
-
-II. Designar al personal que fungirá como inspector en las actividades que se realicen en los establecimientos de competencia municipal o en coordinación con la autoridad estatal;
-
-III. Dirigir, supervisar y evaluar, todas las acciones que en materia de protección civil se lleven a cabo en el Municipio;
-
-IV. Establecer y coordinar programas, proyectos y acciones en materia de protección civil;
-
-V. Expedir la factibilidad que sea requerida en materia de protección civil por diversas dependencias municipales, estatales y/o federales, así como por los particulares, de conformidad con la normatividad respectiva;
-
-VI. Ordenar la práctica de las inspecciones a los establecimientos de competencia municipal, en la forma y términos que establece el Reglamento de Protección Civil en el Municipio, así como en su caso aplicar y ejecutar las sanciones que correspondan;
-
-VII. Organizar las acciones de coordinación con las autoridades estatales y federales, así como con los sectores social y privado, para los planes de prevención y control de altos riesgos, emergencias y desastres; y
-
-VIII. Las demás que se desprendan de la ley, reglamentos, disposiciones del Republicano Ayuntamiento y del Presidente Municipal.
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
-
-ARTÍCULO 30 BIS 1.- La Dirección de Protección Civil contará con un Director y demás servidores públicos necesarios para el desarrollo de sus atribuciones.
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
-
-ARTÍCULO 30 BIS 2.- Las ausencias del Director de Protección Civil serán cubiertas por el servidor público que designe el Secretario del Republicano Ayuntamiento.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2016)</small>
+### CAPITULO SÉPTIMO. DIRECCIÓN DE PARTICIPACIÓN CIUDADANA
 
 ###### ARTÍCULO 28.
 
@@ -513,6 +541,38 @@ Las ausencias del Director de Participación Ciudadana serán cubiertas por el s
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2016)</small>
 
+### CAPÍTULO SÉPTIMO BIS. DE LA DIRECCIÓN DE PROTECCIÓN CIVIL
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
+ARTÍCULO 30 BIS.- La Dirección de Protección Civil tendrá las siguientes atribuciones:
+
+I. Apoyar el funcionamiento del Consejo Municipal de Protección Civil en los términos del Reglamento de Protección Civil en el Municipio de San Pedro Garza García, Nuevo León;
+
+II. Designar al personal que fungirá como inspector en las actividades que se realicen en los establecimientos de competencia municipal o en coordinación con la autoridad estatal;
+
+III. Dirigir, supervisar y evaluar, todas las acciones que en materia de protección civil se lleven a cabo en el Municipio;
+
+IV. Establecer y coordinar programas, proyectos y acciones en materia de protección civil;
+
+V. Expedir la factibilidad que sea requerida en materia de protección civil por diversas dependencias municipales, estatales y/o federales, así como por los particulares, de conformidad con la normatividad respectiva;
+
+VI. Ordenar la práctica de las inspecciones a los establecimientos de competencia municipal, en la forma y términos que establece el Reglamento de Protección Civil en el Municipio, así como en su caso aplicar y ejecutar las sanciones que correspondan;
+
+VII. Organizar las acciones de coordinación con las autoridades estatales y federales, así como con los sectores social y privado, para los planes de prevención y control de altos riesgos, emergencias y desastres; y
+
+VIII. Las demás que se desprendan de la ley, reglamentos, disposiciones del Republicano Ayuntamiento y del Presidente Municipal.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
+ARTÍCULO 30 BIS 1.- La Dirección de Protección Civil contará con un Director y demás servidores públicos necesarios para el desarrollo de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
+ARTÍCULO 30 BIS 2.- Las ausencias del Director de Protección Civil serán cubiertas por el servidor público que designe el Secretario del Republicano Ayuntamiento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2016)</small>
+
 ### CAPÍTULO SÉPTIMO BIS 1. DE LA DIRECCIÓN DE DELEGACIONES Y SALONES POLIVALENTES
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
@@ -544,8 +604,6 @@ ARTÍCULO 30 BIS 4.- La Dirección de Delegaciones y Salones Polivalentes contar
 ARTÍCULO 30 BIS 5.- La ausencias del Director de Delegaciones y Salones Polivalentes serán cubiertas por el servidor público que designe el Secretario del Republicano Ayuntamiento.
 
 ### CAPÍTULO OCTAVO. DE LA OFICINA DE SÍNDICOS Y REGIDORES
-
-### CAPÍTULO NOVENO. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
 
 ###### ARTÍCULO 31.
 
@@ -601,6 +659,8 @@ Las ausencias del Coordinador Jurídico de la oficina de Síndicos y Regidores, 
 
 La secretaria o secretarias designadas para los Síndicos y Regidores, desempeñará sus funciones conforme al manual de operaciones correspondiente.
 
+### CAPÍTULO NOVENO. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
+
 ###### ARTÍCULO 38.
 
 En la medida que se modifiquen las condiciones sociales y económicas del Municipio, en virtud de su crecimiento demográfico, cambio social, modificación de sus actividades productivas y demás aspectos de la vida comunitaria, el presente reglamento podrá ser modificado o actualizado, tomando en cuenta la opinión de la propia comunidad en forma directa o a través de organizaciones sociales representativas.
@@ -652,3 +712,9 @@ P.O. 4 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
 
 ÚNICO. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 15 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBA LA REFORMA, ADICIÓN Y DEROGACIÓN DE DIVERSOS DISPOSITIVOS DEL REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL REPUBLICANO AYUNTAMIENTO; DEL REGLAMENTO PARA LA PREVENCIÓN Y COMBATE AL ABUSO DEL ALCOHOL Y DE REGULACIÓN PARA SU VENTA Y CONSUMO; DEL REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DE LOS MERCADOS RODANTES Y EL EJERCICIO DEL COMERCIO AMBULANTE; DEL REGLAMENTO DE MERCADOS Y DEL REGLAMENTO DE EVENTOS, TODOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, N.L.”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
