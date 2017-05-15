@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-regula-el-funcionamiento-de-los-mercados-25862"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-11-25"
-last_updated: "2016-07-18"
+last_updated: "2017-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25862&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DE LOS MERCADOS RODANTES Y EL EJERCICIO DEL COMERCIO AMBULANTE DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de noviembre de 1992.
 
@@ -51,11 +51,11 @@ Así mismo, se considera vendedor ambulante aquella persona física que transita
 
 Se considera vía pública toda calle, banqueta o camino de cualquier tipo abierto al libre tránsito de personas o vehículos, en los términos de este Reglamento y de las demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### ARTICULO 4.
 
-Para dedicarse al comercio en mercados rodantes o al comercio ambulante, deber (sic) obtenerse previamente el permiso municipal correspondiente, el cual será expedido por la Dirección de Ordenamiento e Inspección.
+Para dedicarse al comercio en mercados rodantes o al comercio ambulante, deber (sic) obtenerse previamente el permiso municipal correspondiente, el cual será expedido por la Dirección de Comercio.
 
 ###### ARTICULO 5.
 
@@ -191,9 +191,9 @@ II.- El Secretario del Republicano Ayuntamiento.
 
 III.- El Secretario de Tesorería y Finanzas del Municipio.
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
 
-IV.- El Director de Ordenamiento e Inspección.
+IV. El Director de Comercio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
 
@@ -480,5 +480,11 @@ P.O. 4 DE MARZO DE 2016.
 P.O. 18 DE JULIO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBAN LAS REFORMAS A LOS 19 REGLAMENTOS DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 15 DE MAYO DE 2017.
+
+> <small>[N. DE E. TRANSITORIO POR EL QUE “SE APRUEBA LA REFORMA, ADICIÓN Y DEROGACIÓN DE DIVERSOS DISPOSITIVOS DEL REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL REPUBLICANO AYUNTAMIENTO; DEL REGLAMENTO PARA LA PREVENCIÓN Y COMBATE AL ABUSO DEL ALCOHOL Y DE LA REGULACIÓN PARA SU VENTA Y CONSUMO; DEL REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DE LOS MERCADOS RODANTES Y EL EJERCICIO DEL COMERCIO AMBULANTE; DEL REGLAMENTO DE MERCADOS Y DEL REGLAMENTO DE EVENTOS, TODOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, N.L.”.]</small>
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
