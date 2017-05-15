@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-prevenir-atender-y-erradicar-la-trata-de-personas-1097
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-25"
-last_updated: "2015-08-25"
+last_updated: "2017-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY PARA PREVENIR, ATENDER Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCION Y ASISTENCIA DE LAS VICTIMAS EN EL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE MAYO DE 2017 EN EL P.O. DEL ESTADO DE MICHOACÁN DE OCAMPO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA DE LAS VÍCTIMAS EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE MAYO DE 2017.]</small>
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el martes 25 de agosto de 2015.
 
@@ -45,9 +45,11 @@ LEY PARA PREVENIR, ATENDER Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓ
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1.
 
-Esta ley Esta ley (sic) se aplicará en el territorio del Estado de Michoacán y sus municipios, siendo sus disposiciones de orden público e interés social, tiene como finalidad prevenir, atender y erradicar la trata de personas, lo cual se considera, toda acción u omisión dolosa para captar, enganchar, transportar, transferir, retener, entregar, recibir o alojar a una o varias personas con fines de esclavitud, servidumbre, prostitución ajena u otras formas de explotación sexual, explotación laboral, trabajo o servicios forzados, mendicidad forzada, actividades delictivas, adopción ilegal, matrimonio forzoso o servil, tráfico de órganos, tejidos y células de seres humanos vivos y experimentación biomédica ilícita en seres humanos, así como brindar protección y asistencia a las víctimas, ofendidos y testigos, de conformidad con la Ley General.
+Esta ley tiene como finalidad prevenir, atender y erradicar la trata de personas, lo cual se considera, toda acción u omisión dolosa para captar, enganchar, transportar, transferir, retener, entregar, recibir o alojar a una o varias personas con fines de esclavitud, servidumbre, prostitución ajena u otras formas de explotación sexual, explotación laboral, trabajo o servicios forzados, mendicidad forzada, actividades delictivas, adopción ilegal, matrimonio forzoso o servil, tráfico de órganos, tejidos y células de seres humanos vivos y experimentación biomédica ilícita en seres humanos, así como brindar protección y asistencia a las víctimas, ofendidos y testigos, de conformidad con la Ley General.
 
 ###### Artículo 2.
 
@@ -95,29 +97,73 @@ X. Prohibición de devolución o expulsión. Las víctimas no serán repatriadas
 
 Para los efectos de la presente ley se entenderá por:
 
-I. Asistencia y protección a las víctimas: Conjunto de medidas de apoyo y protección de carácter integral que se brindan a las víctimas desde el momento de su identificación o rescate y hasta su reincorporación plena a la sociedad, que cumplen la función de orientarlas legalmente, otorgar apoyo médico, psicológico, económico temporal, así como protección para ella y su familia;
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
 
-II. Centro: Centro Estatal de Prevención del Delito y Participación Ciudadana del Consejo Estatal;
+I. Abuso de poder: Aprovechamiento que realiza el sujeto activo derivado de una relación o vínculo familiar, sentimental, de confianza, de custodia, laboral, formativo, educativo, de cuidado, religioso o de cualquier otro que implique dependencia o subordinación de la víctima respecto al victimario, incluyendo a quien tenga un cargo público o se ostente de él;
 
-III. Comisión: Comisión Permanente de Prevención del Delito y Participación Ciudadana del Consejo Estatal de Seguridad Pública;
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
 
-IV. Consejo Estatal: Consejo Estatal de Seguridad Pública del Estado de Michoacán de Ocampo;
+II. Asistencia y protección a las víctimas: Conjunto de medidas de apoyo y protección de carácter integral que se brindan a las víctimas desde el momento de
 
-V. Estado: Estado Libre y Soberano de Michoacán de Ocampo;
+su identificación o rescate y hasta su reincorporación plena a la sociedad, que cumplen la función de orientarlas legalmente, otorgar apoyo médico, psicológico, económico temporal, así como protección para ella y su familia;
 
-VI. Ley General: Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
 
-VII. Ley: Ley para Prevenir, Atender y Erradicar la Trata de Personas y para la Protección y Asistencia de las Victimas en el Estado de Michoacán de Ocampo;
+III. Centro: Centro Estatal de Prevención del Delito y Participación Ciudadana del Consejo Estatal;
 
-VIII. Municipios: Los municipios del Estado de Michoacán de Ocampo;
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
 
-IX. Procuraduría: Procuraduría General de Justicia del Estado de Michoacán de Ocampo;
+IV. Comisión: Comisión Permanente de Prevención del Delito y Participación Ciudadana del Consejo Estatal de Seguridad Pública;
 
-X. Programa Nacional: Programa Nacional para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
 
-XI. Programa: Programa Estatal para Prevenir, Atender y Erradicar la Trata de Personas y para la Protección y Asistencia a las Víctimas;
+V. Consejo Estatal: Consejo Estatal de Seguridad Pública del Estado de Michoacán de Ocampo;
 
-XII. Situación de vulnerabilidad: Condición particular de la víctima derivada de uno o más de las siguientes circunstancias que puedan derivar en que el sujeto pasivo realice la actividad, servicio o labor que se le pida o exija por el sujeto activo del delito:
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+VI. Daño grave o amenaza de daño grave: Cualquier daño físico, psicológico, financiero, sexual o a la reputación, o la sola amenaza para la víctima, capaz de hacerle creer que no tiene más opción que someterse o seguir sometida a la conducta de explotación y que el sujeto activo, conociéndola, la utilice para obtener el sometimiento de la víctima;
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+VII. Estado: Estado Libre y Soberano de Michoacán de Ocampo;
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+VIII. Ley General: Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+IX. Ley: Ley para Prevenir, Atender y Erradicar la Trata de Personas y para la Protección y Asistencia de las Victimas en el Estado de Michoacán de Ocampo;
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+X. Municipios: Los municipios del Estado de Michoacán de Ocampo;
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+XI. Procuraduría: Procuraduría General de Justicia del Estado de Michoacán de Ocampo;
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+XII. Programa Nacional: Programa Nacional para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las
+
+Víctimas de estos Delitos;
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+XIII. Programa: Programa Estatal para Prevenir, Atender y Erradicar la Trata de Personas y para la Protección y Asistencia a las Víctimas;
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+XIV. Publicidad engañosa: Publicidad que por cualquier medio induzca al error como consecuencia de la presentación del mensaje publicitario, como consecuencia de la información que transmite o como consecuencia de omición (sic) de información en el propio mensaje, con objeto de captar o reclutar personas con el fin de someterlas a cualquier tipo de explotación;
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+XV. Publicidad ilícita: Publicidad que, por cualquier medio, se utilice para propiciar de manera directa o indirecta la comisión de los delitos en materia de trata de personas;
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+XVI. Situación de vulnerabilidad: Condición particular de la víctima derivada de uno (sic) o más de las siguientes circunstancias que puedan derivar en que el sujeto pasivo realice la actividad, servicio o labor que se le pida o exija por el sujeto activo del delito:
 
 a) Su origen, edad, sexo, condición socioeconómica precaria;
 
@@ -135,19 +181,27 @@ g) Una capacidad reducida para formar juicios por ser una persona menor de edad;
 
 h) Cualquier otra característica que sea aprovechada por el sujeto activo del delito.
 
-XIII. Víctima del delito de Trata de Personas: Las mujeres,
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 5.
 
-Las autoridades estatales y municipales tienen, respecto a la trata de personas, las siguientes atribuciones:
+Los gobiernos estatal y municipales tienen, respecto a la trata de personas, las siguientes atribuciones:
 
 I. Implementar acciones para prevenirla y erradicarla; y,
 
 II. Brindar atención y protección integral a las víctimas, ofendidos y testigos.
 
-Las autoridades estatales y municipales colaborarán con las autoridades de la federación cuando se actualicen los supuestos reservados a la competencia federal de conformidad con Ley General.
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
 
-Las autoridades estatales y municipales colaborarán y se coordinarán entre sí y con las autoridades federales, con el objeto de generar prevención general, especial y social, en los términos y reglas establecidas en la Ley General del Sistema Nacional de Seguridad Pública, la Ley del Sistema Estatal de Seguridad Pública del Estado de Michoacán de Ocampo, la Ley General y esta Ley.
+Las autoridades estatales investigarán, perseguirán, procesarán y sancionarán los delitos en la materia, pudiendo requerir para tal efecto la colaboración de las autoridades municipales.
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+Las autoridades estatales y municipales colaborarán con las autoridades de la federación cuando se actualicen los supuestos reservados a la competencia federal de conformidad con la Ley General.
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+Las autoridades estatales y municipales colaborarán y se coordinarán entre sí y con las autoridades federales, con el objeto de generar prevención general, especial y social, en los términos y reglas establecidas en la Ley General del Sistema Nacional de Seguridad Pública, la Ley del Sistema de Seguridad Pública del Estado de Michoacán de Ocampo, la Ley General y esta Ley.
 
 ###### Artículo 6.
 
@@ -173,11 +227,15 @@ IX. Impulsar reformas legales para el cumplimiento de los objetivos de la presen
 
 X. Las demás aplicables a la materia, que les confiera esta Ley u otros ordenamientos legales.
 
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 7.
 
-Corresponde a las autoridades municipales en el ámbito de sus respectivas facultades y competencias:
+Corresponde a los ayuntamientos en el ámbito de sus respectivas facultades y competencias:
 
-I. Instrumentar acciones para prevenir, atender y erradicar la trata de personas;
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+I. Instrumentar acciones para prevenir, y erradicar la trata de personas;
 
 II. Apoyar la creación de programas de sensibilización y capacitación para las y los servidores públicos y funcionarios que puedan estar en contacto con posibles víctimas;
 
@@ -193,7 +251,9 @@ Adicionalmente, a las autoridades estatales y municipales les corresponde de man
 
 I. Editar y producir materiales de difusión con contenido y lenguaje accesible para la prevención de los delitos relacionados con la trata de personas en todas sus formas y modalidades;
 
-Il. Promover la investigación de los delitos relacionados con la trata de personas, en todas sus manifestaciones y modalidades, para que los resultados sirvan de base para el desarrollo de nuevas políticas y programas para su prevención y combate, asíí (sic) como para desarrollar nuevas medidas de atención, protección y asistencia a las víctimas;
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+II. Promover la investigación de los delitos relacionados con la trata de personas, en todas sus manifestaciones y modalidades, para que los resultados sirvan de base para el desarrollo de nuevas políticas y programas para su prevención y combate, así como para desarrollar nuevas medidas de atención, protección y asistencia a las víctimas;
 
 III. Fomentar y difundir actividades de conocimiento y prevención de los delitos relacionados con la trata de personas en todas sus formas y manifestaciones;
 
@@ -203,13 +263,19 @@ V. Desarrollar mecanismos para que las instituciones de seguridad pública se co
 
 a) Realizar estudios sobre las causas estructurales, distribución geo delictiva, estadística, tendencias históricas y patrones de comportamiento, lugares de origen, tránsito y destino, formas de comisión, modalidad de enganche o reclutamiento, modalidad de explotación, entre otros, que permitan actualizar y perfeccionar la investigación para la prevención de los delitos de trata de personas;
 
-b) Obtener, procesar e interpretar la información geo delictiva por medio del análisis de los factores que generan conductas antisociales previstas en esta ley con la finalidad de identificar las zonas, sectores y grupos de alto riesgo, asíí (sic) como sus correlativos factores de protección;
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+b) Obtener, procesar e interpretar la información geo delictiva por medio del análisis de los factores que generan conductas antisociales previstas en esta ley con la finalidad de identificar las zonas, sectores y grupos de alto riesgo, así como sus correlativos factores de protección;
 
 c) Suministrar e intercambiar la información obtenida mediante los sistemas e instrumentos tecnológicos respectivos;
 
-d) Llevar a cabo campañas orientadas a prevenir y evitar los factores y causas que originan los fenómenos delictivos, asíí (sic) como difundir su contenido; y,
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
 
-e) Establecer relaciones de colaboración con las autoridades competentes, asíí (sic) como con organizaciones de la sociedad civil y privadas, con el objetivo de orientar a la sociedad en las medidas que debe adoptar para prevenir los delitos tipificados en esta ley y los demás establecidos en otros ordenamientos.
+d) Llevar a cabo campañas orientadas a prevenir y evitar los factores y causas que originan los fenómenos delictivos, así como difundir su contenido; y,
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+e) Establecer relaciones de colaboración con las autoridades competentes, así como con organizaciones de la sociedad civil y privadas, con el objetivo de orientar a la sociedad en las medidas que debe adoptar para prevenir los delitos tipificados en esta ley y los demás establecidos en otros ordenamientos.
 
 VI. Crear mecanismos y proveer recursos para que las instituciones policiales, de seguridad pública y de procuración de justicia desarrollen métodos de recopilación y sistematización de información con el fin de aplicar las estrategias necesarias para hacer eficaz la investigación preventiva con base en los siguientes criterios:
 
@@ -219,7 +285,9 @@ b) Sistematizar y ejecutar los métodos de análisis de información estratégic
 
 c) Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
-VII. Las autoridades estatales y municipales podrán celebrar convenios para coordinar o unificar sus actividades en la materia de esta Ley, para cumplir de mejor manera las responsabilidades a su cargo.
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+VII. El gobierno estatal y los ayuntamientos podrán celebrar convenios para coordinar o unificar sus actividades en la materia de esta Ley, para cumplir de mejor manera las responsabilidades a su cargo.
 
 ###### Artículo 9.
 
@@ -253,9 +321,11 @@ V. Las policías, el Ministerio Público y las autoridades jurisdiccionales adop
 
 Las policías, Ministerio Público y autoridades jurisdiccionales harán una consideración especial en el desarrollo de sus actividades, cuando la víctima se encuentre en una situación de vulnerabilidad por haber sufrido algún daño físico o emocional que requiera tomar medidas especiales.
 
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 13.
 
-En todo lo no previsto en materia de investigación, procedimientos y sanciones de los delitos materia de trata de personas, se aplicarán supletoriamente las disposiciones del Código Penal Federal, del Código Nacional de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, del Código Fiscal de la Federación, de la Ley Federal de Extinción de Dominio, Reglamentaria del Artículo 22 de la Constitución Política de los Estados Unidos Mexicanos y de la Ley General del Sistema Nacional de Seguridad Pública.
+En todo lo no previsto en materia de investigación, procedimientos y sanciones de los delitos materia de trata, se aplicarán supletoriamente las disposiciones del Código Penal Federal, del Código Nacional de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, del Código Fiscal de la Federación, de la Ley Federal de Extinción de Dominio y de la Ley General del Sistema Nacional de Seguridad Pública.
 
 ###### Artículo 14.
 
@@ -297,7 +367,13 @@ V. Detención de las personas que cometieron o participaron en la comisión;
 
 VI. Identificación y aseguramiento de los recursos económicos obtenidos por el responsable del delito; y,
 
-VII. Identificación de bienes relacionados con los hechos o propiedad de los responsables del delito que pueda ser objeto de extinción de dominio.
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+VII. Identificación de bienes relacionados con los hechos o propiedad de los responsables del delito que pueda ser objeto de extinción de dominio; y,
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+VIII. Obtener sentencias definitivas contra los responsables del delito.
 
 ###### Artículo 16.
 
@@ -335,9 +411,11 @@ El Ministerio Público podrá solicitar a la Procuraduría General de la Repúbl
 
 Por informante se entenderá toda persona que de forma directa o indirecta tiene conocimiento de la comisión de delitos, y por su situación o actividad que realiza, provee dicha información a las instancias de gobierno para la investigación.
 
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 19.
 
-Cuando una persona sea declarada penalmente responsable de la comisión de los delitos en materia de trata de personas, el Juez deberá condenarla al pago de la reparación del daño a favor de la víctima u ofendidos, en todos los casos.
+Cuando una persona sea declarada penalmente responsable de la comisión de los delitos en materia de trata, el Juez deberá condenarla al pago de la reparación del daño a favor de la víctima u ofendidos, en todos los casos.
 
 La reparación del daño deberá ser plena y efectiva, proporcional a la gravedad del daño causado y a la afectación del proyecto de vida, y comprenderá por lo menos:
 
@@ -397,13 +475,17 @@ Para los efectos de esta ley se considera víctima al titular del bien jurídico
 
 Lo anterior con independencia de que se identifique, aprehenda, sujete a proceso o condene al autor, coautor o partícipe del delito y con independencia de la relación familiar entre éste y la víctima u ofendido.
 
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 25.
 
-Tendrán la calidad de ofendido, los familiares de la víctima hasta en cuarto grado, dependientes económicos, asíí (sic) como a cualquier otra persona que tenga una relación de hecho o convivencia afectiva con la víctima y que sufran, hayan sufrido o se encuentren en situación de riesgo de sufrir algún daño o perjuicio por motivos o a consecuencia de la comisión del delito. Entre los que se encuentran:
+Tendrán la calidad de ofendido, los familiares de la víctima hasta en cuarto grado, dependientes económicos, así como a cualquier otra persona que tenga una relación de hecho o convivencia afectiva con la víctima y que sufran, hayan sufrido o se encuentren en situación de riesgo de sufrir algún daño o perjuicio por motivos o a consecuencia de la comisión del delito. Entre los que se encuentran:
 
 I. Hijos o hijas de la víctima;
 
-II. Conyugues o concubinarios:
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+II. El cónyuge, concubina o concubinario;
 
 III. El heredero declarado judicialmente en los delitos cuyo resultado sea la muerte de la víctima u ofendido;
 
@@ -413,9 +495,11 @@ V. La persona que haya sufrido daños al intervenir para asistir a la víctima e
 
 Los ofendidos gozarán de los mismos derechos reconocidos a la víctima.
 
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 26.
 
-Tendraí (sic) la calidad de testigo toda persona que de forma directa o indirecta, a través de sus sentidos tiene conocimiento de los hechos que se investigan, por lo que puede aportar información para su esclarecimiento, independientemente de su situación legal.
+Tendrá la calidad de testigo toda persona que de forma directa o indirecta, a través de sus sentidos tiene conocimiento de los hechos que se investigan, por lo que puede aportar información para su esclarecimiento, independientemente de su situación legal.
 
 ###### Artículo 27.
 
@@ -427,17 +511,23 @@ II. Estar presentes en el proceso, en sala distinta a la que se encuentre el inc
 
 III. Obtener la información que se requiera de las autoridades competentes;
 
-IV. Solicitar y recibir asesoría por parte de autoridades competentes, quienes deberán mantenerlas informadas sobre la situación del proceso y procedimientos, asíí (sic) como de los beneficios o apoyos a que tienen derecho;
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+IV. Solicitar y recibir asesoría por parte de autoridades competentes, quienes deberán mantenerlas informadas sobre la situación del proceso y procedimientos, así como de los beneficios o apoyos a que tienen derecho;
 
 V. Solicitar medidas precautorias o cautelares para su seguridad y protección, para la investigación y persecución de los probables responsables del delito y para el aseguramiento de bienes para la reparación del daño;
 
-VI. Requerir al juez que al emitir una sentencia condenatoria en la misma se sentencie a la reparación del daño a favor de la víctima u ofendidos;
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+VI. Requerir al juez que al emitir una sentencia condenatoria, en la misma se sentencie a la reparación del daño a favor de la víctima;
 
 VII. Contar, con cargo a las autoridades estatales, con apoyo permanente de un grupo interdisciplinario de especialistas que las asesore y apoye en sus necesidades durante las diligencias;
 
 VIII. Rendir o ampliar sus declaraciones sin ser identificados dentro de la audiencia, teniendo la obligación el juez de resguardar sus datos personales y, si lo solicitan, hacerlo por medios electrónicos;
 
-IX. Participar en careos a través de medios de comunicación electrónica;
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+IX. Participar en careos a través de medios remotos;
 
 X. Obtener copia simple gratuita y de inmediato, de las diligencias en las que intervengan;
 
@@ -457,13 +547,17 @@ Las autoridades estatales y municipales, en sus respectivos ámbitos de competen
 
 I. Establecer mecanismos adecuados para identificar a las víctimas y posibles víctimas;
 
-II. Crear programas de protección y asistencia, durante y posteriores al proceso judicial, asíí (sic) como de orientar y asesorar jurídicamente durante todas las etapas del procedimiento penal, civil y administrativo;
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+II. Crear programas de protección y asistencia, durante y posteriores al proceso judicial, así como de orientar y asesorar jurídicamente durante todas las etapas del procedimiento penal, civil y administrativo;
 
 III. Diseñar y poner en marcha modelos de protección y asistencia inmediata a víctimas o posibles víctimas ante la comisión o posible comisión de los delitos en materia de trata previstos en esta ley;
 
 IV. Generar modelos y protocolos de asistencia y protección, según sus necesidades;
 
-V. Proveer la debida protección y asistencia en albergues durante su recuperación, rehabilitación y resocialización, asíí (sic) como en los lugares adecuados para garantizar su seguridad, por sii (sic) mismas o en coordinación con instituciones especializadas públicas o privadas, en términos de la normativa aplicable, en los que podrán participar la sociedad civil coordinadamente con las áreas responsables; y,
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+V. Proveer la debida protección y asistencia en albergues durante su recuperación, rehabilitación y resocialización, así como en los lugares adecuados para garantizar su seguridad, por si mismas o en coordinación con instituciones especializadas públicas o privadas, en términos de la normativa aplicable, en los que podrán participar la sociedad civil coordinadamente con las áreas responsables; y,
 
 VI. Diseñar y aplicar modelos que ofrezcan alternativas dignas y apropiadas para las víctimas, con el propósito de restituirles sus derechos humanos, especialmente mujeres, niñas, niños y adolescentes.
 
@@ -471,47 +565,69 @@ VI. Diseñar y aplicar modelos que ofrezcan alternativas dignas y apropiadas par
 
 Las víctimas, ofendidos y testigos recibirán la asistencia material, médica y psicológica que sea necesaria, por conducto de las autoridades estatales encargadas.
 
-En todo momento la autoridad que corresponda les informarai (sic) y gestionarai (sic) los servicios de salud y sociales y demás asistencia pertinente.
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+En todo momento la autoridad que corresponda les informará y gestionará los servicios de salud y sociales y demás asistencia pertinente.
 
 ###### Artículo 30.
 
 Las víctimas, ofendidos y testigos tendrán derecho a que se les dicten cualquier tipo de medidas cautelares, providencias precautorias y protección personal, que garanticen la vigencia y salvaguarda de sus derechos, las cuales tendrái (sic) vigencia durante la investigación, proceso, sentencia y ejecución de penas, y deberán ser adoptadas por el Ministerio Público y el Poder Judicial.
 
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 31.
 
-El Ministerio Público y el Poder Judicial deberán asegurar que durante las comparecencias y actuaciones de víctimas, ofendidos y testigos sus declaraciones se desarrollen libres de intimidación o temor por su seguridad o la de sus familiares y personas cercanas, por lo que al menos garantizaraí (sic):
+El Ministerio Público y el Poder Judicial deberán asegurar que durante las comparecencias y actuaciones de víctimas, ofendidos y testigos sus declaraciones se desarrollen libres de intimidación o temor por su seguridad o la de sus familiares y personas cercanas, por lo que al menos garantizará:
 
-I. Medios de comunicación electrónicade (sic) distorsión de voz y rasgos;
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+I. Medios remotos de distorsión de voz y rasgos;
 
 II. Comparecencia a través de Cámara de Gesell; y,
 
-III. Resguardo de la identidad y otros datos personales conforme a lo establecido en la legislación.
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+III. Resguardo de la identidad y otros datos personales.
 
 #### SECCIÓN SEGUNDA. PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS
 
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 32.
 
-La asistencia y protección de las víctimas comprenderáí (sic), además, los siguientes rubros:
+La asistencia y protección de las víctimas comprenderá, además, los siguientes rubros:
 
-I. Se garantizaraí (sic), cuando sea necesario, alojamiento adecuado, atención médica de calidad, acceso a la educación, capacitación y oportunidades de empleo, hasta su total recuperación y resocialización. Asimismo, se les ofrecerán modelos de medio camino y opciones dignas y viables para su reincorporación a la sociedad, encaminada a la construcción de autonomía;
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
 
-II. Se garantizaraí (sic) atención física, psicológica y social hasta su total recuperación y rehabilitación. Esta atención deberái (sic) ser proporcionada por las autoridades estatales, que podrán coordinarse con organizaciones no gubernamentales y otros sectores de la sociedad civil para tal fin; y,
+I. Se garantizará, cuando sea necesario, alojamiento adecuado, atención médica de calidad, acceso a la educación, capacitación y oportunidades de empleo, hasta su total recuperación y resocialización. Asimismo, se les ofrecerán modelos de medio camino y opciones dignas y viables para su reincorporación a la sociedad, encaminada a la construcción de autonomía;
 
-III. Las demás que resulten pertinentes para salvaguardar su seguridad física, su libertad, dignidad, integridad física y mental, sus derechos humanos y la reparación del daño, asíí (sic) como el normal desarrollo de su personalidad en el caso de niñas, niños y adolescentes.
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+II. Se garantizará atención física, psicológica y social hasta su total recuperación y rehabilitación. Esta atención deberá ser proporcionada por las autoridades estatales, que podrán coordinarse con organizaciones no gubernamentales y otros sectores de la sociedad civil para tal fin; y,
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+III. Las demás que resulten pertinentes para salvaguardar su seguridad física, su libertad, dignidad, integridad física y mental, sus derechos humanos y la reparación del daño, así como el normal desarrollo de su personalidad en el caso de niñas, niños y adolescentes.
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 33.
 
-Para mejor atención de las necesidades de las víctimas, se proporcionaraí (sic) al personal de policía, justicia, salud y servicios sociales, capacitación que los sensibilice sobre dichas necesidades, asíi (sic) como directrices que garanticen que esta ayuda sea siempre especializada y oportuna.
+Para mejor atención de las necesidades de las víctimas, se proporcionará al personal de policía, justicia, salud y servicios sociales, capacitación que los sensibilice sobre dichas necesidades, así como directrices que garanticen que esta ayuda sea siempre especializada y oportuna.
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 34.
 
-Al proporcionar servicios y asistencia a las víctimas, se prestaraí (sic) atención a las necesidades especiales que resulten por la índole de los daños sufridos o debido a cualquier situación de vulnerabilidad.
+Al proporcionar servicios y asistencia a las víctimas, se prestará atención a las necesidades especiales que resulten por la índole de los daños sufridos o debido a cualquier situación de vulnerabilidad.
 
 ###### Artículo 35.
 
 Al aplicar las disposiciones de esta ley, las autoridades darán la debida consideración a factores humanitarios y personales, especialmente para la reunificación familiar en un entorno seguro.
 
-El Fondo contaraí (sic) con recursos específicos para estos fines.
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+El Fondo contará con recursos específicos para estos fines.
 
 #### SECCIÓN TERCERA. FONDO PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS
 
@@ -609,11 +725,15 @@ El Gobierno del Estado, con sujeción a las disposiciones de sus respectivas ley
 
 Los recursos federales recibidos para ese fin no serán transferibles y deberán aplicarse exclusivamente en la prestación de servicios y demás actividades previstas en esta ley en la propia entidad.
 
-El Gobierno del Estado prestaraí (sic) todas las facilidades y colaboración para que, en su caso, la Auditoría Superior de la Federación verifique la correcta aplicación de dichos recursos.
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+El Gobierno del Estado prestará todas las facilidades y colaboración para que, en su caso, la Auditoría Superior de la Federación verifique la correcta aplicación de dichos recursos.
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 44.
 
-Para dar cumplimiento a lo dispuesto en los artículos anteriores, se tomaraí (sic) en cuenta el carácter prioritario de la prevención de los delitos en materia de trata de personas, así como de la protección y asistencia a las víctimas.
+Para dar cumplimiento a lo dispuesto en los artículos anteriores, se tomará en cuenta el carácter prioritario de la prevención de los delitos en materia de trata de personas, así como de la protección y asistencia a las víctimas, para la seguridad pública.
 
 T R A N S I T O R I O S
 
