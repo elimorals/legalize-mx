@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2016-09-12"
+last_updated: "2017-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2017.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -2475,6 +2475,8 @@ Los titulares de las dependencias ejercerán la competencia correspondiente a su
 
 ### CAPÍTULO II. De las Dependencias de la Administración Pública Municipal
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 304.
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, la Presidencia Municipal cuenta con las dependencias siguientes:
@@ -2507,9 +2509,11 @@ XI.- Secretaría de Desarrollo Integral de la Familia; y
 
 XII.- Secretaría Particular.
 
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2014)</small>
+XIII.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
-XIII.- Secretaría Ejecutiva.
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+
+XIV.- Instituto Municipal de Planeación
 
 ###### Artículo 305.
 
@@ -2534,6 +2538,8 @@ Los Manuales de Organización y Procedimientos, una vez publicados, imponen carg
 ###### Artículo 310.
 
 Los Manuales de Organización y Procedimientos serán elaborados por cada dependencia o en su caso, elaborados por la Secretaría encargada del ámbito administrativo interno municipal, de conformidad a los lineamientos de la dependencia correspondiente y aprobados en todo caso por el titular de la Secretaría respectiva o del organismo descentralizado correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 311.
 
@@ -2611,9 +2617,11 @@ b). Dirección Administrativa,
 
 2). Departamento de Prevención del Delito.
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
 
-V. Secretaría de Obras Públicas, Planeación y Desarrollo Urbano:
+V. Secretaría de Obras Públicas y Desarrollo Urbano:
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
 a). Dirección de Obras Públicas,
 
@@ -2627,15 +2635,15 @@ a). Dirección de Obras Públicas,
 
 5). Departamento de Parque de Maquinaria.
 
-b). Dirección de Planeación y Desarrollo Urbano,
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
-1). Departamento de Planeación y Estadística Urbano Rural
+b). Dirección de Desarrollo Urbano,
 
-2). Departamento de Desarrollo Urbano e Imagen Urbana,
+1). Departamento de Desarrollo Urbano e Imagen Urbana,
 
-3). Departamento de Gestión Ambiental, y
+2). Departamento de Gestión Ambiental, y
 
-4). Departamento Jurídico Administrativo.
+3). Departamento Jurídico Administrativo.
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
 
@@ -2715,9 +2723,19 @@ c). Departamento Jurídico de la Defensa del Menor y la Familia, y
 
 d). Departamento de Coordinación del INAPAM; y
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+XII. (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
-XII. Secretaría Ejecutiva.
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+
+XIII. INSTITUTO MUNICIPAL DE PLANEACIÓN (IMPLAN)
+
+a) Departamento Jurídico.
+
+b) Departamento de Sistema Municipal de Evaluación.
+
+c) Departamento de Sistema Municipal de Planeación Integral.
+
+d) Departamento de Sistema De Información Estratégica Municipal.
 
 ###### Artículo 312.
 
@@ -2845,9 +2863,11 @@ La estructura orgánica, en cuanto a niveles de jerarquía funcional, no implica
 
 #### SECCIÓN PRIMERA. De la Secretaría de Gobernación y del H. Ayuntamiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 326.
 
-Corresponde a la Secretaría del Ayuntamiento:
+Corresponde a la Secretaría de Gobernación y del Ayuntamiento:
 
 I.- Velar por la gobernabilidad del Municipio;
 
@@ -2981,6 +3001,12 @@ XLII.- Administrar las bibliotecas y museos del Municipio a través del Titular 
 
 XLIII.- Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+
+XLIV.- Hacer y entregar informes en temas transversales en colaboración con las dependencias y en correlación con el IMPLAN.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 327.
 
 Corresponde a la Coordinación de Comunicación Social:
@@ -3033,7 +3059,13 @@ XXIII.- Coordinar la realización de los actos cívicos, en los que se conmemore
 
 XXIV.- Las demás que el Presidente Municipal le encomiende.
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+
+XXV.- Hacer y entregar informes en temas transversales en colaboración con las dependencias y en correlación con el IMPLAN.
+
 #### SECCIÓN SEGUNDA. De la Secretaría de Finanzas y Administración
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 328.
 
@@ -3139,25 +3171,31 @@ XXXVIII.- Establecer y coordinar los sistemas y procesos informáticos que habr�
 
 XXXIX.- Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+
+XL.- Hacer y entregar informes en temas transversales en colaboración con las dependencias y en correlación con el IMPLAN.
+
 #### SECCIÓN TERCERA. De la Secretaría de Contraloría Interna
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 329.
 
 Corresponde a la Secretaría de Contraloría Interna:
 
-I.- Instrumentar y actualizar el sistema de control sobre los programas con indicadores que sirvan para medir con criterios objetivos la gestión del gobierno y el impacto de las acciones y políticas de gobierno en los ciudadanos;
+I.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
-II.- Generar información a través de indicadores de gestión que faciliten y hagan más estratégica la toma de decisiones;
+II.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
-III.- Coordinar reuniones de evaluación del rumbo de la gestión en sus tres dimensiones:
+III.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
-a).- Eficiencia, control programático presupuestal;
+a).- (DEROGADO, P.O. 15 DE MAYO DE 2017)
 
-b).- Eficacia, control del logro de objetivos; y
+b).- (DEROGADO, P.O. 15 DE MAYO DE 2017)
 
-c).- Legitimidad, encuestas ciudadanas medición del impacto de las acciones de gobierno en la población;
+c).- (DEROGADO, P.O. 15 DE MAYO DE 2017)
 
-IV.- Operar el programa de atención al público cuyo objetivo es mejorar la calidad en el servicio, y monitorear los niveles de servicio, tiempo de respuesta y la calidad de los diferentes servicios públicos prestados;
+IV.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
 V.- Vigilar el correcto manejo de las finanzas municipales, apegándose a lo establecido en la Ley de Ingresos y a los presupuestos de ingresos y egresos municipales;
 
@@ -3197,7 +3235,13 @@ Poner a la disposición de la ciudadanía los formatos para recabar la informaci
 
 XXI.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+
+XXII.- Entregar la información requerida por el IMPLAN.
+
 #### SECCIÓN CUARTA. De la Secretaría de Seguridad Pública y Vialidad
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 330.
 
@@ -3269,17 +3313,25 @@ XXXII.- Llevar control interno de las incidencias, incapacidades y control del r
 
 XXXIII.- Las demás que le otorguen las leyes, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+
+XXXIV.- Entregar la información requerida por el IMPLAN.
+
 #### SECCIÓN QUINTA. De la Secretaría de Planeación y Desarrollo Municipal
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 331.
 
-Corresponde a la Secretaría de Planeación y Desarrollo Municipal:
+Corresponde a la Dirección de Desarrollo Urbano:
 
-I.- Realizar diagnósticos sobre la problemática pública en el Municipio;
+I.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
-II.- Elaborar el proyecto de Plan Municipal de Desarrollo, así como sus modificaciones o adiciones;
+II.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
-III.- Coordinar la elaboración de los programas de desarrollo urbano de la cabecera y comunidades de Calvillo;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+
+III.- Proponer la elaboración de los programas y esquemas de desarrollo urbano de la cabecera y comunidades de Calvillo; así como los esquemas en materia de desarrollo urbano y reservas territoriales para presentarlos al Ayuntamiento a través del Presidente Municipal;
 
 IV.- Aplicar las normas jurídicas de contenido ecológico y de preservación, cuidado, vigilancia y control del medio ambiente municipales;
 
@@ -3291,17 +3343,17 @@ VII.- Organizar los Programas Operativos Anuales;
 
 VIII.- Preparar los proyectos derivados de los Programas Operativos Anuales;
 
-IX.- Instrumentar los procesos de consulta ciudadana para la preparación de planes y programas municipales;
+IX.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
-X.- Realizar diagnósticos municipales;
+X.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
 XI.- Promover la creación de reservas territoriales en el Municipio;
 
-XII.- Recopilar y mantener actualizada la información estadística necesaria para la planeación municipal;
+XII.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
-XIII.- Relacionar la Administración Pública Municipal con los ciudadanos, a fin de que estos participen del proceso de planeación democrática del desarrollo;
+XIII.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
-XIV - Construir y operar las bases de datos estadísticos municipales;
+XIV.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
 XV.- Proponer la nomenclatura de calles, parques y demás espacios públicos, así como la numeración oficial de los predios y expedir las constancias relativas;
 
@@ -3343,9 +3395,11 @@ XXXIII.- Lo demás que señalen la Ley, el presente Código o le encomiende el H
 
 #### SECCIÓN SEXTA. De la Secretaría de Obras Públicas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 332.
 
-Corresponde a la Secretaría de Obras Públicas:
+Corresponde a la Secretaría de Obras Públicas y Desarrollo Urbano:
 
 I.- Ejecutar el Programa Municipal de Obra Pública, de acuerdo a los lineamientos, directrices y prioridades que le señale el Presidente Municipal;
 
@@ -3361,7 +3415,13 @@ VI.- Expedir las convocatorias y bases a que deben ajustarse los concursos de ob
 
 VII.- Las demás que señale la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+
+VIII.- Entregar la información requerida por el IMPLAN
+
 #### SECCIÓN SÉPTIMA. De la Secretaría de Servicios Públicos
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 333.
 
@@ -3479,7 +3539,13 @@ XXXIII (SIC).- Realizar el mantenimiento preventivo y correctivo en los cementer
 
 XXXIX.- Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+
+XL.- Entregar la información requerida por el IMPLAN
+
 #### SECCIÓN OCTAVA. De la Secretaría de Desarrollo Social
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 334.
 
@@ -3511,45 +3577,81 @@ XII.- Promover y difundir las actividades artesanales, maquilas de mano de obra,
 
 XIII.- Lo demás que señalen las leyes, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+
+XIV.- Entregar la información requerida por el IMPLAN
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE ENERO DE 2015)</small>
 
 #### SECCIÓN NOVENA
 
 De la Secretaría (sic) Desarrollo Económico, Turismo y Rural.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 335.
 
 Corresponde a la Secretaría de Desarrollo Económico, Turismo y Rural:
 
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
+
 I. Procurar el mejoramiento de las condiciones de vida de la población del municipio, a través del impulso al desarrollo económico, promoviendo la inversión pública y privada en los sectores económicos, primarios, de transformación y servicios,
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
 
 II. Coordinar la operación de la Unidad Regional del Servicio Nacional del Empleo y coadyuvar al cumplimiento de sus programas y metas:
 
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
+
 III. Ejecutar y/o coadyuvar al cumplimiento de las políticas y programas relativos al fomento e impulso de las actividades económicas como la industria, el comercio, los servicios, el turismo y las actividades agropecuarias;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
 
 IV. Ejecutar y/o coadyuvar al cumplimiento de las políticas y programas relativos a la conservación de los recursos naturales y las áreas naturales protegidas, así como todos los que apliquen a estas zonas y mejoren las condiciones de vida de su población;
 
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
+
 V. Ejecutar y/o coadyuvar al cumplimiento de las políticas y programas relativos al desarrollo de capacidades en la población en general así como para el desarrollo de los distintos sectores productivos del municipio;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
 
 VI. Desarrollar y coordinar acciones para la promoción de Calvillo como atractivo turístico, mantener y mejorar la afluencia de visitantes a través de la búsqueda de alianzas con operadores turísticos;
 
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
+
 VII. Coadyuvar con las actividades del Comité Calvillo Pueblo Mágico para dar cumplimiento a los lineamientos del Programa Pueblos Mágicos.
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
 
 VIII. Fomentar la conservación y el desarrollo de las actividades artesanales del municipio reconociendo este conocimiento como un patrimonio de todos los Calvillenses;
 
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
+
 IX. Programar y organizar las sesiones del Consejo Municipal para el Desarrollo Rural Sustentable, así como dar seguimiento a los acuerdos;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
 
 X. Establecer vínculos de cooperación con las dependencias afines a la Secretaría en el ámbito federal y estatal a fin de establecer mecanismos de cooperación y estrategias para cumplir con los objetivos establecidos en (sic) Plan Municipal de Desarrollo;
 
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
+
 XI. Establecer vínculos de cooperación con las organizaciones y asociaciones de productores de cada uno de los sectores a los que atiende la Secretaría, a fin de coadyuvar al cumplimiento de sus metas y objetivos;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
 
 XII. Ejecutar esquemas de apoyo para las micro, pequeñas y medianas empresas derivadas de las políticas públicas establecidas en los Planes Estatal y Nacional de Desarrollo;
 
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
+
 XIII. Facilitar la apertura de nuevas empresas a través de la implementación de la Ventanilla Única de Atención Empresarial; y
 
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
+
 XIV. Las demás que este Reglamento y otras disposiciones legales determinen.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+
+XV. Entregar la información requerida por el IMPLAN
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE ENERO DE 2015)</small>
 
@@ -3560,6 +3662,8 @@ XIV. Las demás que este Reglamento y otras disposiciones legales determinen.
 (DEROGADO, P.O. 19 DE ENERO DE 2015)
 
 #### SECCIÓN DÉCIMA PRIMERA. De la Secretaría de Desarrollo Integral de la Familia
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 337.
 
@@ -3607,7 +3711,13 @@ XX.- Procurar y promover la coordinación con otras instituciones afines, cuyo o
 
 XXI.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+
+XXII.- Entregar la información requerida por el IMPLAN
+
 #### SECCIÓN DÉCIMA SEGUNDA. De la Secretaría Particular
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 338.
 
@@ -3635,23 +3745,15 @@ X.- Apoyar al Presidente Municipal en el desarrollo de sus funciones; y
 
 XI.- Las demás que el Presidente Municipal le encomiende.
 
-###### Artículo 339.
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
 
-Corresponde al Secretario(a) Particular:
+XII.- Entregar la información requerida por el IMPLAN
 
-I.- Manejar las actividades de la oficina del Presidente Municipal;
+###### ARTÍCULO 339.
 
-II.- Llevar la agenda del Presidente Municipal;
+(DEROGADO, P.O. 15 DE MAYO DE 2017)
 
-III.- Recibir a los ciudadanos y demás personas que soliciten entrevista directa con el Presidente Municipal;
-
-IV.- Turnar y dar seguimiento a los documentos que el Presidente Municipal remita a las dependencias de la administración;
-
-V.- Programar y supervisar las giras del Presidente Municipal;
-
-VI.- Atender las necesidades operativas de la oficina del Presidente;
-
-VII.- Las demás que el Presidente Municipal le encomiende.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 340.
 
@@ -3679,35 +3781,59 @@ X.- Observar las normas que la Coordinación de Comunicación Social y Relacione
 
 XI.- Las demás que el Presidente Municipal le encomiende.
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+
+XII.- Entregar la información requerida por el IMPLAN
+
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE ABRIL DE 2014)</small>
 
 #### SECCIÓN PRIMERA (SIC). De la Secretaría Ejecutiva
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
-
 ###### Artículo 340 Bis.
 
-Corresponde a la Secretaría Ejecutiva:
+(DEROGADO, P.O. 15 DE MAYO DE 2017)
 
-I. Fungir como enlace, bajo la supervisión del Presidente Municipal, para asegurar una adecuada vinculación de las dependencias y organismos de la Administración Pública Municipal con los diferentes niveles y poderes de gobierno, así como con las diversas instituciones y organizaciones de la sociedad en general;
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2017)</small>
 
-II. Establecer los mecanismos necesarios para el seguimiento y cumplimiento de los acuerdos entre el Presidente Municipal y los Titulares de las Dependencias y Organismos de la Administración Pública Municipal;
+###### Artículo 340 Ter.
 
-III. Coordinar la organización de los trabajos de las Dependencias y Organismos de la Administración Pública Municipal en Gabinetes Temáticos para garantizar la eficacia de la Administración Pública Municipal;
+Corresponde al Instituto Municipal de Planeación de Calvillo lo siguiente:
 
-IV. Dar seguimiento y evaluar periódicamente los planes, programas y proyectos para el cumplimiento de las metas establecidas en el Plan de Desarrollo Municipal;
+I.- Realizar diagnósticos participativos sobre la problemática pública en el Municipio;
 
-V. Coordinar las acciones con las Dependencias y Organismos de la Administración Pública Municipal en las actividades relacionadas con el diseño y la gestión de los proyectos estratégicos derivados del Plan de Desarrollo Municipal;
+II.- Coordinar las actividades necesarias para la elaboración del Plan Municipal de Desarrollo, así como sus modificaciones o adiciones;
 
-VI. Coordinar los servicios de asesoría y consultaría al Presidente Municipal;
+III.- Proveer la información necesaria a la Secretaría de Obras Públicas y Desarrollo Urbano para elaborar el Programa anual y trianual de Obra Pública, de acuerdo a los lineamientos, directrices y prioridades que señale el Plan Municipal de Desarrollo;
 
-VII. Realizar análisis, estudios y encuestas en materia de opinión pública y documentar los resultados y datos estadísticos, así como coordinar la elaboración de otro tipo de estudios pertinentes para la innovación y mejora de la gestión pública y el desempeño gubernamentales;
+IV.- Proponer esquemas de desarrollo urbano y sustentable del Municipio y presentarlos al H. Ayuntamiento a través del Presidente Municipal;
 
-VIII. Coordinar las acciones con los Titulares de las Dependencias y Organismos de la Administración Pública Municipal para integrar y elaborar los documentos relacionados con los Informes de Gobierno;
+V.- Proveer la información de áreas de crecimiento poblacional a la Dirección de Desarrollo Urbano;
 
-IX. Llevar a cabo la coordinación con la Secretaría Particular del Presidente Municipal para el diseño, seguimiento y evaluación de la agenda, así como para establecer las bases para la integración y contenido de las giras del Presidente Municipal; y
+VI.- Coordinar en conjunto con los enlaces de las Dependencias y Organismos de la Administración Pública Municipal la creación de los programas presupuestarios atendiendo las líneas de acción del Plan Municipal de Desarrollo;
 
-X. Llevar a cabo la coordinación con el área de Comunicación Social para la definición, seguimiento y evaluación de las políticas de difusión institucional.
+VII.- Coordinar las acciones con las Dependencias y Organismos de la Administración Pública Municipal en las actividades relacionadas con el diseño y la gestión de los proyectos estratégicos complementarios del Plan Municipal de Desarrollo;
+
+VIII.- Instrumentar los procesos de consulta ciudadana para la preparación de planes y programas municipales;
+
+IX.- Recopilar, mantener actualizada y difundir la información estadística y geográfica necesaria para la planeacíón municipal;
+
+X.- Participar en el Consejo de Desarrollo Municipal, además de las instancias de planeación a nivel federal, estatal y municipal;
+
+XI.- Dar seguimiento y evaluar periódicamente los planes, programas y proyectos para el cumplimiento de las metas establecidas en el Plan Municipal de Desarrollo;
+
+XII.- Coordinar la organización de los trabajos de las Dependencias y Organismos de la Administración Pública Municipal en mesas temáticas para garantizar la eficacia de la Administración Pública Municipal, a través de los ejes del Plan Municipal de Desarrollo y sus indicadores.
+
+XIII.- Atender solicitudes oficiales y emitir las opiniones para las dependencias y organismos de la Administración Pública Municipal; en el ámbito de su competencia;
+
+XIV.- Asesorar al H. Ayuntamiento y a la Administración Pública Municipal en las acciones que integran el proceso de planeación estratégica integral para el desarrollo sustentable a mediano y largo plazo;
+
+XV.- Coordinar, operar y mantener actualizados los sistemas municipales de Planeación Participativa, Programación, Información Geográfica y Estadística, y Gestión Basada en Resultados;
+
+XVI.- Proveer de información estadística y geográfica a la Dirección de Desarrollo Urbano para que elabore sus programas de crecimiento Urbano, Rural y Sustentables del Municipio;
+
+XVII.- Requerir la información necesaria en temas transversales en colaboración con las dependencias municipales, y
+
+XVIII.- Todas aquellas atribuciones que las leyes, reglamentos y el H. Ayuntamiento le confieran.
 
 ## TÍTULO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL Y DESCONCENTRADA
 
@@ -11825,13 +11951,17 @@ XI.- La definición de esquemas de desarrollo urbano y manifestaciones de impact
 
 El Programa Municipal de Desarrollo Urbano, será elaborado, aprobado, ejecutado, controlado y evaluado por el Ayuntamiento, a través de la coordinación que para el efecto establezcan los presidentes municipales con el gobierno del Estado, atendiendo la opinión de la Comisión Estatal, del Comité de Desarrollo Urbano y Rural.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1209.
 
-A fin de ordenar y regular áreas o zonas comprendidas dentro de los centros de población, la Secretaria de Planeación Municipal podrá derivar Programas Parciales de Desarrollo Urbano.
+A fin de ordenar y regular áreas o zonas comprendidas dentro de los centros de población, el Instituto Municipal de Planeación podrá derivar Programas Parciales de Desarrollo Urbano.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1210.
 
-Para regular los sistemas y servicios públicos, prevención de riesgos por derecho de vía y naturales la Secretaría de Planeación Municipal impulsará Programas Sectoriales de Desarrollo Urbano.
+Para regular los sistemas y servicios públicos, prevención de riesgos por derecho de vía y naturales la Secretaría de Obras Públicas y Desarrollo Urbano impulsará Programas Sectoriales de Desarrollo Urbano.
 
 ###### Artículo 1211.
 
@@ -11839,15 +11969,23 @@ En la aprobación y/o modificación de los programas municipales de Desarrollo U
 
 I.- El Ayuntamiento dará aviso público del inicio del proceso de planeación y formulará el proyecto de Programa de Desarrollo Urbano o sus modificaciones, difundiéndolo ampliamente;
 
-II.- Se organizarán audiencias públicas para que los interesados presenten por escrito a la Secretaria de Planeación Municipal, los planteamientos, observaciones y sugerencias que consideren respecto del proyecto de programa de desarrollo urbano;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
 
-III.- Las respuestas a los planteamientos improcedentes y las modificaciones del proyecto deberán fundarse y motivarse y estarán para consulta de los interesados en las oficinas que ocupan la Secretaría de Planeación Municipal, durante 10 días naturales previos a la aprobación de los Programas de Desarrollo Urbano;
+II.- Se organizarán audiencias públicas para que los interesados presenten por escrito a la Secretaría de Obras Públicas y Desarrollo Urbano, los planteamientos, observaciones y sugerencias que consideren respecto del proyecto de programa de desarrollo urbano;
 
-IV.- Concluida la consulta el H. Ayuntamiento a través de la Secretaría de Planeación del Municipio, remitirá al Comité de Planeación para el Desarrollo Municipal COPLADEM, para que emita su opinión dentro de los 20 días hábiles contados a partir de su recepción; en caso de no recibir ninguna opinión en el término establecido se considerará que no tiene inconveniente para su aprobación;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+
+III.- Las respuestas a los planteamientos improcedentes y las modificaciones del proyecto deberán fundarse y motivarse y estarán para consulta de los interesados en las oficinas que ocupa la Secretaría de Obras Públicas y Desarrollo Urbano, durante 10 días naturales previos a la aprobación de los Programas de Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+
+IV.- Concluida la consulta el H. Ayuntamiento a través de la Secretaría de Obras Públicas y Desarrollo Urbano, remitirá al Comité de Planeación para el Desarrollo Municipal COPLADEM, para que emita su opinión dentro de los 20 días hábiles contados a partir de su recepción; en caso de no recibir ninguna opinión en el término establecido se considerará que no tiene inconveniente para su aprobación;
 
 V.- Cumplidas las formalidades para su aprobación, los programas respectivos o sus modificaciones serán publicadas en el Periódico Oficial del Estado y en un periódico de mayor circulación; y
 
-VI.- Los diversos programas una vez aprobados, se inscribirán en la sección correspondiente del Registro Público de la Propiedad y en la SEPLADE, así como en la Secretaría de Planeación y Desarrollo Municipal.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+
+VI.- Los diversos programas una vez aprobados, se inscribirán en la sección correspondiente del Registro Público de la Propiedad y en la Coordinación Estatal de Planeación, Secretaría de Obras Públicas y Desarrollo Urbano y en el Instituto Municipal de Planeación
 
 ###### Artículo 1212.
 
@@ -11919,9 +12057,11 @@ V.- La definición de la infraestructura de las zonas de crecimiento y las modif
 
 ### CAPÍTULO IV. De la Zonificación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1220.
 
-El Municipio a través de la Secretaría de Planeación Municipal, aprobará la zonificación de los diferentes Programas de Desarrollo Urbano en la que se definirán:
+El Municipio a través de la Secretaría de Obras Públicas y Desarrollo Urbano, aprobará la zonificación de los diferentes Programas de Desarrollo Urbano en la que se definirán:
 
 I.- Las áreas que integran y delimitan el centro de población;
 
@@ -12007,13 +12147,17 @@ VII.- Las demás normas que de acuerdo con este Código sean procedentes.
 
 Todas las obras, acciones, servicios e inversiones en materia de desarrollo urbano y vivienda, que se realicen en el Municipio, sean públicas o privadas, deberán sujetarse a lo dispuesto en este Código y a los programas aplicables. Sin este requisito, no se otorgará permiso, autorización, licencia o concesión para efectuarlas.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1226.
 
-La persona física o moral, pública o privada, que pretenda realizar obras, acciones, servicios o inversiones en materia de desarrollo urbano y vivienda en el Municipio, deberá obtener, previa a la ejecución de las mismas, constancia de compatibilidad urbanística que le expida la Secretaría de Planeación y Desarrollo Municipal.
+La persona física o moral, pública o privada, que pretenda realizar obras, acciones, servicios o inversiones en materia de desarrollo urbano y vivienda en el Municipio, deberá obtener, previa a la ejecución de las mismas, constancia de compatibilidad urbanística que le expida la Secretaría de Obras Públicas y Desarrollo Urbano.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1227.
 
-Para dar un uso o destino distinto al que se le ha venido dando a un área, predio o construcción, los propietarios o poseedores deberán tramitar y obtener la constancia de compatibilidad urbanística correspondiente expedida por la Secretaría de Planeación y Desarrollo Municipal. La presentación de la constancia será necesaria para iniciar el trámite de las licencias de construcción y de las licencias para la apertura y funcionamiento de giros comerciales, industriales y de servicios.
+Para dar un uso o destino distinto al que se le ha venido dando a un área, predio o construcción, los propietarios o poseedores deberán tramitar y obtener la constancia de compatibilidad urbanística correspondiente expedida por la Secretaría de Obras Públicas y Desarrollo Urbano. La presentación de la constancia será necesaria para iniciar el trámite de las licencias de construcción y de las licencias para la apertura y funcionamiento de giros comerciales, industriales y de servicios.
 
 ###### Artículo 1228.
 
@@ -12073,19 +12217,25 @@ Para efectos de este Código, vía pública es todo espacio de uso común que po
 
 Todo inmueble consignado como vía pública en algún plano o registro oficial existente en cualquiera de las unidades administrativas del gobierno del Estado o del Municipio, en el Archivo Histórico del Estado, o en otro archivo, museo, biblioteca o dependencia oficial, se presumirá salvo prueba en contrario, que es vía pública y pertenece al propio Municipio. Esta disposición será aplicable a todos los demás bienes de uso común o destinado a un servicio público.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1233.
 
-Los predios o inmuebles que en el plano oficial de una fusión, subdivisión o fraccionamiento aprobados aparezcan destinados a vías públicas, al uso común o a algún servicio público se considerarán, por ese solo hecho, como bienes del dominio público del Municipio, para cuyo efecto, la Secretaría de Planeación y Desarrollo Municipal, emitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano, al Registro Público de la Propiedad y a la Dirección General de Catastro, para que se realicen los registros y las cancelaciones respectivas.
+Los predios o inmuebles que en el plano oficial de una fusión, subdivisión o fraccionamiento aprobados aparezcan destinados a vías públicas, al uso común o a algún servicio público se considerarán, por ese solo hecho, como bienes del dominio público del Municipio, para cuyo efecto, la Secretaría de Obras Públicas y Desarrollo Urbano, emitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano, al Registro Público de la Propiedad y a la Dirección General de Catastro, para que se realicen los registros y las cancelaciones respectivas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1234.
 
-Se requiere permiso o autorización expresa de la Secretaría de Planeación y Desarrollo Municipal para:
+Se requiere permiso o autorización expresa de la Secretaría de Obras Públicas y Desarrollo Urbano para:
 
 I.- Realizar obras, modificaciones o reparaciones en la vía pública;
 
 II.- Ocupar la vía pública con instalaciones de servicio público, comercios semifijos, construcciones provisionales o mobiliario urbano;
 
-III.- Ocupar la vía pública con escombros o materiales de construcción en los horarios y condiciones que establezca la Secretaría de Planeación y Desarrollo Municipal;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+
+III.- Ocupar la vía pública con escombros o materiales de construcción en los horarios y condiciones que establezca la propia Secretaría;
 
 IV.- Romper el pavimento o hacer cortes en las banquetas y guarniciones de la vía pública para la ejecución de obras públicas o privadas; y
 
@@ -12113,55 +12263,71 @@ V.- Para construir comercios semifijos en vías públicas; y
 
 VI.- Para aquellos otros fines que el Ayuntamiento considere contrarios al interés público.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1237.
 
-Toda persona que ocupe sin autorización la vía pública con construcciones e instalaciones superficiales aéreas o subterráneas, está obligada a retirarlas o demolerlas en el plazo que la Secretaría de Planeación y Desarrollo Municipal señale. Si este plazo fuese sobrexcedido, la misma Secretaría de Planeación y Desarrollo Municipal con la colaboración de la Secretaría de Obras Públicas, realizará los trabajos con cargo al propietario, independientemente de las sanciones que conforme al Libro Séptimo del presente Código, sean aplicables.
+Toda persona que ocupe sin autorización la vía pública con construcciones e instalaciones superficiales aéreas o subterráneas, está obligada a retirarlas o demolerlas en el plazo que la Secretaría de Obras Públicas y Desarrollo Urbano señale. Si este plazo fuese sobrexcedido, la misma Secretaría de Obras Públicas y Desarrollo Urbano, realizará los trabajos con cargo al propietario, independientemente de las sanciones que conforme al Libro Séptimo del presente Código, sean aplicables.
 
 ###### Artículo 1238.
 
 Las instalaciones subterráneas para los servicios públicos de teléfonos, alumbrado, semáforos, energía eléctrica, gas y cualesquiera otras, deberán localizarse a lo largo de aceras y camellones.
 
-Cuando se localicen en las aceras, deberán distar por lo menos cincuenta centímetros del alineamiento oficial. La Secretaría de Planeación y Desarrollo Municipal, podrá autorizar la construcción de instalaciones subterráneas fuera de las zonas descritas en el párrafo anterior, cuando la naturaleza de las obras así lo requieran, respetando y observando la normatividad en la materia determinada para la instalación que corresponda.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
+Cuando se localicen en las aceras, deberán distar por lo menos cincuenta centímetros del alineamiento oficial. La Secretaría de Obras Públicas y Desarrollo Urbano, podrá autorizar la construcción de instalaciones subterráneas fuera de las zonas descritas en el párrafo anterior, cuando la naturaleza de las obras así lo requieran, respetando y observando la normatividad en la materia determinada para la instalación que corresponda.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1239.
 
-La Secretaría de Planeación y Desarrollo Municipal, en coordinación con la Secretaría de Obras Públicas, fijarán en cada caso, la profundidad mínima y máxima a la que deberá alojarse cada instalación y su localización en relación con las demás instalaciones.
+La Secretaría Obras Públicas y Desarrollo Urbano, fijarán en cada caso, la profundidad mínima y máxima a la que deberá alojarse cada instalación y su localización en relación con las demás instalaciones.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1240.
 
-Cuando se requiera introducir instalaciones subterráneas bajo un pavimento o se interfiera alguna vialidad, la Secretaría de Planeación y Desarrollo Municipal y la Secretaría de Obras Públicas, determinarán la forma en que se lleven a cabo los trabajos.
+Cuando se requiera introducir instalaciones subterráneas bajo un pavimento o se interfiera alguna vialidad, la Secretaría de Obras Públicas y Desarrollo Urbano, determinarán la forma en que se lleven a cabo los trabajos.
 
 ###### Artículo 1241.
 
 Las instalaciones aéreas en la vía pública deberán estar sostenidas sobre postes colocados para ese efecto, colocándose dentro de la acera a una distancia mínima de veinticinco centímetros entre el borde de la guarnición y el punto más próximo del poste.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1242.
 
-En las vías públicas en que no existen aceras, los interesados solicitarán a la Secretaría de Planeación y Desarrollo Municipal, así como a la Secretaría de Obras Públicas, el trazo de la guarnición.
+En las vías públicas en que no existen aceras, los interesados solicitarán a la Secretaría de Obras Públicas y Desarrollo Urbano, el trazo de la guarnición.
 
 ###### Artículo 1243.
 
 Las ménsulas, las alcayatas así como cualquier otro apoyo que se use, para ascenso a los postes o a las instalaciones, deberán colocarse a no menos de dos metros cincuenta centímetros de altura sobre el nivel de la acera. Igual tratamiento se dará a cualquier obstáculo en vía pública.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1244.
 
-Los postes y las instalaciones deberán ser identificados por sus propietarios con una señal que apruebe la Secretaría de Planeación y Desarrollo Municipal.
+Los postes y las instalaciones deberán ser identificados por sus propietarios con una señal que apruebe la Secretaría de Obras Públicas y Desarrollo Urbano.
 
 ###### Artículo 1245.
 
 Los propietarios de postes o instalaciones colocados en la vía pública, están obligados a conservarlos en buenas condiciones de servicio y a retirarlos cuando dejen de cumplir su función.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1246.
 
-La Secretaría de Planeación y Desarrollo Municipal, podrá ordenar el retiro o el cambio de lugar de postes o instalaciones por cuenta de sus propietarios, por razones de seguridad o porque se modifique la anchura de las aceras o se ejecute cualquier obra en la vía pública que lo requiera. Si no lo hiciera dentro del plazo que se les haya fijado, la propia Secretaría de Planeación y Desarrollo Municipal, en colaboración con la Secretaría de Obras Públicas, lo ejecutarán con cargo a los propietarios.
+La Secretaría de Obras Públicas y Desarrollo Urbano, podrá ordenar el retiro o el cambio de lugar de postes o instalaciones por cuenta de sus propietarios, por razones de seguridad o porque se modifique la anchura de las aceras o se ejecute cualquier obra en la vía pública que lo requiera. Si no lo hiciera dentro del plazo que se les haya fijado, la propia Secretaría, lo ejecutarán (sic) con cargo a los propietarios.
 
 ###### Artículo 1247.
 
 No se autorizará la instalación de postes y líneas de conducción en banquetas cuando con éstas se obstruya e impida la entrada a un predio; si el acceso al predio se construye contando con los postes y líneas de conducción, estos se podrán cambiar por los propietarios de los mismos con cargo al propietario del predio.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1248.
 
-La Secretaría de Planeación y Desarrollo Municipal, determinará las zonas de protección a lo largo de líneas de conducción y servicios subterráneos tales como viaductos, pasos a desnivel e instalaciones similares, dentro de los cuales solamente podrán realizarse excavaciones, cimentaciones, demoliciones, y otras obras previa autorización especial de la propia Secretaría, la que señalará las obras de protección que sean necesarias realizar o ejecutar para salvaguardar los servicios e instalaciones antes mencionados. La reparación de los daños que se ocasionen en esas zonas, correrán a cargo de la persona física o moral a quien se le otorgue la autorización.
+La Secretaría de Obras Públicas y Desarrollo Urbano, determinará las zonas de protección a lo largo de líneas de conducción y servicios subterráneos tales como viaductos, pasos a desnivel e instalaciones similares, dentro de los cuales solamente podrán realizarse excavaciones, cimentaciones, demoliciones, y otras obras previa autorización especial de la propia Secretaría, la que señalará las obras de protección que sean necesarias realizar o ejecutar para salvaguardar los servicios e instalaciones antes mencionados. La reparación de los daños que se ocasionen en esas zonas, correrán a cargo de la persona física o moral a quien se le otorgue la autorización.
 
 ### CAPÍTULO VII. De la Nomenclatura y Números Oficiales
 
@@ -12201,13 +12367,17 @@ I.- En intersección de dos vialidades, un mínimo de cuatro placas; y
 
 II.- En intersecciones mayores a dos vialidades, una placa por cada calle antes y después de la intersección.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1254.
 
-Los promotores inmobiliarios y fraccionadores, deberán presentar ante la Secretaría de Planeación y Desarrollo Municipal, la propuesta de nomenclatura a vialidades, parques, jardines, plazas y/o monumentos históricos, así como de cualquier otro lugar público factible de denominación dentro de tres días hábiles siguientes a la solicitud de autorización presentada ante la SEPLADE.
+Los promotores inmobiliarios y fraccionadores, deberán presentar ante la Secretaría de Obras Públicas y Desarrollo Urbano, la propuesta de nomenclatura a vialidades, parques, jardines, plazas y/o monumentos históricos, así como de cualquier otro lugar público factible de denominación dentro de tres días hábiles siguientes a la solicitud de autorización presentada ante la SEPLADE.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1255.
 
-La Secretaría de Planeación y Desarrollo Municipal, tomará en cuenta la propuesta del promotor inmobiliario o fraccionador al momento de determinar sobre la nomenclatura, con el fin de someter al Cabildo la propuesta de dictamen de nomenclatura, debiéndose apegar a lo siguiente:
+La Secretaría de Obras Públicas y Desarrollo Urbano, tomará en cuenta la propuesta del promotor inmobiliario o fraccionador al momento de determinar sobre la nomenclatura, con el fin de someter al Cabildo la propuesta de dictamen de nomenclatura, debiéndose apegar a lo siguiente:
 
 I.- Análisis de la propuesta de los promotores inmobiliarios y fraccionadores, expresando las razones que se tomaron en cuenta para estimar o desestimar dicha opinión;
 
@@ -12241,7 +12411,9 @@ III.- Los nombres propuestos no deberán contravenir a la moral y las buenas cos
 
 Toda solicitud de nomenclatura deberán apegarse al procedimiento siguiente:
 
-I.- Presentada la solicitud por escrito a la Secretaría de Planeación y Desarrollo Municipal, quien emitirá dictamen positivo o negativo en base a lo establecido en este Código y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+
+I.- Presentada la solicitud por escrito a la Secretaría de Obras Públicas y Desarrollo Urbano quien emitirá dictamen positivo o negativo en base a lo establecido en este Código y demás disposiciones jurídicas aplicables;
 
 II.- Cuando se dictamine improcedente la solicitud deberá notificarse personalmente al promovente;
 
@@ -12259,7 +12431,9 @@ Todo cambio o asignación de nomenclatura y números oficiales deberá ser notif
 
 El trámite e instalación de números oficiales deberá apegarse a lo siguiente:
 
-I.- Tramitar el número oficial en la ventanilla única de la Secretaría de Planeación y Desarrollo Municipal, instancia autorizada para la autorización del número oficial;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+
+I.- Tramitar el número oficial en la ventanilla única de la Secretaría de Obras Públicas y Desarrollo Urbano instancia autorizada para la autorización del número oficial;
 
 II.- La instalación en inmuebles construidos deberán colocarse en el exterior, al frente de la construcción junto al acceso principal;
 
@@ -12295,9 +12469,11 @@ II.- Cuando se trate de propietarios de predios individuales: Copia certificada 
 
 III.- Cuando el promotor inmobiliario o fraccionador tramite los números oficiales de forma previa a las construcciones, para que el adquirente de los inmuebles reciba las placas correspondientes de los números, deberá presentar el documento en original de la boleta de asignación del número que le entregará el promovente o fraccionador.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1262.
 
-La Secretaría de Planeación y Desarrollo Municipal, autorizará números oficiales al solicitante, cuando el fraccionador o promotor inmobiliario haya cumplido con los requisitos del dictamen de autorización de la Comisión Estatal de Desarrollo Urbano o la Secretaría de Planeación Estatal, en el ámbito de su competencia y de la legislación urbana aplicable
+La Secretaría de Obras Públicas y Desarrollo Urbano, autorizará números oficiales al solicitante, cuando el fraccionador o promotor inmobiliario haya cumplido con los requisitos del dictamen de autorización de la Comisión Estatal de Desarrollo Urbano o la Secretaría facultada, en el ámbito de su competencia y de la legislación urbana aplicable
 
 ###### Artículo 1263.
 
@@ -12321,27 +12497,35 @@ III.- Constancia de alineamiento y compatibilidad urbanística; y
 
 IV.- Cuando se trate de subdivisiones o fusiones deberá acompañar el documento que acredite la autorización de las mismas según corresponda.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1265.
 
-Son causas de ratificación de número oficial: Cuando se requiera para comprobar la inexistencia de error en el número oficial y nomenclatura, incluyendo la certificación de cambio del nombre provisional de una vía pública, para poder expedirse este documento se deberá presentar solicitud por escrito ante la Secretaría de Planeación y Desarrollo Municipal, señalando los hechos y motivos que lo apoyan y comprobante que acredite la propiedad del interesado.
+Son causas de ratificación de número oficial: Cuando se requiera para comprobar la inexistencia de error en el número oficial y nomenclatura, incluyendo la certificación de cambio del nombre provisional de una vía pública, para poder expedirse este documento se deberá presentar solicitud por escrito ante la Secretaría de Obras Públicas y Desarrollo Urbano, señalando los hechos y motivos que lo apoyan y comprobante que acredite la propiedad del interesado.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1266.
 
-Una vez satisfechos los requisitos que establece el presente Capítulo, la Secretaría de Planeación y Desarrollo Municipal, procederá a expedir un documento en el que se incluirá el número oficial y las placas correspondientes, debiendo presentar el original de la boleta y en su caso la constancia de compatibilidad urbanística y la licencia de construcción.
+Una vez satisfechos los requisitos que establece el presente Capítulo, la Secretaría de Obras Públicas y Desarrollo Urbano, procederá a expedir un documento en el que se incluirá el número oficial y las placas correspondientes, debiendo presentar el original de la boleta y en su caso la constancia de compatibilidad urbanística y la licencia de construcción.
 
 ## TÍTULO SEGUNDO. DE LAS CONSTRUCCIONES
 
 ### CAPÍTULO I. De la Licencia de Construcción
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1267.
 
-Toda obra de construcción, edificación, instalación, reparación, ampliación, remodelación, reconstrucción o demolición de fincas rústicas o urbanas requerirá licencia expresa, otorgada por la Secretaría de Planeación y Desarrollo Municipal, con anterioridad al inicio de la obra.
+Toda obra de construcción, edificación, instalación, reparación, ampliación, remodelación, reconstrucción o demolición de fincas rústicas o urbanas requerirá licencia expresa, otorgada por la Secretaría de Obras Públicas y Desarrollo Urbano, con anterioridad al inicio de la obra.
 
 Dicha licencia deberá obtenerse en todo tipo de obras públicas o privadas, independientemente del régimen de propiedad o ubicación de los predios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1268.
 
-Son facultades de la Secretaría de Planeación y Desarrollo Municipal en materia de construcciones, las siguientes:
+Son facultades de la Secretaría de Obras Públicas y Desarrollo Urbano en materia de construcciones, las siguientes:
 
 I.- Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y uso de la vía pública;
 
@@ -12369,13 +12553,17 @@ XII.- Expedir normas técnicas complementarias para el debido cumplimiento del p
 
 XIII.- Asignar peritajes por servicio social a los peritos responsables de obra y especializados, en los casos que prevé este Código.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1269.
 
-Licencia de construcción es el documento expedido por la Secretaría de Planeación y Desarrollo Municipal, por el cual se autoriza a los propietarios para construir o demoler una edificación y/o instalación en sus predios.
+Licencia de construcción es el documento expedido por la Secretaría de Obras Públicas y Desarrollo Urbano, por el cual se autoriza a los propietarios para construir o demoler una edificación y/o instalación en sus predios.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1270.
 
-Las solicitudes de licencia de construcción deberán recibir resoluciones de expedición o rechazo expedidas por la Secretaría de Planeación y Desarrollo Municipal, en un lapso no mayor a 10 días hábiles. La revisión de los expedientes y planos respectivos se hará de acuerdo a los requisitos y especificaciones contenidas en el presente Código y demás ordenamientos legales vigentes aplicables.
+Las solicitudes de licencia de construcción deberán recibir resoluciones de expedición o rechazo expedidas por la Secretaría de Obras Públicas y Desarrollo Urbano, en un lapso no mayor a 10 días hábiles. La revisión de los expedientes y planos respectivos se hará de acuerdo a los requisitos y especificaciones contenidas en el presente Código y demás ordenamientos legales vigentes aplicables.
 
 ###### Artículo 1271.
 
@@ -12399,7 +12587,9 @@ VIII.- Divisiones interiores prefabricadas en pisos de despachos o comercios, cu
 
 IX.- Impermeabilización y reparación de azoteas sin afectar elementos estructurales;
 
-X.- Obras urgentes para la prevención de accidentes, a reserva de dar aviso a la Secretaría de Planeación y Desarrollo Municipal, dentro de un plazo de cuarenta y ocho horas contadas a partir del inicio de las mismas;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+
+X.- Obras urgentes para la prevención de accidentes, a reserva de dar aviso a la Secretaría de Obras Públicas y Desarrollo Urbano, dentro de un plazo de cuarenta y ocho horas contadas a partir del inicio de las mismas;
 
 XI.- Demoliciones hasta de un cuarto aislado de dieciséis metros cuadrados no consecutivo, si está desocupado y sin afectar la estabilidad del resto de las construcciones;
 
@@ -12429,31 +12619,41 @@ VI.- Las modificaciones al proyecto original de cualquier obra. Se deberá acomp
 
 No se concederá licencia cuando el cambio de uso sea incompatible con la zonificación de destinos, usos y reservas autorizadas en los diferentes Programas de Desarrollo Urbano, o bien el inmueble no reúna las condiciones de estabilidad y servicio para el nuevo uso. Las solicitudes para este tipo de licencias, se presentarán con la firma del propietario del predio y con la responsiva de un perito responsable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1273.
 
-El tiempo de vigencia de las licencias de construcción que expida la Secretaría de Planeación y Desarrollo Municipal, estará en relación con la naturaleza y magnitud de la obra por ejecutar de acuerdo a las bases siguientes:
+El tiempo dé vigencia de las licencias de construcción que expida la Secretaría de Obras Públicas y Desarrollo Urbano, estará en relación con la naturaleza y magnitud de la obra por ejecutar de acuerdo a las bases siguientes:
 
 I.- Para la construcción de obras con superficie hasta 300 m2 (trescientos metros cuadrados), la vigencia máxima será 12 meses (doce meses); de 301 m2 (trescientos un metros cuadrados) hasta 1000 m2 (mil metros cuadrados) de 24 meses, y de más de 1000 m2 (mil metros cuadrados) de 36 meses;
 
 II.- Si terminado el plazo autorizado para la construcción de una obra, ésta no se hubiese concluido, para continuarla, deberá obtenerse refrendo de la licencia y cubrir los derechos por la parte no ejecutada de la obra; a la solicitud se acompañará una descripción de los trabajos que se llevarán a cabo y croquis o planos, cuando sea necesario; y
 
-III.- El responsable de la obra podrá solicitar a la Secretaría de Planeación y Desarrollo Municipal, suspensión temporal de la licencia de construcción por un plazo no mayor a 6 meses, siempre y cuando se solicite dentro de la vigencia autorizada.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+
+III.- El responsable de la obra podrá solicitar a la Secretaría de Obras Públicas y Desarrollo Urbano, suspensión temporal de la licencia de construcción por un plazo no mayor a 6 meses, siempre y cuando se solicite dentro de la vigencia autorizada.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1274.
 
-En zonas y predios catalogados con valor patrimonial, artístico, histórico, cultural, no podrán ejecutarse nuevas obras, construcciones, demoliciones o instalaciones de cualquier naturaleza sin la autorización de la Secretaría de Planeación y Desarrollo Municipal, y previo dictamen de la Delegación Estatal del Instituto Nacional de Antropología e Historia. Esta autorización y dictamen aplica también para los predios colindantes.
+En zonas y predios catalogados con valor patrimonial, artístico, histórico, cultural, no podrán ejecutarse nuevas obras, construcciones, demoliciones o instalaciones de cualquier naturaleza sin la autorización de la Secretaría de Obras Públicas y Desarrollo Urbano, y previo dictamen de la Delegación Estatal del Instituto Nacional de Antropología e Historia. Esta autorización y dictamen aplica también para los predios colindantes.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1275.
 
-Los propietarios de inmuebles y predios producto de subdivisión o fusión que pretendan construir ocupando dos o más lotes contiguos, deberán presentar las autorizaciones correspondientes de la subdivisión o fusión emitidas por la Secretaría de Planeación y Desarrollo Municipal.
+Los propietarios de inmuebles y predios producto de subdivisión o fusión que pretendan construir ocupando dos o más lotes contiguos, deberán presentar las autorizaciones correspondientes de la subdivisión o fusión emitidas por la Secretaría de Obras Públicas y Desarrollo Urbano.
 
 ###### Artículo 1276.
 
 Los propietarios de inmuebles y predios que se encuentren en un conjunto o sujeto al régimen de propiedad en condominio, y deseen realizar cualquier tipo de obra deberán presentar oficio de autorización y planos del proyecto en dos tantos sellados y firmados por la administración del condominio y/o asamblea de condóminos legalmente constituida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1277.
 
-Para solicitar el trámite de licencia para construcciones, reparaciones, o ampliaciones menores de noventa metros cuadrados en casa habitación unifamiliar, se requiere que el particular presente ante la Secretaría de Planeación y Desarrollo Municipal, los documentos siguientes:
+Para solicitar el trámite de licencia para construcciones, reparaciones, o ampliaciones menores de noventa metros cuadrados en casa habitación unifamiliar, se requiere que el particular presente ante la Secretaría de Obras Públicas y Desarrollo Urbano, los documentos siguientes:
 
 I.- Constancia de compatibilidad urbanística y número oficial;
 
@@ -12487,9 +12687,11 @@ c).- Si la finca a construir o ampliar, no se ubica dentro de un fraccionamiento
 
 d).- Si la ampliación y construcción se realiza en inmueble o predio con uso habitacional y las obras a desarrollar son para uso comercial o de servicios o prevén usos habitacionales multifamiliares, deberá presentar constancia de compatibilidad urbanística de uso mixto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1279.
 
-Para solicitar el trámite de licencias para construcciones, reparaciones, o ampliaciones mayores de noventa metros cuadrados en una vivienda o construcción en serie de una o varias viviendas de cualquier superficie, se requiere presentar a la Secretaría de Planeación y Desarrollo Municipal, los documentos siguientes:
+Para solicitar el trámite de licencias para construcciones, reparaciones, o ampliaciones mayores de noventa metros cuadrados en una vivienda o construcción en serie de una o varias viviendas de cualquier superficie, se requiere presentar a la Secretaría de Obras Públicas y Desarrollo Urbano, los documentos siguientes:
 
 I.- Constancia de alineamiento, compatibilidad urbanística y número oficial;
 
@@ -12511,7 +12713,9 @@ c).- Análisis de cargas;
 
 d).- Dimensionamiento y cálculo de: Cimentación, columnas y/o muros, entrepisos y techos, trabes y/o vigas y/o armaduras. Todo lo anterior, debe respetar lo estipulado en el título de requisitos estructurales del presente título, de Construcciones. Si el predio está ubicado dentro de la zona de mediano riesgo de alguna falla geológica, se deberá anexar a la memoria de cálculo, el análisis y diseño por sismo de la estructura con los coeficientes que se establecen en el presente Código; y
 
-VII.- Cuatro copias por lámina de los planos de la obra en caso de requerir estos últimos conforme al presente título de Construcciones vigentes ante la Secretaría de Planeación y Desarrollo Municipal, conteniendo lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+
+VII.- Cuatro copias por lámina de los planos de la obra en caso de requerir estos últimos conforme al presente título de Construcciones vigentes ante la Secretaría de Obras Públicas y Desarrollo Urbano, conteniendo lo siguiente:
 
 a).- Plantas arquitectónicas con instalación sanitaria de todos y cada uno de los niveles del inmueble incluyendo sótanos, semisótanos, cuartos de servicio en el último nivel, etc. Indicando también su ubicación respecto del predio, y el uso o destino de cada espacio;
 
@@ -12527,7 +12731,9 @@ e).- Cuadro de datos indicando: Tipo de obra, ubicación, propietario, contenido
 
 Además, en los casos de construcción de casas en serie, se deberá presentar los documentos siguientes:
 
-I.- Copia de la factibilidad de servicios de agua potable y alcantarillado, para los predios donde se pretenda construir, expedida por el Organismo Operador de los Servicios de Agua y Alcantarillado de Calvillo, en caso de que la factibilidad esté condicionada, deberá demostrar ante la Secretaría de Planeación y Desarrollo Municipal, el cumplimiento oportuno de todas las condiciones para que la documentación le sea recibida;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+
+I.- Copia de la factibilidad de servicios de agua potable y alcantarillado, para los predios donde se pretenda construir, expedida por el Organismo Operador de los Servicios de Agua y Alcantarillado de Calvillo, en caso de que la factibilidad esté condicionada, deberá demostrar ante la Secretaría de Obras Públicas y Desarrollo Urbano, el cumplimiento oportuno de todas las condiciones para que la documentación le sea recibida;
 
 II.- En sustitución del requisito del numeral anterior, convenio suscrito con el Organismo Operador de los Servicios de Agua y Alcantarillado de Calvillo, en el que el constructor o propietario manifieste bajo protesta de decir verdad no entregar ninguna vivienda hasta que el adquirente contrate los servicios de agua potable y alcantarillado;
 
@@ -12545,9 +12751,11 @@ II.- Cuando el predio se ubique en una zona no regularizada como fraccionamiento
 
 III.- Cuando se trate de usos habitacional dúplex, multifamiliar o condominio vertical dúplex.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1282.
 
-Para solicitar el trámite de licencias de construcción para edificios de oficinas, comercio, servicios y otros usos diferentes al habitacional mayores de sesenta metros cuadrados construidos se requiere presentar ante la Secretaría de Planeación y Desarrollo Municipal, los documentos siguientes:
+Para solicitar el trámite de licencias de construcción para edificios de oficinas, comercio, servicios y otros usos diferentes al habitacional mayores de sesenta metros cuadrados construidos se requiere presentar ante la Secretaría de Obras Públicas y Desarrollo Urbano, los documentos siguientes:
 
 I.- Constancia de alineamiento, compatibilidad urbanística y número oficial;
 
@@ -12569,7 +12777,9 @@ Todo lo anterior, debe respetar lo estipulado en los requisitos estructurales de
 
 V.- Corresponsiva de peritos especializados en los casos que prevé como requisito el título de Construcciones. En cada caso los peritos signarán la solicitud de licencia, bitácora de obra y demás documentos acorde a la especialidad; y
 
-VI.- Cuatro copias por lámina de los planos de la obra, firmados por el perito responsable de obra y los peritos especializados vigentes ante la Secretaría de Planeación y Desarrollo Municipal, en caso de requerir estos últimos conforme al presente título conteniendo lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+
+VI.- Cuatro copias por lámina de los planos de la obra, firmados por el perito responsable de obra y los peritos especializados vigentes ante la Secretaría de Obras Públicas y Desarrollo Urbano, en caso de requerir estos últimos conforme al presente título conteniendo lo siguiente:
 
 a).- Plantas arquitectónicas con instalación sanitaria de todos los niveles del inmueble, incluyendo sótanos, semisótanos y cuartos de servicio en el último nivel. Indicando también su ubicación respecto del predio, y el uso o destino de cada espacio;
 
@@ -12589,9 +12799,11 @@ h).- Cuando el proyecto considere ventilación o refrigeración artificial, debe
 
 i).- Se requerirá la autorización del proyecto por parte del Instituto de Servicios de Salud y de la Secretaría de Obras Públicas del Estado, para la construcción, remodelación, ampliación o modificación de centros de salud, clínicas, hospitales, laboratorios, bancos de sangre y consultorios de rayos X.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1283.
 
-Para solicitar el trámite de licencia de construcción para estaciones de servicio o gasolineras se requiere presentar ante la Secretaría de Planeación y Desarrollo Municipal:
+Para solicitar el trámite de licencia de construcción para estaciones de servicio o gasolineras se requiere presentar ante la Secretaría de Obras Públicas y Desarrollo Urbano:
 
 I.- Constancia de alineamiento, compatibilidad urbanística y número oficial;
 
@@ -12671,9 +12883,11 @@ XII.- Anexo fotográfico; y
 
 XIII.- En caso de instalarse en zona habitacional tendrá que contar con firmas de colindantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1285.
 
-Para solicitar el trámite para licencias de demolición, se deberán presentar ante la Secretaría de Planeación y Desarrollo Municipal, los documentos siguientes:
+Para solicitar el trámite para licencias de demolición, se deberán presentar ante la Secretaría de Obras Públicas y Desarrollo Urbano, los documentos siguientes:
 
 I.- Constancia de alineamiento, compatibilidad urbanística y número oficial;
 
@@ -12709,7 +12923,9 @@ I.- Constancia de alineamiento, compatibilidad urbanística y número oficial;
 
 II.- Recibo de pago o contrato de servicio de agua potable y alcantarillado; y
 
-III.- Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por un perito responsable de obra inscrito en el padrón de la Secretaría de Planeación y Desarrollo Municipal.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+
+III.- Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por un perito responsable de obra inscrito en el padrón de la Secretaría de Obras Públicas y Desarrollo Urbano.
 
 ###### Artículo 1288.
 
@@ -12719,9 +12935,13 @@ I.- Constancia de alineamiento, compatibilidad urbanística y número oficial;
 
 II.- Recibo de pago o contrato de servicio de agua potable y alcantarillado;
 
-III.- Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por un perito responsable de obra inscrito en el padrón de la Secretaría de Planeación y Desarrollo Municipal;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
 
-IV.- Obtener las especificaciones constructivas en la Secretaría de Obras Públicas Municipales;
+III.- Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por un perito responsable de obra inscrito en el padrón de la Secretaría de Obras Públicas y Desarrollo Urbano
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+
+IV.- Obtener las especificaciones constructivas en la Secretaría de Obras Públicas y Desarrollo Urbano;
 
 V.- Presentar programa de obra signado por el perito responsable de obra; y
 
@@ -12797,7 +13017,9 @@ Son aquellas arterias y avenidas que integran la red vial de la ciudad, que perm
 
 En este tipo de vialidad se permiten anuncios de tipo: Adosado, pintado, autosoportado e integrados. También se permitirán los anuncios de tipo bandera siempre y cuando éstos no salgan del alineamiento y se encuentren dentro del predio sin invadir la vía pública;
 
-El tipo de material permitido podrá ser: Rotulación en muro, manta, acrílicos y luminosos; las características permitidas varían de acuerdo a previo estudio que realice la Secretaría de Planeación y Desarrollo Municipal, conforme a lo dispuesto por el Reglamento de Imagen Urbana Municipal, por este Código y el Código Urbano para el Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
+El tipo de material permitido podrá ser: Rotulación en muro, manta, acrílicos y luminosos; las características permitidas varían de acuerdo a previo estudio que realice la Secretaría de Obras Públicas y Desarrollo Urbano, conforme a lo dispuesto por el Reglamento de Imagen Urbana Municipal, por este Código y el Código Urbano para el Estado de Aguascalientes.
 
 IV.- Las vialidades de tipo primario:
 
@@ -12809,9 +13031,11 @@ Son aquellas vialidades cuya función es la de facilitar la movilidad de altos v
 
 Perito responsable de obra, es la persona física que se hace responsable de la observancia de las diferentes normas aplicables de este Código en las obras para las que otorgue su responsiva.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1295.
 
-La calidad de perito responsable de obra se adquiere con el registro de la persona ante la Secretaría de Planeación y Desarrollo Municipal de Calvillo.
+La calidad de perito responsable de obra se adquiere con el registro de la persona ante la Secretaría de Obras Públicas y Desarrollo Urbano de Calvillo.
 
 ###### Artículo 1296.
 
@@ -12881,15 +13105,21 @@ VII.- Refrendar su calidad de perito en el mes de enero de cada año, actualizan
 
 Las atribuciones, facultades y funciones de perito responsable de obra y de perito especializado terminarán:
 
-I.- Cuando ocurra cambio, suspensión, abandono o retiro del perito responsable de obra y en su caso del perito especializado. Para lo cual se deberá levantar un acta asentando a detalle el avance de la obra hasta el momento de la suspensión, la cual será suscrita por una persona designada por la Secretaría de Planeación y Desarrollo Municipal, por el perito responsable y por el propietario de la obra; el cambio de perito responsable no exime al anterior de su responsabilidad por la parte de la obra que le haya correspondido dirigir. La Secretaría de Planeación y Desarrollo Municipal, ordenará la suspensión de la obra cuando el perito responsable no sea sustituido en forma inmediata, y no permitirá su reanudación hasta en tanto no se designe nuevo perito;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+
+I.- Cuando ocurra cambio, suspensión, abandono o retiro del perito responsable de obra y en su caso del perito especializado. Para lo cual se deberá levantar un acta asentando a detalle el avance de la obra hasta el momento de la suspensión, la cual será suscrita por una persona designada por la Secretaría de Obras Públicas y Desarrollo Urbano, por el perito responsable y por el propietario de la obra; el cambio de perito responsable no exime al anterior de su responsabilidad por la parte de la obra que le haya correspondido dirigir. La Secretaría de Obras Públicas y Desarrollo Urbano, ordenará la suspensión de la obra cuando el perito responsable no sea sustituido en forma inmediata, y no permitirá su reanudación hasta en tanto no se designe nuevo perito;
 
 II.- Cuando no ha refrendado su calidad de perito responsable de obra o perito especializado. En este caso se suspenderán las obras en proceso de ejecución para las que haya dado responsiva profesional; y
 
-III.- Cuando la Secretaría de Planeación y Desarrollo Municipal, autorice la ocupación de la obra. El término de las funciones del perito responsable de obra, no le exime de la responsabilidad de carácter civil, administrativo y penal que pudiera derivarse de su intervención en la obra para la cual haya otorgado su responsiva profesional.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+
+III.- Cuando la Secretaría de Obras Públicas y Desarrollo Urbano, autorice la ocupación de la obra. El término de las funciones del perito responsable de obra, no le exime de la responsabilidad de carácter civil, administrativo y penal que pudiera derivarse de su intervención en la obra para la cual haya otorgado su responsiva profesional.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1301.
 
-Para efectos del presente Código, la responsabilidad profesional y de carácter administrativo de los peritos responsables de obra y especializados, concluirá a los tres años de la terminación de la obra. Dentro del mismo lapso, la Secretaría de Planeación y Desarrollo Municipal, podrá exigir el cumplimiento de las obligaciones derivadas de dicha responsiva.
+Para efectos del presente Código, la responsabilidad profesional y de carácter administrativo de los peritos responsables de obra y especializados, concluirá a los tres años de la terminación de la obra. Dentro del mismo lapso, la Secretaría de Obras Públicas y Desarrollo Urbano, podrá exigir el cumplimiento de las obligaciones derivadas de dicha responsiva.
 
 ### CAPÍTULO III. De los Proyectos Arquitectónicos
 
@@ -12901,9 +13131,11 @@ Estos mismos elementos situados a una altura mayor de dos metros cincuenta cent�
 
 Los balcones abiertos situados a una altura mayor de dos metros cincuenta centímetros podrán salir del alineamiento, el ancho de la acera disminuido en sesenta centímetros hasta un metro, pero al igual que todos los elementos arquitectónicos, deberán ajustarse a las restricciones sobre distancias a líneas de transmisión.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1303.
 
-Cuando la acera tenga una anchura menor de un metro cincuenta centímetros, la Secretaría de Planeación y Desarrollo Municipal, fijará las dimensiones de los balcones y los niveles en que se pueda permitir.
+Cuando la acera tenga una anchura menor de un metro cincuenta centímetros, la Secretaría de Obras Públicas y Desarrollo Urbano, fijará las dimensiones de los balcones y los niveles en que se pueda permitir.
 
 ###### Artículo 1304.
 
@@ -12911,13 +13143,17 @@ Las marquesinas podrán sobresalir del alineamiento, el ancho de la acera dismin
 
 Todos los elementos de la marquesina deberán estar situados a una altura mayor de dos metros cincuenta centímetros sobre el nivel de la banqueta, pero al igual deberán ajustarse a las restricciones sobre distancias a líneas de transmisión y a lo dispuesto en el Reglamento de Imagen Urbana.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1305.
 
-Los toldos podrán sobresalir del alineamiento el ancho de la acera, ningún elemento de los mismos deberá estar a una altura menor de dos metros veinte centímetros sobre el nivel de la banqueta. Los permisos para la colocación de toldos tendrán carácter temporal, y la Secretaría de Planeación y Desarrollo Municipal, podrá revocarlos en cualquier momento que se juzgue conveniente.
+Los toldos podrán sobresalir del alineamiento el ancho de la acera, ningún elemento de los mismos deberá estar a una altura menor de dos metros veinte centímetros sobre el nivel de la banqueta. Los permisos para la colocación de toldos tendrán carácter temporal, y la Secretaría de Obras Públicas y Desarrollo Urbano, podrá revocarlos en cualquier momento que se juzgue conveniente.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1306.
 
-Ningún punto de un edificio podrá estar a mayor altura que la que se marque en los contenidos correspondientes del Programa de Desarrollo Urbano para la ciudad de Calvillo vigente o lo que dictamine la Secretaría de Planeación y Desarrollo Municipal.
+Ningún punto de un edificio podrá estar a mayor altura que la que se marque en los contenidos correspondientes del Programa de Desarrollo Urbano para la ciudad de Calvillo vigente o lo que dictamine la Secretaría de Obras Públicas y Desarrollo Urbano
 
 ###### Artículo 1307.
 
@@ -12925,7 +13161,9 @@ Tratándose de asoleamiento entre viviendas unifamiliares y edificios superiores
 
 La Presidencia Municipal podrá fijar otras limitaciones a la altura de los edificios en determinadas zonas, de acuerdo con este Código y demás legislación de la materia vigente.
 
-La Secretaría de Planeación y Desarrollo Municipal, podrá fijar otras limitaciones a la altura de los edificios en determinadas zonas.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
+La Secretaría de Obras Públicas y Desarrollo Urbano, podrá fijar otras limitaciones a la altura de los edificios en determinadas zonas.
 
 ###### Artículo 1308.
 
@@ -13255,9 +13493,9 @@ Las características y dimensiones de las circulaciones horizontales deberán aj
 
 I.- Todos los locales de un edificio deberán tener salidas, pasillos o corredores que conduzcan directamente a las puertas de salida o a las escaleras;
 
-II.- El ancho mínimo de los pasillos y de las circulaciones para el público, cuando su longitud no exceda de seis metros será de un metro veinte centímetros, excepto en interiores de viviendas unifamiliares y de oficinas en donde podrá ser noventa centímetros. En pasillos con longitud mayor, su anchura deberá ser aumentada proporcionalmente según lo determine la Secretaría de Planeación y Desarrollo Municipal;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
 
-Las circulaciones deberán atender a lo estipulado en las reglas de accesibilidad para personas con capacidades diferentes, que obligan a contar con señalizaciones en alto relieve y sistema braile así como guías táctiles en los pavimentos o cambios de textura, es recomendable que las circulaciones cortas frente a las puertas, tengan cuando menos 1 metro con 50 centímetros de largo para maniobras;
+II.- El ancho mínimo de los pasillos y de las circulaciones para el público, cuando su longitud no exceda de seis metros será de un metro veinte centímetros, excepto en interiores de viviendas unifamiliares y de oficinas en donde podrá ser noventa centímetros. En pasillos con longitud mayor, su anchura deberá ser aumentada proporcionalmente según lo determine la Secretaría de Obras Públicas y Desarrollo Urbano;
 
 III.- Los pasillos y los corredores no deberán tener salientes o tropezones que disminuya su anchura, a una altura inferior a dos metros cincuenta centímetros y atender las recomendaciones de accesibilidad para personas con capacidades diferentes que determina que las rejillas, tapajuntas y entrecalles de los pavimentos, no deberán tener separaciones o desniveles mayores a 13 mm; y
 
@@ -13477,9 +13715,11 @@ Los depósitos de residuos sólidos domésticos basura, papel, trapos y los de r
 
 Queda prohibido el almacenamiento de líquidos o materiales inflamables o explosivos en las circulaciones generales y en las zonas de concentración de personas dentro de cualquier tipo de edificación y centro de reunión.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1336.
 
-Cuando se utilicen plafones a base de materiales que no sea a prueba de fuego deberán presentarse las medidas contra incendio para ser aprobadas por la Secretaría de Planeación y Desarrollo Municipal, previo dictamen del área competente o de Protección Civil Municipal.
+Cuando se utilicen plafones a base de materiales que no sea a prueba de fuego deberán presentarse las medidas contra incendio para ser aprobadas por la Secretaría de Obras Públicas y Desarrollo Urbano, previo dictamen del área competente o de Protección Civil Municipal.
 
 ###### Artículo 1337.
 
@@ -14619,9 +14859,11 @@ En el proyecto de las viviendas, deberá tomarse en cuenta el crecimiento de és
 
 La vivienda progresiva deberá contar en un principio con un área mínima de 33 metros cuadrados.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1373.
 
-Las ampliaciones en unidades habitacionales, deberán ser aprobadas por la Secretaría de Planeación y Desarrollo Municipal, con el fin de que armonicen con el conjunto. Cuando se tratare de obras en las áreas comunes, una vez que lo determine la Asamblea, con los términos que marca el Código Urbano para el Estado de Aguascalientes, recabará la aprobación de la Presidencia Municipal, para los fines citados en el párrafo anterior.
+Las ampliaciones en unidades habitacionales, deberán ser aprobadas por la Secretaría de Obras Públicas y Desarrollo Urbano, con el fin de que armonicen con el conjunto. Cuando se tratare de obras en las áreas comunes, una vez que lo determine la Asamblea, con los términos que marca el Código Urbano para el Estado de Aguascalientes, recabará la aprobación de la Presidencia Municipal, para los fines citados en el párrafo anterior.
 
 ###### Artículo 1374.
 
@@ -16797,19 +17039,25 @@ Durante la ejecución de cualquier construcción, el perito responsable de obra,
 
 Deberán usarse redes de seguridad o cinturones de seguridad, con líneas de amarre para los trabajadores, que realicen trabajos en las obras a una altura mayor de nueve metros.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1577.
 
-Los planos autorizados y las licencias de las obras, deberán conservarse en las propias obras durante la ejecución de éstas y estar a disposición de los supervisores de la Secretaría de Planeación y Desarrollo Municipal. Estos documentos quedarán a resguardo del propietario una vez terminadas las obras, debiendo presentarlos a la Secretaría de Planeación y Desarrollo Municipal, para cualquier aclaración, solicitud de modificación o ampliación de éstas.
+Los planos autorizados y las licencias de las obras, deberán conservarse en las propias obras durante la ejecución de éstas y estar a disposición de los supervisores de la Secretaría de Obras Públicas y Desarrollo Urbano. Estos documentos quedarán a resguardo del propietario una vez terminadas las obras, debiendo presentarlos a la Secretaría de Obras Públicas y Desarrollo Urbano, para cualquier aclaración, solicitud de modificación o ampliación de éstas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1578.
 
-El perito responsable de obra está obligado a mantener en la obra el libro de bitácora a que se refiere este Libro, encuadernado y foliado y tenerlo a disposición de los supervisores de la Secretaría de Planeación y Desarrollo Municipal.
+El perito responsable de obra está obligado a mantener en la obra el libro de bitácora a que se refiere este Libro, encuadernado y foliado y tenerlo a disposición de los supervisores de la Secretaría de Obras Públicas y Desarrollo Urbano.
 
 El perito responsable cuidará de la veracidad de las anotaciones suscritas por él, por sus auxiliares técnicos y por los contratistas que participen en la obra.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1579.
 
-Para la utilización de los distintos materiales o la aplicación de sistemas estructurales, deberá seguirse procedimientos constructivos que cumplan con los requisitos especificados por la Secretaría de Planeación y Desarrollo Municipal. Tales procedimientos deberán garantizar que el comportamiento de la estructura esté de acuerdo con lo especificado en el diseño estructural.
+Para la utilización de los distintos materiales o la aplicación de sistemas estructurales, deberá (sic) seguirse procedimientos constructivos que cumplan con los requisitos especificados por la Secretaría de Obras Públicas y Desarrollo Urbano. Tales procedimientos deberán garantizar que el comportamiento de la estructura esté de acuerdo con lo especificado en el diseño estructural.
 
 ###### Artículo 1580.
 
@@ -16823,11 +17071,13 @@ III.- Nivel y alineamiento de los elementos estructurales; y
 
 IV.- Cargas muertas en la estructura, tales como: El peso volumétrico propio y el provocado por la colocación de materiales durante la ejecución de la obra.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1581.
 
-Podrá utilizarse los nuevos procedimientos de construcción que el desarrollo de la técnica introduzca, previa autorización de la Secretaría de Planeación y Desarrollo Municipal, para lo cual, el perito responsable de la obra presentará una solicitud detallando el procedimiento propuesto y anexando en su caso, los datos de los estudios y los resultados de las pruebas experimentales efectuadas.
+Podrá utilizarse los nuevos procedimientos de construcción que el desarrollo de la técnica introduzca, previa autorización de la Secretaría de Obras Públicas y Desarrollo Urbano, para lo cual, el perito responsable de la obra presentará una solicitud detallando el procedimiento propuesto y anexando en su caso, los datos de los estudios y los resultados de las pruebas experimentales efectuadas.
 
-La Secretaría de Planeación y Desarrollo Municipal, podrá exigir la construcción de modelos para probar el procedimiento bajo las condiciones que juzgue técnicamente necesarias.
+La Secretaría de Obras Públicas y Desarrollo Urbano, podrá exigir la construcción de modelos para probar el procedimiento bajo las condiciones que juzgue técnicamente necesarias.
 
 ###### Artículo 1582.
 
@@ -16861,9 +17111,11 @@ En las obras de construcción, deberá proporcionarse a los trabajadores servici
 
 La resistencia, calidad y características de los materiales empleados en la construcción, serán las que se señalen en las especificaciones de diseño y en los planos constructivos y deberán satisfacer las normas de calidad establecidas.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1589.
 
-La Secretaría de Planeación y Desarrollo Municipal, exigirá los muestreos y las pruebas necesarias para verificar la calidad y resistencia especificadas en los materiales que formen parte de los elementos estructurales, aún en obras terminadas, cuando así lo juzgue pertinente o por dictamen técnico solicitado del perito.
+La Secretaría de Obras Públicas y Desarrollo Urbano, exigirá los muestreos y las pruebas necesarias para verificar la calidad y resistencia especificadas en los materiales que formen parte de los elementos estructurales, aún en obras terminadas, cuando, así lo juzgue pertinente o por dictamen técnico solicitado del perito.
 
 ###### Artículo 1590.
 
@@ -16873,19 +17125,25 @@ El muestreo deberá efectuarse siguiendo métodos estadísticos que aseguren que
 
 Los elementos estructurales cuyos materiales se encuentren en ambiente corrosivo o sujetos a la acción de agentes físicos, químicos o biológicos, que puedan hacer disminuir su resistencia, deberán ser cubiertos con materiales o substancias protectoras y tendrán un mantenimiento preventivo que asegure su funcionamiento dentro de las condiciones previstas en el diseño.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1592.
 
-Cuando se proyecte utilizar en una construcción un material nuevo que no esté sujeto a normas de calidad reconocidas oficialmente, el perito responsable de obra deberá solicitar la aprobación previa de la Secretaría de Planeación y Desarrollo Municipal, para lo cual presentará los resultados de las pruebas de resistencia y calidad de dicho material.
+Cuando se proyecte utilizar en una construcción un material nuevo que no esté sujeto a normas de calidad reconocidas oficialmente, el perito responsable de obra deberá solicitar la aprobación previa de la Secretaría de Obras Públicas y Desarrollo Urbano, para lo cual presentará los resultados de las pruebas de resistencia y calidad de dicho material.
 
 ###### Artículo 1593.
 
 Cuando se utilizaren predios colindantes ajenos como área de maniobras, deberán retirarse todos los desechos producidos por la obra al término de ésta, o durante el proceso si hubiese quejas de los propietarios afectados.
 
-Para los efectos de este artículo, deberá presentarse ante la Secretaría de Planeación y Desarrollo Municipal, la autorización por escrito del propietario del predio en cuestión.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
+Para los efectos de este artículo, deberá presentarse ante la Secretaría de Obras Públicas y Desarrollo Urbano, la autorización por escrito del propietario del predio en cuestión.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1594.
 
-Cuando se requiera efectuar obras de pavimentación o banquetas, deberá solicitarse permiso por escrito a la Secretaría de Planeación y Desarrollo Municipal, la cual investigará la viabilidad y en su caso autorizará la petición determinando las especificaciones, cuantificando los derechos y proporcionando la supervisión correspondiente.
+Cuando se requiera efectuar obras de pavimentación o banquetas, deberá solicitarse permiso por escrito a la Secretaría de Obras Públicas y Desarrollo Urbano, la cual investigará la viabilidad y en su caso autorizará la petición determinando las especificaciones, cuantificando los derechos y proporcionando la supervisión correspondiente.
 
 ###### Artículo 1595.
 
@@ -16899,13 +17157,17 @@ Los propietarios estarán obligados a reponer por su cuenta, las banquetas y gua
 
 Siempre que se ejecuten obras de cualquier clase en la vía pública o cerca de ella, se tomarán las medidas de seguridad necesarias para evitar daños o perjuicios a las instalaciones, a los trabajadores y a terceros.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1598.
 
-Cuando haya que reubicar o quitar arbolado existente en la vía pública, deberá tramitarse el permiso correspondiente en la Secretaría de Planeación y Desarrollo Municipal.
+Cuando haya que reubicar o quitar arbolado existente en la vía pública, deberá tramitarse el permiso correspondiente en la Secretaría de Obras Públicas y Desarrollo Urbano.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1599.
 
-Cuando se requiera reubicar postes, ya sea de Comisión Federal de Electricidad, telefonía, alumbrado público, o semáforos, deberá pedirse el permiso y coordinar las acciones correspondientes, con la dependencia responsable del poste y comunicar tal autorización a la Secretaría de Planeación y Desarrollo Municipal.
+Cuando se requiera reubicar postes, ya sea de Comisión Federal de Electricidad, telefonía, alumbrado público, o semáforos, deberá pedirse el permiso y coordinar las acciones correspondientes, con la dependencia responsable del poste y comunicar tal autorización a la Secretaría de Obras Públicas y Desarrollo Urbano
 
 ###### Artículo 1600.
 
@@ -16923,11 +17185,15 @@ II.- De marquesinas: Cuando los trabajos se ejecuten a más de diez metros de al
 
 III.- Fijos: En las obras que se ejecuten en un predio a una distancia menor de diez metros de la vía pública, se colocarán tapiales fijos que cubran todo el frente de la misma. Cuando la fachada quede al paño del alineamiento, el tapial podrá abarcar una faja anexa hasta de cincuenta centímetros sobre la banqueta. Previa solicitud, podrá concederse mayor superficie de ocupación de banqueta; y
 
-IV.- De paso cubierto: En obras cuya altura sea mayor de diez metros o en aquellas en que la invasión de la acera lo amerite, la Secretaría de Planeación y Desarrollo Municipal, podrá exigir, que se construya un paso cubierto, además del tapial.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+
+IV.- De paso cubierto: En obras cuya altura sea mayor de diez metros o en aquellas en que la invasión de la acera lo amerite, la Secretaría de Obras Públicas y Desarrollo Urbano, podrá exigir, que se construya un paso cubierto, además del tapial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1602.
 
-Los tapiales de barrera se construirán de manera que no obstruyan o impidan la vista de las señales de tránsito, de las placas de nomenclatura o de los aparatos y accesorios de los servicios públicos. En caso necesario, se solicitará a la Secretaría de Planeación y Desarrollo Municipal, su traslado provisional a otro lugar.
+Los tapiales de barrera se construirán de manera que no obstruyan o impidan la vista de las señales de tránsito, de las placas de nomenclatura o de los aparatos y accesorios de los servicios públicos. En caso necesario, se solicitará a la Secretaría de Obras Públicas y Desarrollo Urbano, su traslado provisional a otro lugar.
 
 Los tapiales de marquesina se colocarán a la altura necesaria, de tal manera que la altura de caída de los materiales de demolición o de construcción sobre ellos, no exceda de cinco metros.
 
@@ -16961,27 +17227,35 @@ Si se emplean puntales, vigas, armaduras, estructuras o cualquier otro medio, pa
 
 Los trabajadores deberán efectuar los trabajos de demolición, usando el equipo necesario para su protección personal, tal como anteojos de protección, máscara contra polvo, caretas, cascos, guantes, botas, redes o cualquier otro, que sea necesario de acuerdo con el tipo de demolición.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1608.
 
-Se prohíbe el uso de explosivos para llevar a cabo demoliciones o excavaciones en la zona urbana, así como en la zona rural cuando en esta última existan construcciones dentro de un radio menor de cincuenta metros. Excepcionalmente, previa justificación técnica de la necesidad de su uso, la Secretaría de Planeación y Desarrollo Municipal, podrá autorizar el empleo de explosivos en las demoliciones bajo la exclusiva responsabilidad del perito responsable de obra, siempre que se tomen las medidas necesarias para evitar daños.
+Se prohíbe el uso de explosivos para llevar a cabo demoliciones o excavaciones en la zona urbana, así como en la zona rural cuando en esta última existan construcciones dentro de un radio menor de cincuenta metros. Excepcionalmente, previa justificación técnica de la necesidad de su uso, la Secretaría de Obras Públicas y Desarrollo Urbano, podrá autorizar el empleo de explosivos en las demoliciones bajo la exclusiva responsabilidad del perito responsable de obra, siempre que se tomen las medidas necesarias para evitar daños.
 
-La autorización que la Secretaría de Planeación y Desarrollo Municipal, otorgue en los casos a que se refiere este artículo, queda condicionada a que la Secretaría de la Defensa Nacional, en ejercicio de sus atribuciones, otorgue el permiso correspondiente para la adquisición y uso de explosivos con el fin indicado.
+La autorización que la Secretaría de Obras Públicas y Desarrollo Urbano, otorgue en los casos a que se refiere este artículo, queda condicionada a que la Secretaría de la Defensa Nacional, en ejercicio de sus atribuciones, otorgue el permiso correspondiente para la adquisición y uso de explosivos con el fin indicado.
 
 ###### Artículo 1609.
 
 Los materiales y escombros provenientes de una demolición, que vayan a ser desechados de la obra, deberán ser retirados en la forma establecida en el presente Capítulo.
 
-La Secretaría de Planeación y Desarrollo Municipal, señalará las condiciones en que deban ser transportados y el lugar en que puedan ser depositados dichos escombros.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
+La Secretaría de Obras Públicas y Desarrollo Urbano, señalará las condiciones en que deban ser transportados y el lugar en que puedan ser depositados dichos escombros.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1610.
 
-La Secretaría de Planeación y Desarrollo Municipal, podrá ordenar que se suspendan los trabajos cuando no sean tomadas las precauciones necesarias para evitar daños o perjuicios.
+La Secretaría de Obras Públicas y Desarrollo Urbano, podrá ordenar que se suspendan los trabajos cuando no sean tomadas las precauciones necesarias para evitar daños o perjuicios.
 
 ### CAPÍTULO V. De las Mediciones y Trazos
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1611.
 
-En las construcciones en que se requiere llevar registro de posibles movimientos verticales, así como en aquellas en que el perito responsable de obra considere necesario o la Secretaría de Planeación y Desarrollo Municipal, lo ordene, se señalarán referencias o bancos de nivel superficiales, suficientemente alejados de la cimentación o estructuras de que se trate, para no ser afectados por los movimientos de las mismas o de otras cargas cercanas, y se referirán a éstos las nivelaciones que se hagan.
+En las construcciones en que se requiere llevar registro de posibles movimientos verticales, así como en aquellas en que el perito responsable de obra considere necesario o la Secretaría de Obras Públicas y Desarrollo Urbano, lo ordene, se señalarán referencias o bancos de nivel superficiales, suficientemente alejados de la cimentación o estructuras de que se trate, para no ser afectados por los movimientos de las mismas o de otras cargas cercanas, y se referirán a éstos las nivelaciones que se hagan.
 
 ###### Artículo 1612.
 
@@ -16991,9 +17265,11 @@ En los planos de cimentación se deberán indicar si se requiere el registro de 
 
 Antes de iniciarse una construcción deberá verificarse el trazo del alineamiento del predio, con base en la constancia de alineamiento y compatibilidad urbanística y las medidas del resto de la poligonal del perímetro, así como la situación del predio en relación con los colindantes, la cual deberá coincidir con los datos correspondientes del título de propiedad en su caso.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1614.
 
-Se trazarán después los ejes principales del proyecto, refiriéndolos a puntos que puedan conservarse fijos. Si los datos que arroje el levantamiento del predio exigen un ajuste de las distancias entre los ejes consignados en los planos arquitectónicos, deberá asentarse en la bitácora, elaborando a su vez los planos del proyecto ajustado, presentándolos a la Secretaría de Planeación y Desarrollo Municipal. El perito responsable de obra deberá hacer constar que las diferencias no afectan la seguridad estructural, ni el funcionamiento de la construcción, ni las holguras exigidas entre edificios adyacentes. En caso necesario deberán hacerse las modificaciones pertinentes al proyecto arquitectónico y al estructural.
+Se trazarán después los ejes principales del proyecto, refiriéndolos a puntos que puedan conservarse fijos. Si los datos que arroje el levantamiento del predio exigen un ajuste de las distancias entre los ejes consignados en los planos arquitectónicos, deberá asentarse en la bitácora, elaborando a su vez los planos del proyecto ajustado, presentándolos a la Secretaría de Obras Públicas y Desarrollo Urbano El perito responsable de obra deberá hacer constar que las diferencias no afectan la seguridad estructural, ni el funcionamiento de la construcción, ni las holguras exigidas entre edificios adyacentes. En caso necesario deberán hacerse las modificaciones pertinentes al proyecto arquitectónico y al estructural.
 
 ###### Artículo 1615.
 
@@ -17005,15 +17281,19 @@ Las separaciones entre construcciones deberán protegerse por medio de tapajunta
 
 El procedimiento de ejecución de excavaciones deberá garantizar que no se rebasen los estados límites definidos en este Libro. De ser necesario, la excavación se realizará por etapas, de acuerdo con un programa que deberá incluirse en la memoria de diseño, señalando además, las precauciones que se tomarán para que no resulten afectadas las construcciones, los predios vecinos o los servicios públicos. Estas precauciones se consignarán debidamente en los planos.
 
-Si en el proceso de una excavación se encuentran restos fósiles o arqueológicos, se deberá suspender de inmediato la excavación en ese lugar y notificar el hallazgo a la Secretaría de Planeación y Desarrollo Municipal.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
+Si en el proceso de una excavación se encuentran restos fósiles o arqueológicos, se deberá suspender de inmediato la excavación en ese lugar y notificar el hallazgo a la Secretaría de Obras Públicas y Desarrollo Urbano
 
 ###### Artículo 1617.
 
 Cuando los procedimientos de ejecución de una obra señalen la necesidad de instalar ademe, éste se colocará troquelándolo a presión contra los paramentos del terreno. Sus características serán determinadas por un estudio de mecánica de suelos particular para cada caso.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1618.
 
-Previa autorización de la Secretaría de Planeación y Desarrollo Municipal, podrá extraerse agua de un predio mediante bombeo siempre que se tomen precauciones para limitar los efectos del mismo sobre los predios colindantes y sobre el propio predio, las cuales serán determinadas por el estudio de mecánica de suelos correspondiente.
+Previa autorización de la Secretaría de Obras Públicas y Desarrollo Urbano, podrá extraerse agua de un predio mediante bombeo siempre que se tomen precauciones para limitar los efectos del mismo sobre los predios colindantes y sobre el propio predio, las cuales serán determinadas por el estudio de mecánica de suelos correspondiente.
 
 ###### Artículo 1619.
 
@@ -17153,9 +17433,11 @@ La ejecución de las estructuras de madera deberá ajustarse a las especificacio
 
 ### CAPÍTULO VIII. De la Mampostería y el Concreto
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1640.
 
-Se consideran elementos de mampostería los construidos con piezas regulares o irregulares de piedra natural o artificial, maciza o hueca, unidas por un mortero cementante, los materiales que se utilicen en la construcción de elementos de mampostería deberán cumplir los requisitos generales de calidad especificados por la Secretaría de Planeación y Desarrollo Municipal.
+Se consideran elementos de mampostería los construidos con piezas regulares o irregulares de piedra natural o artificial, maciza o hueca, unidas por un mortero cementante, los materiales que se utilicen en la construcción de elementos de mampostería deberán cumplir los requisitos generales de calidad especificados por la Secretaría de Obras Públicas y Desarrollo Urbano
 
 ###### Artículo 1641.
 
@@ -17271,13 +17553,17 @@ Los elementos de concreto simple, reforzado o presforzado, que se encuentren exp
 
 Las estructuras metálicas deberán sujetarse a lo previsto en este Libro y a sus Normas Técnicas Complementarias.
 
-Los materiales que se utilicen en la construcción de estructuras metálicas, deberán cumplir con las normas de calidad especificadas por la Secretaría de Planeación y Desarrollo Municipal.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
+Los materiales que se utilicen en la construcción de estructuras metálicas, deberán cumplir con las normas de calidad especificadas por la Secretaría de Obras Públicas y Desarrollo Urbano
 
 ###### Artículo 1660.
 
 En el montaje de las estructuras se observará lo siguiente:
 
-I.- El montaje deberá efectuarse con el equipo apropiado. Durante la carga, transporte y descarga de material y durante el montaje, se adoptarán las precauciones necesarias para no producir deformaciones ni esfuerzos excesivos. Aquellas piezas que se maltratan o deformen, deberán ser enderezadas o repuestas a juicio del perito responsable o del perito especializado en estructuras antes de montarlas. Cuando en la maniobra se requiera suspender temporalmente el tráfico, se deberá pedir permiso a la Secretaría de Seguridad Pública y Vialidad Municipal y notificar a la Secretaría de Planeación y Desarrollo Municipal;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+
+I.- El montaje deberá efectuarse con el equipo apropiado. Durante la carga, transporte y descarga de material y durante el montaje, se adoptarán las precauciones necesarias para no producir deformaciones ni esfuerzos excesivos. Aquellas piezas que se maltratan o deformen, deberán ser enderezadas o repuestas a juicio del perito responsable o del perito especializado en estructuras antes de montarlas. Cuando en la maniobra se requiera suspender temporalmente el tráfico, se deberá pedir permiso a la Secretaría de Seguridad Pública y Vialidad Municipal y notificar a la Secretaría de Obras Públicas y Desarrollo Urbano
 
 II.- Anclajes.- Antes de iniciar la colocación de la estructura, el perito responsable de obra, revisará la posición de las anclas colocadas a las posiciones mostradas en los planos, se tomarán las providencias necesarias para corregirlas, en su caso;
 
@@ -17439,15 +17725,19 @@ V.- Los que produzcan humedad, salinidad, corrosión, gases, humos, polvos, ruid
 
 VI.- Los demás que se establezcan en la Legislación Federal y Estatal de la materia.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1685.
 
-La Secretaría de Planeación y Desarrollo Municipal, podrá autorizar el cambio de uso de un predio o de una edificación, de acuerdo con los Programas de Desarrollo Urbano vigentes y con los planos aprobados para la zona donde se ubique el predio, previo dictamen técnico y en su caso, la autorización de ubicación en los términos señalados por este Código. El nuevo uso deberá ajustarse a las disposiciones de este Código y demás legislación vigente en la materia.
+La Secretaría de Obras Públicas y Desarrollo Urbano, podrá autorizar el cambio de uso de un predio o de una edificación, de acuerdo con los Programas de Desarrollo Urbano vigentes y con los planos aprobados para la zona donde se ubique el predio, previo dictamen técnico y en su caso, la autorización de ubicación en los términos señalados por este Código. El nuevo uso deberá ajustarse a las disposiciones de este Código y demás legislación vigente en la materia.
 
-En construcciones ya ejecutadas, la Secretaría de Planeación y Desarrollo Municipal, podrá autorizar el cambio de uso, si se efectúan las modificaciones necesarias y se construyen las instalaciones adecuadas para cumplir con las disposiciones legales vigentes correspondientes.
+En construcciones ya ejecutadas, la Secretaría de Obras Públicas y Desarrollo Urbano, podrá autorizar el cambio de uso, si se efectúan las modificaciones necesarias y se construyen las instalaciones adecuadas para cumplir con las disposiciones legales vigentes correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1686.
 
-Cuando una edificación o un predio se utilice total o parcialmente para algún uso diferente al autorizado, sin haber obtenido previamente la autorización del cambio de uso que establece el artículo anterior, la Secretaría de Planeación y Desarrollo Municipal, ordenará con base en dictamen técnico lo siguiente:
+Cuando una edificación o un predio se utilice total o parcialmente para algún uso diferente al autorizado, sin haber obtenido previamente la autorización del cambio de uso que establece el artículo anterior, la Secretaría de Obras Públicas y Desarrollo Urbano, ordenará con base en dictamen técnico lo siguiente:
 
 I.- La restitución de inmediato al uso aprobado, si esto puede hacerse sin la necesidad de ejecutar obras; y
 
@@ -17469,9 +17759,11 @@ Quedan prohibidas instalaciones y construcciones precarias en las zonas de las e
 
 ## TÍTULO SEXTO. PROTECCIÓN, CONSERVACIÓN Y MEJORAMIENTO DEL AMBIENTE Y DEL EQUILIBRIO ECOLÓGICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1689.
 
-Para proteger y conservar el equilibrio ecológico dentro del Municipio de Calvillo, el Ayuntamiento a través de la Secretaría de Planeación y Desarrollo Municipal, tendrá las atribuciones siguientes:
+Para proteger y conservar el equilibrio ecológico dentro del Municipio de Calvillo, el Ayuntamiento a través de la Secretaría de Obras Públicas y Desarrollo Urbano, tendrá las atribuciones siguientes:
 
 I.- La preservación y restauración del equilibrio ecológico y la protección al ambiente, que se realicen en bienes y zonas de la jurisdicción del Municipio, salvo cuando se refieran a asuntos reservados al gobierno del Estado o a la Federación;
 
@@ -17495,9 +17787,11 @@ El Ayuntamiento en ejercicio de las atribuciones que las leyes sobre la materia 
 
 ### CAPÍTULO I. Prevención y Control Ambiental
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1690.
 
-Es facultad del Municipio a través de la Secretaría de Planeación y Desarrollo Municipal, dictar las medidas de seguridad para prevenir y controlar la contaminación del ambiente, causada por fuentes que no sean de jurisdicción Estatal o Federal dentro del territorio municipal.
+Es facultad del Municipio a través de la Secretaría de Obras Públicas y Desarrollo Urbano dictar las medidas de seguridad para prevenir y controlar la contaminación del ambiente, causada por fuentes que no sean de jurisdicción Estatal o Federal dentro del territorio municipal.
 
 ###### Artículo 1691.
 
@@ -17535,9 +17829,11 @@ XV.- Las demás que le confieran otros ordenamientos jurídicos en la materia.
 
 ### CAPÍTULO II. Participación Social
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1692.
 
-El Ayuntamiento a través de la Secretaría de Planeación y Desarrollo Municipal, promoverá la participación solidaria y responsable de los habitantes del Municipio, en la política ambiental y en la observancia del presente Código y demás disposiciones jurídicas de la materia, por medio de acciones de difusión y vigilancia de los trabajos que en materia ecológica se realicen dentro de la jurisdicción municipal.
+El Ayuntamiento a través de la Secretaría de Obras Públicas y Desarrollo Urbano, promoverá la participación solidaria y responsable de los habitantes del Municipio, en la política ambiental y en la observancia del presente Código y demás disposiciones jurídicas de la materia, por medio de acciones de difusión y vigilancia de los trabajos que en materia ecológica se realicen dentro de la jurisdicción municipal.
 
 ###### Artículo 1693.
 
@@ -17551,13 +17847,17 @@ El Consejo Municipal de Protección al Ambiente, es un cuerpo colegiado de aseso
 
 El Ayuntamiento convocará en el ámbito territorial de su jurisdicción, a representantes de organizaciones obreras, empresariales, de campesinos, de productores agropecuarios, de las comunidades, de instituciones educativas y de investigación de instituciones privadas y de otros representantes de la sociedad, en el seno del Consejo Municipal de Protección al Ambiente, para que manifiesten su opinión y propuestas, para la formulación de la política ambiental municipal, promoviendo la participación y corresponsabilidad de la sociedad en las acciones que en materia de ecología emprenda.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1696.
 
-El Ayuntamiento a través de las Secretarías de Gobierno y Planeación y Desarrollo Municipal, podrán celebrar convenios de concertación y participación social con particulares, grupos interesados y organizaciones sociales, instituciones privadas de carácter no lucrativo e instituciones educativas, a fin de fomentar y mejorar la protección del ambiente, para que en la sede o ámbito de influencia de los mismos, participen responsablemente en la protección del ambiente y restauración del equilibrio ecológico.
+El Ayuntamiento a través de las (sic) Secretaría de Obras Públicas y Desarrollo Urbano, podrán celebrar convenios de concertación y participación social con particulares, grupos interesados y organizaciones sociales, instituciones privadas de carácter no lucrativo e instituciones educativas, a fin de fomentar y mejorar la protección del ambiente, para que en la sede o ámbito de influencia de los mismos, participen responsablemente en la protección del ambiente y restauración del equilibrio ecológico.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1697.
 
-El Ayuntamiento a través de la Secretaría de Planeación y Desarrollo Municipal, promoverá reconocimientos públicos a ciudadanos, grupos o instituciones que de manera altruista se distinga por su labor en la protección, instauración y restauración del ambiente y equilibrio ecológico.
+El Ayuntamiento a través de la Secretaría de Obras Públicas y Desarrollo Urbano, promoverá reconocimientos públicos a ciudadanos, grupos o instituciones que de manera altruista se distinga (sic) por su labor en la protección, instauración y restauración del ambiente y equilibrio ecológico.
 
 ### CAPÍTULO III. Consejo Municipal de Protección al Ambiente
 
@@ -17571,7 +17871,9 @@ El Consejo Municipal de Protección al Ambiente se integrará por:
 
 I.- Un Presidente: Que será el Presidente Municipal o quien designe;
 
-II.- Un Secretario: Que será el Secretario de Planeación y Desarrollo Municipal y quien sustituirá en sus ausencias al Presidente Municipal;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+
+II.- Un Secretario: Que será el Secretario de Obras Públicas y Desarrollo Urbano y quien sustituirá en sus ausencias al Presidente Municipal;
 
 III.- Un Coordinador técnico: Que será el responsable del área de ecología y se encargará de atender las sesiones del Consejo conjuntamente con el Presidente; y
 
@@ -17587,17 +17889,23 @@ El Consejo Municipal de Protección al Ambiente, promoverá la creación de un f
 
 La denuncia popular es el acto en virtud del cual una persona física o moral hace del conocimiento de la autoridad municipal, la verificación o comisión de posibles ilícitos relativos a las fuentes de contaminación y desequilibrio ecológico, que pudieran repercutir en daños ecológicos a la población, señalando en su caso a él o los presuntos responsables para la aplicación de las sanciones previstas en el presente Código y demás leyes relacionadas con la materia.
 
-###### Artículo 1702.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
-La denuncia popular podrá presentarse ante la Secretaría de Planeación y Desarrollo Municipal o ante un Consejo Municipal de Protección al Ambiente, quienes le darán seguimiento, mediante previo trámite e investigación otorgará respuesta al denunciante, en un plazo no mayor de 10 días hábiles a la fecha de su recepción.
+###### Articulo 1702.
+
+La denuncia popular podrá presentarse ante la Secretaría de Obras Públicas y Desarrollo Urbano o ante un Consejo Municipal de Protección al Ambiente, quienes le darán seguimiento, mediante previo trámite e investigación otorgará (sic) respuesta al denunciante, en un plazo no mayor de 10 días hábiles a la fecha de su recepción.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1703.
 
-Si la denuncia popular resultare de competencia federal o estatal, la Secretaría de Planeación y Desarrollo Municipal o el Consejo Municipal de Protección Ambiental, remitirán para su atención y trámite a la autoridad competente, en un plazo que no exceda de 5 días hábiles a partir de la fecha de su recepción, informando de ello por escrito al denunciante.
+Si la denuncia popular resultare de competencia federal o estatal, la Secretaría de Obras Públicas y Desarrollo Urbano o el Consejo Municipal de Protección Ambiental, remitirán para su atención y trámite a la autoridad competente, en un plazo que no exceda de 5 días hábiles a partir de la fecha de su recepción, informando de ello por escrito al denunciante.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1704.
 
-La Secretaría de Planeación y Desarrollo Municipal, requiere para darle curso y seguimiento a la denuncia popular los datos siguientes:
+La Secretaría de Obras Públicas y Desarrollo Urbano, requiere para darle curso y seguimiento a la denuncia popular los datos siguientes:
 
 I.- Ubicación de la posible fuente de contaminación, calle, número, colonia y código postal, en su caso;
 
@@ -17609,9 +17917,11 @@ IV.- Datos del presunto(s) responsable(s) en caso de que se conozcan; y
 
 V.- Datos del denunciante para respuesta y seguimiento.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1705.
 
-La Secretaría de Planeación y Desarrollo Municipal, darán curso y seguimiento a la denuncia, y ordenará a un inspector para que se constituya en el domicilio de la posible fuente de contaminación, a efecto de que proceda a realizar las inspecciones necesarias para la comprobación de la existencia de la contaminación denunciada.
+La Secretaría de Obras Públicas y Desarrollo Urbano, darán (sic) curso y seguimiento a la denuncia, y ordenará a un inspector para que se constituya en el domicilio de la posible fuente de contaminación, a efecto de que proceda a realizar las inspecciones necesarias para la comprobación de la existencia de la contaminación denunciada.
 
 ###### Artículo 1706.
 
@@ -17623,9 +17933,11 @@ Si la persona a quien haya de notificarse para llevarse a cabo la diligencia, no
 
 El inspector, al constituirse en el lugar donde se ubica la fuente contaminante, procederá a levantar el acta de visita de inspección para clasificarla y evaluarla, y así determinar las infracciones y sanciones correspondientes, en presencia de dos testigos del lugar.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1708.
 
-En los casos de flagrancia, el personal autorizado por la Secretaría de Planeación y Desarrollo Municipal, procederá de oficio a la práctica de las diligencias de inspección de los establecimientos o lugares en donde haya fuentes contaminantes.
+En los casos de flagrancia, el personal autorizado por la Secretaría de Obras Públicas y Desarrollo Urbano, procederá de oficio a la práctica de las diligencias de inspección de los establecimientos o lugares en donde haya fuentes contaminantes.
 
 ### CAPÍTULO V. Política Ambiental
 
@@ -17633,9 +17945,11 @@ En los casos de flagrancia, el personal autorizado por la Secretaría de Planeac
 
 La Política Ambiental Municipal, es el conjunto de criterios, objetivos, planes, programas y acciones, establecidos por el Ayuntamiento con base en estudios técnicos, científicos, sociales y económicos, que permitan orientar las actividades públicas hacia la utilización, regeneración, preservación racional y sustentable, de los recursos naturales con que cuenta el Municipio, fomentando el equilibrio ecológico y la protección ambiental.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1710.
 
-El Presidente Municipal a través de la Secretaría de Planeación y Desarrollo Municipal, formulará, conducirá, evaluará y adecuará la política ambiental, en congruencia con la política estatal y federal.
+El Presidente Municipal a través de la Secretaría de Obras Públicas y Desarrollo Urbano, formulará, conducirá, evaluará y adecuará la política ambiental, en congruencia con la política estatal y federal.
 
 ###### Artículo 1711.
 
@@ -17675,9 +17989,11 @@ II.- La evaluación del impacto ambiental está enfocada a evitar la realizació
 
 ### CAPÍTULO VII. Ordenamiento Ecológico
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1714.
 
-El Ayuntamiento, a través de la Secretaría de Planeación y Desarrollo Municipal, establecerá las acciones y restricciones que en materia ecológica deba aplicarse en el territorio del Municipio que permitan realizar la prevención, control y mitigación de contaminantes, así como señalar los requisitos que habrán de observarse para evitar el deterioro ambiental.
+El Ayuntamiento, a través de la Secretaría de Obras Públicas y Desarrollo Urbano, establecerá las acciones y restricciones que en materia ecológica deba aplicarse en el territorio del Municipio que permitan realizar la prevención, control y mitigación de contaminantes, así como señalar los requisitos que habrán de observarse para evitar el deterioro ambiental.
 
 ###### Artículo 1715.
 
@@ -17765,9 +18081,11 @@ I.- Los usos productivos del suelo no deben alterar el equilibrio de los ecosist
 
 II.- Regular, corregir y sancionar toda acción o actividad que al generar o manejar residuos sólidos, conlleve a la disminución de las características del suelo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1724.
 
-Para la protección del suelo y el manejo de los residuos sólidos municipales, las Secretarías de Planeación y Desarrollo Municipal, y la de Servicios Públicos en sus respectivas atribuciones observarán:
+Para la protección del suelo y el manejo de los residuos sólidos municipales, las (sic) Secretaría de Obras Públicas y Desarrollo Urbano, y la de Servicios Públicos en sus respectivas atribuciones observarán:
 
 I.- Que los servicios municipales no propicien o generen residuos sólidos sin control;
 
@@ -17799,9 +18117,11 @@ I.- En los asentamientos urbanos, sin descuidar los de características rurales,
 
 II.- La contaminación atmosférica es resultado, tanto de las emisiones provocadas por fuentes naturales, como de aquellas provenientes de fuentes artificiales, fijas y móviles, por lo que éstas deben prevenirse y controlarse, con el fin de asegurar la calidad del aire en beneficio de la comunidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1728.
 
-Para promover y efectuar el saneamiento atmosférico, el Ayuntamiento a través de la Secretaría de Planeación y Desarrollo Municipal podrá:
+Para promover y efectuar el saneamiento atmosférico, el Ayuntamiento a través de la Secretaría de Obras Públicas y Desarrollo Urbano podrá:
 
 I.- Formular y conducir la política municipal en materia de prevención y control de la contaminación atmosférica en el ámbito de su competencia;
 
@@ -17811,9 +18131,11 @@ III.- Previo acuerdo de coordinación con las autoridades estatales, implementar
 
 IV.- Integrar y mantener actualizado el inventario de fuentes emisoras de contaminantes a la atmósfera, que estén ubicadas en el territorio del Municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1729.
 
-El Ayuntamiento, a través de la Secretaría de Planeación y Desarrollo Municipal, vigilará e inspeccionará las fuentes emisoras de contaminantes atmosféricos siguientes:
+El Ayuntamiento, a través de la Secretaría de Obras Públicas y Desarrollo Urbano, vigilará e inspeccionará las fuentes emisoras de contaminantes atmosféricos siguientes:
 
 I.- Las fijas, que incluyen talleres, giros comerciales y de prestación de servicios, así como giros industriales previo convenio con la autoridad estatal;
 
@@ -17821,9 +18143,11 @@ II.- Diversas; como depósitos o quema a cielo abierto de residuos sólidos en e
 
 III.- Coadyuvará previo acuerdo o convenio con el Estado, con las móviles como: Vehículos automotores de combustión interna, motocicletas y similares, salvo el transporte federal.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1730.
 
-Se requerirá autorización de la Secretaría de Planeación y Desarrollo Municipal, para instalación y funcionamiento de ladrilleras y alfarerías, las que sólo podrán instalarse en los sitios que para tal fin haya designado la autoridad competente, en apego a la normatividad vigente.
+Se requerirá autorización de la Secretaría de Obras Públicas y Desarrollo Urbano, para instalación y funcionamiento de ladrilleras y alfarerías, las que sólo podrán instalarse en los sitios que para tal fin haya designado la autoridad competente, en apego a la normatividad vigente.
 
 ###### Artículo 1731.
 
@@ -17835,17 +18159,21 @@ Los productores a gran escala de ladrillos, cerámica y materiales similares deb
 
 ### CAPÍTULO XII. Protección contra la Contaminación Visual o Producida por Olores, Ruidos, Vibraciones, Radiaciones u otros Agentes Vectores de Energía
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1733.
 
-La Secretaría de Planeación y Desarrollo Municipal, establecerá los procedimientos tendientes a prevenir y controlar la contaminación visual y la provocada por olores, ruidos, vibraciones y energía térmica o lumínica, para ello considerará que:
+La Secretaría de Obras Públicas y Desarrollo Urbano, establecerá los procedimientos tendientes a prevenir y controlar la contaminación visual y la provocada por olores, ruidos, vibraciones y energía térmica o lumínica, para ello considerará que:
 
 La contaminación que es generada por los olores, ruidos, vibraciones, energía térmica y lumínica, entre otros, podrá ser prevenida mediante los dictámenes de impacto ambiental; y
 
 Regulada a través de aplicar las sanciones a toda acción que contribuya a la generación de las emisiones contaminantes antes mencionadas para evitar que rebasen los límites máximos de tolerancia humana, en su caso.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1734.
 
-Toda persona física o moral, pública o privada, que realice actividades industriales, comerciales, de servicios o de cualquier otro tipo, que por su naturaleza produzcan emisiones de olores, ruidos, vibraciones, energía térmica, lumínica y que estén afectando a la población, a la fauna y/o flora, los bienes y /o los ecosistemas, deberán establecer medidas correctivas, instalar dispositivos y aislamientos necesarios para reducir dichas emisiones a niveles tolerables, y de no ser suficiente lo anterior, la Secretaría de Planeación y Desarrollo Municipal, podrá reubicarla o cancelar la licencia de uso especifico de suelo.
+Toda persona física o moral, pública o privada, que realice actividades industriales, comerciales, de servicios o de cualquier otro tipo, que por su naturaleza produzcan emisiones de olores, ruidos, vibraciones, energía térmica, lumínica y que estén afectando a la población, a la fauna y/o flora, los bienes y/o los ecosistemas, deberán establecer medidas correctivas, instalar dispositivos y aislamientos necesarios para reducir dichas emisiones a niveles tolerables, y de no ser suficiente lo anterior, la Secretaría de Obras Públicas y Desarrollo Urbano, podrá reubicarla o cancelar la licencia de uso específico de suelo.
 
 ###### Artículo 1735.
 
@@ -17873,9 +18201,11 @@ II.- Las zonas sujetas a preservación ecológica; y
 
 III.- Las demás que tengan este carácter conforme a las disposiciones legales.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1739.
 
-Con independencia de lo señalado en el artículo precedente, la Secretaría de Planeación y Desarrollo Municipal, podrá realizar estudios previos que fundamenten la expedición de la declaratoria de nuevas áreas naturales que serán protegidas por el Municipio. En caso necesario, podrá solicitar asesoría técnica o legal a las autoridades competentes estatales o federales.
+Con independencia de lo señalado en el artículo precedente, la Secretaría de Obras Públicas y Desarrollo Urbano, podrá realizar estudios previos que fundamenten la expedición de la declaratoria de nuevas áreas naturales que serán protegidas por el Municipio. En caso necesario, podrá solicitar asesoría técnica o legal a las autoridades competentes estatales o federales.
 
 ###### Artículo 1740.
 
@@ -17883,29 +18213,37 @@ El Ayuntamiento está facultado para celebrar convenios con las autoridades esta
 
 ### CAPÍTULO XV. Medidas de Seguridad y Contingencias Ambientales
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1741.
 
-Cuando se presenten emergencias o contingencias ambientales, la Secretaría de Planeación y Desarrollo Municipal, podrá ordenar el aseguramiento de materiales o substancias contaminantes; la clausura temporal, parcial o definitiva de las fuentes contaminantes correspondientes, observando desde luego el marco jurídico estatal y federal relativo a la materia.
+Cuando se presenten emergencias o contingencias ambientales, la Secretaría de Obras Públicas y Desarrollo Urbano, podrá ordenar el aseguramiento de materiales o substancias contaminantes; la clausura temporal, parcial o definitiva de las fuentes contaminantes correspondientes, observando desde luego el marco jurídico estatal y federal relativo a la materia.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1742.
 
-la Secretaría de Planeación y Desarrollo Municipal, podrá solicitar el auxilio de la fuerza pública para efectuar visitas de inspección o para la aplicación de medidas de seguridad, con el objeto de hacer frente de manera inmediata, a la emergencia o contingencia ambiental, cuando se obstaculice la práctica de las diligencias, independientemente de la aplicación de las sanciones que resulten procedentes para quienes se opongan al cumplimiento de las medidas de seguridad.
+la Secretaría de Obras Públicas y Desarrollo Urbano, podrá solicitar el auxilio de la fuerza pública para efectuar visitas de inspección o para la aplicación de medidas de seguridad, con el objeto de hacer frente de manera inmediata, a la emergencia o contingencia ambiental, cuando se obstaculice la práctica de las diligencias, independientemente de la aplicación de las sanciones que resulten procedentes para quienes se opongan al cumplimiento de las medidas de seguridad.
 
 ### CAPÍTULO XVI. Del Manejo de Áreas Verdes
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1743.
 
-Las áreas verdes privadas, excepto las de las casas habitación, serán objeto de vigilancia y control del Municipio, por lo que cualquier acción, creación, manejo, cambio de uso de suelo, derribo de árboles y remoción de la cubierta vegetal, deberá ser previamente autorizada por el Municipio a través de la Secretaría de Planeación y Desarrollo Municipal.
+Las áreas verdes privadas, excepto las de las casas habitación, serán objeto de vigilancia y control del Municipio, por lo que cualquier acción, creación, manejo, cambio de uso de suelo, derribo de árboles y remoción de la cubierta vegetal, deberá ser previamente autorizada por el Municipio a través de la Secretaría de Obras Públicas y Desarrollo Urbano.
 
-Las acciones de derribo y remoción de la vegetación, así como la disposición de los residuos vegetales productos de estas acciones, una vez autorizadas por la Secretaría de Planeación y Desarrollo Municipal, serán responsabilidad del interesado, a quien solo se le dará asesoría al respecto.
+Las acciones de derribo y remoción de la vegetación, así como la disposición de los residuos vegetales productos de estas acciones, una vez autorizadas por la Secretaría de Obras Públicas y Desarrollo Urbano, serán responsabilidad del interesado, a quien solo se le dará asesoría al respecto.
 
 ###### Artículo 1744.
 
 La forestación de parques, camellones y áreas de donación que el Municipio autorice; deberán utilizar especies propias de la región o que se ha comprobado su adaptación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1745.
 
-El derribo, poda, extracción o remoción de vegetación de un área verde, solo podrá efectuarse en los casos siguientes, previa autorización de la Secretaría de Planeación y Desarrollo Municipal:
+El derribo, poda, extracción o remoción de vegetación de un área verde, solo podrá efectuarse en los casos siguientes, previa autorización de la Secretaría de Obras Públicas y Desarrollo Urbano:
 
 I.- Cuando ponga en riesgo la integridad física de personas, bienes o la infraestructura urbana;
 
@@ -17915,21 +18253,25 @@ III.- Cuando la imagen urbana se vea afectada significativamente; y
 
 IV.- Cuando se compruebe que es de utilidad pública.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1746.
 
-Para efectos de la autorización a que se refiere el artículo anterior, los interesados deberán presentar por escrito, en la que expresarán los motivos y circunstancias de la petición. Posteriormente la Secretaría de Planeación y Desarrollo Municipal, realizará inspección en el lugar correspondiente, dictaminando lo conducente para proceder a otorgar o no la autorización.
-
-Siempre que se hubiere otorgado una autorización para el derribo, extracción o remoción de vegetación, ésta quedará condicionada a la reposición del mismo con otra especie u otras especies vegetales propias para el área en cuestión.
+Para efectos de la autorización a que se refiere el artículo anterior, los interesados deberán presentar por escrito, en la que expresarán los motivos y circunstancias de la petición. Posteriormente la Secretaría de Obras Públicas y Desarrollo Urbano, realizará inspección en el lugar correspondiente, dictaminando lo conducente para proceder a otorgar o no la autorización.
 
 ### CAPÍTULO XVII. Inspección y Vigilancia
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1747.
 
-La Secretaría de Planeación y Desarrollo Municipal, podrá ordenar la realización de visitas de inspección ecológica, con el objeto de constatar el cumplimiento de la normatividad ambiental que sean de su competencia.
+La Secretaría de Obras Públicas y Desarrollo Urbano, podrá ordenar la realización de visitas de inspección ecológica, con el objeto de constatar el cumplimiento de la normatividad ambiental que sean de su competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 1748.
 
-Para efectos de verificar e inspeccionar las fuentes contaminantes la Secretaría de Planeación y Desarrollo Municipal, se apegará a las acciones siguientes:
+Para efectos de verificar e inspeccionar las fuentes contaminantes la Secretaría de Obras Públicas y Desarrollo Urbano, se apegará a las acciones siguientes:
 
 I.- Vigilar las áreas ecológicas que así lo requieran y que se encuentren dentro del Municipio;
 
@@ -17957,17 +18299,21 @@ El personal autorizado para la inspección, deberá dejar el original de orden d
 
 Si la persona con quien se entendió la diligencia, se negare a firmar el acta o aceptar copia de la misma, dichas circunstancias se asentarán en ella sin que esto afecte su validez.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1753.
 
-La Secretaría de Planeación y Desarrollo Municipal, con base en el documento de la visita de inspección, dictará las medidas necesarias para exigir a quien corresponda que se corrijan las deficiencias que se hubieren encontrado, fundando y motivando el requerimiento; a su vez notificará al interesado en forma personal, otorgándole un plazo no mayor de quince días hábiles, contados a partir de que surta efectos la legal notificación del proveído, para que manifieste lo que a su derecho convenga y aporte pruebas.
+La Secretaría de Obras Públicas y Desarrollo Urbano, con base en el documento de la visita de inspección, dictará las medidas necesarias para exigir a quien corresponda que se corrijan las deficiencias que se hubieren encontrado, fundando y motivando el requerimiento; a su vez notificará al interesado en forma personal, otorgándole un plazo no mayor de quince días hábiles, contados a partir de que surta efectos la legal notificación del proveído, para que manifieste lo que a su derecho convenga y aporte pruebas.
 
 ###### Artículo 1754.
 
 Dentro del plazo señalado el infractor deberá comunicar el cumplimiento de las medidas ordenadas para subsanar las deficiencias o irregularidades, detallando las acciones que para ello se hubiesen realizado.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 1755.
 
-Si transcurrido el plazo señalado, el infractor o infractores no dieran cumplimiento a lo ordenado por la Secretaría de Planeación y Desarrollo Municipal, procederá a emitir la resolución administrativa en la que se precisarán y ratificarán las violaciones en materia ambiental y las medidas que se deberán adoptar para corregir las deficiencias o irregularidades detectadas, en la que se impondrá la sanción tomando en cuenta la gravedad de la responsabilidad y el incumplimiento.
+Si transcurrido el plazo señalado, el infractor o infractores no dieran cumplimiento a lo ordenado por la Secretaría de Obras Públicas y Desarrollo Urbano, procederá a emitir la resolución administrativa en la que se precisarán y ratificarán las violaciones en materia ambiental y las medidas que se deberán adoptar para corregir las deficiencias o irregularidades detectadas, en la que se impondrá la sanción tomando en cuenta la gravedad de la responsabilidad y el incumplimiento.
 
 ### CAPÍTULO XVIII. Prohibiciones y Obligaciones de la Ciudadanía
 
@@ -22793,17 +23139,23 @@ V.- Cuando no cuente con la respectiva licencia de construcción, o la obra no s
 
 VI.- Cuando no se respeten las afectaciones y las restricciones físicas y de uso impuestas a los predios en la Constancia de Alineamiento y Compatibilidad Urbanística.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 2419.
 
-En caso de que el propietario o poseedor de un predio o de una edificación, no cumpla con las órdenes giradas de reparación, demolición o suspensión de obra, con base en este Código y las demás disposiciones legales aplicables, la Secretaría de Planeación y Desarrollo Municipal, previo dictamen que emita y ordene, estará facultado para ejecutar, a costa del propietario o poseedor, las obras, reparaciones o demoliciones que hayan ordenado; para clausurar y para tomar las demás medidas que considere necesarias, pudiendo hacer uso de la fuerza pública.
+En caso de que el propietario o poseedor de un predio o de una edificación, no cumpla con las órdenes giradas de reparación, demolición o suspensión de obra, con base en este Código y las demás disposiciones legales aplicables, la Secretaría de Obras Públicas y Desarrollo Urbano, previo dictamen que emita y ordene, estará facultado para ejecutar, a costa del propietario o poseedor, las obras, reparaciones o demoliciones que hayan ordenado; para clausurar y para tomar las demás medidas que considere necesarias, pudiendo hacer uso de la fuerza pública.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 2420.
 
-Si el propietario o poseedor del predio en el que la Secretaría de Planeación y Desarrollo Municipal, se vea obligada a ejecutar obras o trabajos conforme a este artículo, se negare a pagar el costo de dichas obras, la Secretaría de Finanzas y Administración del Municipio, efectuará su cobro por medio del procedimiento económico coactivo.
+Si el propietario o poseedor del predio en el que la Secretaría de Obras Públicas y Desarrollo Urbano, se vea obligada a ejecutar obras o trabajos conforme a este artículo, se negare a pagar el costo de dichas obras, la Secretaría de Finanzas y Administración del Municipio, efectuará su cobro por medio del procedimiento económico coactivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 2421.
 
-Independientemente de la imposición de las sanciones pecuniarias a que haya lugar, la Secretaría de Planeación y Desarrollo Municipal, podrá clausurar las obras terminadas cuando ocurra alguna de las circunstancias siguientes:
+Independientemente de la imposición de las sanciones pecuniarias a que haya lugar, la Secretaría de Obras Públicas y Desarrollo Urbano, podrá clausurar las obras terminadas cuando ocurra alguna de las circunstancias siguientes:
 
 I.- Cuando la obra se haya ejecutado sin licencia;
 
@@ -22845,11 +23197,17 @@ c).- Por la falta de placa del perito responsable.
 
 II.- Grupo Dos:
 
-a).- Por tener escombro en la vía pública sin el permiso correspondiente de la Secretaría de Planeación y Desarrollo Municipal;
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
-b).- Por tirar escombro en los lugares no autorizados por la Secretaría de Planeación y Desarrollo Municipal;
+a).- Por tener escombro en la vía pública sin el permiso correspondiente de la Secretaría de Obras Públicas y Desarrollo Urbano;
 
-c).- Ejecutar excavaciones que dificulten el libre tránsito en calles o banquetas ó sin el permiso de la Secretaría de Planeación y Desarrollo Municipal;
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
+b).- Por tirar escombro en los lugares no autorizados por la Secretaría de Obras Públicas y Desarrollo Urbano;
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
+c).- Ejecutar excavaciones que dificulten el libre tránsito en calles o banquetas ó sin el permiso de la Secretaría de Obras Públicas y Desarrollo Urbano;
 
 d).- Por falta de visitas a la obra y firma de bitácora correspondiente, por parte del perito responsable;
 
@@ -22889,9 +23247,11 @@ Las infracciones especificadas en el artículo anterior serán aplicables indist
 
 Para toda violación a las normas y disposiciones municipales en materia de construcciones, no especificadas de manera expresa en el presente Capítulo, se aplicará una multa de cinco a cien veces el salario mínimo, independientemente de la medida de seguridad o arresto atendiendo a la gravedad de la falta que en su caso procedan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 2428.
 
-La Secretaría de Planeación y Desarrollo Municipal, podrá revocar la licencia de construcción cuando:
+La Secretaría de Obras Públicas y Desarrollo Urbano, podrá revocar la licencia de construcción cuando
 
 I.- Se hayan dictado con base en informes o documentos falsos o erróneos o emitidos con dolo o error, una vez comprobado lo anterior;
 
@@ -24098,3 +24458,13 @@ Artículo Segundo.- Publíquese el presente Acuerdo en el Periódico Oficial del
 Artículo Tercero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 Artículo Cuarto.- Cúmplase.ado (sic) en el Salón de Cabildo del Honorable Ayuntamiento de Calvillo, Aguascalientes, a los tres días del mes de Agosto del año de dos mil dieciséis.
+
+P.O. 15 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE CALVILLO, AGS".]
+
+Artículo Segundo (sic).- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Tercero.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Cuarto.- Cúmplase.
