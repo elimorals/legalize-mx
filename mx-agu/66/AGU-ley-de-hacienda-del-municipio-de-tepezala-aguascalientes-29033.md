@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-tepezala-aguascalientes-29033"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "2010-08-23"
+last_updated: "2017-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29033&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE TEPEZALA, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2017.
 
 Ley publicada en la Sección Décima Sexta del Alcance del Periódico Oficial del Estado de Aguascalientes, el martes 31 de diciembre de 1985.
 
@@ -452,15 +452,9 @@ En todo caso, al margen de la matriz y en los testimonios deberá asentarse la c
 
 #### SECCION NOVENA. De las Exenciones
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE JUNIO DE 1995)</small>
-
 ###### ARTICULO 40.
 
-No se pagará el impuesto establecido en esta Ley:
-
-I.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios para formar parte del dominio público, y los Partidos Políticos Nacionales, siempre y cuando dichos inmuebles sean para su propio uso y las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero; y
-
-II.- En las transmisiones de bienes y derechos que por rescisión del contrato vuelvan éstos al enajenante.
+(DEROGADO, P.O. 15 DE MAYO DE 2017)
 
 ### CAPÍTULO III. Del Impuesto sobre Incremento de Valor y Mejoría Específica de la Propiedad
 
@@ -1005,3 +999,11 @@ P.O. 23 DE AGOSTO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 82.- SE DEROGA EL ARTÍCULO 40 DE LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE: CALVILLO, AGS.; COSÍO, AGS.; PABELLÓN DE ARTEAGA, AGS.; RINCÓN DE ROMOS, AGS.; SAN JOSÉ DE GRACIA, AGS.; TEPEZALÁ, AGS.; Y EL ARTÍCULO 65, DE LA LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGS. ”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
