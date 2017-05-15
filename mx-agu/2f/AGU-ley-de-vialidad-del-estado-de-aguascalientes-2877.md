@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "2016-03-21"
+last_updated: "2017-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2017.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -2177,7 +2177,11 @@ III.- Señalar al conductor, la infracción que ha cometido;
 
 IV.- Indicar al conductor que muestre su licencia, tarjeta de circulación y en su caso permiso de ruta de transporte de carga riesgosa;
 
-V.- Levantar, una vez mostrados los documentos, el acta de infracción y entregar al infractor el ejemplar o ejemplares que correspondan. Si el conductor desea que en el acta de infracción se haga constar de una observación de su parte, el agente está obligado a consignarla y permitir que estampe su firma, si así lo solicita;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+
+V.- Levantar, una vez mostrados los documentos, el acta de infracción y entregar al infractor el ejemplar o ejemplares que correspondan. Si el conductor desea que en el acta de infracción se haga constar de (sic) una observación de su parte, el agente está obligado a consignarla y permitir que estampe su firma, si así lo solicita. El agente deberá hacer del conocimiento al infractor de los beneficios de descuento como lo establezca la Ley de Ingresos del Estado de Aguascalientes, así como (sic) lugares autorizados para realizarlo.
+
+Los Ayuntamientos podrán implementar terminales electrónicas móviles que porten los agentes autorizados, al efecto de ofrecer a los conductores la posibilidad de pagar de inmediato el monto de la multa correspondiente, debiendo expedir el comprobante respectivo.
 
 VI.- Entregar el acta de infracción a la autoridad competente para que ésta, luego de oír al interesado, si éste se presenta ante ella dentro de los cinco días hábiles siguientes o sin haberle oído por haber transcurrido el plazo, resuelva imponer la sanción. Su resolución deberá fundarse y motivarse;
 
@@ -2193,7 +2197,11 @@ En este caso los agentes deberán impedir la circulación del vehículo y si se 
 
 Para el caso del párrafo anterior el vehículo no será remitido al depósito vehicular si se cuenta con alguna persona que lo conduzca en términos de esta Ley;
 
-VIII.- Retener algún documento al levantar las infracciones, tratándose de vehículos no registrados en el Estado, con los que se cometan infracciones a la presente Ley, hasta en tanto no se cumplan las sanciones correspondientes; y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+
+VIII.- Retener algún documento al levantar las infracciones, tratándose de vehículos no registrados en el Estado, con los que se cometan infracciones a la presente Ley, hasta en tanto no se cumplan las sanciones correspondientes. El agente deberá hacer del conocimiento al infractor de los beneficios de cómo lo establezca la Ley de Ingresos del Estado de Aguascalientes, así como (sic) lugares autorizados para realizarlo.
+
+Los Ayuntamientos podrán implementar terminales electrónicas móviles que porten los agentes autorizados, al efecto de ofrecer a los conductores la posibilidad de pagar de inmediato el monto de la multa correspondiente, debiendo expedir el comprobante respectivo.
 
 IX.- Mantener en todo momento de la diligencia absoluto respeto hacia el reconvenido.
 
@@ -2875,9 +2883,13 @@ VI.- Motivación y fundamento; y
 
 VII.- Nombre y firma del agente que levanta el acta de infracción o en su caso, número económico de grúa o patrulla.
 
-Los agentes no calificarán infracciones. El ejercicio de esta facultad corresponde al funcionario autorizado por la Dirección o la dependencia municipal correspondiente.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
-El pago de la multa deberá hacerse en cualquiera de las oficinas autorizadas por la autoridad competente estatal o municipal, según corresponda. Los recordatorios que envíe dicha autoridad al domicilio del presunto infractor, relativas al pago de las multas, deberán contener los datos que permiten identificar plenamente la infracción.
+El ejercicio de la facultad de calificar las infracciones, corresponderá a los agentes y funcionarios autorizados por la Secretaría de Seguridad Pública Estatal o la dependencia municipal correspondiente.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
+El pago de la multa deberá hacerse en cualquiera de las oficinas autorizadas por la autoridad competente estatal o municipal, según corresponda o a través de las terminales electrónicas móviles que portarán los agentes autorizados. Los recordatorios que envíe dicha autoridad al domicilio del presunto infractor, relativas (sic) al pago de las multas, deberán contener los datos que permiten identificar plenamente la infracción.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
@@ -3182,3 +3194,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 ###### ARTICULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones normativas o reglamentarias que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 81.- REFORMA A LA LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellos Ayuntamientos que deseen implementar el uso de terminales electrónicas móviles deberán realizar las modificaciones necesarias a sus normas en materia de tránsito y vialidad de manera previa a su ejecución.
+
+###### ARTÍCULO TERCERO.
+
+En su caso, el Poder Ejecutivo Estatal y los ayuntamientos deberán disponer lo necesario para que los agentes autorizados puedan utilizarlas (sic) terminales electrónicas móviles y la contratación del servicio de las terminales electrónicas móviles serán contratadas como lo señala la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios.
