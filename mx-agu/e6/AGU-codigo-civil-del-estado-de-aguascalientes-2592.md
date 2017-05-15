@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2016-11-07"
+last_updated: "2017-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2017.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -3079,9 +3079,9 @@ En la relación entre ascendientes y descendientes debe imperar el respeto y la 
 
 Quién ejerza la patria potestad, debe procurar el respeto y el acercamiento constante de los menores con el otro ascendiente, en consecuencia, cada uno de los ascendientes deberá evitar cualquier acto de alienación parental.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
-Se entiende por alienación parental la manipulación o inducción que un progenitor realiza hacia su menor hijo, mediante la desaprobación o crítica tendiente a obtener la denigración exagerada y/o injustificada del otro progenitor para producir en el menor, rechazo, rencor, odio o desprecio hacia éste.
+Se entiende por alienación parental la manipulación o inducción que un progenitor realiza hacia su menor hijo, mediante la desaprobación o crítica tendiente a obtener denigración exagerada y/o injustificada del otro progenitor para producir en el menor, rechazo, rencor, odio o desprecio hacia éste, y/o con el objeto de impedir, obstaculizar o destruir sus vínculos con uno de sus progenitores.
 
 > <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
 
@@ -17122,3 +17122,11 @@ P.O. 7 DE NOVIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 83.- SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 434 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en la (sic) Periódico Oficial del Estado de Aguascalientes.
