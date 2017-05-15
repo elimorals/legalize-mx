@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-2902
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-16"
-last_updated: "2012-03-05"
+last_updated: "2017-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1995.
 
@@ -525,7 +525,7 @@ Responden solidariamente del pago del impuesto a la propiedad raíz:
 
 I.- Los promitentes vendedores, quienes vendan con reserva de dominio o sujetos a condición;
 
-II.- Los nudo-propietarios; (sic)
+II.- Los nudo-propietarios;
 
 III.- Los fiduciarios respecto de los bienes sujetos al fideicomiso;
 
@@ -789,11 +789,9 @@ DE LAS EXENCIONES
 
 No se pagará el impuesto establecido en esta Ley:
 
-(NOTA: EL 17 DE FEBRERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 101/2008, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2008)</small>
-
-I.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios para formar parte del dominio público, Y LOS PARTIDOS POLÍTICOS NACIONALES, SIEMPRE Y CUANDO DICHOS INMUEBLES SEAN PARA SU PROPIO USO; y
+I.- En las adquisiciones de inmuebles que hagan la Federación, el Estado o el Municipio, para formar parte del dominio público, siempre y cuando dichos inmuebles sean para su propio uso; y
 
 II.- En las transmisiones de bienes y derechos que por rescisión del contrato vuelvan estos al enajenante.
 
@@ -1678,3 +1676,11 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 En tanto se realizan las adecuaciones derivadas del presente Decreto, las referencias normativas a la Dirección de Finanzas, se deberán entender como referidas a la Dirección de Finanzas y Administración.
+
+P.O. 15 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 82.- SE DEROGA EL ARTÍCULO 40 DE LAS LEYES DE HACIENDA DE LOS MUNICIPIO (SIC) DE: CALVILLO, AGS.; COSÍO, AGS.; PABELLÓN DE ARTEAGA, AGS; RINCÓN DE ROMOS, AGS.; SAN JOSÉ DE GRACIA, AGS.; TEPEZALÁ, AGS.; Y EL ARTÍCULO 65, DE LA LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGS.".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
