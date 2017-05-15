@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-anticorrupcion-de-aguascalientes-121265
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-08"
-last_updated: "2017-05-08"
+last_updated: "2017-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY DEL SISTEMA ESTATAL ANTICORRUPCION DE AGUASCALIENTES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE MAYO DE 2017 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE MAYO DE 2017.]</small>
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de mayo de 2017.
 
@@ -75,7 +75,7 @@ I.- Autoridades o Entes Públicos: los Poderes Ejecutivo, Legislativo y Judicial
 
 II.- Comisión de Selección: la que se constituye en términos de esta Ley para nombrar a los integrantes del Comité de Participación Ciudadana Estatal;
 
-III.- Comisión Ejecutiva: Órgano técnico auxiliar de la Secretaría Ejecutiva del Sistema Estatal;
+III.- Comisión Ejecutiva: órgano técnico auxiliar de la Secretaría Ejecutiva del Sistema Estatal;
 
 IV.- Comité Coordinador: la instancia a la que hace referencia el Artículo 82 B, Fracción I de la Constitución Política del Estado de Aguascalientes, encargada de la coordinación y eficacia del Sistema Estatal;
 
@@ -93,7 +93,9 @@ X.- Órganos Internos de Control: los Órganos encargados del control interno en
 
 XI.- Plataforma Digital Estatal: el conjunto de mecanismos de recopilación, sistematización y procesamiento de información en formato de datos abiertos que genere e incorpore el Estado de Aguascalientes a la Plataforma Digital Nacional;
 
-XII.- Plataforma Digital Nacional: el conjunto de mecanismos de recopilación, sistematización y procesamiento de información del Sistema Nacional estará conformada por la información que a ella incorporen las autoridades integrantes del Sistema Nacional, a que hace referencia la Ley General; y
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+XII.- Plataforma Digital Nacional: el conjunto de mecanismos de recopilación, sistematización y procesamiento de información del Sistema Nacional estará conformada por la información que a ella incorporen las autoridades integrantes del Sistema Nacional, a que hace referencia la Ley General;
 
 XIII.- Secretaría Ejecutiva: el organismo que funge como órgano de apoyo técnico del comité Coordinador Estatal;
 
@@ -125,7 +127,7 @@ Los entes públicos están obligados a crear y mantener condiciones estructurale
 
 ## TÍTULO SEGUNDO. EL SISTEMA ESTATAL ANTICORRUPCIÓN
 
-### CAPÍTULO I. El Objeto del Sistema Estatal Anticorrupción
+### CAPÍTULO l. El Objeto del Sistema Estatal Anticorrupción
 
 ###### Artículo 6°.
 
@@ -241,7 +243,7 @@ VIII.- Presentar para su aprobación y publicar, el informe anual de resultados 
 
 IX.- Presentar para su aprobación al Comité Coordinador los proyectos de recomendaciones en materia de prevención y combate a la corrupción, y
 
-X.- Aquellas que preven las reglas de funcionamiento y organización interna del Comité Coordinador.
+X.- Aquellas que prevén las reglas de funcionamiento y organización interna del Comité Coordinador.
 
 ###### Artículo 13.
 
@@ -289,9 +291,11 @@ En la conformación del Comité de Participación Ciudadana se procurará que pr
 
 Los integrantes del Comité de Participación Ciudadana serán nombrados conforme al siguiente procedimiento:
 
-I.- El Congreso del Estado constituirá una Comisión de Selección integrada por nueve mexicanos, residentes del Estado, por un período de tres años, de la siguiente manera:
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
 
-II.- La Comisión Ordinaria Legislativa de Postulaciones expedirá la convocatoria respectiva, noventa días naturales antes del término del encargo de los miembros Comisión de Selección en funciones, la cual deberá:
+I.- El Congreso del Estado constituirá una Comisión de Selección integrada por nueve mexicanos, residentes del Estado, por un período de tres años;
+
+II.- La Comisión Ordinaria Legislativa de Postulaciones expedirá la convocatoria respectiva, noventa días naturales antes del término del encargo de los miembros (sic) Comisión de Selección en funciones, la cual deberá:
 
 a) Convocar a las instituciones de educación superior y de investigación del Estado, para proponer candidatos a fin de integrar la Comisión de Selección, para lo cual deberán enviar los documentos que acrediten el perfil solicitado en la convocatoria, para su respectivo registro, en un plazo no mayor de quince días naturales, para seleccionar a cinco miembros basándose en los elementos decisorios plasmados en la convocatoria, tomando en cuenta que se hayan destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción; y
 
@@ -299,7 +303,7 @@ b) Convocará a organizaciones de la sociedad civil que tengan experiencia compr
 
 Concluido el plazo a que hacen referencia los incisos que anteceden, la Comisión Ordinaria Legislativa de Postulaciones, podrá llamar a comparecer a las personas registradas, si así lo estima necesario, pero deberá rendir en un plazo máximo de cinco días naturales, un Informe al Pleno Legislativo para su designación por mayoría relativa. Dicha designación deberá realizarse dentro de los diez días siguientes a la aprobación del Informe;
 
-El cargo de miembro de la Comisión de selección será honorifico. Quienes funjan como miembros no podrán ser designados como integrantes del Comité de Participación Ciudadana por un período de seis años contados a partir de la disolución de la Comisión de Selección en que fue miembro; y
+El cargo de miembro de la Comisión de selección será honorifico. Quienes funjan como miembros no podrán ser designados como integrantes del Comité de Participación Ciudadana por un periodo de seis años contados a partir de la disolución de la Comisión de Selección en que fue miembro; y
 
 III.- La Comisión de Selección deberá emitir una convocatoria, con el objeto de realizar una amplia consulta pública en el Estado, dirigida a toda la sociedad, para que presenten sus postulaciones de aspirantes a ocupar el cargo.
 
@@ -307,7 +311,9 @@ Para ello, definirá la metodología, plazos y criterios de selección de los in
 
 a) El método de registro y evaluación de los aspirantes;
 
-b) Hacer pública la lista de las y los aspirantes;
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+b) Hacer pública la lista de los aspirantes;
 
 c) Hacer públicos los documentos que hayan sido entregados para su inscripción en versiones públicas;
 
@@ -379,13 +385,15 @@ XVIII.- Proponer al Comité Coordinador mecanismos para facilitar el funcionamie
 
 ###### Artículo 22.
 
-El Presidente del comité de Participación Ciudadana tendrá como atribuciones:
+El Presidente del Comité de Participación Ciudadana tendrá como atribuciones:
 
 I.- Convocar y Presidir las sesiones de dicho Comité;
 
 II.- Representar políticamente a dicho Comité ante el Comité Coordinador;
 
-III.- Preparar el orden del día, de los temas a tratar, y
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+III.- Preparar el orden del día, de los temas a tratar,
 
 IV.- Garantizar el seguimiento de los acuerdos aprobados por dicho Comité, y aquellos que deriven del propio programa de trabajo anual;
 
@@ -479,7 +487,7 @@ IV.- Los mecanismos de suministro, intercambio, sistematización y actualizació
 
 V.- El informe anual que contenga los avances y resultados del ejercicio de las funciones y de la aplicación de las políticas y programas en la materia;
 
-VI.- EI establecimiento de los mecanismos que coadyuven a la mejor coordinación con el Sistema Nacional de Información a que hace referencia la Ley General;
+VI.- El establecimiento de los mecanismos que coadyuven a la mejor coordinación con el Sistema Nacional de Información a que hace referencia la Ley General;
 
 VII.- Las recomendaciones no vinculantes que serán dirigidas a las autoridades que se requieran, en virtud de los resultados advertidos en el informe anual, así como el informe de seguimiento que contenga los resultados sistematizados de la atención dada por las autoridades a dichas recomendaciones, y
 
@@ -643,7 +651,7 @@ Para tal fin, el Sistema Estatal de Fiscalización fomentará el establecimiento
 
 ###### Artículo 44.
 
-EI Sistema Estatal de Fiscalización propiciará el intercambio de información que coadyuve al desarrollo de sus respectivas funciones, conforme a lo dispuesto en el Título Quinto de esta Ley.
+El Sistema Estatal de Fiscalización propiciará el intercambio de información que coadyuve al desarrollo de sus respectivas funciones, conforme a lo dispuesto en el Título Quinto de esta Ley.
 
 ###### Artículo 45.
 
@@ -709,7 +717,9 @@ XI.- Seguir la normatividad que el Comité Rector del Sistema Nacional de Fiscal
 
 Todos los entes públicos fiscalizadores y fiscalizados deberán apoyar en todo momento al Sistema Nacional de Fiscalización para la implementación de mejoras para la fiscalización de los recursos federales y locales.
 
-Todos los entes públicos fiscalizadores y fiscalizados del Estado de Puebla y sus Municipios, deberán apoyar en todo momento al Sistema Nacional de Fiscalización para la implementación de mejoras para la fiscalización de los recursos federales y locales.
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+
+Todos los entes públicos fiscalizadores y fiscalizados del Estado y los Municipios, deberán apoyar en todo momento al Sistema Nacional de Fiscalización para la implementación de mejoras para la fiscalización de los recursos federales y locales.
 
 ###### Artículo 50.
 
