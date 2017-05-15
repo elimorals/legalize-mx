@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-pabellon-de-arteaga-29027"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "2010-08-23"
+last_updated: "2017-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE PABELLON DE ARTEAGA, AGUASCALIENTES
 
-LEY DE HACIENDA DEL MUNICIPIO DE PABELLON DE ARTEAGA, AGS.
+LEY DE HACIENDA DEL MUNICIPIO DE PABELLÓN DE ARTEAGA, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2017.
 
 Ley publicada en el Alcance de la Sección Décima del Periódico Oficial del Estado de Aguascalientes, el martes 31 de diciembre de 1985.
 
@@ -227,13 +227,13 @@ Si transcurrido dicho plazo, no se expresan los datos o no se presentan los docu
 
 #### SECCIÓN PRIMERA. DEL OBJETO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 ###### ARTÍCULO 22.
 
 Será objeto de este impuesto:
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 23 DE AGOSTO DE 2010)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de Asociaciones o Sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal. Siempre que sean inmuebles de propiedad de los copropietarios o de los cónyuges;
 
@@ -453,15 +453,9 @@ En todo caso, al margen de la matriz y en los testimonios deberá asentarse la c
 
 #### SECCION NOVENA. De las Exenciones
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1995)</small>
-
 ###### ARTICULO 40.
 
-No se pagará el impuesto establecido en esta Ley:
-
-I.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios para formar parte del dominio público, y los Partidos Políticos Nacionales, siempre y cuando dichos inmuebles sean para su propio uso y las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero; y
-
-II.- En las transmisiones de bienes y derechos que por rescisión del contrato vuelvan éstos al enajenante.
+(DEROGADO, P.O. 15 DE MAYO DE 2017)
 
 ### CAPITULO III. Del Impuesto Sobre Incremento de Valor y Mejoría Específica de la Propiedad
 
@@ -695,7 +689,7 @@ Este impuesto se causará y pagará de conformidad con lo que al efecto señale 
 
 ## TITULO SEGUNDO. DE LOS DERECHOS
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2006)</small>
 
 ### CAPITULO PRIMERO (SIC). Por Servicios de Alumbrado Público
 
@@ -753,7 +747,7 @@ ARTICULO 67 I.- El Ayuntamiento deberá someter de igual forma a la aprobación 
 
 ARTICULO 67 J.- La determinación del crédito fiscal individual de cada contribuyente, se calculará aplicando las siguientes fórmulas:
 
-(VEASE ARCHIVO ANEXO)
+(VEÁSE ARCHIVO ANEXO)
 
 En Donde
 
@@ -831,7 +825,7 @@ ARTICULO 67 L.- La Federación, Estado y Municipios, estarán exentos de esta co
 
 ARTICULO 67 M.- El Presidente Municipal podrá realizar descuentos al costo de los Derechos por el Servicio de Alumbrado Público en los porcentajes y supuestos que sean previstos en la Ley de Ingresos.
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. ANTES SECCION UNICA], P.O. 31 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ANTES SECCIÓN ÚNICA], P.O. 31 DE DICIEMBRE DE 2006)</small>
 
 ### CAPITULO SEGUNDO
 
@@ -983,11 +977,11 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Joaquín Cruz Ramírez.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 11 DE AGOSTO DE 1991.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 3 DE JULIO DE 1994.
 
@@ -1005,7 +999,7 @@ Las Asociaciones Religiosas constituidas en los términos de la Ley de Asociacio
 
 P.O. 21 DE ENERO DE 1996.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 31 DE DICIEMBRE DE 2006.
 
@@ -1024,3 +1018,11 @@ P.O. 23 DE AGOSTO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 82.- SE DEROGA EL ARTÍCULO 40 DE LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE: CALVILLO, AGS.; COSÍO, AGS.; PABELLÓN DE ARTEAGA, AGS.; RINCÓN DE ROMOS, AGS.; SAN JOSÉ DE GRACIA, AGS.; TEPEZALÁ, AGS.; Y EL ARTÍCULO 65, DE LA LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGS. ”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
