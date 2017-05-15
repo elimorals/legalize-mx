@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2016-08-15"
+last_updated: "2017-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -187,9 +187,9 @@ V.- El propiciar un estado de riesgo de las mujeres.
 
 Los modelos de atención, prevención y sanción que establezcan el Estado y los Municipios, son el conjunto de medidas y acciones con perspectiva de género para proteger a las víctimas de violencia familiar, que garanticen a las mujeres su seguridad y el ejercicio pleno de sus derechos fundamentales. Para ello deberán tomar en consideración:
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
 
-I.- Proporcionar a las víctimas atención, asesoría jurídica y tratamiento psicológico especializado y gratuito que favorezcan la disminución de la conducta violenta y reparen el daño causado por dicha violencia;
+I.- Proporcionar a las víctimas atención, asesoría jurídica y tratamiento psicológico especializado y gratuito que favorezcan su empoderamiento, la disminución de la conducta violenta y reparen el daño causado por dicha violencia;
 
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
 
@@ -697,7 +697,9 @@ X.- Coadyuvar en la promoción de los derechos fundamentales de las mujeres;
 
 XI.- Formular la política de desarrollo social del Estado considerando la igualdad de las mujeres y su plena participación en el ámbito social;
 
-XII.- Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+
+XII.- Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para lograr el empoderamiento de las mujeres y la eliminación de las brechas y desventajas de género;
 
 XIII.- Promover políticas de prevención y atención de la violencia contra las mujeres;
 
@@ -1171,8 +1173,14 @@ P.O. 1 DE AGOSTO DE 2016.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
-P.O. 15 DE AGOSTO DE 2016
+P.O. 15 DE AGOSTO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 692 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "D E C R E T O NUM. 177 QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 8; Y LA FRACCIÓN XII DEL ARTÍCULO 42, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
