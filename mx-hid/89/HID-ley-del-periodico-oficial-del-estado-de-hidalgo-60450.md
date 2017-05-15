@@ -4,7 +4,7 @@ identifier: "HID-ley-del-periodico-oficial-del-estado-de-hidalgo-60450"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-10"
-last_updated: "2014-12-22"
+last_updated: "2017-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de marzo de 2008.
 
@@ -239,9 +239,11 @@ En ningún caso se publicará documento alguno, cualquiera que sea su naturaleza
 
 Para los efectos de la venta del Periódico Oficial, la Autoridad competente fijará el precio por ejemplar, para distribuidores y el público en general, celebrando el Estado convenios con los Municipios y fijando modalidades para el suministro y venta a los distribuidores.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+
 ###### Artículo 17°.
 
-Para proceder a la publicación de los documentos de personas físicas, morales y particulares, así como oficiales, Leyes, Decretos, Reglamentos y demás disposiciones Administrativas Municipales, deberán pagarse los derechos que establece la Ley de Hacienda del Estado.
+Para proceder a la publicación de los documentos de personas físicas, morales y particulares, así como oficiales, Leyes, Decretos, Reglamentos y demás disposiciones Administrativas Municipales, deberán pagarse los derechos que establece la Ley Estatal de Derechos.
 
 ### CAPÍTULO SEXTO. DE LA FE DE ERRATAS
 
@@ -308,3 +310,9 @@ PRIMERO. El presente Decreto entrará en vigor dentro de los noventa días poste
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a las contenidas en el presente Decreto.
 
 TERCERO. El Reglamento de la Ley del Periódico Oficial del Estado de Hidalgo, se expedirá dentro de los ciento veinte días posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 15 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 178 POR EL QUE SE QUE (SIC) REFORMA EL ARTÍCULO 17 DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
