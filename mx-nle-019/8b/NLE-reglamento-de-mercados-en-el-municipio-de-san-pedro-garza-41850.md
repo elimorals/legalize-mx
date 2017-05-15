@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-mercados-en-el-municipio-de-san-pedro-garza-41850
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-07-12"
-last_updated: "1991-07-12"
+last_updated: "2017-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE MERCADOS EN EL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 12 de julio de 1991.
 
@@ -83,9 +83,13 @@ VI.- Llevar el registro y control de los comerciantes de los mercados públicos 
 
 VII.- Vigilar el reporte de infracciones al presente Reglamento y coordinar a los inspectores del ramo;
 
-VIII.- Determinar de acuerdo con la dirección de Urbanismo y Planificación del Municipio, las zonas de mercado en el Municipio;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
 
-IX.- Requerir y acordar con la Dirección de Urbanismo y Planificación del Municipio, el mantenimiento, construcción, reparación ó modificación de los mercados propiedad del Municipio;
+VIII.- Determinar de acuerdo con la Dirección de Planeación Urbana del Municipio, las zonas de mercado en el Municipio;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+
+IX.- Requerir y acordar con la Dirección de Planeación Urbana del Municipio, el mantenimiento, construcción, reparación o modificación de los mercados propiedad del Municipio;
 
 X.- Vigilar los mercados públicos que no sean propiedad del Municipio;
 
@@ -272,3 +276,11 @@ ING. MAURICIO FERNANDEZ G.
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 C.P. JESUS GUZMAN SEPULVEDA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBA LA REFORMA, ADICIÓN Y DEROGACIÓN DE DIVERSOS DISPOSITIVOS DEL REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL REPUBLICANO AYUNTAMIENTO; DEL REGLAMENTO PARA LA PREVENCIÓN Y COMBATE AL ABUSO DEL ALCOHOL Y DE REGULACIÓN PARA SU VENTA Y CONSUMO; DEL REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DE LOS MERCADOS RODANTES Y EL EJERCICIO DEL COMERCIO AMBULANTE; DEL REGLAMENTO DE MERCADOS Y DEL REGLAMENTO DE EVENTOS, TODOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, N.L.".]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
