@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-obras-publicas-del-estado-de-campeche-3602"
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-31"
-last_updated: "2016-11-10"
+last_updated: "2017-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY DE OBRAS PUBLICAS DEL ESTADO DE CAMPECHE
 
-LEY DE OBRAS PUBLICAS DEL ESTADO DE CAMPECHE
+LEY DE OBRAS PÚBLICAS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Campeche, el viernes 31 de agosto de 1984.
 
@@ -513,6 +513,10 @@ En la fecha señalada la contratante bajo su responsabilidad recibirá los traba
 
 Concluida la obra, no obstante su recepción formal, el contratista quedará obligado a responder de los defectos que resultaren en la misma, de los vicios ocultos y de cualquiera otra responsabilidad en que hubiere incurrido, en los términos señalados en el contrato respectivo, en esta Ley y en el Código Civil para el Estado de Campeche.
 
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2017)</small>
+
+El contratista garantizará los trabajos dentro de los quince días hábiles siguientes a la recepción formal de los mismos, mediante fianza equivalente hasta de un veinte por ciento del monto total ejercido para responder de los defectos que resulten de la realización de los trabajos de vicios ocultos en los mismos, o de cualquiera otra responsabilidad en que hubiere incurrido en su ejecución. La vigencia de esta garantía podrá ser de hasta por tres años contados a partir de la fecha de terminación de los trabajos, lo que se hará constar en el acta de recepción formal de la obra. En caso de presentarse vicios ocultos, dentro del periodo de garantía, la dependencia o entidad deberá comunicarlo de inmediato y por escrito al contratista y a la afianzadora.
+
 ###### ARTICULO 46.
 
 (DEROGADO, P.O. 14 DE JULIO DE 1993)
@@ -788,3 +792,11 @@ P.O. 10 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente decreto entrará en vigor a los diez días siguientes al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 15 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 147 POR EL QUE "SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 45 DE LA LEY DE OBRAS PÚBLICAS DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrara en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
