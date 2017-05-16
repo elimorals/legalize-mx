@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-116656"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-09-27"
-last_updated: "2017-04-20"
+last_updated: "2017-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2017 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE MAYO DE 2017.]</small>
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -1424,6 +1424,24 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 P.O. 20 DE ABRIL DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIII-153 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 37 FRACCIÓN XII; Y SE DEROGA LA FRACCIÓN XLVI DEL ARTÍCULO 36, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+> <small>(F. DE E., P.O. 16 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+> <small>(F. DE E., P.O. 16 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+> <small>(F. DE E., P.O. 16 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO TERCERO.
+
+De conformidad con el artículo 4 de la Ley de Entidades Paraestatales del Estado, la Administración Portuaria Integral de Tamaulipas, S.A. de C.V., será coordinada administrativamente por el Organismo Público Descentralizado del Gobierno del Estado, denominado Comisión de Energía de Tamaulipas.
 
 ###### ARTÍCULO ÚNICO.
 
