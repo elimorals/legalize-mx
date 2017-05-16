@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-consejo-de-la-judicatura-del-estado-835
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-31"
-last_updated: "2013-07-03"
+last_updated: "2017-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 3 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE MAYO DE 2017.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 31 de octubre de 2011.
 
@@ -35,7 +35,9 @@ PODER JUDICIAL DEL ESTADO DE MÉXICO
 
 CONSEJO DE LA JUDICATURA
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 V. Con fundamento en los artículos 106 y 109 párrafo segundo de la Constitución Política del Estado Libre y Soberano de México; 52, 63 fracciones XVI, XXIII y XXXVI de la Ley Orgánica del Poder Judicial del Estado, el Consejo de la Judicatura del Estado emite el siguiente:
 
@@ -545,11 +547,11 @@ VIII. Las demás que se desprendan de las disposiciones legales aplicables y las
 
 ###### Artículo 37.
 
-La Dirección de (sic) General Administración (sic), además de las atribuciones que le señala la Ley Orgánica, tendrá las siguientes:
+La Dirección de General (sic) Administración, además de las atribuciones que le señala la Ley Orgánica, tendrá las siguientes:
 
 I. Administrar los recursos humanos y materiales del Poder Judicial con base en los lineamientos, prioridades y objetivos que establezca el Consejo;
 
-II. Aplicar al interior de institución (sic) las políticas, normas, sistemas, procedimientos y programas en materia de Administración y Desarrollo del Personal, de Organización, de Sistemas Administrativos, de Información y Servicios Generales, de conformidad con la normatividad aplicable y los que emita el Consejo.
+II. Aplicar al interior de (sic) institución las políticas, normas, sistemas, procedimientos y programas en materia de Administración y Desarrollo del Personal, de Organización, de Sistemas Administrativos, de Información y Servicios Generales, de conformidad con la normatividad aplicable y los que emita el Consejo.
 
 III. Coadyuvar en los procesos de adquisición de bienes, contratación de servicios y arrendamiento de bienes inmuebles, observando al efecto las disposiciones jurídicas y administrativas aplicables;
 
@@ -579,7 +581,17 @@ III. Auxiliar al Comité de Arrendamientos, Adquisiciones de Inmuebles y Enajena
 
 IV. Coordinar con el área interna de protección civil, las actividades de capacitación del personal y análisis de riesgos en los inmuebles con que cuenta el Poder Judicial; y
 
-V. Las demás que se desprendan de las disposiciones legales aplicables y las que expresamente le sean conferidas por su superior jerárquico.
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2017)</small>
+
+V. Dirigir y supervisar los almacenes.
+
+> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2017)</small>
+
+VI. Dirigir, supervisar y llevar el control del suministro de combustible; mantenimiento, conservación y adecuado funcionamiento de las unidades que conforman el parque vehicular del Poder Judicial del Estado de México.
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN V], G.G. 16 DE MAYO DE 2017)
+
+VII. Las demás que se desprendan de las disposiciones legales aplicables y las que expresamente le sean conferidas por su superior jerárquico.
 
 ###### Artículo 39.
 
@@ -900,3 +912,13 @@ G.G. 3 DE JULIO DE 2013.
 PRIMERO. Publíquese este acuerdo en el Periódico Oficial del Gobierno del Estado "Gaceta del Gobierno", en el Boletín Judicial y en la página de internet de esta Institución.
 
 SEGUNDO. Este acuerdo entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 16 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL DIECISÉIS DE MARZO DE DOS MIL DIECISIETE POR EL QUE SE REFORMA EL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE MÉXICO, LOS LINEAMIENTOS PARA LA ASIGNACIÓN DE COMBUSTIBLE A LOS ADMINISTRADORES DE JUZGADOS DE CONTROL, Y DE JUICIO ORAL DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE MÉXICO Y EL REGLAMENTO PARA LA OPERACIÓN Y USO DE LAS UNIDADES DE TRANSPORTE DE PERSONAL DEL PODER JUDICIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese este acuerdo en el Periódico Oficial “Gaceta del Gobierno” del Estado, en el Boletín Judicial y en la página de internet de esta Institución.
+
+SEGUNDO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado.
+
+TERCERO.- Se instruye a la Dirección de Control Patrimonial y a la Secretaría General de Acuerdos para que realicen la actualización de los ordenamientos señalados en este acuerdo.
