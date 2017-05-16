@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2016-10-28"
+last_updated: "2017-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2017.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -135,9 +137,11 @@ Se publicarán en el Periódico Oficial del Gobierno del Estado, aquellos conven
 
 Las leyes que el Poder Ejecutivo promulgue, deberán estar firmadas para su cumplimiento por el Gobernador del Estado, y contar con el refrendo del Secretario de Gobierno o por quien haga sus veces; tratándose de los decretos, reglamentos y demás disposiciones de carácter general que expida deberán contar con el refrendo del Secretario de Gobierno y de los Secretarios del ramo al que el asunto corresponda.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
+
 ###### Artículo 10.
 
-Forman parte de la Administración Pública, el Tribunal de lo Contencioso Administrativo, el Tribunal de Conciliación y Arbitraje y las Juntas Locales de Conciliación y Arbitraje. Su relación con el Poder Ejecutivo será de orden administrativo; su organización, estructura y funcionamiento estarán sujetos a lo señalado en las leyes, reglamentos o decretos que los creen.
+Forman parte de la Administración Pública, el Tribunal de Conciliación y Arbitraje y las Juntas Locales de Conciliación y Arbitraje. Su relación con el Poder Ejecutivo será de orden administrativo; su organización, estructura y funcionamiento estarán sujetos a lo señalado en las leyes, reglamentos o decretos que los creen.
 
 ###### Artículo 11.
 
@@ -221,6 +225,14 @@ Los titulares de las Secretarías serán nombrados por el Gobernador del Estado,
 
 El Procurador General de Justicia será nombrado por el Gobernador con la ratificación del Congreso del Estado.
 
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2017)</small>
+
+El titular de la Secretaría de la Transparencia y Rendición de Cuentas será nombrado por el Gobernador del Estado con la ratificación de las dos terceras partes de los integrantes del Congreso del Estado; en tanto se apruebe el nombramiento aquél, podrá designar un encargado de despacho. La persona que nombre el Gobernador del Estado, no podrá ser o haber sido dirigente de partido o asociación política a nivel nacional, estatal o municipal o candidato a un puesto de elección popular, ni ministro de ningún culto religioso, en los cinco años anteriores a su nombramiento.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2017)</small>
+
+El nombramiento del titular de la Secretaría de la Transparencia y Rendición de Cuentas que someta el Gobernador del Estado a ratificación del Congreso del Estado, deberá estar acompañado de la declaración de interés de la persona propuesta, en los términos previstos en la Ley de la materia.
+
 Para auxiliar a los titulares de las Secretarías, el Gobernador del Estado podrá designar Subsecretarios del ramo, los cuales tendrán las atribuciones que el reglamento interior correspondiente establezca, mismas que no excederán las atribuciones conferidas por la Ley.
 
 Los titulares de las Secretarías, en sus ausencias temporales serán suplidos en los términos que señale su reglamento interior.
@@ -255,15 +267,11 @@ El Procurador General de Justicia rendirá protesta ante el Congreso del Estado,
 
 Al término de su gestión, los titulares de las dependencias deberán realizar la entrega-recepción con los servidores públicos que inician su función, en los términos que señala esta Ley y demás disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 22.
 
 Las Dependencias del Poder Ejecutivo tendrán las siguientes obligaciones:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -271,9 +279,9 @@ I.- Formular los anteproyectos de leyes, reglamentos, decretos y acuerdos para r
 
 II.- Proponer al Gobernador del Estado las políticas y programas relativos a la materia que les corresponda de acuerdo con sus atribuciones, de conformidad con los planes nacional y estatal de desarrollo; y
 
-III.- Elaborar y difundir los manuales de organización, de procedimientos y de servicios al público, necesarios para su funcionamiento. Estos instrumentos de apoyo contendrán información sobre los principales procedimientos administrativos que se establezcan para facilitar la prestación del servicio.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+III.- Elaborar y difundir los manuales de organización, de procedimientos y de servicios al público, necesarios para su funcionamiento. Estos instrumentos de apoyo contendrán información sobre los procedimientos administrativos que se establezcan para facilitar la prestación del servicio. Los manuales de organización deberán publicarse en el Periódico Oficial del Gobierno del Estado, y los de procedimientos y de servicios al público deberán estar disponibles para consulta de los usuarios y de los propios servidores públicos, en medios electrónicos institucionales.
 
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1131,155 +1139,95 @@ d). Realizar los trámites que le corresponden al ejecutivo del Estado derivados
 
 V.- Las demás que le señalen las leyes y reglamentos aplicables en la entidad o que le asigne legalmente el Gobernador del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
 
 ###### Artículo 32.
 
-La Secretaría de la Transparencia y Rendición de Cuentas es la dependencia encargada de llevar a cabo la vigilancia, seguimiento y evaluación de las dependencias y entidades, promoviendo la participación ciudadana en dichas funciones, así como de la prevención de conductas constitutivas de responsabilidad administrativa de los servidores públicos, y en su caso, la aplicación del derecho disciplinario, y le competen las siguientes atribuciones:
+La Secretaría de la Transparencia y Rendición de Cuentas es la dependencia encargada de llevar a cabo y evaluar el control interno de las dependencias y entidades, promoviendo la participación ciudadana en dichas funciones, así como de la prevención de conductas constitutivas de responsabilidad administrativa, y en su caso, la aplicación del derecho disciplinario, y le competen las siguientes atribuciones:
 
-I.- En materia de control interno:
+I. En materia de control interno y fiscalización:
 
-a) Establecer y coordinar el sistema de control de la eficiencia en la aplicación del gasto público, de evaluación respecto del presupuesto de egresos y las políticas en los programas gubernamentales, así como de los ingresos y del uso de los recursos patrimoniales de propiedad o al cuidado del Gobierno del Estado;
+a) Organizar y coordinar el sistema de control interno y la evaluación de la gestión gubernamental; inspeccionar el ejercicio del gasto público estatal y su congruencia con el presupuesto de egresos, así como concertar con las dependencias y entidades de la Administración Pública Estatal y validar los indicadores para la evaluación de la gestión gubernamental, en los términos de las disposiciones aplicables; y fungir como apoyo técnico en los trabajos de los contralores municipales;
 
-b) Vigilar que las dependencias y entidades del Poder Ejecutivo cumplan con las políticas y los programas establecidos por el Gobernador del Estado;
+b) Proponer las normas que regulen los instrumentos y procedimientos de control interno de la Administración Pública Estatal, para lo cual podrá requerir de las dependencias competentes proyectos de normas complementarias para el ejercicio del control administrativo. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción;
 
-c) Fijar las normas de control, fiscalización y evaluación que deban observar las dependencias y entidades del Poder Ejecutivo del Estado, así como establecer los procedimientos para la práctica de auditorías a las mismas;
+c) Supervisar el sistema de control interno, establecer las bases generales para la realización de auditorías internas, transversales y externas; proponer las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la Administración Pública Estatal, así como realizar las auditorías que se requieran en éstas, en sustitución o apoyo de sus propios órganos internos de control;
 
-d) Practicar por sí misma o por profesionales externos, auditorías a las diversas dependencias y entidades del Poder Ejecutivo del Estado;
+d) Realizar por sí o por auditores externos, a propuesta de la Secretaría de Finanzas, Inversión y Administración o la coordinadora de sector correspondiente, auditorías, revisiones y evaluaciones a las dependencias y entidades de la Administración Pública Estatal, con el objeto de evaluar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo, y emitir recomendaciones vinculantes para el fortalecimiento institucional para la prevención de hechos de corrupción, así como al mejoramiento de su desempeño;
 
-e) Vigilar y controlar la eficiencia de la aplicación del gasto público, así como la utilización de los recursos patrimoniales del Estado;
+e) Fiscalizar directamente o a través de los órganos internos de control, que las dependencias y entidades de la Administración Pública Estatal cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Estatal; así como realizar auditorías de evaluación al desempeño;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+f) Designar y remover para el mejor desarrollo del sistema de control y evaluación de la gestión gubernamental, comisarios o sus equivalentes de los órganos de vigilancia de las entidades de la Administración Pública Estatal; así como normar y controlar su desempeño;
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+g) Designar y remover a los titulares de las áreas responsables de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal, a través de procedimientos transparentes, objetivos y equitativos quienes le dependerán jerárquica y funcionalmente, asimismo, designar y remover a los titulares de las áreas de los citados órganos internos de control; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los tribunales estatales, representando al titular de dicha Secretaría;
 
-f) Vigilar la aplicación de las normas, políticas y procedimientos expedidos por la Secretaría de Finanzas, Inversión y Administración;
+h) Llevar y normar el registro de servidores públicos de la Administración Pública Estatal, recibir y registrar las declaraciones patrimoniales, de intereses y la constancia de presentación de declaración fiscal que deban presentar, y en su caso, verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+i) Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con las dependencias y entidades de la Administración Pública Estatal, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
 
-g) Vigilar que las obras que en forma directa o en participación con otros organismos realice el Gobierno del Estado, se ajusten a las disposiciones de la Ley de la materia y a las especificaciones previamente fijadas;
+j) Establecer criterios generales y lineamientos, y conducir la política general de las contrataciones públicas conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez; emitir los lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de dichas contrataciones públicas; proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las mencionadas leyes que realicen las dependencias y entidades de la Administración Pública Estatal y promover, con la intervención que corresponda a otras dependencias, la coordinación y cooperación con los Poderes del Estado, los órganos constitucionales autónomos, los municipios y demás entes públicos encargados de regímenes de contratación pública, a efecto de propiciar en lo procedente la homologación de políticas, normativas y criterios, que permita (sic) contar con un sistema de contrataciones públicas articulado a nivel Estatal;
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+k) Definir la política de gobierno abierto y datos abiertos en el ámbito de las dependencias y entidades de la Administración Pública Estatal, de conformidad con la normatividad jurídica aplicable;
 
-h) Coordinarse con las dependencias del Poder Ejecutivo y con el órgano técnico de fiscalización del Congreso del Estado, así como con las dependencias de la Federación que correspondan y los Municipios del Estado, atendiendo a la naturaleza de sus funciones para el establecimiento de programas, sistemas y procedimientos que permitan el cumplimiento eficaz de sus respectivas responsabilidades;
+l) Tramitar y resolver las inconformidades que presten los particulares, con motivo de convenios o contratos que celebren con las dependencias y entidades (sic) administración Pública Estatal, y que rija la legislación en materia de adquisiciones, enajenaciones, arrendamientos y contratación de servicios; y
 
-i) Atender las quejas que presenten los particulares con motivo de los acuerdos, convenios o contratos que celebren con las dependencias y entidades del Poder Ejecutivo del Estado;
+m) Ejercer las facultades que la Constitución Política para el Estado de Guanajuato y la legislación aplicable le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refieren (sic) el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos de las dependencias y entidades de la Administración pública estatal, así como a las administraciones públicas municipales sobre manejo, decisión autorización, recepción, aplicación o de aquellos coordinados, concentrados, convenidos o descentralizados con el Estado o la Federación, y organismos autónomos;
 
-j) Designar a los auditores externos y proponer al Gobernador del Estado la designación de comisarios o de sus equivalentes en los órganos de vigilancia de las entidades de la Administración Pública Estatal;
+II. En materia del Sistema Estatal Anticorrupción:
 
-k) Informar periódica y anualmente al Gobernador del Estado, el resultado de las evaluaciones de los programas, de acuerdo a sus objetivos o metas realizadas, proponiendo las medidas correctivas que procedan;
+a) Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal; y fungir como apoyo técnico con los municipios;
 
-l) Vigilar que las dependencias y entidades del Poder Ejecutivo del Estado observen e instrumenten las normas complementarias para el ejercicio de las atribuciones que aseguren la operatividad, vigilancia y evaluación del sistema de control de la eficiencia del gasto público;
+b) Colaborar en el marco del Sistema Estatal Anticorrupción, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
 
-m) Vigilar la correcta aplicación de los programas, estudios, proyectos y presupuestos de la obra pública estatal;
+c) Implementar las acciones que acuerde el Sistema Estatal Anticorrupción, en términos de las disposiciones aplicables;
 
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+d) Informar periódicamente al Comité Coordinador del Sistema Estatal Anticorrupción, así como al Gobernador del Estado, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la Administración Pública Estatal, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos estatales, y promover ante las autoridades competentes, las acciones que procedan para corregir las irregularidades detectadas;
 
-n) Vigilar que los procesos de contratación, de concesión y de licitación pública, se ajusten a la Ley de la materia; y
+e) Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, la política general de la Administración Pública Estatal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como diseñar los lineamientos para la modernización de la gestión de la administración pública y la mejora de los trámites y servicios gubernamentales, promoviendo dichas acciones hacia la sociedad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+f) Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Estatal Anticorrupción, en materia de combate a la corrupción en la Administración Pública Estatal; y
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+g) Emitir lineamientos específicos y manuales que, dentro del ámbito de su competencia, integren disposiciones y criterios que impulsen la simplificación administrativa, para lo cual deberán tomar en consideración las bases y principios de coordinación y recomendaciones generales que emita el Comité Coordinador del Sistema Estatal Anticorrupción;
 
-o) Coadyuvar con la Secretaría de Finanzas, Inversión y Administración en la vigilancia del ejercicio presupuestal y su impacto en la consecución de los objetivos establecidos.
+III. En materia de mejoramiento de la administración pública:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+a) Vigilar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Estatal, de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+b) Organizar y coordinar el desarrollo administrativo integral en las dependencias y entidades de la Administración Pública Estatal y emitir las normas para que los recursos humanos, patrimoniales y los procedimientos técnicos de la misma, sean aprovechados y aplicados, con criterios de eficacia, legalidad, eficiencia y simplificación administrativa; así como, realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias; en el ámbito de su competencia;
 
-II. En materia de mejoramiento de la administración pública:
+IV. En materia de derecho disciplinario:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+a) Conocer e investigar las conductas de los servidores públicos de la Administración Pública Estatal que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos conforme a lo establecido en (sic) Ley de Responsabilidades aplicable por sí, o por conducto de los órganos internos de control que correspondan a cada área de la Administración Pública Estatal; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal Estatal de Justicia Administrativa y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias o querellas correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+b) Establecer mecanismos internos para la Administración Pública Estatal que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas; y
 
-a) Diseñar políticas y lineamientos para la modernización de la gestión de la administración pública;
+c) Procurar y en su caso promover el resarcimiento de los daños y perjuicios a la Hacienda Pública o al patrimonio ocasionados por servidores públicos o particulares a la administración pública estatal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+V. En materia de vinculación ciudadana:
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+a) Promover la calidad en la prestación de los servicios a la población por parte de las dependencias y entidades de la Administración Pública Estatal; incluyendo su mejora regulatoria y simplificación que represente menores costos, requisitos y tiempos para los usuarios de los mismos;
 
-b) Determinar lineamientos a las dependencias y entidades de la Administración Pública Estatal para la evaluación del logro de metas y resultados establecidos en el Programa de Gobierno y programas correspondientes, coordinándose con las instancias que de acuerdo a sus facultades corresponde;
+b) Difundir los valores que deben distinguir a los servidores públicos en su función, y fomentar su conducta ética;
 
-c) Organizar y coordinar el sistema de control y medición gubernamental;
+c) Fomentar la cultura de la denuncia respecto de los actos indebidos de los servidores públicos;
 
-d) Instrumentar estrategias de mejora en la coordinación entre dependencias y entidades de la administración pública estatal;
+d) Recibir y dar seguimiento a las sugerencias, quejas y denuncias de la población, con respecto a la actuación de los servidores públicos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+e) Coordinar la participación ciudadana en tareas de contraloría social; y
 
-e) (DEROGADO, P.O. 18 DE SEPTIEMBRE DE 2012)
+f) Fomentar, promover y coordinar la participación ciudadana dentro de los mecanismos de evaluación de la actividad gubernamental; generando la participación de testigos sociales en los procedimientos de contratación pública que se establezcan en la legislación en materia de adquisiciones, enajenaciones, arrendamientos y contrataciones de servicios;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
-
-f) Promover en coordinación con la Secretaría de Finanzas, Inversión y Administración, la profesionalización de los servidores públicos de la Administración Pública Estatal;
-
-g) Propiciar las actividades de impulso y mejoramiento del desarrollo gubernamental;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-h) (DEROGADO, P.O. 18 DE SEPTIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-i) (DEROGADO, P.O. 18 DE SEPTIEMBRE DE 2012)
-
-III.- En materia de fiscalización:
-
-a) Verificar y evaluar en coordinación con los municipios, la aplicación de los fondos federales y estatales, de conformidad con la legislación respectiva y los convenios y acuerdos que al respecto se celebren;
-
-b) Fungir como órgano de asesoría y capacitación hacia las demás áreas de la Administración Pública Estatal y a los municipios que así lo soliciten, en materia de control y vigilancia de los recursos públicos, responsabilidades y aplicación de la normatividad administrativa; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE NOVIEMBRE DE 2003)</small>
-
-IV.- En materia de vinculación ciudadana:
-
-a) Promover la calidad en la prestación de los servicios a la población por parte de las dependencias y entidades de la administración pública estatal;
-
-b) Difundir los valores que deben distinguir a los servidores públicos en su función;
-
-c) Fomentar la cultura de la denuncia respecto de los actos indebidos de los servidores públicos; y
-
-d) Recibir y dar seguimiento a las sugerencias, quejas y denuncias de la población, con respecto a la actuación de los servidores públicos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
-
-e) Coordinar la participación ciudadana en tareas de contraloría social;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
-
-f) Fomentar, promover y coordinar la participación ciudadana dentro de los mecanismos de evaluación de la actividad gubernamental;
-
-> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2003)</small>
-
-V.- En materia de prevención:
+VI. En materia de prevención:
 
 a) Prevenir actos de corrupción y fomentar la transparencia en el ejercicio de la función pública;
 
-b) Establecer políticas y estrategias de prevención de conductas ilícitas en materia de administración pública;
+b) Establecer políticas y estrategias de prevención y disuasión de conductas ilícitas en materia de administración pública;
 
-c) Fomentar la conducta ética del servidor público; y
+c) Emitir el Código de Ética de los servidores públicos del gobierno estatal y las Reglas de Integridad para el ejercicio de la función pública; y fomentar su cumplimiento; y proponer las políticas, lineamientos, estrategias y demás instrumentos de carácter general en materia de ética, integridad y posibles conflictos de interés, así como las modificaciones necesarias que garanticen una actuación integra de los servidores públicos en el ejercicio de la función pública;
 
-d) Recibir y registrar las declaraciones patrimoniales de los servidores públicos conforme a la Ley de la materia en su caso, requerir información adicional, así como realizar las investigaciones y denuncias correspondientes.
+d) Recibir y registrar las declaraciones patrimoniales de los servidores públicos conforme a la Ley de la materia en su caso, requerir información adicional, así como realizar las investigaciones y denuncias correspondientes; y
 
-> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2003)</small>
-
-VI.- En materia de derecho disciplinario:
-
-a) Conocer e investigar los actos y omisiones que puedan constituir responsabilidades de los servidores públicos, así como substanciar el procedimiento administrativo disciplinario que establezca la Ley de la materia; y
-
-b) Procurar el resarcimiento de los daños patrimoniales ocasionados a la administración pública estatal.
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE NOVIEMBRE DE 2003)</small>
-
-VII. Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
+VII. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2013)</small>
 
@@ -1901,9 +1849,11 @@ Los órganos de gobierno o administración de las entidades paraestatales deber�
 
 ### CAPÍTULO ÚNICO. NATURALEZA JURÍDICA DE LOS TRIBUNALES ADMINISTRATIVOS
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
+
 ###### Artículo 91.
 
-Para el trámite y resolución de los conflictos que se presenten entre el Estado y sus trabajadores, se contará con un Tribunal de Conciliación y Arbitraje para los trabajadores al servicio del Estado y de los municipios; para las controversias entre patrones y trabajadores funcionarán las Juntas Locales de Conciliación y Arbitraje necesarias, y para la resolución de conflictos por actos administrativos de las autoridades estatales y municipales frente a los particulares, existirá un Tribunal de lo Contencioso Administrativo, los cuales tendrán plena autonomía e independencia del Poder Ejecutivo.
+Para el trámite y resolución de los conflictos que se presenten entre el Estado y sus trabajadores, se contará con un Tribunal de Conciliación y Arbitraje para los trabajadores al servicio del Estado y de los municipios; para las controversias entre patrones y trabajadores funcionarán las Juntas Locales de Conciliación y Arbitraje necesarias.
 
 ###### Artículo 92.
 
@@ -2180,3 +2130,33 @@ P.O. 28 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL ARTÍCULO SEGUNDO DEL “DECRETO NÚMERO 115, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO; LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO; LEY DE COORDINACIÓN FISCAL DEL ESTADO; Y SE EXPIDE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
 
 Artículo Único. El presente ARTÍCULO SEGUNDO del presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 187, APROBADO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO Y SE EXPIDE LA LEY DE SISTEMA ESTATAL ANTICORRUPCIÓN DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado, deberá designar a los integrantes de la comisión de selección.
+
+La comisión de selección nombrará a los integrantes del Comité de Participación Ciudadana, en los términos siguientes:
+
+a. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador.
+
+b. Un integrante que durará en su encargo dos años.
+
+c. Un integrante que durará en su encargo tres años.
+
+d. Un integrante que durará en su encargo cuatro años.
+
+e. Un integrante que durará en su encargo cinco años.
+
+Los integrantes del Comité de Participación Ciudadana a que se refieren los incisos anteriores se rotarán la representación ante el Comité Coordinador en el mismo orden.
+
+La sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción, se llevará a cabo dentro del plazo de sesenta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana en los términos de los párrafos anteriores.
+
+La Secretaría Ejecutiva deberá iniciar sus operaciones, a más tardar a los sesenta días naturales siguientes a la sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción. Para tal efecto, el Ejecutivo Estatal proveerá los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
+
+Artículo Tercero. Dentro de los noventa días siguientes de iniciar sus operaciones la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, el Órgano de Gobierno, deberá emitir el Estatuto Orgánico de la Secretaría Ejecutiva a efecto de que la Secretaría de Gobierno lo publique en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+Artículo Cuarto. Dentro de los treinta días siguientes de iniciar sus operaciones la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, el Órgano de Gobierno, deberá emitir la convocatoria pública para la elección de la terna del titular del Órgano Interno de Control a efecto de que la Secretaría de Gobierno la publique en el Periódico Oficial de Gobierno del Estado de Guanajuato.
