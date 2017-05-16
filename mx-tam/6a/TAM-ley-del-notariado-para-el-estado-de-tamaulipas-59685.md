@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-notariado-para-el-estado-de-tamaulipas-59685"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-15"
-last_updated: "2017-05-08"
+last_updated: "2017-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2017 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 16 DE MAYO DE 2017.]</small>
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 15 de enero de 2008.
 
@@ -747,9 +747,9 @@ V. La aceptación por el Notario de algún otro empleo público o privado que se
 
 VI. La ausencia del Notario por término mayor de un mes del distrito judicial que le corresponda sin licencia del Ejecutivo del Estado o separarse del ejercicio de sus funciones por término mayor del autorizado por la Ley;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
+(REFORMADA, P.O. 8 DE MAYO DE 2017) (F. DE E., P.O. 16 DE MAYO DE 2017)
 
-VII. El ejercicio de sus funciones durante los 60 días posteriores que haya rendido protesta de su cargo;
+VII. No iniciar el ejercicio de sus funciones durante los 60 días posteriores que haya rendido protesta de su cargo;
 
 > <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
 
