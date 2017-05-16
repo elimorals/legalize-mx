@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-la-gestion-integral-del-municipio-de-170590"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-15"
-last_updated: "2017-04-24"
+last_updated: "2017-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA DEL ESTADO DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 24 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 16 DE MAYO DE 2017.
 
 Reglamento publicado en el Suplemento de la Gaceta Municipal del Estado de Guadalajara, el viernes 15 de julio de 2016.
 
@@ -215,11 +215,25 @@ LVI. Zona de Accesibilidad Preferencial: Área delimitada al interior de centros
 
 LVII. Zona de Pacificación del Tránsito: Zona que tiene por objeto la construcción de comunidad y proximidad social, al interior de colonias barrios o pueblos a través del rediseño de espacio público, para reducir el volumen y control de velocidad de tránsito automotor. Las cuales se denominarán de acuerdo a la velocidad de diseño definida tales como zona 30;
 
-> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, G.M. 16 DE MAYO DE 2017)</small>
 
-LVIII. Zonificación Primaria: Es la determinación de los aprovechamientos genéricos, o utilización general del suelo, en las distintas zonas del área objeto de ordenamiento y regulación, prevista en el presente reglamento, de conformidad a los planes de desarrollo urbano; y
+LVIII. Zonificación Primaria: Es la determinación de los aprovechamientos genéricos, o utilización general del suelo, en las distintas zonas del área objeto de ordenamiento y regulación, prevista en el presente reglamento;
 
-LIX. Zonificación Secundaria: Derivada de la Zonificación Primaria, es la determinación o utilización particular del suelo y sus aprovechamientos de áreas y predios comprendidos en el plan parcial; complementándose con sus respectivas matrices de utilización del suelo y Normas de Control de la Urbanización y Edificación presentes en este reglamento.
+> <small>(REFORMADA, G.M. 16 DE MAYO DE 2017)</small>
+
+LIX. Zonificación Secundaria: Derivada de la Zonificación Primaria, es la determinación o utilización particular del suelo y sus aprovechamientos de áreas y predios comprendidos en el plan parcial; complementándose con sus respectivas matrices de utilización del suelo y Normas de Control de la Urbanización y Edificación presentes en este reglamento;
+
+> <small>(ADICIONADA, G.M. 16 DE MAYO DE 2017)</small>
+
+LX. Firma Electrónica Avanzada: La designación con la que se conoce al certificado digital de firma electrónica expedido por la Secretaría General del Gobierno del Estado de Jalisco;
+
+> <small>(ADICIONADA, G.M. 16 DE MAYO DE 2017)</small>
+
+LXI. Firma Electrónica Certificada: Los datos que en forma electrónica son vinculados o asociados a un mensaje de datos y que corresponden inequívocamente al firmante con la finalidad de asegurar la integridad y autenticidad del mismo y que ha sido certificada por un prestador de servicios de certificación debidamente autorizado ante la Secretaría; y
+
+> <small>(ADICIONADA, G.M. 16 DE MAYO DE 2017)</small>
+
+LXII. FIEL: La designación con la que se conoce al certificado digital de la firma electrónica expedido por el Servicio de Administración Tributaria, órgano desconcentrado de la Secretaría de Hacienda y Crédito Público.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
 
@@ -1321,7 +1335,9 @@ II. Modelos de gestión de los servicios públicos domiciliarios.
 
 La creación de polígonos de desarrollo controlado, deberá ser promovida por una asociación de vecinos legalmente constituida, y se sujetará al siguiente procedimiento:
 
-I. Presentar su solicitud ante la Dirección de Participación Ciudadana, anexando la justificación de la conformación del polígono de desarrollo controlado, el plan de acción y los demás requisitos que le sean solicitados;
+> <small>(REFORMADA, G.M. 16 DE MAYO DE 2017)</small>
+
+I. Los Peritos de Supervisión Municipal, deben refrendar su registro cada tres años.
 
 II. La Dirección de Participación Ciudadana y Coordinación General de Gestión Integral de la Ciudad, evaluarán la propuesta y precisarán los compromisos de cada una de las partes; y
 
@@ -2201,6 +2217,14 @@ VII. Contar durante la ejecución de la obra con un plan de atención a emergenc
 
 VIII. Cumplir con lo previsto en el dictamen emitido por la Dirección de Protección Civil y Bomberos para realizar trabajos en altura.
 
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 160 bis. Las Licencias de Construcción se clasifican en:
+
+I. Licencia Menor: Tratándose de edificaciones nuevas, ampliaciones, adaptaciones o demoliciones con área máxima de 50 metros cuadrados; a las cuales se les dará respuesta en 5 días hábiles a partir de la entrega de los requisitos establecidos; y
+
+II. Licencia Mayor: Tratándose de edificaciones nuevas, ampliaciones, adaptaciones o demoliciones mayores a 50 metros cuadrados; a las cuales se les dará respuesta en 10 días hábiles a partir de la entrega de los requisitos establecidos.
+
 > <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 161.
@@ -2257,11 +2281,15 @@ VII. Impermeabilizaciones, reparaciones integrales de azoteas sin afectar los el
 
 La exención de la Licencia de Construcción no libera a los propietarios de la responsabilidad de la ejecución de los trabajos, ni de la obligación de respetar las normas técnicas de construcción de la legislación vigente, además de que los mismos trabajos, están sujetos a la supervisión de la autoridad municipal para efectos de su verificación y cumplimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 16 DE MAYO DE 2017)</small>
+
 ###### Artículo 164.
 
 La expedición de la Licencia de Construcción no requiere responsiva del Director Responsable de Obra o Proyecto en los siguientes casos:
 
-I. Edificaciones nuevas y ampliaciones con área máxima de 40.00 metros cuadrados. Siempre y cuando se trate de plantas bajas;
+> <small>(REFORMADA, G.M. 16 DE MAYO DE 2017)</small>
+
+I. Edificaciones nuevas y ampliaciones con área máxima de 50.00 metros cuadrados. Siempre y cuando se trate de plantas bajas;
 
 II. Remodelaciones menores donde las modificaciones de espacios interiores o del estado original de la edificación, se realicen con cambios mínimos o elementos ligeros que no impliquen modificaciones en apoyos, aumento de cargas o refuerzos estructurales;
 
@@ -2275,11 +2303,15 @@ VI. Construcción de albañales y registros; y
 
 VII. Canchas deportivas y estacionamientos descubiertos a nivel de piso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 16 DE MAYO DE 2017)</small>
+
 ###### Artículo 165.
 
 La expedición de la Licencia de Construcción requiere responsiva del Director Responsable de Obra o Proyecto cuando se trate de los siguientes casos:
 
-I. Edificaciones nuevas o ampliaciones mayores a 40.00 metros cuadrados;
+> <small>(REFORMADA, G.M. 16 DE MAYO DE 2017)</small>
+
+I. Edificaciones nuevas o ampliaciones mayores a 50.00 metros cuadrados;
 
 II. Ampliación o bardeo en planta alta;
 
@@ -2929,7 +2961,115 @@ III. Cuando la solicitud se refiera a modificaciones en suelo no urbanizable, en
 
 No se autorizarán modificaciones a planos de alineamiento, números oficiales, derechos de vía, afectaciones y destinos para proyectos futuros de infraestructura o servicios y restricciones de construcción, cuando dicha modificación contravenga los objetivos, estrategias o disposiciones del Programa, del Plan o de los Planes Parciales.
 
-### CAPÍTULO I. Del Manejo Integral de Residuos
+### CAPÍTULO XI. De los Trámites con Firma Electrónica
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 bis. Para efecto del presente Capítulo, se entenderá por:
+
+I. Documentos en Línea: Al dictamen, certificado o licencia emitido a través del uso de medios electrónicos y que contiene la Firma Electrónica Certificada del servidor público facultado para ello; y
+
+II. Mensaje de Datos: La información generada, enviada, recibida o archivada por medios electrónicos, ópticos o cualquier otra tecnología.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 ter. En la tramitación de certificados, licencias, dictámenes, y autorizaciones en materia de desarrollo urbano podrán emplearse los medios electrónicos, a través del uso de la Firma Electrónica Certificada, de conformidad a lo señalado por la Ley de Firma Electrónica Avanzada para el Estado de Jalisco y sus Municipios, el Reglamento del Uso de Medios Electrónicos del Ayuntamiento de Guadalajara, este reglamento y demás disposiciones aplicables.
+
+El Ayuntamiento deberá aprobar y expedir las reglas de carácter general en las que se especifiquen los trámites que deberán efectuarse en línea, así como los requisitos que deban cumplir los interesados para efectuar esta forma de tramitación, mismas que deberán contener lo señalado por el Reglamento del Uso de Medios Electrónicos del Ayuntamiento de Guadalajara.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 quáter. Los documentos oficiales emitidos y firmados mediante el uso de firma electrónica por servidores públicos en ejercicio de sus funciones y legalmente facultados para ello, tendrán plena validez, siendo estos los certificados, dictámenes, licencias o autorizaciones respectivas que se generen como resultado de la conclusión del trámite.
+
+Las dependencias municipales y los servidores adscritos a ellas que tengan injerencia en los trámites en línea, utilizarán en sus comunicaciones, validaciones, resoluciones y, en su caso, actos administrativos que realicen entre las mismas, harán uso de mensajes de datos y aceptarán la presentación de documentos electrónicos, los cuales deberán contar, cuando así se requiera, con la Firma Electrónica Certificada del servidor público facultado para ello.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 quinquies. Los particulares solicitantes de los Documentos en Línea que acepten sujetarse al trámite a través de medios de comunicación electrónica, desde su inicio y hasta su conclusión, estarán obligados a lo siguiente:
+
+I. A la obtención de su Firma Electrónica Certificada pudiendo ser la Firma Electrónica Avanzada o la FIEL a su elección;
+
+II. A aceptar expresamente darse por notificados de las actuaciones electrónicas que emita la dependencia municipal que corresponda, una vez enviado el mensaje de datos correspondiente a su correo electrónico;
+
+III. A que todos los datos, información y archivos solicitados, deberá ingresarlos de forma digital a través de la plataforma de Documentos en Línea o sistema de tramitación electrónica; y
+
+IV. Que en el supuesto de que por causas imputables a la dependencia responsable del trámite se encuentren imposibilitados para abrir los documentos electrónicos que contengan la información depositada en el mismo, lo harán del conocimiento de la propia dependencia a más tardar dentro de los tres días hábiles siguientes a aquél en que ocurra dicho impedimento, por medios de comunicación electrónica, para que de continuar el impedimento, sean notificados por alguna otra forma de las establecidas en el Reglamento del Acto y del Procedimiento Administrativo del Municipio de Guadalajara.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 sexies. Los solicitantes deberán contar con una dirección de correo electrónico para recibir, cuando corresponda, mensajes de datos y documentos electrónicos. Todas las notificaciones emitidas por las dependencias competentes que se envíen a través de un Mensaje de Datos, tendrán la misma validez que una notificación personal, y se tendrá por efectuada para todos los efectos legales, en el mismo día en que reciban el correo electrónico.
+
+La información contenida en los mensajes de datos y en los documentos electrónicos será pública, salvo que la misma esté clasificada como reservada o confidencial en términos de la ley y reglamentos en materia de transparencia. Los mensajes de datos y los documentos electrónicos que contengan datos personales estarán sujetos a las disposiciones aplicables al manejo, seguridad y protección de los mismos.
+
+Las dependencias y particulares deberán conservar en medios electrónicos, los mensajes de datos y los documentos electrónicos con firma electrónica certificada derivados de los actos a que se refiere este Reglamento, durante los plazos de conservación previstos en los ordenamientos aplicables, según la naturaleza de la información. En las Reglas de Carácter General se establecerá lo relativo a la conservación de los mensajes de datos y de los documentos electrónicos con firma electrónica certificada.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 septies. Cuando en los requisitos para tramitar alguno de los Documentos en Línea, se requiera que un documento impreso y con firma autógrafa sea presentado o conservado en su forma original, tal requisito quedará satisfecho si la copia se genera en un documento electrónico, y se cumple con lo siguiente:
+
+I. El particular interesado o solicitante, deberá manifestar, bajo protesta de decir verdad, que el documento electrónico o digitalizado es copia íntegra e inalterada del documento impreso;
+
+II. Cuando exista duda sobre la autenticidad del documento electrónico remitido, la dependencia o entidad podrá requerir al particular que le presente el documento impreso directamente en sus oficinas, o bien, que este último se le envíe por correo certificado con acuse de recibo. En el supuesto de que se opte por el envío del documento impreso a través de correo certificado, será necesario que adicionalmente se envíe dentro de los tres días hábiles siguientes, mediante un mensaje de datos, la guía que compruebe que el referido documento fue depositado en una oficina de correos;
+
+III. Que la información contenida en el documento electrónico se mantenga íntegra e inalterada a partir del momento en que se generó por primera vez en su forma definitiva y sea accesible para su ulterior consulta;
+
+IV. Que el documento electrónico permita conservar el formato del documento impreso y reproducirlo con exactitud; y
+
+V. Que se observe lo previsto en las reglas generales en materia de conservación de mensajes de datos y de los documentos electrónicos con Firma Electrónica Certificada.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 octies. El trámite para la obtención de los Documentos en Línea consiste en la utilización de mensajes de datos para todas las etapas del trámite desde el inicio hasta su conclusión consistente en el otorgamiento o la negativa del documento o autorización que se trate. A fin de que tanto el solicitante como los terceros y servidores públicos con injerencia en el trámite puedan enviar y recibir válidamente las actuaciones del trámite mediante un mensaje de datos, esto deberá realizarse a través de la utilización de su Firma Electrónica Certificada.
+
+Tanto las solicitudes como los actos administrativos y notificaciones que se emitan en cada una de las etapas del trámite, producirán los mismos efectos que los presentados con firma autógrafa.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 novies. Los requisitos mínimos que deberá cumplir el interesado para ingresar su solicitud por internet para los trámites en línea, serán los siguientes:
+
+I. Registrarse como usuario del sistema para la emisión de Documentos en Línea del municipio;
+
+II. Obtener su Firma Electrónica Certificada por medio de los prestadores de servicios certificados federales o estatales;
+
+III. Llenar su solicitud en línea, ingresando los datos en la forma y términos que especifique el sistema;
+
+IV. Adjuntar los documentos para cumplir los requisitos del trámite, digitalizados en el formato que determine la dependencia responsable de la emisión del documento o autorización. El solicitante deberá firmar digitalmente los datos y archivos que adjunte;
+
+V. Esperar autorización del trámite electrónico o emisión del Documento en Línea; y
+
+VI. Realizar el pago de derechos que marque la Ley de Ingresos vigente del municipio en cualquiera de las formas autorizadas conforme a los supuestos siguientes:
+
+a) Antes del ingreso de la solicitud, para aquellos trámites que requieran la presentación del comprobante de pago como uno de los requisitos de la solicitud; o bien; y
+
+b) Después de que se autorice el trámite una vez acreditado que cumplió con todos los requisitos del mismo, con la finalidad de que se le expida el documento solicitado. En caso de que habiéndose solicitado el otorgamiento hubiere quedado pendiente de expedirse el documento en línea por falta de pago de tales derechos por un término mayor de treinta días hábiles, se entenderá por desistido el interesado de la solicitud del referido documento para todos los efectos legales.
+
+En las reglas de carácter general que apruebe el Ayuntamiento y guías de trámites respectivos, se establecerá de manera detallada los requisitos que deban cumplir los interesados para cada tipo de trámite electrónico.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 decies. Cuando las solicitudes que presenten los interesados no contengan los datos, no adjunten la documentación o no cumplan con los requisitos aplicables al trámite electrónico que se trate, la dependencia competente prevendrá a los interesados mediante notificación a su correo electrónico, para que subsanen la omisión dentro del término de cinco días hábiles contados a partir del día hábil siguiente en que el usuario reciba el correo electrónico con la prevención. Cuando la dependencia competente prevenga al solicitante, el plazo para que la dependencia correspondiente resuelva el trámite se suspenderá y se reanudará a partir del día hábil inmediato siguiente a aquel en el que el interesado conteste.
+
+Los servidores públicos que intervengan en la revisión y/o validación del cumplimiento de los requisitos presentados por el solicitante, son los que estarán facultados para emitir las prevenciones al usuario durante el transcurso del trámite hasta por una sola ocasión, usando su firma electrónica. En caso de ser necesario emitir una segunda o ulteriores prevenciones al solicitante, estas sólo podrán ser emitidas por el superior jerárquico del servidor público a cargo de la revisión o validación del expediente del solicitante.
+
+Las contestaciones a las prevenciones por parte de los interesados deberán realizarse asimismo a través de mensajes de datos dentro del mismo sistema de Documentos en Línea y ser firmadas digitalmente para que tengan validez y surtan efectos legales.
+
+En caso de que el interesado no cumpla con la prevención dentro del término legal, el trámite le será desechado.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 undecies. Tratándose de trámites electrónicos para licencias de construcción en las cuales se requiera responsiva de un director responsable de obra o de proyecto en los términos establecidos por el Código, este deberá emitir la validación del proyecto y documentos anexos utilizando su firma electrónica certificada, previo al ingreso de la solicitud a la dependencia. Solo podrán validar proyectos de los solicitantes aquellos directores responsables registrados en el padrón de la Dirección de Obras Públicas y que no tengan antecedentes de sanciones en su contra.
+
+Los directores responsables a través del sistema de tramitación electrónica podrán emitir observaciones al proyecto y sus anexos, mismas que el solicitante deberá atender a fin de concluir el ingreso de su solicitud.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 duodecies. Será impedimento para realizar el trámite en línea que el usuario que tenga alguna obligación fiscal o legal pendiente de cumplir con alguna de las dependencias a cargo de los trámites en línea.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 terdecies. Es causal de revocación de la autorización, licencia o registro de los trámites administrativos realizados por medios electrónicos, cuando para su solicitud u obtención se haya alterado, modificado o manifestado datos falsos, independientemente de su clausura, retiro, en su caso, con cargo al infractor y, la multa correspondiente en términos de lo dispuesto por la Ley de Ingresos del Municipio para el Ejercicio Fiscal vigente.
+
+El uso indebido de los medios electrónicos a cargo de los servidores públicos del gobierno municipal, es sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y sus Municipios, sin perjuicio de las acciones legales que procedan.
 
 ###### Artículo 210.
 
@@ -3069,13 +3209,15 @@ Una vez cubiertos los requisitos descritos anteriormente, la Dirección de Obras
 
 Concluidas las obras autorizadas, el responsable de las mismas deberá realizar la reparación a las afectaciones a la vía pública a entera satisfacción del Municipio.
 
-### CAPÍTULO II. De las Especificaciones de los Puntos Limpios
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.M. 16 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+### CAPÍTULO I. Del Manejo Integral de Residuos
 
 ## TÍTULO CUARTO. Del Programa de Gestión de Residuos Sólidos Base Cero
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO II. De las Especificaciones de los Puntos Limpios
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 223.
 
@@ -3099,7 +3241,7 @@ Toda Acción Urbanística para actividades comerciales o de servicios ofertadas 
 
 Toda Acción Urbanística realizada mediante obra pública que contenga construcción de equipamiento urbano y que por sus características implique un alto flujo de personas en el uso del espacio público, estará obligada a instalar los Puntos Limpios necesarios que permitan fortalecer el sistema de manejo de residuos de la ciudad; tomando en consideración la información y lineamientos emitidos para la gestión integral de residuos por parte de la Dirección de Medio Ambiente.
 
-### CAPÍTULO II. De las Banquetas y los Cruces Peatonales
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 227.
 
@@ -3121,11 +3263,11 @@ II. Punto Limpio "Plataforma Soterrada": Mobiliario urbano que consta de 4 buzon
 
 Para casos especiales donde no aplique ninguno de los 2 tipos de Puntos Limpios antes referidos, será la Dirección de Medio Ambiente quien dictamine las características especiales procedentes del Punto Limpio.
 
-### CAPÍTULO III. De los Criterios de Movilidad No Motorizada
+### CAPÍTULO II. De las Banquetas y los Cruces Peatonales
 
 ## TÍTULO QUINTO. De la Movilidad y el Espacio Público
 
-### CAPÍTULO IV. De la Señalización
+### CAPÍTULO III. De los Criterios de Movilidad No Motorizada
 
 ###### Artículo 229.
 
@@ -3151,9 +3293,7 @@ En caso de afectación al espacio público y/o bienes inmuebles, la Dirección d
 
 (DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
-### CAPÍTULO V. Del Tránsito y el Transporte Público
-
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+### CAPÍTULO IV. De la Señalización
 
 ###### Artículo 233.
 
@@ -3293,7 +3433,9 @@ b) Opcionalmente una pantalla indicadora de los segundos restantes para el fin d
 
 En caso que se produjera una diferencia de nivel entre la banqueta y un Predio, el desnivel deberá ser resuelto dentro de los límites del Predio, quedando prohibida la alteración de la pendiente longitudinal y transversal, y ancho de la banqueta para adaptarse a la edificación.
 
-### CAPÍTULO VI. De los Estacionamientos
+### CAPÍTULO V. Del Tránsito y el Transporte Público
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 250.
 
@@ -3347,7 +3489,7 @@ La velocidad promedio es de 30 kilómetros por hora, incorporando dispositivos o
 
 Ningún elemento relacionado con las entradas y salidas de vehículos, podrá invadir la franja de circulación peatonal.
 
-### CAPÍTULO I. De las Obras y Obstrucciones en la Vía Pública
+### CAPÍTULO VI. De los Estacionamientos
 
 ###### Artículo 255.
 
@@ -3401,7 +3543,7 @@ b) Las isletas ubicadas al mismo nivel de las banquetas, dispondrán de paviment
 
 VI. Cualquier cambio de dirección mayor a 45 grados, deberá indicarse mediante un cuadro de pavimento de advertencia de 0.6 metros x 0.6 metros.
 
-### CAPÍTULO I. De la Inspección y Control de Obras
+### CAPÍTULO I. De las Obras y Obstrucciones en la Vía Pública
 
 ###### Artículo 260.
 
@@ -3507,9 +3649,7 @@ IV. Si la banqueta no es lo suficientemente ancha, deberá ampliarse suprimiendo
 
 V. Si el ancho de la calle no permite ninguna de las soluciones anteriores, se deberá señalizar la parada del transporte público mediante una señal vertical.
 
-### CAPÍTULO II. De las Clausuras y Terminación de Obras
-
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+### CAPÍTULO I. De la Inspección y Control de Obras
 
 ###### Artículo 270.
 
@@ -3915,9 +4055,9 @@ e) Planos constructivos de la ampliación de banqueta e instalación del ciclo p
 
 ## TÍTULO SEXTO. Normas de Vialidad
 
-### CAPÍTULO III. Del Procedimiento de Demolición
+### CAPÍTULO II. De las Clausuras y Terminación de Obras
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 287.
 
@@ -3947,7 +4087,9 @@ V. Soportes: Los tableros se montarán sobre postes en el caso de las permanente
 
 ## TÍTULO SÉPTIMO. De la Inspección
 
-### CAPÍTULO I. De las Sanciones a los Servidores Públicos
+### CAPÍTULO III. Del Procedimiento de Demolición
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 291.
 
@@ -3997,7 +4139,7 @@ A las visitas extraordinarias aplican (sic) mismas reglas y términos que señal
 
 En caso de haber apercibimientos que se deriven de las inspecciones, la dirección competente en materia de inspección lleva una relación de fincas apercibidas para que se proceda en consecuencia.
 
-### CAPÍTULO II. De las Sanciones
+### CAPÍTULO I. De las Sanciones a los Servidores Públicos
 
 ###### Artículo 299.
 
@@ -4089,9 +4231,7 @@ II. Por usarse una construcción o parte de ella sin el Certificado de Habitabil
 
 III. Por haberse ejecutado la obra sobre un bien inmueble sujeto a protección de conformidad a las normas de protección del patrimonio cultural, sin el dictamen favorable de la dependencia competente, con independencia de que cuente o no con licencia de construcción.
 
-### CAPÍTULO III. De las Sanciones a los Directores Responsables de Obra o Proyecto y Peritos
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
+### CAPÍTULO II. De las Sanciones
 
 ###### Artículo 302.
 
@@ -4185,7 +4325,9 @@ En caso de proceder la demolición, se dará el aviso correspondiente al propiet
 
 ## TÍTULO OCTAVO. De las Sanciones y Medios de Defensa
 
-### CAPÍTULO IV. Recursos y Medios de Defensa
+### CAPÍTULO III. De las Sanciones a los Directores Responsables de Obra o Proyecto y Peritos
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 313.
 
@@ -4208,6 +4350,8 @@ VI. No hayan impuesto medidas de seguridad y con ello se causó daño a terceros
 Los servidores públicos responsables de las infracciones señaladas en el artículo anterior, serán sancionados conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y las demás disposiciones legales y reglamentarias aplicables.
 
 Dichas sanciones serán independientes de la responsabilidad patrimonial en que incurra y del ejercicio de la acción penal por haber ejercitado actos tipificados como delitos, de conformidad con el Código Penal para el Estado Libre y Soberano de Jalisco.
+
+### CAPÍTULO IV. Recursos y Medios de Defensa
 
 ###### Artículo 315.
 
@@ -4482,3 +4626,27 @@ Tercero. Se derogan todas las disposiciones municipales que se opongan al presen
 Cuarto. Publicado que sea el presente ordenamiento, remítase un tanto del mismo al Congreso del Estado de Jalisco para los efectos estipulados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
 
 Quinto. Se faculta a los ciudadanos Presidente Municipal, Secretario General, Síndico y Tesorero Municipal, todos de este Ayuntamiento, a suscribir la documentación inherente y necesaria para el cumplimiento del presente.
+
+G.M. 16 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA; AL REGLAMENTO DE GESTIÓN DEL DESARROLLO URBANO PARA EL MUNICIPIO DE GUADALAJARA; AL REGLAMENTO DEL ACTO Y DEL PROCEDIMIENTO ADMINISTRATIVO DEL MUNICIPIO DE GUADALAJARA; AL REGLAMENTO DE USO DE MEDIOS ELECTRÓNICOS DEL AYUNTAMIENTO DE GUADALAJARA Y AL REGLAMENTO PARA EL FUNCIONAMIENTO DE GIROS COMERCIALES, INDUSTRIALES Y DE PRESTACIÓN DE SERVICIOS EN EL MUNICIPIO DE GUADALAJARA”.]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+Cuarto. Una vez publicado, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco, para los efectos de la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+Quinto. El municipio a través de la Sindicatura deberá celebrar los convenios necesarios con el Gobierno del Estado de Jalisco a través de la Secretaría General de Gobierno, y Gobierno Federal por conducto del Sistema de Administración Tributaria, en materia de Firma Electrónica Certificada, a fin de que los solicitantes de trámites electrónicos puedan optar por la utilización de su firma obtenida por cualquiera de las autoridades certificadoras federales o estatales, así como para para (sic) la obtención de las firmas electrónicas certificadas de los servidores públicos del municipio.
+
+Sexto. La Dirección de Innovación será la dependencia a cargo de desarrollar el sistema para la tramitación de los Documentos en Línea, la cual determinará los requerimientos para poner en funcionamiento el mismo, así como la capacitación que deberán recibir los servidores públicos de las dependencias competentes para la implementación de la Plataforma para la Gestión Integral de la Ciudad.
+
+Séptimo. Las dependencias competentes para la resolución de los trámites en línea que se establezcan en las Reglas de Carácter General que emita el Ayuntamiento, deberán comenzar a migrar los procedimientos especificados en dichas reglas en el plazo máximo de un año siguiente a la entrada en vigor de las mencionadas reglas, tiempo durante el cual podrán seguir recibiendo y resolviendo los trámites por parte (sic) los usuarios de la manera en que lo han efectuado hasta antes de la entrada en vigor de las precitadas reglas.
+
+Octavo. En tanto el usuario de los trámites no cuente con su Firma Electrónica Certificada pero quiera realizar su trámite en línea, deberá acudir a las oficinas municipales de la dependencia a cargo del trámite, en donde se le otorgará una carta responsiva que se digitalizará junto con los otros documentos anexos a su solicitud.
+
+Noveno. Será obligatorio para los directores responsables de obra o proyecto y los Peritos de Supervisión Municipal obtener su firma electrónica a partir del 1 de enero de 2018, a fin de estar habilitados para intervenir en la validación de proyectos ingresados mediante el sistema para la tramitación de las licencias de construcción por medios electrónicos. En tanto transcurre este plazo, podrán seguir validando los proyectos de los usuarios de la manera en que lo han efectuado hasta antes de la entrada en vigor de las presentes reformas.
+
+Décimo. El Pleno del Ayuntamiento deberá aprobar y publicar las Reglas de Carácter General en las que se especifiquen los trámites que deberán efectuarse en línea, así como los requisitos que deban cumplir los interesados para efectuar esta forma de tramitación, a más tardar dentro de los 30 treinta días siguientes a la publicación del presente ordenamiento.
