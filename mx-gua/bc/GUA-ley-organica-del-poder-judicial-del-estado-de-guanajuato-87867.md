@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-judicial-del-estado-de-guanajuato-87867"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-05-22"
-last_updated: "2016-07-01"
+last_updated: "2017-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2017.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de mayo de 2012.
 
@@ -219,7 +221,7 @@ I. Vigilar que la impartición de justicia se realice de manera pronta, completa
 
 II. Formular la terna para consejero, que le corresponda;
 
-III. Conocer en segunda instancia de los delitos dolosos del fuero común que merezcan pena privativa de libertad, cometidos por los servidores públicos que determina el artículo 126 de la Constitución Política para el Estado de Guanajuato, así como de los cometidos por jueces y agentes del Ministerio Público;
+III. (DEROGADA, P.O. 16 DE MAYO DE 2017)
 
 IV. Conocer de la responsabilidad administrativa de los consejeros; la resolución que se emita podrá ser impugnada mediante el recurso de revocación que se interponga ante el propio Pleno, mismo que se tramitará conforme a las disposiciones del recurso de revisión previsto en esta Ley;
 
@@ -715,21 +717,13 @@ Competencia de las salas penales
 
 Las salas en materia penal conocerán:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-I. En primera instancia de los delitos dolosos del fuero común que merezcan pena privativa de la libertad, cometidos por los servidores públicos que determina el artículo 126 de la Constitución Política para el Estado de Guanajuato, así como de los cometidos por jueces y agentes del Ministerio Público. Cuando el procedimiento deba regirse por la Ley del Proceso Penal para el Estado de Guanajuato o el Código Nacional de Procedimientos Penales, la intervención de la sala unitaria concluirá al pronunciar el auto de apertura a juicio oral y ordenará su remisión a la sala colegiada o unitaria a la que corresponda sustanciar la etapa del juicio oral y pronunciar la sentencia correspondiente;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+I. (DEROGADA, P.O. 16 DE MAYO DE 2017)
 
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 II. De los medios de impugnación, en los términos del Código de Procedimientos Penales para el Estado de Guanajuato, de la Ley del Proceso Penal para el Estado de Guanajuato y del Código Nacional de Procedimientos Penales;
 
 III. De las recusaciones y de las excusas de los jueces en materia penal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -739,13 +733,9 @@ V. Del juicio de amparo en los términos que establece el artículo 37 de la Ley
 
 VI. De los conflictos de competencia entre jueces y tribunales penales; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 VII. De las solicitudes de reconocimiento de inocencia del sentenciado y anulación de sentencia, en términos del Código Nacional de Procedimientos Penales y del Código de Procedimientos Penales para el Estado de Guanajuato, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -757,47 +747,33 @@ Integración y funcionamiento de las salas para la aplicación del sistema penal
 
 Las salas para la aplicación del sistema penal acusatorio y oral serán colegiadas para conocer y decidir la casación y la revisión de sentencia a que alude la Ley del Proceso Penal para el Estado de Guanajuato; se integrarán por tres magistrados, funcionarán en Pleno y tomarán sus acuerdos por unanimidad o mayoría de votos de sus integrantes, quienes no podrán abstenerse de votar salvo que tengan excusa o impedimento legal. Los magistrados podrán formular voto particular o concurrente dentro de las veinticuatro horas siguientes a la fecha del acuerdo, el cual se insertará al final de la resolución respectiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 En caso de empate en la votación, el presidente de la sala tendrá voto dirimente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 Radicado el asunto, se asignará al magistrado ponente designado, conforme al orden previamente establecido por sus integrantes; cuando el proyecto del magistrado ponente sea rechazado, le será devuelto para que lo modifique de acuerdo con el criterio de la mayoría; en caso de no estar de acuerdo con ello, otro magistrado redactará la resolución que corresponda, quedando el proyecto del magistrado ponente, en su caso, como voto particular.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-Si la resolución objeto del recurso de apelación previsto en el Código Nacional de Procedimientos Penales, fue pronunciada por un órgano jurisdiccional unitario, conocerá del mismo una sala unitaria. Si se emitió por tribunal colegiado, del recurso conocerá una sala colegiada.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+De las apelaciones previstas en el Código Nacional de Procedimientos Penales conocerá una sala unitaria.
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 De la solicitud de reconocimiento de inocencia del sentenciado y anulación de sentencia que se contempla en el Código Nacional de Procedimientos Penales y en el Código de Procedimientos Penales para nuestro Estado, conocerá una sala unitaria del Supremo Tribunal de Justicia.
 
-Tratándose de los servidores públicos a que se refiere la fracción I del artículo 52 de esta Ley, corresponderá a las salas colegiadas el desahogo de la etapa del juicio oral a partir del auto de radicación hasta el pronunciamiento de la sentencia, su lectura y explicación, la remisión de la copia de la sentencia a las autoridades competentes y, en su caso, al juez de ejecución.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 16 DE MAYO DE 2017)</small>
 
 Las salas colegiadas contarán con un presidente elegido por sus integrantes el primer día hábil de cada año. Durará en su función un año y no podrá ser reelecto para el siguiente periodo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 Si en el trámite de un asunto de la competencia de una sala colegiada, alguno de sus integrantes tuviere imposibilidad para continuar interviniendo en el asunto, pedirá a los restantes miembros que dispongan su separación y, en su caso, llamarán a quien deba sustituirlo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 Si el que estuviere imposibilitado fuera el presidente de la sala, una vez que se incorpore el magistrado sustituto, se designará por acuerdo de los integrantes a quien deba fungir como su presidente para ese asunto.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -3925,7 +3901,7 @@ Artículo Segundo. En los casos en que esta Ley se refiera al Tribunal de enjuic
 
 Referencia a los Secretarios de sala
 
-Artículo Tercero. Toda referencia que se haga en esta Ley a los secretarios de sala se entenderá hecha también a los jefes de unidad de causa y gestión del sistema penal acusatorio y oral, y la que se haga al secretario de juzgado de partido se entenderá también para el encargado de sala de dicho sistema.
+Artículo Tercero. Toda referencia que se haga en ésta Ley a los secretarios de sala se entenderá hecha también a los jefes de unidad de causa y gestión del sistema penal acusatorio y oral, y la que se haga al secretario de juzgado de partido se entenderá también para el encargado de sala de dicho sistema.
 
 Término para expedición de reglamentos y manuales
 
@@ -3984,3 +3960,9 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 186, APROBADO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
