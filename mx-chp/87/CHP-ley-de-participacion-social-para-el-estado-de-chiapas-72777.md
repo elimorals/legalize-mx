@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-participacion-social-para-el-estado-de-chiapas-72777"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-30"
-last_updated: "2011-06-22"
+last_updated: "2017-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE PARTICIPACION SOCIAL PARA EL ESTADO DE CHIAPAS
 
-LEY DE PARTICIPACION SOCIAL PARA EL ESTADO DE CHIAPAS
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 17 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2011.
+LEY DE PARTICIPACIÓN SOCIAL PARA EL ESTADO DE CHIAPAS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2017 (ABROGADA).
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Chiapas, el miércoles 30 de diciembre de 2009.
 
@@ -33,7 +35,9 @@ Decreto Número 046
 
 La Sexagésima Tercera Legislatura Constitucional del Honorable Congreso del Estado Libre y Soberano de Chiapas, en uso de las facultades que le concede la Constitución Política local; y,
 
-C o n s i d e r a n d o.
+C o n s i d e r a n d o
+
+[...]
 
 Por las consideraciones antes expuestas, el Honorable Congreso del Estado de Chiapas, ha tenido a bien emitir el siguiente Decreto de:
 
@@ -308,3 +312,23 @@ P.O. 22 DE JUNIO DE 2011.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 177 LEY DE DESARROLLO SOCIAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- Se abroga la Ley de Participación Social para el Estado de Chiapas, publicada en el Periódico Oficial número 207, Tomo III, 2ª Sección, mediante Decreto número 046, de fecha 30 de Diciembre de 2009.
+
+Artículo Cuarto.- Los Ayuntamientos, llevarán a cabo las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones legales y normativas aplicables.
+
+Artículo Quinto.- El Presidente de la Comisión Interinstitucional de Desarrollo Social, deberá convocar a sus miembros dentro de los sesenta días naturales siguientes a la publicación del presente Decreto, para la instalación de la Comisión Interinstitucional.
+
+Artículo Sexto.- Los procedimientos y recursos administrativos que actualmente se encuentren en trámite, se seguirán llevando a cabo hasta su total conclusión por las Autoridades y disposiciones legales vigentes, con anterioridad a la entrada en vigor del presente Decreto.
+
+Artículo Séptimo.- El titular de la Secretaría de Desarrollo Social, deberá someter a consideración y aprobación del Ejecutivo del Estado, el proyecto del reglamento de la presente Ley en un plazo no mayor a noventa días hábiles siguientes a la publicación de la misma.
+
+Artículo Octavo.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones legales aplicables.
