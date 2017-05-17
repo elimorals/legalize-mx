@@ -4,7 +4,7 @@ identifier: "LIISPCEN"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-06"
-last_updated: "2015-05-06"
+last_updated: "2017-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107634&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIISPCEN"
 
 LEY PARA IMPULSAR EL INCREMENTO SOSTENIDO DE LA PRODUCTIVIDAD Y LA COMPETITIVIDAD DE LA ECONOMÍA NACIONAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MAYO DE 2017.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el miércoles 6 de mayo de 2015.
 
@@ -50,9 +50,11 @@ LEY PARA IMPULSAR EL INCREMENTO SOSTENIDO DE LA PRODUCTIVIDAD Y LA COMPETITIVIDA
 
 La presente Ley es de orden público y tiene por objeto reglamentar lo dispuesto en los artículos 25 y 26, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos, para la promoción permanente de la competitividad, el incremento continuo de la productividad, y la implementación de una política nacional de fomento económico que impulse el desarrollo industrial que incluya vertientes sectoriales y regionales.
 
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 2017)</small>
+
 ###### Artículo 2.
 
-El Ejecutivo Federal implementará los elementos a que se refiere el artículo anterior a través de la formulación e instrumentación de una política nacional de fomento económico, en concertación con los sectores privado y social, así como en coordinación con las entidades federativas, con la participación que corresponda a sus municipios y demarcaciones territoriales del Distrito Federal y, en su caso, con los órganos autónomos, en el ámbito de sus respectivas competencias.
+El Ejecutivo Federal implementará los elementos a que se refiere el artículo anterior a través de la formulación e instrumentación de una política nacional de fomento económico, en concertación con los sectores privado y social, así como en coordinación con las entidades federativas, con la participación que corresponda a sus municipios y demarcaciones territoriales de la Ciudad de México y, en su caso, con los órganos autónomos, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 3.
 
@@ -84,7 +86,9 @@ XII. Fomentar el incremento sostenido de la productividad y la competitividad co
 
 XIII. Evaluar y dar seguimiento a la evolución del crecimiento de la productividad y la competitividad a nivel sectorial, regional y nacional, y
 
-XIV. Establecer los mecanismos institucionales y de coordinación, para acordar compromisos e indicadores de desempeño, por parte de las dependencias y entidades, órganos autónomos, entidades federativas, con la participación que corresponda a sus municipios y demarcaciones territoriales del Distrito Federal, y los representantes de los emprendedores, los trabajadores y las instituciones educativas y de investigación en las que se realice investigación aplicada a la planta productiva, con el fin de materializar y cumplir con los objetivos, estrategias, metas y acciones que se adopten en el marco del Comité Nacional de Productividad.
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 2017)</small>
+
+XIV. Establecer los mecanismos institucionales y de coordinación, para acordar compromisos e indicadores de desempeño, por parte de las dependencias y entidades, órganos autónomos, entidades federativas, con la participación que corresponda a sus municipios y demarcaciones territoriales de la Ciudad de México, y los representantes de los emprendedores, los trabajadores y las instituciones educativas y de investigación en las que se realice investigación aplicada a la planta productiva, con el fin de materializar y cumplir con los objetivos, estrategias, metas y acciones que se adopten en el marco del Comité Nacional de Productividad.
 
 ###### Artículo 4.
 
@@ -212,7 +216,9 @@ V. Identificar sectores económicos y regiones específicas del territorio nacio
 
 VI. Proponer mecanismos para la coordinación de acciones y esfuerzos de los sectores público, privado y social en materia de información, inversiones, producción y demás factores que promuevan el cambio estructural de la economía nacional;
 
-VII. Proponer esquemas de coordinación y suscribir convenios con las dependencias y entidades; entidades federativas, con la participación que corresponda a sus municipios y demarcaciones territoriales del Distrito Federal; órganos autónomos, y las Comisiones Estatales de Productividad, respecto al diseño, ejecución y evaluación de políticas, programas, reglas de operación, proyectos y cambios regulatorios, necesarios para potenciar la productividad y competitividad de la economía nacional o de un sector o región específicos;
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 2017)</small>
+
+VII. Proponer esquemas de coordinación y suscribir convenios con las dependencias y entidades; entidades federativas, con la participación que corresponda a sus municipios y demarcaciones territoriales de la Ciudad de México; órganos autónomos, y las Comisiones Estatales de Productividad, respecto al diseño, ejecución y evaluación de políticas, programas, reglas de operación, proyectos y cambios regulatorios, necesarios para potenciar la productividad y competitividad de la economía nacional o de un sector o región específicos;
 
 VIII. Proponer a las dependencias y entidades mecanismos de colaboración para lograr una articulación eficaz entre ellas y del Ejecutivo Federal con los sectores público, social y privado, para efecto del estudio, discusión, propuestas y directrices en la formulación de políticas, programas, reglas de operación, proyectos y regulación dirigidos a impulsar el incremento de la productividad y competitividad de la economía nacional o de un sector o región específicos;
 
@@ -282,7 +288,9 @@ I. Las dependencias y entidades, de conformidad con sus atribuciones y funciones
 
 II. Los órganos autónomos, según lo dispuesto en los convenios de coordinación que se suscriban para tal efecto, de conformidad con el artículo 11, fracción VII, de esta Ley;
 
-III. Los gobiernos de las entidades federativas, los municipios y demarcaciones territoriales del Distrito Federal, así como las Comisiones Estatales de Productividad, según lo dispuesto en los convenios de coordinación que se suscriban para tal efecto, de conformidad con el artículo 11, fracción VII, de esta Ley, y
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 2017)</small>
+
+III. Los gobiernos de las entidades federativas, los municipios y demarcaciones territoriales de la Ciudad de México, así como las Comisiones Estatales de Productividad, según lo dispuesto en los convenios de coordinación que se suscriban para tal efecto, de conformidad con el artículo 11, fracción VII, de esta Ley, y
 
 IV. Los integrantes de los sectores social y privado.
 
@@ -375,3 +383,11 @@ Séptimo.- Se derogan todas las disposiciones jurídicas que se opongan a lo est
 México, D.F., a 19 de marzo de 2015.- Dip. Julio César Moreno Rivera, Presidente.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lucero Saldaña Pérez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a seis de mayo de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 17 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 2, 3, 11 Y 14 DE LA LEY PARA IMPULSAR EL INCREMENTO SOSTENIDO DE LA PRODUCTIVIDAD Y LA COMPETITIVIDAD DE LA ECONOMÍA NACIONAL”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
