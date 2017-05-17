@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-que-establece-las-bases-para-la-115453"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-07-04"
-last_updated: "2016-07-04"
+last_updated: "2017-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115453&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-06-20"
 
 ACUERDO GENERAL QUE ESTABLECE LAS BASES PARA LA IMPLEMENTACIÓN, INGRESO, PROMOCIÓN Y DESARROLLO DEL SERVICIO CIVIL DE CARRERA ADMINISTRATIVA CON PARIDAD DE GÉNERO EN EL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MAYO DE 2017.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 4 de julio de 2016.
 
@@ -231,7 +231,9 @@ I. Será presidido por la persona que ostente la Presidencia de la Comisión de 
 
 II. Una Magistrada o Magistrado integrante de la Sala Superior del Tribunal Electoral que desempeñe el cargo de Comisionada o Comisionado en la Comisión de Administración;
 
-III. Una o un integrante de la Comisión de Administración que sea integrante del Consejo de la Judicatura Federal;
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 2017)</small>
+
+III. Dos integrantes de la Comisión de Administración que lo sean del Consejo de la Judicatura Federal;
 
 IV. Una Magistrada o un Magistrado de las Salas Regionales del Tribunal Electoral, designada o designado por insaculación;
 
@@ -620,3 +622,15 @@ CERTIFICA
 Que la presente copia en 16 fojas, corresponde al “Acuerdo General que establece las bases para la implementación, ingreso, promoción y desarrollo del servicio civil de carrera administrativa con paridad de género en el Tribunal Electoral del Poder Judicial de la Federación”, aprobado por la Comisión de Administración mediante Acuerdo 179/S6(14-VI-2016), emitido en la Sexta Sesión Ordinaria celebrada el 14 de junio de 2016; documento que obra en los archivos del Centro de Capacitación Judicial Electoral.- DOY FE.
 
 Ciudad de México, a 20 de junio de 2016.- El Secretario de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, Jorge Enrique Mata Gómez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 17 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE “MODIFICACIÓN AL ACUERDO GENERAL QUE ESTABLECE LAS BASES PARA LA IMPLEMENTACIÓN, INGRESO, PROMOCIÓN Y DESARROLLO DEL SERVICIO CIVIL DE CARRERA ADMINISTRATIVA CON PARIDAD DE GÉNERO EN EL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a las presentes reformas.
+
+TERCERO. Para su mayor difusión, publíquese en las páginas de intranet e internet del Tribunal Electoral del Poder Judicial de la Federación; adicionalmente, hágase del conocimiento a todas las áreas del Tribunal Electoral a partir de su entrada en vigor.
