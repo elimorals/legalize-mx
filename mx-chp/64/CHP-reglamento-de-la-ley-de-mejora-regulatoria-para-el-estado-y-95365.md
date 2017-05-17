@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-ley-de-mejora-regulatoria-para-el-estado-y-953
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-19"
-last_updated: "2013-06-19"
+last_updated: "2017-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO Y LOS MUNICIPIOS DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO Y LOS MUNICIPIOS DE CHIAPAS, PUBLICADO EN EL P.O. DE 17 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO Y LOS MUNICIPIOS DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 19 de junio de 2013.
 
@@ -31,7 +33,9 @@ Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- P
 
 Manuel Velasco Coello, Gobernador del Estado, en ejercicio de las facultades que me confieren los artículos 44 y 47, de la Constitución Política del Estado de Chiapas; 5°, 8°, 13 y 23, de la Ley Orgánica de la Administración Pública del Estado de Chiapas; y,
 
-C o n s i d e r a n d o.
+C o n s i d e r a n d o
+
+[...]
 
 Por los fundamentos y consideraciones anteriormente expuestos, el Ejecutivo Estatal a mi cargo, tiene a bien expedir el siguiente:
 
@@ -758,3 +762,19 @@ Artículo Cuarto.- En cumplimiento de lo dispuesto por el artículo 8° de la Le
 Dado en el Palacio de Gobierno, residencia oficial del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los diecisiete días del mes de mayo del año dos mil trece.
 
 Manuel Velasco Coello, Gobernador del Estado.- Vicente Pérez Cruz, Consejero Jurídico del Gobernador.- Ovidio Cortazar Ramos, Secretario de Economía.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. NO. 1893-A-2017 REGLAMENTO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO Y LOS 2 MUNICIPIOS DE CHIAPAS”.]
+
+Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se abroga el Reglamento de la Ley de Mejora Regulatoria para el Estado y los municipios de Chiapas, publicado en el Periódico Oficial número 039, de fecha 19 de junio de 2013, mediante Publicación número 123-A-2013.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Reglamento.
+
+Artículo Cuarto. En todo lo no previsto por el presente Reglamento, se tomará como definitivo, el criterio emitido por la Comisión Estatal.
+
+Artículo Quinto. En cumplimiento de lo dispuesto por el artículo 8º de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento en el Periódico Oficial.
