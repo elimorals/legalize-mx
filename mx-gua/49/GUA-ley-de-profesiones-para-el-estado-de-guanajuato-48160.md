@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-profesiones-para-el-estado-de-guanajuato-48160"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2017-05-12"
+last_updated: "2017-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE PROFESIONES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el martes 20 de diciembre de 2005.
 
@@ -231,7 +231,9 @@ Para los efectos de esta Ley se entiende por:
 
 I. Autorización provisional para el ejercicio profesional. Acto administrativo por medio del cual la Secretaría de Educación de Guanajuato faculta a una persona para realizar actividades propias de determinada profesión o rama profesional, por estar en trámite su título profesional o el registro del mismo;
 
-II. Cédula profesional. Documento que se obtiene como resultado del registro de un título profesional;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2017)</small>
+
+II. Cédula profesional. Documento que se obtiene como resultado del registro de un título profesional ante la autoridad competente;
 
 III. Colegio estatal por profesión. Organismo coordinador de los colegios municipales de una misma profesión que cuentan con la representatividad a que se refiere esta Ley;
 
@@ -285,9 +287,33 @@ Para obtener un título profesional es requisito indispensable cursar y aprobar 
 
 Los documentos que se expidan a favor de los egresados que hayan cumplido con esta ley y demás disposiciones que rijan en materia de educación, tendrán las denominaciones que determine la autorización respectiva de la autoridad correspondiente.
 
-### CAPÍTULO III. DE LA SECRETARÍA DE EDUCACIÓN DE GUANAJUATO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE MAYO DE 2017)</small>
 
-### CAPÍTULO IV. DEL EJERCICIO PROFESIONAL
+### CAPÍTULO III. DE LA CÉDULA PROFESIONAL ESTATAL
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2017)</small>
+
+###### Artículo 10 Bis.
+
+La Secretaría podrá expedir cédulas una vez efectuado el registro del título y cubiertos los requisitos, por conducto de la unidad que señale el Reglamento de la presente Ley.
+
+Los requisitos y procedimientos para la obtención de la Cédula, se establecerán en el Reglamento.
+
+El Registro Estatal de Profesionistas es el sistema electrónico administrado por la Secretaría que facilita la verificación de la legalidad de las cédulas presentadas por los particulares.
+
+El registro de títulos profesionales se realizará ante la Secretaría, la que expedirá la cédula profesional relativa.
+
+Para este efecto podrá celebrar convenios de coordinación con el Ejecutivo Federal y con otras entidades federativas.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2017)</small>
+
+###### Artículo 10 Ter.
+
+Los profesionistas con título profesional expedido por alguna entidad federativa de la República Mexicana distinta al estado de Guanajuato, para poder obtener el registro de su título profesional, deberán cumplir con las disposiciones establecidas en el Reglamento para la obtención de la Cédula Profesional Estatal.
+
+Para efecto de lo anterior, la patente o Cédula Profesional de la Dirección General de Profesiones de la Secretaría de Educación Pública, se considerará prueba suficiente de que se cumplen en su totalidad los citados requisitos.
+
+### CAPÍTULO IV. DE LA SECRETARÍA DE EDUCACIÓN DE GUANAJUATO
 
 ###### Artículo 11.
 
@@ -347,15 +373,15 @@ El Titular del Poder Ejecutivo podrá convocar a los colegios municipales de pro
 
 Las autoridades estatales y municipales y los particulares están obligados a proporcionar a la Secretaría y a la SICES, los datos, informes y documentos que se les soliciten, en relación a la materia regulada por esta ley.
 
-### CAPÍTULO V. DE LOS DERECHOS Y OBLIGACIONES DE LOS PROFESIONISTAS Y USUARIOS DE SERVICIOS PROFESIONALES
+### CAPÍTULO V. DEL EJERCICIO PROFESIONAL
 
 ###### Artículo 13.
 
 Para ejercer en el Estado las profesiones o ramas profesionales a que se refiere el artículo 4 de esta Ley se requiere contar con título profesional legalmente expedido y registrado, o con la autorización provisional respectiva; así como estar en pleno goce y ejercicio de los derechos civiles.
 
-El registro de títulos profesionales se realizará ante la Secretaría, la que expedirá la cédula profesional relativa.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 19 DE MAYO DE 2017)</small>
 
-Para este efecto podrá celebrar convenios de coordinación con el Ejecutivo Federal y con otras entidades federativas.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 19 DE MAYO DE 2017)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2017)</small>
 
@@ -383,7 +409,7 @@ La Secretaría registrará los títulos profesionales o grados académicos exped
 
 El registro de títulos profesionales es de orden público. La Secretaría establecerá los mecanismos de consulta y otorgamiento de información de conformidad con las disposiciones jurídicas aplicables.
 
-### CAPÍTULO VI. DE LOS COLEGIOS DE PROFESIONISTAS
+### CAPÍTULO VI. DE LOS DERECHOS Y OBLIGACIONES DE LOS PROFESIONISTAS Y USUARIOS DE SERVICIOS PROFESIONALES
 
 #### SECCIÓN SEGUNDA. DE LOS COLEGIOS ESTATALES POR PROFESIÓN
 
@@ -459,7 +485,7 @@ II. Retribuir al profesionista los honorarios convenidos relativos al servicio p
 
 III. Cumplir con los términos y condiciones pactados para la prestación del servicio profesional.
 
-### CAPÍTULO VII. DEL CONSEJO DE PROFESIONISTAS DEL ESTADO DE GUANAJUATO
+### CAPÍTULO VII. DE LOS COLEGIOS DE PROFESIONISTAS
 
 ###### Artículo 22.
 
@@ -615,7 +641,7 @@ Las decisiones del consejo directivo se tomarán por mayoría de votos de sus in
 
 La organización y funcionamiento de los colegios estatales por profesión y de sus respectivos consejos directivos, técnicos y demás órganos se establecerán en el reglamento de esta Ley.
 
-### CAPÍTULO VIII. DE LA CERTIFICACIÓN PROFESIONAL
+### CAPÍTULO VIII. DEL CONSEJO DE PROFESIONISTAS DEL ESTADO DE GUANAJUATO
 
 ###### Artículo 38.
 
@@ -721,7 +747,7 @@ La organización y funcionamiento de los consejos técnicos se determinará en e
 
 En caso de controversia entre profesionistas y sus colegios, respecto de las determinaciones definitivas de los colegios municipales de profesionistas tratándose de admisión, suspensión o exclusión de sus integrantes; de controversias entre colegios municipales de profesionistas; y de las controversias que se susciten entre los colegios municipales de profesionistas y los colegios estatales, éstos podrán acudir al Consejo de Profesionistas del Estado de Guanajuato para dirimir sus controversias, quien podrá proponer una solución; de no estar conformes con ésta, podrán acudir a la Secretaría quien resolverá, conforme al procedimiento que se prevea en el reglamento de la presente Ley.
 
-### CAPÍTULO IX. DEL MEJORAMIENTO CONTINUO DE LOS PROFESIONISTAS
+### CAPÍTULO IX. DE LA CERTIFICACIÓN PROFESIONAL
 
 ###### Artículo 48.
 
@@ -791,7 +817,7 @@ El Consejo de Profesionistas del Estado de Guanajuato, podrá hacer propuestas r
 
 A efecto de que el profesionista certificado pueda obtener el refrendo correspondiente, deberá cumplir con los lineamientos de actualización profesional y acreditar la evaluación correspondiente.
 
-### CAPÍTULO X. DE LAS VISITAS DE VERIFICACIÓN
+### CAPÍTULO X. DEL MEJORAMIENTO CONTINUO DE LOS PROFESIONISTAS
 
 ###### Artículo 57.
 
@@ -811,7 +837,7 @@ II. Investigación e innovación para mejorar el ejercicio profesional, y
 
 III. Vinculación con instancias públicas y privadas.
 
-### CAPÍTULO XI. DE LA CANCELACIÓN DE REGISTROS
+### CAPÍTULO XI. DE LAS VISITAS DE VERIFICACIÓN
 
 ###### Artículo 60.
 
@@ -853,7 +879,7 @@ X. El visitado, su representante o la persona con la que se haya entendido la vi
 
 Para los efectos de las visitas de verificación, la cancelación de registros, la imposición de sanciones y el recurso de inconformidad, en lo no previsto por esta Ley se aplicará de manera supletoria el Código de Procedimientos Civiles para el Estado de Guanajuato.
 
-### CAPÍTULO XII. DE LAS INFRACCIONES
+### CAPÍTULO XII. DE LA CANCELACIÓN DE REGISTROS
 
 ###### Artículo 62.
 
@@ -897,9 +923,7 @@ La Secretaría también cancelará los registros a que alude la Ley, cuando lo s
 
 La Secretaría, inscribirá en el libro de registro respectivo la anotación de cancelación, haciendo constar las causas que la motivan, debiendo publicarla en el Periódico Oficial del Gobierno del Estado dentro de los treinta días siguientes.
 
-### CAPÍTULO XIII. DE LAS SANCIONES
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+### CAPÍTULO XIII. DE LAS INFRACCIONES
 
 ###### Artículo 67.
 
@@ -951,7 +975,9 @@ VIII. Abstenerse de verificar el cumplimiento del código de ética por parte de
 
 IX. Incumplir con las demás obligaciones establecidas en esta Ley, su reglamento y demás disposiciones jurídicas aplicables.
 
-### CAPÍTULO XIV. DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO XIV. DE LAS SANCIONES
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### Artículo 70.
 
@@ -1010,6 +1036,8 @@ Las multas que se impongan por concepto de infracciones a esta Ley tendrán el c
 Corresponde a la Secretaría la aplicación de las sanciones contenidas en el presente capítulo, éstas no eximen de la responsabilidad que se pudiera derivar respecto de alguna otra materia.
 
 Para la imposición de las sanciones, la Secretaría deberá respetar la garantía de audiencia de los infractores y escuchar la opinión del colegio estatal por profesión correspondiente.
+
+### CAPÍTULO XV. DEL RECURSO DE INCONFORMIDAD
 
 ###### Artículo 75.
 
@@ -1318,3 +1346,11 @@ Artículo Segundo. La Secretaría de Educación de Guanajuato tendrá 90 días n
 Artículo Tercero. El titular del Poder Ejecutivo tendrá 90 días naturales para modificar el Reglamento de la Ley de Profesiones para el Estado de Guanajuato.
 
 Artículo Cuarto. El titular del Poder Ejecutivo en un plazo de 60 días naturales, a partir de la entrada en vigor del presente decreto deberá presentar la iniciativa correspondiente a efecto de reformar la Ley de Ingresos para el Estado de Guanajuato para el ejercicio fiscal de 2017, y prever lo relativo al derecho por la expedición de la autorización provisional para el ejercicio profesional y su gratuidad.
+
+P.O. 19 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 188, APROBADO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROFESIONES PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. A partir del inicio de vigencia del presente Decreto, el Titular del Ejecutivo del Estado realizará las adecuaciones reglamentarias en un término de sesenta días.
