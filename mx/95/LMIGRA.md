@@ -4,7 +4,7 @@ identifier: "LMIGRA"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2016-04-21"
+last_updated: "2017-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81425&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMIGRA"
 
 LEY DE MIGRACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MAYO DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 25 de mayo de 2011.
 
@@ -654,7 +654,9 @@ I. VISITANTE SIN PERMISO PARA REALIZAR ACTIVIDADES REMUNERADAS. Autoriza al extr
 
 II. VISITANTE CON PERMISO PARA REALIZAR ACTIVIDADES REMUNERADAS. Autoriza al extranjero que cuente con una oferta de empleo, con una invitación por parte de alguna autoridad o institución académica, artística, deportiva o cultural por la cual perciba una remuneración en el país, o venga a desempeñar una actividad remunerada por temporada estacional en virtud de acuerdos interinstitucionales celebrados con entidades extranjeras, para permanecer en territorio nacional por un tiempo ininterrumpido no mayor a ciento ochenta días, contados a partir de la fecha de entrada.
 
-III. VISITANTE REGIONAL. Autoriza al extranjero nacional o residente de los países vecinos para ingresar a las regiones fronterizas con derecho a entrar y salir de las mismas cuantas veces lo deseen, sin que su permanencia exceda de tres días y sin permiso para recibir remuneración en el país.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2017)</small>
+
+III. VISITANTE REGIONAL. Autoriza al extranjero nacional o residente de los países vecinos para ingresar a las regiones fronterizas con derecho a entrar y salir de las mismas cuantas veces lo deseen, sin que su permanencia exceda de siete días y sin permiso para recibir remuneración en el país.
 
 Mediante disposiciones de carácter administrativo, la Secretaría establecerá la vigencia de las autorizaciones y los municipios y entidades federativas que conforman las regiones fronterizas, para efectos del otorgamiento de la condición de estancia de visitante regional.
 
@@ -1667,3 +1669,9 @@ D.O.F. 21 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 48 DE LA LEY DE MIGRACIÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 52 DE LA LEY DE MIGRACIÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
