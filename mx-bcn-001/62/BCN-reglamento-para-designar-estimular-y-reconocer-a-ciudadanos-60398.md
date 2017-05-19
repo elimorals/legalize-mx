@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-designar-estimular-y-reconocer-a-ciudadanos-603
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-14"
-last_updated: "2017-04-21"
+last_updated: "2017-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA DESIGNAR, ESTIMULAR Y RECONOCER A CIUDADANOS, HUÉSPEDES Y VISITANTES DISTINGUIDOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2017.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de marzo de 2008.
 
@@ -65,49 +65,49 @@ REGLAMENTO PARA DESIGNAR, ESTIMULAR Y RECONOCER A CIUDADANOS, HUÉSPEDES Y VISIT
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 1.
 
-Las disposiciones del presente Reglamento son de orden público, interés social y observancia obligatoria en el Municipio de Ensenada, Baja California; y tiene por objeto regular el procedimiento para otorgar reconocimientos a ciudadanos distinguidos del Municipio y Personalidades Distinguidas que visiten el Municipio de Ensenada.
+Las disposiciones del presente Reglamento son de orden público, interés social y observancia obligatoria en el Municipio de Ensenada, Baja California; y tiene por objeto regular el procedimiento para otorgar reconocimientos a ciudadanos distinguidos del Municipio y personalidades distinguidas que visiten el Municipio de Ensenada.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 2.
 
 Podrán ser candidatos a recibir alguno de los reconocimientos que señala el presente ordenamiento aquellos ciudadanos que destaquen o hayan destacado en las siguientes categorías:
 
-a) Investigación científica y tecnológica.- Ciudadano cuyos descubrimientos o labor de investigación representen una contribución relevante para el progreso de la humanidad, visto desde las ciencias exactas.
+a) Investigación científica y tecnológica.- Ciudadano (sic) cuyos descubrimientos o labor de investigación representen una contribución relevante para el progreso de la humanidad, visto desde las ciencias exactas.
 
 b) Innovación.- La creación de nuevos productos, servicios o procedimientos que encuentran una aplicación exitosa en beneficio de un grupo determinado o la sociedad en general.
 
-c) Cultura.- Aquella persona que destaque en cualquier aspecto cultural como la música, danza, pintura, literatura, o cualquier otra (sic) arte que caracterice y destaque a nivel municipal, nacional o internacional.
+c) Cultura.- Aquella persona que destaque en cualquier aspecto cultural como la música, danza, pintura, literatura o cualquier otra arte que caracterice y destaque a nivel municipal, nacional o internacional.
 
-d) Humanismo.- Persona que dentro de sus actividades destaca, protege, conserva y/o promueve acciones en beneficio derechos humanos como la vida, la libertad, la educación y en general cualquier derecho fundamental del hombre.
+d) Humanismo.- Persona que dentro de sus actividades destaca, protege, conserva y/o promueve acciones en beneficio de los derechos humanos como la vida, libertad, la educación y en general cualquier derecho fundamental del hombre.
 
-e) Medio Ambiente.- Persona que destaca en el cuidado, protección y mejoramiento del medio ambiente dentro del municipio de Ensenada.
+e) Ecología.- Persona que destaca en el cuidado protección y mejoramiento del medio ambiente dentro del municipio de Ensenada.
 
-f) Gobierno.- Persona que destaque o haya destacado durante su gestión en algún puesto de gobierno implementando alguna política pública innovadora y ésta haya dejado un beneficio a la sociedad. No podrán ser servidores públicos en funciones.
+f) Gobierno.- persona que destaque o haya destacado durante su gestión en algún puesto de gobierno implementando alguna política pública innovadora y esta haya dejado un beneficio a la sociedad. No podrán ser servidores públicos en funciones.
 
 g) Política.- Aquella persona que implemente o haya implementado acciones de organización de la sociedad en beneficio y mejoramiento de la convivencia humana o el mejoramiento de la calidad de vida.
 
-h) Labor social.- Solidaridad y apoyo para aquellos que lo requieren, mediante la participación en programas de desarrollo social o actividades altruistas que brinden bienes o servicios a un grupo determinado de la sociedad de Ensenada.
+h) Labor Social.- Solidaridad y apoyo para aquellos que lo requieren, mediante la participación en programas de desarrollo social o actividades altruistas que brinden bienes o servicios a un grupo determinado de la sociedad de Ensenada.
 
 i) Economía.- Persona que destaque por los estudios o mejoramiento de procesos que mejoren la calidad de vida de las personas a través de la economía familiar o propuesta dentro de la administración pública de cualquier orden.
 
 j) Periodismo.- Ciudadano que destaque a través del periodismo en cualquiera de sus ramas: televisión, radio, periódico, redes sociales, portales web, etc. y cuente con una trayectoria destacada en la objetividad y valor informativo en su labor.
 
-k) Academia.- Ciudadano que destaque por su trayectoria como docente de educación superior o investigador que ha formado profesionistas en Ensenada.
+k) Academia.- Ciudadano que destaque por su trayectoria como docente o investigador que haya formado profesionistas en Ensenada.
 
-l) Deporte.- Aquel que destaque en cualquier actividad de las consideradas como deportivas y sea reconocido a nivel local, nacional o internacional.
+l) Deporte.- Aquel que destaque en cualquier actividad de las consideradas como deportivas y sea reconocido nivel local, nacional o internacional.
 
 m) Juventud.- Ciudadano de 12 a 29 años al momento de lanzar la convocatoria que por su destacada labor en cualquier (sic) de las áreas sea importante reconocer para fomentar la participación de la juventud en la vida pública.
 
-n) Maestro en vida: Maestro que destaque o haya destacado en el ámbito de la docencia, trabajo social, liderazgo, entre otros, dentro de alguna institución educativa del municipio de Ensenada, B.C.
+n) Maestro en vida.- maestro que destaque o haya destacado en el ámbito de la docencia, trabajo social, liderazgo, entre otros, dentro de alguna institución educativa del municipio de Ensenada, B.C.
 
-o) Maestro Post-mortem: Maestro que en vida haya destacado en el ámbito de la docencia, trabajo social, liderazgo, entre otros, dentro de alguna institución educativa del municipio de Ensenada, B.C.
+o) Maestro Post-Mortem: Maestro que en vida haya destacado en el ámbito de la docencia trabajo social, liderazgo, entre otros, dentro de alguna institución educativa del municipio de Ensenada, B. C.
 
-Así como aquellas personas que sean prominentes o destacadas en alguna profesión u oficio, y que al visitar nuestro Municipio merezca ser reconocida su estancia como Distinguida.
+Así como, aquellas personas que sean prominentes o destacadas en alguna profesión u oficio, y que al visitar nuestro Municipio merezca ser reconocida su estancia como Distinguida.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -139,7 +139,7 @@ V. RECONOCIMIENTO.- A las distinciones otorgadas por el H. Ayuntamiento o en su 
 
 VI. REGLAMENTO.- Reglamento para designar, estimular y reconocer a ciudadanos, huéspedes y visitantes distinguidos del municipio de Ensenada.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 5.
 
@@ -153,7 +153,7 @@ III. La Secretaría General del Ayuntamiento;
 
 IV. El Comité de Evaluación; y
 
-V. La Dirección de Relaciones Públicas.
+V. La Dirección de Relaciones Públicas y Comunicación Social.
 
 Corresponde a las demás Dependencias, Organismos y Unidades de la Administración Pública Municipal, dentro de su respectivo ámbito de competencia, proporcionar el apoyo y la información técnica necesaria para el eficaz cumplimiento del presente ordenamiento.
 
@@ -221,11 +221,11 @@ III. Emitir su voto en referencia a la propuesta del nombramiento de Huésped Di
 
 IV. Las demás facultades y atribuciones que le otorga el presente ordenamiento y disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 11.
 
-Corresponde a la Dirección de Relaciones Públicas:
+Corresponde a la Dirección de Relaciones Públicas y Comunicación Social:
 
 I. Llevar el control del libro donde se registren las personalidades Distinguidas que visiten el Municipio de Ensenada;
 
@@ -235,7 +235,7 @@ III. Coordinarse con la Secretaría General del Ayuntamiento cuando se reciba la
 
 IV. Brindar información a las Personalidades Distinguidas en materia de usos y costumbres de nuestro Municipio;
 
-V. Difundir por medios electrónicos y mantener en el sitio web del Gobierno Municipal el registro de las ciudadanos que han sido distinguidos en cualquier categoría.
+V. Difundir por medios electrónicos y mantener un sitio web del Gobierno Municipal el registro de los ciudadanos que han sido distinguidos en cualquier categoría.
 
 VI. Las demás facultades y atribuciones que señale el presente reglamento y disposiciones legales aplicables.
 
@@ -245,15 +245,15 @@ VI. Las demás facultades y atribuciones que señale el presente reglamento y di
 
 Para el caso de personalidades de procedencia extranjera que no dominen el idioma español, toda comunicación que se les haga llegar deberá ir acompañada de una traducción en su idioma, lengua o dialecto de origen o en algún otro que ellos mismos soliciten, con el fin de facilitar el correcto entendimiento y comprensión de cualquier documento o trámite.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 13.
 
-En el marco del aniversario de Ensenada, el quince de mayo de cada año, en Sesión Solemne, el C. presidente Municipal, o quien lo supla en sus funciones entregará el reconocimiento correspondiente a aquellos ciudadanos que se hubieren hecho merecedores de tal distinción.
+En el marco del aniversario de Ensenada, el quince de mayo de cada año, en Sesión Solemne de Cabildo, el C. Presidente Municipal, o quien lo supla en sus funciones entregará el reconocimiento correspondiente a aquellos ciudadanos que se hubieren hecho merecedores de tal distinción.
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2017)</small>
 
-ARTÍCULO 13 BIS.- Únicamente para el caso del reconocimiento como ciudadano distinguido en su categoría de Maestro en vida y Maestro Post-mortem, el quince de mayo de cada año, se celebrará ceremonia cívica en el Monumento al Maestro, Ubicado en la Plaza Cívica a la Patria, en la cual el C. Presidente Municipal, o quien lo supla en sus funciones procederá a la colocación de una placa que perpetuará el nombre de la maestra o maestro distinguido, en un libro situado a un costado del monumento al maestro, ubicado en la Plaza Cívica a la Patria.
+ARTÍCULO 13 BIS.- Únicamente para el caso del reconocimiento de ciudadano distinguido en su categoría Maestro en Vida y Maestro Post-mortem, el quince de mayo de cada año se celebrara ceremonia cívica en el Monumento al Maestro, ubicado en la Plaza Cívica de la Patria, en el cual el Presidente Municipal, o quien lo supla en sus funciones procederá a la colocación de una placa que perpetuará el nombre de la maestra o maestro distinguido, en un libro situado a un costado del Monumento al Maestro, ubicado en la Plaza Cívica a la Patria.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -285,17 +285,17 @@ II. Nombramiento de Huésped Distinguido: Considerándose como tal a persona nac
 
 III. Nombramiento de Visitante Distinguido: Persona nacional o extranjera, destacada en cualquiera de los ámbitos señalados en el artículo 2 del presente ordenamiento, que acuda a nuestro Municipio en forma transitoria con o sin objeto determinado, y sin haber sido formalmente invitado por la Administración Pública Municipal.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 17.
 
-El reconocimiento consistirá en una placa con la impresión del escudo del Municipio de Ensenada, Baja California; cuya entrega será pública. En dichos documentos constará el nombre de la Personalidad reconocida, tipo de nombramiento que se le otorga, fecha de la visita, en su caso, y firma autógrafa del Presidente Municipal.
+El reconocimiento consistirá en una placa con la impresión del Escudo del Municipio de Ensenada, Baja California; cuya entrega será pública. En dichos documentos constará el nombre de la personalidad reconocida, tipo de nombramiento que se le otorga, fecha de la visita, en su caso, y firma autógrafa del Presidente Municipal.
 
-Al Ciudadano Distinguido, adicionalmente se le entregará una Medalla con la impresión del Escudo del Municipio, con la Leyenda "Ciudadano Distinguido del Municipio de Ensenada, B.C.", el año que corresponda, y además se publicará su Biografía y/o la Monografía de su trabajo.
+Al Ciudadano Distinguido, adicionalmente se le entregará una medalla con la impresión del Escudo del Municipio, con la leyenda. "Ciudadano Distinguido del Municipio de Ensenada, B.C.", el año que corresponda, y además se publicará su Biografía y/o la Monografía de su trabajo.
 
-Tratándose del reconocimiento al Maestro en Vida o Maestro Post-mortem la medalla y reconocimiento tendrán la leyenda de "Maestro Distinguido", mismas que serán entregadas en la sesión solemne de cabildo, en que se reconozcan al resto de las categorías de ciudadano distinguido; independientemente de la colocación de la placa que será ubicado en un libro situado a un costado del monumento al maestro en la Plaza Cívica a la Patria el día y hora a Celebrarse la ceremonia cívica prevista en el artículo 13 bis del presente reglamento.
+Tratándose del reconocimiento al Maestro en Vida o Maestro Post-Mortem la medalla y reconocimiento tendrá (sic) la leyenda de “Maestro Distinguido”, mismas que serán entregadas en la Sesión Solemne de Cabildo, en que se reconozcan al resto de las categorías de ciudadano distinguido; independientemente de la colocación de la placa que será ubicado (sic) en un libro situado a un costado del Monumento al Maestro en la Plaza Cívica a la Patria el día y hora a celebrarse la ceremonia cívica prevista en el artículo 13 bis del presente reglamento.
 
-El Huésped Distinguido recibirá de manos del Presidente Municipal, además del Reconocimiento, "La Llave de la Ciudad", que llevará impresa la leyenda "LLAVE DE LA CIUDAD DE ENSENADA, BAJA CALIFORNIA".
+El Huésped Distinguido recibirá de manos del Presidente Municipal, además del reconocimiento, "La Llave de la Ciudad", que llevará impresa la leyenda "LLAVE DE LA CIUDAD DE ENSENADA, BAJA CALIFORNIA".
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -305,7 +305,7 @@ El Huésped Distinguido recibirá de manos del Presidente Municipal, además del
 
 #### SECCIÓN I.. A CIUDADANOS DISTINGUIDOS
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 18.
 
@@ -313,7 +313,7 @@ A más tardar el 15 de febrero, se publicará anualmente la convocatoria, en por
 
 La postulación deberá siempre ser a través de un organismo o tercera persona, no se admitirán auto propuestas.
 
-La convocatoria a que hace mención el presente artículo deberá contener detalladamente cuando menos, las categorías en las que puede ser postulada la persona, los requisitos e información de la misma, la fecha límite para la recepción de propuestas, el lugar de recepción, así como un número de teléfono y correo electrónico que sirva de contacto para mayor información de la convocatoria.
+La convocatoria a que hace mención el presente artículo deberá contener detalladamente cuando menos, la (sic) categorías en las que puede ser postulada la persona, los requisitos e información de la misma. La fecha límite para la recepción de propuestas, el lugar de recepción, así como un número de teléfono y correo electrónico que sirva de contacto para mayor información de la convocatoria.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -321,31 +321,29 @@ La convocatoria a que hace mención el presente artículo deberá contener detal
 
 La propuesta deberá presentarse en la Secretaria General del Ayuntamiento a partir de la publicación de la convocatoria, teniendo como fecha límite para su presentación el penúltimo viernes del mes de mes de marzo del año que corresponda.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 20.
 
 La propuesta deberá contener:
 
-I.- El Comité tendrá un plazo de quince días naturales para emitir el dictamen, una vez que se cumpla el término para la recepción de solicitudes ante la Secretaria General, de acuerdo a la convocatoria.
+l. Nombre y domicilio de la persona física o moral que hace la propuesta. En caso de una persona moral será presentada por conducto de su representante legítimo, acompañando para tal efecto la documentación que acredite su personalidad.
 
-II.- El Comité será convocado por el Secretorio General del Ayuntamiento, a las reuniones para conocer las propuestas y emitir el dictamen correspondiente.
+II. Nombre, lugar de nacimiento, edad, estado civil, profesión u oficio del candidato y reconocimiento para el cual se propone.
 
-III.- Una vez aprobado el dictamen por el Comité, deberá ser presentado por conducto del Presidente Municipal, en la sesión de Cabildo más próxima, para que el Ayuntamiento determine lo conducente.
+III. Descripción pormenorizada de los actos o actividades que fundamenten los méritos de las personas.
 
-IV.- Toda aquella documentación que se considere necesaria para comprobar los actos o actividades que hace mención la fracción anterior.
+IV. Todo aquella documentación que se considere necesaria para comprobar los actos o actividades que hace mención la fracción anterior.
 
-(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 27 DE MARZO DE 2015)
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2017)</small>
 
-ARTÍCULO 20 BIS.- Una vez que ha sido recibida la documentación en la Secretaria General del Ayuntamiento de Ensenada se seguirá el siguiente procedimiento:
+ARTÍCULO 20 BIS.- Una vez que ha sido recibida la documentación en la Secretaría General del Ayuntamiento de Ensenada se seguirá el siguiente procedimiento:
 
-I. Se enlistará en el orden del día de la siguiente sesión de cabildo para ser turnado a la Comisión de Educación, Cultura, Ciencia y Tecnología, o conjuntamente con las comisiones que así se considere.
+1.- El Comité tendrá un plazo de quince días naturales para emitir el dictamen, una vez que se cumpla el término para la recepción de solicitudes ante la Secretaría General del Ayuntamiento, de acuerdo a la convocatoria.
 
-II. La Comisión solicitará inmediatamente el dictamen correspondiente del Comité a través de la Secretaria General, esto última será la responsable de convocar a los miembros del mismo.
+2.- El Comité será convocado por el Secretario General del Ayuntamiento, a las reuniones para conocer las propuestas y emitir el dictamen correspondiente.
 
-III. El Comité tendrá un término no mayor o 15 días naturales para emitir el dictamen, el cual a su vez deberá remitir a la comisión a través de la Secretaria General. En Caso de no dar respuesta en el término fijado y una vez cerciorado que si se convocó y remitió la información al comité, la comisión resolverá lo conducente.
-
-IV. Una vez que se reciba el dictamen del comité y analizado que fuese el tema por parte de la comisión, esta última elaborará el dictamen definitivo que será presentado ante el Pleno del Cabildo para su correspondiente aprobación.
+3.- Una vez aprobado el Dictamen por el Comité, deberá ser presentado por conducto del Presidente Municipal en la Sesión de Cabildo más próxima, para que el Ayuntamiento determine lo conducente.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -357,15 +355,15 @@ IV. Una vez que se reciba el dictamen del comité y analizado que fuese el tema 
 
 El Presidente Municipal, o cualquiera de los miembros del Ayuntamiento, quienes en representación del propio Ayuntamiento, hubiesen invitado oficialmente a alguna personalidad para visitar el Municipio: desde el momento en que tengan conocimiento de la fecha programada por éste para su visita, podrán solicitar si así lo consideran conveniente le sea entregado durante su estancia en el Municipio el reconocimiento de "Huésped Distinguido".
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 22.
 
-El procedimiento para aprobar la distinción como "Huésped Distinguido" será el siguiente:
+El procedimiento para aprobar la distinción como “Huésped Distinguido” será el siguiente:
 
-1.- Se remitirá la documentación a la Secretaría General, para efectos de que a la brevedad posible, convoque al Comité.
+1.- Se remitirá la documentación a la Secretaria General del Ayuntamiento para efectos de que a la brevedad posible, convoque al Comité.
 
-2.- El Comité tendrá un término no mayor a 10 días naturales para emitir el dictamen, pudiendo ser menos según la fecha de la visita del personaje postulado para "Huésped Distinguido". En caso de no dar respuesta en el término fijado el Ayuntamiento resolverá lo conducente.
+2.- El Comité tendrá un término no mayor a 10 días naturales para emitir el dictamen, pudiendo ser menos según la fecha de la visita del personaje postulado para “Huésped distinguido”, en caso de no dar respuesta en el término fijado el Ayuntamiento resolverá lo conducente.
 
 3.- El Dictamen del Comité será presentado por conducto del Presidente Municipal, en la Sesión de Cabildo más próxima, para que el Ayuntamiento determine lo conducente.
 
@@ -395,65 +393,71 @@ La propuesta deberá ser incluida, por la Secretaría General, en el orden del d
 
 ### CAPITULO CUARTO. DEL COMITÉ DE EVALUACIÓN
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 26.
 
-A efecto de analizar las propuestas presentadas, se invitará a los sectores más representativos de la sociedad en cada área a reconocerse, para que nombren un representante que forme parte del comité de evaluación para Designar a Ciudadanos Distinguidos.
+A efecto de analizar las propuestas presentadas, se invitará a los sectores más representativos de la sociedad en cada área a reconocerse, para que nombren un representante que forme parte del Comité de Evaluación para Designar a Ciudadanos y Huéspedes Distinguidos.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 27.
 
 El Comité estará integrado por:
 
-a) El Cronista de la Ciudad
+a) Cronista de la Ciudad
 
-b) El o la titular de la Dirección de Educación
+b) Titular del Departamento de Educación.
 
-c) El o la titular de la Dirección del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, B.C., (IMCUDHE)
+c) Titular de la Dirección del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, B.C., (IMCUDHE)
 
-d) El o la titular de la Dirección del Instituto Municipal del Deporte y Recreación (INMUDERE).
+d) Titular de la Dirección del Instituto Municipal del Deporte y Recreación (INMUDERE).
 
-e) El o la titular de la Dirección del Instituto Municipal de la Juventud de Ensenada (lMJUVENS)
+e) Titular de la Dirección del Instituto Municipal de la Juventud de Ensenada (IMJUVENS).
 
-f) Los Regidores que conforman la Comisión de Educación, Cultura, Ciencia y Tecnología.
+f) Regidor Coordinador de la Comisión de Educación, Cultura, Ciencia y Tecnología.
 
-g) Los Regidores que conforman la Comisión de Juventud
+g) Regidor Coordinador de la Comisión de Juventud.
 
-h) Los Regidores que conforman la Comisión de Deporte.
+h) Regidor Coordinador de la Comisión de Deporte.
 
-I) Los representantes de los sectores más representativos de la sociedad en cada área a reconocerse.
+i) Regidor Coordinador de la Comisión de Ecología y Medio Ambiente.
 
-j) El Secretario General del Ayuntamiento únicamente con voz, quien dará seguimiento a los acuerdos tomados.
+j) Regidor Coordinador de la Comisión de Desarrollo Social.
 
-k) El Presidente Municipal con derecho de voto de calidad en caso de empate.
+k) Regidor Coordinador de la Comisión de Planeación y Desarrollo Económico.
+
+l) Regidor Coordinador de la Comisión de Administración Pública y Fortalecimiento Municipal.
+
+m) Los representantes de los sectores más representativos de la sociedad en cada área a reconocerse.
+
+n) El Secretario General del Ayuntamiento únicamente con voz, quien dará seguimiento a los acuerdos tomados.
+
+o) El Presidente Municipal con derecho de voto de calidad en caso de empate.
 
 El Comité será presidido por el Presidente Municipal y podrá sesionar cuando cuente con la asistencia de más del cincuenta por ciento de sus miembros.
 
-En el caso de los Regidores de las comisiones de las enumeradas en los incisos f), g) y h) estos se contarán como un integrante con independencia de pertenecer o dos o más comisiones.
+En el caso de los regidores de las comisiones enumeradas en los incisos f), g), h), i), j), k) y l) estos se contarán como un integrante con independencia de coordinar a dos o más comisiones.
 
-Todos los integrantes del comité podrán nombrar un suplente en coso de ausencia quien se acreditará con oficio, nombramiento o carta-poder del titular u organismo que representa, con el cual gozará de voz y voto.
+Todos los integrantes del comité podrán nombrar un suplente en caso de ausencia quien se acreditará con oficio, nombramiento o carta-poder del titular u organismo que representa, con el cual gozará de voz y voto.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE ABRIL DE 2017)</small>
+Si a la hora señalada para el inicio de la Sesión no se encuentran presentes integrantes en número suficiente para la declaración del quorum legal, se señalará hora para sesionar en segunda convocatoria a más tardar el siguiente día hábil, celebrando válidamente la sesión con los integrantes que concurran, debiendo estar obligatoriamente en éstos el Presidente Municipal o a quien haya designado.
 
-Si de la hora señalada para el inicio de la sesión no se encuentran presentes integrantes en número suficientes para la declaración del quórum legal, se señalará hora para sesionar en segunda convocatoria a más tardar el siguiente día hábil, celebrando válidamente la sesión con los integrantes que concurran, debiendo estar obligatoriamente entre estos el Presidente Municipal o a quien el designe.
-
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 28.
 
-Una vez que la Secretaría General haya recibido la documentación para la designación del Ciudadano Distinguido o Huésped Distinguido, prevista en el artículo 20 bis y 22 del presente reglamento, convocará, por instrucciones del Presidente Municipal, al Comité de Evaluación a una primera reunión que tendrá como objetivo:
+Una vez que la Secretaría General del Ayuntamiento, haya recibido la documentación para la designación del Ciudadano Distinguido o Huésped Distinguido, prevista en el artículo 20 del presente Reglamento, convocará, por instrucciones del Presidente Municipal, al Comité de Evaluación a una primera reunión que tendrá como objetivo:
 
 I.- Dar a conocer a los miembros del Comité, los nombres de los participantes y el procedimiento para designar a las personas merecedoras del reconocimiento, instituido por el Ayuntamiento de Ensenada.
 
 II.- Distribuir entre los mismos una relación sucinta de los actos o actividades realizados por la persona a quien se está poniendo como merecedora de la presea en cada categoría.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 29.
 
-A más tardar quince días naturales a partir de la primera convocatoria, para el caso del Ciudadano Distinguido, y a los diez días naturales a partir de su recepción para el caso del Huésped Distinguido, el titular de la Secretaría del Ayuntamiento, por instrucciones del Presidente Municipal, convocará al Comité de Evaluación a una segunda reunión dentro de la cual, por mayoría de votos de los presentes, se elegirá a las personas que el Comité considere son merecedoras de recibir el reconocimiento, elaborándose un dictamen que será sometido a la aprobación del Ayuntamiento, con base al procedimiento establecido en el artículo 20 bis y 22 del presente reglamento.
+A mas tardar quince días naturales de la primera convocatoria, para el caso del Ciudadano Distinguido, y a los diez días naturales a partir de su recepción para el caso del Huésped Distinguido, el titular de la Secretaría del Ayuntamiento, por instrucciones del Presidente Municipal, convocará al Comité de Evaluación a una segunda reunión dentro de la cual, por mayoría de votos de los presentes, se elegirá a las personas que el Comité considere son merecedoras de recibir el reconocimiento, elaborándose un dictamen que será sometido a la aprobación del Ayuntamiento, con base al procedimiento establecido en el artículo (sic) 20 bis y 22 del presente reglamento.
 
 En los casos en los que la fecha programada para la Visita del Huésped Distinguido no permita la celebración de dos sesiones y el posterior análisis por parte del Ayuntamiento, el Comité podrá emitir su dictamen en una sola sesión.
 
@@ -475,13 +479,13 @@ Esta decisión corresponde única y exclusivamente al Cabildo, y su fallo será 
 
 El Cabildo podrá dejar vacante la entrega de alguno de los reconocimientos si, a su juicio, considera que la persona o personas propuestas no satisfacen los objetivos de este Reglamento, o si no existen personas propuestas en alguna de las áreas.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 32.
 
-Una vez que el Cabildo acuerde cuáles son las personas con mayores méritos para obtener las preseas, el titular de la Secretaría General de Ayuntamiento procederá a notificar dicho Acuerdo tanto a las personas merecedoras como a los proponentes, solicitando una carta de aceptación de la presea, así como el compromiso de asistir a recibirla con el fin de que estén presentes en la Sesión Solemne a que hace mención el artículo cuarto de este reglamento.
+Una vez que el Cabildo acuerde cuáles son las personas con mayores méritos para obtener las preseas, el titular de la Secretaría General del Ayuntamiento procederá a notificar dicho Acuerdo tanto a las personas merecedoras como a los proponentes, solicitando una carta de aceptación de la presea, así como el compromiso de asistir a recibirla con el fin de que estén presentes en la Sesión Solemne de Cabildo a que hace mención el artículo trece de este reglamento.
 
-En la Sesión Solemne que corresponda se otorgará el reconocimiento respectivo y se asentará la firma de la personalidad Distinguida en el libro donde se registren las personalidades Distinguidas del Municipio de Ensenada, anotando su nombre, procedencia, fecha de la visita (cuando así proceda), tipo de reconocimiento otorgado, así como el mensaje que desee rubricar.
+En la Sesión Solemne de Cabildo que corresponda se otorgará el reconocimiento respectivo y se asentará la firma de la personalidad Distinguida en el libro donde se registren las personalidades Distinguidas del Municipio de Ensenada, anotando su nombre, procedencia, fecha de la visita (cuando así proceda), tipo de reconocimiento otorgado, así como el mensaje que desee rubricar.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -522,3 +526,9 @@ P.O. 21 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR LOS ARTÍCULOS 4 FRACCIÓN II Y 27 DEL REGLAMENTO PARA DESIGNAR, ESTIMULAR Y RECONOCER A CIUDADANOS, HUÉSPEDES Y VISITANTES DISTINGUIDOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, RELATIVO A DICTAMEN 006/2016".]
 
 ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 19 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR DIVERSOS ARTÍCULOS DEL REGLAMENTO PARA DESIGNAR, ESTIMULAR Y RECONOCER A CIUDADANOS, HUÉSPEDES Y VISITANTES DISTINGUIDOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, RELATIVO A DICTAMEN 067/2017].
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
