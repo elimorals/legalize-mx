@@ -4,7 +4,7 @@ identifier: "LDCMPME"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2016-12-01"
+last_updated: "2017-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26811&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDCMPME"
 
 LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MAYO DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 2002.
 
@@ -48,9 +48,11 @@ Lo anterior, con la finalidad de fomentar el empleo y el bienestar social y econ
 
 La Ley es de observancia general en toda la República y sus disposiciones son de orden público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2017)</small>
+
 ###### Artículo 2.
 
-La autoridad encargada de la aplicación de esta Ley es la Secretaría de Economía quien, en el ámbito de su competencia, celebrará convenios para establecer los procedimientos de coordinación en materia de apoyo a la micro, pequeña y mediana empresa, entre las Autoridades Federales, Estatales, del Distrito Federal y Municipales, para propiciar la planeación del desarrollo integral de cada Entidad Federativa, del Distrito Federal y de los Municipios, en congruencia con la planeación nacional.
+La autoridad encargada de la aplicación de esta Ley es la Secretaría de Economía quien, en el ámbito de su competencia, celebrará convenios para establecer los procedimientos de coordinación en materia de apoyo a la micro, pequeña y mediana empresa, entre las Autoridades Federales, Estatales, Municipales y las demarcaciones territoriales de la Ciudad de México, para propiciar la planeación del desarrollo integral de cada Entidad Federativa, de los Municipios y las demarcaciones territoriales de la Ciudad de México, en congruencia con la planeación nacional.
 
 La Secretaría de Economía en el ámbito de su competencia, podrá convenir con particulares para concertar las acciones necesarias para la coordinación en materia de apoyos a la micro, pequeña y mediana empresa.
 
@@ -84,11 +86,15 @@ Se incluyen productores agrícolas, ganaderos, forestales, pescadores, acuiculto
 
 IV. Competitividad: La calidad del ambiente económico e institucional para el desarrollo sostenible y sustentable de las actividades privadas y el aumento de la productividad; y a nivel empresa, la capacidad para mantener y fortalecer su rentabilidad y participación de las MIPYMES en los mercados, con base en ventajas asociadas a sus productos o servicios, así como a las condiciones en que los ofrecen;
 
-V. Sector Público: Dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como del Distrito Federal;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2017)</small>
+
+V. Sector Público: Dependencia y entidades de la Administración Pública Federal, Estatal, Municipal y las demarcaciones territoriales de la Ciudad de México;
 
 VI. Sectores: Los sectores privado, social y del conocimiento;
 
-VII. Organizaciones Empresariales: Las Cámaras Empresariales y sus Confederaciones en su carácter de organismos de interés público; así como las asociaciones, instituciones y agrupamientos que representen a las MIPYMES como interlocutores ante la Federación, las Entidades Federativas, el Distrito Federal y los Municipios;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2017)</small>
+
+VII. Organizaciones Empresariales: Las Cámaras Empresariales y sus Confederaciones en su carácter de organismos de interés público; así como las asociaciones, instituciones y agrupamientos que representen a las MIPYMES como interlocutores ante la Federación, las Entidades Federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México;
 
 VIII. Cadenas Productivas: Sistemas productivos que integran conjuntos de empresas que añaden valor agregado a productos o servicios a través de las fases del proceso económico;
 
@@ -98,7 +104,9 @@ X. Consultoría: Servicio empresarial que consiste en la transferencia de conoci
 
 XI. Capacitación: Servicio empresarial que consiste en la impartición de cursos, talleres y metodologías, con la finalidad de mejorar las capacidades y habilidades de los recursos humanos de las empresas que reciben la atención;
 
-XII. Programas: Esquemas para la ejecución de acciones y participación de la Federación, las Entidades Federativas, del Distrito Federal y de los Municipios;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2017)</small>
+
+XII. Programas: Esquemas para la ejecución de acciones y participación de la Federación, las Entidades Federativas, los Municipios y las demarcaciones territoriales de la ciudad de México;
 
 XIII. Actividades de Fomento: Acciones económicas, jurídicas, sociales, comerciales, de Capacitación o tecnológicas, que contribuyen al desarrollo y competitividad de las MIPYMES, que establezca el Reglamento de esta Ley;
 
@@ -106,9 +114,9 @@ XIV. Sistema: El Sistema Nacional para el Desarrollo de la Competitividad de la 
 
 XV. Consejo: El Consejo Nacional para la Competitividad de la Micro, Pequeña y Mediana Empresa;
 
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2017)</small>
 
-XVI. Consejo Estatal: El Consejo que en cada Entidad Federativa o en el Distrito Federal se establezca para la Competitividad de la Micro, Pequeña y Mediana Empresa;
+XVI. Consejo Estatal: El Consejo que en cada Entidad Federativa se establezca para la Competitividad de la Micro, Pequeña y Mediana Empresa, y
 
 > <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2016)</small>
 
@@ -126,7 +134,9 @@ I. Establecer:
 
 a) Las bases para la planeación y ejecución de las actividades encaminadas al desarrollo de las MIPYMES en el marco de esta Ley;
 
-b) Las bases para la participación de la Federación, de las Entidades Federativas, del Distrito Federal, de los Municipios y de los Sectores para el desarrollo de las MIPYMES;
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2017)</small>
+
+b). Las bases para la participación de la Federación, de las Entidades Federativas, de los Municipios y las demarcaciones territoriales de la Ciudad de México y de los Sectores para el desarrollo de las MIPYMES;
 
 c) Los instrumentos para la evaluación y actualización de las políticas, Programas, instrumentos y Actividades de Fomento para la productividad y competitividad de las MIPYMES, que proporcionen la información necesaria para la toma de decisiones en materia de apoyo empresarial, y
 
@@ -168,9 +178,11 @@ La Secretaría en el ámbito de su competencia, promoverá la participación de 
 
 La Secretaría diseñará, fomentará y promoverá la creación de instrumentos y mecanismos de garantía, así como de otros esquemas que faciliten el acceso al financiamiento a las MIPYMES, en igualdad de oportunidades para mujeres y hombres.
 
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2017)</small>
+
 ###### Artículo 8.
 
-Los esquemas a que se refiere el artículo anterior, podrán ser acordados con los Organismos Empresariales, los Gobiernos de las Entidades Federativas, del Distrito Federal y de los Municipios, así como con entidades financieras.
+Los esquemas a que se refiere el artículo anterior, podrán ser acordados con los Organismos Empresariales, los Gobiernos de las Entidades Federativas, de los Municipios y las demarcaciones territoriales de la Ciudad de México, así como con entidades financieras.
 
 ###### Artículo 9.
 
@@ -196,9 +208,13 @@ V. Perspectiva de género.
 
 La planeación y ejecución de las políticas y acciones de fomento para la competitividad de las MIPYMES debe atender los siguientes criterios:
 
-I. Propiciar la participación y toma de decisiones de las Entidades Federativas, del Distrito Federal y de los Municipios, en un marco de federalismo económico;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2017)</small>
 
-II. Procurar esquemas de apoyo a las MIPYMES a través de la concurrencia de recursos de la Federación, de las Entidades Federativas, del Distrito Federal y de los Municipios, así como de los Sectores;
+I. Propiciar la participación y toma de decisiones de las Entidades Federativas, de los Municipios y las demarcaciones territoriales de la Ciudad de México, en un marco de federalismo económico;
+
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2017)</small>
+
+II. Procurar esquemas de apoyo a las MIPYMES a través de la concurrencia de recursos de la Federación, de las Entidades Federativas, de los Municipios y las demarcaciones territoriales de la Ciudad de México, así como de los Sectores.
 
 > <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2015)</small>
 
@@ -214,9 +230,13 @@ VII. Propiciar nuevos instrumentos de apoyo a las MIPYMES considerando las tende
 
 VIII. Contar con mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las MIPYMES, y
 
-IX. Promover que las dependencias y entidades de la Administración Pública Federal y sus delegaciones en las Entidades Federativas y en el Distrito Federal realicen la planeación de sus adquisiciones de bienes, contratación de servicios y realización de obra pública para destinarlas a las MIPYMES de manera gradual, hasta alcanzar un mínimo del 35%, conforme a la normativa aplicable.
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2017)</small>
 
-Con el objeto de lograr la coordinación efectiva de los programas de fomento a las MIPYMES y lograr una mayor efectividad en la aplicación de los recursos, en las Entidades Federativas donde exista el Consejo Estatal todos los convenios serán firmados por el gobierno estatal o del Distrito Federal, en donde no existan, la Secretaría podrá firmar los convenios de manera directa con los Municipios y los Sectores.
+IX. Promover que las dependencias y entidades de la Administración Pública Federal y sus delegaciones en las Entidades Federativas realicen la planeación de sus adquisiciones de bienes, contratación de servicios y realización de obra pública para destinarlas a las MIPYMES de manera gradual, hasta alcanzar un mínimo del 35%, conforme a la normativa aplicable.
+
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2017)</small>
+
+Con el objeto de lograr la coordinación efectiva de los Programas de fomento a las MIPYMES y lograr una mayor efectividad en la aplicación de los recursos, en las Entidades Federativas donde exista el Consejo Estatal, todos los convenios serán firmados por el gobierno estatal o de la Ciudad de México, en donde no existan, la Secretaría podrá firmar los convenios de manera directa con los Municipios, las demarcaciones territoriales de la Ciudad de México y los Sectores.
 
 ###### Artículo 11.
 
@@ -250,9 +270,13 @@ I. La Secretaría promoverá ante las instancias competentes que los programas y
 
 II. Impulsar un entorno favorable para la creación, desarrollo y crecimiento con calidad de las MIPYMES;
 
-III. Promover con las Entidades Federativas, el Distrito Federal y con los Municipios, la celebración de convenios para coordinar las acciones e instrumentos de apoyo a las MIPYMES de conformidad con los objetivos de la presente Ley;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2017)</small>
 
-IV. Evaluar de manera conjunta con las Entidades Federativas, el Distrito Federal y con los Municipios, los resultados de los convenios a que se refiere el inciso anterior para formular nuevas acciones. Lo anterior, sin perjuicio de las facultades de las autoridades competentes en la materia;
+III. Promover con las Entidades Federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, la celebración de convenios para coordinar las acciones e instrumentos de apoyo a las MIPYMES de conformidad con los objetivos de la presente Ley;
+
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2017)</small>
+
+IV. Evaluar de manera conjunta con las Entidades Federativas, con los Municipios y las demarcaciones territoriales de la Ciudad de México, los resultados de los convenios a que se refiere la fracción anterior para formular nuevas acciones. Lo anterior, sin perjuicio de las facultades de las autoridades competentes en la materia;
 
 V. Evaluar anualmente el desempeño de la Competitividad nacional en relación al entorno internacional;
 
@@ -268,13 +292,17 @@ X. Diseñar un esquema de seguimiento e identificación de resultados de los Pro
 
 Para tal efecto, las dependencias y entidades de la Administración Pública Federal proporcionarán la información que corresponda en términos de la normativa aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2017)</small>
+
 ###### Artículo 13.
 
-La Secretaría promoverá la participación de las Entidades Federativas, del Distrito Federal y de los Municipios, a través de los convenios que celebre para la consecución de los objetivos de la presente Ley, de acuerdo a lo siguiente:
+La Secretaría promoverá la participación de las Entidades Federativas, de los Municipios y las demarcaciones territoriales de la Ciudad de México, a través de los convenios que celebre para la consecución de los objetivos de la presente Ley, de acuerdo a lo siguiente:
 
 I. Un entorno favorable para la creación, desarrollo y crecimiento con calidad de las MIPYMES considerando las necesidades, el potencial y vocación de cada región;
 
-II. La celebración de acuerdos con las dependencias y entidades de la Administración Pública Federal, las Entidades Federativas, el Distrito Federal, los Municipios o grupos de Municipios, para una promoción coordinada de las acciones de fomento para la competitividad de las MIPYMES, que desarrollen las propuestas regionales y la concurrencia de Programas y proyectos;
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2017)</small>
+
+II. La celebración de acuerdos con las dependencias y entidades de la Administración Pública Federal, las Entidades Federativas, los Municipios o grupos de Municipios y las demarcaciones territoriales de la Ciudad de México o grupos de las demarcaciones territoriales de la Ciudad de México, para una promoción coordinada de las acciones de fomento para la competitividad de las MIPYMES, que desarrollen las propuestas regionales y la concurrencia de Programas y proyectos;
 
 III. Participar en el desarrollo de un sistema general de información y consulta para la planeación sobre los sectores productivos y Cadenas Productivas;
 
@@ -412,9 +440,11 @@ Las resoluciones se tomarán por mayoría de votos de los miembros presentes, te
 
 El presidente, a través del secretario técnico, convocará a las sesiones ordinarias con un mínimo de cinco días hábiles de anticipación. En el caso de las extraordinarias, se convocará con tres días hábiles de anticipación.
 
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2017)</small>
+
 ###### Artículo 21.
 
-El domicilio del Consejo será en el Distrito Federal y sesionará en las instalaciones de la Secretaría, siempre que éste no acuerde una sede alterna.
+El domicilio del Consejo será en la Ciudad de México y sesionará en las instalaciones de la Secretaría, siempre que éste no acuerde una sede alterna.
 
 ###### Artículo 22.
 
@@ -444,27 +474,37 @@ XI. Instituir los premios nacionales que reconozcan la competitividad de las MIP
 
 ### Capítulo Quinto. De los Consejos Estatales para la Competitividad de la Micro, Pequeña y Mediana Empresa
 
+> <small>(REFORMADO PRIMER PÁRRAFO D.O.F. 19 DE MAYO DE 2017)</small>
+
 ###### Artículo 23.
 
-En cada Entidad Federativa y en el Distrito Federal se podrá conformar un Consejo Estatal para la Competitividad de la Micro, Pequeña y Mediana Empresa, que estudiará y propondrá en el ámbito regional, estatal y municipal, medidas de apoyo para el desarrollo de la competitividad de las MIPYMES a través del análisis de las propuestas surgidas del sector público y de los Sectores.
+En cada Entidad Federativa se podrá conformar un Consejo Estatal para la Competitividad de la Micro, Pequeña y Mediana Empresa, que estudiará y propondrá en el ámbito regional, estatal, municipal y de las demarcaciones territoriales de la Ciudad de México, medidas de apoyo para el desarrollo de la competitividad de las MIPYMES a través del análisis de las propuestas surgidas del sector público y de los Sectores.
 
 El Consejo Estatal estará sujeto a los lineamientos que emita el Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2017)</small>
+
 ###### Artículo 24.
 
-El Consejo Estatal será presidido por el secretario de desarrollo económico o su equivalente en cada Entidad Federativa o Distrito Federal, quien informará periódicamente al Consejo los resultados obtenidos en el desarrollo de sus actividades.
+El Consejo Estatal será presidido por el secretario de desarrollo económico o su equivalente en cada Entidad Federativa, quien informará periódicamente al Consejo los resultados obtenidos en el desarrollo de sus actividades.
 
 Para que sesione válidamente, el Consejo Estatal deberá contar con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que se cuente con la asistencia del secretario técnico del Consejo Estatal, o su suplente. Dicho Consejo se reunirá trimestralmente de manera ordinaria, de acuerdo con el calendario que se apruebe en la primera sesión ordinaria del ejercicio, pudiendo celebrar las reuniones extraordinarias que se requieran.
 
-El Consejo Estatal contará con un secretario técnico, que será el delegado de la Secretaría en el Distrito Federal o en la Entidad Federativa de que se trate, quien tendrá la función de dar seguimiento a los acuerdos que de él emanen, así como apoyar al secretario técnico del Consejo para coordinar acciones con el Consejo Estatal.
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2017)</small>
 
-Por cada uno de los miembros propietarios se deberá nombrar un suplente, en el caso del Gobierno Estatal o del Distrito Federal, deberá tener al menos un nivel jerárquico inferior inmediato al del propietario.
+El Consejo Estatal contará con un secretario técnico, que será el delegado de la Secretaría en la Entidad Federativa de que se trate, quien tendrá la función de dar seguimiento a los acuerdos que de él emanen, así como apoyar al secretario técnico del Consejo para coordinar acciones con el Consejo Estatal.
+
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2017)</small>
+
+Por cada uno de los miembros propietarios se deberá nombrar un suplente, en el caso del Gobierno de las Entidades Federativas, deberá tener al menos un nivel jerárquico inferior inmediato al del propietario.
 
 ###### Artículo 25.
 
 El Consejo Estatal deberá integrarse por un número no mayor al establecido para el Consejo, debiendo estar representados cada uno de los Sectores y delegados en la Entidad Federativa de las dependencias y entidades de la Administración Pública Federal que tengan Programas para las MIPYMES.
 
-El Consejo Estatal podrá invitar a participar en las sesiones, con voz pero sin voto, a las distintas dependencias, entidades, Municipios, y en el caso del Distrito Federal a sus delegaciones, así como también a especialistas en los temas a discusión.
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2017)</small>
+
+El Consejo Estatal podrá invitar a participar en las sesiones, con voz pero sin voto, a las distintas dependencias, entidades, Municipios y a las demarcaciones territoriales de la Ciudad de México, así como también a especialistas en los temas a discusión.
 
 ###### Artículo 26.
 
@@ -474,7 +514,9 @@ I. Evaluar y proponer medidas de apoyo para promover la competitividad de las Ca
 
 II. Promover mecanismos para el cumplimiento de los objetivos de esta Ley, y
 
-III. Discutir y analizar las propuestas que realicen los Municipios, y en el caso del Distrito Federal sus delegaciones, y los Sectores para el desarrollo y cumplimiento de los objetivos de esta Ley.
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2017)</small>
+
+III. Discutir y analizar las propuestas que realicen los Municipios, las demarcaciones territoriales de la Ciudad de México y los Sectores para el desarrollo y cumplimiento de los objetivos de esta Ley.
 
 ## Transitorios
 
@@ -525,3 +567,11 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Dentro del término de 180 días posteriores a la entrada en vigor del presente Decreto, el Ejecutivo Federal y las Secretarías del ramo competentes, deberán realizar las adecuaciones normativas al Reglamento de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.
 
 TERCERO. En tanto no sea modificado el Reglamento a que se refiere el transitorio segundo, respecto a las facultades y obligaciones de la Subsecretaría para la Pequeña y Mediana Empresa, continuarán aplicándose las normas vigentes al Instituto Nacional del Emprendedor.
+
+D.O.F. 19 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Ejecutivo Federal y las Secretarías del ramo competentes, deberán realizar las adecuaciones normativas al Reglamento de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.
