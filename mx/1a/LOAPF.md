@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2016-12-19"
+last_updated: "2017-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LOAPF"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MAYO DE 2017.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -598,11 +600,15 @@ IV.- Ejercer:
 
 a. La soberanía en el mar territorial, su espacio aéreo y costas del territorio;
 
-b. Vigilancia de las zonas marinas mexicanas, sin perjuicio de las atribuciones que correspondan a otras dependencias, y
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2017)</small>
+
+b. Vigilancia, visita, inspección u otras acciones previstas en las disposiciones jurídicas aplicables en las zonas marinas mexicanas, costas y recintos portuarios, sin perjuicio de las atribuciones que correspondan a otras dependencias.
+
+> <small>(ADICIONADO, D.O.F. 19 DE MAYO DE 2017)</small>
+
+Cuando en ejercicio de estas funciones, se presente la posible comisión de un hecho que la ley señale como delito, se pondrá a disposición ante la autoridad competente a las personas, objetos, instrumentos y productos relacionados al mismo, y
 
 c. Las medidas y competencias que le otorguen los ordenamientos legales y los instrumentos internacionales de los que México sea parte, en la Zona Contigua y en la Zona Económica Exclusiva;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -618,21 +624,17 @@ d) Protección marítima y portuaria, en los términos que fijan los tratados in
 
 VI.- Dirigir la educación pública naval;
 
-> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2017)</small>
 
-VII.- Ejercer funciones de policía marítima para mantener el estado de derecho en las zonas marinas mexicanas;
+VII.- Mantener el estado de derecho en las zonas marinas mexicanas, costas y recintos portuarios, ejerciendo funciones de guardia costera a través de la Armada;
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
 
 VII Bis.- Establecer y dirigir el Servicio de Búsqueda y Rescate para la salvaguarda de la vida humana en la mar;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 VII Ter.- Regular, vigilar la seguridad de la navegación y la vida humana en el mar y supervisar a la marina mercante;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -671,8 +673,6 @@ XVIII.- Integrar el archivo de información oceanográfica nacional, y
 > <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2006)</small>
 
 XIX.- Celebrar acuerdos en el ámbito de su competencia con otras dependencias e instituciones nacionales o extranjeras, en los términos de los tratados internacionales y conforme a la legislación vigente;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -3123,3 +3123,11 @@ Artículo Sexto.- Los asuntos que a la entrada en vigor del presente Decreto se 
 Artículo Séptimo.- Dentro del plazo de noventa días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Comunicaciones y Transportes, a través de las Administraciones Portuarias Integrales, dispondrá de instalaciones y recursos materiales, para habilitar las oficinas de servicios a la Marina Mercante, en donde determine la propia Secretaría.
 
 Artículo Octavo.- Las menciones a la Secretaría de Comunicaciones y Transportes en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto de las atribuciones que se transfieren por virtud del presente ordenamiento a la Secretaría de Marina, se entenderán referidas a esta última dependencia.
+
+D.O.F. 19 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 30 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL Y 2 DE LA LEY ORGÁNICA DE LA ARMADA DE MÉXICO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor de este Decreto.
