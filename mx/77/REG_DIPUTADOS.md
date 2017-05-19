@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2017-04-14"
+last_updated: "2017-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MAYO DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -82,7 +82,13 @@ XVI. Secretaría de la Junta Directiva: El Secretario o secretarios de la comisi
 
 XVII. Sistema Electrónico: El Sistema de Registro de Asistencia, Votación y Audio Automatizado, y
 
-XVIII. Vicepresidente: El Vicepresidente de la Mesa Directiva de la Cámara de Diputados.
+> <small>(ADICIONADA, D.O.F. 19 DE MAYO DE 2017)</small>
+
+XVIII. Sitio Electrónico de la Cámara: Página Oficial de la Cámara de Diputados, y
+
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2017)</small>
+
+XIX. Vicepresidente: El Vicepresidente de la Mesa Directiva de la Cámaras (sic) de Diputados.
 
 ###### Artículo 3.
 
@@ -2090,9 +2096,13 @@ XV. Designar y en su caso, proponer la contratación del Secretario Técnico y d
 
 XVI. Ordenar el envío de la documentación pertinente a la Gaceta para su publicación, en cuanto sea procedente, y
 
+> <small>(ADICIONADA, D.O.F. 19 DE MAYO DE 2017)</small>
+
+XVII. Ordenar el envío de los dictámenes aprobados a la Secretaría de Servicios Parlamentarios para su publicación en el sitio electrónico de la Cámara y,
+
 > <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-XVII. Exhortar a los diputados y diputadas integrantes que no asistan a las reuniones de la comisión o comité para que participen en las subsecuentes reuniones. Asimismo, comunicar a la Junta los casos en que se acumulen tres faltas consecutivas, sin causa justificada, para conocimiento de los coordinadores de los grupos y los efectos que correspondan.
+XVIII. Exhortar a los diputados y diputadas integrantes que no asistan a las reuniones de la comisión o comité para que participen en las subsecuentes reuniones. Asimismo, comunicar a la Junta los casos en que se acumulen tres faltas consecutivas, sin causa justificada, para conocimiento de los coordinadores de los grupos y los efectos que correspondan.
 
 2. Los presidentes de las Juntas Directivas serán responsables de los expedientes que pasen a su estudio y dictamen.
 
@@ -2613,6 +2623,10 @@ I. Los aprobados en sentido positivo, se remitirán a la Mesa Directiva para que
 II. El aprobado en sentido negativo, se enviará a la Mesa Directiva para su archivo como asunto total y definitivamente concluido.
 
 3. En el caso de los dictámenes que resuelvan proposiciones, la comisión estará obligada a informar al proponente su determinación.
+
+> <small>(ADICIONADO, D.O.F. 19 DE MAYO DE 2017)</small>
+
+4. En todos los casos, los dictámenes aprobados en las comisiones serán enviados a la Secretaría de Servicios Parlamentarios para efectos de la publicación de su encabezado en la Gaceta y en el sitio electrónico de la Cámara; dicha publicación no tendrá carácter de declaratoria de publicidad.
 
 ###### Artículo 181.
 
@@ -3362,6 +3376,10 @@ XXIX. Todos aquellos asuntos o labores de la Cámara que el Presidente considere
 
 1. Los servicios de información en Internet de la Cámara son el medio por el que se da a conocer su estructura, composición, información legislativa, actividades y otros temas de interés general, así como las cuentas oficiales en las principales redes sociales, mismas que deberán encontrarse continuamente actualizadas y vigentes.
 
+> <small>(ADICIONADO, D.O.F. 19 DE MAYO DE 2017)</small>
+
+2. El sitio electrónico de la Cámara deberá difundir la información sistematizada de los dictámenes que hayan sido objeto de Declaratoria de Publicidad, así como las minutas que le sean turnadas a la Cámara.
+
 ###### Artículo 243.
 
 1. Las comisiones, comités, grupos, órganos de gobierno y demás entidades legislativas y administrativas, deberán utilizar los servicios de la red informática a cargo de la Cámara, para difundir sus actividades.
@@ -3985,3 +4003,9 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Para los efectos de la modificación a las funciones de la Unidad de Asuntos Internacionales y Relaciones Parlamentarias, la Cámara de Diputados, realizará las adecuaciones necesarias a su normatividad secundaria interna en los siguientes treinta días, a partir de la publicación del presente Decreto.
 
 Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 19 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 2, 150, 180 Y 242 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
