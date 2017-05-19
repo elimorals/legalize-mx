@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-para-la-juventud-del-estado-de-89367"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-31"
-last_updated: "2012-08-31"
+last_updated: "2017-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA LEY PARA LA JUVENTUD DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY PARA LA JUVENTUD DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 19 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY PARA LA JUVENTUD DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 31 de agosto del 2012.
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77 fracciones II, III y XXV, y 79 de la Constitución Política para el Estado de Guanajuato, y en observancia de lo dispuesto por los artículos 2o. y 9o. de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, y artículo Cuarto Transitorio de la Ley para la Juventud del Estado de Guanajuato.
 
-C O N S I D E R A N D O .
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en las disposiciones legales previamente señaladas, he tenido a bien expedir el siguiente:
 
@@ -458,3 +462,29 @@ ROMÁN CIFUENTES NEGRETE
 EL SECRETARIO DE EDUCACIÓN
 
 ALBERTO DE L. S. DIOSDADO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO GUBERNATIVO NÚMERO 188, MEDIANTE EL CUAL, SE EXPIDE EL REGLAMENTO DE LA LEY PARA LA JUVENTUD DEL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Articulo Segundo. Se abroga el Reglamento de la Ley para la Juventud del Estado de Guanajuato, contenido en el Decreto Gubernativo número 222, publicado en el Periódico Oficial del Gobierno del Estado número 140, Segunda Parte, de 31 de agosto de 2012.
+
+Continuación en el cargo de integrantes de los Consejos Directivo y Estatal de la Juventud
+
+Artículo Tercero. Las personas integrantes del Consejo Directivo y del Consejo Estatal de la Juventud del Instituto de la Juventud Guanajuatense designadas con anterioridad a la entrada en vigencia del presente Decreto Gubernativo, continuarán en el ejercicio de su cargo por el tiempo establecido en sus respectivas designaciones.
+
+Derogación de disposiciones
+
+Artículo Cuarto. Se derogan todas las disposiciones que expresamente se opongan a lo establecido en este Reglamento.
+
+Asuntos en trámite
+
+Artículo Quinto. Todos los asuntos en trámite que se encuentren en trámite, y que se hayan iniciado bajo la vigencia del Reglamento de la Ley de la Juventud que se abroga, se concluirán de conformidad con las disposiciones de este último.
