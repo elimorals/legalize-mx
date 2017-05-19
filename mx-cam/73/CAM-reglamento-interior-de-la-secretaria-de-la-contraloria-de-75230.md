@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-la-contraloria-de-75230
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-01"
-last_updated: "2010-06-01"
+last_updated: "2017-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 19 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 2010.
 
@@ -448,3 +450,15 @@ Segundo.- Se abroga el Reglamento Interior de la Secretaría de la Contraloría 
 Dado en el Palacio de Gobierno, residencia del Poder Ejecutivo del Estado, en la Ciudad de San Francisco de Campeche, Municipio y Estado de Campeche, Estados Unidos Mexicanos, a los veintisiete días del mes de abril del año dos mil diez.
 
 Lic. Fernando Eutimio Ortega Bernés.- Gobernador Constitucional del Estado.- Lic. Miguel Ángel Sulub Caamal, Secretario de la Contraloría.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de la Contraloría publicado en el Periódico Oficial del Estado el día 01 de junio de 2010.
+
+Tercero.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente reglamento interior.
