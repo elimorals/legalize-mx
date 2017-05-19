@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-instituto-municipal-de-la-mujer-de-ensenada-5814
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-30"
-last_updated: "2007-11-30"
+last_updated: "2017-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58142&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA MUJER DE ENSENADA (INMUJERE) DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2017.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2007.
 
@@ -167,15 +167,15 @@ La Junta de Gobierno del Instituto Municipal de la Mujer es el órgano jerárqui
 
 I.- El Presidente Municipal o a quien él designe;
 
-II.- El Coordinador y el Secretario de la Comisión de Equidad y Género;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2017)</small>
+
+II.- El Presidente y el Secretario de la Comisión de Equidad Social e igualdad Género;
 
 III.- El Director del Sistema para el Desarrollo Integral de la Familia;
 
 IV.- Tres ciudadanas representantes de organizaciones no gubernamentales de atención a la mujer, electos en reunión previamente convocada por el ayuntamiento. Y durarán en su encargo tres años, pudiendo ser ratificados hasta en una ocasión, y
 
 V.- El Comisario quien participará únicamente con derecho a voz.
-
-Los integrantes de la Junta de Gobierno tendrán el carácter de honorífico, por lo que no recibirán retribución económica alguna por el servicio prestado.
 
 ###### ARTÍCULO 9.
 
@@ -440,3 +440,11 @@ PRESIDENTE MUNICIPAL DEL H. XVIII AYUNTAMIENTO DE ENSENADA
 LIC. JULIO CESAR ARENAS RUIZ
 
 SECRETARIO FEDATARIO DEL H. XVIII AYUNTAMIENTO DE ENSENADA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 8 FRACCIÓN II DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA MUJER DE ENSENADA (INMUJERE)”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
