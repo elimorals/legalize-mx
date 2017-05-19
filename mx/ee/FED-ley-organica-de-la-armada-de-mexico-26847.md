@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-armada-de-mexico-26847"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2012-12-31"
+last_updated: "2017-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26847&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAM"
 
 LEY ORGÁNICA DE LA ARMADA DE MÉXICO
 
-ÚLTIMA REFORMADA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMADA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MAYO DE 2017.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 30 de diciembre de 2002.
 
@@ -59,6 +59,12 @@ III. Realizar acciones para salvaguardar la soberanía y defender la integridad 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
 IV. Proteger el tráfico marítimo, fluvial y lacustre, en las zonas marinas mexicanas, aguas interiores navegables y donde el Mando Supremo lo ordene, así como establecer las áreas restringidas a la navegación, incluidos los espacios aéreos correspondientes, en coordinación con las autoridades competentes y de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los instrumentos jurídicos internacionales y la legislación nacional;
+
+> <small>(ADICIONADA, D.O.F. 19 DE MAYO DE 2017)</small>
+
+IV Bis. Ejercer funciones de guardia costera para mantener el estado de derecho en las zonas marinas mexicanas, costas y recintos portuarios, además de la seguridad y protección marítima, a través de acciones de vigilancia, verificación, visita, inspección u otras acciones previstas en las disposiciones jurídicas aplicables.
+
+Cuando en ejercicio de estas funciones, se presente la posible comisión de un hecho que la ley señale como delito, se pondrá a disposición ante la autoridad competente a las personas, objetos, instrumentos y productos relacionados al mismo;
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1110,7 +1116,7 @@ II. Ordinaria;
 
 III. Extraordinaria;
 
-IV. Por enfermedad, y (sic)
+IV. Por enfermedad, y
 
 > <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
@@ -1395,3 +1401,11 @@ D.O.F. 31 DE DICIEMBRE DE 2012.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+D.O.F. 19 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 30 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL Y 2 DE LA LEY ORGÁNICA DE LA ARMADA DE MÉXICO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor de este Decreto.
