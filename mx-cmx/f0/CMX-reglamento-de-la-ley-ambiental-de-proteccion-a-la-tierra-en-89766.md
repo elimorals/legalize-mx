@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-ambiental-de-proteccion-a-la-tierra-en-897
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-19"
-last_updated: "2015-08-07"
+last_updated: "2017-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89766&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2012-10-16"
 
 REGLAMENTO DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL, EN MATERIA DE VERIFICACIÓN VEHICULAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE MAYO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 19 de octubre de 2012.
 
@@ -92,7 +92,9 @@ XIV. Sistema de Microanálisis: Sistema basado en el análisis de criterios esta
 
 XV. SIVEV: Sistema de Información de Verificación Vehicular, mediante el cual la Secretaría almacena y centraliza a través de medios electrónicos, la información generada en el proceso de Verificación Vehicular que se lleva a cabo en los Centros de Verificación.
 
-XVI. Unidad de Cuenta de la Ciudad de México: El valor expresado en pesos que se utilizará, de manera individual o por múltiplos de ésta, para determinar sanciones y multas administrativas, conceptos de pago y montos de referencia vigentes en el Distrito Federal.
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2017)</small>
+
+XVI. Unidad de Medida y Actualización: El valor expresado en moneda nacional que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de dichas leyes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2015)</small>
 
@@ -540,9 +542,9 @@ III. Llevar un registro con la información de las operaciones de mantenimiento 
 
 IV. Dar aviso a la Secretaría cuando dejen de prestar el servicio de suministro y mantenimiento de equipos;
 
-> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2017)</small>
 
-V. Presentar y mantener en vigor una fianza de 3000 veces la Unidad de Cuenta de la Ciudad de México, para garantizar el cumplimiento de las obligaciones y la confidencialidad de los sistemas de seguridad, durante la vigencia de la autorización, misma que se hará efectiva en los casos en que la prestación del servicio contravenga lo establecido en la Ley, el Reglamento, el Manual de Operación, así como las disposiciones aplicables. Esta fianza será entregada a la Secretaría;
+V. Presentar y mantener en vigor una fianza de 3000 veces la Unidad de Medida y Actualización, para garantizar el cumplimiento de las obligaciones y la confidencialidad de los sistemas de seguridad, durante la vigencia de la autorización, misma que se hará efectiva en los casos en que la prestación del servicio contravenga lo establecido en la Ley, el Reglamento, el Manual de Operación, así como las disposiciones aplicables. Esta fianza será entregada a la Secretaría;
 
 VI. Prestar sus servicios de conformidad con los contratos previamente autorizados por la Secretaría;
 
@@ -606,9 +608,9 @@ V. Entregar a la autoridad y a las personas físicas y morales autorizadas para 
 
 VI. Entregar una garantía a los autorizados para prestar el servicio de reemplazo de convertidores catalíticos, por cada unidad vendida.
 
-> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2017)</small>
 
-VII. Presentar y mantener en vigor una fianza de 3000 veces la Unidad de Cuenta de la Ciudad de México, la cual garantice el cumplimiento de todas y cada una de las obligaciones contraídas en la autorización correspondiente durante el periodo determinado para su vigencia, misma que se hará efectiva en los casos en que la prestación del servicio contravenga lo establecido en la Ley, el Reglamento, el Manual de Operación, así como las disposiciones aplicables. Esta fianza será entregada a la Secretaría;
+VII. Presentar y mantener en vigor una fianza de 3000 veces la Unidad de Medida y Actualización, la cual garantice el cumplimiento de todas y cada una de las obligaciones contraídas en la autorización correspondiente durante el periodo determinado para su vigencia, misma que se hará efectiva en los casos en que la prestación del servicio contravenga lo establecido en la Ley, el Reglamento, el Manual de Operación, así como las disposiciones aplicables. Esta fianza será entregada a la Secretaría;
 
 > <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2015)</small>
 
@@ -698,11 +700,11 @@ Tanto el propietario o poseedor del vehículo, como el personal acreditado del C
 
 La Secretaría podrá comisionar o autorizar personal para que verifique que los propietarios o poseedores de los vehículos automotores que circulan en el Distrito Federal, cumplan con las disposiciones de la Ley y de este Reglamento, además de las normas oficiales mexicanas o normas ambientales para el Distrito Federal, acuerdos, programas, circulares, autorizaciones, manuales, lineamientos y demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2017)</small>
 
 ###### Artículo 39.
 
-El personal comisionado o autorizado por la Secretaría para que verifique que los propietarios o poseedores de los vehículos automotores que circulan en el Distrito Federal cumplan con las disposiciones referidas en el artículo 38 de este Reglamento podrá revisar que los propietarios o poseedores de vehículos que se encuentren en estado de encendido o circulen dentro del Distrito Federal cumplan con sus obligaciones, para lo cual, podrán detener la marcha o circulación de los vehículos automotores que presuman contaminantes en virtud de la coloración y/o intensidad de su emisión, de los que no porten el holograma de verificación vigente que les permitan la circulación o que circulen en días, horario o zonas en que tengan restringida la circulación.
+El personal comisionado o autorizado por la Secretaría para que verifique que los propietarios o poseedores de los vehículos automotores que circulan en la Ciudad de México cumplan con las disposiciones referidas en el artículo 38 de este Reglamento, podrá revisar que los propietarios o poseedores de vehículos que se encuentren circulando dentro del territorio de ésta, cumplan con sus obligaciones, para lo cual, podrán detener la marcha o circulación de los vehículos automotores que presuman contaminantes en virtud de la coloración y/o intensidad de su emisión, de los que no porten el holograma de verificación vigente que les permitan la circulación o que circulen en días, horario o zonas en que tengan restringida la circulación; para tal efecto, podrán emplear los equipos tecnológicos necesarios para el mejor desempeño de sus funciones.
 
 > <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
 
@@ -710,55 +712,67 @@ El personal comisionado o autorizado por la Secretaría para que verifique que l
 
 Cuando los vehículos automotores que se presuman contaminantes en términos del artículo inmediato anterior cuenten con holograma de verificación vigente, el personal comisionado dará vista al CIVAR, a efecto de que se investigue si el Centro de Verificación que lo otorgó incurrió en alguna irregularidad, en términos de lo dispuesto en la ley, el presente Reglamento, el Manual de Operación, así como las disposiciones aplicables en la materia.
 
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2017)</small>
+
 ###### Artículo 40.
 
-En los supuestos en que el personal comisionado constate el incumplimiento a las disposiciones referidas en el artículo 39 de este Reglamento procederá a retirar y retener una placa de circulación, así como entregarle al conductor o poseedor del vehículo respectivo, la constancia de incumplimiento respectiva.
+Las sanciones por incumplimiento a las disposiciones referidas en el artículo 39 de este Reglamento, serán impuestas por el personal comisionado o autorizado y se harán constar a través de hojas y/o boletas de sanción seriadas autorizadas por la Secretaría, misma que para su validez contendrán al menos lo siguiente:
 
-La constancia de incumplimiento deberá contener de manera enunciativa mas no limitativa:
+a) Fecha, hora; lugar y descripción del hecho de la conducta infractora;
 
-a) Fecha y hora;
+b) Artículos del Reglamento que fundamenten y motiven la infracción cometida, y la sanción correspondiente;
 
-b) Lugar de expedición;
+c) Placas de matrícula del vehículo o, en su caso, número del permiso de circulación del vehículo;
 
-c) Datos de identificación del vehículo;
+d) Cuando esté presente el conductor: nombre y domicilio, número y tipo de licencia o permiso de conducir;
 
-d) Motivo de la sanción;
+e) Medidas Cautelares que se impongan en su caso;
 
-e) Monto de la sanción;
+f) Nombre y número de oficio de comisión del personal comisionado, y
 
-f) Fundamentación y motivación; y
+g) Firma electrónica y/o autógrafa del personal comisionado o autorizado.
 
-g) Medidas cautelares que se impongan en su caso.
+Los propietarios o poseedores de los vehículos que al momento de ser sancionados, deseen realizar el pago de la sanción impuesta, les será entregado un recibo emitido por el equipo electrónico portátil (Hand held) asignado al personal comisionado o autorizado por la Secretaría, que contendrá los mismos datos que la hoja de sanción.
+
+Para el caso de vehículos que porten placas federales, de otra entidad federativa o que hayan sido obtenidas en otro país y sean identificados circulando en calles de la Ciudad de México sin cumplir con las disposiciones referidas en el artículo 38 de este Reglamento, el personal comisionado o autorizado por la Secretaría podrá retirar, como medida cautelar, la placa delantera, debiendo indicar en la boleta de sanción que se procedió de esa forma, siempre y cuando el cobro de la sanción no sea realizado en el sitio.
+
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2017)</small>
 
 ###### Artículo 41.
 
-Los propietarios o poseedores de los vehículos sancionados tendrán un plazo de 30 días naturales contados a partir del día siguiente al de la imposición de la sanción para pagar la sanción o sanciones correspondientes, y en su caso, llevar su unidad a mantenimiento y/o reparación, y, acudir a un Centro de Verificación a demostrar que las emisiones de su vehículo se encuentran dentro de los límites permisibles conforme a las referidas disposiciones jurídicas.
+Los propietarios o poseedores de los vehículos sancionados que circulen en el territorio de la Ciudad de México, podrán optar por el pago de la sanción en el momento en que fueron detenidos, con tarjeta de crédito o débito bancaria, únicamente cuando el personal comisionado o autorizado por la Secretaría cuente con el equipo electrónico portátil (Hand held) asignado para tal fin. En caso contrario, el pago o pagos de la sanción o sanciones correspondientes se podrán realizar en cualquier institución bancaria o centro autorizado, dentro de un plazo que no exceda de 30 días naturales contado a partir del día siguiente al de la imposición de la sanción.
 
-Durante el referido plazo, no podrá circular el vehículo automotor por motivos distintos a los expresados en éste artículo, salvo el día en que sea impuesta la sanción, en cuyo caso la unidad podrá circular para su resguardo. El incumplimiento de lo referido motivará que la unidad sea retirada de la circulación y remitida a un depósito vehicular, para lo cual, la Secretaría se podrá auxiliar y coordinar con la Secretaría de Seguridad Pública del Gobierno del Distrito Federal.
+En ambos casos, los propietarios o poseedores de los vehículos sancionados deberán subsanar el incumplimiento o incumplimientos que hayan sido detectados al vehículo y en su caso, llevar la unidad a mantenimiento y/o reparación, y, acudir a un Centro de Verificación a demostrar mediante la obtención de la constancia respectiva que las emisiones de su vehículo se encuentran dentro de los límites permisibles conforme a las referidas disposiciones jurídicas.
+
+Durante el referido plazo, no podrá circular el vehículo automotor por motivos distintos a los expresados en este artículo, salvo el día en que sea impuesta la sanción, en cuyo caso la unidad podrá circular para su resguardo. El incumplimiento de lo referido motivará que la unidad sea retirada de la circulación y remitida a un depósito vehicular, para lo cual, la Secretaría se podrá auxiliar y coordinar con la Secretaría de Seguridad Pública del Gobierno de la Ciudad de México.
+
+Una vez transcurrido el plazo para pagar la sanción o sanciones, si el mismo vehículo sancionado es identificado por el personal comisionado o autorizado, circulando sin haber subsanado las irregularidades establecidas en la hoja de sanción, se procederá a imponer nuevas sanciones, las cuales serán por el máximo aplicable en los artículo (sic) 43, 44 y 45 del presente Reglamento.
+
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2017)</small>
 
 ###### Artículo 42.
 
-Los propietarios o poseedores de los vehículos sancionados por emitir contaminantes en contravención a las disposiciones jurídicas aplicables, tendrán un plazo de 90 días naturales contados a partir del día siguiente al de la imposición de la sanción para cumplir con lo referido en el artículo 44 de este Reglamento y recuperar la placa o placas de circulación de su unidad. Una vez transcurrido el término referido la Secretaría podrá disponer de las placas de circulación retiradas y darles el destino que considere para evitar su uso inadecuado.
+Los propietarios o poseedores de los vehículos sancionados, a los que se les haya impuesto como medida cautelar el retiro de la placa delantera, tendrán un plazo de 30 días naturales contado (sic) a partir del día siguiente al de la imposición de la sanción para cumplir con lo referido en el artículo 41 de este Reglamento y recuperar la placa de circulación de su unidad. Una vez transcurrido el término referido la Secretaría podrá disponer de las placas de circulación retiradas y darles el destino que considere para evitar su uso inadecuado.
 
 ## TÍTULO CUARTO. DE LAS SANCIONES A LOS PROPIETARIOS O LEGÍTIMOS POSEEDORES DE VEHÍCULOS AUTOMOTORES
 
-> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2017)</small>
 
 ###### Artículo 43.
 
-La multa por emitir contaminantes en contravención a lo establecido en la Ley y en este Reglamento, en las Normas Oficiales Mexicanas o Normas Ambientales para el Distrito Federal, acuerdos, programas, circulares, autorizaciones, manuales, lineamientos y demás disposiciones jurídicas aplicables, será de 24 veces la Unidad de Cuenta de la Ciudad de México.
+La multa por emitir contaminantes en contravención a lo establecido en la Ley y en este Reglamento, en las Normas Oficiales Mexicanas o Normas Ambientales para el Distrito Federal, acuerdos, programas, circulares, autorizaciones, manuales, lineamientos y demás disposiciones jurídicas aplicables, será de 20 a 30 veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2017)</small>
 
 ###### Artículo 44.
 
-La multa por no portar holograma de verificación vehicular, el certificado de verificación y/o cualquier otro documento que se requiera para acreditar la aprobación de la verificación vehicular, será de 24 veces la Unidad de Cuenta de la Ciudad de México.
+La multa por no portar holograma de verificación vehicular, el certificado de verificación y/o cualquier otro documento que se requiera para acreditar la aprobación de la verificación vehicular, será de 20 a 30 veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2017)</small>
 
 ###### Artículo 45.
 
-La multa por circular con vehículos automotores en un día que tengan restringida la circulación conforme a lo dispuesto en la Ley, en este Reglamento, en acuerdos, programas o cualquier otra disposición jurídica aplicable, será de 24 veces la Unidad de Cuenta de la Ciudad de México.
+La multa por circular con vehículos automotores en un día que tengan restringida la circulación conforme a lo dispuesto en la Ley, en este Reglamento, en acuerdos, programas o cualquier otra disposición jurídica aplicable, será de 20 a 30 veces la Unidad de Medida y Actualización.
 
 ## TÍTULO QUINTO. DE LA DENUNCIA Y RECURSO DE INCONFORMIDAD
 
@@ -805,3 +819,13 @@ QUINTO.- La obligación de los Centros de Verificación a que refiere el Artícu
 SEXTO.- En tanto surta efectos el plazo señalado en el transitorio anterior, la obligación que deberán cumplir los Centros de Verificación al respecto, será el resguardar dentro de las instalaciones del Centro de Verificación un duplicado de las llaves de los equipos de verificación, con el único fin de que la Secretaría pueda abrir los equipos y realizar las acciones de inspección y vigilancia que ordene, por lo que, deberán estar disponibles en todo momento para dicha Dependencia y resguardadas en un sobre entre sellado y firmado por personal autorizado o comisionado para tal efecto por la Secretaría, ello para garantizar que no sea abierto por personas distintas que no estén autorizadas o facultadas para abrir los equipos de verificación. La llave original la deberá conservar el proveedor correspondiente, quien será en todo momento responsable de su guarda y estará obligado a entregarla a la Secretaría cuando esta se la requiera. Si durante una visita de inspección no son proporcionadas las llaves al personal de la Secretaría, los inspectores podrán proceder a imponer las medidas de seguridad que correspondan, tal como la clausura total o parcial del equipo y en su caso, del Centro de Verificación.
 
 SÉPTIMO.- Los procedimientos administrativos que se encuentren en trámite se resolverán de conformidad con la normatividad vigente en el momento de su inicio.
+
+G.O. 19 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL, EN MATERIA DE VERIFICACIÓN VEHICULAR”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Los procedimientos administrativos que se encuentren en trámite para que los propietarios o poseedores puedan recuperar la placa o placas de circulación de su unidad, retiradas por emitir contaminantes en contravención a las disposiciones jurídicas aplicables, así como para realizar el pago de la sanción impuesta, antes de la entrada en vigor del presente Decreto, se resolverán de conformidad con la normatividad vigente en el momento de su inicio y hasta su total conclusión.
