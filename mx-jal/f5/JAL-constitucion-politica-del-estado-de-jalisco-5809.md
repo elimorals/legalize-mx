@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2017-03-25"
+last_updated: "2017-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE MARZO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -257,8 +257,6 @@ f) Hacer uso de los instrumentos de participación ciudadana que establece esta 
 
 III. Son obligaciones de los ciudadanos jaliscienses, las contenidas en los artículos 31 y 36 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIOS PRIMERO, SEGUNDO Y TERCERO DEL DECRETO NÚMERO 24859/LX/14 PUBLICADO P.O. 10 DE ABRIL DE 2014, QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2014)</small>
 
 ###### Art. 7º.
@@ -410,8 +408,6 @@ El Ministerio Público deberá garantizar la protección de víctimas, ofendidos
 f) Solicitar las medidas cautelares y providencias necesarias para la protección y restitución de sus derechos; e
 
 g) Impugnar ante autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIOS PRIMERO, SEGUNDO Y TERCERO DEL DECRETO NÚMERO 24859/LX/14 PUBLICADO P.O. 10 DE ABRIL DE 2014, QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2014)</small>
 
@@ -904,6 +900,10 @@ IV. El sistema educativo estatal se ajustará a los principios que se establecen
 V. La legislación local protegerá y fomentará el patrimonio cultural y natural del Estado de Jalisco. Las autoridades, con la participación corresponsable de la sociedad, promoverán el respeto, la restauración, la conservación y la difusión de la cultura del pueblo de Jalisco y del entorno ambiental; y la protección y cuidado de los animales, en los términos y con las salvedades que establezca la legislación en la material (sic).
 
 El Estado promoverá los medios para el fomento, difusión y desarrollo sustentable de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación en cualquier manifestación cultural;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MAYO DE 2017)</small>
+
+Las autoridades estatales y municipales reconocerán, promoverán, protegerán y garantizarán el derecho de toda persona a disfrutar y acceder desde la vía pública de los bienes inmuebles del dominio público afectos al uso común.
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2008)</small>
 
@@ -3698,3 +3698,9 @@ P.O. 24 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26310/LXI/17, QUE DEROGA EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO 25886/LXI/16 Y ANEXO".]
 
 ÚNICO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 20 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26217/LXI/16 QUE REFORMA EL ARTÍCULO 15 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO, ASÍ COMO ACUERDO LEGISLATIVO AL-1186-LXI-2017”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
