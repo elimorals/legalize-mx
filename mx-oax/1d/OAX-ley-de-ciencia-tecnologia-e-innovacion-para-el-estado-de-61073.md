@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ciencia-tecnologia-e-innovacion-para-el-estado-de-61073"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-12"
-last_updated: "2017-04-17"
+last_updated: "2017-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE CIENCIA, TECNOLOGIA E INNOVACION PARA EL ESTADO DE OAXACA - (ANTES LEY DE CIENCIA Y TECNOLOGIA PARA EL ESTADO DE OAXACA) -
 
-LEY DE CIENCIA Y TECNOLOGÍA PARA EL ESTADO DE OAXACA
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE FEBRERO DE 2018 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2017.
+LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA EL ESTADO DE OAXACA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de abril de 2008.
 
@@ -35,7 +37,9 @@ DECRETO NUM. 447
 
 LA SEXAGÉSIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, APRUEBA:
 
-LEY DE CIENCIA Y TECNOLOGÍA PARA EL ESTADO DE OAXACA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MAYO DE 2017)</small>
+
+LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA EL ESTADO DE OAXACA
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -51,15 +55,21 @@ Para los efectos de la presente Ley, se entenderá por:
 
 I. CI. Centros, grupos y redes de Investigación;
 
-II. COCyT. Consejo Oaxaqueño de Ciencia y Tecnología;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+II. COCITel Consejo Oaxaqueño de Ciencia, Tecnología e Innovación.
 
 III. CONACyT. Consejo Nacional de Ciencia y Tecnología;
 
 IV. IES. Instituciones de Educación Superior;
 
-V. LEY. Ley de Ciencia y Tecnología para el Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
 
-VI. PROGRAMA. Programa de Ciencia y Tecnología para el Estado de Oaxaca;
+V. LEY. Ley de Ciencia, Tecnología e Innovación para el Estado de Oaxaca;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+VI. PROGRAMA. Programa de Ciencia, Tecnología e Innovación para el Estado de Oaxaca;
 
 VII. RECyT. Registro Estatal de Ciencia y Tecnología;
 
@@ -69,6 +79,10 @@ IX. SEP. Secretaría de Educación Pública; y
 
 X. SISTEMA. Sistema Estatal de Investigadores.
 
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2017)</small>
+
+XI. Software Libre y de Código Abierto.
+
 ###### ARTÍCULO 3.
 
 La presente Ley tiene los siguientes objetivos específicos:
@@ -77,7 +91,9 @@ I. Establecer los principios y criterios que el Estado aplicará para impulsar y
 
 II. Determinar los instrumentos mediante los cuales el Gobierno del Estado apoyará la investigación científica y tecnológica;
 
-III. Establecer el Programa de Ciencia y Tecnología para el Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+III. Establecer el Programa de Ciencia, Tecnología e Innovación para el Estado de Oaxaca;
 
 IV. Crear el Fondo Estatal de Ciencia y Tecnología;
 
@@ -87,9 +103,19 @@ VI. Estimular y reconocer la actividad científica y tecnológica; y
 
 VII. Generar mecanismos de vinculación entre los sectores productivos y sociales con la actividad científica y tecnológica de las instituciones de educación superior y centros de investigación, públicos y privados.
 
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2017)</small>
+
+VIII. Promover la inclusión de la perspectiva de género con una visión transversal en la ciencia, la tecnología y la innovación, así como una participación equitativa de mujeres y hombres en todos los ámbitos del Programa de Ciencia, Tecnología e Innovación para el Estado de Oaxaca.
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2017)</small>
+
+IX. Promover el desarrollo de la tecnología y la innovación, que asocien al mejoramiento de la calidad del sistema educativo y la expansión del conocimiento apoyándose en las nuevas tecnologías de la información y comunicación, en su caso, por medio del uso de plataformas de acceso abierto.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 4.
 
-La aplicación y vigilancia de esta Ley estará a cargo del Titular del Poder Ejecutivo del Estado, a través del Consejo Oaxaqueño de Ciencia y Tecnología.
+La aplicación y vigilancia de esta Ley estará a cargo del Titular del Poder Ejecutivo del Estado, a través del Consejo Oaxaqueño de Ciencia, Tecnología e Innovación.
 
 ### CAPÍTULO SEGUNDO. DE LOS PRINCIPIOS RECTORES
 
@@ -125,7 +151,9 @@ XIII. Las actividades de investigación científica, desarrollo e innovación te
 
 XIV. Los apoyos a las actividades de ciencia y tecnología deberán ser oportunos y suficientes, con el fin de garantizar la puntualidad y continuidad de las investigaciones en beneficio de sus resultados;
 
-XV. Las personas físicas y morales de los sectores público y privado que lleven a cabo actividades de ciencia y tecnología, que reciban apoyo del COCyT, deberán difundir y divulgar, entre la sociedad, sus actividades y los resultados de sus investigaciones y desarrollos tecnológicos, sin perjuicio de los derechos de propiedad industrial o intelectual correspondientes, y de la información que por razón de su naturaleza deba reservarse;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+XV. Las personas físicas y morales de los sectores público y privado que lleven a cabo actividades de ciencia y tecnología, que reciban apoyo del COCITel, deberán difundir y divulgar, entre la sociedad, sus actividades y los resultados de sus investigaciones y desarrollos tecnológicos, sin perjuicio de los derechos de propiedad industrial o intelectual correspondientes, y de la información que por razón de su naturaleza deba reservarse;
 
 XVI. Los incentivos que se otorguen deberán reconocer los logros sobresalientes de personas físicas y morales, de los sectores público y privado, que realicen investigación científica, desarrollo e innovación tecnológica, así como la vinculación de la investigación con las actividades educativas, productivas y sociales;
 
@@ -135,19 +163,23 @@ XVIII. La creación y fortalecimiento de espacios destinados a fomentar, difundi
 
 XIX. Toda opinión, propuesta o sugerencia que emita la sociedad durante los procesos de consulta en materia de políticas y programas de investigación científica, desarrollo e innovación tecnológica, serán sistematizadas, evaluadas y consideradas en lo pertinente.
 
-## TÍTULO SEGUNDO. DEL CONSEJO OAXAQUEÑO DE CIENCIA Y TECNOLOGÍA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MAYO DE 2017)</small>
+
+## TÍTULO SEGUNDO. DEL CONSEJO OAXAQUEÑO DE CIENCIA Y TECNOLOGÍA E INNOVACIÓN
 
 ### CAPÍTULO PRIMERO. DEL CONSEJO
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 6.
 
-El COCyT es un organismo público descentralizado del Poder Ejecutivo del Estado, y sectorizado a la Secretaría de Economía, con personalidad jurídica, patrimonio propio y que goza de autonomía técnica y administrativa, con domicilio legal en la Ciudad de Oaxaca de Juárez.
+El COCITel, es un organismo público descentralizado del Poder Ejecutivo del Estado y sectorizado a la Secretaría de Economía, con personalidad jurídica, patrimonio propio y que goza de autonomía técnica y administrativa, con domicilio legal en la Ciudad de Oaxaca de Juárez.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 7.
 
-El COCyT estará integrado de la siguiente manera:
+El COCITel estará integrado de la siguiente manera:
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2010)</small>
 
@@ -189,11 +221,15 @@ XVI. Secretario de la Contraloría, en carácter de Comisario.
 
 XVII.- El Presidente de la Comisión Permanente de Ciencia, Tecnología e Innovación del Honorable Congreso del Estado, Vocal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 8.
 
-El Consejo Oaxaqueño de Ciencia y Tecnología tendrá las funciones y atribuciones generales siguientes:
+El Consejo Oaxaqueño de Ciencia, Tecnología e Innovación tendrá las funciones y atribuciones generales siguientes
 
-I. Elaborar y ejecutar el Programa de Ciencia y Tecnología para el Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+I. Elaborar y ejecutar el Programa de Ciencia, Tecnología e Innovación para el Estado de Oaxaca;
 
 II. Impulsar y fomentar el desarrollo científico y tecnológico en el Estado, tomando en cuenta los criterios que establece esta Ley;
 
@@ -255,43 +291,87 @@ XXVII. Elaborar un programa de difusión y divulgación de la ciencia y la tecno
 
 XXVIII. Convocar a los sectores académico, productivo y social del Estado, a presentar programas y proyectos de investigación, desarrollo tecnológico e innovación; y
 
-XIX. Las demás que establezca su propia normatividad reglamentaria.
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2010)</small>
+XXIX. Promoverá la creación, desarrollo, utilización y difusión del Software Libre y de Código Abierto en los sectores público, privado, educativo, social del Estado. Para tal efecto, contará con un Laboratorio de Software Libre y de Código Abierto.
+
+XXX. Las demás que establezca su propia normatividad reglamentaria.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO 8 Bis.
+
+El laboratorio de Software Libre y de Código Abierto, es un órgano especializado de la COCITel, responsable de la coordinación de las actividades relativas a la creación, desarrollo, utilización y difusión del Software Libre y de Código Abierto en el Estado de Oaxaca.
+
+La organización y funcionamiento del Laboratorio serán determinadas en el Reglamento correspondiente.
+
+El COCITel está obligado a prever en su proyecto de Presupuesto de Egresos anual, recursos suficientes para que el Laboratorio cumpla cabalmente con sus atribuciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 9.
 
-El Director General del COCyT será nombrado y removido en cualquier tiempo por el Titular del Poder Ejecutivo del Estado, debiendo ser un profesional de reconocido prestigio en materia de investigación científica y/o tecnológica y tendrá las siguientes atribuciones:
+El Director General del COCITel será nombrado y removido en cualquier tiempo por el Titular del Poder Ejecutivo del Estado, debiendo ser un profesional de reconocido prestigio en materia de investigación científica y/o tecnológica y tendrá las siguientes atribuciones:
 
-I. Administrar las funciones y los bienes del COCyT;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
 
-II. Ser el representante general y legal del COCyT;
+I. Administrar las funciones y los bienes del COCITel;
 
-III. Dar cumplimiento a las disposiciones del COCyT y ejecutar sus acuerdos;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+II. Ser el representante general y legal del COCITel,
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+III. Dar cumplimiento a las disposiciones del COCITel y ejecutar sus acuerdos;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2010)</small>
 
 IV. Elaborar diagnósticos acerca de las demandas estatales en materia de desarrollo científico y de innovación y modernización tecnológica;
 
-V. Formular el proyecto Institucional del Programa Estatal de Ciencia y Tecnología y presentarlo al COCyT para su aprobación;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
 
-VI. Integrar el anteproyecto de presupuesto anual de ingresos y egresos y el programa operativo anual del organismo y presentarlo para su aprobación al COCyT;
+V. Formular el proyecto institucional del Programa de Ciencia, Tecnología e Innovación para el Estado de Oaxaca y presentarlo al COCITel para su aprobación;
 
-VII. Proponer los proyectos de reglamentos, manuales de organización, de procedimientos y de servicios para su aprobación, en su caso, por el COCyT;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+VI. Integrar el anteproyecto de presupuesto anual de ingresos y egresos y el programa operativo anual del organismo y presentarlo para su aprobación al COCITel;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+VII. Proponer los proyectos de reglamentos, manuales de organización de procedimientos y de servicios para su aprobación, en su caso, por el COCITel;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2010)</small>
 
 VIII. Administrar el Servicio de Información y Documentación Científica y Tecnológica, en el que se incluya el Registro Estatal de Ciencia y Tecnología;
 
-IX. Administrar y asegurar el uso adecuado de los recursos humanos, materiales y financieros del COCyT;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
 
-X. Enterar los recursos asignados a los programas y proyectos aprobados por el COCyT;
+IX. Administrar y asegurar el uso adecuado de los recursos humanos, materiales y financieros del COCITel.
 
-XI. Celebrar, por acuerdo del COCyT, los convenios y contratos necesarios para el cumplimiento de las disposiciones de esta Ley y de las funciones del Consejo;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
 
-XII. Establecer sistemas de administración y de control para el óptimo aprovechamiento de los recursos humanos, materiales, financieros y técnicos del COCyT;
+X. Enterar los recursos asignados a los programas y proyectos aprobados por el COCITel.
 
-XIII. Presentar un informe anual al COCyT, acerca del estado que guarda la administración del Consejo, así como los informes que deba rendir de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+XI. Celebrar, por acuerdo del COCITel, los convenios y contratos necesarios para el cumplimiento de las disposiciones de esta Ley y de las funcionas (sic) del Consejo.
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+XII. Establecer sistemas de administración y de control para el óptimo aprovechamiento de los recursos humanos, materiales, financieros y técnicos del COCITel.
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+XIII. Presentar un informe anual al COCITel acerca del estado que guarda la administración del Consejo, así como los informes que debe rendir de conformidad con la normatividad aplicable.
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2010)</small>
 
 XIV. Proporcionar la información y dar acceso a la documentación que le soliciten las Dependencias del Estado, así como dar cumplimiento a la Ley de Transparencia y Acceso a la Información Pública del Estado de Oaxaca; y
 
-XV. Las demás que le señalen las disposiciones legales aplicables, la presente Ley y el Reglamento Interior del COCyT.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+XV. Proporcionar la información y dar acceso a la documentación que le soliciten las Dependencias del Estado, así como dar cumplimiento a la Ley de Transparencia y Acceso a la Información Pública del Estado de Oaxaca, y XV. (sic) Las demás que le señalen las disposiciones legales aplicables, la presente Ley y el Reglamento Interior del COCITel.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2010)</small>
 
@@ -299,37 +379,47 @@ XV. Las demás que le señalen las disposiciones legales aplicables, la presente
 
 Con excepción del Director General y los servidores públicos necesarios para la operación del consejo, los cargos de los integrantes del mismo son honoríficos.
 
-Todos los servidores públicos que integren la planta del COCyT, son trabajadores de confianza. Las relaciones laborales generadas entre el Consejo y su personal, se regirán por lo dispuesto en la Ley del Servicio Civil para los Empleados del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+
+Todos los servidores públicos que integren la planta del COCITel son trabajadores de confianza. Las relaciones laborales generadas entre el Consejo y su personal se regirán por lo dispuesto en la Ley del Servicio Civil para los Empleados del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 11.
 
-Por cada miembro titular del COCyT habrá un suplente, mismo que será designado por el titular mediante oficio dirigido al Presidente.
+Por cada miembro titular del COCITel habrá un suplente, mismo que será designado por el titular mediante oficio dirigido al Presidente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 12.
 
-Las sesiones del COCyT serán ordinarias y extraordinarias. Las primeras se celebrarán por lo menos dos veces al año preferentemente una en cada semestre y las segundas cuando las necesidades de toma de decisiones así lo requieran. El Presidente, por intermedio del Director General convocará a las sesiones y se encargará de llevar cuenta de los asuntos que se acuerden y la documentación que se genere.
+Las sesiones del COCITel del (sic) serán ordinarias y extraordinarias. Las primeras se celebrarán por lo menos dos veces al año, preferentemente una en cada semestre y las segundas cuando las necesidades de toma de decisiones así lo requieran. El Presidente, por intermedio del Director General, convocará a las sesiones y se encargará de llevar cuenta de los asuntos que se acuerden y la documentación que se genere.
 
-El COCyT sesionará validamente con la asistencia de, por lo menos, la mitad más uno de sus miembros. Las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el Presidente voto de calidad para el caso de empate.
+El COCITel sesionará válidamente con la asistencia de, por lo menos, la mitad más uno de sus miembros. Las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el Presidente voto de calidad para el caso de empate.
 
 ### CAPÍTULO SEGUNDO. ÓRGANOS DE VIGILANCIA
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 13.
 
-La vigilancia del COCyT estará a cargo de la Secretaría de la Contraloría del Gobierno del Estado, en su carácter de Comisario, la cual será responsable de vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros del COCyT.
+La vigilancia del COCITel estará a cargo de la Secretaría de la Contraloría del Gobierno del Estado, en su carácter de Comisario, la cual será responsable de vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros del COCITel.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 14.
 
-Cuando la Secretaría de la Contraloría lo considere necesario, realizará la revisión de la documentación financiera del COCyT. Asimismo, podrá solicitar los avances de los reportes de quienes son beneficiados o patrocinados en sus proyectos de investigación científica, desarrollo e innovación tecnológica.
+Cuando la Secretaría de la Contraloría lo considere necesario, realizará la revisión de la documentación financiera del COCITel. Asimismo, podrá solicitar los avances de los reportes de quienes son beneficiados o patrocinados en sus proyectos de investigación científica, desarrollo e innovación tecnológica.
 
 ## TÍTULO TERCERO. DEL FINANCIAMIENTO Y DE LOS FONDOS
 
 ### CAPÍTULO PRIMERO. DEL FINANCIAMIENTO
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 15.
 
-El Ejecutivo del Estado aportará recursos destinados a financiar la realización de proyectos de investigación científica, innovación, desarrollo tecnológico, así como actividades directamente vinculadas al fomento de la ciencia y la tecnología. En el presupuesto anual del Poder Ejecutivo se contemplarán los recursos necesarios para el funcionamiento del COCyT.
+El Ejecutivo del Estado aportará recursos destinados a financiar la realización de proyectos de investigación científica, innovación, desarrollo tecnológico, así como actividades directamente vinculadas al fomento de la ciencia y la tecnología. En el presupuesto anual del Poder Ejecutivo se contemplarán los recursos necesarios para el funcionamiento del COCITel.
 
 ### CAPÍTULO SEGUNDO. DE LOS FONDOS
 
@@ -337,13 +427,15 @@ El Ejecutivo del Estado aportará recursos destinados a financiar la realizació
 
 Para los efectos de financiamiento de las actividades científicas y tecnológicas a las que se refiere la presente Ley, podrán crearse fondos de ciencia y tecnología, debiendo precisar el instrumento jurídico que los constituya, tales como fideicomisos, convenios de coordinación o concertación, y cualquier figura prevista en otras disposiciones jurídicas aplicables; también se deberán precisar las reglas de su operación.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
 
-El titular del Poder Ejecutivo del Estado dispondrá la inclusión del Director General del COCyT como Secretario Administrativo, o figura equivalente, en los fideicomisos u otros instrumentos jurídicos que se instituyan con relación al financiamiento de la ciencia y la tecnología.
+El titular del Poder Ejecutivo del Estado dispondrá la inclusión del Director General del COCITel como Secretario Administrativo, Técnico o figura equivalente, en los fideicomisos u otros instrumentos jurídicos que se instituyan con relación al financiamiento de la ciencia y la tecnología.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 17.
 
-El COCyT podrá celebrar convenios de colaboración con sus similares de las otras Entidades Federativas, con los Municipios del Estado, con instituciones de educación superior, sociales, productivas, fundaciones y asociaciones de profesionales nacionales e internacionales a fin de destinar fondos para proyectos de investigación científica y tecnológica que redunden en beneficio de las partes.
+El COCITel podrá celebrar convenios de colaboración con sus similares de las otras Entidades Federativas, con los Municipios del Estado, con instituciones de educación superior, sociales, productivas, fundaciones y asociaciones de profesionales nacionales e internacionales a fin de destinar fondos para proyectos de investigación científica y tecnológica que redunden en beneficio de las partes.
 
 ###### ARTÍCULO 18.
 
@@ -355,17 +447,23 @@ En ningún caso, los recursos que constituyen los fondos se destinarán a sufrag
 
 Tendrán derecho preferente a recibir los beneficios de los fondos, las instituciones, universidades, CI, laboratorios, empresas y los investigadores inscritos en el RENIECyT y/o en el RECyT que se encuentren domiciliados en la entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 20.
 
-La canalización de los recursos por parte del COCyT para proyectos de investigaciones específicas, otorgamiento de becas y cualquier otra ayuda de carácter económico que proporcione en cumplimiento de su objeto, estará sujeta a la celebración del instrumento jurídico correspondiente, a las disposiciones legales aplicables y a las siguientes condiciones:
+La canalización de los recursos por parte del COCITel para proyectos de investigaciones específicas, otorgamiento de becas y cualquier otra ayuda de carácter económico que proporcione en cumplimiento de su objeto, estará sujeta a la celebración del instrumento jurídico correspondiente, a las disposiciones legales aplicables y a las siguientes condiciones:
 
 I. Deberá existir vigilancia para la debida aplicación y el adecuado aprovechamiento de los fondos que sean proporcionados;
 
-II. Los beneficiarios rendirán al COCyT, los informes periódicos que se establezcan sobre el desarrollo y resultados de sus trabajos;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+II. Los beneficiarios rendirán al COCITel, los informes periódicos que se establezcan sobre el desarrollo y resultados de sus trabajos.
 
 III. La entrega de las remesas para el financiamiento de investigaciones de carácter científico y tecnológico, se realizarán de manera periódica y contra entrega de informes parciales de resultados, en los términos que establezca el reglamento; y
 
-IV. Los derechos de propiedad industrial o intelectual, respecto de los resultados obtenidos por las personas físicas o jurídicas que reciban ayuda del COCyT, serán materia de regulación específica en los instrumentos jurídicos que al efecto se celebren, en los que se estipularán condiciones de equidad.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+IV. Los derechos de propiedad industrial o intelectual, respecto de los resultados obtenidos por las personas físicas o jurídicas que reciban ayuda del COCITel, serán materia de regulación específica en los instrumentos jurídicos que al efecto se celebren, en los que se estipularán condiciones de equidad.
 
 ###### ARTÍCULO 21.
 
@@ -379,13 +477,17 @@ III. Los internacionales; y
 
 IV. Los mixtos.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 22.
 
-Los fondos institucionales son los recursos que los gobiernos federal, estatal y municipales otorguen al COCyT para fomentar, impulsar, desarrollar y fortalecer la investigación científica y tecnológica en la Entidad.
+Los fondos institucionales son los recursos que los gobiernos Federal, Estatal y Municipales otorguen al COCITel para fomentar, impulsar, desarrollar y fortalecer la investigación científica y tecnológica en la Entidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 23.
 
-Los fondos sectoriales son aquellos recursos que se obtengan a través de la firma de convenios entre el COCyT y las dependencias y entidades de la administración pública federal, estatal y municipales; éstos se destinarán exclusivamente a la realización de investigaciones científicas y tecnológicas que requiera el sector de que se trate.
+Los fondos sectoriales son aquellos recursos que se obtengan a través de la firma de convenios entre el COCITel y las dependencias y entidades de la administración pública federal, estatal y municipales; éstos se destinarán exclusivamente a la realización de investigaciones científicas y tecnológicas que requiera el sector de que se trate.
 
 Los recursos de estos fondos deberán provenir del presupuesto autorizado para ese efecto a la dependencia o entidad interesada; éstos serán aplicables durante la subsistencia del convenio y no tendrán carácter de regularizables. Asimismo, podrán integrarse con aportaciones complementarias del sector privado.
 
@@ -393,25 +495,33 @@ Los recursos de estos fondos deberán provenir del presupuesto autorizado para e
 
 Los fondos internacionales son los recursos que provengan de convenios de cooperación internacional, que se establezcan en los términos específicos celebrados.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 25.
 
-Los fondos mixtos son aquellos recursos que se convengan entre el Ejecutivo del Estado, a través del COCyT, y alguna otra entidad o dependencia federal, estatal o municipal y/o el CONACyT. El Ejecutivo del Estado garantizará la aportación y el aseguramiento de los recursos propuestos para fondos mixtos.
+Los fondos mixtos son aquellos recursos que se convengan entre el Ejecutivo del Estado, a través del COCITel, y alguna otra entidad o dependencia federal, estatal o municipal y/o el CONACyT. El Ejecutivo del Estado garantizará la aportación y el aseguramiento de los recursos propuestos para fondos mixtos.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 26.
 
-El COCyT será la entidad autorizada para dictaminar y resolver sobre aspectos científicos y tecnológicos, así como de los contenidos de los convenios de desempeño y sobre la periodicidad de la evaluación de los proyectos.
+El COCITel será la entidad autorizada para dictaminar y resolver sobre aspectos científicos y tecnológicos, así como de los contenidos de los convenios de desempeño y sobre la periodicidad de la evaluación de los proyectos.
 
-Por acuerdo del COCyT y cuando así se considere necesario, las solicitudes de apoyo para el financiamiento de investigaciones en materia científica y tecnológica, podrán ser evaluadas por organismos o científicos externos.
+Por acuerdo del COCITel y cuando así se considere necesario, las solicitudes de apoyo para el financiamiento de investigaciones en materia científica y tecnológica, podrán ser evaluadas por organismos o científicos externos.
 
 ## TÍTULO CUARTO. INSTRUMENTOS DE APOYO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA
 
-### CAPÍTULO PRIMERO. DEL PROGRAMA DE CIENCIA Y TECNOLOGÍA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MAYO DE 2017)</small>
+
+### CAPÍTULO PRIMERO. DEL PROGRAMA DE CIENCIA, TECNOLOGÍA E INNOVACIÓN
 
 ###### ARTÍCULO 27.
 
 El Programa será elaborado con objetivos de corto, mediano y largo plazo con base en las propuestas que presenten las dependencias, organismos públicos de la administración pública estatal y municipal; los organismos del sector privado, productivo y social; las comunidades académica, científica y tecnológica; las instituciones de educación superior públicas y privadas, los centros de investigación públicos y privados, y las personas físicas y morales que apoyen o realicen investigación científica y desarrollo tecnológico.
 
-El Programa será evaluado y actualizado anualmente por el COCyT.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+
+El Programa será evaluado y actualizado anualmente por el COCITel
 
 ###### ARTÍCULO 28.
 
@@ -473,11 +583,11 @@ VIII. Publicaciones y eventos; y
 
 IX. Financiamiento.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 31.
 
-El COCyT será el encargado de operar el RECyT y vigilar su funcionamiento, a través de la Dirección General, auxiliado por un comité de expertos en la materia, garantizando que en el proceso de su integración se apliquen los principios de transparencia, legalidad y equidad.
+El COCITel será el encargado de operar el RECyT y vigilar su funcionamiento, a través de la Dirección General, auxiliado por un comité de expertos en la materia, garantizando que en el proceso de su integración se apliquen los principios de transparencia, legalidad y equidad.
 
 ###### ARTÍCULO 32.
 
@@ -491,15 +601,17 @@ III. Otorgar el número de registro a investigadores y/o empresas; y;
 
 IV. Promover e impulsar la actividad científica y tecnológica de los CI en el Estado, propiciando la formación de nuevos que coadyuven al desarrollo de la entidad, así como la consolidación de los existentes.
 
-Estos registros deberán publicarse una vez aprobados por el COCyT, quien tomará en consideración de los investigadores y/o empresas, su registro para el otorgamiento de becas, recursos y estímulos.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+
+Estos registros deberán publicarse una vez aprobados por el COCITel, quien tomará en consideración de los investigadores y/o empresas, su registro para el otorgamiento de becas, recursos y estímulos.
 
 ### CAPÍTULO TERCERO. DEL SERVICIO DE INFORMACIÓN Y DOCUMENTACIÓN CIENTÍFICA Y TECNOLÓGICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2010)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2017
 
 ###### ARTÍCULO 33.
 
-Se instituye el Servicio de Información y Documentación Científica y Tecnológica a cargo del COCyT, quien lo administrará a través de la Dirección General y lo mantendrá actualizado.
+Se instituye el Servicio de Información y Documentación Científica y Tecnológica a cargo del COCITel, quien lo administrará a través de la Dirección General y lo mantendrá actualizado.
 
 El Sistema será accesible al público, excepto los derechos de propiedad industrial e intelectual y los criterios de confidencialidad que al efecto se establezcan.
 
@@ -527,17 +639,23 @@ IX. El gasto en programas y proyectos de investigación, desarrollo, innovación
 
 X. Las fuentes de información y documentación en materia de ciencia y tecnología.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 35.
 
-El COCyT podrá convenir acciones conjuntas con los gobiernos federal, estatal y municipales, así como con las personas físicas y morales de los sectores público y privado, nacional e internacional para la consolidación y el fortalecimiento del Sistema.
+El COCITel podrá convenir acciones conjuntas con los gobiernos federal, estatal y municipales, así como con las personas físicas y morales de los sectores público y privado, nacional e internacional para la consolidación y el fortalecimiento del Sistema.
 
-Las dependencias de la Administración Pública del Estado de Oaxaca, colaborarán con el COCyT en la conformación y operación del Sistema.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+
+Las dependencias de la Administración Pública del Estado de Oaxaca, colaborarán con el COCITel en la conformación y operación del Sistema.
 
 Las personas físicas y morales que reciban apoyo financiero deberán proporcionar la información básica que se les requiera, excepto la que por derecho de propiedad industrial e intelectual y los criterios de confidencialidad que al efecto se establezcan, deba ser reservada.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 36.
 
-El Poder Ejecutivo del Estado, con el propósito de mantener actualizado el Servicio, podrá a través del COCyT, convenir o acordar con los diferentes órdenes de gobierno, compartir la información científica y tecnológica que posean, respetando siempre lo reservado en la legislación correspondiente.
+El Poder Ejecutivo del Estado, con el propósito de mantener actualizado el Servicio, podrá a través del COCITel, convenir o acordar con los diferentes órdenes de gobierno, compartir la información científica y tecnológica que posean, respetando siempre lo reservado en la legislación correspondiente.
 
 ###### ARTÍCULO 37.
 
@@ -545,9 +663,11 @@ En el Reglamento de esta Ley se preverá lo relativo al funcionamiento del Servi
 
 La normatividad preverá lo necesario para que el Servicio de Información y Documentación Científica y Tecnológica sea un instrumento que coadyuve a la vinculación entre la investigación y sus formas de aplicación y promueva la modernización y la competitividad del sector productivo.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 38.
 
-Para la determinación de las actividades que deban considerarse de desarrollo e innovación tecnológica, el COCyT solicitará la opinión de las instancias, dependencias o entidades que considere conveniente.
+Para la determinación de las actividades que deban considerarse de desarrollo e innovación tecnológica, el COCITel solicitará la opinión de las instancias, dependencias o entidades que considere conveniente
 
 ### CAPÍTULO CUARTO. DEL SISTEMA ESTATAL DE INVESTIGADORES
 
@@ -569,9 +689,11 @@ V. Apoyar la integración de grupos de investigadores en la Entidad que particip
 
 Podrán formar parte del Sistema Estatal de Investigadores todas aquellas personas que realicen actividades de investigación científica, desarrollo e innovación tecnológica, cuya labor cumpla con lo estipulado en el Reglamento Interno del propio Sistema Estatal de Investigadores y las bases que se emitan para el otorgamiento de los reconocimientos.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 41.
 
-El COCyT operará el Sistema Estatal de Investigadores y vigilará su funcionamiento, garantizando en el proceso de instrumentación, principios de legalidad, equidad y transparencia.
+El COCITel operará el Sistema Estatal de Investigadores y vigilará su funcionamiento, garantizando en el proceso de instrumentación, principios de legalidad, equidad y transparencia.
 
 ### CAPÍTULO QUINTO. DE LOS ESTÍMULOS A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA
 
@@ -579,9 +701,13 @@ El COCyT operará el Sistema Estatal de Investigadores y vigilará su funcionami
 
 Los premios estatales de ciencia y tecnología y de reconocimiento a la innovación, tendrán como objeto reconocer y estimular la investigación y el desarrollo científico y tecnológico en la Entidad, así como su influencia en la obtención de altos estándares de calidad, productividad y competitividad. También para apoyar la promoción y difusión de los proyectos respectivos y destacar que han sido realizados, según el caso, por el científico o tecnólogo, o equipos de científicos o tecnólogos del Estado; o que radiquen en la Entidad, y cuya obra en estos campos se haga acreedora a tal distinción.
 
-Los premios serán entregados anualmente por el monto que determine el COCyT, con base en los recursos que se determinen en su presupuesto y con las aportaciones que para el efecto reciba de las instituciones vinculadas con él, así como de los sectores público, social o privado.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
 
-Las bases y términos a que se someterán los candidatos, serán establecidas por el COCyT en la convocatoria que formule, asegurando que en el jurado calificador participen mayoritariamente distinguidos investigadores y tecnólogos de los campos del conocimiento motivo de la investigación.
+Los premios serán entregados anualmente por el monto que determine el COCITel; con base en los recursos que se determinen en su presupuesto y con las portaciones (sic) que para el efecto reciba de las instituciones vinculadas con él, así como de los sectores público, social o privado.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+
+Las bases y términos a que se someterán los candidatos, serán establecidas por el COCITel en la convocatoria que formule, asegurando que en el jurado calificador participen mayoritariamente distinguidos investigadores y tecnólogos de los ampos (sic) del conocimiento motivo de la investigación.
 
 ###### ARTÍCULO 43.
 
@@ -595,19 +721,21 @@ Los estímulos y reconocimientos que el Gobierno Estatal otorgue a los académic
 
 ###### ARTÍCULO 44.
 
-La investigación científica y tecnológica realizada en el Estado de
+La investigación científica y tecnológica realizada en el Estado de Oaxaca buscará contribuir significativamente a solucionar los problemas de la entidad en materia de desarrollo regional, salud, vivienda, educación, deporte, recreación, cultura, medio ambiente, y todos aquellos que repercuten en las condiciones de vida de la población.
 
-Oaxaca buscará contribuir significativamente a solucionar los problemas de la entidad en materia de desarrollo regional, salud, vivienda, educación, deporte, recreación, cultura, medio ambiente, y todos aquellos que repercuten en las condiciones de vida de la población.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
 
-Las IES y el COCyT, establecerán los mecanismos de vinculación, coordinación y colaboración necesarios para apoyar conjuntamente los estudios de postgrado, poniendo atención especial al incremento de su calidad; la formación y consolidación de grupos académicos de investigación, y la investigación científica en todas las áreas del conocimiento y el desarrollo tecnológico.
+Las IES y el COCITel, establecerán los mecanismos de vinculación, coordinación y colaboración necesarios para apoyar conjuntamente los estudios de postgrado, poniendo atención especial al incremento de su calidad; la formación y consolidación de grupos académicos de investigación, y la investigación científica en todas las áreas del conocimiento y el desarrollo tecnológico.
 
 ###### ARTÍCULO 45.
 
 Con el objeto de vincular la investigación con la educación, los CI y las IES, promoverán a través de sus ordenamientos internos, que sus académicos docentes e investigadores, participen en actividades de enseñanza frente a grupo, tutorías, investigación o aplicación innovadora del conocimiento.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 46.
 
-La incidencia de la ciencia y la tecnología en el desarrollo sociocultural y económico se desarrollará a través de cuatro mecanismos de inducción: programación, financiamiento, formación de recursos humanos y estímulos, bajo la coordinación del COCyT.
+La incidencia de la ciencia y la tecnología en el desarrollo sociocultural y económico se desarrollará a través de cuatro mecanismos de inducción: programación, financiamiento, formación de recursos humanos y estímulos, bajo la coordinación del COCITel.
 
 ###### ARTÍCULO 47.
 
@@ -615,25 +743,31 @@ El Gobierno del Estado promoverá el diseño y aplicación de métodos y program
 
 ### CAPÍTULO SEGUNDO. DE LA VINCULACIÓN DE LA INVESTIGACIÓN CON EL SECTOR PRODUCTIVO
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 48.
 
-La investigación apoyará el desarrollo económico integral del Estado en beneficio de su población en general. Para este objeto, el COCyT promoverá la vinculación permanente de las instituciones que desarrollan investigación científica y tecnológica con los procesos productivos, comerciales y financieros de la entidad, mediante la gestión de recursos para apoyar la modernización, innovación, transferencia y desarrollo tecnológico de dichos procesos.
+La investigación apoyará el desarrollo económico integral del Estado en beneficio de su población en general. Para este objeto, el COCITel promoverá la vinculación permanente de las instituciones que desarrollan investigación científica y tecnológica con los procesos productivos, comerciales y financieros de la entidad, mediante la gestión de recursos para apoyar la modernización, innovación, transferencia y desarrollo tecnológico de dichos procesos.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 49.
 
-El COCyT promoverá la vinculación permanente de las instituciones que desarrollan investigación científica y tecnológica con el sector productivo de la entidad, de igual manera apoyará mediante asesoría y gestión la creación y consolidación de empresas de base tecnológica en el estado.
+El COCITel promoverá la vinculación permanente de las instituciones que desarrollan investigación científica y tecnológica con el sector productivo de la entidad, de igual manera apoyará mediante asesoría y gestión la creación y consolidación de empresas de base tecnológica en el estado.
 
 ### CAPÍTULO TERCERO. DE LA DIVULGACIÓN Y DIFUSIÓN DE LA INVESTIGACIÓN
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 50.
 
-El COCyT promoverá programas de divulgación y difusión de la investigación científica y tecnológica, en donde participen los sectores público, social y privado, para fortalecer y consolidar la cultura científica de la sociedad.
+El COCITel promoverá programas de divulgación y difusión de la investigación científica y tecnológica, en donde participen los sectores público, social y privado, para fortalecer y consolidar la cultura científica de la sociedad.
 
-Apoyará la realización de actividades permanentes de divulgación, mediante la producción de materiales y la creación de un órgano de difusión.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 51.
 
-El COCyT propiciará y garantizará la participación permanente de las dependencias y organismos de la administración pública en la realización de actividades orientadas a la difusión y divulgación de la ciencia y la tecnología, utilizando los medios de comunicación más adecuados.
+El COCITel propiciará y garantizará la participación permanente de las dependencias y organismos de la administración pública en la realización de actividades orientadas a la difusión y divulgación de la ciencia y la tecnología, utilizando los medios de comunicación más adecuados.
 
 ###### ARTÍCULO 52.
 
@@ -651,9 +785,11 @@ V. Las demás que de acuerdo con el Programa se requiera realizar.
 
 ### CAPÍTULO CUARTO. DE LA VINCULACIÓN, INNOVACIÓN Y DESARROLLO TECNOLÓGICO
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 53.
 
-Las dependencias y entidades de la Administración Pública Estatal, instituciones de educación superior, así como centros de ciencia y tecnología, en sus respectivos ámbitos de competencia, promoverán el desarrollo y la innovación tecnológica. Para tal efecto, el COCyT deberá establecer mecanismos eficientes y funcionales para vincularse con los sectores productivo y de servicios.
+Las dependencias y entidades de la Administración Pública Estatal, instituciones de educación superior, así como centros de ciencia y tecnología, en sus respectivos ámbitos de competencia, promoverán el desarrollo y la innovación tecnológica. Para tal efecto, el COCITel deberá establecer mecanismos eficientes y funcionales para vincularse con los sectores productivos y de servicios.
 
 ###### ARTÍCULO 54.
 
@@ -665,9 +801,11 @@ Para la creación y operación de los instrumentos de fomento a que se refiere e
 
 De igual forma, serán prioritarios los proyectos que se propongan lograr un uso racional, más eficiente y ecológicamente sustentable de los recursos naturales, así como las asociaciones cuyo propósito sea la creación y funcionamiento de redes científicas y tecnológicas.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 56.
 
-Para otorgar apoyo a las actividades de investigación científica, desarrollo e innovación tecnológica a que se refiere este capítulo el COCyT solicitará, de ser necesario, una declaración formal de interés en la aplicación de la tecnología, expresada por el o los potenciales usuarios.
+Para otorgar apoyo a las actividades de investigación científica, desarrollo e innovación tecnológica a que se refiere este capítulo el COCITel solicitará, de ser necesario, una declaración formal de interés en la aplicación de la tecnología, expresada por el o los potenciales usuarios.
 
 ###### ARTÍCULO 57.
 
@@ -734,3 +872,13 @@ P.O. 17 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 584.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 7 DE LA LEY DE CIENCIA Y TECNOLOGÍA PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 626.- MEDIANTE EL CUAL SE REFORMAN, ADICIONA Y MODIFICA DIVERSAS DISPOSICIONES DE LA LEY DE CIENCIA Y TECNOLOGÍA PARA EL ESTADO DE OAXACA, AHORA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Dentro de los 120 días siguientes a la entrada en vigor del Presente Decreto, el Titular del Poder Ejecutivo del Estado deberá realizar las adecuaciones respectivas al Reglamento de la Ley de Ciencia, Tecnología e Innovación para el Estado de Oaxaca.
+
+TERCERO.- Se instruye a la Secretaría de Administración realizar los trámites administrativos necesarios para el cambio gradual de nombre en la papelería oficial del Consejo Oaxaqueño de Ciencia, Tecnología e Innovación.
