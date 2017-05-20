@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-los-procesos-internos-de-seleccion-de-75066"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-06"
-last_updated: "2014-09-13"
+last_updated: "2017-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75066&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO DE LOS PROCESOS INTERNOS DE SELECCION DE CANDIDATOS Y PRECAMPAÑAS DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO IEPC-ACG-020/2017 DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 20 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LOS PROCESOS INTERNOS DE SELECCIÓN DE CANDIDATOS Y PRECAMPAÑAS DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 6 de mayo de 2010.
 
@@ -92,8 +94,6 @@ Consejero Electoral Integrante de la Comisión
 Lic. Griselda Beatriz Rangel Juárez
 
 Secretario Técnico
-
-> <small>N. DE E. EL ACUERDO NÚMERO IEPC-ACG-017/2014, EXPEDIDO POR EL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2014, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO, CAMBIANDO DE DIECISÉIS A NUEVE ARTÍCULOS.</small>
 
 REGLAMENTO DE LOS PROCESOS INTERNOS DE SELECCIÓN DE CANDIDATOS Y PRECAMPAÑAS DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
 
@@ -197,8 +197,18 @@ T R A N S I T O R I O :
 
 ÚNICO.- El presente reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 13 DE SEPTIEMBRE DE 2014.
 
 ÚNICO.- El presente acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 20 DE MAYO DE 2017.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO IEPC-ACG-020/2017 DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, QUE ABROGA EL REGLAMENTO DE LOS PROCESOS INTERNOS DE SELECCIÓN DE CANDIDATOS Y PRECAMPAÑAS DE ESTE ORGANISMO ELECTORAL; Y SE EXPIDE EL REGLAMENTO DE LOS PROCESOS INTERNOS DE SELECCIÓN DE CANDIDATOS Y PRECAMPAÑAS DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO”.]</small>
+
+PRIMERO. Se abroga el Reglamento de los Procesos Internos de Selección de Candidatos y Precampañas de este organismo electoral; y se expide el Reglamento de los procesos internos de selección de candidatos y precampañas del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, en términos del considerando VI del presente acuerdo.
+
+SEGUNDO. Hágase del conocimiento el presente acuerdo al Instituto Nacional Electoral, a través de la Junta Local Ejecutiva en el Estado de Jalisco, para los efectos legales correspondientes.
+
+TERCERO. Notifíquese el contenido del presente acuerdo a los partidos políticos acreditados, y publíquese en el Periódico Oficial “El Estado de Jalisco”, así como en el portal oficial de internet de este organismo electoral.
