@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2017-03-02"
+last_updated: "2017-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -1347,6 +1349,44 @@ Los ejecutores de gasto informarán a la autoridad competente cuando las infracc
 
 Las sanciones e indemnizaciones a que se refiere esta Ley se impondrán y exigirán con independencia de las responsabilidades de carácter político, penal, administrativo o civil, que en su caso, lleguen a determinarse por las autoridades competentes.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MAYO DE 2017)</small>
+
+## TÍTULO SÉPTIMO. TRANSPARENCIA Y DIFUSIÓN DE LA INFORMACIÓN PRESUPUESTAL
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2017)</small>
+
+###### Artículo 114.
+
+Los entes públicos obligados a cumplir las disposiciones de esta Ley, desde el ámbito de sus atribuciones, establecerán, en sus respectivos portales de internet, documentos dirigidos a la ciudadanía que expliquen, de manera sencilla y en formatos accesibles la información presupuestal, donde se incluyan enlaces electrónicos que permitan acceder a la información presupuestal de su competencia, así como a sus publicaciones en medios oficiales de difusión, en su caso.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2017)</small>
+
+###### Artículo 115.
+
+La difusión de la información presupuestal será conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios, la Ley General de Transparencia y Acceso a la Información Pública, el Título Quinto de la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco y sus Municipios y demás normatividad vigente.
+
+La información a que se refiere el presente artículo podrá desglosarse a un mayor nivel de desagregación por dependencia o entidad conforme a la normatividad vigente.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2017)</small>
+
+###### Artículo 116.
+
+Los documentos dirigidos a la ciudadanía a los que se refiere este título deberán publicarse de conformidad con las normas, estructuras, formatos y contenido de la información relativa a la armonización que para tal efecto emita el CONAC y demás normatividad vigente.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2017)</small>
+
+###### Artículo 117.
+
+Los documentos dirigidos a la ciudadanía, en los términos del presente Título, además de cumplir lo señalado en el artículo 116, deberán contener lo siguiente:
+
+I. Un glosario de términos o definiciones relevantes en materia presupuestal;
+
+II. Información relativa al gasto en educación;
+
+III. Las previsiones del gasto destinado a programas vinculados con políticas para la atención de niños, niñas y adolescentes, a la mitigación de los efectos del cambio climático y de la equidad de género; y
+
+IV. Un listado de información focalizada en los demás temas de interés de los entes públicos.
+
 ## TRANSITORIOS
 
 PRIMERO. Se faculta al titular del Poder Ejecutivo del Estado, para que cuando así convenga al buen despacho de la administración financiera y previos los estudios técnicos respectivos, autorice a la Secretaría de Finanzas a desconcentrar el ejercicio y aplicación de las partidas presupuestales a las dependencias y entidades.
@@ -1560,3 +1600,9 @@ P.O. 2 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26262/LXI/17 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS A LA LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO, LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 20 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26359/LXI/17 QUE ADICIONA EL TÍTULO SÉPTIMO Y LOS ARTÍCULOS 114, 115, 116 Y 117 A LA LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrara en vigor a los 90 días siguientes a partir del inicio de la vigencia del Presupuesto de Egresos del Estado de Jalisco para el año 2018.
