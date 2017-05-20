@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2017-03-07"
+last_updated: "2017-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -475,11 +475,11 @@ XI. Ejecutar los acuerdos de la Junta de Gobierno;
 
 XII. Rendir, dentro de los tres primeros meses del siguiente año, su informe anual de actividades a la Junta de Gobierno de la Comisión, mismo que deberá incluir:
 
-a) El cumplimiento de acuerdos de la Junta de Gobierno o su estado de avance.
+a) El cumplimiento de acuerdos de la Junta de Gobierno o su estado de avance;
 
 b) Los estados financieros.
 
-c) Evaluación y control de las metas establecidas en los instrumentos documentales referidos en el Capítulo II de la Ley de Planeación para el Estado y municipios de San Luis Potosí.
+c) Evaluación y control de las metas establecidas en los instrumentos documentales referidos en el Capítulo II de la Ley de Planeación para el Estado y municipios de San Luis Potosí;
 
 d) Cumplimiento de los programas de obras y erogaciones en las mismas o su estado de avance;
 
@@ -3209,6 +3209,10 @@ DECIMO SEGUNDO. Los asuntos que se encuentren en trámite a la entrada en vigor 
 
 DECIMO TERCERO. Los organismos operadores de agua potable de los municipios del Estado, previo acuerdo de su Junta de Gobierno, podrán presentar al Congreso del Estado propuestas de modificación a sus respectivas leyes de cuotas y tarifas debidamente fundamentadas y motivadas, a fin de implementar programas temporales que coadyuven a la regularización de adeudos de los usuarios morosos y, con ello, lograr que se incentive la recaudación y se fomente la cultura de pago; así mismo, acciones que considere convenientes para beneficiar a los usuarios cumplidos en los pagos del servicio público doméstico de agua.
 
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2017)</small>
+
+En caso de que el municipio no cuente con organismo operador, los ayuntamientos, a través de su presidente y, previo acuerdo de Cabildo, podrán presentar iniciativas de reforma a sus leyes de ingresos vigentes en el rubro respectivo, con el fin señalado en el párrafo anterior.
+
 Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
 
 DADO en el Salón de Sesiones del Honorable Congreso del Estado, el día trece de diciembre de dos mil cinco.
@@ -3458,3 +3462,11 @@ PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su public
 SEGUNDO. Dentro de los sesenta días naturales posteriores a la entrada en vigor del presente Decreto, los ayuntamientos del Estado de San Luis Potosí deberán expedir o reformar los reglamentos o disposiciones administrativas respectivas.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 20 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0634.- SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO DÉCIMO TERCERO TRANSITORIO, DE LA LEY DE AGUAS PARA EL ESTADO".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
