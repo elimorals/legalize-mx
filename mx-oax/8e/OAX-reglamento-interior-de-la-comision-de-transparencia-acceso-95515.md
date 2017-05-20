@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-de-la-comision-de-transparencia-acceso-9551
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-03"
-last_updated: "2013-08-03"
+last_updated: "2017-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA; ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 20 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA COMISIÓN DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 3 de agosto de 2013.
 
@@ -61,7 +63,7 @@ VI. Ley de Datos Personales.- La Ley de Protección de Datos Personales del Esta
 
 VII. Ley de Archivos.- La Ley de Archivos del Estado de Oaxaca;
 
-VIII. Reglamento.- El Reglamento Interior de la “Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales” del Estado de Oaxaca;
+VIII. Reglamento.- El Reglamento Interior de la "Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales" del Estado de Oaxaca;
 
 IX. Manual de Procedimientos.- Normas internas de operatividad y procedimientos de las Unidades Administrativas de la Comisión, aprobadas por el Consejo General;
 
@@ -75,7 +77,7 @@ XIII. POA.- Programa Operativo Anual;
 
 XIV. Unidad Administrativa.- Cualquier Dirección, Departamento, unidades e instancias que conforman la Comisión y que sean aprobadas por el Consejo General;
 
-XV. SIEAIP.- El Sistema Electrónico de Acceso a la Información Pública; (sic)
+XV. SIEAIP.- El Sistema Electrónico de Acceso a la Información Pública;
 
 ###### Artículo 4.
 
@@ -615,7 +617,7 @@ XXI. Asistir en representación de la Comisión a los actos en temas relacionado
 
 XXII. Requerir a los titulare (sic) de las áreas administrativas la documentación e información que requiera para el cumplimiento de sus atribuciones; y
 
-XXIII. Las demás que les confiera el presente reglamento y el Consejo General; (sic)
+XXIII. Las demás que les confiera el presente reglamento y el Consejo General;
 
 ###### Artículo 19.
 
@@ -1009,7 +1011,7 @@ II. El Consejo General Turnara la propuesta a cada uno de los consejeros para su
 
 III. Una vez analizada la propuesta de reforma o adición, se emitirá un dictamen, el cual se pondrá a consideración del Consejo General para su votación y aprobación; y
 
-IV. Aprobada la reforma o adición, quedará incorporada al texto del Reglamento, debiendo publicarse en el Periódico Oficial del Gobierno del Estado para su entrada en vigor; (sic)
+IV. Aprobada la reforma o adición, quedará incorporada al texto del Reglamento, debiendo publicarse en el Periódico Oficial del Gobierno del Estado para su entrada en vigor;
 
 T R A N S I T O R I O S
 
@@ -1038,3 +1040,17 @@ CONSEJERA
 LIC. OLIVERIO SUAREZ GÓMEZ
 
 SECRETARIO GENERAL DE ACUERDOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO.- DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE OAXACA”.]
+
+Primero. El presente Reglamento Interno entrará en vigor el día de su aprobación y deberá publicarse en el portal electrónico del Instituto y en el Periódico Oficial del Estado.
+
+Segundo. Se abroga el Reglamento Interior de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Oaxaca, publicado en el Periódico Oficial del Estado el tres de agosto de dos mil trece.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+Cuarto. A partir de la entrada en vigor del presente Reglamento Interno, el Instituto deberá realizar las adecuaciones administrativas y emitir el Manual de organización y Manual de procedimientos correspondientes, en un periodo de ciento ochenta días naturales.
