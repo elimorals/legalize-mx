@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-al-desarrollo-rural-sustentable-del-estado-97205
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2015-05-16"
+last_updated: "2017-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de diciembre de 2013.
 
@@ -753,9 +753,19 @@ III. Los funcionarios que el Gobierno del Estado designe;
 
 IV. Las instituciones de educación e investigación pública y privada agropecuaria;
 
-V. Las asociaciones o colegios de profesionistas, relacionados con actividades agropecuarias, y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
 
-VI. Los representantes de las organizaciones sociales y privadas de las regiones del sector rural en el municipio correspondiente, en forma similar a la integración que se adopta para el Consejo Estatal.
+V. Las asociaciones o colegios de profesionistas, relacionados con actividades agropecuarias;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+VI. Los representantes de las organizaciones sociales y privadas de las regiones del sector rural en el municipio correspondiente, en forma similar a la integración que se adopta para el Consejo Estatal, y
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2017)</small>
+
+VII. A convocatoria del Presidente del Consejo podrán participar los presidentes de los comisariados ejidales, en las reuniones que considere para tratar asuntos que estén vinculados con la definición de prioridades, planeación y acciones, así como lineamientos que se acuerden entre los gobiernos federal y estatal, que se estimen necesarias en beneficio de la propia comunidad; y hacer cumplir las leyes, reglamentos municipales y las determinaciones del ayuntamiento, así como los acuerdos por el presidente municipal que se hayan previamente convenido.
+
+De igual manera, en caso de que el presidente del consejo no convoque a los presidentes de los comisariados ejidales, éstos, para tratar asuntos específicos a su competencia, deberán hacer la solicitud para participar en las reuniones del mismo, de acuerdo a lo que establece el párrafo anterior.
 
 ###### ARTÍCULO 51.
 
@@ -1158,3 +1168,11 @@ P.O. 16 DE MAYO DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0631.- SE REFORMA EL ARTÍCULO 50 EN SUS FRACCIONES, V, Y VI; Y ADICIONA AL MISMO ARTÍCULO 50, LA FRACCIÓN VII, DE Y A LA LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO”.]
+
+PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
