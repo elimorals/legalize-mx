@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2017-05-13"
+last_updated: "2017-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -339,9 +339,15 @@ XV. Establecer medidas adicionales de protección y auxilio para el turista;
 
 XVI. Promover el uso adecuado del idioma nacional en la denominación de establecimientos y expresiones turísticas;
 
-XVII. Tomar en consideración las opiniones, usos y costumbres de las comunidades indígenas de los lugares en que se encuentren asentadas, en los casos en que se desarrollen en las mismas proyectos que les afecten, y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
 
-XVIII. Las demás que esta Ley y otros ordenamientos le señalen.
+XVII. Tomar en consideración las opiniones, usos y costumbres de las comunidades indígenas de los lugares en que se encuentren asentadas, en los casos en que se desarrollen en las mismas proyectos que les afecten;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2017)</small>
+
+XVIII. Establecer y celebrar anualmente la semana de turismo municipal, en la cual se promoverá el municipio a nivel local, regional, nacional e internacional, con el propósito de generar derrama económica en el mismo, en la cual deberá participar activamente, la ciudadanía, las instituciones educativas, culturales, deportivas y de seguridad pública, y
+
+XIX. Las demás que esta Ley y otros ordenamientos le señalen.
 
 ###### ARTICULO 10.
 
@@ -1136,3 +1142,11 @@ P.O. 13 DE MAYO DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0627.- SE REFORMA EL ARTÍCULO 9° DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
