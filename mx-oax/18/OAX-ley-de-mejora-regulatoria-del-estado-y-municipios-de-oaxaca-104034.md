@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-mejora-regulatoria-del-estado-y-municipios-de-oaxaca-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-02"
-last_updated: "2016-10-15"
+last_updated: "2017-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE OAXACA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
 
 Ley publicada en Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de mayo de 2014.
 
@@ -115,19 +117,91 @@ XXI. Ventanilla Única: Espacio físico o electrónico en el que se concentran t
 
 ### CAPÍTULO I. DE LA COMISIÓN ESTATAL DE MEJORA REGULATORIA
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+
 ###### Artículo 4.
 
-Para efectos de esta Ley, son autoridades en materia de Mejora Regulatoria:
+Para efectos de esta Ley, son autoridades en materia de Mejora Regulatoria: El Poder Ejecutivo por conducto de la Comisión y los Municipios por conducto de la dependencia o entidad responsable que al efecto designe el Ayuntamiento.
 
-El Poder Ejecutivo, por conducto de la Comisión Estatal de Mejora Regulatoria, y los Municipios, por conducto de la dependencia o entidad responsable que al efecto designe el Ayuntamiento.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
 
 ###### Artículo 5.
 
-Se crea la Comisión Estatal de Mejora Regulatoria de Oaxaca como un Organismo Público Descentralizado, con personalidad jurídica y patrimonio propio, que se adscribe sectorialmente a la Gubernatura del Estado, quien, implementará mecanismos tecnológicos que permitan recibir por medios de comunicación electrónica y aquellos que considere pertinentes, las promociones o solicitudes que formulen los particulares para llevar a cabo los trámites y servicios administrativos vigentes en el Estado.
+Se crea la Comisión de Mejora Regulatoria del Estado de Oaxaca como un Organismo Público Descentralizado, con personalidad jurídica y patrimonio propio, que se adscribe sectorialmente a la Gubernatura del Estado, con plena autonomía administrativa, de gestión, operativa, presupuestal y de ejecución, para el adecuado desarrollo de sus atribuciones, misma que atenderá los asuntos de este instrumento y los que la demás normatividad aplicable les señalen e implementará mecanismos tecnológicos que permitan recibir por medios de comunicación electrónica y aquellos que considere pertinentes, las promociones o solicitudes que formulen los particulares, para llevar a cabo los trámites y servicios administrativos vigentes en el Estado.
+
+El domicilio de la Comisión será la Ciudad de Oaxaca de Juárez, pudiendo instalar oficinas en todo el Estado.
+
+El patrimonio de la Comisión estará constituido por:
+
+I. Los ingresos que perciba conforme a la partida que establezca su presupuesto anual de egresos, así como los que perciba por los servicios que preste en cumplimiento de su objeto o que le correspondan por cualquier otro título legal;
+
+II. Los bienes muebles e inmuebles y demás ingresos que los gobiernos federal, estatal y municipal, le aporten para la realización de su objeto;
+
+III. Los subsidios y aportaciones permanentes, periódicas o eventuales, que reciba de los gobiernos federal, estatal y municipal y, en general, los que obtenga de instituciones públicas, privadas o de particulares;
+
+IV. Las donaciones, herencias y legados que hicieren a su favor, y
+
+V. Todos los demás bienes o ingresos que adquiera por cualquier otro medio legal.
+
+Para su buen funcionamiento la Comisión, tendrá como autoridades a:
+
+1. La Junta de Gobierno, y
+
+2. El Director General.
+
+La Junta de Gobierno se integrará por:
+
+a). Un Presidente, que será el Titular de la Secretaría Coordinadora de Sector que corresponda;
+
+b). Un Secretario Técnico que será el Director General de la Comisión;
+
+c). Cuatro Vocales:
+
+1. El Titular de la Secretaría de Administración;
+
+2. El Titular de la Secretaría de Finanzas;
+
+3. El Titular de la Secretaría de Economía, y
+
+4. El Titular de la Secretaría de Turismo;
+
+d). Un Comisario que es el Secretario de la Contraloría y Transparencia Gubernamental del Poder Ejecutivo del Estado, o la persona que éste designe; y
+
+e). Dos representantes designados por el Consejo.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2017)</small>
+
+###### Artículo 5 Bis.
+
+La Junta de Gobierno tendrá las siguientes atribuciones:
+
+I. Establecer en congruencia con la Ley de Planeación y el Plan Estatal de Desarrollo, las políticas generales y definir las prioridades a las que deberá sujetarse la entidad paraestatal, relativas a producción, productividad, comercialización, finanzas, investigación, desarrollo tecnológico y administración general;
+
+II. Aprobar los planes y programas, así como sus modificaciones, en términos de la legislación aplicable;
+
+III. Proponer a la Secretaría de Finanzas para su incorporación en la Ley Estatal de Derechos la inclusión o modificación de conceptos y cuotas por la prestación de servicios públicos a su cargo, así como por el uso, goce o aprovechamientos de bienes de dominio público que tengan asignados, para su presentación y aprobación del Congreso del Estado;
+
+IV. Autorizar la publicación de los estados financieros, previo informe y validación del comisario;
+
+V. Proponer al Ejecutivo Estatal, por conducto de la Secretaría de Administración y la dependencia Coordinadora de Sector, la fusión, extinción o desincorporación, según sea el caso, de la entidad paraestatal;
+
+VI. Autorizar la creación de Comités o Subcomités Técnicos especializados, los cuales estarán integrados por personal de la misma entidad;
+
+VII. Ser informados trimestralmente de los avances de gestión financiera, previo a la entrega que se realice a la Secretaría de Finanzas para su incorporación al Informe que se envía al Congreso del Estado y a la Auditoría Superior del Estado;
+
+VIII. Autorizar la publicación del Reglamento Interno, previa revisión y validación de la Secretaría de Administración y la Consejería Jurídica del Gobierno del Estado, así como, la publicación de los manuales administrativos, previa revisión y validación de la Secretaría de Administración;
+
+IX. Autorizar la celebración de convenios, contratos y demás actos jurídicos que sean necesarios para el cumplimiento de sus objetivos;
+
+X. Discutir y aprobar el programa operativo anual;
+
+XI. Autorizar al Director General la creación de las áreas administrativas, técnicas y de vigilancia que resulten necesarias para el ejercicio de sus atribuciones y el debido cumplimiento de sus obligaciones;
+
+XII. Autorizar la creación interna de comisiones o grupos de trabajo, y
+
+XIII. Las demás que le confiera esta Ley, la Ley de Entidades Paraestatales del Estado de Oaxaca y demás disposiciones normativas aplicables.
+
+La Junta de Gobierno celebrará sesiones ordinarías trimestralmente, sin perjuicio de celebrar las sesiones de instalación y extraordinarias, conforme a lo que disponga la Ley de Entidades Paraestatales del Estado de Oaxaca y su Reglamento Interno.
 
 ###### Artículo 6.
 
@@ -187,15 +261,29 @@ XV. Promover y coordinar la instalación y el funcionamiento de los módulos del
 
 XVI. Las demás que establezca esta Ley y demás disposiciones jurídicas aplicables.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
 
 ###### Artículo 8.
 
-La Comisión Estatal tendrá un Director General que será designado por el Ejecutivo del Estado.
+El Director General de la Comisión será designado por el Ejecutivo del Estado.
 
-Para el cumplimiento de sus atribuciones, la Comisión tendrá las áreas operativas que señale su Reglamento Interior y funcionará como un Organismo Público Descentralizado, con personalidad jurídica y patrimonio propio, que se adscribe sectorialmente a la Gubernatura del Estado, con plena autonomía administrativa, de gestión, operativa, presupuestal y de ejecución para el adecuado desarrollo de sus atribuciones mismas que entenderá de los asuntos de ese instrumento y la normatividad aplicable que señale.
+Para ser Director General se requiere:
+
+I. Ser ciudadana o ciudadano mexicano;
+
+II. Tener por lo menos 25 años de edad en la fecha de su designación;
+
+III. Contar con cédula profesional, título o equivalente, o experiencia probada en actividades laborales, profesionales o académicas en mejora regulatoria;
+
+IV. Estar en pleno ejercicio de sus derechos civiles y políticos, y
+
+V. No haber sido condenado por delitos intencionales, patrimoniales y no estar inhabilitado para desempeñar un empleo, cargo o comisión.
+
+El Director General, será el representante legal de la Comisión en el cumplimiento de su objeto. Adscribirá las unidades administrativas de la misma, administrará sus bienes, expedirá sus manuales, tramitará ante las dependencias competentes el ejercicio del presupuesto aprobado, delegará facultades en el ámbito de su competencia y tendrá las demás atribuciones que le confieran el Reglamento Interno y demás disposiciones legales aplicables.
+
+El Director general, conforme a la normatividad aplicable y autorización de las Secretarías de Administración y Finanzas, así como de la Junta de Gobierno, creará las áreas administrativas, técnicas y de vigilancia que resulten necesarias para el ejercicio de sus atribuciones y el debido cumplimiento de las obligaciones señaladas en esta Ley y demás normatividad que le sea aplicable, conforme al presupuesto que le sea autorizado.
+
+Las relaciones laborales generadas entre la Comisión y su personal se regirán por lo dispuesto en la Ley Federal del Trabajo.
 
 ###### Artículo 9.
 
@@ -254,8 +342,6 @@ El Consejo es un órgano consultivo de análisis en la materia, y de vinculació
 ###### Artículo 11.
 
 El Consejo será responsable de analizar las propuestas de creación de nuevas disposiciones de carácter general o de su reforma, que le presente la Comisión Estatal y, en su caso, aprobarlas.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
 
@@ -902,3 +988,29 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciseis.
 
 TERCERO.- El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o lo contradigan.
+
+P.O. 20 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LAS “PARTES NO VETADAS.- DEL DECRETO NÚMERO 603, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE OAXACA; DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA Y DE LA LEY ESTATAL DE PLANEACIÓN.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. La Junta de Gobierno de la Comisión deberá quedar instalada dentro de los treinta días naturales siguientes, al día de la entrada en vigor del presente Decreto.
+
+La Comisión deberá expedir su Reglamento Interno dentro de los treinta días naturales siguientes, al día de su instalación.
+
+TERCERO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por la Secretaría de Administración respecto a la Dirección de Tecnologías de la Información, así como las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de Dirección de Tecnologías de la Información se entenderán subrogadas, contraídas y referidas, por el Área administrativa de la Secretaría de Finanzas que lleve a cabo las atribuciones correspondientes a tecnologías de la información, que por esta reforma se le atribuyen a la citada Secretaría de Finanzas.
+
+CUARTO. Los recursos humanos, financieros y materiales que venía utilizando la Dirección de Tecnologías de la Información, de la Secretaría de Administración, se transferirán en un plazo no mayor a treinta días hábiles, al Área administrativa de la Secretaría de Finanzas que lleve a cabo las atribuciones correspondientes a tecnologías de la información, debiendo intervenir en el ámbito de sus competencias, la Secretaría de Finanzas, la Secretaría de Administración y la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+QUINTO. Los asuntos que con motivo de esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca; deban pasar de una dependencia u órgano auxiliar a otra, permanecerán en el último trámite que hubieren alcanzado, hasta que las unidades administrativas que los transfieren se incorporen a la Dependencia u órgano auxiliar que señale esta Ley, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+SEXTO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas competencias, para realizar los cambios en las estructuras orgánicas, así como para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación del presente Decreto, informando las adecuaciones programáticas a la Legislatura del Congreso del Estado, dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor del presente decreto.
+
+SÉPTIMO. En todos los casos que por la aplicación de esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca se modifique la estructura orgánica de las dependencias y áreas administrativas de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables de la materia.
+
+OCTAVO. Se faculta al Titular de la Secretaría de Finanzas para que, en términos de lo establecido en la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, y su Reglamento, así como en el Decreto que autoriza el Presupuesto de Egresos del Estado de Oaxaca para el ejercicio fiscal dos mil diecisiete, realice los ajustes presupuestales que correspondan, para el cumplimiento del presente decreto, sin afectar el presupuesto ya asignado, informando dichos ajustes a la Legislatura del Congreso del Estado, dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor del presente decreto, para los efectos legales conducentes.
+
+Las Secretarías citadas en el párrafo que antecede, en uso de sus facultades legales, realizarán todos los actos concernientes para el debido cumplimiento de la presente reforma.
+
+NOVENO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se le opongan, aun cuando no estén expresamente derogadas.
