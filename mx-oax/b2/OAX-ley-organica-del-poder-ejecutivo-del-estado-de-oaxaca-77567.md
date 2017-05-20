@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2017-04-24"
+last_updated: "2017-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "OAX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2017 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -219,35 +217,23 @@ III. Contar con cédula profesional, título o equivalente, o experiencia probad
 
 IV. Estar en pleno ejercicio de sus derechos civiles y políticos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
 
 V. No haber sido condenado por delitos intencionales, patrimoniales y no estar inhabilitado para desempeñar un empleo, cargo o comisión; y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
 
 VI. Tener un modo honesto de vivir y aprobar la evaluación de control de confianza establecida en la ley de la materia.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 VII. (DEROGADA, P.O. 15 DE OCTUBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
 
 Los subsecretarios, directores de área, coordinadores o sus equivalentes, jefes de departamento y jefes de oficina, deberán cumplir los mismos requisitos, salvo lo establecido en las fracciones II y III.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO (N. DE E. REPUBLICADO], P.O. 15 DE OCTUBRE DE 2016)</small>
 
 Todos serán nombrados con base en los principios de idoneidad, honorabilidad, equidad de género, apartidismo en el ejercicio de sus funciones y no discriminación.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
 
@@ -513,7 +499,7 @@ XXXIX. Aplicar políticas públicas para combatir la explotación del trabajo in
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
-XL Tramitar el nombramiento de los encargados de la Administración Municipal que designe el Gobernador del Estado;
+XL. Tramitar el nombramiento de los encargados de la Administración Municipal que designe el Gobernador del Estado;
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
@@ -1257,13 +1243,25 @@ LII. Coordinar, supervisar y evaluar las actividades y resultados del Monte de P
 
 LIII. Atender los mecanismos de vigilancia y supervisión conjuntamente con las áreas involucradas en la planeación, organización y ejecución de las giras de trabajo y eventos especiales del Gobernador;
 
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
 
-LIV. Administrar el Hangar Oficial del Gobierno del Estado, y
+LIV. Administrar el Hangar Oficial del Gobierno del Estado;
 
 > <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
 
 LV. Administrar la Casa Oficial del Gobierno del Estado.
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2017)</small>
+
+LVI. Celebrar convenios y demás instrumentos jurídicos con dependencias y entidades federales;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2017)</small>
+
+LVII. Establecer políticas generales y programas estratégicos, para la aplicación de tecnologías de la información, así como reglamentar y coordinar el desarrollo de sistemas de información, y
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2017)</small>
+
+LVIII. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -1309,7 +1307,9 @@ X. Diseñar, implementar, supervisar y dar seguimiento al servicio profesional d
 
 XI. Implementar y coordinar los lineamientos y procedimientos de selección de personal que requiera la Administración Pública Estatal, así como, evaluar la productividad y el desempeño de los trabajadores con respecto al cumplimiento de sus actividades y responsabilidades;
 
-XII. Reglamentar y coordinar el desarrollo de sistemas de información, a (sic) como la adquisición de bienes y servicios de informática de Administración Pública;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+XII. Realizar las adquisiciones de bienes y servicios de informática de la Administración Pública Estatal conforme a la Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Oaxaca y su Reglamento;
 
 XIII. Establecer coordinadamente con las Dependencias y Entidades, programas de modernización y calidad administrativa, con el propósito de promover la eficacia y eficiencia de la Administración Pública, en los términos de los objetivos, estrategias y líneas de acción del Plan Estatal de Desarrollo;
 
@@ -1359,9 +1359,9 @@ XXXI. Elaborar, coordinar, supervisar y ejecutar programas y proyectos de profes
 
 XXXII. Integrar, actualizar, controlar y publicar el Registro de las Entidades de la Administración Pública Estatal;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
 
-XXXIII. Establecer políticas generales y programas estratégicos para la mejora de procesos, la aplicación de tecnologías de la información, la simplificación administrativa y la mejora regulatoria;
+XXXIII. Establecer políticas generales y programas estratégicos para la mejora de procesos y la simplificación administrativa;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1419,7 +1419,7 @@ IV. Formular y promover el establecimiento de medidas para el fomento y protecci
 
 V. Fortalecer la productividad y la posición competitiva de la micro, pequeña y mediana empresa privada y social;
 
-VI Promover, orientar y estimular el establecimiento y desarrollo de empresas e industrias en el Estado, garantizando la participación equitativa de las mujeres;
+VI. Promover, orientar y estimular el establecimiento y desarrollo de empresas e industrias en el Estado, garantizando la participación equitativa de las mujeres;
 
 VII. Impulsar la relación comercial con actores estratégicos a nivel nacional e internacional, contribuyendo en el intercambio de experiencias exitosas, así como la inversión en la producción y exportación de productos oaxaqueños;
 
@@ -1433,7 +1433,9 @@ XI. Elaborar e impulsar proyectos estratégicos, innovadores y sustentables que 
 
 XII. Implementar mecanismos para incentivar el establecimiento de empresas e industrias en el Estado;
 
-XIII. Ejecutar en coordinación con la Comisión Estatal de Mejora Regulatoria, programas y acciones en esta materia de mejora regulatoria que incentiven el establecimiento de nuevas empresas e industrias en la entidad;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+XIII. Ejecutar en coordinación con la Comisión Estatal de Mejora Regulatoria del Estado de Oaxaca, programas y acciones en la materia de Mejora Regulatoria, que incentiven el establecimiento de nuevas empresas e industrias en la entidad;
 
 XIV. Planear y determinar los lineamientos para la explotación de los recursos minerales, de acuerdo a las disposiciones federales y con pleno respeto a las formas de vida tradicionales y en concordancia con el desarrollo sustentable;
 
@@ -1845,25 +1847,17 @@ XXIX. Fungir como Unidad de Enlace en materia de Transparencia de la Gubernatura
 
 XXX. Coordinar y supervisar los subcomités de transparencia y acceso a la información pública y unidades de enlace que sean designados por las dependencias y entidades de conformidad con el Comité de Transparencia y Acceso a la Información Pública del Poder Ejecutivo del Estado; coadyuvando con la Secretaría de la Contraloría y Transparencia Gubernamental, quien deberá actuar como órgano de control interno, de conformidad con las disposiciones aplicables;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 XXXI. Coordinar, organizar y supervisar el ejercicio y funcionamiento de la Dirección General de Notarías y Archivo General de Notarías;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 XXXII. Tramitar los nombramientos que para el ejercicio de las funciones notariales expida el Gobernador del Estado, vigilar y ordenar visitas periódicas de inspección, autorizar y sancionar las actividades de los notarios públicos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 XXXIII. Administrar los Talleres Gráficos del Gobierno del Estado y publicar el Periódico Oficial del Gobierno del Estado;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
@@ -1873,37 +1867,25 @@ XXXIV. Ordenar al área correspondiente, la publicación en el Periódico Oficia
 
 XXXV. Compilar y archivar la legislación y reglamentación vigente en el Estado, y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 XXXVI. Registrar los autógrafos, legalizar y certificar las firmas de los servidores públicos estatales y demás funcionarios a quienes esté encomendada la fe pública;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 XXXVII. Firmar el apostillamiento de los documentos públicos estatales, de conformidad con la Convención por la que se suprime el Requisito de Legalización de los Documentos Públicos Extranjeros, adoptada en la Conferencia de la Haya de Derecho Internacional Privado;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 XXXVIII. Coordinar, organizar y supervisar el ejercicio y funcionamiento de la Dirección del Registro Civil;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 XXXIX. Coordinar, supervisar y evaluar las actividades y resultados de sus órganos desconcentrados y las entidades sectorizadas a la Consejería Jurídica;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 XL. Atender, vigilar y controlar todo lo relativo a la demarcación y conservación de los límites del Estado y de sus municipios; y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
@@ -2962,3 +2944,29 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 TERCERO.- En todos los casos en que por la aplicación de este Decreto se modifique la estructura orgánica de la reciente dependencia de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables.
 
 CUARTO.- Cuando una unidad administrativa se transfiera de una dependencia a otra, se hará incluyendo los recursos humanos, financieros y materiales que venía utilizando para la atención de los asuntos a su cargo, debiendo intervenir en el ámbito de sus competencias, la Secretaría de Finanzas y la Secretaría de Administración.
+
+P.O. 20 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LAS “PARTES NO VETADAS.- DEL DECRETO NÚMERO 603, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE OAXACA; DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA Y DE LA LEY ESTATAL DE PLANEACIÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. La Junta de Gobierno de la Comisión deberá quedar instalada dentro de los treinta días naturales siguientes, al día de la entrada en vigor del presente Decreto.
+
+La Comisión deberá expedir su Reglamento Interno dentro de los treinta días naturales siguientes, al día de su instalación.
+
+TERCERO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por la Secretaría de Administración respecto a la Dirección de Tecnologías de la Información, así como las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de (sic) Dirección de Tecnologías de la Información se entenderán subrogadas, contraídas y referidas, por el Área administrativa de la Secretaría de Finanzas que lleve a cabo las atribuciones correspondientes a tecnologías de la información, que por esta reforma se le atribuyen a la citada Secretaría de Finanzas.
+
+CUARTO. Los recursos humanos, financieros y materiales que venía utilizando la Dirección de Tecnologías de la Información, de la Secretaría de Administración, se transferirán en un plazo no mayor a treinta días hábiles, al Área administrativa de la Secretaría de Finanzas que lleve a cabo las atribuciones correspondientes a tecnologías de la información, debiendo intervenir en el ámbito de sus competencias, la Secretaría de Finanzas, la Secretaría de Administración y la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+QUINTO. Los asuntos que con motivo de esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca; deban pasar de una dependencia u órgano auxiliar a otra, permanecerán en el último trámite que hubieren alcanzado, hasta que las unidades administrativas que los transfieren se incorporen a la Dependencia u órgano auxiliar que señale esta Ley, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+SEXTO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas competencias, para realizar los cambios en las estructuras orgánicas, así como para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación del presente Decreto, informando las adecuaciones programáticas a la Legislatura del Congreso del Estado, dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor del presente decreto.
+
+SÉPTIMO. En todos los casos que por la aplicación de esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca se modifique la estructura orgánica de las dependencias y áreas administrativas de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables de la materia.
+
+OCTAVO. Se faculta al Titular de la Secretaría de Finanzas para que, en términos de lo establecido en la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, y su Reglamento, así como en el Decreto que autoriza el Presupuesto de Egresos del Estado de Oaxaca para el ejercicio fiscal dos mil diecisiete, realice los ajustes presupuestales que correspondan, para el cumplimiento del presente decreto, sin afectar el presupuesto ya asignado, informando dichos ajustes a la Legislatura del Congreso del Estado, dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor del presente decreto, para los efectos legales conducentes.
+
+Las Secretarías citadas en el párrafo que antecede, en uso de sus facultades legales, realizarán todos los actos concernientes para el debido cumplimiento de la presente reforma.
+
+NOVENO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se le opongan, aun cuando no estén expresamente derogadas.
