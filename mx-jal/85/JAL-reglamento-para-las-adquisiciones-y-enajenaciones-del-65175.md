@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-las-adquisiciones-y-enajenaciones-del-65175"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-16"
-last_updated: "2009-04-23"
+last_updated: "2017-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65175&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO PARA LAS ADQUISICIONES Y ENAJENACIONES DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
 
-REGLAMENTO PARA LAS ADQUISICIONES Y ENAJENACIONES DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO EN MATERIA DE ADQUISICIONES Y ENAJENACIONES DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 20 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2009.
+REGLAMENTO PARA LAS ADQUISICIONES Y ENAJENACIONES DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el martes 16 de diciembre de 2008.
 
@@ -582,3 +584,83 @@ PRIMERO. Se aprueban las modificaciones al Reglamento para las Adquisiciones y E
 SEGUNDO. Notifíquese con copia simple del presente acuerdo y su ANEXO a los partidos políticos acreditados ante este organismo electoral.
 
 TERCERO. Publíquese el presente acuerdo y su ANEXO en el Periódico Oficial "El Estado de Jalisco", así como en el portal de internet oficial de este organismo electoral.
+
+P.O. 20 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO IEPC-ACG-023/2017 DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, QUE ABROGA EL REGLAMENTO PARA LAS ADQUISICIONES Y ENAJENACIONES DE ESTE ORGANISMO ELECTORAL; Y SE EXPIDE EL REGLAMENTO EN MATERIA DE ADQUISICIONES Y ENAJENACIONES DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO”.]
+
+Primero. Se abroga el Reglamento para las Adquisiciones y Enajenaciones del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco.
+
+Segundo. El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Tercero. Todos los actos derivados del reglamento para las Adquisiciones que se abroga seguirán substanciándose en los términos dispuestos por dicho Reglamento.
+
+Cuarto. El Comité de Adquisiciones deberá conformarse a más tardar en los 30 días naturales siguientes a la entrada en vigor del presente Reglamento.
+
+Quinto. En tanto comience la operación del SECG, los procedimientos de adquisición se realizarán conforme a los siguientes procedimientos:
+
+I. Adquisición a cargo de la Unidad Centralizada de Compras; se realizará por adjudicación directa, una vez recabados cuando menos tres cotizaciones y deberá tener autorización del titular de la Secretaría Ejecutiva y del consejero presidente del Instituto Electoral.
+
+II. Licitación a cargo de la Comisión, de conformidad con el artículo 72 de la Ley, deberá:
+
+a. Efectuar invitación a cuando menos tres de los proveedores registrados en el padrón del Instituto Electoral y/o en el del gobierno del estado.
+
+b. Cuando no existan proveedores suficientes en el padrón, y se requiera efectuar adquisiciones de algún bien o servicio, se aceptará la participación de proveedores no inscritos en aquél.
+
+c. En el caso en que sólo se reciba una propuesta, la adquisición de los bienes o servicios se realizará mediante adjudicación directa al que la haya presentado, siempre y cuando reúna los requerimientos para ello.
+
+d. Si no se presenta ninguna propuesta, se declarará desierto el procedimiento de invitación y la adjudicación se realizará mediante adjudicación directa. Para este caso, la Unidad Centralizada de Compras recabará tres cotizaciones como mínimo.
+
+e. La invitación podrá realizarse por correo electrónico, anotándose la fecha y hora límite para recibir ofertas, de las cuales se deberá recabar constancia.
+
+f. Los proveedores deberán presentar sus ofertas ante la Oficialía de Partes del Instituto Electoral en sobre cerrado que garantice su inviolabilidad, dirigido a la Unidad Centralizada de Compras.
+
+Recibidas las ofertas se integrará el cuadro comparativo de éstas, se procederá a su análisis y a la asignación del proveedor o proveedores que resultaron adjudicados.
+
+III. Licitación Pública con concurrencia del Comité:
+
+a. La convocatoria deberá ser aprobada por el Consejo General a propuesta de la Comisión y reunirá los siguientes requisitos:
+
+i. Mencionar que la convocatoria es emitida por el Instituto Electoral.
+
+ii. Número de licitación.
+
+iii. La indicación del lugar, fecha y horario en que los interesados podrán obtener las bases, requisitos y especificaciones técnicas del bien o servicio que se pretende adquirir y, en su caso, el costo y forma de pago de las bases.
+
+iv. La descripción general de especificaciones técnicas, cantidad y unidad de medida de los bienes o características de los servicios que se licitan, en su caso, fecha de inicio y terminación del servicio.
+
+v. Indicar que las propuestas técnicas y económicas se entregarán por separado y en sobre cerrado.
+
+vi. Lugar, plazo de entrega y condiciones de pago.
+
+vii. La fecha, hora y lugar de celebración del acto de presentación y apertura de sobres de propuestas.
+
+viii. Fecha en la que se dará a conocer el fallo.
+
+b. La convocatoria deberá publicarse en dos diarios de mayor circulación en el estado y en la página electrónica del Instituto Electoral.
+
+c. En el día y hora que la convocatoria establezca serán abiertos los sobres ante la presencia de los concursantes presentes, y de los integrantes del Comité.
+
+d. De entre los proveedores será seleccionado el que reúna las mejores condiciones en cuanto a calidad, garantía, precio y tiempo de entrega, y se tomará en cuenta su capacidad técnica, antecedentes industriales, comerciales y financieros.
+
+e. Cuando se trate de la adquisición de documentación electoral, de manera adicional se tomará en cuenta el dictamen que emita la Comisión de Organización y Capacitación Electoral.
+
+f. Para la adquisición de documentación y material electoral, además de lo señalado en el párrafo anterior, la convocatoria deberá publicarse en cuando menos uno de los diarios de mayor circulación nacional.
+
+g. El procedimiento se ajustará a lo siguiente:
+
+i. Apertura de sobres que contengan la propuesta técnica.
+
+ii. Calificación de la propuesta técnica.
+
+iii. Apertura de los sobres que contengan la propuesta económica de aquellos que cumplieron con los requisitos técnicos.
+
+iv. Emisión del fallo a favor de la propuesta que contenga el precio más bajo.
+
+h. Una vez adjudicada la licitación pública por el Comité, se remitirá al consejero presidente del Instituto Electoral.
+
+El Instituto Electoral podrá realizar una adjudicación directa cuando su monto no exceda de quinientas Unidades de Medida y Actualización, para este caso se podrá adquirir el bien o contratar el servicio, sin que exista el requisito de reunir tres cotizaciones, previa justificación del titular de la Unidad Centralizada de Compras, autorizada por el Titular de la Secretaría Ejecutiva.
+
+Sexto. En tanto se integre el RUPC continuará vigente el Padrón de Proveedores del Instituto.
+
+Séptimo. El Consejo General podrá emitir los criterios, lineamientos y demás disposiciones necesarias a fin de implementar el presente reglamento.
