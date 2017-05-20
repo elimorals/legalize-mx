@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-mediacion-y-conciliacion-para-el-estado-de-san-luis-1004
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-15"
-last_updated: "2014-04-15"
+last_updated: "2017-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE MEDIACIÓN Y CONCILIACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 15 de abril de 2014.
 
@@ -33,7 +33,9 @@ DECRETO 563
 
 La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
 
-EXPOSICIÓN DE MOTIVOS…
+EXPOSICIÓN DE MOTIVOS
+
+[…]
 
 Se expide la Ley de Mediación y Conciliación para el Estado de San Luis Potosí, para quedar como sigue
 
@@ -303,7 +305,9 @@ XII. Calificar los impedimentos y excusas de los facilitadores públicos y priva
 
 XIII. Supervisar los acuerdos o convenios signados por las partes en sede judicial cuando deriven de mecanismos alternativos;
 
-XIV. Remitir al Juez, cuando proceda, los convenios o acuerdos como resultantes de la aplicación de los mecanismos alternativos; para su aprobación y otorgamiento de la calidad de cosa juzgada;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+XIV. Aprobar, cuando proceda, los convenios o acuerdos resultantes de la aplicación extraprocesal de los mecanismos alternativos otorgándoles la calidad de cosa juzgada, siempre y cuando dichas acciones no estén vinculadas a un proceso o juicio en trámite;
 
 XV. Llevar un control y archivo de los convenios celebrados en los mecanismos alternativos;
 
@@ -363,7 +367,9 @@ III. Coordinar y supervisar a los facilitadores en el desempeño de sus funcione
 
 IV. Firmar la invitación para la mediación o conciliación;
 
-V. Remitir al Juez, cuando proceda, los convenios o acuerdos como resultantes de la aplicación de los mecanismos alternativos, para efecto de su aprobación y otorgamiento de la calidad de cosa juzgada; lo anterior deberá de ser con anuencia del Director del Centro Estatal, salvo cuando los casos de urgencia así lo ameriten;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+V. Aprobar, cuando proceda, los convenios o acuerdos resultantes de la aplicación extraprocesal de los mecanismos alternativos otorgándoles la calidad de cosa juzgada, siempre y cuando dichas acciones no estén vinculadas a un proceso o juicio en trámite;
 
 VI. Rendir al Director del Centro Estatal un informe dentro de los primeros cinco días de cada mes y uno anual a más tardar el último día de noviembre de cada año, acerca de las actividades y resultados obtenidos por el Centro Regional;
 
@@ -1370,3 +1376,13 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0630.- SE REFORMA (SIC) LOS ARTÍCULOS, 15 EN SU FRACCIÓN XIV, Y 17 EN SU FRACCIÓN V, DE LA LEY DE MEDIACIÓN Y CONCILIACIÓN PARA EL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
