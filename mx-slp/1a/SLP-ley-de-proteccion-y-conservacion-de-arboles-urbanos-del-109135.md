@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-y-conservacion-de-arboles-urbanos-del-109135"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-21"
-last_updated: "2016-12-20"
+last_updated: "2017-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 21 de julio de 2015
 
@@ -197,9 +197,25 @@ Las causas para la justificación de la poda del arbolado urbano son:
 
 I. Mejorar la condición sanitaria y estructural del árbol;
 
-II. Evitar o corregir daños a bienes inmuebles o personas, y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
 
-III. Prevenir accidentes cuando la estructura del árbol haga presumible su caída de alguna de sus ramas, total o parcial.
+II. Evitar o corregir daños a bienes inmuebles o personas;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+III. Prevenir accidentes cuando la estructura del árbol haga presumible su caída de alguna de sus ramas, total o parcial;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2017)</small>
+
+IV. Impidan u obstaculicen el trabajo o realización de obras públicas, y
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2017)</small>
+
+V. Se encuentren fuera de la línea de plantación respecto de los demás árboles, constituyendo un obstáculo.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2017)</small>
+
+En los supuestos de las fracciones IV y V se cumplirá con lo dispuesto en el artículo 10 fracción VI de este Ordenamiento.
 
 ###### ARTÍCULO 13.
 
@@ -776,3 +792,11 @@ P.O. 20 DE DICIEMBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente.
+
+P.O. 20 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0633.- SE REFORMA EL ARTÍCULO 12 DE LA LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
