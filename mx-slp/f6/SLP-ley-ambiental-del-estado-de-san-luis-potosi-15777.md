@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2017-03-30"
+last_updated: "2017-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -2219,9 +2219,11 @@ ARTICULO 134 BIS. La SEGAM difundirá, a través de los medios de comunicación 
 
 La SEGAM deberá elaborar y publicar bianualmente un informe detallado de la situación general y perspectivas existentes en la Entidad en materia ambiental.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 136.
 
-La SEGAM podrá editar una gaceta en la que se publicarán las disposiciones jurídicas, normas ambientales estatales y federales, decretos, reglamentos, acuerdos y demás actos administrativos; así como información de interés general en materia ambiental, que se publiquen por el gobierno federal, por el propio Estado y demás entidades federativas, así como por los municipios y organizaciones nacionales e internacionales de interés para el Estado, independientemente de su publicación en el Periódico Oficial Estatal o en otros órganos de difusión. Igualmente, en dicha gaceta estatal se publicará información oficial relacionada con las áreas naturales protegidas de competencia estatal o municipal, así como la conservación y el aprovechamiento sustentable del ambiente
+La SEGAM editará una gaceta que alojará en su página de internet, en la que publicarán las disposiciones jurídicas, normas ambientales estatales y federales, decretos, reglamentos, acuerdos y demás actos administrativos; así como información de interés general en materia ambiental, que se publiquen por el gobierno federal, por el propio Estado y demás entidades federativas, así como por los municipios y organizaciones nacionales e internacionales de interés para el Estado, independientemente de su publicación en el Periódico Oficial Estatal o en otros órganos de difusión. Igualmente, en dicha gaceta estatal se publicará información oficial relacionada con las áreas naturales protegidas de competencia estatal o municipal, así como la conservación y el aprovechamiento sustentable del ambiente.
 
 ###### ARTICULO 137.
 
@@ -2986,3 +2988,11 @@ PRIMERO. Este decreto entra en vigor al día siguiente de su publicación en el 
 SEGUNDO. El Reglamento señalado en el artículo 29 Bis que se adiciona, se expedirá por el Ejecutivo del Estado en un término que no exceda de ciento veinte días posteriores a la entrada en vigor del presente Decreto.
 
 TERCERO. Se derogan todas aquellas disposiciones legales y administrativas que se opongan a este Decreto.
+
+P.O. 20 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0635.- SE REFORMA EL ARTÍCULO 136, DE LA LEY AMBIENTAL DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
