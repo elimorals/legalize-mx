@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-del-instituto-electoral-y-de-participacion-87914"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-05-08"
-last_updated: "2014-09-13"
+last_updated: "2017-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO PARA EL ACCESO DE TIEMPOS DE RADIO Y TELEVISION, A LOS PARTIDOS POLITICOS, CANDIDATOS INDEPENDIENTES Y PROPIOS, EN EL ESTADO - ANTES - REGLAMENTO PARA EL ACCESO DE TIEMPOS EN RADIO Y TELEVISION DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO, IEPC-ACG-022/2017 DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 20 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO PARA EL ACCESO DE TIEMPOS EN RADIO Y TELEVISIÓN, A LOS PARTIDOS POLÍTICOS, CANDIDATOS INDEPENDIENTES Y PROPIOS, EN EL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección XV del Periódico Oficial del Estado de Jalisco, el martes 8 de mayo de 2012.
 
@@ -68,8 +70,6 @@ SEGUNDO. Se propone expedir el Reglamento para el Acceso de Tiempos en Radio y T
 …
 
 ANEXO DEL DICTAMEN QUE EMITE LA COMISIÓN DE REGLAMENTOS DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, POR EL QUE SE PROPONE ABROGAR EL REGLAMENTO PARA EL ACCESO DE TIEMPOS EN RADIO Y TELEVISIÓN DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO Y PARA LOS PARTIDOS POLÍTICOS EN EL ESTADO Y EXPEDIR EL REGLAMENTO PARA EL ACCESO DE TIEMPOS EN RADIO Y TELEVISIÓN DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO.
-
-> <small>N. DE E. EL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, MEDIANTE EL CUAL SE REFORMAN, ABROGAN Y EXPIDEN DIVERSOS REGLAMENTOS DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2014, MODIFICÓ DE FORMA SUSTANCIAL EL CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
@@ -327,8 +327,18 @@ Primero.- El presente reglamento entra en vigor el día siguiente al de su publi
 
 Segundo.- Se abroga el Reglamento para el Acceso de Tiempos en Radio y Televisión del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco y para los partidos políticos en el Estado.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 13 DE SEPTIEMBRE DE 2014.
 
 ÚNICO. El presente acuerdo entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 20 DE MAYO DE 2017.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO IEPC-ACG-022/2017 DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, QUE ABROGA EL REGLAMENTO PARA EL ACCESO DE TIEMPOS DE RADIO Y TELEVISIÓN A LOS PARTIDOS POLÍTICOS, CANDIDATOS INDEPENDIENTES Y PROPIOS EN EL ESTADO; Y SE EXPIDE EL REGLAMENTO PARA EL ACCESO DE TIEMPOS DE RADIO Y TELEVISIÓN, A LOS PARTIDOS POLÍTICOS, CANDIDATOS INDEPENDIENTES Y PROPIOS EN EL ESTADO DE JALISCO”.]</small>
+
+PRIMERO. Se abroga el Reglamento para el Acceso de Tiempos de Radio y Televisión a los Partidos Políticos, Candidatos Independientes y Propios en el Estado; y se expide el Reglamento para el acceso de tiempos de radio y televisión, a los partidos políticos, candidatos independientes y propios en el estado de Jalisco, en términos del considerando VI del presente acuerdo.
+
+SEGUNDO. Hágase del conocimiento el presente acuerdo al Instituto Nacional Electoral, a través de la Junta Local Ejecutiva en el Estado de Jalisco, para los efectos legales correspondientes.
+
+TERCERO. Notifíquese el contenido del presente acuerdo a los partidos políticos acreditados, y publíquese en el Periódico Oficial “El Estado de Jalisco”, así como en el portal oficial de internet de este organismo electoral.
