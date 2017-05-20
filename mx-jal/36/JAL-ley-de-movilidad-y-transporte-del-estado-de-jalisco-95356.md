@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2017-03-02"
+last_updated: "2017-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -2147,11 +2147,15 @@ También se puede transmitir cuando la concesión se hubiere otorgado en garant�
 
 ### Capítulo V. De las condiciones y requisitos para prestar el servicio de transporte público en las modalidades de concesiones, subrogaciones y permisos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2017)</small>
+
 ###### Artículo 121.
 
-Las concesiones para prestar el servicio de transporte público masivo o colectivo de pasajeros, así como las concesiones y subrogaciones para transporte de pasajeros y mixto, ya sea urbano, conurbado o metropolitano, suburbano, interurbano, intermunicipal y rural se otorgarán y explotarán conforme a las siguientes condiciones y requisitos específicos:
+Las concesiones o subrogaciones para prestar el servicio de transporte público masivo, colectivo o mixto de pasajeros, ya sea urbano, conurbado o metropolitano, suburbano, interurbano, intermunicipal y rural se otorgarán y explotarán conforme a las siguientes condiciones y requisitos específicos:
 
-I. Los concesionarios serán personas físicas o jurídicas, los subrogatarios serán personas físicas y deberán contar con domicilio legal en el Estado de Jalisco, sin perjuicio de lo establecido en el artículo 99 de esta ley;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+
+I. Los concesionarios o subrogatarios para centros de población de más de cincuenta mil habitantes serán personas jurídicas. En el caso de centros de población de menos de cincuenta mil habitantes podrán ser personas físicas o jurídicas. En ambos casos deberán de contar con domicilio legal en el Estado de Jalisco, sin perjuicio de lo establecido en el artículo 99 de esta ley;
 
 II. Las concesiones o subrogaciones serán otorgados para prestar el servicio público de transporte, exclusivamente con la ruta, derrotero, itinerarios, frecuencia y horarios que se precisen en la concesión. La Secretaría, en coordinación con el Instituto y en coordinación con la dependencia municipal competente, establecerá los recorridos de las rutas. Para tal efecto tomará en cuenta la opinión, estudios y datos del instituto;
 
@@ -2164,6 +2168,10 @@ V. Cada concesión autorizará la operación de los vehículos necesarios para l
 VI. Las concesiones para la explotación del servicio público de transporte colectivo en centros de población menores de cincuenta mil habitantes, que se otorguen a las personas físicas, serán individuales y no podrán amparar más de una unidad, y
 
 VII. Las personas físicas podrán aprovechar concesiones de taxi en todas sus modalidades ya sea como titular, beneficiario, arrendatario o administrador.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MAYO DE 2017)</small>
+
+Las disposiciones legales y reglamentarias relativas a la revocación de las concesiones, serán igualmente aplicables a las subrogaciones.
 
 ###### Artículo 122.
 
@@ -2527,11 +2535,13 @@ XVI. Por ser el servicio notoriamente deficiente o que las unidades carezcan de 
 
 XVII. Cuando la documentación presentada ante la Secretaría a efecto de obtener la concesión, permiso o autorización sea falsa.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+
 ###### Artículo 147.
 
-Para hacer efectivas las disposiciones de los artículos que anteceden, la Secretaría llevará a cabo un procedimiento administrativo en los términos de las leyes concurrentes, previo a realizar las investigaciones necesarias para determinar los casos en que los particulares, tengan u operen concesiones, en contravención a las disposiciones de esta ley.
+Para hacer efectivas las disposiciones de los artículos que anteceden, la Secretaría llevará a cabo un procedimiento administrativo en los términos de las leyes concurrentes, previo a realizar las investigaciones necesarias para determinar los casos en que los particulares, tengan u operen concesiones o subrogaciones, en contravención a las disposiciones de esta ley.
 
-En el caso de deficiencias en la prestación del servicio de transporte público en cualquiera de sus modalidades, el procedimiento administrativo procederá de oficio o a petición de parte interesada, conforme al procedimiento establecido en el reglamento.
+En el caso de deficiencias en la prestación del servicio de transporte público en cualquiera de sus modalidades, el procedimiento administrativo de revocación procederá de oficio o a petición de parte interesada, conforme al procedimiento establecido en el reglamento, mediante escrito que deberá presentarse ante la Secretaría, cuyo titular será competente para instruir, resolver y sancionar dicho procedimiento. El titular podrá delegar la facultad de instrucción en el servidor público de la dependencia que considere oportuno.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2016)</small>
 
@@ -3941,10 +3951,18 @@ TERCERO. El Comité de (sic) Técnico de Validación en su primera sesión del p
 
 P.O. 2 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 26281/LXI/17 QUE REFORMA EL ARTÍCULO 58 DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26281/LXI/17 QUE REFORMA EL ARTÍCULO 58 DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
 
-PRIMERO. El presente decreto entrará (sic) vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+PRIMERO. El presente decreto entrará (sic) vigor al siguiente día de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO. Las reformas aprobadas por el presente decreto serán aplicables a las licencias o permisos de nueva tramitación, expedición o refrendo.
 
 TERCERO. Las autoridades competentes deberán adecuar su reglamentación, expedir las normas mínimas, así como realizar las adecuaciones técnicas para expedir la nueva licencia de conducir, conforme lo previsto en este decreto, en un plazo no mayor a ciento ochenta días naturales.
+
+P.O. 20 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26358/LXI/17 QUE REFORMA LOS ARTÍCULOS 121 Y 147 DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
+
+SEGUNDO. Las personas que cuenten con contratos de subrogación vigentes y que constituyan una persona jurídica podrán participar en los concursos del sistema integrado de transporte público en el estado.
