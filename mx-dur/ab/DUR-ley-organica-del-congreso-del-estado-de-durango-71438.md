@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-71438"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-24"
-last_updated: "2017-02-05"
+last_updated: "2017-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -785,7 +785,7 @@ III. Lectura del acta de la sesión anterior, la que será discutida y aprobada,
 
 IV. Lectura a la lista de la correspondencia oficial, recibida para su trámite;
 
-V. En su caso, el desahogo del “Espacio Solemne” cuando así lo haya aprobado el pleno;
+V. En su caso, el desahogo del "Espacio Solemne" cuando así lo haya aprobado el pleno;
 
 > <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2017)</small>
 
@@ -793,7 +793,9 @@ VI. En su caso, lectura de iniciativas presentadas por los diputados integrantes
 
 VII. Dictámenes que rindan las comisiones legislativas respecto a las iniciativas y asuntos que les hayan sido encomendados;
 
-VIII. Puntos de Acuerdo;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2017)</small>
+
+VIII. Puntos de Acuerdo de urgente y obvia resolución;
 
 IX. Asuntos generales; y
 
@@ -807,7 +809,7 @@ En el orden del día de la última sesión que le corresponda a una Mesa Directi
 
 En la segunda sesión de cada período ordinario, se deberá dar lectura al informe presentado por la Comisión Permanente.
 
-Los Diputados integrantes de la Legislatura podrán someter a la aprobación del pleno mediante Punto de Acuerdo, la inclusión en el orden del día de la sesión que corresponda de un “Espacio Solemne”, periodo de tiempo en el cual y de manera exclusiva, se dedicará a la realización de homenajes, enaltecimientos, conmemoraciones, reconocimientos, o cualquier otro objetivo aprobado.
+Los Diputados integrantes de la Legislatura podrán someter a la aprobación del pleno mediante Punto de Acuerdo, la inclusión en el orden del día de la sesión que corresponda de un "Espacio Solemne", periodo de tiempo en el cual y de manera exclusiva, se dedicará a la realización de homenajes, enaltecimientos, conmemoraciones, reconocimientos, o cualquier otro objetivo aprobado.
 
 Las sesiones de apertura de los años de ejercicio constitucional tendrán el siguiente orden del día:
 
@@ -825,7 +827,7 @@ El posicionamiento de las representaciones parlamentarias se hará tomando el or
 
 El Presidente de la Mesa Directiva, en la sesión de apertura, solicitará a los asistentes al recinto la más rigurosa solemnidad y hará la siguiente declaratoria:
 
-“Hoy día primero de septiembre del (año), la (su número) Legislatura del Honorable Congreso del Estado Libre y Soberano de Durango, abre su (según corresponda) año de ejercicio constitucional”
+"Hoy día primero de septiembre del (año), la (su número) Legislatura del Honorable Congreso del Estado Libre y Soberano de Durango, abre su (según corresponda) año de ejercicio constitucional"
 
 La apertura de cualquier año de ejercicio constitucional deberá constar en el decreto que al efecto se expida y será comunicado a las demás Legislaturas de las Entidades Federativas y del Distrito Federal, a los Poderes Ejecutivo y Judicial del Estado y a los Ayuntamientos.
 
@@ -835,7 +837,35 @@ La apertura de cualquier año de ejercicio constitucional deberá constar en el 
 
 Para participar en asuntos generales, los diputados deberán registrarse con el Presidente de la mesa directiva del Congreso, indicando el tema a tratar, en términos de lo acordado por el Pleno.
 
-El presidente iniciará el desarrollo de este punto haciendo mención de los diputados registrados y en ese orden les concederá el uso de la palabra. Cualquier diputado podrá hacer uso de la palabra sobre un asunto registrado, siempre y cuando el pleno no lo haya considerado suficientemente discutido.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2017)</small>
+
+Las proposiciones de punto de acuerdo serán turnadas a la Comisión o Comisiones competentes para que se forme el dictamen que corresponda y se someta a consideración del Pleno.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2017)</small>
+
+Los asuntos generales serán registrados conforme al procedimiento que esta Ley considera para el registro de iniciativas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MAYO DE 2017)</small>
+
+Las iniciativas, proposiciones de acuerdo y los asuntos generales serán hechos del conocimiento de los integrantes de la Legislatura, por conducto de las formas de organización partidista, en los términos que previene esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MAYO DE 2017)</small>
+
+Para que una proposición de Punto de Acuerdo sea votada en la misma sesión en que se presenta, se requiere que sea considerada como de urgente y obvia resolución y:
+
+a).- En la solicitud de inscripción se indique que se trata de un asunto de la naturaleza citada, y
+
+b).- El Congreso del Estado la califique de urgente y obvia resolución con el voto de las dos terceras partes de sus miembros presentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MAYO DE 2017)</small>
+
+El presidente iniciará el desarrollo de los puntos relativos a proposiciones de acuerdo (sic) considerados de urgente y obvia resolución, los de otra naturaleza y asuntos generales haciendo mención de los diputados registrados y en ese orden les concederá el uso de la palabra.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MAYO DE 2017)</small>
+
+Cualquier diputado podrá hacer uso de la palabra sobre un asunto registrado, siempre y cuando el Pleno no lo haya considerado suficientemente discutido.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MAYO DE 2017)</small>
 
 Si algún diputado determina no hacer uso de la palabra cuando corresponda su turno, podrá solicitar, por única ocasión, al Presidente de la Mesa Directiva reserve el tema registrado para la siguiente sesión.
 
@@ -3834,3 +3864,11 @@ SEGUNDO.- Realizado lo anterior, el Presidente de la Mesa Directiva en funciones
 TERCERO.- La Comisión Permanente a la que se refiere la disposición anterior, será instalada al día siguiente en el que se declare clausurado el periodo de receso respectivo.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan a lo contenido en el presente Decreto.
+
+P.O. 21 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 146.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 64 Y 65 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
