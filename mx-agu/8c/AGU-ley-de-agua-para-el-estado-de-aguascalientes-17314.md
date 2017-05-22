@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2015-07-06"
+last_updated: "2017-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -167,9 +167,13 @@ XII. Promover y apoyar en la creación, desarrollo y autosuficiencia administrat
 
 XIII. Promover la participación social y privada en la prestación de los servicios públicos;
 
-XIV. Promover y desarrollar programas de orientación permanente, con el objeto de preservar la calidad del agua y propiciar su aprovechamiento racional;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
-XV. Promover la potabilización del agua y el tratamiento de las aguas residuales;
+XIV. Promover y desarrollar programas de orientación permanente, con el objeto de preservar la calidad del agua, considerando las Normas Oficiales Mexicanas en materia de salud, y a su vez, propiciando su aprovechamiento racional;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+
+XV. Promover la potabilización del agua, considerando las Normas Oficiales Mexicanas en materia de salud, así como promover que el tratamiento de las aguas residuales se apegue a la normatividad correspondiente para evitar riesgos de contaminación al medio ambiente;
 
 XVI. Coadyuvar con los organismos operadores municipales e intermunicipales, en las gestiones de financiamiento y planeación de obras para los sistemas requeridos para la prestación de los servicios públicos;
 
@@ -1802,3 +1806,11 @@ P.O. 6 DE JULIO DE 2015.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 86.- REFORMAS A LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Aguascalientes.
