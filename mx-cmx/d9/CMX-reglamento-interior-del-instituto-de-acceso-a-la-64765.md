@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-acceso-a-la-64765"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-26"
-last_updated: "2014-09-04"
+last_updated: "2017-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64765&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2008-12-10"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL DISTRITO FEDERAL -ANTES REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL-
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 22 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial de la Federación, el viernes 26 de diciembre de 2008.
 
@@ -121,8 +123,6 @@ Comisionado Ciudadano
 María Elena Pérez-Jaén Zermeño
 
 Comisionada Ciudadana
-
-> <small>N. DE E. LAS REFORMAS APROBADAS EN EL ACUERDO 0347/SO/30-03/2011 APROBADO POR EL PLENO DE INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL, MODIFICO DE MANERA SUSTANCIAL PRÁCTICAMENTE TODO EL TEXTO DEL PRESENTE REGLAMENTO, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTÍCULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN LA G.O. DE 15 DE ABRIL DE 2011.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE OCTUBRE DE 2011)</small>
 
@@ -1393,3 +1393,21 @@ Transitorio Único: Publíquese en la Gaceta Oficial de (sic) Distrito Federal.
 G.O. 4 DE SEPTIEMBRE DE 2014.
 
 Único: Publíquese en la Gaceta Oficial de (sic) Distrito Federal.
+
+G.O. 22 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL DISTRITO FEDERAL”.]
+
+PRIMERO. El presente Reglamento entrará en vigor el día de su aprobación por el Pleno del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal.
+
+SEGUNDO. Para su mayor difusión publíquese en la Gaceta Oficial de la Ciudad de México y en el Portal de Internet de este Instituto.
+
+TERCERO. Se abroga el Reglamento Interior del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 26 de diciembre de 2008 y se derogan todas aquellas disposiciones que contravengan lo establecido en el presente Reglamento.
+
+CUARTO. Los procedimientos administrativos en trámite ante este Instituto, iniciados con anterioridad a la entrada en vigor del presente Reglamento, serán tramitados y resueltos conforme al Reglamento Interior del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 26 de diciembre de 2008.
+
+QUINTO. Las atribuciones referentes a la determinación de imponer y ejecutar sanciones, quedan sujetas a lo establecido en el Transitorio Tercero de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, en relación con el Titulo Noveno del mismo ordenamiento.
+
+SEXTO. La implementación y regulación de las ponencias establecidas en la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, se encuentra sujeta a la disponibilidad presupuestal, humana y material que para tal efecto tenga el Instituto.
+
+SÉPTIMO. A partir de la fecha de entrada en vigor del presente Reglamento Interior, todas las referencias que se realicen en los ordenamientos jurídicos, así como cualquier acto relacionado con la Dirección Jurídica y Desarrollo Normativo, Dirección de Evaluación y Estudios y la Contraloría de este Instituto, se entenderán hechas a su Dirección de Asuntos Jurídicos, a la Dirección de Evaluación, Estudios y Gobierno Abierto y al Órgano Interno de Control, respectivamente.
