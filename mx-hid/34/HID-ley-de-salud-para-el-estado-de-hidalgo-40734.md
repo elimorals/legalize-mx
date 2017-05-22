@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2017-04-10"
+last_updated: "2017-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -44,6 +44,12 @@ QUE CONTIENE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO
 ###### Artículo 1.
 
 La presente Ley reglamenta el derecho a la protección de la salud contenido en el Artículo octavo de la Constitución Política del Estado de Hidalgo, establece las bases y modalidades de acceso a los servicios de salud proporcionados por las instituciones y la participación de los Municipios en la prestación de algunos servicios sanitarios. Sus disposiciones son de orden público e interés social.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2017)</small>
+
+###### Artículo 1 Bis.
+
+Se entiende por salud como un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades.
 
 ###### Artículo 2.
 
@@ -1748,3 +1754,9 @@ P.O. 10 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 173.- POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 28 DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO Y ADICIONA LA FRACCIÓN XVII BIS, AL INCISO A, DEL ARTÍCULO 3 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM.179 QUE ADICIONA EL ARTÍCULO 1 BIS A LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
