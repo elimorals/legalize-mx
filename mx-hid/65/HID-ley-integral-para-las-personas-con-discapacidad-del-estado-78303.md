@@ -4,7 +4,7 @@ identifier: "HID-ley-integral-para-las-personas-con-discapacidad-del-estado-7830
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2016-08-01"
+last_updated: "2017-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2017.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -145,7 +145,7 @@ XI.- Discriminación indirecta por motivos de discapacidad.- Se presenta cuando 
 
 XII.- Ajustes razonables.- Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos;
 
-XIII.- Diseño Universal.- Diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El “Diseño Universal” no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad, cuando se necesiten;
+XIII.- Diseño Universal.- Diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El "Diseño Universal" no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad, cuando se necesiten;
 
 XIV.- Asistencia Social.- Conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
 
@@ -171,9 +171,17 @@ XXIV.- Educación Especial.- Conjunto de servicios, programas, orientación y re
 
 XXV.- Igualdad de Oportunidades.- Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación, con las mismas oportunidades y posibilidades que el resto de la población;
 
-XXVI.- Persona con discapacidad con movilidad reducida.- Aquélla que, de forma permanente o temporal, tiene limitada su capacidad de movimiento; y
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
-XXVII.- Persona con discapacidad con necesidad de apoyo generalizado.- Aquella persona qué, como consecuencia de su discapacidad, requiere de la atención o ayuda de otra u otras personas para realizar las actividades esenciales de la vida diaria.
+XXVI.- Persona con discapacidad con movilidad reducida. Aquélla que, de forma permanente o temporal, tiene limitada su capacidad de movimiento;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+
+XXVII.- Persona con discapacidad con necesidad de apoyo generalizado. Aquella persona que, como consecuencia de su discapacidad, requiere de la atención o ayuda de otra u otras personas para realizar las actividades esenciales de la vida diaria; y
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2017)</small>
+
+XXVIII.- Trato preferencial: Atención prioritaria a las personas con discapacidad, para agilizar los trámites o procedimientos administrativos que realicen, evitando cualquier tipo de turno o mecanismo de espera.
 
 ### CAPÍTULO III. DE LA DISCAPACIDAD
 
@@ -487,11 +495,13 @@ A fin de garantizar el pleno ejercicio de los derechos de las personas con disca
 
 Las personas con discapacidad que tengan como apoyo para realización de sus actividades cotidianas, a perros guía, tienen derecho a que éstos accedan y permanezcan con ellos en todos los espacios en donde se desenvuelvan.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
+
 ###### Artículo 58.
 
-Las Dependencias y Entidades públicas para prestar sus servicios están obligadas a garantizar la accesibilidad de las personas con discapacidad.
+Las Dependencias, Entidades Públicas y los municipios, para prestar sus servicios están obligados a garantizar la accesibilidad de las personas con discapacidad.
 
-Asimismo, deberán diseñar mecanismos efectivos para brindarles atención preferencial, así como, para facilitarles información.
+Asimismo, deberán diseñar mecanismos efectivos para brindarles un trato preferencial, así como para facilitarles información.
 
 ###### Artículo 59.
 
@@ -501,9 +511,17 @@ I.- Adecuar los espacios públicos y edificios abiertos al público en lo relaci
 
 II.- Las vías de circulación peatonal deberán ser continuas y a nivel, o bien, contar con los elementos necesarios que superen los cambios de nivel en los cruces de calles, etcétera;
 
-III.- Permitir el acceso de perros guías, sillas de ruedas, bastones o demás ayudas necesarias, por parte de las personas que presenten alguna limitación para su movilidad o desplazamiento; y
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
-IV.- Implementar guías e información para las personas ciegas o con debilidad visual, a fin de facilitar y agilizar su desplazamiento seguro y efectivo.
+III.- Permitir el acceso de perros guías, sillas de ruedas, bastones o demás ayudas necesarias, por parte de las personas que presenten alguna limitación para su movilidad o desplazamiento;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+
+IV.- Implementar guías e información para las personas ciegas o con debilidad visual, a fin de facilitar y agilizar su desplazamiento seguro y efectivo; y
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2017)</small>
+
+V.- Brindar un trato preferencial a personas con discapacidad, disponiendo de un espacio de atención inmediata, de acceso fácil y adecuado, que cuente con los señalamientos necesarios y suficientes para su rápida localización, y exhiba en un lugar visible la denominación de trato preferencial a personas con discapacidad, evitando cualquier tipo de turno o mecanismo de espera.
 
 ### CAPÍTULO XIX (SIC). DEL ACCESO A LA JUSTICIA
 
@@ -1002,3 +1020,9 @@ P.O. 1 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 679 QUE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 104 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 180 QUE REFORMA LAS FRACCIONES XXVI Y XXVII DEL ARTÍCULO 5, ARTÍCULO 58 Y FRACCIONES III Y IV DEL ARTÍCULO 59; Y SE ADICIONA LA FRACCIÓN XXVIII AL ARTÍCULO 5, Y LA FRACCIÓN V AL ARTÍCULO 59, DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD PARA EL ESTADO DEL HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo
