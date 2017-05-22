@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-ingresos-sobre-hidrocarburos-103367"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-31"
-last_updated: "2014-10-31"
+last_updated: "2017-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-10-29"
 ---
 # REGLAMENTO DE LA LEY DE INGRESOS SOBRE HIDROCARBUROS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DE LA LEY DE INGRESOS SOBRE HIDROCARBUROS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MAYO DE 2017.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 31 de octubre de 2014.
 
@@ -89,9 +91,17 @@ IV. Las bases y reglas sobre el registro de costos, gastos e inversiones que hab
 
 V. Las bases y reglas sobre la procura de bienes y servicios para las actividades llevadas a cabo al amparo del Contrato;
 
-VI. Las reglas y procedimientos para el desarrollo de visitas y auditorías a que se refiere el artículo 21 de este Reglamento, que habrán de incluirse en el Contrato, y
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2017)</small>
 
-VII. Las reglas para la correcta operación de las Contraprestaciones, conforme a lo señalado en el artículo 19 de este Reglamento.
+VI. Las reglas y procedimientos para el desarrollo de visitas y auditorías a que se refiere el artículo 21 de este Reglamento, que habrán de incluirse en el Contrato;
+
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2017)</small>
+
+VII. Las reglas para la correcta operación de las Contraprestaciones, conforme a lo señalado en el artículo 19 de este Reglamento, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE MAYO DE 2017)</small>
+
+VIII. Los términos para la determinación y divulgación de los valores a los que se refiere el artículo 9 de este Reglamento.
 
 La Secretaría atenderá siempre a maximizar los ingresos del Estado para lograr el mayor beneficio para el desarrollo de largo plazo.
 
@@ -105,13 +115,17 @@ Durante el plazo mencionado en el párrafo anterior, la Secretaría podrá solic
 
 La Secretaría de Energía podrá emitir opinión respecto de lo dispuesto en los incisos a) y b) de la fracción II del artículo 6 de este Reglamento, dentro de los cinco días hábiles siguientes a que reciba la resolución de la Secretaría. Con base en la opinión mencionada, la Secretaría podrá adecuar su resolución dentro de los cinco días hábiles siguientes.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2017)</small>
+
 ###### Artículo 9.
 
-Con base en la solicitud a que se refiere el artículo 5 de este Reglamento, la Secretaría establecerá los valores mínimos y, en su caso, máximos que podrán tomar las variables de adjudicación a que hace referencia el segundo párrafo del artículo 26 de la Ley, buscando siempre maximizar los ingresos que perciba el Estado en el tiempo por la realización de las actividades de Exploración y Extracción de Hidrocarburos.
+La Secretaría establecerá los valores mínimos y, en su caso, máximos que podrán tomar las variables de adjudicación a que hace referencia el segundo párrafo del artículo 26 de la Ley, buscando siempre maximizar los ingresos que perciba el Estado en el tiempo por la realización de las actividades de Exploración y Extracción de Hidrocarburos.
 
-Atendiendo al mecanismo de adjudicación que se fije, la Secretaría podrá reservar, conforme a las disposiciones jurídicas aplicables, los valores a los que hace referencia este artículo. Para efectos de lo anterior, la Secretaría guardará los mencionados valores en sobre cerrado en presencia de fedatario público bajo la más estricta reserva. Dicho sobre cerrado será entregado por la Secretaría directamente a la Comisión en el acto de presentación de propuestas, en donde el fedatario correspondiente dará fe de la integridad del sobre y de la información contenida en él.
+Con base en la solicitud a que se refiere el artículo 5 de este Reglamento, la información con que se cuente y atendiendo al mecanismo de adjudicación que se fije, la Secretaría deberá establecer los términos para la determinación y divulgación de los valores a los que se refiere este artículo. Dichos términos se harán del conocimiento de la Secretaría de Energía a través de la resolución señalada en el artículo 6 de este Reglamento.
 
-Cuando no se actualice el supuesto señalado en el párrafo anterior, la Secretaría incluirá los valores a que se refiere este artículo en la resolución señalada en el artículo 6 de este Reglamento.
+En caso que la Secretaría establezca en la resolución señalada en el artículo 6 de este Reglamento que la divulgación de los valores se hará hasta el acto de presentación y apertura de propuestas, la Secretaría reservará, conforme a las disposiciones jurídicas aplicables, los valores a los que hace referencia este artículo. Para efectos de lo anterior, la Secretaría guardará los mencionados valores en sobre cerrado en presencia de fedatario público bajo la más estricta reserva. Dicho sobre cerrado será entregado por la Secretaría directamente a la Comisión en el acto de presentación de propuestas, en donde el fedatario correspondiente dará fe de la integridad del sobre y de la información contenida en él.
+
+En caso que la Secretaría establezca en la resolución señalada en el artículo 6 de este Reglamento que la divulgación de los valores se realice con antelación al acto de presentación y apertura de propuestas, ésta remitirá dichos valores mediante oficio a la Secretaría de Energía y a la Comisión para que estos sean divulgados en los medios electrónicos correspondientes, a más tardar diez días hábiles antes de la fecha que se establezca en la licitación para el acto de presentación y apertura de propuestas.
 
 ###### Artículo 10.
 
@@ -225,37 +239,25 @@ A solicitud del Contratista, la Secretaría podrá autorizar el descuento de un 
 
 Para obtener la autorización prevista en el párrafo anterior, el Contratista deberá realizar la solicitud correspondiente a la Secretaría a más tardar al día hábil siguiente a que se realice la enajenación referida. La Secretaría resolverá e informará al Fondo Mexicano del Petróleo del asunto conforme lo dispuesto en el Contrato en un plazo de cinco días hábiles.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ### CAPÍTULO IV. DE LOS INGRESOS POR ASIGNACIONES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 28.
 
 Los Asignatarios estarán obligados a inscribir sus respectivas Asignaciones en el registro que al efecto establezca el Fondo Mexicano del Petróleo, conforme a los lineamientos que éste emita y a lo previsto en el contrato de fideicomiso respectivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### Artículo 29.
 
 La Secretaría de Energía deberá notificar al Fondo Mexicano del Petróleo y a la Secretaría, de las determinaciones que adopte sobre el otorgamiento, revocación, renuncia o cesión de Asignaciones, al día hábil siguiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### Artículo 30.
 
 Para los efectos del segundo párrafo del artículo 45 de la Ley, las cuotas aplicables por el derecho de Exploración de Hidrocarburos se actualizarán anualmente el primero de enero de cada año, considerando el periodo comprendido desde el décimo tercer mes inmediato anterior y hasta el último mes anterior a aquél en que se efectúa la actualización, aplicándoles el factor de actualización que resulte de dividir el Índice Nacional de Precios al Consumidor del mes inmediato anterior al más reciente del periodo, entre el Índice Nacional de Precios al Consumidor correspondiente al mes anterior al más antiguo del periodo, en términos del artículo 17-A del Código Fiscal de la Federación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 31.
 
 La Comisión enviará a la Secretaría y al Servicio de Administración Tributaria, dentro de los primeros diez días hábiles de cada mes, la información relativa a la producción derivada de las Asignaciones del mes inmediato anterior.
 
 La información a que se refiere el presente artículo será entregada por la Comisión en los formatos y conforme a los términos que se establezcan en los convenios de coordinación que al efecto celebren las dependencias mencionadas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 32.
 
@@ -302,3 +304,11 @@ Cuarto.- Durante los años 2014 y 2015, para efectos de la determinación de los
 Quinto.- Para efectos de los artículos 18 y 30 de este Reglamento, y 55, párrafo cuarto de la Ley de Ingresos sobre Hidrocarburos, la primera actualización se deberá realizar el primero de enero de 2016, por lo que el período para llevar a cabo dicha actualización será el comprendido entre el mes de diciembre de 2014 y el mes de diciembre de 2015.
 
 Dado en la Residencia Oficial del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de octubre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Luis Videgaray Caso.- Rúbrica.- El Secretario de Energía, Pedro Joaquín Coldwell.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 22 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL REGLAMENTO DE LA LEY DE INGRESOS SOBRE HIDROCARBUROS”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
