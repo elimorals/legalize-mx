@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-para-el-pago-comprobacion-y-registro-de-gastos-885
 country: "mx"
 rank: "lineamientos"
 publication_date: "2012-07-10"
-last_updated: "2012-07-10"
+last_updated: "2017-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88542&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2012-06-20"
 ---
 # LINEAMIENTOS PARA EL PAGO, COMPROBACION Y REGISTRO DE GASTOS DE ALIMENTACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LOS LINEAMIENTOS PARA EL PAGO, COMPROBACIÓN Y REGISTRO DE GASTOS DE ALIMENTACIÓN, PUBLICADOS EN EL D.O.F. DE 22 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LINEAMIENTOS PARA EL PAGO, COMPROBACIÓN Y REGISTRO DE GASTOS DE ALIMENTACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MAYO DE 2017 (ABROGADOS).
 
 Lineamientos publicados en la Cuarta Sección del Diario Oficial de la Federación, el martes 10 de julio de 2012.
 
@@ -376,3 +378,17 @@ EL SUSCRITO, LICIENCIADO (SIC) CESAR SILVA-HERZOG URRUTIA, SECRETARIO DE LA COMI
 CERTIFICA
 
 Que el presente documento en 21 fojas útiles, incluyendo la presente, corresponde a los "LINEAMIENTOS PARA EL PAGO, COMPROBACION Y REGISTRO DE GASTOS DE ALIMENTACION" que contiene las modificaciones aprobadas por la Comisión de Administración mediante acuerdo 221/S6(12-VI-2012), emitido en la Sexta Sesión Ordinaria de 2012, que obra en los archivos de la Coordinación de Asuntos Jurídicos.- DOY FE.- México, Distrito Federal, 20 de junio de 2012.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 22 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LOS “LINEAMIENTOS PARA EL PAGO, COMPROBACIÓN Y REGISTRO DE GASTOS DE ALIMENTACIÓN”.]
+
+PRIMERO. Los presentes “Lineamientos para el pago, comprobación y registro de gastos de alimentación” entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abrogan los Lineamientos para el Pago, Comprobación y Registro de Gastos de Alimentación aprobados por la Comisión de Administración en la Sexta Sesión Ordinaria de 2012, mediante Acuerdo 221/S6(12-VI-2012).
+
+TERCERO. Se derogan todas aquellas disposiciones que contravengan a los presentes Lineamientos para el Pago, Comprobación y Registro de Gastos de Alimentación.
+
+CUARTO. Para su mayor difusión, publíquese en las páginas de Intranet e Internet del Tribunal Electoral del Poder Judicial de la Federación.
