@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-civiles-para-el-estado-libre-y-5382"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-12-01"
-last_updated: "2016-12-31"
+last_updated: "2017-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2017.
 
 Código publicado en el Apéndice del Periódico Oficial del Estado de Hidalgo, el 1 de diciembre de 1940.
 
@@ -1727,9 +1727,11 @@ VI.- Los fundamentos de derecho y la clase de acción, procurando citar los prec
 
 VII.- El valor de lo demandado, si de ello depende la competencia del Juez.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
+
 ###### Artículo 254.
 
-Presentada la demanda con los documentos y copias prevenidos, se correrá traslado de ella a la persona o personas contra quienes se proponga, y se les emplazará para que la contesten dentro de nueve días.
+Presentada la demanda con los documentos y copias prevenidos, se correrá traslado de ella a la persona o personas contra quienes se proponga, y se les emplazará para que la contesten dentro de nueve días. Asimismo, se deberá hacer del conocimiento a ambas partes que tienen derecho a acceder a los mecanismos alternativos de solución de controversias que establece la ley de la materia, en los asuntos que sean aplicables.
 
 ###### Artículo 255.
 
@@ -6630,3 +6632,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 22 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 182 QUE REFORMA EL ARTÍCULO 254 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo
