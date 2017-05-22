@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-1067
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-23"
-last_updated: "2016-06-06"
+last_updated: "2017-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106726&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2017.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de marzo de 2015.
 
@@ -745,7 +745,9 @@ La convocatoria de la licitación establecerá porcentajes diferenciales de prec
 
 De subsistir el empate entre las personas domiciliadas en el Estado de Aguascalientes, la adjudicación se efectuará a favor del Licitante que resulte ganador del sorteo que se realice para el efecto. Será convocado al sorteo un representante de la Autoridad fiscalizadora o del órgano de control interno del Municipio o Entidad, en su caso.
 
-En el caso de licitación pública para la contratación de adquisiciones, arrendamientos o servicios que utilicen la evaluación de puntos y porcentajes, se otorgarán puntos, en los términos de la convocatoria, a personas con discapacidad o a la empresa que cuente con trabajadores con discapacidad en una proporción del cinco por ciento cuando menos de la totalidad de su planta de empleados, cuya antigüedad no sea inferior a seis meses, misma que se comprobará con el aviso de alta al régimen obligatorio del Instituto Mexicano del Seguro Social.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
+
+En el caso de licitación pública para la contratación de adquisiciones, arrendamientos o servicios que utilicen la evaluación de puntos y porcentajes, se otorgarán puntos, en los términos de la convocatoria, a personas con discapacidad o a la empresa que cuente con trabajadores con discapacidad en una proporción del cinco por ciento cuando menos de la totalidad de su planta de empleados, cuya antigüedad no sea inferior a seís meses, misma que se comprobará con el aviso de alta al régimen obligatorio del Instituto Mexicano del Seguro Social. De igual manera, se otorgarán puntos a las empresas que hayan aplicado políticas y prácticas de igualdad de género, conforme a la certificación correspondiente emitida por las autoridades y organismos facultados para tal efecto.
 
 ###### Artículo 57.
 
@@ -1526,3 +1528,11 @@ P.O. 6 DE JUNIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 87.- REFORMAS A LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
