@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-junta-local-de-conciliacion-y-96062"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-01"
-last_updated: "2016-06-10"
+last_updated: "2017-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96062&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,9 @@ issue_date: "2013-09-19"
 ---
 # REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DE LA CIUDAD DE MEXICO -- ANTES REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DEL DISTRITO FEDERAL --
 
-REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL DISTRITO FEDERAL
+REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DE LA CIUDAD DE MÉXICO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. 10 DE JUNIO DE 2016, VÉASE ARTÍCULOS TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE MAYO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 1 de octubre de 2013.
 
@@ -2668,11 +2666,11 @@ El personal adscrito a la Junta tendrá la obligación de recibir el oficio de c
 
 DEL INSTITUTO DE ESPECIALIZACIÓN
 
-> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2017)</small>
 
 ###### Artículo 154.
 
-La Junta cuenta con un Instituto de Especialización, el cual está a cargo de una o un Director, dicha persona es designada por la o el Presidente de la Junta y tiene como función primordial, la formación, capacitación y profesionalización permanente del personal jurídico de la misma y del público en general que se interese en los cursos que se impartan.
+La Junta cuenta con un Instituto de Especialización, el cual está a cargo de una o un Director, dicha persona es designada por la o el Presidente de la Junta y tiene como función primordial, la formación, certificación, previa evaluación, capacitación y profesionalización permanente del personal jurídico de la misma y del público en general que se interese en los cursos y demás actividades que se impartan.
 
 > <small>(REFORMADO, G.O. 10 DE JUNIO DE 2016)</small>
 
@@ -2805,3 +2803,7 @@ Artículo primero.- Se reforma el presente Reglamento Interior de la Junta Local
 Artículo segundo.- Lo no previsto en el presente Reglamento, será resuelto conforme a las disposiciones de la Ley Federal del Trabajo y de la Ley Federal de los Trabajadores al Servicio del Estado.
 
 Artículo tercero.- Las reformas del presente Reglamento entran en vigor inmediatamente después de ser aprobadas por el Pleno de la Junta Local de Conciliación y Arbitraje de la Ciudad de México, celebrado el 9 de enero de 2016, aviso publicado en el Boletín Laboral del 14 de marzo de 2016.
+
+G.O. 22 DE MAYO DE 2017.
+
+[LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]
