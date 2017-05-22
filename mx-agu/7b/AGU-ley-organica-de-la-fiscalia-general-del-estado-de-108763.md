@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-fiscalia-general-del-estado-de-108763"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-06-22"
-last_updated: "2016-09-20"
+last_updated: "2017-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2017.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2015.
 
@@ -181,7 +183,21 @@ I. Manejar, dirigir y controlar la Fiscalía General y establecer las políticas
 
 II. Expedir los reglamentos, acuerdos, circulares, instructivos, bases, lineamientos y manuales de organización y procedimientos conducentes al buen desempeño de las funciones de la Fiscalía;
 
-III. Determinar la organización y funcionamiento de la Fiscalía General y adscribir orgánicamente, mediante acuerdo, sus unidades administrativas;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+
+III. Determinar la organización y funcionamiento de la Fiscalía General y adscribir orgánicamente, mediante acuerdo, sus unidades administrativas. Estableciendo por lo menos la:
+
+a) Fiscalía Especializada en Homicidios;
+
+b) Fiscalía Especializada en Justicia Familiar y de Género;
+
+c) Fiscalía Especializada en Robo de Vehículos;
+
+d) Fiscalía Especializada en Investigación de Robos;
+
+e) Fiscalía Especializada en Materia de Trata de Personas; y
+
+f) Fiscalía Especializada en Combate a la Corrupción.
 
 IV. Acordar las bases para los nombramientos, movimientos y terminación de sus efectos, de conformidad con lo que establece el Servicio de Carrera y las demás disposiciones aplicables;
 
@@ -1732,3 +1748,15 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Para el efecto de cumplir con lo dispuesto en el presente Decreto las autoridades administrativas competentes tendrán un término de 180 días contados a partir de su publicación en el Periódico Oficial del Estado, para realizar las adecuaciones administrativas y reglamentarias necesarias a fin de garantizar la operatividad de lo dispuesto en la presente reforma.
+
+P.O. 22 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 85.- SE REFORMA LA FRAC. III DEL ARTÍCULO 4° DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 180 días naturales, contados a partir de su publicación, en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular de la Fiscalía General del Estado de Aguascalientes, deberá en un plazo máximo de 180 días naturales, contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado de Aguascalientes, Reformar y/o Adicionar de conformidad el Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Aguascalientes.
