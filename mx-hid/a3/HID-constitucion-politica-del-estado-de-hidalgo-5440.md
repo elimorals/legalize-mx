@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2017-03-13"
+last_updated: "2017-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -377,7 +377,13 @@ Las leyes locales establecerán los medios necesarios para que se garantice la i
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
-Queda prohibida la pena de muerte o cualesquiera otras penas inusitadas y trascendentales.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
+
+Queda prohibida la pena de muerte, el tormento de cualquier especie, la multa excesiva, la confiscación de bienes y cualesquiera otras penas inusitadas y trascendentales. Toda pena deberá ser proporcional al delito que sancione y al bien jurídico afectado.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2017)</small>
+
+Es procedente la aplicación de bienes de una persona para el pago de multas, impuestos o sanciones pecuniarias por responsabilidades civiles derivadas de la comisión de un delito o faltas administrativas graves decretadas por la autoridad competente. En términos de las leyes de la materia, el Estado deberá realizar todas las acciones necesarias para la recuperación de los bienes que hayan sido instrumento, objeto, producto o estén relacionados con la comisión de un delito o falta administrativa, así como de aquellos bienes asegurados que causen abandono mediante el decomiso, extinción de dominio o cualquier otra figura aplicable considerada en la ley, para lo cual, las autoridades competentes en la materia podrán celebrar convenios de colaboración con entidades nacionales e internacionales.
 
 > <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
@@ -767,6 +773,14 @@ No podrán reunirse dos o más Poderes en una sola persona o corporación, ni de
 
 Los poderes colaborarán entre sí para el eficaz cumplimiento de las funciones del Estado.
 
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2017)</small>
+
+Los organismos autónomos son entidades especializadas para la atención eficaz de funciones primarias y originarias del Estado, reconocidos en esta Constitución o en la Ley, cuentan con patrimonio y personalidad jurídica propia, independencia en sus decisiones, funcionamiento y administración, así como autonomía presupuestaria, técnica y de gestión en el ejercicio de sus atribuciones. Cada uno de los organismos autónomos contará con un órgano interno de control para vigilar la correcta administración y ejercicio de los recursos públicos, así como fomentar la rendición de cuentas y atender las evaluaciones sobre el cumplimento de los objetivos planteados, cuyo titular será nombrado por el Congreso del Estado por las dos terceras partes de las y los Diputados presentes.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2017)</small>
+
+Esta Constitución reconoce como organismos autónomos a la Comisión de Derechos Humanos, el Instituto Estatal Electoral, el Tribunal Estatal Electoral y el Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo.
+
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
 ###### Artículo 27.
@@ -787,11 +801,11 @@ La sede de cualesquiera de los Poderes podrá transladarse (sic) a otro sitio, c
 
 #### SECCION I. DEL CONGRESO
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
 
 ###### Artículo 28.
 
-El ejercicio del Poder Legislativo se deposita en una Asamblea que se denominará "CONGRESO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO".
+El ejercicio del Poder Legislativo se deposita en un órgano que se denominará "CONGRESO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO", cuya organización y funcionamiento estará regulado por su propia Ley.
 
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -841,13 +855,11 @@ I. El Gobernador del Estado;
 
 II. Quienes pertenezcan el (sic) Estado eclesiástico;
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
-III. Los Secretarios del Despacho del Poder Ejecutivo, los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo, los Consejeros del Consejo de la Judicatura, el Procurador General de Justicia del Estado, el Subprocurador General de Justicia y los Servidores Públicos de la Federación, residentes en el Estado, que no se hayan separado de sus respectivos cargos, cuando menos sesenta días antes del día de la elección;
+III. Los Secretarios del Despacho del Poder Ejecutivo, los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, los Consejeros del Consejo de la Judicatura, el Procurador General de Justicia del Estado, el Fiscal Especializado en Delitos de Corrupción, el Auditor Superior del Estado y los servidores públicos de la Federación, residentes en el Estado, que no se hayan separado de sus respectivos cargos, cuando menos sesenta días antes del día de la elección.
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2007)</small>
-
-Los Consejeros Electorales, el Subprocurador de Asuntos Electorales, los integrantes de la Junta Estatal Ejecutiva del Instituto Estatal Electoral y los Magistrados del Tribunal Electoral del Poder Judicial del Estado, tampoco podrán serlo, a menos que se separen de su cargo un año antes del inicio del proceso electoral de que se trate;
+El Fiscal Especializado para la Atención de Delitos Electorales, los Consejeros Electorales, los integrantes de la Junta Estatal Ejecutiva del Instituto Estatal Electoral y los Magistrados del Tribunal Electoral, tampoco podrán serlo, a menos que se separen de su cargo un año antes del inicio del proceso electoral de que se trate.
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
 
@@ -925,9 +937,13 @@ Cuando algún Diputado deje de asistir a tres Sesiones consecutivas, sin previa 
 
 Durante el Primer Periodo Ordinario de Sesiones, y para que rijan en el año siguiente, el Congreso se ocupará prioritariamente de examinar y aprobar en su caso, la Ley de Ingresos del Estado y las de los Municipios, así como el Presupuesto de Egresos del Estado, que el Gobernador deberá enviarle a más tardar el quince de diciembre.
 
-Durante el Segundo Período Ordinario de Sesiones, el Congreso se ocupará preferentemente de conocer el Informe del Resultado de la Revisión de la Cuenta Pública del Estado, las de los Municipios, las de los Organismos Autónomos y de cualquier persona física o moral que reciba por cualquier titulo recursos públicos.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
 
-El Congreso concluirá la revisión de las cuentas públicas el 31 de octubre del año siguiente al de su presentación, con base en las conclusiones técnicas del Informe del Resultado de la Revisión, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior del Estado, siga su curso.
+Durante el Segundo Período Ordinario de Sesiones, el Congreso se ocupará preferentemente de conocer el informe general que resulte de la fiscalización superior de la cuenta pública del Estado, las de los municipios, de los organismos autónomos y de cualquier persona física o moral que reciba por cualquier título recursos públicos.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
+
+El Congreso concluirá la revisión de las cuentas públicas el 31 de octubre del año siguiente al de su presentación, con base en las conclusiones técnicas del informe general de la fiscalización superior, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior del Estado siga su curso.
 
 > <small>(ADICIONADO, P.O. 21 DE MARZO DE 2011)</small>
 
@@ -1059,13 +1075,13 @@ El Gobernador no podrá hacer observaciones a los Proyectos de Ley o de Decreto 
 
 I. Se trate de adiciones o reformas a esta Constitución;
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
-II. Hayan sido dictados en ejercicio de la facultad de revisar la cuenta general del Estado y de los Muncipios (sic);
+II. Hayan sido dictados en ejercicio de la facultad de fiscalización superior a las cuentas públicas;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
-III. Hayan sido dictados en uso de la facultad de conceder o negar licencia al Gobernador, a los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo, del Tribunal Electoral, al Procurador General de Justicia y al Subprocurador de Asuntos Electorales; y
+III. Hayan sido dictados en uso de la facultad de conceder o negar licencia al Gobernador, a los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa y del Tribunal Electoral, al Auditor Superior, al Procurador General de Justicia del Estado, Fiscal Especializado en Delitos Electorales y Fiscal Especializado en Delitos de Corrupción;
 
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
 
@@ -1113,23 +1129,23 @@ III. Expedir las leyes reglamentarias y ejercer las facultades que le otorga la 
 
 IV. Iniciar Leyes y Decretos ante el Congreso General;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2017)</small>
 
-V. Expedir y aprobar su Ley reglamentaria, así como la Ley que regule las facultades y organización interna de la Auditoría Superior, conforme a las bases establecidas en esta Constitución.
+V. Expedir su Ley reglamentaria, así como la Ley que regule las facultades de la Auditoría Superior del Estado y expedir la Ley que establezca las bases de coordinación del Sistema Estatal Anticorrupción, conforme a las disposiciones establecidas en esta Constitución.
 
 La Auditoría Superior del Estado de Hidalgo, es el Órgano Técnico responsable de la fiscalización de las Cuentas Públicas del Estado y de los Ayuntamientos, de acuerdo a la legislación correspondiente;
 
 VI. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 1995)
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
-VII. Recibir la protesta al cargo de Diputados, Gobernador, Magistrados, Consejeros del Consejo de la Judicatura, Procurador General de Justicia y Subprocurador de Asuntos Electorales;
+VII. Recibir la protesta al cargo de Diputados, Gobernador, Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, Consejeros del Consejo de la Judicatura, Procurador General de Justicia, Fiscal Especializado en Delitos Electorales y Fiscal Especializado en Delitos de Corrupción;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
-VIII. Aprobar en su caso, la propuesta del Ejecutivo para nombrar a los Magistrados del Tribunal Superior de Justicia y Tribunal Fiscal Administrativo, así como conocer de su renuncia o remoción.
+VIII. Aprobar en su caso, la propuesta del Ejecutivo para nombrar a los Magistrados del Tribunal Superior de Justicia y Tribunal de Justicia Administrativa, así como conocer de su renuncia o remoción.
 
-Nombrar de las listas propuestas por el titular del Ejecutivo, al Procurador General de Justicia del Estado y al Subprocurador de Asuntos Electorales, así como conocer de su renuncia o remoción;
+Nombrar de las listas propuestas por el titular del Ejecutivo, al Procurador General de Justicia del Estado, al Fiscal Especializado en Delitos Electorales y al Fiscal Especializado en Delitos de Corrupción, así como conocer de su renuncia o remoción.
 
 > <small>(ADICIONADA, P.O. 2 DE MAYO DE 2016)</small>
 
@@ -1139,9 +1155,13 @@ IX. (DEROGADA, P.O. 9 DE MAYO DE 1998)
 
 X. Nombrar al ciudadano que debe suplir al Gobernador Constitucional, en caso de falta temporal o definitiva de éste;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2017)</small>
 
-XI. Conceder a los Diputados, Gobernador, Auditor Superior, Magistrados, Consejeros del Consejo de la Judicatura, Procurador General de Justicia y Subprocurador de Asuntos Electorales, licencia para separarse de sus cargos, en los términos establecidos por esta Constitución;
+X Bis. Ratificar el nombramiento del titular de la dependencia encargada del control interno del Poder Ejecutivo;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+
+XI. Conceder a los Diputados, Gobernador, Auditor Superior, Magistrados, Consejeros del Consejo de la Judicatura, Procurador General de Justicia, Fiscal Especializado en Delitos Electorales y Fiscal Especializado en Delitos de Corrupción, licencia para separarse de sus cargos, en los términos establecidos por esta Constitución;
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -1159,6 +1179,10 @@ XIV. Dar posesión a los Diputados Suplentes en caso de inhabilitación o licenc
 
 XV. Nombrar al Auditor Superior y al Secretario de Servicios Legislativos;
 
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2017)</small>
+
+XV Bis. Nombrar, por el voto de las dos terceras partes de las y los Diputados presentes a los titulares de los órganos internos de control de los organismos autónomos que ejerzan recursos del Presupuesto de Egresos del Estado.
+
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 1991)</small>
 
 XVI. Decretar se tramite la reivindicación de los bienes Estatales y Municipales, sin perjuicio de las facultades que para ello correspondan al Poder Ejecutivo del Estado y a los gobiernos municipales;
@@ -1175,11 +1199,11 @@ XX. (DEROGADA, P.O. 9 DE MAYO DE 1998)
 
 > <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
-XX BIS.- Hacer comparecer a las autoridades, servidoras o servidores públicos que hayan recibido Recomendación de la Comisión de Derechos Humanos del Estado y no las hubieren aceptado, o que habiéndolas aceptado sean omisos en su cumplimiento.
+XX BIS. Hacer comparecer a las autoridades, servidoras o servidores públicos que hayan recibido Recomendación de la Comisión de Derechos Humanos del Estado y no las hubieren aceptado, o que habiéndolas aceptado sean omisos en su cumplimiento.
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
-XXI. Hacer comparecer a los servidores públicos titulares de dependencias o directores y representantes legales de Entidades de la Administración Pública del Estado, al Procurador General de Justicia del Estado y al Subprocurador de Asuntos Electorales, para que informen de los asuntos de su competencia;
+XXI. Hacer comparecer a los servidores públicos titulares de dependencias o directores y representantes legales de Entidades de la Administración Pública del Estado, al Procurador General de Justicia del Estado, al Fiscal Especializado en Delitos Electorales y al Fiscal Especializado en Delitos de Corrupción y a los titulares de los organismos autónomos, para que informen de los asuntos de su competencia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
@@ -1229,15 +1253,13 @@ f) Las normas que regulen los procedimientos para la solución de los conflictos
 
 XXX. Aprobar, por el voto de las dos terceras partes del total de sus miembros, los convenios de asociación que suscriban los municipios del Estado de Hidalgo con aquellos que pertenezcan a otra entidad federativa;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
-XXXI. Fiscalizar la Cuenta Pública del Estado, de los Ayuntamientos, Entidades Paraestatales, Organismos Autónomos, Organismos Descentralizados Municipales, Empresas de Participación Municipal y las de cualquier persona física o moral, pública o privada que capte, recaude, administre, maneje, ejerza, resguarde o custodie fondos o recursos de la Federación, Estado o Municipios; con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el Presupuesto y verificar el cumplimiento de los objetivos contenidos en los programas.
+XXXI.- Fiscalizar la Cuenta Pública del Estado, Municipios, Entidades Paraestatales, Organismos Autónomos, Organismos Descentralizados Municipales, Empresas de Participación Municipal y las de cualquier persona física o moral, pública o privada que capte, recaude, administre, maneje, ejerza, resguarde o custodie fondos o recursos de la Federación, Estado o Municipios con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el Presupuesto, y verificar el cumplimiento de los objetivos contenidos en los planes y programas, para lo cual se apoyará en la Auditoría Superior del Estado de Hidalgo y conocerá los informes que en materia de fiscalización ésta le rinda, garantizando la transparencia en el ejercicio de sus funciones.
 
-Para la fiscalización de las Cuentas Públicas, se apoyará en la Auditoría Superior. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o gastos realizados, se determinarán las responsabilidades de acuerdo a la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los planes y programas, la Auditoría Superior sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
+Las entidades fiscalizadas, deberán presentar su Cuenta Pública del año anterior ante la Auditoría Superior del Estado a más tardar el 30 de abril, del ejercicio fiscal posterior al que se trate, salvo lo previsto por la Ley de la materia.
 
-Las Entidades fiscalizadas, deberán presentar su Cuenta Pública ante la Auditoría Superior a más tardar el día 31 de marzo del Ejercicio Fiscal posterior al que se trate, salvo lo previsto por la Ley.
-
-El Congreso concluirá la revisión de las Cuentas Públicas a más tardar el 31 de octubre del año siguiente al de su presentación, con base en las conclusiones técnicas de los Informes del Resultado de la Revisión, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior, siga su curso;
+El Congreso concluirá la revisión de las Cuentas Públicas a más tardar el 31 de octubre del año siguiente al de su presentación, con base en las conclusiones técnicas de los Informes del Resultado de la Revisión, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior, siga su curso.
 
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 2011)</small>
 
@@ -1255,59 +1277,67 @@ XXXIII. Las demás facultades que le sean concedidas por esta Constitución.
 
 #### SECCION VI. DE LA AUDITORIA SUPERIOR
 
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
 
 ###### Artículo 56 Bis.
 
-La Auditoría Superior del Estado de Hidalgo, cuenta con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley.
+La Auditoría Superior del Estado de Hidalgo, cuenta con autonomía técnica, presupuestal y de gestión en el ejercicio de sus atribuciones para decidir sobre su organización interno (sic), funcionamiento y resoluciones en los términos dispuestos por la Ley. Es responsable de la revisión y fiscalización de las Cuentas Públicas conforme a los principios de legalidad, imparcialidad y confiabilidad en términos de la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes de la materia, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el Presupuesto y verificar el cumplimiento de los objetivos contenidos en los planes y programas y emitir las recomendaciones para la mejora del desempeño
 
-La función de fiscalización será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
+La Ley de la materia establecerá los mecanismos para sujetar a la Auditoría Superior del Estado a la verificación del cumplimiento de los principios de economía, eficacia y eficiencia en sus prácticas administrativas y técnicas de fiscalización. Su funcionamiento y organización será conforme a las siguientes bases:
 
-La Auditoría Superior tiene las siguientes atribuciones:
+A. La Auditoría Superior del Estado de Hidalgo tiene las siguientes atribuciones:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+I. Revisar y fiscalizar los ingresos, egresos, deuda, financiamientos, las garantías otorgadas respecto a empréstitos, el manejo, la custodia y la aplicación de recursos estatales y propios que ejerzan los Poderes del Estado, los Municipios, Entidades Paraestatales, Organismos Autónomos y demás entidades fiscalizadas; así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos y metas establecidos en la planeación para el desarrollo, conforme a los indicadores estratégicos y de gestión precisados en los respectivos planes y programas.
 
-I.- Fiscalizar en forma posterior los ingresos, egresos y deuda, el manejo, la custodia y la aplicación de recursos que ejerzan los Poderes del Estado, los Ayuntamientos, Entidades Paraestatales, Organismos Autónomos y demás entidades fiscalizadas.
+En caso de que el programa, proyecto o erogación contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de programas plurianuales, la entidad de fiscalización podrá solicitar y revisar de manera casuística y concreta información de ejercicios fiscales previos al de la cuenta en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada. Las recomendaciones y demás acciones derivadas sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
-Las Entidades fiscalizadas llevarán el control y registro contable, patrimonial y presupuestario de los recursos que les sean transferidos o asignados. Asimismo, facilitarán el auxilio que requiera la Auditoría Superior en el ejercicio de sus funciones, para tal efecto, deberán proporcionar la información y documentación que se les solicite de conformidad con los procedimientos establecidos en la Ley y sin perjuicio de la competencia de otras autoridades.
+La Auditoría Superior del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, en la forma y términos previstos por la ley de la materia; así como respecto de ejercicios fiscales anteriores, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deban referirse a la información definitiva reportada en la Cuenta Pública. De igual forma, para efectos de la planeación de las auditorías, podrá solicitar información del ejercicio fiscal en curso.
 
-II.- Realizar auditorías sobre el desempeño, emitiendo las recomendaciones correspondientes en los términos de Ley; las entidades fiscalizadas deberán precisar ante ésta, las mejoras realizadas o, en su caso, justificar su improcedencia.
+Fiscalizará de manera coordinada con la Auditoría Superior de la Federación los recursos federales ejercidos por el estado, los municipios y los demás que le competa revisar, otorgados o transferidos a las entidades fiscalizadas, cualesquiera que sean sus fines y destino, así como verificar su aplicación al objeto autorizado de conformidad a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes de la materia. En caso de que detecte irregularidades en el ejercicio de los mismos deberá hacerlo del conocimiento inmediato de la Auditoría Superior de la Federación, para los efectos legales que correspondan.
 
-Sin perjuicio del principio de anualidad la Auditoría Superior podrá solicitar y revisar de manera casuística y concreta, cuando el programa, proyecto o la erogación contenidos en el presupuesto en revisión, abarque para su ejecución y pago, diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de programas, utilizando información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada.
+Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión en los plazos y términos señalados por la ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma.
 
-Las observaciones, recomendaciones y demás acciones que al respecto emita la Auditoría Superior, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión y se sujetarán a los procedimientos y términos que establezca la Ley.
+II. Remitir al Congreso del Estado a través de la Comisión Inspectora, los siguientes informes:
 
-III.- Revisar los procesos concluidos que las entidades fiscalizadas reporten en los Informes de Avance de Gestión Financiera.
+a) Los informes individuales de auditoría, el último día hábil de los meses de junio y octubre, así como, el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública que concluya durante dichos periodos.
 
-De igual manera, sin perjuicio del principio de posterioridad, derivado de denuncias que presuman daño a la Hacienda Pública del Estado o del Municipio o al patrimonio de las entidades fiscalizadas, la Auditoría Superior podrá requerir a éstas procedan a la revisión, durante el Ejercicio Fiscal en curso, de los hechos motivo de la denuncia y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, se impondrán las sanciones previstas en la misma. La Auditoría Superior rendirá un informe específico al Congreso y en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
+b) Un informe general del resultado de la fiscalización superior, en la última fecha señalada en el inciso que antecede, y remitirá copia del mismo al Comité Coordinador y al Comité de Participación Ciudadana del Sistema Estatal Anticorrupción.
 
-IV.- Entregar al Congreso del Estado, los Informes del Resultado de la Revisión, a más tardar el último día hábil del mes de febrero del año siguiente al de la presentación de la Cuenta Pública. Dentro de dichos informes se incluirán las auditorías practicadas, los dictámenes de su revisión, los apartados correspondientes a la fiscalización del manejo de los recursos públicos por parte de las entidades fiscalizadas, la verificación del desempeño en el cumplimiento de los objetivos de los programas y el relativo a las observaciones de la Auditoría Superior, que incluya además las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
+c) El informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes a cada uno de los informes individuales de auditoría el primer día hábil de los meses de mayo y noviembre de cada año.
 
-V.- Dar a conocer a las entidades fiscalizadas, con antelación a la presentación de los Informes de Resultado, los resultados finales y las observaciones preliminares que se deriven de la fiscalización de la Cuenta Pública, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan en términos de la Ley, las cuales deberán ser valoradas por la Auditoría Superior para la elaboración del Informe del Resultado de la Revisión.
+d) Los informes relacionados con las denuncias presentadas respecto a las situaciones irregulares previstas en la Ley.
 
-VI.- Enviar a través del Auditor Superior a las entidades fiscalizadas y de ser procedente a otras autoridades competentes, las recomendaciones y acciones promovidas que correspondan a más tardar a los 10 días hábiles posteriores a que sean entregados al Congreso los Informes del Resultado de la Revisión, para que en un plazo de hasta 30 días hábiles contados a partir del siguiente en que se les notifique, presenten la información y realicen las consideraciones que estimen pertinentes, en caso de no hacerlo, se harán acreedores a las sanciones establecidas en Ley. Lo anterior no aplicará a los pliegos de observaciones y a las promociones de responsabilidades, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
+La Auditoría Superior del Estado de Hidalgo deberá guardar reserva de las actuaciones y observaciones hasta en tanto se rindan dichos informes, los cuales se referirán a la fiscalización, serán de carácter público y tendrán el contenido que determine la Ley, misma que establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
-En el caso de las recomendaciones al desempeño de las entidades fiscalizadas, deberán precisar ante la Auditoría Superior las mejoras o en su caso, justificar su improcedencia.
+III. Dar a conocer a las entidades fiscalizadas los resultados de su revisión antes de la presentación de los informes referidos en los incisos a y b de la fracción anterior, a efecto de que presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas y consideradas para la elaboración de dichos informes.
 
-La Auditoría Superior, deberá pronunciarse a más tardar en un plazo que no excederá de 90 días hábiles, sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
+Una vez entregados al Congreso los informes individuales, la Auditoría Superior del Estado enviará a las entidades fiscalizadas sus respectivos informes, para que presenten la información y realicen las consideraciones que estimen pertinentes, debiendo pronunciarse sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
 
-VII.- Entregar al Congreso del Estado, dentro de los primeros 15 días de los meses de febrero y agosto de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas.
+Tratándose de recomendaciones, las entidades fiscalizadas precisarán las mejoras realizadas, las acciones emprendidas o, en su caso, aportarán los argumentos y evidencias pertinentes para justificar su improcedencia.
 
-La Auditoria Superior, deberá guardar reserva de sus actuaciones hasta que se rindan los Informes del Resultado de la Revisión al Congreso; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+IV. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de recursos públicos, y en su caso promover las acciones que resulten procedentes ante el Tribunal de Justicia Administrativa y la Fiscalía Especializada en Delitos de Corrupción.
 
-También informará al Pleno del Congreso, a través de la Comisión, de las Cuentas Públicas que se encuentren pendientes o en proceso de fiscalización, explicando la razón por la que no se ha concluido.
+Para tal efecto podrá efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles, contratos, convenios, nombramientos, dispositivos magnéticos o electrónicos de almacenamiento de información, documentos y archivos necesarios, sujetándose a las leyes y a las formalidades establecidas para los cateos, así mismo, realizará entrevistas y reuniones con particulares o servidores públicos de las entidades fiscalizadas para conocer directamente el ejercicio de sus funciones.
 
-VIII.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso; control, administración y aplicación de recursos públicos que ejerzan los Poderes del Estado, los Ayuntamientos, Organismos Autónomos y demás entidades fiscalizadas; efectuar visitas domiciliarias para exigir únicamente la exhibición de libros, papeles, contratos, convenios, nombramientos, dispositivos magnéticos o electrónicos de almacenamiento de información, documentos y archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos, así como realizar entrevistas y reuniones con particulares o con los servidores públicos de las entidades fiscalizadas; necesarias para conocer directamente, el ejercicio de sus funciones. Asimismo, podrá imponer medidas de apremio a quienes incumplan sus requerimientos y con ello obstaculicen su función.
+V. Recibir peticiones, propuestas, solicitudes y denuncias fundadas y motivadas por la sociedad civil, las cuales podrán ser consideradas en el programa anual de auditorías y cuyos resultados deberán ser considerados en los informes individuales y, en su caso, en el Informe General. Dichas propuestas también podrán ser presentadas por conducto del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción.
 
-IX.- Determinar los daños y perjuicios que afecten a las Haciendas Públicas Estatal o Municipales o al patrimonio de las Entidades Estatales o Municipales y fincar a los responsables, las indemnizaciones y sanciones correspondientes; en su caso, promover ante las Autoridades competentes el fincamiento de otras, responsabilidades o las acciones de responsabilidad a que se refiere el Título Décimo de esta Constitución y presentar denuncias y querellas penales, conforme a la Ley de la materia.
+VI. Recurrir, en su caso, las determinaciones del Tribunal de Justicia Administrativa y de la Fiscalía Especializada en Delitos de Corrupción, en términos de las disposiciones legales aplicables;
 
-X.- Establecer y difundir los procedimientos y métodos de auditoría para la fiscalización de las Cuentas Públicas.
+VII. Establecer la coordinación necesaria con todos aquellos órganos que realicen actividades de control, fiscalización y auditoría gubernamental, ya sea interna o externa, de la Federación, Estatal o Municipal;
 
-El Congreso designará al titular de la Auditoría Superior a quien se le denominará Auditor Superior del Estado de Hidalgo, por el voto de las dos terceras partes de los miembros presentes; la Ley determinará el procedimiento para su designación. El Auditor Superior durará en su encargo siete años y podrá ser nombrado nuevamente por una sola vez. La renuncia o remoción por las causas graves que la Ley señale, deberán ser aprobadas con el mismo número de votos requeridos para su nombramiento, además de lo previsto en el Titulo Décimo de esta Constitución.
+VIII. Elaborar su programa anual de auditorías, así como el proyecto de presupuesto anual que considere los recursos necesarios y suficientes para cumplir con su encargo; y
 
-Las ausencias, remoción, falta absoluta y renuncia del Auditor Superior se regirán por lo dispuesto en la Ley de la Auditoría Superior del Estado de Hidalgo.
+IX. Las demás que señalen las leyes.
 
-Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones, científicas, docentes, artísticas o de beneficencia.
+B. El Congreso designará al titular de la Auditoría Superior a quien se le denominará Auditor Superior del Estado de Hidalgo, por el voto de las dos terceras partes de las y los Diputados presentes; la Ley determinará los requisitos y el procedimiento para su designación. El Auditor Superior durará en su encargo siete años y no podrá ser nombrado nuevamente, deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades. La renuncia o remoción por las causas graves que la Ley señale, deberán ser aprobadas con el mismo número de votos requeridos para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Décimo de esta Constitución.
+
+Las ausencias, remoción, falta absoluta y renuncia del Auditor Superior se regirán por lo dispuesto en la ley secundaria de la materia.
+
+Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+
+C. Las Entidades Fiscalizadas facilitarán los auxilios que requiera la Auditoría Superior del Estado de Hidalgo para el ejercicio de sus funciones. Asimismo, los servidores públicos del Estado y de los Municipios, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos, deberán proporcionar la información y documentación que solicite la Auditoría Superior del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+
+En caso de incumplimiento a lo dispuesto en el presente artículo, los responsables serán sancionados en los términos que establezca la Ley.
 
 (REFORMADA SU DENOMINACIÓN [N. DE E. REUBICADA, ANTES SECCIÓN VI], P.O. 21 DE SEPTIEMBRE DE 2009) (F. DE E., P.O. 15 DE FEBRERO DE 2010)
 
@@ -1335,13 +1365,13 @@ Son facultades de la Diputación Permanente:
 
 I. Convocar a sesiones extraordinarias por sí o a solicitud formulada por el Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
-II. Conceder licencia al Gobernador del Estado cuando sea por un lapso mayor de un mes y a los Diputados, Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo, así como a los Consejeros del Consejo de la Judicatura, al Procurador General de Justicia y al Subprocurador de Asuntos Electorales, cuando sea por un periodo mayor de tres meses;
+II. Conceder licencia al Gobernador del Estado cuando sea por un lapso mayor de un mes y a los Diputados, Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, así como a los Consejeros del Consejo de la Judicatura, al Auditor Superior, al Procurador General de Justicia, al Fiscal Especializado en Delitos Electorales y al Fiscal Especializado en Delitos de Corrupción cuando sea por un periodo mayor de tres meses;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
-III. Recibir la protesta al Cargo de Gobernador y Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo, Consejeros del Consejo de la Judicatura, así como al Procurador General de Justicia y al Subprocurador de Asuntos Electorales;
+III. Recibir la protesta al Cargo de Gobernador y Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, Consejeros del Consejo de la Judicatura, así como al Procurador General de Justicia, al Fiscal Especializado en Delitos Electorales y Fiscal Especializado en Delitos de Corrupción
 
 > <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1357,9 +1387,9 @@ VI. Nombrar con carácter interino al Auditor Superior del Estado de Hidalgo;
 
 VII. Nombrar Gobernador Provisional en los casos previstos por esta Constitución;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
-VIII. Conocer en su caso, la propuesta del Ejecutivo para nombrar a los Magistrados del Tribunal Superior de Justicia y Tribunal Fiscal Administrativo, de la renuncia de estos a su encargo. Así como la lista de propuestas que presente el titular del Ejecutivo para el nombramiento de Procurador General de Justicia del Estado y de Subprocurador de Asuntos Electorales, y de su renuncia o remoción;
+VIII. Conocer en su caso, la propuesta del Ejecutivo para nombrar a los Magistrados del Tribunal Superior de Justicia y Tribunal de Justicia Administrativa, de la renuncia de estos a su encargo. Así como las listas de propuestas que presente el titular del Ejecutivo para el nombramiento de Procurador General de Justicia del Estado, Fiscal Especializado en Delitos Electorales y Fiscal Especializado en Delitos de Corrupción de su renuncia o remoción;
 
 IX. (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
@@ -1415,13 +1445,11 @@ IV. No pertenecer al Estado eclesiástico, ni ser ministro de culto religioso;
 
 V. No ser militar en servicio activo o ciudadano con mando de los cuerpos de Seguridad Pública; en ambos casos, dentro de los noventa días anteriores a la fecha de la elección;
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
-VI. No ser Servidor Público Federal o Local, Secretario de Despacho del Ejecutivo, Procurador General de Justicia del Estado, Subprocurador General de Justicia, Magistrado del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo, Consejero del Consejo de la Judicatura, Diputado Local o Presidente Municipal en funciones, a menos que se hayan separado de su encargo, noventa días naturales antes de la fecha de la elección.
+VI. No ser Servidor Público Federal o Local, Secretario de Despacho del Ejecutivo, Procurador General de Justicia del Estado, Subprocurador General de Justicia, Fiscal Especializado en Delitos de Corrupción, Magistrado del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, Consejero del Consejo de la Judicatura, Diputado Local o Presidente Municipal en funciones, a menos que se hayan separado de su encargo, noventa días naturales antes de la fecha de la elección.
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2007)</small>
-
-No ser Consejero Electoral, Subprocurador de Asuntos Electorales, integrante de la Junta Estatal Ejecutiva del Instituto Estatal Electoral y Magistrado del Tribunal Electoral del Poder Judicial del Estado, a menos que se separen de su cargo un año antes del inicio del proceso electoral de que se trate.
+No ser Consejero Electoral, Fiscal Especializado en Delitos Electorales, integrante de la Junta Estatal Ejecutiva del Instituto Estatal Electoral y Magistrado del Tribunal Electoral del Poder Judicial del Estado, a menos que, se separen de su cargo un año antes del inicio del proceso electoral de que se trate.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -1511,11 +1539,13 @@ IV. Solicitar al Congreso de la Unión el consentimiento al cual se refiere la f
 
 V. Informar al Congreso, por escrito o verbalmente, por conducto del Secretario del ramo, sobre los asuntos de la administración, cuando el mismo Congreso lo solicite;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
-VI. Remitir al Congreso a mas tardar el 31 de marzo de cada año, la Cuenta Pública del Estado, correspondiente al año anterior;
+VI. Remitir al Congreso a más tardar el 30 de abril de cada año la Cuenta Pública del Estado correspondiente al año anterior, salvo lo previsto por la Ley de la materia;
 
-VII. Facilitar a los Poderes Legislativo y Judicial los elementos necesarios para el ejercicio expedito de sus funciones;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+
+VII. Facilitar a los Poderes Legislativo y Judicial, así como a los Organismos Autónomos los elementos necesarios para el ejercicio expedito de sus funciones;
 
 VIII. Ordenar que se cumplan las sentencias ejecutoriadas de los Tribunales;
 
@@ -1529,17 +1559,17 @@ X. Mandar las fuerzas de seguridad pública del Estado y dictar órdenes a las p
 
 XI. Resolver las dudas que tuvieren los agentes de la Administración Pública, sobre la aplicación de las Leyes a casos particulares;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
-XII. Nombrar y remover libremente a los Secretarios de Despacho y a todos los empleados y funcionarios, que conforme a la Constitución y a las leyes, no deban ser nombrados por otra autoridad;
+XII. Nombrar y remover libremente a los Secretarios de Despacho, con excepción del titular de la dependencia encargada del control interno cuyo nombramiento deberá ser ratificado por el Congreso, así como a todos los empleados y funcionarios, que, conforme a la Constitución y a las leyes, no deban ser nombrados por otra autoridad;
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
 XIII. Nombrar a los funcionarios y agentes integrantes de las fuerzas de seguridad pública Estatal y a los responsables de los servicios públicos del gobierno, que en todos los casos se considerarán como empleados de confianza;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
-XIV. Nombrar a los Magistrados del Tribunal Superior de Justicia y Tribunal Fiscal Administrativo con la aprobación del Congreso del Estado y recibir sus renuncias para tramitarlas en términos de Ley;
+XIV. Nombrar a los Magistrados del Tribunal Superior de Justicia y Magistrados del Tribunal de Justicia Administrativa con la aprobación del Congreso del Estado y recibir sus renuncias para tramitarlas en términos de Ley;
 
 > <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 1991)</small>
 
@@ -1665,17 +1695,13 @@ LIII. Realizar, promover y alentar los programas de prevención, erradicación, 
 
 LIV. Las demás que le confiera esta Constitución y la General de la República.
 
-> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MAYO DE 2017)</small>
 
-#### SECCION III. DE LAS DEPENDENCIAS DEL EJECUTIVO
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+#### SECCION III. DE LAS DEPENDENCIAS Y ENTIDADES DEL EJECUTIVO
 
 ###### Artículo 72.
 
-El titular del Ejecutivo, previa consulta a las agrupaciones de abogados registradas en la Entidad, someterá al Congreso del Estado o a la Diputación Permanente en su caso, la lista de propuestas de candidatos para ocupar los cargos de Procurador General de Justicia del Estado y Sub-procurador de Asuntos Electorales, cuyos nombramientos deberán resolverse en el término de diez días.
-
-Si el Congreso del Estado o la Diputación Permanente en su caso, nada resolvieren dentro del plazo señalado, el Titular del Ejecutivo nombrará al Procurador General de Justicia y Sub-procurador de Asuntos Electorales hasta en tanto el Congreso nombre a los titulares, quienes deberán rendir la protesta de ley ante el Congreso del Estado.
+(DEROGADO, P.O. 22 DE MAYO DE 2017)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE AGOSTO DE 1995)</small>
 
@@ -1683,7 +1709,9 @@ Si el Congreso del Estado o la Diputación Permanente en su caso, nada resolvier
 
 La Administración Pública del Estado, será centralizada y paraestatal de acuerdo a la Ley Orgánica que expida el Congreso, la que establecerá las dependencia (sic) y entidades necesarias para el despacho de los asuntos del Ejecutivo Estatal y los requisitos que deberán cumplir los servidores públicos.
 
-En todo caso, las dependencias de la Administración Pública centralizada y las entidades de la Administración Pública paraestatal deberán planear, programar y conducir sus actividades con sujeción a los objetivos y prioridades de la planeación de desarrollo estatal.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
+
+Las dependencias de la Administración Pública Centralizada y las entidades de la Administración Pública paraestatal deberán planear, programar y conducir sus actividades con sujeción a los objetivos y prioridades de la planeación de desarrollo estatal. Deberán contar con un órgano interno de control para vigilar que los recursos públicos sean administrados y ejercidos de acuerdo con las normas establecidas para tal efecto, fomentar la rendición de cuentas en el ejercicio de sus funciones y vigilar el cumplimiento de las acciones producto de las evaluaciones sobre los objetivos planteados en el proceso de planeación. Los titulares de los órganos de control estarán adscritos jerárquica, funcional y presupuestalmente a la dependencia encargada del control interno del Ejecutivo, el cual implementará las medidas necesarias para la profesionalización de sus miembros.
 
 ###### Artículo 74.
 
@@ -1723,11 +1751,11 @@ El Gobernador podrá delegar en cualquier funcionario, las facultades otorgadas 
 
 #### SECCION IV. DE LA PLANEACION ESTATAL DEL DESARROLLO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2017)</small>
 
 ###### Artículo 82.
 
-Corresponde al Gobierno Estatal la rectoría del desarrollo de la Entidad, para garantizar que sea integral, fortalezca su economía, su régimen democrático, la ocupación y una más justa distribución del ingreso, permitiendo el ejercicio de la libertad y la dignidad de los individuos, grupos y clases sociales, así como el ejercicio efectivo de los derechos humanos, dentro de lo que prescribe la Constitución General de la República, la particular del estado y las Leyes que de ellas emanen.
+Corresponde al Gobierno Estatal la rectoría del desarrollo de la Entidad, para garantizar que sea integral, fortalezca su economía, su régimen democrático, la ocupación y una más justa distribución del ingreso, permitiendo el ejercicio de la libertad y la dignidad de los individuos, grupos y clases sociales, así como el ejercicio efectivo de los derechos humanos y la rendición de cuentas, bajo los principios de transparencia y austeridad, dentro de lo que prescribe la Constitución General de la República, la particular del estado y las Leyes que de ellas emanen.
 
 El Estado programará, planeará, conducirá, coordinará y orientará la actividad económica en la Entidad, y regulará fomentará las actividades que demande el interés público sin menoscabo de las libertades y derechos que otorgan esta Constitución y la General de la República.
 
@@ -1763,11 +1791,13 @@ La Federación podrá concurrir al desarrollo de la Entidad, en forma coordinada
 
 En un sistema de economía mixta, el Gobierno Estatal, bajo normas de equidad social, producción y productividad, dará protección, apoyo, ayuda y estímulos a las empresas de los sectores social, y privado, sujetándolos a las modalidades que dicte el interés público, cuando contribuyan al desarrollo económico y social, en beneficio de la colectividad, procurando que en el aprovechamiento de los recursos se cuide su conservación y el medio ambiente.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2017)</small>
 
 ###### Artículo 85.
 
-El desarrollo integral del Estado se llevará a cabo mediante un sistema de planeación democrática, que imprima solidez, dinamismo, permanencia y equidad a dicho desarrollo.
+El desarrollo integral del Estado se llevará a cabo mediante un sistema de planeación democrática, que imprima solidez, dinamismo, permanencia y equidad, promoviendo en todo momento la rendición de cuentas bajo los principios de transparencia y austeridad, como parte esencial del desarrollo.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1987)</small>
 
 Los objetivos de la planeación estatal estarán determinados por los principios rectores del proyecto nacional, contenido en la Constitución Política de los Estados Unidos Mexicanos, así como en los fines contenidos en esta Constitución, teniendo a conservar, en todo caso, la autonomía de la entidad, e impulsar la democratización política, social y cultural de la población.
 
@@ -1813,7 +1843,7 @@ Artículo 88d. (DEROGADO, P.O. 1 DE OCTUBRE DE 1987)
 
 ### CAPITULO III. DEL PODER JUDICIAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2017)</small>
 
 ###### Artículo 89.
 
@@ -1835,25 +1865,51 @@ El Ministerio Público sólo podrá solicitar al Juez la prisión preventiva cua
 
 El Ministerio Público estará presidido por un Procurador General y su organización estará determinada por la Ley Orgánica correspondiente.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
 
 ###### Artículo 92.
 
-Para ser Procurador General de Justicia del Estado y Subprocurador de Asuntos Electorales, se requiere:
+El Procurador General de Justicia, el Fiscal Especializado en Delitos Electorales y el Fiscal Especializado en Delitos de Corrupción deberán rendir la protesta de Ley ante el Congreso del Estado o la Diputación Permanente en su caso, y durarán en su encargo 5 años, y solo podrán ser removidos en los términos previstos por esta Constitución por la comisión de delitos, faltas administrativas graves y por el incumplimiento grave de sus atribuciones en perjuicio de los intereses fundamentales y de su buen despacho.
+
+A. Para ser Procurador General de Justicia del Estado, Fiscal Especializado en Delitos Electorales o Fiscal Especializado en Delitos de Corrupción, se requiere:
 
 I. Ser hidalguense en pleno goce de sus derechos;
 
-II. Ser licenciado en derecho con título legalmente expedido y acreditar un ejercicio profesional de 5 años, cuando menos;
+II. Tener cuando menos 35 años cumplidos al día de su designación;
 
-III. Tener modo honesto de vivir; y
+III. Contar con una residencia en el Estado de Hidalgo de al menos tres años a la fecha de la designación;
 
-IV. No haber sido condenado por delitos dolosos o faltas graves administrativas.
+IV. Ser Licenciado en Derecho con título legalmente expedido con una antigüedad mínima de 5 años; y
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+V. No haber sido condenado por delitos dolosos o faltas administrativas graves.
 
-El Procurador General de Justicia y el Sub-procurador de Asuntos Electorales, duraran en su cargo tres años; deberán rendir la protesta de ley ante el Congreso del Estado o la Diputación Permanente en su caso, pudiendo ser ratificados por el primero.
+B. Los nombramientos del Procurador General de Justicia y del Fiscal Especializado en Delitos Electorales se sujetarán a las siguientes bases:
 
-Solo podrán ser removidos en los términos previstos por esta Constitución; por la comisión de delitos; por faltas establecidas en las leyes vigentes y por incumplimiento grave de sus atribuciones de ley calificado así, por el pleno del Tribunal Superior de Justicia, a solicitud del Congreso o a virtud de la demanda que al efecto formule el titular del Ejecutivo ante el Congreso del Estado.
+I. El Titular del Poder Ejecutivo someterá a consideración del Congreso del Estado una lista de cuando menos cinco candidatos;
+
+II. El Congreso designará a quien deba ocupar los cargos referidos, previa comparecencia de los candidatos propuestos; y
+
+III. Si pasados diez días de haber sido enviada la lista de candidatos el Congreso no realizare los nombramientos respectivos, las designaciones corresponderán al titular del Poder Ejecutivo.
+
+C. La Procuraduría General de Justicia contará con la Fiscalía Especializada en Delitos de Corrupción, la cual tendrá autonomía técnica y funcional para la investigación y persecución de los delitos de su competencia, así como para el ejercicio de la acción penal ante las autoridades competentes.
+
+La persona que ocupe el cargo de Fiscal Especializado en Delitos de Corrupción, además de los requisitos establecidos en el apartado A de este artículo, no debe haber ocupado cargos de dirigencia partidista al menos dos años previos al día de su designación, la cual se sujetará al siguiente procedimiento:
+
+I. El Congreso del Estado emitirá una Convocatoria Pública abierta para integrar una lista de al menos diez candidatos al cargo aprobada por las dos terceras partes de los Diputados presentes, en un plazo no mayor a veinte días a partir del cierre de la convocatoria, la cual enviará al Titular del Ejecutivo del Estado.
+
+Si el Ejecutivo no recibe la lista en un plazo de diez días a partir de concluido el plazo referido en el párrafo anterior, enviará libremente al Congreso del Estado una terna y designará provisionalmente al Fiscal Especializado en Delitos de Corrupción, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo;
+
+II. Recibida la lista a que se refiere la fracción anterior, dentro de los diez días siguientes el Titular del Ejecutivo formulará una terna y la enviará a la consideración del Congreso;
+
+III. El Congreso, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal Especializado en Delitos de Corrupción con el voto de las dos terceras partes de los Diputados, dentro del plazo de diez días.
+
+En caso de que el Ejecutivo no envíe la terna a que se refiere la fracción anterior, el Congreso tendrá diez días para designar al Fiscal Especializado en Delitos de Corrupción de entre los candidatos de la lista que señala la fracción I.
+
+Si el Congreso no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará al Fiscal Especializado en Delitos de Corrupción de entre los candidatos que integren la lista o, en su caso, la terna respectiva;
+
+IV. En los recesos del Congreso, la Diputación Permanente convocará a sesiones extraordinarias para la designación del Fiscal Especializado en Delitos de Corrupción, y
+
+V. Las ausencias del Fiscal Especializado en Delitos de Corrupción, serán suplidas en los términos que determine la ley.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 3 DE NOVIEMBRE DE 2014)</small>
 
@@ -1879,7 +1935,7 @@ Las policías de investigación actuarán bajo la conducción y el mando del Min
 
 ###### Artículo 93.
 
-Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Jueces del Fuero Común y en un Tribunal Fiscal Administrativo, en los términos de esta Constitución y su Ley Orgánica.
+Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Jueces del Fuero Común y en un Tribunal de Justicia Administrativa, en los términos de esta Constitución y su Ley Orgánica.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
 
@@ -1891,15 +1947,17 @@ El desempeño de la función jurisdiccional, en los asuntos del fuero común, lo
 
 I. El Tribunal Superior de Justicia y jueces del fuero común;
 
-II. El Tribunal Fiscal Administrativo;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+
+II. El Tribunal de Justicia Administrativa;
 
 III. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2014)
 
 IV. Los demás funcionarios y auxiliares de la administración de justicia en los términos que establezcan las Leyes.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
 
-La administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia y el Tribunal Fiscal Administrativo, estará a cargo del Consejo de la Judicatura, en los términos que, conforme a las bases que señala esta Constitución, establezcan las Leyes.
+La administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, estará a cargo del Consejo de la Judicatura, en los términos que, conforme a las bases que señala esta Constitución, establezcan las Leyes.
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2006)</small>
 
@@ -1909,15 +1967,15 @@ Los magistrados y los jueces en el Estado, tendrán independencia en el ejercici
 
 Las leyes garantizarán a dichos servidores públicos una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo, así como los reconocimientos al desempeño de su función, que les aseguren el digno ejercicio de la misma y establecerán las condiciones para su ingreso, formación y permanencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2017)</small>
 
 ###### Artículo 94.
 
-El Tribunal Superior de Justicia, el Tribunal Fiscal Administrativo y el Tribunal Electoral estarán integrados por el número de magistrados que establezcan las leyes orgánicas respectivas.
+El Tribunal Superior de Justicia, el Tribunal de Justicia Administrativa y el Tribunal Electoral estarán integrados por el número de magistrados que establezcan las leyes orgánicas respectivas.
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
 
-Los magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo, serán nombrados por el Gobernador del Estado con la aprobación del Congreso, en los términos de esta Constitución.
+Los magistrados del Poder Judicial del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, serán nombrados por el Gobernador del Estado con la aprobación del Congreso, en los términos de esta Constitución.
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -1967,11 +2025,11 @@ IX. (DEROGADA, P.O. 3 DE MARZO DE 2014)
 
 Los nombramientos de los magistrados y jueces serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes, en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2017)</small>
 
 ###### Artículo 96.
 
-Los nombramientos de Magistrados del Tribunal Superior de Justicia y Tribunal Fiscal Administrativo, que el Gobernador someta al Congreso del Estado, será (sic) aprobados o no dentro del improrrogable término de diez días.
+Los nombramientos de Magistrados del Tribunal Superior de Justicia y Tribunal de Justicia Administrativa, que el Gobernador someta al Congreso del Estado, serán aprobados o no dentro del improrrogable término de diez días.
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
@@ -2001,21 +2059,21 @@ III. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2014)
 
 IV. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2017)</small>
 
 ###### Artículo 97.
 
-Los magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo, durarán en el ejercicio de su cargo seis años a partir de su nombramiento; podrán ser reelectos y si lo fueren sólo podrán ser privados de sus puestos en los términos que determina esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado. La duración de los magistrados del Tribunal Electoral en el ejercicio de su cargo, se determinará por lo dispuesto en la ley orgánica.
+Los magistrados del Tribunal Superior de Justicia y Tribunal de Justicia Administrativa, durarán en el ejercicio de su cargo seis años a partir de su nombramiento; podrán ser reelectos y si lo fueren sólo podrán ser privados de sus puestos en los términos que determinan esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado. La duración de los Magistrados del Tribunal Electoral en el ejercicio de su cargo, se determinará por lo dispuesto en la Ley orgánica.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
 Obtendrán su jubilación al totalizar 60 años, sumando su edad a la antigüedad en el servicio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2017)</small>
 
 ###### Artículo 98.
 
-Los Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal, así como los Consejeros del Consejo de la Judicatura, otorgarán la protesta de Ley ante el Congreso del Estado.
+Los Magistrados del Tribunal Superior de Justicia y Tribunal de Justicia Administrativa, así como los Consejeros del Consejo de la Judicatura, otorgarán la protesta de Ley ante el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2006)</small>
 
@@ -2071,13 +2129,41 @@ XII Bis.- Resolver los conflictos sobre límites territoriales que se susciten e
 
 XIII. Las demás que le confieran esta Constitución y las leyes que de ella emanen.
 
-B. Son facultades del Tribunal Fiscal Administrativo:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2017)</small>
 
-I. Dirimir las controversias que se susciten en materia fiscal y administrativa entre la Administración Pública Estatal o Municipal y los particulares. En ningún caso podrá sustituirse a la autoridad administrativa;
+B. Son facultades del Tribunal de Justicia Administrativa:
 
-II. Conocer de los recursos que establezca la ley de la materia y
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
-III. Las demás que le confieran esta Constitución y las leyes que de ella emanen.
+I. Dirimir las controversias que se susciten en materia fiscal y administrativa entre la Administración Pública Estatal o Municipal y los particulares.
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+
+II. Conocer de las acciones de responsabilidad administrativa promovidas por la Auditoría Superior del Estado, la Secretaría de Contraloría y los Órganos Internos de Control Estatales y Municipales por faltas administrativas clasificadas como graves;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+
+III. Sustanciar los procesos respectivos, y en su caso, imponer las sanciones que correspondan a los servidores públicos y particulares por actos, hechos u omisiones vinculados con faltas administrativas graves;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2017)</small>
+
+IV. Determinar e imponer las sanciones económicas e indemnizaciones que correspondan cuando se hayan causado daños o perjuicios al Patrimonio o a la Hacienda Pública del Estado o Municipios, en las cuales deberá considerarse el lucro obtenido y la reparación de los daños y perjuicios causados;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2017)</small>
+
+V. Asegurar la recuperación de los activos que hayan sido objeto, instrumento, producto o estén relacionadas con las faltas administrativas graves en los términos de ley de la materia, con independencia de las sanciones administrativas que correspondan;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2017)</small>
+
+VI. Conocer y resolver las controversias que se susciten sobre responsabilidad patrimonial del Estado y de los Municipios;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2017)</small>
+
+VII. Conocer de los recursos que establezca la Ley de la materia; y
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2017)</small>
+
+VIII. Las demás que le confieran esta Constitución y las leyes que de ella emanen.
 
 C. Son facultades del Tribunal Electoral resolver en forma definitiva en los términos de esta Constitución y según lo disponga la ley sobre:
 
@@ -2105,9 +2191,9 @@ El Consejo de la Judicatura será un Órgano del Poder Judicial con independenci
 
 El Consejo se integrará por cinco Consejeros, de los cuales, uno será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo; un Magistrado y un Juez del Orden Común, designados por el Pleno del mismo Tribunal; un Consejero designado por el Congreso del Estado y un Consejero designado por el Gobernador del Estado.
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
 
-Los Consejeros del Consejo de la Judicatura, durarán en el ejercicio de su cargo cinco años a partir de su nombramiento y sólo podrán ser privados de su puesto, en los términos que determine esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Los Consejeros del Consejo de la Judicatura, durarán en el ejercicio de su cargo cinco años a partir de su nombramiento y solo podrán ser privados de su puesto, en los términos que determine esta Constitución y las leyes en materia de Responsabilidad Administrativa.
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2006)</small>
 
@@ -2141,7 +2227,9 @@ I.- Discutir, aprobar y modificar en su caso, el Proyecto de Presupuesto de Egre
 
 II.- Nombrar, adscribir, ratificar y remover Jueces de Primera Instancia, de acuerdo a lo establecido en la Ley;
 
-III.- Nombrar y remover, de conformidad con lo establecido en la Ley, a los funcionarios y empleados del Poder Judicial, con excepción de los del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+
+III.- Nombrar y remover, de conformidad con lo establecido en la Ley, a los funcionarios y empleados del Poder Judicial, con excepción de los del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa y del Tribunal Electoral.
 
 IV.- Determinar la creación de nuevos Juzgados;
 
@@ -2149,7 +2237,9 @@ V.- Implementar las medidas adecuadas para la formación de funcionarios y el de
 
 VI.- Expedir los acuerdos generales para su adecuado funcionamiento. El Tribunal Superior de Justicia podrá solicitar al Consejo, que expida los acuerdos generales que considere necesarios, para el adecuado ejercicio de la función jurisdiccional, así como revisar y revocar los acuerdos del Consejo;
 
-VII.- Conocer de las acusaciones o quejas que se presenten en contra de los funcionarios y empleados del Poder Judicial, con excepción de los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, haciendo la substanciación correspondiente, de acuerdo con el procedimiento que señale esta Constitución y las Leyes respectivas;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+
+VII.- Conocer de las acusaciones o quejas que se presenten en contra de los funcionarios y empleados del Poder Judicial, con excepción de los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa y del Tribunal Electoral, haciendo la substanciación correspondiente, de acuerdo con el procedimiento que señale esta Constitución y las Leyes respectivas.
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 23 DE ABRIL DE 2007)</small>
 
@@ -2317,6 +2407,10 @@ Los Municipios participarán en la formulación de planes de desarrollo regional
 
 Cada Municipio deberá formular y expedir su Plan y Programa de Desarrollo Municipal en los términos que fijen las leyes.
 
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2017)</small>
+
+Los Municipios formarán parte del Sistema Estatal Anticorrupción, y deberán contar con un órgano interno de control.
+
 > <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 116.
@@ -2465,9 +2559,9 @@ VI. No ser ministro de culto religioso alguno, ni pertenecer al estado eclesiás
 
 VII. Saber leer y escribir y
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
-VIII. En el caso de los Consejeros Electorales, el Subprocurador de Asuntos Electorales, los integrantes de la Junta Estatal Ejecutiva del Instituto Estatal Electoral y los Magistrados del Tribunal Electoral, deberán separarse de su cargo un año antes del inicio del proceso electoral de que se trate.
+VIII. En el caso de los Consejeros Electorales, el Fiscal Especializado en Delitos Electorales, los integrantes de la Junta Estatal Ejecutiva del Instituto Estatal Electoral y los Magistrados del Tribunal Electoral, deberán separarse de su cargo un año antes del inicio del proceso electoral de que se trate.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -2667,9 +2761,9 @@ IX. Formular anualmente su proyecto de Ley de Ingresos, que será sometido a la 
 
 X. Analizar y Aprobar en su caso, el Presupuesto de Egresos, que cada año le será presentado por el Presidente Municipal, así como la cuenta comprobada de gastos mensuales del ejercicio en curso, en los términos que señale la ley;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
-XI. Presentar a la Auditoría Superior del Estado a más tardar el 31 de marzo de cada año, la Cuenta Pública del año anterior, con excepción a la correspondiente a la del tercer año de ejercicio, que deberá presentar a más tardar el 15 de febrero;
+XI. Presentar al Congreso del Estado a más tardar el 30 de abril de cada año, la Cuenta Pública del año anterior, salvo lo previsto por la Ley;
 
 XII. Vigilar el cumplimiento del Plan Estatal de Desarrollo y los programas sectoriales, regionales y especiales en lo que respecta a su municipio, así como cumplir su Programa Municipal de Desarrollo;
 
@@ -2837,11 +2931,15 @@ Para los efectos de la responsabilidad se reputarán como servidores públicos a
 
 El Gobernador del Estado, los Diputados Locales, los Magistrados del Tribunal Superior de Justicia, los Consejeros del Consejo de la Judicatura, los integrantes de los ayuntamientos, así como los miembros de los organismos autónomos, serán responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos, a esta Constitución y a las leyes federales y locales, así como por el manejo indebido de fondos y recursos federales.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2012) (F. DE E., P.O. 3 DE MARZO DE 2014)
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2017)</small>
+
+Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial, de intereses y fiscal, ante las autoridades competentes y en los términos que determine la ley de la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2017)</small>
 
 ###### Artículo 150.
 
-Serán sujetos de juicio político: las Diputadas y los Diputados al Congreso Local, el Auditor Superior, las y los titulares de la administración municipal, las y los Síndicos Procuradores, las Regidoras y los Regidores, las Magistradas y los Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal Fiscal Administrativo y del Tribunal Electoral, las Secretarias y los Secretarios del despacho del Poder Ejecutivo, la o el titular de la Procuraduría General de Justicia, así como de la Subprocuraduría de Asuntos Electorales y quienes tengan a su cargo las Coordinaciones creadas por el Ejecutivo, la Consejera o el Consejero Presidente, las y (sic) Consejeras y los Consejeros Electorales y quien tenga la titularidad de la Secretaría Ejecutiva del Instituto Estatal Electoral, las y los directores generales o sus equivalentes de los organismos públicos autónomos y descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a estas, fideicomisos públicos de esta entidad federativa, las y los titulares de los juzgados de primera instancia por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo y serán responsables por la Comisión de los delitos del orden común y de las violaciones graves a derechos humanos que se cometan durante su gestión.
+Serán sujetos de juicio político: las Diputadas y los Diputados del Congreso Local, el Auditor Superior, las y los titulares de la administración municipal, las y los Síndicos, las Regidoras y los Regidores, las Magistradas y los Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal de Justicia Administrativa y del Tribunal Electoral, las Secretarías y los Secretarios del despacho del Poder Ejecutivo, la o el titular de la Procuraduría General de Justicia, la Fiscalía Especializada en Delitos Electorales, así como la Fiscalía Especializada en Delitos de Corrupción y quienes tengan a su cargo las Coordinaciones creadas por el Ejecutivo, las y los directores generales o sus equivalentes de los organismos públicos autónomos y descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a estas, fideicomisos públicos de esta entidad federativa, las y los titulares de los juzgados de primera instancia por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo y serán responsables por la Comisión de los delitos del orden común y de las violaciones graves a derechos humanos que se cometan durante su gestión.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
 
@@ -2851,27 +2949,45 @@ Para proceder por responsabilidad en la comisión de delitos del orden común co
 
 Las sanciones que se impondrán mediante juicio político, cuando los servidores públicos, en el ejercicio de sus funciones, por sus actos y omisiones perjudiquen a los intereses públicos fundamentales o a su buen despacho, consistirán en la destitución del servidor y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 22 DE MAYO DE 2017)</small>
 
-No procede el juicio político, por la mera expresión de las ideas.
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2017)</small>
 
 ###### Artículo 151.
 
-La comisión de delitos del fuero común por cualquier servidor público, será perseguida y sancionada en los términos de la Legislación Penal, y tratándose de delitos cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido o con la necesidad de satisfacer los daños y perjuicios originados por su conducta ilegal. Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+La comisión de delitos del fuero común por cualquier servidor público o particulares será perseguida y sancionada en los términos de la Legislación Penal, y tratándose de delitos cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido o con la necesidad de satisfacer los daños y perjuicios originados por su conducta ilegal. Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad y eficiencia que deban de observar en el desempeño de sus empleos, carros (sic) o comisiones.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+
 Los procedimientos para la aplicación de las sanciones mencionadas, se desarrollarán pronta y expeditamente. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
 
 ###### Artículo 152.
 
-Las Leyes determinarán los casos y las circunstancias en los que se debe sancionar penalmente por causas de enriquecimiento ilícito a los servidores públicos, que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona aumenten substancialmente su patrimonio, adquieran o se conduzcan como dueños sobre bienes, cuya procedencia no pudieran justificar lícitamente.
+El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades locales y municipales competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-Las Leyes penales en estos casos, sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado de Hidalgo; de la Fiscalía Especializada en Delitos de Corrupción; de la Secretaría de Contraloría; del Tribunal de Justicia Administrativa; del Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado; así como por un representante del Consejo de la Judicatura del Estado, otro del Comité de Participación Ciudadana, quien lo presidirá y por lo menos tres titulares de las instancias municipales designadas para tal efecto;
+
+II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley, y
+
+III. Corresponderá al Comité Coordinador del Sistema, en los términos que determine la Ley:
+
+a. La operación de mecanismos de coordinación con el Sistema Nacional Anticorrupción;
+
+b. El diseño y promoción de políticas estatales integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
+
+c. La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes de los órdenes de gobierno;
+
+d. El establecimiento de bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos;
+
+e. La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+
+f. Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades estatales y municipales, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -2881,23 +2997,45 @@ Siempre que se trate de los funcionarios mencionados en los Artculos (sic) 149 p
 
 Si la resolución de la Cámara fuese negativa, se suspenderá todo procedimiento ulterior, pero no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el culpable haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la acusación.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
 
 ###### Artículo 154.
 
-En las faltas graves administrativas cometidas por los mismos funcionarios a que se refiere el precepto legal anterior, conocerá la Legislatura del Estado; tanto en este caso, como en los que especifica el Artículo que precede a éste, conocerá el Congreso como órgano de acusación y el Tribunal Superior de Justicia del Estado como Jurado de Sentencia, con sujeción a lo previsto en la ley reglamentaria de la materia.
+Los servidores públicos y particulares que incurran en responsabilidad frente al Estado, serán sancionados conforme a lo siguiente:
 
-En las demandas del orden civil no hay fuero ni inmunidad para ningún servidor público del Estado.
+I.- Se impondrán, mediante juicio político, las sanciones indicadas en el artículo 150 a los servidores públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2006)</small>
+No procede el juicio político por la mera expresión de ideas.
 
-El procedimiento de juicio político, sólo podrá iniciarse durante el período en que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
+II.- La comisión de delitos por parte de cualquier servidor público o particulares que incurran en hechos de corrupción, será sancionada en los términos de la legislación penal aplicable. Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que, durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar.
 
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan. Además de las sanciones que correspondan conforme a la legislación penal y con estricta sujeción a la Ley y a los derechos humanos, el Estado deberá realizar todas las acciones pertinentes para recuperar los bienes relacionados con la comisión del delito que hayan sido instrumento, objeto o producto de éste, mediante la extinción de dominio o cualquier figura similar permitida por la ley;
 
-La responsabilidad por delito del orden común, cometido durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la ley penal, que nunca serán inferiores a los tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los cargos a que hacen referencia los artículos 149 y 150 de esta Constitución.
+III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos, hechos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones. Dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, que no podrán exceder de tres veces el beneficio obtenido o tres veces el monto del daño causado.
 
-La Ley de Responsabilidades de los servidores públicos del Estado, señalará los casos de prescripción de la responsabilidad administrativa, tomando en cuentta (sic) la naturaleza y consecuencia de los actos u omisiones ilícitos. Cuando dichos actos u omisiones fueran graves, los plazos de prescripción no serán inferiores a tres años.
+Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior del Estado, la Secretaría de Contraloría y los órganos internos de control estatales y municipales, según corresponda, y serán resueltas por el Tribunal de Justicia Administrativa. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por las autoridades señaladas con anterioridad, en el ámbito de sus competencias.
+
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado de Hidalgo, se observará lo previsto en el artículo 93 de esta Constitución, sin perjuicio de las atribuciones de la Auditoría Superior en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
+
+La Ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves. Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la Ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales y municipales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Delitos de Corrupción a que se refiere esta Constitución.
+
+IV.- El Tribunal de Justicia Administrativa impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales o municipales, sin perjuicio de que realice todas las acciones para recuperar los activos obtenidos relacionados con la comisión de las referidas faltas administrativas. Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella.
+
+También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación, sustanciación, resolución e imposición de las sanciones aplicables de dichos actos, hechos u omisiones.
+
+Los procedimientos para la aplicación de las sanciones mencionadas en las fracciones anteriores se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la autoridad competente respecto de las conductas a las que se refiere el presente artículo. Las entidades públicas estatales y municipales establecerán mecanismos para garantizar este derecho para lo cual podrán auxiliarse de herramientas electrónicas y tecnologías de la información, las cuales implementarán esquemas para garantizar la seguridad y la protección de los derechos humanos de los denunciantes así como de los miembros de los medios de comunicación.
+
+En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción, no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La Ley establecerá los procedimientos para que les sea entregada dicha información.
+
+La Auditoría Superior del Estado y la Secretaría de Contraloría, podrán recurrir las determinaciones de la Fiscalía Especializada en Delitos de Corrupción y del Tribunal de Justicia Administrativa.
+
+La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización o reparación del daño conforme a las bases, límites y procedimientos que establezcan las leyes.
+
+La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hacen referencia los artículos 149 y 150.
+
+La Ley de la materia, señalará los casos de prescripción de la responsabilidad administrativa, tomando en cuenta la naturaleza y consecuencia de los actos u omisiones ilícitas. Cuando dichos actos u omisiones fueran graves, los plazos de prescripción no serán inferiores a siete años.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -3802,3 +3940,29 @@ a) La obligación a las autoridades de facilitar los trámites y la obtención d
 b) La creación del Sistema Estatal de Mejora Regulatoria, como el órgano colegiado rector, encargado de la coordinación de acciones necesarias para asegurar que la regulación que integra el ordenamiento jurídico de la entidad responda a los principios y propósitos establecidos en la Ley.
 
 c) La creación de un catálogo que incluya todos los trámites y servicios estatales y municipales con el objetivo de generar seguridad jurídica y facilitar su cumplimiento mediante el uso de las tecnologías de la información, la inscripción en el catálogo y su actualización será obligatoria en los términos que establezca la Ley.
+
+P.O. 22 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 183 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Estado de Hidalgo.
+
+Segundo. En un término que no exceda al 18 de julio del año 2017, se deberán aprobar las leyes secundarias a que se refieren las (sic) fracción V del artículo 56 de esta Constitución, así mismo, se deberán realizar las adecuaciones a la Ley Orgánica de la Administración Pública del Estado de Hidalgo, con el objeto de que la dependencia responsable del control interno del Ejecutivo Estatal asuma las facultades necesarias para el cumplimiento de lo previsto en el presente Decreto y en las leyes que derivan del mismo.
+
+Tercero. En un término que no exceda al 18 de julio del año 2017, se deberán aprobar las reformas a los artículos relacionados con el cambio de denominación y las nuevas funciones del Tribunal de Justicia Administrativa, durante este periodo el Tribunal de Justicia Fiscal y Administrativa continuará ejerciendo las facultadas (sic) con que cuenta actualmente y substanciado los asuntos que se encuentran en trámite.
+
+Los Magistrados del Tribunal de Justicia Fiscal y Administrativa continuarán en el ejercicio de sus respectivos cargos en el Tribunal de Justicia Administrativa por el tiempo para el que fueron nombrados.
+
+Una vez que entren en vigor las disposiciones de este Decreto a que se refiere el párrafo anterior, los recursos humanos, financieros y materiales del Tribunal de Justicia Fiscal y Administrativa serán transferidos al órgano que lo sustituya.
+
+Cuarto. El actual titular de la Secretaria de Contraloría continuará en el ejercicio de su encargo, cuyo nombramiento deberá ser ratificado por el Congreso del Estado Libre y Soberano de Hidalgo.
+
+Quinto. La legislación secundaria relativa a los artículos 152 y 154 de esta Constitución deberá ser expedida por el Congreso del Estado Libre y Soberano de Hidalgo, en un término que no exceda al 18 de julio del año 2017, en tanto se continuará aplicando las disposiciones vigentes.
+
+Sexto. Los Municipios deberán designar las respectivas instancias municipales para participar en el Sistema Estatal Anticorrupción en un término que no exceda al 18 de julio del año 2017.
+
+Séptimo. El Procurador General de Justicia continuará en el ejercicio de su cargo por el tiempo para el que fue nombrado.
+
+Octavo. El subprocurador de asuntos electorales continuará en el ejercicio de su cargo por el tiempo para el que fue nombrado, cambiando su denominación a Fiscal Especializado en Delitos Electorales.
+
+En toda la legislación y normatividad que refiera a la Subprocuraduría de Asuntos Electorales, se entenderá como la Fiscalía Especializada en Delitos Electorales.
