@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2017-04-27"
+last_updated: "2017-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE MAYO DE 2017.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -67,7 +67,9 @@ No existirá autoridad intermedia entre el Ayuntamiento y el Gobierno del Estado
 
 El Ayuntamiento deberá:
 
-I. Planear y conducir sus actividades con sujeción a los objetivos y prioridades de su desarrollo integral, mismos que serán compatibles con los Planes Estatal y Nacional de Desarrollo;
+> <small>(REFORMADA, B.O. 22 DE MAYO DE 2017)</small>
+
+I. Planear y conducir sus actividades con sujeción a los objetivos y prioridades de su desarrollo integral y sustentable, mismos que serán compatibles con los Planes Estatal y Nacional de Desarrollo;
 
 II. Ejercer y prestar las funciones y servicios públicos de su competencia, para lo cual podrá coordinarse con otros Ayuntamientos y con las autoridades estatales; y en su caso, con las autoridades federales, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos y la del Estado;
 
@@ -1421,9 +1423,15 @@ Cada Ayuntamiento deberá elaborar, aprobar y publicar el Plan Municipal de Desa
 
 El Plan indicará los programas que deban ser elaborados, los cuales observarán congruencia con el mismo Plan y su vigencia no excederá del período constitucional de la gestión gubernamental en que se aprueben, aunque sus previsiones y proyecciones se refieran a un plazo mayor.
 
+> <small>(ADICIONADO, B.O. 22 DE MAYO DE 2017)</small>
+
+En el caso de los municipios con una población mayor a 50 mil habitantes, los Ayuntamientos deberán incorporar al Plan Municipal de Desarrollo y los programas que se deriven del mismo los objetivos y metas en materia de desarrollo urbano sustentable que establece la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE MAYO DE 2017)</small>
+
 ###### Artículo 121.
 
-Los programas especificarán los objetivos, prioridades y política que regirán el desempeño de las actividades del área de que se trate, las regiones que se consideren prioritarias o estratégicas o las prioridades del desarrollo integral del Municipio, en todo caso deberán contener:
+Los programas especificarán los objetivos, prioridades y política que regirán el desempeño de las actividades del área de que se trate, las regiones que se consideren prioritarias o estratégicas o las prioridades del desarrollo integral y sustentable del Municipio, en todo caso deberán contener:
 
 I. Diagnóstico de la situación vigente;
 
@@ -1436,6 +1444,86 @@ IV. Metas referidas a cada uno de los indicadores considerados;
 V. Estrategias, líneas de acción y proyectos para el logro de los objetivos y metas; y
 
 VI. En su caso, las bases para la participación de la comunidad en la ejecución de los programas.
+
+> <small>(ADICIONADO, B.O. 22 DE MAYO DE 2017)</small>
+
+###### Artículo 121 Bis.
+
+Los objetivos y metas en materia de desarrollo urbano sustentable a que se refiere el artículo 120 de la presente Ley son los siguientes:
+
+I.- El Abastecimiento de agua potable, en calidad y cantidad suficientes;
+
+II.- Atender la degradación y la sobreexplotación de los recursos hídricos;
+
+III.- Reducir la descarga de materiales y productos químicos peligrosos al agua;
+
+IV.- El tratamiento de las aguas residuales;
+
+V.- Promover mecanismos para reciclar y reutilizar el agua;
+
+VI.- Gestionar de manera integrada los recursos hídricos, incluso mediante la cooperación transfronteriza;
+
+VII.- Brindar los servicios de saneamiento y recolección de basura;
+
+VIII.- Ampliar la infraestructura y mejoramiento de la tecnología para prestar el servicio de alumbrado público;
+
+IX.- Utilizar energías renovables y limpias en las oficinas públicas;
+
+X.- La reducción de desechos en oficinas públicas;
+
+XI.- Lograr la gestión ecológicamente racional de los productos químicos y de todos los desechos a lo largo de su ciclo de vida, de conformidad con las regulaciones internacionales y nacionales, para reducir la liberación de desechos a la atmósfera, el agua y el suelo, a fin de disminuir sus efectos adversos en la salud humana y el medio ambiente;
+
+XII.- Otorgar incentivos fiscales a empresas que se abastecen de energías renovables y limpias para la realización de sus actividades;
+
+XIII.- Tener actualizado y completo, de forma permanente, el Atlas de Riesgos, para reducir la exposición y la vulnerabilidad a fenómenos extremos y desastres;
+
+XIV.- Combatir el cambio climático y sus efectos, en coordinación permanente con la administración pública federal y estatal, para lo cual se elaborará un programa de acción con objetivos y metas a corto, mediano y largo plazos;
+
+XV.- Reducir los índices de contaminación atmosférica, que permitan tener una buena calidad del aire durante todo el año;
+
+XVI.- Reducir sustancialmente el número de muertes y enfermedades producidas por productos químicos peligrosos y la contaminación del aire, el agua y el suelo
+
+XVII.- Otorgar incentivos fiscales a empresas que promuevan el reuso y reciclaje de residuos;
+
+XVIII.- Promover la captación de gas metano en los rellenos sanitarios municipales;
+
+XIX.- La movilidad mediante sistemas de transporte urbano masivo, aprovechando las tecnologías para optimizar el desplazamiento de las personas, prestando especial atención a las necesidades de las personas en situación vulnerable: Las mujeres, los niños, las personas con discapacidad y los adultos mayores;
+
+XX.- Fomentar la utilización de bicicletas y la racionalización del uso del automóvil;
+
+XXI.- Reducir a la mitad el número de muertes y lesiones causadas por accidentes de tráfico;
+
+XXII.- Avanzar en el ordenamiento ecológico del territorio, para inducir o regular el uso eficiente del suelo y la zonificación, y contribuir a mitigar el cambio climático;
+
+XXIII.- Lograr ciudades más compactas, con mayor densidad de población y actividad económica;
+
+XXIV.- Contener el crecimiento de las manchas urbanas hacia zonas inadecuadas;
+
+XXV.- Revertir el abandono de viviendas e incidir positivamente en la plusvalía habitacional, por medio de intervenciones para rehabilitar el entorno y mejorar la calidad de vida en desarrollos y unidades habitacionales que así lo necesiten;
+
+XXVI.- Otorgar servicios básicos adecuados, seguros y asequibles y mejorar el entorno de colonias y barrios marginales;
+
+XXVII.- Coordinar, con la participación de los gobiernos federal y estatal, el mejoramiento del entorno de los espacios habitacionales, así como ampliar y mejorar la vivienda del parque habitacional existente;
+
+XXVIII.- Incrementar las zonas verdes y espacios públicos seguros, inclusivos y accesibles, en particular para las mujeres y los niños, los adultos mayores y las personas con discapacidad;
+
+XXIX.- Cuidar y preservar los ecosistemas existentes, así como los bosques, la flora y la fauna;
+
+XXX.- Conservar los mares, costas y recursos marinos, reduciendo la contaminación marina de todo tipo (en el caso de localidades costeras);
+
+XXXI.- Modernizar los catastros y registros públicos de la propiedad, así como incorporar y regularizar propiedades no registradas;
+
+XXXII.- Realizar contrataciones públicas de obras y servicios que preserven e impulsen el desarrollo urbano sostenible;
+
+XXXIII.- Incrementar el número de trámites que la población pueda efectuar en línea, sin necesidad de acudir a una oficina pública;
+
+XXXIV.- Promover el acceso a Internet gratuito en los edificios y espacios públicos;
+
+XXXV.- Difundir información y conocimientos sobre el desarrollo urbano sustentable y los estilos de vida en armonía con la naturaleza; y
+
+XXXVI.- Salvaguardar y proteger el patrimonio cultural y natural del municipio.
+
+Los Ayuntamientos podrán incorporar otros objetivos y metas relacionados con el desarrollo urbano sustentable que estimen convenientes, de acuerdo a las condiciones específicas de cada uno de ellos.
 
 ###### Artículo 122.
 
@@ -4208,3 +4296,11 @@ B.O. 27 DE ABRIL DE 2017.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación ele (sic) Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 22 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 141, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE PLANEACIÓN DEL ESTADO DE SONORA Y A LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
