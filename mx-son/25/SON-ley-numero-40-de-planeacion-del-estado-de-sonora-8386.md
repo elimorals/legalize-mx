@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-40-de-planeacion-del-estado-de-sonora-8386"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-02"
-last_updated: "2017-05-11"
+last_updated: "2017-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY NUMERO 40 DE PLANEACION DEL ESTADO DE SONORA
 
-LEY DE PLANEACION DEL ESTADO DE SONORA
+LEY DE PLANEACIÓN DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE MAYO DE 2017.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 2 de febrero de 1984.
 
@@ -51,9 +51,11 @@ IV.- Las bases para promover y garantizar la participación democrática de los 
 
 V.- Las bases para la concertación de acciones con los grupos sociales, tendientes a alcanzar los objetivos y prioridades de los planes y programas que de ellos se deriven.
 
+> <small>(REFORMADO, B.O. 22 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 2o.
 
-La planeación deberá llevarse a cabo como un medio para el eficaz desempeño de la responsabilidad del Gobierno del Estado y de los Gobiernos Municipales sobre el desarrollo integral de la entidad, de acuerdo a los principios, fines y objetivos políticos, sociales, culturales y económicos contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado Libre y Soberano de Sonora.
+La planeación deberá llevarse a cabo como un medio para el eficaz desempeño de la responsabilidad del Gobierno del Estado y de los Gobiernos Municipales sobre el desarrollo integral y sustentable de la Entidad, de acuerdo a los principios, fines y objetivos políticos, sociales, culturales y económicos contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Sonora.
 
 ###### ARTICULO 3o.
 
@@ -297,6 +299,10 @@ La palabra Plan queda reservada al Plan Municipal de Desarrollo.
 
 El Plan indicará los programas que deban realizarse y la vigencia de éstos no excederá del período constitucional que corresponda al Ayuntamiento respectivo.
 
+> <small>(ADICIONADO, B.O. 22 DE MAYO DE 2017)</small>
+
+En el caso de los municipios con localidades con una población mayor a cincuenta mil habitantes, los Ayuntamientos deberán incorporar al Plan Municipal de Desarrollo, y los programas que se deriven del mismo los objetivos y metas en materia de desarrollo urbano sustentable, establecidos en la Ley de Gobierno y Administración Municipal.
+
 ###### ARTICULO 27.
 
 Los programas derivarán del Plan Municipal de Desarrollo y deberán guardar congruencia con los objetivos y prioridades que se establezcan en dicho Plan.
@@ -455,7 +461,7 @@ EL SECRETARIO DE GOBIERNO,
 
 Lic. Carlos Gámez Fimbres.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY. ]</small>
 
 B.O. 23 DE DICIEMBRE DE 1991.
 
@@ -476,3 +482,11 @@ Los municipios con población superior a los 50.000 habitantes contaran con un p
 ###### ARTÍCULO TERCERO.
 
 Para la constitución del Instituto Municipal de Planeación los Ayuntamientos utilizarán los recursos financieros, humanos y materiales disponibles a la fecha de publicación de este Decreto, atendiendo a los principios de austeridad, disciplina financiera y responsabilidad hacendaria. Los Ayuntamientos deberán considerar para constituir su Instituto los recursos que actualmente destinan a las áreas encargadas de la planeación municipal, así como un porcentaje de los recursos propios que recaudan los Ayuntamientos y que destinan a obras públicas en el municipio.
+
+B.O. 22 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 141, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE PLANEACIÓN DEL ESTADO DE SONORA Y A LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
