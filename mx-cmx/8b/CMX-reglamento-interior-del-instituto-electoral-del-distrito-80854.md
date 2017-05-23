@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-electoral-del-distrito-80854"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-15"
-last_updated: "2016-12-27"
+last_updated: "2017-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80854&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,13 +22,17 @@ issue_date: "2011-03-28"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE MAYO DE 2017.
 
 Acuerdo del Consejo General del Instituto Electoral del Distrito Federal, por el cual se aprueba la propuesta de armonización tanto del Reglamento Interior del Instituto Electoral del Distrito Federal como del Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral del Distrito Federal
 
-Antecedentes:...
+Antecedentes:
 
-Considerando:...
+[...]
+
+Considerando:
+
+[...]
 
 Acuerdo:
 
@@ -352,9 +356,17 @@ XIV. Vigilar el cumplimiento de las reglas sobre el uso, características y colo
 
 XV. Emitir la declaratoria de pérdida de registro de Partido Político local o Agrupación Política local;
 
-XVI. Aprobar el Programa Anual de Auditoría que presente la Contraloría General; y
+> <small>(REFORMADA, G.O. 23 DE MAYO DE 2017)</small>
 
-XVII. Las demás que le confiera la normativa que rige al Instituto Electoral.
+XVI. Aprobar el Programa Anual de Auditoría que presente la Contraloría General;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE MAYO DE 2017)</small>
+
+XVII. Conocer y resolver los recursos de inconformidad que se interpongan contra las resoluciones dictadas en los procedimientos laborales disciplinarios del personal del Servicio Profesional Electoral Nacional en el Instituto Electoral, conforme a lo previsto en la normativa de la materia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 23 DE MAYO DE 2017)</small>
+
+XVIII. Las demás que le confiera la normativa que rige al Instituto Electoral.
 
 > <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
 
@@ -542,9 +554,17 @@ Asimismo, las Presidencias de las Comisiones podrán requerir la presencia de al
 
 Además de las atribuciones que se establecen en el Código y en su Reglamento de Organización y Funcionamiento, la Junta tendrá las siguientes atribuciones:
 
-I. Aprobar las modificaciones a los Programas Institucionales, y
+> <small>(REFORMADA, G.O. 23 DE MAYO DE 2017)</small>
 
-II. Las demás que disponga la normativa del Instituto Electoral.
+I. Aprobar las modificaciones a los Programas Institucionales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE MAYO DE 2017)</small>
+
+II. Conocer y resolver los recursos de inconformidad que se interpongan contra las resoluciones dictadas en los procedimientos laborales disciplinarios del personal de la rama administrativa en el Instituto Electoral, conforme a lo previsto en la normativa aplicable; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 23 DE MAYO DE 2017)</small>
+
+III. Las demás que disponga la normativa del Instituto Electoral.
 
 > <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
 
@@ -580,7 +600,9 @@ XI. Designar al personal adscrito a su oficina, conforme a los procedimientos ap
 
 XII. Habilitar, mediante oficio, que será publicado en los estrados del Instituto Electoral, así como en su sitio de Internet, al personal que notificará los diversos trámites y procedimientos a cargo del Instituto Electoral;
 
-XIII. Conocer, sustanciar y resolver los procedimientos disciplinarios instruidos a las y los servidores públicos del Instituto Electoral, así como los recursos de inconformidad, en términos de lo previsto en la normativa aplicable;
+> <small>(REFORMADA, G.O. 23 DE MAYO DE 2017)</small>
+
+XIII. Conocer y resolver los procedimientos laborales disciplinarios del personal del Servicio Profesional Electoral Nacional y del personal de la rama administrativa, ambos en el Instituto Electoral, conforme a lo previsto en la normativa aplicable;
 
 XIV. Sustanciar los procedimientos ordinarios administrativos sancionadores electorales, y tramitar los especiales en términos de lo previsto en el Código y en el Reglamento de Sustanciación;
 
@@ -1866,9 +1888,9 @@ XIV. (DEROGADA, G.O. 12 DE AGOSTO DE 2016)
 
 XV. (DEROGADA, G.O. 12 DE AGOSTO DE 2016)
 
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, G.O. 23 DE MAYO DE 2017)</small>
 
-XVI. En su caso, conocer, substanciar y resolver los procedimientos disciplinarios seguidos en contra del personal del Instituto, así como los recursos de inconformidad, en términos de lo previsto en el Estatuto del Servicio;
+XVI. Iniciar e instruir los procedimientos laborales disciplinarios del personal del Servicio Profesional Electoral Nacional y del personal de la rama administrativa, ambos en el Instituto Electoral, conforme a lo previsto en la normativa aplicable;
 
 > <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
 
@@ -2607,3 +2629,9 @@ SEGUNDO. Remítase para su publicación a la Gaceta Oficial de la Ciudad de Méx
 TERCERO. Publíquese de inmediato en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx
 
 CUARTO. Se derogan las disposiciones que se opongan a este Reglamento.
+
+G.O. 23 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL POR EL CUAL, EN CUMPLIMIENTO A LOS ACUERDOS IDENTIFICADOS CON LAS CLAVES ACU-02-17 Y ACU-06-17, SE APRUEBAN REFORMAS AL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL”.]
+
+ÚNICO. La reforma al presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
