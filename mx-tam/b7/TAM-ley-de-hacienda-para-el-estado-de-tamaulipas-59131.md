@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2017-02-16"
+last_updated: "2017-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS AL DECRETO NÚMERO LXIII-92 PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE FEBRERO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2017.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -45,8 +43,6 @@ MEDIANTE EL CUAL SE EXPIDE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS.
 
 ### CAPITULO I. DEL AMBITO DE APLICACION DE LA LEY
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 1.
@@ -61,21 +57,15 @@ II.- Los residentes en el extranjero que tengan un establecimiento permanente en
 
 A falta de disposición expresa en esta ley, se tomarán en consideración las disposiciones fiscales vigentes en el Estado, los principios generales que deriven de dichos ordenamientos, los principios generales del derecho, la jurisprudencia, la costumbre y la equidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 2.
 
 La presente ley establece las bases normativas para que los sujetos determinados por la misma, contribuyan al financiamiento del gasto público, mediante el pago de contribuciones, como lo son los impuestos, derechos o contribuciones especiales; adicionalmente, el pago de aprovechamientos, productos, accesorios a contribuciones, participaciones, aportaciones, otros ingresos, y actualización de las propias contribuciones, en su caso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ### CAPITULO II. DE LOS INGRESOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -191,8 +181,6 @@ Son sujetos de este impuesto, las personas físicas o morales que habitual o acc
 
 La base de este impuesto será:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 I. Tratándose de vehículos, la base del impuesto se determinará de la siguiente manera:
@@ -272,8 +260,6 @@ g) La enajenación de vehículos efectuada por personas domiciliadas en el Estad
 ### CAPITULO II. DEL IMPUESTO SOBRE JUEGOS PERMITIDOS
 
 #### SECCIÓN I. DISPOSICIONES GENERALES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -383,13 +369,9 @@ Para los efectos de este Capítulo se considerarán sujetos habituales del impue
 
 #### SECCIÓN II. AUTOMÓVILES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 #### SECCIÓN III. OTROS VEHICULOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -449,13 +431,9 @@ La misma obligación tendrán quienes en forma habitual o accidental efectúen p
 
 Los sujetos de este impuesto están obligados a:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 I. Solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas del Estado, utilizando para el efecto las formas aprobadas. La Secretaría de Finanzas del Estado podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -463,19 +441,13 @@ II. Presentar declaraciones mensuales, en los lugares, medios y formatos electr�
 
 III. Proporcionar a las autoridades fiscales los datos e informes que les sean solicitados dentro del plazo que para ello se fije;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 IV. Recibir las visitas de inspección y proporcionar a los auditores fiscales comisionados para el efecto, todos los informes y documentos que soliciten en el desempeño de sus funciones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 V. Llevar libros o registros y expedir la documentación comprobatoria, tanto de sus ingresos como del pago del impuesto; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -495,19 +467,13 @@ II. Los ingresos que perciban los agentes de instituciones de crédito, de segur
 
 III. Los ingresos a que se refiere este Capítulo, cuando por ellos se cause y se pague el Impuesto al Valor Agregado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ### CAPITULO IV. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 #### SECCIÓN IV. VEHICULOS USADOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -522,8 +488,6 @@ I.- Se inscriba el vehículo en la Oficina Fiscal del Estado en el Municipio que
 II.- El domicilio convencional o fiscal del tenedor o usuario del vehículo se localice dentro del territorio del Estado.
 
 Para efectos de este Capítulo, se presume que el propietario es tenedor o usuario del vehículo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -569,8 +533,6 @@ Diciembre 0.08
 
 La Federación, el Estado, los organismos autónomos, los organismos descentralizados y los órganos desconcentrados, los fideicomisos públicos de la administración pública del Estado, los municipios o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo, con las excepciones que en el mismo se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos estatales o estén exentos de ellos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 36.
@@ -613,8 +575,6 @@ g).- Automóviles eléctricos; y
 
 VIII.- Comerciantes en el ramo de vehículos; las personas físicas o morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 37.
@@ -629,15 +589,11 @@ III.- Las autoridades federales, estatales o municipales que autoricen el regist
 
 Las autoridades competentes solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en el territorio correspondiente al Estado de Tamaulipas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 37 Bis.
 
 Los contribuyentes comprobarán el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -683,8 +639,6 @@ III.- Tratándose de automóviles de más de diez años-modelos anteriores al de
 
 Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos pick up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como omnibuses, minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 38 Bis.
@@ -705,8 +659,6 @@ Cuando por cualquier motivo un vehículo deje de estar comprendido en los supues
 
 Los tenedores o usuarios de los vehículos a que se refieren las fracciones II, III y IV de este artículo, deberán comprobar ante la autoridad competente que se encuentran comprendidos en dichos supuestos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 #### Sección Segunda. del Registro Público de la Propiedad Inmueble
@@ -717,8 +669,6 @@ Los tenedores o usuarios de los vehículos a que se refieren las fracciones II, 
 
 En esta Sección se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquíes acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, automóviles eléctricos y motocicletas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 40.
@@ -726,8 +676,6 @@ En esta Sección se establecen las disposiciones aplicables a las aeronaves, emb
 Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $7,313.00 para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $7,877.00 para aeronaves de reacción.
 
 Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -752,8 +700,6 @@ del límite inferior
 275,046.94 369,693.57 12,529.08 13.3
 
 369,693.58 en adelante 25,117.08 16.8
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -781,23 +727,17 @@ El monto de las cuotas establecidas en este artículo se actualizará con el fac
 
 Tratándose de motocicletas de más de diez años-modelos anteriores al de aplicación de esta Sección, el impuesto correspondiente se pagará a la tasa del 0%.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 40 Quáter.
 
 Tratándose de automóviles eléctricos nuevos, así como de aquellos vehículos eléctricos nuevos, que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 41.
 
 Para los efectos de lo dispuesto en los artículos 38, 40, 40 bis y 40 ter de este Capítulo, los montos de las cantidades que en los mismos se señalan se actualizarán en el mes de diciembre de cada año, aplicando el factor correspondiente al periodo comprendido desde el mes de noviembre del penúltimo año hasta el mes de octubre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el articulo 18-A del Código Fiscal del Estado de Tamaulipas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -819,15 +759,11 @@ VI.- Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotran
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 41 Ter.
 
 El Gobierno del Estado podrá celebrar convenios con las autoridades federales competentes para expedir los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, a fin de facilitar la comprobación del pago del presente impuesto por parte de las personas tenedoras o usuarias de aeronaves o embarcaciones gravadas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -871,8 +807,6 @@ II.- La cantidad obtenida conforme a la fracción anterior se actualizará de co
 
 Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año-modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 42 Bis.
@@ -906,8 +840,6 @@ AÑOS DE ANTIGÜEDAD FACTOR DE DEPRECIACIÓN
 II.- La cantidad obtenida conforme al párrafo anterior, se actualizará de conformidad con lo dispuesto en el artículo 41 del presente Capítulo y al resultado se le aplicará la tarifa a que hace referencia el artículo 38 de este Capítulo.
 
 Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año-modelo al que corresponda el vehículo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -962,8 +894,6 @@ AÑOS DE ANTIGÜEDAD FACTOR DE DEPRECIACIÓN
 II.- La cantidad obtenida conforme al párrafo anterior, se actualizará de conformidad con lo dispuesto en el artículo 41 de esta ley; al resultado se le aplicará la tasa a que hace referencia el segundo párrafo del artículo 40 de la misma.
 
 Para los efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -1031,15 +961,11 @@ Noviembre 0.17
 
 Diciembre 0.08
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 43.
 
 Los distribuidores autorizados de venta de vehículos así como los comerciantes en el ramo de vehículos, tendrán la obligación de presentar durante el mes de mayo, declaración anual informativa sobre las enajenaciones de vehículos nuevos o seminuevos realizadas en territorio del Estado en el ejercicio anterior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -1047,21 +973,15 @@ Los distribuidores autorizados de venta de vehículos así como los comerciantes
 
 El Gobierno del Estado podrá celebrar convenios con las autoridades municipales, con el fin de procurar el pago del presente impuesto y otros de carácter estatal o municipal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 44 Bis.
 
 Para efectos de este impuesto es autoridad competente la Secretaría de Finanzas del Gobierno del Estado de Tamaulipas, por si y a través de las Oficinas Fiscales. Las Tesorerías municipales serán competentes en los términos de los convenios que al efecto se realicen.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ### CAPITULO V. IMPUESTO SOBRE REMUNERACIONES AL TRABAJO PERSONAL SUBORDINADO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -1099,31 +1019,19 @@ XIII.- Pagos de servicio de transporte;
 
 XIV.- Pagos de primas de seguros para gastos médicos o de vida;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 XV.- Pagos realizados a las personas por los servicios que presten a un prestatario, cuando sean asimilados a salarios de conformidad al Capítulo I del Título IV de la Ley del Impuesto sobre la Renta, siempre que dichos servicios se lleven a cabo en las instalaciones o por cuenta de este último;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 XVI.- El valor del importe que se le pague a las personas físicas o morales que contraten, subcontraten o reciban la prestación del trabajo personal subordinado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
-
-XVII.- Los rendimientos y anticipos que reciban los miembros de las sociedades cooperativas, así como los anticipos que reciban los miembros de las sociedades y asociaciones civiles, siempre que se opten por asimilarse a salarios para efectos del cumplimento del Impuesto Sobre la Renta; o
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XVII.- (DEROGADA, P.O. 23 DE MAYO DE 2017)
 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 XVIII.- Cualquier otra erogación realizada por concepto de trabajo personal subordinado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -1133,19 +1041,13 @@ Son sujetos de este impuesto las personas físicas o morales que realicen los pa
 
 La Federación, el Estado, los Municipios, los organismos autónomos y las entidades paraestatales federales, estatales o municipales están obligados al pago de este impuesto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 Son responsables solidarios del pago de este impuesto quienes contraten, subcontraten o reciban la prestación del trabajo personal subordinado, no obstante que el pago se realice por conducto de terceros o intermediarios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 Se entiende por subcontratación, el trabajo por medio del cual un contratista o subcontratista ejecuta obras o presta servicios con trabajadores bajo su dependencia, a favor de otra persona física o moral que resulta beneficiaria de los servicios contratados, la cual fija las tareas a realizar y supervisa el desarrollo de los servicios o la ejecución de las obras contratadas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -1165,13 +1067,9 @@ a) El número de trabajadores y las erogaciones correspondientes a los mismos, d
 
 b) La que resulte de considerar, por cada trabajador a su servicio, el importe de cuatro veces el valor diario de la Unidad de Medida y Actualización multiplicado por el número de días cada uno de los meses sujeto a revisión;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 c) La que resulte de aplicar el 40 por ciento a los importes consignados en las estimaciones de obra o en los comprobantes que esté obligado a expedir en los términos de las disposiciones fiscales federales, tratándose de contribuyentes que realicen obras de construcción, aún en los casos en que no hubieran celebrado los contratos correspondientes. El porcentaje mencionado podrá ser menor cuando el contribuyente compruebe que el tipo de obra realizada implica una menor proporción de mano de obra; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -1182,8 +1080,6 @@ d) El valor del importe que se le pague a las personas físicas o morales que co
 ###### Artículo 49.
 
 Los sujetos de este impuesto deberán calcularlo, aplicando a la base Obtenida a que se refiere el artículo 47 de la presente ley, la tasa del 3 por ciento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -1200,8 +1096,6 @@ II.- Se expida el comprobante que ampare la prestación del servicio; o
 > <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 III.- Se otorgue la relación de trabajo o cualquier acto que dé origen a la prestación de un trabajo personal subordinado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -1245,49 +1139,33 @@ III.- Presentar declaraciones, así como los avisos, datos, documentos e informe
 
 IV.- Cuando los sujetos operen con varios establecimientos deberán acumular la información de todos ellos en la declaración que corresponda su domicilio fiscal en el Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 V.- Llevar la contabilidad de conformidad con el Código Fiscal del Estado de Tamaulipas, registrando en ella los pagos sujetos de este Capítulo debidamente clasificados, a excepción de los contribuyentes que se encuentren en el supuesto previsto en el Título IV, Capítulo ll, Sección ll, de la Ley del Impuesto sobre la Renta, quienes tendrán las obligaciones ahí señaladas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 VI.- Conservar la documentación comprobatoria del pago de las remuneraciones objeto de este Impuesto;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 VII.- Registrar su calidad de contribuyentes, para efectos de pago y control, según sea el caso, si la administración principal de su empresa está fuera del Estado, pero establezcan sucursales, bodegas, agencias, oficinas u otras dependencias dentro del territorio del propio Estado, cuando se encuentren gravadas por este impuesto o cuando sólo tengan las otras obligaciones;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 VIII.- Retener el impuesto a que se refiere este Capítulo, las personas físicas o morales que contraten o subcontraten la prestación de servicios, de contribuyentes cuyo domicilio esté ubicado dentro o fuera del territorio del Estado, para que pongan a su disposición, personal que lleve a cabo la actividad a la que se dedique, siempre que el servicio personal subordinado se preste en el territorio de esta entidad y que las cantidades que el prestador del servicio erogue a favor de sus trabajadores o quienes presten servicios personales independientes, den lugar a las erogaciones gravadas por este impuesto;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 IX.- Presentar el aviso de inscripción para efectos de control, las personas físicas o morales que reciban las prestaciones del trabajo subordinado y que no hagan las erogaciones objeto de este impuesto, exhibiendo copia del contrato de prestación de servicio ante la oficina de recaudación fiscal que corresponda a su domicilio, y proporcionar los datos que identifiquen a la persona que haga dichas erogaciones, así como el número de trabajadores que presten el trabajo subordinado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 X.- Presentar declaración anual informativa a más tardar en el mes de mayo del siguiente año, en las formas aprobadas que dé a conocer la autoridad. Esta declaración deberá presentarse en todos los casos, incluyendo aquellos en que no se estuvo obligado a efectuar el pago de este impuesto, a excepción de los señalados en el artículo 52, fracción II; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 XI.- Las personas físicas y morales que lleven a cabo la retención de este impuesto deberán expedir la constancia correspondiente por cada una de las operaciones que realice, en las formas aprobadas que dé a conocer la autoridad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -1301,8 +1179,6 @@ La retención se efectuará en el momento en que se pague la contraprestación p
 
 II.- Declarar y enterar el impuesto retenido, en los términos a que se refiere el artículo 50 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 51 Ter.
@@ -1314,8 +1190,6 @@ I.- Si en el comprobante que le expida la persona física o moral que le proporc
 II.- En el supuesto de que los prestadores de servicios a que se refiere el artículo 51 fracción VIII de esta Ley, no expidan alguno de los comprobantes a que se refiere este artículo, la base para la retención será el total de las contraprestaciones efectivamente pagadas por los servicios contratados en el mes que corresponda.
 
 La base a que se refieren las fracciones I y II del presente artículo, se determinará sin incluir los impuestos que se trasladen en forma expresa y por separado en el comprobante, independientemente de la denominación con que se designen.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -1329,8 +1203,6 @@ Están exentos del pago de este impuesto:
 
 I. Las erogaciones que se cubran por concepto de:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 a) La participación de los trabajadores en las utilidades de las empresas, que reciban de sus patrones durante un año de calendario, hasta el equivalente del salario mínimo general del área geográfica de la Capital del Estado, elevado a 15 días, por cada uno de los trabajadores que recibieron su pago;
@@ -1339,19 +1211,13 @@ b) Indemnizaciones por riesgos o enfermedades profesionales, que se conceden de 
 
 c) Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía y muerte;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 d) Primas de antigüedad, retiro e indemnizaciones, por la terminación de una relación laboral, hasta por el equivalente a noventa veces el salario mínimo general del área geográfica de la capital del Estado por cada año de servicio. Toda fracción de más de seis meses se considerará un año completo. Por el excedente se pagará el impuesto en los términos de éste Capítulo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 e) (DEROGADO, P.O. 19 DE DICIEMBRE DE 2012)
 
 f) Pagos por gastos funerarios;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -1359,21 +1225,15 @@ g) Los viáticos efectivamente erogados en servicio y por cuenta del patrón y d
 
 h) Las aportaciones de seguridad social;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 i) El ahorro, cuando se integre por un depósito de cantidad igual del trabajador y del patrón, y las cantidades otorgadas por el patrón para fines sociales y sindicales; siempre que reúnan los requisitos de deducibilidad del Título II de la Ley de Impuesto sobre la Renta;
 
 j) La alimentación y la habitación cuando se entreguen en forma onerosa a trabajadores. Se entiende que son onerosas estas prestaciones, cuando el cobro de cada una de ellas represente, como mínimo, el 20 por ciento de un día de salario mínimo, por cada día de trabajo; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (REFORMADO, P.O. 19 DE DICIEMBRE DE 2012) (F. DE E., P.O. 17 DE ENERO DE 2013)
 
 k) Las despensas en especie, siempre que reúnan los requisitos de deducibilidad del Título II de la Ley de Impuesto sobre la Renta. No se considerarán incluidos los vales, bonos u otros de naturaleza análoga; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1537,8 +1397,6 @@ Los servidores públicos del Gobierno del Estado se abstendrán de actuar o, en 
 
 En los casos en que el pago de los derechos no se efectúe previamente a la prestación del servicio, en virtud de no poder determinar la base de los mismos, dicho pago se hará en el plazo que la presente ley señale al respecto o, en su defecto, el mismo día en que sean determinables los derechos. La falta de pago oportuno de los derechos establecidos en el presente Título causará recargos de conformidad con lo establecido por el artículo 22 del Código Fiscal del Estado, independientemente de la aplicación de las sanciones que señalen las leyes respectivas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 58.
@@ -1659,8 +1517,6 @@ IV. Las copias certificadas, certificaciones, ratificaciones, cotejo, legalizaci
 
 ### CAPITULO V. DE LOS SERVICIOS PARA EL CONTROL VEHICULAR
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 62.
@@ -1708,8 +1564,6 @@ b).- La corrección de errores en inscripciones causará la cuota igual al impor
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 c).- Por la anotación del cambio de régimen patrimonial del matrimonio, efectuado por la vía judicial o ante Notario Público, dos veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1805,8 +1659,6 @@ VIII. La inscripción de testamentos y de constancias relativas a actuaciones en
 
 IX. La inscripción de la condición de resolutoria sobre bienes inmuebles en los casos de venta, de pacto de reserva de dominio, de la prenda en general, de la prenda de frutos pendientes de bienes raíces y de la prenda de títulos de créditos, el 75 por ciento de las cuotas que establece la fracción I de este artículo y al practicarse la inscripción complementaria se cobrará el 25 por ciento restante;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 X. La inscripción de fraccionamientos de terrenos, así como de actos, contratos, convenios o resoluciones judiciales o administrativas por las que se lotifique, relotifique, divida, subdivida o fusione un inmueble por cada lote que resulte, causarán los derechos de inscripción siguientes:
@@ -1891,21 +1743,15 @@ Cuando los servicios se presten a través de telefax o cualquier otro medio de c
 
 Para la determinación y cobro de los derechos que establece el artículo anterior, se observarán las reglas siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 I. Se tendrá como valor para los efectos de la aplicación de las tasas en los casos relativos a la enajenación de los bienes inmuebles, aquel que sirva de base para el cálculo del Impuesto sobre Adquisición de Bienes Inmuebles sin deducción alguna; en los casos que no se cause dicho impuesto, se tomará como base el valor de los bienes inmuebles determinado en el avalúo pericial expedido por la autoridad catastral correspondiente;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 II. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2015)
 
 III. En toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella quedan comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos. Si la transmisión comprende varios bienes y se realiza por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes, a efecto de que sirva de base para el cobro de los derechos, debiendo observarse lo dispuesto en la fracción I de este artículo;
 
 IV. En las operaciones sobre bienes inmuebles, sujetos a condición suspensiva, resolutoria, reserva de dominio o cualquiera otra que deba originar una inscripción complementaria para su perfeccionamiento, se pagará de acuerdo a la tasa establecida en la fracción I del artículo 64 de esta ley;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1917,8 +1763,6 @@ VI. Cuando se trate de contratos, demandas o resoluciones que se refieren a pres
 
 VII. En los casos en que los servicios que preste el Instituto Registral y Catastral del Estado de Tamaulipas, no se encuentren expresamente previstos en esta Sección, los derechos que a ellos corresponda se causarán por asimilación, aplicando las disposiciones relativas a casos con los que guarden semejanza, y; si por la naturaleza del acto no fuera susceptible asimilarlo a los actos comprendidos en esta Sección, causará derechos por su anotación a razón de siete veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 66.
@@ -1926,8 +1770,6 @@ VII. En los casos en que los servicios que preste el Instituto Registral y Catas
 Se exime del pago de los derechos a que se refiere el artículo 64 de esta ley, a los contribuyentes domiciliados en el Estado, en los siguientes supuestos:
 
 I. Por la inscripción de las escrituras de terrenos que no excedan de 250 metros cuadrados y que hayan sido adquiridos a través de programas que implemente el Gobierno del Estado, por sí o a través de sus entidades.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -1945,21 +1787,15 @@ IV. Por la inscripción de bienes inmuebles o derechos reales pertenecientes a l
 
 V. Por la inscripción de títulos dentro del Programa de Regularización de la Tenencia de la Tierra en propiedad o posesión particular en el territorio del Estado, que permita la reinscripción al programa de Apoyos Directos al Campo, de los predios rurales privados, con superficies elegibles, carentes de documentación y libre de toda litis, que ya estén inscritos en dicho Programa, sin importar el nombre de éste;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 VI. Por la inscripción de avisos preventivos de compra-venta, hipoteca o donaciones celebradas en términos del presente artículo; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 VII. Por la inscripción de fraccionamiento de terrenos, así como los actos, contratos, convenios o resoluciones por las que se lotifique o relotifique, divida o subdivida un inmueble, que por cualquier medio los organismos encargados de regularización de la tenencia de la tierra, federales, estatales o municipales, realicen o efectúen para regularizar la tenencia de la tierra a sus ocupantes, mediante su enajenación; y
 
 VIII. Por la inscripción de títulos de predios urbanos en tierras ejidales, tramitados a través de un organismo gubernamental.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -2058,8 +1894,6 @@ VI. En los casos no previstos expresamente en el artículo anterior, los derecho
 No se causarán los derechos a que se refiere el artículo 68 por las inscripciones de las Sociedades Cooperativas Escolares.
 
 ### CAPITULO VI. DE LOS DERECHOS POR SERVICIOS DE PREVENCION Y CONTROL DE LA CONTAMINACION DEL MEDIO AMBIENTE
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -2162,8 +1996,6 @@ VI. Diversos:
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 6.- Comprobación de cumplimiento de requisitos en estudios de nivel medio superior y superior, una vez el valor diario de la Unidad de Medida y Actualización por alumno.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -2317,15 +2149,11 @@ b).- En tamaños mayores, por cada decímetro cuadrado adicional o fracción 1 a
 
 ### CAPITULO VIII. DERECHOS DE COOPERACION
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 73.
 
 Con base en las tarifas previstas en este precepto, el Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y oficinas autorizadas, hará efectivos los derechos por:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -2340,8 +2168,6 @@ a).- Por ingreso o refrendo anual en el padrón de vehículos de motor o remolqu
 b).- Por expedición, reposición o canje de placas de vehículos de motor o remolques, de servicio particular y de servicio público de transporte, cinco veces el valor diario de la Unidad de Medida y Actualización;
 
 Las personas físicas o morales que adquieran vehículos de motor o remolques, nuevos o usados, que no cuenten con placas vigentes del Estado de Tamaulipas, deberán efectuarlo dentro de los quince días siguientes a la fecha de adquisición.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -2405,21 +2231,15 @@ d).- Mensajería y valores, cien veces el valor diario de la Unidad de Medida y 
 
 e).- Reparto de productos o servicios, treinta y seis veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 Los derechos comprendidos en esta fracción y la anterior, deberán pagarse dentro de los seis primeros meses del año, de conformidad con las disposiciones de las autoridades correspondientes;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 III. El cambio de características y de modalidad de los vehículos que prestan el servicio público de transporte, causan los derechos previstos en la fracción II de este artículo y deberán pagarse en el momento de su autorización;
 
 IV. Por la expedición de placas de demostración, cincuenta días de salario mínimo. Estas placas solo podrán expedirse a empresas que demuestren operar como comercializadoras habituales de vehículos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 V. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2011)
 
@@ -2513,8 +2333,6 @@ b).- Duración de 3 años, doce veces el valor diario de la Unidad de Medida y A
 
 Se entenderá que la vigencia de la licencia de conducir, según se trate de su expedición por primera vez o renovación de la misma, comprende hasta el día y mes correspondientes a la fecha de nacimiento del titular de la misma.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 Por la reimpresión de licencia de conducir vigente se cobrará el 50% de lo establecido en los numerales 1 al 3, según la duración de que se trate.
@@ -2543,8 +2361,6 @@ XX. Por la expedición de Cédula de Inspección Vehicular, documental y mecáni
 
 XXI. Por la expedición de la cédula de emisión de gases contaminantes, cuatro veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 74.
@@ -2559,7 +2375,7 @@ II. De un 50 por ciento, a los comprendidos en la fracción XVII; tratándose de
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-III. De un 100 por ciento a los comprendidos en la fracción I, incisos a) y b), en una sola ocasión por año, tratándose de vehículos con la necesidad de asignación de placas de circulación con identificación de “discapacidad”, cuyos propietarios cumplan con la normatividad vigente establecida por el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, y que reúnan los siguientes requisitos:
+III. De un 100 por ciento a los comprendidos en la fracción I, incisos a) y b), en una sola ocasión por año, tratándose de vehículos con la necesidad de asignación de placas de circulación con identificación de "discapacidad", cuyos propietarios cumplan con la normatividad vigente establecida por el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, y que reúnan los siguientes requisitos:
 
 a).- En el caso de personas físicas:
 
@@ -2577,11 +2393,11 @@ b).- En el caso de personas morales:
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-Asimismo, se podrá otorgar placas con identificación de “discapacidad” sin aplicar la exención a que se refiere esta fracción, siendo efectivo su pago normal, en los casos en que la persona propietaria del vehículo no sea la persona discapacitada, así como a vehículos a nombre de sociedad o asociación que cuente con adaptaciones para el traslado de su personal laboral con discapacidad motora y neuromotora permanente y que utilicen algún tipo de aditamento para desplazarse, como muletas, andador, bastón, silla sobre ruedas, silla sobre ruedas especial tipo carriola, órtesis o prótesis, y cumplan con la normatividad que para ese efecto establece el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas.
+Asimismo, se podrá otorgar placas con identificación de "discapacidad" sin aplicar la exención a que se refiere esta fracción, siendo efectivo su pago normal, en los casos en que la persona propietaria del vehículo no sea la persona discapacitada, así como a vehículos a nombre de sociedad o asociación que cuente con adaptaciones para el traslado de su personal laboral con discapacidad motora y neuromotora permanente y que utilicen algún tipo de aditamento para desplazarse, como muletas, andador, bastón, silla sobre ruedas, silla sobre ruedas especial tipo carriola, órtesis o prótesis, y cumplan con la normatividad que para ese efecto establece el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-En todos los casos, se podrá asignar hasta un segundo juego de placas de circulación con identificación de “discapacidad” siendo efectivo su pago normal de acuerdo a lo establecido en el artículo anterior.
+En todos los casos, se podrá asignar hasta un segundo juego de placas de circulación con identificación de "discapacidad" siendo efectivo su pago normal de acuerdo a lo establecido en el artículo anterior.
 
 ### CAPITULO IX. DE LOS SERVICIOS DIVERSOS
 
@@ -2600,8 +2416,6 @@ Pequeña 11-50 11-30 11-50
 Mediana 51-250 31-100 51-100
 
 I. Por los servicios de registro de descarga de aguas residuales, conforme a la siguiente tarifa:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -2622,8 +2436,6 @@ c).- Mediana empresa, ciento cincuenta y cinco veces el valor diario de la Unida
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 d).- Gran empresa, ciento noventa y ocho veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -2743,8 +2555,6 @@ VII. Por los estudios de flora y fauna silvestres, el 20 por ciento de una vez e
 
 VIII. Por la evaluación de los estudios de daños ambientales, quinientas veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las multas u otras sanciones a que se hiciera acreedor;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 IX. Por la autorización para la recolección y transporte de residuos de manejo especial para empresas prestadoras de servicios, por unidad motora y capacidad de carga siguientes:
@@ -2809,8 +2619,6 @@ En el caso de la evaluación de Cédulas de Operación Anual de las que no se ha
 
 XII. Por el otorgamiento de licencia, autorización o concesión para el establecimiento y funcionamiento de un centro de verificación de contaminantes atmosféricos generados por fuentes móviles, así como por cada unidad móvil, mil veces el valor diario de la Unidad de Medida y Actualización, según se trate. Dicho cobro se realizará anualmente durante la vigencia de la licencia, autorización o concesión otorgada;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 XIII. Por los servicios de verificación vehicular de medición de los niveles de contaminación por vehículos automotores:
@@ -2865,13 +2673,9 @@ XIX. Por prórroga de la autorización para la recolección y transporte de resi
 
 ### CAPITULO X. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR ORGANISMOS PÚBLICOS DESCENTRALIZADOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO UNICO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -2937,8 +2741,6 @@ V.- Régimen de propiedad en condominio habitacional, 4 por ciento el valor diar
 
 ### CAPITULO UNICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 79.
@@ -2950,8 +2752,6 @@ Se causarán derechos por cooperación para ejecución de obra de interés públ
 Los propietarios o poseedores de predios que se encuentren dentro del área de beneficio de las obras públicas, causarán los derechos de cooperación que establece el Decreto citado en el artículo anterior.
 
 ### CAPITULO UNICO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -3135,8 +2935,6 @@ Por la prestación del servicio de telefonía rural a través de la red de Telec
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 91.
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2011)
@@ -3202,8 +3000,6 @@ VI.- Por la aprobación de planos de construcción de obras que por sus caracter
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 VII.- Por asesoría o autorización de permiso sanitario de construcción para remodelación, modificación en la construcción de unidad médica, hospital clínica, consultorio, laboratorio o gabinetes de rayos x, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -3437,15 +3233,11 @@ El trámite y estudio para autorizaciones de las solicitudes de subsidios fiscal
 
 El Ejecutivo, por conducto de la Secretaría, hará efectivo el cobro de las formas valoradas cuyo precio se determinará tomando en cuenta el costo de las mismas o el que rija en el mercado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 97.
 
 Por el servicio de verificación, evaluación y supervisión que las leyes de la materia encomiendan a la Contraloría Gubernamental en la ejecución de obra pública, los contratistas con quienes se celebre contrato de obra pública del Estado y de servicios relacionados con la misma, pagarán un derecho equivalente del 5 al millar sobre el importe de cada una de las estimaciones de obra que presenten o sobre el importe del contrato.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -3453,21 +3245,15 @@ Por el servicio de verificación, evaluación y supervisión que las leyes de la
 
 Por cualquier otro servicio que se ajuste a la definición de derechos prevista en el Código Fiscal del Estado de Tamaulipas y de conformidad con el costo que le represente proporcionarlo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 99.
 
 Se pagarán los Derechos por los servicios que prestan los organismos públicos descentralizados del Estado conforme al tabulador vigente que se publique en el Periódico Oficial del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 Los ingresos recaudados por las dependencias de la administración estatal en términos de los diversos conceptos que establecen las leyes fiscales, deberán ser depositados para su registro en la Secretaría de Finanzas; a su vez, los ingresos propios que recauden las dependencias de la administración estatal se informarán y depositarán en la Secretaría de Finanzas. En ambos casos, los ingresos deberán reflejarse, cualquiera que sea su naturaleza, en la cuenta de la hacienda pública estatal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -3475,13 +3261,9 @@ Los ingresos recaudados por las dependencias de la administración estatal en t�
 
 Por cualquier servicio que preste el Gobierno del Estado a través de las entidades de la administración estatal, que se sitúen conforme a la definición de derechos prevista en el Código Fiscal del Estado de Tamaulipas y de conformidad con el costo que represente proporcionarlo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ## TITULO IV. DE LAS CONTRIBUCIONES ESPECIALES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -3499,15 +3281,11 @@ a).- La persona o personas, cualquiera que sea el nombre con que se les designe,
 
 b).- Quienes ejerzan la patria potestad o tutela, por las contribuciones a cargo de su representado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 102.
 
 La base de las contribuciones a que se refiere este Título será el importe del gasto público provocado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -3515,15 +3293,11 @@ La base de las contribuciones a que se refiere este Título será el importe del
 
 Las autoridades fiscales estarán facultadas para determinar el importe de las contribuciones, las cuales deberán tomar en cuenta para su determinación, el costo real del gasto público originado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 104.
 
 Las contribuciones por gasto deberán ser pagadas en las instituciones de crédito autorizadas, dentro de los quince días siguientes a que surta efectos la notificación de la resolución que contenga la determinación de las contribuciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -3531,21 +3305,15 @@ Las contribuciones por gasto deberán ser pagadas en las instituciones de crédi
 
 En cada caso, el monto total de la contribución, no podrá exceder del costo del gasto público de que se trate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 106.
 
 En lo no previsto en este Capítulo, la aplicación y recaudación de las contribuciones, se hará con apego a las disposiciones del Código Fiscal del Estado de Tamaulipas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ## TITULO V. DE LOS APROVECHAMIENTOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -3567,21 +3335,15 @@ VI.- Contraprestación de concesiones; y
 
 VII.- Otros aprovechamientos no especificados que por su naturaleza se sitúen conforme a la definición contemplada en el Código Fiscal del Estado de Tamaulipas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 108.
 
 Los aprovechamientos se determinarán conforme a su naturaleza, y lo dispuesto en las otras leyes fiscales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ## TITULO VI. DE LOS PRODUCTOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -3784,3 +3546,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 23 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-1000 DECRETO MEDIANTE EL CUAL SE DEROGA LA FRACCIÓN XVII DEL ARTÍCULO 45 DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor noventa días después de su publicación en el Periódico Oficial del Estado.
