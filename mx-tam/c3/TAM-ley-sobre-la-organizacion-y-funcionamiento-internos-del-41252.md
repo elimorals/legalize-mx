@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2017-03-15"
+last_updated: "2017-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -611,13 +611,17 @@ y) Desarrollo de Zonas Metropolitanas;
 
 z) Transparencia y Acceso a la Información Pública;
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2017)</small>
 
-aa) Pesca y Acuacultura; y
+aa) Pesca y Acuacultura;
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2017)</small>
 
-ab) Familia.
+ab) Familia; y
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2017)</small>
+
+ac) Anticorrupción y Participación Ciudadana.
 
 3. La competencia de las comisiones enunciadas en el párrafo anterior se corresponde, en lo general, con las otorgadas a las dependencias de la administración pública del Estado en esas esferas.
 
@@ -2954,3 +2958,11 @@ P.O. 15 DE MARZO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición, y se mandará a su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-172 MEDIANTE EL CUAL SE REFORMAN LOS INCISOS AA) Y AB), Y SE ADICIONA EL INCISO AC) AL PÁRRAFO 2 DEL ARTÍCULO 35 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición, y se publicará en el Periódico Oficial del Estado.
