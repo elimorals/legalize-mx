@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2016-12-28"
+last_updated: "2017-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -2333,9 +2333,11 @@ La adopción internacional se sujetará a lo previsto en los tratados internacio
 
 La adopción por extranjeros promovida por ciudadanos de otro país, con residencia permanente en territorio nacional, se regirá por lo dispuesto en este Código. En igualdad de circunstancias se dará preferencia en la adopción a mexicanos sobre extranjeros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2017)</small>
+
 ###### Artículo 344.
 
-El extranjero o pareja de extranjeros que no residan en México, están obligados a demostrar su legal estancia en el país ante la Secretaría de Gobernación y que están facultados para llevar a cabo la adopción. Además presentarán los pretendientes adoptantes, la autorización de un certificado debidamente legalizado y traducido, si está escrito en otro idioma, el cual deberá ser expedido por una institución autorizada en su país de origen y relacionada con la protección de menores, en el que conste que el solicitante tiene capacidad jurídica para adoptar, según las leyes de ese país, atendiendo a sus aptitudes física, moral, psicológica y económica.
+El extranjero o pareja de extranjeros que no residan en México, están obligados a presentar su visa de visitante con fines de adopción. Además presentarán los pretendientes adoptantes, la autorización de un certificado debidamente legalizado y traducido, si está escrito en otro idioma, el cual deberá ser expedido por una institución autorizada en su país de origen y relacionada con la protección de menores, en el que conste que el solicitante tiene capacidad jurídica para adoptar, según las leyes de ese país, atendiendo a sus aptitudes física, moral, psicológica y económica.
 
 El Sistema Estatal para el Desarrollo Integral de la Familia, hará un informe detallado sobre la identidad del pretendido adoptante, su adaptabilidad, medio escolar, familiar, social y desde luego sus necesidades particulares tales como su origen étnico, religioso y cultural y a fin de que la colocación en adopción, resulten para el adoptado de supremo beneficio, así como las condiciones idóneas de los que pretenden adoptar.
 
@@ -7350,3 +7352,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO: 124 POR EL QUE "SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 344 DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA.”]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
