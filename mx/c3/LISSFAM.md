@@ -4,7 +4,7 @@ identifier: "LISSFAM"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-09"
-last_updated: "2015-01-27"
+last_updated: "2017-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32514&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSFAM"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MAYO DE 2017.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 9 de julio de 2003.
 
@@ -1467,6 +1467,10 @@ II. Tener depósitos al fondo de por lo menos 6 años a su favor, excepción hec
 III. Antecedentes militares;
 
 IV. En el caso de cónyuges militares que sean beneficiarios de esta Ley, se podrán otorgar individual o mancomunadamente;
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2017)</small>
+
+También podrán mancomunarse los créditos de cónyuges que no pertenezcan a las Fuerzas Armadas y que por su actividad laboral sean beneficiarios de créditos del Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, de la Comisión Nacional de Vivienda o de cualquier otra institución de seguridad social que otorgue esta prestación a cónyuges o concubinos de militares para adquirir vivienda; así como para la adquisición, construcción, reparación, ampliación o mejoramiento de sus habitaciones o al pago de los pasivos que tengan por los conceptos anteriores;
 
 V. Se podrán otorgar créditos por segunda ocasión sólo que exista disponibilidad en el fondo y no existan solicitudes de militares que no hayan tenido este beneficio, y
 
@@ -3017,3 +3021,11 @@ D.O.F. 14 DE ENERO DE 2013.
 D.O.F. 27 DE ENERO DE 2015.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 108 DE LA LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Dentro del término de 45 días posteriores a la entrada en vigor del presente Decreto, el Ejecutivo Federal y la Secretaría del ramo competente, deberán realizar las adecuaciones normativas al Reglamento de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas.
