@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-sistema-para-el-desarrollo-integral-de-la-familia-95665
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-23"
-last_updated: "2013-08-23"
+last_updated: "2017-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 23 de agosto de 2013.
 
@@ -51,27 +51,41 @@ I. Promover el bienestar social y prestar, tanto en forma directa como coordinad
 
 II. Apoyar el desarrollo de la familia, la comunidad y de los sujetos que de acuerdo con la Ley del Sistema de Asistencia Social del Estado de Querétaro, necesitan de los servicios que la misma establece;
 
-III. Impulsar el sano crecimiento físico, mental y social de la niñez;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2017)</small>
+
+III. Impulsar el sano crecimiento físico, mental y social de las niñas, niños y adolescentes;
 
 IV. Coordinar y apoyar las actividades de los Sistemas para el Desarrollo Integral de la Familia de cada uno de los municipios del Estado, de conformidad con los convenios que celebre cada municipio con el Sistema Estatal;
 
 V. Promover el fortalecimiento de los valores, a efecto de elevar la calidad de vida de la población en el Estado de Querétaro;
 
-VI. Operar, administrar y fomentar la creación de establecimientos de asistencia social en beneficio de niños, niñas, adolescentes, mujeres, adultos mayores y personas con discapacidad, en situación de abandono, desamparo o sin recursos;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2017)</small>
 
-VII. Realizar estudios e investigaciones sobre los problemas de la familia, de los menores, de los adultos mayores y de las personas con discapacidad;
+VI. Operar, administrar, construir, rehabilitar, conservar, dar mantenimiento, reparar, demoler y promover la creación de bienes inmuebles destinados a brindar servicios de asistencia social en beneficio de niñas, niños, adolescentes, mujeres, adultos mayores y personas con discapacidad en situación de abandono, desamparo o sin recursos; así como llevar a cabo los servicios relacionados con las actividades mencionadas, en términos de las disposiciones legales aplicables y de acuerdo con el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2017)</small>
+
+VII. Realizar estudios e investigaciones sobre los problemas de la familia, de las niñas, niños y adolescentes, así como de los adultos mayores y de las personas con discapacidad;
 
 VIII. Apoyar, en la medida de la capacidad presupuestaria, las actividades que lleven a cabo las instituciones de asistencia privada cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias;
 
-IX. Prestar gratuitamente servicios de asistencia jurídica y de orientación social a los menores de edad, adultos mayores y personas con discapacidad sin recursos y en estado de abandono;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2017)</small>
 
-X. Coadyuvar con el Ministerio Público en la protección de los menores, adultos mayores y personas con discapacidad;
+IX. Prestar gratuitamente servicios de asistencia jurídica y de orientación social a las niñas, niños y adolescentes, adultos mayores y personas con discapacidad sin recursos y en estado de abandono;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2017)</small>
+
+X. Coadyuvar con la Fiscalía General del Estado de Querétaro en la protección de las niñas, niños y adolescentes, adultos mayores y personas con discapacidad;
 
 XI. Procurar permanentemente la adecuación y cumplimiento de sus objetivos y programas, así como los de los Sistemas para el Desarrollo Integral de la Familia de cada uno de los municipios del Estado, con el Sistema Nacional para el Desarrollo Integral de la Familia;
 
-XII. Actuar ante los tribunales del Estado, en todo juicio en que se vean afectados los derechos de menores de edad, adultos mayores y personas con discapacidad;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2017)</small>
 
-XIII. Implementar los medios de información, orientación y concientización, dirigidos a quienes deseen realizar trámites de adopción en el Estado de Querétaro, sobre la importancia social y jurídica de incorporar a su familia a un menor de edad;
+XII. Actuar ante los tribunales del Estado, en todo juicio en que se vean afectados los derechos de niñas, niños, adolescentes, adultos mayores o personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2017)</small>
+
+XIII. Implementar los medios de información, orientación y concientización, dirigidos a quienes deseen realizar trámites de adopción en el Estado de Querétaro, sobre la importancia social y jurídica de incorporar a su familia a una niña, niño o adolescente;
 
 XIV. Prestar servicio social a favor de las mujeres que radiquen en el Estado, a efecto de brindar un espacio de reflexión y esparcimiento con herramientas que les permita mejorar su calidad de vida;
 
@@ -105,7 +119,9 @@ V. Patronato, el Patronato del Sistema para el Desarrollo Integral de la Familia
 
 VI. SMDIF, los Sistemas para el Desarrollo Integral de la Familia de cada uno de los municipios del Estado; y
 
-VII. Procuraduría, la Procuraduría de la Defensa del Menor y la Familia del Estado de Querétaro.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2017)</small>
+
+VII. Procuraduría de Protección Estatal, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Querétaro.
 
 ### Capítulo II. Del patrimonio
 
@@ -135,7 +151,9 @@ II. El Patronato;
 
 III. La Dirección General;
 
-IV. La Procuraduría de la Defensa del Menor y la Familia; y
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2017)</small>
+
+IV. La Procuraduría de Protección Estatal, y
 
 V. El Órgano Interno de Control.
 
@@ -283,125 +301,57 @@ XIII. Requerir y hacer efectivo el cobro de fianzas en los contratos que celebre
 
 XIV. Las demás que tenga conforme a las disposiciones legales aplicables.
 
-### Capítulo VII. De la Procuraduría de la Defensa del Menor y la Familia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MAYO DE 2017)</small>
+
+### Capítulo VII. De la Procuraduría de Protección de Niñas, Niños y Adolescentes
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2017)</small>
 
 ###### Artículo 20.
 
-La Procuraduría es el área encargada de proteger los derechos de las personas en situación vulnerable afectadas por conflictos de carácter familiar, así como representar y defender a los menores de edad e incapaces ante las autoridades competentes y prevenir, atender y erradicar la violencia familiar en el Estado.
+La Procuraduría de Protección Estatal es una institución especializada en la protección y restitución de los derechos de niñas, niños y adolescentes del Estado de Querétaro, por lo que se encargará de coordinar y dar seguimiento a las medidas de protección que en su caso se dicten atendiendo al interés superior de éstos; además representará, protegerá y defenderá legalmente a las niñas, niños y adolescentes en cualquier procedimiento administrativo o jurisdiccional, en los que sean parte o puedan resultar afectados sus derechos o intereses, con el fin de garantizar sus derechos fundamentales.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2017)</small>
 
 ###### Artículo 21.
 
-La Procuraduría se integra por:
-
-I. Un Procurador, que será el titular de la Procuraduría;
-
-II. Un Sub-Procurador;
-
-III. Un Coordinador de Asistencia Jurídica a Población Vulnerable;
-
-IV. Un Coordinador de Asistencia Jurídica a Casas Hogar;
-
-V. Un Coordinador de Adopciones;
-
-VI. Un Coordinador de Prevención de la Violencia Familiar;
-
-VII. Un Coordinador del Programa de Prevención del Maltrato al Niño; y
-
-VIII. El personal que señale el Reglamento Interior del Sistema.
-
-Las funciones de los servidores públicos mencionados en el presente artículo se establecerán en el Reglamento Interior del Sistema.
-
-Los servidores públicos mencionados en las fracciones I a la VII, son considerados personal de confianza.
+La Procuraduría de Protección Estatal se integrará por aquellas unidades administrativas necesarias para su funcionamiento, conforme a lo señalado en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Querétaro y el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro, tomando en cuenta la suficiencia presupuestal con que se cuente.
 
 ###### Artículo 22.
 
-Es competencia de la Procuraduría:
+(DEROGADO, P.O. 24 DE MAYO DE 2017)
 
-I. Proporcionar orientación y asesoría jurídica en materia de derecho familiar a personas en situación vulnerable;
-
-II. Actuar con interés legítimo ante las autoridades y tribunales competentes, cuando considere afectados los derechos de menores de edad o incapaces declarados judicialmente, cuando sean víctimas de violencia, respetando siempre las atribuciones y funciones que las leyes encomiendan a otras autoridades;
-
-III. Representar legalmente a los menores de edad puestos a disposición de la Procuraduría en materia de derecho familiar, sin que sea necesario el otorgamiento de poder de parte de quien ejerza la patria potestad, la tutela o custodia;
-
-IV. Promover todo proceso administrativo y judicial tendiente a lograr la adopción plena de menores de edad puestos a su disposición, con situación jurídica resuelta y la adopción entre particulares;
-
-V. Actuar como tercero coadyuvante ante el Ministerio Público y autoridades jurisdiccionales, en asuntos de menores de edad puestos a su disposición;
-
-VI. Atender y prevenir la violencia familiar mediante acciones y programas en coordinación con las instancias competentes, de acuerdo a sus posibilidades y recursos, conforme a las atribuciones que le confiere la ley de la materia;
-
-VII. Coadyuvar en las actividades de las Procuradurías de la Defensa del Menor y la Familia de los SMDIF, para consolidar la atención integral de los menores de edad y familias en situación de vulnerabilidad, con base en los convenios que en su caso celebren las autoridades municipales competentes con el Sistema;
-
-VIII. Solicitar a las autoridades en materia de salud y educativas, que los menores de edad albergados o puestos a disposición de la Procuraduría, reciban atención médica y educación para lograr su integración social, así como llevar a cabo el seguimiento para verificar las condiciones en las que se encuentran los menores que han sido reintegrados con sus familiares;
-
-IX. Procurar el sano desarrollo de los menores de edad que se encuentren bajo la tutela o custodia provisional y definitiva de la Procuraduría, en coordinación con otras instituciones públicas y privadas en sus respectivas competencias, en busca y protección del interés superior del menor;
-
-X. Actuar en defensa del interés jurídico de los menores de edad y personas con declaración judicial de incapacidad, ante las autoridades judiciales y administrativas; en casos de notoria urgencia o cuando exista conflicto de intereses con quienes ejercen la patria potestad o tutela;
-
-XI. Velar por que los menores de edad que se encuentren puestos a disposición de la Procuraduría, obtengan provisional o definitivamente un hogar seguro hasta que cumplan la mayoría de edad o sean dados en adopción;
-
-XII. Girar citatorios, oficios y realizar las gestiones necesarias para cumplir sus funciones, así como para constatar el abandono de menores de edad o localizar a los familiares de los menores en situación de desamparo;
-
-XIII. Autorizar, suspender o negar, de manera provisional, las convivencias o reintegración de los menores de edad puestos a su disposición, una vez que se obtengan los elementos de valoración médicos, de trabajo social y psicológico, para garantizar su sano desarrollo.
-
-Dichas medidas quedarán sin efecto, una vez que la autoridad judicial haya dictado medidas provisionales o definitivas al respecto;
-
-XIV. Intervenir y decidir sobre todas las cuestiones relativas a los menores de edad albergados, respecto de sus necesidades médicas, educativas y psicológicas en base al interés superior del menor y su sano desarrollo;
-
-XV. Determinar provisionalmente el lugar donde deberán permanecer los menores de edad en situación vulnerable o puestos a su disposición, dejando a salvo los derechos de los interesados;
-
-XVI. Procurar la conciliación de los interesados en los asuntos de su competencia, exhortándolos a resolver sus diferencias mediante convenio, el cual será vinculatorio y exigible para las partes siempre y cuando sea ratificado ante la autoridad judicial competente.
-
-Este procedimiento no es requisito previo para el ejercicio de cualquier acción judicial. La conciliación no se promoverá cuando exista riesgo grave para la integridad física o psicológica de los involucrados, particularmente en los casos de violencia familiar;
-
-XVII. Emplear, para hacer cumplir sus determinaciones, cualquiera de las sanciones y medios de apremio que establece la Ley de Procedimientos Administrativos del Estado de Querétaro;
-
-XVIII. Gestionar, en su caso, ante el Oficial del Registro Civil o en Coordinación con la Dirección del Registro Civil del Estado de Querétaro, la obtención del acta de nacimiento de menores de edad abandonados o expósitos o aquellos que no cuenten con acta, conforme a los lineamientos del Código Civil del Estado de Querétaro y disposiciones administrativas vigentes;
-
-XIX. Emitir, recibir y remitir los dictámenes de psicología y trabajo social que determinen las condiciones de ingreso, permanencia y estado en que se encuentra el menor de edad albergado o puesto a disposición respecto a su condición física, emocional y social;
-
-XX. Realizar la búsqueda, por medio de las investigaciones institucionales, de las personas que ejerzan la patria potestad sobre los menores de edad albergados o puestos a su disposición, con la finalidad de expedir la constancia de inexistencia de domicilio en el Estado.
-
-Para efectos de lo establecido en el Código de Procedimientos Civiles del Estado de Querétaro, en materia del juicio de pérdida de patria potestad, tendrá la facultad de requerir los informes al Instituto Federal Electoral, al Instituto Mexicano del Seguro Social y a la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado, con el objeto de determinar el domicilio de quien ejerza la patria potestad de un menor de edad puesto a su disposición o acogido por una institución de asistencia pública o privada, así como solicitar al titular de la Procuraduría General de Justicia del Estado la colaboración de la dependencia a su cargo para que, a través de la Dirección de Investigación del Delito, se realice la investigación que pueda determinar el domicilio de las citadas personas y la investigación de la filiación tratándose de menores de edad expósitos;
-
-XXI. Ejercer la representación legítima del Consejo Técnico de Adopciones, en los términos establecidos por el Código Civil del Estado de Querétaro, el Reglamento Interior del Sistema y demás disposiciones aplicables;
-
-XXII. Actuar como tutor y curador en los procedimientos o juicios de orden familiar en que sea nombrado con ese carácter por el Juez del conocimiento, extinguiéndose dicho cargo al concluir el proceso;
-
-XXIII. Emitir, a solicitud de autoridad competente o petición ciudadana, dictámenes, informes y opiniones con el fin de salvaguardar la integridad y seguridad de las víctimas de violencia familiar para la protección de sus derechos; y
-
-XXIV. Las demás que le asignen esta Ley y demás ordenamientos legales aplicables.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2017)</small>
 
 ###### Artículo 23.
 
-El Procurador y el Subprocurador de la Defensa del Menor y la Familia, serán nombrados y removidos conforme a las facultades y obligaciones del Director General, de acuerdo a la presente Ley.
+El Subprocurador de Protección Estatal de Niñas, Niños y Adolescentes, será nombrado y removido por la Junta, de acuerdo con lo dispuesto en la presente Ley y en las demás disposiciones jurídicas aplicables.
 
 ###### Artículo 24.
 
-Para ser Procurador de la Defensa del Menor y la Familia se requiere:
+(DEROGADO, P.O. 24 DE MAYO DE 2017)
 
-I. Ser mexicano por nacimiento;
-
-II. Contar con título de Licenciado en Derecho debidamente registrado y como mínimo con tres años de ejercicio profesional y tener experiencia en el área de derecho familiar;
-
-III. Ser mayor de treinta años de edad; y
-
-IV. No haber sido condenado por delito doloso que amerite pena privativa de la libertad.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2017)</small>
 
 ###### Artículo 25.
 
-El Procurador de la Defensa del Menor y la Familia, tendrá las siguientes facultades:
+El Procurador de Protección Estatal de Niñas, Niños y Adolescentes, tendrá las siguientes facultades:
 
-I. Ejercer las funciones que deriven de la competencia de la Procuraduría, mismas que podrá delegar a sus subordinados y a su vez podrá otorgar mandato judicial a los servidores públicos que determine, en los términos de las leyes aplicables, con el objeto de eficientar el trámite de los asuntos de su competencia;
+I. Ejercer las funciones que deriven de la competencia de la Procuraduría de Protección Estatal, mismas que podrá delegar a sus subordinados y a su vez podrá otorgar mandato judicial a los servidores públicos que determine, en los términos de las leyes aplicables, con el objeto de hacer más eficientes los trámites de protección y restitución de los derechos de niñas, niños y adolescentes del Estado de Querétaro;
 
-II. Coordinar las actividades de la Procuraduría;
+II. Ejercer la representación legítima del Consejo Técnico de Adopciones, en los términos establecidos por el Código Civil del Estado de Querétaro, el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro y demás disposiciones aplicables;
 
-III. Expedir y autorizar copias certificadas de los documentos y constancias que emita la Procuraduría en ejercicio de sus funciones, previo requerimiento judicial o a solicitud de las partes que acrediten el interés jurídico; y
+III. Coordinar las actividades de la Procuraduría de Protección Estatal;
 
-IV. Las demás que se desprendan de esta Ley y las que le señalen el Director General o la Junta.
+IV. Expedir y autorizar copias certificadas de los documentos y constancias que obren dentro de los expedientes de la Procuraduría de Protección Estatal, previo requerimiento judicial o a solicitud de las partes que acrediten el interés jurídico; y
+
+V. Las demás que se desprendan de esta Ley y demás ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2017)</small>
 
 ###### Artículo 26.
 
-Para ser Sub-Procurador de la Defensa del Menor y la Familia se requiere:
+Para ser Sub-Procurador de Protección Estatal de Niñas, Niños y Adolescentes se requiere:
 
 I. Ser mexicano por nacimiento;
 
@@ -411,29 +361,35 @@ III. Ser mayor de veinticinco años de edad; y
 
 IV. No haber sido condenado por delito doloso que amerite pena privativa de la libertad.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2017)</small>
+
 ###### Artículo 27.
 
-El Sub-Procurador de la Defensa del Menor y la Familia, tendrá las siguientes facultades:
+El Sub-Procurador de Protección Estatal de Niñas, Niños y Adolescentes, tendrá las siguientes facultades:
 
-I. Auxiliar al Procurador de la Defensa del Menor y la Familia en el ejercicio de sus funciones, así como intervenir en los procedimientos judiciales y administrativos que le sean encomendados;
+I. Auxiliar al Procurador de Protección Estatal de Niñas, Niños y Adolescentes en el ejercicio de sus funciones, así como intervenir en los procedimientos Judiciales y Administrativos que le sean encomendados;
 
-II. Supervisar el cumplimiento de las determinaciones de la Procuraduría;
+II. Supervisar el cumplimiento de las determinaciones de la Procuraduría de Protección Estatal;
 
-III. Coadyuvar con las funciones de los demás integrantes de la Procuraduría;
+III. Coadyuvar con las funciones de los demás integrantes de la Procuraduría de Protección Estatal;
 
-IV. Informar, en forma cuatrimestral, al Procurador de la Defensa del Menor y la Familia de los trabajos realizados;
+IV. Rendir los informes que le requiera el Procurador de Protección Estatal de Niñas, Niños y Adolescentes, sobre los asuntos de su competencia y las actividades realizadas en ejercicio de sus funciones;
 
-V. Suplir al Procurador de la Defensa del Menor y la Familia en sus ausencias temporales; y
+V. Suplir al Procurador de Protección Estatal de Niñas, Niños y Adolescentes en sus ausencias temporales; y
 
-VI. Las demás que resulten de ésta y otras leyes o le señale el Procurador de la Defensa del Menor y la Familia.
+VI. Las demás que señale la Ley, la normatividad aplicable y los demás asuntos que le encomiende el Procurador de Protección Estatal de Niñas, Niños y Adolescentes.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2017)</small>
 
 ###### Artículo 28.
 
-Las autoridades judiciales y administrativas darán a la Procuraduría la intervención que le corresponda, en asuntos de su competencia.
+Las autoridades judiciales y administrativas darán a la Procuraduría de Protección Estatal la intervención que le corresponda, en asuntos de su competencia.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2017)</small>
 
 ###### Artículo 29.
 
-En los casos en que se considere necesario, la Procuraduría dará vista al Ministerio Público y solicitará que se dicten las medidas precautorias pertinentes para salvaguardar el interés superior del menor.
+En los casos en que se considere necesario, la Procuraduría de Protección Estatal dará intervención a las autoridades e instituciones públicas y privadas para garantizar la protección y restitución de derechos de niñas, niños y adolescentes.
 
 ### Capítulo VIII. Del Órgano Interno de Control
 
@@ -560,3 +516,17 @@ Lic. Jorge López Portillo Tostado
 Secretario de Gobierno del Poder Ejecutivo del Estado de Querétaro
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. El Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro contará con 120 días naturales siguientes al de la entrada en vigor de la presente Ley, para aprobar las reformas a su estructura orgánica, a fin de adecuarlas al contenido del presente ordenamiento.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
+
+Artículo Cuarto. Las referencias hechas a la Procuraduría de la Defensa del Menor y de la Familia, en leyes, reglamentos y demás disposiciones jurídicas, se entenderán referidas a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Querétaro, en tanto se realizan las reformas que correspondan.
