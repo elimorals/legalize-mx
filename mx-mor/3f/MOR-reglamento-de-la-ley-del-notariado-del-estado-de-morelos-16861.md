@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-del-notariado-del-estado-de-morelos-16861"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-02-26"
-last_updated: "2017-05-10"
+last_updated: "2017-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MAYO DE 2017 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE MAYO DE 2017.]</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 26 de febrero de 1999.
 
@@ -105,7 +105,7 @@ VIII.- Octava Demarcación Notarial.- Comprende los Municipios de Temixco y Xoch
 
 IX.- Novena Demarcación Notarial.- Comprende los Municipios de Jiutepec y Emiliano Zapata, con sede en Jiutepec, Morelos.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2017)</small>
+(ADICIONADO [N. DE. E. REFORMADO], P.O. 10 DE MAYO DE 2017) (F. DE E., P.O. 24 DE MAYO DE 2017)
 
 En casos urgentes, los Notarios Públicos podrán ejercer sus funciones fuera de su demarcación sin previa solicitud, debiendo notificar de ello a la Secretaría dentro de las 72 horas siguientes a la actividad realizada, en la que de igual manera se expondrán las causas que motivaron la atención urgente.
 
@@ -429,7 +429,7 @@ V.- En el caso de las retenciones realizadas, indicar, en el informe del mes que
 
 El Notario autorizará definitivamente la escritura al pie de la misma, cuando se den los supuestos del artículo 64 de la Ley y se hayan enterado los impuestos correspondientes. Asimismo, si durante el transcurso del tiempo el Notario hiciere cambios significativos a su firma, deberá dar aviso de tal circunstancia a la Secretaría para el registro y anotación respectiva.
 
-Si el Notario hubiese fallecido y en la escritura aparece la autorización preventiva con la razón "ante mí", su firma y su sello, la persona titular del Archivo General de Notarías podrá autorizarla definitivamente, una vez que se hubiesen enterado los impuestos mencionados.
+Si el Notario hubiese fallecido y en la escritura aparece la autorización preventiva con la razón “ante mí”, su firma y su sello, la persona titular del Archivo General de Notarías podrá autorizarla definitivamente, una vez que se hubiesen enterado los impuestos mencionados.
 
 ###### Artículo 34.
 
