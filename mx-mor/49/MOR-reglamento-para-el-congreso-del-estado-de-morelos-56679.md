@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2015-12-09"
+last_updated: "2017-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
 
@@ -275,29 +275,41 @@ IV. Desempeñe una comisión o empleo de la federación o de los estados por el 
 
 ### CAPÍTULO TERCERO. DE LA ÉTICA PARLAMENTARIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 22.
 
-Se entiende por ética parlamentaria, el conjunto de valores fundamentales y normas de conducta que regirán en todo momento el ejercicio de la función legislativa conforme a los principios de solidaridad, diálogo, acuerdo, legalidad, respeto, equidad, libertad, independencia, responsabilidad, transparencia, honradez, veracidad, respeto, tolerancia, pluralidad, democracia, bien común, integridad, objetividad, participación y justicia.
+El Congreso del Estado de Morelos contara con un Código de Ética Parlamentaria, con el propósito de promover, capacitar y difundir los principios de conducta y deberes éticos. Velando en todo momento el cumplimiento de los principios de legalidad, integridad e imparcialidad, entre los Diputados y los trabajadores del Poder Legislativo.
 
 El legislador que se aparte de la ética parlamentaria en el ejercicio de su actividad, incurrirá en responsabilidad, se hará acreedor a las medidas disciplinarias establecidas en la Ley y en el presente reglamento.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 23.
 
-Los diputados se conducirán en todo momento, con apego a principios que privilegien el diálogo, la tolerancia y el respeto mutuo, como valores que sustenten su desempeño en la representación popular e impulsen el desarrollo de una práctica legislativa abierta y democrática, estarán sujetos a las medidas disciplinarias contenidas en el reglamento.
+Los Diputados se conducirán en todo momento, con apego a principios de, legalidad, integridad, imparcialidad, eficacia y ética. En todo momento deberá conducirse con respeto a la investidura, privilegiando el diálogo, la tolerancia y el respeto mutuo, como valores que sustenten su desempeño en la representación popular e impulsen el desarrollo de una práctica legislativa abierta y democrática, estarán sujetos a las medidas disciplinarias contenidas en el reglamento y el Código de Ética Parlamentaria.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 24.
 
-En su conducta los diputados darán ejemplo de su compromiso con los valores que inspiran el estado democrático de derecho así como la vocación de servicio al país y al Estado de Morelos.
+En su conducta los diputados darán ejemplo de su compromiso, con una conducta moralmente intachable, honesta y leal al desempeño de las funciones de su cargo, con los valores que inspiran el estado democrático de derecho, así como la vocación de servicio al país y al Estado de Morelos.
 
 ###### ARTÍCULO 25.
 
 Son deberes de conducta de los diputados los siguientes:
 
-I. El respeto a la investidura de diputado, la cual es incompatible con una conducta que atente contra el orden público y las buenas costumbres;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2017)</small>
 
-II. Abstenerse de efectuar gestiones ajenas a su labor como legislador ante cualquier dependencia de los poderes del Estado, así como de los organismos autónomos y organismos públicos descentralizados del Estado, en el ejercicio de sus funciones que representen beneficios personales o familiares;
+I. Actuar con decoro y respeto a la investidura de diputado, utilizando en todo momento un lenguaje acorde con la moral, buenas costumbres y ética parlamentaria, máxime si se utiliza la Tribuna del Congreso del Estado, la cual es incompatible con una conducta que atente contra el orden público;
 
-III. Declinar atenciones que puedan ser medio para interferir en el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2017)</small>
+
+II. Actuar con armonía frente a sus colegas. Se abstendrá cuidadosamente de expresiones maliciosas o injuriosas y de aludir antecedentes personales de ellos;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2017)</small>
+
+III. Ser respetuoso con el trato con los ciudadanos, los demás Diputados, el personal del Congreso y en general, con cualquier autoridad o funcionario público.
 
 IV. No pretender trato preferencial alguno al realizar trámites personales o familiares ante entidades públicas o privadas;
 
@@ -311,6 +323,10 @@ VIII. Responsabilizarse por todo documento que firma y sella;
 
 IX. Las demás que establezca la Ley, este reglamento y las que acuerde la Conferencia.
 
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2017)</small>
+
+Las demás que establezca la Ley, el reglamento interno, el Código de Ética Parlamentaria y las que acuerden la Conferencia.
+
 ###### ARTÍCULO 26.
 
 En materia de ética parlamentaria, la Conferencia tendrá las siguientes atribuciones:
@@ -321,9 +337,11 @@ II. Resolver las consultas que se le formulen para el cumplimiento de la ética 
 
 III. Recibir y resolver por consenso, las denuncias en contra de las normas de ética establecidas que se presenten contra cualquier diputado.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 27.
 
-La Conferencia será la encargada de aplicar y resolver las medidas correctivas en caso de incumplimiento a lo establecido en el presente capítulo.
+La Comisión de Gobernación, Gran Jurado y Ética Parlamentaria será el encargado de aplicar y resolver las recomendaciones, apercibimientos, sanciones o medidas disciplinarias en caso de incumplimiento a lo establecido en el presente Código de Ética Parlamentaria.
 
 ## TÍTULO QUINTO. DE LA ORGANIZACIÓN DEL CONGRESO
 
@@ -2096,3 +2114,11 @@ Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el pres
 ###### ARTÍCULO TERCERO.
 
 Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 24 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHOCIENTOS SESENTA Y CUATRO.- POR EL QUE SE ADICIONA TEXTO AL ARTÍCULO 22, 23 Y 24; ASIMISMO SE ADICIONA TEXTO AL ARTÍCULO 25 Y SE REFORMA SUS FRACCIONES I, II Y III; TODOS DEL REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos que indica el articulo 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
