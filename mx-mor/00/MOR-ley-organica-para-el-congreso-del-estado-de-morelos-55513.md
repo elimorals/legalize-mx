@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2017-04-26"
+last_updated: "2017-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -1159,9 +1159,15 @@ II. Organizar foros de participación ciudadana para conocer el punto de vista d
 
 III. Conocer y opinar de todos los asuntos relacionados con las comunidades indígenas de la entidad;
 
-IV. Convertirse en coadyuvante con las autoridades federales, estatales y municipales, para promover el desarrollo de los pueblos indígenas del Estado, vigilando las políticas que para el caso se instrumenten; y
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2017)</small>
 
-V. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra Comisión.
+IV. Convertirse en coadyuvante con las autoridades federales, estatales y municipales, para promover el desarrollo de los pueblos indígenas del Estado, vigilando las políticas que para el caso se instrumenten;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2017)</small>
+
+V. Dictaminar, en unión con la Comisión de Gobernación, Gran Jurado y Ética Legislativa, los relativos a la creación, desaparición o fusión de municipios indígenas a que se refiere el Título Décimo Primero de esta Ley, y
+
+VI. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra Comisión.
 
 ###### Artículo 73.
 
@@ -2041,6 +2047,10 @@ El secretario técnico de la Junta Política y de Gobierno, dará fe de los acto
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
 
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2017)</small>
+
 ###### Artículo 113.
 
 La Junta Política y de Gobierno emitirá una convocatoria pública a la sociedad, a efecto de recibir propuestas para la designación de Magistrados Numerarios y/o Supernumerarios del Tribunal Superior de Justicia.
@@ -2094,6 +2104,10 @@ En la sesión en que sea presentado al Pleno el dictamen con la propuesta de asp
 En caso de que ninguno de los aspirantes propuestos reúna la votación requerida, el dictamen se regresará a la Junta Política y de Gobierno, a efecto de que en tres días hábiles presente uno nuevo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
+
+### CAPÍTULO II. DE LA SOLICITUD DE CREACIÓN Y SUS REQUISITOS
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2017)</small>
 
 ###### Artículo 118.
 
@@ -2252,6 +2266,130 @@ La Junta Política y de Gobierno, formará un expediente por cada uno de los asp
 La Junta Política y de Gobierno seleccionará a los aspirantes que considere son los más idóneos para ser designados en el cargo de Magistrado Interino, los cuales propondrá en el Dictamen correspondiente al Pleno del Congreso.
 
 La votación requerida para ser designado como Magistrado Interino, será la contemplada en la fracción XXXVII, del artículo 40, de la Constitución Local.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2017)</small>
+
+## TÍTULO DÉCIMO PRIMERO. DE LA CREACIÓN DE MUNICIPIOS INDÍGENAS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2017)</small>
+
+### CAPÍTULO III. DEL PROCEDIMIENTO
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2017)</small>
+
+###### Artículo 128.
+
+Es facultad del Congreso del Estado la creación de municipios conformados por pueblos o comunidades indígenas, atendiendo lo dispuesto en el párrafo segundo de la fracción XI del Artículo 40 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2017)</small>
+
+###### Artículo 129.
+
+Para los efectos del presente Título, los criterios etnolingüísticos deberán considerar las correlaciones existentes entre los usos, actitudes lingüísticas o estructura de las lenguas y la cultura y costumbres de los pueblos o las comunidades existentes y su identidad étnica, para determinar diferencias entre culturas o épocas históricas y la conservación de sus propias instituciones sociales, económicas, culturales y políticas o parte de ellas.
+
+En su determinación, deberán considerarse, en su caso y de manera enunciativa pero no limitativa, los siguientes criterios etnolingüísticos:
+
+a) Autoadscipción o autorreconocimiento para el caso de avecindados;
+
+b) Hogares de indígenas en los pueblos o las comunidades;
+
+c) Contigüidad;
+
+d) Ocupación espacial de los pueblos o las comunidades en núcleos agrarios;
+
+e) Límites municipales compartidos, y
+
+f) Contorno compartido por ejidos, comunidades o agrupaciones de pequeñas propiedades.
+
+Por asentamiento físico se entiende a los espacios geográficos ocupados por los pueblos o las comunidades de origen indígena, con actividades de larga duración de convivencia, uso y transformación de su entorno, modelados por la cultura de origen y transformados por la colonización y los procesos agrarios, en donde reproducen su cultura, economía y sociedad, incluyendo a las dotaciones de tierra obtenidas por su conformación en núcleos ejidales o comunales, en términos de la normativa.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2017)</small>
+
+###### Artículo 130.
+
+Para la creación de municipios a que se refiere el artículo precedente, deberán aplicarse criterios etnolingüísticos y de asentamiento físico tendentes a acreditar que:
+
+I. Los pueblos o las comunidades indígenas involucrados conformen una unidad política, social y cultural;
+
+II. Cuenten con capacidad económica y presupuestal;
+
+III. Estén asentados en un territorio determinado;
+
+IV. Descienden de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización o el establecimiento de los actuales límites estatales, y
+
+V. Reconozcan autoridades propias de acuerdo con sus usos y costumbres.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2017)</small>
+
+###### Artículo 131.
+
+La solicitud para la creación de un municipio indígena, corresponde a:
+
+I. El Gobernador Constitucional del Estado;
+
+II. Los Diputados al Congreso del Estado, en forma individual o colectiva, y
+
+III. Los representantes de los pueblos o las comunidades indígenas que pretendan la integración del municipio.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2017)</small>
+
+###### Artículo 132.
+
+Para acreditar la capacidad de pedir de los representantes de los pueblos o las comunidades indígenas a que se refiere el artículo precedente, se deberá exhibir y adjuntar a la solicitud lo siguiente:
+
+I. Certificación de la autoridad competente, de la existencia de los pueblos o las comunidades indígenas;
+
+II. Certificación de la designación como representantes, expedida por la asamblea, junta de pobladores o cualquier forma de reunión determinada por los pobladores y quienes estén reconocidos como avecindados, y
+
+III. Documento idóneo que acredite su identidad.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2017)</small>
+
+###### Artículo 133.
+
+Con la solicitud para la creación de un municipio, se debe anexar lo siguiente:
+
+I. Denominación de los pueblos o las comunidades, así como el o los municipios a que pertenecen, que pretendan crearse como municipio;
+
+II. Antecedentes sobre su origen indígena;
+
+III. Información sobre su actividad económica;
+
+IV. Descripción de la extensión territorial ocupada por los pueblos o las comunidades indígenas;
+
+V. Acreditación de la legitimidad de sus derechos respecto del territorio ocupado;
+
+VI. Propuesta de cuadro de construcción del territorio a dotarse al municipio a crearse;
+
+VII. Censo de los pobladores de los pueblos o las comunidades indígenas, en términos de la normativa aplicable;
+
+VIII. Información sobre su organización conforme sus usos y costumbres, y
+
+IX. Certificación del acta de asamblea o junta de pobladores, en la que conste la decisión de crearse como municipio y autorización, en su caso, a sus representantes para presentar la solicitud.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2017)</small>
+
+###### Artículo 134.
+
+La solicitud a que se refiere el presente Título deberá presentarse ante la Mesa Directiva del Congreso del Estado, de la que se dará cuenta al Pleno en la Sesión Ordinaria inmediata siguiente, disponiéndose su turno a las Comisiones Unidas de Gobernación, Gran Jurado y Ética Legislativa y de Pueblos Indígenas, para su análisis y dictamen.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2017)</small>
+
+###### Artículo 135.
+
+Recibida la solicitud por las Comisiones Unidas a que se refiere el artículo anterior, se dispondrá la práctica de todos los estudios especializados que resulten necesarios para la acreditación del cumplimiento de los criterios precisados en este Título.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2017)</small>
+
+###### Artículo 136.
+
+Se dará cumplimiento de manera oportuna a lo dispuesto en los incisos D) y E) de la fracción XI del artículo 40 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2017)</small>
+
+###### Artículo 137.
+
+Una vez satisfechos los requisitos establecidos en el presente Título, se procederá a elaborar el dictamen respectivo, atendiéndose las disposiciones que sobre esta actividad se contienen en el Reglamento para el Congreso del Estado de Morelos.
 
 ## TRANSITORIOS
 
@@ -2750,3 +2888,11 @@ P.O. 26 DE ABRIL DE 2017.
 PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+P.O. 24 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHOCIENTOS SESENTA Y SEIS POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS, EN MATERIA DE CREACIÓN DE MUNICIPIOS INDÍGENAS”.]
+
+PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
