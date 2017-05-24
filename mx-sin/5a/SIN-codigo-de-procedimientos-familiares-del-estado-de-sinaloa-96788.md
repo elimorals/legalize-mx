@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-familiares-del-estado-de-sinaloa-96788
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-27"
-last_updated: "2016-12-28"
+last_updated: "2017-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2017.
 
 Código publicado en la Edición Extraordinaria, Tercera Sección Parte Uno del Periódico Oficial del Estado de Sinaloa, el miércoles 27 de noviembre de 2013.
 
@@ -5001,11 +5001,13 @@ A la solicitud se acompañará certificado médico de buena salud, estudios soci
 
 II. Cuando el menor de edad hubiere sido acogido por una institución de asistencia social, pública o privada, el presunto adoptante o la institución según sea el caso, recabarán constancia del tiempo de la exposición o abandono para los efectos del artículo 380, fracción III, del Código Familiar, y
 
-III. Tratándose de extranjeros se deberá acreditar su legal estancia o residencia en el país y así como la autorización para adoptar.
+III. (DEROGADA, P.O. 24 DE MAYO DE 2017)
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2017)</small>
 
 ###### Artículo 660.
 
-Los extranjeros con residencia en otro país deberán presentar certificado de idoneidad expedido por la autoridad competente de su país de origen que acredite que el solicitante es considerado apto para adoptar; constancia de que la persona menor que se pretende adoptar ha sido autorizada para entrar y residir permanentemente en dicho Estado; autorización de la Secretaría de Gobernación para internarse y permanecer en el país con la finalidad de realizar una adopción.
+Los extranjeros con residencia en otro país deberán presentar certificado de idoneidad expedido por la autoridad competente de su país de origen que acredite que el solicitante es considerado apto para adoptar; constancia de que la persona menor que se pretende adoptar ha sido autorizada para entrar y residir permanentemente en dicho Estado.
 
 ###### Artículo 661.
 
@@ -5278,3 +5280,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 124 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR Y DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
