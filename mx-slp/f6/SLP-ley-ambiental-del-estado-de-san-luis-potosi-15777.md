@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2017-05-20"
+last_updated: "2017-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -507,17 +507,27 @@ Los principios, criterios y normas a que se refiere el párrafo anterior serán 
 
 Para la protección y aprovechamiento de los recursos naturales corresponderá a la SEGAM, en coordinación con la SEDARH y con las dependencias estatales que en su caso corresponda, las atribuciones y obligaciones siguientes:
 
-I. Efectuar y promover estudios, investigaciones y experimentaciones a fin de determinar los mejores métodos para la conservación del suelo y sus recursos;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2017)</small>
 
-II. Solicitar de las autoridades competentes, que adopten las medidas que correspondan para que los ejidos, comunidades y los pequeños propietarios de la Entidad, den cumplimiento a las medidas de cuidado y conservación del suelo, subsuelo, agua y bosques, contribuyendo a la realización de los programas correspondientes;
+I. Efectuar y promover estudios, investigaciones, experimentos, pruebas de campo, usos de nuevas tecnologías, aplicaciones de mejores prácticas e innovaciones tecnológicas a fin de determinar los mejores métodos para la conservación y recuperación del suelo, subsuelo, agua, bosques, flora, fauna y los demás recursos naturales;
 
-III. Promover ante la Secretaría de Agricultura, Ganadería y Desarrollo Rural de la federación, que en las unidades de producción cuya organización le corresponda impulsar en el territorio estatal, de acuerdo a las leyes de la materia, se apliquen las acciones concretas que se propongan para lograr la protección del suelo, subsuelo y los demás recursos naturales;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2017)</small>
+
+II. Solicitar de las autoridades competentes que adopten las medidas que correspondan, para que los ejidos, comunidades y los pequeños propietarios de la Entidad, den cumplimiento a las medidas de cuidado y conservación del suelo, subsuelo, agua, bosques, flora, fauna y los demás recursos naturales, contribuyendo a la realización de los programas correspondientes;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2017)</small>
+
+III. Promover ante la Secretaría de Agricultura, Ganadería y Desarrollo Rural de la Federación, que en las unidades de producción cuya organización le corresponda impulsar en el territorio estatal, de acuerdo a las leyes de la materia, se apliquen las acciones concretas que se propongan para lograr la protección del suelo, subsuelo, agua, bosques, flora, fauna y los demás recursos naturales;
 
 IV. Promover y participar en los programas que tiendan a evitar la sobreutilización y degradación de los suelos, así como vigilar el cumplimiento de las disposiciones de las leyes de la materia en los casos de minifundios, tierras ociosas y demás relativas;
 
 V. Celebrar con el acuerdo del titular del Ejecutivo del Estado, acuerdos de coordinación con la federación y municipios, así también los convenios de concertación de acciones con los sectores social y privado, conducentes a los propósitos contenidos en las fracciones I a IV de este artículo, y
 
 VI. Impulsar y participar cuando corresponda, en la elaboración, implementación y control de los programas pertinentes.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2017)</small>
+
+La SEGAM impulsará y participará en la celebración de convenios con particulares, ejidatarios, instituciones académicas y de investigación, clubes y demás asociaciones que no persigan fines de lucro, con objeto de llevar a cabo programas para el estudio, desarrollo, conservación, y reproducción para la restauración de especies de fauna y flora silvestres, en los ranchos y ejidos cinegéticos y en los centros de rehabilitación de fauna que al efecto se establezcan.
 
 ## TITULO TERCERO. DE LA POLITICA AMBIENTAL
 
@@ -543,7 +553,9 @@ V. La responsabilidad respecto al ambiente comprende tanto las condiciones prese
 
 VI. La prevención de las causas que generan o pueden generar impactos ambientales adversos, se reconoce como el medio más eficaz para evitar el deterioro ambiental;
 
-VII. El aprovechamiento de los recursos naturales renovables deberá realizarse de manera que se asegure el mantenimiento de su diversidad y renovabilidad;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2017)</small>
+
+VII. El aprovechamiento de los recursos naturales renovables deberá realizarse de manera que se asegure el sostenimiento de su diversidad y renovabilidad;
 
 VIII. Los recursos naturales no renovables deben ser utilizados de modo que se evite el peligro de su agotamiento y la generación de efectos ambientales adversos;
 
@@ -625,9 +637,9 @@ IV. El equilibrio dinámico que debe existir entre los asentamientos humanos y s
 
 V. El impacto ambiental de nuevos asentamientos humanos, vías de comunicación y demás obras o actividades, y
 
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2017)</small>
 
-VI. El cambio climático generado por la acumulación de gases de efecto invernadero que puede causar desequilibrio en los ecosistemas, tanto terrestres, como acuáticos, y en la atmósfera.
+VI. Los cambios climáticos persistentes y/o severos que modifican las condiciones del medio ambiente de una zona.
 
 ###### ARTICULO 16.
 
@@ -733,13 +745,13 @@ II. Establecimiento de reservas estatales en las que exista uno o más ecosistem
 
 III. Protección de monumentos naturales estatales en áreas que contengan uno o varios elementos naturales, consistentes en lugares u objetos naturales que, por su carácter único o excepcional, interés estético, valor histórico o científico, se resuelva incorporar a un régimen de protección absoluta. Tales monumentos no tienen la variedad de ecosistemas, ni la superficie necesaria para ser incluidos en otras categorías de manejo;
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2017)</small>
 
-IV. Establecimiento de áreas de protección de recursos hídricos estatales, destinados a la preservación de zonas de protección de cuerpos o cauces de agua perenes o no de jurisdicción estatal, previa declaratoria expedida por el propio titular del Ejecutivo, en los términos de la fracción V del artículo 6° de la Ley de Aguas para el Estado de San Luis Potosí;
+IV. Establecimiento de áreas de protección de recursos hídricos estatales, destinados a la preservación de zonas de protección de cuerpos o cauces de agua perenes o no de jurisdicción estatal, previa declaratoria expedida por el propio titular del Ejecutivo, en los términos de la fracción V del artículo 6° de la Ley de Aguas para el Estado de San Luis Potosí, y
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2017)</small>
 
-V. Determinación de áreas de protección estatal de la flora y la fauna, donde se promueva la realización de actividades inherentes a la preservación, repoblación, propagación, aclimatación, refugio, investigación y aprovechamiento sustentable de especies de flora y fauna, así como las relativas a educación y difusión en la materia;
+V. Establecimiento de reservas estatales en las que existan microambientes con especies en peligro de extinción, o catalogadas como de riesgo.
 
 > <small>(ADICIONADA, P.O. 30 DE MARZO DE 2017)</small>
 
@@ -979,7 +991,9 @@ Las prerrogativas derivadas de los instrumentos económicos de mercado serán tr
 
 La SEGAM considerará como prioritarias para efectos del otorgamiento de los estímulos fiscales, las disposiciones establecidas en la Ley de Hacienda del Estado, el Código Fiscal del Estado, o en la Ley de Hacienda de los Municipios, según corresponda, en relación con las actividades siguientes:
 
-I. La investigación, incorporación o utilización de mecanismos, equipos y tecnologías que tengan por objeto evitar, reducir o controlar el deterioro ambiental, así como el uso eficiente de energía y de recursos naturales;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2017)</small>
+
+I. La investigación, incorporación o utilización de mecanismos, equipos y tecnologías que tengan por objeto evitar, reducir o controlar el deterioro ambiental, así como el uso eficiente de energías renovables y de recursos naturales;
 
 > <small>(ADICIONADA, P.O. 23 DE JULIO DE 2015)</small>
 
@@ -1211,7 +1225,9 @@ V. La reducción del consumo de agua por las industrias, establecimientos comerc
 
 De igual manera podrán establecerse programas en materia de saneamiento de aguas en los términos que lo establecen las leyes aplicables, en coordinación en su caso con la Comisión Estatal de Agua Potable, Alcantarillado y Saneamiento y con los municipios por sí o a través de los organismos operadores del agua.
 
-La SEGAM impulsará y participará en la celebración de convenios con particulares, ejidatarios, instituciones académicas y de investigación, clubes y demás asociaciones que no persigan fines de lucro, con objeto de llevar a cabo programas para el estudio, conservación, restauración y desarrollo de especies de fauna y flora silvestres, en los ranchos y ejidos cinegéticos y en los centros de rehabilitación de fauna que al efecto se establezcan.
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2017)</small>
+
+La SEGAM impulsará y participará en la celebración de convenios con particulares, ejidatarios, instituciones académicas y de investigación, clubes y demás asociaciones que no persigan fines de lucro, con objeto de llevar a cabo programas para el estudio, desarrollo, conservación, y reproducción para la restauración de especies de fauna y flora silvestres, en los ranchos y ejidos cinegéticos y en los centros de rehabilitación de fauna que al efecto se establezcan.
 
 ## TITULO SEXTO. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION AMBIENTAL
 
@@ -1327,9 +1343,17 @@ VII. Dar aviso anticipado a la SEGAM del inicio de operación de sus procesos en
 
 VIII. Dar aviso inmediato a la autoridad competente en caso de descompostura o falla de los equipos de control, para que ésta determine lo conducente;
 
-IX. Llevar la bitácora de operación y mantenimiento de sus equipos de proceso y de control, así como dar cumplimiento a las demás obligaciones señaladas a los responsables en la presente Ley y sus reglamentos, y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2017)</small>
 
-X. En las zonas próximas a áreas habitacionales en las que estén permitidas actividades industriales, según los respectivos planes de centros de población o municipales, sólo podrán establecerse industrias medianas o ligeras que por su tecnología y tipo de combustible, garanticen no rebasar los límites de emisión establecidos por la normatividad ambiental federal y estatal.
+IX. Llevar la bitácora de operación y mantenimiento de sus equipos de proceso y de control, así como dar cumplimiento a las demás obligaciones señaladas a los responsables en la presente Ley y sus reglamentos;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2017)</small>
+
+X. En las zonas próximas a áreas habitacionales en las que estén permitidas actividades industriales, según los respectivos planes de centros de población o municipales, sólo podrán establecerse industrias medianas o ligeras que por su tecnología y tipo de combustible, garanticen no rebasar los límites de emisión establecidos por la normatividad ambiental federal y estatal, y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2017)</small>
+
+XI. Generar un programa de planeación estratégica de corto, mediano y largo plazo para reducir los niveles de contaminación atmosférica.
 
 Las empresas públicas, las privadas y los particulares en general que pretendan realizar el cambio de sus sistemas de combustión por el uso de combustibles más limpios como el gas natural, deberán comunicarlo previamente a la SEGAM, a efecto de que ésta cuente con la información que le permita emitir el dictamen correspondiente.
 
@@ -2996,3 +3020,11 @@ P.O. 20 DE MAYO DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 25 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0642.- SE REFORMAN DIVERSS (SIC) ARTÍCULOS DE LA LEY AMBIENTAL DEL ESTADO".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
