@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-operacion-del-comite-de-control-y-evaluacion-7100
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-03"
-last_updated: "2009-11-03"
+last_updated: "2017-05-25"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71007&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE OPERACION DEL COMITE DE CONTROL Y EVALUACION DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MEXICO
 
-REGLAMENTO DE OPERACION DEL COMITE DE CONTROL Y EVALUACION DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MEXICO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN (COCOE) DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 25 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE OPERACIÓN DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MÉXICO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE MAYO DE 2017 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el martes 3 de noviembre de 2009.
 
@@ -371,7 +373,7 @@ Los miembros del Comité que requieran la participación de algún invitado de c
 
 Los invitados formarán parte de las comisiones especiales cuando así determine el Comité, apoyando y ejecutando dentro del ejercicio de sus funciones, todas aquellas que les requiera el Comité para el logro eficaz de sus objetivos.
 
-###### Articulo 36.
+###### Artículo 36.
 
 Los invitados del Comité formarán parte del mismo con voz pero sin voto, en asuntos que tenga que ver con el ámbito de su competencia.
 
@@ -398,3 +400,17 @@ LIC. ROCÍO IVONNE PÉREZ MARTÍNEZ
 DIRECTORA GENERAL DE CONTROL Y EVALUACIÓN "C" DE LA SECRETARÍA DE LA CONTRALORÍA Y VOCAL DEL COMITÉ
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 25 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN (COCOE) DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Reglamento Interior en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se deja sin efectos el Reglamento Interior del COCOE aprobado el 12 de octubre de 2009.
+
+CUARTO.- Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
