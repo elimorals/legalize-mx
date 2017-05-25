@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-310-del-sistema-estatal-de-seguridad-publica-103804"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-28"
-last_updated: "2017-02-24"
+last_updated: "2017-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 310 DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 24 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 25 DE MAYO DE 2017.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 28 de noviembre de 2014.
 
@@ -337,9 +337,11 @@ XV. Vigilar la implementación de políticas en materia de atención a víctimas
 
 XVI. Las demás que le confieran otras disposiciones legales.
 
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2017)</small>
+
 ###### Artículo 25.
 
-A convocatoria del Secretario Ejecutivo, quien integrará la agenda de los asuntos a tratar, el Consejo Estatal sesionará en forma ordinaria por lo menos cada mes, y de manera extraordinaria en cualquier tiempo.
+A convocatoria del Secretario Ejecutivo, quien integrará la agenda de los asuntos a tratar, el Consejo Estatal sesionará en forma ordinaria una vez cada tres meses, y de manera extraordinaria las veces que sea necesario.
 
 ###### Artículo 26.
 
@@ -2875,7 +2877,7 @@ Gobernador del Estado
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.O. 7 DE AGOSTO DE 2015.
 
@@ -2894,3 +2896,11 @@ G.O. 24 DE FEBRERO DE 2017.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 25 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 263 POR EL QUE SE REFORMA EL ARTÍCULO 25 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
