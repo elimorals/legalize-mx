@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-instituciones-y-procedimientos-electorales-para-el-10170
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-27"
-last_updated: "2017-04-28"
+last_updated: "2017-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2017.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de junio de 2014.
 
@@ -97,7 +97,7 @@ La aplicación de esta Ley corresponde al Instituto Estatal, al Tribunal Estatal
 
 La promoción de la participación ciudadana para el ejercicio del derecho al sufragio corresponde al Instituto Nacional, al Instituto Estatal, a los partidos políticos y a los candidatos. El Instituto Nacional emitirá las reglas a las que se sujetarán las campañas de promoción del voto que realicen otras organizaciones.
 
-El Instituto Nacional, en el ámbito de sus atribuciones, dispondrá lo necesario para asegurar el cumplimiento de las normas antes establecidas y de las demás dispuestas en esta Ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
 
 ### Capítulo II. De los derechos y obligaciones político-electorales de los ciudadanos
 
@@ -121,7 +121,9 @@ VI. Asociarse o reunirse pacíficamente para tomar parte en los asuntos polític
 
 VII. Afiliarse libre e individualmente a los partidos políticos, y
 
-VIII. Votar y ser votado para todos los cargos de elección popular dentro de los procesos internos de selección de candidatos y elección de dirigentes, teniendo las calidades que establezca la ley y los estatutos de cada partido político.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+VIII. Votar y ser votado para todos los cargos de elección popular dentro de los procesos internos de selección de candidatos y elección de dirigentes, teniendo las calidades que establezca la ley, los estatutos y las normas internas de cada partido político. Lo anterior aplicará tratándose de diputados e integrantes de ayuntamientos que pretendan la elección consecutiva.
 
 ###### Artículo 8.
 
@@ -189,11 +191,27 @@ I. Estar inscrito en Registro Federal de Electores y contar con credencial para 
 
 II. No ser ni haber sido Secretario General del Tribunal, oficial mayor, secretario de ponencia o actuario del Tribunal Estatal, a menos que se haya separado del cargo, de manera definitiva, tres años antes del día de la elección.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Los diputados y presidentes municipales, que se encuentren en ejercicio de sus funciones y pretendan su elección consecutiva, deberán solicitar licencia a más tardar un día antes del inicio de la campaña electoral respectiva, de conformidad con las leyes orgánicas del Poder Legislativo y Municipal respectivamente.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Para efectos de la elección consecutiva, los síndicos y regidores, no requerirán separarse de su cargo.
+
 ###### Artículo 12.
 
 A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral. Tampoco podrá ser candidato para un cargo local de elección popular y simultáneamente para otro federal, de los estados o del Distrito Federal. En este supuesto, si el registro para el cargo de la elección federal, de otro estado o del Distrito Federal ya estuviere hecho, se procederá a la cancelación automática del registro estatal.
 
 Ningún partido político podrá registrar a un candidato de otro partido político o coalición, salvo los casos expresamente señalados en esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+No podrá ser registrado como candidato a elección consecutiva por partido distinto a aquel o cualquiera de aquellos que en vía de coalición, lo postuló en el proceso electoral en que resultó electo, salvo que haya renunciado o perdido su militancia antes de la mitad de su mandato.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Tratándose de la postulación de candidatos independientes a elección consecutiva sólo podrá ser realizada si fue electo mediante tal vía de participación política.
 
 ###### Artículo 13.
 
@@ -203,9 +221,27 @@ Los partidos políticos no podrán registrar más de cinco candidatos a diputado
 
 #### Sección Primera. De los sistemas electorales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 14.
 
-El Poder Legislativo se deposita en el Congreso del Estado, el cual se integra con veintidós diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y catorce electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación territorial es el Estado. El Congreso del Estado se renovará cada tres años.
+El Poder Legislativo se deposita en el Congreso del Estado, el cual se integra con veintidós diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y catorce electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación territorial es el Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Los diputados podrán ser electos hasta por cuatro periodos consecutivos por ambos principios.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Serán sujetos de elección consecutiva los diputados que hayan ejercido el cargo, independientemente de su carácter de propietario o suplente.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Quien hubiese sido electo diputado propietario de manera consecutiva por el límite establecido en esta Ley, no podrá ser electo para el siguiente periodo en calidad de suplente del mismo cargo de elección popular.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+La posición de diputado suplente, no se contabiliza para efectos del límite de periodos para elección consecutiva, salvo que haya ejercido el cargo.
 
 ###### Artículo 15.
 
@@ -214,6 +250,18 @@ El Poder Ejecutivo se deposita en una sola persona que se denomina Gobernador de
 ###### Artículo 16.
 
 Cada municipio será gobernado por un Ayuntamiento integrado por representantes electos según el principio de mayoría relativa, y de representación proporcional en los términos del artículo 109 de la Constitución del Estado y de la Ley Orgánica Municipal para el Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Serán sujetos de elección consecutiva el presidente municipal, síndicos y regidores del ayuntamiento que hayan ejercido el cargo independientemente de su carácter de propietario o suplente.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+La suplencia de los síndicos y regidores no se contabilizará para efectos de los límites de la elección consecutiva, salvo que hayan ejercido el cargo.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Quien hubiese sido electo con el carácter de propietario de manera consecutiva por el límite establecido en esta Ley, no podrá ser electo para el siguiente periodo en calidad de suplente del mismo cargo de elección popular.
 
 #### Sección Segunda. De las elecciones ordinarias, extraordinarias y especiales
 
@@ -281,9 +329,13 @@ Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e indi
 
 Los partidos políticos promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes, y buscarán la participación efectiva de ambos géneros en la integración de sus órganos, así como en la postulación de candidatos.
 
-Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a diputados e integrantes de los ayuntamientos, éstos deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
-En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellos distritos en los que el partido político haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
+Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a diputados, presidentes municipales, síndicos y regidores tanto por el principio de mayoría relativa como por el principio de representación proporcional, estos deberán ser objetivos y asegurar condiciones de igualdad entre géneros y observar las reglas de paridad establecidas en la Constitución del Estado y en esta Ley.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellos distritos o municipios en los que el partido político haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
 Los partidos políticos se regirán internamente por sus documentos básicos, tendrán la libertad de organizarse y determinarse de conformidad con las normas establecidas en la Ley General de Partidos Políticos, esta Ley y las que, conforme a las mismas, establezcan sus estatutos.
 
@@ -473,13 +525,25 @@ XVII. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusio
 
 XVIII. Abstenerse de realizar afiliaciones colectivas de ciudadanos;
 
-XIX. Garantizar la paridad entre los géneros en candidaturas a diputados y a integrantes de ayuntamiento;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-XX. Elaborar y entregar los informes de origen y uso de recursos al Instituto Nacional y en los términos de la Ley General y la Ley General de Partidos Políticos;
+XIX. Garantizar la paridad entre los géneros en candidaturas a diputados, presidentes municipales, síndicos y regidores, por los principios de mayoría relativa y de representación proporcional;
 
-XXI. Cumplir con las obligaciones que la legislación en materia de transparencia y acceso a su información les impone, y
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
 
-XXII. Las demás que establezcan la Ley General de Partidos Políticos, la Ley General y esta Ley.
+XX. Garantizar que los diputados, presidentes municipales, síndicos y regidores que pretendan una elección consecutiva, participen en los procesos internos para selección de candidatos;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XXI. Garantizar los mecanismos para quienes, teniendo el carácter de diputados, presidentes municipales, síndicos y regidores y las calidades que establezca la ley, los estatutos y las normas internas de cada partido político, pretendan una elección consecutiva, participen en los procesos internos para selección de candidatos;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XXII. Elaborar y entregar los informes de origen y uso de recursos al Instituto Nacional, en los términos de la Ley General y la Ley General de Partidos Políticos;
+
+XXIII. Cumplir con las obligaciones que la legislación en materia de transparencia y acceso a su información les impone, y
+
+XXIV. Las demás que establezcan la Ley General de Partidos Políticos, la Ley General y esta Ley.
 
 El incumplimiento de cualquiera de estas disposiciones será sancionado, en lo que corresponda, por lo previsto en el Título Séptimo de esta Ley.
 
@@ -653,9 +717,11 @@ b) El Consejo General vigilará que éstos destinen el financiamiento exclusivam
 
 c) Las cantidades que en su caso se determinen para cada partido político, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 48.
 
-Los partidos políticos nacionales y estatales que hubieren obtenido su registro con fecha posterior a la última elección, o aquéllos que habiendo conservado registro legal no cuenten con representación en el Congreso del Estado, tendrán derecho a que se les otorgue financiamiento público conforme a las bases siguientes:
+Los partidos políticos nacionales o estatales que hubieren obtenido su registro con fecha posterior a la última elección, tendrán derecho a que se les otorgue financiamiento público conforme a las bases siguientes:
 
 I. Se le otorgará a cada partido político el dos por ciento del monto que por financiamiento total les corresponda a los partidos políticos para el sostenimiento de sus actividades ordinarias permanentes a que se refiere este artículo, así como, en el año de la elección de que se trate, el financiamiento para gastos de campaña que corresponda con base en lo dispuesto en la fracción II del presente artículo, y
 
@@ -727,7 +793,9 @@ III. Las aportaciones voluntarias y personales que realicen los simpatizantes du
 
 El financiamiento privado se ajustará a los siguientes límites anuales:
 
-I. Para el caso de las aportaciones de militantes, el dos por ciento del financiamiento público otorgado a la totalidad de los partidos políticos para el sostenimiento de sus actividades ordinarias y precampañas en el año de que se trate;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+I. Para el caso de las aportaciones de militantes, el doce por ciento del financiamiento público otorgado a la totalidad de los partidos políticos para el sostenimiento de sus actividades ordinarias y precampañas en el año de que se trate;
 
 II. Para el caso de las aportaciones de candidatos, así como de simpatizantes durante los procesos electorales, el diez por ciento del tope de gasto para la elección de Gobernador inmediata anterior, para ser utilizadas en las campañas de sus candidatos;
 
@@ -773,7 +841,9 @@ El Instituto Estatal podrá asumir la función de la fiscalización ordinaria de
 
 Los partidos políticos podrán constituir frentes, para alcanzar objetivos políticos y sociales compartidos de índole no electoral, mediante acciones y estrategias específicas y comunes.
 
-Los partidos políticos, para fines electorales, podrán formar coaliciones para postular los mismos candidatos en las elecciones locales, siempre que cumplan con los requisitos establecidos en esta Ley.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Los partidos políticos, para fines electorales, podrán formar coaliciones para postular los mismos candidatos en las elecciones locales, siempre que cumplan con lo señalado por la Ley General y por la Ley General de Partidos Políticos.
 
 Dos o más partidos políticos podrán fusionarse para constituir un nuevo partido político o para incorporarse en uno de ellos.
 
@@ -783,151 +853,53 @@ Se presumirá la validez del convenio de coalición, del acto de asociación o p
 
 #### Sección Segunda. De los Frentes
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 61.
 
-Para constituir un frente deberá celebrarse un convenio en el que se hará constar:
-
-I. Su duración;
-
-II. Las causas que lo motiven;
-
-III. Los propósitos que persiguen;
-
-IV. La forma que convengan los partidos políticos para ejercer en común sus prerrogativas, dentro de los señalamientos de esta Ley, y
-
-V. Las firmas autógrafas de los dirigentes autorizados para ello.
-
-El convenio que se celebre para integrar un frente deberá presentarse al Consejo General, el que dentro del término de diez días hábiles resolverá si cumple los requisitos legales y en su caso dispondrá su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato, para que surta sus efectos.
-
-Los partidos políticos que integren un frente, conservarán su personalidad jurídica, su registro y su identidad.
+Para constituir un frente deberá celebrarse un convenio, de conformidad con lo señalado en la Ley General y la Ley General de Partidos Políticos.
 
 #### Sección Tercera. De las Coaliciones
 
 ###### Artículo 62.
 
-Los partidos políticos nacionales y estatales podrán formar coaliciones para las elecciones de Gobernador, diputados a la legislatura local de mayoría relativa y de ayuntamientos.
-
-Los partidos políticos que pretendan integrar coalición se sujetarán a las siguientes reglas:
-
-I. Los partidos políticos no podrán postular candidatos propios donde ya hubiere candidatos de la coalición de la que ellos formen parte;
-
-II. Ningún partido político podrá registrar como candidato propio a quien ya haya sido registrado como candidato por alguna coalición, y
-
-III. Ningún partido político podrá registrar a un candidato de otro partido político. No se aplicará esta prohibición en los casos en que exista coalición en los términos del presente Capítulo.
+(DEROGADO, P.O. 26 DE MAYO DE 2017)
 
 ###### Artículo 63.
 
-Ninguna coalición podrá postular como candidato de la coalición a quien ya haya sido registrado como candidato por algún partido político.
+(DEROGADO, P.O. 26 DE MAYO DE 2017)
 
 ###### Artículo 64.
 
-Los partidos políticos que se coaliguen para participar en las elecciones, deberán celebrar y registrar el convenio correspondiente en los términos del presente Capítulo.
-
-El convenio de coalición podrá celebrarse por dos o más partidos políticos.
-
-El convenio de coalición podrá modificarse en términos de esta Ley.
-
-Los partidos políticos no podrán celebrar más de una coalición en un mismo proceso electoral local.
-
-Los partidos políticos no podrán distribuir o transferirse votos mediante convenio de coalición.
-
-Concluida la etapa de resultados y de declaraciones de validez de las elecciones de diputados al Congreso del Estado terminará automáticamente la coalición por la que se hayan postulado candidatos, en cuyo caso los candidatos a diputados de la coalición que resultaren electos quedarán comprendidos en el partido político que se haya señalado en el convenio de coalición, y que deberá ser el partido político en el cual el candidato milita, salvo que no pertenezca formalmente a ningún partido integrante de la coalición.
-
-Independientemente del tipo de elección, convenio y términos que en el mismo adopten los partidos políticos coaligados, cada uno de ellos aparecerá con su propio emblema en la boleta electoral, según la elección de que se trate; los votos se sumarán para el candidato de la coalición y contarán para cada uno de los partidos políticos para todos los efectos establecidos en esta Ley.
-
-(NOTA: EL 30 DE SEPTIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 43/2014 Y SUS ACUMULADAS 47/2014, 48/2014 Y 57/2014 DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO OCTAVO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1° DE OCTUBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-Los votos en los que se hubiesen marcado más de una opción de los partidos políticos coaligados, serán considerados válidos para el candidato postulado, contarán como un solo voto Y SIN QUE PUEDAN SER TOMADOS EN CUENTA PARA LA ASIGNACIÓN DE REPRESENTACIÓN PROPORCIONAL U OTRAS PRERROGATIVAS.
-
-En todo caso, cada uno de los partidos políticos coaligados deberá registrar listas propias de candidatos a diputados por el principio de representación proporcional.
-
-Las coaliciones deberán ser uniformes. Ningún partido político podrá participar en más de una coalición y éstas no podrán ser diferentes, en lo que hace a los partidos políticos que las integran, por tipo de elección.
+(DEROGADO, P.O. 26 DE MAYO DE 2017)
 
 ###### Artículo 65.
 
-Los partidos políticos podrán formar coaliciones totales, parciales y flexibles para cada tipo de elección.
-
-Se entiende como coalición total, aquélla en la que los partidos políticos coaligados postulan en un mismo proceso local, a la totalidad de sus candidatos a puestos de elección popular bajo una misma plataforma electoral.
-
-Si dos o más partidos políticos se coaligan en forma total para las elecciones de diputados, deberán coaligarse para la elección de Gobernador.
-
-Si una vez registrada la coalición total, la misma no registrara a los candidatos a los cargos de elección, en los términos del párrafo anterior, y dentro de los plazos señalados para tal efecto en la presente Ley, la coalición y el registro del candidato para la elección de Gobernador quedará automáticamente sin efectos.
-
-Coalición parcial es aquélla en la que los partidos políticos coaligados postulan en un mismo proceso electoral, al menos al cincuenta por ciento de sus candidatos a puestos de elección popular bajo una misma plataforma electoral.
-
-Se entiende como coalición flexible, aquélla en la que los partidos políticos coaligados postulan en un mismo proceso electoral, al menos a un veinticinco por ciento de candidatos a puestos de elección popular bajo una misma plataforma electoral.
+(DEROGADO, P.O. 26 DE MAYO DE 2017)
 
 ###### Artículo 66.
 
-En todo caso, para el registro de la coalición los partidos políticos que pretendan coaligarse deberán:
-
-I. Acreditar que la coalición fue aprobada por el órgano de dirección partidista que establezcan los estatutos de cada uno de los partidos políticos coaligados y que dichos órganos expresamente aprobaron la plataforma electoral, y en su caso, el programa de gobierno de la coalición o de uno de los partidos coaligados;
-
-II. Comprobar que los órganos partidistas respectivos de cada uno de los partidos políticos coaligados aprobaron, en su caso, la postulación y el registro de determinado candidato para la elección a Gobernador;
-
-III. Acreditar que los órganos partidistas respectivos de cada uno de los partidos políticos coaligados aprobaron, en su caso, postular y registrar, como coalición, a los candidatos a los cargos de diputados por el principio de mayoría relativa, y
-
-IV. En su oportunidad, cada partido integrante de la coalición de que se trate deberá registrar, por sí mismo, las listas de candidatos a diputados e integrantes de ayuntamientos por el principio de representación proporcional.
+(DEROGADO, P.O. 26 DE MAYO DE 2017)
 
 ###### Artículo 67.
 
-En el caso de coalición, independientemente de la elección para la que se realice, cada partido conservará su propia representación en los consejos del Instituto Estatal y ante las mesas directivas de casilla.
+(DEROGADO, P.O. 26 DE MAYO DE 2017)
 
 ###### Artículo 68.
 
-El convenio de coalición contendrá en todos los casos:
-
-I. Los partidos políticos que la forman;
-
-II. El proceso electoral local que le da origen;
-
-III. El procedimiento que seguirá cada partido político para la selección de los candidatos que serán postulados por la coalición;
-
-IV. Se deberá acompañar la plataforma electoral y, en su caso, el programa de gobierno que sostendrá su candidato a Gobernador, así como los documentos en que conste la aprobación por los órganos partidistas correspondientes;
-
-V. El señalamiento, de ser el caso, del partido político al que pertenece originalmente cada uno de los candidatos registrados por la coalición y el señalamiento del partido político en el que quedarían comprendidos en el caso de resultar electos, y que deberá ser el partido político en el cual candidato milita, salvo que no pertenezca formalmente a ningún partido integrante de la coalición, y
-
-VI. Para el caso de la interposición de los medios de impugnación previstos en esta Ley, quien ostentaría la representación de la coalición.
-
-En el convenio de coalición se deberá manifestar que los partidos políticos coaligados, según el tipo de coalición de que se trate, se sujetarán a los topes de gastos de campaña que se hayan fijado para las distintas elecciones, como si se tratara de un solo partido político. De la misma manera, deberá señalarse el monto de las aportaciones de cada partido político coaligado para el desarrollo de las campañas respectivas, así como la forma de reportarlo en los informes correspondientes.
-
-A las coaliciones totales, parciales y flexibles les será otorgada la prerrogativa de acceso a tiempo en radio y televisión en los términos previstos por la Ley General.
-
-En todo caso, los mensajes en radio y televisión que correspondan a candidatos de coalición deberán identificar esa calidad y el partido responsable del mensaje.
-
-Es aplicable a las coaliciones electorales, cualquiera que sea su ámbito territorial y tipo de elección, en todo tiempo y circunstancia, lo establecido en el segundo párrafo del Apartado A de la Base III del artículo 41 de la Constitución Federal.
+(DEROGADO, P.O. 26 DE MAYO DE 2017)
 
 ###### Artículo 69.
 
-La solicitud de registro del convenio de coalición, deberá presentarse al presidente del Consejo General, acompañado de la documentación pertinente, a más tardar treinta días antes de que se inicie el periodo de precampaña de la elección de que se trate. Durante las ausencias del presidente del Consejo General el convenio se podrá presentar ante el Secretario Ejecutivo del Instituto Estatal.
-
-El presidente del Consejo General integrará el expediente e informará al Consejo General.
-
-El Consejo General resolverá a más tardar dentro de los diez días siguientes a la presentación del convenio de coalición.
-
-Una vez registrado un convenio de coalición, el Instituto Estatal dispondrá su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
-
-Los partidos políticos que conformen la coalición podrán solicitar al Consejo General, apruebe las modificaciones al convenio de coalición que de mutuo acuerdo hayan determinado dichos partidos hasta 30 días naturales antes de la fecha del registro de candidaturas de la elección que la motive, adjuntando la documentación que acredite que los respectivos órganos partidarios autorizaron la modificación.
-
-Dentro de las veinticuatro horas siguientes a la recepción de la solicitud, la Secretaría del Consejo General la revisará y de encontrar algún aspecto que deba ser subsanado o aclarado, requerirá al solicitante para que en el plazo de cuarenta y ocho horas lo haga. De no subsanarse o aclararse se tendrá por no recibida. Dentro de los tres días siguientes al vencimiento de los plazos aquí señalados, el Consejo General resolverá sobre la solicitud de modificación al convenio de coalición.
+(DEROGADO, P.O. 26 DE MAYO DE 2017)
 
 #### Sección Cuarta. De las Fusiones
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 70.
 
-La fusión de partidos políticos sólo podrá realizarse entre dos o más partidos políticos estatales.
-
-Los partidos políticos estatales deberán celebrar un convenio en el que invariablemente se establecerán las características del nuevo partido; o cuál de los partidos políticos conserva su personalidad jurídica y la vigencia de su registro; y qué partido o partidos quedarán fusionados. El convenio de fusión deberá ser aprobado por la asamblea estatal o equivalente de cada uno de los partidos que participen en la fusión.
-
-Para todos los efectos legales, la vigencia del registro del nuevo partido será la que corresponda al registro del partido más antiguo entre los que se fusionen.
-
-Los derechos y prerrogativas que correspondan al nuevo partido le serán reconocidos y asignados tomando como base la suma de los porcentajes de votación que los partidos fusionados obtuvieron en la última elección para diputados locales por el principio de representación proporcional.
-
-El convenio de fusión deberá presentarse ante el presidente del Consejo General quien lo someterá a la consideración del Consejo General.
-
-El Consejo General resolverá sobre la vigencia del registro del nuevo partido político estatal, dentro del término de treinta días siguientes a su presentación y, en su caso, dispondrá su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
-
-Para fines electorales, el convenio de fusión deberá comunicarse al presidente del Consejo General a más tardar un año antes al día de la elección.
+La fusión de partidos políticos sólo podrá realizarse entre dos o más partidos políticos, en los términos previstos en la Ley General y la Ley General de Partidos Políticos.
 
 ### Capítulo V. De la pérdida de registro de los partidos políticos
 
@@ -1215,7 +1187,9 @@ XXVI. Desahogar las dudas que se le presenten sobre la aplicación e interpretac
 
 XXVII. Resolver los recursos que esta Ley establece y que sean de su competencia;
 
-XXVIII. Designar al Secretario Ejecutivo, a los directores ejecutivos y a los titulares de las unidades técnicas del Instituto Estatal;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XXVIII. Designar al Secretario Ejecutivo, a los directores ejecutivos y a los titulares de las unidades técnicas del Instituto Estatal no integrados al servicio profesional electoral nacional;
 
 XXIX. Prever lo necesario para garantizar a los ciudadanos el derecho de observación electoral, de acuerdo a los lineamientos y criterios que emita el Instituto Nacional;
 
@@ -1261,11 +1235,15 @@ Son atribuciones del Presidente del Consejo General del Instituto Estatal, las s
 
 I. Convocar, presidir y conducir las sesiones del Consejo General;
 
-II. Proponer al Consejo General el nombramiento del Secretario Ejecutivo de la Junta Estatal Ejecutiva, y a los demás directores y titulares de las unidades técnicas de ésta;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+II. Proponer al Consejo General el nombramiento del Secretario Ejecutivo de la Junta Estatal Ejecutiva, y a los demás directores y titulares de las unidades técnicas de ésta no integrados al servicio profesional electoral nacional;
 
 III. Presidir la Junta Estatal Ejecutiva;
 
-IV. Representar legalmente al Instituto Estatal y vigilar el cumplimiento de los acuerdos y resoluciones del Consejo General;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+IV. Representar legalmente al Instituto Estatal y vigilar el cumplimiento de los acuerdos y resoluciones del Consejo General, dicha representación la podrá delegar al Secretario Ejecutivo;
 
 V. Velar por la legalidad y procurar la unidad y coordinación de las actividades de las autoridades electorales;
 
@@ -1281,7 +1259,7 @@ X. Recibir y remitir una vez resueltos, cuando así proceda, los recursos que se
 
 XI. Proponer al Consejo General los nombramientos de presidente y consejeros electorales que integren los consejos distritales y municipales;
 
-XII. Proponer a los titulares de las Juntas Ejecutivas Regionales, de conformidad con la propuesta que formule la Comisión del Servicio Profesional Electoral;
+XII. (DEROGADA, P.O. 26 DE MAYO DE 2017);
 
 XIII. Notificar a los partidos políticos o, en su caso, a los representantes de los aspirantes a candidatos independientes, la omisión o incumplimiento de requisitos para el registro o de elegibilidad de los candidatos postulados;
 
@@ -1290,6 +1268,36 @@ XIV. Proponer anualmente al Consejo General el anteproyecto de presupuesto del I
 XV. Ejercer las partidas presupuestales, esta facultad podrá ser delegada al Secretario Ejecutivo, y
 
 XVI. Las demás que le confiera esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+###### Artículo 93 Bis.
+
+Son atribuciones de los consejeros electorales:
+
+I. Proponer la incorporación de asuntos en el orden del día de las sesiones del Consejo General y de las comisiones, en los términos de la reglamentación correspondiente;
+
+II. Participar en el análisis y debate de los proyectos de acuerdo relativos a los asuntos que se traten en las sesiones ordinarias, extraordinarias y especiales del Consejo General;
+
+III. Integrar las comisiones que designe el Consejo General;
+
+IV. Presidir las comisiones que le fueren encomendadas, formular solicitudes a nombre de las mismas y proponer la inclusión, en el orden del día de las sesiones del Consejo General, de informes, dictámenes o proyectos de resolución aprobados por las comisiones;
+
+V. Elaborar, en coordinación con el secretario técnico de las comisiones que presida, los proyectos de acuerdo y los documentos de trabajo;
+
+VI. Suplir al Consejero Presidente, previa designación de éste, en sus ausencias momentáneas de las sesiones del Consejo General;
+
+VII. Nombrar, de entre los consejeros electorales, a quien deba sustituir provisionalmente al Consejero Presidente en caso de ausencia definitiva, informando de inmediato al Instituto Nacional a fin de que designe a su sustituto;
+
+VIII. Vigilar la entrega a los organismos electorales de la documentación aprobada y demás materiales electorales;
+
+IX. Solicitar al Consejero Presidente la inclusión de asuntos generales en el orden del día en las sesiones ordinarias;
+
+X. Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos, previo al inicio de la discusión del punto, por alguna de las causas previstas en el artículo 159 de esta Ley;
+
+XI. Desarrollar las actividades o encargos que acuerde el Consejo General, y
+
+XII. Las demás que les confiera esta Ley.
 
 ###### Artículo 94.
 
@@ -1300,6 +1308,24 @@ El Consejo General ordenará la publicación de ordenamientos, acuerdos y resolu
 ###### Artículo 95.
 
 La Junta Estatal Ejecutiva del Instituto Estatal es un órgano ejecutivo, técnico y de apoyo, dependiente del Consejo General. La Junta Estatal Ejecutiva se integrará por el Secretario Ejecutivo y por los directores de Desarrollo Institucional y Servicio Profesional Electoral, Organización Electoral, y de Cultura Política y Electoral, así como de los titulares de las unidades técnicas Jurídica y de lo Contencioso Electoral y de Sistemas de Información y Telecomunicaciones.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Son atribuciones de la Junta Estatal Ejecutiva:
+
+I. Cumplir y ejecutar los acuerdos del Consejo General;
+
+II. Elaborar los programas y políticas del Instituto Estatal;
+
+III. Dictar los acuerdos y lineamientos necesarios para la adecuada ejecución de los acuerdos y resoluciones del Consejo General;
+
+IV. Formular los proyectos institucionales, para su posterior integración al anteproyecto de presupuesto del Instituto Estatal;
+
+V. Formular las propuestas de calendario y plan integral del proceso electoral local y, en su caso, de los procesos electorales locales extraordinarios;
+
+VI. Coordinar y supervisar la ejecución de las políticas y programas generales del Instituto Estatal, y
+
+VII. Las demás que le confiera esta Ley.
 
 ###### Artículo 96.
 
@@ -1315,7 +1341,9 @@ El Secretario Ejecutivo del Instituto Estatal durará en su cargo cuatro años y
 
 Son atribuciones del Secretario Ejecutivo las siguientes:
 
-I. Representar legalmente al Instituto Estatal;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+I. Representar legalmente al Instituto Estatal previa delegación;
 
 II. Participar en las sesiones del Consejo General con derecho a voz pero sin voto;
 
@@ -1361,7 +1389,9 @@ XXII. Recibir y dar cuenta al Consejo General de los informes que sobre los proc
 
 XXIII. Elaborar anualmente el anteproyecto de presupuesto del Instituto Estatal para someterlo a la consideración y aprobación del Consejo General;
 
-XXIV. Ejercer las partidas presupuestales aprobadas para la Junta Estatal Ejecutiva;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XXIV. Ejercer las partidas presupuestales del Instituto Estatal previa delegación del Presidente del Consejo General;
 
 XXV. Integrar los expedientes con la documentación necesaria, a fin de que el Consejo General efectúe los cómputos electorales que legalmente le competen;
 
@@ -1373,9 +1403,41 @@ XXVIII. Otorgar poderes a nombre del Instituto Estatal para actos de dominio, de
 
 XXIX. Proveer a los órganos del Instituto Estatal de los elementos para el cumplimiento de sus funciones;
 
-XXX. Proponer para la aprobación del Consejo General, el proyecto de calendario integral de los procesos electorales ordinarios, así como de elecciones extraordinarias o especiales que se sujetará a la convocatoria respectiva, y
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
 
-XXXI. Las demás que se desprendan de esta Ley.
+XXX. Formar los expedientes relativos a las solicitudes que presenten las organizaciones que pretendan constituirse como partidos políticos estatales;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XXXI. Llevar a cabo los trámites necesarios para que los partidos políticos puedan disponer del financiamiento público y las prerrogativas a que tienen derecho;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XXXII. Llevar el libro de registro de los representantes de los partidos políticos y candidatos independientes acreditados ante el Consejo General, a nivel estatal, distrital y municipal;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XXXIII. Conocer de las notificaciones que formulen las organizaciones que pretendan constituirse como partidos políticos estatales y realizar las actividades pertinentes;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XXXIV. Recibir las solicitudes de registro de las organizaciones de ciudadanos que hayan cumplido los requisitos establecidos en esta Ley para constituirse como partido político estatal e integrar el expediente respectivo para que lo someta a la consideración del Consejo General;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XXXV. Inscribir en el libro respectivo el registro de partidos políticos, así como los convenios de fusión, frentes, coaliciones y acuerdos de participación;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XXXVI. Ministrar a los partidos políticos el financiamiento público al que tienen derecho conforme a lo señalado en esta Ley;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XXXVII. Llevar los libros de registro de los candidatos a los puestos de elección popular;
+
+XXXVIII. Proponer para la aprobación del Consejo General, el proyecto de calendario integral de los procesos electorales ordinarios, así como de elecciones extraordinarias o especiales que se sujetará a la convocatoria respectiva, y
+
+XXXIX. Las demás que se desprendan de esta Ley.
 
 ###### Artículo 99.
 
@@ -1413,11 +1475,11 @@ La Dirección de Organización Electoral contará con el personal administrativo
 
 I. Apoyar la integración, instalación y funcionamiento de los consejos electorales distritales y municipales;
 
-II. Formar los expedientes relativos a las solicitudes que presenten las organizaciones que pretendan constituirse como partidos políticos estatales;
+II. (DEROGADA, P.O. 26 DE MAYO DE 2017);
 
-III. Llevar a cabo los trámites necesarios para que los partidos políticos puedan disponer del financiamiento público y las prerrogativas a que tienen derecho;
+III. (DEROGADA, P.O. 26 DE MAYO DE 2017);
 
-IV. Llevar el libro de registro de los representantes de los partidos políticos y candidatos independientes acreditados ante el Consejo General, a nivel estatal, distrital y municipal;
+IV. (DEROGADA, P.O. 26 DE MAYO DE 2017):
 
 V. Proveer lo necesario para la impresión y distribución de la documentación electoral en los términos de los lineamientos que expida el Instituto Nacional;
 
@@ -1453,17 +1515,17 @@ VII. Acordar con el Secretario Ejecutivo los asuntos de su competencia;
 
 VIII. Cumplir y hacer cumplir las normas y procedimientos que se establezcan para la capacitación profesional electoral,
 
-IX. Conocer de las notificaciones que formulen las organizaciones que pretendan constituirse como partidos políticos estatales y realizar las actividades pertinentes;
+IX. (DEROGADA, P.O. 26 DE MAYO DE 2017);
 
-X. Recibir las solicitudes de registro de las organizaciones de ciudadanos que hayan cumplido los requisitos establecidos en esta Ley para constituirse como partido político estatal e integrar el expediente respectivo para que el Secretario Ejecutivo lo someta a la consideración del Consejo General;
+X. (DEROGADA, P.O. 26 DE MAYO DE 2017);
 
-XI. Inscribir en el libro respectivo el registro de partidos políticos, así como los convenios de fusión, frentes, coaliciones y acuerdos de participación;
+XI. (DEROGADA, P.O. 26 DE MAYO DE 2017);
 
-XII. Ministrar a los partidos políticos el financiamiento público al que tienen derecho conforme a lo señalado en esta Ley;
+XII. (DEROGADA, P.O. 26 DE MAYO DE 2017);
 
 XIII. Integrar los informes sobre el registro de candidaturas que realicen para cada elección local los órganos electorales;
 
-XIV. Llevar los libros de registro de los candidatos a los puestos de elección popular;
+XIV. (DEROGADA, P.O. 26 DE MAYO DE 2017);
 
 XV. Asistir a las sesiones de la Comisión de Prerrogativas y Partidos Políticos sólo con derecho de voz, y
 
@@ -1521,15 +1583,91 @@ Las juntas ejecutivas regionales son los órganos desconcentrados delegacionales
 
 Las juntas ejecutivas regionales dependerán de la Junta Estatal Ejecutiva, a través de la Secretaria Ejecutiva y de las Direcciones Ejecutivas en el ámbito de sus respectivas competencias y atribuciones, bajo la supervisión de la Comisión de Órganos Regionales, Distritales y Municipales del Consejo General y del Consejero Presidente.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 106.
 
-Las juntas ejecutivas regionales son órganos permanentes que se integran por el vocal ejecutivo, el vocal secretario, de administración y del servicio profesional electoral y el vocal de organización, capacitación electoral y educación cívica, los cuales invariablemente formarán parte del servicio profesional electoral.
+Las juntas ejecutivas regionales son órganos desconcentrados permanentes del Instituto Estatal, que se integran por el titular, el secretario y el subcoordinador de educación cívica, de organización electoral y de participación ciudadana.
 
-El Vocal Ejecutivo presidirá la Junta y será el responsable de la coordinación con las autoridades en la demarcación territorial correspondiente.
+Durante el proceso electoral, el titular y el secretario de las juntas ejecutivas regionales se integrarán como presidente y secretario, respectivamente, del consejo electoral de la demarcación territorial correspondiente que determine el Consejo General, atendiendo a las necesidades institucionales.
 
-El vocal secretario, de administración y del servicio profesional electoral auxiliará al Vocal Ejecutivo en las tareas administrativas, tramitará los recursos de revisión que se presenten ante la Junta, ejercerá las funciones de la oficialía electoral y ejecutará los programas correspondientes al servicio profesional electoral.
+I. El titular de la junta ejecutiva regional realizará las siguientes funciones:
 
-El vocal de organización, capacitación electoral y educación cívica ejecutará las funciones atinentes a las respectivas áreas de la Junta General Ejecutiva.
+a) Coordinar las actividades de la junta ejecutiva regional, con el fin de promover que sean acordes a la estrategia institucional;
+
+b) Vigilar que la ejecución de las actividades de la junta ejecutiva regional y sus interacciones con otras entidades, sean apegadas a la normatividad aplicable;
+
+c) Fungir como enlace de la junta ejecutiva regional con otras entidades, públicas y privadas, siempre y cuando tengan como fin último la ejecución de las estrategias encomendadas;
+
+d) Realizar, en su ámbito de competencia, las funciones de oficialía electoral delegadas por el Secretario Ejecutivo;
+
+e) Presidir la junta ejecutiva regional y, durante el proceso electoral, el consejo respectivo;
+
+f) Ordenar al secretario de la junta ejecutiva regional que expida las certificaciones que le soliciten los partidos políticos y candidatos independientes;
+
+g) Elaborar la estadística de las elecciones locales, y
+
+h) Las demás que señale esta Ley.
+
+II. El Secretario de la junta ejecutiva regional tendrá las siguientes funciones:
+
+a) Fungir como secretario del consejo electoral respectivo;
+
+b) Auxiliar en las actividades que desempeña el titular de la junta ejecutiva regional;
+
+c) Cubrir las ausencias momentáneas y temporales del presidente del consejo electoral respectivo durante los procesos electorales;
+
+d) Cumplir, en el ámbito de su competencia, con los acuerdos del Consejo General e informar sobre la observancia de los mismos al titular de la junta ejecutiva regional;
+
+e) Orientar a los ciudadanos que ante la junta ejecutiva regional lo soliciten, sobre temas de protección de derechos político-electorales y de justicia electoral, llevándose una bitácora de la atención y su resultado;
+
+f) Coordinar y supervisar la integración, operación y actualización del archivo de la junta ejecutiva regional, que tendrá bajo su custodia;
+
+g) Expedir copias certificadas, de los documentos que obren en los archivos de la junta ejecutiva regional;
+
+h) Dar fe pública de los actos o hechos de naturaleza electoral;
+
+i) Apoyar al titular de la junta ejecutiva regional en la recepción y trámite de los medios de impugnación que se presenten contra los actos o resoluciones de la junta ejecutiva regional;
+
+j) Apoyar al titular de la junta ejecutiva regional en el abastecimiento a los consejos distritales y municipales de los elementos para el cumplimiento de sus funciones;
+
+k) Practicar las notificaciones que le sean encomendadas, constatar y dar fe de los actos y hechos que pudieran influir o afectar la organización del proceso electoral o la equidad en las contiendas electorales;
+
+l) Solicitar la colaboración de los notarios públicos para el auxilio de la función electoral durante el desarrollo de la jornada electoral en los procesos locales;
+
+m) Elaborar proyectos de acuerdos y resoluciones y apoyar en la integración de expedientes;
+
+n) Apoyar en el desarrollo de audiencias en los procedimientos sancionadores;
+
+o) Apoyar en la aplicación de los programas del Servicio Profesional Electoral;
+
+p) Administrar, controlar y comprobar el gasto de las operaciones que se efectúen en la junta ejecutiva regional, y
+
+q) Realizar las actividades administrativas que le encomiende la Coordinación Administrativa.
+
+III. El Subcoordinador de Educación Cívica, de Organización Electoral y de Participación Ciudadana tendrá las siguientes funciones:
+
+a) Planear y ejecutar, en el ámbito de su competencia, las distintas acciones que determinan los programas de Educación Cívica, Organización Electoral y Participación Ciudadana del Instituto Estatal para fortalecer la construcción de ciudadana (sic), posibilitar el ejercicio de los derechos político-electorales y promover la cultura de la participación;
+
+b) Gestionar y ejecutar, en el ámbito de su competencia, convenios de colaboración con autoridades administrativas, instituciones educativas y organizaciones de la sociedad civil para el desarrollo de acciones orientadas a la promoción de la cultura política democrática y la construcción de ciudadanía;
+
+c) Apoyar en la integración, instalación y funcionamiento de los consejos electorales, para los procesos electorales locales y los de participación ciudadana;
+
+d) Apoyar en la recepción y trámite de las solicitudes de los ciudadanos que quieran participar como observadores electorales en el ámbito local y, en su caso, en la impartición de los cursos de capacitación, con el fin de posibilitar el ejercicio de los derechos político-electorales y de participación ciudadana;
+
+e) Aportar la información relativa a las solicitudes de acreditación de los representantes de los partidos políticos ante mesas directivas de casillas y generales para su incorporación a los sistemas informáticos del Instituto Nacional;
+
+f) Participar en la instalación y operación de las bodegas y de los espacios de custodia, en los procedimientos para la recepción, resguardo, conteo, sellado, enfajillado y distribución de la documentación y materiales electorales a petición de los consejos electorales;
+
+g) Ejecutar el Sistema de Información sobre el desarrollo de la Jornada Electoral o sistema equivalente para dar cuenta de la información que se genere durante la jornada electoral y, en su caso, coordinar la logística para la recopilación de información requerida para conteos rápidos;
+
+h) Operar la logística de la recolección de la documentación y expedientes de la casilla para su entrega a los consejos electorales, y de los materiales electorales;
+
+i) Aportar la información para la estadística de las elecciones locales ordinarias y extraordinarias y, en su caso, de los procedimientos de participación ciudadana;
+
+j) Ejecutar las acciones para la actualización permanente del marco geográfico de participación ciudadana, y
+
+k) Coordinar, en su ámbito territorial, la organización y desarrollo de los mecanismos de participación ciudadana.
 
 ###### Artículo 107.
 
@@ -1575,9 +1713,11 @@ Los Consejos Distritales Electorales son los órganos encargados de la preparaci
 
 Los Consejos Distritales Electorales se integrarán con un Consejero Presidente, un Secretario, dos consejeros electorales propietarios y un supernumerario, y representantes de los partidos políticos con registro y de los candidatos independientes que participen en la elección.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 111.
 
-Los consejeros electorales de los órganos distritales serán nombrados por el Consejo General que deberá recabar las propuestas de los partidos políticos y grupos organizados de la sociedad civil. El Presidente del Consejo General formará una lista de por lo menos diez nombres y, con votación de la mayoría de sus miembros, designará a los consejeros electorales y a sus suplentes.
+Con excepción de lo previsto en el segundo párrafo del artículo 106 de esta Ley, los consejeros electorales de los órganos distritales serán nombrados por el Consejo General que deberá recabar las propuestas de los partidos políticos y grupos organizados de la sociedad civil. El Presidente del Consejo General formará una lista de por lo menos diez nombres y, con votación de la mayoría de sus miembros, designará a los consejeros electorales y a sus suplentes.
 
 ###### Artículo 112.
 
@@ -1585,13 +1725,17 @@ Para integrar las ternas y listas a que se refieren los artículos 111 y 113 de 
 
 Los ciudadanos en forma independiente podrán manifestar su interés en integrar los órganos electorales en el mismo plazo.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 113.
 
-El presidente del Consejo Distrital será designado por el Consejo General a propuesta de su Presidente, quien deberá recabar información de los partidos políticos, y grupos organizados de la sociedad civil. El Presidente del Consejo General formará una terna que someterá al pleno para que por mayoría de votos de sus miembros presentes haga la designación correspondiente.
+Con excepción de lo previsto en el segundo párrafo del artículo 106 de esta Ley, el presidente del Consejo Distrital será designado por el Consejo General a propuesta de su Presidente, quien deberá recabar información de los partidos políticos y grupos organizados de la sociedad civil. El Presidente del Consejo General formará una terna que someterá al pleno para que por mayoría de votos de sus miembros presentes haga la designación correspondiente.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### Artículo 114.
 
-El Secretario del Consejo Distrital Electoral será nombrado por el propio organismo a propuesta de su presidente, deberá reunir los requisitos a que se refiere el artículo 83 de esta Ley y preferentemente ser licenciado en derecho.
+Con excepción de lo previsto en el segundo párrafo del artículo 106 de esta Ley, el secretario del Consejo Distrital Electoral será nombrado por el propio organismo a propuesta de su Presidente y deberá reunir los requisitos a que se refiere el artículo 83 de esta Ley, con excepción de los señalados en las fracciones III, IV y XI de ese artículo, y preferentemente deberá ser licenciado en derecho.
 
 ###### Artículo 115.
 
@@ -1697,9 +1841,11 @@ Los miembros de los consejos municipales electorales tendrán voz y voto, con ex
 
 Es aplicable a los consejeros electorales de los consejos municipales lo previsto en el párrafo segundo del artículo 82 de esta Ley.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 126.
 
-El presidente y los consejeros electorales de los consejos municipales deberán reunir los requisitos señalados en el artículo 83 de esta Ley y tendrán derecho a recibir dieta de asistencia durante el proceso electoral.
+El presidente y los consejeros electorales de los consejos municipales deberán reunir los requisitos señalados en el artículo 83 de esta Ley, con excepción de los requisitos previstos en las fracciones III, IV y XI de ese artículo y tendrán derecho a recibir dieta de asistencia durante el proceso electoral.
 
 ###### Artículo 127.
 
@@ -2363,7 +2509,9 @@ El Instituto Estatal deberá ajustar o modificar los plazos establecidos en las 
 
 Los procesos internos para la selección de candidatos a cargos de elección popular son el conjunto de actividades que realizan los partidos políticos y los aspirantes a dichos cargos, de conformidad con lo establecido en esta Ley, en los Estatutos, reglamentos, acuerdos y demás disposiciones de carácter general que aprueben los órganos de dirección de cada partido político.
 
-Al menos treinta días antes del inicio formal de los procesos a que se refiere el párrafo inmediato anterior, cada partido determinará, conforme a sus Estatutos, el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, según la elección de que se trate.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Al menos treinta días antes del inicio formal de los procesos a que se refiere el párrafo inmediato anterior, cada partido determinará, conforme a sus Estatutos, el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, según la elección de que se trate. Se incluirá la definición de los mecanismos por los que se garantice la participación de los aspirantes que pretenden ser postulados para una elección consecutiva, los criterios para garantizar la paridad de género en las candidaturas a diputados, presidentes municipales, síndicos y regidores y la definición de los distritos y municipios en los que se postularán mujeres.
 
 La determinación deberá ser comunicada al Consejo General dentro del plazo comprendido del 1 al 7 de septiembre del año previo a la elección, señalando la fecha de inicio del proceso interno; el método o métodos que serán utilizados; la fecha para la expedición de la convocatoria correspondiente; los plazos que comprenderá cada fase del proceso interno; los órganos de dirección responsables de su conducción y vigilancia; la fecha de celebración de la asamblea electoral interna o, en su caso, de realización de la jornada comicial interna, conforme a lo siguiente:
 
@@ -2380,6 +2528,10 @@ Tratándose de precampañas, darán inicio al día siguiente de que se apruebe e
 Los precandidatos a candidaturas a cargos de elección popular que participen en los procesos de selección interna convocados por cada partido político no podrán realizar actividades de proselitismo o difusión de propaganda, por ningún medio, antes de la fecha de inicio de las precampañas; la violación a esta disposición se sancionará con la negativa de registro como precandidato.
 
 Los partidos políticos harán uso del tiempo en radio y televisión que conforme a la Ley General les corresponda para la difusión de sus procesos de selección interna de candidatos a cargos de elección popular, de conformidad con las reglas y pautas que determine el Instituto Nacional.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+El diputado, presidente municipal, síndico o regidor que pretenda la elección consecutiva deberá dar aviso por escrito de su intención al partido político, o cualquiera de los partidos políticos integrantes de la coalición que los postuló y al Consejo General dentro del plazo contenido en el tercer párrafo de este artículo. La falta del aviso a los partidos políticos se entenderá que no se pretende la elección consecutiva.
 
 ###### Artículo 176.
 
@@ -2451,21 +2603,49 @@ Corresponde a los partidos políticos el derecho de solicitar el registro de can
 
 Los candidatos podrán ser propios o coaligados. Se entiende como propios los registrados por un solo partido político y por coaligados los registrados por dos o más partidos políticos mediando convenio de coalición.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 184.
 
-Las candidaturas a diputados y a integrantes de ayuntamiento, se registrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente, y serán consideradas, fórmulas y candidatos, separadamente, salvo para efectos de la votación.
+Las candidaturas a diputados, síndicos y regidores, se registrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente, y serán consideradas, fórmulas y candidatos, separadamente, salvo para efectos de la votación.
 
-Los partidos políticos promoverán y garantizarán la paridad entre los géneros, en la postulación de candidatos a los cargos de elección popular para diputados al Congreso del Estado y de regidores de los ayuntamientos.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Los partidos políticos promoverán y garantizarán la paridad entre los géneros, en la postulación de candidatos a los cargos de elección popular para diputados al Congreso del Estado y de los presidentes municipales, síndicos y regidores.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+En el caso de elección consecutiva, los diputados, síndicos y regidores podrán integrar la misma o diferente fórmula por las que fueron electos.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Tratándose de elección consecutiva los partidos políticos y coaliciones podrán registrar planillas de miembros de los ayuntamientos en orden distinto al que fueron electos, a efecto de garantizar la paridad de género.
 
 ###### Artículo 185.
 
 De la totalidad de solicitudes de registro, tanto de las candidaturas a diputados como integrantes del ayuntamiento que presenten los partidos políticos o las coaliciones ante el Instituto Estatal, deberán integrarse salvaguardando la paridad entre los géneros, conforme a la Constitución Federal, la Constitución del Estado y esta Ley.
 
-Las listas de diputados y de ayuntamientos por el principio de representación proporcional se integrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género, y se alternarán las fórmulas de distinto género para garantizar el principio de paridad hasta agotar cada lista.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
-Las fórmulas de candidatos a diputados por el principio de mayoría relativa se registrarán por personas del mismo género. No les será aplicable la regla de la alternancia.
+Las listas de diputados por el principio de representación proporcional se integrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género, y se alternarán las fórmulas de distinto género para garantizar el principio de paridad hasta agotar cada lista.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Las fórmulas de candidatos a diputados por el principio de mayoría relativa se registrarán con personas del mismo género. De la totalidad de solicitudes de registro de fórmulas de candidatos, el cincuenta por ciento deberá ser de un mismo género.
 
 En caso de que el partido político postule candidatos a diputados por el principio de mayoría relativa en un número impar, será permitido que exista una fórmula más de alguno de los géneros.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+La planilla de candidatos a integrantes de ayuntamientos por el principio de mayoría relativa y representación proporcional deberán estar integradas de manera paritaria y alternada entre géneros, comenzando desde el candidato a presidente municipal y continuándola hasta agotar las fórmulas.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+De la totalidad de las solicitudes de registro de planillas de candidatos a integrantes de ayuntamiento, el cincuenta por ciento deberá estar encabezada por personas del mismo género.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+En caso de que el partido político o coalición postule planillas de candidatos a integrantes de ayuntamientos en un número impar, será permitido que exista una planilla más encabezada por alguno de los géneros.
 
 ###### Artículo 186.
 
@@ -2495,7 +2675,9 @@ III. Para Gobernador del Estado, del 18 al 24 de febrero del año de la elecció
 
 IV. Para ayuntamientos, del 20 al 26 de marzo del año de la elección, por los consejos municipales electorales correspondientes.
 
-Las coaliciones deberán solicitar el registro de sus convenios a más tardar treinta días antes de que inicie el periodo de precampaña de la elección que se trate.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Las coaliciones deberán solicitar el registro de convenios a más tardar treinta días antes de que inicie el periodo de precampaña de la elección que se trate, de conformidad con lo establecido en la Ley General y la Ley General de Partidos Políticos;
 
 El Consejo General podrá realizar ajustes a los plazos establecidos en este artículo a fin de garantizar los plazos de registro y que la duración de las campañas electorales se ciña a lo establecido en el artículo 203 de esta Ley.
 
@@ -2505,9 +2687,11 @@ Los registros a que refieren las fracciones I y IV de este artículo podrán lle
 
 Los candidatos a diputados electos por el principio de representación proporcional, podrán hacer actos de campaña a favor de su partido siempre y cuando no realicen ningún tipo de gasto de campaña.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 189.
 
-El registro de candidatos a diputados y a miembros de ayuntamientos, se sujetará además de lo establecido en los artículos 184 y 185 de esta Ley, a las reglas siguientes:
+El registro de candidatos a diputados y a miembros de ayuntamientos, se sujetará además de lo establecido en los artículos 47 y 113 de la Constitución del Estado y 184 y 185 de esta Ley, a las reglas siguientes:
 
 I. Las candidaturas de diputados por el principio de mayoría relativa serán registradas por fórmulas, integradas cada una por un propietario y un suplente del mismo género;
 
@@ -2601,13 +2785,19 @@ Para la sustitución de candidatos, los partidos políticos lo solicitarán por 
 
 I. Dentro del plazo establecido para el registro de candidatos podrán sustituirlos libremente;
 
-II. Vencido el plazo a que se refiere la fracción anterior, exclusivamente podrán sustituirlos por causa de fallecimiento, inhabilitación, incapacidad o renuncia. En este último caso, no podrán sustituirlos cuando la renuncia se presente dentro de los treinta días anteriores al de la elección. No habrá modificación a las boletas electorales en caso de cancelación de registro o sustitución de uno o más candidatos, si estas ya estuvieran impresas, en los términos de la Ley General.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+II. Vencido el plazo a que se refiere la fracción anterior, exclusivamente podrán sustituirlos por causa de fallecimiento, inhabilitación, incapacidad o renuncia. No habrá modificación a las boletas electorales en caso de cancelación de registro o sustitución de uno o más candidatos, si estas ya estuvieran impresas, en los términos de la Ley General.
 
 En el supuesto de que siendo necesaria una sustitución y ésta no se lleve a cabo por los partidos políticos correspondientes, se tendrá como si no hubiese registrado al candidato respectivo, y
 
 III. En los casos en que la renuncia del candidato fuera notificada por éste al Consejo General, se hará por escrito del conocimiento del partido político que lo registro para que proceda, en su caso, a su sustitución.
 
 Sólo se podrán sustituir el o los candidatos registrados por una coalición por causas de fallecimiento, renuncia o incapacidad total permanente. En estos casos, para la sustitución, se tendrá que acreditar que se cumplió con lo dispuesto en materia de coaliciones en la Ley General de Partidos Políticos, la Ley General y esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Una vez recibida la renuncia, el Instituto Estatal requerirá dentro de las veinticuatro horas siguientes al candidato para que la ratifique, en el entendido de que de no hacerlo se le tendrá por ratificándola (sic).
 
 #### Sección Tercera. De la campaña electoral
 
@@ -2729,25 +2919,49 @@ IV. Los gastos de producción de los mensajes para radio y televisión comprende
 
 No se considerarán dentro de los topes de campaña los gastos que realicen los partidos políticos para su operación ordinaria y para el sostenimiento de sus órganos directivos y de sus organizaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 206.
 
-El Consejo General en la determinación de los topes de gastos de campaña, para gobernador, diputados locales y ayuntamientos, tendrá en cuenta los siguientes criterios:
+El Consejo General, a más tardar el día primero de febrero del año de la elección, determinará los topes de gastos de campaña para gobernador, diputados locales y ayuntamientos, mediante el siguiente procedimiento:
 
-I. Aquellos elementos que determinan el gasto a realizar en una campaña político electoral;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-II. El valor unitario del voto establecido por la autoridad electoral;
+I. Determinará el valor unitario del voto, dividendo el monto para el gasto de campaña otorgado a los partidos políticos acreditados ante el Instituto Estatal en el año de la elección entre el número total de ciudadanos inscritos en el padrón electoral al último día de diciembre del año previo al de la elección.
 
-III. El número de electores inscritos en el padrón de la demarcación territorial correspondiente a los comicios a realizar;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-IV. El financiamiento público otorgado a los partidos políticos, y
+II. Determinará el valor total del voto por municipio o distrito multiplicando el valor unitario del voto por el número total de ciudadanos inscritos en el padrón electoral al último día de febrero del año de la elección, del correspondiente municipio o distrito.
 
-V. Las condiciones salariales, las de densidad poblacional y geográficas que caracterizan a cada uno de los distritos y municipios del Estado.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+III. Determinará el gasto a realizar en una campaña político electoral por municipio o distrito, de acuerdo con los lineamientos internos, tomando en consideración las cotizaciones propias, incrementos inflacionarios, el tipo de municipio y la densidad poblacional.
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+IV. El tope de gastos de campaña para diputados locales y ayuntamientos se determinará promediando los valores resultantes del valor total del voto por municipio o distrito y el gasto a realizar en una campaña político electoral por municipio o distrito.
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+V. Para la elección de Gobernador del Estado, el tope máximo de gastos para dicha elección será igual a la suma de todos los topes de gastos de campaña de los municipios que conforman el Estado.
 
 Una vez determinados los topes de gastos de campañas por el Consejo General, éste vigilará el cumplimiento del acuerdo emitido.
 
 ###### Artículo 207.
 
 Cualquier infracción a las disposiciones contenidas en el presente capítulo será sancionada en los términos del Título Séptimo de esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+###### Artículo 207 Bis.
+
+Los actos de campaña de los síndicos y regidores que sean postulados para una elección consecutiva se sujetarán a las siguientes reglas:
+
+I. Se realizarán en días inhábiles;
+
+II. La propaganda electoral se abstendrá de contener cualquier elemento de identidad con el cargo público que ostenta, y
+
+III. No podrán hacer uso de los recursos públicos de los que dispongan por el ejercicio de sus funciones, para promoverse con fines electorales.
 
 #### Sección Quinta. Del registro de representantes
 
@@ -3577,6 +3791,20 @@ El Consejo General emitirá las reglas de operación respectivas, utilizando rac
 
 El derecho de los ciudadanos de solicitar su registro de manera independiente a los partidos políticos se sujetará a los requisitos, condiciones y términos establecidos en la Constitución del Estado y en la presente Ley.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+###### Artículo 291 Bis.
+
+El derecho de los diputados, presidentes municipales, síndicos y regidores electos por la vía de la candidatura independiente para ser postulados a una elección consecutiva se sujetarán además de las reglas previstas en esta Ley para los candidatos independientes, a las siguientes:
+
+I. Dar aviso al Instituto Estatal de su pretensión de ser electo de manera consecutiva en el plazo y en los términos previstos en el artículo 297 de esta Ley;
+
+II. No se requerirá recabar el apoyo ciudadano a que se refiere el artículo 298 de esta Ley;
+
+III. La manifestación del número de veces que han ocupado el mismo cargo de manera consecutiva, con independencia del principio por el que hayan sido electos, y
+
+IV. Anexar a la solicitud de registro la documentación a que se refiere el artículo 311 de esta Ley, con excepción de las previstas en los incisos h) e i) de la fracción III de dicho artículo.
+
 ###### Artículo 292.
 
 Los ciudadanos que cumplan con los requisitos, condiciones y términos tendrán derecho a participar y, en su caso, a ser registrados como candidatos independientes para ocupar los siguientes cargos de elección popular:
@@ -3593,7 +3821,9 @@ No procederá en ningún caso, el registro de aspirantes a candidatos independie
 
 Para los efectos de la integración del Congreso del Estado, los candidatos independientes para el cargo de diputado deberán registrar la fórmula correspondiente de propietario y suplente, respetando las mismas reglas de la paridad de género contenidas en la Constitución del Estado y esta Ley.
 
-Para la integración de ayuntamientos, los candidatos independientes deberán registrar la planilla completa que estará formada por los candidatos a presidente, síndico o síndicos, y regidores, propietarios y suplentes.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Para la integración de ayuntamientos, los candidatos independientes deberán registrar la planilla completa que estará formada por los candidatos a presidente municipal, síndico o síndicos y regidores, propietarios y suplentes, atendiendo a las reglas de paridad de género contenidas en la Constitución del Estado y esta Ley.
 
 ###### Artículo 294.
 
@@ -3666,6 +3896,10 @@ Para la candidatura de Gobernador del Estado, la cédula de respaldo deberá con
 Para fórmula de diputados de mayoría relativa, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al 3% de la lista nominal de electores correspondiente al distrito electoral en cuestión, con corte al 31 de julio del año previo al de la elección y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que sumen cuando menos el 1.5% de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
 
 Para la planilla de integración de ayuntamiento, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al 3% de la lista nominal de electores correspondiente al municipio en cuestión, con corte al 31 de julio del año previo al de la elección y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que sumen cuando menos el 1.5% de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Las cédulas de respaldo ciudadano, junto con las copias de las credenciales de elector de cada uno de los ciudadanos que manifestaron su apoyo a la candidatura, se deberán presentar ante el Secretario Ejecutivo del Instituto Estatal durante el periodo de recolección y dentro de los diez días naturales posteriores a los plazos previstos en el artículo 298 de esta Ley.
 
 ###### Artículo 301.
 
@@ -3799,6 +4033,10 @@ g) Designación del representante legal y domicilio para oír y recibir notifica
 
 h) Designación de la persona encargada del manejo de los recursos financieros y de la rendición de informes correspondientes, en los términos del último párrafo del artículo 297 de esta Ley;
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+i) Los candidatos a diputados e integrantes de ayuntamiento que pretendan reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que han sido electos en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución Federal y la Constitución del Estado en materia de elección continua;
+
 III. La solicitud deberá acompañarse de la siguiente documentación:
 
 a) Formato en el que manifieste su voluntad de ser candidato independiente, a que se refiere esta Ley;
@@ -3817,7 +4055,7 @@ g) La constancia de entrega de los informes de gastos y egresos de los actos ten
 
 h) La cédula de respaldo que contenga el nombre, firma y clave de elector o el número identificador al reverso de la credencial de elector derivado del reconocimiento óptico de caracteres (OCR) de la credencial para votar con fotografía vigente de cada uno de los ciudadanos que manifiestan el apoyo en el porcentaje requerido en los términos de esta Ley;
 
-i) Copia simple del anverso y reverso de la credencial para votar vigente de cada uno de los ciudadanos que hayan manifestado el apoyo a su candidatura;
+i) (DEROGADO, P.O. 26 DE MAYO DE 2017);
 
 j) Manifestación por escrito, bajo protesta de decir verdad, de:
 
@@ -3859,6 +4097,38 @@ VII. En el caso que se haya presentado por una misma persona más de una manifes
 
 VIII. En el caso que una misma persona haya presentado manifestación en favor de más de un aspirante al mismo cargo, sólo se computará la primera manifestación presentada.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+En caso de advertirse la actualización de una o más circunstancias señaladas en las fracciones de este artículo, el Consejo General emitirá un acuerdo en el que señale fecha, hora y lugar para llevar a cabo una diligencia que tendrá como objetivo hacer del conocimiento del solicitante o representante legal las inconsistencias a efecto de que las pueda subsanar, conforme a lo siguiente:
+
+a) Notificará personalmente al solicitante o representante legal, cuando menos con veinticuatro horas de anticipación, la fecha, hora y lugar para llevar a cabo la diligencia;
+
+b) En la fecha, hora y lugar señalados, estará presente el personal del Instituto Estatal para dar fe de hechos;
+
+c) Se deberá levantar un acta circunstanciada de la diligencia, asentando los datos de las personas que en ella intervengan y el documento válido oficial con el que en ese acto se identifiquen. No podrán participar personas que no exhiban algún documento válido para identificarse;
+
+d) La diligencia tendrá una duración máxima de setenta y dos horas efectivas, podrá ser interrumpida con fines de descanso, en los intervalos que el Consejo General determine en el acuerdo que dicte y podrá ser reiniciada en la fecha y hora que se señale y, en el mismo acto, se notificará a la parte interesada al momento de decretar el receso;
+
+e) Durante la diligencia se deberá poner a disposición del solicitante o representante legal y de las personas que él mismo presente como equipo de trabajo, toda la documentación que requieran consultar para realizar la revisión solicitada;
+
+f) Todos los elementos, aparatos y cédulas que se pongan al alcance de la parte interesada estarán a su disposición únicamente durante el tiempo que dure la diligencia y no podrán ser retirados de las instalaciones del lugar señalado, ni durante ni después de agotada la diligencia;
+
+g) Los elementos, documentos y aparatos que sean puestos al alcance de la parte interesada para los efectos de la diligencia, no podrán ser modificados ni alterados en ninguna forma, sólo podrán ser objeto de consulta y, en su caso, podrán ser separados o señalados con algún medio que no altere su contenido ni implique el agregado de marca alguna, y
+
+h) Las únicas funciones del personal del Instituto Estatal que esté presente durante la diligencia serán las de dar fe del acto, asentar en el acta respectiva, poner a disposición de la parte interesada todos los elementos, documentos, cédulas y aparatos, cuidar el orden y el acatamiento del acuerdo emitido.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+A partir del día y hora en que concluya la diligencia comenzará a correr, para la parte interesada, un nuevo plazo de veinticuatro horas a efecto de manifestar por escrito ante el Consejo General, se subsanen irregularidades u omisiones, para hacer aclaraciones en relación con el resultado de la revisión de la información efectuada por la autoridad a las cédulas de apoyo ciudadano que exhibió, o bien, para manifestar lo que a su derecho convenga.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+En el acuerdo que se dicte o al término de la diligencia se deberá hacer del conocimiento de la parte interesada el plazo con el que cuenta y el momento a partir del cual se computará para manifestar lo que (sic) su derecho convenga.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+El acuerdo que se dicte, conforme a lo establecido en los incisos anteriores, señalará fecha, lugar y hora, y demás particularidades para la celebración de la diligencia que se ordene, deberá ser notificado personalmente a la parte interesada cuando menos con veinticuatro horas de anticipación al día y hora programada para el inicio de la diligencia.
+
 ###### Artículo 314.
 
 Si la solicitud no reúne el porcentaje requerido, para la elección de que se trate, se tendrá por no presentada.
@@ -3884,6 +4154,10 @@ Los candidatos independientes que obtengan su registro no podrán ser sustituido
 ###### Artículo 319.
 
 Tratándose de la fórmula de diputados por el principio de mayoría relativa, le será cancelado el registro de la fórmula completa cuando falte el propietario.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+En cuanto a las planillas de candidatos independientes a ayuntamientos, se cancelará el registro de la planilla cuando falte el candidato a presidente municipal, o falte más de la mitad de los candidatos a regidores propietarios o suplentes, y cuando falte la fórmula completa de síndicos, o cuando falte una fórmula completa en aquellos municipios que cuentan con dos sindicaturas.
 
 #### Sección Primera. Del financiamiento
 
@@ -4077,6 +4351,10 @@ Son aplicables a los candidatos independientes, las normas sobre propaganda elec
 
 La propaganda electoral de los candidatos independientes deberá tener el emblema y color o colores que los caractericen y diferencien de los partidos políticos y de otros candidatos independientes, así como tener visible la leyenda: «Candidato Independiente».
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+El emblema y color o colores de las candidaturas independientes se presentarán al momento de solicitar su registro como candidato independiente ante el Instituto Estatal.
+
 ### Capítulo VI. De la fiscalización
 
 #### Sección Primera. De la documentación y el material electoral
@@ -4187,7 +4465,11 @@ IV. La difusión de propaganda política o electoral que contenga expresiones qu
 
 V. Omitir informar adecuadamente en los informes sobre los recursos recibidos y el no presentar informe de gastos de campaña, y
 
-VI. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+VI. Hacer uso indebido de recursos públicos como aspirantes, precandidatos y candidatos, y
+
+VII. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
 ###### Artículo 348.
 
@@ -4219,7 +4501,11 @@ XII. La difusión de propaganda política o electoral que contenga expresiones q
 
 XIII. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Estatal, y
 
-XIV. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley y demás disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XIV. Hacer uso indebido de recursos públicos como aspirantes y candidatos, y
+
+XV. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley y demás disposiciones aplicables.
 
 ###### Artículo 349.
 
@@ -4679,6 +4965,12 @@ VI. En su caso, las medidas cautelares que se soliciten.
 
 El órgano del Instituto Estatal que reciba o promueva la denuncia la remitirá inmediatamente a la Unidad Técnica Jurídica y de lo Contencioso Electoral de la Secretaría Ejecutiva del Instituto Estatal, para que ésta la examine junto con las pruebas aportadas.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+###### Artículo 372 Bis.
+
+La Unidad Técnica Jurídica y de lo Contencioso Electoral de la Secretaría Ejecutiva del Instituto Estatal podrá realizar una investigación preliminar previa a la admisión o desechamiento de la denuncia.
+
 ###### Artículo 373.
 
 La denuncia será desechada de plano por la Unidad Técnica Jurídica y de lo Contencioso Electoral de la Secretaría Ejecutiva del Instituto Estatal, sin prevención alguna, cuando:
@@ -4693,9 +4985,13 @@ IV. La denuncia sea evidentemente frívola.
 
 La Unidad Técnica Jurídica y de lo Contencioso Electoral de la Secretaría Ejecutiva del Instituto Estatal deberá admitir o desechar la denuncia en un plazo no mayor a 24 horas posteriores a su recepción. En caso de desechamiento, notificará al denunciante su resolución, por el medio más expedito a su alcance dentro del plazo de doce horas; tal resolución deberá ser confirmada por escrito y se informará al Tribunal Estatal Electoral, para su conocimiento.
 
-Cuando la Unidad Técnica Jurídica y de lo Contencioso Electoral de la Secretaría Ejecutiva del Instituto Estatal admita la denuncia, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
-Si la Unidad Técnica Jurídica y de lo Contencioso Electoral de la Secretaría Ejecutiva del Instituto Estatal considera necesaria la adopción de medidas cautelares, las propondrá a la Comisión de Quejas y Denuncias dentro del mismo plazo de cuarenta y ocho horas, en los términos establecidos en el artículo 357 de esta Ley. Esta decisión podrá ser impugnada ante el Tribunal Estatal Electoral.
+Cuando la Unidad Técnica Jurídica y de lo Contencioso Electoral de la Secretaría Ejecutiva del Instituto Estatal admita la denuncia, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores al emplazamiento. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos y con las constancias que la autoridad recabó en la investigación preliminar.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Si la Unidad Técnica Jurídica y de lo Contencioso Electoral de la Secretaría Ejecutiva del Instituto Estatal considera necesaria la adopción de medidas cautelares, las propondrá a la Comisión de Quejas y Denuncias dentro del mismo plazo de cuarenta y ocho horas, en los términos establecidos en el artículo 357 de esta Ley. Esta decisión podrá ser impugnada ante el Tribunal Estatal Electoral. La autoridad substanciadora tendrá un plazo de cuarenta y ocho horas para iniciar una investigación preliminar y determinar el dictado de medidas cautelares.
 
 ###### Artículo 374.
 
@@ -4933,9 +5229,13 @@ VII. Cuando considere que el partido político o coalición, a través de sus di
 
 VIII. Cuando estando afiliado a un partido político u organización política, considere que un acto o resolución de los órganos partidarios, es violatorio de cualquier otro de sus derechos político- electorales;
 
-IX. Cuando se aduzca la violación del derecho de integrar las autoridades electorales del Estado, o
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
 
-X. Cuando considere que un acto o resolución de la autoridad electoral es violatorio de cualquier otro de sus derechos político-electorales.
+IX. Cuando siendo diputado o integrante de ayuntamiento con derecho a participar en un proceso interno de selección de candidatos considere que el partido político a través de sus dirigentes u órganos de dirección, violaron sus derechos político-electorales de participar en el proceso interno de selección de candidatos o de ser postulado como candidato a un cargo de elección popular, por transgresión a los estatutos y normativa interna del mismo partido;
+
+X. Cuando se aduzca la violación del derecho de integrar las autoridades electorales del Estado, o
+
+XI. Cuando considere que un acto o resolución de la autoridad electoral es violatorio de cualquier otro de sus derechos político-electorales.
 
 ###### Artículo 390.
 
@@ -5952,3 +6252,9 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. El Instituto Electoral del Estado de Guanajuato deberá reglamentar las notificaciones electrónicas a más tardar en noventa días contados a partir de que inicie su vigencia el presente Decreto.
 
 Artículo Tercero. El Instituto Electoral del Estado de Guanajuato deberá implementar la plataforma digital que permita la notificación electrónica a más tardar en noventa días contados a partir de que inicie su vigencia el presente Decreto.
+
+P.O. 26 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 189, EMITIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
