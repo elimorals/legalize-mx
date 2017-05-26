@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2016-07-01"
+last_updated: "2017-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2017.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -11667,6 +11667,10 @@ I. Cuando sea general;
 
 II. Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que con forme a la ley debe constar en instrumento público.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+El mandato otorgado en escritura pública tendrá una duración de hasta cinco años. Los notarios públicos insertarán en los testimonios de los mandatos que se otorguen, la fecha de inicio y terminación de su vigencia, cuyo cómputo debe comenzar a partir de que se dio la declaración del mandante en favor del mandatario.
+
 ###### Art. 2067.
 
 Cuando el interés del negocio para que se confiere llegue a cinco mil pesos o exceda de esa cantidad, el mandato deberá otorgarse en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante notario o quien haga sus veces, o bien otorgarse en escritura pública.
@@ -11905,9 +11909,15 @@ III. Por muerte del mandante o del mandatario;
 
 IV. Por interdicción de uno u otro;
 
-V. Por vencimiento del plazo y por la conclusión del negocio para el que fue concedido;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+V. Por conclusión de su vigencia legal, por el vencimiento del plazo por el que fue otorgado, o por la conclusión del negocio para el que fue concedido;
 
 VI. En los casos previstos por los artículos 718, 719 y 720.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Si el negocio por el que se otorgó el poder trasciende la vigencia de éste, se entenderán por prorrogadas las facultades otorgadas hasta la conclusión del mismo, quedando comprendida la de promover el juicio de amparo.
 
 ###### Art. 2109.
 
@@ -14051,7 +14061,11 @@ XIII. El testimonio de las informaciones ad perpetuam promovidas y protocolizada
 
 XIV. Las resoluciones judiciales en que se declare la incapacidad legal de las personas en cuanto a la libre disposición de sus bienes, así como las relativas a la tutela autodesignada; y
 
-XV. Los demás títulos que la ley ordena expresamente que sean registrados.
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XV. Los mandatos otorgados en escritura pública; y
+
+XVI. Los demás títulos que la ley ordena expresamente que sean registrados.
 
 ###### Art. 2496.
 
@@ -14173,7 +14187,9 @@ IV. Tratándose de hipotecas, la época en que podrá exigirse el pago del capit
 
 V. Los nombres, edades, domicilios y profesiones de las personas que por sí mismas o por medio de representantes hubieren celebrado el contrato o ejecutado el acto sujeto a inscripción. Las personas morales se designarán por su nombre oficial, razón o denominación;
 
-VI. La naturaleza del acto o contrato;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+VI. La naturaleza del acto o contrato y, el inicio y terminación de su vigencia;
 
 VII. La fecha del título y el funcionario que lo haya autorizado;
 
@@ -17290,3 +17306,11 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 190, EMITIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado contará con un plazo de noventa días para reformar el Reglamento del Registro Público de la Propiedad para el Estado de Guanajuato, y de ciento ochenta días para asegurar el funcionamiento del Registro Público en términos del presente Decreto, respectivamente; contados a partir de la entrada en vigor del presente Decreto.
