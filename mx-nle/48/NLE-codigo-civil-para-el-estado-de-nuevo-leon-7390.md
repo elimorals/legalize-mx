@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2017-04-26"
+last_updated: "2017-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -1709,11 +1709,11 @@ El marido y la mujer, durante el matrimonio, podrán ejercitar los derechos y ac
 
 ### CAPITULO IV. DEL CONTRATO DE MATRIMONIO CON RELACION A LOS BIENES
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### Art. 178.
 
-El Contrato de Matrimonio debe celebrarse bajo el régimen de sociedad conyugal o bajo el de separación de bienes. A falta de régimen expresamente señalado, se estará sujeto al régimen de sociedad conyugal, y en ningún caso, los bienes adquiridos antes del matrimonio, el importe de la venta de los bienes propios, los adquiridos por herencia, donación o por cualquier otro título gratuito, los productos y los que se obtengan por su reinversión, formarán parte de la sociedad conyugal, salvo que expresamente se pacte lo contrario en las capitulaciones matrimoniales.
+El Contrato de Matrimonio debe celebrarse bajo el régimen de sociedad conyugal o bajo el de separación de bienes. A falta de régimen expresamente señalado, se estará sujeto al régimen de separación de bienes, y en ningún caso; los bienes adquiridos antes del matrimonio, el importe de la venta de los bienes propios, los adquiridos por herencia, donación o por cualquier otro título gratuito, los productos y los que se obtengan por su reinversión, formarán parte de la sociedad conyugal, salvo que expresamente se pacte lo contrario en las capitulaciones matrimoniales.
 
 ###### Art. 179.
 
@@ -17303,9 +17303,15 @@ P.O. 26 DE ABRIL DE 2017.
 
 P.O. 26 DE ABRIL DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 249. SE REFORMA POR MODIFICACIÓN EL TERCER PÁRRAFO DEL ARTÍCULO 705 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 249. SE REFORMA POR MODIFICACIÓN EL TERCER PÁRRAFO DEL ARTÍCULO 705 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entra en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 26 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 257. SE REFORMA EL ARTÍCULO 178 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 17 DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO TERCERO.
 
