@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-registro-civil-para-el-estado-de-nuevo-leon-60741"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-10"
-last_updated: "2016-12-19"
+last_updated: "2017-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN LA PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA PERIÓDICO OFICIAL: 26 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 10 de abril de 2008.
 
@@ -249,9 +249,13 @@ XI. Suscribir con firma autógrafa las actas del estado civil y certificaciones 
 
 XII. Dar aviso a la Dirección de las faltas en que incurra el personal administrativo en el desempeño de su trabajo;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-XIII.- Procurar que las personas que acuden a celebrar un contrato de matrimonio, reciban previamente información sobre la naturaleza, fines y efectos de dicho contrato, además de proporcionarles información sobre la mediación o conciliación, como una forma efectiva de resolver sus conflictos en el matrimonio;
+XIII. Garantizar que las personas que acudan a celebrar un contrato de matrimonio, reciban previamente información oral y por escrito sobre la naturaleza, fines y efectos del régimen de sociedad conyugal y separación de bienes, a fin de que señalen a cuál desean pertenecer en dicho contrato, además de proporcionarles información sobre la mediación o conciliación, como una forma efectiva de resolver sus conflictos en el matrimonio.
+
+Los Oficiales del Registro Civil en el Estado de Nuevo León, deberán dar a conocer a las personas que acudan a celebrar un contrato de matrimonio, la información descrita en el párrafo anterior, sin menoscabar la voluntad expresa de dichas personas para celebrar el contrato de matrimonio como a su derecho convenga.
+
+Las personas quienes fueron informadas sobre la naturaleza, fines y efectos de ambos regímenes matrimoniales, así como, el Oficial del Registro Civil quien les informó de ellos, firmaran de enterados el Libro del Registro Civil correspondiente, para efectos de garantizar y demostrar que la información descrita en esta fracción fue debidamente concedida;
 
 XIV. Realizar las anotaciones marginales establecidas en el Código Civil para el Estado de Nuevo León, así como las ordenadas por autoridades competentes;
 
@@ -828,5 +832,11 @@ Cuarto.- Los asuntos en trámite al entrar en vigor las reformas contenidas en e
 P.O. 19 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 176. SE REFORMA POR ADICIÓN DE UN SEGUNDO PÁRRAFO EL ARTÍCULO 5 DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 257. SE REFORMA EL ARTÍCULO 178 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 17 DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
