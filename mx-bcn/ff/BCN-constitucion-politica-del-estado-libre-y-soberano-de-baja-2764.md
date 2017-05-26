@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2017-01-06"
+last_updated: "2017-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -573,7 +575,9 @@ Es revocable el mandato de los servidores públicos de elección popular, en los
 
 I.- Por los ciudadanos, por responsabilidad política, mediante el juicio político, que podrá interponer cualquier ciudadano;
 
-II.- Por responsabilidad penal, mediante la declaración de procedencia;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+II.- Por responsabilidad penal, cuando la autoridad competente así lo determine;
 
 III.- Por la incapacidad total y permanente para ejercer el cargo; que será declarada por autoridad judicial y ratificada por el Congreso del Estado.
 
@@ -582,8 +586,6 @@ III.- Por la incapacidad total y permanente para ejercer el cargo; que será dec
 IV.- De conformidad con lo dispuesto en la fracción I, del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, corresponde al Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, suspender o revocar el mandato de alguno de los miembros de los ayuntamientos por causa grave que determine la Ley, siempre y cuando el afectado haya tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
 V.- En los casos en que lo acuerde o solicite la Suprema Corte de Justicia de la Nación, conforme a las disposiciones aplicables.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 289, PUBLICADO EN EL P.O. 12 DE JUNIO DE 2015, LA PRESENTE FRACCIÓN INICIA SU VIGENCIA EL PRIMERO DE AGOSTO DE 2021.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JUNIO DE 2015)</small>
 
@@ -859,8 +861,6 @@ II.- Iniciar ante el Congreso de la Unión las leyes y decretos que sean de la c
 
 III.- Facultar al Ejecutivo con las limitaciones que crea necesarias, para que por sí o por apoderado especial, represente al Estado en los casos que corresponda;
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO No. 106, PUBLICADO EN EL P.O. 7 DE OCTUBRE DE 2011, EL PRESENTE PÁRRAFO INICIA SU VIGENCIA EL 1 DE NOVIEMBRE DE 2013.</small>
-
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 En caso de que el Gobernador del Estado, dentro de los noventa días siguientes a la instalación de cada legislatura constitucional, opte por un Gobierno de Coalición, acordará las políticas públicas convenidas, turnándolas para su registro y seguimiento al Congreso del Estado.
@@ -935,11 +935,9 @@ XXII.- Resolver las competencias y dirimir las controversias que se susciten ent
 
 XXIII.- Elegir a los Magistrados del Tribunal de lo Contencioso Administrativo, determinar su adscripción a Pleno o a Salas y resolver respecto a su reelección o no reelección, ausencias definitivas, renuncias y remociones;
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-XXIV.- Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito, en los términos del Artículo 94 de esta Constitución.
-
-Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el Artículo 93 de esta Constitución y fungir, a través de una Comisión de su seno, como órgano de acusación en los juicios políticos que contra éstos se instauren;
+XXIV.- Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el Artículo 93 de esta Constitución y fungir, a través de una Comisión de su seno, como órgano de acusación en los juicios políticos que contra estos se instauren;
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -962,8 +960,6 @@ XXX.- Designar entre los vecinos, a propuesta del Gobernador del Estado, los Con
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 1984)</small>
 
 XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Municipios, las Dependencias paraestatales y paramunicipales y sus trabajadores, con base en lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO No. 106, PUBLICADO EN EL P.O. 7 DE OCTUBRE DE 2011, LA PRESENTE FRACCIÓN INICIA SU VIGENCIA EL 1 DE NOVIEMBRE DE 2013.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -996,8 +992,6 @@ XXXVII.- Citar a los Secretarios del ramo, Procurador de Justicia del Estado, Ti
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
 Los funcionarios a que se refiere el párrafo anterior, estarán obligados a acudir a las sesiones correspondientes; así como a dar respuesta formal, atendiendo a los puntos de acuerdo o exhortos remitidos por el Congreso, en un plazo prudente que no exceda de 30 días naturales.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL DECRETO NÚMERO 289, PUBLICADO EN EL P.O. 12 DE JUNIO DE 2015, LA PRESENTE FRACCIÓN INICIA SU VIGENCIA EL PRIMERO DE NOVIEMBRE DE 2021.</small>
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
 
@@ -2327,7 +2321,7 @@ Las personas integrantes de los Concejos Municipales o los Munícipes designados
 
 ### CAPITULO UNICO.. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### ARTICULO 88.
 
@@ -2372,10 +2366,6 @@ El Poder Judicial contará y administrará igualmente, con los recursos que se s
 ###### ARTICULO 91.
 
 Para los efectos de las responsabilidades a que alude este Título se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los miembros de los órganos a los que la Constitución otorgue autonomía, a los funcionarios y empleados; y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, quienes serán responsables por los actos u omisiones en los que incurran en el desempeño de sus respectivas funciones.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-El Gobernador del Estado durante el tiempo de su encargo solo podrá ser acusado por delitos graves del orden común.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -2441,67 +2431,39 @@ La votación no podrá llevarse a cabo en la misma sesión, sino con posteriorid
 
 Las decisiones que determine en esta materia el Congreso del Estado son definitivas e inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### ARTICULO 94.
 
-Para proceder penalmente contra el Gobernador, los Diputados del Congreso del Estado, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Magistrados del Tribunal de lo Contencioso Administrativo, Secretario General de Gobierno, Procurador General de Justicia del Estado, Fiscal Especializado para la Atención de Delitos Electorales, Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos del Estado o Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, por la comisión de delitos durante el tiempo de su encargo el Congreso declarará por mayoría calificada de sus integrantes si se trata del Gobernador o Presidentes Municipales, o por mayoría absoluta de miembros presentes en sesión cuando se refiera a los demás Servidores Públicos aquí mencionados, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, los Diputados del Congreso del Estado, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Magistrados del Tribunal de lo Contencioso Administrativo, Secretario General de Gobierno, Procurador General de Justicia del Estado, Fiscal Especializado para la Atención de Delitos Electorales, Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos del Estado o Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, bastará que el juez de control dicte auto de vinculación penal, en los términos del Código Nacional de Procedimientos Penales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+Si el Juez decreta la vinculación a proceso del servidor público, así como la imposición de medidas cautelares que impidan a este llevar el juicio en libertad en los términos de las disposiciones legales conducentes, bastará con la notificación personal respectiva para que surta efectos la separación del cargo del procesado. De igual manera, el Juez notificará de inmediato a los órganos internos de control, que el servidor público quedará a disposición de las autoridades judiciales, para que realicen los respectivos trámites legales con arreglo a la Ley. Si la sentencia fuese absolutoria, o en caso de sobrevenir alguna causa que extinga el proceso penal, los servidores públicos podrán reasumir su función si aún no ha fenecido el periodo por el cual fueron electos o designados.
 
-Si la resolución del Congreso fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluído el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+En tratándose de servidores públicos de elección popular, el Juez notificará al Congreso del Estado a fin de que sea éste quien haga cumplir la resolución, y le notifique la separación del cargo en los términos de ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto, procediéndose siempre de conformidad con la Ley correspondiente para que cumpla su sentencia.
 
-Si el Congreso del Estado declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la Ley.
+En el caso de que la resolución del Juez fuese no vincular a proceso, o que vinculando al mismo, las medidas cautelares no impidiesen al servidor público permanecer en el cargo, este solo podrá ser separado por resolución judicial ejecutoriada, sin que lo anterior demerite o impida el desarrollo del debido proceso penal de que se trate.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE OCTUBRE DE 2011)</small>
-
-El procedimiento de declaratoria de procedencia, tratándose de delitos graves, deberá desahogarse en un plazo no mayor de sesenta días hábiles.
-
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
-
-En el caso de que el Gobernador del Estado, Diputados, Magistrados del Poder Judicial del Estado y Consejeros de la Judicatura del Estado, sean declarados responsables en Juicio Político por la Cámara de Senadores del Congreso de la Unión o sujetos de declaración de procedencia por la Cámara de Diputados del mismo Congreso, la Legislatura del Estado determinará las sanciones de las señaladas en el Artículo 93 que deban imponerse al acusado si se está en el primer caso, o decretará la separación del Servidor Público de que se trate del cargo que ocupa y lo hará saber así a la Autoridad que haya solicitado la remoción del Fuero Constitucional.
-
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
-
-El efecto de la declaración de que ha lugar a proceder contra el inculpado, será separarlo de su encargo en tanto esté sujeto a proceso penal.
-
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
-
-Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
-
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
-
-En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá declaración de procedencia.
-
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+En el caso de violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes federales cometidas por el Gobernador del Estado, Diputados, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Presidentes Municipales, y a los miembros de los órganos a los que la Constitución otorgue autonomía, se procederá de conformidad con lo previsto en la Constitución Política de los Estados Unidos Mexicanos.
 
 Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal, y tratándose de delitos de cuya comisión el autor obtenga un beneficio económico o cause daños y perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
 
-> <small>(ADICIONADO [N. DE REFORMADO], P.O. 7 DE OCTUBRE DE 2011)</small>
-
 Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### ARTICULO 95.
 
-No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el Párrafo Primero del Artículo 94, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
-
-Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados por el Artículo 94, se procederá de acuerdo con lo dispuesto en dicho Precepto.
-
-Las Leyes sobre Responsabilidades Administrativas de los Servidores Públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las Leyes, consistirán en suspensión, destitución e inhabilitación, así como sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la Fracción III del Artículo 92 pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE AGOSTO DE 2007)</small>
+Las Leyes sobre Responsabilidades Administrativas de los Servidores Públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las leyes, consistirán en suspensión, destitución e inhabilitación, así como sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la Fracción III del Artículo 92 pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
 La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
 El procedimiento de juicio político solo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
-La responsabilidad por delitos cometidos durante el tiempo de su encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley Penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeñe alguno de los encargos a que hace referencia el Artículo 94.
+La responsabilidad por delitos cometidos durante el tiempo de su encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley penal, que nunca serán inferiores a tres años.
 
-La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos u omisiones a que hace referencia la Fracción III del Artículo 92. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
+La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos u omisiones a que hace referencia la Fracción III del Artículo 92. Cuando dichos actos u omisiones fuesen graves, los plazos de prescripción no serán inferiores a tres años.
 
 ## TITULO NOVENO
 
@@ -3347,7 +3309,7 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Córrase el trámite que señala el Artículo 112, de la Constitución Política del Estado a los Municipios para que emitan su opinión, en los términos de Ley.
 
-P.O. 6 DE OCTUBRE DEL 2000.
+P.O. 6 DE OCTUBRE DE 2000.
 
 PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -3659,7 +3621,7 @@ SEGUNDO.- Una vez agotado el proceso legislativo en los términos del Artículo 
 
 TERCERO.- Se derogan todas las disposiciones que contravengan a esta reforma.
 
-CUARTO.- La .presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+CUARTO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 P.O. 26 DE DICIEMBRE DE 2008.
 
@@ -3907,7 +3869,7 @@ P.O. 30 DE NOVIEMBRE DE 2012.
 
 PRIMERO.- Aprobada que sea esta iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
-SEGUNDO.- En su oportunidad, pronunciada la declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítanse las presentes reformas de los artículos 69, 70, 93 y 94 de la Constitución Política del Estado de Baja California, la reforma del Capítulo VI para denominarlo "DE LA FISCALÍA ESPECIALIZADA PARA LA ATENCIÓN DE DELITOS ELECTORALES" la reforma de los artículos 39, 40, 41, 42, 43, 44 y 45, así como recorrer los Capítulos VI y VII denominado "RESPONSABILIDADES Y SANCIONES" Y "DE LAS EXCUSAS Y RECUSACIONES" para pasar a ser Capítulos VII y VIII, los artículos 39, 40, 41, 42, 43, 44, 45, 46 y 47, para pasar a ser artículos 46, 47, 48, 49 , 50, 51, 52, 53 y 54 de la LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA, la reforma a la fracción XXXIX DEL ARTÍCULO 7 DE LA LEY DE LA POLICÍA ESTATAL PREVENTIVA DEL ESTADO DE BAJA CALIFORNIA.
+SEGUNDO.- En su oportunidad, pronunciada la declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítanse las presentes reformas de los artículos 69, 70, 93 y 94 de la Constitución Política del Estado de Baja California, la reforma del Capítulo VI para denominarlo "DE LA FISCALÍA ESPECIALIZADA PARA LA ATENCIÓN DE DELITOS ELECTORALES" la reforma de los artículos 39, 40, 41, 42, 43, 44 y 45, así como recorrer los Capítulos VI y VII denominado "RESPONSABILIDADES Y SANCIONES" Y "DE LAS EXCUSAS Y RECUSACIONES" para pasar a ser Capítulos VII y VIII, los artículos 39, 40, 41, 42, 43, 44, 45, 46 y 47, para pasar a ser artículos 46, 47, 48, 49, 50, 51, 52, 53 y 54 de la LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA, la reforma a la fracción XXXIX DEL ARTÍCULO 7 DE LA LEY DE LA POLICÍA ESTATAL PREVENTIVA DEL ESTADO DE BAJA CALIFORNIA.
 
 TERCERO.- La Fiscalía Especializada para la Atención de Delitos Electorales a que se refieren los artículos 69 y 70 del presente Decreto, entrará en funcionamiento a partir del primero de Enero de 2013, por lo que deberá realizarse la asignación de recursos presupuestales para el ejercicio fiscal 2013. El Congreso del Estado, en un término que no exceda de 10 días a partir de la vigencia de las presentes reformas, emitirá convocatoria pública y procedimiento para la selección del Fiscal Especializado para la Atención de Delitos Electorales, mismo que deberá ser nombrado a más tardar el 20 de Diciembre de 2012.
 
@@ -4406,3 +4368,23 @@ P.O. 6 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 16 MEDIANTE EL CUAL SE INCORPORA LA REFORMA AL PRIMER PÁRRAFO DEL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 26 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 81 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO PRIMERO.
+
+Aprobadas que sean las presentes reformas, túrnese a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, o si transcurrido un mes después de recibir el presente decreto sin que emitan una votación, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+El presente Decreto entrará en vigor noventa días después al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO CUARTO.
+
+Dentro del plazo de noventa días a partir de la entrada en vigor del presente decreto deberán adecuarse las Leyes secundarias y orgánicas correspondientes, para armonizar las disposiciones constitucionales modificadas con la presente reforma constitucional.
