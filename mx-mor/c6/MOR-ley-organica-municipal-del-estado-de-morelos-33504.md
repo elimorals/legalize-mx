@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2017-05-03"
+last_updated: "2017-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MOR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2017 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -285,6 +287,32 @@ II. Manifestar expresamente, antes del tiempo señalado en la fracción anterior
 
 En ambos casos el interesado que satisfaga los citados requisitos podrá solicitar y obtener su inscripción como vecino en el padrón municipal.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+###### Artículo 7 Bis.
+
+Los Municipios, en términos de sus reglamentos expedirán a los interesados la constancia de residencia a que hacer (sic) referencia el artículo 184, fracción IV, del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos.
+
+La constancia deberá señalar la fecha a partir de la cual el solicitante radica en el Municipio que corresponda y deberá guardar congruencia con los documentos que al efecto exhiba el solicitante.
+
+Para la emisión de la constancia de residencia el Municipio deberá requerir al solicitante, además de los documentos que se establezcan en el Reglamento respectivo, aquellos comprobatorios de la fecha a partir de la cual el solicitante reside en el Municipio de que se trate.
+
+Son documentos comprobatorios del plazo de residencia, cualquiera de los siguientes:
+
+1. Comprobante de domicilio oficial, a nombre del interesado. Entiéndase por ello los recibos de consumo de energía eléctrica, consumo de agua potable, contratación de telefonía fija o pago del impuesto predial;
+
+2. Contrato de arrendamiento adjuntando la constancia de su registro ante las autoridades fiscales locales;
+
+3. Registro Federal de Contribuyentes,
+
+4. Comprobante de estudios;
+
+5. Escritura de compraventa de un bien inmueble, a favor del interesado, debidamente inscrita en el Registro Público de la Propiedad, o
+
+6. Recibos de nómina a nombre del interesado, adjuntos a la declaración de impuestos en la que se hacen constar dichos pagos y acompañando para tales efectos los documentos que señalen de manera fehaciente el domicilio del centro de trabajo.
+
+Los documentos antes mencionados deberán presentarse en original para cotejo y copia.
+
 ###### Artículo 8.
 
 Los habitantes de los Municipios del Estado de Morelos, tendrán los siguientes derechos y obligaciones:
@@ -439,23 +467,21 @@ Los candidatos independientes no podrán ser postulados por un partido político
 
 Quienes hayan sido designados en Consejo Municipal podrán ser electos para el periodo inmediato.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 18.
 
 El número de Regidores que corresponde a cada Municipio será de:
 
-I. Quince regidores: Cuernavaca;
+I. Once regidores: Cuernavaca;
 
-II. Once Regidores: Cuautla y Jiutepec;
+II. Nueve regidores: Cuautla y Jiutepec;
 
-III. Nueve regidores: Ayala, Jojutla, Temixco y Yautepec;
+III. Siete regidores: Ayala, Emiliano Zapata, Temixco y Yautepec;
 
-IV. Siete regidores: Emiliano Zapata, Puente de Ixtla, Tlaltizapán y Zacatepec;
+IV. Cinco regidores: Axochiapan, Jojutla, Puente de Ixtla, Tepoztlán, Tlaltizapán de Zapata, Tlaquiltenango, Xochitepec, Yecapixtla y Zacatepec, y
 
-V. Cinco regidores: Axochiapan, Miacatlán, Tepalcingo, Tepoztlán, Tlaquiltenango, Yecapixtla y Xochitepec; y
-
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
-
-VI. Tres regidores: Amacuzac, Atlatlahucan, Coatlán del Río, Huitzilac, Jantetelco, Jonacatepec de Leandro Valle; Mazatepec, Ocuituco, Temoac, Tetecala, Tetela del Volcán, Tlalnepantla, Tlayacapan, Totolapan y Zacualpan de Amilpas.
+V. Tres regidores: Amacuzac, Atlatlahucan, Coatlán del Río, Huitzilac, Jantetelco, Jonacatepec de Leandro Valle; Mazatepec, Miacatlán, Ocuituco, Temoac, Tepalcingo, Tetecala, Tetela del Volcán, Tlalnepantla, Tlayacapan, Totolapan y Zacualpan de Amilpas.
 
 ###### Artículo 19.
 
@@ -2933,7 +2959,9 @@ Las ausencias del Presidente Municipal, serán suplidas en los términos del Art
 
 Para cubrir las ausencias definitivas de los miembros de los ayuntamientos, serán llamados los suplentes respectivos, para que dentro de un término de tres días, se presenten a desempeñar sus funciones.
 
-Los integrantes del Ayuntamiento tendrán derecho a solicitar licencia para separarse del cargo en caso de contender a un cargo de elección popular.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Los integrantes del Ayuntamiento deberán solicitar licencia definitiva para separarse del cargo en caso de contender a un cargo de elección popular.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
@@ -3805,7 +3833,7 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para lo
 
 ###### ARTICULO SEGUNDO.
 
-El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y libertad", Órgano de difusión del Gobierno del Estado libre y Soberano de Morelos.
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
 
 ###### ARTICULO TERCERO.
 
@@ -3978,6 +4006,32 @@ P.O. 3 DE MAYO DE 2017.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 26 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL NOVECIENTOS SESENTA Y DOS POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS Y DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS, EN MATERIA ELECTORAL".]
+
+PRIMERA. Aprobado el presente decreto, remítase al Titular del Poder Ejecutivo para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. En estricto respeto al principio de irretroactividad de la ley, consagrado en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos, la reforma contenida en el artículo 74 del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos, no les será aplicable a los Consejeros Electorales del Instituto Morelense de Procedimientos Electorales y Participación Ciudadana que se encuentren ejerciendo dicho cargo a la entrada en vigor de la misma.
+
+CUARTA. En razón de la reducción de Distritos Electorales realizada por la presente Legislatura y la consiguiente delimitación de los mismos realizada por el Instituto Nacional Electoral de acuerdo a su facultad contenida en el artículo 214, numeral 1, de la Ley General de Instituciones y Procedimientos Electorales, por esta única ocasión, para el proceso electoral de 2018, lo dispuesto en el tercer párrafo del artículo 162 del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos, no será aplicable a los Diputados locales que pretendan su reelección, siempre y cuando el nuevo Distrito por el que pretendan la reelección, contenga alguna de las secciones electorales del Distrito al que representan al momento de inscribir su candidatura.
+
+QUINTA. Por única ocasión, los plazos a los que hace referencia el artículo 177 del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos, para el proceso electoral 2017-2018, serán los siguientes:
+
+a) Para el registro de candidatura a Gobernador del estado, será del 20 al 24 de abril de 2018;
+
+b) Para el registro de candidaturas a Diputados del Congreso del Estado, será del 25 al 29 de abril de 2018, y
+
+c) Para el registro de la plataforma electoral por parte de los partidos políticos, será del 25 al 29 de abril de 2018.
+
+SEXTA. Por única ocasión, los plazos a que hace referencia el artículo 168 del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos, para el proceso electoral 2017-2018, serán los siguientes:
+
+Los procesos de selección interna de candidatos a los cargos de Gobernador, Diputados al Congreso y miembros de los ayuntamientos, se llevarán a cabo a partir del 15 de enero del año de la elección, y no podrán extenderse más allá del día 15 de marzo del año de la elección.
+
+SÉPTIMA. Se derogan las disposiciones de menor rango que se opongan al presente Decreto.
 
 ###### ARTÍCULO CUARTO.
 
