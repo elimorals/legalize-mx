@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-instituciones-y-procedimientos-electorales-para-10160
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-30"
-last_updated: "2017-04-12"
+last_updated: "2017-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,19 +21,23 @@ state: "MOR"
 ---
 # CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2017 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el lunes 30 de junio de 2014.
 
-Al margen izquierdo un Escudo del Estado de Morelos que dice: “Tierra y Libertad”.- La tierra volverá a quienes la trabajan con sus manos.- Poder Legislativo.- LII Legislatura. 2012-2015.
+Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.- Poder Legislativo.- LII Legislatura. 2012-2015.
 
 GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
 
 Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
 
-LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:…
+LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:.
 
 Por lo anteriormente expuesto, esta Legislatura ha tenido a bien expedir el siguiente:
 
@@ -51,11 +55,15 @@ CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS 
 
 Este Código es de orden público y tiene por objeto regular la función estatal de preparación, desarrollo, vigilancia y calificación de los procesos electorales ordinarios y extraordinarios que se celebran para elegir Gobernador, Diputados al Congreso del Estado y miembros de los ayuntamientos.
 
-Establece el marco jurídico que garantiza la efectividad del sufragio y, con ello, la vigencia de las instituciones republicanas y democráticas, a través del libre ejercicio de los derechos políticos de los ciudadanos; la realización, la organización, función y prerrogativas de los partidos políticos y las formas específicas de su intervención en los procesos electorales del Estado; así como la organización, desarrollo, cómputo y declaración de resultados de los mecanismos de participación ciudadana; en armonización con la normativa aplicable.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Establece el marco jurídico que garantiza la efectividad del sufragio y, con ello, la vigencia de las instituciones republicanas y democráticas, a través del libre ejercicio de los derechos políticos de los ciudadanos; la realización, la organización, función y prerrogativas de los partidos políticos y las formas específicas de su intervención en los procesos electorales del Estado; así como la calificación de procedencia, organización, desarrollo, cómputo y declaración de resultados de los mecanismos de participación ciudadana; en armonización con la normativa aplicable.
 
 La normativa federal se aplicará sin perjuicio de lo establecido en el presente Código.
 
-La interpretación de este Código será conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el segundo párrafo del artículo 1o. y el último párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+La interpretación de este Código será conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el segundo párrafo del artículo 1°, el último párrafo del artículo 14, y el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Los casos no previstos en el presente Código serán atendidos conforme a lo dispuesto en la normativa, de acuerdo a los procesos y condiciones, cuando estos resulten compatibles, mediante determinación que emita el Consejo Estatal.
 
@@ -63,11 +71,15 @@ Los casos no previstos en el presente Código serán atendidos conforme a lo dis
 
 El poder público dimana del pueblo, quien designa a sus representantes mediante elecciones que se realizan conforme a las normas y procedimientos establecidos en la normativa estatal y federal que resulte aplicable.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 3.
 
-La aplicación de las disposiciones contenidas en este Código corresponde al Instituto Morelense de Procesos Electorales y Participación Ciudadana y al Tribunal Electoral del Estado de Morelos, en sus respectivos ámbitos de competencia.
+La aplicación de las disposiciones contenidas en este Código corresponde al Instituto Morelense de Procesos Electorales y Participación Ciudadana, al Tribunal Electoral del Estado de Morelos, y los demás órganos jurisdiccionales en sus respectivos ámbitos de competencia.
 
-Los ciudadanos, los partidos políticos y los Poderes Ejecutivo y Legislativo son corresponsables en la preparación, desarrollo, vigilancia y calificación del proceso electoral, mediante las instituciones, procedimientos y normas que sanciona este ordenamiento y demás leyes aplicables.
+La ciudadanía, los partidos políticos, los Poderes Ejecutivo y Legislativo y los Ayuntamientos de los Municipios del estado de Morelos, son corresponsables en la preparación, desarrollo, vigilancia y calificación de los procesos electorales y, en su caso, los de participación ciudadana, mediante las instituciones, procedimientos y normas que sanciona este ordenamiento y demás leyes aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### Artículo 4.
 
@@ -93,13 +105,17 @@ IX. Instituto Morelense, al Instituto Morelense de Procesos Electorales y Partic
 
 X. Instituto Nacional, al Instituto Nacional Electoral;
 
-XI. Normativa, a la Constitución Federal, la Constitución, la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Partidos Políticos, los reglamentos, lineamientos, resoluciones, acuerdos y determinaciones que dicte el Instituto Nacional, de aplicación directa o complementaria en el actuar del Instituto Morelense;
+XI. Mecanismos de participación ciudadana, a los previstos en la Ley de la materia;
 
-XII. Partidos políticos, a los Partidos Políticos Nacionales y Locales debidamente registrados ante el Instituto Nacional o ante el Instituto Morelense, según sea el caso;
+XII. Normativa, a la Constitución Federal, los Tratados Internacionales, la Constitución, la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Partidos Políticos, los reglamentos, lineamientos, resoluciones, acuerdos y determinaciones que dicte el Instituto Nacional, de aplicación directa o complementaria en el actuar del Instituto Morelense;
 
-XIII. Periódico Oficial, al Periódico Oficial “Tierra y Libertad” órgano de difusión del Gobierno del Estado de Morelos, y
+XIII. Órganos jurisdiccionales estatales, al Tribunal Electoral del Estado de Morelos, Tribunal de Justicia Administrativa del Estado de Morelos, al Tribunal Unitario de Justicia para Adolescentes y a los demás órganos que por virtud de la normativa federal y estatal conozcan de las controversias suscitadas en el ámbito de sus competencias;
 
-XIV. Tribunal Electoral, al Tribunal Electoral del Estado de Morelos.
+XIV. Partidos políticos, a los Partidos Políticos Nacionales y Locales debidamente registrados ante el Instituto Nacional o ante el Instituto Morelense, según sea el caso;
+
+XV. Periódico Oficial, al Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, y
+
+XVI. Tribunal Electoral, al Tribunal Electoral del Estado de Morelos.
 
 ## TÍTULO SEGUNDO. DE LA PARTICIPACIÓN DE LOS CIUDADANOS EN LAS ELECCIONES
 
@@ -109,17 +125,41 @@ XIV. Tribunal Electoral, al Tribunal Electoral del Estado de Morelos.
 
 El sufragio es un derecho y una obligación del ciudadano. El voto es universal, libre, secreto, directo, personal e intransferible. Queda prohibido todo acto de presión, inducción o coacción del voto, los cuales serán sancionados de conformidad a lo que establezca este Código y la normativa aplicable.
 
-Los ciudadanos morelenses tendrán los siguientes derechos político-electorales:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+
+Los ciudadanos morelenses tendrán, de forma enunciativa más no limitativa, los siguientes derechos político-electorales:
 
 I. Votar en las elecciones populares y participar en los procesos de participación ciudadana a que se convoquen;
 
-II. Ser votado para todos los cargos de elección popular, en igualdad de oportunidades, garantizando la paridad entre hombres y mujeres, de conformidad con las disposiciones legales, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-III. Afiliarse y asociarse individual y libremente en partidos políticos.
+II. Ser votado para todos los cargos de elección popular, en igualdad de oportunidades, garantizando la paridad entre hombres y mujeres, de conformidad con las disposiciones legales;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+III. Afiliarse y asociarse individual y libremente en partidos políticos;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+IV. Ocupar el cargo para el cual fue electo y ejercer las funciones inherentes a su encargo;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+V. Percibir una retribución por el ejercicio de su encargo de elección popular conforme a la normativa estatal y municipal aplicable;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+VI. Participar como observador electoral en los comicios locales, y
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+VII. Participar en los mecanismos de participación ciudadana.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### Artículo 6.
 
-Tendrán derecho a votar los ciudadanos morelenses que cuenten con credencial para votar con fotografía y no se encuentren dentro de los supuestos siguientes:
+Tendrán derecho a votar los ciudadanos morelenses que cuenten con credencial para votar con fotografía o, una resolución favorable del Tribunal Electoral del Poder Judicial de la Federación, y no se encuentren dentro de los supuestos siguientes:
 
 I. Estar sujeto a proceso criminal privado de su libertad;
 
@@ -132,6 +172,10 @@ IV. Estar prófugo de la justicia, desde que se dicte orden de aprehensión hast
 V. Estar condenado por sentencia ejecutoria a la suspensión o pérdida de sus derechos políticos, hasta en tanto no sea rehabilitado en ellos, y
 
 VI. Los demás que señale la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Los ciudadanos morelenses radicados en el extranjero podrán participar en la elección para Gobernador del Estado, en los términos que señale la normativa.
 
 ###### Artículo 7.
 
@@ -157,9 +201,13 @@ V. Verificar que su nombre aparezca en la lista nominal de electores;
 
 VI. Desempeñar los cargos de elección popular para los que sean electos;
 
-VII. Desempeñar gratuitamente las funciones electorales para las que sean convocados o designados, salvo las que se realicen profesionalmente, mismas que serán retribuidas de conformidad al presupuesto de egresos autorizado al Instituto Morelense, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-VIII. Integrar las mesas directivas de casilla en los términos de ley.
+VII. Desempeñar gratuitamente las funciones electorales y de participación ciudadana para las que sean convocados o designados, salvo las que se realicen profesionalmente, mismas que serán retribuidas de conformidad al presupuesto de egresos autorizado al Instituto Morelense, y
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+VIII. Integrar las mesas directivas de casilla o mesa receptora del voto para el caso de los mecanismos de participación ciudadana en los términos de ley.
 
 Sólo podrán admitirse excusas dentro del término previsto en este ordenamiento y cuando estas se funden en causas justificadas, las que el interesado comprobará a satisfacción de la autoridad que haya hecho el requerimiento.
 
@@ -195,61 +243,41 @@ Para la designación de Gobernador interino, provisional o sustituto, se estará
 
 ### CAPÍTULO II. DE LA ELECCIÓN DEL PODER LEGISLATIVO
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 13.
 
-El ejercicio del Poder Legislativo se deposita en una asamblea que se denomina Congreso del Estado de Morelos, integrada por 30 diputados, dieciocho diputados electos en igual número de distritos electorales, según el principio de mayoría relativa, y doce diputados electos según el principio de representación proporcional.
+El ejercicio del Poder Legislativo se deposita en una asamblea que se denomina Congreso del Estado de Morelos, integrada por veinte diputados, doce diputados electos en igual número de distritos electorales, según el principio de mayoría relativa, y ocho diputados electos según el principio de representación proporcional.
 
-En la integración del Congreso, ningún partido político podrá contar con más de dieciocho diputados por ambos principios.
+En la integración del Congreso, ningún partido político podrá contar con más de doce diputados por ambos principios.
+
+La elección consecutiva de los diputados propietarios a la Legislatura podrá ser hasta por cuatro periodos consecutivos.
+
+La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición o candidatura común que los hubiere postulado salvo que hayan renunciado o perdido su militancia hasta antes de la mitad del término para el que fue electo.
+
+Los diputados que pretendan reelegirse deberán estar en pleno ejercicio de sus derechos políticos, cumplir con los requisitos que establece el artículo 25 de la Constitución Local.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### Artículo 14.
 
-El estado de Morelos se divide en dieciocho distritos electorales uninominales, sin perjuicio de la facultad contenida en el artículo 214, numeral 1, de la Ley General de Instituciones y Procedimientos Electorales, integrados de la siguiente forma:
+El estado de Morelos se divide en doce distritos electorales uninominales, determinados por el Instituto Nacional, de acuerdo a su facultad contenida en el artículo 214, numeral 1, de la Ley General de Instituciones y Procedimientos Electorales.
 
-Primer Distrito: Cuernavaca norte, que comprende el municipio de Huitzilac y la parte norte del municipio de Cuernavaca, con cabecera en la ciudad de Cuernavaca.
-
-Segundo Distrito: Cuernavaca oriente, que comprende la parte oriente del municipio de Cuernavaca, con cabecera en la ciudad de Cuernavaca.
-
-Tercer Distrito: Cuernavaca poniente, que comprende la parte poniente del municipio de Cuernavaca, con cabecera en la ciudad de Cuernavaca.
-
-Cuarto Distrito: Cuernavaca sur, que comprende la parte sur del municipio de Cuernavaca, con cabecera en la ciudad de Cuernavaca.
-
-Quinto Distrito: Temixco, que comprende los municipios de Temixco y Emiliano Zapata, con cabecera en la ciudad de Temixco.
-
-Sexto Distrito: Jiutepec norte, que comprende la parte norte del municipio de Jiutepec, con cabecera en la ciudad de Jiutepec.
-
-Séptimo Distrito: Jiutepec sur, que comprende la parte sur del municipio de Jiutepec, con cabecera en la ciudad de Jiutepec.
-
-Octavo Distrito: Tetecala, que comprende los municipios de Coatlán del Río, Mazatepec, Miacatlán, Tetecala y Xochitepec, con cabecera en Tetecala de la Reforma.
-
-Noveno Distrito: Puente de Ixtla, que comprende los municipios de Amacuzac y Puente de Ixtla, con cabecera en la ciudad de Puente de Ixtla.
-
-Décimo Distrito: Zacatepec, que comprende los municipios de Tlaltizapán y Zacatepec, con cabecera en la ciudad de Zacatepec de Hidalgo.
-
-Décimo Primer Distrito: Jojutla, que comprende los municipios de Jojutla y Tlaquiltenango, con cabecera en la ciudad de Jojutla de Juárez.
-
-Décimo Segundo Distrito: Yautepec poniente, que comprende el municipio de Tepoztlán y la parte poniente del municipio de Yautepec, con cabecera en la ciudad de Yautepec de Zaragoza.
-
-Décimo Tercer Distrito: Yautepec oriente, que comprende la parte oriente del municipio de Yautepec y los municipios de Atlatlahucan, Tlalnepantla, Tlayacapan y Totolapan, con cabecera en la ciudad de Yautepec de Zaragoza.
-
-Décimo Cuarto Distrito: Cuautla norte, que comprende la parte norte del municipio de Cuautla, con cabecera en la ciudad de Cuautla.
-
-Décimo Quinto Distrito: Cuautla sur, que comprende la parte sur del municipio de Cuautla, con cabecera en la ciudad de Cuautla.
-
-Décimo Sexto Distrito: Ayala, que comprende el mismo municipio con cabecera en la ciudad de Ayala.
-
-Décimo Séptimo Distrito: Yecapixtla, que comprende los municipios de Ocuituco, Yecapixtla, Tetela del Volcán y Zacualpan de Amilpas, con cabecera en la ciudad de Yecapixtla.
-
-Décimo Octavo Distrito: Jonacatepec, que comprende los municipios de Axochiapan, Jantetelco, Jonacatepec, Temoac y Tepalcingo, con cabecera en la ciudad de Jonacatepec.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### Artículo 15.
 
-Para la elección de Diputados, además de los distritos electorales uninominales, existirá una circunscripción plurinominal, constituida por toda la Entidad, en la que serán electos doce diputados según el principio de representación proporcional, a través del sistema de lista estatal, integrada por hasta doce candidatos propietarios y sus respectivos suplentes por cada partido político contendiente.
+Para la elección de Diputados, además de los distritos electorales uninominales, existirá una circunscripción plurinominal, constituida por toda la Entidad, en la que serán electos ocho diputados según el principio de representación proporcional, a través del sistema de lista estatal, integrada por hasta ocho candidatos propietarios y sus respectivos suplentes por cada partido político contendiente.
 
 ###### Artículo 16.
 
 Para la asignación de diputados de representación proporcional se procederá conforme a los siguientes criterios y fórmula de asignación:
 
-I. Tendrán derecho a participar en la asignación de diputados de representación proporcional, los partidos políticos que habiendo registrado candidatos de mayoría relativa en cuando menos doce distritos uninominales, hayan alcanzado por lo menos el tres por ciento de la votación estatal efectiva.
+(NOTA: EL 24 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO Y NOVENO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2017 Y SUS ACUMULADAS 42/2017, 43/2017, 45/2017 Y 47/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: I. Tendrán derecho a participar en la asignación de diputados de representación proporcional, los partidos políticos que habiendo registrado candidatos de mayoría relativa en cuando menos doce distritos uninominales, hayan alcanzado por lo menos el tres por ciento de la votación estatal efectiva."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+I. TENDRÁN DERECHO A PARTICIPAR EN LA ASIGNACIÓN DE DIPUTADOS DE REPRESENTACIÓN PROPORCIONAL, LOS PARTIDOS POLÍTICOS QUE HABIENDO REGISTRADO CANDIDATOS DE MAYORÍA RELATIVA EN CUANDO MENOS OCHO DISTRITOS UNINOMINALES, HAYAN ALCANZADO POR LO MENOS EL CINCO POR CIENTO DE LA VOTACIÓN ESTATAL EFECTIVA.
 
 Ningún partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura, que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta disposición no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento, en todo caso, deberá observarse que ningún partido político sobrepase de dieciocho diputados por ambos principios.
 
@@ -259,13 +287,19 @@ III. La asignación de diputados se realizará mediante la aplicación de una f�
 
 IV. Para los efectos del presente Código, se entenderá por:
 
-a) Cociente Natural: Como el resultado de dividir la votación estatal efectiva, entre los doce diputados de representación proporcional, y
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+a) Cociente Natural: Como el resultado de dividir la votación válida emitida, entre los ocho diputados de representación proporcional, y
 
 b) Resto Mayor: Como el remanente más alto, entre el resto de las votaciones de cada partido político, una vez hecha la distribución de diputaciones, mediante la aplicación del cociente natural. El resto mayor se utilizará, siguiendo el orden decreciente, cuando aún hubiese diputaciones por distribuir;
 
 V. La aplicación de la fórmula se desarrollará observando el siguiente procedimiento:
 
-a) Se asignará un diputado a cada uno de los partidos políticos que hayan alcanzado por lo menos el tres por ciento de la votación estatal efectiva;
+(NOTA: EL 24 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO Y NOVENO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2017 Y SUS ACUMULADAS 42/2017, 43/2017, 45/2017 Y 47/2017, DECLARÓ LA INVALIDEZ DEL INCISO A) DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: a) Se asignará un diputado a cada uno de los partidos políticos que hayan alcanzado por lo menos el tres por ciento de la votación estatal efectiva;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+A) SE ASIGNARÁ UN DIPUTADO A CADA UNO DE LOS PARTIDOS POLÍTICOS QUE HAYAN ALCANZADO POR LO MENOS EL CINCO POR CIENTO DE LA VOTACIÓN VÁLIDA EMITIDA;
 
 b) En una segunda asignación, se distribuirán tantos diputados como veces contenga el cociente natural la votación obtenida por cada uno de los partidos políticos con derecho a ello;
 
@@ -279,21 +313,43 @@ El municipio libre es la base de la división territorial y de la organización 
 
 Para las elecciones de los integrantes de los ayuntamientos se estará a lo dispuesto por la Constitución, la Ley General de Instituciones y Procedimientos Electorales, la Ley Orgánica Municipal del Estado de Morelos y el presente Código.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+La elección consecutiva para el cargo de presidentes municipales, síndicos y regidores de los Ayuntamientos será por un periodo adicional.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubiere postulado, salvo que hayan renunciado o perdido su militancia hasta antes de cumplir la mitad del periodo para el que fueron electos.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Los miembros de los Ayuntamientos que pretendan reelegirse deberán cumplir con los requisitos previstos en el artículo 117 de la Constitución Local y en el artículo 163 de este Código.
+
 ###### Artículo 18.
 
 La asignación de regidurías se sujetará a las siguientes reglas:
 
-Se sumarán los votos de los partidos que hayan obtenido cuando menos el 1.5% del total de los sufragios emitidos en el municipio correspondiente; el resultado se dividirá entre el número de regidurías por atribuir para obtener un factor porcentual simple de distribución, asignándose a cada partido, en riguroso orden decreciente, tantas regidurías como número de factores alcance hasta completar las regidurías previstas.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Se sumarán los votos de los partidos que hayan obtenido cuando menos el tres por ciento del total de los sufragios emitidos en el municipio correspondiente; el resultado se dividirá entre el número de regidurías por atribuir para obtener un factor porcentual simple de distribución, asignándose a cada partido, en riguroso orden decreciente, tantas regidurías como número de factores alcance hasta completar las regidurías previstas.
 
 Si aplicado el factor de distribución quedan regidurías por atribuir, éstas se asignarán en orden decreciente, de acuerdo tanto con los mayores porcentajes de votación obtenidos por los partidos políticos restantes, como con los porcentajes excedentes de aquéllos que obtuvieron regidurías con la aplicación de dicho factor.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Al momento de realizar la asignación de regidurías, el Consejo Estatal observará las disposiciones constitucionales relativas a la sobre y subrepresentación; para ello se deberá observar la misma fórmula establecida para la asignación (sic) diputados por el principio de representación.
+
 ### CAPÍTULO IV. DISPOSICIONES COMPLEMENTARIAS
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### Artículo 19.
 
 Las elecciones ordinarias de Gobernador Constitucional del Estado, se celebrarán cada seis años, la de los Diputados del Congreso del Estado y la de los ayuntamientos cada tres años.
 
 Las elecciones de los Poderes Legislativo y Ejecutivo, así como de los ayuntamientos, se realizarán en las mismas fechas en que se efectúen las elecciones federales; se deberá integrar una casilla única de conformidad con lo dispuesto en este Código, la normativa y los acuerdos que emita el Consejo General del Instituto Nacional.
+
+Los mecanismos de participación ciudadana que se convoquen se podrán efectuar en cualquier tiempo, salvo aquellos que requieran llevarse a cabo en una jornada electoral de elecciones constitucionales, de conformidad con la normativa aplicable.
 
 Las convocatorias a que hace alusión la fracción XXXIV del artículo 40 de la Constitución, se expedirán 30 días antes de la fecha de inicio del proceso electoral.
 
@@ -323,6 +379,12 @@ Si un partido político nacional perdiera el registro en el último proceso elec
 
 Habiendo perdido su registro, el partido político deberá hacer entrega de los bienes muebles e inmuebles adquiridos con financiamiento estatal a la autoridad competente.
 
+(NOTA: EL 24 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2017 Y SUS ACUMULADAS 42/2017, 43/2017, 45/2017 Y 47/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+LOS PARTIDOS POLÍTICOS NACIONALES QUE NO OBTUVIERON CUANDO MENOS EL TRES POR CIENTO DE LA VOTACIÓN VÁLIDA EMITIDA EN LA ELECCIÓN INMEDIATA ANTERIOR DE DIPUTADOS LOCALES EN EL ESTADO, EN EL AÑO ELECTORAL RECIBIRÁN FINANCIAMIENTO PÚBLICO PARA GASTOS DE CAMPAÑA, COMO SI SE TRATARA DE PARTIDOS QUE OBTUVIERON SU REGISTRO CON FECHA POSTERIOR A LA ÚLTIMA ELECCIÓN DE DIPUTADOS LOCALES.
+
 ###### Artículo 23.
 
 El proceso de pérdida de registro de un partido político local se ajustará, en lo conducente, a las reglas que para tal caso están previstas en la Ley General de Partidos Políticos, conforme a lo dispuesto en el Artículo 1 de este Código.
@@ -334,6 +396,14 @@ La resolución de cancelación se comunicará a los representantes del partido a
 ###### Artículo 25.
 
 La pérdida de registro de un partido político no tendrá efectos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Para el caso de la pérdida del registro de un partido político y un diputado o miembro de ayuntamiento pretenda reelegirse en el cargo, éste podrá ser postulado por un partido diverso, siempre y cuando se afilie a diverso partido político hasta antes de la mitad del período para el que fueron electos.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+En los casos en que la declaratoria de pérdida del registro de partido político sea confirmada por la instancia jurisdiccional correspondiente, después del plazo establecido en el párrafo anterior, quien pretenda reelegirse podrá ser postulado por un partido diverso.
 
 ### CAPÍTULO II. DE LOS DERECHOS DE LOS PARTIDOS POLÍTICOS LOCALES
 
@@ -353,7 +423,9 @@ V. Formar parte de los organismos electorales locales previstos por la normativa
 
 VI. Obtener las prerrogativas y recibir el financiamiento público que les sean asignados;
 
-VII. Recibir del Instituto Morelense, por concepto de actividades de representación política las asignaciones conforme al presupuesto autorizado;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+VII. Recibir del Instituto Morelense, por concepto de prerrogativa de representación política, el seis por ciento adicional de su financiamiento público, conforme a lo establecido en el inciso d) del artículo 30 de este Código;
 
 VIII. Ser propietarios, poseedores, administradores o usuarios de los bienes inmuebles indispensables para el cumplimiento de sus funciones;
 
@@ -365,9 +437,11 @@ XI. Los demás que se deriven de las normas aplicables.
 
 ### CAPÍTULO III. DE LAS OBLIGACIONES DE LOS PARTIDOS POLÍTICOS LOCALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 27.
 
-Los partidos políticos locales tendrán a su cargo las obligaciones que se les imponen en la Ley General de Partidos Políticos y las derivadas de las resoluciones que dicte el Instituto Morelense.
+Los partidos políticos locales tendrán a su cargo las obligaciones que se les imponen en la Ley General de Partidos Políticos, la demás normativa aplicable y las derivadas de las resoluciones que dicte el Instituto Morelense.
 
 Los partidos políticos deberán respetar en todo momento el derecho humano de acceso a la información pública, en los términos que establezcan las leyes federales y locales de la materia.
 
@@ -375,9 +449,13 @@ Los partidos políticos deberán respetar en todo momento el derecho humano de a
 
 El incumplimiento de las obligaciones señaladas en la normativa, se sancionará en los términos que correspondan a cada caso.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 29.
 
-Los dirigentes, representantes y afiliados de los partidos políticos locales son responsables civil y penalmente de los actos que realicen en el ejercicio de sus funciones.
+Los dirigentes, representantes, afiliados de los partidos políticos locales, candidatos a cargos de elección popular y miembros de equipos de campaña electoral, son responsables civil, administrativa y penalmente de los actos que realicen en el ejercicio de sus funciones, en términos de la normativa aplicable.
+
+Los candidatos, los partidos políticos y las autoridades electorales podrán denunciar ante las autoridades competentes los hechos o conductas que sean materia de responsabilidad civil, administrativa y penal.
 
 ## TÍTULO SEGUNDO. DEL FINANCIAMIENTO, PRERROGATIVAS Y FISCALIZACIÓN DE LOS PARTIDOS POLÍTICOS
 
@@ -387,7 +465,9 @@ Los dirigentes, representantes y afiliados de los partidos políticos locales so
 
 El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las de carácter específico y las tendientes a la obtención del voto durante los procesos electorales. Se otorgará conforme a lo siguiente y a lo que disponga la normativa de la materia:
 
-a) El financiamiento público del Estado para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral por el sesenta y cinco por ciento del salario mínimo general diario vigente en el Distrito Federal.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+
+a) El financiamiento público del Estado para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral por el sesenta y cinco por ciento del valor de la Unidad de Medida y Actualización.
 
 El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior;
 
@@ -395,17 +475,41 @@ b) El financiamiento público del Estado por actividades específicas, relativas
 
 Las cantidades que, en su caso, se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente; cada partido político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba para el desarrollo de las actividades específicas.
 
-Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar, anualmente, el tres por ciento del financiamiento público ordinario, y
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
-c) El financiamiento público del estado para las actividades tendientes a la obtención del voto durante el año en que se elija Gobernador, Congreso y ayuntamientos, equivaldrá al cincuenta por ciento del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando sólo se elijan diputados y ayuntamientos, equivaldrá al treinta por ciento de dicho financiamiento por actividades ordinarias.
+Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar, anualmente, el tres por ciento del financiamiento público ordinario;
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+c) El financiamiento público del estado para las actividades tendientes a la obtención del voto durante el año en que se elija Gobernador, Congreso y ayuntamientos, equivaldrá al cincuenta por ciento del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando sólo se elijan diputados y ayuntamientos, equivaldrá al treinta por ciento de dicho financiamiento por actividades ordinarias, y
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+d) Para actividades de la Representación Política ante el Consejo Estatal, los partidos políticos acreditados ante el Consejo Estatal percibirán de forma anual, en ministraciones mensuales, una prerrogativa de representación política ante los órganos electorales que equivaldrá al seis por ciento adicional del monto total correspondiente al financiamiento por concepto de actividades ordinarias permanentes del ejercicio de que corresponda.
+
+Los partidos políticos locales que hubieren obtenido su registro con fecha posterior a la última elección, o aquellos que habiendo conservado registro legal no cuenten con representación en el Congreso local, tendrán derecho a que se les otorgue financiamiento público conforme a las bases siguientes:
+
+I. Se le otorgará a cada partido político el dos por ciento del monto que por financiamiento total les corresponda a los partidos políticos para el sostenimiento de sus actividades ordinarias permanentes a que se refiere este artículo, así como, en el año de la elección de que se trate, el financiamiento para gastos de campaña que corresponda con base en lo dispuesto en el inciso a) del presente artículo, y
+
+II. Participarán del financiamiento público para actividades específicas como entidades de interés público sólo en la parte que se distribuya en forma igualitaria.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Las cantidades a que se refiere la fracción I) del párrafo anterior serán entregadas en la parte proporcional que corresponda a la anualidad, a partir de la fecha en que surta efectos el registro y tomando en cuenta el calendario presupuestal aprobado para el año.
 
 ###### Artículo 31.
 
 El financiamiento público deberá prevalecer sobre otros tipos de financiamiento y será destinado para el sostenimiento de actividades ordinarias permanentes, gastos de procesos electorales y para actividades específicas como entidades de interés público.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+El financiamiento que no provenga del erario público, tendrá las modalidades que establece la Ley General de Partidos Políticos y se sujetará a los términos que la normativa aplicable establezca.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 32.
 
-El Consejo Estatal aprobará el calendario presupuestal conforme al cual deberá ministrarse a los partidos políticos, el financiamiento correspondiente.
+El Consejo Estatal aprobará el calendario presupuestal conforme al cual deberá ministrarse a los partidos políticos, el financiamiento por sus actividades ordinarias permanentes, por actividades específicas, actividades de representación política, y en año electoral para las actividades tendientes a la obtención del voto.
 
 El financiamiento público otorgado a cada partido político le será entregado al representante legalmente acreditado del partido de que se trate.
 
@@ -481,7 +585,11 @@ Para la colocación de propaganda electoral en lugares considerados turísticos,
 
 III. Se prohíbe el empleo de símbolos, distintivos, signos, emblemas, figuras con motivos religiosos o raciales;
 
-IV. Se prohíben las expresiones verbales escritas contrarias a la moral y a las buenas costumbres, o que injurien a las autoridades, a los demás partidos políticos o candidatos independientes, o que tiendan a incitar a la violencia y al desorden;
+(NOTA: EL 24 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2017 Y SUS ACUMULADAS 42/2017, 43/2017, 45/2017 Y 47/2017, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+IV. Se prohíben las expresiones verbales o escritas CONTRARIAS A LA MORAL Y A LAS BUENAS COSTUMBRES, QUE INJURIEN O que calumnien A LAS AUTORIDADES, A LOS DEMÁS PARTIDOS POLÍTICOS O CANDIDATOS INDEPENDIENTES, o que tiendan a incitar a la violencia y al desorden;
 
 V. Se prohíbe la destrucción o alteración de la propaganda que en apoyo de los candidatos hubieren fijado, pintado o instalado los partidos políticos o candidatos independientes, exceptuándose de esta prohibición a los propietarios de edificios, terrenos, o de obras que no hayan otorgado su consentimiento para ello;
 
@@ -495,7 +603,13 @@ La propaganda deberá ser retirada por los partidos políticos dentro de los sie
 
 VIII. La entrega de cualquier tipo de material que contenga propaganda política o electoral de partidos, coaliciones o candidatos, en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona está estrictamente prohibida a los partidos, a los candidatos, a sus equipos de campaña o a cualquier persona. Dichas conductas serán sancionadas de conformidad con la Ley de la materia y se presumirá como indicio de presión al elector para obtener su voto, y
 
-IX. Durante el tiempo que comprendan las campañas electorales locales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión de toda propaganda gubernamental en los medios de comunicación social estatales y municipales. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia. Queda prohibida la propaganda política electoral que denigre a las instituciones, los partidos o las personas. Las violaciones a lo dispuesto en el presente inciso serán sancionadas por las autoridades electorales competentes.
+(NOTA: EL 24 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2017 Y SUS ACUMULADAS 42/2017, 43/2017, 45/2017 Y 47/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+IX. DURANTE EL TIEMPO QUE COMPRENDAN LAS CAMPAÑAS ELECTORALES LOCALES Y HASTA LA CONCLUSIÓN DE LA RESPECTIVA JORNADA COMICIAL, DEBERÁ SUSPENDERSE LA DIFUSIÓN DE TODA PROPAGANDA GUBERNAMENTAL EN LOS MEDIOS DE COMUNICACIÓN SOCIAL ESTATAL Y MUNICIPAL.
+
+Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia. Queda prohibida la propaganda política electoral que calumnie a las instituciones, los partidos o las personas. Las violaciones a lo dispuesto en el presente inciso serán sancionadas por las autoridades electorales competentes.
 
 Los servidores públicos del Estado y los municipios tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos a su disposición, sin afectar la igualdad de oportunidades de los partidos políticos y candidatos independientes.
 
@@ -515,9 +629,11 @@ El derecho a que se refiere el primer párrafo de este artículo se ejercerá en
 
 Los partidos políticos y candidatos independientes que infrinjan las disposiciones contenidas en el artículo 48 del presente Código, podrán ser denunciados ante el Consejo Estatal; el Consejero Presidente concederá un plazo de 48 horas para que el partido político de que se trate borre o quite, según sea el caso, la propaganda que hubiere fijado en contravención a ese; de no hacerlo, se pedirá a la autoridad municipal que lo haga, pero el costo que ello implique se duplicará y le será deducido del financiamiento público que le corresponda al partido político, entregándose el monto al ayuntamiento que sufragó el gasto; en el caso de que el infractor sea candidato independiente, el costo será cubierto con su propio peculio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 42.
 
-En el año en que se efectúen las elecciones en la Entidad, los gobiernos estatal y municipales no podrán, durante los noventa días previos al día en que se efectúe la elección, publicitar las obras que realicen o hayan realizado, así como los programas implementados, con excepción de los programas y acciones de protección civil y de prevención y atención de desastres naturales.
+En el año en que se efectúen las elecciones en la Entidad, los gobiernos estatal y municipales no podrán, durante el tiempo establecido en la fracción IX del artículo 39 de este Código, publicitar las obras que realicen o hayan realizado, así como los programas implementados, con excepción de los programas y acciones de protección civil y de prevención y atención de desastres naturales.
 
 La contravención a las disposiciones arriba señaladas, por parte de las autoridades estatales o municipales, será considerada como violatoria de los principios que rigen la actividad electoral y será materia de responsabilidad conforme a lo dispuesto en los artículos 134, 136 y 137 de la Constitución Política del Estado, sin perjuicio de las responsabilidades penales a que diere lugar.
 
@@ -573,13 +689,21 @@ De igual forma, ninguna persona física o moral, sea a título propio o por cuen
 
 Salvo disposición expresa, la autoridad competente para sancionar las conductas que transgredan lo anterior, es el Instituto Nacional, autoridad única en la materia.
 
+(NOTA: EL 24 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2017 Y SUS ACUMULADAS 42/2017, 43/2017, 45/2017 Y 47/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 51.
 
-El Instituto Morelense así como el Tribunal Electoral, estarán impedidos para contratar o adquirir tiempos de radio y televisión, sin importar su finalidad. Dichas autoridades electorales podrán disponer de los tiempos en radio y televisión que les sean asignados por el Instituto Nacional.
+El Instituto Morelense, así como el Tribunal Electoral, estarán impedidos para transmitir, contratar o adquirir tiempos de radio y televisión, sin importar su finalidad. Dichas autoridades electorales podrán disponer de los tiempos en radio y televisión que les sean asignados por el Instituto Nacional.
+
+(NOTA: EL 24 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2017 Y SUS ACUMULADAS 42/2017, 43/2017, 45/2017 Y 47/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### Artículo 52.
 
-El Instituto Morelense y el Tribunal Electoral, para la difusión de sus respectivos mensajes de comunicación social, accederán a la radio y la televisión a través del tiempo de que el Instituto Nacional dispone en dichos medios.
+El Instituto Morelense y el Tribunal Electoral, para la difusión de sus respectivos mensajes de comunicación social, accederán exclusivamente a la radio y la televisión a través del tiempo de que el Instituto Nacional dispone en dichos medios.
 
 ###### Artículo 53.
 
@@ -613,6 +737,12 @@ Tratándose de precampañas y campañas en elecciones locales, la base para la d
 
 Los partidos políticos locales de nuevo registro participarán solamente en la distribución del treinta por ciento del total a que se refiere la fracción I del artículo anterior, en forma igualitaria.
 
+(NOTA: EL 24 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2017 Y SUS ACUMULADAS 42/2017, 43/2017, 45/2017 Y 47/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+LOS PARTIDOS POLÍTICOS NACIONALES QUE NO OBTUVIERON CUANDO MENOS EL TRES POR CIENTO DE LA VOTACIÓN VÁLIDA EMITIDA EN LA ELECCIÓN INMEDIATA ANTERIOR DE DIPUTADOS LOCALES EN EL ESTADO, EN EL AÑO ELECTORAL RECIBIRÁN FINANCIAMIENTO PÚBLICO PARA GASTOS DE CAMPAÑA, CONFORME A LO DISPUESTO EN EL TERCER PÁRRAFO DEL ARTÍCULO 22.
+
 ###### Artículo 56.
 
 Para la determinación del número de mensajes a distribuir entre los partidos políticos, las unidades de medida son: treinta segundos, uno y dos minutos, sin fracciones; el reglamento que emita el Instituto Nacional determinará lo conducente.
@@ -641,27 +771,47 @@ DE LA PARTICIPACIÓN O ASOCIACIÓN DE LOS PARTIDOS POLÍTICOS A TRAVÉS DE FRENT
 
 ### CAPÍTULO I. DISPOSICIÓN GENERAL
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 59.
 
-Serán formas específicas de intervención de los partidos políticos en el proceso electoral, la candidatura común, así como los frentes, coaliciones y fusiones que regula la Ley General de Instituciones y Procedimientos Electorales.
+Serán formas específicas de intervención de los partidos políticos en el proceso electoral, la candidatura común, así como los frentes, coaliciones y fusiones que regulan las Leyes Generales de Partidos Políticos y de Instituciones y Procedimientos Electorales, conforme a los convenios que al efecto se suscriban.
 
 ### CAPÍTULO II. DE LAS CANDIDATURAS COMUNES
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### Artículo 60.
 
 Para presentar candidatos a Gobernador, Diputados por el principio de Mayoría Relativa, Presidentes Municipales y Síndicos, dos o más partidos políticos, sin mediar coalición, pueden postular al mismo candidato; para ello es indispensable el consentimiento por escrito del propio candidato y el convenio de los partidos políticos que lo postulen.
 
-(NOTA: EL 30 DE SEPTIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 39/2014 Y SUS ACUMULADAS 44/2014, 54/2014 Y 84/2014, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1° DE OCTUBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+La postulación de candidatura común se sujetará a las siguientes reglas y lineamientos:
+
+a. Solicitud. Debe ser solicitada por escrito ante el Instituto Morelense por dos o más partidos políticos que no estén coaligados, siempre que se demuestre que tal forma de participación ha sido aprobada en un convenio por los órganos estatutarios o directivos correspondientes, acreditando todos y cada uno de los documentos para la realización del mismo y se solicite con el consentimiento por escrito del candidato;
+
+b. Procedimiento de registro de convenio de candidatura común. Hasta antes del inicio del período de precampañas, los partidos políticos interesados deberán presentar ante el Consejero Presidente del Instituto Morelense, la solicitud de registro de convenio de candidatura común, quien a su vez deberá someterlo a consideración del Consejo Electoral, a efecto de que proceda a su revisión y en su caso aprobación y publicación;
+
+c. Anotación registral de convenios de candidatura común. El Secretario Ejecutivo del Instituto Morelense, debe llevar un libro de candidaturas comunes, en el que la Dirección Ejecutiva de Organización y Partidos deberá inscribir lo conducente;
+
+d. Procedimiento de selección de candidato común. Al respecto, le son aplicables todas las reglas previstas para el procedimiento de selección de candidatos, con la excepción de que cuando exista la intención de participar en candidatura común, el ciudadano a ser postulado puede participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, siempre y cuando exista acuerdo para participar en esta modalidad para lo que deberán sujetarse a los principios de constitucionalidad, certeza, legalidad, independencia, imparcialidad, equidad, objetividad, definitividad, profesionalismo, máxima publicidad y paridad de género;
+
+e. Registro de candidaturas comunes. Una vez registrado el convenio respectivo, se deberá atender a las reglas establecidas en el Capítulo III, del Título Primero del Libro Quinto de este Código, para solicitar el registro de la candidatura, con la única salvedad de que el candidato postulado deberá manifestar por escrito su conformidad con participar en la modalidad de candidatura común y, dependiendo de la elección de que se trate, el Instituto Morelense deberá verificar y dar cumplimiento estrictamente con las disposiciones que la Constitución Federal, la normativa y este Código, establecen en materia de paridad de género;
+
+f. Campañas, gastos de campaña y fiscalización. Deberán ceñirse a lo dispuesto en la normativa aplicable;
+
+g. Aparición en la boleta. Los partidos políticos aparecerán en la boleta con su propio emblema y espacio, con la salvedad que el nombre del candidato será el mismo en ambos espacios, y
+
+h. Cómputo de los votos. Los votos cuentan para cada partido político y candidato. Cuando el elector marque en la boleta dos o más cuadros y exista candidatura común, el voto contará para el candidato y se registrará por separado en el espacio correspondiente del acta de escrutinio y cómputo de casilla para que la suma de tales votos se distribuya igualitariamente entre los partidos que integran la candidatura común y de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación.
 
 ###### ARTÍCULO 61.
 
-LOS PARTIDOS POLÍTICOS QUE PARTICIPEN EN CANDIDATURAS COMUNES, APARECERÁN CON SU PROPIO EMBLEMA EN LA BOLETA ELECTORAL, SEGÚN LA ELECCIÓN DE QUE SE TRATE, Y EL VOTO CONTARÁ PARA EL PARTIDO POLÍTICO QUE SEA SELECCIONADO; CUANDO SE MARQUEN DOS O MÁS OPCIONES QUE POSTULEN AL MISMO CANDIDATO EN LA BOLETA ELECTORAL, EL VOTO SE SUMARÁ PARA EL CANDIDATO Y NO CONTARÁ PARA NINGUNO DE LOS PARTIDOS POLÍTICOS PARA TODOS LOS EFECTOS ESTABLECIDOS EN ESTE CÓDIGO, INDEPENDIENTEMENTE DEL TIPO DE ELECCIÓN, CONVENIO Y TÉRMINOS QUE EN EL MISMO ADOPTEN.
+(DEROGADO, P.O. 26 DE MAYO DE 2017)
 
-Los partidos políticos no podrán distribuir o transferirse votos mediante convenios.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### Artículo 62.
 
-El convenio a que se refiere el artículo anterior entre dos o más partidos deberá sujetarse a lo dispuesto en los estatutos de cada partido.
+Los convenios a que se refiere el artículo 59 de este Código, suscritos entre dos o más partidos deberán sujetarse a lo dispuesto en los estatutos de cada partido.
 
 # LIBRO TERCERO. DE LOS ORGANISMOS ELECTORALES
 
@@ -669,13 +819,19 @@ El convenio a que se refiere el artículo anterior entre dos o más partidos deb
 
 ### CAPÍTULO I. DE SU NATURALEZA Y FINES
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 63.
 
-Se crea el Instituto Morelense de Procesos Electorales y Participación Ciudadana, como organismo constitucional autónomo, que cuenta con personalidad jurídica y patrimonio propio, que goza de autonomía en su funcionamiento, independencia en sus decisiones, de carácter permanente, teniendo su sede en la ciudad de Cuernavaca, capital del Estado.
+Se crea el Instituto Morelense de Procesos Electorales y Participación Ciudadana, como un organismo público local electoral, constitucionalmente autónomo, que cuenta con personalidad jurídica y patrimonio propio, en cuya integración concurren los ciudadanos y los partidos políticos; que goza de autonomía en su funcionamiento, independencia en sus decisiones, de carácter permanente, teniendo su sede en la ciudad de Cuernavaca, capital del Estado, conforme a las disposiciones previstas en el presente Código.
 
-Como depositario de la autoridad electoral, tiene a su cargo las elecciones locales ordinarias, extraordinarias y los procedimientos de participación ciudadana. En el ámbito de su competencia, garantiza la correcta aplicación de las normas electorales.
+Será la autoridad en materia electoral y de participación ciudadana, profesional en su desempeño, autónomo en su funcionamiento e independiente en sus decisiones.
 
-Se rige por las disposiciones que se establecen en la Constitución Federal, la Constitución, la normativa y el presente Código, bajo los principios electorales de constitucionalidad, certeza, legalidad, independencia, imparcialidad, equidad, objetividad, definitividad, profesionalismo, máxima publicidad y paridad de género.
+Tendrá a su cargo la preparación, desarrollo y conclusión de los procesos electorales locales ordinarios y extraordinarios, así como los de participación ciudadana a que se convoquen, según sea el caso, de acuerdo a los términos previstos por la normativa aplicable. Se estructurará con comisiones ejecutivas y órganos de dirección, ejecutivos y técnicos.
+
+En el ámbito de su competencia, garantizará la correcta aplicación de las normas de la materia.
+
+Se rige por las disposiciones que se establecen en la normativa y el presente Código, bajo los principios generales del derecho y los electorales de constitucionalidad, certeza, legalidad, independencia, imparcialidad, equidad, objetividad, definitividad, profesionalismo, máxima publicidad, paridad de género.
 
 ###### Artículo 64.
 
@@ -685,7 +841,9 @@ a) A petición de los partidos políticos, dar fe de la realización de actos y 
 
 b) Solicitar la colaboración de los notarios públicos para el auxilio de la función electoral durante el desarrollo de la jornada electoral en los procesos locales, y
 
-c) Las demás que se establezcan en las leyes de las entidades federativas.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+c) Las demás que se establezcan en las leyes del Estado.
 
 El Consejo Estatal tendrá la atribución de delegar la función de oficialía electoral.
 
@@ -697,7 +855,9 @@ I. Contribuir al desarrollo de la vida democrática y coadyuvar en la promoción
 
 II. Consolidar el régimen de partidos políticos;
 
-III. Garantizar a los ciudadanos el ejercicio de los derechos político-electorales y vigilar el cumplimiento de sus obligaciones;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+III. Garantizar a los ciudadanos el ejercicio de los derechos político electorales y vigilar el cumplimiento de sus obligaciones;
 
 IV. Asegurar la celebración periódica y pacífica de las elecciones para renovar a los integrantes de los Poderes Legislativo y Ejecutivo y de los ayuntamientos del Estado y, en su caso, los procesos de participación ciudadana, y
 
@@ -735,7 +895,9 @@ XIII. Desarrollar las actividades que se requieran para garantizar el derecho de
 
 XIV. Ordenar la realización de conteos rápidos basados en las actas de escrutinio y cómputo de casilla a fin de conocer las tendencias de los resultados el día de la jornada electoral, de conformidad con los lineamientos emitidos por el Instituto Nacional;
 
-XV. Organizar, desarrollar, y realizar el cómputo de votos y declarar los resultados de los mecanismos de participación ciudadana;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XV. Calificar la procedencia, organizar, desarrollar, y realizar el cómputo de votos y declarar los resultados de los mecanismos de participación ciudadana;
 
 XVI. Supervisar las actividades que realicen los órganos distritales y municipales, durante el proceso electoral;
 
@@ -743,11 +905,15 @@ XVII. Informar a la Unidad Técnica de Vinculación con los Organismos Públicos
 
 XVIII. Las demás que determine la Ley General de Instituciones y Procedimientos Electorales y aquéllas no reservadas al Instituto Nacional, que establezca este Código.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 67.
 
-Para el desempeño de sus actividades, el Instituto Morelense contará con el personal calificado y suficiente para prestar el Servicio Profesional Electoral Nacional, mismo que comprende la selección, ingreso, capacitación, profesionalización, promoción, evaluación, rotación, permanencia y disciplina de los servidores públicos del Instituto. El Instituto Nacional regulará la organización y funcionamiento de este Servicio.
+Para el desempeño de sus actividades, el Instituto Morelense contará con el personal calificado perteneciente al Servicio Profesional Electoral, sistema que comprenderá los mecanismos de selección, ingreso, capacitación, profesionalización, promoción, evaluación, rotación, permanencia y disciplina; asimismo contará con el personal de la rama Administrativa. La vía de ingreso privilegiada al Instituto Morelense, será a través del concurso público, y al igual que los demás mecanismos, estará sujeta a lo establecido en el Estatuto del Servicio Profesional Electoral Nacional y del Personal de la Rama Administrativa. El Instituto Nacional regulará la organización y funcionamiento de este Servicio.
 
-Los miembros del Servicio Profesional Electoral Nacional, con motivo de la carga laboral que representa el año electoral, al ser todos los días y horas hábiles, tendrán derecho a recibir una compensación derivada de las labores extraordinarias que realicen, de acuerdo con el presupuesto autorizado.
+Los servidores públicos permanentes del Instituto Morelense y, en su caso, los prestadores de servicio que determine el Consejo Estatal Electoral, con motivo de la carga laboral que representa el año electoral, tendrán derecho a recibir una compensación derivada de las labores extraordinarias que realicen, de acuerdo con el presupuesto autorizado.
+
+La compensación recibida por los Consejeros Electorales no podrá ser mayor al equivalente a quince días de su salario.
 
 ###### Artículo 68.
 
@@ -777,13 +943,17 @@ El Instituto Morelense ejercerá sus funciones en toda la Entidad y se integra c
 
 I. El Consejo Estatal Electoral;
 
-II. Los Consejos Distritales Electorales;
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
 
-III. Los Consejos Municipales Electorales;
+II. Las Comisiones Ejecutivas Permanentes y Temporales;
 
-IV. Las Mesas Directivas de Casilla, y
+III. Los Consejos Distritales Electorales;
 
-V. Los demás organismos que la normativa y este Código señalen.
+IV. Los Consejos Municipales Electorales;
+
+V. Las Mesas Directivas de Casilla, y
+
+VI. Los demás organismos que la normativa y este Código señalen.
 
 ### CAPÍTULO II. DE LAS BASES Y CONTENIDOS DEL CONVENIO CON EL INSTITUTO NACIONAL
 
@@ -791,7 +961,9 @@ V. Los demás organismos que la normativa y este Código señalen.
 
 El Instituto Morelense celebrará convenio con el Instituto Nacional, respecto a las siguientes materias:
 
-I. Registro de electores con el propósito de utilizar el catálogo general de electores;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+I. Establecimiento e instalación de cada Casilla Única;
 
 II. El padrón electoral, la lista nominal de electores y la credencial para votar;
 
@@ -835,11 +1007,19 @@ El Consejero Presidente y los Consejeros Electorales del Instituto Morelense ser
 
 El Consejero Presidente, los Consejeros Electorales y los servidores públicos asignados al Instituto Morelense, no podrán utilizar en beneficio propio o de terceros, la información confidencial de que dispongan en razón de su cargo; dicha información, cuando así proceda, sólo será divulgada con autorización del Consejo Estatal.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 74.
 
-Las retribuciones que perciban el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo, estarán previstas en el Presupuesto de Egresos del Gobierno del Estado; por ningún motivo se incrementarán sus emolumentos durante el ejercicio fiscal respectivo.
+Las retribuciones que perciban el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo, estarán previstas en el Presupuesto de Egresos del Gobierno del Estado, en términos de lo previsto en el artículo 127 de la Constitución Federal y 82 de la Constitución; asimismo por ningún motivo se incrementarán sus emolumentos durante el ejercicio fiscal respectivo.
+
+(NOTA: EL 24 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2017 Y SUS ACUMULADAS 42/2017, 43/2017, 45/2017 Y 47/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+POR LA NATURALEZA DE SU FUNCIÓN, EL CONSEJERO PRESIDENTE Y LOS CONSEJEROS ELECTORALES AL OSTENTAR LA REPRESENTACIÓN DEL ÓRGANO DE DIRECCIÓN SUPERIOR Y DELIBERACIÓN DEL INSTITUTO MORELENSE Y POR CARECER DE LA CONDICIÓN DE SUBORDINACIÓN, QUEDAN EXCLUIDOS DE OBTENER ALGUNA RETRIBUCIÓN ECONÓMICA POR CONCEPTO DE AGUINALDO.
 
 ### CAPÍTULO IV. DE LAS SESIONES DEL CONSEJO ESTATAL ELECTORAL
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### Artículo 75.
 
@@ -847,15 +1027,19 @@ El Consejo Estatal sesionará en forma ordinaria o extraordinaria. Las sesiones 
 
 Sesionará en forma extraordinaria a convocatoria expedida al menos con veinticuatro horas de antelación por el Consejero Presidente, a solicitud de la mayoría de los Consejeros Electorales, o de los partidos políticos integrantes del Consejo Estatal.
 
+Cuando se trate de casos urgentes, así calificados por el Consejero Presidente, se podrá convocar hasta con tres horas previas a la celebración de la sesión respectiva.
+
 El Secretario Ejecutivo, a propuesta de quien o quienes estén legitimados para ello en los términos de este artículo, hará la convocatoria respectiva. En período de elecciones ordinarias o extraordinarias todos los días y horas, se consideran hábiles para sesionar.
 
 Las sesiones de Consejo Estatal y de todos los órganos colegiados del Instituto Morelense serán públicas, salvo en los casos de grave alteración al orden que pongan en riesgo el proceso mismo o pongan en riesgo la integridad física de sus miembros.
 
 Para cada sesión de consejo se levantará el acta respectiva, misma que deberá ser redactada con toda fidelidad conforme a lo expuesto en ella. La Secretaría del Consejo estará a cargo del Secretario Ejecutivo del Instituto Morelense, quien tendrá derecho de voz en las reuniones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 76.
 
-Las sesiones del Consejo Estatal serán válidas con la asistencia de más de la mitad de sus integrantes, a primera convocatoria; en caso de no reunirse la mayoría, la sesión tendrá lugar dentro de las 24 horas siguientes, con los Consejeros y representantes que asistan. En el supuesto de que el Consejero Presidente no asista o se ausente de la sesión en forma definitiva, el Consejo Estatal designará a uno de los Consejeros Electorales presentes para que la presida, quien ejercerá todos los derechos y tendrá todas las obligaciones que corresponden al Consejero Presidente, de manera temporal, en el cumplimiento de los acuerdos de la sesión que presida.
+Las sesiones del Consejo Estatal serán válidas con la asistencia de más de la mitad de sus integrantes, a primera convocatoria; en caso de no reunirse la mayoría, la sesión tendrá lugar a segunda convocatoria, con los Consejeros y representantes que asistan. En el supuesto de que el Consejero Presidente no asista o se ausente de la sesión en forma definitiva, el Consejo Estatal designará a uno de los Consejeros Electorales presentes para que la presida, quien ejercerá todos los derechos y tendrá todas las obligaciones que corresponden al Consejero Presidente, de manera temporal, en el cumplimiento de los acuerdos de la sesión que presida.
 
 Sus resoluciones se tomarán por mayoría simple, excepto las que por disposición de la normativa aplicable, requieran de mayoría calificada.
 
@@ -863,13 +1047,21 @@ Sus resoluciones se tomarán por mayoría simple, excepto las que por disposici�
 
 Para los efectos de las disposiciones contenidas en el presente Capítulo, las votaciones emitidas por el Consejo Estatal, serán:
 
-I. Mayoría simple, la aprobación emitida por la mayoría de los integrantes presentes;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-II. Mayoría absoluta, la aprobación requerida de la mayoría de los integrantes del Consejo Estatal, y
+I. Mayoría simple, la aprobación emitida por la mayoría de los Consejeros electorales presentes;
 
-III. Mayoría calificada, la aprobación de las dos terceras partes de los integrantes del Consejo Estatal.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+II. Mayoría calificada, la aprobación de cuando menos cinco Consejeros electorales, y
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+III. Unanimidad, la aprobación emitida por la totalidad de los Consejeros electorales Presentes.
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES DEL CONSEJO ESTATAL ELECTORAL
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### Artículo 78.
 
@@ -881,105 +1073,129 @@ II. Fijar las políticas del Instituto Morelense y aprobar su estructura, las di
 
 III. Expedir los reglamentos y lineamientos necesarios para el cumplimiento de sus atribuciones;
 
-IV. Designar y remover al Secretario Ejecutivo y a los Directores Ejecutivos a propuesta del Consejero Presidente o de la mayoría de los consejeros electorales del Consejo Estatal, con la aprobación calificada de los Consejeros Electorales;
+IV. Designar y remover al Secretario Ejecutivo, a los Directores Ejecutivos y, en su caso, a los encargados de despacho, a propuesta de la mayoría simple de los consejeros electorales del Consejo Estatal, con la aprobación calificada de los Consejeros Electorales;
 
 V. Cuidar la debida integración, instalación y funcionamiento de los consejos distritales y municipales electorales;
 
-VI. Designar y remover al Consejero Presidente, a los Consejeros Electorales y al Secretario de los consejos distritales y municipales, a propuesta del Consejero Presidente;
+VI. Designar y remover al Consejero Presidente, a los Consejeros Electorales y al Secretario de los consejos distritales y municipales, a propuesta de la Comisión Ejecutiva de Organización y Partidos Políticos, con la aprobación de mayoría calificada de los Consejeros Electorales;
 
 VII. Convocar a los partidos políticos para que nombren a sus representantes, propietarios y suplentes, ante estas instancias;
 
-VIII. Enviar para su publicación en el Periódico Oficial, la lista de los integrantes de los consejos distritales y municipales electorales;
+VIII. Designar al Órgano de Enlace con el Instituto Nacional, a cargo de la atención de los asuntos del Servicio, a propuesta de la Comisión del Servicio Profesional, en términos de la fracción IV de este artículo;
 
-IX. Vigilar que las relaciones laborales del Instituto Morelense con sus trabajadores, sea de conformidad con el Servicio Profesional Electoral Nacional, incluyendo los técnicos, capacitadores y auxiliares electorales en general, que se requieran para realizar las funciones de apoyo que de manera específica les sean encomendadas para el proceso electoral;
+IX. Enviar para su publicación en el Periódico Oficial, la lista de los integrantes de los consejos distritales y municipales electorales;
 
-X. Crear las comisiones permanentes y temporales para el pleno desarrollo de sus atribuciones;
+X. Vigilar que las relaciones laborales del Instituto Morelense con sus trabajadores, sea de conformidad con el Servicio Profesional Electoral Nacional, incluyendo los técnicos, capacitadores y auxiliares electorales en general, que se requieran para realizar las funciones de apoyo que de manera específica les sean encomendadas para el proceso electoral;
 
-XI. Solicitar el auxilio de la fuerza pública que sea necesario para garantizar, el orden durante las sesiones del Consejo Estatal y la seguridad de sus integrantes, el desarrollo pacífico de los procesos electorales y los de participación ciudadana;
+XI. Integrar las comisiones ejecutivas permanentes y crear las temporales que resulten necesarias para el pleno ejercicio de sus atribuciones, en los términos de este Código;
 
-XII. Celebrar convenios con instituciones de educación pública y privada para desarrollar programas y actividades de capacitación y educación electoral.
+XII. Solicitar el auxilio de la fuerza pública que sea necesario para garantizar, el orden durante las sesiones del Consejo Estatal y la seguridad de sus integrantes, el desarrollo pacífico de los procesos electorales y los de participación ciudadana;
 
-XIII. Autorizar y celebrar con las autoridades federales, estatales o municipales, los convenios que sean necesarios para el cumplimiento de sus objetivos;
+XIII. Autorizar convenios con instituciones de educación pública y privada para desarrollar programas y actividades de capacitación electoral, así como de educación y educación cívica, conforme a las propuestas de las comisiones que correspondan;
 
-XIV. Convenir con el Instituto Nacional los términos y procedimientos para que los ciudadanos morelenses residentes en el extranjero, puedan votar para la elección de Gobernador, sujetándose a lo establecido en las normas aplicables;
+XIV. Autorizar y celebrar con las autoridades federales, estatales o municipales, los convenios que sean necesarios para el cumplimiento de sus objetivos;
 
-XV. Solicitar información a las autoridades federales, estatales y del Distrito Federal sobre la no inhabilitación de ciudadanos que hubiesen solicitado su registro para ser candidatos a un cargo de elección popular;
+XV. Convenir con el Instituto Nacional los términos y procedimientos para que los ciudadanos morelenses residentes en el extranjero, puedan votar para la elección de Gobernador, sujetándose a lo establecido en las normas aplicables;
 
-XVI. Convenir con el Instituto Nacional, que el órgano electoral nacional se encargue del proceso electoral local, conforme a la Constitución Federal y demás leyes aplicables.
+XVI. Solicitar información a las autoridades federales, estatales y de la Ciudad de México sobre la no inhabilitación de ciudadanos que hubiesen solicitado su registro para ser candidatos a un cargo de elección popular;
 
-XVII. Informar al Congreso, al Poder Ejecutivo y a los ayuntamientos de los municipios, según sea el caso, de los asuntos que sean de su competencia;
+XVII. Solicitar, con la aprobación de la mayoría calificada del Consejo Estatal, la asunción total del proceso electoral o parcial de alguna actividad propia de la función electoral que le corresponda al Instituto Morelense del proceso local al Instituto Nacional, conforme a la Constitución Federal y demás leyes aplicables;
 
-XVIII. Aprobar anualmente el anteproyecto de presupuesto de egresos del Instituto Morelense y presentarlo al Poder Ejecutivo del Estado para su incorporación dentro del Presupuesto de Egresos de la Entidad, mismo que deberá incluir entre sus partidas, el financiamiento y las prerrogativas de los partidos políticos;
+XVIII. Informar al Congreso, al Poder Ejecutivo y a los ayuntamientos de los municipios, según sea el caso, de los asuntos que sean de su competencia;
 
-XIX. Determinar y proveer las prerrogativas y financiamiento que les corresponden a los partidos políticos;
+XIX. Aprobar anualmente, a propuesta de la Comisión Ejecutiva de Administración y Financiamiento, el anteproyecto de presupuesto de egresos del Instituto Morelense y presentarlo al Poder Ejecutivo del Estado, para su incorporación dentro del Presupuesto de Egresos de la Entidad, mismo que deberá incluir entre sus partidas, el financiamiento y las prerrogativas de los partidos políticos y el tabulador de sueldos, para los efectos que establece el artículo 127 de la Constitución Federal, en relación con el 82 de la Constitución local;
 
-XX. Aprobar los programas anuales de las direcciones ejecutivas y de la Secretaría Ejecutiva del Instituto Morelense, así como los dictámenes que presenten las respectivas comisiones sobre el cumplimiento de los mismos;
+XX. Proveer las prerrogativas, financiamiento y gastos de representación política que les corresponden a los partidos políticos;
 
-XXI. Proporcionar de conformidad a las disponibilidades presupuestales y en forma equitativa a los partidos políticos, el uso de instalaciones y los instrumentos de trabajo necesarios para que los representantes acreditados puedan cumplir con las funciones que le son propias dentro de los organismos electorales y dispondrán de un espacio propio y de la papelería y equipos de oficina básicos, para realizar sus trabajos dentro de las instalaciones del Instituto Morelense;
+XXI. Aprobar los programas anuales de las direcciones ejecutivas y de la Secretaría Ejecutiva del Instituto Morelense, así como los dictámenes que presenten las respectivas comisiones sobre el cumplimiento de los mismos;
 
-XXII. Determinar y vigilar el cumplimiento de los topes máximos de gastos de precampaña y campaña que se puedan erogar en las elecciones de Gobernador, Diputados al Congreso y ayuntamientos;
+XXII. Proporcionar en forma equitativa a los partidos políticos, el uso de instalaciones y los instrumentos de trabajo necesarios para que los representantes acreditados puedan cumplir con las funciones que le son propias dentro de los organismos electorales, los que dispondrán de un espacio propio y de la papelería y equipos de oficina básicos, para realizar sus trabajos dentro de las instalaciones del Instituto Morelense;
 
-XXIII. Aprobar el modelo y los formatos de la documentación, materiales electorales, medios electrónicos y procedimientos administrativos para el proceso electoral;
+XXIII. Determinar y vigilar el cumplimiento de los topes máximos de gastos de precampaña y campaña que se puedan erogar en las elecciones de Gobernador, Diputados al Congreso y ayuntamientos;
 
-XXIV. Recabar de los consejos electorales distritales, municipales, así como de las comisiones y direcciones, los informes y certificaciones que estime necesarios por estar relacionados con el proceso electoral;
+XXIV. Aprobar el modelo y los formatos de la documentación, materiales electorales, medios electrónicos y procedimientos administrativos para el proceso electoral, conforme a los lineamientos emitidos por el Instituto Nacional;
 
-XXV. Recibir y resolver sobre las solicitudes de registro que le formulen los ciudadanos que deseen constituirse en partido político estatal; así como sobre la cancelación o pérdida, en su caso, del registro que se otorgue;
+XXV. Recabar de los consejos electorales distritales, municipales, así como de las comisiones y direcciones, los informes y certificaciones que estime necesarios por estar relacionados con el proceso electoral;
 
-XXVI. Recibir, revisar, aprobar, registrar y publicar los convenios que se celebren entre los partidos políticos en materia de fusiones, coaliciones o candidaturas comunes;
+XXVI. Recibir y resolver sobre las solicitudes de registro que le formulen los ciudadanos que deseen constituirse en partido político estatal; así como sobre la cancelación o pérdida, en su caso, del registro que se otorgue;
 
-XXVII. Registrar y publicar por una sola vez, la plataforma electoral que por cada proceso electoral deben presentar los partidos políticos, coaliciones o candidatos independientes en los términos de este Código;
+XXVII. Recibir, revisar, aprobar, registrar y publicar los convenios que se celebren entre los partidos políticos en materia de coaliciones o candidaturas comunes, así como de frentes o fusiones en los casos de partidos políticos locales;
 
-XXVIII. Registrar las candidaturas a Gobernador, a Diputados de mayoría relativa al Congreso, las listas de asignación de los candidatos a Diputados por el principio de representación proporcional y, en su caso, registrar supletoriamente las candidaturas a Diputados por principio de mayoría relativa, así como a miembros de los ayuntamientos;
+XXVIII. Registrar y publicar por una sola vez, la plataforma electoral que por cada proceso electoral deben presentar los partidos políticos, coaliciones o candidatos independientes en los términos de este Código;
 
-XXIX. Resolver sobre la sustitución de candidatos;
+XXIX. Registrar las candidaturas a Gobernador, a Diputados de mayoría relativa al Congreso, las listas de asignación de los candidatos a Diputados por el principio de representación proporcional y, en su caso, registrar supletoriamente las candidaturas a Diputados por principio de mayoría relativa, así como a miembros de los ayuntamientos;
 
-XXX. Registrar a los representantes de los partidos políticos o coaliciones ante el programa de resultados preliminares;
+XXX. Resolver sobre la sustitución de candidatos;
 
-XXXI. Promover y organizar los debates públicos entre candidatos, previa solicitud de los partidos políticos en los términos establecidos en la Ley General de Instituciones y Procedimientos Electorales;
+XXXI. Registrar a los representantes de los partidos políticos, coaliciones y candidatos independientes ante el programa de resultados electorales preliminares y ante el conteo rápido, en su caso;
 
-XXXII. Proveer lo necesario a fin de que los funcionarios de casilla, así como los representantes de partido, reciban alimentación durante el día de la elección, desde su apertura hasta su cierre;
+XXXII. Promover y organizar los debates públicos entre candidatos, previa solicitud de los partidos políticos en los términos establecidos en la Ley General de Instituciones y Procedimientos Electorales;
 
-XXXIII. Implementar y operar el programa de resultados preliminares de las elecciones locales de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional, así como determinar la viabilidad de los conteos rápidos.
+XXXIII. Proveer lo necesario a fin de que los funcionarios de casilla, así como los representantes de partido, reciban alimentación durante el día de la elección, desde su apertura hasta su cierre;
 
-XXXIV. Recibir de los consejos distritales y municipales electorales, en forma respectiva, el cómputo de la elección de Gobernador, Diputados por el principio de mayoría relativa y de miembros de los ayuntamientos;
+XXXIV. Implementar y operar el programa de resultados preliminares de las elecciones locales de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional, así como los conteos rápidos que se aprueben;
 
-XXXV. Realizar los cómputos totales, declarar la validez de las elecciones y determinar la distribución de los diputados plurinominales y la asignación de regidores, otorgando en todos los casos las constancias respectivas;
+XXXV. Recibir de los Consejos Distritales Electorales el cómputo de la elección de Gobernador y Diputados de mayoría relativa para realizar el cómputo total, declarar la validez de la elección, determinar la distribución y asignación de diputados plurinominales y otorgar las constancias respectivas;
 
-XXXVI. Organizar, desarrollar, realizar el cómputo de votos y declarar los resultados de los mecanismos de participación ciudadana, en los términos que determine el Consejo Estatal, las normas de la materia y el presente Código;
+XXXVI. Recibir de los Consejos Municipales Electorales el cómputo de la elección de miembros de los ayuntamientos, distribuir y asignar regidurías, otorgando las constancias respectivas;
 
-XXXVII. Vigilar y supervisar el cumplimiento de las obligaciones que la legislación federal y estatal impone a los servidores públicos, a las asociaciones y partidos políticos y a los ciudadanos en materia de obligaciones político- electorales;
+XXXVII. Realizar los cómputos totales, declarar la validez de las elecciones y determinar la distribución de los diputados plurinominales y la asignación de regidores, otorgando en todos los casos las constancias respectivas;
 
-XXXVIII. Investigar por los medios legales a su alcance, hechos que afecten de manera relevante los derechos de los partidos políticos o el proceso electoral ordinario o extraordinario y los que denuncien los partidos políticos por actos violatorios de las autoridades o de otros partidos, en contra de su propaganda, candidatos o miembros y, en su caso, dar cuenta de los hechos, omisiones o ilícitos a las autoridades competentes;
+XXXVIII. Organizar, desarrollar, realizar el cómputo de votos y declarar los resultados de los mecanismos de participación ciudadana, en los términos que determine el Consejo Estatal, las normas de la materia y el presente Código;
 
-XXXIX. Resolver los recursos administrativos de su competencia y turnar de manera oportuna al Tribunal Electoral aquellos que deba resolver éste, remitiendo las actuaciones, informes que correspondan y los medios de convicción que se hubieren exhibido;
+XXXIX. Calificar la procedencia, organizar, desarrollar, realizar el cómputo de votos y declarar los resultados de los mecanismos de participación ciudadana, en los términos que determine el Consejo Estatal, las normas de la materia y el presente Código;
 
-XL. Conocer de las infracciones y, en su caso, imponer las sanciones que correspondan en los términos de ley;
+XL. Vigilar y supervisar el cumplimiento de las obligaciones que la legislación federal y estatal impone a los servidores públicos, a las asociaciones y partidos políticos y a los ciudadanos en materia de obligaciones político electorales;
 
-XLI. Dictar todas las resoluciones que sean necesarias para hacer efectivas las disposiciones normativas en el ámbito de su competencia;
+XLI. Investigar por los medios legales a su alcance, hechos que afecten de manera relevante los derechos de los partidos políticos o el proceso electoral ordinario o extraordinario y los que denuncien los partidos políticos por actos violatorios de las autoridades o de otros partidos, en contra de su propaganda, candidatos o miembros y, en su caso, dar cuenta de los hechos, omisiones o ilícitos a las autoridades competentes;
 
-XLII. Implementar y fomentar permanentemente la educación democrática, con cursos de capacitación dirigidos a servidores públicos del Instituto Morelense y, en general, a ciudadanos, jóvenes y niños del Estado;
+XLII. Resolver los recursos administrativos de su competencia;
 
-XLIII. Vigilar el correcto funcionamiento de los procedimientos de recuentos parciales o totales de votos, llevados por los consejos municipales y distritales en los casos previstos por este Código;
+XLIII. Conocer de las infracciones y, en su caso, imponer las sanciones que correspondan en los términos de ley;
 
-XLIV. Dictar los acuerdos necesarios para el debido cumplimiento de los reglamentos, lineamientos y acuerdos que emita el Consejo General del Instituto Nacional;
+XLIV. Dictar todas las resoluciones que sean necesarias para hacer efectivas las disposiciones normativas en el ámbito de su competencia;
 
-XLV. Determinar lo conducente respecto a los informes que se rindan al Instituto Nacional, y
+XLV. Implementar y fomentar permanentemente la educación democrática, con cursos de capacitación dirigidos a servidores públicos del Instituto Morelense y, en general, a ciudadanos, jóvenes y niños del Estado;
 
-XLVI. Las demás que le confiere este Código y las disposiciones legales relativas.
+XLVI. Vigilar el correcto funcionamiento de los procedimientos de recuentos parciales o totales de votos, llevados por los consejos municipales y distritales en los casos previstos por este Código;
+
+XLVII. Dictar los acuerdos necesarios para el debido cumplimiento de los reglamentos, lineamientos y acuerdos que emita el Consejo General del Instituto Nacional;
+
+XLVIII. Determinar lo conducente respecto a los informes que se rindan al Instituto Nacional;
+
+XLIX. Aprobar y requerir informes respecto a los programas de educación cívica que proponga e implemente la Comisión de Capacitación, Educación Cívica y Participación Ciudadana que generen las áreas ejecutivas, para promover la cultura cívica y de participación ciudadana entre los servidores públicos del Instituto Morelense y, en general, entre los ciudadanos, jóvenes y niños del Estado;
+
+L. Asumir directamente por causa justificada, la realización de los cómputos municipales o distritales en los términos previstos por este ordenamiento;
+
+LI. Aprobar los acuerdos y los informes necesarios para el debido cumplimiento de la normatividad que emita el Consejo General del Instituto Nacional;
+
+LII. Requerir, en su caso, a las autoridades estatales y municipales que correspondan para que dentro del término de veinticuatro horas siguientes a la petición, remitan la información que obre en sus archivos para verificar la correcta expedición de la constancia de residencia para efectos de registro de candidaturas respecto a la veracidad debiendo, en su caso, remitir el expediente aperturado en términos de lo dispuesto por los artículos 184 de este Código y 7 bis de la Ley Orgánica Municipal del Estado de Morelos, a petición expresa de cuando menos tres integrantes del Consejo Estatal, denunciando cuando corresponda los hechos, omisiones o ilícitos que pudieran encontrar a las autoridades competentes;
+
+LIII. Observar y hacer cumplir las normas y procedimientos relativos al Servicio Profesional Electoral, así como atender los requerimientos que en esa materia le haga el Instituto Nacional Electoral;
+
+LIV. Presentar un informe sobre cada proceso electoral, dentro de los seis meses siguientes a la conclusión de este, y
+
+LV. Las demás que le confiere este Código y otras disposiciones legales.
 
 ###### Artículo 79.
 
 Son atribuciones del Consejero Presidente del Instituto Morelense, las siguientes:
 
-I. Tener la representación legal y administrativa del Instituto Morelense;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+I. Tener la representación legal y administrativa del Instituto Morelense, siendo responsable en términos de lo establecido en el Titulo Cuarto de la Constitución Federal; la representación electoral se ejercerá de manera conjunta con los presidentes de las comisiones ejecutivas permanentes o temporales;
 
 II. Remitir oportunamente al titular del Poder Ejecutivo, el anteproyecto de presupuesto de egresos del Instituto Morelense, una vez aprobado por el Consejo Estatal;
 
-III. Vigilar el ejercicio del presupuesto de egresos asignado al Instituto Morelense y presentar al Consejo Estatal un informe trimestral de los ingresos y egresos del mismo, que deberá contener la información del gasto programado y ejercido por cada una de las partidas autorizadas;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-IV. Suscribir, junto con el Secretario Ejecutivo, los convenios que sean necesarios con el Instituto Nacional y otras autoridades de cualquier orden de Gobierno, que se requieran para cumplimiento de las atribuciones del Instituto Morelense previa autorización del Consejo Estatal;
+III. Ejercer el presupuesto de egresos asignado al Instituto Morelense, aprobado por el Consejo Estatal a propuesta de la Comisión Ejecutiva de Administración y Financiamiento, y presentar al Consejo Estatal un informe trimestral de los ingresos y egresos del mismo, que deberá contener la información del gasto programado y ejercido por cada una de las partidas autorizadas.
 
-V. Proponer al pleno del Consejo Estatal el nombramiento del Secretario Ejecutivo y de los Directores Ejecutivos del Instituto Morelense;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+IV. Suscribir, junto con el Secretario Ejecutivo y los presidentes de las comisiones ejecutivas, los convenios que sean necesarios con el Instituto Nacional y otras autoridades de cualquier orden de Gobierno, que se requieran para cumplimiento de las atribuciones del Instituto Morelense previa autorización del Consejo Estatal;
+
+V. (DEROGADA, P.O. 26 DE MAYO DE 2017)
 
 VI. Convocar en tiempo a los partidos políticos para que nombren a sus representantes, a efecto de integrar debidamente, el Consejo Estatal;
 
@@ -1001,15 +1217,19 @@ f) La relación de los Diputados electos que integran la Legislatura local que c
 
 IX. Garantizar el orden durante las sesiones del Consejo Estatal, así como la seguridad de sus integrantes y vigilar el desarrollo pacífico del proceso electoral y de los demás procesos de participación ciudadana, pudiendo solicitar en su caso, el auxilio de la fuerza pública;
 
-X. Proponer al Consejo Estatal, para su designación, al Consejero Presidente, los Consejeros Electorales y Secretario que integren los consejos distritales y municipales electorales;
+X. (DEROGADA, P.O. 26 DE MAYO DE 2017)
 
 XI. Recibir las solicitudes de registro de los convenios de coalición o candidatura común que presenten los partidos y someterlos al Pleno del Consejo para su aprobación;
 
-XII. Someter a la consideración del Consejo Estatal, las solicitudes de registro de candidatos a Gobernador y las de candidatos a Diputados por el principio de representación proporcional, así como las de regidores;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XII. Someter a la consideración del Consejo Estatal los dictámenes de registro de candidatos a Gobernador y las listas de candidatos a Diputados por el principio de representación proporcional, elaborados por la Comisión Ejecutiva de Organización y Partidos Políticos;
 
 XIII. Solicitar a las autoridades competentes los medios de seguridad personal para los candidatos a Gobernador que lo requieran;
 
-XIV. Vigilar el cumplimiento de los acuerdos adoptados por el propio Consejo Estatal, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XIV. Vigilar el cumplimiento de los acuerdos adoptados por el propio Consejo Estatal y garantizar el cumplimiento de los acuerdos y resoluciones emitidos por las comisiones ejecutivas, y
 
 XV. Las demás que señale este ordenamiento, determinen las autoridades federales o el Consejo Estatal le asigne.
 
@@ -1027,41 +1247,71 @@ I. Asistir con voz y voto a las sesiones ordinarias y extraordinarias del Consej
 
 II. Solicitar se convoque a sesión extraordinaria del Consejo Estatal; el Consejero Presidente atenderá la petición y, por conducto del Secretario Ejecutivo, cuando así corresponda se convocará en un plazo no mayor de veinticuatro horas;
 
-III. Formar parte de las comisiones que integre el Consejo Estatal;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-IV. Vigilar y supervisar el buen funcionamiento del Instituto Morelense, conforme a su Reglamento Interior;
+III. Formar parte de las comisiones ejecutivas que integre el Consejo Estatal, ejerciendo la representación electoral que corresponda en los casos de presidir alguna de ellas;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+IV. Vigilar y supervisar el buen funcionamiento operativo, administrativo y presupuestal del Instituto Morelense, conforme a su Reglamento Interior;
 
 V. Desempeñar las funciones que le encomiende el Consejo Estatal;
 
-VI. Cumplir y velar por el cumplimiento de los fines y acuerdos del Instituto Morelense, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-VII. Las demás que señalen la normativa, este ordenamiento y el Reglamento Interior del Instituto Morelense.
+VI. Cumplir y velar por el cumplimiento de los fines y acuerdos del Instituto Morelense;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+VII. Signar, una vez aprobadas y sin dilación alguna, en la misma sesión de su aprobación, las actas o acuerdos de las sesiones ordinarias o extraordinarias del Consejo Estatal y de las comisiones ejecutivas en las que participen, y
+
+VIII. Las demás que señalen la normativa, este ordenamiento y el Reglamento Interior del Instituto Morelense.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### Artículo 82.
 
-El Instituto Morelense designará a los integrantes del Consejo Estatal y funcionarios del propio Organismo para integrar las comisiones que se requieran en la ejecución y evaluación de los convenios generales con el Instituto Nacional y de los convenios con otras instituciones.
+El Instituto Morelense designará a los integrantes del Consejo Estatal y funcionarios del propio Organismo para integrar las comisiones ejecutivas que se requieran en la instrumentación y evaluación de los convenios generales con el Instituto Nacional y de los convenios con otras instituciones.
 
-Dichas comisiones tendrán la obligación de presentar la información al Consejo Estatal que corresponda respecto de la función asignada.
+Dichas comisiones ejecutivas tendrán la obligación de presentar la información al Consejo Estatal que corresponda respecto de la función asignada.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### Artículo 83.
 
-El Consejo Estatal conformará para el mejor desempeño de sus atribuciones, comisiones permanentes, las cuales tendrán como objetivo supervisar el desarrollo adecuado de las actividades de las diferentes direcciones y órganos técnicos del Instituto Morelense, de acuerdo a la materia encomendada.
+El Consejo Estatal conformará para el mejor desempeño de sus atribuciones, comisiones ejecutivas, las cuales tendrán como objetivo planear, organizar, dirigir y controlar el desarrollo adecuado de las actividades de las diferentes direcciones y órganos técnicos del Instituto Morelense, de acuerdo a la materia encomendada.
 
-Las comisiones permanentes con que contará el Consejo Estatal, son las siguientes:
+Las comisiones ejecutivas permanentes con que contará el Consejo Estatal, son las siguientes:
 
-I. De Organización y Partidos Políticos;
+I. De Asuntos jurídicos;
 
-II. De Capacitación y Educación Electoral, y
+II. De Organización y Partidos Políticos;
 
-III. De Administración y Financiamiento.
+III. De Capacitación Electoral y Educación Cívica;
+
+IV. De Administración y Financiamiento;
+
+V. De Participación Ciudadana;
+
+VI. De Seguimiento al Servicio Profesional Electoral Nacional,
+
+VII. De Quejas;
+
+VIII. De Transparencia;
+
+IX. De Fiscalización, y
+
+X. De Imagen y Medios de Comunicación.
 
 Cuando exista acuerdo delegatorio del Instituto Nacional, se establecerá una Comisión de Fiscalización, que asumirá las funciones contenidas en la normativa aplicable.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 84.
 
-Las comisiones permanentes se integrarán por tres Consejeros Electorales. Por mayoría de votos el pleno del Consejo Estatal determinará quién las presidirá. El titular de la Dirección Ejecutiva correspondiente realizará la función de secretario técnico de la misma y el Secretario Ejecutivo coordinará las actividades de las secretarías técnicas de las comisiones.
+Las comisiones ejecutivas permanentes y temporales se integrarán únicamente por tres Consejeros Electorales. Por mayoría calificada de votos, el pleno del Consejo Estatal determinará quién las presidirá. El titular de la Dirección Ejecutiva o unidad técnica correspondiente realizará la función de secretario técnico de la misma y el Secretario Ejecutivo coadyuvará en las actividades de las secretarías técnicas de las comisiones.
 
-El Consejo Estatal determinará la periodicidad en la participación de los consejeros electorales en las comisiones.
+El Consejo Estatal determinará la periodicidad en la participación de los consejeros electorales en las comisiones, el Consejero Presidente no podrá ser integrante de comisiones permanentes o temporales.
 
 ###### Artículo 85.
 
@@ -1077,15 +1327,73 @@ El Secretario Ejecutivo y los Directores Ejecutivos prestarán el apoyo a las co
 
 Las comisiones, para su eficiente desempeño, podrán contar con el personal operativo que autorice el Consejo Estatal de conformidad a la asignación presupuestal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 88.
 
-Las sesiones de las comisiones serán públicas y podrán participar con derecho a voz los representantes de los partidos políticos, excepto tratándose de la comisión de fiscalización, en las que no podrán participar.
+Las sesiones de las comisiones serán públicas y podrán participar con derecho a voz los representantes de los partidos políticos, excepto tratándose de las comisiones ejecutivas de fiscalización, asuntos jurídicos, quejas y la de seguimiento del servicio profesional electoral, en las que no podrán participar. Para el caso de la Comisión de Participación Ciudadana, por acuerdo de la misma, se podrán invitar a los actores políticos y sociales relacionados con la materia.
 
 En todos los asuntos que les encomienden, las comisiones deberán presentar un informe, dictamen o proyecto de resolución según sea el caso.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+###### Artículo 88 Bis.
+
+Las comisiones ejecutivas permanentes y temporales, por conducto de su Presidente cuentan para el cumplimiento de sus funciones con las siguientes atribuciones genéricas:
+
+I. Elaborar su propuesta de programa anual de actividades para que sea incluido en el Programa Operativo Anual del Instituto Morelense;
+
+II. Supervisar, vigilar y coadyuvar con las Unidades Administrativas respectivas del Instituto Morelense en el cumplimiento de sus atribuciones;
+
+III. Realizar informes y dictámenes relacionados con el ámbito de su competencia;
+
+IV. Formular observaciones y directrices a las unidades administrativas del Instituto Morelense;
+
+V. Solicitar la información necesaria a las Unidades Administrativas del Instituto Morelense, las cuales deberán remitir la información dentro del término para el cual fueran requeridas;
+
+VI. Solicitar la información necesaria a las demás comisiones ejecutivas del Instituto Morelense;
+
+VII. Solicitar información a autoridades diversas al Instituto Morelense;
+
+VIII. Presentar al Consejo Estatal, las propuestas de reforma a la normatividad interna del Instituto Morelense que le competa;
+
+IX. Presentar al Consejo Estatal un informe anual de actividades de la comisión, y presentar informes parciales cuando el Consejo Estatal así lo requiera;
+
+X. Conocer los informes que deberán ser presentados por los Titulares de las áreas administrativas en los asuntos de su competencia, conforme al calendario que anualmente apruebe la comisión;
+
+XI. Representar electoralmente a la Comisión para dar a conocer las actividades que desempeñan;
+
+XII. Ejecutar y suscribir todas aquellas acciones de carácter operativo, presupuestal y administrativas para el buen desempeño de las atribuciones de la Comisión, y
+
+XIII. Las demás que deriven de este Código, de las disposiciones reglamentarias, de los acuerdos del Consejo Estatal y de las demás disposiciones aplicables, que les resulten compatibles conforme a sus objetivos, para su mejor desarrollo, atendiendo a la naturaleza de su función.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+###### Artículo 88 Ter.
+
+Al Consejero Presidente de cada Comisión Ejecutiva, le corresponden las siguientes atribuciones:
+
+I. Presidir las sesiones adoptando las medidas que estime necesarias para el adecuado desarrollo;
+
+II. Emitir las convocatorias a sesiones y reuniones de trabajo, conjuntamente con el Secretario Técnico;
+
+III. Diferir las sesiones o reuniones de trabajo antes de su celebración, por causas que impidan su realización;
+
+IV. Declarar el inicio y término de las sesiones y reuniones de trabajo;
+
+V. Proponer a los integrantes de la Comisión Ejecutiva la participación de servidores electorales o invitados especiales, con el fin de auxiliarlos en la materia de sus funciones;
+
+VI. Solicitar al Consejo Estatal, la asignación de recursos humanos, materiales y financieros para el apoyo en el ejercicio de sus funciones y de la Comisión;
+
+VII. Dar seguimiento al cumplimiento de los acuerdos y dictámenes aprobados por el Consejo Estatal, que correspondan a la materia de la Comisión, y
+
+VIII. Las que le establezcan otras disposiciones y las que le encomiende el Consejo Estatal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 89.
 
-La Comisión de Organización y Partidos Políticos, tendrá las siguientes atribuciones:
+La Comisión Ejecutiva de Organización y Partidos Políticos, tendrá las siguientes atribuciones:
 
 I. Auxiliar al Consejo Estatal en la supervisión del cumplimiento de las obligaciones de los partidos políticos y, en general, en lo relativo a los derechos y prerrogativas de éstos;
 
@@ -1095,37 +1403,193 @@ III. Informar al Consejo Estatal de las irregularidades o incumplimiento de la n
 
 IV. Revisar el expediente y presentar a la consideración del Consejo Estatal, el proyecto de dictamen de las solicitudes del registro de las organizaciones de ciudadanos que pretenden constituirse como asociaciones o partidos políticos locales;
 
-V. Supervisar y evaluar el cumplimiento de los programas de organización electoral, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-VI. Las demás atribuciones que le confiera este Código y el Consejo Estatal.
+V. Supervisar y evaluar el cumplimiento de los programas de organización electoral;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+VI. Formular los dictámenes de registro de candidatos a Gobernador y las listas de candidatos a Diputados por el principio de representación proporcional; y
+
+VII. Las demás atribuciones que le confiera este Código y el Consejo Estatal.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### Artículo 90.
 
-La Comisión de Capacitación y Educación Electoral tendrá las siguientes atribuciones:
+La Comisión Ejecutiva de Capacitación Electoral y Educación Cívica, tendrá las siguientes atribuciones:
 
-I. Supervisar la realización de los programas y proyectos que desarrolle la Dirección Ejecutiva de Capacitación y Educación Electoral;
+I. Aprobar, supervisar y evaluar el cumplimiento de los programas, proyectos y actividades que desarrolle la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica;
 
 II. Emitir sugerencias encaminadas a la optimización de los programas y proyectos aprobados para la Dirección Ejecutiva;
 
 III. Analizar la viabilidad de implementar programas y proyectos adicionales al programa anual de actividades de la Dirección Ejecutiva en función de la disponibilidad presupuestal;
 
-IV. Elaborar y rendir al Consejo Estatal los informes y dictámenes derivados del ejercicio de sus funciones y someterlos a su conocimiento o aprobación, y
+IV. Aprobar los programas de capacitación en materia de Participación Ciudadana, así como el contenido de los materiales, manuales e instructivos de educación cívica, capacitación electoral y participación ciudadana, y
 
-V. Las demás atribuciones que le confiera este Código y el Consejo Estatal.
+V. Elaborar y rendir al Consejo Estatal los informes y dictámenes derivados del ejercicio de sus funciones y someterlos a su conocimiento o aprobación.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+###### Artículo 90 Bis.
+
+La Comisión de Participación Ciudadana tendrá las siguientes atribuciones:
+
+I. Analizar las solicitudes y emitir opinión sobre la procedencia o improcedencia de los mecanismos de participación ciudadana que le sean turnados por el Consejo Estatal;
+
+II. Prevenir, en su caso a los solicitantes, si faltara alguno de los requisitos;
+
+III. Elaborar y rendir al Consejo Estatal los informes y dictámenes derivados del ejercicio de sus funciones y someterlos a su conocimiento o aprobación;
+
+IV. Aprobar en su caso, el proyecto de convocatoria al proceso de que se trate, que deberá ser aprobado por el Consejo Estatal;
+
+V. Coadyuvar en la preparación, organización, desarrollo, realización del cómputo de votos y declaración de los resultados de los mecanismos de participación ciudadana que correspondan, en los términos que determine la normativa y el presente Código;
+
+VI. Impulsar y garantizar la participación ciudadana, velando por la autenticidad y efectividad del mismo;
+
+VII. Asesorar de manera permanente a los Gobiernos Estatal y Municipal en materias relacionadas con la participación ciudadana, especialmente en lo relacionado con el marco jurídico y el diseño de las políticas públicas;
+
+VIII. Auxiliar en la definición de estrategias que motiven a la ciudadanía para presentar iniciativas para el mejoramiento de la participación ciudadana y promover en todo el Estado, la cultura y la formación para dicha participación;
+
+IX. Aprobar la documentación y los materiales relativos a la organización de los mecanismos de participación ciudadana, conforme a la normativa aplicable;
+
+X. Aprobar el proyecto de dictamen relativo al marco geográfico para la realización de los procedimientos de participación ciudadana;
+
+XI. Aprobar la elaboración de los materiales, manuales e instructivos de educación y capacitación correspondientes a los mecanismos de participación ciudadana;
+
+XII. Recibir, atender, coordinar, aprobar y supervisar todas las actividades relacionadas con los mecanismos de participación ciudadana, y
+
+XIII. Aprobar las políticas y programas de participación ciudadana y proponer al Instituto Morelense las modificaciones y ampliaciones que considere pertinentes.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+###### Artículo 90 Ter.
+
+La Comisión Ejecutiva de Seguimiento del Servicio Profesional Electoral, tendrá las siguientes atribuciones:
+
+I. Garantizar la correcta implementación y funcionamiento de los mecanismos del Servicio Profesional Electoral, conforme a las disposiciones constitucionales, legales y estatutarias, así como sujetos a la disponibilidad presupuestal, y
+
+II. Supervisar en coordinación con el Órgano de Enlace que para tal efecto implemente el Consejo Estatal, el correcto desarrollo de los mecanismos de Selección, Ingreso, Capacitación, Profesionalización, Promoción, Evaluación, Cambios de Adscripción y Rotación, Permanencia, Incentivos y Disciplina del personal adscrito al Instituto Morelense.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+###### Artículo 90 Quáter.
+
+Son atribuciones de la Comisión Ejecutiva de Asuntos Jurídicos las siguientes:
+
+I. Conocer de los proyectos de reglamentos, lineamientos, directrices y demás disposiciones de orden regulatorio del Instituto Morelense y dictaminarlos para conocimiento y, en su caso, aprobación del Consejo Estatal;
+
+II. Dar la asesoría legal en asuntos de su competencia, que le sea requerida por los Órganos del Instituto Morelense;
+
+III. Conocer y dictaminar los anteproyectos de reformas o adiciones a la legislación en materia electoral en el Estado, que sean del conocimiento del Instituto Morelense;
+
+IV. Vigilar conforme a las disposiciones legales o reglamentarias aplicables, la adecuada tramitación de los medios de impugnación que sean presentados ante el Instituto, en contra de los dictámenes, acuerdos y resoluciones de los Órganos del Instituto Morelense;
+
+V. Elaborar el catálogo de acuerdos y disposiciones que dicte el Consejo Estatal;
+
+VI. Conocer y dictaminar los requisitos que deben cumplir los aspirantes a ocupar cargos dentro del Instituto Morelense;
+
+VII. Elaborar y proponer al Consejo Estatal, los proyectos de reglamentos internos y demás normatividad que sea necesaria para el buen funcionamiento del Instituto Morelense;
+
+VIII. Atender las consultas de las diversas Comisiones Ejecutivas del Instituto Morelense, para la elaboración de proyectos de dictámenes, acuerdos y resoluciones, que deban ser sometidos a consideración del Consejo Estatal;
+
+IX. Dictaminar los proyectos (sic) las convocatorias públicas que tenga que expedir el Instituto Morelense;
+
+X. Atender y elaborar los proyectos de acuerdo en los que se dé respuesta a las consultas formuladas por los partidos políticos, candidatos y candidatos independientes, respecto de los asuntos de la competencia del Consejo Estatal, y someterlos al análisis, discusión y aprobación en su caso del órgano superior de dirección, y
+
+XI. Atender las consultas realizadas respecto a la aplicación del Código que sean presentadas al Instituto Morelense, a fin de formar criterios de interpretación y en su caso aplicación legal.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Artículo 90 Quintus. Son atribuciones de la Comisión Ejecutiva de Quejas las siguientes:
+
+I. Recibir, valorar y dictaminar los proyectos de resolución que presente la Secretaría Ejecutiva del Instituto Morelense;
+
+II. Someter a la consideración del Consejo Estatal los proyectos de resolución en los que se proponga el desechamiento o no procedencia de la denuncia;
+
+III. Someter a consideración del Consejo Estatal los dictámenes recaídos a los proyectos de resolución por conducto de su Presidente;
+
+IV. Recibir, sustanciar y elaborar el dictamen del procedimiento de queja o denuncia que sean presentadas, en términos del reglamento correspondiente;
+
+V. Establecer sus procedimientos y normas de trabajo acorde a lo que disponen los procedimientos ordinario y especial sancionador;
+
+VI. Determinar dentro de los plazos previstos en la normativa, las medidas cautelares que sean necesarias, a fin de lograr la cesación de los actos denunciados y las consecuencias de los mismos;
+
+VII. Solicitar a la Secretaría Ejecutiva y a las áreas administrativas del Instituto Morelense, el auxilio que corresponda, para la substanciación del procedimiento, el desarrollo de la investigación y la obtención de las pruebas que resulten necesarias, y
+
+VIII. Conocer del informe circunstanciado que se remita al Tribunal Electoral, producto del desahogo del procedimiento ordinario o especial sancionador.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Artículo 90 Sextus. Son atribuciones de la Comisión Ejecutiva de Imagen y Medios de Comunicación las siguientes:
+
+I. Supervisar y vigilar el cumplimiento de los objetivos contenidos en el programa presupuestario del área de Comunicación Social;
+
+II. Coadyuvar con el área de Comunicación Social para el mejor desempeño de sus funciones, mediante la emisión de recomendaciones;
+
+III. Proponer la inclusión o exclusión de objetivos y actividades en el programa presupuestario respectivo;
+
+IV. Formular informes y dictámenes relacionados con el ámbito de su competencia;
+
+V. Proponer al Consejo Estatal, la estrategia de imagen y comunicación social que sea necesaria para la difusión de las actividades y funciones que realiza el Instituto Morelense y vigilar su cumplimiento;
+
+VI. Someter al Consejo Electoral la aprobación de las políticas y estrategias para el manejo y atención a los medios de comunicación que dan cobertura al Instituto Morelense y mantener permanente relación con sus representantes;
+
+VII. Coadyuvar con la gestión de la participación de académicos de la materia electoral y partidos políticos, en la producción de editoriales del Instituto Morelense;
+
+VIII. Analizar y emitir opinión respecto del contenido e imagen de campañas informativas, formativas y de difusión en materia de participación ciudadana, y
+
+IX. Establecer los vínculos necesarios con instituciones, dependencias públicas y organismos privados que sean susceptibles de proporcionar apoyo a las acciones del Instituto, en materia de comunicación social.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Artículo 90 Septimus. Además de las mencionadas en el artículo 89 de éste Código, la Comisión Ejecutiva de Organización y Partidos Políticos, tendrá las siguientes atribuciones:
+
+I. Auxiliar al Consejo Estatal en la supervisión del cumplimiento de las obligaciones de los partidos políticos y, en general, en lo relativo a los derechos y prerrogativas de éstos;
+
+II. Presentar a la consideración del Consejo Estatal el proyecto de declaratoria de pérdida de registro de los partidos políticos locales que se encuentren en cualquiera de los supuestos determinados por las normas constitucionales y legales en el ámbito electoral;
+
+III. Informar al Consejo Estatal de las irregularidades o incumplimiento de la normatividad aplicable en que hayan incurrido los partidos políticos;
+
+IV. Revisar el expediente y presentar a la consideración del Consejo Estatal, el proyecto de dictamen de las solicitudes del registro de las organizaciones de ciudadanos que pretenden constituirse como asociaciones o partidos políticos locales;
+
+V. Aprobar, supervisar y evaluar el cumplimiento de los programas, proyectos y actividades de organización electoral;
+
+VI. Proponer al Consejo Estatal, para su designación, al Consejero Presidente, los Consejeros Electorales y Secretario que integren los consejos distritales y municipales electorales, y
+
+VII. Aprobar los formatos de los materiales electorales y de los procesos de participación ciudadana.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Artículo 90 Octavus. La Comisión Ejecutiva de Transparencia, tendrá las siguientes atribuciones:
+
+I. Someter a consideración del Consejo Estatal la implementación de medidas para la oportuna ejecución de actividades de la Unidad de Transparencia;
+
+II. Vigilar por conducto de la Unidad de Transparencia, que se ponga a disposición de la población la información del Instituto Morelense, así como su debida actualización;
+
+III. Conocer y dictaminar el informe anual de actividades de la Unidad de Transparencia del Instituto Morelense;
+
+IV. Emitir recomendaciones a la Unidad de Transparencia para su adecuado funcionamiento y cumplimiento a la normativa en la materia, y
+
+V. Conocer y dictaminar los lineamientos de transparencia, acceso a la información y protección de datos personales del Instituto Morelense.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### Artículo 91.
 
-La Comisión de Administración y Financiamiento tendrá las siguientes atribuciones:
+La Comisión Ejecutiva de Administración y Financiamiento tendrá las siguientes atribuciones:
 
-I. Supervisar la realización de los programas y proyectos que desarrolle la Dirección Ejecutiva de Administración y Financiamiento;
+I. Aprobar y supervisar los programas y proyectos que desarrolle la Dirección Ejecutiva de Administración y Financiamiento;
 
 II. Emitir sugerencias encaminadas a la optimización de los programas y proyectos aprobados para la Dirección Ejecutiva;
 
 III. Analizar la viabilidad de implementar programas y proyectos adicionales al programa anual de actividades de la Dirección Ejecutiva, en función de la asignación presupuestal;
 
-IV. Elaborar o rendir al Consejo Estatal los informes o dictámenes derivados del ejercicio de sus funciones y someterlos a su conocimiento o aprobación, y
+IV. Elaborar o rendir al Consejo Estatal los informes o dictámenes derivados del ejercicio de sus funciones y someterlos a su conocimiento o aprobación;
 
-V. Las demás atribuciones que le confiera este Código y el Consejo Estatal.
+V. Analizar, discutir, modificar y aprobar el anteproyecto anual del presupuesto de egresos del Instituto que le sea remitido por la Secretaría Ejecutiva para la posterior aprobación por parte del Consejo Estatal, y
+
+VI. Elaborar el proyecto de manual de organización y el catálogo de cargos y puestos de la rama administrativa del Instituto y someterlo para su aprobación al Consejo Estatal.
 
 ###### Artículo 92.
 
@@ -1197,11 +1661,13 @@ b) El titular de la Unidad Técnica de Fiscalización fungirá como Secretario T
 
 ### CAPÍTULO VII. DE LA SECRETARÍA EJECUTIVA
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 96.
 
-El Instituto Morelense tendrá un Secretario Ejecutivo, que también lo será del Consejo Estatal, y su designación será por propuesta del Consejero Presidente ante el pleno y se requerirá el voto de las dos terceras partes de sus integrantes para su aprobación.
+El Instituto Morelense tendrá un Secretario Ejecutivo, que también lo será del Consejo Estatal, y su designación será por propuesta de la mayoría simple de los consejeros electorales del Consejo Estatal, con la aprobación calificada de los Consejeros Electorales.
 
-De la misma forma, el Secretario Ejecutivo podrá ser removido del cargo, a propuesta del Presidente del Consejo Estatal o de las dos terceras partes de los integrantes del pleno.
+El Titular de la Secretaría Ejecutiva es responsable administrativa y penalmente de la documentación que obre en su poder y la que se expida en el ejercicio de su encargo, incluyendo aquella que se presente ante órganos jurisdiccionales.
 
 ###### Artículo 97.
 
@@ -1217,15 +1683,27 @@ IV. Tener una residencia efectiva en el Estado de seis años anteriores al día 
 
 V. Contar con credencial para votar con fotografía;
 
-VI. Gozar de buena reputación, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-VII. No ser ministro de culto religioso alguno.
+VI. Gozar de buena reputación;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+VII. No haber sido registrado como precandidato o candidato a ningún cargo de elección popular, ni haberlo desempeñado por cualquier circunstancia en los cuatro años anteriores a su designación;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+VIII. No haber ejercido cargos directivos a nivel nacional, estatal, distrital o municipal, o haber sido representante de partido político ante cualquier órgano electoral de algún partido político en cuatro años anteriores a su designación, y
+
+IX. No ser ministro de culto religioso alguno.
 
 ###### Artículo 98.
 
 Son atribuciones del Secretario Ejecutivo del Instituto Morelense:
 
-I. En lo general, auxiliar al Consejo Estatal, en la conducción, la administración y la supervisión para el desarrollo adecuado de los órganos directivos y técnicos del Instituto Morelense, teniendo el carácter de apoderado general para pleitos y cobranzas y actos de administración y de dominio en los términos del artículo 2008 del Código Civil vigente en el Estado, pudiendo otorgar mandatos y revocarlos, informando oportunamente al Consejo Estatal;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+I. En lo general, auxiliar al Consejo Estatal ya (sic) las comisiones ejecutivas en la conducción, la administración y la supervisión para el desarrollo adecuado de los órganos directivos y técnicos del Instituto Morelense, teniendo el carácter de apoderado general para pleitos y cobranzas y actos de administración y de dominio en los términos del artículo 2008 del Código Civil vigente en el Estado, pudiendo otorgar mandatos y revocarlos, informando oportunamente al Consejo Estatal;
 
 II. Para ejercer actos de dominio, el Secretario deberá contar con la autorización del Consejo Estatal, la cual deberá constar en acuerdo;
 
@@ -1235,7 +1713,9 @@ IV. Actuar en las sesiones con el carácter de Secretario, teniendo derecho de v
 
 V. Auxiliar al Consejo Estatal, al Consejero Presidente y a los Consejeros Electorales en el ejercicio de sus atribuciones;
 
-VI. Dar cuenta al Consejo Estatal de los informes y proyectos de dictamen o resolución de las comisiones y coordinar el trabajo en las mismas;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+VI. Dar cuenta al Consejo Estatal de los informes y proyectos de dictamen o resolución de las comisiones ejecutivas y coadyuvar el trabajo en las mismas;
 
 VII. Dar cuenta al Consejo Estatal de los informes que sobre el desarrollo de la jornada electoral, reciba de los consejos distritales y municipales electorales;
 
@@ -1243,9 +1723,13 @@ VIII. Recibir copias simples o certificadas de los expedientes de todas las elec
 
 IX. Difundir la estadística electoral seccional, municipal, distrital y estatal, una vez calificadas las elecciones;
 
-X. Presentar al Consejero Presidente, para la aprobación del Consejo Estatal, los proyectos de convenios que pueda celebrar con autoridades federales, en relación con la información y documentos que habría de aportar el Registro Federal de Electores para los procesos locales, así como también aquellos que puedan celebrarse con instituciones académicas u organismos jurisdiccionales para impartir cursos de formación, capacitación y actualización;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-XI. Ejercer las facultades y cumplir las obligaciones que al Instituto Morelense correspondan en los convenios que en materia electoral celebre con el Instituto Nacional, con otros Organismos Públicos Electorales del País y las demás autoridades de cualquier orden de gobierno;
+X.- Presentar al Consejero Presidente y a las comisiones ejecutivas para la aprobación del Consejo Estatal, los proyectos de convenios que pueda celebrar con autoridades federales, en relación con la información y documentos que habría de aportar el Registro Federal de Electores para los procesos locales, así como también aquellos que puedan celebrarse con instituciones académicas u organismos jurisdiccionales para impartir cursos de formación, capacitación y actualización;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XI. Ejercer en conjunción con las comisiones ejecutivas las facultades para el cumplimiento de las obligaciones que al Instituto Morelense correspondan en los convenios que en materia electoral celebre con el Instituto Nacional, con otros Organismos Públicos Electorales del País y las demás autoridades de cualquier orden de gobierno;
 
 XII. Recibir de los partidos políticos y candidatos independientes las solicitudes de registro de candidatos y someterlas para su aprobación al pleno;
 
@@ -1253,7 +1737,9 @@ XIII. Revisar y validar, por conducto del área jurídica del Instituto, los pro
 
 XIV. Informar, por la vía de comunicación más expedita, a los consejeros distritales y municipales acerca del registro que de manera directa o supletoria se haga ante el Consejo Estatal;
 
-XV. Preparar los proyectos de documentación y materiales electorales, incluidos los formatos de cada una de las actas que se vayan a utilizar para la jornada electoral y ejecutar los acuerdos del Consejo Estatal relativos a su impresión y distribución, así como los necesarios para los procesos de participación ciudadana;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XV. Preparar, con la intervención de la comisión ejecutiva respectiva, los proyectos de documentación y materiales electorales, incluidos los formatos de cada una de las actas que se vayan a utilizar para la jornada electoral y ejecutar los acuerdos del Consejo Estatal relativos a su impresión y distribución, así como los necesarios para los procesos de participación ciudadana;
 
 XVI. Recabar de los consejos distritales y municipales electorales, copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral;
 
@@ -1261,23 +1747,33 @@ XVII. Instalar por acuerdo del Consejo Estatal, el Programa de Resultados Electo
 
 XVIII. Integrar los expedientes con la documentación necesaria a fin de que el Consejo Estatal efectúe los cómputos y realice la declaración de validez, así como expedir las constancias que, conforme a este Código, deba realizar el Consejo Estatal;
 
-XIX. Preparar para la aprobación del Consejo Estatal, los proyectos de calendario para las elecciones ordinarias, extraordinarias o procedimientos de participación ciudadana, cuando estos deban celebrarse;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XIX. Preparar para la aprobación del Consejo Estatal, los proyectos de calendario para las elecciones ordinarias, extraordinarias o procedimientos de participación ciudadana, cuando estos deban celebrarse, previa autorización de las comisiones ejecutivas correspondientes;
 
 XX. Recibir y sustanciar, según sea el caso, los recursos presentados, que sean competencia del Consejo Estatal y, en su caso, preparar el proyecto de resolución en donde se impongan las sanciones cuando así corresponda en los términos que establece este Código, debiendo informarlo al consejo en la sesión inmediata siguiente;
 
-XXI. Sustanciar el procedimiento de pérdida del registro de los partidos políticos que se encuentre en los supuestos previstos en este Código, hasta dejarlo en estado de resolución, la cual será dictada por el Consejo Estatal;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XXI. Sustanciar con la comisión ejecutiva respectiva, el procedimiento de pérdida del registro de los partidos políticos que se encuentre (sic) en los supuestos previstos en este Código, hasta dejarlo en estado de resolución, la cual será dictada por el Consejo Estatal;
 
 XXII. Informar al Consejo Estatal de las resoluciones que le competa cumplimentar, dictadas por el Tribunal Electoral u otros órganos jurisdiccionales competentes;
 
-XXIII. Dirigir y supervisar la administración y finanzas del Instituto Morelense, con estricto apego a las partidas presupuestales asignadas al mismo;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-XXIV. Someter a la consideración del pleno del Consejo Estatal, el anteproyecto anual de presupuesto de egresos del Instituto Morelense;
+XXIII. Dirigir y supervisar la administración y finanzas del Instituto Morelense, con estricto apego a las partidas presupuestales asignadas al mismo, con la intervención de la comisión ejecutiva que corresponda;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XXIV. Someter a la consideración del pleno del Consejo Estatal, el anteproyecto anual de presupuesto de egresos del Instituto Morelense, una vez autorizado por la comisión ejecutiva que corresponda;
 
 XXV. Proveer a los órganos del Instituto Morelense de los elementos necesarios para el cumplimiento de sus funciones;
 
 XXVI. Dar cumplimiento a los acuerdos del Consejo Estatal respecto a la designación o remoción de los Directores Ejecutivos del Instituto Morelense; así como vigilar, dirigir y coordinar las funciones del personal del Instituto;
 
-XXVII. Elaborar las propuestas del personal que se incorpore a las comisiones;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XXVII. Elaborar las propuestas del personal que se incorpore a las comisiones ejecutivas a petición de éstas;
 
 XXVIII. Llevar el archivo del Instituto Morelense a través del área designada para tal efecto;
 
@@ -1287,19 +1783,51 @@ XXX. Llevar el registro de los representantes de los partidos políticos acredit
 
 XXXI. Expedir copias certificadas previo cotejo de todos aquellos documentos o constancias que obren en los archivos del Instituto Morelense a los legalmente interesados;
 
-XXXII. Coordinar y supervisar el cumplimiento de los programas y actividades del Instituto Morelense;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XXXII. Coadyuvar con las comisiones ejecutivas en la supervisión del cumplimiento de los programas y actividades del Instituto Morelense;
 
 XXXIII. Proveer lo necesario a fin de que se hagan oportunamente, las publicaciones que ordena este Código y las que disponga el Consejo Estatal;
 
-XXXIV. Preparar la documentación relativa a las propuestas de ciudadanos para los cargos de Consejero Presidente, Consejeros Electorales y Secretario de los Consejos Distritales y Municipales;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-XXXV. Presentar para la aprobación del Consejo Estatal los programas anuales de las Direcciones Ejecutivas y demás actividades a desarrollar por el Instituto Morelense;
+XXXIV. Auxiliar a la comisión ejecutiva que corresponda en la preparación de la documentación relativa a las propuestas de ciudadanos para los cargos de Consejero Presidente, Consejeros Electorales y Secretario de los Consejos Distritales y Municipales;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XXXV. Presentar para la aprobación del Consejo Estatal los programas anuales de las Direcciones Ejecutivas y demás actividades a desarrollar por el Instituto Morelense, una vez aprobadas por la comisión ejecutiva respectiva;
 
 XXXVI. Informar a los distintos órganos y direcciones del Instituto Morelense sobre los acuerdos adoptados por el Consejo Estatal para su conocimiento y atención general;
 
-XXXVII. Ejercer la función de oficialía electoral, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-XXXVIII. Las demás que señale este Código, le asigne el Consejero Presidente o el Consejo Estatal.
+XXXVII. Ejercer la función de oficialía electoral;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XXXVIII. Coordinar las políticas y Programas relativos al Personal de la Rama Administrativa del Instituto Morelense;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XXXIX. Expedir los nombramientos del personal del Servicio, que haya acordado el Consejo Estatal previamente, con base en los procedimientos establecidos en el Reglamento Interior;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XL. Proponer a las comisiones ejecutivas correspondientes, los tabuladores y salarios aplicables al personal del Instituto Morelense, para que estas a su vez, remitan dicha propuesta para su aprobación al Consejo Estatal;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XLI. Proponer a la Comisión de Administración y Financiamiento, los cargos y puestos que deberán integrar el Catálogo de Cargos y Puestos de la rama administrativa, y ésta a su vez, remitir dicha propuesta al Consejo Estatal Electoral;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XLII. Facilitar, a petición del órgano de enlace, el apoyo de diversas áreas del Instituto para la implementación de las vías de ingreso al Servicio Profesional Electoral Nacional;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XLIII. Ser autoridad resolutora en los Procedimientos Laborales Disciplinarios, y
+
+XLIV. Las demás que señale este Código, le asigne el Consejero Presidente o el Consejo Estatal.
 
 ### CAPÍTULO VIII. DE LAS DIRECCIONES EJECUTIVAS
 
@@ -1309,7 +1837,9 @@ El Instituto Morelense contará con las siguientes Direcciones Ejecutivas:
 
 I. Dirección Ejecutiva de Organización y Partidos Políticos;
 
-II. Dirección Ejecutiva de Capacitación y Educación Electoral, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+II. Dirección Ejecutiva de Capacitación Electoral, Educación Cívica y Participación Ciudadana;
 
 III. Dirección Ejecutiva de Administración y Financiamiento.
 
@@ -1317,23 +1847,25 @@ Como titular de cada una de las direcciones ejecutivas habrá un Director Ejecut
 
 Los Directores Ejecutivos deberán cubrir los mismos requisitos del artículo 97 excepto lo señalado en la fracción III de dicho artículo, pero deberán de contar con estudios de licenciatura y cédula profesional, con una antigüedad mínima de 5 años, expedida por la autoridad legalmente facultada para ello, y contar con experiencia que les permita el desempeño de sus funciones.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 100.
 
 Son atribuciones de la Dirección Ejecutiva de Organización y Partidos Políticos las siguientes:
 
 I. Apoyar la integración e instalación y coordinar el funcionamiento de los consejos distritales y municipales electorales;
 
-II. Elaborar los formatos de los materiales electorales y de los procesos de participación ciudadana, para someterlos por conducto del Secretario Ejecutivo a la aprobación del Consejo Estatal;
+II. Diseñar los formatos y modelos de la documentación y materiales electorales a emplearse en los procesos electorales; de acuerdo a los lineamientos y criterios emitidos por el Instituto Nacional; para someterlos por conducto del Secretario Ejecutivo a la aprobación de la comisión ejecutiva respectiva;
 
-III. En base a los lineamientos que para tal efecto emita el Instituto Nacional, proveer lo necesario para la impresión y distribución de la documentación y materiales electorales en los plazos establecidos por este Código, así como los necesarios para los procesos de participación ciudadana, para someterlos por conducto del Secretario Ejecutivo a la aprobación del Consejo Estatal;
+III. Con base en los lineamientos que para tal efecto emita el Instituto Nacional, proveer lo necesario para la impresión y distribución de la documentación y materiales electorales en los plazos establecidos por este Código, así como los necesarios para los procesos de participación ciudadana, para someterlos por conducto del Secretario Ejecutivo a la aprobación del Consejo Estatal;
 
-IV. Recabar de los consejos distritales y municipales electorales copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral;
+IV. Recabar de los consejos distritales y municipales electorales copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral y, en su caso, con los mecanismos de participación ciudadana;
 
 V. Recabar la documentación necesaria e integrar los expedientes a fin de que el Consejo Estatal efectúe los cómputos que conforme a este Código debe realizar;
 
 VI. Llevar la estadística de las elecciones estatales, así como de los procesos de participación ciudadana;
 
-VII. Registrar y turnar al Consejo Estatal las solicitudes que formulen los ciudadanos que pretendan constituir partidos políticos locales, y realizar las funciones correspondientes;
+VII. Registrar y turnar a la comisión ejecutiva respectiva las solicitudes que formulen los ciudadanos que pretendan constituir partidos políticos locales, y realizar las funciones correspondientes;
 
 VIII. Inscribir en el libro respectivo, el registro de los partidos políticos locales y la acreditación de la vigencia de los partidos políticos nacionales, así como los convenios de coalición, candidatura común, fusión, pérdida y cancelación del registro;
 
@@ -1349,23 +1881,27 @@ XIII. Llevar los libros de registro de los candidatos propietarios y suplentes a
 
 XIV. Acordar con el Secretario Ejecutivo los asuntos de su competencia;
 
-XV. Presentar al Consejo Estatal, a través de la Secretaria Ejecutiva, su programa anual de actividades;
+XV. Presentar al Consejo Estatal, a través de la Secretaria Ejecutiva, su programa anual de actividades, una vez aprobado por la comisión ejecutiva respectiva;
 
-XVI. Coadyuvar en la renovación de las autoridades auxiliares municipales y recabar toda la información necesaria relativa a las mismas, en términos de lo dispuesto por la Ley Orgánica Municipal del Estado de Morelos, y
+XVI. Coadyuvar en la renovación de las autoridades auxiliares municipales y recabar toda la información necesaria relativa a las mismas, en términos de lo dispuesto por la Ley Orgánica Municipal del Estado de Morelos;
 
-XVII. Las demás que le confiera este Código, el Consejero Presidente o el Consejo Estatal.
+XVII. Desarrollar las actividades para garantizar el derecho de los ciudadanos a realizar labores de observación electoral en la Entidad, de acuerdo con la normativa que emita el Instituto Nacional, y
+
+XVIII. Las demás que le confiera este Código, el Consejero Presidente, el Consejo Estatal, así como la comisión ejecutiva respectiva.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### Artículo 101.
 
-Son atribuciones de la Dirección Ejecutiva de Capacitación y Educación Electoral las siguientes:
+Son atribuciones de la Dirección Ejecutiva de Capacitación Electoral, Educación Cívica y Participación Ciudadana las siguientes:
 
-I. Elaborar y proponer al Consejo Estatal los programas de educación cívica, los cuales deberán estar contenidos en su programa anual de actividades;
+I. Elaborar y proponer al Consejo Estatal los programas de educación cívica y participación ciudadana, los cuales deberán estar contenidos en su programa anual de actividades, mismos que previamente deberán contar con la aprobación de las Comisiones Ejecutivas de Capacitación Electoral y Educación Cívica, y la de Participación Ciudadana;
 
-II. Elaborar y proponer al Consejo Estatal los programas de capacitación electoral que desarrollen los órganos del Instituto Morelense, los cuales deberán estar contenidos en su programa anual de actividades; en el caso de los relativos a los funcionarios de la mesa directiva de casilla cuando esta función sea delegada al Instituto Morelense, estos programas deberán apagarse (sic) a lo señalado por el Instituto Nacional;
+II. Elaborar y proponer al Consejo Estatal previa aprobación de la Comisión Ejecutiva de Capacitación Electoral y Educación Cívica los programas de capacitación electoral que desarrollen los órganos del Instituto Morelense, los cuales deberán estar contenidos en su programa anual de actividades; en el caso de los relativos a los funcionarios de la mesa directiva de casilla cuando esta función sea delegada al Instituto Morelense, estos programas deberán apegarse a lo señalado por el Instituto Nacional;
 
-III. Coordinar, vigilar y ejecutar el cumplimiento de los programas a que se refiere las fracciones I y II del presente artículo;
+III. Coordinar, vigilar y ejecutar el cumplimiento de los programas a que se refiere (sic) las fracciones I y II del presente artículo;
 
-IV. Preparar el material didáctico y los instructivos electorales;
+IV. Preparar el material didáctico y los instructivos electorales y para los procesos de participación ciudadana, mismos que deberán contar con la aprobación de las Comisiones Ejecutivas de Capacitación Electoral y Educación Cívica, y la de Participación Ciudadana;
 
 V. Orientar a los ciudadanos para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
 
@@ -1375,9 +1911,19 @@ VII. Acordar con el Secretario Ejecutivo los asuntos de su competencia;
 
 VIII. Desarrollar las actividades para garantizar el derecho de los ciudadanos a realizar labores de observación electoral en la Entidad, de acuerdo con los lineamientos y criterios que emita el Instituto Nacional;
 
-IX. Presentar al Consejo Estatal, a través de la Secretaria Ejecutiva, su programa anual de actividades, y
+IX. Presentar al Consejo Estatal, a través de la Secretaria Ejecutiva, su programa anual de actividades, mismo que previamente deberá contar con la aprobación de las Comisiones Ejecutivas de Capacitación Electoral y Educación Cívica, y la de Participación Ciudadana;
 
-X. Las demás que le confiera este Código, el Consejero Presidente o el Consejo Estatal.
+X. Llevar a cabo la organización y desarrollo de los mecanismos de participación ciudadana, conforme a la ley de la materia;
+
+XI. Llevar a cabo los procesos electivos de los órganos de participación ciudadana, conforme a la ley de la materia;
+
+XII. Elaborar en coordinación con la Dirección Ejecutiva de Organización y Partidos Políticos la documentación y los materiales relativos a la organización de los mecanismos de participación ciudadana, conforme a la normativa aplicable;
+
+XIII. Elaborar en coordinación con la Dirección Ejecutiva de Organización y Partidos Políticos, el proyecto de dictamen relativo al marco geográfico para la realización de los procedimientos de participación ciudadana;
+
+XIV. Elaborar los materiales, manuales e instructivos de educación y capacitación correspondientes a los mecanismos de participación ciudadana, y
+
+XV. Las demás que le confiera este Código, el Consejero Presidente, el Consejo Estatal, así como la comisión ejecutiva respectiva.
 
 ###### Artículo 102.
 
@@ -1387,13 +1933,17 @@ I. Aplicar las políticas, normas y procedimientos para la administración de lo
 
 II. Organizar, dirigir y controlar la administración de los recursos humanos, materiales y financieros, así como la prestación de los servicios generales en el Instituto Morelense;
 
-III. Formular la propuesta de anteproyecto del presupuesto anual del Instituto Morelense;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+III. Formular la propuesta de anteproyecto del presupuesto anual del Instituto Morelense, para ser sometida a la consideración de la Comisión Ejecutiva de Administración y Financiamiento, y una vez aprobada se turne al pleno del Consejo Estatal;
 
 IV. Establecer y operar los sistemas administrativos para el ejercicio y control presupuestales;
 
 V. Atender las necesidades administrativas de los órganos del Instituto Morelense;
 
-VI. Organizar el reclutamiento, formación y desarrollo profesional del personal, mismo que presentará al Secretario Ejecutivo para su aprobación;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+VI. Organizar el reclutamiento, formación y desarrollo profesional del personal perteneciente a la rama administrativa, mismo que presentará a la Comisión Ejecutiva de Administración y Finanzas para su revisión, y posteriormente, será puesto para aprobación del Consejo Estatal.
 
 VII. Cumplir y hacer cumplir las normas y procedimientos del Servicio Profesional Electoral Nacional;
 
@@ -1403,27 +1953,121 @@ IX. Suministrar a los partidos políticos el financiamiento público al que teng
 
 X. Llevar a cabo los trámites necesarios para que los partidos políticos puedan acceder a las prerrogativas y financiamiento público señaladas en este Código;
 
-XI. Formular los proyectos de reglamentos respectivos, así como los manuales de organización y procedimientos;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-XII. Presentar al Consejo Estatal, a través de la Secretaria Ejecutiva, su programa anual de actividades;
+XI. Formular los proyectos de reglamentos respectivos, así como los manuales de organización y procedimientos, para que sean sometidos a revisión de la Comisión Ejecutiva de Administración y Financiamiento, y se turnen para aprobación al pleno del Consejo Estatal;
 
-XIII. Elaborar y proponer al Consejo Estatal, a través de la Secretaría Ejecutiva, el programa anual de actividades del Instituto Morelense, previa consulta con las Direcciones Ejecutivas y demás áreas, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-XIV. Las demás que le confiera este Código, el Consejero Presidente o el Consejo Estatal.
+XII. Presentar al Consejo Estatal, a través de la Secretaria Ejecutiva, su programa anual de actividades, una vez que sea aprobado por la Comisión Ejecutiva de Administración y Financiamiento;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XIII. Elaborar y proponer al Consejo Estatal, a través de la Secretaría Ejecutiva, el programa anual de actividades del Instituto Morelense, previa consulta con las Direcciones Ejecutivas y demás áreas, una vez que sea aprobado por la Comisión Ejecutiva de Administración y Financiamiento, y
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XIV. Las demás que le confiera este Código, el Consejero Presidente, el Consejo Estatal, así como la comisión ejecutiva respectiva.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+###### Artículo 102 Bis.
+
+El Órgano interno de control del Instituto Morelense cuenta con autonomía técnica y de gestión, y tendrá a su cargo la fiscalización de todos los ingresos y egresos del Instituto Morelense.
+
+El titular del Órgano Interno de Control será designado por el Congreso del Estado con el voto de las dos terceras partes de los miembros de la legislatura, previa convocatoria pública que éste emita.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+###### Artículo 102 Ter.
+
+Para ser titular del Órgano Interno de Control del Instituto Morelense, deberá cumplir con los siguientes requisitos:
+
+I. Poseer título y cédula profesional de contador público o licenciado en derecho expedido por institución mexicana facultada para ello;
+
+II. Acreditar experiencia mínima de cinco años en las materias de fiscalización, transparencia o rendición de cuentas, y
+
+III. No haber sido Consejero Electoral en los cinco años inmediatos anteriores a la fecha de su designación.
+
+El órgano Interno de Control tendrá el nivel de una dirección ejecutiva del Instituto Morelense.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+###### Artículo 102 Quáter.
+
+Al Titular del Órgano Interno de Control le corresponde el despacho de los asuntos siguientes:
+
+I. Elaborar y remitir a la Presidencia del Instituto Morelense su programa anual de actividades, para ser incluido en el programa operativo anual del mismo;
+
+II. Elaborar el proyecto de presupuesto del Órgano Interno;
+
+III. Ejecutar su programa anual de actividades y supervisar su cumplimiento;
+
+IV. Elaborar el programa operativo de las auditorías internas, en el que se establecerán los objetivos en cada caso, así como vigilar su cumplimiento;
+
+V. Dar seguimiento a las recomendaciones que, como resultado de las auditorías internas, se hayan formulado a los órganos del Instituto Morelense;
+
+VI. Inspeccionar el correcto ejercicio del gasto y la aplicación estricta de las partidas presupuestales que lo integren, así como la administración del patrimonio del Instituto Morelense; y opinar sobre el ejercicio y los métodos de control utilizados en el mismo, en apego a la normativa aplicable;
+
+VII. Participar en los actos de entrega-recepción se (sic) los servidores públicos, de mandos medios y superiores del Instituto Morelense, con motivo de su separación del cargo, en términos de la normativa aplicable;
+
+VIII. Participar en los procedimientos del comité del Instituto Morelense en materia de adquisiciones, arrendamientos, servicios, enajenaciones y obra pública, vigilando que se cumplan los ordenamientos aplicables;
+
+IX. Aplicar las acciones administrativas y legales que se deriven de los resultados de las auditorias;
+
+X. Formular los anteproyectos de los manuales de organización y procedimientos del Órgano Interno de Control, para lo que considerará las variables de los programas operativos anuales del Instituto, y
+
+XI. Las demás que se deriven del presente Código.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Artículo 102 Quintus. El titular del Órgano Interno de Control durará seis años en el cargo y sólo podrá ser designado para un periodo más; ejercerá sus funciones con autonomía técnica y de gestión y mantendrá la coordinación técnica necesaria con la Entidad Superior de Auditoría y Fiscalización del Estado.
+
+El titular del Órgano Interno de Control del Instituto podrá ser removido por las causas siguientes:
+
+I. Utilizar o revelar indebidamente, en beneficio propio o de terceros, la documentación e información confidencial en los términos del presente Código y demás disposiciones legales aplicables;
+
+II. Dejar, sin causa justificada de promover ante las instancias internas correspondientes las acciones administrativas y legales que se deriven de los resultados de las auditorias;
+
+III. Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que, por razón de su cargo, tenga a su cuidado o custodia o que exista en el Instituto, con motivo del ejercicio de sus atribuciones, y
+
+IV. Conducirse con parcialidad en el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Artículo 102 Sextus. El Instituto Morelense aprobará e integrará dentro de su presupuesto global, el correspondiente al Órgano Interno de Control.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Artículo 102 Septimus. El titular y el personal adscrito al Órgano Interno de Control, cualquiera que sea su nivel, están impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones de naturaleza electoral que la Constitución y este Código confieran a los funcionarios del Instituto.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Artículo 102 Octavus. El Órgano Interno de Control dictará las providencias oportunas para la corrección de las irregularidades administrativas que se detecten y si del contenido de ésta se desprende la realización de una conducta que pudiera dar lugar a responsabilidad, presentará la denuncia respectiva ante el Instituto Nacional.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Artículo 102 Nonus. El Órgano Interno de Control podrá recibir quejas y denuncias en contra de los funcionarios y el personal del Instituto Morelense, en cuyo caso las canalizará al Instituto Nacional tratándose de los integrantes del Consejo o del Servicio Nacional Electoral.
 
 ## TÍTULO SEGUNDO. DE LOS CONSEJOS DISTRITALES Y MUNICIPALES
 
 ### CAPÍTULO I. DE LA INTEGRACIÓN DE LOS CONSEJOS DISTRITALES Y MUNICIPALES
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 103.
 
-La preparación y desarrollo de los procesos electorales ordinarios y, en su caso, de los extraordinarios, de los distritos uninominales y de los municipios, corresponderá a los consejos distritales y municipales. Dichos órganos tendrán carácter temporal y dependerán del Consejo Estatal; la coordinación de su funcionamiento, correrá a cargo de la Dirección Ejecutiva de Organización y Partidos Políticos.
+La preparación y desarrollo de los procesos electorales ordinarios y, en su caso, de los extraordinarios, de los distritos uninominales y de los municipios, corresponderá a los consejos distritales y municipales. Dichos órganos tendrán carácter temporal, no serán considerados desconcentrados ni descentralizados y dependerán del Consejo Estatal; la coordinación de su funcionamiento, correrá a cargo de la Dirección Ejecutiva de Organización y Partidos Políticos y de la Comisión Ejecutiva de Organización y Partidos Políticos.
 
 ###### Artículo 104.
 
 En el proceso ordinario de elecciones los consejos municipales electorales deberán estar integrados e instalados en el mes de noviembre del año previo al de la elección, residirán en cada una de las cabeceras municipales respectivas, integrándose de conformidad al artículo siguiente.
 
 Los Consejos Distritales se integrarán e instalarán en el mes de noviembre del año previo al de la elección; residirán en cada una de las cabeceras distritales respectivas.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Los Consejos a que se hace referencia en los párrafos anteriores, una vez calificadas las elecciones y no habiendo medio de impugnación pendiente de resolver por los órganos administrativos y jurisdiccionales, deberán clausurar sus actividades, remitiendo toda la información y documentación que con motivo del proceso electoral se haya generado; sin perjuicio de poder ser convocados para integrarse de nueva cuenta en casos excepcionales.
 
 ###### Artículo 105.
 
@@ -1458,6 +2102,10 @@ VI. No haber sido registrado como precandidato o candidato a ningún cargo de el
 VII. No haber ejercido cargos directivos a nivel nacional, estatal, distrital o municipal de algún partido político en cuatro años anteriores a su designación, y
 
 VIII. No ser ministro de culto religioso alguno, a menos que se haya separado formal, material y definitivamente de su ministerio, cuando menos cuatro años antes de la designación del cargo.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Por el carácter temporal del desempeño de sus funciones, los integrantes de dichos consejos no podrán ser considerados integrantes del Servicio Profesional Electoral Nacional.
 
 ###### Artículo 107.
 
@@ -1549,9 +2197,19 @@ V. Recibir de los consejos municipales electorales, los paquetes correspondiente
 
 VI. Entregar las constancias a los candidatos a Diputados de mayoría relativa que hayan resultado triunfadores y remitir los resultados de los cómputos realizados y la documentación relativa al Consejo Estatal;
 
-VII. Dar a conocer, mediante avisos colocados en el exterior del local del consejo distrital respectivo, los resultados de los cómputos distritales, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-VIII. Las demás que le señale este Código o le asigne el Consejo Estatal.
+VII. Dar a conocer, mediante avisos colocados en el exterior del local del consejo distrital respectivo, los resultados de los cómputos distritales;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+VIII. Presentar a petición de cualquiera de los integrantes del consejo las denuncias de hechos que puedan constituir conductas delictivas ante la Fiscalía General del Estado y en su caso la correspondiente a la Fiscalía de la Federación en términos de la normativa federal y estatal;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+IX. Expedir copias certificadas previo cotejo de todos aquellos documentos o constancias que obren en sus archivos a los legalmente interesados. En tratándose de solicitudes para interponer o promover un medio de impugnación, las copias a que se refiere el párrafo anterior deberán de ser expedidas en un término no mayor a cuarenta y ocho horas, a partir de la recepción de la solicitud; y
+
+X. Las demás que le señale este Código o le asigne el Consejo Estatal.
 
 ###### Artículo 112.
 
@@ -1567,9 +2225,17 @@ IV. Garantizar, en su caso, la entrega de la documentación y útiles necesarios
 
 V. Expedir la constancia de mayoría a los candidatos para Presidente y Síndico del ayuntamiento que hayan obtenido mayoría de votos conforme al cómputo y declaración de validez del Consejo Municipal;
 
-VI. Dar a conocer, mediante avisos colocados en el exterior del local del consejo municipal respectivo, los resultados de los cómputos municipales, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-VII. Las demás que este ordenamiento le señale o le asigne el Consejo Estatal.
+VI. Dar a conocer, mediante avisos colocados en el exterior del local del consejo municipal respectivo, los resultados de los cómputos municipales;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+VII. Presentar a petición de cualquiera de los integrantes del consejo las denuncias de hechos que puedan constituir conductas delictivas ante la Fiscalía General del Estado y en su caso, la correspondiente ante la Fiscalía Especializada en Delitos Electorales de la Federación, en los términos de la Ley General en Materia de Delitos Electorales, y
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+VIII. Las demás que este ordenamiento le señale o le asigne el consejo estatal.
 
 ###### Artículo 113.
 
@@ -1585,9 +2251,17 @@ IV. Ejecutar los acuerdos que dicte el consejo o le instruya el Consejero Presid
 
 V. Llevar el archivo del consejo y los libros de registro, expidiendo copia certificada de las constancias que obren en ellos;
 
-VI. Firmar junto con el Consejero Presidente, los acuerdos y resoluciones del propio consejo, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-VII. Las demás que le señale este Código.
+VI. Firmar junto con el Consejero Presidente, los acuerdos y resoluciones del propio consejo;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+VII. Expedir copias certificadas previo cotejo de todos aquellos documentos o constancias que obren en sus archivos a los legalmente interesados. En tratándose de solicitudes para interponer o promover un medio de impugnación, las copias a que se refiere el párrafo anterior deberán de ser expedidas en un término no mayor a cuarenta y ocho horas, a partir de la recepción de la solicitud, y
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+VIII. Las demás que les señale este Código.
 
 ###### Artículo 114.
 
@@ -1601,9 +2275,19 @@ Los consejos distritales y municipales electorales dentro de las siguientes 24 h
 
 Las autoridades estatales y municipales están obligadas a proporcionar a los órganos electorales, a solicitud de los Consejeros Presidentes y de los Secretarios respectivos, los informes, las certificaciones y el auxilio de las instituciones de seguridad pública para el cumplimiento de sus funciones y sus resoluciones.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 117.
 
 Los cargos de consejeros distritales, municipales electorales y secretarios, serán honoríficos, percibirán un apoyo económico que apruebe el Consejo Estatal, de conformidad al presupuesto de egresos autorizado.
+
+El Consejo Estatal, determinará los montos que por concepto de apoyo económico recibirán los integrantes de los consejos distritales y municipales, siendo proporcional al número de casillas que integren el municipio o distrito de que se trate, tomando como base lo siguiente:
+
+a) Los que cuya demarcación no llegue a cien casillas, el equivalente de hasta cincuenta unidades de medida y actualización;
+
+b) Los que cuya demarcación cuente con más de cien y hasta doscientas casillas, un máximo de setenta y cinco unidades de medida y actualización, y
+
+c) Los que cuya demarcación cuente con más de doscientas casillas, un máximo de cien unidades de medida y actualización.
 
 ###### Artículo 118.
 
@@ -1629,9 +2313,11 @@ Los funcionarios de las Mesas Directivas de Casilla, tendrán las atribuciones s
 
 ### CAPÍTULO III. DE LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS Y DE CANDIDATOS INDEPENDIENTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 121.
 
-Los partidos políticos o candidatos independientes, una vez realizados los registros correspondientes y hasta trece días antes de la elección, tendrán derecho a nombrar un representante propietario y un suplente, ante cada mesa directiva de casilla.
+Los partidos políticos o candidatos independientes, a partir del día siguiente a la aprobación de las casillas y hasta trece días antes de la elección, tendrán derecho a nombrar un representante propietario y un suplente, ante cada mesa directiva de casilla.
 
 Los partidos políticos o candidatos independientes podrán dentro del mismo plazo, acreditar a un representante, por cada diez casillas ubicadas en zonas urbanas y uno por cada cinco casillas en zonas rurales.
 
@@ -1711,9 +2397,11 @@ La actuación de los representantes de los partidos políticos señalados en est
 
 ### CAPÍTULO IV. DE LOS OBSERVADORES ELECTORALES
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 127.
 
-Los ciudadanos mexicanos podrán participar como observadores en las jornadas electorales ordinarias o extraordinarias de elecciones en el que se inscribieron.
+Los ciudadanos mexicanos podrán participar como observadores en la jornada electoral ordinaria o extraordinaria así como en los mecanismos de participación ciudadana que se realicen de conformidad con la legislación correspondiente, en la forma y términos que determine el Consejo Estatal, y este Código.
 
 La observación tiene por objeto que la ciudadanía testimonie el desarrollo de los procesos electorales y de la jornada electoral y emita su informe a las autoridades competentes. La observación podrá realizarse en cualquier parte del territorio del estado de Morelos.
 
@@ -1787,11 +2475,19 @@ Los observadores electorales que hagan uso indebido de su acreditación o no se 
 
 ### CAPÍTULO I. DE SU NATURALEZA Y FINES
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 136.
 
 El Tribunal Electoral es el órgano jurisdiccional especializado en materia electoral; gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones.
 
 Dicho Tribunal cumplirá sus funciones bajo los principios de certeza, imparcialidad, objetividad, legalidad y probidad.
+
+El Tribunal Electoral, resolverá los asuntos de su competencia en sesión pública y en forma colegiada.
+
+Las sesiones del Tribunal Electoral se desarrollarán conforme a su Reglamento Interior y demás disposiciones aplicables.
+
+El magistrado presidente ordenará que se publique en los estrados físicos y electrónicos, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán ventilados en cada sesión.
 
 Este órgano jurisdiccional no estará adscrito al Poder Judicial del Estado.
 
@@ -1817,9 +2513,17 @@ VIII. Resolver las diferencias o conflictos laborales que surjan entre el Instit
 
 IX. Dictar resolución respecto de los recursos que se interpongan con motivo de la realización de los procesos de participación ciudadana;
 
-X. Celebrar convenios de colaboración con otros tribunales, instituciones y autoridades para su mejor desempeño, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-XI. Las demás que sean necesarias para su correcto funcionamiento.
+X. Celebrar convenios de colaboración con otros tribunales, instituciones y autoridades para su mejor desempeño;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XI. Conocer del juicio que se promueva por violaciones al derecho de ser votado, en su vertiente de acceso y desempeño del cargo.
+
+Las controversias vinculadas con la probable violación al derecho de los servidores públicos, de elección popular, de recibir las remuneraciones que en derecho les correspondan por el desempeño de un encargo de elección popular, cuando el periodo de su ejercicio ya ha concluido, serán competencia del Tribunal de Justicia Administrativa del Estado de Morelos, y
+
+XII. Las demás que sean necesarias para su correcto funcionamiento.
 
 ### CAPÍTULO II. DE SU INTEGRACIÓN
 
@@ -1889,7 +2593,9 @@ El Tribunal Electoral funcionará siempre en pleno, sus sesiones serán pública
 
 Corresponden al pleno del Tribunal Electoral las siguientes atribuciones:
 
-I. Resolver los medios de impugnación que se interpongan durante los procesos electorales y no electorales;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+I. Resolver los medios de impugnación que se interpongan en periodo no electoral, durante los procesos electorales, y los de participación ciudadana a que se convoquen según corresponda;
 
 II. Desechar, sobreseer, tener por no interpuestos o por no presentados, cuando proceda, los recursos, los escritos de los terceros interesados y los de los coadyuvantes;
 
@@ -1909,9 +2615,15 @@ IX. Aprobar y expedir el reglamento interno, con base en el proyecto que present
 
 X. Resolver las diferencias o conflictos de índole laboral del personal del Instituto Morelense y del propio Tribunal Electoral;
 
-XI. Establecer la jurisprudencia del Tribunal Electoral, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-XII. Las demás que le otorga la normativa aplicable.
+XI. Establecer la jurisprudencia del Tribunal Electoral;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XII. Aplicar las medidas de apremio necesarias para garantizar el cumplimiento de los acuerdos o resoluciones que dicte, y
+
+XIII. Las demás que le otorga la normativa aplicable.
 
 ###### Artículo 143.
 
@@ -1979,9 +2691,21 @@ X. Remitir a la Sala Superior del Tribunal Electoral del Poder Judicial de la Fe
 
 XI. Designar y remover al personal administrativo necesario para el buen funcionamiento del Tribunal Electoral;
 
-XII. Conceder o negar licencias al personal en términos del Reglamento Interno, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-XIII. Las demás que le confiere la normativa aplicable.
+XII. Conceder o negar licencias al personal en términos del Reglamento Interno;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XIII. Conocer y resolver respecto a la excitativa de justicia a la que hace referencia el artículo 325 de éste Código.
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XIV. Garantizar el orden y acceso a los estrados físicos del Tribunal, y
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XV. Las demás que le confiera la normativa aplicable.
 
 ###### Artículo 147.
 
@@ -1995,9 +2719,15 @@ III. Formular voto particular razonado, en caso de disentir de un proyecto de re
 
 IV. Conocer de la substanciación de los asuntos que correspondan a su ponencia;
 
-V. Firmar conjuntamente con el Secretario General los engroses de las resoluciones de su ponencia, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-VI. Las demás que le asigne la legislación de la materia.
+V. Firmar conjuntamente con el Secretario General los engroses de las resoluciones de su ponencia;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+VI. Decretar las medidas de apremio para hacer cumplir las determinaciones de la Ponencia, y
+
+VII. Las demás que le asigne la legislación de la materia.
 
 ###### Artículo 148.
 
@@ -2011,15 +2741,25 @@ III. Engrosar los fallos del pleno bajo la supervisión del Magistrado ponente;
 
 IV. Autorizar con su firma las actuaciones del Tribunal Electoral;
 
-V. Realizar las certificaciones y expedir las copias certificadas y simples que le instruya el Tribunal Electoral o le soliciten las partes;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+V. Realizar las certificaciones y expedir las copias certificadas y simples que le instruya el Tribunal Electoral o le soliciten las partes.
+
+Las copias certificadas a que se refiere esta fracción no causarán contribución para el peticionario; sin embargo, correrá a su costa las copias que requiera.
 
 VI. Llevar el turno de los Magistrados que deben presentar las ponencias para la resolución del pleno del Tribunal Electoral;
 
 VII. Auxiliar a los Secretarios instructores y proyectistas en el desempeño de sus funciones;
 
-VIII. Dar cuenta al Magistrado Presidente de los recursos que se interpongan en tiempo no electoral, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-IX. Las demás que le encomiende el Presidente.
+VIII. Dar cuenta al Magistrado Presidente de los recursos que se interpongan en tiempo no electoral;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
+IX. Mantener el orden de la publicación en los estrados físicos del Tribunal, y
+
+X. Las demás que le encomiende el Presidente.
 
 ###### Artículo 149.
 
@@ -2123,7 +2863,17 @@ El proceso electoral está constituido por el conjunto de actos ordenados por la
 
 Durante los procesos electorales ordinarios y extraordinarios todos los días y horas son hábiles.
 
-Con motivo de la carga laboral que representa el año electoral, al ser todos los días y horas hábiles, el personal permanente del Instituto Morelense tendrá derecho a recibir una compensación derivada de las labores extraordinarias que realicen en el ejercicio de sus funciones.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Con motivo de la carga laboral que representa el año electoral, los servidores públicos permanentes del Instituto Morelense y, en su caso, los prestadores de servicio que determine el Consejo Estatal Electoral y del Tribunal Electoral, tendrán derecho a recibir una compensación derivada de las labores extraordinarias que realicen en el ejercicio de sus funciones, para el cumplimiento de esta disposición el Congreso del Estado deberá realizar las previsiones necesarias en el Presupuesto de Egresos correspondiente.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Para el efecto de determinar el monto de la compensación, deberá considerarse en el caso de los Consejeros Electorales, un monto no mayor al equivalente a quince días de su salario.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+El Instituto Morelense y el Tribunal Electoral, respectivamente, expedirán los lineamientos para determinar los criterios bajo los cuales se otorgará tal compensación, los cuales deberán contemplarse en su anteproyecto de presupuesto de egresos.
 
 ###### Artículo 160.
 
@@ -2149,9 +2899,31 @@ En los procesos electorales al concluir cualquiera de sus etapas o de alguno de 
 
 Por cada candidato propietario para ocupar el cargo de Diputado o miembro de un ayuntamiento se elegirá un suplente.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 162.
 
-Ninguna persona podrá ser registrada como candidato a distintos cargos de elección popular en el mismo proceso electoral local, salvo lo dispuesto en la normativa de la materia, ni tampoco, simultáneamente podrá ser candidato para un cargo federal de elección popular.
+Ninguna persona podrá ser registrada como candidato a distintos cargos de elección popular en el mismo proceso electoral local, salvo por lo dispuesto en el párrafo siguiente, así como en la normativa de la materia, ni tampoco, simultáneamente podrá ser candidato para un cargo federal de elección popular.
+
+En el caso de la elección de los miembros de Ayuntamiento, los candidatos a presidente municipal podrán ser registrados como primer regidor y el candidato a Síndico Municipal como segundo regidor en la lista de regidores a que se refiere el artículo 112, párrafo cuarto, de la Constitución Política del Estado.
+
+Para el caso de los Diputados del Congreso electos por el principio de mayoría relativa que busquen la reelección, solo podrán ser postulados por el mismo Distrito Electoral por el que obtuvieron su constancia de mayoría en la elección inmediata anterior, o bien podrán ser incluidos en la lista de Diputados por el principio de Representación Proporcional del partido político que los postuló inicialmente, en los términos de este Código.
+
+Los Diputados del Congreso electos por el Principio de Representación Proporcional, que pretendan la reelección, podrán ser postulados tanto por el Principio de Mayoría Relativa en cualquier distrito electoral, así como nuevamente por el de Representación Proporcional, del partido político que los postulóinicialmente (sic), de acuerdo a las reglas establecidas en los términos en este Código.
+
+Los Diputados locales que pretendan ser reelectos, podrán optar por no separarse de su cargo, mientras cumplan con las siguientes reglas y restricciones:
+
+a) No podrán realizar actos de campaña en días y horas hábiles propias de su encargo;
+
+b) No podrán utilizar recursos públicos, ya sean humanos, materiales o económicos que les correspondan para el ejercicio de su encargo;
+
+c) No podrán ocupar al personal adscrito a la nómina del Congreso del Estado, para realizar actos de campaña en horario laboral, y
+
+d) Deberán cumplir con las obligaciones inherentes a su encargo como Diputado.
+
+Los miembros de los Ayuntamientos, por elección directa, podrán ser reelectos únicamente para un período adicional de gestión consecutiva. La postulación sólo podrá ser realizada por el mismo Partido o por cualquiera de los Partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia hasta antes de la mitad del periodo por el que fueron electos.
+
+Para efectos del presente artículo, las autoridades electorales siempre velarán por mantener la equidad en la contienda.
 
 ###### Artículo 163.
 
@@ -2161,7 +2933,9 @@ I. Estar inscrito en el Registro Federal de Electores y contar con Credencial vi
 
 II. No desempeñarse como Magistrado Electoral, Consejero Electoral u ocupar un cargo de dirección o en el Servicio Profesional Electoral Nacional en los organismos electorales, salvo que se separe de su cargo conforme lo establece la Constitución;
 
-III. No ocupar un cargo de dirección en los gobiernos federal, estatal, municipal, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo noventa días antes del día de la jornada electoral, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+III. No ocupar un cargo de dirección en los gobiernos federal, estatal, municipal, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo ciento ochenta días antes del día de la jornada electoral, con excepción de los diputados que pretendan su reelección, en cuyo caso podrán optar por no separarse del cargo, de acuerdo a lo dispuesto en el artículo anterior, y
 
 IV. No estar inhabilitado por el Consejo Estatal por haber violado las disposiciones de este código en materia de precampañas.
 
@@ -2187,11 +2961,19 @@ Los partidos políticos determinarán conforme a sus estatutos el procedimiento 
 
 Oportunamente los partidos políticos deberán informar por escrito al Consejo Estatal los resultados del proceso de selección interna, mismo que previamente fijará las características del informe y la fecha límite para su entrega.
 
+> <small>(REFORMADO P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 168.
 
 Los procesos de selección interna de candidatos a los cargos de Gobernador, Diputados al Congreso y miembros de los ayuntamientos, se llevarán a cabo a partir del 15 de diciembre del año previo a la elección. Durarán como máximo hasta dos terceras partes del tiempo de campaña respectivo, no podrán extenderse más allá del día 15 de febrero del año de la elección. Las precampañas de todos los partidos políticos se celebrarán de conformidad con la convocatoria respectiva que emita el partido, en todo caso deberán respetar los plazos establecidos en el presente Código.
 
-En el caso de las coaliciones y candidaturas comunes, el convenio respectivo deberá registrarse hasta treinta días antes del inicio de las precampañas
+Durarán como máximo hasta dos terceras partes del tiempo de campaña respectivo, no podrán extenderse más allá del día 15 de febrero del año de la elección. Las precampañas de todos los partidos políticos se celebrarán de conformidad con la convocatoria respectiva que emita el partido, la cual deberá ser notificada al Instituto Morelense a más tardar cinco días antes del inicio de los procesos de selección interna, en todo caso deberán respetar los plazos establecidos en el presente Código.
+
+En el caso de las coaliciones y candidaturas comunes, el convenio respectivo deberá registrarse hasta antes del inicio del periodo de precampañas.
+
+Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a legisladores locales y para miembros de los ayuntamientos, los cuales deberá notificar al Instituto Morelense a más tardar cinco días antes del inicio de los procesos de selección interna; ello con la finalidad de garantizar y salvaguardar los derechos políticos electorales de sus militantes, precandidatos y de los ciudadanos.
+
+Asimismo, se deberá comunicar al Instituto Morelense el retiro de la precampaña de alguno de los precandidatos y modificaciones o resoluciones de cualquier tipo a la convocatoria respectiva.
 
 ###### Artículo 169.
 
@@ -2225,7 +3007,9 @@ VIII. Fijar su propaganda en contravención a lo establecido en el Código;
 
 IX. Utilizar en su propaganda símbolos, distintivos, emblemas, imágenes o figuras con motivos religioso o racial, y
 
-X. Utilizar expresiones verbales o escritas contrarias a la moral, que injurien a las autoridades, a los demás partidos políticos o precandidatos o que tiendan a incitar a la violencia y al desorden público.
+(NOTA: EL 24 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2017 Y SUS ACUMULADAS 42/2017, 43/2017, 45/2017 Y 47/2017, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+X. Utilizar expresiones verbales o escritas CONTRARIAS A LA MORAL, QUE INJURIEN A LAS AUTORIDADES, A LOS DEMÁS PARTIDOS POLÍTICOS O PRECANDIDATOS O que tiendan a incitar a la violencia y al desorden público.
 
 ###### Artículo 172.
 
@@ -2251,15 +3035,21 @@ I. El tope será equivalente hasta el veinte por ciento del establecido para las
 
 II. Los precandidatos deberán presentar un informe de ingresos y gastos de precampaña, en términos de la legislación aplicable;
 
-III. Si el precandidato que hubiese obtenido la candidatura, rebasa el tope de campaña o incumple la obligación de entregar su informe de ingresos y gastos de precampaña dentro del plazo señalado, será sancionado por el Consejo Estatal con la negativa del registro como candidato o, en su caso, con la pérdida de la candidatura;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-IV. Los precandidatos que no cumplan con la presentación del informe de ingreso-gasto de precampaña, serán sancionados por el Instituto Morelense en los términos del presente Código, y
+III. Si el precandidato que hubiese obtenido la candidatura, rebasa el tope de precampaña o incumple la obligación de entregar su informe de ingresos y gastos de precampaña dentro del plazo señalado, será sancionado por el Consejo Estatal con la negativa del registro como candidato o, en su caso, con la pérdida de la candidatura, con base a las determinaciones que emita el Instituto Nacional Electoral;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+IV. Los precandidatos que no cumplan con la presentación del informe de ingreso-gasto de precampaña, serán sancionados en términos de la normativa aplicable, y
 
 V. En caso de la cancelación de una candidatura, los partidos conservan el derecho de realizar las sustituciones que procedan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 175.
 
-Los partidos políticos deberán integrar un informe especial sobre los ingresos y gastos destinados a la realización de sus procesos de selección interna y precampañas. Dicho informe deberá presentarse al Instituto Morelense dentro de los treinta días posteriores a la conclusión de los procesos internos de selección de candidatos.
+Los partidos políticos deberán integrar un informe especial sobre los ingresos y gastos destinados a la realización de sus procesos de selección interna y precampañas. Dicho informe deberá presentarse en términos de la normativa aplicable.
 
 En el informe se deberá dar cuenta de los ingresos y gastos correspondientes a cada uno de los precandidatos que hayan participado en sus precampañas y de los gastos efectuados por el partido político con motivo de la precampaña.
 
@@ -2285,33 +3075,129 @@ Los tres días anteriores al de la elección interna y éste inclusive, los Juec
 
 ### CAPÍTULO III. DEL PROCEDIMIENTO DE REGISTRO DE CANDIDATOS, COALICIONES Y CANDIDATURAS COMUNES
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 177.
 
-El registro de candidatos al cargo de Gobernador Constitucional del Estado, se hará ante el Consejo Estatal, del 1 al 7 de marzo del año en que se efectúe la elección. El Consejo Estatal tendrá 4 días para resolver sobre la procedencia del registro.
+El plazo para solicitar el registro de candidatos al cargo de Gobernador Constitucional del Estado, se hará ante el Consejo Estatal, del 1 al 7 de marzo del año en que se efectúe la elección.
 
-El registro de candidatos a los cargos de Diputados y ayuntamientos, se hará ante el consejo correspondiente del 8 al 15 de marzo del año de la elección. El consejo correspondiente tendrá ocho días para resolver sobre la procedencia del registro.
+El plazo para solicitar el registro de candidatos a los cargos de Diputados y ayuntamientos, se hará ante el consejo correspondiente del 8 al 15 de marzo del año de la elección.
 
-Los partidos políticos deberán registrar ante el Consejo Estatal, del 1 al 7 de marzo del año de la elección la plataforma electoral que sus candidatos sostendrán durante las campañas políticas.
+Los partidos políticos deberán registrar ante el Consejo Estatal, del 15 al 22 de febrero del año de la elección, la plataforma electoral que sus candidatos sostendrán durante las campañas políticas. Del registro de dicha plataforma se expedirá constancia.
 
 Esta obligación aplicará también a las candidaturas independientes.
 
-Los partidos políticos, una vez presentadas sus solicitudes de registro de candidatos, podrán cumplimentar los requisitos que la norma exige, durante el plazo de registro o bien dentro del término de cuarenta y ocho horas posteriores a la conclusión del plazo de registro, para proceder a la calificación de la solicitud dentro de los tres días que este Código establece.
+Las plataformas electorales que por cada proceso electoral deban presentar los partidos políticos, coaliciones o candidatos independientes serán publicadas por una sola vez por el Consejo Estatal.
+
+Los partidos políticos, una vez presentadas sus solicitudes de registro de candidatos, podrán cumplimentar los requisitos que la norma exige, durante el plazo de registro o bien dentro del término de cuarenta y ocho horas posteriores a la conclusión del plazo de registro, para proceder a la calificación de la solicitud dentro de los días que este Código establece.
 
 ###### Artículo 178.
 
 El registro de candidatos a Gobernador y Diputados de representación proporcional, se hará ante el Consejo Estatal.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 179.
 
 El registro de candidatos a diputados de mayoría relativa será por fórmulas integradas cada una por un propietario y un suplente del mismo género ante el consejo distrital electoral respectivo. De la totalidad de solicitudes de registro de las candidaturas a diputados que realice cada partido político, en ningún caso incluirán más del cincuenta por ciento de candidatos de un mismo género.
 
-(NOTA: EL 30 DE SEPTIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 39/2014 Y SUS ACUMULADAS 44/2014, 54/2014 Y 84/2014, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1° DE OCTUBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellas candidaturas a diputados de mayoría relativa en distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
-QUEDAN EXCEPTUADAS DE ESTA DISPOSICIÓN LAS CANDIDATURAS DE MAYORÍA RELATIVA QUE SEAN RESULTADO DE UN PROCESO DE ELECCIÓN DEMOCRÁTICO, CONFORME A LOS CRITERIOS QUE SOBRE PARIDAD EMITA CADA PARTIDO.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### Artículo 180.
 
-Las candidaturas para miembros de ayuntamientos, se registrarán ante el consejo municipal electoral que corresponda, por planillas integradas por candidatos a Presidente Municipal y un Síndico propietarios y suplentes, que se elegirán por el principio de mayoría relativa y, en su caso, una lista de regidores, propietarios y suplentes en número igual al previsto para ese municipio en la legislación, que se elegirán por el principio de representación proporcional. Atendiendo al principio de paridad de género, cada planilla que se registre, se integrará por un propietario y un suplente del mismo género. Con el objeto de garantizar la equidad de género, la lista de regidores alternará las fórmulas de distinto género hasta agotar la lista correspondiente.
+Los partidos políticos y candidatos independientes deberán postular una planilla con candidaturas a la presidencia municipal, sindicatura, y regidurías. La planilla deberá alternar los géneros desde la presidencia municipal hasta la última regiduría. Los partidos políticos no podrán postular candidatos de un mismo género en más de la mitad de sus candidaturas a presidencias municipales si el número de sus candidaturas es par o en más de la mitad más una en caso de candidaturas impares.
+
+Las candidaturas para miembros de ayuntamientos, se registrarán ante el consejo municipal electoral que corresponda, por planillas integradas por candidatos a Presidente Municipal y un Síndico propietarios y suplentes, que se elegirán por el principio de mayoría relativa y, en su caso, una lista de regidores, propietarios y suplentes en número igual al previsto para ese municipio en la legislación, que se elegirán por el principio de representación proporcional.
+
+De igual forma los partidos políticos deberán observar para el registro de sus planillas de candidatos para los 33 municipios que integran el Estado de Morelos un enfoque horizontal, que consiste en que del total de los 33 ayuntamientos se exija el registro de dieciséis candidaturas a la presidencia municipal de un mismo género, de tal manera que los diecisiete restantes correspondan al género distinto.
+
+En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellas candidaturas a presidencias municipales en las que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
+
+En los demás casos, los partidos políticos deberán registrar sus planillas, de conformidad con los siguientes criterios:
+
+Municipios en que los Mujer Hombre
+
+partidos políticos registren
+
+planillas de candidatos:
+
+33 17 16
+
+31 16 15
+
+29 15 14
+
+27 14 13
+
+25 13 12
+
+23 12 11
+
+21 11 10
+
+19 10 9
+
+17 9 8
+
+15 8 7
+
+13 7 6
+
+11 6 5
+
+9 5 4
+
+7 4 3
+
+5 3 2
+
+3 2 1
+
+1 1
+
+O bien,
+
+Municipios en que los Mujer Hombre
+
+partidos políticos registren
+
+planillas de candidatos:
+
+33 16 17
+
+31 15 16
+
+29 14 15
+
+27 13 14
+
+25 12 13
+
+23 11 12
+
+21 10 11
+
+19 9 10
+
+17 8 9
+
+15 7 8
+
+13 6 7
+
+11 5 6
+
+9 4 5
+
+7 3 4
+
+5 2 3
+
+3 1 2
+
+1 1
 
 ###### Artículo 181.
 
@@ -2321,9 +3207,15 @@ Las fórmulas de candidatos, propietarios y suplentes, deberán ser del mismo g�
 
 Los partidos políticos podrán registrar lista de candidatos de representación proporcional, siempre y cuando hubiesen obtenido el registro de candidatos a Diputados de mayoría relativa, por lo menos en las dos terceras partes de los distritos uninominales del Estado, de manera directa, participando en coalición o en candidaturas comunes.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 182.
 
 Dentro de los plazos establecidos por este Código, los partidos políticos podrán libremente sustituir a los candidatos que hubiesen registrado. Concluidos aquéllos, sólo por acuerdo podrá hacerse sustitución de candidatos por causa de muerte, inhabilitación, incapacidad o renuncia. Los partidos políticos podrán solicitar ante el Consejo Estatal, fuera de los casos previstos, la cancelación del registro de uno o varios de sus candidatos.
+
+Cuando la renuncia del candidato fuera notificada por este al Consejo Estatal, se hará del conocimiento del partido o coalición que lo registró para que proceda, en su caso, a la sustitución. En caso de que la renuncia sea entregada por el partido político al Instituto Morelense, este solicitará al renunciante la ratificación de firma y contenido, en caso de que desconozca su firma se tendrá por no interpuesta la renuncia.
+
+Para la corrección o sustitución, en su caso, de las boletas electorales, se estará a lo dispuesto en este Código.
 
 ###### Artículo 183.
 
@@ -2331,11 +3223,15 @@ La solicitud de registro de candidatos deberá contener, cuando menos:
 
 I. Nombre y apellidos del candidato y, en su caso, el sobrenombre con el que pretenda aparecer en la boleta electoral;
 
-II. Edad, lugar de nacimiento, domicilio y ocupación;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+II. Edad, lugar de nacimiento, domicilio, tiempo de residencia y ocupación;
 
 III. Cargo para el que se postula;
 
-IV. Denominación, emblema, color o combinación de colores del partido o coalición que lo postula, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+IV. Denominación y emblemas de partido, coalición o candidatura común que lo postula, y
 
 V. Clave y fecha de la credencial de elector.
 
@@ -2351,17 +3247,33 @@ II. Copia certificada del acta de nacimiento del candidato expedida por el Regis
 
 III. Copia de la credencial para votar con fotografía;
 
-IV. Constancia de residencia que precise la antigüedad, expedida por la autoridad competente;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+IV. Constancia de residencia vigente que precise la antigüedad, expedida por la autoridad competente, dentro de los quince días anteriores a la presentación de su solicitud de registro;
 
 V. Tres fotografías tamaño infantil, y
 
 VI. Currículum vitae.
 
-La expedición de los documentos de las fracciones II y IV de este artículo serán gratuitas, las autoridades estatales y municipales competentes observarán esta disposición y darán facilidades al ciudadano en el trámite de estas solicitudes.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+La expedición de los documentos de las fracciones II y IV de este artículo serán gratuitas y deberán cumplir con los requisitos establecidos en la legislación aplicable, las autoridades estatales y municipales competentes observarán esta disposición y darán facilidades al ciudadano en el trámite de estas solicitudes.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### Artículo 185.
 
-Los organismos electorales recibirán las solicitudes de registro, verificarán y certificarán que se anexe la documentación a que se refiere el artículo anterior, procediendo a inscribirlas en caso de que las mismas y los candidatos reúnan los requisitos establecidos en la Constitución Política del Estado y en este Código.
+Los organismos electorales recibirán las solicitudes de registro junto con la documentación a que se refiere el artículo anterior, de acuerdo a lo siguiente:
+
+I. Concluido el plazo de registro de candidatos las solicitudes recibidas serán revisadas por el Consejero Presidente o el Secretario del órgano que corresponda, quienes verificarán dentro de los cinco días siguientes de su recepción, que se haya cumplido con todos los requisitos señalados en este Código;
+
+II. Durante el plazo a que se refiere el párrafo anterior, el Consejo Estatal, con base en la información procesada del registro de candidatos que hayan presentado los partidos políticos y coaliciones en el término establecido para las elecciones de Diputados y Ayuntamientos de mayoría relativa, sesionará con el único efecto de determinar el cumplimiento de la paridad horizontal;
+
+II (sic). Vencido el plazo a (sic) referido en el segundo párrafo de este artículo y si se advierte que hubo omisión de uno o varios requisitos, se notificará de inmediato al partido político correspondiente para que, dentro de las setenta y dos horas siguientes, subsane el o los requisitos omitidos o sustituya al candidato, siempre que esto pueda realizarse dentro de los plazos que señale este Código. Si transcurrido este lapso el partido político no cumpliera, se le otorgará una prórroga única de veinticuatro horas para cumplimentar, en caso de reincidencia se le sancionará con la pérdida del registro de la candidatura correspondiente;
+
+III. Cualquier solicitud o documentación presentada fuera de dichos plazos será desechada de plano, y
+
+IV. Dentro de los quince días siguientes al vencimiento del plazo de registro, los Consejos Estatal, Distritales y Municipales celebrarán sesión cuyo único objeto será aprobar el registro de las candidaturas que reúnan los requisitos establecidos en la Constitución y en este Código.
 
 ###### Artículo 186.
 
@@ -2393,11 +3305,17 @@ En el supuesto del párrafo anterior, los debates de los candidatos a Gobernador
 
 El Instituto Nacional promoverá, a petición del Instituto Morelense, la transmisión de los debates por parte de otros concesionarios de radiodifusión con cobertura en el Estado y de telecomunicaciones.
 
-Los medios de comunicación locales podrán organizar libremente debates entre candidatos, siempre y cuando cumplan con lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
 
-a) Se comunique al Instituto Morelense;
+Las Cámaras, Sindicatos, los medios de comunicación locales y cualquier otra organización de ciudadanos, podrán organizar libremente debates entre candidatos, siempre y cuando cumplan con lo siguiente:
 
-b) Participen por lo menos dos candidatos de la misma elección, y
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+a) Se comunique al Instituto Morelense, por lo menos con siete días de anticipación;
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+b) Participen por lo menos dos candidatos de la misma elección, debiendo acreditar que se realizó la invitación a la totalidad de candidatos de la elección de que se trate, y
 
 c) Se establezcan condiciones de equidad en el formato.
 
@@ -2455,15 +3373,17 @@ III. Gastos de propaganda en medios gráficos.- Comprenden los realizados en cua
 
 No se consideran dentro de los topes de campaña, los gastos que realicen los partidos políticos para su operación ordinaria y para el sostenimiento de sus órganos directivos.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 197.
 
 Para la determinación de los topes de campaña el Consejo Estatal aplicará las siguientes reglas:
 
-a) En el caso de la elección a Gobernador se multiplicará el número de ciudadanos inscritos en el padrón electoral del Estado por un veinticinco por ciento del salario mínimo general vigente en el Estado; y
+a) En el caso de la elección a Gobernador se multiplicará el número de ciudadanos inscritos en el padrón electoral del Estado por un veinticinco por ciento de la Unidad de Medida y Actualización; y
 
-b) En el caso de la elección a Diputados y ayuntamientos se multiplicará el número de ciudadanos inscritos en el padrón electoral de que se trate por municipio o distrito, según sea la elección, por un veinte por ciento del salario mínimo general vigente en el Estado.
+b) En el caso de la elección a Diputados y ayuntamientos se multiplicará el número de ciudadanos inscritos en el padrón electoral de que se trate por municipio o distrito, según sea la elección, por un veinte por ciento de la Unidad de Medida y Actualización.
 
-En los municipios que tengan un padrón electoral menor a veinte mil ciudadanos, se multiplicará veinte mil por el veinte por ciento del salario mínimo vigente en el Estado.
+En los municipios que tengan un padrón electoral menor a veinte mil ciudadanos, se multiplicará veinte mil por el veinte por ciento de la Unidad de Medida y Actualización.
 
 ###### Artículo 198.
 
@@ -2505,6 +3425,14 @@ En las elecciones locales extraordinarias, la integración, ubicación y designa
 
 Para la emisión del voto, el Consejo Estatal tomará las medidas de certeza y seguridad que estime pertinentes para imprimir y reproducir el modelo de boleta electoral que se utilizará en la elección de acuerdo a los lineamientos que para tal efecto emita el Instituto Nacional.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+El modelo de las boletas para ejercer los mecanismos de participación ciudadana, será determinado por el Consejo Estatal.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+En la boleta electoral se podrá incluir a solicitud de los candidatos a Gobernador, Diputados locales o Presidentes Municipales, su fotografía, así como su sobrenombre.
+
 ###### Artículo 203.
 
 En caso de cancelación del registro o sustitución de uno o más candidatos, no habrá modificación a las boletas si éstas ya estuvieran impresas. En todo caso, los votos contarán para los partidos políticos y los candidatos que estuviesen legalmente registrados ante el Consejo Estatal, o los consejos distritales y municipales electorales correspondientes.
@@ -2539,9 +3467,11 @@ La entrega del material a que se refieren los incisos que preceden, se hará con
 
 A los presidentes de mesas directivas de casillas especiales les será entregada la documentación y materiales a que se refiere este artículo, con excepción de la lista nominal de electores, en lugar de la cual, recibirán las formas especiales para anotar los datos de los electores que estando transitoriamente fuera de su sección voten en la casilla especial. El número de boletas que reciban no será superior a 750.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 206.
 
-Las urnas que se destinen a la elección, deberán construirse de material transparente y de preferencia plegable o armable.
+Las urnas que se destinen a la elección ya (sic) los mecanismos de participación ciudadana, deberán construirse de material transparente y de preferencia plegable o armable.
 
 Las urnas llevarán en el exterior y en lugar visible, impreso con el mismo color de la boleta, la denominación de la elección de que se trate.
 
@@ -2647,13 +3577,15 @@ El presidente de la casilla recogerá las credenciales para votar que tengan mue
 
 El secretario de la mesa directiva anotará el incidente en el acta respectiva, con mención expresa del nombre del ciudadano o ciudadanos presuntamente responsables.
 
-Una vez comprobado que el elector aparece en las listas nominales y que haya exhibido su credencial para votar, el presidente de la mesa directiva de casilla le entregará las boletas de las elecciones para que libremente y en secreto marque en la boleta únicamente el cuadro correspondiente al partido político por el que sufraga, o anote el nombre del candidato no registrado por el que desea emitir su voto.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Una vez comprobado que el elector aparece en las listas nominales y que haya exhibido su credencial para votar, el presidente de la mesa directiva de casilla le entregará las boletas de las elecciones y en su caso de los mecanismos de participación ciudadana, para que libremente y en secreto marque en la boleta únicamente el cuadro correspondiente al partido político por el que sufraga, anote el nombre del candidato no registrado por el que desea emitir su voto o, en su caso su acuerdo o desacuerdo con el mecanismo de participación ciudadana del que se trate.
 
 Aquellos electores que no sepan leer o que se encuentren impedidos físicamente para marcar sus boletas de voto, podrán hacerse asistir por una persona de su confianza que les acompañe.
 
 Acto seguido, el elector doblará sus boletas y se dirigirá a depositarlas en la urna correspondiente.
 
-El secretario de la casilla, auxiliado en todo tiempo por uno de los escrutadores, deberá anotar, con el sello que le haya sido entregado para tal efecto, la palabra “votó” en la lista nominal correspondiente y procederá a:
+El secretario de la casilla, auxiliado en todo tiempo por uno de los escrutadores, deberá anotar, con el sello que le haya sido entregado para tal efecto, la palabra "votó" en la lista nominal correspondiente y procederá a:
 
 a) Marcar la credencial para votar del elector que ha ejercido su derecho de voto;
 
@@ -2755,13 +3687,15 @@ III. El número de votos nulos, y
 
 IV. El número de boletas sobrantes de cada elección.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 222.
 
 Son votos nulos:
 
-I. Aquél expresado por un elector en una boleta que depositó en la urna, sin haber marcado ningún cuadro que contenga el emblema de un partido político o de una candidatura común, y
+I. Aquél expresado por un elector en una boleta que depositó en la urna, sin haber marcado ningún cuadro que contenga el emblema de un partido político, candidatura común o acuerdo o desacuerdo con el mecanismo de participación ciudadana de que se trate, y
 
-II. Cuando el elector marque dos o más cuadros sin existir coalición o candidatura común entre los partidos cuyos emblemas hayan sido marcados.
+II. Cuando el elector marque dos o más cuadros sin existir coalición o candidatura común entre los partidos cuyos emblemas hayan sido marcados o ambas opciones tratándose de un mecanismo de participación ciudadana.
 
 ###### Artículo 223.
 
@@ -2865,11 +3799,13 @@ Para garantizar la inviolabilidad de la documentación anterior, con el expedien
 
 La denominación expediente de casilla corresponderá al que se hubiese formado con las actas y los escritos de protesta referidos en el primer párrafo de este artículo.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 233.
 
 De las actas de las casillas asentadas en la forma o formas que al efecto se aprueben, se entregará una copia legible a los representantes de los partidos políticos y de candidatos independientes, recabándose el acuse de recibo correspondiente. La primera copia de cada acta de escrutinio y cómputo será destinada al programa de resultados electorales preliminares.
 
-Por fuera del paquete a que se refiere el artículo anterior, se adherirá un sobre que contenga un ejemplar del acta en que se contengan los resultados del escrutinio y cómputo de cada una de las elecciones, para su entrega al presidente del consejo distrital correspondiente.
+Por fuera del paquete a que se refiere el artículo anterior, se adherirá un sobre que contenga un ejemplar del acta en que se contengan los resultados del escrutinio y cómputo de cada una de las elecciones, para su entrega al presidente del consejo respectivo correspondiente.
 
 ###### Artículo 234.
 
@@ -2995,6 +3931,8 @@ Los paquetes no podrán salir de la sede de los consejos respectivos, salvo por 
 
 Los partidos políticos y coaliciones que no hayan obtenido el primero y segundo lugar en la votación podrán estar en el procedimiento de recuento total.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 249.
 
 De actualizarse el supuesto señalado en el artículo anterior, el consejo respectivo, en la sesión que corresponda, declarará la procedencia del recuento total de la elección de que se trate conforme al procedimiento siguiente:
@@ -3003,17 +3941,27 @@ I. El procedimiento de recuento total se iniciará inmediatamente después de qu
 
 II. La autoridad electoral dispondrá lo necesario para realizar el recuento sin interrupciones y previendo la existencia del material necesario para llevarlo a cabo;
 
-III. El presidente del consejo respectivo deberá salvaguardar en todo momento el orden y la integridad física de los miembros de esa autoridad electoral; en caso de ser necesario, podrá solicitar el apoyo de la fuerza pública y determinar que continúe la sesión a puerta cerrada, sólo permanecerán los funcionarios y representantes acreditados;
+III. El presidente del consejo respectivo deberá salvaguardar en todo momento el orden y la integridad física de los miembros de esa autoridad electoral; en caso de ser necesario, podrá solicitar el apoyo de la fuerza pública y determinar que continúe la sesión a puerta cerrada, sólo permanecerán los funcionarios y representantes acreditados; y
 
 IV. Durante el desahogo del recuento total de votos se procederá a lo siguiente:
 
-a) Si existen diferencias entre las actas de escrutinio y cómputo se corregirán, y
+a) El presidente del consejo correspondiente dará aviso inmediato al Secretario Ejecutivo del Instituto Morelense; ordenará la creación de grupos de trabajo integrados por los consejeros electorales, que los presidirán y los representantes de los partidos. Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad.
 
-b) Se formará un expediente que contendrá un acta circunstanciada del procedimiento realizado, en el que se consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada partido y candidato y los documentos en donde consten las operaciones aritméticas realizadas. El acta circunstanciada será firmada por todos los integrantes de cada uno de los grupos responsables. La negativa para firmar no invalidará los resultados consignados en el acta, y
+Los partidos políticos tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente;
 
-V. El presidente del consejo respectivo realizará en sesión la suma de los resultados consignados en actas y asentará el resultado en el acta de cómputo distrital, municipal o estatal, la cual será firmada por todos los integrantes del consejo respectivo.
+b) Si durante el recuento de votos se encuentran en el paquete votos de una elección distinta, se remitirá al órgano electoral competente del cómputo;
 
-Los errores contenidos en las actas originales de escrutinio y cómputo de casilla que sean corregidos por los consejos respectivos siguiendo el procedimiento establecido en este artículo, no podrán invocarse como causa de nulidad ante el Tribunal Electoral.
+c) Los Consejeros Electorales que presidan cada grupo levantarán un acta circunstanciada o constancia individual de recuento, en la que consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada partido, candidato o coalición.
+
+El acta circunstanciada será firmada por todos los integrantes de cada uno de los grupos responsables. La negativa para firmar no invalidará los resultados consignados en el acta o constancia individual de recuento.
+
+Los grupos de trabajo sólo se harán cargo del recuento de los votos y no de la discusión sobre su validez o nulidad; no obstante, si podrán reservar ciertos votos para que los consejeros decidan posteriormente sobre el sentido del mismo, así como de su validez o nulidad.
+
+d) El presidente del consejo realizará en sesión plenaria la suma de los resultados consignados en el acta de cada grupo de trabajo o constancias individuales de recuentos y asentará el resultado en el acta final de escrutinio y cómputo de la elección de que se trate, para que luego forme parte de los resultados que se consignen en el acta de cómputo distrital, municipal o estatal, la cual será firmada por todos los integrantes del consejo respectivo;
+
+e) Los errores contenidos en las actas originales de escrutinio y cómputo de casilla que sean corregidos por los consejos distritales siguiendo el procedimiento establecido en este artículo, no podrán invocarse como causa de nulidad ante el Tribunal Electoral.
+
+En ningún caso podrá solicitarse al Tribunal Electoral que realice recuento de votos respecto de las casillas que hayan sido objeto de dicho procedimiento en los consejos distritales o municipales.
 
 ###### Artículo 250.
 
@@ -3063,9 +4011,11 @@ En relación a la elección de Diputados por el principio de representación pro
 
 Los cómputos y la asignación, se efectuará el séptimo día de la jornada electoral.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 255.
 
-El cómputo total y la declaración de validez de las elecciones de Gobernador y Diputados por el principio de representación proporcional, corresponde, en primera instancia, al Consejo Estatal.
+El cómputo total y la declaración de validez de las elecciones de Gobernador y Diputados por el principio de representación proporcional, así como de los mecanismos de participación ciudadana, corresponde, en primera instancia, al Consejo Estatal.
 
 ###### Artículo 256.
 
@@ -3119,13 +4069,19 @@ b) Diputado por el principio de mayoría relativa, y
 
 c) Presidente Municipal y Síndico.
 
-No procederá en ningún caso, el registro de aspirantes a candidatos independientes por el principio de representación proporcional.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
-En la convocatoria que al efecto expida el Consejo Estatal, se determinará la participación de un solo candidato independiente en la elección de que se trate, por distrito y por municipio, debiendo ser quien en la especie demuestre fehacientemente un mayor apoyo ciudadano.
+No procederá el registro de aspirantes a candidatos independientes por el principio de representación proporcional, en tratándose de la elección de diputados por este principio.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+En la convocatoria que al efecto expida el Consejo Estatal, se determinará la participación de los candidatos independientes en la elección de que se trate, por distrito y por municipio, debiendo ser quienes obtengan el porcentaje de apoyo requerido en los términos de este Código.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### Artículo 263.
 
-Los candidatos independientes para el cargo de Diputado deberán registrar la fórmula correspondiente de propietario y suplente. En el caso de candidatos independientes para la integración de ayuntamiento se deberá registrar una fórmula compuesta por candidatos a Presidente Municipal y Síndico propietarios y suplentes.
+Los candidatos independientes para el cargo de Diputado deberán registrar la fórmula correspondiente de propietario y suplente. En el caso de candidatos independientes para la integración de ayuntamiento, se deberá registrar una lista completa de candidatos a Presidente Municipal, Síndico y regidores, propietarios y suplentes, quienes tendrán derecho de participar en la asignación por representación proporcional.
 
 ###### Artículo 264.
 
@@ -3183,11 +4139,17 @@ A partir del día siguiente de la fecha en que obtengan la calidad de aspirantes
 
 Los actos tendientes a recabar el apoyo ciudadano en los procesos en que se elijan a Gobernador, Diputados, Presidente y Síndico, se sujetarán a los siguientes plazos, según corresponda:
 
-a) Los aspirantes a Candidato Independiente para el cargo de Gobernador, contarán con cuarenta días;
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
-b) Los aspirantes a Candidato Independiente para el cargo de Diputado, contarán con treinta días, y
+a) Los aspirantes a Candidato Independiente para el cargo de Gobernador, contarán con cuarenta y cinco días;
 
-c) Los aspirantes a Candidato Independiente para el cargo de Presidente y Síndico contarán con treinta días.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+b) Los aspirantes a Candidato Independiente para el cargo de Diputado, contarán con treinta y cinco días, y
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+c) Los aspirantes a Candidato Independiente para el cargo de Presidente, Síndico y regidores contarán con treinta y cinco días.
 
 El Consejo Estatal podrá realizar ajustes a los plazos establecidos en este artículo a fin de garantizar los plazos de registro y que la duración de los actos tendentes a recabar el apoyo ciudadano se ciñan a lo establecido en los incisos anteriores. Cualquier ajuste que el Consejo Estatal realice deberá ser difundido ampliamente.
 
@@ -3449,11 +4411,15 @@ Los candidatos independientes que incumplan con la normatividad electoral que le
 
 Los candidatos independientes, de conformidad con lo previsto por los reglamentos de sesiones de Consejos Estatal, Distritales y Municipales aprobados, podrán designar representantes ante dichos organismos en los términos siguientes:
 
-a) Los candidatos independientes a Gobernador, ante el Consejo Estatal y la totalidad de los consejos distritales y municipales electorales;
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+a) Los candidatos independientes a Gobernador, ante el Consejo Estatal y la totalidad de los consejos distritales;
 
 b) Los candidatos independientes a Diputado por el principio de mayoría relativa, ante el consejo electoral del distrito por el cual se quiera postular, debiendo designar un solo representante.
 
-c) Los candidatos independientes a Presidente Municipal y Síndico, ante el consejo municipal correspondiente.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+c) Los candidatos independientes a Presidente Municipal, Síndico y regidores, ante el consejo municipal correspondiente.
 
 La acreditación de representantes ante los organismos mencionados, se realizará dentro de los treinta días posteriores al de la aprobación de su registro como aspirante a Candidato Independiente.
 
@@ -3475,9 +4441,11 @@ a) Financiamiento privado, y
 
 b) Financiamiento público.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 296.
 
-El financiamiento privado se constituye por las aportaciones que realicen el candidato independiente y sus simpatizantes, el cual no podrá rebasar en ningún caso, el 10% del tope de gasto para la elección de que se trate.
+El financiamiento privado se constituye por las aportaciones que realicen el candidato independiente y sus simpatizantes, el cual no podrá rebasar en ningún caso, el cincuenta por ciento del tope de gasto para la elección de que se trate.
 
 ###### Artículo 297.
 
@@ -3647,15 +4615,55 @@ Se utilizará un recuadro para cada candidato independiente o fórmula de candid
 
 En la boleta, en el espacio del recuadro respectivo aparecerá el nombre completo del candidato independiente o de los integrantes de la fórmula de candidatos independientes, en su caso los sobrenombres y la leyenda “Candidato independiente” o “Candidatos independientes” según corresponda.
 
-## TÍTULO PRIMERO. DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2017)</small>
 
-### CAPÍTULO I. DE LOS RECURSOS
+## TÍTULO SÉPTIMO. DE LA INSTRUMENTACIÓN DE LOS MECANISMOS DE PARTICIPACIÓN CIUDADANA
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE MAYO DE 2017)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+###### Artículo 317 Bis.
+
+Los mecanismos de participación ciudadana que se desarrollen el mismo día de la jornada electoral, podrán instrumentarse de acuerdo a la naturaleza de los mismos, aplicando en lo conducente para el solo hecho de optimización de los recursos humanos y operatividad, las disposiciones relativas a estructura, organización, capacitación, cómputos y declaratorias, mediante el acuerdo que de manera oportuna dicte el Consejo Estatal Electoral en donde fije los lineamientos respectivos, que en ninguna forma podrán equipararse a un proceso electoral, sino que tendrán características específicas.
+
+Cuando los mecanismos de participación ciudadana se deban instrumentar en periodo no electoral el acuerdo de implementación de los mismos deberá contener los lineamientos de centralización del proceso, sin que al efecto se utilicen o instalen órganos distritales o municipales coadyuvantes.
+
+En cualquiera de los casos anteriores los acuerdos para la organización de los mecanismos de participación ciudadana deberán contemplar al menos lo siguiente:
+
+I. Lugares, fecha y hora en que deberá realizarse la jornada;
+
+II. La designación de los integrantes de las mesas receptoras del voto;
+
+III. Las papeletas de los mecanismos de participación ciudadana, en número igual al de los electores que figuren en la lista nominal de electores;
+
+IV. Las urnas para recibir la votación;
+
+V. La documentación, formas aprobadas, útiles de escritorio y demás elementos necesarios;
+
+VI. Manuales que indiquen las atribuciones y responsabilidades de los funcionarios de la casilla;
+
+VII. Las reglas para escrutinio y cómputo;
+
+VIII. Las reglas para determinar validez del voto;
+
+IX. Las reglas para la integración del expediente;
+
+X. La publicación de resultados de casilla;
+
+XI. La entrega de paquetes y expedientes;
+
+XII. Cómputo definitivo, declaración de validez, y
+
+XIII. El escrutinio y publicación de resultados en el Centro de Votación.
 
 # LIBRO SÉPTIMO. DE LA JUSTICIA ELECTORAL
 
-## TÍTULO SEGUNDO. DEL SISTEMA DE NULIDADES ELECTORALES
+## TÍTULO PRIMERO. DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN
 
-### CAPÍTULO II. DE LA COMPETENCIA
+### CAPÍTULO I. DE LOS RECURSOS
 
 ###### Artículo 318.
 
@@ -3711,35 +4719,61 @@ IV. Durante los procesos electorales extraordinarios, serán procedentes, los re
 
 V. En tiempos no electorales, serán procedentes los juicios que se interpongan con motivo de la realización de los mecanismos de participación ciudadana.
 
-### CAPÍTULO III. DE LA PARTES
+### CAPÍTULO II. DE LA COMPETENCIA
 
 ###### Artículo 320.
 
 El Consejo Estatal es el organismo competente para resolver el recurso de revisión.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 321.
 
-El Tribunal Electoral será competente para conocer los recursos de: revisión en los supuestos previstos en este código, apelación, inconformidad, reconsideración, juicio para la protección de los derechos político electorales del ciudadano, así como para resolver sobre el procedimiento especial sancionador, además de las controversias de carácter laboral entre el Instituto Morelense y su personal y las del propio tribunal y sus trabajadores.
+El Tribunal Electoral será competente para resolver con plena jurisdicción los medios de impugnación de: revisión en el supuesto previsto en este Código, apelación, inconformidad, reconsideración, juicio para la protección de los derechos político electorales del ciudadano, el procedimiento especial sancionador, así como los juicios laborales entre el Instituto Morelense y sus servidores públicos, y las que surjan entre el Tribunal Electoral y sus servidores públicos.
 
-### CAPÍTULO IV. DE LEGITIMACIÓN Y PERSONERÍA
+### CAPÍTULO III. DE LA PARTES
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### Artículo 322.
 
-Serán partes en el procedimiento para tramitar un recurso:
+Serán partes en los medios de impugnación:
 
-I.- El actor, que será el partido político que lo interponga, debiendo observar las reglas de legitimación previstas en este código.
+I.- El actor, que será el partido político que lo interponga, debiendo observar las reglas de legitimación previstas en este Código;
 
-II.- La autoridad, que será el organismo electoral que realice el acto o dicte la resolución que se impugna; y,
+II.- La autoridad o el partido político que realice el acto o dicte la resolución que se impugna;
 
-III.- El tercero interesado, que será el partido político que tenga un interés legítimo en la causa, derivado de un derecho incompatible con el que pretenda el actor.
+III.- El tercero interesado, que será el partido político que tenga un interés legítimo en la causa, derivado de un derecho incompatible con el que pretenda el actor, o en su caso la coalición, el ciudadano y el candidato;
 
-IV.- Los candidatos podrán participar como coadyuvantes del partido político que los registró, en los recursos interpuestos ante los organismos electorales conforme a lo dispuesto en este código.
+IV.- Los candidatos podrán participar como coadyuvantes del partido político que los registró, en los recursos interpuestos ante los organismos electorales conforme a lo dispuesto en este Código;
 
-V.- Los ciudadanos quienes por sí mismos y en forma individual, hagan valer presuntas violaciones a sus derechos políticos electorales en los términos de este código.
+(NOTA: EL 24 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2017 Y SUS ACUMULADAS 42/2017, 43/2017, 45/2017 Y 47/2017, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS E INCLUSO LA "," POSTERIOR A LA PALABRA "INDIVIDUAL", LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+V.- Los ciudadanos quienes POR SÍ MISMOS Y en forma individual, hagan valer presuntas violaciones a sus derechos políticos electorales en los términos de este Código;
+
+(NOTA: EL 24 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2017 Y SUS ACUMULADAS 42/2017, 43/2017, 45/2017 Y 47/2017, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS E INCLUSO LA "," POSTERIOR A LA PALABRA "INDIVIDUAL", LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 1962 PUBLICADO EN EL P.O. DE 26 DE MAYO DE 2017 SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR A LA FRACCIÓN V.]</small>
+
+VI.- Los ciudadanos quienes POR SÍ MISMOS Y en forma individual, hagan valer presuntas violaciones a sus derechos políticos electorales en los términos de este Código, y
+
+VII.- Los candidatos y partidos políticos que tengan un interés legítimo podrán participar como terceros coadyuvantes, en los recursos interpuestos ante los órganos electorales conforme a lo dispuesto en este Código.
+
+Para efectos de la fracción anterior, podrán participar como coadyuvantes, de conformidad con las reglas siguientes:
+
+a. A través de la presentación de escritos en los que manifiesten lo que a su derecho convenga, sin que en ningún caso puedan ampliar o modificar la controversia planteada en el medio de impugnación o escrito de tercero interesado en el que pretenda coadyuvar;
+
+b. El escrito deberá presentarse dentro de los dos días siguientes a la fijación en estrados y su publicación en la página electrónica, del medio de impugnación al que se pretenda coadyuvar;
+
+c. Los escritos deberán ir acompañados del documento con el que se acredite la personería del promovente;
+
+d. Podrán ofrecer y aportar pruebas sólo en los casos en que así proceda y dentro de los plazos establecidos en este Código, siempre y cuando estén relacionadas con los hechos y agravios invocados en el medio de impugnación interpuesto o en el escrito presentado, y
+
+e. Los escritos deberán contener la firma autógrafa del promovente.
 
 Para los efectos de lo establecido en este libro el candidato independiente tendrá los mismos derechos y obligaciones procesales que los partidos políticos, en lo conducente.
 
-### CAPÍTULO V. DE LOS PLAZOS Y DE LOS TÉRMINOS
+### CAPÍTULO IV. DE LEGITIMACIÓN Y PERSONERÍA
 
 ###### Artículo 323.
 
@@ -3765,7 +4799,7 @@ III. Los que estén autorizados para representarlos mediante mandato otorgado en
 
 IV. Los candidatos independientes, a través de sus representantes legítimos, entendiéndose por estos los que se encuentren acreditados ante el organismo correspondiente
 
-### CAPÍTULO VI. DE LA INTERPOSICIÓN DE LOS RECURSOS
+### CAPÍTULO V. DE LOS PLAZOS Y DE LOS TÉRMINOS
 
 ###### Artículo 325.
 
@@ -3774,6 +4808,10 @@ Durante el proceso electoral todas las horas y días serán hábiles. Los plazos
 Durante los períodos no electorales, son hábiles los días lunes a viernes de cada semana, con excepción de aquellos que sean de descanso obligatorio.
 
 El cómputo de los plazos, en los períodos no electorales, se hará a partir del día siguiente de aquel en que se hubiere notificado el acto o resolución que se impugna.
+
+> <small>(ADICIONADO P.O. 26 DE MAYO DE 2017)</small>
+
+Los medios de impugnación interpuestos fuera del proceso electoral deberán ser resueltos a la brevedad posible. Cuando el Magistrado instructor no resuelva en un plazo razonable, las partes podrán interponer excitativa de justicia ante el Presidente del Tribunal Electoral; una vez interpuesta, y en caso de ser procedente, el Magistrado Presidente dará vista al Magistrado Instructor para que dentro de las cuarenta y ocho horas siguientes informe al respecto.
 
 ###### Artículo 326.
 
@@ -3803,7 +4841,7 @@ Los recursos de revisión, apelación, reconsideración y juicio para la protecc
 
 El recurso de inconformidad deberá interponerse dentro del término de cuatro días, contados a partir del día que concluya el cómputo correspondiente o se efectúe la notificación de la resolución respectiva.
 
-### CAPÍTULO VII. DE LAS NOTIFICACIONES
+### CAPÍTULO VI. DE LA INTERPOSICIÓN DE LOS RECURSOS
 
 ###### Artículo 329.
 
@@ -3901,9 +4939,27 @@ Recibido un recurso de apelación por el Tribunal Electoral, se seguirá en lo c
 
 En el recurso de reconsideración se aplicarán en lo conducente las reglas establecidas para el recurso de inconformidad.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 337.
 
-El juicio para la protección de los derechos político electorales del ciudadano tiene como objeto los actos o resoluciones relativas al registro o cancelación de algún precandidato, candidato o bien de la sustitución de éstos, emitidas por las autoridades electorales administrativas, con motivo del ejercicio de derechos de los partidos políticos o coaliciones, en contravención a su normatividad interna o al convenio respectivo y que por su naturaleza pueda afectar los derechos político electorales de aquel ciudadano.
+El juicio para la protección de los derechos político electorales del ciudadano, será procedente cuando:
+
+a) Considere que se violó su derecho político electoral de ser votado cuando, habiendo sido propuesto por un partido político, le sea negado indebidamente su registro como candidato a un cargo de elección popular;
+
+b) Por violaciones al derecho a ser votado, que impidan u obstaculicen acceder o desempeñar el cargo de elección popular; así como el pago o de la retribución por el ejercicio del cargo por el que fue electo o designado, conforme a la normativa estatal y municipal aplicable;
+
+c) Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político o agrupación política;
+
+d) Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político electorales, y
+
+e) Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político electorales.
+
+Lo dispuesto en el inciso e) será aplicable a los precandidatos y candidatos a cargos de elección popular aun cuando no estén afiliados al partido señalado como responsable.
+
+Asimismo, en tal supuesto el quejoso deberá haber agotado previamente las instancias de solución de conflictos previstas en las normas internas del partido de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al quejoso.
+
+Para lo dispuesto en el inciso b) las controversias surgidas por la probable violación al derecho de los servidores públicos de elección popular, por la omisión del pago de las remuneraciones que en Derecho les correspondan, que se promuevan una vez concluido el periodo para el cual fueron electos, serán competencia del Tribunal de Justicia Administrativa del Estado de Morelos, dada la naturaleza de la relación administrativa y no laboral; el ejercicio de esta acción prescribirá en un año.
 
 ###### Artículo 338.
 
@@ -3941,9 +4997,11 @@ XI. Con el escrito de interposición del recurso se deberá exhibir copias del m
 
 Cuando la violación reclamada verse exclusivamente sobre puntos de derecho, no será necesario cumplir con el requisito previsto en la fracción VIII de este artículo.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### Artículo 341.
 
-En el caso de que la demanda correspondiente no cumpliere con alguno de los requisitos contenidos en las fracciones II, III, IV, V, IX y X del artículo 316, se prevendrá al actor mediante auto aclaratorio notificado por estrados y por una sola vez, de los requisitos faltantes, los que deberán ser satisfechos en el plazo de veinticuatro horas, y de no hacerse así se acordará tener por no presentado el recurso.
+En el caso de que la demanda correspondiente no cumpliere con alguno de los requisitos contenidos en las fracciones II, III, IV, V, IX y X del artículo 340, se prevendrá al actor mediante auto aclaratorio notificado por estrados y por una sola vez, de los requisitos faltantes, los que deberán ser satisfechos en el plazo de veinticuatro horas, y de no hacerse así se acordará tener por no presentado el recurso.
 
 ###### Artículo 342.
 
@@ -4045,7 +5103,7 @@ Las autoridades deberán proporcionar dentro de las 48 horas siguientes, los inf
 
 En casos extraordinarios, el Tribunal Electoral podrá ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue.
 
-### CAPÍTULO VIII. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
+### CAPÍTULO VII. DE LAS NOTIFICACIONES
 
 ###### Artículo 353.
 
@@ -4087,7 +5145,7 @@ Las resoluciones de los organismos electorales se podrán notificar a cualquier 
 
 Las resoluciones del Tribunal Electoral recaídas en los recursos de apelación serán notificadas al Consejo Estatal, a quien haya interpuesto el recurso y, en su caso, a los terceros interesados, por correo certificado, por telegrama o personalmente, a más tardar el día siguiente de que se pronuncien. Al Consejo Estatal se enviará, junto con la notificación, copia de la resolución.
 
-### CAPÍTULO IX. DE LA ACUMULACIÓN
+### CAPÍTULO VIII. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
 
 ###### Artículo 359.
 
@@ -4123,7 +5181,7 @@ II. Cuando durante el procedimiento aparezca o sobrevenga alguna causal de impro
 
 III. Cuando la autoridad electoral modifique o revoque el acto o resolución impugnados, de tal manera que quede sin materia el medio de impugnación.
 
-### CAPÍTULO X. DE LAS PRUEBAS
+### CAPÍTULO IX. DE LA ACUMULACIÓN
 
 ###### Artículo 362.
 
@@ -4135,7 +5193,7 @@ Todos los recursos de revisión y apelación interpuestos dentro de los cinco d�
 
 Cuando los recursos a que se refiere el párrafo anterior no guarden relación con algún recurso de inconformidad, serán archivados como asuntos definitivamente concluidos.
 
-### CAPÍTULO I. DE LOS CASOS DE NULIDAD
+### CAPÍTULO X. DE LAS PRUEBAS
 
 ###### Artículo 363.
 
@@ -4267,9 +5325,9 @@ Cuando los recursos de revisión que se presenten cinco días antes de la elecci
 
 Los recursos de apelación, serán resueltos por el Tribunal Electoral dentro de los quince días siguientes aquel en que se admita.
 
-## TÍTULO PRIMERO. DE LAS FALTAS ELECTORALES Y SU SANCIÓN
+## TÍTULO SEGUNDO. DEL SISTEMA DE NULIDADES ELECTORALES
 
-### CAPÍTULO II. DE LA DECLARACIÓN DE NULIDAD Y SUS EFECTOS
+### CAPÍTULO I. DE LOS CASOS DE NULIDAD
 
 ###### Artículo 375.
 
@@ -4369,7 +5427,7 @@ c) El candidato ganador sobrepase los topes de gastos de campaña en la elecció
 
 d) El candidato ganador, utilice recursos públicos o se destinen programas sociales de cualquier nivel de gobierno para favorecerlo.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LA DECLARACIÓN DE NULIDAD Y SUS EFECTOS
 
 ###### Artículo 379.
 
@@ -4385,9 +5443,9 @@ En el caso de la declaración de inelegibilidad de un candidato electo por el pr
 
 # LIBRO OCTAVO. DE LOS REGÍMENES SANCIONADOR ELECTORAL Y DISCIPLINARIO INTERNO
 
-## TÍTULO SEGUNDO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS ELECTORALES
+## TÍTULO PRIMERO. DE LAS FALTAS ELECTORALES Y SU SANCIÓN
 
-### CAPITULO II. DE LOS SUJETOS, CONDUCTAS SANCIONABLES Y SANCIONES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 381.
 
@@ -4413,7 +5471,7 @@ IV. Aquéllas que únicamente se fundamenten en notas de opinión periodística 
 
 La sanción que se imponga, en su caso, deberá de valorar el grado de frivolidad de la queja y el daño que se podría generar con la atención de este tipo de quejas, al Instituto Morelense.
 
-### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+### CAPITULO II. DE LOS SUJETOS, CONDUCTAS SANCIONABLES Y SANCIONES
 
 ###### Artículo 382.
 
@@ -4617,9 +5675,11 @@ I. Respecto de los partidos políticos o coaliciones:
 
 a) Con amonestación pública;
 
-b) Con multa de cien hasta cinco mil días de salario mínimo general vigente para el Estado, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, con un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
-Según la gravedad de la falta, con la reducción de hasta el 50 % de las ministraciones del financiamiento público, que les corresponda, por el período que señale la reducción, y
+b) Con multa de cien hasta cinco mil veces el valor de la Unidad de Medida y Actualización, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, con un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior.
+
+Según la gravedad de la falta, con la reducción de hasta el 50% de las ministraciones del financiamiento público, que les corresponda, por el período que señale la reducción, y
 
 c) En los casos de graves y reiteradas conductas violatorias de la Constitución y de este Código, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, con la cancelación de su registro como partido político estatal;
 
@@ -4627,7 +5687,9 @@ II. Respecto de los aspirantes, precandidatos o candidatos a cargos de elección
 
 a) Con amonestación pública;
 
-b) Con multas de 50 a 2500 veces el salario mínimo general vigente en el Estado, según la gravedad de la falta, y
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+b) Con multas de 50 a 2500 veces el valor de la Unidad de Medida y Actualización, según la gravedad de la falta, y
 
 c) Con la pérdida del derecho del precandidato infractor a ser registrado como candidato, o en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular, sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato.
 
@@ -4635,7 +5697,9 @@ III. Respecto de los candidatos independientes:
 
 a) Con amonestación pública;
 
-b) Con multa de 25 a 1250 días de salario mínimo general vigente para el estado de Morelos;
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+b) Con multa de 25 a 1250 veces elvalor (sic) de la Unidad de Medida y Actualización;
 
 c) Con la pérdida del derecho del aspirante infractor a ser registrado como Candidato Independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo;
 
@@ -4647,11 +5711,17 @@ IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos pol
 
 a) Con amonestación pública;
 
-b) Cuando sea delegada la fiscalización de los ingresos y egresos de los partidos políticos, al Organismo Público Electoral de More-los (sic), con multa de cien hasta quinientos días de salario mínimo general vigente para el estado; en el caso de aportaciones que violen la normatividad;
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
-c) Respecto de las personas morales por las conductas señaladas en la fracción anterior: con multa de mil hasta diez mil días de salario mínimo general vigente para el estado, en el caso de aportaciones que violen lo dispuesto en este Código, y
+b) Cuando sea delegada la fiscalización de los ingresos y egresos de los partidos políticos, al Organismo Público Electoral de Morelos, con multa de cien hasta quinientas veces del valor de la Unidad de Medida y Actualización; en el caso de aportaciones que violen la normatividad;
 
-d) Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o cualquier persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta dos mil días de salario mínimo general vigente en el Estado, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones;
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+c) Respecto de las personas morales por las conductas señaladas en la fracción anterior: con multa de mil hasta diez mil veces el valor de la Unidad de Medida y Actualización, en el caso de aportaciones que violen lo dispuesto en este Código, y
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+d) Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o cualquier persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta dos mil veces el valor de la Unidad de Medida y Actualización, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones;
 
 V. Respecto de observadores electorales u organizaciones de observadores electorales:
 
@@ -4659,13 +5729,17 @@ a) Con amonestación pública;
 
 b) Con la cancelación inmediata de la acreditación como observadores electorales y la inhabilitación para acreditarlos como tales en al menos dos procesos electorales estatales, y
 
-c) Con multa de cincuenta hasta quinientos días de salario mínimo general vigente para el estado, tratándose de las organizaciones a las que pertenezcan los observadores electorales.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+c) Con multa de cincuenta hasta quinientas veces el valor de la Unidad de Medida y Actualización, tratándose de las organizaciones a las que pertenezcan los observadores electorales.
 
 VI. Respecto de las organizaciones de ciudadanos que pretendan constituir partidos políticos:
 
 a) Con amonestación pública;
 
-b) Con multa de cincuenta hasta quinientos días de salario mínimo general vigente en el Estado, según la gravedad de la falta, y
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+b) Con multa de cincuenta hasta quinientas veces el valor de la Unidad de Medida y Actualización, según la gravedad de la falta, y
 
 c) Con la cancelación del procedimiento tendente a obtener el registro como partido político nacional;
 
@@ -4673,13 +5747,17 @@ VII. Respecto de las organizaciones sindicales, laborales o patronales, o de cua
 
 a) Con amonestación pública, y
 
-b) Con multa de mil hasta cinco mil días de salario mínimo general vigente para el Estado, según la gravedad de la falta; y
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+b) Con multa de mil hasta cinco mil veces el valor de la Unidad de Medida y Actualización, según la gravedad de la falta; y
 
 VIII. Respecto de las autoridades o los servidores públicos de cualquiera de los poderes de la federación, del estado, municipales, órganos autónomos, y cualquier otro ente público:
 
 a) Con amonestación pública;
 
-b) Con multa de mil hasta cinco mil días de salario mínimo vigente para el estado, según la gravedad de la falta;
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+b) Con multa de mil hasta cinco mil veces el valor de la Unidad de Medida y Actualización, según la gravedad de la falta;
 
 c) Con la solicitud de la inhabilitación a través del órgano correspondiente, tratándose de una causa grave, y
 
@@ -4729,9 +5807,11 @@ Las multas deberán ser pagadas en la Dirección Ejecutiva de Administración y 
 
 Los recursos económicos obtenidos con motivo de la aplicación de sanciones económicas impuestas por resoluciones decretadas dentro del Régimen Sancionador Electoral, determinados en la normativa, serán considerados créditos fiscales y una vez enterados, serán destinados al Consejo de Ciencia y Tecnología del Estado de Morelos, en los términos de las disposiciones aplicables; los cuales serán utilizados para el fortalecimiento de la infraestructura y proyectos estratégicos en Ciencia, Tecnología e Innovación, los cuales no podrán ejercerse para gasto corriente.
 
+### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+
 ### CAPÍTULO ÚNICO
 
-## TÍTULO ÚNICO. DEL RÉGIMEN JURÍDICO
+## TÍTULO SEGUNDO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS ELECTORALES
 
 ###### Artículo 401.
 
@@ -4751,13 +5831,17 @@ IV. Las demás que determine este Código o las leyes que resulten aplicables.
 
 # LIBRO NOVENO. DE LAS RELACIONES LABORALES
 
+## TÍTULO ÚNICO. DEL RÉGIMEN JURÍDICO
+
 ###### Artículo 403.
 
 Las relaciones de trabajo entre el Instituto Morelense y el Tribunal Electoral con sus respectivos trabajadores, se rigen por lo dispuesto en el apartado B del artículo 123 de la Constitución Federal.
 
 En consecuencia, dichas relaciones se regulan por las disposiciones de la Ley del Servicio Civil del Estado de Morelos.
 
-En su caso, para los trabajadores del Instituto Morelense, les resultarán aplicables las disposiciones relativas al Servicio Profesional Electoral Nacional.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+En su caso, para los servidores públicos del Instituto Morelense, les resultarán aplicables las disposiciones establecidas dentro del Estatuto del Servicio Profesional Electoral Nacional y del Personal de la Rama Administrativa, así como la normativa secundaria que de este se derive.
 
 DISPOSICIONES TRANSITORIAS
 
@@ -4836,3 +5920,29 @@ P.O. 12 DE ABRIL DE 2017.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 26 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL NOVECIENTOS SESENTA Y DOS POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS Y DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS, EN MATERIA ELECTORAL".]
+
+PRIMERA. Aprobado el presente decreto, remítase al Titular del Poder Ejecutivo para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. En estricto respeto al principio de irretroactividad de la ley, consagrado en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos, la reforma contenida en el artículo 74 del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos, no les será aplicable a los Consejeros Electorales del Instituto Morelense de Procedimientos Electorales y Participación Ciudadana que se encuentren ejerciendo dicho cargo a la entrada en vigor de la misma.
+
+CUARTA. En razón de la reducción de Distritos Electorales realizada por la presente Legislatura y la consiguiente delimitación de los mismos realizada por el Instituto Nacional Electoral de acuerdo a su facultad contenida en el artículo 214, numeral 1, de la Ley General de Instituciones y Procedimientos Electorales, por esta única ocasión, para el proceso electoral de 2018, lo dispuesto en el tercer párrafo del artículo 162 del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos, no será aplicable a los Diputados locales que pretendan su reelección, siempre y cuando el nuevo Distrito por el que pretendan la reelección, contenga alguna de las secciones electorales del Distrito al que representan al momento de inscribir su candidatura.
+
+QUINTA. Por única ocasión, los plazos a los que hace referencia el artículo 177 del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos, para el proceso electoral 2017-2018, serán los siguientes:
+
+a) Para el registro de candidatura a Gobernador del estado, será del 20 al 24 de abril de 2018;
+
+b) Para el registro de candidaturas a Diputados del Congreso del Estado, será del 25 al 29 de abril de 2018, y
+
+c) Para el registro de la plataforma electoral por parte de los partidos políticos, será del 25 al 29 de abril de 2018.
+
+SEXTA. Por única ocasión, los plazos a que hace referencia el artículo 168 del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos, para el proceso electoral 2017-2018, serán los siguientes:
+
+Los procesos de selección interna de candidatos a los cargos de Gobernador, Diputados al Congreso y miembros de los ayuntamientos, se llevarán a cabo a partir del 15 de enero del año de la elección, y no podrán extenderse más allá del día 15 de marzo del año de la elección.
+
+SÉPTIMA. Se derogan las disposiciones de menor rango que se opongan al presente Decreto.
