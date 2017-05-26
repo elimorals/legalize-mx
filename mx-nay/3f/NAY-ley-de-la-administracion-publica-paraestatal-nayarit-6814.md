@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-la-administracion-publica-paraestatal-nayarit-6814"
 country: "mx"
 rank: "ley"
 publication_date: "1985-04-13"
-last_updated: "2007-12-15"
+last_updated: "2017-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE LA ADMINISTRACION PUBLICA PARAESTATAL, NAYARIT
 
-LEY DE LA ADMINISTRACION PUBLICA PARAESTATAL
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2007.
+LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 13 de abril de 1985.
 
@@ -49,7 +51,7 @@ La presente Ley regulará los Organismos Descentralizados, Empresas Públicas qu
 
 Dentro de la Administración Pública Paraestatal; serán considerados como Organismos Descentralizados las Instituciones creadas por disposición de la H. Legislatura del Estado, o en su caso por el Ejecutivo del Estado, tendrán personalidad jurídica y patrimonio propios cualquiera que sea la forma o estructura legal que adopten.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 3o.
 
@@ -59,15 +61,25 @@ I.- Que su patrimonio se integre total o parcialmente con fondos o bienes del Go
 
 II.- Que su objeto o finalidad persigan una utilidad preponderantemente pública y social.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### ARTICULO 4o.
 
-El Ejecutivo del Estado tendrá facultades para designar Contralor, Comisario o Supervisor; el cual vigilará las operaciones de los Organismos de las Empresas Públicas o Fideicomisos Públicos Paraestatales, realizando auditorias, inspecciones técnicas o supervisiones, para garantizar su adecuado funcionamiento.
+El Titular de la Secretaría de la Contraloría General tendrá facultades para designar Contralor, Comisario o Supervisor; el cual vigilará las operaciones de los organismos públicos descentralizados, las empresas de participación estatal mayoritaria, los fondos y fideicomisos públicos paraestatales y los demás organismos de carácter público que funcionen en el Estado, realizando auditorias, inspecciones técnicas o supervisiones, para garantizar su adecuado funcionamiento.
+
+La Secretaría de la Contraloría General considerando la cuantía del monto de los recursos materiales y humanos que ejerzan los organismos públicos descentralizados, las empresas de participación estatal mayoritaria, los fondos y fideicomisos públicos paraestatales y los demás organismos de carácter público que funcionen en el Estado, podrá optar por designar a un titular de Órgano Interno de Control, o en su caso supervisar directamente el sistema de control interno del organismo referido.
 
 ###### ARTICULO 5o.
 
 Se consideran empresas de participación estatal mayoritaria aquellas, cuyo patrimonio se constituye con aportaciones del Gobierno del Estado, de uno o más organismos descentralizados, u otras empresas de participación estatal; uno o más fideicomisos a que se refiere el Artículo 3o. de esta Ley, considerados conjunta o separadamente, aporten o sea propietario del 51% o más del capital social.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, según sea el caso, incorporarán órganos de control interno y contarán con los Comisarios Públicos que designe la Secretaría de la Contraloría General en los términos de Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Los fideicomisos públicos a que se refiere el artículo 13 de esta Ley, se ajustarán a lo dispuesto en el párrafo anterior.
 
 ###### ARTICULO 6o.
 
@@ -95,7 +107,9 @@ Queda expresamente prohibido el otorgamiento de contratos de compra o venta de n
 
 Para los efectos de esta Ley, serán empresas de participación estatal minoritaria las sociedades en las que, uno o más organismos descentralizados u otras empresas de participación estatal mayoritaria consideradas conjunto o separadamente; posean acciones o partes de capital que representen del 50% y hasta el 25% de aquél.
 
-Siempre la vigilancia de la participación estatal estará a cargo de un Comisario designado por el Ejecutivo del Estado o Secretario encargado de la coordinación del sector correspondiente.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+Siempre la vigilancia de la participación estatal estará a cargo de un Comisario designado por el Titular de la Secretaría de la Contraloría General o Secretario encargado de la coordinación del sector correspondiente.
 
 ###### ARTICULO 12.
 
@@ -117,9 +131,11 @@ Dentro de la Administración Pública Paraestatal, deberá llevar un libro espec
 
 Toda persona que acredite tener interés jurídico legítimo, podrá consultar el libro a que se refiere el Artículo anterior. Este libro estará al cuidado de los administradores de la empresa, quienes responderán solidariamente de su existencia y de la fidelidad de sus datos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 16.
 
-El Ejecutivo del Estado tendrá además de las facultades de designar al Contralor, Comisario o Auditor; quien tendrá las facultades siguientes:
+El Titular de la Secretaría de la Contraloría General además de designar al Contralor, Comisario o Auditor; tendrá las facultades siguientes:
 
 A).- Revisar los estados financieros, sistemas de contabilidad, de control y de auditoría interna de cada organismo descentralizado, empresa pública o fideicomiso.
 
@@ -127,7 +143,7 @@ B).- Designar al Auditor Externo y determinar las normas conforme a las cuales d
 
 C).- Vigilar el cumplimiento de los presupuestos y programas anuales de operación y administración.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 17.
 
@@ -135,7 +151,9 @@ Están obligados los Organismos Descentralizados, Empresas Públicas Mayoritaria
 
 A).- Formular al Consejo de Administración sus presupuestos, programas y financiamientos anuales de operación.
 
-B).- Dar todo tipo de facilidades al Ejecutivo del Estado, Auditor Externo, Contralor, Comisario o Auditor y Dependencias, Entidades, Instituciones y Organismos que participen en el Capital Social de la Sociedad, para que puedan revisar libros, documentos, archivos, sistema, procedimientos de trabajo y producción y toda operación relacionada con su objeto social.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
+B).- Dar todo tipo de facilidades al Titular de la Secretaría de la Contraloría General, Auditor Externo, Contralor, Comisario o Auditor y Dependencias, Entidades, Instituciones y Organismos que participen en el Capital Social de la Sociedad, para que puedan revisar libros, documentos, archivos, sistema, procedimientos de trabajo y producción y toda operación relacionada con su objeto social.
 
 ###### ARTICULO 18.
 
@@ -148,6 +166,52 @@ Todos los actos, convenios, contratos y negocios jurídicos que las empresas pú
 ###### ARTICULO 20.
 
 Los casos no previstos en la presente Ley serán resueltos por acuerdo del Consejo de Administración, del Consejo Directivo del Organo Rector del Organismo respectivo, señalando los Tribunales de la Ciudad de Tepic, Capital del Estado de Nayarit como los competentes para resolver las controversias que puedan surgir.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+###### ARTICULO 21.
+
+La función de vigilancia de los organismos descentralizados estará a cargo de la Secretaría de la Contraloría General por conducto de los Comisarios que para tal efecto designe.
+
+Los Comisarios Públicos evaluarán el desempeño general, y por funciones del organismo, efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Contraloría General les asigne específicamente conforme a la Ley.
+
+Para el cumplimiento de las funciones citadas el Órgano de Gobierno, el Director General y el Órgano Interno de Control, deberán proporcionar la información que soliciten los Comisarios Públicos.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+###### ARTICULO 22.
+
+La responsabilidad del control al interior de los organismos descentralizados se ajustará a los siguientes lineamientos:
+
+I. Los órganos de gobierno controlarán la forma en que los objetivos sean alcanzados y la manera en que las estrategias básicas sean conducidas; deberán atender los informes que en materia de control y auditoría les sean turnados y vigilarán la implantación de las medidas correctivas a que hubiere lugar;
+
+II. Los Directores Generales definirán las políticas de instrumentación de los sistemas de control que fueren necesarios; tomarán las acciones correspondientes para corregir las deficiencias que se detecten y presentarán al Órgano de Gobierno informes periódicos sobre el cumplimiento de los objetivos del sistema de control, su funcionamiento y programas de mejoramiento, y
+
+III. Los demás servidores públicos del organismo responderán dentro del ámbito de sus competencias correspondientes sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+###### ARTICULO 23.
+
+Los órganos internos de control serán parte integrante de la estructura de las entidades paraestatales cuando así lo estime conveniente, la Secretaría de la Contraloría General, y tendrán las bases siguientes:
+
+I.- Recibirán quejas, investigarán y, en su caso, por conducto del titular del órgano de control interno o del área de responsabilidades, determinarán la responsabilidad administrativa de los servidores públicos de la entidad e impondrán las sanciones aplicables en los términos previstos en la ley de la materia, así como dictarán las resoluciones en los recursos de revocación que interpongan los servidores públicos de la entidad respecto de la imposición de sanciones administrativas. Dichos órganos realizarán la defensa jurídica de las resoluciones que emitan ante los diversos Tribunales, representando al titular de la Secretaría de la Contraloría General;
+
+II. Realizarán sus actividades de acuerdo a reglas y bases que les permitan cumplir su cometido con autosuficiencia y autonomía, y
+
+III. Examinarán y evaluarán los sistemas, mecanismos y procedimientos de control; efectuarán revisiones y auditorías, vigilarán que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables; presentarán al Director General, al Órgano de Gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+###### ARTICULO 24.
+
+La Secretaría de la Contraloría General podrá realizar visitas y auditorías a las entidades paraestatales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades de los servidores públicos, y en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+
+###### ARTICULO 25.
+
+En aquellos casos en los que el Órgano de Gobierno, Consejo de Administración o el Director General no dieren cumplimiento a las obligaciones legales que les atribuyen en este ordenamiento, el Ejecutivo del Estado por conducto de las dependencias competentes, así como de la Coordinadora de Sector que corresponda, actuará de acuerdo a lo preceptuado en las leyes respectivas, a fin de subsanar las deficiencias y omisiones. Lo anterior sin perjuicio de que se adopten otras medidas y se finquen las responsabilidades a que hubiere lugar.
 
 ## TRANSITORIOS
 
@@ -190,3 +254,11 @@ P.O. 15 DE DICIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 26 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL, EN MATERIA DE COMBATE A LA CORRUPCIÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el dieciocho de julio del dos mil diecisiete, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- A partir de la entrada en vigor del presente Decreto, el titular de la Secretaría de la Contraloría del Poder Ejecutivo, iniciará el procedimiento respectivo para la designación de los titulares de los Órganos Internos de Control o Comisarios que estime conveniente para las entidades paraestatales.
