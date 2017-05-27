@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2017-05-13"
+last_updated: "2017-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2017.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2259,6 +2259,8 @@ En todos los casos previstos en los artículos precedentes, el Ministerio Públi
 
 ### CAPÍTULO VIII. Abigeato
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2017)</small>
+
 ### CAPITULO IX. Disposiciones Comunes a los Delitos contra el Patrimonio
 
 ## TÍTULO SÉPTIMO. INHUMACIONES Y EXHUMACIONES ILÍCITAS
@@ -2619,13 +2621,15 @@ Si el daño, destrucción o deterioro se causa por medio de inundación, incendi
 
 ###### ARTÍCULO 237.
 
-Comete el delito de abigeato quien, sin derecho, se apodera de una o más cabezas de ganado mayor, sea bovino equino, mular o asnal, independientemente del lugar donde se encuentre.
+Comete el delito de abigeato quien, sin derecho, se apodera de una o más cabezas de ganado, independientemente del lugar donde se encuentre. Este delito se sancionará con:
 
-Este delito se sancionará con una pena de dos a diez años de prisión y sanción pecuniaria de doscientos a un mil días de salario mínimo.
+I. Pena de dos a cuatro años de prisión, y sanción pecuniaria de doscientos a quinientos días del valor de la unidad de medida y actualización vigente, cuando sea sobre una o dos cabezas de ganado menor, sea porcino, ovino o caprino, y
+
+II. Pena de tres a once años de prisión y sanción pecuniaria de trescientos a mil cien días del valor de la unidad de medida y actualización vigente, cuando sea sobre tres o más cabezas de ganado menor, ya sea porcino, ovino o caprino; o una o más de ganado mayor, sea bovino equino, mular o asnal.
 
 ###### ARTÍCULO 238.
 
-A quien se apodere sin derecho de una o más cabezas de ganado menor, sea porcino, ovino o caprino, se le impondrá una pena de uno a diez años de prisión y sanción pecuniaria de cien a un mil días de salario mínimo.
+(DEROGADO, P.O. 27 DE MAYO DE 2017)
 
 ###### ARTÍCULO 239.
 
@@ -2636,6 +2640,10 @@ Si el abigeato se verifica con violencia, por la noche, por dos o más personas,
 A quien, sin tomar las medidas indispensables para cerciorarse de la procedencia legítima de los animales, comercie ganado producto del abigeato o comercie en pieles, carnes u otros derivados obtenidos de este delito, se le impondrá una pena de cuatro a doce años de prisión y sanción pecuniaria de cuatrocientos a un mil doscientos días de salario mínimo.
 
 A las autoridades que intervengan en esas operaciones, si no tomaron las medidas a las que estén obligadas, se les impondrá una pena de dos a diez años de prisión, sanción pecuniaria de doscientos a un mil días de salario, más la inhabilitación para desempeñar cargos públicos por el doble de la pena de prisión impuesta.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2017)</small>
+
+ARTÍCULO 240 BIS. A quien, sin tomar las medidas indispensables para cerciorarse de la procedencia legítima de los animales, custodie, adquiera, destace, acopie, trafique, pignore, reciba, u oculte con dolo, ganado, pieles, carnes u otros derivados del ganado que sean producto del abigeato, o bien que realice tales acciones sin autorización de quien legalmente pueda disponer del ganado, se le impondrá una pena de dos a cuatro años de prisión y sanción pecuniaria de cien a seiscientos días del valor de la unidad de medida y actualización vigente.
 
 ###### ARTÍCULO 241.
 
@@ -4340,6 +4348,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente.
 P.O. 13 DE MAYO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0624.- SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 144, DEL CÓDIGO PENAL DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0643.- SE REFORMA EL ARTÍCULO 237; ADICIONA EL ARTÍCULO 240 BIS; Y DEROGA EL ARTÍCULO 238, DEL CÓDIGO PENAL DEL ESTADO”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
