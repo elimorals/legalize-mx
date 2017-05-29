@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2017-04-24"
+last_updated: "2017-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE MAYO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -316,9 +316,13 @@ XXI. No ser sometidos a medios, tratamientos o procedimientos médicos que prete
 
 XXII. Recibir atención en la Clínica de Atención Geriátrica;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE MAYO DE 2017)</small>
+
+XXIII. Las mujeres deberán recibir diagnóstico preventivo y oportuno a través de estudios de ultrasonido transvaginal y del marcador tumoral CA 125 para la detección de cáncer de ovario. Especialmente, las mujeres que se encuentran en la menopausia. Priorizando aquellas de alto riesgo con historia familiar de cáncer de mama y de ovario en línea directa.
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 5 DE OCTUBRE DE 2016)</small>
 
-XXIII. Los demás que le sean reconocidos en el funcionamiento de los sistemas de salud.
+XXIV. Los demás que le sean reconocidos en el funcionamiento de los sistemas de salud.
 
 ###### Artículo 12.
 
@@ -544,11 +548,13 @@ cc) Desarrollar programas para la prevención y detección oportuna de la insufi
 
 La atención médica y el tratamiento sustituto de la insuficiencia renal crónica estarán sujetos a disponibilidad presupuestal, y en su caso, se propondrá la celebración de instrumentos jurídicos con instituciones de los sectores público, social y privado;
 
-> <small>(REFORMADO, G.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2017)</small>
 
-dd) La prestación de servicios de salud para la protección contra los riesgos sanitarios, y
+dd) Desarrollar programas para la capacitación del personal médico que identifique síntomas y diagnóstico oportuno de cáncer de ovario, así como la promoción permanente de campañas de información sobre la prevención y detección del mismo, dirigidas a toda la población de la Ciudad de México.
 
-ee) Las demás que le reconozca la Ley General de Salud y la presente Ley.
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2017)</small>
+
+ee) Las demás que le reconozca la Ley General de Salud y la presente Ley
 
 II.- Impulsar y promover la consolidación, funcionamiento, organización y desarrollo del Sistema de Salud del Distrito Federal, procurando su participación programática en el Sistema Nacional de Salud y coadyuvando a su consolidación y funcionamiento;
 
@@ -3281,3 +3287,11 @@ G.O. 24 DE ABRIL DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 29 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento, y en el Diario Oficial de la Federación para su mayor difusión.
