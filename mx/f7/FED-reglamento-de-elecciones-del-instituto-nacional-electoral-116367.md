@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2017-05-17"
+last_updated: "2017-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2017.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -6022,5 +6022,23 @@ Los anexos pueden ser consultados en las siguientes direcciones electrónicas:
 http://www.ine.mx/archivos2/portal/historico/contenido/recursos/ife-v2/ds/ds-cg/ds-sesionescg/cg-acuerdos/2017/03_marzo/cgex201703-15-1/cg1ex201703-15-ap11-x1.pdf
 
 http://www.ine.mx/archivos2/portal/historico/contenido/recursos/ife-v2/ds/ds-cg/ds-sesionescg/cg-acuerdos/2017/03_marzo/cgex201703-15-1/cg1ex201703-15-ap11-x2.pdf
+
+D.O.F. 29 DE MAYO DE 2017.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA MODIFICACIÓN AL PLAZO PREVISTO EN EL ARTÍCULO DÉCIMO TRANSITORIO DEL REGLAMENTO DE ELECCIONES PARA LA PRESENTACIÓN ANTE EL CONSEJO GENERAL DEL PROTOCOLO PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD COMO FUNCIONARIOS Y FUNCIONARIAS DE MESA DIRECTIVA DE CASILLA, ASÍ COMO EL CRONOGRAMA DE ACTIVIDADES PARA SU ELABORACIÓN".]</small>
+
+ACUERDO
+
+Primero.- Se aprueba la modificación al plazo previsto en el artículo Décimo Transitorio del Reglamento de Elecciones para la presentación ante el Consejo General del Protocolo para la Inclusión de las Personas con Discapacidad como funcionarios y funcionarias de mesa directiva de casilla, en los términos del Anexo único que forma parte integral del presente documento.
+
+Segundo.- Se aprueba el Cronograma de Actividades de elaboración del Protocolo para la inclusión de las personas con discapacidad como funcionarios y funcionarias de mesa directiva de casilla de conformidad con el Anexo único que forma parte integrante del presente Acuerdo.
+
+Tercero.- Se instruye a la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica para que, con apoyo de la Dirección Ejecutiva de Organización Electoral y la Unidad Técnica de Igualdad de Género y No Discriminación de conformidad con Cronograma de Actividades, elabore el Protocolo referido en el Punto de Acuerdo anterior, atendiendo a lo establecido en el considerando 37 del presente Acuerdo.
+
+Cuarto.- Se instruye a la Unidad Técnica de Vinculación con los Organismos Públicos Locales para que instrumente lo conducente a fin de que notifique a los integrantes de los Consejos Generales de los Organismos Públicos Locales el contenido del presente Acuerdo.
+
+Quinto.- El presente Acuerdo entrará en vigor al día siguiente de su aprobación por el Consejo General.
+
+Sexto.- Publíquese un extracto del Presente Acuerdo en el Diario Oficial de la Federación.
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
