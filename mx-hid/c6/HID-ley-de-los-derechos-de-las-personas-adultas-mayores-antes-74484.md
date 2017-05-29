@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2016-08-15"
+last_updated: "2017-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -351,7 +351,9 @@ X.- Fomentar que las instituciones educativas y de seguridad social establezcan 
 
 XI.- Asesorar y orientar a los adultos mayores y sus familias en materia de: Geriatría, Gerontología y Tanatología;
 
-XII.- Fomentar la creación, gestión y apoyo de clubes, centros de día y casas de estar de grupos de adultos mayores;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+
+XII.- Contribuir al buen funcionamiento de clubes, casas de día y demás centros de asistencia;
 
 XIII.- Impulsar el desarrollo de un sistema asistencial que atienda los múltiples problemas médicos que tienen como rasgo común la pérdida de la funcionalidad e independencia física o social;
 
@@ -513,9 +515,17 @@ I.- Formular y desarrollar programas Municipales de atención a adultos mayores,
 
 II.- Autorizar al Presidente Municipal para que en representación del Municipio celebre Convenios de Colaboración, con la Federación, el Estado y otros Municipios de la Entidad, así como con instituciones de los sectores público y privado;
 
-III.- Promover que en las nuevas construcciones que se realicen por el sector público y privado, con fines de uso comunitario, recreación o de cualquier otra naturaleza, cuenten con las adecuaciones necesarias que permitan el libre desplazamiento con seguridad de los adultos mayores; y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
 
-IV.- Promover la creación de Consejos Municipales para la atención de los adultos mayores.
+III.- Promover que en las nuevas construcciones que se realicen por el sector público y privado, con fines de uso comunitario, recreación o de cualquier otra naturaleza, cuenten con las adecuaciones necesarias que permitan el libre desplazamiento con seguridad de los adultos mayores;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+
+IV.- Promover la creación de Consejos Municipales para la atención de los adultos mayores; y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
+
+V.- Promover la creación de casas de día, como lugares en los que se brinda atención a las personas adultas mayores.
 
 ### CAPÍTULO VII. INSTITUTO PARA LA ATENCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO
 
@@ -618,3 +628,9 @@ P.O. 15 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 692.- QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 29 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 184 QUE REFORMA LA LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
