@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-tecnologico-superior-de-38664
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-29"
-last_updated: "2004-03-29"
+last_updated: "2017-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE LA SIERRA NORTE DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO DEL EJECUTIVO DEL ESTADO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE LA SIERRA NORTE DE PUEBLA, PUBLICADO EN EL P.O. DE 29 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE LA SIERRA NORTE DE PUEBLA
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2017 (DEROGADO).
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 29 de marzo de 2004.
 
@@ -458,3 +460,13 @@ PRIMERO.- El presente Reglamento entre en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
 Dado en la Sesión Extraordinaria de la Junta Directiva del Instituto Tecnológico Superior de la Sierra Norte de Puebla, en Zacatlán, Puebla, a los veinte días del mes de enero de dos mil cuatro.- Presidente Suplente de la Junta Directiva.- CONTADOR PÚBLICO APOLONIO HERNÁNDEZ VERA.- Rúbrica.- Vocal Suplente LICENCIADO RODOLFO FLORES ROJAS.- Rúbrica.- Vocal Suplente.- INGENIERO ALFONSO CANO VELASCO.- Rúbrica.- Vocal Suplente PROFESOR JOSÉ DE LA LUZ ARGUETA CANALES.- Rúbrica.- Vocal Suplente.- PROFESORA ARCELIA AMADOR GUTIERREZ.- Rúbrica.- Vocal Propietario.- LICENCIADO SERGIO ORTEGA ALVAREZ.- Rúbrica.- Subdelegado de la SEDECAP en el Sector Educativo.- LICENCIADO RAÚL LÓPEZ ROLDÁN.- Rúbrica.-Directora General del Instituto Tecnológico Superior de la Sierra Norte de Puebla.- GUADALUPE MORENO NAVA.- Rúbrica.- Secretario de Actas y Acuerdos del Instituto Tecnológico Superior de la Sierra Norte de Puebla.- LICENCIADO ÁNGEL ADOLFO PÉREZ DEL VALLE.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL EJECUTIVO DEL ESTADO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE LA SIERRA NORTE DE PUEBLA."]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga el Acuerdo de la Junta Directiva del Instituto Tecnológico Superior de la Sierra Norte de Puebla, que expide el Reglamento Interior del Instituto Tecnológico Superior de la Sierra Norte de Puebla, de fecha veintinueve de marzo de dos mil cuatro.
