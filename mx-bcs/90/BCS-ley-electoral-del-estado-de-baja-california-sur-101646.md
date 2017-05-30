@@ -4,7 +4,7 @@ identifier: "BCS-ley-electoral-del-estado-de-baja-california-sur-101646"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-28"
-last_updated: "2016-10-31"
+last_updated: "2017-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE MAYO DE 2017.
 
 Ley publicada en Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el sábado 28 de junio de 2014.
 
@@ -1315,9 +1315,21 @@ III. No ser Magistrado del Tribunal Estatal Electoral, salvo que renuncie a su c
 
 IV. No pertenecer al Servicio Profesional Electoral Estatal, salvo que se separe del cargo un año antes de la fecha de inicio del proceso electoral de que se trate.
 
+> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
+
+Los diputados e integrantes de ayuntamientos, que se encuentren en ejercicio de sus funciones y pretendan su elección consecutiva, deberán solicitar licencia al menos cinco días previos a la fecha de su registro como precandidatos. Deberá convocársele al diputado suplente o al integrante suplente de ayuntamiento, para rendir la protesta constitucional en sesión pública extraordinaria que para ese efecto se convoque dentro de las veinticuatro horas siguientes a aquella en que se apruebe la licencia solicitada por el propietario, de conformidad con la Ley Reglamentaria del Poder Legislativo y la Ley Orgánica del Gobierno Municipal, ambas del Estado de Baja California Sur, respectivamente.
+
 ###### Artículo 50.
 
 A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral, en términos de lo dispuesto por el primer párrafo del artículo 11 de la Ley General, con excepción de lo previsto en el artículo 41 fracción III párrafo segundo de la Constitución.
+
+> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
+
+No podrá ser registrado como candidato a elección consecutiva por partido político distinto a aquel o cualquiera de aquellos que en vía de coalición, lo postuló en el proceso electoral en que resultó electo, salvo que haya renunciado o perdido su militancia antes de la mitad de su mandato.
+
+> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
+
+Tratándose de la postulación de candidatos independientes a elección consecutiva solo podrá ser realizada si fue electo mediante tal mecanismo de participación política.
 
 ### Capítulo III. De la elección de Gobernador, Diputados y Ayuntamientos
 
@@ -1327,17 +1339,45 @@ El ejercicio del Poder Ejecutivo del Estado se deposita en un solo individuo que
 
 ###### Artículo 52.
 
-El Poder Legislativo del Estado, se deposita en una Asamblea que se denomina “Congreso del Estado de Baja California Sur”, que deberá estar integrada por dieciséis diputados según el principio de Mayoría Relativa en su totalidad cada tres años, mediante el sistema de distritos electorales uninominales y hasta por cinco de diputados electos según el principio de Representación Proporcional, mediante el sistema de listas. Por cada diputado propietario se elegirá un suplente.
+El Poder Legislativo del Estado, se deposita en una Asamblea que se denomina "Congreso del Estado de Baja California Sur", que deberá estar integrada por dieciséis diputados según el principio de Mayoría Relativa en su totalidad cada tres años, mediante el sistema de distritos electorales uninominales y hasta por cinco de diputados electos según el principio de Representación Proporcional, mediante el sistema de listas. Por cada diputado propietario se elegirá un suplente.
 
 En las fórmulas para diputados, tanto en el caso de mayoría relativa, como de representación proporcional, los partidos políticos deberán integrarlas por personas del mismo género.
 
 En el caso de las candidaturas independientes, las fórmulas deberán estar integradas por personas del mismo género.
+
+> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
+
+Los diputados podrán ser electos hasta por cuatro periodos consecutivos por ambos principios.
+
+> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
+
+Serán sujetos de elección consecutiva los Diputados que hayan protestado o ejercido el cargo, independiente de su carácter de propietario o suplente.
+
+> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
+
+Quien hubiese sido electo Diputado propietario de manera consecutiva por el límite constitucional y el establecido en esta ley, no podrá ser electo para el siguiente periodo en calidad de suplente del mismo cargo de elección popular.
+
+> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
+
+La posición de Diputado suplente que no haya protestado el cargo, no se contabiliza para efectos del límite de periodos para elección consecutiva.
 
 Los candidatos a Diputados que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que ha sido electo en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de reelección.
 
 ###### Artículo 53.
 
 Los municipios serán gobernados por un Ayuntamiento de elección popular directa, conformado por un Presidente Municipal y el número de integrantes que determine la Constitución.
+
+> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
+
+Serán sujetos de elección consecutiva el Presidente Municipal, Síndicos y Regidores del Ayuntamiento que hayan ejercido el cargo independientemente de su carácter de propietario o suplente, podrán ser en orden distinto al que fueron electos, a efecto de garantizar el principio de paridad de género.
+
+> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
+
+La suplencia de síndico y regidores no se contabilizará para efectos de los límites de la elección consecutiva, salvo que hayan ejercido el cargo.
+
+> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
+
+Quien hubiese sido electo miembro propietario de manera consecutiva por el límite establecido en esta ley, no podrá ser electo para el siguiente periodo en calidad de suplente del mismo cargo de elección popular.
 
 Los candidatos a integrantes de los Ayuntamientos que busquen reelegirse en sus cargos, deberán acompañar una carta con su manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de reelección.
 
@@ -1593,11 +1633,15 @@ Los organismos, dependencias y autoridades locales y municipales deberán colabo
 
 El proceso electoral rige el conjunto de actos ordenados por la Constitución General, la Ley General, la Constitución y esta Ley, realizados por las autoridades electorales, los partidos políticos nacionales, y locales y los ciudadanos, que tiene por objeto la renovación periódica de los integrantes de los Poderes Legislativo y Ejecutivo e Integrantes de Ayuntamientos del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE MAYO DE 2017)</small>
+
 ###### Artículo 77.
 
-El proceso electoral ordinario se inicia en septiembre del año previo al de la elección y concluye con el dictamen y declaración de validez de la elección de Gobernador del Estado. En todo caso, la conclusión será una vez que el Tribunal Estatal Electoral haya resuelto el último de los medios de impugnación que se hubieren interpuesto o cuando se tenga constancia de que no se presentó ninguno.
+El proceso electoral ordinario se inicia en diciembre del año previo de la elección y concluye con el dictamen y declaración de validez de la elección de Gobernador del Estado, Presidentes Municipales y Diputados Locales. En todo caso, la conclusión será una vez que el Tribunal Estatal Electoral haya resuelto el último de los medios de impugnación que se hubieren interpuesto o cuando se tenga constancia de que no se presentó ninguno.
 
-Para los efectos de esta Ley, el proceso electoral ordinario comprende las etapas siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE MAYO DE 2017)</small>
+
+Para los efectos de esta Ley, el proceso electoral ordinario comprende las siguientes etapas:
 
 I. Preparación de la elección;
 
@@ -1607,9 +1651,13 @@ III. Resultados y declaraciones de validez de las elecciones, y
 
 IV. Dictamen y declaraciones de validez de la elección y de Gobernador electo.
 
-La etapa de preparación de la elección se inicia con la primera sesión que el Consejo General celebre durante la primera semana de septiembre del año previo en que deban realizarse las elecciones locales ordinarias y concluye al iniciarse la jornada electoral.
+> <small>(REFORMADO, B.O. 30 DE MAYO DE 2017)</small>
 
-La etapa de la jornada electoral se inicia a las 8:00 horas del primer domingo de junio y concluye con la clausura de casilla, previo a ello, a las 7:30 horas, los ciudadanos presidente, secretario y escrutadores de las mesas directivas de las casillas nombrados como propietarios deberán presentarse para iniciar con los preparativos para la instalación de la casilla en presencia de los representantes de partidos políticos y de Candidatos Independientes que concurran.
+La etapa de preparación de la elección se inicia con la primera sesión que el Consejo General celebre durante el mes de diciembre del año previo en que deban realizarse las elecciones locales ordinarias y concluye al iniciarse la jornada electoral.
+
+> <small>(REFORMADO, B.O. 30 DE MAYO DE 2017)</small>
+
+La etapa de la jornada electoral se inicia a las 8:00 horas del primer domingo de junio y concluye con la clausura de casilla, previo a ello, a las 7:30 horas, los ciudadanos presidente, secretario y escrutadores de la mesa directiva de las casillas nombradas como propietarios deberán presentarse para iniciar con los preparativos para la instalación de la casilla en presencia de los representantes de partidos políticos y de candidatos independientes que concurran.
 
 La etapa de resultados y de declaraciones de validez de las elecciones se inicia con la remisión de la documentación y expedientes electorales a los organismos electorales respectivos y concluye con los cómputos y declaraciones que realicen los consejos del Instituto, o las resoluciones que, en su caso, emita en última instancia los órganos jurisdiccionales competentes.
 
@@ -1625,9 +1673,11 @@ Los procesos internos para la selección de candidatos a cargos de elección pop
 
 Los servidores públicos que pretendan participar en una precampaña electoral o proceso interno, con el objeto de alcanzar la postulación o designación de su partido político para algún cargo de elección popular, deberán separarse de su cargo, por lo menos cinco días antes de su registro como precandidatos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE MAYO DE 2017)</small>
+
 ###### Artículo 79.
 
-Al menos treinta días antes del inicio formal de los procesos a que se refiere el párrafo inmediato anterior, cada partido determinará, conforme a sus Estatutos, el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, según la elección de que se trate. La determinación deberá ser comunicada al Consejo General dentro de las setenta y dos horas siguientes a su aprobación, señalando:
+Al menos treinta días antes del inicio formal de los procesos a que se refiere el párrafo inmediato anterior, cada partido determinará, conforme a sus Estatutos, el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, según sea la elección de que se trate, incluyendo la definición de mecanismos por los que garantice la participación de quienes pretenden ser postulados para una elección consecutiva, los criterios para garantizar la paridad de género en las candidaturas a diputados o diputadas, Presidentes o Presidentas Municipales, Sindicas o Síndicos y Regidores, y la definición de los distritos en que se postularán mujeres. La determinación deberá ser comunicada al Consejo General dentro de las setenta y dos horas siguientes a su aprobación, señalando:
 
 I. La fecha de inicio del proceso interno;
 
@@ -1648,6 +1698,10 @@ a) Durante los procesos electorales en que se renueven los Poderes Ejecutivo, Le
 b) Durante los procesos electorales en que se renueve solamente el Congreso del Estado y los integrantes de los Ayuntamientos del Estado, las precampañas darán inicio en la primera semana de enero del año de la elección. No podrán durar más de cuarenta días, y
 
 c) Tratándose de precampañas, darán inicio al día siguiente de que se apruebe el registro interno de los precandidatos. Las precampañas de todos los partidos deberán celebrarse dentro de los mismos plazos.
+
+> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
+
+El Diputado, Presidente Municipal, Síndico o Regidor que pretenda la elección consecutiva deberá dar aviso de su intención al Partido Político, o cualquiera de los partidos políticos integrantes de la coalición que los postuló y al Consejo General cuando menos cuarenta y cinco días antes de las precampañas.
 
 El Consejo General podrá ajustar los tiempos siempre y cuando se encuentre dentro de los plazos establecidos por la Ley.
 
@@ -1727,17 +1781,25 @@ A las precampañas y a los precandidatos que en ellas participen les serán apli
 
 Corresponde a los partidos políticos nacionales y locales el derecho de solicitar el registro de candidatos a cargos de elección popular, sin perjuicio de las candidaturas independientes en los términos de esta Ley.
 
+> <small>(REFORMADO, B.O. 30 DE MAYO DE 2017)</small>
+
 ###### Artículo 95.
 
-Las candidaturas a diputados a elegirse por el principio de mayoría relativa, por el principio de representación proporcional y planillas de Ayuntamientos del Estado, se registrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género, y serán consideradas, fórmulas y candidatos, separadamente, salvo para efectos de la votación. El cincuenta por ciento de candidatos propietarios y suplentes de un mismo género y el cincuenta por ciento restante con candidatos del género opuesto.
+Las candidaturas a Diputados y Ayuntamientos a elegirse por el principio de mayoría relativa, por el principio de representación proporcional y planillas de Ayuntamientos del Estado, se registrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género, y serán consideradas, fórmulas y candidatos, separadamente, salvo para efectos de la votación. El cincuenta por ciento de candidatos propietarios y suplentes de un mismo género y el cincuenta por ciento restante con candidatos del género opuesto, las cuales deberán apegarse al principio de paridad vertical y horizontal.
 
-En ningún caso los partidos políticos podrán registrar simultáneamente, en un mismo proceso electoral, más de dos candidatos a Diputados por mayoría relativa y por representación proporcional.
+En ningún caso los partidos políticos podrán registrar simultáneamente, en un mismo proceso electoral, más de dos candidatos a Diputados por mayoría relativa y representación proporcional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE MAYO DE 2017)</small>
 
 ###### Artículo 96.
 
-Los partidos políticos promoverán y garantizarán la paridad entre los géneros, en la postulación de candidatos a los cargos de elección popular para la integración del Congreso del Estado y Planillas de Ayuntamientos del Estado.
+Los partidos políticos promoverán y garantizarán el principio de paridad entre los géneros, mediante la postulación de candidatos a los cargos de elección popular para la integración del Congreso del Estado, y Planillas de Ayuntamientos.
 
 En ningún caso la postulación de candidatos para la renovación de Ayuntamientos debe contener más del cincuenta por ciento de candidatos de un mismo género. Cuando el cálculo del porcentaje antes mencionado arroje un número fraccionado, éste se elevará al entero inmediato superior.
+
+> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
+
+En el registro de las candidatas y los candidatos para las planillas de ayuntamientos, deberán observarse y garantizarse la paridad entre los géneros, tanto de manera vertical como horizontal. Se entenderá de manera vertical, la postulación alternada de candidatas y candidatos integrantes dentro de una planilla para un mismo ayuntamiento, iniciando la nominación en orden para Presidente, Síndico y Regidores municipales respetando la igual proporción de géneros; asimismo, deberá entenderse de manera horizontal, la postulación de planillas con garantías de paridad de género entre los diferentes ayuntamientos que forman parte del Estado.
 
 ###### Artículo 97.
 
@@ -1745,11 +1807,11 @@ El Instituto, en el ámbito de su competencia, tendrá facultades para rechazar 
 
 En el caso de que para un mismo cargo de elección popular sean registrados diferentes candidatos por un mismo partido político, el Instituto, una vez detectada esta situación, requerirá al partido político a efecto de que informe al Consejo General, en un término de cuarenta y ocho horas, qué candidato o fórmula prevalece. En caso de no hacerlo se entenderá que el partido político opta por el último de los registros presentados, quedando sin efecto los demás.
 
+> <small>(REFORMADO, B.O. 30 DE MAYO DE 2017)</small>
+
 ###### Artículo 98.
 
-De la totalidad de solicitudes de registro, tanto de las candidaturas a diputados como, de integrantes de Ayuntamientos que presenten los partidos políticos ante el Instituto en forma individual o a través de coaliciones, así como mediante candidaturas comunes, deberán integrarse salvaguardando la paridad entre los géneros establecida en la Constitución General, la Ley General, la Constitución y en esta Ley.
-
-El cincuenta por ciento de candidatos propietarios y suplentes de un mismo género y el cincuenta por ciento restante con candidatos del género opuesto.
+De la totalidad de solicitudes de registro, tanto de las candidaturas a Diputados y Planillas de Ayuntamientos que presenten los partidos políticos ante el Instituto en forma individual o a través de coaliciones, así como mediante candidaturas comunes, deberán integrarse salvaguardando el principio de paridad entre los géneros establecida en la Constitución General, la Ley General, la Constitución y en esta Ley.
 
 ###### Artículo 99.
 
@@ -2699,9 +2761,11 @@ La persona moral a la que se refiere el párrafo anterior deberá estar constitu
 
 ### Capítulo V. De la Obtención del Apoyo Ciudadano
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE MAYO DE 2017)</small>
+
 ###### Artículo 192.
 
-A partir del día siguiente de la fecha en que obtengan la calidad de aspirantes, éstos podrán realizar actos tendentes a recabar el porcentaje de apoyo ciudadano requerido por medios diversos a la radio y la televisión, siempre que los mismos no constituyan actos anticipados de campaña.
+A partir del día siguiente de la fecha en que obtengan la calidad de aspirantes, éstos podrán realizar actos tendentes a recabar en los formatos foliados específicos que para ese fin disponga y provea el Consejo General, el porcentaje de apoyo ciudadano requerido por los medios diversos a la radio y la televisión, siempre que los mismos no constituyan actos anticipados de campaña.
 
 Los aspirantes a Candidato Independiente para los cargos de Gobernador del Estado, Diputado de Mayoría Relativa e Integrante de Ayuntamiento, contarán con sesenta días para realizar los actos tendentes a recabar el apoyo ciudadano.
 
@@ -2711,9 +2775,11 @@ El Consejo General podrá realizar ajustes a los plazos establecidos en este art
 
 Se entiende por actos tendentes a recabar el apoyo ciudadano, el conjunto de reuniones públicas, asambleas, marchas y todas aquellas actividades dirigidas a la ciudadanía en general, que realizan los aspirantes con el objeto de obtener el apoyo ciudadano para satisfacer el requisito en los términos de esta Ley.
 
+> <small>(REFORMADO, B.O. 30 DE MAYO DE 2017)</small>
+
 ###### Artículo 194.
 
-Para la candidatura de Gobernador del Estado, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al 4% de la lista nominal de electores con corte al 31 de agosto del año previo al de la elección y estar integrada por electores de por lo menos nueve distritos electorales, que sumen cuando menos el 1% de ciudadanos que figuren en la lista nominal de electores en cada una de ellos.
+Para la candidatura de Gobernador del Estado, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al 2.51% de la lista nominal de electores con corte al 31 de agosto del año previo al de la elección y estar integrada por electores de por lo menos nueve distritos electorales, que sumen cuando menos el 1% de ciudadanos que figuren en la lista nominal de electores en cada uno de ellos.
 
 ###### Artículo 195.
 
@@ -4296,3 +4362,19 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 2435.- SE REFORMAN LOS ARTÍCULOS 95 Y 98, Y SE ADICIONA UN TERCER PÁRRAFO DEL ARTÍCULO 96 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2436.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 49, SE ADICIONAN EL SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 50 , SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO, SEXTO Y SÉPTIMO AL ARTÍCULO 52, Y SE RECORRE A SER PÁRRAFO OCTAVO EL ACTUAL PÁRRAFO CUARTO, SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO, SE RECORRE EL ACTUAL PÁRRAFO SEGUNDO A SER PÁRRAFO QUINTO, DEL ARTÍCULO 53, SE REFORMA EL ARTÍCULO 77, SE REFORMA EL PRIMER PÁRRAFO, SE ADICIONA UN PENÚLTIMO PÁRRAFO Y SE RECORRE EL ACTUAL PÁRRAFO SEGUNDO A ÚLTIMO DEL ARTÍCULO 79 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR; SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 21; Y SE ADICIONAN LA FRACCIÓN IV Y V AL ARTÍCULO 10, ARTÍCULOS 50 BIS Y 50 TER DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado Libre y Soberano de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- Como única ocasión esta elección del 2018 será el primer domingo de julio.
