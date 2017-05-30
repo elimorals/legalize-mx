@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-metropolitana-del-estado-de-jalisco-79320"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-03"
-last_updated: "2012-03-31"
+last_updated: "2017-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2017.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 3 de febrero de 2011.
 
@@ -72,6 +72,14 @@ IV. Eficacia: el fin último de la coordinación y asociación municipal es el m
 1. Área metropolitana es el centro de población, geográficamente delimitado, asentado en el territorio de dos o más municipios, con una población de cuando menos cincuenta mil habitantes, declarado oficialmente con ese carácter por decreto del Congreso del Estado.
 
 2. Región metropolitana es la delimitación geográfica integrada por un área metropolitana y uno o más centros de población, geográficamente cercanos, con tendencias de crecimiento que los acerquen y relaciones socioeconómicas con aquella, declarada oficialmente con ese carácter por decreto del Congreso del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE MAYO DE 2017)</small>
+
+3. Desarrollo Metropolitano: proceso de planeación, regulación, gestión, financiamiento, ordenamiento, crecimiento social y ejecución de acciones, obras y servicios, en zonas metropolitanas para el mejoramiento de la calidad de vida, la preservación del ambiente, la conservación y reproducción de los recursos naturales; de poblaciones que por su urbe, extensión y complejidad, actúan de manera coordinada los tres órdenes de gobierno de acuerdo a sus atribuciones;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE MAYO DE 2017)</small>
+
+4. Programa de Desarrollo Metropolitano: es el instrumento de planeación que contempla un diagnóstico integral del área metropolitana, así como la definición de los objetivos y metas para la política metropolitana en: estructura socioeconómica, ordenamiento territorial, medio ambiente, servicios públicos, infraestructura urbana, movilidad urbana y mapa de riesgo.
 
 ###### Artículo 4.
 
@@ -690,3 +698,9 @@ LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 P.O. 31 DE MARZO DE 2012.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26366/LXI/17 QUE REFORMA EL ARTÍCULO 3° DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
