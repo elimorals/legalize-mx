@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-pensiones-para-los-ex-gobernadores-del-estado-de-12835"
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-03"
-last_updated: "1994-01-03"
+last_updated: "2017-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE PENSIONES PARA LOS EX-GOBERNADORES DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNICO DEL DECRETO POR EL QUE SE ABROGA LA LEY DE PENSIONES PARA LOS EXGOBERNADORES DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 30 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PENSIONES PARA LOS EX-GOBERNADORES DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MAYO DE 2017 (ABROGADA).
 
 Ley publicada en el Diario Oficial del Gobierno Constitucional del Estado Libre y Soberano de Yucatán, el lunes 3 de enero de 1994.
 
@@ -82,3 +84,17 @@ C.P. ENYD MARIA MARTINEZ MENENDEZ
 OFICIAL MAYOR DE GOBIERNO EN FUNCIONES DE
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+D.O. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 489/2017 POR EL QUE SE ABROGA LA LEY DE PENSIONES PARA EXGOBERNADORES DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2018, previa publicación en el diario oficial del estado.
+
+Segundo. Derechos adquiridos
+
+Quedan a salvo y subsistentes los derechos adquiridos al amparo de la ley que se abroga mediante este decreto, en términos del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
