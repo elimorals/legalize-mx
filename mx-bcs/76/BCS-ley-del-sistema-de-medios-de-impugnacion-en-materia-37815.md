@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-sistema-de-medios-de-impugnacion-en-materia-37815"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-27"
-last_updated: "2016-10-31"
+last_updated: "2017-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE MAYO DE 2017.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 27 de febrero de 2004.
 
@@ -191,6 +191,14 @@ II. Recurso de Apelación; y
 
 III. Juicio de Inconformidad.
 
+> <small>(ADICIONADA, B.O. 30 DE MAYO DE 2017)</small>
+
+IV. Juicio para la Protección de los Derechos Político Electorales del Ciudadano; y
+
+> <small>(ADICIONADA, B.O. 30 DE MAYO DE 2017)</small>
+
+V. Procedimiento Especial Sancionador.
+
 ###### ARTÍCULO 11.
 
 Los partidos políticos y las coaliciones podrán interponer el recurso de Revisión para impugnar los actos o resoluciones de los Comités Distritales y Municipales Electorales.
@@ -295,11 +303,13 @@ Cuando la violación reclamada en el medio de impugnación respectivo no se prod
 
 El cómputo de los plazos se hará a partir del día siguiente de aquél en que se hubiese notificado el acto, resolución o sentencia impugnados.
 
+> <small>(REFORMADO, B.O. 30 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 21.
 
-El recurso de Revisión deberá interponerse dentro de los tres días y el recurso de Apelación dentro de los cinco días, que se contarán a partir del día siguiente en que se haya tenido conocimiento o se hubiese notificado el acto o la resolución que se recurra.
+Los recursos de Revisión y de Apelación deberán interponerse dentro de los cinco días, que se contarán a partir del día siguiente en que se haya tenido conocimiento o se hubiese notificado el acto o la resolución que se recurra.
 
-Los ciudadanos que interpongan el recurso de Apelación deben hacerlo dentro de los tres días contados a partir del día siguiente a que se les notifique la resolución o acto impugnado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 30 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 22.
 
@@ -602,6 +612,30 @@ El Magistrado Presidente determinará la hora y día de las sesiones del Pleno.
 El Magistrado Presidente, a petición de cualquiera de los Magistrados del Tribunal, requerirá a los diversos organismos electorales, a las autoridades estatales, municipales o federales, cualquier informe o documento, que obrando en su poder, pueda servir para la substanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en esta Ley.
 
 Las autoridades deberán proporcionar dentro de las cuarenta y ocho horas siguientes a la recepción de la solicitud, los informes o documentos a que se refiere el párrafo anterior. En casos extraordinarios, el Magistrado Presidente podrá ordenar que se realice alguna diligencia o perfeccione alguna prueba, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en la presente Ley.
+
+> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
+
+ARTÍCULO 50 BIS 1 (SIC). El juicio para la protección de los derechos político-electorales, sólo procederá cuando el ciudadano por sí mismo y en forma individual o a través de sus representantes legales, haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos. En el supuesto previsto en el inciso b) del numeral 1 del siguiente artículo, la demanda deberá presentarse por conducto de quien ostente la representación legítima de la organización o agrupación política agraviada.
+
+2. Asimismo, resultará procedente para impugnar los actos y resoluciones por quien teniendo interés jurídico, considere que indebidamente se afecta su derecho para integrar las autoridades electorales de la entidad.
+
+> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
+
+ARTÍCULO 50 TER 1 (SIC). El juicio podrá ser promovido por el ciudadano cuando:
+
+a) Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un partido político, le sea negado indebidamente su registro como candidato a un cargo de elección popular. En los procesos electorales locales, si también el partido político interpuso recurso de revisión o apelación, según corresponda, por la negativa del mismo registro, el Consejo del Instituto, a solicitud del Tribunal Estatal Electoral competente, remitirá el expediente para que sea resuelto por éste, junto con el juicio promovido por el ciudadano;
+
+b) Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político o agrupación política;
+
+c) Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político-electorales a que se refiere el artículo anterior.
+
+d) Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político-electorales. Lo anterior es aplicable a los precandidatos y candidatos a cargos de elección popular aun cuando no estén afiliados al partido señalado como responsable, y
+
+e) cuando siendo diputado o integrante de ayuntamiento con derecho a participar en un proceso interno de selección de candidatos, para afectos de la reelección, considere que el partido político o una autoridad electoral viola sus derechos político electorales.
+
+2. El juicio sólo será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
+
+3. En los casos previstos en el inciso d) del numeral 1 de este artículo, el quejoso deberá haber agotado previamente las instancias de solución de conflictos previstas en las normas internas del partido de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al quejoso.
 
 ### CAPÍTULO XI. DE LAS PRUEBAS
 
@@ -924,3 +958,13 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2436.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 49, SE ADICIONAN EL SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 50, SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO, SEXTO Y SÉPTIMO AL ARTÍCULO 52, Y SE RECORRE A SER PÁRRAFO OCTAVO EL ACTUAL PÁRRAFO CUARTO, SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO, SE RECORRE EL ACTUAL PÁRRAFO SEGUNDO A SER PÁRRAFO QUINTO, DEL ARTÍCULO 53, SE REFORMA EL ARTÍCULO 77, SE REFORMA EL PRIMER PÁRRAFO, SE ADICIONA UN PENÚLTIMO PÁRRAFO Y SE RECORRE EL ACTUAL PÁRRAFO SEGUNDO A ÚLTIMO DEL ARTÍCULO 79 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR; SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 21 ; Y SE ADICIONAN LA FRACCIÓN IV Y V AL ARTÍCULO 10, ARTÍCULOS 50 BIS Y 50 TER DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado Libre y Soberano de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- Como única ocasión esta elección del 2018 será el primer domingo de julio.
