@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2017-05-20"
+last_updated: "2017-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2017.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -557,8 +559,6 @@ d) La Secretaría de Planeación, Administración y Finanzas;
 
 e) El Registro Estatal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 f) La Secretaría de Movilidad del Estado, por conducto de la Policía Vial;
@@ -713,8 +713,6 @@ XII. Vigilar y controlar en los términos de lo establecido por esta ley y sus R
 
 XIII. Expedir las licencias para operar o conducir vehículos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 XIV. Detentar el mando de la policía vial;
@@ -799,8 +797,6 @@ III. La participación que corresponda al Estado o a los municipios, respecto a 
 
 ### Capítulo V. De las funciones de la policía vial del estado y tránsito municipal
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 26.
@@ -829,15 +825,11 @@ Los policías viales en funciones deberán ubicarse en lugar visible para los co
 
 Los policías viales encargados del horario nocturno, deberán de conducir las unidades para este servicio con las farolas encendidas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 27 Bis.
 
 Todos los elementos de la policía vial estatal y de la policía de tránsito municipal que se desempeñen en áreas operativas, deberán estar capacitados en primeros auxilios, y todos los vehículos que utilicen deberán de contar con un botiquín médico que contenga los materiales necesarios para su debida prestación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -845,13 +837,17 @@ Todos los elementos de la policía vial estatal y de la policía de tránsito mu
 
 Los cursos de capacitación en materia de primeros auxilios, deberán brindarse a los elementos de la policía vial estatal y de la policía de tránsito municipal de manera constante y en ningún caso excederán de dos años entre ellos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 27 Quáter.
 
 Los municipios podrán celebrar convenios con el Estado para que a través de éste se les brinde la capacitación en primeros auxilios a sus elementos de la policía de tránsito municipal.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 27 Quinquies.
+
+Los elementos de la policía vial estatal y de la policía de tránsito municipal deberán recibir una vez al año, como mínimo, un curso de capacitación en materias de cultura a la legalidad y prácticas de buen gobierno.
 
 ### Capítulo VI. De la concurrencia y coordinación de las autoridades estatales y municipales en las zonas conurbadas y las áreas metropolitanas
 
@@ -2353,8 +2349,6 @@ II. La antigüedad de cada uno de los concesionarios que hasta entonces se encue
 
 III. El parque vehicular con que respectivamente cuenta cada uno de los concesionarios previamente establecidos y autorizados por el Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 IV. Los informes que rinda la policía vial o los agentes de tránsito municipales, que corresponda respecto de la actuación de los concesionarios;
@@ -2953,8 +2947,6 @@ III. Carezca de los requisitos necesarios para circular establecidos en el Regla
 
 IV. El vehículo se encuentre estacionado en lugar prohibido, en carreteras, frente a cochera, obstruyendo rampa de personas con discapacidad, estacionamiento exclusivo o abandonado en la vía pública, o en donde el estacionamiento del mismo provoque entorpecimiento a la circulación o molestias a los peatones, sin encontrarse en dicho lugar el conductor;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
 V. Contamine visiblemente, o carezca del holograma del programa de verificación vehicular obligatoria, en estos casos se estará a lo dispuesto por el reglamento respectivo;
@@ -2987,15 +2979,11 @@ XI. Cuando el conductor o propietario de la unidad vehicular destinada al servic
 
 XII. Cuando el vehículo no porte, o se altere, destruya, imposibilite o inhabilite de cualquier manera, los sistemas de control vehicular, o cualquier otro dispositivo que permita su identificación por radiofrecuencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 170.
 
 La Secretaría, por conducto de la policía vial o la policía de tránsito municipal, según corresponda, en los casos previstos en el artículo anterior, retirarán de la circulación a los vehículos, acatando las siguientes disposiciones:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -3008,8 +2996,6 @@ III. Sólo en caso de negativa del propietario, conductor u operador del vehícu
 IV. En el caso previsto en la fracción IV del artículo anterior, si el conductor llegare cuando se estén realizando las maniobras o una vez realizadas las mismas hasta antes de que se retire la grúa con el vehículo, podrá recuperarlo de inmediato, previo pago contra recibo que le expida el servicio de grúa, sin perjuicio de las infracciones en que haya incurrido, y
 
 V. En todo caso, el policía vial o la policía de tránsito municipal que intervenga levantará el acta correspondiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -3320,8 +3306,6 @@ Adicionalmente a la multa que se señala en el párrafo que antecede, se retirar
 > <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
 El conductor o propietario tendrá un plazo de 20 días hábiles, a partir de la fecha en que se le entregue el vehículo, previo pago de la multa correspondiente, para circular con su vehículo a efecto de verificarlo, de no hacerlo así se hará acreedor de una nueva sanción económica; o
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN PRIMER PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
@@ -3966,3 +3950,9 @@ P.O. 20 DE MAYO DE 2017.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
 
 SEGUNDO. Las personas que cuenten con contratos de subrogación vigentes y que constituyan una persona jurídica podrán participar en los concursos del sistema integrado de transporte público en el estado.
+
+P.O. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26362/LXI/17 QUE ADICIONA EL ARTÍCULO 27 QUINQUIES A LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
