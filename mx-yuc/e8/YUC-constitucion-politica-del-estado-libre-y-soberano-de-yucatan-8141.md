@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2017-05-08"
+last_updated: "2017-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MAYO DE 2017.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -34,8 +36,6 @@ Que el H. Congreso del mismo, ha expedido el siguiente
 DECRETO NUM. 3
 
 "(SIC) El XXV Congreso Constitucional del Estado Libre y Soberano de Yucatán, en funciones de Constituyente, a nombre y con la autoridad del pueblo yucateco ha tenido a bien expedir la siguiente:
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DEL DECRETO NÚMERO 380/2016, PUBLICADO EN EL D.O. 20 DE ABRIL DE 2016, "CUANDO EN ALGUNA NORMA SE HAGA REFERENCIA AL INSTITUTO ESTATAL DE ACCESO A LA INFORMACIÓN PÚBLICA, SE ENTENDERÁ HECHA AL INSTITUTO ESTATAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES".]</small>
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE YUCATAN
 
@@ -363,13 +363,27 @@ I. Financiamiento:
 
 El financiamiento público de los partidos políticos se compondrá de los montos para el sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico, se otorgará conforme a lo que disponga la ley y a lo siguiente:
 
-a) Para actividades ordinarias permanentes, los montos se fijarán anualmente. El 35 % de la cantidad total que resulte se distribuirá entre los partidos políticos en partes iguales y el 65 % restante se distribuirá de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados por el principio de mayoría relativa;
+> <small>(REFORMADO, D.O. 30 DE MAYO DE 2017)</small>
+
+a) Para actividades ordinarias permanentes, los montos se fijarán anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral estatal por el 65% del valor diario de la unidad de medida y actualización.
+
+(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DEL INCISO A) DE LA FRACCIÓN I DEL APARTADO C DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+EN LOS MESES Y AÑOS EN LOS QUE NO SE DESARROLLE PROCESO ELECTORAL, DICHO FINANCIAMIENTO PÚBLICO SE OTORGARÁ EN UN 50% DEL RESULTADO DE LA OPERACIÓN SEÑALADA EN EL PÁRRAFO ANTERIOR.
+
+(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DEL INCISO A) DE LA FRACCIÓN I DEL APARTADO C DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+EN AMBOS CASOS, el 30% de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en partes iguales y el 70% restante se distribuirá de acuerdo con el porcentaje de votos que hubieren obtenido en la elección inmediata anterior de diputados por el principio de mayoría relativa;
 
 b) Para actividades tendientes a la obtención del voto durante el año en el que se elija Gobernador, diputados y ayuntamientos equivaldrá al 60 % del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año. Cuando sólo se elijan diputados y ayuntamientos equivaldrá al 50 % de dicho financiamiento por actividades ordinarias, y
 
-c) Para actividades específicas equivaldrá al 7 % del monto total que corresponda cada año por actividades ordinarias. El 40 % de la cantidad que resulte de acuerdo con lo señalado anteriormente se distribuirá entre los partidos políticos de forma igualitaria y el 60 % restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior. Los partidos políticos deberán destinar el 25 % del monto que les corresponda de las actividades específicas para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres.
+> <small>(REFORMADO, D.O. 30 DE MAYO DE 2017)</small>
 
-La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. El monto máximo que tendrán las aportaciones de sus simpatizantes no podrá exceder anualmente para cada partido del 10 % del tope de gastos establecido en la última campaña estatal para Gobernador; asimismo ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+c) Para actividades específicas equivaldrá al 7% del monto total que corresponda cada año por actividades ordinarias. El 30% de la cantidad que resulte de acuerdo con lo señalado anteriormente se distribuirá entre los partidos políticos de forma igualitaria y el 70% restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior. Los partidos políticos deberán destinar el 25% del monto que les corresponda de las actividades específicas para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres.
+
+> <small>(REFORMADO, D.O. 30 DE MAYO DE 2017)</small>
+
+La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. El monto máximo que tendrán las aportaciones de sus simpatizantes no podrá exceder anualmente para cada partido del 8% del tope de gastos establecido en la última campaña electoral para Presidente de la República, siempre que dicho monto no rebase el financiamiento público; asimismo ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
 II. Acceso a radio y televisión:
 
@@ -529,11 +543,11 @@ X.- Estar inscrito en Registro Federal de Electores y contar con Credencial para
 
 El cargo de Diputado es incompatible con cualquier cargo, comisión o empleo público.
 
-> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE MAYO DE 2017)</small>
 
 ###### Artículo 24.
 
-El Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, declarará la validez de las elecciones de Gobernador, Diputados, Regidores y Síndicos; efectuará la asignación de diputados y regidores según el principio de representación proporcional y expedirá las constancias respectivas a los candidatos electos.
+El Instituto Electoral y Participación Ciudadana de Yucatán declarará la validez de las elecciones de Gobernador, diputados, regidores y síndicos; efectuará la asignación de diputados y regidores según el principio de representación proporcional; y expedirá las constancias respectivas a los candidatos electos.
 
 > <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
@@ -2089,7 +2103,9 @@ Los consejeros electorales y demás servidores públicos del Instituto Electoral
 
 Para el ejercicio de sus funciones, el Instituto Electoral y de Participación Ciudadana de Yucatán contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
 
-El Instituto Electoral y de Participación Ciudadana de Yucatán contará con una Contraloría dotada de autonomía técnica y de gestión, encargada de fiscalizar todos sus ingresos y egresos. Su titular será designado por el Congreso del Estado por el voto de las dos terceras partes de sus integrantes a propuesta de instituciones de educación superior, organizaciones y agrupaciones profesionales y organismos empresariales debidamente registrados, en la forma y términos que determine la ley. Durará seis años en el cargo y no podrá ser reelecto.
+> <small>(REFORMADO, D.O. 30 DE MAYO DE 2017)</small>
+
+El Instituto Electoral y de Participación Ciudadana de Yucatán contará con un órgano interno de control dotado de autonomía técnica y de gestión. Su titular será designado por el Congreso del Estado, por el voto de las dos terceras partes, de sus integrantes, a propuesta de instituciones públicas de educación superior, en la forma y términos que determine la ley. Durará seis años en el cargo y podrá ser reelecto por una sola vez. Deberá mantener la coordinación técnica necesaria con la Auditoría Superior del Estado de Yucatán.
 
 El Consejo General del Instituto Electoral y de Participación Ciudadana de Yucatán podrá convenir con el Instituto Nacional Electoral para que este se haga cargo de la organización de los procesos electorales locales, en los términos que disponga la legislación aplicable.
 
@@ -2331,7 +2347,7 @@ VIII.- Intervenir en la formulación y aplicación de programas de transporte p�
 
 IX.- Celebrar convenios para la administración y custodia de las zonas federales;
 
-X.- Formular y conducir la politica ambiental en el ámbito de su competencia;
+X.- Formular y conducir la política ambiental en el ámbito de su competencia;
 
 XI.- Expedir los reglamentos y disposiciones administrativas que fueren necesarios, de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -3505,7 +3521,7 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación, e
 
 ###### ARTÍCULO SEGUNDO.
 
-Todas aquellas disposiciones del presente Decreto, que requieran para su cumplimiento la regulación de la ley que organiza y reglamenta a los Ayuntamientos del Estado, entrarán en vigor una vez expedida y (sic) publicada las reformas a dicha ley, lo cual deberá realizarse antes del primero de enero de 2006.
+Todas aquellas disposiciones del presente Decreto, que requieran para su cumplimiento la regulación de la ley que organiza y reglamenta a los Ayuntamientos del Estado, entrarán en vigor una vez expedida y publicada (sic) las reformas a dicha ley, lo cual deberá realizarse antes del primero de enero de 2006.
 
 Las demás disposiciones legales que requieran ser adecuadas, deberán ser expedidas y publicadas en forma subsecuente.
 
@@ -4370,3 +4386,31 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el dia
 Segundo. Obligación normativa
 
 El Congreso del Estado de Yucatán deberá expedir las modificaciones necesarias a la legislación secundaria para armonizar las disposiciones de este decreto, a más tardar dentro de los setenta días naturales siguientes a su entrada en vigor.
+
+D.O. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 488/2017 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE FINANCIAMIENTO PARA LOS PARTIDOS POLÍTICOS”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, con excepción de lo dispuesto por los artículos segundo y tercero.
+
+Segundo. Entrada en vigor de las reformas al artículo 16, apartado C
+
+Las reformas contenidas en el artículo 16, apartado C, referentes al financiamiento público y privado entrarán en vigor a partir del 1 de octubre de 2017.
+
+Tercero. Entrada en vigor de la reforma al artículo 75 Bis
+
+La reforma al artículo 75 Bis, respecto del órgano interno de control del Instituto Electoral y de Participación Ciudadana de Yucatán, entrará en vigor en la fecha en que lo haga el decreto número 380/2016 por el que se modifica la Constitución Política del Estado de Yucatán, en materia anticorrupción y transparencia.
+
+(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2017, DECLARÓ LA INVALIDEZ DEL ARTÍCULO CUARTO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+CUARTO. RECURSOS EXCEDENTES
+
+LOS RECURSOS QUE RESULTEN EXCEDENTES Y QUE NO SE ENTREGUEN A LOS PARTIDOS POLÍTICOS, EN VIRTUD DE LO ESTABLECIDO EN ESTE DECRETO, DEBERÁN SER DESTINADOS A LAS NIÑAS, NIÑOS Y ADOLESCENTES DE ESCASOS RECURSOS, EN ESTADO DE VULNERABILIDAD O CON PROBLEMAS DE DISCAPACIDAD QUE SE ENCUENTREN A DISPOSICIÓN DE LA ASOCIACIÓN PATRONATO CAIMEDE, INSTITUCIÓN DE ASISTENCIA PRIVADA.
+
+(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2017, DECLARÓ LA INVALIDEZ DEL ARTÍCULO QUINTO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+QUINTO. DETERMINACIÓN DEL CÁLCULO DE LA REDUCCIÓN DEL FINANCIAMIENTO
+
+EL CÁLCULO DE LA REDUCCIÓN DEL FINANCIAMIENTO PÚBLICO PARA LOS PARTIDOS POLÍTICOS EN APLICACIÓN DE ESTE DECRETO, QUE REALICE EL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE YUCATÁN, DEBERÁ SER SOBRE LA BASE DEL FINANCIAMIENTO APLICABLE AL AÑO CORRESPONDIENTE.
