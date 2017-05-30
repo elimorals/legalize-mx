@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2017-03-16"
+last_updated: "2017-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -1965,11 +1965,13 @@ El Tribunal apreciará en conciencia las pruebas que se le presenten, sin sujeta
 
 Antes de pronunciarse el laudo, los Magistrados podrán solicitar mayor información para mejor proveer, en cuyo caso, el Tribunal acordará la práctica de las diligencias necesarias, siempre que no se trate de suplir la omisión o deficiencia en que pudiera haber incurrido alguna de las partes.
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
 ###### Art. 138.
 
-La caducidad en el proceso se producirá, cuando cualquiera que sea su estado, no se haya efectuado algún acto procesal, ni promoción durante un término mayor de seis meses, así sea con el fin de pedir que se dicte el laudo. No operará la caducidad, aún cuando dicho término transcurra, por estar pendiente el desahogo de diligencias que deban practicarse fuera del local del Tribunal o de recibirse informes o copias certificadas que hayan sido solicitadas. A petición de parte interesada, o de oficio, el Tribunal declarará la caducidad cuando se estime consumada.
+La caducidad en el proceso se producirá, cuando cualquiera que sea su estado, no se haya efectuado algún acto procesal, ni promoción durante un término mayor de seis meses. No operará la caducidad, aun cuando dicho término transcurra, por estar pendiente el desahogo de diligencias que deban practicarse fuera del local del Tribunal o de recibirse informes o copias certificadas que hayan sido solicitadas. A petición de parte interesada, o de oficio, el Tribunal declarará la caducidad cuando se estime consumada.
+
+La caducidad no operará después de cerrada la instrucción, cuando únicamente esté pendiente la emisión del laudo correspondiente.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2002)</small>
 
@@ -2856,3 +2858,9 @@ P.O. 16 DE MARZO DE 2017.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. La denominación de los tribunales de lo administrativo a que hace referencia la reforma al artículo 9 del presente decreto se entenderá como Tribunales de Justicia Administrativa una vez (sic) entre en vigor la reforma constitucional actualmente en tránsito.
+
+P.O. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26363/LXI/17 QUE REFORMA EL ARTÍCULO 138 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
