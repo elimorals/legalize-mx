@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2017-05-23"
+last_updated: "2017-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -205,7 +205,7 @@ Salvo lo dispuesto por el artículo 12, al inicio de los períodos ordinarios de
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-1. El presidente de la Mesa Directiva y el suplente durarán en su cargo un mes, o los días del mes calendario que corresponda, y no podrán ser reelectos para esas mismas funciones en el mismo periodo ordinario de sesiones. El presidente no podrá ser electo suplente, en tanto que éste no quedará inhabilitado para ser electo presidente.
+1. El presidente de la Mesa Directiva y el suplente durarán en su cargo un mes, o los días del mes calendario que corresponda, y no podrán ser reelectos para esas mismas funciones en el mismo período ordinario de sesiones. El presidente no podrá ser electo suplente, en tanto que éste no quedará inhabilitado para ser electo presidente.
 
 2. Los secretarios ejercerán su función durante el período ordinario de sesiones para el que fueren electos, pero no podrán ser reelectos para el periodo inmediato de sesiones. Tampoco podrán ser electos como presidente o suplente durante el tiempo de su ejercicio.
 
@@ -377,6 +377,10 @@ c) Nombre del diputado que haya sido designado como coordinador del grupo parlam
 
 8. Los grupos parlamentarios proporcionan información, otorgan asesoría y preparan los elementos necesarios para articular el trabajo parlamentario de sus miembros, a fin de proveer al desempeño de las funciones constitucionales que corresponden al Congreso.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
+
+9. En la primera sesión de cada periodo ordinario, las formas de agrupación por afiliación partidista representadas en este Congreso, presentarán la agenda legislativa que abordarán durante el transcurso del mismo. Una vez recibidas, las agendas, se harán publicar por la Secretaría General en el Diario de los Debates.
+
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 25.
@@ -401,7 +405,9 @@ c) Nombre del diputado que haya sido designado como coordinador del grupo parlam
 
 1. En términos de la representación de cada grupo parlamentario, fracción parlamentaria o representación partidista, la Junta de Coordinación Política acordará la asignación de recursos y locales adecuados a cada uno de ellos. Adicionalmente a esas asignaciones, la Junta dispondrá una subvención mensual para cada forma de organización partidista, integrada por una suma fija de carácter general y otra variable, en función del número de diputados.
 
-2. La cuenta trimestral de las subvenciones que se asignen a los grupos parlamentarios, fracciones parlamentarias y representaciones partidistas se incorporará a la cuenta pública del Congreso, correspondiente a cada trimestre.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
+2. Las subvenciones que se asignen a los grupos parlamentarios, fracciones parlamentarias y representaciones partidistas se incorporará a la cuenta pública del Congreso, correspondiente.
 
 3. La ocupación de las curules en el Salón de Sesiones se hará de forma que los integrantes de cada grupo parlamentario y fracciones parlamentarias queden ubicados en una misma área, buscándose que sus integrantes se sienten en forma contigua. La asignación definitiva de las curules que correspondan a las formas de organización partidista estará a cargo de la Mesa Directiva del Congreso. En todo caso, los coordinadores representantes de los grupos parlamentarios, fracciones parlamentarias y representaciones partidistas, formularán proposiciones de ubicación y la Mesa Directiva del Congreso resolverá lo conducente.
 
@@ -425,7 +431,7 @@ Los diputados que decidan no pertenecer a un grupo parlamentario, fracción parl
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-3. En el caso de que ningún grupo parlamentario cuente con la mayoría absoluta de los miembros del Congreso, la responsabilidad de presidir la Junta durará un año legislativo y se desempeñará sucesivamente por los coordinadores de los grupos parlamentarios en orden decreciente del número de legisladores que los integren, siempre que dichos grupos cuenten con un mínimo de doce diputados. Si sólo dos grupos parlamentarios se hallan en esta hipótesis, durante el tercer año de ejercicio de la Legislatura les corresponderá la Presidencia de la Junta de Coordinación Política por sendos periodos de seis meses, pudiéndose seleccionar el periodo de desempeño por el grupo parlamentario con el mayor número de integrantes.
+3. En el caso de que ningún grupo parlamentario cuente con la mayoría absoluta de los miembros del Congreso, la responsabilidad de presidir la Junta durará un año legislativo y se desempeñará sucesivamente por los coordinadores de los grupos parlamentarios en orden decreciente del número de legisladores que los integren, siempre que dichos grupos cuenten con un mínimo de doce diputados. Si sólo dos grupos parlamentarios se hallan en esta hipótesis, durante el tercer año de ejercicio de la Legislatura les corresponderá la Presidencia de la Junta de Coordinación Política por sendos períodos de seis meses, pudiéndose seleccionar el periodo de desempeño por el grupo parlamentario con el mayor número de integrantes.
 
 ###### ARTICULO 30.
 
@@ -443,11 +449,13 @@ Los diputados que decidan no pertenecer a un grupo parlamentario, fracción parl
 
 ###### ARTICULO 32.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2017)</small>
 
-1. Son atribuciones de la Junta de Coordinación Política:
+Son atribuciones de la Junta de Coordinación Política:
 
-a) Impulsar los entendimientos y la conformación de acuerdos en torno a las propuestas, iniciativas o minutas que requieran del conocimiento y votación del Pleno, con objeto de impulsar el cumplimiento de las funciones del Congreso;
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
+a) Impulsar la conformación de acuerdos relacionados con el contenido de las agendas legislativas presentadas por las distintas formas de agrupación por afiliación partidista, así como con las propuestas, iniciativas o minutas que requieran del conocimiento y votación del Pleno, con objeto de garantizar el cumplimiento de las funciones del Congreso;
 
 b) Presentar a la Mesa Directiva y al Pleno del Congreso iniciativas de puntos de Acuerdo que contengan pronunciamientos o declaraciones del Congreso que entrañen una posición política de la institución parlamentaria;
 
@@ -457,7 +465,9 @@ d) Proponer al Pleno la designación de delegaciones para atender reuniones parl
 
 e) Presentar al Pleno el anteproyecto de presupuesto anual del Congreso;
 
-f) Establecer el programa legislativo de los periodos de sesiones, el calendario para su desahogo y la integración básica del orden del día de las sesiones, así como proponer las formas que seguirán los debates, discusiones y deliberaciones. Para el ejercicio de esta atribución se invitará al presidente de la Mesa Directiva a participar en la reunión de la Junta;
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
+f) Establecer la integración básica del orden del día de las sesiones, así como proponer las formas que seguirán los debates, discusiones y deliberaciones. Para el ejercicio de esta atribución se podrá invitar al Presidente de la Mesa Directiva a participar en la reunión de la Junta;
 
 g) Impulsar el trabajo de las comisiones ordinarias para la elaboración y el cumplimiento de los programas legislativos;
 
@@ -599,9 +609,9 @@ v) Recurso Agua;
 
 w) Fomento al Comercio Exterior;
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
-x) Juventud;
+x) Niñez, Adolescencia y Juventud;
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -671,11 +681,13 @@ f) De la Medalla al Mérito "Luis García de Arellano", a cargo de la recepción
 
 1. Las comisiones ordinarias se constituyen normalmente durante el primer mes de ejercicio de la Legislatura, podrán tener hasta ocho integrantes y su encargo será por el término de la propia Legislatura. Ningún diputado podrá pertenecer a más de nueve comisiones, salvo que se trate de la Comisión Instructora o de comisiones especiales.
 
-2. Para la integración de las comisiones, la Junta de Coordinación Política tomará en cuenta la pluralidad representada en el Congreso y formulará las propuestas correspondientes con base en el criterio de proporcionalidad entre la integración del Pleno y la conformación de las Comisiones.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+2. Corresponde a la Junta de Coordinación Política proponer al Pleno la integración de las comisiones, tomando en cuenta la pluralidad y el criterio de proporcionalidad entre la integración del Pleno y la conformación de las Comisiones.
 
-3. Al proponer la integración de las comisiones, la Junta de Coordinación Política señalará en quienes recaerá la responsabilidad de fungir como presidente y como secretario. Al hacerlo, tomará en cuenta los antecedentes y la experiencia parlamentaria de los diputados, y cuidará que su propuesta incorpore a los diputados pertenecientes a las diversas formas de agrupación por afiliación partidista, de tal suerte que se refleje la proporción que representen en el Pleno.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
+3. Al proponer la integración de las comisiones, la Junta de Coordinación Política señalará en quienes recaerá la responsabilidad de fungir como presidente y como secretario. Al hacerlo, tomará en cuenta los antecedentes y la experiencia de los diputados, y procurará que su propuesta incorpore a los diputados pertenecientes a las diversas formas de agrupación por afiliación partidista, de tal suerte que en lo conducente se refleje la proporción que representen en el Pleno.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -687,9 +699,13 @@ f) De la Medalla al Mérito "Luis García de Arellano", a cargo de la recepción
 
 ###### ARTICULO 40.
 
-1. Los miembros de las comisiones están obligados a asistir puntualmente a sus reuniones. Quien no pueda concurrir a la cita hecha, comunicará oportunamente la causa que lo justifique.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
-2. El coordinador del grupo parlamentario al que pertenezcan los diputados miembros de las comisiones podrá solicitar su sustitución temporal, en caso de ausencia que así lo justifique.
+1. Los miembros de las comisiones, están obligados a asistir puntualmente a sus reuniones. Quien no pueda concurrir a la cita hecha, comunicará oportunamente al presidente de la comisión la causa que lo justifique.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
+2. El coordinador del grupo parlamentario al que pertenezcan los diputados miembros de las comisiones podrá solicitar a la Junta de Coordinación Política su sustitución temporal, en caso de ausencia que así lo justifique, a efecto de que se haga la propuesta respectiva al Pleno.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -715,31 +731,53 @@ f) De la Medalla al Mérito "Luis García de Arellano", a cargo de la recepción
 
 ###### ARTICULO 43.
 
-1. Las comisiones ordinarias llevarán a cabo las tareas siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2017)</small>
 
-a) Elaborar su programa anual de trabajo;
+Las comisiones ordinarias llevarán a cabo las tareas siguientes:
 
-b) Rendir un informe anual de sus actividades a la Junta de Coordinación Política;
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
-c) Organizar y mantener un archivo de los asuntos que les sean turnados, con el apoyo de los servicios parlamentarios de la Secretaría General;
+a) Elaborar su programa de trabajo, el cual podrá modificarse durante el ejercicio de la Legislatura;
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
+b) Rendir un informe anual de sus actividades a la Junta de Coordinación Política; y entregar un ejemplar a la Secretaría General del Congreso para su archivo y publicación en la Plataforma Nacional de Transparencia;
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
+c) Mantener actualizado el registro de los asuntos que les sean turnados, con el apoyo de los servicios parlamentarios de la Secretaría General;
 
 d) Sesionar, cuando menos, una vez cada dos meses;
 
-e) Atender los asuntos que la Mesa Directiva del Congreso les turne;
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
-f) Atender y dictaminar las iniciativas, proyectos y propuestas que le sean turnadas en los términos del programa legislativo acordado por la Junta de Coordinación Política, y
+e) Atender y, en su caso, dictaminar los asuntos que le sean turnados por el presidente de la Mesa Directiva;
+
+f) (DEROGADO, P.O. 30 DE MAYO DE 2017)
 
 g) Realizar las actividades que se deriven de la Constitución Política del Estado, de esta ley y de los demás ordenamientos de la actividad parlamentaria, así como de los acuerdos tomados por el Pleno del Congreso con relación a las materias de su competencia.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 44.
 
-1. El presidente de la comisión será responsable de los expedientes de los asuntos que se turnen para el estudio y dictamen de dicha comisión. Al efecto firmará el libro de registro que está a cargo de la Secretaría General y devolverá aquellos que se encuentren sin despachar al término del periodo de sesiones ordinarias, con objeto de que puedan ponerse oportunamente a disposición de la Diputación Permanente.
+1. La Secretaría General resguardará los expedientes de los asuntos que se turnen para el estudio y dictamen de las comisiones, los cuales estarán a disposición de los presidentes de dichos órganos parlamentarios.
 
-2. Las comisiones se reunirán mediante cita de sus respectivos presidentes y solo podrán adoptar decisiones si se encuentran presentes la mayoría de los individuos que las formen.
+2. Las comisiones se reunirán mediante cita de sus respectivos presidentes o por acuerdo de la mayoría de sus integrantes, pudiendo instruir a la Secretaría General para tales efectos, y solo podrán adoptar decisiones si se encuentran presentes la mayoría de sus integrantes.
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+3. Las reuniones de comisión sólo podrán suspenderse por acuerdo de la mayoría de sus miembros.
 
-3. Los oficios de cita a las reuniones de las Comisiones, así como los documentos relativos podrán ser remitidos a sus integrantes a través de medios o vías de comunicación electrónica.
+4. Los oficios de cita a las reuniones de las Comisiones, así como los documentos relativos podrán ser remitidos a sus integrantes a través de medios o vías de comunicación electrónica.
+
+5. Cuando se trate de reuniones de comisiones unidas sus integrantes elegirán de entre ellos a quien habrá de presidirlas, en todo caso, se procurará que sea uno de los presidentes de las mismas.
+
+6. El quórum lo definirá la mayoría de los integrantes que conforman las comisiones unidas.
+
+7. Las Comisiones unidas llevarán a cabo de manera conjunta la votación de sus asuntos. Cuando algún diputado sea miembro simultáneo de más de una comisión su voto contará en relación al número de las comisiones de las que forma parte.
+
+8. Para el resultado de la votación de un asunto se computarán el total de los votos emitidos por una o más comisiones en su caso.
+
+9. Cuando deba efectuarse una sesión de comisiones unidas los presidentes respectivos podrán emitir la convocatoria correspondiente en forma conjunta, pudiendo instruir a la Secretaría General para tales efectos.
 
 ###### ARTICULO 45.
 
@@ -767,9 +805,11 @@ g) Realizar las actividades que se deriven de la Constitución Política del Est
 
 3. Los servidores públicos que asistan a las reuniones de las comisiones para brindar información sobre las tareas a su cargo, están obligados a guardar a los legisladores las atenciones y consideraciones inherentes a la representación de que se encuentran investidos.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 48.
 
-Todo diputado podrá asistir a las reuniones de las comisiones ordinarias y especiales a las cuales no pertenezca, así como hacer uso de la palabra en ellas para exponer libremente sus consideraciones sobre el asunto en estudio, pero no tendrá voto en las decisiones de esas comisiones.
+Todo diputado podrá asistir a las reuniones de las comisiones ordinarias y especiales a las cuales no pertenezca, así como hacer uso de la palabra en ellas para exponer libremente sus consideraciones sobre el asunto en estudio, pero no tendrá voto en las decisiones de esas comisiones. Sin demérito de lo anterior, los legisladores están obligados a permitir la libre discusión y decisión parlamentaria en las referidas reuniones.
 
 ###### ARTICULO 49.
 
@@ -797,17 +837,27 @@ Todo diputado podrá asistir a las reuniones de las comisiones ordinarias y espe
 
 2. Los comités tendrán la duración que señale el acuerdo de creación.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
+
+3. Para el desempeño de sus atribuciones los Comités aplicarán, en lo conducente, las normas relativas al funcionamiento de las comisiones previstas en esta ley.
+
 ###### ARTICULO 52.
 
-1. Para la orientación informativa, así como para el conocimiento y atención de las peticiones que formulen los ciudadanos al Congreso o a sus órganos, en cada Legislatura se formará el Comité de Información, Gestoría y Quejas.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
+1. Para la orientación informativa, así como para el conocimiento y atención de las peticiones que formulen los ciudadanos al Congreso o a sus órganos, en cada Legislatura se formará el Comité de Información y Gestoría.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
+
+2. El Comité de Información y Gestoría, para la atención de sus atribuciones contará con un área administrativa de apoyo con el rango de jefatura de departamento, que dependerá de la Unidad de Servicios Parlamentarios.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2006)</small>
 
-2. Con objeto de actuar como enlace entre el Pleno y el Instituto de Investigaciones Parlamentarias, así como orientar y supervisar el trabajo, e impulsar las propuestas y programas del mismo, en cada Legislatura se integrará el Comité del Instituto de Investigaciones Parlamentarias.
+3. Con objeto de actuar como enlace entre el Pleno y el Instituto de Investigaciones Parlamentarias, así como orientar y supervisar el trabajo, e impulsar las propuestas y programas del mismo, en cada Legislatura se integrará el Comité del Instituto de Investigaciones Parlamentarias.
 
 > <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2006)</small>
 
-3. Con objeto de propiciar el fortalecimiento de los elementos que requiere el desempeño de las tareas constitucionales a cargo del Congreso y de sus órganos, en cada Legislatura se integrará el Comité del Centro de Estudios sobre las Finanzas Públicas.
+4. Con objeto de propiciar el fortalecimiento de los elementos que requiere el desempeño de las tareas constitucionales a cargo del Congreso y de sus órganos, en cada Legislatura se integrará el Comité del Centro de Estudios sobre las Finanzas Públicas.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
@@ -815,7 +865,7 @@ Todo diputado podrá asistir a las reuniones de las comisiones ordinarias y espe
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
-ARTÍCULO 52 BIS.
+ARTICULO 52 BIS.
 
 1. En apoyo al trabajo de las Comisiones y Comités, el Congreso del Estado contará con Auxiliares de Dictaminación, que estarán adscritos a la Unidad de Servicios Parlamentarios, los que tendrán el rango de asesores.
 
@@ -889,9 +939,9 @@ e) De Asuntos Patrimoniales y Municipales.
 
 1. Los asuntos que se hallen a cargo de las comisiones ordinarias al concluir el periodo inmediato anterior, serán responsabilidad de la Diputación Permanente durante el receso.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
-2. Los asuntos referidos en el párrafo anterior y los que se reciban durante el receso quedarán a cargo de la Diputación Permanente para dictamen, la que dará cuenta con ellos al Congreso en el período ordinario siguiente o en la sesión extraordinaria que se celebre, si se encuentran incluidos en la convocatoria a esta última.
+2. Los asuntos referidos en el párrafo anterior y los que se reciban durante el receso quedarán a cargo de la Diputación Permanente para dictamen, la que dará cuenta con ellos al Congreso en el período ordinario siguiente mediante un informe que rendirá al Pleno, o en la sesión extraordinaria que se celebre, si se encuentran incluidos en la convocatoria a esta última.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2016)</small>
 
@@ -919,7 +969,9 @@ Para el desempeño de sus atribuciones, la Diputación Permanente aplicará en l
 
 1. Para la coordinación y ejecución de las tareas que permitan el mejor cumplimiento de las funciones parlamentarias y la atención eficiente de sus necesidades administrativas y financieras, el Congreso cuenta con una Secretaría General.
 
-2. El Congreso contará también con una Unidad de Formación Permanente de los integrantes de sus servicios parlamentarios, administrativos y financieros.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
+2. El Congreso contará también con las Unidades de Certificación y Capacitación, y de Género de los integrantes de sus servicios parlamentarios, administrativos y financieros, las cuales dependerán de la Secretaría General.
 
 ###### ARTICULO 60.
 
@@ -1055,17 +1107,29 @@ g) Cumplir las demás funciones que le confiere esta ley, los ordenamientos rela
 
 a) De Recursos Humanos, que comprende los de: reclutamiento, promoción y evaluación del personal del Congreso; registro y actualización de los expedientes laborales; y trámites relativos a las prestaciones sociales de los colaboradores del Congreso;
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
-b) De Tesorería, que comprende los de: programación y presupuesto; control presupuestal; contabilidad y cuenta pública; finanzas; elaboración de los estados financieros y demás información contable, presupuestal, patrimonial y programática del Congreso del Estado para su inclusión en el Tomo del Poder legislativo de la Cuenta Pública del Gobierno del Estado de Tamaulipas; elaboración de nóminas; y formulación de manuales de organización y procedimientos administrativos;
+b) De Tesorería, que comprende los de: programación y presupuesto; control presupuestal; finanzas; elaboración de los estados financieros y demás información contable, presupuestal, patrimonial y programática del Congreso del Estado para su inclusión en el Tomo del Poder legislativo de la Cuenta Pública del Gobierno del Estado de Tamaulipas, y elaboración de nóminas;
 
-c) De Recursos Materiales y Servicios Generales, que comprende los de: inventario, provisión y control de bienes muebles, materiales de oficina y papelería; adquisición de recursos materiales; mantenimiento de bienes inmuebles; alimentación, y servicios generales y de limpieza;
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
-d) De Informática, que comprende los de: instalación y mantenimiento del equipo de cómputo, planificación informática y asesoría para la adquisición de bienes informáticos;
+c) De Recursos Materiales y Servicios Generales, que comprende los de: inventario, provisión y control de bienes muebles, materiales de oficina y papelería; adquisición de recursos materiales; mantenimiento de bienes inmuebles; alimentación, y servicios generales y de limpieza; adquisiciones de materiales y lo necesario para el mantenimiento del Congreso del Estado; y, de almacén para el resguardo de las compras e inventarios adquiridos;
 
-e) De Asistencia Jurídica, que comprende los de: atención de los asuntos legales del Congreso en sus aspectos consultivo y contencioso, que no deriven del ejercicio de la función legislativa del Pleno, y
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
-f) De Seguridad, que comprende los de: salvaguarda de la integridad física de las personas; vigilancia y cuidado de bienes muebles e inmuebles; y supervisión de los accesos a las instalaciones del Congreso.
+d) De Informática, que comprende los de: servicios de tecnología de la información y comunicaciones, la planificación informática, el desarrollo de aplicaciones y mantenimiento de la página web del Congreso, la asesoría para la adquisición de bienes relacionados al departamento; la instalación y mantenimiento del equipo de audio y video, del circuito cerrado de televisión, de la configuración y mantenimiento de telefonía y redes, así como de diseño gráfico;
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
+e) De Asistencia Jurídica, que comprende los de: atención de los asuntos legales del Congreso en sus aspectos consultivo y contencioso, que no deriven del ejercicio de la función legislativa del Pleno;
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
+f) De Seguridad, que comprende los de: salvaguarda de la integridad física de las personas; vigilancia y cuidado de bienes muebles e inmuebles; y supervisión de los accesos a las instalaciones del Congreso; y
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
+
+g) De Planeación Estratégica, que comprende los de: administración de los programas operativos, formulación de manuales de organización y procedimientos administrativos.
 
 2. Los servicios establecidos en el párrafo anterior tendrán la estructura administrativa que prevea el presupuesto de egresos del Congreso.
 
@@ -1095,43 +1159,59 @@ d) Cumplir las demás funciones que le confieren esta ley, los ordenamientos rel
 
 3. En su caso, se coordinará con la Secretaría General cuando las actividades a su cargo incidan en el desempeño de las funciones de dirección parlamentaria de la Mesa Directiva y el desarrollo de las sesiones del Pleno o las reuniones de las comisiones.
 
-###### ARTICULO 66.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
-1. La Contraloría Interna tiene a su cargo las tareas relacionadas con el control interno de los órganos técnicos y administrativos del Congreso, y la substanciación de los procedimientos de responsabilidad administrativa de los servidores públicos del mismo.
+###### ARTÍCULO 66.
 
-2. La Contraloría Interna depende de la Junta de Coordinación Política.
+1. La Unidad de la Contraloría interna es el órgano que depende de la Junta de Coordinación Política y tiene a su cargo las siguientes tareas:
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2006)</small>
+a) De Auditoría Interna, y que comprende las de control, fiscalización y evaluación del ejercicio del presupuesto de egresos del Congreso; inspección y auditoría sobre el cumplimiento de normas y disposiciones en materia de contabilidad, contratación y pago de personal, obras y servicios, así como en lo relativo a adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes, activos y recursos materiales llevando un inventario actualizado; registro y actualización del padrón de proveedores; supervisión de la integración y trámite de la cuenta pública; atención y seguimiento al plan de acciones correctivas inherentes a informes de auditoría o actividades de control, y supervisión del proceso de entrega recepción; y
+
+b) De Quejas y Responsabilidades, que comprende las de atención de quejas y denuncias administrativas interpuestas en contra de servidores públicos del Congreso; orientación y capacitación en materia de obligaciones, responsabilidades públicas y mejor aprovechamiento de los recursos; formulación y supervisión de manuales de control interno; establecimiento de un software o sistema informativo para la recepción de quejas y denuncias; recepción y registro de declaraciones patrimoniales y las demás que le asigne el titular de la Unidad de la Contraloría.
+
+2. Para el mejor cumplimiento de sus atribuciones, el titular de la Contraloría podrá requerir a los servidores públicos del Congreso información sobre sus respectivas áreas y estos deberán proporcionarla en forma inmediata.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
 ARTICULO 66 BIS.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
+1. La Unidad de Transparencia del Congreso del Estado, realizará sus funciones con base en la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, y ejercerá sus atribuciones legales orientada por las bases regulatorias que establezca el Reglamento que al efecto se expida en esta materia.
 
-1. La Unidad de Información Pública del Congreso del Estado, realizará sus funciones con base en la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, y ejercerá sus atribuciones legales orientada por las bases regulatorias que establezca el Reglamento que al efecto se expida en esta materia.
+2. La Unidad de Transparencia dependerá del Presidente de la Mesa Directiva y, en los recesos, del Presidente de la Diputación Permanente, debiendo desarrollar sus funciones bajo el acuerdo y supervisión de dichos titulares, en los términos que establezcan las disposiciones legales y reglamentarias respectivas.
 
-2. La Unidad de Información Pública dependerá del Presidente de la Mesa Directiva y, en los recesos, del Presidente de la Diputación Permanente, debiendo desarrollar sus funciones bajo el acuerdo y supervisión de dichos titulares, en los términos que establezcan las disposiciones legales y reglamentarias respectivas.
+3. La Unidad de Transparencia contará con un Departamento Jurídico el cual asesorará a la Unidad en el cumplimiento de las disposiciones legales vigentes en materia de Acceso a la Información y Protección de Datos Personales, así como prestará auxilio a la Unidad en todo lo que ésta requiera.
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+4. Los costos de reproducción y envío de información solicitada a la Unidad de Transparencia serán cubiertos por el solicitante, en términos de lo previsto en la Ley de Hacienda y mediante los mecanismos administrativos que al efecto se establezcan.
 
-3. Los costos de reproducción y envió de información solicitada a la Unidad de Información Pública serán cubiertos por el solicitante, en términos de lo previsto en la Ley de Hacienda y mediante los mecanismos administrativos que al efecto se establezcan.
+5. El Comité de Transparencia del Congreso del Estado, realizará sus funciones con base en la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, y ejercerá sus atribuciones legales orientada por las bases regulatorias que establezca el Reglamento que al efecto se expida en esta materia.
 
 > <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2006)</small>
 
-ARTÍCULO 66 TER.
+ARTICULO 66 TER.
 
 1. El Instituto de Investigaciones Parlamentarias, es el órgano técnico del Congreso del Estado, al cual le corresponde:
 
-a) Desarrollar programas de investigación de temas relacionados con la historia, funciones, evolución y prácticas parlamentarias;
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
-b) Recopilar y clasificar la legislación y reglamentación histórica estatal con el objeto de realizar estudios sobre su génesis, evolución e impacto en la vida de la sociedad;
+a) Asistir mediante el personal que designe el Coordinador a las reuniones que las Comisiones convoquen;
 
-c) Recopilar y clasificar la legislación federal y de otras entidades del país, incluyendo los Tratados Internacionales que México ha ratificado, con el propósito de analizar su relación con el orden jurídico del Estado;
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
-d) Recopilar y clasificar la reglamentación histórica de los municipios del Estado de Tamaulipas, a fin de investigar sus orígenes, desarrollo y el papel que ha significado en la vida del Municipio;
+b) Realizar investigaciones jurídicas y parlamentarias en apoyo al trabajo de Dictaminación de comisiones, cuando así se lo solicite el Comité;
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
+c) Coordinar el programa de Estancias de Investigación a su cargo;
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
+d) Colaborar con la Secretaría General el diseño, organización e implementación del Curso de Inducción a la Función Legislativa;
 
 e) Efectuar estudios de derecho comparado en los temas relevantes del interés del Congreso del Estado;
 
-f) Investigar el estado que guarda el orden jurídico estatal aplicando diversos criterios metodológicos y presentar propuestas que contribuyan a su actualización;
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
+f) Dar seguimiento a las reformas constitucionales y de leyes generales que sean concurrentes con el orden jurídico estatal;
 
 g) Fomentar la celebración de convenios de colaboración e intercambio con organismos académicos, públicos, privados y sociales, locales, nacionales e internacionales;
 
@@ -1139,7 +1219,9 @@ h) Instrumentar programas de profesionalización y formación de especialistas e
 
 i) Organizar, promover y participar en cursos, seminarios, congresos, diplomados, foros, coloquios, conferencias y mesas redondas;
 
-j) Impulsar programas editoriales y de difusión de las actividades del Congreso del Estado de Tamaulipas;
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
+j) Impulsar programas editoriales y de difusión de las actividades del Congreso del Estado Libre y Soberano de Tamaulipas, así como convocar a concursos de investigación jurídica y legislativa;
 
 k) Aportar a los Diputados investigaciones técnicas que contribuyan al mejoramiento de su trabajo legislativo, a través del Comité del Instituto de Investigaciones Parlamentarias; y
 
@@ -1161,9 +1243,63 @@ c) No haber sido condenado por delito intencional que ameritara pena privativa d
 
 d) Contar con título profesional preferentemente de Licenciado en Derecho o su equivalente legalmente expedido;
 
-e) Acreditar haber cursado una Maestría en alguna de las materias relacionadas preferentemente con el derecho o la investigación; y
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
+e) Podrá haber cursado una Maestría en alguna de las materias relacionadas preferentemente con el derecho o la investigación; y
 
 f) Acreditar mínimo tres años en el ejercicio de la profesión.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
+
+ARTICULO 66 QUATER.
+
+1. El Centro de Estudios de las Finanzas Públicas es el órgano técnico del Congreso del Estado al cual le corresponde:
+
+a) Analizar los aspectos relacionados con las finanzas públicas, tanto del informe anual que rinda el Ejecutivo al Congreso sobre el estado que guarda la administración pública estatal, el Plan Estatal de Desarrollo, así como de los informes que por escrito deban dar cuenta los titulares de sus dependencias con relación a sus respectivos ramos, dando cuenta al Pleno de los trabajos realizados al efecto;
+
+b) Analizar el Informe Anual de Ejecución del Plan Municipal de Desarrollo de los Ayuntamientos del Estado, y dar cuenta al Pleno de los trabajos realizados al respecto;
+
+c) Elaborar análisis, proyecciones y cálculos que le sean requeridos por la Comisión de Finanzas, Planeación, Presupuesto y Deuda Pública sobre el tema de finanzas públicas;
+
+d) Proporcionar a las comisiones del Congreso la información que requieran, para el ejercicio de sus funciones constitucionales en materia de finanzas públicas; esa información se presentará previo su procesamiento adecuado;
+
+e) Recabar y organizar la información de carácter económico, procedente de organismos públicos y privados, para hacer accesible la misma al Congreso y a sus diversas comisiones y grupos parlamentarios;
+
+f) Asesorar a las comisiones del Congreso cuando éstas requieran información en materia económica de parte de las dependencias y entidades del Poder Ejecutivo, conforme a lo prescrito en la ley organizacional de este Congreso, con el propósito de mejorar la calidad y cantidad de los datos para el desempeño de las funciones de los diputados;
+
+g) Solicitar a la Secretaría de Finanzas la información que estime necesaria, a través y con autorización expresa del pleno de la Comisión de Finanzas, Planeación, Presupuesto y Deuda Pública del Congreso; y
+
+h) Realizar estudios sobre los temas directamente relacionados con las finanzas públicas, abarcando los que por su naturaleza tengan relación con éstos, a petición de las comisiones del Congreso o por iniciativa propia.
+
+2. Para el ejercicio de las atribuciones establecidas en el párrafo anterior, el Centro contará con la estructura administrativa que se prevea en el Reglamento, la cual podrá ampliarse conforme a las necesidades propias de su funcionamiento. El personal del instituto deberá contar con un perfil profesional relacionado con los ámbitos académicos y de la investigación.
+
+3. El Coordinador del Centro será nombrado, a propuesta de la Junta de Coordinación Política, y sólo podrá ser removido por el Pleno.
+
+4. Para ser nombrado Coordinador del Centro de Estudios sobre las Finanzas Públicas se requiere:
+
+a) Ser mexicano;
+
+b) Estar en pleno goce de sus derechos civiles;
+
+c) No haber sido condenado por delito internacional que ameritara pena privativa de la libertad;
+
+d) Contar con título profesional preferentemente de Licenciado en Economía, en Administración Pública o su equivalente legalmente;
+
+e) Acreditar haber cursado Maestría en alguna de las materias relacionadas preferentemente con la economía o la investigación; y
+
+f) Acreditar mínimo de tres años en el ejercicio de su profesión.
+
+5. El Centro contará con un Comité formado por Diputados cuyo objeto es formular directrices y pautas que contribuyan a orientar el trabajo del mismo centro. El Comité tomará sus decisiones por consenso y, en caso de no lograrse éste, operará el sistema de voto ponderado.
+
+6. El Comité será el órgano de gobierno del Centro y tendrá entre sus atribuciones:
+
+a) Aprobar el reglamento interno que rija el trabajo técnico y científico encargado al Centro;
+
+b) Adoptar las medidas y decisiones relativas a la vinculación del Centro con otras instituciones similares de órganos legislativos nacionales y extranjeros; y
+
+c) Gestionar ante la Junta de Coordinación Política la asignación del presupuesto del Centro para el cumplimiento de sus funciones y atribuciones.
+
+7. En los análisis, informes, proyecciones y toda clase de documentos que elabore el Centro, no podrán hacerse recomendaciones de política económica y social.
 
 ## TITULO TERCERO. DEL FUNCIONAMIENTO INTERNO DEL CONGRESO
 
@@ -1205,27 +1341,67 @@ a) Rendir protesta constitucional con motivo del inicio de su encargo;
 
 b) Velar por el bien del Estado mediante el ejercicio responsable de sus funciones;
 
-c) Asistir puntualmente a las sesiones del Pleno y a las reuniones de las comisiones de las que formen parte, así como a las de la Diputación Permanente cuando fueren electos para formar parte de ella, sin retirarse de las mismas en forma definitiva sin previo aviso y autorización de quien presida el órgano correspondiente;
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
-d) Guardar reserva de los asuntos que el Pleno haya acordado mantener con ese carácter;
+c) Abstenerse de efectuar cualquier acto que cause demora en el desarrollo de los trabajos parlamentarios;
 
-e) Cumplir oportuna y eficazmente con las tareas que se le encomienden;
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2012)</small>
+d) Asistir puntualmente a las sesiones del Pleno y a las reuniones de las comisiones de las que formen parte, así como a las de la Diputación Permanente cuando fueren electos para formar parte de ella, sin retirarse de las mismas en forma definitiva sin previo aviso y autorización de quien presida el órgano correspondiente;
 
-f) Rendir un informe anual a la sociedad respecto de sus actividades legislativas, de gestión y de representación;
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2012)</small>
+e) Guardar reserva de los asuntos que el Pleno haya acordado mantener con ese carácter;
 
-g) Adoptar un comportamiento parlamentario caracterizado por el respeto y la cortesía hacia los demás integrantes del Pleno y respetar las determinaciones del Presidente de la Mesa Directiva; y
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
-h) Preservar la dignidad de la representación popular que tienen conferida con motivo de su actuación en el Congreso y los órganos del mismo, así como en su desempeño en todo acto de carácter público.
+f) Cumplir oportuna y eficazmente con las tareas que se le encomienden;
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
+g) Rendir un informe anual a la sociedad respecto de sus actividades legislativas, de gestión y de representación; y entregar un ejemplar a la Secretaría General del Congreso para su archivo y publicación en la Plataforma Nacional de Transparencia;
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
+h) Adoptar un comportamiento parlamentario caracterizado por el respeto y la cortesía hacia los demás integrantes del Pleno y respetar las determinaciones del Presidente de la Mesa Directiva;
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
+
+i) Acatar las determinaciones de quien presida el Pleno, los órganos directivos de las comisiones y comités;
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
+
+j) Preservar la dignidad de la representación popular que tienen conferida con motivo de su actuación en el Congreso y los órganos del mismo, así como en su desempeño en todo acto de carácter público;
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
+
+k) Emitir su voto salvo que exista excusa legal, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado;
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
+
+l) Presentar la declaración de situación patrimonial y de modificación a la misma conforme a la ley de la materia;
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
+
+m) Permitir la libre discusión y decisión parlamentaria en reuniones, así como en las sesiones del Pleno;
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
+
+n) Retirar cualquier material o artículos ilustrativos que haya utilizado para su intervención en el Pleno una vez que ésta haya concluido;
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
+
+ñ) Abstenerse de hacer uso de la palabra durante las sesiones, si el Presidente no se la ha concedido; y
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
+
+o) Tratar con respeto y profesionalismo al personal que preste sus servicios en el Congreso.
 
 2. Los diputados cumplirán con los deberes que deriven de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado y de las leyes que de ellas emanen.
 
-> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
-3. Los Diputados que funjan como representantes del Poder Legislativo en organismos descentralizados, que formen parte de comisiones, comités, consejos o asambleas, deberán rendir ante el Pleno del H. Congreso del Estado un informe anual de las actividades desempeñadas.
+3. Los Diputados que funjan como representantes del Poder Legislativo en organismos descentralizados, que formen parte de comisiones, comités, consejos o asamblea, deberán rendir ante el Pleno del Congreso del Estado un informe anual de las actividades desempeñadas, y entregar un ejemplar a la Secretaría General del Congreso para su archivo y publicación en la Plataforma Nacional de Transparencia.
 
 ###### ARTÍCULO 69.
 
@@ -1364,6 +1540,10 @@ e) Sobrevenga la muerte del representante popular.
 7. Las sesiones serán solemnes cuando así se disponga por esta ley o lo acuerde el Pleno con objeto de realizar alguna conmemoración o recibir la presencia de algún invitado especial. El orden del día de estas sesiones se establecerá conforme a las previsiones que proponga la Junta de Coordinación Política.
 
 8. Durante el desarrollo de las sesiones del Congreso, podrán ingresar al Salón de Sesiones y permanecer en él los miembros de los servicios parlamentarios y administrativos que se requieran.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
+
+9. A fin de garantizar el derecho humano de acceso a la información de las personas con discapacidad auditiva, el Congreso contará con intérprete de Lengua de Señas Mexicana que comunique el contenido del trabajo realizado durante las sesiones en vivo transmitidas por este Poder Legislativo.
 
 ###### ARTICULO 78.
 
@@ -2966,3 +3146,23 @@ P.O. 23 DE MAYO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición, y se publicará en el Periódico Oficial del Estado.
+
+P.O. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-176 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al momento de su expedición y se publicará en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Centro de Estudios sobre las Finanzas Públicas iniciará funciones con los recursos humanos y financieros disponibles, debiendo considerarse lo conducente en el Proyecto para el ejercicio fiscal del año 2018.
+
+P.O. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-177 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO 9 AL ARTÍCULO 77 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y se publicará en el Periódico Oficial del Estado de Tamaulipas.
