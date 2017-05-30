@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2017-04-29"
+last_updated: "2017-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2017.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -575,71 +575,45 @@ Si ambos cónyuges procedieron de mala fe, la sociedad se considerará nula desd
 
 ### Capítulo X. Del Divorcio
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
 ###### ARTICULO 86.
 
-El divorcio es la acción que disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
+El divorcio es la acción que disuelve el vínculo del matrimonio.
 
-La acción de divorcio es personalísima, y sólo se extingue por la muerte de uno o ambos cónyuges.
+La acción de divorcio es personal, y sólo se extingue por la muerte de uno o ambos cónyuges.
 
-Las formas de divorcio para disolver el vínculo matrimonial son:
+Las dos formas de divorcio para disolver el vínculo matrimonial son:
 
-I. Necesario, cuando uno de los cónyuges considere tener causa para ello prevista en este Código, y
+I. Incausado, cuando cualquiera de los cónyuges lo solicite, sin que se requiera que se señale la causa, razón o motivo que genere la petición, y
 
-II. Voluntario, cuando ambos cónyuges pueden convenir en divorciarse, en cuyo caso se tramitará por la vía judicial, ante el Juez Familiar; o de forma administrativa ante el Oficial que designe el Director del Registro Civil en el Estado.
+II. Voluntario, cuando ambos cónyuges pueden convenir en divorciarse, en cuyo caso se tramitará por la vía judicial, ante el Juez Familiar, o Mixto; o de forma administrativa ante el Oficial que designe el Director del Registro Civil en el Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
+
+ARTICULO 86 BIS. La o el cónyuge que desee promover juicio de divorcio incausado, además de cumplir con los requisitos que establece el artículo 253 del Código de Procedimientos Civiles para el Estado de San Luis Potosí, deberá acompañar a su escrito inicial de demanda, una copia certificada del acta de matrimonio y de las de nacimiento de sus hijas o hijos, copia simple de la solicitud y propuesta de convenio, tendiente a regular las consecuencias jurídicas de la disolución del vínculo matrimonial, mismo que deberá contener, por lo menos, los siguientes requisitos:
+
+I. La designación de la persona que tendrá la guarda y custodia de las o los hijos menores, o incapaces;
+
+II. Las modalidades bajo las cuales el padre o madre, que no tenga la guarda y custodia, ejercerá el derecho de convivencia;
+
+III. La forma o términos bajo los cuales se atenderán o cubrirán las necesidades de las hijas o hijos y, en su caso, de la o el cónyuge a quien deba darse alimentos, tanto durante el procedimiento, como después de decretarse el divorcio, así como las medidas conducentes, en caso de que la mujer se encuentre encinta; especificándose forma, lugar y fecha del pago, así como la garantía para asegurar el debido cumplimiento;
+
+IV. La designación de la o el cónyuge al que corresponderá, en su caso, el uso del domicilio conyugal y el menaje de casa;
+
+V. La forma y términos de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo al efecto, las capitulaciones matrimoniales, el inventario, avalúo y el proyecto de participación. Para el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes, deberá tomarse en consideración lo establecido en los artículos siguientes, y
+
+VI. La compensación, en el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes, la que no podrá ser superior al cincuenta por ciento del valor de los bienes que hubieren adquirido, a que tendrá derecho la o el cónyuge que, durante el matrimonio, se haya dedicado preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos. El Juez de lo Familiar o el Juez Mixto, en su caso, resolverá atendiendo a las circunstancias específicas de cada caso.
+
+Con el convenio de referencia, se dará vista al otro cónyuge, para que al contestar la demanda, manifieste su conformidad con el mismo o, en su caso, presente contrapropuesta de convenio.
+
+Para el caso de que las partes no se pongan de acuerdo en los temas relativos a la guarda y custodia de las o los hijos; el régimen de convivencia con la madre o padre no custodio; los alimentos, entre otros, la autoridad judicial se pronunciará respecto de la solicitud de divorcio; y en la vía incidental que corresponda, se deberá continuar hasta la total resolución de los demás temas que se hayan ventilado.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
 ###### ARTICULO 87.
 
-Son causas de divorcio necesario:
-
-I. Tener alguno de los cónyuges relaciones sexuales con persona distinta a su consorte;
-
-II. El hecho de que la mujer dé a luz durante el matrimonio a una hija o a un hijo concebido antes de celebrarse este contrato, y que judicialmente sea declarada procedente la acción de impugnación de la paternidad;
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-III. El o los actos ejecutados por la o el cónyuge que pueda corromper a las hijas o hijos, ya sean éstos de ambos o de uno solo de ellos;
-
-IV. Padecer alguna enfermedad crónica incurable que sea además infecto contagiosa;
-
-V. Padecer enajenación mental incurable, previa declaración del estado de interdicción;
-
-VI. La separación del domicilio conyugal por más de tres meses, sin causa justificada;
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-VII. La separación del domicilio conyugal originada por una causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que la o el cónyuge que se separó entable la demanda de divorcio;
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-VIII. Cuando no vivan juntos la y el cónyuge por más de dos años, independientemente del motivo que tengan para ello, la cual podrá ser invocada por cualquiera de ellos;
-
-IX. Las amenazas o las injurias graves de un cónyuge al otro;
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-X. La negativa injustificada de la o el cónyuge a cumplir con el cuidado, dirección y trabajos en el hogar;
-
-XI. Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes, cuando amenacen causar la ruina de la familia, o constituyan un continuo motivo de desavenencia conyugal;
-
-XII. La negativa injustificada de las o los cónyuges a cumplir con el cuidado, dirección y trabajos en el hogar;
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-XIII. La o las conductas de violencia familiar cometidas por la o el cónyuge contra el otro, o hacia las hijas o hijos de ambos o de alguno de ellos;
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-XIV. El incumplimiento injustificado de las determinaciones de las autoridades judiciales, tendientes a corregir los actos de violencia familiar hacia la o el cónyuge, o las hijas o hijos, por la o el cónyuge obligado a ello;
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-XV. El uso de métodos de fecundación artificial o asistida sin el consentimiento de la o el cónyuge, y
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-XVI. El uso de métodos de esterilización permanente sin el consentimiento de la o el cónyuge.
+Las o los jueces del Ramo Familiar, o Mixtos, en su caso, están obligados a suplir la deficiencia de las partes en el convenio propuesto.
 
 ###### ARTÍCULO 88.
 
@@ -653,9 +627,11 @@ El cónyuge que principalmente se ocupe del cuidado del hogar conservará el cie
 
 Las disposiciones contenidas en este artículo son aplicables en lo conducente, a la concubina o el concubinario.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 89.
 
-El divorcio sólo puede ser demandado por la o el cónyuge que no haya dado causa para éste; y dentro de los seis meses siguientes al día en que haya tenido conocimiento de los hechos en que se funde la demanda.
+El divorcio puede ser demandado cuando así lo considere la o el cónyuge que decida no continuar unido en matrimonio, independientemente de la causa que le haya llevado a tomar tal determinación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2014)</small>
 
@@ -673,9 +649,11 @@ III. Durante el matrimonio el demandante no haya adquirido bienes propios, o hab
 
 La autoridad judicial al dictar la sentencia de divorcio, resolverá sobre tal indemnización, atendiendo circunstancias como son: la edad y el estado de salud; la cualificación profesional y las probabilidades de acceso a un empleo; el tiempo dedicado o que se dedicará a los hijos; la colaboración con su trabajo en las actividades mercantiles, industriales o profesionales del otro cónyuge; la duración del matrimonio y de la convivencia conyugal; la pérdida eventual de un derecho de pensión; el caudal y los medios económicos y las necesidades de uno y otro cónyuge; y cualquier otra que el Juez considere relevante.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 91.
 
-Antes de que se provea sobre los derechos y obligaciones inherentes a la patria potestad o tutela de las hijas o hijos, la autoridad judicial podrá acordar, a petición de las abuelas, los abuelos, tías, tíos, hermanas o hermanos mayores, cualquier medida que se considere benéfica para las o los menores. La autoridad judicial podrá modificar esa decisión de acuerdo a lo dispuesto en los artículos, 165 y 283 fracción III de este Código.
+La o el Juez, al recibir una solicitud de divorcio incausado, tiene la facultad de decretar las medidas provisionales necesarias, a fin de proteger a la familia, el interés superior de las niñas, niños y adolescentes, así como para proteger a las personas incapaces. Y antes de que se provea sobre los derechos y obligaciones inherentes a la patria potestad o tutela de las hijas o hijos, la autoridad judicial podrá acordar, a petición de las abuelas, abuelos, tías, tíos, hermanas, o hermanos mayores, cualquier medida que se considere benéfica para las o los menores. La autoridad judicial podrá modificar esa decisión de acuerdo a lo dispuesto en los artículos, 165 y 283 fracción III de este Código.
 
 ###### ARTICULO 92.
 
@@ -685,11 +663,11 @@ De oficio o a petición de parte interesada, durante todo el procedimiento la au
 
 La protección para las o los menores incluirá las medidas de seguridad, seguimiento y terapia necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 90 del Código de Procedimientos Civiles para el Estado de San Luis Potosí.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 93.
 
-En los casos de divorcio la o el cónyuge inocente tendrá derecho a los alimentos, mientras no contraiga nuevas nupcias y viva honestamente. Sólo gozará de este derecho cuando no cuente con recursos, ni bienes propios para subsistir o esté imposibilitado para trabajar.
-
-La o el cónyuge demandado tendrá derecho a los alimentos en el caso de la causal a que se refiere la fracción V del artículo 87 de este Código.
+En el supuesto del divorcio incausado, la o el cónyuge que así lo justifique en términos de ley, tendrá derecho a los alimentos, mientras no contraiga nuevas nupcias; viva en concubinato; o esté imposibilitado para trabajar. La imposibilidad referida se entiende como un obstáculo insuperable.
 
 ###### ARTICULO 94.
 
@@ -701,9 +679,11 @@ El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas l
 
 Ejecutoriado el divorcio se procederá desde luego a la división de los bienes comunes, y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre la y el cónyuge, o con relación a las hijas o hijos, de acuerdo con lo dispuesto y en los términos del artículo 31 de este Código, subsistiendo esta obligación para éstos últimos hasta que lleguen a la mayoría de edad.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 96.
 
-La o el cónyuge que haya dado causa al divorcio, no podrá contraer matrimonio sino después de un año, a contar desde que se decretó el divorcio.
+En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer matrimonio.
 
 ###### ARTICULO 97.
 
@@ -1163,7 +1143,9 @@ V. Cuando el acreedor alimentario no cumpla con las obligaciones propias de su e
 
 VI. Si el acreedor alimentario, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificadas, y
 
-VII. En los casos en que el cónyuge inocente de un divorcio contraiga nuevas nupcias o viva en concubinato.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2017)</small>
+
+VII. En caso de divorcio incausado en los términos del artículo 93 de este Código.
 
 ###### ARTICULO 164.
 
@@ -3534,3 +3516,11 @@ P.O. 29 DE ABRIL DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0650.- SE REFORMA (SIC) LOS ARTÍCULOS, 86, 87, 89, 91, 93, 96, Y 163 EN SU FRACCIÓN VII; Y ADICIONA EL ARTÍCULO 86 BIS, DE Y AL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
