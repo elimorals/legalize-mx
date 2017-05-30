@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-49474"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-21"
-last_updated: "2016-11-30"
+last_updated: "2017-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE MAYO DE 2017.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 21 de febrero de 2006.
 
@@ -1101,6 +1101,16 @@ Los prestadores de servicio señalados en los párrafos que anteceden, deberán 
 
 La Secretaría de Finanzas y Administración a través de Reglas de Carácter General determinará el mecanismo en que se deberá enterar el aprovechamiento referido.
 
+> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 129 Ter.
+
+Los ingresos recaudados por el aprovechamiento a que se refiere el artículo 129 Bis de esta Ley, serán distribuidos de la siguiente manera:
+
+I. El 95% de estos recursos será depositado directamente por la Secretaría de Finanzas y Administración del Gobierno del Estado al Fideicomiso para la Administración del Aprovechamiento por el Uso de la Infraestructura Estatal y se utilizarán para el fortalecimiento de la Seguridad Pública y víctimas del delito, así como de la Salud, del Apoyo al Empleo, del Deporte, del Desarrollo agropecuario y pesquero, de la infraestructura turística y social, de la vivienda, de la Educación y de la Cultura en el Estado.
+
+II. El 5% restante de los recursos, será aplicado para que el Gobierno del Estado pueda llevar a cabo la recaudación del aprovechamiento, así como las mejoras a la infraestructura y actualizaciones que sean necesarias para tal fin.
+
 ## Título Séptimo. De las participaciones e incentivos federales
 
 ### Capítulo Único
@@ -1278,3 +1288,13 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- La Secretaría de Finanzas y Administración, dentro del término de 180 días naturales, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, deberá emitir las reglas de carácter general en las que se determine la forma en que se recaudará y enterará el aprovechamiento materia de este Decreto.
 
 TERCERO.- El aprovechamiento señalado en el presente Decreto, se empezará a causar a partir de los 30 días naturales siguientes a aquel en que sean publicadas en el Boletín Oficial del Gobierno del Estado de Baja California Sur, las reglas de carácter general a que se refiere el Artículo Transitorio anterior.
+
+B.O. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2438.- SE ADICIONA EL ARTICULO 129 TER A LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- En atención a dar cumplimiento con la obligación de la Secretaría de Finanzas y Administración de emitir las reglas de carácter general en las que se determine la forma en que se recaudará y enterará el aprovechamiento, se conceden 90 días naturales adicionales a los establecidos en el artículo Segundo Transitorio del Decreto 2382 publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 47, de fecha 30 de noviembre del 2016, contados a partir del día siguiente al que venzan los otorgados conforme al citado decreto.
+
+TERCERO.- El Gobierno del Estado contará con un plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, para constituir el fideicomiso al que hace mención la fracción I del artículo 129 Ter de la presente Ley.
