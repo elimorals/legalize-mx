@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2016-12-20"
+last_updated: "2017-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MAYO DE 2017.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -360,8 +360,6 @@ Personas físicas con domicilio legal
 ###### Artículo 2.
 
 20.- Es domicilio legal:
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -701,8 +699,6 @@ II. (DEROGADA, G.G. 7 DE MAYO DE 2015)
 
 III. Los datos generales de los padres.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 IV. (DEROGADA, G.G. 14 DE MARZO DE 2016)
 
 V. (DEROGADA, G.G. 7 DE MAYO DE 2015)
@@ -721,15 +717,11 @@ Al margen del acta se imprimirán las huellas digitales de los contrayentes.
 
 Falsedad de declaración en la celebración de matrimonio
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 3.
 
 27. Los contrayentes que declaren un hecho falso, serán denunciados ante el Ministerio Público.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 3.
 
@@ -753,7 +745,7 @@ El acta de defunción contendrá:
 
 > <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
 
-l. Datos generales del finado.
+I. Datos generales del finado.
 
 ll. (DEROGADA, G.G. 7 DE MAYO DE 2015)
 
@@ -784,8 +776,6 @@ Aviso al Ministerio Público de muerte violenta
 30.- Cuando el oficial del Registro Civil presuma que la muerte fue violenta, lo denunciará al Ministerio Público.
 
 Cuando éste conozca de un fallecimiento, dará parte al oficial del Registro Civil para que asiente el acta respectiva. Si se ignora la identidad del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a su identificación.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -1059,19 +1049,13 @@ Edad para contraer matrimonio
 
 4.- Para contraer matrimonio, la mujer y el hombre necesitan haber cumplido dieciocho años.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
 
 > <small>(DEROGADO TERCER PÁRRAFO, G.G. 6 DE MARZO DE 2010)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Artículo 4.
 
 5.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 4.
 
@@ -1085,13 +1069,9 @@ Impedimentos para contraer matrimonio
 
 7.- Son impedimentos para contraer matrimonio:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
 
 I. La falta de edad requerida por la Ley.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 II. (DEROGADA, G.G. 14 DE MARZO DE 2016)
 
@@ -1148,8 +1128,6 @@ Oficial con conocimiento de impedimentos para el matrimonio
 ###### Artículo 4.
 
 11.- El oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio, levantará acta, en la que hará constar los datos que le hagan suponer que existe el impedimento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
 
@@ -1243,8 +1221,6 @@ Libertad entre los cónyuges para elegir su actividad
 
 20.- Los cónyuges podrán desempeñar la actividad, ocupación, profesión u oficio que elijan, siendo lícitos.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Artículo 4.
 
 21.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
@@ -1301,8 +1277,6 @@ III. Los bienes que se adquieran durante el matrimonio, con el producto de la ve
 
 IV. Objetos de uso personal.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Artículo 4.
 
 28.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
@@ -1332,8 +1306,6 @@ Terminación de la sociedad conyugal
 31.- La sociedad conyugal termina por:
 
 I. La conclusión del matrimonio;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -1509,8 +1481,6 @@ Ingratitud en las donaciones antenupciales
 
 Revocación de las donaciones antenupciales
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 4.
@@ -1563,13 +1533,9 @@ Derecho a la procreación
 
 62.- La acción de nulidad que nace del error o la impotencia, sólo puede ejercitarse por el cónyuge engañado; pero si no lo denuncia dentro del plazo de treinta días de conocerlo, se tiene por ratificado el consentimiento.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Artículo 4.
 
 63.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 4.
 
@@ -1598,8 +1564,6 @@ Legitimación para demandar la nulidad por parentesco
 ###### Artículo 4.
 
 67.- La nulidad por parentesco puede demandarse por cualquiera de los cónyuges, por sus ascendientes o por el Ministerio Público.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 4.
 
@@ -1761,8 +1725,6 @@ Efectos jurídicos del divorcio
 
 Legitimación y plazo para solicitar el divorcio incausado
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 4.
@@ -1797,8 +1759,6 @@ I. Separar a los cónyuges, tomando siempre en cuenta las circunstancias persona
 
 II. Fijar y asegurar los alimentos que debe dar el cónyuge alimentario al acreedor y a los hijos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
 
 III. A falta de acuerdo entre los cónyuges, la guarda y custodia provisional de las y los hijos se decretará por el Juez quedando preferentemente al cuidado de la madre, debiendo escuchar a ambos progenitores, a las hijas o hijos y a cualquier otro interesado, en función del interés superior de las niñas, niños y adolescentes y de los sujetos a tutela. El Juez actuará de la misma manera para determinar el régimen de convivencia.
@@ -1806,8 +1766,6 @@ III. A falta de acuerdo entre los cónyuges, la guarda y custodia provisional de
 IV. Dictar las medidas convenientes respecto a la mujer que esté embarazada;
 
 V. Las necesarias para que los cónyuges no se causen daños en su persona, en sus bienes, en los de la sociedad conyugal o en los bienes de los hijos.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -1853,11 +1811,7 @@ IV. Otras obligaciones que tenga el cónyuge deudor; y
 
 V. Las demás que el Juez estime necesarias y pertinentes.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(DEROGADO TERCER PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -1866,8 +1820,6 @@ V. Las demás que el Juez estime necesarias y pertinentes.
 ###### Artículo 4.
 
 100.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 4.
 
@@ -1893,8 +1845,6 @@ IV. La determinación del que debe de cubrir los alimentos de los hijos así com
 
 V. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2015)</small>
 
 Régimen de convivencia
@@ -1915,8 +1865,6 @@ Separación provisional de los cónyuges y alimentos de los hijos
 
 Avenimiento de los cónyuges
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 4.
@@ -1924,8 +1872,6 @@ Avenimiento de los cónyuges
 104.- Los cónyuges que hayan solicitado el divorcio voluntario podrán avenirse en cualquier tiempo, con tal de que éste no haya sido decretado.
 
 Divorcio administrativo
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -1959,13 +1905,9 @@ Alimentos de los cónyuges en el divorcio voluntario
 
 109.- En el divorcio voluntario se tendrá derecho a recibir alimentos por el mismo lapso de duración del matrimonio, sólo cuando se esté en cualquiera de los siguientes supuestos:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
 
 I. La cónyuge que haya realizado trabajo del hogar consistente en tareas de administración, dirección, atención y cuidado de la familia de manera cotidiana, durante el matrimonio.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -2087,13 +2029,9 @@ Grados de parentesco en línea transversal
 
 126.- Las disposiciones de este capítulo son de orden público.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 Derecho de recibir alimentos
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -2102,8 +2040,6 @@ Derecho de recibir alimentos
 127.- Tienen derecho a recibir alimentos las y los hijos menores de edad o mayores de edad que se dediquen al estudio, los discapacitados, los adultos mayores, la cónyuge o concubina que se haya dedicado cotidianamente al trabajo del hogar, consistente en tareas de administración, dirección, atención y cuidado de la familia y el cónyuge o concubina que se encuentre imposibilitado física o mentalmente para trabajar, previa acreditación con la documentación idónea expedida por una institución pública de salud.
 
 Alimentos entre cónyuges
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -2117,13 +2053,9 @@ De la naturaleza del Registro de Deudores Alimentarios Morosos
 
 128.- Los cónyuges se darán alimentos en los términos que establezca este Código.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 Reglas sobre alimentos entre concubinos y los hijos
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -2133,9 +2065,7 @@ Reglas sobre alimentos entre concubinos y los hijos
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-l. Que acrediten haber hecho vida común por al menos un año o haber procreado algún hijo en común;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+I. Que acrediten haber hecho vida común por al menos un año o haber procreado algún hijo en común;
 
 > <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -2153,23 +2083,15 @@ III. Que no haya contraído nuevas nupcias o viva en concubinato;
 
 IV. Que se reclame dentro del año siguiente de haber cesado el concubinato.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 En el caso de que la concubina trabaje u obtenga una actividad remunerada, la obligación del concubino para dar alimentos será en los términos que establezca este Código.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 La concubina que no tenga hijas o hijos, que carezca de bienes y que se haya dedicado cotidianamente al trabajo del hogar, consistente en tareas de administración, dirección y atención, tendrá derecho a alimentos, mismo que no será inferior al treinta por ciento del total del sueldo, por el tiempo que haya durado el concubinato.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -2205,8 +2127,6 @@ Obligación alimentaria de colaterales hasta el cuarto grado
 
 Aspectos que comprenden los alimentos
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 4.
@@ -2215,15 +2135,11 @@ Aspectos que comprenden los alimentos
 
 Forma de cumplir la obligación alimentaria
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 4.
 
 136.- El obligado a dar alimentos cumple la obligación asignando al acreedor alimentario una pensión, la cual no será inferior al cuarenta por ciento del sueldo.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
 
@@ -2237,19 +2153,13 @@ Quien incumpla con la obligación alimentaria ordenada por mandato judicial o es
 
 El deudor alimentario moroso que acredite ante el Juez que se encuentra al corriente del pago de alimentos a que se refiere el párrafo anterior, podrá solicitar al mismo la cancelación de la inscripción con dicho carácter.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### Artículo 4.
 
 137.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 Alimentos de los cónyuges
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -2273,15 +2183,11 @@ Cuando no sean comprobables el salario o ingresos del deudor alimentario, la o e
 
 Reparto de la obligación alimentaria
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 4.
 
 139.- Si fuesen varios los acreedores alimentarios, la o el Juez repartirá el importe de la pensión, en proporción a sus haberes, atendiendo el interés superior de las niñas, niños o discapacitados sobre los adolescentes.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 4.
 
@@ -2327,13 +2233,9 @@ Cesación de la obligación alimentaria
 
 I. Cuando el acreedor deja de necesitar los alimentos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
 
 II. En caso de daño grave, violencia o conducta viciosa inferidos por el acreedor contra el que debe proporcionarlos.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 III. (DEROGADA, G.G. 14 DE MARZO DE 2016)
 
@@ -2460,8 +2362,6 @@ II. Los nacidos dentro de los trescientos días siguientes a la disolución del 
 > <small>(ADICIONADO, G.G. 7 DE MAYO DE 2015)</small>
 
 Si al celebrarse el matrimonio el contrayente declara que reconoce como hijo suyo al hijo o hijos de quien la contrayente está encinta, el Oficial lo hará constar vía anotación en el acta de matrimonio.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 4.
 
@@ -2829,8 +2729,6 @@ XI. Educar en el conocimiento y uso responsable de las tecnologías de la inform
 
 Personas sobre las que se ejerce la patria potestad
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ## TITULO SEXTO BIS. Disposiciones comunes de la Patria Potestad y Tutela
@@ -2878,8 +2776,6 @@ III. Por los familiares consanguíneos hasta el tercer grado colateral.
 Tratándose de controversia, el Juez decidirá, tomando en cuenta los intereses del menor.
 
 La patria potestad en caso de separación de la pareja que la ejerce
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -3003,13 +2899,9 @@ Medidas para la administración de bienes del sometido a patria potestad
 
 Estas medidas se tomarán a instancia de las personas interesadas, del menor cuando hubiere cumplido catorce años, o del Ministerio Público, en su caso.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 Entrega de bienes y cuentas por las personas que ejerzan la patria potestad
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -3024,8 +2916,6 @@ Si existe disminución de los bienes de las niñas, los niños y los adolescente
 223.- La patria potestad se acaba:
 
 I. Con la muerte del que la ejerce;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 II. (DEROGADA, G.G. 14 DE MARZO DE 2016)
 
@@ -3121,23 +3011,15 @@ Guarda y custodia en la patria potestad
 
 I. Los que ejerzan la patria potestad convendrán quién de ellos se hará cargo de la guarda y custodia del menor;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE AGOSTO DE 2015)</small>
 
 II. Si no llegan a algún acuerdo, el Juez atendiendo a los elementos de prueba que obren en el sumario, con base en el resultado de las pruebas periciales en materia de psicología familiar que oficiosamente habrán de practicárseles y habiendo escuchado a la niña, niño o adolescente determinará:
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 a) El otorgamiento de la guarda y custodia de menores de doce años quedará preferentemente al cuidado de la madre y atendiendo al interés superior de las niñas, niños y adolescentes.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 b) (DEROGADO, G.G. 14 DE MARZO DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -3168,8 +3050,6 @@ III. Los sordomudos que no sepan leer ni escribir;
 IV. Los ebrios consuetudinarios, y los que habitualmente hacen uso inadecuado de estupefacientes, psicotrópicos, o cualquier otra sustancia que altere la conducta y produzca dependencia;
 
 V. Las personas que por cualquier causa física o mental no puedan manifestar su voluntad por algún medio.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ## TITULO OCTAVO. De la Tutela y Curatela
 
@@ -3412,8 +3292,6 @@ Personas que no pueden desempeñar la tutela
 ###### Artículo 4.
 
 264.- Si el menor no ha cumplido doce años, el nombramiento de tutor lo hará el Juez, debiendo recaer en persona idónea para su desempeño.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 4.
 
@@ -3853,8 +3731,6 @@ Cancelación de la garantía por aprobación de cuentas
 
 Nulidad de convenio entre tutor y pupilo
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 4.
@@ -3886,8 +3762,6 @@ Curador en caso de administración de bienes
 Obligación del nuevo tutor
 
 ### CAPITULO I
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 4.
 
@@ -3977,8 +3851,6 @@ Remuneración al curador
 
 337.- El curador percibirá la remuneración que determine el Juez, si realizare gastos en el desempeño de su cargo le serán cubiertos.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 4.
@@ -3992,8 +3864,6 @@ Remuneración al curador
 Efectos legales de la mayoría de edad
 
 ## TITULO NOVENO. De la Mayoría de Edad
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -4323,8 +4193,6 @@ Requisitos para constituir patrimonio familiar
 
 383.- La persona que quiera constituir un patrimonio familiar, lo manifestará por escrito en documento físico o en su caso electrónico al Juez de la ubicación del inmueble precisando las características del mismo y comprobando:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
 
 I. Que es mayor de edad.
@@ -4413,8 +4281,6 @@ Obligación de disminuir el patrimonio familiar
 
 Presencia del Ministerio Público en la extinción o reducción
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 4.
@@ -4467,8 +4333,6 @@ IV. Generador de violencia: Persona que a través de su acción, omisión o abus
 
 V. (DEROGADA, G.G. 6 DE MARZO DE 2010)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
 
 Medidas de protección contra la violencia familiar
@@ -4482,8 +4346,6 @@ Denuncia de violencia familiar
 ###### Artículo 4.
 
 397 Bis.- Las medidas de protección constituyen un derecho para quienes sufran de cualquiera de los tipos de violencia descritos en el artículo anterior, se otorgarán de oficio y conforme a la ley.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -6691,7 +6553,7 @@ Obligación alimentaria del testador
 
 20.- Toda persona tiene capacidad para heredar y no puede ser privada de ella; pero con relación a ciertas personas, y a determinados bienes, son incapaces para heredar por las causas siguientes:
 
-l. Falta de personalidad;
+I. Falta de personalidad;
 
 II. Delito;
 
@@ -7481,7 +7343,7 @@ Formalidades del testamento en un solo acto
 
 135.- Las formalidades del testamento se practicarán en un sólo acto que comenzará con su lectura, y el Notario dará fe de haberse llenado aquéllas.
 
-### CAPITULO l. Disposiciones Generales
+### CAPITULO I. Disposiciones Generales
 
 Casos en que se abre la sucesión legítima
 
@@ -7533,7 +7395,7 @@ Cónyuge que concurre con hijos
 
 142.- La sucesión legítima se abre cuando:
 
-l. No hay testamento, o el que se otorgó ha sido declarado inexistente o nulo;
+I. No hay testamento, o el que se otorgó ha sido declarado inexistente o nulo;
 
 II. El testador no dispuso de todos sus bienes, por la parte faltante;
 
@@ -7711,7 +7573,7 @@ División de la herencia entre parientes hasta el cuarto grado
 
 169.- A falta de los llamados en los artículos anteriores, sucederán los parientes más próximos hasta el cuarto grado, sin distinción de línea, ni consideración al doble vínculo, y heredarán por partes iguales.
 
-### CAPITULO l. De las precauciones que deben adoptarse cuando la viuda queda encinta
+### CAPITULO I. De las precauciones que deben adoptarse cuando la viuda queda encinta
 
 Derecho de la viuda o concubina embarazadas
 
@@ -8029,7 +7891,7 @@ Causas de excusas
 
 219.- Pueden excusarse de ser albaceas:
 
-l. Los servidores públicos;
+I. Los servidores públicos;
 
 II. Los militares en servicio activo;
 
@@ -8357,7 +8219,7 @@ Casos en que debe nombrarse interventor
 
 267.- Debe nombrarse interventor cuando:
 
-l. El heredero esté ausente o no sea conocido;
+I. El heredero esté ausente o no sea conocido;
 
 II. La cuantía de los legados iguales o exceda a la porción del heredero albacea;
 
@@ -8499,8 +8361,6 @@ Derecho a la división de los bienes
 
 Suspensión de la partición
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 6.
@@ -8542,8 +8402,6 @@ Libertad de los herederos para concluir la herencia
 ###### Artículo 6.
 
 294.- Cuando todos los herederos sean mayores de edad, podrán adoptar los acuerdos que estimen convenientes, aún el de separarse del juicio, para el arreglo o terminación de la testamentaria o intestado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
 
@@ -9717,8 +9575,6 @@ Reparación del daño moral
 
 155.- La obligación de reparar el daño moral, solo será exigible si el mismo se produce como consecuencia de un hecho ilícito extracontractual, independientemente de que se hubiere causado daño material y de la reparación que por el mismo procediera.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 De la reparación del daño y los perjuicios
@@ -9731,13 +9587,11 @@ De la reparación del daño y los perjuicios
 
 De conformidad a lo establecido por este ordenamiento, se consideran como hechos ilícitos las siguientes conductas:
 
-l. Comunicar a una o más personas, la imputación que se hace a otra de un hecho cierto o falso, determinado o indeterminado, que cause o pueda causarle deshonra, descrédito o perjuicio, o exponerla al desprecio de alguien.
+I. Comunicar a una o más personas, la imputación que se hace a otra de un hecho cierto o falso, determinado o indeterminado, que cause o pueda causarle deshonra, descrédito o perjuicio, o exponerla al desprecio de alguien.
 
 II. Ejecutar una acción o proferir una expresión que, por su naturaleza, ocasión o circunstancia, pueda perjudicar la reputación del agraviado, fuera de una contienda de obra o palabra y con ánimo de ofender.
 
 III. Imputar a otro falsamente un delito, ya sea porque el hecho es falso o inocente la persona a quien se imputa.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -9751,15 +9605,13 @@ Ejercicio del derecho de opinión, crítica, expresión o información
 
 157.- No podrá demandarse la reparación del daño a quien:
 
-l. Ejerza sus derechos de opinión, crítica, expresión o información, en términos de lo dispuesto por los artículos 6 y 7 de la Constitución Política de los Estados Unidos Mexicanos.
+I. Ejerza sus derechos de opinión, crítica, expresión o información, en términos de lo dispuesto por los artículos 6 y 7 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Cuando aquélla se haya hecho a un funcionario o persona que haya obrado con carácter público, si la imputación fuere relativa al ejercicio de sus funciones o cuando el demandado obre por motivo de interés público o privado, pero legítimo.
 
 II. En el contexto de un proceso contencioso, presente escrito o discurso, con las salvedades de las responsabilidades que de acuerdo con otras disposiciones legales puedan acreditarse.
 
 III. Goce de fuero constitucional.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -9853,9 +9705,11 @@ Repetición del pago
 
 Responsabilidad subsidiaria del Estado, Municipios y sus Organismos Descentralizados
 
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
+
 ###### Artículo 7.
 
-172.- El Estado, los municipios y sus respectivos organismos descentralizados, tienen obligación de responder de los daños causados por sus servidores públicos en el ejercicio de las funciones públicas que les estén encomendadas. Esta responsabilidad es subsidiaria y sólo podrá hacerse efectiva, cuando el servidor público responsable directo, no tenga bienes, o los que tenga no sean suficientes para responder del daño causado.
+172.- El Estado, los municipios y sus respectivos organismos descentralizados, tienen la obligación de responder por los daños causados por sus servidores públicos en el ejercicio de las funciones públicas que les estén encomendadas. Esta responsabilidad es directa, los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
 Responsabilidad del dueño de un animal
 
@@ -14835,9 +14689,9 @@ Forma y perfeccionamiento del contrato electrónico de transporte privado de per
 
 880 Quáter.- El contrato electrónico de transporte privado de personas se perfecciona cuando:
 
-l. Se acepten las condiciones a través de una aplicación tecnológica.
+I. Se acepten las condiciones a través de una aplicación tecnológica.
 
-ll. Se utilice el servicio de transporte privado ligado a plataformas tecnológicas.
+II. Se utilice el servicio de transporte privado ligado a plataformas tecnológicas.
 
 El contenido general del contrato deberá estar visible en una página de internet de la prestadora de servicios electrónicos así como de la de sus filiales o subsidiarias.
 
@@ -16585,8 +16439,6 @@ Prescripción de la acción hipotecaria
 
 1123.- La acción derivada de la hipoteca prescribirá a los diez años, contados desde que pueda ejercitarse con arreglo al título inscrito.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.G. 7 DE MAYO DE 2013)</small>
 
 Clases de Hipoteca
@@ -16596,8 +16448,6 @@ Clases de Hipoteca
 1124.- La hipoteca puede ser voluntaria, necesaria o inversa.
 
 ### CAPÍTULO III BIS. De la hipoteca inversa
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
 
@@ -16753,8 +16603,6 @@ Derechos de los que pueden pedir la constitución de hipoteca necesaria
 
 1144.- Los que tienen derecho de exigir la constitución de hipoteca necesaria, tienen también el de objetar la suficiencia de la que se ofrezca, y el de pedir su ampliación cuando los bienes hipotecados se hagan por cualquier motivo insuficientes para garantizar el crédito; en ambos casos resolverá el Juez.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE MAYO DE 2013)</small>
 
 ### CAPITULO I. De los Documentos Registrables
@@ -16767,8 +16615,6 @@ Documentos jurídicos registrables
 
 1144 Bis.- Es la que se constituye sobre un inmueble que es la vivienda habitual y propia del pensionista para garantizar el capital que se le concede por el pensionario para cubrir sus necesidades económicas de vida, en los términos de este Capítulo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
 
 Contrato de hipoteca inversa
@@ -16776,8 +16622,6 @@ Contrato de hipoteca inversa
 ###### Artículo 7.
 
 1144 Ter.- Es aquel por el cual el pensionario se obliga a pagar periódicamente y en forma vitalicia al pensionista o a su beneficiario que deberá ser su cónyuge, concubina o concubinario de edad igual o superior a los 60 años, una cantidad de dinero predeterminada, que el pensionista garantizará a través de la hipoteca inversa, en los términos de este Capítulo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
 
@@ -16788,8 +16632,6 @@ Autorizados para otorgar la hipoteca inversa
 1144 Quater.- Están autorizadas para otorgar la hipoteca inversa las instituciones privadas, sociales, las personas físicas y las instituciones públicas, siempre que cuenten con facultades para ello.
 
 El costo de dicho avaluó será cubierto por el pensionario y deberá actualizarse periódicamente para estar acorde con la plusvalía que el bien adquiera con el tiempo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
 
@@ -16803,7 +16645,7 @@ El costo de dicho avaluó será cubierto por el pensionario.
 
 El contrato de hipoteca inversa, además de lo pactado, estará sujeto a lo siguiente:
 
-l. Que la cantidad pactada entre pensionario y pensionista sea suficiente para que éste último cubra sus necesidades básicas;
+I. Que la cantidad pactada entre pensionario y pensionista sea suficiente para que éste último cubra sus necesidades básicas;
 
 II. Que el solicitante o los beneficiarios que él designe sean personas de edad igual o superior a los 60 años;
 
@@ -16825,8 +16667,6 @@ X. Los intereses que se generen por el capital serán solamente sobre las cantid
 
 XI. Que en el contrato se incluyan las especificaciones del incremento anual que tendrá la pensión, de acuerdo con las condiciones del mercado y el valor del inmueble.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
 
 Lineamientos de las amortizaciones
@@ -16839,8 +16679,6 @@ I. Cuando fallezca el pensionista y su beneficiario, en caso de haberlo, sus her
 
 II. En el supuesto de la fracción anterior, los herederos del pensionista podrán optar por no pagar el adeudo existente y vencido. Transcurridos seis meses después del fallecimiento del pensionista sin efectuarse el pago, el pensionario cobrará el adeudo hasta donde alcance el valor del bien hipotecado, pudiendo solicitar su adjudicación o su venta.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
 
 Transmisión del bien hipotecado
@@ -16848,8 +16686,6 @@ Transmisión del bien hipotecado
 ###### Artículo 7.
 
 1144 Septies.- El inmueble hipotecado no podrá ser transmitido por acto inter vivos sin el consentimiento previo del pensionario. El incumplimiento de esta obligación le conferirá el derecho de declarar vencido anticipadamente el total del adeudo y exigible a la fecha, a menos que se sustituya la garantía en forma bastante e igual a la anterior en un plazo de seis meses.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
 
@@ -16859,8 +16695,6 @@ Extinción de la hipoteca inversa
 
 1144 Octies.- Cuando se extinga el capital pactado y los herederos del pensionista decidan no rembolsar los débitos vencidos, con sus intereses, el pensionario podrá obtener recobro hasta donde alcance el bien hipotecado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
 
 Rescisión de la hipoteca inversa
@@ -16869,8 +16703,6 @@ Rescisión de la hipoteca inversa
 
 1144 Nonies.- En caso de incumplimiento del pensionario en las ministraciones pactadas, el pensionista estará en condiciones de solicitar la rescisión del contrato y exigir el pago de los daños y perjuicios, o en su caso, el pago de la pena pactada. Además, se tendrá la deuda como liquidada y no generará más interés; debiendo el pensionario liberar a su costa el gravamen correspondiente. Para el caso de que se constituya una nueva hipoteca inversa sobre el mismo inmueble, ésta tendrá prelación respecto de la anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
 
 Supletoriedad
@@ -16878,8 +16710,6 @@ Supletoriedad
 ###### Artículo 7.
 
 1144 Decies.- En lo no previsto en este Código, la hipoteca inversa se regirá por lo dispuesto en la legislación que en cada caso resulte aplicable.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
 
@@ -17227,7 +17057,7 @@ Requisito para inscribir o anotar
 
 10.- Sólo se registrarán:
 
-l. Los testimonios de instrumentos notariales, copias certificadas electrónicas, formatos precodificados u otros documentos auténticos;
+I. Los testimonios de instrumentos notariales, copias certificadas electrónicas, formatos precodificados u otros documentos auténticos;
 
 II. Las resoluciones y providencias judiciales que así lo determinen, así como los demás títulos registrables sobre actos jurídicos de inmatriculación administrativa o que atribuyan o transfieran el domino de un bien inmueble;
 
@@ -17355,7 +17185,7 @@ Requisitos de la solicitud de certificado de gravámenes
 
 24.- En la solicitud a que se refiere el artículo anterior, y que surtirá efectos de aviso preventivo, deberán mencionarse:
 
-l. Ubicación del inmueble, señalando lote, manzana, sección, colonia, municipio y nombre, en su caso;
+I. Ubicación del inmueble, señalando lote, manzana, sección, colonia, municipio y nombre, en su caso;
 
 II. Medidas, colindancias y superficie en su caso, del inmueble;
 
@@ -17449,7 +17279,7 @@ Calificación Extrínseca
 
 32.- Previo a la inscripción, el Registrador calificará extrínsecamente el documento presentado dentro del plazo señalado en el artículo anterior. La calificación registral consistirá en verificar únicamente que:
 
-l. El documento presentado sea de los que deben inscribirse o anotarse;
+I. El documento presentado sea de los que deben inscribirse o anotarse;
 
 II. El documento satisfaga los requisitos de forma establecidos en la ley que lo rige como necesarios para su validez;
 
@@ -17623,7 +17453,7 @@ Cancelación parcial
 
 47.- Podrá pedirse y deberá decretarse en su caso, la cancelación parcial cuando se reduzca:
 
-l. El inmueble objeto de la inscripción o anotación; y
+I. El inmueble objeto de la inscripción o anotación; y
 
 II. El derecho inscrito o anotado.
 
@@ -17679,7 +17509,7 @@ Inmuebles carentes de antecedentes registrales
 
 53.- En el Registro de la Propiedad inmueble se inscribirán:
 
-l. Los títulos por los cuales se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, la posesión originaria o los demás derechos reales sobre inmuebles;
+I. Los títulos por los cuales se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, la posesión originaria o los demás derechos reales sobre inmuebles;
 
 II. Los contratos de arrendamiento de parte o de la totalidad de bienes inmuebles, por un período mayor de seis años y aquellos en que haya anticipos de rentas por más de tres años; y
 
@@ -17693,7 +17523,7 @@ Documentos anotables
 
 54.- Se anotarán preventivamente en el Registro:
 
-l. Por orden judicial, las demandas relativas a la propiedad de bienes inmuebles o a la constitución, declaración, modificación o extinción de cualquier derecho real sobre aquellos;
+I. Por orden judicial, las demandas relativas a la propiedad de bienes inmuebles o a la constitución, declaración, modificación o extinción de cualquier derecho real sobre aquellos;
 
 II. El mandamiento y el acta de embargo que se haya hecho efectivo en bienes inmuebles del demandado;
 
@@ -17807,7 +17637,7 @@ Inmatriculación de Inmuebles que carezcan de antecedentes registrales
 
 65.- Para la inmatriculación de inmuebles que carezcan de antecedentes registrales los que tengan interés legítimo podrán ocurrir ante el Registro Público a solicitarla, debiendo acompañar a su promoción:
 
-l. Certificado del Registro Público de la Propiedad que acredite que el bien de que se trata no está inscrito; y
+I. Certificado del Registro Público de la Propiedad que acredite que el bien de que se trata no está inscrito; y
 
 II. Comprobante del pago del impuesto predial al corriente a nombre de quién se promueve.
 
@@ -17889,7 +17719,7 @@ Actos jurídicos sobre personas jurídicas colectivas
 
 73.- En el registro de las personas jurídicas colectivas se inscribirán los instrumentos por los que se constituyan, reformen, disuelvan o liquiden:
 
-l. Las sociedades y asociaciones civiles;
+I. Las sociedades y asociaciones civiles;
 
 II. Las sociedades y asociaciones extranjeras de carácter civil; y
 
@@ -17963,7 +17793,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.G. 17 DE JULIO DE 2003.
 
@@ -18501,7 +18331,7 @@ TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan
 
 G.G. 26 DE SEPTIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 133.- POR EL QUE SE REFORMA EL SEGUNDO PÁRROFO AL ARTÍCULO 5.141 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 133.- POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO AL ARTÍCULO 5.141 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
@@ -18524,3 +18354,23 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 208.- POR EL QUE SE EXPIDE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE MÉXICO, Y SE REFORMA EL ARTÍCULO 7.172 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor a los noventa días naturales siguientes al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Los Poderes Ejecutivo, Legislativo y Judicial, los Ayuntamientos, los órganos autónomos y los Tribunales Administrativos, en el ámbito de su competencia emitirán las disposiciones reglamentarias respectivas a más tardar a los noventa días naturales a la entrada en vigor del presente Decreto.
+
+CUARTO. El Poder Ejecutivo del Gobierno del Estado deberá considerar para cada ejercicio fiscal la partida presupuestal asignada a cada sujeto obligado para cubrir las obligaciones indemnizatorias derivadas de la responsabilidad patrimonial, por lo que hace al Poder Legislativo y Judicial deberán asignar dichas partidas de conformidad con las disposiciones aplicables, en concordancia con la presente Ley.
+
+QUINTO. Los sujetos obligados deberán prevenir administrantemente (sic) lo necesario para el cumplimiento de la presente Ley.
+
+SEXTO. El Ejecutivo Estatal expedirá las disposiciones reglamentarias de la presente Ley en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+SÉPTIMO. Se derogan las disposiciones de igual o menor jerarquía en tanto se opongan a lo dispuesto por la presente Ley.
+
+OCTAVO. Los juicios civiles iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la presentación de demanda inicial que dieron su origen.
