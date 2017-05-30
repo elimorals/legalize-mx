@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-poder-judicial-del-estado-de-san-13199"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-10"
-last_updated: "2013-12-26"
+last_updated: "2017-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2017.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de diciembre de 1998.
 
@@ -364,6 +364,10 @@ XI.- Autorizar los formatos que deban utilizarse para la tramitación de los asu
 XII.- Solicitar que los Jueces proporcionen mensualmente los informes de los asuntos de su competencia;
 
 XIII.- Cuidar el riguroso turno entre las Salas, de los negocios en que corresponda hacerlo;
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
+
+Los asuntos relacionados con el Sistema de Justicia Penal Acusatorio, serán turnados por conducto de la Unidad de Gestión, con base al sistema informático diseñado para ello.
 
 XIV.- Dictar las medidas adecuadas para la distribución, conservación e higiene de las oficinas que albergan al Supremo Tribunal y para tal efecto, el personal que labora en los mismos, estará bajo sus órdenes, sin perjuicio de las atribuciones que les confieren las leyes a los Magistrados y Jueces para conservar el orden de sus respectivos locales;
 
@@ -2112,3 +2116,13 @@ P.O. 26 DE DICIEMBRE DE 2013.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan a este acuerdo.
+
+P.O. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO, QUE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 39 DEL REGLAMENTO INTERIOR DEL PODER JUDICIAL DEL ESTADO; ASÍ COMO REFORMA LA FRACCIÓN I DEL ARTÍCULO 6 Y ADICIONA LOS ARTÍCULOS 11, 12 Y 13 DEL ACUERDO GENERAL CENTÉSIMO TRIGÉSIMO DEL PLENO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, QUE CREA LA UNIDAD DE GESTIÓN PARA LAS SALAS DEL SUPREMO TRIBUNAL DE JUSTICIA QUE CONOCEN EN MATERIA PENAL CONFORME AL SISTEMA ACUSATORIO PENAL”.]
+
+PRIMERO.- La reforma a los citados ordenamientos, entrarán en vigor al día siguiente de su aprobación, independientemente de su publicación.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Estado y désele la más amplia difusión y publicidad en el Portal de Transparencia del Poder Judicial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al contenido del presente.
