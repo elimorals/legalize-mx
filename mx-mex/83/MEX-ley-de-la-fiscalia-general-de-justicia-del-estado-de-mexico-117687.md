@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-fiscalia-general-de-justicia-del-estado-de-mexico-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-09"
-last_updated: "2016-12-09"
+last_updated: "2017-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE LA FISCALIA GENERAL DE JUSTICIA DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MAYO DE 2017.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado Libre y Soberano de México, el viernes 9 de diciembre de 2016.
 
@@ -155,7 +157,9 @@ XII. Llevar a cabo todos los actos necesarios para la constitución y administra
 
 XIII. Adquirir, arrendar y contratar bienes y servicios, de conformidad con las disposiciones jurídicas aplicables para la Fiscalía.
 
-XIV. Implementar un sistema de control y evaluación de la gestión institucional para la Fiscalía.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
+XIV. Implementar de manera coordinada con su Órgano Interno de Control y su Visitaduría General, un sistema de control y evaluación de la gestión institucional para la Fiscalía.
 
 XV. Establecer políticas en materia de prevención del delito, procuración de justicia y servicio público con perspectiva de género, en coordinación con las instituciones de seguridad pública y órganos autónomos federales y estatales, así como con los municipios.
 
@@ -369,63 +373,71 @@ XIX. Proponer Iniciativas de Ley y Decreto sobre los asuntos de su competencia a
 
 XX. Autorizar por sí, o por conducto de la o el servidor público en quien delegue, el no ejercicio de la acción penal, la solicitud de cancelación de orden de aprehensión, el desistimiento de la acción penal y la solicitud de no imposición de la medida cautelar de prisión preventiva oficiosa, en los términos que establezca el Código Nacional.
 
-XXI. Resolver por sí o a través de la o el servidor público en quien delegue dicha facultad, las inconformidades interpuestas por la víctima u ofendido en contra de las determinaciones del Ministerio Público, sobre su negativa u omisión en determinados actos de investigación o excepciones de la acción penal.
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
-XXII. Conocer y resolver sobre las excusas y recusaciones que sean interpuestas por las o los agentes del Ministerio Público y contra ellos.
+Los agentes del ministerio público respetaran la definitividad de la determinación firme de no ejercicio de la acción penal.
 
-XXIII. Vigilar el cumplimiento de las obligaciones de las o los servidores públicos de la Fiscalía.
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
 
-XXIV. Visitar, revisar y evaluar las agencias del Ministerio Publico y demás unidades y órganos de la Fiscalía, dictando las medidas necesarias para asegurar la mayor eficiencia del servicio.
+XXI. Destituir por causas graves al Titular del Órgano Interno de Control, para lo cual deberá dar aviso a la Legislatura, quien contará con diez días hábiles para oponerse a dicha destitución.
 
-XXV. Prevenir violaciones a los derechos humanos y asegurar la actuación con perspectiva de género y respeto al interés superior de la niñez.
+XXII. Resolver por sí o a través de la o el servidor público en quien delegue dicha facultad, las inconformidades interpuestas por la víctima u ofendido en contra de las determinaciones del Ministerio Público, sobre su negativa u omisión en determinados actos de investigación o excepciones de la acción penal.
 
-XXVI. Autorizar el cambio de adscripción, rotación o comisión de las o los servidores públicos de la Fiscalía, así como sus licencias, cuando las necesidades del servicio así lo exijan o lo permitan.
+XXIII. Conocer y resolver sobre las excusas y recusaciones que sean interpuestas por las o los agentes del Ministerio Público y contra ellos.
 
-XXVII. Establecer los casos en que procede suspender a las o los servidores públicos de la Fiscalía cuando se les inicie una investigación o cuando se hubiere dictado auto de vinculación a proceso por la comisión de delito doloso o culposo calificado como grave por la normatividad aplicable.
+XXIV. Vigilar el cumplimiento de las obligaciones de las o los servidores públicos de la Fiscalía.
 
-XXVIII. Ordenar la substanciación de procedimientos a la autoridad o unidad competente, en términos de los ordenamientos jurídicos aplicables.
+XXV. Visitar, revisar y evaluar las agencias del Ministerio Publico y demás unidades y órganos de la Fiscalía, dictando las medidas necesarias para asegurar la mayor eficiencia del servicio.
 
-XXIX. Investigar las detenciones arbitrarias y otros abusos que se denuncien, adoptando las medidas necesarias para hacerlos cesar de inmediato, sin perjuicio de proveer lo conducente para fincar las responsabilidades correspondientes.
+XXVI. Prevenir violaciones a los derechos humanos y asegurar la actuación con perspectiva de género y respeto al interés superior de la niñez.
 
-XXX. Promover las medidas que convengan para lograr que la procuración y administración de justicia, en el ámbito de su competencia, sea pronta, expedita, imparcial, gratuita, con respeto a los derechos humanos y con perspectiva de género.
+XXVII. Autorizar el cambio de adscripción, rotación o comisión de las o los servidores públicos de la Fiscalía, así como sus licencias, cuando las necesidades del servicio así lo exijan o lo permitan.
 
-XXXI. Resolver los casos de duda que se susciten con motivo de la interpretación o aplicación de esta Ley o la normatividad interna, así como los casos de controversia, de competencia o sobre cualquier materia que le corresponda.
+XXVIII. Establecer los casos en que procede suspender a las o los servidores públicos de la Fiscalía cuando se les inicie una investigación o cuando se hubiere dictado auto de vinculación a proceso por la comisión de delito doloso o culposo calificado como grave por la normatividad aplicable.
 
-XXXII. Ordenar o autorizar al personal de la Fiscalía para auxiliar a otras autoridades que lo requieran en el desempeño de una o varias funciones, que sean compatibles con las que correspondan a la procuración de justicia.
+XXIX. Ordenar la substanciación de procedimientos a la autoridad o unidad competente, en términos de los ordenamientos jurídicos aplicables.
 
-XXXIII. Expedir y modificar reglamentos, acuerdos y demás disposiciones jurídicas sobre los asuntos de su competencia.
+XXX. Investigar las detenciones arbitrarias y otros abusos que se denuncien, adoptando las medidas necesarias para hacerlos cesar de inmediato, sin perjuicio de proveer lo conducente para fincar las responsabilidades correspondientes.
 
-XXXIV. Nombrar y remover, de conformidad con las disposiciones jurídicas aplicables, a los titulares de las unidades administrativas y órganos de la Fiscalía.
+XXXI. Promover las medidas que convengan para lograr que la procuración y administración de justicia, en el ámbito de su competencia, sea pronta, expedita, imparcial, gratuita, con respeto a los derechos humanos y con perspectiva de género.
 
-XXXV. Autorizar sistemas y procedimientos de evaluación en el cumplimiento de las funciones asignadas al personal y a las unidades administrativas de la Fiscalía, así como el programa de estímulos y recompensas al personal.
+XXXII. Resolver los casos de duda que se susciten con motivo de la interpretación o aplicación de esta Ley o la normatividad interna, así como los casos de controversia, de competencia o sobre cualquier materia que le corresponda.
 
-XXXVI. Promover la modernización y aplicación de tecnologías de la información y comunicación, relativas al mejoramiento y simplificación de las funciones de la Fiscalía.
+XXXIII. Ordenar o autorizar al personal de la Fiscalía para auxiliar a otras autoridades que lo requieran en el desempeño de una o varias funciones, que sean compatibles con las que correspondan a la procuración de justicia.
 
-XXXVII. Llevar las relaciones institucionales con la Administración Pública del Estado, la Fiscalía General de la República y las Procuradurías o Fiscalías Generales de Justicia de las entidades federativas, la Procuraduría de Justicia Militar, la Procuraduría Federal de Protección al Ambiente y cualquier Dependencia, Entidad u Órgano, cualquiera que sea su naturaleza jurídica de los tres órdenes de gobierno o internacionales.
+XXXIV. Expedir y modificar reglamentos, acuerdos y demás disposiciones jurídicas sobre los asuntos de su competencia.
 
-XXXVIII. Administrar y ejercer el Fondo Auxiliar para la Procuración de Justicia, de conformidad con los ordenamientos jurídicos aplicables, transparentando su aplicación.
+XXXV. Nombrar y remover, de conformidad con las disposiciones jurídicas aplicables, a los titulares de las unidades administrativas y órganos de la Fiscalía.
 
-XXXIX. Suscribir convenios o cualquier otro instrumento jurídico que tenga relación con los fines que a la Fiscalía le encomienda la Constitución Federal, la Constitución del Estado, la presente Ley y demás ordenamientos jurídicos aplicables, salvo que delegue su suscripción, así como vigilar su cumplimiento.
+XXXVI. Autorizar sistemas y procedimientos de evaluación en el cumplimiento de las funciones asignadas al personal y a las unidades administrativas de la Fiscalía, así como el programa de estímulos y recompensas al personal.
 
-XL. Celebrar convenios o cualquier otro instrumento jurídico con organizaciones de la sociedad civil.
+XXXVII. Promover la modernización y aplicación de tecnologías de la información y comunicación, relativas al mejoramiento y simplificación de las funciones de la Fiscalía.
 
-XLI. Realizar por sí, o en colaboración con las dependencias del Estado, de universidades, organismos públicos o privados, dependencias municipales, estatales, federales o internacionales, sociedades y personas físicas, los estudios necesarios para diseñar, implementar y evaluar la política criminal del Estado de México en el ámbito de la procuración de justicia.
+XXXVIII. Llevar las relaciones institucionales con la Administración Pública del Estado, la Fiscalía General de la República y las Procuradurías o Fiscalías Generales de Justicia de las entidades federativas, la Procuraduría de Justicia Militar, la Procuraduría Federal de Protección al Ambiente y cualquier Dependencia, Entidad u Órgano, cualquiera que sea su naturaleza jurídica de los tres órdenes de gobierno o internacionales.
 
-XLII. Coadyuvar en la política estatal de prevención del delito y de seguridad pública, y establecer canales de coordinación con las instancias responsables.
+XXXIX. Administrar y ejercer el Fondo Auxiliar para la Procuración de Justicia, de conformidad con los ordenamientos jurídicos aplicables, transparentando su aplicación.
 
-XLIII. Promover la integración de sistemas de análisis de información e inteligencia que sean necesarios para el desarrollo de investigaciones y el cumplimiento de las funciones de la Fiscalía.
+XL. Suscribir convenios o cualquier otro instrumento jurídico que tenga relación con los fines que a la Fiscalía le encomienda la Constitución Federal, la Constitución del Estado, la presente Ley y demás ordenamientos jurídicos aplicables, salvo que delegue su suscripción, así como vigilar su cumplimiento.
 
-XLIV. Realizar la enajenación de objetos y valores que expresamente autorice el Código Nacional y las demás disposiciones jurídicas aplicables, en los términos que las mismas establezcan.
+XLI. Celebrar convenios o cualquier otro instrumento jurídico con organizaciones de la sociedad civil.
 
-XLV. Contratar profesionales, técnicos expertos y asesores especializados, en los casos que se requiera, en los términos de la normatividad aplicable.
+XLII. Realizar por sí, o en colaboración con las dependencias del Estado, de universidades, organismos públicos o privados, dependencias municipales, estatales, federales o internacionales, sociedades y personas físicas, los estudios necesarios para diseñar, implementar y evaluar la política criminal del Estado de México en el ámbito de la procuración de justicia.
 
-XLVI. Poner en conocimiento de la autoridad competente las irregularidades que se adviertan o se denuncien ante los órganos jurisdiccionales, para que se adopten las medidas pertinentes y en caso de responsabilidad, promueva lo conducente.
+XLIII. Coadyuvar en la política estatal de prevención del delito y de seguridad pública, y establecer canales de coordinación con las instancias responsables.
 
-XLVII. Solicitar a la autoridad competente la aplicación de sanciones a los integrantes de las instituciones de seguridad pública o empresas de seguridad privada, que infrinjan disposiciones legales o reglamentarias, omitan o retarden la ejecución de un acto propio relacionado con funciones de investigación o lo cumplan negligentemente.
+XLIV. Promover la integración de sistemas de análisis de información e inteligencia que sean necesarios para el desarrollo de investigaciones y el cumplimiento de las funciones de la Fiscalía.
 
-XLVIII. Ejercer los actos de administración, de mandatario judicial y de dominio que requiere la Fiscalía para su debido funcionamiento y delegar dichas facultades en servidores públicos de conformidad con sus atribuciones y cargos, así como revocar tales poderes, en los términos de la legislación aplicable, siempre conservando su facultad de ejercicio directo.
+XLV. Realizar la enajenación de objetos y valores que expresamente autorice el Código Nacional y las demás disposiciones jurídicas aplicables, en los términos que las mismas establezcan.
 
-XLIX. Las demás que le señalen otros ordenamientos jurídicos aplicables, el Consejo Nacional de Seguridad Pública, el Consejo Estatal de Seguridad Pública y demás autoridades competentes.
+XLVI. Contratar profesionales, técnicos expertos y asesores especializados, en los casos que se requiera, en los términos de la normatividad aplicable.
+
+XLVII. Poner en conocimiento de la autoridad competente las irregularidades que se adviertan o se denuncien ante los órganos jurisdiccionales, para que se adopten las medidas pertinentes y en caso de responsabilidad, promueva lo conducente.
+
+XLVIII. Solicitar a la autoridad competente la aplicación de sanciones a los integrantes de las instituciones de seguridad pública o empresas de seguridad privada, que infrinjan disposiciones legales o reglamentarias, omitan o retarden la ejecución de un acto propio relacionado con funciones de investigación o lo cumplan negligentemente.
+
+XLIX. Ejercer los actos de administración, de mandatario judicial y de dominio que requiere la Fiscalía para su debido funcionamiento y delegar dichas facultades en servidores públicos de conformidad con sus atribuciones y cargos, así como revocar tales poderes, en los términos de la legislación aplicable, siempre conservando su facultad de ejercicio directo.
+
+L. Las demás que le señalen otros ordenamientos jurídicos aplicables, el Consejo Nacional de Seguridad Pública, el Consejo Estatal de Seguridad Pública y demás autoridades competentes.
 
 ###### Artículo 23.
 
@@ -489,7 +501,9 @@ I. Vicefiscalía General.
 
 II. Fiscalías Centrales.
 
-III. Oficialía Mayor, Visitaduría General, comisiones, coordinaciones generales, institutos y centros.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
+III. Oficialía Mayor, Órgano Interno de Control, Visitaduría General, comisiones, coordinaciones generales, institutos y centros.
 
 IV. Fiscalías regionales y especializadas.
 
@@ -518,6 +532,50 @@ IV. Delitos electorales.
 V. Las demás que se establezcan en el Reglamento.
 
 El personal operativo que integre las unidades administrativas antes referidas contará con la capacitación y en su caso especialización continua en los asuntos de su competencia, observando las mejores prácticas para el desempeño de sus funciones y la atención de las víctimas u ofendidos.
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 29 Bis.
+
+La Fiscalía Especializada en Combate a la Corrupción tendrá a su cargo:
+
+I. Investigar, perseguir y ejercer sus atribuciones en los delitos por hechos de corrupción, incluso en grado de tentativa, cometidos por toda persona que desempeñe un empleo, cargo o comisión en alguno de los poderes del Estado, en los Ayuntamientos de los municipios, sus organismos auxiliares, así como de los titulares o quienes hagan sus veces en empresas de participación estatal o municipal, sociedades o asociaciones asimiladas a éstas, de los órganos constitucionales autónomos del Estado de México, de los representantes de elección popular de los ámbitos estatal y municipal, los particulares relacionados con el servicio público, así como en cualquier otro ente sobre el que tenga control cualquiera de los poderes y órganos públicos estatales y municipales.
+
+II. Investigar y perseguir los delitos en los que exista corrupción y otros que se puedan derivar de ésta, incluso en grado de tentativa, en los que participen particulares que reciban o hagan uso de recursos públicos, así como su participación en delitos cometidos por servidores públicos.
+
+III. Investigar delitos en los que exista corrupción, en coordinación o auxilio de otras fiscalías, o procuradurías de justicia de las entidades federativas o de la Federación.
+
+IV. Implementar programas de prevención del delito en materia de corrupción.
+
+V. Presentar un plan de trabajo anual al Fiscal General, destinado a prevenir, detectar, investigar y perseguir la comisión de delitos por corrupción al interior de la Fiscalía.
+
+VI. Implementar mecanismos de coordinación con autoridades en materia de control, supervisión, evaluación o fiscalización a fin de fortalecer el desarrollo de las investigaciones en los delitos por hechos de corrupción.
+
+VII. Coadyuvar en la erradicación y prevención de conductas en materia de corrupción, a través de la capacitación e implementación de programas en materia de ética y combate a la corrupción.
+
+VIII. Participar en los sistemas e instancias nacionales, estatales y municipales en materia de prevención y combate a la corrupción.
+
+IX. Celebrar convenios con la Federación y con las entidades federativas para acceder directamente a la información disponible en los Registros Públicos de la Propiedad, Comisión Nacional Bancaria y de Valores, de Seguros y Fianzas y de Ahorro para el Retiro, así como de las Unidades de Inteligencia Financiera de la Federación, o Patrimonial de las entidades federativas, y demás entes que se requieran para la investigación y persecución de los delitos por hechos de corrupción.
+
+X. Ejercer la facultad de atracción respecto de los delitos de su competencia que se inicien en otra fiscalía o procuraduría.
+
+XI. Recibir por sí o por conducto de cualquier unidad de la Fiscalía General de Justicia del Estado de México, las denuncias y puestas a disposición de personas por la posible comisión de delitos por hechos de corrupción.
+
+XII. Diseñar e implementar proyectos, estudios, programas permanentes de información y fomento de la cultura de la denuncia y legalidad, en materia de delitos relacionados por hechos de corrupción.
+
+XIII. Dar vista a la autoridad competente, por razón de fuero o materia, cuando de las diligencias practicadas en la investigación de los delitos de su competencia, se desprenda la comisión de alguna conducta ilícita distinta.
+
+XIV. Impulsar acciones relacionadas con la revisión de perfiles profesionales de los servidores públicos, controles de confianza, vocación y compromiso de servicio.
+
+XV. Presentar al Titular de la Fiscalía propuestas para las adecuaciones legislativas que fomenten el combate a la corrupción.
+
+XVI. Ejercitar acción penal en contra de los servidores públicos o particulares relacionados con la comisión de delitos por hechos de corrupción.
+
+XVII. Las demás que le confieran otras disposiciones jurídicas aplicables.
+
+La Fiscalía Especializada en Combate a la Corrupción contará con las unidades administrativas, elementos de policía de investigación, así como recursos necesarios para el desempeño de sus funciones, conforme al Reglamento de esta Ley y la normatividad aplicable.
+
+El titular de esta Fiscalía será nombrado y removido en los términos señalados por la Constitución del Estado.
 
 ###### Artículo 30.
 
@@ -1049,17 +1107,23 @@ La formación, capacitación, adiestramiento y profesionalización de las y los 
 
 Las instituciones de profesionalización competentes emitirán las constancias del desempeño para los efectos de la certificación de las y los servidores públicos de la Fiscalía.
 
-### CAPÍTULO DÉCIMO SEGUNDO. DEL CONTROL INTERNO DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE MAYO DE 2017)</small>
 
-#### SECCIÓN PRIMERA. DEL CONSEJO DE PROFESIONALIZACIÓN
+### CAPÍTULO DÉCIMO SEGUNDO. DEL ÓRGANO INTERNO DE CONTROL Y DE LA VISITADURÍA GENERAL
+
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
+
+#### SECCIÓN PRIMERA. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
 ###### Artículo 49.
 
-Al frente de la Contraloría Interna habrá una o un Contralor Interno, quien tendrá las atribuciones siguientes:
+Al frente del Órgano Interno de Control de la Fiscalía, habrá un titular, quien será designado en términos de la legislación aplicable, a quién le corresponde el ejercicio de las funciones que le otorga la Constitución Federal, la Constitución del Estado, así como las leyes generales y estatales aplicables, entre éstas:
 
 I. Proponer la instrumentación de acciones de mejora en materia de control y evaluación.
 
-II. Difundir entre las y los servidores públicos de la Fiscalía las disposiciones en materia de control y de responsabilidades que incida en el desarrollo de sus labores.
+II. Difundir entre los servidores públicos de la Fiscalía las disposiciones en materia de control y de responsabilidades, que incidan en el desarrollo de sus labores.
 
 III. Realizar las acciones de control y evaluación a los ingresos, gastos, recursos y obligaciones de la Fiscalía.
 
@@ -1069,7 +1133,7 @@ V. Participar en los procesos de entrega y recepción de las unidades administra
 
 VI. Recibir y turnar a la autoridad competente las quejas y denuncias que se interpongan en contra del personal operativo por el ejercicio de su cargo, así como recibir y tramitar las sugerencias y reconocimientos ciudadanos.
 
-VII. Verificar la presentación oportuna de las declaraciones de situación patrimonial de las y los servidores públicos de la Fiscalía sujetos a esta obligación.
+VII. Verificar la presentación oportuna de las declaraciones patrimonial y de intereses, así como la constancia de presentación de la declaración fiscal de los servidores públicos de la Fiscalía sujetos a esta obligación.
 
 VIII. Realizar las acciones de control y evaluación, a fin de constatar que se observen las disposiciones jurídicas aplicables en el ejercicio de los recursos federales.
 
@@ -1079,9 +1143,79 @@ X. Dar vista a la autoridad competente de los hechos que tenga conocimiento que 
 
 XI. Mantener informado al Fiscal General sobre el cumplimiento de su ámbito competencial.
 
-XII. Las demás que le confieren otras disposiciones jurídicas aplicables.
+XII. Investigar, substanciar y resolver los procedimientos de responsabilidad administrativa, salvo cuando sea competencia del sistema disciplinario previsto en esta Ley, e imponer sanciones o solicitar su imposición a las autoridades competentes, de conformidad con lo que dispongan las leyes en materia de responsabilidades administrativas y en su caso, ejecutar las sanciones administrativas de su competencia.
 
-#### SECCIÓN SEGUNDA. DE LA COMISIÓN DE HONOR Y JUSTICIA
+XIII. Conocer de los actos de corrupción atribuibles a los servidores públicos, cometidos en beneficio propio o de terceros, caso en el cual no será competente ni la Comisión de Honor y Justicia ni el Consejo de Profesionalización que conforman el sistema disciplinario previsto en esta Ley, pero sí aplicarán las disposiciones de la Ley de Seguridad del Estado de México, la Ley de Responsabilidades Administrativas del Estado de México y Municipios, y la presente Ley en lo conducente.
+
+XIV. Conocer de los asuntos en donde exista concurso de conductas del servidor público, y algunas sean competencia del Órgano Interno de Control, y otras sean del sistema disciplinario de esta Ley, a efecto de no dividir la continencia de la causa y emitir una sola resolución con motivo de dicho concurso.
+
+XV. Declinar competencia hacia la Visitaduría General en los casos en que resulte incompetente el Órgano Interno de Control, cuando exista conflicto de interés en su actuación, o cuando se trate de servidores públicos de dicho Órgano.
+
+XVI. Conocer, tramitar y resolver los recursos administrativos que le correspondan, de acuerdo con las disposiciones jurídicas aplicables.
+
+XVII. Vigilar que las actividades de las unidades administrativas de la Fiscalía, cumplan con las políticas, normas, lineamientos, procedimientos y demás disposiciones jurídicas aplicables en el ámbito de su competencia.
+
+XVIII. Verificar el adecuado ejercicio del presupuesto de la dependencia u organismo auxiliar de su adscripción, atendiendo a los principios de racionalidad, austeridad y disciplina presupuestaria que establece la normatividad aplicable.
+
+XIX. Informar al Titular de la Fiscalía Especializada en Combate a la Corrupción sobre los resultados obtenidos en la materia, dentro del ámbito de su competencia. y
+
+XX. Las demás que le confieran otras disposiciones jurídicas aplicables.
+
+Las responsabilidades administrativas en que incurran los servidores públicos del órgano interno de control de la Fiscalía, serán investigadas por la Visitaduría General y substanciadas y sancionadas por el Fiscal General, por conducto de la unidad jurídica, siempre y cuando éstas no sean competencia del Tribunal de Justicia Administrativa del Estado de México.
+
+Cuando la denuncia sea contra servidores de la Visitaduría General, la investigación estará a cargo del órgano interno de control.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 49 Bis.
+
+La Visitaduría General es el órgano de inspección, supervisión, evaluación e investigación de la Fiscalía, en términos de la Constitución Federal y demás normatividad aplicable.
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+#### SECCIÓN SEGUNDA. DE LA VISITADURÍA GENERAL
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 49 Ter.
+
+La Visitaduría General estará a cargo de un Titular que tendrá el carácter de agente del Ministerio Público, quien será nombrado y removido libremente por el Fiscal General, y cuenta con las siguientes atribuciones:
+
+I. Realizar visitas de inspección ordinarias, extraordinarias y especiales, a fin de verificar la actuación de los servidores públicos de la Fiscalía, para corroborar el debido cumplimiento de la función sustantiva de la misma, elaborar las actas correspondientes, y realizar las observaciones, recomendaciones e instrucciones para mejorar el servicio y evitar la continuación de deficiencias o irregularidades, así como rendir los informes que sean necesarios. Se entenderá por actividad sustantiva la encaminada al cumplimiento de las atribuciones de la Fiscalía, previstas en esta Ley, en la de Seguridad del Estado de México y demás disposiciones aplicables.
+
+II. Detectar y verificar las faltas u omisiones en que incurran el personal de la Fiscalía, mismas que contravengan esta Ley, las leyes en materia de seguridad pública, y demás disposiciones jurídicas aplicables.
+
+III. Revisar que las actuaciones de los servidores públicos de la Fiscalía, se encuentren debidamente fundadas y motivadas, sean imparciales, idóneas, suficientes, y que sus conclusiones cumplan con los requisitos técnicos y jurídicos a la materia en que se desempeñen.
+
+IV. Solicitar a la unidad competente de la Fiscalía, las evaluaciones técnicas y jurídicas, observaciones, recomendaciones e instrucciones genéricas o específicas de su personal operativo, para subsanar deficiencias en el ejercicio de sus funciones, o para la investigación administrativa correspondiente.
+
+Por evaluaciones técnicas y jurídicas se entenderá la valoración apegada a derecho, que deriva de la revisión de las noticias de hechos o carpetas de investigación y demás registros que contengan la actividad del personal operativo, con el propósito de revisar la debida actuación de los agentes del Ministerio Público, Policía de Investigación y sus auxiliares, y en su caso, prevenir o corregir las deficiencias que se detecten durante las visitas realizadas.
+
+V. Iniciar oficiosamente los procedimientos de investigación administrativa, cuando en la realización de las visitas o de las evaluaciones técnicas y jurídicas que se realicen en las distintas unidades administrativas de la Fiscalía, se detecten faltas u omisiones que contravengan esta Ley, las leyes en materia de seguridad pública, y demás disposiciones jurídicas aplicables al personal operativo, así como cuando una denuncia o queja tenga indicios de posible infracción administrativa.
+
+VI. Formular el proyecto de calendario mensual de las visitas ordinarias de inspección y supervisión, a las diversas áreas de la Fiscalía.
+
+VII. Implementar los mecanismos necesarios para realizar una eficaz inspección y supervisión de las actuaciones del personal operativo, en el ejercicio de sus funciones.
+
+VIII. Dar vista al Órgano Interno de Control cuando conozca de alguna conducta que pueda ser constitutiva de una falta administrativa, que no sea de su competencia, así como a la Fiscalía Especializada en Combate a la Corrupción cuando se trate de posibles hechos de corrupción.
+
+IX. Elaborar los dictámenes, opiniones, estudios, informes y demás documentos que les sean solicitados por las unidades administrativas de la Fiscalía, o los que les correspondan en razón de sus atribuciones, con base en los sistemas que al efecto se establezcan.
+
+X. Establecer los instrumentos y mecanismos de control y resguardo de los expedientes relativos a las inspecciones, supervisiones e investigaciones, en coordinación con las unidades administrativas correspondientes.
+
+XI. Recibir, por cualquier vía, las quejas y denuncias que formulen los particulares y las autoridades, o que por cualquier otro medio se tenga conocimiento, sobre actos u omisiones en el desempeño de las funciones de los servidores públicos.
+
+XII. Practicar las diligencias necesarias para la investigación de las quejas y denuncias que conozca, integrando los expedientes correspondientes, para determinar si procede solicitar el inicio de un procedimiento de responsabilidad administrativa al órgano substanciador o, en su caso, una investigación penal a la Fiscalía correspondiente.
+
+XIII. Acceder a los sistemas informáticos institucionales, para verificar su correcta operación y ejecución, así como la actualización de las bases de datos, por parte del personal autorizado.
+
+XIV. Establecer sistemas de coordinación con las demás unidades administrativas de la Fiscalía, a fin de mejorar el cumplimiento de los programas y actividades a su cargo.
+
+XV. Requerir a autoridades y todo tipo de personas la información que sea necesaria para el cumplimiento de sus atribuciones, y proporcionar la que les corresponda, observando las disposiciones en materia de transparencia y acceso a la información pública y protección de datos personales.
+
+XVI. Sistematizar y registrar en una base de datos los períodos de información previa, en coordinación con el Órgano Interno de Control.
+
+XVII. Las demás que establezcan otras disposiciones aplicables y las que le encomiende el Fiscal General.
 
 ### CAPÍTULO DÉCIMO TERCERO. DEL SERVICIO DE CARRERA DE LA FISCALÍA GENERAL DE JUSTICIA DE (SIC) ESTADO DE MÉXICO
 
@@ -1111,7 +1245,7 @@ Las servidoras y servidores públicos de la Fiscalía que no tengan cargo, puest
 
 ### CAPÍTULO DÉCIMO CUARTO. DEL CONSEJO DE PROFESIONALIZACIÓN Y DE LA COMISIÓN DE HONOR Y JUSTICIA
 
-#### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES DEL PERSONAL OPERATIVO DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
+#### SECCIÓN PRIMERA. DEL CONSEJO DE PROFESIONALIZACIÓN
 
 ###### Artículo 53.
 
@@ -1152,6 +1286,8 @@ V. Establecer criterios y políticas generales de capacitación, formación, act
 VI. Dictar las normas necesarias para la regulación de su organización y funcionamiento.
 
 VII. Las demás que le otorguen las disposiciones jurídicas del Servicio de Carrera.
+
+#### SECCIÓN SEGUNDA. DE LA COMISIÓN DE HONOR Y JUSTICIA
 
 ###### Artículo 57.
 
@@ -1204,6 +1340,8 @@ VIII. Gozar de los beneficios que establezcan las disposiciones jurídicas aplic
 IX. Contar con asesoría, en los casos que deba comparecer ante un órgano jurisdiccional, por motivo del ejercicio de sus funciones.
 
 X. Los demás que establezcan las disposiciones jurídicas aplicables.
+
+#### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES DEL PERSONAL OPERATIVO DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
 ###### Artículo 61.
 
@@ -1426,3 +1564,97 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 207.- POR EL QUE SE EXPIDE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno", con excepción de la Ley de Responsabilidades Administrativas del Estado de México y Municipios y la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, que entrarán en vigor el 19 de julio de 2017.
+
+TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, la Legislatura del Estado deberá designar a los integrantes de la Comisión Estatal de Selección.
+
+La Comisión Estatal de Selección, nombrará a los integrantes del Comité de Participación Ciudadana, en los términos siguientes.
+
+I. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador.
+
+II. Un integrante que durará en su encargo dos años.
+
+III. Un integrante que durará en su encargo tres años.
+
+IV. Un integrante que durará en su encargo cuatro años.
+
+V. Un integrante que durará en su encargo cinco años.
+
+CUARTO. El Comité Coordinador del Sistema Estatal Anticorrupción, se instalará en un plazo no mayor a sesenta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana.
+
+QUINTO. Dentro de los noventa días hábiles posteriores a su instalación el Comité Coordinador del Sistema Estatal Anticorrupción emitirá sus Reglas de Funcionamiento y Organización Interna, así como las bases a las que se ajustarán los Comités Coordinadores del Sistema Municipal Anticorrupción.
+
+SEXTO. La Secretaría Ejecutiva deberá iniciar operaciones a más tardar a los sesenta días naturales siguientes a la sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción.
+
+Para tal efecto, el Ejecutivo Estatal proveerá los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
+
+SÉPTIMO. La Secretaría Técnica expedirá su estatuto orgánico dentro de los noventa días hábiles a partir del inicio de sus operaciones.
+
+OCTAVO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos del Estado deberán designar a los integrantes de la Comisión de Selección Municipal.
+
+La Comisión de Selección Municipal, nombrará a los Integrantes del Comité de Participación Ciudadana Municipal, en los términos siguientes.
+
+I. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador, ambos del Sistema Municipal Anticorrupción.
+
+II. Un integrante que durará en su encargo dos años.
+
+III. Un integrante que durará en su encargo tres años.
+
+El Comité Coordinador Municipal, se instalará en un plazo no mayor a sesenta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana Municipal.
+
+Una vez instalado el Comité Coordinador Municipal tendrá un plazo de noventa días para emitir las disposiciones relativas a su funcionamiento.
+
+NOVENO. Una vez que entre en vigor la Ley de Responsabilidades Administrativas del Estado de México y Municipios, se abrogará la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios publicada en el periódico oficial "Gaceta del Gobierno" el 11 de septiembre de 1990.
+
+Los procedimientos iniciados con anterioridad a la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, se substanciarán y serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+A la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, en todos los ordenamientos jurídicos donde se haga referencia a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, se entenderá por Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+Hasta en tanto el Comité Coordinador del Sistema Estatal Anticorrupción, determina los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos estatales y municipales, presentarán sus declaraciones en los formatos que, a la entrada en vigor del presente Decreto, se utilicen en la Entidad.
+
+DÉCIMO. Los procedimientos administrativos iniciados por el Órgano Superior de Fiscalización del Estado de México, que se encuentren en trámite o pendientes de resolución hasta antes de la entrada en vigor del presente Decreto, así como en los que se deriven de las atribuciones de fiscalización y revisión hasta la Cuenta Pública del año 2016, se aplicarán las disposiciones de la Ley de Fiscalización Superior del Estado de México y de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios vigentes con anterioridad a la entrada en vigor de este Decreto, hasta su conclusión definitiva.
+
+Los asuntos relacionados con la revisión y fiscalización de la Cuenta Pública 2017, que deriven en procedimientos administrativos, se tramitarán conforme al presente Decreto, la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+Las atribuciones de fiscalización y revisión para el ejercicio del año en curso y de ejercicios anteriores, entrarán en vigor al día siguiente de la publicación del presente Decreto.
+
+El Órgano Superior de Fiscalización del Estado de México deberá realizar las adecuaciones a su estructura orgánica para desarrollar las atribuciones correspondientes a las autoridades investigadoras y substanciadoras a que se refieren (sic) Ley General de Responsabilidades Administrativas, la Ley de Fiscalización Superior del Estado de México y la Ley de Responsabilidades Administrativas del Estado de México y Municipios y emitir en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, las disposiciones necesarias.
+
+DÉCIMO PRIMERO. Los procedimientos penales que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
+
+DÉCIMO SEGUNDO. Una vez que entren en vigor las disposiciones del presente Decreto, en un término no mayor de treinta días hábiles, se deberá designar al Fiscal especializado en combate a la corrupción.
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, la Legislatura deberá designar o ratificar en un plazo de treinta días hábiles, al Titular del Órgano Interno de Control de la Fiscalía General de Justicia, mediante el procedimiento que previamente establezca para ello, de no cumplirse en tiempo, se entenderá por ratificado al servidor público en funciones.
+
+En tanto la Legislatura designa o ratifica al Titular del Órgano Interno de Control de la Fiscalía General de Justicia, quien se encuentre desempeñando dichas funciones, continuará en el encargo.
+
+DÉCIMO CUARTO. El Tribunal de Justicia Administrativa expedirá su Reglamento Interior dentro de los treinta días naturales siguientes a la publicación del presente Decreto.
+
+DÉCIMO QUINTO. Los procedimientos en curso anteriores a la entrada en vigor del presente Decreto, se substanciarán conforme a la legislación vigente al momento de su inicio.
+
+DÉCIMO SEXTO. El Gobernador del Estado de México hará los nombramientos de los Magistrados que integrarán las salas especializadas en materia de responsabilidades administrativas, así como de la Cuarta Sección de la Sala Superior, dentro de los sesenta días naturales siguientes a la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, para su aprobación por la Legislatura del Estado o la Diputación Permanente, en su caso.
+
+DÉCIMO SÉPTIMO. Los Magistrados del Tribunal de lo Contencioso Administrativo del Estado de México que hayan sido nombrados a la fecha de entrada en vigor del presente Decreto, continuarán como Magistrados del Tribunal de Justicia Administrativa del Estado de México, exclusivamente por el tiempo que hayan sido nombrados.
+
+DÉCIMO OCTAVO. Los servidores públicos del Tribunal de lo Contencioso Administrativo del Estado de México continuarán laborando en el Tribunal de Justicia Administrativa del Estado de México, sin perjuicio de la antigüedad de sus derechos laborales.
+
+DÉCIMO NOVENO. A la fecha de entrada en vigor de este decreto, todas las menciones que se hagan al Tribunal de lo Contencioso Administrativo del Estado de México, se entenderán referidas al Tribunal de Justicia Administrativa del Estado de México. Así mismo, las derogaciones al Código de Procedimientos Administrativos del Estado de México, contenidas en el presente decreto, entraran en vigor a partir de la vigencia de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México.
+
+VIGÉSIMO. Los servidores públicos que venían ejerciendo cargos administrativos, que se transforman conforme a lo dispuesto en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, continuarán desempeñando los mismos cargos hasta que el Pleno del Tribunal acuerde la creación de las nuevas unidades administrativas y decida sobre las designaciones específicas.
+
+VIGÉSIMO PRIMERO. Dentro del plazo de un año a partir del inicio de la vigencia de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, deberá instrumentarse el proceso de certificación a los servidores públicos obligados, conforme a las disposiciones reglamentarias que expida el Pleno de la Sala Superior, pudiendo contar con el apoyo de instituciones docentes afines a la actividad jurisdiccional, mediante los convenios de colaboración que para tal efecto se celebren.
+
+VIGÉSIMO SEGUNDO. Dentro de los ciento veinte días siguientes a la entrada en vigor del presente Decreto se deberán realizar las adecuaciones normativas correspondiente (sic) que permitan la implementación del objeto del presente Decreto.
+
+VIGÉSIMO TERCERO. Se derogan todas las disposiciones legales de menor o igual jerarquía que se opongan al presente Decreto.
+
+VIGÉSIMO CUARTO. La Legislatura del Estado proveerá los recursos presupuestales necesarios para la implementación del presente Decreto, conforme a la suficiencia presupuestal y disposiciones jurídicas aplicables.
