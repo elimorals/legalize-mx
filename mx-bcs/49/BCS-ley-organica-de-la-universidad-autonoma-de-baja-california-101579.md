@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-universidad-autonoma-de-baja-california-1015
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-06-13"
-last_updated: "2014-06-13"
+last_updated: "2017-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE MAYO DE 2017.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 13 de junio de 2014.
 
@@ -49,7 +49,9 @@ LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA SUR
 
 ARTÍCULO 1°
 
-La Universidad Autónoma de Baja California Sur es un organismo autónomo por mandato constitucional, con personalidad jurídica y patrimonio propio creado para prestar servicios de educación superior y contribuir al desarrollo social y cultural del Estado de Baja California Sur y de la República Mexicana. Las disposiciones de esta ley tendrán el carácter de obligatorias y serán de aplicación general.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE MAYO DE 2017)</small>
+
+La Universidad Autónoma de Baja California Sur es un organismo Público Descentralizado del Gobierno del Estado de Baja California Sur con personalidad jurídica y patrimonio propio, dotada de autonomía, para gobernarse a sí misma y realizar sus fines consistentes en prestar servicios de educación superior y contribuir al desarrollo social, investigar y difundir la cultura de acuerdo con los principios de la Constitución Política de los Estados Unidos Mexicanos, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinará sus planes y programas; fijará los términos de ingreso, promoción y permanencia de su personal académico. Las disposiciones de esta ley tendrán el carácter de obligatorias y serán de aplicación general.
 
 Su lema es: “Sabiduría como meta, patria como destino”.
 
@@ -550,3 +552,25 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 LUIS ANDRÉS CORDOVA URRUTIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2433.- SE REFORMA LA FRACCIÓN XXXVI DEL ARTÍCULO 79 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y SE REFORMA EL ARTÍCULO 1° DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+La reforma al artículo 79 fracción XXXVI, de la Constitución Política del Estado de Baja California Sur, respecto a la Legalización y certificación de los Títulos profesionales o de grado, deberá realizarse a partir de los expedidos en el ciclo escolar próximo siguiente al de la entrada en vigor de la presente Ley
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Educación Pública deberá adecuar las normas que se ajusten a la presente reforma en materia de Legalización de Estudios para ser remitidas a la Secretaría respectiva para la certificación del Título.
+
+###### ARTÍCULO CUARTO.
+
+Las Instituciones Públicas o Privadas que emitan títulos profesionales o de grado, deberán adecuar sus reglamentos respectivos para ajustarse a lo dispuesto por la presente reforma.
