@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2017-01-23"
+last_updated: "2017-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 23 DE ENERO DE 2017 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN LA G.G. DE 20 DE DICIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MAYO DE 2017.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -1557,369 +1555,149 @@ El proceso administrativo ante el Tribunal se substanciará y resolverá con arr
 
 El proceso administrativo comprende al juicio contencioso administrativo, la acción popular ante las salas regionales del Tribunal, al recurso de revisión y otros trámites ante la sala superior del mismo.
 
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
+
 ### CAPITULO SEGUNDO. Del Tribunal de lo Contencioso Administrativo
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
 #### SECCION PRIMERA. De la Integración del Tribunal
 
 ###### Artículo 201.
 
-El Tribunal es un órgano autónomo e independiente de cualquier autoridad y dotado de plena jurisdicción para emitir y hacer cumplir sus resoluciones.
-
-> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 202.
 
-El Tribunal tiene por objeto dirimir las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública del Estado, municipios, organismos auxiliares con funciones de autoridad, particulares en funciones de autoridad y los particulares.
-
-> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 203.
 
-El Tribunal se integrará por una Sala Superior, salas regionales y supernumerarias que se requieran para cumplimiento el de su objetivo.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 204.
 
-Los magistrados serán numerarios, sin perjuicio de que también se nombren magistrados supernumerarios para auxiliar o suplir, temporalmente, a los primeros. Todos los magistrados tendrán los mismos derechos y obligaciones.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 205.
 
-Para ser magistrado del Tribunal se requiere:
-
-I. Ser mexicano por nacimiento, en ejercicio de sus derechos políticos y civiles y haber residido efectivamente en el Estado durante los últimos cinco años;
-
-II. Tener más de 35 años el día de su designación como magistrado de sala superior y de 30 años para magistrado de sala regional;
-
-> <small>(REFORMADA, G.G. 25 DE NOVIEMBRE DE 2004)</small>
-
-III. No padecer enfermedad física o mental, que lo inhabilite para el desempeño del encargo;
-
-IV. Ser licenciado en derecho con título profesional, con cinco años de antigüedad, al día de su designación;
-
-V. Tener por lo menos tres años de práctica profesional en materia administrativa o fiscal;
-
-VI. Ser de notoria buena conducta y honorabilidad manifiesta;
-
-VII. No ser ministro de algún culto religioso, a menos que se separe formal y definitivamente de su ministerio, cuando menos cinco años anteriores al día de su designación; y
-
-> <small>(REFORMADA, G.G. 25 DE NOVIEMBRE DE 2004)</small>
-
-VIII. No haber sido condenado en sentencia ejecutoria, por delito intencional, ni estar inhabilitado para ejercer un cargo público.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 206.
 
-El nombramiento de los magistrados se hará con apego al procedimiento constitucional respectivo. Realizada la designación, la sala superior determinará la adscripción de cada magistrado.
-
-> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 207.
 
-Los magistrados durarán en su encargo diez años y serán sustituidos cada cinco años en una mitad. Solo podrán ser privados de su cargo por la Legislatura del Estado, en los casos y de acuerdo con el procedimiento que marca la Constitución Política del Estado Libre y Soberano de México y la Ley de Responsabilidades.
-
-> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 208.
 
-Las faltas temporales de los magistrados de la Sala Superior serán cubiertas por los magistrados de las salas regionales o supernumerarios que aquélla designe; las definitivas se comunicarán al Gobernador del Estado por el Presidente del Tribunal, para que proceda al nombramiento de los magistrados que las cubrirán, por el tiempo que falte para concluir el período. Las faltas temporales de los magistrados de las salas regionales, se suplirán por los magistrados supernumerarios que señale la Sala Superior o, en su caso, por el secretario de acuerdos de la propia Sala Regional; las definitivas se cubrirán con nueva designación, por el período faltante.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 209.
 
-Las licencias a los magistrados serán concedidas por la Sala Superior hasta por 15 días. Las que excedan del plazo anterior, pero no de 60 días, sólo podrá concederlas el Gobernador del Estado, con la aprobación de la Legislatura o la Diputación Permanente, en los términos previstos por la Constitución Política del Estado Libre y Soberano de México.
-
-> <small>(REFORMADO, G.G. 4 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 210.
 
-El Tribunal tendrá un Presidente y un Vicepresidente, quienes durarán en su encargo tres años, pudiendo ser reelectos por otro período igual.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 211.
 
-El Tribunal contará con un Vicepresidente, secretario general del pleno, secretarios generales de acuerdos, secretario particular de la presidencia, directores, jefes de unidad, jefes de departamentos, secretarios de acuerdos, secretarios proyectistas, asesores comisionados, mediador conciliador, actuarios y demás servidores públicos necesarios para su funcionamiento.
-
-El ingreso y promoción de estos servidores públicos, se realizará mediante el sistema de carrera jurisdiccional, en la que se considerarán los factores de honestidad, preparación, eficiencia y antigüedad.
-
-> <small>(ADICIONADO, G.G. 22 DE ENERO DE 2014)</small>
-
-Se exceptúan de la carrera jurisdiccional a los directores, jefes de unidad y demás personal que así lo determine el Consejo de la Justicia Administrativa.
-
-> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 212.
 
-Las atribuciones del secretario general del pleno, secretario particular de la presidencia, director general del instituto de formación profesional, director de mediación y conciliación, de los secretarios generales de acuerdos, jefes de unidad, jefes de departamento, secretarios de acuerdos, secretarios proyectistas, asesores comisionados, mediador conciliador, actuarios y demás servidores públicos, se establecerán en el reglamento interior del Tribunal.
-
-> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 213.
 
-Los magistrados, secretario general del pleno, secretario particular de la presidencia, secretarios generales de acuerdos, directores, jefes de unidad, jefes de departamento, secretarios de acuerdos, secretarios proyectistas, asesores comisionados, mediador conciliador y actuarios, estarán impedidos para desempeñar cualquier otro empleo dependiente de la federación, Estado, municipios, organismos auxiliares o de otra entidad federativa o de algún particular, excepto los de carácter docente, siempre que su desempeño se realice fuera del horario laboral. También estarán impedidos para ejercer la profesión de abogado, salvo en causa propia, de su cónyuge o de sus familiares hasta el cuarto grado. Tampoco podrán ser agentes de cambio o ministros de algún culto religioso.
-
-> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 214.
 
-Los magistrados, secretario general del pleno, secretario particular de la presidencia, secretarios generales de acuerdos, directores, jefes de unidad, jefes de departamento, secretarios de acuerdos, secretarios proyectistas, asesores comisionados, mediador conciliador y actuarios que padezcan incapacidad física o mental, para el desempeño de su cargo, no podrán seguir prestando sus servicios en el Tribunal. Percibirán las prestaciones que establezca la legislación aplicable.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 215.
 
-Los servidores públicos del Tribunal tendrán cada año dos períodos vacacionales de 10 días hábiles cada uno, en las fechas señaladas en el calendario que apruebe la sala superior.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
 #### SECCION SEGUNDA. De la Sala Superior
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2016)</small>
-
 ###### Artículo 216.
 
-La Sala Superior se integrará con los magistrados nombrados para conformarla, de entre los cuales será electo el Presidente y el Vicepresidente del Tribunal.
-
-> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
-
-La Sala Superior actuará en pleno y en tres secciones, que tendrán su sede, en los municipios de Toluca, Tlalnepantla y Ecatepec, cuya jurisdicción será establecida en el Reglamento Interior del Tribunal.
-
-> <small>(REFORMADO, G.G. 4 DE NOVIEMBRE DE 2016)</small>
-
-El pleno estará integrado por los magistrados de las secciones de Sala Superior, por el Presidente y el Vicepresidente del Tribunal; para sesionar será necesaria la presencia del Presidente y del Vicepresidente del Tribunal y cuando menos seis Magistrados.
-
-> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 217.
 
-Las resoluciones del pleno se tomarán por unanimidad o por mayoría de votos de sus integrantes presentes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal. En caso de empate el Presidente del Tribunal tendrá voto de calidad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2001)</small>
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 218.
 
-Son atribuciones del pleno de la Sala Superior:
-
-> <small>(REFORMADA, G.G. 4 DE NOVIEMBRE DE 2016)</small>
-
-I. Designar al Presidente y al Vicepresidente del Tribunal.
-
-II. Aprobar la integración de la jurisprudencia del Tribunal;
-
-III. Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos de la competencia del Tribunal;
-
-IV. Fijar y cambiar de adscripción a los magistrados del Tribunal;
-
-V. Conceder licencias a los magistrados del Tribunal, hasta por 15 días;
-
-VI. Designar a quienes suplan las ausencias temporales de los magistrados del Tribunal;
-
-> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2001)</small>
-
-VII. Nombrar al Secretario General del Pleno, a los Secretarios Generales de Acuerdos y Jefes de Unidad del Tribunal;
-
-VIII. Formular anualmente el presupuesto de egresos del Tribunal;
-
-IX. Expedir y reformar el reglamento interior del Tribunal, así como las demás disposiciones necesarias para su buen funcionamiento;
-
-> <small>(REFORMADA, G.G. 25 DE NOVIEMBRE DE 2004)</small>
-
-X. Conocer el resultado de las visitas reglamentarias practicadas a las secciones de la Sala Superior, Salas Regionales y Magistraturas Supernumerarias;
-
-XI. Presentar ante las autoridades administrativas competentes propuestas de reformas de la legislación administrativa y fiscal del Estado y municipios; y
-
-> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
-
-XII. Expedir el Calendario Oficial del Tribunal;
-
-> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
-
-XIII. Conocer y resolver los recursos de inconformidad en contra de las resoluciones que dicte el Consejo de la Justicia Administrativa en los procedimientos de responsabilidad administrativa;
-
-> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
-
-XIV. Las demás que se señalen en este Código.
-
-> <small>(REFORMADO, G.G. 4 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 219.
 
-Las secciones de la sala superior se integrarán con tres magistrados cada una, de entre los cuales se elegirán a sus presidentes. Para que puedan sesionar será indispensable la presencia de sus tres integrantes. El presidente del Tribunal no integrará sección. El Vicepresidente se excluye de la rotación de la presidencia de la sección que corresponda.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 220.
 
-Las resoluciones de las secciones de la sala superior se tomarán por unanimidad o por mayoría de votos de sus integrantes presentes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 221.
 
-Son atribuciones de las secciones de la sala superior:
-
-I. Designar al presidente de la sección;
-
-II. Resolver el recurso de revisión que promuevan las partes, incluyendo el desechamiento del mismo;
-
-> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
-
-III. Intervenir y resolver en definitiva en el procedimiento de cumplimiento de resoluciones, a solicitud de las salas regionales de su jurisdicción;
-
-IV. Resolver sobre las excitativas de justicia que se promuevan en contra de los magistrados de la sección y de las salas regionales de su jurisdicción;
-
-V. Calificar las excusas por impedimento de los magistrados de la sección y de las salas regionales de su jurisdicción y, en su caso, designar al magistrado que deba sustituirlos;
-
-VI. Resolver los conflictos de competencia territorial que se susciten entre las salas regionales de su jurisdicción; y
-
-VII. Las demás que se establezcan en este Código.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 222.
 
-Son atribuciones de los presidentes de las secciones de la sala superior:
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-I. Despachar la correspondencia de la sección;
-
-II. Convocar a sesiones de la sección, dirigir los debates y conservar el orden en ellas;
-
-III. Informar al presidente del Tribunal de las contradicciones de que tenga conocimiento entre sentencias dictadas por las salas regionales;
-
-IV. Autorizar, en unión del secretario general de acuerdos, las actas en las que se hagan constar las deliberaciones y acuerdos de la sección;
-
-> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
-
-V. Designar por turno al magistrado ponente en los recursos de revisión y demás trámites de la competencia de la Sección;
-
-VI. Tramitar los asuntos de la competencia de la sección, hasta ponerlos en estado de resolución;
-
-VII. Firmar, conjuntamente con el secretario general de acuerdos, los engroses de las resoluciones de la sección;
-
-> <small>(REFORMADA, G.G. 25 DE NOVIEMBRE DE 2004)</small>
-
-VIII. Rendir a nombre de la Sección los informes en los juicios de amparo que se promuevan en contra de las resoluciones de la Sección; así como interponer los recursos correspondientes ante los Tribunales Federales y designar delegados;
-
-IX. Imponer correcciones disciplinarias al personal de la sección, que no impliquen sanciones administrativas;
-
-X. Informar, semanalmente, al presidente del Tribunal, el estado de las labores de la sección; y
-
-XI. Las demás que se señalen en este Código.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
 #### SECCION TERCERA. Del Presidente del Tribunal
 
 ###### Artículo 223.
 
-El presidente del Tribunal será designado en la primera sesión de la sala superior que se celebre durante el mes de enero del año que corresponda, a la que se convocará a los magistrados que la integren.
-
-> <small>(REFORMADO, G.G. 4 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 224.
 
-Las faltas temporales del Presidente que no excedan de treinta días naturales, las cubrirá el Vicepresidente como encargado del despacho. Cuando las faltas excedan de este plazo, el Vicepresidente quedará como Presidente para concluir el período respectivo.
-
-El Vicepresidente tendrá las mismas atribuciones del Presidente al ejercer este cargo por ausencia temporal.
-
-El Vicepresidente que concluya como Presidente podrá ser elegido como Presidente del Tribunal por un nuevo período completo.
-
-El Vicepresidente del Tribunal será suplido en sus faltas temporales por el magistrado de la sala superior que designe el pleno. Si la falta es definitiva se designará nuevo Vicepresidente para concluir el período.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 225.
 
-Son atribuciones del presidente del Tribunal:
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-I. Representar al Tribunal ante toda clase de autoridades;
-
-II. Despachar la correspondencia del Tribunal;
-
-III. Convocar a sesiones del pleno de la sala superior, dirigir los debates y conservar el orden en ellas;
-
-IV. Formular los proyectos de resolución de las contradicciones entre sentencias dictadas por las secciones de la sala superior y las salas regionales;
-
-> <small>(REFORMADA, G.G. 4 DE NOVIEMBRE DE 2016)</small>
-
-V. Designar o remover previo acuerdo con el Vicepresidente del Tribunal, al personal jurídico y administrativo, a propuesta de la sección, sala regional o dependencia de su adscripción.
-
-VI. Conceder o negar licencias al personal jurídico y administrativo del Tribunal;
-
-VII. Realizar visitas reglamentarias a las secciones de la sala superior y salas regionales;
-
-VIII. Evaluar la actuación de los servidores públicos del Tribunal;
-
-IX. Imponer las sanciones administrativas que procedan a los integrantes del personal jurídico y administrativo, conforme a las disposiciones legales aplicables;
-
-X. Administrar el presupuesto del Tribunal;
-
-> <small>(REFORMADA, G.G. 25 DE NOVIEMBRE DE 2004)</small>
-
-XI. Autorizar, en unión del secretario general del pleno, las actas en que se hagan constar las deliberaciones y acuerdos del pleno de la Sala Superior;
-
-XII. Rendir al Tribunal, en el último mes de cada año, un informe de las actividades;
-
-XIII. Publicar la jurisprudencia del Tribunal, así como aquellas sentencias que considere que deban darse a conocer por ser de interés general; y
-
-> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
-
-XIV. Admitir cuando proceda los recursos de inconformidad que se interpongan en contra de las resoluciones del Consejo de la Justicia Administrativa, en los asuntos sobre responsabilidad administrativa;
-
-> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
-
-XV. Las demás que establezca este Código.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 4 DE NOVIEMBRE DE 2016)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
 #### SECCION TERCERA BIS. Del Vicepresidente del Tribunal
 
-> <small>(ADICIONADO, G.G. 4 DE NOVIEMBRE DE 2016)</small>
-
 ###### Artículo 225 Bis.
 
-El Vicepresidente del Tribunal será designado en la primera sesión de la Sala Superior que se celebre durante el mes de enero del año que corresponda, a la que se convocará a los magistrados que la integren.
-
-> <small>(ADICIONADO, G.G. 4 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 225 Ter.
 
-El Vicepresidente auxiliará en sus funciones al Presidente y tiene como atribuciones:
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-I. Coordinar y supervisar las acciones en materia de capacitación y profesionalización que se realizan en el Tribunal, debiendo acordar con el Director General del Instituto de Formación Profesional las gestiones y labores indispensables para la preparación y desarrollo del personal jurídico y administrativo.
-
-II. Realizar visitas a las secciones de la Sala Superior y Salas Regionales e informar al Presidente del Tribunal.
-
-III. Analizar y formular proyectos de resolución que por la relevancia o trascendencia de criterio le sean encomendados por el Presidente.
-
-IV. Presidir el Comité de Transparencia del Tribunal y desempeñar las funciones en materia de derecho de acceso a la información.
-
-V. Rendir al Presidente en el mes de noviembre de cada año, un informe de las actividades realizadas en el Tribunal.
-
-VI. Las demás que establezca el presente Código, otros ordenamientos jurídicos aplicables y las que le encomiende el Presidente.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
 #### SECCION CUARTA. De las Salas Regionales
 
 ###### Artículo 226.
 
-Las salas regionales tendrán la jurisdicción y la residencia que señale el reglamento interior del Tribunal.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 227.
 
-Son atribuciones de los magistrados de las salas regionales:
-
-> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
-
-I. Tramitar y resolver los juicios contencioso administrativos y acciones populares de su competencia;
-
-> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
-
-II. Conocer y resolver respecto del cumplimiento de los acuerdos de suspensión y de las resoluciones definitivas, en los juicios en que hayan intervenido:
-
-III. Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos de su conocimiento;
-
-IV. Hacer uso de los medios de apremio o medidas disciplinarias para hacer cumplir sus determinaciones o para imponer el orden;
-
-V. Firmar, conjuntamente con el secretario de acuerdos, las resoluciones de la sala;
-
-VI. Imponer correcciones disciplinarias al personal de la sala, que no impliquen sanciones administrativas;
-
-VII. Informar, semanalmente, al presidente del Tribunal, el estado de las labores de la sala; y
-
-> <small>(ADICIONADA, G.G. 25 DE NOVIEMBRE DE 2004)</small>
-
-VIII. Rendir los informes en los juicios de amparo que se promuevan en contra de las resoluciones de la Sala; así como interponer los recursos correspondientes ante los Tribunales Federales y designar delegados; y
-
-IX. Las demás que se señalen en este Código.
-
-> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 228.
 
-La competencia de las salas regionales por razón de territorio se determina por el domicilio de la parte actora, debiéndose observar lo señalado en el Reglamento Interior del propio Tribunal.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ### CAPITULO TERCERO. Del Juicio Contencioso Administrativo
 
@@ -2685,105 +2463,57 @@ Las jurisprudencias que sustente la sala superior, se publicarán en la «Gaceta
 
 Cuando las partes invoquen la jurisprudencia del Tribunal, lo harán por escrito, expresando el número, el texto y las tesis que la integran.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
 ## TITULO CUARTO. De los Organismos Administrativos del Tribunal
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
 ### CAPITULO PRIMERO. Del Consejo de la Justicia Administrativa
 
-> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
-
 ###### Artículo 294.
 
-El Consejo de la Justicia Administrativa del Tribunal, es un órgano que tiene por objeto la administración de su patrimonio, así como la vigilancia, supervisión y control disciplinario del personal jurídico y administrativo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 295.
 
-Para el cumplimiento de su objeto, el Consejo de la Justicia Administrativa se integrará por el Vicepresidente del Tribunal, un Magistrado de Sala Superior y un Magistrado de Sala Regional, los magistrados serán designados por el pleno de la Sala Superior.
-
-> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
-
-Los magistrados de la Sala Superior y Regional que lo integren, deben tener una antigüedad de tres años como mínimo y serán designados por el Pleno de la Sala Superior, durando en este encargo tres años, al término del cual serán sustituidos de manera escalonada.
-
-> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
-
-El Secretario General del Pleno lo será también del Consejo.
-
-> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 296.
 
-Las funciones y atribuciones de los integrantes del Consejo de la Justicia Administrativa, se establecerán en el Reglamento Interior del Tribunal.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
 ### CAPITULO SEGUNDO. Del Fondo Auxiliar para la Justicia Administrativa
 
-> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
-
 ###### Artículo 297.
 
-El Fondo Auxiliar para la Justicia Administrativa tendrá por objeto obtener recursos económicos, para apoyar al personal del Tribunal en su formación profesional, mejorar las instalaciones en las que se imparte justicia administrativa y desarrollar todas aquellas actividades tendentes a obtener recursos destinados a elevar la calidad de la prestación del servicio de la justicia administrativa.
-
-> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 298.
 
-El Fondo auxiliar para la Justicia Administrativa, se integrará con:
-
-A. Fondo propio, constituido por:
-
-I. El importe de las multas, fianzas, contrafianzas y garantías que se hagan efectivas por mandato de las Secciones de la Sala Superior o Salas Regionales del Tribunal;
-
-II. Las donaciones o aportaciones que se hagan a favor del Fondo;
-
-III. Las cantidades que se le asignen por disposición del Presupuesto de Egresos o por acuerdo del Gobernador del Estado;
-
-IV. Los remanentes del Presupuesto de Egresos asignado a este Tribunal que resulten al término del ejercicio fiscal anual;
-
-V. Los intereses provenientes de inversiones y depósitos que, de recursos propios o ajenos, realice el Fondo;
-
-> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
-
-VI. El importe de los derechos que conforme al Código Financiero se causen por expedición de copias simples o certificadas y demás servicios que proporcione el Tribunal; y
-
-VII. Los demás bienes que el Fondo adquiera.
-
-B. Fondo ajeno, constituido por:
-
-I. Depósitos en efectivo o en valores, que por cualquier causa se realicen o se hayan realizado ante el Tribunal.
-
-> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 299.
 
-Las sumas o valores que se reciban en el reglón de fondo ajeno, serán reintegrados a los depositantes o beneficiarios, según proceda, mediante orden por escrito de la Sección o Sala Regional, ante la que se haya otorgado el depósito, en el término máximo de cinco días hábiles.
-
-> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 300.
 
-El Consejo de la Justicia Administrativa, atenderá la administración y manejo del Fondo, mediante un coordinador administrativo que en todo tiempo informará al Consejo y cumplirá las instrucciones del Presidente.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
 ### CAPITULO TERCERO. Del Instituto de Formación Profesional
 
-> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
-
 ###### Artículo 301.
 
-El Instituto de Formación Profesional, es un órgano que tiene por objeto la aplicación del Plan General en el que se contemplen los programas específicos de ingreso al Tribunal, la inducción al puesto, la capacitación y la profesionalización del personal jurídico y administrativo y todo aquello que le señale el Reglamento Interior del Tribunal.
-
-> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 302.
 
-El Instituto de Formación Profesional estará a cargo de un Director General, quien será designado por el pleno de la Sala Superior a propuesta del Presidente del Tribunal.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 T R A N S I T O R I O S
 
@@ -3172,3 +2902,95 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 207.- POR EL QUE SE EXPIDE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”, con excepción de la Ley de Responsabilidades Administrativas del Estado de México y Municipios y la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, que entrarán en vigor el 19 de julio de 2017.
+
+TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, la Legislatura del Estado deberá designar a los integrantes de la Comisión Estatal de Selección.
+
+La Comisión Estatal de Selección, nombrará a los integrantes del Comité de Participación Ciudadana, en los términos siguientes.
+
+I. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador.
+
+II. Un integrante que durará en su encargo dos años.
+
+III. Un integrante que durará en su encargo tres años.
+
+IV. Un integrante que durará en su encargo cuatro años.
+
+V. Un integrante que durará en su encargo cinco años.
+
+CUARTO. El Comité Coordinador del Sistema Estatal Anticorrupción, se instalará en un plazo no mayor a sesenta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana.
+
+QUINTO. Dentro de los noventa días hábiles posteriores a su instalación el Comité Coordinador del Sistema Estatal Anticorrupción emitirá sus Reglas de Funcionamiento y Organización Interna, así como las bases a las que se ajustarán los Comités Coordinadores del Sistema Municipal Anticorrupción.
+
+SEXTO. La Secretaría Ejecutiva deberá iniciar operaciones a más tardar a los sesenta días naturales siguientes a la sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción.
+
+Para tal efecto, el Ejecutivo Estatal proveerá los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
+
+SÉPTIMO. La Secretaría Técnica expedirá su estatuto orgánico dentro de los noventa días hábiles a partir del inicio de sus operaciones.
+
+OCTAVO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos del Estado deberán designar a los integrantes de la Comisión de Selección Municipal.
+
+La Comisión de Selección Municipal, nombrará a los Integrantes del Comité de Participación Ciudadana Municipal, en los términos siguientes.
+
+I. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador, ambos del Sistema Municipal Anticorrupción.
+
+II. Un integrante que durará en su encargo dos años.
+
+III. Un integrante que durará en su encargo tres años.
+
+El Comité Coordinador Municipal, se instalará en un plazo no mayor a sesenta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana Municipal.
+
+Una vez instalado el Comité Coordinador Municipal tendrá un plazo de noventa días para emitir las disposiciones relativas a su funcionamiento.
+
+NOVENO. Una vez que entre en vigor la Ley de Responsabilidades Administrativas del Estado de México y Municipios, se abrogará la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios publicada en el periódico oficial “Gaceta del Gobierno” el 11 de septiembre de 1990.
+
+Los procedimientos iniciados con anterioridad a la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, se substanciarán y serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+A la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, en todos los ordenamientos jurídicos donde se haga referencia a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, se entenderá por Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+Hasta en tanto el Comité Coordinador del Sistema Estatal Anticorrupción, determina los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos estatales y municipales, presentarán sus declaraciones en los formatos que, a la entrada en vigor del presente Decreto, se utilicen en la Entidad.
+
+DÉCIMO. Los procedimientos administrativos iniciados por el Órgano Superior de Fiscalización del Estado de México, que se encuentren en trámite o pendientes de resolución hasta antes de la entrada en vigor del presente Decreto, así como en los que se deriven de las atribuciones de fiscalización y revisión hasta la Cuenta Pública del año 2016, se aplicarán las disposiciones de la Ley de Fiscalización Superior del Estado de México y de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios vigentes con anterioridad a la entrada en vigor de este Decreto, hasta su conclusión definitiva.
+
+Los asuntos relacionados con la revisión y fiscalización de la Cuenta Pública 2017, que deriven en procedimientos administrativos, se tramitarán conforme al presente Decreto, la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+Las atribuciones de fiscalización y revisión para el ejercicio del año en curso y de ejercicios anteriores, entrarán en vigor al día siguiente de la publicación del presente Decreto.
+
+El Órgano Superior de Fiscalización del Estado de México deberá realizar las adecuaciones a su estructura orgánica para desarrollar las atribuciones correspondientes a las autoridades investigadoras y substanciadoras a que se refieren (sic) Ley General de Responsabilidades Administrativas, la Ley de Fiscalización Superior del Estado de México y la Ley de Responsabilidades Administrativas del Estado de México y Municipios y emitir en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, las disposiciones necesarias.
+
+DÉCIMO PRIMERO. Los procedimientos penales que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
+
+DÉCIMO SEGUNDO. Una vez que entren en vigor las disposiciones del presente Decreto, en un término no mayor de treinta días hábiles, se deberá designar al Fiscal especializado en combate a la corrupción.
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, la Legislatura deberá designar o ratificar en un plazo de treinta días hábiles, al Titular del Órgano Interno de Control de la Fiscalía General de Justicia, mediante el procedimiento que previamente establezca para ello, de no cumplirse en tiempo, se entenderá por ratificado al servidor público en funciones.
+
+En tanto la Legislatura designa o ratifica al Titular del Órgano Interno de Control de la Fiscalía General de Justicia, quien se encuentre desempeñando dichas funciones, continuará en el encargo.
+
+DÉCIMO CUARTO. El Tribunal de Justicia Administrativa expedirá su Reglamento Interior dentro de los treinta días naturales siguientes a la publicación del presente Decreto.
+
+DÉCIMO QUINTO. Los procedimientos en curso anteriores a la entrada en vigor del presente Decreto, se substanciarán conforme a la legislación vigente al momento de su inicio.
+
+DÉCIMO SEXTO. El Gobernador del Estado de México hará los nombramientos de los Magistrados que integrarán las salas especializadas en materia de responsabilidades administrativas, así como de la Cuarta Sección de la Sala Superior, dentro de los sesenta días naturales siguientes a la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, para su aprobación por la Legislatura del Estado o la Diputación Permanente, en su caso.
+
+DÉCIMO SÉPTIMO. Los Magistrados del Tribunal de lo Contencioso Administrativo del Estado de México que hayan sido nombrados a la fecha de entrada en vigor del presente Decreto, continuarán como Magistrados del Tribunal de Justicia Administrativa del Estado de México, exclusivamente por el tiempo que hayan sido nombrados.
+
+DÉCIMO OCTAVO. Los servidores públicos del Tribunal de lo Contencioso Administrativo del Estado de México continuarán laborando en el Tribunal de Justicia Administrativa del Estado de México, sin perjuicio de la antigüedad de sus derechos laborales.
+
+DÉCIMO NOVENO. A la fecha de entrada en vigor de este decreto, todas las menciones que se hagan al Tribunal de lo Contencioso Administrativo del Estado de México, se entenderán referidas al Tribunal de Justicia Administrativa del Estado de México. Así mismo, las derogaciones al Código de Procedimientos Administrativos del Estado de México, contenidas en el presente decreto, entraran en vigor a partir de la vigencia de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México.
+
+VIGÉSIMO. Los servidores públicos que venían ejerciendo cargos administrativos, que se transforman conforme a lo dispuesto en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, continuarán desempeñando los mismos cargos hasta que el Pleno del Tribunal acuerde la creación de las nuevas unidades administrativas y decida sobre las designaciones específicas.
+
+VIGÉSIMO PRIMERO. Dentro del plazo de un año a partir del inicio de la vigencia de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, deberá instrumentarse el proceso de certificación a los servidores públicos obligados, conforme a las disposiciones reglamentarias que expida el Pleno de la Sala Superior, pudiendo contar con el apoyo de instituciones docentes afines a la actividad jurisdiccional, mediante los convenios de colaboración que para tal efecto se celebren.
+
+VIGÉSIMO SEGUNDO. Dentro de los ciento veinte días siguientes a la entrada en vigor del presente Decreto se deberán realizar las adecuaciones normativas correspondiente (sic) que permitan la implementación del objeto del presente Decreto.
+
+VIGÉSIMO TERCERO. Se derogan todas las disposiciones legales de menor o igual jerarquía que se opongan al presente Decreto.
+
+VIGÉSIMO CUARTO. La Legislatura del Estado proveerá los recursos presupuestales necesarios para la implementación del presente Decreto, conforme a la suficiencia presupuestal y disposiciones jurídicas aplicables.
