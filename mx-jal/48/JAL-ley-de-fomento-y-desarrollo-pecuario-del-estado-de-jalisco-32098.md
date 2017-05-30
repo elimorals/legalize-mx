@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-y-desarrollo-pecuario-del-estado-de-jalisco-3209
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-24"
-last_updated: "2017-03-23"
+last_updated: "2017-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2017.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Jalisco, el martes 24 de junio de 2003.
 
@@ -809,7 +809,9 @@ i) Nombre y ubicación de la explotación, municipio y estado y/o rastro de dest
 
 j) Datos de la especie doméstica productiva, productos y subproductos que se movilizan, cantidad, número de factura, especie, raza, color, sexo, edad y especificar cantidad en kilos o en piezas;
 
-k) Nombre, firma y sello del expeditor que avala la expedición de la documentación; y
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+
+k) Nombre, firma y sello del emisor que avala la expedición de la documentación; y
 
 l) Número del folio del certificado zoosanitario emitido por la autoridad sanitaria;
 
@@ -1547,7 +1549,7 @@ LIC. HÉCTOR PÉREZ PLAZOLA
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY]</small>
 
 P.O. 23 DE OCTUBRE DE 2004.
 
@@ -1618,3 +1620,9 @@ P.O. 23 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26289/LXI/17 QUE REFORMA EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO 25538/LX/2015”.]
 
 ÚNICO. El presente decreto iniciará su vigencia el día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26364/LXI/17 QUE REFORMA EL ARTÍCULO 50 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
