@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2016-12-21"
+last_updated: "2017-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MAYO DE 2017.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -1697,9 +1699,9 @@ XXIV. Convenir con los sectores público, social y privado la ejecución de acci
 
 XXV. Las demás que sean necesarias para el cumplimiento de su objeto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE MAYO DE 2017)</small>
 
-Artículo 38 bis. La Secretaría de la Contraloría es la dependencia encargada de la vigilancia, fiscalización y control de los ingresos, gastos, recursos y obligaciones de la administración pública estatal y su sector auxiliar, así como lo relativo a la Manifestación Patrimonial, la Declaración de Intereses y responsabilidad de los servidores públicos.
+Artículo 38 bis. La Secretaría de la Contraloría del Estado de México, es la dependencia encargada de la vigilancia, fiscalización y control de los ingresos, gastos, recursos y obligaciones de la administración pública estatal y su sector auxiliar, así como lo relativo a la presentación de la declaración patrimonial, de intereses y constancia de presentación de la declaración fiscal, así como de la responsabilidad de los servidores públicos, en términos de lo que disponga la normatividad aplicable en la materia.
 
 > <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 1989)</small>
 
@@ -1717,9 +1719,9 @@ V. Establecer y dictar las bases generales para la realización de auditorías e
 
 VI. Comprobar el cumplimiento por parte de las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal; de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado del gobierno estatal.
 
-> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-VII. Realizar por sí o a solicitud de parte, auditorías y evaluaciones a las dependencias, organismos auxiliares y fideicomisos de carácter estatal, con el fin de promover la eficacia y la transparencia en sus operaciones y verificar de acuerdo con su competencia el cumplimiento de los objetivos y metas contenidos en sus programas, de manera trimestral a los programas de mejora regulatoria, a la actualización del Registro Estatal de Trámites y Servicios, así como a las disposiciones contenidas en la Ley de Gobierno Digital del Estado de México y Municipios, y su Reglamento.
+VII. Realizar por sí o a solicitud de parte, auditorías, revisiones y evaluaciones a las dependencias, organismos auxiliares y fideicomisos de carácter estatal, con el objeto de controlar, examinar, fiscalizar y promover la eficacia, legalidad y la transparencia en sus operaciones y verificar de acuerdo con su competencia el cumplimiento de los objetivos y metas contenidos en sus programas, de manera trimestral los programas de mejora regulatoria, la actualización del Registro Estatal de Trámites y Servicios, así como a las disposiciones contenidas en la Ley de Gobierno Digital del Estado de México y Municipios y su Reglamento.
 
 VIII. Inspeccionar y vigilar directamente o a través de los órganos de control, que las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal, cumplan con las normas y disposiciones en materia de: sistema de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos y recursos materiales de la administración pública estatal.
 
@@ -1729,43 +1731,71 @@ X. Fiscalizar los recursos federales derivados de los acuerdos o convenios respe
 
 XI. Vigilar, en la esfera de su competencia, el cumplimiento de las obligaciones de proveedores y contratistas adquiridas con el Ejecutivo del Estado, solicitándoles la información relacionada con las operaciones que realicen, y fincar las deductivas y responsabilidades que en su caso procedan.
 
-XII. Opinar previamente a su expedición sobre las normas de contabilidad y de control en materia de programación, presupuestación, administración de recursos humanos, materiales y financieros, que elaboren las secretarías de Administración y de Finanzas y Planeación, así como sobre las normas en materia de contratación de deuda que formule esta última.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-XIII. Designar a los auditores externos de los organismos auxiliares y fideicomisos, normar y controlar su actividad y proponer al titular del Ejecutivo la designación de comisarios en los Consejos o Juntas de Gobierno y Administración de los mismos.
+XII. Opinar previamente a su expedición sobre las normas de contabilidad y de control en materia de programación, presupuestación, administración de recursos humanos, materiales y financieros, que elabore la Secretaría de Finanzas del Gobierno del Estado de México, así como sobre las normas en materia de contratación de deuda que formule esta última.
 
-XIV. Opinar sobre el nombramiento y en su caso solicitar la remoción de los titulares de las áreas de control de las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADA, G.G. 16 DE NOVIEMBRE DE 2011)</small>
+XIII. Designar y remover a los auditores externos de los organismos auxiliares y fideicomisos, normar y controlar su actividad y proponer al titular del Ejecutivo la designación y comisarios en los consejos o juntas de Gobierno y administración de los mismos.
 
-XV. Coordinarse con el Órgano Superior de Fiscalización del Estado de México, para el establecimiento de los mecanismos necesarios, que permitan a ambas instancias, el mejor cumplimiento de sus respectivas responsabilidades.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-XVI. Informar anualmente al titular del Ejecutivo del Estado, respecto del resultado de la evaluación de las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal, que hayan sido objeto de fiscalización. Asimismo, informar a la Secretaría de la Contraloría General de la Federación de la evaluación de los programas que manejen o involucren recursos federales, en los términos de los acuerdos o convenios respectivos.
+XIV. Designar y remover a los titulares de los órganos internos de control de las dependencias, organismos auxiliares, fideicomisos de la administración pública estatal y de las unidades administrativas equivalentes de las empresas de participación estatal, sociedades o asociaciones asimiladas a éstas quienes dependerán jerárquica y funcionalmente de la Secretaría de la Contraloría del Estado de México y a los titulares de las áreas de auditoría, quejas y responsabilidades de los citados órganos internos de control.
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-XVII. Recibir y registrar la Manifestación de Bienes, la Declaración de Intereses y determinar el Conflicto de Intereses de los servidores públicos, del Estado y municipios y verificar y practicar las investigaciones que fueren necesarias, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y demás disposiciones legales aplicables.
+XV. Coordinarse con los integrantes de los Comités Coordinadores de los Sistemas Nacional, Estatal y Municipal Anticorrupción, para el establecimiento de los mecanismos necesarios, que permitan el mejor cumplimiento de sus respectivas responsabilidades.
 
-XVIII. Atender y dar seguimiento a las denuncias y quejas que presenten los particulares con motivo de acuerdos, convenios o contratos que celebren con las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADA, G.G. 16 DE OCTUBRE DE 2014)</small>
+XVI. Informar periódicamente al Titular del Ejecutivo del Estado y al Comité Coordinador del Sistema Estatal Anticorrupción, respecto del resultado de la evaluación de las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal, que hayan sido objeto de fiscalización, de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos, promover ante las autoridades competentes las acciones que procedan para corregir las irregularidades detectadas. Asimismo, informar a la Secretaría de la Función Pública sobre la evaluación de los programas que manejen o involucren recursos federales en términos de los acuerdos o convenios respectivos o demás normatividad aplicable.
 
-XIX. Conocer e investigar los actos, omisiones o conductas de los servidores públicos, para constituir responsabilidades administrativas y, en su caso, ordenar se hagan las denuncias correspondientes ante el ministerio público, proporcionándole los datos e información que requiera. Así como realizar investigaciones, inspecciones y supervisiones, mediante acciones encubiertas y usuario simulado, para verificar la legalidad, honradez, eficiencia y oportunidad de la prestación del servicio público.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-XX. Vigilar el cumplimiento de las normas internas de la Secretaría, constituir las responsabilidades administrativas de su personal, aplicándoles las correcciones que correspondan y formular las denuncias o querellas, acusaciones o quejas de naturaleza administrativa o penal, en caso necesario.
+XVII. Recibir y registrar la declaración de situación patrimonial, la declaración de intereses, la presentación de la constancia de declaración fiscal y determinar el Conflicto de Intereses de los servidores públicos del Estado y municipios, verificar y practicar las investigaciones que fueren necesarias en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios y demás disposiciones legales aplicables, así como registrar la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
+XVIII. Atender y dar seguimiento a las denuncias y quejas que presenten los particulares con motivo de acuerdos, convenios o contratos que celebren con las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal, así como de las empresas de participación estatal, sociedades o asociaciones asimiladas a éstas.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
+XIX. Conocer e investigar los actos, omisiones o conductas de los servidores públicos que puedan constituir responsabilidades administrativas, substanciar los procedimientos correspondientes en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, por sí, o por conducto de los órganos internos de control que correspondan a cada área de la Administración Pública Estatal aplicando las sanciones en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de México y cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal, así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones legales aplicables, así como realizar investigaciones, inspecciones y supervisiones, a través de acciones encubiertas y usuario simulado, para verificar la legalidad, honradez, eficiencia y oportunidad de la prestación del servicio público.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
+XX. Vigilar el cumplimiento de las normas internas de la Secretaría, constituir las responsabilidades administrativas de su personal, aplicándoles las correcciones que correspondan, así como formular y presentar las denuncias, querellas, acusaciones o quejas de naturaleza administrativa o penal ante la Fiscalía Especializada en Combate a la Corrupción u otras autoridades competentes respectivamente.
 
 XXI. Intervenir para efectos de verificación en las actas de entrega-recepción de las unidades administrativas de las dependencias, organismos auxiliares y fideicomisos del Ejecutivo.
 
-XXII. Establecer medidas y mecanismos de modernización administrativa, tendientes a lograr la eficacia de la vigilancia, fiscalización y control de gasto público estatal.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-XXIII. Brindar asesoría y apoyo técnico a los órganos de control interno del gasto público municipal, cuando así lo soliciten.
+XXII. Formular y conducir en apego y de conformidad con las bases de coordinación que establezcan los Comités Coordinadores de los Sistemas Nacional y Estatal Anticorrupción, la política general de la Administración Pública Estatal para establecer medidas y mecanismos, de modernización administrativa tendientes a lograr la eficacia de la vigilancia, fiscalización y control del gasto público estatal, la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere, así como promover dichas acciones hacia la sociedad.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
+XXIII. Brindar asesoría y apoyo técnico a los órganos internos de control del gasto público municipal, cuando así lo soliciten.
 
 > <small>(REFORMADA, G.G. 6 DE JULIO DE 2015)</small>
 
 XXIV. Dirigir, coordinar y operar el Registro Estatal de Inspectores, conforme a las disposiciones correspondientes.
 
-> <small>(ADICIONADA, G.G. 6 DE JULIO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 30 DE MAYO DE 2017)</small>
 
-XXV. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
+XXV. Colaborar en el marco de los Sistemas Nacional y Estatal Anticorrupción y de los Sistemas Nacional y Estatal de Fiscalización en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes, de conformidad con la legislación aplicable en la materia.
+
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
+
+XXVI. Implementar las políticas de coordinación que promuevan los Comités Coordinadores del Sistema Nacional y Estatal, en materia de combate a la corrupción en la Administración Pública Estatal, en términos de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
+
+XXVII. Establecer mecanismos para prevenir actos u omisiones constitutivos de responsabilidades administrativas, que fomenten el desarrollo de la cultura de la legalidad.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 30 DE MAYO DE 2017)</small>
+
+XXVIII. Las demás que le señalen otras disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -3164,3 +3194,95 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. El Titular del Ejecutivo del Estado contará con un plazo no mayor de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias a las disposiciones reglamentarias.
 
 CUARTO. Se derogan las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 207.- POR EL QUE SE EXPIDE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”, con excepción de la Ley de Responsabilidades Administrativas del Estado de México y Municipios y la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, que entrarán en vigor el 19 de julio de 2017.
+
+TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, la Legislatura del Estado deberá designar a los integrantes de la Comisión Estatal de Selección.
+
+La Comisión Estatal de Selección, nombrará a los integrantes del Comité de Participación Ciudadana, en los términos siguientes.
+
+I. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador.
+
+II. Un integrante que durará en su encargo dos años.
+
+III. Un integrante que durará en su encargo tres años.
+
+IV. Un integrante que durará en su encargo cuatro años.
+
+V. Un integrante que durará en su encargo cinco años.
+
+CUARTO. El Comité Coordinador del Sistema Estatal Anticorrupción, se instalará en un plazo no mayor a sesenta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana.
+
+QUINTO. Dentro de los noventa días hábiles posteriores a su instalación el Comité Coordinador del Sistema Estatal Anticorrupción emitirá sus Reglas de Funcionamiento y Organización Interna, así como las bases a las que se ajustarán los Comités Coordinadores del Sistema Municipal Anticorrupción.
+
+SEXTO. La Secretaría Ejecutiva deberá iniciar operaciones a más tardar a los sesenta días naturales siguientes a la sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción.
+
+Para tal efecto, el Ejecutivo Estatal proveerá los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
+
+SÉPTIMO. La Secretaría Técnica expedirá su estatuto orgánico dentro de los noventa días hábiles a partir del inicio de sus operaciones.
+
+OCTAVO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos del Estado deberán designar a los integrantes de la Comisión de Selección Municipal.
+
+La Comisión de Selección Municipal, nombrará a los Integrantes del Comité de Participación Ciudadana Municipal, en los términos siguientes.
+
+I. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador, ambos del Sistema Municipal Anticorrupción.
+
+II. Un integrante que durará en su encargo dos años.
+
+III. Un integrante que durará en su encargo tres años.
+
+El Comité Coordinador Municipal, se instalará en un plazo no mayor a sesenta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana Municipal.
+
+Una vez instalado el Comité Coordinador Municipal tendrá un plazo de noventa días para emitir las disposiciones relativas a su funcionamiento.
+
+NOVENO. Una vez que entre en vigor la Ley de Responsabilidades Administrativas del Estado de México y Municipios, se abrogará la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios publicada en el periódico oficial “Gaceta del Gobierno” el 11 de septiembre de 1990.
+
+Los procedimientos iniciados con anterioridad a la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, se substanciarán y serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+A la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, en todos los ordenamientos jurídicos donde se haga referencia a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, se entenderá por Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+Hasta en tanto el Comité Coordinador del Sistema Estatal Anticorrupción, determina los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos estatales y municipales, presentarán sus declaraciones en los formatos que, a la entrada en vigor del presente Decreto, se utilicen en la Entidad.
+
+DÉCIMO. Los procedimientos administrativos iniciados por el Órgano Superior de Fiscalización del Estado de México, que se encuentren en trámite o pendientes de resolución hasta antes de la entrada en vigor del presente Decreto, así como en los que se deriven de las atribuciones de fiscalización y revisión hasta la Cuenta Pública del año 2016, se aplicarán las disposiciones de la Ley de Fiscalización Superior del Estado de México y de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios vigentes con anterioridad a la entrada en vigor de este Decreto, hasta su conclusión definitiva.
+
+Los asuntos relacionados con la revisión y fiscalización de la Cuenta Pública 2017, que deriven en procedimientos administrativos, se tramitarán conforme al presente Decreto, la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+Las atribuciones de fiscalización y revisión para el ejercicio del año en curso y de ejercicios anteriores, entrarán en vigor al día siguiente de la publicación del presente Decreto.
+
+El Órgano Superior de Fiscalización del Estado de México deberá realizar las adecuaciones a su estructura orgánica para desarrollar las atribuciones correspondientes a las autoridades investigadoras y substanciadoras a que se refieren (sic) Ley General de Responsabilidades Administrativas, la Ley de Fiscalización Superior del Estado de México y la Ley de Responsabilidades Administrativas del Estado de México y Municipios y emitir en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, las disposiciones necesarias.
+
+DÉCIMO PRIMERO. Los procedimientos penales que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
+
+DÉCIMO SEGUNDO. Una vez que entren en vigor las disposiciones del presente Decreto, en un término no mayor de treinta días hábiles, se deberá designar al Fiscal especializado en combate a la corrupción.
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, la Legislatura deberá designar o ratificar en un plazo de treinta días hábiles, al Titular del Órgano Interno de Control de la Fiscalía General de Justicia, mediante el procedimiento que previamente establezca para ello, de no cumplirse en tiempo, se entenderá por ratificado al servidor público en funciones.
+
+En tanto la Legislatura designa o ratifica al Titular del Órgano Interno de Control de la Fiscalía General de Justicia, quien se encuentre desempeñando dichas funciones, continuará en el encargo.
+
+DÉCIMO CUARTO. El Tribunal de Justicia Administrativa expedirá su Reglamento Interior dentro de los treinta días naturales siguientes a la publicación del presente Decreto.
+
+DÉCIMO QUINTO. Los procedimientos en curso anteriores a la entrada en vigor del presente Decreto, se substanciarán conforme a la legislación vigente al momento de su inicio.
+
+DÉCIMO SEXTO. El Gobernador del Estado de México hará los nombramientos de los Magistrados que integrarán las salas especializadas en materia de responsabilidades administrativas, así como de la Cuarta Sección de la Sala Superior, dentro de los sesenta días naturales siguientes a la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, para su aprobación por la Legislatura del Estado o la Diputación Permanente, en su caso.
+
+DÉCIMO SÉPTIMO. Los Magistrados del Tribunal de lo Contencioso Administrativo del Estado de México que hayan sido nombrados a la fecha de entrada en vigor del presente Decreto, continuarán como Magistrados del Tribunal de Justicia Administrativa del Estado de México, exclusivamente por el tiempo que hayan sido nombrados.
+
+DÉCIMO OCTAVO. Los servidores públicos del Tribunal de lo Contencioso Administrativo del Estado de México continuarán laborando en el Tribunal de Justicia Administrativa del Estado de México, sin perjuicio de la antigüedad de sus derechos laborales.
+
+DÉCIMO NOVENO. A la fecha de entrada en vigor de este decreto, todas las menciones que se hagan al Tribunal de lo Contencioso Administrativo del Estado de México, se entenderán referidas al Tribunal de Justicia Administrativa del Estado de México. Así mismo, las derogaciones al Código de Procedimientos Administrativos del Estado de México, contenidas en el presente decreto, entraran en vigor a partir de la vigencia de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México.
+
+VIGÉSIMO. Los servidores públicos que venían ejerciendo cargos administrativos, que se transforman conforme a lo dispuesto en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, continuarán desempeñando los mismos cargos hasta que el Pleno del Tribunal acuerde la creación de las nuevas unidades administrativas y decida sobre las designaciones específicas.
+
+VIGÉSIMO PRIMERO. Dentro del plazo de un año a partir del inicio de la vigencia de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, deberá instrumentarse el proceso de certificación a los servidores públicos obligados, conforme a las disposiciones reglamentarias que expida el Pleno de la Sala Superior, pudiendo contar con el apoyo de instituciones docentes afines a la actividad jurisdiccional, mediante los convenios de colaboración que para tal efecto se celebren.
+
+VIGÉSIMO SEGUNDO. Dentro de los ciento veinte días siguientes a la entrada en vigor del presente Decreto se deberán realizar las adecuaciones normativas correspondiente (sic) que permitan la implementación del objeto del presente Decreto.
+
+VIGÉSIMO TERCERO. Se derogan todas las disposiciones legales de menor o igual jerarquía que se opongan al presente Decreto.
+
+VIGÉSIMO CUARTO. La Legislatura del Estado proveerá los recursos presupuestales necesarios para la implementación del presente Decreto, conforme a la suficiencia presupuestal y disposiciones jurídicas aplicables.
