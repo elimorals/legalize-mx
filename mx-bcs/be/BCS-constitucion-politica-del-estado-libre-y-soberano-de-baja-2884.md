@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2017-03-10"
+last_updated: "2017-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE MAYO DE 2017.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -188,8 +188,6 @@ Los ascendientes, tutores y custodios tienen la obligación de preservar y exigi
 10.- La educación será motivo de especial atención del Estado, asumiendo el ejercicio de todas las atribuciones que le confieren el Artículo 3o. de la Constitución General de la República y sus disposiciones reglamentarias. Su orientación será conforme al marco del respeto a los derechos humanos y a los principios señalados en dicho precepto, y en el desenvolvimiento integral y racional de los recursos socioeconómicos del Estado.
 
 Todos los habitantes del Estado tienen derecho a recibir educación. El Estado y Municipios impartirán educación preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias. La educación que impartan el Estado y Municipios será gratuita y tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional, en la Independencia y en la justicia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2013)</small>
 
@@ -901,8 +899,6 @@ IV.- Al reanudarse el período de sesiones ordinarias, presentarán al Congreso 
 
 #### SECCION III. DE LAS SESIONES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO PUBLICADO EN EL P.O. DE 27 DE JUNIO Y SU REFORMA DE 31 DE DICIEMBRE AMBOS DE 2014.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE JUNIO DE 2014)</small>
 
 50.- El Congreso del Estado tendrá, durante el año, dos Períodos Ordinarios de Sesiones: el primero, del 01 de septiembre al 15 de diciembre, el cual podrá prolongarse hasta el 31 de diciembre del mismo año y el segundo, del 15 de marzo al 30 de junio.
@@ -1609,7 +1605,9 @@ XXXIV.- Convocar a elecciones extraordinarias de diputados, cuando haya desapare
 
 XXXV.- Proponer al Congreso que convoque a elecciones, si lo juzga necesario, cuando por cualquier motivo desaparezca el Ayuntamiento, una vez integrado el Concejo Municipal;
 
-XXXVI.- Expedir títulos profesionales, con sujeción a la ley respectiva;
+> <small>(REFORMADA, B.O. 30 DE MAYO DE 2017)</small>
+
+XXXVI.- Legalizar y certificar los títulos profesionales o de grado, con sujeción a la Ley respectiva.
 
 XXXVII.- Nombrar representantes fuera del Estado para la gestión de los negocios del mismo;
 
@@ -2127,8 +2125,6 @@ Estos bienes son inalienables, imprescriptibles e inembargables y no están suje
 
 105.- La Hacienda Pública del Estado está constituída por:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2015)</small>
 
 I.- Los ingresos que determinen su Ley de Hacienda, de Derechos y Productos y demás normas aplicables.
@@ -2461,8 +2457,6 @@ III.- Conceder licencia a sus miembros hasta por treinta días y llamar a quiene
 
 IV.- Designar al Regidor que deba sustituir al Presidente Municipal en caso de falta absoluta de éste y su suplente, y llamar a los suplentes del Síndico o Regidores en los casos de falta absoluta de éstos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2015)</small>
 
 V.- Mantener los servicios de Seguridad Pública, Policía Preventiva y de Transito Municipales de acuerdo con la Ley en la materia.
@@ -2488,8 +2482,6 @@ Las funciones y servicios públicos que el Municipio tendrá a su cargo serán l
 a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
 
 b) Alumbrado Público;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2015)</small>
 
@@ -2528,8 +2520,6 @@ XVI.- Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinars
 > <small>(REFORMADA, B.O. 10 DE JULIO DE 2002)</small>
 
 XVII.- Con la aprobación de las dos terceras partes de sus integrantes, solicitar al Congreso del Estado su aprobación para celebrar convenio para que el Gobierno del Estado, asuma una función o servicio público municipal por el tiempo que se requiera, y en su caso, establecer una prorroga.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 XVIII.- (DEROGADA, B.O. 20 DE DICIEMBRE DE 2015)
 
@@ -2639,8 +2629,6 @@ VI.- Nombrar y remover a los delegados, subdelegados, alcaides y personal de pol
 
 VII.- Convocar al ayuntamiento a sesiones de acuerdo con lo que establezca el reglamento interior;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2015) (F. DE E., B.O. 14 DE ENERO DE 2016)
 
 VIII.- Tener bajo su mando los cuerpos de Seguridad Publica, Policía Preventiva y Transito Municipales, en los términos que establezca el Reglamento respectivo y la Ley en la materia.
@@ -2654,8 +2642,6 @@ IX.- Solicitar la autorización del ayuntamiento para ausentarse del municipio p
 X.- Vigilar que los delegados y subdelegados cumplan las funciones de su encargo e informar de ello al ayuntamiento;
 
 XI.- Remitir ejemplares a las autoridades del municipio y estatales, de las leyes, decretos y demás disposiciones, autorizados con su firma y la del Secretario, con la fecha de su publicación;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 XII.- (DEROGADA, B.O. 20 DE DICIEMBRE DE 2015)
 
@@ -2708,8 +2694,6 @@ VIII.- El Organismo Operador de Agua Potable, Alcantarillado y Tratamiento de Ag
 IX.- Delegaciones y Subdelegaciones Municipales
 
 X.- Catastro
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 XI.- (DEROGADA, B.O. 20 DE DICIEMBRE DE 2015)
 
@@ -3057,7 +3041,7 @@ P.M.L. EL OFICIAL MAYOR
 
 Lic. Antonio Alvarez Rico.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.]</small>
 
 B.O. 26 DE AGOSTO DE 1975.
 
@@ -4084,3 +4068,23 @@ B.O. 10 DE MARZO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+B.O. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2433.- SE REFORMA LA FRACCIÓN XXXVI DEL ARTÍCULO 79 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y SE REFORMA EL ARTÍCULO 1° DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+La reforma al artículo 79 fracción XXXVI, de la Constitución Política del Estado de Baja California Sur, respecto a la Legalización y certificación de los Títulos profesionales o de grado, deberá realizarse a partir de los expedidos en el ciclo escolar próximo siguiente al de la entrada en vigor de la presente Ley
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Educación Pública deberá adecuar las normas que se ajusten a la presente reforma en materia de Legalización de Estudios para ser remitidas a la Secretaría respectiva para la certificación del Título.
+
+###### ARTÍCULO CUARTO.
+
+Las Instituciones Públicas o Privadas que emitan títulos profesionales o de grado, deberán adecuar sus reglamentos respectivos para ajustarse a lo dispuesto por la presente reforma.
