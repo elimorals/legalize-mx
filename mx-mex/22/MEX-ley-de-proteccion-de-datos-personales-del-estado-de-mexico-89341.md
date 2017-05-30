@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-proteccion-de-datos-personales-del-estado-de-mexico-8934
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-31"
-last_updated: "2016-02-03"
+last_updated: "2017-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89341&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES DEL ESTADO DE MEXICO
 
+[N. DE. E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MÉXICO Y MUNICIPIOS, PUBLICADA EN LA G.G. DE 30 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL ESTADO DEL 3 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MAYO DE 2017 (ABROGADA).
 
 Ley publicada en la Sección Tercera de la Gaceta Oficial del Estado de México, el viernes 31 de agosto del 2012.
 
@@ -1134,3 +1134,35 @@ DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda ab
 DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
+
+G.G. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 209.- POR EL QUE SE EXPIDE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Ley de Protección de Datos Personales del Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 31 de agosto de 2012, quedará abrogada con la entrada en vigor de la presente Ley.
+
+CUARTO. Las solicitudes y recursos de revisión en trámite a la entrada en vigor de la Ley que se crea por este Decreto se resolverán conforme (sic) Ley vigente al momento de la presentación de la solicitud o interposición del recurso de revisión.
+
+QUINTO. Los sujetos obligados deberán tramitar, expedir o modificar su normatividad interna a más tardar dentro de los doce meses siguientes a la entrada en vigor de esta Ley.
+
+En el mismo plazo señalado en el párrafo anterior, los sujetos obligados deberán llevar a cabo la actualización del inventario y registro de sus sistemas y bases de datos personales en términos de esta Ley.
+
+SEXTO. El Instituto contará con seis meses para armonizar su Programa de Cultura de la Transparencia y Protección de Datos Personales, a partir de la expedición del Programa Nacional. Las acciones que se desprendan deberán implementarse a más tardar en el ejercicio fiscal inmediato siguiente al en que fuera aprobada la armonización.
+
+SÉPTIMO. El Instituto expedirá el Programa Estatal y Municipal de Protección de Datos Personales y lo publicará en el Periódico Oficial "Gaceta del Gobierno" a más tardar en un periodo de doce meses contados a partir de la entrada en vigor del presente Decreto.
+
+OCTAVO. La Legislatura del Estado, deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley y establecer las partidas presupuestales específicas en el Presupuesto de Egresos del Estado para el Ejercicio Fiscal de 2018.
+
+Para el caso de los municipios con una población menor a los setenta mil habitantes, el Instituto instrumentará el Programa Juntos por la Protección de Datos Personales con el que de manera subsidiaria se fortalecerán las capacidades institucionales y la implementación de la presente Ley.
+
+Sin perjuicio de lo anterior, la Secretaría de Finanzas, en un plazo máximo de treinta días naturales, contado a partir de la entrada en vigor de la presente Ley, proveerá con sujeción a las previsiones que para tal efecto estén contenidas en el Presupuesto de Egresos del Estado, los recursos adicionales necesarios al Instituto, para dar inicio a la implementación de las nuevas atribuciones contenidas en esta Ley.
+
+NOVENO. La Secretaría de Finanzas realizará el estudio correspondiente a fin de proponer el esquema de ampliación presupuestal para la implementación por parte de sujetos obligados de las medidas de seguridad previstas en la presente Ley, en un plazo de ciento ochenta días posterior al inicio de su vigencia.
+
+DÉCIMO. El Instituto deberá informar a la Legislatura, en el Informe Anual de Actividades, los avances en la implementación de los programas referidos en este Decreto.
+
+DÉCIMO PRIMERO. El Código Financiero del Estado de México y Municipios deberá considerar en la determinación de los costos de reproducción y certificación para efectos de acceso a datos personales que los montos permitan o faciliten el ejercicio de este derecho.
