@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2017-02-03"
+last_updated: "2017-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MAYO DE 2017.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -4107,7 +4107,7 @@ XV. Las demás que le otorguen este Reglamento y otras disposiciones normativas 
 
 ###### Artículo 174.
 
-Para el adecuado cumplimiento de sus atribuciones, el Director de Calidad de Vida y Desarrollo Juvenil contará con el Departamento de Vulnerabilidad y Juventud Maya.
+(DEROGADO, D.O. 30 DE MAYO DE 2017)
 
 ###### Artículo 175.
 
@@ -4147,7 +4147,7 @@ XVI. Las demás que le otorguen este Reglamento y otras disposiciones normativas
 
 ###### Artículo 176.
 
-Para el adecuado cumplimiento de sus atribuciones, la Dirección de Enlace Regional contará con el Departamento de Enlace Regional, Municipal y Poder Joven.
+(DEROGADO, D.O. 30 DE MAYO DE 2017)
 
 ###### Artículo 177.
 
@@ -4199,7 +4199,7 @@ XXII. Las demás que le otorguen este Reglamento y otras disposiciones normativa
 
 ###### Artículo 178.
 
-Para el desarrollo de sus funciones y atribuciones la Dirección de Planeación y Estrategia, contará con los departamentos de Observatorio de la Juventud; y de Planeación, Evaluación y Seguimiento.
+(DEROGADO, D.O. 30 DE MAYO DE 2017)
 
 ###### Artículo 179.
 
@@ -13116,3 +13116,11 @@ Se abrogan los Acuerdos Segey 12/2016 por el que se delegan facultades en el dir
 Tercero. Derogación
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 486/2017 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA DE LA JUVENTUD”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
