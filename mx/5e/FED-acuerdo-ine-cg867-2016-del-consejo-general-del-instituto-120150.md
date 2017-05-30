@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg867-2016-del-consejo-general-del-instituto-120150
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-03-15"
-last_updated: "2017-03-15"
+last_updated: "2017-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120150&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-02-21"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS QUE REGULAN EL PROCEDIMIENTO EN MATERIA DE INCONFORMIDADES QUE FORMULEN LOS MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL CON MOTIVO DE LOS RESULTADOS QUE OBTENGAN EN SUS EVALUACIONES DEL DESEMPEÑO DEL SISTEMA INE.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MAYO DE 2017.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 15 de marzo de 2017.
 
@@ -31,7 +31,7 @@ ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUE
 
 ANTECEDENTES
 
-[…]
+[...]
 
 CONSIDERANDO
 
@@ -58,3 +58,35 @@ El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbric
 El anexo puede ser consultado en las (sic) siguiente dirección electrónica:
 
 http://www.ine.mx/archivos2/portal/historico/contenido/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CG-acuerdos/2016/12_Diciembre/CGex201612-21/CGex201612-21-ap-13-a1.pdf
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE MAYO DE 2017.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA MODIFICACIÓN A LOS ARTÍCULOS 8 Y 9 DE LOS “LINEAMIENTOS QUE REGULAN EL PROCEDIMIENTO EN MATERIA DE INCONFORMIDADES QUE FORMULEN LOS MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL CON MOTIVO DE LOS RESULTADOS QUE OBTENGAN EN SUS EVALUACIONES DEL DESEMPEÑO DEL SISTEMA INE, EN ACATAMIENTO A LA SENTENCIA EMITIDA POR LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN EN EL EXPEDIENTE SUP-RAP-52/2017, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Primero. Se aprueba la modificación a los artículos 8 y 9 de los “Lineamientos que regulan el procedimiento en materia de inconformidades que formulen los miembros del Servicio Profesional Electoral Nacional con motivo de los resultados que obtengan en las evaluaciones del desempeño en el Sistema INE”, en acatamiento a la sentencia emitida en el expediente SUP-RAP-52/2017 por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, en los siguientes términos:
+
+“Artículo 8. Serán considerados improcedentes los escritos de inconformidad por los motivos siguientes:
+
+a) Por incumplir cualquiera de los supuestos establecidos en el artículo anterior;
+
+b) Por presentarlos fuera del plazo establecido, y
+
+c) Cuando el escrito de inconformidad se envíe por correo electrónico, y no acredite el envío por mensajería.
+
+La DESPEN antes de declarar la improcedencia del escrito de inconformidad, prevendrá en una sola ocasión al inconforme para que subsane cualquiera de los requisitos establecidos en el artículo 7 de estos Lineamientos, con excepción con excepción (sic) del nombre y firma del inconforme precisados en el inciso a).
+
+El inconforme dentro del plazo de cinco días hábiles, subsanará la prevención, los cuales se contarán a partir del día hábil siguiente al que sea notificado, en caso de no hacerlo dentro del plazo establecido, su escrito de inconformidad será desechado.”
+
+###### Artículo 9.
+
+La DESPEN valorará las pruebas exhibidas por el inconforme señaladas en el artículo 7, inciso f) al momento de proyectar la resolución.
+
+Segundo. Se ordena al Secretario Ejecutivo del Instituto Nacional Electoral para que a través de la Dirección Jurídica informe a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación del cumplimiento dado a la Sentencia de mérito.
+
+Tercero. Las presentes modificaciones a los Lineamientos entrarán en vigor, al día hábil siguiente al de su aprobación por parte del Consejo General del Instituto.
+
+Cuarto. Se instruye a la DESPEN difundir entre los Miembros del Servicio Profesional Electoral Nacional del sistema para el Instituto, la modificación referida en el Punto Primero del presente Acuerdo.
+
+Quinto. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
