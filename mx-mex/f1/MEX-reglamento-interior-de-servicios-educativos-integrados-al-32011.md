@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-servicios-educativos-integrados-al-32011
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-10"
-last_updated: "2014-07-04"
+last_updated: "2017-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE JUNIO DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO INTERIOR DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MAYO DE 2017.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 10 de junio de 2003.
 
@@ -141,7 +143,9 @@ IV. Instruir la creación de órganos técnicos de asesoría para el cumplimient
 
 V. Aprobar la propuesta de contenido regional de los planes y programas de estudio a cargo de SEIEM para someterlos a la consideración del Secretario de Educación;
 
-VI. Vigilar el cumplimiento de las disposiciones legales aplicables al Organismo;
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
+VI. Vigilar el cumplimiento de las disposiciones legales que regulan el servicio profesional docente, las relativas a la evaluación de la educación y las aplicables a SEIEM, de conformidad con su naturaleza jurídica y competencia;
 
 VII. Evaluar el desarrollo de los planes y programas en materia educativa a cargo de SEIEM; y
 
@@ -172,6 +176,14 @@ IV. Establecer la política en materia de incorporación de escuelas particulare
 V. Someter a la aprobación del Consejo Directivo los proyectos de reglamentos, estatutos, acuerdos y demás disposiciones de carácter general de SEIEM;
 
 VI. Ejecutar los acuerdos y disposiciones del Consejo Directivo, dictando las medidas necesarias para su cumplimiento;
+
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
+
+VI Bis. Dirigir, en el ámbito de competencia del Organismo, las acciones que le corresponden a éste en materia de servicio profesional docente, la promoción en la función por incentivos en la educación básica, y de evaluación de la educación;
+
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
+
+VI Ter. Vigilar lo concerniente a la coordinación de SEIEM con la autoridad educativa central, en materia de servicio profesional docente y de evaluación de la educación;
 
 VII. Aceptar las donaciones, legados y demás bienes que se otorguen a favor de SEIEM, informando de ello al Consejo Directivo;
 
@@ -215,7 +227,7 @@ III. Dirección de Planeación y Evaluación;
 
 IV. Dirección de Educación Superior;
 
-V. Dirección de Carrera Magisterial;
+V. (DEROGADA, G.G. 30 DE MAYO DE 2017)
 
 VI. Dirección de Educación Elemental;
 
@@ -234,6 +246,10 @@ XII. Dirección de Administración y Desarrollo de Personal;
 XIII. Dirección de Recursos Materiales y Financieros;
 
 XIV. Unidad de Asuntos Jurídicos; y
+
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
+
+XIV Bis. Unidad de Apoyo al Servicio Profesional Docente
 
 XV. Contraloría Interna.
 
@@ -287,7 +303,9 @@ Corresponde a la Coordinación Académica y de Operación Educativa:
 
 I. Organizar, supervisar y evaluar los servicios de educación inicial, preescolar, primaria, secundaria, especial, indígena, física, para adultos, de nivel medio superior, en su modalidad abierta y superior para la formación continua y desarrollo profesional del magisterio de SEIEM, así como el registro, control y certificación escolar de este nivel educativo;
 
-II. Proponer disposiciones técnicas y administrativas para la eficiente organización, operación, supervisión y evaluación del servicio educativo que le corresponda y vigilar su cumplimiento;
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
+II. Proponer y supervisar las disposiciones técnicas y administrativas para la eficiente organización, operación, supervisión y evaluación del servicio educativo que le corresponde, en materia de servicio profesional docente y de evaluación de la educación, y vigilar su cumplimiento;
 
 III. Proponer al Director General la incorporación de contenidos regionales a los planes y programas de estudio bajo su coordinación;
 
@@ -319,21 +337,21 @@ IV. Dirección de Educación Superior.
 
 Corresponde a la Coordinación de Administración y Finanzas:
 
-> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-I. Proponer al Director General políticas y lineamientos para la planeación educativa, evaluación institucional, estadística, control escolar, desarrollo y administración de los recursos humanos, materiales y financieros de SEIEM, así como lo relativo a servicios generales, informática, telecomunicaciones e instalaciones educativas, de acuerdo con la normatividad de la materia;
+I. Proponer al Director General políticas y lineamientos para la planeación educativa, evaluación institucional, estadística, control escolar, desarrollo y administración de los recursos humanos, materiales y financieros de SEIEM; del servicio profesional docente, en el ámbito de su competencia, así como lo relativo a servicios generales, informática, telecomunicaciones e instalaciones educativas, de acuerdo con la normatividad de la materia;
 
-> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-II. Someter a la consideración del Director General los programas y proyectos para la planeación educativa, evaluación institucional, estadística, control escolar, desarrollo y administración de los recursos humanos, materiales y financieros de SEIEM, así como lo relativo a servicios generales, informática, telecomunicaciones e instalaciones educativas;
+II. Someter a la consideración del Director General los programas y proyectos para la planeación educativa, evaluación institucional, estadística, control escolar, desarrollo y administración de los recursos humanos, materiales y financieros de SEIEM; de los concernientes a la atención del servicio profesional docente, en el ámbito de su competencia, así como lo relativo a servicios generales, informática, telecomunicaciones e instalaciones educativas;
 
-> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-III. Difundir y vigilar la aplicación de las normas, políticas y lineamientos a los que deben sujetarse las unidades administrativas de SEIEM en materia de planeación educativa, evaluación institucional, estadística, control escolar, desarrollo y administración de los recursos humanos, materiales y financieros, así como lo relativo a servicios generales, informática, telecomunicaciones e instalaciones educativas;
+III. Difundir y vigilar la aplicación de las normas, políticas y lineamientos a los que deben sujetarse las unidades administrativas de SEIEM en materia de planeación educativa, evaluación institucional, estadística, control escolar, desarrollo y administración de los recursos humanos, materiales y financieros; en materia del servicio profesional y docente, en el ámbito de su competencia, así como lo relativo a servicios generales, informática, telecomunicaciones e instalaciones educativas;
 
-> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-IV. Evaluar los programas y proyectos referentes a la planeación educativa, evaluación institucional, estadística, control escolar, desarrollo y administración de los recursos humanos, materiales y financieros de SEIEM, así como lo relativo a servicios generales, informática, telecomunicaciones e instalaciones educativas, de acuerdo con la normatividad de la materia;
+IV. Evaluar los programas y proyectos referentes a la planeación educativa, evaluación institucional, estadística, control escolar, desarrollo y administración de los recursos humanos, materiales y financieros de SEIEM; del servicio profesional docente, en el ámbito de su competencia, así como lo relativo a servicios generales, informática, telecomunicaciones e instalaciones educativas, de acuerdo con la normatividad de la materia;
 
 V. Elaborar los presupuestos de ingresos y de egresos de SEIEM, de acuerdo con la normatividad aplicable y someterlos a la consideración del Director General;
 
@@ -387,9 +405,13 @@ V. Dirección de Planeación y Evaluación.
 
 Quedan adscritas directamente a la Dirección General:
 
-I. (DEROGADA, G.G. 4 DE JULIO DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 30 DE MAYO DE 2017)</small>
 
-II. (DEROGADA, G.G. 10 DE AGOSTO DE 2009)
+I. Dirección de Servicios Regionalizados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 30 DE MAYO DE 2017)</small>
+
+II. Unidad de Apoyo al Servicio Profesional Docente.
 
 III. Dirección de Carrera Magisterial; y
 
@@ -489,17 +511,7 @@ XVII. Las demás que le confieran otras disposiciones legales y aquellas que le 
 
 ###### Artículo 25.
 
-Corresponde a la Dirección de Carrera Magisterial:
-
-I. Vigilar la ejecución del Programa de Carrera Magisterial de SEIEM, de acuerdo con la normatividad aplicable;
-
-II. Participar en la Comisión Paritaria Estatal de Carrera Magisterial;
-
-III. Difundir y vigilar la aplicación de los lineamientos del Programa de Carrera Magisterial de SEIEM, otorgando la asesoría y orientación correspondiente;
-
-IV. Vigilar los procesos de inscripción, evaluación, dictaminación y publicación, así como la atención de inconformidades y la emisión y trámite de los listados dictaminados por la Comisión Paritaria Estatal, para el pago de los docentes beneficiados en el Programa de Carrera Magisterial; y
-
-V. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
 ###### Artículo 26.
 
@@ -522,6 +534,10 @@ V. Establecer los lineamientos y mecanismos para el desarrollo de las actividade
 VI. Someter a la consideración del Coordinador Académico y de Operación Educativa, lineamientos para supervisar el funcionamiento de los planteles de educación elemental;
 
 VII. Proponer y ejecutar programas de actualización, capacitación y superación profesional del personal académico adscrito a la Dirección;
+
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
+
+VII Bis. Coadyuvar en el ámbito de su competencia, con la instrumentación de acciones relacionadas con el servicio profesional docente y para la evaluación de la educación;
 
 > <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
 
@@ -554,6 +570,10 @@ V. Establecer lineamientos y mecanismos para el desarrollo de las actividades ac
 VI. Someter a la consideración del Coordinador Académico y de Operación Educativa, lineamientos para supervisar el funcionamiento de los planteles de educación secundaria;
 
 VII. Proponer y ejecutar los programas de actualización, capacitación y superación profesional del personal académico adscrito a la Dirección;
+
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
+
+VII Bis. Coadyuvar en el ámbito de su competencia, con la instrumentación de acciones relacionadas con el servicio profesional docente y con la evaluación de la educación;
 
 > <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
 
@@ -598,6 +618,10 @@ III. Coadyuvar en el registro y control de los bienes muebles e inmuebles de los
 IV. Supervisar el proceso de pago oportuno al personal docente y de apoyo y asistencia a la educación en los centros de trabajo de su circunscripción territorial;
 
 V. Recibir y tramitar ante la Dirección de Administración y Desarrollo de Personal, los movimientos e incidencias del personal bajo su adscripción;
+
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
+
+V Bis. Apoyar los trámites y gestiones relacionados con el servicio profesional docente;
 
 VI. Participar en la planeación, evaluación y estadística de SEIEM;
 
@@ -650,6 +674,14 @@ I. Proponer políticas y lineamientos para la administración y desarrollo del p
 II. Elaborar y mantener actualizados los catálogos de puestos, tabuladores de sueldos y la plantilla de personal de SEIEM;
 
 III. Aplicar las normas contenidas en la legislación laboral y en las condiciones generales de trabajo, al personal de SEIEM;
+
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
+
+III Bis. Verificar el cumplimiento de requisitos administrativos del personal de ingreso al servicio profesional docente, que en términos de la normatividad aplicable determine la autoridad educativa estatal en la materia;
+
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
+
+III Ter. Supervisar la procedencia de pagos del personal de SEIEM, derivados del ingreso, la promoción, el reconocimiento y la permanencia en el servicio público educativo, en términos de la normatividad que regula el servicio profesional docente;
 
 IV. Tramitar los movimientos y demás incidencias del personal de SEIEM;
 
@@ -758,6 +790,50 @@ XVIII. Dirigir, vigilar y controlar la asignación de becas de las escuelas part
 XIX. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el
 
 Director General.
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 34 Bis.
+
+Corresponde a la Unidad de Apoyo al Servicio Profesional Docente:
+
+I.- Coordinar, al interior del Organismo, las acciones solicitadas por las instancias federales y estatales, relativas al registro, control y operación de los procesos de ingreso, promoción, permanencia, reconocimiento, formación y capacitación, en términos de la normatividad del Servicio Profesional Docente;
+
+II.- Proponer la selección y capacitación de los evaluadores que podrán participar en la aplicación de los instrumentos correspondientes;
+
+III.- Proponer la selección de los aplicadores a participar en la implementación de los lineamientos correspondientes;
+
+IV.- Proponer las convocatorias de los concursos de oposición para el ingreso a la función docente y la promoción a cargos con funciones de dirección o de supervisión, y participar en su ejecución, conforme a los lineamientos respectivos;
+
+V.- Participar en los procesos de evaluación del desempeño docente y de quienes ejerzan funciones de dirección o de supervisión;
+
+VI.- Diseñar programas de reconocimiento para docentes y para el personal con funciones de dirección y supervisión que se encuentren en servicio, conforme a los lineamientos respectivos;
+
+VII.- Formular programas y cursos gratuitos, idóneos, pertinentes y congruentes con niveles de desempeño deseados, para la formación continua, actualización y desarrollo profesional del personal docente y de dirección o de supervisión;
+
+VIII.- Ofertar al personal docente y al personal con funciones de dirección y de supervisión programas de desarrollo de capacidades para la evaluación interna a que se refiere la Ley General del Servicio Profesional Docente;
+
+IX.- Organizar y operar el servicio de asistencia técnica a la escuela, conforme a los lineamientos generales que la Secretaría de Educación Pública determine;
+
+X.- Generar los programas de regularización que establece la Ley General del Servicio Profesional Docente;
+
+XI.- Coordinar la oferta de programas de desarrollo de liderazgo y gestión pertinentes;
+
+XII.- Proponer los lineamientos a los que estará sujeta la elección de personal que refiere la Ley General del Servicio Profesional Docente;
+
+XIII.- Realizar la asignación de plazas con base en los puntajes obtenidos de mayor a menor, de los sustentantes que resultaron idóneos en el concurso;
+
+XIV.- Proponer los requisitos y perfiles que deberán reunirse para el ingreso, promoción, reconocimiento y permanencia en el servicio profesional docente;
+
+XV.- Establecer, dentro de la estructura ocupacional autorizada, los puestos del personal técnico docente que formarán parte del servicio profesional docente;
+
+XVI.- Proponer los mecanismos para que los representantes de organizaciones no gubernamentales y padres de familia participen como observadores en los procesos de evaluación;
+
+XVII.- Apoyar las acciones relacionadas con la evaluación de la educación;
+
+XVIII.- Coordinar la operación del Programa de Promoción en la Función por Incentivos en Educación Básica para el personal con funciones docentes, técnico docentes, de dirección, supervisión y asesoría técnica pedagógica y demás promociones derivadas de la Ley General del Servicio Profesional Docente; y
+
+XIX.- Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director General.
 
 ### CAPITULO VII. DE LA SUPLENCIA DE LOS TITULARES
 
@@ -882,3 +958,17 @@ TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía jurídi
 CUARTO.- Los asuntos y procedimientos relacionados con la certificación escolar del tipo de educación superior que se encuentren en trámite en la Dirección de Planeación y Evaluación, a la entrada en vigor de este Acuerdo, los concluirá esta Unidad Administrativa.
 
 QUINTO.- Los archivos correspondientes al registro y control escolar del tipo educativo de educación superior que están en posesión de la Dirección de Planeación y Evaluación, transfiéranse a la Dirección de Educación Superior, en un lapso no mayor a quince días naturales, mediante acta de entrega-recepción.
+
+G.G. 30 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIFERENTES DISPOSICIONES DEL REGLAMENTO INTERIOR DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía jurídica que se opongan a lo dispuesto en este Acuerdo.
+
+CUARTO.- Los recursos humanos y materiales que a la fecha estén adscritos a la Dirección de Carrera Magisterial, serán transferidos a la Unidad de Apoyo al Servicio Profesional Docente.
+
+QUINTO.- La Unidad de Apoyo al Servicio Profesional Docente, desarrollará las acciones de coordinación en materia de servicio profesional docente y de evaluación de la educación que instruya el Director General del Organismo, con la autoridad educativa central de la materia.
