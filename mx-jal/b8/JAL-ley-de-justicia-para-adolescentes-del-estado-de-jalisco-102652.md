@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-para-adolescentes-del-estado-de-jalisco-102652"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-04"
-last_updated: "2014-10-04"
+last_updated: "2017-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL "DECRETO 26361/LXI/17 QUE ABROGA LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE JALISCO", PUBLICADO EN LA SECCIÓN IV AL NO. 37 DEL P.O. DE 30 DE MAYO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2017 (ABROGADA).
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 4 de octubre de 2014.
 
@@ -1630,3 +1632,17 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE MAYO DE 2017.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL “DECRETO 26361/LXI/17 QUE ABROGA LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE JALISCO” QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ÚNICO. Se abroga la Ley de Justicia para Adolescentes del Estado de Jalisco, aprobada a través del decreto 24992/LX/14.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26361/LXI/17 QUE ABROGA LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE JALISCO”.]
+
+PRIMERO. Los procedimientos para adolescentes iniciados antes de la entrada en vigor del presente decreto, se regirán por la Ley de Justicia para Adolescentes del Estado de Jalisco.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
