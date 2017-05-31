@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-adquisiciones-arrendamientos-servicios-y-almacenes-31688
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-04"
-last_updated: "2016-11-08"
+last_updated: "2017-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31688&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y ALMACENES DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y ALMACENES DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial de Estado de Nayarit, el miércoles 4 de Junio de 2003.
 
@@ -37,9 +39,7 @@ El H. Congreso del Estado Libre y Soberano de Nayarit representado por su XXVII 
 
 DECRETA:
 
-LEY DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS
-
-Y ALMACENES DEL ESTADO DE NAYARIT.
+LEY DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y ALMACENES DEL ESTADO DE NAYARIT.
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -63,7 +63,9 @@ II.- Dependencia: Cada unidad administrativa que se encuentre subordinada, en fo
 
 III.- Área Administrativa: La unidad central responsable de la administración de los recursos humanos, financieros y materiales en los entes públicos.
 
-IV.- Contraloría: Dependencia responsable de la función de evaluación, control y vigilancia en los entes públicos.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+IV.- Órganos internos de control: La Secretaría de la Contraloría General del Poder Ejecutivo, las contralorías internas de las entidades, así como las áreas administrativas responsables de las funciones de vigilancia y control en los poderes Legislativo y Judicial y en los organismos autónomos, responsables de la función de evaluación, control y vigilancia en los entes públicos.
 
 V.- Comité de Adquisiciones: El órgano colegiado con facultades de decisión sobre los actos que realicen los entes públicos, en términos de la presente ley.
 
@@ -91,7 +93,9 @@ Para los efectos de la presente ley, en la contratación de las adquisiciones, a
 
 I.- La adquisición y arrendamiento de bienes muebles.
 
-II.- La adquisición de muebles que deban incorporarse, adherirse o destinarse a un inmueble.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+II.- La adquisición de muebles que deban incorporarse, adherirse o destinarse a un inmueble, que sean necesarios para la realización de las obras públicas por administración directa, o los que suministren las dependencias y entidades de acuerdo con lo pactado en los contratos de obras públicas.
 
 III.- La contratación de servicios relativos al mantenimiento de muebles que se encuentren incorporados o adheridos a inmuebles, cuando éste no implique modificación al propio inmueble y sea prestado por persona a cuya actividad comercial corresponda al servicio requerido.
 
@@ -99,7 +103,9 @@ IV.- La contratación de servicios de reparación, reconstrucción y mantenimien
 
 V.- La contratación de servicios de maquila, seguros y transportación, así como los de limpieza y vigilancia de inmuebles.
 
-VI.- En general, la contratación de servicios de cualquier naturaleza, cuya prestación genere una obligación de pago para los sujetos señalados en el artículo 1° de esta ley y cuyo procedimiento de regulación no se encuentre regulado, en forma específica, por otra disposición legal.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VI.- En general, la contratación de servicios de cualquier naturaleza, cuya prestación genere una obligación de pago para los sujetos señalados en el artículo 1° de esta ley y cuyo procedimiento de regulación no se encuentre regulado, en forma especifica, por otra disposición legal. Corresponderá al órgano interno de control, a solicitud del ente público de que se trate, determinar si un servicio se ubica en la hipótesis de esta fracción.
 
 VII.- La contratación de arrendamiento financiero de bienes muebles.
 
@@ -119,6 +125,10 @@ V.- El área administrativa, en los órganos del estado que gozan de autonomía.
 
 Las disposiciones administrativas, a que alude este artículo, deberán ser publicadas en el Periódico Oficial, Órgano de Gobierno del Estado y en el medio de comunicación del ente público que corresponda conforme a la ley.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+La Secretaría de la Contraloría General del Poder Ejecutivo, en el ámbito de sus atribuciones, estará encargada de establecer las directrices conforme a las cuales se determinarán los perfiles de puesto de los servidores públicos correspondientes en materia de contrataciones públicas, así como las relativas a la capacitación para el adecuado desempeño de sus funciones en las materias a que alude esta Ley.
+
 ###### Artículo 5°.
 
 Los actos jurídicos, convenios, contratos o acuerdos de colaboración que celebren entre si los entes públicos o sus dependencias, no estarán dentro del ámbito de aplicación de esta ley.
@@ -134,6 +144,10 @@ El gasto para la adquisición o arrendamientos de bienes muebles y la contrataci
 Las operaciones que deban cubrirse a través de financiamiento serán autorizadas previamente por el área financiera.
 
 No se considerará como operación de financiamiento el otorgamiento de anticipos, los cuales en todo caso, previa autorización del comité, podrán ser hasta de cuarenta por ciento y deberán quedar garantizados en los términos del artículo 32 de esta ley.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Será responsable administrativamente el servidor público que celebre, contrate, pague o acepte servicios de cualquier tipo de proveeduría sin llevar a cabo el procedimiento correspondiente, o cuando no se cuente con la capacidad presupuestal necesaria. El servidor púbico será sancionado de conformidad con la Ley en materia de responsabilidades administrativas.
 
 ###### Artículo 8°.
 
@@ -153,7 +167,9 @@ Los actos y convenios que contravengan esta ley, serán nulos previa determinaci
 
 Las controversias que se susciten con motivo de la interpretación o aplicación de la presente ley, o de los contratos celebrados con base en ésta, serán resueltos por el Tribunal de Justicia Administrativa del Estado de Nayarit.
 
-Lo anterior sin perjuicio de que las contralorías conozcan en la esfera de su competencia, de la inconformidad que promuevan las personas con interés jurídico, en los términos de esta ley.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Lo anterior sin perjuicio de que los órganos internos de control conozcan en la esfera de su competencia, de la inconformidad que promuevan las personas con interés jurídico, en los términos de esta ley.
 
 ###### Artículo 12.
 
@@ -227,6 +243,10 @@ Los órganos ejecutores pondrán a disposición de los interesados su programa a
 
 El programa a que se refiere este capítulo será de carácter informativo por lo que no implicará compromiso alguno de contratación y podrá ser, adicionado, modificado, suspendido o cancelado, sin responsabilidad alguna para el área administrativa.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Toda dependencia, ente o entidad deberá contar con una lista de proveedores en su página de internet, misma que contendrá como mínimo el nombre de la persona física o la denominación de la persona moral, monto de lo contratado, nombre de los socios de la empresa, nombre del representante legal, descripción del servicio o producto contratado, fecha de inicio y terminación del contrato, así como los efectos y compromisos adquiridos.
+
 ### CAPÍTULO II. DE LAS OPERACIONES CONSOLIDADAS
 
 ###### Artículo 18.
@@ -257,19 +277,37 @@ Estos catálogos se integrarán en concordancia con el catálogo presupuestal re
 
 En el caso de las entidades, la integración y actualización de los referidos catálogos corresponderá al área administrativa del poder ejecutivo o del municipio según corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 23.
 
-A fin de conocer la capacidad administrativa, financiera legal y técnica de las fuentes de suministro, el área administrativa integrará un catálogo de oferentes por giro comercial.
+A fin de conocer la capacidad administrativa, financiera legal y técnica de las fuentes de suministro, el área administrativa integrará un catálogo de oferentes y proveedores por giro comercial.
 
-Las personas físicas o morales que deseen formar parte de este catálogo, deberán cumplir previamente con los requisitos que al efecto determine el área administrativa. La falta de inscripción en dicho catálogo no limitará la libre concurrencia de los oferentes a las licitaciones públicas reguladas por esta ley.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Las personas físicas o morales que deseen formar parte de este catálogo, deberán cumplir previamente con los requisitos que al efecto determine el área administrativa.
 
 En el caso de las entidades, la integración de este catálogo estará a cargo del área administrativa del poder ejecutivo o del municipio, según corresponda.
 
 El área administrativa podrá realizar visitas a las instalaciones de las empresas a fin de verificar su capacidad, la calidad de los productos ofrecidos y las existencias físicas disponibles.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+A todo solicitante de inscripción en el catálogo de proveedores, se le deberá entregar un compilado autorizado por el órgano interno de control, de las obligaciones y sanciones a las que están sujetos.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Al momento de solicitar la inscripción al catálogo de proveedores, el servidor público que reciba los documentos deberá tomar protesta al solicitante, por medio de la cual manifestará conducirse con verdad y rectitud en los procedimientos de contratación de los que sea parte, sabedor de las penas en que incurren los particulares que realicen actos de corrupción. Para lo cual, la persona física o moral deberá expresar en voz alta lo siguiente:
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+“Protesto conducirme con verdad y rectitud, evitar cualquier acto u omisión de corrupción y denunciar aquellos sobre los que tenga conocimiento, asimismo manifiesto conocer las penas en que incurren las personas físicas y morales que participan en actos de corrupción”.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 24.
 
-La contraloría integrará con la información que se le proporcione un catálogo de proveedores que hayan incumplido compromisos contraídos en alguna operación regulada por esta ley, el cual dará a conocer al Comité de Adquisiciones, al área administrativa y a los órganos ejecutores, quienes se abstendrán de permitir la participación de dichos proveedores o de quienes hubiesen sido socios o accionistas de los mismos en cualquiera de los procedimientos previstos en este ordenamiento o celebrar contratos con ellos.
+El órgano interno de control integrará con la información que se le proporcione un catálogo de proveedores que hayan incumplido compromisos contraídos en alguna operación regulada por esta ley, el cual dará a conocer al Comité de Adquisiciones, al área administrativa y a los órganos ejecutores, quienes se abstendrán de permitir la participación de dichos proveedores o de quienes hubiesen sido socios o accionistas de los mismos en cualquiera de los procedimientos previstos en este ordenamiento o celebrar contratos con ellos.
 
 ## TÍTULO TERCERO. DEL COMITÉ DE ADQUISICIONES
 
@@ -297,19 +335,25 @@ a) Con dos representantes del área administrativa, quienes fungirán como presi
 
 b) Con un representante del órgano usuario;
 
-c) Con un representante de la contraloría;
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+c) Con un representante del órgano interno de control;
 
 d) Con un representante del área jurídica; y
 
 e) Con un representante del área financiera;
 
-Los integrantes del Comité de Adquisiciones participan con voz y voto, con excepción del representante del área jurídica y el de la contraloría; el presidente contará con voto de calidad en caso de empate.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Los integrantes del Comité de Adquisiciones participan con voz y voto, con excepción del representante del área jurídica y el del órgano interno de control; el presidente contará con voto de calidad en caso de empate.
 
 En el caso de los gobiernos municipales se estará a lo señalado por la Ley Municipal para el Estado de Nayarit.
 
 El Comité de Adquisiciones solo sesionará cuando se encuentren presentes la mayoría de sus integrantes, entre ellos el presidente, y sus decisiones se tomarán por mayoría de votos.
 
-En los casos en que, por la naturaleza de sus funciones o por la magnitud de sus operaciones, no se justifique la instalación de un comité, la contraloría podrá autorizar la excepción correspondiente.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+En los casos en que, por la naturaleza de sus funciones o por la magnitud de sus operaciones, no se justifique la instalación de un comité, el órgano interno de control podrá autorizar la excepción correspondiente.
 
 ###### Artículo 26.
 
@@ -317,7 +361,9 @@ El comité de adquisiciones tendrá las siguientes funciones:
 
 I.- Revisar los programas y presupuestos de adquisiciones, arrendamientos y servicios, así como formular las observaciones y recomendaciones convenientes;
 
-II.- Dictaminar, previamente a la iniciación del procedimiento, sobre la procedencia de no celebrar licitaciones públicas por encontrarse en alguno de los supuestos de excepción previstos en esta ley, salvo en los casos que la misma determina, en cuyo caso se deberá informar al propio comité una vez concluida la contratación respectiva;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+II.- Dictaminar, previamente a la iniciación del procedimiento, sobre la procedencia de no celebrar licitaciones públicas por encontrarse en alguno de los supuestos de excepción previstos en esta ley, salvo en los casos que la misma determina, en cuyo caso se deberá informar al propio comité una vez concluida la contratación respectiva. Dicha función también podrá ser ejercida directamente por el titular de la dependencia o entidad, o aquel servidor público en quien éste delegue dicha función. En ningún caso la delegación podrá recaer en servidor público con nivel inferior al de director general en las dependencias o su equivalente en las entidades;
 
 III.- Proponer las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios, así como autorizar los supuestos no previstos en éstos, sometiéndolas a consideración del titular de la entidad, o en general de los entes públicos;
 
@@ -329,11 +375,23 @@ VI.- Autorizar, cuando se justifique, la creación de subcomités de adquisicion
 
 VII.- Elaborar y aprobar el manual de integración y funcionamiento del comité;
 
-VIII.- Autorizar los casos de reducción del plazo para la presentación y apertura de proposiciones en licitaciones públicas, y (sic)
+VIII.- Autorizar los casos de reducción del plazo para la presentación y apertura de proposiciones en licitaciones públicas, y
 
 IX.- Coadyuvar al cumplimiento de esta ley; y
 
 X.- Las demás que le otorga esta ley.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+La Secretaría de la Contraloría General del Poder Ejecutivo podrá autorizar la creación de comités en órganos desconcentrados, cuando la cantidad y monto de sus operaciones o las características de sus funciones así lo justifiquen.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+En los casos en que, por la naturaleza de sus funciones o por la magnitud de sus operaciones, no se justifique la instalación de un comité, la Secretaría de la Contraloría General del Poder Ejecutivo podrá autorizar la excepción correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+La Secretaría de la Contraloría General del Poder Ejecutivo podrá participar como asesor en los comités y subcomités a que se refiere este artículo, pronunciándose de manera fundada y motivada al emitir sus opiniones.
 
 ## TÍTULO CUARTO. DE LOS PROCEDIMIENTOS DE CONTRATACIÓN
 
@@ -349,6 +407,14 @@ II.- Invitación a cuando menos tres oferentes; y
 
 III.- Adjudicación directa.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 27 Bis.
+
+Previo a la contratación de bienes o servicios o posterior a ello, el órgano interno de control verificará que los precios unitarios no sean desproporcionales a los precios del valor de mercado, atendiendo a la realidad económica del Estado.
+
+Cuando el órgano interno de control determine la desproporción injustificada de los precios unitarios previo a la contratación, la licitación será declarada desierta; en el caso que la determinación sea posterior la contratación será declarada nula, en ambos supuestos se deberá informar al órgano ejecutor y éste procederá a lo conducente, lo anterior sin perjuicio de las sanciones aplicables de conformidad con la ley en materia de responsabilidades administrativas.
+
 ###### Artículo 28.
 
 Las adquisiciones y arrendamientos de todo tipo de bienes, así como la prestación de servicios de cualquier naturaleza, se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al estado y a los municipios las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a lo que establece la presente ley.
@@ -360,6 +426,14 @@ La invitación a cuando menos tres oferentes y la adjudicación directa, sólo s
 La convocatoria y las bases de licitación deberán contener los mismos requisitos y condiciones para todos los oferentes.
 
 Todo oferente que satisfaga los requisitos de la convocatoria y de las bases de la licitación, tendrán derecho de presentar sus propuestas. El órgano ejecutor proporcionará a los interesados igual acceso a la información relacionada con la licitación, a fin de evitar prerrogativas a algún participante.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Todas las convocatorias que contengan las bases de licitaciones deberán contener un apartado de las obligaciones y las sanciones de los contratistas y de los servidores públicos.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+La presentación de ofertas deberá hacerse de manera personal, por medio del apoderado o representante legal, procediendo la autoridad a tomar la protesta legal al ofertante en los términos del artículo 23 de esta ley.
 
 ###### Artículo 30.
 
@@ -383,13 +457,27 @@ I.- Los anticipos, que en su caso reciba. Esta garantía deberá constituirse po
 
 II.- El cumplimiento de los contratos.
 
-El órgano ejecutor fijará en las bases de licitación la forma, características y porcentajes a los que se sujetarán las garantías que deban constituirse en su favor, así como el procedimiento de devolución.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+El órgano ejecutor fijará en las bases de licitación la forma, características y porcentajes a los que se sujetarán las garantías que deban constituirse en su favor, así como el procedimiento de devolución, considerando los antecedentes de cumplimiento de los proveedores en los contratos celebrados.
 
 ###### Artículo 33.
 
 En las invitaciones a cuando menos tres oferentes y en las adjudicaciones directas, el órgano ejecutor podrá, bajo su responsabilidad, exceptuar a los proveedores de presentar la garantía del cumplimiento del contrato, siempre y cuando los proveedores suministren en forma inmediata y satisfactoria la totalidad de los bienes o servicios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 33 Bis.
+
+Los participantes en los procedimientos de adquisiciones, deberán atender los lineamientos siguientes:
+
+I. Las empresas deberán acompañar los registros, de al menos dos años anteriores, ante el Servicio de Administración Tributaria, el Instituto Mexicano del Seguro Social, pago del servicio de agua potable y alcantarillado, y del servicio de suministro de energía eléctrica, así como cualquier otro comprobante relacionado, a nombre de la empresa o del representante legal;
+
+II. Deberán notificar respecto a cualquier relación jurídica o por afinidad con servidores públicos de primer y segundo nivel, o de aquellos con quien tenga una relación o injerencia en los procesos de adquisición o licitación, y
+
+III. Deberán acreditar sus activos, su capacidad material y los recursos humanos con los que cuenta, los cuales deberán ser suficientes para dar cumplimiento al contrato sujeto a licitación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 34.
 
@@ -397,13 +485,19 @@ El Comité de Adquisiciones, los órganos ejecutores y las dependencias se abste
 
 I.- Aquellas con las que el servidor público que intervenga en cualquier etapa del procedimiento de contratación, o con los servidores públicos que ejerzan sobre éste facultades de dirección ó de mando, tengan interés personal, familiar o de negocios incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte durante los seis años previos a la fecha de la convocatoria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Los servidores públicos deberán notificar cuando exista alguna relación de afinidad o relación jurídica de cualquier índole, cuando en un procedimiento participe dicho proveedor. La falta de notificación será sancionada de uno a tres meses de suspensión sin goce de sueldo. Cuando dicho proveedor sea designado como ganador del procedimiento, la sanción consistirá en destitución e inhabilitación, en términos de la legislación en materia de responsabilidades administrativas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2003)</small>
 
 II.- Aquellas personas que guarden con respecto a los titulares de los poderes ejecutivo, legislativo y judicial, los integrantes de los ayuntamientos y los de sus dependencias y entidades, cuando estas últimas tengan el carácter de ejecutoras dentro de los procesos de licitación, y en general con los titulares de los entes públicos, interés personal, familiar o de negocios incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte durante los seis años previos a la fecha de la convocatoria.
 
 En el caso de los titulares de las áreas financieras el impedimento aplicará para cualquier proceso de licitación que lleven a cabo el poder, el ayuntamiento, dependencia, entidad o cualquier ente público al que se encuentren adscritos.
 
-III.- Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la contraloría. La prohibición aplicará únicamente para las contrataciones que se realicen en los poderes, ayuntamientos, dependencias, entidades o cualquier ente público al que se encuentren adscritas dichas personas.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+III.- Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica del órgano interno de control. La prohibición aplicará únicamente para las contrataciones que se realicen en los poderes, ayuntamientos, dependencias, entidades o cualquier ente público al que se encuentren adscritas dichas personas.
 
 IV.- Las que hayan sido inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público.
 
@@ -415,7 +509,9 @@ VII.- Las que se encuentren en situación de mora o adeudo en la entrega de los 
 
 VIII.- Aquellas que hubieren proporcionado información que resulte falsa, o que hallan (sic) actuado con dolo o mala fe en alguna etapa del procedimiento para la adjudicación de un contrato, en su celebración durante su vigencia o en la presentación o desahogo de algunos de los medios de defensa.
 
-IX.- Las que en virtud de la información con que cuenten las contralorías hayan celebrado contratos en contravención a lo dispuesto por esta ley.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+IX.- Las que en virtud de la información con que cuenten los órganos internos de control hayan celebrado contratos en contravención a lo dispuesto por esta ley.
 
 X.- Las que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales.
 
@@ -527,7 +623,25 @@ En los procedimientos de licitación pública el órgano ejecutor observará las
 
 I.- El acto de presentación y apertura de ofertas se deberá realizar en un plazo no menor a diez días hábiles, cuando se celebren juntas de aclaraciones y a siete días hábiles, cuando éstas no se realicen, contados a partir del día siguiente al que se haya publicado la convocatoria respectiva;
 
-II.- Para asegurar la concurrencia del mayor número de oferentes, el órgano ejecutor, podrá invitar, conforme al procedimiento que establezca el área administrativa, a las personas identificadas en el catálogo de oferentes en cada ente público.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+II.- Para asegurar la concurrencia del mayor número de oferentes, el órgano ejecutor, podrá invitar, conforme al procedimiento que establezca el área administrativa, a las personas identificadas en el catálogo de oferentes en cada ente público;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+III.- Las sesiones de los comités de adquisiciones, deberán video grabarse y estar disponibles al público dentro de las veinticuatro horas siguientes a su celebración. Salvo aquellas que contengan información clasificada. Las grabaciones de las sesiones deberán contener elementos suficientes para verificar la fecha de celebración de los actos jurídicos;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+IV.- Toda visita, atención, reunión o contacto con proveedores deberá estar debidamente registrada, en la que conste nombre, asunto y el resultado de la reunión. El incumplimiento a esta obligación, será motivo de sanción;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+V.- Ningún servidor público podrá tratar cuestiones relativas a la contratación o adquisición fuera de los plazos del procedimiento, y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VI.- Cuando la autoridad no tenga antecedentes de contratación con la empresa, deberá realizar una verificación física de las instalaciones, levantando acta circunstanciada de la inspección, así como video grabación de la misma.
 
 ###### Artículo 42.
 
@@ -601,15 +715,25 @@ Si realizada la segunda convocatoria se declara desierta la licitación, el órg
 
 Tratándose de licitaciones en la que una o varias partidas se declaren desiertas, por no haberse recibido propuestas satisfactorias el órgano ejecutor podrá proceder a celebrar una nueva licitación sólo respecto a esas partidas, o bien, un procedimiento de invitación a cuando menos tres personas o adjudicación directa, según corresponda.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Las dependencias y entidades podrán cancelar una licitación, partidas o conceptos incluidos en éstas, cuando se presente caso fortuito; fuerza mayor; existan circunstancias justificadas que extingan la necesidad para adquirir los bienes, arrendamientos o servicios, o que de continuarse con el procedimiento se pudiera ocasionar un daño o perjuicio a la propia dependencia o entidad. La determinación de dar por cancelada la licitación, partidas o conceptos, deberá precisar el acontecimiento que motiva la decisión, la cual se hará del conocimiento de los licitantes, y no será procedente contra ella recurso alguno, sin embargo, podrán interponer la inconformidad en términos del Título Séptimo, Capítulo Primero de esta Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Salvo en las cancelaciones por caso fortuito y fuerza mayor, la dependencia o entidad cubrirá a los licitantes los gastos no recuperables que, en su caso, procedan en términos de lo dispuesto por el Reglamento de esta Ley.
+
 ### CAPÍTULO III. DE LOS PROCEDIMIENTOS DE INVITACIÓN A CUANDO MENOS TRES OFERENTES Y DE ADJUDICACIÓN DIRECTA
 
 ###### Artículo 48.
 
 En los supuestos y con sujeción a las formalidades que prevén las disposiciones de este capítulo, el órgano ejecutor bajo su responsabilidad podrá, no realizar el procedimiento de licitación pública, y optar por el procedimiento de invitación a cuando menos tres oferentes o por el de adjudicación directa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 49.
 
-La realización de las adquisiciones, arrendamientos o contratación de servicios, a través de los procedimientos de invitación a cuando menos tres oferentes y de adjudicación directa, deberán fundarse y motivarse según las circunstancias que ocurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones disponibles para los entes públicos.
+La realización de las adquisiciones, arrendamientos o contratación de servicios, a través de los procedimientos de invitación a cuando menos tres oferentes y de adjudicación directa, deberán fundarse y motivarse según las circunstancias que ocurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia que aseguren las mejores condiciones disponibles para los entes públicos.
 
 Las dependencias deberán exponer ante el comité de adquisiciones, en escrito autorizado por sus titulares, los fundamentos y motivos de excepción que justifiquen la adquisición, arrendamiento o contratación de los bienes o servicios a través de estas modalidades, emitiendo un Dictamen respecto a dicha determinación.
 
@@ -683,7 +807,9 @@ IV.- Las bases tendrán un costo y estarán a disposición de los interesados a 
 
 V.- El plazo para la presentación y apertura de las propuestas se fijará en las bases para cada operación, atendiendo al tipo de bienes o servicios requeridos, así como la complejidad para elaborar la oferta;
 
-VI.- La apertura de las propuestas recibidas podrá efectuarse sin la presencia de los oferentes, pero invariablemente deberá invitarse a un representante de la contraloría;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VI.- La apertura de las propuestas recibidas podrá efectuarse sin la presencia de los oferentes, pero invariablemente deberá invitarse a un representante del órgano interno de control;
 
 VII.- El comité de adquisiciones, llevará a cabo el análisis y evaluación de las ofertas recibidas;
 
@@ -715,6 +841,48 @@ En los contratos de adquisiciones, arrendamientos y servicios, deberá pactarse 
 
 Tratándose de bienes o servicios sujetos a precios oficiales, se reconocerán los incrementos autorizados.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Cuando con posterioridad a la adjudicación de un contrato se presenten circunstancias económicas de tipo general, como resultado de situaciones supervenientes ajenas a la responsabilidad de las partes, que provoquen directamente un aumento o reducción en los precios de los bienes o servicios aún no entregados o prestados, y que por tal razón no pudieron haber sido objeto de consideración en la oferta que sirvió de base para la adjudicación del contrato correspondiente, los sujetos de esta ley podrán reconocer incrementos o requerir reducciones, justificando lo conducente.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 55 Bis.
+
+Los contratos que se celebren en los términos de esta ley deberán contener como mínimo lo siguiente:
+
+I. El nombre, denominación o razón social de la dependencia o entidad convocante;
+
+II. La indicación del procedimiento conforme al cual se llevó a cabo la adjudicación del contrato;
+
+III. La disposición presupuestal para cubrir el compromiso derivado del contrato;
+
+IV. La fecha, lugar y condiciones de entrega de los bienes o la prestación del servicio;
+
+V. Una descripción completa de los bienes o servicios, sus precios unitarios y el precio total a pagar;
+
+VI. La precisión de si el precio es fijo o sujeto a ajustes y, en este último caso, la fórmula o condición en que se hará y calculará el ajuste;
+
+VII. El porcentaje, número y fecha de las exhibiciones y amortizaciones de los anticipos que se otorguen;
+
+VIII. Forma y términos para garantizar los anticipos y el cumplimiento del contrato;
+
+IX. La fecha o plazo, lugar y condiciones de entrega;
+
+X. En el caso de arrendamiento, la indicación de si éste es con o sin opción a compra;
+
+XI. Plazo y condiciones de pago del precio de los bienes, arrendamientos o servicios, señalando el momento en que se haga exigible el mismo;
+
+XII. Las causales para la rescisión de los contratos, en los términos previstos en esta Ley;
+
+XIII. Las penas convencionales por incumplimientos;
+
+XIV. El señalamiento de las licencias, autorizaciones y permisos que conforme a otras disposiciones sea necesario contar para la adquisición o arrendamiento de bienes y prestación de los servicios correspondientes, cuando sean del conocimiento de la dependencia o entidad;
+
+XV. Los procedimientos para resolución de controversias, distintos al procedimiento de conciliación previsto en esta Ley, y
+
+XVI. Los demás aspectos y requisitos previstos en la convocatoria a la licitación e invitaciones a cuando menos tres personas, así como los relativos al tipo de contrato de que se trate.
+
 ###### Artículo 56.
 
 En la formalización y cumplimiento de los contratos deberá observarse lo siguiente:
@@ -744,6 +912,16 @@ Al recibir los bienes y servicios, el órgano usuario no podrá, bajo ningún co
 El órgano ejecutor podrá rescindir administrativamente el contrato, en caso de incumplimiento de las obligaciones a cargo del proveedor. En su caso, el saldo por amortizar del anticipo otorgado se reintegrará a los entes públicos en un plazo no mayor de diez días hábiles, contados a partir de la fecha en que le sea comunicada la rescisión al proveedor.
 
 Si el proveedor no reintegra el saldo por amortizar en el plazo señalado en el párrafo anterior, deberá pagar gastos financieros conforme a una tasa que será igual a la establecida anualmente en la ley de Ingresos del ente público, según corresponda, para los casos de prórroga en el pago de créditos fiscales.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+El procedimiento de rescisión se llevará a cabo conforme a lo siguiente:
+
+I.- Se iniciará a partir de que al proveedor le sea comunicado por escrito el incumplimiento en que haya incurrido, para que en un término de cinco días hábiles exponga lo que a su derecho convenga y aporte en su caso, las pruebas que estime pertinentes;
+
+II.- Transcurrido el término a que se refiere la fracción anterior, se resolverá considerando los argumentos y pruebas que hubiere hecho valer, y
+
+III.- La determinación de dar o no por rescindido el contrato deberá ser debidamente fundada y motivada, y se notificará formalmente al proveedor en un plazo no mayor de diez días hábiles.
 
 ###### Artículo 59.
 
@@ -789,19 +967,25 @@ V.- La garantía de cumplimiento del contrato deberá amparar la totalidad del p
 
 Los órganos ejecutores y los órganos usuarios, conservarán en forma ordenada y sistematizada toda la documentación comprobatoria de los actos y contratos relativos, cuando menos por un periodo de cinco años, contados a partir de la fecha en que los mismos fueron celebrados.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 64.
 
-Las áreas administrativas y las contralorías a que se refiere esta ley, podrán verificar en cualquier tiempo, en ejercicio de sus respectivas atribuciones, que las adquisiciones y arrendamientos de bienes muebles, así como la contratación de servicios, se realicen conforme a lo establecido en esta ley, a las disposiciones que de ella se deriven y a los programas y presupuestos de egresos autorizados. Para tal efecto, podrán solicitar a los servidores públicos y a los proveedores, los datos e informes relacionados con los actos de que se trate.
+Las áreas administrativas y los órganos internos de control a que se refiere esta ley, podrán verificar en cualquier tiempo, en ejercicio de sus respectivas atribuciones, que las adquisiciones y arrendamientos de bienes muebles, así como la contratación de servicios, se realicen conforme a lo establecido en esta ley, a las disposiciones que de ella se deriven y a los programas y presupuestos de egresos autorizados. Para tal efecto, podrán solicitar a los servidores públicos y a los proveedores, los datos e informes relacionados con los actos de que se trate.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### Artículo 65.
 
-Las áreas administrativas, así como las contralorías podrán realizar las visitas e inspecciones que estimen pertinentes a las instalaciones de los oferentes o proveedores a fin de verificar su capacidad, la calidad y especificaciones de los bienes por adquirir o adquiridos, a través de laboratorios o especialistas, y las existencias físicas disponibles.
+Las áreas administrativas, así como los órganos internos de control podrán realizar las visitas e inspecciones que estimen pertinentes a las instalaciones de los oferentes o proveedores a fin de verificar su capacidad, la calidad y especificaciones de los bienes por adquirir o adquiridos, a través de laboratorios o especialistas, y las existencias físicas disponibles.
 
 El resultado de las comprobaciones, se hará constar en un acta que será firmada por quien haya hecho la comprobación, así como por el oferente o proveedor y el representante del área respectiva, la falta de firma del proveedor no invalida el acta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 66.
 
-Las áreas administrativas y las contralorías, cuando así proceda, podrán suspender el cumplimiento de las obligaciones contractuales cuando:
+Las áreas administrativas y los órganos internos de control, cuando así proceda, podrán suspender el cumplimiento de las obligaciones contractuales cuando:
 
 I.- Se realice la investigación de los hechos a que se refiere el artículo anterior;
 
@@ -825,9 +1009,11 @@ Las actividades de recepción, guarda y suministro de los bienes adquiridos, deb
 
 Los bienes en desuso, que se encuentren deteriorados, o sin utilidad práctica, quedarán a resguardo de los almacenes por separado, hasta que se decida su utilización o destino final.
 
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 70.
 
-En los almacenes se deberán llevar a cabo inventarios mensuales por muestreo, con la finalidad de refrendar sus existencias. Los órganos usuarios deberán solicitar auditorias anuales de cierre de ejercicio y las eventuales que se consideren necesarias a la contraloría.
+En los almacenes se deberán llevar a cabo inventarios mensuales por muestreo, con la finalidad de refrendar sus existencias. Los órganos usuarios deberán solicitar auditorias anuales de cierre de ejercicio y las eventuales que se consideren necesarias al órgano interno de control.
 
 ###### Artículo 71.
 
@@ -847,13 +1033,35 @@ Los oferentes o proveedores que infrinjan las disposiciones contenidas en esta l
 
 Lo anterior, sin perjuicio de las penas convencionales pactadas en los contratos y, en su caso, del pago de los daños y perjuicios que se ocasionen a los entes públicos.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+El órgano interno de control impondrá las sanciones considerando:
+
+I. Los daños o perjuicios que se hubieren producido con motivo de la infracción;
+
+II. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
+
+III. La gravedad de la infracción, y
+
+IV. Las condiciones del infractor.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 72 Bis.
+
+Se considerará falta administrativa cuando los participantes de procedimientos de adquisiciones o licitaciones realicen reuniones, o se reúnan, previo o durante el procedimiento, para influir, intentar influir o determinar en el resultado o en los montos de las ofertas, y serán sancionados de conformidad con la ley en materia de responsabilidades administrativas.
+
+Los participantes deberán notificar cualquier reunión o relación de cualquier tipo entre ofertantes o autoridades, la falta de notificación se considerará falta administrativa.
+
 ###### Artículo 73.
 
 Los proveedores que se encuentren en el supuesto de la fracción VI del artículo 34 de esta ley, no podrán presentar propuestas, ni celebrar contratos sobre las materias objeto de la misma, durante el plazo de un año calendario, contado a partir de la fecha de rescisión del último contrato.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 74.
 
-Los proveedores que se encuentren en los supuestos de las fracciones V, VII, VIII, y IX del artículo 34 de esta ley, no podrán presentar propuestas ni celebrar contratos sobre las materias objeto de la misma, durante el plazo que establezcan las áreas administrativas o contralorías, según corresponda el cual no será menor de tres meses ni mayor de dos años, contados a partir de la fecha en que se haga del conocimiento del proveedor.
+Los proveedores que se encuentren en los supuestos de las fracciones V, VII, VIII, y IX del artículo 34 de esta ley, no podrán presentar propuestas ni celebrar contratos sobre las materias objeto de la misma, durante el plazo que establezcan las áreas administrativas o los órganos internos de control, según corresponda el cual no será menor de tres meses ni mayor de dos años, contados a partir de la fecha en que se haga del conocimiento del proveedor.
 
 ###### Artículo 75.
 
@@ -875,9 +1083,13 @@ Las sanciones administrativas a que se refiere este título, se impondrán con b
 
 Los servidores públicos, que en ejercicio de sus funciones tengan conocimiento de infracciones a esta ley, o a las disposiciones que de ella se deriven, deberán comunicarlo a las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 78.
 
-Los servidores públicos que infrinjan las disposiciones de esta ley o las que de ella se deriven, serán sancionados conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y demás disposiciones legales aplicables.
+Los servidores públicos que infrinjan las disposiciones de esta ley o las que de ella se deriven, serán sancionados conforme a lo dispuesto por la Ley en materia de responsabilidades administrativas y demás disposiciones legales aplicables.
+
+El órgano interno de control, en uso de las atribuciones que le confiere la Ley citada en el párrafo anterior, podrá abstenerse de iniciar los procedimientos previstos en ella, cuando de las investigaciones o revisiones practicadas se advierta que el acto u omisión no es grave, o no implica la probable comisión de algún delito o perjuicio patrimonial a la dependencia o entidad, o que el acto u omisión fue corregido o subsanado de manera espontánea por el servidor público o implique error manifiesto y en cualquiera de estos supuestos, los efectos que, en su caso, hubieren producido, desaparecieron o se hayan resarcido.
 
 ###### Artículo 79.
 
@@ -891,9 +1103,11 @@ Las sanciones económicas que no sean cubiertas voluntariamente, serán consider
 
 ### CAPÍTULO PRIMERO. DE LAS INCONFORMIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 81.
 
-Contra los actos emitidos en los procedimientos de contratación, que contravengan las disposiciones que rigen las materias objeto de esta ley, las personas con interés jurídico podrán inconformarse ante la contraloría.
+Contra los actos emitidos en los procedimientos de contratación, que contravengan las disposiciones que rigen las materias objeto de esta ley, las personas con interés jurídico podrán inconformarse ante el órgano interno de control.
 
 En el caso de las entidades, la inconformidad deberá presentarse ante la Contraloría del Poder Ejecutivo o del municipio, según corresponda.
 
@@ -901,27 +1115,39 @@ En el caso de las entidades, la inconformidad deberá presentarse ante la Contra
 
 La inconformidad deberá formularse por escrito y presentarse dentro de los cinco días hábiles siguientes a aquél en que se haya emitido el acto, o dentro de los diez días hábiles siguientes, cuando sea en contra del fallo de adjudicación.
 
-Transcurrido el plazo establecido en este artículo, precluye para los interesados el derecho a inconformarse, sin perjuicio de que la contraloría pueda actuar en cualquier tiempo en términos de ley.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Transcurrido el plazo establecido en este artículo, precluye para los interesados el derecho a inconformarse, sin perjuicio de que el órgano interno de control pueda actuar en cualquier tiempo en términos de ley.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+En el escrito inicial siempre que lo solicite el inconforme se decretará la suspensión de los actos del procedimiento de contratación y los que de éste deriven, y se advierta que existan o pudieren existir actos contrarios a las disposiciones de esta Ley, el órgano interno de control decidirá, en el plazo de veinticuatro horas a partir de la solicitud, sobre la suspensión y los requisitos para su efectividad.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### Artículo 83.
 
-La contraloría, en atención a la inconformidad, realizará las investigaciones correspondientes dentro de un plazo que no excederá de veinte días hábiles, contados a partir de la fecha en que se inicie y, en el propio plazo, resolverá lo conducente.
+El órgano interno de control, en atención a la inconformidad, realizará las investigaciones correspondientes dentro de un plazo que no excederá de veinte días hábiles, contados a partir de la fecha en que se inicie y, en el propio plazo, resolverá lo conducente.
 
-Los órganos ejecutores o los órganos usuarios proporcionarán a la contraloría la información que les requiera para su investigación, dentro de un plazo de cinco días hábiles, contados a partir del día siguiente de que se reciba la notificación.
+Los órganos ejecutores o los órganos usuarios proporcionarán al órgano interno de control la información que les requiera para su investigación, dentro de un plazo de cinco días hábiles, contados a partir del día siguiente de que se reciba la notificación.
 
-Una vez admitida la inconformidad, la contraloría deberá hacerla del conocimiento de terceros que pudieran resultar perjudicados, para que dentro del término a que alude el párrafo anterior, manifiesten lo a que sus intereses convengan. Transcurrido dicho término sin que el tercero perjudicado haga manifestación alguna, se tendrá por precluído su derecho.
+Una vez admitida la inconformidad, el órgano interno de control deberá hacerla del conocimiento de terceros que pudieran resultar perjudicados, para que dentro del término a que alude el párrafo anterior, manifiesten lo a que sus intereses convengan. Transcurrido dicho término sin que el tercero perjudicado haga manifestación alguna, se tendrá por precluído su derecho.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### Artículo 84.
 
-Durante la investigación de los hechos a que se refiere el artículo anterior, la contraloría podrá suspender el procedimiento de contratación, cuando:
+Durante la investigación de los hechos a que se refiere el artículo anterior, el órgano interno de control podrá suspender el procedimiento de contratación, cuando:
 
 I.- Se advierta que existen o pueden existir actos contrarios a las disposiciones de esta ley o a las que de ella se deriven; y
 
 II.- No se cause perjuicio al interés público o bien, si de continuarse el procedimiento, puedan producirse daños o perjuicios irreparables a los entes públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 85.
 
-La resolución que emita la contraloría tendrá por consecuencia:
+La resolución que emita el órgano interno de control tendrá por consecuencia:
 
 I.- La nulidad del acto o actos irregulares, estableciendo las directrices necesarias para que el mismo se reponga conforme a esta ley;
 
@@ -929,9 +1155,11 @@ II.- La nulidad total del procedimiento; o
 
 III.- La declaración de improcedencia de la inconformidad.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 86.
 
-En contra de la resolución de inconformidad que dicte la contraloría, se podrán interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de Justicia Administrativa, conforme a las disposiciones de la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
+En contra de la resolución de inconformidad que dicte el órgano interno de control, se podrán interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de Justicia Administrativa, conforme a las disposiciones de la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
 
 ###### Artículo 87.
 
@@ -939,27 +1167,35 @@ Cuando una inconformidad se resuelva como no favorable al promovente por resulta
 
 ### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE CONCILIACIÓN
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 88.
 
-Los proveedores podrán presentar quejas ante la contraloría, con motivo del incumplimiento de los términos y condiciones pactados en los contratos que tengan celebrados con las dependencias y entidades.
+Los proveedores o las dependencias y entidades podrán presentar solicitud de conciliación ante el órgano interno de control, con motivo del incumplimiento de los términos y condiciones pactados en los contratos que hayan celebrado.
 
-Una vez recibida la queja respectiva, la contraloría señalará día y hora para que tenga verificativo la audiencia de conciliación y citará a las partes. Dicha audiencia se deberá celebrar dentro de los cinco días hábiles siguientes a la fecha de recepción de la queja.
+Una vez recibida la solicitud de conciliación, el órgano interno de control señalará día y hora para que tenga verificativo la audiencia de conciliación y citará a las partes. Dicha audiencia se deberá celebrar dentro de los cinco días hábiles siguientes a la fecha de recepción de la solicitud.
 
-La asistencia a la audiencia de conciliación será obligatoria para ambas partes, por lo que la inasistencia por parte del proveedor traerá como consecuencia el tenerlo por desistido de su queja.
+La asistencia a la audiencia de conciliación será obligatoria para ambas partes, por lo que la inasistencia por parte del proveedor traerá como consecuencia tener por no presentada su solicitud.
 
 ###### Artículo 89.
 
 La conciliación deberá promover el cumplimiento del contrato y la resolución de controversias a través de los convenios que se acuerden por las partes, los que podrán, en su caso, considerarse para efectos de la solventación de observaciones de los órganos de control.
 
-En la audiencia de conciliación, la contraloría tomando en cuenta los hechos manifestados en la queja y los argumentos que hiciere valer la dependencia o entidad respectiva, determinará los elementos comunes y los puntos de controversia y exhortará a las partes para conciliar sus intereses, conforme a las disposiciones de esta ley, sin prejuzgar sobre el conflicto planteado.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
-En caso de que sea necesario, la audiencia se podrá realizar en varias sesiones. Para ello, la contraloría señalará los días y horas para que tengan verificativo. En todo caso, el procedimiento de conciliación deberá agotarse en un plazo no mayor de sesenta días hábiles contados a partir de la fecha en que se haya celebrado la primera sesión, salvo que las partes acuerden un plazo mayor, por causas debidamente justificadas.
+En la audiencia de conciliación, el órgano interno de control tomando en cuenta los hechos manifestados en la solicitud de conciliación y los argumentos que hiciere valer la dependencia o entidad respectiva, determinará los elementos comunes y los puntos de controversia y exhortará a las partes para conciliar sus intereses, conforme a las disposiciones de esta ley, sin prejuzgar sobre el conflicto planteado.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+En caso de que sea necesario, la audiencia se podrá realizar en varias sesiones. Para ello, el órgano interno de control señalará los días y horas para que tengan verificativo. En todo caso, el procedimiento de conciliación deberá agotarse en un plazo no mayor de sesenta días hábiles contados a partir de la fecha en que se haya celebrado la primera sesión, salvo que las partes acuerden un plazo mayor, por causas debidamente justificadas.
 
 De toda diligencia deberá levantarse acta circunstanciada, en la que consten los resultados de las actuaciones.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 90.
 
-En el supuesto de que las partes lleguen a una conciliación, el convenio respectivo obligará a las mismas, y su cumplimiento podrá ser demandado por la vía judicial correspondiente. En caso contrario, quedarán a salvo sus derechos, para que los hagan valer ante los tribunales locales.
+En el supuesto de que las partes lleguen a una conciliación, el convenio respectivo obligará a las mismas, y su cumplimiento podrá ser demandado por la vía judicial correspondiente. El órgano interno de control dará seguimiento a los acuerdos de voluntades para lo cual los sujetos de esta ley deberán remitir un informe sobre el avance de cumplimiento del mismo. En caso contrario, quedarán a salvo sus derechos, para que los hagan valer ante los tribunales locales.
 
 ## TRANSITORIOS
 
@@ -997,7 +1233,7 @@ DADO en la Sala de Sesiones "Lic. Benito Juárez" de este Honorable Congreso del
 
 Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic, su capital, a los dos días del mes de junio del año dos mil tres.- ANTONIO ECHEVARRÍA DOMINGUEZ.- Rúbrica.- El Secretario General de Gobierno, Adán Meza Barajas.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 13 DE DICIEMBRE DE 2003.
 
@@ -1012,3 +1248,9 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y ALMACENES DEL ESTADO DE NAYARIT".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 31 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y ALMACENES DEL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor el dieciocho de julio del dos mil diecisiete, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
