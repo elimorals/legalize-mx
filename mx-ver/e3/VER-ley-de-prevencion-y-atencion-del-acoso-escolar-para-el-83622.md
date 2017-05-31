@@ -4,7 +4,7 @@ identifier: "VER-ley-de-prevencion-y-atencion-del-acoso-escolar-para-el-83622"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-01"
-last_updated: "2016-01-08"
+last_updated: "2017-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE PREVENCIÓN Y ATENCIÓN DEL ACOSO ESCOLAR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MAYO DE 2017.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 1 de noviembre de 2011.
 
@@ -653,11 +653,11 @@ IV. Transferencia a otra escuela: Baja definitiva de la escuela donde se encuent
 
 Los directores escolares o su designado serán los responsables de aplicar, previa investigación, la sanción correspondiente.
 
-> <small>(REFORMADO, G.O. 8 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, G.O. 31 DE MAYO DE 2017)</small>
 
 ###### Artículo 46.
 
-Cuando la gravedad de la conducta de acoso escolar tuviere consecuencias penales, se procederá conforme al Plan de Intervención; y de inmediato, se dará parte a la autoridad competente.
+Cuando la gravedad de la conducta de acoso escolar tuviere consecuencias penales, y el presunto autor o cómplice sea mayor de doce años y menor de dieciocho años de edad, se procederá conforme al Plan de Intervención; y de inmediato, se dará parte a la autoridad competente para proceder conforme a lo dispuesto por la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 ### CAPÍTULO II. DE LAS SANCIONES PARA EL PERSONAL ESCOLAR
 
@@ -1004,5 +1004,13 @@ G.O. 8 DE ENERO DE 2016.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 609 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY CONTRA EL ACOSO ESCOLAR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 31 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 286 QUE REFORMA EL ARTÍCULO 46 DE LA LEY DE PREVENCIÓN Y ATENCIÓN DEL ACOSO ESCOLAR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
