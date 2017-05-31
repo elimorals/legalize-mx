@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2017-03-23"
+last_updated: "2017-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MAYO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -801,6 +801,10 @@ XXVII. De la niñez y la familia.
 
 XXVIII. Transparencia y Acceso a la Información.
 
+> <small>(ADICIONADA, G.O. 31 DE MAYO DE 2017)</small>
+
+XXIX. Población.
+
 ###### Artículo 41.
 
 Además de las señaladas en el artículo anterior, el Ayuntamiento podrá formar las Comisiones de carácter permanente o transitorias que requiera, conforme a las necesidades del servicio público. Asimismo, para su mejor prestación, podrá reasignar o reagrupar las funciones y servicios públicos señalados en el artículo 35, fracción XXV, debiendo notificarlo al Congreso del Estado.
@@ -1426,6 +1430,20 @@ V. Proponer al Cabildo, la elaboración de políticas públicas en materia de tr
 VI. Organizar eventos, foros, mesas de trabajo con el propósito de discutir y generar propuestas en materia de transparencia y Gobierno Abierto, para lo cual podrá fomentar la coordinación necesaria con universidades y organismos especializados en el tema; y
 
 VII. Lo que para tal efecto señale la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.O. 31 DE MAYO DE 2017)</small>
+
+Artículo 60 Quaterdecies. Son atribuciones de la Comisión de Población:
+
+I. Implementar acciones, lineamientos y políticas de población, que correspondan a las características culturales y valores propios de los habitantes del municipio, para la prevención de factores de riesgo:
+
+II. Fomentar entre la población una cultura demográfica y dar prioridad a programas orientados de acuerdo a problemas de población de cada localidad del municipio:
+
+III. Coadyuvar, en el ámbito de su competencia, al mejoramiento de las condiciones de vida de los habitantes del municipio, en los aspectos económico, social y cultural:
+
+IV. Identificar las necesidades de la población, con base en el análisis de las tendencias y la dinámica demográfica para mejorar la planeación de los servicios municipales; y
+
+V. Coordinarse de forma interinstitucional para la participación en programas estatales, federales e interinstitucionales que impacten en el desarrollo y bienestar de la población.
 
 ### CAPÍTULO IX. DE LOS JEFES DE MANZANA, COMISARIO MUNICIPAL Y ORGANISMOS AUXILIARES
 
@@ -3946,5 +3964,13 @@ G.O. 23 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 256 QUE ADICIONA LA FRACCIÓN XXVIII AL ARTÍCULO 40 Y EL ARTÍCULO 60 TERDECIES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 31 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 285 POR EL QUE “SE ADICIONA LA FRACCIÓN XXIX AL ARTÍCULO 40 Y EL ARTÍCULO 60 QUATERDECIES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
