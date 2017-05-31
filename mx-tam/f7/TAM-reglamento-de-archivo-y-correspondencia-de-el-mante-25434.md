@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-de-archivo-y-correspondencia-de-el-mante-25434"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-04"
-last_updated: "2002-07-04"
+last_updated: "2017-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 REGLAMENTO DEL ARCHIVO Y CORRESPONDENCIA DE EL MANTE, TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 4 de julio de 2002.
 
@@ -149,9 +149,13 @@ El incumplimiento de las obligaciones que marca este reglamento, o infracciones 
 
 Tratándose de personal administrativo, con sanción económica de hasta 15 días de su salario o suspensión de empleo hasta por 10 días, según la gravedad de la falta, o destitución de empleo, en caso de reincidencia o si la falta es grave.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 21.
 
-Tratándose de funcionarios del Ayuntamiento, con multa de 10 a 100 días de salario mínimo vigente en el municipio.
+Tratándose de funcionarios del Ayuntamiento, con multa de 10 a 100 veces el valor de la Unidad de Medida y Actualización vigente.
+
+El valor diario de la Unidad de Medida y Actualización será fijado por el Instituto Nacional de Estadística y Geografía de conformidad a lo establecido en la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 22.
 
@@ -165,9 +169,11 @@ En el mismo caso del artículo anterior, si la infracción es grave, y además s
 
 Para efecto de calificar las sanciones, deberá previamente requerirse por parte del subdirector del archivo municipal, a los funcionarios o personal administrativo de que se trate, el cumplimiento de la obligación.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 25.
 
-Los particulares que no cumplan con el registro del contrato o concesión que se les haya otorgado, serán sancionados con multa de hasta 30 días de salario mínimo vigente en la región y si persiste el incumplimiento en el registro, con la rescisión de contrato o cancelación de la concesión.
+Los particulares que no cumplan con el registro del contrato o concesión que se les haya otorgado, serán sancionados con multa de hasta 30 veces el valor diario de la Unidad de Medida y Actualización fijado por el Instituto Nacional de Estadística y Geografía de conformidad a lo establecido en la Ley respectiva; y si persiste el incumplimiento en el registro, con la rescisión de contrato o cancelación de la concesión.
 
 ### CAPITULO IV. DE LOS RECURSOS
 
@@ -184,3 +190,11 @@ APROBADO por el H. Cabildo en la Sexta Sesión de Cabildo del día 14 de febrero
 Lo que se hace constar en El Mante, Tamaulipas al día 08 de marzo del presente año. Se da fe.
 
 "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE MUNICIPAL.- C. ING. FERNANDO PEDRAZA CHAVARRI.- Rúbrica. SECRETARIO DEL R. AYUNTAMIENTO.- C. LIC. JUAN MANUEL SALDIVAR RODRÍGUEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE MAYO DE 2017.
+
+> <small>[N. DE E. TRANSITORIO POR EL QUE "SE REFORMAN LOS ARTÍCULOS 21 Y 25 DEL REGLAMENTO DE ARCHIVO Y CORRESPONDENCIA DE EL MANTE, TAMAULIPAS".]</small>
+
+ÚNICO. Las presentes reformas a disposiciones de diversos ordenamientos de la legislación municipal, en materia de desindexación del salario entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
