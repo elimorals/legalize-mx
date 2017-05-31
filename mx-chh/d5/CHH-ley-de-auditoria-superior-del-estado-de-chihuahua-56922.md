@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-auditoria-superior-del-estado-de-chihuahua-56922"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-12"
-last_updated: "2016-10-03"
+last_updated: "2017-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE AUDITORIA SUPERIOR DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE AUDITORÍA SUPERIOR DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 12 de septiembre de 2007.
 
@@ -187,19 +189,13 @@ XX. Expedir los manuales para la práctica de la auditoría y las actividades de
 
 XXI. Elaborar su Reglamento; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2015)</small>
 
 XXII. Diseñar e implementar el sistema de entrega-recepción en los términos de la ley de la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2015)</small>
 
 XXIII. Intervenir en los supuestos y formas señalados en la Ley de Entrega-Recepción para el Estado de Chihuahua.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2015)</small>
 
@@ -207,11 +203,13 @@ XXIV. Las demás que expresamente le señalen la Constitución Política del Est
 
 ### CAPÍTULO II. DE LA ESTRUCTURA
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 8.
 
-Al frente de la Auditoría Superior habrá un Auditor Superior, quien será nombrado por el Congreso, a propuesta de la Junta de Coordinación Parlamentaria, mediante el voto de las dos terceras partes del total de los diputados presentes de la Legislatura.
+Al frente de la Auditoría Superior habrá un Auditor Superior, quien será nombrado por el Congreso, a propuesta de la Junta de Coordinación Política, mediante el voto de las dos terceras partes de los diputados presentes de la Legislatura.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2009)</small>
 
 El Auditor Superior durará en su cargo siete años contados a partir de que asuma su función y sólo será separado de su cargo por las causas graves previstas en esta Ley, mediando la misma votación requerida para su nombramiento.
 
@@ -245,17 +243,27 @@ El desempeño del cargo de Auditor Superior es incompatible con cualquier otro e
 
 El Auditor Superior será designado de acuerdo a lo dispuesto por el artículo 64, fracción XLIV de la Constitución Política del Estado, y conforme al procedimiento siguiente:
 
-I. La Junta de Coordinación Parlamentaria formulará la convocatoria correspondiente, a efecto de recibir, durante un período de diez días hábiles contados a partir de la fecha de su publicación, las solicitudes para ocupar el cargo de Auditor Superior;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-II. Concluido el plazo anterior, dentro de los tres días hábiles siguientes, la Junta de Coordinación Parlamentaria procederá a la revisión y análisis de las solicitudes para determinar cuáles de éstas cumplen con los requisitos contenidos en la convocatoria;
+I. La Junta de Coordinación Política formulará la convocatoria correspondiente, a efecto de recibir, durante un periodo de diez días hábiles contados a partir de la fecha de su publicación, las solicitudes para ocupar el cargo de Auditor Superior;
 
-III. Agotado el plazo señalado en la fracción anterior, dentro de los diez días hábiles siguientes, la Junta de Coordinación Parlamentaria entrevistará a cada uno de los aspirantes que cumplan con los requisitos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-IV. Con base en la evaluación de la documentación y del resultado de las entrevistas, la Junta de Coordinación Parlamentaria procederá a emitir, en un plazo que no excederá de tres días hábiles, el dictamen sobre la terna que deberá presentarse al Pleno Legislativo;
+II. Concluido el plazo anterior, dentro de los tres días hábiles siguientes, la Junta de Coordinación Política procederá a la revisión y análisis de las solicitudes para determinar cuáles de éstas cumplen con los requisitos contenidos en la convocatoria;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+III. Agotado el plazo señalando (sic) en la fracción anterior, dentro de los diez días hábiles siguientes, la Junta de Coordinación Política entrevistará a cada uno de los aspirantes que cumplan con los requisitos;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+IV. Con base en la evaluación de la documentación y del resultado de las entrevistas, la Junta de Coordinación Política procederá a emitir, en un plazo que no excederá de tres días hábiles, el dictamen sobre la terna que deberá presentarse al Pleno Legislativo;
 
 V. El Congreso elegirá de entre los integrantes de la terna, mediante la votación de las dos terceras partes, a quien deba desempeñar el cargo de Auditor Superior; y
 
-VI. Si ninguno de los propuestos recibiera la votación requerida, la Junta de Coordinación Parlamentaria formulará nuevamente una terna, que será sometida a consideración del Pleno de la Asamblea Legislativa.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VI. Si ninguno de los propuestos recibiera la votación requerida, la Junta de Coordinación Política formulará nuevamente una terna, que será sometida a consideración del Pleno de la Asamblea Legislativa.
 
 ###### ARTÍCULO 11.
 
@@ -902,3 +910,11 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 31 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0320/2017 II P.O., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 8 PRIMER PÁRRAFO, Y 10 FRACCIONES I, II, III, IV Y VI DE LA LEY DE AUDITORÍA SUPERIOR DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
