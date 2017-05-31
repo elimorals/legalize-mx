@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-electoral-del-estado-de-san-luis-potosi-101758"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2014-06-30"
+last_updated: "2017-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUSTICIA ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 30 de junio de 2014.
 
@@ -83,7 +83,9 @@ VII. Medios de Impugnación o Recursos. Los previstos en el artículo 27 de esta
 
 VIII. Procesos Electorales. Los que tengan por objeto la renovación de los poderes, Legislativo, y Ejecutivo del Estado; así como la integración de los ayuntamientos;
 
-IX. Sala. La Sala del Tribunal Electoral del Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+IX. Sala. El Tribunal Electoral del Estado de San Luis Potosí;
 
 X. Tribunal Electoral. El Tribunal Electoral del Estado de San Luis Potosí.
 
@@ -387,9 +389,21 @@ El sistema de medios de impugnación se integra por:
 
 I. El Recurso de Revocación;
 
-II. El Recurso de Revisión, y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-III. El Juicio de Nulidad Electoral.
+II. El Recurso de Revisión;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+III. El Juicio de Nulidad Electoral;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+IV. El Recurso de Reconsideración, y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+V. Juicio para la Protección de los Derechos Políticos del Ciudadano.
 
 ###### ARTÍCULO 28.
 
@@ -397,7 +411,9 @@ La competencia para resolver de los medios de impugnación previstos en el artí
 
 I. El Consejo Estatal, la Comisión Distrital, o el Comité Municipal Electoral que haya emitido el acto o resolución impugnados, conocerá del Recurso de Revocación en los términos que prevé el artículo 61 de esta Ley, y
 
-II. La Sala del Tribunal Electoral conocerán de, los Recursos de Revisión, y de los Juicios de Nulidad Electoral.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+II. La Sala conocerá de los Recursos de Revisión, y de los Juicios de Nulidad Electoral, los recursos de Reconsideración y los Juicios para la Protección de los Derechos Políticos del Ciudadano.
 
 ###### ARTÍCULO 29.
 
@@ -786,6 +802,10 @@ Si la autoridad responsable incumple con cualquiera de las obligaciones prevista
 ###### ARTÍCULO 55.
 
 El Tribunal Electoral en los asuntos de su competencia, podrá requerir a las autoridades federales, estatales y municipales, así como a los partidos políticos, candidatos, agrupaciones, organizaciones políticas y particulares, cualquier elemento o documentación que obrando en su poder, pueda servir para la sustanciación y resolución de los medios de impugnación. Asimismo, en casos extraordinarios, podrán ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre que ello no signifique una dilación que haga jurídica o materialmente irreparable la violación reclamada, o sea un obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Los requerimientos y diligencias a que se refiere este artículo, sólo se ordenarán para el conocimiento de la verdad de los puntos cuestionados y, en ningún caso, podrán alterar o variar la litis planteada ni mejorarán o modificarán el acto impugnado.
 
 ### Capítulo X. De las Resoluciones
 
@@ -1207,6 +1227,122 @@ El incidente de nuevo cómputo debe resolverse en forma previa al dictado de la 
 
 Para el recuento de votos de una elección, el Tribunal Electoral del Estado dispondrá las medidas necesarias para estar en condiciones materiales de efectuarla, pudiendo, quien las presida, tomar los acuerdos que el caso amerite. El Tribunal Electoral proveerá los recursos humanos y materiales para cumplir con los fines de la ley.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE MAYO DE 2017)</small>
+
+### Capítulo V. Del Recurso de Reconsideración
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE MAYO DE 2017)</small>
+
+#### Sección Primera. Del Objeto y de la Procedencia
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO 94.
+
+Procede el recurso de reconsideración contra los autos y providencias dictadas por la Sala, previas al dictado de la sentencia y que causen un perjuicio a quien teniendo interés jurídico lo promueva.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE MAYO DE 2017)</small>
+
+#### Sección Segunda. De la Legitimación
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO 95.
+
+Podrán interponer el recurso de reconsideración, las partes en los procedimientos de que conozca la Sala, por causarle agravio el auto, providencia o acto a impugnar.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE MAYO DE 2017)</small>
+
+#### Sección Tercera. Del Trámite y de la Resolución
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO 96.
+
+El presente medio de impugnación deberá de presentarse dentro de las veinticuatro horas siguientes a partir de que tenga conocimiento del auto o resolución impugnado, o se hubiere notificado, debiendo hacer valer los agravios correspondientes.
+
+Una vez recibido, el Magistrado instructor tramitará, dando vista con el mismo al tercero interesado si lo hubiere, quien tendrá veinticuatro horas para hacer valer lo que a su derecho corresponda; con o sin contestación, el pleno del Tribunal lo resolverá dentro de las cuarenta y ocho horas siguientes.
+
+Las resoluciones que recaigan a los recursos de reconsideración tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnado.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE MAYO DE 2017)</small>
+
+### Capítulo VI. Del Juicio para la Protección de los Derechos Políticos del Ciudadano
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE MAYO DE 2017)</small>
+
+#### Sección Primera. Del Objeto y de la Procedencia
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO 97.
+
+El juicio para la protección de los derechos del ciudadano, sólo procederá cuando el ciudadano por sí mismo y en forma individual, o a través de sus representantes legales, haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones constitucionales, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos, y de afiliarse libre e individualmente a los partidos políticos estatales.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE MAYO DE 2017)</small>
+
+#### Sección Segunda. De la Legitimación
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO 98.
+
+El juicio podrá ser promovido por el ciudadano cuando:
+
+I. Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un partido político o coalición, le sea negado indebidamente su registro como candidato a un cargo de elección popular. Si también el partido político interpuso recurso de revisión, por la negativa del mismo registro, el Consejo General del Instituto, a solicitud del Tribunal de Justicia Electoral, remitirá el expediente para que sea resuelto por éste, a la par del juicio promovido por el ciudadano;
+
+II. Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político estatal;
+
+III. Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de sus derechos político-electorales, y
+
+IV. Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político-electorales. Lo anterior es aplicable a los precandidatos y candidatos a cargos de elección popular, aún cuando no estén afiliados al partido político estatal señalado como responsable.
+
+El juicio sólo será procedente, cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
+
+En los casos previstos en el párrafo primero de la fracción IV de este artículo, el ciudadano deberá haber agotado, previamente, las instancias de solución de conflictos previstas en las normas internas del partido de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al ciudadano.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO 99.
+
+Cuando por causa de inelegibilidad de los candidatos, los consejos electorales respectivos determinen no otorgar o revocar la constancia de mayoría o de asignación respectiva, el candidato agraviado sólo podrá impugnar dichos actos o resoluciones a través del juicio correspondiente, en la forma y términos previstos en la presente Ley.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE MAYO DE 2017)</small>
+
+#### Sección Tercera. Del Trámite y de la Resolución
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO 100.
+
+Para tramitar, sustanciar y resolver el presente medio de impugnación, se aplicarán las reglas establecidas en el Título Segundo del Libro Segundo de esta Ley, y serán resueltos por la Sala dentro de los doce días siguientes a aquél en que se admitan.
+
+En el caso en que la autoridad responsable se negare a recibir el medio de defensa, el ciudadano afectado podrá presentarlo de manera directa ante la Sala, quien deberá requerir a la autoridad responsable por su informe.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO 101.
+
+Las sentencias que resuelvan el fondo del juicio para la protección de los derechos del ciudadano, serán definitivas y podrán tener los efectos siguientes:
+
+I. Confirmar el acto o resolución impugnado, y
+
+II. Revocar o modificar el acto o resolución impugnado y restituir al promovente en el uso y goce del derecho político-electoral que le haya sido violado.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE MAYO DE 2017)</small>
+
+#### Sección cuarta. De las notificaciones
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO 102.
+
+Las sentencias recaídas a los juicios para la protección de los derechos del ciudadano serán notificadas:
+
+I. Al actor que promovió el juicio y, en su caso, a los terceros interesados, a más tardar dentro de los dos días siguientes al en que se dictó la sentencia, personalmente, siempre y cuando haya señalado domicilio ubicado en el Estado de San Luis Potosí. En cualquier otro caso, la notificación se hará por correo certificado, por telegrama o por estrados, y
+
+II. A la autoridad u órgano partidista responsable, a más tardar dentro de los dos días siguientes al que se dictó la sentencia, por oficio, acompañado de la copia certificada de la sentencia.
+
 ## TRANSITORIOS
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -1252,3 +1388,13 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0653.- REFORMAS Y ADICIONES A LA LEY ELECTORAL DEL ESTADO; SE REFORMA EL ARTÍCULO 14, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMA Y ADICIONA LA LEY DE JUSTICIA ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
