@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-transporte-transito-y-vialidad-del-estado-de-96734"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-20"
-last_updated: "2016-08-06"
+last_updated: "2017-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE TRANSPORTE, TRÁNSITO Y VIALIDAD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 20 de noviembre de 2013.
 
@@ -61,21 +61,27 @@ II. Concesionario: Al Titular de los derechos de una concesión para explotar el
 
 III. Consejo Estatal: Consejo Estatal de Tránsito y Transporte;
 
-IV. El Secretario General: Al Secretario General de Gobierno del Estado;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-V. El Secretario de Seguridad: Al Secretario de Seguridad Pública del Estado;
+IV. La Secretaría General: A la Secretaría General de Gobierno del Estado;
 
-VI. El Director: Al Director de Transporte, Tránsito y Vialidad;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+V. La Secretaría de Seguridad: A la Secretaría de Seguridad Pública del Gobierno del Estado;
+
+VI. (DEROGADA, P.O. 31 DE MAYO DE 2017)
 
 VII. Gobernador: Al Titular del Poder Ejecutivo del Estado de Zacatecas;
 
-VIII. La Dirección: A la Dirección de Transporte, Tránsito y Vialidad dependiente de la Secretaría de Seguridad Pública del Estado;
+VIII. (DEROGADA, P.O. 31 DE MAYO DE 2017)
 
-IX. La Policía Preventiva de Tránsito del Estado: Al cuerpo de policía a cargo de la Dirección, facultado para infraccionar, ejecutar las labores de vialidad, control y vigilancia de tránsito así como la seguridad peatonal;
+IX. (DEROGADA, P.O. 31 DE MAYO DE 2017)
 
 X. Ley: A la presente Ley de Transporte, Tránsito y Vialidad del Estado de Zacatecas;
 
-XI. Licencia de conducir: Al documento expedido por la Dirección a fin de certificar que el conductor, tiene la capacidad física, los conocimientos y la habilidad necesaria para operar vehículos automotores;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XI. Licencia de conducir: Al documento expedido por la Secretaría de Seguridad a fin de certificar que el conductor, tiene la capacidad física, los conocimientos y la habilidad necesaria para operar vehículos automotores;
 
 XII. Operador: La persona que tenga una concesión de transporte público o que sea trabajador del mismo;
 
@@ -105,25 +111,41 @@ c) Las carreteras, caminos o calles construidos por los particulares con sus rec
 
 d) Las avenidas, calles, calzadas, paseos, plazas, puentes peatonales y demás lugares de tránsito público.
 
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XXII. Auxiliar vial.
+
 ###### ARTÍCULO 3.
 
 El Gobernador es la máxima autoridad facultada para decretar y ordenar la aplicación de las medidas que considere pertinentes para la ejecución de esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 4.
 
-Corresponde al Gobernador, a través de la Secretaría General de Gobierno, aprobar los planes, organizar y administrar el régimen de concesiones y la prestación del servicio público de transporte, en las modalidades que señale la Ley y sus reglamentos.
+Corresponde al Gobernador, a través de la Secretaría General, aprobar los planes, organizar y administrar el régimen de concesiones y la prestación del servicio público de transporte, en las modalidades que señale la Ley y sus reglamentos.
 
 ###### ARTÍCULO 5.
 
-La Policía Preventiva de Tránsito del Estado deberá observar las normas, directrices y disposiciones que en materia de seguridad pública determine la Secretaría de Seguridad Pública, así como los ordenamientos Federales y Estatales aplicables en la materia, que regulan el ingreso, permanencia, promoción y remoción de los elementos de las corporaciones policiales.
+(DEROGADO, P.O. 31 DE MAYO DE 2017)
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 6.
 
-La Dirección y las autoridades competentes en la materia, deberán garantizar a los usuarios discapacitados, espacios en los vehículos del servicio público de transporte, asimismo el respeto a los lugares destinados para el estacionamiento, los destinados al ascenso y descenso de las unidades del servicio público de transporte.
+La Secretaría General garantizará espacios en los vehículos del servicio público de transporte a los usuarios que sean personas con discapacidad, las mujeres gestantes y los adultos mayores.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO 6 Bis.
+
+La Secretaría de Seguridad vigilará que se respeten los lugares destinados para el estacionamiento de vehículos que transporten personas con discapacidad, mujeres gestantes y adultos mayores, así como los destinados para el ascenso y descenso de las unidades del servicio público de transporte.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 7.
 
-En materia de operativos policiales, la Policía Preventiva de Tránsito del Estado se coordinará con las corporaciones estatales y federales de acuerdo a los lineamientos y directrices de la Secretaría de Seguridad.
+En materia de operativos policiales, la Secretaría de Seguridad se coordinará con las corporaciones municipales, estatales y federales de acuerdo a los lineamientos y directrices que para el efecto se emitan.
 
 ###### ARTÍCULO 8.
 
@@ -137,21 +159,31 @@ Compete la aplicación de la presente Ley a las siguientes autoridades:
 
 I. Al Gobernador;
 
-II. Al Secretario General;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-III. Al Secretario de Finanzas;
+II. A la Secretaría General;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+III. A la Secretaría de Finanzas;
 
 IV. A los Recaudadores de Rentas que dependan de la Secretaría de Finanzas;
 
-V. Al Secretario de Seguridad Pública;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-VI. Al Secretario de Economía;
+V. A la Secretaría de Seguridad;
 
-VII. Al Secretario de Agua y Medio Ambiente;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-VIII. Al Director de Transporte Público, Tránsito y Vialidad;
+VI. A la Secretaría de Economía;
 
-IX. A la Policía Preventiva de Tránsito del Estado, y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VII. A la Secretaría del Agua y Medio Ambiente;
+
+VIII. (DEROGADA, P.O. 31 DE MAYO DE 2017)
+
+IX. (DEROGADA, P.O. 31 DE MAYO DE 2017)
 
 X. A los Ayuntamientos.
 
@@ -165,11 +197,15 @@ II. La Policía Estatal;
 
 III. La Policía Preventiva de los Municipios;
 
-IV. El Instituto Zacatecano de Ciencias Forenses de la Procuraduría General de Justicia del Estado y el personal dependiente del mismo;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+IV. El Instituto Zacatecano de Ciencias Forenses de la Fiscalía General de Justicia del Estado y el personal dependiente del mismo;
 
 V. El Consejo Estatal, y
 
-VI. La Secretaría de Infraestructura.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VI. La Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial.
 
 ###### ARTÍCULO 11.
 
@@ -177,15 +213,19 @@ Son atribuciones del Gobernador:
 
 I. Reglamentar, instituir, organizar y controlar el financiamiento del Registro;
 
-II. Coordinar y ejercer el mando supremo de las policías incluyendo a la Policía Preventiva de Tránsito del Estado, conforme a lo dispuesto por la Constitución Política del Estado, organizarlas y movilizarlas conforme a las necesidades y requerimientos que demande el interés público;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+II. Coordinar y ejercer el mando supremo de las instituciones policiales, incluidas las encargadas del tránsito y la seguridad vial, con base en lo dispuesto por la Constitución Política del Estado, organizarlas y movilizarlas conforme a las necesidades y requerimientos que demande el interés público;
 
 III. Celebrar convenios de coordinación en materia de tránsito de vehículos y transporte público con las otras entidades federativas y municipios del Estado;
 
-IV. Designar y remover al Director de Transporte, Tránsito y Vialidad;
+IV. (DEROGADA, P.O. 31 DE MAYO DE 2017)
 
 V. Convocar a concurso para el otorgamiento de concesiones sobre la prestación del servicio público de transporte en cualquiera de sus modalidades;
 
-VI. Presidir, cuando lo estime necesario, las Sesiones del Consejo Estatal;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VI. Participar en las Sesiones del Consejo Estatal, cuando así lo estime necesario;
 
 VII. Con base en la Ley, otorgar, cancelar, modificar, autorizar la transmisión, suspender o revocar las concesiones de explotación del servicio público de transporte en cualquiera de sus modalidades;
 
@@ -201,7 +241,9 @@ XII. Establecer las medidas necesarias para evitar que en la prestación del ser
 
 XIII. Promover la más amplia participación ciudadana que sea posible en el análisis y propuestas de solución de los problemas de tránsito y transporte. También, instituir mecanismos de consulta popular para mejorar el servicio público de transporte;
 
-XIV. Impulsar que en el servicio público de transporte de pasajeros se destinen espacios para personas discapacitadas, personas adultas mayores y mujeres gestantes;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XIV. Impulsar que en el servicio público de transporte de pasajeros se destinen espacios para personas con discapacidad, personas adultas mayores y mujeres gestantes;
 
 XV. Otorgar concesiones o permisos experimentales de arrastre, guarda y custodia de vehículos, así como autorizar las tarifas correspondientes;
 
@@ -209,7 +251,9 @@ XVI. Aprobar las nuevas modalidades del servicio público de transporte, derivad
 
 XVII. Ordenar la inspección y vigilancia necesarias a fin de que las concesiones y permisos experimentales cumplan con las óptimas condiciones de higiene, comodidad y seguridad en la prestación del servicio público de transporte;
 
-XVIII. Promover e impulsar los programas tendientes a la profesionalización del personal de tránsito y seguridad pública y, en su caso, coadyuvar con las instituciones que pretendan dicho propósito;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XVIII. Promover e impulsar los programas tendientes a la profesionalización el (sic) personal de tránsito y seguridad vial y, en su caso, coadyuvar con las instituciones que pretendan dicho propósito;
 
 XIX. Decretar, provisional o definitivamente, la intervención del Estado en la prestación de los servicios públicos de transporte, cuando así lo exija el interés social;
 
@@ -219,9 +263,11 @@ XXI. Aprobar los Planes y su instrumentación en las zonas urbanas o conurbadas 
 
 XXII. Las demás que expresa o tácitamente le otorga la presente Ley y otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 12.
 
-Son atribuciones del Secretario General:
+Son atribuciones de la Secretaría General:
 
 I. Auxiliar al Gobernador en el cumplimiento de las atribuciones que la Ley le señale en materia de transporte;
 
@@ -237,19 +283,81 @@ VI. Proponer al Gobernador los dictámenes de procedencia, conforme a esta Ley, 
 
 VII. Tramitar los procedimientos que en la materia, le corresponda resolver al Gobernador y presentar a éste los proyectos de resolución correspondientes;
 
-VIII. Instruir el procedimiento para otorgar concesiones en materia de transporte público;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VIII. Recibir, tramitar e instruir el procedimiento para el otorgamiento, modificación, renovación, transmisión, suspensión, revocación y cancelación de concesiones y permisos experimentales del servicio público de transporte;
 
 IX. Proponer al Gobernador los acuerdos administrativos para la suspensión y revocación de las concesiones del servicio público de transporte, y
 
-X. Las demás que señale esta Ley.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+X. Organizar, controlar y vigilar el servicio público de transporte en el Estado, con las pautas generales que señale el Gobernador;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XI. Participar, en coordinación con la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial, en la elaboración y actualización de los Planes;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XII. Realizar los estudios necesarios para adecuar el servicio público de transporte de acuerdo con las necesidades sociales;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XIII. Organizar programas de aplicación permanente de:
+
+a) Capacitación, profesionalización y actualización de conocimiento de los conductores de vehículos del servicio público de transporte;
+
+b) Transparencia, rendición de cuentas y combate a la corrupción dentro de los procedimientos para el otorgamiento, modificación, renovación, transmisión, suspensión, revocación o cancelación de concesiones y permisos experimentales de transporte público;
+
+c) Preservación del medio ambiente en la prestación del servicio público del transporte a través del fomento de tecnologías y fuentes de energía alternativas en colaboración con la Secretaría del Agua y Medio Ambiente y la Secretaría de Economía, y
+
+d) Respeto a los derechos de los niños, adultos mayores, mujeres gestantes y personas con discapacidad para acceder al servicio público de transporte;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XIV. Imponer las sanciones aplicables a los infractores de esta Ley y los reglamentos que deriven de las atribuciones que la misma otorga, dentro del ámbito de su competencia.
+
+Para efectos de lo dispuesto en esta fracción, los mencionados reglamentos precisarán los servidores públicos que puedan ejercer la facultad sancionadora;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XV. Actuar como árbitro o mediador en los conflictos que se susciten entre los concesionarios y permisionarios del transporte público, cuando unos u otros lo soliciten por escrito; pero en caso de no ser posible llegar a un acuerdo conciliatorio, proceder con apego estricto a lo ordenado por la Ley y sus reglamentos;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XVI. Con la aprobación del Gobernador, expedir el Manual de Organización y Procedimientos, los acuerdos y circulares de carácter interno en materia de servicio público de transporte.
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XVII. Determinar los exámenes médicos y de conocimientos en la materia a que deban sujetarse el conductor de un vehículo del servicio público de transporte, así como el procedimiento para ser acreditado;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XVIII. Vigilar la estricta observancia de las tarifas del servicio público de transporte;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XIX. Vigilar y evitar prácticas monopólicas o de competencia desleal en el transporte público;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XX. Fungir como instancia conciliadora en los conflictos que se generen entre concesionarios y particulares, derivados de la prestación del servicio, y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XXI. Las demás que le atribuyan la presente Ley y sus reglamentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 13.
 
-Son atribuciones del Secretario de Finanzas:
+Son atribuciones de la Secretaría de Finanzas:
 
 I. Expedir placas, tarjetas, calcomanías y demás signos de identificación que por la naturaleza de los vehículos y condiciones de prestación de los servicios, se consideren necesarios;
 
-II. Controlar el Registro de vehículos dados de alta en el Estado y mantenerlo actualizado, en coordinación con la Dirección;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+II. Controlar el Registro de vehículos dados de alta en el Estado y mantenerlo actualizado, en coordinación con la Secretaría de Seguridad;
 
 III. Diseñar y emitir los formatos para el control vehicular, conforme a los lineamientos y normas correspondientes;
 
@@ -257,13 +365,19 @@ IV. Recaudar los diversos conceptos tributarios que deberán cubrir las personas
 
 V. Las demás que establezca la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 14.
 
-Son atribuciones del Secretario de Seguridad Pública:
+Son atribuciones de la Secretaría de Seguridad:
 
-I. Garantizar el libre tránsito y la seguridad de las personas;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-II. Coordinar y ejercer el mando de la Policía Preventiva de Tránsito del Estado cuando así lo determine el Gobernador. Organizarla y movilizarla, conforme a las necesidades y requerimientos del interés público;
+I. Planear, organizar, controlar y vigilar el tránsito y la seguridad vial dentro del Estado para garantizar el libre tránsito y la seguridad de las personas;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+II. Coordinar y ejercer el mando de la institución policial encargada del tránsito y la seguridad vial en el Estado, para organizarla y movilizarla, conforme a las necesidades y requerimientos del interés público, sin menoscabo de las atribuciones de mando supremo de las instituciones policiales que ejerza el Gobernador del Estado;
 
 III. Fijar y conducir las políticas públicas en materia de tránsito y vialidad y vigilar el cumplimiento de la presente Ley en su respectiva competencia;
 
@@ -271,97 +385,139 @@ IV. Promover programas de educación vial y prevención de hechos de tránsito;
 
 V. Garantizar la seguridad de las personas que utilicen la vialidad a fin de manifestar sus ideas, demandas o peticiones ante la autoridad competente, y
 
-VI. Establecer programas y lineamientos de acuerdo con las normas estatales y federales aplicables al ingreso, permanencia, promoción, profesionalización, cese o remoción de los integrantes de la Policía Preventiva de Tránsito del Estado.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VI. Establecer programas y lineamientos de acuerdo con las normas estatales y federales aplicables al ingreso, permanencia, promoción, profesionalización, cese o remoción de los integrantes de la corporación de policía encargada del tránsito y la seguridad vial del Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VII. Vigilar el estricto cumplimiento de esta Ley, sus reglamentos y demás disposiciones legales relacionadas;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VIII. Participar, en coordinación con la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial, en la elaboración y actualización de los Planes;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+IX. Realizar los estudios necesarios para mejorar el tránsito y la seguridad vial de acuerdo con las necesidades sociales;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+X. Instrumentar en coordinación con otras dependencias y con los Municipios, programas y campañas permanentes de:
+
+a) Capacitación, profesionalización y actualización de conocimiento del personal bajo su mando;
+
+b) Transparencia, rendición de cuentas y combate a la corrupción en las unidades administrativas, corporaciones y los elementos de policía encargados del tránsito y la seguridad vial;
+
+c) Educación vial y cortesía urbana;
+
+d) Prevención de hechos de tránsito y medidas de seguridad vial;
+
+e) Preservación del medio ambiente en materia de tránsito y vialidad; y
+
+f) Respeto a los derechos de los niños, adultos mayores, mujeres gestantes y personas con discapacidad, incluyendo las medidas de infraestructura vial que permitan hacer efectivos tales derechos;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XI. Proponer a las instancias correspondientes, alternativas que permitan una mejor utilización de las vías públicas, agilizar el tránsito de las mismas y disminuir los índices de contaminación ambiental producidos por el tránsito de vehículos;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XII. Expedir licencias para el manejo de vehículos;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XIII. Imponer las sanciones aplicables a los infractores de esta Ley y los reglamentos que deriven de las atribuciones que la misma otorga, dentro del ámbito de su competencia.
+
+Para efectos de lo dispuesto en esta fracción, los mencionados reglamentos precisarán los servidores públicos que puedan ejercer la facultad sancionadora;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XIV. Con la aprobación del Gobernador, expedir el Manual de Organización y Procedimientos, los acuerdos y circulares de carácter interno respecto a las atribuciones que esta Ley y los reglamentos le otorgan;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XV. Imponer y aplicar las correcciones disciplinarias al personal operativo, que infrinja las disposiciones contenidas en la presente Ley, sus reglamentos y normas de aplicación general a todas las instituciones policiales del Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XVI. Poner a disposición de las autoridades competentes, a los conductores, vehículos y objetos, cuando de los hechos se considere que se ha cometido un delito;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XVII. Establecer los operativos de prevención de hechos de tránsito, en puntos aleatorios en las vialidades;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XVIII. Operar y alimentar una base de datos en relación con los hechos de tránsito, infracciones a la Ley y a los reglamentos de conductores de vehículos;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XIX. Ejecutar medidas necesarias para el correcto y eficaz desarrollo de sus funciones;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XX. Ejecutar acciones tendientes al mejoramiento del tránsito y la seguridad vial;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XXI. Ejecutar las resoluciones que emita el Consejo de Honor y Justicia de las Instituciones Policiales del Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XXII. Colocar, conservar y mejorar el sistema de señales preventivas, restrictivas, informativas y dispositivos de control, de acuerdo con la utilidad de cada vía, las necesidades de cada centro de población y la afluencia vehicular;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XXIII. Expedir permisos de carga y descarga, para conducir sin placas o sin tarjeta de circulación, de placas para demostración de vehículos nuevos y los demás que establezcan los reglamentos para garantizar el libre tránsito y la seguridad vial; y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XXIV. Las demás que le atribuyan la presente Ley y sus reglamentos.
 
 ###### ARTÍCULO 15.
 
-Son atribuciones del Director de Transporte Público y Vialidad:
+(DEROGADO, P.O. 31 DE MAYO DE 2017)
 
-I. Vigilar el estricto cumplimiento de esta Ley, sus reglamentos y demás disposiciones legales relacionadas;
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
 
-II. Organizar, controlar y vigilar el servicio público de Transporte en el Estado, con las pautas generales que señale el Gobernador;
+ARTÍCULO 15 bis.- El ejercicio de las facultades conferidas en esta Ley a la Secretaría de Seguridad, la Secretaría General y la Secretaría de Finanzas, podrán delegarse a las áreas administrativas que se establezcan en el o los reglamentos que para tal efecto expida el Poder Ejecutivo del Estado.
 
-III. Participar en coordinación con la Secretaría de Infraestructura, en la elaboración y actualización de los Planes;
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
 
-IV. Ejercer el mando operativo y administrativo de la Dirección y su Policía;
+ARTÍCULO 15 ter.- Las autoridades señaladas en esta Ley podrán celebrar los convenios de colaboración necesarios para el adecuado y eficaz cumplimiento de sus respectivas atribuciones.
 
-V. Realizar los estudios necesarios para adecuar los servicios públicos de tránsito, transporte y vialidad a las necesidades sociales;
-
-VI. Organizar programas de aplicación permanente de:
-
-a) Capacitación, profesionalización y actualización de conocimiento del personal bajo su mando y de los conductores de vehículos del servicio público de transporte;
-
-b) Erradicación y lucha contra la corrupción;
-
-c) Educación vial;
-
-d) Preservación del medio ambiente, y
-
-e) Respeto a los derechos de los niños, adultos mayores, mujeres gestantes y discapacitados, incluyendo las medidas de infraestructura urbana que permita hacer efectivos tales derechos;
-
-VII. Proponer a las instancias correspondientes, alternativas que permitan una mejor utilización de las vías públicas, agilizar el tránsito de las mismas y disminuir los índices de contaminación ambiental;
-
-VIII. Instrumentar en coordinación con otras dependencias y con los Municipios, programas y campañas permanentes de educación vial, cortesía urbana, prevención de hechos de tránsito, a través de la formación de una conciencia social de los problemas viales;
-
-IX Recibir y tramitar el otorgamiento, modificación, renovación, transmisión, suspensión, revocación y cancelación de concesiones y permisos experimentales del servicio público de transporte;
-
-X. Organizar el tránsito de personas, vehículos y semovientes en las vías públicas de jurisdicción estatal;
-
-XI. Expedir licencias para manejar, autorizaciones y auxiliar en el trámite de los permisos experimentales;
-
-XII. Proponer al Gobernador, por conducto del Secretario General, las medidas necesarias para el óptimo servicio público de transporte;
-
-XIII. Imponer las sanciones aplicables a los infractores de esta Ley y sus reglamentos;
-
-XIV. Actuar como árbitro o mediador en los conflictos que se susciten entre los concesionarios y permisionarios del transporte público, cuando unos u otros lo soliciten por escrito, pero, en caso de no ser posible llegar a un acuerdo conciliatorio, proceder con apego estricto a lo ordenado por la Ley y sus reglamentos;
-
-XV. Con la aprobación del Gobernador, expedir el Manual de Organización y Procedimiento y los acuerdos y circulares de carácter interno;
-
-XVI. Con acuerdo del Gobernador y en coordinación con la Secretaría General de Gobierno, instrumentar los concursos para el otorgamiento de concesiones y permisos experimentales para la prestación del servicio público de transporte, cuando habiendo existido estudios socioeconómicos que lo justifiquen, se requiera aumentar aquellas o cubrir las vacantes respectivas;
-
-XVII. Imponer y aplicar las correcciones disciplinarias al personal operativo, que infrinjan las disposiciones contenidas en la presente Ley, sus reglamentos y normas de aplicación general a todas las corporaciones del Estado;
-
-XVIII. Poner a disposición de las autoridades competentes, a los conductores, vehículos y objetos, cuando de los hechos se considere que se ha cometido un delito;
-
-XIX. Establecer los operativos de prevención de hechos de tránsito, en puntos aleatorios en las vialidades;
-
-XX. Alimentar la base de datos en relación a los hechos de tránsito, infracciones a la Ley y a los reglamentos de conductores del transporte público y privado, operado por la Secretaría de de (sic) Seguridad Pública;
-
-XXI. Planear y coordinar el tránsito y la vialidad en las vías públicas, ejecutando acciones tendientes a su mejoramiento;
-
-XXII. Ejecutar las resoluciones que emita el Consejo de Honor y Justicia;
-
-XIII. Proponer al Secretario de Seguridad Pública las medidas necesarias para el desarrollo eficaz de las atribuciones y funciones de la Dirección;
-
-XXIV. Determinar los exámenes médicos y de conocimientos en la materia a que deban sujetarse el conductor vehicular del servicio público de transporte, así como el procedimiento para ser acreditado;
-
-XXV. Vigilar la estricta observancia de las tarifas del servicio público de transporte;
-
-XXVI. Vigilar y evitar prácticas monopólicas o de competencia desleal en el transporte público;
-
-XXVII. Dirigir y administrar la Policía Preventiva de Tránsito del Estado;
-
-XXVIII. Fungir como instancia conciliadora en los conflictos que se generen entre concesionarios y particulares, derivados de la prestación del servicio, y
-
-XXIX. Las demás que le atribuyan la presente Ley y sus reglamentos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 16.
 
-La Policía Preventiva de Tránsito del Estado es el cuerpo policial disciplinado que se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos y cada elemento que integra dicho cuerpo deberá cumplir con los procedimientos de selección, ingreso, formación, actualización, capacitación, permanencia, evaluación, reconocimiento, certificación y registro de los servidores públicos de las instituciones de seguridad pública.
+La Secretaría de Seguridad Pública deberá contar con un área encargada del tránsito y la seguridad vial, que tendrá bajo su mando elementos de policía dedicados exclusivamente a las funciones de esa naturaleza, mismos que se regirán por los principios de legalidad, disciplina, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos y se sujetarán a las normas, directrices y disposiciones en materia de seguridad pública, así como a los ordenamientos que regulan la selección, ingreso, formación, actualización, capacitación, evaluación, reconocimiento, certificación, promoción, permanencia, remoción, cese y registro de servidores públicos de las instituciones de seguridad pública.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Los policías de tránsito podrán tener a su cargo auxiliares viales, los cuales se sujetarán, en lo que corresponda, a las normas, directrices y disposiciones señaladas en el párrafo que antecede, en los términos del reglamento correspondiente.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 17.
 
-La Policía Preventiva de Tránsito del Estado tendrá atribuciones de otorgar seguridad pública, seguridad de tránsito y seguridad en el servicio público del transporte. Para ello podrá realizar actividades de inspección y vigilancia para verificar el cumplimiento de las obligaciones, incluidas las fiscales, de los vehículos y conductores, y aplicar las providencias precautorias que esta Ley establece.
+La unidad administrativa señalada en el artículo anterior tendrá atribuciones para otorgar seguridad vial y de tránsito. Para ello podrá realizar actividades de inspección y vigilancia para verificar el cumplimiento de las obligaciones, incluidas las fiscales, de los vehículos y conductores, y aplicar las providencias precautorias que esta Ley establece.
 
-Además de lo referido en el párrafo anterior, deberá colaborar con los servicios de protección civil en los casos de grave riesgo, catástrofe pública en los términos que se establezcan en la legislación en la materia.
+Para los efectos del párrafo anterior, las autoridades viales podrán utilizar cualesquier dispositivos tecnológicos que permitan verificar el cumplimiento de las disposiciones de la presente Ley y su Reglamento, las conductas contrarias a los mismos y la identificación de las personas que los cometan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 18.
 
-En cuanto a las funciones de la Policía Preventiva de Tránsito del Estado, el Reglamento de esta Ley establecerá:
+En cuanto a las funciones de la Secretaría de Seguridad, a través de los Reglamentos se establecerá:
 
-I. La estructura jerárquica, línea de mando y los rangos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-II. La disciplina, el régimen disciplinario y las correcciones;
+I. La estructura orgánica, jerárquica, línea de mando y los rangos;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+II. El régimen disciplinario y las correcciones;
 
 III. Obligaciones;
 
@@ -369,7 +525,9 @@ IV. Responsabilidades;
 
 V. Atribuciones;
 
-VI. Procedimiento para detener la marcha del vehículo e infraccionar al conductor;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VI. Los servidores públicos que estén facultados para detener la marcha de un vehículo e imponer las sanciones y medios de apremio a que se refiere esta ley, así como su procedimiento;
 
 VII. Procedimiento para la atención a hechos de tránsito, y
 
@@ -379,17 +537,23 @@ VIII. Procedimiento para remover objetos de la vialidad.
 
 Son atribuciones de los Ayuntamientos:
 
-I. El tránsito y la vialidad dentro de su ámbito competencial de acuerdo a lo dispuesto en la presente Ley, cuando se hayan cubierto los requisitos constitucionales para ejercer dichas funciones;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+I. El tránsito y la seguridad vial dentro de su ámbito competencial de acuerdo a lo dispuesto en la presente Ley, cuando se hayan cubierto los requisitos constitucionales para ejercer dichas funciones;
 
 II. Auxiliar al Ejecutivo del Estado en el cumplimiento de sus atribuciones y para integrar el Registro;
 
-III. Someter a los procesos de selección, ingreso, formación, actualización, capacitación, permanencia, evaluación, reconocimiento, certificación y registro de los servidores públicos de las instituciones de seguridad pública, a los agentes o policías municipales que cumplan con la funciones de tránsito, quienes se regirán por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+III. Someter a los procesos de selección, ingreso, formación, actualización, capacitación, permanencia, evaluación, reconocimiento, certificación y registro de los servidores públicos de las instituciones de seguridad pública, a los agentes o policías municipales que cumplan con las funciones de tránsito y seguridad vial, quienes se regirán por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos;
 
 IV. Las demás que señale la presente Ley, los reglamentos y otras disposiciones legales.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 20.
 
-Las atribuciones de las autoridades auxiliares serán las que deriven del presente cuerpo normativo, los reglamentos de esta Ley y de la Ley Orgánica del Ministerio Público del Estado y de su Reglamento. Así como las que deriven de sus respectivos ordenamientos.
+Las atribuciones de las autoridades auxiliares serán las que deriven del presente cuerpo normativo, los reglamentos de esta Ley y demás leyes aplicables en la materia. Así como las que deriven de sus respectivos ordenamientos.
 
 ## TÍTULO SEGUNDO. DEL TRÁNSITO DE VEHÍCULOS, PEATONES, CONDUCTORES Y SEMOVIENTES
 
@@ -435,13 +599,17 @@ Los vehículos con placas extranjeras que circulen en el Estado, podrán transit
 
 ### CAPÍTULO II. De los Peatones, Conductores y Semovientes
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 27.
 
-Los peatones que transiten por las vías públicas deberán cumplir, en lo que a ellos respecta, con las disposiciones de esta Ley y sus reglamentos, acatando las señales de la materia y las indicaciones que haga la Policía Preventiva de Tránsito del Estado cuando ésta dirija la circulación.
+Los peatones que transiten por las vías públicas deberán cumplir, en lo que a ellos respecta, con las disposiciones de esta Ley y sus reglamentos, acatando las señales de la materia y las indicaciones que haga la corporación encargada de tránsito y la seguridad vial cuando ésta dirija la circulación.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 28.
 
-Los peatones, en todos los cruceros que carezcan de señales o dispositivos para controlar el tránsito, tendrán preferencia de paso y en aquellos lugares en que el tránsito sea controlado por la Policía Preventiva de Tránsito del Estado, ésta deberá velar por su seguridad.
+Los peatones, en todos los cruceros que carezcan de señales o dispositivos para controlar el tránsito, tendrán preferencia de paso y en aquellos lugares en que el tránsito sea controlado por los elementos de la Secretaría de Seguridad, ésta deberá velar por su seguridad.
 
 ###### ARTÍCULO 29.
 
@@ -455,13 +623,17 @@ Las aceras de las vías públicas deberán ser utilizadas exclusivamente para el
 
 Los escolares tendrán derecho preferente de paso en todas las intersecciones y zonas respectivas, próximas a los centros escolares, asimismo, tendrán prioridad en el asenso (sic) y descenso de los vehículos de servicio público de transporte. Las autoridades competentes deberán proteger, en consecuencia, mediante señalamientos, dispositivos e indicaciones, el tránsito de los escolares en los horarios y lugares correspondientes.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 32.
 
-Además de los derechos que correspondan a los peatones, en general, específicamente tendrán preferencia de paso en todos los cruceros o zonas de espacio peatonal: los niños, los adultos mayores, las mujeres en estado de embarazo y los discapacitados. De igual forma, se deberá dar prioridad en el abordaje y descenso de vehículos de transporte público.
+Además de los derechos que correspondan a los peatones, en general, específicamente tendrán preferencia de paso en todos los cruceros o zonas de espacio peatonal: los niños, los adultos mayores, las mujeres en estado de embarazo y las personas con discapacidad. De igual forma, se deberá dar prioridad en el abordaje y descenso de vehículos de transporte público.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 33.
 
-Las autoridades de tránsito y transporte ordenarán e instalarán en las vías públicas reguladas por esta Ley y sus reglamentos, las señales para facilitar la protección, el acceso y desplazamiento de los discapacitados. También dichas autoridades coordinarán sus acciones con las que resulten competentes para que en las modificaciones urbanas o en las nuevas urbanizaciones se incluya la construcción de rampas y cajones especiales de estacionamiento que contribuyan a tal finalidad.
+La Secretaría de Seguridad ordenará e instalará en las vías públicas reguladas por esta Ley y sus reglamentos, las señales para facilitar la protección, el acceso y desplazamiento de las personas con discapacidad. Para tal efecto se establecerá la coordinación necesaria con otras autoridades que resulten competentes con el objetivo de que en las modificaciones urbanas o en las nuevas urbanizaciones se incluya la construcción de rampas y cajones especiales de estacionamiento que contribuyan a tal finalidad.
 
 ###### ARTÍCULO 34.
 
@@ -483,7 +655,9 @@ I. Portar la documentación necesaria para conducir vehículos;
 
 II. Usar dispositivos como cinturones de seguridad y sillas especiales para niños, prohibiéndose el transporte de niños, mascotas u objetos en brazos del conductor o acompañantes;
 
-III. Acatar las indicaciones de la Policía Preventiva de Tránsito del Estado, así como los dispositivos electrónicos, gráficos, sonoros y de tiempo que regulan el tránsito por las vialidades;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+III. Acatar las indicaciones de la Secretaría de Seguridad y sus elementos, así como los dispositivos electrónicos, gráficos, sonoros y de tiempo que regulan el tránsito por las vialidades;
 
 IV. Conocer el significado de las señalizaciones así como su clasificación;
 
@@ -513,9 +687,11 @@ VI. Ingerir bebidas alcohólicas, estupefacientes, psicotrópicos o cualquier ot
 
 VII. Todas las demás que se consideren necesarias y se establezcan en los reglamentos.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 38.
 
-Para conducir vehículos de motor se requiere tener y portar la licencia o permiso de conducir, que con tal propósito, expida la Dirección.
+Para conducir vehículos de motor se requiere tener y portar la licencia o permiso de conducir, que con tal propósito expida la Secretaría de Seguridad.
 
 ###### ARTÍCULO 39.
 
@@ -525,9 +701,11 @@ Tales licencias de conducir únicamente se expedirán a mayores de edad y serán
 
 Las licencias de conducir, expedidas en otras Entidades o en el extranjero, tienen validez en el Estado.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 41.
 
-Para conducir vehículos destinados a la prestación de servicio público de transporte se requiere licencia de conducir en la modalidad correspondiente expedida por la Dirección.
+Para conducir vehículos destinados a la prestación de servicio público de transporte se requiere licencia de conducir en la modalidad correspondiente expedida por la Secretaría de Seguridad.
 
 ###### ARTÍCULO 42.
 
@@ -553,7 +731,7 @@ V. Por la probable comisión de algún hecho constitutivo de delito, y
 
 VI. Por el incumplimiento de las obligaciones derivadas de la presente Ley y sus reglamentos.
 
-En estos casos a los propietarios, usuarios o poseedores del vehículo, se les otorgará la garantía de audiencia.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 45.
 
@@ -565,17 +743,23 @@ Los semovientes podrán transitar cuando se trate de eventos culturales o deport
 
 ### CAPÍTULO III. De los derechos de las personas con discapacidad en materia vial
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 46.
 
-Independientemente de los derechos de preferencia establecidos en el Capítulo de peatones, los discapacitados tendrán los siguientes derechos:
+Independientemente de los derechos de preferencia establecidos en el Capítulo de peatones, las personas con discapacidad tendrán los siguientes derechos:
 
-I. Que las autoridades de tránsito, transporte y vialidad instalen las señales que se requieran para facilitar la protección, acceso y desplazamiento de tales personas;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+I. Que las autoridades que coordinen el servicio público de transporte, el tránsito y la seguridad vial, instalen las señales que se requieran para facilitar la protección, acceso y desplazamiento de tales personas, según lo que corresponda a cada autoridad;
 
 II. Preferencia en el paso en las zonas con semáforos o sin éstos;
 
 III. Que los conductores detengan sus vehículos hasta que dichas personas alcancen a pasar cuando habiendo intentado, el tiempo del semáforo no les alcance;
 
-IV. A ser auxiliados por la Policía Preventiva de Tránsito del Estado y peatones para el cruce de calles e intersecciones;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+IV. A ser auxiliados por la Secretaría de Seguridad y peatones para el cruce de calles e intersecciones;
 
 V. A obtener las seguridades, ayuda y tiempo necesarios al abordar y descender de los vehículos;
 
@@ -589,17 +773,23 @@ IX. A que en todos los estacionamientos públicos, permitidos en las calles, se 
 
 X. A que en todos los estacionamientos o pensiones de paga se les destinen lugares especiales donde puedan estacionar o ser estacionados sus vehículos y que aquellos se ubiquen en el primer piso y en los lugares de más fácil acceso o salida, y
 
-XI. En general, a que las autoridades encargadas de aplicar esta Ley y sus reglamentos, pongan especial interés en la ejecución de los anteriores y similares medidas que tiendan a facilitar el acceso y circulación de vehículos o aparatos que utilicen en su desplazamiento los discapacitados, también, a concientizar a peatones, usuarios y conductores a fin de que den a aquellas el trato preferente que su dignidad exige.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XI. En general, a que las autoridades encargadas de aplicar esta Ley y sus reglamentos, pongan especial interés en la ejecución de los anteriores y similares medidas que tiendan a facilitar el acceso y circulación de vehículos o aparatos que utilicen en su desplazamiento las personas con discapacidad, también, a concientizar a peatones, usuarios y conductores a fin de que den a aquellas el trato preferente que su dignidad exige.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 47.
 
-Queda prohibido obstruir o utilizar espacios destinados al estacionamiento de los vehículos para personas con capacidades diferentes, así como los de sus rampas de acceso a las banquetas y vías peatonales.
+Queda prohibido obstruir o utilizar espacios destinados al estacionamiento de los vehículos para personas con discapacidad, así como los de sus rampas de acceso a las banquetas y vías peatonales.
 
 Los conductores que ocupen, nieguen, impidan u obstaculicen el acceso de los cajones de estacionamiento o espacios destinados para las personas con discapacidad serán sancionados de conformidad con lo establecido en los reglamentos de la presente Ley.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 48.
 
-La Policía Preventiva de Tránsito del Estado podrá permitir el uso temporal de espacios no autorizados para estacionamiento, a vehículos para personas con discapacidad cuando éstas así lo soliciten y sea necesario para su acceso a su casa habitación, escuela o trabajo.
+La Secretaría de Seguridad podrá permitir el uso temporal de espacios no autorizados para estacionamiento, a vehículos para personas con discapacidad cuando éstas así lo soliciten y sea necesario para su acceso a su casa habitación, escuela o trabajo.
 
 ### CAPÍTULO IV. De las Manifestaciones en las Vías Públicas
 
@@ -607,17 +797,23 @@ La Policía Preventiva de Tránsito del Estado podrá permitir el uso temporal d
 
 Las personas y vehículos podrán transitar libremente por las vialidades en todo el territorio del Estado, excepto en los casos establecidos en la presente Ley.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 50.
 
-La Dirección tendrá la obligación de proteger y prestar apoyo para otorgar seguridad a las manifestaciones públicas, desfiles, caravanas, peregrinaciones o cualquier otro tipo de concentración humana.
+La Secretaría de Seguridad tendrá la obligación de proteger y prestar apoyo para otorgar seguridad a las manifestaciones públicas, desfiles, caravanas, peregrinaciones o cualquier otro tipo de concentración humana.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 51.
 
-Los organizadores de las manifestaciones públicas, desfiles, caravanas, peregrinaciones o cualquier otro tipo de concentración humana deberán dar aviso a la Dirección con una anticipación de cuarenta y ocho horas, a la realización de la misma. Quien infrinja esta disposición será sancionado en términos de lo que se disponga en los reglamentos de esta Ley.
+Los organizadores de las manifestaciones públicas, desfiles, caravanas, peregrinaciones o cualquier otro tipo de concentración humana deberán dar aviso a la Secretaría de Seguridad con una anticipación de cuarenta y ocho horas, a la realización de la misma. Quien infrinja esta disposición será sancionado en términos de lo que se disponga en los reglamentos de esta Ley.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 52.
 
-Las autoridades estatales o municipales en el ámbito de su competencia, deberán informar a la población, a través de los medios de comunicación sobre el desarrollo de manifestaciones, actos o circunstancias que alteren en forma momentánea, transitoria o permanente la vialidad. Así mismo, la Dirección deberá proponer alternativas para el tránsito de personas o vehículos.
+Las autoridades estatales o municipales en el ámbito de su competencia, deberán informar a la población, a través de los medios de comunicación sobre el desarrollo de manifestaciones, actos o circunstancias que alteren en forma momentánea, transitoria o permanente la vialidad. Así mismo, la Secretaría de Seguridad deberá proponer alternativas para el tránsito de personas o vehículos.
 
 ###### ARTÍCULO 53.
 
@@ -645,9 +841,11 @@ V. Testimonios de las escrituras constitutivas de las personas morales que tenga
 
 VI. Los demás actos y documentos que ordenen la Ley y sus reglamentos. La inscripción obligará no sólo a las personas morales constituidas en el Estado, sino a las que, habiendo sido creadas en otras entidades, presten en Zacatecas tal servicio y utilicen vías públicas de la jurisdicción de éste.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 56.
 
-El control de la circulación de vehículos será llevado por la Dirección y su respectiva Policía, la cual estará en contacto permanente con el Registro, de tal forma que las matriculaciones e inscripciones se mantengan coordinadas y actualizadas.
+El control de la circulación de vehículos será llevado por la Secretaría de Seguridad, la cual estará en contacto permanente con el Registro, de tal forma que las matriculaciones e inscripciones se mantengan coordinadas y actualizadas.
 
 ###### ARTÍCULO 57.
 
@@ -729,7 +927,9 @@ II. Datos de identificación y colores que señalen su número económico, sitio
 
 Las tarifas autorizadas deberán aplicarse de forma igual para todos los usuarios del servicio, teniendo como excepción los casos que esta misma Ley establezca.
 
-En el transporte público colectivo de personas se podrán aplicar tarifas preferenciales hasta un cincuenta por ciento, cuando el usuario sea una persona discapacitada, adulto mayor, integrante de un grupo indígena o estudiante con credencial vigente, de conformidad con las leyes en materia y a los convenios que se celebren con los transportistas al respecto.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+En el transporte público colectivo de personas se podrán aplicar tarifas preferenciales hasta un cincuenta por ciento, cuando el usuario sea una persona con discapacidad, adulto mayor, integrante de un grupo indígena o estudiante con credencial vigente, de conformidad con las leyes en (sic) materia y a los convenios que se celebren con los transportistas al respecto.
 
 ###### ARTÍCULO 65.
 
@@ -787,9 +987,11 @@ Para obtener su identificación e integrar su expediente personal en el padrón 
 
 La Movilidad Urbana Sustentable es el servicio que presta el Gobierno del Estado, por sí o mediante concesión a una o más personas morales, con el objeto de cubrir las necesidades de traslado y comunicación de la sociedad bajo los principios de racionalidad, modernización, uso adecuado y mejor aprovechamiento de las vías públicas.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 71.
 
-La Secretaría de Infraestructura y la Dirección, tendrán la responsabilidad conjunta y la atribución de elaborar, ejecutar y evaluar los Planes Integrales de Movilidad Urbana Sustentable de las diferentes zonas urbanas o conurbadas del Estado.
+La Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial y la Secretaría General, auxiliadas por la Secretaría de Seguridad, tendrán la responsabilidad conjunta y la atribución de elaborar, ejecutar y evaluar los Planes Integrales de Movilidad Urbana Sustentable de las diferentes zonas urbanas o conurbadas del Estado.
 
 ###### ARTÍCULO 72.
 
@@ -821,9 +1023,11 @@ La Concesión del servicio público de transporte, es el acto mediante el cual e
 
 El otorgamiento de concesiones se hará mediante concurso y previos estudios técnicos y socioeconómicos, operativos y urbanos que acrediten la necesidad colectiva y que servirán de base para emitir la convocatoria correspondiente.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 76.
 
-La convocatoria será emitida por la Secretaría General de Gobierno con auxilio de la Dirección.
+La convocatoria será emitida por la Secretaría General.
 
 ###### ARTÍCULO 77.
 
@@ -901,11 +1105,15 @@ V. Nombre completo del concesionario y su domicilio.
 
 Las concesiones y permisos experimentales para taxis sólo se otorgarán, con las limitaciones que esta Ley establece, a personas físicas. En las demás modalidades establecidas en esta Ley, con las propias restricciones que ella dispone, indistintamente a las personas físicas o morales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 81.
 
-El otorgamiento de concesiones a que se refiere esta Ley se efectuará tomando en cuenta los estudios técnicos y socioeconómicos, operativos y urbanos que acrediten la necesidad colectiva. La Dirección con el acuerdo del Gobernador, convocará a un concurso bajo las siguientes bases:
+El otorgamiento de concesiones a que se refiere esta Ley se efectuará tomando en cuenta los estudios técnicos y socioeconómicos, operativos y urbanos que acrediten la necesidad colectiva. La Secretaría General con el acuerdo del Gobernador, convocará a un concurso bajo las siguientes bases:
 
-I. Se publicará una convocatoria en el Periódico Oficial, Órgano del Gobierno del Estado y en otro de mayor circulación en la Entidad. En ella se fijarán plazo y término dentro del cual se recibirán las solicitudes y documentos que los interesados presenten ante la Dirección convocante, a fin de demostrar que reúnen los requisitos legales para participar en el concurso.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+I. Se publicará una convocatoria en el Periódico Oficial, Órgano del Gobierno del Estado y en otro de mayor circulación en la Entidad. En ella se fijarán plazo y término dentro del cual se recibirán las solicitudes y documentos que los interesados presenten ante la Secretaría General convocante, a fin de demostrar que reúnen los requisitos legales para participar en el concurso.
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2016)</small>
 
@@ -919,7 +1127,9 @@ b) Los requisitos para obtener ésta y la forma de cumplirlos;
 
 c) El plazo y término para la presentación de propuestas y entrega de documentos, entre las que deberá incluirse la revisión operativa.
 
-Por tal revisión deberá entenderse el documento que expida la Dirección, en el cual consten las pautas conforme a las cuales deberá prestarse el servicio público de transporte, en el supuesto de que le fuera otorgada la correspondiente revisión. Dichas pautas deberán incluirse en el título de concesión como condiciones de prestación de servicio público de transporte;
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Por tal revisión deberá entenderse el documento que expida la Secretaría General, en el cual consten las pautas conforme a las cuales deberá prestarse el servicio público de transporte, en el supuesto de que le fuera otorgada la correspondiente revisión. Dichas pautas deberán incluirse en el título de concesión como condiciones de prestación de servicio público de transporte;
 
 d) En su caso, señalará los requisitos de instalación de terminales, bodegas, estaciones intermedias, talleres y similares, correspondientes a la modalidad en la prestación del servicio público de transporte y a la calidad de éste;
 
@@ -933,7 +1143,9 @@ g) Día, hora y lugar en que se abrirán las propuestas, las cuales deberán hab
 
 III. Dentro de los cinco días hábiles siguientes a la celebración del concurso, el Gobernador emitirá el fallo que determine, en su caso, cuál o cuáles de los solicitantes merecen el otorgamiento de la concesión o concesiones. En tal resolución tomará en cuenta las mejores propuestas técnicas y materiales, para prestar el servicio, ofrezcan mejores condiciones de seguridad, comodidad y salubridad para los usuarios.
 
-La resolución que otorgue la concesión o concesiones, se notificará al interesado o interesados, en la forma que dispone la Ley del Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+La resolución que otorgue la concesión o concesiones se notificará al interesado o interesados en la forma que dispone la legislación en materia contenciosa administrativa vigente en el Estado.
 
 Entre otras, las consecuencias jurídicas de la notificación serán obligar a los concesionarios a efectuar el pago de los derechos correspondientes y al inicio de la prestación de los servicios concesionados.
 
@@ -961,7 +1173,9 @@ I. Causa de muerte o incapacidad física o mental, a favor de la persona que apa
 
 II. Cesión de derechos, autorizada por el titular del Ejecutivo del Estado o por el titular de la dependencia en que delegue esa facultad. El concesionario que ceda los derechos de la concesión, quedará imposibilitado para obtener otra en un plazo de cinco años, excepto el caso en que la cesión se haga en nombre del mismo concesionario, a favor de una sociedad como aportación al capital social.
 
-La cesión de derechos deberá realizarse ante Notario Público, con la declaratoria bajo protesta de decir verdad del cesionario de que no es titular de los derechos de más de cinco concesiones, incluyendo la que se adquiere e inmediatamente presentarse ante la Dirección de Transporte, Tránsito y Vialidad para el efecto de que, previo pago de los derechos correspondientes, se haga la sustitución de la concesión, cancelando la anterior. El Notario ante quien se otorgue la cesión de derechos, deberá dar aviso a la Dirección de Transporte, Tránsito y Vialidad dentro del plazo de cinco días hábiles.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+La cesión de derechos deberá realizarse ante Notario Público, con la declaratoria bajo protesta de decir verdad del cesionario de que no es titular de los derechos de más de cinco concesiones, incluyendo la que se adquiere e inmediatamente presentarse ante la Secretaría General para el efecto de que, previo pago de los derechos correspondientes, se haga la sustitución de la concesión, cancelando la anterior. El Notario ante quien se otorgue la cesión de derechos, deberá dar aviso a la Secretaría General dentro del plazo de cinco días hábiles.
 
 Toda transmisión formará parte de la concesión originalmente otorgada, quedando sujeta al plazo de vigencia y a las demás condiciones en ella estipulada, por lo que el nuevo titular será responsable del cumplimiento de todas las obligaciones inherentes a la misma.
 
@@ -981,7 +1195,9 @@ IV. Menores de edad o personas con incapacidad mental permanente, salvo en los c
 
 Regirán la naturaleza de las concesiones los siguientes principios:
 
-I. Tendrán una vigencia indefinida, pero deberán ser refrendadas anualmente ante la Dirección de Transporte Público y Vialidad y pagar los derechos respectivos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+I. Tendrán una vigencia indefinida, pero deberán ser refrendadas anualmente ante la Secretaría General y pagar los derechos respectivos;
 
 II. En el caso de las personas físicas sólo se les otorgará un máximo de cinco concesiones particulares;
 
@@ -1011,7 +1227,9 @@ II. Cobrar a los usuarios las tarifas autorizadas;
 
 III. Proponer a las autoridades de transporte público y vialidad medidas tendientes a mejorar el servicio y aprovechamiento de sus equipos e instalaciones, y
 
-IV. Obtener de la Dirección la información que requieran la mejor prestación del servicio.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+IV. Obtener de la Secretaría General la información que requieran para la mejor prestación del servicio.
 
 ###### ARTÍCULO 87.
 
@@ -1047,7 +1265,9 @@ XIV. Exigir de sus operadores un trato amable y respetuoso a los usuarios;
 
 XV. Verificar que sus operadores cuenten con la licencia de manejo vigente;
 
-XVI. Presentar ante la Dirección dentro de los cinco primeros días hábiles del mes de diciembre de cada año, sus programas anuales de capacitación de operadores y mejora del parque vehicular y dar cumplimiento a los mismos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XVI. Presentar ante la Secretaría General dentro de los cinco primeros días hábiles del mes de diciembre de cada año, sus programas anuales de capacitación de operadores y mejora del parque vehicular y dar cumplimiento a los mismos;
 
 XVII. Facilitar a las autoridades de tránsito la inspección de las unidades de trasporte, instalaciones y la documentación relacionada con la concesión;
 
@@ -1079,9 +1299,11 @@ El concesionario de transporte de carga responderá de la carga que traslade, de
 
 El concesionario de transporte de carga estará libre de responsabilidad cuando por su propia naturaleza o empaque negligente, la carga sufra daños y cuando ésta no se entregue en el lugar y fecha convenidos por causas atribuibles al usuario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 92.
 
-La Dirección, previo acuerdo con el Secretario General podrá proponer al Gobernador, en la que se respete la garantía de audiencia del concesionario, la suspensión hasta por tres meses los derechos derivados de una concesión cuando el titular de ella:
+La Secretaría General, respetando la garantía de audiencia del concesionario, podrá proponer al Gobernador la suspensión hasta por tres meses de los derechos derivados de una concesión cuando el titular de ella:
 
 I. Deje de prestar el servicio público de transporte, durante diez días consecutivos sin justificación en la modalidad señalada en la concesión;
 
@@ -1115,7 +1337,9 @@ V. Viole en más de tres ocasiones, las condiciones establecidas en la concesió
 
 VI. Niegue, sin causa justificada, a cualquier persona el servicio que solicite;
 
-VII. Cambie el vehículo autorizado para prestar el servicio sin haber obtenido la aprobación de la Dirección, e
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VII. Cambie el vehículo autorizado para prestar el servicio sin haber obtenido la aprobación de la Secretaría General; y
 
 VIII. Incumpla con los pagos que le corresponden derivados de la concesión.
 
@@ -1135,13 +1359,17 @@ V. Por liquidación, disolución o quiebra, para el caso de personas morales.
 
 Lo no previsto en el presente artículo será establecido en el Reglamento correspondiente.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 95.
 
-En resolución fundada y motivada y mediando la audiencia del interesado en que éste pueda contradecir, probar y alegar, la Secretaría General de Gobierno, a través de la Dirección, propondrá la suspensión de las concesiones y será el Gobernador quien resuelva dicha suspensión.
+En resolución fundada y motivada y mediando la audiencia del interesado en que éste pueda contradecir, probar y alegar, la Secretaría General, propondrá la suspensión de las concesiones y será el Gobernador quien resuelva dicha suspensión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 96.
 
-La Dirección previo acuerdo con la Secretaría General, de oficio o a petición de parte con interés legítimo, iniciará el procedimiento para resolver sobre la suspensión o revocación de una concesión.
+La Secretaría General, de oficio o a petición de parte con interés legítimo, iniciará el procedimiento para resolver sobre la suspensión o revocación de una concesión.
 
 En ambos casos el procedimiento se compondrá de las siguientes etapas:
 
@@ -1169,9 +1397,13 @@ II. El Secretario de Economía;
 
 III. El Secretario de Finanzas;
 
-IV. El Secretario de Infraestructura;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-V. El Director;
+IV. El Secretario de Desarrollo Urbano, Vivienda y Ordenamiento Territorial del Estado;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+V. El Secretario de Seguridad Pública del Estado quien podrá ser suplido por el titular de la unidad administrativa de la Secretaría de Seguridad, que tenga bajo su cargo el área de Tránsito y Seguridad Vial;
 
 VI. El o los Presidentes Municipales del Estado cuando se traten asuntos de su competencia territorial;
 
@@ -1187,7 +1419,9 @@ XI. Un representante de la Facultad de Ingeniería de la Universidad Autónoma d
 
 XII. Un representante del Colegio de Ingenieros relacionado con el transporte y la vialidad.
 
-Para los integrantes a que se refieren las fracciones VII, VIII y IX anteriores, los concesionarios nombrarán a sus representantes ante la Dirección por cada municipio, quienes se integrarán al Consejo Estatal cuando se traten asuntos de su competencia territorial. Cuando el asunto involucre a dos municipios o más, los representantes de los concesionarios deberán elegir, de entre ellos, a dos representantes por cada modalidad de concesión, quienes participarán en los trabajos del Consejo Estatal.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Para los integrantes a que se refieren las fracciones VII, VIII y IX anteriores, los concesionarios nombrarán a sus representantes ante la Secretaría General por cada municipio, quienes se integrarán al Consejo Estatal cuando se traten asuntos de su competencia territorial. Cuando el asunto involucre a dos municipios o más, los representantes de los concesionarios deberán elegir, de entre ellos, a dos representantes por cada modalidad de concesión, quienes participarán en los trabajos del Consejo Estatal.
 
 ###### ARTÍCULO 100.
 
@@ -1225,17 +1459,23 @@ VI. Las recomendaciones que estimen necesarias para el mejoramiento de los objet
 
 ### CAPÍTULO I. Vialidad y señalamientos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 104.
 
-La Dirección promoverá las acciones necesarias en materia de educación vial para peatones, conductores, usuarios y población en general, haciendo uso de los diferentes medios de comunicación y de los avances tecnológicos, en coordinación con las dependencias de la administración pública, las agrupaciones de concesionarios, o en su caso, mediante la celebración de convenios.
+La Secretaría de Seguridad promoverá las acciones necesarias en materia de educación vial para peatones, conductores, usuarios y población en general, haciendo uso de los diferentes medios de comunicación y de los avances tecnológicos, en coordinación con las dependencias de la administración pública, las agrupaciones de concesionarios, o en su caso, mediante la celebración de convenios.
 
 Así mismo, coordinarán con la iniciativa privada, asociaciones civiles, instituciones de educación pública y privada, el diseño e instrumentación de programas permanentes de seguridad, educación vial y prevención de hechos de tránsito, que tengan como propósito fundamental crear en la población conciencia, hábitos y cultura de respeto a las autoridades, ordenamientos legales en materia de tránsito y vialidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 105.
 
-Dependiente de la Dirección se creará el Centro de Capacitación para el Transporte y Educación Vial, que tendrá los siguientes objetivos:
+La Secretaría de Seguridad contará con un órgano encargado de la capacitación en materia de tránsito y seguridad vial, que tendrá los siguientes objetivos:
 
-I. Instrumentar programas permanentes de seguridad de tránsito y vialidad a fin de prevenir accidentes de tránsito y salvar vidas. Tales programas deberán estar dirigidos a:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
+I. Instrumentar programas permanentes de seguridad de tránsito y seguridad vial a fin de prevenir accidentes de tránsito y salvar vidas. Tales programas deberán estar dirigidos a:
 
 a) Alumnos de educación preescolar, básica y media;
 
@@ -1247,9 +1487,13 @@ d) A quienes pretendan obtener licencia para conducir;
 
 e) A conductores de servicio particular;
 
-f) A conductores de vehículos del servicio público de transporte, sin perjuicio de los cursos específicos de capacitación que las empresas contraten con el Centro;
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
-g) La Policía Preventiva de Tránsito del Estado recibirá permanentemente cursos de actualización sobre el conocimiento de esta Ley, sus reglamentos y la aplicación de ellos. También, sobre derechos humanos;
+f) A conductores de vehículos del servicio público de transporte, sin perjuicio de los cursos específicos de capacitación que las empresas contraten con el órgano de capacitación;
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+g) Al personal de la Secretaría de Seguridad que se encargue del tránsito y la seguridad vial, quienes recibirán permanentemente cursos de actualización sobre el conocimiento de esta Ley, sus reglamentos, la aplicación de ellos y el respeto a los derechos humanos;
 
 II. Impartir al personal perteneciente a las empresas de los concesionarios del servicio público de transporte y mediante el pago de los respectivos derechos, cursos especiales de capacitación y profesionalización para los conductores y demás personal que labore en ellas, a fin de mejorar la prestación del servicio aludido, y
 
@@ -1275,37 +1519,51 @@ VII. Educación ambiental en relación con el tránsito de vehículos, y
 
 VIII. Nociones de mecánica automotriz.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 107.
 
-La Dirección contará con un (sic) Unidad de Análisis del Conductor, que se encargará de realizar los exámenes médicos, toxicológicos y educativos a los operadores de las unidades motrices del servicio público del Estado, independientemente que dicho servicio se encuentre concesionado a un particular.
+La Secretaría de Seguridad contará con una Unidad de Análisis del Conductor y de operadores, que se encargará de realizar los exámenes médicos, toxicológicos y educativos a los operadores de las unidades motrices particulares y del servicio público del Estado, independientemente que dicho servicio se encuentre concesionado a un particular.
 
 ###### ARTÍCULO 108.
 
 Los exámenes referidos en el artículo anterior deberán realizarse de forma periódica en los términos que establezcan los reglamentos de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 109.
 
-Sin perjuicio de las asignaciones presupuestales que se destinen al Centro de Capacitación para el Transporte y Educación Vial, éste podrá obtener recursos auxiliares de:
+Sin perjuicio de las asignaciones presupuestales que se destinen al órgano encargado de la capacitación en materia de tránsito y seguridad vial, éste podrá obtener recursos auxiliares de:
 
-a) La escuela de manejo que de éste dependa, cuyas constancias serán tomadas en cuenta, por la Dirección para expedir los distintos tipos de licencia que expida a los conductores de vehículos, y
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+a) La escuela de manejo que de éste dependa, cuyas constancias serán tomadas en cuenta, por la Secretaría de Seguridad para expedir los distintos tipos de licencia que expida a los conductores de vehículos, y
 
 b) Los cursos permanentes de capacitación y actualización que imparta a operadores de vehículos de las empresas de transporte las que tendrán la obligación de hacer que sus trabajadores reciban un curso anual, medido por horas efectivas de enseñanza teórica y práctica, orientada a mejorar la calidad del servicio público de transporte y a disminuir los accidentes respectivos. Al concluir cada curso, previa evaluación, se expedirá la constancia correspondiente.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 110.
 
-Sin perjuicio de las escuelas de manejo del Centro, los particulares podrán establecer escuelas similares obteniendo previamente la autorización de la Dirección, la que expedirá ésta una vez comprobados los requisitos correspondientes establecidos en los reglamentos.
+Sin perjuicio de las escuelas de manejo de la Secretaría de Seguridad, los particulares podrán establecer escuelas similares obteniendo previamente la autorización de la Secretaría mencionada, la que expedirá ésta una vez comprobados los requisitos correspondientes establecidos en los reglamentos.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 111.
 
-La persona física o moral que pretenda dedicarse a impartir cursos y clases de manejo, deberá obtener ante la Dirección, el permiso y la certificación correspondiente, previo al cumplimiento de los requisitos establecidos y el pago de los derechos correspondientes.
+La persona física o moral que pretenda dedicarse a impartir cursos y clases de manejo, deberá obtener ante la Secretaría de Seguridad, el permiso y la certificación correspondiente, previo al cumplimiento de los requisitos establecidos y el pago de los derechos correspondientes.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 112.
 
-La escuela de manejo, independientemente de su condición o régimen jurídico, deberá contar con instalaciones y vehículos adecuados con dispositivos de seguridad que determine la Dirección, para llevar a cabo la impartición de los cursos o clases teórico prácticas sobre manejo y mecánica.
+La escuela de manejo, independientemente de su condición o régimen jurídico, deberá contar con instalaciones y vehículos adecuados con dispositivos de seguridad que determine la Secretaría de Seguridad, para llevar a cabo la impartición de los cursos o clases teórico prácticas sobre manejo y mecánica.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 113.
 
-Las personas físicas o morales dedicadas a impartir cursos o clases de manejo deben obtener y mantener vigente la póliza de seguros de cobertura amplia para sus vehículos. Deberán llevar un el control de la cantidad de cursos, número de participantes o clases y reportarlo a la Dirección cada tres meses.
+Las personas físicas o morales dedicadas a impartir cursos o clases de manejo deben obtener y mantener vigente la póliza de seguros de cobertura amplia para sus vehículos. Deberán llevar el control de la cantidad de cursos, número de participantes o clases y reportarlo a la Secretaría de Seguridad cada tres meses.
 
 ###### ARTÍCULO 114.
 
@@ -1315,11 +1573,15 @@ I. En las zonas de intenso tránsito de las ciudades más pobladas del Estado, d
 
 II. En las demás zonas de las ocho a las veintidós horas.
 
-Tales operaciones deberán hacerse con precaución y celeridad. Excepcionalmente, cuando exista causa justificada, a juicio de la Dirección, se autorizarán dichas operaciones fuera del horario indicado.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Tales operaciones deberán hacerse con precaución y celeridad. Excepcionalmente, cuando exista causa justificada, a juicio de la Secretaria de Seguridad, se autorizarán dichas operaciones fuera del horario indicado.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 115.
 
-Cuando tenga que transportarse materiales de construcción, maquinaria u otros objetos, cuyo volumen pueda perturbar la circulación o dañar la vía pública, deberá tramitarse permiso ante la Dirección. El permiso contendrá el itinerario y la hora en que pueda efectuarse la carga y la descarga.
+Cuando tenga que transportarse materiales de construcción, maquinaria u otros objetos, cuyo volumen pueda perturbar la circulación o dañar la vía pública, deberá tramitarse permiso ante la Secretaría de Seguridad. El permiso contendrá el itinerario y la hora en que pueda efectuarse la carga y la descarga.
 
 ###### ARTÍCULO 116.
 
@@ -1339,9 +1601,11 @@ II. Vías de tránsito peatonal, que son los espacios destinados al tránsito de
 
 Los reglamentos de esta Ley definirán y establecerán las demás clasificaciones de las vialidades señaladas en este artículo.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 119.
 
-La Dirección en el ámbito de su competencia, procurará que en las vialidades exista señalización vial, con el objetivo de proporcionar una mayor orientación de forma segura a la población y agilizar la fluidez del tránsito vehicular y peatonal.
+La Secretaría de Seguridad en el ámbito de su competencia, procurará que en las vialidades exista señalización vial, con el objetivo de proporcionar una mayor orientación de forma segura a la población y agilizar la fluidez del tránsito vehicular y peatonal.
 
 ###### ARTÍCULO 120.
 
@@ -1383,23 +1647,35 @@ La violación de tales normas será sancionada conforme a los reglamentos y a la
 
 ### CAPÍTULO I. De las Sanciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 124.
 
-El Gobernador, la Dirección y la Policía Preventiva de Tránsito del Estado, podrán sancionar por las violaciones a esta Ley y sus reglamentos a:
+El Gobernador, la Secretaría General y la Secretaría de Seguridad, en el ámbito de su competencia, podrán sancionar por las violaciones a esta Ley y sus reglamentos a:
 
 I. Los conductores de vehículos;
 
 II. A los propietarios de vehículos, y
 
-III. A los concesionarios.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+III. A los concesionarios y permisionarios.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Para efectos de lo dispuesto en esta fracción, los reglamentos precisarán los servidores públicos que puedan ejercer la facultad sancionadora.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 125.
 
-Las sanciones que la Dirección podrá imponer, en los términos que dispongan los reglamentos de esta Ley, a las personas mencionadas en el artículo anterior serán:
+Las sanciones que la Secretaría de Seguridad podrá imponer, en los términos que dispongan los reglamentos de esta Ley, a las personas mencionadas en el artículo anterior serán:
 
 I. Amonestación;
 
-II. Multas de 1 hasta 1000 cuotas de salario mínimo vigente en el Estado;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+II. Multas de 1 hasta 1000 unidades de medida y actualización vigente en el Estado;
 
 III. Suspensión de derechos de tránsito y transporte hasta por el término de 90 días;
 
@@ -1413,9 +1689,11 @@ VI. Arresto hasta por treinta y seis horas.
 
 El Gobernador será la única autoridad que podrá declarar la terminación de concesiones o, en su caso y conforme a las formalidades señaladas por esta Ley, imponer a los titulares respectivos la sanción de revocar sus concesiones por las causas señaladas en la parte correspondiente de este cuerpo normativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 127.
 
-Todas las sanciones serán cumplidas o ejecutadas por la Dirección y en lo que le compete, por la Secretaría de Finanzas y los recaudadores de rentas que de ella dependen y a la Policía Preventiva de Tránsito del Estado, en su caso, por los Ayuntamientos.
+Todas las sanciones serán cumplidas o ejecutadas por la Secretaría de Seguridad y en lo que le compete, por los recaudadores de rentas de la Secretaría de Finanzas, en su caso, por los Ayuntamientos.
 
 Las multas impuestas tendrán el carácter de créditos fiscales y para su cobro se hará uso de la facultad económico coactiva.
 
@@ -1425,13 +1703,17 @@ La atribución del Estado para ejecutar las sanciones impuestas prescribirá en 
 
 ### CAPÍTULO II. De las Providencias Precautorias
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 129.
 
-Cuando los concesionarios o permisionarios del servicio público de transporte o personas físicas que conduzcan un vehículo automotor, realicen acciones que pongan en riesgo la seguridad de las personas o del interés público, la Dirección dictará medidas de seguridad de inmediata ejecución, mismas que se aplicarán sin perjuicio de las demás sanciones que en su caso correspondan.
+Cuando los concesionarios o permisionarios del servicio público de transporte, personas físicas que conduzcan un vehículo automotor, realicen acciones que pongan en riesgo la seguridad de las personas o del interés público, la Secretaría de Seguridad, a través de la unidad administrativa correspondiente, dictará medidas de seguridad de inmediata ejecución, mismas que se aplicarán sin perjuicio de las demás sanciones que en su caso correspondan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 130.
 
-La Policía Preventiva de Tránsito del Estado, en las actividades de inspección y vigilancia establecidas en la presente Ley y sus reglamentos, estará facultada para determinar una o varias de las siguientes providencias precautorias:
+La Secretaría de Seguridad, a través de los servidores públicos que para el efecto establezcan los reglamentos, en las actividades de inspección y vigilancia establecidas en la presente Ley y sus reglamentos, estará facultada para determinar una o varias de las siguientes providencias precautorias:
 
 I. Retirar de la circulación los vehículos que no cumplan con la normatividad, y
 
@@ -1443,11 +1725,15 @@ La medida precautoria tendrá vigencia durante la tramitación del procedimiento
 
 La aplicación de las medidas de seguridad está condicionada al levantamiento de la boleta que funde y motive la procedencia de la infracción correspondiente o el inicio del procedimiento administrativo de aplicación de sanciones.
 
-Las placas o documentos retenidos por la autoridad, conforme a esta Ley, se remitirán inmediatamente a la Dirección y serán restituidos a su dueño, siempre que haya sido cubierta la sanción respectiva. La Dirección, podrá proveer las medidas administrativas necesarias para impedir la interrupción de los servicios durante días inhábiles, siempre que se haya cubierto la multa respectiva.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Las placas o documentos retenidos por la autoridad, conforme a esta Ley, se remitirán inmediatamente a la Secretaría de Seguridad y serán restituidos a su dueño, siempre que haya sido cubierta la sanción respectiva. La Secretaría de Seguridad, podrá proveer las medidas administrativas necesarias para impedir la interrupción de los servicios durante días inhábiles, siempre que se haya cubierto la multa respectiva.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 132.
 
-Los actos y resoluciones derivados de la aplicación de esta Ley serán recurribles a través del juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas.
+Los actos y resoluciones derivados de la aplicación de esta Ley, incluyendo aquéllos que se deriven de la utilización de los dispositivos y herramientas tecnológicas, serán recurribles a través del medio de impugnación que contemple para tal efecto la legislación en materia contenciosa administrativa vigente.
 
 T R A N S I T O R I O S
 
@@ -1526,3 +1812,29 @@ Se derogan todas las disposiciones que se opongan a este Decreto.
 ###### ARTÍCULO TERCERO.
 
 A la entrada en vigor del presente Decreto, la Secretaría General del Gobierno del Estado, por conducto de la Dirección de Transporte, Tránsito y Vialidad, deberá dar inicio a un proceso de revisión de las concesiones asignadas, con el fin de verificar que se les esté dando el uso para el cual fueron otorgadas; en el supuesto de encontrar situaciones irregulares, deberán aplicar las medidas legales pertinentes para resolverlas y, en su caso, las sanciones que correspondan.
+
+P.O. 31 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 146. SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE TRÁNSITO Y VIALIDAD DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado y, en su caso, las autoridades municipales, deberán realizar las adecuaciones necesarias a su reglamentación interna, en un plazo de 90 días a partir de la entrada en vigor del presente Decreto.
+
+El Ejecutivo del Estado, dentro del mismo plazo señalado, deberá emitir los reglamentos que se deriven del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las Secretarías de la Función Pública, de Administración, y de Finanzas, deberán vigilar la transferencia de recursos humanos, financieros y materiales que, en su caso, derive de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los noventa días siguientes a la entrada en vigor de este Decreto, la Legislatura del Estado aprobará las reformas correspondientes para armonizar los ordenamientos a la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
