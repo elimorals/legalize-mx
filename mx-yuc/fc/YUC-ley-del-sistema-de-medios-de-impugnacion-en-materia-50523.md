@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-sistema-de-medios-de-impugnacion-en-materia-50523"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-24"
-last_updated: "2016-12-28"
+last_updated: "2017-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE MAYO DE 2017.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 24 de mayo de 2006.
 
@@ -57,7 +57,9 @@ La aplicación e interpretación de las disposiciones de esta Ley, corresponden 
 
 Para el trámite, la sustanciación y resolución de los medios de impugnación previstos en esta Ley, sus disposiciones se interpretarán conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, los instrumentos internacionales de los que el Estado mexicano sea parte y la Constitución Política del Estado de Yucatán, y de acuerdo a los criterios gramatical, sistemático y funcional.
 
-A falta de disposición expresa, se aplicarán los criterios establecidos por el Tribunal Electoral del Estado de Yucatán, la jurisprudencia del Tribunal Electoral del Poder Judicial de la Federación y los principios generales del derecho.
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
+A falta de disposición expresa, se aplicarán supletoriamente el Código de Procedimientos Civiles del Estado de Yucatán, el Código Nacional de Procedimientos Penales, los principios generales del derecho y los criterios establecidos por el Tribunal Electoral del Estado de Yucatán, la jurisprudencia del Tribunal Electoral del Poder Judicial de la Federación.
 
 En la resolución de medios de impugnación relativos a asuntos internos de los partidos políticos, se deberá considerar su carácter de entidad de interés público como organización de ciudadanos, la libertad de decisión interna, el derecho a la auto organización y los derechos de los militantes.
 
@@ -75,9 +77,9 @@ I.- Constitución: La Constitución Política del Estado de Yucatán;
 
 II.- Ley Electoral: La Ley de Instituciones y Procedimientos Electorales del Estado de Yucatán;
 
-(F. DE. E., D.O. 28 DE SEPTIEMBRE DE 2006)
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
 
-III.- Tribunal: El Tribunal Electoral del Estado;
+III.- Tribunal: El Tribunal Electoral del Estado de Yucatán;
 
 IV.- Pleno: El Pleno del Tribunal;
 
@@ -91,9 +93,11 @@ VI.- Consejo General: El Consejo General del Instituto.
 
 ### CAPITULO I. DE LA NULIDAD DE VOTACIÓN RECIBIDA EN CASILLA
 
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 5.
 
-Las nulidades establecidas en esta Ley, podrán afectar la votación emitida en una casilla, en consecuencia, los resultados del cómputo impugnado de la elección de gobernador, la formula de diputados de mayoría relativa en un distrito electoral y planillas de ayuntamientos; o el cómputo estatal de la elección de gobernador, o de diputados y regidores por el sistema de representación proporcional.
+Las nulidades establecidas en esta ley, podrán afectar la votación emitida en una casilla, en consecuencia, los resultados del cómputo impugnado de la elección de gobernador, la fórmula de diputados de mayoría relativa en un distrito electoral y planillas de ayuntamientos; o el cómputo estatal de la elección de gobernador, o de diputados y regidores por el sistema de representación proporcional.
 
 ###### Artículo 6.
 
@@ -215,9 +219,13 @@ b).- En contra de los actos o resoluciones de los consejos municipales.
 
 II.- Recurso de apelación:
 
-a).- En contra de los actos y resoluciones del Consejo General, durante la etapa de preparación de la elección, para impugnar las resoluciones recaídas a los recursos de revisión, y
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
 
-b).- En contra actos y resoluciones del Consejo General, concluido el proceso electoral.
+a).- Para impugnar las resoluciones recaídas a los recursos de revisión, y
+
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
+b).- En contra de actos y resoluciones del Consejo General.
 
 III.- Recurso de inconformidad:
 
@@ -237,6 +245,18 @@ f).- Por las causales de nulidad de elección establecidas en esta Ley, así com
 
 g).- Por error aritmético o dolo grave en las actas de cómputo estatal, de la elección de gobernador, diputados o regidores por el principio de representación proporcional y, en consecuencia el otorgamiento de las constancias de asignación.
 
+> <small>(ADICIONADA, D.O. 31 DE MAYO DE 2017)</small>
+
+IV.- Recurso de Revisión del Procedimiento Especial Sancionador:
+
+a).- En contra de las medidas cautelares que emita el Instituto, y
+
+b).- En contra del acuerdo de desechamiento que emita el Instituto a una denuncia o queja.
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+Para la tramitación, sustanciación y resolución de este recurso, serán aplicables, en lo conducente, las reglas de procedimiento establecidas en esta ley y en particular las señaladas en el recurso de apelación.
+
 ### CAPITULO II. DEL JUICIO PARA LA PROTECCION DE LOS DERECHOS POLITICO ELECTORALES
 
 ###### Artículo 19.
@@ -249,9 +269,21 @@ I.- Considere que se vulneró su derecho político electoral de ser votado, por 
 
 II.- Siendo candidato registrado, sea indebidamente declarado inelegible y el partido político o coalición que lo registro, no lo haya recurrido;
 
-III.- Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político o agrupación política, y
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
 
-IV.- Considere que un acto o resolución de la autoridad, organismos electorales o de asociaciones políticas, vulneren sus derechos de votar y ser votado en las elecciones locales, y de afiliarse o asociarse libre e individualmente a los partidos políticos.
+III.- Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político o agrupación política;
+
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+IV.- Considere que un acto o resolución de la autoridad, organismos electorales o de asociaciones políticas, vulneren sus derechos de votar y ser votado en las elecciones locales, y de afiliarse o asociarse libre e individualmente a los partidos políticos;
+
+> <small>(ADICIONADA, D.O. 31 DE MAYO DE 2017)</small>
+
+V.- Existan violaciones al derecho de ser votado en su vertiente de acceso y desempeño de un cargo de elección popular o su correspondiente remuneración, y
+
+> <small>(ADICIONADA, D.O. 31 DE MAYO DE 2017)</small>
+
+VI.- Existan violaciones al derecho a integrar órganos electorales en su vertiente de acceso y desempeño del cargo o su correspondiente remuneración.
 
 ## TITULO CUARTO. DE LAS REGLAS DE ADMISION
 
@@ -411,11 +443,11 @@ Las autoridades organismos electorales o asociaciones políticas deberán propor
 
 ### CAPITULO II. DE LA SUSTANCIACION
 
-(F. DE. E., D.O. 28 DE SEPTIEMBRE DE 2006)
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
 
 ###### Artículo 31.
 
-Una vez recibido el recurso de apelación, de inconformidad o el juicio para la protección de los derechos político electorales del ciudadano yucateco; en el Tribunal, será turnado al Magistrado que corresponda, quien tendrá la obligación de revisar que reúna todos los requisitos de procedibilidad indicados en el capitulo II del Titulo Cuarto de esta Ley.
+Una vez recibido el recurso de apelación, de revisión del procedimiento especial sancionador, de inconformidad o el juicio para la protección de los derechos político electorales del ciudadano yucateco; en el Tribunal, será turnado al magistrado que corresponda, quien tendrá la obligación de revisar que reúna todos los requisitos de procedibilidad indicados en el capítulo II del título cuarto de esta ley.
 
 ###### Artículo 32.
 
@@ -479,19 +511,27 @@ Las diligencias que deban practicarse fuera del Tribunal podrán ser realizadas 
 
 ### CAPITULO III. DE LOS MEDIOS DE APREMIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 42.
 
-Para hacer cumplir sus determinaciones, mantener el buen orden y exigir que se guarde el respeto y la consideración debidos, el Tribunal podrá hacer uso discrecionalmente de los medios de apremio y correcciones disciplinarias siguientes:
+Para hacer cumplir sus determinaciones y sentencias; así como mantener el buen orden y exigir que se guarde el respeto y la consideración debidos, el Tribunal deberá hacer uso de los medios de apremio y seguridad siguientes:
 
 I.- Apercibimiento;
 
 II.- Amonestación;
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
 
-III.- Multa de una a cien unidades de medida y actualización, y
+III.- Multa hasta por cien veces la Unidad de Medida y Actualización,
 
-IV.- Auxilio de la fuerza pública.
+> <small>(ADICIONADA, D.O. 31 DE MAYO DE 2017)</small>
+
+IV.- Embargo, y
+
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+V.- Auxilio de la fuerza pública.
 
 Los medios de apremio serán aplicados por el Presidente del Tribunal.
 
@@ -505,11 +545,21 @@ I.- El Consejo General, respecto de los recursos de revisión interpuesto (sic) 
 
 II.- El Tribunal:
 
-a).- Respecto de los recursos de apelación interpuestos tanto en la etapa preparatoria de la elección como una vez concluido el proceso electoral;
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
 
-b).- Respecto de los recursos de inconformidad, y
+a).- Respecto de los recursos de apelación;
 
-c).- Respecto del juicio para la protección de los derechos político electorales del ciudadano yucateco.
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
+b).- Respecto de los recursos de inconformidad,
+
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
+c).- Respecto del juicio para la protección de los derechos político electorales del ciudadano yucateco, y
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+d).- Respecto del recurso de revisión del procedimiento especial sancionador.
 
 Todos los recursos interpuestos dentro de los cinco días previos al de la elección, serán resueltos por el Tribunal al resolver los recursos de inconformidad con los cuales guarde relación.
 
@@ -819,13 +869,175 @@ VII.- Declarada la nulidad de la elección en un municipio, en un distrito elect
 
 Las resoluciones del Tribunal que recaigan en el juicio para la protección de los derechos político electorales del ciudadano yucateco, tendrán como efecto confirmar o revocar el acto o resolución impugnado y en su caso, restituir al ciudadano en el goce y ejercicio de su derecho vulnerado.
 
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 73.
 
-En todo caso, el Tribunal al emitir sus resoluciones, aplicará los principios de legalidad y exhaustividad.
+En todo caso, el Tribunal al emitir sus resoluciones, aplicará los principios de convencionalidad, pro persona, legalidad y exhaustividad.
 
 ###### Artículo 74.
 
 Los magistrados podrán ser compelidos para que administren pronta y expedita justicia, mediante la excitativa de justicia, cuando aparezca que han dejado transcurrir los términos legales sin dictar las resoluciones que correspondan; la cual podrá ser formulada por escrito, que se presente ante el presidente del Tribunal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE MAYO DE 2017)</small>
+
+### CAPITULO V. DEL CUMPLIMIENTO Y EJECUCIÓN DE SENTENCIAS
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 75.
+
+Las ejecutorias del Tribunal deben ser exactamente cumplidas. Al efecto, cuando cause ejecutoria una sentencia en que se hayan concedido obligaciones de hacer o de pagar y de restituir en el goce y ejercicio del derecho vulnerado, el Tribunal la notificará de inmediato a las partes. Para tal efecto, el Tribunal autorizará al Secretario General de Acuerdos o al personal que determine el pleno para realizar las diligencias correspondientes para constatar el cumplimiento de la sentencia.
+
+Cuando transcurrido el plazo señalado no se haya recibido oficio de cumplimiento o de estar en vías de cumplimento, el pleno del Tribunal, para seguir el trámite de cumplimiento de sentencia, que puede culminar con la separación del puesto y la consignación de la autoridad o funcionario partidista que incumpla o retarde la ejecución de la sentencia, sin causa justificada.
+
+Al ordenar la notificación y requerimiento a la autoridad o partido político, el Tribunal, también ordenará notificar y requerir al superior jerárquico de aquellos, en su caso, para que le ordene cumplir con la ejecutoria, bajo el apercibimiento que de no hacerlo así, se le impondrá a su titular una multa en los términos señalados en esta Ley. Lo anterior sin perjuicio de las demás responsabilidades administrativas, políticas o penales en que incurran los servidores públicos o los partidos políticos.
+
+El Tribunal, cuando tenga conocimiento de hechos que puedan constituir delitos o responsabilidades de servidores públicos o partidos políticos, dará parte a las autoridades correspondientes, para que conozca (sic) del asunto y proceda (sic) con los trámites de ley.
+
+Se entiende como superior jerárquico la autoridad o funcionario partidista, el que de conformidad con las disposiciones correspondientes ejerza sobre ella poder o mando para obligarla a actuar o dejar el (sic) actuar en la forma exigida en la sentencia o bien para cumplir esta última por sí misma.
+
+Se considerará como superior jerárquico, para efectos de las sanciones a que se (sic) hace referencia esta ley:
+
+I.- El consejero presidente del Instituto Electoral y de Participación Ciudadana de Yucatán;
+
+II.- Los presidentes municipales;
+
+III.- Los presidentes de los partidos políticos o cargos equivalentes, y
+
+IV.- Las demás que determine el Tribunal en sus sentencias.
+
+La autoridad requerida como superior jerárquico, incurre en responsabilidad por falta de cumplimento de las sentencias, en los términos que las autoridades contra cuyos actos se hubiere (sic) dictado en la ejecutoria.
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 76.
+
+En la notificación señalada en el artículo anterior, se requerirá para que se cumpla con la ejecutoria dentro del plazo de tres días, apercibidos los sentenciados que de no hacerlo así sin causa justificada, se impondrán los medios de apremio y seguridad que señala esta ley.
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 77.
+
+El Tribunal, al hacer los requerimientos, podrá ampliar el plazo de cumplimiento tomando en cuenta su complejidad o dificultad debiendo fijar un plazo razonable y estrictamente determinado.
+
+Asimismo, en casos urgentes y de notorio perjuicio para la parte que haya obtenido sentencia favorable, ordenará el cumplimiento inmediato por los medios oficiales de que disponga.
+
+Se considera (sic) casos urgentes y de notario (sic) perjuicio:
+
+I.- La asignación de diputados por el principio de representación proporcional, antes del 19 de agosto del año de la elección.
+
+II.- La asignación de regidores por el principio de representación proporcional, antes del 19 de agosto del año de la elección.
+
+III.- La emisión de constancias de mayoría y validez de las elecciones del gobernador, diputados locales de mayoría relativa y presidentes municipales, antes del 19 de agosto del año de la elección.
+
+IV.- La posibilidad de competir en las elecciones partidistas internas para ser electo candidato, antes del inicio del período de campañas en las fechas que señale el Instituto Electoral y de Participación Ciudadana de Yucatán y la ley.
+
+V.- El registro como candidato independiente, antes del inicio del período de campañas en las fechas que señale el Instituto Electoral y la ley.
+
+VI.- La restitución de derechos por resolución de un juicio para la protección de los derechos político electorales;
+
+VII.- Las demás que con ese carácter determine el Tribunal, o, las que prevean las demás leyes.
+
+En los términos y casos antes enunciados, se procederá de inmediato, siempre, que la naturaleza de los mismos y los términos electorales previstos en la Ley General y la Ley de Instituciones y Procedimientos Electorales del Estado, lo permita (sic) y sea posible la reparación y ejecución puntual de la sentencia.
+
+En caso de ser imposible jurídica y materialmente la ejecutoria de casos urgentes y de notorio perjuicio, se podrá a (sic) cumplir la misma, en términos del artículo 82 de esta ley.
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 78.
+
+Si la ejecutoria no quedó cumplida en el plazo fijado, el Tribunal de oficio o a petición de parte iniciará el incidente de cumplimiento que se tramitará con las pruebas que obren en el expediente, dando vista por tres días hábiles a las partes para manifestar lo que a su derecho convenga y el Tribunal emitirá el pronunciamiento respectivo e impondrá los medios de apremio y seguridad que procedan, lo cual será notificado a las partes, sin perjuicio de continuar el trámite de oficio del incumplimiento.
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 79.
+
+Se considerará también como incumplimiento el retraso por medio de evasivas o procedimientos ilegales del sentenciado o de cualquiera que intervenga en el trámite relativo.
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 80.
+
+Si se demuestra que la ejecutoria está en vías de cumplimiento o se justifica la causa del retraso, el Tribunal podrá ampliar el plazo por una sola vez, subsistiendo los apercibimientos o medios de apremio y seguridad efectuados.
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 81.
+
+Cuando la parte sentenciada informe haber dado cumplimiento de la ejecutoria, ya sea en obligaciones de pago o de restitución y goce de derechos, el Tribunal dará vista por tres días hábiles a las partes para manifestar lo que a su derecho convenga. Transcurrido el plazo dado a las partes, con desahogo de la vista a (sic) sin ella, el Tribunal, dictará resolución fundada y motivada en que declare si la sentencia está cumplida o no lo está, si incurrió en exceso o defecto, o si hay imposibilidad para cumplirla.
+
+La ejecutoria se entiende cumplida cuando lo sea su totalidad.
+
+Si en estos términos el Tribunal la declara cumplida, ordenará el archivo del expediente como totalmente concluido.
+
+Si no está cumplida, proveerá lo necesario para que sea inmediatamente cumplida, utilizando para ello los medios de apremio y seguridad que señala esta ley. En el caso de que sea imposible cumplir, deberá aperturarse el incidente de cumplimiento sustituto.
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 82.
+
+Independientemente de lo establecido en los artículos anteriores, las partes pueden celebrar convenios a través del cual (sic) se tenga por cumplida la ejecutoria. Del convenio se dará aviso al Tribunal; éste, una vez que se le compruebe que los términos del convenio fueron cumplidos, mandará archivar el expediente. Este artículo solo aplicará cuando sea con motivo de una ejecutoria relacionada con violaciones al derecho a ser votado en su vertiente de acceso y desempeño del cargo o su correspondiente remuneración.
+
+Para celebrar los convenios de cumplimiento sustituto, se aperturará el incidente correspondiente, mismo que tendrá por efecto que la ejecutoria se dé por cumplida mediante el pago de los daños y perjuicios al actor del juicio que hubiere obtenido sentencia favorable. Dicho incidente se tramitará conforme a la aplicación supletoria del Código de Procedimientos Civiles del Estado.
+
+El cumplimiento sustituto podrá ser solicitado por cualquiera de las partes o decretado de oficio por el Tribunal, en los casos en que por las circunstancias materiales del caso, sea imposible o desproporcionadamente gravoso restituir las cosas a la situación que guardaban con anterioridad al juicio.
+
+La solicitud podrá presentarse, ante el Tribunal a partir del momento en que cause ejecutoria la sentencia.
+
+Declarado procedente el incidente de cumplimiento sustituto, el Tribunal, concederá un plazo de 10 días para que las partes presentes (sic) sus respectivas planillas de liquidación, en los (sic) cuales se detalle la forma y cuantía de la restitución, en caso de discordia, el Tribunal, determinará la cuantía, de la liquidación y los daños y perjuicios, sujetándose a los (sic) establecido a la aplicación supletoria del Código de Procedimiento (sic) Civiles del Estado.
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 83.
+
+En el supuesto de que sea necesario precisar, definir o concretar la forma o términos del cumplimiento de la ejecutoria, el Tribunal, podrá ordenar, de oficio o a petición de parte, que se abra un incidente para tal efecto.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE MAYO DE 2017)</small>
+
+### CAPITULO VI. DEL INCIDENTE DE INCONFORMIDAD EN LA EJECUCIÓN DE LAS SENTENCIAS
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 84.
+
+El incidente de inconformidad en la ejecución de las sentencias, procede contra la resolución que:
+
+I.- Tenga por cumplida la ejecutoria, en los términos del artículo 81 de esta ley; o,
+
+II.- Declare que existe imposibilidad material o jurídica para cumplir la misma cuando se hubiere agotado el procedimiento del artículo 82 de esta ley, sin haber llegado a un convenio sancionado por el Tribunal; u ordene el archivo definitivo del asunto como totalmente concluido.
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 85.
+
+El incidente de inconformidad podrá interponerse por el actor o, en su caso, por el tercero interesado, mediante escrito presentado ante el Tribunal, dentro del plazo de 3 días contados a partir de que surta efectos la notificación.
+
+Cuando se haya concedido la sentencia al actor, y esta contenga resolutivo en la que considere como caso urgente o de notorio perjuicio, la inconformidad podrá ser interpuesta en cualquier tiempo, aun por comparecencia del actor o de su representante legal ante el Tribunal, el cual, desde luego, la admitirá a trámite ordenando la justificación inmediata a las demás partes para que en el plazo de 24 horas rindan informe sobre el cumplimiento de la ejecutoria.
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 86.
+
+El Tribunal, resolverá allegándose de los elementos necesarios y los autos que obren en el expediente, así como de las certificaciones que haga el secretario de acuerdos del Tribunal, tomando en consideración las pruebas ofrecidas por el actor.
+
+El Tribunal, deberá emitir la resolución dentro del plazo de 3 días, decidiendo sobre la materia, ordenando declarar que no está debidamente cumplida la sentencia, ordenando en caso de ser favorable lo conducente para lograr su cabal cumplimiento.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 31 DE MAYO DE 2017)</small>
+
+### CAPITULO VII. DEL DELITO DE INCUMPLIMIENTO DE SENTENCIAS DICTADAS POR EL TRIBUNAL ELECTORAL DEL ESTADO DE YUCATÁN
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 87.
+
+Se impondrá pena de tres a seis años de prisión, multa de cien a mil días de la unidad de medida y actualización, en su caso destitución e inhabilitación de cinco a diez años para desempeñar otro empleo, cargo, o comisión en el servicio público a la autoridad o funcionario de partido político que dolosamente:
+
+I.- Incumpla una sentencia o no la haga cumplir; y,
+
+II.- Omita cumplir cabalmente con la resolución, cuando haya sido apercibido y notificado del incidente de inejecución y su resolución.
+
+Las mismas penas que se señalan en este artículo serán impuestas en su caso al superior de la autoridad o dirigente de partido político que no haga cumplir una sentencia ejecutoriada del Tribunal.
 
 T R A N S I T O R I O S:
 
@@ -1010,3 +1222,23 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 31 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 490/2017 POR EL QUE SE MODIFICA LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE YUCATÁN Y LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Se derogan las disposiciones legales, reglamentarias y acuerdos, que se opongan al presente decreto.
+
+Las disposiciones normativas internas del Instituto que no se opongan al presente decreto, continuarán vigentes hasta su adecuación.
+
+Artículo tercero. Las normas en materia del Órgano Interno de Control del Instituto a que se refiere el artículo primero de este decreto, entrarán en vigor a partir de la fecha en que entren en vigencia las nuevas normas en materia de responsabilidades de los servidores públicos en el estado de Yucatán.
+
+Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a la Contraloría, se entenderá (sic) asignado (sic) al Órgano Interno de Control a que se refiere el presente decreto.
+
+Artículo cuarto. El Director Ejecutivo de Procedimientos Electorales y Participación Ciudadana del Instituto, a partir de la entrada en vigor del presente decreto será Director de Organización Electoral y de Participación Ciudadana.
+
+Artículo quinto. El Contralor del Instituto, a partir de la entrada en vigor del presente decreto será Titular del Órgano Interno de Control.
+
+Artículo sexto. La reforma contenida en el artículo 52 de la Ley de Partidos Políticos del Estado de Yucatán, referente al financiamiento público entrará en vigor a partir del 1 de octubre de 2017.
