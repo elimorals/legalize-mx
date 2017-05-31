@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2017-05-26"
+last_updated: "2017-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "MOR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2017 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE MAYO DE 2017.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -3117,9 +3117,9 @@ En caso de que se declare procedente la desaparición o suspensión definitiva d
 
 ###### Artículo 190.
 
-Si la desaparición o suspensión definitiva de un Ayuntamiento se declara dentro de los doce meses del inicio de su ejercicio, el Concejo Municipal designado por el Congreso tendrá el carácter de provisional; en este caso el propio Congreso convocará a nueva elección del Ayuntamiento, de conformidad con las disposiciones de la Ley General de Instituciones y Procedimientos Electorales y del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos. El Ayuntamiento electo concluirá el periodo respectivo.
+Si la desaparición o suspensión definitiva de un Ayuntamiento se declara dentro de los doce meses del inicio de su ejercicio, el Concejo Municipal designado por el Congreso tendrá el carácter de provisional; en este caso el propio Congreso convocará a nueva elección del Ayuntamiento, de conformidad con las disposiciones de la Ley General de Instituciones y Procedimientos Electorales y del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos. El Ayuntamiento electo concluirá el período respectivo.
 
-En caso de que la desaparición del Ayuntamiento se declare dentro de los últimos veinticuatro meses de su ejercicio, el Concejo Municipal designado concluirá el período respectivo.
+En caso de que la desaparición del Ayuntamiento se declare dentro de los últimos veinticuatro meses de su ejercicio, el Concejo Municipal designado concluirá el periodo respectivo.
 
 ###### Artículo 191.
 
@@ -4023,7 +4023,9 @@ QUINTA. Por única ocasión, los plazos a los que hace referencia el artículo 1
 
 a) Para el registro de candidatura a Gobernador del estado, será del 20 al 24 de abril de 2018;
 
-b) Para el registro de candidaturas a Diputados del Congreso del Estado, será del 25 al 29 de abril de 2018, y
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2017)</small>
+
+b) Para el registro de candidaturas a Diputados del Congreso del Estado y miembros de los ayuntamientos, será del 25 al 29 de abril de 2018.
 
 c) Para el registro de la plataforma electoral por parte de los partidos políticos, será del 25 al 29 de abril de 2018.
 
