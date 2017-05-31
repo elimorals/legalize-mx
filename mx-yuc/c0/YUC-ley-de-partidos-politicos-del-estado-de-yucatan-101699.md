@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-partidos-politicos-del-estado-de-yucatan-101699"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-28"
-last_updated: "2017-05-08"
+last_updated: "2017-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE PARTIDOS POLITICOS DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE MAYO DE 2017.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 28 de junio de 2014.
 
@@ -95,9 +97,9 @@ III. Cualquier forma de afiliación corporativa.
 
 Los partidos políticos promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes. En la integración de sus órganos internos, buscarán la participación efectiva de ambos géneros.
 
-> <small>(REFORMADO, D.O. 8 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
 
-Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a legisladores locales y a regidores. Éstos deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
+Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a diputados locales, presidentes municipales, síndicos y regidores de los ayuntamientos. Éstos deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
 
 En ningún caso, se admitirán criterios que tengan como resultado que alguno de los géneros le sean asignados exclusivamente aquellos distritos electorales locales en los que el partido político haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
@@ -445,7 +447,9 @@ XVII. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusio
 
 XVIII. Abstenerse de realizar afiliaciones colectivas de ciudadanos;
 
-XIX. Garantizar la paridad entre los géneros en candidaturas a diputados locales;
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+XIX. Garantizar la paridad entre los géneros en candidaturas a diputados locales, presidentes municipales, síndicos y regidores de los ayuntamientos;
 
 XX. Elaborar y entregar al Instituto los informes de origen y uso de recursos a que se refiere la presente Ley, en caso de que se encuentre delegada esta facultad;
 
@@ -487,9 +491,11 @@ III. Gozar del régimen fiscal que se establece en esta Ley y en las leyes de la
 
 Las disposiciones del presente capítulo son de carácter obligatorio para los partidos políticos sin perjuicio de lo dispuesto en la legislación en materia de transparencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 28.
 
-Toda persona tiene derecho a acceder a la información de los partidos políticos de conformidad con las normas previstas en este capítulo y en la legislación en materia de transparencia y acceso a la información en el Estado. El Instituto Estatal de Acceso a la Información Pública tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales en posesión de los partidos políticos.
+Toda persona tiene derecho a acceder a la información de los partidos políticos de conformidad con las normas previstas en este capítulo y en la legislación en materia de transparencia y acceso a la información en el estado. El Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales en posesión de los partidos políticos.
 
 Las personas accederán a la información de los partidos políticos de manera directa, en los términos que dispone el artículo 75 de la Constitución en materia de transparencia.
 
@@ -863,6 +869,12 @@ d) Las cantidades que, en su caso, se determinen para cada partido, serán entre
 
 e) Cada año se actualizará el monto total del financiamiento público conforme al incremento de las unidades de medida y actualización, en su caso, pero exclusivamente, para efecto de actualizar las cantidades anuales que del mismo le corresponda a los partidos políticos, sin que pueda aplicarse retroactivamente.
 
+(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+EN LOS MESES Y AÑOS EN LOS QUE NO SE DESARROLLE PROCESO ELECTORAL, DICHO FINANCIAMIENTO PÚBLICO SE OTORGARÁ EN UN 50% DEL RESULTADO DE LA OPERACIÓN SEÑALADA EN LOS INCISOS ANTERIORES.
+
 II. Para las actividades tendientes a la obtención del voto:
 
 a) En el año de la elección en que se renueven los Poderes Ejecutivo y Legislativo del Estado y los Ayuntamientos, a cada partido se le otorgará un monto conforme a lo establecido por la fracción I, inciso b), numeral 1 del artículo 51 de la Ley General.
@@ -931,13 +943,19 @@ IV. El autofinanciamiento, que estará constituido por los ingresos que los part
 
 El financiamiento privado se ajustará a los siguientes límites anuales:
 
-I. Para el caso de las aportaciones de militantes, el 2% del financiamiento público otorgado a la totalidad de los partidos políticos para el sostenimiento de sus actividades ordinarias y precampañas en el año de que se trate;
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
 
-II. Para el caso de las aportaciones de candidatos, así como de simpatizantes durante los procesos electorales, el 10 % del tope de gasto para la elección de Gobernador inmediata anterior, para ser utilizadas en las campañas de sus candidatos;
+I. En lo concerniente a las aportaciones de militantes, hasta el 30% del financiamiento público otorgado a la totalidad de los partidos políticos para el sostenimiento de sus actividades ordinarias y precampañas en el año de que se trate, siempre que prevalezca el financiamiento público destinado a cada uno en lo particular;
+
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+II. Para el caso de las aportaciones de candidatos, así como de simpatizantes durante los procesos electorales, el 8 % del tope de gasto para la elección de Presidente de la República inmediata anterior, para ser utilizadas en las campañas de sus candidatos;
 
 III. Cada partido político, a través del órgano previsto en el artículo 44 fracción III de esta Ley, determinará libremente los montos mínimos y máximos y la periodicidad de las cuotas ordinarias y extraordinarias de sus militantes, así como de las aportaciones voluntarias y personales que los precandidatos y candidatos aporten exclusivamente para sus precampañas y campañas, y
 
-IV. Las aportaciones de simpatizantes tendrán como límite individual anual el 0.5% del tope de gasto para la elección de gobernador inmediata anterior.
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+IV. Las aportaciones de simpatizantes tendrán como límite individual anual, aquel que señale el numeral 2, inciso d) del artículo 56 de la Ley General de Partidos Políticos.
 
 Los partidos políticos deberán expedir recibos foliados en los que se hagan constar el nombre completo y domicilio, clave de elector y, en su caso, Registro Federal de Contribuyentes del aportante. Para el caso de que la aportación se realice con cheque o transferencia bancaria, la cuenta de origen deberá estar a nombre del aportante. Invariablemente las aportaciones o cuotas deberán depositarse en cuentas bancarias a nombre del partido político, de conformidad con lo que se establezca en el reglamento correspondiente.
 
@@ -1337,6 +1355,20 @@ Dos o más partidos políticos, sin mediar coalición, podrán postular candidat
 
 Para efectos de la elección, la votación obtenida se sumará en favor de los candidatos y para todos los demás efectos se computarán a favor de cada uno de los partidos.
 
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 79 Bis.
+
+En el escrutinio y cómputo, tratándose de candidaturas comunes, si apareciera cruzado más de uno de los respectivos emblemas de los partidos políticos postulantes, se asignará el voto al candidato común, lo que deberá consignarse en el apartado respectivo del acta de escrutinio y cómputo correspondiente.
+
+En su caso, se sumarán los votos que hayan sido emitidos a favor de dos o más partidos políticos que hayan postulado un candidato común, y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla. La suma distrital o municipal de tales votos se distribuirá igualitariamente entre los partidos políticos que postularon al candidato común; de existir fracción, los votos correspondientes se asignarán a los partidos políticos de más alta votación. Este cómputo será la base para la asignación de representación proporcional u otras prerrogativas.
+
+En todo caso, cada uno de los partidos postulantes de candidatura común, deberá registrar listas propias de candidatos a diputados por el principio de representación proporcional.
+
+Los partidos de nueva creación que no hayan contendido en una elección en el Estado, no podrán postular candidatos comunes.
+
+Las candidaturas comunes que se postulen para integrar ayuntamientos, comprenderán siempre planillas de propietarios y suplentes. Por ello, las planillas presentadas por los partidos políticos postulantes deberán estar conformadas por los mismos candidatos y en el mismo orden.
+
 ### CAPÍTULO IV. De las coaliciones
 
 ###### Artículo 80.
@@ -1495,11 +1527,15 @@ VII. No obtener por lo menos el 3% de la votación válida emitida en alguna de 
 
 VIII. Haberse fusionado con otro partido político, en los términos del capítulo anterior;
 
-IX. Incumplir de manera grave y sistemática a juicio del Consejo General del Instituto, las obligaciones que le señala la normatividad electoral;
+> <small>(ADICIONADA, D.O. 31 DE MAYO DE 2017)</small>
 
-X. Haber sido declarado disuelto por acuerdo de sus miembros conforme a lo que establezcan sus estatutos, y
+IX. Incumplir de manera grave y sistemática a juicio del Consejo General del Instituto, las obligaciones que le señala la normatividad electoral, y
 
-XI. Perder su registro ante el Instituto Nacional Electoral, salvo en el caso de lo previsto en el último párrafo del artículo siguiente.
+> <small>(ADICIONADA, D.O. 31 DE MAYO DE 2017)</small>
+
+X. Haber sido declarado disuelto por acuerdo de sus miembros conforme a lo que establezcan sus estatutos.
+
+XI. (DEROGADA, D.O. 31 DE MAYO DE 2017)
 
 ###### Artículo 90.
 
@@ -1616,3 +1652,23 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Derogación tácita.
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 31 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 490/2017 POR EL QUE SE MODIFICA LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE YUCATÁN Y LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Se derogan las disposiciones legales, reglamentarias y acuerdos, que se opongan al presente decreto.
+
+Las disposiciones normativas internas del Instituto que no se opongan al presente decreto, continuarán vigentes hasta su adecuación.
+
+Artículo tercero. Las normas en materia del Órgano Interno de Control del Instituto a que se refiere el artículo primero de este decreto, entrarán en vigor a partir de la fecha en que entren en vigencia las nuevas normas en materia de responsabilidades de los servidores públicos en el estado de Yucatán.
+
+Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a la Contraloría, se entenderá asignado al Órgano Interno de Control a que se refiere el presente decreto.
+
+Artículo cuarto. El Director Ejecutivo de Procedimientos Electorales y Participación Ciudadana del Instituto, a partir de la entrada en vigor del presente decreto será Director de Organización Electoral y de Participación Ciudadana.
+
+Artículo quinto. El Contralor del Instituto, a partir de la entrada en vigor del presente decreto será Titular del Órgano Interno de Control.
+
+Artículo sexto. La reforma contenida en el artículo 52 de la Ley de Partidos Políticos del Estado de Yucatán, referente al financiamiento público entrará en vigor a partir del 1 de octubre de 2017.
