@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-instituciones-y-procedimientos-electorales-del-101698"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-28"
-last_updated: "2017-05-08"
+last_updated: "2017-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE MAYO DE 2017.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el sábado 28 de junio de 2014.
 
@@ -47,9 +47,11 @@ LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN
 
 ### CAPÍTULO ÚNICO. De los fines de la ley
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público y observancia general en el Estado de Yucatán. Reglamenta las normas constitucionales relativas a la competencia local en las materias siguientes:
+Las disposiciones de esta Ley son de orden público y observancia general en el Estado de Yucatán y para los ciudadanos que ejerzan su derecho al sufragio en territorio extranjero. Reglamenta las normas constitucionales relativas a la competencia local en las materias siguientes:
 
 I. La organización y calificación de elecciones para la renovación de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos, así como los mecanismos de participación ciudadana;
 
@@ -182,6 +184,10 @@ En caso de empate en la elección de diputado por el principio de mayoría relat
 El voto es universal, libre, secreto, directo, personal e intransferible y expresa la voluntad de los ciudadanos yucatecos. Los actos que generen presión o coacción a los electores, serán sancionados conforme a lo dispuesto por esta Ley y la legislación penal aplicable.
 
 Votar en las elecciones constituye un derecho y una obligación del ciudadano yucateco, que se ejerce para integrar los órganos de elección popular del Estado y sus municipios, así como para participar en los medios de consulta popular y demás mecanismos de participación ciudadana sobre temas trascendentales en el Estado conforme a la Ley en la materia.
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+Los ciudadanos yucatecos que residan en el extranjero podrán ejercer su derecho al voto para la elección de Gobernador del Estado, de conformidad con lo previsto en el artículo 7 fracción I de la Constitución Política del Estado de Yucatán, en el libro sexto de la Ley General de Instituciones y Procedimientos Electorales, así como en los lineamientos y acuerdos que emita el Instituto Nacional Electoral y el Instituto.
 
 Es derecho exclusivo de los ciudadanos participar como observadores de los actos de preparación y desarrollo de los procesos electorales locales, así como en los mecanismos de participación ciudadana que se realicen de conformidad con las disposiciones legales y normativas aplicables.
 
@@ -639,9 +645,11 @@ Si de la verificación realizada se advierte que se omitió el cumplimiento de u
 
 Si no se subsanan los requisitos omitidos o se advierte que la solicitud se realizó en forma extemporánea, se tendrá por no presentada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 59.
 
-Una vez que sea entregada la cédula donde conste el Apoyo Ciudadano y se cumplan los demás requisitos establecidos en esta Ley, la Dirección Ejecutiva de Procedimientos Electorales y Participación Ciudadana del Instituto, procederá a verificar, en un término hasta de 10 días, que se haya reunido el porcentaje de apoyo ciudadano que corresponda según la elección de que se trate, constatando que los ciudadanos aparecen en la lista nominal de electores.
+Una vez que sea entregada la cédula donde conste el Apoyo Ciudadano y se cumplan los demás requisitos establecidos en esta Ley, la Dirección Ejecutiva de Organización Electoral y de Participación Ciudadana del Instituto, procederá a verificar, en un término hasta de 10 días, que se haya reunido el porcentaje de apoyo ciudadano que corresponda según la elección de que se trate, constatando que los ciudadanos aparecen en la lista nominal de electores.
 
 Las firmas no se computarán para los efectos del porcentaje requerido cuando se presente alguna de las siguientes circunstancias:
 
@@ -1013,13 +1021,15 @@ La independencia y autonomía del Instituto es de naturaleza política, jurídic
 
 El Instituto estará obligado a presentar su cuenta pública en los términos legales.
 
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 105.
 
-El Instituto contará con el personal necesario para el desempeño de sus actividades.
+El Instituto contará con el personal necesario para el desempeño de sus actividades, será considerado de confianza y, en lo relativo a las prestaciones, disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social sea la que pertenezca al Estado de Yucatán o a cualquier otro.
 
-El personal que integre el Servicio Profesional Electoral y las distintas ramas administrativas del Instituto será considerado de confianza y, en lo relativo a las prestaciones, disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social conforme a la legislación aplicable.
+El pago de salarios y prestaciones que deriven de la normativa o condiciones generales de trabajo se llevará a cabo con cargo al presupuesto anual aprobado por el Congreso del Estado de Yucatán.
 
-El Servicio Profesional Electoral del Instituto se integrará con el personal de los cargos siguientes: subdirectores, jefes de departamento, jefes de oficina, técnicos especializados y auxiliares administrativos de las Direcciones Ejecutivas de Procedimientos Electorales y Participación Ciudadana y de Capacitación Electoral y Educación Cívica.
+Los derechos laborales de los trabajadores del Instituto que se establezcan en las leyes o en su normatividad interna, no podrán ser afectados salvo procedimiento previamente establecido, en los que deberá (sic) garantizarse los principios de legalidad, debido proceso y defensa adecuada.
 
 ###### Artículo 106.
 
@@ -1145,7 +1155,9 @@ La infracción a lo dispuesto en el párrafo anterior, será causa de responsabi
 
 El Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Consejo General del Instituto, durante el período de su encargo, no podrán tener ningún otro empleo, cargo o comisión con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
 
-Concluido su encargo, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular, cargos en la administración pública, en los órganos jurisdiccionales o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
+Concluido su encargo, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular, cargos en la administración pública o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
 ### CAPÍTULO III. De las atribuciones del consejo general
 
@@ -1205,15 +1217,21 @@ XXV. Registrar a los candidatos independientes que se postulen para las distinta
 
 XXVI. Registrar supletoriamente los nombramientos de representantes generales y de representantes de partidos políticos, coaliciones o candidatos independientes ante las mesas directivas de cada casilla. Esta facultad se aplicará cuando la función de la integración de la mesa directiva de casilla le sea delegada por el Instituto Nacional Electoral o por autoridad competente;
 
-XXVII. Nombrar coordinadores necesarios, en los distritos electorales, para mantener el vínculo permanente entre los Consejos Distritales y Municipales con el Consejo General del Instituto;
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
+
+XXVII. Nombrar 20 coordinadores distritales a más tardar el 30 de septiembre del año previo al de la elección, para mantener el vínculo permanente entre los consejos distritales y municipales con el Consejo General del Instituto, mismos que serán asignados acorde a la dimensión territorial correspondiente.
 
 Sus funciones serán de apoyo a las actividades de los consejos distritales y municipales electorales, de comunicación entre éstos y el Consejo General del Instituto, de auxilio en la entrega de los materiales electorales y las demás que expresamente le ordene este último.
 
-XXVIII. A propuesta de los partidos políticos y organizaciones sociales, designar a los consejeros electorales, propietarios y suplentes, de los consejos distritales y municipales. Para este propósito el Consejo General del Instituto podrá contar con la colaboración de la Junta Local del Instituto Nacional Electoral, a fin de determinar a las personas idóneas para esos cargos.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
+
+XXVIII. Designar a los consejeros electorales, propietarios y suplentes, de los consejos distritales y municipales.
 
 Los partidos políticos podrán objetar fundadamente las propuestas por medio de sus representantes acreditados, obligándose el Consejo General del Instituto a recibir y responder a las objeciones;
 
-XXIX. Previo a la fecha de instalación de los consejos distritales y municipales, designar a los secretarios ejecutivos. Los partidos políticos y coaliciones podrán objetar fundadamente las propuestas a que se refiere el segundo párrafo de la fracción anterior, por medio de sus representantes acreditados, obligándose el Consejo General del Instituto a recibir, dar trámite y responder sobre la procedencia de las citadas objeciones;
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+XXIX. Designar a los secretarios ejecutivos a más tardar el 30 de septiembre del año previo al de la elección. Los partidos políticos podrán objetar fundadamente las propuestas, por medio de sus representantes acreditados, obligándose el Consejo General del Instituto a recibir, dar trámite y responder sobre la procedencia de las citadas objeciones;
 
 XXX. Remitir a los consejos distritales electorales la cartografía, el proyecto de ubicación de casillas, cuando le corresponda, y las listas nominales de electores;
 
@@ -1271,7 +1289,29 @@ LV. Autorizar a la Unidad Técnica de Fiscalización implemente procesos extraor
 
 LVI. Emitir los acuerdos necesarios, para el correcto desarrollo de las funciones del Instituto cuando exista discrepancia o para una correcta vinculación con las funciones del Instituto Nacional Electoral o su normatividad;
 
-LVII. Las demás que le confieran la Constitución, esta Ley y las demás aplicables.
+> <small>(ADICIONADA, D.O. 31 DE MAYO DE 2017)</small>
+
+LVII. Emitir acuerdos y aplicar disposiciones generales, reglas, lineamientos, criterios y formatos para garantizar la paridad de género para el registro de candidaturas a diputados y a regidores de ayuntamientos en sus dimensiones horizontal y vertical, en términos de lo dispuesto por la Constitución Política del Estado de Yucatán, la Ley de Partidos Políticos del Estado de Yucatán y esta ley;
+
+> <small>(ADICIONADA, D.O. 31 DE MAYO DE 2017)</small>
+
+LVIII. Emitir acuerdos y aplicar disposiciones generales, reglas, lineamientos, criterios y formatos para garantizar el voto en el extranjero para la elección de Gobernador del Estado, en términos de lo dispuesto por la Constitución Federal, las leyes generales de la materia, la Constitución Política del Estado de Yucatán, esta ley, y las demás disposiciones que establezca el Instituto Nacional Electoral, y
+
+(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN LIX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, D.O. 31 DE MAYO DE 2017)</small>
+
+LIX. APROBAR EL ACUERDO DE DESIGNACIÓN E INCORPORACIÓN DEL PERSONAL DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL.
+
+(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN LX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, D.O. 31 DE MAYO DE 2017)</small>
+
+LX. EMITIR EL LINEAMIENTO PARA VIGILAR, REGULAR Y RESOLVER LAS CUESTIONES QUE SE REFIERAN AL PERSONAL DEL INSTITUTO Y DAR SEGUIMIENTO AL SERVICIO PROFESIONAL ELECTORAL, Y
+
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+LXI. Las demás que le confieran la Constitución Política del Estado, esta ley y las demás aplicables.
 
 El acuerdo de aprobación de la implementación total o parcial del sistema electrónico para la recepción del voto, se realizará por las dos terceras partes del Consejo General, deberá ser publicado en el Diario Oficial del Gobierno del Estado de Yucatán y en los periódicos de mayor circulación, dentro de los tres días siguientes al de su aprobación.
 
@@ -1375,9 +1415,15 @@ IV. Comisión Especial de Precampañas;
 
 V. Comisión de Denuncias y Quejas, y
 
-VI. Las demás que se consideren necesarias.
+> <small>(ADICIONADA, D.O. 31 DE MAYO DE 2017)</small>
 
-La Comisión de Administración será presidida por el consejero presidente.
+VI. Comisión de Educación Cívica, y
+
+VII. Las demás que se consideren necesarias.
+
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
+La Comisión de Administración y la de Educación Cívica será presidida por el consejero presidente.
 
 El Consejo General del Instituto, en el acuerdo de creación o integración de las Comisiones, establecerá las modalidades acordes a las necesidades y naturaleza de los asuntos que les encomienden.
 
@@ -1391,9 +1437,15 @@ En todos los asuntos, las Comisiones deberán presentar un informe o dictamen, d
 
 En las Comisiones Permanentes de Prerrogativas, Administración, Participación Ciudadana y Especial de Precampañas fungirán como secretarios técnicos los siguientes:
 
-I. En la de Prerrogativas y en la de Administración, el Director Ejecutivo de Administración y Prerrogativas;
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
 
-II. En la especial de Precampañas y en la Permanente de Participación Ciudadana, el Director Ejecutivo de Procedimientos Electorales y Participación Ciudadana, y
+I. En la de Prerrogativas y en la de Administración, el Director Ejecutivo de Administración;
+
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+II. En la especial de Precampañas y en la Permanente de Participación
+
+Ciudadana, el Director Ejecutivo de Organización Electoral y de Participación Ciudadana, y
 
 III. En la Comisión de Denuncias y Quejas, el Secretario Ejecutivo del Consejo General del Instituto.
 
@@ -1405,9 +1457,13 @@ Las Comisiones, por conducto de su Presidente, podrán invitar a sus sesiones a 
 
 ### CAPÍTULO V. De la junta general ejecutiva
 
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 131.
 
-La Junta General Ejecutiva estará presidida por el Presidente del Consejo General del Instituto y será asistida como Secretario Técnico, por el Secretario Ejecutivo y se integrará además con los directores ejecutivos de procedimientos electorales y participación ciudadana; de administración y prerrogativas; y de capacitación electoral y educación cívica; y dispondrá para el adecuado desempeño de sus funciones de los recursos humanos suficientes que para el efecto le sean aprobados.
+La Junta General Ejecutiva estará presidida por el Presidente del Consejo General del Instituto y será asistida como Secretario Técnico, por el Secretario Ejecutivo y se integrará además con los directores de Organización Electoral y de Participación Ciudadana; de Capacitación Electoral y Educación Cívica, Administración y Jurídico; así como los titulares de la Unidad Técnica de Fiscalización y de la Unidad Técnica de lo Contencioso Electoral.
+
+Dispondrá para el adecuado desempeño de sus funciones de los recursos humanos suficientes que para el efecto le sean aprobados.
 
 ###### Artículo 132.
 
@@ -1437,7 +1493,33 @@ XI. Las demás que le confiera esta Ley o que le encomiende el Consejo General d
 
 El Secretario Ejecutivo será el encargado de verificar que se cumplan con los acuerdos que emita la Junta.
 
-### CAPÍTULO VI. De las direcciones ejecutivas
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE MAYO DE 2017)</small>
+
+### CAPÍTULO VI. De la estructura orgánica del Instituto
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 132 Bis.
+
+El Instituto contará con la estructura orgánica siguiente:
+
+I. Secretaría Ejecutiva;
+
+II. Dirección Ejecutiva de Administración;
+
+III. Dirección Ejecutiva de Organización Electoral y de Participación Ciudadana;
+
+IV. Dirección Ejecutiva de Capacitación Electoral y Educación Cívica;
+
+V. Dirección Jurídica;
+
+VI. Órgano Interno de Control;
+
+VII. Unidad de Acceso a la Información Pública;
+
+VIII. Unidad de Fiscalización, y
+
+IX. El personal administrativo necesario para su funcionamiento.
 
 ###### Artículo 133.
 
@@ -1467,13 +1549,19 @@ X. No ser ministro de culto religioso alguno, a menos que se hubiere retirado de
 
 XI. Contar con Título y cédula profesional de nivel licenciatura con una antigüedad mínima de 3 años, y
 
-XII. Contar con conocimientos o experiencia en materia electoral para el desempeño adecuado de sus funciones.
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+XII. Contar con experiencia en materia electoral para el desempeño adecuado de sus funciones. Para acreditar dicha experiencia, se deberá comprobar haber participado en al menos un proceso electoral, como funcionario de órgano electoral. Este último requisito no será aplicable también para los titulares de unidad del instituto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
 
 ###### Artículo 134.
 
-Son obligaciones y atribuciones de la Dirección Ejecutiva de Procedimientos Electorales y Participación Ciudadana:
+Son obligaciones y atribuciones de la Dirección Ejecutiva de Organización Electoral y de Participación Ciudadana:
 
-I. Apoyar la instalación y funcionamiento de los consejos distritales y municipales;
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+I. Coordinar el diseño y ejecución de los programas de instrucción a los consejeros electorales y secretarios ejecutivos distritales y municipales de manera previa a su instalación, y durante su funcionamiento; así como coordinar la instalación y funcionamiento de los consejos distritales y municipales;
 
 II. Elaborar los formatos de la documentación electoral y participación ciudadana para someterlos por conducto del Secretario Ejecutivo a la aprobación del Consejo General del Instituto; en todos aquellos que no sean directamente presentados y elaborados por el Instituto Nacional Electoral.
 
@@ -1487,13 +1575,27 @@ VI. Gestionar y recabar de la Junta Local Ejecutiva del Instituto Nacional Elect
 
 VII. Llevar la estadística de las elecciones y de los procedimientos de participación ciudadana;
 
-VIII. Acordar con el Secretario Ejecutivo los asuntos de su competencia, y
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
 
-IX. Las demás que le confiera la normatividad que genere el Consejo General del Instituto, esta Ley y demás normatividad aplicable.
+VIII. Acordar con el Secretario Ejecutivo los asuntos de su competencia;
+
+> <small>(ADICIONADA, D.O. 31 DE MAYO DE 2017)</small>
+
+IX. Llevar a cabo los programas de reclutamiento, selección, formación y desarrollo del personal de los mecanismos de participación ciudadana;
+
+> <small>(ADICIONADA, D.O. 31 DE MAYO DE 2017)</small>
+
+X. Promover el derecho de los ciudadanos de requerir, consultar y recibir información relacionada con procesos democráticos de participación ciudadana, y
+
+> <small>(ADICIONADA [N. DE E. ADICIONADA], D.O. 31 DE MAYO DE 2017)</small>
+
+XI. Las demás que le confiera la normatividad que genere el Consejo General del Instituto, esta Ley y demás normatividad aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
 
 ###### Artículo 135.
 
-Son atribuciones y obligaciones de la Dirección Ejecutiva de Administración y Prerrogativas:
+Son atribuciones y obligaciones de la Dirección Ejecutiva de Administración:
 
 I. Aplicar las políticas, normas y procedimientos para la administración de los recursos financieros y materiales del Instituto;
 
@@ -1505,61 +1607,167 @@ IV. Establecer y operar los sistemas administrativos para el ejercicio y control
 
 V. Atender las necesidades administrativas de los órganos del Instituto;
 
-VI. Ministrar a los partidos políticos el financiamiento al que tienen derecho; de conformidad a los lineamientos acordados por el Consejo General del Instituto, y
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
 
-VII. Las demás que le confiera esta Ley.
+VI. Ministrar a los partidos políticos el financiamiento al que tienen derecho; de conformidad a los lineamientos acordados por el Consejo General del Instituto;
+
+> <small>(ADICIONADA, D.O. 31 DE MAYO DE 2017)</small>
+
+VII. Atender las funciones administrativas del Instituto vinculadas al Servicio Profesional Electoral Nacional, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O. 31 DE MAYO DE 2017)</small>
+
+VIII. Las demás que le confiera esta ley.
+
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
 
 ###### Artículo 136.
 
 Son atribuciones y obligaciones de la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica:
 
-I. Llevar a cabo los programas de reclutamiento, selección, formación y desarrollo del personal de los mecanismos de participación ciudadana.
+I. Llevar a cabo los programas de reclutamiento, selección, formación y desarrollo del personal de la capacitación electoral cuando esta función sea delegada al Instituto;
 
-II. Llevar a cabo los programas de reclutamiento, selección, formación y desarrollo del personal de la capacitación electoral cuando esta función sea delegada al Instituto.
+II. Elaborar y llevar a cabo los programas de capacitación electoral para la debida integración de las mesas directivas de casilla, cuando esta función sea delegada al Instituto. En todo caso, la capacitación deberá incluir las modalidades del escrutinio y cómputo de la votación de la casilla;
 
-III. Elaborar y llevar a cabo los programas de capacitación electoral para la debida integración de las mesas directivas de casilla, cuando esta función sea delegada al Instituto. En todo caso, la capacitación deberá incluir las modalidades del escrutinio y cómputo de la votación de la casilla.
+III. Elaborar y llevar a cabo los programas de educación cívica para la ciudadanía en general, previa aprobación del Consejo General acorde a los principios rectores;
 
-IV. Elaborar y llevar a cabo los programas de educación cívica para la ciudadanía en general;
+IV. Acordar con el Secretario Ejecutivo los asuntos de su competencia;
 
-V. Acordar con el Secretario Ejecutivo los asuntos de su competencia;
+V. Coordinar y vigilar el cumplimiento de los programas de capacitación electoral de las mesas directivas de casilla;
 
-VI. Coordinar y vigilar el cumplimiento de los programas de capacitación y educación cívica;
+VI. Elaborar y llevar a cabo los programas de educación cívica para la ciudadanía en general;
 
-VII. Preparar el material didáctico y los instructivos electorales y de educación cívica;
+VII. Preparar el material didáctico y los instructivos electorales de la capacitación a las mesas directivas de casilla;
 
-VIII. Orientar a los ciudadanos en el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
+VIII. Preparar el material didáctico y los instructivos de educación cívica;
 
-IX. Fomentar y desarrollar la cultura política para el cumplimiento de los derechos y obligaciones político electorales, y
+IX. Fomentar y desarrollar la cultura política para el cumplimiento de los derechos y obligaciones político-electorales;
 
-X. Las demás que le confiera esta Ley.
+X. Implementar programas, campañas y actividades de difusión dirigidas a la ciudadanía, con el propósito de fortalecer la participación en temas electorales, y
 
-### CAPÍTULO VII. De la contraloría del instituto
+XI. Las demás que le confiera esta Ley.
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 136 Bis.
+
+Son atribuciones y obligaciones de la Dirección Jurídica:
+
+I. Proporcionar asesoría jurídica a los órganos del Instituto en el desarrollo de sus actividades;
+
+II. Elaborar los proyectos de normatividad que se requiera (sic) para el ejercicio de las funciones del Instituto;
+
+III. Desahogar los asuntos de las diversas áreas del Instituto que sean objeto de tramitación judicial o administrativa, ante las autoridades competentes;
+
+IV. Emitir opinión respecto de actos jurídicos que realice o pretenda realizar el Instituto, que le sea solicitada;
+
+V. Elaborar los anteproyectos de convenios cuya celebración autorice el Consejo General;
+
+VI. Apoyar al Secretario Ejecutivo en la sustanciación de los medios de impugnación;
+
+VII. Solicitar a las diferentes áreas del Instituto, la información necesaria para la integración de los expedientes que sean materia de litigio o de trámite administrativo;
+
+VIII. Representar legalmente al Instituto cuando le sea delegada la facultad por el Consejo General;
+
+IX. Coadyuvar en el manejo y control del archivo de documentación derivado de las sesiones del Consejo General y de la Junta;
+
+X. Acordar con la Secretaría Ejecutiva los asuntos de su competencia;
+
+XI. Elaborar los proyectos de orden del día, acuerdos, resoluciones, informes y demás documentación que sean sometidos a la consideración del Consejo General;
+
+XII. Coadyuvar con la Secretaría Ejecutiva en la estadística de las sesiones del Consejo General;
+
+XIII. Elaborar los proyectos de actas y minutas de las sesiones así como de las reuniones de la Junta;
+
+XIV. Llevar el control de acuerdos y resoluciones tomadas en las sesiones del Consejo General y de la Junta, así como las estadísticas de las mismas;
+
+XV. Llevar el registro, auxiliando a la Secretaría Ejecutiva de los representantes de los Partidos Políticos acreditados ante el Consejo General, y
+
+XVI. Las demás que le confieran otras disposiciones aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE MAYO DE 2017)</small>
+
+### CAPÍTULO VII. Del Órgano Interno de Control
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 136 Ter.
+
+Para los efectos del presente capítulo, serán considerados como servidores públicos del Instituto: el Consejero Presidente, los Consejeros Electorales del Consejo General y de los consejos distritales y municipales, el Secretario Ejecutivo, el titular del Órgano Interno de Control, los directores ejecutivos, directores, titulares de unidad, funcionarios y empleados y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Instituto, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+El Órgano Interno de Control del Instituto, su titular y el personal adscrito a la misma, cualquiera que sea su nivel, están impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones de naturaleza electoral que la Constitución y esta ley confieren a los funcionarios del Instituto.
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 136 Quáter.
+
+Serán causas de responsabilidad para los servidores públicos del Instituto:
+
+I. Realizar conductas que atenten contra la independencia de la función electoral, o cualquier acción que genere o implique subordinación respecto de terceros;
+
+II. Inmiscuirse indebidamente en cuestiones que competan a otros órganos del Instituto;
+
+III. Tener notoria negligencia, ineptitud o descuido en el desempeño de las funciones o labores que deban realizar;
+
+IV. Conocer de algún asunto o participar en algún acto para el cual se encuentren impedidos;
+
+V. Realizar nombramientos, promociones o ratificaciones infringiendo las disposiciones generales correspondientes;
+
+VI. No poner en conocimiento del Consejo General todo acto tendiente a vulnerar la independencia de la función electoral;
+
+VII. No preservar los principios que rigen el funcionamiento del Instituto en el desempeño de sus labores;
+
+VIII. Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento;
+
+IX. Dejar de desempeñar las funciones o las labores que tenga a su cargo;
+
+X. Las previstas, en lo conducente, en el artículo 39 de la Ley de Responsabilidades Administrativas del Estado de Yucatán, y
+
+XI. Las demás que determine esta ley o las leyes que resulten aplicables.
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+###### Artículo 136 Quinquies.
+
+Para la determinación de las responsabilidades administrativas de los servidores públicos del Instituto por la comisión de faltas administrativas graves o no graves, o de los particulares vinculados con faltas administrativas graves, el Órgano Interno de Control se sujetará al régimen y procedimientos establecidos en la ley en materia de responsabilidades administrativas del estado de Yucatán y las leyes aplicables.
+
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
 
 ###### Artículo 137.
 
-La Contraloría es el órgano de control interno del Instituto que tendrá a su cargo la fiscalización de sus ingresos y egresos. En el ejercicio de sus atribuciones estará dotada de autonomía técnica y de gestión para decidir sobre sus resoluciones.
+El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la autoridad competente; tendrá además a su cargo la fiscalización de los ingresos y egresos del Instituto.
 
-Se sujetará en su desempeño, a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, exhaustividad y máxima publicidad.
+El Titular del Órgano Interno de Control tendrá un nivel jerárquico equivalente a Director Ejecutivo.
 
-El titular de la Contraloría tendrá el nivel jerárquico equivalente a director ejecutivo, estará adscrito administrativa y subordinadamente a la Presidencia del Consejo General del Instituto y deberá mantener la coordinación técnica necesaria con el órgano de fiscalización del Estado.
+El Órgano Interno de Control contará con el presupuesto para la estructura orgánica, personal y recursos que apruebe el Consejo General a propuesta de su titular, de conformidad con las reglas previstas en este Capítulo.
+
+En su desempeño, el Órgano Interno de Control se sujetará a los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
 
 ###### Artículo 138.
 
-El titular de la Contraloría será elegido por el voto de las dos terceras partes de los integrantes del Congreso del Estado a propuesta de instituciones de educación superior, organizaciones y agrupaciones profesionales y organismos empresariales debidamente registrados y durará en su encargo 6 años.
+El titular del Órgano Interno de Control será designado por el Congreso del Estado por el voto de las dos terceras partes de sus integrantes a propuesta de instituciones públicas de educación superior, cámaras empresariales y colegios de profesionales, en la forma y términos que determine la ley. Durará seis años en el cargo y podrá ser reelecto por una sola vez. Deberá mantener la coordinación técnica necesaria con la Auditoría Superior del Estado de Yucatán.
 
 El procedimiento de elección será el siguiente:
 
-I. La Comisión Permanente de Puntos Constitucionales y Gobernación expedirá una convocatoria pública dirigida a las instituciones de educación superior, organizaciones y agrupaciones profesionales y organismos empresariales debidamente registrados, con la finalidad de allegarse propuestas de candidatos al cargo de Contralor General del Instituto.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
+
+I. La Comisión Permanente de Puntos Constitucionales y Gobernación expedirá una convocatoria pública dirigida a las de instituciones públicas de educación superior, cámaras empresariales y colegios de profesionales, con la finalidad de allegarse propuestas de candidatos al cargo de Titular del Órgano Interno de Control del Instituto.
 
 La convocatoria deberá publicarse a más tardar treinta días antes de la fecha en que deba realizarse la designación.
 
-II. Las instituciones de educación superior, organizaciones y agrupaciones profesionales y organismos empresariales podrán presentar ante la Secretaría General del Poder Legislativo hasta dos propuestas;
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+II. Las de instituciones públicas de educación superior, cámaras empresariales y colegios de profesionales podrán presentar ante la Secretaría General del Poder Legislativo hasta dos propuestas;
 
 III. Las propuestas deberán presentarse en sobre cerrado, dentro de los quince días naturales siguientes al de la publicación de la convocatoria, anexando la siguiente documentación:
 
 a) Documentación de los proponentes:
 
-1. Copia certificada del acta constitutiva, y
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
+1. Copia certificada del documento que acredite existencia de la Institución Pública de Educación Superior.
 
 2. Copia certificada del documento que acredite la personalidad del representante legal.
 
@@ -1583,17 +1791,25 @@ VI. La Comisión Permanente de Puntos Constitucionales y Gobernación elaborará
 
 VII. En la sesión del Congreso del Estado en la que deba realizarse la elección, a cada Diputado se le entregará un listado que contendrá los nombres de las propuestas, de entre los cuales votará por sólo una de ellas;
 
-VIII. La persona cuya propuesta sea votada afirmativamente por las dos terceras partes de los integrantes del Congreso del Estado será electo Contralor General del Instituto;
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
 
-IX. En caso de que ninguna de las propuestas alcance la votación establecida en la fracción anterior, se designará al titular de la Contraloría a través de una insaculación;
+VIII. La persona cuya propuesta sea votada afirmativamente por las dos terceras partes de los integrantes del Congreso del Estado será electo Titular del Órgano Interno de Control del Instituto;
+
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+IX. En caso de que ninguna de las propuestas alcance la votación establecida en la fracción anterior, se designará al Titular del Órgano Interno de Control del Instituto a través del procedimiento de insaculación;
 
 X. Participarán en el proceso de insaculación, las propuestas que hayan alcanzado el mayor número de votos que se encuentren dentro de las 3 más altas votaciones, y
 
-XI. El Presidente y los Secretarios de la Mesa Directiva serán los responsables del procedimiento de insaculación en la misma sesión y de declarar quien ha sido electo Contralor General del Instituto.
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+XI. El Presidente y los Secretarios de la Mesa Directiva serán los responsables del procedimiento de insaculación en la misma sesión y de declarar quien ha sido electo Titular del Órgano Interno de Control del Instituto.
 
 El electo o designado, rendirá protesta en sesión del Congreso o de la Diputación Permanente, según sea el caso.
 
-Los requisitos para ser Contralor del Instituto son:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
+
+Los requisitos para ser Titular del Órgano Interno de Control del Instituto son:
 
 a) Ser ciudadano yucateco en pleno goce y ejercicio de sus derechos políticos y civiles;
 
@@ -1601,9 +1817,13 @@ b) Estar inscrito en el Registro Federal de Electores y tener credencial para vo
 
 c) Haber residido en el Estado durante los últimos 2 años, de manera ininterrumpida;
 
-d) Contar con título profesional en materia de contabilidad o auditoría al día de su elección, con antigüedad mínima de 5 años, expedido por autoridad o institución legalmente facultada para ello. Así como contar con cédula profesional;
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
 
-e) Gozar de buena reputación y no haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad y durante la extinción de esta, o estar procesado por delito grave, a partir del auto de vinculación a proceso;
+d) No ser consejero electoral de cualquiera de los consejos del Instituto, salvo que se haya separado del cargo tres años antes del día de la designación;
+
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
+e) Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte la buena fama en el concepto público, ello lo inhabilitará para el cargo, cualquiera que haya sido la pena;
 
 f) No ser ni haber sido registrado, legalmente, como candidato a cargo alguno de elección popular, durante los 3 años previos a su elección;
 
@@ -1611,89 +1831,143 @@ g) No ser ministro de culto religioso alguno, salvo que se haya separado definit
 
 h) No ser militar en servicio activo;
 
-i) No ser titular de alguna dependencia del Poder Legislativo, de la Administración Pública Federal, Estatal o Municipal, o ejercer el cargo de Fedatario Público a menos que se separe de sus funciones 3 años antes de su elección, y
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
 
-j) No ser ni haber sido dirigente en los órganos nacionales, estatales o municipales, de algún partido o agrupación política, durante los 3 años previos al de la elección.
+i) No ser titular de alguna dependencia del Poder Legislativo, de la Administración Pública Federal, Estatal o Municipal, o ejercer el cargo de Fedatario Público a menos que se separe de sus funciones 3 años antes de su elección;
+
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
+j) No ser ni haber sido dirigente en los órganos nacionales, estatales o municipales, de algún partido o agrupación política, durante los 3 años previos al de la elección;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 31 DE MAYO DE 2017)</small>
+
+k) Contar al momento de su designación con experiencia profesional de al menos cinco años en el control, manejo o fiscalización de recursos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 31 DE MAYO DE 2017)</small>
+
+l) Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional, de nivel licenciatura, de contador público u otro relacionado en forma directa con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 31 DE MAYO DE 2017)</small>
+
+m) No pertenecer o haber pertenecido en los cuatro años anteriores a su designación a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto o a algún partido político.
+
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
 
 ###### Artículo 139.
 
-El contralor podrá ser sancionado por las siguientes causas graves de responsabilidad administrativa:
+El Titular del Órgano Interno de Control del Instituto será sujeto de responsabilidad en términos de la ley en materia de responsabilidades administrativas del Estado de Yucatán y las leyes aplicables, y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
 
-I. Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos de la presente Ley y de la legislación en la materia;
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control del Instituto serán sancionados por el Titular de dicho órgano, o por el servidor público en quien delegue la facultad, en términos de la ley en materia de responsabilidades administrativas del estado de Yucatán o las leyes aplicables en la materia.
 
-II. Dejar sin causa justificada, de fincar responsabilidades o aplicar sanciones, en el ámbito de su competencia cuando esté debidamente comprobada la responsabilidad e identificado el responsable como consecuencia de las revisiones e investigaciones exclusivamente financieras que realice en el ejercicio de sus atribuciones;
+El Titular del Órgano Interno de Control deberá rendir informe semestral y anual de actividades al Consejo General del Instituto, del cual marcará copia al Congreso del Estado.
 
-III. Sustraer, destruir, ocultar, transmitir, divulgar, alterar, o utilizar indebidamente la documentación e información por cualquier medio o forma, que por razón de su cargo tenga a su cuidado, custodia, solicite o que exista en la Contraloría, con motivo del ejercicio de sus atribuciones;
+El Órgano Interno de Control deberá inscribir y mantener actualizada la información correspondiente del sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos del Instituto, de conformidad con la normatividad aplicable en materia de combate a la corrupción y la ley en materia de responsabilidades administrativas del estado de Yucatán o las leyes aplicables en la materia.
 
-IV. Conducirse con parcialidad o arbitrariamente sin la fundamentación y motivación debidas, en los procedimientos de supervisión;
-
-V. Interferir en los procedimientos electorales y de participación ciudadana que realice el Instituto, y
-
-VI. Incumplir alguna de las obligaciones establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán.
-
-El Consejo General del Instituto podrá interponer la solicitud de sanción o remoción del Contralor, acreditando los elementos suficientes.
-
-El Congreso del Estado resolverá sobre la aplicación de las sanciones al contralor, incluida su remoción, por causas graves de responsabilidad administrativa, debiendo garantizar el derecho de audiencia al afectado, previa instrucción que realice la Comisión Permanente de Puntos Constitucionales y Gobernación. La remoción requerirá del voto de las dos terceras partes de los Diputados del Congreso.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
 
 ###### Artículo 140.
 
-La Contraloría tendrá las facultades siguientes:
+El Órgano Interno de Control tendrá las atribuciones siguientes:
 
 I. Fijar los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del Instituto;
 
-II. Establecer las normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice en el cumplimiento de sus funciones;
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+II. Establecer las normas, lineamientos, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice en el cumplimiento de sus funciones;
 
 III. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos;
 
-IV. Verificar que las diversas áreas administrativas del Instituto que hubieren recibido, manejado, administrado o ejercido recursos financieros, lo hagan conforme a la normatividad aplicable, los programas aprobados y montos autorizados, así como, en el caso de los egresos, con cargo a las partidas correspondientes y con apego a las disposiciones legales, reglamentarias y administrativas conducentes;
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
 
-V. Revisar que las operaciones presupuestales que realice el Instituto se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
+IV. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto;
 
-VI. Verificar las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se han aplicado legalmente;
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
 
-VII. Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones exclusivamente financieras proporcionada por las instituciones de crédito, les será aplicable a todos los servidores públicos de la propia Contraloría, así como a los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública;
+V. Verificar que las diversas áreas administrativas del Instituto que hubieren recibido, manejado, administrado o ejercido recursos, lo hagan conforme a la normatividad aplicable, los programas aprobados y montos autorizados, así como, en el caso de los egresos, con cargo a las partidas correspondientes y con apego a las disposiciones legales, reglamentarias y administrativas conducentes;
 
-VIII. Elaborar los lineamientos, instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas que se presenten en contra de los servidores públicos del Instituto, y llevar el registro de los servidores públicos sancionados;
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
 
-IX. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto;
+VI. Revisar que las operaciones presupuestales que realice el Instituto se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
 
-X. Recibir denuncias o quejas directamente relacionadas con el uso y disposición de los ingresos y recursos del Instituto por parte de los servidores públicos del mismo y desahogar los procedimientos a que haya lugar;
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
 
-XI. Efectuar visitas a las sedes físicas de las áreas y órganos del Instituto para solicitar la exhibición de los libros y papeles indispensables para la realización de sus investigaciones financieras, sujetándose a las formalidades respectivas;
+VII. Verificar las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se han aplicado, legal y eficientemente al logro de los objetivos y metas de los programas aprobados;
 
-XII. Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos del Instituto cumplan adecuadamente con sus responsabilidades administrativas;
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
 
-XIII. Formular pliegos de observaciones en materia administrativa;
+VIII. Requerir a terceros que hubieran contratado bienes o servicios con el Instituto la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
 
-XIV. Determinar los daños y perjuicios que afecten al Instituto en su patrimonio y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes;
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
 
-XV. Fincar las responsabilidades e imponer las sanciones por el uso indebido de recursos, en términos de los lineamientos respectivos;
+IX. Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todos los servidores públicos del Órgano Interno de Control del Instituto, así como a los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública;
 
-XVI. Presentar al Consejo General del Instituto sus programas anuales de trabajo en el mes de enero;
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
 
-XVII. Presentar al Consejo General del Instituto los informes previo y anual de resultados de su gestión y acudir ante aquel o en su caso, ante el Presidente del mismo cuando se le requiera;
+X. Investigar, calificar, y en su caso, substanciar, resolver y sancionar de conformidad con el procedimiento establecido en la ley en materia de responsabilidades administrativas del estado de Yucatán o las leyes aplicables e integrar el expediente de presunta responsabilidad administrativa respecto de las denuncias que se presenten en contra de los servidores públicos del Instituto;
 
-XVIII. Participar, a través de su titular, con voz pero sin voto, en las reuniones de la Junta General Ejecutiva cuando por motivo del ejercicio de sus facultades se le requiera;
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
 
-XIX. Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos del Instituto, a partir del nivel de jefe de departamento, conforme a los formatos y procedimientos que establezca la propia Contraloría, siendo aplicables en lo conducente las normas establecidas en la Ley de la materia, y
+XI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto, así como en el caso de cualquier irregularidad en el ejercicio del empleo, cargo o comisión de los servidores públicos del Instituto;
 
-XX. Las demás que le otorgue esta Ley o las leyes aplicables en la materia.
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+XII. Recibir denuncias o quejas directamente relacionadas con el uso y disposición de los ingresos y recursos del Instituto, así como con el desempeño en sus funciones por parte de los servidores públicos del mismo y desahogar los procedimientos a que haya lugar;
+
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+XIII. Efectuar visitas a las sedes físicas de las áreas y órganos del Instituto para solicitar la exhibición de los libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
+
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+XIV. Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos del Instituto cumplan adecuadamente con sus responsabilidades administrativas;
+
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+XV. Presentar al Consejo General sus programas anuales de trabajo en el mes de enero;
+
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+XVI. Presentar al Consejo General los informes previo y anual de resultados de su gestión, y acudir ante el mismo Consejo cuando así lo requiera el Consejero Presidente;
+
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+XVII. Participar, a través de su titular, con voz pero sin voto, en las reuniones de la Junta General Ejecutiva cuando por motivo del ejercicio de sus facultades, así lo considere necesario el Consejero Presidente;
+
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+XVIII. Nombrar y remover al Titular de la Autoridad Sustanciadora, al Coordinador de la Autoridad Investigadora y demás personal a su cargo;
+
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+XIX. Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos que corresponda, y
+
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+XX. Las demás que le otorgue esta ley, la ley en materia de responsabilidades administrativas del estado de Yucatán, o las leyes aplicables.
+
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
 
 ###### Artículo 141.
 
-Los servidores públicos adscritos a la Contraloría y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo de (sic) desempeño de sus facultades así como de sus actuaciones y observaciones.
+Los servidores públicos adscritos al Órgano Interno de Control del Instituto y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones.
+
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
 
 ###### Artículo 142.
 
-Los órganos, áreas ejecutivas y servidores públicos del Instituto, estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente la Contraloría, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta o las leyes aplicables les confieren.
+Los órganos, áreas ejecutivas y servidores públicos del Instituto estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta Ley o las leyes aplicables les confieren.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
 
 ###### Artículo 143.
 
-Si transcurrido el plazo establecido por la Contraloría, el órgano o área fiscalizada, sin causa justificada, no presenta el informe o documentos que se le soliciten, la Contraloría procederá a fincar las responsabilidades que correspondan conforme a derecho.
+Si transcurrido el plazo establecido por el Órgano Interno de Control, el órgano o área fiscalizada, sin causa justificada, no presenta el informe o documentos que se le soliciten, el Órgano Interno de Control procederá a fincar las responsabilidades que correspondan conforme a derecho.
 
 El fincamiento de responsabilidades y la imposición de sanciones no relevará al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron las multas.
 
-La Contraloría, además de imponer la sanción respectiva, requerirá al infractor para que dentro del plazo determinado, que nunca será mayor a 45 días, cumpla con la obligación omitida motivo de la sanción; y si aquél incumple, será sancionado.
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
+El Órgano Interno de Control, además de imponer la sanción respectiva, requerirá al infractor para que dentro del plazo determinado, que nunca será mayor a cuarenta y cinco días, cumpla con la obligación omitida motivo de la sanción; y si aquél incumple, será sancionado.
 
 Durante el desahogo de los procedimientos administrativos tendentes, en su caso, al fincamiento de responsabilidades, los servidores públicos tendrán asegurado el ejercicio de sus derechos fundamentales.
 
@@ -1811,41 +2085,41 @@ Los consejos distritales son los órganos encargados de la preparación, desarro
 
 En cada uno de los distritos electorales uninominales en que se divide el Estado, funcionará un consejo Distrital, con residencia en la cabecera del distrito.
 
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 154.
 
-Los consejeros electorales distritales serán designados por el Consejo General del Instituto a más tardar el 31 de octubre del año previo al de la elección, de acuerdo a las bases siguientes:
+Los consejeros electorales distritales serán designados por el Consejo General del Instituto a más tardar el 30 de septiembre del año previo al de la elección, de acuerdo a las bases siguientes:
 
-I. La convocatoria para allegarse de propuestas de consejeros electorales distritales, deberá ser aprobada en la sesión de inicio del proceso electoral ordinario.
+Para verificar el cumplimiento de los requisitos constitucionales y legales, así como para seleccionar de entre los aspirantes, a los que tengan perfiles idóneos para fungir como consejeros electorales de los consejos distritales y municipales, se deberá (sic) observar las reglas siguientes:
 
-II. Las organizaciones podrán proponer al Consejo General un candidato a consejero electoral distrital, a partir de que se publique la convocatoria y hasta el día 20 de septiembre del año previo al de la elección, debiendo anexar a su propuesta los documentos necesarios para acreditar:
+I. El Consejo General deberá emitir una convocatoria pública con la debida anticipación a la fecha en que los aspirantes a consejeros distritales y municipales deban presentar la documentación necesaria que acredite el cumplimiento de los requisitos establecidos para ocupar el cargo.
 
-a) Estar constituidas, registradas o inscritas, según el caso, conforme a la Ley; con antigüedad no menor a 7 años;
+II. La convocatoria señalará la documentación que deberán presentar los aspirantes, las etapas que integrarán el procedimiento, así como el plazo en que deberá aprobarse la designación de consejeros electorales.
 
-b) No tener como objeto la obtención de lucro;
+III. Las etapas del procedimiento serán, cuando menos, las siguientes:
 
-c) Tener domicilio legal en el Estado; y
+a) Inscripción de los candidatos;
 
-d) Tener como objeto o fin (sic) realización de actividades de carácter académico, cultural, profesional o social.
+b) Conformación y envío de expedientes al Consejo General;
 
-En el caso del candidato a consejero distrital propuesto deberán presentar:
+c) Revisión de los expedientes por el Consejo General;
 
-1) La aceptación por escrito del candidato;
+d) Elaboración y observación de las listas de propuestas;
 
-2) Acta de nacimiento;
+e) Valoración curricular y entrevista presencial, y
 
-3) Constancia de residencia;
+f) Integración y aprobación de las propuestas definitivas.
 
-4) Copia de la credencial para votar;
+La valoración curricular y la entrevista a los aspirantes deberán ser realizadas por los consejeros electorales.
 
-5) Currículum vitae, y
+Para la valoración curricular y entrevistas, se deberán tomar en cuenta aquellos criterios que garanticen la imparcialidad, independencia y profesionalismo de los aspirantes.
 
-6) Las demás constancias que acrediten la idoneidad para el ejercicio del cargo.
+La convocatoria pública deberá difundirse de manera amplia en todo el estado de Yucatán, a través de la página oficial del Instituto, en los estrados y demás que se determinen. Asimismo, en universidades, colegios, organizaciones de la sociedad civil, comunidades y organizaciones indígenas y entre líderes de opinión de la entidad, así como en periódicos de circulación local.
 
-III. Recibidas las propuestas, los representantes de los partidos políticos podrán hacer las objeciones que estimen pertinentes. El Consejo General del Instituto analizará las propuestas y las objeciones, y en forma fundada y motivada elegirá a 3 consejeros electorales distritales propietarios y a 3 consejeros electorales distritales suplentes por cada distrito electoral uninominal del Estado;
+Para la designación de los consejeros electorales de los consejos distritales y municipales del Instituto, se tomarán en consideración, como mínimo, los criterios orientadores de paridad de género, pluralidad cultural, participación comunitaria o ciudadana, prestigio público y profesional, compromiso democrático, y conocimiento de la materia electoral.
 
-IV. En el caso de que no hubiera propuestas suficientes, o que estas hubieren sido objetadas, el Consejo General del Instituto podrá solicitar a la Junta Local Ejecutiva del Instituto Nacional Electoral, le proponga a candidatos para designar a los consejeros electorales distritales que faltaren, y
-
-V. El mismo día en que sean designados los consejeros electorales distritales, el Consejo General del Instituto invitará a los partidos políticos registrados para que procedan a incorporarse a los consejos distritales en los términos de esta Ley.
+La designación de los consejeros deberá ser aprobada por al menos con el voto de cinco consejeros electorales del Instituto.
 
 ###### Artículo 155.
 
@@ -1993,19 +2267,13 @@ X. Las demás que le confiera esta Ley y lo que acuerde el Consejo General del I
 
 Los consejos municipales son los órganos encargados de la preparación, desarrollo y vigilancia del proceso electoral, dentro de sus respectivos municipios, conforme a lo estipulado por esta Ley.
 
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 163.
 
-Los consejeros electorales municipales serán designados por el Consejo General a más tardar el 31 de octubre del año previo al de la elección, de acuerdo con las bases siguientes:
+Los consejeros electorales municipales serán designados por el Consejo General a más tardar el 30 de septiembre del año previo al de la elección.
 
-I. La convocatoria para allegarse de propuestas de consejeros electorales municipales deberá ser aprobada en la sesión de inicio del proceso electoral ordinario;
-
-II. Las organizaciones podrán proponer al Consejo General del Instituto un candidato a consejero electoral municipal, a partir de que se publique la convocatoria y hasta el día 20 de septiembre del año previo al de la elección, debiendo anexar a su propuesta los documentos a que se refiere la fracción II del artículo 154 de esta Ley;
-
-III. Recibidas las propuestas, los representantes de los partidos políticos podrán hacer las objeciones que estimen pertinentes. El Consejo General del Instituto analizará las propuestas y las objeciones, en forma fundada y motivada elegirán a 3 consejeros electorales municipales propietarios y a 3 consejeros electorales municipales suplentes por cada municipio del Estado;
-
-IV. En el caso de que no hubiera propuestas suficientes o que éstas hubieren sido objetadas el Consejo General del Instituto podrá solicitar a la Junta Local Ejecutiva del Instituto Nacional Electoral le proponga a candidatos para designar a los consejeros electorales municipales que faltaren, y
-
-V. El mismo día en que sean designados los consejeros electorales municipales, el Consejo General del Instituto invitará a los partidos políticos registrados para que procedan a incorporarse a los consejos municipales en los términos de esta Ley.
+El procedimiento para la designación de los consejeros electorales municipales será el mismo establecido para los consejeros electorales distritales.
 
 ###### Artículo 164.
 
@@ -2165,7 +2433,9 @@ La integración de las mesas directivas de casillas por parte del Instituto y to
 
 Las mesas directivas de casilla se integran con un Presidente, un Secretario, dos escrutadores y tres suplentes generales, quienes serán designados mediante el método de insaculación.
 
-La Dirección Ejecutiva de Capacitación Electoral y Educación Cívica tendrá a su cargo la organización y realización de los cursos requeridos para efecto de que los ciudadanos designados, reciban la capacitación necesaria para el desempeño de sus funciones.
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
+La Dirección Ejecutiva de Organización Electoral y de Participación Ciudadana tendrá a su cargo la organización y realización de los cursos requeridos para efecto de que los ciudadanos designados, reciban la capacitación necesaria para el desempeño de sus funciones.
 
 ###### Artículo 173.
 
@@ -2743,6 +3013,38 @@ e) En su caso, la constancia de que fueron designados de conformidad con sus res
 
 f) Los candidatos a Diputados para integrar el Poder Legislativo del Estado de Yucatán que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que han sido electos en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de reelección.
 
+(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+En el caso de los diputados propietarios o suplentes podrán ser reelectos para el periodo inmediato en la forma, términos y condiciones que señale esta ley y el Consejo General, sin requerir licencia para separarse del cargo, CON EXCEPCIÓN DEL DIPUTADO QUE OCUPE LA PRESIDENCIA DE LA JUNTA DE GOBIERNO Y COORDINACIÓN POLÍTICA DEL CONGRESO DEL ESTADO, QUIEN DEBERÁ SEPARARSE DE SU ENCARGO 120 DÍAS NATURALES ANTES DEL DÍA DE LA ELECCIÓN.
+
+(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+En el caso de los integrantes de los ayuntamientos que aspiren a ser reelectos para el mismo cargo en el periodo inmediato siguiente, deberán cumplir con los términos y condiciones que señale esta ley y el Consejo General, DEBIENDO SEPARARSE DE SU CARGO 120 DÍAS NATURALES ANTES DEL DÍA DE LA ELECCIÓN,
+
+(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+PARA LOS CASOS PREVISTOS EN LOS PÁRRAFOS ANTERIORES, LOS INTEGRANTES DE LOS AYUNTAMIENTOS Y EN SU CASO EL DIPUTADO QUE OCUPE LA PRESIDENCIA DE LA JUNTA DE GOBIERNO Y COORDINACIÓN POLÍTICA DEL CONGRESO DEL ESTADO, QUE HAYAN SOLICITADO LICENCIA, PODRÁN REINTEGRARSE A SUS PUESTOS UNA VEZ QUE SEAN EXPEDIDAS LAS CONSTANCIAS DE MAYORÍA Y VALIDEZ RESPECTIVAS.
+
+(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+SI DERIVADO DE UN MEDIO DE IMPUGNACIÓN, SE DECLARA LA NULIDAD DE LA ELECCIÓN EN QUE HAYAN PARTICIPADO LOS SERVIDORES PÚBLICOS SEÑALADOS EN EL PÁRRAFO QUE ANTECEDE, EL CONSEJO GENERAL DEL INSTITUTO EMITIRÁ MEDIANTE UN ACUERDO GENERAL, LOS LINEAMIENTOS QUE DEBERÁN SEGUIR PARA SEPARARSE DEL CARGO, CUANDO SE HAYAN REINTEGRADO A SUS FUNCIONES Y DESEEN COMPETIR NUEVAMENTE EN LA ELECCIÓN.
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+Los funcionarios que pretendan la reelección no podrán continuar en su encargo, más allá del período por el cual hubieran sido elegidos inicialmente, y sólo podrán ocupar nuevamente el cargo, cuando así se hubiera declarado en forma definitiva en sentencia firme, o no se hubiera interpuesto el recurso correspondiente.
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+En el caso de declararse nula una elección de ayuntamiento, el Congreso del Estado deberá nombrar un concejo municipal y expedir la convocatoria a elecciones extraordinarias.
+
 Para la acreditación de la residencia, además de los documentos públicos idóneos para ese fin, los candidatos podrán acreditar su residencia, mediante documento privado, suscrito por 2 ciudadanos que pertenezcan a la misma sección electoral a la que corresponda la credencial para votar del candidato, quienes bajo protesta de decir verdad, manifiesten que dicho candidato, tiene la residencia que para cada caso exige la Constitución. Este documento sólo será válido cuando se acompañe a él, las copias simples de las credenciales para votar de los ciudadanos que lo suscriben y cuando el candidato de que se trate, tenga credencial para votar que corresponda a una sección electoral que pertenezca al Estado de Yucatán.
 
 ###### Artículo 219.
@@ -2791,9 +3093,11 @@ Se entiende por actos de campaña las reuniones públicas, asambleas, marchas y 
 
 Para los efectos de lo dispuesto por el párrafo octavo del artículo 134 de la Constitución Federal, el informe anual de labores o de gestión de los servidores públicos, así como los mensajes que para darlos a conocer se difundan en los medios de comunicación social, no serán considerados como propaganda, siempre que la difusión se limite a una vez al año en estaciones y canales con cobertura regional correspondiente al ámbito geográfico de responsabilidad del servidor público y no exceda de los 7 días anteriores y 5 posteriores a la fecha en que se rinda el informe. En ningún caso, la difusión de tales informes podrá tener fines electorales, ni realizarse dentro del período de campaña electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 223.
 
-Las campañas electorales se iniciarán a partir del día siguiente al de la sesión en la que el consejo electoral correspondiente apruebe el registro de las candidaturas para la elección respectiva, y concluirán 3 días antes del día de la elección.
+Las campañas electorales se iniciarán a partir del plazo que fije el Consejo General mediante acuerdo que apruebe y concluirán 3 días antes del día de la elección.
 
 El día de la jornada electoral y durante los 3 días anteriores no se permitirá la celebración de reuniones o actos públicos de campaña, de propaganda o de proselitismo electorales.
 
@@ -2827,9 +3131,9 @@ Para la determinación de los gastos máximos de campaña, el Consejo General de
 
 I. Para la elección de Regidores:
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
 
-a) Multiplicará el número de ciudadanos inscritos en el Padrón Electoral del municipio correspondiente, con corte al 31 de diciembre del año previo a la elección, por un cuarto de la unidad de medida y actualización, al producto de esta operación se le denominará costo municipal, y
+a) Multiplicará el número de ciudadanos inscritos en el Padrón Electoral del municipio correspondiente, con corte al 31 de diciembre del año previo a la elección, por el 50% de la Unidad de Medida y Actualización vigente, al producto de esta operación se le denominará costo municipal, y
 
 b) El costo municipal se multiplicará por el factor territorial municipal que corresponda a cada municipio, obteniéndose de esta manera el gasto máximo de campaña del municipio de que se trate.
 
@@ -2837,9 +3141,9 @@ Para efectos de esta fracción, se entiende por factor territorial municipal, el
 
 II. Para la elección de Diputados de mayoría relativa:
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
 
-a) Multiplicará el número de ciudadanos inscritos en el Padrón Electoral del Distrito correspondiente, con corte al 31 de diciembre del año previo a la elección, por un cuarto de la unidad de medida y actualización. Al producto de esta operación se le denominará costo distrital, y
+a) Multiplicará el número de ciudadanos inscritos en el Padrón Electoral del Distrito correspondiente, con corte al 31 de diciembre del año previo a la elección, por el 50% de la Unidad de Medida y Actualización vigente. Al producto de esta operación se le denominará costo distrital, y
 
 b) El costo distrital se multiplicará por el factor territorial distrital que corresponda a cada Distrito, obteniéndose de esta manera el gasto máximo de campaña del Distrito de que se trate.
 
@@ -3019,7 +3323,9 @@ I. El Consejo General del Instituto sorteará un mes del calendario que, junto c
 
 II. Conforme al resultado obtenido en el sorteo a que se refiere el inciso anterior, del 1 al 7 de febrero del año en que deban celebrarse las elecciones, el Consejo General del Instituto en coordinación con el Instituto Nacional Electoral, procederán a insacular, de las listas nominales de electores integradas con los ciudadanos que obtuvieron su credencial para votar al 15 de diciembre del año previo a la elección, a un 13% de ciudadanos de cada sección electoral, sin que en ningún caso el número de ciudadanos insaculados sea menor a 50; para ello, podrán estar presentes en el procedimiento de insaculación, los integrantes del consejo y los funcionarios del Instituto y del Instituto Nacional Electoral;
 
-III. La Dirección Ejecutiva de Capacitación Electoral y Educación Cívica convocará a los ciudadanos que resulten seleccionados, para que asistan a un curso de capacitación que se impartirá del 9 de febrero al 31 de marzo del año de la elección;
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+III. La Dirección Ejecutiva de Capacitación Electoral y Educación Cívica convocará a los ciudadanos que resulten seleccionados, para que asistan a un curso de capacitación que se impartirá del 9 de febrero al 31 de marzo del año de la elección, cuando esta función le sea delegada mediante convenio por el Instituto Nacional Electoral;
 
 IV. La Junta General Ejecutiva hará una evaluación imparcial y objetiva para seleccionar, en igualdad de oportunidades, con base en los datos que los ciudadanos aporten durante los cursos de capacitación, a los que resulten aptos en términos de esta Ley, prefiriendo a los de mayor escolaridad e informará a los integrantes del Consejo General del Instituto, por escrito;
 
@@ -3235,7 +3541,9 @@ Las boletas deberán obrar en poder del Consejo General del Instituto a más tar
 
 Para su control se tomarán las medidas siguientes:
 
-I. La Junta General Ejecutiva por conducto de la Dirección Ejecutiva de Procedimientos Electorales y Participación Ciudadana, entregará las boletas en el día, hora y lugar preestablecidos, al presidente del Consejo General del Instituto, quien podrá estar acompañado de los demás integrantes del propio Consejo;
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+I. La Junta General Ejecutiva por conducto de la Dirección Ejecutiva de Organización Electoral y de Participación Ciudadana entregará las boletas en el día, hora y lugar preestablecidos, al presidente del Consejo General del Instituto, quien podrá estar acompañado de los demás integrantes del propio Consejo;
 
 II. El Secretario Ejecutivo dispondrá lo conducente a efecto de que se levante un acta pormenorizada de la entrega y recepción de las boletas, en la que consten los datos relativos al número de boletas, las características del embalaje que las contiene y los nombres y cargos de los funcionarios presentes;
 
@@ -3541,6 +3849,8 @@ II. En su caso, la causa por la que se cerró antes o después de las 18:00 hora
 
 ### CAPÍTULO V. Disposiciones complementarias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 285.
 
 Una vez cerrada la votación y llenado y firmado el apartado correspondiente del acta de la jornada electoral, los integrantes de la mesa directiva procederán al escrutinio y cómputo de los votos emitidos en la casilla.
@@ -3559,11 +3869,17 @@ IV. El número de votos nulos.
 
 Se tomará como votos nulos:
 
-a) Aquél expresado por un elector en una boleta que depositó en la urna, sin haber marcado ningún cuadro que contenga el emblema de un partido político o de una candidatura independiente;
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
 
-b) Cuando el elector marque dos o más cuadros sin existir coalición entre los partidos cuyos emblemas hayan sido marcados, y
+a) Aquél expresado por un elector en una boleta que depositó en la urna, sin haber marcado ningún cuadro que contenga el emblema de un partido político o de una candidatura independiente, y
 
-c) Cuando el elector marque en la boleta dos o más cuadros y exista coalición entre los partidos cuyos emblemas hayan sido marcados, el voto contará para el candidato de la coalición y se registrará por separado en el espacio correspondiente del acta de escrutinio y cómputo de casilla.
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
+b) Cuando el elector marque dos o más cuadros sin existir coalición entre los partidos cuyos emblemas hayan sido marcados.
+
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
+Cuando el elector marque en la boleta dos o más cuadros y exista coalición entre los partidos cuyos emblemas hayan sido marcados, el voto contará para el candidato de la coalición y se registrará por separado en el espacio correspondiente del acta de escrutinio y cómputo de casilla.
 
 Se entiende por boletas sobrantes aquellas que habiendo sido entregadas a la mesa directiva de casilla no fueron utilizadas por los electores.
 
@@ -3713,7 +4029,7 @@ El Consejo Municipal Electoral, hará constar en el acta circunstanciada la rece
 
 ###### Artículo 299.
 
-El Consejo General del Instituto designará, a más tardar durante la segunda semana del mes de mayo del año de la elección a un número suficiente de asistentes electorales, preferentemente de entre los ciudadanos que hubieren desempeñado el cargo de capacitadores electorales durante los cursos de capacitación a los posibles integrantes de las mesas directivas de casilla, así como los que cumplan los requisitos siguientes:
+El Consejo General del Instituto designará, con la debida anticipación al día de la elección a un número suficiente de asistentes electorales, preferentemente de entre los ciudadanos que hubieren desempeñado el cargo de capacitadores electorales durante los cursos de capacitación a los posibles integrantes de las mesas directivas de casilla, así como los que cumplan los requisitos siguientes:
 
 I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos, y contar con credencial para votar con fotografía;
 
@@ -3733,6 +4049,10 @@ VIII. No haber participado como representante de partido político o coalición 
 
 IX. Presentar solicitud conforme a la convocatoria que se expida, acompañando los documentos que en ella se establezcan.
 
+> <small>(ADICIONADA, D.O. 31 DE MAYO DE 2017)</small>
+
+X. No ser personal del Instituto.
+
 ###### Artículo 300.
 
 Los asistentes electorales auxiliarán a los órganos del Instituto en los trabajos de:
@@ -3743,9 +4063,17 @@ II. Verificación de la instalación, funcionamiento y clausura de las casillas;
 
 III. Información sobre los incidentes ocurridos durante la jornada electoral;
 
-IV. Apoyar a los funcionarios de casilla en el traslado de los paquetes electorales, y
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
 
-V. Los que expresamente les confiera el Consejo General del Instituto.
+IV. Apoyar a los funcionarios de casilla en el traslado de los paquetes electorales;
+
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+V. Apoyar en los cómputos distritales y municipales, y
+
+> <small>(ADICIONADA, D.O. 31 DE MAYO DE 2017)</small>
+
+VI. Los que expresamente les confiera el Consejo General del Instituto.
 
 ###### Artículo 301.
 
@@ -4031,9 +4359,11 @@ En la integración de la legislatura, el porcentaje de representación de un par
 
 Para los efectos del cálculo de este artículo, a la votación emitida se le deberá restar los votos a favor de los partidos políticos que no hayan obtenido porcentaje mínimo de Asignación, los votos emitidos para candidatos independientes, los votos de los candidatos no registrados y los votos nulos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 330.
 
-Previamente a la asignación de los diputados electos por el sistema de representación proporcional, el Consejo General del Instituto procederá a integrar una lista de 10 candidatos en orden de prelación, por cada uno de los partidos políticos y coaliciones, que hubieran alcanzado el Porcentaje Mínimo de Asignación, aplicado el siguiente procedimiento:
+Previamente a la asignación de los diputados electos por el sistema de representación proporcional, el Consejo General del Instituto procederá a integrar una lista de 10 candidatos en orden de prelación, por cada uno de los partidos políticos y coaliciones, que hubieran alcanzado el porcentaje mínimo de asignación, aplicando el siguiente procedimiento:
 
 I. Se tendrá por lista preliminar la integrada por los 5 candidatos de representación proporcional a que se refiere el inciso b), fracción I, del artículo 214, de esta Ley, que hubiera registrado el partido político o coalición;
 
@@ -4041,7 +4371,9 @@ II. Se elaborará una segunda lista con los 5 candidatos de mayoría relativa qu
 
 Para obtener el porcentaje de votación válida de los candidatos en los distritos referidos en esta fracción, se debe calcular con el total de la votación válida del partido en el Estado, y
 
-III. La lista definitiva de los candidatos para la asignación, a que se refiere el primer párrafo de este artículo, se integrará alternando uno a uno, a los relacionados en las listas anteriores, iniciando con el primero de la lista a que se refiere la fracción I de este artículo.
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+III. La lista definitiva de los candidatos para la asignación, a que se refiere el primer párrafo de este artículo, se integrará alternando uno a uno, a los relacionados en las listas anteriores, iniciando con el primero de la lista a que se refiere la fracción I de este artículo. La lista definitiva deberá respetar la decisión emitida en la elección mediante el sufragio popular.
 
 ###### Artículo 331.
 
@@ -4097,9 +4429,11 @@ Los municipios del Estado se administrarán por ayuntamientos integrados por un 
 
 Para los efectos de esta Ley, se entiende por fórmula electoral los elementos matemáticos y los mecanismos por medio de los cuales se asignarán a los partidos políticos el número de regidores de representación proporcional que corresponda, conforme a lo establecido en el artículo 76 de la Constitución.
 
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 337.
 
-A la planilla de regidores que hubiera obtenido el mayor número de votos en la elección, le corresponderá la totalidad de las regidurías de mayoría relativa y sólo tendrá el derecho de participar en la asignación de regidores de representación proporcional en los casos previstos por este capítulo.
+A la planilla de regidores que hubiera obtenido el mayor número de votos en la elección, le corresponderá la totalidad de las regidurías de mayoría relativa y sólo tendrá el derecho de participar en la asignación de regidores de representación proporcional en los casos previstos en el artículo 343 de esta ley.
 
 ###### Artículo 338.
 
@@ -4519,6 +4853,8 @@ Tendrá bajo su responsabilidad directa las notificaciones o publicaciones que s
 
 ### CAPÍTULO III. Del procedimiento sancionador ordinario
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 372.
 
 En la sustanciación de los procedimientos sancionadores, se aplicará supletoriamente la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado de Yucatán.
@@ -4653,9 +4989,15 @@ I. Negarse a entregar la información requerida por el Instituto, entregarla en 
 
 II. Contratar propaganda en radio y televisión en el Estado dirigida a la promoción personal con fines políticos o electorales, a influir en las preferencias electorales de los ciudadanos, o a favor o en contra de partidos políticos o de candidatos a cargos de elección popular;
 
-III. Realizar actos de promoción previos al proceso electoral, y
+> <small>(ADICIONADA, D.O. 31 DE MAYO DE 2017)</small>
 
-IV. Incumplir cualquiera de las disposiciones contenidas en la presente Ley.
+III. Contratar en cualquier medio de comunicación o difusión en el estado, propaganda política o electoral que contenga expresiones que calumnien a las personas, instituciones, partidos políticos o candidatos a cargos de elección popular;
+
+IV. Realizar actos de promoción previos al proceso electoral, y
+
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+V. Incumplir cualquiera de las disposiciones contenidas en la presente ley.
 
 ###### Artículo 379.
 
@@ -4895,9 +5237,17 @@ I. El Consejo General del Instituto;
 
 II. La Comisión de Denuncias y Quejas;
 
-III. La Secretaría Ejecutiva, y
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
 
-IV. La Unidad Técnica de lo Contencioso Electoral de la Secretaría Ejecutiva del Consejo General del Instituto.
+III. La Secretaría Ejecutiva;
+
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+IV. La Unidad Técnica de lo Contencioso Electoral de la Secretaría Ejecutiva del Consejo General del Instituto, y
+
+> <small>(ADICIONADA, D.O. 31 DE MAYO DE 2017)</small>
+
+V. El Tribunal Electoral del Estado de Yucatán.
 
 Los consejos distritales y los municipales, en sus respectivos ámbitos de competencia, fungirán como órganos auxiliares, para la tramitación de los procedimientos sancionadores, salvo lo establecido en el artículo 407 de esta Ley.
 
@@ -4957,13 +5307,17 @@ VI. Instrumental de actuaciones.
 
 La confesional y la testimonial podrán ser admitidas cuando se ofrezcan en acta levantada ante fedatario público que las haya recibido directamente de los declarantes, y siempre que estos últimos queden debidamente identificados y asienten la razón de su dicho.
 
-La autoridad que sustancie el procedimiento podrá ordenar el desahogo de reconocimientos o inspecciones judiciales, así como de pruebas periciales, cuando la violación reclamada lo amerite, los plazos permitan su desahogo y se estimen determinantes para el esclarecimiento de los hechos denunciados.
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
+La Unidad Técnica de lo Contencioso Electoral de la Secretaría Ejecutiva, podrá ordenar el desahogo de reconocimientos o inspecciones judiciales, así como de pruebas periciales, cuando la violación reclamada lo amerite, los plazos permitan su desahogo y se estimen determinantes para el esclarecimiento de los hechos denunciados.
 
 El quejoso o el denunciado podrán aportar pruebas supervenientes hasta antes del cierre de la instrucción.
 
 Admitida una prueba superveniente, se dará vista al quejoso o denunciado, según corresponda, para que en el plazo de cinco días manifieste lo que a su derecho convenga.
 
-El Consejo General del Instituto o la Unidad Técnica de lo Contencioso Electoral de la Secretaría Ejecutiva, podrán admitir aquellas pruebas que habiendo sido ofrecidas en el escrito por el que se comparezca al procedimiento y que hayan sido solicitadas a las instancias correspondientes, no se hubiesen aportado antes de la aprobación del proyecto de resolución y se aporten hasta veinticuatro horas antes del inicio de la sesión respectiva. El Consejo General del Instituto apercibirá a las autoridades en caso de que éstas no atiendan en tiempo y forma, el requerimiento de las pruebas.
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
+La Unidad Técnica de lo Contencioso Electoral de la Secretaría Ejecutiva, podrán (sic) admitir aquellas pruebas que habiendo sido ofrecidas en el escrito por el que se comparezca al procedimiento y que hayan sido solicitadas a las instancias correspondientes, no se hubiesen aportado antes de la aprobación del proyecto de resolución y se aporten hasta veinticuatro horas antes del inicio de la sesión respectiva. La Unidad Técnica de lo Contencioso Electoral de la Secretaría Ejecutiva apercibirá a las autoridades en caso de que éstas no atiendan en tiempo y forma, el requerimiento de las pruebas.
 
 Asimismo, el Consejo General del Instituto podrá admitir aquellos elementos probatorios que, habiendo sido solicitados por los órganos del Instituto dentro de la investigación correspondiente, no se hubiesen recibido sino hasta veinticuatro horas antes de la sesión respectiva. En estos casos, el Consejo General del Instituto ordenará la devolución del expediente a la Unidad Técnica de lo Contencioso Electoral de la Secretaría Ejecutiva, para los efectos del párrafo primero del artículo 404 de la presente Ley.
 
@@ -4985,7 +5339,23 @@ Para la resolución expedita de las quejas o denuncias y con el objeto de determ
 
 ###### Artículo 396.
 
-El procedimiento para el conocimiento de las faltas y aplicación de sanciones administrativas podrá iniciar a instancia de parte, o de oficio cuando cualquier órgano del Instituto tenga conocimiento de la comisión de conductas infractoras.
+Dentro y fuera de los procesos electorales el Consejo General por conducto de la Unidad Técnica de lo Contencioso Electoral de la Secretaría Ejecutiva, sustanciará el procedimiento sancionador ordinario para el conocimiento de las faltas y aplicación de sanciones administrativas, el cual podrá iniciar a instancia de parte, o de oficio cuando cualquier órgano del Instituto tenga conocimiento de la comisión de conductas infractoras.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 31 DE MAYO DE 2017)</small>
+
+Para poder iniciarse de oficio un procedimiento sancionador, el órgano que tuvo conocimiento de la falta deberá promoverlo por medio de acuerdo aprobado en sesión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 31 DE MAYO DE 2017)</small>
+
+Para lo dispuesto en el párrafo anterior, se entenderán por órganos del Instituto:
+
+I. El Consejo General;
+
+II. La Junta General Ejecutiva;
+
+III. Los Consejos Distritales, y
+
+IV. Los Consejos Municipales.
 
 La facultad de la autoridad electoral para fincar responsabilidades por infracciones administrativas prescribe en el término de tres años, contados a partir de la comisión de los hechos o de que se tenga conocimiento de los mismos.
 
@@ -5007,9 +5377,17 @@ V. Ofrecer y aportar las pruebas con que cuente; o en su caso, mencionar las que
 
 VI. Los partidos políticos deberán presentar las quejas o denuncias por escrito. En caso de que los representantes no acrediten su personalidad, la queja o denuncia se tendrá por no presentada.
 
-Salvo la hipótesis contenida en la última parte del párrafo siguiente, ante la omisión de cualquiera de los requisitos antes señalados, la Unidad Técnica de lo Contencioso Electoral de la Secretaría Ejecutiva prevendrá al denunciante para que la subsane dentro del plazo improrrogable de 3 días.
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
 
-De la misma forma lo prevendrá para que aclare su denuncia, cuando ésta sea imprecisa, vaga o genérica. En caso de no enmendar la omisión que se le requiera, se tendrá por no presentada la denuncia.
+Ante la omisión de cualquiera de los requisitos antes señalados, la Unidad Técnica de lo Contencioso Electoral de la Secretaría Ejecutiva prevendrá al denunciante para que la subsane dentro de un plazo improrrogable de 3 días.
+
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
+De la misma forma lo prevendrá para que aclare su denuncia, cuando ésta sea imprecisa, vaga, genérica o insuficiente.
+
+> <small>(ADICIONADO, D.O. 31 DE MAYO DE 2017)</small>
+
+En caso de no enmendar la omisión que se le requiera o verse sobre cuestiones distintas a la información solicitada, se tendrá por no presentada la denuncia.
 
 ###### Artículo 398.
 
@@ -5079,19 +5457,37 @@ IV. Los documentos que sean necesarios para acreditar la personalidad, y
 
 V. Ofrecer y aportar las pruebas con que cuente debiendo relacionar éstas con los hechos; o en su caso, mencionar las que habrán de requerirse por estar en poder de una autoridad y que no le haya sido posible obtener. En este último supuesto, el oferente deberá identificar con toda precisión dichas pruebas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 403.
 
-La investigación para el conocimiento cierto de los hechos se realizará por el Instituto mediante la Comisión de denuncias y quejas, de forma seria, congruente, idónea, eficaz, expedita, completa y exhaustiva.
+La investigación para el conocimiento cierto de los hechos se realizará por el Instituto mediante la Unidad Técnica de lo Contencioso Electoral, de forma seria, congruente, idónea, eficaz, expedita, completa y exhaustiva.
 
 Una vez que la Unidad Técnica de lo Contencioso Electoral tenga conocimiento de los hechos denunciados, en su caso, dictará de inmediato las medidas necesarias para dar fe de los mismos; para impedir que se pierdan, destruyan o alteren las huellas o vestigios, y en general, para evitar que se dificulte la investigación.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 31 DE MAYO DE 2017)</small>
+
+Si del análisis de las constancias aportadas por el denunciante, se advierte la falta de indicios necesarios para admitir el procedimiento, la Unidad Técnica de lo Contencioso Electoral, dictará las medidas pertinentes para llevar a cabo la investigación, debiendo justificar su necesidad y oportunidad. En este caso, el plazo para la admisión se computará a partir de que la autoridad cuente con los elementos necesarios para decidir sobre la admisión.
+
 Admitida la queja o denuncia por la Unidad Técnica de lo Contencioso Electoral, se allegará de los elementos de convicción que estime pertinentes para integrar el expediente respectivo. Para tal efecto, solicitará mediante oficio a los órganos del Instituto que lleven a cabo las investigaciones o recaben las pruebas necesarias. El plazo para llevar a cabo la investigación no podrá exceder de 40 días, contados a partir de la recepción del escrito de queja o denuncia en la Secretaría o del inicio de oficio del procedimiento por parte de la Unidad Técnica de lo Contencioso Electoral. Dicho plazo podrá ser ampliado de manera excepcional por una sola vez, hasta por un período igual al antes señalado, mediante acuerdo debidamente motivado que emita la Unidad Técnica de lo Contencioso Electoral.
 
-Si dentro del plazo fijado para la admisión de la queja o denuncia, la Unidad Técnica de lo Contencioso Electoral, a petición de parte valorará si deben dictarse medidas cautelares, y en su caso propondrá a la Comisión de Denuncias y Quejas para que ésta resuelva, en un plazo de 24 horas, lo conducente, a fin de lograr la cesación de los actos o hechos que constituyan la infracción, evitar la producción de daños irreparables, la afectación de los principios que rigen los procesos electorales, o la vulneración de los bienes jurídicos tutelados por las disposiciones contenidas en esta Ley.
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
 
-En su caso podrá ordenar como medida cautelar el retiro de circulación o publicación del acto, documento, artículo, reportaje, o cualquier otro semejante, motivo de la denuncia o queja.
+Si dentro del plazo fijado para la admisión de la queja o denuncia, la Unidad Técnica de lo Contencioso Electoral, a petición de parte valorará si deben dictarse medidas cautelares, y en su caso propondrá a la Comisión de Denuncias y Quejas para que ésta resuelva, lo conducente, a fin de lograr la cesación de los actos o hechos que constituyan la infracción, evitar la producción de daños irreparables, la afectación de los principios que rigen los procesos electorales, o la vulneración de los bienes jurídicos tutelados por las disposiciones contenidas en esta Ley. Para lo cual su Presidente deberá atender lo siguiente:
 
-La Secretaría podrá solicitar a las autoridades federales, estatales o municipales, según corresponda, los informes, certificaciones o el apoyo necesario para la realización de diligencias que coadyuven para indagar y verificar la certeza de los hechos denunciados. Con la misma finalidad podrá requerir a las personas físicas y morales la entrega de informaciones y pruebas que sean necesarias.
+I. Convocará a los integrantes de la Comisión de Denuncias y Quejas dentro de las 24 horas después de recibida la solicitud de medidas cautelares;
+
+II. Celebrará una sesión dentro de las 24 horas posteriores a la notificación de la convocatoria, en la cual los integrantes de la Comisión de Denuncias y Quejas deberán resolver sobre la solicitud de medidas cautelares, y
+
+III. Notificar a la Unidad Técnica de lo Contencioso Electoral de la Secretaría Ejecutiva, dentro de las 24 horas siguientes a la aprobación de la resolución, para que ésta proceda en los términos de la misma.
+
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
+En su caso podrá ordenar como medida cautelar el retiro de circulación o publicación del acto, documento, artículo, reportaje, o cualquier otro semejante, motivo de la denuncia o queja, instruyendo a la Unidad Técnica de lo Contencioso Electoral de la Secretaría Ejecutiva para que ejerza la medida cautelar determinada por la Comisión de Denuncias y Quejas.
+
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
+La Unidad Técnica de lo Contencioso Electoral de la Secretaría Ejecutiva, podrá solicitar a las autoridades federales, estatales o municipales, según corresponda, los informes, certificaciones o el apoyo necesario para la realización de diligencias que coadyuven para indagar y verificar la certeza de los hechos denunciados. Con la misma finalidad podrá requerir a las personas físicas y morales la entrega de informaciones y pruebas que sean necesarias.
 
 Las diligencias que se realicen en el curso de la investigación deberán ser efectuadas por la Unidad Técnica de lo Contencioso Electoral, a través del servidor público o por el apoderado legal que éste designe a petición por escrito de cualquiera de los antes señalados.
 
@@ -5197,11 +5593,15 @@ IV. Aquéllas que únicamente se fundamenten en notas de opinión periodística 
 
 Se impondrá una sanción de cien a mil unidades de medida y actualización y esta dependerá de la valoración del grado de frivolidad de la queja.
 
+> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+
 ###### Artículo 411.
 
-Cuando se admita la denuncia, se emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de 48 horas posteriores a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+Cuando se admita la denuncia, se emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar al menos dentro de las 48 horas posteriores al emplazamiento respectivo. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
 
-Si la Unidad Técnica de lo Contencioso Electoral considera necesaria la adopción de medidas cautelares, las propondrá a la Comisión de Denuncias y Quejas dentro del plazo antes señalado, en los términos establecidos en el artículo 402 de esta Ley.
+La Unidad Técnica de lo Contencioso Electoral de la Secretaría Ejecutiva, podrá realizar investigaciones para recabar elementos necesarios para decidir la admisión o desechamiento de la denuncia, en términos del párrafo tercero del artículo 403 de esta ley.
+
+Si la Unidad Técnica de lo Contencioso Electoral considera necesaria la adopción de medidas cautelares, las propondrá a la Comisión de Denuncias y Quejas dentro del plazo antes señalado, en los términos establecidos en el artículo 403 de esta ley.
 
 ###### Artículo 412.
 
@@ -5245,7 +5645,9 @@ Cuando las denuncias a que se refiere este capítulo tengan como motivo la comis
 
 I. La denuncia podrá ser presentada ante el Secretario Ejecutivo del Consejo Distrital o Municipal que corresponda a la demarcación territorial en donde haya ocurrido la conducta denunciada;
 
-II. El Secretario Ejecutivo del Consejo Distrital o Municipal que reciba una denuncia, deberá remitirla a la Secretaría, a más tardar dentro las 24 horas de recibida;
+> <small>(REFORMADA, D.O. 31 DE MAYO DE 2017)</small>
+
+II. El Secretario Ejecutivo del Consejo Distrital o Municipal que reciba una denuncia, deberá remitirla a la Unidad Técnica de lo Contencioso Electoral, a más tardar dentro las 24 horas de recibida;
 
 III. A partir de que la Secretaría reciba la denuncia, empezarán a correr los términos establecidos en este Capítulo, y
 
@@ -5372,3 +5774,23 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Derogación tácita.
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 31 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 490/2017 POR EL QUE SE MODIFICA LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE YUCATÁN Y LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE YUCATÁN".]
+
+Artículo primero. Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Se derogan las disposiciones legales, reglamentarias y acuerdos, que se opongan al presente decreto.
+
+Las disposiciones normativas internas del Instituto que no se opongan al presente decreto, continuarán vigentes hasta su adecuación.
+
+Artículo tercero. Las normas en materia del Órgano Interno de Control del Instituto a que se refiere el artículo primero de este decreto, entrarán en vigor a partir de la fecha en que entren en vigencia las nuevas normas en materia de responsabilidades de los servidores públicos en el estado de Yucatán.
+
+Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a la Contraloría, se entenderá asignado (sic) al Órgano Interno de Control a que se refiere el presente decreto.
+
+Artículo cuarto. El Director Ejecutivo de Procedimientos Electorales y Participación Ciudadana del Instituto, a partir de la entrada en vigor del presente decreto será Director de Organización Electoral y de Participación Ciudadana.
+
+Artículo quinto. El Contralor del Instituto, a partir de la entrada en vigor del presente decreto será Titular del Órgano Interno de Control.
+
+Artículo sexto. La reforma contenida en el artículo 52 de la Ley de Partidos Políticos del Estado de Yucatán, referente al financiamiento público entrará en vigor a partir del 1 de octubre de 2017.
