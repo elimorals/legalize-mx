@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2016-10-18"
+last_updated: "2017-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2017.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -51,11 +51,11 @@ El Estado de San Luis Potosí es la organización política y jurídica de sus h
 
 El Estado es parte integrante de los Estados Unidos Mexicanos; es libre y soberano en cuanto a su régimen interior, sin más limitaciones que aquéllas que la Constitución Política de los Estados Unidos Mexicanos establece a las Entidades Federativas.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
-###### ARTICULO 3o.
+###### ARTÍCULO 3o.
 
-El Estado de San Luis Potosí adopta para su régimen interior la forma de gobierno republicano, representativo, laico, y popular, y lo ejerce por medio de los poderes, Legislativo; Ejecutivo; y Judicial. En ningún momento podrán reunirse dos o más de estos poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo. Los poderes del Estado no tendrán más atribuciones que las que les confieren la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, y las leyes que de ellas emanen.
+El Estado de San Luis Potosí adopta para su régimen interior la forma de gobierno republicano, representativo, democrático, laico, y popular, y lo ejerce por medio de los poderes, Legislativo; Ejecutivo; y Judicial. En ningún momento podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo. Los Poderes del Estado no tendrán más atribuciones que las que les confieren la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, y las leyes que de ellas emanen.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -461,7 +461,9 @@ II.- Tener un modo honesto de vivir.
 
 Son obligaciones de los ciudadanos potosinos:
 
-I.- Desempeñar los cargos de elección popular para los que sean electos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+I.- Desempeñar los cargos de elección popular para los que sean electos que, en ningún caso, serán gratuitos;
 
 II.- Inscribirse en el padrón electoral en los términos que determine la ley de la materia;
 
@@ -537,11 +539,21 @@ La ley fijará el procedimiento para la pérdida y suspensión de los derechos o
 
 El sufragio es el derecho que otorga la ley a los ciudadanos para participar en la vida política del Estado y constituye un deber cívico y legal que se ejerce a través del voto para expresar la voluntad soberana del individuo. El voto deberá ser libre, universal, secreto y directo. Las autoridades garantizarán la libertad y secreto del mismo.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
-Corresponde a los ciudadanos, partidos políticos y al Consejo Estatal Electoral, la preparación, desarrollo y vigilancia de los procesos electorales, así como velar porque los mismos se lleven a cabo bajo los principios de, certeza, legalidad, imparcialidad, independencia, máxima publicidad, objetividad y equidad.
+Los ciudadanos potosinos que residan en el extranjero podrán ejercer su derecho al voto en la elección de Gobernador del Estado, en los términos que disponga la Ley Electoral del Estado de San Luis Potosí.
 
-La ley determinará los organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los partidos políticos y de los ciudadanos; además, establecerá los medios de impugnación para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por esta Constitución y las leyes que de ella emanen.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Corresponde a los ciudadanos potosinos partidos políticos y a las autoridades electorales locales y federales, administrativas y jurisdiccionales, cada una en ámbito de su competencia, la preparación, desarrollo y vigilancia de los procesos electorales, así como velar porque los mismos se lleven a cabo bajo los principios de certeza, legalidad, imparcialidad, independencia, máxima publicidad, objetividad y equidad.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+La ley determinará los organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los partidos políticos y de los ciudadanos; además, establecerá los medios de impugnación para garantizar que los actos de los organismos electorales administrativos y jurisdiccionales, se ajusten a lo dispuesto por esta Constitución y las leyes que de ella emanen.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Durante el tiempo que comprendan las campañas electorales, y hasta la conclusión de la jornada electoral, deberá suspenderse toda difusión de propaganda gubernamental en los medios de comunicación social, tanto de los poderes, Ejecutivo, Legislativo y Judicial, así como de los ayuntamientos y sus delegaciones. Se exceptúa de lo anterior la información que difundan las autoridades electorales, las relativas a servicios de salud y el ámbito educativo, así como a la protección civil en casos de emergencia.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -607,11 +619,21 @@ Los organismos electorales competentes, con la participación de los partidos po
 
 ### CAPÍTULO II. De los Partidos Políticos
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 36.
 
-Los partidos políticos son entidades de interés público que tienen como fin promover la participación de los ciudadanos en la vida democrática, y hacer posible el acceso de sus candidatos, mediante el sufragio universal, libre, secreto y directo de los electores, al ejercicio del poder público, de acuerdo con los programas, principios e ideas postulados por aquéllos; así como las reglas para garantizar la paridad entre los géneros, en candidaturas a diputados locales, y ayuntamientos.
+Los partidos políticos son entidades de interés público que tienen como fin promover la participación de los ciudadanos en la vida democrática, y hacer posible el acceso de sus candidatos, mediante el sufragio universal, libre, secreto y directo de los electores, al ejercicio del poder público, de acuerdo con los programas, principios, ideas y postulados; así como las reglas para garantizar la paridad entre los géneros, de conformidad con los procedimientos que establezcan sus estatutos para la postulación de candidatos.
+
+Los partidos políticos que participen en los procesos electorales locales para integración del Congreso del Estado, deberán garantizar la paridad entre los géneros en la totalidad de sus candidaturas, por ambos principios, debiendo sus fórmulas estar compuestas por candidatos del mismo género.
+
+En los procesos electorales municipales que se rigen por el principio de mayoría relativa, los partidos políticos promoverán la postulación de una proporción paritaria de candidatos de ambos géneros.
+
+En el caso de las candidaturas a los Ayuntamientos postulados por cada partido político se regirá por el principio de paridad horizontal.
+
+Las planillas deberán integrarse por candidatos propietarios y suplentes del mismo género.
+
+Las listas de representación proporcional en cargos de elección municipal, se conformarán y asignarán bajo el principio de paridad de género en propietarios y suplentes.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -707,15 +729,13 @@ El Congreso del Estado se integra con quince Diputados electos por mayoría rela
 
 Los partidos políticos con derecho a participar en las elecciones locales podrán postular un candidato para cada distrito uninominal y una lista de doce candidatos para ser electos por el principio de representación proporcional en la circunscripción estatal.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 44.
 
-La ley reglamentará la forma y procedimientos relativos a la elección de Diputados de mayoría y a la asignación de Diputados de representación proporcional.
+La ley reglamentará la forma y procedimientos relativos a la elección de Diputados de mayoría, y a la asignación de Diputados de representación proporcional, con el propósito de garantizar que un partido político no pueda contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que no exceda en ocho puntos su porcentaje de votación emitida, así como de que el porcentaje de representación de un partido político no sea menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2002)</small>
-
-El máximo de Diputados por ambos principios, que pueda alcanzar un partido político, será igual al número de distritos uninominales del Estado.
+El máximo de Diputados por ambos principios que puede alcanzar un partido político es de quince; esta base no aplica al partido político que, por sus triunfos en distritos uninominales, obtenga quince o más curules.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -739,7 +759,9 @@ II.- Tener la calidad de potosino por nacimiento con residencia efectiva en el E
 
 III.- No tener una multa firme pendiente de pago, o que encontrándose sub júdice no esté garantizada en los términos de las disposiciones legales aplicables, que haya sido impuesta por responsabilidad con motivo de los cargos públicos que hubiere desempeñado en la administración federal, estatal o municipal; y no haber sido condenado por sentencia firme por la comisión de delitos dolosos que hayan ameritado pena de prisión; y
 
-IV.- Tener como mínimo veintiún años de edad al día de la elección.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+IV.- Tener dieciocho años cumplidos al día de la elección.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -759,27 +781,55 @@ III.- Los funcionarios de elección popular de los Ayuntamientos;
 
 IV.- Los miembros de las Fuerzas Armadas que estén en servicio activo o que tengan mando en el Estado, así como los que ejerzan mando y atribuciones en la policía en el distrito en donde se celebre la elección;
 
-V.- Los ministros de culto religioso.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
+V.- Los ministros de culto religioso;
 
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-VI.- Los Magistrados y secretarios del Tribunal Electoral del Estado; el Consejero Presidente o los consejeros electorales del Consejo Estatal Electoral y de Participación Ciudadana, el secretario ejecutivo, o personal profesional directivo del propio Consejo, salvo que se hubiere separado de su encargo tres años antes del día de la elección, y
+VI.- Los Magistrados y secretarios del Tribunal Electoral del Estado; el Consejero Presidente o los consejeros electorales del Consejo Estatal Electoral y de Participación Ciudadana, el secretario ejecutivo, o personal profesional directivo del propio Consejo, salvo que se hubiere separado de su encargo tres años antes del día de la elección;
 
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-VII.- Los Magistrados y Jueces del Supremo Tribunal de Justicia del Estado, no podrán ser electos en la Entidad de sus respectivas jurisdicciones.
+VII.- Los Magistrados y Jueces del Supremo Tribunal de Justicia del Estado, no podrán ser electos en la Entidad de sus respectivas jurisdicciones;
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
 
-Quienes se encuentren en los supuestos que señalan las fracciones, II, III, IV, y VII de este artículo, estarán impedidos a menos que se separen definitivamente de sus funciones noventa días antes del día de la elección. Los ministros de culto deberán hacerlo con la anticipación y en la forma establecida en la Ley reglamentaria del artículo 130 de la Constitución Federal.
+VIII.- No ser titular de alguno de los organismos que la Constitución Política de los Estados Unidos Mexicanos otorga autonomía, ni ser Secretario o Subsecretario de Estado, ni titular de alguno de los organismos descentralizados o descentralizados de la administración pública federal;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+IX.- No ser Ministro de la Suprema Corte de Justicia de la Nación, ni Magistrado o juez federal, ni Magistrado o Secretario del Tribunal Electoral del Poder Judicial de la Federación, ni Consejero Presidente o consejero electoral del Consejo General, local o distritales del Instituto Nacional Electoral, ni Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo del propio Instituto, salvo que se hubiere separado de su encargo tres años antes del día de la elección;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+X.- No ser servidor público de los poderes ejecutivo, legislativo y judicial, en el ámbito federal, con atribuciones de mando, y en ejercicio de autoridad;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XI.- No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XII.- No ser Senador, Diputado Federal o miembro de un Ayuntamiento, salvo que se separe del cargo noventa días antes de la elección, y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XIII.- No ser funcionario municipal con atribuciones de mando.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Quienes se encuentren en los supuestos que señalan las fracciones, II, III, IV, VII, VIII, X, y XIII de este artículo, estarán impedidos a menos que se separen definitivamente de sus funciones noventa días antes del día de la elección. Los ministros de culto deberán hacerlo con la anticipación y en la forma establecida en la Ley reglamentaria del artículo 130 de la Constitución Federal.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 48.
 
 Los Diputados podrán ser electos hasta por cuatro periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Los diputados que pretendan reelegirse deberán separarse de su cargo noventa días antes de la elección solicitando licencia respectiva, pudiendo reincorporarse el día posterior de la elección. Los diputados electos como candidatos independientes sólo podrán ser reelectos bajo esta misma figura.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
 
@@ -1207,9 +1257,9 @@ III.- Tener treinta años cumplidos al día de la elección;
 
 IV.- No estar en el servicio activo del Ejército Nacional, a menos que se separe de su encargo por lo menos un año antes del día de la elección;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-V.- No ser secretarios o subsecretarios de Estado, Procurador General de Justicia del Estado, Presidente Municipal, a menos de que se separe de su encargo ciento veinte días antes del día de la elección;
+V. - No ser secretario o subsecretario de Estado, Procurador General de Justicia del Estado, Presidente Municipal, a menos de que se separe de su encargo seis meses antes del día de la elección;
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -1385,7 +1435,9 @@ III.- Obstruir, limitar o imposibilitar, por cualquier medio, el libre ejercicio
 
 IV.- Disponer la ocupación de la propiedad particular, sin satisfacer los requisitos que marca la ley;
 
-V.- Entorpecer, dificultar u obstaculizar las elecciones populares determinadas por la Constitución o por las leyes respectivas; y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+V.- Entorpecer, dificultar, obstaculizar o intervenir, por sí mismo o por medio de servidor público a su mando, en las elecciones populares determinadas por la Constitución o por las leyes respectivas, para que recaigan en determinada persona de conformidad con el artículo 72 de la Ley de Justicia Electoral del Estado, y
 
 VI.- Disponer de los fondos y recursos públicos fuera de los fines que están señalados en esta Constitución y las leyes de la materia.
 
@@ -1863,11 +1915,11 @@ No se hará pago alguno que no esté previsto en la Ley del Presupuesto de Egres
 
 El Municipio Libre constituye la base de la división territorial y de la organización política y administrativa del Estado y tendrá a su cargo la administración y gobierno de los intereses municipales, conforme a las bases siguientes:
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa. La competencia del gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado. Los ayuntamientos se compondrán por un presidente municipal y el número de regidores y síndicos que la ley determine, electos popularmente por votación directa, quienes podrán reelegirse por un período adicional por el mismo cargo. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Las personas que, por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen la función propia de sus cargos, cualquiera que sea la denominación que se les dé, podrán ser reelectas para el período inmediato siguiente.
+I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa. La competencia del gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado. Los ayuntamientos se compondrán por un presidente municipal y el número de regidores y síndicos que la ley determine, electos popularmente por votación directa, quienes podrán reelegirse por un período adicional por el mismo cargo. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Cuando se trate de Presidentes Municipales y los integrantes de la planilla electos como candidatos independientes, sólo podrán ser reelectos con esta misma calidad. Las personas que, por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen la función propia de sus cargos, cualquiera que sea la denominación que se les dé, podrán ser reelectas para el período inmediato siguiente.
 
-En el caso de los funcionarios suplentes, podrán ser electos para el período inmediato siguiente sin ser considerado como reelección, siempre que no hayan ejercido funciones u ostentado el carácter de propietarios en el Ayuntamiento respectivo.
+En el caso de los funcionarios suplentes podrán ser electos para el período inmediato siguiente sin ser considerado como reelección, siempre que no hayan ejercido funciones u ostentado el carácter de propietarios en el Ayuntamiento respectivo. Para poder ser candidatos al mismo cargo, los integrantes de los ayuntamientos deberán separarse de su cargo noventa días antes de la elección solicitando licencia respectiva, pudiendo reincorporarse el día posterior de la elección;
 
 II.- Los Municipios estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la ley.
 
@@ -2045,13 +2097,17 @@ Para ser miembro del Ayuntamiento, Concejo o Delegado Municipal, se requiere:
 
 I.- Ser ciudadano potosino en pleno goce de sus derechos;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-II.- Ser originario del municipio y con un año, por lo menos, de residencia efectiva en el mismo, inmediata anterior al día de la elección o designación, en su caso; o ser vecino del mismo, con residencia efectiva de tres años inmediata anterior al día de la elección, o designación, y
+II.- Ser originario del municipio y con un año, por lo menos, de residencia efectiva en el mismo, inmediata anterior al día de la elección o designación, en su caso; o ser vecino del mismo, con residencia efectiva de tres años inmediata anterior al día de la elección, o designación;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-III.- No tener una multa firme pendiente de pago, o que encontrándose sub júdice no esté garantizada en los términos de las disposiciones legales aplicables, que haya sido impuesta por responsabilidad con motivo de los cargos públicos que hubiere desempeñado en la administración federal, estatal o municipal; y no haber sido condenado por sentencia firme por la comisión de delitos dolosos que hayan ameritado pena de prisión.
+III.- No tener una multa firme pendiente de pago, o que encontrándose sub júdice no esté garantizada en los términos de las disposiciones legales aplicables, que haya sido impuesta por responsabilidad con motivo de los cargos públicos que hubiere desempeñado en la administración federal, estatal o municipal; y no haber sido condenado por sentencia firme por la comisión de delitos dolosos que hayan ameritado pena de prisión, y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+IV.- En el caso de la reelección, no tener sanción grave firme, por el manejo de los recursos públicos durante el periodo de responsabilidad que concluye.
 
 Los Síndicos reunirán además los requisitos previstos en la ley orgánica respectiva.
 
@@ -2067,23 +2123,45 @@ I.- El Gobernador del Estado;
 
 II.- Los secretarios, subsecretarios o Procurador General del Estado; los titulares de organismos descentralizados o desconcentrados de la administración; o a los que esta Constitución otorga autonomía;
 
-III.- Los miembros de las Fuerzas Armadas que estén en servicio activo o que tengan mando en el Estado, así como los que ejerzan cargo y atribuciones de mando de policía en el municipio respectivo; y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+III.- Los miembros de las Fuerzas Armadas que estén en servicio activo o que tengan mando en el Estado, así como los que ejerzan cargo y atribuciones de mando de policía en el municipio respectivo;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
 IV.- Los Magistrados y secretarios del Tribunal Electoral del Estado; el Consejero Presidente o los consejeros electorales del Consejo Estatal Electoral y de Participación Ciudadana, el secretario ejecutivo, o personal profesional directivo del propio Consejo, salvo que se hubiere separado de su encargo tres años antes del día de la elección;
 
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-V.- Los ministros de culto religioso, y
+V.- Los ministros de culto religioso;
 
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-VI.- Los Magistrados y Jueces del Supremo Tribunal de Justicia del Estado.
+VI.- Los Magistrados y Jueces del Supremo Tribunal de Justicia del Estado;
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
 
-Estarán impedidos los ciudadanos a que se refieren las fracciones, II, y III, de este artículo, a menos que se separen de sus funciones noventa días antes del día de la elección. Los ministros de culto deberán hacerlo con la anticipación y en la forma establecida en la Ley reglamentaria del artículo 130 de la Constitución Federal.
+VII.- No ser titular de alguno de los organismos que la Constitución Política de los Estados Unidos Mexicanos otorga autonomía, ni titular de alguno de los organismos descentralizados o descentralizados de la administración pública federal;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VIII.- No ser Ministro de la Suprema Corte de Justicia de la Nación, ni Magistrado o juez federal, ni Magistrado o Secretario del Tribunal Electoral del Poder Judicial de la Federación, ni Consejero Presidente o consejero electoral del Consejo General, local o distritales del Instituto Nacional Electoral, ni Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo del propio Instituto, salvo que se hubiere separado de su encargo tres años antes del día de la elección;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+IX.- No ser servidor público de los poderes ejecutivo, legislativo y judicial, en el ámbito federal, con atribuciones de mando, y en ejercicio de autoridad;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+X.- No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate, y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XI.- No ser Senador, Diputado Federal o Diputado Local.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Estarán impedidos los ciudadanos a que se refieren las fracciones, I, II, III, VII, IX, y XI de este artículo, a menos que se separen de sus funciones noventa días antes del día de la elección. Los ministros de culto deberán hacerlo con la anticipación y en la forma establecida en la Ley reglamentaria del artículo 130 de la Constitución Federal.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -3194,3 +3272,19 @@ P.O. 18 DE OCTUBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0641.- SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 46, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0652.- SE REFORMA Y ADICIONA LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
