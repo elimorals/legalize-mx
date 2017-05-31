@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2016-10-21"
+last_updated: "2017-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -293,9 +293,13 @@ Ningún integrante del Ayuntamiento podrá ocupar cargo honorífico o remunerado
 
 El desempeño de cualesquiera de los cargos mencionados en el párrafo anterior, por algún integrante del ayuntamiento, sin la respectiva licencia, será considerado como causal de responsabilidad en los términos y para los efectos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 14.
 
-El Presidente Municipal, regidores y síndicos del Ayuntamiento electos por votación popular, no podrán ser reelectos para el período inmediato, ni las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos.
+El Presidente Municipal, regidores y síndicos del Ayuntamiento electos por votación popular, podrán ser reelectos para el período inmediato. Para poder reelegirse, la postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato por resolución firme.
+
+En el caso de los funcionarios suplentes, podrán ser electos para el período inmediato siguiente sin ser considerado como reelección, siempre que no hayan ejercido funciones o hayan hecho la protesta de ley del cargo como propietarios en el Ayuntamiento respectivo.
 
 ###### ARTICULO 15.
 
@@ -2938,3 +2942,11 @@ PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su public
 SEGUNDO. Dentro de los sesenta días naturales posteriores a la entrada en vigor del presente Decreto, los ayuntamientos del Estado de San Luis Potosí, deberán expedir o modificar los reglamentos o disposiciones administrativas respectivas.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0653.- REFORMAS Y ADICIONES A LA LEY ELECTORAL DEL ESTADO; SE REFORMA EL ARTÍCULO 14, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMA Y ADICIONA LA LEY DE JUSTICIA ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
