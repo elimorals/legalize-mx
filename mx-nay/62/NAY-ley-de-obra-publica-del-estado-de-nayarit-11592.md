@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-obra-publica-del-estado-de-nayarit-11592"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-19"
-last_updated: "2016-11-08"
+last_updated: "2017-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE OBRA PUBLICA DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE OBRA PÚBLICA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2017
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit el Miércoles 19 de Abril de 1995.
 
@@ -95,11 +97,13 @@ La obra pública que realicen las dependencias o entidades a que se refiere el a
 
 En la ejecución de las obras donde participen económicamente el Estado o los Municipios, invariablemente deberán ajustarse a las disposiciones de esta Ley y a los lineamientos que de la misma emanen.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 7o.
 
-Las Secretarías de Finanzas, Contraloría General y la de Obras y Servicios Públicos del Estado en el ámbito de sus respectivas competencias, estarán facultadas para interpretar esta Ley para efectos administrativos.
+Las Secretarías de Administración y Finanzas, Contraloría General y la de Obras Públicas del Estado en el ámbito de sus respectivas competencias, estarán facultadas para interpretar esta Ley para efectos administrativos.
 
-Las Secretarias de Finanzas y Contraloría General del Estado, dictarán las disposiciones administrativas que sean estrictamente necesarias para el adecuado cumplimiento de esta Ley, tomando en cuenta la opinión emitida por la Secretaría de Obras y Servicios Públicos, tales disposiciones deberán publicarse en el Periódico Oficial del Estado.
+Las Secretarías de Administración y Finanzas y Contraloría General del Estado, dictarán las disposiciones administrativas que sean estrictamente necesarias para el adecuado cumplimiento de esta Ley, tomando en cuenta la opinión emitida por la Secretaría de Obras Públicas, tales disposiciones deberán publicarse en el Periódico Oficial del Estado.
 
 ###### ARTICULO 8o.
 
@@ -113,17 +117,21 @@ Para la ejecución de las obras a que se refiere este artículo, se establecerá
 
 Los titulares de las dependencias o entidades a que se refiere el artículo 1o., serán los responsables de que, en la adopción e instrumentación de las acciones que deban llevar a cabo en cumplimiento de esta Ley, se observen criterios que promuevan la simplificación administrativa, la descentralización de funciones y la efectiva delegación de facultades. Procurando la correcta aplicación de los recursos con eficiencia y eficacia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 10.
 
-Las Secretarías de Finanzas, Contraloría General y Obras y Servicios Públicos del Estado, en el ámbito de sus respectivas competencias, podrán contratar asesoría técnica para la realización de investigaciones de mercado, el mejoramiento del sistema de obra pública, verificación de costos, pruebas de calidad y otras actividades vinculadas con el objeto de esta Ley.
+Las Secretarías de Administración y Finanzas, Contraloría General y de Obras Públicas del Estado, en el ámbito de sus respectivas competencias, podrán contratar asesoría técnica para la realización de investigaciones de mercado, el mejoramiento del sistema de obra pública, verificación de costos, pruebas de calidad y otras actividades vinculadas con el objeto de esta Ley.
 
 Para los efectos de este artículo, las citadas dependencias pondrán a disposición entre sí los resultados de los trabajos objeto de los respectivos contratos de asesoría técnica.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 11.
 
-Las dependencias y entidades deberán formular un inventario de la maquinaria y equipo de construcción de su propiedad o a su cuidado, el cual mantendrán actualizado, remitiendo esta información a las Secretarias de Obras y Servicios Públicos y Contraloría General del Estado en la forma y términos que éstas establezcan; será responsabilidad de las dependencias y entidades mantener debidamente asegurados la maquinaria y equipo a que se refiere el presente artículo; lo anterior será sin perjuicio de las facultades que en materia de inventarios corresponda a otras dependencias del Ejecutivo Estatal.
+Las dependencias y entidades deberán formular un inventario de la maquinaria y equipo de construcción de su propiedad o a su cuidado, el cual mantendrán actualizado, remitiendo esta información a las Secretarías de Obras Públicas y Contraloría General del Estado en la forma y términos que éstas establezcan; será responsabilidad de las dependencias y entidades mantener debidamente asegurados la maquinaria y equipo a que se refiere el presente artículo; lo anterior será sin perjuicio de las facultades que en materia de inventarios corresponda a otras dependencias del Ejecutivo Estatal.
 
-Los Ayuntamientos cumplirán esta disposición enviando la documentación respectiva a la Contaduría Mayor de Hacienda del Congreso del Estado, en los términos que ésta le señale.
+Los Ayuntamientos cumplirán esta disposición enviando la documentación respectiva a la Auditoría Superior del Estado, en los términos que ésta le señale.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2005)</small>
 
@@ -167,7 +175,9 @@ VI.- La calendarización física y financiera de los recursos necesarios para su
 
 VII.- Las unidades responsables de su ejecución, así como las fechas previstas de iniciación y terminación;
 
-VIII.- Las investigaciones, asesorías, consultorías y estudios que se requieran, incluyendo los proyectos arquitectónicos y de ingeniería necesarios.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VIII.- Las investigaciones, asesorías, consultorías y estudios que se requieran, incluyendo los proyectos arquitectónicos y de ingeniería necesarios;
 
 IX.- La ejecución, que deberá incluir el costo estimado de la obra que se realice por contrato y, en caso de realizarse por administración directa, los costos de los recursos necesarios, las condiciones de suministro de materiales, de maquinaria, de equipos o de cualquier otro accesorio relacionado con la obra, los cargos para pruebas y funcionamiento, así como los indirectos de la obra;
 
@@ -175,7 +185,9 @@ X.- Los trabajos de conservación, mantenimiento preventivo y correctivo de los 
 
 XI.- Las demás previsiones que deban tomarse en cuenta según la naturaleza y características de la obra.
 
-Las dependencias y entidades deberán remitir sus respectivos programas de obra pública a las Secretarías de Planeación y Desarrollo y la de Secretaría de Obras y Servicios Públicos en las fechas previstas por éstas, a efecto de incorporarlas a la planeación de desarrollo del Estado.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Las dependencias y entidades deberán remitir sus respectivos programas de obra pública a las Secretarías de Planeación, Programación y Presupuesto y a la de Obras Públicas en las fechas previstas por éstas, a efecto de incorporarlas a la planeación de desarrollo del Estado.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
@@ -213,17 +225,67 @@ Las dependencias y entidades, bajo su responsabilidad, podrán contratar obra p�
 
 I.- Por licitación pública;
 
-II.- Por invitación restringida, la que comprenderá:
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-A) Invitación a cuando menos tres contratistas, y
+II.- Por invitación restringida a cuando menos tres contratistas, y
 
-B) Adjudicación directa
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADO, P.O., 17 DE MAYO DE 1997)</small>
+III.- Adjudicación directa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTICULO 21.
 
-Es responsabilidad de las dependencias y entidades llevar un registro de contratistas para efectos de la aplicación de la fracción II del artículo anterior.
+Es responsabilidad de las dependencias y entidades llevar un registro de contratistas. El registro contendrá cuando menos:
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+I. Nombre o razón social, nacionalidad y domicilio del contratista;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+II. Información relativa al número de escritura constitutiva, sus reformas y datos de su inscripción en el Registro Público correspondiente;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+III. Relación de socios;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+IV. Nombre de los representantes legales del contratista, así como la información relativa a los documentos públicos que los acrediten como tales y sus datos de inscripción en el Registro Público de la Propiedad;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+V. Especialidad del contratista y la información relativa a los contratos de obra pública que la acreditan;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VI. Experiencia del contratista y la información de los contratos de obra pública que la acreditan;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VII. Información referente a la capacidad técnica, económica y financiera del contratista, y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VIII. Historial del contratista en materia de contrataciones y su cumplimiento, el cual contendrá la información de los contratos de obra pública, formalizados con las dependencias y entidades, así como la relativa a rescisiones, aplicación de penas convencionales o descuentos, ejecución de garantías y sanciones impuestas por la Contraloría. Asimismo, se incluirá el grado de cumplimiento de cada contratista conforme a su historial.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Toda dependencia, ente o entidad deberá contar con una lista de contratistas en su página de internet, misma que contendrá como mínimo el nombre de la persona física o la denominación de la persona moral, monto de lo contratado, nombre de los socios de la empresa, nombre del representante legal, descripción del servicio o producto contratado, fecha de inicio y terminación del contrato, así como los efectos y compromisos adquiridos.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+A todo solicitante de inscripción en el registro de contratistas, se le deberá entregar un compilado autorizado por el órgano interno de control, de las obligaciones y sanciones a las que están sujetos.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Al momento de solicitar la inscripción al registro como contratista, el servidor público que reciba los documentos deberá tomar protesta al solicitante, por medio de la cual manifestará conducirse con verdad y rectitud en los procedimientos de contratación de los que sea parte, sabedor de las penas en que incurren los particulares que realicen actos de corrupción. Para lo cual, el particular deberá expresar en voz alta lo siguiente:
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+“Protesto conducirme con verdad y rectitud, evitar cualquier acto u omisión de corrupción y denunciar aquellos sobre los que tenga conocimiento, asimismo manifiesto conocer las penas en que incurren los particulares que participan en actos de corrupción”.
 
 ###### ARTICULO 22.
 
@@ -233,19 +295,61 @@ En casos excepcionales y previa autorización del Titular del Ejecutivo, las dep
 
 Además, se deberá contar con los estudios y proyectos, las normas y especificaciones de construcción, el programa de ejecución y, en su caso el programa de suministro.
 
-Los servidores públicos que autoricen actos en contravención a lo dispuesto en este artículo, se harán acreedores a las sanciones que resulten aplicables.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Los servidores públicos que autoricen, celebren, contraten, paguen o acepten servicios de cualquier tipo de obra, sin llevar a cabo el procedimiento correspondiente y cuando no se cuente con la capacidad presupuestal necesaria, se harán acreedores a las sanciones que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+El servidor púbico será sancionado de conformidad con la ley en materia de responsabilidades administrativas.
 
 ###### ARTICULO 23.
 
 Por regla general, la obra pública se adjudicará a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado, que serán abiertos públicamente a fin de asegurar al Estado las mejores condiciones disponibles, en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, conforme a lo que establece el presente ordenamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O., 17 DE MAYO DE 1997)</small>
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Las sesiones de los comités, deberán video grabarse y estar disponibles al público dentro de las veinticuatro horas siguientes a su celebración. Salvo aquellas que contengan información clasificada. Las grabaciones de las sesiones deberán contener elementos suficientes para verificar la fecha de celebración de los actos jurídicos.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Cuando la autoridad no tenga antecedentes de contratación con la empresa, deberá realizar una verificación física de las instalaciones, levantando acta circunstanciada de la inspección, así como video grabación de la misma.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Toda visita, atención, reunión o contacto con los contratistas deberá estar debidamente registrada, en la que conste el nombre, el asunto y el resultado de la reunión. El incumplimiento a esta obligación, será motivo de sanción en términos de la ley en materia de responsabilidades administrativas.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Ningún servidor público podrá tratar cuestiones relativas a la contratación fuera de los plazos del procedimiento.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Se considerará falta administrativa cuando los participantes de procedimientos de licitaciones realicen reuniones, o se reúnan, previo o durante el procedimiento, para influir, intentar influir o determinar en el resultado o en los montos de las ofertas, y serán sancionados de conformidad con la ley en materia de responsabilidades administrativas.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Los participantes deberán notificar cualquier reunión o relación de cualquier tipo entre ofertantes o autoridades, la falta de notificación se considerará falta administrativa.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+ARTICULO 23 bis.- Los participantes en los procedimientos de contratación, deberán atender los lineamientos siguientes:
+
+I. Las empresas deberán acompañar los registros de al menos dos años anteriores, ante el Servicio de Administración Tributaria, el Instituto Mexicano del Seguro Social, pago del servicio de agua potable y alcantarillado, y del servicio de suministro de energía eléctrica, así como cualquier otro comprobante relacionado, a nombre de la empresa o del representante legal;
+
+II. Deberán notificar respecto a cualquier relación jurídica o por afinidad con servidores públicos de primer y segundo nivel, o con aquellos que tenga una relación o injerencia en los procesos de adquisición o licitación, y
+
+III. Deberán acreditar sus activos, su capacidad material y los recursos humanos con los que cuenta, los cuales deberán ser suficientes para dar cumplimiento al contrato sujeto a licitación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTICULO 24.
 
-Las convocatorias que podrán referirse a una o más obras, se publicarán en el Periódico Oficial del Gobierno del Estado de Nayarit y en un diario de mayor circulación en la Entidad y contendrán:
+Las convocatorias podrán referirse a una o más obras, se publicarán en el Periódico Oficial del Gobierno del Estado de Nayarit y en un diario de mayor circulación en la Entidad y contendrán:
 
-I.- El nombre, denominación o razón social de la dependencia o entidad convocante;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+I.- El nombre, denominación o razón social de la dependencia o entidad convocante, así como la fundamentación y motivación de la convocatoria;
 
 II.- El lugar, fecha y horario en que los interesados podrán obtener las bases y especificaciones de la licitación, el costo y forma de pago de las mismas, el costo de las bases será fijado en razón de la recuperación de los gastos afectados por publicación de la convocatoria y de los documentos que se entreguen; los interesados podrán revisar tales documentos previo al pago del mismo, lo cual será requisito indispensable para participar en la licitación;
 
@@ -255,13 +359,21 @@ IV.- La descripción general de la obra y el lugar donde se llevarán a cabo los
 
 V.- Fecha estimada de inicio y terminación de los trabajos;
 
-VI.- La experiencia o capacidad técnica y financiera que se requiera para participar en la licitación, de conformidad con las características de la obra, y demás requisitos generales que deberán cumplir los interesados;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-VII.- La información sobre los porcentajes a otorgar por concepto de anticipos, y
+VI.- Los medios para acreditar la existencia física y legal, la experiencia o capacidad técnica y financiera que se requiera para participar en la licitación, de conformidad con las características de la obra, y demás requisitos generales que deberán cumplir los interesados;
 
-> <small>(REFORMADA, P.O., 17 DE MAYO DE 1997)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-VIII.- Los criterios conforme a los cuales se adjudicará el contrato. Las dependencias y entidades enviarán a la Secretaría de Obras y Servicios Públicos y a la Secretaría de la Contraloría General, la convocatoria en el momento en que aquella sea expedida y remitirán además los documentos de apoyo que se requieran.
+VII.- La información sobre los porcentajes a otorgar por concepto de anticipos;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VIII.- Los criterios conforme a los cuales se adjudicará el contrato. Las dependencias y entidades enviarán a la Secretaría de Obras Públicas y a la Secretaría de la Contraloría General, la convocatoria en el momento en que aquella sea expedida y remitirán además los documentos de apoyo que se requieran, y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+IX.- La indicación de que no se permitirá la inscripción a la licitación de aquellas empresas que tengan, al momento de la inscripción, un atraso mayor al veinticinco por ciento (25%) en tiempo, por causas imputables a ellas mismas, en cualquier contrato celebrado con la convocante. El área de supervisión correspondiente, deberá informar al área convocante de la situación que guarde cada obra o servicio relacionado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O., 17 DE MAYO DE 1997)</small>
 
@@ -281,7 +393,9 @@ V.- Señalamiento de que será causa de descalificación, el incumplimiento de a
 
 VI.- La indicación de que ninguna de las condiciones contenidas en las bases de la licitación o en las proposiciones presentadas podrán ser negociadas;
 
-VII.- Criterios claros y detallados para la adjudicación de los contratos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VII.- Criterios claros y detallados para la adjudicación de los contratos, señalando el objeto y alcance del servicio solicitado;
 
 VIII.- Proyectos arquitectónicos y de ingeniería que se requieran para preparar la proposición; normas de calidad de los materiales y especificaciones de construcción aplicables; catálogo de conceptos, cantidades y unidades de trabajo; y relación de conceptos de trabajo, de los cuales deberán presentar análisis y relación de costos básicos de materiales, mano de obra y maquinaria de construcción que intervienen en los análisis anteriores;
 
@@ -289,7 +403,9 @@ IX.- Relación de materiales y equipo de instalación permanente que en su caso,
 
 X.- Origen de los fondos para realizar los trabajos;
 
-XI.- Experiencia, capacidad técnica y financiera y demás requisitos que deberán cumplir los interesados;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XI.- Acreditar la existencia física y legal, experiencia, capacidad técnica y financiera y demás requisitos que deberán cumplir los interesados;
 
 XII.- Forma y término de pago de los trabajos, objeto del contrato;
 
@@ -301,21 +417,35 @@ XIV.- Lugar, fecha y hora para la visita al sitio de realización de los trabajo
 
 XV.- Información especifica sobre las partes de la obra que podrán subcontratarse, siempre y cuando así se autorice en la convocatoria;
 
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
 XVI.- Cuando proceda, registro actualizado en la Cámara que le corresponda;
 
-XVII.- Modelo de contrato; y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XVII.- Modelo de contrato, y
 
 XVIII.- Condiciones de precio.
 
 Todos los requisitos y condiciones que contengan las bases de la licitación, deberán ser los mismos para todos los participantes.
 
-En el ejercicio de sus atribuciones, la Secretaria de la Contraloría General del Estado podrá intervenir en cualquier acto que contravenga las disposiciones que rigen las materias objeto de esta Ley, si la Contraloría General del Estado determina la cancelación del proceso de adjudicación, la dependencia o entidad convocante reembolsará a los participantes los gastos no recuperables en que hayan incurrido, siempre que estos sean razonables, estén debidamente comprobados y se relacionen directamente con la operación correspondiente.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+En el ejercicio de sus atribuciones, la Secretaría de la Contraloría General del Estado podrá intervenir en cualquier acto que contravenga las disposiciones que rigen las materias objeto de esta Ley, si la Contraloría General del Estado determina la cancelación del proceso de adjudicación, la dependencia o entidad convocante reembolsará a los participantes los gastos no recuperables en que hayan incurrido, siempre que estos sean razonables, estén debidamente comprobados y se relacionen directamente con la operación correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Todas las convocatorias que contengan las bases de licitaciones deberán contener un apartado de las obligaciones y las sanciones de los contratistas y de los servidores públicos.
 
 ###### ARTICULO 26.
 
 Todo interesado que satisfaga los requisitos de la convocatoria y las bases de la licitación, tendrá derecho a presentar su proposición.
 
 El plazo para la presentación y apertura de proposiciones no podrá ser inferior a los treinta días naturales contados a partir de la fecha de publicación de la convocatoria, salvo que, por razones de urgencia justificada y siempre que ella no tenga por objeto limitar el número de participantes, se podrá reducir dicho plazo a 10 días naturales contados a partir de la fecha de publicación de la convocatoria.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+La presentación de ofertas deberá hacerse de manera personal, por medio del apoderado o representante legal, procediendo la autoridad a tomar la protesta legal al ofertante en los términos del artículo 21 de esta ley.
 
 > <small>(REFORMADO, P.O., 17 DE MAYO DE 1997)</small>
 
@@ -339,7 +469,9 @@ II.- Los anticipos que, en su caso, reciban esta garantía deberá constituirse 
 
 III.- El cumplimiento de los contratos.
 
-Para los efectos de las fracciones I y III, los titulares de las dependencias y entidades, fijarán las bases, forma y porcentaje a los que deberán sujetarse las garantías que deban constituirse a favor de la Secretaría de Finanzas o la Tesorería de los Ayuntamientos según corresponda, incluyendo a las que se refiere la fracción II.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Para los efectos de las fracciones I y III, los titulares de las dependencias y entidades, fijarán las bases, forma y porcentaje a los que deberán sujetarse las garantías que deban constituirse a favor de la Secretaría de Administración y Finanzas o la Tesorería de los Ayuntamientos según corresponda, incluyendo a las que se refiere la fracción II.
 
 Las garantías previstas en las fracciones II y III de este artículo, deberán presentarse dentro de los diez días naturales siguientes a la fecha en que el contratista reciba copia del fallo de adjudicación; y el o los anticipos correspondientes se entregarán, a mas tardar dentro de los diez días siguientes a la presentación de la garantía.
 
@@ -355,6 +487,10 @@ Las dependencias y entidades se abstendrán de recibir propuesta o celebrar cont
 
 I.- Aquellas en que el servidor público que intervenga en cualquier forma en la adjudicación del contrato tenga interés personal, familiar o de negocios, incluyendo aquellas de las que puedan resultar un beneficio para el, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Los servidores públicos deberán notificar cuando exista alguna relación de afinidad o relación jurídica de cualquier índole, cuando en un procedimiento participe dicho contratista. La falta de notificación será sancionada de uno a tres meses de suspensión sin goce de sueldo. Cuando el contratista sea designado como ganador del procedimiento, la sanción consistirá en destitución e inhabilitación, en términos de la legislación en materia de responsabilidades administrativas.
+
 > <small>(REFORMADA, P.O., 17 DE MAYO DE 1997)</small>
 
 II.- Las que desempeñen un empleo, cargo, o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
@@ -369,15 +505,17 @@ VI.- Aquellas que hubieren proporcionando información que resulte falsa o que h
 
 VII.- Aquellas que, en virtud de la información con que cuenta la Secretaría de la Contraloría General del Estado, hayan celebrado contratos en contravención a lo dispuesto por esta Ley;
 
-VIII.- Aquellas a las que se le declare en estado de quiebra o, en su caso, sujetas a concursos de acreedores; y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VIII.- Aquellas a las que se le declare en estado de quiebra o, en su caso, sujetas a concursos de acreedores;
 
 > <small>(REFORMADA, P.O., 17 DE MAYO DE 1997)</small>
 
 IX.- Las que realicen o vayan a realizar por sí o a través de empresas que formen parte del mismo grupo empresarial, trabajos de coordinación, supervisión y control de obra e instalaciones, laboratorio de mecánica de suelos y de resistencia de materiales y radiografías industriales, preparación de especificaciones de construcción, presupuesto o la elaboración de cualquier otro documento para la licitación de la adjudicación del contrato de la misma obra;
 
-> <small>(REFORMADA, P.O., 17 DE MAYO DE 1997)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-X.- Las que por sí o a través de empresas que formen parte del mismo grupo empresarial, elaboren dictámenes, peritajes y avalúos, cuando se requiera dirimir controversias entre tales personas y la dependencia o entidad; y
+X.- Las que por sí o a través de empresas que formen parte del mismo grupo empresarial, elaboren dictámenes, peritajes y avalúos, cuando se requiera dirimir controversias entre tales personas y la dependencia o entidad, y
 
 > <small>(REFORMADA, P.O., 17 DE MAYO DE 1997)</small>
 
@@ -427,15 +565,39 @@ Los organismos privados con representación legal y personalidad jurídica, podr
 
 Las dependencias y entidades, para hacer la evaluación de las proposiciones, deberán verificar que las mismas incluyan la información, documentación y requisitos solicitados en las bases de la licitación; que el programa de ejecución sea factible de realizar dentro del plazo solicitado con los recursos considerados por el solicitante y, que las características, especificaciones y calidad de los materiales sean de las requeridas por la convocante; además verificar el debido análisis, cálculo e integración de los precios unitarios, conforme a las disposiciones que se expidan.
 
-Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará a la persona que, de entre los licitantes, reúna las condiciones legales, técnicas y económicas requeridas por la convocante y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas; si resultare que dos o más proposiciones son solventes, el contrato se adjudicará a quien presente la proposición cuyo precio sea el más bajo.
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Asimismo, se deberá verificar el cumplimiento de las condiciones legales exigidas al licitante; que los recursos propuestos por el licitante sean los necesarios para ejecutar satisfactoriamente el proyecto; y que el análisis, cálculo e integración de los precios sean acordes con las condiciones de costos vigentes en la zona o región donde se ejecuten los trabajos.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará a la persona que, de entre los licitantes, reúna las condiciones legales, técnicas y económicas requeridas por la convocante y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas; si resultare que dos o más proposiciones son solventes, el contrato se adjudicará a quien presente la proposición que resulte económicamente más conveniente para el Estado, asegurándose de que cumpla con las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
 La dependencia o entidad convocante emitirá un dictamen que servirá como fundamento para el fallo, en el que se hará constar el análisis de las proposiciones admitidas y se hará mención de las proposiciones desechadas.
 
 Contra la resolución que contenga el fallo, no procederá recurso alguno, pero los licitantes podrán inconformarse en los términos del artículo 69.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+ARTICULO 35 bis.- Previo a la contratación de obra pública o posterior a ello, el órgano interno de control del ente público que se trate, verificará que los precios unitarios no sean desproporcionales a los precios del valor de mercado, atendiendo a la realidad económica del Estado.
+
+Cuando el órgano interno de control determine la desproporción injustificada de los precios unitarios previo a la contratación, la licitación será cancelada; en el caso que la determinación sea posterior la contratación será declarada nula, en ambos supuestos se deberá informar al órgano competente para que proceda a lo conducente, lo anterior sin perjuicio de las sanciones aplicables de conformidad con la ley en materia de responsabilidades administrativas.
+
 ###### ARTICULO 36.
 
 Las dependencias y entidades no adjudicarán el contrato cuando a su juicio las posturas presentadas no reúnan los requisitos de las bases de la licitación o sus precios no fueren aceptables, y volverán a publicar una nueva convocatoria.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Las dependencias y entidades podrán cancelar una licitación por caso fortuito o fuerza mayor.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+De igual manera, podrán cancelar cuando existan circunstancias, debidamente justificadas, que provoquen la extinción de la necesidad de contratar los trabajos o cuando de continuarse con el procedimiento de contratación se pudiera ocasionar un daño o perjuicio a la propia dependencia o entidad.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+La determinación de dar por cancelada la licitación, deberá estar debidamente fundada y precisará el acontecimiento que motiva la decisión, la cual se hará del conocimiento de los licitantes.
 
 ###### ARTICULO 37.
 
@@ -477,7 +639,9 @@ El contratista a quien se le adjudique el contrato, no podrá hacer ejecutar la 
 
 Los derechos y obligaciones que se deriven de los contratos de obra pública, no podrán cederse en forma parcial o total en favor de cualquiera otra persona física o moral, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, en cuyo supuesto se deberá contar con la conformidad previa de la dependencia o entidad de que se trate.
 
-La adjudicación y firma del contrato se comunicará a la Secretaria de obras y Servicios Públicos en la forma y términos que esta establezca.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+La adjudicación y firma del contrato se comunicará a la Secretaría de Obras Públicas en la forma y términos que esta establezca.
 
 ###### ARTICULO 39.
 
@@ -491,29 +655,49 @@ II.- No se otorgarán anticipos para los convenios que se celebren en términos 
 
 III.- Para la amortización de los anticipos en los casos de rescisión del contrato, el saldo por amortizar se reintegrará a la dependencia o entidad en un plazo no mayor de veinte días naturales, contados a partir de la fecha en que le sea comunicada la rescisión al contratista.
 
-El contratista que no reintegre el saldo por amortizar en el plazo señalado, cubrirá los cargos que resulten conforme a la disposición que emita la Secretaria de Finanzas.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2005)</small>
+El contratista que no reintegre el saldo por amortizar en el plazo señalado, cubrirá los cargos que resulten conforme a la disposición que emita la Secretaría de Administración y Finanzas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTICULO 40.
 
-Las estimaciones de trabajos ejecutados se presentarán por el contratista al ente público por periodos no mayores a un mes, acompañadas de la documentación que acredite la procedencia de su pago, la cual deberá tramitarse oportunamente ante la Secretaría de Finanzas o Tesorería, según corresponda, conforme a las políticas establecidas.
+Las estimaciones de trabajos ejecutados se presentarán por el contratista al ente público por periodos no mayores a un mes, acompañadas de la documentación que acredite la procedencia de su pago, la cual deberá tramitarse oportunamente ante la Secretaría de Administración y Finanzas o Tesorería, según corresponda, conforme a las políticas establecidas.
 
-La Secretaría de Finanzas o Tesorería, según sea el caso, sólo procederá al pago de las estimaciones previa autorización del titular de la dependencia ejecutora de la obra pública quien será el responsable de que junto a cada estimación, se acompañen autorizados por él al menos los siguientes documentos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
+La Secretaría de Administración y Finanzas o Tesorería, según sea el caso, sólo procederá al pago de las estimaciones previa autorización del titular de la dependencia ejecutora de la obra pública quien será el responsable de que junto a cada estimación, se acompañen autorizados por él al menos los siguientes documentos:
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2005)</small>
 
 I. Números generadores;
 
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2005)</small>
+
 II. Notas de bitácora;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2005)</small>
 
 III. Croquis;
 
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2005)</small>
+
 IV. Controles de calidad, pruebas de laboratorio y fotografías;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2005)</small>
 
 V. Análisis, cálculo e integración de los importes correspondientes a cada estimación, y
 
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2005)</small>
+
 VI. Avances de obra, tratándose de contratos a precio alzado.
 
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2005)</small>
+
 VII. La demás información y documentos que sean necesarios a fin de garantizar el cumplimiento del contrato en los términos pactados y la veracidad de los conceptos por pagar.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2005)</small>
 
 Las diferencias técnicas o numéricas pendientes de pago se resolverán y, en su caso, incorporarán en la siguiente estimación.
 
@@ -555,13 +739,17 @@ Las dependencias y entidades podrán, dentro del programa de inversiones aprobad
 
 Si las modificaciones exceden del porcentaje indicado o varían substancialmente el proyecto, se deberá celebrar, por una sola vez, un convenio adicional entre las partes respecto de las nuevas condiciones, en los términos del artículo 22 este convenio deberá ser autorizado por el titular de la dependencia o entidad de que se trate. Dichas modificaciones no podrán, en modo alguno, afectar las condiciones que se refieran a la naturaleza y características esenciales de la obra objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de la Ley.
 
-De las autorizaciones a que se refiere este artículo, las dependencias y entidades informarán a las Secretaría de Obras y Servicios Públicos y Contraloría General del Estado, a más tardar el último día hábil de cada mes.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+De las autorizaciones a que se refiere este artículo, las dependencias y entidades informarán a las Secretarías de Obras Públicas y Contraloría General del Estado, a más tardar el último día hábil de cada mes.
 
 ###### ARTICULO 46.
 
 Las dependencias y entidades podrán suspender temporalmente en todo o en parte la obra contratada, por cualquier causa justificada.
 
-De lo anterior, se notificará a las Secretarías de Obras y Servicios Públicos y Contraloría General del Estado a más tardar el último día hábil de cada mes.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+De lo anterior, se notificará a las Secretarías de Obras Públicas y Contraloría General del Estado a más tardar el último día hábil de cada mes.
 
 ###### ARTICULO 47.
 
@@ -575,7 +763,9 @@ II.- En caso de rescisión del contrato por causas imputables al contratista, el
 
 III.- Cuando concurran razones de interés general que den origen a la terminación anticipada del contrato, la contratante pagará al contratista los trabajos ejecutados, así como los gastos no recuperables, en las condiciones a que se refiere la fracción I, de este artículo.
 
-De ocurrir los supuestos establecidos en este artículo, la contratante comunicará al contratista la suspensión, rescisión o terminación anticipada del contrato; y a más tardar el último día hábil de cada mes, lo notificará a las Secretarias de Obras y Servicios Públicos y Contraloría General del Estado.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+De ocurrir los supuestos establecidos en este artículo, la contratante comunicará al contratista la suspensión, rescisión o terminación anticipada del contrato; y a más tardar el último día hábil de cada mes, lo notificará a las Secretarías de Obras Públicas y Contraloría General del Estado.
 
 ###### ARTICULO 48.
 
@@ -583,7 +773,9 @@ El contratista comunicará a la contratante la terminación de los trabajos que 
 
 Una vez que se haya constatado la terminación de los trabajos en los términos del párrafo anterior, la contratante procederá a su recepción dentro del plazo que para tal efecto se haya establecido en el contrato.
 
-La contratante comunicará a las Secretarias de Obras y Servicios Públicos y la Contraloría General del Estado, la terminación de los trabajos e informará la fecha señalada para su recepción a fin de que, si lo estiman conveniente, nombren representantes que asistan al acto.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+La contratante comunicará a las Secretarías de Obras Públicas y la Contraloría General del Estado, la terminación de los trabajos e informará la fecha señalada para su recepción a fin de que, si lo estiman conveniente, nombren representantes que asistan al acto.
 
 En la fecha señalada, la contratante bajo su responsabilidad recibirá los trabajos y levantará el acta correspondiente.
 
@@ -635,33 +827,39 @@ En la ejecución de obras por administración directa serán aplicables, en lo c
 
 No quedan comprendidos dentro de los servicios relacionados con la obra pública, los que tengan como fin la contratación y ejecución de la obra de que se trate por cuenta y orden de las dependencias y entidades, por lo que no podrán celebrarse contratos de servicios para tal objeto.
 
-> <small>(REFORMADO [N. DE E. ANTES ART. 53], P.O. 17 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTICULO 54.
 
-La dependencia o entidad, deberá enviar a la Secretaría de Finanzas copia de los títulos de propiedad si los hubiere y los datos sobre localización y construcción de las obras públicas, a efecto de que se incluyan en los catálogos de inventarios de los bienes y recursos del Estado y, en su caso, para su inscripción en el Registro Público de la Propiedad Estatal.
+La dependencia o entidad, deberá enviar a la Secretaría de Administración y Finanzas copia de los títulos de propiedad si los hubiere y los datos sobre localización y construcción de las obras públicas, a efecto de que se incluyan en los catálogos de inventarios de los bienes y recursos del Estado y, en su caso, para su inscripción en el Registro Público de la Propiedad Estatal.
 
-> <small>(REFORMADO [N. DE E. ANTES ART. 55], P.O. 17 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTICULO 55.
 
-En las dependencias o entidades la ejecución de obras vía convenios con participación de los beneficiarios, la Secretaría de Obras y Servicios Públicos instrumentará los procedimientos complementarios necesarios, con el fin de garantizar las mejores condiciones en la realización de las mismas.
+En las dependencias o entidades la ejecución de obras vía convenios con participación de los beneficiarios, la Secretaría de Obras Públicas instrumentará los procedimientos complementarios necesarios, con el fin de garantizar las mejores condiciones en la realización de las mismas.
 
 ### CAPITULO V
 
 DE LAS EXCEPCIONES A LA LICITACIÓN PUBLICA.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 56.
 
-En los supuestos y con sujeción a las formalidades que prevé el artículo 57, las dependencias y entidades, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de obra pública, a través de un procedimiento de invitación restringida.
+En los supuestos y con sujeción a las formalidades que prevé el artículo 57, las dependencias y entidades, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de obra pública, a través de un procedimiento de invitación restringida o adjudicación directa.
 
 La opción que las dependencias y entidades ejerzan, deberán fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado. En el dictamen a que se refiere el artículo 35, deberá acreditar que la obra de que se trata se encuentra en alguno de los supuestos previstos en el artículo 57 expresando, de entre los criterios mencionados, aquellos en que se funda el ejercicio de la opción.
 
-En estos casos, la dependencia o entidad, a mas tardar el último día hábil de cada mes, enviará a las Secretarias de Obras y Servicios Públicos y Contraloría General del Estado, un informe que se referirá a las operaciones autorizadas en el mes, acompañando copia del dictamen aludido en el párrafo anterior.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+En estos casos, la dependencia o entidad, a más tardar el último día hábil de cada mes, enviará a las Secretarías de Obras Públicas y Contraloría General del Estado, un informe que se referirá a las operaciones autorizadas en el mes, acompañando copia del dictamen aludido en el párrafo anterior.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTICULO 57.
 
-Las dependencias y entidades, bajo su responsabilidad, podrán contratar obra pública, a través de su procedimiento de invitación restringida, cuando:
+Las dependencias y entidades, bajo su responsabilidad, podrán contratar obra pública, mediante invitación restringida a por lo menos tres contratistas o adjudicación directa, cuando:
 
 I.- Se trate de obras de arte y derechos exclusivos;
 
@@ -669,15 +867,23 @@ II.- Peligre o altere el orden social, la economía, los servicios públicos, la
 
 III.- Se hubiere rescindido el contrato respectivo por causas imputables al contratista;
 
-IV. Se realicen por licitaciones públicas de un mismo concurso, sin que en ambas se hubiesen recibido proposiciones solventes;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+IV.- Se hubieren realizado por los (sic) menos dos licitaciones públicas de un mismo concurso, sin que en ambas se hubiesen recibido proposiciones solventes;
 
 V.- Se trate de trabajos de conservación, mantenimiento, restauración, reparación y demolición de los inmuebles, en los que no sea posible precisar su alcance, establecer el catálogo de conceptos, cantidades de trabajo, determinar las especificaciones correspondientes o elaborar el programa de ejecución;
 
-VI.- Se trate de trabajos que requieran fundamentalmente la mano de obra campesina o urbana marginada y, que la dependencia o entidad contrate directamente con los habitantes beneficiarios de la localidad o del lugar donde deba ejecutarse la obra, o con las personas morales o agrupaciones legalmente establecidas y constituidas por los propios habitantes beneficiarios, y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-VII.- Se trate de obra, que de realizarse bajo un procedimiento de licitación pública, pudiera afectar la seguridad del Estado.
+VI.- Se trate de trabajos que requieran fundamentalmente la mano de obra campesina o urbana marginada y, que la dependencia o entidad contrate directamente con los habitantes beneficiarios de la localidad o del lugar donde deba ejecutarse la obra, o con las personas morales o agrupaciones legalmente establecidas y constituidas por los propios habitantes beneficiarios;
 
-Las dependencias y entidades, preferentemente invitarán a cuando menos tres contratistas, salvo que ello a su juicio, no resulte conveniente, en cuyo caso utilizarán el procedimiento de adjudicación directa. En cualquier supuesto se convocará a la o las personas que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VII.- Se trate de obra, que de realizarse bajo un procedimiento de licitación pública, pudiera afectar la seguridad del Estado, y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VIII.- Se trate de servicios de consultorías, asesorías, estudios, investigaciones o capacitación, relacionados con obras públicas, debiendo aplicar el procedimiento de invitación a cuando menos tres personas, entre las que se incluirán a las instituciones de educación superior y centros de investigación.
 
 > <small>(REFORMADO, P.O., 17 DE MAYO DE 1997)</small>
 
@@ -721,11 +927,13 @@ VI.- Las demás disposiciones de la licitación pública que en lo conducente re
 
 DE LA INFORMACION Y VERIFICACION.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTICULO 60.
 
-Las Secretarias de Finanzas, Obras y Servicios Públicos y Contraloría General del Estado, establecerán la forma y términos en que las dependencias deberán remitir la información relativa a los actos y contratos materia de esta Ley. Para tal efecto, las dependencias y entidades conservarán en forma ordenada y sistemática toda la documentación comprobatoria de dichos actos y contratos, cuando menos por un lapso de cinco años, contados a partir de la fecha de su recepción.
+Las Secretarías de Administración y Finanzas, Obras Públicas y Contraloría General del Estado, establecerán la forma y términos en que las dependencias deberán remitir la información relativa a los actos y contratos materia de esta Ley. Para tal efecto, las dependencias y entidades conservarán en forma ordenada y sistemática toda la documentación comprobatoria de dichos actos y contratos, cuando menos por un lapso de cinco años, contados a partir de la fecha de su recepción.
 
-Las dependencias y entidades proporcionarán todas las facilidades necesarias a fin de que la Secretaria de la Contraloría General del Estado, pueda realizar el control de la obra Pública.
+Las dependencias y entidades proporcionarán todas las facilidades necesarias a fin de que la Secretaría de la Contraloría General del Estado, pueda realizar el control de la obra Pública.
 
 ###### ARTICULO 61.
 
@@ -771,7 +979,9 @@ II.- Transcurrido el término a que se refiere la fracción anterior, se resolve
 
 III.- La resolución será debidamente fundada y motivada, y se comunicará por escrito al afectado; y
 
-IV.- Tratándose de multas se remitirá el acuerdo a la Secretaría de Finanzas para su ejecución.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+IV.- Tratándose de multas se remitirá el acuerdo a la Secretaría de Administración y Finanzas para su ejecución.
 
 En lo conducente, este artículo será aplicable en las rescisiones administrativas que lleven a cabo las dependencias y entidades por causas imputables a los contratistas.
 
@@ -916,3 +1126,9 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE NAYARIT”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 31 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE NAYARIT, EN MATERIA DE CONTRATACIONES PÚBLICAS”.]
+
+Único. El presente Decreto entrará en vigor el 18 de julio del 2017, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
