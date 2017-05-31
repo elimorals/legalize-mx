@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-101749"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2014-06-30"
+last_updated: "2017-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 30 de junio de 2014.
 
@@ -103,7 +103,9 @@ a) Aplicar las disposiciones generales que en ejercicio de las facultades le con
 
 b) Garantizar los derechos y el acceso a las prerrogativas de los partidos políticos y candidatos.
 
-c) Garantizar la ministración oportuna del financiamiento público a que tienen derechos (sic) los partidos políticos nacionales y locales, agrupaciones políticas estatales y los candidatos independientes.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+c) Garantizar la ministración oportuna del financiamiento público a que tienen derechos los partidos políticos nacionales y locales, y los candidatos independientes.
 
 d) Desarrollar y ejecutar los programas de educación cívica en el Estado.
 
@@ -253,17 +255,19 @@ a) Emitida. la que se obtiene después de sumar la totalidad de los votos deposi
 
 b) Válida emitida. la que se obtiene después de restar a la votación emitida, los votos nulos y los anulados.
 
-(NOTA: EL 1 DE OCTUBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2014 Y SUS ACUMULADAS 64/2014 Y 80/2014, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XLIV, INCISO C) DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE OCTUBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
-c) Efectiva. la resultante de restar de la votación válida emitida los votos de los partidos políticos que no alcanzaron el tres por ciento de la votación válida emitida, los de los partidos que no hayan postulado candidatos a diputados por el principio de mayoría relativa en cuando menos diez distritos uninominales del Estado, los votos emitidos a favor de fórmulas no registradas, los votos emitidos a favor de los candidatos independientes Y LOS QUE HAYAN OBTENIDO LOS CANDIDATOS DE LA COALICIÓN QUE NO CUENTEN A FAVOR DE NINGUNO DE LOS PARTIDOS POLÍTICOS QUE LOS POSTULARON;
+c) Efectiva. la resultante de restar de la votación válida emitida los votos de los partidos políticos que no alcanzaron el tres por ciento de la votación válida emitida, los de los partidos que no hayan postulado candidatos a diputados por el principio de mayoría relativa en cuando menos diez distritos uninominales del Estado, los votos emitidos a favor de fórmulas no registradas, los votos emitidos a favor de los candidatos independientes.
 
 d) Voto anulado: es aquél que habiéndose declarado válido por la mesa directiva de casilla, las autoridades jurisdiccionales electorales determinan que en su emisión o durante la jornada electoral se actualizaron causales de nulidad;
 
 e) Voto nulo: es aquél al que la mesa directiva de casilla atribuye tal carácter, por no cumplir con las características que esta Ley establece, en el escrutinio y cómputo, y lo asienta en el acta respectiva.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 7°.
 
-Los procesos electorales estatales, sin excepción, quedarán sujetos a lo establecido por la Constitución Federal, la Constitución del Estado, la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Partidos Políticos, la presente Ley, y la Ley de Justicia Electoral del Estado. En lo no previsto y en cuanto no contravengan lo establecido por la Constitución Política del Estado y este Ordenamiento, se aplicarán supletoriamente las disposiciones de orden federal relativas a la materia.
+Los procesos electorales estatales, sin excepción, quedarán sujetos a lo establecido por la Constitucion Federal, la Constitucion del Estado, la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Partidos Politicos, la presente Ley, y la Ley de Justicia Electoral del Estado. En lo no previsto, siempre y cuando no contravengan lo establecido por la Constitucion Politica del Estado Libre y Soberano de San Luis Potosí, y este Ordenamiento, se aplicaran supletoriamente las disposiciones legales, reglamentos, lineamientos y acuerdos generales de orden nacional relativos a la materia.
 
 ###### ARTÍCULO 8°.
 
@@ -301,9 +305,11 @@ La distritación respectiva deberá aprobarse antes de que inicie el proceso ele
 
 Las elecciones ordinarias se verificarán el primer domingo de junio de cada seis años para Gobernador; y el mismo día de cada tres años para diputados y ayuntamientos del año correspondiente, según se trate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 15.
 
-Cuando conforme a la Ley se declare nula una elección de diputado, según el principio de mayoría relativa, o los candidatos triunfadores resulten inelegibles conforme resolución definitiva que emita el Tribunal Electoral del Estado, o Federal, se celebrarán elecciones extraordinarias dentro de los sesenta días naturales siguientes a la conclusión de la última etapa del proceso electoral respectivo, previa convocatoria que para el caso de diputados expida el Consejo.
+Cuando conforme a la ley se declare nula una elección de diputado, según el principio de mayoría relativa, o los candidatos triunfadores resulten inelegibles conforme resolución definitiva que emita el Tribunal Electoral del Estado, o Federal, se celebrarán elecciones extraordinarias dentro de los noventa días naturales siguientes a la conclusión de la última etapa del proceso electoral respectivo, previa convocatoria que para el caso de diputados expida el Consejo.
 
 Asimismo, se efectuará la elección extraordinaria respectiva en los términos previstos en el párrafo anterior, si un Tribunal Electoral, ya sea estatal o federal, anula la elección de un ayuntamiento o declara la inelegibilidad de los candidatos de la planilla triunfadora. En tal caso, se estará a lo previsto en la Constitución del Estado, y en la Ley Orgánica del Municipio Libre, para los efectos de cubrir el inicio del periodo constitucional para el que debe ser electo el ayuntamiento de que se trate.
 
@@ -317,11 +323,13 @@ Si al efectuar los cómputos de una elección municipal, resultara igual el núm
 
 Las elecciones extraordinarias que se celebren para elegir Gobernador del Estado, en los casos que previene la Constitución del Estado, se sujetarán a las bases de la convocatoria que expida el Congreso del Estado, y a las disposiciones de esta Ley.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL NÚMERO EXTRAORDINARIO DEL P.O. DE 31 DE MAYO DE 2017, PÁGINA 5.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 18.
 
-Declarada la vacante de una diputación de mayoría relativa en los términos de la Constitución del Estado, o por causa superveniente, se verificará elección extraordinaria dentro de un plazo que no excederá de los sesenta días siguientes, y de acuerdo a las bases que contenga la convocatoria, así como de las disposiciones de la presente Ley.
-
-La convocatoria la expedirá el propio Consejo dentro de los diez días siguientes a la declaratoria de la vacante.
+Declarada la vacante de una diputación de mayoría relativa en los términos de la Constitución del Estado, o por causa superveniente, se verificará elección extraordinaria dentro de un plazo que no excederá de los noventa días siguientes, y de acuerdo a las bases que contenga la convocatoria, así como de las disposiciones de la presente Ley. La convocatoria la expedirá el propio Consejo dentro de los diez días siguientes a la declaratoria de la vacante.
 
 Las vacantes de los diputados de representación proporcional se cubrirán con su respectivo suplente, y a falta de éste, por aquéllos candidatos del mismo partido que hubiesen quedado en el lugar preferente inmediato según la lista votada.
 
@@ -419,15 +427,19 @@ El Consejo, las comisiones distritales, los comités municipales electorales y l
 
 El patrimonio del Consejo se integra con los bienes muebles e inmuebles que se adquieran o destinen al cumplimiento de su objeto, así como con las partidas que anualmente se le señalen en el Presupuesto de Egresos del Estado, más los ingresos que perciba con motivo del ejercicio de sus atribuciones previstas en esta Ley y otras disposiciones legales aplicables.
 
-Para su administración y control se estará a lo dispuesto por la Constitución del Estado; esta Ley; la Ley de Presupuesto, Contabilidad y Gasto Público; la Ley de Adquisiciones del Estado, y demás legislación aplicable.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Para su administración y control se estará a lo dispuesto por la Constitución Política del Estado Libre y Soberano de San Luis Potosí; esta Ley; la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí; la Ley de Adquisiciones del Estado; la Ley de Bienes del Estado y Municipios de San Luis Potosí, y la demás legislación aplicable.
 
 Gozará respecto de su patrimonio, de las franquicias, exenciones y demás prerrogativas concedidas a los fondos y bienes del Estado.
 
 El Consejo elaborará el catálogo e inventario de sus bienes muebles e inmuebles.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 34.
 
-Los recursos presupuestarios destinados al financiamiento público de los partidos políticos, agrupaciones políticas, y candidatos independientes, en cualquiera de sus modalidades, no forman parte del patrimonio del Consejo, incluyendo los que por concepto de rendimientos financieros se generen, por lo que éste no podrá disponer, ni alterar el cálculo para su determinación, ni los montos que del mismo resulten conforme a la Constitución del Estado, y a la Ley Electoral.
+Los recursos presupuestarios destinados al financiamiento público de los partidos políticos, y candidatos independientes, en cualquiera de sus modalidades, no forman parte del patrimonio del Consejo, incluyendo los que por concepto de rendimientos financieros se generen, por lo que éste no podrá disponer, ni alterar el cálculo para su determinación, ni los montos que del mismo resulten conforme a la Constitución del Estado, y a la Ley Electoral.
 
 ###### ARTÍCULO 35.
 
@@ -473,7 +485,9 @@ Los requisitos de elegibilidad para ser consejero electoral, así como el proces
 
 El Consejero Presidente y los Consejeros Electorales una vez que hayan sido designados por el Instituto Nacional Electoral, rendirán la protesta de ley; la autoridad competente determinará la forma y términos para tal efecto.
 
-El Secretario Ejecutivo será nombrado y removido por el voto de las dos terceras partes del Pleno del Consejo a propuesta del Consejero Presidente.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+El Secretario Ejecutivo podrá ser nombrado y removido a propuesta del Consejero Presidente y con la aprobación de al menos cinco votos de los Consejeros Electorales.
 
 ###### ARTÍCULO 43.
 
@@ -561,7 +575,9 @@ o) Investigar, comprobar, y verificar con los medios que tenga a su alcance, las
 
 p) Imponer las sanciones que correspondan, de conformidad con lo que establecen esta Ley y demás ordenamientos jurídicos aplicables;
 
-q) Elaborar y enviar al Ejecutivo del Estado, a más tardar el día quince del mes de octubre de cada año, su presupuesto de egresos, el cual deberá comprender partidas específicas para cubrir las prerrogativas a que los partidos políticos, agrupaciones políticas, y candidatos independientes, tienen derecho.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+q) Elaborar y enviar al Ejecutivo del Estado, a más tardar el día quince del mes de octubre de cada año, su presupuesto de egresos, el cual deberá comprender partidas específicas para cubrir las prerrogativas a que los partidos políticos y candidatos independientes, tienen derecho.
 
 Al enunciado presupuesto de egresos se adjuntarán los tabuladores desglosados de las remuneraciones que se proponen perciban sus servidores públicos, sujetándose a las bases previstas en el artículo 127 de la Constitución Federal.
 
@@ -569,7 +585,9 @@ En el supuesto de que en el transcurso de un ejercicio fiscal aprobado, se regis
 
 r) Resolver sobre las solicitudes de licencias temporales que le presenten los consejeros, en los términos que determine el reglamento respectivo.
 
-s) Nombrar, ratificar o remover, a propuesta del Consejero Presidente, al Secretario Ejecutivo, así como a los titulares de los órganos ejecutivos y técnicos del Consejo.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+s) Nombrar, ratificar o remover al Secretario Ejecutivo, a propuesta del Consejero Presidente, así como a los titulares de los órganos ejecutivos y técnicos del Consejo, en un plazo no mayor a sesenta días hábiles a partir de que el Órgano Superior de Dirección sea renovado.
 
 t) Aplicar las medidas de apremio establecidas en la Ley de Justicia Electoral del Estado, a fin de hacer cumplir sus determinaciones, y
 
@@ -585,7 +603,7 @@ c) Aplicar la fórmula electoral y hacer la asignación de diputados, y regidore
 
 d) Hacer las asignaciones del financiamiento público a los partidos políticos, en los términos de los artículos 148 y 152 esta Ley, y a los candidatos independientes, de conformidad con las reglas previstas. En su caso, revisar y aprobar los informes y comprobantes que rindan sobre su aplicación, de conformidad con lo previsto en la Ley General de Instituciones y Procedimientos Electorales, en la Ley General de Partidos Políticos y en los lineamientos, acuerdos generales, normas técnicas y demás disposiciones que emita el Instituto Nacional Electoral.
 
-e) Hacer las asignaciones del financiamiento público a las agrupaciones políticas estatales, y revisar y aprobar los informes y comprobantes que rindan sobre su aplicación, de conformidad con las reglas previstas por esta Ley.
+e) (DEROGADO, P.O. 31 DE MAYO DE 2017)
 
 f) Integrar las comisiones permanentes previstas por esta Ley y crear las comisiones temporales que sean necesarias, para promover el análisis, estudios e investigación orientados a la búsqueda de mejores métodos y procedimientos, que tengan como finalidad el perfeccionamiento de la materia electoral y, en general, las que se estimen convenientes para el mejor cumplimiento de sus atribuciones y objetivos.
 
@@ -651,7 +669,7 @@ j) Celebrar con las autoridades educativas los convenios de coordinación y de c
 
 V. DE VIGILANCIA:
 
-a) Vigilar y controlar, a través de la Comisión Permanente de Fiscalización y su Unidad Técnica de fiscalización a que se refiere el artículo 67 de la presente Ley, el origen y uso de todos los recursos con que cuenten las agrupaciones políticas estatales, así como las organizaciones de ciudadanos que pretendan constituirse en partido político local, instaurando al efecto los procedimientos respectivos, y
+a) (DEROGADO, P.O. 31 DE MAYO DE 2017)
 
 b) Vigilar y controlar cuando así proceda, por conducto de la Comisión Permanente de Fiscalización y su Unidad de fiscalización, el origen y uso de los recursos con que cuenten los partidos políticos y candidatos independientes, en los términos previstos por la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Partidos Políticos, los lineamientos, acuerdos generales, normas técnicas y demás disposiciones que emita el Instituto Nacional Electoral.
 
@@ -763,7 +781,9 @@ V. Proponer al Pleno del Consejo, el procedimiento que deba seguirse para la int
 
 VI. Proponer anualmente al Pleno del Consejo, el proyecto del presupuesto de egresos del Consejo, para su aprobación;
 
-VII. Proponer al Pleno del Consejo el nombramiento, la ratificación o bien la remoción, en su caso, del Secretario Ejecutivo, así como de los titulares de los órganos ejecutivos y técnicos del Consejo;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VII. Proponer al Pleno del Consejo el nombramiento, la ratificación o la remoción, en su caso, del Secretario Ejecutivo, así como de los titulares de los órganos ejecutivos y técnicos del Consejo, en un plazo no mayor a sesenta días hábiles cuando el Órgano Superior de Dirección sea renovado;
 
 VIII. Proponer al Pleno del Consejo, para su aprobación, los planes y programas de capacitación electoral que se impartirán a los integrantes de las Comisiones Distritales Electorales y de los Comités Municipales Electorales;
 
@@ -801,9 +821,15 @@ El Presidente, en caso de faltas reiteradas de los representantes de partido, a 
 
 ### Capítulo IV. De las Comisiones del Consejo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 60.
 
-El Pleno del Consejo integrará las comisiones temporales que considere necesarias para el desempeño de sus atribuciones, las que siempre serán presididas por un Consejero Electoral. Independientemente de lo señalado en el párrafo anterior, el Consejo contará permanentemente con las siguientes Comisiones:
+El Consejo contará con las comisiones permanentes que señala esta Ley, y podrá contar con las comisiones temporales que considere necesarias para el desempeño de sus atribuciones, las que siempre serán presididas por un Consejero Electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 31 DE MAYO DE 2017)</small>
+
+Las comisiones permanentes son las siguientes:
 
 I. De Fiscalización, integrada en los términos de la presente Ley;
 
@@ -813,9 +839,25 @@ III. De Organización Electoral;
 
 IV. De Prerrogativas y Partidos Políticos;
 
-V. De Administración, y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-VI. De Quejas y Denuncias. Las comisiones permanentes aquí señaladas se integrarán exclusivamente por Consejeros Electorales designados por el Pleno del Consejo. Los Consejeros Electorales podrán participar en las comisiones antes mencionadas, por un periodo de tres años; la presidencia de tales comisiones será rotativa en forma anual entre sus integrantes.
+V. De Administracion;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VI. De Quejas y Denuncias;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VII. De Seguimiento al Servicio Profesional Electoral, y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VIII. De Igualdad de Género y Violencia Política.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Las comisiones permanentes aquí señaladas se integrarán exclusivamente por Consejeros Electorales designados por el Pleno del Consejo. Los Consejeros Electorales podrán participar en las comisiones antes mencionadas, por un periodo de tres años; la presidencia de tales comisiones será rotativa en forma anual entre sus integrantes.
 
 Las Comisiones del Consejo ceñirán su actuación a las disposiciones de esta Ley, y a las propias del Reglamento que al efecto apruebe el Pleno del Consejo.
 
@@ -848,6 +890,24 @@ II. Organización Electoral.
 Se fusionarán para cada proceso electoral a fin de integrar la Comisión de Capacitación y Organización Electoral.
 
 El Pleno del Consejo designará, en octubre del año previo al de la elección, a sus integrantes y al Consejero Electoral que la presidirá.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO 64 Bis.
+
+La Comisión de Igualdad de Género y Violencia Política tendrá las siguientes atribuciones:
+
+I. Verificar que las acciones y programas del Consejo, de los partidos políticos y de las agrupaciones políticas, observen, en todos los casos, la legislación nacional e internacional en materia de igualdad de género y, en su caso, promover e implementar las modificaciones o cambios correspondientes;
+
+II. Organizar y promover actividades, análisis y estudios respecto de la igualdad de género y combate a la violencia política contra la mujer, en relación con la cuestión electoral, participación política y el poder público;
+
+III. Aprobar e implementar, junto con los partidos políticos y las agrupaciones políticas, directrices generales de combate y prevención de violencia política contra la mujer;
+
+IV. Llevar a cabo la elaboración y difusión de material editorial y de investigación sobre la igualdad de género y prevención de violencia política contra la mujer, con el objetivo de sensibilizar a la población respecto de esos temas;
+
+V. Rendir un informe al Pleno del Consejo por lo menos cada seis meses, sobre las actividades que desarrolle la Comisión, y
+
+VI. Las demás que le confiera la normatividad aplicable.
 
 ### Capítulo V. De la Comisión de Fiscalización
 
@@ -967,9 +1027,11 @@ IX. No estar inhabilitado para ejercer cargos públicos en cualquier institució
 
 X. No haberse desempeñado durante los cuatro años previos a la designación como titular de secretaría o dependencia tanto del gobierno de la federación o como de las entidades federativas, ni subsecretario u oficial mayor en la administración pública de cualquier nivel de gobierno. No ser Gobernador, ni Secretario de Gobierno. No ser Presidente Municipal, Síndico o Regidor o titular de dependencia de los ayuntamientos.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 72.
 
-El Secretario Ejecutivo del Consejo será nombrado y removido libremente por las dos terceras partes de los consejeros electorales, debiendo en su caso, ser ratificado al término del proceso electoral que corresponda.
+El Secretario Ejecutivo del Consejo podrá ser nombrado, ratificado o removido a propuesta del Presidente, en un plazo no mayor de sesenta días hábiles, a partir de que el Órgano Superior de Dirección sea renovado.
 
 ###### ARTÍCULO 73.
 
@@ -1045,7 +1107,9 @@ k) Elaborar el anteproyecto de tope máximo de gastos de precampaña y campaña,
 
 l) Elaborar el anteproyecto de tope máximo de gastos de la etapa de obtención de apoyo ciudadano, que puedan erogar los aspirantes a candidato independiente, en los términos previstos por esta Ley.
 
-m) Elaborar el proyecto de financiamiento anual y de campaña a los partidos políticos registrados e inscritos ante el Consejo, así como de las agrupaciones políticas estatales, según lo dispuesto por esta Ley.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+m) Elaborar el proyecto de financiamiento anual y de campaña a los partidos políticos registrados e inscritos ante el Consejo, según lo dispuesto por esta Ley.
 
 n) Elaborar el proyecto de financiamiento público para las campañas de los candidatos independientes que participen en los procesos electorales.
 
@@ -1121,11 +1185,19 @@ De acuerdo con sus funciones las unidades técnicas podrán ser permanentes o tr
 
 ### Capítulo VII. De la Contraloría Interna
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 82.
 
-La Contraloría Interna es el órgano del Consejo que tiene encomendada la fiscalización de los ingresos y egresos de ese organismo electoral; así como las funciones de control y vigilancia de los servidores públicos del mismo, para lo cual contará con autonomía técnica y de gestión para decidir sobre su funcionamiento.
+La Contraloría Interna es el órgano del Consejo, competente para fiscalizar y revisar el ingreso, egreso, manejo, custodia, y aplicación de los recursos públicos asignados; contará con autonomía técnica y de gestión para decidir sobre su funcionamiento.
 
-En el ejercicio de sus atribuciones, el Contralor Interno se abstendrá de interferir en el desempeño de las funciones, y en el ejercicio de las atribuciones de naturaleza electoral de los servidores del Consejo.
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+La Contraloría Interna tiene encomendadas las funciones de control y vigilancia de los servidores públicos del Consejo. Le corresponde prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos adscritos al Consejo Estatal Electoral y de Participación Ciudadana, y de particulares vinculados con faltas graves; así como sancionar aquellas distintas a las que son competencia del Tribunal Estatal de Justicia Administrativa; además de presentar, en su caso, las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE MAYO DE 2017)</small>
+
+En el ejercicio de sus atribuciones, el Contralor Interno se abstendrá de interferir en el desempeno (sic) de las funciones, y en el ejercicio de las atribuciones de naturaleza electoral de los servidores del Consejo.
 
 ###### ARTÍCULO 83.
 
@@ -1255,7 +1327,9 @@ II. Recibir las solicitudes de registro de las organizaciones de ciudadanos que 
 
 III. Inscribir en el libro respectivo el registro de partidos y agrupaciones políticas estatales, así como los convenios de coaliciones y acuerdos de participación;
 
-IV. Ministrar a los partidos políticos y a las agrupaciones políticas estatales y candidatos independientes el financiamiento público al que tienen derecho conforme a lo señalado en esta Ley;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+IV. Ministrar a los partidos políticos y candidatos independientes el financiamiento público al que tienen derecho conforme a lo señalado en esta Ley;
 
 V. Llevar a cabo los trámites necesarios para que los partidos políticos estatales puedan disponer de las franquicias postales y telegráficas que les corresponden;
 
@@ -1277,13 +1351,17 @@ XIII. Las demás que le confiera esta Ley.
 
 ### Capítulo IX. De las Disposiciones Generales para las Comisiones Distritales, de los Comités Municipales, y de las Mesas Directivas de Casilla
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 91.
 
-Las Comisiones Distritales y Comités Municipales deberán quedar instaladas a más tardar el último día del mes de noviembre del año anterior al de la elección que se trate
+Las Comisiones Distritales y Comités Municipales deberán instalarse a más tardar el último día del mes de enero del año de la elección que se trate.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 92.
 
-Los consejeros electorales del Pleno del Consejo, podrán proponer a los ciudadanos que vayan a ser designados para formar las comisiones distritales electorales, y los comités municipales electorales.
+Los consejeros electorales del Pleno del Consejo implementarán el procedimiento de integración de Comisiones Distritales Electorales y Comités Municipales Electorales, de conformidad con las bases establecidas en el Reglamento de Elecciones emitido por Instituto Nacional Electoral.
 
 Del total de los ciudadanos propuestos para ser designados para integrar las comisiones distritales electorales, y los comités municipales electorales, cada partido político tendrá derecho a recusar, sin necesidad de expresar causa alguna para ello, hasta tres ciudadanos tratándose de las comisiones; y hasta cinco tratándose de los comités. Los ciudadanos así recusados, no podrán integrarse a ninguna de las comisiones distritales, y comités municipales.
 
@@ -1305,7 +1383,9 @@ IV. Estar inscrito en el Registro Federal de Electores, y contar con su credenci
 
 V. Tener un modo honesto de vivir;
 
-VI. No desempeñar, ni haber desempeñado el cargo de presidente del Comité Ejecutivo Nacional, Estatal, Municipal o su equivalente, en un partido político y, en todo caso, no estar, o no haber estado afiliado a algún partido político estatal o nacional desde, cuando menos, un año antes al día de su elección;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VI. No desempeñar, ni haber desempeñado el cargo de presidente del Comité Ejecutivo Nacional, Estatal, Municipal o su equivalente, en un partido político y, en todo caso, no estar, o no haber estado afiliado a algún partido político estatal o nacional desde, cuando menos, tres años antes al día de su elección;
 
 VII. No pertenecer al estado eclesiástico, ni ser ministro de culto alguno;
 
@@ -1317,7 +1397,7 @@ X. No haber sido condenado por delito doloso;
 
 XI. No estar inhabilitado para desempeñar funciones, empleos, cargos, o comisiones de cualquier naturaleza en el servicio público, y
 
-XII. No haber ejercido funciones como integrante de Comisiones Distritales o Comités Municipales en procesos electorales anteriores.
+XII. (DEROGADA, P.O. 31 DE MAYO DE 2017)
 
 ###### ARTÍCULO 94.
 
@@ -1367,7 +1447,9 @@ Las autoridades estatales y municipales están obligadas a proporcionar a los or
 
 Las Comisiones Distritales Electorales son los organismos dependientes del Consejo, encargados de preparar, desarrollar y vigilar el proceso de elección para Gobernador, y diputados al Congreso del Estado, en sus respectivas demarcaciones territoriales, conforme lo dispone la presente Ley.
 
-En la cabecera de cada distrito electoral uninominal habrá una Comisión Distrital Electoral. Durante el proceso electoral deberán sesionar cuando menos dos veces por mes. Cuando en un mismo municipio exista más de una cabecera distrital, el Consejo podrá autorizar que las respectivas comisiones electorales establezcan sus sedes en un mismo domicilio.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+En la cabecera de cada distrito electoral uninominal habrá una Comisión Distrital Electoral integrada bajo el principio de paridad de género. Durante el proceso electoral deberán sesionar cuando menos dos veces por mes. Cuando en un mismo municipio exista más de una cabecera distrital, el Consejo podrá autorizar que las respectivas comisiones electorales establezcan sus sedes en un mismo domicilio.
 
 ###### ARTÍCULO 101.
 
@@ -1419,7 +1501,9 @@ I. Aplicar en el ámbito de su competencia, las normas que rigen la materia elec
 
 II. Acatar los acuerdos del Pleno del Consejo, y remitirle con la debida oportunidad, copia de las actas relativas a las sesiones que celebren;
 
-III. Registrar las candidaturas a diputados a elegirse por el principio de mayoría relativa, informando de ello inmediatamente al Consejo;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+III. Recibir la documentación que presenten los partidos políticos o candidato independiente y pronunciarse sobre el registro de las candidaturas a diputados a elegirse por el principio de mayoría relativa, informando de ello inmediatamente al Consejo;
 
 IV. Cuando proceda, proponer al Pleno del Consejo, la ubicación e integración de las mesas directivas de las casillas de conformidad con su demarcación seccional, y publicar las listas respectivas. Asimismo, cuando en una sección electoral, por razones demográficas, topográficas, o de cualquiera otra índole, existan localidades con electores inconvenientemente dispersos, proponer la ubicación e instalación de las casillas extraordinarias que sean necesarias para facilitar el ejercicio del sufragio;
 
@@ -1583,7 +1667,9 @@ I. Aplicar en el ámbito de su competencia las normas que rigen la materia elect
 
 II. Acatar los acuerdos del Pleno del Consejo y remitir a éste con la debida oportunidad, copia de las actas relativas a las sesiones que celebren;
 
-III. Registrar las planillas de mayoría relativa, y listas de candidatos a regidores de representación proporcional a los ayuntamientos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+III. Recibir la documentación que presenten los partidos políticos o candidato independiente y pronunciarse sobre el registro de las planillas de mayoría relativa, y listas de candidatos a regidores de representación proporcional a los ayuntamientos;
 
 IV. Proponer al Pleno del Consejo, cuando proceda, la ubicación e integración de las mesas directivas de las casillas de conformidad con su demarcación seccional, y publicar las listas respectivas. Asimismo, cuando en una sección electoral, por razones demográficas, topográficas o de cualquiera otra índole, existan localidades con electores inconvenientemente dispersos, proponer la ubicación e instalación de las casillas extraordinarias que sean necesarias para facilitar el ejercicio del sufragio;
 
@@ -1701,7 +1787,9 @@ Los requisitos para ser integrante de las mesas directivas de casilla, se encuen
 
 Las mesas directivas de casilla como autoridad electoral, tienen a su cargo, durante la jornada electoral, respetar y hacer respetar la libre emisión y efectividad del sufragio, garantizar el secreto del voto y asegurar la autenticidad del escrutinio y cómputo.
 
-Las mesas directivas de casilla se integrarán con un presidente, un secretario, dos escrutadores, y tres suplentes generales. Los tres suplentes que hayan sido designados para fungir como tales en la mesa directiva, ejercerán sus funciones únicamente cuando no se presentare alguno de los miembros señalados en el párrafo anterior de este artículo.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Las mesas directivas de casilla se integrarán con un presidente, un secretario, dos escrutadores, y tres suplentes generales. Los tres suplentes que hayan sido designados para fungir como tales en la mesa directiva, ejercerán sus funciones únicamente cuando no se presentare alguno de los miembros señalados en el párrafo anterior de este artículo. Al integrar las mesas directivas de casilla se observará el principio de paridad de género.
 
 Es facultad de los partidos políticos, coaliciones, y, en su caso, de los candidatos independientes, designar en cada casilla un representante con su respectivo suplente. Será legal la instalación y funcionamiento de las casillas durante la jornada electoral, aún sin la presencia de los representantes mencionados.
 
@@ -1977,13 +2065,21 @@ XVII. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusio
 
 XVIII. Abstenerse de realizar afiliaciones colectivas de ciudadanos;
 
-XIX. Garantizar la paridad entre los géneros en candidaturas a diputados y ayuntamientos;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
+XIX. Cada partido político determinará y hará públicos los criterios para garantizar la paridad entre los géneros en todas sus dimensiones en candidaturas a diputados y ayuntamientos. Éstos deberán de ser objetivos y asegurar condiciones de igualdad entre géneros.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sea asignado exclusivamente candidaturas a diputados y ayuntamientos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior. La autoridad electoral será responsable del cumplimiento de este precepto.
 
 XX. Elaborar y entregar los informes de origen y uso de recursos a que se refiere la Ley General de Partidos Políticos;
 
 XXI. Cumplir con las obligaciones que la legislación en materia de transparencia y acceso a su información les impone;
 
-XXII. Retirar dentro de los ocho días siguientes al de la jornada electoral que corresponda, la propaganda que en apoyo a sus candidatos hubieran fijado, pintado o instalado;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XXII. Retirar dentro de los veinte días siguientes al de la jornada electoral que corresponda, la propaganda que en apoyo a sus candidatos hubieran fijado, pintado o instalado;
 
 XXIII. Observar los límites de gastos de precampaña y campaña que para cada elección determine el Consejo;
 
@@ -2109,7 +2205,9 @@ III. Gozar del régimen fiscal que se establece en la Ley General de Partidos Po
 
 IV. Usar las franquicias postales y telegráficas que sean necesarias para el cumplimiento de sus funciones.
 
-Tratándose de los partidos políticos con registro local, al mes inmediato anterior al del inicio del proceso de elección y hasta su conclusión, disfrutarán adicionalmente de una cantidad mensual de hasta mil días de salario mínimo vigente en la capital del Estado, como apoyo a sus actividades. Esta prerrogativa se otorgará conforme a los términos que para ello establezca el Consejo.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Tratándose de los partidos políticos con registro local, al mes inmediato anterior al del inicio del proceso de elección y hasta su conclusión, disfrutarán adicionalmente de una cantidad mensual de hasta mil Unidades de Medida y Actualización vigente, como apoyo a sus actividades. Esta prerrogativa se otorgará conforme a los términos que para ello establezca el Consejo.
 
 ###### ARTÍCULO 149.
 
@@ -2133,7 +2231,9 @@ Los partidos políticos inscritos y registrados ante el Consejo tendrán derecho
 
 I. Para el sostenimiento de actividades ordinarias permanentes:
 
-a) El Consejo determinará anualmente el monto total por distribuir entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral a la fecha de corte de julio de cada año, por el sesenta y cinco por ciento del salario mínimo de la zona económica en la cual se encuentra el Estado.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+a) El Consejo determinará anualmente el monto total por distribuir entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral a la fecha de corte de julio de cada año, por el sesenta y cinco por ciento de la Unidad de Medida y Actualización vigente.
 
 b) El resultado de la operación señalada en el inciso anterior constituye el financiamiento público anual a los partidos políticos por sus actividades ordinarias permanentes y se distribuirá en los términos siguientes:
 
@@ -2145,7 +2245,13 @@ c) Las cantidades que en su caso, se determinen para cada partido, serán entreg
 
 d) Cada partido político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba para el desarrollo de las actividades específicas, a que se refiere la fracción III de este artículo, y
 
-e) Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente, el tres por ciento del financiamiento público ordinario.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+e) Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente, el cinco por ciento del financiamiento público ordinario, y
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+f) Para la capacitación, promoción y el desarrollo del liderazgo político de los jóvenes, cada partido político deberá destinar anualmente, el tres por ciento del financiamiento público ordinario.
 
 II) Para gastos de Campaña:
 
@@ -2387,7 +2493,9 @@ Por coalición total se entenderá la que establezcan los partidos políticos pa
 
 Si dos o más partidos se coaligan en forma total para las elecciones de diputados, deberán coaligarse para la elección de Gobernador.
 
-Si una vez registrada la coalición total la misma no registrara a los candidatos a los cargos de elección, en los términos del párrafo anterior, y dentro de los plazos señalados para tal efecto en la Ley General de Partidos Políticos y la presente Ley, la coalición y el registro del candidato para la elección de Gobernador quedará automáticamente sin efectos.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Si una vez registrada la coalición total la misma no registrara a los candidatos a los cargos de elección, en los términos del párrafo anterior, la coalición y el registro del candidato para la elección de Gobernador quedará automáticamente sin efectos.
 
 Por coalición parcial se entenderá la que establezcan los partidos políticos para postular al menos el cincuenta por ciento de las candidaturas en un mismo proceso electoral, bajo una misma plataforma.
 
@@ -2437,9 +2545,11 @@ V. El señalamiento, de ser el caso, del partido político al que pertenece orig
 
 VI. Para el caso de la interposición de los medios de impugnación previstos en la ley de la materia, quien ostentaría la representación de la coalición.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 183.
 
-La solicitud de registro del convenio de coalición, deberá presentarse al presidente del Consejo, según la elección que lo motive, acompañado de la documentación pertinente, a más tardar treinta días antes de que se inicie el periodo de precampaña de la elección de que se trate. Durante las ausencias del presidente del Consejo, el convenio se podrá presentar ante el secretario ejecutivo.
+La solicitud de registro del convenio de coalición deberá presentarse al presidente del Consejo, según la elección que lo motive, acompañado de la documentación pertinente, en la etapa de registro de candidatos de la elección de que se trate. Durante las ausencias del presidente del Consejo, el convenio se podrá presentar ante el secretario ejecutivo. El presidente del Consejo integrará el expediente e informará al Pleno del Consejo.
 
 El presidente del Consejo integrará el expediente e informará al Pleno del Consejo.
 
@@ -2489,19 +2599,49 @@ II. Antes de que concluya el plazo para el registro oficial deberán presentar a
 
 III. Que la solicitud de registro correspondiente cumpla con todos los requisitos legales, y se efectúe dentro del plazo que para tal efecto establezca la presente Ley o convocatoria, según el caso;
 
-IV. Que celebren los partidos contendientes en alianza partidaria, los convenios respectivos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-V. En el escrutinio y cómputo tratándose de partidos en alianza, si apareciera cruzado más de uno de sus respectivos emblemas, se asignará el voto al candidato, lo que deberá consignarse en el apartado respectivo del acta de escrutinio y cómputo correspondiente. Para el cómputo se sumarán los votos que hayan sido emitidos a favor de dos o más partidos en alianza y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla. La suma de tales votos se distribuirá igualitariamente entre los partidos que integran la alianza; de existir fracción los votos correspondientes se asignarán a los partidos de más alta votación. Este cómputo será la base para la asignación de representación proporcional u otras prerrogativas. Quedando prohibido transferir los votos obtenidos por un partido o candidato en favor de otros.
+IV. Que celebren los partidos contendientes en alianza partidaria, los convenios respectivos. Dicho convenio deberá contener:
 
-VI. Cuando se trate de candidatura de diputado en alianza, el convenio que celebren los partidos postulantes, deberá señalar el grupo parlamentario al que se integrará en el Congreso del Estado, en caso de resultar electo.
+a) Nombre de los partidos que la conforman, así como el tipo de elección de que se trate.
+
+b) Emblema común de los partidos que lo conforman, y el color o colores con que se participa.
+
+c) Nombre, apellidos, edad, lugar de nacimiento, domicilio, clave de la credencial para votar, y el consentimiento por escrito del candidato.
+
+d) La aprobación del convenio por parte de los órganos directivos correspondientes de cada uno de los partidos políticos postulantes de la alianza partidaria propuesta.
+
+e) La forma en que se acreditarán los votos a cada uno de los partidos políticos que postulan la alianza partidaria, para efectos de la conservación del registro, para el otorgamiento del financiamiento público y, en su caso, para la asignación de representación proporcional, y otros aquellos que establezca esta Ley.
+
+f) Indicar las aportaciones en porcentajes de cada uno de los partidos para gastos de la campaña, sujetándose a los límites de contratación de los medios de comunicación distintos a radio y televisión, y a los topes de gastos de campaña determinados por el Consejo.
+
+g) Para las elecciones de diputados y miembros de los ayuntamientos, determinar el partido político al que pertenecerán los candidatos en caso de resultar electos;
+
+V. (DEROGADA, P.O. 31 DE MAYO DE 2017)
+
+VI. (DEROGADA, P.O. 31 DE MAYO DE 2017)
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VII. Los partidos políticos que postulen candidatos bajo la figura de alianza partidaria, no podrán postular candidatos propios ni de otros partidos políticos para la elección que convinieron;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VIII. Al convenio de alianza partidaria deberá anexarse los siguientes documentos:
+
+a) La documentación que acredite que los partidos políticos postulantes del candidato propuesto entregaron en tiempo y forma, su plataforma electoral a la autoridad electoral, y
+
+b) Las actas que acrediten que los órganos internos de los partidos aprobaron de conformidad con sus estatutos, y la firma del convenio de alianza partidaria para la elección que corresponda.
 
 ###### ARTÍCULO 192.
 
 Concluida la etapa de resultados y de declaraciones de validez de las elecciones de diputados, terminará automáticamente la alianza partidaria por la que se hayan postulado candidatos, en cuyo caso los candidatos a diputados de la alianza que resultaren electos quedarán comprendidos en el partido político o grupo parlamentario que se haya señalado en el convenio de alianza.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 193.
 
-Independientemente del tipo de elección, convenio y términos que en el mismo adopten los partidos en alianza partidaria, cada uno de ellos aparecerá con su propio emblema en la boleta electoral, según la elección de que se trate; los votos se sumarán para el candidato de la alianza y contarán para cada uno de los partidos políticos para todos los efectos establecidos en esta Ley.
+Independientemente del tipo de elección, convenio y términos que en el mismo adopten los partidos en alianza partidaria, aparecerá el emblema común de los partidos que lo conforman y el color o colores con que se participa en la boleta electoral, según la elección de que se trate. Los votos se computarán a favor del candidato propuesto en alianza partidaria, y la distribución del porcentaje de votación será conforme al convenio registrado ante el Consejo.
 
 ###### ARTÍCULO 194.
 
@@ -2721,19 +2861,11 @@ IV. El notario público levantará el acta de la Asamblea Estatal Constitutiva, 
 
 Hecho lo anterior, el Consejo dentro del término de treinta días, formulará el proyecto de dictamen relativo a la solicitud de registro, declarando procedente o no la petición formulada, mismo que será sometido a la consideración del Pleno del Consejo para su aprobación.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 215.
 
-Cuando proceda el registro, el Consejo expedirá el certificado respectivo. La resolución correspondiente deberá publicarse en el Periódico Oficial del Estado. En caso de negativa, expresará las causas que la motivan y lo comunicará a la asociación interesada, quien podrá recurrirlo en los términos que establece la Ley de Justicia Electoral del Estado.
-
-Las agrupaciones políticas con registro gozarán de financiamiento público para apoyo de sus actividades editoriales, educación y capacitación política, e investigación socioeconómica y política, así como de organización y administración. Para tal efecto, se constituirá un fondo consistente en una cantidad equivalente al cinco por ciento del monto que anualmente reciben los partidos políticos sobre la parte igualitaria para el sostenimiento de sus actividades ordinarias permanentes.
-
-En el rubro de gastos de organización y administración, las agrupaciones políticas sólo podrán ejercer hasta un monto equivalente al cuarenta por ciento del financiamiento público que les corresponda.
-
-Las agrupaciones políticas con registro, a fin de acreditar los gastos realizados, deberán presentar a la autoridad fiscalizadora que establece el artículo 67 de esta Ley, informes trimestrales y anual de actividades y resultados, así como sobre el origen y destino de los recursos que por cualquier modalidad reciban, acompañando dichos informes con la documentación que compruebe con fidelidad y verdad, el manejo, uso y destino de los mismos.
-
-Los informes a que se refiere el párrafo anterior, deberán presentarse dentro de los veinte días siguientes a la fecha de corte del trimestre que corresponda, de acuerdo a lo que disponga el Reglamento respectivo.
-
-En caso de que exista duda sobre la comprobación del origen, uso y destino de los recursos que reciban las agrupaciones políticas, la autoridad fiscalizadora competente, podrá realizar auditorías por sí, o a través de despachos contables de reconocido prestigio, que autorice el Pleno del Consejo.
+Cuando proceda el registro, el Consejo expedirá el certificado respectivo. La resolucion correspondiente deberá publicarse en el Periodico Oficial del Estado. En caso de negativa, expresará las causas que la motivan y lo comunicará a la asociación interesada, quien podrá recurrirlo en los terminos que establece la Ley de Justicia Electoral del Estado de San Luis Potosí.
 
 ###### ARTÍCULO 216.
 
@@ -2779,15 +2911,21 @@ IV. Ostentar la denominación, emblema o logotipo y color o colores que tengan r
 
 V. Cumplir sus normas de afiliación;
 
-VI. Contar con domicilio social para sus órganos directivos y mantener el funcionamiento efectivo de los mismos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VI. Contar con domicilio social para sus órganos directivos y mantener el funcionamiento efectivo de los mismos, y señalar domicilio en la capital del Estado para efecto de las notificaciones respectivas;
 
 VII. Comunicar al Consejo las modificaciones a sus documentos internos, su domicilio social, e integrantes de los órganos directivos, en un término que no exceda de quince días a partir de que ocurra el hecho;
 
-VIII. Utilizar las prerrogativas y aplicar el financiamiento público exclusivamente para las actividades permitidas por esta Ley;
+VIII. (DEROGADA, P.O. 31 DE MAYO DE 2017)
 
 IX. Observar en el ejercicio de sus recursos financieros, las disposiciones fiscales que específicamente las leyes de la materia señalan;
 
-X. Informar y comprobar al Consejo, con documentación fehaciente, en forma trimestral y anual, lo relativo al gasto para apoyo de sus actividades editoriales, educación y capacitación política, e investigación socioeconómica y política, así como de organización y administración. Asimismo, informar y comprobar fehacientemente respecto del empleo y destino de su financiamiento, tanto público, como privado, así como el origen de éste último;
+X. Informar y comprobar al Consejo, con documentación fehaciente, en forma trimestral y anual, lo relativo al gasto para apoyo de sus actividades editoriales, educación y capacitación política, e investigación socioeconómica y política, así como de organización y administración.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE ABRIL DE 2017)</small>
+
+Asimismo, informar y comprobar fehacientemente respecto del empleo y destino de su financiamiento privado, así como el origen del mismo;
 
 XI. Reembolsar al Consejo el monto del financiamiento público, cuyo uso y destino no haya sido legalmente comprobado ante el mismo, o del que no se haya ejercido;
 
@@ -2799,7 +2937,9 @@ XIV. Presentar durante el mes de enero de cada año, su plan de acciones anualiz
 
 XV. Las demás que les imponga esta Ley y sus diversas disposiciones reglamentarias.
 
-Los dirigentes o, en última instancia, los representantes de las agrupaciones políticas estatales registradas ante el Consejo, son solidariamente responsables por el uso y aplicación de los recursos provenientes del financiamiento público.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Los dirigentes y responsables financieros de las agrupaciones políticas estatales registradas ante el Consejo, son solidariamente responsables por el uso y aplicación de los recursos provenientes del financiamiento privado.
 
 ###### ARTÍCULO 219.
 
@@ -2819,21 +2959,7 @@ VI. Los demás que les confiera la ley
 
 ###### ARTÍCULO 220.
 
-Para los efectos de la fracción V del artículo anterior, se constituirá un fondo consistente en una cantidad equivalente al cinco por ciento del monto que anualmente reciben los partidos políticos sobre la parte igualitaria para el sostenimiento de sus actividades ordinarias permanentes.
-
-Este fondo se entregará y distribuirá anualmente a las agrupaciones políticas equitativamente, en términos de lo previsto en el reglamento que al efecto emita el Pleno del Consejo.
-
-El financiamiento público que reciban se destinará al apoyo de sus actividades editoriales, educación y capacitación política, e investigación socioeconómica y política, así como de organización y administración.
-
-En el rubro de gastos de organización y administración, las agrupaciones políticas sólo podrán ejercer hasta un monto equivalente al cuarenta por ciento del financiamiento público que les corresponda.
-
-Las agrupaciones políticas con registro, a fin de acreditar los gastos realizados, deberán presentar a la autoridad fiscalizadora del Consejo, informes trimestrales y anuales de actividades y resultados, así como sobre el origen y destino de los recursos que por cualquier modalidad reciban, acompañando dichos informes con la documentación que compruebe con fidelidad y verdad, el manejo, uso y destino de los mismos.
-
-Los informes a que se refiere el párrafo anterior, deberán presentarse dentro de los veinte días siguientes al corte del trimestre respectivo, y los anuales dentro de los veinte días siguientes al corte del segundo semestre del año de acuerdo a lo que disponga el Reglamento respectivo
-
-Los derechos que les correspondan con motivo de su participación en los procesos electorales, se harán valer por conducto de los representantes del partido, o de los candidatos independientes, con los que hayan celebrado el acuerdo respectivo.
-
-La Comisión de Fiscalización, por conducto de su Unidad Técnica de Fiscalización, podrá realizar auditorías por sí, o a través de despachos contables de reconocido prestigio, que autorice el Pleno del Consejo
+(DEROGADO, P.O. 31 DE MAYO DE 2017)
 
 ## TÍTULO SÉPTIMO. De las Candidaturas Independientes
 
@@ -2879,9 +3005,11 @@ III. Declaratoria de quienes tendrán derecho a ser registrados como candidatos 
 
 Los interesados en obtener su registro como aspirantes a candidatos independientes, deberán presentar la solicitud respectiva ante el Consejo, en los plazos que se establezcan en la convocatoria respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 227.
 
-La convocatoria deberá publicarse oportunamente, en los medios de comunicación impresos de mayor circulación en la Entidad, y en la página de internet del Consejo, y contendrá al menos los siguientes elementos:
+La convocatoria deberá publicarse oportunamente en los medios de comunicación impresos de mayor circulación en la Entidad, y en la página de internet del Consejo, y contendrá al menos los siguientes elementos:
 
 I. El órgano que la expide;
 
@@ -2889,7 +3017,9 @@ II. Los cargos para los que se convoca;
 
 III. Los requisitos para que los ciudadanos emitan los respaldos a favor de los aspirantes; que, en ningún caso, excederán a los previstos en esta Ley;
 
-IV. El calendario que establezca fechas, horarios y domicilios en los cuales se deberán presentar las solicitudes de aspirantes y la comparecencia de los ciudadanos que acudan personalmente a manifestarle su apoyo;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+IV. El calendario que establezca fechas, horarios y domicilios en los cuales se deberán presentar las cédulas donde se establezca el apoyo que tengan los aspirantes, y que serán definidas por (sic) propio Consejo;
 
 V. La forma de llevar a cabo el cómputo de dichos respaldos, y
 
@@ -2937,7 +3067,9 @@ VIII. El programa de trabajo que promoverá en el ejercicio del cargo público q
 
 Recibidas las solicitudes de registro de aspirantes a candidaturas independientes por el Consejo, se verificará el cumplimiento de los requisitos señalados para cada cargo en la Constitución Local, así como en la presente Ley, y en los lineamientos que para tal efecto se hayan emitido.
 
-Si de la verificación realizada se advierte la omisión de uno o varios requisitos, el Consejo notificará personalmente al interesado o al representante designado, dentro de las veinticuatro horas siguientes, para que en un plazo igual subsane los requisitos omitidos. En caso de no cumplir con dicha prevención en tiempo o en forma, el Consejo desechará de plano la solicitud respectiva.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Si de la verificación realizada se advierte la omisión de uno o varios requisitos, el Consejo notificará personalmente al interesado o al representante designado, dentro de las cuarenta y ocho horas siguientes, para que en un plazo igual subsane los requisitos omitidos. En caso de no cumplir con dicha prevención en tiempo o en forma, el Consejo desechará de plano la solicitud respectiva.
 
 ###### ARTÍCULO 231.
 
@@ -2945,11 +3077,11 @@ El Pleno del Consejo deberá emitir los acuerdos definitivos relacionados con el
 
 Dichos acuerdos se notificarán a todos los interesados mediante publicación en los estrados y en la página de internet del Consejo, dentro de las veinticuatro horas siguientes a que hayan sido aprobados.
 
-(NOTA: EL 1 DE OCTUBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2014 Y SUS ACUMULADAS 64/2014 Y 80/2014, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE OCTUBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 232.
 
-La etapa de obtención del respaldo ciudadano para cualquier cargo al que se aspire, se realizará a partir del primero de diciembre del año anterior a la elección, de acuerdo a las fechas que determine el Consejo, SIN QUE PUEDA DURAR MÁS de 60 días para Gobernador, NI MÁS de 40 para diputados y ayuntamientos.
+La etapa de obtención del respaldo ciudadano para cualquier cargo al que se aspire, se realizará a partir del uno de diciembre del año anterior a la elección, de acuerdo a las fechas que determine el Consejo, sin que pueda durar más de sesenta días para Gobernador, ni más de cuarenta días para diputados y ayuntamientos.
 
 Durante este plazo, los aspirantes registrados podrán llevar a cabo acciones para obtener el respaldo de la ciudadanía y utilizar propaganda, cumpliendo los requisitos que establece esta Ley para obtener la declaratoria que le dará derecho a registrarse como candidato independiente y contender en la elección constitucional.
 
@@ -2959,7 +3091,9 @@ Las erogaciones que se efectúen durante la etapa de obtención del respaldo ciu
 
 Las erogaciones que se efectúen durante la etapa de obtención del respaldo ciudadano, no podrán exceder el tope que para tal efecto fije el Consejo, y que constituirá una cantidad equivalente al veinticinco por ciento del tope de gastos de campaña que se fije para la candidatura independiente de cada elección.
 
-Las manifestaciones de respaldo para cada uno de los aspirantes, según el tipo de cargo al que se aspire, se recibirán en los domicilios oficiales de las Comisiones Distritales, y Comités Municipales Electorales, una vez que queden debidamente instalados, y exclusivamente dentro de la etapa de obtención del respaldo de que se trate.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Las manifestaciones de respaldo ciudadano a favor del aspirante a candidato independiente, según el tipo de cargo al que se aspire, deberán presentarse en los formatos previamente autorizados por el Consejo y dentro del plazo legal y en el lugar que al efecto se establezca en la convocatoria.
 
 ###### ARTÍCULO 233.
 
@@ -2985,7 +3119,7 @@ II. Abstenerse de utilizar en su propaganda cualquier alusión a la vida privada
 
 III. Respetar los topes de gastos para la etapa de obtención del respaldo ciudadano, en los términos que establece la presente Ley;
 
-IV. Insertar en su propaganda de manera visible la leyenda: “aspirante a candidato independiente”;
+IV. Insertar en su propaganda de manera visible la leyenda: "aspirante a candidato independiente";
 
 V. Abstenerse de hacer uso de bienes públicos para la obtención de financiamiento, o en apoyo a la realización de cualquier acto de obtención de respaldo ciudadano;
 
@@ -2995,23 +3129,29 @@ VII. Abstenerse de recibir recursos económicos de los partidos políticos y los
 
 VIII. Abstenerse de realizar actos de presión o coacción para obtener el respaldo ciudadano;
 
-IX. Retirar la propaganda utilizada una vez finalizada la etapa de obtención del respaldo ciudadano, dentro de los plazos y términos establecidos por el artículo 346 de esta Ley, y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-X. Las demás que establezcan esta Ley, y los ordenamientos electorales.
+IX. Retirar la propaganda utilizada una vez finalizada la etapa de obtención del respaldo ciudadano, dentro de los plazos y términos establecidos por el artículo 346 de esta Ley;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+X. Presentar los formatos de respaldos ciudadanos a favor del aspirante a candidato independiente ordenados en forma alfabética, tanto en medio impreso y magnético, así como presentarlo dentro del término legal, y en el lugar que al efecto se establezca en la convocatoria, y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+XI. Las demás que establezcan esta Ley, y los ordenamientos electorales.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
 ###### ARTÍCULO 235.
 
-Los ciudadanos que decidan apoyar a un determinado aspirante a candidato independiente, deberán comparecer personalmente en los domicilios oficiales de las Comisiones Distritales, o Comités Municipales Electorales, con su credencial para votar vigente, y atender a las siguientes reglas:
+Los ciudadanos que decidan apoyar a un determinado aspirante a candidato independiente deberán cumplir con lo siguiente:
 
-I. Las manifestaciones de respaldo se requisitarán en el momento de su entrega en el formato correspondiente, que para tal efecto apruebe el Pleno del Consejo, y contendrán la firma o huella del ciudadano directamente interesado, debiendo anexarse a la misma la copia por ambos lados de su credencial para votar con fotografía;
+I. Hacer la manifestación de respaldo, la que se requisitará en el momento de su entrega en el formato correspondiente, que para tal efecto apruebe el Pleno del Consejo, y contendrán la firma o huella del ciudadano directamente interesado, debiendo anexarse a la misma la copia por ambos lados de su credencial para votar con fotografia;
 
-II. La recepción de las manifestaciones se hará ante la presencia de los funcionarios electorales que al efecto se designen, y de los representantes que, en su caso, designen los partidos políticos, coaliciones o alianzas partidarias y aquéllos que los propios aspirantes decidan acreditar;
+II. La recepción de las manifestaciones se hará ante la presencia de los funcionarios electorales que al efecto se designen, y de los representantes que, en su caso, designen los partidos politicos, coaliciones o alianzas partidarias, y aquellos que los propios aspirantes decidan acreditar, sin que se requiera la comparecencia personal del ciudadano que exprese su apoyo a un determinado aspirante a candidato independiente, y
 
-III. Las manifestaciones de respaldo para aspirantes a candidatos a Gobernador serán presentadas en las sedes de las Comisiones Distritales Electorales y/o Comités Municipales Electorales que conformen el distrito que correspondan al domicilio de los ciudadanos que decidan manifestar su apoyo;
-
-IV. Las manifestaciones de respaldo para aspirantes a candidatos a diputados serán presentadas en la sede de la Comisión Distrital Electoral y/o Comités Municipales Electorales que conformen el distrito que corresponda a la demarcación por la que se pretenda competir, y exclusivamente por ciudadanos con domicilio en esa demarcación territorial, y
-
-V. Las manifestaciones de apoyo para aspirantes a los ayuntamientos serán presentadas en la sede del Comité Municipal Electoral que corresponda a la demarcación por la que se pretenda competir, y exclusivamente por los ciudadanos con domicilio en el municipio de que se trate.
+III. Las manifestaciones de respaldo para aspirantes a candidatos a Gobernador, diputados y ayuntamientos serán presentadas en la sede del Consejo Estatal Electoral de (sic) y de Participación Ciudadana.
 
 En la convocatoria correspondiente se establecerán los lineamientos para la adecuada recepción de las manifestaciones de respaldo.
 
@@ -3063,7 +3203,9 @@ Para obtener su registro, los ciudadanos que hayan sido seleccionados como candi
 
 El ciudadanos (sic) que haya obtenido el derecho a registrarse como candidato independiente a Gobernador del Estado, deberá:
 
-I. Presentar ante el Consejo su solicitud de registro, por triplicado y firmada por el candidato, misma que deberá contener los siguientes datos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
+I. Presentar ante el Consejo su solicitud de registro en el formato que para tal efecto emita el Consejo, por triplicado y firmada por el candidato; el formato deberá contener por lo menos los siguientes datos:
 
 a) Cargo para el que se postula.
 
@@ -3077,7 +3219,9 @@ e) Señalar los colores y, en su caso, emblema que pretenda utilizar en su propa
 
 f) El nombramiento de un representante, y un responsable de la administración de los recursos financieros, y de la presentación de los informes de campaña a que se refiere esta Ley, y
 
-II. A la solicitud de registro se deberán anexar los documentos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
+II. Asimismo, presentará en el formato que para tal efecto emita el Consejo, las siguientes manifestaciones, las que hará bajo protesta de decir verdad:
 
 a) Manifestación por escrito, bajo protesta de decir verdad, de:
 
@@ -3099,11 +3243,17 @@ a) Manifestación por escrito, bajo protesta de decir verdad, de:
 
 9. No encontrarse en alguno de los supuestos de prohibición para ser candidato, en los términos que establece la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Asimismo, deberá anexar copia por ambos lados de su credencial para votar vigente.
+
 ###### ARTÍCULO 242.
 
 El ciudadano que haya obtenido el derecho a registrarse como candidato independiente a diputado de mayoría relativa, deberá:
 
-I. Presentar ante la Comisión Distrital Electoral que corresponda, solicitud de registro de fórmula de diputados por el principio de mayoría relativa, integrada por el candidato independiente como propietario, y debiendo señalar un suplente, el que deberá ser del mismo género del propietario en términos de lo dispuesto por los artículos 293 y 296 de esta Ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
+I. Presentar ante la Comisión Distrital Electoral que corresponda, solicitud de registro de fórmula de diputados por el principio de mayoria relativa en el formato que para tal efecto emita el Consejo, integrada por el candidato independiente como propietario, y debiendo señalar un suplente, el que deberá ser del mismo género del propietario en terminos de lo dispuesto por los articulos 293 y 296 de esta Ley.
 
 La solicitud se presentará por triplicado y será firmada por el candidato propietario, y suplente; la que deberá contener los siguientes datos:
 
@@ -3120,6 +3270,10 @@ e) Ratificación por parte del candidato, propietario, y suplente, del programa 
 f) Señalar los colores y, en su caso, emblema que pretenda utilizar en su propaganda electoral, los cuales no podrán ser iguales o semejantes a los utilizados por los partidos políticos ya existentes, a los colores instituciones (sic) del Consejo, ni a los que éste apruebe para la impresión de las boletas electorales.
 
 g) El nombramiento de un representante, y un responsable de la administración de los recursos financieros y de la presentación de los informes de campaña a que se refiere esta Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Asimismo, deberán anexar copia por ambos lados de sus credenciales para votar vigentes.
 
 II. A la solicitud de registro se deberán anexar los documentos referidos en el artículo 304 de esta Ley por cada uno de los candidatos;
 
@@ -3139,7 +3293,9 @@ e) Manifestación por escrito, bajo protesta de decir verdad, de que cumple con 
 
 El ciudadano que haya obtenido el derecho a registrarse como candidato independiente a presidente municipal, deberá:
 
-I. Presentar solicitud de registro de planilla de mayoría relativa, y lista de regidores por el principio de representación proporcional, ante el Comité Municipal Electoral respectivo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
+I. Presentar solicitud de registro de planilla de mayoría relativa, y lista de regidores por el principio de representación proporcional, ante el Comité Municipal Electoral respectivo, en el formato que para tal efecto emita el Consejo.
 
 La planilla de mayoría relativa se registrará con los nombres de quienes se proponen a los cargos de presidente municipal, que es el candidato independiente; primer regidor propietario, y uno o dos síndicos, según corresponda. Por cada regidor y síndico propietarios se registrará un suplente. Los candidatos a regidores de representación proporcional se presentarán en una lista en orden ascendente en el número que al efecto señala el artículo 13 de la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí;
 
@@ -3603,6 +3759,24 @@ Dentro de los plazos comprendidos del quince al veintiuno de marzo del año de l
 
 En la elección de ayuntamientos, el registro de planillas de mayoría, y lista de candidatos a regidores de representación proporcional, y las listas de candidatos a diputados de representación proporcional, quedará abierto del veintiuno al veintisiete de marzo del año de la elección.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO 289 Bis.
+
+Posterior al plazo señalado en los artículos anteriores según corresponda, en los cinco días siguientes, el Secretario Ejecutivo procederá de la siguiente manera:
+
+I. Realizará la primera verificación de lo relativo a la paridad de género en las planillas que presenten los partidos políticos;
+
+II. Si de la revisión se desprende que existe alguna violación en las listas de registro, relativa a la paridad de género, el Secretario Ejecutivo requerirá al partido político omiso para que en término de setenta y dos horas subsane la falta;
+
+III. El Secretario Ejecutivo procederá a realizar la segunda y última revisión correspondiente a los requerimientos que derivaron de la primera a cada partido político sobre la paridad de género, y si detecta que algún partido político continúa en falta, lo requerirá nuevamente para que en un plazo no mayor de veinticuatro horas subsane la falta. En el caso de que el partido político no hubiera dado cumplimiento con los diversos requerimientos dentro de los plazos establecidos, el Consejo negará el registro respectivo;
+
+IV. Dentro de los diez días siguientes al fenecimiento del plazo que antecede, el Secretario Ejecutivo presentará al Pleno del Consejo los dictámenes respectivos por partido político sobre la paridad de género;
+
+V. Una vez aprobados los dictámenes relativos a la paridad de género, el Consejo notificará a los partidos políticos dentro de las siguientes cuarenta y ocho horas, a través de las Comisiones Distritales y los Comités Municipales Electorales, y
+
+VI. Vencido el plazo señalado en el artículo anterior, las Comisiones Distritales y los Comités Municipales Electorales, según corresponda, revisarán los requisitos de elegibilidad señalados en la presente Ley, y procederán a pronunciarse sobre el registro de los candidatos según su competencia.
+
 ###### ARTÍCULO 290.
 
 El Pleno del Consejo podrá realizar ajustes a los plazos establecidos en los artículos 287, 288 y 289 a fin de garantizar los plazos de registro y que la duración de las campañas electorales se ciña a lo establecido por esta Ley.
@@ -3683,7 +3857,13 @@ IV. Tratándose de solicitudes de registro de candidatos a diputados por mayorí
 
 V. Para el caso de solicitudes de registro de candidatos a miembros de los ayuntamientos que busquen reelegirse en sus cargos, deberá especificarse así mismo cuáles de los integrantes, ya sea de la planilla de mayoría relativa o de la lista de representación proporcional, están optando por reelegirse en sus cargos. En el caso de candidatos suplentes, se deberán especificar los periodos en que han resultado electos, y si entraron o no en funciones;
 
-VI. Manifestación por escrito del partido político postulante, de que los candidatos cuyo registro solicita, fueron seleccionados de conformidad con las normas estatutarias del propio partido político.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VI. Manifestación por escrito del partido politico postulante, de que los candidatos cuyo registro solicita, fueron seleccionados de conformidad con las normas estatutarias del propio partido politico, y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+
+VII. En el caso de que algún candidato opte por la reelección, deberá manifestar mediante escrito libre, y bajo protesta de decir verdad, el número de veces que ha sido reelecto para ocupar el cargo para el cual se está postulando, y el partido que lo propuso; observando en todo momento lo señalado en las fracciones V y VI de este artículo, según corresponda.
 
 ###### ARTÍCULO 304.
 
@@ -3728,6 +3908,10 @@ IX. El partido político solicitante deberá anexar así mismo, la copia certifi
 ###### ARTÍCULO 305.
 
 Tratándose de la solicitud de registro de planillas de mayoría, y listas de candidatos a regidores de representación proporcional en la elección de ayuntamientos, para que sea procedente su registro ante el Comité Municipal Electoral o, en su caso, ante el Consejo, es requisito indispensable para el partido postulante, que integre en las mismas al menos el cincuenta por ciento de candidatos propietarios y suplentes a que refiere el artículo 13 de la Ley Orgánica del Municipio Libre.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Además, los partidos políticos, alianzas o coaliciones deberán proponer en sus listas de candidatos a regidores de representación proporcional en la elección de ayuntamientos, por lo menos el veinte por ciento de ciudadanos jóvenes menores de 29 años de edad, cumplidos el día de la designación.
 
 ###### ARTÍCULO 306.
 
@@ -3799,9 +3983,29 @@ El organismo electoral respectivo, una vez recibidas las solicitudes de sustituc
 
 Si se trata de solicitudes de sustitución presentadas una vez que el organismo electoral respectivo se pronunció sobre el registro de candidatos, el Consejo resolverá sobre las sustituciones solicitadas en la siguiente sesión que celebre. Si procede la sustitución, deberá comunicarlo de inmediato al organismo electoral respectivo.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 315.
 
-La negativa de registro o sustitución de una candidatura sólo podrá ser recurrida por el partido político, o candidato independiente que lo haya solicitado, mediante los medios de impugnación que establece la Ley del Sistema de Medios de Impugnación.
+La negativa de registro o sustitución de una candidatura sólo podrá ser recurrida por el partido político, o candidato independiente que lo haya solicitado, mediante los medios de impugnación que establece la Ley de Justicia Electoral del Estado de San Luis Potosí.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO 315 Bis.
+
+Para el caso de los diputados que busquen la reelección sólo podrán ser postulados por el mismo principio por el cual fueron electos.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO 315 Ter.
+
+Los integrantes de los ayuntamientos, presidente municipal, regidores por el principio de mayoría relativa y los síndicos, que busquen la reelección, sólo podrán ser postulados por el mismo cargo por el que obtuvieron su constancia de mayoría en la elección inmediata anterior, y dicha solicitud deberá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Los regidores de representación proporcional que pretendan la reelección, podrán ser postulados para el mismo cargo de representación proporcional, por el partido político que los registró.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO 315 Quáter.
+
+Las solicitudes de registro de los candidatos a diputados e integración de planillas de mayoría relativa de ayuntamientos que busquen la reelección, deberán presentarse en fórmulas de propietarios y suplentes del mismo género; y tratándose de listas, deberán garantizar la paridad y alternancia de géneros.
 
 ### Capítulo IV. Del Registro de Representantes
 
@@ -4135,7 +4339,9 @@ A las precampañas y a los precandidatos que en ellas participen les serán apli
 
 El Consejo vigilará los procesos internos de selección de candidatos a cargos de elección popular y las precampañas, de conformidad con lo establecido en esta Ley.
 
-Los partidos políticos, precandidatos y simpatizantes están obligados a retirar su propaganda electoral de precampaña ocho días después de su conclusión. De no retirarse, el Consejo tomará las medidas necesarias para su retiro con cargo a la ministración del financiamiento público que corresponda al partido, además de la imposición de la sanción de hasta doscientas veces el salario mínimo vigente en la capital del Estado, y podrá tomar las medidas conducentes.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Los partidos políticos, precandidatos y simpatizantes están obligados a retirar su propaganda electoral de precampaña veinte días después de su conclusión. De no retirarse, el Consejo tomará las medidas necesarias para su retiro con cargo a la ministración del financiamiento público que corresponda al partido, además de la imposición de la sanción de hasta doscientas veces de la Unidad de Medida y Actualización vigente, y podrá tomar las medidas conducentes.
 
 Durante los procesos de precampaña, en la colocación de propaganda electoral, los partidos y candidatos observarán las reglas planteadas en las fracciones I a VI del artículo 356 de esta Ley.
 
@@ -4152,6 +4358,50 @@ La propaganda electoral, como las actividades de campaña a que se refiere el pr
 PARA LOS EFECTOS DE LO DISPUESTO POR EL PÁRRAFO OCTAVO DEL ARTÍCULO 134 DE LA CONSTITUCIÓN FEDERAL, EL INFORME ANUAL DE LABORES O GESTIÓN DE LOS SERVIDORES PÚBLICOS, ASÍ COMO LOS MENSAJES QUE PARA DARLOS A CONOCER SE DIFUNDAN EN LOS MEDIOS DE COMUNICACIÓN SOCIAL, NO SERÁN CONSIDERADOS COMO PROPAGANDA, SIEMPRE QUE LA DIFUSIÓN SE LIMITE A UNA VEZ AL AÑO EN ESTACIONES Y CANALES CON COBERTURA REGIONAL CORRESPONDIENTE AL ÁMBITO GEOGRÁFICO DE RESPONSABILIDAD DEL SERVIDOR PÚBLICO, Y NO EXCEDA DE LOS SIETE DÍAS ANTERIORES Y CINCO POSTERIORES A LA FECHA EN QUE SE RINDA EL INFORME. EN NINGÚN CASO LA DIFUSIÓN DE TALES INFORMES PODRÁ TENER FINES ELECTORALES, NI REALIZARSE DENTRO DEL PERIODO DE CAMPAÑA ELECTORAL.
 
 Tratándose de propaganda en radio y televisión, ésta sólo podrá realizarse dentro de los espacios que al efecto designe (sic) Instituto Nacional Electoral, de conformidad con el convenio celebrado con el Consejo.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO 347 Bis.
+
+Desde el inicio de las campañas electorales, y hasta la conclusión de la jornada electoral, las autoridades estatales y municipales suspenderán las campañas publicitarias de todos aquellos programas, acciones gubernamentales, obras o logros de gobierno, así como la realización de eventos organizados y auspiciados con recursos públicos o privados en los que tenga intervención alguna entidad de gobierno, en el ámbito federal, estatal o municipal.
+
+Deberá suprimirse o retirarse toda propaganda gubernamental de publicidad exterior o circulación de cualquier medio impreso tanto de los poderes estatales y municipales, así como de los órganos de gobierno del Estado, y cualquier otro ente público.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO 347 Ter.
+
+Las únicas excepciones a lo señalado en el artículo anterior, serán las campañas de información que las autoridades electorales o administrativas, hagan en relación a los servicios de salud, y educación, así como las necesarias en materia de protección civil en casos de emergencia, y aquella intervención de servidores públicos en actos relacionados o con motivo de las funciones inherentes a su cargo, siempre y cuando no se difundan mensajes que impliquen la pretensión de ocupar un cargo de elección popular, la intención de obtener el voto, de favorecer o perjudicar a un partido político, candidato, o que de alguna manera los vincule a los procesos electorales.
+
+Para efectos de lo dispuesto en el párrafo anterior, los mensajes informativos dirigidos a la población durante el período de restricción deberán cumplir con los siguientes parámetros:
+
+I. No deberán incluir el nombre, ni la imagen de ningún servidor público, ni contener colores, emblemas, imágenes, símbolos, lemas, logos o frases que los vinculen con algún partido político;
+
+II. No deberán referir programas, acciones, obras o logros de gobierno, y
+
+III. El contenido de los mensajes deberá estar justificado en el contexto de los hechos particulares que motivan su difusión.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+###### ARTÍCULO 347 Quáter.
+
+Será considerada promoción personalizada contraria a esta Ley, la propaganda gubernamental que desde el inicio de las precampañas, y hasta la conclusión de la jornada electoral, se difunda a través de prensa, mantas, bardas, anuncios espectaculares, eventos gubernamentales, volantes, u otros medios de comunicación, distintas a los medios de radio y televisión, que contenga alguno de los elementos siguientes:
+
+I. Promocionen, implícita o explícitamente, a un servidor público, precandidato o candidato con fines político-electorales;
+
+II. Destaque elementos de un servidor público, precandidato o candidato como su nombre, imagen, silueta, fotografía, frases alusivas a su persona o se pueda asociar con su nombre o apellidos, voz, cualidades o calidades personales, logros políticos y económicos, partido de militancia, creencias religiosas, antecedentes familiares o sociales;
+
+III. Asocie logros de gobierno con el servidor público, candidato, o precandidato más que con la institución;
+
+IV. Utilice expresiones vinculadas con el sufragio, difundiendo mensajes tendentes a la obtención del voto, o mencione o aluda la pretensión de ser precandidato, candidato o candidato independiente a un cargo de elección popular o cualquier referencia a los procesos de selección interna o electorales;
+
+V. Contenga expresiones como “voto”, “vota”, “votar”, “sufragio”, “sufragar”, “comicios”, “elección”, “elegir”, “proceso electoral” y cualquier otra similar vinculada con las distintas etapas del proceso electoral, o
+
+VI. Utilice colores, emblemas, símbolos, lemas, logos o cualquier otro elemento que relacione a los servidores públicos con algún partido político, coalición, candidato, precandidato, candidato independiente o proceso electoral.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+ARTÍCULO 347 Quinque. Queda prohibida la utilización de programas sociales y de sus recursos, así como de los privados del ámbito federal, estatal o municipal, así como de los recursos de procedencia privada con la finalidad de inducir o coaccionar por cualquier medio a los ciudadanos para votar a favor o en contra de cualquier partido político, precandidato o candidato. Asimismo, los partidos políticos, coaliciones y candidatos, no podrán adjudicarse o utilizar en beneficio propio la realización de obras públicas, privadas o programas de gobierno. La violación a esta prohibición será causal de nulidad de la elección, cuando sea determinante para el resultado de la misma.
 
 ###### ARTÍCULO 348.
 
@@ -4237,11 +4487,17 @@ Los bastidores y mamparas de uso común serán repartidos por sorteo en forma eq
 
 Las comisiones distritales, y los comités municipales dentro del ámbito de su competencia, harán cumplir estas disposiciones y adoptarán las medidas a que hubiere lugar, con el fin de asegurar a partidos y candidatos el pleno ejercicio de sus derechos, y garantizar el cumplimiento de sus obligaciones en la materia.
 
-La propaganda electoral, una vez terminadas las campañas que realicen los partidos políticos, y candidatos independientes, deberá ser retirada por los mismos, dentro de los ocho días siguientes a la conclusión de la jornada electoral
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+
+La propaganda electoral, una vez terminadas las campañas que realicen los partidos políticos, y candidatos independientes, deberá ser retirada por los mismos, dentro de los veinte días siguientes a la conclusión de la jornada electoral.
 
 Sin perjuicio de las sanciones que corresponde aplicar, dado el incumplimiento de lo dispuesto por este artículo, la autoridad electoral, por sí misma, o solicitándolo al ayuntamiento respectivo, podrá proceder al retiro de la propaganda en cuestión, con cargo a las prerrogativas de financiamiento público pendientes de ejercer, del partido o partidos políticos que corresponda. Tratándose de candidatos independientes, se estará a lo dispuesto por el Título Décimo Cuarto y a los artículos 454 y 467 de esta Ley. Para lo anterior, el Pleno del Consejo deberá establecer el procedimiento respectivo, y los funcionarios o autoridades que estarán a cargo del retiro de la propaganda correspondiente.
 
 Ninguna persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar o adquirir propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+
+Durante todo el tiempo que duren los procesos electorales, está prohíbido el uso de todo tipo de publicidad o propaganda relacionada con partidos políticos o candidatos, tanto en exterior como en el interior de los vehículos destinados al servicio de transporte público, y en los servicios auxiliares del mismo.
 
 ###### ARTÍCULO 357.
 
@@ -5237,7 +5493,9 @@ Dentro de los procesos electorales, la Secretaría Ejecutiva, por sí o a travé
 
 I. Violen lo establecido en la Base III del artículo 41, o en el párrafo octavo del artículo 134, ambos de la Constitución Federal;
 
-II. Contravengan las normas sobre propaganda política o electoral, establecidas para los partidos políticos en esta Ley, o
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+II. Contravengan las normas sobre propaganda política o electoral, establecidas en esta Ley para los partidos políticos, candidatos y autoridades en los tres ámbitos de gobierno, o
 
 III. Constituyan actos anticipados de obtención de apoyo ciudadano, de precampaña o campaña.
 
@@ -5547,7 +5805,9 @@ Las infracciones establecidas por el artículo 453 de esta Ley en que incurran l
 
 I. Con amonestación pública;
 
-II. Con multa de cien hasta diez mil días de salario mínimo general vigente para el Estado, según la gravedad de la falta. Tratándose de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, con un tanto igual al del monto ejercido en exceso, siempre que éste último monto sea mayor al límite máximo de la sanción a que se refiere esta fracción. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+II. Con multa de cien hasta diez mil Unidades de Medida y Actualización vigente, según la gravedad de la falta. Tratándose de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, con un tanto igual al del monto ejercido en exceso, siempre que éste último monto sea mayor al límite máximo de la sanción a que se refiere esta fracción. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
 
 III. Con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, según la gravedad de la falta, por el periodo que señale la resolución respectiva;
 
@@ -5559,7 +5819,9 @@ Las infracciones en que incurran los aspirantes a candidatos independientes, o l
 
 I. Con amonestación pública;
 
-II. Con multa de cincuenta hasta cinco mil días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+II. Con multa de cincuenta hasta cinco mil Unidades de Medida y Actualización vigente;
 
 III. Negación o, en su caso, cancelación del registro como candidato independiente, y
 
@@ -5573,7 +5835,9 @@ Las infracciones en que incurran las agrupaciones políticas estatales, serán s
 
 I. Con amonestación pública;
 
-II. Con multa de cien hasta diez mil días de salario mínimo general vigente para el Estado, según la gravedad de la falta, y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+II. Con multa de cien hasta diez mil Unidades de Medida y Actualización vigente, según la gravedad de la falta, y
 
 III. Con la suspensión o cancelación de su registro, que en el primer caso no podrá ser menor a seis meses.
 
@@ -5583,7 +5847,9 @@ Las infracciones establecidas en que incurran los aspirantes, precandidatos o ca
 
 I. Con amonestación pública;
 
-II. Con multa de cincuenta hasta cinco mil días de salario mínimo general vigente para el Estado, y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+II. Con multa de cincuenta hasta cinco mil Unidades de Medida y Actualización vigente, y
 
 III. Con la pérdida del derecho del aspirante o precandidato infractor a ser registrado como candidato o, en su caso, si ya está hecho el registro, con la cancelación del mismo. En caso de infracciones cometidas por aspirantes o precandidatos a cargos de elección popular, cuando sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato.
 
@@ -5593,11 +5859,17 @@ Las infracciones establecidas en que incurran los ciudadanos, los dirigentes y a
 
 I. Con amonestación pública;
 
-II. Respecto de los ciudadanos, o de los dirigentes y afiliados a los partidos políticos: con multa de veinte hasta quinientos días de salario mínimo general vigente para el Estado;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
-III. Respecto de las personas morales, con multa de cincuenta hasta diez mil días de salario mínimo general vigente para el Estado, y
+II. Respecto de los ciudadanos, o de los dirigentes y afiliados a los partidos políticos: con multa de veinte hasta quinientas Unidades de Medida y Actualización vigente;
 
-IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o cualquier persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta dos mil días de salario mínimo general vigente para el Estado, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+III. Respecto de las personas morales, con multa de cincuenta hasta diez mil Unidades de Medida y Actualización vigente, y
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o cualquier persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta dos mil Unidades de Medida y Actualización vigente, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra, y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
 
 ###### ARTÍCULO 471.
 
@@ -5607,7 +5879,9 @@ I. Con amonestación pública;
 
 II. Con la cancelación inmediata de la acreditación como observadores electorales, y la inhabilitación para acreditarlos como tales en al menos dos procesos electorales, y
 
-III. Con multa de veinte hasta quinientos días de salario mínimo general vigente para el Estado, tratándose de las organizaciones a las que pertenezcan los observadores electorales.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+III. Con multa de veinte hasta quinientas Unidades de Medida y Actualización vigente, tratándose de las organizaciones a las que pertenezcan los observadores electorales.
 
 ###### ARTÍCULO 472.
 
@@ -5615,7 +5889,9 @@ Las infracciones establecidas en que incurran las organizaciones de ciudadanos q
 
 I. Con amonestación pública;
 
-II. Con multa de cincuenta hasta cinco mil días de salario mínimo general vigente para el Estado, según la gravedad de la falta, y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+II. Con multa de cincuenta hasta cinco mil Unidades de Medida y Actualización vigente, según la gravedad de la falta, y
 
 III. Con la cancelación del procedimiento tendiente a obtener el registro como partido político estatal.
 
@@ -5625,7 +5901,9 @@ Las infracciones establecidas en que incurran las organizaciones sindicales, lab
 
 I. Con amonestación pública, y
 
-II. Con multa de cincuenta hasta cinco mil días de salario mínimo general vigente para el Estado, según la gravedad de la falta.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+II. Con multa de cincuenta hasta cinco mil Unidades de Medida y Actualización vigente, según la gravedad de la falta.
 
 ###### ARTÍCULO 474.
 
@@ -5637,7 +5915,9 @@ I. Conocida la infracción, el Secretario Ejecutivo por sí o por conducto del f
 
 II. El superior jerárquico a que se refiere el párrafo anterior, deberá comunicar al Consejo las medidas que haya adoptado en el caso, y
 
-III. Si la autoridad infractora no tuviese superior jerárquico, el requerimiento será turnado a la autoridad que resulte competente o, en su defecto, a la Auditoría Superior del Estado, a fin de que se proceda en los términos de las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+
+III. Si la autoridad infractora no tuviese superior jerárquico, el requerimiento será turnado a la autoridad que resulte competente, en su defecto, al Congreso del Estado, a fin de que se proceda en los términos de las disposiciones legales aplicables.
 
 Cuando las infracciones precisadas en el párrafo primero de este artículo sean cometidas por autoridades federales, el Consejo integrará el expediente respectivo, mismo que será remitido al superior jerárquico de la autoridad infractora, para que, de estimarlo conducente, proceda en los términos de ley.
 
@@ -5681,11 +5961,13 @@ Conforme a lo establecido por la Constitución del Estado, quienes habiendo sido
 
 Cuando los diputados electos no desempeñen su cargo por determinación de su partido político, el Consejo suspenderá la participación de éste hasta en dos elecciones y, en caso de reincidencia, cancelará el registro o inscripción de dicho partido político.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+
 ###### ARTÍCULO 482.
 
-Las multas que a los partidos políticos imponga el Consejo que no hubiesen sido recurridas, o que hayan sido confirmadas por el Tribunal Electoral, deberán ser pagadas ante el propio Consejo, en un plazo improrrogable de quince días contados a partir de la notificación.
+Las multas deberán ser pagadas ante el propio Consejo, en un plazo improrrogable de quince días contados a partir de la notificación; si el infractor no cumple con su obligación, el Consejo dará vista a la Secretaría de Finanzas a efecto de que procedan a su cobro conforme la legislación aplicable. En el caso de los partidos políticos, el monto de las mismas se restará de sus ministraciones de gasto ordinario sin que dicha deducción supere el veinte por ciento de sus aportaciones mensuales.
 
-Transcurrido el plazo sin que el pago se haya efectuado, el Consejo podrá deducir el monto de la multa de la siguiente ministración de financiamiento público que le corresponda al partido de que se trate.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
 
 ## TÍTULO DÉCIMO QUINTO. Del Servicio Profesional Electoral Nacional, y del Régimen Laboral de los Trabajadores del Consejo
 
@@ -5782,3 +6064,13 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0653.- REFORMAS Y ADICIONES A LA LEY ELECTORAL DEL ESTADO; SE REFORMA EL ARTÍCULO 14, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMA Y ADICIONA LA LEY DE JUSTICIA ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
