@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-instituciones-y-procedimientos-electorales-para-10160
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-30"
-last_updated: "2017-05-26"
+last_updated: "2017-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,21 +23,21 @@ state: "MOR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2017 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2017.
 
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE MAYO DE 2017.]</small>
+
 Código publicado en el Periódico Oficial del Estado de Morelos, el lunes 30 de junio de 2014.
 
-Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.- Poder Legislativo.- LII Legislatura. 2012-2015.
+Al margen izquierdo un Escudo del Estado de Morelos que dice: “Tierra y Libertad”.- La tierra volverá a quienes la trabajan con sus manos.- Poder Legislativo.- LII Legislatura. 2012-2015.
 
 GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
 
 Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
 
-LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:.
+LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:…
 
 Por lo anteriormente expuesto, esta Legislatura ha tenido a bien expedir el siguiente:
 
@@ -279,7 +279,7 @@ Para la asignación de diputados de representación proporcional se procederá c
 
 I. TENDRÁN DERECHO A PARTICIPAR EN LA ASIGNACIÓN DE DIPUTADOS DE REPRESENTACIÓN PROPORCIONAL, LOS PARTIDOS POLÍTICOS QUE HABIENDO REGISTRADO CANDIDATOS DE MAYORÍA RELATIVA EN CUANDO MENOS OCHO DISTRITOS UNINOMINALES, HAYAN ALCANZADO POR LO MENOS EL CINCO POR CIENTO DE LA VOTACIÓN ESTATAL EFECTIVA.
 
-Ningún partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura, que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta disposición no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento, en todo caso, deberá observarse que ningún partido político sobrepase de dieciocho diputados por ambos principios.
+Ningún partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura, que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta disposición no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento, en todo caso, deberá observarse que ningún partido político sobrepase de doce diputados por ambos principios.
 
 II. Para tal efecto se entenderá como votación estatal emitida; los votos depositados en las urnas, y votación estatal efectiva; la que resulte de deducir de la votación estatal emitida, los votos nulos, los de candidatos no registrados.
 
@@ -5937,7 +5937,9 @@ QUINTA. Por única ocasión, los plazos a los que hace referencia el artículo 1
 
 a) Para el registro de candidatura a Gobernador del estado, será del 20 al 24 de abril de 2018;
 
-b) Para el registro de candidaturas a Diputados del Congreso del Estado, será del 25 al 29 de abril de 2018, y
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2017)</small>
+
+b) Para el registro de candidaturas a Diputados del Congreso del Estado y miembros de los ayuntamientos, será del 25 al 29 de abril de 2018.
 
 c) Para el registro de la plataforma electoral por parte de los partidos políticos, será del 25 al 29 de abril de 2018.
 
