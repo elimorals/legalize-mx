@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2017-05-02"
+last_updated: "2017-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE JUNIO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -19548,7 +19548,9 @@ G.O. 1 DE FEBRERO DE 2017.
 
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
-SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación.
+> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2017)</small>
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1 de junio de 2017.
 
 TERCERO.- A las Unidades Administrativas de nueva creación, se les transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezca la Secretaría de Finanzas y la Oficialía Mayor.
 
@@ -19609,3 +19611,11 @@ NOVENO.- Para dar cumplimiento a las obligaciones en materia de transparencia se
 DÉCIMO.- Para la modificación de los Sistemas de Datos Personales, la Secretaría de Finanzas tendrá un plazo de 90 días naturales a partir de la transferencia de los mismos, a efecto de cumplir con la (sic) establecido en la Ley de Protección de Datos Personales del Distrito Federal y los Lineamientos para la Protección de Datos Personales del Distrito Federal, emitidos por el Instituto de Acceso a la Información Pública y Protección de Datos Personales.
 
 DÉCIMO PRIMERO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
+
+G.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE REFORMA EL TRANSITORIO SEGUNDO DEL DIVERSO POR (SIC) QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación.
