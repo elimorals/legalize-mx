@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2017-05-12"
+last_updated: "2017-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -91,6 +91,10 @@ XI. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estad
 
 XII. Tribunal: Tribunal Electoral del Estado de Michoacán.
 
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XIII. UMA: Unidad de Medida y Actualización.
+
 ### CAPÍTULO SEGUNDO. DERECHOS Y OBLIGACIONES DE LOS CIUDADANOS
 
 ###### ARTÍCULO 4.
@@ -111,23 +115,27 @@ Votar en las elecciones es una prerrogativa, que se suspende:
 
 I. Por falta de cumplimiento, sin causa justificada, de cualquiera de las obligaciones establecidas en el artículo 36 de la Constitución General;
 
-II. Por estar extinguiendo pena corporal;
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-III. Por ser declarado ebrio consuetudinario en los términos de la ley;
+II. Por pérdida de la nacionalidad mexicana por naturalización o pérdida de la ciudadanía mexicana, de acuerdo con las causales establecidas en el artículo 37 de la Constitución General;
 
-IV. Por estar sustraído a la acción de la justicia; y,
+III. Por estar extinguiendo pena corporal;
 
-V. Por condena en sentencia judicial que así lo disponga que haya causado ejecutoria.
+IV. Por ser declarado ebrio consuetudinario en los términos de la ley;
+
+V. Por estar sustraído a la acción de la justicia; y,
+
+VI. Por condena en sentencia judicial que así lo disponga que haya causado ejecutoria.
 
 Para ser electo se requiere no estar en ninguno de los supuestos anteriores.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 7.
 
 Es derecho exclusivo de los ciudadanos participar como observadores de los actos de preparación y desarrollo del proceso electoral, de todos los actos de la jornada electoral, que se realicen de conformidad con la legislación correspondiente, en la forma, términos y bases que determine la Ley General y demás normatividad aplicable.
 
-La observación electoral podrá realizarse en cualquier ámbito territorial de la entidad, pudiendo realizarse respecto de toda y cada una de las actividades de la jornada electoral, presentándose con los gafetes y acreditaciones que certifiquen la personalidad de observadores electorales, que haya expedido el órgano electoral correspondiente.
-
-El Instituto deberá integrar un padrón Estatal, de todos aquéllos ciudadanos que se les otorgue su acreditación como observadores electorales el cual se pondrá a la vista de los partidos políticos y de cualquier ciudadano que solicite información al respecto, proporcionando únicamente el nombre de la persona acreditada y el Consejo Electoral correspondiente, donde llevó a cabo su registro.
+La observación electoral podrá realizarse en cualquier ámbito territorial de la entidad, pudiendo realizarse respecto de toda y cada una de las actividades del proceso electoral, presentándose con los gafetes y acreditaciones que certifiquen la personalidad de observadores electorales, que haya expedido el órgano electoral correspondiente.
 
 ###### ARTÍCULO 8.
 
@@ -145,29 +153,25 @@ V. Ocupar los cargos de elección popular; y,
 
 VI. Las demás que señale este Código y otras disposiciones legales.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2017)</small>
+
 ### CAPÍTULO TERCERO. DERECHO DE RÉPLICA
 
 ###### ARTÍCULO 9.
 
-El derecho de réplica consiste en la implementación de medios de defensa jurídica en contra de la información falsa, injuriosa o denigrante que puedan publicar o difundir los medios de comunicación, ya sean escritos o electrónicos, sobre la difusión de un contenido periodístico determinado. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables.
-
-Todas las quejas relativas al derecho de réplica serán presentadas ante la Secretaría Ejecutiva del Instituto, la que instruirá el Procedimiento Especial Sancionador, para resolver con prontitud sobre la información que se pretende corregir, antes de que esta impacte en la opinión pública, cuando sea presentada dentro del proceso electoral.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 10.
 
-Es derecho de los partidos políticos o candidatos independientes, a través de sus dirigentes o representantes partidistas, así como de los propios candidatos el ejercicio del derecho de réplica en materia electoral.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 11.
 
-La determinación de la réplica no será unilateral, debe concurrir la conformidad del medio de comunicación y debe darse de forma inmediata posterior a la publicación que se considera falsa o denigrante. De no haberla, debe existir resolución del Consejo General que la determine, sin menoscabo de las sanciones administrativas correspondientes.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 12.
 
-Cuando alguno de los sujetos legitimados para el ejercicio del derecho de réplica considere que un medio de comunicación escrito o electrónico ha difundido información falsa, injuriosa o denigrante en su perjuicio, podrán solicitarle al medio de comunicación la rectificación de la información o el responder desde éste en la misma proporción y espacio a las alusiones que se hayan dirigido.
-
-Lo anterior, sin menoscabo de la interposición del procedimiento administrativo correspondiente que para tal efecto determina el presente Código.
-
-Todas las quejas serán presentadas ante la Secretaría Ejecutiva del Instituto, la que instruirá el procedimiento especial expedito a que se refiere este Código cuando sea presentada dentro del proceso electoral.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ## TÍTULO SEGUNDO. DE LA ELECCIÓN DE LOS ÓRGANOS DEL ESTADO
 
@@ -183,11 +187,15 @@ I. Los magistrados y secretarios del Tribunal; y,
 
 II. Los miembros con derecho a voto del Consejo General del Instituto.
 
-Los secretarios y vocales de los órganos electorales, así como los miembros con derecho a voto de los consejos electorales de comités distritales o municipales, no podrán ser postulados a cargos de elección popular en el proceso electoral para el que actúan.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Los directores ejecutivos del Instituto Electoral de Michoacán y los integrantes de los Órganos Desconcentrados de los consejos electorales de comités distritales o municipales, no podrán ser postulados a cargos de elección popular para el proceso electoral en el que actúan.
 
 A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral en el Estado y sus municipios, salvo el caso de los candidatos a diputados por el principio de mayoría relativa que sean a la vez candidatos a diputados de representación proporcional, o de regidores propuestos en las planillas para integrar los ayuntamientos, que serán a la vez candidatos a regidores por el principio de representación proporcional, de acuerdo con lo señalado en este Código.
 
-Tampoco podrá ser candidato para un cargo estatal o municipal de elección popular y simultáneamente para un cargo (sic) elección federal. En este supuesto, si el registro para el cargo de la elección estatal o municipal ya estuviere hecho, se procederá a la cancelación automática del registro respectivo.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Tampoco podrá ser candidato para un cargo estatal o municipal de elección popular y simultáneamente para un cargo de elección federal. En este supuesto, si el registro para el cargo de la elección estatal o municipal ya estuviere hecho, se procederá a la cancelación automática del registro respectivo.
 
 ###### ARTÍCULO 14.
 
@@ -217,7 +225,13 @@ El Congreso convocará a elecciones extraordinarias de gobernador y diputados po
 
 Para las elecciones extraordinarias de Gobernador, de diputados o de ayuntamientos se estará a lo que dispone la Constitución Local, este Código y demás leyes aplicables, debiéndose celebrar a más tardar ciento cincuenta días después de expedida la convocatoria respectiva.
 
-Las vacantes definitivas de diputaciones y de regidurías de representación proporcional, serán cubiertas por acuerdo del Congreso con quienes sigan en la lista plurinominal o planilla que hubiese presentado el mismo partido.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Las vacantes de diputaciones y de regidurías de representación proporcional, serán cubiertas por acuerdo del Congreso con quienes integren la lista plurinominal o planilla que hubiese presentado el mismo partido respetando el orden de prelación de la lista, para lo cual contará con un término hasta de treinta días naturales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
+
+En el caso de elección consecutiva en donde el suplente no asuma el cargo se atenderá a lo dispuesto en el párrafo anterior.
 
 Las vacantes de Presidente Municipal, síndico y regidores de mayoría relativa, generadas por inelegibilidad de las respectivas fórmulas de candidatos, se cubrirán por el Congreso, de acuerdo a lo establecido en el artículo 44 fracción XX de la Constitución Local.
 
@@ -225,17 +239,41 @@ La convocatoria expedida para la celebración de elecciones extraordinarias, no 
 
 Los ciudadanos que resulten electos entrarán a ejercer su cargo a más tardar cuarenta y cinco días después de la elección.
 
-### CAPÍTULO SEGUNDO. DE LA ELECCIÓN DE (SIC) PODER LEGISLATIVO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO SEGUNDO. DE LA ELECCIÓN DEL PODER LEGISLATIVO
 
 ###### ARTÍCULO 19.
 
 El Poder Legislativo se renovará cada tres años, debiendo celebrarse la elección en la fecha dispuesta por la Constitución Local.
 
-Para la elección de diputados se dividirá el territorio del Estado en veinticuatro distritos electorales, en cada uno de los cuales se elegirá un diputado por el principio de mayoría relativa. Con base en los resultados de la votación estatal válida se elegirán dieciséis diputados por el principio de representación proporcional.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Para la elección de diputados se dividirá el territorio del Estado en veinticuatro distritos electores, en cada uno de los cuales se elegirá un diputado por el principio de mayoría relativa. Con base en los resultados de la votación estatal válida emitida se elegirán dieciséis diputados por el principio de representación proporcional.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
+
+Los diputados podrán ser electos de manera consecutiva para el mismo cargo hasta por cuatro periodos, en los términos que establecen la Constitución General y la Constitución Local.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
+
+Para participar en una elección consecutiva, los diputados que representen a un partido político deberán haber sido electos en los procesos internos correspondientes. En el caso de los de origen independiente solo se ajustarán a lo establecido en el siguiente párrafo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
+
+Los diputados que aspiren a participar en una elección consecutiva, están obligados a separarse de su encargo noventa días naturales previos al día de la elección, y no le serán exigibles las firmas de respaldo ciudadano para obtener su registro como candidato.
+
+(REUBICADO, P.O. 1 DE JUNIO DE 2017)
 
 Por cada Diputado propietario se elegirá un suplente.
 
-### CAPÍTULO TERCERO. DE LA ELECCIÓN DE (SIC) PODER EJECUTIVO
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
+
+Para efectos de la elección consecutiva a los suplentes se les contabilizará el periodo en caso de entrar en funciones.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO TERCERO. DE LA ELECCIÓN DEL PODER EJECUTIVO
 
 ###### ARTÍCULO 20.
 
@@ -248,6 +286,22 @@ El Poder Ejecutivo se renovará cada seis años. La elección para renovarlo se 
 Los ayuntamientos se renovarán cada tres años.
 
 La elección para renovarlos se realizará en la fecha dispuesta por la Constitución Local.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
+
+Los integrantes de los ayuntamientos podrán participar en la elección consecutiva, para el mismo cargo, de forma individual o conjunta por un periodo adicional, en los términos que establecen la Constitución Federal y la Constitución Local.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
+
+Para efectos de la elección consecutiva a los suplentes de síndicos y regidores que entren en funciones se les contabilizará el período respectivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
+
+Para acceder a una elección consecutiva, los presidentes municipales, síndicos o regidores que representen a un partido político, deberán haber sido electos en los procesos internos correspondientes. En el caso de los de origen independiente solo se ajustarán a lo establecido en el siguiente párrafo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
+
+Los presidentes municipales, síndicos o regidores que aspiren a participar a una elección consecutiva, están obligados a separarse de su encargo noventa días naturales previos al día de la elección y no le serán exigibles las firmas de respaldo ciudadano para obtener su registro como candidato.
 
 # LIBRO SEGUNDO. ÓRGANOS ELECTORALES
 
@@ -265,9 +319,11 @@ Las personas físicas y morales que con motivo de sus actividades, cuenten con i
 
 Las resoluciones de los órganos electorales del Instituto se tomarán por mayoría de votos, salvo las excepciones señaladas en este Código. En caso de empate se someterá a nueva votación, de persistir, el presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 24.
 
-Los servidores públicos de los órganos electorales desempeñarán su función con autonomía y probidad, no podrán utilizar la información reservada o confidencial de que dispongan en razón de su cargo, salvo para el estricto ejercicio de sus funciones, ni divulgarla por cualquier medio.
+Los servidores públicos de los órganos electorales desempeñarán su función con autonomía y probidad, no podrán utilizar la información reservada o confidencial de que dispongan en razón de su cargo, salvo para el estricto ejercicio de sus funciones, ni divulgarla por cualquier medio, apegándose a lo establecido en la legislación que regule la transparencia, acceso a la información pública y protección de datos personales atinente.
 
 ###### ARTÍCULO 25.
 
@@ -279,17 +335,23 @@ b) Solicitar la colaboración de los notarios públicos para el auxilio de la fu
 
 Lo anterior, será independiente a que cualquier persona pueda solicitar la colaboración de los notarios públicos.
 
-Los secretarios podrán, mediante acuerdo en que se funde y motive la decisión, delegar la presente facultad a servidor público distinto a él, de entre aquellos que laboran dentro del órgano que corresponda.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Los secretarios podrán, dar fe de actos y hechos que les consten de manera directa y expedir las certificaciones que se requieran, sobre documentos que tengan a la vista en original, relacionados con los asuntos de la competencia del Instituto, así como delegar dicha atribución en servidores públicos a su cargo.
 
 ### CAPÍTULO SEGUNDO. DE LA ACREDITACIÓN DE LOS REPRESENTANTES
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 26.
 
-En el Consejo General y los consejos electorales de comité municipal o distrital, así como ante las Mesas Directivas de Casilla, los partidos políticos y candidatos independientes ejercerán los derechos que este Código les otorga, por conducto de sus representantes.
+En el Consejo General y los consejos electorales de comité distrital o municipal, los partidos políticos y candidatos independientes ejercerán los derechos que este Código les otorga, por conducto de sus representantes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 27.
 
-Los representantes de los partidos políticos se acreditarán con el nombramiento que les expida su partido, a través del órgano que autoricen sus estatutos; de la misma manera los candidatos independientes lo harán mediante el formato que al efecto les proporcione el Consejo General. Los representantes ante el Consejo General se podrán acreditar en cualquier momento; los representantes ante los consejos electorales distrital o municipal se acreditarán desde cinco días antes de que se instale el órgano respectivo y hasta diez días después de dicha instalación; los representantes generales y los representantes ante las mesas directivas de casillas lo harán en los términos de lo dispuesto en este Código.
+Los representantes de los partidos políticos se acreditarán con el nombramiento que les expida su partido, a través del órgano que autoricen sus estatutos; de la misma manera los candidatos independientes lo harán mediante el formato que al efecto les proporcione el Consejo General. Los representantes ante el Consejo General se podrán acreditar en cualquier momento; los representantes ante los consejos electorales distrital o municipal se acreditarán desde cinco días antes de que se instale el órgano respectivo y hasta diez días después de dicha instalación; los representantes generales y los representantes ante las mesas directivas de casillas lo harán en los términos de lo dispuesto en la Ley General.
 
 Los registros de los representantes ante los consejos electorales de comités distritales o municipales y, en su caso, las sustituciones de los mismos, deberán presentarse ante el Consejo General.
 
@@ -327,9 +389,13 @@ II. La Presidencia;
 
 III. La Junta Estatal Ejecutiva;
 
-IV. La Unidad de Fiscalización; y,
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-V. La Contraloría.
+IV. Coordinación de Fiscalización; y,
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+V. Órgano Interno de Control.
 
 #### SECCIÓN PRIMERA. DEL CONSEJO GENERAL
 
@@ -353,9 +419,11 @@ De no reunirse, se citará a sesión dentro de las veinticuatro horas siguientes
 
 El Presidente será suplido en sus ausencias momentáneas por el Consejero que él mismo designe, y en el supuesto de que el Consejero Presidente no asista o se ausente en forma definitiva de la sesión, el Consejo designará a uno de los consejeros electorales presentes para que presida la sesión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 34.
 
-El Consejo General del Instituto tendrá las siguientes atribuciones:
+El Consejo General del Instituto tiene las siguientes atribuciones:
 
 I. Vigilar el cumplimiento de las disposiciones constitucionales y las de este Código;
 
@@ -365,35 +433,59 @@ III. Atender lo relativo a la preparación, desarrollo y vigilancia de los proce
 
 IV. Cuidar la oportuna integración, instalación y funcionamiento de los órganos del Instituto;
 
-V. Resolver sobre el otorgamiento o pérdida del registro de los partidos políticos, mediante el voto de las dos terceras partes de los miembros presentes del Consejo General;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-VI. Conocer y resolver sobre los convenios de coaliciones, fusiones y frentes que los partidos celebren. El acuerdo debe ser aprobado por las dos terceras partes de los miembros presentes del Consejo General;
+V. Resolver el otorgamiento del registro a los partidos políticos locales y a las agrupaciones políticas estatales, así como sobre la pérdida del mismo, en los casos previstos en la Ley General de Partidos Políticos, emitir la declaratoria correspondiente y solicitar su publicación en el Periódico Oficial;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VI. Conocer y resolver sobre los convenios de coaliciones, en su caso, candidaturas comunes, fusiones y frentes que los partidos celebren. El acuerdo debe ser aprobado por las dos terceras partes de los miembros presentes del Consejo General;
 
 VII. Vigilar que lo relativo a las prerrogativas de financiamiento de los partidos se cumplan en los términos de este Código;
 
-VIII. Determinar el tope máximo de gastos que para cada campaña pueden erogar los partidos políticos o coaliciones, evaluando los informes que a este respecto se presenten y realizando las revisiones parciales correspondientes;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-IX. Ordenar auditorías y verificaciones sobre el financiamiento público de los partidos políticos, cuando corresponda;
+VIII. Determinar el tope máximo de gastos de campaña por cada elección;
 
-X. Integrar las comisiones permanentes de Organización Electoral, Administración y Prerrogativas, Capacitación Electoral y Educación Cívica, y Vinculación y Servicio Profesional Electoral, así como las temporales que considere necesarias para el desempeño de sus atribuciones, a las cuales fijará su competencia;
+IX. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
-XI. Vigilar que las actividades de los partidos políticos se realicen con apego a la Constitución General, la Constitución Local y a las disposiciones de este Código;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+X. Integrar las comisiones permanentes de Organización Electoral, Administración, Prerrogativas y Partidos Políticos, Educación Cívica y Participación Ciudadana y Vinculación y Servicio Profesional Electoral, así como las temporales que considere necesarias para el desempeño de sus atribuciones, a las cuales fijará su competencia;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XI. Vigilar que las actividades de los partidos políticos se realicen con apego a la Constitución General, la Constitución Local, la Ley General y demás leyes aplicables;
 
 XII. Registrar la plataforma electoral que deben presentar los partidos políticos;
 
-XIII. Determinar la conclusión en sus funciones de los órganos desconcentrados del Instituto, en el proceso electoral para el cual fueron designados;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XIV. Nombrar, para el proceso electoral de que se trate, al Presidente, Secretario y vocales de los comités distritales y municipales, y a los consejeros electorales ante los comités distritales y municipales, mediante el voto de las dos terceras partes de sus miembros presentes; así como remover a los mismos de sus funciones;
+XIII. Nombrar, para el proceso electoral de que se trate, al Presidente, Secretario y vocales de los comités distritales y municipales, y a los consejeros electorales de los consejos distritales y municipales, mediante el voto de las dos terceras partes de sus miembros presentes; así como remover a los mismos de sus funciones;
 
-XV. Insacular a los ciudadanos para integrar las mesas directivas de casilla, cuando corresponda; así también solicitar al Instituto Nacional la aprobación del número, ubicación e integración de mesas directivas de casillas especiales para la elección local de los ciudadanos que se encuentren en tránsito en la entidad, en los distritos electorales en los que se divide el territorio del estado para las elecciones de Gobernador y Diputados;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XVI. Aprobar lo relativo a las boletas y documentación electoral que se utilicen en el proceso, con las salvedades dispuestas en la normatividad de la materia;
+XIV. Determinar la conclusión en las funciones de los órganos desconcentrados del Instituto, en el proceso electoral para el cual fueron designados;
 
-XVII. Aprobar los criterios a los que se sujetarán la contratación, los programas de trabajo, el desempeño y la evaluación de los capacitadores-asistentes electorales y expedir la convocatoria pública respectiva, cuando corresponda;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XVIII. Aprobar los programas de capacitación electoral que imparta la Vocalía de Capacitación Electoral y Educación Cívica y vigilar su adecuado cumplimiento, cuando corresponda;
+XV. Coadyuvar en la Insaculación de los ciudadanos a integrar las mesas directivas de casilla, cuando corresponda; así también solicitar al Instituto Nacional la aprobación del número, ubicación e integración de mesas directivas de casillas especiales para la elección local de los ciudadanos que se encuentren en tránsito en la entidad, en los distritos electorales en los que se divide el territorio del Estado para las elecciones de Gobernador y Diputados, cuando así lo establezca el Instituto Nacional;
 
-XIX. Determinar lo que corresponda respecto de los observadores electorales, en los términos de la normatividad de la materia;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XVI. Aprobar lo relativo a las boletas y documentación electoral que se utilicen en el proceso, en los términos de la normativa aplicable;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XVII. Coadyuvar con los criterios a los que se sujetarán la contratación, los programas de trabajo, el desempeño y la evaluación de los capacitadores-asistentes electorales y expedir la convocatoria pública respectiva, cuando así lo establezca el Instituto Nacional;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XVIII. Coadyuvar en los programas de capacitación electoral que imparta la Dirección Ejecutiva de Educación Cívica y Participación Ciudadana y vigilar su adecuado cumplimiento, cuando así lo establezca el Instituto Nacional;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XIX. Coadyuvar en todo lo referente a los observadores electorales, en los términos de la normatividad de la materia, cuando así lo establezca el Instituto Nacional;
 
 XX. Registrar los candidatos a Gobernador;
 
@@ -417,7 +509,9 @@ XXIX. Informar al Tribunal y al Congreso sobre aspectos que resulten relevantes 
 
 XXX. Conocer y aprobar, mediante el voto de las dos terceras partes de los miembros presentes, el proyecto de presupuesto del Instituto, que sea presentado por el Presidente del Consejo, así como sus modificaciones;
 
-XXXI. Nombrar y remover al Secretario Ejecutivo, a los vocales de Organización Electoral, Administración y Prerrogativas, Capacitación Electoral y Educación Cívica, y Vinculación y Servicio Profesional Electoral, así como a los titulares de la Unidad de Fiscalización y Contraloría del Instituto, por el voto de las dos terceras partes de sus miembros presentes, con base en las propuestas que haga el Presidente;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XXXI. Nombrar y remover al Secretario Ejecutivo, Directores Ejecutivos de Administración, Prerrogativas y Partidos Políticos, de Educación Cívica y Participación Ciudadana, de Vinculación y Servicio Profesional Electoral y de Organización Electoral, así como al Coordinador de Fiscalización, por el voto de las dos terceras partes de sus miembros presentes, con base en las propuestas que haga el Presidente;
 
 XXXII. Desahogar las dudas que se presenten sobre la aplicación e interpretación de este Código y resolver los casos no previstos en el mismo;
 
@@ -429,13 +523,29 @@ XXXV. Conocer y resolver, de acuerdo con su competencia, de las infracciones que
 
 XXXVI. Antes del inicio del proceso electoral el Consejo General a propuesta del Presidente, aprobará un calendario electoral que contendrá las fechas precisas de cada etapa del proceso; y,
 
-XXXVII. Todas las demás que le confiere este Código y otras disposiciones legales.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XXXVII. Llevar a cabo la implementación, operación, incorporación y evaluación en materia de Servicio Profesional Electoral, de acuerdo a las facultades conferidas por la Ley General y demás normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XXXVIII. Emitir el acuerdo correspondiente relativo a la perdida de la acreditación ante el Instituto de los partidos políticos nacionales en aquellos casos en lo (sic) que se obtenga el porcentaje establecido en la Ley General de Partidos Políticos o en los demás supuestos que establezcan las leyes relativo a la pérdida de la acreditación;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XXXIX. Ajustar los plazos previstos en el calendario electoral del proceso electoral local a los plazos previstos en el proceso electoral federal para el mejor desarrollo del proceso electoral concurrente; y,
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XL. Todas las demás que le confiere este Código y otras disposiciones legales.
 
 ###### ARTÍCULO 35.
 
 El Consejo General integrará las comisiones temporales que considere necesarias para el desempeño de sus atribuciones, las que siempre serán presididas por un consejero electoral.
 
-Independientemente de lo señalado en el párrafo anterior, las comisiones de: Organización Electoral; Administración y Prerrogativas; Capacitación Electoral y Educación Cívica y, Vinculación y Servicio Profesional Electoral; funcionarán permanentemente y se integrarán exclusivamente por consejeros electorales designados por el Consejo General. La presidencia de las comisiones será rotativa en forma anual entre sus integrantes.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Independientemente de lo señalado en el párrafo anterior, las comisiones de: Organización Electoral; Administración, Prerrogativas y Partidos Políticos; Capacitación Electoral y Educación Cívica, Vinculación y Servicio Profesional Electoral; funcionarán permanentemente y se integrarán exclusivamente por consejeros electorales designados por el Consejo General. La presidencia de las comisiones será rotativa en forma anual entre sus integrantes.
 
 Además de las anteriores se creará la Comisión Electoral para la Atención a Pueblos Indígenas que se integrará por consejeros, en la que participarán con derecho a voz representantes de los pueblos o comunidades indígenas de la demarcación que elijan autoridades tradicionales bajo el régimen de usos y costumbres.
 
@@ -451,11 +561,15 @@ El Consejo General, de acuerdo con la disponibilidad presupuestal del Instituto,
 
 #### SECCIÓN SEGUNDA. DEL PRESIDENTE Y DEL SECRETARIO EJECUTIVO
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 36.
 
-Serán atribuciones del Presidente del Consejo General las siguientes:
+Son atribuciones del Presidente del Consejo General las siguientes:
 
-I. Representar legalmente al Instituto, para celebrar actos de administración y de dominio;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+I. Representar legalmente al Instituto, con poder general para pleitos, cobranzas y actos de administración y de dominio; pudiendo delegar las facultades de pleitos y cobranzas a terceros atendiendo a las necesidades institucionales;
 
 II. Mantener la unidad y cohesión de los órganos del Instituto;
 
@@ -469,9 +583,13 @@ VI. Proponer al Consejo General las personas para integrar los consejos electora
 
 VII. Vigilar que se cumplan los acuerdos del Consejo General;
 
-VIII. Presentar al Consejo General la propuesta para la designación del Secretario Ejecutivo, los vocales de Organización Electoral, Administración y Prerrogativas, Capacitación Electoral y Educación Cívica, y Vinculación y Servicio Profesional Electoral, de los titulares de la Unidad de Fiscalización y de Contraloría;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-IX. Proponer al Consejo General, con el apoyo de la Vocalía de Administración y Prerrogativas, la política salarial del Instituto;
+VIII. Presentar al Consejo General la propuesta para la designación del Secretario Ejecutivo, los Directores Ejecutivos de Organización Electoral, Administración Prerrogativas y Partidos Políticos, de Educación Cívica y Participación Ciudadana, de Vinculación y Servicio Profesional Electoral, y del Coordinador de Fiscalización;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+IX. Proponer al Consejo General, con el apoyo de la Dirección Ejecutiva de Administración, Prerrogativas y Partidos Políticos, la política salarial del Instituto;
 
 X. Proponer al Consejo General el proyecto de presupuesto anual del Instituto, remitiéndolo una vez aprobado, al titular del Poder Ejecutivo para su inclusión en la iniciativa de Presupuesto de Egresos del Estado;
 
@@ -491,57 +609,135 @@ XVII. Ordenar, en su caso, la publicación en el Periódico Oficial de los acuer
 
 XVIII. Ser el conducto para solicitar al Instituto Nacional la asignación de espacios en radio y televisión para el cumplimiento de los fines propios del Instituto, en los términos de la normatividad aplicable;
 
-XIX. Las demás que le confiera este Código, el Consejo General y otras disposiciones legales.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XIX. Dictar las medidas necesarias para la adecuada comunicación entre las áreas y órganos que conforman el Instituto;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XX. Atender y dar a conocer al Consejo General las recomendaciones propuestas por funcionarios y titulares del Instituto para su mejoramiento;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XXI. Dar aviso al Consejo General de las ausencias definitivas de alguno de los Consejeros, así como al Instituto Nacional;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XXII. Instruir a los órganos centrales y desconcentrados del Instituto, para que ejecuten los acuerdos aprobados por el Consejo General;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XXIII. Someter al Consejo General las propuestas referentes a la designación del personal en caso de ausencia temporal o definitiva por parte de algún funcionario, en los casos en que corresponda al Consejo su designación;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XXIV. Rendir un informe anual ante el Consejo General de las actividades que se realizan en el Instituto, así como del estado que guarda el mismo, el cual deberá de ser presentado en el mes de diciembre de cada año, en Sesión de Consejo General; y,
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XXV. Las demás que le confiera la normativa aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 37.
 
-Corresponde al Secretario Ejecutivo del Instituto:
+El Secretario Ejecutivo del Instituto tiene las siguientes atribuciones:
 
 I. Auxiliar al Consejo y a su Presidente en el ejercicio de sus atribuciones;
 
-II. Elaborar el orden del día de las sesiones del Consejo; declarar la existencia de quórum; dar fe de lo actuado en las sesiones; levantar el acta correspondiente y someterla a la aprobación de los miembros del mismo;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-III. Informar sobre el cumplimiento de los acuerdos del Consejo;
+II. Actuar como Secretario del Consejo General y de la Junta Estatal Ejecutiva, respectivamente, así como remitir a los integrantes de dichos órganos colegiados los documentos y anexos necesarios para el desarrollo de las sesiones;
 
-IV. Recibir las solicitudes de registro que competan al Consejo General y dar cuenta a éste;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-V. Dar cuenta de los informes, estudios, dictámenes y proyectos de acuerdo que sean sometidos a la consideración del Consejo General por los órganos internos del Instituto;
+III. Elaborar el orden del día de las sesiones del Consejo y de la Junta Estatal Ejecutiva; declarar la existencia de quórum; dar fe de lo actuado en las sesiones; levantar el acta correspondiente y someterla a la aprobación de los miembros del mismo;
 
-VI. Llevar el libro de registro de los directivos de los partidos políticos, de sus representantes ante los órganos electorales, y de los candidatos a puestos de elección;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-VII. Integrar los expedientes con las actas de cómputo distrital de las elecciones de gobernador y diputados por el principio de representación proporcional y presentarlos oportunamente al Consejo General;
+IV. Informar sobre el cumplimiento de los acuerdos del Consejo y de la Junta Estatal Ejecutiva;
 
-VIII. Dar fe de actos y hechos que le consten de manera directa y expedir las certificaciones que se requieran, sobre documentos que tenga a la vista en original, relacionados con los asuntos de la competencia del Instituto;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-IX. Recibir y sustanciar los recursos de revisión que se interpongan en contra de los actos, resoluciones y acuerdos de los consejos electorales de comités distritales y municipales, preparando los proyectos de resolución correspondientes;
+V. Recibir las solicitudes de registro que competan al Consejo General y dar cuenta a éste, salvo aquellas que su trámite esté reservado a otra área u órgano del Instituto;
 
-X. Recibir y dar el trámite previsto en la ley de la materia, a los recursos que se interpongan en contra de los actos, acuerdos o resoluciones del Consejo General, informando a éste de los mismos en su sesión inmediata;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XI. Informar al Consejo General de las resoluciones dictadas por el Tribunal, que sean de su interés;
+VI. Dar cuenta de los informes, estudios, dictámenes y proyectos de acuerdo que sean sometidos a la consideración del Consejo General por los órganos internos del Instituto;
 
-XII. Expedir los documentos que acrediten como tales a los miembros del Consejo General;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XIII. Firmar con el Presidente del Consejo todas las actas, acuerdos y resoluciones que se emitan;
+VII. Asesorar jurídicamente a los órganos del Instituto en el ejercicio de sus funciones;
 
-XIV. Proveer lo necesario para que, cuando proceda, se publiquen en el Periódico Oficial, los acuerdos, resoluciones y demás que determine el Consejo General;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XV. Presentar a consideración del Consejo General el proyecto de dictamen de pérdida de registro del partido político local que se encuentre en cualquiera de los supuestos establecidos en este Código, a más tardar el último día del mes siguiente a aquél en que concluya el proceso electoral;
+VIII. Ejecutar y supervisar el adecuado cumplimiento de los acuerdos del Consejo General y de la Junta, cuando así corresponda;
 
-XVI. Dictar las medidas cautelares dentro de los procesos administrativos sancionadores; y,
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XVII. Las demás que le sean conferidas por este Código, el Consejo General o su Presidente, y otras disposiciones legales.
+IX. Emitir los informes que le sean requeridos por el Consejo General, las Comisiones de las que forme parte y la Junta Estatal Ejecutiva de las áreas del Instituto respecto a los asuntos de su competencia;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+X. Integrar los expedientes con las actas de cómputo distrital de las elecciones de Gobernador y diputados por el principio de representación proporcional y presentarlos oportunamente al Consejo General;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XI. Dar fe de actos y hechos que le consten de manera directa y expedir las certificaciones que se requieran, sobre documentos que tenga a la vista en original, relacionados con los asuntos de la competencia del Instituto, así como delegar dicha atribución en servidores públicos a su cargo;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XII. Recibir y sustanciar los recursos de revisión que se interpongan en contra de los actos, resoluciones y acuerdos de los consejos electorales de comités distritales y municipales, preparando los proyectos de resolución correspondientes;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XIII. Recibir y dar el trámite previsto en la ley de la materia, a los recursos que se interpongan en contra de los actos, acuerdos o resoluciones del Consejo General, informando a éste de los mismos en su sesión inmediata;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XIV. Informar al Consejo General de las resoluciones dictadas por el Tribunal, que sean de su interés;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XV. Expedir los documentos que acrediten como tales a los miembros del Consejo General, Comités y Consejos Distritales y Municipales;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XVI. Firmar con el Presidente del Consejo todas las actas, acuerdos y resoluciones que se emitan;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XVII. Proveer lo necesario para que, cuando proceda, se publiquen en el Periódico Oficial, los acuerdos, resoluciones y demás que determine el Consejo General;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XVIII. Dictar las medidas cautelares dentro de los procedimientos administrativos y especiales sancionadores;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XIX. Coordinar a las Direcciones Ejecutivas del Instituto;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XX. Emitir los Nombramientos de Titularidad de incorporación al Servicio Profesional Electoral Nacional; y,
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XXI. Las demás que le encomiende el Consejo General y la normativa aplicable.
 
 #### SECCIÓN TERCERA. DE LA JUNTA ESTATAL EJECUTIVA
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 38.
 
-La Junta Estatal Ejecutiva será integrada por el Presidente del Consejo General, quien la presidirá, por el Secretario Ejecutivo, que será a la vez Secretario de la misma, los Vocales de Organización Electoral; Administración y Prerrogativas; Capacitación Electoral y Educación Cívica; Vinculación y Servicio Profesional Electoral.
+La Junta Estatal Ejecutiva será integrada por el Presidente del Consejo General, quien la presidirá, por el Secretario Ejecutivo, que será a la vez Secretario de la misma, por el Director Ejecutivo de Organización Electoral, por el Director Ejecutivo de Administración, Prerrogativas y Partidos Políticos, por el Director Ejecutivo de Educación Cívica y Participación Ciudadana, y por el Director Ejecutivo de Vinculación y Servicio Profesional Electoral.
 
-El titular de la Unidad de Fiscalización y de Contraloría podrá participar, a convocatoria del Presidente, en las sesiones de la Junta Estatal Ejecutiva.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 39.
 
-La Junta Estatal Ejecutiva se reunirá por lo menos una vez al mes con los siguientes propósitos:
+La Junta Estatal Ejecutiva se reunirá, por lo menos una vez al mes, con las siguientes atribuciones:
 
 I. Fijar las políticas generales, los programas y los procedimientos administrativos del Instituto;
 
@@ -551,43 +747,119 @@ III. Cuidar el cumplimiento de las normas aplicables a los partidos políticos y
 
 IV. Supervisar el cumplimiento de los programas de organización, de educación cívica, capacitación electoral, cuando la misma sea delegada por el Instituto Nacional;
 
-V. Estudiar y preparar las propuestas relativas al desarrollo del Instituto y sus órganos internos;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-VI. Elaborar las pautas que serán propuestas al Instituto Nacional para la asignación de los tiempos de radio y televisión que correspondan a los partidos políticos y candidatos independientes durante los procesos electorales, así como las del propio Instituto; y,
+V. Supervisar el cumplimiento de los programas de organización, de educación cívica, capacitación electoral, cuando la misma sea delegada por el Instituto Nacional;
 
-VII. Los demás que señale este Código, el Consejo General, el Presidente y otras disposiciones legales.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VI. Estudiar y preparar las propuestas relativas al desarrollo del Instituto y sus órganos internos;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VII. Elaborar las pautas que serán propuestas al Instituto Nacional para la asignación de los tiempos de radio y televisión que correspondan a los partidos políticos y candidatos independientes durante los procesos electorales, así como las del propio Instituto;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VIII. Analizar los sistemas y procesos de administración interna del Instituto, para efecto de proponer y desarrollar los proyectos de mejora y adecuaciones que sean necesarios;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+IX. Establecer los sistemas, mecanismos y procedimientos de control y transparencia de los recursos del Instituto;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+X. Aprobar los manuales administrativos y programas de operación propuestos por las Direcciones Ejecutivas y en su caso, formular las observaciones correspondientes;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XI. Acordar los criterios y términos de contratación de medios de información para las campañas de difusión que ponga a su consideración la Coordinación de Comunicación Social;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XII. Requerir a las Direcciones Ejecutivas del Instituto la rendición de informes sobre el cumplimiento de los acuerdos de la Junta, así como en relación al avance y cumplimiento de sus programas; y,
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XIII. Las demás que le encomiende el Consejo General y la normativa aplicable.
 
 Durante el tiempo que transcurra entre dos procesos la Junta Estatal Ejecutiva solamente realizará las actividades sustantivas que el presupuesto les permita.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 40.
 
-Para ser Vocal, deberá reunir los requisitos que para los consejeros electorales locales señala la Ley General, salvo la edad que no debe ser menor de veinticinco años, y deberá acreditarse experiencia en materia electoral, de cuando menos tres años.
+Para ser Director Ejecutivo, deberá reunir los requisitos que para los consejeros electorales locales señala la Ley General, salvo la edad que no debe ser menor de veinticinco años, y deberá acreditarse experiencia en materia electoral, de cuando menos tres años.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 41.
 
-El Vocal de Organización Electoral tendrá las siguientes atribuciones:
+El Director Ejecutivo de Organización Electoral tiene las siguientes atribuciones:
 
 I. Apoyar la integración, instalación y funcionamiento de los comités distritales y municipales y sus consejos electorales;
 
-II. Proveer lo necesario para la ubicación e integración de las mesas directivas de casilla, cuando corresponda;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-III. Elaborar y someter para su aprobación al Consejo General el proyecto que contenga las bases de contratación, los programas de trabajo y los mecanismos de evaluación relativos a los asistentes electorales;
+II. Proveer lo necesario para la impresión, fabricación y distribución de la documentación y materiales electorales autorizados, garantizando la utilización de materiales reciclables y reutilizables;
 
-IV. Proveer lo necesario para la impresión, fabricación y distribución de la documentación y materiales electorales autorizados, garantizando la utilización de materiales reciclables y reutilizables;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-V. Recabar de los consejos electorales de comités distritales y municipales copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral;
+III. Recabar de los consejos electorales de comités distritales y municipales copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral y mecanismos de participación ciudadana;
 
-VI. Recabar la documentación necesaria para integrar los expedientes a fin de que el Consejo General efectúe los cómputos y emita las resoluciones que conforme a este Código le correspondan en lo relativo al desarrollo de los procesos electorales;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-VII. Llevar la estadística de las elecciones, las que deberán ser publicadas, en los términos de este Código;
+IV. Recabar la documentación necesaria para integrar los expedientes a fin de que el Consejo General efectúe los cómputos y emita las resoluciones que conforme a este Código le correspondan en lo relativo al desarrollo de los procesos electorales y mecanismos de participación ciudadana;
 
-VIII. Apoyar a los órganos electorales de (sic) instituto en la integración de expedientes que deberán ser enviados al Tribunal; y,
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-IX. Acordar con el Presidente los asuntos de su competencia.
+V. Llevar la estadística de las elecciones, las que deberán ser publicadas, en los términos de este Código;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VI. Apoyar a los órganos desconcentrados del Instituto en la integración de expedientes que deberán ser enviados al Tribunal;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VII. Diseñar los documentos y materiales electorales necesarios para los procesos electorales y mecanismos de participación ciudadana que corresponda (sic) y someterlos a la consideración del Consejo General;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VIII. Coordinar con el área responsable, la operación de los sistemas de información para la formulación de las estadísticas del proceso y validar sus reportes en materia de organización para el conocimiento del Consejo General;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+IX. Coordinar a las áreas que estén a su cargo y dirigir la ejecución de sus programas;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+X. Rendir los informes que sean necesarios para el cumplimiento de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XI. Definir, en coordinación con la Secretaría Ejecutiva, las tareas que en materia de organización electoral, deberá cumplir la Coordinación de Órganos Desconcentrados;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XII. Coordinar y dirigir la recepción de las manifestaciones de respaldo ciudadano para el caso de los aspirantes a candidatos independientes, en los términos de la normativa aplicable;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XIII. Coadyuvar con la instancia competente del Instituto Nacional en la ubicación e integración de las mesas directivas de casilla, cuando así lo soliciten;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XIV. Coadyuvar con la instancia competente del Instituto Nacional en la elaboración del proyecto que contenga las bases de contratación, los programas de trabajo y los mecanismos de evaluación relativos a los asistentes electorales, cuando así lo soliciten; y,
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XV. Las demás que le encomiende el Consejo General y la normativa aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 42.
 
-El Vocal de Administración y Prerrogativas tendrá las siguientes atribuciones:
+El Director Ejecutivo de Administración, Prerrogativas y Partidos Políticos tiene las siguientes atribuciones:
 
 I. Aplicar las políticas, normas y procedimientos para la administración eficiente de los recursos humanos, financieros y materiales de que dispone el Instituto, organizando su eficiente operación para el cumplimiento de los fines del organismo;
 
@@ -601,145 +873,305 @@ V. Acordar con el Presidente los asuntos de su competencia;
 
 VI. Tramitar y ministrar las prerrogativas a los partidos políticos y candidatos independientes; y,
 
-VII. Las demás que le confiera este Código, el Consejo General, el Presidente y otras disposiciones legales.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE JUNIO DE 2017)</small>
+
+VII. Elaborar el proyecto de calendario de pago de prerrogativas y someterlo a la consideración del Consejo General;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VIII. Elaborar, en coordinación con las demás áreas del Instituto, los proyectos, estudios y propuestas para la modificación de normas, sistemas y procedimientos de administración interna y proponerlos ante la Junta o el Consejo General, según el caso, para la formulación de los acuerdos correspondientes;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+IX. Atender los acuerdos del Consejo General y la Junta en las materias que son de su competencia;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+X. Gestionar de manera oportuna, ante la autoridad correspondiente los recursos presupuestales del Instituto;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XI. Gestionar lo conducente para el cumplimiento oportuno de las obligaciones fiscales y el pago de servicios públicos del Instituto;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XII. Ejercer y controlar el presupuesto de egresos conjuntamente con el Consejero Presidente, de conformidad con las normas y términos aprobados por el Consejo General;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XIII. Presentar al Consejo General los estados financieros del ejercicio anterior del Instituto a más tardar el 31 treinta y uno de marzo del año inmediato posterior al del ejercicio al que corresponden;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XIV. Definir, en coordinación con la Secretaría Ejecutiva, las funciones que en materia administrativa deberá cumplir la Coordinación de Órganos Desconcentrados durante el proceso electoral o mecanismo de participación ciudadana;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XV. Llevar el libro de registro de los directivos de los partidos políticos acreditados o con registro ante el Instituto, dirigentes de las agrupaciones políticas locales, aspirantes a candidatos, candidatos, así como representantes ante los órganos electorales;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XVI. Actualizar el registro de partidos y agrupaciones políticas, así como los convenios de fusión, frentes, coaliciones y acuerdos de participación;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XVII. Formular los informes que en su caso, sean requeridos por el Instituto Nacional, respecto al registro de partidos políticos estatales, agrupaciones políticas locales, aspirantes a candidatos, candidatos, así como representantes ante los órganos electorales del Instituto;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XVIII. Hacer efectivas las multas derivadas de los procedimientos de responsabilidad correspondientes, así como en caso de incumplimiento por parte de los sujetos obligados, notificar a la autoridad competente para efecto de que se inicie el procedimiento atinente; y,
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XIX. Las demás que le encomiende el Consejo General y la normativa aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 43.
 
-El Vocal de Capacitación Electoral y Educación Cívica tendrá las siguientes atribuciones:
+El Director Ejecutivo de Educación Cívica y Participación Ciudadana tiene las siguientes atribuciones:
 
-I. Elaborar, proponer y coordinar los programas de capacitación;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-II. Elaborar y someter, en su caso, para su aprobación al Consejo General el proyecto que contenga las bases de contratación, los programas de trabajo y los mecanismos de evaluación relativos a los capacitadores-asistentes electorales;
+I. Dirigir la elaboración y ejecución de estrategias, programas o acciones de participación ciudadana destinados a la población para promover el ejercicio de derechos y el cumplimiento de obligaciones político electorales;
 
-III. Proponer y coordinar, en su caso, cursos de capacitación dirigidos a los ciudadanos que sean funcionarios de mesa directiva de casilla, cuando corresponda;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-IV. Impartir, en su caso, todos los cursos de capacitación y realizar las evaluaciones que sean necesarias para el buen desarrollo del proceso electoral;
+II. Elaborar, proponer y coordinar los programas de capacitación, educación y asesoría que dentro del ámbito de su competencia deba realizar para promover la participación ciudadana y el ejercicio de derechos, así como el cumplimiento de obligaciones político electoral (sic);
 
-V. Proponer y coordinar la capacitación de los presidentes, secretarios y vocales de cada uno de los consejos electorales de comités distritales y municipales sobre el procedimiento de insaculación de la lista nominal de electores para la designación de los integrantes de las mesas directivas de casilla, cuando corresponda;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-VI. Diseñar campañas de educación cívica;
+III. Proponer el contenido de las convocatorias, estudios, procedimientos y estrategias, relativas al desarrollo y ejecución de mecanismos de participación ciudadana en la Entidad;
 
-VII. Preparación de material didáctico; y,
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-VIII. Las que se requieran para la planeación, desarrollo y ejecución del voto de los michoacanos en el extranjero, en los términos del presente Código.
+IV. Planear y dirigir la promoción, preservación y difusión de la cultura de la participación ciudadana de acuerdo con los principios rectores contenidos en la normativa aplicable, con el propósito de que la población intervenga en los asuntos públicos de su comunidad y entidad federativa;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+V. Proponer contenidos y materiales que contribuyan a la ejecución de los mecanismos de participación ciudadana para coadyuvar al desarrollo de la cultura política democrática en la Entidad;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VI. Desarrollar trabajos con instituciones del sector educativo, autoridades gubernamentales y organizaciones civiles para la promoción de los intereses comunitarios y desarrollo de los principios de la participación ciudadana;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VII. Explorar áreas de oportunidad para el diseño de propuestas que fomenten la intervención de la ciudadanía en los asuntos públicos;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VIII. Coordinar la implementación de proyectos de investigación de los materiales didácticos, documentación, estrategias y procedimientos de capacitación utilizados en los mecanismos de participación ciudadana, con el fin de retroalimentar dichos procesos;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+IX. Diseñar campañas de educación cívica;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+X. Preparar el material didáctico;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XI. Realizar tareas de verificación, respecto a la aplicación de estrategias y programas que defina el Instituto Nacional para la integración de mesas directivas de casilla y capacitación electoral en los procesos electorales locales;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XII. Coadyuvar en la integración, instalación y funcionamiento de las mesas receptoras para los mecanismos de participación ciudadana;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XIII. Promover la suscripción de convenios de cooperación para elaborar los planes de estudio, relacionados con los mecanismos de participación ciudadana existentes en el Estado, con instituciones públicas de educación superior, centros públicos de investigación, organizaciones académicas y de la sociedad civil;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XIV. Asesorar y capacitar a los órganos de representación ciudadana en la elaboración y ejecución de los mecanismos de participación ciudadana en los que el Instituto, tenga atribuciones para el desarrollo de los mismos;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XV. Rendir los informes que le sean solicitados por el Consejo General, los Consejeros, la Junta o el Presidente; y,
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XVI. Las demás que le encomiende el Consejo General y la normativa aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 44.
 
-El Vocal de Vinculación y Servicio Profesional Electoral tendrá las siguientes atribuciones:
+El Director Ejecutivo de Vinculación y Servicio Profesional Electoral tendrá las siguientes atribuciones:
 
 I. Dar seguimiento e informar a la Comisión de Vinculación con relación a las funciones delegadas por el Instituto Nacional;
 
 II. Promover la coordinación entre el Instituto Nacional y el Instituto para el desarrollo de la función electoral;
 
-III. Realizar los estudios e informes que le solicite la Comisión de Vinculación con el Instituto Nacional;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-IV. Entregar los informes anuales al Instituto Nacional respecto del ejercicio de facultades delegadas u otras materias que correspondan;
+III. Recopilar la información y elaborar los informes que serán presentados al Instituto Nacional respecto del ejercicio de facultades delegadas u otras materias que correspondan;
 
-V. Conocer los proyectos de acuerdos y disposiciones necesarios para coordinar la organización de los procesos electorales, en términos de lo dispuesto por el inciso a) del Apartado B de la Base V del artículo 41 de la Constitución Política y demás legislación aplicable;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-VI. Vigilar el cumplimiento de las normas y procedimientos del Servicio Profesional Electoral;
+IV. Actualizar el catálogo de los cargos y puestos del personal del Instituto que integran el Servicio Profesional Electoral;
 
-VII. Actualizar (sic) catálogo de puesto de las personas que, del Instituto, integran el Servicio Profesional Electoral; y,
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-VIII. Las demás que le encomiende el Consejo General.
+V. Coadyuvar con la Dirección Ejecutiva del Servicio Profesional Electoral Nacional para el desarrollo de las acciones derivadas de la selección, ingreso, capacitación, profesionalización, promoción, evaluación, rotación, permanencia y disciplina de los servidores públicos, de conformidad con las atribuciones otorgadas en la normativa aplicable;
 
-#### SECCIÓN CUARTA. DE LA UNIDAD DE FISCALIZACIÓN
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VI. Proponer la celebración de convenios entre el Instituto Nacional y el Instituto que sean necesarios para la coordinación entre ambos organismos;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VII. Notificar a quien corresponda los acuerdos, resoluciones y demás documentación remitida por el Instituto Nacional y dar seguimiento a los mismos;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VIII. Notificar al Instituto Nacional, los acuerdos y resoluciones aprobados por el Consejo General del Instituto Electoral de Michoacán;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+IX. Ser el enlace de comunicación con las áreas del Instituto Nacional, para el envío de la información generada por las áreas del Instituto;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+X. Coadyuvar en la celebración de convenios de apoyo y colaboración con instituciones académicas y organismos públicos de las demás entidades;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XI. Llevar un registro del personal que se incorpore al Servicio Profesional Electoral Nacional; así como el personal de la rama administrativa;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XII. Operar los programas relativos al Servicio Profesional Electoral;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XIII. Operar las actividades de capacitación que fortalezcan las competencias del personal para el desempeño del cargo o puesto; y,
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XIV. Las demás que le encomiende el Consejo General y la normativa aplicable.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2017)</small>
+
+#### SECCIÓN CUARTA. DE LA COORDINACIÓN DE FISCALIZACIÓN
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 45.
 
-La Unidad de Fiscalización es el órgano técnico del Consejo General del Instituto que tendrá a su cargo, en su caso, la recepción y revisión integral de los informes que presenten los partidos políticos respecto del origen y monto de los recursos que reciban por cualquier modalidad de financiamiento, así como sobre su destino y aplicación. Tendrá autonomía técnica y de gestión.
+La Coordinación de Fiscalización es el órgano técnico del Consejo General del Instituto que tendrá a su cargo, en su caso, la recepción y revisión integral de los informes que presenten los sujetos obligados respecto del origen y monto de los recursos que reciban por cualquier modalidad de financiamiento, así como sobre su destino y aplicación. Tendrá autonomía técnica y de gestión.
 
-El titular de la Unidad de Fiscalización será nombrado, de una terna propuesta por el Presidente, por el voto de las dos terceras partes de los miembros del Consejo General del Instituto, quien deberá reunir los requisitos que para los consejeros electorales locales señala la Ley General, salvo la edad que no debe ser menor de veinticinco años, además de comprobar experiencia no menor de tres años en tareas de auditoría y fiscalización.
+El titular de la Coordinación de Fiscalización será nombrado, de una terna propuesta por el Presidente, por el voto de las dos terceras partes de los miembros del Consejo General del Instituto, quien deberá comprobar experiencia no menor de tres años en áreas de auditoría o fiscalización.
 
-La Unidad de Fiscalización tendrá, en su caso, las siguientes facultades:
+La Coordinación de Fiscalización tiene las siguientes atribuciones:
 
-I. Presentar al Consejo General, para su aprobación, la normatividad para regular el registro contable de los ingresos y egresos de los partidos políticos, las características de la documentación comprobatoria sobre el manejo de sus recursos y establecer los requisitos que deberán satisfacer los informes de ingresos y egresos que le presenten, de conformidad a lo establecido en este Código, y los demás que sean necesarios para los fines de la fiscalización;
+I. Proponer al Consejo General los proyectos de reglamentos, acuerdos, lineamientos y demás normativa en materia de fiscalización de los sujetos obligados, liquidación de partidos políticos y agrupaciones políticas locales;
 
-II. Emitir las normas generales de contabilidad y registro de operaciones aplicables a los partidos políticos;
+II. Proponer al Consejo General los proyectos de manuales de organización, procedimientos y servicios de la Coordinación, mismos que serán aprobados por el Consejo General;
 
-III. Vigilar que los recursos de los partidos tengan origen lícito y se apliquen estricta e invariablemente a las actividades señaladas en este Código;
+III. Proponer al Consejo General los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
 
-IV. Recibir los informes trimestrales y anuales, así como de gastos de precampaña y campaña, de los partidos políticos y sus candidatos, así como los demás informes de ingresos y gastos establecidos por este Código;
+IV. Emitir las normas generales de contabilidad y registro de operaciones aplicables a los sujetos obligados;
 
-V. Revisar los informes señalados en la fracción anterior;
+V. Aplicar la normativa en materia de fiscalización de los sujetos obligados;
 
-VI. Requerir información complementaria respecto de los diversos apartados de los informes de ingresos y egresos o documentación comprobatoria de cualquier otro aspecto vinculado a los mismos;
+VI. Vigilar que los recursos de los sujetos obligados tengan origen lícito y se apliquen estricta e invariablemente a las actividades señaladas en la normativa de fiscalización respectiva;
 
-VII. Efectuar o coordinar la práctica de auditorías, directamente o a través de terceros, a las finanzas de los partidos políticos y de visitas de verificación, con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes;
+VII. Supervisar y Coordinar el procedimiento de fiscalización de los recursos de los sujetos obligados;
 
-VIII. Presentar al Consejo General los informes de resultados sobre las auditorías y verificaciones practicadas a los partidos políticos, en los que se especificarán las irregularidades en que hubiesen incurrido los partidos políticos en el manejo de sus recursos y el incumplimiento de su obligación de informar sobre la aplicación de los mismos, a efecto de que, en su caso, se proceda conforme a lo establecido en este Código;
+VIII. Notificar, en su caso, a los sujetos obligados las observaciones sobre las irregularidades detectadas en los informes;
 
-IX. Proporcionar a los partidos políticos la orientación, asesoría y capacitación necesarias para el cumplimiento de sus obligaciones en la materia;
+IX. Requerir la información necesaria a los sujetos obligados, autoridades, personas físicas o morales para el desarrollo de las funciones de la Coordinación;
 
-X. Revisar los informes y emitir los dictámenes sobre los ingresos y gastos que le presenten las agrupaciones políticas, de conformidad a lo dispuesto en este Código y en el Reglamento que al efecto apruebe el Consejo General;
+X. Proporcionar orientación a los sujetos obligados en materia de fiscalización;
 
-XI. Ser responsable de los procedimientos de liquidación de los partidos políticos que pierdan su registro, de conformidad con lo previsto en la normatividad aplicable;
+XI. Establecer y coordinar los programas de capacitación a los sujetos obligados en materia de fiscalización;
 
-XII. Prestar y recibir los apoyos que se establezcan en los convenios que se firmen en materia de fiscalización;
+XII. Presentar al Consejo General para su aprobación, los proyectos de dictámenes y resoluciones, respecto de los informes que presenten los sujetos obligados;
 
-XIII. Podrá contratar servicios de empresas públicas o privadas para realizar monitoreos durante precampañas y campañas, cuando así lo estime conveniente, previo acuerdo del Consejo General, con la finalidad de verificar el origen y destino de los recursos aplicados;
+XIII. Establecer y coordinar la práctica de auditorías, directamente o a través de terceros, a las finanzas de los sujetos obligados y de visitas de verificación, con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes;
 
-XIV. Solicitar a la autoridad competente del Instituto Nacional su intervención para superar las limitaciones de los secretos bancario, fiduciario o fiscal, en los términos que señale el Reglamento;
+XIV. Presentar al Consejo General los informes de resultados sobre las auditorías y verificaciones practicadas a los sujetos obligados, en los que se especificarán las irregularidades en que hubiesen incurrido en el manejo de sus recursos y el incumplimiento de su obligación de informar sobre la aplicación de los mismos e iniciar los procedimientos correspondientes;
 
-XV. Requerir de las personas físicas o morales, públicas o privadas, en relación con las operaciones que realicen con partidos políticos, la información necesaria para el cumplimiento de sus tareas, respetando en todo momento las garantías del requerido;
+XV. Contratar servicios de empresas públicas o privadas para realizar monitoreo, cuando así lo estime conveniente, previo acuerdo del Consejo General, con la finalidad de verificar el origen y destino de los recursos aplicados por los sujetos obligados;
 
-XVI. Quienes se nieguen a proporcionar la información que les sea requerida, o no la proporcionen, sin causa justificada, dentro de los plazos que se señalen, se harán acreedores a las sanciones establecidas en este Código;
+XVI. Determinar el inicio de procedimientos administrativos oficiosos en materia de fiscalización;
 
-XVII. Presentar al Consejo General del Instituto los proyectos de dictamen de topes de gastos de precampañas y campañas a Gobernador, diputados y ayuntamientos, en los plazos y términos que establece este Código; y,
+XVII. Sustanciar y tramitar los procedimientos administrativos de queja y oficiosos en materia de fiscalización y vigilancia de los recursos de los sujetos obligados;
 
-XVIII. Las demás que le confiera este Código, el Consejo General o las normatividades o autoridades competentes, en la materia.
+XVIII. Presentar al Consejo General para su aprobación, los proyectos de resolución de los procedimientos administrativos en materia de fiscalización;
 
-Los partidos tendrán derecho a la confronta de los documentos comprobatorios de sus ingresos y gastos, o de sus estados contables, contra los obtenidos o elaborados por la Unidad de Fiscalización sobre las mismas operaciones, a fin de aclarar las discrepancias entre unos y otros.
+XIX. Ser responsable de los procedimientos de liquidación de los partidos políticos locales y agrupaciones políticas locales, en los términos de las disposiciones aplicables;
 
-#### SECCIÓN QUINTA. DE LA CONTRALORÍA
+XX. Coordinar los apoyos que se presten y reciban, en términos de los convenios en materia de fiscalización;
+
+XXI. Solicitar a la autoridad competente del Instituto Nacional su intervención para superar las limitaciones de los secretos bancario, fiduciario o fiscal, en los términos de la normativa aplicable;
+
+XXII. Elaborar y remitir en breve término a la Secretaría Ejecutiva del Instituto, los informes circunstanciados respecto de los medios de impugnación en contra de reglamentos, dictámenes, actos, acuerdos y resoluciones dictados por el Consejo en materia de fiscalización;
+
+XXIII. Recibir y dar trámite a los medios de impugnación en contra de los actos, acuerdos y resoluciones que dicte la Coordinación de Fiscalización en el ejercicio de sus atribuciones y en términos de la normativa aplicable;
+
+XXIV. Dar vista a otras áreas del Instituto o a otras autoridades, cuando tenga conocimiento de hechos que no sean de su competencia;
+
+XXV. Atender las solicitudes y dar trámite a las vistas que efectúen otras áreas o autoridades, relacionadas con el ámbito de su competencia;
+
+XXVI. Tramitar y atender los requerimientos de información y documentación que emitan los distintos órganos del Instituto u otras autoridades para el ejercicio de sus propias atribuciones;
+
+XXVII. Formular las opiniones e informes sobre asuntos propios de la Coordinación;
+
+XXVIII. Coadyuvar y asesorar técnicamente en asuntos de la competencia de la Coordinación a otras áreas del Instituto; y,
+
+XXIX. Las demás que establezca la normativa aplicable.
+
+Los sujetos obligados a los que se refiere este artículo, serán determinados por los Reglamentos o Acuerdos expedidos por el Instituto Nacional Electoral de conformidad con sus atribuciones o, en su caso, los Convenios que se suscriban en materia de fiscalización entre el Instituto Nacional y el Instituto, así como la demás normativa aplicable.
+
+Solamente en caso de que el Instituto Nacional delegue sus atribuciones en materia de fiscalización al Instituto, se justificará que entre en funciones la Coordinación de Fiscalización, como órgano técnico en la materia, la que podrá desempeñar sus funciones relativas, en los términos que establezca el acuerdo respectivo, debiendo sujetarse a lo previsto por la normativa aplicable.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2017)</small>
+
+#### SECCIÓN QUINTA. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2017)</small>
 
 APARTADO PRIMERO
 
-DE LA NATURALEZA DE LA CONTRALORÍA
+DE LA NATURALEZA DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 46.
 
-La Contraloría es el órgano de control interno del Instituto que tendrá a su cargo la fiscalización de los ingresos y egresos, así como de conocer de las responsabilidades de los servidores públicos del Instituto; en el ejercicio de sus atribuciones estará dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. En el desempeño de su función su (sic) se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, profesionalismo, exhaustividad y transparencia.
+El Órgano Interno de Control del Instituto tendrá a su cargo la fiscalización de los ingresos y egresos, así como de conocer de las responsabilidades de los servidores públicos del Instituto; en el ejercicio de sus atribuciones estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones; así mismo contará con fe pública en sus actuaciones. En el desempeño de su función se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, profesionalismo, exhaustividad y transparencia.
 
-El titular de la Contraloría será nombrado de una terna propuesta por el Presidente, por el voto de las dos terceras partes de los miembros del Consejo General del Instituto, durará en su encargo cuatro años y podrá ser reelecto por una sola vez; estará adscrito administrativamente a la Presidencia del Consejo General.
+El titular del Órgano Interno de Control será nombrado por el Congreso del Estado con el voto de las dos terceras partes de sus miembros presentes, durará en su encargo cuatro años y podrá ser reelecto por una sola vez; estará adscrito administrativamente a la Presidencia del Consejo General.
 
-La Contraloría contará con la estructura orgánica, personal y recursos que apruebe el Consejo General a propuesta de su titular, de conformidad con las reglas previstas en este capítulo.
+El Órgano Interno de Control contará con la estructura orgánica, personal y recursos que apruebe el Consejo General a propuesta de su titular.
 
-El Contralor podrá ser sancionado conforme a los términos de este Código. A solicitud de los miembros, el Consejo General resolverá sobre la aplicación de las sanciones al Contralor, incluida entre estas la remoción, por causas graves de responsabilidad administrativa, debiendo garantizar el derecho de audiencia al afectado. La remoción requerirá del voto de las dos terceras partes de los miembros presentes en la sesión.
+(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2017 Y SU ACUMULADA 57/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+EL TITULAR DEL ÓRGANO INTERNO DE CONTROL PODRÁ SER SANCIONADO CONFORME A LOS TÉRMINOS DE LA NORMATIVIDAD EN MATERIA DE RESPONSABILIDAD DE SERVIDORES PÚBLICOS. EL CONGRESO DEL ESTADO RESOLVERÁ SOBRE LA APLICACIÓN DE LAS SANCIONES, INCLUIDA ENTRE ESTAS LA REMOCIÓN, POR CAUSAS GRAVES DE RESPONSABILIDAD ADMINISTRATIVA, DEBIENDO GARANTIZAR EL DERECHO DE AUDIENCIA AL AFECTADO. LA REMOCIÓN REQUERIRÁ DEL VOTO DE LAS DOS TERCERAS PARTES DE LOS MIEMBROS PRESENTES.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2017)</small>
 
 APARTADO SEGUNDO
 
-DEL TITULAR DE LA CONTRALORÍA
+DEL TITULAR DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 47.
 
-Para ser Contralor deben reunirse los siguientes requisitos:
+Para ser titular del Órgano Interno de Control deben reunirse los requisitos que establece la Ley General.
 
-I. Ser michoacano en pleno ejercicio de sus derechos políticos y no tener menos de veintiocho años al día de la designación;
+El titular del Órgano Interno de Control tendrá el mismo nivel jerárquico equivalente a un Director Ejecutivo.
 
-II. Estar inscrito en el Registro de Electores y contar con credencial para votar;
-
-III. Poseer título profesional con antigüedad mínima de cinco años, de nivel licenciatura, de contador público u otro relacionado en forma directa con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello, y acreditar que cuenta con experiencia profesional de al menos cinco años en el control, manejo o fiscalización de recursos;
-
-IV. Haber residido en el Estado durante los últimos cinco años;
-
-V. No desempeñar, ni haber desempeñado en los tres años inmediatos anteriores a la designación, cargo directivo nacional, estatal o municipal en algún partido político nacional o local;
-
-VI. No ser servidor público de la federación, el Estado o los municipios, ni desempeñar ninguna otra función pública con excepción de la docencia y cargos honoríficos. Esta prohibición será aplicable en empleos de carácter privado siempre y cuando la relación laboral resulte incompatible con los principios del ejercicio de la función electoral;
-
-VII. No haber sido candidato a cargo alguno de elección popular en los cinco años anteriores a la designación;
-
-VIII. Gozar de buena reputación;
-
-IX. No haber sido condenado por delito grave que merezca pena corporal; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte la buena fama en el concepto público, ello lo inhabilitará para el cargo, cualquiera que haya sido la pena;
-
-X. No ser consejero electoral de cualquiera de los consejos del Instituto, salvo que se haya separado del cargo tres años antes del día de la designación;
-
-XI. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto o a algún partido político.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 48.
 
-Son causas de responsabilidad del Contralor, además de las que señala este Código para los servidores públicos del Instituto, las siguientes:
+Son causas de responsabilidad del titular del Órgano Interno de Control, además de las que señala este Código para los servidores públicos del Instituto, las siguientes:
 
 a) Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos de la legislación en la materia;
 
@@ -751,19 +1183,25 @@ d) Conducirse con parcialidad en el desempeño de sus funciones; y,
 
 e) Incurrir en alguna de las causas mencionadas en la legislación de Responsabilidades de los Servidores Públicos.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 49.
 
-El Contralor del Instituto deberá presentar al Consejo General, para su aprobación, un Programa Anual de Trabajo, que incluya lo relativo a la revisión y fiscalización, en el mes de enero de cada año, los resultados que se tengan de la aplicación de éste, deberán integrarse al Informe anual de resultados de su gestión para entregarse al Consejo General, dentro de los tres meses siguientes a su conclusión.
+El titular del Órgano Interno de Control del Instituto deberá presentar al Consejo General, para su aprobación, un Programa Anual de Trabajo, que incluya lo relativo a la revisión y fiscalización, en el mes de enero de cada año, los resultados que se tengan de la aplicación de éste, deberán integrarse al informe anual de resultados de su gestión para entregarse al Consejo General, dentro de los tres meses siguientes a su conclusión.
 
-El Contralor deberá acudir ante el Consejo General cuando así lo requiera el Consejero Presidente o a solicitud de la mayoría de los integrantes de aquel.
+El titular del Órgano Interno de Control deberá acudir ante el Consejo General cuando así lo requiera el Consejero Presidente o a solicitud de la mayoría de los integrantes de aquel.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2017)</small>
 
 APARTADO TERCERO
 
-DEL FUNCIONAMIENTO DE LA CONTRALORIA
+DEL FUNCIONAMIENTO DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 50.
 
-La Contraloría tendrá las siguientes facultades:
+El titular del Órgano Interno de Control tendrá las siguientes facultades:
 
 a) Fijar los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del Instituto;
 
@@ -781,7 +1219,9 @@ g) Verificar las obras, bienes adquiridos o arrendados y servicios contratados, 
 
 h) Requerir a terceros que hubieran contratado bienes o servicios con el Instituto la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
 
-i) Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todos los servidores públicos de la Contraloría, así como a los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública;
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+i) Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todos los servidores públicos del Órgano Interno de Control, así como a los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública;
 
 j) Emitir los lineamientos, instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas que se presenten en contra de los servidores públicos del Instituto, y llevar el registro de los servidores públicos sancionados;
 
@@ -799,7 +1239,9 @@ p) Fincar las responsabilidades e imponer las sanciones en términos de los line
 
 q) Presentar a la aprobación del Consejo General su programa anual de trabajo;
 
-r) Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos del Instituto, conforme a los formatos y procedimientos que establezca la propia Contraloría;
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+r) Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos del Instituto, conforme a los formatos y procedimientos que establezca el Órgano Interno de Control;
 
 s) Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos que corresponda.
 
@@ -810,6 +1252,8 @@ s) Intervenir en los procesos de entrega-recepción por inicio o conclusión de 
 En cada uno de los distritos electorales y municipios, el Instituto contará con un órgano desconcentrado denominado comité distrital o municipal, según corresponda, que funcionarán durante el tiempo que dure el proceso electoral para el cual fueron designados, y se integran con:
 
 I. Un Consejo Electoral; y,
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE JUNIO DE 2017)</small>
 
 II. Vocales, uno de Organización Electoral y otro de Capacitación Electoral y Educación Cívica.
 
@@ -829,9 +1273,9 @@ II. Cumplir con los acuerdos que dicte el Consejo General;
 
 III. Intervenir en la preparación, desarrollo y vigilancia del proceso electoral en sus distritos;
 
-IV. Capacitar a los ciudadanos propuestos como funcionarios de casilla, cuando corresponda;
+IV. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
-V. Conocer del registro de los nombramientos que realicen los consejos municipales electorales, de los representantes de los partidos políticos y de los candidatos independientes ante las mesas directivas de casilla y representantes generales;
+V. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
 VI. Recibir las listas nominales de electores, boletas y formatos para los comicios de diputados y Gobernador, en su caso;
 
@@ -863,23 +1307,23 @@ II. Cumplir con los acuerdos que dicte el Consejo General;
 
 III. Intervenir en la preparación, desarrollo y vigilancia del proceso electoral en su Municipio;
 
-IV. Acreditar a los ciudadanos, que participan como observadores en el proceso electoral;
+IV. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
 V. Aprobar el nombramiento del personal para el cumplimiento de sus funciones de acuerdo con la estructura y lineamientos del Consejo General;
 
-VI Aprobar, en su caso, la contratación de los capacitadores-asistentes electorales de acuerdo con la convocatoria y lineamientos que apruebe el Consejo General;
+VI. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
-VII. Supervisar el cumplimiento de los programas de trabajo aprobados para los capacitadores-asistentes electorales y aplicar los mecanismos de evaluación respectivos;
+VII. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
-VIII. Capacitar, en su caso, a los ciudadanos que fungirán como funcionarios de casilla;
+VIII. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
-IX. Vigilar que las mesas directivas de casilla se instalen;
+IX. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
-X. Registrar los nombramientos de los representantes de los partidos políticos y candidatos independientes ante las mesas directivas de casilla y generales, informando al consejo electoral de comité distrital de los registros procedentes;
+X. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
 XI. Recibir, en su caso, del Consejo General y electoral de comité distrital las listas nominales de electores, boletas y formatos para los comicios de Gobernador, diputados y ayuntamientos;
 
-XII. Entregar, en su caso, las listas nominales de electores, boletas, formatos y útiles a los presidentes de las mesas directivas de casilla;
+XII. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
 XIII. Realizar el cómputo y declaración de validez de la elección de ayuntamientos;
 
@@ -893,33 +1337,13 @@ XVII. Solicitar por conducto de su Presidente, el apoyo de la fuerza pública pa
 
 XVIII. Las demás que le confiera este Código, el Consejo General y otras disposiciones legales.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE JUNIO DE 2017)</small>
+
 #### SECCIÓN TERCERA. DE LOS CAPACITADORES-ASISTENTES ELECTORALES
 
 ###### ARTÍCULO 54.
 
-El Instituto, cuando corresponda, para apoyarse en la organización de las elecciones, contratará mediante convocatoria pública, a través de los consejos electorales a los capacitadores-asistentes electorales que sean necesarios para el desarrollo de su función, de acuerdo con los criterios que apruebe el Consejo General.
-
-Los capacitadores-asistentes electorales colaborarán con los órganos desconcentrados del Instituto en el cumplimiento de las funciones relativas a:
-
-I. La notificación de los ciudadanos insaculados para integrar las mesas directivas de casilla, así como, la impartición de los cursos de capacitación electoral a los mismos;
-
-II. La entrega de la documentación y material electoral al presidente de las mesas directivas de casilla;
-
-III. La instalación de las mesas directivas de casilla;
-
-IV. La asistencia técnica a los funcionarios de las mesas directivas de casilla;
-
-V. El buen desarrollo de la jornada electoral;
-
-VI. La recepción y remisión oportuna de la copia del acta de escrutinio y cómputo de la votación recibida en casilla, correspondiente al programa de resultados electorales preliminares;
-
-VII. El oportuno traslado y la seguridad de los paquetes electorales a los consejos electorales correspondientes;
-
-VIII. Auxiliar a los consejos electorales en las sesiones de cómputo, sin sustituirlos en sus funciones; y,
-
-IX. Las demás que se deriven del programa que apruebe el Consejo General, y las que determinen los consejos electorales.
-
-Los capacitadores-asistentes electorales realizarán sus funciones conforme a lo dispuesto en el presente Código, a los lineamientos que dicte el Consejo General, y por ningún motivo suplantarán o sustituirán en sus funciones a los funcionarios de las mesas directivas de casilla.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 #### SECCIÓN CUARTA. DISPOSICIONES COMUNES A LOS ÓRGANOS DESCONCENTRADOS
 
@@ -967,9 +1391,11 @@ VII. Gozar de buena reputación; y,
 
 VIII. No haber sido condenado por delito doloso que merezca pena corporal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 58.
 
-A más tardar ciento treinta y cinco días antes de la jornada electoral, los consejos electorales deberán ser instalados e iniciar sus sesiones y actividades. A partir de esa fecha y hasta el término del proceso, sesionarán por lo menos una vez al mes.
+A más tardar ciento setenta días antes de la jornada electoral, los consejos electorales deberán ser instalados e iniciar sus sesiones y actividades. A partir de esa fecha y hasta el término del proceso, sesionarán por lo menos una vez al mes.
 
 Para que los consejos electorales puedan sesionar será necesaria la presencia del Presidente y de la mayoría de los integrantes con derecho a voto, de no tenerse esa mayoría en primera convocatoria, se citará de inmediato a una sesión a realizarse dentro de las veinticuatro horas siguientes, llamándose a los consejeros suplentes de quienes no hayan asistido, la cual se podrá celebrar con la asistencia del Presidente y de los consejeros que concurran. Este acto se consignará en el acta respectiva.
 
@@ -987,9 +1413,11 @@ Los consejos electorales determinarán el horario de labores de sus comités, te
 
 El Tribunal Electoral del Estado de Michoacán es el órgano permanente, con autonomía técnica y de gestión e independencia en sus decisiones, máxima autoridad jurisdiccional en materia electoral; el cual es competente para conocer y resolver Recursos de Apelación, Juicios de Inconformidad, Juicios para la Protección de los Derechos Político-Electorales y Procedimientos Especiales Sancionadores.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 61.
 
-El Tribunal se regirá por los principios de certeza, legalidad, independencia, imparcialidad, objetividad y probidad.
+El Tribunal se regirá por los principios de certeza, legalidad, independencia, imparcialidad, objetividad, probidad y máxima publicidad.
 
 ###### ARTÍCULO 62.
 
@@ -1001,7 +1429,9 @@ El Congreso, al día siguiente de recibida la notificación de la vacante tempor
 
 Entre el día que tome conocimiento el Pleno del Congreso de la vacante temporal y aquel en que se celebre la Sesión en que se vote, no podrán mediar más de 5 días.
 
-De no lograrse la votación requerida, o vencerse el plazo en el párrafo anterior, el Pleno del Tribunal, elegirá de entre los propuestos.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+De no lograrse la votación requerida, o vencerse el plazo establecido en el párrafo anterior, el Pleno del Tribunal, elegirá de entre las propuestas.
 
 ### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN DEL TRIBUNAL
 
@@ -1209,101 +1639,41 @@ El Instituto contará con los recursos presupuestarios, técnicos, humanos y mat
 
 ## TÍTULO SEGUNDO. DE LA CONFORMACIÓN DE LOS PARTIDOS POLÍTICOS
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2017)</small>
+
 ### CAPÍTULO PRIMERO. DE LA CONSTITUCIÓN Y REGISTRO DE LOS PARTIDOS POLÍTICOS ESTATALES
 
 ###### ARTÍCULO 74.
 
-Las organizaciones de ciudadanos que pretendan constituirse en partido político local deberán obtener su registro ante el Instituto.
-
-Para que una organización de ciudadanos sea registrada como partido político local, se deberá verificar que ésta cumpla con los requisitos siguientes:
-
-a) Presentar una declaración de principios y, en congruencia con éstos, su programa de acción y los estatutos que normarán sus actividades; los cuales deberán satisfacer los requisitos mínimos establecidos en el presente; y,
-
-b) Contar con militantes en cuando menos dos terceras partes de los municipios del Estado; los cuales deberán contar con credencial para votar en dichos municipios; bajo ninguna circunstancia, el número total de sus militantes en la entidad podrá ser inferior al 0.26 por ciento del padrón electoral que haya sido utilizado en la elección local ordinaria inmediata anterior a la presentación de la solicitud de que se trate.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 75.
 
-Para obtener su registro como partido político estatal, los interesados deberán presentar solicitud por escrito ante el Instituto, a más tardar en el mes de enero del año anterior al de la elección.
-
-A partir del momento del aviso al Instituto hasta la resolución sobre la procedencia del registro, la organización informará mensualmente sobre el origen y destino de sus recursos, dentro de los primeros diez días de cada mes.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 76.
 
-Para que una organización de ciudadanos sea registrada como partido político local, se deberá acreditar:
-
-a) La celebración, por lo menos en dos terceras partes de los distritos electorales locales, o bien, de los municipios del Estado, según sea el caso, de una asamblea en presencia de servidor público del Instituto investido de fe pública, quien certificará:
-
-I. El número de afiliados que concurrieron y participaron en las asambleas, que en ningún caso podrá ser menor del 0.26% del padrón electoral del distrito o Municipio; que suscribieron el documento de manifestación formal de afiliación; que asistieron libremente; que conocieron y aprobaron la declaración de principios, el programa de acción y los estatutos; y que eligieron a los delegados propietarios y suplentes a la asamblea local constitutiva;
-
-II. Que con los ciudadanos mencionados en la fracción anterior, quedaron formadas las listas de afiliados, con el nombre, los apellidos, domicilio, clave y folio de la credencial para votar, y,
-
-III. Que en la realización de las asambleas de que se trate no existió intervención de organizaciones gremiales o de otras con objeto social diferente al de constituir el partido político.
-
-b) La celebración de una asamblea local constitutiva ante la presencia del servidor público del Instituto investido de fe pública, quien certificará:
-
-I. Que asistieron los delegados propietarios o suplentes, elegidos en las asambleas distritales o municipales;
-
-II. Que acreditaron, por medio de las actas correspondientes, que las asambleas se celebraron de conformidad con lo prescrito en el inciso anterior;
-
-III. Que se comprobó la identidad y residencia de los delegados a la asamblea local, por medio de su credencial para votar u otro documento fehaciente;
-
-IV. Que los delegados aprobaron la declaración de principios, programa de acción y estatutos, y,
-
-V. Que se presentaron las listas de afiliados con los demás ciudadanos con que cuenta la organización en el Estado, con el objeto de satisfacer el requisito del porcentaje mínimo exigido por este Código. Estas listas contendrán los datos requeridos en la fracción II del inciso a) de este artículo.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 77.
 
-El costo de las certificaciones requeridas será con cargo al presupuesto del Instituto. Los servidores públicos autorizados para expedirlas están obligados a realizar las actuaciones correspondientes.
-
-En caso de que la organización interesada no presente su solicitud de registro en el plazo previsto, dejará de tener efecto la notificación formulada.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 78.
 
-Una vez realizados los actos relativos al procedimiento de constitución de un partido político local, la organización de ciudadanos interesada, en el mes de enero del año anterior al de la siguiente elección, presentará ante el Instituto, la solicitud de registro, acompañándola con los siguientes documentos:
-
-a) La declaración de principios, el programa de acción y los estatutos aprobados por sus afiliados;
-
-b) Las listas nominales de afiliados por distritos electorales o municipios, a que se refiere el artículo 74. Esta información deberá presentarse en archivos en medio digital; y,
-
-c) Las actas de las asambleas celebradas en los distritos electorales o la de su asamblea local constitutiva, correspondiente.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 79.
 
-El Instituto, conocerá de la solicitud de los ciudadanos que pretendan su registro como partido político local, examinará los documentos de la solicitud de registro a fin de verificar el cumplimiento de los requisitos y del procedimiento de constitución señalados y formulará el proyecto de dictamen de registro.
-
-El Instituto notificará al Instituto Nacional para que realice la verificación del número de afiliados y de la autenticidad de las afiliaciones al nuevo partido, conforme al cual se constatará que se cuenta con el número mínimo de afiliados, cerciorándose de que dichas afiliaciones cuenten con un año de antigüedad como máximo dentro del partido político de nueva creación.
-
-El Instituto, llevará un libro de registro de los partidos políticos locales que contendrá, al menos:
-
-a) Denominación del partido político;
-
-b) Emblema y color o colores que lo caractericen;
-
-c) Fecha de constitución;
-
-d) Documentos básicos;
-
-e) Dirigencia;
-
-f) Domicilio legal, y,
-
-g) Padrón de afiliados.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 80.
 
-Para los efectos de lo dispuesto en este Código, se deberá verificar que no exista doble afiliación a partidos ya registrados o en formación.
-
-En el caso de que un ciudadano aparezca en más de un padrón de afiliados de partidos políticos, el Instituto, dará vista a los partidos políticos involucrados para que manifiesten lo que a su derecho convenga; de subsistir la doble afiliación, el Instituto requerirá al ciudadano para que se manifieste al respecto y, en caso de que no se manifieste, subsistirá la más reciente.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 81.
 
-El Instituto elaborará el proyecto de dictamen y dentro del plazo de sesenta días contados a partir de que tenga conocimiento de la presentación de la solicitud de registro, resolverá lo conducente.
-
-Cuando proceda, expedirá el certificado correspondiente haciendo constar el registro. En caso de negativa fundamentará las causas que la motivan y lo comunicará a los interesados. El registro de los partidos políticos surtirá efectos constitutivos a partir del primer día del mes de julio del año previo al de la elección.
-
-La resolución se deberá publicar en el Periódico Oficial, y podrá ser recurrida ante el Tribunal.
-
-Cuando no se cumpla con los requisitos y procedimientos señalados en este capítulo, el Consejo General se abstendrá de autorizar el registro, indicando a los interesados las omisiones para que puedan ser subsanadas dentro del plazo no mayor de treinta días.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ### CAPÍTULO SEGUNDO. DE LAS AGRUPACIONES POLÍTICAS ESTATALES
 
@@ -1321,7 +1691,9 @@ El acuerdo de participación a que se refiere el párrafo anterior deberá prese
 
 En la propaganda y campaña electoral, se podrá mencionar a la agrupación participante.
 
-Las agrupaciones políticas estarán sujetas a las obligaciones y procedimientos de fiscalización de sus recursos conforme a lo establecido en el presente.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Las agrupaciones políticas estarán sujetas a las obligaciones y procedimientos de fiscalización de sus recursos conforme a las normas establecidas en la Ley General de Partidos Políticos, los acuerdos, los reglamentos y lineamientos que para tal efecto emita el Instituto Nacional y el Instituto.
 
 ###### ARTÍCULO 84.
 
@@ -1403,6 +1775,8 @@ c) Ser miembro en servicio activo de cualquier fuerza armada o policiaca, y,
 
 d) Ser agente del Ministerio Público federal o local.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 87.
 
 Son obligaciones de los partidos políticos:
@@ -1425,7 +1799,9 @@ h) Rechazar toda clase de apoyo económico, político o propagandístico proveni
 
 i) Publicar y difundir en las demarcaciones electorales en que participen, así como en los tiempos que les corresponden en las estaciones de radio y en los canales de televisión, la plataforma electoral que sostendrán en la elección de que se trate;
 
-j) Permitir la práctica de auditorías y verificaciones por el Instituto, así como entregar la documentación que el Instituto les requieran (sic) respecto a sus ingresos y egresos;
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+j) Permitir la práctica de auditorías y verificaciones por el Instituto, así como entregar la documentación que el Instituto les requiera respecto a sus ingresos y egresos, en los términos de la normatividad aplicable, en caso de que el Instituto Nacional delegue la facultad de fiscalización;
 
 k) Comunicar al Instituto, cualquier modificación a sus documentos básicos, dentro de los diez días siguientes a la fecha en que se tome el acuerdo correspondiente por el partido político. Las modificaciones no surtirán efectos hasta que el Consejo General, declare la procedencia constitucional y legal de las mismas. La resolución deberá dictarse en un plazo que no exceda de 30 días naturales contados a partir de la presentación de la documentación correspondiente, así como los cambios de los integrantes de sus órganos directivos y de su domicilio social, en términos de las disposiciones aplicables;
 
@@ -1433,7 +1809,9 @@ l) Actuar y conducirse sin ligas de dependencia o subordinación con partidos po
 
 m) Aplicar el financiamiento de que dispongan exclusivamente para los fines que les hayan sido entregados;
 
-n) Abstenerse, en su propaganda política o electoral, de cualquier expresión que denigre a las instituciones y a los partidos políticos o que calumnie a las personas;
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+n) Abstenerse, en su propaganda política o electoral, de cualquier expresión que calumnie a las instituciones, a los partidos políticos y a las personas;
 
 o) Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
@@ -1441,7 +1819,9 @@ p) Abstenerse de realizar afiliaciones colectivas de ciudadanos;
 
 q) Garantizar la equidad y la paridad de los géneros en sus órganos de dirección y en las candidaturas a cargos de elección popular;
 
-r) Elaborar y entregar los informes de origen y uso de recursos a que se refiere el presente;
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+r) Elaborar y entregar los informes de origen y uso de recursos en los términos de la normatividad aplicable;
 
 s) Cumplir con las obligaciones que la legislación en materia de transparencia y acceso a su información les impone;
 
@@ -1465,333 +1845,119 @@ d) Usar las franquicias postales y telegráficas que sean necesarias para el cum
 
 ### CAPÍTULO CUARTO. DE LAS OBLIGACIONES DE LOS PARTIDOS POLÍTICOS EN MATERIA DE TRANSPARENCIA
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 89.
 
-Toda persona tiene derecho a acceder a la información de los partidos políticos de conformidad con las normas previstas en este Capítulo y en la legislación en materia de transparencia y acceso a la información. El Órgano del Estado garante del derecho de Transparencia y Acceso a la Información Pública tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales en posesión de los partidos políticos.
-
-Las personas accederán a la información de los partidos políticos de manera directa, en los términos que disponga la ley a que se refiere el dispositivo constitucional en materia de transparencia.
-
-La legislación de la materia establecerá los órganos, formatos, procedimientos y plazos para desahogar las solicitudes que se presenten sobre la información de los partidos políticos.
-
-Cuando la información solicitada se encuentre disponible públicamente, incluyendo la página electrónica oficial del Instituto o del partido político de que se trate, se deberá entregar siempre dicha información notificando al solicitante la forma en que podrá obtenerla.
-
-Cuando la información no se encuentre disponible públicamente, las solicitudes de acceso a la información procederán en forma impresa o en medio electrónico.
-
-Los partidos políticos están obligados a publicar en su página electrónica, como mínimo, la información especificada como obligaciones de transparencia en la ley de la materia.
-
-La información que los partidos políticos proporcionen al Instituto, o que éste genere respecto a los mismos, por regla general deberá ser pública y sólo se podrá reservar por excepción, en los términos que disponga la ley de la materia, y deberá estar a disposición de toda persona a través de la página electrónica del Instituto.
+Los partidos políticos y candidatos independientes en los procesos electorales, se regirán en materia de acceso a la transparencia y protección de datos personales de conformidad a la Ley General y Estatal en materia de Transparencia.
 
 ###### ARTÍCULO 90.
 
-Los partidos políticos deberán contemplar en sus estatutos la forma de garantizar la protección de los datos personales de sus militantes, así como los derechos al acceso, rectificación, cancelación y oposición de éstos.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 91.
 
-Se considera información pública de los partidos políticos:
-
-a) Sus documentos básicos;
-
-b) Las facultades de sus órganos de dirección;
-
-c) Los reglamentos, acuerdos y demás disposiciones de carácter general, aprobados por sus órganos de dirección, que regulen su vida interna, las obligaciones y derechos de sus militantes, la elección de sus dirigentes y la postulación de sus candidatos a cargos de elección popular;
-
-d) El padrón de sus militantes, conteniendo exclusivamente el apellido paterno, materno, nombre o nombres, fecha de afiliación y entidad de residencia;
-
-e) El directorio de sus órganos estatales y municipales;
-
-f) Las remuneraciones ordinarias y extraordinarias que perciben los integrantes de los órganos a que se refiere el inciso anterior, así como de cualquier persona que reciba ingresos por parte del partido político, independientemente de la función o cargo que desempeñe dentro o fuera de éste;
-
-g) Los contratos y convenios suscritos para la adquisición, arrendamiento, concesiones y prestación de bienes y servicios;
-
-h) Las plataformas electorales y programas de gobierno que registren ante el Instituto;
-
-i) Los convenios de frente, coalición o fusión que celebren;
-
-j) Las convocatorias que emitan para la elección de sus dirigentes o la postulación de sus candidatos a cargos de elección popular;
-
-k) Los montos de financiamiento público otorgados en cualquier modalidad, a sus órganos estatales y municipales, durante los últimos cinco años y hasta el mes más reciente, así como los descuentos correspondientes a sanciones;
-
-l) Los informes que estén obligados a entregar, el estado de la situación patrimonial del partido político, el inventario de los bienes inmuebles de los que sean propietarios, tengan arrendados o estén en su posesión bajo cualquier figura jurídica, así como los anexos que formen parte integrante de los documentos anteriores, la relación de donantes y los montos aportados por cada uno;
-
-m) Resultados de revisiones, informes, verificaciones y auditorías de que sean objeto con motivo de la fiscalización de sus recursos, una vez concluidas; así como su debido cumplimiento;
-
-n) Sentencias de los órganos jurisdiccionales en los que el partido sea parte del proceso así como su forma de acatarla;
-
-o) Resoluciones dictadas por sus órganos de control interno;
-
-p) Las resoluciones relativas a garantizar los derechos de sus militantes, así como su cabal cumplimiento;
-
-q) Los nombres de sus representantes ante el Instituto;
-
-r) El listado de las fundaciones, centros o institutos de investigación o capacitación, o cualquier otro, que reciban apoyo económico del partido político;
-
-s) El dictamen y resolución que el Consejo General, haya aprobado respecto de los informes a que se refiere el inciso l) de este párrafo; y,
-
-t) La demás que señale la norma y demás leyes aplicables en materia de transparencia.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 92.
 
-Se considerará reservada la información relativa a los procesos deliberativos de los órganos internos de los partidos políticos, la correspondiente a sus estrategias políticas, la contenida en todo tipo de encuestas por ellos ordenadas, así como la referida a las actividades de naturaleza privada, personal o familiar, de sus militantes, dirigentes, precandidatos y candidatos a cargos de elección popular, en términos de la ley de la materia.
-
-No se podrá reservar la información relativa a la asignación y ejercicio de los gastos de campañas, precampañas y gastos en general del partido político con cuenta al presupuesto público, ni las aportaciones de cualquier tipo o especie que realicen los particulares sin importar el destino de los recursos aportados.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 93.
 
-Los partidos políticos deberán mantener actualizada la información pública establecida en este capítulo de forma permanente a través de sus páginas electrónicas, sin perjuicio de la periodicidad, formatos y medios que establezca para todas las obligaciones de transparencia, este Código y la normatividad de la materia.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 94.
 
-El incumplimiento de las obligaciones establecidas será sancionado en los términos que dispone la ley de la materia, sin perjuicio de las sanciones establecidas para los partidos políticos en la Ley General.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2017)</small>
 
 ## TÍTULO TERCERO. DE LA ORGANIZACIÓN INTERNA DE LOS PARTIDOS POLÍTICOS
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE JUNIO DE 2017)</small>
 
 ### CAPÍTULO PRIMERO. DE LOS ASUNTOS INTERNOS DE LOS PARTIDOS POLÍTICOS
 
 ###### ARTÍCULO 95.
 
-Para los efectos de lo dispuesto en el penúltimo párrafo de la Base I del artículo 41 de la Constitución General, los asuntos internos de los partidos políticos comprenden el conjunto de actos y procedimientos relativos a su organización y funcionamiento, con base en las disposiciones previstas en ella, en la Constitución Local, en el presente, así como en su respectivo Estatuto y reglamentos que aprueben sus órganos de dirección.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
-Son asuntos internos de los partidos políticos:
-
-a) La elaboración y modificación de sus documentos básicos, las (sic) cuales en ningún caso se podrán hacer una vez iniciado el proceso electoral;
-
-b) La determinación de los requisitos y mecanismos para la libre y voluntaria afiliación de los ciudadanos a éstos;
-
-c) La elección de los integrantes de sus órganos internos;
-
-d) Los procedimientos y requisitos para la selección de sus precandidatos y candidatos a cargos de elección popular;
-
-e) Los procesos deliberativos para la definición de sus estrategias políticas y electorales y, en general, para la toma de decisiones por sus órganos internos y de los organismos que agrupen a sus militantes, y,
-
-f) La emisión de los reglamentos internos y acuerdos de carácter general que se requieran para el cumplimiento de sus documentos básicos.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2017)</small>
 
 ### CAPÍTULO SEGUNDO. DE LOS DOCUMENTOS BÁSICOS DE LOS PARTIDOS POLÍTICOS
 
 ###### ARTÍCULO 96.
 
-Los documentos básicos de los partidos políticos son:
-
-a) La declaración de principios;
-
-b) El programa de acción; y,
-
-c) Los estatutos.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 97.
 
-Para la declaratoria de procedencia constitucional y legal de los documentos básicos de los partidos políticos, el Consejo General, atenderá el derecho de los partidos para dictar las normas y procedimientos de organización que les permitan funcionar de acuerdo con sus fines.
-
-Los partidos políticos deberán comunicar al Instituto, los reglamentos que emitan, en un plazo no mayor de diez días posteriores a su aprobación, éste verificará el apego de dichos reglamentos a las normas legales y estatutarias y los registrará en el libro respectivo.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 98.
 
-La declaración de principios contendrá, por lo menos:
-
-a) La obligación de observar la Constitución Local y de respetar las leyes e instituciones que de ella emanen;
-
-b) Los principios ideológicos de carácter político, económico y social que postule el solicitante;
-
-c) La declaración de no aceptar pacto o acuerdo que lo sujete o subordine al solicitante a cualquier organización internacional o lo haga depender de entidades o partidos políticos extranjeros; así como no solicitar o, en su caso, rechazar toda clase de apoyo económico, político o propagandístico proveniente de extranjeros o de ministros de los cultos de cualquier religión, así como de las asociaciones y organizaciones religiosas e iglesias y de cualquiera de las personas a las que este Código prohíbe financiar a los partidos políticos;
-
-d) La obligación de conducir sus actividades por medios pacíficos y por la vía democrática; y,
-
-e) La obligación de promover la participación política en igualdad de oportunidades y equidad entre mujeres y hombres.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 99.
 
-El programa de acción determinará las medidas para:
-
-a) Alcanzar los objetivos de los partidos políticos;
-
-b) Proponer políticas públicas de impulso al desarrollo del Estado;
-
-c) Ejecutar las acciones referentes a la formación ideológica y políticamente de sus militantes; y,
-
-d) Preparar la participación activa de sus militantes en los procesos electorales.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 100.
 
-Los estatutos establecerán:
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
-a) La denominación del partido político, el emblema y el color o colores que lo caractericen y diferencien de otros partidos políticos. La denominación y el emblema estarán exentos de alusiones religiosas o raciales; además de señalar su domicilio social a nivel estatal, regional y municipal, según el caso;
-
-b) Los procedimientos para la afiliación individual, personal, libre y pacífica de sus miembros, así como sus derechos y obligaciones;
-
-c) Los derechos y obligaciones de los militantes;
-
-d) La estructura orgánica bajo la cual se organizará el partido político;
-
-e) Las normas y procedimientos democráticos para la integración y renovación de los órganos internos, así como las funciones, facultades y obligaciones de los mismos;
-
-f) Las normas y procedimientos democráticos para la postulación de sus candidatos;
-
-g) La obligación de presentar una plataforma electoral, para cada elección en que participe, sustentada en su declaración de principios y programa de acción;
-
-h) La obligación de sus candidatos de sostener y difundir la plataforma electoral durante la campaña electoral en que participen;
-
-i) Los tipos y las reglas de financiamiento privado a los que recurrirán los partidos políticos;
-
-j) Las normas, plazos y procedimientos de justicia intrapartidaria y los mecanismos alternativos de solución de controversias internas, con los cuales se garanticen los derechos de los militantes, así como la oportunidad y legalidad de las resoluciones; y,
-
-k) Las sanciones aplicables a los miembros que infrinjan sus disposiciones internas, mediante un procedimiento disciplinario intrapartidario, con las garantías procesales mínimas que incluyan los derechos de audiencia y defensa, la descripción de las posibles infracciones a la normatividad interna o causales de expulsión y la obligación de motivar y fundar la resolución respectiva.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2017)</small>
 
 ### CAPÍTULO TERCERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS MILITANTES
 
 ###### ARTÍCULO 101.
 
-Los partidos políticos podrán establecer en sus estatutos las categorías de sus militantes conforme a su nivel de participación y responsabilidades. Asimismo, deberán establecer sus derechos entre los que se incluirán, al menos, los siguientes:
-
-a) Participar personalmente y de manera directa o por medio de delegados en asambleas, consejos, convenciones o equivalentes, en las que se adopten decisiones relacionadas con la aprobación de los documentos básicos del partido político y sus modificaciones, la elección de dirigentes y candidatos a puestos de elección popular, la fusión, coalición, formación de frentes y disolución del partido político;
-
-b) Postularse dentro de los procesos internos de selección de candidatos a cargos de representación popular, cumpliendo con los requisitos que se establezcan en las disposiciones aplicables y en los estatutos de cada partido político;
-
-c) Postularse dentro de los procesos de selección de dirigentes, así como para ser nombrado en cualquier otro empleo o comisión al interior del partido político, cumpliendo con los requisitos establecidos por sus estatutos;
-
-d) Pedir y recibir información pública sobre cualquier asunto del partido político, en los términos de las leyes en materia de transparencia, independientemente de que tengan o no interés jurídico directo en el asunto respecto del cual solicitan la información;
-
-e) Solicitar la rendición de cuentas a sus dirigentes, a través de los informes que, con base en la normatividad interna, se encuentren obligados a presentar durante su gestión;
-
-f) Exigir el cumplimiento de los documentos básicos del partido político;
-
-g) Recibir capacitación y formación política e información para el ejercicio de sus derechos políticos y electorales;
-
-h) Tener acceso a la jurisdicción interna del partido político y, en su caso, a recibir orientación jurídica en el ejercicio y goce de sus derechos como militante cuando sean violentados al interior del partido político;
-
-i) Impugnar ante el Tribunal, resoluciones y decisiones de los órganos internos que afecten sus derechos político-electorales, y,
-
-j) Refrendar, en su caso, o renunciar a su condición de militante.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 102.
 
-Los estatutos de los partidos políticos establecerán las obligaciones de sus militantes y deberán contener, al menos, las siguientes:
-
-a) Respetar y cumplir los estatutos y la normatividad partidaria;
-
-b) Respetar y difundir los principios ideológicos y el programa de acción;
-
-c) Contribuir a las finanzas del partido político en los términos previstos por las normas internas y cumplir con el pago de cuotas que el partido determine, dentro de los límites que establezcan las leyes electorales;
-
-d) Velar por la democracia interna y el cumplimiento de las normas partidarias;
-
-e) Cumplir con las disposiciones legales en materia electoral;
-
-f) Cumplir con las resoluciones internas que hayan sido dictadas por los órganos facultados para ello y con base en las normas partidarias;
-
-g) Participar en las asambleas, convenciones y demás reuniones a las que le corresponda asistir; y,
-
-h) Formarse y capacitarse a través de los programas de formación del partido político.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 103.
 
-El Instituto verificará que una misma persona no se encuentre afiliada en más de un partido político y establecerá mecanismos de consulta de los padrones respectivos.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
-En caso de que un ciudadano aparezca en más de un padrón de afiliados de partidos políticos, se procederá conforme a lo dispuesto en el presente.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE JUNIO DE 2017)</small>
 
 ### CAPÍTULO CUARTO. DE LOS ÓRGANOS INTERNOS DE LOS PARTIDOS POLÍTICOS
 
 ###### ARTÍCULO 104.
 
-Entre los órganos internos de los partidos políticos deberán contemplarse, cuando menos, los siguientes:
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
-a) Una asamblea u órgano equivalente, integrado con representantes todos de los municipios, en el caso de partidos políticos locales, la cual será la máxima autoridad del partido y tendrá facultades deliberativas;
-
-b) Un comité directivo estatal u órgano equivalente, que será el representante del partido, con facultades ejecutivas, de supervisión y, en su caso, de autorización en las decisiones de las demás instancias partidistas;
-
-c) Un órgano responsable de la administración de su patrimonio y recursos financieros y de la presentación de los informes de ingresos y egresos trimestrales y anuales, de precampaña y campaña;
-
-d) Un órgano de decisión colegiada, democráticamente integrado, responsable de la organización de los procesos para la integración de los órganos internos del partido político y para la selección de candidatos a cargos de elección popular;
-
-e) Un órgano de decisión colegiada, responsable de la impartición de justicia intrapartidaria, el cual deberá ser independiente, imparcial y objetivo;
-
-f) Un órgano encargado de cumplir con las obligaciones de transparencia y acceso a la información que la Constitución General, la Constitución Local y normatividad de la materia imponen a los partidos políticos; y,
-
-g) Un órgano encargado de la educación y capacitación cívica de los militantes y dirigentes.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2017)</small>
 
 ### CAPÍTULO QUINTO. DE LOS PROCESOS DE INTEGRACIÓN DE ÓRGANOS INTERNOS Y DE SELECCIÓN DE CANDIDATOS
 
 ###### ARTÍCULO 105.
 
-Los procedimientos internos para la integración de los órganos internos de los partidos políticos y para la postulación de candidatos a cargos de elección popular, estarán a cargo del órgano previsto en el inciso d) del artículo anterior y se desarrollarán con base en los lineamientos básicos siguientes:
-
-a) El partido político, a través del órgano facultado para ello, publicará la convocatoria que otorgue certidumbre y cumpla con las normas estatutarias, la cual contendrá, por lo menos, lo siguiente:
-
-I. Cargos o candidaturas a elegir;
-
-II. Requisitos de elegibilidad, entre los que se podrán incluir los relativos a la identificación de los precandidatos o candidatos con los programas, principios e ideas del partido y otros requisitos, siempre y cuando no vulneren el contenido esencial del derecho a ser votado;
-
-III. Fechas de registro de precandidaturas o candidaturas;
-
-IV. Documentación a ser entregada;
-
-V. Periodo para subsanar posibles omisiones o defectos en la documentación de registro;
-
-VI. Reglas generales y topes de gastos de campaña para la elección de dirigentes y de precampaña para cargos de elección popular, en los términos que establezca el Instituto;
-
-VII. Método de selección, para el caso de voto de los militantes, éste deberá ser libre y secreto;
-
-VIII. Fecha y lugar de la elección; y,
-
-IX. Fechas en las que se deberán presentar los informes de ingresos y egresos de campaña o de precampaña, en su caso.
-
-b) El órgano colegiado a que se refiere el inciso d) del párrafo 1 del artículo anterior:
-
-I. Registrará a los precandidatos o candidatos y dictaminará sobre su elegibilidad; y,
-
-II. Garantizará la imparcialidad, equidad, transparencia y legalidad de las etapas del proceso.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 106.
 
-Los partidos políticos podrán solicitar al Instituto, que organice la elección de sus órganos de dirección, con base en sus estatutos, reglamentos y procedimientos, y con cargo a sus prerrogativas.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
-Para la organización y el desarrollo del proceso de elección, se aplicarán las reglas siguientes:
-
-a) Los partidos políticos establecerán en sus estatutos el órgano interno facultado, los supuestos y el procedimiento para determinar la procedencia de la solicitud;
-
-b) El partido político presentará al Instituto la solicitud de apoyo por conducto del órgano ejecutivo correspondiente, cuatro meses antes del vencimiento del plazo para la elección del órgano de dirección que corresponda;
-
-c) En caso de que, por controversias planteadas ante tribunales, el plazo de renovación de un órgano de dirección se hubiere vencido, el partido político podrá solicitar al Instituto, organice la elección fuera del plazo señalado en el párrafo anterior;
-
-d) Los partidos sólo podrán solicitar la colaboración del Instituto durante periodos no electorales;
-
-e) El partido político solicitante acordará con el Instituto los alcances de su participación, así como las condiciones para la organización y desarrollo del proceso, las cuales deberán estar apegadas a lo establecido en los Estatutos y reglamentos del partido político;
-
-f) En el acuerdo se establecerán los mecanismos para que los costos de organización del proceso, en los cuales podrá incluirse la eventual contratación por obra determinada de personal por parte del Instituto, para tal fin, sean con cargo a las prerrogativas del partido político solicitante;
-
-g) El Instituto se coordinará con el órgano correspondiente para el desarrollo del proceso;
-
-h) La elección se realizará preferentemente con el apoyo de medios electrónicos para la recepción de la votación; y,
-
-i) El Instituto, únicamente podrá rechazar la solicitud si existe imposibilidad material para organizar la elección interna.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2017)</small>
 
 ### CAPÍTULO SEXTO. DE LA JUSTICIA INTRAPARTIDARIA
 
 ###### ARTÍCULO 107.
 
-Los partidos políticos establecerán procedimientos de justicia intrapartidaria que incluyan mecanismos alternativos de solución de controversias.
-
-El órgano de decisión colegiado previsto en el presente Código deberá estar integrado de manera previa a la sustanciación del procedimiento, por un número impar de miembros; será el órgano responsable de impartir justicia interna y deberá conducirse con independencia, imparcialidad y legalidad, así como con respeto a los plazos que establezcan los estatutos de los partidos políticos.
-
-Los estatutos de los partidos políticos establecerán medios alternativos de solución de controversias sobre asuntos internos, para lo cual deberán prever los supuestos en los que serán procedentes, la sujeción voluntaria, los plazos y las formalidades del procedimiento.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 108.
 
-El órgano de decisión colegiada a que se refiere el artículo anterior aprobará sus resoluciones por mayoría de votos.
-
-Todas las controversias relacionadas con los asuntos internos de los partidos políticos serán resueltas por los órganos establecidos en sus estatutos para tales efectos, debiendo resolver en tiempo para garantizar los derechos de los militantes. Sólo una vez que se agoten los medios partidistas de defensa los militantes tendrán derecho de acudir ante el Tribunal.
-
-En las resoluciones de los órganos de decisión colegiados se deberán ponderar los derechos políticos de los ciudadanos en relación con los principios de auto organización y auto determinación de que gozan los partidos políticos para la consecución de sus fines.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 109.
 
-El sistema de justicia interna de los partidos políticos deberá tener las siguientes características:
-
-a) Tener una sola instancia de resolución de conflictos internos a efecto de que las resoluciones se emitan de manera pronta y expedita;
-
-b) Establecer plazos ciertos para la interposición, sustanciación y resolución de los medios de justicia interna;
-
-c) Respetar todas las formalidades esenciales del procedimiento; y,
-
-d) Ser eficaces formal y materialmente para, en su caso, restituir a los afiliados en el goce de los derechos político-electorales en los que resientan un agravio.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ## TÍTULO CUARTO. DEL FINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS
 
@@ -1815,11 +1981,13 @@ El financiamiento público deberá prevalecer sobre otros tipos de financiamient
 
 Los partidos políticos tendrán derecho al financiamiento público de sus actividades, estructura, sueldos y salarios, independientemente de las demás prerrogativas otorgadas, conforme a las disposiciones siguientes:
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JUNIO DE 2017)</small>
+
 a) Para el sostenimiento de actividades ordinarias permanentes:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-I. El Instituto, tratándose de partidos políticos, determinará anualmente el monto total por distribuir entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral local, a la fecha de corte de julio de cada año, por el veinte por ciento del valor diario de la Unidad de Medida y Actualización;
+I. El Instituto, tratándose de partidos políticos, conforme a lo establecido en el artículo 41 fracción II inciso a) de la Constitución General y el artículo 51 apartado I, Inciso a) fracción I, de la Ley General de Partidos Políticos, determinará anualmente el monto total por distribuir entre los partidos políticos.
 
 II. El resultado de la operación señalada en el inciso anterior constituye el financiamiento público anual a los partidos políticos por sus actividades ordinarias permanentes y se distribuirá en la forma que establece la Constitución General;
 
@@ -2343,157 +2511,61 @@ El Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo de
 
 En cuanto a los informes de precampaña y campaña, la Unidad de Fiscalización dará en sesión privada al Consejero Presidente y los Consejeros Electorales un informe cada veinticinco días de los avances de las revisiones.
 
-## TÍTULO NOVENO (SIC). DE LOS FRENTES, LAS COALICIONES, LAS FUSIONES Y LAS CANDIDATURAS COMUNES
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 1 DE JUNIO DE 2017)</small>
+
+## TÍTULO OCTAVO. FORMAS DE PARTICIPACIÓN O ASOCIACIÓN DE LOS PARTIDOS POLÍTICOS CON EL FIN DE POSTULAR CANDIDATOS
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE JUNIO DE 2017)</small>
 
 ### CAPÍTULO PRIMERO. GENERALIDADES
 
 ###### ARTÍCULO 143.
 
-Los partidos políticos podrán constituir frentes, para alcanzar objetivos políticos y sociales compartidos de índole no electoral, mediante acciones y estrategias específicas y comunes.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
-Los partidos políticos, para fines electorales, podrán formar coaliciones para postular los mismos candidatos en las elecciones estatales, siempre que cumplan con los requisitos establecidos en este Código.
-
-Dos o más partidos políticos podrán fusionarse para constituir un nuevo partido o para incorporarse en uno de ellos.
-
-Los partidos de nuevo registro no podrán convenir frentes, coaliciones o fusiones con otro partido político antes de la conclusión de la primera elección local inmediata posterior a su registro según corresponda.
-
-Se presumirá la validez del convenio de coalición, del acto de asociación o participación, siempre y cuando se hubiese realizado en los términos establecidos en sus estatutos y aprobados por los órganos competentes, salvo prueba en contrario.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE JUNIO DE 2017)</small>
 
 ### CAPÍTULO SEGUNDO. DE LOS FRENTES
 
 ###### ARTÍCULO 144.
 
-Para constituir un frente deberá celebrarse un convenio en el que se hará constar:
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
-a) Su duración;
-
-b) Las causas que lo motiven;
-
-c) Los propósitos que persiguen; y,
-
-d) La forma que convengan los partidos políticos para ejercer en común sus prerrogativas, dentro de los señalamientos de este Código.
-
-El convenio que se celebre para integrar un frente deberá presentarse al Instituto, el que dentro del término de diez días hábiles resolverá si cumple los requisitos legales y en su caso dispondrá su publicación en el Periódico Oficial, para que surta sus efectos.
-
-Los partidos políticos estatales que integren un frente, conservarán su personalidad jurídica, su registro y su identidad.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2017)</small>
 
 ### CAPÍTULO TERCERO. DE LAS COALICIONES
 
 ###### ARTÍCULO 145.
 
-Los partidos políticos nacionales y locales podrán formar coaliciones para las elecciones de Gobernador, diputados a la legislatura local de mayoría relativa y ayuntamientos.
-
-Los partidos políticos no podrán postular candidatos propios donde ya hubiere candidatos de la coalición de la que ellos formen parte.
-
-Ningún partido político podrá registrar como candidato propio a quien ya haya sido registrado como candidato por alguna coalición.
-
-Ninguna coalición podrá postular como candidato de la coalición a quien ya haya sido registrado como candidato por algún partido político.
-
-Ningún partido político podrá registrar a un candidato de otro partido político. No se aplicará esta prohibición en los casos en que exista coalición o candidatura común en los términos del presente.
-
-Los partidos políticos que se coaliguen para participar en las elecciones, deberán celebrar y registrar el convenio correspondiente en los términos del presente Capítulo.
-
-El convenio de coalición podrá celebrarse por dos o más partidos políticos.
-
-Los partidos políticos no podrán celebrar más de una coalición en un mismo proceso electoral o local.
-
-Los partidos políticos no podrán distribuir o transferirse votos mediante convenio de coalición.
-
-Concluida la etapa de resultados y de declaraciones de validez de las elecciones de Gobernador y diputados, terminará automáticamente la coalición por la que se hayan postulado candidatos, en cuyo caso los candidatos a diputados de la coalición que resultaren electos quedarán comprendidos en el partido político o grupo parlamentario que se haya señalado en el convenio de coalición.
-
-Independientemente del tipo de elección, convenio y términos que en el mismo adopten los partidos coaligados, cada uno de ellos aparecerá con su propio emblema en la boleta electoral, según la elección de que se trate; los votos se sumarán para el candidato de la coalición y contarán para cada uno de los partidos políticos para todos los efectos establecidos en este Código.
-
-(NOTA: EL 25 DE SEPTIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2014 Y SUS ACUMULADAS 55/2014, 61/2014 Y 71/2014, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO DOCE DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, CON LA SALVEDAD PRECISADA EN EL RESOLUTIVO SEGUNDO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-Los votos en los que se hubiesen marcado más de una opción de los partidos coaligados, serán considerados válidos para el candidato postulado, contarán como un solo voto Y SIN QUE PUEDAN SER TOMADOS EN CUENTA PARA LA ASIGNACIÓN DE REPRESENTACIÓN PROPORCIONAL U OTRAS PRERROGATIVAS.
-
-En todo caso, cada uno de los partidos coaligados deberá registrar listas propias de candidatos a diputados por el principio de representación proporcional.
-
-Las coaliciones deberán ser uniformes. Ningún partido político podrá participar en más de una coalición y éstas no podrán ser diferentes, en lo que hace a los partidos que las integran, por tipo de elección.
-
-No podrán contender en coalición, cualquiera que fuere su forma los partidos políticos en el proceso electoral posterior a su registro.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 146.
 
-Los partidos políticos podrán formar coaliciones totales, parciales y flexibles.
-
-Se entiende como coalición total, aquélla en la que los partidos políticos coaligados postulan en un mismo proceso local, a la totalidad de sus candidatos a puestos de elección popular bajo una misma plataforma electoral.
-
-En el caso de las elecciones locales si dos o más partidos se coaligan en forma total para las elecciones de diputados locales, deberán coaligarse para la elección de Gobernador.
-
-Si una vez registrada la coalición total, la misma no registrara a los candidatos a los cargos de elección, en los términos del párrafo anterior, y dentro de los plazos señalados para tal efecto, la coalición y el registro del candidato para la elección de Gobernador quedarán automáticamente sin efectos.
-
-Coalición parcial es aquélla en la que los partidos políticos coaligados postulan en un mismo proceso, al menos al cincuenta por ciento de sus candidatos a puestos de elección popular bajo una misma plataforma electoral.
-
-Se entiende como coalición flexible, aquélla en la que los partidos políticos coaligados postulan en un mismo proceso electoral local, al menos a un veinticinco por ciento de candidatos a puestos de elección popular bajo una misma plataforma electoral.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 147.
 
-En todo caso, para el registro de la coalición los partidos políticos que pretendan coaligarse deberán:
-
-a) Acreditar que la coalición fue aprobada por el órgano de dirección estatal que establezcan los estatutos de cada uno de los partidos políticos coaligados y que dichos órganos expresamente aprobaron la plataforma electoral, y en su caso, el programa de gobierno de la coalición o de uno de los partidos coaligados;
-
-b) Comprobar que los órganos partidistas respectivos de cada uno de los partidos políticos coaligados aprobaron, en su caso, la postulación y el registro de determinado candidato para la elección de Gobernador;
-
-c) Acreditar que los órganos partidistas respectivos de cada uno de los partidos políticos coaligados aprobaron, en su caso, postular y registrar, como coalición, a los candidatos a los cargos de diputados por el principio de mayoría relativa; y,
-
-d) En su oportunidad, cada partido integrante de la coalición de que se trate deberá registrar, por sí mismo, las listas de candidatos a diputados por el principio de representación proporcional.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 148.
 
-En el caso de coalición, independientemente de la elección para la que se realice, cada partido conservará su propia representación en el Consejo General y ante las mesas directivas de casilla.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 149.
 
-El convenio de coalición contendrá en todos los casos:
-
-a) Los partidos políticos que la forman;
-
-b) El proceso electoral que le da origen;
-
-c) El procedimiento que seguirá cada partido para la selección de los candidatos que serán postulados por la coalición;
-
-d) Se deberá acompañar la plataforma electoral y, en su caso, el programa de gobierno que sostendrá su candidato a Gobernador, así como los documentos en que conste la aprobación por los órganos partidistas correspondientes;
-
-e) El señalamiento, de ser el caso, del partido político al que pertenece originalmente cada uno de los candidatos registrados por la coalición y el señalamiento del grupo parlamentario o partido político en el que quedarían comprendidos en el caso de resultar electos; y,
-
-f) Para el caso de la interposición de los medios de impugnación previstos en la ley de la materia, quien ostentaría la representación de la coalición.
-
-En el convenio de coalición se deberá manifestar que los partidos políticos coaligados, según el tipo de coalición de que se trate, se sujetarán a los topes de gastos de campaña que se hayan fijado para las distintas elecciones, como si se tratara de un solo partido. De la misma manera, deberá señalarse el monto de las aportaciones de cada partido político coaligado para el desarrollo de las campañas respectivas, así como la forma de reportarlo en los informes correspondientes.
-
-A las coaliciones totales, parciales y flexibles les será otorgada la prerrogativa de acceso a tiempo en radio y televisión en los términos previstos por la Ley General.
-
-En todo caso, los mensajes en radio y televisión que correspondan a candidatos de coalición deberán identificar esa calidad y el partido responsable del mensaje.
-
-Es aplicable a las coaliciones electorales, cualquiera que sea su ámbito territorial y tipo de elección, en todo tiempo y circunstancia, lo establecido en el segundo párrafo del Apartado A de la Base III del artículo 41 de la Constitución General.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 150.
 
-La solicitud de registro del convenio de coalición, según sea el caso, deberá presentarse al presidente del Consejo General, acompañado de la documentación pertinente, a más tardar treinta días antes de que se inicie el periodo de precampaña de la elección de que se trate. Durante las ausencias del presidente del Consejo General, el convenio se podrá presentar ante el Secretario Ejecutivo del Instituto.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
-El Consejero Presidente, integrará el expediente e informará al Consejo General del Instituto.
-
-El Consejo General, resolverá a más tardar dentro de los diez días siguientes a la presentación del convenio.
-
-Una vez registrado un convenio de coalición, el Instituto dispondrá su publicación en el Periódico Oficial.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE JUNIO DE 2017)</small>
 
 ### CAPÍTULO CUARTO. DE LAS FUSIONES
 
 ###### ARTÍCULO 151.
 
-La fusión de partidos sólo podrá realizarse entre dos o más partidos políticos.
-
-Los partidos políticos que decidan fusionarse, deberán celebrar un convenio en el que invariablemente se establecerán las características del nuevo partido; o cuál de los partidos políticos conserva su personalidad jurídica y la vigencia de su registro; y qué partido o partidos quedarán fusionados. El convenio de fusión deberá ser aprobado por la asamblea nacional o equivalente de cada uno de los partidos que participen en la fusión.
-
-Para todos los efectos legales, la vigencia del registro del nuevo partido será la que corresponda al registro del partido más antiguo entre los que se fusionen.
-
-Los derechos y prerrogativas que correspondan al nuevo partido le serán reconocidos y asignados tomando como base la suma de los porcentajes de votación que los partidos fusionados obtuvieron en la última elección para diputados locales por el principio de representación proporcional.
-
-El convenio de fusión deberá presentarse al presidente del Consejo General, para que, una vez hecha la revisión, lo someta a la consideración del Consejo General.
-
-El Consejo General, resolverá sobre la vigencia del registro del nuevo partido, dentro del término de treinta días siguientes a su presentación y, en su caso, dispondrá su publicación en el Periódico Oficial.
-
-Para fines electorales, el convenio de fusión deberá comunicarse al presidente del Consejo General, a más tardar un año antes al día de la elección.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ### CAPÍTULO QUINTO. DE LAS CANDIDATURAS COMUNES
 
@@ -2513,71 +2585,35 @@ V. La aceptación o en su caso, rechazo de la solicitud de registro presentada p
 
 VI. Los gastos de campaña de las candidaturas comunes, no deberán exceder el tope que para cada elección se establezca como si fuera uno solo.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Los partidos políticos nacionales y locales de nuevo registro no podrán postular en candidatura común a ningún candidato hasta después de haber participado en un proceso electoral local, postulando candidatos en forma directa y sin coaliciones.
+
 ## TÍTULO NOVENO. DE LA PÉRDIDA DEL REGISTRO DE LOS PARTIDOS POLÍTICOS
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2017)</small>
 
 ### CAPÍTULO PRIMERO. DE LA PÉRDIDA DEL REGISTRO
 
 ###### ARTÍCULO 153.
 
-Son causa de pérdida de registro de un partido político:
-
-a) No participar en un proceso electoral ordinario;
-
-b) No obtener en la elección ordinaria inmediata anterior, por lo menos el tres por ciento de la votación válida emitida en alguna de las elecciones para Gobernador, diputados al Congreso Local y ayuntamientos, tratándose de un partido político local;
-
-c) No obtener por lo menos el tres por ciento de la votación válida emitida en alguna de las elecciones ordinarias de Gobernador, diputados al Congreso y ayuntamientos, tratándose de un partido político local, si participa coaligado;
-
-d) Haber dejado de cumplir con los requisitos necesarios para obtener el registro;
-
-e) Incumplir de manera grave y sistemática a juicio del Consejo General, las obligaciones que le señala la normatividad electoral;
-
-f) Haber sido declarado disuelto por acuerdo de sus miembros conforme a lo que establezcan sus estatutos; y,
-
-g) Haberse fusionado con otro partido político.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 154.
 
-Para la pérdida del registro a que se refieren los incisos a) al c) del párrafo 1 del artículo anterior, la Secretaría Ejecutiva, emitirá la declaratoria correspondiente, misma que deberá fundarse en los resultados de los cómputos y declaraciones de validez respectivas de los consejos electorales de los comités municipales del Instituto, así como en las resoluciones del Tribunal, debiéndola publicar en el Periódico Oficial.
-
-En los casos a que se refieren los incisos d) al g), del párrafo 9 del artículo relativo a las agrupaciones políticas, y e) al g) del párrafo 1 del artículo anterior, la resolución del Consejo General, sobre la pérdida del registro de una agrupación política o de un partido político, según sea el caso, se publicará en el Periódico Oficial. No podrá resolverse sobre la pérdida de registro en los supuestos previstos en los incisos e) y f) del párrafo 9 del artículo relativo de (sic) a las agrupaciones políticas y d) y e) del párrafo 1 del artículo anterior, sin que previamente se oiga en defensa a la agrupación política o al partido político interesado.
-
-La declaratoria de pérdida de registro de un partido político o agrupación local deberá ser emitida por el Consejo General, fundando y motivando las causas de la misma y será publicada en el Periódico Oficial.
-
-La pérdida del registro de un partido político no tiene efectos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones según el principio de mayoría relativa.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 155.
 
-Al partido político que pierda su registro le será cancelado el mismo y perderá todos los derechos y prerrogativas que establece este Código.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
-La cancelación o pérdida del registro extinguirá la personalidad jurídica del partido político, pero quienes hayan sido sus dirigentes y candidatos deberán cumplir las obligaciones que en materia de fiscalización establece la norma, hasta la conclusión de los procedimientos respectivos y de liquidación de su patrimonio.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE JUNIO DE 2017)</small>
 
 ### CAPÍTULO SEGUNDO. DE LA LIQUIDACIÓN DEL PATRIMONIO DE LOS PARTIDOS POLÍTICOS
 
 ###### ARTÍCULO 156.
 
-De conformidad a lo dispuesto por el último párrafo de la Base II del Artículo 41 de la Constitución General, el Instituto dispondrá lo necesario para que sean adjudicados a la Hacienda Pública Estatal los recursos y bienes remanentes de los partidos políticos que pierdan su registro legal; para tal efecto se estará a lo siguiente, y a lo que determine en reglas de carácter general el Consejo General;
-
-a) Si de los cómputos que realicen los consejos electorales de comités distritales del Instituto, se desprende que un partido político no obtiene el porcentaje mínimo de votos establecido, la Unidad de Fiscalización designará de inmediato a un interventor responsable del control y vigilancia directos del uso y destino de los recursos y bienes del partido de que se trate. Lo mismo será aplicable en el caso de que el Consejo General, declare la pérdida de registro legal por cualquier otra causa de las establecidas en este Código;
-
-b) La designación del interventor será notificada de inmediato, por conducto de su representante ante el Consejo General, al partido de que se trate, en ausencia del mismo la notificación se hará en el domicilio social del partido afectado, o en caso extremo por estrados;
-
-c) A partir de su designación el interventor tendrá las más amplias facultades para actos de administración y dominio sobre el conjunto de bienes y recursos del partido político que no haya alcanzado el porcentaje mínimo de votación a que se refiere el inciso a) de este párrafo, por lo que todos los gastos que realice el partido deberán ser autorizados expresamente por el interventor. No podrán enajenarse, gravarse o donarse los bienes muebles e inmuebles que integren el patrimonio del partido político;
-
-d) Una vez que el Consejo General emita la declaratoria de pérdida de registro legal en uso de sus facultades, haya declarado y publicado su resolución sobre la cancelación del registro legal de un partido político estatal por cualquiera de las causas establecidas, el interventor designado deberá:
-
-I. Emitir aviso de liquidación del partido político de que se trate, mismo que deberá publicarse en el Periódico Oficial, tratándose de un partido político local, para los efectos legales procedentes;
-
-II. Determinar las obligaciones laborales, fiscales y con proveedores o acreedores, a cargo del partido político en liquidación;
-
-III. Determinar el monto de recursos o valor de los bienes susceptibles de ser utilizados para el cumplimiento de las obligaciones;
-
-IV. Ordenar lo necesario para cubrir las obligaciones que la ley determina en protección y beneficio de los trabajadores del partido político en liquidación. Realizado lo anterior, deberán cubrirse las obligaciones fiscales que correspondan; si quedasen recursos disponibles, se atenderán otras obligaciones contraídas y debidamente documentadas con proveedores y acreedores del partido político en liquidación, aplicando en lo conducente las leyes en esta materia;
-
-V. Formulará un informe de lo actuado que contendrá el balance de bienes y recursos remanentes después de establecer las previsiones necesarias a los fines antes indicados; el informe será sometido a la aprobación de la autoridad electoral. Una vez aprobado el informe con el balance de liquidación del partido de que se trate, el interventor ordenará lo necesario a fin de cubrir las obligaciones determinadas, en el orden de prelación antes señalado;
-
-VI. Si realizado lo anterior quedasen bienes o recursos remanentes, los mismos serán adjudicados íntegramente a la Hacienda Pública Estatal, tratándose de un partido político local; y,
-
-VII. En todo tiempo deberá garantizarse al partido político de que se trate el ejercicio de las garantías que la Constitución Local y las leyes establecen para estos casos. Las decisiones de la autoridad local en la materia, pueden ser impugnadas jurisdiccionalmente.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 # LIBRO CUARTO. DE LOS PROCESOS
 
@@ -2596,6 +2632,8 @@ Ningún proceso de selección de candidatos comenzará antes de que se declare e
 ###### ARTÍCULO 158.
 
 Al menos treinta días antes del inicio formal de los procesos internos de selección de candidatos, cada partido determinará, conforme a sus Estatutos, el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, según la elección de que se trate.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JUNIO DE 2017)</small>
 
 La determinación deberá ser comunicada al Consejo General dentro de las setenta y dos horas siguientes a su aprobación, señalando lo siguiente:
 
@@ -2625,17 +2663,25 @@ XII. El órgano responsable de la resolución de impugnaciones y quejas;
 
 XIII. Los mecanismos de control de confianza de sus precandidatos; y,
 
-XIV. La fecha de celebración de la asamblea electoral, estatal, distrital o municipal o, en su caso, de realización de la jornada comicial interna.
+> <small>[N. DE E. EL CONTENIDO DEL TERCER PÁRRAFO DE ESTE ARTÍCULO, QUEDÓ INMERSO EN LA PRESENTE FRACCIÓN.]</small>
 
-En caso de realización de la jornada comicial interna, se estará conforme a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
-a) Durante los procesos electorales estatales en que se renueven el titular del Poder Ejecutivo, el Congreso y ayuntamientos, las precampañas darán inicio, en el caso del Poder Ejecutivo la primera semana (sic) enero del año de la elección, por lo que al Congreso y ayuntamientos la segunda semana del mes de enero;
+XIV. La fecha de celebración de la asamblea electoral, estatal, distrital o municipal o, en su caso, de realización de la jornada comicial interna. En caso de realización de la jornada comicial interna, se estará conforme a lo siguiente:
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+a) Durante los procesos electorales estatales en que se renueven el Titular del Poder Ejecutivo, el Congreso y ayuntamientos, las precampañas darán inicio, en el caso del Poder Ejecutivo la primera semana de enero del año de la elección, por lo que al Congreso y ayuntamientos la segunda semana del mes de enero;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE JUNIO DE 2017)</small>
 
 b) Durante los procesos electorales estatales en que se renueve solamente el Congreso y ayuntamientos, las precampañas darán inicio en la segunda semana de febrero del año de la elección;
 
 c) Tratándose de precampañas, darán inicio al día siguiente de que se apruebe el registro interno de los precandidatos. Las precampañas de todos los partidos deberán celebrarse dentro de los mismos plazos; y,
 
-d) Las precampañas que se realicen para la selección de candidato a gobernador no podrá (sic) durar más de cuarenta días, y para la selección de candidatos a diputados y a miembros de los ayuntamientos no podrán durar más de treinta días.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+d) Las precampañas que se realicen para la selección de candidato a Gobernador no podrán durar más de cuarenta días, y para la selección de candidatos a diputados y a miembros de los ayuntamientos no podrán durar más de treinta días.
 
 Los precandidatos a candidaturas a cargos de elección popular que participen en los procesos de selección interna convocados por cada partido no podrán realizar actividades de proselitismo o difusión de propaganda, por ningún medio, antes de la fecha de inicio de las precampañas; la violación a esta disposición se sancionará con la negativa de registro como precandidato.
 
@@ -2646,6 +2692,14 @@ Queda prohibido a los precandidatos a candidaturas a cargos de elección popular
 ###### ARTÍCULO 159.
 
 Es precandidato, el ciudadano que haya obtenido registro ante un partido político o coalición para participar en su proceso de selección de candidatos y obtener su nominación como tal a un cargo de elección popular.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Ningún ciudadano podrá participar simultáneamente en procesos de selección interna de candidatos a cargo de elección popular por diferentes partidos políticos salvo que entre ellos medie convenio para participar en coalición o candidatura común, así mismo no podrán participar en un proceso interno de un partido político y a la par por la vía independiente.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Quienes participen en el proceso interno de algún partido político, no podrán ser postulados como candidatos por otro partido político o registrarse como candidato independiente durante el mismo proceso electoral.
 
 Los partidos políticos tienen obligación de informar al Consejo General, en un plazo improrrogable de cinco días, de los registros de precandidatos registrados en cada uno de sus procesos de selección, de entre los cuales, deberá elegir a su candidato. En su caso, también informarán de las impugnaciones que se presenten durante los procesos de selección de candidatos, dentro de los tres días posteriores.
 
@@ -2677,11 +2731,15 @@ Tratándose de aspirantes a diputados y regidores que lo sean simultáneamente, 
 
 Los partidos políticos están obligados a garantizar la lícita procedencia de los recursos y el respeto de los topes de gasto de precampaña de sus aspirantes en sus procesos de selección de candidatos.
 
-Los aspirantes a candidatos estarán sujetos a las modalidades y restricciones para recibir aportaciones en dinero o especie que establece este Código para los partidos políticos y deberán presentar al órgano competente de su partido político informe detallado del origen de los recursos y de los gastos realizados, a más tardar siete días después de concluida la precampaña.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Los aspirantes a candidatos estarán sujetos a las modalidades y restricciones para recibir aportaciones en dinero o especie que establece la Ley de Partidos.
 
 Si un precandidato incumple la obligación de entregar su informe de ingresos y gastos de precampaña dentro del plazo establecido en el párrafo anterior y hubiese obtenido la mayoría de votos en la consulta interna o en la asamblea respectiva, no podrá ser registrado legalmente como candidato. Los precandidatos que sin haber obtenido la postulación a la candidatura no entreguen el informe antes señalado serán sancionados en los términos de lo establecido por este Código.
 
-Los precandidatos que rebasen el tope de gastos de precampaña serán sancionados con la negativa de su registro o, en su caso, con la pérdida de la candidatura que hayan obtenido. Los partidos conservan el derecho de realizar las sustituciones que procedan, debiendo presentarlas a más tardar dentro de los cinco días posteriores a la negativa de registro o pérdida de la candidatura, según se trate. El Consejo General resolverá sobre el nuevo registro a más tardar cinco días después de presentada la solicitud correspondiente. El período general de las campañas no variará por estas causas. Los propuestos como candidatos a los que se niegue el registro o se revoque la candidatura de acuerdo con este artículo, no podrán realizar campaña aun cuando se haya impugnado la decisión correspondiente.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Los precandidatos que rebasen el tope de gastos de precampaña estarán a lo dispuesto en la Ley General. Los partidos conservan el derecho de realizar las sustituciones de las candidaturas que procedan, debiendo presentarlas a más tardar dentro de los cinco días posteriores a la negativa de registro o pérdida de la candidatura, según se trate. El Consejo General resolverá sobre el nuevo registro a más tardar cinco días después de presentada la solicitud correspondiente. El período general de las campañas no variará por estas causas. Los propuestos como candidatos a los que se niegue el registro o se revoque la candidatura de acuerdo con este artículo, no podrán realizar campaña aun cuando se haya impugnado la decisión correspondiente.
 
 Los partidos políticos, dentro de los quince días posteriores a la conclusión de las precampañas, presentarán ante la Unidad de Fiscalización, informe detallado del origen de los recursos y de los gastos realizados en los actos y propaganda de las mismas, por cada uno de los aspirantes a candidatos. Informará también los nombres y datos de localización de los precandidatos que hayan incumplido la obligación de presentar el respectivo informe, para los efectos legales procedentes.
 
@@ -2693,9 +2751,7 @@ Para los efectos del párrafo anterior, el Consejo General, a propuesta de la Un
 
 ###### ARTÍCULO 164.
 
-Los precandidatos podrán impugnar, ante el órgano interno competente del partido político de que se trate, los reglamentos y convocatorias; la integración de los órganos responsables de conducir los procesos internos, los acuerdos y resoluciones que adopten, y en general los actos que realicen los órganos directivos, o sus integrantes, cuando de los mismos se desprenda la violación de las normas que rijan los procesos de selección de candidatos a cargos de elección popular.
-
-Es competencia directa de cada partido político, a través del órgano establecido por sus Estatutos, negar o cancelar el registro a los precandidatos que incurran en conductas contrarias a este Código o a las normas que rijan el proceso interno, así como confirmar o modificar sus resultados, o declarar la nulidad de todo el proceso interno de selección, aplicando en todo caso los principios legales y las normas establecidas en sus Estatutos o en los reglamentos y convocatorias respectivas.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 165.
 
@@ -2721,7 +2777,9 @@ Sólo los partidos políticos y candidatos independientes podrán contratar espa
 
 El Consejo General, de manera fundada y motivada, determinará solicitar al órgano competente del Instituto Nacional la intervención legal correspondiente para la suspensión de cualquier propaganda política o electoral en radio o televisión que resulte violatoria de este Código; lo anterior sin perjuicio de las sanciones aplicables a los infractores, de acuerdo con lo establecido en este Código.
 
-### CAPÍTULO TERCERO. DE LOS GASTOS DE CAMPAÑA Y PROPAGANDA ELECTORAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO TERCERO. PROPAGANDA ELECTORAL
 
 ###### ARTÍCULO 169.
 
@@ -2769,19 +2827,13 @@ En los casos de infracción a lo dispuesto en este artículo, será competente e
 
 ###### ARTÍCULO 170.
 
-Los gastos que realicen los partidos políticos, las coaliciones, las candidaturas comunes y sus candidatos, en la propaganda electoral y las actividades de campaña, no deberán rebasar los topes que para cada elección acuerde el Consejo General.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
-El Consejo General determinará, dentro de los cinco días siguientes al inicio del proceso electoral, los topes de gasto para cada una de las campañas considerando, el tope autorizado para la elección anterior de que se trate, el cual se podrá incrementar de acuerdo a la fluctuación del índice nacional de precios al consumidor.
-
-Para los efectos de este artículo quedarán comprendidos dentro de los topes de gasto de campaña los conceptos, previamente definidos en este Código, de: gastos de propaganda, gastos operativos de la campaña, gastos de propaganda en diarios, revistas y otros medios, y gastos de producción de los mensajes para radio y televisión e impresos.
-
-No se considerarán dentro de los topes de campaña los gastos que realicen los partidos políticos o coaliciones, para su operación ordinaria y para el sostenimiento de sus órganos directivos y de sus organizaciones.
-
-Ningún partido político, coalición o candidatura común podrá erogar más del sesenta y cinco por ciento del total de gastos de campaña en gastos de propaganda en prensa.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 171.
 
-Los partidos políticos, coaliciones y candidatos, en la colocación de propaganda durante las precampañas de sus aspirantes y las campañas electorales, deberán observar lo siguiente:
+Los partidos políticos, coaliciones, candidaturas comunes y candidatos, en la colocación de propaganda durante las precampañas de sus aspirantes y las campañas electorales, deberán observar lo siguiente:
 
 I. Podrán colocar y pintar propaganda en los lugares de uso común que les asignen por sorteo los Consejos, General y electorales de comités distritales y municipales, previo convenio y con autorización de las autoridades correspondientes y de acuerdo con lo que las leyes dispongan. Para la distribución de los espacios se considerará a las coaliciones y a los partidos políticos que registren candidatos comunes, como uno solo;
 
@@ -2789,7 +2841,9 @@ II. Podrán colocar y pintar propaganda en inmuebles propiedad de particulares, 
 
 III. No podrán colocar ni pintar propaganda en árboles ni en accidentes geográficos cualquiera que sea su régimen jurídico;
 
-IV. No podrán colocar ni pintar propaganda en el equipamiento urbano, carretero ni ferroviario, en monumentos, en edificios públicos, en pavimentos, guarniciones, banquetas ni en señalamientos de tránsito. Tampoco está permitida la distribución de propaganda en los edificios públicos;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+IV. No podrán colocar ni pintar propaganda en el centro histórico, equipamiento urbano, carretero ni ferroviario, en monumentos, en edificios públicos, en pavimentos, guarniciones, banquetas ni en señalamientos de tránsito. Tampoco está permitida la distribución de propaganda en los edificios públicos;
 
 V. En la elaboración de la propaganda se utilizará material reciclable;
 
@@ -2823,9 +2877,11 @@ Los partidos políticos, coaliciones o candidatos que decidan dentro de la campa
 
 ### CAPÍTULO CUARTO. DE LOS DEBATES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 172.
 
-El Consejo General organizará dos debates obligatorios entre todos los candidatos para Gobernador del Estado y promoverá, a través de los consejos electorales de comités distritales y municipales, la celebración de debates entre candidatos a diputados y ayuntamientos.
+El Consejo General organizará dos debates obligatorios entre todos los candidatos para Gobernador del Estado y promoverá, a través de los consejos electorales de comités distritales y municipales, la celebración de debates entre candidatos a diputados y ayuntamientos, mismos que deberán llevarse a cabo a más tardar veinte días antes de la jornada electoral.
 
 Los debates tendrán como objetivo dar a conocer los perfiles de los candidatos y sus propuestas de gobierno.
 
@@ -2871,59 +2927,11 @@ El Sistema Michoacano de Radio y Televisión estará obligado a la transmisión 
 
 ### CAPÍTULO ÚNICO. DE LA DIVISIÓN TERRITORIAL Y SECCIONES
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 173.
 
-Las elecciones de Gobernador y diputados se harán con base en la división territorial del Estado en veinticuatro distritos electorales, conformados con la composición municipal y seccional determinada por el Instituto Nacional Electoral en los siguientes términos:
-
-Distrito 1. La Piedad: Churintzio, Ecuandureo, Ixtlán, La Piedad, Numarán, Tanhuato, Yurécuaro y Zináparo.
-
-Distrito 2. Puruándiro: Angamacutiro, Chucándiro, Huandacareo, Huaniqueo, Jiménez, José Sixto Verduzco, Morelos, Panindícuaro, Penjamillo y Puruándiro.
-
-Distrito 3. Maravatío: Áporo, Contepec, Epitacio Huerta, Maravatío, Senguio y Tlalpujahua.
-
-Distrito 4. Jiquilpan: Briseñas, Cojumatlán de Régules, Jiquilpan, Marcos Castellanos, Sahuayo, Venustiano Carranza y Vista Hermosa.
-
-Distrito 5. Paracho: Charapan, Cherán, Chilchota, Coeneo, Erongarícuaro, Nahuatzen, Paracho y Quiroga.
-
-Distrito 6. Zamora: Cabecera Zamora.
-
-Distrito 7. Zacapu: Jacona, Purépero, Tangancícuaro, Tlazazalca y Zacapu.
-
-Distrito 8. Tarímbaro: Álvaro Obregón, Charo, Copándaro, Cuitzeo, Indaparapeo, Santa Ana Maya y Tarímbaro.
-
-Distrito 9. Los Reyes: Chavinda, Cotija, Los Reyes, Pajacuarán, Tangamandapio, Tingüindín, Tocumbo y Villamar.
-
-Distrito 10. Morelia por la parte Noroeste, que comprende las 50 secciones electorales siguientes: de la 0941 a la 0948, de la 0951 a la 0953, de la 1191 a la 1193, de la 1197 a la 1204, de la 1208 a la 1214, de la 1216 a la 1220, de la 1252 a la 1261, de la 1263 a la 1265, 1283, 2677 y 2702.
-
-Distrito 11. Morelia por la parte Noreste, que comprende las 95 secciones electorales siguientes: de la 0969 a la 0992, de la 1031 a la 1041, de la 1076 a la 1078, de la 1080 a la 1117, de la 1185 a la 1190, de la 1194 a la 1196, de la 1205 a la 1207, 1237, 1238, 1262, 1284, 1285, 2675, 2692 y 2703.
-
-Distrito 12. Ciudad Hidalgo: Hidalgo, Irimbo, Queréndaro y Zinapécuaro.
-
-Distrito 13. Zitácuaro: Angangeo, Ocampo y Zitácuaro.
-
-Distrito 14. Uruapan por la parte Norte, que comprende las 88 secciones electorales siguientes: de la 2175 a la 2206, de la 2209 a la 2225, de la 2236 a la 2242, de la 2255 a la 2265, de la 2273 a la 2279, 2295, 2296, y de la 2299 a la 2310.
-
-Distrito 15. Pátzcuaro: Huiramba, Lagunillas, Pátzcuaro, Salvador Escalante, Tingambato, Tzintzuntzan y Ziracuaretiro.
-
-Distrito 16. Morelia por la parte Suroeste, que comprende las 80 secciones electorales siguientes: 0949, 0950, de la 0954 a la 0965, de la 0998 a la 1021, de la 1052 a la 1061, de la 1141 a la 1151, 1160, 1161, 1215, 1221, 1222, 1239, 1240, de la 1247 a la 1251, 1266, 1267, 1271, 1272, 1277, 1281, 1282, 1286 y 1287.
-
-Distrito 17. Morelia por la parte Sureste, que comprende las 127 secciones electorales siguientes: de la 0966 a la 0968, de la 0993 a la 0997, de la 1022 a la 1030, de la 1042 a la 1051, de la 1062 a la 1075, 1079, de la 1118 a la 1140, de la 1152 a la 1159, de la 1162 a la 1185, de la 1223 a la 1236, de la 1241 a la 1246, de la 1268 a la 1270, de la 1273 a la 1276, y de la 1278 a la 1280.
-
-Distrito 18. Huetamo: Carácuaro, Huetamo, Juárez, Jungapeo, San Lucas, Susupuato, Tiquicheo de Nicolás Romero, Tuxpan, Tuzantla y Tzitzio.
-
-Distrito 19. Tacámbaro: Acuitzio, Ario, Madero, Nocupétaro, Tacámbaro, Taretan y Turicato.
-
-Distrito 20. Uruapan por la parte Sur, que comprende las 54 secciones electorales siguientes: 2207, 2208, de la 2226 a la 2235, de la 2243 a la 2254, de la 2266 a la 2272, de la 2280 a la 2294, 2297, 2298, y de la 2311 a la 2316.
-
-Distrito 21. Coalcomán: Aguililla, Aquila, Buena Vista, Chinicuila, Coahuayana Coalcomán, Peribán y Tepalcatepec.
-
-Distrito 22. Múgica (Nueva Italia): Arteaga, Churumuco, Gabriel Zamora, La Huacana, Múgica, Nuevo Urecho, Parácuaro y Tumbiscatío.
-
-Distrito 23. Apatzingán: Apatzingán, Nuevo Parangaricutiro y Tancítaro.
-
-Distrito 24. Lázaro Cárdenas: Cabecera Lázaro Cárdenas.
+Las elecciones de Gobernador y diputados se harán con base en la división territorial del Estado en veinticuatro distritos electorales, conformados con la composición municipal y seccional que determine, con fundamento en sus atribuciones de geografía electoral, el Instituto Nacional.
 
 ###### ARTÍCULO 174.
 
@@ -2933,7 +2941,9 @@ I. Para participar en la asignación de diputados por el principio de representa
 
 a) Participaron con candidatos a diputados de mayoría relativa en por lo menos dieciséis distritos; y,
 
-b) Obtuvieron cuando menos el tres por ciento de la votación estatal válida emitida;
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+b) Obtuvieron cuando menos el tres por ciento de la votación estatal válida emitida en la elección de la circunscripción plurinominal.
 
 II. Ningún partido político podrá tener más de veinticuatro diputados por ambos principios;
 
@@ -2943,33 +2953,35 @@ IV. Esta base prevista en la fracción anterior no se aplicará al partido polí
 
 V. En la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
+(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2017 Y SU ACUMULADA 57/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 175.
 
-La asignación de diputados por el principio de representación proporcional se hará bajo el procedimiento siguiente:
+Para la asignación de diputados de representación proporcional se entiende por votación estatal válida emitida la que resulte de deducir de la suma de todos los votos depositados en las urnas, los votos nulos, y los correspondientes a los candidatos no registrados Y CANDIDATURAS INDEPENDIENTES. Por votación estatal efectiva se entiende la que resulte de deducir de la votación estatal válida emitida, los votos a favor de los partidos políticos que no hayan obtenido el tres por ciento de dicha votación.
 
-I. Para la asignación se utilizarán los conceptos siguientes:
+I. Para la asignación de diputados por el principio de representación proporcional se procederá a la aplicación de una fórmula de proporcionalidad pura, integrada por los siguientes elementos:
 
-a) Cociente natural: es el resultado de dividir la votación estatal emitida entre los dieciséis diputados de representación proporcional; y,
+a) Cociente natural, que es el resultado de dividir la votación estatal efectiva entre los dieciséis diputados de representación proporcional; y,
 
-b) Resto mayor: es el remanente más alto entre los restos de las votaciones de cada partido político, una vez hecha la distribución de curules mediante el cociente natural. El resto mayor se utilizará cuando aún hubiese diputaciones por distribuir.
+b) Resto mayor, que es el remanente más alto entre los restos de las votaciones de cada partido político, una vez hecha la distribución de curules mediante el cociente natural. El resto mayor se utilizará cuando aún hubiese diputaciones por distribuir.
 
-II. Para reconocer y garantizar la representación y pluralidad de las fuerzas políticas que contiendan en la entidad federativa, la asignación de diputados locales de representación proporcional se realizará conforme al siguiente procedimiento:
+II. Una vez desarrollada la fórmula prevista, en los párrafos anteriores, se observará el procedimiento siguiente:
 
-a) Al partido político que obtenga en las elecciones de Gobernador y diputados el tres por ciento de la votación válida emitida, se le asignará una curul por el principio de representación proporcional, independientemente de los triunfos de mayoría que hubiese obtenido; y,
+a) Se determinarán los diputados que se le asignarían a cada partido político, conforme al número de veces que contenga su votación el cociente natural;
 
-b) Realizada la distribución anterior, se procederá a asignar el resto de las diputaciones de representación proporcional conforme a la fórmula de proporcionalidad pura, integrada por los conceptos señalados en la fracción I, bajo el procedimiento siguiente:
+b) Los que se distribuirían por resto mayor si después de aplicarse el cociente natural quedaren diputaciones por repartir, siguiendo el orden decreciente de los votos no utilizados para cada uno de los partidos políticos en la asignación de curules; y,
 
-I. Se determinarán los diputados que se le asignarían a cada partido político, conforme al número de veces que contenga su votación el cociente natural;
-
-II. Los que se distribuirían por resto mayor si después de aplicarse el cociente natural quedaren diputaciones por repartir, siguiendo el orden decreciente de los votos no utilizados para cada uno de los partidos políticos en la asignación de curules.
-
-III. Se determinará si es el caso de aplicar a algún partido político el o los límites establecidos en el artículo anterior, para lo cual al partido político cuyo número de diputados por ambos principios exceda de 24, o su porcentaje de curules del total del Congreso exceda en ocho puntos a su porcentaje de votación estatal emitida, le serán deducidos el número de diputados de representación proporcional hasta ajustarse a los límites establecidos, asignándose las diputaciones excedentes a los demás partidos políticos que no se ubiquen en estos supuestos.
+c) Se determinará si es el caso de aplicar a algún partido político el o los límites establecidos en el artículo anterior, para lo cual al partido político cuyo número de diputados por ambos principios exceda de 24, o su porcentaje de curules del total del Congreso exceda en ocho puntos a su porcentaje de votación estatal emitida, le serán deducidos el número de diputados de representación proporcional hasta ajustarse a los límites establecidos, asignándose las diputaciones excedentes a los demás partidos políticos que no se ubiquen en estos supuestos.
 
 ###### ARTÍCULO 176.
 
 La sección electoral es la demarcación territorial en que se dividen los distritos electorales y los municipios para la recepción del sufragio.
 
-Cada sección electoral contará con un mínimo de cincuenta electores y un máximo de un mil quinientos.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Cada sección electoral contará con el número de electores establecidos en la Ley General.
 
 ## TÍTULO TERCERO. DEL PADRÓN ELECTORAL Y LISTADO NOMINAL
 
@@ -2991,9 +3003,11 @@ El Presidente del Consejo General del Instituto, podrá celebrar convenios para 
 
 Cuando los trabajos del Registro de Electores sean desarrollados por el Instituto Nacional, en el convenio respectivo se fijarán las modalidades y tiempos conforme a los cuales deban realizarse.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 180.
 
-La coordinación con el Instituto Nacional en materia de fiscalización de las finanzas de los partidos políticos para superar los secretos bancario, fiduciario y fiscal, será obligatoria, de acuerdo con las bases establecidas en este Código, la Ley General y demás normatividad aplicable.
+La coordinación con el Instituto Nacional en materia de fiscalización de las finanzas de los sujetos obligados para superar los secretos bancario, fiduciario y fiscal, será obligatoria, de acuerdo con las bases establecidas en este Código, la Ley General y demás normatividad aplicable.
 
 ###### ARTÍCULO 181.
 
@@ -3009,15 +3023,25 @@ IV. Organización Electoral, Capacitación Electoral y Educación Cívica;
 
 V. Fiscalización; y,
 
-VI. La asunción y la atracción de la organización de los procesos electorales.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-## TÍTULO QUINTO. DEL PROCESO ELECTORAL Y MESAS DIRECTIVAS DE CASILLAS
+VI. La asunción y la atracción de la organización de los procesos electorales; y,
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VII. Los que consideren necesarios el Instituto y el Instituto Nacional.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2017)</small>
+
+## TÍTULO QUINTO. DEL PROCESO ELECTORAL Y MESAS DIRECTIVAS DE CASILLA
 
 ### CAPÍTULO PRIMERO. DEL PROCESO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 182.
 
-El proceso electoral, para elecciones ordinarias de Gobernador, diputados y ayuntamientos, en septiembre del año previo al de la elección, y concluye con la última declaración de validez, una vez resueltos en definitiva los medios de impugnación que se presenten o cuando se tenga constancia de que no se presentó ninguno, según sea el caso.
+El proceso electoral, para elecciones ordinarias de Gobernador, diputados y ayuntamientos, dará inicio en septiembre del año previo al de la elección, y concluye con la última declaración de validez, una vez resueltos en definitiva los medios de impugnación que se presenten o cuando se tenga constancia de que no se presentó ninguno, según sea el caso.
 
 El proceso electoral es el conjunto de actos ordenados por la Constitución Local y este Código, realizados por las autoridades, los partidos políticos, candidatos independientes y los ciudadanos, que tiene por objeto la renovación periódica de los integrantes de los poderes Legislativo y Ejecutivo, así como de los ayuntamientos.
 
@@ -3065,11 +3089,11 @@ Los representantes ante mesas directivas de casilla y generales, no sustituirán
 
 ### CAPÍTULO PRIMERO. DEL REGISTRO DE CANDIDATOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES PÁRRAFO SEGUNDO], P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 189.
 
-Corresponde a los partidos políticos y a los ciudadanos el derecho de solicitar el registro de candidaturas a cargos de elección popular.
-
-La solicitud de registro de un candidato, formula, planilla o lista de candidatos presentada por un partido político o coalición, deberá contener lo siguiente:
+La solicitud de registro de un candidato, fórmula, planilla o lista de candidatos presentada por un partido político o coalición, deberá contener lo siguiente:
 
 I. Del partido:
 
@@ -3079,7 +3103,9 @@ b) Su distintivo, con el color o combinación de colores que lo identifiquen; y,
 
 c) En su caso, la mención de que solicita el registro en común con otros partidos políticos y la denominación de éstos;
 
-II. De los Candidatos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
+
+II. De los candidatos de manera impresa y en medio magnético:
 
 a) Nombre y apellidos;
 
@@ -3102,6 +3128,10 @@ a) Acreditar los requisitos de elegibilidad del candidato o candidatos, de confo
 b) Acreditar el cumplimiento del proceso de selección de candidatos que señala este Código a los partidos políticos; y,
 
 c) Acreditar la aceptación de la candidatura. Para el caso de candidaturas comunes, la aceptación deberá ser acreditada en relación con cada uno de los partidos postulantes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
+
+d) En caso de elección consecutiva presentar carta bajo protesta de decir verdad que contenga el número de periodos para los que han sido electos en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución General y la Constitución Local en materia de elección consecutiva.
 
 En la postulación de candidatos a diputados y para integrar ayuntamientos, las fórmulas, listas y planillas se integrarán con propietarios y suplentes del mismo género.
 
@@ -3141,7 +3171,9 @@ Dentro de los treinta días anteriores al de la elección, no podrá ser sustitu
 
 Un candidato a cargo de elección, puede solicitar en todo tiempo la cancelación de su registro, requiriendo tan sólo dar aviso al partido y al Consejo General del Instituto.
 
-En el caso de las candidaturas independientes no procede la sustitución los efectos de la denuncia (sic) es la no participación en la contienda.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+En el caso de las candidaturas independientes no procede la sustitución; los efectos de la renuncia es la no participación en la contienda.
 
 ### CAPÍTULO SEGUNDO. DE LA DOCUMENTACIÓN Y MATERIAL ELECTORAL
 
@@ -3159,7 +3191,9 @@ b) Cargo para el que se eligen;
 
 c) El distintivo con el color o combinación de colores y emblema de cada partido político, coalición o candidato independiente;
 
-d) Nombre y apellidos de los candidatos;
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+d) Nombre y apellidos de los candidatos y en su caso el sobrenombre;
 
 e) Un solo espacio para cada partido político o coalición o candidato independiente;
 
@@ -3171,11 +3205,17 @@ h) Talón desprendible con folio.
 
 II. Para la elección de diputados de mayoría relativa, la boleta contendrá los elementos generales anotados en la fracción anterior y precisará además, el distrito de que se trate y llevará impreso un sólo emblema por partido político o coalición o candidato independiente para comprender la fórmula de candidatos y la lista de representación proporcional; al reverso llevarán impresas las listas plurinominales de los candidatos, propietarios y suplentes, que registren los partidos políticos;
 
-III. Para la elección de ayuntamientos, se estará a lo dispuesto en los incisos b) c) f) g) y h) de la fracción I de este artículo, debiendo las boletas contener lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
+
+III. Para la elección de ayuntamientos, se estará a lo dispuesto en los incisos b), c), f), g), y h) de la fracción I de este artículo, debiendo las boletas contener lo siguiente:
 
 a) Nombre del Estado y del Municipio;
 
-b) Nombre y apellido de los candidatos, propietario y suplente, que integren las planillas;
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+b) Nombre y apellido de los candidatos, propietario y suplente, que integren las planillas.
+
+Al frente de la boleta aparecerán los nombres de los candidatos a Presidente Municipal, Síndico propietario y suplente, al reverso de la boleta se incluirán los nombres de los candidatos a regidores propietarios y suplentes;
 
 c) Un solo espacio para cada planilla de candidatos a integrar los ayuntamientos, propietarios y suplentes; y,
 
@@ -3215,19 +3255,29 @@ El paquete que contenga las boletas sobrantes inutilizadas será entregado por e
 
 El Consejo General dispondrá se provea a las mesas directivas de casilla de un porcentaje de planillas braille.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 195.
 
-Las actas en que se asiente lo relativo a la instalación, cierre de votación, escrutinio y cómputo, integración y remisión del paquete electoral del proceso, serán elaboradas conforme el formato que apruebe el Consejo General.
+Las actas en que se asiente lo relativo a la instalación, cierre de votación, escrutinio y cómputo, integración y remisión del paquete electoral del proceso, serán elaboradas conforme el formato que se apruebe para tal efecto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 196.
 
-Los consejos electorales de comités municipales por conducto del personal autorizado entregará a cada Presidente de las mesas directivas de casilla, dentro de los cinco días previos al de la elección, mediante el recibo correspondiente, sin menoscabo de lo establecido el Instituto podrá convenir con el Instituto Nacional plazos y formas distintas para la entrega del material electoral.
+Los consejos electorales de comités municipales por conducto del personal autorizado entregará a cada Presidente de las mesas directivas de casilla, dentro de los cinco días previos al anterior de la elección, mediante el recibo correspondiente, sin menoscabo de lo establecido el Instituto podrá convenir con el Instituto Nacional plazos y formas distintas para la entrega del material electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JUNIO DE 2017)</small>
 
 La documentación y el material electoral, que se integra por:
 
-a) Lista nominal de los electores que podrán votar en la casilla;
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
-b) Relación de los representantes ante la Mesa Directiva de casilla y los de carácter general;
+a) En su caso, lista nominal de los electores que podrán votar en la casilla;
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+b) En su caso, relación de los representantes de los candidatos independientes ante la Mesa Directiva de casilla y los de carácter general;
 
 c) Las boletas electorales para cada elección en número igual al de los electores que figuren en la lista nominal, más el número que autorice el Consejo General para que los representantes puedan votar y las que en su caso, determine expresamente el mismo Consejo para las casillas especiales;
 
@@ -3235,13 +3285,17 @@ d) Las urnas necesarias para recibir la votación, mismas que deberán fabricars
 
 e) Los canceles o mamparas que garanticen el secreto del voto;
 
-f) El líquido indeleble; y,
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+f) En su caso, el líquido indeleble; y,
 
 g) La documentación, actas aprobadas, útiles de escritorio y demás materiales para el cumplimiento de sus funciones.
 
 El Consejo General, tomando las medidas que den certeza y seguridad, procurará que el material electoral sea reciclable y de fácil degradación natural.
 
-El Consejo General encargará a una institución académica o técnica de reconocido prestigio la certificación de las características y calidad del líquido indeleble que ha de ser usado el día de la jornada electoral. El líquido seleccionado deberá garantizar plenamente su eficacia. Los envases que lo contengan deberán contar con elementos que identifiquen el producto.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+En su caso, el Consejo General encargará a una institución académica o técnica de reconocido prestigio la certificación de las características y calidad del líquido indeleble que ha de ser usado el día de la jornada electoral. El líquido seleccionado deberá garantizar plenamente su eficacia. Los envases que lo contengan deberán contar con elementos que identifiquen el producto.
 
 ### CAPÍTULO TERCERO. APERTURA DE CASILLAS
 
@@ -3263,7 +3317,7 @@ II. Las boletas sobrantes inutilizadas;
 
 III. Los votos válidos y los nulos;
 
-IV. La lista nominal, se incluirá en el paquete de la elección de diputados; y,
+IV. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
 V. Los escritos de protesta presentados y cualquier otro documento relacionado con la elección.
 
@@ -3281,6 +3335,8 @@ Asimismo, se guardará en un sobre por separado para el programa de resultados e
 
 ### CAPÍTULO SEGUNDO. DE LA INFORMACIÓN PRELIMINAR DE LOS RESULTADOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 201.
 
 Una vez clausurada la casilla, los paquetes electorales quedarán en poder del Presidente de la misma, quien por sí o auxiliándose del Secretario, los entregará con su respectivo expediente y con el sobre mencionado en el artículo anterior al Consejo Electoral correspondiente o en su caso, a los centros de acopio a que se refiere el presente artículo, dentro de los plazos siguientes:
@@ -3291,13 +3347,17 @@ II. Dentro de las siguientes doce horas, cuando se trate de casillas ubicadas en
 
 III. Dentro de las siguientes veinticuatro horas, cuando se trate de casillas ubicadas en la zona rural.
 
-Los consejos electorales podrán acordar que se establezca un mecanismo para la recolección de la documentación de las casillas.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 202.
 
 Los consejos electorales de comités municipales fungirán como centros de acopio de los paquetes electorales que correspondan a la elección de Gobernador del Estado y de diputados, salvo para el caso de aquellos municipios que cuenten con más de un distrito, los paquetes electorales se entregarán al comité que corresponda. Lo anterior se realizará bajo vigilancia de los partidos políticos que así quieran hacerlo.
 
 Los consejos electorales de comités municipales en el caso a que se refiere el artículo anterior realizarán la entrega inmediata de los paquetes electorales al consejo electoral de comité distrital correspondiente.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Cuando el Consejo General lo considere necesario solicitará el apoyo de corporaciones de seguridad para el traslado de los paquetes electorales.
 
 ###### ARTÍCULO 203.
 
@@ -3367,9 +3427,11 @@ Cada uno de los cómputos a que se refiere el presente artículo, se realizarán
 
 El cómputo de una elección es el procedimiento por el cual los consejos electorales de comités distritales o municipales determinan, mediante la suma de los resultados anotados en las actas de escrutinio y cómputo de las casillas, el resultado de la votación en un distrito electoral o en un municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 209.
 
-Abierta la sesión del consejo electoral de comité distrital se iniciará el cómputo de cada elección, sujetándose al procedimiento siguiente:
+Abierta la sesión del Consejo Electoral del Comité Distrital se iniciará el cómputo de cada elección, sujetándose al procedimiento señalado en el Reglamento de Elecciones del Instituto Nacional y conforme a las reglas siguientes:
 
 I. Examinará los paquetes electorales, separando los que tengan signos de alteración;
 
@@ -3399,7 +3461,9 @@ Durante la apertura de paquetes electorales conforme a lo señalado en las fracc
 
 IX. Cuando exista indicio de que la diferencia entre el candidato presunto ganador de la elección y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión exista petición expresa del representante del segundo del partido o candidatos antes señalados, el consejo electoral de comité distrital deberá realizar el recuento de votos en la totalidad de las casillas. Para estos efectos se considerará indicio suficiente la presentación ante el Consejo de la sumatoria de resultados por partido consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el distrito;
 
-X. Si al término del cómputo la diferencia entre el candidato ganador de la elección y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión exista petición expresa del representante del partido o candidatos antes señalados, el consejo electoral de comité distrital deberá realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+X. Si al término del cómputo se acredita que la diferencia entre el candidato ganador de la elección y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, el consejo electoral de (sic) comité distrital, a petición expresa del representante del partido o candidato independiente, deberá realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento;
 
 XI. Conforme a lo establecido en el párrafo anterior, para realizar el recuento total de votos respecto de una elección determinada, el consejo electoral de comité distrital o municipal dispondrá lo necesario para que sea realizado sin obstaculizar el escrutinio y cómputo de las demás elecciones y concluya antes del domingo siguiente al de la jornada electoral. Para tales efectos, el presidente del consejo electoral de comité distrital o municipal dará aviso inmediato al Secretario Ejecutivo del Consejo General; ordenará la creación de grupos de trabajo integrados por los consejeros electorales, los representantes de los partidos o candidatos independientes y los vocales, que los presidirán. Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los partidos políticos o candidatos independientes tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente;
 
@@ -3439,7 +3503,7 @@ Durante la apertura de paquetes electorales conforme a lo señalado en las fracc
 
 ###### ARTÍCULO 212.
 
-Abierta la sesión, el consejo electoral de comité municipal procederá a efectuar el cómputo de la votación de la elección del Ayuntamiento bajo el procedimiento siguiente:
+Abierta la sesión, el consejo electoral de (sic) comité municipal procederá a efectuar el cómputo de la votación de la elección del Ayuntamiento bajo el procedimiento siguiente:
 
 I. Mayoría:
 
@@ -3475,9 +3539,11 @@ l) Concluido el cómputo y emitida la declaración de validez para la elección 
 
 Durante la apertura de paquetes electorales conforme a lo señalado en los incisos anteriores, el Presidente o el Secretario del Consejo extraerá: los escritos de protesta, si los hubiere; la lista nominal correspondiente; la relación de ciudadanos que votaron y no aparecen en la lista nominal, así como las hojas de incidentes y la demás documentación que determine el Consejo General en acuerdo previo a la jornada electoral. De la documentación así obtenida, se dará cuenta al Consejo General, debiendo ordenarse conforme a la numeración de las casillas. Las carpetas con dicha documentación quedarán bajo resguardo del Presidente del consejo electoral de comité municipal o distrital y, en su caso del Secretario Ejecutivo del Instituto, para atender los requerimientos que llegare a presentar el Tribunal u otros órganos del Instituto.
 
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
 II. Representación proporcional:
 
-Podrán participar en la asignación de regidurías por el principio de representación proporcional conforme a lo que establece esta fracción, los partidos políticos que habiendo participado en la elección con planilla de candidatos a integrar el ayuntamiento por sí o en común, o las coaliciones que no hayan ganado la elección municipal y hayan obtenido por lo menos el tres por ciento de la votación emitida. En los casos de candidaturas comunes, solamente se tomará en cuenta para la asignación de regidores, los votos que correspondan a los partidos políticos, los cuales se sumarán y consideraran como un solo partido político. No se sumarán los votos que se contabilizaron para la candidatura en común.
+Podrán participar en la asignación de regidurías por el principio de representación proporcional conforme a lo que establece esta fracción, los partidos políticos que participaron en la elección con planilla de candidatos a integrar el ayuntamiento por sí o en común, las coaliciones o planillas de candidatos independientes que no hayan ganado la elección municipal y hayan obtenido por lo menos el tres por ciento de la votación emitida. En los casos de candidaturas comunes, solamente se tomará en cuenta para la asignación de regidores, los votos que correspondan a los partidos políticos, los cuales se sumarán y considerarán como un solo partido político. No se sumarán los votos que se contabilizaron para la candidatura en común.
 
 Para la asignación de regidores por el principio de representación proporcional se usará una fórmula integrada por los siguientes elementos:
 
@@ -3485,11 +3551,13 @@ a) Cociente electoral; y,
 
 b) Resto Mayor.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 213.
 
-La asignación de regidores por el principio de representación proporcional se hará siguiendo el orden que ocupan los candidatos a este cargo en la planilla a integrar el Ayuntamiento. Los partidos políticos y coaliciones que participen de la asignación de regidores por el principio de representación proporcional, tendrán derecho a que se les asignen tantas regidurías como veces contenga su votación el cociente electoral.
+La asignación de regidores por el principio de representación proporcional se hará siguiendo el orden que ocupan los candidatos a este cargo en la planilla a integrar el Ayuntamiento. Los partidos políticos, coaliciones y candidatos independientes que participen de la asignación de regidores por el principio de representación proporcional, tendrán derecho a que se les asignen tantas regidurías como veces contenga su votación el cociente electoral.
 
-Si hecho lo anterior, aun quedaran regidurías por asignar, se distribuirán por resto mayor, siguiendo el orden decreciente de los votos no utilizados por cada uno de los partidos políticos.
+Si hecho lo anterior, aun quedaran regidurías por asignar, se distribuirán por resto mayor, siguiendo el orden decreciente de los votos no utilizados por cada uno de los partidos políticos o candidatos independientes.
 
 ###### ARTÍCULO 214.
 
@@ -3497,11 +3565,15 @@ Se entenderá, para efectos de la asignación de regidores por el principio de r
 
 I. Por votación emitida, el total de votos que hayan sido depositados en las urnas del municipio para la elección de Ayuntamiento;
 
-II. Por votación válida, la que resulte de restar a la votación emitida los votos nulos, los que correspondan a los candidatos no registrados y los obtenidos por los partidos que no alcanzaron el tres por ciento de la votación emitida así como la del partido que haya resultado ganador en la elección;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+II. Por votación válida, la que resulte de restar a la votación emitida los votos nulos, los que correspondan a los candidatos no registrados y los obtenidos por los partidos, coaliciones o candidaturas independientes que no alcanzaron el tres por ciento de la votación emitida así como la de la planilla que haya resultado ganadora en la elección;
 
 III. Por cociente electoral, el resultado de dividir la votación válida entre el número total de regidurías a asignar por el principio de representación proporcional; y,
 
-IV. Por resto mayor, el remanente de las votaciones de cada partido político, una vez hecha la asignación de regidores, cuando aún haya regidurías por distribuir.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+IV. Por resto mayor, el remanente de las votaciones de cada partido político, coalición o candidaturas independientes, una vez hecha la asignación de regidores, cuando aún haya regidurías por distribuir.
 
 ###### ARTÍCULO 215.
 
@@ -3537,7 +3609,9 @@ II. Se sumarán los resultados de la votación recibida del extranjero;
 
 III. Cuando exista indicio de que la diferencia entre el candidato presunto ganador de la elección y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión exista petición expresa del representante del partido que postuló al segundo de los candidatos antes señalados, el Consejo General deberá realizar el recuento de votos en la totalidad de las casillas. Para estos efectos se considerará indicio suficiente la presentación ante el Consejo de la sumatoria de resultados por partido consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el Estado;
 
-IV. Si al término del cómputo la diferencia entre el candidato ganador de la elección y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión exista petición expresa del representante del partido que postuló al segundo de los candidatos antes señalados, el Consejo General deberá realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+IV. Si al término del cómputo se acredita que la diferencia entre el candidato ganador de la elección y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, el Consejo General, a petición expresa del representante del partido o candidato independiente, deberá realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento;
 
 V. Una vez efectuadas las operaciones anteriores, la suma de los resultados constituirá el cómputo estatal en la elección de Gobernador; y,
 
@@ -3941,11 +4015,15 @@ Cuando el Instituto tenga conocimiento de que algún concesionario o permisionar
 
 El procedimiento para el conocimiento de las faltas y aplicación de sanciones administrativas podrá iniciar a instancia de parte o de oficio, cuando cualquier órgano del Instituto tenga conocimiento de la comisión de conductas infractoras. Las faltas administrativas que se demuestren durante los procesos electorales ordinarios o extraordinarios, o por revisión post electoral, por haber infringido principios constitucionales, serán vinculantes para la calificación de las elecciones de que se traten.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 239.
 
 La facultad de la autoridad electoral para fincar responsabilidades por infracciones administrativas, prescribe en el término de tres años.
 
-Para lo no previsto en el trámite y resolución de estos procedimientos se estará a las reglas comunes de la Ley de Justicia en materia Electoral y de Participación Ciudadana del Estado de Michoacán de Ocampo, o en su caso, al Código de Procedimientos Civiles para el Estado de Michoacán de Ocampo.
+La caducidad de la instancia procederá después de transcurrido un año de inactividad en el procedimiento.
+
+Para lo no previsto en el trámite y resolución de estos procedimientos se estará a las reglas comunes de la Ley de Justicia en materia Electoral y de Participación Ciudadana del Estado de Michoacán de Ocampo, o en su caso, a la Ley General.
 
 ###### ARTÍCULO 240.
 
@@ -4775,7 +4853,7 @@ IV. El calendario que establezca fechas, horarios y domicilios en los cuales se 
 
 V. La forma de llevar a cabo el cómputo de dichos respaldos; y,
 
-VI. Los términos para la rendición de cuentas del gasto de tope de campaña y la procedencia legal de su origen y destino.
+VI. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
 La convocatoria que al efecto se emita deberá disponer las fechas, tiempos y demás plazos indispensables para dar certeza al proceso que regula este Título, vigilando que los anteriores guarden correspondencia con las fechas, tiempos y plazos que se establecen en el presente Código para los procedimientos de precandidatos y candidatos de partido político.
 
@@ -4811,6 +4889,14 @@ VIII. La designación de domicilio y personas autorizadas para oír y recibir no
 
 IX. Presentar autorización firmada para que el Instituto, investigue origen y destino de los recursos de la cuenta bancaria concentradora.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 366, PUBLICADO EN EL P.O. DE 1 DE JUNIO DE 2017, PÁGINA 17. SE SUGIERE CONSULTAR LA CRONOLOGÍA DEL PRESENTE ARTÍCULO.]</small>
+
+X. Derogada.. (sic)
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 366, PUBLICADO EN EL P.O. DE 1 DE JUNIO DE 2017, PÁGINA 17. SE SUGIERE CONSULTAR LA CRONOLOGÍA DEL PRESENTE ARTÍCULO.]</small>
+
+XI. Derogada. (sic)
+
 ###### ARTÍCULO 305.
 
 Para efectos del artículo anterior, el Instituto facilitará los formatos de solicitud de registro respectivos, que deberán acompañarse, por cada uno de los solicitantes, con la siguiente documentación:
@@ -4829,7 +4915,9 @@ V. Manifestación escrita, bajo protesta de decir verdad, que cumple con los req
 
 Recibidas las solicitudes de registro de aspirantes a candidaturas independientes por el órgano electoral que corresponda, el Instituto verificará el cumplimiento de los requisitos constitucionales y legales, así como, los lineamientos que para tal efecto se hayan emitido.
 
-Si de la verificación realizada se advierte la omisión de uno o varios requisitos, el Instituto, a través de la Secretaría Ejecutiva, notificará personalmente al interesado o al representante designado, dentro de las siguientes cuarenta y ocho horas para que, en un plazo igual, subsane él o los requisitos omitidos.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Si de la verificación realizada se advierte la omisión de uno o varios requisitos, el Instituto, a través de la Secretaría Ejecutiva, notificará personalmente al interesado o al representante designado, dentro de las siguientes setenta y dos horas para que, en un plazo igual, subsane él o los requisitos omitidos.
 
 En caso de no cumplir con dicha prevención en tiempo y forma, el Consejo General desechará de plano la solicitud respectiva.
 
@@ -4867,7 +4955,13 @@ II. Obtener financiamiento privado para el desarrollo de sus actividades en los 
 
 III. Presentarse ante los ciudadanos como aspirantes a candidatos independientes y solicitar su respaldo informando sobre el procedimiento para ello; y,
 
-IV. Realizar actos y propaganda en los términos permitidos a los precandidatos de partidos políticos y coaliciones, conforme a lo dispuesto en este Código.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+IV. Realizar actos y propaganda en los términos permitidos a los precandidatos de partidos políticos y coaliciones, conforme a lo dispuesto en este Código; y,
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+V. Designar a un representante ante los órganos del Consejo que correspondan.
 
 ###### ARTÍCULO 311.
 
@@ -4883,13 +4977,49 @@ IV. Insertar en su propaganda de manera visible la leyenda «aspirante a candida
 
 V. Abstenerse de hacer uso de bienes públicos, tales como: teléfonos, fotocopiadoras, faxes y herramientas de internet, para la obtención de financiamiento o en apoyo a la realización de cualquier acto de obtención de respaldo ciudadano, así como de actos de propaganda;
 
-VI. Abstenerse de recibir apoyo de organizaciones gremiales, de partidos políticos y cualquier otro respaldo corporativo, así como, de recursos económicos en términos de lo dispuesto en este Código;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-VII. Abstenerse de realizar actos de presión o coacción para obtener el respaldo ciudadano;
+VI. Rechazar toda clase de apoyo económico, político o propagandístico proveniente de extranjeros o de ministros de culto de cualquier religión, así como de las asociaciones y organizaciones religiosas e iglesias. Tampoco podrán aceptar aportaciones o donativos, en dinero o en especie, por sí o por interpósita persona y bajo ninguna circunstancia de:
 
-VIII. Retirar la propaganda utilizada, dentro de los tres días posteriores a la finalización de la etapa de obtención del respaldo ciudadano; y,
+a) Los Poderes Ejecutivo, Legislativo y Judicial de la Federación, de las entidades federativas y de los ayuntamientos, salvo en el caso del financiamiento público establecido en la Constitución del Estado y este Código;
 
-IX. Las demás que establezca este Código.
+b) Las dependencias, entidades u organismos de la Administración Pública Federal, de las entidades federativas o municipales, centralizadas o paraestatales, y los órganos de gobierno del Distrito Federal;
+
+c) Los organismos autónomos federales, estatales y del Distrito Federal;
+
+d) Los partidos políticos, personas físicas o morales extranjeras;
+
+e) Los organismos internacionales de cualquier naturaleza;
+
+f) Organizaciones gremiales, sindicatos y corporativos;
+
+g) Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión;
+
+h) Empresas mexicanas de carácter mercantil;
+
+i) Las personas morales; y,
+
+j) Las personas que vivan o trabajen en el extranjero;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VII. Rendir el informe de ingresos y egresos, y presentar la respectiva constancia de cumplimiento ante el INE;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VIII. Respetar los topes de gastos fijados para obtener el apoyo ciudadano, en los términos que establece la presente Ley;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+IX. Abstenerse de realizar actos de presión o coacción para obtener el respaldo ciudadano;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+X. Retirar la propaganda utilizada, dentro de los tres días posteriores a la finalización de la etapa de obtención del respaldo ciudadano; y,
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XI. Las demás que establezca (sic) este Código, y los ordenamientos electorales.
 
 ###### ARTÍCULO 312.
 
@@ -4905,6 +5035,12 @@ II. Para aspirantes a candidato independiente a Diputados serán las sedes de lo
 
 III. Para aspirantes a los Ayuntamientos será en la sede del Comité Municipal que corresponda a la demarcación por la que pretenda competir, y exclusivamente por ciudadanos con domicilio en el ámbito territorial al que aspira.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Para el caso de las fracciones I y II del presente artículo, en los municipios que están conformados por dos o más distritos el respaldo se podrá recibir en cualquiera de los comités distritales dentro del Municipio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 313.
 
 Las autoridades electorales verificarán por medios idóneos, no se presenten los siguientes casos:
@@ -4914,6 +5050,20 @@ I. Ningún ciudadano emita más de una manifestación de apoyo para el mismo car
 II. Manifiesten su apoyo quienes hayan sido dados de baja del padrón electoral por haber sido suspendidos en sus derechos político-electorales, o por no pertenecer al ámbito estatal, distrital o municipal por el que el aspirante pretenda competir.
 
 Cuando el formato carezca de los datos requisitados la manifestación será nula.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Así mismo, las manifestaciones de respaldo ciudadano serán nulas en los siguientes casos:
+
+I. Cuando se haya presentado, por la misma persona, más de una manifestación en favor del mismo aspirante, debiendo prevalecer únicamente la primera que haya sido registrada;
+
+II. Cuando se hayan expedido por la misma persona a favor de dos o más aspirantes al mismo cargo de elección popular;
+
+III. Cuando carezcan de la firma o, en su caso, huella o datos de identificación en el formato previsto para tal efecto, o cuando tales datos no sean localizados en el listado nominal;
+
+IV. Cuando los ciudadanos que las expidan hayan sido dados de baja del listado nominal por encontrarse en alguno de los supuestos señalados en la legislación aplicable; y,
+
+V. Cuando los ciudadanos que las expidan no correspondan al ámbito estatal, distrital o municipal por el que el aspirante pretenda competir.
 
 ###### ARTÍCULO 314.
 
@@ -4943,15 +5093,17 @@ El Consejo General deberá emitir la declaratoria a que se refiere el artículo 
 
 Dicho acuerdo se notificará inmediatamente, a través de su publicación en los estrados y en la página de internet del Instituto.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 316.
 
-Los aspirantes a candidatos independientes que tengan derecho a registrarse como tales, tendrán la obligación de presentar dentro de los cinco días posteriores a que se publicó la declaratoria a que se refiere el artículo anterior, un informe detallado en el que acrediten el origen lícito de los recursos que hayan utilizado en la obtención de respaldo ciudadano, incluyendo la identificación y monto aportado por cada persona. Dicho informe deberá dar cuenta del destino de los recursos erogados para tales propósitos, conforme lo dispongan los Reglamentos aplicables para tal efecto.
+Los aspirantes a candidatos independientes que tengan derecho a registrarse como tales, tendrán la obligación de presentar un informe detallado en el que acrediten el origen lícito de los recursos que hayan utilizado en la obtención de respaldo ciudadano, en los términos y condiciones que establece la Ley General.
 
-El Consejo General tendrá hasta cinco días antes de que inicie el periodo de registro de candidatos a efecto de que emita un dictamen en el cual se manifieste respecto de los informes presentados, en que verificará la licitud de los recursos, así como, que los gastos erogados se encuentran dentro de los topes y montos máximos de aportación permitidos, el que se publicará inmediatamente a efecto de notificar a todos los interesados.
-
-Los Candidatos Independientes que hayan participado en una elección ordinaria que haya sido anulada, tendrán derecho a participar en las elecciones extraordinarias correspondientes; siempre que no la hayan provocado.
+Los candidatos independientes que hayan participado en una elección ordinaria que haya sido anulada, tendrán derecho a participar en las elecciones extraordinarias correspondientes; siempre que no la hayan provocado.
 
 ### CAPÍTULO CUARTO. DE LAS PRERROGATIVAS, DERECHOS Y OBLIGACIONES
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 317.
 
@@ -4967,7 +5119,7 @@ Los ciudadanos que hayan obtenido el derecho a registrarse como candidatos indep
 
 I. Ratificar el programa de trabajo previamente registrado ante el Instituto;
 
-II. Exhibir el dictamen emitido por el Consejo General del Instituto en que haya quedado confirmada la licitud del origen y destino de los recursos recabados para el desarrollo de las actividades de obtención del respaldo ciudadano;
+II. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
 III. El nombramiento de un representante ante el respectivo Consejo; y un responsable de la administración de los recursos financieros y de la presentación de los informes de campaña a que se refiere este Código, que deberá ser el de la persona moral dispuesta en el numeral 303 del presente Código; y,
 
@@ -4995,7 +5147,17 @@ III. Cuando no se haya satisfecho cualquiera de los requisitos para la procedenc
 
 ###### ARTÍCULO 321.
 
-Son prerrogativas, derechos y obligaciones de los candidatos independientes registrados, los que les otorgue este Código y los ordenamientos electorales, en lo conducente, a los candidatos de los partidos políticos y coaliciones, así como, tener acceso a los tiempos de radio y televisión, de manera conjunta con todos los candidatos independientes registrados como si se tratara de un partido político de nuevo registro, pero en forma proporcional al tipo de elección de que se trate, únicamente en la etapa de las campañas electorales.
+Son prerrogativas y derechos de los candidatos independientes:
+
+I. Participar en la campaña electoral correspondiente y ser electos al cargo de elección popular para el que hayan sido registrados;
+
+II. Tener acceso a los tiempos de radio y televisión en los términos previstos por la legislación electoral federal respectiva;
+
+III. Obtener financiamiento público conforme a lo dispuesto por este Código; y el privado, de acuerdo con lo previsto en el presente Título;
+
+IV. Realizar actos de campaña y difundir propaganda electoral en los términos permitidos por este Código; y,
+
+V. Designar representantes ante los órganos del Consejo; para tal efecto, el candidato independiente a Gobernador podrá nombrar representantes ante el Consejo General del Instituto, y la totalidad de los Consejos Distritales Electorales y mesas directivas de casilla; los candidatos independientes a diputados, y a los ayuntamientos, solo podrán hacerlo ante el Consejo Distrital o Consejo Municipal Electoral, respectivamente, y las mesas directivas de casilla.
 
 ### CAPÍTULO ÚNICO. DEL PROCESO
 
@@ -5025,9 +5187,11 @@ I. Aportaciones de simpatizantes; y,
 
 II. Aportaciones del propio candidato independiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 325.
 
-Los recursos utilizados por los candidatos independientes para sus campañas que provengan de las aportaciones de simpatizantes, se sujetará a las reglas siguientes:
+Los recursos utilizados por los candidatos independientes para sus campañas que provengan de las aportaciones de simpatizantes, se sujetará (sic) a las reglas siguientes:
 
 I. El candidato independiente podrá recibir aportaciones de simpatizantes tanto en dinero como especie, en los términos establecidos en la normatividad aplicable;
 
@@ -5039,7 +5203,9 @@ b) Para el caso de fórmulas de candidatos independientes para Diputados por el 
 
 c) Para el caso de candidatos independientes para el cargo de Gobernador del Estado, las aportaciones que realice cada persona física o moral facultada para ello, tendrán un límite equivalente al 0.20% del tope de gasto de campaña para la elección de Gobernador del Estado aprobado en la elección inmediata anterior.
 
-En la normatividad de fiscalización se determinarán los mecanismos en base a los que, se podrán recibir las donaciones en especie para las campañas de candidatos independientes, en lo no previsto se estará a lo que disponga el Consejo General.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+La Ley General determinará los mecanismos en base a los que, se podrán recibir las donaciones en especie para las campañas de candidatos independientes.
 
 ###### ARTÍCULO 326.
 
@@ -5049,7 +5215,7 @@ Se determinará una partida económica estatal igual a la del partido político 
 
 ###### ARTÍCULO 327.
 
-Los procedimientos de control y vigilancia para la fiscalización de los gastos de campaña de candidatura independiente y de los aspirantes a candidatos independientes, se observarán los aplicables a los partidos políticos en los mismos plazos.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 328.
 
@@ -5158,3 +5324,27 @@ P.O. 12 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 357 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 71 Y 189 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 363.- ARTÍCULO PRIMERO.- SE REFORMA EL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN.- ARTÍCULO TERCERO.- SE REFORMA LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Comuníquese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. Por única ocasión para la elección de dos mil dieciocho, los diputados que hubiesen sido electos por un distrito electoral que sufrió modificaciones en su configuración por la reedistritación, podrán acceder a la elección consecutiva por un distrito distinto, al que ahora pertenezca su municipio de residencia u origen.
+
+CUARTO. Lo no establecido en el presente Decreto, estará a lo dispuesto en reglamentos y acuerdos que para el efecto emita el Instituto Electoral de Michoacán.
+
+QUINTO. Notifíquese el presente Decreto a los titulares de los Órganos Constitucionales Autónomos.
+
+P.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 366 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Comuníquese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. Notifíquese el presente Decreto a los titulares de los Órganos Constitucionales Autónomos.
