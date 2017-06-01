@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2017-03-16"
+last_updated: "2017-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -299,7 +299,7 @@ II. Abuso de confianza;
 
 III. Abuso sexual a que se refiere el artículo 178 de este Código;
 
-IV. Adulterio;
+IV. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
 V. Allanamiento de morada;
 
@@ -345,9 +345,17 @@ XXV. Revelación de secretos o comunicación reservada;
 
 XXVI. Robo simple, cuando el valor de lo robado no exceda lo estipulado en la fracción I del artículo 196 de este Código;
 
-XXVII. Simulación de pruebas; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XXVIII. Violación a la intimidad personal o familiar.
+XXVII. Simulación de pruebas;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XXVIII. Violación a la intimidad personal o familiar; y
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XXIX. La discriminación.
 
 ### CAPÍTULO III. AUTORÍA Y PARTICIPACIÓN
 
@@ -1135,15 +1143,27 @@ En relación a estos delitos, se tendrá en cuenta lo siguiente:
 
 I. Cuando a consecuencia de la conducta culposa de quien conduzca vehículos de transporte de pasajeros, escolar o de carga, de servicio público o privado, con autorización, permiso o licencia concedida por las autoridades competentes o sin cualquiera de ellas, se cause homicidio a dos o más personas, la sanción será de cuatro a ocho años de prisión, multa de doscientas ochenta y ocho hasta quinientas setenta y seis veces la Unidad de Medida y Actualización, destitución del empleo, cargo o comisión e inhabilitación para obtener otros de igual naturaleza;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
-II. Cuando por culpa y con motivo de tránsito de vehículos se cometa homicidio y el sujeto activo conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción, se le impondrá de cinco a diez años de prisión y multa de doscientas ochenta y ocho hasta setecientas veinte veces la Unidad de Medida y Actualización;
+II. Cuando por culpa y con motivo de tránsito de vehículos se cometa el delito de lesiones y el sujeto activo conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción, se le impondrá de dos a cinco años de prisión y multa de ciento cuarenta y cuatro hasta trecientas (sic) sesenta veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
 
-III. Cuando por culpa y con motivo de tránsito de vehículos únicamente se cometa el delito de daños y el monto de éste exceda de doscientas cincuenta veces la Unidad de Medida y Actualización se le aplicará al culpable la pena de prisión a que se refiere el primer párrafo de este artículo o una multa de dieciocho hasta trescientas sesenta veces la Unidad de Medida y Actualización; y,
+En el caso de homicidio por la causa descrita en el párrafo anterior la sanción será de cinco a diez años de prisión y multa del valor de trecientas (sic) sesenta hasta setecientas veinte veces la Unidad de Medida y Actualización;
 
-IV. La calificación de la gravedad de la culpa queda al prudente arbitrio de la autoridad judicial, quien deberá tomar en consideración los criterios de individualización de sanciones a que se refiere éste código y las especiales siguientes:
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+III. Cuando por culpa y con motivo de tránsito de vehículos únicamente se cometa el delito de daños y el monto de éste exceda de doscientas cincuenta veces el salario mínimo se le aplicará al culpable la pena de prisión a que se refiere el primer párrafo de este artículo o una multa de dieciocho hasta trescientas sesenta veces la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JUNIO DE 2017)</small>
+
+IV. Cuando por causa del uso durante la conducción del vehículo, de radio, teléfono celular o cualquier otro aparato de comunicación, salvo que se utilice con tecnología de manos libres u otra tecnología, que motive la distracción del conductor, se cometa el delito lesiones, se le aplicará al culpable la pena de uno a cinco años de prisión o una multa de setenta y dos hasta trecientas (sic) sesenta veces la Unidad de Medida y Actualización.
+
+En el caso de homicidio por la causa descrita en el párrafo anterior la sanción será tres a seis años de prisión y multa de doscientas dieciséis hasta cuatrocientas treinta y dos veces la Unidad de Medida y Actualización; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE JUNIO DE 2017)</small>
+
+V. La calificación de la gravedad de la culpa queda al prudente arbitrio de la autoridad judicial, quien deberá tomar en consideración los criterios de individualización de sanciones a que se refiere éste código y las especiales siguientes:
 
 a) La mayor o menor facilidad de prever y evitar el daño que resultó;
 
@@ -1781,29 +1801,37 @@ Cuando las lesiones sean calificadas, la pena se incrementará en dos terceras p
 
 La riña es la contienda de obra que se acepta de manera tácita o expresa entre dos o más personas con el ánimo de dañarse recíprocamente.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 147.
 
-El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña, estado de alteración voluntaria o brutal ferocidad o en perjuicio de servidores públicos que se encarguen de la procuración o administración de justicia. De igual manera, se considerará que son calificados el homicidio o lesiones, cuando en su ejecución existan algunas de las causas previstas por el artículo 147 Bis de este Código.
+El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña, estado de alteración voluntaria, brutal ferocidad, por razones de preferencia sexual o identidad de género o en perjuicio de servidores públicos que se encarguen de la procuración o administración de justicia. De igual manera, se considerará que son calificados el homicidio o lesiones, cuando en su ejecución existan algunas de las causas previstas por el artículo 147 Bis de este Código.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 147 Bis.
 
-Se entiende que hay feminicidio cuando se presentan algunas de las circunstancias siguientes:
+Se entiende que hay feminicidio cuando, se prive de la vida a una mujer por razones de género y se presente alguna de las circunstancias siguientes:
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2011)</small>
 
 I. El cuerpo de la víctima presente signos de violencia sexual de cualquier tipo;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2011)</small>
+
 II. A la víctima se le hayan inferido lesiones infamantes, degradantes o mutilaciones, antes o después de haberla privado de la vida;
 
-III. Existan datos que establezcan que se han cometido amenazas, acoso, violencia o lesiones del sujeto activo en contra de la víctima;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+III. Existan datos que establezcan que previamente se han cometido amenazas, acoso, violencia o lesiones del sujeto activo en contra de la víctima;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2011)</small>
 
 IV. El cuerpo de la víctima sea expuesto, depositado o arrojado en un lugar público; o
 
-V. La víctima haya sido incomunicada sin ánimo de obtención de lucro, cualquiera que sea el tiempo previo a su fallecimiento.
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO [N. DE E. DEROGADO] ÚLTIMO PÁRRAFO, P.O. 10 DE MARZO DE 2013)</small>
+V. La víctima haya sido incomunicada sin ánimo de obtención de lucro, cualquiera que sea el tiempo previo a su fallecimiento.
 
 ### CAPÍTULO IV. ABORTO
 
@@ -2161,7 +2189,7 @@ Si se ejerciera violencia, las penas previstas se aumentarán en una mitad.
 
 ### CAPÍTULO III. ESTUPRO
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 178.
 
@@ -2169,11 +2197,15 @@ Al que sin el consentimiento de una persona, ejecute en ella o la haga ejecutar 
 
 Si se hiciera uso de violencia, la pena será de tres a siete años de prisión y multa de doscientas dieciséis a trescientas sesenta veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 179.
 
-Al que ejecute un acto sexual, sin el propósito de llegar a la cópula, en una persona menor de doce años o en persona que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirla o la obligue a ejecutarla, se le impondrán de cuatro a nueve años de prisión y multa de doscientas ochenta y ocho a cuatrocientas treinta y dos veces la Unidad de Medida y Actualización.
+Al que ejecute un acto sexual, sin el propósito de llegar a la cópula, con una persona menor de doce años o en persona que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirla o la obliguen a realizarla por razón de edad, sexo, clase social, coerción, amenazas entre otros, se le impondrán de 4 a 9 años de prisión y multa de doscientos ochenta y ocho a seiscientos cuarenta y ocho Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Igualmente al que ejecute un acto sexual, sin el propósito de llegar a la cópula, con una persona mayor de doce años pero menor de 18 años, se le impondrán de 3 a 6 años de prisión y multa de doscientos dieciséis a cuatrocientos treinta y dos Unidades de Medida y Actualización.
 
 ###### Artículo 180.
 
@@ -2197,7 +2229,11 @@ VI. Fuere cometido en despoblado o en lugar solitario.
 
 ###### Artículo 181.
 
-Se impondrá de seis meses a cuatro años de prisión y multa de treinta y seis a doscientas ochenta y ocho veces la Unidad de Medida y Actualización, al que tenga cópula con una persona mayor de catorce años y menor de dieciocho, obteniendo su consentimiento por medio del engaño.
+Se impondrá de 1 año a 5 años de prisión y multa de setenta y dos a trecientos sesenta Unidades de Medida y Actualización, al que tenga cópula con una persona mayor de catorce años y menor de dieciocho años, obteniendo su consentimiento por medio del engaño.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Asimismo se le sujetará a tratamiento especializado psicológico, psiquiátrico o reeducativo según corresponda, independientemente de las penas que correspondan al delito.
 
 ### CAPÍTULO I. PROCREACIÓN ASISTIDA E INSEMINACIÓN ARTIFICIAL
 
@@ -2337,7 +2373,7 @@ I. De seis meses a dos años de prisión o multa de treinta y seis a ciento cuar
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
 
-II. De uno a cuatro años de prisión o multa de setenta y dos a doscientas ochenta y ocho veces la Unidad de Medida y Actualización, cuando el valor de lo robado exceda de veinticinco pero no de noventa veces la Unidad de Medida y Actualización;
+II. De uno a cuatro años de prisión o multa de setenta y dos a doscientos ochenta y ocho veces la Unidad de Medida y Actualización, cuando el valor de lo robado exceda de veinticinco pero no de noventa veces la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -3785,7 +3821,7 @@ DELITOS CONTRA LA FAMILIA
 
 ### CAPÍTULO II. DISCRIMINACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 297.
 
@@ -3867,19 +3903,31 @@ DELITOS CONTRA LA DIGNIDAD DE LAS PERSONAS
 
 ###### Artículo 306.
 
-Se impondrán de uno a tres años de prisión y multa de setenta y dos a doscientas dieciséis veces la Unidad de Medida y Actualización, al que, por razón de edad, sexo, embarazo, estado civil, raza, precedencia étnica, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, características físicas, discapacidad o estado de salud:
+Comete el delito de discriminación quien por razones de edad, género, embarazo, estado civil, raza, color de piel, idioma, religión, ideología, orientación sexual, opiniones políticas, posición social o económica, discapacidad, condición física, estado de salud o cualquier otra índole, atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de las siguientes conductas:
 
-I. Provoque o incite al odio o a la violencia;
+I. VEJACIONES CON EFECTOS MORALES O MATERIALES. Veje o excluya a alguna de dichas personas o a un grupo de ellas, cuando esa conducta tenga por resultado un daño material o moral;
 
-II. Veje, injurie o excluya a alguna persona o grupo de personas;
+II. DISCRIMINACIÓN EN LA PRESTACIÓN DE SERVICIOS. En ejercicio de sus actividades profesionales, mercantiles o empresariales, niegue a alguna de esas personas, un servicio o una prestación a la que tengan derecho.
 
-III. Niegue o restrinja derechos laborales en el acceso a un puesto, cargo o comisión; y,
+Para los efectos de esta fracción, se considera que toda persona tiene derecho a los servicios o prestaciones de una persona o grupo de personas;
 
-IV. Niegue a una persona un servicio o una prestación a la que tenga derecho.
+III. PROVOCACIONES INNOBLES. Provoque o incite a la discriminación, al odio o a la violencia en perjuicio de una persona o un grupo de personas;
 
-Para los efectos de esta fracción, se considera que toda persona tiene derecho a los servicios o prestaciones que se ofrecen al público en general.
+IV. LIMITACIONES LABORALES. Les niegue o restrinja sus derechos laborales adquiridos, principalmente por razones de género o embarazo, o limite un servicio de salud principalmente a la mujer en relación con el embarazo; o,
 
-Iguales penas se impondrá al servidor público que niegue o retarde a una persona un trámite, servicio o prestación al que tenga derecho y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
+V. DERECHOS EDUCATIVOS. Les niegue o restrinja sus derechos educativos.
+
+Para este delito se impondrá de uno a tres años de prisión y multa de setenta y dos a doscientos dieciséis veces la Unidad de Medida y Actualización.
+
+Al que siendo servidor público, incurra en alguna de las conductas previstas en este artículo, o niegue o retarde a una de las personas en él mencionado trámite, servicio o prestación o que tenga derecho, se le aumentará en una mitad la pena prevista en el párrafo anterior de este artículo, y se le impondrá la destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por el mismo tiempo de la pena de prisión impuesta.
+
+No serán considerados como delitos contra la dignidad de las personas, todas aquellas medidas tendientes a la protección de los grupos socialmente desfavorecidos.
+
+Cuando las conductas a que se refiere este articulo sean cometidas por persona con la que el ofendido tenga una relación de subordinación laboral, la pena se incrementará en una mitad.
+
+Asimismo, se incrementará en una mitad la pena cuando los actos previstos en este artículo limiten el acceso a las garantías jurídicas indispensables para la protección de todos los derechos humanos.
+
+La autoridad judicial competente estará obligada en su resolución a señalar a favor de la víctima lo relativo a las medidas afirmativas correspondientes que garanticen que los actos, omisiones o prácticas sociales discriminatorias no se repitan en su perjuicio.
 
 SUBTÍTULO DÉCIMO PRIMERO
 
@@ -5548,3 +5596,35 @@ P.O. 16 DE MARZO DE 2017.
 PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
+
+P.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 140.- POR EL QUE SE REFORMA EN ADICIÓN EL ARTÍCULO 79 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 142.- POR EL QUE SE REFORMAN EN ADICIÓN LOS ARTÍCULOS 20 BIS Y 306 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 143.- POR EL QUE SE REFORMAN LOS ARTICULOS 147 Y 147 BIS DEL CODIGO PENAL PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que opongan al contenido del presente Decreto.
+
+P.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 144.- POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 179 Y 181 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Segundo.- Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
