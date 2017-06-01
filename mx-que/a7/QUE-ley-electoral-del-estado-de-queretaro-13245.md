@@ -4,7 +4,7 @@ identifier: "QUE-ley-electoral-del-estado-de-queretaro-13245"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-05"
-last_updated: "2014-08-15"
+last_updated: "2017-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # LEY ELECTORAL DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 1 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ELECTORAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2014.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 15 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 5 de diciembre de 1996.
 
@@ -35,7 +35,7 @@ LA QUINCUAGESIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO AR
 
 CONSIDERANDO:
 
-...
+[...]
 
 Por lo anteriormente fundado y motivado la H. Legislatura ha tenido a bien expedir la siguiente:
 
@@ -983,7 +983,7 @@ XXII. Presentar, por conducto de su Presidente, al Poder Legislativo y a la ciud
 
 XXIII. Conocer y aprobar los informes que rinda el Secretario Ejecutivo del Instituto;
 
-XXIV. Conocer y aprobar, en su caso, los dictámenes que le presente la Comisión de Fiscalización, relativos a estados financieros de asociaciones políticas, candidatos independientes y de partidos políticos,en (sic) aquellos casos en que el Instituto Nacional Electoral delegue dicha atribución al Instituto;
+XXIV. Conocer y aprobar, en su caso, los dictámenes que le presente la Comisión de Fiscalización, relativos a estados financieros de asociaciones políticas, candidatos independientes y de partidos políticos, en aquellos casos en que el Instituto Nacional Electoral delegue dicha atribución al Instituto;
 
 XXV. Ordenar la práctica de auditorías a las asociaciones políticas, así como a los partidos políticos y candidatos independientes, en los términos establecidos por esta Ley, en aquellos casos en que el Instituto Nacional Electoral delegue dicha atribución al Instituto;
 
@@ -4139,7 +4139,7 @@ P.O. 25 DE NOVIEMBRE DE 2011.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
-Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que opongan (sic) a la presente Ley.
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que (sic) opongan a la presente Ley.
 
 P.O. 27 DE JULIO DE 2013.
 
@@ -4162,3 +4162,21 @@ Artículo Cuarto. Por única ocasión, los procesos electorales ordinarios local
 Artículo Quinto. Las elecciones ordinarias locales que se verifiquen en el año 2018 se llevarán a cabo el primer domingo de julio.
 
 Artículo Sexto. Se derogan todas las disposiciones que se opongan al contenido de la presente Ley.
+
+P.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ELECTORAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley Electoral del Estado de Querétaro publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", en fecha 5 de diciembre de 1996, así como todas sus reformas; así como todas las disposiciones legales vigentes de igual o menor jerarquía en la materia, o que resulten contrarias a la presente Ley.
+
+Artículo Tercero. Los asuntos que, a la entrada en vigor de esta Ley se encuentren en proceso, se resolverán conforme a las disposiciones vigentes al momento en que iniciaron.
+
+Artículo Cuarto. Las actividades de la Dirección Ejecutiva de Organización Electoral, la Dirección Ejecutiva de Educación Cívica y la Unidad Técnica de lo Contencioso Electoral, previstas en la Ley que se abroga, las asumen la Dirección Ejecutiva de Organización Electoral, Prerrogativas y Partidos Políticos; la Dirección Ejecutiva de Educación Cívica y Participación Ciudadana; y la Dirección Ejecutiva de Asuntos Jurídicos; respectivamente, manteniéndose la integración de las mismas hasta en tanto el Consejo General no acuerde lo contrario.
+
+Artículo Quinto. El Consejo General del Instituto Electoral del Estado de Querétaro estará facultado para emitir los reglamentos, acuerdos y disposiciones administrativas, en el ámbito de su competencia.
+
+Artículo Sexto. La celebración de la elección ordinaria que se verifique en 2018, se llevará a cabo el primer domingo de julio.
+
+Artículo Séptimo. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
