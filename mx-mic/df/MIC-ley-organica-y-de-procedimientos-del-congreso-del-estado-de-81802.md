@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2016-12-16"
+last_updated: "2017-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -53,9 +53,11 @@ LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMP
 
 La presente Ley establece las bases para la organización, funcionamiento y procedimientos del Congreso del Estado, conforme a lo dispuesto por la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 2.
 
-El Congreso del Estado de Michoacán de Ocampo, está integrado por diputados electos por sufragio universal, libre, secreto y directo, conforme a los principios de votación de mayoría relativa y de representación proporcional, en el número y términos que determinen la Constitución del Estado y la Ley de la materia.
+EI Congreso del Estado de Michoacán de Ocampo, está integrado por diputados electos por sufragio universal, libre, secreto y directo, conforme a los principios de votación de mayoría relativa y de representación proporcional, mismos que durarán en su encargo tres años, con opción a ser electo de manera consecutiva hasta por cuatro periodos, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, el Código Electoral del Estado y las demás disposiciones aplicables.
 
 El Congreso funcionará por Legislaturas a la cual se le denomina agregando previamente el número nominal que le corresponda, cuyo periodo constitucional es de tres años, y éstas se dividen por Años Legislativos.
 
@@ -2687,11 +2689,17 @@ DE LOS COMITÉS TÉCNICOS
 
 El Congreso se instala el quince de septiembre del año en que hubiere elecciones ordinarias. A este acto concurrirá el Gobernador, el Presidente del Supremo Tribunal de Justicia y los miembros que formen ese cuerpo.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 209.
 
 El Congreso no podrá instalar la Legislatura ni ejercer sus funciones sin la concurrencia de la mayoría del número total de sus miembros. Si no se reuniere esa mayoría el día designado por la Ley, los diputados presentes exhortarán a los ausentes para que concurran dentro de los ocho días siguientes. Si a pesar de ello no se presentaren, se llamará a los suplentes, quienes funcionarán durante sesenta días, y si los suplentes no se presentaren en el plazo de ocho días, se declarará vacante el puesto y se convocará a nuevas elecciones.
 
-Incurrirán en responsabilidad y se harán acreedores a las sanciones que la Ley señale, quienes habiendo sido electos diputados, no se presenten, sin causa justificada a juicio del Congreso, a desempeñar el cargo dentro del plazo de ocho días. Las vacantes de los electos por el principio de representación proporcional, deberán ser cubiertas por aquellos candidatos del mismo partido que siga en el orden de la lista de candidatos respectiva, después de habérseles asignado los diputados que le hubieren correspondido.
+Incurrirán en responsabilidad y se harán acreedores a las sanciones que la Ley señale, quienes habiendo sido electos diputados, no se presenten, sin causa justificada a juicio del Congreso, a desempeñar el cargo dentro del plazo de ocho días.
+
+Las vacantes de los electos por el principio de representación proporcional, deberán ser cubiertas por acuerdo del Congreso con aquellos candidatos del mismo partido respetando el orden de prelación de la lista, para lo cual contará con un término hasta de treinta días naturales.
+
+En el caso de elección consecutiva en donde el suplente no asuma el cargo, se atenderá a lo dispuesto en el párrafo anterior.
 
 ### CAPÍTULO SEGUNDO. DE LA COMISIÓN DE TRANSICIÓN
 
@@ -3982,3 +3990,17 @@ SEGUNDO. Comuníquese al Titular del Poder Ejecutivo del Estado para su publicac
 P.O. 16 DE DICIEMBRE DE 2016.
 
 > <small>[N. DE E. EL DECRETO NÚMERO 289 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 74 Y 75 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE MICHOACÁN DE OCAMPO.]</small>
+
+P.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 363 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2 Y 209 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Comuníquese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. Por única ocasión para la elección de dos mil dieciocho, los diputados que hubiesen sido electos por un distrito electoral que sufrió modificaciones en su configuración por la reedistritación, podrán acceder a la elección consecutiva por un distrito distinto, al que ahora pertenezca su municipio de residencia u origen.
+
+CUARTO. Lo no establecido en el presente Decreto, estará a lo dispuesto en reglamentos y acuerdos que para el efecto emita el Instituto Electoral de Michoacán.
+
+QUINTO. Notifíquese el presente Decreto a los titulares de los Órganos Constitucionales Autónomos.
