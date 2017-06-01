@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2017-05-12"
+last_updated: "2017-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -423,9 +423,11 @@ Los Ayuntamientos son órganos colegiados deliberantes y autónomos electos popu
 
 Entre el Ayuntamiento y los Poderes del Estado no habrá autoridad intermedia alguna. Para la gestión, planeación, programación y ejecución de programas de interés comunitario o intermunicipal se establecerán las relaciones de colaboración y coordinación necesaria, a través de los instrumentos jurídicos correspondientes, a fin de propiciar el desarrollo regional aprovechando de manera integral las fortalezas, recursos naturales y la capacidad productiva de las diversas y diferentes regiones de la Entidad.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### Artículo 13.
 
-Los miembros de los Ayuntamientos se elegirán por sufragio universal, directo, libre y secreto de los ciudadanos, bajo el sistema electoral mixto de mayoría relativa y de representación proporcional y durarán en su encargo tres años, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, el Código Electoral del Estado y las demás disposiciones aplicables.
+Los miembros de los ayuntamientos se elegirán por sufragio universal, directo, libre y secreto de los ciudadanos, bajo el sistema electoral mixto de mayoría relativa y de representación proporcional y durarán en su encargo tres años, con opción a ser electo consecutivamente por un periodo más, siempre que su encargo no sea mayor de tres años, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, el Código Electoral del Estado y las demás disposiciones aplicables.
 
 ###### Artículo 14.
 
@@ -1307,7 +1309,9 @@ II. Si la ausencia es mayor de quince sin exceder de sesenta días, el President
 
 III. Si la ausencia es por más de sesenta días, el Ayuntamiento notificará al Congreso, quien valorará la fundamentación y motivación de la causa, en cuyo caso nombrará un Presidente Municipal Provisional, en caso contrario decretará la ausencia definitiva.
 
-El Presidente Municipal Provisional, permanecerá en el cargo hasta que el titular se encuentre en la posibilidad material y legal de incorporarse a sus funciones, mediando para ello solicitud al Congreso para el trámite respectivo. En casos de ausencia definitiva conocerá el Congreso, quien designará a quien deba sustituirlo, respetando su origen partidista.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+El Presidente Municipal Provisional, permanecerá en el cargo hasta que el titular se encuentre en la posibilidad material y legal de incorporarse a sus funciones, mediando para ello solicitud al Congreso para el trámite respectivo. En casos de que se declare ausencia definitiva conocerá el Congreso, quien contará con un término de hasta treinta días naturales contados a partir del día en que tenga conocimiento oficial, para designar a quien deba sustituirlo, respetando el origen partidista o en su caso independiente y el cual deberá cumplir los requisitos de elegibilidad para ser candidato a Presidente Municipal que señala la Constitución Local.
 
 ### Capítulo II. De las Atribuciones del Síndico
 
@@ -3051,7 +3055,7 @@ Segundo. El presente Decreto no invalida los documentos jurídicos y legales, co
 
 Tercero. En los reglamentos municipales y demás disposiciones en que se haga referencia a Venustiano Carranza, como cabecera municipal, deberá entenderse San Pedro Cahro, a partir de la entrada en vigor del presente Decreto.
 
-Cuarto. Dese cuenta del presente Decreto a los titulares de los poderes Ejecutivo y Judicial, al Instituto Nacional de Estadística y Geografia (INEGI); y, al Instituto Nacional Electoral, para su conocimiento.
+Cuarto. Dese cuenta del presente Decreto a los titulares de los poderes Ejecutivo y Judicial, al Instituto Nacional de Estadística y Geografía (INEGI); y, al Instituto Nacional Electoral, para su conocimiento.
 
 Quinto. Se exhorta al Ayuntamiento del Municipio de Venustiano Carranza, para que en el marco de su competencia, ordene se modifiquen, los emblemas, escudos, papelería, sellos e imagen, tanto del Ayuntamiento, como de la Cabecera Municipal, ajustándose a lo aprobado en el presente Decreto.
 
@@ -3149,8 +3153,22 @@ CUARTO. Una vez que entre en vigor el presente decreto, los Ayuntamientos tendr�
 
 P.O. 12 DE MAYO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 360 POR EL QUE "SE REFORMA EL INCISO E) DEL ARTÍCULO 32 Y EL ARTÍCULO 41 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 360 POR EL QUE “SE REFORMA EL INCISO E) DEL ARTÍCULO 32 Y EL ARTÍCULO 41 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado (sic) Michoacán de Ocampo.
 
 Artículo Segundo. Remítase el presente Decreto al Gobernador del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 363 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 13 Y 50 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Comuníquese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. Por única ocasión para la elección de dos mil dieciocho, los diputados que hubiesen sido electos por un distrito electoral que sufrió modificaciones en su configuración por la reedistritación (sic), podrán acceder a la elección consecutiva por un distrito distinto, al que ahora pertenezca su municipio de residencia u origen.
+
+CUARTO. Lo no establecido en el presente Decreto, estará a lo dispuesto en reglamentos y acuerdos que para el efecto emita el Instituto Electoral de Michoacán.
+
+QUINTO. Notifíquese el presente Decreto a los titulares de los Órganos Constitucionales Autónomos.
