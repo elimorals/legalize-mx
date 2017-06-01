@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-de-adquisiciones-arrendamientos-y-15450"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-11"
-last_updated: "2016-11-04"
+last_updated: "2017-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de noviembre de 1999.
 
@@ -467,37 +467,9 @@ El Comité, deberá participar invariablemente en las etapas de calificación de
 
 Las disposiciones de este Reglamento, en lo conducente, serán aplicables para el caso de los ayuntamientos, cuando resulte aplicable a ellos, lo dispuesto por el artículo 17 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Michoacán de Ocampo.
 
-[N. DE E. DEL ANÁLISIS AL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 4 DE NOVIEMBRE DE 2016, SE ADVIERTE QUE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DE ESTE ARTÍCULO, PASANDO DE CINCO A CUATRO PÁRRAFOS].
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
-
 ###### ARTICULO 38.
 
-Para los programas de Seguridad y Procuración de Justicia, se autoriza la constitución de Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración de Justicia del Estado de Michoacán de Ocampo, que de igual forma tendrá las atribuciones que tiene conferidas el Comité para efectuar los procedimientos a los que se refiere el artículo 5° de este Reglamento, en los rubros de Seguridad Pública y Procuración de Justicia, siempre y cuando sea para la aplicación de recurso federal.
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
-
-El Subcomité estará integrado por la Presidencia y tres vocales, todos con derecho a voz y voto, en caso de empate el Presidente tendrá voto de calidad:
-
-Presidencia.
-
-1. El Titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
-
-Tres vocales.
-
-1. El Titular de la Secretaría de Contraloría, o quien éste designe.
-
-2. El Titular de la Secretaría de Finanzas y Administración, o quien éste designe.
-
-3. El Director General del Comité de Adquisiciones del Poder Ejecutivo, o quien éste designe.
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
-
-La Consejería Jurídica del Ejecutivo del Estado de Michoacán de Ocampo, tendrá representante permanente en el Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración de Justicia del Estado de Michoacán de Ocampo, con derecho a voz pero sin derecho a voto.
-
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2014)</small>
-
-Las facultades y atribuciones del Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración de Justicia del Estado de Michoacán de Ocampo y de sus integrantes se establecerán en el Reglamento Interno que apruebe el mismo órgano colegiado en su primera sesión ordinaria.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
@@ -628,3 +600,15 @@ Artículo Segundo. Los procedimientos de contratación que se encuentren en trá
 Artículo Tercero. Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
 
 Artículo Cuarto. El Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración de Justicia del Estado de Michoacán de Ocampo, deberá expedir la reforma a su Reglamento Interno, afectado por el presente Decreto, en un plazo no mayor a 30 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGA EL ARTÍCULO 38 DEL REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLES DEL ESTADO DE MICHOACÁN DE OCAMPO.”]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Los procedimientos de contratación que se encuentren en trámite, se resolverán conforme al procedimiento vigente en el momento de su inicio.
+
+Artículo Tercero. Se instruye al Titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, para que en un término no mayor a treinta días naturales, presente e informe al Titular del Comité de Adquisiciones del Poder Ejecutivo, el estado actual, acciones y programas en materia de adquisiciones, contratación, arrendamientos de bienes muebles e inmuebles y prestación de servicios relacionados con los mismos, realizadas por el Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración de Justicia del Estado de Michoacán de Ocampo.
+
+Artículo Cuarto. Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
