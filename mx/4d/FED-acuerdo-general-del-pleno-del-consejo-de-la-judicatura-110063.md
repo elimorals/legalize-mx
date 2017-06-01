@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-110063"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-10-05"
-last_updated: "2016-08-12"
+last_updated: "2017-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110063&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-09-25"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2017.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 5 de octubre de 2015.
 
@@ -153,9 +153,13 @@ Sobre el importe de la pensión complementaria que otorgue el Consejo, en térmi
 
 Los montos de las pensiones complementarias serán determinados conforme a las reglas de este Acuerdo.
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2017)</small>
+
 ###### Artículo 6.
 
-La Comisión de Administración deberá ordenar, por lo menos una vez cada año, la práctica de estudios actuariales profesionales con el fin de disponer de elementos suficientes para la toma de decisiones que aseguren la suficiencia del Fondo y la supervivencia indefinida del Plan, teniendo siempre como objetivo, observar lo establecido en los artículos 4 y 5 de este Acuerdo.
+La Comisión de Administración deberá ordenar, en forma bianual, la práctica de estudios actuariales profesionales con el fin de disponer de elementos suficientes para la toma de decisiones que aseguren la suficiencia del Fondo y la supervivencia indefinida del Plan, teniendo siempre como objetivo, observar lo establecido en los artículos 4 y 5 de este Acuerdo.
+
+En forma excepcional, como resultado del análisis y evaluación realizada por el Comité de Inversión, se podrá solicitar por este último, mediante punto para acuerdo debidamente justificado y motivado, la autorización al Pleno del Consejo de la Judicatura Federal o a la Comisión de Administración para la realización del estudio actuarial en un periodo distinto al mencionado en el párrafo que antecede.
 
 Se podrán recibir de cualquier persona donativos que permitan financiar el Plan.
 
@@ -694,3 +698,13 @@ D.O.F. 12 DE AGOSTO DE 2016.
 PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, EN RELACIÓN CON LA PERIODICIDAD CON QUE SE DEBE REALIZAR EL ESTUDIO ACTUARIAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se instruye a las áreas operativas que en el presente ejercicio fiscal, se omita contratar el estudio actuarial a que se refiere la presente modificación en consideración a que durante el ejercicio fiscal dos mil dieciséis, se realizó el mismo.
