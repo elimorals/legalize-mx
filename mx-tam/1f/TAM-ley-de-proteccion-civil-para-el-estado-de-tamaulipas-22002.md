@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-civil-para-el-estado-de-tamaulipas-22002"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2016-12-21"
+last_updated: "2017-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio de 2001.
 
@@ -71,7 +71,7 @@ VII.- Emergencia.- La situación derivada de fenómenos naturales, actividades h
 
 VIII.- Establecimientos.- A las escuelas, oficinas, empresas, fábricas, industrias, o comercios, así como a cualquier otro local público o privado y, en general, a cualquier instalación, construcción, servicio u obra, en los que debido a su propia naturaleza, al uso a que se destine, o a la concurrencia masiva de personas, pueda existir riesgo. Para los efectos de esta ley, existen establecimientos de competencia Estatal, y de competencia Municipal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -577,9 +577,15 @@ XX.- Determinar la existencia de riesgos en los establecimientos, así como dict
 
 XXI.- Señalar las medidas de seguridad necesarias e imponer las sanciones correspondientes conforme a la presente ley;
 
-XXII.- Coadyuvar, con el Consejo de Protección Civil del Estado de Tamaulipas, en la conducción y operación del Sistema Estatal de Protección Civil, así como en la reunión, introducción y actualización de la información del mismo; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XXIII.- Las demás que le confiera el Ejecutivo del Estado, el Secretario General de Gobierno, la presente ley, y otros ordenamientos legales, así como las que se determinen por acuerdos y resoluciones del Consejo de Protección Civil del Estado de Tamaulipas.
+XXII.- Coadyuvar, con el Consejo de Protección Civil del Estado de Tamaulipas, en la conducción y operación del Sistema Estatal de Protección Civil, así como en la reunión, introducción y actualización de la información del mismo;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XXIII.- Elaborar y presentar anualmente para su aprobación al Presidente del Consejo de Protección Civil, el Programa Escolar de Protección Civil, con el propósito de establecer acciones de prevención, auxilio y recuperación destinadas a salvaguardar la integridad física de la comunidad educativa, así como proteger las instalaciones, bienes muebles e información, ante la ocurrencia de cualquier situación de emergencia, del cual se deberá rendir informe anual que indicará sus alcances; y
+
+XXIV.- Las demás que le confiera el Ejecutivo del Estado, el Secretario General de Gobierno, la presente ley, y otros ordenamientos legales, así como las que se determinen por acuerdos y resoluciones del Consejo de Protección Civil del Estado de Tamaulipas.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -773,9 +779,15 @@ VII.- Elaborar el respectivo Mapa Municipal de Riesgos;
 
 VIII.- Convocar a funcionarios públicos y a representantes de los sectores social, privado y grupos voluntarios para integrar el Centro Municipal de Operaciones;
 
-IX.- Promover el equipamiento de los cuerpos de respuesta; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-X.- Las demás que acuerde el propio Sistema Municipal.
+IX.- Promover el equipamiento de los cuerpos de respuesta;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+X.- Ejecutar y en su caso estandarizar el Programa Escolar de Protección Civil, así como implementar los mecanismos de coordinación, con las dependencias y organismos públicos, privados y sociales para su seguimiento; y
+
+XI.- Las demás que acuerde el propio Sistema Municipal.
 
 ###### ARTICULO 37.
 
@@ -1429,7 +1441,7 @@ Por lo tanto, mando se imprima, publique, circule y se le de debido cumplimiento
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas a los veintiocho días del mes de mayo del año de dos mil uno.
 
-> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 6 DE SEPTIEMBRE DE 2006.
 
@@ -1494,3 +1506,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIII-169 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XX, ADICIONANDO LA FRACCIÓN XXI Y RECORRIENDO EN SU ORDEN NATURAL LA ACTUAL FRACCIÓN XXI, PARA PASAR A SER LA FRACCIÓN XXII DEL ARTÍCULO 30, DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
