@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2017-05-11"
+last_updated: "2017-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE JUNIO DE 2017.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -2465,7 +2465,7 @@ II.- Proporcione información confidencial o reservada que, de alguna manera, pe
 
 > <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
 
-III.- Produzca, imprima, enajene, distribuya, altere, o falsifique vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios.
+III.- Produzca, imprima, enajene, distribuya, altere, o falsifique vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, emitido (sic) por personas morales utilizados para canjear bienes y servicios.
 
 > <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
 
@@ -3077,6 +3077,8 @@ DELITOS CONTRA LA PAZ Y SEGURIDAD DE LAS PERSONAS
 
 ### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 238.
 
 Se aplicará prisión de tres días a tres años o de veinte a trescientos cincuenta días multa, y caución de no ofender:
@@ -3269,7 +3271,9 @@ Cuando en la comisión del delito de homicidio, intervengan dos o más personas,
 
 Cuando el homicidio sea cometido a propósito de un allanamiento de morada, asalto o SECUESTRO, se sancionará con prisión de veinticinco a cincuenta años. La misma sanción se aplicará cuando el homicidio sea cometido en contra de una persona del sexo masculino a propósito de una violación o derivado de su condición de género.
 
-Al autor de homicidio calificado con premeditación, alevosía o traición, o al que prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, o a su adoptante o adoptado, con conocimiento de esa relación, se le impondrá la misma pena señalada en el párrafo anterior.
+> <small>(REFORMADO, B.O. 1 DE JUNIO DE 2017)</small>
+
+Al autor de homicidio calificado con premeditación, alevosía, ventaja o traición, o al que prive de la vida a su ascendiente o descendente consanguíneo en línea recta, o a su adoptante o adoptado, con conocimiento de esa relación, se le impondrá la misma pena señalada en el párrafo anterior.
 
 > <small>(ADICIONADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
@@ -3287,7 +3291,7 @@ Al responsable de cualquier otro homicidio calificado se impondrá de veinte a c
 
 ###### ARTICULO 259.
 
-Las lesiones y el homicidio son calificados, cuando se cometan con premeditación, alevosía o traición.
+Las lesiones y el homicidio son calificados, cuando se cometan con premeditación, alevosía, ventaja o traición.
 
 Se considerarán también calificados los delitos dolosos de lesiones y homicidio, cuando se cometan por inundación, incendio, gases o explosivos; por medio de venenos o cualquiera otra substancia nociva a la salud; por contagio doloso de una enfermedad venérea o de algún otro mal grave y fácilmente transmisible; por retribución dada o prometida; por tormento; por motivos depravados o por brutal ferocidad.
 
@@ -3295,15 +3299,37 @@ Se considerarán también calificados los delitos dolosos de lesiones y homicidi
 
 Hay premeditación cuando se causa una lesión o la muerte después de haber reflexionado sobre el delito que se va a cometer.
 
-> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 1 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 261.
 
-La alevosía consiste en sorprender intencionalmente a alguien de improviso o empleando asechanza; igualmente se actúa con alevosía cuando se emplee otro medio que no de lugar a defenderse, ni a evitar el mal que se quiere hacer.
+La alevosía consiste en sorprender intencionalmente a alguien de improviso o empleando asechanza; igualmente se actúa con alevosía cuando, para sorprender, se emplee otro medio que no de lugar a defenderse, ni a evitar el mal que se quiere hacer.
 
 ###### ARTICULO 262.
 
 Obra a traición el que viola la fe o seguridad que expresamente había prometido a su víctima, o la tácita que ésta debía esperar de aquél por sus relaciones de parentesco, gratitud, amistad o cualquiera otra que inspire confianza.
+
+> <small>(ADICIONADO, B.O. 1 DE JUNIO DE 2017)</small>
+
+ARTICULO 262 BIS.- Se obra con ventaja:
+
+I.- Cuando se aprovecha la evidente superioridad en fuerza física que se tiene respecto del ofendido, siempre que éste no se encuentre armado;
+
+II.- Cuando se supera al ofendido por las armas que emplean, o por la destreza en el manejo de éstas, siempre que el propio ofendido no se encuentre armado;
+
+III.- Cuando intervienen dos o más personas en la comisión del delito;
+
+III (SIC).- Cuando se valga de algún medio o circunstancia que debilite al ofendido;
+
+IV.- Cuando se aprovecha que el ofendido está caído e inerme; y
+
+V.- El que se valga de la situación de vulnerabilidad del ofendido motivada por su condición física o mental, o su avanzada edad.
+
+Es condición para que se actualicen los supuestos de ventaja señalados en este artículo, que el ofendido o la víctima no haya provocado al agresor ni aceptado enfrentamiento, riña o reto alguno con él, sino en todo caso que únicamente se hubiese tratado de defender al ser atacado o agredido.
+
+> <small>(ADICIONADO, B.O. 1 DE JUNIO DE 2017)</small>
+
+ARTICULO 262 TER.- Obra con brutal ferocidad quien causa una lesión o la muerte sin tener un motivo para atacar a la víctima u ofendido, o bien cuando el supuesto motivo es desproporcionado o intrascendente en comparación con la conducta criminal.
 
 ###### ARTICULO 263.
 
@@ -4315,13 +4341,19 @@ Se impondrán de dos a diez años de prisión y de veinte a trescientos días mu
 
 I.- Un edificio, vivienda o cuarto donde se encuentre alguna persona;
 
-II.- Ropas, muebles u objetos en tal forma, que puedan causar graves daños personales;
+> <small>(REFORMADA, B.O. 1 DE JUNIO DE 2017)</small>
+
+II.- Ropas, muebles u objetos en tal forma, que puedan causar graves daños en la integridad física de las personas;
 
 III.- Archivos públicos o notariales;
 
 IV.- Bibliotecas, museos, templos, escuelas o edificios o monumentos públicos; y
 
 V.- Montes, bosques, selvas, pastos, mieses o cultivos de cualquier género.
+
+> <small>(ADICIONADO, B.O. 1 DE JUNIO DE 2017)</small>
+
+En el supuesto previsto en la fracción II, las lesiones o, en su caso, el homicidio que se cometan, se sancionará (sic) conforme a las reglas del concurso ideal de delitos.
 
 ###### ARTICULO 328.
 
@@ -4862,6 +4894,14 @@ El presente Decreto entrará en vigor el día de su publicación en el Boletín 
 B.O. 11 DE MAYO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 125, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA Y DE LA LEY DE SALUD PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 140, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL DEL ESTADO DE SONORA”.]
 
 ###### ARTÍCULO ÚNICO.
 
