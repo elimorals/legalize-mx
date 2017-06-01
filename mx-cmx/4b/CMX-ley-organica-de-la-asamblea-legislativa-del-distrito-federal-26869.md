@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2017-05-05"
+last_updated: "2017-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE JUNIO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -175,6 +175,10 @@ XXI.- Comunicarse con los otros órganos locales de gobierno, los órganos autó
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
 
 XXII.- Otorgar la Medalla al Mérito Ciudadano en reconocimiento a quienes hayan prestado servicios eminentes a la ciudad, a la nación o a la humanidad, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
+
+> <small>(ADICIONADA, G.O. 1 DE JUNIO DE 2017)</small>
+
+XXII BIS.- Otorgar la Medalla al Mérito Docente "Jaime Torres Bodet" a aquellas o aquellos Profesores de la Ciudad de México, que por su trayectoria, vocación y servicio han destacado en la labor académica más noble y así se les pueda reconocer, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
 
 > <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
@@ -2501,3 +2505,13 @@ QUINTO. La Asamblea Legislativa y el Jefe de Gobierno, contarán conjuntamente c
 SEXTO. En tanto se instale el Consejo Consultivo de Desarrollo Urbano de la Ciudad de México, el Presidente de la Comisión de Desarrollo e Infraestructura Urbana de la Asamblea Legislativa, ejercerá, en lo que resulte procedente, las facultades que el artículo 42, 42 Bis y 42 Ter de la Ley de Desarrollo Urbano del Distrito Federal, le otorga al Presidente del Consejo Consultivo, salvo las relacionadas con el pre-dictamen. En todo caso, la Comisión dictaminará, sin necesidad de pre-dictamen, las iniciativas de decreto que en materia de Programas de Desarrollo Urbano le turne el Presidente de la Mesa Directiva del Pleno, o el Presidente de la Comisión de Gobierno, según sea el caso.
 
 SÉPTIMO. Remítase el presente Decreto al Jefe de Gobierno, para su respectiva promulgación, refrendo y publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para efectos de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su aprobación en el pleno de la Asamblea Legislativa.
+
+TERCERO.- Por única ocasión se entregará la Medalla al Mérito Docente "Jaime Torres Bodet" y el Diploma respectivo correspondiente al año 2017, dentro del primer periodo ordinario de sesiones del tercer año legislativo, en la fecha que acuerde la Comisión de Gobierno.
