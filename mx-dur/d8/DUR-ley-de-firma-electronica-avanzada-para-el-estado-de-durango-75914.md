@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-firma-electronica-avanzada-para-el-estado-de-durango-759
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-03"
-last_updated: "2010-06-03"
+last_updated: "2017-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE FIRMA ELECTRONICA AVANZADA PARA EL ESTADO DE DURANGO
 
-LEY DE FIRMA ELECTRONICA AVANZADA PARA EL ESTADO DE DURANGO
+LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
 
 Ley publicada en el periódico Oficial del Estado de Durango, el jueves 3 de junio de 2010.
 
@@ -51,7 +51,9 @@ LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE DURANGO
 
 La presente Ley es de orden público e interés general, y tiene por objeto:
 
-I. Agilizar, eficientar y simplificar por medio de la firma electrónica avanzada los actos, convenios, comunicaciones, trámites y la prestación de servicios públicos que corresponden al Poder Ejecutivo, al Poder Legislativo, al Poder Judicial, a los Organismos Autónomos, a los Ayuntamientos y a las dependencias y entidades de la administración pública estatal o municipal;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+I. Agilizar, eficientar y simplificar por medio de la firma electrónica avanzada los actos, convenios, comunicaciones, trámites y la prestación de servicios públicos que corresponden al Poder Ejecutivo, al Poder Legislativo, al Poder Judicial, a los Órganos Constitucionales Autónomos, a los Ayuntamientos y a las dependencias y entidades de la administración pública estatal o municipal;
 
 II.- La certificación de la firma electrónica avanzada y los servicios relacionados con la misma.
 
@@ -65,7 +67,9 @@ II.- El Poder Legislativo;
 
 III.- El Poder Judicial;
 
-IV.- Los Organismos Autónomos;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+IV.- Los Órganos Constitucionales Autónomos;
 
 V.- Los Ayuntamientos;
 
@@ -109,7 +113,9 @@ VIII.- Dispositivo de verificación de firma electrónica avanzada: El programa 
 
 IX.- Entidades: Los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos que tengan el carácter de entidad paraestatal de la Administración Pública Estatal y Municipal;
 
-X.- Entes: El Poder Ejecutivo, Legislativo y Judicial, los Organismos Autónomos y los Ayuntamientos;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+X. Entes: El Poder Ejecutivo, Legislativo y Judicial, los Órganos Constitucionales Autónomos y los Ayuntamientos;
 
 XI.- Firma digital: Conjunto de datos encriptados que se pueden adjuntar a un mensaje transmitido por medios electrónicos y que identifica de manera exclusiva al remitente, el equivalente práctico a una firma autógrafa en un documento;
 
@@ -419,7 +425,9 @@ La firma electrónica avanzada y los certificados de la misma expedidos de confo
 
 Las dependencias y entidades y entes públicos, podrán establecer mediante convenio, qué autoridad certificadora tendrá a su cargo el servicio de certificación de firmas electrónicas, cuando no cuenten con aquella.
 
-Para los efectos de la presente Ley, será autoridad certificadora en el Poder Ejecutivo la Secretaría de Contraloría y Modernización Administrativa.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Para los efectos de la presente Ley, será autoridad certificadora en el Poder Ejecutivo la Secretaría de Contraloría.
 
 ###### Artículo 47.
 
@@ -473,7 +481,7 @@ VI (SIC).- Responder por las obligaciones derivadas del uso no autorizado de su 
 
 VII.- Actualizar los datos contenidos en el certificado de firma electrónica avanzada;
 
-VIII.- Las demás que establezcan las disposiciones legales aplicables; (sic)
+VIII.- Las demás que establezcan las disposiciones legales aplicables;
 
 ### CAPÍTULO IX. PREVENCIONES GENERALES
 
@@ -481,9 +489,11 @@ VIII.- Las demás que establezcan las disposiciones legales aplicables; (sic)
 
 Los entes podrán expedir reglamentos que establecerán cuando menos la forma, formalidades, modalidades y condiciones que deben observar los servidores públicos y particulares en la presentación de solicitudes, promociones, trámites, actos y convenios que se realicen utilizando la firma electrónica avanzada en términos de esta ley. De la misma manera, los reglamentos establecerán el diseño de los formatos que se utilicen empleando la firma electrónica avanzada.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### Artículo 52.
 
-Por virtud de la aplicación de la presente Ley, en contra de los actos o resoluciones de la administración pública estatal o municipal, procederá el recurso de inconformidad o el juicio de nulidad en la forma y términos señalados en el Código de Justicia Administrativa del Estado de Durango y demás disposiciones legales aplicables.
+Por virtud de la aplicación de la presente Ley, en contra de los actos o resoluciones de la administración pública estatal o municipal, procederá el recurso de inconformidad o el juicio de nulidad en la forma y términos señalados en (sic) Ley de Justicia Administrativa del Estado y demás disposiciones legales aplicables.
 
 ###### Artículo 53.
 
@@ -493,7 +503,9 @@ Los servidores públicos y particulares que le dieren un uso indebido, utilicen 
 
 PRIMERO.- El presente Decreto entrará en vigor, a partir del día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
-SEGUNDO.- Los Poderes Ejecutivo, Legislativo y Judicial, los órganos autónomos y los Ayuntamientos, en el ámbito de sus respectivas competencias, podrán expedir los reglamentos de esta Ley; en los casos que algún ente no cuente con la tecnología o suficiencia presupuestal para implementar la firma electrónica avanzada, podrá convenir con otro que sí tenga los medios para la creación de las firmas electrónicas avanzadas.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+SEGUNDO.- Los Poderes Ejecutivo, Legislativo y Judicial, los órganos constitucionales autónomos y los Ayuntamientos, en el ámbito de sus respectivas competencias, podrán expedir los reglamentos de esta Ley; en los casos que algún ente no cuente con la tecnología o suficiencia presupuestal para implementar la firma electrónica avanzada, podrá convenir con otro que sí tenga los medios para la creación de las firmas electrónicas avanzadas.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
@@ -524,3 +536,15 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO.145.- POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE FIRMA ELECTRONICA AVANZADA PARA EL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- En un término de sesenta días naturales, a partir de la publicación del presente Decreto, deberán quedar debidamente armonizadas, conforme al contenido de la reforma, todos y cada uno de los instrumentos reglamentarios y los correspondientes manuales de operación que conforman el Marco Normativo bajo el que se rige la función y organización de la Administración Pública del Estado de Durango.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a lo contenido en el presente Decreto.
