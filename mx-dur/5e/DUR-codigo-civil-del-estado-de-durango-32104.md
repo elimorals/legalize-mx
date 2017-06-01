@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2017-03-30"
+last_updated: "2017-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -1527,7 +1527,13 @@ ART. 286.- Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia 
 
 ART. 286-1.- El concubinato es la unión de un solo hombre y una sola mujer, libres de impedimentos de parentesco y ligámen matrimonial, con el propósito tácito o expreso de integrar una familia a través de la cohabitación doméstica y sexual, el respeto y la protección recíproca, así como la perpetuación de la especie.
 
-Para que exista concubinato jurídicamente es necesario que la unión entre el concubino y la concubina, cumpla con los fines a que se refiere el párrafo anterior y que esta unión se prolongue por un periodo mínimo de cinco años, de manera pública y permanente.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Para que exista concubinato jurídicamente es necesario que la unión entre el concubino y la concubina, cumpla con los fines a que se refiere el párrafo anterior y que esta unión se prolongue por un periodo mínimo de tres años, de manera pública y permanente.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Existe el concubinato cuando, atendiendo los fines del mismo, procreen un hijo, aún y cuando no se cumpla con el periodo de tiempo señalado en el párrafo anterior.
 
 Si con una misma persona se establece varias uniones del tipo antes descrito, en ninguna se reputará concubinato.
 
@@ -8707,7 +8713,7 @@ ART. 2479.- El mandante puede eixgir (sic) la devolución del instrumento o escr
 
 El mandante que descuide exigir los documentos que acrediten los poderes, del mandatario, responde de los daños que puedan resultar por esa causa a terceros de buena fe.
 
-ART. 3480 (SIC).- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a este el nuevo nombramiento.
+ART. 2480 (SIC).- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a este el nuevo nombramiento.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
@@ -10612,3 +10618,15 @@ P.O. 30 DE MARZO DE 2017.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 141.- POR EL QUE SE REFORMA Y ADICIONA EL ARTICULO, 286-1 DEL CODIGO CIVIL DE DURANGO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
