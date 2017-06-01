@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-cultura-fisica-y-deporte-para-el-estado-de-tamaulipas-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-02"
-last_updated: "2015-12-17"
+last_updated: "2017-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 2 de julio de 2014.
 
@@ -75,7 +75,9 @@ III. El derecho a la cultura física y al deporte constituye un estímulo para e
 
 IV. Los programas en materia de cultura física y deporte deben responder a las necesidades individuales y sociales, existiendo una responsabilidad pública en el fomento cualitativo y cuantitativo de la cultura física y el deporte;
 
-V. La enseñanza, capacitación, gestión, administración y desarrollo de la cultura física y el deporte deben confiarse a un personal calificado;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+V. La gestión, administración y desarrollo de la cultura física y el deporte deben confiarse a un personal calificado; tratándose de la enseñanza y capacitación, dicho personal deberá contar con la debida formación, preparación, actualización y certificación;
 
 VI. Para el desarrollo de la cultura física y la práctica del deporte es indispensable una infraestructura adecuada y la generación de sistemas de financiamiento y administración eficientes y estables, que permitan desarrollar políticas y programas que contribuyan al objetivo común de hacer de la cultura física y el deporte un derecho de todos;
 
@@ -823,7 +825,7 @@ IX. Realizar cualquier actividad que contribuya al desarrollo de las competicion
 
 1. Los candidatos a obtener estímulos y apoyos a que se refiere este Capítulo, deberán satisfacer además de los requisitos que establezca el reglamento de la presente ley, los siguientes:
 
-l. Formar parte del Sistema; y
+I. Formar parte del Sistema; y
 
 II. Ser propuesto por la Asociación Deportiva Estatal correspondiente.
 
@@ -1095,7 +1097,7 @@ II. A los directivos, jueces, árbitros y organizadores de competencias deportiv
 
 Los organismos deportivos que pertenecen al Sistema, para la aplicación de sanciones por faltas a los estatutos y reglamentos habrán de prever lo siguiente:
 
-l. Un Código que considere las infracciones y sanciones correspondientes, de acuerdo a su disciplina deportiva, el procedimiento para imponer dichas sanciones y el derecho de audiencia a favor del presunto infractor;
+I. Un Código que considere las infracciones y sanciones correspondientes, de acuerdo a su disciplina deportiva, el procedimiento para imponer dichas sanciones y el derecho de audiencia a favor del presunto infractor;
 
 II. Los criterios para considerar las infracciones con el carácter de leves, graves y muy graves; y
 
@@ -1220,6 +1222,14 @@ ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL D
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-170 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 3 DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
