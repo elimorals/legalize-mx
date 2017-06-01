@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-economico-competitividad-e-49288"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-24"
-last_updated: "2016-12-21"
+last_updated: "2017-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY PARA EL DESARROLLO ECONOMICO, COMPETITIVIDAD E INNOVACION DEL ESTADO DE TAMAULIPAS - ANTES LEY PARA EL DESARROLLO ECONOMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS -
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 24 de noviembre de 2005.
 
@@ -41,7 +43,7 @@ Al margen un sello que dice: "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.
 
 LA QUINCUAGESIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN EL ARTICULO 58 FRACCIÓN I DE LA CONSTITUCION POLITICA DEL ESTADO; Y EL ARTICULO 119 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
-D E C R E T O No. LlX-94
+D E C R E T O No. LIX-94
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 2014)</small>
 
@@ -53,7 +55,7 @@ LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS.
 
 Las disposiciones de esta ley son de carácter general y orden público y tiene por objeto:
 
-l. promover, regular y alentar el desarrollo económico equilibrado y sustentable;
+I. promover, regular y alentar el desarrollo económico equilibrado y sustentable;
 
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
 
@@ -175,8 +177,6 @@ XI. Promover a través de las delegaciones federales establecidas en el país y 
 
 XII. Fomentar la constitución y operación de instituciones de crédito y organismos auxiliares, así como celebrar convenios con dependencias federales, con el objeto de ofrecer mayores y mejores opciones de financiamiento a la planta productiva estatal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 XIII. Desarrollar estrategias para promover la instalación de empresas en regiones de menor crecimiento económico y generación de empleo, propiciando un desarrollo equilibrado y sustentable;
@@ -196,8 +196,6 @@ XVI. Promover los productos y servicios tamaulipecos hacia nuevos mercados, tant
 XVII. Impulsar y acrecentar la consolidación de la competitividad de las empresas instaladas, mediante tareas de asesoría, capacitación y adopción de estrategias para la integración de sus productos a canales de comercialización y distribución;
 
 XVIII. Fomentar e implementar la creación y desarrollo de parques y corredores industriales, centrales de abasto para distribución y consumo de productos agropecuarios y pesqueros, así como centros turísticos, comerciales y de servicios;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -517,7 +515,7 @@ En las propuestas y recomendaciones de los Consejos Regionales correspondientes 
 
 El Consejo podrá proponer la celebración de convenios con otros estados en la búsqueda de fortalezas regionales, nacionales e internacionales, que permitan atraer inversiones, así como elevar la competitividad en el marco de la globalización de la economía.
 
-### CAPITULO III. DEL SISTEMA DE INFORMACION ECONOMICA INTEGRAL DE TAMAULlPAS
+### CAPITULO III. DEL SISTEMA DE INFORMACION ECONOMICA INTEGRAL DE TAMAULIPAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2014)</small>
 
@@ -569,7 +567,7 @@ Las dependencias y entidades de la administración pública estatal vinculadas c
 
 La Secretaría podrá celebrar convenios de coordinación y colaboración con entes públicos, dependencias y entidades del Gobierno federal, de otras entidades federativas y de los municipios, así como con instituciones académicas y con los sectores privado y social, para promover su participación en la generación y difusión de la información estadística y geográfica de Tamaulipas.
 
-### CAPITULO V. DEL FONDO TAMAULlPAS
+### CAPITULO V. DEL FONDO TAMAULIPAS
 
 ###### ARTICULO 18.
 
@@ -583,13 +581,9 @@ I. Subsidio del pago de impuesto sobre nóminas, total o parcialmente, según Ac
 
 La empresa o industria que anteriormente haya recibido estímulos fiscales y se encuentre en los supuestos del Acuerdo Gubernamental vigente, recibirá la exención parcial o total del impuesto sobre nóminas, sólo por los empleos de nueva creación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 II. Subsidio del pago por concepto de derechos de inscripción del Registro Público de la Propiedad Inmueble y del Comercio, de actas constitutivas de sociedades mercantiles, así como los aumentos de capital, cuyo objeto social contemple el desarrollo de actividades productivas; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -660,8 +654,6 @@ VI. Extracción, transformación y comercialización de productos mineros en el 
 VII. Desarrollo de proveedores locales;
 
 VIII. Sustitución de importaciones o aumento de las exportaciones;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -859,13 +851,17 @@ XVIII. Apoyar la elaboración de estudios tendientes a identificar y desarrollar
 
 XIX. Identificar, asesorar y promover los productos hechos en Tamaulipas, elaborando estrategias para mejorar su calidad y competitividad, con el fin de incorporarlos a nuevos mercados en los ámbitos estatal, nacional e internacional;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XX. El desarrollo de las vocaciones productivas y ventajas comparativas en las diferentes regiones del Estado; y
+XX. El desarrollo de las vocaciones productivas y ventajas comparativas en las diferentes regiones del Estado;
 
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XXI. Así como toda otra acción que sirva de apoyo de los emprendedores, micro, pequeñas y medianas empresas en términos del Plan Estatal de Desarrollo, la Ley, suficiencia presupuestal y oportunidad.
+XXI. Promover la creación de políticas públicas para apoyar las Mipyme siniestradas legalmente constituidas, afectadas en sus instalaciones, maquinaria, equipo o arreos de trabajo o sus insumos, a consecuencia de un fenómeno natural o una emergencia o declaratoria de desastre natural emitida por la Secretaría de Gobernación publicada en el Diario Oficial de la Federación; y
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XXII. Así como toda otra acción que sirva de apoyo de los emprendedores, micro, pequeñas y medianas empresas en términos del plan Estatal de Desarrollo, la Ley, suficiencia presupuestal y oportunidad.
 
 ###### ARTICULO 31.
 
@@ -1071,9 +1067,9 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veinticuatro días del mes de noviembre del año dos mil cinco.
 
-ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTlNEZ TORRES.- Rúbrica.
+ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 5 DE JUNIO DE 2008.
 
@@ -1128,3 +1124,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-169 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XX, ADICIONANDO LA FRACCIÓN XXI Y RECORRIENDO EN SU ORDEN NATURAL LA ACTUAL FRACCIÓN XXI, PARA PASAR A SER LA FRACCIÓN XXII DEL ARTÍCULO 30, DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
