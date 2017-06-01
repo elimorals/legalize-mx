@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-medios-de-impugnacion-en-materia-electoral-del-64992"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-20"
-last_updated: "2014-08-15"
+last_updated: "2017-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64992&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE AGOSTO DE 2014 NO APLICA AL ARTICULADO DE LA REFORMA PUBLICADA EN EL P.O. DE 29 DE JUNIO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 20 de diciembre de 2008.
 
@@ -97,21 +95,11 @@ VIII. Tribunal: El Tribunal Electoral del Estado de Querétaro.
 
 La interpretación y aplicación de las disposiciones de esta Ley, corresponden al Instituto, así como al Tribunal.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### Artículo 7.
 
-Para la tramitación, sustanciación y resolución de los medios de impugnación previstos en esta Ley, las disposiciones se interpretarán conforme a los criterios gramatical, sistemático, funcional, por analogía y mayoría de razón.
-
-A falta de disposición expresa en esta Ley, se aplicarán de manera supletoria, en el siguiente orden:
-
-I. La Jurisprudencia emitida por el Tribunal Electoral del Poder Judicial de la Federación;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2014)</small>
-
-II. Los criterios obligatorios del Tribunal;
-
-III. El Código de Procedimientos Civiles del Estado de Querétaro; y
-
-IV. Los principios generales del derecho.
+La interpretación de la presente Ley para su aplicación, se hará de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Querétaro, los tratados y disposiciones internacionales en materia de derechos humanos celebrados por el Estado mexicano, atendiendo a los criterios gramatical, sistemático y funcional y procurando en todo momento a las personas la protección más amplia. A falta de disposición expresa se atenderá a la jurisprudencia aplicable, al Código de Procedimientos Civiles del Estado de Querétaro y a los principios generales de derecho.
 
 ###### Artículo 8.
 
@@ -135,9 +123,13 @@ I. El recurso de reconsideración;
 
 II. El recurso de apelación;
 
-III. El recurso de inconformidad; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-IV. Las nulidades.
+III. El juicio local de los derechos político-electorales; y
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+IV. El juicio para dirimir los conflictos o diferencias laborales entre el Instituto y su funcionariado.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2014)</small>
 
@@ -161,11 +153,13 @@ Recurso, es el medio de impugnación interpuesto con la finalidad de modificar o
 
 Corresponde conocer y resolver de los medios de impugnación:
 
-I. Al Consejo y Consejos del Instituto, sobre el recurso de reconsideración y de las nulidades que se hagan valer en las sesiones de cómputo correspondientes; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2014)</small>
+I. Al Consejo y Consejos del Instituto, sobre el recurso de reconsideración; y
 
-II. Al Tribunal, respecto del recurso de apelación, de las nulidades que se hagan valer mediante la interposición de este recurso; asimismo, del recurso de inconformidad.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+II. Al Tribunal, respecto del recurso de apelación, del juicio local de los derechos político-electorales y del juicio para dirimir los conflictos o diferencias laborales entre el Instituto y su funcionariado.
 
 ###### Artículo 15.
 
@@ -247,9 +241,11 @@ Los medios de impugnación deberán presentarse en un plazo de cuatro días, con
 
 ### Capítulo Tercero. De los requisitos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### Artículo 25.
 
-En la interposición de los recursos, se deberá cumplir con los siguientes requisitos:
+En la interposición de los medios de impugnación, se deberá cumplir con los siguientes requisitos:
 
 I. Formularse por escrito ante la autoridad señalada como responsable del acto o resolución impugnado, anexando las copias simples necesarias para correr traslado a los terceros interesados;
 
@@ -259,51 +255,115 @@ III. Hacer constar el nombre y domicilio de los terceros interesados, en su caso
 
 IV. Señalar domicilio para oír y recibir notificaciones, el cual deberá de estar ubicado en la ciudad de residencia de la autoridad que deba resolver el recurso correspondiente;
 
-V. Acreditar la personalidad del promovente, anexando los documentos necesarios, salvo cuando se trate de representantes de los partidos políticos acreditados en el mismo órgano ante el cual se presenta el medio de impugnación respectivo;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+V. Acreditar la personería de quien promueve, anexando los documentos necesarios, salvo cuando se trate de representantes de los partidos políticos acreditados en el mismo órgano ante el cual se presenta el medio de impugnación respectivo;
 
 VI. Identificar el acto o resolución impugnado y la autoridad responsable del mismo;
 
 VII. Señalar la fecha en que fue notificado o se tuvo conocimiento del acto o resolución impugnado;
 
-VIII. Mencionar de manera expresa y clara, los hechos que constituyan los antecedentes del acto reclamado, los agravios que cause el acto o resolución impugnada y los preceptos legales presuntamente violados; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-IX. Ofrecer y acompañar las pruebas que estime pertinentes, señalando, en su caso, la imposibilidad de exhibir las que hubiera solicitado en tiempo y no le fueron entregadas, debiendo acreditar que las pidió oportunamente por escrito al órgano o autoridad competente.
+VIII. Mencionar de manera expresa y clara, los hechos que constituyan los antecedentes del acto reclamado, los agravios que cause el acto o resolución impugnada y los preceptos legales presuntamente violados;
 
-Cuando no se reúnan los requisitos previstos en las fracciones III, IV, VI, VII y IX o cuando no se anexen las copias a que se refiere la fracción I, se podrá prevenir al actor, por una sola ocasión, para que subsane la omisión dentro de las veinticuatro horas siguientes a la notificación. En caso de no atender la prevención, se tendrá por no interpuesto el recurso.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+IX. Ofrecer y acompañar las pruebas que estime pertinentes, señalando, en su caso, la imposibilidad de exhibir las que hubiera solicitado en tiempo y no le fueron entregadas, debiendo acreditar que las pidió oportunamente por escrito al órgano o autoridad competente; y
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+X. Abstenerse de que sus escritos sean notoriamente frívolos, entendiéndose por éstos:
+
+a) Los que formulen pretensiones que no puedan alcanzarse jurídicamente, por ser notorio y evidente que no se encuentran al amparo del Derecho; y
+
+b) Cuando no existan hechos que sirvan para actualizar el supuesto jurídico en que se apoyan.
+
+De actualizarse alguno de los supuestos anteriores, a quien promueva se le impondrá alguna de las sanciones previstas en el artículo 63 de esta ley, atendiendo a las circunstancias de cada caso.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Cuando no se reúnan los requisitos previstos en las fracciones III, IV, V, VI, VII y IX, o cuando no se anexen las copias a que se refiere la fracción I, se podrá prevenir a la parte actora, por una sola ocasión, para que subsane la omisión dentro de las veinticuatro horas siguientes a la notificación. En caso de no atender la prevención, se tendrá por no interpuesto el recurso.
 
 ###### Artículo 26.
 
 Cuando la violación reclamada verse exclusivamente sobre puntos de derecho, no será necesario cumplir con el requisito previsto en la fracción IX del artículo 25 de la presente Ley.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE JUNIO DE 2017)</small>
+
+### Capítulo Tercero Bis. De las reglas de turno
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+###### Artículo 26 Bis.
+
+La Presidencia del Tribunal, en el respectivo ámbito de su competencia, turnará de inmediato a las y los Magistrados Instructores los expedientes de los medios que sean promovidos, para su sustanciación y formulación del proyecto de sentencia que corresponda, conforme a las reglas siguientes:
+
+I. Una vez recibido el medio de impugnación, deberá registrase en el Libro de Gobierno que le corresponda, en estricto orden cronológico, tomando como referencia la hora asentada por Oficialía de Partes del propio Tribunal, atendiendo al tipo de medio de impugnación del que se trate; los libros de gobierno podrán ser en formato electrónico, pero deberá en todo momento procurarse su resguardo e integridad, los cuales siempre estarán bajo la custodia y responsabilidad de la Secretaría General de Acuerdos;
+
+II. Habrá un turno por cada tipo de medio de impugnación, que se realizará en estricto orden alfabético de apellidos de los Magistrados integrantes del Pleno, en orden cronológico y de acuerdo a la fecha de su presentación, por acuerdo de Presidencia;
+
+III. Cuando se advierta que entre dos o más juicios o recursos existe conexidad en la causa por estarse controvirtiendo el mismo acto o resolución, o bien, se aduzca respecto de actos o resoluciones similares una misma pretensión y causa de pedir, y por economía procesal se considere conveniente su estudio en una misma Ponencia, la Presidencia del Tribunal turnará el o los expedientes a la o el Magistrado que sea el instructor en el primero de ellos, sin que proceda compensación, salvo que por su número, urgencia o complejidad, se estime conveniente que no deba turnarse conforme lo previsto en la fracción inmediata anterior;
+
+IV. Si existiera duda razonable por parte de alguno de los Magistrados, respecto a la conexidad de la causa que pudiera existir entre dos o más medios de impugnación, deberá de inmediato hacerlo del conocimiento de Presidencia a través de oficio fundado y motivado, quien a la brevedad convocara al Pleno, para que resuelva en definitiva.
+
+El párrafo anterior, será aplicable a Presidencia antes de turnar el medio de impugnación de que se trate;
+
+V. En los recursos de apelación relacionados con el resultado final y validez de las elecciones de Gobernador, Diputados y Ayuntamientos, se llevará un turno especial, al de los Recursos de Apelación que tengan por objeto impugnar cuestiones diversas, siguiendo las reglas de las fracciones I, II y III del presente artículo;
+
+VI. En caso de ausencia de alguna o algún Magistrado con motivo del cumplimiento de una comisión oficial, licencia o por el disfrute de periodo vacacional, y si dicha ausencia no es mayor de una semana calendario, se continuará con el turno habitual de expedientes a su Ponencia, salvo en casos urgentes. En caso de exceder el lapso mencionado, se le suspenderá el turno durante la semana anterior al inicio de la ausencia y se reanudará en la semana previa a su regreso; en este caso es procedente la compensación;
+
+VII. En caso de que alguna o algún Magistrado se ausente de sus funciones, en atención a los plazos electorales y por acuerdo de la Presidencia del Tribunal, se podrán returnar los expedientes de su Ponencia a otra para que se continúe su sustanciación, hasta en tanto se reincorpore a sus actividades la o el Magistrado designado originalmente. Para estos efectos, se seguirá rigurosamente el mismo orden de asignación previsto en la fracción II;
+
+VIII. En los casos de cumplimiento de sentencia, de cualquier promoción o incidente posterior a la fecha de la sentencia, relacionadas con el expediente, el turno corresponderá a la o el Magistrado Ponente. Si en los supuestos anteriores, la o el Magistrado respectivo se encontrara ausente y la urgencia del asunto lo amerite, el turno se hará en términos de la fracción II;
+
+IX. Los asuntos en los cuales se ordene el cambio de vía del medio impugnativo y la competencia se surta a favor del mismo Tribunal, serán turnados a la o el Magistrado que haya fungido como Ponente en el expediente primigenio;
+
+X. Los expedientes integrados con motivo de un acuerdo de escisión, se turnarán a la o el Magistrado Instructor en el asunto en que se haya dictado el acuerdo mencionado, salvo que la escisión tenga como efecto ordenar la apertura de un incidente relacionado con el cumplimiento de una sentencia, en cuyo caso se estará a lo señalado en la fracción VII;
+
+XI. El orden en el turno de expedientes se podrá modificar en razón del equilibrio en las cargas de trabajo o cuando la naturaleza de los asuntos así lo requiera, conforme a las reglas que dicte la Pleno del Tribunal mediante Acuerdo General;
+
+XII. En los casos de impedimentos y excusas, y de resultar procedentes éstas, se turnará al Magistrado que siga en orden alfabético.
+
+Los escritos recibidos en Oficialía de Partes del Tribunal, relacionados con los expedientes de los medios de impugnación tramitados ante el mismo, se turnarán a la o el Magistrado instructor correspondiente, a fin de que determine el trámite que en derecho proceda.
+
 ### Capítulo Cuarto. De las causas de desechamiento, de improcedencia y de sobreseimiento
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2014)</small>
-
-### Capítulo Quinto. De las partes
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 27.
 
-Las causas de desechamiento, improcedencia o sobreseimiento de los medios de impugnación se examinarán y decretarán de oficio, ya sea por el Secretario o Secretario Técnico, tratándose del recurso de reconsideración; y por el magistrado ponente del Tribunal, tratándose de los recursos de apelación y de inconformidad. Producirán el efecto de dejar incólume el acto o resolución impugnada por el actor.
+Las causas de desechamiento, improcedencia o sobreseimiento de los medios de impugnación se examinarán y decretarán de oficio, ya sea por quien ostente la Secretaría Ejecutiva o Secretaría Técnica, tratándose del recurso de reconsideración; y por el Tribunal, tratándose del recurso de apelación, del juicio local de los derechos político-electorales y del juicio para dirimir los conflictos o diferencias laborales entre el Instituto y su funcionariado. Producirán el efecto de dejar incólume el acto o resolución impugnada por la parte actora.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 28.
 
-Los recursos se desecharán de plano, cuando:
+Los medios de impugnación se desecharán de plano, cuando:
 
 I. No se presenten ante la autoridad competente;
 
 II. Incumplan con alguno de los requisitos previstos en las fracciones II y V del artículo 25 de esta Ley;
 
-III. Se formulen pretensiones que no se puedan alcanzar jurídicamente por ser notorio y evidente que no se encuentren al amparo del derecho; o
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-IV. No existan hechos que sirvan para actualizar el supuesto jurídico en que se apoyan.
+III. La demanda sea notoriamente frívola; o
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+IV. Se actualice alguna causal de improcedencia.
 
 ###### Artículo 29.
 
 Los medios de impugnación previstos en esta Ley serán improcedentes cuando:
 
-I. El promovente carezca de legitimación;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-II. Se impugne algún acto o resolución que no afecte el interés jurídico del actor;
+I. Quien promueva carezca de legitimación;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+II. Se impugne algún acto o resolución que no afecte el interés jurídico o legítimo de la parte actora;
 
 III. El acto o resolución reclamado se haya consumado de un modo irreparable;
 
@@ -327,37 +387,49 @@ III. Habiendo sido admitido el medio de impugnación correspondiente, aparezca o
 
 IV. El ciudadano agraviado fallezca o sea suspendido o privado de sus derechos político-electorales.
 
-### Capítulo Sexto. De la legitimación y de la personalidad
+### Capítulo Quinto. De las partes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 31.
 
-Son partes en la sustanciación del procedimiento de los medios de impugnación, las siguientes:
+Son partes en la sustanciación del procedimiento de los medios de impugnación:
 
-I. El actor, quien estando legitimado lo presente por sí mismo o a través de su representante legal;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+I. La parte actora, quien estando legitimada lo presente por sí misma o a través de su representante legal;
 
 II. La autoridad responsable que haya emitido el acto o resolución que se impugna; y
 
-III. Los terceros interesados, que pueden ser: partidos políticos, coaliciones, candidatos, asociaciones políticas y los ciudadanos, según corresponda, con interés jurídico en la causa, derivado de un derecho contrario de aquel que pretende el actor.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-### Capítulo Séptimo. De la acumulación
+III. Las personas terceras interesadas, que pueden ser: la ciudadanía, instituciones u órganos, con interés jurídico o legítimo en la causa.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2017)</small>
+
+### Capítulo Sexto. De la legitimación y de la personería
 
 ###### Artículo 32.
 
 La interposición de los medios de impugnación corresponde a:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-I. Los candidatos independientes, partidos políticos o coaliciones, a través de sus representantes legítimos, entendiéndose por éstos:
+I. Las personas que participen en candidatura independiente, los partidos políticos o coaliciones, a través de sus representantes, entendiéndose como tales:
 
-a) Las personas acreditadas como tal ante el Consejo o Consejos, por sus dirigencias o equivalentes, de conformidad con las disposiciones internas. Quienes ostenten este carácter sólo podrán actuar ante el órgano electoral donde estén acreditados. En el caso de coaliciones, la representación se acreditará en términos del convenio respectivo;
+a) Las personas acreditadas ante el Consejo o Consejos, por sus dirigencias o equivalentes, de conformidad con las disposiciones internas. Quienes ostenten este carácter sólo podrán actuar ante el órgano electoral donde estén acreditadas. En el caso de coaliciones, la representación se acreditará en términos del convenio respectivo.
 
-b) Las personas a las que se haya otorgado mandato mediante escritura pública, por parte de los sujetos facultados por los estatutos del partido político de que se trate;
+b) Las personas a las que se haya otorgado poder mediante escritura pública, conforme a lo que establezcan los estatutos del partido político correspondiente;
 
-II. Las organizaciones de ciudadanos interesados en constituirse como partido estatal o asociación política, a través de sus representantes legítimos, en contra de la resolución que niegue su registro; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-III. Los ciudadanos, independientemente de su calidad, por su propio derecho o a través de sus representantes legítimos, en contra de aquellos actos o resoluciones que afecten su esfera jurídica y a las autoridades o servidores públicos, derivados de los procedimientos sancionadores en materia electoral.
+II. Las organizaciones ciudadanas interesadas en constituirse como partido estatal o asociación política, a través de sus representantes, en contra de la resolución que niegue su registro; y
 
-### Capítulo Octavo. De las Pruebas
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+III. Las ciudadanas y los ciudadanos, independientemente de su calidad, por su propio derecho o a través de sus representantes, en contra de aquellos actos o resoluciones que afecten su esfera jurídica y a las autoridades o personas al servicio público, derivados de los procedimientos sancionadores en materia electoral.
+
+### Capítulo Séptimo. De la acumulación
 
 ###### Artículo 33.
 
@@ -381,7 +453,7 @@ I. Los recursos que se encuentren pendientes de resolución, versen sobre la mis
 
 II. Sean interpuestos ante instancias distintas, dos o más recursos en contra del mismo acto o resolución; los expedientes serán tramitados como recurso de apelación y el Tribunal determinará si procede o no la acumulación. En caso de que determine que no procede la acumulación, se sustanciarán como recurso de apelación por separado.
 
-### Capítulo Noveno. De las notificaciones
+### Capítulo Octavo. De las Pruebas
 
 ###### Artículo 36.
 
@@ -485,7 +557,7 @@ II. Las documentales privadas, técnicas, periciales e instrumental de actuacion
 
 En ningún caso se tomarán en cuenta para resolver, las pruebas ofrecidas o aportadas fuera de los plazos legales, con excepción de las supervenientes, entendiéndose por tales, los medios de convicción surgidos después del plazo legal en que deban aportarse los elementos probatorios, y aquellos existentes desde entonces, pero que las partes no pudieron ofrecer o aportar por desconocerlos o por existir obstáculos que no estaban a su alcance superar, siempre que se exhiban antes de que se ponga en estado de resolución.
 
-### Capítulo Décimo. De las resoluciones y de las sentencias
+### Capítulo Noveno. De las notificaciones
 
 ###### Artículo 48.
 
@@ -499,11 +571,11 @@ III. Por oficio;
 
 IV. Por correo certificado;
 
-V. Por telegrama, con acuse de recibo;
+V. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
 VI. Correo electrónico; o
 
-VII. Teléfono o fax.
+VII. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
 La forma en que deba realizarse la notificación, se hará según se considere conveniente para la mayor seguridad o eficacia del acto o resolución por notificar, salvo disposición expresa de esta Ley.
 
@@ -513,19 +585,33 @@ Las notificaciones personales se sujetarán a las siguientes reglas:
 
 I. Se harán dentro de los tres días siguientes a aquel en que se dicte la determinación;
 
-II. Se notificarán personalmente las relativas al inicio del procedimiento y a la resolución o sentencia que pone fin al mismo; aquellas que entrañen una citación o un plazo para la práctica de una diligencia, notificándose al menos con tres días de anticipación al día y hora en que se haya de celebrar la actuación o audiencia, así como las que, con tal carácter, establezca la ley;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-III. Se realizarán al interesado o por conducto de la persona que éste haya autorizado para tales efectos;
+II. Se notificarán personalmente las relativas a la admisión del procedimiento y a la resolución o sentencia que pone fin al mismo; aquellas que entrañen una prevención, citación o un plazo para la práctica de una diligencia, notificándose al menos con tres días de anticipación al día y hora en que se haya de celebrar la actuación o audiencia; así como las que, con tal carácter, establezca esta Ley;
 
-IV. El funcionario encargado de realizar la notificación, deberá cerciorarse que se desahoga la diligencia con la persona a notificar y que tiene su domicilio en el inmueble designado; después de ello, practicará la diligencia levantando la cédula de notificación que deberá contener:
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-a) La descripción de la resolución por notificar y copia de la misma.
+III. Se realizarán a la persona interesada o por conducto de quien se haya autorizado para tales efectos;
 
-b) El lugar, el día y la hora en que se practica la diligencia.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-c) El nombre de la persona a quien se formula la notificación. En caso de que ésta se niegue a recibir la comunicación o a firmar de recibido de la misma, se hará constar en la cédula cualquiera de estas dos circunstancias;
+IV. Quien esté a cargo de realizar la notificación deberá cerciorarse que se desahoga la diligencia con la persona a notificar y que tiene su domicilio en el inmueble designado; después de ello, practicará la diligencia levantando la cédula de notificación que debe contener:
 
-V. Si no se encuentra la persona a notificar, se le dejará, con cualquiera de las personas que allí se encuentren, un citatorio para que espere al funcionario dentro de las veinticuatro horas siguientes; el citatorio contendrá:
+a) La descripción de la determinación por notificar y copia de la misma.
+
+b) El lugar el día y la hora en que se practica la diligencia.
+
+c) El nombre de la persona a quien se formula la notificación. En caso de que ésta se niegue a recibir la comunicación o a firmar de recibido la misma, se hará constar en la razón de notificación cualquiera de estas circunstancias.
+
+d) La firma de quien notifique la determinación correspondiente;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+V. En los supuestos en los que el domicilio se encuentre cerrado y no se pueda entender la diligencia de notificación con persona alguna, previo a realizar la notificación por estrados, se fijará cédula acompañada de la copia de la determinación a notificar en un lugar visible del local y se asentará la razón correspondiente en autos.
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VI. Si no se encuentra a quien notificar, se le dejará, con cualquiera de las personas que ahí se encuentren, un citatorio para que espere a quien realiza la notificación, dentro de las veinticuatro horas siguientes; el citatorio contendrá;
 
 a) Denominación del órgano que dictó la determinación que se pretende notificar.
 
@@ -533,41 +619,83 @@ b) Datos del expediente en el cual se dictó.
 
 c) Día y hora en que se deja el citatorio y nombre de la persona a la que se le entrega.
 
-d) Señalamiento de la hora en la que deberá esperar al funcionario.
+d) Fijación de la hora en la que deberá esperar a la persona encargada de notificar.
 
-Si se rehúsan a recibir el citatorio o no se encuentra nadie en el lugar, se realizará la notificación por estrados, asentándose razón de ello en autos;
+En los casos en que quien se encuentre en el domicilio se niegue a recibir el citatorio, la persona encargada de la notificación realizará los actos previstos en la fracción V del presente artículo.
 
-VI. En la fecha y hora fijadas en el citatorio, el funcionario se constituirá nuevamente en el domicilio para notificarle; si la persona no se encuentra, se niega a recibir la notificación o no se encuentra nadie en el domicilio, se hará la notificación por estrados, de todo lo cual se asentará la razón correspondiente en autos;
+Cuando se haya dejado citatorio, quien notifique se constituirá nuevamente en el domicilio para practicar la diligencia y si la persona buscada no se encuentra, se entenderá la notificación con quien se encuentre en el domicilio señalado para tal fin.
 
-VII. Podrán realizarse por comparecencia del interesado, de su representante o de la persona autorizada para ello, ante el órgano que corresponda; y
+En los supuestos en que se haya dejado citatorio y al momento de constituirse en el domicilio para notificar, se advierta que no está persona alguna en el mismo, realizará los actos previstos en la fracción V del presente artículo.
 
-VIII. Una vez realizadas con quien deban entenderse, serán legalmente válidas, aun cuando no se efectúen en el domicilio del actor o tercero interesado, según sea el caso.
+Si se encuentra persona diversa a la que se busca y ésta se niega a recibir la notificación o se niega a firmar, quien realiza la notificación, previamente a realizarla por estrados, fijará la cédula de notificación junto con la copia del proveído a notificar en un lugar visible del local asentando la razón correspondiente en autos;
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VII. La notificación podrá realizarse por comparecencia de la persona interesada, de la autorizada para ello o de su representante, ante el órgano que corresponda; y
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VIII. Una vez realizada la notificación con quien deba entenderse, será legalmente válida.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 50.
 
-Las notificaciones por estrados son las realizadas en los lugares destinados para tales efectos en las oficinas del Consejo, Consejos y del Tribunal, para que sean colocadas cédulas de notificación.
+Las notificaciones por estrados son las realizadas en los lugares destinados para tales efectos en las oficinas del Consejo, Consejos y del Tribunal, para que sean colocadas cédulas de notificación y se practicarán conforme al procedimiento siguiente:
+
+I. Se deberá fijar copia del proveído, así como de la cédula de notificación correspondiente, asentando la razón de la diligencia en el expediente respectivo; y
+
+II. El proveído permanecerá en los estrados durante un plazo mínimo de siete días hábiles y se asentará razón del retiro de los mismos.
+
+Independientemente de su notificación conforme a lo previsto en esta Ley, se fijará copia en los estrados de la institución que corresponda de todos los proveídos notificados, salvo que por su naturaleza se considere que deban ser conocidos únicamente por las partes.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 51.
 
-Las notificaciones por oficio son las que se dirigen a las autoridades, representantes de partido o coalición, dirigentes u órganos partidarios.
+Las notificaciones por oficio se realizarán a los órganos y autoridades responsables conforme a las siguientes reglas:
+
+I. Se harán dentro de los tres días siguientes a aquel en que se dicte el proveído.
+
+II. A los órganos del Instituto, las autoridades federales, estatales y municipales, así como a los partidos políticos cuando tengan el carácter de responsables se les notificarán por oficio los proveídos correspondientes, anexando copia certificada de estos.
+
+III. Si la autoridad, representante o persona autorizada se niega a recibir el oficio o el domicilio se encuentra cerrado, quien se encarga de la notificación hará la fijación del oficio junto con copia del auto, acuerdo, resolución o sentencia a notificar, en lugar visible del local, asentando la razón correspondiente en autos y procederá a fijar la notificación en los estrados.
+
+IV. Si el domicilio se encuentra en la misma ciudad del Tribunal o sus municipios conurbados, quien notifica hará la entrega y recabará la constancia de recibo correspondiente.
+
+V. En caso de que el domicilio esté cerrado, no se encuentra a la parte actora o persona autorizada para recibir notificaciones, quien se encarga de la notificación fijará un citatorio en lugar visible para que dentro de las veinticuatro horas siguientes, la espere para realizar la actuación.
+
+VI. Cuando el domicilio se encuentre fuera de la ciudad sede del Tribunal o municipio conurbado, las notificaciones se realizarán a través de la empresa de mensajería que se considere conveniente, en cuyo caso se entenderán realizadas a la fecha y hora de recepción, asentada como tal en el acuse de recibo que al efecto recabe la persona encargada de hacer la entrega.
+
+VII. Las sentencias dictadas con motivo de los recursos de apelación promovidos en contra de los resultados y la declaración de validez de la elección de que se trate se notificarán por oficio, anexando para tal efecto copia certificada de la sentencia, a la presidencia de la Legislatura.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 52.
 
-Las notificaciones por correo se harán en pieza certificada, agregándose al expediente el acuse del recibo postal.
+Las notificaciones por correo se harán en pieza certificada, agregándose al expediente el acuse del recibo postal y se ajustarán a las reglas siguientes:
+
+I. Cuando el domicilio se encuentre fuera de la ciudad sede del Tribunal o municipio conurbado, las notificaciones se realizarán a través (sic) Correos de México, en cuyo caso se entenderán realizadas a la fecha y hora de recepción, asentada como tal en el acuse de recibo que al efecto recabe la persona encargada de hacer la entrega; y
+
+II. Para la notificación por correo certificado se recabará el acuse de la oficina del servicio postal y se agregará al expediente.
 
 ###### Artículo 53.
 
-Las notificaciones por telegrama se harán enviándolas por duplicado para que la oficina que las tramita devuelva el ejemplar sellado que se agregará al expediente.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 54.
 
-Las notificaciones por correo electrónico son las que se efectúen por medios cibernéticos a las partes, siempre y cuando así lo autoricen desde su escrito inicial, en cuyo caso deberá guardarse una copia de la comunicación enviada la cual será certificada por el Secretario o Secretario Técnico, según corresponda.
+Las notificaciones por correo electrónico son las que se efectúen por medios cibernéticos a las partes, siempre y cuando así lo autoricen desde su escrito inicial, en cuyo caso deberá guardarse una copia de la comunicación enviada la cual será certificada por la Secretaría Técnica o Ejecutiva, según corresponda y se ajustarán a las siguientes reglas;
+
+I. Es necesario que las partes que así lo soliciten, cuenten con el certificado de firma electrónica avanzada y la cuenta de correo electrónico que al efecto proporcione el Tribunal, mismo que emitirá los acuerdos y lineamientos que regulen la expedición, uso y vigencia de los certificados de firma electrónica con los cuales se garantice la autenticidad de las personas usuarias del sistema y la integridad del contenido de las notificaciones; y
+
+II. Surtirán sus efectos a partir de que se tenga la constancia de envío recepción que genere de manera automática el sistema de notificaciones electrónicas del Tribunal, o en su caso, el acuse de recibo correspondiente.
 
 ###### Artículo 55.
 
-Las notificaciones por teléfono o fax, se harán exclusivamente en casos urgentes o extraordinarios.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### Artículo 56.
 
@@ -575,9 +703,15 @@ Las notificaciones surtirán sus efectos de conformidad con lo siguiente:
 
 I. Las personales y por oficio, a partir del momento de su realización;
 
-II. Las realizadas por teléfono o fax, a partir de la fecha en que se elabore la constancia de su realización; y
+II. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
-III. Las demás, al día siguiente a aquel en que se hayan realizado.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+III. Las demás al día siguiente a aquel en que se hayan realizado; y
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+IV. En el caso de que se haya ordenado por medio de cualquier tipo de notificación, un requerimiento o se haya solicitado la comparecencia de alguna persona y no se hubiere desahogado o realizado, la persona titular de la Secretaría General de Acuerdos expedirá la certificación correspondiente donde se dé constancia de la falta de desahogo del requerimiento o la incomparecencia ordenada.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2014)</small>
 
@@ -585,21 +719,23 @@ III. Las demás, al día siguiente a aquel en que se hayan realizado.
 
 No requerirán de notificación personal y surtirán sus efectos al día siguiente de su publicación, los autos, acuerdos y resoluciones que, en los términos de las leyes aplicables o por acuerdo del órgano competente, deban hacerse públicos a través del Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" o mediante la fijación de cédulas en los estrados de los órganos electorales o del Tribunal.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 58.
 
-El partido político, coalición o candidato independiente, cuyo representante esté presente en la sesión del órgano electoral que haya actuado o resuelto, se tendrá por notificado del acto o resolución de que se trate.
+El partido político o candidatura independiente, cuya representación esté presente en la sesión del órgano electoral que haya actuado o resuelto, se tendrá por notificada del acto o resolución de que se trate, siempre que dicha representación haya tenido a su alcance todos los elementos necesarios para enterarse del contenido del acto o de la resolución, así como de los fundamentos y motivos que sirvieron de base para su emisión.
 
-### Capítulo Primero. De la procedencia
+Una vez satisfechos los elementos referidos se entenderá por actualizada la notificación automática del proveído en cuestión, sin que la realización de una notificación ulterior pueda suponer una nueva oportunidad para inconformarse con el acto en el plazo previsto para ello.
+
+### Capítulo Décimo. De las resoluciones y de las sentencias
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 59.
 
-Se consideran resoluciones, aquellas que dicten el Consejo o los Consejos en ejercicio de sus facultades y competencias, que tengan por objeto resolver sobre los actos realizados ante ellos mismos.
+Se consideran resoluciones, aquellas que dicten el Consejo General o los Consejos en ejercicio de sus facultades y competencias, que tengan por objeto resolver sobre los actos realizados ante ellos mismos.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2014)</small>
-
-Se consideran sentencias, las dictadas por el Tribunal cuando resuelva sobre los recursos de apelación y los recursos de inconformidad.
+Se consideran sentencias, las dictadas por el Tribunal cuando resuelva sobre el recurso de apelación, del juicio local de los derechos político-electorales y del juicio para dirimir los conflictos o diferencias laborales entre el Instituto y su funcionariado.
 
 ###### Artículo 60.
 
@@ -627,9 +763,11 @@ VII. El plazo para su cumplimiento, en su caso.
 
 Las resoluciones y sentencias recaídas a los recursos deben ser claras, precisas, congruentes y exhaustivas, pudiendo acogerse o no a las pretensiones del actor.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2017)</small>
+
 Capítulo Decimoprimero
 
-De los medios de apremio y correcciones disciplinarias
+De los medios de apremio, correcciones disciplinarias y ejecución de sentencias
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2014)</small>
 
@@ -649,17 +787,23 @@ IV. Auxilio de la fuerza pública; o
 
 V. Arresto hasta por treinta y seis horas.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 64.
 
-Los medios de apremio y las correcciones disciplinarias, serán aplicados por el presidente del Tribunal o por acuerdo del Consejo, según corresponda, por sí mismos o con el apoyo de la autoridad competente.
+Los medios de apremio y las correcciones disciplinarias, serán aplicados por las magistraturas electorales en los casos de los asuntos postulados por sus ponencias, el Pleno del Tribunal o por acuerdo del Consejo, según corresponda, por sí mismos o con el apoyo de la autoridad competente.
+
+En caso de inejecución de sentencia, la parte interesada podrá promover el incidente de ejecución cuatro días después de que se incurra en la omisión o se ejecute incorrectamente.
+
+En estos casos, la tramitación y resolución del incidente de ejecución corresponderá a la magistratura ponente, excepto en aquellos casos en que el Pleno considere que debe conocer del asunto, el cual deberá tramitarse y resolver a más tardar en un plazo de diez días, computados a partir de la recepción del incidente.
+
+El incidente se regirá por los principios de economía procesal y expedites, y se substanciará solamente del escrito incidental y vista a quien se señale como responsable. Hecho lo anterior se dictará la resolución correspondiente.
 
 # Libro Segundo. De los medios de impugnación en particular
 
 ## Título Primero. Del recurso de reconsideración
 
-### Capítulo Segundo. De la competencia y la sustanciación
+### Capítulo Primero. De la procedencia
 
 ###### Artículo 65.
 
@@ -667,7 +811,7 @@ El recurso de reconsideración es oponible contra los actos u omisiones de las a
 
 La interposición de este recurso será optativa para los interesados antes de promover el recurso de apelación.
 
-### Capítulo Primero. De la procedencia
+### Capítulo Segundo. De la competencia y la sustanciación
 
 ###### Artículo 66.
 
@@ -705,9 +849,7 @@ El Consejo o Consejos, en la sesión en la que se presente el proyecto resolver�
 
 ## Título Segundo. Del recurso de apelación
 
-### Capítulo Segundo. De la competencia, del trámite y de la sustanciación
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2014)</small>
+### Capítulo Primero. De la procedencia
 
 ###### Artículo 72.
 
@@ -723,11 +865,19 @@ IV. La declaración de validez de la elección de diputados por el principio de 
 
 V. La asignación de diputados y regidores por el principio de representación proporcional;
 
-VI. Los actos, resoluciones u omisiones en el ámbito electoral, cuando el interesado haya optado por no interponer el recurso de reconsideración, y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-VII. Los demás que prevengan la Ley Electoral del Estado de Querétaro y la presente Ley.
+VI. Los actos, resoluciones u omisiones en el ámbito electoral, cuando el interesado haya optado por no interponer el recurso de reconsideración;
 
-### Capítulo Único
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VII. Para hacer valer las causales de nulidad previstas en la presente Ley; y
+
+VIII. Los demás que prevengan la Ley Electoral del Estado de Querétaro y la presente Ley.
+
+### Capítulo Segundo. De la competencia, del trámite y de la sustanciación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2014)</small>
 
 ###### Artículo 73.
 
@@ -735,9 +885,17 @@ Es competente para conocer y resolver sobre el recurso de apelación el Tribunal
 
 El recurso se interpondrá por conducto de la autoridad u órgano electoral señalado como responsable.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### Artículo 74.
 
-Cuando la autoridad u órgano electoral ante el que se interponga el recurso advierta que no es la responsable, así lo hará saber al promovente en un término de veinticuatro horas, siempre y cuando se encuentre dentro del término de la interposición del recurso.
+La autoridad u órgano partidista según sea el caso, que reciba un medio de impugnación, en contra de sus propios actos o resoluciones, bajo su más estricta responsabilidad y de inmediato deberá, por la vía más expedita, dar aviso de su presentación al Tribunal, precisando: parte actora, acto o resolución impugnado, fecha y hora exactas de su recepción.
+
+Cuando una autoridad u órgano partidista reciba un medio de impugnación por el cual se pretenda combatir un acto o resolución que no le es propio, lo remitirá de inmediato, sin trámite adicional alguno, al Tribunal para tramitarlo.
+
+Cuando la autoridad u órgano partidista incumpla con el trámite de la demanda de un medio de impugnación, quien promueve podrá solicitar al Tribunal un requerimiento para que les ordene la tramitación de la misma de manera inmediata.
+
+El incumplimiento de las obligaciones a que se refieren los numerales anteriores, será sancionado en los términos previstos en la presente ley y en las demás aplicables.
 
 ###### Artículo 75.
 
@@ -763,7 +921,9 @@ IV. Los escritos de los terceros interesados;
 
 V. Un informe circunstanciado en el que se exprese:
 
-a) Si el actor y los terceros interesados señalados, en su caso, tienen reconocida su personalidad.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+a) Si la parte actora y las personas terceras interesadas señaladas, en su caso, tienen reconocida su personería.
 
 b) Si es o no cierto el acto, omisión o resolución impugnados.
 
@@ -875,163 +1035,127 @@ Los criterios del Tribunal dejarán de ser obligatorios cuando existan razones j
 
 Durante el mes de noviembre del año anterior al de la elección, el Tribunal editará la compilación de criterios vigentes; asimismo, publicará los criterios obligatorios que establezca en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" y en su portal de internet.
 
-## Título Tercero. Del Recurso de Inconformidad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2017)</small>
 
-### Capítulo Primero. Reglas generales
+## Título Tercero. Del juicio local de los derechos político-electorales
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2017)</small>
+
+### Capítulo Único. De la procedencia
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 91.
 
-Los partidos políticos con registro inscrito ante el Instituto, conforme a sus Estatutos y en su caso las coaliciones, deberán establecer un órgano interno responsable de la organización de los procesos de selección de sus candidatos a cargos de elección popular y, en su caso, de vigilar que las precampañas se ajusten a lo que dispone la Ley Electoral del Estado de Querétaro.
+El juicio local de los derechos político-electorales procederá cuando las ciudadanas y ciudadanos por sí mismos y en forma individual o a través de sus representantes, o por conducto de quien ostente la representación legítima de la organización o grupo vulnerable, haga valer presuntas violaciones a sus derechos de votar y ser votada en las elecciones populares, asociarse individual y libremente para tomar parte en forma pacífica en los asuntos públicos y afiliarse libre e individualmente a los partidos políticos.
+
+Asimismo, es procedente cuando se impugnen actos y resoluciones por quien teniendo interés jurídico o legítimo, considere que indebidamente se afecta su derecho para integrar las autoridades electorales.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 92.
 
-Los precandidatos podrán impugnar, ante el órgano interno competente:
+El juicio local de los derechos político-electorales podrá ser promovido por la ciudadanía:
 
-I. Los reglamentos y convocatorias;
+I. Cuando haga valer presuntas violaciones a sus derechos de votar y ser votada en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos;
 
-II. La integración de los órganos responsables de conducir los procesos internos;
+II. En contra de actos o resoluciones de las autoridades partidistas durante los procesos internos de elección de dirigentes y de candidaturas a puestos de elección popular;
 
-III. Los acuerdos y resoluciones que adopten; y
+III. Se vea involucrado el derecho de la persona a ser votada mediante una candidatura independiente,
 
-IV. En general, los actos que realicen los órganos directivos o sus integrantes, cuando de los mismos se desprenda la violación de las normas que rijan los procesos de selección de candidatos a cargos de elección popular.
+IV. En contra de actos o resoluciones del Instituto, cuando habiendo sido propuesta por un partido político, le sea negado indebidamente registrar su candidatura a un cargo de elección popular local;
 
-Cada partido emitirá un reglamento interno en el que se normará el procedimiento y plazos para la resolución de tales controversias.
+V. En contra de sanciones impuestas por algún órgano del Instituto o de un partido político con registro local, siempre y cuando implique violación a un derecho político-electoral;
+
+VI. Conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político local o agrupación política local;
+
+VII. Cuando se vulnere su derecho a la información o el derecho de petición en materia político-electoral local;
+
+VIII. En contra de los actos y resoluciones que violenten su derecho para integrar las autoridades electorales administrativas del Estado;
+
+IX. Se involucre la integración de órganos por el principio de representación proporcional; o
+
+X. Se involucre su derecho al desempeño de un encargo de elección popular.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 93.
 
-Los medios de impugnación internos que se interpongan con motivo de los resultados de los procesos de selección interna de candidatos a cargos de elección popular, deberán quedar resueltos en definitiva a más tardar cuatro días naturales después de la fecha de realización y, en su caso, de la consulta mediante voto directo o de la asamblea en que se haya adoptado la decisión sobre candidaturas.
-
-La omisión a lo dispuesto por el presente artículo, podrá recurrirse a través del Juicio para la Protección de los Derechos Político-Electorales del Ciudadano conforme a lo previsto por la Ley General del Sistema de Medios de Impugnación en Material Electoral.
+Para la tramitación del juicio local de los derechos político-electorales se seguirán las reglas previstas para el recurso de apelación.
 
 ###### Artículo 94.
 
-Los medios de impugnación que presenten los precandidatos debidamente registrados, en contra de los resultados de elecciones internas o de la asamblea en que se hayan adoptado decisiones sobre candidaturas, se presentarán ante el órgano interno competente, a más tardar dentro de los dos días naturales siguientes a la emisión del resultado o a la conclusión de la asamblea.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### Artículo 95.
 
-Solamente los precandidatos debidamente registrados por el partido de que se trate, podrán impugnar el resultado del proceso de selección de candidatos en que hayan participado.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### Artículo 96.
 
-Es competencia directa de cada partido político, a través del órgano establecido por sus Estatutos o por el reglamento o convocatoria correspondiente, negar o cancelar el registro a los precandidatos que incurran en conductas contrarias a la Ley Electoral o a las normas que rijan el proceso interno, así como confirmar o modificar sus resultados o declarar la nulidad de todo el proceso interno de selección, aplicando en todo caso los principios legales y las normas establecidas en sus Estatutos o en los reglamentos y convocatorias respectivas. Las decisiones que adopten los órganos competentes de cada partido podrán ser recurridas por los aspirantes o precandidatos mediante recurso de inconformidad, una vez que se haya agotado el procedimiento interno para la resolución de tales controversias.
-
-Para estos efectos, el órgano del partido político fungirá como autoridad responsable.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2014)</small>
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### Artículo 97.
 
-Es competente para conocer y resolver sobre el recurso de inconformidad el Tribunal.
-
-El recurso se interpondrá por conducto del órgano partidista señalado como responsable.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### Artículo 98.
 
-Recibido el recurso, el órgano lo hará del conocimiento público, mediante cédula fijada en los estrados, dentro de las tres horas posteriores a la recepción y notificará a los terceros interesados en el improrrogable plazo de seis horas.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### Artículo 99.
 
-Dentro de las cuarenta y ocho horas siguientes a la notificación a que se refiere el artículo anterior, los terceros interesados podrán presentar, ante el mismo órgano que los notificó, los escritos que estimen pertinentes, acompañados de las pruebas que en su caso ofrezca.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2014)</small>
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### Artículo 100.
 
-Una vez cumplido el plazo a que se refiere el artículo anterior y dentro de las doce horas siguientes, el órgano partidista remitirá al Tribunal lo siguiente:
-
-I. El escrito mediante el cual se interpone el recurso;
-
-II. La copia del documento en que conste la determinación impugnada o, en su caso, copias certificadas del acta relativa a los resultados del proceso de selección interna;
-
-III. Las pruebas aportadas;
-
-IV. Los escritos de los terceros interesados;
-
-V. Un informe circunstanciado en el que se exprese:
-
-a) Si el actor y los terceros interesados señalados, en su caso, tienen reconocida su personalidad.
-
-b) Si es o no cierto el acto, omisión o resolución impugnados.
-
-c) Las circunstancias en que el mismo se realizó.
-
-d) Si existe alguna causa de desechamiento o improcedencia.
-
-e) Las razones que a juicio del órgano del partido respectivo justifiquen la legalidad del acto de que se trate; y
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2014)</small>
-
-VI. Los demás elementos que se estimen necesarios para que el Tribunal emita la sentencia.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2014)</small>
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### Artículo 101.
 
-El Presidente del Tribunal deberá turnar de inmediato el expediente recibido al magistrado que corresponda, quien llevará a cabo la instrucción.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### Artículo 102.
 
-Una vez recibidos los expedientes formados a los recursos de inconformidad, el magistrado ponente al que se asigne cada asunto tendrá la obligación de revisar, dentro de las cinco horas siguientes, que el escrito cumpla con los requisitos para su interposición y que no se actualice alguna causal de desechamiento o improcedencia.
-
-Si de la revisión del expediente y de sus constancias, el magistrado ponente advierte que el recurso debe ser desechado o declarado improcedente, así lo hará sin ulterior procedimiento, ordenando la notificación al promovente.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### Artículo 103.
 
-Cumplidas las reglas de trámite, el magistrado ponente dictará auto de admisión, procediendo a sustanciar el recurso en los siguientes términos:
-
-I. Contará con dos días posteriores al de la admisión, dentro de los cuales preparará y desahogará las pruebas ofrecidas que se hayan admitido; asimismo, ordenará el desahogo de las diligencias que considere necesarias;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2014)</small>
-
-II. Vencido el plazo anterior pondrá en estado de resolución el expediente, formulando el proyecto de sentencia en un plazo máximo de tres días, turnando a los magistrados que conforman al Tribunal dicho proyecto; y
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2014)</small>
-
-III. Los magistrados integrantes del Tribunal contarán con dos días para el estudio del proyecto, previos a la sesión en la que deba dictarse la sentencia.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2014)</small>
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### Artículo 104.
 
-Si durante la sustanciación del recurso, el magistrado ponente advierte que sobreviene alguna causal de improcedencia o sobreseimiento, informará al Tribunal la determinación por la cual se decretó.
-
-Para proceder conforme a lo anterior, bastará un auto del magistrado ponente donde funde y motive su determinación.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### Artículo 105.
 
-Si el órgano partidista responsable no envía el informe circunstanciado dentro del plazo correspondiente, el recurso de inconformidad se resolverá con los elementos que obren en autos y se tendrán como presuntamente ciertos los hechos constitutivos de la violación reclamada, salvo prueba en contrario.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2014)</small>
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### Artículo 106.
 
-La falta de aportación de las pruebas ofrecidas, en ningún supuesto será motivo para desechar el recurso o para tener por no presentado el escrito del tercero interesado, en todo caso, el Tribunal resolverá con los elementos que obren en autos.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2014)</small>
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### Artículo 107.
 
-En los estrados y en el sitio web del Tribunal, deberá ser publicada la lista de asuntos a tratar para cada sesión, por lo menos con veinticuatro horas de anticipación a la realización de la misma.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2014)</small>
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### Artículo 108.
 
-Para la resolución de los recursos de inconformidad, las sesiones del Tribunal se desarrollarán conforme a lo previsto por el artículo 86 de esta Ley.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ## Titulo Cuarto. De las nulidades
 
-### Capítulo Segundo. De la nulidad de la votación recibida en casilla
+### Capítulo Primero. Reglas generales
 
 ###### Artículo 109.
 
 Las nulidades podrán afectar la votación emitida en casilla y, en consecuencia, los resultados de los cómputos de la elección impugnada o la elección en un municipio, distrito electoral o en el Estado.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 110.
 
-Las causas de nulidad se harán valer por el candidato independiente, partido político o coalición interesados, en la sesión de cómputo que corresponda y de ellas conocerá el órgano electoral que lo realice, quien deberá resolver de plano en la misma sesión.
+Las causas de nulidad se harán valer por el candidato independiente, partido político o coalición interesados, por medio del recurso de apelación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2014)</small>
 
@@ -1055,7 +1179,7 @@ Las nulidades declaradas por el Tribunal, respecto de la votación emitida en un
 
 Tratándose de la inelegibilidad de los candidatos, se procederá en los términos que prevenga la Ley Electoral del Estado de Querétaro.
 
-### Capítulo Tercero. De la nulidad de la elección
+### Capítulo Segundo. De la nulidad de la votación recibida en casilla
 
 ###### Artículo 113.
 
@@ -1083,9 +1207,7 @@ IX. Haber mediado dolo o error en el cómputo de los votos y el Consejo Electora
 
 Los candidatos independientes, partidos políticos y coaliciones no podrán invocar en su favor, causales de nulidad, hechos o circunstancias que ellos mismos hayan provocado.
 
-### Capítulo Cuarto. Del recuento jurisdiccional
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2014)</small>
+### Capítulo Tercero. De la nulidad de la elección
 
 ###### Artículo 114.
 
@@ -1095,51 +1217,71 @@ I. Que alguna o algunas de las causales señaladas en el artículo anterior se d
 
 II. Que no se instalen por lo menos el veinte por ciento de las casillas que correspondan al distrito, municipio o al Estado, según sea el caso y, consecuentemente, la votación no hubiera sido recibida.
 
+### Capítulo Cuarto. Del recuento jurisdiccional
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### Artículo 115.
 
-Para efectos de resolver sobre los recursos de apelación vinculados a las nulidades, el actor podrá solicitar al Tribunal la realización de recuentos parciales o totales de las votaciones recibidas en casillas.
+El recuento total o parcial de la votación recibida en casillas, deberá solicitarse al momento de presentar el medio de impugnación, siempre y cuando se expongan agravios relacionados con la causal de nulidad de la elección relativa a dolo o error en el cómputo.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
+También procederá cuando se aduzcan errores o inconsistencias en las actas de cómputo que resulten determinantes para el resultado de la elección.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 116.
 
-Para proceder a la realización de recuentos jurisdiccionales, se requiere la petición del candidato independiente, partido político o coalición, en el recurso de apelación.
+Para proceder a la realización de recuentos jurisdiccionales, se requiere la petición de quien ostente la respectiva candidatura, partido político o coalición, en el propio escrito en el que se promueve el medio de impugnación.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 117.
 
-El recuento parcial tiene por objeto la realización del escrutinio y cómputo de los votos de aquellas casillas expresamente señaladas por el actor.
+El recuento parcial tiene por objeto la realización del escrutinio y cómputo de los votos de aquellas casillas expresamente señaladas por la parte actora.
 
 ###### Artículo 118.
 
 El recuento total tiene por objeto la realización del escrutinio y cómputo de los votos de la totalidad de las casillas del distrito, municipio o del Estado, de acuerdo al tipo de elección.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 119.
 
-Cuando el magistrado ponente advierta sobre la petición de algún recuento jurisdiccional, dará aviso a los integrantes del Tribunal para sesionar y acordar sobre la procedencia del mismo. Dicho acuerdo deberá incluir las reglas y plazos del recuento.
+La solicitud de recuento se tramitará por la ponencia respectiva como incidente de previo y especial· pronunciamiento.
 
-Cuando se apruebe el acuerdo que determina proceder al recuento jurisdiccional, se suspenderán los plazos para la substanciación del recurso de apelación, hasta en tanto queden debidamente concluidos los recuentos.
+En caso de que diferentes interesados promuevan diversos incidentes de recuento, se podrán aplicar las reglas de la acumulación de expedientes.
+
+Compete a la magistratura ponente tramitar el incidente hasta que se encuentre en estado de resolución, así como presentar el proyecto de resolución incidental ante el Pleno.
+
+En tanto se tramite el incidente del recuento jurisdiccional, se suspenderán los plazos para la substanciación del medio de impugnación, hasta que queden debidamente concluidos los recuentos.
 
 ###### Artículo 120.
 
 El recuento jurisdiccional se sujetará a las siguientes reglas:
 
-I. El magistrado ponente ordenará la notificación a las partes, señalando la fecha y hora en que deberá realizarse el recuento que será en el domicilio de los Consejos donde se encuentren resguardados los paquetes electorales;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+I. La magistratura ponente ordenará la notificación a las partes, señalando la fecha y hora en que deberá realizarse el recuento que será en el domicilio de los Consejos donde se encuentren resguardados los paquetes electorales;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2014)</small>
 
 II. Deberán habilitarse el número de funcionarios judiciales necesarios por el Tribunal para ejecutarlo, informando a las autoridades electorales;
 
-III. Será ininterrumpido, pudiendo el funcionario judicial habilitado decretar los recesos necesarios;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2014)</small>
+III. Será ininterrumpido, pudiendo el personal judicial habilitado decretar los recesos necesarios;
 
-IV. Los funcionarios electorales podrán coadyuvar en dichos recuentos, a petición expresa del Tribunal;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-V. En los recuentos jurisdiccionales podrán estar presentes los representantes de los partidos políticos y coaliciones, pero en todo caso, deberán estar los consejeros electorales y secretarios técnicos;
+IV. El funcionariado electoral podrá coadyuvar en dichos recuentos, a petición expresa del Tribunal;
 
-VI. El día y hora señalado para el desahogo del recuento se procederá a la apertura de la bodega electoral, extrayendo de su interior los paquetes electorales materia del recuento en el orden numérico progresivo;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+V. En los recuentos jurisdiccionales podrán estar presentes quienes representen a los partidos políticos y coaliciones, pero en todo caso, deberán estar las consejerías electorales y secretarías técnicas;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VI. El día y hora señalado para el desahogo del recuento se procederá a la apertura de la bodega electoral, extrayendo de su interior los paquetes electorales materia del recuento en el orden numérico progresivo; en el acta respectiva se asentará el estado físico en el que se encuentren los paquetes electorales y la documentación que contengan;
 
 VII. Se extraerán del paquete electoral los sobres que contengan los votos correspondientes a la elección motivo del recuento y los funcionarios judiciales procederán al escrutinio y cómputo de los votos válidos y nulos. En su caso, se dará cuenta si se encuentran boletas de otras elecciones, procediendo a separarlas para integrarlas al sobre correspondiente;
 
@@ -1149,9 +1291,137 @@ VIII. A la conclusión del escrutinio y cómputo de la casilla correspondiente, 
 
 IX. Concluido el recuento, se procederá a la clausura de la bodega electoral y se levantará un acta circunstanciada de todo lo actuado durante el desarrollo del recuento, la que deberá ser firmada por los funcionarios judiciales, los integrantes de los consejos y, en su caso, los representantes de los candidatos independientes, partidos políticos y coaliciones presentes y que así lo deseen; y
 
-X. Los funcionarios judiciales entregarán, de manera inmediata a la conclusión, el acta circunstanciada al magistrado ponente para los efectos conducentes.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-Una vez recibida el acta o las actas circunstanciadas, el magistrado ponente continuará con la substanciación del recurso de apelación y se levantará la suspensión del cómputo de los plazos.
+X. Los funcionarios judiciales entregarán, de manera inmediata a la conclusión, el acta circunstanciada a la magistratura ponente para los efectos conducentes.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Salvo que se deseche o resulte improcedente, el incidente de recuento concluirá con el desahogo de la diligencia ordenada, cuya acta circunstanciada de resultados deberá considerarse al resolver el recurso de apelación.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Una vez concluido el incidente por cualquiera de los motivos antes mencionados, se levantará la suspensión del cómputo de los plazos para resolver los respectivos medios de impugnación.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+###### Artículo 121.
+
+El recuento jurisdiccional será procedente cuando la diferencia entre el primer lugar y el solicitante sea igual o menor al uno por ciento de la votación total emitida o cuando el total de los votos nulos sea superior a la diferencia entre el primer lugar y el solicitante.
+
+> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2017)</small>
+
+# Libro Tercero
+
+Del juicio para dirimir los conflictos o diferencias laborales entre el Instituto y su funcionariado.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2017)</small>
+
+## Título Primero. De la procedencia
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+###### Artículo 122.
+
+El Tribunal es competente para resolver el juicio para dirimir los conflictos o diferencias laborales entre el Instituto y su funcionariado.
+
+Para la promoción, sustanciación y resolución del juicio, se considerarán horas hábiles, las comprendidas entre las ocho y las dieciséis; y todos los días del año, con exclusión de los sábados, domingos y días de descanso obligatorio.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+###### Artículo 123.
+
+En lo que no contravenga al régimen laboral del personal del Instituto, se aplicará en forma supletoria y en el orden siguiente:
+
+I. La ley de los Trabajadores del Estado de Querétaro;
+
+II. La Ley Federal del Trabajo; y
+
+III. Los principios generales de derecho.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+###### Artículo 124.
+
+El personal del Instituto que hubiese sido sancionado o destituido de su cargo o que considere haber sido afectado en sus derechos y prestaciones laborales, podrá inconformarse mediante demanda que presente directamente ante el Tribunal, dentro de los quince días hábiles siguientes al que se le notifique o tenga conocimiento de la determinación correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2017)</small>
+
+### Capitulo Único. Del trámite, sustanciación y resolución
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+###### Artículo 125.
+
+El escrito de demanda deberá reunir los requisitos siguientes:
+
+I. Hacer constar el nombre completo de la parte actora y señalar domicilio para recibir notificaciones en la ciudad sede del Tribunal;
+
+II. Exponer las consideraciones de hecho y de derecho en que se funda la demanda;
+
+III. Ofrecer y acompañar las pruebas que estime pertinentes;
+
+IV. Asentar firma autógrafa de la parte demandante; y
+
+V. Acompañar al escrito de demanda las copias simples necesarias para correr traslado.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+###### Artículo 126.
+
+Son partes en el juicio:
+
+I. La parte actora, quien deberá actuar por propio derecho o por conducto de apoderada o apoderado; y
+
+II. El Instituto, que actuará por conducto de sus representantes legales.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+###### Artículo 127.
+
+Presentado el escrito a que se refiere el artículo 124 de esta Ley, dentro de los tres días hábiles siguientes al de su admisión se emplazará al Instituto y se le correrá traslado con copia de la demanda.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+###### Artículo 128.
+
+El Instituto deberá contestar dentro de los diez días hábiles siguientes al emplazamiento de la demanda.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+###### Artículo 129.
+
+Se celebrará una audiencia de conciliación, admisión y desahogo de pruebas y alegatos, dentro de los quince días hábiles siguientes a que venza el plazo para contestar la demanda.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+###### Artículo 130.
+
+En la audiencia a que se refiere el artículo anterior, el Tribunal admitirá las pruebas, ordenando el desahogo de las que así lo requieran; o desechará aquellas que resulten notoriamente improcedentes, contrarias al derecho, a la moral o que no tengan relación con la controversia.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+###### Artículo 131.
+
+De ofrecerse la prueba confesional a cargo de consejeras y consejeros del Consejo General o quien ostente la titularidad de la Secretaría Ejecutiva del Instituto, sólo será admitida si se trata de hechos propios que no hayan sido reconocidos por el Instituto y relacionados con la controversia.
+
+Su desahogo se hará por oficio y para ello el oferente de la prueba deberá presentar el pliego de posiciones correspondiente. Una vez calificadas las posiciones de legales, se remitirá el pliego al absolvente, para que en un término de cinco días hábiles lo conteste por escrito.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+###### Artículo 132.
+
+Para la tramitación, sustanciación y resolución del juicio previsto en el presente Libro que se promuevan durante los procesos electorales ordinarios y, en su caso, en los procesos de elecciones extraordinarias, la Presidencia del Tribunal, podrá adoptar las medidas que estime pertinentes, a fin de que, en su caso, se atienda prioritariamente la sustanciación y resolución de los medios de impugnación previstos en el Libro Segundo de esta ley.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+###### Artículo 133.
+
+El Tribunal resolverá en forma definitiva e inatacable, dentro de los diez días hábiles siguientes a la celebración de la audiencia a que se refiere el artículo 128 de esta ley.
+
+En su caso, el Pleno del Tribunal podrá sesionar en privado si la índole del conflicto planteado así lo amerita.
+
+La sentencia se notificará a las partes personalmente de conformidad con el sistema de notificaciones previsto en esta Ley.
 
 ## TRANSITORIOS
 
@@ -1216,3 +1486,13 @@ P.O. 29 DE JUNIO DE 2014.
 Artículo Primero. La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. La Sala Electoral del Tribunal Superior de Justicia del Poder Judicial del Estado, continuará aplicando esta Ley para resolver sobre los procedimientos que en materia electoral se encuentre en trámite a la entrada en vigor de la presente Ley, hasta su conclusión. Asimismo, conocerá de aquellos que se presenten y hasta en tanto quede constituido el Tribunal Electoral del Estado de Querétaro.
+
+P.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se abrogan todas las disposiciones legales vigentes de igual o menor jerarquía en la materia, o que resulten contrarias a la presente Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
