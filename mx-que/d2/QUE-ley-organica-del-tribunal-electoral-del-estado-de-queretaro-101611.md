@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-tribunal-electoral-del-estado-de-queretaro-101
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-06-29"
-last_updated: "2014-06-29"
+last_updated: "2017-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101611&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el domingo 29 de junio de 2014.
 
@@ -171,15 +171,19 @@ En la determinación del proyecto de presupuesto de egresos y en el ejercicio de
 
 ### CAPÍTULO III. DE LOS MAGISTRADOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### Artículo 15.
 
-Son atribuciones de los magistrados electorales propietarios las siguientes:
+Son atribuciones de las magistraturas electorales las siguientes:
 
 I. Concurrir, participar y votar, cuando corresponda, en las sesiones públicas y reuniones internas a las que sean convocados por el presidente del Tribunal;
 
 II. Discutir y votar los proyectos de sentencia que sean sometidos a su consideración en las sesiones públicas;
 
-III. Formular los requerimientos ordinarios necesarios para la integración de los expedientes en los términos de la legislación aplicable y requerir cualquier informe o documento que, obrando en poder de cualquier autoridad, de los partidos políticos o de particulares, pueda servir para la sustanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en las leyes aplicables;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+III. Formular requerimientos para la integración de los medios de impugnación y sus incidentes, en los términos de la legislación aplicable; y requerir cualquier informe o documento que, obrando en poder de cualquier autoridad, partidos políticos o particulares, pueda servir para la sustanciación, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en las leyes aplicables;
 
 IV. Girar exhortos a los juzgados federales o estatales encomendándoles la realización de alguna diligencia en el ámbito de su competencia o efectuar por sí mismos las que deban practicarse fuera de las oficinas del Tribunal;
 
@@ -203,7 +207,9 @@ XIII. Participar conjuntamente con la Secretaría General, cuando así se requie
 
 XIV. Proponer al Pleno la denuncia de contradicción de criterios;
 
-XV. Dirigir las diligencias de recuento de votos acordadas por el Pleno, con el apoyo del personal designado para el efecto;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XV. Tramitar los incidentes de recuento, someter el proyecto de resolución a consideración del Pleno y, en su caso, dirigir las diligencias de recuentos de votos ordenados por éste, con el apoyo del personal designado para tal efecto;
 
 XVI. Firmar, conjuntamente con la Secretaría General, las actas circunstanciadas de las diligencias de recuento de votos;
 
@@ -321,11 +327,23 @@ XV. Informar de manera trimestral al Presidente, sobre el cumplimiento de las ta
 
 XVI. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables, así como el reglamento interior y los acuerdos que para el efecto emita el Pleno.
 
-### CAPÍTULO V. SERVICIO PROFESIONAL DE CARRERA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO V. CARRERA JUDICIAL ELECTORAL, PRESTACIÓN DE SERVICIO SOCIAL Y ESTANCIA DE PRÁCTICAS PROFESIONALES
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 23.
 
-El Servicio Profesional de Carrera Judicial Electoral, establecerá el sistema de ingreso, formación, permanencia, ascenso, retiro y la forma de cómo se obtiene el ascenso en los cargos que la conforman; sus reglas estarán determinadas en lo que establezca la ley y el reglamento que se expida para ello por el Pleno del Tribunal.
+La Carrera Judicial Electoral del Tribunal, tiene por objeto normar el ingreso, formación, promoción, desarrollo y separación de los cargos que lo conforman y se regirá por los principios de excelencia, profesionalismo, objetividad, imparcialidad, independencia, paridad de género, e igualdad de oportunidades.
+
+En la integración de las ponencias del Tribunal, se buscará la conformación paritaria en los puestos de secretarías de acuerdos y proyectistas.
+
+En todo lo relacionado con la Carrera Judicial Electoral se estará a lo previsto en el Reglamento Interior.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Artículo 23 bis. Se podrá realizar el servicio social académico o estancia de prácticas profesionales en el Tribunal, en los términos del reglamento interior y de las disposiciones legales aplicables en materia educativa.
 
 ### CAPÍTULO VI. PERSONAL DEL TRIBUNAL
 
@@ -334,6 +352,10 @@ El Servicio Profesional de Carrera Judicial Electoral, establecerá el sistema d
 Ningún servidor público del Tribunal, podrá tener ocupación que lo coloque en situación de dependencia moral o económica de alguna corporación o persona en particular; consecuentemente, sus cargos son incompatibles con el desempeño de cualquier otro cargo retribuido; con los cargos de elección popular y representación política; con la calidad de ministro de cualquier culto; con la milicia; con la gestión profesional de negocios ajenos y con cualquier cargo auxiliar de la administración de justicia.
 
 Se exceptúan de este precepto las actividades docentes y honoríficas, siempre que no se afecte la prestación regular de su función.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Para contribuir al reparto equitativo de las responsabilidades familiares y en apego al principio de igualdad sustantiva entre hombres y mujeres, se garantizará el ejercicio de una licencia de maternidad o paternidad a quienes presten un servicio público en el Tribunal, con goce de sueldo, derivado del nacimiento o la concesión de la adopción de sus hijas e hijos.
 
 ###### Artículo 25.
 
@@ -347,9 +369,7 @@ Para ningún cargo de la administración de justicia electoral podrá designarse
 
 ###### Artículo 27.
 
-El Pleno del Tribunal hará una evaluación periódica de la actuación de sus Secretarios, Actuarios y demás servidores que laboren en el Tribunal.
-
-Las evaluaciones serán concentradas en la Presidencia del Tribunal y una vez analizadas por el órgano competente, para los efectos a que tenga lugar, se les comunicará a cada uno de los evaluados y se anotarán en la hoja de servicios de cada servidor público de la administración de justicia electoral.
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ###### Artículo 28.
 
@@ -395,9 +415,21 @@ V. Nombrar, a propuesta de la Presidencia, al titular de la Unidad de Informaci�
 
 VI. Acordar con los titulares de las coordinaciones, los asuntos competencia del Pleno;
 
-VII. Aprobar los reglamentos y manuales administrativos; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-VIII. Las demás que le conceda la ley y las disposiciones normativas aplicables.
+VII. Aprobar los reglamentos y manuales administrativos;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+VIII. Aplicar las medidas de apremio y correcciones disciplinarias previstas en la Ley de Medios;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+IX. Aprobar los proyectos y dictamines emitidos por el Comité Editorial, en sesiones ordinarias o extraordinarias del mismo, las cuales serán convocadas por quien ostente la presidencia del Tribunal. Las decisiones sobre dicho comité serán aprobadas por mayoría de votos; y
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+X. Las demás que le conceda la Ley y las disposiciones normativas aplicables.
 
 B. Son atribuciones jurisdiccionales del Pleno, las siguientes:
 
@@ -405,7 +437,9 @@ I. Resolver con plenitud de jurisdicción, los medios de impugnación de su comp
 
 II. Habilitar a los funcionarios autorizados para levantar constancia de las actuaciones del Tribunal;
 
-III. Resolver sobre los recursos de revisión, apelación, juicios de inconformidad, nulidad, recuento jurisdiccional;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+III. Resolver sobre los medios de impugnación previstos en la Ley de Medios;
 
 IV. Conocer y resolver las excusas y recusaciones de los Magistrados;
 
@@ -425,9 +459,21 @@ XI. Ordenar la apertura de incidentes de recuento de votos en los asuntos someti
 
 XII. Fijar en los estrados del Tribunal, la lista de asuntos a tratar y las resoluciones que emitan;
 
-XIII. Resolver sobre la interpretación que de la presente Ley se suscite al momento de aplicarse; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XIV. Las demás que le conceda la ley y las disposiciones normativas aplicables.
+XIII. Resolver sobre la interpretación que de la presente Ley se suscite al momento de aplicarse;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XIV. Resolver los incidentes de recuento;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XV. Designar de entre las magistradas y magistrados a quien cubrirá temporalmente la presidencia del Tribunal en sus ausencias; y
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XVI. Las demás que le conceda la Ley y las disposiciones normativas aplicables.
 
 ###### Artículo 32.
 
@@ -463,57 +509,57 @@ Los criterios del Tribunal dejarán de ser obligatorios cuando existan razones j
 
 ### CAPÍTULO II. DEL PRESIDENTE
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### Artículo 36.
 
-El Presidente del Tribunal durará en su encargo un año, no pudiendo ser reelecto para el periodo inmediato posterior y será designado de entre los magistrados propietarios, por el voto de la mayoría absoluta de los mismos, en la primera sesión que para tal efecto se convoque durante la última semana del mes de septiembre de cada año, cuya sesión no podrá suspenderse hasta darse la designación. La presidencia será rotatoria.
+La persona titular de la presidencia del Tribunal durará en su cargo un año, no pudiendo ser reelecta para el periodo inmediato posterior y será designada de entre los magistrados propietarios, por el voto de la mayoría absoluta en la sesión que para tal efecto se convoque durante el mes de diciembre de cada año, cuya sesión no podrá suspenderse hasta darse la designación. La presidencia será rotatoria.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 37.
 
-Son facultades y obligaciones del Presidente del Tribunal:
+Son facultades y obligaciones de quien presida el Tribunal, además de las establecidas en la Ley de Medios y en el Reglamento Interior del Tribunal, las siguientes:
 
-I. Representar legalmente al Tribunal en toda clase de actos jurídicos y ceremonias oficiales, y asignar comisiones que lo representen cuando le fuere imposible asistir;
+I. Representar legalmente al Tribunal en toda clase de actos jurídicos y administrativos;
 
-II. Intervenir en la administración del presupuesto del Tribunal;
+II. Otorgar poderes a nombre del Tribunal, así como nombrar representantes para los efectos legales y administrativos necesarios;
 
-III. Llevar la correspondencia oficial del Tribunal, a través de la Oficialía Mayor;
+III. Celebrar, previa autorización del Pleno, convenios con los tribunales de otras entidades federativas, con las dependencias de la administración pública, con las instituciones de enseñanza o con cualquier otro organismo público o privado, para lograr el mejoramiento profesional de los integrantes del Tribunal;
 
-IV. Convocar a las sesiones del Pleno del Tribunal, las que presidirá, dirigiendo los debates y conservando el orden en las mismas;
+IV. Proponer al Pleno, para su aprobación, el proyecto de presupuesto anual de egresos del Tribunal;
 
-V. Sustanciar todos los asuntos de la competencia del Pleno hasta ponerlos en estado de resolución;
+V. Rendir en el mes de diciembre, un informe anual ante el Pleno, acerca del estado que guarda la administración del Tribunal;
 
-VI. Llamar al magistrado supernumerario que corresponda, en los casos en que exista impedimento legal de los propietarios;
+VI. Dictar las medidas que estime convenientes para la mejor administración e impartición de justicia y proponer al Pleno, los acuerdos que juzgue conducentes para el mismo objeto;
 
-VII. Turnar entre los magistrados, por riguroso orden, los asuntos de la competencia del Pleno, cuando estime necesario oír su parecer, para acordar algún trámite o para que formulen el proyecto de resolución que deba ser discutido por el mismo Tribunal;
+VII. Despachar la correspondencia del Tribunal;
 
-VIII. Dictar las medidas que estime convenientes para la mejor administración e impartición de justicia y proponer al Pleno, los acuerdos que juzgue conducentes para el mismo objeto;
+VIII. Ordenar a la Oficialía Mayor, que expida los nombramientos del personal del Tribunal Electoral aprobados por el Pleno;
 
-IX. Proponer al Pleno, para su aprobación, el proyecto de presupuesto anual de egresos del Tribunal;
+IX. Conceder licencias, de acuerdo a la normatividad interna del Tribunal;
 
-X. Designar a la persona que supla en sus faltas temporales a los servidores públicos del Tribunal;
+X. Supervisar que las publicaciones de las tesis de jurisprudencia y criterios relevantes emitidos por el Tribunal, se realicen con oportunidad y gestionar su adecuada difusión;
 
-XI. Conceder licencias a los magistrados, hasta por quince días y a los demás servidores públicos del Tribunal, hasta por noventa días; para lo cual, deberá considerar las necesidades del servicio;
+XI. Rendir, con apoyo de quien ejerza la titularidad de la secretaría general, los informes circunstanciados;
 
-XII. Celebrar, previa autorización del Pleno, convenios con los tribunales de otras entidades federativas, con las dependencias de la administración pública, con las instituciones de enseñanza media superior y superior o con cualquier otro organismo público o privado, para lograr el mejoramiento profesional de los integrantes del Tribunal;
+XII. Efectuar la rendición semestral de la cuenta pública a la Entidad Superior de Fiscalización del Estado, previa aprobación que haga el Pleno del Tribunal;
 
-XIII. Recibir, substanciar y, en su caso, resolver quejas sobre las faltas que ocurran en el despacho de los negocios del Tribunal, turnándolas cuando corresponda al órgano competente. Si las faltas fueren leves, dictará las providencias oportunas para su corrección o remedio inmediato, salvo si se tratare de quejas respecto de actos u omisiones de magistrados;
+XIII. Comunicar a la Cámara de Senadores la vacante definitiva de magistraturas;
 
-XIV. Firmar, en unión del Secretario de Acuerdos, las actas y resoluciones del Pleno;
+XIV. Vigilar que se cumplan las determinaciones del Tribunal, así como las disposiciones de la reglamentación interna;
 
-XV. Imponer correcciones disciplinarias a las partes y abogados postulantes, cuando en las promociones que hagan ante el Pleno, falten al respeto a la investidura de los servidores judiciales electorales o a sus personas;
+XV. Vigilar el buen desempeño y funcionamiento del Tribunal;
 
-XVI. Informar al Pleno, en el mes de julio de cada año, acerca del estado que guarda la administración del Tribunal;
+XVI. Solicitar al titular de la contraloría inicie las investigaciones conducentes en los casos en que se detecte alguna irregularidad en la administración del Tribunal;
 
-XVII. Rendir los informes previos y con justificación en los amparos que se promuevan en contra de los actos y resoluciones del Pleno del Tribunal;
+XVII. Convocar, diferir o suspender las sesiones del Pleno;
 
-XVIII. Ejercer las facultades que le asigne el Reglamento Interior del Tribunal;
+XVIII. Conducir las sesiones del Pleno, dirigiendo los debates y conservando el orden en las mismas. Cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de los presentes y continuar la sesión en privado;
 
-XIX. Efectuar la rendición semestral de la cuenta pública a la Entidad Superior de Fiscalización del Estado, previa aprobación que haga el Pleno del Tribunal;
+XIX. Turnar al magistrado del Tribunal, de conformidad con lo dispuesto por el Reglamento interno, los expedientes que se integren con motivo de algún medio de impugnación o incidente, para su debida substanciación y resolución del proyecto de sentencia; y
 
-XX. Comunicar a la Legislatura del Estado, las faltas absolutas de los magistrados del Tribunal, dentro de un plazo de cinco días hábiles, contados a partir de que se tenga conocimiento de la falta que hubiere ocurrido, a fin de que se proceda, en términos de lo dispuesto en la Constitución Política del Estado de Querétaro;
-
-XXI. Legalizar las firmas de los funcionarios o servidores públicos del Poder Judicial del Estado; y
-
-XXII. Las demás que le confiera esta Ley y otras disposiciones aplicables.
+XX. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO III. DE LAS RESOLUCIONES
 
@@ -529,11 +575,11 @@ III. Revocar la constancia de mayoría expedida por los órganos electorales com
 
 IV. Corregir el resultado de los cómputos de que se trate, cuando sean impugnados por error aritmético.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 ###### Artículo 39.
 
-Las nulidades declaradas por el Tribunal, respecto de la votación emitida en una casilla o de una elección en un distrito electoral uninominal o de un municipio, solo surtirán efectos en relación con la votación o elección en contra de la cual se haya hecho valer el recurso de apelación.
-
-Tratándose de la inelegibilidad de los candidatos de representación proporcional que deban asignarse a un partido político, tomará el lugar del declarado no elegible el que lo sigue en la lista correspondiente al mismo partido.
+Los expedientes de los medios de impugnación interpuestos podrán ser consultados por las personas autorizadas para tal efecto y podrán solicitar a su costa copias certificadas o simples.
 
 ## TRANSITORIOS
 
@@ -582,3 +628,17 @@ Lic. Jorge López Portillo Tostado
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley iniciará su vigencia el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. El titular de la Oficialía Mayor del Tribunal Electoral del Estado de Querétaro, que se encuentre en funciones, cumplirá el periodo para el que fue electo, pudiendo ser reelecto por una ocasión.
+
+Artículo Cuarto. Remítase la Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
