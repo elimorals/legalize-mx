@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2017-02-17"
+last_updated: "2017-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 17 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE JUNIO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -2500,11 +2500,11 @@ Recibidos los informes por la Comisión de Gobierno, ésta los turnará al Comit
 
 ### CAPÍTULO I
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE JUNIO DE 2017)</small>
 
 ###### Artículo 170.
 
-De conformidad con lo señalado en el artículo 10 de la Ley Orgánico (sic) de la Asamblea Legislativa del Distrito Federal, la Asamblea otorgará las siguientes preseas y reconocimientos:
+De conformidad con lo señalado en el artículo 10 de la Ley Orgánica de la Asamblea Legislativa del Distrito Federal, la Asamblea otorgará las siguientes preseas y reconocimientos:
 
 > <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2526,17 +2526,21 @@ IV.- Al Mérito Deportivo;
 
 V.- Al Mérito de Protección Civil;
 
-> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, G.O. 1 DE JUNIO DE 2017)</small>
 
-VI.- A las Defensoras y Defensores de Derechos Humanos;
+VI.-. A las Defensoras y Defensores de Derechos Humanos; y así mismo se otorgará la Medalla al Mérito Periodístico “Miguel Granados Chapa”;
 
-> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, G.O. 1 DE JUNIO DE 2017)</small>
 
-VII.- Al Mérito por la Igualdad y la No Discriminación
+VII.- Al Mérito por la Igualdad y la No Discriminación;
 
-> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, G.O. 1 DE JUNIO DE 2017)</small>
 
-VIII.- La medalla Hermila Galindo.
+VIII.- La Medalla Hermila Galindo;
+
+> <small>(ADICIONADA, G.O. 1 DE JUNIO DE 2017)</small>
+
+IX.- Al Mérito Docente "Jaime Torres Bodet".
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2556,9 +2560,9 @@ Adicionalmente, los reconocimientos podrán otorgarse de forma póstuma, a los c
 
 Para los efectos del presente título, se entenderá por:
 
-> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, G.O. 1 DE JUNIO DE 2017)</small>
 
-I. Medalla: Medalla al Mérito, ya sea Ciudadano, en Ciencias y Artes, Policial, Deportivo o en Protección Civil, Defensoras y Defensores de los Derechos Humanos, por la Igualdad y no discriminación, y la medalla Hermila Galindo, todas de la Asamblea Legislativa del Distrito Federal;
+I. Medalla: Medalla al Mérito, ya sea Ciudadano, Docente “Jaime Torres Bodet”, en Ciencias y Artes, Policial, Deportivo, en Protección Civil, o por la Igualdad y la No Discriminación; de la Asamblea Legislativa del Distrito Federal;
 
 II.- Comisiones: Las diferentes Comisiones dictaminadoras de las medallas, que son:
 
@@ -2580,17 +2584,25 @@ d) Comisión de Seguridad Pública de la Asamblea Legislativa del Distrito Feder
 
 e) Comisión del Deporte de la Asamblea Legislativa del Distrito Federal;
 
-> <small>(REFORMADO, G.O. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2017)</small>
 
-f) Comisión de Protección Civil de la Asamblea Legislativa del Distrito Federal; y
+f) Comisión de Protección Civil de la Asamblea Legislativa del Distrito Federal;
 
-> <small>(REFORMADO, G.O. 18 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 1 DE JUNIO DE 2017)</small>
 
-g) Comisión de Derechos Humanos y Comisión Especial para otorgar la Medalla al Mérito Periodístico “Miguel Ángel Granados Chapa” de la Asamblea Legislativa del Distrito Federal.
+g) Comisión de Atención a Grupos Vulnerables;
 
-> <small>(ADICIONADO, G.O. 17 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2017)</small>
 
-h) Comisiones unidas de Atención a Grupos Prioritarios y Vulnerables y para la Igualdad de Género, para la entrega de la medalla Hermila Galindo.
+h) Comisión de Derechos Humanos y Comisión Especial para otorgar la Medalla al Mérito Periodístico “Miguel Ángel Granados Chapa” de la Asamblea Legislativa del Distrito Federal;
+
+> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2017)</small>
+
+i) Comisiones unidas de Atención a Grupos Prioritarios y Vulnerables y para la Igualdad de Género, para la entrega de la medalla Hermila Galindo;
+
+> <small>(ADICIONADO, G.O. 1 DE JUNIO DE 2017)</small>
+
+j) Comisión de Educación de la Asamblea Legislativa del Distrito Federal.
 
 > <small>(REFORMADA, G.O. 12 DE MAYO DE 2015)</small>
 
@@ -2634,29 +2646,33 @@ b) "MEDALLA AL MÉRITO EN CIENCIAS"
 
 > <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
-c) “MEDALLA AL MÉRITO EN ARTES”
+c) "MEDALLA AL MÉRITO EN ARTES"
 
 d) "MEDALLA AL MÉRITO POLICIAL"
 
 e) "MEDALLA AL MÉRITO DEPORTIVO"
 
-f) (DEROGADO, G.O. 18 DE MAYO DE 2016)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 1 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADO, G.O. 18 DE MAYO DE 2016)</small>
+f) "MEDALLA AL MÉRITO DE PROTECCIÓN CIVIL"
 
-g) "MEDALLA AL MÉRITO DE PROTECCIÓN CIVIL"
+> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADO, G.O. 18 DE MAYO DE 2016)</small>
+g) "MEDALLA A LAS DEFENSORAS Y DEFENSORES DE DERECHOS HUMANOS"
 
-h) "MEDALLA A LAS DEFENSORAS Y DEFENSORES DE DERECHOS HUMANOS" y "MEDALLA AL MÉRITO PERIODÍSTICO "MIGUEL ÁNGEL GRANADOS CHAPA"
+> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2017)</small>
 
-> <small>(ADICIONADO, G.O. 17 DE FEBRERO DE 2017)</small>
+h) "MEDALLA AL MÉRITO POR LA IGUALDAD Y LA NO DISCRIMINACIÓN" y "MEDALLA AL MÉRITO PERIODÍSTICO "MIGUEL ÁNGEL GRANADOS CHAPA"".
 
 i) MEDALLA HERMILA GALINDO.
 
-> <small>(REFORMADO, G.O. 18 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO, G.O. 1 DE JUNIO DE 2017)</small>
 
-En fondo opaco, el nombre de las personas condecorada (sic) y la disciplina, en su caso; y
+j) "MEDALLA AL MÉRITO DOCENTE "JAIME TORRES BODET"
+
+> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2017)</small>
+
+En fondo opaco, el nombre de la persona condecorada y la disciplina, en su caso; y
 
 IV.- El listón del que penda la Medalla será de seda y con los colores patrios.
 
@@ -3163,6 +3179,50 @@ Artículo 212 Quaterdecies.- El trabajo que pretenda participar en la convocator
 > <small>(ADICIONADO, G.O. 18 DE MAYO DE 2016)</small>
 
 Artículo 212 Quindecies.- La Sesión Solemne para entregar la Medalla al Mérito Periodístico “Miguel Ángel Granados Chapa” se realizará en la fecha en que se conmemora el aniversario luctuoso de Miguel Ángel Granados Chapa, a saber el día 16 de octubre del año que corresponda.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 1 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO SEXTO TER. DE LA MEDALLA AL MÉRITO DOCENTE "JAIME TORRES BODET"
+
+> <small>(ADICIONADO, G.O. 1 DE JUNIO DE 2017)</small>
+
+Artículo 212 Sedecies.- El reconocimiento se otorgará a las y los ciudadanos que se hayan distinguido en grado sobresaliente en o destacado en la defensa, promoción y desarrollo de la formación de las y los alumnos, de conformidad con las siguientes categorías:
+
+I. Educación Preescolar y/o Inicial;
+
+II. Educación Primaria;
+
+III. Educación Secundaria;
+
+IV. Educación Media Superior;
+
+V. Educación en Licenciatura; y
+
+VI. Educación en Posgrado.
+
+> <small>(ADICIONADO, G.O. 1 DE JUNIO DE 2017)</small>
+
+Artículo 212 Septies decies.- La Comisión de Educación, deberá convocar, conocer, estudiar, analizar y efectuar el proceso de la elección de candidatas y candidatos a recibir el reconocimiento; así como elaborar el dictamen correspondiente mismo que una vez que sea aprobado por los integrantes de dicha comisión, deberá ser presentado y puesto a consideración del Pleno de esta Asamblea para su aprobación.
+
+> <small>(ADICIONADO, G.O. 1 DE JUNIO DE 2017)</small>
+
+Artículo 212 Octies decies.- La Asamblea Legislativa convocará cada año a la población, organizaciones de la sociedad civil, instituciones académicas, y demás instituciones de la sociedad civil, vinculadas con la Educación en la Ciudad de México, para que propongan a candidatas y candidatos que como resultado de sus actividades docentes hayan destacado en la defensa, promoción y desarrollo de la formación de los alumnos.
+
+> <small>(ADICIONADO, G.O. 1 DE JUNIO DE 2017)</small>
+
+Artículo 212 Novies decies.- Para efectos del artículo anterior, no será necesario que las obras o actos que acrediten su merecimiento, se hayan realizado dentro del periodo de la convocatoria.
+
+> <small>(ADICIONADO, G.O. 1 DE JUNIO DE 2017)</small>
+
+Artículo 212 Vicies.- La convocatoria a que hace referencia el artículo anterior deberá ser elaborada y aprobada por la Comisión de Educación a más tardar el primero de febrero del año correspondiente a la entrega del reconocimiento.
+
+> <small>(ADICIONADO, G.O. 1 DE JUNIO DE 2017)</small>
+
+Artículo 212 Vicies semel.- El periodo para el registro de candidatos a recibir la Medalla al Mérito Docente "Jaime Torres Bodet", queda comprendido durante el mes de febrero de cada año, observando en todo momento lo establecido en el artículo 180 del presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 1 DE JUNIO DE 2017)</small>
+
+Artículo 212 Vicies bis.- El reconocimiento de la Medalla al Mérito Docente "Jaime Torres Bodet" y el Diploma respectivo serán otorgados en Sesión Solemne misma que deberá celebrarse dentro del mes de abril de cada año.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], G.O. 12 DE MAYO DE 2015)</small>
 
@@ -3917,3 +3977,13 @@ G.O. 17 DE FEBRERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL ARTÍCULO 28 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL".]
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para efectos de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su aprobación en el pleno de la Asamblea Legislativa.
+
+TERCERO.- Por única ocasión se entregará la Medalla al Mérito Docente "Jaime Torres Bodet" y el Diploma respectivo correspondiente al año 2017, dentro del primer periodo ordinario de sesiones del tercer año legislativo, en la fecha que acuerde la Comisión de Gobierno.
