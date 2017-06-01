@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-la-comision-estatal-de-derechos-humanos-del-8500"
 country: "mx"
 rank: "ley"
 publication_date: "1992-10-08"
-last_updated: "2014-01-09"
+last_updated: "2017-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE JUNIO DE 2017.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 8 de octubre de 1992.
 
@@ -435,9 +435,9 @@ X.- Aprobar, revisar y modificar el reglamento interior y todas las normas admin
 
 El Presidente de la Comisión deberá remitir mensualmente al Congreso para su conocimiento, copia certificada de la o las actas y documentos relacionados con las sesiones que sean celebradas en cumplimiento de las atribuciones referidas en las fracciones II y III de este artículo.
 
-> <small>(REFORMADO, B.O. 31 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, B.O. 1 DE JUNIO DE 2017)</small>
 
-Para los efectos del informe que debe rendir el Presidente de la Comisión ante los tres poderes del Estado según se previene en la fracción VI de este artículo, durante la primera semana del mes de febrero de cada año se celebrará sesión pública solemne en el recinto del Congreso con la presencia de los diputados, el Gobernador y el Presidente del Supremo Tribunal de Justicia del Estado. El día y hora de dicha sesión serán determinados por el Congreso o la Diputación Permanente, según sea el caso, que comunicará lo conducente a los titulares de los otros dos poderes con un mínimo de cinco días de anticipación.
+El Presidente de la Comisión deberá comparecer personalmente a rendir por escrito, ante la Comisión de Justicia y Derechos Humanos del Congreso del Estado, un informe anual de actividades, durante la primera semana del mes de febrero de cada año. En dicha comparecencia los diputados integrantes de la referida Comisión Legislativa podrán solicitar información y documentación relacionada con el contenido del informe anual que se presente y, en general, sobre la actuación de la Comisión Estatal de Derechos Humanos, debiendo ser entregada por escrito dentro de los siguientes 5 días hábiles en que sea solicitada.
 
 > <small>(REFORMADO, B.O. 9 DE ENERO DE 2014)</small>
 
@@ -982,3 +982,11 @@ B.O. 9 DE ENERO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 20 DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado
