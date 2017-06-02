@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-procuraduria-general-de-justicia-del-76520"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-02"
-last_updated: "2016-12-13"
+last_updated: "2017-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de septiembre de 2010.
 
@@ -505,65 +505,69 @@ II. Primer Subprocurador General;
 
 III. Segundo Subprocurador General;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-IV. Director General de Averiguaciones Previas;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-V. Director de Averiguaciones Previas;
+IV. Fiscal Especializado en Combate a la Corrupción;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-VI. Director de Control de Procesos;
+V. Director General de Averiguaciones Previas;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-VII. Director Jurídico;
+VI. Director de Averiguaciones Previas;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-VIII. Coordinador de Asuntos Internos;
+VII. Director de Control de Procesos;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-IX. Delegados;
+VIII. Director Jurídico;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+IX. Coordinador de Asuntos Internos;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+X. Delegados;
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-X. Fiscal para Asuntos Electorales;
+XI. Fiscal para Asuntos Electorales;
 
 > <small>(REFORMADA, P.O. 4 DE JUNIO DE 2014)</small>
 
-XI. Coordinador Estatal Antisecuestro;
+XII. Coordinador Estatal Antisecuestro;
 
 > <small>(REFORMADA, P.O. 4 DE JUNIO DE 2014)</small>
 
-XII. Director de Ministerios Públicos de la Coordinación Estatal Antisecuestro;
+XIII. Director de Ministerios Públicos de la Coordinación Estatal Antisecuestro;
 
 > <small>(REFORMADA, P.O. 4 DE JUNIO DE 2014)</small>
 
-XIII. Unidad Especializada en la Investigación y Persecución de los delitos en Materia de Trata de Personas;
+XIV. Unidad Especializada en la Investigación y Persecución de los delitos en Materia de Trata de Personas;
 
 > <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2014)</small>
 
-XIV. Director General de Operación del Procedimiento Penal Acusatorio y Oral;
+XV. Director General de Operación del Procedimiento Penal Acusatorio y Oral;
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-XV. Coordinadores Regionales del Procedimiento Penal Acusatorio y Oral;
+XVI. Coordinadores Regionales del Procedimiento Penal Acusatorio y Oral;
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-XVI. Fiscal Especializado en Atención a Personas No Localizadas o Privadas de su Libertad;
+XVII. Fiscal Especializado en Atención a Personas No Localizadas o Privadas de su Libertad;
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-XVII. Director de la Unidad para la Protección de Personas que intervienen en el Procedimiento Penal; y
+XVIII. Director de la Unidad para la Protección de Personas que intervienen en el Procedimiento Penal; y
 
 > <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
 
-XVIII. Agentes del Ministerio Público.
+XIX. Agentes del Ministerio Público.
 
 B) Con funciones auxiliares del Ministerio Público:
 
@@ -705,7 +709,11 @@ Asimismo, para la más eficaz atención y eficiente despacho de los asuntos de s
 
 Los órganos desconcentrados tendrán las atribuciones específicas para resolver sobre las materias de su competencia o dentro del ámbito territorial que se determine en cada caso, de conformidad con las normas que para ello establezcan la presente Ley, los instrumentos jurídicos de creación de dichos órganos y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 13.
+
+El Procurador, sin perjuicio de las facultades concedidas en esta ley al Fiscal Especializado en Combate a la Corrupción para expedir normas administrativas necesarias que rijan la actuación de dicha Fiscalía, emitirá los acuerdos, circulares, instructivos, bases y demás normas administrativas necesarias que rijan la actuación de las unidades administrativas y órganos técnicos y administrativos, centrales y desconcentrados, de la Procuraduría General de Justicia del Estado de Tamaulipas, así como de agentes del Ministerio Público, agentes de las Policías Investigadora y Ministerial, Peritos, su personal auxiliar, así como el personal de justicia alternativa penal.
 
 Los acuerdos y demás normatividad que emita el Procurador, relativos a la organización, estructura, delegación y distribución de facultades y obligaciones, serán publicados en el Periódico Oficial del Estado.
 
@@ -744,6 +752,110 @@ X. Resolver los conflictos de competencia que se presenten entre los Agentes del
 XI. Suscribir, en ausencia del Procurador, y conforme al Reglamento de esta Ley, los informes que deban rendirse en los juicios de amparo, demandas, recursos y promociones en procedimientos judiciales, laborales, contencioso-administrativos y de las comisiones de Derechos Humanos; y
 
 XII. Las demás que otras disposiciones legales aplicables o el Procurador les confieran.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+###### ARTICULO 14 Bis.
+
+La Fiscalía Especializada en Combate a la Corrupción es el órgano con autonomía técnica y operativa para investigar y perseguir los hechos que la ley considera como delitos en materia de corrupción.
+
+Al frente de la Fiscalía Especializada en Combate a la Corrupción habrá un Fiscal. La Fiscalía contará con el personal sustantivo, directivo, administrativo y auxiliar capacitados para el debido cumplimiento de sus funciones, así como con las unidades administrativas necesarias para el seguimiento de las investigaciones.
+
+La Fiscalía Especializada para el desarrollo de sus funciones se auxiliará de la unidad administrativa en materia de servicios periciales, la cual en su caso, deberá dar trámite y desahogo al peritaje solicitado en el término que al efecto establezca el Ministerio Público y que resulte acorde con la complejidad del peritaje a realizar.
+
+Asimismo, la Fiscalía contará con agentes del Ministerio Público especializados en combate a los hechos que la ley considera como delitos en materia de corrupción.
+
+Su titular presentará anualmente al Procurador General de Justicia del Estado un informe sobre actividades sustantivas y sus resultados, el cual será público, en términos de lo previsto en la Ley General de Transparencia y Acceso a la Información Pública, y demás disposiciones aplicables en la materia. Dicho informe será remitido a su vez, al Comité Coordinador del Sistema Estatal Anticorrupción y al Congreso del Estado de Tamaulipas.
+
+El titular de la Fiscalía, al igual que su personal de confianza, agentes del Ministerio Público, agentes de la Policía Investigadora y Ministerial, Peritos y auxiliares miembros del Servicio Profesional de Carrera, así como los previstos en el artículo 45 de esta ley, estarán sujetos a lo establecido en la Ley General de Responsabilidades Administrativas, Ley de Responsabilidades Administrativas del Estado de Tamaulipas, y al régimen especial de la materia previsto en esta ley. Su actuación será fiscalizada por la Auditoría Superior del Estado, la Visitaduría General, la Coordinación de Asuntos Internos y el Órgano Interno de Control de la Contraloría Gubernamental, conforme a sus respectivas competencias.
+
+El titular de la Fiscalía Especializada en Combate a la Corrupción elaborará su anteproyecto de presupuesto para enviarlo a la Secretaría de Finanzas por conducto de la Procuraduría General Justicia del Estado de Tamaulipas, para que se integre en el Proyecto de Presupuesto de Egresos del Estado que envíe para su aprobación al Congreso del Estado.
+
+En el Presupuesto de Egresos del Estado se identificará el monto aprobado a esta Fiscalía para el respectivo ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+###### ARTICULO 14 Ter.
+
+El Titular de la Fiscalía Especializada en Combate a la Corrupción contará con las siguientes atribuciones:
+
+I. Planear, programar, organizar y dirigir el funcionamiento de la Fiscalía Especializada en Combate a la Corrupción;
+
+II. Ejercer las atribuciones que la Constitución, las leyes, los reglamentos y demás disposiciones jurídicas confieren al Ministerio Público en lo relativo a los hechos que la ley considera como delitos en materia de corrupción, con excepción de los cometidos por servidores públicos de la Procuraduría General de Justicia del Estado, supuesto en el cual se estará a lo dispuesto en el artículo 18 de esta ley;
+
+III. Participar como integrante en el Comité Coordinador del Sistema Estatal Anticorrupción, atendiendo las bases establecidas en el artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, 154 de la Constitución Política del Estado de Tamaulipas y en la ley general correspondiente;
+
+IV. Nombrar, previo acuerdo con el Procurador General de Justicia del Estado de Tamaulipas, a los titulares de las unidades administrativas de la Fiscalía Especializada en Combate a la Corrupción, salvo aquellas que no realicen funciones sustantivas, en cuyo caso, el nombramiento y su remoción serán exclusivos del Fiscal Especializado;
+
+V. Contar con los agentes del Ministerio Público y Policías de Investigación y Ministeriales, miembros del servicio profesional de carrera, que le estarán adscritos y resulten necesarios para la atención de los casos que correspondan a la Fiscalía, sobre los que ejercerá mando directo en términos de lo dispuesto por esta ley y su reglamento.
+
+Para los efectos de lo dispuesto en esta fracción presentará solicitud debidamente sustentada y justificada ante el Consejo del Servicio Profesional de Carrera, que resolverá lo conducente procurando que se guarde un equilibrio y proporcionalidad en la asignación del personal ministerial considerando los requerimientos operacionales de las diversas unidades administrativas y órganos desconcentrados de la institución y la disponibilidad presupuestaria;
+
+VI. Proponer al Procurador General de Justicia del Estado de Tamaulipas el nombramiento de los agentes del Ministerio Público por designación especial que reúnan amplia experiencia profesional en la materia de combate a la corrupción, en términos de lo dispuesto por el artículo 45 de esta ley;
+
+VII. Proponer a la unidad administrativa competente el contenido teórico práctico de los programas de capacitación, actualización y especialización a que se refiere el artículo 63 de esta ley, respecto de los agentes del Ministerio Público adscritos a la Fiscalía Especializada;
+
+VIII. Coordinar y supervisar la actuación de las policías con funciones de investigación de delitos, en los términos de lo dispuesto en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y 124 de la Constitución Política del Estado de Tamaulipas;
+
+IX. Diseñar e implementar estrategias y líneas de acción para combatir los hechos que la ley considera como delitos en materia de corrupción;
+
+X. Implementar planes y programas destinados a detectar la comisión de los hechos que la ley considera como delitos en materia de corrupción en el ámbito de su competencia. Dichos planes y programas deberán ser aprobados por el Procurador General de Justicia del Estado de Tamaulipas;
+
+XI. Instrumentar mecanismos de colaboración con otras autoridades para la elaboración de estrategias y programas tendentes a combatir los hechos que la ley considera como delitos en materia de corrupción;
+
+XII. Emitir los acuerdos, circulares, instructivos, bases y demás normas administrativas necesarias que rijan la actuación de la Fiscalía en el ámbito de su competencia.
+
+Los acuerdos, circulares, instructivos, bases y demás normas administrativas emitidas por parte del Fiscal Especializado en Combate a la Corrupción, que sean necesarios para regular la actuación de la Fiscalía Especializada a su cargo, en ningún caso podrán contradecir las normas administrativas emitidas por el Procurador General de Justicia del Estado de Tamaulipas. En caso de contradicción, se estará a lo dispuesto en el artículo 92 fracción III del Reglamento de esta ley, resolviendo en el dictamen la actualización, derogación o abrogación de la norma emitida por el fiscal especializado.
+
+En su caso, se propondrá al Procurador General de Justicia del Estado de Tamaulipas la actualización, derogación o abrogación de las normas expedidas por éste;
+
+XIII. Fortalecer e implementar, en el ámbito de su competencia, mecanismos de cooperación y colaboración con autoridades de los tres órdenes de gobierno para la investigación de los hechos que la ley considera como delitos en materia de corrupción;
+
+XIV. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de los hechos que la ley considera como delitos en materia de corrupción;
+
+XV. Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones;
+
+XVI. Requerir a las instancias de gobierno la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario, industrial, fiscal, bursátil, postal o cualquiera otro de similar naturaleza;
+
+XVII. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información fiscal, financiera y contable para que pueda ser utilizada por ésta y otras unidades competentes de la Procuraduría, en especial la relacionada con la investigación de los hechos que la ley considera como delitos en materia de corrupción;
+
+XVIII. Coadyuvar con otras áreas competentes de la Procuraduría, en el desarrollo de herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación de las distintas variables criminales, socioeconómicas y financieras, para conocer la evolución de las actividades relacionadas con los hechos que la ley considera como delitos en materia de corrupción;
+
+XIX. Generar sus propias herramientas metodológicas para el efecto de identificar los patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita;
+
+XX. Emitir guías y manuales técnicos, en conjunto con la unidad administrativa a cargo de servicios periciales y la funcionalmente a cargo de análisis de información para la formulación de dictámenes en materia fiscal, financiera, contable y de evolución patrimonial que requieran los agentes del Ministerio Público en el cumplimiento de sus funciones de investigación y persecución de los hechos que la ley considera como delitos en materia de corrupción;
+
+XXI. Conducir la investigación para la obtención de datos o medios de prueba vinculados a hechos que la ley considera como delitos en materia de corrupción;
+
+XXII. Suscribir programas de trabajo y proponer al Procurador General de Justicia del Estado la celebración de convenios con las entidades federativas para tener acceso directo a la información disponible en los Registros Públicos de la Propiedad, así como de las unidades de inteligencia patrimonial de las entidades federativas, para la investigación y persecución de los hechos que la ley considera como delitos en materia de corrupción;
+
+XXIII. Realizar los siguientes actos:
+
+a) Autorizar la consulta de reserva, incompetencia, acumulación, y separación de las investigaciones, archivo temporal, criterio de oportunidad, acuerdo reparatorio y procedimiento abreviado, que propongan los agentes del Ministerio Público de su adscripción;
+
+b) Autorizar en definitiva que los agentes del Ministerio Público decreten el no ejercicio de la acción penal, de conformidad a la disposición procesal penal correspondiente;
+
+c) Autorizar la formulación de conclusiones no acusatorias en los procesos penales o, en su caso, la solicitud del desistimiento de la acción penal ante el órgano jurisdiccional que establece el artículo 144 del Código Nacional de Procedimientos Penales;
+
+d) Resolver en definitiva las consultas que agentes del Ministerio Público formulen a las prevenciones que la autoridad judicial acuerde en los términos que la ley disponga, respecto de la omisión de formular conclusiones en el plazo legal, de conclusiones presentadas en un proceso penal, o de actos cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del inculpado antes de que se pronuncie sentencia; de cancelación o reclasificación de órdenes de aprehensión; y
+
+e) Formular los requerimientos de información y de documentos relativos al sistema financiero o de naturaleza fiscal a que se refiere el artículo 142, fracción I de la Ley de Instituciones de Crédito y demás disposiciones homólogas.
+
+XXIV. Dirigir, coordinar y realizar la investigación de los hechos que presuntamente constituyan delitos materia de su competencia, en términos de las disposiciones jurídicas aplicables;
+
+XXV. Ordenar el aseguramiento de bienes propiedad del imputado, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado;
+
+XXVI. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la ley considera como delitos en materia de corrupción que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
+
+XXVII. Decidir responsablemente sobre el destino de los recursos que le sean asignados, a fin de cubrir todas las necesidades que surjan en el desempeño de sus facultades; y
+
+XXVIII. Las demás que en su caso le confieran otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+###### ARTICULO 14 Quáter.
+
+La Fiscalía Especializada en Combate a la Corrupción se equipara jerárquica y administrativamente a una Subprocuraduría y para ser designado como titular de la misma, se deberá cumplir con los mismos requisitos que establece esta ley para la designación del Procurador y Subprocuradores.
 
 ###### ARTICULO 15.
 
@@ -1436,6 +1548,10 @@ El personal de la Procuraduría se organizará en las siguientes categorías:
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
 I. El personal sujeto al Servicio Profesional de las Carreras ministerial, policial, pericial y de justicia alternativa penal; y
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+El Fiscal Especializado en Combate a la Corrupción fundada y motivadamente, podrá solicitar al Consejo del Servicio Profesional de Carrera la destitución de los agentes del Ministerio Público y de la policía que le estén adscritos cuando no cumplan con los requisitos para permanecer en su cargo; y
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -2345,11 +2461,11 @@ La suspensión es la interrupción temporal de los efectos del nombramiento, la 
 
 La remoción es la destitución o separación del cargo y procederá en los casos de faltas graves. En todo caso, se impondrá la remoción en el supuesto de contravención a los casos a que se refieren las fracciones IV, V, VII, VIII y XII del artículo 71; así como las fracciones VI, VII y X del artículo 72 de esta Ley.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 83.
 
-Corresponde a las Comisiones, la imposición de las sanciones que se refieren en el artículo 80 de esta Ley.
+Corresponde a las Comisiones, la imposición de las sanciones que se refieren en el artículo 79 de esta ley.
 
 ###### ARTICULO 84.
 
@@ -2369,9 +2485,11 @@ VI. Las circunstancias socioeconómicas del servidor público, y
 
 VII. El monto del beneficio, daño o perjuicio económico derivado del incumplimiento de obligaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 85.
 
-La determinación de la remoción se hará conforme al procedimiento siguiente:
+La determinación de las sanciones previstas en el artículo 79 de esta ley, así como la separación del servicio por incumplimiento de los requisitos de permanencia, se hará conforme al procedimiento siguiente:
 
 I. Se iniciará de oficio o por queja presentada ante la Coordinación de Asuntos Internos, o por vista que realicen los servidores públicos adscritos a dicha unidad administrativa o a la Visitaduría, en el ejercicio de sus atribuciones;
 
@@ -2405,11 +2523,15 @@ ARTICULO 86 BIS.- Si el Pleno del Consejo confirma la resolución de la Comisió
 
 El monto de indemnización será conforme lo dispuesto en el artículo 86 de la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 87.
 
-Para todo lo no dispuesto en el presente Capítulo o en el Reglamento, serán aplicables supletoriamente las disposiciones del Código de Procedimientos Civiles y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+El Órgano Interno de Control en la Procuraduría General de Justicia del Estado de Tamaulipas dependiente de la Contraloría Gubernamental del Estado, ejercerá sus atribuciones conforme a las leyes, reglamentos y demás disposiciones jurídicas que rigen la actuación de esa dependencia.
+
+Las faltas administrativas en que incurran los servidores públicos de la Procuraduría General de Justicia del Estado que no encuadren en el régimen especial previsto por los Capítulos II y V del Título Tercero de esta ley, serán del conocimiento del Órgano Interno de Control en los términos de la Ley General de Responsabilidades Administrativas y de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
+
+Para todo lo no dispuesto por cuanto a procedimiento en el presente Título, serán aplicables supletoriamente las disposiciones de la Ley General de Responsabilidades Administrativas, el Código de Procedimientos Civiles y en lo conducente la Ley de Responsabilidades Administrativas, ambos del Estado de Tamaulipas.
 
 ### CAPITULO VI. DE LAS MEDIDAS DISCIPLINARIAS
 
@@ -3690,3 +3812,23 @@ P.O. 13 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-185 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, EN MATERIA DE COMBATE A LA CORRUPCIÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular de la Fiscalía Especializada en Combate a la Corrupción entrará en funciones una vez que el Congreso del Estado realice su nombramiento, previo el procedimiento establecido en el tercer párrafo de la fracción XXI del artículo 58 del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado de Tamaulipas, en materia de combate a la corrupción, publicada en el Periódico Oficial del Estado el 20 de abril de 2017.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado realizará las acciones necesarias para proveer de recursos a la Fiscalía Especializada en Combate a la Corrupción. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
+
+###### ARTÍCULO CUARTO.
+
+Todas las disposiciones que se opongan al presente Decreto quedarán derogadas a partir de su entrada en vigor.
