@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2017-04-20"
+last_updated: "2017-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -877,8 +879,6 @@ El Presidente del Congreso declarará a la Legislatura legítimamente constituid
 
 El Congreso tendrá dos períodos ordinarios de sesiones cada año legislativo: el primero, improrrogable, iniciará el primero de octubre, durando el tiempo necesario para tratar todos los asuntos de su competencia, sin que pueda extenderse más allá del día quince de diciembre; el segundo dará principio el quince de enero y terminará el treinta de junio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
 
 En fecha de la segunda quincena de septiembre de cada año, que determine el Pleno o la Diputación Permanente, en su caso, celebrará sesión extraordinaria para el único objeto de recibir el informe del Gobernador del Estado sobre el estado que guarda la administración pública a su cargo, conforme a lo previsto por esta Constitución.
@@ -1625,8 +1625,6 @@ III.- Los Militares que no se hayan separado del servicio activo por lo menos 12
 
 IV.- Los que desempeñen algún cargo o comisión de otros Estados o de la Federación, a menos que se separen de ellos 120 días antes de la elección, sean o no de elección popular;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
 
 V.- Los Magistrados del Poder Judicial, consejeros de la Judicatura, Diputados locales, Procurador General de Justicia y Secretario General de Gobierno, o quien haga sus veces, si no se encuentran separados de sus cargos, cuando menos 120 días antes de la elección;
@@ -1776,8 +1774,6 @@ XX.- Ejercer la superior inspección de la Hacienda Pública del Estado y velar 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 XXI.- Celebrar, en los términos de ley, con el Ejecutivo Federal, las dependencias y entidades de la Administración Pública, las Entidades Federativas y los Municipios los convenios y acuerdos necesarios para el desarrollo económico y social de la Nación, el Estado y los Municipios. Asimismo, podrá inducir y concertar con los particulares acciones destinadas al mismo objeto;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -1957,13 +1953,11 @@ El Secretario General de Gobierno tendrá responsabilidad solidaria con el Gober
 
 La ausencia temporal del Secretario General de Gobierno será cubierta por uno de los Subsecretarios del ramo, con las prerrogativas, obligaciones y responsabilidades que establecen los Artículos 95, 96, 97 y 98 de esta Constitución.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO No. LX-706, PUBLICADO EN EL P.O. DE 17 DE JUNIO DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE TÍTULO, QUEDANDO CONFORMADO DE DOS CAPÍTULOS; Y EN RELACIÓN CON LA ENTRADA EN VIGOR DEL MISMO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO No. LX-706, PUBLICADO EN EL P.O. DE 17 DE JUNIO DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE TÍTULO, QUEDANDO CONFORMADO DE DOS CAPÍTULOS.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ## TITULO VI. DEL PODER JUDICIAL
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -1979,13 +1973,9 @@ El ejercicio del Poder Judicial se deposita en el Supremo Tribunal de Justicia, 
 
 La administración, vigilancia y disciplina del Poder Judicial del Estado, con excepción del Pleno del Supremo Tribunal de Justicia, estará a cargo del Consejo de la Judicatura del Poder Judicial del Estado, en los términos que al efecto señale esta Constitución y la ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 El Consejo de la Judicatura es un órgano del Poder Judicial del Estado con independencia técnica, de gestión y para emitir sus resoluciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -2013,8 +2003,6 @@ La justicia se impartirá en nombre de la ley, la que determinará las formalida
 
 En los términos que disponen las leyes, es obligatorio para los servidores públicos y para toda persona, cumplir las sentencias y demás resoluciones firmes del Supremo Tribunal de Justicia; así como prestar la colaboración solicitada por éste en el curso de un proceso o en la ejecución de lo resuelto. La autoridad requerida en forma, deberá proporcionar el auxilio necesario para ello, bajo pena de hacerse acreedora a las sanciones que la ley determine.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 104.
@@ -2026,8 +2014,6 @@ Los servidores públicos del Poder Judicial del Estado deberán rendir la protes
 ###### Art. 105.
 
 Los delitos y responsabilidades imputables a los servidores públicos del Poder Judicial, se sustanciarán y sancionarán de acuerdo con lo dispuesto por el Título XI de esta Constitución.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -2069,21 +2055,15 @@ El Consejo de la Judicatura del Estado funcionará en Pleno o en comisiones. El 
 
 III.- (DEROGADA, P.O. 13 DE JUNIO DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 107.
 
 El Poder Judicial del Estado goza de autonomía presupuestal, orgánica y funcional. Para garantizar su independencia económica, el presupuesto de egresos del Poder Judicial no podrá ser inferior del 1.3 % del total del presupuesto general del Estado previsto para el año fiscal a ejercer, mismo que administrará, ejercerá y justificará en los términos que fijen las leyes respectivas, y cuya asignación por concepto de gasto corriente no podrá ser menor al aprobado por el Congreso para el ejercicio anual inmediato anterior. En caso de que al término del ejercicio existan sumas no erogadas, se enterarán a la Hacienda del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 Los Magistrados del Poder Judicial, los consejeros de la Judicatura y los jueces percibirán remuneración adecuada e irrenunciable, determinada anualmente, la cual no podrá ser disminuida durante su encargo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -2107,8 +2087,6 @@ Los Magistrados del Supremo Tribunal de Justicia serán nombrados o ratificados 
 
 Si la vacante para la integración del Supremo Tribunal de Justicia se produce encontrándose en receso el Congreso del Estado, la Diputación Permanente lo convocará de inmediato a Sesiones Extraordinarias para conocer de dicho asunto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 110.
@@ -2130,8 +2108,6 @@ III.- Padecer incapacidad física o mental que los imposibilite para el desempe�
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
 IV.- Renunciar a su cargo o situarse en el supuesto que prevé el segundo párrafo del artículo 112 de esta Constitución.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -2173,13 +2149,9 @@ No podrán formar parte del Supremo Tribunal de Justicia, o del Consejo de la Ju
 
 Ningún servidor público del Poder Judicial, aun con licencia, podrá ser abogado de terceros, apoderado en negocios ajenos, asesor, árbitro de derecho o arbitrador, ni desempeñar ningún otro empleo, cargo o comisión, ya sea público o privado, por el que reciba remuneración alguna; salvo los casos de docencia, investigación, literatura o beneficencia. Quien contravenga esta disposición será separado de su encargo, de acuerdo al trámite que disponga la ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 Las ausencias temporales o definitivas de los Magistrados o de los consejeros serán cubiertas en términos de esta Constitución y de la ley, en su caso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -2194,8 +2166,6 @@ I.- De la controversia constitucional local, que podrán promover los Poderes de
 II.- De la acción de inconstitucionalidad local, para impugnar normas generales expedidas por el Congreso del Estado o por un Ayuntamiento, que sean contrarias a esta Constitución. Podrán promoverla los Diputados tratándose de normas generales expedidas por el Congreso del Estado, o por los síndicos y regidores tratándose de normas generales expedidas por su respectivo Ayuntamiento, en los términos que determine la ley. Esta acción también podrá promoverla el Procurador General de Justicia del Estado y, tratándose de normas generales que violen derechos humanos previstos por esta Constitución, por el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas.
 
 Las sentencias dictadas para resolver los asuntos planteados conforme a las fracciones I y II de este artículo, que declaren inconstitucional una norma general, tendrán efectos generales cuando sean votados por las dos terceras partes de los integrantes del Pleno Supremo Tribunal de Justicia, a partir de la fecha en que sean publicadas en el Periódico Oficial del Estado o de la fecha posterior a la publicación que la propia resolución ordene.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -2246,8 +2216,6 @@ XIII.- Acordar, en los casos que considere necesario, la propuesta al Gobernador
 XIV.- Nombrar, a los jueces de primera instancia y a los jueces menores y, en su caso, determinar sobre su ratificación con base en la propuesta correspondiente del Consejo de la Judicatura;
 
 XV.- Tomar la protesta de ley, por conducto del Presidente, a los jueces de primera instancia, los jueces menores y los jueces de paz;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -2369,8 +2337,6 @@ En los casos de retiro forzoso, jubilación, incapacidad o defunción, las prest
 
 En las causas que hubieren de formarse a los Magistrados en funciones, una vez que el Congreso del Estado, actuando como órgano de acusación, declare por la afirmativa, se remitirá la causa en los términos previstos por esta Constitución y la ley, al Pleno del Supremo Tribunal de Justicia, el cual emitirá la resolución que corresponda en cada caso. Deberá resolverse cada asunto por separado y el Procurador General de Justicia tendrá en ellas la intervención que le confiere la legislación aplicable.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ### CAPITULO II. De los Otros Órganos de Impartición de Justicia
@@ -2381,15 +2347,11 @@ En las causas que hubieren de formarse a los Magistrados en funciones, una vez q
 
 Para la impartición de justicia, el Pleno del Supremo Tribunal de Justicia designará jueces de primera instancia y jueces menores, conforme lo determine la ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 118.
 
 Los jueces integrantes del Poder Judicial serán nombrados por el Pleno del Supremo Tribunal de Justicia, a propuesta del Consejo de la Judicatura.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -2417,8 +2379,6 @@ El Consejo de la Judicatura determinará el número de jueces de primera instanc
 
 Los jueces de primera instancia y los jueces menores serán los necesarios para el despacho pronto y expedito de los asuntos de su competencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 Los jueces de primera instancia durarán en su cargo tres años y podrán ser ratificados por periodos iguales. Al efecto, el Pleno del Supremo Tribunal de Justicia considerará la propuesta del Consejo de la Judicatura.
@@ -2428,8 +2388,6 @@ Los jueces de primera instancia durarán en su cargo tres años y podrán ser ra
 ###### Art. 123.
 
 Toda parte interesada puede interponer queja, en los términos que señale la ley, cuando a su juicio, los Magistrados, Jueces o demás servidores del Poder Judicial incurran en faltas administrativas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -2519,8 +2477,6 @@ El titular de la presidencia de la Comisión de Derechos Humanos del Estado de T
 
 ### CAPITULO UNICO. Disposiciones generales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, P.O. 5 DE MAYO DE 2009)</small>
 
 ###### Art. 127.
@@ -2531,8 +2487,6 @@ En materia penal y en la imputación de conductas previstas como delito por las 
 
 La defensoría pública podrá representar a quien de acuerdo a los requisitos y condiciones previstos por la ley lo solicite en asuntos de carácter familiar o civil. A su vez, podrá brindar asesoría en otras materias en los términos que prevea la ley, con base en los recursos presupuestales de que disponga.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, P.O. 5 DE MAYO DE 2009)</small>
 
 ###### Art. 128.
@@ -2540,8 +2494,6 @@ La defensoría pública podrá representar a quien de acuerdo a los requisitos y
 La ley dispondrá la organización del servicio de defensoría pública, tanto en materia penal como de representación en asuntos familiares o civiles y para el otorgamiento de asesorías legales. Tendrá un titular designado por el Ejecutivo del Estado y los defensores y asesores que sustente el presupuesto de egresos. Los defensores no podrán tener percepciones inferiores a las que corresponden a los agentes de Ministerio Público.
 
 El cargo de defensor público o de asesor es incompatible con cualquier otro cargo, empleo o comisión en los sectores público, social o privado, excepto en la realización de actividades docentes, de investigación, literarias o de beneficencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 5 DE MAYO DE 2009)</small>
 
@@ -2683,6 +2635,10 @@ En lo conducente y de conformidad a los fines señalados en el párrafo tercero 
 
 Cuando dos o más centros urbanos situados en territorios municipales de este Estado y otro u otros Estados formen o tiendan a formar una continuidad demográfica, la Federación, las entidades federativas participantes y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la ley federal de la materia.
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+No estará permitido en el Estado expedir autorizaciones, permisos o licencias sobre uso de suelo o construcción para casinos, centros de apuestas, salas de sorteos, casas de juego o similares, cualquiera que sea su denominación, así como para centros donde se presenten espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales. Los programas de ordenamiento territorial y desarrollo urbano municipal deberán establecer esta prohibición en su contenido.
+
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
 
 ###### Art. 135.
@@ -2754,6 +2710,14 @@ La Ley determinará cuales son las profesiones que necesitan título para su eje
 ###### Art. 143.
 
 El Ejecutivo podrá celebrar con la Federación y los Municipios, convenios sobre coordinación de los Servicios de Educación Pública, reservándose las facultades necesarias y asegurando la estabilidad de los Profesores al servicio del Estado; se determinará en la Ley los estímulos y recompensas a los Profesores, en atención al mérito de sus labores y a la antigüedad de sus servicios.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+###### Art. 143 Bis.
+
+La Universidad Autónoma de Tamaulipas es un órgano autónomo reconocido por esta Constitución, se considera la máxima institución de educación superior y de posgrado del Estado, la cual realizará sus fines de educar, investigar y difundir la cultura de acuerdo a los principios constitucionales en materia de educación, respetando la libertad de cátedra e investigación, así como de libre examen y discusión de las ideas. Gozará de independencia para gobernarse, expedir su normatividad interna y nombrar a sus autoridades, personal docente y administrativo, con excepción del titular de su órgano interno de control, el cual será designado por el Congreso del Estado en los términos de la ley.
+
+Se le asignará una partida del Presupuesto de Egresos del Estado para su funcionamiento. Los recursos estatales que le sean otorgados, serán fiscalizados por la Auditoría Superior del Estado, sin perjuicio de que los recursos públicos federales que reciba sean fiscalizados por las instancias competentes de la Federación, de conformidad con la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2001)</small>
 
@@ -2878,8 +2842,6 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la present
 ###### Art. 151.
 
 Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Estado, los Consejeros de la Judicatura, los Jueces, los Secretarios del Ejecutivo, el Procurador General de Justicia, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas, los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos y los integrantes de los Ayuntamientos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -4059,8 +4021,6 @@ P.O. 12 DE DICIEMBRE DE 2007.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO SEGUNDO.
@@ -4686,6 +4646,30 @@ Los trabajadores de base que se encuentren prestando sus servicios en el Tribuna
 ###### ARTÍCULO DÉCIMO.
 
 El Sistema Estatal Anticorrupción deberá conformarse de acuerdo con la Constitución Política de los Estados Unidos Mexicanos, las Leyes Generales, la Constitución Política del Estado de Tamaulipas y las leyes del Estado que resulten aplicables.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-179 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 143 BIS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 2 DE JUNIO DE 2017.
+
+[N. DE. E TRANSITORIOS DEL "DECRETO NO. LXIII-180 MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO CUARTO AL ARTÍCULO 134 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, Y SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS Y DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a lo previsto en este Decreto.
 
 ###### ARTÍCULO SEXTO.
 
