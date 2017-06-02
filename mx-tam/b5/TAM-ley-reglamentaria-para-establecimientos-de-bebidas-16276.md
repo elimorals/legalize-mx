@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-para-establecimientos-de-bebidas-16276"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-05"
-last_updated: "2017-02-16"
+last_updated: "2017-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 16 DE FEBRERO DE 2017 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO LXIII-92 PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 5 de abril de 2000.
 
@@ -319,9 +317,13 @@ Son obligaciones de los propietarios, representantes legales o encargados de los
 
 I.- Impedir la enajenación y consumo de bebidas alcohólicas a menores de edad, a personas que no estén en pleno goce de sus facultades mentales, a personas armadas o bajo los efectos de psicotrópicos, así como a los elementos del ejército, armada, policía uniformada y visitadores en el desempeño de sus funciones, debiendo fijar letreros visibles en el interior del establecimiento, señalando esta prohibición;
 
-II.- Impedir conductas que tiendan a alentar, favorecer o tolerar la prostitución, así como de no permitir en su establecimiento la presentación de cualquier tipo de espectáculo que altere el orden, ofenda la moral o las buenas costumbres;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-III.- Impedir que los clientes practiquen en el lugar juegos prohibidos por la ley o que crucen apuestas en juegos permitidos, salvo que disposiciones federales lo autoricen;
+II.- Impedir conductas que tiendan a alentar, favorecer o tolerar la prostitución o que los clientes tengan cualquier tipo de interacción que implique contacto físico impúdico con las meseras o meseros, artistas que se presenten, bailarinas o bailarines o cualquier empleada o empleado del lugar, así como de no permitir en su establecimiento la presentación de espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+III.- Impedir que los clientes practiquen en el lugar juegos prohibidos por la ley o que crucen apuestas en juegos permitidos o que dentro del establecimiento se lleven a cabo apuestas o de juegos de azar;
 
 IV.- Retirar del establecimiento a las personas ebrias, cuando causen desorden, actos reñidos con la moral, para lo cual solicitarán, si fuere necesario, el auxilio de la fuerza pública;
 
@@ -367,9 +369,21 @@ II.- Quienes hayan sufrido condena por delitos fiscales, sexuales, contra la vid
 
 III.- Los que hubieren tenido licencia o permiso y hayan cedido los derechos del mismo a terceras personas;
 
-IV.- Quienes en los tres años anteriores a la fecha de su solicitud hubieren sido sancionados con la cancelación de una licencia; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-V.- Reincidentes en la infracción de disposiciones sobre la materia.
+IV.- Quienes en los tres años anteriores a la fecha de su solicitud hubieren sido sancionados con la cancelación de una licencia;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+V.- Reincidentes en la infracción de disposiciones sobre la materia;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+VI.- Lugares en los que se lleve a cabo la presentación de espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales; y
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+VII.- Lugares en lo que se lleven a cabo juegos prohibidos por la ley o que crucen apuestas en juegos permitidos o que dentro del establecimiento se lleven a cabo apuestas o de juegos de azar.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -749,9 +763,21 @@ k).- Cuando, exigida la presentación del original de la licencia o permiso de f
 
 l).- Cuando se enajenen bebidas alcohólicas al mayoreo a establecimientos no autorizados en los términos de esta ley;
 
-m).- Cuando el establecimiento haya dejado de reunir cualquiera de los requisitos que establece la presente ley o se incurra por parte de los propietarios en actos u omisiones graves, con excepción de lo dispuesto en la fracción siguiente; y
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-n).- Cuando no se fijen letreros señalando que se impide la entrada a menores de edad conforme a lo establecido en la fracción XII del artículo 16 de esta ley.
+m).- Cuando el establecimiento haya dejado de reunir cualquiera de los requisitos que establece la presente ley o se incurra por parte de los propietarios en actos u omisiones graves, con excepción de lo dispuesto en la fracción siguiente;
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+n).- Cuando no se fijen letreros señalando que se impide la entrada a menores de edad conforme a lo establecido en la fracción XII del artículo 16 de esta ley;
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+ñ).- Permitir que los clientes tengan cualquier tipo de interacción que implique contacto físico con fines lascivos o sexuales con las meseras o meseros, artistas que se presenten, bailarinas o bailarines o cualquier empleada o empleado del lugar; y
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+o).- Que dentro del establecimiento se lleven a cabo apuestas o de juegos de azar.
 
 II.- Procede la clausura definitiva:
 
@@ -763,7 +789,7 @@ c).- Cuando se permita, dentro del establecimiento, conductas que tiendan a alen
 
 d).- Cuando se enajenen, o en el establecimiento se permita el consumo de bebidas alcohólicas a menores de edad, a personas que no estén en pleno goce de sus facultades mentales, a personas armadas o bajo los efectos de psicotrópicos, elementos del ejército, armada, policía uniformada y visitadores en el desempeño de sus funciones;
 
-e).- Cuando se transfiera la licencia o permiso respectivo en contravención a lo dispuesto en el artículo 30 de esta ley, así como cuando sea utilizada en algún establecimiento por persona distinta a su propietario;
+e).- Cuando se transfiera la licencia o permiso respectivo en contravención a lo dispuesto en el Artículo 30 de esta ley, así como cuando sea utilizada en algún establecimiento por persona distinta a su propietario;
 
 f).- Cuando el establecimiento carezca de la licencia o permiso correspondiente o cuando el establecimiento continúe operando después de haberse notificado la cancelación de la licencia;
 
@@ -783,9 +809,17 @@ m).- Cuando el propietario, el encargado o el empleado de los establecimientos i
 
 n).- Cuando se operen establecimientos en contravención a lo dispuesto en la fracción XII del artículo 25 de esta ley;
 
-ñ).- Cuando se proporcionen datos falsos a las autoridades en cualquiera de los trámites previstos en esta ley; y
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-o).- Cuando se realice el almacenamiento, distribución y enajenación de bebidas alcohólicas en los lugares señalados en las fracciones IV y V del artículo 62 de esta ley;
+ñ).- Cuando se proporcionen datos falsos a las autoridades en cualquiera de los trámites previstos en esta ley;
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+o).- Cuando se realice el almacenamiento, distribución y enajenación de bebidas alcohólicas en los lugares señalados en las fracciones IV y V del artículo 62 de esta ley; y
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+p).- Cuando dentro del establecimiento se lleve a cabo la presentación de espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales.
 
 ###### ARTICULO 54.
 
@@ -1182,3 +1216,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-180 MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO CUARTO AL ARTÍCULO 134, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, Y SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS Y DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a lo previsto en este Decreto.
