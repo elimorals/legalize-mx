@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interno-del-archivo-municipal-16603"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-06-16"
-last_updated: "2006-02-24"
+last_updated: "2017-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL
 
-REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL REGLAMENTO DE LOS ARCHIVOS DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE QUERÉTARO, PUBLICADO EN EL P.O. DE 2 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2006.
+REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL DEL ESTADO DE QUERÉTARO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 16 de junio de 2000.
 
@@ -77,7 +79,7 @@ El acervo del Archivo Municipal es de carácter público, y está constituido pr
 
 > <small>N. DE E. DE CONFORMIDAD CON LAS MODIFICACIONES APROBADAS Y PUBLICADAS, SE SEÑALA QUE SE REFORMA EL ARTICULO 7; SIN EMBARGO, DEL CONTEXTO SE DESPRENDE QUE EL CAMBIO CITADO CORRESPONDE AL PRESENTE ARTICULO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 4.
 
@@ -307,7 +309,7 @@ LIC. RICARDO DEL RÍO TREJO,
 
 SECRETARIO DEL AYUNTAMIENTO DE QUERÉTARO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 10 DE SEPTIEMBRE DE 2004.
 
@@ -332,3 +334,27 @@ PRIMERO. Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobie
 SEGUNDO. La presente reforma entrara en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
 
 TERCERO. Notifíquese a los titulares de las Dependencias, Organismos y Unidades Municipales, que conforman la presente Administración.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE LOS ARCHIVOS DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Acuerdo en la Gaceta Oficial del Ayuntamiento del Municipio de Querétaro y en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente acuerdo entrará en vigor el día siguiente a la fecha de la primera de las dos publicaciones mencionadas en el artículo transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interno del Archivo Municipal publicado el 25 (sic) de junio de 2000 en la Gaceta Municipal, y se derogan todas las disposiciones que se opongan al presente.
+
+###### ARTÍCULO CUARTO.
+
+Se instruye a la Secretaría de Administración para que, en coordinación con la Dirección de Archivo Municipal, realicen en un plazo no mayor a 90 días naturales los trabajos correspondientes para la adecuación a los manuales de procedimientos y de organización, de conformidad con el presente Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+Notifíquese el presente Acuerdo a los titulares de la Secretaría de Administración y la Auditoría Municipal de Fiscalización.
