@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-del-instituto-estatal-de-educacion-para-730
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-19"
-last_updated: "2010-02-19"
+last_updated: "2017-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73060&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE EDUCACION PARA ADULTOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE EDUCACIÓN PARA ADULTOS, PUBLICADO EN EL P.O. DE 2 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE EDUCACION PARA ADULTOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 19 de febrero de 2010.
 
@@ -325,7 +327,7 @@ VII. Proporcionar en el ámbito de su competencia la información requerida por 
 
 VIII. Vigilar el estricto cumplimiento de los horarios de trabajo del personal a su cargo y reportar las incidencias a las instancias correspondientes.
 
-IX. Dar cumplimento a lo establecido por la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila, previo acuerdo con la Coordinación de Asuntos Jurídicos.
+IX. Dar cumplimento (sic) a lo establecido por la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila, previo acuerdo con la Coordinación de Asuntos Jurídicos.
 
 X. Informar en tiempo y forma a su superior jerárquico y a la Coordinación de Asuntos Jurídicos de cualquier irregularidad detectada en la aplicación y uso del presupuesto, los bienes y el incumplimiento u omisión de las normas que realice el personal a su cargo.
 
@@ -1406,3 +1408,13 @@ Profra. María Elena Alvarado Morales
 Directora General del Instituto Estatal de Educación para Adultos
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE EDUCACIÓN PARA ADULTOS".]
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto Estatal de Educación para Adultos, publicado en el Periódico Oficial del Gobierno del Estado número 15, del 19 de febrero de 2010 y se derogan todas las disposiciones que se opongan a este Reglamento.
