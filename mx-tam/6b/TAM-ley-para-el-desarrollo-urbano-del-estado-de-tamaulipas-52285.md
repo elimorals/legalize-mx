@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-urbano-del-estado-de-tamaulipas-52285"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-25"
-last_updated: "2016-12-21"
+last_updated: "2017-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de abril de 2006.
 
@@ -705,6 +705,10 @@ XXVI. Aprobar o negar, en su caso, los procesos de regularización de la tenenci
 
 2. Las atribuciones a que se refiere este artículo serán ejercidas por el Ayuntamiento y en su caso por las autoridades administrativas del mismo que se determinen en el Código Municipal y demás leyes y reglamentos aplicables.
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+3. Los Ayuntamientos en ningún caso podrán otorgar licencias para la construcción de casinos, centros de apuestas, salas de sorteos, casas de juegos o similares, cualquiera que sea su denominación, así como para centros donde se presenten espectáculos con personas que realicen actos de exhibicionismo corporal o con fines lascivos o sexuales. La presente prohibición, deberá considerarse en la observancia de las fracciones I, X y XXIII del presente artículo.
+
 ###### ARTÍCULO 13.
 
 Las atribuciones concurrentes que en materia de desarrollo urbano contempla esta ley, serán ejercidas de manera coordinada por las autoridades estatales y municipales en los ámbitos de su jurisdicción y competencia.
@@ -891,7 +895,9 @@ VIII. Cartografía; y
 
 IX. Los demás aspectos que orienten, regulen y promuevan el desarrollo urbano sustentable de la entidad federativa.
 
-4. Los programas que conforman el Sistema Estatal tendrán por objeto fomentar el desarrollo sustentable y determinar la expansión y densificación de los asentamientos humanos, o ambos, en función de las características naturales del territorio, tales como su topografía, edafología, hidrología, clima, riesgo o vulnerabilidad para establecer su uso de suelo, y sus compatibilidades urbanísticas.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+4. Los programas que conforman el Sistema Estatal tendrán por objeto fomentar el desarrollo sustentable y determinar la expansión y densificación de los asentamientos humanos, o ambos, en función de las características naturales del territorio, tales como su topografía, edafología, hidrología, clima, riesgo o vulnerabilidad para establecer su uso de suelo y sus compatibilidades urbanísticas. En el contenido de los planes o programas de desarrollo urbano deberá establecerse la prohibición de uso de suelo para casinos, centros de apuestas, salas de sorteos, casas de juego o similares, cualquiera que sea su denominación, así como para centros donde se presenten espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales.
 
 5. Los programas previstos en esta ley deberán contener los elementos básicos que hagan posible su congruencia y uniformidad para su debida ejecución técnica, jurídica y administrativa.
 
@@ -1879,9 +1885,9 @@ No producirán efecto jurídico alguno los actos, convenios o contratos relativo
 
 ###### ARTÍCULO 75.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-1. La licencia de uso de suelo será expedida mediante acuerdo fundado y motivado por la autoridad municipal, de conformidad con esta ley y lo establecido en el Código Municipal para el Estado de Tamaulipas, en lo aplicable y, en el Plan o Programa de Ordenamiento Territorial y Desarrollo Urbano.
+1. La licencia de uso de suelo será expedida mediante acuerdo fundado y motivado por la autoridad municipal, de conformidad con esta ley y lo establecido en el Código Municipal para el Estado de Tamaulipas, en lo aplicable y, en el Plan o Programa de Ordenamiento Territorial y Desarrollo Urbano. En ningún caso se expedirán licencias de uso de suelo para casinos, centros de apuestas, salas de sorteos, casas de juego o similares, cualquiera que sea su denominación, así como para centros donde se presenten espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales.
 
 2. La licencia de uso de suelo tiene por objeto:
 
@@ -1893,9 +1899,9 @@ III. Determinar los estudios aplicables que deberá elaborar y presentar el inte
 
 ###### ARTÍCULO 76.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-1. La licencia de uso de la edificación será expedida mediante acuerdo fundado y motivado, por la autoridad municipal, de conformidad con esta ley, y el Código Municipal para el Estado de Tamaulipas.
+1. La licencia de uso de la edificación será expedida mediante acuerdo fundado y motivado, por la autoridad municipal, de conformidad con esta ley y el Código Municipal para el Estado de Tamaulipas. En ningún caso, se expedirán licencias de uso de la edificación para casinos, centros de apuestas, salas de sorteos, casas de juego o similares, cualquiera que sea su denominación, así como para centros donde se presenten espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales.
 
 2. La autorización de uso de la edificación tiene por objeto:
 
@@ -1953,7 +1959,9 @@ VI. Realizar el pago de los derechos correspondientes.
 
 ###### ARTÍCULO 80.
 
-1. La autorización de licencia de construcción será expedida por la autoridad municipal de conformidad con esta ley, las demás disposiciones de carácter general en materia de desarrollo urbano y de construcción y lo establecido en el Programa de Ordenamiento Territorial y Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+1. La autorización de licencia de construcción será expedida por la autoridad municipal de conformidad con esta ley, las demás disposiciones de carácter general en materia de desarrollo urbano y de construcción y lo establecido en el Programa de Ordenamiento Territorial y Desarrollo Urbano. En ningún caso, se expedirán licencias de construcción para casinos, centros de apuestas, salas de sorteos, casas de juego o similares, cualquiera que sea su denominación, así como para centros donde se presenten espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales.
 
 2. La autorización de la Licencia de Construcción tiene por objeto determinar:
 
@@ -2031,7 +2039,9 @@ La Secretaría aplicará las medidas de seguridad y las sanciones que establece 
 
 ###### ARTÍCULO 85.
 
-1. La autorización de uso de edificación la expedirá la autoridad municipal respecto de cualquier actividad que se proponga, una vez que se haya realizado la inspección que compruebe que el inmueble está habilitado para cumplir con las funciones propias de dicha actividad sin menoscabo de la salud e integridad de quienes la vayan a aprovechar.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+1. La autorización de uso de edificación la expedirá la autoridad municipal respecto de cualquier actividad que se proponga, una vez que se haya realizado la inspección que compruebe que el inmueble está habilitado para cumplir con las funciones propias de dicha actividad sin menoscabo de la salud e integridad de quienes la vayan a aprovechar. En ningún caso se expedirá autorización de uso de edificación para casinos, centros de apuestas, salas de sorteos, casas de juego o similares, cualquiera que sea su denominación, así como para centros donde se presenten espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales.
 
 2. Si la autorización prevista en el párrafo anterior se solicita con respecto a edificaciones nuevas o ampliaciones y reparaciones de las ya existentes, la autoridad municipal verificará que las obras se hayan realizado conforme a los permisos y proyectos autorizados.
 
@@ -2249,13 +2259,13 @@ I. A quien se encuentre en el supuesto establecido en la fracción I, se le apli
 
 II. A quien se encuentre en el supuesto contemplado en las fracciones II y IV, del artículo 100, de esta ley, se le aplicará una sanción consistente en la suspensión o demolición de construcciones e instalaciones, y suspensión de permisos o autorizaciones para construir o realizar cualquier tipo de obra en ese mismo predio por un plazo de seis a diez meses, y multa de dos mil a tres mil veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-III. A quien se encuentre en alguno de los supuestos contemplados en las fracciones III, V y VI, del artículo 100, de esta ley, la suspensión o demolición de construcciones e instalaciones, y multa de setecientas a mil veces el valor diario de la Unidad de Medida y Actualización;
+III. A quien se encuentre en alguno de los supuestos contemplados en las fracciones III, V y VI, del artículo 100, de esta ley, la suspensión o demolición de construcciones e instalaciones, y multa de setecientas a mil veces el valor diario de la Unidad de Medida y Actualización. Si la construcción tiene como fin albergar casinos, centros de apuestas, salas de sorteos, casas de juego o similares, cualquiera que sea su denominación, así como para centros donde se presenten espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales; las sanciones aplicables serán suspensión, demolición o clausura, y multa equivalente al importe de cinco mil a diez mil veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-IV. A quien se encuentre en el supuesto contemplado en la fracción VII, la revocación en su caso, de las autorizaciones y permisos otorgados, y multa que será de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización;
+IV. A quien se encuentre en el supuesto contemplado en la fracción VII, la revocación en su caso, de las autorizaciones y permisos otorgados, y multa que será de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización. Si el uso dado está relacionado con la instalación u operación de casinos, centros de apuestas, salas de sorteos, casas de juego o similares, cualquiera que sea su denominación, así como para centros donde se presenten espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales; las sanciones aplicables serán la revocación y multa equivalente al importe de cinco mil a diez mil veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -2520,3 +2530,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-180 MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO CUARTO AL ARTÍCULO 134 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS Y SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS Y DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a lo previsto en este Decreto.
