@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-de-los-servidores-publicos-del-8198"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-03"
-last_updated: "2016-12-21"
+last_updated: "2017-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 3 de marzo de 1984.
 
@@ -48,6 +48,8 @@ SEGUNDO.- Que habiéndose decretado por esa Soberanía con fecha 29 de diciembre
 DECRETO: No. 10
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+
+> <small>[N. DE E. EL PRESENTE TÍTULO QUEDA DEROGADO POR LO QUE SE REFIERE A LA MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 2 DE JUNIO DE 2017; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 19 DE JULIO DE 2017.]</small>
 
 ## TITULO PRIMERO
 
@@ -390,6 +392,8 @@ En lo que se refiere al Gobernador, Diputados locales y Magistrados del Supremo 
 ###### ARTICULO 45.
 
 En todas las cuestiones relativas al procedimiento no previstas en esta Ley, así como en la apreciación de las pruebas, se observarán las disposiciones del Código de Procedimientos Penales del Estado. Asimismo, se atenderán, en lo conducente, las del Código Penal de la propia Entidad.
+
+> <small>[N. DE E. EL PRESENTE TÍTULO QUEDA DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 2 DE JUNIO DE 2017; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 19 DE JULIO DE 2017.]</small>
 
 ## TITULO TERCERO. RESPONSABILIDADES ADMINISTRATIVAS
 
@@ -793,6 +797,8 @@ III.- Prescribirán en cinco años las responsabilidades consideradas como grave
 
 El plazo de prescripción se contará a partir del día siguiente a aquel en que hubiere ocurrido en la causa de responsabilidad, o a partir del momento en que hubiese cesado, si fue de carácter continuo.
 
+> <small>[N. DE E. EL PRESENTE TÍTULO QUEDA DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 2 DE JUNIO DE 2017, ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 19 DE JULIO DE 2017.]</small>
+
 ## TITULO CUARTO
 
 ### CAPITULO I
@@ -1096,3 +1102,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-183 MEDIANTE EL CUAL SE EXPIDE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS”.]
+
+Artículo Primero. La presente Ley deberá publicarse en el Periódico Oficial del Estado y entrar en vigor el día 19 de julio de 2017, en que inicia la vigencia de la Ley General de Responsabilidades Administrativas.
+
+Articulo Segundo. Se derogan los Títulos Primero, por lo que se refiere a la materia de responsabilidades administrativas, Tercero y Cuarto de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas, expedida mediante Decreto No. 10, de fecha 29 de febrero de 1984, publicada en el Periódico Oficial del Estado No 18, del día 3 de marzo de 1984.
+
+Artículo Tercero. Con la salvedad a que se refiere el transitorio que antecede, se derogan todas aquellas disposiciones estatales que se opongan a lo establecido en el presente ordenamiento.
+
+Artículo Cuarto. Los procedimientos seguidos a servidores públicos que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de esta Ley, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron tales procedimientos.
