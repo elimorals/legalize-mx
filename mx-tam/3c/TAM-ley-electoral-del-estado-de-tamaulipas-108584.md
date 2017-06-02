@@ -4,7 +4,7 @@ identifier: "TAM-ley-electoral-del-estado-de-tamaulipas-108584"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-13"
-last_updated: "2016-12-21"
+last_updated: "2017-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108584&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY ELECTORAL DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ELECTORAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
 
 Ley publicada en el Anexo Extraordinario Número 4 del Periódico Oficial del Estado de Tamaulipas, el sábado 13 de junio de 2015.
 
@@ -1059,9 +1061,11 @@ El IETAM cumplirá la función de oficialía electoral con fe pública, a travé
 
 En el ejercicio de la oficialía electoral, el Secretario Ejecutivo dispondrá del apoyo de funcionarios del IETAM, conforme a las bases que se establezcan en la reglamentación aplicable.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 ###### Artículo 97.
 
-El IETAM contará con un contralor general que será designado por el Congreso del Estado por el voto de las dos terceras partes de sus miembros presentes, en términos de lo que dispone la Constitución del Estado y la ley aplicable.
+El IETAM contará con un Titular del Órgano Interno de Control que será designado por el Congreso del Estado por el voto de las dos terceras partes de sus miembros presentes, en términos de lo que dispone la Constitución del Estado y la ley aplicable.
 
 ###### Artículo 98.
 
@@ -1141,7 +1145,9 @@ III. La Secretaría Ejecutiva;
 
 IV. La Unidad de Fiscalización;
 
-V. La Contraloría General;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+V. El Órgano Interno de Control;
 
 VI. Las direcciones ejecutivas.
 
@@ -1233,7 +1239,9 @@ XVIII. Efectuar el cómputo total de la elección de Diputados por el principio 
 
 XIX. Informar al Poder Legislativo sobre el otorgamiento de las constancias de asignación de Diputados electos por el principio de representación proporcional, así como de los medios de impugnación interpuestos;
 
-XX. Conocer los informes que anual y trimestralmente, rinda por el Secretario Ejecutivo del IETAM, así como los que, en su caso, deba rendir la Contraloría General;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+XX. Conocer los informes que anual y trimestralmente, rinda por el Secretario Ejecutivo del IETAM, así como los que, en su caso, deba rendir el Órgano Interno de Control;
 
 XXI. Aprobar, anualmente y a más tardar la última semana del mes de agosto, el anteproyecto de presupuesto del IETAM que proponga el Presidente del Consejo General y remitirlo al Titular del Ejecutivo del Estado para su inclusión en el proyecto de Presupuesto de Egresos del Estado, el cual incluirá el financiamiento de los partidos políticos;
 
@@ -1543,9 +1551,11 @@ El Consejo General, de acuerdo con la disponibilidad presupuestal del IETAM, pod
 
 ### CAPÍTULO VIII. Unidad de Fiscalización
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
+
 ###### Artículo 121.
 
-Para el caso de que el INE delegue la función de fiscalización en el IETAM, en términos de lo que establecen los dos últimos párrafos del inciso b) del apartado B de la fracción V del Artículo 41 de la Constitución Federal, el IETAM contará con una Unidad de Fiscalización. El personal de la Unidad de Fiscalización está obligado a guardar reserva sobre el curso de las revisiones en las que tenga participación o sobre las que disponga de información. La Contraloría General del IETAM conocerá de las violaciones a esta norma y, en su caso, aplicará las sanciones que correspondan.
+Para el caso de que el INE delegue la función de fiscalización en el IETAM, en términos de lo que establecen los dos últimos párrafos del inciso b) del apartado B de la fracción V del Artículo 41 de la Constitución Federal, el IETAM contará con una Unidad de Fiscalización. El personal de la Unidad de Fiscalización está obligado a guardar reserva sobre el curso de las revisiones en las que tenga participación o sobre las que disponga de información. El Órgano Interno de Control del IETAM conocerá de las violaciones a esta norma y, en su caso, aplicará las sanciones que correspondan.
 
 La Unidad de Fiscalización es el órgano técnico del Consejo General del IETAM que tiene a su cargo la recepción y revisión de los informes que presenten los partidos respecto del origen, destino y monto de los recursos que reciban por cualquier modalidad de financiamiento en caso de que esta función e sea delegada por el INE y se regirá por el acto de delegación que motive su actuar y por lo siguiente:
 
@@ -1565,33 +1575,61 @@ c) Informar, en términos de lo que establezca el acto de delegación que motive
 
 d) Las demás que le confieran las leyes aplicables.
 
-### CAPÍTULO IX. Contraloría General
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO IX. Órgano Interno de Control
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 ###### Artículo 122.
 
-La Contraloría General es el órgano de control interno del IETAM que tendrá a su cargo la fiscalización de los ingresos y egresos del IETAM; en el ejercicio de sus atribuciones estará dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. El titular de la Contraloría General tendrá un nivel jerárquico equivalente a Director Ejecutivo.
+El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del propio órgano y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos estatales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+En el desempeño de su cargo, el Titular del Órgano Interno de Control se sujetará a los principios previstos en la ley en materia de responsabilidades administrativas del Estado.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 ###### Artículo 123.
 
-El titular de la Contraloría General será designado por el Congreso del Estado, con el voto de las dos terceras partes de sus miembros presentes, mediante convocatoria pública y conforme al procedimiento y en los plazos que contemple la ley interna del Congreso del Estado.
+El Titular del Órgano Interno de Control será designado por el Congreso del Estado, con el voto de las dos terceras partes de sus miembros presentes, mediante convocatoria pública y conforme al procedimiento y en los plazos que contemple la ley interna del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 ###### Artículo 124.
 
-El Contralor durará en su encargo seis años, y no podrá ser reelecto; estará adscrito administrativamente a la Presidencia del Consejo General, y contará con la estructura orgánica, personal y recursos que apruebe el Consejo General a propuesta del propio Contralor, de conformidad con las reglas previstas en este capítulo.
+El Titular del Órgano Interno de Control durará en su encargo seis años cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas.
+
+Tendrá un nivel jerárquico igual al de un Director General o su equivalente en la estructura orgánica del propio órgano, y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización del Estado a que se refiere el artículo 76 de la Constitución Política de (sic) del Estado de Tamaulipas.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 ###### Artículo 125.
 
-El Contralor General deberá reunir los mismos requisitos que esta Ley establece para los Directores Ejecutivos del IETAM, y los siguientes:
+El Titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
 
-I. No ser Consejero Electoral de cualquiera de los Consejos del IETAM;
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta años cumplidos el día de la designación;
 
-II. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; y
+II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
 
-III. Contar con título profesional legalmente expedido de contador público u otro relacionado en forma directa con las actividades de fiscalización.
+III. Contar al momento de su designación con experiencia en el control, manejo y fiscalización de recursos;
+
+IV. Contar al día de su designación, con título profesional en las áreas económicas, contables, jurídicas o administrativas, expedido por autoridad o institución legalmente facultada para ello;
+
+V. Contar con reconocida solvencia moral;
+
+VI. No pertenecer o haber pertenecido en los tres años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios o haber fungido como consultor o auditor externo del propio órgano, en lo individual durante ese periodo;
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
+
+VIII. No haber sido Secretario de Estado, Procurador General de Justicia de alguna de las entidades federativas, Diputado Local, Gobernador de algún Estado, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
 
 ###### Artículo 126.
 
-La Contraloría General tendrá las atribuciones siguientes:
+El Titular del Órgano Interno de Control tendrá las atribuciones siguientes:
 
 I. Fijar los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del IETAM;
 
@@ -1625,13 +1663,17 @@ XV. Dar vista al ministerio público cuando se tenga conocimiento o presuma la a
 
 XVI. Las demás que le otorgue esta Ley o las leyes aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 ###### Artículo 127.
 
-Los servidores públicos adscritos a la Contraloría General, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo de desempeño de sus facultades así como de sus actuaciones y observaciones.
+Los servidores públicos adscritos al Órgano Interno de Control, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades, así como de sus actuaciones y observaciones.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 ###### Artículo 128.
 
-Los órganos, áreas ejecutivas y servidores públicos del IETAM estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente la Contraloría, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta Ley o las leyes aplicables les confieren.
+Los órganos, áreas ejecutivas y servidores públicos del IETAM estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta Ley o las leyes aplicables les confieren.
 
 ###### Artículo 129.
 
@@ -3821,25 +3863,35 @@ En la sesión respectiva el Consejo General conocerá y resolverá sobre el proy
 
 A falta de disposición expresa en el presente capítulo, serán de aplicación supletoria, en lo conducente, las reglas de sustanciación y resolución del procedimiento establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 ###### Artículo 353.
 
-El órgano competente para aplicar la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas es la Contraloría General del IETAM, en términos del artículo 154 de la Constitución Política del Estado.
+El órgano competente para aplicar la ley en materia de responsabilidades administrativas del Estado, es el Órgano Interno de Control del IETAM, en términos del artículo 154 de la Constitución Política del Estado.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 ###### Artículo 354.
 
-Para los efectos del presente capítulo, serán considerados como servidores públicos del IETAM el Consejero Presidente, los Consejeros de los Consejos General Distritales y Municipales, el Secretario Ejecutivo, el Contralor General, los Directores Ejecutivos, el Director de la Unidad de Fiscalización, los jefes de unidades administrativas, los funcionarios, empleados y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el IETAM, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos del presente capítulo, serán considerados como servidores públicos del IETAM el Consejero Presidente, los Consejeros de los Consejos General Distritales y Municipales, el Secretario Ejecutivo, el Titular del Órgano Interno de Control, los Directores Ejecutivos, el Director de la Unidad de Fiscalización, los jefes de unidades administrativas, los funcionarios, empleados y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el IETAM, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 ###### Artículo 355.
 
-La Contraloría General del IETAM, su titular y el personal adscrito a la misma, cualquiera que sea su nivel, están impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones de naturaleza electoral que la Constitución Política del Estado y esta Ley confieren a los funcionarios del IETAM.
+El Órgano Interno de Control del IETAM, su titular y el personal adscrito a la misma, cualquiera que sea su nivel, están impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones de naturaleza electoral que la Constitución Política del Estado y esta Ley confieren a los funcionarios del IETAM.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 ###### Artículo 356.
 
-Serán causas de responsabilidad para los servidores públicos del IETAM las violaciones a lo dispuesto por el artículo 47 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas.
+Serán causas de responsabilidad para los servidores públicos del IETAM las violaciones a lo dispuesto en la ley en materia de responsabilidades administrativas del Estado.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 ###### Artículo 357.
 
-Los servidores públicos adscritos a la Contraloría General y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo de desempeño de sus facultades, así como de sus actuaciones y observaciones.
+Los servidores públicos adscritos al Órgano Interno de Control y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo de (sic) desempeño de sus facultades, así como de sus actuaciones y observaciones.
 
 ## TRANSITORIOS
 
@@ -3908,3 +3960,19 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-186 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS, LA LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y LA LEY CONSTITUTIVA DE LA UNIVERSIDAD AUTÓNOMA DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas que en éste se establecen, cuya vigencia surtirá efectos a partir de su expedición, con base en el artículo 3 párrafo 3 de la citada ley.
+
+###### ARTÍCULO SEGUNDO.
+
+La Convocatoria para designar a los titulares de los órganos internos de control de los órganos constitucionalmente autónomos, así como la del Titular de la Fiscalía Especializada en Combate a la Corrupción, por esta única ocasión deberán ser emitidas a la brevedad posible, a fin de dar puntual cumplimiento al término establecido para concluir la armonización legislativa en materia de combate a la corrupción y estar en condiciones para la entrada del nuevo Sistema Estatal Anticorrupción.
+
+###### ARTÍCULO TERCERO.
+
+Comuníquese el presente Decreto a la Universidad Autónoma de Tamaulipas, solicitando con pleno respeto a su autonomía institucional que, a la brevedad, tenga a bien homologar sus ordenamientos jurídicos internos en lo concerniente al Órgano Interno de Control y su titular, tomando en consideración las reformas planteadas en el presente Decreto, para así armonizar sus disposiciones a que haya lugar, en materia de combate a la corrupción.
