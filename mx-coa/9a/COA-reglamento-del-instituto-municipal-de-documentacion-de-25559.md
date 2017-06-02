@@ -4,7 +4,7 @@ identifier: "COA-reglamento-del-instituto-municipal-de-documentacion-de-25559"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-11-22"
-last_updated: "2014-12-16"
+last_updated: "2017-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO DEL INSTITUTO MUNICIPAL DE DOCUMENTACION DE TORREON, COAHUILA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL MUNICIPIO DE TORREÓN, COAHUILA, PUBLICADO EN LA PRIMERA SECCIÓN DEL P.O. DE 16 DE DICIEMBRE DE 2014 Y 2 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE DOCUMENTACIÓN DE TORREÓN, COAHUILA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL MUNICIPIO DE TORREÓN, COAHUILA MEDIANTE EL CUAL SE ABROGAN DIVERSOS REGLAMENTOS DEL SISTEMA DE NORMATIVIDAD MUNICIPAL, PUBLICADO EN EL P.O. DE 16 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Gaceta Municipal del Ayuntamiento de Torreón, del Estado de Coahuila, el viernes 22 de noviembre de 1996.
 
@@ -526,3 +526,9 @@ Primero.- Se autoriza la abrogación de los siguientes reglamentos del Sistema d
 Segundo.- Se instruye a la Secretaría del R. Ayuntamiento su publicación en el Periódico Oficial del Estado y/o Gaceta Municipal.
 
 Tercero.- Notifíquese el presente Acuerdo al Congreso del Estado, a las Direcciones de Contraloría, Desarrollo Institucional, y a los demás interesados para el cumplimiento que a cada uno de ellos corresponda.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDOS DEL MUNICIPIO DE TORREÓN, COAHUILA DE ZARAGOZA, MEDIANTE LOS CUALES SE APROBÓ LA ABROGACIÓN DE DIVEROSOS (SIC) REGLAMENTOS DEL SISTEMA DE NORMATIVIDAD MUNICIPAL".]
+
+[LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA VIGENTE.]
