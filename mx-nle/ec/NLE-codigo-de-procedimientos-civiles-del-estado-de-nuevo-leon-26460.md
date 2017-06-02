@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2017-02-24"
+last_updated: "2017-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -6711,11 +6711,13 @@ I.- Mientras no se pronuncie sentencia irrevocable la tutela interina debe limit
 
 Si ocurriere urgente necesidad de otros actos el tutor interino podrá obrar prudentemente previa autorización judicial;
 
-(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE DICIEMBRE DE 2005) (F. DE E., P.O. 20 DE ENERO DE 2006)
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-II.- El estado de demencia puede probarse con testigos o documentos, pero en todo caso se requiere la certificación de tres médicos cuando menos, que hayan realizado un examen físico para verificar el estado de demencia, retraso mental moderado, grave o profundo, alguna otra enfermedad o trastorno mental cuya gravedad impida un adecuado funcionamiento de sus facultades.
+II.- El estado de demencia puede probarse con testigos o documentos, pero en todo caso se requiere la certificación de tres médicos cuando menos, que hayan realizado un examen físico para verificar el estado de demencia, retraso mental moderado, grave o profundo, alguna otra enfermedad o trastorno mental cuya gravedad impida un adecuado funcionamiento de sus facultades;
 
-Para el caso de interdicción de las personas con discapacidad que presenten síndrome down, ésta también podrá certificarse, mediante la exhibición en la solicitud de un examen cariotipo para demostrar la existencia del trisomía veintiuno, o cualquier otro medio científico, que pueda determinarlo, expedido por cualquier institución médica de la entidad, certificada para realizar este tipo de pruebas por la Secretaría de Salud del Estado;
+El tutor puede nombrar un médico para que tome parte en la audiencia y se oiga su dictamen;
+
+Para el caso de interdicción de las personas con discapacidad que presenten síndrome (sic) down, o discapacidad intelectual permanente, genética o adquirida, éstas también podrá (sic) certificarse, según sea el caso, mediante la exhibición en la solicitud de un examen cariotipo para demostrar la existencia del trisomía veintiuno, el tamiz neonatal, o cualquier otro medio científico que pueda determinarlo, expedido por cualquier institución médica de la entidad, certificada para realizar este tipo de pruebas por la Secretaría de Salud del Estado.
 
 III.- Si la sentencia de primera instancia fuere declaratoria de estado, proveerá el juez aunque fuere apelada, o antes si hubiere necesidad urgente, a la patria potestad o tutela de las personas que estuvieren bajo la guarda del presunto incapacitado y a nombrar curador que vigile los actos del tutor interino en la administración de los bienes y cuidados de la persona;
 
@@ -9119,7 +9121,7 @@ Cuando fuere necesario esperar alguna persona a quien se hubiere llamado a la au
 
 ###### Artículo 40.
 
-Para cada asunto se formará un breve expediente con los documentos relativos a él, y, en todo caso, con el acta de la audiencia en la que muy suscintamente se relatarán los puntos principales y se asentará la sentencia así como lo relativo a su ejecución.
+Para cada asunto se formará un breve expediente con los documentos relativos a él, y, en todo caso, con el acta de la audiencia en la que muy suscintamente (sic) se relatarán los puntos principales y se asentará la sentencia así como lo relativo a su ejecución.
 
 Bastará que las actas sean autorizadas por el juez y el secretario o los testigos de asistencia en su caso; pero los interesados tendrán el derecho de firmarlas también, pudiendo sacar copias de ellas, cuya exactitud certificará el secretario previo cotejo si así se pidiere. El condenado que estuviere presente firmará en todo caso el acta, a menos de no sabr (sic) o estar físicamente impedido; si fuere posible se imprimirán sus huellas digitales.
 
@@ -9549,7 +9551,7 @@ P.O. 1º. DE FEBRERO DE 1975.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### Articulo 2º.
+###### Artículo 2º.
 
 El actual Presidente del Tribunal Superior de Justicia del Estado, continuará con igual carácter hasta el día primero de octubre de mil novecientos setenta y seis, fecha en la cual se procederá a la elección correspondientes en los términos indicados por esta Ley; lo anterior para efecto de garantizar la continuidad en la aplicación de la presente reforma.
 
@@ -10020,3 +10022,9 @@ P.O. 24 DE FEBRERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 239. SE REFORMA POR MODIFICACIÓN EL PRIMER PÁRRAFO DEL ARTÍCULO 624 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 260. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 14 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD; SE REFORMA POR MODIFICACIÓN LA FRACCIÓN II DEL ARTÍCULO 917 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
