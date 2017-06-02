@@ -4,7 +4,7 @@ identifier: "COA-reglamento-para-el-buen-gobierno-del-municipio-de-torreon-62302
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-04"
-last_updated: "2014-12-16"
+last_updated: "2017-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "COA"
 ---
 # REGLAMENTO PARA EL BUEN GOBIERNO DEL MUNICIPIO DE TORREON, COAHUILA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO EXPEDIDO POR EL MUNICIPIO DE TORREÓN, COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 2 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA EL BUEN GOBIERNO DEL MUNICIPIO DE TORREÓN, COAHUILA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO DE ACUERDO PRIMERO DEL MUNICIPIO DE TORREÓN, COAHUILA, PUBLICADO EN LA PRIMERA SECCIÓN DEL P.O. DE 16 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 4 de julio de 2008.
 
@@ -474,3 +474,13 @@ SECRETARIO DEL R. AYUNTAMIENTO
 P.O. 16 DE DICIEMBRE DE 2014.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA VIGENTE.
+
+P.O. 2 DE JUNIO DE 2017.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO “DEL MUNICIPIO DE TORREÓN, COAHUILA DE ZARAGOZA, MEDIANTE LOS CUALES SE APROBÓ LA ABROGACIÓN DE DIVEROSOS (SIC) REGLAMENTOS DEL SISTEMA DE NORMATIVIDAD MUNICIPAL”.]</small>
+
+Primero.- Se autoriza la abrogación de los siguientes reglamentos del Sistema de Normatividad Municipal:- 1) Reglamento a que se sujetará el funcionamiento de los negocios comerciales conocidos con los nombres de tabaretes, puestos fijos, puestossemifijos y carros de mano en el Municipio de Torreón.- 2) Reglamento del Instituto Municipal de Documentación de Torreón.- 3) Reglamento Interior de la Dirección Jurídica del Municipio.- 4) Reglamento para el Buen Gobierno del Municipio de Torreón.- 5) Reglamento para el Funcionamiento de Aparatos Mecánicos-Musicales en el Municipio de Torreón.- 6) Reglamento para el Funcionamiento de Juegos de Video, Mecánicos, Electromecánicos y Electrónicos del Municipio de Torreón.- 7) Reglamento para los Expendios de Carnes de la Ciudad de Torreón.- 8) Reglamento Interior del Comité Municipal contra el Vandalismo por Graffiti de Torreón.
+
+Segundo.- Se instruye a la Secretaría del R. Ayuntamiento su publicación en el Periódico Oficial del Estado y/o Gaceta Municipal.
+
+Tercero.- Notifíquese el presente Acuerdo al Congreso del Estado, a las Direcciones de Contraloría, Desarrollo Institucional, y a los demás interesados para el cumplimiento que a cada uno de ellos corresponda.
