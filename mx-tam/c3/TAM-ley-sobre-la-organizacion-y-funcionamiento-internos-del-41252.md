@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2017-05-30"
+last_updated: "2017-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -2213,11 +2213,9 @@ Este plazo podrá ampliarse por acuerdo del presidente del órgano que correspon
 
 ###### ARTICULO 133.
 
-> <small>N. DE E. VÉASE LA FE DE ERRATAS MEDIANTE LA QUE SE PRECISA "EL CITADO DECRETO NO SE PROMULGA ..."</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-(REFORMADO, P.O. 13 DE JUNIO DE 2015) (F. DE E., P.O. 30 DE JUNIO DE 2015)
-
-1. Para efectos de los nombramientos o ratificaciones, según sea el caso, de Magistrados del Supremo Tribunal de Justicia del Poder Judicial del Estado; el Contralor General del Instituto Electoral de Tamaulipas; del Titular de la Presidencia y de los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; de los comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas y del Procurador General de Justicia se seguirá el procedimiento señalado en esta Sección y, en su caso, el de las leyes que correspondan.
+1. Para efectos de los nombramientos o ratificaciones, según sea el caso, de Magistrados del Supremo Tribunal de Justicia del Poder Judicial del Estado; Magistrados del Tribunal de Justicia Administrativa; de los titulares de los órganos internos de control de los órganos constitucionalmente autónomos; del Titular de la Presidencia y de los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; de los comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas; del Procurador General de Justicia; y del Titular de la Fiscalía Especializada en Combate a la Corrupción se seguirá el procedimiento señalado en esta Sección y, en su caso, el de las leyes que correspondan.
 
 2. En tratándose de otros nombramientos cuyo perfeccionamiento requiera del concurso de la mayoría del Pleno del Congreso, sólo se requerirá la formulación y aprobación del dictamen correspondiente.
 
@@ -2261,21 +2259,31 @@ d) Intervención general de 5 minutos para la exposición de conclusiones, en ca
 
 7. (DEROGADO SÉPTIMO PÁRRAFO, P.O. 13 DE JUNIO DE 2015) (F. DE E., P.O. 30 DE JUNIO DE 2015)
 
-8. La designación del Contralor General del Instituto Electoral de Tamaulipas, se sujetará al siguiente procedimiento:
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del periodo para el que fue electo el Contralor General, la comisión ordinaria competente o la Diputación Permanente, emitirá una convocatoria pública a efecto de que los ciudadanos que cumplan con los requisitos constitucionales y legales estén en aptitud de poder ser considerados para ocupar el cargo.
+8. El nombramiento de los titulares de los órganos internos de control, se sujetará al siguiente procedimiento:
 
-b) La convocatoria considerará las etapas y procedimientos para la designación o reelección correspondiente, ordenando su publicación en el Periódico Oficial del Estado y en diarios de circulación en la entidad.
+a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del periodo para el que fue electo, la Junta de Coordinación Política, emitirá la convocatoria pública para la designación del Titular del Órgano Interno de Control correspondiente, la que deberá contemplar que los aspirantes acompañen su declaración de intereses, de conformidad con las disposiciones aplicables;
 
-c) La comisión ordinaria competente o la Diputación Permanente realizará la evaluación preliminar de los documentos recibidos por los aspirantes, emitiendo un dictamen en el que se señalarán a los candidatos que cumplieron con los requisitos contenidos en la convocatoria para ser considerados en la etapa de entrevistas o reuniones de trabajo. Se deberá motivar y fundar la exclusión de los aspirantes que no sean considerados para acceder a dicha etapa.
+b) Para ser Titular del Órgano Interno de Control de alguno de los organismos con autonomía reconocida en la Constitución y que ejerzan recursos del Presupuesto de Egresos del Estado, se deberán cumplir los requisitos que establezcan las leyes de dichos organismos autónomos;
 
-d) Agotadas las fases anteriores, se citará a los aspirantes a las reuniones de trabajo o entrevistas conforme a lo establecido en el párrafo 4 de este artículo. De ser necesario, las modalidades, duración y mecanismos de las referidas comparecencias serán determinadas mediante acuerdo emitido por la comisión ordinaria competente o la Diputación Permanente, según sea el caso.
+c) La convocatoria pública para la elección del Titular del Órgano Interno de Control, considerará las etapas y los procedimientos para la designación correspondiente, ordenándose su publicación en el Periódico Oficial del Estado, en la Gaceta Parlamentaria del Congreso del Estado, en la página de internet del Congreso y, preferentemente, en dos diarios de circulación en la Entidad;
 
-e) Concluida la etapa señalada en el inciso que antecede, la comisión ordinaria competente o la Diputación Permanente, según sea el caso, emitirá un dictamen final que concluirá con una propuesta de tres candidatos para el cargo.
+d) Una vez abierto el periodo a que se refiera la convocatoria correspondiente, se recibirán las solicitudes de los aspirantes, por duplicado, y la documentación a que se refiere el inciso a) y b) del presente procedimiento, el Presidente de la Mesa Directiva turnará los expedientes a las Comisiones Unidas de Transparencia y Acceso a la Información Pública, de Anticorrupción y Participación Ciudadana, y de Vigilancia de la Auditoría Superior del Estado o a la Diputación Permanente durante los recesos, para que se encarguen de realizar la revisión correspondiente a efecto de determinar aquellos aspirantes que acreditan el cumplimiento de los requisitos exigidos para el cargo, por la Constitución y las leyes secundarias correspondientes;
 
-f) El dictamen final a que hace referencia el inciso que antecede, será sometido a votación de los miembros presentes del Pleno del Congreso del Estado, para, posteriormente, mediante votación por cédula, realizar la designación del Contralor General del Instituto Electoral de Tamaulipas con el voto de las dos terceras partes de sus miembros presentes.
+e) En caso de que las Comisiones Unidas de Transparencia y Acceso a la Información Pública, de Anticorrupción y Participación Ciudadana, y de Vigilancia de la Auditoría Superior del Estado o la Diputación Permanente durante los recesos, determinen que alguno de los aspirantes no cumple con alguno de los requisitos, procederá a desechar la solicitud, motivando y fundando la exclusión de éstos, para no ser considerados en la siguiente etapa;
 
-g) El Contralor General del Instituto Electoral de Tamaulipas que concluya su periodo y aspire a ser reelecto, podrá participar en el proceso a que hace referencia el presente párrafo, en los términos que para tal efecto señale la convocatoria respectiva.
+f) Las Comisiones Unidas de Transparencia y Acceso a la Información Pública, de Anticorrupción y Participación Ciudadana, y de Vigilancia de la Auditoría Superior del Estado o la Diputación Permanente durante los recesos, elaborarán un acuerdo que deberá publicarse en el Periódico Oficial del Estado, en la Gaceta Parlamentaria del Congreso del Estado y en la página de internet del Congreso, y contendrá lo siguiente:
+
+I. El listado con los aspirantes que hayan cumplido con los requisitos exigidos por la Constitución y las leyes secundarias correspondientes;
+
+II. El plazo con que cuentan los aspirantes, cuya solicitud haya sido desechada, para recoger su documentación y fecha límite para ello;
+
+III. El día y hora en donde tendrán verificativo las entrevistas ante las Comisiones Unidas de Transparencia y Acceso a la Información Pública, de Anticorrupción y Participación Ciudadana, y de Vigilancia de la Auditoría Superior del Estado o ante la Diputación Permanente durante los recesos, de los aspirantes que hayan cumplido con los requisitos exigidos, a efecto de avalar su garantía de audiencia y conocer su interés y razones respecto a su posible designación en el cargo;
+
+g) Una vez que se hayan desahogado las entrevistas, las Comisiones Unidas de Transparencia y Acceso a la Información Pública, de Anticorrupción y Participación Ciudadana, y de Vigilancia de la Auditoría Superior del Estado o la Diputación Permanente durante los recesos, sesionarán con la finalidad de emitir el dictamen que contenga la lista de candidatos que cumplieron con los requisitos legales y que solventaron las entrevistas, mismos que son aptos para ser votados por el Pleno Legislativo;
+
+h) El dictamen referido en el inciso anterior, será sometido a votación de los miembros del Pleno del Congreso del Estado, para que, posteriormente, mediante votación por cédula, realice la designación del Titular del Órgano Interno de Control correspondiente, con el voto de las dos terceras partes de sus miembros presentes.
 
 > <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
 
@@ -2310,6 +2318,22 @@ d) Agotadas las fases anteriores, se citará a los aspirantes a las reuniones de
 e) Concluida la etapa señalada en el inciso que antecede, la Comisión de Transparencia y Acceso a la Información Pública del Congreso o la Diputación Permanente, según sea el caso, emitirá un dictamen final que concluirá con la lista de los candidatos que cumplen con los requisitos legales y que solventaron las reuniones de trabajo o entrevistas previstas en el inciso d) de este párrafo.
 
 f) El dictamen final a que hace referencia el inciso que antecede, será sometido a votación de los miembros del Pleno del Congreso del Estado, para que, posteriormente, mediante votación por cédula, realicen la designación de los cargos a que se refiere este párrafo con el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, debiendo privilegiar la experiencia en materia de acceso a la información pública y protección de datos personales, así como procurar la igualdad de género.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+11. El nombramiento del Titular de la Fiscalía Especializada en Combate a la Corrupción, se sujetará al siguiente procedimiento:
+
+a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del periodo para el que fue electo, la Junta de Coordinación Política del Congreso del Estado emitirá una convocatoria pública, con base en los requisitos establecidos en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Tamaulipas, a efecto de que participen los ciudadanos que cumplan con éstos y que estén en aptitud de ser considerados para ocupar el cargo.
+
+b) La convocatoria considerará las etapas y procedimientos para la designación correspondiente, ordenando su publicación en el Periódico Oficial del Estado, en la página de internet del Congreso, y preferentemente en dos diarios de circulación en la Entidad.
+
+c) La Comisión ordinaria competente o la Diputación Permanente durante los recesos, realizará la evaluación preliminar de los documentos presentados por los aspirantes, emitiendo un dictamen en el que se señalarán a los candidatos que cumplieron con los requisitos contenidos en la convocatoria para ser considerados en la etapa de entrevistas o reuniones de trabajo. Se deberá motivar y fundar la exclusión de los aspirantes que no sean considerados para acceder a dicha etapa.
+
+d) Agotadas las fases anteriores, se citará a los aspirantes a las reuniones de trabajo o entrevistas conforme a lo establecido en el párrafo 4 de este artículo. De ser necesario, las modalidades, duración y mecanismos de las referidas entrevistas serán determinadas mediante acuerdo emitido por la Comisión ordinaria competente o la Diputación Permanente, según sea el caso.
+
+e) Concluida la etapa señalada en el inciso que antecede, la Comisión ordinaria competente o la Diputación Permanente, según sea el caso, emitirá un dictamen final que concluirá con la lista de los candidatos que cumplen con los requisitos legales y que solventaron las reuniones de trabajo o entrevistas previstas en el inciso d) de este párrafo.
+
+f) El dictamen final a que hace referencia el inciso que antecede, será sometido a votación de los miembros del Pleno del Congreso del Estado, para que, posteriormente, mediante votación por cédula, realice la designación del Titular de la Fiscalía Especializada en Combate a la Corrupción con el voto de las dos terceras partes de sus miembros presentes.
 
 ###### ARTICULO 135.
 
@@ -3166,3 +3190,19 @@ P.O. 30 DE MAYO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y se publicará en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-186 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS, LA LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y LA LEY CONSTITUTIVA DE LA UNIVERSIDAD AUTÓNOMA DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas que en éste se establecen, cuya vigencia surtirá efectos a partir de su expedición, con base en el artículo 3 párrafo 3 de la citada ley.
+
+###### ARTÍCULO SEGUNDO.
+
+La Convocatoria para designar a los titulares de los órganos internos de control de los órganos constitucionalmente autónomos, así como la del Titular de la Fiscalía Especializada en Combate a la Corrupción, por esta única ocasión deberán ser emitidas a la brevedad posible, a fin de dar puntual cumplimiento al término establecido para concluir la armonización legislativa en materia de combate a la corrupción y estar en condiciones para la entrada del nuevo Sistema Estatal Anticorrupción.
+
+###### ARTÍCULO TERCERO.
+
+Comuníquese el presente Decreto a la Universidad Autónoma de Tamaulipas, solicitando con pleno respeto a su autonomía institucional que, a la brevedad, tenga a bien homologar sus ordenamientos jurídicos internos en lo concerniente al Órgano Interno de Control y su titular, tomando en consideración las reformas planteadas en el presente Decreto, para así armonizar sus disposiciones a que haya lugar, en materia de combate a la corrupción.
