@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-sistema-de-medios-de-impugnacion-en-materia-12409"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-13"
-last_updated: "2014-06-30"
+last_updated: "2017-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 456 DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 2 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NÚMERO 144
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017 (ABROGADA).
 
 Ley Publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 13 de febrero de 1998.
 
@@ -1912,3 +1914,17 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Remítase al Titular del Poder Ejecutivo para su conocimiento y efectos legales conducentes.
 
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, y en la página web de éste Poder Legislativo.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 456 DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. A partir de que entre en vigor la presente Ley, queda abrogada la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado de Guerrero número 144.
+
+TERCERO. Los asuntos y procedimientos cuyo trámite haya iniciado previo a la vigencia de la presente Ley, serán sustanciados y resueltos conforme a lo establecido en la Ley de Medios de Impugnación en Materia Electoral del Estado de Guerrero número 144. Los procedimientos que se inicien a la entrada en vigor de la presente Ley, se regirán por ésta.
+
+CUARTO. Se autoriza al Poder Ejecutivo para que, a través de la Secretaría de Finanzas y Administración, realice las transferencias presupuestales necesarias, a efecto de que el Tribunal Electoral del Estado pueda llevar a cabo las actividades que están encomendadas en la presente Ley.
+
+QUINTO. Se abrogan todas las disposiciones jurídicas que se opongan a la presente Ley.
