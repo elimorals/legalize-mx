@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-tribunal-electoral-del-estado-de-guerrero-1240
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-13"
-last_updated: "2014-06-30"
+last_updated: "2017-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUERRERO NÚMERO 145
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017 (ABROGADA).
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Guerrero, el viernes 13 de febrero de 1998.
 
@@ -1254,3 +1254,21 @@ SEGUNDO. Remítase al Titular del Poder Ejecutivo para su conocimiento y efectos
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, y en la página web de éste Poder Legislativo.
 
 CUARTO. Los actuales magistrados que integran el Tribunal Electoral del Estado de Guerrero, permanecerán en el cargo, hasta en tanto el Senado de la República nombre a los nuevos Magistrados integrantes del mismo.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUERRERO NÚMERO 457".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley Orgánica del Tribunal Electoral del Estado de Guerrero Número 145.
+
+TERCERO. Los asuntos y procedimientos cuyo trámite haya iniciado previo a la vigencia de la presente Ley, serán sustanciados y resueltos conforme a lo establecido en la Ley que se abroga. Los procedimientos que se inicien a la entrada en vigor de la presente Ley, se regirán por ésta.
+
+CUARTO. Los servidores públicos que se encuentren en funciones a la entrada en vigor de la presente Ley, ocuparán los cargos afines a las atribuciones que actualmente tienen encomendadas.
+
+QUINTO. El Tribunal Electoral, inmediatamente después de que entre en vigor la presente Ley, actualizará la normatividad reglamentaria interna ajustándola a la presente Ley y a la Ley del Sistema de Medios de Impugnación en Materia Electoral y demás disposiciones aplicables.
+
+SEXTO. Todos los casos no previstos en la presente Ley, serán resueltos por el Pleno del Tribunal Electoral del Estado.
+
+SÉPTIMO. Remítase el presente Decreto al Titular del Poder Ejecutivo para su conocimiento y efectos legales conducentes.
