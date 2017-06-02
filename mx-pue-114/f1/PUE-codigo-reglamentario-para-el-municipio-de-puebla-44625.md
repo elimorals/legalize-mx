@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2017-04-10"
+last_updated: "2017-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -29,7 +29,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -1791,7 +1791,7 @@ I. Realizar todas las acciones logísticas para la celebración de las sesiones;
 
 II. Enviar la convocatoria que cada Consejo emita para las sesiones, notificando a los integrantes de los mismos, por lo menos con tres días hábiles de anticipación, dándoles a conocer lugar, día, hora y orden del día;
 
-III. Recabar de cada Consejo, lista de asistencia y acta de la sesión realizada, para su integración al archivo de cada uno y notificar a la Comisión Ejecutiva.; (sic)
+III. Recabar de cada Consejo, lista de asistencia y acta de la sesión realizada, para su integración al archivo de cada uno y notificar a la Comisión Ejecutiva.;
 
 IV. Integrar el expediente de cada uno de los Consejeros y mantener actualizado el directorio de los mismos;
 
@@ -21457,7 +21457,17 @@ II. De apoyo: Cuando se constituyan bajo el régimen de propiedad en Condominio 
 
 III. Temporales: Los autorizados por el Cabildo Municipal, autoridad ésta que determinará los espacios dentro del Municipio, así como los días y horas donde puedan establecerse.
 
-IV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2016)
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+IV. Corredores Comerciales Temporales: Los autorizados por el Cabildo Municipal para operar en puestos semifijos, en determinados espacios del Municipio y que podrán funcionar en:
+
+1. Periodos estacionales del año con motivo de festividades cívicas o patronales, o
+
+2. Diversos días de la semana, o bien
+
+3. Horarios diarios de atención.
+
+Para efectos de esta fracción los comerciantes autorizados, al término de la jornada, deberán retirar cualquier tipo de estructura, instalación, instrumento, artefacto o cualquier otro tipo de bien mueble.
 
 ###### Artículo 1402.
 
@@ -34463,7 +34473,7 @@ DEL PREMIO MUNICIPAL DE INVESTIGACIÓN HISTÓRICA: “HUGO LEICHT”
 
 ###### Artículo 2335 Sexies.
 
-El Premio Municipal de Investigación Histórica: “Hugo Leicht” será entregado a aquellas personas que hayan realizado alguna investigación histórica del Municipio de Puebla.
+El Premio Municipal de Investigación Histórica: "Hugo Leicht" será entregado a aquellas personas que hayan realizado alguna investigación histórica del Municipio de Puebla.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -35887,7 +35897,7 @@ SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Dict
 
 P.O. 10 DE ABRIL DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 17 DE MARZO DE 2017, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE DESARROLLO URBANO Y MEDIO AMBIENTE, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL LIBRO TERCERO, CAPÍTULO 17 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 17 DE MARZO DE 2017, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE DESARROLLO URBANO Y MEDIO AMBIENTE, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL LIBRO TERCERO, CAPÍTULO 17 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
 
 PRIMERO. La presente reforma, adición y derogación de diversas disposiciones del Libro Tercero Capítulo 17 del Código Reglamentario para el Municipio de Puebla son de orden general y entrarán en vigor un día después de su publicación en el Periódico Oficial del Estado.
 
@@ -35912,3 +35922,17 @@ DÉCIMO. La zonificación primaria y la zonificación secundaria, así como los 
 DÉCIMO PRIMERO. Para efectos del artículo 828 en el que se establece el procedimiento para el reconocimiento de colonias, sólo podrá realizarse a los Asentamientos Humanos que se hayan fundado hasta el día de la entrada en vigor de la presente reforma, los asentamientos humanos que se formen con fecha posterior, serán tratados como fraccionamientos y su regularización se permitirá siempre y cuando se cumpla con los requisitos técnicos y administrativos que señale la normativa aplicable.
 
 DÉCIMO SEGUNDO. Las sanciones que deriven en multa señaladas en el artículo 718 de la presente reforma, se pagarán de acuerdo al cálculo y determinación del valor diario actualizado de la Unidad de Medida y Actualización (UMA) que publique el Instituto Nacional de Estadística y Geografía (INEGI) en el Diario Oficial de la Federación en los primeros diez días del mes de enero de cada año, para entrar en vigor el 1° de febrero del año que corresponda, de conformidad con lo establecido en la Ley para determinar el Valor de la Unidad de Medida y Actualización publicada en el Diario Oficial de la Federación el treinta de diciembre de dos mil dieciséis.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 19 DE MAYO DE 2017, POR EL QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE GOBERNACIÓN Y JUSTICIA, POR EL QUE SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 1401 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA, PARA INCLUIR LA MODALIDAD DE CORREDOR COMERCIAL TEMPORAL EN LA CLASIFICACIÓN DE MERCADOS; SE APRUEBA LA INSTALACIÓN DE UN CORREDOR COMERCIAL TEMPORAL, Y SE EXPIDEN LOS LINEAMIENTOS CORRESPONDIENTES".]
+
+PRIMERO. El presente Dictamen entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Los presentes Lineamientos regirán en lo aplicable a las festividades cívicas y patronales y estarán vigentes hasta el término de la presente gestión municipal.
+
+TERCERO. Los efectos de la aplicación del presente, serán evaluados cada cuatro meses por la Comisión de Gobernación y Justicia del Honorable Ayuntamiento del Municipio de Puebla, considerando el grado de cumplimiento de los comerciantes temporales a lo dispuesto en el dictamen, así como la eficacia de las acciones instrumentadas por la dependencia competente para vigilar y aplicar la normativa aprobada.
+
+CUARTO. El requisito contemplado en la fracción "e" del artículo 6, será exigible una vez transcurridos seis meses a partir de la publicación del presente Dictamen.
+
+QUINTO. El pago de los derechos contemplados en el artículo 8 atenderá a lo establecido en las disposiciones fiscales respectivas.
