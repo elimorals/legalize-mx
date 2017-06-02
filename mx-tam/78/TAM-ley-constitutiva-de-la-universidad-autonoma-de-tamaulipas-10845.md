@@ -4,7 +4,7 @@ identifier: "TAM-ley-constitutiva-de-la-universidad-autonoma-de-tamaulipas-10845
 country: "mx"
 rank: "ley"
 publication_date: "1956-02-11"
-last_updated: "1972-10-04"
+last_updated: "2017-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY CONSTITUTIVA DE LA UNIVERSIDAD AUTÓNOMA DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 1972.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el 11 de febrero de 1956.
 
@@ -58,6 +58,10 @@ Se encomienda a la Universidad Autónoma de Tamaulipas el servicio público rela
 ###### ARTICULO TERCERO.
 
 La Universidad Autónoma de Tamaulipas se integrará con las Facultades, Escuelas, Institutos y Departamentos que se requieran para el debido cumplimiento de sus fines, atendiendo a la complejidad de la cultura, a la especialidad de la ciencia, a la diversificación de la técnica y a la variedad de los servicios de extensión que preste, por lo que podrá crear y suprimir dependencias conforme a sus designios y las necesidades culturales del Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+Así mismo, contará con un Órgano Interno de Control, dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. La naturaleza del mismo, así como los requisitos para ocupar su titularidad, la duración en el cargo y el nivel de éste, se establecerán en el Estatuto Orgánico en frecuencia con las disposiciones constitucionales, así como con las leyes generales y locales aplicables.
 
 > <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1972)</small>
 
@@ -125,7 +129,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los cuatro días del mes de febrero de mil novecientos cincuenta y seis.- LIC. HORACIO TERAN.- El Secretario General de Gobierno, LIC. PORFIRIO FLORES GARZA.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 15 DE MARZO DE 1967
 
@@ -148,3 +152,19 @@ UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en e
 P.O. 4 DE OCTUBRE DE 1972
 
 UNICO.- Esta ley comenzará a surtir sus efectos en la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-186 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS, LA LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y LA LEY CONSTITUTIVA DE LA UNIVERSIDAD AUTÓNOMA DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas que en éste se establecen, cuya vigencia surtirá efectos a partir de su expedición, con base en el artículo 3 párrafo 3 de la citada ley.
+
+###### ARTÍCULO SEGUNDO.
+
+La Convocatoria para designar a los titulares de los órganos internos de control de los órganos constitucionalmente autónomos, así como la del Titular de la Fiscalía Especializada en Combate a la Corrupción, por esta única ocasión deberán ser emitidas a la brevedad posible, a fin de dar puntual cumplimiento al término establecido para concluir la armonización legislativa en materia de combate a la corrupción y estar en condiciones para la entrada del nuevo Sistema Estatal Anticorrupción.
+
+###### ARTÍCULO TERCERO.
+
+Comuníquese el presente Decreto a la Universidad Autónoma de Tamaulipas, solicitando con pleno respeto a su autonomía institucional que, a la brevedad, tenga a bien homologar sus ordenamientos jurídicos internos en lo concerniente al Órgano Interno de Control y su titular, tomando en consideración las reformas planteadas en el presente Decreto, para así armonizar sus disposiciones a que haya lugar, en materia de combate a la corrupción.
