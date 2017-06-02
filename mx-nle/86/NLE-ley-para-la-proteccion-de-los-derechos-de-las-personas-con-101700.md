@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-proteccion-de-los-derechos-de-las-personas-con-1017
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2014-07-03"
+last_updated: "2017-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 3 de julio de 2014.
 
@@ -317,6 +317,8 @@ XI. Elaborar trimestralmente un informe de las actividades del Consejo para su d
 
 ### CAPÍTULO III. DE LA ACCESIBILIDAD
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 ###### Artículo 14.
 
 Los derechos de las personas con discapacidad se consagran en la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella emanan y los Tratados Internacionales firmados y ratificados por el Estado Mexicano.
@@ -325,13 +327,15 @@ Sin perjuicio de lo anterior, para efectos de la presente Ley se entenderán por
 
 I. El derecho de uso exclusivo de los lugares y servicios destinados para personas con discapacidad, los cuales en ningún momento pueden ser utilizados por otras personas;
 
-II. El derecho de preferencia de los lugares destinados a las personas con discapacidad en transportes y sitios públicos; y
+II. El derecho de preferencia de los lugares destinados a las personas con las diversas discapacidades que reconoce esta Ley en estacionamientos, transportes y sitios públicos; y
 
 III. El derecho de libre tránsito para circular por todos los lugares públicos, sin que se obstruyan los accesos específicos para su circulación como rampas, puertas, elevadores, entre otros.
 
-Los lugares que se mencionan en las fracciones anteriores, deberán estar señalados con el logotipo internacional de discapacidad.
+Los lugares que se mencionan en las fracciones anteriores deberán estar señalados con el logotipo internacional del tipo de discapacidad que corresponda.
 
-La violación a estos derechos será sancionada por las autoridades competentes.
+La autoridad deberá expedir los permisos para personas con discapacidad motora temporal o permanente para el uso exclusivo de los lugares que señala la fracción I de este artículo; asimismo expedirá un distintivo para las personas con discapacidad intelectual temporal o permanente para el ejercicio del derecho de preferencia que señala la fracción II de este artículo. Los permisos antes señalados contendrán el logotipo internacional del tipo de discapacidad según corresponda.
+
+Las violaciones a estos derechos en todos los lugares con acceso al público serán sancionadas por las autoridades competentes.
 
 ### CAPÍTULO IV. DE LA SALUD
 
@@ -1000,3 +1004,11 @@ HECTOR JULIÁN MORALES RIVERA
 EL C. SECRETARIO DE DESARROLLO SUSTENTABLE
 
 FERNANDO GUTIÉRREZ MORENO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 260. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 14 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD; SE REFORMA POR MODIFICACIÓN LA FRACCIÓN II DEL ARTÍCULO 917 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
