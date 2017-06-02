@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-27"
-last_updated: "2016-04-27"
+last_updated: "2017-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114362&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
 
 Ley publicada en el anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 27 de abril de 2016.
 
@@ -695,11 +695,51 @@ VI.- Opinar sobre la adopción de criterios generales en materia sustantiva; y
 
 VII.- Analizar y proponer la ejecución de programas, proyectos y acciones relacionados con la materia de transparencia y acceso a la información y su accesibilidad.
 
-### CAPÍTULO ÚNICO. DE LA PLATAFORMA NACIONAL DE TRANSPARENCIA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO VI. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 47 BIS. El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del propio órgano y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos estatales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+En el desempeño de su cargo, el Titular del Órgano Interno de Control se sujetará a los principios previstos en la ley en materia de responsabilidades administrativas del Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 47 TER.
+
+El Titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta años cumplidos el día de la designación;
+
+II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+
+III. Contar al momento de su designación con experiencia en el control, manejo y fiscalización de recursos;
+
+IV. Contar al día de su designación, con título profesional en las áreas económicas, contables, jurídicas o administrativas, expedido por autoridad o institución legalmente facultada para ello;
+
+V. Contar con reconocida solvencia moral;
+
+VI. No pertenecer o haber pertenecido en los tres años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios o haber fungido como consultor o auditor externo del propio órgano, en lo individual durante ese periodo;
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
+
+VIII. No haber sido Secretario de Estado, Procurador General de Justicia de alguna de las entidades federativas, Diputado Local, Gobernador de algún Estado, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 47 QUATER.
+
+El Titular del Órgano Interno de Control durará en su encargo seis años cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas.
+
+Tendrá un nivel jerárquico igual al de un Director General o su equivalente en la estructura orgánica del propio órgano, y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización del Estado a que se refiere el artículo 76 de la Constitución Política del Estado de Tamaulipas.
 
 ## TÍTULO TERCERO. PLATAFORMA NACIONAL DE TRANSPARENCIA
 
-### CAPÍTULO I. DE LA PROMOCIÓN DE LA TRANSPARENCIA Y EL DERECHO DE ACCESO A LA INFORMACIÓN
+### CAPÍTULO ÚNICO. DE LA PLATAFORMA NACIONAL DE TRANSPARENCIA
 
 ###### ARTÍCULO 48.
 
@@ -729,7 +769,7 @@ El Estado implementará las medidas emitidas por el Sistema Nacional para garant
 
 ## TÍTULO CUARTO. CULTURA DE TRANSPARENCIA Y APERTURA GUBERNAMENTAL
 
-### CAPÍTULO II. DE LA TRANSPARENCIA PROACTIVA
+### CAPÍTULO I. DE LA PROMOCIÓN DE LA TRANSPARENCIA Y EL DERECHO DE ACCESO A LA INFORMACIÓN
 
 ###### ARTÍCULO 52.
 
@@ -771,7 +811,7 @@ III.- Facilitar el ejercicio del derecho de acceso a la información a las perso
 
 IV.- Procurar la accesibilidad de la información.
 
-### CAPÍTULO III. DEL GOBIERNO ABIERTO
+### CAPÍTULO II. DE LA TRANSPARENCIA PROACTIVA
 
 ###### ARTÍCULO 55.
 
@@ -787,7 +827,7 @@ La información publicada por los sujetos obligados, en el marco de la política
 
 2. La información que se publique, como resultado de las políticas de transparencia, deberá permitir la generación de conocimiento público útil, para disminuir asimetrías de la información, mejorar los accesos a trámites y servicios, optimizar la toma de decisiones de autoridades o ciudadanos y deberá tener un objeto claro enfocado en las necesidades de sectores de la sociedad determinados o determinables.
 
-### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
+### CAPÍTULO III. DEL GOBIERNO ABIERTO
 
 ###### ARTÍCULO 58.
 
@@ -795,7 +835,7 @@ El Organismo garante, en el ámbito de sus atribuciones coadyuvará, con los suj
 
 ## TÍTULO QUINTO. OBLIGACIONES DE TRANSPARENCIA
 
-### CAPÍTULO II. DE LAS OBLIGACIONES DE TRANSPARENCIA COMUNES
+### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 59.
 
@@ -857,7 +897,7 @@ VI.- Adoptar las medidas necesarias que garanticen la seguridad de los datos per
 
 Los particulares, sin perjuicio de que sean considerados sujetos obligados de conformidad con la presente Ley, serán responsables de los datos personales de conformidad con la normatividad aplicable para la protección de datos personales en posesión de los particulares.
 
-### CAPÍTULO III. DE LAS OBLIGACIONES DE TRANSPARENCIA ESPECÍFICAS DE LOS SUJETOS OBLIGADOS
+### CAPÍTULO II. DE LAS OBLIGACIONES DE TRANSPARENCIA COMUNES
 
 ###### ARTÍCULO 67.
 
@@ -1053,7 +1093,7 @@ XLVIII.- Cualquier otra información que sea de utilidad o se considere relevant
 
 2. El Organismo garante verificará que los Sujetos Obligados publiquen en sus portales de internet y, a la vez, en la Plataforma Nacional la información que les resulte aplicable.
 
-### CAPÍTULO IV. DE LAS OBLIGACIONES ESPECÍFICAS DE LAS PERSONAS FÍSICAS O MORALES QUE RECIBEN Y EJERCEN RECURSOS PÚBLICOS O EJERCEN ACTOS DE AUTORIDAD
+### CAPÍTULO III. DE LAS OBLIGACIONES DE TRANSPARENCIA ESPECÍFICAS DE LOS SUJETOS OBLIGADOS
 
 ###### ARTÍCULO 69.
 
@@ -1431,7 +1471,7 @@ V.- El programa anual de evaluaciones, así como las metodologías e indicadores
 
 3. Lo anterior sin perjuicio del cumplimiento de las obligaciones que en materia de difusión de la información financiera, presupuestal y de Evaluación del Desempeño se establecen en la Ley General de Contabilidad Gubernamental y en la Ley de Gasto Público y demás disposiciones aplicables.
 
-### CAPÍTULO V. DE LA VERIFICACIÓN DE LAS OBLIGACIONES DE TRANSPARENCIA
+### CAPÍTULO IV. DE LAS OBLIGACIONES ESPECÍFICAS DE LAS PERSONAS FÍSICAS O MORALES QUE RECIBEN Y EJERCEN RECURSOS PÚBLICOS O EJERCEN ACTOS DE AUTORIDAD
 
 ###### ARTÍCULO 82.
 
@@ -1451,7 +1491,7 @@ II.- Revisar el listado que remitió la persona física o moral en la medida en 
 
 III.- Determinar las obligaciones de transparencia que deben cumplir y los plazos para ello.
 
-### CAPÍTULO VI. DE LA DENUNCIA POR INCUMPLIMIENTO A LAS OBLIGACIONES DE TRANSPARENCIA
+### CAPÍTULO V. DE LA VERIFICACIÓN DE LAS OBLIGACIONES DE TRANSPARENCIA
 
 ###### ARTÍCULO 84.
 
@@ -1491,7 +1531,7 @@ Cuando el Organismo garante considere que existe un incumplimiento total o parci
 
 Fenecido el plazo a que se refiere el artículo anterior, de subsistir dicho incumplimiento, el Organismo garante en un plazo no mayor a 5 días informará al Pleno para que, en su caso, imponga las medidas de apremio o sanciones, conforme a lo establecido por esta Ley.
 
-### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES DE LA CLASIFICACIÓN Y DESCLASIFICACIÓN DE LA INFORMACIÓN
+### CAPÍTULO VI. DE LA DENUNCIA POR INCUMPLIMIENTO A LAS OBLIGACIONES DE TRANSPARENCIA
 
 ###### ARTÍCULO 91.
 
@@ -1581,7 +1621,7 @@ En caso de que el Organismo garante, considere que subsiste el incumplimiento to
 
 ## TÍTULO SEXTO. DE LA INFORMACIÓN CLASIFICADA
 
-### CAPÍTULO II. DE LA INFORMACIÓN RESERVADA
+### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES DE LA CLASIFICACIÓN Y DESCLASIFICACIÓN DE LA INFORMACIÓN
 
 ###### ARTÍCULO 102.
 
@@ -1715,7 +1755,7 @@ Cuando un documento contenga partes o secciones reservadas o confidenciales, los
 
 La información contenida en las obligaciones de transparencia no podrá omitirse en las versiones públicas.
 
-### CAPÍTULO III. DE LA INFORMACIÓN CONFIDENCIAL
+### CAPÍTULO II. DE LA INFORMACIÓN RESERVADA
 
 ###### ARTÍCULO 117.
 
@@ -1757,7 +1797,7 @@ I.- Se trate de violaciones graves de derechos humanos o delitos de lesa humanid
 
 II.- Se trate de información relacionada con actos de corrupción de acuerdo con las leyes aplicables.
 
-### CAPÍTULO IV. DE LA INFORMACIÓN SENSIBLE
+### CAPÍTULO III. DE LA INFORMACIÓN CONFIDENCIAL
 
 ###### ARTÍCULO 120.
 
@@ -1809,7 +1849,7 @@ VII.- Sea requerida por un ente público en ejercicio de sus atribuciones y para
 
 3. El periodo de conservación de datos confidenciales no excederá del tiempo necesario para alcanzar la finalidad para la que se registraron, por lo que esos datos deberán destruirse cuando dejen de ser necesarios o pertinentes al objeto de su recabación.
 
-### CAPÍTULO ÚNICO. DEL DERECHO DE HÁBEAS DATA
+### CAPÍTULO IV. DE LA INFORMACIÓN SENSIBLE
 
 ###### ARTÍCULO 126.
 
@@ -1849,7 +1889,7 @@ III.- Sea requerida por un ente público en ejercicio de sus atribuciones y para
 
 ## TÍTULO SÉPTIMO. DEL DERECHO DE HÁBEAS DATA
 
-### CAPÍTULO I. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN
+### CAPÍTULO ÚNICO. DEL DERECHO DE HÁBEAS DATA
 
 ###### ARTÍCULO 130.
 
@@ -1909,7 +1949,7 @@ VII.- Opcionalmente, la modalidad en la que prefiere se otorgue el acceso a sus 
 
 ## TÍTULO OCTAVO. PROCEDIMIENTOS DE ACCESO A LA INFORMACIÓN PÚBLICA
 
-### CAPÍTULO II. DE LAS CUOTAS DE ACCESO
+### CAPÍTULO I. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN
 
 ###### ARTÍCULO 133.
 
@@ -2069,7 +2109,7 @@ La resolución del Comité de Transparencia que confirme la inexistencia de la i
 
 Las personas físicas y morales que reciban y ejerzan recursos públicos o realicen actos de autoridad, serán responsables del cumplimiento de los plazos y términos para otorgar acceso a la información.
 
-### CAPÍTULO I. DEL RECURSO DE REVISIÓN ANTE EL ORGANISMO GARANTE
+### CAPÍTULO II. DE LAS CUOTAS DE ACCESO
 
 ###### ARTÍCULO 156.
 
@@ -2091,7 +2131,7 @@ Los costos referidos estarán contemplados en las tarifas de derechos de las Ley
 
 ## TÍTULO NOVENO. DE LOS PROCEDIMIENTOS DE IMPUGNACIÓN EN MATERIA DE ACCESO A LA INFORMACIÓN
 
-### CAPÍTULO II. DEL CUMPLIMIENTO
+### CAPÍTULO I. DEL RECURSO DE REVISIÓN ANTE EL ORGANISMO GARANTE
 
 ###### ARTÍCULO 158.
 
@@ -2291,7 +2331,7 @@ Por lo que se refiere a la atracción de los recursos de revisión por parte del
 
 Las resoluciones del Organismo Garante podrán ser impugnadas por los particulares ante el Instituto o ante el Poder Judicial de la Federación en los términos de las disposiciones aplicables.
 
-### CAPÍTULO III. DE LOS CRITERIOS DE INTERPRETACIÓN
+### CAPÍTULO II. DEL CUMPLIMIENTO
 
 ###### ARTÍCULO 178.
 
@@ -2325,7 +2365,7 @@ II.- Notificará al superior jerárquico del responsable de dar cumplimiento, pa
 
 III.- Determinará las medidas de apremio o sanciones, según corresponda, que deberán imponerse o las acciones procedentes que deberán aplicarse, de conformidad con lo señalado en esta Ley.
 
-### CAPÍTULO I. DE LAS MEDIDAS DE APREMIO
+### CAPÍTULO III. DE LOS CRITERIOS DE INTERPRETACIÓN
 
 ###### ARTÍCULO 182.
 
@@ -2333,7 +2373,7 @@ Los criterios de interpretación serán emitidos por el Instituto de acuerdo a l
 
 ## TÍTULO DÉCIMO. MEDIDAS DE APREMIO Y SANCIONES
 
-### CAPÍTULO II. DE LAS SANCIONES
+### CAPÍTULO I. DE LAS MEDIDAS DE APREMIO
 
 ###### ARTÍCULO 183.
 
@@ -2363,7 +2403,7 @@ Las medidas de apremio a que se refiere el presente Capítulo, deberán ser impu
 
 El Organismo garante, para hacer efectiva la medida de apremio consistente en la multa, solicitará a la autoridad competente, para que un plazo máximo de quince días, contados a partir del incumplimiento del pago, proceda en los términos de la normatividad aplicable.
 
-### CAPÍTULO III. DISPOSICIONES COMUNES
+### CAPÍTULO II. DE LAS SANCIONES
 
 ###### ARTÍCULO 187.
 
@@ -2400,6 +2440,8 @@ XIV.- Entorpecer el ejercicio del derecho de hábeas data;
 XV.- La falta de atención de los requerimientos emitidos por el Organismo garante; y
 
 XVI.- La falta de atención de las resoluciones emitidas por el Organismo garante.
+
+### CAPÍTULO III. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 188.
 
@@ -2544,3 +2586,21 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintiséis días del mes de abril del año dos mil dieciséis.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- RÚBRICA.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-186 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS, LA LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y LA LEY CONSTITUTIVA DE LA UNIVERSIDAD AUTÓNOMA DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas que en éste se establecen, cuya vigencia surtirá efectos a partir de su expedición, con base en el artículo 3 párrafo 3 de la citada ley.
+
+###### ARTÍCULO SEGUNDO.
+
+La Convocatoria para designar a los titulares de los órganos internos de control de los órganos constitucionalmente autónomos, así como la del Titular de la Fiscalía Especializada en Combate a la Corrupción, por esta única ocasión deberán ser emitidas a la brevedad posible, a fin de dar puntual cumplimiento al término establecido para concluir la armonización legislativa en materia de combate a la corrupción y estar en condiciones para la entrada del nuevo Sistema Estatal Anticorrupción.
+
+###### ARTÍCULO TERCERO.
+
+Comuníquese el presente Decreto a la Universidad Autónoma de Tamaulipas, solicitando con pleno respeto a su autonomía institucional que, a la brevedad, tenga a bien homologar sus ordenamientos jurídicos internos en lo concerniente al Órgano Interno de Control y su titular, tomando en consideración las reformas planteadas en el presente Decreto, para así armonizar sus disposiciones a que haya lugar, en materia de combate a la corrupción.
