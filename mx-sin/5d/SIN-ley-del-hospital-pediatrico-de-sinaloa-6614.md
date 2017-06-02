@@ -4,7 +4,7 @@ identifier: "SIN-ley-del-hospital-pediatrico-de-sinaloa-6614"
 country: "mx"
 rank: "ley"
 publication_date: "1983-07-29"
-last_updated: "2017-02-03"
+last_updated: "2017-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DEL HOSPITAL PEDIATRICO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el viernes 29 de julio de 1983.
 
@@ -343,7 +343,9 @@ El Régimen de Seguridad Social de los trabajadores no variará con motivo de la
 
 DÉCIMO SEGUNDO.- Con la intervención de la Secretaría de Transparencia y Rendición de Cuentas, el servidor público que a la fecha de publicación del presente Decreto realice las funciones de Director General del "Hospital Pediátrico de Sinaloa, en un plazo no mayor a cinco días hábiles a partir de la entrada en vigor de este Decreto, deberá hacer entrega, a quien designe el Director General del organismo público descentralizado denominado "Servicios de Salud de Sinaloa", de los recursos patrimoniales que haya tenido a su disposición, así como toda la documentación e información física o electrónica y asuntos relacionados con las funciones del organismo que se suprime.
 
-DÉCIMO TERCERO.- La persona que a la fecha de la entrada en vigor del presente decreto haya sido designada por el Patronato del "Hospital Pediátrico de Sinaloa", como encargada de llevar a cabo los trámites legales y administrativos finales del Organismo que resulten de este Decreto, deberá concluirlos dentro de los noventa días hábiles siguientes; una vez cumplido este plazo se entenderá que dicha función ha cesado. Los recursos necesarios para cubrir los gastos que se requieran para concretar los trabajos de extinción del Organismo, serán gestionados ante la Secretaría de Administración y Finanzas.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+DÉCIMO TERCERO.- La persona que a la fecha de la entrada en vigor del presente decreto haya sido designada por el Director General del organismo público descentralizado "Servicios de Salud de Sinaloa", como encargada de llevar a cabo los trámites legales y administrativos finales del "Hospital Pediátrico de Sinaloa" que resulten de este Decreto, deberá concluirlos dentro de los doce meses siguientes; durante este período el "Hospital Pediátrico de Sinaloa" conservará su personalidad jurídica en tanto tramite las certificaciones, acreditaciones, licencias y permisos como una nueva Unidad Hospitalaria dependiente del organismo público descentralizado "Servicios de Salud de Sinaloa" ante la Secretaría de Salud Federal, la Comisión Federal para la Protección contra Riesgos Sanitarios, la Comisión Estatal para la Protección contra Riesgos Sanitarios de Sinaloa y demás autoridades competentes. Los recursos necesarios para cubrir los gastos que se requieren para concretar los trabajos de extinción del Organismo, serán gestionados ante la Secretaría de Administración y Finanzas.
 
 DÉCIMO CUARTO.- Con motivo de la entrada en vigor del presente Decreto y en cumplimiento de las medidas de disciplina del gasto en el ejercicio presupuestal, así como para el uso ordenado, eficiente y transparente de los recursos públicos, aplicables a todas las dependencias y entidades de la Administración Pública Estatal de Sinaloa, las formas oficiales, formatos y demás papelería existentes en los que conste la denominación del "Hospital Pediátrico de Sinaloa", se seguirán utilizando hasta que se agoten.
 
@@ -352,3 +354,9 @@ DÉCIMO QUINTO.- En un plazo no mayor a treinta días hábiles a partir de la en
 DÉCIMO SEXTO.- Las Secretarías General de Gobierno, de Administración y Finanzas, y de Transparencia y Rendición de Cuentas, en el ámbito de sus respectivas atribuciones y de manera coordinada, darán seguimiento a las acciones que resulten conducentes para dar cumplimiento al presente Decreto.
 
 DÉCIMO SÉPTIMO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 149 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMA EL ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO 88, PUBLICADO EN EL PERIÓDICO OFICIAL «EL ESTADO DE SINAJOA» EL DÍA 3 DE FEBRERO DE 2017, MEDIANTE EL CUAL SE EXTINGUE LA FIGURA JURÍDICA ADMINISTRATIVA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO «HOSPITAL PEDIÁTRICO DE SINALOA»”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EI Estado de Sinaloa".
