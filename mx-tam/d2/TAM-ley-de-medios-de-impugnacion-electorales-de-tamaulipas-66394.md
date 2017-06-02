@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-medios-de-impugnacion-electorales-de-tamaulipas-66394"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-29"
-last_updated: "2016-12-21"
+last_updated: "2017-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 29 de diciembre de 2008.
 
@@ -923,7 +923,7 @@ III. La demanda será notoriamente improcedente y deberá ser desechada de plano
 
 a) Sea presentada por quien no tenga interés jurídico;
 
-b) Se presente después de los plazos que señala el articulo anterior; y
+b) Se presente después de los plazos que señala el artículo anterior; y
 
 c) No se presente por escrito ante la Oficialía de partes del Tribunal.
 
@@ -1071,45 +1071,79 @@ XVIII. Cualquier otra análoga a las anteriores.
 
 Las excusas y recusaciones que por impedimento legal se presenten, serán calificadas y resueltas de inmediato por el Pleno del Tribunal.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
 
 ###### Artículo 97.
 
-En términos de lo dispuesto por los artículos 73, fracción XXIX-U de la Constitución Política de los Estados Unidos Mexicanos, fracciones IV y V del artículo 20 de la Constitución Política del Estado, así como en los establecido (sic) en la presente Ley, el Pleno del Tribunal Electoral, es competente para:
+En términos de lo dispuesto por los artículos 73, fracción XXIX-U de la Constitución Política de los Estados Unidos Mexicanos, fracciones IV y V del artículo 20 de la Constitución Política del Estado, así como en lo establecido en la presente Ley, el Pleno del Tribunal Electoral, es competente para:
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 I. Resolver, en forma definitiva en la instancia local, sobre las impugnaciones en las elecciones (sic) Gobernador, Diputados e integrantes de los ayuntamientos;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
 II. Resolver, en forma definitiva en la instancia local, sobre las impugnaciones de actos y resoluciones que violen los derechos político-electorales de los ciudadanos de votar y ser votado, en los términos que señalen las leyes;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 III. Resolver, en forma definitiva en la instancia local, sobre las impugnaciones de actos, resoluciones y omisiones del Instituto Electoral de Tamaulipas;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
 IV. Resolver los conflictos o diferencias laborales entre el Tribunal Electoral o el Instituto Electoral de Tamaulipas y sus servidores;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 V. Aprobar anualmente el proyecto de presupuesto del Tribunal Electoral y proponerlo para su inclusión en el proyecto de presupuesto anual del Estado;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
 VI. Expedir sus reglamentos y los acuerdos generales necesarios para su adecuado funcionamiento;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 VII. Resolver sobre los conflictos concernientes a impedimentos presentados contra los magistrados;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
 VIII. Fijar jurisprudencia en los términos de esta ley;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 IX. Conceder licencias temporales a los magistrados electorales que lo integran;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
 X. Nombrar los comités que sean necesarios para la atención de los asuntos de su competencia;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 XI. Recibir la protesta del Secretario General de Acuerdos y del Secretario Técnico del Pleno;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
 XII. Recibir las renuncias a sus cargos que, por causa justificada, presenten los integrantes del Pleno, dando cuenta al Senado de la República para los efectos correspondientes;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 XIII. Calificar y resolver de inmediato, las excusas que para abstenerse del conocimiento de un asunto, presenten los integrantes del Pleno o el Secretario General de Acuerdos;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
 XIV. Designar al funcionario que supla las ausencias temporales del Secretario General de Acuerdos, a propuesta del Presidente;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 XV. Elegir, cada cuatro años, a su presidente por votación mayoritaria de los magistrados. La presidencia del Tribunal será rotatoria;
 
-XVI. Nombrar al Contralor del Tribunal por mayoría de los miembros del Pleno a propuesta de su Presidente. El nombramiento durará en su cargo cuatro años y podrá ser reelecto por una sola ocasión; y
+XVI. (DEROGADA, P.O. 2 DE JUNIO DE 2017)
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 XVII. Las demás que señalen las leyes.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
 
 El Tribunal Electoral ejercerá sus atribuciones a través de su Pleno, salvo cuando éste o la ley las reserve a otro órgano o funcionario del Tribunal.
 
@@ -1375,6 +1409,50 @@ III. Para que el criterio de jurisprudencia resulte obligatorio, se requerirá d
 
 La jurisprudencia del Tribunal Electoral será obligatoria en todos los casos para el Instituto Electoral de Tamaulipas.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2017)</small>
+
+### CAPITULO VII. Del Órgano Interno de Control
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+###### Artículo 116.
+
+El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del propio órgano y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos estatales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+En el desempeño de su cargo, el Titular del Órgano Interno de Control se sujetará a los principios previstos en la ley en materia de responsabilidades administrativas del Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+###### Artículo 117.
+
+El Titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta años cumplidos el día de la designación;
+
+II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+
+III. Contar al momento de su designación con experiencia en el control, manejo y fiscalización de recursos;
+
+IV. Contar al día de su designación, con título profesional en las áreas económicas, contables, jurídicas o administrativas, expedido por autoridad o institución legalmente facultada para ello;
+
+V. Contar con reconocida solvencia moral;
+
+VI. No pertenecer o haber pertenecido en los tres años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios o haber fungido como consultor o auditor externo del propio órgano, en lo individual durante ese periodo;
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
+
+VIII. No haber sido Secretario de Estado, Procurador General de Justicia de alguna de las entidades federativas, Diputado Local, Gobernador de algún Estado, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+###### Artículo 118.
+
+El Titular del Órgano Interno de Control durará en su encargo seis años cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas.
+
+Tendrá un nivel jerárquico igual al de un Director General o su equivalente en la estructura orgánica del propio órgano, y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización del Estado a que se refiere el artículo 76 de la Constitución Política del Estado de Tamaulipas.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -1420,3 +1498,19 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-186 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS, LA LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y LA LEY CONSTITUTIVA DE LA UNIVERSIDAD AUTÓNOMA DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas que en éste se establecen, cuya vigencia surtirá efectos a partir de su expedición, con base en el artículo 3 párrafo 3 de la citada ley.
+
+###### ARTÍCULO SEGUNDO.
+
+La Convocatoria para designar a los titulares de los órganos internos de control de los órganos constitucionalmente autónomos, así como la del Titular de la Fiscalía Especializada en Combate a la Corrupción, por esta única ocasión deberán ser emitidas a la brevedad posible, a fin de dar puntual cumplimiento al término establecido para concluir la armonización legislativa en materia de combate a la corrupción y estar en condiciones para la entrada del nuevo Sistema Estatal Anticorrupción.
+
+###### ARTÍCULO TERCERO.
+
+Comuníquese el presente Decreto a la Universidad Autónoma de Tamaulipas, solicitando con pleno respeto a su autonomía institucional que, a la brevedad, tenga a bien homologar sus ordenamientos jurídicos internos en lo concerniente al Órgano Interno de Control y su titular, tomando en consideración las reformas planteadas en el presente Decreto, para así armonizar sus disposiciones a que haya lugar, en materia de combate a la corrupción.
