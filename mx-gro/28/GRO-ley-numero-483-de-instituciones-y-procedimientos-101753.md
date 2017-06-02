@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-483-de-instituciones-y-procedimientos-101753"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2016-12-27"
+last_updated: "2017-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 483 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el lunes 30 de junio de 2014.
 
@@ -33,7 +33,9 @@ Que el H. Congreso Local, se ha servido comunicarme que,
 
 LA SEXAGÉSIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
 
-C O N S I D E R A N D O…
+C O N S I D E R A N D O
+
+[…]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto en los artículos 61 fracción I de la Constitución Política Local y 8 fracción I de la Ley Orgánica del Poder Legislativo en vigor, el Honorable Congreso del Estado, decreta y expide la siguiente:
 
@@ -2135,33 +2137,61 @@ Para fines electorales, el convenio de fusión deberá comunicarse al Presidente
 
 ### CAPÍTULO IV. DE LAS CANDIDATURAS COMUNES
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 165.
 
-Por candidatura común se entiende la postulación de un mismo candidato, una misma planilla o fórmula de candidatos, por dos o más partidos políticos designados previo acuerdo estatutario que emitan los partidos políticos respectivos. En ningún caso, podrán los partidos registrar bajo esta modalidad candidatos postulados por una coalición.
+La candidatura común es la unión de dos o más partidos políticos, sin mediar coalición, para postular al mismo candidato, fórmulas o planillas, cumpliendo los requisitos de esta Ley.
 
-La candidatura común deberá sujetarse a las siguientes reglas:
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-I. La solicitud de registro de la candidatura común deberá presentarse ante el Consejo General a mas tardar tres días antes de la fecha que concluya la presentación de solicitudes de registro de candidatos de la elección de que se trate;
+ARTÍCULO 165 BIS. Los partidos políticos tendrán derecho a postular candidaturas comunes para la elección de Gobernador, Diputados y miembros de los Ayuntamientos, de acuerdo con lo siguiente:
 
-II. Deberá existir consentimiento escrito por parte de los ciudadanos postulados;
+I.- Deberán suscribir solicitud firmada por sus representantes y dirigentes, el cual presentarán para su registro ante el Instituto Electoral, a más tardar treinta días antes del inicio del periodo de precampaña de la elección de que se trate; y
 
-III. La postulación de candidatos a diputados o miembros de los Ayuntamientos que se promuevan bajo esta modalidad, deberán incluir la adhesión a las fórmulas o planillas idénticas y completas. Asimismo deberán observar los principios y reglas de igualdad de oportunidades y paridad de género previstas en la presente ley;
+II.- No se podrá participar en más del 33% de los municipios o distritos, tratándose de la elección de integrantes de Ayuntamientos y Diputados.
 
-IV. Los partidos políticos que postulen candidaturas comunes, conservarán cada uno sus derechos, obligaciones y prerrogativas que les otorga esta Ley;
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-V. El candidato o candidatos electos, manifestarán a que partido político pertenecerán, en su caso;
+ARTÍCULO 165 TER. La solicitud de Candidatura Común, deberá contener:
 
-VI. El total de gastos de las campañas de candidatos postulados en candidatura común, no podrá rebasar el tope de gastos de campañas que fije el Consejo General del Instituto Electoral;
+a) Nombre de los partidos políticos que la conforman, así como el tipo de elección de que se trate;
 
-El cómputo en casilla de la votación obtenida por el candidato, planilla o fórmula común, se sujetará al siguiente procedimiento;
+b) Emblema de los partidos políticos que lo conforman;
+
+c) La manifestación por escrito de proporcionar al Instituto Electoral, una vez concluido sus procesos internos, el nombre, apellidos, edad, lugar de nacimiento, domicilio, clave de credencial para votar y el consentimiento por escrito del candidato;
+
+d) Indicar las aportaciones en porcentajes de cada uno de los partidos políticos para gastos de la campaña conforme a los topes de gastos de campaña determinados por el Consejo General; y
+
+e) Para las elecciones de Diputados y miembros de los Ayuntamientos, determinar el partido político al que pertenecen los candidatos en caso de resultar electos.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 165 QUATER. La solicitud de candidatura común se acompañará el compromiso por escrito de que los partidos políticos postulantes del candidato común entregarán en tiempo y forma al Instituto Electoral y de Participación Ciudadana su plataforma electoral por cada uno de ellos.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 165 QUINQUIES. El Consejo General, dentro de los cinco días siguientes a la presentación de la solicitud de registro de candidatura común, deberá resolver lo conducente y publicará su acuerdo en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 165 SEXIES. Los partidos políticos que postulen candidatos comunes no podrán postular candidatos propios, independientes, ni de otros partidos políticos para la elección que convinieron la candidatura común.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 165 SEPTIES. Para los efectos de la integración de los órganos electorales, del financiamiento, asignación de tiempos de radio y televisión y de la responsabilidad en materia electoral, civil y penal, los partidos políticos que postulen candidatos comunes mantendrán su autonomía y serán responsables de sus actos.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 165 OCTO. El cómputo en casilla de la votación obtenida por el candidato, planilla o fórmula común, se sujetará al siguiente procedimiento;
 
 a) Si la boleta apareciera marcada en más de uno de los respectivos emblemas, se asignará el voto al candidato, fórmula o planilla común, en el apartado correspondiente del acta de escrutinio y cómputo en casilla, pero no se computará a favor de partido alguno;
 
-b) Los demás votos se computarán a favor de cada uno de los partidos políticos y se sumarán a favor del candidato, fórmula o planilla común; y,
+b) Los demás votos se computarán a favor de cada uno de los partidos políticos y se sumarán a favor del candidato, fórmula o planilla común; y
 
 c) Los votos obtenidos por cada partido político les serán computados para determinar el porcentaje de la votación total correspondiente, para los efectos legales a que haya lugar.
 
-Durante el cómputo de la elección respectiva que se realice en el Consejo Distrital correspondiente, y para el caso específico descrito en el inciso a) del párrafo anterior, se deberán sumar los votos que hayan sido emitidos a favor de dos o más partidos políticos que hayan postulado candidato común y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla, distribuyéndose igualitariamente la suma de tales votos entre dichos partidos; de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación.
+Durante el cómputo de la elección respectiva que se realice en el Consejo Distrital correspondiente, y para el caso específico descrito en el inciso a) del párrafo anterior, se deberán sumar los votos que hayan sido emitidos a favor de dos o más partidos políticos que hayan postulado candidato común y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla, distribuyéndose igualitariamente la suma de tales votos entre dichos partidos; de existir fracción, los votos correspondientes se asignarán a los partidos políticos de más alta votación.
 
 Para los efectos de la asignación de diputados y miembros de los Ayuntamientos por el principio de representación proporcional, se estará a lo dispuesto por esta Ley.
 
@@ -7035,7 +7065,9 @@ SEXTO. Las elecciones ordinarias locales que se verifiquen en el año 2018 se ll
 
 SÉPTIMO. Las actuales disposiciones en materia de financiamiento y fiscalización que establece la Ley de Instituciones y Procedimientos Electorales del Estado de Guerrero, estará vigente hasta en tanto el Instituto Nacional expida las disposiciones en estas materias, conforme a sus facultades constitucionales.
 
-OCTAVO. El registro y asignación del diputado migrante o binacional establecidos en los artículos 17, 18 y 19 de la presente Ley, sera aplicado a partir de la elección de diputados y ayuntamientos que se verificará en el año 2018.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+OCTAVO. El registro y asignación del diputado migrante o binacional establecidos en los artículos 7, 18 y 19 de la presente Ley será aplicado a partir de la Elección de Diputados y Ayuntamientos que se verificará en el año 2021.
 
 NOVENO. El voto de los ciudadanos guerrerenses en el extranjero consignado en la presente Ley, será ejercido hasta la elección de Gobernador que se verificará en el año 2021, para ese efecto el Instituto Electoral realizará los estudios de factibilidad y operación y se estará a lo establecido en el Título Sexto de la Ley General Electoral y lineamientos que emita el Instituto Nacional Electoral.
 
@@ -7140,3 +7172,15 @@ P.O. 27 DE DICIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
 
 SEGUNDO.- Remítase el presente Decreto, al Titular del Poder Ejecutivo para los efectos constitucionales y legales conducentes
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 458 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 483 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO. Remítase al Gobernador Constitucional del Estado de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Comuníquese a las autoridades electorales competentes para su conocimiento y efectos legales conducentes.
+
+CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general.
