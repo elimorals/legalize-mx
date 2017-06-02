@@ -4,7 +4,7 @@ identifier: "JAL-codigo-electoral-del-estado-de-jalisco-antes-codigo-62461"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-05"
-last_updated: "2016-10-11"
+last_updated: "2017-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
 
 Código publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 5 de agosto de 2008.
 
@@ -179,9 +177,9 @@ Artículo 4°
 
 Artículo 5º
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-1. Votar en las elecciones constituye un derecho y una obligación de los ciudadanos que se ejerce para elegir a los integrantes de los órganos del Estado de elección popular. También es derecho de los ciudadanos, y obligación para los partidos políticos, la igualdad de oportunidades y la paridad entre hombres y mujeres, en candidaturas a legisladores locales y en las planillas de candidatos a munícipes.
+1. Votar en las elecciones constituye un derecho y una obligación de los ciudadanos que se ejerce para elegir a los integrantes de los órganos del Estado de elección popular. También es derecho de los ciudadanos, y obligación para todos los partidos políticos la igualdad de oportunidades y la paridad vertical y horizontal entre hombres y mujeres, en candidaturas a legisladores locales tanto propietarios como suplentes, en candidaturas a presidencias municipales, así como en la integración de las planillas de candidatos a munícipes, así como para las autoridades electorales en la integración de los consejos distritales y municipales.
 
 2. El voto es universal, libre, secreto, directo, personal e intransferible.
 
@@ -216,6 +214,18 @@ I. Estar inscritos en el Registro Federal de Electores, en los términos de la L
 II. Contar con la credencial para votar.
 
 2. En cada distrito electoral el sufragio se emitirá en la sección electoral que comprenda al domicilio del ciudadano, excepto en los casos expresamente señalados por este Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2017)</small>
+
+3. Deberá garantizarse la representación de los ciudadanos jaliscienses residentes en el extranjero, quienes podrán votar por los candidatos independientes y los que postulen los partidos políticos y coaliciones en las elecciones de Gobernador del Estado; así como por los candidatos que postulen los partidos políticos para Diputados Locales por el principio de representación proporcional.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2017)</small>
+
+4. Los ciudadanos Jaliscienses que se encuentren en el extranjero podrán ejercer su derecho al sufragio en las elecciones de Gobernador del Estado y de Diputados Locales por el principio de representación proporcional, de conformidad con lo que dispone el Código y los lineamientos que al efecto emita el propio Instituto, quien tendrá bajo su responsabilidad la organización de esos comicios; para ello podrá emitir acuerdos y suscribir convenios con el Instituto Nacional Electoral, dependencias de competencia federal y estatal, así como con instituciones de carácter social y privado, debiendo el Consejo General determinar las modalidades que se habrán de emplear para la recepción de esos sufragios, debiendo apoyarse para ello en un (sic) Comisión Especial y en un área técnica prevista en el reglamento interno del Instituto, que le auxilien a valorar los diversos mecanismos empleados para ese efecto por otros organismos electorales o proponer elementos innovadores para su instrumentación.
+
+I. Para ejercer el derecho al voto, los ciudadanos jaliscienses en el extranjero deberán contar con credencial para votar con fotografía expedida por la autoridad electoral nacional cuyo registro corresponda al Estado de Jalisco, lo que permitirá acreditar la residencia en esta entidad federativa, aún sin radicar en ella; y
+
+II. Los jaliscienses que cumplan dicho requisito para votar podrán ejercer su derecho de voto de manera libre, secreta y directa en la elección de Gobernador del Estado y de Diputados Locales por el principio de representación proporcional.
 
 ### Capítulo Segundo. De los Requisitos de Elegibilidad
 
@@ -271,9 +281,9 @@ X. No ser Juez, Secretario de Juzgado, Secretario del Consejo de la Judicatura d
 
 XI. En caso de haberse desempeñado como servidor público, acreditar que cumplió con la obligación de presentar declaración de situación patrimonial siempre y cuando esté obligado, en los términos de ley.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-2. Los servidores públicos de elección popular que hubiesen solicitado licencia para contender por una Diputación, podrán regresar a su cargo un día después de la entrega de constancias de mayoría.
+2. Los servidores públicos que hubiesen solicitado licencia para contender por una Diputación, podrán regresar a su cargo un día después de la entrega de constancias de ambos principios.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -335,9 +345,11 @@ VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario de
 
 VIII. No ser Juez, Secretario de Juzgado o titular de alguna dependencia de recaudación fiscal de la Federación o del Estado en el municipio en que pretenda su elección, a menos que se separe de su cargo en los términos que previene la fracción anterior; y
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+(NOTA: EL 28 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2017 Y SUS ACUMULADAS 39/2017 Y 60/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IX DEL NÚMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-IX. No ser servidor público del municipio de que se trate, a no ser que se separe del cargo noventa días antes de la elección. Si se trata del funcionario encargado de las finanzas municipales, es preciso que haya rendido sus cuentas al Congreso del Estado por conducto de la Auditoria Superior del Estado de Jalisco.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+IX. No ser servidor público del municipio de que se trate, a no ser que se separe del cargo noventa días antes de la elección, SALVO QUE SE TRATE DE REGIDORES QUE BUSCAN REELEGIRSE. Si se trata del funcionario encargado de las finanzas municipales, es preciso que haya rendido sus cuentas al Congreso del Estado por conducto de la Auditoría Superior del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -352,6 +364,10 @@ Artículo 12
 4. En el caso de munícipes electos como candidatos independientes solo podrán postularse para la reelección con la misma calidad de candidato independiente, salvo que se afilie y demuestre su militancia en un partido político antes de la mitad de su periodo, caso en el que si podrá postularse para reelección por dicho partido.
 
 5. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser electas en el período inmediato.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2017)</small>
+
+6. Tratándose del Presidente Municipal y Síndico que pretendan ser postulados para un segundo periodo deberán separarse del cargo al menos con noventa días de anticipación al día de la jornada electoral.
 
 Artículo 13 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
@@ -375,6 +391,8 @@ V. La asignación de Munícipes por el principio de representación proporcional
 
 Artículo 15
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE JUNIO DE 2017)</small>
+
 1. Para efectos de aplicación de la fórmula electoral, es:
 
 I. Votación Total Emitida: La suma de todos los sufragios emitidos en la elección correspondiente;
@@ -391,7 +409,9 @@ a) Votación efectiva estatal: la resultante de deducir de la votación válida 
 
 b) Votación efectiva municipal: la resultante de deducir de la votación válida emitida del municipio correspondiente, los votos de los partidos políticos y candidatos independientes que no reúnan el porcentaje mínimo de votos establecidos por la Constitución del Estado, para tener derecho a participar en el proceso de asignación de regidores de representación proporcional;
 
-IV. Votación para asignación de representación proporcional: la resultante de deducir de la votación efectiva los votos del partido político que obtuvo la mayoría en la elección correspondiente; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+IV. Votación Válida Distrital: Es aquella que resulte de deducir de la votación emitida en el distrito del que se trate los votos nulos y los candidatos no registrados; y
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -401,19 +421,23 @@ V. Votación obtenida: Los votos del partido político o candidato independiente
 
 Artículo 16
 
-1. El Congreso del Estado se integra por treinta y nueve Diputados que se eligen:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
+
+1. El Congreso del Estado se integra por treinta y ocho diputados que se eligen:
 
 I. Veinte por el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales en que se divide el territorio del Estado; y
 
-II. Diecinueve por el principio de representación proporcional, mediante el sistema de la circunscripción plurinominal única que es el territorio del Estado, y el sistema de asignación.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+II. Dieciocho por el principio de representación proporcional, mediante el sistema de la circunscripción plurinominal única que es el territorio del Estado, y el sistema de asignación.
 
 Artículo 17
 
 1. Los diputados que correspondan a cada partido conforme al principio de representación proporcional, serán asignados alternativamente, dos entre los candidatos registrados en la lista de representación proporcional y uno de los candidatos de cada partido político no electo bajo el principio de mayoría relativa que hayan obtenido los porcentajes mayores de votación válida distrital, iniciando por la más alta.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-2. Los partidos políticos deberán presentar una lista de candidatos ordenada en forma progresiva de diecinueve diputados a elegir por la modalidad de lista de representación proporcional. Las solicitudes de registro de representación proporcional que presenten los partidos, ante el Instituto, deben cumplir la paridad de género, garantizando la inclusión alternada entre géneros en el orden de la lista. Los partidos políticos sólo podrán postular simultáneamente candidatos a diputados por ambos principios hasta un veinticinco por ciento en relación al total de diputados de mayoría relativa.
+2. Los partidos políticos deberán presentar una lista de candidatos ordenada en forma progresiva de dieciocho diputados a elegir por la modalidad de lista de representación proporcional. Las solicitudes de registro de representación proporcional que presenten los partidos, ante el Instituto, deben cumplir la paridad de género, garantizando la inclusión alternada entre géneros en el orden de la lista. Los partidos políticos sólo podrán postular simultáneamente candidatos a diputados por ambos principios hasta un veinticinco por ciento en relación al total de diputados de mayoría relativa.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -511,21 +535,39 @@ Artículo 23
 
 1. La elección del Gobernador del Estado será mediante voto directo y por mayoría relativa, en la forma que dispone este Código y su calificación estará a cargo del Instituto Electoral.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2017)</small>
+
+2. Los ciudadanos que residan en el extranjero, podrán ejercer su derecho al voto en la elección de Gobernador, de conformidad con lo previsto en el artículo 6, párrafo segundo, inciso e) de la Constitución y en el Libro Sexto de la Ley General.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2017)</small>
+
+3. El ejercicio del voto podrá realizarse por correo, mediante entrega de la boleta en forma personal en los módulos que se instalen en las embajadas o consulados o, en su caso, por medios electrónicos; este último se utilizará preferentemente.
+
 ### Capítulo Quinto. Elección e Integración de los Ayuntamientos
 
 Artículo 24
 
 1. Los ayuntamientos se integran por un Presidente Municipal, el número de regidores de mayoría relativa y de representación proporcional que se señalan en el presente capítulo, y un síndico.
 
-2. Todos los integrantes del ayuntamiento tienen el carácter de munícipes, regidores o ediles.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+2. Todos los integrantes del ayuntamiento tienen el carácter de munícipes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
+
+3. Los partidos políticos, coaliciones o candidatos independientes deberán registrar una planilla de candidatos ordenada en forma progresiva, que contenga el número de regidores propietarios a elegir por el principio de mayoría relativa, iniciando con el Presidente Municipal y después los Regidores, con sus respectivos suplentes y el síndico; los partidos políticos elegirán libremente la posición que deberá ocupar el candidato a síndico en la planilla que integren. Los propietarios y suplentes deberán ser del mismo género. La integración de las planillas que presenten será con un cincuenta por ciento de candidatos de cada género, alternándolos en cada lugar de la lista. El suplente del Presidente Municipal se considera como un regidor más, para los efectos de la suplencia que establece esta ley.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
-3. Los partidos políticos, coaliciones o candidatos independientes deberán registrar una planilla de candidatos ordenada en forma progresiva, que contenga el número de regidores propietarios a elegir por el principio de mayoría relativa, iniciando con el Presidente Municipal y después los Regidores, con sus respectivos suplentes y el síndico; los partidos políticos elegirán libremente la posición que deberá ocupar el candidato a síndico en la planilla que integren. Los propietarios y suplentes deberán ser del mismo género. La integración de las planillas que presenten será con un cincuenta por ciento de candidatos de cada género, alternándolos en cada lugar de la lista, exceptuando el principio de paridad de género, al candidato a Presidente Municipal. El suplente del Presidente Municipal se considera como un regidor más, para los efectos de la suplencia que establece esta ley.
-
 En los municipios cuya población sea mayoritariamente indígena de acuerdo al Instituto Nacional de Estadística y Geografía, los partidos políticos, coaliciones y candidatos independientes, deberán integrar a su planilla al menos a un representante que pertenezca a las comunidades indígenas del municipio.
 
-4. Los ediles integrantes de los ayuntamientos, con independencia del principio de votación por el que fueron electos, tendrán los mismos derechos y obligaciones, así como las atribuciones específicas que las leyes les establezcan.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2017)</small>
+
+Es obligación que el cincuenta por ciento de las candidaturas a presidentes municipales que postulen los partidos políticos y coaliciones en el estado deberá ser de un mismo género.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+4. Los integrantes de los ayuntamientos, con independencia del principio de votación por el que fueron electos, tendrán los mismos derechos y obligaciones, así como las atribuciones específicas que las leyes les establezcan.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -607,19 +649,21 @@ b) Hasta cinco regidores de representación proporcional.
 
 III. En los municipios en que la población exceda de cien mil, pero no de quinientos mil habitantes, se elegirán:
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-a) Once regidores por el principio de mayoría relativa; y
+a) Diez regidores por el principio de mayoría relativa; y
 
 b) Hasta seis regidores de representación proporcional; y
 
 IV. En los municipios en que la población exceda de quinientos mil habitantes, se elegirán:
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-a) Trece regidores por el principio de mayoría relativa; y
+a) Doce regidores por el principio de mayoría relativa; y
 
-b) Hasta ocho regidores de representación proporcional.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+b) Hasta siete regidores de representación proporcional.
 
 ### Capítulo Sexto. Fechas y Realización de Elecciones Ordinarias y Extraordinarias
 
@@ -1041,15 +1085,17 @@ Artículo 85 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 Artículo 86
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-1. El Consejo General organizará dos debates obligatorios entre todos los candidatos a Gobernador del Estado y promoverá la celebración de debates entre candidatos a diputados y presidentes municipales.
+1. El Consejo General podrá organizar hasta cuatro debates entre todos los candidatos a Gobernador del Estado y dos a diputados y promoverá la celebración de debates entre candidatos a presidentes municipales.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-2. Para la realización de los debates entre todos los candidatos a Gobernador del Estado, el Consejo General del Instituto Electoral, definirá las reglas, fechas y sede, respetando el principio de equidad entre los candidatos y escuchando previamente la opinión de los partidos políticos y candidatos independientes. En todo caso, el primer debate tendrá lugar en la segunda semana de abril, y el segundo a más tardar en la segunda semana de mayo del año de la elección; cada debate tendrá la duración que acuerde el Consejo General.
+2. Para la realización de los debates entre todos los candidatos a Gobernador el Consejo General del Instituto Electoral, definirá las reglas, fechas y sede, respetando el principio de equidad entre los candidatos, estableciendo temáticas de interés general para la ciudadanía y prohibiendo los actos de difamación en los mismos, los cuales se llevaran a cabo cada 15 días durante el periodo de realización de campaña; cada debate tendrá la duración que acuerde el Consejo General.
 
-3. El Instituto dispondrá lo necesario para la producción técnica y difusión de los debates. Las señales de radio y televisión que el Instituto genere para este fin podrán ser utilizadas, en vivo, en forma gratuita, por los concesionarios y permisionarios de radio y televisión. El Instituto realizará las gestiones necesarias a fin de propiciar la transmisión de los debates en el mayor número posible de estaciones y canales.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+3. El Instituto dispondrá lo necesario para la producción técnica y difusión de los debates. Las señales de radio y televisión que el Instituto genere para este fin podrán ser utilizadas, en vivo, en forma gratuita, por los concesionarios y permisionarios de radio y televisión, así como de manera obligatoria la transmisión en vivo en el portal web del Instituto. El Instituto realizará las gestiones necesarias a fin de propiciar la transmisión de los debates en el mayor número posible de estaciones y canales.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JULIO DE 2014)</small>
 
@@ -1061,7 +1107,29 @@ Artículo 86
 
 6. El Instituto informará a la sociedad, en el tiempo de radio y televisión asignado para sus fines, la realización de los debates a que se refiere el presente artículo.
 
-Artículo 87 (DEROGADO, P.O. 8 DE JULIO DE 2014)
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+Artículo 87
+
+1. El Instituto establecerá la organización temática de los debates, en los cuales se deberá de manera obligatoria atender los siguientes objetivos:
+
+I. Gobernabilidad y Seguridad;
+
+II. Movilidad;
+
+III. Desarrollo Económico, Empleo y Salario;
+
+IV. Medio Ambiente;
+
+V. Desarrollo Humano, Educación e Innovación;
+
+VI. Cultura, Salud y Deporte;
+
+VII. Finanzas y Obra Pública, Transparencia, Rendición de Cuentas y Combate a la Corrupción;
+
+VIII. Infraestructura y Gasto Público; y
+
+IX. Derechos Humanos.
 
 Artículo 88 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
@@ -1081,9 +1149,13 @@ Artículo 89
 
 1. El financiamiento estatal de los partidos políticos estatales se rige por lo dispuesto en la Ley General de Partidos Políticos.
 
-2. Para el financiamiento estatal de los partidos políticos nacionales con acreditación en el Estado, se aplicarán las mismas reglas que la Ley General de Partidos Políticos establece para el financiamiento señalado en el párrafo anterior.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-> <small>N. DE E. RESPECTO A LOS NUMERALES 3, 4 Y 5, VÉASE EL P.O. DE 8 DE JULIO DE 2014, SECCIÓN VI, PÁGINA 21.</small>
+2. Para el financiamiento público estatal de los partidos políticos nacionales con acreditación en el Estado, se aplicará lo dispuesto en la Constitución Política del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2017)</small>
+
+3. Para el financiamiento privado de los partidos políticos nacionales con acreditación en el Estado, se aplicará lo dispuesto en la Ley General de Partidos Políticos.
 
 Artículo 90 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
@@ -1257,9 +1329,17 @@ II. Organizar, desarrollar, computar y declarar los resultados de los mecanismos
 
 III. Recibir y resolver en los términos de este Código los proyectos de iniciativa popular;
 
-IV. Promover una cultura política sustentada en la tolerancia, la democracia, la identidad nacional y el pluralismo, mediante actividades y programas de educación cívica y electoral; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-V. Vigilar en el ámbito electoral el cumplimiento de la Constitución Política local, este Código y demás ordenamientos que garanticen el derecho de organización y participación política de los ciudadanos.
+IV. Promover una cultura política sustentada en la tolerancia, la democracia, la identidad nacional y el pluralismo, mediante actividades y programas de educación cívica y electoral;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+V. Vigilar en el ámbito electoral el cumplimiento de la Constitución Política local, este Código y demás ordenamientos que garanticen el derecho de organización y participación política de los ciudadanos; y
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+VI. Realizar, en su ámbito de competencia, todas las actividades tendientes a fin de que los jaliscienses residentes en el extranjero puedan ejercer su derecho al voto.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -1315,7 +1395,7 @@ a) La Unidad;
 
 b) La Contraloría General;
 
-c) La Comisión de Adquisiciones y Enajenaciones;
+c) (DEROGADO, P.O. 2 DE JUNIO DE 2017)
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -1329,13 +1409,21 @@ e) La Comisión de Organización Electoral;
 
 f) La Comisión de Investigación y Estudios Electorales;
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-g) La Comisión de Quejas y Denuncias; y
+g) La Comisión de Quejas y Denuncias;
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-h) La Comisión de Participación Ciudadana.
+h) La Comisión de Participación Ciudadana;
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+i) La Comisión de Prerrogativas a Partidos Políticos; y
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+j) La Comisión de Seguimiento al Servicio Profesional Electoral;
 
 IV. Órganos desconcentrados, que son:
 
@@ -1631,15 +1719,25 @@ L. Aprobar el convenio para la utilización de los productos de la Dirección Ej
 
 LI. Vigilar el cumplimiento de esta legislación y las disposiciones que con base en ella se dicten;
 
-LII. Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuciones y las demás señaladas en este Código; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+LII. Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuciones y las demás señaladas en este Código;
 
-LIII. Aprobar el reglamento de fiscalización, atendiendo en lo que resulte aplicable los lineamientos y reglas que al efecto emita el Instituto Nacional Electoral; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2014)</small>
+LIII. Aprobar el reglamento de fiscalización, atendiendo en lo que resulte aplicable los lineamientos y reglas que al efecto emita el Instituto Nacional Electoral;
 
-LIV. Las demás que le sean conferidas por este ordenamiento legal y demás leyes aplicables.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+LIV. Aprobar las modalidades en que los ciudadanos jaliscienses residentes en el extranjero pueden ejercer su voto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2017)</small>
+
+LV. Asumir la competencia de los Consejos Distritales y Municipales una vez que se ha declarado su desinstalación o desintegración; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2017)</small>
+
+LVI. Las demás que le sean conferidas por este ordenamiento legal y demás leyes aplicables.
 
 Artículo 135
 
@@ -1987,7 +2085,9 @@ Artículo 145
 
 Artículo 146
 
-1. Los Consejos Distritales se integran:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
+
+1. La integración de los Consejeros (sic) Distritales, deberá ser conforme a los principios de igualdad de oportunidades y paridad entre hombres y mujeres, de conformidad al artículo 5 de éste Código, de la siguiente manera:
 
 a) Con siete Consejeros Distritales con derecho a voz y voto;
 
@@ -1999,7 +2099,9 @@ c) Un Consejero representante de cada uno de los partidos políticos acreditados
 
 Artículo 147
 
-1. Los Consejos Municipales se integran:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
+
+1. La integración de los Consejeros (sic) Municipales, deberá ser conforme a los principios de igualdad de oportunidades y paridad entre hombres y mujeres, de conformidad al artículo 5 de éste Código, de la siguiente manera:
 
 a) Con cinco Consejeros Municipales con derecho a voz y voto;
 
@@ -2265,9 +2367,17 @@ XVII. Remitir al Instituto Electoral la documentación correspondiente al cómpu
 
 XVIII. Remitir al Tribunal Electoral las demandas de juicio de inconformidad que se presenten en contra del cómputo, calificación y expedición de constancias de la elección de Diputados por el principio de mayoría relativa, en un plazo máximo de veinticuatro horas anexando el correspondiente informe circunstanciado;
 
-XIX. Solicitar auxilio a las autoridades de seguridad pública estatal o Municipales para garantizar el desarrollo pacífico del proceso electoral; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-XX. Las demás que le confieran este Código, el Consejo General o la presidencia del Instituto Electoral.
+XIX. Remitir al Tribunal Electoral las demandas de juicio para la protección de los derechos político-electorales del ciudadano que se presenten, en un plazo máximo de setenta y dos horas anexando el correspondiente informe circunstanciado;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+XX. Solicitar auxilio a las autoridades de seguridad pública estatal o Municipales para garantizar el desarrollo pacífico del proceso electoral; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2017)</small>
+
+XXI. Las demás que le confieran este Código, el Consejo General o la presidencia del Instituto Electoral.
 
 Artículo 168
 
@@ -2945,11 +3055,19 @@ Artículo 237
 
 2. Las candidaturas a diputados a elegirse por el principio de mayoría relativa se registrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género.
 
-3. En ningún caso se admitirán criterios que tengan como resultado que alguno de los géneros le sean asignados exclusivamente aquellos distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-4. Los partidos políticos deberán presentar una lista de diecinueve candidatos a diputados por el principio de representación proporcional, integrada por diez de un sexo y nueve del otro, alternando uno de cada sexo.
+3. En ningún caso se admitirán criterios que tengan como resultado que alguno de los géneros le sean asignados exclusivamente aquellos distritos o municipios en los que el partido haya obtenido los porcentajes de votación más bajos y/o en los que haya perdido en el proceso electoral anterior.
 
-5. El Instituto Electoral tendrá la facultad de rechazar el registro del número de candidaturas de un género que exceda la paridad, fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+4. Los partidos políticos deberán presentar una lista de dieciocho candidatos a diputados por el principio de representación proporcional, integrada por nueve de un sexo y nueve del otro, alternando uno de cada sexo.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+5. El Instituto Electoral tendrá la facultad de rechazar el registro del número de candidaturas de un género que exceda la paridad vertical y horizontal fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
+
+En el caso de que los partidos políticos o coaliciones no atiendan el principio de paridad horizontal, el Instituto Electoral lo resolverá mediante un sorteo entre las candidaturas registradas para determinar cuáles de ellas perderán su registro, hasta satisfacer el requisito de paridad entre los géneros.
 
 6. En el caso de que para un mismo cargo de elección popular sean registrados diferentes candidatos por un mismo partido político, el Secretario del Consejo General, una vez detectada esta situación, requerirá al partido político a efecto de que informe al Consejo General, en un término de cuarenta y ocho horas, qué candidato o fórmula prevalece. En caso de no hacerlo se entenderá que el partido político opta por el último de los registros presentados, quedando sin efecto los demás.
 
@@ -3119,9 +3237,9 @@ Artículo 250
 
 1. Los partidos políticos y coaliciones podrán solicitar la sustitución de sus candidatos:
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-I. Libremente dentro de los plazos para la presentación de las solicitudes de registro de candidatos; debiendo observar las reglas y el principio de paridad entre los géneros establecido en el artículo 237 de este código;
+I. Libremente dentro de los plazos para la presentación de las solicitudes de registro de candidatos; debiendo observar las reglas y el principio de paridad entre los géneros establecido en este código;
 
 II. Por renuncia de los candidatos o candidato, hasta treinta días antes al de la elección; y
 
@@ -3131,11 +3249,11 @@ III. Por causas de fallecimiento, inhabilitación o incapacidad de los candidato
 
 2. En los casos en que la renuncia del candidato fuere notificada por éste al Instituto Electoral, se hará del conocimiento del partido político o coalición que lo registró dentro de las cuarenta y ocho horas siguientes a aquella en que se recibió, para que proceda, en su caso a su sustitución.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 Artículo 251
 
-1. Los partidos políticos, coaliciones deberán modificar las listas o planillas, y los candidatos independientes sus planillas, que les instruya el Instituto Electoral, cuando su integración no cumpla con las reglas y el principio de paridad entre los géneros establecido en el artículo 237 de este código, dentro de las cuarenta y ocho horas siguientes a la notificación.
+1. Los partidos políticos, (sic) coaliciones deberán modificar las listas o planillas, y los candidatos independientes sus planillas, que les instruya el Instituto Electoral, cuando su integración no cumpla con las reglas y el principio de paridad entre los géneros establecido en este código, dentro de las cuarenta y ocho horas siguientes a la notificación.
 
 Artículo 252
 
@@ -3143,9 +3261,15 @@ Artículo 252
 
 #### Sección Séptima. Cancelaciones
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 Artículo 253
 
-1. A los partidos políticos o coaliciones que no presenten sus listas completas de candidatos a Diputados por el principio de representación proporcional, les serán cancelados los registros de candidatos a Diputados por el principio de mayoría relativa.
+(NOTA: EL 28 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2017 Y SUS ACUMULADAS 39/2017 Y 60/2017, DECLARÓ LA INVALIDEZ DEL NÚMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+1. A LOS PARTIDOS POLÍTICOS QUE NO PRESENTEN SUS LISTAS COMPLETAS DE CANDIDATOS A DIPUTADOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL, LES SERÁN CANCELADOS LOS REGISTROS DE CANDIDATOS A DIPUTADOS POR EL PRINCIPIO DE MAYORÍA RELATIVA.
+
+2. Serán canceladas las solicitudes de registro de candidatos y de planillas que no cumplan con el principio de paridad vertical y horizontal.
 
 Artículo 254
 
@@ -3231,6 +3355,18 @@ Artículo 259
 
 3. La autoridad electoral deberá retirar la publicidad y propaganda electoral sin logotipo.
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+Artículo 259 Bis
+
+1. Tratándose de las campañas electorales y de la propaganda electoral en el extranjero, los partidos políticos, sus candidatos y en su caso, los candidatos independientes, tendrán las siguientes prohibiciones:
+
+I. Realizar campañas electorales en el extranjero, por lo que, quedan prohibidas las actividades, actos y propaganda electoral, así como la realización de viajes y comisiones al extranjero;
+
+II. Utilizar recursos provenientes de financiamiento público o privado, en cualquiera de sus modalidades, para financiar actividades ordinarias o de campaña en el extranjero durante el proceso electoral local; y
+
+III. Comprar o adquirir tiempo en radio y televisión, ni arrendar espacios para propaganda o publicidad en el extranjero.
+
 Artículo 260
 
 1. La propaganda y mensajes que en el curso de las precampañas y campañas Electorales difundan los partidos políticos se ajustarán a lo dispuesto por el párrafo 1del (sic) artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos.
@@ -3259,9 +3395,9 @@ Artículo 261
 
 4. Los artículos promocionales utilitarios sólo podrán ser elaborados con material textil.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-5. La entrega de cualquier tipo de material que contenga propaganda política o electoral de partidos, coaliciones o candidatos, en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona está estrictamente prohibida a los partidos, candidatos, sus equipos de campaña o cualquier persona. Dichas conductas serán sancionadas de conformidad con este Código y se presumirá como indicio de presión al elector para obtener su voto.
+5. La entrega de cualquier tipo de material en el que se ofrece o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por si o interpósita persona está estrictamente prohibida a los partidos, candidatos, sus equipos de campaña o cualquier persona. Dichas conductas serán sancionadas de conformidad con este Código y se presumirá como indicio de presión al elector para obtener su voto.
 
 Artículo 262
 
@@ -3291,9 +3427,9 @@ V. No podrá colocarse, fijarse o pintarse en monumentos ni en edificios públic
 
 VI. Los aspirantes, precandidatos y candidatos deberán retirar y borrar totalmente cualquier propaganda electoral referente a su propia campaña o precampaña, en un plazo máximo de 30 días naturales posteriores a la jornada electoral o a la fecha de selección de candidatos. El cumplimiento de esta disposición es responsabilidad solidaria de los partidos políticos.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-2. Los partidos, coaliciones y candidatos deberán utilizar en su propaganda impresa y demás elementos promocionales, materiales que no dañen el medio ambiente, preferentemente reciclables y de fácil degradación natural. Sólo podrá usarse material plástico reciclable en la propaganda electoral impresa.
+2. Los partidos, coaliciones y candidatos deberán utilizar en su propaganda impresa y demás elementos promocionales, materiales que no dañen el medio ambiente, reciclables y de fácil degradación natural. Sólo podrá usarse material plástico reciclable en la propaganda electoral impresa.
 
 3. Los bastidores y mamparas de uso común serán repartidos por sorteo en forma equitativa de conformidad a lo que corresponda a los partidos políticos registrados y acreditados, conforme al procedimiento acordado en la sesión del Consejo Electoral Distrital respectivo, que al efecto celebre en Enero del año de la elección.
 
@@ -3821,9 +3957,11 @@ III. El secretario, o el funcionario autorizado para ello, anotará esos resulta
 
 IV. Los representantes de los partidos políticos acreditados ante el Consejo, contarán con los formatos adecuados para anotar en ellos los resultados de la votación en las casillas.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 Artículo 369
 
-1. Para el mejor conocimiento de los ciudadanos, concluido el plazo a que se refiere el artículo 344 de este Código, el Presidente deberá fijar en el exterior del local del Consejo Distrital o Municipal, según corresponda, los resultados preliminares de las elecciones.
+1. Para el mejor conocimiento de los ciudadanos, concluido el plazo a que se refiere el artículo 298 de la Ley General, el Presidente deberá fijar en el exterior del local del Consejo Distrital o Municipal, según corresponda, los resultados preliminares de las elecciones.
 
 ### Capítulo Décimo Cuarto. Cómputos de los Consejos Municipales Electorales
 
@@ -5803,9 +5941,17 @@ Artículo 460
 
 I. El Consejo General;
 
-II. La Comisión de Denuncias y Quejas, y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-III. La Secretaría Ejecutiva del Consejo General.
+II. La Comisión de Denuncias y Quejas;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+III. La Secretaria Ejecutiva del Consejo General; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2017)</small>
+
+IV. El Tribunal Electoral del Estado de Jalisco.
 
 2. Los Consejos Distritales y Municipales, en sus respectivos ámbitos de competencia fungirán como órganos auxiliares para la tramitación de los procedimientos sancionadores.
 
@@ -5853,11 +5999,15 @@ V. El señalamiento del día y la hora en la que deberá esperar la notificació
 
 11. Los plazos se contarán de momento a momento, si están señalados por días, éstos se considerarán de veinticuatro horas. Durante los procesos electorales todos los días y horas son hábiles. En el caso de los procedimientos incoados antes del proceso electoral, los plazos se computarán por días hábiles, respecto de aquellos que se presenten una vez iniciado aquél, por días naturales.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2017)</small>
+
+12. Los plazos se computarán a partir del día siguiente a aquél en que surta efectos la notificación al quejoso o denunciado del acto o resolución o de aquél en que haya tenido conocimiento o se ostente sabedor del acto o de su ejecución.
+
 Artículo 462
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-1. Son objeto de prueba los hechos controvertidos. No lo será el derecho, los hechos notorios o imposibles, ni aquellos que hayan sido reconocidos. Tanto la Secretaría como el Consejo General podrán invocar los hechos notorios aunque no hayan sido alegados por el denunciado o por el quejoso. En todo caso, una vez que se haya apersonado el denunciado al procedimiento de investigación, en el desahogo de las pruebas se respetará el principio de contradicción de la prueba, siempre que ello no signifique la posibilidad de demorar el proceso, o el riesgo de que se oculte o destruya el material probatorio.
+1. Son objeto de prueba los hechos controvertidos. No lo será el derecho, los hechos notorios o imposibles, ni aquellos que hayan sido reconocidos. Tanto la Secretaría, como el Consejo General o el Tribunal Electoral podrán invocar los hechos notorios aunque no hayan sido alegados por el denunciado o por el quejoso. En todo caso, una vez que se haya apersonado el denunciado al procedimiento de investigación, en el desahogo de las pruebas se respetará el principio de contradicción de la prueba, siempre que ello no signifique la posibilidad de demorar el proceso, o el riesgo de que se oculte o destruya el material probatorio.
 
 2. Las pruebas deberán ofrecerse en el primer escrito que presenten las partes en el procedimiento, expresando con toda claridad cuál es el hecho o hechos que tratan de acreditar, así como las razones por las que se estima que demostrarán las afirmaciones vertidas.
 
@@ -5881,17 +6031,21 @@ VI. Instrumental de actuaciones.
 
 6. El quejoso o el denunciado podrán aportar pruebas supervenientes hasta antes del cierre de la instrucción.
 
-7. Admitida una prueba superveniente, se dará vista al quejoso o denunciado, según corresponda, para que en el plazo de cinco días manifieste lo que a su derecho convenga.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+7. Admitida una prueba superveniente, se dará vista al quejoso o denunciado, según corresponda, para que en el plazo de cinco días manifieste lo que a su derecho convenga si el procedimiento es ordinario, y de quince minutos si fuera especial.
 
-8. La Secretaría o el Consejo General podrán admitir aquellas pruebas que habiendo sido ofrecidas en el escrito por el que se comparezca al procedimiento, hayan sido solicitadas previamente a las instancias correspondientes y no se hubiesen aportado antes de la aprobación del proyecto de resolución y se aporten hasta veinticuatro horas antes del inicio de la sesión respectiva. El Consejo General apercibirá a las autoridades que no atiendan en tiempo y forma, el requerimiento de las pruebas.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+8. La Secretaría, el Consejo General o el Tribunal Electoral podrán admitir aquellas pruebas que habiendo sido ofrecidas en el escrito por el que se comparezca al procedimiento, hayan sido solicitadas previamente a las instancias correspondientes y no se hubiesen aportado antes de la aprobación del proyecto de resolución y se aporten hasta veinticuatro horas antes del inicio de la sesión respectiva. El Consejo General o el Tribunal Electoral apercibirá a las autoridades que no atiendan en tiempo y forma, el requerimiento de las pruebas.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
 9. El Consejo General podrá admitir aquellos elementos probatorios que hayan sido solicitados por los órganos del Instituto dentro de la investigación correspondiente y no se hubiesen recibido, sino hasta veinticuatro horas antes de la sesión respectiva. En estos casos el Consejo General ordenará la devolución del expediente a la Secretaría para los efectos del párrafo 1 del artículo 470 del presente Código.
 
-10. Los órganos que sustancien el procedimiento podrán hacer uso de los medios de apremio para hacer cumplir sus resoluciones.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+10. Para hacer cumplir sus resoluciones, así como para mantener el orden, el respeto y la consideración debida, los órganos que sustancien los procedimientos, podrán hacer uso de los medios de apremio y las correcciones disciplinarias previstas en el artículo 561 de este código.
 
 Artículo 463
 
@@ -5902,6 +6056,16 @@ Artículo 463
 3. Las documentales privadas, técnicas, periciales, e instrumental de actuaciones, así como aquellas en las que un fedatario haga constar las declaraciones de alguna persona debidamente identificada, sólo harán prueba plena cuando a juicio del órgano competente para resolver generen convicción sobre la veracidad de los hechos afirmados, al concatenarse con los demás elementos que obren en el expediente, las afirmaciones de las partes, la verdad conocida y el recto raciocinio de la relación que guardan entre sí.
 
 4. En el caso de existir imposibilidad material para compulsar las copias simples que obren en el expediente, éstas harán prueba plena en lo que perjudique al aportante y en cuanto al fondo tendrán únicamente el valor de un indicio.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+Artículo 463 Bis
+
+1. Las partes podrán objetar las pruebas ofrecidas durante la sustanciación de los procedimientos administrativos sancionadores, siempre y cuando se realice antes de su desahogo.
+
+2. La objeción que realicen las partes sobre la autenticidad de la prueba o de su alcance probatorio, deberá indicar cuál es el aspecto que no se reconoce de la prueba o porque no puede ser valorado positivamente por la autoridad, esto es, el motivo por el que a su juicio no resulta idóneo para resolver un punto de hecho.
+
+3. Para desvirtuar la existencia o verosimilitud de los medios probatorios ofrecidos, no basta la simple objeción formal de dichas pruebas, sino que es necesario señalar las razones concretas en que se apoya la objeción y aportar elementos idóneos para acreditarlas, mismos que tenderán a invalidar la fuerza probatoria de la prueba objetada.
 
 Artículo 464
 
@@ -6067,7 +6231,9 @@ Artículo 471
 
 1. Dentro de los procesos electorales, la Secretaría del Consejo General instruirá el procedimiento especial establecido por el presente capítulo, cuando se denuncie la comisión de conductas que:
 
-I. Violen el segundo párrafo del artículo 116 Bis, de la Constitución local;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+I. Constituya propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales los poderes públicos, los órganos autónomos, dependencia y entidades de la administración púbica, los municipios, organismos públicos descentralizados y cualquier otro ente público, que no tenga carácter institucional y fines informativos, educativos o de orientación social. Que la propaganda incluya nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público;
 
 II. Contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en este Código; o
 
@@ -6204,6 +6370,12 @@ II. El Secretario Ejecutivo ejercerá, en lo conducente, las facultades señalad
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
 III. Los procedimientos sancionadores especiales respectivos serán resueltos por el Tribunal Electoral del Estado de Jalisco, conforme a las reglas establecidas en el presente capítulo.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+Artículo 475 Bis
+
+1. Las sentencias emitidas por el Tribunal Electoral recaídas a los procedimientos sancionadores especiales, serán notificados (sic) por el propio tribunal conforme a las reglas establecidas en el artículo 461 de este Código.
 
 ### Capítulo Cuarto. Del Procedimiento Sancionador en Materia de Quejas Sobre Financiamiento y Gasto de los Partidos Políticos
 
@@ -6517,11 +6689,17 @@ I. El recurso de revisión, para garantizar la legalidad de actos y resoluciones
 
 II. El recurso de apelación y el juicio de inconformidad, para juzgar la legalidad de actos y resoluciones de las autoridades electorales locales;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-III. Los medios de impugnación precedentes que en lo conducente sean aplicables para dirimir controversias respecto de los procesos de mecanismos de participación social; y
+III. El Juicio para la Protección de los Derechos Político Electorales del Ciudadano;
 
-IV. Los procedimientos especiales para dirimir los conflictos o diferencias laborales entre el Instituto Electoral y sus servidores.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+IV. Los medios de impugnación precedentes que en lo conducente sean aplicables para dirimir controversias respecto de los procesos de mecanismos de participación social; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2017)</small>
+
+V. Los procedimientos especiales para dirimir los conflictos o diferencias laborales entre el Instituto Electoral.
 
 Artículo 502
 
@@ -6667,9 +6845,13 @@ IV. El ciudadano agraviado fallezca o sea suspendido o privado de sus derechos p
 
 Artículo 511
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
+
 1. Cuando se actualice alguno de los supuestos a que se refiere el artículo anterior se estará, a lo siguiente:
 
-I. En los asuntos de la competencia del Tribunal, el Magistrado Electoral propondrá el sobreseimiento al Pleno del Tribunal o la Sala Permanente; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+I. En los asuntos de la competencia del Tribunal, el Magistrado Electoral propondrá el sobreseimiento al Pleno del Tribunal; y
 
 II. En los asuntos de la competencia del Consejo General del Instituto Electoral y de sus órganos desconcentrados, el Secretario respectivo, propondrá el dictamen del sobreseimiento al órgano competente quien resolverá lo conducente.
 
@@ -6841,7 +7023,9 @@ Artículo 529
 
 Artículo 530
 
-1. Dentro del plazo a que se refiere el artículo 506, los terceros interesados podrán comparecer mediante escrito en el que deberán cumplir los requisitos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
+
+1. Los terceros interesados podrán comparecer dentro del plazo de setenta y dos horas, mediante escrito en el que deberán cumplir los requisitos siguientes:
 
 I. Presentarlo ante la autoridad responsable del acto o resolución impugnado;
 
@@ -6979,7 +7163,9 @@ VI. El plazo o término para su cumplimiento.
 
 Artículo 543
 
-1. Cuando lo juzguen necesario, el Pleno o la Sala Permanente del Tribunal Electoral podrán, de oficio o a petición de parte, aclarar un concepto o precisar los efectos de una sentencia, siempre y cuando esto no implique una alteración sustancial de los puntos resolutivos o del sentido del fallo.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+1. Cuando lo juzguen necesario, el Pleno del Tribunal Electoral podrá, de oficio o a petición de parte, aclarar un concepto o precisar los efectos de una sentencia, siempre y cuando esto no implique una alteración sustancial de los puntos resolutivos o del sentido del fallo.
 
 > <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
 
@@ -7079,7 +7265,9 @@ Artículo 559
 
 Artículo 560
 
-1. El Magistrado instructor que se encuentre sustanciando un expediente, podrá proponer al Pleno o a la Sala Permanente un acuerdo de separación, cuando se le turnen u obren en un mismo expediente, diversos asuntos que por su propia naturaleza deban estudiarse y resolverse por separado.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+1. El Magistrado instructor que se encuentre sustanciando un expediente, podrá proponer al Pleno un acuerdo de separación, cuando se le turnen u obren en un mismo expediente, diversos asuntos que por su propia naturaleza deban estudiarse y resolverse por separado.
 
 2. Dictado el acuerdo de separación, el Magistrado Instructor concluirá la sustanciación por separado de los expedientes que hubiesen resultado, formulando los diversos proyectos de sentencia.
 
@@ -7121,9 +7309,11 @@ Artículo 566
 
 1. Si en los asuntos sometidos al conocimiento de los órganos de jurisdicción del Tribunal Electoral, se advierte que la conducta asumida o desplegada por el infractor pudiese constituir delito, el Presidente del Tribunal Electoral ordenará que se levante el acta correspondiente y que se haga del conocimiento de la autoridad competente, para que proceda conforme a derecho.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 Artículo 567
 
-1. En la determinación de los medios de apremio y las correcciones disciplinarias, el Pleno del Tribunal Electoral o la Sala Permanente tomará en consideración las circunstancias particulares del caso, las personales del responsable y la gravedad de la conducta.
+1. En la determinación de los medios de apremio y las correcciones disciplinarias, el Pleno del Tribunal Electoral tomará en consideración las circunstancias particulares del caso, las personales del responsable y la gravedad de la conducta.
 
 Artículo 568
 
@@ -7171,9 +7361,17 @@ Artículo 572
 
 I. El recurso de aclaración;
 
-II. El recurso de revisión; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-III. El recurso de apelación.
+II. El recurso de revisión;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+III. El recurso de apelación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2017)</small>
+
+IV. El Juicio para la Protección de los Derechos Políticos Electorales del Ciudadano.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
@@ -7331,15 +7529,21 @@ IV. Los representantes de los candidatos independientes acreditados ante el Inst
 
 ### Capítulo Único. Competencia
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 Artículo 595
 
-1. El recurso de apelación y el juicio de inconformidad se substanciarán y resolverán con arreglo al procedimiento que determina este Código.
+1. El recurso de apelación, el juicio de inconformidad y el juicio para la protección de los derechos político-electorales del ciudadano se substanciarán y resolverán con arreglo al procedimiento que determina este Código.
 
 Artículo 596
 
-1. Durante un proceso electoral ordinario o extraordinario es competente para conocer y resolver de los juicios de inconformidad el Pleno del Tribunal Electoral.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-2. Durante el tiempo que transcurra entre dos procesos Electorales, es competente para resolver el recurso de apelación la Sala Permanente del Tribunal Electoral; dentro de un proceso electoral ordinario o extraordinario, el Pleno del Tribunal Electoral.
+1. Durante un proceso electoral ordinario o extraordinario es competente para conocer y resolver de los juicios de inconformidad y de los juicios para la protección de los derechos político-electorales del ciudadano el Pleno del Tribunal Electoral.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+2. En cualquier tiempo, es competente para resolver el recurso de apelación y los juicios para la protección de los derechos político-electorales del ciudadano, el Pleno del Tribunal Electoral.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
@@ -7349,9 +7553,11 @@ Artículo 597
 
 1. En todo caso, para cualquier controversia que surja por razón de la competencia que se establece en los supuestos descritos en el artículo que antecede, se deberá estar a lo que en esta materia disponga la Ley Orgánica del Poder Judicial del Estado.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 Artículo 598
 
-1. Interpuesta la demanda de juicio de inconformidad o el recurso de apelación, el Pleno del Tribunal Electoral o en su caso la Sala Permanente, dictarán las resoluciones que procedan.
+1. Interpuesta la demanda de juicio de inconformidad, de juicio para la protección de los derechos político-electorales del ciudadano o del recurso de apelación, el Pleno del Tribunal Electoral, dictará las resoluciones que procedan.
 
 ###### Artículo 591.
 
@@ -7429,7 +7635,9 @@ Artículo 603
 
 Artículo 604
 
-1. Para resolver el recurso de apelación será competente el Pleno del Tribunal Electoral o la Sala Permanente en su caso, lo que llevará a cabo dentro de los 10 días siguientes a aquel en que se admitan las demandas, excepto cuando el actor haya anunciado pruebas y éstas no obren en el expediente, supuesto en el cual el plazo correrá a partir del día siguiente a aquel en que el Pleno el Tribunal Electoral o la Sala Permanente tengan por recibidas y desahogadas las pruebas.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+1. Para resolver el recurso de apelación será competente el Pleno del Tribunal Electoral, y lo llevará a cabo dentro de los 10 días siguientes a aquel en que se admitan las demandas, excepto cuando el actor haya anunciado pruebas y éstas no obren en el expediente, supuesto en el cual el plazo correrá a partir del día siguiente a aquel en que el Pleno el (sic) Tribunal Electoral tenga por recibidas y desahogadas las pruebas.
 
 2. No se recibirán pruebas que no hubieren sido ofrecidas oportunamente ante la autoridad que resolvió el recurso administrativo, salvo las de carácter superveniente.
 
@@ -7459,7 +7667,9 @@ Artículo 608
 
 Artículo 609
 
-1. Las sentencias del Pleno del Tribunal Electoral o de la Sala Permanente recaídas a los recursos de apelación, serán notificadas dentro de las cuarenta y ocho horas siguientes de pronunciadas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
+
+1. Las sentencias del Pleno del Tribunal recaídas a los recursos de apelación, serán notificadas dentro de las cuarenta y ocho horas siguientes de pronunciadas:
 
 I. Al actor, por correo certificado, por telegrama o personalmente;
 
@@ -7479,7 +7689,11 @@ Artículo 611
 
 Artículo 612
 
-1. El juicio de inconformidad se podrá promover por los partidos políticos o coaliciones, por conducto de sus dirigentes o representantes legales acreditados ante el órgano electoral responsable, y por los candidatos por su propio derecho sin que sea válida representación alguna, en contra de:
+(NOTA: EL 28 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2017 Y SUS ACUMULADAS 39/2017 Y 60/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL NÚMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
+
+1. El juicio de inconformidad se podrá promover por los partidos políticos o coaliciones, por conducto de sus dirigentes o representantes legales acreditados ante el órgano electoral responsable, así como por el representante partidista acreditado ante el Consejo General del Instituto Electoral, y por los candidatos por su propio derecho SIN QUE SEA VÁLIDA REPRESENTACIÓN ALGUNA, en contra de:
 
 I. Los resultados consignados en las actas de cómputo:
 
@@ -7535,13 +7749,11 @@ b) La declaración de validez de la elección y por consecuencia, el otorgamient
 
 c) La asignación de Diputados y Munícipes electos por el principio de representación proporcional.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 Artículo 618
 
-1. En ningún caso se podrá impugnar mediante un escrito de inconformidad:
-
-I. Más de una elección, o
-
-II. Distintos supuestos de procedencia del juicio, salvo que los actos o resoluciones susceptibles de impugnación corran a cargo de uno sólo de los órganos del Instituto Electoral y éstos sean emitidos en la misma sesión.
+1. En ningún caso se podrá impugnar mediante un escrito de inconformidad más de una elección.
 
 Artículo 619
 
@@ -7749,9 +7961,9 @@ VIII. Se haya recibido la votación en fecha distinta a la señalada para la cel
 
 IX. Se haya realizado, sin causa justificada, el escrutinio y cómputo en local diferente al determinado por el órgano electoral correspondiente.
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-X. Hubieran existido irregularidades graves y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo, que en forma evidente y a juicio del Pleno o de la Sala competente del Tribunal Electoral, pongan en duda la certeza de la votación;
+X. Hubieran existido irregularidades graves y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo, que en forma evidente y a juicio del Pleno del Tribunal Electoral, pongan en duda la certeza de la votación;
 
 XI. Se hubieren instalado en lugar oculto las urnas electorales durante la jornada electoral;
 
@@ -7806,6 +8018,30 @@ III. Escrutinio y cómputo de cada uno de los paquetes electorales, atendiendo a
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
 IV. Elaboración de acta circunstanciada, así como de las actas de recuento de votación.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+Artículo 637 Bis
+
+1. El incidente sobre la pretensión de nuevo escrutinio y cómputo en las elecciones locales de que conozca el Pleno del Tribunal Electoral solamente procederá cuando:
+
+I. El nuevo escrutinio y cómputo solicitado no haya sido desahogado, sin causa justificada, en la sesión de cómputo correspondiente en los términos de lo dispuesto por el artículo 372, párrafo 1, fracción IV y 377, del presente Código; y
+
+II. Cuando se haya negado sin causa justificada, el recuento a que se refiere el artículo 637, del presente Código.
+
+2. El Pleno del Tribunal Electoral deberá establecer si las inconsistencias pueden ser corregidas o subsanadas con algunos otros datos o elementos que obren en el expediente o puedan ser requeridos sin necesidad de recontar los votos.
+
+3. No procederá el incidente en el caso de casillas en las que se hubiere realizado nuevo escrutinio y cómputo en la sesión de cómputo respectiva.
+
+4. Los incidentes serán tramitados y resueltos dentro de los seis días a partir de su admisión, sujetándose a lo siguiente:
+
+I. Los incidentes de nuevo escrutinio y cómputo, no generarán la suspensión del asunto principal, por lo que se tramitarán por cuerda separada;
+
+II. El plazo para resolver los incidentes por ningún motivo deberá de exceder del tiempo con el que se cuenta para la resolución; por lo que se deberá atender a lo siguiente;
+
+III. Los plazos para la notificación, traslado, requerimientos, desahogo de éstos, citación o emisión de sentencias interlocutorias y otros actos procesales, que se consideren indispensables a fin de salvaguardar los derechos de los justiciables en el incidente de nuevo escrutinio y cómputo, deberán ser establecidos por el Pleno del Tribunal Electoral en el auto que admita a trámite el incidente, debiendo para ello tener en cuenta que no podrá rebasar el plazo de seis días con el que cuenta para resolverlo, fundando y motivando su actuación.
+
+5. Lo no regulado en esta ley en materia de incidentes, se estará a lo que establece el Código de Procedimientos Civiles para el Estado de Jalisco, y el reglamento interno del Tribunal.
 
 Artículo 638
 
@@ -7927,9 +8163,11 @@ Artículo 630
 
 ### Capítulo Primero. Reglas Especiales
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 Artículo 654
 
-1. Las diferencias o conflictos entre el Instituto Electoral y sus servidores serán resueltas por el Pleno del Tribunal Electoral o la Sala Permanente, y conforme a lo dispuesto en el presente Título.
+1. Las diferencias o conflictos entre el Instituto Electoral y sus servidores serán resueltas por el Pleno del Tribunal Electoral, y conforme a lo dispuesto en el presente Título.
 
 Artículo 655
 
@@ -7997,7 +8235,9 @@ VI. Firma autógrafa del promovente.
 
 Artículo 662
 
-1. En el caso de que el Tribunal Electoral o la Sala Permanente notare alguna irregularidad u oscuridad en el escrito de demanda, prevendrá al actor para que las subsane dentro de un plazo de tres días.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+1. En el caso de que el Tribunal Electoral notare alguna irregularidad u oscuridad en el escrito de demanda, prevendrá al actor para que las subsane dentro de un plazo de tres días.
 
 2. La demanda será admitida, cuando satisfaga los requisitos previstos por este Código.
 
@@ -8005,9 +8245,11 @@ Artículo 663
 
 1. Dentro de los tres días hábiles siguientes a la admisión de la demanda, se ordenará emplazar al Instituto Electoral por conducto de su representante legal, corriéndole traslado con copia certificada del escrito y simple de sus anexos.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 Artículo 664
 
-1. El Tribunal Electoral o la Sala Permanente ordenarán que se corrija cualquier irregularidad u omisión que notaren en la sustanciación del procedimiento, para el efecto de regularizarlo.
+1. El Tribunal Electoral ordenará que se corrija cualquier irregularidad u omisión que notaren en la sustanciación del procedimiento, para el efecto de regularizarlo.
 
 Artículo 665
 
@@ -8029,7 +8271,9 @@ Artículo 668
 
 1. Si las partes llegaren a un acuerdo, se dará por terminado el conflicto y celebrarán convenio.
 
-2. El convenio deberá aprobarse por el Tribunal Electoral o por la Sala Permanente, y producirá todos los efectos jurídicos inherentes a un laudo.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+2. El convenio deberá aprobarse por el Tribunal Electoral y producirá todos los efectos jurídicos inherentes a un laudo.
 
 Artículo 669
 
@@ -8037,7 +8281,9 @@ Artículo 669
 
 Artículo 670
 
-1. En la audiencia a que se refiere el artículo anterior, el Pleno del Tribunal Electoral o la Sala Permanente, determinará la admisión de las pruebas que estime pertinentes, misma que se sujetará a las siguientes reglas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
+
+1. En la audiencia a que se refiere el artículo anterior, el Pleno del Tribunal Electoral determinará la admisión de las pruebas que estime pertinentes, misma que se sujetará a las siguientes reglas:
 
 I. Preservará el derecho de las partes para objetar las pruebas ofrecidas;
 
@@ -8051,13 +8297,17 @@ Artículo 671
 
 I. El oferente de la prueba deberá presentar el pliego de posiciones correspondiente anexo a su demanda;
 
-II. Una vez que el Pleno del Tribunal Electoral o la Sala Permanente, califiquen de legales las posiciones, se ordenará que a través de oficio se remita el pliego al absolvente, concediéndole un plazo de tres días para que desahogue la prueba por escrito; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+II. Una vez que el Pleno del Tribunal Electoral califique de legales las posiciones, se ordenará que a través de oficio se remita el pliego al absolvente, concediéndole un plazo de tres días para que desahogue la prueba por escrito; y
 
 III. En caso de que el Presidente del Instituto Electoral no conteste dentro del plazo concedido, o en su contestación se conduzca de manera evasiva en las respuestas, se le tendrá por confeso.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 Artículo 672
 
-1. La autoridad jurisdiccional podrá ordenar el desahogo de pruebas por exhorto, que dirigirá a la autoridad competente del lugar donde deba efectuarse la diligencia en auxilio de las labores del Tribunal Electoral o de la Sala Permanente.
+1. La autoridad jurisdiccional podrá ordenar el desahogo de pruebas por exhorto, que dirigirá a la autoridad competente del lugar donde deba efectuarse la diligencia en auxilio de las labores del Tribunal Electoral.
 
 Artículo 673
 
@@ -8067,15 +8317,21 @@ Artículo 674
 
 1. En el caso de que no hayan comparecido las partes a la última audiencia, se ordenará fijar copia del auto de cierre de instrucción en los estrados.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 Artículo 675
 
-1. Cerrada la instrucción, el Magistrado Electoral procederá a formular el proyecto de resolución en forma de laudo, y lo someterá a la consideración del Pleno del Tribunal o la Sala permanente, según sea el caso, dentro de los diez días siguientes.
+1. Cerrada la instrucción, el Magistrado Electoral procederá a formular el proyecto de resolución en forma de laudo, y lo someterá a la consideración del Pleno del Tribunal, dentro de los diez días siguientes.
 
 Artículo 676
 
-1. El Pleno del Tribunal Electoral o la Sala Permanente resolverá la controversia laboral en sesión pública, dentro de los diez días hábiles siguientes a partir de que se declare cerrada la instrucción.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-2. El Tribunal Electoral o la Sala Permanente podrá sesionar en privado si la índole del conflicto planteado así lo amerita.
+1. El Pleno del Tribunal Electoral resolverá la controversia laboral en sesión pública, dentro de los diez días hábiles siguientes a partir de que se declare cerrada la instrucción.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+2. El Tribunal Electoral podrá sesionar en privado si la índole del conflicto planteado así lo amerita.
 
 3. El laudo tendrá el carácter de definitivo e inatacable.
 
@@ -8085,13 +8341,17 @@ Artículo 677
 
 Artículo 678
 
-1. Dentro del plazo de tres días contados a partir de la notificación del laudo, las partes podrán solicitar al Pleno del Tribunal Electoral o a la Sala Permanente, la aclaración del laudo, para precisar o corregir algún punto.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+1. Dentro del plazo de tres días contados a partir de la notificación del laudo, las partes podrán solicitar al Pleno del Tribunal Electoral la aclaración del laudo, para precisar o corregir algún punto.
 
 2. La autoridad jurisdiccional dentro de un plazo igual resolverá sobre la petición, sin que en ningún caso modifique el sentido del laudo.
 
 Artículo 679
 
-1. Los efectos del laudo que emita el Pleno del Tribunal Electoral o la Sala Permanente, se dictarán en el sentido de confirmar, modificar o revocar el acto o resolución impugnado.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+1. Los efectos del laudo que emita el Pleno del Tribunal Electoral se dictarán en el sentido de confirmar, modificar o revocar el acto o resolución impugnado.
 
 2. En el supuesto de que el laudo ordene dejar sin efectos la destitución del servidor público, el Secretario General del (sic) Acuerdos del Tribunal o el actuario que éste designe, se constituirá en el domicilio donde el servidor prestaba sus servicios, a efecto de llevar a cabo la diligencia de reinstalación.
 
@@ -8306,6 +8566,10 @@ Artículo 696
 3. Para fórmula de Munícipes, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al uno por ciento de la lista nominal de electores correspondiente al municipio en cuestión, con corte al 31 de agosto del año previo al de la elección, y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que sumen como mínimo el uno por ciento de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
 
 4. Los aspirantes a candidatos independientes deben entregar las firmas de apoyo en los formatos oficiales establecidos por el Instituto, los cuales deberán ser entregados en original al secretario ejecutivo dentro de los plazos establecidos en el artículo 694 de este Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2017)</small>
+
+5. No será requisito acompañar copia de las credenciales para votar de quienes han expresado su apoyo a la candidatura que corresponda.
 
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -8811,11 +9075,11 @@ I. Financiamiento privado, y
 
 II. Financiamiento público.
 
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 Artículo 724
 
-1. El financiamiento privado se constituye por las aportaciones que realicen el Candidato Independiente y sus simpatizantes, el cual no podrá rebasar en ningún caso, el 10% del tope de gasto para la elección de que se trate.
+1. El financiamiento privado se constituye por las aportaciones que realicen el Candidato Independiente y sus simpatizantes, el cual sumado con el financiamiento público que reciba, no podrá rebasar en ningún caso, el tope de gasto para la elección de que se trate.
 
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -9098,3 +9362,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26374/LXI/17, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5, 7, 8, 11, 12, 15, 16, 17, 23, 24, 29, 86, SE ADICIONA EL ARTÍCULO 87, SE REFORMAN LOS ARTÍCULOS 89, 115, 118, 134, 146, 147, 167, 237, 250, 251, 253, SE ADICIONA EL ARTÍCULO 259 BIS, SE REFORMAN LOS ARTÍCULOS 261, 263, 369, 460, 461, 462, SE ADICIONA EL ARTÍCULO 463 BIS, SE REFORMA EL ARTÍCULO 471, SE ADICIONA EL ARTÍCULO 475 BIS, SE REFORMAN LOS ARTÍCULOS 501, 511, 530, 543, 560, 567, 572, 595, 596, 598, 604, 609, 612, 618, 636, SE ADICIONA EL ARTÍCULO 637 BIS Y SE REFORMAN LOS ARTÍCULOS 654, 662, 664, 668, 670, 671 ,672, 675, 676, 678, 679, 696, 724, TODOS DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial “El Estado de Jalisco”.
