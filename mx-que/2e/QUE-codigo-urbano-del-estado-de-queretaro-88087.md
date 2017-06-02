@@ -4,7 +4,7 @@ identifier: "QUE-codigo-urbano-del-estado-de-queretaro-88087"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-05-31"
-last_updated: "2016-12-16"
+last_updated: "2017-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # CODIGO URBANO DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO URBANO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 31 de mayo de 2012.
 
@@ -229,7 +231,7 @@ Corresponde a los Municipios la aprobación y autorización de los desarrollos i
 
 Al Ayuntamiento le corresponde autorizar las etapas previstas en el artículo 186 fracciones IV, V, VI, y VII de este Código. Al área encargada del desarrollo urbano le corresponde lo relativo a las fracciones I, II y III, del citado artículo 186.
 
-Al Ayuntamiento le corresponderá la autorización para la venta de unidades privativas de aquellas unidades condominales o condominios que requieran obras de urbanización y que no se originen de un fraccionamiento autorizado. Al área encargada del desarrollo urbano, lo correspondiente a las etapas previstas en las fracciones I, II, III, IV, V y VIl del artículo 244 de este Código, lo relativo a la fracción VI, podrá ser autorizado siempre y cuando el condominio no requiera obras de urbanización.
+Al Ayuntamiento le corresponderá la autorización para la venta de unidades privativas de aquellas unidades condominales o condominios que requieran obras de urbanización y que no se originen de un fraccionamiento autorizado. Al área encargada del desarrollo urbano, lo correspondiente a las etapas previstas en las fracciones I, II, III, IV, V y VII del artículo 244 de este Código, lo relativo a la fracción VI, podrá ser autorizado siempre y cuando el condominio no requiera obras de urbanización.
 
 La Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo del Estado, podrá autorizar y aprobar, previo convenio con los Municipios, llevar a cabo los trámites administrativos referentes a los desarrollos inmobiliarios.
 
@@ -411,9 +413,11 @@ V. La operación, inspección, supervisión, control y vigilancia de los sistema
 
 #### Sección Sexta. De las Autoridades en Caminos, Carreteras y Otras Vialidades
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 ###### Artículo 23.
 
-La Comisión Estatal de Caminos del Estado de Querétaro será regulada por la Ley que la crea y contará con las facultades que la misma le conceda, además de las señaladas en este Código.
+La Comisión Estatal de Infraestructura de Querétaro será regulada por la Ley que la crea y contará con las facultades que la misma le conceda, además de las señaladas en este Código.
 
 #### Sección Séptima
 
@@ -499,9 +503,17 @@ V. Vialidad;
 
 VI. Transporte;
 
-VII. Equipamiento; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-VIII. Ejecución y operación de servicios públicos.
+VII. Equipamiento;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+VIII. Ejecución y operación de servicios públicos; y
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+IX. Pluvial.
 
 ###### Artículo 31.
 
@@ -1211,8 +1223,6 @@ II. Considerar la vivienda como factor de ordenamiento territorial, de desarroll
 
 III. Asegurar la congruencia de las acciones de vivienda con los planes y programas de ordenamiento ecológico y de desarrollo urbano;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2014)</small>
 
 IV. Crear parques urbanos y áreas verdes con plantas de especies nativas de la región suficientes para mejorar la imagen urbana y el ambiente, atendiendo a la recreación y esparcimiento de la población;
@@ -1513,8 +1523,6 @@ La autoridad competente determinará cuando un desarrollo inmobiliario deberá s
 
 El desarrollador estará obligado a la introducción de la infraestructura, servicios y los equipamientos necesarios para el desarrollo del predio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 138 Bis.
@@ -1541,7 +1549,7 @@ V. Comerciales;
 
 VI. Industrial; y
 
-VIl. Mixto.
+VII. Mixto.
 
 La densidad de población de los desarrollos inmobiliarios estará a lo dispuesto en los programas de desarrollo urbano y corresponderá al Reglamento Municipal establecer la clasificación y sus características.
 
@@ -1643,9 +1651,11 @@ La autoridad podrá realizar observaciones al anteproyecto presentado, estando o
 
 Una vez aprobado el anteproyecto, adquirirá el carácter de proyecto para todos los efectos legales.
 
+> <small>(REFORMADO PRIMERO PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
+
 ###### Artículo 154.
 
-Es atribución del Municipio, en el ámbito de su competencia, determinar:
+Es atribución del Municipio, en el ámbito de su competencia, determinar y autorizar los proyectos ejecutivos relativos a:
 
 I. Los proyectos de redes viales, los derechos de vía y el establecimiento de los equipamientos para los servicios e instalaciones correspondientes, así como sus características;
 
@@ -2001,7 +2011,7 @@ VI. En su caso, autorización para venta de lotes; y
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-VIl. Entrega al Municipio de las obras de urbanización y autorización definitiva del fraccionamiento, mismo que podrá entregarse por etapas debidamente urbanizadas.
+VII. Entrega al Municipio de las obras de urbanización y autorización definitiva del fraccionamiento, mismo que podrá entregarse por etapas debidamente urbanizadas.
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
 
@@ -2019,7 +2029,7 @@ Los dictámenes de uso de suelo para la construcción de un fraccionamiento, se 
 
 ###### Artículo 189.
 
-Las autorizaciones a que se refieren las fracciones IV, V, VI y VIl del artículo 186, deberán publicarse a costa del fraccionador en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", así como en la Gaceta Municipal del Municipio en que se encuentra el desarrollo inmobiliario, en su caso, por dos veces, mediando un plazo mínimo (sic) seis días naturales entre cada una, sin contar en ellos los de la publicación. Asimismo, deberán protocolizarse ante Notario Público e inscribirse en el Registro Público de la Propiedad y del Comercio.
+Las autorizaciones a que se refieren las fracciones IV, V, VI y VII del artículo 186, deberán publicarse a costa del fraccionador en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", así como en la Gaceta Municipal del Municipio en que se encuentra el desarrollo inmobiliario, en su caso, por dos veces, mediando un plazo mínimo (sic) seis días naturales entre cada una, sin contar en ellos los de la publicación. Asimismo, deberán protocolizarse ante Notario Público e inscribirse en el Registro Público de la Propiedad y del Comercio.
 
 El plazo para que el desarrollador realice la publicación y protocolización de las autorizaciones a que se refiere este artículo, será de sesenta días hábiles, contados a partir del siguiente al en que se le haya notificado la autorización.
 
@@ -2041,19 +2051,23 @@ II. Hidrológico, en el que deberán contemplarse las medidas de mitigación, co
 
 III. Información preliminar de impacto ambiental, conforme a los lineamientos técnicos establecidos por la Secretaría de Desarrollo Sustentable;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-IV. Anteproyecto de lotificación, en el que se consideren todas las medidas de mitigación que los estudios señalados en las fracciones anteriores arrojen, así como la posible ubicación de las plantas de tratamiento de aguas residuales que determine la autoridad competente; y
+IV. Anteproyecto de lotificación, en el que se consideren todas las medidas de mitigación que los estudios señalados en las fracciones anteriores arrojen, así como la posible ubicación de las plantas de tratamiento de aguas residuales que determine la autoridad competente;
 
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-V. Visto bueno de protección civil, atendiendo a la reglamentación de la materia.
+V. Visto bueno de protección civil, atendiendo a la reglamentación de la materia; y
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+VI. Autorización de Acceso carretero vial otorgada por la autoridad competente.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 ###### Artículo 191.
 
-El visto bueno del proyecto de lotificación, consiste en la aprobación que realice la autoridad competente, al plano del fraccionamiento que presente el desarrollador y en el que deberá contemplarse la distribución de lotes, ubicación de vialidades, así como la transmisión a título gratuito de la superficie para equipamiento urbano y cualquier otra condicionante que lo restrinja o limite.
+El visto bueno del proyecto de lotificación, consiste en la aprobación que realice la autoridad competente, al plano del fraccionamiento que presente el desarrollador y en el que deberá contemplarse la distribución de lotes, ubicación de vialidades, los accesos de entrada y salida y carriles de aceleración o desaceleración; así como la transmisión a título gratuito de la superficie para equipamiento urbano y cualquier otra condicionante que lo restrinja o limite.
 
 #### Sección Tercera. De la Licencia de Ejecución de Obras de Urbanización y Supervisión de Obras de Urbanización
 
@@ -3263,9 +3277,11 @@ La licencia de construcción es el documento administrativo expedido por la auto
 
 La Ley de Hacienda de los Municipios del Estado de Querétaro determinará los derechos que correspondan y señalará el monto a cubrir por concepto de pago de éstos.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 ###### Artículo 330.
 
-Para ocupar o modificar la vía pública en cualquier proceso de construcción, modificación, reparación o demolición o, en general, toda clase de obras de naturaleza similar, es necesario el otorgamiento previo de la licencia.
+Para ocupar o modificar la vía pública en cualquier proceso de construcción, modificación, reparación o demolición o, en general, toda clase de obras de naturaleza similar, es necesario contar con la autorización de uso y aprovechamiento del derecho vial, previo al otorgamiento de la licencia.
 
 ###### Artículo 331.
 
@@ -3497,9 +3513,11 @@ No se otorgará licencia o permiso para la fijación, instalación o colocación
 
 En materia de propaganda electoral o política, se estará a lo que disponga la Ley Electoral del Estado de Querétaro y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 ###### Artículo 364.
 
-La instalación de anuncios o construcción de obras en los terrenos adyacentes al derecho de vía a cargo de la Comisión Estatal de Caminos, atenderá a lo dispuesto en este Código. Tratándose de anuncios en vías de jurisdicción federal, se estará a lo que disponga la legislación federal correspondiente.
+La Instalación de anuncios o construcción de obras en los terrenos adyacentes al derecho de vía a cargo de la Comisión Estatal de Infraestructura de Querétaro, atenderá a lo dispuesto en este Código y en el Reglamento de uso, ocupación y aprovechamiento del derecho de vía en carreteras Estatales. Tratándose de anuncios en vías de jurisdicción federal, se estará a lo que disponga la legislación federal correspondiente.
 
 ###### Artículo 365.
 
@@ -3535,9 +3553,11 @@ VIII. Las obras de regeneración urbana de aquellas zonas a los centros de pobla
 
 IX. Cualquier otro tipo de obras o servicios relacionados con la misma, tendientes a la integración y mejoramiento de los centros de población.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 ###### Artículo 368.
 
-El titular del Poder Ejecutivo del Estado, a través de la Secretaría de Desarrollo Urbano y Obras Públicas y los Municipios, serán las autoridades competentes para ejecutar obras que conlleven a un beneficio general, bajo el sistema de cooperación, captación o de ambos.
+El titular del Poder Ejecutivo del Estado, a través de la Secretaría de Desarrollo Urbano y Obras Públicas, la Comisión Estatal de Infraestructura de Querétaro y los Municipios, serán las autoridades competentes para ejecutar obras que conlleven a un beneficio general, bajo el sistema de cooperación, captación o de ambos.
 
 ###### Artículo 369.
 
@@ -4409,8 +4429,6 @@ Por la prestación de los servicios de agua potable, alcantarillado, saneamiento
 
 Con relación al establecimiento de las tarifas a aplicarse por parte de los organismos públicos prestadores de los servicios se estará a lo dispuesto en su decreto de creación o cualquier procedimiento establecido por los mismos y en lo no previsto se estará a lo dispuesto en el presente Capítulo.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 461 Bis.
@@ -4809,29 +4827,35 @@ Contra la resolución dictada en el procedimiento de revocación de concesión, 
 
 ### Capítulo Segundo. De la Construcción de Carreteras
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 ###### Artículo 497.
 
 Las disposiciones de este Título tienen por objeto regular las acciones relativas a la planeación, programación, presupuestación, construcción, conservación y reconstrucción de las vías de comunicación terrestre entre los centros de población de jurisdicción estatal, así como establecer las normas generales para vialidades urbanas.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 ###### Artículo 498.
 
-El organismo público descentralizado denominado Comisión Estatal de Caminos del Estado de Querétaro, tendrá las facultades, atribuciones y obligaciones que le otorga la ley que lo constituye, las que le concede este Código y demás disposiciones legales aplicables.
+El organismo público descentralizado denominado Comisión Estatal de Infraestructura de Querétaro, tendrá las facultades, atribuciones y obligaciones que le otorga la ley que lo constituye, las que le concede este Código y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 ###### Artículo 499.
 
-La Comisión Estatal de Caminos del Estado de Querétaro deberá elaborar sus programas, sujetándose a las políticas, estrategias, prioridades y metas establecidas en el Programa Estatal de Desarrollo Urbano.
+La Comisión Estatal de Infraestructura de Querétaro deberá elaborar sus programas, sujetándose a las políticas, estrategias, prioridades y metas establecidas en el Plan Estatal de Desarrollo, así como en el Programa Estatal de Desarrollo Urbano.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 ###### Artículo 500.
 
-Cualquier infracción al presente Título será sancionada por la Comisión Estatal de Caminos del Estado de Querétaro, de conformidad con lo que dispone este Código y demás ordenamientos de la materia.
+Cualquier infracción al presente Título será sancionada por la Comisión Estatal de Infraestructura de Querétaro, de conformidad con lo que dispone este Código y demás ordenamientos de la materia.
 
 ### Capítulo Tercero. Del Derecho de Vía en Carreteras y Caminos
 
 ###### Artículo 501.
 
-La Comisión Estatal de Caminos del Estado de Querétaro deberá procurar el mejor funcionamiento de la red de carreteras de jurisdicción Estatal, por lo que quedará obligada a realizar análisis operacionales de carácter anual.
-
-El análisis deberá contener, como mínimo, los estudios siguientes:
+La Comisión Estatal de Infraestructura de Querétaro, deberá procurar el mejor funcionamiento de la red de carreteras de jurisdicción Estatal, para lo cual podrá realizar análisis operacionales, conteniendo los estudios siguientes:
 
 I. Rangos de volumen en la red;
 
@@ -4867,9 +4891,17 @@ Los estudios previos que se realicen, deberán observar la realidad social, econ
 
 Además, deberá basarse en los costos de adquisición, conservación, operación y derecho de vía, así como en la consideración de protección del paisaje, la contaminación ambiental, principalmente por humos y ruidos; de igual manera los libramientos de poblaciones, los cuales deberán ubicarse en forma congruente con el programa de desarrollo urbano correspondiente y justificarse en función del tránsito que los utilizará.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 ###### Artículo 505.
 
-La Comisión Estatal de Caminos del Estado de Querétaro, establecerá las secciones, condiciones y velocidades mínimas del proyecto, buscando en todo momento aumentar la seguridad de los usuarios.
+La Comisión Estatal de Infraestructura de Querétaro, establecerá las secciones, condiciones y velocidades mínimas del proyecto, buscando en todo momento aumentar la seguridad de los usuarios.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+###### Artículo 505 Bis.
+
+La conservación de las carreteras, caminos y otras vialidades del Estado será competencia de la Comisión Estatal de Infraestructura de Querétaro, y por lo que refiere a vialidades de las zonas urbanas y suburbanas serán competencia de la autoridad municipal correspondiente.
 
 ### Capítulo Primero. De las Medidas de Seguridad
 
@@ -4885,31 +4917,47 @@ Son partes integrantes de las carreteras y caminos locales, los servicios auxili
 
 La franja que determine el derecho de vía de un camino local, tendrá una amplitud mínima de veinte metros a cada lado del eje del camino, la cual podrá ampliarse en los lugares en que esto resulte indicado por las necesidades técnicas de los mismos, por razón del tránsito o por otras causas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
+
 ###### Artículo 509.
 
-Le corresponde al Poder Ejecutivo del Estado, a través de la Comisión Estatal de Caminos del Estado de Querétaro, fijar la amplitud definitiva del derecho de vía de acuerdo con los requerimientos señalados en el artículo anterior, además de:
+Le corresponde al Poder Ejecutivo del Estado, a través de la Comisión Estatal de Infraestructura de Querétaro, fijar la amplitud definitiva del derecho de vía de acuerdo con los requerimientos señalados en el artículo anterior, además de:
 
-I. Vigilar que se respete el derecho de vía y autorizar su uso y aprovechamiento, para la realización de servicios conexos o auxiliares de las vialidades a su cargo;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+I. Vigilar que se respete el derecho de vía y autorizar su uso, ocupación y aprovechamiento, entre otros, para la construcción de accesos carreteros, instalación de anuncios, instalaciones marginales, servicios conexos o auxiliares de las vialidades a su cargo;
 
 II. Celebrar convenios con las dependencias Federales o Municipales para la entrega y recepción de las vialidades que por sus características técnicas, flujo vehicular, naturaleza del tránsito y ubicación, sean consideradas de jurisdicción federal, estatal o municipal; y
 
 III. Llevar a cabo el registro estatal de las vialidades de jurisdicción estatal.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 ###### Artículo 510.
 
-En caso de uso, aprovechamiento o construcción de accesos de incorporación a cuerpos carreteros, en las vialidades a cargo de la Comisión Estatal de Caminos del Estado de Querétaro, ésta procederá a la clausura y, en su caso, demolición de las construcciones, a cuyo efecto podrá solicitar el auxilio de las autoridades estatales y municipales.
+En caso de uso, aprovechamiento o construcción de accesos de incorporación a cuerpos carreteros, en las vialidades a cargo de la Comisión Estatal de Infraestructura de Querétaro, ésta procederá a la clausura y, en su caso, demolición de las construcciones, a cuyo efecto podrá solicitar el auxilio de las autoridades estatales y municipales.
 
 ###### Artículo 511.
 
 La liberación de los inmuebles para la creación de la zona del derecho de vía de un camino o carretera de jurisdicción estatal o municipal, se verificará por convenio o expropiación; debiendo cubrirse al propietario, en su caso, las prestaciones convenidas o indemnización correspondiente.
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+###### Artículo 511 Bis.
+
+Los propietarios de predios que colinden con el derecho de vía de una carretera o vialidad estatal o municipal, están obligados a cercarlos en la parte que limitan con el derecho de vía o, en su caso, deberán contar con la autorización de acceso carretero vial emitida por autoridad competente.
+
+La autoridad municipal deberá requerir dicha autorización para poder otorgar la licencia correspondiente para construir o desarrollar en el inmueble que tenga las características que señala el párrafo anterior.
+
 ###### Artículo 512.
 
 No podrán ejecutarse trabajos de construcción ajenos al camino o carretera de la zona de derecho de vía, sin cumplir previamente con las prevenciones establecidas en este Código y demás ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 ###### Artículo 513.
 
-Se requiere permiso otorgado por la Comisión Estatal de Caminos del Estado de Querétaro, para la colocación de anuncios en el derecho de vía de caminos de jurisdicción local, aplicando, en lo conducente, lo previsto por la Sección Segunda, del Capítulo II, del Título Cuarto de este Código.
+Se requiere autorización previa otorgada por la Comisión Estatal de Infraestructura de Querétaro, para la colocación de anuncios, señalética, construcción de alineamientos, cruzamientos, instalaciones marginales, accesos carreteros y en general para el uso, ocupación y aprovechamiento del derecho de vía de carreteras y caminos estatales, aplicando, en lo conducente, lo previsto por la Sección Segunda, del Capítulo II del Título Cuarto de este Código.
 
 ## Título Octavo. De las Medidas de Seguridad, Sanciones, Procedimiento Administrativo y Medios de Impugnación
 
@@ -5043,7 +5091,13 @@ I. Suspensión de la obra;
 
 II. Demolición de la obra; Construcción, modificación o retiro de obras e instalaciones; y
 
-III. Cualquier otra señalada en este Código.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+III. Multa de cincuenta hasta mil veces la Unidad de Medida y Actualización vigente al momento de cometerse la infracción;
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+Para la individualización de las sanciones, se deberá considerar la gravedad de la infracción, la capacidad económica del infractor, su reincidencia en la comisión del hecho que la motiva, o cualquier otro elemento del que pueda inferirse la gravedad o levedad del hecho infractor.
 
 ###### Artículo 529.
 
@@ -5153,7 +5207,7 @@ Secretario de Desarrollo Urbano y Obras Públicas
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 7 DE FEBRERO DE 2014.
 
@@ -5292,3 +5346,13 @@ XVII. Las obligaciones formales y sustantivas de los contribuyentes del impuesto
 XVIII. Los derechos previstos en los artículos 169 BIS y 169 TER de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del Querétaro Centro de Congresos y Querétaro Teatro Metropolitano.
 
 Artículo Quinto. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. El titular del Poder Ejecutivo del Estado, deberá emitir el Reglamento de uso, ocupación y aprovechamiento del derecho de vía en Carreteras Estatales.
