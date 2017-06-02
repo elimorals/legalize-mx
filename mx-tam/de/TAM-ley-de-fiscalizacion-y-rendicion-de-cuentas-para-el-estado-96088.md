@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fiscalizacion-y-rendicion-de-cuentas-para-el-estado-9608
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-25"
-last_updated: "2016-12-21"
+last_updated: "2017-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE FISCALIZACION Y RENDICION DE CUENTAS PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULOS SEGUNDO TRANSITORIO DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 2 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017 (ABROGADA).
 
 Ley publicada en Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 25 de septiembre de 2013.
 
@@ -1444,3 +1446,19 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. LXIII-184 MEDIANTE EL CUAL SE EXPIDE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS”.]
+
+ARTÍCULOS PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial y entrará en vigor el día siguiente a su publicación, sin perjuicio de lo dispuesto en los Artículos Transitorios siguientes.
+
+ARTÍCULOS SEGUNDO. Se abroga la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas publicada el 25 de septiembre de 2013 anexa al Periódico Oficial número 116, mediante decreto No. LXI-908, y se derogan todas las disposiciones jurídicas y administrativas que contravengan al presente Decreto, sin perjuicio de lo dispuesto en los Artículos Transitorios siguientes.
+
+ARTÍCULOS TERCERO. Los procedimientos administrativos, así como los demás asuntos iniciados de conformidad con la Ley de Fiscalización y Rendición de Cuentas que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente ley, se resolverán hasta su conclusión en términos de la ley que se abroga, así como los que se deriven de las funciones de fiscalización y revisión hasta la Cuenta Pública del ejercicio fiscal de 2016.
+
+ARTÍCULOS CUARTO. Las funciones de fiscalización y revisión de la Auditoría, previstas en la ley que se expide mediante el presente Decreto, entrarán en vigor a partir de las Cuentas Públicas correspondientes al ejercicio fiscal de 2017.
+
+ARTÍCULOS QUINTO. El Reglamento Interior de la Auditoría deberá actualizarse dentro de los seis meses siguientes a la entrada en vigor del presente Decreto; hasta en tanto no se modifique, se seguirá aplicando en lo que no se oponga al presente Decreto.
+
+ARTÍCULOS SEXTO. Los manuales de organización, las normas y disposiciones contempladas en esta ley, deberán de emitirse y publicarse en un plazo máximo de doce meses a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
