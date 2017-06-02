@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2017-05-20"
+last_updated: "2017-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -247,9 +247,9 @@ c) Desempeñar preferentemente cualquier empleo del Estado, cuando el individuo 
 
 d) Afiliarse individual y libremente al partido político de su preferencia;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-e) Cuando residan en el extranjero, votar para elegir Gobernador del Estado, en los términos que establezcan las leyes; y
+e) Cuando residan en el extranjero, votar para elegir Gobernador del Estado y Diputados locales por el principio de representación proporcional, en los términos que establezcan las leyes; y
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JULIO DE 2014)</small>
 
@@ -733,7 +733,9 @@ a) Se exceda el gasto de campaña en un cinco por ciento del monto total autoriz
 
 b) Se compre cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley;
 
-c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas; o
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos ya sean económicos o materiales en las campañas; o
 
 d) Se acredite el uso sistemático de publicidad negativa en contra de uno o varios candidatos durante las campañas.
 
@@ -777,17 +779,21 @@ II. Para que un partido político estatal mantenga su registro deberá obtener l
 
 III. (DEROGADA, P.O. 5 DE JULIO DE 2008)
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-IV. La ley establecerá las condiciones y mecanismos para que los partidos políticos tengan acceso al financiamiento público destinado al cumplimiento de sus fines. El financiamiento público para los partidos políticos que mantengan su registro o acreditación después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto en año de elecciones, así como para actividades específicas, y se otorgarán conforme a las bases siguientes y lo que disponga la ley:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2016)</small>
+IV. La ley establecerá las condiciones y mecanismos para que los partidos políticos estatales y nacionales tengan acceso al financiamiento público local destinado al cumplimiento de sus fines. El financiamiento público estatal para los partidos políticos nacionales o estatales que mantengan su registro después de cada elección, se compondrán de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto en año de elecciones, así como para actividades específicas de conformidad a las siguientes bases:
 
-a) EI financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de los ciudadanos inscritos en el padrón electoral en el estado de Jalisco, por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización. EI 30% de la cantidad que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el 70% restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior;
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+a) El financiamiento público para partidos políticos locales que mantengan su registro después de cada elección, se otorgará conforme a lo establecido en el artículo 51 de la Ley General de Partidos Políticos. Los partidos políticos nacionales que mantengan su acreditación en el estado después de cada elección, tendrán derecho a recibir financiamiento público estatal para financiar los gastos de las actividades ordinarias por lo que en los años que no se celebren elecciones en el estado, se fijará anualmente multiplicando el padrón electoral local, por el veinte por ciento del valor diario de la Unidad de Medida y Actualización. El 30% de la cantidad que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el 70% restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior. En años electorales el financiamiento para actividades ordinarias se fijará anualmente, multiplicando el número total de los votos válidos obtenidos en la elección a diputados, por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización. El 30% de la cantidad que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el 70% restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
 
-b) El financiamiento público para las actividades tendientes a la obtención del voto durante el año en que se elijan gobernador, diputados locales y ayuntamientos, equivaldrá al cincuenta por ciento del financiamiento público que corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando sólo se elijan diputados locales y ayuntamientos, equivaldrá al treinta por ciento del financiamiento por actividades ordinarias. Este financiamiento se otorgará independientemente del que corresponda conforme al inciso anterior, y
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+b) El financiamiento público para las actividades tendientes a la obtención del voto durante el año en que se elijan gobernador, diputados locales y ayuntamientos, equivaldrá al cincuenta por ciento del financiamiento público que corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando solo se elijan diputados locales y ayuntamientos, equivaldrá al treinta por ciento del financiamiento por actividades ordinarias. Este financiamiento se otorgará independientemente del que corresponda conforme al inciso anterior, y
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 c) El financiamiento público por actividades específicas, relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales equivaldrá al tres por ciento del monto total del financiamiento público que corresponda en cada año por actividades ordinarias. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados locales inmediata anterior. Este financiamiento se otorgará independientemente del que corresponda conforme a los dos incisos anteriores;
 
@@ -961,7 +967,25 @@ El Poder Legislativo se deposita en una asamblea que se denomina Congreso del Es
 
 El Congreso del Estado se integrará con representantes populares electos y se renovará cada tres años, conforme al procedimiento que establezca la Ley Electoral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
+
+###### Artículo 18.
+
+El Congreso se compondrá de veinte diputados electos por el principio de mayoría relativa y dieciocho electos según el principio de representación proporcional.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+
+Todos los diputados tendrán los mismos derechos y obligaciones y podrán organizarse en grupos parlamentarios.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+
+La ley establecerá los procedimientos para la conformación de grupos parlamentarios y promoverá la coordinación de las actividades parlamentarias.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+
+Cada fórmula de candidatos a diputados de mayoría relativa se integrará por un propietario y un suplente del mismo género. Los partidos políticos deberán respetar la paridad de género en el registro de candidatos a diputados al Congreso del Estado, por ambos principios, conforme determine la ley.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 18.
 
@@ -2115,7 +2139,9 @@ VI. La determinación e imposición de sanciones en la materia;
 
 VII. Los conflictos o diferencias laborales entre el Tribunal y sus trabajadores;
 
-VIII. (DEROGADA, P.O. 8 DE JULIO DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2017)</small>
+
+VIII. Los conflictos o diferencias laborales entre el Instituto Electoral y sus trabajadores;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2167,11 +2193,15 @@ I. Cada municipio será gobernado por un Ayuntamiento de elección popular direc
 
 II. Los ayuntamientos se integrarán por un Presidente Municipal, regidores y síndicos electos popularmente, según los principios de mayoría relativa y representación proporcional, en el número, las bases y los términos que señale la ley de la materia. Los regidores electos por cualquiera de dichos principios, tendrán los mismos derechos y obligaciones;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-Es obligación de los partidos políticos, coaliciones y candidatos independientes, que en las listas de candidatos a regidores municipales sea respetado el principio de paridad de género y que cada candidato propietario a regidor tenga un suplente del mismo género; las fórmulas de candidatos se alternarán por género. La planilla se elaborará exceptuando de la paridad de género la candidatura a Presidente Municipal.
+Es obligación de los partidos políticos y candidatos independientes, que en las listas de candidatos a presidente, regidores y síndico municipales sea respetado el principio de paridad de género, en el que las fórmulas de candidatos se alternarán por género y cada candidato propietario a presidente, regidor o síndico tenga un suplente del mismo género.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2017)</small>
+
+Es obligación que el cincuenta por ciento de las candidaturas a presidentes municipales que postulen los partidos políticos y coaliciones en el estado deberá ser de un mismo género.
+
+(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JULIO DE 2014) (REPUBLICADO, P.O. 2 DE JUNIO DE 2017)
 
 Para garantizar el derecho de los pueblos y comunidades indígenas, la ley determinará lo conducente a efecto de que en las planillas de candidatos a munícipes participen ciudadanos integrantes de esas poblaciones;
 
@@ -2185,9 +2215,9 @@ IV. Los presidentes, regidores y el síndico de los ayuntamientos, electos popul
 
 Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la designación que se les dé, podrán ser electos para el período inmediato.
 
-Quienes pretendan ser postulados para un segundo periodo en los ayuntamientos deberán separarse del cargo al menos con noventa días de anticipación al día de la jornada electoral.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-V. (DEROGADA, P.O. 8 DE JULIO DE 2014)
+Tratándose del Presidente Municipal y Síndico que pretendan ser postulados para un segundo periodo deberán separarse del cargo al menos con noventa días de anticipación al día de la jornada electoral.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
@@ -2227,11 +2257,21 @@ VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario de
 
 VIII. No ser Juez, Secretario de Juzgado o titular de alguna dependencia de recaudación fiscal de la Federación o del Estado en el municipio en que pretenda su elección, a menos que se separe de su cargo en los términos que previene la fracción anterior, y
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
+(NOTA: EL 28 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2017 Y SUS ACUMULADAS 39/2017 Y 60/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-IX. No ser servidor público del municipio de que se trate, a no ser que se separe del cargo noventa días antes de la elección. Si se trata del funcionario encargado de la Hacienda Municipal, es preciso que haya rendido sus cuentas al Congreso del Estado por conducto de la Auditoría Superior del Estado de Jalisco.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+IX. No ser servidor público del municipio de que se trate, a no ser que se separe del cargo noventa días antes de la elección, SALVO QUE SE TRATE DE REGIDORES QUE BUSCAN REELEGIRSE. Si se trata del funcionario encargado de la Hacienda Municipal, es preciso que haya rendido sus cuentas al Congreso del Estado por conducto de la Auditoría Superior del Estado de Jalisco.
+
+(NOTA: EL 28 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2017 Y SUS ACUMULADAS 39/2017 Y 60/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+###### Artículo 75.
+
+Sólo tendrán derecho a participar en el procedimiento de asignación de regidores de representación proporcional los partidos políticos, coaliciones o planillas de candidatos independientes que no hubieren obtenido la mayoría, y obtengan cuando menos el tres punto cinco por ciento de la votación total emitida. EN EL CASO DE LOS PARTIDOS POLÍTICOS SE REQUERIRÁ ADICIONALMENTE QUE HUBIEREN REGISTRADO PLANILLAS EN EL NÚMERO DE AYUNTAMIENTOS QUE DETERMINE LA LEY. La ley establecerá los procedimientos y requisitos para realizar la asignación a que se refiere este artículo.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 75.
 
@@ -3704,3 +3744,11 @@ P.O. 20 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26217/LXI/16 QUE REFORMA EL ARTÍCULO 15 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO, ASÍ COMO ACUERDO LEGISLATIVO AL-1186-LXI-2017”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26373/LXI/17 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 6, 12, 13, 18, 70, 73, 74 Y 75, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial “El Estado de Jalisco”, salvo por lo dispuesto en el artículo siguiente.
+
+SEGUNDO. La reforma al artículo 13, fracción IV, de la Constitución Política del Estado entrará en vigor en julio de 2018.
