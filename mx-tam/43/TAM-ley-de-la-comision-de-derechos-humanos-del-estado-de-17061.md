@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-comision-de-derechos-humanos-del-estado-de-17061"
 country: "mx"
 rank: "ley"
 publication_date: "1994-02-05"
-last_updated: "2015-11-25"
+last_updated: "2017-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 5 de febrero de 1994.
 
@@ -609,7 +609,7 @@ La Comisión podrá rendir un informe especial cuando persistan actitudes u omis
 
 La Comisión denunciará ante los órganos competentes a los servidores públicos que hubieran incurrido en delitos o infracciones en el desempeño de sus funciones, para la aplicación de las sanciones Penales o administrativas que procedan conforme a las leyes de la materia.
 
-## TITULO QUINTO.. DEL REGIMEN LABORAL
+## TITULO QUINTO. DEL REGIMEN LABORAL
 
 ### CAPITULO UNICO
 
@@ -634,6 +634,54 @@ El patrimonio de la Comisión de Derechos Humanos del Estado se integra con los 
 ###### ARTICULO 67.
 
 La Comisión remitirá su proyecto de presupuesto anual de egresos al Ejecutivo del Estado durante la segunda quincena del mes de octubre de cada año, por conducto de la Secretaría de Finanzas.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2017)</small>
+
+## TITULO SEPTIMO. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2017)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+###### ARTICULO 68.
+
+El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del propio órgano y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos estatales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+En el desempeño de su cargo, el Titular del Órgano Interno de Control se sujetará a los principios previstos en la ley en materia de responsabilidades administrativas del Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+###### ARTICULO 69.
+
+El Titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta años cumplidos el día de la designación;
+
+II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+
+III. Contar al momento de su designación con experiencia en el control, manejo y fiscalización de recursos;
+
+IV. Contar al día de su designación, con título profesional en las áreas económicas, contables, jurídicas o administrativas, expedido por autoridad o institución legalmente facultada para ello;
+
+V. Contar con reconocida solvencia moral;
+
+VI. No pertenecer o haber pertenecido en los tres años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios o haber fungido como consultor o auditor externo del propio órgano, en lo individual durante ese periodo;
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
+
+VIII. No haber sido Secretario de Estado, Procurador General de Justicia de alguna de las entidades federativas, Diputado Local, Gobernador de algún Estado, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+
+###### ARTICULO 70.
+
+El Titular del Órgano Interno de Control durará en su encargo seis años cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas.
+
+Tendrá un nivel jerárquico igual al de un Director General o su equivalente en la estructura orgánica del propio órgano, y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización del Estado a que se refiere el artículo 76 de la Constitución Política del Estado de Tamaulipas.
 
 ## TRANSITORIOS
 
@@ -710,3 +758,19 @@ P.O. 25 DE NOVIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-186 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS, LA LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y LA LEY CONSTITUTIVA DE LA UNIVERSIDAD AUTÓNOMA DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas que en éste se establecen, cuya vigencia surtirá efectos a partir de su expedición, con base en el artículo 3 párrafo 3 de la citada ley.
+
+###### ARTÍCULO SEGUNDO.
+
+La Convocatoria para designar a los titulares de los órganos internos de control de los órganos constitucionalmente autónomos, así como la del Titular de la Fiscalía Especializada en Combate a la Corrupción, por esta única ocasión deberán ser emitidas a la brevedad posible, a fin de dar puntual cumplimiento al término establecido para concluir la armonización legislativa en materia de combate a la corrupción y estar en condiciones para la entrada del nuevo Sistema Estatal Anticorrupción.
+
+###### ARTÍCULO TERCERO.
+
+Comuníquese el presente Decreto a la Universidad Autónoma de Tamaulipas, solicitando con pleno respeto a su autonomía institucional que, a la brevedad, tenga a bien homologar sus ordenamientos jurídicos internos en lo concerniente al Órgano Interno de Control y su titular, tomando en consideración las reformas planteadas en el presente Decreto, para así armonizar sus disposiciones a que haya lugar, en materia de combate a la corrupción.
