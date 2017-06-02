@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-99966"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-26"
-last_updated: "2017-02-06"
+last_updated: "2017-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 26 de marzo de 2014.
 
@@ -135,13 +135,17 @@ VI. Promover la observancia de las virtudes y valores éticos universales como e
 
 VII. Fomentar actitudes que estimulen la investigación y la innovación científicas y tecnológicas;
 
-VIII. Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores éticos de la cultura universal, en especial de aquellos que constituyen el patrimonio cultural de la Nación y del Estado, como la interpretación del Himno Oficial del Estado de Sinaloa en los actos cívicos de las escuelas públicas;
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-IX. Estimular la educación física y la práctica del deporte;
+VIII. Fomentar el uso adecuado y responsable de las tecnologías de la información y la comunicación, el conocimiento y la conciencia respecto de las mejores prácticas para hacer uso apropiado de internet y de las redes sociales.
 
-X. Desarrollar actitudes solidarias en los individuos y crear conciencia sobre la preservación de la salud, el ejercicio responsable de la sexualidad, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como el rechazo a los vicios y adicciones, fomentando el conocimiento de sus causas, riesgos y consecuencias;
+IX. Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores éticos de la cultura universal, en especial de aquellos que constituyen el patrimonio cultural de la Nación y del Estado, como la interpretación del Himno Oficial del Estado de Sinaloa en los actos cívicos de las escuelas públicas;
 
-XI. Inculcar los conceptos y principios fundamentales de la ciencia ambiental para impulsar un desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad.
+X. Estimular la educación física y la práctica del deporte;
+
+XI. Desarrollar actitudes solidarias en los individuos y crear conciencia sobre la preservación de la salud, el ejercicio responsable de la sexualidad, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como el rechazo a los vicios y adicciones, fomentando el conocimiento de sus causas, riesgos y consecuencias;
+
+XII. Inculcar los conceptos y principios fundamentales de la ciencia ambiental para impulsar un desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad.
 
 > <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2017)</small>
 
@@ -149,21 +153,25 @@ Fomentar e incorporar técnicas y procedimientos para el reciclaje y reuso de re
 
 Proporcionar los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
 
-XII. Fomentar actitudes solidarias y positivas hacia la familia, el trabajo, el ahorro y la participación de maestros, educandos y padres de familia en el desarrollo económico, social y cultural de su comunidad;
+XIII. Fomentar actitudes solidarias y positivas hacia la familia, el trabajo, el ahorro y la participación de maestros, educandos y padres de familia en el desarrollo económico, social y cultural de su comunidad;
 
-XIII. Promover la educación sustentada en valores éticos universales como los de respeto, libertad, solidaridad, equidad y la no discriminación; con el propósito de que los estudiantes se desenvuelvan en forma responsable y honesta;
+XIV. Promover la educación sustentada en valores éticos universales como los de respeto, libertad, solidaridad, equidad y la no discriminación; con el propósito de que los estudiantes se desenvuelvan en forma responsable y honesta;
 
-XIV. Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo;
+XV. Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo;
 
-XV. Promover y fomentar la lectura y el libro;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-XVI. Difundir los derechos y deberes de niños, niñas y adolescentes y las formas para ejercitarlos;
+XVI. Promover y fomentar la lectura, y el libro;
 
-XVII. Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de edad, o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo;
+XVII. Difundir los derechos y deberes de niños, niñas y adolescentes y las formas para ejercitarlos;
 
-XVIII. Evitar todo tipo de violencia dentro de los planteles escolares; y
+XVIII. Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de edad, o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo;
 
-XIX. Establecer las bases normativas para que en la Educación Básica y Media Superior, el ingreso, la promoción, el reconocimiento y la permanencia de docentes y de personal con funciones de dirección y de supervisión, en las instituciones educativas dependientes del Estado y sus organismos descentralizados y desconcentrados, así como de los ayuntamientos, se sujetará a lo dispuesto por la Ley General, la Ley General del Servicio Profesional Docente, la Ley del Instituto Nacional para la Evaluación de la Educación y el presente ordenamiento.
+XIX. Evitar todo tipo de violencia dentro de los planteles escolares; y
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+
+XX. Establecer las bases normativas para que en la educación básica y media superior, el ingreso, la promoción, el reconocimiento y la permanencia de docentes y de personal con funciones de dirección y de supervisión, en las instituciones educativas dependientes del Estado y sus organismos descentralizados y desconcentrados, así como de los ayuntamientos, se sujetará a lo dispuesto por la Ley General, la Ley General del Servicio Profesional Docente, la Ley del Instituto Nacional para la Evaluación de la Educación y el presente ordenamiento.
 
 ###### Artículo 11.
 
@@ -1928,3 +1936,9 @@ P.O. 6 DE FEBRERO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 148 POR EL QUE “SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 10 A LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA RECORRIÉNDOSE LAS SUBSECUENTES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
