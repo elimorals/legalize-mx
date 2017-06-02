@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-profesiones-para-el-estado-de-sinaloa-116266"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-02"
-last_updated: "2016-12-28"
+last_updated: "2017-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SIN"
 ---
 # LEY DE PROFESIONES PARA EL ESTADO DE SINALOA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO DE REFORMA NÚMERO 57, PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 2016 EL CAPÍTULO II DEL TÍTULO CUARTO INICIARÁ SU VIGENCIA EN UN PLAZO DE DOSCIENTOS DIEZ DÍAS POSTERIORES AL INICIO DE VIGENCIA DEL PRESENTE ORDENAMIENTO JURÍDICO.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY DE PROFESIONES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
 
 Decreto publicado en el número 107 del Periódico Oficial “El Estado de Sinaloa”, el viernes 2 de septiembre de 2016.
 
@@ -1513,9 +1513,9 @@ En contra de las resoluciones de la autoridad educativa estatal dictadas con fun
 
 PRIMERO. El presente Decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-El Capítulo II del Título Cuarto denominado "De los Profesionistas que se Desempeñen como Peritos", iniciará su vigencia en un plazo de doscientos diez días posteriores al inicio de vigencia del presente ordenamiento jurídico.
+El Capítulo II del Título Cuarto denominado "De los Profesionistas que se Desempeñen como Peritos", iniciará su vigencia en un plazo de dos años posteriores al inicio de vigencia del presente ordenamiento jurídico.
 
 SEGUNDO. Se abroga la Ley de Profesiones del Estado de Sinaloa, publicada en el Periódico Oficial “El Estado de Sinaloa “número 50, del 3 de mayo de 1955, mediante el Decreto número 139.
 
@@ -1527,9 +1527,9 @@ Asimismo, se deberá crear el Registro Profesional Estatal y el Padrón de Profe
 
 QUINTO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el 27 de enero del presente año, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo transitorio del citado Decreto.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
-SEXTO. Los Colegios de Profesionistas constituidos con anterioridad al inicio de vigencia del presente Decreto, mantendrán su registro y reconocimiento oficial contando con un plazo de doscientos diez días a partir de la entrada en vigor de la presente Ley, para adecuar su normatividad interna en términos de la presente Ley y cumplir con los requisitos previstos en la misma. Asimismo, los Títulos de Profesionistas vigentes se integrarán al Registro Profesional Estatal.
+SEXTO. Los Colegios de Profesionistas constituidos con anterioridad al inicio de vigencia del presente Decreto, mantendrán su registro y reconocimiento oficial contando con un plazo de dos años a partir de la entrada en vigor de la presente Ley, para adecuar su normatividad interna en términos de la presente Ley y cumplir con los requisitos previstos en la misma. Asimismo, los Títulos de Profesionistas vigentes, se integrarán al Registro Profesional Estatal.
 
 Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los veintiocho días del mes de julio del año dos mil dieciséis.
 
@@ -1572,3 +1572,11 @@ P.O. 28 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 2 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 145 POR EL QUE SE REFORMAN LOS ARTÍCULOS PRIMERO Y SEXTO TRANSITORIOS DE LA LEY DE PROFESIONES PARA EL ESTADO DE SINALOA".]
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial "El Estado de Sinaloa".
