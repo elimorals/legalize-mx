@@ -4,7 +4,7 @@ identifier: "COA-reglamento-municipal-de-asistencia-social-de-torreon-25131"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-04-16"
-last_updated: "2007-02-20"
+last_updated: "2017-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO MUNICIPAL DE ASISTENCIA SOCIAL DE TORREON, COAHUILA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL APARTADO "D" DEL ACUERDO PUBLICADO EN EL P.O. DE 2 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HASIDO ABROGADO.]</small>
+
 REGLAMENTO MUNICIPAL DE ASISTENCIA SOCIAL DE TORREON, COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 JUNIO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 16 de abril de 2002.
 
@@ -872,3 +874,7 @@ P.O. 20 DE FEBRERO DE 2007.
 Primero.- Las reformas al Reglamento de Asistencia Social para el Municipio de Torreón, Coahuila y a los Lineamientos de Participación al Fondo Municipal de Fortalecimiento a la Infraestructura de los Organismos no Gubernamentales de Asistencia Social, entrarán en vigor al siguiente día de su publicación en la Gaceta Municipal.
 
 Segundo.- La entrada en vigor de las Reformas al Reglamento de Asistencia Social para el Municipio de Torreón, Coahuila, y a los Lineamientos de Participación al Fondo Municipal de Fortalecimiento a la Infraestructura de los Organismos no Gubernamentales de Asistencia Social, abrogan la validez, en cualquier sentido opuesto el mismo reglamento u otras disposiciones Municipales.
+
+P.O. 2 DE JUNIO DE 2017.
+
+> <small>[N. DE E. LOS "ACUERDOS DEL MUNICIPIO DE TORREÓN, COAHUILA DE ZARAGOZA, MEDIANTE LOS CUALES SE APROBÓ LA ABROGACIÓN DE DIVERSOS REGLAMENTOS DEL SISTEMA DE NORMATIVIDAD MUNCIPAL", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.]</small>
