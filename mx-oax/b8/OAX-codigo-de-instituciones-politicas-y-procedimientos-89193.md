@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-instituciones-politicas-y-procedimientos-89193"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-08-10"
-last_updated: "2017-04-26"
+last_updated: "2017-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017 (ABROGADO).
 
 Código publicado en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 10 de agosto de 2012.
 
@@ -5392,3 +5392,25 @@ P.O. 26 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 589.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE “PARTES NO VETADAS.- DEL DECRETO NÚMERO 633, POR EL QUE SE CREA LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: Se abroga el Código de Instituciones Políticas y Procedimientos Electorales para el Estado de Oaxaca, aprobado mediante Decreto Número 1335, de fecha 9 de agosto de 2012, publicado en el Periódico Oficial del Gobierno del Estado con fecha 10 de agosto de 2012.
+
+TERCERO: Se expide la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca.
+
+CUARTO: El Consejo General del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, deberá modificar y publicar su normatividad interna conforme a esta Ley, a más tardar dentro de los sesenta días naturales siguientes a la entrada en vigor de la presente Ley.
+
+QUINTO: Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio. En tanto se expiden los nuevos ordenamientos que regulen aspectos sustantivos y adjetivos de este ordenamiento, seguirán aplicándose en lo conducente en todo lo que no se opongan a esta Ley, las disposiciones reglamentarias y administrativas que regulaban los actos previstos en el Código que se abroga.
+
+SEXTO: El voto de los ciudadanos oaxaqueños en el extranjero por vía electrónica, se realizará hasta en tanto el INE haga pública la comprobación del sistema a utilizar para la emisión del voto en dicha modalidad, en términos del artículo décimo tercero de la Ley General.
+
+SÉPTIMO: Las elecciones ordinarias locales que se verifiquen en el año 2018, se llevarán a cabo el primer domingo del mes de julio.
+
+OCTAVO.- El Consejo General del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, procederá en un plazo máximo de sesenta días naturales a partir de la entrada en vigor del presente Decreto a nombrar al Secretario Ejecutivo y Directores Ejecutivos en los términos de esta Ley.
+
+NOVENO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
