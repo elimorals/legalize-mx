@@ -4,7 +4,7 @@ identifier: "COL-ley-de-estimulo-y-fomento-al-deporte-y-la-cultura-fisica-11641"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-19"
-last_updated: "2016-09-10"
+last_updated: "2017-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ESTIMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 19 de abril de 1997.
 
@@ -125,9 +125,17 @@ VIII.- Las instituciones deportivas públicas y privadas del Estado deben colabo
 
 IX.- La distinción entre las diversas manifestaciones o modalidades del deporte resulta necesaria para el óptimo, equitativo y ordenado desarrollo de los sistemas deportivos;
 
-X.- El desarrollo y la práctica del deporte debe realizarse observando sus bases éticas; y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
 
-XI.- En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte.
+X.- El desarrollo y la práctica del deporte debe realizarse observando sus bases éticas;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
+
+XI.- En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte; y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2017)</small>
+
+XII.- Las instituciones y los programas en materia de cultura física y deporte, para su implementación optima, deben contar con personal calificado, el cual deberá residir preferentemente en el estado de Colima.
 
 ###### ARTICULO 2o.
 
@@ -242,6 +250,10 @@ Se reconoce el derecho de todo individuo al conocimiento y práctica del deporte
 ###### ARTICULO 5o.
 
 Toda persona que se dedique a impartir clases teóricas o prácticas de cualquier actividad deportiva en forma pública o privada, deberá contar con el reconocimiento oficial de estudios o, en su caso, obtenerlo a través de las instituciones educativas autorizadas.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+ARTICULO 5o BIS.- El Sistema gestionará y promoverá procesos para capacitar, actualizar y certificar las competencias de los entrenadores deportivos con apego a lo dispuesto por la CONADE y la Secretaría de Educación Pública.
 
 ###### ARTICULO 6o.
 
@@ -445,9 +457,15 @@ VII.- (DEROGADA, P.O. 20 DE NOVIEMBRE DE 1999)
 
 VIII.- Instalaciones deportivas.
 
-IX.- Capacitación y formación de recursos humanos en el deporte, recreación y cultura física.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
+
+IX.- Capacitación, formación y certificación de recursos humanos en el deporte, recreación y cultura física.
 
 X.- Talentos deportivos.
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2017)</small>
+
+XI.- Políticas de capacitación, formación, desarrollo, certificación y crecimiento de entrenadores deportivos colimenses, quienes tendrán preferencia sobre extranjeros.
 
 ###### ARTICULO 18.
 
@@ -459,7 +477,9 @@ II.- Las normas y procedimientos para la canalización de los apoyos hacia las u
 
 III.- Los criterios necesarios para que los programas deportivos, recreativos y de cultura física del Estado sean congruentes con los del Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado, la Secretaría de Educación Pública, el Desarrollo Integral de la Familia, el Instituto Nacional del Deporte de los Trabajadores y demás instituciones públicas o privadas que fomenten el deporte.
 
-IV.- El incremento y capacitación de entrenadores deportivos para la buena práctica y desarrollo de dicha disciplina.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
+
+IV.- El incremento, capacitación y certificación de entrenadores deportivos para la buena práctica y desarrollo de dicha disciplina con base a los lineamientos de acreditación determinados por la CONADE y la Secretaría de Educación Pública.
 
 V.- Las prácticas deportivas y recreativas de acuerdo al SISTEMA, así como los lineamientos para conjugar esfuerzos entre los sectores público, privado y social.
 
@@ -809,7 +829,9 @@ a).- Dinero.
 
 b).- Becas académicas o económicas.
 
-c).- Capacitación.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+c).- Capacitación, actualización y certificación.
 
 d).- Asesoría.
 
@@ -998,3 +1020,11 @@ P.O. 10 DE SEPTIEMBRE DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Queda derogada cualquier disposición que contravenga el presente decreto.
+
+P.O. 3 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 302 POR EL QUE SE REFORMAN LAS FRACCIONES X Y XI DEL ARTÍCULO 1° BIS, LA FRACCIÓN IX DEL ARTÍCULO 17; LA FRACCIÓN IV DEL ARTÍCULO 18 Y EL INCISO C) DEL ARTÍCULO 35; Y SE ADICIONA UNA FRACCIÓN XII AL ARTÍCULO 1° BIS, EL ARTÍCULO 5 BIS, Y UNA FRACCIÓN XI AL ARTÍCULO 17; TODOS DE LA LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
+
+SEGUNDO.- Queda derogada toda disposición que contravenga lo dispuesto por el presente decreto.
