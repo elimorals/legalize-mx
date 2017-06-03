@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "2016-10-29"
+last_updated: "2017-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY QUE CREA PREMIOS Y ESTIMULOS PARA LOS COLIMENSES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -33,7 +35,7 @@ Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente D
 
 EL H. CONGRESO DEL ESTADO, EN USO DE LA FACULTAD QUE LE CONCEDE LA FRACCIÓN II DEL ARTICULO 33 DE LA CONSTITUCIÓN POLÍTICA DE ESTA MISMA ENTIDAD, Y
 
-...
+[...]
 
 DECRETO No. 145
 
@@ -103,9 +105,9 @@ j) Periodismo cultural / difusión científica; y
 
 k) Periodismo deportivo.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
 
-La entrega de estos premios se hará en el marco del festejo del día de la libertad de expresión; y
+La entrega de estos premios se hará en el marco del festejo del "Día Estatal del Periodista"; y
 
 > <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2013)</small>
 
@@ -122,8 +124,6 @@ La entrega de este premio se realizará en el marco del festejo del día interna
 ###### Artículo 2o.
 
 Las insignias a que se refiere el artículo anterior, las constituirán medallas en colores oro o plata que contengan el nombre y si es posible, la efigie del patricio que les da su nombre, la leyenda correspondiente y el nombre del agraciado.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2016)</small>
 
@@ -183,8 +183,6 @@ VIII.- La ética profesional; y
 
 IX.- La responsabilidad profesional.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2016)</small>
 
 La entrega del Premio Estatal de Periodismo consistirá en un pergamino y una asignación en Moneda Nacional, cuyo monto será determinado conforme a la disponibilidad presupuestaria de los entes convocantes.
@@ -198,8 +196,6 @@ La entrega del Premio Estatal "Ricardo de Jesús Vázquez Lara Centeno", a que h
 Durante los primeros 15 días del mes de noviembre de cada año, se deberá integrar una Comisión Dictaminadora conformada por el Congreso del Estado de Colima, a través del Diputado Presidente de la Comisión de Niñez, Juventud, Adultos Mayores y Discapacidad y del Diputado Presidente de la Comisión de Educación y Cultura; por el Instituto Colimense para la Discapacidad (INCODIS) a través de su Director; y por un representante de la Sociedad Civil de cada una de las Asociaciones de y para personas con discapacidad en el Estado; la que deberá emitir la convocatoria en que se establezcan los plazos, requisitos y el procedimiento electivo para obtener el Premio Estatal "Ricardo Jesús Vázquez Lara Centeno", y deberá ser publicada en la página web del Congreso, dirigida a las asociaciones civiles de apoyo a las personas con discapacidad, y en general a toda la población del Estado.
 
 Una vez analizadas las propuestas por el Presidente de la Comisión de Niñez, Juventud, Adultos Mayores y Discapacidad, el Diputado Presidente de la Comisión de Educación y Cultura y el Director del Instituto Colimense para la Discapacidad (INCODIS) y, un representante de las Sociedades Civiles señaladas en el párrafo anterior, éstos elegirán a los merecedores del premio; quienes enviarán a la Comisión de Niñez, Juventud, Adultos Mayores y Discapacidad el resultado obtenido para que elaboren y presenten ante el Pleno del Congreso el Acuerdo correspondiente.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2016)</small>
 
@@ -255,6 +251,14 @@ P.O. 17 DE MAYO DE 2014.
 
 P.O. 29 DE OCTUBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 163 SE ADICIONAN UN SEGUNDO PARRAFO AL ARTÍCULO 2°, SE REFORMA EL SÉPTIMO PÁRRAFO DEL ARTÍCULO 6 Y SE ADICIONA UN ARTÍCULO 8° A LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 163 SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 2°, SE REFORMA EL SÉPTIMO PÁRRAFO DEL ARTÍCULO 6 Y SE ADICIONA UN ARTÍCULO 8° A LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES".]
 
 ÚNICO.- El presente Decreto entrará en vigor el 1º de enero de 2017, previa publicación será en el Periódico Oficial "El Estado de Colima".
+
+P.O. 3 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 305 POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DE LA FRACCIÓN VII DEL ARTÍCULO 1° DE LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- La fecha de entrega del Premio Estatal de Periodismo correspondiente al año 2017, será definida por la Comisión de Gobierno Interno y Acuerdos Parlamentarios mediante el Acuerdo respectivo.
