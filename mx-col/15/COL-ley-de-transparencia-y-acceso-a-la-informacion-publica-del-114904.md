@@ -4,7 +4,7 @@ identifier: "COL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1149
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-30"
-last_updated: "2016-06-29"
+last_updated: "2017-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE JUNIO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
 
 Ley publicada en la Edición Especial Extraordinaria del Periódico Oficial del Estado de Colima, el lunes 30 de mayo de 2016.
 
@@ -385,7 +385,9 @@ VII. Los organismos públicos autónomos del Estado, incluyendo a las universida
 
 VIII. Los partidos políticos y las agrupaciones políticas que cuenten con registro ante las autoridades electorales locales, así como las personas morales constituidas en asociación civil creadas por los ciudadanos que pretendan postular su candidatura independiente, en los términos que se consignan en la presente Ley; y
 
-IX. Los notarios, sindicatos y las personas de derecho público o privado, en los términos del presente ordenamiento, siempre que se encuentren en cualquiera de las siguientes hipótesis:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2017)</small>
+
+IX. Los sindicatos y las personas de derecho público o privado, en los términos del presente ordenamiento, siempre que se encuentren en cualquiera de las siguientes hipótesis:
 
 a) Cuando en el ejercicio de sus actividades realicen actos de autoridad; o
 
@@ -635,7 +637,9 @@ c) El listado de expropiaciones decretadas y ejecutadas que incluya, cuando meno
 
 d) El nombre, denominación o razón social y clave del registro federal de los contribuyentes, a los que se les hubiera cancelado o condonado algún crédito fiscal, así como los montos respectivos. Asimismo, la información estadística sobre las exenciones previstas en las disposiciones fiscales;
 
-e) Los nombres de las personas a quienes se habilitó para ejercer como notarios públicos, así como sus datos de contacto, la información relacionada con el proceso de otorgamiento de la patente y las sanciones que se les hubieran aplicado;
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+e) Nombre, domicilio, teléfono y número de Fiat notarial de las personas a quienes se habilitó para ejercer como notarios públicos, tanto del titular como del adscrito y de quienes temporalmente se encuentren ejerciendo dicha función, así como la información relacionada con el proceso de otorgamiento de la patente y las sanciones que se les hubieran aplicado;
 
 f) La información detallada que contengan los planes de desarrollo urbano, ordenamiento territorial y ecológico, así como los tipos y usos de suelo; y
 
@@ -1055,23 +1059,7 @@ Los sujetos obligados que asignen recursos públicos a los sindicatos, deberán 
 
 ###### Artículo 43.
 
-Los titulares de las Notarías Públicas deberán publicar como mínimo la siguiente información:
-
-I. Nombre, domicilio, teléfono y número de Fiat notarial, tanto del titular como de los adscritos y, en general, de quienes temporalmente se encuentren ejerciendo dicha función;
-
-II. Los servicios que ofrecen y su costo;
-
-III. La plantilla de personal y el tipo de seguridad social que se le ofrece;
-
-IV. Los índices de protocolo;
-
-V. Las versiones públicas de las actas fuera de protocolo;
-
-VI. La relación de cursos o programas de actualización o capacitación que se realicen y los que se ofrezca al personal; y
-
-VII. Un listado con el número de recepción o de identificación que entregue la autoridad fiscal, de aquellas retenciones enteradas ante la misma.
-
-Para divulgar la información a que se refiere el presente artículo los Notarios Públicos deberán contar con una página de internet en que se habilite un apartado de transparencia, en el cual deberá incluirse el listado de información pública de oficio con los links que permitan su visualización.
+(DEROGADO, P.O. 3 DE JUNIO DE 2017)
 
 ###### Artículo 44.
 
@@ -1320,8 +1308,6 @@ El derecho de autonomía que constitucionalmente se otorga al Organismo Garante,
 ###### Artículo 74.
 
 El Organismo Garante ejercerá su competencia y jurisdicción sobre los sujetos obligados que determina la presente Ley, debiendo regir su funcionamiento de acuerdo a los principios de certeza, eficacia, imparcialidad, independencia, legalidad, máxima publicidad, objetividad, profesionalismo, y transparencia.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO POR EL QUE SE APRUEBA LA LEY.]</small>
 
 ###### Artículo 75.
 
@@ -1679,7 +1665,9 @@ VI. Contar con voto de calidad, para el caso de empate en las determinaciones qu
 
 VII. Representar al Organismo Garante ante el Sistema Nacional de Transparencia;
 
-VIII. Rendir al Congreso, durante el mes de marzo, el informe anual aprobado por el Pleno;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
+
+VIII. Rendir al Congreso, durante el mes de abril, el informe anual aprobado por el Pleno.
 
 IX. Emitir los acuerdos que resulten necesarios para el mejor desempeño de sus atribuciones;
 
@@ -2063,7 +2051,7 @@ V. Suplencia de las deficiencias de las solicitudes; y
 
 VI. Auxilio y orientación a los particulares.
 
-(F. DE E ., P.O. 29 DE JUNIO DE 2016)
+> <small>(F. DE E., P.O. 29 DE JUNIO DE 2016)</small>
 
 ###### Artículo 130.
 
@@ -2664,3 +2652,11 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 30 de mayo del año 2016 dos mil dieciséis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, LIC. JOSÉ IGNACIO PERALTA SÁNCHEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, C. ARNOLDO OCHOA GONZÁLEZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NO. 301 “POR EL QUE SE REFORMAN LOS ARTÍCULOS 26 FRACCIÓN IX; 30 FRACCIÓN I INCISO E); 95 FRACCIÓN VIII; Y SE DEROGA EL ARTÍCULO 43, TODOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial “El Estado de Colima”.
