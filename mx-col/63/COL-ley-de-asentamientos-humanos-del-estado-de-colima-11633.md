@@ -4,7 +4,7 @@ identifier: "COL-ley-de-asentamientos-humanos-del-estado-de-colima-11633"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-07"
-last_updated: "2016-11-22"
+last_updated: "2017-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 1994.
 
@@ -347,7 +347,7 @@ Las dependencias y entidades de los gobiernos estatal y municipales ejercerán s
 
 ###### ARTICULO 17.
 
-La coordinación y concertación que en materia ordenamiento (sic) territorial, de desarrollo urbano, vivienda, infraestructura vial, patrimonio natural, urbano y arquitectónico, se suscite por parte del Gobierno del Estado y de los ayuntamientos con las autoridades federales, se sujetará a las disposiciones previstas en esta Ley, en la Ley General de Asentamientos Humanos y demás ordenamientos federales y estatales en materia de planeación, equilibrio ecológico y protección del ambiente, agraria, aprovechamiento de aguas y patrimonio cultural.
+La coordinación y concertación que en materia ordenamiento territorial, de desarrollo urbano, vivienda, infraestructura vial, patrimonio natural, urbano y arquitectónico, se suscite por parte del Gobierno del Estado y de los ayuntamientos con las autoridades federales, se sujetará a las disposiciones previstas en esta Ley, en la Ley General de Asentamientos Humanos y demás ordenamientos federales y estatales en materia de planeación, equilibrio ecológico y protección del ambiente, agraria, aprovechamiento de aguas y patrimonio cultural.
 
 ### Capítulo II. Del Congreso del Estado
 
@@ -2871,9 +2871,9 @@ II. Copias de los títulos donde se acredite la propiedad de los predios y, en s
 
 III. Certificado que acredite la solvencia fiscal y la libertad de gravamen de los predios, excepto los inmuebles que provengan del patrimonio federal, estatal o municipal;
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
 
-IV. Acta constitutiva de la empresa que promueve;
+IV.- Acta constitutiva de la persona moral que promueve.
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
 
@@ -2905,9 +2905,7 @@ e) Los planos de lotificación y de usos y destinos en la escala mínima legible
 
 IX. El documento que acredite el pago del derecho por este trámite que determinen las leyes fiscales aplicables, los derechos de registro catastral;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2004)</small>
-
-X. Para promociones de lotes con servicios, el promotor deberá acreditar la solvencia económica para desarrollar el proyecto;
+X. (DEROGADA, P.O. 3 DE JUNIO DE 2017)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2004)</small>
 
@@ -3259,6 +3257,22 @@ II. La bitácora autorizada para verificar la supervisión y control de las obra
 
 Al autorizar la bitácora, la autoridad municipal certificará las firmas de los peritos y directores responsables que intervendrán en la ejecución, supervisión y control de las obras.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+La vigencia de la licencia de urbanización se determinará conforme al plazo definido en el programa de obra autorizado, por lo que las obras de urbanización deberán concluirse en dicho plazo.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+En caso de no inicio o suspensión voluntaria de las obras, el urbanizador deberá notificar por escrito a la Dependencia Municipal describiendo las razones y el periodo de tiempo que pretende mantener la suspensión. En su caso, la Dependencia municipal decidirá el plazo máximo de suspensión, en atención a las manifestaciones que justifiquen ésta, otorgando en su momento, la prórroga correspondiente por el período de suspensión de las obras o no inicio de las mismas. El urbanizador o promovente podrá solicitar la suspensión de la fianza por el mismo período.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+Para obtener la autorización de reinicio de obra, deberá presentar a la Dependencia el aviso de suspensión autorizado y el ajuste al programa de obra.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+En caso de contar con autorización para iniciar la promoción de venta, el urbanizador no podrá solicitar su suspensión.
+
 > <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 306.
@@ -3339,11 +3353,11 @@ El urbanizador o promovente se obliga a observar las indicaciones que se deriven
 
 Cuando existan razones técnicas fundadas y se requiera la modificación del proyecto en sus especificaciones, deberá el urbanizador o promovente, proponerlas por escrito ante el Ayuntamiento correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 319.
 
-El Proyecto Ejecutivo de Urbanización podrá modificarse, en tanto no contravenga los lineamientos y especificaciones del Programa Parcial de Urbanización, conforme las bases siguientes:
+El Proyecto Ejecutivo de Urbanización podrá modificarse a propuesta del urbanizador o de la propia autoridad en tanto no contravenga los lineamientos y especificaciones del Programa Parcial de Urbanización, conforme las bases siguientes:
 
 > <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
@@ -3351,9 +3365,13 @@ I. Para cualquier modificación del Proyecto Ejecutivo de Urbanización, sea a p
 
 II. Expedido el dictamen, la Dependencia Municipal lo notificará al urbanizador, para su debido cumplimiento;
 
-III. En el mismo dictamen se establecerá la modificación del calendario de obras y en secuencia, el plazo para su ejecución, y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
 
-IV. Conforme al nuevo plazo que se determine, se otorgará la ampliación de la licencia o permiso, previo pago de los derechos municipales que correspondan.
+III.- Si el urbanizador solicita la modificación de las etapas de urbanización, el dictamen establecerá la procedencia de este ajuste, su secuencia, el calendario de obras y el plazo para su ejecución, y
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
+
+IV.- Conforme al nuevo plazo que se determine, se emitirá una nueva licencia de urbanización, previo pago de los derechos municipales que correspondan.
 
 ###### ARTICULO 320.
 
@@ -4484,3 +4502,9 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 3 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 292 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
