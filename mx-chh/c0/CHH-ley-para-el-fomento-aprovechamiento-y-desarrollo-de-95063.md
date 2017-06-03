@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-el-fomento-aprovechamiento-y-desarrollo-de-95063"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-06"
-last_updated: "2013-07-06"
+last_updated: "2017-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA EL FOMENTO, APROVECHAMIENTO Y DESARROLLO DE EFICIENCIA ENERGÉTICA Y DE ENERGÍAS RENOVABLES DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 6 de julio de 2013.
 
@@ -243,6 +243,10 @@ i) La Gerencia de Transmisión de la Comisión Federal de Electricidad.
 
 j) Las Secciones Regionales de la Asociación Nacional de Energía Solar.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+k) Quienes presidan las Comisiones de Ecología y Medio Ambiente, y de Energía, del H. Congreso del Estado.
+
 Los integrantes señalados en los incisos b), c), d), e) y f) serán designados a invitación del Presidente del Comité.
 
 ###### Artículo 12.
@@ -338,3 +342,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los quince días del mes de mayo del año dos mil trece.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0312/2017 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 11, UN INCISO K), DE LA LEY PARA EL FOMENTO, APROVECHAMIENTO Y DESARROLLO DE EFICIENCIA ENERGÉTICA Y DE ENERGÍAS RENOVABLES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
