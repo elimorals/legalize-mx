@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2017-05-13"
+last_updated: "2017-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -1313,23 +1313,37 @@ Las percepciones de los defensores públicos y asesores jurídicos no podrán se
 
 De la Protección y Defensa de los Derechos Humanos.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2017)</small>
 
 ###### Artículo 86.
 
-La Comisión de Derechos Humanos del Estado de Colima será el organismo público dotado de plena autonomía, con personalidad jurídica y patrimonios propios, carácter permanente, de servicio gratuito y de participación ciudadana, que estará a cargo de la protección y defensa en la Entidad, de los derechos humanos que otorgue el orden jurídico mexicano.
+La Comisión de Derechos Humanos del Estado de Colima será el organismo público dotado de plena autonomía, con personalidad jurídica y patrimonio propio, con autonomía presupuestaría, técnica y de gestión en el ejercicio de sus atribuciones, de carácter permanente, de servicio gratuito y de participación ciudadana, que estará a cargo de la protección y defensa en la Entidad, de los derechos humanos que otorgue el orden jurídico mexicano.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2013)</small>
 
 Conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público estatal o municipal que violen estos derechos. Formulará recomendaciones públicas autónomas no vinculatorias así como denuncias y quejas ante las autoridades respectivas.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2013)</small>
+
 Todo servidor público está obligado a responder las recomendaciones que les presenten estos organismos. Cuando las recomendaciones emitidas no fueran aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa. El Congreso del Estado, a solicitud de la Comisión, podrá llamar a las autoridades o servidores públicos responsables para que comparezcan ante el pleno, a efecto de que expliquen el motivo de su negativa. Su ley orgánica establecerá el procedimiento conforme al cual se desahogue esta comparecencia.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2013)</small>
 
 La Comisión no será competente tratándose de asuntos electorales y Jurisdiccionales.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2013)</small>
+
 De las Inconformidades que se presenten respecto de las recomendaciones, acuerdos u omisiones de la Comisión estatal, conocerá la Comisión Nacional de los Derechos Humanos.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2013)</small>
 
 La Comisión tendrá facultad para ejercitar acción de inconstitucionalidad en contra de leyes expedidas por el Congreso del Estado, dentro de los treinta días naturales siguientes a la fecha de su publicación.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2013)</small>
+
 El Presidente y los Consejeros de la Comisión serán electos por el Congreso, a propuesta de los Diputados, por mayoría calificada de sus integrantes y de conformidad con un procedimiento de consulta pública y que deberá ser transparente, en los términos que establezca su ley orgánica. El Presidente durará en su encargo cuatro años, podrá ser relecto (sic) para un plazo igual y presentará anualmente al Congreso del Estado un informe de las actividades del organismo a su cargo. Comparecerá también ante el Congreso en los términos que disponga la ley.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2013)</small>
 
 La ley orgánica determinará la forma de integración, su estructura y funcionamiento de dicho organismo, así como la responsabilidad en que incurran las autoridades, servidores públicos y particulares que no atiendan los requerimientos de la Comisión.
 
@@ -3644,6 +3658,12 @@ CUARTO. Los trabajadores de base que se encuentren prestando sus servicios en el
 QUINTO. En observancia al artículo transitorio octavo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones (sic) la Constitución Política de los Estados Unidos Mexicanos, en materia de Combate a la Corrupción, publicado el día 27 de mayo del 2015 en el Diario Oficial de la Federación, los magistrados de los Tribunales Contenciosos Administrativos cualquiera que sea su denominación en el ámbito de las entidades federativas, continuarán como magistrados de los Tribunales de Justicia Administrativa de cada entidad federativa, exclusivamente por el tiempo que hayan sido nombrados.
 
 SEXTO. El Sistema Estatal Anticorrupción deberá conformarse de acuerdo con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, las leyes generales que resulten aplicables, la Constitución Política del Estado Libre y Soberano de Colima y la legislación local en la materia.
+
+P.O. 3 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 288 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCION POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN MATERIA DE DERECHOS HUMANOS”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTÍCULO ÚNICO.
 
