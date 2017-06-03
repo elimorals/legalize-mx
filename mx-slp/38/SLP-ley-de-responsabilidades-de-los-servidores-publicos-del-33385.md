@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-de-los-servidores-publicos-del-33385"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2016-09-17"
+last_updated: "2017-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, PUBLICADO EN EL PERIÓDICO OFICIAL EL 3 DE JUNIO DE 2017; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 19 DE JULIO DE 2017.]</small>
+
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -1121,7 +1123,7 @@ TERCERO. Para efectos de la Ley que Fija las Bases para Determinar las Remunerac
 
 CUARTO. Para. los efectos de lo dispuesto en el antepenúltimo párrafo del artículo 26 de la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí, que se expide mediante este Decreto, sólo en lo que respecta al Ejercicio Fiscal 2009, el Comité Técnico de Valoración de las Remuneraciones de los Servidores Públicos del Estado, sesionará en el mes de octubre, con los integrantes a que se refieren las fracciones I, II, III, IV y V del citado artículo 26, previa convocatoria que al efecto emita el titular del Poder Ejecutivo.
 
-Instalada la primera sesión del Comité, en los términos del párrafo anterior, se ocupará de girar invitación a las cámaras y asociaciones empresariales más representativas del Estado, para que designen a quienes habrán de representar al sector privado, en términos de lo dispuesto por la fracción VI del artículo 26 la (sic) Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+Instalada la primera sesión del Comité, en los términos del párrafo anterior, se ocupará de girar invitación a las cámaras y asociaciones empresariales más representativas del Estado, para que designen a quienes habrán de representar al sector privado, en términos de lo dispuesto por la fracción VI del artículo 26 (sic) la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
 QUINTO. A partir de la entrada en vigor de la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí, se deberá elaborar anualmente el Catálogo General de Puestos del Gobierno del Estado y sus Municipios, tomando en consideración los tabuladores de remuneraciones de servidores.
 
@@ -1202,3 +1204,21 @@ P.O. 17 DE SEPTIEMBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0655.- SE EXPIDE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE SAN LUIS POTOSÍ; SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO 144, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. La Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí entrará en vigor el diecinueve de julio de dos mil diecisiete, previa su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. A la entrada en vigor de (sic) Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí, se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, publicada en el Periódico Oficial del Estado el catorce de agosto del año dos mil tres, la cual sólo continuará aplicándose para concluir de manera definitiva, los procedimientos que se hayan iniciado durante su vigencia.
+
+TERCERO. El cumplimiento de las obligaciones previstas en la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí, una vez que ésta entre en vigor, serán exigibles, en lo que resulte aplicable, hasta en tanto el Comité Coordinador del Sistema Estatal Anticorrupción, de conformidad con la ley de la materia, emita los lineamientos, criterios y demás resoluciones conducentes de su competencia.
+
+CUARTO. Los procedimientos administrativos iniciados por las autoridades estatales y municipales con anterioridad a la entrada en vigor de la presente Ley, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+QUINTO. Una vez en vigor la presente Ley y hasta en tanto el Comité Coordinador del Sistema Estatal Anticorrupción determina los formatos para la presentación de las declaraciones: patrimonial; y de intereses, los servidores públicos de todos los órdenes de gobierno presentarán sus declaraciones en los formatos que, a la entrada en vigor de la referida Ley, se utilicen en el ámbito estatal.
+
+SEXTO. Los servidores públicos que deban rendir declaración patrimonial, de intereses y, en su caso, fiscal, en términos de esta Ley, y que antes de la entrada en vigor de la misma no la hubieren presentado en virtud de que no estaban obligados a ello, con independencia de su antigüedad en el empleo, cargo o comisión que desempeña (sic), deberán presentar su declaración inicial en términos de lo dispuesto en el artículo 33 fracción I inciso a) de este Ordenamiento, corriendo el término de los sesenta días a partir del inicio de vigencia del presente Decreto.
+
+SÉPTIMO. Las referencias contenidas en esta Ley respecto de la Fiscalía General del Estado, se entenderán hechas a la Procuraduría General de Justicia del Estado, en tanto se emite la legislación correspondiente.
