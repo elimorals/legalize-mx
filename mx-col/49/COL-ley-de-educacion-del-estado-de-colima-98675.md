@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-98675"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-08"
-last_updated: "2017-04-01"
+last_updated: "2017-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de febrero de 2014.
 
@@ -529,11 +529,35 @@ Las instituciones educativas a que se refiere el artículo anterior están oblig
 
 El Instituto Nacional para la Evaluación de la Educación y las autoridades educativas darán a conocer a los maestros, alumnos, padres de familia y a la sociedad en general, los resultados que permitan medir el desarrollo y los avances de la educación nacional y en cada entidad federativa.
 
-#### SECCIÓN PRIMERA. Generalidades del Servicio Profesional Docente
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2017)</small>
+
+#### SECCIÓN QUINTA. De la Seguridad en las Escuelas
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+###### ARTÍCULO 36 Bis.
+
+La autoridad educativa estatal deberá coordinarse con las autoridades municipales, estatales y federales competentes para:
+
+I.- Salvaguardar la integridad física de los educandos en las escuelas, especialmente en los casos de educación inicial, básica, media superior y superior; y
+
+II.- Vigilar que en el interior o en los alrededores de los planteles educativos no se distribuyan o consuman drogas psicotrópicas o enervantes, debiendo acudir a las autoridades correspondientes a denunciar cualquier hecho en este sentido, a efecto de que sea seguido el procedimiento legal correspondiente.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+###### ARTÍCULO 36 Ter.
+
+Las autoridades educativas, deberán implementar programas permanentes de prevención y detección de conductas que impliquen violencia física o psicológica entre el alumnado, conforme lo dispone la Ley de Seguridad Integral Escolar para el Estado de Colima.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+###### ARTÍCULO 36 Quater.
+
+Las autoridades, deberán organizarse para el resguardo y protección de las instalaciones fuera de horario escolar o cuando se encuentren sin personal administrativo y alumnado, debiendo denunciar ante la autoridad competente cuando el plantel educativo sea objeto de robo o daño en las instalaciones o sea objeto de cualquier otro delito, tipificado en la legislación penal.
 
 ### CAPÍTULO III. DEL SERVICIO PROFESIONAL DOCENTE
 
-#### SECCIÓN SEGUNDA. Atribuciones en materia de Servicio Profesional Docente
+#### SECCIÓN PRIMERA. Generalidades del Servicio Profesional Docente
 
 ###### ARTÍCULO 37.
 
@@ -547,7 +571,7 @@ La autoridad educativa estatal, para los efectos del servicio profesional docent
 
 Las funciones docentes, de dirección de una escuela o de supervisión de la educación básica y media superior impartida por la autoridad educativa estatal deberán orientarse a brindar educación de calidad y al cumplimiento de sus fines. Quienes desempeñen dichas tareas deben reunir las cualidades personales y competencias profesionales para que dentro de los distintos contextos sociales y culturales promuevan el máximo logro de aprendizaje de los educandos, conforme a los perfiles, parámetros e indicadores que garanticen la idoneidad de los conocimientos, aptitudes y capacidades que correspondan.
 
-#### SECCIÓN TERCERA. De la mejora de la práctica profesional
+#### SECCIÓN SEGUNDA. Atribuciones en materia de Servicio Profesional Docente
 
 ###### ARTÍCULO 40.
 
@@ -639,7 +663,7 @@ XX. Establecer los mecanismos mediante los cuales los representantes de organiza
 
 XXI. Las demás que establezca la Ley General del Servicio Profesional Docente y otras disposiciones aplicables.
 
-#### SECCIÓN CUARTA. Del ingreso al Servicio Profesional Docente
+#### SECCIÓN TERCERA. De la mejora de la práctica profesional
 
 ###### ARTÍCULO 42.
 
@@ -671,7 +695,7 @@ V. Organizar y operar, en la educación media superior, el servicio de asistenci
 
 VI. Establecer, con base en los resultados de la evaluación interna, compromisos verificables de mejora.
 
-#### SECCIÓN QUINTA. De la promoción a cargos con funciones de dirección y de supervisión
+#### SECCIÓN CUARTA. Del ingreso al Servicio Profesional Docente
 
 ###### ARTÍCULO 44.
 
@@ -729,7 +753,7 @@ En los concursos de oposición para el ingreso al servicio que se celebren en lo
 
 Quienes participen en alguna forma de ingreso distinta a lo establecido en la Ley General del Servicio Profesional Docente y en la presente Ley, autoricen o efectúen algún pago o contraprestación u obtengan algún beneficio, incurrirán en responsabilidad y serán acreedores a las sanciones correspondientes.
 
-#### SECCIÓN SEXTA. De la permanencia en el servicio
+#### SECCIÓN QUINTA. De la promoción a cargos con funciones de dirección y de supervisión
 
 ###### ARTÍCULO 51.
 
@@ -809,7 +833,7 @@ Los movimientos laterales sólo podrán realizarse previamente al inicio del cic
 
 La autoridad educativa estatal podrá otorgar otros reconocimientos en función de la evaluación del desempeño docente y de quienes realizan funciones de dirección o supervisión. Estos reconocimientos podrán ser individuales o para el conjunto de docentes y el director de una institución educativa.
 
-#### SECCIÓN SÉPTIMA. De los Perfiles, Parámetros e Indicadores
+#### SECCIÓN SEXTA. De la permanencia en el servicio
 
 ###### ARTÍCULO 62.
 
@@ -835,13 +859,13 @@ En caso de que el personal no alcance un resultado suficiente en la tercera eval
 
 Para la educación básica, los programas de regularización serán definidos de conformidad con los lineamientos generales que la autoridad educativa federal expida. En el caso de la educación media superior los programas de regularización serán determinados por la autoridad educativa estatal.
 
-#### SECCIÓN OCTAVA. Otras Condiciones
+#### SECCIÓN SÉPTIMA. De los Perfiles, Parámetros e Indicadores
 
 ###### ARTÍCULO 65.
 
 Para la determinación de los perfiles, parámetros e indicadores, en el ámbito de la educación básica y media superior, la autoridad educativa estatal se sujetará a lo previsto en el Título Tercero de la Ley General del Servicio Profesional Docente.
 
-#### SECCIÓN NOVENA. Derechos y obligaciones en materia de Servicio Profesional Docente
+#### SECCIÓN OCTAVA. Otras Condiciones
 
 ###### ARTÍCULO 66.
 
@@ -857,7 +881,7 @@ El personal docente y el personal con funciones de dirección que ocupe los pues
 
 La estructura ocupacional autorizada y la plantilla de personal de cada escuela, así como los datos sobre la formación, trayectoria y desempeño profesional de cada docente deberán estar permanentemente actualizados en el Sistema de Información y Gestión Educativa.
 
-#### SECCIÓN PRIMERA. De la Certificación de Estudios
+#### SECCIÓN NOVENA. Derechos y obligaciones en materia de Servicio Profesional Docente
 
 ###### ARTÍCULO 68.
 
@@ -951,7 +975,7 @@ Las personas que decidan aceptar el desempeño de un empleo, cargo o comisión q
 
 ### CAPÍTULO IV. DE LA VALIDEZ OFICIAL DE ESTUDIOS
 
-#### SECCIÓN SEGUNDA. De la Revalidación y Equivalencia de Estudios
+#### SECCIÓN PRIMERA. De la Certificación de Estudios
 
 ###### ARTÍCULO 79.
 
@@ -965,7 +989,7 @@ Las instituciones del Sistema Educativo Estatal expedirán certificados y otorga
 
 Para expedir el certificado de estudios, la instancia correspondiente revisará y, en su caso, cotejará con sus archivos, que el educando haya cumplido con todos y cada uno de los requisitos de los planes y programas de estudio del nivel que corresponda.
 
-#### SECCIÓN PRIMERA. Generalidades del Proceso Educativo
+#### SECCIÓN SEGUNDA. De la Revalidación y Equivalencia de Estudios
 
 ###### ARTÍCULO 82.
 
@@ -1055,7 +1079,7 @@ La autoridad educativa estatal, podrá celebrar con las autoridades educativas f
 
 ### CAPÍTULO VI. DEL PROCESO EDUCATIVO
 
-#### SECCIÓN SEGUNDA. De los Tipos y Modalidades de la Educación
+#### SECCIÓN PRIMERA. Generalidades del Proceso Educativo
 
 ###### ARTÍCULO 92.
 
@@ -1071,7 +1095,7 @@ Las actividades no previstas en los planes y programas de estudio, o bien la sus
 
 De presentarse interrupciones por caso extraordinario o fuerza mayor, la autoridad educativa estatal tomará las medidas para recuperar los días y horas perdidos.
 
-#### SECCIÓN PRIMERA. De los Padres de Familia
+#### SECCIÓN SEGUNDA. De los Tipos y Modalidades de la Educación
 
 ###### ARTÍCULO 94.
 
@@ -1211,7 +1235,7 @@ En el caso de educación inicial deberán contar con el personal que acredite la
 
 ### CAPÍTULO VIII. DE LA PARTICIPACIÓN SOCIAL EN LA EDUCACIÓN
 
-#### SECCIÓN SEGUNDA. De los Consejos de Participación Social
+#### SECCIÓN PRIMERA. De los Padres de Familia
 
 ###### ARTÍCULO 114.
 
@@ -1279,7 +1303,7 @@ Las asociaciones de padres de familia se abstendrán de intervenir en los aspect
 
 La organización y el funcionamiento de las asociaciones de padres de familia, en lo concerniente a sus relaciones con las autoridades educativas escolares, se sujetarán a las disposiciones que señale la autoridad educativa federal.
 
-#### SECCIÓN PRIMERA. De las Infracciones y Sanciones
+#### SECCIÓN SEGUNDA. De los Consejos de Participación Social
 
 ###### ARTÍCULO 118.
 
@@ -1373,7 +1397,7 @@ En caso de que el Consejo aprecie la probable comisión de un delito en agravio 
 
 ### CAPÍTULO IX. DE LAS INFRACCIONES, SANCIONES Y EL RECURSO ADMINISTRATIVO
 
-#### SECCIÓN SEGUNDA. Del Recurso Administrativo
+#### SECCIÓN PRIMERA. De las Infracciones y Sanciones
 
 ###### ARTÍCULO 123.
 
@@ -1458,6 +1482,8 @@ El retiro del reconocimiento de validez oficial se referirá a los estudios que 
 La autoridad educativa estatal al dictar la resolución adoptará las medidas que sean necesarias para evitar perjuicios a los educandos.
 
 En el caso de autorizaciones, cuando la revocación se dicte durante un ejercicio lectivo, la institución podrá seguir funcionando, a juicio y bajo la vigilancia de la autoridad educativa estatal, hasta que aquél concluya.
+
+#### SECCIÓN SEGUNDA. Del Recurso Administrativo
 
 ###### ARTÍCULO 128.
 
@@ -1646,3 +1672,9 @@ P.O. 1 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 267 POR EL QUE SE REFORMAN LAS FRACCIONES XXIV Y XXV Y SE ADICIONAN LAS FRACCIONES XXVI Y XXVII AL ARTÍCULO 11 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 3 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 246.- POR EL QUE SE ADICIONA LA SECCIÓN QUINTA DENOMINADA "DE LA SEGURIDAD EN LAS ESCUELAS", INTEGRADA POR LOS ARTÍCULOS 36 BIS, 36 TER Y 36 QUATER, AL CAPÍTULO II DEL SISTEMA EDUCATIVO ESTATAL, DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
