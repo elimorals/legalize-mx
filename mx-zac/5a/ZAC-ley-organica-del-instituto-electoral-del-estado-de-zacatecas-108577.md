@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-instituto-electoral-del-estado-de-zacatecas-10
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-06-06"
-last_updated: "2015-06-06"
+last_updated: "2017-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
 
 Ley publicada en el Suplemento 4 del Periódico Oficial del Estado de Zacatecas, el sábado 6 junio de 2015.
 
@@ -41,7 +41,9 @@ RESULTANDO SEGUNDO. Por acuerdo de la Presidencia de la Mesa Directiva, mediante
 
 RESULTANDO TERCERO. El proponente expone, como motivos de su propuesta, lo que a continuación se transcribe:
 
-EXPOSICIÓN DE MOTIVOS …
+EXPOSICIÓN DE MOTIVOS
+
+[…]
 
 Por lo anteriormente expuesto y fundado y con apoyo además en lo dispuesto en los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 
@@ -79,19 +81,23 @@ VII. Instituto Nacional: El Instituto Nacional Electoral;
 
 VIII. Ley: La Ley Orgánica del Instituto Electoral del Estado de Zacatecas;
 
-IX. Ley Electoral: La Ley Electoral del Estado de Zacatecas;
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2017)</small>
 
-X. Ley General de Instituciones: La Ley General de Instituciones y Procedimientos Electorales;
+IX. Ley de Disciplina Financiera: La Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios;
 
-XI. Ley General de Partidos: La Ley General de Partidos Políticos;
+X. Ley Electoral: La Ley Electoral del Estado de Zacatecas;
 
-XII. Ley de Medios: Ley del Sistema de Medios de Impugnación Electoral del Estado de Zacatecas;
+XI. Ley General de Instituciones: La Ley General de Instituciones y Procedimientos Electorales;
 
-XIII. Procesos Electorales: El conjunto de actos realizados por las autoridades electorales, los partidos políticos y los ciudadanos, ordenados por la Constitución Local y la Ley Electoral, y que tienen por objeto la renovación de los Poderes Legislativo y Ejecutivo, así como de los miembros de los Ayuntamientos del Estado;
+XII. Ley General de Partidos: La Ley General de Partidos Políticos;
 
-XIV. Secretario Ejecutivo: El Secretario Ejecutivo del Consejo General y de los Consejos Distritales y Municipales del Instituto Electoral del Estado de Zacatecas; y
+XIII. Ley de Medios: Ley del Sistema de Medios de Impugnación Electoral del Estado de Zacatecas;
 
-XV. Tribunal de Justicia Electoral: El Tribunal de Justicia Electoral del Estado de Zacatecas.
+XIV. Procesos Electorales: El conjunto de actos realizados por las autoridades electorales, los partidos políticos y los ciudadanos, ordenados por la Constitución Local y la Ley Electoral, y que tienen por objeto la renovación de los Poderes Legislativo y Ejecutivo, así como de los miembros de los Ayuntamientos del Estado;
+
+XV. Secretario Ejecutivo: El Secretario Ejecutivo del Consejo General y de los Consejos Distritales y Municipales del Instituto Electoral del Estado de Zacatecas; y
+
+XVI. Tribunal de Justicia Electoral: El Tribunal de Justicia Electoral del Estado de Zacatecas.
 
 Criterios de interpretación. Supletoriedad
 
@@ -107,7 +113,9 @@ II. Ley de Medios;
 
 III. Ley de Participación Ciudadana;
 
-IV. Ley de Administración y Finanzas Públicas del Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
+
+IV. Ley de Disciplina Financiera;
 
 V. Ley de Fiscalización Superior del Estado;
 
@@ -255,7 +263,9 @@ ARTÍCULO 9
 
 1. El patrimonio del Instituto, se integra con los derechos, bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le asignen en el presupuesto de egresos del Estado, más los ingresos que perciba con motivo del ejercicio de sus atribuciones previstas en este ordenamiento y en la Ley Electoral.
 
-2. Para su administración y control se estará a lo dispuesto por la Constitución Local, la Ley de Patrimonio del Estado y Municipios y demás legislación aplicable. El patrimonio de los partidos políticos que sean disueltos, será administrado por el erario bajo los procedimientos y formas previstas por la legislación electoral.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+2. Para su administración y control se estará a lo dispuesto por la Constitución Local, la Ley de Patrimonio del Estado y Municipios, la Ley de Disciplina Financiera y demás legislación aplicable. El patrimonio de los partidos políticos que sean disueltos, será administrado por el erario bajo los procedimientos y formas previstas por la legislación electoral.
 
 3. El Instituto elaborará el catálogo e inventario de sus bienes muebles e inmuebles.
 
@@ -267,17 +277,23 @@ ARTÍCULO 9
 
 7. El Instituto administrará su patrimonio conforme a las bases siguientes:
 
-I. Los recursos que integran el patrimonio serán ejercidos en forma directa por los órganos del Instituto, conforme a esta Ley y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
+
+I. Los recursos que integran el patrimonio serán ejercidos en forma directa por los órganos del Instituto, conforme a esta Ley, la Ley de Disciplina Financiera y demás disposiciones legales aplicable (sic);
 
 II. La Legislatura del Estado revisará y fiscalizará la cuenta pública del Instituto, en los términos de las disposiciones legales aplicables;
 
 III. Los funcionarios electorales presentarán, en los plazos, términos y procedimientos correspondientes, su declaración patrimonial ante la Auditoría Superior del Estado u órgano fiscalizador correspondiente;
 
-IV. El ejercicio presupuestal del Instituto deberá ajustarse a los principios de honestidad, legalidad, optimización de recursos, racionalidad e interés público y social;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
+
+IV. El ejercicio presupuestal del Instituto deberá ajustarse a los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas y demás previstos en la Ley de Disciplina Financiera;
 
 V. El Instituto manejará su patrimonio conforme a la ley. En todo caso, el Instituto requerirá el acuerdo de las dos terceras partes de los miembros del Consejo General, para dictar resoluciones que afecten el patrimonio inmobiliario; y
 
-VI. En todo lo relativo a la administración, control y fiscalización de su patrimonio, el Instituto deberá observar las disposiciones legales aplicables, según la materia de que se trate, siempre y cuando dichas disposiciones no contravengan los principios rectores de la función electoral.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
+
+VI. En todo lo relativo a la administración, control y fiscalización de su patrimonio, el Instituto deberá observar la Ley de Disciplina Financiera y demás disposiciones legales aplicables, según la materia de que se trate, siempre y cuando dichas disposiciones no contravengan los principios rectores de la función electoral.
 
 ### CAPÍTULO SEGUNDO. DOMICILIO, ESTRUCTURA Y ÓRGANOS DEL INSTITUTO
 
@@ -326,6 +342,10 @@ b) Los Consejos Municipales Electorales; y
 c) Las Mesas Directivas de Casilla.
 
 V. Los Órganos de vigilancia, que son las Comisiones del Consejo General previstas en esta Ley.
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2017)</small>
+
+VI. El Órgano Interno de Control, que estará adscrito administrativamente a la presidencia del Consejo General.
 
 Órganos Electorales
 
@@ -395,7 +415,9 @@ ARTÍCULO 16
 
 9. El Consejero Presidente, los Consejeros Electorales, el Secretario Ejecutivo y los demás servidores públicos del Instituto desempeñarán su función con autonomía y probidad. No podrán utilizar la información reservada o confidencial de que dispongan en razón de su cargo, ni divulgarla por ningún medio, salvo para el estricto ejercicio de sus funciones.
 
-10. Los Consejeros Electorales y los Secretarios Ejecutivos estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en el Título Cuarto de la Constitución Federal, Título Séptimo de la Constitución Local y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+10. Los Consejeros Electorales, los Secretarios Ejecutivos y el titular del Órgano Interno de Control estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en el Título Cuarto de la Constitución Federal, Título Séptimo de la Constitución Local y la Ley de Responsabilidades Administrativas.
 
 ## TÍTULO TERCERO. DE LA AUTONOMÍA Y RENDICIÓN DE CUENTAS DEL INSTITUTO
 
@@ -411,7 +433,9 @@ De la autonomía presupuestal
 
 ARTÍCULO 18
 
-1. El Instituto administrará su patrimonio con base en la legislación aplicable.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+1. El Instituto administrará su patrimonio con base en la Ley de Disciplina Financiera, y demás legislación aplicable.
 
 2. Los ingresos que obtenga el Instituto, por concepto de multas impuestas a los partidos políticos y demás sujetos del régimen sancionador, serán destinadas el cincuenta por ciento de los recursos económicos para el fortalecimiento de la infraestructura y proyectos estratégicos del Consejo Zacatecano de Ciencia, Tecnología e Innovación en términos de las leyes aplicables. El cincuenta por ciento restante será destinado a los programas de empoderamiento político de la mujer que desarrolle el Instituto.
 
@@ -787,7 +811,9 @@ X. Proponer al Consejo General, al integrante de la Junta Ejecutiva que deba sus
 
 XI. Vigilar que se cumplan los acuerdos del Consejo General;
 
-XII. Presentar al Consejo General para su aprobación, el anteproyecto de presupuesto de egresos, a más tardar en el mes de octubre del año inmediato anterior al de su ejercicio;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
+
+XII. Presentar al Consejo General para su aprobación, el anteproyecto de presupuesto de egresos, a más tardar en el mes de octubre del año inmediato anterior al de su ejercicio, previendo en todo momento las obligaciones de presupuestación establecidas en la Ley de Disciplina Financiera;
 
 XIII. Remitir al titular del Poder Ejecutivo, con oportunidad, el proyecto de presupuesto aprobado por el Consejo General, para que se incluya en la iniciativa de presupuesto anual de egresos, de conformidad con lo previsto en la Ley de Administración y Finanzas Públicas del Estado;
 
@@ -1339,6 +1365,10 @@ XVII. Participar en la implementación de los mecanismos de transversalización 
 
 XVIII. Las demás que le encomienden esta Ley, el Reglamento Interior del Instituto, el Consejo General o su Presidente en el ámbito de sus respectivas atribuciones.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+3. El titular del Órgano Interno de Control podrá participar, a convocatoria del Consejero Presidente, en las sesiones de la Junta Ejecutiva.
+
 ### CAPÍTULO SEGUNDO. DEL SECRETARIO EJECUTIVO
 
 Duración en el cargo y atribuciones
@@ -1405,7 +1435,9 @@ III. La Unidad del Secretariado; y
 
 IV. La Unidad de lo Contencioso Electoral.
 
-### CAPÍTULO TERCERO. DE LAS DIRECCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO TERCERO. DE LAS DIRECCIONES Y DEL ÓRGANO INTERNO DE CONTROL
 
 Titulares y requisitos
 
@@ -1636,6 +1668,144 @@ XIV. Actuar como secretaría técnica de la Comisión de Paridad entre los Géne
 XV. Acordar con el Secretario Ejecutivo los asuntos de su competencia; y
 
 XVI. Las demás que le confiera esta Ley y los reglamentos del Consejo General.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+Nombramiento y atribuciones
+
+ARTÍCULO 57 BIS
+
+1. El órgano interno de control del Instituto es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones.
+
+2. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que sean de la competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de los recursos públicos asignados al Instituto; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+3. El titular del órgano interno de control será designado por la Legislatura del Estado con el voto de las dos terceras partes de sus miembros presentes, durará en su cargo tres años y no podrá ser designado para otro periodo.
+
+La Legislatura del Estado podrá convocar a los colegios y asociaciones de contadores públicos, para que derivado de un proceso de consulta sobre competencias en materia de fiscalización y auditoría, se integre una terna con los participantes que hubieren obtenido las calificaciones de mayor puntaje.
+
+El titular tendrá nivel jerárquico equivalente al de Director Ejecutivo del Instituto.
+
+4. El Órgano Interno de Control contará con la estructura orgánica, personal y recursos que apruebe el Consejo General, de acuerdo con la propuesta que se le formule.
+
+5. El Órgano Interno de Control del Instituto, su titular y el personal adscrito a la misma, cualquiera que sea su nivel, están impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones de naturaleza electoral que la Constitución Federal, la Constitución Local y esta Ley confieren a los funcionarios del Instituto.
+
+6. Las actividades del titular del Órgano Interno de Control, así como de quienes integren su estructura, se sujetará a los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
+
+7. En los términos de la Ley General del Sistema Nacional Anticorrupción, la Ley del Sistema Estatal Anticorrupción y demás disposiciones aplicables, el órgano interno de control mantendrá una coordinación permanente con la Auditoría Superior del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+Requisitos para ser titular del Órgano Interno de Control
+
+ARTÍCULO 57 TER
+
+1. El titular del Órgano Interno de Control deberá reunir los mismos requisitos previstos en el Estatuto del Servicio Profesional Electoral Nacional para ser Director Ejecutivo del Instituto, y los siguientes:
+
+I. No ser Consejero Electoral, salvo que se haya separado del cargo siete años antes del día de su designación;
+
+II. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de la libertad de más de un año; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte la buena fama en el concepto público, ello lo inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+III. Contar al momento de su designación con experiencia profesional en materia administrativa o contable, así como en el control, manejo o fiscalización de recursos;
+
+IV. Contar al día de su designación, con título profesional, de nivel licenciatura en administración, derecho, contaduría u otra relacionada en forma directa con las actividades de fiscalización, expedido por institución legalmente facultada para ello; y
+
+V. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto o a algún partido político.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+Facultades del Órgano Interno de Control
+
+ARTÍCULO 57 QUATER
+
+1. El Órgano Interno de Control tendrá las facultades siguientes:
+
+I. Fijar los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del Instituto, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+II. Establecer las normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice en el cumplimiento de sus funciones;
+
+III. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos;
+
+IV. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto;
+
+V. Verificar que las diversas áreas administrativas del Instituto que hubieren recibido, manejado, administrado o ejercido recursos, lo hagan conforme a la normatividad aplicable, los programas aprobados y montos autorizados, así como, en el caso de los egresos, con cargo a las partidas correspondientes y con apego a las disposiciones legales, reglamentarias y administrativas conducentes;
+
+VI. Revisar que las operaciones presupuestales que realice el Instituto se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
+
+VII. Verificar las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se han aplicado, legal y eficientemente al logro de los objetivos y metas de los programas aprobados;
+
+VIII. Requerir a terceros que hubieran contratado bienes o servicios con el Instituto la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+
+IX. Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todos los servidores públicos integrantes de la estructura del Órgano Interno de Control, así como a los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública;
+
+X. Emitir los lineamientos, instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas que se presenten en contra de los servidores públicos del Instituto en el desempeño de sus funciones, y llevar el registro de los servidores públicos sancionados;
+
+XI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto;
+
+XII. Recibir denuncias o quejas directamente relacionadas con el uso y disposición de los ingresos y recursos del Instituto por parte de los servidores públicos del mismo y desahogar los procedimientos a que haya lugar;
+
+XIII. Efectuar visitas a las sedes físicas de las áreas y órganos del Instituto para solicitar la exhibición de los libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
+
+XIV. Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos del Instituto cumplan adecuadamente con sus responsabilidades administrativas;
+
+XV. Formular pliegos de observaciones en materia administrativa;
+
+XVI. Determinar los daños y perjuicios que afecten al Instituto en su patrimonio y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes;
+
+XVII. Fincar las responsabilidades e imponer las sanciones en términos de la legislación aplicable y sus lineamientos respectivos;
+
+XVIII. Presentar para la aprobación del Consejo General sus programas anuales de trabajo a más tardar dentro de los primeros 15 días del mes de enero de cada año;
+
+XIX. Presentar en el mes de diciembre de cada año al Consejo General los informes previo y anual de resultados de su gestión, y comparecer a través de su titular ante el mismo Consejo, cuando así lo requiera el Consejero Presidente;
+
+XX. Participar, a través de su titular, con voz pero sin voto, en las reuniones de la Junta Ejecutiva cuando por motivo del ejercicio de sus facultades así lo considere necesario el Consejero Presidente;
+
+XXI. Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos del Instituto, a partir del nivel de jefe de departamento o su equivalente, conforme a los formatos y procedimientos que el propio Órgano Interno de Control emita para ese efecto. Serán aplicables en lo conducente las normas establecidas en la Ley de la materia;
+
+XXII. Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos que corresponda, y
+
+XXIII. Las demás que le otorgue esta Ley o las leyes aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+Causas graves de responsabilidad del titular del Órgano Interno de Control
+
+ARTÍCULO 57 QUINTUS
+
+1. El titular del Órgano Interno de Control incurrirá en causa grave de responsabilidad administrativa y será sancionado conforme a lo previsto en el Título Séptimo de la Constitución Política del Estado de Zacatecas, en los siguientes casos:
+
+I. Utilizar en beneficio propio o de terceros la documentación e información confidencial a la que tenga acceso con motivo del desempeño de su cargo en los términos de esta Ley y de las correspondientes en la materia;
+
+II. Abstenerse, de forma injustificada, de fincar responsabilidades o no aplicar sanciones pecuniarias, en el ámbito de su competencia, cuando esté debidamente comprobada la responsabilidad e identificado el responsable como consecuencia de las revisiones e investigaciones que realice en el ejercicio de sus atribuciones;
+
+III. Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia o que exista en el área a su cargo, con motivo del ejercicio de sus atribuciones;
+
+IV. Conducirse con parcialidad en los procedimientos de supervisión e imposición de sanciones de acuerdo con la normatividad aplicable;
+
+V. Incurrir en alguna de las infracciones mencionadas en la Ley de Responsabilidades Administrativas.
+
+2. Mediante solicitud que presente el Consejo General a la Legislatura del Estado, se resolverá sobre la aplicación de las sanciones al titular del Órgano Interno de Control, incluida entre éstas la remoción, por causas graves de responsabilidad administrativa, debiendo garantizar el derecho de audiencia al afectado.
+
+La remoción requerirá del voto de las dos terceras partes de los miembros integrantes de la Legislatura.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+Obligación de estricta reserva de la información
+
+ARTÍCULO 57 SEXIES
+
+1. Los servidores públicos adscritos al Órgano Interno de Control y los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus funciones, así como de sus actuaciones y observaciones.
+
+2. Los órganos, áreas ejecutivas y servidores públicos del Instituto están obligados a proporcionar, en el plazo establecido, la información, permitir la revisión y atender los requerimientos que les formule el Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones.
+
+Si transcurrido el plazo establecido, el órgano o área fiscalizada, sin causa justificada, no presenta el informe o documentos que se le soliciten, se procederá a fincar las responsabilidades que correspondan conforme a la Ley.
+
+3. El fincamiento de responsabilidades y la imposición de sanciones no relevará al infractor de cumplir con las obligaciones o regularizar las situaciones que las motivaron.
+
+El Órgano Interno de Control, además de imponer la sanción respectiva, requerirá al infractor para que dentro del plazo determinado, que nunca será mayor a cuarenta y cinco días, cumpla con la obligación omitida motivo de la sanción, el incumplimiento será motivo de nueva responsabilidad.
+
+Si la infracción fuera cometida por algún Consejero Electoral, deberá realizar un informe circunstanciado y remitirlo al Consejo General del Instituto Nacional Electoral o la autoridad correspondiente para que se imponga la sanción respectiva.
+
+4. Durante el desahogo de los procedimientos administrativos de fincamiento de responsabilidades, los servidores públicos gozarán de sus derechos humanos de audiencia, defensa y debido proceso.
 
 ### CAPÍTULO CUARTO. DE LOS ÓRGANOS TÉCNICOS
 
@@ -2049,7 +2219,9 @@ ARTÍCULO 79
 
 5. El Estatuto del Servicio Profesional Electoral, establecerá las normas para formar el catálogo general de cargos y puestos del Instituto y los requisitos. De igual manera, establecerá las normas relativas a los empleados administrativos y trabajadores auxiliares del Instituto.
 
-6. Los miembros del servicio profesional electoral, con motivo de la carga laboral que representa el año electoral en que todos los días y las horas son hábiles, tendrán derecho a recibir un bono especial derivado de las labores extraordinarias que realicen, de conformidad con el presupuesto autorizado.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+6. Las percepciones extraordinarias de los servidores públicos, empleados administrativos y trabajadores auxiliares del Instituto se presupuestarán y ejercerán de acuerdo con las disposiciones establecidas en la Ley de Disciplina Financiera.
 
 7. El personal del Servicio adscrito al Instituto podrá ser readscrito y gozar de rotación en sus funciones de conformidad con los requerimientos institucionales, el Estatuto del Servicio Profesional Electoral, establecerá el procedimiento. La Comisión del Servicio Profesional emitirá opinión al respecto.
 
@@ -2081,13 +2253,17 @@ VI. Los sistemas de ascenso, movimientos a los cargos o puestos y para la aplica
 
 VII. Contratación de prestadores de servicios profesionales para programas específicos y la realización de actividades eventuales;
 
-VIII. Las normas relativas a las condiciones para la prestación del servicio y las demás prestaciones que otorgue el Instituto a los servidores electorales;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
+
+VIII. Las normas relativas a las condiciones para la prestación del servicio y las demás prestaciones que otorgue el Instituto a los servidores electorales, siempre y cuando se apeguen a los principios de racionalidad, austeridad, disciplina presupuestaria y equidad, previstos en la Ley de Disciplina Financiera;
 
 IX. Definir las condiciones de trabajo;
 
 X. El régimen de seguridad social al que se inscribirá a los trabajadores del Instituto;
 
-XI. Las normas relativas a la prestación de servicios de los empleados administrativos y de trabajadores auxiliares;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
+
+XI. Las normas relativas a la prestación de servicios de los empleados administrativos y de trabajadores auxiliares, siempre que no contravengan a lo dispuesto por la Ley de Disciplina Financiera;
 
 XII. El procedimiento interno para hacer efectivo el derecho de la rotación y readscripción que establezca el Estatuto del Servicio Profesional Electoral Nacional; y
 
@@ -2304,3 +2480,19 @@ LIC. MIGUEL ALEJANDRO ALONSO REYES.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JAIME SANTOYO CASTRO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 149.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, sin perjuicio de lo establecido en los siguientes artículos transitorios.
+
+Artículo segundo. Las disposiciones relativas a la organización, competencia y funcionamiento del Órgano Interno de Control del Instituto, entrarán en vigor en la misma fecha en que lo hagan las leyes a que se refiere el Artículo segundo transitorio del Decreto 128 por el que se reforman, adicionan y derogan, diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Zacatecas en materia de Sistema Estatal Anticorrupción, publicado en Suplemento al número 23 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al 22 de marzo de 2017.
+
+Artículo tercero. En el Presupuesto de Egresos del Estado de Zacatecas para el Ejercicio Fiscal 2018, se estipularán los recursos correspondientes para el funcionamiento del Órgano Interno de Control.
+
+Artículo cuarto. En caso de que alguno o algunos servidores públicos que forman parte de la estructura orgánica del Instituto, pasaran a integrar el Órgano Interno de Control, conservarán sus derechos laborales y de seguridad social.
+
+Artículo quinto. Se derogan todas las disposiciones que se opongan a este Decreto.
