@@ -4,7 +4,7 @@ identifier: "ZAC-ley-electoral-del-estado-de-zacatecas-108579"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-06"
-last_updated: "2015-12-23"
+last_updated: "2017-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ELECTORAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
 
 Ley publicada en el Suplemento 3 del Periódico Oficial del Estado de Zacatecas, el sábado 6 de junio de 2015.
 
@@ -35,7 +35,9 @@ DECRETO # 383
 
 LA HONORABLE SEXAGÉSIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO, DECRETA
 
-RESULTANDO PRIMERO. …
+RESULTANDO PRIMERO.
+
+[...]
 
 Por lo anteriormente expuesto y fundado y con apoyo además en lo dispuesto en los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 
@@ -219,7 +221,9 @@ kk) Votación total emitida: La suma de todos los votos depositados en las urnas
 
 ll) Votación válida emitida: Es el resultado de restar a la votación total emitida los votos nulos y los correspondientes a los candidatos no registrados;
 
-mm) Votación municipal emitida: El resultado de restar a la votación total emitida, los votos de los partidos que no alcanzaron el 3% de esta votación, los votos nulos y los votos de los candidatos independientes; y
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+mm) Votación municipal emitida: El resultado de restar a la votación total emitida, los votos de los partidos y candidatos independientes que no alcanzaron el 3% de esta votación y los votos nulos; y
 
 nn) Voto Nulo: Voto emitido marcando más de un círculo o cuadro que contenga el emblema de un partido político, sin mediar coalición o que se emitió por un candidato no registrado, o se haya depositado en blanco.
 
@@ -429,9 +433,15 @@ ARTÍCULO 17
 
 1. Los miembros de la Legislatura del Estado serán 18 diputados de mayoría relativa, electos en distritos uninominales, y 12 diputados de representación proporcional electos en una sola circunscripción electoral, de estos últimos, dos deberán tener al momento de la elección, la calidad de migrantes o binacionales. En ambos casos, por cada diputado propietario se elegirá a un suplente, mediante fórmulas integradas por personas del mismo género.
 
-2. Los diputados podrán ser electos consecutivamente por un periodo adicional por el principio de mayoría relativa y de representación proporcional, con excepción de aquellos que tengan el carácter de independientes. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+2. Los diputados podrán ser electos consecutivamente por un periodo adicional por el principio de mayoría relativa y de representación proporcional, incluidos los que tengan carácter de independientes. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 3. Ningún partido podrá tener más de dieciocho diputados en la legislatura por ambos principios.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+4. En el caso de los diputados que tengan el carácter de independientes y pretendan ser electos por un periodo adicional, deberán ratificar el apoyo ciudadano, conforme a la legislación en la materia.
 
 Registro de fórmulas por Distrito Electoral
 
@@ -479,7 +489,17 @@ ARTÍCULO 22
 
 1. Los ayuntamientos serán electos cada tres años y estarán integrados por un Presidente, un Síndico y el número de Regidores de mayoría y de representación proporcional que a cada uno corresponda, según la población del municipio respectivo, conforme a lo preceptuado por la Ley Orgánica del Municipio, de conformidad con el último Censo General de Población y Vivienda o, en su caso, al último Conteo de Población y Vivienda que lleve a cabo el Instituto Nacional de Estadística y Geografía.
 
-2. Los integrantes de los ayuntamientos tendrán derecho a la elección consecutiva para el mismo cargo, por un período adicional, con excepción de aquellos que tengan el carácter de independientes, siempre y cuando sean postulados por el mismo partido o por cualquiera de los partidos integrantes de la coalición que les hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+2. Los integrantes de los ayuntamientos tendrán derecho a la elección consecutiva, por un período adicional, incluidos los que tengan carácter de independientes, siempre y cuando sean postulados por el mismo partido o por cualquiera de los partidos integrantes de la coalición que les hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+3. Con excepción del Presidente Municipal cualquier integrante del ayuntamiento podrá participar para cargo distinto al que se encuentre desempeñando.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+4. En el caso de los integrantes de los ayuntamientos con carácter de independientes que pretendan ser electos por un periodo adicional, deberán ratificar u obtener, en su caso, el apoyo ciudadano, conforme a la legislación en la materia.
 
 Elección de ayuntamientos por el principio de mayoría relativa
 
@@ -623,17 +643,27 @@ Reglas de asignación
 
 ARTÍCULO 28
 
-1. Los regidores de representación proporcional serán asignados a los partidos que hubieren registrado sus respectivas planillas y, además, lista plurinominal de candidatos cuyos integrantes podrán ser de los ciudadanos que aparecen en la planilla para la elección de ayuntamientos por el principio de mayoría relativa que hubiese registrado el mismo partido político, en el número que corresponda a la población del municipio, de conformidad con lo dispuesto en la Ley Orgánica del Municipio y a la convocatoria expedida por el Instituto. En la integración de la lista de candidatos a regidores por el principio de representación proporcional, se garantizará la paridad entre los géneros. Del total de las candidaturas el 20% tendrá calidad de joven. La asignación se sujetará a las siguientes reglas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2017)</small>
 
-I. Tendrán derecho a participar en el proceso de asignación de regidores por el principio de representación proporcional, los partidos que, conservando su registro y cuya planilla no haya obtenido el triunfo por el principio de mayoría relativa obtengan como mínimo el 3% de la votación municipal emitida;
+1. Los regidores de representación proporcional serán asignados a los partidos y candidatos que hubieren registrado sus respectivas planillas y, además, lista plurinominal de candidatos cuyos integrantes podrán ser de los ciudadanos que aparecen en la planilla para la elección de ayuntamientos por el principio de mayoría relativa que hubiese registrado el mismo partido político o candidato independiente, en el número que corresponda a la población del municipio, de conformidad con lo dispuesto en la Ley Orgánica del Municipio y a la convocatoria expedida por el Instituto. En la integración de la lista de candidatos a regidores por el principio de representación proporcional, se garantizará la paridad entre los géneros. Del total de las candidaturas el 20% tendrá calidad de joven. La asignación se sujetará a las siguientes reglas:
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
+
+I. Tendrán derecho a participar en el proceso de asignación de regidores por el principio de representación proporcional, los partidos y candidatos que, conservando su registro y cuya planilla no haya obtenido el triunfo por el principio de mayoría relativa obtengan como mínimo el 3% de la votación municipal emitida;
 
 II. La fórmula para la asignación de regidores por el principio de representación proporcional será la del cociente natural y, si quedasen regidurías por repartir, la de resto mayor; y
 
-III. Para obtener el cociente natural, se dividirá la suma de los votos obtenidos por los partidos políticos con derecho a participar en este proceso, entre el número de regidurías a asignar.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
 
-2. Para suplir a los regidores de representación proporcional, será llamado el ciudadano que de acuerdo con la lista plurinominal registrada por el partido político, sea el siguiente en el orden de prelación.
+III. Para obtener el cociente natural, se dividirá la suma de los votos obtenidos por los partidos políticos y candidatos independientes con derecho a participar en este proceso, entre el número de regidurias a asignar.
 
-3. Si al momento de realizar la asignación de cargos por el principio de representación proporcional, no es posible asignarla al candidato que aparece en la lista registrada por el partido político, se procederá a asignarla a la candidatura que siga en el orden descendente de prelación.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+2. Para suplir a los regidores de representación proporcional, será llamado el ciudadano que de acuerdo con la lista plurinominal registrada por el partido político o candidato, sea el siguiente en el orden de prelación.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+3. Si al momento de realizar la asignación de cargos por el principio de representación proporcional, no es posible asignarla al candidato que aparece en la lista registrada por el partido político o candidato independiente, se procederá a asignarla a la candidatura que siga en el orden descendente de prelación.
 
 Regidores.
 
@@ -677,11 +707,17 @@ Elecciones extraordinarias
 
 ARTÍCULO 31
 
-1. Las elecciones extraordinarias se sujetarán a lo dispuesto por la Constitución Local, esta Ley y lo que establezca la convocatoria que al efecto expida la Legislatura.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+1. Las elecciones extraordinarias se sujetarán a lo dispuesto por la Constitución Local, esta Ley y lo que establezca la convocatoria que al efecto expida la Legislatura, en la que se ajustarán los plazos para la obtención del apoyo ciudadano que, en su caso, requieran aquellos ciudadanos que pretendan postularse por la vía independiente.
 
 2. En caso de declaración de nulidad de elecciones, la convocatoria se emitirá dentro de los cuarenta y cinco días siguientes a dicha declaración.
 
-3. Las convocatorias para la celebración de elecciones extraordinarias, no podrán restringir los derechos de los ciudadanos y de los partidos políticos, ni alterar los procedimientos y formalidades que la Constitución Federal, la Constitución Local, la Ley General de Instituciones y esta Ley, establecen.
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+3. El servidor público con función de autoridad de cualquiera de los tres niveles de gobierno que pretenda contender en el proceso electoral extraordinario, deberá separarse del cargo a más tardar un día antes del inicio del registro de la candidatura correspondiente.
+
+4. Las convocatorias para la celebración de elecciones extraordinarias, no podrán restringir los derechos de los ciudadanos y de los partidos políticos, ni alterar los procedimientos y formalidades que la Constitución Federal, la Constitución Local, la Ley General de Instituciones y esta Ley, establecen.
 
 Participación en elecciones
 
@@ -4917,9 +4953,11 @@ I. Gobernador del Estado;
 
 II. Diputados por el Principio de Mayoría Relativa, y
 
-III. Integrante de Ayuntamientos por el Principio de Mayoría Relativa.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
 
-2. No procederá en ningún caso, el registro de aspirantes a candidatos independientes por el principio de representación proporcional.
+III. Integrante de Ayuntamientos por el Principio de Mayoría Relativa y Representación Proporcional.
+
+2. (DEROGADO, P.O. 3 DE JUNIO DE 2017)
 
 Reglas de paridad entre los género (sic)
 
@@ -4934,6 +4972,16 @@ Elección extraordinaria
 ARTÍCULO 316
 
 1. Los candidatos independientes que hayan participado en una elección ordinaria que haya sido anulada, tendrán derecho a participar en las elecciones extraordinarias correspondientes, salvo que hayan sido sancionados por alguna de las causales de nulidad establecida en el artículo 42 apartado D, de la Constitución Local.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+En tales casos, los candidatos independientes quedarán eximidos de volver a justificar los requisitos señalados en los artículos 322 y 332 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+2. En las elecciones extraordinarias podrán solicitar su registro como candidatos independientes los ciudadanos que no hayan participado en las elecciones ordinarias correspondientes. Para ello, deberán cumplir con todos los requisitos que establece esta Ley para obtener una candidatura independiente.
+
+Para el efecto de lo señalado en el numeral anterior, los candidatos independientes deberán manifestar su voluntad de participar en las elecciones extraordinarias mediante la presentación ante el Instituto del respectivo escrito de intención.
 
 ### CAPÍTULO SEGUNDO. DEL PROCESO DE SELECCIÓN DE CANDIDATOS INDEPENDIENTES
 
@@ -5611,9 +5659,11 @@ Votación estatal emitida.
 
 Votos de los candidatos independientes
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+
 ARTÍCULO 371
 
-1. Para determinar la votación estatal emitida que servirá de base para la asignación de Diputados y Regidores por el principio de representación proporcional, en términos de lo previsto por la Constitución Local y esta Ley, no serán contabilizados los votos recibidos a favor de candidatos independientes.
+1. Para determinar la votación estatal emitida que servirá de base para la asignación de Diputados por el principio de representación proporcional, en términos de lo previsto por la Constitución Local y esta Ley, no serán contabilizados los votos recibidos a favor de candidatos independientes.
 
 # LIBRO SEXTO. DE LAS AUTORIDADES EN MATERIA DE ELECCIONES
 
@@ -6237,6 +6287,10 @@ IV. El señalamiento de la hora a la que al día siguiente, deberá esperar la n
 
 13. En caso de procedimientos promovidos antes del proceso electoral, los plazos se computarán por días hábiles, respecto de aquellos que se presenten una vez iniciado aquél, por días naturales.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+14. Las notificaciones mediante exhorto se realizarán en términos de lo señalado en el Código de Procedimientos Civiles para el Estado de Zacatecas, debiéndose observar los plazos establecidos en la legislación electoral, así como la naturaleza del acto a notificar.
+
 De los medios de prueba
 
 ARTÍCULO 408
@@ -6682,3 +6736,11 @@ SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado.
 TERCERO. Ríndase informe a la Suprema Corte de Justicia de la Nación en vía de cumplimiento a su sentencia pronunciada el 31 de agosto del año en curso, dictada dentro de la Acción de Inconstitucionalidad 36/2015 y sus acumuladas 37/2015, 40/2015 y 41/2015, para los efectos legales a que haya lugar.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a la presente.
+
+P.O. 3 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 148.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ELECTORAL DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
