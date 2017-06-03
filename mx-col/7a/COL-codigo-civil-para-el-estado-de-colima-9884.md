@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2017-04-01"
+last_updated: "2017-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -877,17 +877,7 @@ En los casos que se dé a luz en comunidades rurales o indígenas, casas particu
 
 La Dirección del Registro Civil determinará las instituciones médicas públicas y privadas, en las que instalarán los Módulos del Registro Civil para registrar a los ahí nacidos antes de abandonar dichos establecimientos, en coordinación y bajo supervisión de la propia Dirección del Registro Civil.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
-
-ART. 56.- Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán castigadas con multa de uno a cinco unidades de medida y actualización, que impondrá la autoridad competente del lugar donde se haya hecho la declaración extemporánea de nacimiento
-
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
-
-En la misma pena incurrirán las personas que no cumplan la obligación de dar el aviso prevenido en el párrafo segundo del artículo anterior.
-
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
-
-Los interesados podrán realizar el Registro Extemporáneo de nacimiento por la vía administrativa con los requisitos que para el caso establece el Reglamento respectivo.
+ART. 56.- (DEROGADO, P.O. 3 DE JUNIO DE 2017)
 
 ART. 57.- En las poblaciones en que no haya oficial del Registro, el niño será presentado a la persona que ejerza la autoridad municipal, y ésta dará la constancia respectiva, que los interesados llevarán al oficial del Registro que corresponda, para que asiente el acta.
 
@@ -2113,9 +2103,9 @@ ART. 270.- (DEROGADO, P.O. 29 DE MARZO DE 2003)
 
 ART. 271.- Para que pueda pedirse el divorcio por causa de enfermedad mental que se considere incurable, o de peligro de daño para la integridad física o psicológica del otro cónyuge y de los hijos de ambos o de alguno de ellos, es necesario justificarlo con dictamen médico expedido por institución oficial y que haya transcurrido, además un año desde que comenzó a padecerse la enfermedad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2017)</small>
 
-ART. 272.- Cuando ambos cónyuges convengan en divorciarse, la mujer no se encuentre en estado de gravidez, y no tengan hijos o, teniéndolos, éstos sean mayores de edad y no exista obligación alimentaria, y no se encuentren bajo el régimen de tutela; y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen contrajeron matrimonio, y haya transcurrido un año o más de la celebración del mismo, se presentarán personalmente ante el oficial del registro civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas, firmadas en forma autógrafa o con la firma electrónica certificada y en los formatos autorizados, que son casados, manifestarán de una manera terminante y explícita su voluntad de divorciarse.
+ART. 272.- Cuando ambos cónyuges convengan en divorciarse, la mujer no se encuentre en estado de gravidez, y no tengan hijos o, teniéndolos, éstos sean mayores de edad y no exista obligación alimentaria, y no se encuentren bajo el régimen de tutela; y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen contrajeron matrimonio, se presentarán personalmente ante el oficial del registro civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas, firmadas en forma autógrafa o con la firma electrónica certificada y en los formatos autorizados, que son casados, manifestarán de una manera terminante y explícita su voluntad de divorciarse.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -2153,7 +2143,9 @@ ART. 274.- (DEROGADO, P.O. 29 DE MARZO DE 2003)
 
 ART. 275.- Mientras se decrete el divorcio, el juez autorizará la separación de los cónyuges de una manera provisional y dictará las medidas necesarias para asegurar la custodia y subsistencia de los hijos a quienes hay obligación de dar alimentos.
 
-ART. 276.- Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+ART. 276.- Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -10427,7 +10419,7 @@ ART. 2761.- En el caso del artículo anterior, el acreedor no podrá pedir que s
 
 ART. 2762.- El acreedor adquiere por el empeño:
 
-I.- El derecho de ser pagado de su deuda con el precio de la cosa empeñada, con la preferencia que establece el artículo 2;870;
+I.- El derecho de ser pagado de su deuda con el precio de la cosa empeñada, con la preferencia que establece el artículo 2,870;
 
 II.- El derecho de recobrar la prenda de cualquier detentador, sin exceptuar el (sic) mismo deudor;
 
@@ -11484,5 +11476,17 @@ P.O. 1 DE ABRIL DE 2017.
 P.O. 1 DE ABRIL DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 273 POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 55 Y 55 BIS, AMBOS DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
+
+P.O. 3 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 298 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 272 Y EL ARTÍCULO 276 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”
+
+P.O. 3 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 299 POR EL QUE SE DEROGA EL ARTÍCULO 56 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
