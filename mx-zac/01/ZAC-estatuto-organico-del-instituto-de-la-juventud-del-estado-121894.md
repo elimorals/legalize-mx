@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-del-instituto-de-la-juventud-del-estado-12189
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-05-24"
-last_updated: "2017-05-24"
+last_updated: "2017-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE LA JUVENTUD DEL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE JUNIO DE 2017 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DEL INSTITUTO DE LA JUVENTUD DEL ESTADO DE ZACATECAS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE JUNIO DE 2017.]</small>
 
 Estatuto publicado en el Suplemento del Periódico Oficial del Gobierno del Estado de Zacatecas, el miércoles 24 de mayo de 2017.
 
@@ -33,7 +33,7 @@ La Junta de Gobierno del Instituto de la Juventud del Estado de Zacatecas, en ej
 
 Considerando
 
-[...]
+[…]
 
 Se expide el siguiente:
 
@@ -275,11 +275,21 @@ I. Una Secretaría Técnica;
 
 II. Un Órgano Interno de Control;
 
-III. Una Unidad de Transparencia;
+> <small>(F. DE E., P.O. 3 DE JUNIO DE 2017)</small>
 
-IV. Una Unidad de Planeación, Evaluación y Estadística; y
+III. Una Unidad de Comunicación Social e Imagen;
 
-V. Una Coordinación Administrativa.
+> <small>(F. DE E., P.O. 3 DE JUNIO DE 2017)</small>
+
+IV. Una Unidad de Transparencia;
+
+> <small>(F. DE E., P.O. 3 DE JUNIO DE 2017)</small>
+
+V. Una Unidad de Planeación, Evaluación y Estadística; y
+
+> <small>(F. DE E., P.O. 3 DE JUNIO DE 2017)</small>
+
+VI. Una Coordinación Administrativa.
 
 ###### Artículo 24.
 
@@ -441,4 +451,4 @@ Artículo Segundo. Dentro del término de 60 días naturales contados a partir d
 
 Artículo Tercero. En un término de 90 días naturales contados a partir de la entrada en vigor del presente Estatuto Orgánico, deberá instalarse el Consejo Juvenil del Estado de Zacatecas, en términos de lo establecido en la Ley.
 
-El presente Estatuto Orgánico fue aprobado por la Junta de Gobierno del Instituto de la Juventud del Estado de Zacateca (sic) por unanimidad de votos, en sesión celebrada en la Ciudad de Zacatecas, a los 15 días del mes de mayo del año dos mil diecisiete. Rúbricas.- PRESIDENTE.- OTILIO RIVERA HERRERA. SECRETARIA TÉCNICA.- ALEJANDRINA VARELA LUNA. VOCALES.- GEMA ALEJANDRINA MERCADO SÁNCHEZ, CARLOS FERNANDO BÁRCENA POUS, BRIGADIER RETIRADO FROYLÁN CARLOS CRUZ, GILBERTO BREÑA CANTÚ, ALFONSO VÁZQUEZ SOSA, ADOLFO MÁRQUEZ VERA. Rúbricas.
+El presente Estatuto Orgánico fue aprobado por la Junta de Gobierno del Instituto de la Juventud del Estado de Zacateca por unanimidad de votos, en sesión celebrada en la Ciudad de Zacatecas, a los 15 días del mes de mayo del año dos mil diecisiete. Rúbricas.- PRESIDENTE.- OTILIO RIVERA HERRERA. SECRETARIA TÉCNICA.- ALEJANDRINA VARELA LUNA. VOCALES.- GEMA ALEJANDRINA MERCADO SÁNCHEZ, CARLOS FERNANDO BÁRCENA POUS, BRIGADIER RETIRADO FROYLÁN CARLOS CRUZ, GILBERTO BREÑA CANTÚ, ALFONSO VÁZQUEZ SOSA, ADOLFO MÁRQUEZ VERA. Rúbricas.
