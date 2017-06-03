@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2017-03-28"
+last_updated: "2017-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -1343,6 +1345,10 @@ c) Si la resolución determina el inicio del procedimiento, el Pleno, en sesión
 
 V. Recibido el expediente, la comisión jurisdiccional realizará todas las diligencias necesarias, a efecto de comprobar los hechos motivos de la denuncia, queja o solicitud, conforme a lo dispuesto por la legislación aplicable.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+
+Tratándose de responsabilidades administrativas de los servidores públicos de elección popular, y magistrados, se estará a lo dispuesto en el artículo 209 de la Ley de Responsabilidades Administrativas del Estado y Municipios de San Luis Potosí.
+
 #### Sección Cuarta. De las Comisiones Especiales
 
 ###### ARTICULO 145.
@@ -2574,3 +2580,21 @@ P.O. 28 DE MARZO DE 2017.
 PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0655.- SE EXPIDE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE SAN LUIS POTOSÍ; SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO 144, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. La Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí entrará en vigor el diecinueve de julio de dos mil diecisiete, previa su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor de (sic) Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí, se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, publicada en el Periódico Oficial del Estado el catorce de agosto del año dos mil tres, la cual sólo continuará aplicándose para concluir de manera definitiva, los procedimientos que se hayan iniciado durante su vigencia.
+
+TERCERO. El cumplimiento de las obligaciones previstas en la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí, una vez que ésta entre en vigor, serán exigibles, en lo que resulte aplicable, hasta en tanto el Comité Coordinador del Sistema Estatal Anticorrupción, de conformidad con la ley de la materia, emita los lineamientos, criterios y demás resoluciones conducentes de su competencia.
+
+CUARTO. Los procedimientos administrativos iniciados por las autoridades estatales y municipales con anterioridad a la entrada en vigor de la presente Ley, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+QUINTO. Una vez en vigor la presente Ley y hasta en tanto el Comité Coordinador del Sistema Estatal Anticorrupción determina los formatos para la presentación de las declaraciones: patrimonial; y de intereses, los servidores públicos de todos los órdenes de gobierno presentarán sus declaraciones en los formatos que, a la entrada en vigor de la referida Ley, se utilicen en el ámbito estatal.
+
+SEXTO. Los servidores públicos que deban rendir declaración patrimonial, de intereses y, en su caso, fiscal, en términos de esta Ley, y que antes de la entrada en vigor de la misma no la hubieren presentado en virtud de que no estaban obligados a ello, con independencia de su antigüedad en el empleo, cargo o comisión que desempeña, deberán presentar su declaración inicial en términos de lo dispuesto en el artículo 33 fracción I inciso a) de este Ordenamiento, corriendo el término de los sesenta días a partir del inicio de vigencia del presente Decreto.
+
+SÉPTIMO. Las referencias contenidas en esta Ley respecto de la Fiscalía General del Estado, se entenderán hechas a la Procuraduría General de Justicia del Estado, en tanto se emite la legislación correspondiente.
