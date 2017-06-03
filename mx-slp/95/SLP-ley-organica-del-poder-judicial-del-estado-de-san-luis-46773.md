@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2016-06-24"
+last_updated: "2017-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -235,9 +235,11 @@ III. Padezca incapacidad física o mental permanente para el desempeño de su ca
 
 El Supremo Tribunal de Justicia funcionará en Pleno y en salas colegiadas, las que podrán residir en la capital del Estado, en otros distritos judiciales o regiones.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 11.
 
-El Pleno del Supremo Tribunal de Justicia conocerá de los asuntos de naturaleza judicial que determinen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, los códigos Civil y Penal y de Procedimientos Civiles y Penales, la presente Ley y las demás disposiciones legales.
+El Pleno del Supremo Tribunal de Justicia conocerá de los asuntos de naturaleza judicial que determinen la Constitución Política de los Estados Unidos Mexicanos; la Constitución Política del Estado; los códigos, Civil; Penal; de Procedimientos Civiles; de Procedimientos Penales; la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, la presente Ley y las demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
 
@@ -615,45 +617,49 @@ VII. De las cuestiones relativas a los asuntos que afecten los derechos de los m
 
 VIII. En general de todas las cuestiones familiares que reclamen la intervención judicial.
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
 
-ARTICULO 53 BIS. Además de las atribuciones ya establecidas para los jueces de primera instancia, los jueces especializados en justicia para menores, conocerán, tramitarán y resolverán los asuntos que atribuyen conductas tipificadas como delito en las leyes, a las personas que tengan entre doce años cumplidos y menos de dieciocho años de edad, o aquélas (sic) que en el momento de la comisión de la conducta atribuida hayan sido menores.
+ARTICULO 53 BIS. Además de las atribuciones ya establecidas para los jueces de primera instancia, los jueces especializados en justicia penal para adolescentes, conocerán, tramitarán y resolverán los asuntos que atribuyen conductas tipificadas como delito en las leyes, a las personas que tengan entre catorce años cumplidos y menos de dieciocho años de edad, así como a las personas mayores de dieciocho años de edad a quienes se les atribuya la comisión o participación en un hecho señalado como delito en las leyes penales mientras eran adolescentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
 
-ARTICULO 53 TER. Los jueces de ejecución especializados en justicia para menores, tendrán las atribuciones siguientes:
+ARTICULO 53 TER. Los jueces de ejecución especializados en justicia penal para adolescentes tendrán las siguientes competencias; y facultades:
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+I. Serán competentes para:
 
-I. Dar seguimiento a las medidas impuestas por el Juez Especializado en Justicia para Menores, y el orden en que deben ser consideradas;
+a) Conocer de los procedimientos de ejecución de las medidas de sanción y de internamiento preventivo los jueces con jurisdicción en el lugar en que se encuentre la persona adolescente cumpliendo su medida, independientemente del fuero y del lugar en el que se hubiese dictado la medida de sanción o de internamiento preventivo.
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+b) En las controversias sobre traslados de un centro de internamiento a otro, serán competentes tanto los jueces con jurisdicción en el Centro de Internamiento de origen como en el de destino, correspondiendo conocer a aquél donde se presente la controversia.
 
-II. Resolver sobre la modificación, sustitución o adecuación de la medida impuesta a los menores, por parte de los jueces especializados en justicia para menores;
+c) Los conflictos competenciales en materia de ejecución de medidas de sanción se resolverán con apego a lo dispuesto en el Código Nacional de Procedimientos Penales.
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+La adscripción de los jueces de ejecución se determina en este Ordenamiento, y demás disposiciones aplicables.
 
-III. Determinar lo relativo a las medidas coercitivas aplicadas a los menores, en los centros de internamiento;
+La jurisdicción territorial de los jueces de Ejecución se podrá establecer o modificar mediante acuerdos generales, y
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+II. Estarán facultados para:
 
-IV. Autorizar los convenios de colaboración que firme la Dirección General de Ejecución de Medidas para Menores, los centros de Internamiento Juvenil, y los centros de Ejecución de Medidas en Libertad;
+a) Garantizar a las personas adolescentes a quienes se les haya dictado una medida de sanción o de internamiento preventivo, en el ejercicio de sus atribuciones, el goce de los derechos y garantías fundamentales que le reconoce la Constitución Política de los Estados Unidos Mexicanos; la Constitución Política del Estado; los Tratados Internacionales; la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, y demás disposiciones legales aplicables.
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+b) Garantizar que la medida cautelar de internamiento preventivo o la de sanción se ejecute en sus términos, salvaguardando la invariabilidad de la cosa juzgada con los ajustes que la legislación de la materia permita.
 
-V. Controlar y supervisar la legalidad de la aplicación y ejecución de las medidas;
+c) Decretar las medidas de seguridad que procedan en sustitución de la medida de sanción de internamiento, en los casos en que la persona adolescente privada de la libertad llegue a padecer enfermedad mental de tipo crónico, continuo e irreversible y determinar la custodia de la misma a cargo de una institución del sector salud, representante legal o tutor, para que se le brinde atención, trato y tratamiento de tipo asilar.
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+d) Sustanciar y resolver los incidentes que se promuevan para lograr el cumplimiento del pago de la reparación del daño, así como los demás que se promuevan con motivo de la ejecución de las medidas de sanción.
 
-VI. Vigilar y garantizar el cumplimiento de los objetivos fijados por la Ley de Justicia para Menores del Estado de San Luis Potosí;
+e) Garantizar a las personas adolescentes su defensa en el procedimiento de ejecución.
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+f) Aplicar la ley más favorable a las personas adolescentes a quienes se les haya dictado una medida.
 
-VII. Resolver los incidentes que se presenten durante la fase de ejecución, y
+g) Autorizar y revisar las condiciones de supervisión de las medidas de sanción de conformidad con la sentencia impuesta a la persona adolescente.
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+h) Imponer los medios de apremio que procedan para hacer cumplir sus resoluciones.
 
-VIII. Las demás que se le atribuyen en la Ley de Justicia para Menores del Estado de San Luis Potosí.
+i) Resolver sobre las controversias que se presenten sobre las condiciones de internamiento y cuestiones relacionadas con las mismas.
+
+j) Resolver sobre la duración, modificación y extinción de la medida de sanción.
+
+k) Las demás que la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y otros ordenamientos le confieran.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
 
@@ -1493,9 +1499,9 @@ III. Comprobar si se encuentran inventariados y asegurados los instrumentos del 
 
 IV. Revisar los libros de gobierno a fin de determinar si se encuentran en orden y contienen los datos requeridos;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
 
-V. Hacer constar el número de asuntos, penales; civiles; mercantiles; familiares; de justicia para menores; y de ejecución de sentencias y medidas de seguridad, concluidos y en trámite- (sic) así como de los juicios de amparo que se hayan promovido en contra del órgano visitado, durante el lapso que comprende la revisión- (sic)
+V. Hacer constar el número de asuntos, penales; civiles; mercantiles; familiares; de justicia penal para adolescentes; y de ejecución de sentencias y medidas de seguridad, concluidos y en trámite; así como de los juicios de amparo que se hayan promovido en contra del órgano visitado, durante el lapso que comprende la revisión;
 
 VI. Determinar si los procesados en libertad caucional han cumplido con la obligación de presentarse en los plazos fijados, y si durante la suspensión de un proceso prescribió la acción penal;
 
@@ -2426,3 +2432,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. La disposición contenida en el párrafo primero del artículo 68 que reforma este Decreto, será aplicable a los jueces auxiliares que estén en funciones a la entrada en vigor del presente Decreto, sin perjuicio que hayan sido reelectos.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0657.- SE REFORMAN LOS ARTÍCULOS, 11, 53 BIS, 53 TER, Y 117 EN SU FRACCIÓN V, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
