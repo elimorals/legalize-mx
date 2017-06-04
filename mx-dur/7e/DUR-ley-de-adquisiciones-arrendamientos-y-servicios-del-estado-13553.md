@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-1355
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2017-03-05"
+last_updated: "2017-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 31 de diciembre de 1998.
 
@@ -339,11 +339,21 @@ Los actos, convenios, pedidos, contratos y negocios jurídicos relativos a los r
 
 La Secretaría, la Unidad, las Dependencias, Entidades y Ayuntamientos, así como la Contraloría, en su caso, harán valer la nulidad y procederán, a exigir la restitución de lo pagado y la devolución de los bienes adquiridos o arrendados. Para tal efecto se estará a lo dispuesto por los artículos 22 y 23 de esta Ley.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 25.
 
-Deberá darse siempre a los proveedores e inversionistas proveedores de servicios locales, nacionales o extranjeros, un trato en igualdad de circunstancias. En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, especialmente por lo que se refiere a tiempo y lugar de entrega, forma y tiempo de pago, penas convencionales, anticipos y garantías; debiendo las Dependencias, Entidades y Ayuntamientos proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante, contratándose con el proveedor que garantice el objeto a que se refiere el artículo 16 de esta Ley.
+Las Dependencias, Entidades y Ayuntamientos, en sus procesos de adquisición de bienes muebles, arrendamientos y contratación de servicios que requieran; deberán observar que al menos el 75% de estos se adquieran a proveedores locales y representen cuando menos el 50%·del presupuesto programado para la adquisición de bienes muebles, arrendamientos y servicios que se requieran conforme a esta Ley.
+
+Si existen dos o más proposiciones que en cuanto a precio tengan una diferencia máxima del dos por ciento, el contrato debe adjudicarse de acuerdo con los siguientes criterios de preferencia, aplicados en este orden:
+
+I. A los proveedores del sector de las micro, pequeñas y medianas empresas asentadas o con domicilio en el Estado, inscritos en el Padrón de Proveedores del Gobierno del Estado de Durango, por lo menos con una antigüedad de 6 (seis) meses anteriores a la fecha de la convocatoria;
+
+II. Al proveedor local sobre el nacional, o a este sobre el extranjero;
+
+III. A los proveedores que presenten mejor grado de protección al medio ambiente; y
+
+IV. A los proveedores que presenten innovaciones tecnológicas.
 
 ###### ARTÍCULO 26.
 
@@ -1139,7 +1149,7 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los quin
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. ANGEL SERGIO GUERRERO MIER.- EL SECRETARIO GENERAL DE GOBIERNO. LIC. JESUS FLORES LOPEZ.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 29 DE JUNIO DE 2006.
 
@@ -1186,3 +1196,15 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 4 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 147.- POR EL QUE SE REFORMA EL ARTICULO 25 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
