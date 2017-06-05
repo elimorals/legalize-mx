@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-856-de-proteccion-civil-y-la-reduccion-del-95677"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-01"
-last_updated: "2013-08-01"
+last_updated: "2017-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 856 DE PROTECCIÓN CIVIL Y LA REDUCCIÓN DEL RIESGO DE DESASTRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE JUNIO DE 2017.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 1 de agosto de 2013.
 
@@ -583,7 +583,9 @@ El Consejo Municipal es el órgano de coordinación, consulta, planeación y sup
 
 I. Participar en el Sistema Estatal;
 
-II. Promover la suscripción de convenios de colaboración con autoridades federales y estatales en materia de gestión integral del riesgo y a nivel regional con otros municipios;
+> <small>(REFORMADA, G.O. 5 DE JUNIO DE 2017)</small>
+
+II. Promover la suscripción de convenios de colaboración con autoridades federales y estatales en materia de gestión integral del riesgo y a nivel regional con otros municipios y los cuerpos de bomberos;
 
 III. Establecer estrategias de protección civil y la reducción del riesgo de desastres para todas las dependencias y entidades públicas que conforman el Sistema Municipal y unificar objetivos, criterios y acciones con la planeación sostenible del desarrollo;
 
@@ -899,7 +901,9 @@ j). Programa de talleres, ejercicios y simulacros.
 
 V. Las obligaciones de los participantes para el cumplimiento del Programa;
 
-VI. Los convenios o acuerdos de colaboración con los cuerpos y autoridades de emergencia externos;
+> <small>(REFORMADA, G.O. 5 DE JUNIO DE 2017)</small>
+
+VI. Los convenios o acuerdos de colaboración con los cuerpos de bomberos y autoridades de emergencia externos;
 
 VII. Los mecanismos necesarios para su control y evaluación; y
 
@@ -1442,3 +1446,13 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 5 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 287 POR EL QUE SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 37 Y LA FRACCIÓN VI DEL ARTÍCULO 66 DE LA LEY DE PROTECCIÓN CIVIL Y LA REDUCCIÓN DEL RIESGO DE DESASTRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
