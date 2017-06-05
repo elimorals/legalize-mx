@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-jesus-maria-aguascalientes-723
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-25"
-last_updated: "2013-02-11"
+last_updated: "2017-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de enero de 2010.
 
@@ -1631,15 +1631,23 @@ En el caso de los incisos b), c) y d) la Secretaría de Finanzas estará faculta
 
 Para determinar el pago de este impuesto se aplicará una exención al valor que resulte del inmueble, en los siguientes casos:
 
-I. De cinco veces el salario mínimo general vigente en el Municipio de Asientos (sic), elevado al año cuando el inmueble esté construido;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
 
-II. De dos y medio veces el salario mínimo general vigente en el Municipio de Asientos (sic), elevado al año cuando el inmueble no tenga construcción alguna o sólo se encuentre bardeado;
+I. De cinco veces el valor diario de la Unidad de Medida y Actualización, en el Municipio de Jesús María, elevado al año cuando el inmueble esté construido;
 
-III. De quince veces el salario mínimo general vigente en el Municipio de Asientos (sic), elevado al año cuando se trate de un inmueble popular, de uso habitacional.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
 
-Para los efectos señalados en la Fracción III que antecede, se considerarán como inmuebles de tipo popular aquellos que se ubiquen en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea igual o inferior a 120 metros cuadrados y la superficie de construcción en su caso no sea mayor de 78 metros cuadrados.
+II. De dos y medio veces el valor diario de la Unidad de Medida y Actualización, en el Municipio de Jesús María, elevado al año cuando el inmueble no tenga construcción alguna o sólo se encuentre bardeado;
 
-IV. De cinco veces el salario mínimo general vigente en el Estado, elevado al año cuando se trate de terrenos dedicados a la explotación agropecuaria;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
+
+III. De quince veces el valor diario de la Unidad de Medida y Actualización, en el Municipio de Jesús María, elevado al año cuando se trate de un inmueble popular, de uso habitacional;
+
+Para los efectos señalados en la Fracción III que antecede, se considerarán como inmuebles de tipo popular aquellos que se ubiquen en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea igual o inferior a 120 metros cuadrados y la superficie de construcción en su caso no sea mayor de 78 metros cuadrados; o
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
+
+IV. De cinco veces el valor diario de la Unidad de Medida y Actualización, elevado al año cuando se trate de terrenos dedicados a la explotación agropecuaria.
 
 Para los fines de esta Ley se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
@@ -1861,9 +1869,21 @@ XII. Servicios prestados en rastros;
 
 XIII. Servicios de certificación y legalización;
 
-XIV. Servicios prestados en materia de seguridad pública y vialidad; y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
 
-XV. Servicios catastrales;
+XIV. Servicios prestados en materia de seguridad pública y vialidad;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
+
+XV. Servicios catastrales; y
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2017)</small>
+
+XVI. Pensión vehicular.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 206 A.- Quedarán exentos del pago de derechos generados por el uso de la pensión a cargo del municipio, los propietarios de los vehículos recuperados que resulten o tengan el carácter de victimas u ofendidos del delito de robo.
 
 ### CAPÍTULO II. Por Expedición de Licencias o Permisos para el Establecimiento de Anuncios
 
@@ -2386,3 +2406,11 @@ P.O. 11 DE FEBRERO DE 2013.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 95.- SE REFORMA Y ADICIONA LA LEY DE HACIENDA DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
