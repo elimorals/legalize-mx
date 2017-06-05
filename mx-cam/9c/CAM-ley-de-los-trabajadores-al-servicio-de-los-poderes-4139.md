@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-trabajadores-al-servicio-de-los-poderes-4139"
 country: "mx"
 rank: "ley"
 publication_date: "1979-09-11"
-last_updated: "2009-07-16"
+last_updated: "2017-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4139&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "CAM"
 ---
 # LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DEL ESTADO DE CAMPECHE
 
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 24 DE ABRIL DE 1996, EL PRESENTE ORDENAMIENTO QUEDA DEROGADO, QUEDANDO VIGENTES SUS DISPOSICIONES UNICAMENTE POR CUANTO CONCIERNE A LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS MUNICIPALES Y SUS ORGANISMOS DESCENTRALIZADOS HASTA EN TANTO SE EXPIDA LA LEY CORRESPONDIENTE.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 24 DE ABRIL DE 1996, EL PRESENTE ORDENAMIENTO QUEDA DEROGADO, QUEDANDO VIGENTES SUS DISPOSICIONES UNICAMENTE POR CUANTO CONCIERNE A LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS MUNICIPALES Y SUS ORGANISMOS DESCENTRALIZADOS HASTA EN TANTO SE EXPIDA LA LEY CORRESPONDIENTE.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 11 de septiembre de 1979.
 
@@ -51,15 +53,15 @@ AMBITO VALIDEZ.- Esta Ley regula las relaciones laborales entre los Poderes Púb
 
 DEFINICIONES.
 
-I.- Para los efectos de esta Ley, los Poderes Públicos, los Ayuntamientos Municipales o las Instituciones Descentralizadas, se denominaran Entidades Publicas.
+I.- Para los efectos de esta Ley, los Poderes Públicos, los Ayuntamientos Municipales o las Instituciones Descentralizadas, se denominarán Entidades Públicas.
 
-II.- Por trabajador se entiende la persona física que presta un servicio a una Entidad Publica en virtud de nombramiento a su favor o por aparecer en listas de raya de trabajadores permanentes.
+II.- Por trabajador se entiende la persona física que presta un servicio a una Entidad Pública en virtud de nombramiento a su favor o por aparecer en listas de raya de trabajadores permanentes.
 
 III.- Trabajo es toda actividad intelectual o material.
 
 ###### ARTICULO TERCERO.
 
-CATEGORIA LABORAL.- Los trabajadores al servicio de Entidades Públicas se clasificaran en trabajadores de:
+CATEGORIA LABORAL.- Los trabajadores al servicio de Entidades Públicas se clasificarán en trabajadores de:
 
 I.- Base;
 
@@ -73,11 +75,11 @@ TRABAJADORES DE BASE.- Son trabajadores de base los que prestan servicio permane
 
 ###### ARTICULO QUINTO.
 
-TRABAJADORES SUPERNUMERARIOS.- Son aquellos que prestan sus servicios a una Entidad Publica en forma transitoria, eventual, por encargos o empleos no consignados en el Presupuesto de Egresos.
+TRABAJADORES SUPERNUMERARIOS.- Son aquellos que prestan sus servicios a una Entidad Pública en forma transitoria, eventual, por encargos o empleos no consignados en el Presupuesto de Egresos.
 
 ###### ARTICULO SEXTO.
 
-TRABAJADORES DE CONFIANZA.- Son aquellos que realizan funciones de dirección, inspección, fiscalización o trabajos particulares o exclusivos de los Titulares o Funcionarios de Entidades Públicas. Ningún trabajador de confianza formara parte de Asociación Sindical alguna ni representará a trabajadores en los Organismos que se integran al tenor de esta Ley.
+TRABAJADORES DE CONFIANZA.- Son aquellos que realizan funciones de dirección, inspección, fiscalización o trabajos particulares o exclusivos de los Titulares o Funcionarios de Entidades Públicas. Ningún trabajador de confianza formará parte de Asociación Sindical alguna ni representará a trabajadores en los Organismos que se integran al tenor de esta Ley.
 
 ###### ARTICULO SEPTIMO.
 
@@ -85,19 +87,19 @@ TRABAJOS DE CONFIANZA:
 
 Desarrollaran tales trabajos:
 
-I.- En el Poder Ejecutivo, los Secretarios y Subsecretarios de las diversas dependencias que integran este Poder: Oficial Mayor, Secretarios Particulares y Auxiliares del Gobernador, Secretarios, Procurador de Justicia, Subsecretarios, y Directores; Ayudantes y Agentes Confidenciales de funcionarios de este Poder, Abogados Consultores, Visitadores Generales; Directores, Subdirectores, Jefes y Subjefes de Departamentos, Médicos Oficiales, Intendente y Subintendente de Palacios del Ejecutivo; Directores y Subdirectores de Institutos de Rehabilitación Social; Alcaides de Cárceles del Estado; Funcionarios y Empleados de la Dirección de Seguridad Publica, Policía Judicial, Columnas Volantes especiales, Dirección de Transito, Departamento de Control Fiscal; los Jueces integrantes del Tribunal para Menores; Procurador General de Justicia, Subprocurador, Agentes del Ministerio Publico; Jefes de Archivo del Ejecutivo; Técnicos en Arquitectura e Ingenieros de Comunicaciones y Obras Publicas; Agrónomos Regionales e Ingenieros Agrónomos de la Dirección de Agricultura y Ganadería, Médicos Veterinarios, Jefe de Inspectores; Inspectores de Sanidad Animal, Jefes de Viveros de Campos Experimentales; Secretarios y Vocales de la Comisión Agraria Mixta; Peritos y Procuradores Industriales; Presidente de las Juntas de Conciliación; y de Conciliación y Arbitraje; Procuradores e Inspectores de Trabajo; Defensores de Oficio, Directores de Escuelas Profesionales y de Estudios Especializados, de Bibliotecas Públicas, Museos y Talleres de Gobierno; Cajeros, Auditores y Asesores, Inspectores, Analistas y Programadores, Directores y Subdirector de los Registros Públicos de la Propiedad, Administradores, Contadores, Receptores de Rentas del Estado y Controladores Fiscales, y Oficiales Mayores de las Receptorías de Rentas del Estado, y en general cuando se desempeñen el tipo de funciones del Artículo VI;
+I.- En el Poder Ejecutivo, los Secretarios y Subsecretarios de las diversas dependencias que integran este Poder: Oficial Mayor, Secretarios Particulares y Auxiliares del Gobernador, Secretarios, Procurador de Justicia, Subsecretarios, y Directores; Ayudantes y Agentes Confidenciales de funcionarios de este Poder, Abogados Consultores, Visitadores Generales; Directores, Subdirectores, Jefes y Subjefes de Departamentos, Médicos Oficiales, Intendente y Subintendente de Palacios del Ejecutivo; Directores y Subdirectores de Institutos de Rehabilitación Social; Alcaides de Cárceles del Estado; Funcionarios y Empleados de la Dirección de Seguridad Pública, Policía Judicial, Columnas Volantes especiales, Dirección de Tránsito, Departamento de Control Fiscal; los Jueces integrantes del Tribunal para Menores; Procurador General de Justicia, Subprocurador, Agentes del Ministerio Público; Jefes de Archivo del Ejecutivo; Técnicos en Arquitectura e Ingenieros de Comunicaciones y Obras Públicas; Agrónomos Regionales e Ingenieros Agrónomos de la Dirección de Agricultura y Ganadería, Médicos Veterinarios, Jefe de Inspectores; Inspectores de Sanidad Animal, Jefes de Viveros de Campos Experimentales; Secretarios y Vocales de la Comisión Agraria Mixta; Peritos y Procuradores Industriales; Presidente de las Juntas de Conciliación; y de Conciliación y Arbitraje; Procuradores e Inspectores de Trabajo; Defensores de Oficio, Directores de Escuelas Profesionales y de Estudios Especializados, de Bibliotecas Públicas, Museos y Talleres de Gobierno; Cajeros, Auditores y Asesores, Inspectores, Analistas y Programadores, Directores y Subdirector de los Registros Públicos de la Propiedad, Administradores, Contadores, Receptores de Rentas del Estado y Controladores Fiscales, y Oficiales Mayores de las Receptorías de Rentas del Estado, y en general cuando se desempeñen el tipo de funciones del Artículo VI;
 
 II.- En el Poder Legislativo, el Oficial Mayor de la Cámara de Diputados, Contador y Subcontadores de la Contaduría de Glosa; Personal Administrativo al servicio directo de los Diputados, y en general cuando se desempeñen el tipo de funciones del Artículo VI;
 
 III.- En el Poder Judicial, los Secretarios de las Salas del H. Tribunal Superior de Justicia; los Secretarios de Juzgado de toda jurisdicción; los Médicos Legistas y los Visitadores de Juzgados, y en general cuando se desempeñen el tipo de funciones del Articulo VI;
 
-IV.- En cada Ayuntamiento, los Secretarios y Tesoreros Municipales, Oficiales Mayores, Cajeros y Contadores y miembros de las Policías, los Oficiales del Registro Civil, los Administradores de Mercados y del Rastro o de la Central de Abastos, los Inspectores Municipales, los Ingenieros e Inspectores de Obras Publicas, y en general cuando se desempeñen el tipo de funciones del Artículo VI;
+IV.- En cada Ayuntamiento, los Secretarios y Tesoreros Municipales, Oficiales Mayores, Cajeros y Contadores y miembros de las Policías, los Oficiales del Registro Civil, los Administradores de Mercados y del Rastro o de la Central de Abastos, los Inspectores Municipales, los Ingenieros e Inspectores de Obras Públicas, y en general cuando se desempeñen el tipo de funciones del Artículo VI;
 
 V. En las Instituciones Descentralizadas, los miembros de las Juntas Directivas y sus Secretarios; miembros de patronatos y sus Secretarios, Consejeros y sus Secretarios, Directores Generales, Contralores, Técnicos, Asesores Técnicos, Administradores, Delegados, Secretarios Particulares, Ayudantes y Jefes de Departamento, y en general cuando se desempeñan el tipo de funciones del Artículo VI;
 
 ###### ARTICULO OCTAVO.
 
-EXCEPCION. Quedan excluidos de las disposiciones de esta Ley los trabajadores supernumerarios de las Entidades Publicas, los de confianza, los trabajadores de la educación, que se rigen por sus normas especiales, y los magistrados y jueces que se rigen por la Ley Orgánica del Poder Judicial.
+EXCEPCION. Quedan excluidos de las disposiciones de esta Ley los trabajadores supernumerarios de las Entidades Públicas, los de confianza, los trabajadores de la educación, que se rigen por sus normas especiales, y los magistrados y jueces que se rigen por la Ley Orgánica del Poder Judicial.
 
 ###### ARTICULO NOVENO.
 
@@ -109,7 +111,7 @@ IRRENUNCIABILIDAD.- Las disposiciones de esta Ley son irrenunciables.
 
 ###### ARTÍCULO DECIMO PRIMERO.
 
-SUPLETORIEDAD.- En toda materia no prevista en esta Ley, se aplicaran supletoriamente la Jurisprudencia, la Ley Federal del Trabajo, Código Federal de Procedimientos Civiles, los principios generales de Justicia Social derivados del Artículo 123 Constitucional, los principios generales de Derecho, la costumbre y la equidad.
+SUPLETORIEDAD.- En toda materia no prevista en esta Ley, se aplicarán supletoriamente la Jurisprudencia, la Ley Federal del Trabajo, Código Federal de Procedimientos Civiles, los principios generales de Justicia Social derivados del Artículo 123 Constitucional, los principios generales de Derecho, la costumbre y la equidad.
 
 ###### ARTICULO DECIMO SEGUNDO.
 
@@ -117,13 +119,13 @@ TRATADOS INTERNACIONALES.- Los tratados internacionales celebrados y aprobados d
 
 ###### ARTICULO DECIMO TERCERO.
 
-INTERPRETACION.- En la interpretación de esta Ley se tomara en cuenta siempre que sus preceptos tienden a conseguir la Justicia Social; que el trabajo es un derecho y un deber de orden social; no es articulo de comercio; exige respeto para la libertad y dignidad de quien lo presta y debe efectuarse en condiciones que aseguren vida, salud y nivel de vida decoroso para el trabajador y su familia. En caso de duda prevalecerá la interpretación más favorable al trabajador.
+INTERPRETACION.- En la interpretación de esta Ley se tomará en cuenta siempre que sus preceptos tienden a conseguir la Justicia Social; que el trabajo es un derecho y un deber de orden social; no es artículo de comercio; exige respeto para la libertad y dignidad de quien lo presta y debe efectuarse en condiciones que aseguren vida, salud y nivel de vida decoroso para el trabajador y su familia. En caso de duda prevalecerá la interpretación más favorable al trabajador.
 
 ## TITULO II. DERECHOS Y OBLIGACIONES DE TRABAJADORES Y ENTIDADES PÚBLICAS
 
 ###### ARTICULO DECIMO CUARTO.
 
-NOMBRAMIENTO.- Los trabajadores prestaran sus servicios previo nombramiento u oficio de comisión expedido por funcionario facultado para hacerlo.
+NOMBRAMIENTO.- Los trabajadores prestarán sus servicios previo nombramiento u oficio de comisión expedido por funcionario facultado para hacerlo.
 
 ###### ARTICULO DECIMO QUINTO.
 
@@ -171,9 +173,9 @@ VIII. Renuncia del trabajador a cualquiera de sus derechos o prerrogativas legal
 
 ###### ARTICULO DECIMO NOVENO.
 
-TRASLADO.- Cuando la Entidad Publica interesada cambie el lugar de prestación de servicio del trabajador, los gastos del traslado respectivo de una población a otra serán sufragados por aquella, salvo que el traslado resulte de sanción al trabajador o fuere a solicitud de éste.
+TRASLADO.- Cuando la Entidad Pública interesada cambie el lugar de prestación de servicio del trabajador, los gastos del traslado respectivo de una población a otra serán sufragados por aquella, salvo que el traslado resulte de sanción al trabajador o fuere a solicitud de éste.
 
-Si el traslado es por período mayor de seis meses, la Entidad cubrirá también y previamente los gastos de transporte de menaje de casa del trabajador, su cónyuge y sus familiares en línea recta descendente, ascendente o colateral en segundo grado, siempre que se demuestre la dependencia económica de estos.
+Si el traslado es por período mayor de seis meses, la Entidad cubrirá también y previamente los gastos de transporte de menaje de casa del trabajador, su cónyuge y sus familiares en línea recta descendente, ascendente o colateral en segundo grado, siempre que se demuestre la dependencia económica de éstos.
 
 ###### ARTICULO VIGESIMO.
 
@@ -181,7 +183,7 @@ CAMBIO DE FUNCIONARIOS.- Los cambios de funcionarios en las Entidades no modific
 
 ###### ARTICULO VIGESIMO PRIMERO.
 
-CERTIFICACIONES.- Las actuaciones y certificaciones realizadas o expedidas en aplicación de esta Ley no causaran impuesto alguno.
+CERTIFICACIONES.- Las actuaciones y certificaciones realizadas o expedidas en aplicación de esta Ley no causarán impuesto alguno.
 
 ###### ARTICULO VIGESIMO SEGUNDO.
 
@@ -213,7 +215,7 @@ BIS.- TRABAJO CONTINUO.- En caso de las mujeres que sean madres trabajadoras, qu
 
 ###### ARTICULO VIGESIMO SEPTIMO.
 
-EXCEPCION.- La jornada máxima se reducirá cuando la naturaleza del trabajado lo exija, para no quebrantar la salud media de un individuo normal.
+EXCEPCION.- La jornada máxima se reducirá cuando la naturaleza del trabajo lo exija, para no quebrantar la salud media de un individuo normal.
 
 ###### ARTICULO VIGESIMO OCTAVO.
 
@@ -221,21 +223,25 @@ TRABAJO EXTRAORDINARIO.- Todo aumento en la jornada de trabajo será considerado
 
 ###### ARTICULO VIGESIMO NOVENO.
 
-DIA DE DESCANSO.- Por cada seis días de trabajo, el trabajador disfrutara de un día de descanso, con goce de sueldo integro, procurándose que sea el domingo.
+DIA DE DESCANSO.- Por cada seis días de trabajo, el trabajador disfrutará de un día de descanso, con goce de sueldo íntegro, procurándose que sea el domingo.
 
 ARTICULO TRIGESIMO.- PERIODO PRENATAL.- Las mujeres embarazadas disfrutaran de un mes de descanso antes de la fecha fijada para el alumbramiento y un mes y medio después del mismo, con goce de sueldo íntegro. Durante la lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos.
 
 ARTICULO TRIGESIMO PRIMERO.- DESCANSO OBLIGATORIO.- Son días de descanso obligatorio, con goce de sueldo íntegro, los que señala el calendario oficial y la Ley Federal del Trabajo.
 
-ARTICULO TRIGESIMO SEGUNDO.- EXCEPCION.- El servicio prestado, a solicitud de una Entidad Publica, durante los días de descanso se pagara al trabajador con sueldo doble, independientemente del que corresponda en los términos del precepto anterior.
+ARTICULO TRIGESIMO SEGUNDO.- EXCEPCION.- El servicio prestado, a solicitud de una Entidad Pública, durante los días de descanso se pagará al trabajador con sueldo doble, independientemente del que corresponda en los términos del precepto anterior.
 
-ARTICULO TRIGESIMO TERCERO.- VACACIONES.- El trabajador con más de 6 meses consecutivos de servicio disfrutará de 2 períodos anuales de vacaciones de 10 días hábiles cada uno, en las fechas que fijen al efecto las Entidades Publicas. Se dejarán guardias para la tramitación de los asuntos urgentes, utilizando de preferencia los servicios de quienes no tuvieron derecho a vacaciones. El trabajador que, por razones de servicio, no goce de vacaciones en las fechas señaladas, las tomara en los 10 días siguientes al término del periodo normal de vacaciones. En ningún caso el trabajador que labora en periodo de vacaciones tendrá derecho a doble paga de sueldo, ni las vacaciones podrán compensarse con remuneración. Si la duración de trabajo termina antes de que se cumpla un año de servicio, el trabajador tendrá derecho a una remuneración proporcional por los servicios prestados.
+ARTICULO TRIGESIMO TERCERO.- VACACIONES.- El trabajador con más de 6 meses consecutivos de servicio disfrutará de 2 períodos anuales de vacaciones de 10 días hábiles cada uno, en las fechas que fijen al efecto las Entidades Públicas. Se dejarán guardias para la tramitación de los asuntos urgentes, utilizando de preferencia los servicios de quienes no tuvieron derecho a vacaciones. El trabajador que, por razones de servicio, no goce de vacaciones en las fechas señaladas, las tomará en los 10 días siguientes al término del periodo normal de vacaciones. En ningún caso el trabajador que labora en periodo de vacaciones tendrá derecho a doble paga de sueldo, ni las vacaciones podrán compensarse con remuneración. Si la duración de trabajo termina antes de que se cumpla un año de servicio, el trabajador tendrá derecho a una remuneración proporcional por los servicios prestados.
 
 ## TITULO IV. SUELDO
 
-ARTICULO TRIGESIMO CUARTO.- Sueldo es la contra prestación que la Entidad Publica cubre al trabajador por su servicio. Se integra con los pagos hechos en efectivo a cuota diaria, habitación en su caso, prestaciones en especie y cualquiera otra hecha mensualmente al trabajador. Debe ser remunerador y nunca menor a los mínimos legales. Cuando se trate de jornadas reducidas de labores deberá ser proporcional al tiempo trabajado.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2017)</small>
 
-ARTICULO TRIGESIMO QUINTO.- TRABAJOS IGUALES.- A trabajo igual, desempeñado en puesto, jornada y condiciones también iguales, corresponde, con independencia de su denominación, sueldo igual.
+ARTICULO TRIGESIMO CUARTO.- Sueldo es la contra prestación que la Entidad Pública cubre al trabajador por su servicio. Se integra con los pagos hechos en efectivo a cuota diaria, habitación en su caso, prestaciones en especie y cualquiera otra hecha mensualmente al trabajador. Debe ser remunerador y nunca menor a los mínimos legales. Cuando se trate de jornadas reducidas de labores deberá ser proporcional al tiempo trabajado, debiendo garantizar la equidad entre mujeres y hombres.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2017)</small>
+
+ARTICULO TRIGESIMO QUINTO.- TRABAJOS IGUALES. A trabajo igual, desempeñado en puesto, jornada y condiciones también iguales, corresponde, con independencia de su denominación, sueldo igual, sin distinción de género.
 
 ARTICULO TRIGESIMO SEXTO.- IRREDUCTIBILIDAD.- El sueldo establecido en el contrato no podrá ser disminuido durante la vigencia de los Presupuestos de Egresos correspondiente.
 
@@ -247,19 +253,19 @@ ARTICULO TRIGESIMO NOVENO.- LUGAR DE PAGO.- Los pagos de sueldos se harán preci
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1984)</small>
 
-ARTICULO CUADRAGESIMO.- AGUINALDO.- Se pagará a los trabajadores entre el 15 y el 20 de diciembre un aguinaldo anual equivalente al importe de 45 días de salarios. El que no tenga un año de servidos recibirá parte proporcional al tiempo trabajado.
+ARTICULO CUADRAGESIMO.- AGUINALDO.- Se pagará a los trabajadores entre el 15 y el 20 de diciembre un aguinaldo anual equivalente al importe de 45 días de salarios. El que no tenga un año de servicios recibirá parte proporcional al tiempo trabajado.
 
 ARTICULO CUADRAGESIMO PRIMERO.- Los plazos para el pago de sueldo no serán mayores de 15 días.
 
 ARTICULO CUADRAGESIMO SEGUNDO.- RETENCION DE SUELDOS.- El sueldo de un trabajador no será objeto de retención, descuentos o reducciones, salvo en los casos de:
 
-I.- Deudas frente a las Entidades Publicas por anticipo de sueldos, pagos en exceso de este, errores o pérdidas debidamente comprobados;
+I.- Deudas frente a las Entidades Públicas por anticipo de sueldos, pagos en exceso de éste, errores o pérdidas debidamente comprobados;
 
 II.- Cuotas sindicales o aportaciones en efectivo para la constitución de cooperativas o cajas de ahorro; con el consentimiento del trabajador, expreso y por escrito, por cuanto a los dos últimos casos;
 
 III.- Descuentos ordenados por el ISSETYM o la institución social correspondiente, derivadas de obligaciones contraídas frente a aquellas por el trabajador;
 
-IV.- Descuentos impuestos por Autoridad Judicial en razón de obligaciones a alimentarias a cargo del trabajador;
+IV.- Descuentos impuestos por Autoridad Judicial en razón de obligaciones alimentarias a cargo del trabajador;
 
 V.- Multas disciplinarias impuestas de acuerdo con esta Ley;
 
@@ -267,7 +273,7 @@ VI.- Sanciones por responsabilidad, en que incurren por el incumplimiento de sus
 
 El monto total de los descuentos no podrá exceder del 30% del sueldo total, excepto en los casos previstos en las 3 últimas fracciones de este precepto.
 
-ARTICULO CUADRAGESIMO TERCERO.- SALARIO DOBLE.- El trabajo extraordinario se pagara a razón de 200% del correspondiente a la hora de jornada ordinaria.
+ARTICULO CUADRAGESIMO TERCERO.- SALARIO DOBLE.- El trabajo extraordinario se pagará a razón de 200% del correspondiente a la hora de jornada ordinaria.
 
 ARTICULO CUADRAGESIMO CUARTO.- INEMBARGABILIDAD.- El sueldo es inembargable judicial y administrativamente, salvo lo previsto en el Artículo 42.
 
@@ -277,7 +283,9 @@ ARTICULO CUADRAGESIMO QUINTO.- INCEDIBILIDAD. Es nula la cesión de sueldos a te
 
 ARTICULO CUADRAGESIMO SEXTO.- OBLIGACIONES.- Las Entidades Públicas están obligadas a:
 
-I.- Dar preferencia, en igualdad de condiciones, conocimiento, aptitudes y antigüedad, a trabajadores sindicalizados frente a los que no lo sean; y, entre aquellos, a los que con anterioridad hubieren prestado servicio satisfactoriamente. La igualdad de condiciones queda a juicio de las Entidades Públicas;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
+
+I.- Dar preferencia, en igualdad de condiciones, género, conocimiento, aptitudes y antigüedad, a trabajadores sindicalizados frente a los que no lo sean; y entre aquellos, a los que con anterioridad hubieren prestado servicio satisfactoriamente. La igualdad de condiciones queda a juicio de las Entidades Públicas;
 
 II.- Cumplir con todos los servicios de higiene y prevención de accidentes en los términos de la Ley Federal del Trabajo;
 
@@ -289,7 +297,7 @@ V.- Cubrir las aportaciones de Ley para que los trabajadores perciban los benefi
 
 VI.- Conceder licencia con goce de sueldo a los trabajadores para el desempeño de comisiones sindicales, y, sin sueldo, cuando sean designados funcionarios por elección popular.
 
-Las licencias se computaran como tiempo efectivo de servicio en el escalafón. Los plazos máximos de las licencias a que se contrae esta fracción serán de 15 días si la condición del trabajador es eventual y de 30 si es de planta;
+Las licencias se computarán como tiempo efectivo de servicio en el escalafón. Los plazos máximos de las licencias a que se contrae esta fracción serán de 15 días si la condición del trabajador es eventual y de 30 si es de planta;
 
 VII.- Hacer las deducciones que correspondan en los términos de las fracciones del Artículo 42;
 
@@ -303,7 +311,7 @@ XI.- Impedir que se haga propaganda pública o religiosa dentro de los recintos 
 
 ## TITULO VI. OBLIGACIONES DE LOS TRABAJADORES
 
-ARTICULO CUADRAGESIMO SEPTIMO.- OBLIGACIONES.- El trabajador esta obligado a:
+ARTICULO CUADRAGESIMO SEPTIMO.- OBLIGACIONES.- El trabajador está obligado a:
 
 I.- Prestar el servicio convenido con la eficacia, cuidado y esmero procedentes, bajo la dirección de sus jefes y al tenor de las Leyes y Reglamentos respectivos;
 
@@ -341,7 +349,7 @@ a).- Incurra en faltas de probidad u honradez, o actos de violencia.
 
 b).- Destruya intencionalmente edificios, obras, maquinaria, instrumentos, materias primas o cualesquiera elementos relacionados con el trabajo.
 
-c).- Faltare por mas de 3 días a sus labores sin causa justificada.
+c).- Faltare por más de 3 días a sus labores sin causa justificada.
 
 d).- Cometiera actos inmorales durante el trabajo.
 
@@ -367,7 +375,7 @@ I.- Contraiga enfermedad que implique peligro para los que trabajan con él;
 
 II.- Sufra incapacidad temporal por accidente o enfermedad que no constituya riesgo de trabajo;
 
-III.- Quede sujeto a prisión preventiva seguida de sentencia absolutoria. Si el trabajador hubiera actuado en defensa de la Entidad o su Titular, aquellas pagaran los salarios no percibidos por el trabajador.
+III.- Quede sujeto a prisión preventiva seguida de sentencia absolutoria. Si el trabajador hubiera actuado en defensa de la Entidad o su Titular, aquellas pagarán los salarios no percibidos por el trabajador.
 
 IV.- Sea arrestado por Autoridad Judicial o Administrativa;
 
@@ -379,7 +387,7 @@ ARTICULO QUINCUAGESIMO PRIMERO.- ESCALAFON OBLIGATORIO.- Cada Dependencia consti
 
 ARTICULO QUINCUAGESIMO SEGUNDO.- ASCENSOS.- Todo trabajador de base con más de seis meses de servicio tiene derecho a participar en concursos y exámenes de oposición para ser ascendido a la categoría inmediata superior.
 
-ARTICULO QUINCUAGESIMO TERCERO.- FACTORES.- Son factores escalafonarios que se aplicaran en su orden enumerativos, los siguientes:
+ARTICULO QUINCUAGESIMO TERCERO.- FACTORES.- Son factores escalafonarios que se aplicarán en su orden enumerativos, los siguientes:
 
 I.- Conocimientos;
 
@@ -391,35 +399,35 @@ IV.- Antigüedad.
 
 Para los efectos de esta Ley se entiende por:
 
-a).- Conocimientos: La posesión de los principios teóricos o prácticos requeridos para el desempeño de un trabajo. Dicha posesión se demuestra mediante titulo legalmente expedido en relación con la actividad correspondiente o mediante dictamen de autoridad facultada para expedir este.
+a).- Conocimientos: La posesión de los principios teóricos o prácticos requeridos para el desempeño de un trabajo. Dicha posesión se demuestra mediante título legalmente expedido en relación con la actividad correspondiente o mediante dictamen de autoridad facultada para expedir este.
 
 b).- Aptitud: La suma de facultades físicas o mentales, iniciativa, laboriosidad y eficiencia para realizar una actividad determinada.
 
 c).- Antigüedad: Tiempo de servicios prestados a la dependencia correspondiente.
 
-ARTICULO QUINCUAGESIMO CUARTO.- VACANTES.- Los puestos vacantes se otorgaran a los trabajadores de categoría inmediata inferior que demuestren mayor derecho en la evaluación y calificación correspondiente.
+ARTICULO QUINCUAGESIMO CUARTO.- VACANTES.- Los puestos vacantes se otorgarán a los trabajadores de categoría inmediata inferior que demuestren mayor derecho en la evaluación y calificación correspondiente.
 
-ARTICULO QUINCUAGESIMO QUINTO.- EVALUACION DE FACTORES.- Los factores escalafonarios se evaluaran mediante sistemas técnicos adecuados establecidos en los Reglamentos.
+ARTICULO QUINCUAGESIMO QUINTO.- EVALUACION DE FACTORES.- Los factores escalafonarios se evaluarán mediante sistemas técnicos adecuados establecidos en los Reglamentos.
 
-ARTICULO QUINCUAGESIMO SEXTO.- JERARQUIZACION.- Cada Entidad clasificara escalafonariamente a su personal según las categorías consignadas técnicamente en los respectivos presupuestos de egresos.
+ARTICULO QUINCUAGESIMO SEXTO.- JERARQUIZACION.- Cada Entidad clasificará escalafonariamente a su personal según las categorías consignadas técnicamente en los respectivos presupuestos de egresos.
 
-ARTICULO QUINCUAGESIMO SEPTIMO.- COMISION DE ESCALAFON.- En cada Entidad funcionara una Comisión Mixta de Escalafón, con igual número de representantes de aquélla y del Sindicato correspondiente. Los representantes designaran un árbitro que decida en caso de empate. Si no hay acuerdo para la designación, la hará el Tribunal de Arbitraje, dentro de 10 días seguidos al planteamiento de la cuestión, de una lista de 4 candidatos propuestos por las partes en conflicto.
+ARTICULO QUINCUAGESIMO SEPTIMO.- COMISION DE ESCALAFON.- En cada Entidad funcionará una Comisión Mixta de Escalafón, con igual número de representantes de aquélla y del Sindicato correspondiente. Los representantes designarán un árbitro que decida en caso de empate. Si no hay acuerdo para la designación, la hará el Tribunal de Arbitraje, dentro de 10 días seguidos al planteamiento de la cuestión, de una lista de 4 candidatos propuestos por las partes en conflicto.
 
-ARTICULO QUINCUAGESIMO OCTAVO.- MATERIAL DE TRABAJO.- Las Entidades proporcionaran a la Comisión mencionada en el artículo anterior elementos administrativos y materiales para su efectivo funcionamiento.
+ARTICULO QUINCUAGESIMO OCTAVO.- MATERIAL DE TRABAJO.- Las Entidades proporcionarán a la Comisión mencionada en el artículo anterior elementos administrativos y materiales para su efectivo funcionamiento.
 
 ARTICULO QUINCUAGESIMO NOVENO.- PROCEDIMIENTOS.- Los procedimientos a seguir por las Comisiones Mixtas de Escalafón, para cumplir con las obligaciones y ejercitar los derechos que esta Ley les atribuye, serán establecidos en los Reglamentos y convenios respectivos.
 
 ARTICULO SEXAGESIMO.- NOTIFICACION DE VACANTES.- Las Dependencias darán a conocer expresamente y por escrito a las Comisiones Mixtas de Escalafón las vacantes que en cada caso se presenten, dentro de los 10 días siguientes al aviso de baja correspondiente o a la creación oficial de plazas de base.
 
-ARTICULO SEXAGESIMO PRIMERO.- MOVIMIENTOS ESCALAFONARIOS.- Al recibo de la notificación establecida en el artículo anterior, la Comisión Mixta de Escalafón interesada, hará desde luego los movimientos escalafonarios correspondientes y, también por escrito y personalmente, informara de la vacante respectiva a los trabajadores de categoría inmediata inferior a aquélla. En caso de inconformidad se convocara a concursos mediante circulares a fijar en lugares visibles de los centros de trabajo correspondiente.
+ARTICULO SEXAGESIMO PRIMERO.- MOVIMIENTOS ESCALAFONARIOS.- Al recibo de la notificación establecida en el artículo anterior, la Comisión Mixta de Escalafón interesada, hará desde luego los movimientos escalafonarios correspondientes y, también por escrito y personalmente, informará de la vacante respectiva a los trabajadores de categoría inmediata inferior a aquélla. En caso de inconformidad se convocará a concursos mediante circulares a fijar en lugares visibles de los centros de trabajo correspondiente.
 
-ARTICULO SEXAGESIMO SEGUNDO.- CONCURSOS. En los concursos, la Comisión Mixta interesada llevara a cabo las pruebas y calificación de sectores escalafonarios de los concursantes, tomando en consideración documentos, constancias y demás elementos de comprobación de dichos factores, de acuerdo con los criterios de evaluación fijados en los Reglamentos.
+ARTICULO SEXAGESIMO SEGUNDO.- CONCURSOS. En los concursos, la Comisión Mixta interesada llevará a cabo las pruebas y calificación de sectores escalafonarios de los concursantes, tomando en consideración documentos, constancias y demás elementos de comprobación de dichos factores, de acuerdo con los criterios de evaluación fijados en los Reglamentos.
 
-ARTICULO SEXAGESIMO TERCERO.- OTORGAMIENTO DE VACANTE.- La vacante se otorgara al trabajador que triunfo en el concurso con la mejor calificación de acuerdo con el Reglamento respectivo.
+ARTICULO SEXAGESIMO TERCERO.- OTORGAMIENTO DE VACANTE.- La vacante se otorgará al trabajador que triunfó en el concurso con la mejor calificación de acuerdo con el Reglamento respectivo.
 
 ARTICULO SEXAGESIMO CUARTO.- VACANTES TEMPORALES.- Cuando se trata de vacantes temporales que no excedan de 6 meses no habrá movimientos escalafonarios; la Dependencia inmiscuida nombrará y removerá libremente al empleado que cubra interinamente esa vacante.
 
-ARTICULO SEXAGESIMO QUINTO.- PRECEDIMIENTOS REGLAMENTARIOS.- Los procedimientos para resolver lo relativo a permutas de empleo, o inconformidades de trabajadores afectados por trámites o movimientos escalafonarios, serán previstos en los Reglamentos.
+ARTICULO SEXAGESIMO QUINTO.- PROCEDIMIENTOS REGLAMENTARIOS.- Los procedimientos para resolver lo relativo a permutas de empleo, o inconformidades de trabajadores afectados por trámites o movimientos escalafonarios, serán previstos en los Reglamentos.
 
 ## TITULO X. ORGANIZACIÓN COLECTIVA DE LOS TRABAJADORES
 
@@ -461,7 +469,7 @@ III.- Facilitar la labor del Tribunal de Conciliación y Arbitraje en los confli
 
 IV.- Patrocinar y representar a sus miembros ante las autoridades y ante el Tribunal de Conciliación y Arbitraje, cuando les fuere solicitado.
 
-ARTICULO SETENTA Y SEIS.- FEDERALIZACION.- Los Sindicatos pueden formar Federaciones y Confederaciones, las que se regirán por disposiciones de este Capitulo, en lo que sean aplicables y por la Ley Federal del Trabajo en su caso.
+ARTICULO SETENTA Y SEIS.- FEDERALIZACION.- Los Sindicatos pueden formar Federaciones y Confederaciones, las que se regirán por disposiciones de este Capítulo, en lo que sean aplicables y por la Ley Federal del Trabajo en su caso.
 
 ARTICULO SETENTA Y SIETE.- RETIRO DE FEDERACIONES.- Los miembros de las Federaciones o Confederaciones podrán retirarse de ellas, en cualquier tiempo, aunque exista pacto en contrario.
 
@@ -497,7 +505,7 @@ ARTICULO OCHENTA Y CINCO.- Las condiciones de trabajo en ningún caso podrán se
 
 ARTICULO OCHENTA Y SEIS.- CONVENIO.- Las Condiciones Generales de trabajo se fijaran de común acuerdo entre las Entidades y los Sindicatos correspondientes.
 
-ARTICULO OCHENTA Y SIETE.- CONTENIDO.- Las condiciones Generales de Trabajo establecerán:
+ARTICULO OCHENTA Y SIETE.- CONTENIDO.- Las Condiciones Generales de Trabajo establecerán:
 
 I.- Horarios de trabajo;
 
@@ -543,7 +551,7 @@ II.- Que sea declarada por las dos terceras partes de los trabajadores de la Ent
 
 ARTICULO NOVENTA Y OCHO.- DECLARACION.- Antes de suspender las labores, los trabajadores deberán presentar al Tribunal de Conciliación y Arbitraje, su Pliego de Peticiones con la copia del Acta de la Asamblea en que se haya acordado declarar la huelga. El Presidente una vez recibido el escrito y sus anexos correrá traslado con la copia de ellos al funcionario o funcionarios de quienes dependa la concesión de las peticiones, para que resuelvan en el término de diez días, a partir de la notificación.
 
-ARTICULO NOVENTA Y NUEVE.- PROCEDENCIA.- El tribunal de Conciliación y Arbitraje decidirá dentro de un termino de setenta y dos horas, computado desde la hora en que se reciba copia del escrito acordando la huelga, si ésta es legal o ilegal, según se hayan satisfecho o no los requisitos a que se refieren los artículos anteriores. Si la huelga es legal, procederá desde luego a la conciliación de las partes, siendo obligatoria la presencia de éstas en las audiencias de avenimiento.
+ARTICULO NOVENTA Y NUEVE.- PROCEDENCIA.- El Tribunal de Conciliación y Arbitraje decidirá dentro de un término de setenta y dos horas, computado desde la hora en que se reciba copia del escrito acordando la huelga, si ésta es legal o ilegal, según se hayan satisfecho o no los requisitos a que se refieren los artículos anteriores. Si la huelga es legal, procederá desde luego a la conciliación de las partes, siendo obligatoria la presencia de éstas en las audiencias de avenimiento.
 
 ARTICULO CIEN.- SUSPENSION DE LABORES.- Si la declaración de huelga se considera legal por el Tribunal de Conciliación y Arbitraje, y si transcurrido el plazo de diez días a que se refiere el artículo 107, no se hubiere llegado a un entendimiento de las partes, los trabajadores podrán suspender las labores.
 
@@ -617,17 +625,17 @@ I.- Por la sola presentación de la demanda o de cualquier promoción ante el Tr
 
 II.- Si la persona a cuyo favor corre la prescripción y reconoce el derecho de aquella contra quien prescribe, de palabra, por escrito o por hechos indudables.
 
-ARTICULO CIENTO QUINCE.- CUENTA DIARIA.- Para los efectos de la prescripción los meses se regularan por el número de días que les corresponda. El primer día hábil siguiente.
+ARTICULO CIENTO QUINCE.- CUENTA DIARIA.- Para los efectos de la prescripción los meses se regularán por el número de días que les corresponda. El primer día hábil siguiente.
 
 ## TITULO XV. DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE Y DEL PROCEDIMIENTO ANTE EL MISMO
 
 ### CAPITULO I. GENERALIDADES
 
-ARTICULO CIENTO DIECISEIS.- COLEGIACION.- El Tribunal de Conciliación y Arbitraje, deberá ser Colegiodo (sic), y lo integraran: Un Representante de los Poderes del Estado, un Representante de los Municipios, dos Representantes del Sindicato o Sindicatos reconocidos y registrados y un Arbitro nombrado por la mayoría de los representantes.
+ARTICULO CIENTO DIECISEIS.- COLEGIACION.- El Tribunal de Conciliación y Arbitraje, deberá ser Colegiodo (sic), y lo integrarán: Un Representante de los Poderes del Estado, un Representante de los Municipios, dos Representantes del Sindicato o Sindicatos reconocidos y registrados y un Arbitro nombrado por la mayoría de los representantes.
 
 ARTICULO CIENTO DIECISIETE.- SUSTITUCION.- Las faltas temporales del Presidente del Tribunal, serán cubiertas por el Secretario General de Acuerdos, y las de los demás Representantes por la persona que designa el Organismo que cada uno representa.
 
-ARTICULO CIENTO DIECIOCHO.- PRESIDENCIA.- El Presidente del Tribunal durará en su cargo seis años y disfrutara de emolumentos iguales a los de los Magistrados del Tribunal Superior de Justicia; sólo podrá ser removido por haber cometido delitos graves del orden común, federal o por encontrarse impedido o inhabilitado por Leyes o situaciones que lo determinen.
+ARTICULO CIENTO DIECIOCHO.- PRESIDENCIA.- El Presidente del Tribunal durará en su cargo seis años y disfrutará de emolumentos iguales a los de los Magistrados del Tribunal Superior de Justicia; sólo podrá ser removido por haber cometido delitos graves del orden común, federal o por encontrarse impedido o inhabilitado por Leyes o situaciones que lo determinen.
 
 Los Representantes de las Organizaciones de Trabajadores, podrán ser removidos libremente por quienes los designaron.
 
@@ -639,7 +647,7 @@ II.- Ser mayor de veinticinco años;
 
 III.- No haber sido condenado por delitos contra la propiedad, o a sufrir pena mayor de un año de prisión por cualquier otra clase de delitos intencionales;
 
-El Presidente deberá se Licenciado en derecho.
+El Presidente deberá ser Licenciado en derecho.
 
 Los Representantes de los Trabajadores, deberán haber servido al Estado como empleados de base, por un lapso no menor de cinco años, anterior a la fecha de la designación.
 
@@ -669,7 +677,7 @@ ARTICULO CIENTO VEINTITRES.- CITACION.- Tan pronto reciba la primera promoción 
 
 ARTICULO CIENTO VEINTICUATRO.- FORMALIDAD.- En el procedimiento ante el Tribunal de Conciliación y Arbitraje no se requiere forma o solemnidad especial en la promoción e intervención de las partes.
 
-ARTICULO CIENTO VEINTICINCO.- PROCEDIMIENTO.- El procedimiento para resolver las controversias que se someten al Tribunal de Conciliación y Arbitraje, se reducirá: a la presentación de la demanda respectiva que deberá hacerse por escrito o verbalmente por medio de comparecencia; a la contestación, que se hará en igual forma, y a una sola audiencia en la que se recibirán las pruebas y alegatos de las partes, y se pronunciara resolución, salvo cuando a juicio del propio Tribunal se requiera la práctica de otras diligencias, en cuyo caso se ordenara que se lleven a cabo, y, una vez desahogadas, se dictará laudo.
+ARTICULO CIENTO VEINTICINCO.- PROCEDIMIENTO.- El procedimiento para resolver las controversias que se someten al Tribunal de Conciliación y Arbitraje, se reducirá: a la presentación de la demanda respectiva que deberá hacerse por escrito o verbalmente por medio de comparecencia; a la contestación, que se hará en igual forma, y a una sola audiencia en la que se recibirán las pruebas y alegatos de las partes, y se pronunciará resolución, salvo cuando a juicio del propio Tribunal se requiera la práctica de otras diligencias, en cuyo caso se ordenará que se lleven a cabo, y, una vez desahogadas, se dictará laudo.
 
 ARTICULO CIENTO VEINTISEIS.- AUDIENCIAS.- Las audiencias estarán a cargo de los Secretarios de audiencias del Tribunal. Durante la tramitación de los conflictos individuales y de los colectivos de naturaleza jurídica, bastará la presencia del Presidente o del Secretario General de Acuerdos, quienes llevarán adelante la audiencia hasta su terminación.
 
@@ -713,7 +721,7 @@ Los Titulares podrán hacerse representar por Apoderados legalmente acreditados.
 
 ARTICULO CIENTO TREINTA Y SIETE.- ASESORIA.- Las partes podrán comparecer acompañadas de los Asesores que a su interés convengan.
 
-ARTICULO CIENTO TREINTA Y OCHO.- CONFESION FICTA.- Cuando el demandado no conteste la demanda dentro del termino concedido o si resulta mal representado, se tendrá por contestada la demanda en sentido afirmativo, salvo prueba en contrario.
+ARTICULO CIENTO TREINTA Y OCHO.- CONFESION FICTA.- Cuando el demandado no conteste la demanda dentro del término concedido o si resulta mal representado, se tendrá por contestada la demanda en sentido afirmativo, salvo prueba en contrario.
 
 ARTÍCULO CIENTO TREINTA Y NUEVE.- PREVIO Y ESPECIAL PRONUNCIAMIENTO.- Son cuestiones de previo y especial pronunciamiento: la incompetencia, la falta de personalidad, la acumulación y la nulidad, las que se tramitarán en forma incidental con audiencia en la que se oirá a las partes y se recibirán pruebas respecto de dichas cuestiones.
 
@@ -723,19 +731,19 @@ ARTICULO CIENTO CUARENTA Y UNO.- DILIGENCIAS PARA MEJOR PROVEER.- Antes de pronu
 
 ARTICULO CIENTO CUARENTA Y DOS.- INCOMPETENCIA.- Si de la demanda, o durante la secuela del procedimiento, resultare incompetente el Tribunal, podrá declarar de oficio dicha incompetencia.
 
-ARTICULO CIENTO CUARENTA Y TRES.- DESISTIMIENTO TACITO.- Se tendrá por desistida de la acción y de la demanda intentada, a toda persona que no haga promoción alguna en el término de seis meses, siempre que esa promoción sea necesaria para la continuación del procedimiento. No se tendrá por trascurrido dicho término, si está pendiente de dictarse Resolución sobre alguna promoción de las partes, o la practica de alguna diligencia, o el acuerdo de alguna promoción o comparecencia, o la recepción de informes o copias que se hubiesen solicitado.
+ARTICULO CIENTO CUARENTA Y TRES.- DESISTIMIENTO TACITO.- Se tendrá por desistida de la acción y de la demanda intentada, a toda persona que no haga promoción alguna en el término de seis meses, siempre que esa promoción sea necesaria para la continuación del procedimiento. No se tendrá por trascurrido dicho término, si está pendiente de dictarse Resolución sobre alguna promoción de las partes, o la práctica de alguna diligencia, o el acuerdo de alguna promoción o comparecencia, o la recepción de informes o copias que se hubiesen solicitado.
 
 ARTICULO CIENTO CUARENTA Y CUATRO.- DESISTIMIENTO EXPRESO.- Cuando se solicite que se tenga por desistido al actor de las acciones intentadas, el Tribunal citara a las partes a una audiencia, en la que después de oírlas y recibir las pruebas que ofrezcan, deberán referirse exclusivamente a la procedencia o improcedencia del desistimiento, dictará Resolución.
 
-ARTICULO CIENTO CUARENTA Y CINCO.- NOTIFICACIONES.- La demanda, la citación para absolver posiciones, la solicitud de caducidad, el Laudo y los Acuerdos con apercibimiento, así como los Acuerdos que el Tribunal estime convenientes, se notificaran personalmente a las partes; las demás notificaciones se harán por estrados.
+ARTICULO CIENTO CUARENTA Y CINCO.- NOTIFICACIONES.- La demanda, la citación para absolver posiciones, la solicitud de caducidad, el Laudo y los Acuerdos con apercibimiento, así como los Acuerdos que el Tribunal estime convenientes, se notificarán personalmente a las partes; las demás notificaciones se harán por estrados.
 
 Todos los términos correrán a partir del día hábil siguiente a aquél en que se haga el emplazamiento, citación, notificación, y se contará en ellos el día del vencimiento.
 
-ARTICULO CIENTO CUARENTA Y SEIS.- TERMINOS.- En ningún término se contarán los días en que no puedan tener lugar actuaciones ante el Tribunal, salvo disposición contaría de esta Ley.
+ARTICULO CIENTO CUARENTA Y SEIS.- TERMINOS.- En ningún término se contarán los días en que no puedan tener lugar actuaciones ante el Tribunal, salvo disposición contraria de esta Ley.
 
 ARTICULO CIENTO CUARENTA Y SIETE.- Tratándose de conflictos de huelga todos los días y horas serán hábiles.
 
-ARTICULO CIENTO CUARENTA Y OCHO.- DIAS HABILES.- Las actuaciones en el tribunal deben practicarse en días y horas hábiles, bajo pena de nulidad. Son días hábiles todos los del año, con excepción de los días de vacaciones concedidas al personal del Tribunal, los feriados, los domingos, y los de descanso obligatorio.
+ARTICULO CIENTO CUARENTA Y OCHO.- DIAS HABILES.- Las actuaciones en el Tribunal deben practicarse en días y horas hábiles, bajo pena de nulidad. Son días hábiles todos los del año, con excepción de los días de vacaciones concedidas al personal del Tribunal, los feriados, los domingos, y los de descanso obligatorio.
 
 ARTICULO CIENTO CUARENTA Y NUEVE.- HORAS HABILES.- Son horas hábiles las comprendidas entre las siete y las diecinueve horas.
 
@@ -745,9 +753,9 @@ ARTICULO CIENTO CINCUENTA Y UNO.- SANCION.- El Tribunal sancionará las faltas d
 
 ARTICULO CIENTO CINCUENTA Y DOS.- RECUSACION.- Los miembros del Tribunal de Conciliación y Arbitraje podrán ser recusados y se podrán excusar con causa legítima.
 
-ARTICULO CIENTO CINCUENTA Y TRES.- INAPELABILIDAD.- Las Resoluciones dictadas por el Tribunal de Conciliación y Arbitraje serán inapelables y deberán ser cumplidas, desde luego, por las autoridades correspondientes. Pronunciado el Laudo, el Tribunal lo notificara a las partes.
+ARTICULO CIENTO CINCUENTA Y TRES.- INAPELABILIDAD.- Las Resoluciones dictadas por el Tribunal de Conciliación y Arbitraje serán inapelables y deberán ser cumplidas, desde luego, por las autoridades correspondientes. Pronunciado el Laudo, el Tribunal lo notificará a las partes.
 
-ARTICULO CIENTO CINCUENTA Y CUATRO.- ACTUACIONES.- De todas las actuaciones ante el Tribunal de Conciliación y Arbitraje, se levantará acta circunstanciada, la que firmaran todos los que en ella intervinieren, dando fe el Secretario correspondiente.
+ARTICULO CIENTO CINCUENTA Y CUATRO.- ACTUACIONES.- De todas las actuaciones ante el Tribunal de Conciliación y Arbitraje, se levantará acta circunstanciada, la que firmarán todos los que en ella intervinieren, dando fe el Secretario correspondiente.
 
 ARTICULO CIENTO CINCUENTA Y CINCO.- AUXILIO.- Las autoridades civiles y militares están obligadas a prestar auxilio al Tribunal de Conciliación y Arbitraje para hacer respetar sus Resoluciones, cuando fueren requeridas para ello.
 
@@ -755,13 +763,13 @@ ARTICULO CIENTO CINCUENTA Y CINCO.- AUXILIO.- Las autoridades civiles y militare
 
 ARTICULO CIENTO CINCUENTA Y SEIS.- MULTAS.- El Tribunal, para hacer cumplir sus determinaciones, podrá imponer multas hasta de tres mil pesos.
 
-ARTICULO CIENTO CINCUENTA Y SIETE.- PROCEDIMIENTO.- Las multas se harán efectivas por la Tesorería General del Estado, para lo cual el Tribunal girará el oficio correspondiente. La Tesorería aludida informará el Tribunal de haber hecho efectiva la multa, señalando los datos relativos que acrediten su cobro.
+ARTICULO CIENTO CINCUENTA Y SIETE.- PROCEDIMIENTO.- Las multas se harán efectivas por la Tesorería General del Estado, para lo cual el Tribunal girará el oficio correspondiente. La Tesorería aludida informará al Tribunal de haber hecho efectiva la multa, señalando los datos relativos que acrediten su cobro.
 
 ### CAPITULO V. EJECUCION
 
-ARTICULO CIENTO CINCUENTA Y OCHO.- El Tribunal de Conciliación y Arbitraje tiene la obligación de proveer a la eficaz e inmediata ejecución de los laudos, y a ese efecto, dictara todas las medidas necesarias en la forma y términos que a su juicio sean procedentes.
+ARTICULO CIENTO CINCUENTA Y OCHO.- El Tribunal de Conciliación y Arbitraje tiene la obligación de proveer a la eficaz e inmediata ejecución de los laudos, y a ese efecto, dictará todas las medidas necesarias en la forma y términos que a su juicio sean procedentes.
 
-ARTICULO CIENTO CINCUENTA Y NUEVE.- AUTO DE EJECUCION.- Cuando se pida la ejecución de un Laudo, el Tribunal despachará auto de ejecución y comisionará a un Actuario para que, asociado de la parte que obtuvo, se constituya en el domicilio de la de mandada y la requiera para que cumpla la Resolución, apercibiéndola que de no hacerlo, se procederá a trabar embargo en bienes de su propiedad que garanticen el cumplimiento de la condena.
+ARTICULO CIENTO CINCUENTA Y NUEVE.- AUTO DE EJECUCION.- Cuando se pida la ejecución de un Laudo, el Tribunal despachará auto de ejecución y comisionará a un Actuario para que, asociado de la parte que obtuvo, se constituya en el domicilio de la demandada y la requiera para que cumpla la Resolución, apercibiéndola que de no hacerlo, se procederá a trabar embargo en bienes de su propiedad que garanticen el cumplimiento de la condena.
 
 ### CAPITULO VI. DE LAS CORRECCIONES DISCIPLINARIAS Y DE LAS SANCIONES
 
@@ -787,7 +795,7 @@ Las sanciones serán impuestas por el Tribunal de Conciliación y Arbitraje.
 
 ## TRANSITORIOS
 
-PRIMERO.- Esta Ley entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Al entrar en vigencia esta Ley deroga todas las disposiciones que se opongan a la misma.
 
@@ -820,3 +828,11 @@ PRIMERO.- El presente decreto entrará en vigor el primero de enero del año dos
 SEGUNDO.- Se derogan todas aquellas disposiciones legales y administrativas que se opongan al contenido del presente decreto.
 
 TERCERO.- Las áreas administrativas deberán adoptar las previsiones correspondientes para el oportuno cumplimiento de lo ordenado por este decreto.
+
+P.O. 5 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 152 POR EL QUE “SE REFORMAN LOS ARTÍCULOS TRIGÉSIMO CUARTO, TRIGÉSIMO QUINTO Y LA FRACCIÓN I DEL ARTÍCULO CUADRAGÉSIMO SEXTO DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS PARA EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
