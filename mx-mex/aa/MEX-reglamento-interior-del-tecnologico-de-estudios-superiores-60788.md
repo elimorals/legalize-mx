@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-6078
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-10"
-last_updated: "2008-04-10"
+last_updated: "2017-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE COACALCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE COACALCO, PUBLICADO EN LA G.G. DE 5 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE COACALCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE JUNIO DE 2017. (ABROGADO)
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 10 de abril de 2008.
 
@@ -536,3 +538,17 @@ LIC. MARIA GUADALUPE MONTER FLORES SECRETARIA DE EDUCACION Y PRESIDENTA DE LA JU
 DR. FRANCISCO JOSE PLATA OLVERA DIRECTOR GENERAL DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE COACALCO Y SECRETARIO DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. DE 5 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE COACALCO”.]
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior del Tecnológico de Estudios Superiores de Coacalco, publicado en el Periódico Oficial "Gaceta del Gobierno" el 10 de abril de 2008.
+
+CUARTO.- Los asuntos a cargo de las unidades administrativas del Tecnológico de Estudios Superiores de Coacalco que se encontraban en operación antes de la entrada en vigor del presente Reglamento, serán atendidos por las unidades administrativas que refiere dicho ordenamiento jurídico, en términos de las atribuciones que les son asignadas.
