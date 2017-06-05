@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-legislativo-del-estado-de-campeche-89303
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-17"
-last_updated: "2015-12-15"
+last_updated: "2017-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 17 de agosto de 2012.
 
@@ -83,15 +83,15 @@ La vacante de un diputado de mayoría relativa se cubrirá con su respectivo sup
 
 Para el caso de que el diputado suplente estuviere impedido, por cualquiera razón, para cubrir la vacante del respectivo diputado propietario, se procederá a realizar la correspondiente elección extraordinaria, si el caso se diere dentro de los dos primeros años de ejercicio de la Legislatura; si sucediere durante el transcurso del último año no será necesaria la mencionada elección, salvo que la vacante ponga en riesgo la existencia del quórum requerido para sesionar.
 
-###### Art. 6.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2017)</small>
 
-Los diputados, de conformidad con el artículo 37 de la Constitución Política del Estado, son inviolables por el impulso de actos parlamentarios o la expresión de opiniones que viertan en el desempeño de sus cargos, dentro o fuera del recinto legislativo, y no pueden ser reconvenidos o enjuiciados, civil, penal o administrativamente, por ellos.
+Art 6.- Los diputados, de conformidad con el artículo 37 de la Constitución Política del Estado, son inviolables por el impulso de actos parlamentarios o la expresión de opiniones que viertan en el desempeño de sus cargos, dentro o fuera del recinto legislativo, y no pueden ser reconvenidos o enjuiciados, civil, penal o administrativamente, por ellos.
 
-Los diputados son responsables por los delitos que cometan durante el tiempo de su encargo, o que hubieren cometido con anterioridad a ése, más para ser privados de su libertad o para ejercitarse acción penal en su contra se requiere la correspondiente declaración de procedencia. La solicitud de declaración de procedencia deberá formularla un juez del ramo penal.
+Los diputados son responsables por los delitos que cometan durante el tiempo de su encargo, o que hubieren cometido con anterioridad a ése, más para ejercitarse acción penal en su contra se requiere que la autoridad competente reúna los requisitos de procedibilidad penal.
 
-La inviolabilidad por actos u opiniones parlamentarios así como la inmunidad penal tienen por objeto proteger la función parlamentaria. Su interpretación será restrictiva.
+La inviolabilidad por actos u opiniones parlamentarios tiene por objeto proteger la función parlamentaria. Su interpretación será restrictiva.
 
-No se requerirá de previa declaración de procedencia para dar trámite a procesos del orden civil o del orden administrativo.
+No se requerirá acuerdo previo del Congreso para dar trámite a procesos del orden civil o del orden administrativo.
 
 ###### Art. 7.
 
@@ -521,7 +521,7 @@ V. La Comisión de Patrimonio del Estado y de los Municipios;
 
 VI. La Comisión de Desarrollo Social y Regional;
 
-VII. La Comisión de Desarrollo Rural;;
+VII. La Comisión de Desarrollo Rural;
 
 VIII. La Comisión de Desarrollo Económico;
 
@@ -2066,3 +2066,11 @@ PRIMERO.- El presente decreto entrará en vigor tres días después de su public
 SEGUNDO.- Las propuestas para la integración de las comisiones, deberán ser presentadas ante el pleno en los términos y condiciones que establece la Ley Orgánica del Poder Legislativo del Estado de Campeche.
 
 TERCERO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 5 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 153 POR EL QUE “SE REFORMA EL ARTÍCULO 6 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
