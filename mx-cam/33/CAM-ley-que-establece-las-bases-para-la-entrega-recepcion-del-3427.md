@@ -4,7 +4,7 @@ identifier: "CAM-ley-que-establece-las-bases-para-la-entrega-recepcion-del-3427"
 country: "mx"
 rank: "ley"
 publication_date: "1992-05-12"
-last_updated: "1992-05-12"
+last_updated: "2017-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY QUE ESTABLECE LAS BASES PARA LA ENTREGA-RECEPCION DEL DESPACHO DE LOS TITULARES Y OTROS SERVIDORES DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA ESTATAL Y MUNICIPAL
 
-LEY QUE ESTABLECE LAS BASES PARA LA ENTREGA-RECEPCION DEL DESPACHO DE LOS TITULARES Y OTROS SERVIDORES DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA ESTATAL Y MUNICIPAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE AL LEY QUE REGULA LOS PROCEDIMIENTOS DE ENTREGA-RECEPCIÓN DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 5 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY QUE ESTABLECE LAS BASES PARA LA ENTREGA-RECEPCIÓN DEL DESPACHO DE LOS TITULARES Y OTROS SERVIDORES DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL Y MUNICIPAL
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 12 de mayo de 1992.
 
@@ -238,3 +240,15 @@ Salón de Sesiones del Palacio Legislativo; Campeche, Cam., a 5 de Mayo de 1992.
 Por lo tanto mando se imprima, publique y circule para su debido cumplimiento.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche a los seis días del mes de mayo de mil novecientos noventa y dos.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMÓN AZAR GARCÍA.- EL SECRETARIO DE GOBIERNO, LIC. CRUZ MANUEL ALFARO ISAAC.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REGULA LOS PROCEDIMIENTOS DE ENTREGA-RECEPCIÓN DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS”.]
+
+PRIMERO.- La presente ley entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley que establece las bases para la Entrega-Recepción del despacho de los titulares y otros Servidores de las dependencias y entidades de la Administración Pública Estatal y Municipal del Estado de Campeche, publicada en el Periódico Oficial del Estado de Campeche el día 12 de mayo de 1992 y se derogan todas aquellas disposiciones que se opongan al contenido de la presente ley.
+
+TERCERO.- Los Poderes Legislativo, Ejecutivo y Judicial; los Ayuntamientos, los Órganos Constitucionales Autónomos, así como los órganos jurisdiccionales que determinen las leyes, en el Estado de Campeche a través de sus órganos autorizados, emitirán en el ámbito de sus respectivas competencias los manuales y los formatos autorizados a que se refiere esta ley, para llevar a cabo el procedimiento de Entrega-Recepción, en un plazo de 120 días naturales a partir de la entrada en vigor del presente decreto.
