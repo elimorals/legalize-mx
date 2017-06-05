@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-agua-potable-y-alcantarillado-del-estado-de-campeche-340
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-21"
-last_updated: "2016-09-12"
+last_updated: "2017-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3406&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 1992.
 
@@ -59,13 +61,9 @@ III. La organización y funcionamiento de los organismos operadores del Sistema 
 
 IV. La recuperación de los gastos y costos de inversión, operación, conservación y mantenimiento del Sistema de Agua Potable y Alcantarillado; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 V. El funcionamiento y atribuciones de la Comisión de Agua Potable y Alcantarillado del Estado de Campeche; y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -83,7 +81,9 @@ III. Comisión de Agua Potable y Alcantarillado del Estado de Campeche, o bien
 
 IV. Por particulares que cuenten con concesión o hayan celebrado el respectivo contrato de prestación de servicios u otro análogo.
 
-Los organismos señalados en las fracciones I y II, formarán, parte de la administración paramunicipal de los Ayuntamientos y el organismo a que se refiere la fracción III de la administración paraestatal del Ejecutivo del Estado, a efectos de prestar los servicios objeto de esta Ley a través de una administración descentralizada.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2017)</small>
+
+Los organismos señalados en las fracciones I y II, formarán, parte de la administración paramunicipal de los Ayuntamientos y el organismo a que se refiere la fracción III, de la administración paraestatal del Ejecutivo del Estado, a efectos (sic) de prestar los servicios objeto de esta Ley a través de una administración descentralizada.
 
 ### CAPITULO II. Sistema de Agua Potable y Alcantarillado del Estado
 
@@ -183,9 +183,11 @@ Salvo el uso doméstico que siempre tendrá preferencia en relación a los demá
 
 Con el objeto de reducir la contaminación y atender la degradación de la calidad original de las aguas dentro del "Sistema de Agua Potable y Alcantarillado del Estado", las autoridades estatales y municipales, así como los organismos a que se refiere la presente ley, en el ámbito de su competencia, promoverán el establecimiento de sistemas de potabilización y, en su caso, de tratamiento de aguas residuales y manejo de lodos, así como el fomento de sistemas alternos que sustituyan al alcantarillado sanitario, cuando éste no pueda construirse; y la realización de las acciones necesarias para conseguir y mantener un adecuado nivel de calidad de las aguas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 11.
 
-Para los efectos del artículo anterior, las autoridades y organismos a que el mismo se refiere, en los términos de la presente ley, en coordinación con las autoridades federales competentes y atento a lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Campeche:
+Para los efectos del artículo anterior, las autoridades y organismos a que el mismo se refiere, en los términos de la presente ley, en coordinación con las autoridades federales competentes y atento a lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente:
 
 I. Podrán otorgar el permiso para efectuar las descargas de aguas residuales en los sistemas de drenaje o alcantarillado respectivo, a las personas físicas o morales que por el uso o aprovechamiento de agua en actividades productivas originen su contaminación, en los casos, términos y condiciones que se señalen en esta ley y su reglamento;
 
@@ -227,7 +229,9 @@ IV. La adquisición de los bienes muebles e inmuebles que sean necesarios para l
 
 V. La formación, modificación y manejo tanto de los padrones de usuarios, como de las tarifas conforme a las cuales se cobrará la prestación de los servicios públicos de agua potable y alcantarillado en los distintos sistemas urbanos y rurales del Estado.
 
-En los casos de utilidad pública y para los efectos del presente artículo, los Ayuntamientos Municipales promoverán la expropiación de los bienes de propiedad privada y la ocupación temporal, total o parcial, de los bienes de los particulares; asimismo, el Ejecutivo del Estado por sí o como consecuencia de la promoción del Ayuntamiento Municipal, expedirá el decreto de expropiación o de ocupación temporal, sujetándose a las leyes sobre la materia.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2017)</small>
+
+En los casos de utilidad pública y para los efectos del presente artículo, los Ayuntamientos promoverán la expropiación de los bienes de propiedad privada y la ocupación temporal, total o parcial, de los bienes de los particulares; asimismo, el Ejecutivo del Estado por sí o como consecuencia de la promoción del Ayuntamiento, expedirá el decreto de expropiación o de ocupación temporal, sujetándose a las leyes sobre la materia.
 
 ###### ARTICULO 15.
 
@@ -241,13 +245,9 @@ I. Formar comités para la promoción de la construcción, conservación, manten
 
 II. Constituir personas morales a las que se pudiera otorgar en concesión o con los que se pudieran celebrar contratos para construir y operar sistemas, prestar servicio de agua potable y alcantarillado o administrar, operar, conservar o mantener la infraestructura hidráulica respectiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO III. Del Cuidado y Uso Racional del Agua
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2012)</small>
 
@@ -257,7 +257,7 @@ l. Difundir mediante programas los costos y beneficios socioeconómicos y ambien
 
 II. Fomentar el uso racional del agua en todas sus formas y manifestaciones;
 
-IlI. Promover planes y programas coordinados con las entidades públicas y privadas vinculadas con el uso racional y cuidado del agua;
+III. Promover planes y programas coordinados con las entidades públicas y privadas vinculadas con el uso racional y cuidado del agua;
 
 IV. Fomentar el uso de tecnología e infraestructura en el desarrollo de viviendas, fraccionamientos, edificaciones y demás obras en el Estado que permitan cuidar y usar de manera racional el agua;
 
@@ -397,6 +397,8 @@ III. Un Director General; y
 
 IV. Un Comisario.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 25.
 
 La Junta de Gobierno se integra con:
@@ -407,17 +409,13 @@ II. El Síndico del H. Ayuntamiento;
 
 III. Un representante de la Comisión de Agua Potable y Alcantarillado del Estado de Campeche;
 
-IV. Un representante del Gobierno del Estado;
+IV. Un representante del Gobierno del Estado; y
 
-V. Un representante de la Comisión Nacional del Agua;
-
-VI. El representante del Consejo Consultivo del organismo; y
-
-VII. El Vicepresidente del Consejo Consultivo del organismo.
+V. Un representante del Consejo Consultivo del Organismo.
 
 Por cada representante propietario se nombrará al respectivo suplente, salvo lo dispuesto en el artículo 27 de ésta Ley.
 
-Se podrán invitar a formar parte de la junta a representantes de las dependencias federales o estatales, así como del municipio, cuando se trate de algún asunto que por su competencia o jurisdicción, deban de participar, así como a representantes de los usuarios que formen parte del consejo consultivo.
+Se podrán invitar a formar parte de la junta a representantes de la Comisión Nacional del Agua, de las dependencias federales o estatales, así como del municipio, cuando se trate de algún asunto que por su competencia o jurisdicción, deban de participar, así como a representantes de los usuarios que formen parte del consejo consultivo.
 
 ###### ARTICULO 26.
 
@@ -453,7 +451,9 @@ XIII. Las demás que le asigne la presente ley, su instrumento de instalación, 
 
 La Junta de Gobierno funcionará válidamente con la concurrencia de la mayoría de sus miembros, entre los cuales deber (sic) estar el Presidente Municipal.
 
-Los acuerdos y resoluciones se tomarán por mayoría de votos de los asistentes y el Presidente tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2017)</small>
+
+Los acuerdos y resoluciones se tomarán por mayoría de votos de los asistentes y el Presidente tendrá voto de calidad, en caso de empate.
 
 La Junta se reunirá, por lo menos, una vez cada tres meses y cuantas veces fuera convocado por su Presidente o por el Director General, ambos por propia iniciativa o a petición de tres miembros de la misma, y en caso de omisión, por el comisario del organismo.
 
@@ -465,7 +465,9 @@ El Director General rendirá anualmente al Ayuntamiento del Municipio el informe
 
 El organismo operador contará con un Consejo Consultivo, como órgano colegiado de apoyo y auxilio para la realización de sus objetivos.
 
-El Consejo Consultivo se integrará y sesionará con el número de miembros y en la forma que se señale en el Reglamento Interior del Organismo, debiendo en todo caso estar las principales organizaciones representativas de los sectores social y privado, de los usuarios de los servicios de agua potable y alcantarillado del municipio.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2017)</small>
+
+El Consejo Consultivo se integrará y sesionará con el número de miembros y en la forma que se señale en el Reglamento Interior del Organismo, debiendo en todo caso estar las principales organizaciones representativas de los sectores social y privado, y de los usuarios de los servicios de agua potable y alcantarillado del municipio.
 
 El organismo operador proporcionará los elementos necesarios para que se integre el Consejo Consultivo y cuidará que sesione en la forma y términos que indique el mencionado Reglamento Interior.
 
@@ -474,8 +476,6 @@ No podrán formar parte del Consejo Consultivo, funcionarios o empleados del org
 Los miembros del Consejo Consultivo designarán democráticamente de entre ellos a un Presidente y a un Vicepresidente, los cuales representarán al Consejo Consultivo y a los usuarios en la Junta de Gobierno del organismo operador. Igualmente se designará a las personas que los podrán suplir.
 
 El Presidente y el Vicepresidente, durarán un año en sus cargos, sin posibilidad de reelección inmediata.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2012)</small>
 
@@ -615,7 +615,9 @@ El Presidente y los Vicepresidentes tendrán sus respectivos suplentes.
 
 El Consejo Consultivo, ampliará su composición, con el objeto de que estén representadas las principales organizaciones de usuarios de los municipios respectivos.
 
-El Comisario será designado por el Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2017)</small>
+
+El Comisario será designado por el Contralor Municipal.
 
 ###### ARTICULO 39.
 
@@ -623,15 +625,11 @@ Lo dispuesto en este Capítulo será independiente de que el Congreso del Estado
 
 ### CAPITULO III. Comisión de Agua Potable y Alcantarillado del Estado de Campeche
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 40.
 
 Se crea la Comisión de Agua Potable y Alcantarillado del Estado de Campeche, identificado también con el acrónimo "CAPAE", como un organismo público descentralizado de la Administración Pública del Estado de Campeche, con personalidad jurídica y patrimonio propios, para el cumplimiento de sus atribuciones, objetivos y fines, sectorizado a la Secretaría de Desarrollo Urbano, Obras Públicas e Infraestructura, que tendrá su sede en la capital del Estado, sin perjuicio de establecer oficinas en los municipios de la Entidad.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -731,8 +729,6 @@ Los bienes de la Comisión, afectados directamente en la prestación del servici
 
 Los bienes muebles del organismo destinados directamente a la prestación de los servicios se considerarán bienes del dominio público del Estado.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 44.
@@ -742,8 +738,6 @@ La administración de la Comisión de Agua Potable y Alcantarillado del Estado d
 I. La Junta de Gobierno; y
 
 II. Del Director General.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -771,8 +765,6 @@ X. Cumplir y hacer cumplir las disposiciones contenidas en este ordenamiento; y
 
 XI. Las demás que señale este ordenamiento, su Reglamento Interior y demás disposiciones aplicables.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 45.
@@ -799,8 +791,6 @@ El cargo de miembro de la Junta de Gobierno será honorífico, por lo que no dar
 
 La Junta sesionará de forma ordinaria cuando menos una vez cada trimestre y de forma extraordinaria cuantas veces sea necesario.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ARTICULO 45 BIS.- Para que las sesiones de la Junta tengan validez, se requerirá la presencia de la mitad más uno de los integrantes y los acuerdos se tomarán por mayoría de votos. En caso de empate el presidente tendrá voto de calidad.
@@ -808,8 +798,6 @@ ARTICULO 45 BIS.- Para que las sesiones de la Junta tengan validez, se requerir�
 La Junta por conducto de su presidente, podrá invitar a las sesiones que al efecto se celebren a autoridades del ámbito federal, estatal o municipal que guarden relación con el objeto de la Comisión, quienes únicamente tendrán derecho a voz.
 
 El Reglamento Interior de la Comisión establecerá las disposiciones necesarias para que se lleven a cabo las sesiones de la Junta de Gobierno, además de las bases de organización, así como las atribuciones de las distintas unidades administrativas que integran el organismo.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -823,15 +811,11 @@ II. Haber desempeñado cargos de alto nivel decisorios, cuyo ejercicio requiera 
 
 III. No encontrarse en alguno de los casos de impedimento que para ser miembro de la junta de gobierno señalan las fracciones II, III y IV del artículo 19 de la Ley de la Administración Pública Paraestatal del Estado de Campeche.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 47.
 
 La Comisión de Agua Potable y Alcantarillado del Estado de Campeche estará integrada también por un comisario público propietario y un suplente, ambos designados por la Secretaría de Contraloría de conformidad con lo dispuesto por la Ley de la Administración Pública Paraestatal del Estado de Campeche, además del órgano interno de control previsto por la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -869,7 +853,9 @@ II. Contrato para el proyecto, financiamiento, construcción, aportación de tec
 
 III. Los demás contratos o convenios necesarios para capitalizar, mejorar, ampliar y hacer mas eficiente el servicio público de agua potable y alcantarillado, incluyendo el saneamiento.
 
-Los contratos y convenios a que se refieren las fracciones II y III, se consideran de Derecho Público.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2017)</small>
+
+Los contratos y convenios a que se refieren las fracciones II y III de este artículo, se consideran de Derecho Público.
 
 El incumplimiento de las cláusulas del contrato o convenio motivará la rescisión administrativa por parte de la autoridad, previa audiencia de la parte afectada e independientemente de que convenga la forma de recuperación la inversión realizada.
 
@@ -1105,9 +1091,11 @@ La recuperación del valor actualizado de las inversiones de infraestructura hid
 
 Se exceptúa de lo dispuesto en el párrafo anterior, cuando la recuperación de la inversión se esté efectuando a través de leyes de contribuciones de mejoras por obras públicas hidráulicas en el Estado o municipio, o una legislación fiscal similar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 87.
 
-Se deberán revisar y ajustar las cuotas o tarifas a fin de actualizarlas; para cualquier modificación de éstas se deberá elaborar un estudio que justifique las nuevas cuotas y tarifas y se tomarán en cuenta las observaciones y sugerencias que realicen los usuarios a través de los Consejos Consultivos de los organismos descentralizados a que se refiere la presente ley. Una vez aprobadas, se ordenará su publicación en el Periódico Oficial del Gobierno del Estado de Campeche y en el diario de mayor circulación de la localidad.
+Se deberán revisar y ajustar las cuotas o tarifas a fin de actualizarlas; para cualquier modificación de éstas se deberá elaborar un estudio que justifique las nuevas cuotas y tarifas y se tomarán en cuenta las observaciones y sugerencias que realicen los usuarios a través de los Consejos Consultivos de los organismos descentralizados a que se refiere la presente ley. Una vez aprobadas, se ordenará su publicación en el Periódico Oficial del Estado de Campeche y en el diario de mayor circulación de la localidad.
 
 Los organismos operadores, cuando lo consideren conveniente, podrán solicitar a la Comisión de Agua Potable y Alcantarillado del Estado de Campeche, la elaboración de los estudios técnicos y financieros de apoyo para los incrementos de cuotas o tarifas. Igualmente, dicha Comisión podrá enviar a los organismos operadores los estudios que haya elaborado que justifiquen o apoyen los incrementos de las cuotas o tarifas respectivas dentro del "Sistema de Agua Potable y Alcantarillado del Estado".
 
@@ -1363,7 +1351,9 @@ IX. El que deteriore cualquier instalación propiedad de los organismos operador
 
 X. El que utilice el servicio de los hidrantes públicos para destinarlo a usos distintos a los de su objeto;
 
-XI. Los propietarios o poseedores de predios dentro de los cuales se localice alguna fuga que no haya sido atendida oportunamente, por causas no imputables al usuario;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
+
+XI. Los propietarios o poseedores de predios dentro de los cuales se localice alguna fuga que no haya sido atendida oportunamente, por causas imputables al usuario;
 
 XII. Los que desperdicien el agua;
 
@@ -1371,15 +1361,21 @@ XIII. Las personas que impidan la instalación de los servicios de agua y alcant
 
 XIV. El que emplee mecanismos para succionar agua de las tuberías de distribución;
 
-XV. El que descargue aguas residuales en las redes de drenaje y alcantarillado sin contar con el permiso de descarga correspondiente;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
 
-XVI. El que reciba al servicio público de agua potable y alcantarillado o quien descargue aguas residuales en las redes de drenaje y alcantarillado, sin haber cubierto las cuotas o tarifas respectivas; y
+XV. El que descargue aguas residuales, basura, desechos y lodos en las redes de drenaje y alcantarillado sin contar con el permiso de descarga correspondiente;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
+
+XVI. El que reciba el servicio público de agua potable y alcantarillado o quien descargue aguas residuales en las redes de drenaje y alcantarillado, sin haber cubierto las cuotas o tarifas respectivas; y
 
 XVII. El que en cualquier forma transgreda o incumpla lo dispuesto en esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 115.
 
-Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente a juicio del organismo operador respectivo, o en su defecto, por la Comisión de Agua Potable y Alcantarillado del Estado de Campeche, con multas equivalentes de diez a quinientos días de salario mínimo general vigente en el área geográfica en que se cometa.
+Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente a juicio del organismo operador respectivo, o en su defecto, por la Comisión de Agua Potable y Alcantarillado del Estado de Campeche, con multas equivalentes de diez a quinientas unidades de medida y actualización vigentes.
 
 Para sancionar las faltas anteriores, se calificarán las infracciones tomando en consideración la gravedad de la falta, las condiciones económicas del infractor, y la reincidencia.
 
@@ -1534,3 +1530,11 @@ Primero.- El presente decreto entrará en vigor a los quince días después de s
 Segundo.- La Junta de Gobierno de la Comisión de Agua Potable y Alcantarillado del Estado de Campeche, deberá celebrar su sesión de instalación dentro de los noventa días naturales siguientes a la fecha de entrada en vigor del presente decreto.
 
 Tercero.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
+
+P.O. 5 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 149 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 3 PÁRRAFO SEGUNDO; 11 PÁRRAFO PRIMERO; 14 PÁRRAFO SEGUNDO; 25; 27 PÁRRAFO SEGUNDO; 29 PÁRRAFO SEGUNDO; 38 PÁRRAFO CUARTO; 50 PÁRRAFO SEGUNDO; 87 PÁRRAFO PRIMERO; 114 FRACCIONES XI, XV Y XVI Y 115 PÁRRAFO PRIMERO DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
