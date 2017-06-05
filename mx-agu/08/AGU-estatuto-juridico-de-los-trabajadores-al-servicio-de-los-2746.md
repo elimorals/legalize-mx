@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2017-01-17"
+last_updated: "2017-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2017.
 
 Estatuto publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -59,9 +59,19 @@ III.- ESTATUTO.- El presente Ordenamiento legal; y
 
 IV.- TRIBUNAL.- El Tribunal de Arbitraje para los trabajadores al servicio de los Gobiernos del Estado, sus Municipios y organismos públicos descentralizados.
 
-###### ARTICULO 3o.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2017)</small>
 
-Las disposiciones de esta Ley tenderán a conseguir el equilibrio entre la función pública que cumple el Estado y los derechos laborales de sus trabajadores.
+###### ARTICULO 3°.
+
+Las disposiciones de esta Ley tenderán a conseguir el equilibrio entre la función pública que cumple el Estado y los derechos laborales de sus trabajadores. De igual forma, respetarán y harán valer los Principios de No Discriminación y de Igualdad Sustantiva de las mujeres y hombres que sean trabajadores, al servicio de los Poderes Legislativo, Ejecutivo, Judicial, a los Municipios o a los organismos públicos descentralizados.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2017)</small>
+
+Para efectos de esta Ley, se entenderá por el Principio de No Discriminación, el que no se puedan establecer de manera alguna, condiciones que impliquen discriminación entre las mujeres y hombres que sean trabajadores en términos de esta Ley, por motivo de su sexo, edad, raza, nacionalidad, algún tipo de discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil y/o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2017)</small>
+
+Asimismo, se entenderá para los efectos de esta Ley, al Principio de Igualdad Sustantiva, la eliminación de toda forma de discriminación por razón de su sexo, que menoscabe o anule el reconocimiento, goce o ejercicio de sus derechos humanos, y las libertades fundamentales en el ámbito laboral. Lo que supone el acceso a las mismas oportunidades, considerando las diferencias biológicas, sociales y culturales de mujeres y hombres, y el que no se puedan establecer
 
 ###### ARTICULO 4o.
 
@@ -557,9 +567,11 @@ La acción de insumisión al arbitraje, podrá ser realizada independientemente 
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 32.
 
-Las condiciones de trabajo en ningún caso podrán ser inferiores a las fijadas en esta Ley y deberán ser proporcionales a la importancia de los servicios y equivalentes para trabajos iguales, sin que puedan establecerse diferencias por motivo de raza, nacionalidad, sexo, edad, credo religioso o doctrina política.
+Las condiciones de trabajo estarán basadas en los Principios de No Discriminación y de Igualdad Sustantiva, en ningún caso podrán ser inferiores a las fijadas en esta Ley y deberán ser proporcionales a la importancia de los servicios e iguales para trabajos iguales, sin que puedan establecerse diferencias y/o exclusiones por motivo de sexo, edad, raza, nacionalidad, algún tipo de discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, condiciones de embarazo, responsabilidades familiares o estado civil y/o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ###### ARTICULO 33.
 
@@ -823,7 +835,9 @@ Se prohíbe a las dependencias del Estado y a los organismos públicos descentra
 
 I.- Exigir la presentación de certificados médicos de ingravidez a las mujeres que aspiren a un empleo en el servicio público;
 
-II.- Negar la admisión a un empleo sólo por el hecho de ser mujer, estar embarazada, pertenecer a un estado civil determinado, o estar al cuidado de hijos menores; y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
+
+II.- Negar la admisión al empleo y/o impedir su permanencia, así como impedir y/u obstaculizar su posible ascenso en términos del presente Estatuto, por razón de sexo, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil, estar embarazada, estar al cuidado de hijos menores y/o cualquier otra que atente contra la dignidad humana; y
 
 III.- Obligar a las trabajadoras por coacción o por cualquier otro medio, a renunciar a su trabajo, cuando contraigan matrimonio, se embaracen o tengan al cuidado hijos menores.
 
@@ -2036,3 +2050,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 5 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 96.- SE REFORMA Y ADICIONA EL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
