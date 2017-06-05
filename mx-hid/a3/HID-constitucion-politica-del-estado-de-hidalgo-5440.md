@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2017-05-22"
+last_updated: "2017-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -839,7 +841,9 @@ Para ser Diputado se requiere:
 
 I. Ser hidalguense;
 
-II. Tener 21 años de edad como mínimo;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
+
+II. Tener dieciocho años cumplidos al día de la elección.
 
 III. Tener una residencia efectiva no menor de tres años en el estado; y
 
@@ -2799,8 +2803,6 @@ En lo conducente, los ayuntamientos podrán expedir los reglamentos y disposicio
 
 XVIII. Cuando dos o más centros urbanos situados en territorios municipales del Estado de Hidalgo y otra u otras entidades federativas formen o tiendan a formar una continuidad demográfica, el Estado y los municipios respectivos planearán con la Federación y él o los otros Estados y sus municipios y regularán en el ámbito de sus competencias, de manera conjunta y coordinada, el desarrollo de dichos centros, con apego a la Ley Federal de la materia, observando las normas vigentes en el Estado y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ABRIL DE 2016)</small>
 
 XIX. Participar en el Sistema para la Profesionalización del Servicio Público Municipal, mediante la capacitación, evaluación y certificación de su personal, en los términos que establezca la Ley; y
@@ -3966,3 +3968,9 @@ Séptimo. El Procurador General de Justicia continuará en el ejercicio de su ca
 Octavo. El subprocurador de asuntos electorales continuará en el ejercicio de su cargo por el tiempo para el que fue nombrado, cambiando su denominación a Fiscal Especializado en Delitos Electorales.
 
 En toda la legislación y normatividad que refiera a la Subprocuraduría de Asuntos Electorales, se entenderá como la Fiscalía Especializada en Delitos Electorales.
+
+P.O. 5 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 185 QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 31 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE HIDALGO”.]
+
+Único. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
