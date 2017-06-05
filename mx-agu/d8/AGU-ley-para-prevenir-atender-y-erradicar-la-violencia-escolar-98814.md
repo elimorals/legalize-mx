@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-atender-y-erradicar-la-violencia-escolar-9881
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-17"
-last_updated: "2015-05-25"
+last_updated: "2017-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA ESCOLAR EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de febrero de 2014.
 
@@ -47,7 +47,9 @@ LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA ESCOLAR EN EL ESTADO DE AGUA
 
 La presente Ley es de orden público e interés social. Sus disposiciones son de observancia general para todo el Estado de Aguascalientes.
 
-Tiene como objeto proteger y atender a los estudiantes en todos los ámbitos, niveles y modalidades educativos, de las instituciones públicas y privadas, de cualquier forma de violencia escolar, producida entre los mismos estudiantes, de forma intencional, sea metódica, sistemática o reiterada, produciendo un daño apreciable; así como el establecer los lineamientos para otorgar el apoyo asistencial a los receptores y generadores de dicho fenómeno y a sus familias.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2017)</small>
+
+Tiene como objeto proteger y atender a los estudiantes en todos los ámbitos, niveles y modalidades educativos, de las instituciones públicas y privadas, de cualquier forma de violencia escolar, producida entre los mismos estudiantes, de forma intencional, sea metódica, sistemática o reiterada, produciendo un daño físico o psicológico; así como el establecer los lineamientos para otorgar el apoyo asistencial a los receptores y generadores de dicho fenómeno y a sus familias.
 
 ###### ARTÍCULO 2°.
 
@@ -105,7 +107,9 @@ XVII. Instituto: El Instituto de Educación del Estado de Aguascalientes;
 
 XVIII. Víctima: Es la persona o la institución que resulta afectada por la violencia escolar; y
 
-XIX. Violencia Escolar: Son los actos producidos entre los estudiantes de forma intencional, sea metódica, sistemática o reiterada, produciendo un daño apreciable.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
+
+XIX. Violencia Escolar: Son los actos producidos entre los estudiantes de forma intencional, sea metódica, sistemática o reiterada, produciendo un daño físico o psicológico.
 
 ### CAPÍTULO II. Violencia Escolar
 
@@ -261,13 +265,25 @@ VIII. El Presidente de la Asociación de Padres de Familia en el Estado;
 
 IX. Un representante de la Comisión de Derechos Humanos del Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
 
-X. Un Representante del Colegio de Psicólogos del Estado de Aguascalientes; y
+X. Un Representante del Colegio de Psicólogos del Estado de Aguascalientes;
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2017)</small>
 
-XI. Se podrán invitar a especialistas en materia de educación, educación inicial, preescolar, primaria, secundaria, media superior, superior y educación especial.
+XI. La Directora General del Instituto Aguascalentense de las Mujeres; y
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
+
+XII. Un grupo de especialistas en materia de educación inicial, preescolar, primaria, secundaria, media superior, superior y educación especial.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2017)</small>
+
+Para la selección de los especialistas que en todo momento deberán respetar el principio filosófico de laicidad que hace referencia el Artículo 3° Constitucional, a que hace referencia la Fracción XII, el Consejo emitirá anualmente durante el mes de enero, una convocatoria abierta, que será inmediatamente publicada y difundida por el Secretario. La cual tendrá la finalidad de hacer del conocimiento de la ciudadanía, la existencia y atribuciones del Consejo, así como el establecer los requisitos para que los ciudadanos interesados, puedan formar parte del grupo de especialistas. Serán designados hasta cinco especialistas y durarán en su encargo un año, pudiendo ser reelectos por una sola ocasión.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2017)</small>
+
+Los integrantes del Consejo, establecidos en las Fracciones I a la XI contarán con voz y voto; y los integrantes previstos en la Fracción XII contarán únicamente con voz.
 
 El Gobernador del Estado y el Director General del Instituto podrán nombrar suplentes. Los cargos y nombramientos del Consejo serán honoríficos.
 
@@ -309,7 +325,9 @@ X. Dar seguimiento a los expedientes de casos de violencia escolar que se presen
 
 XI. Solicitar un informe a las instituciones educativas donde se presenten casos de violencia escolar, así como emitir recomendaciones y hacer las observaciones necesarias para la atención de la violencia escolar; y
 
-XII. Emitir su reglamento interno;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
+
+XII. Emitir su reglamento interno y la convocatoria a que hace referencia el Artículo 14 de la presente Ley.
 
 ###### ARTÍCULO 18.
 
@@ -337,7 +355,9 @@ III. Abrir, prorrogar, suspender y clausurar las sesiones del Consejo;
 
 IV. Conducir los debates y deliberaciones del Consejo, preservando el orden y el derecho de participación en las mismas;
 
-V. Nombrar a los integrantes del Consejo;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
+
+V. Nombrar a los integrantes del Consejo; así como designar bajo criterios que atiendan a su mejor calificación como peritos en la materia, y remover a los especialistas a que hace referencia la Fracción XII del Artículo 14 de la presente Ley;
 
 VI. Nombrar comisiones para el seguimiento de asuntos concretos;
 
@@ -355,9 +375,17 @@ II. Llevar registro de los asuntos turnados al Consejo; así como de la preparac
 
 III. Llevar archivo sistematizado de asuntos turnados;
 
-IV. Elaborar el informe trimestral sobre incidentes de violencia escolar recibidas por el Consejo; y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
 
-V. Las demás que le confieran la presente ley, los ordenamientos que de ella deriven y demás disposiciones emanadas del Consejo.
+IV. Elaborar el informe trimestral sobre incidentes de violencia escolar recibidas por el Consejo;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
+
+V. Publicar y difundir la convocatoria a que hace referencia el Artículo 14 de la presente Ley; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE JUNIO DE 2017)</small>
+
+VI. Las demás que le confieran la presente Ley, los ordenamientos que de ella deriven y demás disposiciones emanadas del Consejo.
 
 ###### ARTÍCULO 21.
 
@@ -624,3 +652,15 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado, la referencia al Fiscal General del Estado contenida en el presente Decreto, se entenderá hecha al Procurador General de Justicia del Estado.
+
+P.O. 5 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 94.- SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA ESCOLAR EN EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La primera convocatoria para la selección de los miembros especialistas será emitida en el año de dos mil dieciocho.
