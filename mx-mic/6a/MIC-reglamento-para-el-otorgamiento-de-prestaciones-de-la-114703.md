@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-el-otorgamiento-de-prestaciones-de-la-114703"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-04-19"
-last_updated: "2016-04-19"
+last_updated: "2017-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO PARA EL OTORGAMIENTO DE PRESTACIONES DE LA DIRECCIÓN DE PENSIONES CIVILES DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2017.
 
 Reglamento publicado en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 19 de abril de 2016.
 
@@ -231,9 +231,15 @@ En caso de que el servidor público, pensionado o jubilado cuente con un adeudo 
 
 El servidor público, pensionado o jubilado podrá solicitar por escrito un nuevo préstamo a la par de un tipo de préstamo vigente distinto al solicitado. Si la suma de ambos descuentos superan el 50% del salario base de cotización deberá comprobar ingresos adicionales permanentes al salario base de cotización previo apoyo de su representación sindical cuando esto proceda.
 
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2017)</small>
+
+Los préstamos a la par entre modalidades del de garantía hipotecaria, solamente se otorgarán cuando uno de ellos sea de liquidez y la suma total del monto de ambos préstamos no supere la cantidad de $600,000.00 (Seiscientos mil pesos 00/100 M.N.), salvo acuerdo de la Junta Directiva.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2017)</small>
+
 ###### Artículo 29.
 
-Los préstamos de corto plazo y de garantía real otorgados por la Dirección de Pensiones a sus servidores públicos, pensionados o jubilados, podrán renovarse cuando haya transcurrido la cuarta parte del plazo por el que fue concedido y se encuentren cubiertos los abonos correspondientes a dicho periodo; para los préstamos hipotecarios, la renovación podrá ser posible cuando haya transcurrido la mitad del plazo al que fue pactado y se encuentren cubiertos los abonos correspondientes a dicho periodo.
+Los préstamos de corto plazo y de liquidez otorgados por la Dirección de Pensiones a sus servidores públicos, pensionados o jubilados, podrán renovarse cuando haya transcurrido la cuarta parte del plazo por el que fue concedido y se encuentren cubiertos los abonos correspondientes a dicho periodo, sin necesidad de autorización de la Junta Directiva; para los préstamos con garantía hipotecaria del resto de las modalidades, la renovación podrá ser posible cuando haya transcurrido la mitad del plazo al que fue pactado y se encuentren cubiertos los abonos correspondientes a dicho periodo.
 
 ###### Artículo 30.
 
@@ -257,13 +263,17 @@ III. No se podrá otorgar un nuevo plazo de espera sobre aquellos préstamos ren
 
 En relación a lo establecido en las fracciones anteriores no aplicará el seguro a que se refiere el Artículo 44 de la Ley.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2017)</small>
+
 ###### Artículo 33.
 
-Los préstamos Hipotecarios y de Garantía Real que otorgue la Dirección de Pensiones, se garantizarán con hipoteca constituida en primer lugar en su favor, inscrita en el Registro Público de la Propiedad Raíz y del Comercio.
+Los préstamos de garantía hipotecaria que otorga la Dirección de Pensiones, se garantizarán con hipoteca constituida en primer lugar en su favor, inscrita en el Registro Público de la Propiedad o su equivalente.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2017)</small>
 
 ###### Artículo 34.
 
-Los inmuebles que se dejen en garantía de los préstamos hipotecarios y de Garantía Real deberán estar libres de gravamen, salvo el caso de liberación de gravamen, ser urbanos y ubicarse en el Estado.
+Los inmuebles que se dejen en garantía de los préstamos de garantía hipotecaria, deberán estar libres de gravamen, salvo el caso de liberación de gravamen, y que sea urbano. Para el caso de inmuebles ubicados fuera del Estado, se autorizará previo estudio y análisis que haga la Dirección.
 
 ###### Artículo 35.
 
@@ -301,23 +311,27 @@ Salvo en el caso de disfrute del plazo de espera, si se incumple con la obligaci
 
 #### SECCIÓN PRIMERA. DEL PRESTAMO HIPOTECARIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2017)</small>
+
 ###### Artículo 42.
 
-La Dirección de Pensiones de conformidad con lo que disponen los artículos 37 al 45 de la Ley, otorgará a los trabajadores activos cotizantes al fondo de pensiones préstamos Hipotecarios en las modalidades de compra, construcción, mejoras, liberación de gravamen y pago a terceros, por los siguientes montos y por una modalidad a la vez:
+La Dirección de Pensiones de conformidad con lo que disponen los artículos 37, 38, 39, 40, 41, 42, 43, 44 y 45 de la Ley, otorgará a los trabajadores activos cotizantes al fondo de pensiones, préstamos con garantía hipotecaria en las modalidades de: compra, construcción, mejoramiento de vivienda o terreno, liberación de gravamen y de liquidez, por los siguientes montos.
 
-I. En la modalidad de Compra de Casa Habitación y Liberación de Gravamen en caso de que el gravamen sujeto a liberación se haya constituido por motivo de la adquisición de la vivienda:
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2017)</small>
 
-a) Monto de hasta $400,000.00 cuatrocientos mil pesos 00/100 M.N. con descuentos sujetos desde el 30% hasta el 50% del salario base del trabajador a un plazo máximo de 15 años.
+I. Monto de hasta $450,000.00 (Cuatrocientos cincuenta mil pesos 00/100 M.N.) para compra de vivienda y liberación de gravamen, siempre que esté vinculado a la adquisición de ésta, con descuentos del 30% al 50% del salario base del trabajador a un plazo máximo de 15 años.
 
-II. En la modalidad de Compra de Terreno, Construcción, Mejoras y Liberación de Gravamen:
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2017)</small>
 
-a) Monto de hasta $300,000.00 trescientos mil pesos 00/100 M.N. con descuentos sujetos al 50% del salario base del trabajador a un plazo máximo de 15 años; y,
+II. Monto de hasta $350,000.00 (Trescientos cincuenta mil pesos 00/100 M.N.) para compra de terreno, construcción, mejoramiento de vivienda y liberación de gravamen, con descuentos del 30% al 50% del salario base del trabajador a un plazo máximo de 15 años; y,
 
-b) Monto de hasta $250,000.00 doscientos cincuenta mil pesos 00/100 M.N. con descuentos sujetos desde el 30% hasta el 50% del salario base del trabajador a un plazo máximo de 15 años.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2017)</small>
 
-III. En la modalidad de Pago a Terceros el monto del préstamo será hasta $150,000.00 ciento cincuenta mil pesos 00/100 M.N.; siempre y cuando se justifique documentalmente un adeudo ya vencido a cargo del servidor público, pensionado o jubilado.
+III. Monto de hasta $300,000.00 (Trescientos mil pesos 00/100 M.N.) para liquidez, con descuentos del 30% al 50% del salario base del trabajador a un plazo máximo de 15 años.
 
-Para el caso de que los solicitantes sean beneficiados con un subsidio federal otorgado por cualquier Institución, la entrega del préstamo será con base al mayor beneficio para el servidor público, pensionado o jubilado, limitado al monto autorizado por la Junta Directiva.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2017)</small>
+
+Para jubilados y pensionados se estará a lo dispuesto en el artículo 43 segundo párrafo del presente reglamento.
 
 ###### Artículo 43.
 
@@ -325,11 +339,11 @@ La Dirección de Pensiones podrá otorgar préstamos hipotecarios a los servidor
 
 Para los jubilados o pensionados por vejez o invalidez que no cuenten con más de 65 años de edad al presentar la solicitud de préstamo hipotecario, el monto a otorgar será de hasta $80,000.00 ochenta mil pesos 00/100 M.N
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2017)</small>
+
 ###### Artículo 44.
 
-En la modalidad de construcción o mejoramiento de vivienda, el préstamo será otorgado en ministraciones hasta por la cantidad de $100,000.00 cien mil pesos 00/100 M.N, siempre y cuando el 90% del valor del inmueble sea superior a la cantidad referida, en caso contrario, la primera ministración se ajustará según corresponda.
-
-En el caso de los pensionados o jubilados el préstamo en esta modalidad, se otorgará en una sola ministración por el monto respectivo según el préstamo autorizado, siempre y cuando el 90% del valor del inmueble sea superior a la cantidad referida, en caso contrario, la primera ministración se ajustará según corresponda.
+En la modalidad de construcción o mejoramiento de vivienda el préstamo será entregado en una sola exhibición, solo si el 90% del valor del inmueble es superior al monto otorgado.
 
 ###### Artículo 45.
 
@@ -443,85 +457,39 @@ Por aprobación de la Junta Directiva los préstamos generarán un interés anua
 
 ###### Artículo 54.
 
-De conformidad con lo dispuesto en el artículo 55 fracción II de la Ley de Entidades Paraestatales del Estado de Michoacán se otorgaran prestamos de garantía real como parte integrante del plan de inversión de conformidad con lo previsto en la fracción VIII del artículo 21 de la Ley, como parte de las inversiones para fortalecer el fondo de la Institución y poder cumplir con su objeto social.
+(DEROGADO, P.O. 6 DE JUNIO DE 2017)
 
 ###### Artículo 55.
 
-La Dirección de Pensiones, podrá otorgar préstamos con garantía real a los servidores públicos contribuyentes al fondo de pensiones, cuando hayan cotizado por lo menos un año como mínimo y que no cuenten con más de 70 años de edad, así como a los pensionados por jubilación, vejez o invalidez que no cuenten con más de 70 años de edad al presentar la solicitud de préstamo.
+(DEROGADO, P.O. 6 DE JUNIO DE 2017)
 
 ###### Artículo 56.
 
-Los préstamos de garantía real que otorgue la Dirección de Pensiones serán sujetos al presupuesto anual autorizado por la Junta Directiva, atendiendo a la disponibilidad de recursos, el otorgamiento del monto del préstamo será dependiendo del nivel salarial en que se encuentren los solicitantes y el valor del inmueble garante, así como en múltiplos de $5,000.00 cinco mil pesos 00/100 M.N., por los montos siguientes:
-
-I. Monto a otorgar hasta $150,000.00 ciento cincuenta mil pesos 00/100 M.N. a un plazo fijo de 8 años o al 50% del salario base un plazo de hasta 6 años.
-
-II. Monto a otorgar hasta $200,000.00 doscientos mil pesos 00/100 M.N. con descuentos sujetos del 30% hasta el 50% del salario base de cotización y a un plazo de hasta 8 años.
-
-III. Monto a otorgar para los pensionados o jubilados hasta por $50,000.00 cincuenta mil pesos 00/100 M.N., previa verificación de su capacidad de pago.
+(DEROGADO, P.O. 6 DE JUNIO DE 2017)
 
 ###### Artículo 57.
 
-Los servidores públicos, los pensionados o jubilados y (sic) podrán solicitar préstamos de garantía real mancomunados.
+(DEROGADO, P.O. 6 DE JUNIO DE 2017)
 
 ###### Artículo 58.
 
-El proceso de otorgamiento de préstamo de garantía real podrá iniciarlo el servidor público, el pensionado o jubilado, su representante legal o su representante sindical legalmente reconocido, bajo su propia responsabilidad.
+(DEROGADO, P.O. 6 DE JUNIO DE 2017)
 
 ###### Artículo 59.
 
-Es obligatorio que los servidores públicos y en su caso los deudores solidarios, así como representantes legales, firmen el contrato respectivo en la Dirección de Pensiones o en su caso en la presencia de su representante sindical.
+(DEROGADO, P.O. 6 DE JUNIO DE 2017)
 
 ###### Artículo 60.
 
-Para iniciar el trámite de otorgamiento de préstamo de garantía real se deberá presentar ante la Dirección de Pensiones la documentación siguiente:
-
-I. Del solicitante:
-
-a) Solicitud del préstamo de garantía real;
-
-b) Copia de la escritura de propiedad del inmueble dado en garantía;
-
-c) Original del certificado de libertad de gravamen expedido por el Registro Público de la Propiedad Raíz y del Comercio, a 10 o 20 años de acuerdo con la fecha de celebración de la escritura del inmueble; podrá recibirse el certificado con gravámenes, siempre y cuando sean de préstamos otorgados por la Dirección de Pensiones liquidados o vigentes;
-
-d) Avalúo de la propiedad (vigencia 2 años); emitido por perito valuador autorizado por la Comisión Nacional Bancaria y de Valores o por la Secretaría de Finanzas y Administración con la copia de acreditación de perito valuador vigente;
-
-e) Copia del último talón de cheque de pago de nómina, en el caso de pensionados o jubilados, copia de la constancia de pago de pensión;
-
-f) Copia de comprobante de domicilio actualizado;
-
-g) Copia del acta de matrimonio;
-
-h) Copia de acta de nacimiento; y,
-
-i) Copia de identificación oficial (credencial de elector, pasaporte vigente, cédula profesional o cartilla militar).
-
-II. Del deudor solidario:
-
-a) Copia de su identificación oficial (credencial de elector, pasaporte vigente, cédula profesional o cartilla militar);
-
-b) Copia de acta de matrimonio;
-
-c) Copia de acta de nacimiento; y,
-
-d) Comprobante de domicilio actualizado.
-
-III. Del cónyuge (en caso de sociedad conyugal):
-
-a) Copia de acta de nacimiento; y,
-
-b) Copia de su identificación oficial (credencial de elector, pasaporte vigente, cédula profesional o cartilla militar).
-
-La Dirección de Pensiones podrá solicitar más requisitos si legalmente los considera necesarios para el trámite.
+(DEROGADO, P.O. 6 DE JUNIO DE 2017)
 
 ###### Artículo 61.
 
-Para los servidores públicos contribuyentes al fondo de pensiones, el plazo máximo para la redención del préstamo hipotecario será de hasta 8 años de conformidad con la elección de la modalidad del préstamo por parte del solicitante.
-
-Para los pensionados por jubilación, vejez e invalidez, el plazo máximo para la redención del préstamo será de 6 años o 144 descuentos quincenales de pagos fijos.
+(DEROGADO, P.O. 6 DE JUNIO DE 2017)
 
 ###### Artículo 62.
 
-Por aprobación de la Junta Directiva el interés ordinario será del 9% anual global sobre el monto total otorgado, un seguro hipotecario del 1% sobre el monto total del préstamo, así como el 18 % en caso de moratoria sobre el capital vencido.
+(DEROGADO, P.O. 6 DE JUNIO DE 2017)
 
 #### SECCIÓN TERCERA. DEL PRÉSTAMO A CORTO PLAZO
 
@@ -1120,3 +1088,19 @@ DIRECTOR GENERAL DE PENSIONES
 CIVILES DEL ESTADO DE MICHOACÁN
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 28; SE REFORMAN LOS ARTÍCULOS 29, 33, 34, 42; LAS FRACCIONES I, II Y III DEL ARTICULO 42; 44; SE DEROGAN LOS ARTÍCULOS 54, 55, 56, 57, 58, 59, 60, 61 Y 62; DEL REGLAMENTO PARA EL OTORGAMIENTO DE PRESTACIONES DE LA DIRECCIÓN DE PENSIONES CIVILES DEL ESTADO DE MICHOACÁN”.]
+
+PRIMERO. La presente reforma entrará en vigor a partir del día 1º de mayo de 2017, previa publicación que se haga en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Todos los trámites para el otorgamiento de Préstamos en las modalidades y montos que sean recibidos hasta antes de la entrada en vigor de la presente reforma, seguirán su curso normal hasta su conclusión.
+
+TERCERO. Los servidores públicos que antes de la entrada en vigor de la presente reforma cuenten con un préstamo con garantía hipotecaria o de garantía real, podrán optar por migrar su crédito o solicitar otro en la modalidad de liquidez, siempre y cuando se esté en lo dispuesto por el artículo 29 del presente Reglamento. No procederá el préstamo de liquidez a la par de uno de garantía real vigente.
+
+CUARTO. Se deja sin efectos todas las menciones que dentro del presente Reglamento se hagan del crédito o préstamo de garantía real, pero aquellos que a la fecha de entrada en vigor de la presente reforma se encuentren vigentes, la Dirección continuará descontando las amortizaciones hasta su finiquito.
+
+QUINTO. La Dirección procederá a realizar las modificaciones administrativas necesarias y difundirá todo lo relacionado con el contenido de la presente reforma, hará las comunicaciones legales a que haya lugar y observará su debido cumplimiento.
