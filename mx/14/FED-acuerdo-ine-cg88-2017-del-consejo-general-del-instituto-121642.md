@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg88-2017-del-consejo-general-del-instituto-121642"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-05-29"
-last_updated: "2017-05-29"
+last_updated: "2017-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121642&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-03-28"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL PROCESO TÉCNICO OPERATIVO Y CONSIDERACIONES GENERALES PARA LA OPERACIÓN DEL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES DEL ESTADO DE VERACRUZ EN EL PROCESO ELECTORAL LOCAL ORDINARIO 2016-2017
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JUNIO DE 2017.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 29 de mayo de 2017.
 
@@ -31,7 +31,7 @@ ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUE
 
 ANTECEDENTES
 
-[…]
+[...]
 
 CONSIDERANDO
 
@@ -75,6 +75,116 @@ El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General c
 
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
+El anexo puede ser consultado en la siguiente dirección electrónica: http://portalanterior.ine.mx/archivos2/portal/historico/contenido/recursos/IFE-v2/DS/DS-CG/DSSesionesCG/CG-acuerdos/2017/03_Marzo/CGex201703-28-1/CGex201703-28-ap-11-2-a1.pdf
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 6 DE JUNIO DE 2017.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICA EL PROCESO TÉCNICO OPERATIVO DEL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES DEL ESTADO DE VERACRUZ EN EL PROCESO ELECTORAL LOCAL ORDINARIO 2016-2017, APROBADO MEDIANTE ACUERDO INE/CG88/2017, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Primero.- Se aprueba modificar el Proceso Técnico Operativo del Programa de Resultados Electorales Preliminares del estado de Veracruz para el Proceso Electoral local 2016-2017, aprobado mediante Acuerdo INE/CG88/2017, en los siguientes términos:
+
+Se agregan en el numeral 3 los incisos c), e) y r), con los respectivos cambios en la numeración de los incisos subsecuentes:
+
+3. Para los efectos del presente, se entiende por:
+
+[...]
+
+c) Aplicación CATD Celular: Aplicativo para dispositivos móviles, tipo celular. La función del aplicativo es tomar la imagen de las Actas PREP, incluyendo su identificación.
+
+[...]
+
+e) CATD Celular: CATD que opera, para la digitalización de Acta PREP, a través de la aplicación CATD Celular y no cuenta con un MCAD.
+
+[...]
+
+r) PREP Casilla: Aplicativo para dispositivos móviles, tipo celular. La función del aplicativo es tomar la imagen de las Actas PREP, incluyendo su identificación, desde la casilla.
+
+[...]
+
+Se adiciona un párrafo al numeral 8, para quedar como sigue:
+
+8.
+
+[...]
+
+En los CATD Celular, la fecha y hora de acopio del Acta PREP será la de su digitalización a través de la aplicación CATD Celular. No se utilizará DSA.
+
+En el numeral 11 se agrega un párrafo, y queda de la siguiente manera:
+
+11.
+
+[...]
+
+En los CATD Celular, se debe tomar la imagen digital del Acta PREP por medio del dispositivo móvil, tipo celular, aprovisionado para este fin, mediante la aplicación CATD Celular, este aplicativo enviará la imagen capturada por medio del dispositivo móvil al MCAD correspondiente.
+
+Se agrega el siguiente párrafo al numeral 12:
+
+12.
+
+[...]
+
+En caso de que la imagen provenga de un CATD Celular se deberá notificar al Coordinador del CATD Celular correspondiente, a efecto de solicitarle capture nuevamente, a través de la aplicación CATD Celular, la imagen del Acta PREP.
+
+[...]
+
+El numeral 32, inciso b), punto iii, segundo párrafo, se modifica, y queda de la siguiente manera:
+
+32.
+
+[...]
+
+b)
+
+[...]
+
+iii.
+
+[...]
+
+En caso de que en la sede del Consejo Municipal no se encuentre el CATD, la digitalización del Acta PREP se realizará a través de la aplicación CATD Celular, la fecha y hora de acopio será la de su digitalización a través de dicha aplicación. A dicha acta no se le deberá pegar código QR y debe ser devuelta al Consejo Municipal.
+
+En el mismo numeral 32, inciso b), al final del punto iv se agrega el siguiente párrafo:
+
+32.
+
+[...]
+
+b)
+
+[...]
+
+iv.
+
+[...]
+
+En los CATD Celular, la fecha y hora de acopio del Acta PREP será la de su digitalización a través de la aplicación CATD Celular. No se utilizará DSA.
+
+Se agrega el numeral 33, con la modificación en la numeración subsecuente, quedando de la siguiente forma:
+
+33. En el caso de las imágenes recibidas en el MCAD y digitalizadas por medio de dispositivos móviles, tipo celular, si el MCAD no realiza una lectura correcta del código o se detecta una inconsistencia en los datos de identificación del Acta, se debe ingresar la información de manera manual en el MCAD.
+
+El numeral 36 (anteriormente numeral 35) se modifica, y queda de la siguiente manera:
+
+36. En caso de que, como parte de los procedimientos que ejecuten los Capacitadores Asistentes Electorales durante el desarrollo de la Jornada Electoral, se considere la digitalización de las Actas PREP desde las casillas, pueden utilizarse esas imágenes del Acta PREP para la ejecución de este proceso técnico operativo, lo que implica que, una vez obtenida la imagen a través de la aplicación PREP Casilla, debe incorporarse al MCAD correspondiente para continuar la ejecución del proceso.
+
+El numeral 39 (anteriormente numeral 38) se modifica, y queda de la siguiente manera:
+
+39. En aquellos Consejos Municipales en los que no sea instalado un CATD, o siendo instalado un CATD, no sea posible realizar el proceso de digitalización, deberá implementarse un operativo para el trasladado oportuno de los Sobres PREP que contienen las Actas PREP, hacia un CATD instalado y operando; el personal del OPLE Veracruz es el responsable de determinar, coordinar y ejecutar este traslado de Sobres PREP.
+
+Segundo.- Toda referencia al Proceso Técnico Operativo del Programa de Resultados Electorales Preliminares del estado de Veracruz para el Proceso Electoral local ordinario 2016-2017, aprobado mediante Acuerdo INE/CG88/2017, se entenderá como si se refiriera al Proceso Técnico Operativo del Programa de Resultados Electorales Preliminares del estado de Veracruz para el Proceso Electoral local ordinario 2016-2017, que forma parte integral del presente Acuerdo.
+
+Tercero.- Se determina que la operación del Programa de Resultados Electorales Preliminares del estado de Veracruz, se llevará a cabo conforme al Proceso Técnico Operativo, que forma parte integral de este Acuerdo.
+
+Cuarto.- Hágase del conocimiento del Consejo Local y los Consejos Distritales del Instituto Nacional Electoral en el estado de Veracruz, así como al Organismo Público Local Electoral del estado de Veracruz el contenido del presente Acuerdo, así como del Proceso Técnico Operativo del Programa de Resultados Electorales Preliminares del estado de Veracruz para el Proceso Electoral local ordinario 2016-2017, que forma parte integral del presente.
+
+Quinto.- El presente Acuerdo y el Proceso Técnico Operativo que se aprueba, entrarán en vigor a partir de su aprobación por el Consejo General del Instituto Nacional Electoral.
+
+Sexto.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la página de internet del Instituto Nacional Electoral.
+
+[…]
+
 El anexo puede ser consultado en la siguiente dirección electrónica:
 
-http://portalanterior.ine.mx/archivos2/portal/historico/contenido/recursos/IFE-v2/DS/DS-CG/DSSesionesCG/CG-acuerdos/2017/03_Marzo/CGex201703-28-1/CGex201703-28-ap-11-2-a1.pdf
+http://portalanterior.ine.mx/archivos2/portal/historico/contenido/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CG-acuerdos/2017/04_Abril/CGex201704-26/CGex201704-26-ap-5-2-a1.pdf
