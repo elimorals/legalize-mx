@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-economico-del-estado-de-jalisco-87111"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2017-01-17"
+last_updated: "2017-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2017.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -53,9 +53,11 @@ De las Actividades del Desarrollo Económico.
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2017)</small>
+
 ###### Artículo 1.
 
-Esta ley es de orden público, de interés social y de observancia general en el estado de Jalisco. Tiene como objetivos principales fomentar el desarrollo económico, la productividad y mejorar la competitividad en el estado de Jalisco, procurando la generación de condiciones favorables para el desarrollo sustentable y equitativo de todas las regiones y sectores económicos en la entidad, con el fin de aumentar el ingreso de sus habitantes y mejorar su calidad de vida.
+Esta ley es de orden-público, de interés social y de observancia general en el estado de Jalisco. Tiene como objetivos principales fomentar el desarrollo económico, la productividad, la cooperación y mejorar la competitividad en el estado de Jalisco, procurando la generación de condiciones favorables para el desarrollo sustentable y equitativo de todas las regiones y sectores económicos en la entidad, con el fin de, aumentar el ingreso de sus habitantes y mejorar su calidad de vida.
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2013)</small>
 
@@ -93,7 +95,9 @@ XII. Procesos productivos: secuencia de actividades requeridas para la elaboraci
 
 XIII. Productividad: relación entre la producción obtenida por un sistema productivo y los recursos utilizados para obtener dicha producción, en el menor tiempo posible.
 
-XIV. Promoción: incentivos de capacitación y difusión que el Gobierno del Estado, a través de la Secretaria de Promoción Económica y las demás instancias públicas facultadas, otorga a los proyectos productivos, con aplicación a corto plazo, para el desarrollo de su crecimiento en forma sostenible y autosustentable;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2017)</small>
+
+XIV. Promoción: Incentivos de capacitación y difusión que el Gobierno del Estado, a través de la Secretaría de Desarrollo Económico y las demás instancias públicas facultadas, otorga a los proyectos productivos, con aplicación a corto plazo, para el desarrollo de su crecimiento en forma sostenible y autosustentable;
 
 XV. Proyectos productivos: conjunto de actividades coordinadas y planificadas en torno a un objetivo específico, para la generación de rentabilidad económica ante un capital de inversión dado;
 
@@ -161,11 +165,15 @@ XI. Inducir, mediante planes y programas específicos para cada región y sector
 
 XII. Alentar la preferencia del sector público y privado, por las empresas jaliscienses, en la asignación de obra y adquisición de bienes y servicios;
 
-XIII. Fomentar la generación de empleos y su conservación, la construcción de una cultura emprendedora y del autoempleo, en especial en las zonas más desprotegidas en el Estado, mediante la aplicación de programas de promoción económica de contenido social;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2017)</small>
+
+XIII. Fomentar la generación de empleos y su conservación, la construcción de una cultura emprendedora, de cooperación y del autoempleo, en especial en las zonas más desprotegidas en el Estado, mediante la aplicación de programas de promoción económica de contenido social;
 
 XIV. Impulsar permanentemente la mejora regulatoria y la simplificación administrativa entre las dependencias gubernamentales federales, estatales y municipales y estimular la mejora de los procesos jurisdiccionales y sus índices de competitividad, así como promover la seguridad jurídica de los inversionistas en la entidad;
 
-XV. Apoyar la creación y desarrollo de centros de innovación, de emprendimiento y de investigación científica y tecnológica, que fortalezcan a los sectores productivos de la entidad y a las entidades gubernamentales, en la elaboración de mejores planes y políticas públicas en materia de desarrollo económico y competitividad;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2017)</small>
+
+XV. Apoyar la creación y desarrollo de centros de innovación, de emprendimiento y de investigación científica y tecnológica, que fortalezcan a los sectores productivos de la entidad y a las entidades gubernamentales, en la elaboración de mejores planes y políticas públicas en materia de desarrollo económico, cooperación y competitividad;
 
 XVI. Promover el aprovechamiento de los recursos y ventajas competitivas de la entidad;
 
@@ -465,9 +473,17 @@ VIII. Fomentar la creación de centros regionales de comercialización de produc
 
 IX. Instrumentar acciones que favorezcan el desarrollo de la Competitividad;
 
-X. Promover y estimular ferias y exposiciones que favorezcan y difundan los productos jaliscienses,
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2017)</small>
 
-XI. Impulsar el fortalecimiento financiero, administrativo, comercial, tecnológico y de exportación, mediante estrategias regionales y sectoriales determinadas en esta Ley, en el Plan Estatal de Desarrollo, los programas y acciones de la propia Secretaría y los demás ordenamientos y programas vinculantes.
+X. Promover y estimular ferias y exposiciones que favorezcan y difundan los productos jaliscienses;
+
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2017)</small>
+
+XI. Impulsar el fortalecimiento financiero, administrativo, comercial, tecnológico y de exportación, mediante estrategias regionales y sectoriales determinadas en esta Ley, en el Plan Estatal de Desarrollo, los programas y acciones de la propia Secretaría y los demás ordenamientos y programas vinculantes; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JUNIO DE 2017)</small>
+
+XII. Promover la cooperación entre las empresas, procurando la formación de cadenas productivas y clústeres.
 
 ###### Artículo 25.
 
@@ -480,6 +496,8 @@ Las dependencias de la administración pública estatal, sus organismos público
 ### Capítulo I. De la Secretaría de Desarrollo Económico
 
 ###### Artículo 26.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE JUNIO DE 2017)</small>
 
 Para los efectos de esta Ley, la Secretaría tiene las siguientes atribuciones:
 
@@ -507,9 +525,17 @@ f. Promover y apoyar la investigación científica y de desarrollo tecnológico 
 
 g. Impulsar la formación de organismos financieros, fideicomisos mercantiles, fondos y otros instrumentos para obtener recursos para el desarrollo económico del estado;
 
-h. Impulsar el desarrollo de energías alternativas y el uso de tecnologías limpias que protejan y mejoren el medio ambiente, y
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2017)</small>
 
-i. Las demás acciones que considere necesarias y convenientes para el desarrollo económico del estado;
+h. Impulsar el desarrollo de energías alternativas y el uso de tecnologías limpias que protejan y mejoren el medio y (sic) ambiente;
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2017)</small>
+
+i. Promover la cooperación entre las empresas del Estado; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JUNIO DE 2017)</small>
+
+j. Las demás acciones que considere necesarias y convenientes para el desarrollo económico del estado;
 
 VI. Para los casos en que la Secretaría hubiese acudido como solicitante ante el Consejo:
 
@@ -1504,3 +1530,9 @@ P.O. 17 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 26180/LXI/16 QUE REFORMA EL ARTÍCULO 34 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 6 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26365/LXI/17 QUE REFORMA LOS ARTÍCULOS 1°, 3°, 6°, 24 Y 26 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
