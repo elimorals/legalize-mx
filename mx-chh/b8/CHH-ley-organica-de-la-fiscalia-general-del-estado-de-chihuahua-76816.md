@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2017-02-22"
+last_updated: "2017-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -45,13 +47,11 @@ Se expide la Ley Orgánica de la Fiscalía General del Estado de Chihuahua, para
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1.
 
-La Fiscalía General del Estado es la Dependencia del Poder Ejecutivo encargada de las áreas de Seguridad Pública y Prevención del Delito; Investigación y Persecución del Delito; Atención a Víctimas del Delito y de Violaciones a los Derechos Humanos; y Ejecución de Penas y Medidas Judiciales.
+La Fiscalía General del Estado es la dependencia del Poder Ejecutivo del Estado encargada de las áreas de: Seguridad Pública y Prevención del Delito; Investigación y Persecución del Delito; Atención a Víctimas del Delito y de Violaciones a los Derechos Humanos; de Ejecución de Penas y Medidas Judiciales; Investigación de Violaciones a Derechos Humanos; Operaciones Estratégicas, y Combate a la Corrupción. La Fiscalía se organizará en un sistema de regionalización y especialización.
 
 ###### Artículo 2.
 
@@ -67,7 +67,9 @@ II. Establecer un sistema integral de investigación, destinado a obtener, anali
 
 III. Implementar acciones tendientes a prevenir el comportamiento criminal;
 
-IV. Formular al Ejecutivo Estatal las propuestas necesarias para la elaboración del Programa Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+IV. Formular al Ejecutivo Estatal las propuestas necesarias para la elaboración del Plan Estatal de Seguridad Pública;
 
 V. Proponer al Ejecutivo del Estado las medidas que garanticen la congruencia de la política pública en materia de seguridad, prevención del delito y reinserción social de los delincuentes entre las Direcciones de Seguridad Pública Municipal y/o comandancias de policía, en el ámbito de sus respectivas competencias;
 
@@ -75,7 +77,9 @@ VI. Representar al titular del Poder Ejecutivo en el Consejo Estatal de Segurida
 
 VII. Proponer, en el seno del Consejo Estatal de Seguridad Pública, los medios indispensables para la prevención de la criminalidad y la comisión de delitos e infracciones;
 
-VIII. Suministrar, intercambiar y sistematizar la información sobre seguridad pública, prevención, investigación y persecución del delito, imputados, procesados, sentenciados y reos a través del Centro Estatal de Estadística Criminal, con las demás autoridades estatales y municipales;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+VIII. Suministrar, intercambiar y sistematizar la información sobre seguridad pública, prevención, investigación y persecución del delito, imputados, procesados, sentenciados y reos a través del Centro Estatal de Información, Análisis y Estadística Criminal, con las demás autoridades estatales y municipales;
 
 IX. Fomentar a nivel estatal la participación ciudadana, en la formulación y desarrollo de programas de prevención;
 
@@ -85,11 +89,13 @@ XI. Celebrar convenios de colaboración, en el ámbito de su competencia y en el
 
 XII. Dirigir y vigilar el cumplimiento de las leyes y reglamentos, con relación a las funciones de Protección Civil, y organizar el funcionamiento de las direcciones que ejerzan dichas atribuciones.
 
-B.- En materia de Investigación y Persecución del Delito:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
 
-La Institución del Ministerio Público local y sus órganos auxiliares directos, se integran en la Fiscalía General del Estado para el despacho de los asuntos que le atribuyen la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, la presente Ley y las demás disposiciones legales y reglamentarias aplicables.
+B. En materia de Investigación y Persecución del Delito, las que de acuerdo con la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, la presente Ley y las demás disposiciones legales y reglamentarias encomienden al Ministerio Público del Estado.
 
-La Institución del Ministerio Público local, presidida por el Fiscal General del Estado, y éste personalmente, tienen las siguientes atribuciones:
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+
+La Institución del Ministerio Público local, presidida por el Fiscal General del Estado, y este personalmente, tienen las siguientes atribuciones:
 
 I. Vigilar la observancia de los principios de constitucionalidad y legalidad en el ámbito de su competencia, sin perjuicio de las facultades que legalmente correspondan a otras autoridades jurisdiccionales o administrativas;
 
@@ -105,119 +111,251 @@ VI. Dictar las medidas adecuadas para combatir y erradicar la violencia contra l
 
 VII. Otorgar la protección que la ley prevé a los derechos de las víctimas, estableciendo y reforzando mecanismos jurídicos y administrativos que permitan obtener la reparación del daño;
 
-VIII. Ejercer el mando sobre la Policía Estatal Única en los términos de su Ley Orgánica y de las demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-IX. Ejercitar las acciones legales en materia del Sistema Especializado de Justicia para Adolescentes Infractores;
+VIII. Ejercer el mando sobre la Agencia Estatal de Investigación, en los términos de su Ley Orgánica y de las demás disposiciones aplicables;
 
-X. Organizar, dirigir y supervisar la Escuela Estatal de Policía, el Centro Estatal de Control de Confianza, los Centros de Control, Comando, Comunicaciones y Cómputo, los Laboratorios de la Dirección de Servicios Periciales y Ciencias Forenses, el Centro de Justicia Alternativa y las demás Unidades Técnicas y Administrativas que establezcan las leyes y sus reglamentos, y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+IX. Ejercitar las acciones legales en materia de Justicia para Adolescentes Infractores;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+X. Organizar, dirigir y supervisar los Centros de Control, Comando, Comunicaciones y Cómputo, la Dirección de Servicios Periciales y Ciencias Forenses, el Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal y las demás Unidades Técnicas y Administrativas que establezcan las leyes y sus reglamentos;
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
 XI. Crear y operar la Unidad Especializada para la Investigación y persecución de los delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la cual contará con Ministerios Públicos y policías especializados, así como con los recursos humanos, financieros y materiales que requiera para su efectiva operación. Esta Unidad se integrará con servicios periciales y técnicos especializados para el ejercicio de su función, y
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-XII. Aplicar los mecanismos legales para el Ingreso, Promoción, Permanencia, Responsabilidades y Estímulos de los servidores de la Fiscalía General del Estado.
+XII. Las demás que le encomienden las disposiciones legales al Ministerio Público del Estado.
 
 El Fiscal General intervendrá por sí o por conducto de las Fiscalías Especializadas, o de los Agentes del Ministerio Público, en el ejercicio de las atribuciones a que se refiere este apartado, según las previsiones de las leyes y reglamentos y los acuerdos que dicte el Ejecutivo local o el propio Fiscal General. El Reglamento prevendrá la distribución de los asuntos entre las Unidades Técnicas y Administrativas de la Dependencia.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 C.- En materia de Atención a Víctimas del Delito y de Violaciones a los Derechos Humanos: Las previstas para las entidades federativas en la Ley General de Víctimas, así como las que le correspondan directamente o por conducto de su órgano desconcentrado Comisión Ejecutiva de Atención a Víctimas del Estado de Chihuahua, de conformidad con la Ley estatal en la materia.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 I. (DEROGADA, P.O. 27 DE FEBRERO DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 II. (DEROGADA, P.O. 27 DE FEBRERO DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 III. (DEROGADA, P.O. 27 DE FEBRERO DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 IV. (DEROGADA, P.O. 27 DE FEBRERO DE 2016)
 
 D.- En materia de Ejecución de Penas y Medidas Judiciales:
 
-I. Diseñar la política penitenciaria en los delitos del orden local; desarrollar el procedimiento de ejecución de sanciones penales, así como organizar y dirigir los programas a liberados, sentenciados o procesados; de igual forma, diseñar, coordinar, supervisar, organizar y administrar los programas de atención integral y los de seguimiento requeridos para la ejecución de medidas de adolescentes infractores, en los términos de la legislación de la materia;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-II. Vigilar el adecuado funcionamiento de las cárceles y establecimientos penitenciarios, así como el de los centros especializados de internamiento para adolescentes y demás instituciones similares;
+I. Diseñar la política penitenciaria en los delitos del orden local;
 
-III. Participar, conforme a los convenios respectivos, en el traslado de los internos de los Centros de Reclusión en el Estado;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-IV. Diseñar la política criminal para la aplicación de las medidas de seguridad a los imputables adultos que están sometidos a procedimiento especial, y
+II. Desarrollar el procedimiento de ejecución de sanciones penales, así como organizar y dirigir los programas a liberados, sentenciados o procesados;
 
-V. Las demás que le atribuyan expresamente las leyes o reglamentos.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+III. Diseñar, coordinar, supervisar, organizar y administrar los programas de atención integral y de seguimiento requeridos para la ejecución de medidas de adolescentes infractores, en los términos de la legislación de la materia;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+IV. Vigilar el adecuado funcionamiento de las cárceles y establecimientos penitenciarios, así como el de los centros especializados de internamiento para adolescentes y demás instituciones similares;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+V. Participar, conforme a los convenios respectivos, en el traslado de los internos de los Centros de Reinserción Social en el Estado;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+VI. Diseñar la política criminal para la aplicación de las medidas de seguridad a los imputables adultos que están sometidos a procedimiento especial, y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+VII. Las demás que le atribuyan expresamente las leyes o reglamentos.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+E. En materia de Investigación de Violaciones a Derechos Humanos:
+
+I. Establecer una política de priorización de casos para la investigación de violaciones a derechos humanos;
+
+II. Dirigir, coordinar y concentrar las investigaciones que otras Fiscalías Especializadas o Fiscalías de Distrito por Zonas inicien o hayan iniciado y que se prioricen, con motivo de la investigación de un hecho probablemente delictuoso, en el que se adviertan violaciones graves a derechos humanos;
+
+III. Llevar a cabo las atribuciones de acuerdo con la metodología propia de las investigaciones de los crímenes de sistema, entendiendo por tal, aquellos hechos que deben ser considerados no en forma aislada, sino que se ejecutan en forma sistemática o generalizada como parte de un contexto, en las que participen personas o estructuras bajo patrones de criminalidad;
+
+IV. Identificar a los imputados y ejercer la acción penal ante la autoridad jurisdiccional competente en los casos en que haya tenido conocimiento por la política de priorización;
+
+V. Dirigir las actividades de los agentes del Ministerio Público que estén adscritos, en la investigación de los delitos relacionados con casos de violaciones a derechos humanos;
+
+VI. Implementar las directrices de actuaciones del personal a su cargo, en los procesos iniciados ante los jueces y tribunales del Poder Judicial del Estado;
+
+VII. Verificar y dar seguimiento dentro de las investigaciones, a la implementación y cumplimiento de las medidas cautelares que correspondan y a las que soliciten los órganos protectores de derechos humanos;
+
+VIII. Llevar el Registro de personas desaparecidas en el Estado de Chihuahua;
+
+IX. Concentrar en las Unidades especializadas en búsqueda e investigación de hechos de desaparición de personas en cada zona, los casos ocurridos en los municipios que estas comprenden;
+
+X. Vigilar, en el ámbito de su competencia, que se cumplan las gestiones necesarias para la protección de testigos e intervinientes en el procedimiento penal, y
+
+XI. Las demás que establezcan las disposiciones normativas correspondientes.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+F. En materia de Operaciones Estratégicas, las previstas en el apartado B de este artículo respecto de los delitos de secuestro, extorsión, y cualquier asunto que por su naturaleza, relevancia o impacto, instruya el Fiscal General.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+G. En materia de Combate a la Corrupción:
+
+I. Ejercer las atribuciones previstas en el apartado B de este artículo respecto de los delitos relacionados con hechos de corrupción comprendidos en los tipos penales que establece el Código Penal en el Título Décimo Séptimo denominado "Delitos contra el Servicio Público cometidos por Servidores Públicos" y Título Décimo Noveno llamado "Delitos en contra del Adecuado Desarrollo de la Justicia cometidos por Servidores Públicos", así como cualquier otro delito conexo que se tipifique en el mismo Código Penal o en leyes especiales, en cuya comisión hubiese intervenido como autor o partícipe, un servidor público del Estado o de los Municipios o de las entidades de la administración pública paraestatal o paramunicipal, respectivamente, en ejercicio o con motivo de su empleo, cargo o comisión;
+
+II. Recibir denuncias anónimas y realizar las actuaciones necesarias para verificar la veracidad o no de hechos y evidencias para la detección de actos u omisiones que sean constitutivos de un delito relacionado con hechos de corrupción;
+
+III. Solicitar información a las instituciones públicas;
+
+IV. Coordinar su actuación con las demás unidades administrativas de la Fiscalía General del Estado y de la administración pública Federal o Estatal;
+
+V. Formular los requerimientos de información y de documentos relativos a hechos de corrupción;
+
+VI. Recibir las quejas o denuncias referentes a hechos de corrupción, para su investigación;
+
+VII. Establecer tanto medidas precautorias como mecanismos necesarios para la reparación del daño;
+
+VIII. Establecer mecanismos de cooperación y colaboración con autoridades federales, estatales y municipales, a través de la firma de convenios con instituciones u organismos públicos o privados, nacionales o extranjeros, y
+
+IX. Crear y difundir programas, proyectos y estudios permanentes de información y fomento a la cultura de la denuncia y de la legalidad en relación a esta materia.
 
 ### CAPÍTULO II. De la Organización
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+
 ###### Artículo 3.
 
-La Fiscalía General del Estado está a cargo de un Fiscal General, designado en los términos que establecen la Constitución Política del Estado y la Ley Orgánica del Poder Ejecutivo del Estado, integrándose por los siguientes órganos:
+La Fiscalía General del Estado está a cargo de un Fiscal General y se integra por los siguientes órganos:
 
-I. Las Fiscalías Especializadas en Seguridad Pública y Prevención del Delito;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-II. Las Fiscalías Especializadas en Investigación y Persecución del Delito;
+I. La Fiscalía Especializada en Control, Análisis y Evaluación;
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+II. Las Fiscalías de Distrito por Zonas;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
 III. La Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-IV. (DEROGADA, P.O. 27 DE FEBRERO DE 2016)
+IV. La Fiscalía Especializada en Operaciones Estratégicas;
 
-V. La Fiscalía Especializada en Control, Análisis y Evaluación;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-VI. La Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales; y
+V. La Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales;
 
-> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-VII. Los agentes del Ministerio Público.
+VI. La Fiscalía Especializada en Investigación de Violaciones a Derechos Humanos;
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-El Fiscal General del Estado y los Fiscales Especializados en la Investigación y Persecución del Delito; en Atención a Mujeres Víctimas del Delito por Razones de Género; en Control, Análisis y Evaluación, y en la Ejecución de Penas y Medidas Judiciales, intervendrán como representantes del Ministerio Público, de acuerdo con las facultades otorgadas por la ley y las expresamente conferidas por el Fiscal General del Estado.
+VII. La Fiscalía Especializada en Combate a la Corrupción;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+VIII. Los Agentes del Ministerio Público, y
 
-Para cumplir con las obligaciones dispuestas en la Ley General de Víctimas, así como en la legislación estatal en la materia, la Fiscalía General del Estado cuenta con la Comisión Ejecutiva de Atención a Víctimas del Estado de Chihuahua, como órgano desconcentrado con autonomía técnica y de gestión.
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2016)</small>
+IX. La Agencia Estatal de Investigación.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+El Fiscal General del Estado y los Fiscales Especializados en Atención a Mujeres Víctimas del Delito por Razones de Género; en Control, Análisis y Evaluación; en Ejecución de Penas y Medidas Judiciales, en Investigación de Violaciones a Derechos Humanos; en Operaciones Estratégicas; en Combate a la Corrupción y los Fiscales de Distrito por Zonas, intervendrán como representantes del Ministerio Público, de acuerdo con las facultades otorgadas por la ley y las expresamente conferidas por el Fiscal General del Estado.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 4.
 
-Para el ejercicio de las funciones sustantivas, forman parte de la Fiscalía General del Estado: La Policía Estatal Única, el Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal, la Dirección de Servicios Periciales y Ciencias Forenses, el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Estadística Criminal, las Casas de Atención a Víctimas y Ofendidos del Delito, el Centro Estatal de Control de Confianza, la Escuela Estatal de Policía, el Centro de Atención Integral a la Salud, los Centros de Reinserción Social, los Centros de Control, Comando, Comunicaciones y Cómputo y las demás Unidades Técnicas y Administrativas que establezcan sus leyes y reglamentos.
+Para el ejercicio de sus funciones sustantivas, forman parte de la Fiscalía General del Estado:
+
+I. La Dirección de Servicios Periciales y Ciencias Forenses;
+
+II. El Centro Estatal de Información, Análisis y Estadística Criminal;
+
+III. La Coordinación Estatal de Protección Civil;
+
+IV. La Dirección del Centro Estatal de Prevención Social de la Violencia y la Delincuencia, con Participación Ciudadana; y
+
+V. Las demás unidades orgánicas y administrativas que establezcan las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+###### Artículo 4 Bis.
+
+La Fiscalía General del Estado contará con las siguientes unidades de apoyo, asesoría y consulta:
+
+I. La Dirección General de Administración y Sistemas;
+
+II. La Dirección General Jurídica, y
+
+III. Las demás que establezcan las leyes y reglamentos.
+
+Las anteriores unidades ejercerán sus atribuciones y desarrollarán sus actividades de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+###### Artículo 4 Ter.
+
+La Fiscalía General del Estado contará con los siguientes órganos administrativos desconcentrados:
+
+I. La Comisión Estatal de Seguridad;
+
+II. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+
+III. La Comisión Ejecutiva de Atención a Víctimas; y
+
+IV. El Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 5.
 
-En la investigación de los delitos o en el ejercicio de la acción penal, serán auxiliares del Ministerio Público las corporaciones de seguridad pública de los municipios, así como las corporaciones de seguridad privada.
+Para efectos de operación de los órganos y demás unidades de la Fiscalía General, el territorio del Estado estará dividido en cuatro zonas geográficas de la siguiente manera:
 
-Todas las autoridades del Estado están obligadas a prestar colaboración inmediata y a proporcionar los datos que les requieran los representantes del Ministerio Público, en ejercicio de sus funciones. Si no se trata de información confidencial, en los términos de la Ley, les facilitarán acceso a libros, documentos y registros, y si les solicitan informes por escrito, deberán atender la petición en un término no mayor de setenta y dos horas.
+I. Zona Norte, con sede en Ciudad Juárez, y comprende los Distritos Judiciales Bravos y Galeana;
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2011)</small>
+II. Zona Centro, con sede en la ciudad de Chihuahua, y comprende los Distritos Judiciales Morelos, Abraham González, Camargo y Manuel Ojinaga;
+
+III. Zona Sur, con sede en la ciudad de Hidalgo del Parral, y comprende los Distritos Judiciales Hidalgo, Jiménez, Andrés del Río y Mina, y
+
+IV. Zona Occidente, con sede en Ciudad Cuauhtémoc, y comprende los Distritos Judiciales Benito Juárez, Guerrero, Rayón y Arteaga.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 5 Bis.
 
+En la investigación de los delitos o en el ejercicio de la acción penal, son auxiliares del Ministerio Público las corporaciones de seguridad pública de los municipios, así como las corporaciones de seguridad privada.
+
+Todas las autoridades del Estado y de los Municipios, están obligadas a prestar colaboración inmediata y a proporcionar los datos que les requieran los representantes del Ministerio Público, en ejercicio de sus funciones. Si no se trata de información confidencial, en los términos de la Ley, les facilitarán acceso a libros, documentos y registros, y si les solicitan informes por escrito, deberán atender la petición en un término no mayor de setenta y dos horas.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+###### Artículo 5 Ter.
+
 La Unidad de Asistencia y Práctica Ministerial es un área administrativa auxiliar del Ministerio Público, de acuerdo con las siguientes disposiciones:
 
-I. Se integra por licenciados, pasantes o estudiantes en curso de los dos últimos semestres de las carreras de derecho, criminología, psicología o afines, mediante convocatoria que la Fiscalía General expedirá en conjunto con las instituciones de educación superior que deseen participar. Dicha convocatoria establecerá, entre otros requisitos, el de acreditar un examen de control de confianza.
+I. Se integra por licenciados, pasantes o estudiantes en curso de los dos últimos semestres de las carreras de derecho, criminología, psicología o afines, mediante convocatoria que la Fiscalía General expedirá en conjunto con las instituciones de educación superior que deseen participar. Dicha convocatoria establecerá, entre otros requisitos, el de acreditar un examen de control de confianza;
 
-II. La Escuela Estatal de Policía, en colaboración con las señaladas instituciones, tendrá a su cargo el diseño del plan de estudios específico de capacitación para la asistencia al Ministerio Público en las áreas pericial y de investigación, de acuerdo con el área de adscripción.
+II. El Instituto Estatal de Seguridad Pública, en colaboración con las señaladas instituciones, tendrá a su cargo el diseño del plan de estudios específico de capacitación para la asistencia al Ministerio Público en las áreas pericial y de investigación, de acuerdo con el área de adscripción;
 
-III. La Unidad de Asistencia y Práctica Ministerial auxiliará al Ministerio Público en el cumplimiento de las atribuciones previstas en el artículo 2, apartado B, con excepción de aquellas que sean exclusivas del Fiscal; así como en el artículo 12, con las especificaciones y limitaciones que por acuerdo dicte el Fiscal General. La duración del servicio auxiliar será de un año.
+III. La Unidad de Asistencia y Práctica Ministerial auxiliará al Ministerio Público en el cumplimiento de las atribuciones previstas en el artículo 2, apartado B, con excepción de aquellas que sean exclusivas del Fiscal; así como en el artículo 12, con las especificaciones y limitaciones que por acuerdo dicte el Fiscal General. La duración del servicio auxiliar será de un año;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
-
-IV. Los integrantes de la Unidad recibirán una beca económica como contraprestación por sus servicios auxiliares y tendrán al término de los mismos, en igualdad de circunstancias con otros aspirantes, el derecho preferencial para ingresar al servicio profesional de carrera ministerial en los términos de la Ley del Sistema Estatal de Seguridad Pública.
+IV. Los Integrantes de la Unidad recibirán una beca económica como contraprestación por sus servicios auxiliares y tendrán al término de los mismos, en igualdad de circunstancias con otros aspirantes, el derecho preferencial para ingresar al servicio profesional de carrera ministerial en los términos de la Ley del Sistema Estatal de Seguridad Pública.
 
 ### CAPÍTULO III. De la Fiscalía General del Estado
 
@@ -225,7 +363,9 @@ IV. Los integrantes de la Unidad recibirán una beca económica como contraprest
 
 El Fiscal General del Estado, tiene las siguientes atribuciones:
 
-I. Ejercer por sí, o por conducto de las Fiscalías Especializadas y demás Órganos de la Fiscalía General, las atribuciones a que se refiere el artículo 2 del presente ordenamiento;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+I. Ejercer por sí, o por conducto de las Fiscalías Especializadas, Fiscalías de Distrito por Zonas y demás unidades orgánicas, administrativas y órganos administrativos desconcentrados de la Fiscalía General, las atribuciones a que se refiere el artículo 2 del presente ordenamiento.
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2011)</small>
 
@@ -241,51 +381,85 @@ VI. Establecer coordinaciones regionales, agencias, oficinas y departamentos, co
 
 VII. Emitir instrucciones de carácter particular, o general, al personal a su cargo, sobre el ejercicio de sus funciones y, salvo excepción legal, delegar las atribuciones propias de su cargo a sus subordinados;
 
-VIII. Pronunciarse sobre las inconformidades que se hicieran valer contra las actuaciones de los agentes del Ministerio Público que no fueran revisables por los jueces de garantía. Tales impugnaciones deberán hacerse valer dentro de los tres días hábiles siguientes a la fecha de su notificación;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+VIII. Pronunciarse sobre las inconformidades que se hicieran valer contra las actuaciones y demás determinaciones de los agentes del Ministerio Público dentro del procedimiento penal, que no fueran revisables por los jueces de Control. Tales impugnaciones deberán hacerse valer dentro de los tres días hábiles siguientes a la fecha de su notificación.
 
 IX. Celebrar contratos o convenios para el mejor desempeño de sus funciones;
 
-X. Proponer el anteproyecto de presupuesto anual de egresos de la Institución y someterlo a la consideración de la Secretaría correspondiente;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+X. Proponer el anteproyecto de presupuesto anual de egresos de la Institución y someterlo a la consideración de la Secretaría de Hacienda.
 
 XI. Comparecer ante el Congreso del Estado para informar de los asuntos a su cargo;
 
-XII. Asistir a las sesiones del Pleno del Supremo Tribunal de Justicia; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+XII. Asistir a las sesiones del Pleno del Tribunal Superior de Justicia del Estado.
 
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2016)</small>
 
 XIII. Ejercer las que le concede la presente Ley en relación al Fondo Auxiliar para la Procuración de Justicia.
 
-> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2017)</small>
 
-XIV. Las demás que le confieran las leyes y reglamentos.
+XIV. Crear Unidades Especializadas para la Investigación de cualquier Delito.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2017)</small>
+
+XV. Las demás que le confieran las leyes y reglamentos.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 7.
 
-Las Fiscalías Especializadas en Seguridad Pública y Prevención del Delito serán cuatro, y se ubicarán de la siguiente manera:
+La Fiscalía Especializada en Control, Análisis y Evaluación, estará a cargo de un Fiscal Especializado, la cual ejercerá las siguientes atribuciones:
 
-I.- Zona Norte, con sede en Ciudad Juárez, y comprende los distritos judiciales de Bravos y Galeana;
+I. Vigilar el manejo eficiente y eficaz de los recursos humanos y materiales, así como para la mejora continua de la Fiscalía General;
 
-II.- Zona Centro, con sede en la ciudad de Chihuahua, y comprende los distritos judiciales de Morelos, Abraham González, Camargo y Manuel Ojinaga;
+II. Organizar, dirigir y supervisar el Instituto Estatal de Seguridad Pública, el Centro Estatal de Evaluación y Control de Confianza y el Centro de Atención Integral de la Salud;
 
-III.- Zona Sur, con sede en la ciudad de Hidalgo del Parral, y comprende los distritos judiciales de Hidalgo, Jiménez, Andrés del Río y Mina; y
+III. Aplicar, por conducto de los Órganos e instancias correspondientes, los mecanismos legales para el Ingreso, Promoción, Permanencia, Responsabilidades y Estímulos de los Integrantes de las Instituciones de Seguridad Pública del Estado.
 
-IV.- Zona Occidente, con sede en Ciudad Cuauhtémoc, y comprende los distritos judiciales de Benito Juárez, Guerrero, Rayón y Arteaga.
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
 
-Las fiscalías a que se refiere este artículo, ejercerán las atribuciones a que se refiere el apartado A del artículo 2 de esta Ley, con excepción de las que sean exclusivas del Fiscal General.
+###### Artículo 7 Bis.
+
+Para el ejercicio de sus atribuciones, la Fiscalía Especializada en Control, Análisis y Evaluación, contará con las unidades orgánicas siguientes:
+
+I. Dirección del Instituto Estatal de Seguridad Pública;
+
+II. Dirección de Inspección Interna, quien se auxiliará de cuatro coordinaciones conforme a la distribución territorial señalada en el artículo 5 de la presente Ley;
+
+III. Dirección del Centro Estatal de Evaluación y Control de Confianza.
+
+Las unidades orgánicas anteriores desarrollarán sus atribuciones de conformidad con las disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+###### Artículo 7 Ter.
+
+Adicionalmente, la Fiscalía Especializada en Control, Análisis y Evaluación, tendrá las siguientes atribuciones:
+
+I. Participar en los procesos para el Ingreso, Promoción, Permanencia, Responsabilidades, Ascensos, así como Estímulos de los Integrantes de las Instituciones de Seguridad Pública del Estado, en los términos de las disposiciones legales y demás normatividad aplicables;
+
+II. Ejercer una vigilancia en el manejo eficiente y eficaz de los recursos humanos y materiales, así como para la mejora continua de la Fiscalía General;
+
+III. Ordenar y realizar la práctica de revisiones a los expedientes de averiguación previa, carpetas de investigación y, en general, a la actuación de los agentes del Ministerio Público y peritos, e instruir los procedimientos de separación o remoción o de responsabilidad por las faltas u omisiones en la investigación o persecución del delito.
+
+Para los efectos del procedimiento de separación y del régimen disciplinario que establece la Ley del Sistema Estatal de Seguridad Pública, la Fiscalía Especializada en Control, Análisis y Evaluación podrá determinar como medida cautelar la suspensión en el servicio, cargo o comisión del probable infractor sujeto a procedimiento, con un ingreso mínimo que permita su subsistencia, el cual no podrá ser inferior al salario tabular más bajo que se cubra en la Fiscalía General del Estado y, consecuentemente se le siga prestando el servicio médico, para no afectar el servicio a la institución o a la realización de las investigaciones, informando de ello a la Comisión del Servicio Profesional de Carrera, Honor y Justicia en la solicitud de inicio de dicho procedimiento. Para hacer efectivas sus determinaciones podrá dictar los siguientes medios de apremio:
+
+a) Apercibimiento.
+
+b) Multa hasta por el equivalente a quince veces la Unidad de Medida y Actualización vigente en la capital del Estado al momento de su imposición.
+
+c) Arresto hasta por treinta y seis horas, en su caso.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 8.
 
-Las Fiscalías Especializadas en Investigación y Persecución del Delito serán cuatro, y se ubicarán de la siguiente manera:
-
-I.- Zona Norte, con sede en Ciudad Juárez, y comprende los distritos judiciales de Bravos y Galeana;
-
-II.- Zona Centro, con sede en la ciudad de Chihuahua, y comprende los distritos judiciales de Morelos, Abraham González, Camargo y Manuel Ojinaga;
-
-III.- Zona Sur, con sede en la ciudad de Hidalgo del Parral, y comprende los distritos judiciales de Hidalgo, Jiménez, Andrés del Río y Mina; y
-
-IV.- Zona Occidente, con sede en Ciudad Cuauhtémoc, y comprende los distritos judiciales de Benito Juárez, Guerrero, Rayón y Arteaga.
-
-Las fiscalías a que se refiere este artículo, ejercerán las atribuciones a que se refiere el apartado B del artículo 2° de esta Ley, con excepción de las que sean exclusivas del Fiscal General.
+Las Fiscalías de Distrito por Zonas serán cuatro, conforme a la distribución territorial señalada en el artículo 5 de esta Ley, a cargo de un Fiscal de Distrito, las que ejercerán las atribuciones descritas en el apartado B del artículo 2 de este ordenamiento.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE FEBRERO DE 2012)</small>
 
@@ -305,49 +479,99 @@ d) Desaparición de mujeres respecto de hechos no vinculados a la delincuencia o
 
 e) Discriminación por razones de género.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+f) Delitos en materia de trata de personas previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, inclusive tratándose de niños en los términos de las disposiciones aplicables.
+
 B. La atención psicológica, médica y otras, en los casos de violencia contra las mujeres en los delitos o hechos contemplados en el apartado A de este artículo, en coordinación con otros órganos o unidades administrativas de la Fiscalía General que proporcionen los servicios a que se refiere el presente apartado.
 
 C. La canalización a víctimas u ofendidos, en los casos de los apartados anteriores, hacia las dependencias o instituciones que proporcionen los servicios de carácter tutelar, asistencial, preventivo, educacional y demás de contenido similar, así como la vigilancia de su debida atención.
 
-Este órgano estará a cargo de un Fiscal Especializado, quien contará con el apoyo de cuatro Coordinaciones Regionales de Ministerio Público y Policía Ministerial de Investigación del Delito, de las unidades administrativas necesarias y demás personal que requiera para el cumplimiento de sus funciones. En todo caso, el personal adscrito a esta Fiscalía deberá contar con el perfil especializado que corresponda a la naturaleza propia de sus funciones.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+Este órgano estará a cargo de un Fiscal Especializado, quien se auxiliará en sus funciones de cuatro Coordinaciones conforme a la distribución territorial señalada en el artículo 5 de la presente Ley, las que se integrarán con un titular, los agentes del Ministerio Público y de Policía de Investigación del Delito, así como de las unidades administrativas necesarias y demás personal que se requiera. El personal adscrito a esta Fiscalía deberá contar con el perfil especializado que corresponda a la naturaleza propia de sus funciones.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+###### Artículo 8 Ter.
+
+La Fiscalía Especializada en Operaciones Estratégicas, tendrá a su cargo las funciones descritas en los apartados B y F del artículo 2 de esta Ley, cuando se trate de hechos o conductas delictivas consistentes en:
+
+I. Secuestro;
+
+II. Extorsión, y
+
+III. Cualquier asunto que por su naturaleza, relevancia o impacto, instruya el Fiscal General.
+
+Esta Fiscalía, estará a cargo de un Fiscal Especializado y podrá contar con coordinaciones regionales, conforme a la disponibilidad presupuestal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 9.
 
-(DEROGADO, P.O. 27 DE FEBRERO DE 2016)
+La Comisión Ejecutiva de Atención a Víctimas desarrollará las funciones descritas en al apartado C del artículo 2 de esta Ley.
+
+La Comisión Ejecutiva de Atención a Víctimas podrá contar con establecimientos de albergues, refugios y casas de medio camino especializados para las víctimas, ofendidos y testigos, en los términos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, donde se garantice un alojamiento digno por el tiempo necesario, asistencia material, médica, psiquiátrica, psicológica, social, alimentación y cuidados, atendiendo a sus necesidades y a su evolución.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 10.
 
-La Fiscalía Especializada en Control, Análisis y Evaluación, tendrá las siguientes atribuciones:
+La Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales ejercerá las atribuciones contenidas en el apartado D del artículo 2 de esta Ley y demás disposiciones aplicables, estará a cargo de un Fiscal Especializado, quien se auxiliará de las siguientes unidades:
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+I. Dirección de Ejecución de Penas y Medidas Judiciales.
 
-I. Participar en los procesos para el Ingreso, Promoción, Permanencia, Responsabilidades, Ascensos, así como Estímulos de los Integrantes de las Instituciones de Seguridad Pública del Estado, en los términos de las disposiciones legales y demás normatividad aplicables;
+II. Dirección de los Centros de Reinserción Social.
 
-II. Ejercer un sistema de control para el manejo eficiente y eficaz de los recursos humanos y materiales, así como para la mejora continua de la Fiscalía General, y
+III. Dirección de Reinserción Social.
 
-III. Organizar, dirigir y supervisar la Escuela Estatal de Policía, el Centro Estatal de Control de Confianza y el Centro de Atención Integral de la salud.
-
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
-
-IV. Ordenar y realizar la práctica de revisiones a los expedientes de averiguación previa, carpetas de investigación y, en general, a la actuación de los agentes del Ministerio Público y peritos
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2013)</small>
-
-Para los efectos del procedimiento de separación y del régimen disciplinario que establece la Ley del Sistema Estatal de Seguridad Pública, la Fiscalía Especializada podrá determinar como medida cautelar la suspensión en el servicio, cargo o comisión del probable infractor sujeto a procedimiento, sin el pago de la remuneración diaria ordinaria, para no afectar el servicio, a la institución o a la realización de las investigaciones, informando de ello a la Comisión del Servicio Profesional de Carrera, Honor y Justicia en la solicitud de inicio de dicho procedimiento. Para hacer efectivas sus determinaciones podrá dictar los siguientes medios de apremio:
-
-a) Apercibimiento.
-
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
-
-b) Multa hasta por el equivalente a quince veces el valor diario de la Unidad de Medida y Actualización al momento de su imposición.
-
-c) Arresto hasta por treinta y seis horas.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 11.
 
-La Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales ejercerá las atribuciones contenidas en el apartado D del artículo 2 de esta Ley y demás disposiciones legales aplicables.
+La Fiscalía Especializada en Investigación de Violaciones a Derechos Humanos tendrá a su cargo:
+
+I. El ejercicio de las atribuciones descritas en los apartados B y E del artículo 2 de esta Ley, en los hechos que determine el Fiscal General del Estado, o el servidor público en quien se delegue la facultad, atendiendo a los criterios de priorización determinados en el Reglamento Interior de la Fiscalía General, o mediante acuerdo que al efecto emita el Fiscal General y siempre que se trate de investigaciones respecto a alguna de las siguientes conductas delictivas:
+
+a. Tortura;
+
+b. Desaparición forzada de personas;
+
+c. Discriminación;
+
+d. Delitos cometidos en contra de personas defensoras de derechos humanos, periodistas o comunicadores, cuando estén relacionados con la función o actividad que desempeñen;
+
+e. Delitos relacionados con la desaparición de personas;
+
+f. Cualquier otro delito que por las circunstancias del caso, la situación o condición de las víctimas o del contexto en que haya ocurrido, determine el Fiscal General del Estado, o el servidor público a quien delegue dicha facultad, bajo los parámetros antes establecidos.
+
+Las víctimas de los delitos competencia de esta Fiscalía Especializada, las autoridades de la federación, o las organizaciones civiles, podrán solicitar a su titular, que en los supuestos y con los requisitos establecidos en esta fracción, asuma la competencia quien resolverá mediante acuerdo fundado y motivado, siempre que exista conformidad expresa de la víctima u ofendido.
+
+II. La búsqueda de personas desaparecidas forzada e involuntariamente y la coordinación con aquellas fiscalías que realicen búsqueda de mujeres y niñas desaparecidas.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+###### Artículo 11 Bis.
+
+La Fiscalía Especializada en Investigación de Violaciones a Derechos Humanos estará a cargo de un Fiscal Especializado, quien se auxiliará de las siguientes unidades de:
+
+I. Análisis y Contexto;
+
+II. Búsqueda y Control de Registro de personas desaparecidas en el Estado;
+
+III. Investigación de delitos relacionados con personas desaparecidas;
+
+IV. Investigación de delitos contra personas defensoras de derechos humanos y periodistas y demás señalados en el artículo 11 de esta ley;
+
+V. Las demás que determinen las disposiciones aplicables y que autorice el presupuesto.
+
+Las facultades o atribuciones de cada una de las unidades se determinarán en el Reglamento Interior de la Fiscalía General del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+###### Artículo 11 Ter.
+
+La Fiscalía Especializada en Combate a la Corrupción tendrá a su cargo las atribuciones descritas en los apartados B y G del artículo 2 de esta Ley, estará a cargo de un Fiscal Especializado, quien podrá auxiliarse en sus funciones de Coordinaciones conforme a la disponibilidad presupuestal, las que se integrarán con un titular, los agentes del Ministerio Público y de Policía de Investigación del Delito, así como de las unidades administrativas necesarias y demás personal que se requiera.
 
 ###### Artículo 12.
 
@@ -357,7 +581,9 @@ I. Dirigir las investigaciones penales que les fueren asignadas;
 
 II. Promover las acciones penales, civiles y administrativas e interponer los recursos correspondientes, conforme a lo establecido en las leyes de la materia;
 
-III. Velar para que el imputado sea instruido en sus derechos constitucionales;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+III. Velar para que el imputado sea instruido en sus derechos humanos;
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -365,13 +591,17 @@ IV. Citar u ordenar la presentación de cualquier persona, siempre que ello sea 
 
 V. Vigilar que los derechos de la víctima u ofendido sean adecuadamente tutelados;
 
-VI. Promover la conciliación y los acuerdos reparatorios entre la víctima u ofendido y el imputado, en los casos autorizados por la ley;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+VI. En los casos en que proceda, remitir el asunto al Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal;
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 VII. Solicitar la aplicación de los criterios de oportunidad, el sobreseimiento del proceso, la suspensión condicional del proceso y la apertura del procedimiento abreviado, en los supuestos previstos por la Ley;
 
-VIII. Vigilar la correcta aplicación de la ley, en los casos de delitos cometidos por miembros de pueblos o comunidades indígenas;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+VIII. Vigilar, con un enfoque diferenciado e integral, la correcta aplicación de la ley, así como la estricta observancia y respeto a los derechos humanos, en los casos de delitos que involucren a pueblos o comunidades indígenas;
 
 IX. Intervenir en los asuntos relativos a los menores de edad, personas con discapacidad y adultos mayores, en los casos previstos en las leyes civiles y procesales que correspondan;
 
@@ -379,19 +609,105 @@ X. Certificar todas las actuaciones, documentos y medios de investigación que o
 
 XI. Las demás que les otorguen las leyes correspondientes.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
 ###### Artículo 13.
 
-Los agentes del Ministerio Público podrán actuar válidamente, en ejercicio de sus funciones, en cualquier lugar del territorio estatal, y bastará que muestren su identificación para que puedan intervenir en los asuntos a su cargo.
+Los agentes del Ministerio Público podrán actuar válidamente, en el ejercicio de sus funciones, en todo el territorio del Estado, mostrando su identificación siempre que sea requerido para ello, salvo los casos de excepción previstos en la ley.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 14.
 
-La División de Investigación depende de la Policía Estatal Única y se encuentra bajo la autoridad y mando del Ministerio Público, teniendo la organización y atribuciones establecidas en el Reglamento respectivo.
+La Agencia Estatal de Investigación es la unidad orgánica de la Fiscalía General del Estado y contará para el ejercicio de sus atribuciones con la siguiente estructura orgánica:
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2016)</small>
+I. Un Coordinador General;
+
+II. Cuatro Coordinaciones Regionales en los términos del artículo 5 de esta Ley.
+
+III. Un Coordinador para todas las Fiscalías Especializadas que tengan funciones de Investigación y Persecución del delito, distintas a las de Zona;
+
+IV. Un Coordinador de Seguridad, Custodia Penitenciaria y uno de Vigilancia de Audiencias Judiciales;
+
+V. Subcoordinadores Regionales de conformidad a la disponibilidad presupuestal;
+
+VI. Jefes de grupos adscritos a las unidades de investigación;
+
+VII. Los agentes de investigación adscritos a las unidades de investigación.
+
+En el ejercicio de sus funciones recibirá las órdenes de investigación de los delitos directamente de los Fiscales Especializados o de los Fiscales de Distrito por Zonas, Coordinadores de las Unidades de Investigación y los agentes del Ministerio Público de que se trate, de conformidad con la legislación procesal penal, la Ley del Sistema Estatal de Seguridad Pública y demás disposiciones aplicables.
+
+El Coordinador de Seguridad, Custodia Penitenciaria y el de Vigilancia de Audiencias Judiciales y las unidades orgánicas que dependan de él, estarán para el debido cumplimiento de las atribuciones que señalen las disposiciones correspondientes, bajo las órdenes del Titular de la Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales.
+
+El mando previsto en la fracción I tendrá la jerarquía de Comisario Jefe, los descritos en las fracciones de la II a la IV tendrán la Jerarquía de Comisario, el descrito en la fracción V asumirá la Jerarquía de Inspector Jefe, los de la fracción VI obtendrán la Jerarquía de Inspector, los de la fracción VII que tengan el nombramiento como agentes "A", tendrán la Jerarquía de Oficial y los agentes "B" de Suboficial de conformidad con lo dispuesto en los artículos 152, 153 y 157, todos ellos de la Ley del Sistema Estatal de Seguridad Pública.
+
+Las Jerarquías de las fracciones I, II y III, V y VI serán de libre designación por parte del Fiscal General del Estado y su asignación solo podrá recaer en elementos de seguridad pública que tengan el nombramiento de Oficial conforme al párrafo anterior, por lo que al término de su gestión o encargo, volverán al grado de Oficial. Las jerarquías de Oficial y Suboficial forman parte del Servicio Profesional de Carrera. Para la designación de la jerarquía descrita en la fracción IV se atenderán las disposiciones señaladas en el artículo 157 de la Ley del Sistema Estatal de Seguridad Púbica (sic).
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 15.
 
-La Policía Estatal Única, el Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal, la Dirección de Servicios Periciales y Ciencias Forenses, el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Estadística Criminal, las Casas de Atención a Víctimas y Ofendidos del Delito, el Centro Estatal de Control de Confianza, la Escuela Estatal de Policía, el Centro de Atención Integral a la Salud, los Centros de Reinserción Social, los Centros de Control, Comando, Comunicaciones y Cómputo, y las demás Unidades Técnicas y Administrativas tendrán las (sic) estructura y las atribuciones que establezcan sus leyes y reglamentos.
+La Comisión Estatal de Seguridad es el órgano administrativo desconcentrado de la Fiscalía General del Estado que estará a cargo de un Comisionado Estatal, propuesto por el Fiscal General y nombrado por el Gobernador del Estado, dotado de autonomía técnica, encargada de ejercer la función de la seguridad pública, para cuyos efectos contará con las siguientes unidades:
+
+I. División de Fuerzas Estatales;
+
+II. División de Operaciones Especiales;
+
+III. División de Inteligencia;
+
+IV. División de Policía Vial;
+
+V. División de Operaciones Rurales;
+
+VI. División de Seguridad Bancaria y Comercial, y
+
+VII. Las demás unidades que determinen las leyes y reglamentos.
+
+La Comisión Estatal de Seguridad contará con un Director General Operativo que asumirá la jerarquía de Comisario General y en cada División de las señaladas en este artículo habrá un Director que tendrá la jerarquía de Comisario Jefe, todos los Directores serán designados por el Fiscal General y nombrados por el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+###### Artículo 15 Bis.
+
+La Dirección de Servicios Periciales y Ciencias Forenses es la unidad técnica y científica de la Fiscalía General del Estado que, con el carácter de auxiliar y bajo el mando directo del Ministerio Público, coadyuva con este en la investigación y persecución de los delitos, para lo cual se apoyará en cuatro Departamentos conforme a la distribución territorial señalada en el artículo 5 de la presente Ley.
+
+La prestación de servicios por parte de la Dirección de Servicios Periciales y Ciencias Forenses solicitados por funcionarios u órganos del Estado distintos del Ministerio Público, así como por personas físicas o morales de derecho privado, se sujetará a la tarifa para el cobro de derechos contenida en la Ley de Ingresos para el ejercicio fiscal correspondiente.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+###### Artículo 15 Ter.
+
+La Dirección del Centro Estatal de Prevención Social de la Violencia y la Delincuencia, con Participación Ciudadana, es la unidad sustantiva de la Fiscalía General del Estado que tiene a su cargo el área de Prevención del Delito, con las atribuciones señaladas en el apartado A del artículo 2 de la presente Ley y las descritas en otros dispositivos legales, para lo cual se apoyará de las Unidades Orgánicas que señalen las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+###### Artículo 15 Quáter.
+
+El Centro Estatal de Información, Análisis y Estadística Criminal es el órgano de la Fiscalía General que tiene a su cargo el registro, control, administración y almacenamiento de la información generada por el Sistema Estatal de Seguridad Pública, para lo cual se auxiliará de las siguientes unidades:
+
+I. La Dirección de Estadística Criminal.
+
+II. La Dirección de Integración y Evaluación de Información Delictiva.
+
+III. La Dirección de Análisis de Evidencia Digital e Informática Forense.
+
+IV. La Dirección de la Coordinación del Centro de Control, Comando, Comunicaciones y Cómputo.
+
+La información generada por el Sistema Estatal de Seguridad Pública es confidencial y reservada, por lo que solo será suministrada a las Instituciones de Seguridad Pública en los términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+Artículo 15 Quintus. La Coordinación Estatal de Protección Civil es la unidad técnica de la Fiscalía General del Estado que tiene a su cargo realizar las acciones necesarias con el fin de prevenir, proteger y salvaguardar a las personas, los bienes públicos, privados y el entorno ante la posibilidad de un siniestro o desastre, producido por causa de origen natural o humano.
+
+Ejercerá sus atribuciones conforme a las disposiciones de la Ley Estatal de Protección Civil, auxiliándose de las siguientes unidades:
+
+I. Departamento de Coordinación de Vinculación.
+
+II. Departamento Operativo.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+Artículo 15 Sextus. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública es un órgano administrativo desconcentrado de la Fiscalía General del Estado, dotado de autonomía técnica y de gestión, con las atribuciones descritas en la Ley del Sistema Estatal de Seguridad Pública y demás disposiciones aplicables, para cuyos efectos contará con la Dirección de Planeación, Control de Recursos y Programas Federales.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 18 DE JUNIO DE 2016)</small>
 
@@ -463,41 +779,59 @@ El Fiscal General del Estado será nombrado en los términos de la Constitución
 
 Para ser Fiscal General del Estado se requiere cumplir con los requisitos que establece el artículo 121 de la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
 ###### Artículo 19.
 
-Los Fiscales Especializados serán designados por el Fiscal General del Estado. El Gobernador les extenderá su nombramiento, pudiendo removerlos libremente.
+Los Fiscales Especializados y los Fiscales de Distrito por Zonas serán nombrados por el Gobernador del Estado a propuesta del Fiscal General, todo el personal de la Fiscalía salvo los casos determinados por la Ley, será de libre designación por el Fiscal General, quien podrá removerlos libremente en cualquier tiempo.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+El personal sustantivo de la Fiscalía, esto es Ministerios Públicos, Peritos e Instituciones Policiales, cuyo ingreso, permanencia, promoción, conclusión del servicio, separación y remoción se regirán por las disposiciones de esta normatividad y las relativas de la Ley del Sistema Estatal de Seguridad Pública. El personal sindicalizado se regirá por el Código Administrativo, por las Condiciones Generales de Trabajo del Gobierno del Estado de Chihuahua y los Reglamentos respectivos.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+Los Fiscales Especializados y Fiscales de Distritos por Zonas, deberán cumplir con los mismos requisitos que la Constitución del Estado exige para ser Fiscal General. Para ser Comisionado deberá contar con estudios a nivel licenciatura y cumplir los mismos requisitos exigidos para los Fiscales Especializados, y acreditar experiencia vinculada con la Seguridad Pública. En el caso del Coordinador Ejecutivo de la Comisión Ejecutiva de Atención a Víctimas del Estado, este deberá contar con Licenciatura en Derecho, Psicología, Trabajo Social o cualquier otra afín a la naturaleza del cargo.
 
-Los Fiscales Especializados deberán cumplir con los mismos requisitos que la Constitución del Estado exige para ser Fiscal General. Tratándose de la Fiscalía Especializada en Seguridad Pública y Prevención del Delito, podrá tener Licenciatura distinta a la de Derecho. En el caso del Coordinador Ejecutivo de la Comisión Ejecutiva de Atención a Víctimas del Estado, este deberá contar con Licenciatura en Derecho, en Psicología, en Trabajo Social o cualquier otra afín a la naturaleza del cargo.
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+###### Artículo 19 Bis.
+
+El Fiscal General del Estado podrá designar libremente para atender los requerimientos del servicio, a Policías, Agentes del Ministerio Público y Peritos, los cuales no formarán parte del Servicio Profesional de Carrera, hasta en tanto cumplan con los requisitos establecidos en el artículo 60 de la Ley del Sistema Estatal de Seguridad Pública, con excepción de los señalados en su fracción V.
+
+Los nombramientos tendrán una vigencia determinada y podrán renovarse por el tiempo que determine el Fiscal General y pueden concluir en cualquier momento.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 20.
 
-Los demás funcionarios y servidores públicos de la Fiscalía General del Estado serán nombrados y removidos libremente por el Fiscal General, salvo los agentes del Ministerio Público y peritos, así como los integrantes de las Instituciones Policiales del Estado, cuyo ingreso, permanencia, promoción, conclusión, separación y remoción se regirá por las disposiciones relativas de la Ley del Sistema Estatal de Seguridad Pública.
+El Fiscal Especializado en Combate a la Corrupción, será nombrado en los mismos términos constitucionales en que es designado el Fiscal General del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 21.
 
-(DEROGADO, P.O. 12 DE OCTUBRE DE 2013)
+El Fiscal General o la persona en quien delegue esta facultad, podrá determinar el cambio de adscripción o centro de trabajo de todo el personal de la Fiscalía.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 22.
 
-El Fiscal General podrá libremente designar, remover y cambiar de adscripción, al personal operativo, de mandos medios y directivos de la Institución.
+Las ausencias temporales de los funcionarios y otros servidores públicos de la Fiscalía General del Estado serán suplidas de la siguiente manera:
+
+I. Las del Fiscal General, por el Fiscal Especializado en Control, Análisis y Evaluación o, a falta de este, por alguno de los Fiscales señalados en el orden previsto en el artículo 3, en relación con el 5 de esta Ley.
+
+II. Las de los Fiscales Especializados y los Fiscales de Distrito por Zonas, por quien designe el Fiscal General.
+
+III. Las de los agentes del Ministerio Público, por quien designe el Fiscal Especializado, el Fiscal de Distrito de Zona o el titular de la unidad orgánica o administrativa de su adscripción.
+
+IV. Los Coordinadores de la Agencia Estatal de Investigación, los Directores Generales y de los titulares de los órganos administrativos desconcentrados, por quien designe el Fiscal General.
+
+V. Las del Titular de la Comisión Estatal de Seguridad, por su Director General Operativo.
+
+VI. Las de los jefes de departamento y oficina, por quien designe su superior jerárquico.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 23.
 
-El personal que integra la Fiscalía General del Estado, se suplirá en sus ausencias de la siguiente manera:
-
-I. Las del Fiscal General del Estado por el Fiscal Especializado en Control, Análisis y Evaluación;
-
-II. Las de los Fiscales Especializados por quien designe el Fiscal General del Estado;
-
-III. Las de los agentes del Ministerio Público, por el personal que designe el Fiscal Especializado de su adscripción, y
-
-IV. En los lugares donde sólo haya un Agente del Ministerio Público, su ausencia será suplida por quien designe su superior.
+Los integrantes de las Instituciones de Seguridad Pública del Estado, se regirán por lo dispuesto en la presente Ley, en lo previsto en la Ley del Sistema Estatal de Seguridad Pública y por los Reglamentos respectivos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE OCTUBRE DE 2013)</small>
 
@@ -921,7 +1255,7 @@ El presente Decreto entrará en vigor en todo el territorio del Estado al día s
 
 P.O. 22 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXV/RFCLC/0266/2017 I P.E. POR EL QUE "SE REFORMA EL ARTÍCULO 10, SEGUNDO PÁRRAFO, INCISO B) DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA".]
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXV/RFCLC/0266/2017 I P.E. POR EL QUE “SE REFORMA EL ARTÍCULO 10, SEGUNDO PÁRRAFO, INCISO B) DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -934,3 +1268,187 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 7 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0340/2017 II P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA Y LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se faculta a la Fiscalía General del Estado y a la Secretaría de Hacienda para que, de conformidad con las disposiciones legales vigentes y con estricta sujeción a las disponibilidades de gasto previstas en el Presupuesto de Egresos del Estado de Chihuahua, para el Ejercicio Fiscal del Año 2017, instrumenten y lleven a cabo lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La instrumentación a que se refiere el Transitorio Tercero anterior, no supone ni significa afectación o menoscabo en modo alguno a los derechos de los servidores públicos actualmente adscritos a la Fiscalía General del Estado.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se emiten las disposiciones reglamentarias a que se refiere la fracción I del artículo 11 de la Ley Orgánica de la Fiscalía General del Estado de Chihuahua, que se reforma conforme al Artículo Segundo del presente Decreto, el Fiscal General del Estado dictará los criterios de priorización a que deberá atender la Fiscalía Especializada en Investigación de Violaciones a Derechos Humanos.
+
+###### ARTÍCULO SEXTO.
+
+A la entrada en vigor del presente Decreto, los asuntos en trámite ante la Fiscalía Especializada en Seguridad Pública y Prevención del Delito, se proseguirán por la Dirección del Centro Estatal de Prevención Social de la Violencia y la Delincuencia, con Participación Ciudadana, de conformidad con las normas vigentes al momento de su inicio.
+
+###### ARTÍCULO SÉPTIMO.
+
+En el momento en que entre en vigor el presente Decreto, las carpetas de investigación, los recursos humanos, materiales y financieros y en general todos los asuntos que actualmente se estén atendiendo por las Fiscalías Especializadas en Investigación y Persecución del delito de las diferentes Zonas, esto es, Norte, Sur, Centro y Occidente, de esta Fiscalía General del Estado, pasarán a formar parte de las Fiscalías de Distrito por Zona, según corresponda por su región.
+
+###### ARTÍCULO OCTAVO.
+
+Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpetas de investigación, órdenes de aprehensión y en general todos los asuntos que actualmente se estén atendiendo por la División de Investigación del Delito de la Policía Estatal Única, pasarán a la Agencia Estatal de Investigación, que se crea por virtud de las adiciones y reformas a que se refiere el presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+A la entrada en vigor del presente Decreto, todos los asuntos actualmente a cargo de las Divisiones Preventiva, de Reacción y de Vialidad y Tránsito de la Policía Estatal Única, pasarán a la División correspondiente de la Comisión Estatal de Seguridad que se crea por virtud de las adiciones y reformas a que se refiere el presente Decreto, de acuerdo a su naturaleza jurídica, orgánica y operativa.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos de separación y del régimen disciplinario iniciados ante las Comisiones del Servicio Profesional de Carrera, Honor y Justicia correspondientes, con anterioridad a la entrada en vigor del presente Decreto, se proseguirán en los términos previstos en las disposiciones legales y reglamentarias vigentes al momento de su inicio.
+
+###### ARTÍCULO UNDÉCIMO.
+
+A la entrada en vigor del presente Decreto, el personal del Ministerio Público, Policías y Peritos de la Fiscalía General del Estado que actualmente laboran y no forman parte del Servicio Profesional de Carrera, podrán ingresar a este, cumpliendo los requisitos establecidos en el artículo 60 de la Ley del Sistema Estatal de Seguridad Pública, con excepción de los señalados en su fracción V, asimismo, deberán presentar y aprobar el examen de oposición correspondiente.
+
+###### ARTÍCULO DUODÉCIMO.
+
+Dentro de los 365 días naturales a la entrada en vigor del presente Decreto, la Fiscalía General del Estado convocará al examen de oposición señalado en el artículo que antecede. El personal que no se presente a la práctica de dicho examen, no ingresará al Servicio Profesional de Carrera y será de libre designación por parte del Fiscal General.
+
+ARTÍCULO DECIMOTERCERO.- A la entrada en vigor del presente Decreto, todos los recursos humanos, materiales y financieros que formen parte de la Escuela Estatal de Policía, pasarán a integrarse al Instituto Estatal de Seguridad Pública.
+
+Los trámites de acreditación, certificación y en general todos aquellos que en materia académica hayan sido iniciados con anterioridad a la entrada en vigor del presente Decreto, serán concluidos en lo particular por el Instituto Estatal de Seguridad Pública, de conformidad con lo que determinen las autoridades competentes de la materia.
+
+ARTÍCULO DECIMOCUARTO.- La Fiscalía General del Estado realizará los trámites administrativos para la armonización de las plazas de Ministerios Públicos, Policías y Peritos de conformidad con las disposiciones de la Ley del Sistema Estatal de Seguridad Pública, misma que se describe en la siguiente tabla.
+
+PLAZAS ADMINISTRATIVAS ACTUALES JERARQUÍAS DEL SERVICIO
+
+PROFESIONAL DE CARRERA
+
+POLICÍA DE INVESTIGACIÓN
+
+Coordinador Regional de la Policía Oficial de la Policía de
+
+Ministerial Investigadora. Investigación.
+
+Coordinador Especial "A" de la Policía Oficial de la Policía de
+
+Ministerial Investigadora. Investigación.
+
+Coordinador Especial "B" de la Policía Suboficial de la Policía de
+
+Ministerial Investigadora Investigación.
+
+Agente "A" de la Policía Ministerial Oficial de la Policía de
+
+Investigadora. Investigación.
+
+Agente "B" de la Policía Ministerial Suboficial de la Policía de
+
+Investigadora. Investigación.
+
+POLICÍA DE SEGURIDAD Y CUSTODIA
+
+Celador "A" (Seguridad y Custodia) Oficial de la Policía de
+
+Seguridad y Custodia
+
+Celador "B" (Seguridad y Custodia) Suboficial de la Policía de
+
+Seguridad y Custodia.
+
+Celador "C" (Seguridad y Custodia) Policía de Seguridad y Custodia.
+
+POLICÍA PREVENTIVA
+
+Inspector. Oficial de la Comisión Estatal de
+
+Seguridad.
+
+Oficial. Oficial de la Comisión Estatal de
+
+Seguridad.
+
+Suboficial. Oficial de la Comisión Estatal de
+
+Seguridad.
+
+Agente. Suboficial de la Comisión Estatal de
+
+Seguridad.
+
+POLICÍA VIAL
+
+Comandante de Tránsito. Oficial de la Policía Vial.
+
+Oficial de Tránsito. Oficial de la Policía Vial.
+
+POLICÍA DE VIGILANCIA DE AUDIENCIAS JUDICIALES
+
+Celador "P" Determinante 3 Oficial de Vigilancia de Audiencias
+
+Judiciales.
+
+Celador "P" Determinante 2 Suboficial de Vigilancia de
+
+Audiencias Judiciales.
+
+Celador "P" Determinante 1 Policía de Vigilancia de Audiencias
+
+Judiciales.
+
+PERITOS
+
+Perito Coordinador de Zona. Perito Profesional "A"
+
+Perito Coordinador de Unidad Perito Profesional "A"
+
+Especializada Determinante 2.
+
+Perito Coordinador de Unidad Perito Profesional "B"
+
+Especializada Determinante 1.
+
+Perito Profesional Determinante 2. Perito Profesional "A"
+
+Perito Profesional Determinante 1. Perito Profesional "B"
+
+Perito Perito Profesional "B"
+
+Perito Técnico Perito Técnico
+
+MINISTERIOS PÚBLICOS
+
+Agente del Ministerio Público en Agente del Ministerio Público "A".
+
+Litigación Oral.
+
+Agente del Ministerio Público adscrito Agente del Ministerio Público "B"
+
+a Fiscalía.
+
+Coordinador Regional de la Fiscalía. Agente del Ministerio Público "B".
+
+Agente del Ministerio Público Agente del Ministerio Público "B".
+
+Coordinador de Distrito.
+
+Agente del Ministerio Público adscrito Agente del Ministerio Público "C".
+
+a Juzgados.
+
+Agente del Ministerio Público adscrito Agente del Ministerio Público "C".
+
+a Unidades de Investigación.
+
+Agente del Ministerio Público "A". Agente del Ministerio Público "C".
+
+Agente del Ministerio Público "B". Agente del Ministerio Público "D".
+
+Auxiliar del Ministerio Público. Agente del Ministerio Publico "D".
