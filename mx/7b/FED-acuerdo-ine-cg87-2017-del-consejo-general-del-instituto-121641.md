@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg87-2017-del-consejo-general-del-instituto-121641"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-05-29"
-last_updated: "2017-05-29"
+last_updated: "2017-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121641&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-03-28"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE DETERMINA LA UBICACIÓN E INSTALACIÓN DE LOS CENTROS DE ACOPIO Y TRANSMISIÓN DE DATOS, ASÍ COMO DE LOS CENTROS DE CAPTURA Y VERIFICACIÓN Y; POR EL QUE SE INSTRUYE AL CONSEJO LOCAL Y A LOS CONSEJOS DISTRITALES DEL INSTITUTO NACIONAL ELECTORAL EN EL ESTADO DE VERACRUZ Y AL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ A DAR SEGUIMIENTO Y SUPERVISIÓN A LOS TRABAJOS DE IMPLEMENTACIÓN Y OPERACIÓN DEL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES EN LOS CENTROS DE ACOPIO Y TRANSMISIÓN DE DATOS Y EN LOS CENTROS DE CAPTURA Y VERIFICACIÓN, PARA EL PROCESO ELECTORAL LOCAL ORDINARIO 2016-2017 EN EL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2017.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 29 de mayo de 2017.
 
@@ -148,3 +148,239 @@ Décimo cuarto.- Publíquese el presente Acuerdo en el Diario Oficial de la Fede
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 28 de marzo de 2017, por votación unánime de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Maestra Adriana Margarita Favela Herrera, Maestra Beatriz Eugenia Galindo Centeno, Doctor José Roberto Ruiz Saldaña, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestro Arturo Sánchez Gutiérrez, Licenciado Javier Santiago Castillo y del Consejero Presidente, Doctor Lorenzo Córdova Vianello, no estando presente durante la votación el Consejero Electoral, Doctor Benito Nacif Hernández; asimismo no estando presente durante el desarrollo de la sesión el Consejero Electoral, Doctor Ciro Murayama Rendón.
 
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 7 DE JUNIO DE 2017.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICA EL DIVERSO INE/CG87/2017, EN LO REFERENTE A LA UBICACIÓN DE TRES DE LOS 65 CENTROS DE ACOPIO Y TRANSMISIÓN DE DATOS, Y SE DETERMINA INSTALAR 105 CENTROS DE ACOPIO Y TRANSMISIÓN DE DATOS ADICIONALES QUE OPEREN CON LA APLICACIÓN CATD CELULAR, PARA EL PROCESO ELECTORAL LOCAL ORDINARIO 2016-2017 EN EL ESTADO DE VERACRUZ.]</small>
+
+Primero.- Se aprueba modificar el Acuerdo INE/CG87/2017 en su Punto de Acuerdo primero, referente a la ubicación de tres Centros de Acopio y Transmisión de Datos que operarán en el Programa de Resultados Electorales Preliminares del estado de Veracruz para el Proceso Electoral Local Ordinario 2016-2017, en los términos siguientes:
+
+- El CATD 9 Ilamatlán se reubica en la sede del Consejo Municipal de Catemaco.
+
+- El CATD 62 Hidalgotitlán se reubica en la sede del Consejo Municipal de Jáltipan.
+
+- El CATD 64 Agua Dulce se reubica en la sede del Consejo Municipal de Ixhuatlán de Madero.
+
+Segundo.- Se adicionan 105 Centros de Acopio y Transmisión de Datos, denominados CATD Celular, que operarán con la aplicación CATD Celular, los cuales se deberán ubicar dentro de las sedes oficiales de los siguientes Consejos Municipales:
+
+1. Acajete
+
+2. Acultzingo
+
+3. Camarón de Tejeda
+
+4. Alpatlahuac
+
+5. Alto Lucero de Gutiérrez Barrios
+
+6. Altotonga
+
+7. Ángel Rosario Cabada
+
+8. Apazapan
+
+9. Aquila
+
+10. Astacinga
+
+11. Atlahuilco
+
+12. Atzalán
+
+13. Tlaltetela
+
+14. Ayahualulco
+
+15. Benito Juárez
+
+16. Calcahualco
+
+17. Carrillo Puerto
+
+18. Castillo de Teayo
+
+19. Cazones de Herrera
+
+20. Citlaltepetl
+
+21. Coacoatzintla
+
+22. Coahuitlán
+
+23. Coetzala
+
+24. Colipa
+
+25. Comapa
+
+26. Cosautlan de Carvajal
+
+27. Coxquihui
+
+28. Coyutla
+
+29. Cuichapa
+
+30. Chacaltianguis
+
+31. Chalma
+
+32. Chiconamel
+
+33. Chiconquiaco
+
+34. Chontla
+
+35. Chumatlán
+
+36. Hidalgotitlán
+
+37. Hueyapan de Ocampo
+
+38. Ignacio de la Llave
+
+39. Ilamatlán
+
+40. Ixcatepec
+
+41. Ixhuacán de los Reyes
+
+42. Ixhuatlán del Café
+
+43. Ixhuatlán del Sureste
+
+44. Ixmatlahuacan
+
+45. Jalacingo
+
+46. Jalcomulco
+
+47. Juan Rodríguez Clara
+
+48. Juchique de Ferrer
+
+49. Landero y Coss
+
+50. Magdalena
+
+51. Maltrata
+
+52. Manlio Fabio Altamirano
+
+53. Mecatlán
+
+54. Las Minas
+
+55. Mixtla de Altamirano
+
+56. Moloacan
+
+57. Naranjal
+
+58. Nautla
+
+59. Omealca
+
+60. Pajapan
+
+61. Platón Sánchez
+
+62. Las Vigas de Ramírez
+
+63. Saltabarranca
+
+64. San Andrés Tenejapan
+
+65. San Juan Evangelista
+
+66. Sochiapa
+
+67. Soledad Atzompa
+
+68. Soledad de Doblado
+
+69. Tamalín
+
+70. Tamiahua
+
+71. Tancoco
+
+72. Tantima
+
+73. Tatatila
+
+74. Tecolutla
+
+75. Tenampa
+
+76. Tenochtitlán
+
+77. Tepatlaxco
+
+78. Tepetlán
+
+79. Tepetzintla
+
+80. Tequila
+
+81. José Azueta
+
+82. Texcatepec
+
+83. Texhuacán
+
+84. Texistepec
+
+85. Tlacojalpan
+
+86. Tlacolulan
+
+87. Tlacotalpan
+
+88. Tlacotepec de Mejía
+
+89. Tlachichilco
+
+90. Tlalnelhuayocan
+
+91. Tlaquilpa
+
+92. Tlilapan
+
+93. Tomatlán
+
+94. Tuxtilla
+
+95. Xoxocotla
+
+96. Yecuatla
+
+97. Zacualpan
+
+98. Zentla
+
+99. Zontecomatlán
+
+100. Zozocolco de Hidalgo
+
+101. Tres Valles
+
+102. El Higo
+
+103. Tatahuicapan de Juárez
+
+104. San Rafael
+
+105. Santiago Sochiapan
+
+Al respecto, los espacios destinados para la instalación de los Centros de Acopio y Transmisión de Datos, considerarán los criterios establecidos en el Anexo 13 del Reglamento de Elecciones del Instituto Nacional Electoral, relativo a los Lineamientos del Programa de Resultados Electorales Preliminares.
+
+En casos fortuitos o de fuerza mayor, en que las condiciones no permitan o impidan la instalación de los Centros de Acopio y Transmisión de Datos, éstos podrán instalarse en sedes alternas, fuera de las sedes municipales, conforme lo determine el Organismo Público Local Electoral del estado de Veracruz, siempre en coordinación con la Unidad Técnica de Servicios de Informática del Instituto Nacional Electoral, y a la normatividad aplicable.
+
+Tercero.- Se instruye a la Secretaría Ejecutiva para que notifique el contenido del presente Acuerdo al Consejo Local y a los Consejos Distritales del Instituto Nacional Electoral en el estado de Veracruz, así como al Organismo Público Local Electoral del estado de Veracruz.
+
+Cuarto.- El presente Acuerdo entrará en vigor al día siguiente de su aprobación por parte del Consejo General.
+
+Quinto.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la página de internet del Instituto Nacional Electoral.
