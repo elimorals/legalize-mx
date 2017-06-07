@@ -4,7 +4,7 @@ identifier: "ZAC-ley-electoral-del-estado-de-zacatecas-108579"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-06"
-last_updated: "2017-06-03"
+last_updated: "2017-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ELECTORAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2017.
 
 Ley publicada en el Suplemento 3 del Periódico Oficial del Estado de Zacatecas, el sábado 6 de junio de 2015.
 
@@ -215,17 +215,21 @@ hh) Residencia Binacional: Es la condición que asume una persona para poseer si
 
 ii) Resto Mayor: Es el remanente más alto entre los restos de las votaciones de cada partido político, una vez hechas las asignaciones correspondientes mediante el cociente natural. El resto mayor se utilizará cuando aún hubiere diputaciones o regidurías por distribuir;
 
-jj) Votación estatal emitida: Es el resultado de restar a la votación total emitida los votos de los partidos que no alcanzaron el 3% de la votación, los votos de los partidos que no postularon candidatos a Diputados por el principio de mayoría relativa en por lo menos 13 distritos uninominales y en la totalidad de la circunscripción plurinominal, los votos nulos y los votos emitidos para los candidatos independientes;
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
 
-kk) Votación total emitida: La suma de todos los votos depositados en las urnas;
+jj) Violencia Política contra las mujeres. Cualquier acción u omisión realizada por una o varias personas o servidores públicos, por sí o a través de terceros, que causen daño físico, psicológico, económico o sexual, en contra de una o varias mujeres o su familia, para restringir, suspender o impedir el ejercicio de su derecho a la participación política en los procesos electorales que tengan como fin la inducción a la toma de decisiones en contra de su voluntad;
 
-ll) Votación válida emitida: Es el resultado de restar a la votación total emitida los votos nulos y los correspondientes a los candidatos no registrados;
+kk) Votación estatal emitida: Es el resultado de restar a la votación total emitida los votos de los partidos que no alcanzaron el 3% de la votación, los votos de los partidos que no postularon candidatos a Diputados por el principio de mayoría relativa en por lo menos 13 distritos uninominales y en la totalidad de la circunscripción plurinominal, los votos nulos y los votos emitidos para los candidatos independientes;
+
+ll) Votación total emitida: La suma de todos los votos depositados en las urnas;
+
+mm) Votación válida emitida: Es el resultado de restar a la votación total emitida los votos nulos y los correspondientes a los candidatos no registrados;
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
 
-mm) Votación municipal emitida: El resultado de restar a la votación total emitida, los votos de los partidos y candidatos independientes que no alcanzaron el 3% de esta votación y los votos nulos; y
+nn) Votación municipal emitida: El resultado de restar a la votación total emitida, los votos de los partidos y candidatos independientes que no alcanzaron el 3% de esta votación y los votos nulos; y
 
-nn) Voto Nulo: Voto emitido marcando más de un círculo o cuadro que contenga el emblema de un partido político, sin mediar coalición o que se emitió por un candidato no registrado, o se haya depositado en blanco.
+oo) Voto Nulo: Voto emitido marcando más de un círculo o cuadro que contenga el emblema de un partido político, sin mediar coalición o que se emitió por un candidato no registrado, o se haya depositado en blanco.
 
 ## TÍTULO SEGUNDO. DE LA PARTICIPACIÓN DE LOS CIUDADANOS EN LAS ELECCIONES
 
@@ -451,7 +455,9 @@ ARTÍCULO 18
 
 2. La relación total de candidatos a diputadas y diputados que por este principio solicite cada partido político o coalición, deberá estar integrada de manera paritaria entre los géneros. Del total de candidaturas, el 20% tendrá calidad de joven las fórmulas de propietarios y suplentes serán de un mismo género.
 
-3. Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas, los cuales deberán ser objetivos y asegurar condiciones de igualdad entre los géneros.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+3. Cada partido político determinará y hará públicos, de acuerdo al término previsto en el artículo 131 numeral 3 de esta Ley, los criterios para garantizar la paridad entre los géneros; incluyendo la paridad vertical y horizontal en las candidaturas al Ayuntamiento, los cuales deben ser objetivos, medibles, homogéneos, replicables y verificables, y asegurar condiciones de igualdad sustantiva entre mujeres y hombres.
 
 4. En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellos distritos o municipios en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso anterior.
 
@@ -507,9 +513,15 @@ ARTÍCULO 23
 
 1. Las candidaturas para integrar los ayuntamientos en la elección por el principio de mayoría relativa, formarán una planilla que comprenda todos los cargos mencionados y cuantificados en el artículo precedente, incluyendo propietarios y suplentes,
 
-2. Las planillas deberán estar integradas de manera paritaria y alternada entre los géneros. Del total de candidaturas, el 20% tendrá la calidad de joven. Las fórmulas de propietarios y suplentes serán de un mismo género.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
-3. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de los cargos que integran el ayuntamiento, cualquiera que sea la denominación que se les dé, podrán ser electas para el periodo inmediato, considerándose ésta como elección consecutiva.
+2. Para cumplir con la paridad vertical, las planillas deberán estar integradas de manera paritaria y alternada entre los géneros, iniciando con quien encabeza la planilla. Se garantizará la paridad horizontal en la postulación al cargo de Presidente o Presidenta Municipal. Las fórmulas de propietarios y suplentes serán de un mismo género.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+3. Del total de la integración de las planillas el 20% tendrá la calidad de joven.
+
+4. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de los cargos que integran el ayuntamiento, cualquiera que sea la denominación que se les dé, podrán ser electas para el periodo inmediato, considerándose ésta como elección consecutiva.
 
 ### CAPÍTULO CUARTO. DE LA ASIGNACIÓN DE DIPUTADOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL
 
@@ -773,9 +785,13 @@ ARTÍCULO 36
 
 5. Los partidos políticos que hayan obtenido o mantengan su registro estatal o nacional, tienen personalidad jurídica, gozan de los derechos y prerrogativas que reconoce y otorga el Estado y están sujetos a las obligaciones que establecen la Constitución Federal, la Constitución Local, la Ley General de Instituciones, la Ley General de Partidos y esta Ley, a cuyas disposiciones deben ajustar sus actividades, objetivos y fines, de conformidad con lo que establecen los artículos 6o. y 9o. de la Constitución General de la República.
 
-6. Los partidos políticos promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes, y buscarán la participación efectiva de ambos géneros en la integración de sus órganos, así como en la postulación de candidatos.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
-7. Cada partido político determinará y hará públicos :os (sic) criterios para garantizar la paridad de género en las candidaturas que postulen. Estos deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
+6. Los partidos políticos promoverán los valores cívicos, la cultura democrática y la cultura para la igualdad sustantiva entre mujeres y hombres, entre toda la población, incluyendo las niñas, niños y adolescentes, y buscarán la participación efectiva y paritaria de ambos géneros en la integración de sus órganos, así como en la postulación de candidatas y candidatos.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+7. Cada partido político determinará y hará públicos, de acuerdo al término previsto en el artículo 131 numeral 3 de esta Ley, los criterios para garantizar la paridad entre los géneros; incluyendo la paridad vertical y horizontal en las candidaturas al Ayuntamiento, los cuales deben ser objetivos, medibles, homogéneos, replicables y verificables, y asegurar condiciones de igualdad sustantiva entre mujeres y hombres.
 
 8. En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros les sean asignados exclusivamente aquellos distritos o municipios en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso anterior.
 
@@ -999,7 +1015,9 @@ ARTÍCULO 52
 
 I. Conducir sus actividades dentro de los cauces previstos en la Ley, en su normatividad interna, ajustar su conducta y la de sus militantes a los principios del Estado democrático, respetando la libre participación política de los demás partidos políticos y los derechos de los ciudadanos;
 
-II. Abstenerse de recurrir a la violencia y a cualquier acto que tenga por objeto o resultado alterar el orden público, perturbar el goce de las garantías o impedir el funcionamiento regular de los órganos de gobierno o de las autoridades electorales;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+II. Abstenerse de recurrir a la violencia, incluida la violencia política en contra de las mujeres y a cualquier acto que tenga por objeto o resultado alterar el orden público, perturbar el goce de las garantías o impedir el funcionamiento regular de los órganos de gobierno o de las autoridades electorales;
 
 III. Mantener el mínimo de afiliados exigidos para su constitución y en funcionamiento efectivo a sus órganos estatutarios;
 
@@ -1015,9 +1033,15 @@ VIII. Rechazar toda clase de apoyo económico, político o propagandístico prov
 
 IX. Editar por lo menos una publicación cuatrimestral de divulgación y de carácter teórico;
 
-X. Constituir y mantener por lo menos un centro de formación política, que promueva la igualdad de oportunidades y la equidad entre hombres y mujeres;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-XI. Destinar anualmente el importe que como financiamiento público reciban para actividades específicas, relativas a la educación, capacitación, investigación socioeconómica, así como a las tareas editoriales para el desarrollo de sus centros de formación política, fundaciones o institutos de investigación, a través de los cuales se promoverá una cultura de equidad entre los géneros; sin detrimento de lo establecido en los documentos básicos de cada partido político. Especificar en los informes financieros que deban presentarse al Instituto Nacional o al Instituto, los indicadores de la aplicación de las erogaciones que efectúe en términos de la presente fracción. Para la capacitación, promoción y desarrollo de liderazgo político de las mujeres, cada partido político deberá destinar anualmente, el 3% del financiamiento público ordinario;
+X. Constituir y mantener por lo menos un centro de formación política, que promueva la igualdad de oportunidades, la igualdad sustantiva entre mujeres y hombres y la paridad en el acceso a los espacios de toma de decisiones;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+XI. Destinar anualmente el importe que como financiamiento público reciban para actividades específicas, relativas a la educación, capacitación, investigación socioeconómica, así como a las tareas editoriales para el desarrollo de sus centros de formación política, fundaciones o institutos de investigación, a través de los cuales se promoverá una cultura para la igualdad sustantiva entre mujeres y hombres y la paridad en el acceso a los espacios de toma de decisiones; sin detrimento de lo establecido en los documentos básicos de cada partido político.
+
+Especificar en los informes financieros que deban presentarse al Instituto Nacional o al Instituto, los indicadores de la aplicación de las erogaciones que efectúe en términos de la presente fracción. Para la capacitación, promoción y desarrollo de liderazgo político de las mujeres, cada partido político deberá destinar anualmente, el 5% del financiamiento público ordinario;
 
 XII. Publicar y difundir en el Estado, así como en los tiempos que les corresponda en las estaciones de radio y en los canales de televisión, la plataforma electoral que el partido y sus candidatos sostendrán en la elección de que se trate;
 
@@ -1041,7 +1065,9 @@ XXI. Aplicar el financiamiento de que dispongan, por cualquiera de las modalidad
 
 XXII. Informar al Instituto Nacional o al Instituto, en caso de la facultad de fiscalización de la facultad fiscalizadora, el origen y destino de sus recursos, y abstenerse de desviar, para fines ajenos a los previstos por esta Ley, el financiamiento de que dispongan, por cualquiera de las modalidades establecidas en esta Ley;
 
-XXIII. Abstenerse, en su propaganda política o electoral, de cualquier expresión que calumnie a las personas;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+XXIII. Abstenerse, en su propaganda política o electoral, de cualquier expresión que calumnie a las personas y de ejercer por este medio violencia política en contra de las mujeres;
 
 XXIV. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
@@ -2101,7 +2127,9 @@ ARTÍCULO 110
 
 8. En los casos previstos en los numerales 5 y 6 de este artículo, las coaliciones en los diversos distritos o municipios deberán integrarse con los mismos partidos políticos.
 
-9. Las solicitudes de registros de candidatos a Diputados por el principio de mayoría relativa, así como para la integración de los Ayuntamientos, que promuevan las coaliciones, comprenderán invariablemente fórmulas o planillas conformadas con propietarios y suplentes del mismo género.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+9. Las solicitudes de registros de candidatos a Diputados por el principio de mayoría relativa, así como para la integración de los Ayuntamientos, que promuevan las coaliciones, comprenderán invariablemente fórmulas o planillas conformadas con propietarios y suplentes del mismo género y deberán cumplir con la integración paritaria y en orden alterno para todos los cargos.
 
 10. Los Diputados y los integrantes de los ayuntamientos electos, al tomar posesión de su encargo, quedarán comprendidos en la fracción partidista que se haya señalado en el convenio de coalición.
 
@@ -2739,7 +2767,9 @@ Propaganda impresa. Reglas
 
 ARTÍCULO 163
 
-1. Toda propaganda impresa que utilicen y difundan los partidos políticos, las coaliciones y los candidatos, deberá contener identificación plena de quienes la hacen circular, y no tendrá más limitaciones que las que establece la Constitución Federal, la particular del Estado y la presente Ley. Se preservará el respeto a la vida privada de los candidatos, autoridades, terceros, instituciones y valores democráticos.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+1. Toda propaganda impresa que utilicen y difundan los partidos políticos, las coaliciones y los candidatos, deberá contener identificación plena de quienes la hacen circular, y no tendrá más limitaciones que las que establece la Constitución Federal, la particular del Estado y la presente Ley. Se preservará el respeto a la vida privada de los candidatos, autoridades, terceros, instituciones y valores democráticos, evitando la violencia política en contra de las mujeres.
 
 2. Toda la propaganda electoral impresa deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente. Los partidos políticos y candidatos independientes deberán presentar un plan de reciclaje de la propaganda que utilizarán durante su campaña.
 
@@ -2773,7 +2803,9 @@ Propaganda audiovisual. Reglas
 
 ARTÍCULO 165
 
-1. En la propaganda política o electoral que realicen los partidos políticos, las coaliciones, los precandidatos y candidatos, deberán abstenerse de expresiones que calumnien a las personas. El Consejo General del Instituto, remitirá al Instituto Nacional las denuncias que se presenten con motivo de mensajes en radio o televisión contrarios a esta norma; quien estará facultado para ordenar, una vez satisfechos los procedimientos establecidos en la Ley General de Instituciones, el retiro de cualquier otra propaganda.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+1. En la propaganda política o electoral que realicen los partidos políticos, las coaliciones, las precandidatas y precandidatos y candidatas y candidatos, deberán abstenerse de expresiones que calumnien a las personas o constituyan violencia política en contra de las mujeres. El Consejo General del Instituto, remitirá al Instituto Nacional las denuncias que se presenten con motivo de mensajes en radio o televisión contrarios a esta norma; quien estará facultado para ordenar, una vez satisfechos los procedimientos establecidos en la Ley General de Instituciones, el retiro de cualquier otra propaganda.
 
 2. La propaganda electoral que se realice en la vía pública a través de grabaciones y, en general, por cualquier otro medio, se sujetará a lo previsto en el numeral anterior, así como en los ordenamientos en materia de prevención de la contaminación.
 
@@ -3843,13 +3875,29 @@ ARTÍCULO 237
 
 2. El día de la elección exclusivamente pueden portar armas los miembros uniformados en activo y en servicio de las fuerzas públicas encargadas del orden.
 
-ornada (sic) electoral. Restricciones.
+> <small>(REFORMADO SU ACÁPITE, P.O. 7 DE JUNIO DE 2017)</small>
+
+Jornada electoral. Restricciones
 
 ARTÍCULO 238
 
 1. No se permitirá la celebración de mítines, reuniones públicas, ni cualquier otro acto de propaganda política, el día de la jornada electoral, ni los tres días que le precedan.
 
-2. El día de la jornada electoral y el precedente estará prohibida la venta de las bebidas que contengan alcohol. Los establecimientos que en cualquiera de sus giros expendan bebidas embriagantes, permanecerán cerrados.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+
+2. El día de la jornada electoral, relativa a elecciones federales, estatales o municipales no habrá venta de bebidas alcohólicas, los establecimientos cuyo giro primordial sea la venta de bebidas alcohólicas sin importar su graduación, deberán permanecer cerrados.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+Los establecimientos cuyo giro primordial sea de prestación de servicios comerciales, gastronómicos o de hospedaje que expendan bebidas embriagantes podrán permanecer abiertos.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+En caso de la realización de elecciones extraordinarias de carácter estatal o federal, la prohibición de venta de bebidas embriagantes será aplicable a toda la Entidad.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+Para el caso de la realización de elecciones extraordinarias de carácter distrital o municipal, la prohibición de venta de bebidas embriagantes será para el o los municipios en que éstas se realicen.
 
 Solicitudes y requerimientos de autoridades
 
@@ -5941,7 +5989,7 @@ XV. La presentación de denuncias frívolas, y
 
 XVI. La comisión de cualquiera otra falta de las previstas en la legislación electoral.
 
-Infracciones de los aspirantes.
+Infracciones de los aspirantes
 
 Precandidatos o candidatos
 
@@ -5961,13 +6009,19 @@ V. Exceder el tope de gastos de precampaña o campaña establecidos;
 
 VI. La presentación de denuncias frívolas; y
 
-VII. El incumplimiento de cualquiera de las disposiciones contenidas en la legislación electoral.
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+VII. Ejercer violencia política contra las mujeres, y
+
+VIII. El incumplimiento de cualquiera de las disposiciones contenidas en la legislación electoral.
 
 Infracciones de los aspirantes y candidatos independientes
 
 ARTÍCULO 393
 
-1. Constituyen infracciones a la legislación electoralde (sic) los aspirantes y candidatos independientes a cargos de elección popular:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+
+1. Constituyen infracciones a la legislación electoral de los aspirantes y candidatos independientes a cargos de elección popular:
 
 I. El incumplimiento de las obligaciones establecidas en esta Ley;
 
@@ -5997,7 +6051,11 @@ XIII. La omisión o el incumplimiento de la obligación de proporcionar en tiemp
 
 XIV. La presentación de denuncias frívolas; y
 
-XV. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley y demás disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+XV. Ejercer violencia política contra las mujeres, y
+
+XVI. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley y demás disposiciones aplicables.
 
 Infracciones de los ciudadanos, dirigentes y afiliados a los partidos políticos
 
@@ -6011,7 +6069,11 @@ II. Contratar propaganda en medios impresos en territorio estatal, de otra entid
 
 III. La promoción de denuncias frívolas. Para tales efectos, se entenderá como denuncia frívola aquélla que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia; y
 
-IV. El incumplimiento de cualquiera de las disposiciones contenidas en la legislación electoral.
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+IV. Ejercer violencia política contra las mujeres, y
+
+V. El incumplimiento de cualquiera de las disposiciones contenidas en la legislación electoral.
 
 Infracciones de los observadores
 
@@ -6021,7 +6083,11 @@ ARTÍCULO 395
 
 I. El incumplimiento, según sea el caso, de las obligaciones establecidas en el artículo 10 de esta Ley; y
 
-II. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+II. Ejercer violencia política contra las mujeres, y
+
+III. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
 Infracciones de autoridades o servidores públicos
 
@@ -6039,7 +6105,11 @@ IV. Durante los procesos electorales, la difusión de propaganda, en cualquier m
 
 V. La utilización de programas sociales y de sus recursos, del ámbito federal, estatal, municipal, o de otras entidades federativas, con la finalidad de inducir o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político, coalición o candidato, en los términos de esta Ley; y
 
-VI. El incumplimiento de cualquiera de las disposiciones contenidas en la legislación electoral.
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+VI. Ejercer violencia política contra las mujeres, y
+
+VII. El incumplimiento de cualquiera de las disposiciones contenidas en la legislación electoral.
 
 Infracciones de los Notarios Públicos
 
@@ -6047,13 +6117,21 @@ ARTÍCULO 397
 
 1. Constituyen infracciones a la legislación electoral por parte de los notarios públicos, el incumplimiento de las obligaciones de mantener abiertas sus oficinas el día de la elección y de atender las solicitudes que les hagan las autoridades electorales, los funcionarios de casilla, los ciudadanos, los representantes de partidos políticos y los representantes de candidatos independientes, para dar fe de hechos o certificar documentos concernientes a la elección.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+2. Ejercer violencia política contra las mujeres.
+
 Infracciones de los Extranjeros
 
 ARTÍCULO 398
 
 1. Constituyen infracciones las conductas de los extranjeros que violen lo dispuesto por el artículo 33 de la Constitución Federal y las leyes aplicables.
 
-Infracciones de organizaciones ciudadanos (sic) que pretendan formar partidos políticos estatales
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+2. Ejercer violencia política contra las mujeres.
+
+Infracciones de organizaciones (sic) ciudadanos que pretendan formar partidos políticos estatales
 
 ARTÍCULO 399
 
@@ -6065,7 +6143,11 @@ II. Permitir que en la creación del partido político estatal intervengan organ
 
 III. Realizar o promover la afiliación colectiva de ciudadanos al partido para el que se pretenda registro; y
 
-IV. El incumplimiento de cualquiera de las disposiciones contenidas en la legislación electoral.
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+IV. Ejercer violencia política contra las mujeres, y
+
+V. El incumplimiento de cualquiera de las disposiciones contenidas en la legislación electoral.
 
 Infracciones de organizaciones sindicales laborales o patronales
 
@@ -6077,7 +6159,11 @@ I. Actuar u ostentarse con el carácter de partido político, o cuando dispongan
 
 II. Intervenir en la creación y registro de un partido político o en actos de afiliación colectiva a los mismos; y
 
-III. El incumplimiento de cualquiera de las disposiciones contenidas en la legislación electoral.
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+III. Ejercer violencia política contra las mujeres, y
+
+IV. El incumplimiento de cualquiera de las disposiciones contenidas en la legislación electoral.
 
 Infracciones de los ministros de culto,
 
@@ -6091,7 +6177,11 @@ I. La inducción a la abstención, a votar por un candidato, partido político o
 
 II. Realizar o promover aportaciones económicas a un partido político, aspirante o candidato a cargo de elección popular; y
 
-III. El incumplimiento de cualquiera de las disposiciones contenidas en la legislación electoral.
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+III. Ejercer violencia política contra las mujeres, y
+
+IV. El incumplimiento de cualquiera de las disposiciones contenidas en la legislación electoral.
 
 ### CAPÍTULO SEGUNDO. DE LAS SANCIONES
 
@@ -6744,3 +6834,19 @@ P.O. 3 DE JUNIO DE 2017.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 7 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 138.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE ZACATECAS Y DE LA LEY SOBRE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 7 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 160.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE ZACATECAS Y DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
