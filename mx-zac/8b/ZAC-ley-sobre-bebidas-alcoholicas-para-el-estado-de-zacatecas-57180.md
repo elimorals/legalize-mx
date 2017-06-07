@@ -4,7 +4,7 @@ identifier: "ZAC-ley-sobre-bebidas-alcoholicas-para-el-estado-de-zacatecas-57180
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-29"
-last_updated: "2007-09-29"
+last_updated: "2017-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY SOBRE BEBIDAS ALCOHOLICAS PARA EL ESTADO DE ZACATECAS
 
-LEY SOBRE BEBIDAS ALCOHOLICAS PARA EL ESTADO DE ZACATECAS
+LEY SOBRE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2017.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 29 de septiembre de 2007.
 
@@ -35,7 +35,7 @@ DECRETO # 534
 
 LA HONORABLE QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO DECRETA:
 
-.
+[...]
 
 Por todo lo anteriormente expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 65, fracción I de la Constitución Política del Estado; 140, y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de decretarse y se
 
@@ -567,6 +567,8 @@ Las agencias, almacenes o distribuidoras, y demás similares, se abstendrán de 
 
 ### CAPÍTULO III. Días de funcionamiento y horarios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+
 ###### Artículo 48.
 
 Son obligaciones de los titulares de las licencias de funcionamiento:
@@ -659,7 +661,19 @@ Queda prohibido consumir bebidas alcohólicas en la vía pública, salvo en los 
 
 ###### Artículo 52.
 
-No podrán venderse bebidas alcohólicas el día de la jornada electoral y durante el día anterior, cuando se lleven a cabo elecciones federales, estatales o municipales.
+El día de la jornada electoral, relativa a elecciones federales, estatales o municipales no habrá venta de bebidas alcohólicas, los establecimientos cuyo giro primordial sea la venta de bebidas alcohólicas sin importar su graduación, deberán permanecer cerrados.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+Los establecimientos cuyo giro primordial sea de prestación de servicios comerciales, gastronómicos o de hospedaje que expendan bebidas embriagantes podrán permanecer abiertos.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+En caso de la realización de elecciones extraordinarias de carácter estatal o federal, la prohibición de venta de bebidas embriagantes será aplicable a toda la Entidad.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+Para el caso de la realización de elecciones extraordinarias de carácter distrital o municipal, la prohibición de venta de bebidas embriagantes será para el o los municipios en que éstas se realicen.
 
 ###### Artículo 53.
 
@@ -1458,3 +1472,13 @@ AMALIA D. GARCÍA MEDINA.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LUIS GERARDO ROMO FONSECA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 138.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE ZACATECAS Y DE LA LEY SOBRE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE ZACATECAS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
