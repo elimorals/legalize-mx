@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-instituciones-y-procedimientos-electorales-del-77691"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-12-20"
-last_updated: "2016-05-25"
+last_updated: "2017-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77691&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,19 @@ issue_date: "2010-12-16"
 ---
 # CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL
 
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL "DECRETO QUE CONTIENE LAS OBSERVACIONES DEL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO RESPECTO DEL DIVERSO POR EL QUE SE ABROGA EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL..." Y TRANSITORIO CUARTO DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 7 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 3: DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO VIGÉSIMO SEGUNDO DEL DECRETO QUE CONTIENE LAS OBSERVACIONES DEL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO RESPECTO DEL DIVERSO POR EL QUE SE ABROGA EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL Y LA LEY PROCESAL ELECTORAL DEL DISTRITO FEDERAL Y SE EXPIDE EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO Y LA LEY PROCESAL ELECTORAL PARA (SIC) CIUDAD DE MÉXICO; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL Y DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL, PUBLICADO EN LA G.O. 7 DE JUNIO DE 2017, LAS REFERENCIAS QUE SE HAGAN A LAS AUTORIDADES DEL DISTRITO FEDERAL, AL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, Y AL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL, SE ENTENDERÁN REALIZADAS A LAS AUTORIDADES DE LA CIUDAD DE MÉXICO, AL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO Y AL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO.]
+
+[NOTA 4: DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO VIGÉSIMO SEXTO DEL DECRETO QUE CONTIENE LAS OBSERVACIONES DEL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO RESPECTO DEL DIVERSO POR EL QUE SE ABROGA EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL Y LA LEY PROCESAL ELECTORAL DEL DISTRITO FEDERAL Y SE EXPIDE EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO Y LA LEY PROCESAL ELECTORAL PARA (SIC) CIUDAD DE MÉXICO; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL Y DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL, PUBLICADO EN LA G.O. 7 DE JUNIO DE 2017, TODAS LAS REFERENCIAS HECHAS AL CONGRESO DE LA CIUDAD DE MÉXICO, SE ENTENDERÁN COMO FACULTADES CONCEDIDAS A LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.]
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE JUNIO DE 2017 EN LA G. O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE JUNIO DE 2017 (ABROGADO).
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el lunes 20 de diciembre de 2010.
 
@@ -2072,8 +2082,6 @@ El contralor general deberá reunir los siguientes requisitos:
 
 a) No ser consejero electoral de cualquiera de los consejos del Instituto, salvo que se haya separado del cargo tres años antes del día de la designación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 b) Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión de más de un año; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte la buena fama en el concepto público, ello lo inhabilitará para el cargo, cualquiera que haya sido la pena;
@@ -2317,8 +2325,6 @@ V. Acreditar, mediante constancia oficial, haber residido en el Distrito Elector
 ###### Artículo 99.
 
 Son impedimentos para ocupar el cargo de Consejero Distrital:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -5076,8 +5082,6 @@ VI. Hacer las contribuciones necesarias a los organismos de seguridad social, co
 
 Los Partidos Políticos podrán otorgar reconocimientos en efectivo a sus militantes o simpatizantes por su participación temporal en campañas electorales, siempre y cuando no medie relación laboral con el Partido Político.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 La cantidad máxima que podrá erogar un Partido Político para dicho concepto, no podrá exceder hasta 20 veces la Unidad de Cuenta de la Ciudad de México vigente.
@@ -5473,8 +5477,6 @@ El día en que se reciba la votación de las elecciones ordinarias será conside
 Durante los procesos electorales y de participación ciudadana todos los días y horas son hábiles. Los plazos se contarán por días completos y cuando se señalen por horas se contarán de momento a momento.
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO ELECTORAL ORDINARIO
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 27 DE JUNIO DE 2014, LA REFORMA AL PRESENTE ARTÍCULO, ENTRARÁ EN VIGOR AL MOMENTO EN QUE EL H. CONGRESO DE LA UNIÓN DETERMINE QUE INICIA LA VIGENCIA DE LA DISPOSICIÓN RELATIVA PARA LAS ELECCIONES FEDERALES EN TÉRMINOS DE LA LEGISLACIÓN RESPECTIVA. LA JORNADA ELECTORAL DEL PROCESO ELECTORAL DE 2018 SE VERIFICARÁ DE MANERA CONCURRENTE CON LA FEDERAL, EN LOS TÉRMINOS DEL MANDATO DEL DECRETO DE REFORMAS CONSTITUCIONALES DE 10 DE FEBRERO DE 2014.</small>
 
 > <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
 
@@ -7314,15 +7316,11 @@ El Instituto Electoral conocerá de las infracciones que cometan:
 
 I. Los ciudadanos que participen como observadores electorales, a quien podrá sancionarse con la cancelación inmediata de su acreditación como observadores electorales y la inhabilitación para desarrollar esa tarea en al menos dos procesos electorales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 II. Las organizaciones a las que pertenezcan los observadores electorales, según lo previsto en este Código, a quien podrá sancionarse con multa de 50 a 200 veces la Unidad de Cuenta de la Ciudad de México vigente.
 
 III. Las autoridades del Distrito Federal en los casos en que no proporcionen en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Electoral. Para ello una vez conocida la infracción, se integrará un expediente que será remitido al superior jerárquico de la autoridad infractora, para que éste proceda en los términos de ley. El superior jerárquico deberá comunicar al Instituto Electoral las medidas que haya adoptado en el caso;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -7410,13 +7408,9 @@ Las infracciones a que se refiere el artículo 377 de este ordenamiento serán s
 
 I. Respecto de los Partidos Políticos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 a) Tratándose de las hipótesis previstas en las fracciones IX, X, XVI y XVIII del artículo 377, con multa de 50 hasta 5 mil veces la Unidad de Cuenta de la Ciudad de México vigente;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -7441,8 +7435,6 @@ b) Por las causas de las fracciones I, II y IX del artículo 377, hasta con la p
 ###### Artículo 380.
 
 Las sanciones aplicables a las conductas que refiere el artículo 378 consistirán en:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -7593,3 +7585,91 @@ TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango q
 CUARTO.- La Asamblea Legislativa del Distrito Federal realizara las acciones presupuestarias a fin (sic) otorgar los recursos económicos suficientes al Tribunal Electoral para la debida sustanciación de los medios de impugnación.
 
 QUINTO.- Para efecto de lo señalado en el artículo 84 párrafo primero y tercero del presente Decreto, en el que se señala que el Instituto Electoral del Distrito Federal convocará en la primer semana de abril de cada año a la consulta ciudadana sobre Presupuesto Participativo y en los años en que esta consulta coincida con la elección de Comités Ciudadanos y Consejos de los Pueblos, emitirá también en la primer semana de abril la convocatoria respectiva, por única ocasión el Instituto Electoral del Distrito Federal deberá emitir convocatoria inmediatamente después de que el presente decreto sea publicado en la Gaceta Oficial del Distrito Federal.
+
+G.O. 7 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE CONTIENE LAS OBSERVACIONES DEL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO RESPECTO DEL DIVERSO POR EL QUE SE ABROGA EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL Y LA LEY PROCESAL ELECTORAL DEL DISTRITO FEDERAL Y SE EXPIDE EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO Y LA LEY PROCESAL ELECTORAL PARA (SIC) CIUDAD DE MÉXICO; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL Y DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Para su mayor difusión, publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- El presente decreto deberá estar vigente a más tardar 90 días antes de que inicie el proceso electoral 2017-2018.
+
+CUARTO.- Se abroga el Código de Instituciones y Procedimientos Electorales del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal, el lunes 20 de diciembre de 2010, así como todas las disposiciones contenidas en otras legislaciones que sean contrarias al presente Decreto.
+
+QUINTO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+SEXTO.- Los partidos políticos y las agrupaciones políticas que participen en los procesos electorales en la Ciudad de México deberán adecuar sus Estatutos y demás reglamentación interna a lo previsto en este Código y las demás disposiciones legales aplicables.
+
+SÉPTIMO.- La jornada electoral del año 2018 se llevará a cabo el primer domingo de julio.
+
+El proceso electoral 2017-2018 iniciará durante la primera semana de octubre de 2017. Para tal efecto, se faculta a las autoridades electorales para realizar los ajustes necesarios a las fechas y plazos del proceso electoral.
+
+OCTAVO.- El voto de los mexicanos en el extranjero por vía electrónica se realizará hasta que se cuenten con los instrumentos que sean validados por el Instituto Nacional Electoral, de acuerdo con los lineamientos emitidos por la autoridad competente.
+
+NOVENO.- Una vez aprobado el presente Decreto, el Ejecutivo Local, a través de la Secretaría de Finanzas de la Ciudad de México, hará la transferencia presupuestaria extraordinaria, suficiente y necesaria, para cumplir con los fines, obligaciones y compromisos del presente Código al Instituto Electoral del Distrito Federal y al Tribunal Electoral del Distrito Federal.
+
+DÉCIMO.- Cada año el poder legislativo de la Ciudad de México, aprobará en su decreto de presupuesto los recursos suficientes y necesarios para las autoridades electorales locales, dicho presupuesto se incrementará según el índice inflacionario y no podrá ser menor al del año inmediato anterior, siempre y cuando no se trate de un año electoral.
+
+DÉCIMO PRIMERO.- A partir de la entrada en vigor del presente decreto, el Tribunal Electoral realizará las adecuaciones necesarias a fin de instituir la Defensoría Pública de Participación Ciudadana y de Procesos Democráticos adscrita al mismo.
+
+A partir de la creación de la Defensoría referida el Presidente del Tribunal Electoral contará con 30 días naturales para proponerle a la Asamblea Legislativa del Distrito Federal la terna de candidatos a titular de la Defensoría Pública de Participación Ciudadana y de Procesos Democráticos, una vez recibida la propuesta este órgano legislativo deberá nombrar de entre la terna propuesta al Titular de esta Defensoría en un plazo no mayor a 30 días naturales.
+
+Por única ocasión, la Asamblea Legislativa del Distrito Federal, nombrará al titular de la defensoría.
+
+DÉCIMO SEGUNDO: Las Direcciones Distritales del Instituto Electoral de la Ciudad de México continuarán funcionando con las mismas características y atribuciones de forma permanente en términos de las normas vigentes previas a la entrada en vigor del presente Decreto, hasta la conclusión del Proceso Electoral Ordinario de 2017-2018.
+
+Lo anterior solo podrá ser modificado en virtud de la redistritación local que se lleve a cabo para ajustar la geografía electoral a lo que dispone la Constitución Local, en lo que resulte aplicable a partir del proceso electoral 2017-2018.
+
+DÉCIMO TERCERO: A partir de la entrada en vigor del presente decreto las autoridades electorales contarán con un plazo de 60 días naturales para adecuar y aprobar toda la normatividad interna, su estructura orgánica y funcional con base en las atribuciones y responsabilidades previstas en este Código. Este proceso de restructuración deberá sujetarse a los principios de racionalidad, austeridad y eficacia previstos para el ejercicio del gasto público, previendo un modelo de organización compacto que brinde una mayor calidad en el servicio; hecho lo anterior, dará a conocer lo anterior a la Asamblea Legislativa del Distrito Federal.
+
+DÉCIMO CUARTO.- El Magistrado Electoral en funciones de Presidente del Tribunal Electoral de la Ciudad de México concluirá el periodo para el que fue electo como Magistrado Presidente.
+
+DÉCIMO QUINTO.- El Instituto Electoral de la Ciudad de México deberá homologar sus acuerdos a los emitidos por el Instituto Nacional Electoral respecto a las etapas del proceso electoral.
+
+DÉCIMO SEXTO.- Los procedimientos y actividades del Instituto Electoral de la Ciudad de México que se hayan iniciado previo a la entrada en vigor del presente Decreto, deberán tramitarse hasta su conclusión en los términos de las normas que estuvieron vigentes en su inicio, sin embargo deberá adecuarse en caso que violente alguna disposición legal vigente.
+
+DÉCIMO SÉPTIMO.- El Instituto Electoral del Distrito Federal, ahora Instituto Electoral de la Ciudad de México, realizará las gestiones necesarias para que el Instituto Nacional Electoral lleve a cabo el proceso de redistritación local para ajustar la geografía electoral a lo que dispone esta Constitución, que será aplicable a partir del proceso electoral 2017-2018.
+
+Las y los diputados integrantes de la VII Asamblea Legislativa del Distrito Federal no podrán ser postulados para integrar la I Legislatura del Congreso de la Ciudad de México.
+
+La I Legislatura del Congreso iniciará el 17 de septiembre de 2018.
+
+DÉCIMO OCTAVO.- Por única ocasión la elección de las alcaldías en el año 2018 se realizará con base en la división territorial de las dieciséis demarcaciones territoriales de la Ciudad de México vigente al inicio del proceso electoral 2017-2018. Los concejos de las dieciséis alcaldías electas en 2018 se integrarán por la o el Alcalde y diez concejales electos según los principios de mayoría relativa y de representación proporcional, en una proporción de sesenta por ciento por el primer principio y cuarenta por ciento por el segundo.
+
+Las y los Jefes Delegacionales electos en el proceso electoral local ordinario del año 2015 no podrán ser postulados para integrar las alcaldías en el proceso electoral local ordinario del año 2018.
+
+Las y los integrantes de las alcaldías iniciarán sus funciones el 1 de octubre de 2018.
+
+DÉCIMO NOVENO.- Una vez concluido el proceso electoral correspondiente a 2018, el Congreso de la Ciudad de México deberá iniciar el proceso de revisión de la configuración para la división territorial de las demarcaciones que conforman la Ciudad de México, de conformidad con el criterio de equilibrar los tamaños poblacionales entre las alcaldías y de aquellos enunciados en el artículo 52 numeral 3 de la Constitución Política de la Ciudad de México. Este proceso deberá concluir a más tardar en diciembre de 2019.
+
+Las circunscripciones de las demarcaciones territoriales a que se refiere el artículo 53, apartado A, numeral 3 de la Constitución, se determinarán por el Instituto Electoral de la Ciudad de México con base en los criterios de población y configuración geográfica, así como de identidad social, cultural, étnica y económica que este Código establece.
+
+VIGÉSIMO.- Se otorga al Instituto Electoral de la Ciudad de México, un plazo improrrogable de 30 días naturales a partir de la publicación del presente Decreto, a fin de que realice la división mediante circunscripciones dentro de las demarcaciones territoriales a efecto de la elección de las personas integrantes de las alcaldías para el 2018.
+
+VIGÉSIMO PRIMERO.- Una vez entrada en vigor la Constitución Política de la Ciudad de México, los mecanismos e instrumentos de participación ciudadana se regularán por lo establecido en la Constitución Política de la Ciudad de México y por la Ley de Participación Ciudadana que al efecto emita el Congreso de la Ciudad de México, con excepción de la Consulta Popular que se regulará por la Ley de Participación Ciudadana vigente, a fin de que ésta pueda llevarse a cabo el día de la elección durante el proceso 2017-2018.
+
+Lo anterior derivado de que en el Artículo Décimo transitorio de la Constitución Política de la Ciudad de México se establece que el presente Decreto será aplicable sólo al proceso electoral 2017-2018.
+
+Los informes trimestrales que al efecto entreguen las Alcaldías respecto del Presupuesto Participativo, se entregarán al Congreso de la Ciudad de México, por conducto de las comisiones competentes según la Ley de Participación Ciudadana.
+
+VIGÉSIMO SEGUNDO.- Las referencias que se hagan a las autoridades del Distrito Federal, al Instituto Electoral del Distrito Federal, y al Tribunal Electoral del Distrito Federal, se entenderán realizadas a las autoridades de la Ciudad de México, al Instituto Electoral de la Ciudad de México y al Tribunal Electoral de la Ciudad de México.
+
+VIGÉSIMO TERCERO.- Para efectos de la designación del Contralor Interno del Instituto Electoral del Distrito Federal y del Contralor Interno del Tribunal Electoral del Distrito Federal éstas se llevarán a cabo por la Asamblea Legislativa del Distrito Federal VII Legislatura en un plazo no mayor a 30 días, a partir de la entrada en vigor del presente Decreto.
+
+VIGÉSIMO CUARTO.- Las disposiciones contenidas en él Título Quinto, Capítulo VII de la Constitución Política de la Ciudad de México, serán expedidas por el Congreso de la Ciudad de México a través de la Ley respectiva, lo anterior de conformidad con el artículo 59 apartado (sic) de la Constitución Local.
+
+VIGÉSIMO QUINTO.- Las disposiciones referidas en el presente Decreto, a la regulación del Candidato a Diputado Migrante serán aplicables hasta el proceso electoral 2021.
+
+VIGÉSIMO SEXTO.- Todas las referencias hechas al Congreso de la Ciudad de México, se entenderán como facultades concedidas a la Asamblea Legislativa del Distrito Federal.
+
+VÍGESIMO SÉPTIMO: Por única ocasión, la Asamblea Legislativa del Distrito Federal, nombrará al titular de la Unidad Técnica Especializada de Fiscalización del Instituto Electoral del Distrito Federal.
+
+VIGÉSIMO OCTAVO. La Jefa o Jefe de Gobierno de la Ciudad de México electa o electo en el año 2018 ejercerá su cargo a partir del día 5 de diciembre del año de la elección, fecha en la que rendirá protesta ante el Congreso de la Ciudad de México.
+
+VIGÉSIMO NOVENO. En el proceso electoral 2017-2018, para garantizar que las seis circunscripciones en que se divida cada una de las demarcaciones territoriales estén debidamente representadas en cada planilla, en el registro de todas las planillas de candidatos a alcaldes y concejales se deberá identificar la circunscripción que representa cada uno de los candidatos a concejales.
+
+Para tal efecto, se deberá acreditar la residencia efectiva de los candidatos a concejales en la circunscripción que representen.
+
+El orden en el que se presenten los candidatos a concejales en las planillas será decidido por el partido político, coalición, candidatura común o candidatura sin partido.
