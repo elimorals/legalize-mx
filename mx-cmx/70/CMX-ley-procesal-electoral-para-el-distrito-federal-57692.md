@@ -4,7 +4,7 @@ identifier: "CMX-ley-procesal-electoral-para-el-distrito-federal-57692"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-21"
-last_updated: "2014-11-28"
+last_updated: "2017-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57692&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2007-11-28"
 ---
 # LEY PROCESAL ELECTORAL PARA EL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DE LA LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 7 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PROCESAL ELECTORAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE JUNIO DE 2017 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 21 de diciembre de 2007.
 
@@ -282,7 +284,7 @@ Dentro de setenta y dos horas siguientes, contadas a partir de la publicación e
 
 Tratándose de impugnaciones que no estén vinculadas con el proceso electoral o de los procesos de participación ciudadana, el plazo a que hace referencia el párrafo anterior será de seis días, contados a partir del momento en que sea fijado en los estrados el medio de impugnación.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE JULIO DE 2011)</small>
 
 Los escritos de comparecencia deberán:
 
@@ -2428,7 +2430,7 @@ Al ofrecerse la prueba pericial, las partes presentarán los cuestionarios sobre
 
 En caso de discordia, el perito tercero será designado por el magistrado instructor o por la Comisión. Dicho perito no será recusable, pero deberá excusarse por alguna de las causas siguientes:
 
-I. Consanguinidad hasta dentro del cuarto grado con alguna de las partes;…
+I. Consanguinidad hasta dentro del cuarto grado con alguna de las partes;... (sic)
 
 II. Interés directo o indirecto en el juicio; y
 
@@ -2635,3 +2637,17 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 7 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE CONTIENE LAS OBSERVACIONES DEL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO RESPECTO DEL DIVERSO POR EL QUE SE ABROGA EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL Y LA LEY PROCESAL ELECTORAL DEL DISTRITO FEDERAL Y SE EXPIDE EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO Y LA LEY PROCESAL ELECTORAL PARA CIUDAD DE MÉXICO; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL Y DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Para su mayor difusión, publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- El presente decreto deberá estar vigente a más tardar 90 días antes de que inicie el proceso electoral 2017-2018.
+
+CUARTO.- Se abroga la Ley Procesal Electoral del Distrito Federal publicada en la Gaceta Oficial del Distrito Federal el 21 de diciembre de 2007, así como todas las disposiciones contenidas en otras legislaciones que sean contrarias al presente Decreto.
+
+QUINTO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
