@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2017-05-03"
+last_updated: "2017-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -565,7 +565,9 @@ IX.- Someter a consideración del Pleno, el Proyecto de Presupuesto de Egresos d
 
 En dicho proyecto, deberá establecerse el monto que se canalizará para llevar a cabo publicaciones que programe el Consejo Editorial, del Comité de Biblioteca.
 
-X.- Proponer al Pleno los nombramientos de las y los titulares de las Secretarías de Administración, de Asuntos Legislativos, y de Asuntos Interinstitucionales, así como de la Auditoría Superior del Estado, y de la Dirección del Instituto de Estudios e Investigación Legislativa.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+X.- Proponer al Pleno los nombramientos de las y los titulares de las Secretarías de Administración, de Asuntos Legislativos, y de Asuntos Interinstitucionales, así como de la Auditoría Superior del Estado, de la Dirección del Instituto de Estudios e Investigación Legislativa y de la Dirección de Archivos.
 
 XI.- Designar, a más tardar el día último de diciembre del primer año de ejercicio constitucional, a la persona física o moral que llevará a cabo la auditoría anual a los estados financieros de la Legislatura.
 
@@ -1179,7 +1181,9 @@ Son atribuciones del Comité de Biblioteca:
 
 I.- Promover la formación de un acervo bibliográfico del Congreso.
 
-II.- Promover las políticas de los procesos técnicos de selección, clasificación, catalogación, resguardo y conservación bibliográfica, así como de la documentación que constituye la memoria legislativa, a efecto de facilitar la consulta institucional y pública del acervo bibliográfico del Congreso.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+II.- Promover las políticas de los procesos técnicos de selección, clasificación, catalogación, resguardo y conservación bibliográfica, a efecto de facilitar la consulta institucional y pública del acervo bibliográfico del Congreso.
 
 III.- Celebrar convenios con instituciones especializadas.
 
@@ -1215,6 +1219,10 @@ VI.- Instituto de Estudios e Investigación Legislativa.
 
 VII.- Unidad de Igualdad de Género.
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+VIII.- Dirección de Archivos.
+
 ###### ARTÍCULO 125.
 
 Los(as) titulares de los órganos técnicos a que se refiere el artículo anterior, serán nombrados por el Pleno, a propuesta de la Junta de Coordinación Política.
@@ -1223,7 +1231,9 @@ Los(as) titulares de los órganos técnicos a que se refiere el artículo anteri
 
 Los nombramientos a que se refiere el artículo 124 de esta Ley, deberán realizarse en los siguientes términos:
 
-I.- Los previstos en las fracciones I, II, III, V y VII, a más tardar el último día del mes de septiembre, del primer año de ejercicio constitucional.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+I.- Los previstos en las fracciones I, II, III, V, VII y VIII, a más tardar el último día del mes de septiembre, del primer año de ejercicio constitucional.
 
 II.- Del que ocupe la titularidad de la Auditoría Superior del Estado, conforme a lo dispuesto en la Constitución Política del Estado y la Ley de la materia.
 
@@ -1244,6 +1254,10 @@ II.- Contar con una edad mínima de treinta años el día de la designación.
 III.- Tener licenciatura en las áreas económica, administrativa, jurídica o alguna otra relacionada directamente con las funciones propias del cargo, con las especificaciones siguientes:
 
 a) Tratándose de la o el Titular de las Secretarías de Asuntos Legislativos, de Asuntos Interinstitucionales, de la Unidad de Transparencia y del Instituto de Estudios e Investigación Legislativa, necesariamente tendrá que contar con Licenciatura en Derecho, con antigüedad mínima de cinco años.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+b) Tratándose de la o el Titular de la Dirección de Archivos, necesariamente tendrá que contar con Licenciatura en alguna de las Ciencias de la Información como son Archivonomía, Bibliotecología y/o Gestión Documental o similar, con antigüedad mínima de tres años.
 
 IV.- No haber sido condenado (a) por delitos dolosos que ameriten pena privativa de la libertad.
 
@@ -1445,7 +1459,33 @@ Su Titular será nombrado(a) por el Pleno, a propuesta de la Junta de Coordinaci
 
 Quien funja como responsable de la Unidad de Transparencia, dependerá directamente de quien presida la Mesa Directiva y deberá contar, además de los requisitos establecidos en el artículo 128 de esta Ley, con experiencia en la materia.
 
-### CAPÍTULO ÚNICO. DEL OTORGAMIENTO DE ESTÍMULOS Y RECOMPENSAS
+### CAPÍTULO IX. DE LA DIRECCIÓN DE ARCHIVOS
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+###### ARTÍCULO 145 Bis.
+
+La Dirección de Archivos desempeñará sus funciones bajo el control y supervisión de la Presidencia de la Mesa Directiva. Estará integrada por las o los titulares de los Archivos de Gestión y Trámite; y de Concentración e Histórico, y será la encargada de vigilar la custodia y seguridad jurídica y material de los acervos que conforman la memoria documental del Poder Legislativo, mediante las siguientes atribuciones:
+
+I. Operar el sistema archivístico.
+
+II. Aprobar y vigilar la correcta instrumentación del Sistema Institucional de Archivos.
+
+III. Aprobar los instrumentos de control necesarios para la regulación de los procesos archivísticos.
+
+IV. Emitir las normas y lineamientos generales que aseguren la adecuada administración y custodia de los documentos en resguardo del Poder Legislativo.
+
+V. Emplear todos los mecanismos necesarios para la conservación y preservación de los documentos que se generen como resultado del quehacer legislativo y conforman la memoria documental del Poder Legislativo, asegurando la integridad de los mismos.
+
+VI. Participar como integrante del Comité Técnico de Administración de Documentos y Archivos.
+
+VII. Establecer y desarrollar los programas institucionales y permanentes encaminados a la capacitación y asesoría archivística de las y los responsables de archivos en las Secretarías, y del personal del Poder Legislativo.
+
+VIII. Coordinar los procedimientos de valoración y destino final de la documentación generada por el Poder Legislativo con el Comité de Transparencia.
+
+IX. Colaborar con el Departamento de Tecnologías de la Información, para la administración y conservación de archivos electrónicos.
+
+X. Las demás que deriven de las disposiciones legales aplicables.
 
 ###### ARTÍCULO 139.
 
@@ -1501,7 +1541,7 @@ X.- Seguridad Pública.
 
 El Instituto de Estudios e Investigación Legislativa se regulará por el Estatuto que para tal efecto emita el Congreso.
 
-### CAPÍTULO I. DE LAS SESIONES
+### CAPÍTULO ÚNICO. DEL OTORGAMIENTO DE ESTÍMULOS Y RECOMPENSAS
 
 ###### ARTÍCULO 143.
 
@@ -1529,13 +1569,15 @@ Su Titular será nombrado(a) por el Pleno, a propuesta de la Junta de Coordinaci
 
 El personal operativo de dicha Unidad será seleccionado por parte de la Secretaría de Administración, debiendo elegirse entre quienes laboran en el Congreso y recibirán una compensación por sus servicios.
 
-### CAPÍTULO II. DEL ORDEN DEL DÍA
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JUNIO DE 2017)</small>
 
-### CAPÍTULO III. DE LAS INICIATIVAS
+### CAPÍTULO I. DE LAS SESIONES
+
+### CAPÍTULO II. DEL ORDEN DEL DÍA
 
 ## TÍTULO SÉPTIMO. DE LOS ESTÍMULOS Y RECOMPENSAS
 
-### CAPÍTULO IV. DE LA CONSULTA
+### CAPÍTULO III. DE LAS INICIATIVAS
 
 ###### ARTÍCULO 146.
 
@@ -1567,7 +1609,7 @@ La cantidad deberá ser entregada dentro del mes siguiente a que se tenga derech
 
 ## TÍTULO OCTAVO. DEL PROCEDIMIENTO LEGISLATIVO
 
-### CAPÍTULO V. DE LAS DISCUSIONES
+### CAPÍTULO IV. DE LA CONSULTA
 
 ###### ARTÍCULO 147.
 
@@ -1657,7 +1699,7 @@ La duración del receso será establecido por quien presida la Mesa Directiva.
 
 En lo relativo a las formalidades del desarrollo de las sesiones, se estará a lo dispuesto en el Reglamento Interior y de Prácticas Parlamentarias.
 
-### CAPÍTULO VI. DE LAS MOCIONES
+### CAPÍTULO V. DE LAS DISCUSIONES
 
 ###### ARTÍCULO 165.
 
@@ -1683,7 +1725,7 @@ La Mesa Directiva podrá reunirse, antes del inicio de cada sesión, para conoce
 
 El orden del día deberá enviarse, vía correo electrónico, a las diputadas y diputados, cuando menos con doce horas de anticipación a la fijada para que se lleven a cabo las sesiones del Congreso.
 
-### CAPÍTULO VII. DE LAS VOTACIONES
+### CAPÍTULO VI. DE LAS MOCIONES
 
 ###### ARTÍCULO 167.
 
@@ -1805,7 +1847,7 @@ Si el proyecto de ley o decreto devuelto al Congreso fuere confirmado por el vot
 
 En la abrogación, derogación, reforma o adición de cualquier Ley o Decreto, se observará lo dispuesto en el artículo 77 de la Constitución Política del Estado.
 
-### CAPÍTULO ÚNICO. DEL SERVICIO CIVIL DE CARRERA PARLAMENTARIA
+### CAPÍTULO VII. DE LAS VOTACIONES
 
 ###### ARTÍCULO 185.
 
@@ -1831,7 +1873,7 @@ IV.- Bases que regirán su desarrollo.
 
 Una vez concluida la consulta y previo informe que al respecto se presente ante el Pleno, el Congreso podrá ordenar la publicación de la memoria de la referida consulta o de las conclusiones, en su caso.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES EN MATERIA DE ACCESO A LA INFORMACIÓN
+### CAPÍTULO ÚNICO. DEL SERVICIO CIVIL DE CARRERA PARLAMENTARIA
 
 ###### ARTÍCULO 189.
 
@@ -1871,7 +1913,7 @@ VIII.- Quien presida la Mesa Directiva, si así lo considera, declarará suficie
 
 IX.- Las y los integrantes de la Comisión Dictaminadora podrán emitir votos particulares o, en su caso, podrán hacerse propuestas alternativas de redacción y contenido de uno o varios artículos del dictamen.
 
-### CAPÍTULO I. DEL PROCEDIMIENTO JURISDICCIONAL
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES EN MATERIA DE ACCESO A LA INFORMACIÓN
 
 ###### ARTÍCULO 193.
 
@@ -1901,7 +1943,7 @@ X. Hacer proposiciones análogas a las anteriores.
 
 Las mociones se podrán hacer de viva voz y desde su curul por la diputada o el diputado que las proponga, y su aprobación se hará por mayoría de votos.
 
-### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO
+### CAPÍTULO I. DEL PROCEDIMIENTO JURISDICCIONAL
 
 ###### ARTÍCULO 195.
 
@@ -1985,11 +2027,11 @@ En caso necesario, quien presida la Mesa Directiva podrá solicitar por sí, o a
 
 Las características particulares y el procedimiento para emitir las votaciones serán reguladas en los términos del Reglamento Interior y de Prácticas Parlamentarias.
 
-### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE ELECCIÓN
+### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO
 
 ## TÍTULO NOVENO. DEL SERVICIO CIVIL
 
-### CAPÍTULO ÚNICO. DE LAS FORMAS DEL CEREMONIAL
+### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE ELECCIÓN
 
 ###### ARTÍCULO 209.
 
@@ -2005,7 +2047,7 @@ Las normas y procedimientos del Servicio Civil de Carrera Parlamentaria, se plas
 
 ## TÍTULO DÉCIMO. TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
-### CAPÍTULO I. SERVIDORES PÚBLICOS OBLIGADOS
+### CAPÍTULO ÚNICO. DE LAS FORMAS DEL CEREMONIAL
 
 ###### ARTÍCULO 212.
 
@@ -2037,13 +2079,13 @@ Cuando se presente el caso, el(la) Titular del Sujeto obligado, tendrá que nomb
 
 ## TÍTULO UNDÉCIMO. DEL JUICIO POLÍTICO, DECLARACIÓN DE PROCEDENCIA Y RESPONSABILIDADES ADMINISTRATIVAS
 
-### CAPÍTULO II. DE LAS DENUNCIAS
+### CAPÍTULO I. SERVIDORES PÚBLICOS OBLIGADOS
 
 ###### ARTÍCULO 218.
 
 Las solicitudes de denuncia de Juicio Político y de Declaración de Procedencia, que se presenten en contra de las y los servidores públicos mencionados en el artículo 179 de la Constitución Política del Estado, se sujetarán a lo dispuesto en la Ley que expida el Poder Legislativo, para tales efectos.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LAS DENUNCIAS
 
 ###### ARTÍCULO 219.
 
@@ -2054,6 +2096,8 @@ Las denuncias por faltas administrativas en contra de servidores públicos del C
 Una vez ratificadas las denuncias, la Secretaría de Asuntos Interinstitucionales las turnará a la Presidencia de la Mesa Directiva, con el objeto de que se substancie el procedimiento administrativo previsto en la Ley de Responsabilidades de los Servidores Públicos y formule el dictamen que se presentará para su resolución al Pleno, excepto cuando se trate de servidores públicos del Congreso, en que resolverá en definitiva la Presidencia.
 
 ## TÍTULO DUODÉCIMO. DE LA ELECCIÓN DE SERVIDORES PÚBLICOS
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 221.
 
@@ -2326,3 +2370,13 @@ Conforme a lo dispuesto por el Artículo 202 de la Constitución Política del E
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0331/2017 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- La Junta de Coordinación Política pondrá a consideración del Pleno, para su aprobación, la propuesta de quien ocupará la titularidad de la Dirección de Archivos por lo que respecta al periodo de ejercicio constitucional de la presente Legislatura, treinta días después de la publicación del presente Decreto.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- La Presidencia de la Mesa Directiva acordará con la Secretaría de Administración todas las previsiones administrativas y presupuestales necesarias para el acondicionamiento y equipamiento del inmueble que será sede del Archivo Histórico del Poder Legislativo.
