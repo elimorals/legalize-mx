@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2017-04-05"
+last_updated: "2017-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-14"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE JUNIO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 17 de mayo de 2004.
 
@@ -264,11 +264,11 @@ IV. Las demás que en materia de participación ciudadana les impongan ésta y o
 
 ### CAPÍTULO III. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS CIUDADANOS
 
-> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 12.
 
-Los ciudadanos del Distrito Federal tienen los siguientes derechos:
+Los ciudadanos de la Ciudad de México tienen los siguientes derechos:
 
 I. Participar con voz y voto en la asamblea ciudadana;
 
@@ -281,6 +281,10 @@ IV. Aprobar o rechazar mediante plebiscito los actos o decisiones del Jefe de Go
 V. Presentar iniciativas populares a la Asamblea Legislativa sobre proyectos de creación, modificación, derogación o abrogación de leyes respecto de las materias que sean competencia legislativa de la misma y en los términos de esta Ley;
 
 VI. Opinar por medio de referéndum sobre la aprobación, modificación, derogación o abrogación, de leyes que corresponda expedir a la Asamblea Legislativa; excluyendo las materias señaladas en el artículo 34 de esta Ley;
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2017)</small>
+
+Ser consultado, mediante la consulta ciudadana o consulta popular, según sea el caso, sobre temas de trascendencia en sus distintos ámbitos temáticos o territoriales, salvo las materias señaladas en esta Ley;
 
 VII. Ser informado de las funciones y acciones de la Administración Pública del Distrito Federal;
 
@@ -314,9 +318,13 @@ Son autoridades en materia de participación ciudadana las siguientes:
 
 I. El Jefe de Gobierno;
 
-II. La Asamblea Legislativa;
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2017)</small>
 
-III. Los Jefes Delegacionales;
+II. El Congreso de la Ciudad;
+
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2017)</small>
+
+III. Las Alcaldías;
 
 IV. El Instituto Electoral, y
 
@@ -342,6 +350,22 @@ a) plebiscito
 
 b) referéndum.
 
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2017)</small>
+
+c) la consulta ciudadana;
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2017)</small>
+
+d) la iniciativa ciudadana
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2017)</small>
+
+e) La consulta popular
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2017)</small>
+
+f) la revocación del mandato
+
 Además coordinará el proceso de elección de los comités ciudadanos y de los consejos de los pueblos.
 
 Para el cumplimiento de lo establecido en el párrafo tercero del artículo anterior, el Instituto Electoral está obligado a implementar programas de capacitación, educación, asesoría, evaluación del desempeño y comunicación en la materia.
@@ -354,9 +378,11 @@ Para la implementación de los programas y las evaluaciones señaladas en los p�
 
 La Asamblea Legislativa, a través de su Comisión de Participación Ciudadana y en el ámbito de sus atribuciones, coadyuvará con el Instituto Electoral para el cumplimiento de lo señalado en el presente artículo y en el artículo 15 de la Ley.
 
-> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+> <small>(REFORMADO EN SU DENOMINACIÓN, G.O. 7 DE JUNIO DE 2017)</small>
 
-## TÍTULO CUARTO. DE LOS INSTRUMENTOS DE PARTICIPACIÓN CIUDADANA
+## TÍTULO CUARTO
+
+DE LOS MECANISMOS E INSTRUMENTOS DE PARTICIPACIÓN CIUDADANA.
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -740,13 +766,65 @@ La autoridad convocante deberá informar, a más tardar noventa días luego de p
 
 En el caso de que el ejercicio de las funciones de la autoridad no corresponda a la opinión expresada por los participantes en ella, la autoridad deberá expresar con claridad la motivación y fundamentación de sus decisiones.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 7 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO IV BIS. DE LA CONSULTA POPULAR
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2017)</small>
+
+Artículo 50 BIS. Es el mecanismo a través del cual los ciudadanos, la Jefatura de Gobierno, el Congreso Local, los Alcaldes, las asambleas ciudadanas, los Comités Ciudadanos, los Consejos de los Pueblos o Barrios Originarios, y Comunidades Indígenas, por sí o en colaboración, a través del Instituto Electoral, someten a consideración de la ciudadanía en general por medio de preguntas directas, cualquier tema que tenga impacto trascendental en todo el territorio de la Ciudad de México.
+
+En los años en que se lleven a cabo los procesos electorales para la renovación de los órganos de elección popular en la Ciudad de México, se podrá realizar de forma simultánea un procedimiento de Consulta Popular.
+
+En el caso de la Consulta Popular las y los ciudadanos tienen derecho a la misma sobre temas de trascendencia de la Ciudad solicitándola al Congreso Local con 100 días previos a la celebración de las elecciones políticas electorales locales.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2017)</small>
+
+Artículo 50 TER. El Congreso Local convocará a la consulta a solicitud de:
+
+a) Al menos 2 por ciento de las personas inscritas en la lista nominal de electores de la ciudad;
+
+b) La persona titular de la Jefatura de Gobierno;
+
+c) Una tercera parte de las y los integrantes del Congreso Local;
+
+d) Un tercio de las Alcaldías;
+
+e) El equivalente al 10 por ciento de los Comités Ciudadanos o las Asambleas Ciudadanas; y
+
+f) El equivalente al 10 por ciento de los Pueblos o Barrios originarios y Comunidades Indígenas residentes.
+
+En las hipótesis anteriores quienes sean promoventes deberán nombrar a un comité promotor integrado por cinco personas que funjan como representantes comunes de la consulta y que serán asesorados por la Procuraduría de Participación Ciudadana, para el ejercicio pleno de sus derechos.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2017)</small>
+
+Artículo 50 CUARTER (SIC). La Consulta Popular se realizará el mismo día de la jornada electoral. Ningún instrumento de participación ciudadana, excluyendo la consulta popular, podrá llevarse a cabo cuando exista proceso electoral en la Ciudad de México.
+
+No podrá ser objeto de consulta popular, las decisiones en materia de derechos humanos, fiscal y no podrá versar sobre el régimen político, el sistema tributario local ni sobre cuestiones de seguridad interior.
+
+Una vez recibida la solicitud de consulta popular por parte de los actores señalados, el Congreso Local valorará el cumplimiento legal de la misma y de proceder, la remitirá al Instituto Electoral, a más tardar 7 días posteriores a su recepción, para confirmar, en el caso de los incisos e) y f), el cumplimiento de los requisitos de la solicitud, en un término de 10 días, e informará al respecto a dicho Congreso Local.
+
+De no proceder el requerimiento, se hará saber a los solicitantes, en un plazo de 3 días, las causas, las cuales podrán solventarse en plazo de 72 horas, excepto a las que se refieren en los porcentajes señalados en los incisos c), d), e) y f), que deberán ser cumplidos a cabalidad de manera estricta y oportuna. De no ser así, se perderá el derecho a la consulta popular para el periodo electoral de que se trate.
+
+De proceder la solicitud y no haber observaciones por parte del Congreso Local, en un término de 48 horas, el Consejo General del Instituto Electoral procederá a la integración de un Comité Técnico que elabore y proponga, en su caso, la pregunta o preguntas a consultar.
+
+El Comité tendrá 3 días para generar su propuesta que deberá ser avalada por el Consejo General del Instituto Electoral, mismo que sesionará y acordará la Convocatoria para la Consulta Popular, al menos en 75 días, para la realización de la misma que será coincidente con el proceso electoral.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2017)</small>
+
+Artículo 50 QUINQUIES. La Consulta Popular se hará, mediante las boletas respectivas, en la misma cantidad que se asigne a cada una de las mesas electorales que se aprueben para la elección. Las consultas ciudadanas serán vinculantes cuando cuenten con la participación de al menos el quince por ciento de las personas inscritas en el listado nominal de electores del ámbito respectivo
+
+Los votos obtenidos de la Consulta Popular se computarán una vez realizado el recuento de los sufragios de la elección y sus resultados se harán saber al Congreso Local y serán publicados para conocimiento de la ciudadanía.
+
+El procedimiento y sanciones por infracciones cometidas durante el procedimiento de consulta popular, se atenderá conforme a lo establecido por esta Ley.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2017)</small>
+
+Artículo 50 SEXIES. La investigación, persecución y sanción de los delitos cometidos durante el procedimiento de Consulta Popular, se atenderá conforme a la Ley General en Materia de Delitos Electorales y las demás normatividades aplicables.
+
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 ### CAPÍTULO V. DE LA COLABORACIÓN CIUDADANA
-
-> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
-
-### CAPÍTULO VI. DE LA RENDICIÓN DE CUENTAS
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -770,7 +848,7 @@ La autoridad tendrá un plazo no mayor de 15 días naturales para aceptar, recha
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
-### CAPÍTULO VII. DE LA DIFUSIÓN PÚBLICA
+### CAPÍTULO VI. DE LA RENDICIÓN DE CUENTAS
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -790,9 +868,27 @@ Los informes generales y específicos a que se refiere este artículo se harán 
 
 Si de la evaluación que hagan los ciudadanos, por sí o a través de las asambleas ciudadanas, se presume la comisión de algún delito o irregularidad administrativa la harán del conocimiento de las autoridades competentes. De igual manera se procederá en caso de que las autoridades omitan el cumplimiento de las obligaciones establecidas en el artículo anterior.
 
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2017)</small>
+
+Artículo 55 BIS. La plataforma electoral es aquella en la que los candidatos triunfadores a Jefe de Gobierno, Diputados, Alcaldes y Concejales, por ambos principios mayoría relativa y de representación proporcional de la Ciudad de México, dan a conocer sus planes, programas de gobierno, políticos y presupuestos.
+
+Los ciudadanos tienen el derecho de recibir de las autoridades los informes generales y específicos acerca de la gestión de sus planes, programas de gobierno, políticas y presupuestos y a partir de ellos, evaluar la función pública.
+
+Los diputados que integran el Congreso Local y el Jefe de Gobierno, los Alcaldes y Concejales rendirán informes por lo menos una vez al año y al final de su gestión para efectos de conocer el cumplimiento de la plataforma electoral que los llevó al triunfo.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2017)</small>
+
+Artículo 55 TER. Cuando se trate de la aplicación de los planes, programas de gobierno y presupuestos, las alcaldías deberán enviar a cada comité ciudadano, consejo de los pueblos y Consejos Ciudadanos Delegacionales a través de su coordinador, un informe pormenorizado sobre el cumplimiento de los compromisos establecidos en la plataforma electoral que los llevó al triunfo, el cual deberá ser enviado en un plazo no mayor a treinta días naturales posterior a la ejecución de cada propuesta cumplida.
+
+Los informes generales y específicos a que se refiere este artículo también se harán del conocimiento de los concejales en los mismos términos que a los órganos de representación Ciudadana.
+
+Si de la evaluación que hagan los órganos de representación ciudadana, por sí o a través de las asambleas ciudadanas, se presume la comisión de algún delito o irregularidad administrativa la harán del conocimiento de las autoridades competentes. De igual manera se procederá en caso de que las autoridades omitan su cumplimiento.
+
+De existir omisión relativa a los informes correspondientes, por parte de las autoridades, la misma se publicará en la Gaceta oficial de la Ciudad de México y en dos medios de mayor circulación en la Ciudad.
+
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
-### CAPÍTULO VIII. DE LA RED DE CONTRALORÍAS CIUDADANAS
+### CAPÍTULO VII. DE LA DIFUSIÓN PÚBLICA
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -828,7 +924,7 @@ La difusión se hará vía los Comités y Consejos Ciudadanos, a través de los 
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
-### CAPÍTULO IX. DE LA AUDIENCIA PÚBLICA
+### CAPÍTULO VIII. DE LA RED DE CONTRALORÍAS CIUDADANAS
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -896,7 +992,7 @@ VI. Las demás que expresamente se le asignen a través del Programa de Contralo
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
-### CAPÍTULO X. DE LOS RECORRIDOS DEL JEFE DELEGACIONAL
+### CAPÍTULO IX. DE LA AUDIENCIA PÚBLICA
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -986,7 +1082,7 @@ De ser necesaria la realización de subsecuentes reuniones entre la autoridad y 
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
-### CAPÍTULO XI. DE LA PARTICIPACIÓN COLECTIVA Y LAS ORGANIZACIONES CIUDADANAS
+### CAPÍTULO X. DE LOS RECORRIDOS DEL JEFE DELEGACIONAL
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1018,7 +1114,7 @@ Las medidas que como resultado del recorrido acuerde el Jefe Delegacional, será
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
-### CAPÍTULO XII. DE LAS ASAMBLEAS CIUDADANAS
+### CAPÍTULO XI. DE LA PARTICIPACIÓN COLECTIVA Y LAS ORGANIZACIONES CIUDADANAS
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1082,7 +1178,7 @@ VIII. Los demás que se consideren necesarios.
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
-### CAPÍTULO I. DEL COMITÉ CIUDADANO
+### CAPÍTULO XII. DE LAS ASAMBLEAS CIUDADANAS
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1266,7 +1362,7 @@ El Gobierno del Distrito Federal y las demarcaciones territoriales otorgarán la
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
-### CAPÍTULO II. DE LAS FUNCIONES DEL COMITÉ CIUDADANO
+### CAPÍTULO I. DEL COMITÉ CIUDADANO
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1294,9 +1390,9 @@ Los integrantes de los Comités Ciudadanos podrán ser reelectos hasta por un pe
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
-### CAPÍTULO III. DE LA INTEGRACIÓN Y ORGANIZACIÓN DEL COMITÉ CIUDADANO
+### CAPÍTULO II. DE LAS FUNCIONES DEL COMITÉ CIUDADANO
 
-> <small>(REFORMADO, PRIMER PÁRRAFO, G.O. 13 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 93.
 
@@ -1346,9 +1442,9 @@ XXI. Las demás que le otorguen la presente ley y demás ordenamientos del Distr
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
-### CAPÍTULO IV. DE LOS DERECHOS Y OBLIGACIONES DE LOS INTEGRANTES DEL COMITÉ CIUDADANO
+### CAPÍTULO III. DE LA INTEGRACIÓN Y ORGANIZACIÓN DEL COMITÉ CIUDADANO
 
-> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, PRIMER PÁRRAFO, G.O. 13 DE MAYO DE 2013)</small>
 
 ###### Artículo 94.
 
@@ -1454,7 +1550,7 @@ Las controversias que se susciten al interior y entre los Comités Ciudadanos se
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
-### CAPÍTULO V. DE LA ELECCIÓN DE LOS COMITÉS CIUDADANOS
+### CAPÍTULO IV. DE LOS DERECHOS Y OBLIGACIONES DE LOS INTEGRANTES DEL COMITÉ CIUDADANO
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1530,7 +1626,7 @@ El proceso de separación o remoción se regirá por lo establecido en el Capít
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
-### CAPÍTULO VI. DE LOS MEDIOS DE IMPUGNACIÓN Y NULIDADES
+### CAPÍTULO V. DE LA ELECCIÓN DE LOS COMITÉS CIUDADANOS
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1750,7 +1846,7 @@ Los integrantes de los Comités Ciudadanos electos de manera extraordinaria term
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
-### CAPÍTULO VII. DE LA COORDINACIÓN DE LOS COMITÉS CIUDADANOS
+### CAPÍTULO VI. DE LOS MEDIOS DE IMPUGNACIÓN Y NULIDADES
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1790,7 +1886,7 @@ En caso de que el Tribunal Electoral determine anular la votación en alguna col
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
-### CAPÍTULO ÚNICO. DE LOS CONSEJOS CIUDADANOS DELEGACIONALES
+### CAPÍTULO VII. DE LA COORDINACIÓN DE LOS COMITÉS CIUDADANOS
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1812,7 +1908,7 @@ Cuando se reúnan dos o más Comités Ciudadanos, cada uno deberá informar a la
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
-### CAPÍTULO I. GENERALIDADES DEL CONSEJO DEL PUEBLO
+### CAPÍTULO ÚNICO. DE LOS CONSEJOS CIUDADANOS DELEGACIONALES
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1978,7 +2074,7 @@ Canalizarán la demanda de los vecinos al Comité Ciudadano.
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
-### CAPÍTULO II. DE LAS FUNCIONES DEL CONSEJO DEL PUEBLO
+### CAPÍTULO I. GENERALIDADES DEL CONSEJO DEL PUEBLO
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1996,7 +2092,7 @@ Para fines de organización de los Consejos de los pueblos, esta se realizará a
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
-### CAPÍTULO III. DE LOS DERECHOS Y OBLIGACIONES DE LOS INTEGRANTES DEL CONSEJO DEL PUEBLO
+### CAPÍTULO II. DE LAS FUNCIONES DEL CONSEJO DEL PUEBLO
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -2044,9 +2140,9 @@ XIX. Las demás que le otorguen la presente ley y demás ordenamientos del Distr
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
-### CAPÍTULO I. DE LA INSTALACIÓN DE LOS COMITÉS CIUDADANOS
+### CAPÍTULO III. DE LOS DERECHOS Y OBLIGACIONES DE LOS INTEGRANTES DEL CONSEJO DEL PUEBLO
 
-> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 ###### Artículo 144.
 
@@ -2114,7 +2210,7 @@ La separación o remoción de algún integrante del consejo del pueblo se atendr
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPÍTULO II. DE LA ORGANIZACIÓN INTERNA Y DEL PLENO DEL COMITÉ CIUDADANO
+### CAPÍTULO I. DE LA INSTALACIÓN DE LOS COMITÉS CIUDADANOS
 
 > <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -2218,7 +2314,7 @@ V. Los Comités Ciudadanos que no sean instalados en la sesión colectiva por no
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPÍTULO III. DE LAS COORDINACIONES DE TRABAJO DEL COMITÉ CIUDADANO
+### CAPÍTULO II. DE LA ORGANIZACIÓN INTERNA Y DEL PLENO DEL COMITÉ CIUDADANO
 
 > <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -2416,7 +2512,7 @@ El coordinador interno, previa consulta con los integrantes del Comité, podrá 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPÍTULO IV. DE LA RELACIÓN CON LA ASAMBLEA CIUDADANA
+### CAPÍTULO III. DE LAS COORDINACIONES DE TRABAJO DEL COMITÉ CIUDADANO
 
 > <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -2570,7 +2666,7 @@ e) Las demás que se establezcan en la presente Ley y en otras disposiciones leg
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPÍTULO V. DE LOS APOYOS MATERIALES
+### CAPÍTULO IV. DE LA RELACIÓN CON LA ASAMBLEA CIUDADANA
 
 > <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -2710,7 +2806,7 @@ El resultado anual sobre el funcionamiento y desempeño del Comité Ciudadano qu
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPÍTULO VI. DE LA CAPACITACIÓN
+### CAPÍTULO V. DE LOS APOYOS MATERIALES
 
 > <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -2744,9 +2840,9 @@ La Asamblea Legislativa está obligada a aprobar, en el presupuesto anual del In
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPÍTULO VII. DE LA PARTICIPACIÓN DE LOS COMITÉS CIUDADANOS EN LOS INSTRUMENTOS DE PARTICIPACIÓN CIUDADANA
+### CAPÍTULO VI. DE LA CAPACITACIÓN
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 188.
 
@@ -2816,9 +2912,9 @@ La Asamblea Legislativa del Distrito Federal por medio de la Comisión de Partic
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPÍTULO VIII. DE LA PARTICIPACIÓN DE LOS COMITÉS CIUDADANOS EN EL PRESUPUESTO PARTICIPATIVO
+### CAPÍTULO VII. DE LA PARTICIPACIÓN DE LOS COMITÉS CIUDADANOS EN LOS INSTRUMENTOS DE PARTICIPACIÓN CIUDADANA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE ABRIL DE 2017)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 #### SECCIÓN PRIMERA. DEL PLEBISCITO, REFERÉNDUM E INICIATIVA POPULAR
 
@@ -2876,9 +2972,9 @@ El Jefe de Gobierno, las Dependencias, la Asamblea Legislativa y los Jefes Deleg
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPÍTULO IX. DE LA COORDINACIÓN DE LOS COMITÉS CIUDADANOS
+### CAPÍTULO VIII. DE LA PARTICIPACIÓN DE LOS COMITÉS CIUDADANOS EN EL PRESUPUESTO PARTICIPATIVO
 
-> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE ABRIL DE 2017)</small>
 
 ###### Artículo 199.
 
@@ -3006,7 +3102,7 @@ III. Las demás que establecen la presente Ley y otras disposiciones aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPÍTULO X. DE LAS DIFERENCIAS AL INTERIOR Y LAS RESPONSABILIDADES, SANCIONES Y EL PROCEDIMIENTO SANCIONADOR
+### CAPÍTULO IX. DE LA COORDINACIÓN DE LOS COMITÉS CIUDADANOS
 
 > <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -3038,7 +3134,7 @@ Los Comités Ciudadanos, por conducto de la coordinación interna o de los titul
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS Y SECCIONES QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPÍTULO ÚNICO. DE LOS CONSEJOS DEL PUEBLO
+### CAPÍTULO X. DE LAS DIFERENCIAS AL INTERIOR Y LAS RESPONSABILIDADES, SANCIONES Y EL PROCEDIMIENTO SANCIONADOR
 
 > <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -3268,9 +3364,9 @@ e) Cuando algún representante ciudadano renuncie o fallezca se procederá en t�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPÍTULO ÚNICO. DE LOS REPRESENTANTES DE MANZANA
+### CAPÍTULO ÚNICO. DE LOS CONSEJOS DEL PUEBLO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 227.
 
@@ -3328,9 +3424,9 @@ El coordinador de concertación comunitaria coordinará sus labores con la autor
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPÍTULO I. GENERALIDADES
+### CAPÍTULO ÚNICO. DE LOS REPRESENTANTES DE MANZANA
 
-> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 231.
 
@@ -3386,9 +3482,9 @@ Los representantes de manzana estarán sujetos al mismo régimen de faltas y san
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPÍTULO II. DE LA INSTALACIÓN
+### CAPÍTULO I. GENERALIDADES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 235.
 
@@ -3428,9 +3524,9 @@ El personal del Instituto Electoral estará presente en las sesiones del Consejo
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPÍTULO III. DE LOS DERECHOS Y OBLIGACIONES DE LOS INTEGRANTES DEL CONSEJO CIUDADANO
+### CAPÍTULO II. DE LA INSTALACIÓN
 
-> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 239.
 
@@ -3450,7 +3546,7 @@ El Instituto Electoral conseguirá los espacios físicos y demás elementos nece
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPÍTULO IV. DEL PLENO DEL CONSEJO CIUDADANO
+### CAPÍTULO III. DE LOS DERECHOS Y OBLIGACIONES DE LOS INTEGRANTES DEL CONSEJO CIUDADANO
 
 > <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -3504,7 +3600,7 @@ VI. Los demás que ésta y otras disposiciones jurídicas les señalen.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPÍTULO V. DE LAS COMISIONES DE TRABAJO
+### CAPÍTULO IV. DEL PLENO DEL CONSEJO CIUDADANO
 
 > <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -3690,7 +3786,7 @@ En los supuestos a que se refieren las fracciones V, VII, VIII y IX del artícul
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPÍTULO VI. DE LAS DIFERENCIAS AL INTERIOR Y DE LAS RESPONSABILIDADES, SANCIONES Y PROCEDIMIENTO SANCIONADOR
+### CAPÍTULO V. DE LAS COMISIONES DE TRABAJO
 
 > <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -3783,6 +3879,10 @@ Las sesiones de las comisiones de trabajo se realizarán por lo menos una vez al
 Las convocatorias, discusiones, votaciones y, en general, el desarrollo de las sesiones de las comisiones de trabajo se regirán por lo dispuesto en la presente Ley para el pleno de los Consejos Ciudadanos y de los Comités Ciudadanos.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+### CAPÍTULO VI. DE LAS DIFERENCIAS AL INTERIOR Y DE LAS RESPONSABILIDADES, SANCIONES Y PROCEDIMIENTO SANCIONADOR
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 262.
 
@@ -4345,3 +4445,25 @@ G.O. 5 DE ABRIL DE 2017.
 PRIMERO. Remítase el presente Decreto al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 7 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE CONTIENE LAS OBSERVACIONES DEL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO RESPECTO DEL DIVERSO POR EL QUE SE ABROGA EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL Y LA LEY PROCESAL ELECTORAL DEL DISTRITO FEDERAL Y SE EXPIDE EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO Y LA LEY PROCESAL ELECTORAL PARA (SIC) CIUDAD DE MÉXICO; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL Y DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Para su mayor difusión, publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- El presente decreto deberá estar vigente a más tardar 90 días antes de que inicie el proceso electoral 2017- 2018.
+
+CUARTO.- Se reforma y adiciona la Ley de Participación Ciudadana del Distrito Federal publicada en la Gaceta Oficial del Distrito Federal el 17 de mayo de 2004, y se derogan todas las disposiciones contenidas en otras legislaciones que sean contrarias al presente Decreto.
+
+QUINTO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+SEXTO.- El Instituto Electoral de la Ciudad de México, deberá adecuar los lineamientos internos a fin de adecuarlos al presente Decreto.
+
+SÉPTIMO.- Una vez entrada en vigor la Constitución Política de la Ciudad de México, los mecanismos e instrumentos de participación ciudadana se regularán por lo establecido en la Constitución Política de la Ciudad de México y por la Ley de Participación Ciudadana que al efecto emita el Congreso de la Ciudad de México, con excepción de la Consulta Popular que se regulará por la Ley de Participación Ciudadana vigente, a fin de que ésta pueda llevarse a cabo el día de la elección durante el proceso 2017-2018.
+
+OCTAVO.- Las alcaldías deberán informar trimestralmente al Congreso de la Ciudad de México acerca del ejercicio, seguimiento y control del presupuesto participativo; el primer informe, deberá presentarse a más tardar el 11 de abril; el segundo informe, el 11 de julio; el tercer informe, el 10 de octubre. En lo que corresponde al cuarto informe, este deberá presentarse el 10 de enero del año inmediato. Estos informes deberán presentarse a partir del año 2017.
+
+NOVENO.-Todas las referencias hechas al Congreso de la Ciudad de México, se entenderán como facultades concedidas a la Asamblea Legislativa del Distrito Federal, en tanto concluye la VII Legislatura y se instala el Congreso Local.
