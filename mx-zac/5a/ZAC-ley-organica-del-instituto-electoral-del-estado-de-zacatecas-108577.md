@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-instituto-electoral-del-estado-de-zacatecas-10
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-06-06"
-last_updated: "2017-06-03"
+last_updated: "2017-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2017.
 
 Ley publicada en el Suplemento 4 del Periódico Oficial del Estado de Zacatecas, el sábado 6 junio de 2015.
 
@@ -43,7 +43,7 @@ RESULTANDO TERCERO. El proponente expone, como motivos de su propuesta, lo que a
 
 EXPOSICIÓN DE MOTIVOS
 
-[…]
+[...]
 
 Por lo anteriormente expuesto y fundado y con apoyo además en lo dispuesto en los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 
@@ -163,7 +163,9 @@ VII. Garantizar la celebración pacífica de los procesos de participación ciud
 
 VIII. Garantizar la transparencia y el acceso a la información pública del Instituto; y
 
-IX. Difundir la cultura democrática con perspectiva de género.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+IX. Difundir la cultura democrática con perspectiva de género, enfoque de igualdad sustantiva y paridad entre mujeres y hombres.
 
 2. Todas las actividades de los órganos del Instituto se regirán por los principios de certeza, imparcialidad, independencia, legalidad, máxima publicidad y objetividad, previstos en la Constitución Local.
 
@@ -441,7 +443,9 @@ ARTÍCULO 18
 
 3. En las acciones relativas a la adquisición, arrendamiento, incorporación, desincorporación y enajenación de bienes que realice el Instituto deberán cumplirse los requisitos y formalidades que las entidades públicas deben satisfacer en términos de las leyes correspondientes.
 
-4. El Instituto destinará, como mínimo, el 5% de su presupuesto anual al fortalecimiento de la cultura cívica con perspectiva de género, así como para la capacitación y formación permanente en la materia de todo el personal que integra su estructura orgánica, independientemente de los recursos destinados para tal efecto contemplados en el párrafo tercero de este artículo.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+4. El Instituto destinará, como mínimo, el 5% de su presupuesto anual al fortalecimiento de la cultura cívica con perspectiva de género y con enfoque de igualdad sustantiva y paridad entre los géneros; así como para la capacitación y formación permanente en la materia de todo el personal que integra su estructura orgánica, independientemente de los recursos destinados para tal efecto contemplados en el párrafo tercero de este artículo.
 
 ### CAPÍTULO SEGUNDO. DE LA RENDICIÓN DE CUENTAS DEL INSTITUTO
 
@@ -703,7 +707,9 @@ XLVIII. Aprobar la creación o supresión de plazas permanentes al servicio del 
 
 XLIX. Aprobar las normas que regirán al personal eventual, a propuesta de la Comisión del Servicio Profesional Electoral;
 
-L. Implantar y fomentar permanentemente la educación democrática y la cultura de equidad entre los géneros, así como cursos de capacitación dirigidos a servidores públicos del Instituto, partidos políticos y en general, a mujeres, ciudadanos, jóvenes, niñas y niños del Estado, de conformidad con las (sic) programas aprobados y los convenios que en esta materia se celebren con el Instituto Nacional;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+L. Implantar y fomentar permanentemente la educación democrática y la cultura de equidad entre los géneros, con enfoque de igualdad sustantiva y paridad entre mujeres y hombres; así como cursos de capacitación dirigidos a servidores públicos del Instituto, partidos políticos y en general, a mujeres, ciudadanos, jóvenes, niñas y niños del Estado, de conformidad con los programas aprobados y los convenios que en esta materia se celebren con el Instituto Nacional;
 
 LI. Establecer las bases y emitir los lineamientos a que se sujetarán los debates públicos entre los candidatos a puestos de elección popular y tomar las medidas necesarias para su difusión, de conformidad con la Ley General de Instituciones;
 
@@ -733,7 +739,9 @@ LXIII. Aprobar la normatividad relacionada con el empleo de sistemas e instrumen
 
 LXIV. Ordenar se publiquen en el Periódico Oficial, Órgano del Gobierno del Estado, los acuerdos, resoluciones y reglamentos que así determine el Consejo General;
 
-LXV. Organizar los ejercicios de referéndum y plebiscito, de conformidad con la convocatorio (sic) que emita la Legislatura del Estado;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+LXV. Organizar los ejercicios de referéndum y plebiscito, de conformidad con la convocatoria que emita la Legislatura del Estado;
 
 LXVI. Intervenir, en el ámbito de su competencia en los ejercicios de participación ciudadana que establezca la Ley de la materia;
 
@@ -777,7 +785,9 @@ LXXXV. Aprobar a más tardar el día último de enero, la modificación y aplica
 
 LXXXVI. Remover con el voto de las dos terceras partes de sus integrantes, al Secretario Ejecutivo y a los titulares de las Direcciones Ejecutivas y órganos técnicos, por las causas graves que establezca el Estatuto del Servicio Profesional Electoral Nacional y esta Ley;
 
-LXXXVII. Hacer cumplir, en el ámbito de su competencia, las disposiciones legales relacionadas con la paridad entre los géneros y la calidad de jóvenes, en las postulaciones de candidaturas a cargos de elección popular hechas por los partidos políticos; así como impulsar permanentemente entre los servidores públicos del Instituto, la militancia de los partidos políticos y la ciudadanía en general, la cultura de la paridad entre los géneros a través de cursos de capacitación, investigaciones, talleres, foros y demás acciones dirigidas a tal fin;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+LXXXVII. Hacer cumplir, en el ámbito de su competencia, las disposiciones legales relacionadas con la paridad entre los géneros y la calidad de jóvenes, en las postulaciones de candidaturas a cargos de elección popular hechas por los partidos políticos; así como impulsar permanentemente entre los servidores públicos del Instituto, la militancia de los partidos políticos y la ciudadanía en general, el enfoque de igualdad sustantiva y la cultura de la paridad entre los géneros a través de cursos de capacitación, investigaciones, talleres, foros y demás acciones dirigidas a tal fin;
 
 LXXXVIII. Aprobar los lineamientos que regirán el voto electrónico, así como las casillas en que se instalarán urnas electrónicas; y
 
@@ -1173,9 +1183,13 @@ ARTÍCULO 44
 
 I. Supervisar las actividades encomendadas a la Unidad de Comunicación Social;
 
-II. Someter a la consideración del Consejo General la aprobación de proyectos de programas de radio y televisión para la difusión de los objetivos y principios rectores del Instituto, contribuyendo a la difusión de la culturas (sic) democrática y de equidad de género, así como al fortalecimiento del régimen de partidos políticos;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-III. Presentar al Consejo General, proyectos de promoción y difusión de la cultura democrática y de equidad de género;
+II. Someter a la consideración del Consejo General la aprobación de proyectos de programas de radio y televisión para la difusión de los objetivos y principios rectores del Instituto, contribuyendo a la difusión de la cultura democrática, con enfoque de igualdad sustantiva y paridad entre los géneros promoviendo el lenguaje incluyente, así como al fortalecimiento del régimen de partidos políticos;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+III. Presentar al Consejo General, proyectos de promoción y difusión de la cultura democrática con enfoque de igualdad sustantiva y paridad entre los géneros;
 
 IV. Presentar al Consejo General el Programa General de Difusión y Comunicación con la Ciudadanía, previo al inicio de los procesos electorales o de participación ciudadana;
 
@@ -1205,7 +1219,9 @@ III. Aprobar el contenido de los materiales didácticos, instructivos, tríptico
 
 IV. Supervisar la ejecución del Programa de Paridad entre los Géneros;
 
-V. Dar seguimiento a las actividades de fomento a la educación y la cultura de paridad entre los géneros;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+V. Dar seguimiento a las actividades de fomento a la educación y la cultura de igualdad sustantiva y paridad entre los géneros;
 
 VI. Vigilar el cumplimiento de las disposiciones de esta Ley, relacionadas con el cumplimiento del principio de paridad en las candidaturas a cargos de elección popular, tanto por el principio de mayoría relativa como por el principio de representación proporcional, de conformidad con lo establecido en la Ley Electoral;
 
@@ -1215,17 +1231,23 @@ VIII. Vigilar el monitoreo permanente que la Dirección Ejecutiva de Paridad ent
 
 IX. Proponer al Consejo General lineamientos técnicos y administrativos dirigidos a los partidos políticos para el fomento a la participación política de las mujeres y el incremento de su representación en los espacios públicos de decisión del estado;
 
-X. Proponer al Consejo General, la asignación de las partidas correspondientes al fomento a la cultura de la paridad entre los géneros;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+X. Proponer al Consejo General, la asignación de las partidas correspondientes al fomento a la cultura de igualdad sustantiva y de paridad entre los géneros;
 
 XI. Presentar ante el Consejo General un informe especial sobre la situación general que guarda el impulso a la participación política de las mujeres en el estado, en un plazo no mayor a seis meses después de haber concluido el proceso electoral ordinario;
 
 XII. Proponer al Consejo General, la celebración de convenios para la colaboración y coordinación de acciones con los partidos políticos, las organizaciones de la sociedad civil e instituciones académicas especializadas en los temas relacionados con la paridad entre los géneros, con el objetivo de impulsar el ejercicio de los derechos políticos de las mujeres;
 
-XIII. Presentar al Consejo General mecanismos para la estandarización de los procesos y acciones tendientes al desarrollo de la participación política de las mujeres, al interior del Instituto y los partidos políticos;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+XIII. Presentar al Consejo General mecanismos para la estandarización de los procesos y acciones tendientes al desarrollo de la participación política de las mujeres, así como los mecanismos para prevenir, atender y sancionar la violencia política en contra de las mujeres al interior del Instituto;
 
 XIV. Conformar el observatorio electoral con perspectiva de género para dar seguimiento a las precandidatas y candidatas durante los procesos electorales;
 
-XV. Supervisar las campañas informativas y de difusión que desarrollen de manera coordinada las Direcciones de Paridad entre los Géneros y Comunicación Social, orientadas a sensibilizar a la población sobre la paridad en la participación política, los mecanismos que la fomentan y aquéllos que sancionan su incumplimiento; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+XV. Supervisar las campañas informativas y de difusión que desarrollen de manera coordinada la Dirección de Paridad entre los Géneros y la Unidad de Comunicación Social, orientadas a sensibilizar a la población sobre la paridad en la participación política, los mecanismos que la fomentan y aquéllos que sancionan su incumplimiento; y
 
 XVI. Las demás que le confiera esta Ley y los reglamentos del Consejo General.
 
@@ -1547,13 +1569,17 @@ ARTÍCULO 54
 
 1. Son atribuciones del titular de la Dirección Ejecutiva de Capacitación Electoral y Cultura Cívica:
 
-I. Elaborar y proponer el proyecto de programa anual de actividades en materia de capacitación electoral y cultura cívica con perspectiva de género, para su aprobación por el Consejo General, de conformidad con los acuerdos y programas que emita el Instituto Nacional y los convenios respectivos;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+I. Elaborar y proponer el proyecto de programa anual de actividades en materia de capacitación electoral y cultura cívica con enfoque de igualdad sustantiva y paridad entre los géneros, para su aprobación por el Consejo General, de conformidad con los acuerdos y programas que emita el Instituto Nacional y los convenios respectivos;
 
 II. Coadyuvar con el Instituto Nacional en la ejecución del programa de capacitación electoral que se desarrollará durante los procesos electorales;
 
 III. Elaborar y proponer al Consejo General, el programa de elecciones infantiles y juveniles con perspectiva de género a desarrollar en los procesos electorales;
 
-IV. Preparar el material didáctico y los instructivos electorales, de conformidad con los Lineamientos que emita el Instituto Nacional;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+IV. Preparar el material didáctico y los instructivos electorales, de conformidad con los Lineamientos que emita el Instituto Nacional, utilizando lenguaje incluyente;
 
 V. Orientar a los ciudadanos para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
 
@@ -1639,9 +1665,13 @@ ARTÍCULO 57
 
 I. Elaborar y proponer el proyecto de programa de actividades en materia de paridad entre los géneros, para que se integre a las políticas y programas anuales del Instituto;
 
-II. Preparar los materiales didácticos, instructivos, trípticos y demás insumos necesarios para la ejecución del programa de paridad;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-III. Realizar actividades de fomento a la educación y la cultura de paridad entre los géneros;
+II. Preparar los materiales didácticos, instructivos, trípticos y demás insumos necesarios para la ejecución del programa de paridad, utilizando lenguaje incluyente;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+III. Realizar actividades de fomento a la educación y la cultura de paridad entre los géneros, con enfoque de igualdad sustantiva entre mujeres y hombres;
 
 IV. Llevar a cabo las acciones necesarias para vigilar el cumplimiento a las disposiciones de esta Ley, relacionadas con la asignación y distribución de candidaturas a cargos de elección popular, tanto por el principio de mayoría relativa como por el principio de representación proporcional, de conformidad con lo establecido en la Ley Electoral en materia de paridad entre los géneros;
 
@@ -1649,11 +1679,15 @@ V. Verificar y proponer al Consejo se cumpla con la asignación de presupuestos 
 
 VI. Elaborar y proponer para su aprobación por el Consejo General, los lineamientos técnicos y administrativos para el fomento a la participación política de las mujeres y el incremento de su representación en los espacios públicos de decisión del Estado;
 
-VII. Elaborar un informe especial sobre la situación general que guarda el impulso a la participación política de las mujeres en el Estado, dentro de los 45 días posteriores a la conclusión del proceso electoral ordinario;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+VII. Elaborar un informe especial sobre la situación general que guarda el impulso a la participación política de las mujeres en el Estado, dentro de los seis meses posteriores a la conclusión del proceso electoral ordinario;
 
 VIII. Elaborar en coordinación con la Dirección Ejecutiva de Asuntos Jurídicos, los convenios para la colaboración y coordinación de acciones con los partidos políticos, las organizaciones de la sociedad civil e instituciones académicas especializadas en los temas relacionados con la paridad entre los géneros, con el objetivo de impulsar el ejercicio de los derechos políticos entre las mujeres;
 
-IX. Elaborar y proponer los mecanismos para la estandarización de los procesos y acciones tendientes al desarrollo de la participación política de las mujeres, al interior del Instituto y los partidos políticos, para su aprobación por el Consejo General;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+IX. Elaborar y proponer los mecanismos para la estandarización de los procesos y acciones tendientes al desarrollo de la participación política de las mujeres, al interior del Instituto y los partidos políticos, para su aprobación por el Consejo General, así como los lineamientos para prevenir y evitar la violencia política en contra de las mujeres;
 
 X. Orientar a la ciudadanía en materia del ejercicio de los derechos políticos de las mujeres;
 
@@ -1661,7 +1695,9 @@ XI. Coadyuvar con la Unidad del Servicio Profesional Electoral en las tareas rel
 
 XII. Coordinar las tareas relacionadas con la capacitación y actualización permanente de la militancia de los partidos, en materia de ejercicio de los derechos políticos de las mujeres y equidad entre los géneros;
 
-XIII. Diseñar y proponer en coordinación con la Unidad de Comunicación Social, las campañas informativas y de difusión orientadas a sensibilizar a la población sobre la paridad en la participación política, los mecanismos que la fomentan y aquéllos que sancionan su incumplimiento, para su aprobación por el Consejo General;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+XIII. Diseñar y proponer en coordinación con la Unidad de Comunicación Social, las campañas informativas y de difusión orientadas a sensibilizar a la población sobre la paridad en la participación política, los mecanismos que la fomentan y aquéllos que sancionan su incumplimiento, para su aprobación por el Consejo General, utilizando lenguaje incluyente;
 
 XIV. Actuar como secretaría técnica de la Comisión de Paridad entre los Géneros;
 
@@ -2496,3 +2532,11 @@ Artículo tercero. En el Presupuesto de Egresos del Estado de Zacatecas para el 
 Artículo cuarto. En caso de que alguno o algunos servidores públicos que forman parte de la estructura orgánica del Instituto, pasaran a integrar el Órgano Interno de Control, conservarán sus derechos laborales y de seguridad social.
 
 Artículo quinto. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 7 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 160.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE ZACATECAS Y DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
