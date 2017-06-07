@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-instituciones-y-procedimientos-electorales-del-109151"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-15"
-last_updated: "2017-02-06"
+last_updated: "2017-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 15 de julio de 2015.
 
@@ -221,11 +221,17 @@ Por cada Síndico Procurador y cada Regidor propietario se elegirá un suplente.
 
 Los Ayuntamientos se integran de la forma siguiente:
 
-I. Ahome, Guasave, Culiacán y Mazatlán: con un Presidente Municipal, un Síndico Procurador, once Regidurías de mayoría relativa y siete Regidurías de representación proporcional;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-II. El Fuerte, Sinaloa, Salvador Alvarado, Mocorito, Navolato, Rosario y Escuinapa: con un Presidente Municipal, un Síndico Procurador, ocho Regidurías de mayoría relativa y cinco Regidurías de representación proporcional; y,
+I. Ahome, Guasave, Culiacán y Mazatlán: con un Presidente Municipal, un Síndico Procurador, siete Regidurías de mayoría relativa y cinco Regidurías de representación proporcional;
 
-III. Choix, Angostura, Badiraguato, Cosalá, Elota, San Ignacio y Concordia: con un Presidente Municipal, un Síndico Procurador, seis Regidurías de mayoría relativa y cuatro Regidurías de representación proporcional.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+II. El Fuerte, Sinaloa, Salvador Alvarado, Mocorito, Navolato, Rosario y Escuinapa: con un Presidente Municipal, un Síndico Procurador, cinco Regidurías de mayoría relativa y cuatro Regidurías de representación proporcional; y,
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+III. Choix, Angostura, Badiraguato, Cosalá, Elota, San Ignacio y Concordia: con un Presidente Municipal, un Síndico Procurador, tres Regidurías de mayoría relativa y tres Regidurías de representación proporcional.
 
 ###### Artículo 16.
 
@@ -3439,9 +3445,9 @@ VIII. El incumplimiento de las demás disposiciones previstas en esta ley y dem�
 
 IX. La contratación, en forma directa o por terceras personas, de tiempo en cualquier modalidad en radio o televisión;
 
-(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-X. La difusión de propaganda política o electoral que contenga expresiones que impliquen calumnia, INFAMIA, INJURIA, DIFAMACIÓN O QUE PUEDA DENIGRAR a los ciudadanos, a las personas morales y candidatos o que realicen actos de violencia de género tendentes a impedir el ejercicio pleno de sus derechos políticos electorales;
+X. La difusión de propaganda política o electoral que contenga expresiones que impliquen calumnia a los ciudadanos, a las personas morales y candidatos o que realicen actos de violencia de género tendentes a impedir el ejercicio pleno de sus derechos políticos electorales;
 
 XI. El incumplimiento de las obligaciones establecidas en la Legislación en materia de transparencia y acceso a la información;
 
@@ -4196,3 +4202,15 @@ PRIMERO.- Las declaraciones de invalidez decretadas en los resolutivos que recae
 SEGUNDO.- Notifíquese de manera inmediata del cumplimiento de los resolutivos de las sentencias de las acciones de inconstitucionalidad expresadas en el artículo transitorio anterior a la Suprema Corte de Justicia de la Nación.
 
 TERCERO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 7 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 144 QUE REFORMA LAS FRACCIONES I, II Y III DEL ARTÍCULO 15 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA”.]
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 7 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 147 POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 270 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA".]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
