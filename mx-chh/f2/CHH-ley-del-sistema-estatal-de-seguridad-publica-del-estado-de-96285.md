@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-9628
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2016-12-10"
+last_updated: "2017-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de octubre de 2013.
 
@@ -115,7 +115,9 @@ XIV. Constitución: La Constitución Política de los Estados Unidos Mexicanos.
 
 XV. Constitución local: La Constitución Política del Estado Libre y Soberano de Chihuahua.
 
-XVI. Escuela Estatal: La Escuela Estatal de Policía dependiente de la Fiscalía General, encargada de la formación y actualización especializada de aspirantes e integrantes del Desarrollo Profesional Ministerial, Pericial y Policial.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+XVI. Instituto: El Instituto Estatal de Seguridad Pública dependiente de la Fiscalía General, encargado de la formación y actualización especializada de aspirantes e integrantes del Desarrollo Profesional Ministerial, Pericial y Policial.
 
 XVII. Fiscalía Especializada en Control: La Fiscalía Especializada en Control, Análisis y Evaluación de la Fiscalía General del Estado.
 
@@ -125,7 +127,9 @@ XIX. Hoja de Servicios: El documento que resume la trayectoria de cada integrant
 
 XX. Instituciones de Seguridad Pública: La Institución del Ministerio Público, los servicios periciales, las Instituciones Policiales y dependencias encargadas de la Seguridad Pública del Estado y de los municipios.
 
-XXI. Instituciones Policiales: Las corporaciones de policía del Estado, incluyendo vialidad y tránsito y agentes de seguridad, custodia y traslado tanto de los centros de reinserción social como de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales, así como las corporaciones policiales de los municipios, comprendiendo vialidad y tránsito.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+XXI. Instituciones Policiales: La Comisión Estatal de Seguridad Pública, la Agencia Estatal de Investigación y los agentes de seguridad, custodia y traslado, tanto de los centros de reinserción social como de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales, dependientes de la Fiscalía General, así como las corporaciones policiales de los municipios, comprendiendo vialidad y tránsito.
 
 XXII. Integrantes: Los Integrantes de las Instituciones de Seguridad Pública.
 
@@ -135,7 +139,9 @@ XXIV. Ley General: La Ley General del Sistema Nacional de Seguridad Pública.
 
 XXV. Órgano de Asuntos Internos: La Fiscalía Especializada en Control, Análisis y Evaluación de la Fiscalía General del Estado o el órgano interno de control, o instancia equivalente, de los municipios.
 
-XXVI. Policía Preventiva: Las Divisiones Preventiva y de Reacción de la Policía Estatal Única, así como la Policía Preventiva municipal, conforme a los artículos 21 y 115 fracción III, inciso h), de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+XXVI. Policía: Las Divisiones de Fuerzas Estatales, de Operaciones Especiales, de Inteligencia, de Policía Vial, de Operaciones Rurales y de Seguridad Bancaria y Comercial de la Comisión Estatal de Seguridad, la Policía de Investigación y la Policía de Seguridad, Custodia y Traslado y de Vigilancia de Audiencias Judiciales, así como la Policía Preventiva municipal, conforme a los artículos 21 y 115, fracción III, inciso h), de la Constitución Política de los Estados Unidos Mexicanos.
 
 XXVII. Procedimiento: El instaurado a los Integrantes de las Instituciones de Seguridad Pública ante las Comisiones del Servicio Profesional de Carrera, Honor y Justicia, por incumplimiento a los requisitos de permanencia o infracción al régimen disciplinario, respectivamente.
 
@@ -621,9 +627,11 @@ Los Consejos Regionales para Impulsar la Cultura de la Legalidad, se integrarán
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+
 ###### Artículo 49.
 
-El Servicio Profesional de Carrera es el conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí, que comprende los esquemas de profesionalización, el ingreso, el desarrollo, la certificación y la terminación y tiene por objeto garantizar el desarrollo institucional; la estabilidad, seguridad e igualdad de oportunidades de los Integrantes; elevar la profesionalización mediante los estudios que realicen en la Escuela Estatal y las Academias; fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez, certeza, imparcialidad y respeto a los derechos fundamentales reconocidos en la Constitución, en la Constitución local y en los Tratados Internacionales de los que México forme parte.
+El Servicio Profesional de Carrera es el conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí, que comprende los esquemas de profesionalización, el ingreso, el desarrollo, la certificación y la terminación, y tiene por objeto garantizar el desarrollo institucional; la estabilidad, seguridad e igualdad de oportunidades de los Integrantes; elevar la profesionalización mediante los estudios que realicen en el Instituto y las Academias; fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez, certeza, imparcialidad y respeto a los derechos fundamentales reconocidos en la Constitución, en la Constitución local y en los Tratados Internacionales de los que México forme parte.
 
 El Servicio Profesional de Carrera en las Instituciones de Seguridad Pública, comprende a los agentes del Ministerio Público y peritos, así como a los Integrantes de las Instituciones Policiales del Estado y los municipios, en su respectivo ámbito de competencia, incluyendo a los agentes de vialidad y tránsito, agentes de seguridad, custodia y traslado de los centros de reinserción social, de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales.
 
@@ -683,7 +691,9 @@ II. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certifica
 
 III. Ninguna persona podrá ingresar a las Instituciones de Seguridad Pública si no ha sido debidamente certificado y registrado en el Sistema Estatal de Seguridad Pública.
 
-IV. Sólo ingresarán y permanecerán en las Instituciones de Seguridad Pública, los aspirantes e Integrantes que cursen y aprueben los programas de ingreso, formación, capacitación y profesionalización de la Escuela Estatal o de las Academias.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+IV. Sólo ingresarán y permanecerán en las Instituciones de Seguridad Pública, los aspirantes e Integrantes que cursen y aprueben los programas de ingreso, formación, capacitación y profesionalización del Instituto o de las Academias.
 
 V. La permanencia de los Integrantes estará condicionada al cumplimiento de los requisitos que determine esta Ley y demás disposiciones legales y reglamentarias aplicables.
 
@@ -753,15 +763,23 @@ II. Ser de notoria buena conducta y no estar sujeto a proceso penal ni haber sid
 
 III. Acreditar los siguientes estudios:
 
-a) Para agentes del Ministerio Público, licenciatura en derecho.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
-b) Para peritos, licenciatura para ejercer la ciencia, técnica, arte o disciplina de que se trate o acreditar plenamente los conocimientos correspondientes a la disciplina sobre la que deba dictaminar, cuando de acuerdo con las normas aplicables no requiera de título o cédula profesional para su ejercicio.
+a) Para agentes del Ministerio Público, contar con título de licenciatura en derecho y cédula profesional.
 
-c) Para agentes de policía de investigación, licenciatura.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
-d) Para policía preventivo y agente de vialidad y tránsito, educación media superior.
+b) Para peritos, deberán contar con licenciatura. Para ejercer la ciencia o especialidad en alguna profesión regulada por la Ley de Profesiones para el Estado de Chihuahua, deberán contar con el título respectivo.
 
-e) Para policía de reacción, agentes de seguridad, custodia y traslado de los centros de reinserción social, de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales, educación secundaria.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+c) Para Integrantes de la Agencia Estatal de Investigación y de la División de Inteligencia de la Comisión Estatal de Seguridad, nivel licenciatura, con excepción de los integrantes de la Policía de Seguridad, Custodia y Traslado y de Vigilancia de Audiencias Judiciales, quienes deberán acreditar el nivel de educación media superior.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+d) Para el resto de la Policía, deberán contar con educación media superior.
+
+e) (DEROGADO, P.O. 7 DE JUNIO DE 2017)
 
 IV. En su caso, tener acreditado el Servicio Militar Nacional.
 
@@ -791,13 +809,17 @@ Los candidatos a ingresar al Servicio Profesional de Carrera deberán cumplir co
 
 En caso de que el candidato no apruebe la etapa de formación inicial, será excluido de la misma y no continuará con el proceso para el ingreso.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
 ###### Artículo 63.
 
-La Escuela Estatal y las Academias proporcionarán a la Comisión del Servicio Profesional de Carrera respectiva, la relación de aspirantes que hayan concluido satisfactoriamente su formación básica, en el orden de prelación que resulte del promedio general de calificación académica y actualizarán la información en el Registro Estatal de Personal con los nuevos Integrantes, sin perjuicio de lo dispuesto por la Ley General.
+El Instituto y las Academias proporcionarán a la Comisión del Servicio Profesional de Carrera respectiva, la relación de aspirantes que hayan concluido satisfactoriamente su formación básica, en el orden de prelación que resulte del promedio general de calificación académica y actualizarán la información en el Registro Estatal de Personal con los nuevos Integrantes, sin perjuicio de lo dispuesto por la Ley General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 64.
 
-La Comisión del Servicio Profesional de Carrera, Honor y Justicia respectiva, con base en la información proporcionada por la Escuela Estatal o las Academias, declarará procedente el ingreso de los aspirantes que hayan resultado aprobados en el proceso correspondiente en términos del artículo 60 de esta Ley; asimismo, publicará el listado respectivo y lo comunicará a la Institución de Seguridad Pública correspondiente a efecto de que, conforme a las posibilidades presupuestales de la misma, proceda a su contratación.
+La Comisión del Servicio Profesional de Carrera, Honor y Justicia respectiva, con base en la información proporcionada por el Instituto o las Academias, declarará procedente el ingreso de los aspirantes que hayan resultado aprobados en el proceso correspondiente en términos del artículo 60 de esta Ley; asimismo, publicará el listado respectivo y lo comunicará a la Institución de Seguridad Pública correspondiente a efecto de que, conforme a las posibilidades presupuestales de la misma, proceda a su contratación.
 
 La Institución expedirá los nombramientos o constancias de grado correspondientes, formalizándose con ello la relación administrativa de los Integrantes con la misma.
 
@@ -897,7 +919,9 @@ I. Registrar en el Informe Policial Homologado los datos de las actividades e in
 
 II. Remitir a la instancia que corresponda la información recopilada, en el cumplimiento de sus misiones o en el desempeño de sus actividades, para su análisis y registro. Asimismo, entregar la información que les sea solicitada por otras Instituciones de Seguridad Pública, en los términos de las leyes correspondientes.
 
-III. Apoyar en la investigación y persecución de delitos, así como en situaciones de grave riesgo, catástrofes o desastres, a las autoridades que se lo soliciten.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+III. Apoyar en la investigación y persecución de delitos bajo el mando y conducción del Ministerio Público, así como en situaciones de grave riesgo, catástrofes o desastres, a las autoridades que lo soliciten.
 
 IV. Ejecutar los mandamientos judiciales y ministeriales.
 
@@ -1443,7 +1467,9 @@ XVII. Fungir como enlace con el Centro Nacional de Certificación y Acreditació
 
 XVIII. Las demás que establezcan la Ley General, la presente Ley y la normatividad aplicable.
 
-### CAPÍTULO XIV. DE LA ESCUELA ESTATAL DE POLICÍA Y LAS ACADEMIAS
+### CAPÍTULO XIV. DEL INSTITUTO ESTATAL DE SEGURIDAD PÚBLICA Y LAS ACADEMIAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 122.
 
@@ -1545,11 +1571,13 @@ Las Instituciones de Seguridad Pública implementarán medidas de registro y seg
 
 La Fiscalía Especializada en Control, vigilará que los procesos para la selección, ingreso, formación, permanencia, capacitación, profesionalización, evaluación, reconocimiento, promoción, certificación y registro de los Integrantes, se efectúen con estricto apego a lo previsto en la Ley General, en esta Ley, así como a los criterios que fijen las instancias respectivas del Sistema Nacional.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2017)</small>
+
 ### CAPÍTULO XV. DE LA PROFESIONALIZACIÓN
 
 ###### Artículo 137.
 
-La Escuela Estatal y las Academias serán las responsables de elaborar y aplicar los planes y programas de capacitación, instrucción o formación de conformidad con el Programa Rector de cada Institución de Seguridad Pública y tendrán, entre otras, las siguientes funciones:
+El Instituto y las Academias serán las responsables de elaborar y aplicar los planes y programas de capacitación, instrucción o formación de conformidad con el Programa Rector de cada Institución de Seguridad Pública y tendrán, entre otras, las siguientes funciones:
 
 I. Promover y prestar servicios educativos a las Instituciones de Seguridad Pública.
 
@@ -1569,19 +1597,25 @@ VIII. Colaborar en el diseño y actualización de políticas y normas para el re
 
 IX. Realizar estudios para detectar las necesidades de capacitación de los Integrantes y proponer los cursos correspondientes.
 
-X. Proponer y, en su caso, publicar, con la aprobación de la respectiva Comisión del Servicio Profesional de Carrera, Honor y Justicia y con conocimiento de la unidad administrativa encargada de los recursos humanos, las convocatorias para el ingreso a la Escuela Estatal o Academias.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+X. Proponer y, en su caso, publicar, con la aprobación de la respectiva Comisión del Servicio Profesional de Carrera, Honor y Justicia y con conocimiento de la unidad administrativa encargada de los recursos humanos, las convocatorias para el ingreso al Instituto o Academias.
 
 XI. Tramitar los registros, autorizaciones y reconocimiento de los planes y programas de estudio ante las autoridades competentes.
 
 XII. Expedir constancias de las actividades para la profesionalización que impartan.
 
-XIII. Supervisar que los aspirantes e Integrantes de las Instituciones de Seguridad Pública, se sujeten a los manuales de la Escuela Estatal y de las Academias, respectivamente.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+XIII. Supervisar que los aspirantes e Integrantes de las Instituciones de Seguridad Pública, se sujeten a los manuales del Instituto y de las Academias, respectivamente.
 
 XIV. Las demás que establezcan otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+
 ###### Artículo 138.
 
-Además de lo señalado en el artículo anterior, la Escuela Estatal tendrá específicamente las siguientes funciones:
+Además de lo señalado en el artículo anterior, el Instituto tendrá específicamente las siguientes funciones:
 
 I. Proponer y desarrollar los programas de investigación académica en materia ministerial, pericial y policial, de conformidad con lo dispuesto en la Ley General, en esta Ley y demás disposiciones aplicables.
 
@@ -1599,15 +1633,17 @@ V. Las demás que establezcan otras disposiciones aplicables.
 
 La profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los Integrantes.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
 ###### Artículo 140.
 
-Los planes y programas de profesionalización de las Instituciones de Seguridad Pública, se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza y aprendizaje, que serán elaborados por la Escuela Estatal y las Academias, respectivamente.
+Los planes y programas de profesionalización de las Instituciones de Seguridad Pública, se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza y aprendizaje, que serán elaborados por el Instituto y las Academias, respectivamente.
 
-Los planes y programas de capacitación, instrucción o formación para agentes del Ministerio Público y peritos, serán elaborados por la Escuela Estatal de conformidad con el Programa Rector de Profesionalización formulado por la Conferencia Nacional de Procuración de Justicia; asimismo, serán aprobados por la Comisión del Servicio Profesional de Carrera, Honor y Justicia Ministerial y Pericial y sometidos a la verificación y validación del Secretariado Ejecutivo del Sistema Nacional.
+Los planes y programas de capacitación, instrucción o formación para agentes del Ministerio Público y peritos, serán elaborados por el Instituto de conformidad con el Programa Rector de Profesionalización formulado por la Conferencia Nacional de Procuración de Justicia; asimismo, serán aprobados por la Comisión del Servicio Profesional de Carrera, Honor y Justicia para Agentes del Ministerio Público y Peritos y sometidos a la verificación y validación del Secretariado Ejecutivo del Sistema Nacional.
 
-Los planes y programas de capacitación, instrucción o formación para los integrantes de las Instituciones Policiales, serán elaborados por la Escuela Estatal y las Academias, respectivamente, de conformidad con el Programa Rector de Profesionalización formulado por la Conferencia Nacional de Secretarios de Seguridad Pública; serán aprobados por el Consejo de Desarrollo Policial y sometidos a la verificación y validación del Secretariado Ejecutivo del Sistema Nacional.
+Los planes y programas de capacitación, instrucción o formación para los integrantes de las Instituciones Policiales, serán elaborados por el Instituto y las Academias, respectivamente, de conformidad con el Programa Rector de Profesionalización formulado por la Conferencia Nacional de Secretarios de Seguridad Pública; serán aprobados por el Consejo de Desarrollo Policial y sometidos a la verificación y validación del Secretariado Ejecutivo del Sistema Nacional.
 
-La Escuela Estatal y las Academias deberán verificar conjuntamente la homologación de los planes y programas a que se refiere el párrafo anterior.
+El Instituto y las Academias deberán verificar conjuntamente la homologación de los planes y programas a que se refiere el párrafo anterior.
 
 ###### Artículo 141.
 
@@ -1621,15 +1657,33 @@ La profesionalización será el criterio fundamental para el otorgamiento de los
 
 Las categorías para agentes del Ministerio Público serán las siguientes:
 
-I. Agente del Ministerio Público Coordinador de Ministerios Públicos por Distrito.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-II. Agente del Ministerio Público Coordinador de Unidad de Investigación del Delito.
+I. Agente del Ministerio Público Coordinador de Unidad de Investigación del Delito.
 
-III. Agente del Ministerio Público "A".
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-IV. Agente del Ministerio Público "B".
+II. Agente del Ministerio Público “A”.
 
-Las anteriores categorías se entenderán expresadas en orden ascendente, siendo la más baja la correspondiente a la fracción IV, por lo que el ingreso a la Carrera Ministerial será a partir de esta última.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+III. Agente del Ministerio Público “B”.
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+IV. Agente del Ministerio Público “C”.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+V. Agente del Ministerio Público “D”.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+Las anteriores categorías se entenderán expresadas en orden ascendente, siendo la más baja la correspondiente a la fracción V; forman parte del Servicio Profesional de Carrera, las categorías previstas en las fracciones II, III, IV y V.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+La categoría de Agente del Ministerio Público Coordinador de Unidad de Investigación del Delito, será de libre designación bajo comisión por parte del Fiscal General y su nombramiento, podrá recaer en el personal que ostente las categorías “A” o “B” descritas en las fracciones II y III de este artículo, por lo que al término de su gestión, volverá a su categoría correspondiente.
 
 ###### Artículo 143.
 
@@ -1637,9 +1691,7 @@ Salvo los casos de nombramiento o designación por parte del Gobernador del Esta
 
 ###### Artículo 144.
 
-Los agentes del Ministerio Público sujetos al Servicio Profesional de Carrera serán los adscritos a las fiscalías especializadas que realicen funciones de investigación y persecución del delito.
-
-Tratándose de agentes del Ministerio Público que no se encuentren adscritos a las fiscalías especializadas a que se refiere el párrafo anterior, los mismos tendrán estabilidad en el servicio y estarán sujetos a los procesos de evaluación y control de confianza para el ingreso y la permanencia, la certificación, obligaciones y deberes, régimen disciplinario y demás que les resulten aplicables en tal carácter. Podrán ingresar al Servicio Profesional de Carrera en la categoría de Agente del Ministerio Público Coordinador de Unidad de Investigación del Delito, mediante su participación en la promoción correspondiente, en los términos y cumpliendo con los requisitos de la convocatoria que al efecto se expida.
+(DEROGADO, P.O. 7 DE JUNIO DE 2017)
 
 ###### Artículo 145.
 
@@ -1665,11 +1717,33 @@ Las categorías para peritos serán las siguientes:
 
 I. Perito Coordinador por Zona.
 
-II. Perito Coordinador de Unidad Especializada.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-III. Perito Profesional.
+II. Perito Coordinador de Investigación Especializada.
 
-IV. Perito Técnico.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+III. Perito Supervisor.
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+IV. Perito Profesional A.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+V. Perito Profesional B.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+VI. Perito Técnico.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+Las anteriores categorías se entenderán expresadas en orden ascendente, siendo la más baja la correspondiente a la fracción VI; forman parte del Servicio Profesional de Carrera, las categorías previstas en las fracciones IV, V y VI.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+Las categorías de peritos señaladas en las fracciones I, II y III, serán de libre designación bajo comisión por parte del Fiscal General y los nombramientos, podrá recaer en el personal que ostente las categorías de Perito Profesional “A” o “B” descritas en las fracciones IV y V de este artículo, por lo que al término de la gestión, volverán a su categoría correspondiente.
 
 ###### Artículo 147.
 
@@ -1681,15 +1755,19 @@ Son aplicables a los peritos, en lo conducente, las disposiciones que establece 
 
 ### CAPÍTULO XIX. DE LAS FUNCIONES DE LAS INSTITUCIONES POLICIALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+
 #### SECCIÓN PRIMERA. DE LA INTEGRACIÓN
 
 ###### Artículo 149.
 
 Las relaciones jerárquicas en las Instituciones Policiales se regirán por lo dispuesto en el presente capítulo, en el Reglamento respectivo de esta Ley y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+
 ###### Artículo 150.
 
-La Policía Estatal Única se organizará jerárquicamente considerando las categorías siguientes:
+Las Instituciones Policiales se organizarán jerárquicamente considerando las categorías siguientes:
 
 I. Comisario.
 
@@ -1699,25 +1777,59 @@ III. Oficiales.
 
 IV. Escala Básica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+
 ###### Artículo 151.
 
-La Policía Estatal Única se organizará e integrará con las Divisiones siguientes:
+La Comisión Estatal de Seguridad Pública se organizará e integrará con las Divisiones siguientes:
 
-I. División de Investigación del Delito;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-II. División Preventiva.
+I. División de Fuerzas Estatales.
 
-III. División de Reacción.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-IV. División de Vialidad y Tránsito.
+II. División de Operaciones Especiales.
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+III. División de Inteligencia.
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+IV. División de Policía Vial.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+V. División de Operaciones Rurales.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+VI. División de Seguridad Bancaria y Comercial.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+VII. Las demás que determinen las leyes y reglamentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 152.
 
-Las Divisiones Preventiva, de Reacción y de Vialidad y Tránsito de la Policía Estatal Única, deberán cubrir, al menos, las siguientes categorías y jerarquías:
+La Comisión Estatal de Seguridad estará presidida por un Comisionado Estatal, y cubrirá al menos, las siguientes categorías y jerarquías:
 
 I. Comisarios:
 
-a) Comisario.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+a) Comisario General.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+b) Comisario Jefe.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+c) Comisario.
 
 II. Inspectores:
 
@@ -1735,17 +1847,29 @@ c) Suboficial.
 
 IV. Escala Básica:
 
-a) Policía Primero.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
-b) Policía Segundo.
+a) Policía.
 
-c) Policía Tercero.
+b) (DEROGADO, P.O. 7 DE JUNIO DE 2017)
 
-d) Policía.
+c) (DEROGADO, P.O. 7 DE JUNIO DE 2017)
+
+d) (DEROGADO, P.O. 7 DE JUNIO DE 2017)
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+Las categorías de Comisarios, Inspectores y Oficiales, esta última únicamente en su jerarquía de Subinspector, señaladas en las fracciones I, II y III, inciso a) de este artículo, serán de libre designación por parte del Fiscal General del Estado y las categorías de Oficiales en su jerarquía de Oficial y Suboficial y la de Escala Básica en su jerarquía de Policía, descritas en la (sic) fracciones III, incisos b) y c), y IV, inciso a) de este numeral, formarán parte del Servicio Profesional de Carrera.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+Los integrantes de la Comisión Estatal de Seguridad tendrán nombramiento según sea el caso, en la categoría de Escala Básica o en la Escala de Oficiales, en esta última en la jerarquía de Oficial o Suboficial. Para poder ser designados como Subinspector, Inspectores o Comisarios en sus diversas jerarquías, deberán tener el nombramiento de Oficial o Suboficial, por lo que al concluir el encargo o comisión como Comisario, Inspector o Subinspector, regresarán a ocupar su jerarquía correspondiente.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 153.
 
-La División de Investigación de la Policía Estatal Única cubrirá las categorías y jerarquías a que se refieren las fracciones I a III del artículo anterior.
+Los Policías de Investigación del Delito cubrirán las categorías y jerarquías a que se refieren las fracciones I a III del artículo 152.
 
 ###### Artículo 154.
 
@@ -1781,31 +1905,43 @@ En los Manuales de Uniformes e Insignias que al efecto se expidan por la Fiscal�
 
 Los agentes de seguridad, custodia y traslado de los centros de reinserción social, de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales, se organizarán e integrarán cubriendo, al menos, las siguientes categorías y jerarquías:
 
-I. Inspectores:
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-a) Inspector General.
+I. Comisarios
 
-b) Inspector Jefe.
+a) Comisario
 
-c) Inspector.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-II. Oficiales:
+II. Inspectores
 
-a) Subinspector.
+a) Inspector Jefe
 
-b) Oficial.
+b) Inspector
 
-c) Suboficial.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-III. Escala Básica:
+III. Oficiales
 
-a) Policía Primero.
+a) Subinspector
 
-b) Policía Segundo.
+b) Oficial
 
-c) Policía Tercero.
+c) Suboficial
 
-d) Policía.
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+IV. Escala Básica
+
+a) Policía
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+Las categorías de Comisarios, Inspectores y Oficiales, esta última únicamente en su jerarquía de Subinspector, señaladas en las fracciones I, II y III, inciso a) de este artículo, serán de libre designación por parte del Fiscal General del Estado y las categorías de Oficiales en su jerarquía de Oficial y Suboficial y la de Escala Básica, descritas en la (sic) fracciones III, incisos b), c) y IV, inciso a) de este numeral, formarán parte del Servicio Profesional de Carrera.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+Los agentes de seguridad, custodia y traslado de los centros de reinserción social, de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales tendrán nombramiento según sea el caso, en la categoría de Escala Básica o en la Escala de Oficiales, en esta última en la jerarquía de Oficial o Suboficial. Para poder ser designados como Subinspector, Inspectores o Comisarios en sus diversas jerarquías, deberán tener el nombramiento de Oficial o Suboficial, por lo que al concluir el encargo o comisión como Comisario, Inspector o Subinspector, regresarán a ocupar la jerarquía correspondiente.
 
 #### SECCIÓN SEGUNDA. DEL MANDO
 
@@ -1835,15 +1971,25 @@ El Fiscal General del Estado ejercerá el alto mando de las Instituciones Polici
 
 Los presidentes municipales ejercerán el alto mando sobre la policía preventiva de sus respectivos municipios, en los términos de la Constitución, la Constitución local y disposiciones legales y reglamentarias aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+
 ###### Artículo 161.
 
-Corresponderá al Director General de la Policía Estatal Única el ejercicio del mando superior de la misma y por tanto será el responsable de su organización, disciplina y operación.
+Corresponderá al Titular de la Comisión Estatal de Seguridad el ejercicio del mando superior de la misma y por tanto será el responsable de su organización, disciplina y operación.
 
 Los Directores de Seguridad Pública de los municipios u órgano equivalente ejercerán el mando superior de la policía preventiva municipal y les corresponderá su organización, disciplina y operación.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+###### Artículo 161 Bis.
+
+El mando superior de la Agencia Estatal de Investigación será ejercido por su Coordinador General de conformidad con las disposiciones legales y reglamentarias correspondientes y será por ello, el responsable de su organización, disciplina y operación.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
 ###### Artículo 162.
 
-Los Directores de División o unidades equivalentes en los municipios ejercerán el mando operativo sobre los Integrantes de las mismas. Los titulares de las restantes unidades se consideran mandos subordinados.
+Los Directores de División de la Comisión Estatal de Seguridad Pública o unidades equivalentes en los municipios, ejercerán el mando operativo sobre los Integrantes de las mismas. Los titulares de las restantes unidades se consideran mandos subordinados.
 
 ###### Artículo 163.
 
@@ -1869,27 +2015,61 @@ Las ausencias temporales de los titulares y demás mandos de las Instituciones P
 
 ###### Artículo 165.
 
-Para el mejor cumplimiento de sus objetivos, las Instituciones Policiales desarrollarán, en el ámbito de su competencia y acorde a su presupuesto, cuando menos las siguientes funciones:
+Para el cumplimiento de sus objetivos, los Integrantes de las Instituciones Policiales deberán, en el ámbito de su competencia preservar en todo momento la escena del crimen, cuando tengan conocimiento de un hecho probablemente delictuoso, detendrán a los probables responsables en la comisión de un delito en flagrancia y ejercerán cuando menos, las siguientes actividades:
 
-I.- De Investigación del delito, a través de sistemas homologados de recolección, clasificación, registro, análisis y evaluación de información.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-II. De Prevención, con el objeto de disuadir o inhibir la comisión de delitos e infracciones administrativas, así como realizar las acciones de inspección, vigilancia y vialidad en su circunscripción.
+I. De Investigación, que será aplicable a llevar a cabo los actos que se deban realizar de forma inmediata y a cumplir las directrices del Ministerio Público para la realización de actos de investigación de los delitos, debiendo actuar bajo el mando y conducción de este.
 
-III. De Reacción, a fin de garantizar, mantener y restablecer el orden y la paz públicos.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-IV. De Seguridad, custodia y traslado de los centros de reinserción social, de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales.
+II. De Prevención, con el objeto de llevar a cabo acciones tendientes a prevenir, disuadir o inhibir la comisión de delitos e infracciones administrativas y a realizar las acciones de inspección, vigilancia en su circunscripción.
 
-Las unidades de investigación del delito tendrán como función principal la búsqueda, preservación y obtención de evidencias y elementos de prueba en general, para aportarlas en su momento al Ministerio Público, con las funciones específicas que establezcan las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+III. De Operaciones Especiales, con el fin de llevar a cabo acciones tendientes a enfrentar y atender eventos de alto impacto o que representen un peligro para la sociedad.
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+IV. De Inteligencia, con el objeto de estudiar, detectar y analizar las causas de los delitos, así como los factores que influyen en su producción.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+V. De Policía Vial, orientada a la prevención y control del tráfico y la seguridad vial.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+VI. De Fuerza Rural, dotada de medios modernos que le permitan actuar con la celeridad y eficacia necesaria en manifestaciones violentas o conductas que pudieran ser consideradas como delictivas en las diferentes partes de la sierra y otras áreas del interior de la geografía estatal.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+VII. De Seguridad Bancaria y Comercial, con el objeto de prevenir hechos delictivos, entre otros, como el robo a instituciones bancarias o comerciales.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+VIII. De Seguridad y Custodia de los Centros de Reinserción Social, de Internamiento para Adolescentes Infractores y de Traslado y Vigilancia de Audiencias Judiciales, con el fin de cumplir con los programas de seguridad, disciplina y orden interno en los Centros de Reinserción Social y de internamiento para adolescentes infractores, así como ejecutar los traslados de internos y adolescentes que sean ordenados por la autoridad administrativa o jurisdiccional.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+Los Integrantes de las Unidades de Investigación del Delito tendrán como actividad principal la búsqueda, preservación y obtención de evidencias y elementos de prueba en general, para aportarlas a la brevedad al Ministerio Público.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 166.
 
-Las unidades de investigación del delito realizarán, cuando menos, las siguientes funciones:
+Los Integrantes adscritos a las unidades de investigación del delito realizarán, cuando menos, las siguientes funciones:
 
 I. Prestar atención y auxilio inmediato a las víctimas u ofendidos y proteger a los testigos, de conformidad con las disposiciones legales aplicables.
 
 II. Informar a la victima u ofendido sobre los derechos que en su favor establecen las leyes en la materia.
 
-III. Recibir todos los indicios y elementos de prueba que la víctima u ofendido aporten en ejercicio de su derecho de coadyuvancia, para acreditar que se ha cometido un hecho que la ley señala como delito y que existe la probabilidad de que el imputado lo cometió o participo en su comisión, informando de inmediato al Ministerio Público a cargo del asunto, para que este acuerde lo conducente.
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+Así mismo, deberán informar de inmediato a la víctima u ofendido de su derecho a contar con un Asesor Jurídico.
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+III. Recibir todos los indicios y elementos de prueba que la víctima u ofendido aporten en ejercicio de su derecho de coadyuvancia, para acreditar que se ha cometido un hecho que la ley señala como delito y que existe la probabilidad de que el imputado lo cometió o participó en su comisión, poniéndolos de inmediato a disposición del Ministerio Público a cargo del asunto, para que este proceda conforme a derecho.
 
 IV. Otorgar las facilidades que las leyes establezcan para identificar al imputado, especialmente en los casos de delitos contra la vida y la integridad corporal, la libertad y la seguridad sexuales y el normal desarrollo psicosexual, así como los que atentan contra la libertad personal.
 
@@ -2147,7 +2327,9 @@ I. Un Presidente, que será el Fiscal General del Estado, con voz y voto;
 
 II. Un Secretario Técnico, designado por el Presidente de la Comisión, sólo con voz;
 
-III. Un Vocal, que será un agente del Ministerio Público representante de las Fiscalías Especializadas en Investigación y Persecución del Delito y de la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género, con voz y voto;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+III. Un Vocal, que será un agente del Ministerio Público representante de las Fiscalías Especializadas y de las Fiscalías de Distrito por Zonas, que realicen funciones de investigación y persecución del delito, con voz y voto;
 
 IV. Un Vocal, que será un representante de la Dirección General de Administración y Sistemas de la Fiscalía General, con voz y voto;
 
@@ -2173,17 +2355,23 @@ IV. Un Vocal, que será un representante de la Dirección General de Administrac
 
 V. Un Vocal, que será un representante de la Fiscalía Especializada en Control, sólo con voz;
 
-VI. Un Vocal de Mandos, que será un Oficial de la Policía Estatal Única, con voz y voto;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-VII. Un Vocal, que será un elemento de la División de Investigación del Delito, con voz y voto, para el caso de asuntos relacionados con elementos pertenecientes a esta División;
+VI. Un Vocal de la Comisión Estatal de Seguridad, con voz y voto, para asuntos relacionados con elementos pertenecientes a todas las Divisiones de dicha Comisión.
 
-VIII. Un Vocal, que será un elemento de la División Preventiva, con voz y voto, para el caso de asuntos relacionados con elementos pertenecientes a esta División;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-IX. Un Vocal, que será un elemento de la División de Reacción, con voz y voto, para el caso de asuntos relacionados con elementos pertenecientes a esta División;
+VII. Un Vocal de la Agencia Estatal de Investigación, con voz y voto, para el caso de asuntos relacionados con sus Integrantes.
 
-X. Un Vocal, que será un elemento de la División de Vialidad y Tránsito, con voz y voto, para el caso de asuntos relacionados con elementos pertenecientes a esta División; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
-XI. Un Vocal, que será un representante de los agentes de seguridad, custodia y traslado de los centros de reinserción social, de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales de la Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales, con voz y voto, para el caso de asuntos relacionados con dichos agentes.
+VIII. Un Vocal que será un representante de los agentes de seguridad, custodia y traslado de los centros de reinserción social, de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales de la Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales, con voz y voto, para el caso de asuntos relacionados con dichos agentes.
+
+IX. (DEROGADA, P.O. 7 DE JUNIO DE 2017)
+
+X. (DEROGADA, P.O. 7 DE JUNIO DE 2017)
+
+XI. (DEROGADA, P.O. 7 DE JUNIO DE 2017)
 
 Los Vocales serán designados por el titular de la unidad administrativa u operativa a que pertenezcan. Todos ellos deberán ser de probada experiencia, reconocida solvencia moral o destacados en su función.
 
@@ -2305,7 +2493,9 @@ II. Establecer políticas relativas al ingreso, selección, permanencia, estímu
 
 III. Opinar sobre los lineamientos para los procedimientos de la Carrera Policial.
 
-IV. Opinar respecto de los planes y programas de profesionalización para los Integrantes de las Instituciones Policiales del Estado y los municipios que le formulen la Escuela Estatal y las Academias.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+IV. Opinar respecto de los planes y programas de profesionalización para los Integrantes de las Instituciones Policiales del Estado y los municipios que le formulen el Instituto y las Academias.
 
 V. Instruir el desarrollo de programas de investigación académica en materia policial.
 
@@ -2337,23 +2527,43 @@ El Consejo de Desarrollo Policial se auxiliará en su funcionamiento del persona
 
 El procedimiento de separación por incumplimiento a los requisitos de ingreso y permanencia y demás supuestos a que se refiere la fracción I del artículo 169 de esta Ley, así como el procedimiento disciplinario por violación o incumplimiento a las obligaciones y deberes de los Integrantes, deberá realizarse ante la Comisión del Servicio Profesional de Carrera, Honor y Justicia respectiva, con estricto apego a las disposiciones de esta Ley y observará en todo momento las formalidades esenciales.
 
-Iniciará por solicitud fundada y motivada del Órgano de Asuntos Internos dirigida al Presidente de la Comisión, expresando el requisito de ingreso o permanencia que presuntamente haya sido incumplido por el Integrante o los hechos en que se haga consistir la infracción, violación o incumplimiento a sus obligaciones y deberes, remitiendo para tal efecto las actuaciones contenidas en la investigación que se hubiere realizado por aquél, así como los demás elementos probatorios en que se apoye.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+Para los efectos del párrafo anterior, el Órgano de Asuntos Internos reunirá la información preliminar, la que deberá ser completa y exhaustiva, y deberá contener además las constancias que integran las actuaciones, evaluaciones, documentos y en general todos los antecedentes relacionados con el incumplimiento de los requisitos de ingreso o permanencia o de la violación al régimen disciplinario que se atribuyen al Integrante.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+La solicitud de inicio del procedimiento deberá reunir los siguientes requisitos:
+
+I. Estará dirigida al Presidente de la Comisión, debidamente fundada y motivada.
+
+II. Expresará de manera clara y precisa el requisito de ingreso o permanencia que presuntamente haya incumplido el Integrante o los hechos en que se haga consistir la infracción, violación al régimen disciplinario o incumplimiento a sus obligaciones y deberes.
+
+III. Anexará las constancias contenidas en la información a que se refiere el segundo párrafo del presente artículo, así como los demás elementos probatorios en que se apoye.
+
+IV. Indicación de la unidad orgánica o administrativa a que se encuentra adscrito el Integrante.
+
+V. En su caso, la medida cautelar a que se refiere el artículo 206 de esta Ley.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 203.
 
-El Órgano de Asuntos Internos podrá determinar inmediatamente como medida cautelar la suspensión del Integrante en el servicio, cargo o comisión, sin el pago de la remuneración diaria ordinaria, si así resulta conveniente para no afectar el servicio, a la Institución o a la realización de la investigación correspondiente, en su caso, informando de ello al Presidente de la Comisión en la solicitud de inicio del procedimiento.
+Con el objeto de no afectar el servicio, a la Institución o a la realización de la investigación correspondiente y conforme al riesgo que represente el integrante, el Órgano de Asuntos Internos podrá determinar, fundada y motivadamente, alguna o varias de las siguientes medidas cautelares:
 
-La medida cautelar será notificada al Integrante y al titular de la Institución.
+I. Cambio de adscripción dentro de la misma unidad orgánica o administrativa a que pertenezca el Integrante.
 
-> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
+II. Prohibición de salir de la ciudad o población donde se encuentre adscrito.
 
-De no dictarse la medida, el Órgano de Asuntos Internos informará de ello al superior jerárquico a fin de que determine y notifique al Integrante el lugar donde quedará a disposición y las funciones que realizará, en tanto se resuelve el procedimiento. En los casos de vinculación a proceso, o resolución equivalente, deberá estarse a lo dispuesto por el artículo 57 de esta Ley.
+III. Prohibición de acudir a determinados lugares.
 
-> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
+IV. La entrega al superior jerárquico de las armas de fuego que le hubiesen sido asignadas, en su caso.
 
-El titular de la Institución de Seguridad Pública podrá determinar dicha medida cautelar, en caso de posible violación o incumplimiento a las obligaciones y deberes por parte del Integrante, cuando tenga conocimiento de ello por informe del superior jerárquico del mismo o mediante queja o denuncia de particular, remitiendo sin demora al Órgano de Asuntos Internos las actuaciones y demás constancias relativas a los hechos, así como a la medida cautelar; todo lo cual deberá ser notificado al Integrante.
+V. La suspensión temporal en el desempeño del servicio, cargo o comisión, por el tiempo necesario para la conclusión del procedimiento, misma que en ningún caso será superior a un año contado a partir de que se haga efectiva dicha suspensión.
 
-La medida cautelar a que se refiere el presente artículo en ningún caso podrá exceder de cuarenta y cinco días hábiles contados a partir del momento en que le sea notificada al Integrante, transcurridos los cuales sin que se haya presentado la solicitud de inicio del procedimiento, aquél se reincorporará plenamente al servicio, cargo o comisión, sin perjuicio de que el Órgano de Asuntos Internos prosiga la investigación.
+Durante el tiempo que dure la suspensión únicamente percibirá una remuneración, la cual no podrá ser inferior al salario tabular más bajo que se cubra en la Fiscalía General del Estado y, consecuentemente, se le seguirá prestando el servicio médico.
+
+Lo anterior sin perjuicio de que el mismo Órgano de Asuntos Internos solicite a la Comisión del Servicio Profesional de Carrera, Honor y Justicia respectiva, imponga alguna de las medidas cautelares de las que se refiere el presente artículo.
 
 ###### Artículo 204.
 
@@ -2367,13 +2577,21 @@ En la formulación del recurso, el Órgano de Asuntos Internos hará valer los a
 
 Contra el auto que recaiga a la reclamación, no procederá recurso alguno.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
 ###### Artículo 206.
 
-El acuerdo de inicio del procedimiento deberá contener una relación sucinta de los hechos relativos al incumplimiento a los requisitos de ingreso y permanencia o a las obligaciones y deberes, atribuidos al Integrante. Asimismo, que dispone de un término de nueve días hábiles contados a partir del día siguiente al de su notificación, para controvertir los hechos que se le atribuyen y ofrecer pruebas, apercibido de que no se le recibirán pruebas ofrecidas con posterioridad, con excepción de las que tengan el carácter de supervenientes.
+El acuerdo de inicio del procedimiento deberá contener:
 
-En el mismo acuerdo, el Presidente de la Comisión podrá confirmar o revocar la medida cautelar y, en su caso, decretar la misma. La medida cautelar determinada no prejuzga sobre la responsabilidad del Integrante, lo cual se hará constar expresamente.
+I. Los hechos relativos al incumplimiento a los requisitos de ingreso y permanencia o a las obligaciones y deberes, atribuidos al Integrante.
 
-Dicho acuerdo será notificado al Órgano de Asuntos Internos y al Integrante, entregando a este último copia debidamente cotejada del mismo, así como de las constancias y documentos que obren en el expediente, apercibiéndole que de no dar contestación dentro del término que se le concedió para tal efecto, se tendrán por presuntivamente ciertos los hechos contenidos en el acuerdo.
+II. Que dispone de un término de nueve días hábiles contados a partir del día siguiente al de su notificación, para controvertir los hechos que se le atribuyen.
+
+III. El derecho del Integrante a ofrecer pruebas, apercibido de que no se le recibirán pruebas ofrecidas con posterioridad, con excepción de las que tengan el carácter de supervenientes.
+
+IV. La confirmación o revocación de la medida cautelar determinada por el Órgano de Asuntos Internos o, en su caso, su procedencia conforme a la solicitud del mismo Órgano. La medida cautelar determinada no prejuzga sobre la responsabilidad del Integrante, lo cual se hará constar expresamente.
+
+Dicho acuerdo será notificado al Órgano de Asuntos Internos y al Integrante, entregando a este último copia debidamente cotejada del mismo, apercibiéndole que de no dar contestación dentro del término que se le concedió para tal efecto, se tendrán por presuntivamente ciertos los hechos contenidos en el acuerdo.
 
 ###### Artículo 207.
 
@@ -2391,25 +2609,49 @@ El Integrante, en su escrito de contestación ante la Comisión, deberá señala
 
 En el mismo escrito, el Integrante podrá designar defensor y deberá referirse a todos y cada uno de los hechos contenidos en la solicitud del Órgano de Asuntos Internos, afirmándolos, negándolos, expresando los que ignore por no ser propios, o refiriéndolos como considere que tuvieron lugar, ofreciendo los elementos de prueba que estime pertinentes; tratándose de documentos, estos deberán acompañarse al escrito de contestación.
 
-> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 209.
 
-En el acuerdo por el cual se tenga al Integrante dando contestación se proveerá respecto de la admisión de las pruebas, señalando día y hora para la celebración de una audiencia de desahogo de las que así lo ameriten. En caso de que el Integrante no haya dado contestación en la forma y términos previstos en el artículo anterior, se proveerá únicamente respecto de las ofrecidas por el Órgano de Asuntos Internos.
+En el acuerdo por el cual se tenga al Integrante dando contestación se proveerá respecto de la admisión de las pruebas, señalando día y hora para la celebración de una audiencia de desahogo de las que así lo ameriten.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+En caso de que el Integrante no haya dado contestación en la forma y términos previstos en el artículo anterior, se proveerá únicamente respecto de las ofrecidas por el Órgano de Asuntos Internos.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+###### Artículo 209 Bis.
 
 El Órgano de Asuntos Internos comparecerá por conducto de los servidores públicos facultados conforme a la ley, a su reglamento interior o, en su defecto, por medio de delegados.
-
-El oferente de la prueba testimonial presentará a sus testigos. Cuando el testigo sea Integrante de la Institución y no se presente a la audiencia, se le informará de inmediato a su superior jerárquico para que le ordene que comparezca. El desacato de dicha instrucción se hará del conocimiento del Órgano de Asuntos Internos.
-
-En cualquier otro caso en que el oferente no pueda presentar a los testigos, deberá señalar su domicilio y solicitar a la Comisión que los cite. Esta los citará por una sola ocasión; en caso de incomparecencia de los testigos, se declarará desierta la prueba.
-
-Tanto el Órgano de Asuntos Internos como el Integrante podrán repreguntar a los testigos e interrogar a los peritos, en su caso.
-
-Los miembros de la Comisión podrán formular preguntas al Integrante, así como solicitar informes u otros elementos de prueba, por conducto del Secretario Técnico de la misma, con la finalidad de allegarse los datos necesarios para el conocimiento de la verdad histórica.
 
 ###### Artículo 210.
 
 En el procedimiento serán admisibles toda clase de pruebas, excepto la de posiciones y las que fueren contra la moral o contra Derecho.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+El oferente de la prueba testimonial presentará a sus testigos. Cuando el testigo sea Integrante de la Institución y no se presente a la audiencia, se le informará de inmediato a su superior jerárquico para que le ordene que comparezca. El desacato de dicha instrucción se hará del conocimiento del Órgano de Asuntos Internos.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+En cualquier otro caso en que el oferente no pueda presentar a los testigos, deberá señalar su domicilio y solicitar a la Comisión que los cite. Esta los citará por una sola ocasión; en caso de incomparecencia de los testigos, se declarará desierta la prueba.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+Tanto el Órgano de Asuntos Internos como el Integrante podrán repreguntar a los testigos e interrogar a los peritos, en su caso.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+Los miembros de la Comisión podrán formular preguntas al Integrante, así como solicitar informes u otros elementos de prueba, por conducto del Secretario Técnico de la misma, con la finalidad de allegarse los datos necesarios para el conocimiento de la verdad histórica.
 
 ###### Artículo 211.
 
@@ -2465,7 +2707,9 @@ La Comisión del Servicio Profesional de Carrera, Honor y Justicia, dentro de lo
 
 En caso de que se determine procedente la inconformidad, en la misma resolución se establecerá la forma y términos para la rectificación de la violación en que se hubiere incurrido.
 
-La resolución que dicte la Comisión del Servicio Profesional de Carrera, Honor y Justicia respectiva se notificará personalmente al Integrante, quien podrá impugnarla, en su caso, ante el Tribunal de Justicia Electoral y Administrativa del Estado, en los términos de su ley orgánica.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+La resolución que dicte la Comisión del Servicio Profesional de Carrera, Honor y Justicia respectiva se notificará personalmente al Integrante, quien podrá impugnarla, en su caso, ante el Tribunal Superior de Justicia.
 
 ## TÍTULO QUINTO. DE LA INFORMACIÓN ESTATAL SOBRE SEGURIDAD PÚBLICA
 
@@ -2519,6 +2763,12 @@ La información sobre administración e impartición de justicia podrá ser inte
 
 La Fiscalía General integrará la información de seguridad pública que reciba de la Federación y de otras entidades federativas, misma que formará parte del Sistema de Información Estatal.
 
+(NOTA: EL 30 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 73/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
+SE CLASIFICA COMO RESERVADA LA INFORMACIÓN CONTENIDA EN TODAS Y CADA UNA DE LAS BASES DE DATOS Y REGISTROS DEL SISTEMA DE INFORMACIÓN ESTATAL DE SEGURIDAD PÚBLICA, ASÍ COMO LA INFORMACIÓN CONTENIDA EN ELLOS, EN MATERIA DE DETENCIONES, INFORMACIÓN CRIMINAL, PENITENCIARIA, PERSONAL DE SEGURIDAD PÚBLICA, PERSONAL Y EQUIPO DE LOS SERVICIOS DE SEGURIDAD PRIVADA, ARMAMENTO Y EQUIPO, VEHÍCULOS, HUELLAS DACTILARES, TELÉFONOS CELULARES, MEDIDAS CAUTELARES, SOLUCIONES ALTERNAS Y FORMAS DE TERMINACIÓN ANTICIPADA, SENTENCIADOS Y LAS DEMÁS NECESARIAS PARA LA OPERACIÓN DEL SISTEMA, CUYA CONSULTA ES EXCLUSIVA DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA QUE ESTÉN FACULTADAS EN CADA CASO, A TRAVÉS DE LOS SERVIDORES PÚBLICOS QUE CADA INSTITUCIÓN DESIGNE, POR LO QUE EL PÚBLICO NO TENDRÁ ACCESO A LA INFORMACIÓN QUE EN ELLOS SE CONTENGA.
+
 ###### Artículo 226.
 
 El Estado y los municipios realizarán los trabajos necesarios para lograr la compatibilidad de los servicios de telecomunicaciones de su Red Local correspondiente, con las bases de datos criminalísticos y de personal del Sistema Nacional de Información de Seguridad Pública previstas en la Ley General.
@@ -2529,9 +2779,11 @@ La información que se obtenga a través de la instalación y operación de vide
 
 #### SECCIÓN PRIMERA. DEL REGISTRO ESTATAL DE DETENIDOS
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
 ###### Artículo 228.
 
-El Registro de Detenidos tiene por objeto establecer el control administrativo de las detenciones en sus distintas modalidades de orden de aprehensión, flagrancia, ministerial por caso urgente, arraigo, cateo y provisional con fines de extradición, de personas que sean entregadas a un elemento de la Policía de Investigación, detenidas por éste, o bien puestas a disposición del Ministerio Público del Estado.
+El Registro de Detenidos tiene por objeto establecer el control administrativo de las detenciones en sus distintas modalidades de orden de aprehensión, flagrancia, ministerial por caso urgente, arraigo, cateo y provisional con fines de extradición, de personas que sean entregadas a un elemento de la Agencia Estatal de Investigación, de la Comisión Estatal de Seguridad o Policías Municipales, o detenidas por estos, o bien puestas a disposición del Ministerio Público del Estado.
 
 ###### Artículo 229.
 
@@ -2545,7 +2797,9 @@ III. Llevar un registro de los servidores públicos que cuenten con claves de ac
 
 IV. Dar de baja las claves de acceso de los servidores públicos que dejen de realizar las funciones que motivaron su otorgamiento.
 
-V. Solicitar, con la debida motivación, a las fiscalías especializadas que realicen las funciones de investigación y persecución del delito, la información que requiera en relación al Registro de Detenidos.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+V. Solicitar, con la debida motivación, a las Fiscalías Especializadas y de Distrito por Zonas que realicen las funciones de investigación y persecución del delito, la información que requiera en relación al Registro de Detenidos.
 
 VI. Emitir los lineamientos específicos para el manejo, captura, operación y resguardo de la información, mismos que deberán ajustarse a lo dispuesto por la normatividad aplicable respecto de la reserva de la información de las investigaciones.
 
@@ -2557,11 +2811,13 @@ VIII. Las demás que le establezcan otras disposiciones legales o el Fiscal Gene
 
 La Fiscalía General realizará las actividades y dictará los acuerdos, criterios y lineamientos necesarios para el desarrollo, administración, ingreso, suministro y consulta de información del Registro de Detenidos; asimismo, se coordinará con el Registro Administrativo de Detenciones del Centro Nacional de Información del Sistema Nacional, para el intercambio de datos, asistencia técnica y demás aspectos relacionados con dichos Registros.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
 ###### Artículo 231.
 
-El Integrante de la Policía de Investigación que realice una detención o reciba a su disposición un detenido, procederá a dar aviso al Registro de Detenidos a través del Informe Policial Homologado, sin perjuicio de la obligación prevista en el artículo 112 de la Ley General. Los agentes del Ministerio Público actualizarán la información relativa a las detenciones tanto del Registro Administrativo de Detenciones como del Registro de Detenidos en términos de las disposiciones legales aplicables.
+El Integrante de la Agencia Estatal de Investigación o de la Comisión Estatal de Seguridad o de las Policías Municipales, que realice una detención o reciba a su disposición un detenido, procederá a dar aviso al Registro de Detenidos a través del Informe Policial Homologado, sin perjuicio de la obligación prevista en el artículo 112 de la Ley General. Los agentes del Ministerio Público actualizarán la información relativa a las detenciones tanto del Registro Administrativo de Detenciones como del Registro de Detenidos en términos de las disposiciones legales aplicables.
 
-En todos los casos en que la Policía de Investigación realice una detención o reciba a su disposición un detenido, lo pondrá de inmediato a disposición del Ministerio Público.
+En todos los casos en que los integrantes de la Agencia Estatal de Investigación o de la Comisión Estatal de Seguridad o de las Policías Municipales, realicen una detención o reciban a su disposición un detenido, lo pondrán de inmediato a disposición del Ministerio Público.
 
 ###### Artículo 232.
 
@@ -2745,7 +3001,9 @@ II. Los cargos o comisiones desempeñados o conferidos al servicio de las Instit
 
 III. El cómputo total del tiempo de servicios con mención de las licencias o incapacidades médicas acaecidas durante ése tiempo.
 
-IV. Los estudios efectuados en la Escuela Estatal, Academias u otras instituciones educativas reconocidas oficialmente, con expresión del grado académico alcanzado.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
+IV. Los estudios efectuados en el Instituto, Academias u otras instituciones educativas reconocidas oficialmente, con expresión del grado académico alcanzado.
 
 V. Las campañas u operaciones en que hubiese participado, indicando las fechas de inicio y conclusión, señalándose además los hechos meritorios en los que haya intervenido de manera destacada.
 
@@ -3063,8 +3321,6 @@ La Fiscalía General se coordinará con la Federación para el ejercicio de la f
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
-
 ###### Artículo 301.
 
 El registro para acreditar a las personas que se dediquen a cuidar o vigilar los vehículos automotores estacionados en las vías públicas, estará a cargo de la Fiscalía General del Estado.
@@ -3103,33 +3359,27 @@ Cualquier infracción a estos numerales le será suspendida su acreditación, en
 
 Los usuarios de los vehículos estacionados en la vía pública no están obligados a pagar o aceptar el ofrecimiento de vigilancia.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE OCTUBRE DE 2016)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2017)</small>
 
 ## TÍTULO UNDÉCIMO. DE LA SEGURIDAD Y PROTECCIÓN PERSONAL DE FUNCIONARIOS PÚBLICOS AL CONCLUIR SU ENCARGO O NOMBRAMIENTO
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE OCTUBRE DE 2016)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 305.
 
-El Estado proporcionará seguridad y protección personal al Fiscal General del Estado y al Director General de la Policía Estatal Única, previa solicitud de parte, durante los cuatro años siguientes a la conclusión de sus nombramientos.
-
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+(DEROGADO, P.O. 7 DE JUNIO DE 2017)
 
 ###### Artículo 306.
 
-Los elementos policiales que proporcionarán la seguridad y protección personal a que se refiere el artículo anterior, estarán dotados del equipamiento necesario para el ejercicio de su función y serán los pertenecientes a la Policía Estatal Única, para lo cual les serán asignados seis elementos al Fiscal General del Estado, y cuatro elementos al Director General de la Policía Estatal Única.
-
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+(DEROGADO, P.O. 7 DE JUNIO DE 2017)
 
 ###### Artículo 307.
 
-Para los efectos a que se refiere el presente Título, la asignación de elementos policiales se considerará comisión para el cumplimiento de un servicio específico, por lo que deberán cumplir con todas las obligaciones y deberes a que se encuentran sujetos de conformidad con las disposiciones de la Ley del Sistema Estatal de Seguridad Pública y del Reglamento del Servicios (sic) Profesional de Carrera de las Instituciones de Seguridad Pública del Estado de Chihuahua y sus Municipios.
-
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+(DEROGADO, P.O. 7 DE JUNIO DE 2017)
 
 ###### Artículo 308.
 
-El Fiscal General del Estado, así como el Ayuntamiento que corresponda, en su respectivo ámbito de competencia, vigilarán y darán seguimiento al cumplimiento de lo dispuesto en el presente Título, por lo que una vez realizados los supuestos a que se refieren los artículos 305, 306 y 307 de la presente Ley, ordenarán la reincorporación de los elementos policiales a la Institución Policial a la que pertenezcan.
+(DEROGADO, P.O. 7 DE JUNIO DE 2017)
 
 T R A N S I T O R I O S
 
@@ -3296,3 +3546,141 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo contará con 180 días para reglamentar el presente Decreto y crear el Registro de las Personas Cuidadoras de Vehículos del Estado, a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0340/2017 II P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN, Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA Y LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se faculta a la Fiscalía General del Estado y a la Secretaría de Hacienda para que, de conformidad con las disposiciones legales vigentes y con estricta sujeción a las disponibilidades de gasto previstas en el Presupuesto de Egresos del Estado de Chihuahua, para el Ejercicio Fiscal del Año 2017, instrumenten y lleven a cabo lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La instrumentación a que se refiere el Transitorio Tercero anterior, no supone ni significa afectación o menoscabo en modo alguno a los derechos de los servidores públicos actualmente adscritos a la Fiscalía General del Estado.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se emiten las disposiciones reglamentarias a que se refiere la fracción I del artículo 11 de la Ley Orgánica de la Fiscalía General del Estado de Chihuahua, que se reforma conforme al Artículo Segundo del presente Decreto, el Fiscal General del Estado dictará los criterios de priorización a que deberá atender la Fiscalía Especializada en Investigación de Violaciones a Derechos Humanos.
+
+###### ARTÍCULO SEXTO.
+
+A la entrada en vigor del presente Decreto, los asuntos en trámite ante la Fiscalía Especializada en Seguridad Pública y Prevención del Delito, se proseguirán por la Dirección del Centro Estatal de Prevención Social de la Violencia y la Delincuencia, con Participación Ciudadana, de conformidad con las normas vigentes al momento de su inicio.
+
+###### ARTÍCULO SÉPTIMO.
+
+En el momento en que entre en vigor el presente Decreto, las carpetas de investigación, los recursos humanos, materiales y financieros y en general todos los asuntos que actualmente se estén atendiendo por las Fiscalías Especializadas en Investigación y Persecución del delito de las diferentes Zonas, esto es, Norte, Sur, Centro y Occidente, de esta Fiscalía General del Estado, pasarán a formar parte de las Fiscalías de Distrito por Zona, según corresponda por su región.
+
+###### ARTÍCULO OCTAVO.
+
+Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpetas de investigación, órdenes de aprehensión y en general todos los asuntos que actualmente se estén atendiendo por la División de Investigación del Delito de la Policía Estatal Única, pasarán a la Agencia Estatal de Investigación, que se crea por virtud de las adiciones y reformas a que se refiere el presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+A la entrada en vigor del presente Decreto, todos los asuntos actualmente a cargo de las Divisiones Preventiva, de Reacción y de Vialidad y Tránsito de la Policía Estatal Única, pasarán a la División correspondiente de la Comisión Estatal de Seguridad que se crea por virtud de las adiciones y reformas a que se refiere el presente Decreto, de acuerdo a su naturaleza jurídica, orgánica y operativa.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos de separación y del régimen disciplinario iniciados ante las Comisiones del Servicio Profesional de Carrera, Honor y Justicia correspondientes, con anterioridad a la entrada en vigor del presente Decreto, se proseguirán en los términos previstos en las disposiciones legales y reglamentarias vigentes al momento de su inicio.
+
+###### ARTÍCULO UNDÉCIMO.
+
+A la entrada en vigor del presente Decreto, el personal del Ministerio Público, Policías y Peritos de la Fiscalía General del Estado que actualmente laboran y no forman parte del Servicio Profesional de Carrera, podrán ingresar a este, cumpliendo los requisitos establecidos en el artículo 60 de la Ley del Sistema Estatal de Seguridad Pública, con excepción de los señalados en su fracción V, asimismo, deberán presentar y aprobar el examen de oposición correspondiente.
+
+###### ARTÍCULO DUODÉCIMO.
+
+Dentro de los 365 días naturales a la entrada en vigor del presente Decreto, la Fiscalía General del Estado convocará al examen de oposición señalado en el artículo que antecede. El personal que no se presente a la práctica de dicho examen, no ingresará al Servicio Profesional de Carrera y será de libre designación por parte del Fiscal General.
+
+ARTÍCULO DECIMOTERCERO.- A la entrada en vigor del presente Decreto, todos los recursos humanos, materiales y financieros que formen parte de la Escuela Estatal de Policía, pasarán a integrarse al Instituto Estatal de Seguridad Pública.
+
+Los trámites de acreditación, certificación y en general todos aquellos que en materia académica hayan sido iniciados con anterioridad a la entrada en vigor del presente Decreto, serán concluidos en lo particular por el Instituto Estatal de Seguridad Pública, de conformidad con lo que determinen las autoridades competentes de la materia.
+
+ARTÍCULO DECIMOCUARTO.- La Fiscalía General del Estado realizará los trámites administrativos para la armonización de las plazas de Ministerios Públicos, Policías y Peritos de conformidad con las disposiciones de la Ley del Sistema Estatal de Seguridad Pública, misma que se describe en la siguiente tabla.
+
+POLICÍA DE INVESTIGACIÓN
+
+Coordinador Regional de la Policía Ministerial Investigadora. Oficial de la Policía de Investigación.
+
+Coordinador Especial "A" de la Policía Ministerial Investigadora. Oficial de la Policía de Investigación.
+
+Coordinador Especial "B" de la Policía Ministerial Investigadora Suboficial de la Policía de Investigación.
+
+Agente "A" de la Policía Ministerial Investigadora. Oficial de la Policía de Investigación.
+
+Agente "B" de la Policía Ministerial Investigadora. Suboficial de la Policía de Investigación.
+
+POLICÍA DE SEGURIDAD Y CUSTODIA
+
+Celador “A” (Seguridad y Custodia) Oficial de la Policía de Seguridad y Custodia
+
+Celador “B” (Seguridad y Custodia) Suboficial de la Policía de Seguridad y Custodia.
+
+Celador “C” (Seguridad y Custodia) Policía de Seguridad y Custodia.
+
+POLICÍA PREVENTIVA
+
+Inspector. Oficial de la Comisión Estatal de Seguridad.
+
+Oficial. Oficial de la Comisión Estatal de Seguridad.
+
+Suboficial. Oficial de la Comisión Estatal de Seguridad.
+
+Agente. Suboficial de la Comisión Estatal de Seguridad.
+
+POLICÍA VIAL
+
+Comandante de Tránsito. Oficial de la Policía Vial.
+
+Oficial de Tránsito. Oficial de la Policía Vial.
+
+POLICÍA DE VIGILANCIA DE AUDIENCIAS JUDICIALES
+
+Celador “P” Determinante 3 Oficial de Vigilancia de Audiencias Judiciales.
+
+Celador “P” Determinante 2 Suboficial de Vigilancia de Audiencias Judiciales.
+
+Celador “P” Determinante 1 Policía de Vigilancia de Audiencias Judiciales.
+
+PERITOS
+
+Perito Coordinador de Zona. Perito Profesional "A"
+
+Perito Coordinador de Unidad Especializada Determinante 2. Perito Profesional "A"
+
+Perito Coordinador de Unidad Especializada Determinante 1. Perito Profesional "B"
+
+Perito Profesional Determinante 2. Perito Profesional "A"
+
+Perito Profesional Determinante 1. Perito Profesional "B"
+
+Perito Perito Profesional "B"
+
+Perito Técnico Perito Técnico
+
+MINISTERIOS PÚBLICOS
+
+Agente del Ministerio Público en Litigación Oral. Agente del Ministerio Público “A”.
+
+Agente del Ministerio Público adscrito a Fiscalía. Agente del Ministerio Público “B”
+
+Coordinador Regional de la Fiscalía. Agente del Ministerio Público “B”.
+
+Agente del Ministerio Público Coordinador de Distrito. Agente del Ministerio Público “B”.
+
+Agente del Ministerio Público adscrito a Juzgados. Agente del Ministerio Público “C”.
+
+Agente del Ministerio Público adscrito a Unidades de Investigación. Agente del Ministerio Público “C”.
+
+Agente del Ministerio Público "A". Agente del Ministerio Público “C”.
+
+Agente del Ministerio Público "B". Agente del Ministerio Público “D”.
+
+Auxiliar del Ministerio Público. Agente del Ministerio Público “D”.
