@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-del-sistema-de-seguridad-publica-del-72764"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-16"
-last_updated: "2014-11-25"
+last_updated: "2017-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
 
@@ -1845,6 +1845,10 @@ Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y E
 
 El personal de las empresas que presten servicios de seguridad privada en el Estado tendrá la obligación de someterse a los procedimientos de evaluación y confianza, y su ingreso y permanencia serán condicionados por el resultado del dictamen que emita el Centro Estatal de Evaluación y Control de Confianza.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+El Centro Estatal de Evaluación y Control de Confianza, emitirá y notificará en un plazo no mayor de noventa días el dictamen señalado en el párrafo anterior a los particulares que presten los servicios de seguridad privada.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -2036,3 +2040,11 @@ La Universidad de Seguridad y Justicia, realizará las gestiones relativas ante 
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-187 MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 141, DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
