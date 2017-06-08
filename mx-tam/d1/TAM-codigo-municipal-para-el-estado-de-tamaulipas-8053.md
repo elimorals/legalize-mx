@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2017-04-18"
+last_updated: "2017-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -293,9 +293,9 @@ IV.- No estar sujeto a proceso por delito doloso. El impedimento surte efecto de
 
 V.- Tener un modo honesto de vivir, saber leer y escribir, y no estar en los casos previstos en el Artículo 106 del Código Penal del Estado; y
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
-VI.- No ser servidor público de la Federación o del Estado, con excepción de los cargos de elección popular o del Municipio; no tener el mando de la fuerza pública en el que se haga la elección, a no ser que se separe de su cargo por lo menos 120 días antes de dicha elección.
+VI.- No ser servidor público de la Federación o del Estado, con excepción de los cargos de elección popular o del Municipio; no tener el mando de la fuerza pública en el que se haga la elección, a no ser que se separe de su cargo por lo menos 90 días antes de dicha elección.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
@@ -303,11 +303,11 @@ VI.- No ser servidor público de la Federación o del Estado, con excepción de 
 
 Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos electos de manera directa, podrán ser reelectos para el mismo cargo por un periodo adicional; también tendrán este derecho las personas que por elección indirecta, por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 28.
 
-Es nula la elección de Munícipe que recaiga sobre militares en servicio activo, Gobernador del Estado, Magistrado del Supremo Tribunal de Justicia, Diputados y Senadores al Congreso de la Unión, estén o no en ejercicio, a menos que se hayan separado definitivamente de sus funciones 120 días antes de la elección.
+Es nula la elección de Munícipe que recaiga sobre militares en servicio activo, Gobernador del Estado, Magistrado del Supremo Tribunal de Justicia, Diputados y Senadores al Congreso de la Unión, estén o no en ejercicio, a menos que se hayan separado definitivamente de sus funciones 90 días antes de la elección.
 
 ###### ARTICULO 29.
 
@@ -6106,3 +6106,11 @@ P.O. 18 DE ABRIL DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. LXIII-188 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 26 FRACCIÓN VI Y 28 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
