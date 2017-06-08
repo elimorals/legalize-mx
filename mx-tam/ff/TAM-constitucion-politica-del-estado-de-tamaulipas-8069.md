@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2017-06-02"
+last_updated: "2017-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -419,6 +419,10 @@ I.- De las características de los comicios.- Las elecciones serán libres, aut�
 
 Las elecciones se llevarán a cabo el primer domingo de junio del año que corresponda.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+La elección de Diputados e integrantes de los Ayuntamientos deberán tener verificativo en la misma fecha en que tenga lugar la elección federal.
+
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REFORMADA ANTES FRACCIÓN I], P.O. 13 DE JUNIO DE 2015)</small>
 
 II.- De los Partidos políticos y de los candidatos independientes.- La ley establecerá la forma en que los partidos políticos y los candidatos independientes participarán en los procesos electorales atendiendo a lo siguiente:
@@ -558,6 +562,10 @@ k) Las que determine la ley.
 19. En términos de lo que disponen la Constitución Federal y la legislación aplicable, el Instituto Electoral de Tamaulipas podrá solicitar y convenir con el Instituto Nacional Electoral que éste se haga cargo de la organización de los procesos electorales estatales.
 
 20. Fomentar los valores cívicos y la cultura democrática promoviendo la participación de las niñas, niños y adolescentes en los procesos electorales.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+21. La ley establecerá los mecanismos para hacer efectivo el derecho de voto de los Tamaulipecos en el extranjero, con el fin de que puedan elegir al Gobernador.
 
 > <small>(REFORMADA [N. DE E. ANTES FRACCIÓN III], P.O. 13 DE JUNIO DE 2015)</small>
 
@@ -749,21 +757,21 @@ V.- Los demás señalamientos que disponga la ley.
 
 No pueden ser electos Diputados:
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
-I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Poder Judicial del Estado, los Consejeros de la Judicatura, el Procurador General de Justicia, los Magistrados del Tribunal de Justicia Administrativa del Estado, los Diputados y Senadores al Congreso de la Unión, los Magistrados, jueces y servidores públicos de la Federación en el Estado, a menos que se separen 120 días antes de la elección;
+I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Poder Judicial del Estado, los Consejeros de la Judicatura, el Procurador General de Justicia, los Magistrados del Tribunal de Justicia Administrativa del Estado, los Diputados y Senadores al Congreso de la Unión, los Magistrados, jueces y servidores públicos de la Federación en el Estado, a menos que se separen 90 días antes de la elección;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
-II.- Los militares que hayan estado en servicio dentro de los 120 días anteriores a la fecha de la elección;
+II.- Los militares que hayan estado en servicio dentro de los 90 días anteriores a la fecha de la elección;
 
 > <small>(ADICIONADA, P.O. 10 DE JUNIO DE 1995)</small>
 
 III.- Los Ministros de cualquier culto religioso, salvo que se ciñan a lo dispuesto en el artículo 130 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
-IV.- Los Servidores Públicos del Estado y los Municipios, y los Jueces en su circunscripción, estarán también impedidos si no se separan de su cargo 120 días antes de la elección;
+IV.- Los Servidores Públicos del Estado y los Municipios, y los Jueces en su circunscripción, estarán también impedidos si no se separan de su cargo 90 días antes de la elección;
 
 V.- (DEROGADA, P.O. 13 DE JUNIO DE 2015)
 
@@ -4661,7 +4669,7 @@ Se derogan las disposiciones que se opongan a lo previsto en este decreto.
 
 P.O. 2 DE JUNIO DE 2017.
 
-[N. DE. E TRANSITORIOS DEL "DECRETO NO. LXIII-180 MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO CUARTO AL ARTÍCULO 134 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, Y SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS Y DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS".]
+[N. DE. E TRANSITORIOS DEL “DECRETO NO. LXIII-180 MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO CUARTO AL ARTÍCULO 134 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, Y SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS Y DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4670,6 +4678,18 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a lo previsto en este Decreto.
+
+P.O. 8 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-193 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por única ocasión y con la finalidad de homologar la elección local a la federal, los Diputados que sean electos en 2019 durarán en su encargo un período de dos años.
 
 ###### ARTÍCULO SEXTO.
 
