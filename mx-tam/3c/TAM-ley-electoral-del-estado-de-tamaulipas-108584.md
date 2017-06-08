@@ -4,7 +4,7 @@ identifier: "TAM-ley-electoral-del-estado-de-tamaulipas-108584"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-13"
-last_updated: "2017-06-02"
+last_updated: "2017-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108584&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ELECTORAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2017.
 
 Ley publicada en el Anexo Extraordinario Número 4 del Periódico Oficial del Estado de Tamaulipas, el sábado 13 de junio de 2015.
 
@@ -857,9 +857,19 @@ IX. Los partidos políticos acreditarán a sus representantes de casilla y repre
 
 X. Cuando el representante propietario de un partido político y, en su caso, el suplente, no asistan sin causa justificada por 3 veces consecutivas a las sesiones del Consejo General del IETAM, el representante dejará de formar parte del mismo durante el proceso electoral de que se trate;
 
-XI. Cuando se actualice lo dispuesto en la fracción V de este artículo, los Consejos Distritales y Municipales, darán aviso al Consejo General; y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
-XII. Todos los representantes de los partidos políticos, acreditarán su designación con la constancia que les expida el organismo electoral respectivo.
+XI. Cuando se actualice lo dispuesto en la fracción V de este artículo, los Consejos Distritales y Municipales, darán aviso al Consejo General;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+XII. Todos los representantes de los partidos políticos, acreditarán su designación con la constancia que les expida el organismo electoral respectivo; y
+
+(NOTA: EL 24 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2017 Y SU ACUMULADA 76/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+XIII. LOS PARTIDOS POLÍTICOS O COALICIONES, NO PODRÁN POSTULAR COMO CANDIDATO A QUIEN EN EL PROCESO ELECTORAL INMEDIATO ANTERIOR, HAYA SIDO POSTULADO COMO CANDIDATO INDEPENDIENTE, SALVO QUE EL CIUDADANO SE HAYA AFILIADO AL PARTIDO POLÍTICO QUE LO POSTULE A MÁS TARDAR DOS MESES ANTES DEL INICIO DEL PROCESO ELECTORAL.
 
 ###### Artículo 81.
 
@@ -2177,7 +2187,9 @@ I. Ser Consejero Electoral en los Consejos General, Distritales o Municipales de
 
 II. Ser Magistrado, Secretario General, Secretario de Estudio y Cuenta o Actuario, del Tribunal Electoral, a menos que se separe de su cargo un año antes de la elección;
 
-III. Ser integrante de algún ayuntamiento, a menos que se separe del cargo 120 días antes de la elección; y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+III. Ser integrante de algún ayuntamiento, a menos que se separe del cargo 90 días antes de la elección; y
 
 IV. Haber sido reelecto diputado en la elección anterior.
 
@@ -2219,7 +2231,9 @@ III. Estar inscrito en el Registro Federal de Electores en el Municipio motivo d
 
 Son impedimentos para ser miembro de un Ayuntamiento, además de los que se señalan en el artículo 26 del Código Municipal para el Estado de Tamaulipas los siguientes:
 
-I. Ser servidor público de la Federación o del Estado, con excepción de los cargos de elección popular, o del Municipio; o mando de la fuerza pública en el Municipio, a no ser que se separe de su cargo o participación por lo menos 120 días antes de la elección;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+I. Ser servidor público de la Federación o del Estado, con excepción de los cargos de elección popular, o del Municipio; o mando de la fuerza pública en el Municipio, a no ser que se separe de su cargo o participación por lo menos 90 días antes de la elección;
 
 II. Ser ministro de algún culto religioso, salvo que se ciña a lo dispuesto en el Artículo 130 de la Constitución Federal y su ley reglamentaria;
 
@@ -2537,7 +2551,7 @@ Los recursos obtenidos para y durante una precampaña electoral, estarán confor
 
 ###### Artículo 221.
 
-Los servidores públicos deberán renunciar u obtener licencia sin goce de sueldo para ausentarse de su cargo por lo menos un día antes de su registro como precandidato.
+(DEROGADO, P.O. 8 DE JUNIO DE 2017)
 
 ###### Artículo 222.
 
@@ -3161,23 +3175,33 @@ II. En las sesiones de cómputos distritales para el caso de la elección de dip
 
 III. En las sesiones de cómputos distritales, para el caso de la elección de Gobernador, respecto de los resultados en el distrito en el que se actualice alguna de las hipótesis para la procedencia del recuento.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
+
 ###### Artículo 291.
 
-El recuento parcial de votos, solamente se realizará respecto de aquellas casillas en las que el número de votos nulos sea cuatro veces mayor a la diferencia entre los candidatos presuntamente ubicados en el primero y segundo lugares en votación en la elección del municipio o distrito según corresponda, y además, cuando así lo solicite al inicio de la sesión de cómputo el representante del partido político o coalición que presuntamente estuviera en segundo lugar de la elección que se trate. Para acreditar la diferencia señalada, se considerará presunción suficiente la presentación ante el Consejo de la sumatoria de resultados por partido o coalición consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el municipio o distrito, según corresponda.
+El recuento parcial de votos, solamente se realizará respecto de aquellas casillas en las que se presente alguno de los siguientes elementos:
+
+I. Todos los votos hayan sido depositados a favor de un mismo partido político o candidato independiente;
+
+II. Si los resultados de las actas no coinciden, o se detectaren alteraciones evidentes en las actas que generen duda fundada sobre el resultado de la elección en la casilla, o no existiere el acta de escrutinio y cómputo en el expediente de la casilla ni obrare en poder del presidente del Consejo; y
+
+III. Existan errores o inconsistencias evidentes en los distintos elementos de las actas, salvo que puedan corregirse o aclararse con otros elementos a satisfacción plena de quien lo haya solicitado.
+
+Además de que se presente alguno de los elementos anteriores, deberá obrar solicitud al inicio de la sesión de cómputo del representante del Partido Político, Coalición o Candidato independiente que presuntamente estuviera en segundo lugar de la elección de que se trate.
 
 ###### Artículo 292.
 
 El recuento total de votos, procederá cuando se actualice cualquiera de los siguientes supuestos:
 
-I. Cuando todos los votos en la elección del o distrito según corresponda, hubieran sido depositados a favor de un mismo partido o coalición o cuando en más del 50 % de las casillas de la elección que se trate, todos los votos hayan sido depositados a favor de un mismo partido o coalición. En estas hipótesis deberá solicitarse el recuento al inicio de la sesión de cómputo;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
-II. Cuando al final de la sesión de cómputo se establezca que la diferencia entre el candidato presuntamente ganador y el ubicado en segundo lugar en la elección del municipio o distrito según corresponda, sea igual o menor a 0.75 %, y además concurran alguna de las 2 circunstancias siguientes:
+I. El número de votos nulos sea mayor a la diferencia entre los candidatos ubicados en el primero y segundo lugar de votación. En estas hipótesis deberá solicitarse el recuento al inicio de la sesión de cómputo;
 
-a) Se hubiese realizado recuento parcial de votos en por lo menos el 20 % de las casillas; o
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
-b) Con motivo de la apertura de paquetes se hubiera realizado nuevo escrutinio en por lo menos el 15% de las casillas; o
+II. Cuando al final de la sesión de cómputo se establezca que la diferencia entre el candidato presuntamente ganador y el ubicado en segundo lugar en la elección según corresponda, sea igual o menor a un punto porcentual.
 
-III. Cuando como resultado del cómputo se establezca que la diferencia entre el candidato presuntamente ganador y el ubicado en segundo lugar en la elección del municipio o distrito según corresponda, sea menor a medio punto porcentual.
+III. (DEROGADA, P.O. 8 DE JUNIO DE 2017)
 
 ###### Artículo 293.
 
@@ -3219,19 +3243,209 @@ No procederá el recuento respecto de las casillas sobre las que se hubiera real
 
 Cuando exista una petición infundada de recuento, y así lo acuerde el Consejo respectivo, se asentarán en el acta correspondiente los motivos y fundamentos para dicha determinación.
 
-# LIBRO SÉPTIMO. Régimen Sancionador Electoral
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JUNIO DE 2017)</small>
 
-### CAPÍTULO I. Sujetos, Conductas Sancionables y Sanciones
+# LIBRO SÉPTIMO. Del Voto de los Tamaulipecos Residentes en el Extranjero
 
-### CAPÍTULO II. Disposiciones Generales de los Procedimientos Sancionadores
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JUNIO DE 2017)</small>
 
-### CAPÍTULO III. Procedimiento Sancionador Ordinario
+### CAPÍTULO I. Derecho del Voto en el Extranjero
 
-### CAPÍTULO IV. Procedimiento Sancionador Especial
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+###### Artículo 297 Bis.
+
+Los tamaulipecos que se encuentren en el extranjero podrán ejercer su derecho al sufragio para Gobernador del Estado, de conformidad con lo que dispone la presente Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+###### Artículo 297 Ter.
+
+El Instituto tendrá bajo su responsabilidad el voto de los ciudadanos tamaulipecos en el extranjero, y para ello podrá emitir acuerdos y suscribir convenios con dependencias de competencia federal y estatal; así como con instituciones de carácter social y privado. Para el cumplimiento de las presentes atribuciones, el Consejo General integrará una Comisión Especial para el Voto de los Tamaulipecos en el Extranjero, y aprobará, a propuesta de su Presidente, la Unidad Técnica del Voto en el Extranjero.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+###### Artículo 297 Quáter.
+
+Para el ejercicio del voto, los ciudadanos tamaulipecos en el extranjero deberán cumplir, además de los que fija expresamente la ley, los siguientes requisitos:
+
+I. Solicitar al Instituto, por escrito, con firma autógrafa o, en su caso, huella digital, su inscripción en el listado nominal de electores tamaulipecos en el extranjero en el formato y según los plazos y procedimientos establecidos en la presente Ley, así como los dispuestos por el Consejo General;
+
+II. Anexar a su solicitud copia por anverso y reverso, legible de su credencial de elector con fotografía domiciliada en el Estado; y
+
+III. Los demás que establezca este Libro.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+###### Artículo 297 Quinquies.
+
+Los ciudadanos tamaulipecos que cumplan con los requisitos para votar conforme a este Libro, podrán solicitar su inscripción en la lista de votantes tamaulipecos en el extranjero de manera individual. El Instituto preverá lo necesario para que, ciento ochenta días antes del inicio del proceso electoral, los ciudadanos interesados puedan obtener su solicitud de inscripción por cualquiera de los siguientes medios:
+
+I. En las oficinas del Instituto;
+
+II. En consulados y embajadas de México;
+
+III. Por vía electrónica; y
+
+IV. Otros que acuerde el Consejo General.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+###### Artículo 297 Sexies.
+
+Las solicitudes deberán ser enviadas al Instituto a través de correo postal a más tardar ciento treinta días antes del día de la elección. No se dará trámite a ninguna solicitud depositada en el correo postal por el ciudadano después de este plazo o que sea recibida por el Instituto con menos de noventa días de anticipación al día de la elección.
+
+El Instituto resolverá la procedencia de la solicitud dentro del plazo de diez días contados a partir de su recepción.
+
+En los casos en que se advierta la omisión de alguno de los requisitos para la inscripción, el Instituto lo notificará de manera inmediata al ciudadano, indicándole el motivo y fundamento, para que en su caso, la pueda subsanar dentro del plazo de noventa días a que se refiere el primer párrafo.
+
+El ciudadano interesado podrá consultar al Instituto, por vía telefónica o electrónica, el estado de su registro o resolver cualquier otra duda.
+
+De ser procedente, dentro del plazo comprendido entre los cincuenta y a más tardar treinta días antes de la elección, enviará un sobre contendiendo (sic):
+
+I. La boleta;
+
+II. Las propuestas de los candidatos, partidos políticos o coaliciones;
+
+III. Un instructivo para votar, donde se indique el carácter secreto, personal e intransferible del voto; y
+
+IV. Dos sobres; uno de resguardo en que el ciudadano introducirá la boleta sufragada y otro de envío en el que remitirá el sobre anterior, por correo postal. Este último tendrá impreso un código de barras con la clave del elector remitente, así como el domicilio en el que tenga su sede el Instituto Electoral de Tamaulipas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO II. Del Registro y de la Lista de Votantes Tamaulipecos en el Extranjero
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+###### Artículo 297 Septies.
+
+La lista de votantes tamaulipecos en el extranjero es la relación de ciudadanos cuya solicitud de inscripción ha sido aprobada para votar en el extranjero, elaborada por el Instituto a través del Registro de Electores, la cual tendrá carácter temporal para cada proceso electoral. El Consejo General difundirá los plazos y términos para solicitar el registro de inscripción en la lista de votantes tamaulipecos en el extranjero.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+###### Artículo 297 Octies.
+
+Los ciudadanos inscritos en la lista de votantes tamaulipecos en el extranjero serán excluidos de la Lista Nominal correspondiente a su sección electoral hasta la conclusión del proceso electoral.
+
+Una vez concluido el proceso electoral, la autoridad correspondiente reinscribirá a los ciudadanos inscritos en la lista de votantes tamaulipecos en el extranjero en la Lista Nominal de Electores de la sección electoral a que corresponde su Credencial para Votar con Fotografía.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+###### Artículo 297 Nonies.
+
+El Instituto deberá elaborar la lista de votantes tamaulipecos en el extranjero de acuerdo a los siguientes criterios:
+
+I. Conforme al domicilio en el extranjero de los ciudadanos, ordenados alfabéticamente. Estas listas serán utilizadas exclusivamente para efectos del envío de las boletas electorales a los ciudadanos inscritos; y
+
+II. Conforme al domicilio en el Estado, sección, municipio y distrito electoral, ordenados alfabéticamente. Estas listas serán utilizadas por el Instituto para efectos del escrutinio y cómputo de la votación.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+###### Artículo 297 Decies.
+
+Con base en la lista de votantes tamaulipecos en el extranjero y conforme al criterio de su domicilio en territorio del Estado, a más tardar veinte días antes de la jornada electoral, el Consejo General realizará lo siguiente:
+
+I. Determinará el número de mesas de escrutinio y cómputo que correspondan y el procedimiento para seleccionar y capacitar a sus integrantes, aplicando en lo conducente lo establecido en la presente Ley. Cada mesa escrutará un máximo de mil quinientos votos; y
+
+II. Aprobará en su caso, los asistentes electorales que auxiliarán a los integrantes de las mesas.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+Artículo 297 Undecies.- Las mesas de escrutinio y cómputo tendrán como sede un local único en la Ciudad de Victoria que determine el Consejo General.
+
+Los partidos políticos tendrán derecho a designar un representante por cada mesa de escrutinio y cómputo y un representante general por cada veinte mesas.
+
+En caso de ausencia de los funcionarios de las mesas directivas de casilla, el Consejo General, a propuesta de su presidente, determinará el procedimiento para la designación del personal del Instituto que los supla y adoptará las medidas necesarias para asegurar la integración y funcionamiento de las mesas de escrutinio y cómputo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO TERCERO. Del Voto Postal
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+Artículo 297 Duodecies.- El tamaulipeco en el extranjero que reciba su boleta electoral, ejercerá su derecho al voto. Los electores que no sepan leer o que se encuentren impedidos físicamente para marcar su boleta de voto, podrán hacerse asistir por una persona de su confianza.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+Artículo 297 Terdecies.- La boleta electoral será doblada e introducida en el sobre de resguardo, cerrándolo de forma que asegure el secreto del voto, el que a su vez será incluido en el sobre de envío.
+
+El ciudadano deberá remitir el sobre por vía postal al IETAM.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+Articulo 297 Quaterdecies.- El Consejo General, dispondrá lo necesario para:
+
+I. Recibir y registrar los sobres, anotando el día y la hora de la recepción en el IETAM y clasificándolos conforme a las listas de votantes que serán utilizadas para efectos del escrutinio y cómputo;
+
+II. Colocar la leyenda <<votó>> al lado del nombre del elector en la lista de votantes correspondiente; y
+
+III. Resguardar los sobres recibidos y salvaguardar el secreto del voto.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+Artículo 297 Quindecies.- Son votos emitidos en el extranjero, los que se reciban por el IETAM hasta veinticuatro horas antes del inicio de la jornada electoral.
+
+Respecto de los sobres recibidos después del plazo señalado, se elaborará una relación de sus remitentes, se levantará un acta en presencia de los representantes y, sin abrirlos, se procederá a su destrucción.
+
+El día de la jornada electoral, el Secretario Ejecutivo rendirá al Consejo General del Instituto, informe previo respecto del número de sobres remitidos por tamaulipecos en el extranjero, clasificando por país de residencia de los electores, así como de los sobres recibidos fuera del plazo referido.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+Artículo 297 Sexdecies.- Las mesas de escrutinio y cómputo se instalarán a las diecisiete horas del día de la jornada electoral. A las dieciocho horas iniciará el escrutinio y cómputo de la votación emitida en el extranjero.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+Articulo 297 Septendecies.- Para el escrutinio y cómputo de los votos emitidos en el extranjero para la elección de Gobernador del Estado, se aplicará lo siguiente:
+
+I. El Consejo General hará llegar a los presidentes de las mesas directivas de casilla la lista de votantes tamaulipecos en el extranjero en la que conste los nombres de los electores que votaron dentro del plazo establecido, junto con los sobres de resguardo correspondientes a dicho listado;
+
+II. El Presidente de la mesa verificará que cuenta con el listado de votantes correspondiente, y sumará los registros que en dicho listado tengan marcada la palabra voto;
+
+III. Acto seguido, los escrutadores procederán a contar los sobres de resguardo que contienen las boletas electorales y verificarán que el resultado sea igual a la suma de electores marcados con la palabra votó que señala la fracción anterior. Si el número de electores marcados con la palabra votó en el listado de votantes y el número de sobres no coinciden, el hecho deberá consignarse en el acta y la hoja de incidentes respectiva, señalándose la diferencia que se encontró;
+
+IV. Verificado lo anterior, el Presidente de la mesa procederá a abrir cada uno de los sobres de resguardo y extraerá la boleta electoral para depositarla en la urna Si al abrir un sobre se constata que no contiene la boleta electoral o contiene más de una, se considerará que el voto o los votos son nulos, y el hecho se consignará en el acta y en la hoja de incidentes;
+
+V. Realizado lo anterior, dará inicio el escrutinio y cómputo, aplicándose, en lo conducente, las reglas establecidas en el apartado relativo de cómputo de esta Ley;
+
+VI. Para determinar la validez o nulidad del voto, será aplicable lo conducente en la presente Ley; y
+
+VII. Concluido lo anterior, se levantará el acta de escrutinio y cómputo.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+Artículo 297 Octodecies.- Las actas de escrutinio y cómputo de cada mesa serán conjuntadas y sumados sus resultados, lo que constituirá el cómputo de la votación estatal recibida del extranjero.
+
+El Consejo General, el miércoles siguiente al día de la elección, realizará la suma de los resultados consignados en las actas de escrutinio y cómputo de las mesas, para obtener el cómputo de la votación estatal recibida del extranjero, lo cual se hará constar en acta que será firmada por sus integrantes y por los representantes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO IV. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+Artículo 297 Novodecies.- Quedan prohibidas en el extranjero, en cualquier tiempo, las actividades, actos y propaganda electoral a que se refiere esta Ley.
+
+La violación a lo establecido en el párrafo anterior podrá ser denunciada ante el Instituto, por los representantes de los partidos políticos, Coaliciones o Candidaturas independientes ante el Consejo General, mediante queja presentada por escrito, debidamente fundada y motivada, y aportando los medios de prueba.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+Artículo 297 Vicies.- El Consejo General, una vez aprobados los registros de candidatos a Gobernador del Estado y finalizado el plazo para la inscripción en el listado de tamaulipecos en el extranjero, procederá de inmediato a elaborar las boletas en número que corresponda al listado, así como el material y documentación electoral necesarios. Las boletas deberán llevar la leyenda "voto de tamaulipecos en el extranjero".
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+Artículo 297 Unvicies.- El Consejo General establecerá las medidas para salvaguardar la confidencialidad de los datos personales contenidos en la lista de votantes tamaulipecos en el extranjero, la cual no será exhibida fuera del territorio estatal.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+Artículo 297 Duovicies.- Son aplicables, en todo lo que no contravenga a las normas del presente Libro, las demás disposiciones conducentes de esta Ley, la Ley General de Instituciones y Procedimientos Electorales y las demás leyes aplicables.
+
+(REUBICADO [N. DE E. ANTES LIBRO SÉPTIMO], P.O. 8 DE JUNIO DE 2017)
+
+# LIBRO OCTAVO. Régimen Sancionador Electoral
 
 ## TÍTULO PRIMERO. Faltas Electorales y su Sanción
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO I. Sujetos, Conductas Sancionables y Sanciones
 
 ###### Artículo 298.
 
@@ -3531,6 +3745,8 @@ Los recursos obtenidos por las multas derivadas de infracciones en los términos
 
 El Consejo General acordará con las instancias conducentes del Ejecutivo del Estado, los mecanismos para la transferencia de los recursos referido en el párrafo anterior.
 
+### CAPÍTULO II. Disposiciones Generales de los Procedimientos Sancionadores
+
 ###### Artículo 312.
 
 Son órganos competentes para la tramitación y resolución del procedimiento sancionador:
@@ -3634,6 +3850,10 @@ Las documentales privadas, técnicas, periciales, e instrumental de actuaciones,
 ###### Artículo 325.
 
 Para la resolución expedita de las quejas o denuncias y con objeto de determinar en una sola resolución sobre dos o más de ellas, se procederá decretar la acumulación por litispendencia, conexidad, o cuando exista vinculación de dos o más expedientes de procedimientos por que existan varias quejas o denuncias contra un mismo denunciado, respecto de una misma conducta y provengan de una misma causa.
+
+### CAPÍTULO III. Procedimiento Sancionador Ordinario
+
+### CAPÍTULO IV. Procedimiento Sancionador Especial
 
 ###### Artículo 326.
 
@@ -3770,6 +3990,8 @@ III. Modificarlo, procediendo a aprobarlo dentro de la misma sesión, siempre y 
 IV. Rechazarlo y ordenar a la Secretaría Ejecutiva elaborar un nuevo proyecto en el sentido de los argumentos, consideraciones y razonamientos expresados por la mayoría.
 
 En el desahogo de los puntos de la orden del día en que el Consejo deba resolver sobre los proyectos de resolución relativos a quejas o denuncias, éstos se agruparán y votarán en un solo acto, salvo que alguno de sus integrantes proponga su discusión por separado.
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 342.
 
@@ -3976,3 +4198,19 @@ La Convocatoria para designar a los titulares de los órganos internos de contro
 ###### ARTÍCULO TERCERO.
 
 Comuníquese el presente Decreto a la Universidad Autónoma de Tamaulipas, solicitando con pleno respeto a su autonomía institucional que, a la brevedad, tenga a bien homologar sus ordenamientos jurídicos internos en lo concerniente al Órgano Interno de Control y su titular, tomando en consideración las reformas planteadas en el presente Decreto, para así armonizar sus disposiciones a que haya lugar, en materia de combate a la corrupción.
+
+P.O. 8 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-194 MEDIANTE EL CUAL SE REFORMAN ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por única ocasión y con la finalidad de homologar la elección local a la federal, los Diputados que sean electos en 2019 durarán en su encargo un periodo de dos años.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan a lo previsto en este Decreto.
