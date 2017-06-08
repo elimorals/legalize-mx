@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-para-la-integracion-al-110870"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-01-06"
-last_updated: "2016-01-06"
+last_updated: "2017-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110870&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-11-23"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE JUNIO DE 2017.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el miércoles 6 de enero de 2016.
 
@@ -132,9 +132,17 @@ II. Aprobar anualmente los programas institucionales, el anteproyecto de presupu
 
 III. Aprobar el calendario anual de sesiones;
 
-IV. Seleccionar a los Consejeros Ordinarios del Consejo Consultivo; y
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2017)</small>
 
-V. Las demás que sean necesarias para el ejercicio de sus facultades.
+IV. Designar por única ocasión a los primeros miembros que integrarán el Consejo Consultivo, a propuesta del Presidente de la Junta Directiva, con la finalidad de que una vez instalado, elabore su reglamento interno.
+
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2017)</small>
+
+V. Seleccionar a los Consejeros Ordinarios del Consejo Consultivo; y
+
+> <small>(ADICIONADA, G.O. 8 DE JUNIO DE 2017)</small>
+
+VI. Las demás que sean necesarias para el ejercicio de sus facultades.
 
 ###### Artículo 9.
 
@@ -608,7 +616,7 @@ PRIMERO. Publíquese el presente aviso de Estatuto en la Gaceta Oficial del Dist
 
 SEGUNDO. El presente aviso del Estatuto Orgánico entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
-TERCERO. En tanto no entre en vigor el Reglamento de la Ley para la Integración al Desarrollo de las Personas con Discapacidad del Distrito Federal, la Dirección General por única ocasión, emitirá la convocatoria que tendrá los lineamientos respectivos para la integración del Consejo Consultivo.
+TERCERO. (DEROGADO, G.O. 8 DE JUNIO DE 2017)
 
 México, D.F., a 23 de noviembre del 2015.
 
@@ -617,3 +625,11 @@ México, D.F., a 23 de noviembre del 2015.
 Ing. Fidel Pérez de León
 
 Director General
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 8 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “AVISO POR EL QUE SE DAN A CONOCER LAS REFORMAS AL ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL”.]
+
+ÚNICO.- El presente aviso entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
