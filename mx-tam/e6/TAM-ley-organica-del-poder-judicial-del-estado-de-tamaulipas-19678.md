@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2016-09-27"
+last_updated: "2017-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -1285,13 +1287,9 @@ IX.- Reunirse con los Jueces Menores de su adscripción trimestralmente y cuando
 
 X.- Ordenar la remisión oportuna al Archivo Judicial del Estado, de los expedientes a que se refiere esta ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 XI.- Practicar las diligencias que les encomienden el Pleno del Supremo Tribunal de Justicia, los Magistrados de las Salas Colegiadas, Unitarias o Regionales y las autoridades judiciales de la Federación y rendir los informes que al efecto les soliciten;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -1533,8 +1531,6 @@ I.- Dar cuenta, dentro de las veinticuatro horas siguientes a su recepción, de 
 
 II.- Vigilar, bajo su responsabilidad, que se despachen los asuntos dentro de los términos de ley, asentando las constancias respectivas en autos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 III.- Llevar en forma electrónica, a través del Sistema de Gestión Judicial, el libro en el que se registran los negocios de la sala, el cual se denominará "Libro de Gobierno"; así como los demás libros electrónicos que determine el Consejo de la Judicatura, en los que se asienten los diversos movimientos de la Sala tales como comunicaciones procesales, exhortos, despachos, requisitorias, amparos, entre otros;
@@ -1545,19 +1541,13 @@ V.- Certificar con su firma las copias cuya expedición se acuerde por el Magist
 
 VI.- Dar fe y refrendar con su firma las resoluciones que se dicten por el Magistrado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 VII.- Dar cuenta inmediata de las resoluciones que por su urgencia así lo ameriten;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 VIII.- Utilizar el Sistema Electrónico de Gestión Judicial y supervisar el uso de éste por el personal adscrito a la Sala para la realización del trabajo diario; y,
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -1619,13 +1609,9 @@ I.- Recibir los escritos que se les presenten, asentando al calce la razón del 
 
 II.- Dar cuenta diariamente al Juez bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a la de la presentación, de todos los escritos y promociones de los interesados, así como de los oficios y demás documentos que se reciban en el Juzgado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 III.- Llevar en forma electrónica, a través del Sistema de Gestión Judicial, el libro en el que se registran los negocios del Juzgado, el cual se denominará "Libro de Gobierno";
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -1661,13 +1647,9 @@ XVIII.- Vigilar la conducta de los empleados subalternos, dando cuenta inmediata
 
 XIX.- Ejercer, bajo su responsabilidad, la vigilancia que sea necesaria en la oficina para evitar la pérdida de los expedientes o documentos que obren en los mismos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 XX.- Asumir el carácter de jefe inmediato administrativo del Juzgado, y dirigir las labores internas de la oficina de acuerdo con las instrucciones del Juez;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -1823,37 +1805,29 @@ Las renuncias de los Magistrados serán sometidas al conocimiento del Pleno del 
 
 ### CAPITULO V. DE LA REMOCION Y DE LA SUSPENSION DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 95.
 
-Los Magistrados serán inamovibles durante el período de su encargo, el cual cesará únicamente en los términos del Título XI de la Constitución Política del Estado.
+Los Magistrados y los Consejeros serán inamovibles durante el período de su encargo, el cual cesará únicamente en los términos del Título XI de la Constitución Política del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
+Los Jueces únicamente podrán ser removidos por el Consejo de la Judicatura, mediante el procedimiento correspondiente, cuando:
 
-Durante el período de su ejercicio, los Jueces de Primera Instancia únicamente podrán ser removidos por el Consejo de la Judicatura, cuando:
+I.- Cometan falta grave, o cuando reincidan en actos u omisiones sin haber atendido a las observaciones o amonestaciones que se les hagan por faltas disciplinarias que deban guardar conforme a esta ley, o cuando así se determine por incurrir en alguna de las faltas contempladas en la Ley General de Responsabilidades Administrativas;
 
-I.- Cometan faltas de probidad u honradez;
+II.- Padezcan incapacidad física o mental que les impida el desempeño de su función;
 
-II.- Exista negligencia en el desempeño de sus labores;
+III.- Se sitúen en el supuesto que prevé el segundo párrafo del artículo 112 de la Constitución Política del Estado; o
 
-III.- Padezcan incapacidad física o mental que les impida el desempeño de su función;
+IV.- Así se decrete mediante el procedimiento de juicio político a que se refiere el artículo 151 de la Constitución Política del Estado.
 
-IV.- Se sitúen en el supuesto que prevé el segundo párrafo del artículo 112 de la Constitución Política del Estado;
+Los demás servidores públicos del Poder Judicial podrán ser removidos por incurrir en los supuestos establecidos en las fracciones I y II de este artículo.
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-V.- Sean destituidos mediante el procedimiento de responsabilidad administrativa; o
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-VI.- Mediante el procedimiento de juicio político a que se refiere el artículo 151 de la Constitución Política del Estado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 96.
 
-La suspensión de los Jueces procederá:
+La suspensión de los Jueces y demás servidores públicos del Poder Judicial procederá, en su caso:
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -1979,89 +1953,291 @@ ARTICULO 108 QUINQUIES.- En caso de fallecimiento del magistrado o consejero en 
 
 ### CAPITULO I
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 109.
 
-Los Magistrados del Supremo Tribunal de Justicia, los Jueces y todos los miembros del Poder Judicial, son responsables de las faltas administrativas que cometan en el ejercicio de sus cargos y quedan sujetos por ello, a las sanciones que determine la Ley de Responsabilidades de los Servidores Públicos.
+Los Magistrados del Supremo Tribunal de Justicia, los Consejeros, los Jueces y todos los miembros del Poder Judicial, son responsables de las faltas administrativas que cometan en el ejercicio de sus cargos y quedan sujetos por ello, a las sanciones que, en todo caso, determine esta ley y a las demás que señalen las leyes de responsabilidades administrativas aplicables, sin demérito de aquellas en materia de fiscalización sobre el manejo, la custodia y aplicación de los recursos públicos, que corresponden en su competencia a las atribuciones de la Auditoría Superior del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 110.
 
-Corresponde al Pleno del Supremo Tribunal de Justicia conocer de las faltas cometidas por los magistrados. Al Consejo de la Judicatura le compete conocer de las faltas cometidas por cualquier otro servidor público del Poder Judicial, en términos del artículo anterior.
+Corresponde al Pleno del Supremo Tribunal de Justicia, conocer de las faltas cometidas por los Magistrados, y al Pleno del Consejo de la Judicatura las de sus Consejeros.
 
-### CAPITULO II. DEL PROCEDIMIENTO DE QUEJA ADMINISTRATIVA
+El Pleno del Supremo Tribunal de Justicia y el del Consejo de la Judicatura determinarán, mediante acuerdo, las autoridades a cuyo cargo estará la investigación y substanciación de las presuntas faltas administrativas cometidas por los Magistrados y Consejeros, respectivamente.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2014)</small>
+Al Consejo de la Judicatura le compete conocer de las faltas cometidas por cualquier otro servidor público del Poder Judicial, en términos del artículo anterior, sin demérito de las atribuciones de la Auditoría Superior del Estado, en materia de fiscalización sobre el manejo, la custodia y aplicación de los recursos públicos.
+
+La investigación derivada de presuntas faltas administrativas cometidas por los servidores públicos del Poder Judicial, competencia del Consejo de la Judicatura, estará a cargo de las Direcciones de Visitaduría Judicial y de Contraloría, en el ámbito de sus respectivas atribuciones.
+
+Para el mismo efecto, la substanciación del procedimiento derivado de las presuntas faltas administrativas cometidas por los servidores públicos del Poder Judicial, competencia del Consejo de la Judicatura, será por conducto de la Comisión que tenga a su cargo la materia de disciplina, actuando con la Secretaría Ejecutiva del mismo.
+
+La facultad sancionadora dentro del procedimiento de responsabilidad administrativa será atribución del Pleno del Supremo Tribunal de Justicia y del Pleno del Consejo de la Judicatura, en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+ARTICULO 110 BIS.- Son faltas administrativas de los servidores públicos del Poder Judicial:
+
+I.- Dejar de asistir o separarse del ejercicio de sus funciones, sin causa justificada, en términos de ley;
+
+II.- Demorar o no cumplir, sin causa justificada, el despacho de los asuntos que tengan encomendados;
+
+III.- Incumplir las ejecutorias, resoluciones y demás disposiciones obligatorias que, expedidas conforme a la ley, reciban de sus superiores;
+
+IV.- Faltar a la dignidad, imparcialidad y profesionalismo en el desempeño de sus labores;
+
+V.- Extraviar los registros, expedientes, procesos, tocas, libros, documentos, escritos o promociones que tengan bajo su cargo;
+
+VI.- Realizar actos u omisiones que demoren o dificulten el ejercicio de los derechos de las partes;
+
+VII.- Dejar de presidir las diligencias o audiencias, o abstenerse de intervenir en los casos que deban hacerlo de acuerdo con la ley;
+
+VIII.- Acordar o resolver los asuntos de su conocimiento, fuera de los términos legales;
+
+IX.- Dar cuenta, fuera del término legal, con los oficios y documentos oficiales, así como con los escritos y promociones formuladas;
+
+X.- Asentar en autos las certificaciones que procedan de oficio o por mandato judicial, sin sujetarse a los plazos legales, o abstenerse de hacerlas;
+
+XI.- Redactar actas o desahogar diligencias sin sujetarse a las formalidades que establece la ley;
+
+XII.- Negar, sin causa justificada, los datos e informes que les soliciten sus superiores, los abogados y los litigantes, cuando legalmente procedan;
+
+XIII.- Descuidar el trámite o la conservación de los registros, expedientes, procesos, tocas, escritos, documentos, objetos y valores que tengan a su cargo;
+
+XIV.- Retardar la entrega de los registros, expedientes, procesos, tocas, escritos y documentos para su trámite legal, así como los objetos y valores que tengan a su cargo;
+
+XV.- Omitir dar cuenta a su superior de las faltas que hubiere observado en el personal de su oficina;
+
+XVI.- Omitir o negarse a realizar las notificaciones que procedan, dentro de los términos legales;
+
+XVII.- Negar los registros, expedientes, procesos o tocas a las partes, sin causa justificada, cuando su exhibición sea obligatoria;
+
+XVIII.- Extraer los registros, expedientes, procesos, tocas o demás documentos, en los casos en que las leyes no lo permitan;
+
+XIX.- Tratar fuera de los recintos oficiales los asuntos que se tramiten ante ellos;
+
+XX.- Divulgar los asuntos que ameriten, en el ámbito de sus funciones, reserva o discreción;
+
+XXI.- Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento;
+
+XXII.- Asistir en estado de ebriedad o bajo el influjo de algún estupefaciente, o incurrir en actos que alteren el orden, en el recinto oficial;
+
+XXIII.- Inferir malos tratos, vejaciones o actos discriminatorios que atenten contra la dignidad humana;
+
+XXIV.- Dejar de asistir, sin causa justificada, a los cursos de capacitación, seminarios y reuniones de trabajo a los que tengan obligación;
+
+XXV.- Realizar o fomentar el comercio en el interior de las oficinas y recintos judiciales;
+
+XXVI.- Omitir presentar en tiempo y forma las declaraciones de situación patrimonial y de intereses, en los términos establecidos por esta ley y demás disposiciones aplicables; y
+
+XXVII.- Dejar de cumplir las demás obligaciones que les imponga la presente ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+ARTICULO 110 TER.- Se consideran faltas graves:
+
+I.- Realizar conductas que atenten contra la independencia de la función judicial, tales como aceptar o ejercer consignas, presiones, encargos o comisiones, o cualquier acción que genere o implique subordinación respecto de alguna persona, del mismo u otro poder;
+
+II.- Solicitar o recibir, por sí o por interpósita persona, dinero, valores, servicios o cualquier otra dadiva, ya sea por concepto de gastos, gratificaciones, obsequios, remuneración por diligencias o actuaciones judiciales que se practiquen dentro o fuera de los recintos oficiales, sin importar que éstas se efectúen después de las horas de despacho;
+
+III.- Interferir indebidamente, por si o por interpósita persona, en cuestiones del orden jurisdiccional que competan a otros órganos del Poder Judicial del Estado;
+
+IV.- Tener una notoria ineptitud o descuido en el desempeño de las funciones o labores que deban realizar;
+
+V.- Impedir que las partes ejerzan los derechos que legalmente les correspondan en los procedimientos;
+
+VI.- Conocer de algún asunto o participar en algún acto para el cual se encuentren impedidos;
+
+VII.- Realizar nombramientos, promociones o ratificaciones infringiendo las disposiciones correspondientes;
+
+VIII.- Dictar sentencias o resoluciones contrarias o en exceso de lo que se emitió en sala de audiencias;
+
+IX.- Dictar, a sabiendas, una resolución de fondo o una sentencia definitiva ilícita por violar algún precepto terminante de la ley que no admita interpretación;
+
+X.- Las previstas en la Ley de Responsabilidades Administrativas aplicable, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional;
+
+XI.- Litigar, directa o indirectamente, salvo que se trate de asuntos propios, de sus ascendientes, descendientes o cónyuges; y
+
+XII.- Las demás que determinen las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+ARTICULO 110 QUÁTER.- Cuando el titular del órgano jurisdiccional o administrativo advierta que sus subalternos incurran en alguna falta administrativa, elaborará el acta respectiva, la que remitirá, dentro de los tres días siguientes, a la Dirección de Visitaduría o a la de Contraloría, para que intervenga conforme a sus facultades investigadoras.
+
+Cuando el titular no proceda en los términos indicados, será sancionado por el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+ARTICULO 110 QUINQUIES.- Las sanciones por responsabilidad administrativa contempladas en la presente ley consistirán en:
+
+I.- Amonestación privada o pública;
+
+II.- Multa hasta por la cantidad equivalente a mil veces el valor diario de la Unidad de Medida y Actualización;
+
+III.- Suspensión hasta por seis meses, sin goce de sueldo;
+
+IV.- Destitución del empleo, cargo o comisión; e
+
+V.- Inhabilitación hasta por doce años para desempeñar cualquier empleo, cargo o comisión en el servicio público.
+
+No podrán imponerse dos veces o más, sanciones de la misma gravedad para faltas iguales o semejantes, del mismo servidor público.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+ARTICULO 110 SEXIES.- Para la imposición de las sanciones administrativas se tomarán en cuenta, además de los elementos propios del empleo, cargo o comisión que desempeñaba el servidor público cuando incurrió en la falta, los que se refieren a continuación:
+
+I.- La gravedad de la conducta en que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de la ley o las que se dicten con base en ella;
+
+II.- Las circunstancias socioeconómicas del servidor público;
+
+III.- El nivel jerárquico y los antecedentes del infractor, entre ellos la antigüedad en el servicio;
+
+IV.- Las condiciones exteriores y los medios de ejecución;
+
+V.- La reincidencia en el incumplimiento de sus obligaciones; y
+
+VI.- Los daños y perjuicios patrimoniales causados por los actos u omisiones.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+ARTICULO 110 SEPTIES.- Si el servidor público aceptare su responsabilidad en la realización de los hechos u omisiones que le son atribuidos, serán aplicables las siguientes disposiciones:
+
+I.- Se procederá de inmediato a dictar la resolución, a no ser que quien conoce del procedimiento, disponga la recepción de pruebas para robustecer la veracidad de los hechos; y
+
+II.- Se impondrá al infractor dos tercios de la sanción aplicable, si es de naturaleza económica, pero en lo que respecta a la indemnización, ésta en todo caso deberá ser suficiente para cubrir los daños y perjuicios causados, debiendo restituirse cualquier bien o producto que se hubiere percibido con motivo de la infracción.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+ARTICULO 110 OCTIES.- Las facultades para imponer las sanciones administrativas a que esta ley se refiere, prescriben:
+
+I.- En tres años, contados a partir del día siguiente al en que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado, si fueren de carácter continuo; y
+
+II.- En siete años, tratándose de infracciones graves, que se contará en los términos de la fracción anterior.
+
+La prescripción se interrumpirá al iniciarse los procedimientos previstos por la ley. Si se dejare de actuar en ellos, la prescripción empezará a correr nuevamente desde el día siguiente al en que se hubiere practicado el último acto procedimental o realizado la última promoción.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2017)</small>
+
+### CAPITULO II. DE LA INVESTIGACION
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 111.
 
-Quien tenga interés jurídico, podrá presentar queja administrativa ante el Consejo de la Judicatura del Estado, en contra de cualquiera de los servidores públicos del Poder Judicial, dentro de los quince días siguientes a aquél en el que, quien se queja, haya tenido conocimiento del acto o la omisión de naturaleza administrativa generadora de la queja; teniendo como consecuencia únicamente, la aplicación de una sanción al servidor público responsable, en los términos dispuestos por el presente ordenamiento y las leyes aplicables.
+El procedimiento para la investigación por la presunta responsabilidad administrativa de los servidores públicos del Poder Judicial, iniciará:
 
-En el supuesto que el procedimiento de donde emane la queja administrativa se desarrolle fuera de la capital del Estado de Tamaulipas, quien la interponga tendrá un día más de plazo para su presentación por cada ochenta kilómetros o fracción que exceda de la décima parte por razón de la distancia que medie entre la capital y la localidad donde se ubique el juzgado o la unidad administrativa de que se trate.
+I.- Por denuncia o queja de quien tenga interés directo o indirecto en el procedimiento, que podrá formularse por escrito, comparecencia o medios electrónicos autorizados por el Consejo de la Judicatura;
 
-Si la queja se efectúa en contra de algún Magistrado, la misma se deberá presentar ante la Presidencia del Supremo Tribunal de Justicia del Estado.
+II.- De oficio, cuando de las diligencias llevadas a cabo por las autoridades competentes en su facultad de investigación, de las actas levantadas a los subalternos o con motivo de las visitas practicadas a los órganos y oficinas del Poder Judicial, por la dirección de Visitaduría Judicial, de las auditorías realizadas por el Órgano de Control de este Poder Judicial, o de las propias actuaciones del servidor público involucrado, se adviertan irregularidades; y
 
-No serán materia de queja administrativa, los aspectos estrictamente de orden jurisdiccional o aquellos derivados de cuestiones procesales comunes, en cuyos casos proceden los recursos e incidentes previstos por la ley. En cambio, los motivos de queja administrativa podrán referirse a la actuación irregular del servidor público cuando objetivamente aparezca que se apartó de los principios de imparcialidad, honestidad y legalidad que deben regir su desempeño.
+III.- Por el Órgano de Fiscalización Superior del Estado, en ejercicio de sus funciones.
 
-### CAPITULO UNICO
+Cuando se considere necesario, se mantendrá con carácter de confidencial la identidad de las personas que denuncien las presuntas infracciones.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+ARTICULO 111 BIS.- Las quejas o denuncias ante la autoridad investigadora, deberán contener datos o indicios que permitan advertir la presunta responsabilidad del servidor público, debiendo establecer los lineamientos para que las mismas sean atendidas y resueltas con eficiencia.
+
+El plazo para la presentación de denuncia o queja, se sujetará a las siguientes reglas:
+
+I.- Deberá presentarse dentro del término de quince días hábiles, contados a partir del siguiente en que el quejoso o denunciante haya tenido conocimiento de la conducta presumiblemente infractora. En el supuesto de que el procedimiento de donde emane la queja o denuncia se desarrolle fuera de la capital del Estado de Tamaulipas, quien la interponga tendrá un día más de plazo para su presentación por cada ochenta kilómetros o fracción que exceda de la décima parte por razón de la distancia que medie entre la capital y la localidad donde se ubique el juzgado o la unidad administrativa de que se trate; e
+
+II.- Independientemente de esa circunstancia, el plazo para iniciar el procedimiento de oficio, prescribirá en los plazos establecidos en esta propia ley.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+ARTICULO 111 TER.- La autoridad competente tendrá acceso a la información necesaria para el esclarecimiento de los hechos; tratándose de faltas graves podrá incluirse aquélla información que las disposiciones legales en la materia consideren con carácter de reservada o confidencial, siempre que esté relacionada con la comisión de infracciones a que se refiere esta ley, con la obligación de mantener la misma reserva o secrecía, conforme a lo que determinen las leyes aplicables.
+
+Las autoridades competentes encargadas de la investigación podrán allegarse de cualquier prueba documental, archivo digital o electrónico que consideren necesaria para el esclarecimiento de los hechos, así como ordenar la práctica de visitas de verificación, siempre que no sean contrarias a la ley.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+ARTICULO 111 QUATER.- Para el cumplimiento de las atribuciones de las autoridades que conozcan del procedimiento de responsabilidades administrativas, se podrán emplear los siguientes medios de apremio:
+
+I.- Multa hasta por la cantidad equivalente a cien veces el valor diario de la Unidad de Medida y Actualización, la cual podrá duplicarse en caso de renuencia al cumplimiento del mandato respectivo;
+
+II.- Auxilio de la fuerza pública; o
+
+III.- Arresto hasta por treinta y seis horas.
+
+Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la legislación penal.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+ARTICULO 111 QUINQUIES.- La investigación deberá realizarse en un plazo no mayor a seis meses.
+
+Concluidas las diligencias de investigación, las autoridades investigadoras procederán al análisis de los hechos, así como de la información recabada, a efecto de determinar la existencia o inexistencia de actos u omisiones que la presente ley señala como falta administrativa y, en su caso, calificarla como grave o no grave.
+
+Una vez calificada la conducta en los términos del párrafo anterior, se incluirá la misma en el respectivo informe y éste se presentará ante la autoridad substanciadora, dentro de los diez días hábiles siguientes de finalizada la investigación, a efecto de iniciar el procedimiento de responsabilidad administrativa.
+
+Si no se encontraren elementos suficientes para demostrar la existencia de la infracción y la presunta responsabilidad del infractor, se emitirá un acuerdo de conclusión y archivo del expediente, sin perjuicio de que pueda abrirse nuevamente la investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar.
+
+Dicha determinación, en su caso, se notificará a los Servidores Públicos y particulares sujetos a la investigación, así como a los denunciantes cuando éstos fueren identificables, dentro los diez días hábiles siguientes a su emisión.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+### CAPITULO III. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 112.
 
-Tienen acción para iniciar el procedimiento de queja, por la comisión de las faltas de los servidores públicos judiciales:
+En los procedimientos de responsabilidad administrativa deberán observarse los principios de legalidad, presunción de inocencia, imparcialidad, objetividad, congruencia, exhaustividad, verdad material y respeto a los derechos humanos.
 
-I.- Las partes en el juicio en que se cometieron;
+El procedimiento de responsabilidad administrativa dará inicio cuando la autoridad substanciadora, admita el informe derivado de la investigación.
 
-II.- Los abogados litigantes en los casos de responsabilidades provenientes de actos u omisiones en el juicio en que intervengan;
+La autoridad investigadora deberá presentar ante la autoridad substanciadora el informe respectivo, la cual, dentro de los tres días siguientes se pronunciará sobre su admisión, pudiendo prevenir a la autoridad investigadora para que subsane las omisiones que advierta, o que aclare los hechos narrados en el informe.
 
-III.- El Ministerio Público en los negocios en que intervenga, o en su caso el ofendido en los procesos de orden penal; y,
+En el caso de que la autoridad substanciadora admita el informe, ordenará el emplazamiento del presunto responsable, para que (sic) un plazo de diez días hábiles formule la contestación sobre los hechos que se le atribuyen y ofrezca las pruebas que estime necesarias para su defensa.
 
-IV.- Las asociaciones de abogados registradas en el Supremo Tribunal de Justicia.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 113.
 
-Las asociaciones de abogados debidamente registradas ante la Presidencia del Supremo Tribunal de Justicia podrán ejercer las acciones a que se refiere este capítulo cuando se afecte el interés general de la agrupación profesional, por medio del órgano que prescriban sus estatutos o el que acuerde la Asamblea General para todos los casos, pero nunca para casos especiales.
+Transcurrido el plazo para que el probable responsable rinda su contestación, la autoridad substanciadora, emitirá el acuerdo de admisión de pruebas que corresponda, y abrirá en su caso, el procedimiento para desahogo y preparación de pruebas por un plazo de diez días hábiles.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2014)</small>
+Concluido el desahogo de las pruebas ofrecidas por las partes, y si no existieran diligencias pendientes para mejor proveer o más pruebas que desahogar, la Autoridad substanciadora declarará abierto el periodo de alegatos por un término de cinco días hábiles comunes para las partes.
+
+Una vez trascurrido el periodo de alegatos, la autoridad substanciadora, declarará cerrada la instrucción y turnará el asunto dentro del plazo de cinco días hábiles al Pleno del Consejo para que éste, dentro de los treinta días hábiles siguientes, emita la resolución que corresponda.
+
+La resolución deberá notificarse personalmente al presunto responsable. En su caso, se notificará a los denunciantes o quejosos, únicamente para su conocimiento, y al jefe inmediato o al titular de la dependencia o entidad, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 114.
 
-El procedimiento de queja se substanciará conforme a las siguientes reglas:
+Las autoridades investigadoras podrán solicitar a la autoridad substanciadora, que decrete aquellas medidas cautelares que:
 
-I.- La queja deberá presentarse por escrito, con expresión del nombre y firma de quien la promueve, carácter con el que comparece, domicilio para oír y recibir notificaciones dentro de la capital del Estado, en cuyo defecto se harán por lista o cédula, según corresponda; el interesado además deberá precisar dentro de su escrito, el nombre y cargo del servidor público sujeto de la queja, la narración de los actos y omisiones que den motivo a la queja de una forma clara y precisa, así como, en su caso, ofrecer las pruebas que sustenten sus imputaciones. Sin la cobertura de dichos requisitos no se dará trámite a la queja;
+I.- Eviten el ocultamiento o destrucción de pruebas;
 
-II.- La queja se notificará al servidor público involucrado, para que exprese lo que a su derecho convenga en cuanto a lo que se le imputa ante el órgano competente para la resolución de la queja, así como para acompañar u ofrecer las pruebas de su intención, dentro del término de cinco días, aumentándose un día por cada ochenta kilómetros o fracción que exceda de la décima parte por razón de la distancia que medie entre la capital y la localidad donde se ubique el órgano jurisdiccional o la unidad administrativa en donde se desempeñe el servidor público involucrado. La falta de contestación oportuna de la queja, acarreará la pérdida del derecho para ofrecer y desahogar pruebas al servidor público.
+II.- Impidan la continuación de los efectos perjudiciales de la presunta falta administrativa;
 
-En caso de que el servidor público, ya no se encuentre desempeñando el cargo que ostentaba al ocurrir los hechos u omisiones motivo de la queja, el órgano competente para resolver proveerá y tomará las medidas que sean necesarias para efectos de que dicho servidor público tenga acceso a las actuaciones, testimonios y documentos relativos al asunto de donde emana la queja a fin de que pueda integrar el informe mencionado en el párrafo inmediato anterior, corriendo el término correspondiente hasta en tanto tenga el acceso antes descrito.
+III.- Eviten la obstaculización del adecuado desarrollo del procedimiento de responsabilidad administrativa; y
 
-El órgano competente para resolver, podrá recibir y desahogar por si, cualquier medio de prueba de los permitidos por la ley, que a su juicio pudieran conducir al mejor conocimiento de los hechos, teniendo la facultad de interrogar libremente al denunciante y al denunciado, practicar careos, decretar medidas para mejor proveer, así como poder encomendar la práctica de las diligencias probatorias que deban tener lugar fuera de la capital del Estado a los jueces competentes en las localidades correspondientes. Las pruebas sólo podrán ofrecerse dentro del escrito mediante el cual se presente la queja, así como en la contestación que de la misma elabore el servidor público, teniéndose un plazo común para su desahogo de diez días contados a partir de que haya vencido el término para la presentación de la contestación del servidor público sujeto de la queja;
+IV.- Eviten un daño irreparable al patrimonio del Estado.
 
-III.- El órgano que resuelva tiene la facultad, en cualquier momento, desde la recepción del escrito de queja hasta antes de la conclusión del período probatorio, de proseguir con el procedimiento de manera oficiosa, por razones de interés público;
+No se podrán decretar medidas cautelares en los casos en que se cause un perjuicio al interés social o se contravengan disposiciones de orden público.
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+Para la imposición de las medidas cautelares se estará a lo establecido en el Reglamento que al efecto se emita y, en su defecto, a la Ley de Responsabilidades Administrativas aplicable.
 
-IV.- Transcurrido el plazo para el desahogo de las pruebas, se dictará resolución en un término que no podrá exceder de quince días. Si la queja fuere notoriamente improcedente, se impondrá al quejoso una multa hasta por el importe de treinta Unidades de Medida y Actualización, si se tratare de un Juez de Primera Instancia, Juez Menor o Juez de Paz y, de sesenta si se trata de un Magistrado. La multa podrá ser de hasta veinte Unidades de Medida y Actualización, si se tratara de cualquier otro servidor público del Poder Judicial.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+ARTICULO 114 BIS.- En contra de las resoluciones de las autoridades investigadoras o substanciadoras que califiquen los hechos o se abstengan de iniciar el procedimiento de responsabilidad; admitan, desechen o tengan por no presentado el informe respectivo, la contestación o alguna prueba; las que decreten o nieguen el sobreseimiento del procedimiento de responsabilidad administrativa antes del cierre de instrucción; y aquellas que admitan o rechacen la intervención del tercero interesado; procederá el recurso de reclamación, mismo que resolverá el Consejo actuando en Pleno, las que califiquen los hechos o se abstengan de iniciar el procedimiento de responsabilidad y, los recursos contra actos de la substanciadora serán resueltos por la Comisión que al efecto determine el Reglamento.
 
-V.- Si el servidor público aceptare su responsabilidad en la realización de los hechos u omisiones objeto de la queja, se procederá de inmediato a dictar resolución, a no ser que quien conoce el procedimiento, disponga la recepción de pruebas para robustecer la veracidad de los hechos. La aceptación de responsabilidad en la comisión de los hechos, podrá tomarse en cuenta, acorde al arbitrio prudencial de quien resuelva, para atenuar la severidad de la sanción a imponer; y
+En contra de las resoluciones definitivas dictadas por el Pleno del Consejo no se admitirá recurso alguno.
 
-VI.- En contra de la resolución que se dicte sobre la queja administrativa, no se admitirá recurso alguno.
+Si el Consejo de la Judicatura estimare que la queja o denuncia fue interpuesta sin motivo, se impondrá al quejoso o a su representante o abogado, o a ambos, una multa equivalente a la cantidad de hasta sesenta veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
 
-ARTICULO 114 BIS.- Para toda cuestión que emane del procedimiento de queja administrativa y que no sea contemplada dentro del presente Capítulo, se estará a lo dispuesto por el Código de Procedimientos Civiles del Estado de Tamaulipas.
+###### ARTÍCULO 115.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2014)</small>
-
-###### ARTICULO 115.
-
-Cuando algún servidor público del Poder Judicial del Estado tenga conocimiento de hechos u omisiones que pudieran constituir alguna falta administrativa, dará vista al Consejo de la Judicatura para, en su caso, iniciar el procedimiento previsto en el presente Capítulo.
+Para toda cuestión que emane del procedimiento de responsabilidades administrativas a que se refiere este Capítulo, y que no sea contemplada dentro de la presente ley, se estará a lo dispuesto por los acuerdos generales que al efecto se emitan y, en su defecto, a la ley de responsabilidades administrativas aplicable.
 
 ## TITULO SEXTO. DE LAS VISITAS A LOS RECLUSORIOS
 
-### CAPITULO I. DE LA DIRECCION DE ADMINISTRACION
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 116.
 
@@ -2121,7 +2297,9 @@ Los Consejeros de la Judicatura del Estado no representan a quien los designa, p
 
 Las personas que hayan ocupado el cargo de Consejero de la Judicatura, no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado. Los jueces designados consejeros, una vez concluida dicha encomienda, podrán continuar su carrera judicial en un cargo similar al que fungían previo a su designación como consejeros. El Consejo dispondrá su adscripción en términos de la Constitución Política del Estado.
 
-El Consejo de la Judicatura del Estado funcionará en Pleno o en Comisiones. El Pleno sesionará con la presencia de su Presidente y de, al menos, tres de sus integrantes.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+El Consejo de la Judicatura del Estado funcionará en Pleno o en Comisiones. El Pleno sesionará con la presencia de su Presidente y de, al menos, tres de sus integrantes. El Consejo contará con Comisiones Permanentes o Transitorias que determine el propio Pleno, debiendo existir en todo caso, las que se encarguen de la administración, carrera judicial y disciplina.
 
 Sin perjuicio de las que el Consejo de la Judicatura considere necesario crear cuando así requiera para el mejor desempeño del Poder Judicial, tendrá las dependencias que enseguida se mencionan, las que estarán bajo su mando y supervisión:
 
@@ -2233,13 +2411,9 @@ XXVI.- Entregar por conducto de su Presidente al Pleno del Supremo Tribunal de J
 
 XXVII.- Elaborar y presentar la información que se incorporará a la Cuenta Pública del Gobierno del Estado de Tamaulipas en términos de la ley de la materia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 XXVIII.- Dictar las medidas necesarias para la recepción, control y destino de los bienes asegurados y decomisados dentro de un proceso penal o de justicia para adolescentes;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -2247,15 +2421,51 @@ XXIX.- Vigilar, en la modalidad y por los conductos que éste determine, que los
 
 XXX.- Las demás facultades y obligaciones que las leyes le otorguen.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 123.
 
-Las dependencias administrativas estarán a cargo de un director, y tendrán los jefes de área y el número de auxiliares que determine el Consejo de la Judicatura y permita el presupuesto de egresos.
+El Consejo de la Judicatura contará con un Secretario Ejecutivo, designado por el mismo Consejo a propuesta de su Presidente, el cual tendrá las siguientes atribuciones:
 
-### CAPITULO II. DE LA DIRECCION DE FINANZAS
+I.- Asistir a las sesiones del Pleno del Consejo de la Judicatura, redactar las actas correspondientes, dar fe de su contenido y despachar los asuntos que en aquéllos se acuerden;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
+II.- Elaborar el proyecto del orden del día, la cual deberá ser sometida a la aprobación del Pleno del Consejo;
+
+III.- Elaborar las actas de las sesiones, para ser sometidas a aprobación y firma del Pleno del Consejo, así como conservar el archivo de las mismas;
+
+IV.- Auxiliar a la autoridad competente, en la substanciación de los procedimientos de responsabilidades administrativas competencia del Consejo;
+
+V.- Dar seguimiento a los juicios de amparo en los que el Consejo sea señalado como autoridad responsable o tercero interesado, así como promover lo conducente en relación a dichos procesos constitucionales;
+
+VI.- Auxiliar al Consejo o al Presidente en la ejecución de sus determinaciones dirigidas a los titulares de las dependencias administrativas;
+
+VII.- Recibir y despachar la correspondencia del Consejo;
+
+VIII.- Autentificar y certificar con su firma los documentos y correspondencia oficial del Consejo de la Judicatura;
+
+IX.- Tener a su cargo el sello oficial del Consejo;
+
+X.- Coadyuvar en los proyectos de resolución de los asuntos que sean competencia del Consejo;
+
+XI.- Llevar el control del archivo general del Consejo;
+
+XII.- Proporcionar la información que, relativa al Consejo, solicite la Unidad de Transparencia del Poder Judicial;
+
+XIII.- Llevar el registro de acuerdos y disposiciones reglamentarias que el Consejo expida;
+
+XIV.- Rendir oportunamente los informes de los asuntos a su cargo que le sean requeridos por el Pleno del Consejo, Presidente, Consejeros y Comisiones; y
+
+XV.- Las demás que por Acuerdo del Consejo de la Judicatura o por instrucción de su Presidente se le confieran.
+
+Las ausencias del Secretario Ejecutivo serán suplidas por el funcionario designado por el Presidente del Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+ARTICULO 123 BIS.- Las dependencias administrativas estarán a cargo de un director, y tendrán los jefes de área y el número de auxiliares que determine el Consejo de la Judicatura y permita el presupuesto de egresos.
+
+### CAPITULO I. DE LA DIRECCION DE ADMINISTRACION
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 124.
 
@@ -2349,9 +2559,9 @@ V.- Llevar a cabo un control efectivo de los artículos necesarios con que cuent
 
 VI.- Las demás que ésta o cualquier otra ley les asignen.
 
-### CAPITULO III. DE LA DIRECCION DE CONTRALORIA
+### CAPITULO II. DE LA DIRECCION DE FINANZAS
 
-> <small>(REFORMADO EL PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 130.
 
@@ -2371,31 +2581,35 @@ V.- Instrumentar y operar conjuntamente con el Director del Fondo Auxiliar para 
 
 VI.- Las demás que le asigne el Consejo de la Judicatura.
 
-### CAPITULO IV. DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA
+### CAPITULO III. DE LA DIRECCION DE CONTRALORIA
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 131.
 
-La Dirección de Contraloría interna que estará a cargo de un profesional de la Contaduría, tendrá las siguientes atribuciones:
+La Dirección de Contraloría interna es el órgano de control, vigilancia e investigación para el cumplimiento de las normas administrativas, financieras y presupuestales que funcionará bajo los principios de legalidad, eficacia, eficiencia y transparencia. Estará a cargo de un profesional de la Contaduría o de la Administración, que tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+I.- Presentar al Consejo, por conducto del Presidente del Consejo de la Judicatura, antes del quince de enero de cada año su programa anual de auditorías, para su aprobación;
 
-I.- Practicar las auditorías financieras, operacionales, de resultados de programas, contables, administrativas y de supervisión física; en su caso remitirá el resultado de estas actividades al Consejo de la Judicatura;
+II.- Practicar a los Juzgados, a las Unidades y Direcciones administrativas y de finanzas del Poder Judicial del Estado, las auditorías financieras, operacionales, de resultados de programas, contables, administrativas y de supervisión física. En su caso, en cumplimiento de la Ley de Responsabilidades Administrativa aplicable, elaborará y remitirá un informe de estas actividades a la Autoridad Substanciadora del Consejo de la Judicatura, para el inicio del procedimiento de responsabilidad administrativa correspondiente;
 
-II.- Intervenir en la entrega y recepción de bienes cuando ocurran cambios de titulares de las diversas áreas del Poder Judicial, elaborando el acta respectiva;
+III.- Intervenir en la entrega y recepción de los asuntos, recursos humanos, materiales y financieros, cuando ocurran cambios de titulares de las diversas áreas del Poder Judicial, elaborando el acta correspondiente, respecto a los niveles mandos medios y superiores;
 
-III.- Intervenir en las bajas de inventarios en coordinación con la Dirección de Administración;
+IV.- Intervenir en las bajas de inventarios en coordinación con la Dirección de Administración;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+V.- Vigilar el cumplimiento a los manuales de organización y procedimientos de las diversas unidades y direcciones administrativas, sugiriendo, en su caso, adecuaciones para la aprobación del Consejo de la Judicatura;
 
-IV.- Elaborar los manuales de organización y procedimientos de las diversas unidades administrativas con el concurso de éstas, sometiéndolos a la aprobación del Consejo de la Judicatura;
+VI.- Recibir las declaraciones de situación patrimonial de los servidores públicos del Poder Judicial, en los términos de la Ley de Responsabilidades Administrativas aplicable;
 
-V.- Recibir las declaraciones de situación patrimonial de los servidores públicos del Poder Judicial, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado;
+VII.- Supervisar puntualmente el cumplimiento de las observaciones y recomendaciones derivadas de auditorías a los juzgados, Unidades y Direcciones Administrativas y Financieras del Poder Judicial del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+VIII.- Mantener una continua verificación a los Sistemas Electrónicos de Gestión y Administrativos, en materia de registro de certificados de depósito, de procesados y del Almacén, de los Juzgados, Unidades y Direcciones Administrativas y Financieras del Poder Judicial del Estado;
 
-VI.- Las demás que le señale el reglamento y el Consejo de la Judicatura.
+IX.- Denunciar ante la autoridad competente los actos o hechos que constituyan faltas graves o delitos, cometidos por los Servidores Públicos del Poder Judicial del Estado, derivados de las auditorias, quejas o denuncias;
+
+X.- Actuar como órgano investigador, en los términos que establece la Ley de Responsabilidades Administrativas y, en su caso, remitir a la autoridad substanciadora el informe de presunta responsabilidad administrativa; y
+
+XI.- Las demás que le señale el reglamento y el Consejo de la Judicatura.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -2403,9 +2617,9 @@ VI.- Las demás que le señale el reglamento y el Consejo de la Judicatura.
 
 Para la consecución de sus objetivos, la Contraloría contará con un Director y el apoyo de auditoría indispensable, así como con el personal permanente o temporal, que conforme a las circunstancias se requiera y autorice el Consejo de la Judicatura.
 
-### CAPITULO V. DE LA ESCUELA JUDICIAL
+### CAPITULO IV. DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 133.
 
@@ -2533,9 +2747,9 @@ III.- La impartición de toda clase de cursos de capacitación para el mejoramie
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
 
-### CAPITULO VI. DE LA DIRECCION DE INFORMATICA
+### CAPITULO V. DE LA ESCUELA JUDICIAL
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 144.
 
@@ -2591,9 +2805,9 @@ V.- Gozar de buena reputación y no haber sido condenado por delito intencional 
 
 Todos los servidores públicos de la Escuela Judicial serán designados por el Consejo de la Judicatura.
 
-### CAPITULO VII. DE LA VISITADURIA JUDICIAL
+### CAPITULO VI. DE LA DIRECCION DE INFORMATICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 147.
 
@@ -2643,29 +2857,125 @@ X.- Diseñar, elaborar y mantener actualizada una página de Internet y los sist
 
 XI.- Las demás que el (sic) asigne el Consejo de la Judicatura.
 
-### CAPITULO UNICO. OTRAS DEPENDENCIAS DEL PODER JUDICIAL
+### CAPITULO VII. DE LA VISITADURIA JUDICIAL
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 151.
 
-La Visitaduría estará a cargo de un Director y el número de visitadores que le asigne el Consejo de la Judicatura, debiendo contar todos ellos con título de Licenciado en Derecho y experiencia mínima de 3 años en el ejercicio de la profesión, contados a partir de su obtención.
+La Visitaduría es un órgano de investigación, inspección, control y evaluación jurídico-administrativo adscrito al Consejo de la Judicatura, y será el área encargada de revisar el funcionamiento de los Juzgados y las unidades administrativas del Poder Judicial del Estado, tendente a preservar la vigencia y aplicación de los postulados de legalidad, imparcialidad y honestidad como rectores del ejercicio jurisdiccional.
 
-Sin perjuicio de las facultades reservadas al Presidente y a los Magistrados de Número y Supernumerarios, la Dirección de Visitaduría tendrá las atribuciones siguientes:
+La Visitaduría Judicial contará con un cuerpo de servidores públicos denominados Visitadores Judiciales, y estará a cargo de un Director, quienes ejercerán funciones de coadyuvancia con el Consejo de la Judicatura para los efectos de sus atribuciones.
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+Para ocupar el cargo de Director se requiere cumplir con los siguientes requisitos:
 
-I.- Practicar visitas generales o especiales a los Juzgados de Primera Instancia y Menores, para verificar el cumplimiento de la disposiciones legales y las emitidas por el Consejo de la Judicatura, así como cuando esto se estime necesario con motivo de denuncias específicas de parte interesada por faltas a los servidores públicos judiciales. En todo caso el visitador deberá levantar acta circunstanciada en la que haga constar el resultado de visita;
+I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos; originario del Estado o con residencia en el mismo por más de cinco años ininterrumpidos inmediatamente anteriores a la fecha de la designación, salvo el caso de ausencia en cumplimiento de un servicio público, o actividades de investigación o mejoramiento académico;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+II.- Contar con título de Licenciado en Derecho y experiencia mínima de cinco años en el ejercicio de la profesión, contados a partir de su obtención;
 
-II.- Proponer al Presidente del Consejo de la Judicatura, a más tardar en el mes de noviembre, un calendario o agenda de visita anual; y,
+III.- No haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; o cuando hubiere sido condenado por motivo de la comisión de los delitos de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, cualquiera que haya sido la pena;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+IV.- Contar con una antigüedad mínima de tres años como servidor público del Poder Judicial, con experiencia en el funcionamiento de los órganos jurisdiccionales del Poder Judicial del Estado de Tamaulipas, preferentemente en el ámbito de impartición de justicia; y
 
-III.- Rendir al Presidente del Consejo de la Judicatura un informe escrito del resultado de las visitas, anexando las actas que al efecto se levanten.
+V.- Aprobar las evaluaciones que determine el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+ARTICULO 151 BIS.- Para ser Visitador Judicial se requiere cumplir con los mismos requisitos que para ser Director:
+
+La designación del titular de la Dirección y los Visitadores Judiciales se hará por el Pleno del Consejo de la Judicatura del Estado, y se preferirá a aquellas personas que hayan servido con eficiencia, honradez y probidad en la impartición de justicia.
+
+La Dirección contará con el personal administrativo que determine el Consejo y permita el presupuesto.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+ARTICULO 151 TER.- El Director tendrá las siguientes obligaciones y facultades:
+
+I.- Presentar al Consejo, por conducto del Presidente, antes del quince de enero de cada año su proyecto anual de visitas, para su aprobación;
+
+II.- Practicar las visitas generales, especiales y de verificación que determine el Pleno del Consejo, el Presidente o las que deriven de las quejas o denuncias que reciba en el ámbito de su competencia;
+
+III.- Enviar al Titular del Órgano a supervisar, el aviso de visita programada, por lo menos con tres días hábiles de anticipación a la fecha de realización de la misma, para que sea fijado en la puerta de acceso del órgano jurisdiccional o administrativo y en el interior del mismo, a fin de que los interesados estén en posibilidad de realizar las manifestaciones que a su derecho convengan;
+
+IV.- Supervisar el cumplimiento de las observaciones y recomendaciones derivadas de las visitas de inspección y, en caso de que el incumplimiento constituya una falta administrativa, dar vista con el respectivo informe a la autoridad correspondiente para el inicio del procedimiento de responsabilidad administrativa;
+
+V.- Recibir y dar seguimiento a las quejas o denuncias que en forma verbal, por comparecencia o escrito hagan los justiciables en la visita realizada;
+
+VI.- Dar cuenta a la autoridad substanciadora de las irregularidades u omisiones que se adviertan con motivo de las visitas, que contravengan el ejercicio de la función jurisdiccional e incumplimiento de las atribuciones y obligaciones de los servidores judiciales o bien, cuando las observaciones efectuadas sean reincidentes;
+
+VII.- Investigar los hechos derivados de las denuncias o quejas interpuestas por faltas atribuidas a los Servidores Públicos del Poder Judicial del Estado, con excepción de los Magistrados, que sean motivo de la queja o denuncia;
+
+VIII.- Recabar los datos o Indicios que permitan advertir la presunta responsabilidad administrativa por la comisión de faltas materia de su competencia;
+
+IX.- Elaborar y rendir ante la Autoridad Substanciadora, el respectivo informe, adjuntando al efecto los insertos necesarios y legales, para el inicio del procedimiento de responsabilidad administrativa, en su caso;
+
+X.- Levantar acta circunstanciada de los hechos motivo de la queja o denuncia, resultado de la visita;
+
+XI.- Comisionar a los visitadores judiciales para la práctica de las visitas;
+
+XII.- Denunciar ante la autoridad competente los actos o hechos que constituyan faltas graves o delitos, cometidos por los servidores públicos del Poder Judicial del Estado; y
+
+XIII.- Las demás que le confiera la ley, o le instruyan el Presidente o el Consejo.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+ARTICULO 151 QUÁTER.- El Visitador tendrá las siguientes obligaciones y facultades:
+
+I.- Efectuar las visitas generales, especiales y de verificación que les instruya el Director de Visitaduría, y darle cuenta de las actas levantadas con motivo de las mismas;
+
+II.- Recibir las quejas o denuncias que en forma verbal, por comparecencia o escritas formule cualquier persona en relación con el órgano visitado;
+
+III.- Dar cuenta al Director de Visitaduría las quejas o denuncias que en forma verbal, por comparecencia o escrita, haya realizado cualquier persona al momento de practicar la visita al órgano jurisdiccional o administrativo; y
+
+IV.- Las demás que le confiera la ley o el Director de Visitaduría.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+ARTICULO 151 QUINQUIES.- En el desarrollo de las visitas, además de las instrucciones giradas por el Presidente, el Consejo, o el Director, y de las particularidades de cada órgano y las disposiciones establecidas en esta ley, la de Responsabilidades Administrativas aplicable y aquellas otras que impongan deberes a su cargo, se atenderá lo siguiente:
+
+I.- Pedir la lista del personal para verificar la permanencia y el cumplimiento del horario de labores durante el periodo que dure la visita;
+
+II.- Imponerse de las condiciones físicas y materiales del inmueble, archivo y demás instalaciones del Juzgado, incluyendo el método que se lleve para el resguardo de los expedientes concluidos y de trámite, así como de los valores, objetos y documentos importantes;
+
+III.- Revisar que los libros electrónicos se encuentren en orden y contengan los datos requeridos;
+
+IV.- Recibir y anexar las actas administrativas circunstanciadas que el Juzgado visitado haya elaborado con motivo de alguna incidencia;
+
+V.- Solicitar las promociones que se encuentren pendientes de acuerdo, con el objeto de verificar si no se ha vencido el plazo legal para dictar los proveídos respectivos;
+
+VI.- Elegir aleatoriamente los expedientes que serán sujetos a revisión, a fin de constatar que el procedimiento se lleve con arreglo a la ley;
+
+VII.- Verificar que los acuerdos, resoluciones interlocutorias y sentencias sean dictados en los plazos legales y se cumplan oportunamente;
+
+VIII.- Corroborar que los exhortos, despachos, requisitorias, cartas rogatorias y cualesquiera otro requerimiento procesal, hayan sido diligenciados en los términos solicitados y devueltos oportunamente a su lugar de origen;
+
+IX.- Verificar la remisión oportuna de los expedientes en grado de apelación o Juicio de Amparo Directo;
+
+X.- Constatar que los términos constitucionales y demás garantías procesales se hayan observado en los procesos;
+
+XI.- En los Distritos que existan Centrales de Actuarios, constatará la remisión oportuna de las cédulas de notificación de las diligencias que deban realizarse de oficio;
+
+XII.- Explorar los sistemas electrónicos de los órganos, a efecto de verificar que contengan los datos requeridos y estén debidamente actualizados;
+
+XIII.- Verificar que las visitas carcelarias a los Centros de Ejecución de Sanciones y Centros de Reintegración Social y Familiar para Adolescentes, respectivamente, se hayan realizado en los plazos y condiciones que la ley señale;
+
+XIV.- Verificar que los procesados que gozan del beneficio de libertad caucional se encuentran cumpliendo con las obligaciones adquiridas;
+
+XV.- En tratándose de la revisión a la central de actuarios, se supervisará, además, en forma aleatoria, las actas circunstanciadas asentadas por los actuarios, así como el sistema de monitoreo de ubicación;
+
+XVI.- En tratándose de revisión a oficialías de partes, se cotejará además, que las asignaciones directas presenten un antecedente en el juzgado al que fueron remitidas; y
+
+XVII.- Asentar cualquier otra circunstancia que advierta el visitador en el acto de la visita, que pueda afectar el buen funcionamiento y administración de justicia, y en su caso, las demás que deriven de otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+ARTICULO 151 SEXIES.- Al concluir la visita se levantará por triplicado acta circunstanciada, en la cual se hará constar el desarrollo de la misma, las quejas y denuncias presentadas en contra de algún servidor público del órgano visitado, las manifestaciones que realicen el titular, Secretario de Acuerdos o los funcionarios que se encuentren al cargo, así como la firma de éstos y el visitador.
+
+Una copia se entregará al Titular del Órgano visitado, otra será remitida con el informe a la Autoridad Substanciadora y, la tercera, se conservará en el Archivo de la Dirección de Visitaduría.
 
 ## TITULO OCTAVO
 
-### CAPITULO I
+### CAPITULO UNICO. OTRAS DEPENDENCIAS DEL PODER JUDICIAL
 
 #### SECCION PRIMERA. DE LA OFICIALIA DE PARTES
 
@@ -3121,7 +3431,7 @@ VII.- Las demás que el Consejo de la Judicatura y su Presidente le asignen.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
 
-### CAPITULO II
+### CAPITULO I
 
 ###### ARTICULO 180.
 
@@ -3173,7 +3483,7 @@ VII.- Las demás que el Consejo de la Judicatura y su Presidente le asignen.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
 
-### CAPITULO III
+### CAPITULO II
 
 ###### ARTICULO 192.
 
@@ -3185,7 +3495,7 @@ VII.- Las demás que el Consejo de la Judicatura y su Presidente le asignen.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
 
-### CAPITULO IV
+### CAPITULO III
 
 ###### ARTICULO 194.
 
@@ -3201,7 +3511,7 @@ VII.- Las demás que el Consejo de la Judicatura y su Presidente le asignen.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
 
-### CAPITULO V
+### CAPITULO IV
 
 ###### ARTICULO 197.
 
@@ -3213,7 +3523,7 @@ VII.- Las demás que el Consejo de la Judicatura y su Presidente le asignen.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
 
-### CAPITULO VI
+### CAPITULO V
 
 ###### ARTICULO 199.
 
@@ -3237,9 +3547,7 @@ VII.- Las demás que el Consejo de la Judicatura y su Presidente le asignen.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
+### CAPITULO VI
 
 ###### ARTICULO 204.
 
@@ -3249,31 +3557,23 @@ VII.- Las demás que el Consejo de la Judicatura y su Presidente le asignen.
 
 (DEROGADO, P.O. 13 DE JUNIO DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 ## TITULO DECIMO. DEL TRIBUNAL ELECTRONICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 206.
 
 El Tribunal Electrónico es el sistema integral de procesamiento de información, de forma electrónica o digital, que permite la substanciación de asuntos jurisdiccionales ante el Poder Judicial del Estado; conforme a lo establecido en las leyes aplicables, así como en el Reglamento para el Acceso a los Servicios del Tribunal Electrónico del Poder Judicial del Estado, que apruebe el Pleno del Consejo de la Judicatura.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 El objeto principal del Tribunal Electrónico es constituirse en una herramienta tecnológica que contribuya a que los servicios de impartición de justicia se presten con mayor agilidad, calidad, eficacia, eficiencia, seguridad y transparencia, en beneficio de los justiciables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -3297,9 +3597,9 @@ V.- El fungir como medio de comunicación procesal entre autoridades jurisdiccio
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2013)</small>
 
-### CAPITULO II. DE LOS TRIBUNALES DE ENJUICIAMIENTO
+### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 208.
 
@@ -3367,9 +3667,9 @@ ARTICULO 210 BIS.- En cada región judicial, el Consejo de la Judicatura del Est
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2014)</small>
 
-### CAPITULO III. DE LOS JUECES DE CONTROL
+### CAPITULO II. DE LOS TRIBUNALES DE ENJUICIAMIENTO
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 211.
 
@@ -3429,9 +3729,9 @@ VI.- Las demás que les otorgue la ley.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JUNIO DE 2013)</small>
 
-### CAPITULO IV. DE LA COORDINACIÓN GENERAL DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL
+### CAPITULO III. DE LOS JUECES DE CONTROL
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 215.
 
@@ -3477,7 +3777,7 @@ XVII.- Las demás que le otorgue la ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2016)</small>
 
-### CAPITULO V. DE LA UNIDAD DE ADMINISTRACIÓN DE SALAS DE AUDIENCIAS
+### CAPITULO IV. DE LA COORDINACIÓN GENERAL DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
@@ -3511,9 +3811,9 @@ IX.- Las demás que señale la ley, el Consejo de la Judicatura y su Presidente.
 
 > <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-### CAPITULO VI. DE LA UNIDAD DE SEGUIMIENTO DE CAUSAS
+### CAPITULO V. DE LA UNIDAD DE ADMINISTRACIÓN DE SALAS DE AUDIENCIAS
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 218.
 
@@ -3540,6 +3840,10 @@ VII.- Preservar el uso y funcionalidad de la infraestructura y equipamiento de l
 VIII.- Atender planteamientos del público asistente a las Audiencias, excepto aquéllos de naturaleza estrictamente jurisdiccional; y
 
 IX.- Las demás que le señale el Consejo de la Judicatura y la normatividad aplicable.
+
+### CAPITULO VI. DE LA UNIDAD DE SEGUIMIENTO DE CAUSAS
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 219.
 
@@ -3619,7 +3923,7 @@ ATENTAMENTE
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- EL SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRIGUEZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 25 DE DICIEMBRE DE 2001.
 
@@ -3849,8 +4153,6 @@ P.O. 3 DE ABRIL DE 2014.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
 P.O. 26 DE JUNIO DE 2014.
 
 ###### ARTÍCULO PRIMERO.
@@ -3936,3 +4238,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Consejo de la Judicatura emitirá el Reglamento de la Escuela Judicial, donde se establecerán las atribuciones de la Dirección, de los Departamentos y Unidades administrativas de la Escuela Judicial, para determinar el ámbito de responsabilidad de cada una.
+
+P.O. 8 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-190 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor de la presente reforma, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
