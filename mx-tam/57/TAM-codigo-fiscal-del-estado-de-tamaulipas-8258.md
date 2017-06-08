@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8258"
 country: "mx"
 rank: "codigo"
 publication_date: "1976-12-29"
-last_updated: "2016-12-21"
+last_updated: "2017-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "TAM"
 ---
 # CODIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO SEGUNDO TRANSITORIO SE ABROGA EL PRESENTE CÓDIGO, EXCEPTUANDO SU CAPÍTULO RELATIVO AL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, HASTA EN TANTO INICIE SU VIGENCIA EL CÓDIGO DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE TAMAULIPAS QUE RESUELVE LAS CONTROVERSIAS DE CARÁCTER FISCAL, P.O. 28 DE DICIEMBRE DE 1991.]</small>
+[NOTA 1: POR DISPOSICIÓN DEL ARTÍCULO SEGUNDO TRANSITORIO SE ABROGA EL PRESENTE CÓDIGO, EXCEPTUANDO SU CAPÍTULO RELATIVO AL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, HASTA EN TANTO INICIE SU VIGENCIA EL CÓDIGO DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE TAMAULIPAS QUE RESUELVE LAS CONTROVERSIAS DE CARÁCTER FISCAL, PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 1991.]
+
+[NOTA 2: POR DISPOSICIÓN DEL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 8 DE JUNIO DE 2017, SE DEROGAN EL TÍTULO TERCERO Y EL TÍTULO CUARTO DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS Y LOS ARTÍCULOS QUE COMPRENDEN DEL 194 AL 257 DEL CITADO ORDENAMIENTO LEGAL, POR LO QUE LAS LEYES QUE REMITAN A ESOS PRECEPTOS, SE ENTENDERÁN REFERIDOS A LOS CORRESPONDIENTES DE LA PRESENTE LEY DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS.]
 
 CÓDIGO FISCAL DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2017 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de Diciembre de 1976.
 
@@ -901,735 +903,313 @@ CÓDIGO FISCAL DEL ESTADO.
 
 (DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, P.O. 28 DE DICIEMBRE DE 1991)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)</small>
 
 ## TITULO TERCERO. DEL PROCEDIMIENTO CONTENCIOSO
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)</small>
+
 ### CAPITULO I. DEL JUICIO DE NULIDAD
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-###### ARTICULO 194.
-
-Los actos de las autoridades fiscales que afecten los intereses jurídicos de los particulares son impugnables mediante el juicio de nulidad.
-
-Las resoluciones favorables a los particulares sólo podrán ser revocadas mediante juicio de nulidad que promuevan el Tesorero General del Estado o los Tesoreros Municipales.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 194o.
 
-Los actos de las autoridades fiscales que afecten los intereses jurídicos de los particulares son impugnables mediante el juicio de nulidad.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-Las resoluciones favorables a los particulares sólo podrán ser revocadas mediante juicio de nulidad que promuevan el Tesorero General del Estado.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)</small>
 
 ### CAPITULO II. DEL TRAMITE DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 
 ###### ARTICULO 195o.
 
-El juicio de nulidad procede en los siguientes casos:
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2014)</small>
-
-I.- Contra las resoluciones y liquidaciones de las autoridades fiscales, estatales o municipales que no cuenten con su propio Tribunal de Justicia Administrativa, que determinen la existencia de un crédito fiscal, lo fijen en cantidad liquida o den las bases para su liquidación, siempre que:
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-1.- El crédito que se le exige se ha extinguido legalmente.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-2.- Exista error en el monto del crédito exigido;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-3.- No sea deudor del crédito que se le exige o no sea responsable de su pago;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-4.- Con anterioridad haya sido pagado el adeudo total o parcialmente;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-5.- Se pretenda cobrar dos veces el mismo adeudo.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-II.- Contra la negativa de una autoridad competente para ordenar la devolución de un impuesto, derecho o aprovechamiento percibido por el Estado o Municipio.
-
-III.- Contra la determinación o exigibilidad de un crédito fiscal por autoridad incompetente.
-
-IV.- Contra los acuerdos que impongan sanciones por infracciones a las leyes fiscales.
-
-V.- Contra el procedimiento económico - coactivo cuando no se ha ajustado a las normas previstas por este Código. En este caso la nulidad sólo podrá hacerse valer en contra de la resolución que apruebe el remate, salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación o de actos de ejecución sobre bienes legítimamente inembargables.
-
-VI.- Contra la resolución administrativa de carácter fiscal favorable a los particulares.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-VII.- Contra las resoluciones administrativas del recurso de revisión previsto en el Código para el Desarrollo Sustentable del Estado de Tamaulipas y del recurso de Inconformidad contenido en la Ley de Desarrollo Forestal Sustentable para el Estado de Tamaulipas.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
 ###### ARTICULO 196o.
 
-La tramitación del juicio de nulidad se sujetará a las normas siguientes:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-I.- Se interpondrá ante el Tribunal Fiscal del Estado, por escrito en el que se expresarán: nombre del recurrente, nombre de la autoridad demandada, domicilio para ser notificado en el Estado, el acto impugnado, la expresión de los agravios que se estimen causados y el ofrecimiento de las pruebas que se pretenda rendir;
-
-II.- Se interpondrá dentro de los quince días siguientes al en que surta efectos la notificación del acto impugnado. Si el recurrente tiene su domicilio en población distinta del lugar de residencia del Tribunal Fiscal del Estado, podrá enviar en su escrito dentro del mismo término, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que le haya notificado la resolución. En estos casos se tendrá como fecha de presentación del escrito respectivo la del día en que se haga la entrega en la oficina de correos o a la autoridad que efectuó la notificación.
-
-III.- Recibida la instancia el Tribunal Fiscal del Estado, recabará de oficio constancias necesarias para determinar la existencia del acto impugnado y la fecha de su notificación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-En el auto que recaiga a la presentación del escrito inicial del juicio, el Tribunal Fiscal del Estado señalará fecha para la celebración de una audiencia de pruebas y alegatos, que deberá tener lugar antes de 30 días.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
 ###### ARTICULO 197o.
 
-Cuando hubieren de examinarse testigos o peritos será necesario acompañar por escrito los interrogatorios de los testigos y los cuestionarios de los peritos. En este caso, el Magistrado señalará ante qué autoridad fiscal debe desahogarse la probanza, cuidando siempre, por una parte, dar las mayores facilidades para la recepción y, por otra, que quienes la reciban, tengan la preparación adecuada.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-Cuando la naturaleza de las pruebas ofrecidas lo amerite, la audiencia podrá suspenderse para reanudarse cuando resulte oportuno.
-
-Concluida la audiencia de pruebas y alegatos, deberá dictarse resolución en un término que no exceda de 30 días.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)</small>
 
 ## TITULO CUARTO. DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)</small>
+
 ### CAPITULO I. DE LAS DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-###### ARTICULO 198.
-
-Conocerá del juicio de nulidad, el Tribunal Fiscal del Estado, el que dictará sus fallos en representación del Ejecutivo del Estado o de los Ayuntamientos, pero será independiente de cualquier otra autoridad administrativa y tendrá su residencia en la capital del Estado.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
-
-###### ARTICULO 199.
-
-El Tribunal Fiscal será unitario y estará a cargo de un Magistrado, que será nombrado y removido por el Congreso del Estado; durará en su encargo seis años y no podrá ser removido, sino por causa de responsabilidad.
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
-
-###### ARTICULO 200.
-
-Para ser Magistrado del Tribunal Fiscal del Estado, se requiere: ser ciudadano mexicano, mayor de veinticinco años, de notoria buena conducta, no haber sido sentenciado por delito intencional, abogado con título registrado en la Dirección General de Profesiones y tener práctica fiscal.
 
 ###### ARTICULO 198o.
 
-Conocerá del juicio de nulidad, el Tribunal Fiscal del Estado, el que dictará sus fallos en representación del Ejecutivo pero será independiente de cualquier otra autoridad administrativa y tendrá su residencia en la Capital del Estado.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
 ###### ARTICULO 199o.
 
-El Tribunal Fiscal será unitario y estará a cargo de un Magistrado nombrado por el Gobernador del Estado con ratificación del Congreso; durará en su encargo seis años y no podrá ser removido, sino por causa de responsabilidad y por acuerdo del Gobernador del Estado ratificado por el mismo Congreso.
-
-En los recesos del Congreso, el nombramiento que tenga que hacer el Gobernador del Estado o la remoción que acuerde, se ejecutarán provisionalmente.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
 ###### ARTICULO 200o.
 
-Para ser Magistrado del Tribunal Fiscal del Estado, se requiere: ser ciudadano mexicano por nacimiento, mayor de veinticinco años, de notoria buena conducta, no haber sido sentenciado por delito intencional contra la propiedad, abogado con título registrado en la Dirección General de Profesiones y tener práctica fiscal.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
 ###### ARTICULO 201o.
 
-El Magistrado del Tribunal Fiscal está impedido para desempeñar cualquier otro empleo del Estado, de la Federación, de los Municipios o de algún otro particular excepto los de carácter docente. Estará impedido para ejercer la profesión de abogado en asuntos fiscales.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
 ###### ARTICULO 202o.
 
-El Tribunal Fiscal tendrá un secretario general y los secretarios auxiliares para el despacho, que determine el Presupuesto de Egresos del Estado. El secretario general y los secretarios auxiliares deberán ser mexicanos de reconocida buena conducta, tener práctica fiscal, y tendrán los mismos impedimentos que tienen los Magistrados.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
 ###### ARTICULO 203o.
 
-El Magistrado del Tribunal Fiscal y los secretarios serán responsables en los casos en que, conforme a la ley, lo son funcionarios del Poder Judicial.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
 ###### ARTICULO 204o.
 
-Las sentencias que dicte el Tribunal Fiscal establecerán jurisprudencia cuando pronuncie tres sentencias que fijen la misma interpretación. El Tribunal Fiscal hará la declaratoria del sentido de la jurisprudencia que se publicará en el Periódico Oficial del Estado; será obligatoria para él y no podrá variarla sino por resolución expresa del mismo Tribunal.
-
-La resolución del Tribunal que modifique la jurisprudencia se publicará igualmente en el Periódico Oficial del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-###### ARTICULO 205.
-
-En los juicios que se tramiten ante el Tribunal Fiscal del Estado no habrá lugar a condenación de costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan. Los honorarios del perito tercero serán pagados por las partes. Si los que correspondan sufragar al particular, sea actor, demandado o coadyuvante, no son cubiertos oportunamente, los pagará la Secretaría de Finanzas del Gobierno del Estado y ésta exigirá el rembolso mediante el procedimiento administrativo de ejecución.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
 ###### ARTICULO 205o.
 
-En los juicios que se tramiten ante el Tribunal Fiscal del Estado, no habrá lugar a condonación de costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan. Los honorarios del perito tercero serán pagados por las partes. Si los que correspondan sufragar al particular sea actor demandado o coadyuvante, no son cubiertos oportunamente, los pagará la Tesorería General del Estado y ésta exigirá el reembolso mediante el procedimiento administrativo de ejecución.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
 ###### ARTICULO 206o.
 
-Toda promoción deberá contener la firma autógrafa por quien la formule y sin este requisito se tendrá por no presentada, a menos que el promovente no sepa o no pueda firmar, caso en el que se aplicará el derecho común.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-La gestión de negocios no procederá en el procedimiento contencioso administrativo. Quien promueva a nombre de otro deberá acreditar que la representación fue otorgada, a más tardar, en la fecha de presentación de la demanda.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-La representación legal de los particulares se otorgará en escritura pública o carta poder, firmada ante dos testigos y ratificada la firma del otorgante y testigos ante notario público o ante el secretario general de acuerdos del Tribunal Fiscal del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-La representación de los menores de edad será ejercida por quien tenga la patria potestad. Tratándose de otros incapaces de la sucesión y del ausente, la representación se acreditará con la resolución judicial respectiva.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-Los particulares y sus representantes, podrán autorizar por escrito a un Licenciado en Derecho para que a su nombre reciba notificaciones, siempre que anexe copia certificada de su cedula profesional o que la misma este registrada ante el Tribunal Fiscal del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-La persona así autorizada podrá presentar promociones de trámite, rendir pruebas, alegar en las audiencias e interponer recursos. Las autoridades podrán nombrar delegados para los mismos fines.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
 ###### ARTICULO 207o.
 
-Las diligencias que deban practicarse fuera del local del Tribunal, podrán encomendarse a algunos de los secretarios del mismo Tribunal o al Juez de Primera Instancia del lugar donde deba practicarse la diligencia.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
 ###### ARTICULO 208o.
 
-Serán partes en el procedimiento:
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-I.- El actor;
+###### ARTICULO 209o.
 
-II.- El demandado. Tendrán ese carácter:
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-a) La autoridad fiscal que dicte u ordene, ejecute o trate de ejecutar la resolución, o tramite el procedimiento impugnado, o la que legalmente la sustituya.
+###### ARTICULO 210o.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-b) El particular que tenga un interés patrimonial directo en el caso que la Tesorería General del Estado o la Tesorería Municipal haya solicitado la nulidad de una resolución que lo haya favorecido.
+###### ARTICULO 211o.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-III.- El tercero, que dentro del procedimiento administrativo ante la Tesorería General Estatal o la Tesorería Municipal o la autoridad fiscal, aparezca como titular de un derecho incompatible con el que pretende el actor.
+###### ARTICULO 212o.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-IV.- La Tesorería General del Estado o la Tesorería Municipal, dentro de sus respectivas competencias, aunque no sean actoras ni demandadas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2010)</small>
-
-###### ARTICULO 209.
-
-La Secretaría de Finanzas del Gobierno del Estado será representada por el Director Jurídico de la propia Secretaría; indistintamente, cuando se requiera, la representará el Director Jurídico adscrito a la Subsecretaría de Ingresos de la Secretaría de Finanzas.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-La Tesorería Municipal estará representada por la persona que tenga facultades para hacerlo conforme a la Legislación Municipal o a quien se le otorgue el poder correspondiente.
-
-###### ARTICULO 210.
-
-Podrá apersonarse en juicio como coadyuvante de la Tesorería General del Estado, quien tenga interés directo en la anulación, de la decisión administrativa favorable a un particular.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-###### ARTICULO 211.
-
-En los juicios que se tramiten ante el Tribunal Fiscal del Estado, no se dará entrada a ningún incidente de previo y especial pronunciamiento, con excepción de los de acumulación de autos, de nulidad de actuaciones y de falta de personalidad.
-
-Todas las cuestiones diversas que las partes susciten, se reservarán para la audiencia.
-
-###### ARTICULO 212.
-
-Toda resolución debe ser notificada a las partes dentro de las 24 horas siguientes.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)</small>
 
 ### CAPITULO II. DE LOS IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2010)</small>
+###### ARTICULO 213o.
 
-###### ARTICULO 213.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-El Magistrado del Tribunal Fiscal del Estado estará impedido para conocer los siguientes casos:
+###### ARTICULO 214o.
 
-I.- Si es pariente consanguíneo o por afinidad de alguna de las partes, en línea recta sin limitación de grado, dentro del cuarto grado en la colateral por consanguinidad y en el segundo con la colateral por afinidad;
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-II.- Si tiene interés personal en el negocio;
+###### ARTICULO 215o.
 
-III.- Si ha sido patrón o apoderado en el mismo negocio;
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-IV.- Si ha dictado la resolución impugnada o ha intervenido con cualquier carácter en la emisión de la misma o en su ejecución;
+###### ARTICULO 216o.
 
-V.- Si figura como parte en un juicio similar, pendiente de resolución;
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-VI.- Si tiene amistad estrecha o enemistad con alguna de las partes, sus patrones o apoderados; y
+###### ARTICULO 217o.
 
-VII.- Estar en una situación que pueda afectar su imparcialidad en forma análoga o más grave que las mencionadas.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2010)</small>
+###### ARTICULO 218o.
 
-###### ARTICULO 214.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-El Magistrado del Tribunal Fiscal del Estado tiene el deber de excusarse del conocimiento de los negocios en que ocurra alguno de los impedimentos señalados en el artículo anterior, expresando concretamente en qué consiste el impedimento.
+###### ARTICULO 219o.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-###### ARTICULO 215.
-
-Manifestada por el Magistrado del Tribunal Fiscal del Estado la causa del impedimento, la resolución en que se declare impedido será irrevocable, y en su lugar conocerá del negocio el Primer Secretario del Tribunal, en funciones de Magistrado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-###### ARTICULO 216.
-
-Las partes podrán recusar al Magistrado del Tribunal Fiscal del Estado, cuando esté en alguno de los casos señalados en el artículo 213 de este Código; o cuando habiendo sido excitado para pronunciar sentencia, no se formule ésta dentro del plazo de quince días contados a partir de la fecha en que se haya hecho la excitativa.
-
-###### ARTICULO 217.
-
-Puede interponerse la recusación por causa de impedimento, en cualquier estado del juicio hasta el momento de empezar la audiencia final.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-Interpuesta la recusación, inmediatamente se suspenderá el procedimiento hasta que sea resuelta, para que se prosiga el negocio ante quien deba conocerlo, y el Magistrado del Tribunal Fiscal del Estado turnará el expediente al Primer Secretario del Tribunal, para que en funciones de Magistrado conozca de la recusación. Para ese sólo efecto, este funcionario será irrecusable.
-
-El Primer Secretario del Tribunal, citará a una audiencia que se celebrará dentro de los tres días siguientes al en que recibiere los autos para conocer la recusación, en donde recibirá las pruebas que se ofrezcan y el informe que deba rendir el Magistrado recusado. La falta de dicho informe establece la presunción de ser cierta la causa de recusación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-###### ARTICULO 218.
-
-Si se declara fundada la recusación, de inmediato seguirá conociendo el negocio el Primer Secretario del Tribunal, en sustitución del recusado.
-
-> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EL PRESENTE ARTÍCULO FUE REFORMADO POR EL DECRETO NO. LXIII-103, EN VIRTUD DE NO HABER ENTRADO EN VIGENCIA EL CÓDIGO DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE TAMAULIPAS A QUE HACE REFERENCIA EL ARTÍCULO SEGUNDO DE LOS TRANSITORIOS DEL DECRETO NÚMERO 189 QUE EXPIDE EL NUEVO CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS PUBLICADO EN EL P.O. DE FECHA 28 DE DICIEMBRE DE 1991.]</small>
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-###### ARTICULO 219.
-
-La resolución que decida la recusación es irrevocable. Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa de diez veces el valor diario de la Unidad de Medida y Actualización.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)</small>
 
 ### CAPITULO III. DE LOS CASOS DE IMPROCEDENCIA Y SOBRESEIMIENTO
 
-###### ARTICULO 220.
+###### ARTICULO 220o.
 
-El Tribunal sobreseerá los juicios que se inicien cuando haya desistimiento expreso del acto, o cuando la autoridad fiscal competente revoque la resolución impugnada, siempre que, en este último supuesto la resolución no hubiere dado nacimiento a derechos en favor de alguna de las partes.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-###### ARTICULO 221.
+###### ARTICULO 221o.
 
-Es improcedente el juicio ante el Tribunal Fiscal.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-I.- Contra resoluciones o actos que no afecten los intereses jurídicos del actor.
+###### ARTICULO 222o.
 
-II.- Contra resoluciones o actos que sean materia de otro juicio que se encuentre pendiente de resolución ante el Tribunal Fiscal, o que hayan sido materia de sentencia pronunciada por el mismo Tribunal, siempre que hubiere identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-III.- Contra resoluciones o actos consentidos, expresa o tácitamente entendiéndose por esta última, aquellos contra los que no se promovió el juicio de los plazos señalados en este Código.
-
-IV.- Contra las resoluciones o actos de los cuales conceda este Código a la Ley fiscal especial, algún recurso, medio de defensa ante las autoridades administrativas, o deban ser revisadas de oficio, por virtud del cual puedan ser modificadas, revocadas o nulificadas, aún cuando la parte interesada no la hubiere hecho valer oportunamente. No operará esta causa de improcedencia cuando las disposiciones respectivas declaren expresamente que es optativa la interposición de algún recurso o medio de defensa ante las autoridades administrativas.
-
-V.- Contra las resoluciones o actos administrativos que hayan sido impugnados en un procedimiento judicial.
-
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 1976)</small>
-
-VI.- Contra de ordenamientos que den normas o instrucciones de carácter general y abstracto, sin haber sido aplicados concretamente al promovente.
-
-VII.- Cuando de las constancias de autos apareciera claramente que no existe la resolución o el acto impugnado.
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
-
-VIII.- Cuando no se hagan valer conceptos de impugnación;
-
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
-
-IX.- Contra las resoluciones dictadas por los Tribunales de Justicia Administrativa Municipal; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-X.- En los demás casos en que la improcedencia resulte de alguna disposición de este Código o de las leyes fiscales especiales.
-
-###### ARTICULO 222.
-
-Procede el sobreseimiento del Juicio:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-I.- Cuando el demandante desista del juicio o deje de actuar 180 días, caso en el que se le tendrá por desistido conforme a éste Código;
-
-II.- Cuando durante el juicio apareciere o sobreviniese alguna de las causas de improcedencia a que se refiere el artículo anterior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-III.- En el caso de que el demandante muera durante el juicio, si su pretensión es intrasmisible o, su muerte, deja sin materia el proceso; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-IV.- En los demás casos en que por disposición legal haya impedimento para emitir resoluciones en cuanto al fondo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-El sobreseimiento del juicio podrá ser total o parcial, además se podrá decretar en cualquiera de los casos antes señalados, de oficio o a petición de parte.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)</small>
 
 ### CAPITULO IV. DE LA DEMANDA
 
-###### ARTICULO 223.
+###### ARTICULO 223o.
 
-La demanda deberá ser presentada directamente al Tribunal Fiscal o enviarse por correo certificado dentro de los quince días siguientes a aquél en que haya surtido efecto la notificación de la resolución impugnada, excepción hecha de los casos siguientes:
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-I.- Si el perjudicado reside en el extranjero y no tiene representante en la República, el término para iniciar el juicio será de cuarenta y cinco días.
+###### ARTICULO 224o.
 
-II.- Cuando se pida la nulidad de una resolución favorable a un particular, la demanda deberá presentarse dentro de los cinco años siguientes a la fecha en que sea notificada la resolución; salvo que dicha resolución haya originado efecto de tracto sucesivo, caso en el cual la autoridad podrá demandar la nulidad en cualquiera época, pero los efectos de sentencia, en caso de nulificarse la resolución favorable, sólo se retrotraerán, a los cinco años anteriores a la presentación de la demanda.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-III.- Cuando la resolución administrativa dé nacimiento al cobro de una pensión, haber de retiro, jubilación, compensación o cualquier otra prestación civil por cantidad menor a la que se pretende, el plazo de la presentación de la demanda vencerá quince días después de la fecha en que se realice el primer cobro. Cuando la pensión esté formada por dos o más cuotas, el plazo para presentar la demanda correrá a partir de la fecha de la primera prescripción de la cuota cobrada en el último término. Si la resolución impugnada concedió la compensación y el interesado considera tener derecho a pensión, se estará a la regla general y será condición indispensable para tramitar la demanda que se otorgue fianza por una cantidad igual al importe de la compensación, si esta ya fue cobrada para garantizar la devolución de ésta en caso de que prospere la demanda.
+###### ARTICULO 225o.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+###### ARTICULO 226o.
 
-IV.- En los casos de negativa ficta, el interesado no está obligado a interponer la demanda dentro del término a que se refiere este artículo debiendo presentarla dentro de los siguientes quince días a los tres meses transcurridos desde que formuló su instancia; y
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-V.- Cuando la Ley señale otro plazo.
+###### ARTICULO 227o.
 
-Cuando el perjudicado fallezca dentro del plazo a que se refiere este artículo, se suspenderá el término hasta que haya sido designado albacea o representante de sucesión.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-###### ARTICULO 224.
+###### ARTICULO 228o.
 
-La demanda deberá contener:
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-I.- Nombre del actor y el domicilio que señale para recibir notificaciones.
+###### ARTICULO 229o.
 
-II.- El nombre y domicilio del particular demandado, cuando el juicio sea promovido por la autoridad administrativa, y el tercero interesado cuando lo haya.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-III.- La resolución o procedimiento que impugne y la autoridad o autoridades demandadas.
-
-IV.- Los hechos y los fundamentos de derecho en que se apoya la reclamación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-V.- Los conceptos de impugnación; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-VI.- Las pruebas que el actor se proponga rendir: cuando ofrezca pruebas pericial o testimonial, el actor deberá indicar los nombres de los peritos o testigos y acompañar cuestionarios que los peritos deberán contestar; para el examen de los testigos será necesario acompañar a la demanda los interrogatorios. Se presentará una copia de la demanda para cada una de las partes, así como de los cuestionarios para los peritos y de los interrogatorios para los testigos.
-
-###### ARTICULO 225.
-
-El demandante tendrá derecho de ampliar la demanda dentro del término de quince días siguientes al en que surta efectos el acuerdo recaído a la contestación de la misma, cuando se demande una negativa ficta o cuando no conozca los fundamentos de la resolución impugnada, sino hasta que la demanda esté contestada.
-
-###### ARTICULO 226.
-
-El actor deberá acompañar con su instancia los documentos justificados de su personalidad cuando no gestione en nombre propio, a menos de que compruebe que dicha personalidad le ha sido reconocida en el procedimiento dentro del cual haya emanado la resolución que reclama.
-
-Igualmente deberá presentar el documento en que conste la resolución o acto impugnado, o señalar el archivo o el lugar en que se encuentren. Si se demanda la nulidad de una negativa ficta, deberá exhibirse copia de la instancia no resuelta por la autoridad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-###### ARTICULO 227.
-
-Si la demanda fuere oscura, irregular o no llena los requisitos del artículo 224, el Magistrado deberá prevenir al actor que la aclare, corrija o complete de acuerdo con los artículos anteriores, dentro del término de cinco días. Si dentro de este término no se subsanan los defectos, la demanda será desechada.
-
-###### ARTICULO 228.
-
-Se notificará a las autoridades demandadas la resolución por la que se desecha la demanda, remitiéndoseles copia si la hubiere.
-
-###### ARTICULO 229.
-
-Al recibir las demandas, el Magistrado tendrá las siguientes facultades y obligaciones:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-I.- Dar entrada a las demandas, prevenir al actor que las aclare, corrija o complete cuando proceda, o desecharlas si no se ajustan al presente Código;
-
-II.- Admitir o desechar pruebas y dictar las providencias para su desahogo.
-
-III.- Admitir o rechazar la intervención del coadyuvante o del tercero.
-
-IV.- Tener formulada la contestación a la demanda o desecharla en su caso.
-
-V.- Sobreseer en los juicios antes de la audiencia en los casos de desistimiento del actor o de revocación administrativa de la resolución impugnada, salvo que ésta haya generado derechos en favor del tercero, sea o no parte en el juicio.
-
-VI.- Tramitar los incidentes para su resolución.
-
-VII.- Dictar acuerdos y providencias de trámite necesarios para poner el juicio en condiciones de que pueda celebrarse la audiencia.
-
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 1976)</small>
-
-VIII.- Formular los proyectos y las resoluciones interlocutorias.
-
-IX.- Formular la resolución definitiva en la audiencia, o dentro de los quince días siguientes a su celebración.
-
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 1976)</small>
-
-X.- Los demás que corresponden conforme a las disposiciones de este Código.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)</small>
 
 ### CAPITULO V. DE LA CONTESTACIÓN
 
-###### ARTICULO 230.
+###### ARTICULO 230o.
 
-En el mismo escrito de la contestación, del que se presentará una copia para cada una de las partes, el demandando ofrecerá las pruebas que se proponga rendir. Cuando se trate de pruebas pericial o testimonial, indicará los nombres y domicilios de los peritos y testigos y acompañará los interrogatorios correspondientes.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### ARTICULO 231o.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-Igualmente, enviará los interrogatorios de preguntas a que haya lugar y hará las designaciones que correspondan con relación a las pruebas ofrecidas por el actor.
+###### ARTICULO 232o.
 
-###### ARTICULO 231.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-Dentro del mismo plazo de diez días que señala para contestar la demanda, el tercero interesado y el coadyuvante si existiera, podrán apersonarse en el juicio mediante un escrito respecto al cual será aplicable lo dispuesto en los artículos anteriores.
+###### ARTICULO 233o.
 
-###### ARTICULO 232.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-Admitida la demanda, se correrá traslado de ella al demandado para que conteste dentro del término de diez días, y se emplazará en su caso al tercero interesado y a la Tesorería General del Estado. Esta tendrá un término de veinte días para contestar la demanda.
+###### ARTICULO 234o.
 
-Cuando alguna autoridad que debiendo ser parte no fuera señalada por el actor como demandada, se correrá traslado de la demanda para que conteste dentro del término de diez días.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-###### ARTICULO 233.
+###### ARTICULO 235o.
 
-El demandado en su contestación, expresará:
-
-I.- Las cuestiones de previo y especial pronunciamiento.
-
-II.- Las consideraciones que a su juicio impidan, se emita la decisión en cuanto al fondo, o demuestren que no haya nacido o que se ha extinguido el derecho en que el actor apoya la demanda.
-
-III.- Se referirá concretamente a cada uno de los hechos que el actor le impute de manera expresa afirmándolos, negándolos, expresando que los ignora por no ser propios o exponiendo como ocurrieron.
-
-IV.- Los fundamentos de derecho que considere aplicables para apoyar la validez de la resolución del acto impugnado.
-
-V.- Las pruebas que se proponga rendir. Cuando se trate de pruebas pericial o testimonial, indicará los nombres y domicilio de los peritos o testigos y acompañará los interrogatorios para el desahogo de la primera.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-VI.- El nombre y domicilio del tercero interesado, cuando lo haya.
-
-Se presentará copia, para cada una de las partes del escrito de la contestación y su omisión dará lugar a que el Magistrado requiera al demandado para que exhiba las copias necesarias dentro del plazo de cinco días, apercibiéndolo de que tendrá por no contestado en caso de incumplimiento.
-
-###### ARTICULO 234.
-
-Se presumirán ciertos, salvo que por las pruebas rendidas resulten desvirtuados, los hechos que el actor impute de manera precisa al demandado, en los siguientes casos:
-
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 1976)</small>
-
-a).- Cuando no se produzca la contestación dentro del plazo a que alude al artículo 232o.
-
-b).- Cuando la contestación no se refiera concretamente a los hechos afirmados por el actor y sean propios del demandado.
-
-c).- Cuando sin causa justificada el demandado no exhiba la prueba que le haya sido requerida.
-
-###### ARTICULO 235.
-
-En la contestación de la demanda no podrán cambiarse los fundamentos de derecho de la resolución impugnada.
-
-En caso de negativa ficta, la autoridad expresará los hechos y el derecho en que se apoye la misma.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
 ###### ARTICULO 235
 
-Bis.- Se suspenderá el procedimiento administrativo de ejecución durante la tramitación del juicio de nulidad, cuando lo solicite el interesado y garantice el crédito fiscal de que se trate y los posibles recargos, en algunas de las formas señaladas por las disposiciones de este mismo.
+Bis.- (DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-La suspensión podrá ser solicitada en cualquier tiempo ante la oficina ejecutora, acompañando la copia del escrito en el que se hubiere iniciado el juicio de que se trate.
-
-La autoridad ejecutora suspenderá provisionalmente el procedimiento y concederá un plazo de 15 días para el otorgamiento de la garantía. Constituida ésta, la oficina ejecutora suspenderá de plano el procedimiento hasta que se le comunique la resolución definitiva en el juicio respectivo.
-
-No se exigirá garantía adicional si en el procedimiento administrativo de ejecución se hubieren ya secuestrado bienes suficientes para garantizar los intereses fiscales.
-
-En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados ocurrirán ante el Tribunal Fiscal que conozca del juicio respectivo. El Tribunal Fiscal pedirá a la autoridad ejecutora un informe que deberá rendirse en un plazo de tres días y resolverá de inmediato la cuestión.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)</small>
 
 ### CAPITULO VI. DE LOS INCIDENTES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### ARTICULO 236o.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-###### ARTICULO 236.
+###### ARTICULO 237o.
 
-En los juicios que se tramiten ante el Tribunal Fiscal del Estado, sólo se admitirán como incidentes de previo y especial pronunciamiento, los relativos a la acumulación de autos, la nulidad de actuaciones y la falta de personalidad.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-###### ARTICULO 237.
+###### ARTICULO 238o.
 
-Procede la acumulación, aunque las partes sean diversas y se invoquen distintas violaciones legales, cuando estén pendientes de resolución dos o más juicios intentados contra el mismo acto o contra varios puntos decisorios de una misma resolución o contra actos que, aunque diversos, sean unos antecedentes o consecuencia de otros. También procederá la acumulación cuando las partes sean las mismas y se invoquen idénticas violaciones.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-###### ARTICULO 238.
+###### ARTICULO 239o.
 
-La acumulación se tramitará de oficio o a petición de parte en el juicio que se haya promovido primero, en una sola audiencia, en la que se hará la relación de los autos, se oirán los alegatos y se dictará la sentencia interlocutoria que corresponda.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-La solicitud de acumulación notoriamente infundada se desechará de plano.
+###### ARTICULO 240o.
 
-###### ARTICULO 239.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-Entre tanto se resuelve sobre la acumulación, se suspenderá el procedimiento en los juicios respectivos.
+###### ARTICULO 241o.
 
-###### ARTICULO 240.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-Decretada la acumulación se integrarán los autos del juicio más reciente a los autos del juicio más antiguo, para ser resueltos en una misma resolución.
+###### ARTICULO 242o.
 
-###### ARTICULO 241.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-Si la autoridad niega la suspensión del procedimiento de ejecución o rechaza la garantía ofrecida, podrá promoverse, hasta antes de notificarse la resolución que ponga fin al juicio, el incidente respectivo ante el Tribunal Fiscal del Estado.
+###### ARTICULO 243o.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-La Tesorería General del Estado o la Tesorería Municipal podrán promover el mismo incidente para combatir las decisiones dictadas por las autoridades fiscales en materia de suspensión, que no se ajusten a las normas legales aplicables.
-
-###### ARTICULO 242.
-
-Las cuestiones incidentales se tramitarán por cuerda separada. El Tribunal, al correr el traslado a la autoridad que haya negado la suspensión, rechazado la garantía o dictado la decisión impugnada citará a las partes a una audiencia en la que después de recibir sus pruebas, oírlas en alegatos, dictará la resolución interlocutoria que corresponda.
-
-> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EL PRESENTE ARTÍCULO FUE REFORMADO POR EL DECRETO NO. LXIII-103, EN VIRTUD DE NO HABER ENTRADO EN VIGENCIA EL CÓDIGO DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE TAMAULIPAS A QUE HACE REFERENCIA EL ARTÍCULO SEGUNDO DE LOS TRANSITORIOS DEL DECRETO NÚMERO 189 QUE EXPIDE EL NUEVO CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS PUBLICADO EN EL P.O. DE FECHA 28 DE DICIEMBRE DE 1991.]</small>
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-###### ARTICULO 243.
-
-Si la autoridad no comparece a la audiencia contestando el traslado o no se refiere a todos los hechos de la demanda, se presumirán ciertos, salvo prueba en contrario, los hechos que el promovente le impute de manera precisa y se impondrá a aquella autoridad una multa de una a diecisiete veces el valor diario de la Unidad de Medida y Actualización.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)</small>
 
 ### CAPITULO VII. DE LAS PRUEBAS
 
-###### ARTICULO 244.
+###### ARTICULO 244o.
 
-En los juicios que se tramiten ante al Tribunal Fiscal del Estado serán admisibles toda clase de pruebas excepto la de confesión de las autoridades.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-###### ARTICULO 245.
+###### ARTICULO 245o.
 
-El Tribunal Fiscal del Estado tendrá facultad para ordenar la práctica de cualquier diligencia que tenga relación con los puntos controvertidos y para acordar la exhibición de cualquier documento.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-###### ARTICULO 246.
+###### ARTICULO 246o.
 
-Cuando se presenten cuestiones de carácter técnico el Tribunal Fiscal del Estado, de oficio acordará que se rinda prueba pericial.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-###### ARTICULO 247.
+###### ARTICULO 247o.
 
-El Tribunal Fiscal del Estado tendrá facultad para calificar la idoneidad de las pruebas ofrecidas por las partes respecto de los puntos controvertidos y desechará aquellas que no tengan relación inmediata y directa con ellas así como aquellas que sean inconducentes para formar la convicción del juzgador respecto del contenido de la litis.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-###### ARTICULO 248.
+###### ARTICULO 248o.
 
-La recepción de las pruebas se hará en la audiencia de acuerdo con las siguientes reglas, y en lo no previsto se estará a lo dispuesto por el Código de Procedimientos Civiles del Estado:
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 1976)</small>
+###### ARTICULO 249o.
 
-I.- Las posiciones se articularán precisamente en el acto de la audiencia y no se requiere segunda citación para tener por confeso al absolvente que no concurra sin causa justificada. Cuando la persona que deba absolver posiciones radique fuera de la Capital del Estado y no tenga constituido en ésta apoderado con facultad para absolverlas, la diligencia se encomendará al Juzgado de Primera Instancia que corresponda.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-II.- La impugnación de documentos puede hacerse desde la contestación de la demanda hasta tres días antes de la celebración de la audiencia.
+###### ARTICULO 250o.
 
-III.- La prueba pericial se rendirá en la audiencia. Los peritos dictaminarán por escrito u oralmente. Las partes y el Magistrado Fiscal del Estado les podrán formular las observaciones y hacerles las preguntas que estimen pertinentes en relación con los puntos sobre los que dictaminen. El Tribunal Fiscal del Estado podrá designar perito tercero si así lo considera conveniente. Los peritos deberán tener título en la ciencia o arte a que pertenece la cuestión sobre la que habrá de oírse su parecer. Si la profesión o el arte no estuviera legalmente reglamentado o estándolo no hubieren peritos en el lugar, podrán ser nombradas las personas entendidas, a juicio del Tribunal Fiscal o del Juzgado de Primera Instancia que corresponda, aún cuando no tenga título. El nombramiento deberá recaer, de preferencia, en una Institución de Crédito o Fiduciaria.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-IV.- No será impedimento para intervenir como testigo el hecho de desempeñar un empleo o cargo público;
+###### ARTICULO 251o.
 
-V.- Para el examen de los testigos se presentarán interrogatorios escritos, las preguntas tendrán relación directa con los puntos controvertidos y no serán contrarias a Derecho o a la moral, deberán ser concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-El Tribunal Fiscal del Estado deberá cuidar que se cumplan estas condiciones rechazando preguntas que las contraríen; y
-
-VI.- La protesta y examen de los testigos se hará en presencia de las partes que concurrieren.
-
-###### ARTICULO 249.
-
-Los Jueces de Primera Instancia, al desahogar pruebas que tengan que recibirse fuera de Cd. Victoria, estarán facultados para designar peritos, en rebeldía de las partes, y en su caso, del tercero en discordia.
-
-###### ARTICULO 250.
-
-Se presumirán válidos los actos y resoluciones de la autoridad administrativa no impugnados de manera expresa en la demanda a aquellos respecto los cuales aunque impugnados, no se allegaren elementos de prueba bastantes para acreditar su ilegalidad.
-
-###### ARTICULO 251.
-
-La valorización de las pruebas se hará de acuerdo con las disposiciones del Código de Procedimientos del Estado con las siguientes modificaciones:
-
-I.- El valor probatorio de los dictámenes periciales será calificado por el Tribunal Fiscal del Estado, según las circunstancias.
-
-II.- Cuando por el enlace de las pruebas rendidas y de las presunciones formadas el Tribunal Fiscal del Estado adquiera convicción distinta acerca de los hechos materia de litigio, podrá no sujetarse a los preceptos de este Código, pero deberá entonces fundar cuidadosamente esa parte de su sentencia; y
-
-III.- El Tribunal Fiscal del Estado podrá invocar los hechos notorios.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)</small>
 
 ### CAPITULO VIII. DE LA AUDIENCIA Y FALLO
 
-###### ARTICULO 252.
+###### ARTICULO 252o.
 
-El orden de la audiencia será el siguiente:
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-I.- Se dará cuenta con las reclamaciones de las partes y con cualquier cuestión incidental suscitada durante la tramitación del juicio; al efecto, se recibirán las pruebas y se escucharán los alegatos de las partes sobre el particular. Acto continuo la sala pronunciará la resolución que proceda, ordenando, en su caso, que se practiquen las diligencias omitidas.
+###### ARTICULO 253o.
 
-II.- Si la resolución de las reclamaciones o de los incidentes no trae como consecuencia el que deba suspenderse la audiencia, se leerán la demanda, la contestación y las demás constancias de autos.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-III.- Se estudiarán, aún de oficio, los sobreseimientos que procedan, respecto de las cuestiones que impidan se emita una decisión en cuanto al fondo y se dictará la resolución que corresponda.
+###### ARTICULO 254o.
 
-IV.- En su caso, se recibirán las pruebas que hayan sido ofrecidas en relación a la validez o nulidad de la resolución o procedimiento impugnado.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-El Magistrado Fiscal del Estado, podrá formular toda clase de preguntas respecto de las cuestiones debatidas a las partes o a sus representantes, así como a los testigos y peritos, y
+###### ARTICULO 255o.
 
-V.- Se oirán los alegatos del actor, de la parte demandada, del tercero interesado y del coadyuvante, que se pronunciarán en ese orden.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-Las partes podrán presentar sus alegatos por escrito. Cuando se formulen de palabra no podrán exceder de quince minutos para cada una de las partes, en única intervención.
+###### ARTICULO 256o.
 
-Las promociones que las partes formulen en las audiencias, así como sus oposiciones contra los acuerdos, que en ellas se dicten, se resolverán de plano.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
-###### ARTICULO 253.
+###### ARTICULO 257o.
 
-Se tomará versión mecanográfica de la audiencia, misma que se agregará a los autos, después de revisada, bajo responsabilidad del Secretario respectivo, que deberán firmar las partes.
-
-Si los alegatos en la audiencia fueren formulados de palabra, el Magistrado Fiscal del Estado pedirá a la parte que así los formule que haga una síntesis de los mismos que no excede de cinco minutos, de la cual se tomará también versión mecanográfica que se agregará a los autos en los términos del párrafo anterior.
-
-###### ARTICULO 254.
-
-La audiencia deberá suspenderse cuando no se hayan resuelto los incidentes de previo y especial pronunciamiento. También podrá suspenderse o prorrogarse de oficio o a solicitud de alguna de las partes, cuando exista motivo fundado a juicio del Tribunal Fiscal del Estado.
-
-###### ARTICULO 255.
-
-Instruido el proceso y declarados vistos los autos, el Tribunal Fiscal del Estado, deberá dictar sentencia dentro de los treinta días siguientes a la fecha en que se haya declarado vistos los autos.
-
-###### ARTICULO 256.
-
-Las sentencias del Tribunal Fiscal del Estado, tendrán fuerza de cosa juzgada. Se fundarán en Derecho y examinarán todos y cada uno de los puntos controvertidos de la resolución, acto o procedimiento cuya nulidad se declare o cuya validez se reconozca.
-
-###### ARTICULO 257.
-
-Cuando la sentencia declare la nulidad de una resolución para el efecto de que se dicte una nueva, indicará los términos conforme a los cuales deba dictar su nueva resolución la autoridad fiscal. Si lo anulado es un procedimiento por violaciones de carácter formal, y se mande reponer el mismo, indicará cuáles son los vicios que deben ser subsanados por la autoridad administrativa en el nuevo procedimiento.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, P.O. 8 DE JUNIO DE 2017)
 
 ## TRANSITORIOS
 
@@ -1840,3 +1420,31 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 8 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-189 MEDIANTE EL CUAL SE EXPIDE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que contravengan o se opongan a las adiciones y reformas materia del mismo, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor de esta Ley, se derogan el Título Tercero y el Título Cuarto del Código Fiscal del Estado de Tamaulipas y los artículos que comprenden del 194 al 257 del citado ordenamiento legal, por lo que las leyes que remitan a esos preceptos, se entenderán referidos a los correspondientes de la presente Ley de Procedimiento Contencioso Administrativo del Estado de Tamaulipas.
+
+###### ARTÍCULO CUARTO.
+
+Los juicios que se encuentren en trámite ante el Tribunal Fiscal del Estado de Tamaulipas al momento de entrar en vigor la presente Ley, se substanciarán hasta su resolución final conforme a las disposiciones legales aplicables vigentes a su inicio, salvo lo que se refiere al cumplimiento y ejecución de las sentencias, que se llevarán a cabo conforme a las reglas de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+Los ordenamientos legales que hagan referencia al Tribunal Fiscal del Estado, se entenderán referidas al Tribunal de Justicia Administrativa del Estado de Tamaulipas.
+
+###### ARTÍCULO SEXTO.
+
+La parte relativa al juicio en línea entrará en vigor el día siguiente al que se publique en el Periódico Oficial del Estado, el Acuerdo General por medio del cual se formaliza el Sistema de Justicia en Línea y los Lineamientos del Sistema de Justicia en Línea.
