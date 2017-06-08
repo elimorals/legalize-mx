@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-instituciones-y-procedimientos-electorales-del-101778"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2014-10-08"
+last_updated: "2017-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 30 de junio de 2014.
 
@@ -6637,6 +6635,8 @@ XI. Existir irregularidades graves, plenamente acreditadas y no reparables, dura
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
+
 ###### Artículo 749.
 
 Son causales de nulidad de la elección de Gobernador, cualquiera de las siguientes:
@@ -6701,7 +6701,7 @@ A fin de salvaguardar las libertades de expresión, información y a fin de fort
 
 ###### Artículo 755.
 
-El Juicio para la Protección de los Derechos Político-Electorales del Ciudadano Campechano, sólo procederá cuando el ciudadano por sí mismo y en forma individual o a través de sus representantes legales, haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos locales. En el supuesto previsto en la fracción II del artículo 756, la demanda deberá presentarse por conducto de quien ostente la representación legítima de la organización o agrupación política agraviada.
+El Juicio para la Protección de los Derechos Político-Electorales del Ciudadano Campechano, sólo procederá cuando el ciudadano por sí mismo y en forma individual o a través de sus representantes legales, haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos locales o por violencia política contra las mujeres. En el supuesto previsto en la fracción II del artículo 756, la demanda deberá presentarse por conducto de quien ostente la representación legítima de la organización o agrupación política agraviada.
 
 ###### Artículo 756.
 
@@ -6717,21 +6717,33 @@ IV. Considere que los actos o resoluciones del partido político local al que es
 
 V. Considere que un acto o resolución indebidamente afecta su derecho para integrar las autoridades electorales locales.
 
-El juicio sólo será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político–electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+VI. Cuando exista violencia política contra la mujer, consistente en acciones y omisiones basadas en elementos de género y dadas en el ejercicio de los Derechos Político-Electorales, que tengan por objeto o resultado menoscabar o anular el reconocimiento, goce y ejercicio de los derechos político-electorales o de las prerrogativas inherentes a un cargo público.
+
+El juicio sólo será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
 
 En los casos previstos en la fracción IV, de este artículo, el quejoso deberá haber agotado previamente las instancias de solución de conflictos previstas en las normas internas del partido de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al quejoso.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
+
 ###### Artículo 757.
 
-Es competente para resolver el Juicio para la Protección de los Derechos Político-Electorales del ciudadano campechano el Tribunal Electoral.
+Es competente para resolver el Juicio para la Protección de los Derechos Político-Electorales del Ciudadano Campechano el Tribunal Electoral. Tratándose de juicios promovidos por violencia política contra las mujeres, el Tribunal Electoral al percatarse de la posible comisión de un delito o conductas infractoras, deberá dar vista a la autoridad competente a efecto de que realice la investigación y, en su caso, se impongan las sanciones previstas conforme a la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
 
 ###### Artículo 758.
 
-Las sentencias que resuelvan el fondo del Juicio para la Protección de los Derechos Político-Electorales del ciudadano campechano, serán definitivas e inatacables y podrán tener los efectos siguientes:
+Las sentencias que resuelvan el fondo del Juicio para la Protección de los Derechos Político-Electorales del Ciudadano Campechano, serán definitivas e inatacables y podrán tener los efectos siguientes:
 
-I. Confirmar el acto o resolución impugnado, y
+I. Confirmar el acto o resolución impugnado,
 
-II. Revocar o modificar el acto o resolución impugnado y restituir al promovente en el uso y goce del derecho político–electoral que le haya sido violado.
+II. Revocar o modificar el acto o resolución impugnado y,
+
+III. Restituir al promovente en el uso y goce del derecho político-electoral que le haya sido violado.
+
+Tratándose de juicios promovidos por violencia política contra las mujeres, en las sentencias emitidas, además de la restitución de los Derechos Político-Electorales, procederá la imposición de las sanciones conforme al catálogo contenido en el artículo 594 de esta Ley; en caso de que hubiera sido cometida por un ente diferente a los señalados en dicho artículo, se podrá imponer amonestación pública y multa de hasta quinientas unidades de medida y actualización vigentes, atendiendo siempre a la capacidad económica del responsable.
 
 ###### Artículo 759.
 
@@ -6872,3 +6884,13 @@ Que la LXI Legislatura del H. Congreso Constitucional del Estado Libre y Soberan
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los veintiocho días del mes de junio del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO. LIC. WILLIAM ROBERTO SARMIENTO URBINA.- RUBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 158 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 755, 757 Y 758 Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 756 Y UN TERCER PÁRRAFO AL ARTÍCULO 758 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
