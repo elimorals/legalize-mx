@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2017-06-03"
+last_updated: "2017-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2017.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -165,9 +165,9 @@ De los Diputados y de la Instalacion y Funciones del Congreso.
 
 Se deposita el ejercicio del Poder Legislativo en un Congreso integrado por dieciséis Diputados electos según el principio de mayoría relativa y por nueve Diputados electos según el principio de representación proporcional, el cual se sujetará al procedimiento que disponga el Código Electoral del Estado. Al efecto, el Estado se dividirá en dieciséis distritos electorales uninominales y una circunscripción plurinominal.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
 
-La demarcación electoral de los dieciséis distritos electorales uninominales, será la que señale el Código Electoral del Estado.
+La demarcación electoral de los dieciséis distritos electorales uninominales, será determinada por el Instituto Nacional Electoral con base en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Instituciones y Procedimientos Electorales.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -215,15 +215,19 @@ III.- No estar en servicio activo de las fuerzas armadas y de los cuerpos de seg
 
 IV.- No ser Magistrado del Supremo Tribunal de Justicia, Secretario de la Administración Pública Estatal, Consejero Jurídico o Fiscal General del Estado, ni desempeñar el cargo de Juez de Distrito en el Estado, a menos que se separe del cargo, por lo menos, un día antes del inicio del período de registro de candidatos.
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
-V.- No ser Presidente Municipal en el lugar donde se realicen las elecciones, a menos que se separe del cargo, por lo menos, un día antes del inicio del periodo de registro de candidatos.
+V. No ser Presidente Municipal en el lugar donde se realicen las elecciones, a menos que se separe del cargo, dentro de los cinco días anteriores al inicio del período de registro de candidatos;
 
 VI.- (DEROGADA, P.O. 26 DE JULIO DE 1999)
 
 > <small>(ADICIONADA, P.O. 26 DE MARZO DE 1994)</small>
 
 VII.- No ser Ministro de algún culto religioso.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+En el caso de elección consecutiva no será requisito separarse del cargo.
 
 > <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 1954)</small>
 
@@ -245,11 +249,11 @@ El Presidente del Congreso velará por el respeto al Fuero Constitucional de los
 
 El cargo de Diputado es renunciable por causa que calificará el Congreso y por ningún motivo será gratuito.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2017)</small>
 
 ###### Artículo 28.
 
-El Congreso se renovará totalmente y cambiará su nomenclatura cada tres años. Se instalará el día primero de octubre del año de la elección de los Diputados de la nueva Legislatura.
+El Congreso renovará sus integrantes cada tres años, adoptando el número progresivo que le corresponda y la denominación oficial de Legislatura. Se instalará el día primero de octubre del año de la elección de los Diputados de la nueva Legislatura.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
 
@@ -1367,11 +1371,13 @@ Las autoridades electorales solamente podrán intervenir en los asuntos internos
 
 Los partidos políticos promoverán y garantizarán la equidad y la paridad entre mujeres y hombres en sus órganos de dirección y en las candidaturas a cargos de elección popular.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
 
-Para este último fin, deberán registrar hasta el 50% de candidatos de un mismo género a cargos de diputados por el principio de mayoría relativa; tratándose de cargos de diputados por el principio de representación proporcional, quienes se ubicarán de manera alternada en la lista, no podrán incluir más del 50% de un mismo género.
+Para este último fin, si las fórmulas que presenten a cargos de diputados por el principio de mayoría relativa corresponden a un número par, deberán registrar el 50% de candidatos de un mismo género, en caso de que se trate de número impar, el porcentaje de cada género será el más cercano al 50%; tratándose de cargos de diputaciones por el principio de representación proporcional, cada partido político presentará una lista de prelación, alternando propuestas de uno y otro género, por la totalidad de los cargos correspondientes.
 
-En el caso de los Ayuntamientos, cuyo número total de presidentes municipales, síndicos y regidores sea par, el porcentaje para cada uno de los géneros será del 50% y cuando se trate de un número impar, será hasta un 60% para un mismo género.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+En el caso de los Ayuntamientos, si un partido político registra un número par de candidatos a Presidentes Municipales el 50% de las candidaturas corresponderá a un mismo género, en caso de que se trate de número impar el porcentaje de cada género será el más cercano a dicha cifra. En cada planilla deberán alternarse las propuestas de uno y otro género en las planillas respectivas.
 
 Los partidos políticos garantizarán la inclusión de jóvenes en las candidaturas a cargos de elección popular.
 
@@ -1392,6 +1398,10 @@ La libertad de expresión y el derecho a la información en el contexto del deba
 > <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2013)</small>
 
 En la propaganda política o electoral que difundan los partidos políticos, sus candidatos y los candidatos independientes deberán abstenerse de expresiones que denigren a las instituciones, a los propios partidos políticos o a las personas.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+Las autoridades electorales y los partidos políticos combatirán la violencia política en contra de las mujeres. La ley sancionará todo tipo de violencia política contra las mujeres.
 
 Cuando a juicio de la autoridad electoral local el tiempo en radio y televisión que le fue otorgado, fuese insuficiente para sus fines, hará la solicitud a la autoridad administrativa electoral federal, quien determinará lo conducente para cubrir el tiempo faltante, conforme a las facultades que la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia le confieren.
 
@@ -1817,9 +1827,17 @@ IV.- Estar inscrito en la lista nominal de electores;
 
 V.- No estar en servicio activo de las fuerzas armadas o de los cuerpos de seguridad pública, a menos que se separe del cargo, por lo menos, un día antes del inicio del período del registro de candidatos;
 
-VI.- No ser ministro de cualquier culto religioso en los términos que establezcan las leyes respectivas; y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
-VII.- No ser integrante de los organismos electorales en los términos que señale la ley de la materia.
+VI. No ser ministro de cualquier culto religioso en los términos que establezcan las leyes respectivas;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+VII. No ser integrantes de los organismos electorales en los términos que señale la ley de la materia; y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+VIII. No ser Presidente Municipal a menos que se separe del cargo dentro de los cinco días anteriores al inicio del período de registro de candidatos.
 
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2002)</small>
 
@@ -3664,6 +3682,12 @@ P.O. 3 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 288 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCION POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN MATERIA DE DERECHOS HUMANOS”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 8 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 314 POR EL QUE SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22; LA FRACCIÓN V DEL ARTÍCULO 24; EL PRIMER PÁRRAFO DEL ARTÍCULO 28; EL SEXTO Y SÉPTIMO PÁRRAFOS DE LA FRACCIÓN I DEL ARTÍCULO 86 BIS; ASÍ COMO LAS FRACCIONES VI Y VII DEL ARTÍCULO 90; Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 24; UN PÁRRAFO DÉCIMO QUINTO A LA FRACCIÓN I DEL ARTÍCULO 86 BIS HACIÉNDOSE EL CORRIMIENTO DE LOS PÁRRAFOS SUBSECUENTES, ASÍ COMO, LA FRACCIÓN VIII AL ARTÍCULO 90, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN MATERIA POLÍTICO-ELECTORAL".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTÍCULO ÚNICO.
 
