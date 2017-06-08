@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-116656"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-09-27"
-last_updated: "2017-05-16"
+last_updated: "2017-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE MAYO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -113,7 +111,9 @@ El Ejecutivo del Estado, para el despacho de los asuntos públicos, resolverá e
 
 2. El titular de cada Secretaría expedirá los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener información sobre la estructura orgánica de la Dependencia y las funciones de sus unidades administrativas, así como sobre los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan.
 
-3. Los manuales de organización general deberán elaborarse conforme a las normas y lineamientos emitidos por la Contraloría Gubernamental y publicarse en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+3. Los manuales de organización general deberán elaborarse conforme a las normas y lineamientos emitidos por la Contraloría Gubernamental y publicarse en el Periódico Oficial del Estado, mientras que los manuales de procedimientos y de servicios al público deberán estar disponibles para consulta de los usuarios y de los propios servidores públicos, en el portal de transparencia que opera la Contraloría Gubernamental.
 
 4. Los manuales y demás instrumentos de apoyo administrativo interno, deberán mantenerse permanentemente actualizados por parte de los titulares de cada Secretaría.
 
@@ -275,11 +275,15 @@ A la Secretaría General de Gobierno, además de las atribuciones que específic
 
 I. Conducir la política interior del Ejecutivo del Estado;
 
-II. Tramitar el ejercicio de las atribuciones del Ejecutivo del Estado en materia de designación de magistrados del Supremo Tribunal de Justicia del Estado así como del Tribunal Fiscal del Estado en los términos que establece el artículo 91 fracción XIV de la Constitución Política del Estado;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+II. Tramitar el ejercicio de las atribuciones del Ejecutivo del Estado en materia de proponer magistrados del Supremo Tribunal de Justicia del Estado así como del Tribunal de Justicia Administrativa del Estado de Tamaulipas en los términos que establece el artículo 91 fracción XIV de la Constitución Política del Estado;
 
 III. Llevar el registro de autógrafos de los servidores públicos estatales y municipales, así como de los demás servidores a quienes esté encomendada la fe pública, y legalizar las firmas de los mismos;
 
-IV. Conducir las relaciones del Poder Ejecutivo con los Poderes Legislativo y Judicial del Estado, así como con el Tribunal Fiscal del Estado, los ayuntamientos de la Entidad, los organismos con autonomía de los Poderes establecidos por la Constitución Política del Estado, los Poderes de la Unión, los órganos constitucionales federales autónomos, los gobiernos de otras entidades federativas, siempre que no se atribuya a otra Dependencia por disposición legal;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+IV. Conducir las relaciones del Poder Ejecutivo con los Poderes Legislativo y Judicial del Estado, así como con el Tribunal de Justicia Administrativa del Estado de Tamaulipas, los Ayuntamientos de la Entidad, los organismos con autonomía de los Poderes establecidos por la Constitución Política del Estado, los Poderes de la Unión, los órganos constitucionales federales autónomos, los gobiernos de otras entidades federativas, siempre que no se atribuya a otra Dependencia por disposición legal;
 
 V. Conducir las relaciones políticas del Ejecutivo del Estado con los partidos políticos, las agrupaciones políticas nacionales, las asociaciones religiosas y las organizaciones sociales;
 
@@ -1155,59 +1159,163 @@ XVII. Adoptar las determinaciones de su competencia con relación a los delitos 
 
 XVIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 39 BIS.
+
+La Procuraduría General de Justicia contará con una Fiscalía Especializada en Combate a la Corrupción, como un órgano público con autonomía técnica y operativa para investigar y perseguir los hechos de corrupción que la ley considera como delitos, y tendrá las atribuciones que señalen las leyes de la materia.
+
 #### Sección XVII. De la Contraloría Gubernamental
 
 ###### ARTÍCULO 40.
 
 A la Contraloría Gubernamental, además de las atribuciones que le asignan las disposiciones legales vigentes, le corresponde el despacho de los siguientes asuntos:
 
-I. Supervisar y vigilar el funcionamiento de los sistemas y procedimientos de planeación, control y evaluación de la administración pública estatal, y requerir discrecionalmente de las dependencias y entidades, la instrumentación de normas adicionales para el ejercicio de sus atribuciones que aseguren el control;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
-II. Establecer y dictar las bases generales para la realización de auditorías, inspecciones y evaluaciones a las dependencias y entidades de la administración pública estatal e informar al titular del Ejecutivo del resultado de las mismas;
+I. Organizar, coordinar y supervisar el sistema de control interno y la evaluación de la gestión gubernamental; inspeccionar el ejercicio del gasto público y su congruencia con los presupuestos de egresos, así como concertar con las dependencias y entidades de la Administración Pública Estatal;
 
-III. Planear, organizar y coordinar el Sistema de Control Gubernamental y la evaluación del desempeño de los servidores públicos;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
-IV. Fiscalizar e inspeccionar el ejercicio del gasto público del Ejecutivo y su congruencia con el presupuesto de egresos;
+II. Expedir las normas que regulen los instrumentos y procedimientos de control interno de la Administración Pública Estatal, para lo cual podrá requerir de las dependencias competentes, la expedición de normas complementarias para el ejercicio del control administrativo. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción;
 
-V. Fiscalizar la distribución y aplicación de los recursos federales derivados de los Acuerdos y Convenios respectivos, ejercidos por las dependencias y entidades de la administración pública estatal;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
-VI. Informar a la Secretaría de la Función Pública del Gobierno Federal, de la evaluación de los programas que involucren recursos federales, en los términos de los Acuerdos o Convenios respectivos;
+III. Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal;
 
-VII. Vigilar, en los términos de los Acuerdos y Convenios respectivos, que los recursos federales y estatales que ejerzan directamente los Municipios, se apliquen conforme a lo estipulado en los mismos;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
-VIII. Atender y dar seguimiento a las denuncias y quejas que se presenten con motivo de irregularidades en acuerdos, convenios o contratos que celebren los particulares con las dependencias y entidades de la administración pública estatal, y en la aplicación de recursos federales destinados a obras y servicios del Estado de Tamaulipas;
+IV. Establecer las bases generales para la realización de auditorías internas, transversales y externas de las dependencias y entidades de la Administración Pública Estatal; y realizar dichas auditorías cuando se requieran, en sustitución o apoyo de los órganos internos de control;
 
-IX. Vigilar el cumplimiento de las normas de control y fiscalización, así como asesorar y apoyar a los órganos de control interno de las dependencias y entidades de la administración pública estatal;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
-X. Inspeccionar y vigilar, directamente o a través de los órganos de control, que las dependencias y entidades de la administración pública estatal, cumplan con las normas y disposiciones en materia de sistema y registro de contabilidad; contratación y pago de personal; contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación, baja de bienes y demás activos y recursos materiales de la administración pública estatal y, en su caso, fincar las responsabilidades que procedan de conformidad con las leyes y reglamentos aplicables;
+V. Vigilar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Estatal, de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda y patrimonio;
 
-XI. Designar y remover, previo Acuerdo del Gobernador, a los comisarios y titulares de los órganos de control de las dependencias y entidades de la administración pública estatal, así como nombrar a los auditores externos y normar y controlar su desempeño;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
-XII. Coordinar con la Auditoría Superior del Estado del Poder Legislativo, el establecimiento de los mecanismos necesarios, que les permitan cumplir mejor sus respectivas responsabilidades;
+VI. Organizar y coordinar el desarrollo administrativo integral en las dependencias y entidades de la Administración Pública Estatal, al igual que implementar la mejora regulatoria de trámites y servicios gubernamentales y emitir las normas para que los recursos humanos, patrimoniales y los procedimientos técnicos de la misma, sean aprovechados y aplicados, respectivamente, con criterios de eficacia, legalidad, eficiencia y simplificación administrativa; así como, realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias;
 
-XIII. Recibir y registrar la declaración patrimonial de los servidores públicos del Estado y Municipios, y verificar y practicar las investigaciones que fueren pertinentes de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado y demás disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
-XIV. Vigilar el cumplimiento de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas;
+VII. Conducir las políticas, establecer las normas y emitir las autorizaciones y criterios correspondientes en materia de planeación y administración de recursos humanos, contratación del personal, estructuras orgánicas y ocupacionales, de conformidad con las respectivas normas de control de gasto en materia de servicios personales; sin perjuicio de las atribuciones de la Secretaría de Administración, en lo relativo a recursos humanos;
 
-XV. Conocer e investigar los actos, omisiones o conductas de los servidores públicos que puedan implicar responsabilidad administrativa, aplicando la sanción que corresponda y, en su caso, turnarlos al Ministerio Público;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
-XVI. Intervenir, para efectos de verificación y recepción intermedia y final de las unidades administrativas de las dependencias y entidades de la administración pública estatal;
+VIII. Realizar, por sí o a solicitud de la Secretaría de Finanzas, auditorías, revisiones y evaluaciones a las dependencias y entidades de la Administración Pública Estatal, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo;
 
-XVII. Brindar asesoría y apoyo técnico a los órganos de control interno del gasto público municipal, cuando así lo soliciten;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
-XVIII. Vigilar, en la esfera de su competencia, el cumplimiento de las obligaciones de proveedores y contratistas adquiridas con el Gobierno del Estado, solicitándoles la información relacionada con las operaciones que realicen, y fincar las responsabilidades que en su caso procedan de conformidad con la Ley de Adquisiciones para la Administración Pública del Estado de Tamaulipas y sus Municipios y la Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado de Tamaulipas;
+IX. Fiscalizar directamente o a través de los órganos internos de control, que las dependencias y entidades de la Administración Pública Estatal, cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Estatal;
 
-XIX. Formular e implantar, por sí o a través de terceros, estudios y programas de mejoramiento encaminados a la modernización, simplificación, desconcentración, descentralización y desregulación administrativa de las dependencias y entidades de la administración pública estatal;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
-XX. Analizar y dictaminar las estructuras orgánico-funcionales de las dependencias y entidades públicas, en coordinación con las Secretarías de Finanzas y de Administración, para los efectos presupuestales correspondientes;
+X. Designar y remover a los auditores externos, así como normar y controlar su desempeño;
 
-XXI. Emitir las normas y lineamientos que deben observar las dependencias y entidades en la formulación de sus manuales administrativos y, en su caso, autorizar los mismos, previo acuerdo del titular del Ejecutivo;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
-XXII. Mantener una compilación actualizada de los manuales de organización, de procedimientos y de servicios al público que expidan los titulares de las dependencias;
+XI. Designar y remover para el mejor desarrollo del sistema de control y evaluación de la gestión gubernamental, a los titulares de los órganos internos de control de las dependencias y comisarios de las entidades de la Administración Pública Estatal, quienes dependerán jerárquica y funcionalmente de la Contraloría Gubernamental, asimismo, designar y remover a los titulares de las áreas de auditoría y responsabilidades de los citados órganos internos de control; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Estatales, representando al Titular de dicha Controlaría Gubernamental; así como normar y controlar su desempeño;
 
-XXIII. Difundir a través de los medios conducentes el servicio de atención a la ciudadanía de la línea 070; y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
-XXIV. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+XII. Colaborar en el marco del Sistema Estatal Anticorrupción, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+XIII. Implementar las acciones que acuerde el Sistema Estatal Anticorrupción, en términos de las disposiciones aplicables, así como planear organizar y coordinar la evaluación de desempeño de los servidores públicos;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+XIV. Informar periódicamente al Comité Coordinador del Sistema Estatal Anticorrupción, así como al Ejecutivo Estatal, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la Administración Pública Estatal, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos estatales, y promover ante las autoridades competentes, las acciones que procedan para corregir las irregularidades detectadas;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+XV. Llevar y normar el registro de servidores públicos de la Administración Pública Estatal, recibir y registrar las declaraciones patrimoniales y de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+XVI. Atender y dar seguimiento a las quejas, denuncias e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con las dependencias y entidades de la Administración Pública Estatal, y en la aplicación de recursos federales destinados y servicios destinados a obras y servicios del Estado de Tamaulipas, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+XVII. Conocer e investigar las conductas de los servidores públicos de la Administración Pública Estatal que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, por sí, o por conducto de los órganos internos de control que correspondan a cada área de la Administración Pública Estatal; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de Tamaulipas y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Estatal Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+XVIII. Establecer mecanismos internos para la Administración Pública Estatal que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+XIX. Analizar y dictaminar las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Estatal y sus modificaciones; en coordinación con las Secretarías de Finanzas y Administración, para los efectos presupuestales correspondientes;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+XX. Establecer y conducir la política general de las contrataciones públicas reguladas por la Ley de Adquisiciones para la Administración Pública del Estado de Tamaulipas y sus Municipios y la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Tamaulipas, propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez; emitir las normas, lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de dichas contrataciones públicas; proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las mencionadas leyes que realicen las dependencias y entidades de la Administración Pública Estatal y promover, con la intervención que corresponda a otras dependencias de la Administración Pública Estatal, la coordinación y cooperación con los Poderes del Estado, los órganos constitucionales autónomos, los municipios y demás entes públicos encargados de regímenes de contratación pública, a efecto de propiciar en lo procedente la homologación de políticas, normativas y criterios en materia de contrataciones públicas, que permita contar con un sistema de contrataciones públicas articulado a nivel estatal;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+XXI. Definir la política de gobierno digital, gobierno abierto y datos abiertos en el ámbito de las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+XXII. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, la política general de la Administración Pública Estatal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+XXIII. Ejercer las facultades que la Constitución local le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos estatales;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+XXIV. Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Estatal Anticorrupción, en materia de combate a la corrupción en la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+XXV. Emitir normas, lineamientos específicos y manuales que, dentro del ámbito de su competencia, integren disposiciones y criterios que impulsen la simplificación administrativa, para lo cual deberán tomar en consideración las bases y principios de coordinación y recomendaciones generales que emita el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+XXVI. Seleccionar a los integrantes de los órganos internos de control, garantizando la igualdad de oportunidades en el acceso a la función pública, atrayendo a los mejores candidatos para ocupar los puestos, a través de procedimientos transparentes, objetivos y equitativos;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+XXVII. Emitir el Código de Ética de los servidores públicos del gobierno estatal y las Reglas de Integridad para el ejercicio de la función pública;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+XXVIII. Vigilar y fiscalizar la distribución y aplicación de los recursos federales derivados de Acuerdos y Convenios, ejercidos por las dependencias y entidades de la administración pública estatal y por los municipios; e informar a la Contraloría Gubernamental, de la evaluación de los programas que involucren recursos federales, en los términos de los Acuerdos o Convenios respectivos;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+XXIX. Difundir a través de los medios conducentes el servicio de atención a la ciudadanía de la línea 070;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+XXX. Intervenir, para efectos de verificación en los procesos de entrega-recepción intermedia y final de los recursos asignados a las unidades administrativas de las dependencias y entidades de la administración pública estatal;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
+
+XXXI. Supervisar y vigilar el funcionamiento de los sistemas y procedimientos de planeación, control y evaluación de la administración pública estatal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE JUNIO DE 2017)</small>
+
+XXXII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 40 BIS.
+
+Los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal y de sus áreas de auditoría y responsabilidades, serán responsables de mantener el control interno de la dependencia o entidad a la que se encuentren adscritos. Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos. Los órganos internos de control de las entidades que cuenten con un régimen específico de control interno, se sujetarán a las funciones y organización establecidas en las disposiciones mediante las que se crea la respectiva entidad.
+
+Los órganos internos de control, en ejercicio de su función de auditoría, prevista en la fracción XXIII del artículo 40 de esta Ley, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y otras afines a la materia y por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Estatal Anticorrupción y la Controlaría Gubernamental respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias y entidades de la Administración Pública Estatal y presentación de informes por parte de dichos órganos.
+
+Las unidades encargadas de la función de auditoría de la Contraloría Gubernamental y los órganos internos de control de la Administración Pública Estatal, incorporarán en su ejercicio las normas técnicas y códigos de ética, de conformidad con la Ley del Sistema Estatal Anticorrupción y las mejores prácticas que considere el referido Sistema.
+
+Las unidades a que se refiere el párrafo anterior y los órganos internos de control, formularán en el mes de noviembre su plan anual de trabajo y de evaluación.
+
+Los titulares de las unidades encargadas de la función de auditoría de la Controlaría Gubernamental y de los órganos internos de control, en los meses de mayo y noviembre entregarán informes al titular de dicha Contraloría Gubernamental, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de la calidad y eficiencia de los distintos procesos internos y sobre la relación de los procedimientos por faltas administrativas y de sanciones aplicadas por los órganos internos de control; las acciones de responsabilidad presentadas ante el Tribunal de Justicia Administrativa del Estado de Tamaulipas y las sanciones correspondientes; las denuncias por actos de corrupción que presenten ante la Fiscalía Especializada en Combate a la Corrupción; así como un informe detallado del porcentaje de los procedimientos iniciados por los órganos internos de control que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
+
+Con base en dichos informes, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Estatal Anticorrupción, tanto las dependencias y entidades, así como la Contraloría Gubernamental, implementarán las acciones pertinentes para la mejora de la gestión.
+
+Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción, los titulares de los órganos internos de control encabezarán comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión.
 
 ### CAPÍTULO CUARTO. DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
@@ -1295,7 +1403,9 @@ La liquidación o extinción de una entidad se realizará mediante el mismo proc
 
 ###### ARTÍCULO 48.
 
-1. Para resolver los conflictos que se presenten en las relaciones laborales entre el Estado y sus trabajadores o entre los Municipios y sus trabajadores; entre los patrones y sus trabajadores; o las controversias que se susciten entre las autoridades del Estado y los particulares, existirán un Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas, Juntas Locales de Conciliación y Arbitraje, y un Tribunal Fiscal del Estado.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+1. Para resolver los conflictos que se presenten en las relaciones laborales entre el Estado y sus trabajadores o entre los Municipios y sus trabajadores; existirán un Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas y Juntas Locales de Conciliación y Arbitraje.
 
 2. Los tribunales administrativos gozarán de plena autonomía jurisdiccional para emitir sus laudos y resoluciones.
 
@@ -1307,7 +1417,15 @@ La liquidación o extinción de una entidad se realizará mediante el mismo proc
 
 2. La Secretaría del Trabajo atenderá administrativamente el funcionamiento del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas y de las Juntas Locales de Conciliación y Arbitraje.
 
-3. La Secretaría de Finanzas prestará el apoyo que requiera el tribunal competente para dirimir controversias contencioso-administrativas.
+3. (DEROGADO, P.O. 8 DE JUNIO DE 2017)
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+
+###### ARTÍCULO 50.
+
+Las relaciones entre el Ejecutivo Estatal y las entidades paraestatales, para fines de congruencia global de la Administración Pública Paraestatal con el sistema estatal de planeación y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, se llevarán a cabo en la forma y términos que dispongan las leyes, por conducto de la Secretaría de Finanzas y de la Contraloría Gubernamental, en el ámbito de sus respectivas competencias, sin perjuicio de las atribuciones que competan a la coordinadora del sector correspondiente.
+
+La Secretaría de Finanzas y la Contraloría Gubernamental, emitirán los criterios para la clasificación de las entidades paraestatales conforme a sus objetivos y actividades, en aquellas que cumplan una función institucional y las que realicen fines comerciales con el propósito de, en su caso, establecer mecanismos diferenciados que hagan eficiente su organización, funcionamiento, control y evaluación. Dichos mecanismos contemplarán un análisis sobre los beneficios y costos de instrumentar prácticas de gobierno corporativo en las entidades con fines comerciales, a efecto de considerar la conveniencia de su adopción.
 
 ## TRANSITORIOS
 
@@ -1442,6 +1560,26 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 De conformidad con el artículo 4 de la Ley de Entidades Paraestatales del Estado, la Administración Portuaria Integral de Tamaulipas, S.A. de C.V., será coordinada administrativamente por el Organismo Público Descentralizado del Gobierno del Estado, denominado Comisión de Energía de Tamaulipas.
+
+P.O. 8 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-192 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo previsto en el Decreto por el que se expide la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a la Contraloría Gubernamental, a la Secretaría de Finanzas, a la Secretaría de Administración y a las Entidades Paraestatales, para realizar las adecuaciones presupuestales, financieras, así como de recursos humanos y materiales, a efecto de dar cumplimiento a lo establecido en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La Contraloría Gubernamental, dentro de un plazo de 180 días naturales contados a partir del día siguiente de su publicación, deberá emitir las normas relativas a sus atribuciones, así como el Código de Ética de los Servidores Públicos del Gobierno Estatal.
 
 ###### ARTÍCULO ÚNICO.
 
