@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-urbano-del-estado-de-sinaloa-40761"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-01"
-last_updated: "2017-02-24"
+last_updated: "2017-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Sinaloa, el miércoles 1 de septiembre de 2004.
 
@@ -1391,7 +1391,7 @@ Los reglamentos municipales establecerán los procedimientos, requisitos y plazo
 
 La Secretaría emitirá un dictamen de impacto urbano a solicitud del Municipio atendiendo la recomendación que para el caso expida el Consejo Municipal de Desarrollo Urbano y previo al otorgamiento de las licencias, autorizaciones y permisos relativos, cuando las acciones de desarrollo urbano produzcan impactos significativos en el medio ambiente, en la estructura urbana de los centros de población, de la región o zona conurbada, en los siguientes casos:
 
-I. Las gasolineras, gaseras e instalaciones para la distribución de combustibles;
+I. (DEROGADA, P.O. 9 DE JUNIO DE 2017)
 
 II. Los depósitos y plantas de tratamiento de basura y aguas residuales;
 
@@ -1449,19 +1449,19 @@ En el ordenamiento territorial, que comprende la zonificación de las áreas y l
 
 I. Los predios para el establecimiento de gasolineras o estaciones de servicio deberán estar localizados sobre accesos a carreteras, autopistas, libramientos, vías primarias o principales, colectoras, así como en aquellos predios cuya ubicación sea compatible y conforme a los Programas Municipales de Desarrollo Urbano;
 
-II. Las estaciones de servicio con venta directa al público o de autoconsumo, cumplirán con las disposiciones en materia de protección civil, ambiental, de seguridad y demás legislación aplicable, y deberán ubicarse a una distancia de cuando menos 1,500 metros en forma radial una de otra, dentro de zona urbana, y de 5,000 metros cuando su ubicación sea áreas rurales;
+II. (DEROGADA, P.O. 9 DE JUNIO DE 2017)
 
-III. En zonas de carreteras federales la distancia entre una estación de servicio y otra deberá ser al menos de 20,000 metros radiales;
+III. (DEROGADA, P.O. 9 DE JUNIO DE 2017)
 
-IV. En zonas de carreteras vecinales y rurales la distancia entre una estación de servicio y otra deberá ser al menos de 5,000 metros radiales;
+IV. (DEROGADA, P.O. 9 DE JUNIO DE 2017)
 
 V. El predio deberá ubicarse a una distancia mínima de resguardo de 300 metros radiales de escuelas, hospitales, centros de desarrollo infantil o guarderías y de 150 metros radiales, respecto de mercados, cines, teatros, centros de culto religioso, auditorios, edificios públicos, así como en cualquier otro sitio en el que exista una concentración de cien o más personas de manera habitual;
 
 VI. El predio debe localizarse a una distancia mínima de 150 metros radiales de industrias de alto riesgo que empleen soldadura, fundición, entre otros y de comercios que empleen gas de sistema estacionario con capacidad de almacenamiento mayor de 500 litros;
 
-VII. El predio donde se pretenda ubicar la estación de servicio debe localizarse a una distancia mínima de resguardo de 1000 metros radiales con respecto a una planta de almacenamiento y distribución de combustibles, gas en cualquiera de sus formas y otras sustancias altamente flamables, tomando como referencia la bocatoma localizada dentro de dicha planta;
+VII. (DEROGADA, P.O. 9 DE JUNIO DE 2017)
 
-VIII. Los tanques de almacenamiento deberán ubicarse a una distancia mínima de resguardo de 30 metros con respecto a líneas eléctricas de alta tensión, ya sean aéreas o subterráneas, vías férreas y ductos que transporten productos derivados del petróleo, así como de gas en cualquiera de sus formas;
+VIII. (DEROGADA, P.O. 9 DE JUNIO DE 2017)
 
 IX. El predio deberá estar alejado como mínimo una distancia de 100 metros de los inmuebles de tipo habitacional más cercanos; dicha distancia se tomara a partir de la bocatoma de los tanques de la estación de servicio, al lindero más cercano del inmueble;
 
@@ -1469,9 +1469,23 @@ X. Cuando el predio en el que se pretenda instalar una estación de servicio se 
 
 XI. No podrán ubicarse estaciones de servicio dentro de las áreas consideradas como reserva ecológica; y,
 
-XII. Las demás que se consideren pertinentes a juicio de cada Ayuntamiento, en tanto no se opongan a lo establecido en los criterios normativos anteriormente relacionados.
+XII. (DEROGADA, P.O. 9 DE JUNIO DE 2017)
 
 Previo a las obras de edificación, licencia, permiso o autorización, quienes pretendan llevar a cabo los proyectos de estaciones de servicio, deberán obtener dictamen favorable de la autoridad competente en materia de protección civil y ambiental.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2017)</small>
+
+Tratándose de la reglamentación relativa a permisos para la construcción y operación de estaciones de servicio para almacenamiento y expendio de diésel y gasolinas, las autoridades municipales deberán abstenerse de:
+
+A. Imponer distancias mínimas entre estaciones de servicio cuando sea factible su construcción y operación;
+
+B. Establecer restricciones relativas a la superficie y características que debe tener el predio donde se construyan, y
+
+C. Fijar requisitos inconsistentes con la regulación federal en materia energética.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2017)</small>
+
+Para los efectos de la autorización de las licencias de construcción de estaciones de servicio que refiere el párrafo anterior, el solicitante previamente deberá acreditar de forma fehaciente ante el Ayuntamiento que se cuentan con los permisos y autorizaciones regulatorias que exijan la normatividad local y/o federal, para lo cual el Ayuntamiento solicitará de manera inmediata el dictamen que contenga la autorización en materia de impacto ambiental a la autoridad federal competente en la materia, incluyendo el análisis de riesgos de la instalación relacionado con el diseño de la misma que se expida en términos de las disposiciones jurídicas aplicables.
 
 ###### Artículo 106.
 
@@ -2784,3 +2798,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 9 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 113 QUE DEROGA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO URBANO”.]
+
+Artículo Primero. El presente Decreto de reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo. Se derogan todas las disposiciones jurídicas de igual o menor jerarquía que se opongan al presente Decreto.
+
+Artículo Tercero. Los Ayuntamientos de los Municipios del Estado deberán realizar las adecuaciones necesarias a sus reglamentos de construcciones, ordenamiento territorial y urbano, ecología y protección al ambiente, según corresponda, en un plazo no mayor a 60 días naturales, contados a partir del día siguiente al de la entrada en vigor del presente Decreto.
