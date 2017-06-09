@@ -4,7 +4,7 @@ identifier: "SIN-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-9374
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2016-12-28"
+last_updated: "2017-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 8 de abril de 2013.
 
@@ -1021,7 +1021,7 @@ XI. Almacenes, empaquetadoras de grano, empaques hortícolas, fabricación de al
 
 XII. Fábricas de muebles, parques funerarios incluyendo cremación de cuerpos, proyectos turísticos estatales localizados fuera de zonas federales;
 
-XIII. Estaciones de servicio y manejo, distribución y comercialización de combustibles líquidos y gaseosos que no sean competencia de la Federación;
+XIII. (DEROGADA, P.O. 9 DE JUNIO DE 2017)
 
 XIV. Reciclaje y procesamiento de residuos sólidos no peligrosos, fabricación de composta y humus, fabricación de productos diversos de policloruro de vinilo, almacenes y comercios de productos desinfectantes;
 
@@ -1357,7 +1357,7 @@ f) De uso público: Aquellas superficies que presentan atractivos naturales para
 
 g) De asentamientos humanos: En aquellas superficies donde se ha llevado a cabo una modificación sustancial o desaparición de los ecosistemas originales, debido al desarrollo de asentamientos humanos, previos a la declaratoria del área protegida; y
 
-h) De recuperación: Aquellas superficies en las que los recursos naturales han resultado severamente alterados o modificados, y que serán objeto de programas de recuperación y rehabilitación. En estas subzonas deberán utilizarse preferentemente para su rehabilitación, especies nativas de la región; o en su caso, (SIC)
+h) De recuperación: Aquellas superficies en las que los recursos naturales han resultado severamente alterados o modificados, y que serán objeto de programas de recuperación y rehabilitación. En estas subzonas deberán utilizarse preferentemente para su rehabilitación, especies nativas de la región; o en su caso,
 
 Artículo 255 (SIC). En toda visita de inspección se levantará acta, en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia, así como lo previsto posteriormente:
 
@@ -3304,3 +3304,13 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 9 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO: 112 POR EL QUE “DEROGA LA FRACCIÓN XIII DEL ARTÍCULO 60 DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO. Los Ayuntamientos de los Municipios del Estado deberán realizar las adecuaciones necesarias a sus reglamentos en materia de construcciones, ordenamiento territorial y urbano, ecología y protección al ambiente, según corresponda, en un plazo no mayor a 60 días naturales, contados a partir del día siguiente al de la entrada en vigor del presente Decreto.
