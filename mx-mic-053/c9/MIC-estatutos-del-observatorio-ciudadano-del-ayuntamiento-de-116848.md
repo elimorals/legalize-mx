@@ -4,7 +4,7 @@ identifier: "MIC-estatutos-del-observatorio-ciudadano-del-ayuntamiento-de-116848
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-09-26"
-last_updated: "2016-09-26"
+last_updated: "2017-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 ESTATUTOS DEL OBSERVATORIO CIUDADANO DEL H. AYUNTAMIENTO DE MORELIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2017.
 
 Estatutos publicados en la Tercera Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 26 de septiembre de 2016.
 
@@ -153,6 +153,10 @@ V. Ejercer cuantas otras funciones sean inherentes a su condición de Presidente
 
 VI. Gozar de voto calidad en caso de empate en las decisiones acordadas por la Asamblea General, en caso de ser necesario.
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2017)</small>
+
+VII. Proponer a persona que, integrante o no del Observatorio Ciudadano, ostente la representación jurídica del mismo, con aprobación de mayoría calificada de dos terceras partes de los integrantes; la misma mayoría se requiere para su remoción. La designación será por el tiempo que se establezca en el Acuerdo, o en su defecto, indeterminada.
+
 ###### ARTÍCULO 14.
 
 El presidente, convocará a las sesiones de Asamblea General al menos 1 vez al mes y tantas veces como sea necesario cuando lo estime oportuno, para ello se deberá contar con al menos la mitad de los Observadores Ciudadanos para que se consideren válidas.
@@ -174,3 +178,11 @@ Los presentes Estatutos entrarán en vigor al día siguiente de su publicación 
 ###### ARTÍCULO SEGUNDO.
 
 Los Estatutos deberán registrarse ante el Instituto Electoral de Michoacán a efecto de que instruya su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE JUNIO DE 2017.
+
+> <small>[N. DE E. TRANSITORIO POR EL QUE SE “ADICIONA LA FRACCIÓN VII AL ARTÍCULO 13 DE LOS ESTATUTOS DEL OBSERVATORIO CIUDADANO EL AYUNTAMIENTO DE MORELIA, MICHOACAN”.]</small>
+
+ÚNICO. La presente reforma entra en vigor al momento de su aprobación.
