@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-agropecuario-rural-y-sustentable-de-la-84078"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-08"
-last_updated: "2014-04-09"
+last_updated: "2017-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84078&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-12-07"
 
 LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de diciembre de 2011.
 
@@ -252,11 +252,15 @@ e) Resistir contra la opresión y a recurrir a la acción pacífica directa para
 
 El Gobierno del Distrito Federal, a través de la Secretaría, es responsable de la aplicación de las disposiciones contenidas en la presente Ley, con la excepción de aquellas que de manera expresa estén facultadas al Jefe de Gobierno o, en su caso, a otras entidades y dependencias de la administración pública del Distrito Federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2017)</small>
+
 ###### Artículo 6º.
 
-Son atribuciones de la Secretaría el despacho de las materias relativas al desarrollo y regulación de las actividades agrícolas, forestales y del sector agropecuario establecidas en la Ley Orgánica de la Administración Pública del Distrito Federal, además de las siguientes:
+Son atribuciones de la Secretaría el despacho de las materias relativas al desarrollo rural sustentable y la regulación de las actividades y prácticas agroecológicas en materia agropecuaria, piscícola y forestal del sector primario establecidas en la Ley Orgánica de la Administración Pública del Distrito Federal, además de las siguientes:
 
-I. Formular, conducir, coordinar, ejecutar y evaluar las políticas y programas en materia de desarrollo agropecuario y rural, así como las que le correspondan en materia de fomento y cultura alimentaria;
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2017)</small>
+
+I. Formular, conducir, coordinar, ejecutar y evaluar las políticas y programas en materia de desarrollo rural sustentable del sector agropecuario, así como las que le correspondan en materia de fomento, consumo y cultura agroalimentaria, en concordancia con el Programa General de Ordenamiento Ecológico y el Programa General de Desarrollo Urbano;
 
 II. Declarar espacios para la conservación rural;
 
@@ -278,7 +282,9 @@ X. Propiciar el desarrollo de proyectos de agricultura en la zona urbana;
 
 XI. Fomentar y apoyar proyectos de traspatios familiares sustentables;
 
-XII. Recuperar espacios para el desarrollo de actividades agropecuarias y rurales;
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2017)</small>
+
+XII. Recuperar espacios rurales ociosos para el desarrollo sustentable de las actividades agropecuarias y rurales.
 
 XIII. Fomentar y apoyar proyectos productivos para la mujer rural y coordinarse con la Secretaría de Gobierno para el impulso de la parcela de la mujer;
 
@@ -302,7 +308,19 @@ XXII. Crear espacios y módulos para las buenas prácticas agrícolas y su desar
 
 XXIII. Coordinar las acciones que las delegaciones implanten en materia de desarrollo agropecuario y rural; y
 
-XXIV. Las demás que esta Ley y otros ordenamientos jurídicos le establezcan.
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2017)</small>
+
+XXIV. Promover y fomentar mecanismos e instrumentos de política pública mediante un sistema de agricultura sustentable, con prácticas agroecológicas amigables con el medio ambiente, para la preservación y conservación del recurso suelo;
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2017)</small>
+
+XXV. Promover y fomentar medidas de remediación de los recursos naturales productivos de los agroecosistemas degradados para restaurar y conservar su potencial productivo;
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2017)</small>
+
+XXVI. Instrumentar mecanismos para la producción agroecológica y sistemas de certificación de producción orgánica, que protejan los recursos productivos como son los suelos, el manto freático y la producción de (sic) agroalimentaria, mediante el uso de insumos biológicos, ecotecnias y energías alternativas; y
+
+XXVI (SIC). Las demás que esta Ley y otros ordenamientos jurídicos le establezcan.
 
 El Reglamento establecerá las especificidades para el cumplimiento de estas atribuciones, en aquellas materias que no estén suficientemente reguladas en esta ley.
 
@@ -370,7 +388,9 @@ III. El impulso prioritario del desarrollo productivo-económico y social de las
 
 IV. La contribución a la soberanía y seguridad alimentarias, mediante el impulso de la producción agropecuaria del Distrito Federal;
 
-V. El fomento de la conservación de la biodiversidad, los recursos filogenéticos para la agricultura y la alimentación, y el mejoramiento de la calidad de los recursos naturales, mediante su protección y aprovechamiento sustentable; y (sic)
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2017)</small>
+
+V. El fomento de la conservación del suelo, del agua, de la biodiversidad, los recursos filogenéticos para la agricultura y la alimentación, y el mejoramiento de la calidad de los recursos naturales, mediante su protección y aprovechamiento sustentable;
 
 VI. La valoración de las diversas funciones económicas, ambientales, sociales y culturales de las diferentes manifestaciones de la agricultura en el Distrito Federal.
 
@@ -410,13 +430,17 @@ En la planificación del desarrollo del Distrito Federal se deberá incorporar l
 
 En la planificación y realización de las acciones a cargo de las dependencias y entidades de la administración pública, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las leyes confieran a la Secretaría para regular, promover, restringir, prohibir, orientar y en general inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política agropecuaria y rural que establezca el Programa General de Desarrollo del Distrito Federal y los programas correspondientes.
 
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2017)</small>
+
 ###### Artículo 17.
 
-La Secretaría promoverá la participación del Consejo Rural en la elaboración de los programas que tengan por objeto el desarrollo agropecuario y rural, según lo establecido en esta Ley, el Reglamento y las demás disposiciones jurídicas aplicables.
+La Secretaría promoverá la participación del Consejo Rural en la elaboración de los programas de desarrollo rural sustentable que tengan por objeto el desarrollo agropecuario y rural, según lo establecido en esta Ley, el Reglamento, la Ley Ambiental de Protección a la Tierra en el Distrito Federal y las demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2017)</small>
 
 ###### Artículo 18.
 
-Para la planificación del desarrollo agropecuario y rural la Secretaría formulará, ejecutará y evaluará el Programa de Desarrollo Agropecuario y Rural de la Ciudad de México, mismo que cumplirá con los requisitos establecidos en la Ley de Planeación del Distrito Federal en materia de programas institucionales.
+Para la planificación del desarrollo rural sustentable del sector agropecuario, piscícola y forestal la Secretaría formulará, ejecutará y evaluará el Programa de Desarrollo Agropecuario y Rural de la Ciudad de México, mismo que cumplirá con los requisitos establecidos en la Ley de Planeación del Distrito Federal en materia de programas institucionales, así como la normativa establecida en el Programa General de Ordenamiento Ecológico y el Programa General de Desarrollo Urbano;
 
 Este programa se integrará y publicará en la Gaceta Oficial en un período máximo de seis meses después de la expedición del Programa General de Desarrollo del Distrito Federal, para lo cual el Ejecutivo establecerá las previsiones presupuestarias necesarias para su instrumentación.
 
@@ -446,9 +470,19 @@ La Secretaría, con la participación que corresponda del Consejo Rural, deberá
 
 El suelo rural es el espacio dentro del territorio del Distrito Federal, destinado a la producción agropecuaria, forestal, acuacultura y agroindustrial tales como las señaladas en la fracción XI del artículo 15 de esta ley. La categoría de suelo rural deberá incorporarse progresivamente en los programas de desarrollo urbano y ecológico, en los casos que sea procedente.
 
+REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2017)
+
 ###### Artículo 24.
 
-Las Secretarías de Desarrollo Urbano y Vivienda y del Medio Ambiente podrán solicitar la colaboración de la Secretaría, con opinión de las delegaciones plíticas (sic), en la planificación, formulación, evaluación y seguimiento de los programas de ordenación territorial en materias relacionadas al suelo rural, así como con su participación en los consejos, comités e instrumentos análogos que se conformen para tal fin.
+La Secretaría enviará a las Secretarías de Desarrollo Urbano y Vivienda y del Medio Ambiente su opinión y la de las delegaciones políticas sobre la planificación, formulación, evaluación y seguimiento de los programas de ordenamiento ecológico y territorial en las materias relacionadas a la agricultura en suelo conservación y urbano, así como con su participación en los consejos, comités e instrumentos análogos que se conformen para tal fin.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2017)</small>
+
+Dicha opinión será valorada e incluida en los Programas de ordenamiento ecológico y territorial, con el fin de preservar y conservar las tradiciones, las culturas, el conocimiento productivo tradicional, la diversidad y calidad del suelo.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2017)</small>
+
+Asimismo, la Secretaría recibirá opiniones de la Secretaría del Medio Ambiente, de la Secretaría de Desarrollo Urbano y Vivienda, y de la Procuraduría Ambiental y del Ordenamiento Territorial, para asegurar la armonía con el Programa General de Ordenamiento Ecológico y el Programa General de Desarrollo Urbano.
 
 ###### Artículo 25.
 
@@ -478,9 +512,11 @@ La Secretaría, en coordinación con las autoridades competentes, fomentará inv
 
 La Secretaría propondrá la asignación de estímulos fiscales a las acciones de producción, reconversión, industrialización e inversión que se realicen en el medio rural en el marco de las disposiciones de la presente Ley y la normatividad aplicable.
 
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2017)</small>
+
 ###### Artículo 30.
 
-Para el fomento de las actividades agropecuarias y económicas del medio rural del Distrito Federal, la Secretaría podrá proponer que se otorguen estímulos fiscales y apoyos a la inversión, reconversión productiva, producción, comercialización e industrialización.
+Para el fomento de la agricultura ecológica y la certificación de la producción orgánica y la agricultura sustentable de la Ciudad de México, la Secretaría podrá proponer que se otorguen estímulos fiscales y apoyos a la inversión, reconversión productiva, producción, certificación, comercialización e industrialización.
 
 ###### Artículo 31.
 
@@ -516,7 +552,9 @@ La información que se integre se considera de interés público y general, por 
 
 Para fomentar la permanencia e incremento de los espacios para el cultivo y producción agropecuaria, así como para conservar geomorfositios y culturales para el desarrollo rural, la Secretaría, con la participación de los sujetos de esta Ley y la que corresponda del Consejo Rural, declarará espacios para la conservación rural con el objetivo de mantener los espacios rurales y el desarrollo de las manifestaciones culturales, bajo las siguientes categorías:
 
-I. Espacios permanentes de producción agropecuaria y rural;
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2017)</small>
+
+I. Espacios permanentes de producción sustentable en materia agropecuaria y rural sustentable;
 
 II. Vías pecuarias; y
 
@@ -536,9 +574,11 @@ En la recuperación de espacios rurales ocupados por asentamientos irregulares e
 
 ### Capítulo VIII. De los Recursos Genéticos para la Agricultura y la Alimentación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2017)</small>
+
 ###### Artículo 38.
 
-La Secretaría promoverá un enfoque integrado de la prospección, conservación y utilización sustentable de los recursos fitogenéticos para la alimentación y la agricultura y en particular:
+La Secretaría promoverá un enfoque integrado de la prospección, conservación, con aplicación del conocimiento tradicional para la utilización sustentable de los recursos fitogenéticos para la alimentación y la agricultura y en particular:
 
 I. Realizará estudios e inventarios de los recursos fitogenéticos para la alimentación y la agricultura, teniendo en cuenta la situación y el grado de variación de las poblaciones existentes, incluso los de uso potencial y, cuando sea viable, evaluará cualquier amenaza para ellos;
 
@@ -593,6 +633,10 @@ I. La agricultura urbana;
 II. Los traspatios familiares sustentables;
 
 III. El cultivo, producción, rescate, conservación, transformación, implementación tecnológica e investigación de la herbolaria.
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2017)</small>
+
+IV. Protección al suelo y al manto freático.
 
 Los proyectos que la Secretaría apoye en este sentido serán de carácter prioritario en el ejercicio de la población en su derecho a la alimentación.
 
@@ -843,3 +887,11 @@ El Gobierno del Distrito Federal emitirá las reglas para la constitución y ope
 ###### ARTÍCULO TERCERO.
 
 Publíquese el presente Decreto en el Diario Oficial de la Federación, para su mayor difusión.
+
+G.O. 9 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrara en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El Jefe de Gobierno del Distrito Federal deberá hacer las adecuaciones necesarias a través de sus áreas correspondientes, a la normatividad reglamentaria aplicable dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto.
