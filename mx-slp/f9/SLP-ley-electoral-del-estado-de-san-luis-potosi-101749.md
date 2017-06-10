@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-101749"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2017-05-31"
+last_updated: "2017-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 30 de junio de 2014.
 
@@ -33,7 +33,9 @@ DECRETO 613
 
 La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí Decreta
 
-EXPOSICIÓN DE MOTIVOS…
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 ÚNICO. Se expide la Ley Electoral del Estado de San Luis Potosí, para quedar como sigue:
 
@@ -401,7 +403,9 @@ El Estado, los ciudadanos y los partidos políticos son responsables de la prepa
 
 El Consejo Estatal Electoral y de Participación Ciudadana, es el organismo público, de carácter permanente, autónomo en su funcionamiento e independiente en sus decisiones, dotado de personalidad jurídica y patrimonio propios, autoridad electoral en el Estado en los términos previstos en la Constitución Federal, la Constitución del Estado, la Ley General de Instituciones y Procedimientos Electorales, y la presente Ley. Será profesional en su desempeño y se regirá por los principios de certeza, imparcialidad, independencia, legalidad, equidad, máxima publicidad y objetividad.
 
-El Consejo así mismo tendrá a su cargo, la preparación, desarrollo, calificación y vigilancia de las consultas ciudadanas en el Estado, de conformidad con la ley respectiva.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2017)</small>
+
+El Consejo a su cargo los entos(sic) del Estado, Unto (sic) San Luis Pote (sic) refiere el artpacier (sic) dejo de incertidumbre y sospechocismo (sic) en la integracitendrá (sic) a su cargo la preparación, desarrollo, calificación y vigilancia de las consultas ciudadanas en el Estado, de conformidad con la ley respectiva. Así mismo, con los ayuntamientos del Estado tendrá a su cargo los procesos de elección e integración de los organismos de participación ciudadana municipales, de conformidad con la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí, y los reglamentos respectivos.
 
 El Consejo contará con los recursos presupuestarios, técnicos, humanos y materiales que requiera para el ejercicio directo de sus facultades y atribuciones.
 
@@ -661,7 +665,9 @@ f) Convenir, por sí, o a través de las comisiones distritales, y los comités 
 
 g) Orientar a los organismos electorales sobre la aplicación de esta Ley y demás disposiciones aplicables.
 
-h) Proporcionar, previo convenio, a los ayuntamientos que expresamente lo soliciten, el apoyo logístico, operativo y material para realizar los procesos de elección para la integración de los organismos de participación ciudadana a que se refieren tanto la Ley Orgánica del Municipio Libre del Estado y demás disposiciones legales aplicables, así como para hacerse cargo de esos procesos.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2017)</small>
+
+h) Proporcionar a los ayuntamientos el apoyo logístico, operativo y material para realizar los procesos de elección para la integración de los organismos de participación ciudadana a que se refieren la Ley Orgánica del Municipio Libre del Estado y demás disposiciones legales aplicables, así como hacerse cargo de esos procesos.
 
 i) Fomentar permanentemente, a través de los eventos que estime pertinentes, el desarrollo de la cultura cívico-democrática, así como establecer mecanismos para hacer acopio de inquietudes ciudadanas en materia político-electoral, y
 
@@ -6074,3 +6080,13 @@ P.O. 31 DE MAYO DE 2017.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0658.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 31, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 102 BIS, Y 102 TER, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMAN LOS ARTÍCULOS 30 EN SU PÁRRAFO SEGUNDO Y 44 EN SU FRACCIÓN IV EN INCISO H) DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente en que se declare la procedencia de la reforma Constitucional, que modifica el párrafo primero del artículo 31, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí. Previa publicación en el Periódico Oficial del Estado "Plan de San Luis"
+
+SEGUNDO. Dentro de los sesenta días naturales posteriores a la entrada en vigor del presente Decreto, el Consejo Estatal Electoral y de Participación Ciudadana deberá expedir o reformar los reglamentos o disposiciones administrativas respectivas.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
