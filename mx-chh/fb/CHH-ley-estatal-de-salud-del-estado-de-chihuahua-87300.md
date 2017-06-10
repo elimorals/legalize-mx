@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2017-04-01"
+last_updated: "2017-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -819,6 +819,8 @@ La prestación de servicios de salud a los escolares, se efectuará de conformid
 
 ### CAPÍTULO IX. ATENCIÓN A LA SALUD DE LA MUJER
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2017)</small>
+
 ###### Artículo 73.
 
 Se reconoce el derecho de los menores al disfrute del más alto nivel posible de salud y servicios para el tratamiento de enfermedades y la rehabilitación.
@@ -847,7 +849,7 @@ IX.- La atención de los problemas en el área de la comunicación humana y de l
 
 ###### Artículo 74.
 
-La atención a la salud de la mujer, comprende principalmente acciones de prevención y control en materia de:
+La protección de la salud de las mujeres, comprende principalmente acciones de promoción, prevención, detección, tratamiento, rehabilitación y control en materia de:
 
 I.- Cáncer cérvico-uterino.
 
@@ -855,9 +857,25 @@ II.- Cáncer mamario.
 
 III.- Climaterio y Menopausia.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2017)</small>
+
+Para garantizar el derecho a la salud de las mujeres, la Secretaría dispondrá lo necesario para contar con la infraestructura suficiente, el personal especializado y el equipamiento requerido para atender las necesidades de atención y control de los padecimientos oncológicos. Además elaborará los protocolos para la prevención, detección y diagnóstico oportuno de cáncer cérvico-uterino y el cáncer de mama.
+
 ###### Artículo 75.
 
 La Secretaría, en coordinación con las instituciones del sector salud, fomentará y desarrollará programas con acciones de promoción, prevención, tratamiento y rehabilitación para atender la salud de la mujer, de manera integral, de acuerdo a las normas oficiales establecidas.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2017)</small>
+
+###### Artículo 75 Bis.
+
+Las autoridades sanitarias, en coordinación con el Desarrollo Integral de la Familia, las Secretarías de Desarrollo Social, de Educación y Deporte, y del Trabajo y Previsión Social del Estado, en sus respectivos ámbitos de competencia, promoverán, establecerán y apoyarán:
+
+I. Los programas educativos, destinados a la protección de la salud de las mujeres.
+
+II. Las bases de coordinación con las dependencias del Gobierno Federal y Municipal, que permitan elevar la calidad de atención a la salud de las mujeres, y a sus familiares con problemas oncológicos.
+
+III. La integración de un sistema de información, que contenga los datos necesarios que permitan brindar un seguimiento oportuno a las mujeres con problemas oncológicos.
 
 ### CAPÍTULO XI. SALUD MENTAL
 
@@ -3728,6 +3746,14 @@ El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o 
 P.O. 1 DE ABRIL DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFLEY/0277/2017 III P.E., MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 219 DE LA LEY ESTATAL DE SALUD".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2017
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0310/2017 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 74, PÁRRAFO PRIMERO Y SE ADICIONA UN SEGUNDO PÁRRAFO AL MISMO, ASÍ COMO UN ARTÍCULO 75 BIS A LA LEY ESTATAL DE SALUD”.]
 
 ###### ARTÍCULO ÚNICO.
 
