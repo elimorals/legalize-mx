@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-civiles-para-el-estado-de-baja-11601"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-05-23"
-last_updated: "2017-03-20"
+last_updated: "2017-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JUNIO DE 2017.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 23 de mayo de 1997.
 
@@ -369,6 +369,26 @@ Las actuaciones judiciales y los ocursos deberán escribirse en español. Los do
 
 Todas las promociones de las partes deben ser firmadas por éstas o por sus representantes legales. Cuando el promovente no sepa o no pueda firmar, estampará su huella digital, firmando otra persona en su nombre y a su ruego, indicando estas circunstancias; asimismo, las promociones deberán tener la debida identificación de litigio al que se dirigen, sin cuyo, requisito no se les dará el trámite correspondiente, hasta en tanto no se proporcionen dichos datos de identificación.
 
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Artículo 55 BIS. Con excepción de la demanda inicial y la contestación, las partes podrán solicitar al juzgador presentar promociones y ser notificados a través del Tribunal Electrónico, por si o por su representante o mandatario autorizado en el expediente, a través de la página web oficial del Poder Judicial del Estado.
+
+Las partes que opten por utilizar el sistema del Tribunal Electrónico podrán presentar promociones indistintamente en forma electrónica o tradicional; sin embargo, en este supuesto, las notificaciones personales se harán electrónicamente, conforme a lo previsto por el artículo 127 BIS de este código. En tanto las partes no hayan solicitado la autorización a que se refiere el párrafo anterior se entenderá que optan por promover y ser notificados en la forma tradicional.
+
+La parte que, habiendo optado por el Tribunal Electrónico para promover y recibir notificaciones personales, posteriormente elija utilizar exclusivamente la vía tradicional deberá manifestarlo expresamente al juzgador para que se acuerde lo conducente. En cualquier caso, los requisitos de forma exigidos por este Código y demás disposiciones, deberán ser igualmente satisfechos, con excepción de la firma autógrafa que en los supuestos de promociones electrónicas será reemplazada por la Firma Electrónica Certificada del promovente.
+
+La autorización, así como lo relativo al envío de promociones y notificaciones a través del Tribunal Electrónico, se ajustará a lo establecido en el Reglamento que para tal efecto se expida por el Consejo de la Judicatura.
+
+Cuando se requiera la firma de la parte interesada, la de su representante o mandatario autorizado, bastará que la promoción electrónica tenga inserta la Firma Electrónica Certificada de la parte interesada o de la persona autorizada legalmente para ello, con lo cual se tendrá por cumplido dicho requisito.
+
+Además de la promoción electrónica, las partes podrán anexar documentos digitalizados que originariamente constan en papel, así como cualesquiera de los medios de prueba a que se refiere el artículo 286 de este Código, cuya naturaleza así lo permita.
+
+Cuando por las singulares características de un documento u otro anexo, el sistema no permita su incorporación adjunta para su envío en forma electrónica, las partes, según sea el caso, deberán presentar la promoción y sus anexos en la forma tradicional, por escrito, ante el órgano correspondiente del Poder Judicial.
+
+Las promociones electrónicas y sus anexos, deberán estar siempre signadas a través de la Firma Electrónica Certificada de quien promueve.
+
+Las partes tendrán la obligación de presentar físicamente los documentos o medios de prueba que electrónicamente hayan remitido al órgano jurisdiccional, dentro de los tres días hábiles siguientes a aquél en que se realizó la remisión electrónica.
+
 ###### Artículo 56.
 
 En las actuaciones judiciales no se emplearán abreviaturas ni se rasparán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose al fin, con toda precisión el error cometido.
@@ -429,6 +449,10 @@ Son horas hábiles las comprendidas entre las siete y las diecinueve horas.
 
 En los juicios sobre alimentos, impedimentos de matrimonio, servidumbres legales, interdictos posesorios, diferencias domésticas, y los demás que determinen las leyes, no hay días ni horas inhábiles. En los demás casos, el juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
 
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Las promociones que se presenten por las partes a través del Tribunal Electrónico en los días u horas inhábiles, se tendrán por recibidas al momento hábil siguiente, exceptuándose de lo anterior, las promociones sujetas a término en las cuales se tendrá como fecha y hora de recepción, la del sello electrónico, que se genera al presentar las promociones con la Firma Electrónica Certificada.
+
 ###### Artículo 64.
 
 Las copias simples de los documentos que se presenten, confrontadas y autorizadas por el secretario, correrán en los autos, quedando los originales en el tribunal, donde podrá verlos la parte contraria, si lo pidiere.
@@ -451,11 +475,19 @@ Los servidores públicos encargados de la recepción de escritos y documentos en
 
 En el caso de comprobarse la realización de cualquier acción tendiente a burlar el turno establecido en las oficialías de partes comunes, una vez presentado un escrito por el cual se inicie un procedimiento, ya sea exhibiendo varios de éstos para elegir el juzgado que convenga, o desistiéndose de la instancia más de una vez, sin acreditar la necesidad de hacerlo, o cualquier acción similar, la parte promovente y sus abogados patronos se harán acreedores, solidariamente, a una multa que no será menor de quince ni mayor de noventa veces el valor diario de la Unidad de Medida y Actualización y que será impuesta por el Presidente del Tribunal Superior de Justicia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JUNIO DE 2017)</small>
+
 ###### Artículo 66.
 
-El secretario dará cuenta con los escritos presentados, a más tardar dentro de las veinticuatro horas de su presentación, bajo la pena de cubrir por concepto de multa, en caso de incumplimiento, el importe de un día de salario que perciba sin perjuicio de las demás que merezca conforme a las leyes.
+El secretario dará cuenta con las promociones que reciba por escrito o electrónicamente, a más tardar dentro de las veinticuatro horas de su presentación. En el caso de las recibidas de forma electrónica, deberá imprimirlas para que, una vez acordadas, sean agregadas al expediente; bajo la sanción de cubrir por concepto de multa, en caso de incumplimiento, el importe equivalente a doce veces el valor diario de Unidad de Medida y Actualización, sin perjuicio de las demás que merezca conforme a las leyes.
 
-Los secretarios cuidarán de que las promociones originales o en copias sean claramente legibles y de que los expedientes sean exactamente foliados, al agregarse cada una de las hojas; rubricarán todas éstas en el centro de los escritos y pondrán el sello oficial en el fondo del cuaderno, de manera que queden selladas las dos caras, bajo la pena de cubrir por concepto de multa, en caso de incumplimiento, el importe hasta de tres días del salario que perciba.
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Los secretarios cuidarán de que las promociones originales o en copias sean claramente legibles y de que los expedientes sean exactamente foliados, al agregarse cada una de las hojas; rubricarán todas éstas en el centro de los escritos y pondrán el sello oficial en el fondo del cuaderno, de manera que queden selladas las dos caras, bajo la sanción de cubrir por concepto de multa, en caso de incumplimiento, el importe hasta treinta y seis veces el valor diario de Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Los Secretarios vigilarán que las fojas en las que consten los acuerdos y todo tipo de resoluciones emitidas por el juzgador estén debidamente identificados con el número de expediente y las partes que intervienen en él.
 
 ###### Artículo 67.
 
@@ -471,15 +503,23 @@ En ningún caso se entregarán los autos a las partes para que los lleven fuera 
 
 Los autos que se perdieren serán repuestos a costa del que fuere responsable de la pérdida, quien además pagará los daños y perjuicios, quedando sujeto a las disposiciones del Código Penal.
 
-La reposición se substanciará incidentalmente y sin necesidad de acuerdo judicial; el secretario hará constar desde luego la existencia anterior y falta posterior del expediente.
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
 
-Quedan los jueces facultados para investigar de oficio la existencia de las piezas de autos desaparecidos, valiéndose para ello de todos los medios que no sean contrarios a la moral o al derecho.
+La reposición se substanciará incidentalmente, el secretario hará constar desde luego la existencia anterior y falta posterior del expediente.
+
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Quedan los jueces facultados para investigar de oficio la existencia de las piezas de autos desaparecidos, incluyendo los registros que consten en el Expediente Electrónico, valiéndose para ello de todos los medios que no sean contrarios a la moral o al derecho, incluyendo los registros que consten en el Expediente Electrónico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JUNIO DE 2017)</small>
 
 ###### Artículo 70.
 
-El tribunal está obligado a expedir, a costa del solicitante, copia simple o fotostática de los documentos o resoluciones que obren en autos, bastando que la parte interesada lo solicite verbalmente, sin que se requiera decreto judicial, dejando constancia en autos de su recepción.
+El tribunal está obligado a expedir, a costa del solicitante, copia simple de los documentos o resoluciones que obren en el expediente, bastando que la parte interesada lo solicite verbalmente, sin que se requiera decreto judicial, dejando constancia en autos de su recepción.
 
-Para obtener copia certificada de cualquier documento que obre en juicio, la parte interesada debe solicitarlo en comparecencia o por escrito, requiriéndose auto judicial; cuando se pidiere copia y testimonio de parte de un documento o pieza, sólo se expedirá conforme a lo dispuesto por el artículo 322 de este Código. Cuando la parte interesada solicite copia certificada de uno o varios documentos completos, en ningún caso se dará vista a la contraria. Al entregarse las copias certificadas, el que las reciba debe dejar razón y constancia de su recibo.
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Para obtener copia certificada de cualquier documento que obre en juicio, la parte interesada debe solicitarlo en comparecencia, por escrito o en promoción electrónica, requiriéndose auto judicial; cuando se pidiere copia y testimonio de parte de un documento o pieza, sólo se expedirá conforme a lo dispuesto por el artículo 322 de este Código. Cuando la parte interesada solicite copia certificada de uno o varios documentos completos, en ningún caso se dará vista a la contraria. Al entregarse las copias certificadas, el que las reciba debe dejar razón y constancia de su recibo.
 
 Para obtener copia o testimonio de cualquier documento que se encuentre en archivos o protocolos que no estén a disposición del público, aquél que pretenda lograrlo y carezca de legitimación en el acto contenido en el documento requiere de auto judicial, que no se dictará sino con conocimiento de causa y audiencia de parte, procediéndose incidentalmente, en caso de oposición.
 
@@ -687,6 +727,10 @@ III.- Las actuaciones cuya práctica se intenta, y
 
 IV.- El término o plazo en que habrán de practicarse las mismas.
 
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Cuando el exhorto deba ser diligenciado por un órgano jurisdiccional del Poder Judicial del Estado o perteneciente a otro Poder Judicial del País, con el que institucionalmente se hubiere convenido el envío electrónico del exhorto, la parte interesada podrá solicitar que su envío se realice a través de la Comunicación Procesal Electrónica y asumirá la obligación de hacer el pago de derechos por las impresiones que, en su caso, el Juez exhortado vaya a realizar para el debido cumplimiento de la encomienda.
+
 ###### Artículo 105.
 
 En los despachos y exhortos no se requiere la legalización de las firmas del tribunal que los expida, a menos que la exija el tribunal requerido, por ordenarla la ley de su jurisdicción, como requisito para obsequiarlos.
@@ -723,9 +767,27 @@ Las notificaciones, citaciones y emplazamientos se efectuarán dentro de los tre
 
 Para los anteriores efectos, se llevará un registro diario de los expedientes que se les entreguen, debiendo recibirlos bajo su firma y directamente del secretario de acuerdos, a quien se le devolverán dentro del plazo señalado.
 
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
+
 ###### Artículo 110.
 
-Las notificaciones se harán personalmente, por cédula, por el Boletín Judicial, en los términos de los artículos 122 y 124, por edictos, por correo, por telégrafo y por vía telefacsimilar, en este último caso a petición de parte interesada, de acuerdo con lo que se dispone en los artículos siguientes.
+Las notificaciones se harán:
+
+I.- Personalmente;
+
+II.- Por cédula;
+
+III.- Por medio de la lista de acuerdos de los órganos jurisdiccionales;
+
+IV.- Por lista digital de acuerdos publicada en la página oficial de Internet del Poder Judicial del Estado, en los términos de los artículos 122, 124 y 125;
+
+V.- Por edictos;
+
+VI.- Por correo certificado;
+
+VII.- Por telégrafo; y
+
+VIII.- Por correo electrónico mediante el sistema del Tribunal Electrónico del Poder Judicial del Estado, cuando la parte a notificar haya solicitado autorización para presentar promociones electrónicas, en este último caso a petición de parte interesada, de acuerdo con lo que se dispone en los artículos siguientes.
 
 ###### Artículo 111.
 
@@ -733,11 +795,31 @@ Todos los litigantes, en el primer escrito o en la primera diligencia judicial, 
 
 De la misma manera deben designar el domicilio en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan.
 
-Cuando un litigante no cumpla con lo prevenido en el primer párrafo de este artículo, las notificaciones, aún las que, conforme a las reglas generales deban hacerse personalmente, se le harán por el Boletín Judicial o por cédula fijada en los estrados del juzgado en los lugares en donde no se publique el Boletín Judicial; si se faltare a la dispuesto en el segundo párrafo, no se hará notificación alguna a la persona contra quien promueva hasta que se subsane la omisión.
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Cuando un litigante no cumpla con lo previsto en el párrafo anterior, las notificaciones, aun las que conforme a las reglas generales deban hacerse personalmente, se le harán indistintamente por medio de la lista digital de acuerdos publicada en la página oficial de Internet del Poder Judicial del Estado y de la lista de acuerdos de los órganos jurisdiccionales, no obstante, en aquellos lugares donde no se cuente con servicio de internet o este se vea interrumpido, se hará solamente a través de la lista de acuerdos de los órganos referidos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JUNIO DE 2017)</small>
 
 ###### Artículo 112.
 
-Entre tanto que un litigante no hiciere nueva designación del domicilio en donde se tengan que practicar las diligencias y las notificaciones personales, seguirán haciéndosele en el que para ello hubiere designado. En caso de no existir dicho domicilio, de resultar inexacto o de negativa a recibirlas en el señalado, le surtirán efectos por el Boletín Judicial, y en los lugares donde no se publique éste, por cédula fijada en los estrados del juzgado.
+Cuando un litigante no hiciere nueva designación del domicilio en donde se tengan que practicar las diligencias y las notificaciones personales, seguirán haciéndosele en el que para ello hubiere designado.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+En caso de no existir dicho domicilio, de resultar inexacto o de negativa a recibirlas en el señalado, el notificador deberá hacer constar en autos, una u otra circunstancia, para que al buscado le surtan efectos las notificaciones subsecuentes por medio de la lista de acuerdos de los órganos jurisdiccionales y de la lista digital de acuerdos publicada en la página oficial de Internet del Poder Judicial del Estado, y en los lugares donde no se cuente con servicio de Internet o este se vea interrumpido, solamente por medio de la lista de acuerdos de los órganos referidos.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Se considerará como negativa a recibir una notificación, que en el domicilio señalado para oír y recibir notificaciones no se atienda el requerimiento para realizar la diligencia, y así lo haga constar el actuario o a quien se hubiese instruido para realizar la notificación, cuando menos en dos ocasiones en que se hubiese presentado al domicilio señalado, para tal efecto, la segunda notificación deberá practicarse en un horario hábil distinto a aquel en que se practicó la primera.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+En el caso de que en la segunda ocasión en que el actuario se constituya, dentro de horas hábiles, en el domicilio señalado para oír y recibir notificaciones, y no encontrare con quien entender la diligencia, se procederá a notificar por medio de la lista de acuerdos de los órganos jurisdiccionales y de la lista digital de acuerdos publicada en la página oficial de Internet del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Los jueces o magistrados tendrán obligación de cerciorarse de oficio de que la diligencia de segunda notificación se hizo de acuerdo con las reglas establecidas en este artículo y de que la diferencia de horarios de la primera y segunda notificación pudo razonablemente permitir encontrar al buscado, sus autorizados o persona con quien entender la diligencia, además tendrán facultades para mandar reponer la notificación irregularmente hecha, imponiéndole una corrección disciplinaria al actuario cuando aparezca responsable.
 
 ###### Artículo 113.
 
@@ -745,17 +827,27 @@ Será notificado personalmente en el domicilio señalado por los litigantes:
 
 I. El emplazamiento del demandado, y siempre que se trate de la primera notificación en el procedimiento, de diligencias preparatorias o de jurisdicción voluntaria en que se deba hacer saber de las mismas a la otra parte;
 
+> <small>(ADICIONADA, B.O. 10 DE JUNIO DE 2017)</small>
+
+I BIS. El auto que abre el juicio a prueba;
+
 II. El auto que ordena la absolución de posiciones o reconocimiento de documentos;
 
 III. La primera resolución que se dicte cuando se dejare de actuar por más de seis meses por cualquier motivo;
 
 IV. Cuando se estime que se trata de un caso urgente y así se ordene;
 
-V. El requerimiento de un acto a la parte que deba cumplirlo;
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2017)</small>
+
+V. El proveído que entrañe una prevención al escrito de demanda, así como el requerimiento de un acto a la parte que deba cumplirlo;
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 VI. Las sentencias definitivas dictadas en primera y segunda instancia;
+
+> <small>(ADICIONADA, B.O. 10 DE JUNIO DE 2017)</small>
+
+VI BIS. El acuerdo dictado en segunda instancia que fija plazo para la expresión de agravios;
 
 VII. La sentencia que condene al arrendatario de casa habitación a desocuparla y la resolución que decrete su ejecución, y
 
@@ -779,7 +871,9 @@ La cédula contendrá: mención del juicio de que se trate y la inserción del a
 
 En los juicios de divorcio, nulidad de matrimonio, pérdida de patria potestad o cualquier otro juicio en que el domicilio de la actora y el demandado sea común, la notificación sólo podrá hacerse en dicho domicilio si se entiende directamente con el interesado.
 
-Salvo disposición legal en contrario, cuando se trate de diligencia de embargo el ejecutor no podrá practicarla cuando por primera ocasión en que la intente no se entienda con el interesado. En este caso dejará citatorio a éste para que lo espere dentro de las horas que se le precisen que serán para después de seis horas de la del citatorio y entre las cuarenta y ocho horas siguientes. Si el buscado no atiende el citatorio, la diligencia se practicará con los parientes, empleados o domésticos del interesado o cualquier otra persona adulta que viva en el domicilio señalado. En todos los casos, practicada la diligencia de ejecución decretada, el ejecutor entregará tanto al ejecutante como al ejecutado copia del acta que se levante o constancia firmada por él, en que conste los bienes que hayan sido embargados y el nombre, apellidos y domicilio del depositario designado.
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Salvo disposición legal en contrario, cuando se trate de diligencia de embargo el ejecutor no podrá practicarla cuando por primera ocasión en que la intente no se entienda con el interesado. En este caso dejará citatorio al interesado para que este lo espere al día siguiente, dentro de las horas que se le precisen, o dentro de las cuarenta y ocho horas siguientes. Si el interesado no atiende el citatorio, la diligencia se practicará con los parientes, empleados o domésticos del interesado o cualquier otra persona adulta que viva en el domicilio señalado. En todos los casos, practicada la diligencia de ejecución decretada, el ejecutor entregará tanto al ejecutante como al ejecutado copia del acta que se levante o constancia firmada por él, en que conste los bienes que hayan sido embargados y el nombre, apellidos y domicilio del depositario designado.
 
 La copia o constancia que se entregue al ejecutante podrá servir para el caso de haberse embargado bienes inmuebles, para que la misma se presente al Registro Público de la Propiedad, o del Comercio, dentro de los tres días siguientes, para su inscripción preventiva, la cual tendrá los mismos efectos que se señalan para los avisos de los Notarios en los términos de la parte final del artículo 2926 del Código Civil, y el juez, dentro de un término máximo de cinco días, deberá cumplir con lo ordenado por el artículo 529 de este Código, y de no hacerlo responderá de los daños y perjuicios que se ocasionen por su omisión.
 
@@ -817,81 +911,121 @@ Procede la notificación por edictos:
 
 I. Cuando se trate de personas inciertas;
 
-II. Cuando se trate de personas cuyo domicilio se ignora, previo informe de la policía preventiva; en este caso el juicio deberá seguirse con los trámites y solemnidades a que se refiere el título noveno de este Código.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JUNIO DE 2017)</small>
 
-En este caso y en el de la fracción anterior, los edictos se publicarán por tres veces, de tres en tres días, en el Boletín Judicial y en un periódico local de los de mayor circulación a criterio del juez, haciéndose saber que debe presentarse el citado dentro de un término que no será inferior a quince días ni excederá de sesenta días, y
+II. Cuando se trate de personas cuyo domicilio se ignora, previo informe o informes que a juicio del juzgador requiera a autoridades o instituciones públicas o privadas que cuenten con registro de personas y domicilios, las cuales enunciativa y no limitativamente podrán ser autoridades de los tres órdenes de gobierno, de la administración pública centralizada o paraestatal, autoridades fiscales, del Registro Público de la Propiedad, instituciones que presten servicios médicos y, o, de seguridad social, órganos con autonomía constitucional, empresas de telecomunicaciones, de televisión por cable u otras; en este caso el juicio deberá seguirse con los trámites y solemnidades a que se refiere el título noveno de este Código.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 10 DE JUNIO DE 2017)</small>
 
-Tratándose de juicio de Pérdida de Patria Potestad el término para que el demandado comparezca a juicio no será menor de diez ni excederá de treinta días y
+La autoridad, la institución pública o las personas privadas proporcionarán los datos de identificación y el último domicilio que aparezca en sus registros de la persona buscada. Esta información no queda comprendida dentro del secreto fiscal o de alguna otra reserva que las autoridades o instituciones estén obligadas a observar conforme a las disposiciones que las rigen. El juez o magistrado requerirá con apercibimiento para que en el plazo de tres días se remita la respuesta que corresponda.
 
-III. Cuando se trate de inmatricular un inmueble en el Registro Público de la Propiedad, conforme al artículo 2957 del Código Civil, para citar a las personas que puedan considerarse perjudicadas. Los edictos se publicarán por tres veces consecutivas, de diez en diez días, en el Boletín Judicial y en dos periódicos de mayor circulación. Además se deberá fijar un anuncio de proporciones visibles en la parte externa del inmueble de que se trate en el que se informe a las personas que puedan considerarse perjudicadas, a los vecinos y al público en general, la existencia del procedimiento de inmatriculación judicial respecto a ese inmueble. El anuncio deberá contener el nombre del promovente y permanecer en el inmueble durante todo el trámite judicial.
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
 
-En la solicitud se mencionarán:
+En este caso y en el de la fracción anterior, los edictos se publicarán durante veinte días consecutivos en la sección de edictos de la página oficial de Internet del Poder Judicial del Estado y por tres veces, de tres en tres días, en un periódico local de los de mayor circulación a criterio del juez, haciéndose saber que debe presentarse el citado dentro de un término que no será inferior a quince días ni excederá de sesenta días, y
 
-a) El origen de la posesión;
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 10 DE JUNIO DE 2017)</small>
 
-b) En su caso, el nombre de la persona de quien obtuvo la posesión el peticionario;
+Tratándose de juicio de Pérdida de Patria Potestad el término para que el demandado comparezca a juicio no será menor de diez ni excederá de treinta días.
 
-c) El nombre y domicilio del causahabiente de aquélla si fuere conocido;
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JUNIO DE 2017)</small>
 
-d) La ubicación precisa del bien, y sus medidas y colindancias; y
+III. Cuando se trate de inmatricular un inmueble en el Registro Público de la Propiedad, conforme al artículo 2957 del Código Civil.
 
-e) El nombre y domicilio de los colindantes.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 10 DE JUNIO DE 2017)</small>
 
-Asimismo, a la solicitud se acompañarán:
+a) (DEROGADO, B.O. 10 DE JUNIO DE 2017)
 
-1°. Un plano autorizado por Ingeniero titulado si fuere predio rústico o urbano sin construir; y 2°. Certificado de no inscripción del inmueble expedido por el Registro Público de la Propiedad, el cual no deberá contener límite de plazo. En el escrito en que se solicite dicho certificado, se deberán proporcionar los datos que identifiquen con precisión el predio de que se trate y manifestar que el certificado será exhibido en el procedimiento judicial de inmatriculación.
+b) (DEROGADO, B.O. 10 DE JUNIO DE 2017)
 
-Realizadas las publicaciones se correrá traslado de la solicitud, para que contesten dentro del término de nueve días hábiles, a la persona de quien obtuviera la posesión o su causahabiente si fuere conocido; al Ministerio Público; a los colindantes; al Registrador de la Propiedad; al Delegado de la Secretaría de la Reforma Agraria en el Estado, para que manifieste si el inmueble a inmatricular se encuentra o no afecto, al régimen ejidal o comunal, y a la Secretaría del Gobierno Federal correspondiente, para que exprese si el predio es o no propiedad federal.
+c) (DEROGADO, B.O. 10 DE JUNIO DE 2017)
 
-Producida o no la contestación y sin necesidad de acuse de rebeldía, el juez al vencerse el último término de traslado, abrirá una dilación probatoria por treinta días.
+d) (DEROGADO, B.O. 10 DE JUNIO DE 2017)
 
-Además de las pruebas que tuviere, el solicitante está en la obligación de probar su posesión en concepto de dueño por los medios legales y además por la información de tres testigos, preferentemente colindantes del inmueble a inmatricular, o, en su caso, que tengan bienes raíces en el lugar de ubicación del predio de que se trata.
+e) (DEROGADO, B.O. 10 DE JUNIO DE 2017)
 
-No se entregarán los autos originales para formular alegatos. La sentencia es apelable en ambos efectos y el recurso se substanciará como en los juicios ordinarios.
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 10 DE JUNIO DE 2017)</small>
 
-> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, B.O. 10 DE JUNIO DE 2017)</small>
+
+> <small>(DEROGADO QUINTO PÁRRAFO, B.O. 10 DE JUNIO DE 2017)</small>
+
+> <small>(DEROGADO SEXTO PÁRRAFO, B.O. 10 DE JUNIO DE 2017)</small>
+
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, B.O. 10 DE JUNIO DE 2017)</small>
+
+> <small>(DEROGADO OCTAVO PÁRRAFO, B.O. 10 DE JUNIO DE 2017)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JUNIO DE 2017)</small>
 
 ###### Artículo 122.
 
-La segunda y ulteriores notificaciones se harán personalmente a los interesados, a sus mandatarios o a quienes estén autorizados para ello, si ocurren al tribunal o juzgado respectivo, en el mismo día en que se dicten las resoluciones que hayan de notificarse, o al siguiente día o al tercer día antes de las doce horas.
+Toda notificación surtirá sus efectos al día siguiente a aquel en que se practique.
 
-Si las partes consideran pertinente que la segunda y ulteriores notificaciones se les hagan a ellas por vía telefacsimilar, proporcionarán al tribunal los correspondientes números telefónicos para que así se practiquen, y manifestarán por escrito su conformidad para que se lleven a cabo en la forma mencionada. El tribunal deberá asentar razón del día y hora en que se verifiquen las notificaciones así practicadas, al igual que el nombre y apellidos de la persona que la haya recibido y de la que la haya enviado, y en su caso, copia del documento remitido.
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+La segunda y ulteriores notificaciones se harán personalmente a los interesados, a sus mandatarios o a quienes estén autorizados para ello, si ocurren al tribunal o juzgado respectivo, en el mismo día en que se dicten las resoluciones que hayan de notificarse o al siguiente día.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+El órgano jurisdiccional deberá asentar razón del día y hora en que se verifiquen las notificaciones practicadas, al igual que el nombre y apellidos de la persona que la haya recibido, y en su caso, copia del documento de traslado.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+En el supuesto de que las partes hayan solicitado autorización para presentar promociones electrónicas, en términos del artículo 55 BIS, se estará a lo dispuesto por el artículo 127 BIS del presente ordenamiento.
 
 ###### Artículo 123.
 
 Deben firmar las notificaciones las personas que las hacen y aquéllas a quienes se hacen. Si éstas no supieren o no quisieren firmar, lo hará constar el secretario o notificador. A toda persona se le dará copia simple de la resolución que se le notifique, si la pidiere, bastando la petición verbal de su entrega, sin necesidad de que le recaiga auto judicial y salvo que sea notificación personal, dejando constancia o razón de su entrega y recibo en autos.
 
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
+
 ###### Artículo 124.
 
-Si las partes o sus mandatarios no ocurren al tribunal o juzgado a notificarse en los días y horas a que se refiere el artículo 122, la notificación se dará por hecha y surtirá sus efectos a las doce horas del último día a que se refiere el artículo citado, a condición de que se haya hecho en el Boletín Judicial.
+Si las partes o sus mandatarios no ocurren al tribunal o juzgado a notificarse en los días a que se refiere el artículo 122, la notificación se dará por hecha y surtirá sus efectos al día siguiente de que se hayan publicado por medio de lista de acuerdos de los órganos jurisdiccionales y la lista digital de acuerdos publicada en la página oficial de Internet del Poder Judicial del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
 
 ###### Artículo 125.
 
-Se fijará en lugar visible de las oficinas del Tribunal o Juzgados, una lista de los negocios que se hayan acordado cada día, y se remitirá otra lista expresando el número de expediente, nombre de las partes, tipo de juicio de que se trate, para que al día siguiente sea publicado en el Boletín Judicial, diario que sólo contendrá dichas listas de acuerdos y avisos judiciales, la cual se publicará antes de las nueve de la mañana. Dichas listas y avisos judiciales también deberán ser publicadas en la página oficial del internet del Poder Judicial del Estado, la que únicamente tendrá efectos informativos y no surtirá efectos de notificación.
+Se fijará en lugar visible de las oficinas del Tribunal o Juzgados, una lista de los negocios que se hayan acordado cada día, expresando el número de expediente, nombre de las partes, tipo de juicio de que se trate, para que el mismo día sea publicado en la lista digital de acuerdos publicada en la página oficial de Internet del Poder Judicial del Estado, la cual se publicará antes de las nueve de la mañana y surtirá efectos de notificación, conforme al artículo 124 del presente ordenamiento.
 
-Sólo por errores u omisiones substanciales que hagan no identificables los juicios, podrá pedirse la nulidad de las notificaciones hechas por Boletín Judicial. Además, se fijará diariamente en los estrados de la sala del tribunal y juzgados un ejemplar del Boletín Judicial, coleccionándose dicho diario para resolver cualquier cuestión que se suscite sobre la falta de alguna publicación. En el archivo judicial se formarán dos colecciones, una de las cuales estará siempre a disposición del público.
+Los avisos judiciales sólo serán publicados en la sección respectiva de la página oficial de Internet del Poder Judicial del Estado.
+
+Sólo por errores u omisiones substanciales que hagan no identificables los juicios, podrá pedirse la nulidad de las notificaciones hechas por medio de la lista digital de acuerdos publicada en la página oficial de Internet del Poder Judicial del Estado y la lista de acuerdos de los órganos jurisdiccionales. Los registros físicos y electrónicos generados por dicha lista, estarán siempre disponibles para resolver cualquier cuestión que se suscite sobre la falta de alguna publicación.
+
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
 
 ###### Artículo 126.
 
-En las salas del tribunal y en los juzgados, los servidores públicos que determine el reglamento harán constar en los autos respectivos el número y fecha del Boletín Judicial en que se haya hecho la publicación a que se refiere el artículo anterior, bajo la pena de multa equivalente a un día de sueldo por la primera falta, que se duplicará por la segunda y de suspensión de empleo hasta por tres meses por la tercera; sin perjuicio de indemnizar debidamente a la persona que resulte perjudicada por la omisión.
+En las salas del tribunal y en los juzgados, los servidores públicos que determine el reglamento harán constar en los autos respectivos la fecha en que se hayan hecho las publicaciones a que se refiere el artículo anterior, bajo la sanción de multa equivalente a doce veces doce veces (sic) el valor diario de Unidad de Medida y Actualización por la primera falta, que se duplicará por la segunda y de suspensión de empleo hasta por tres meses por la tercera; sin perjuicio de indemnizar debidamente a la persona que resulte perjudicada por la omisión.
+
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
 
 ###### Artículo 127.
 
-En los lugares donde no exista Boletín Judicial u otra publicación equivalente, la segunda y ulteriores notificaciones se harán como se determina en el artículo 111, último párrafo, y si los interesados no ocurrieren al tribunal, surtirá sus efectos la notificación al día siguiente de aquél en que se fije en el tablero de avisos del juzgado, una cédula conteniendo el nombre del notificado; el del tribunal y la resolución que se hace saber, con la fecha en que se hace la fijación de la cédula. De todo lo cual se tomará razón en los autos bajo las penas a que se refiere el artículo anterior.
+En los lugares donde no sea posible tener acceso a la lista digital de acuerdos publicada en la página oficial de Internet del Poder Judicial del Estado, sea porque no se cuente con servicio de Internet o este se vea interrumpido, la segunda y ulteriores notificaciones se harán como se determina en el artículo 111, último párrafo, y si los interesados no ocurrieren al órgano jurisdiccional, surtirá sus efectos la notificación al día siguiente de aquél en que se publique en la lista de acuerdos del órgano referido. De todo lo cual se tomará razón en los autos bajo las sanciones a que se refiere el artículo anterior.
 
-> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
+Dentro de un procedimiento judicial, todos los edictos, convocatorias o avisos que por mandato legal o judicial se tengan que hacer del conocimiento de alguna persona o del público en general, así como aquellas comunicaciones similares de notarios públicos, corredores públicos o particulares que por cualquier causa deban hacerlos, por así obligarlos la ley por los cargos que ostenten, serán redactados de modo preciso y conciso, sintetizando las providencias que se ordenen publicar, evitando transcripciones literales, y señalándose únicamente los puntos substanciales. Las publicaciones de esos edictos, convocatorias y avisos sólo podrán realizarse en la sección respectiva de la página oficial de Internet del Poder Judicial del Estado, así como en aquellos medios de difusión que tengan una sección especial destinada para edictos, avisos y convocatorias judiciales o sección destacada similar que represente el menor costo de todas las inserciones y anuncios por esos medios de comunicación.
 
-Dentro de un procedimiento judicial, todos los edictos, convocatorias o avisos que por mandato legal o judicial se tengan que hacer del conocimiento de alguna persona o del público en general, así como aquellas comunicaciones similares de notarios públicos, corredores públicos o particulares que por cualquier causa deban hacerlos, por así obligarlos la ley por los cargos que ostenten, serán redactados de modo preciso y conciso, sintetizando las providencias que se ordenen publicar, evitando transcripciones literales, y señalándose únicamente los puntos substanciales. Las publicaciones de esos edictos, convocatorias y avisos sólo podrán realizarse en aquellos medios de difusión que tengan una sección especial destinada para "edictos, avisos y convocatorias judiciales" o sección destacada similar que represente el menor costo de todas las inserciones y anuncios por esos medios de comunicación.
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Artículo 127 BIS. Las partes que hayan solicitado autorización para presentar promociones electrónicas, en términos del artículo 55 BIS del presente ordenamiento, se les tendrá por expresado su consentimiento, para efecto de que a través del correo electrónico, y mediante el sistema del Tribunal Electrónico del Poder Judicial del Estado, se les realicen notificaciones de carácter personal, ordenadas con posterioridad a la fecha en que se otorgue este tipo de autorización, generándose en cada diligencia electrónica un registro que contendrá folio, juzgado, expediente, fecha y hora de cada notificación, el cual será agregado a los autos y se tendrá por legalmente practicada la notificación hecha por este medio, surtiendo sus efectos al día siguiente en que se practiquen.
+
+Se excluye de la anterior forma de notificación el emplazamiento a juicio y las demás que el juez así lo considere conveniente.
+
+Las partes, sus representantes o mandatarios, podrán solicitar la autorización, en los términos que establecen los párrafos anteriores para el acceso al Tribunal Electrónico del Poder Judicial del Estado, debiendo proporcionar el nombre del usuario previamente registrado en la base de datos del Órgano Jurisdiccional, lo que les permitirá consultar en forma completa el expediente electrónico.
+
+La consulta de expedientes electrónicos, las promociones y las notificaciones personales electrónicas, que se realicen mediante la utilización del Tribunal Electrónico del Poder Judicial, se ajustarán a los lineamientos de operación establecidos en el Reglamento que para tal efecto expida el Consejo de la Judicatura.
+
+Para los efectos de este artículo, la renuncia o la revocación de la representación o del mandato de las partes para actuar en el juicio, una vez acordada, tendrá además los efectos de cancelar inmediatamente los usuarios y contraseñas de los revocados en el procedimiento respectivo.
 
 ### CAPITULO VI. De los términos judiciales
 
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
+
 ###### Artículo 128.
 
-Los términos judiciales empezarán a correr desde el día siguiente a aquél en que se hubiere hecho el emplazamiento o notificación. Tratándose de notificación realizada por Boletín Judicial, el término empezará a correr el día siguiente de aquél en que haya surtido efectos dicha notificación.
+Los términos judiciales empezarán a correr desde el día siguiente a aquél en que surta sus efectos el emplazamiento o notificación.
 
 ###### Artículo 129.
 
@@ -1721,7 +1855,9 @@ I. El tribunal ante el que se promueve;
 
 II. El nombre y apellidos del actor y el domicilio que señale para oír notificaciones;
 
-III. El nombre del demandado y su domicilio o en su caso, manifestación del actor bajo protesta de decir verdad, que ignora ese domicilio acompañando la constancia a que se refiere la fracción II del artículo 121;
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2017)</small>
+
+III. El nombre del demandado y su domicilio o en su caso, la manifestación del actor bajo protesta de decir verdad, que ignora el domicilio;
 
 IV. El objeto u objetos que se reclamen con sus accesorios;
 
@@ -1731,17 +1867,27 @@ Asimismo debe numerar y narrar los hechos exponiéndolos sucintamente con clarid
 
 VI. Los fundamentos de derecho y la clase de acción, procurando citar los preceptos legales o principios jurídicos aplicables;
 
-VII. El valor de lo demandado, si de ello depende la competencia del juez, y
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2017)</small>
 
-VIII. La firma del actor, o de su representante legítimo. Si éstos no supieran o no pudieren firmar, pondrán su huella digital, firmando otra persona en su nombre y a su ruego, indicando estas circunstancias.
+VII. El valor de lo demandado, si de ello depende la competencia del juez;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 10 DE JUNIO DE 2017)</small>
+
+VIII. La solicitud de emplazamiento a través de envío de exhorto electrónico; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 10 DE JUNIO DE 2017)</small>
+
+IX. La firma del actor, o de su representante legítimo. Si éstos no supieran o no pudieren firmar, pondrán su huella digital, firmando otra persona en su nombre y a su ruego, indicando estas circunstancias.
 
 ###### Artículo 255.
 
 Presentada la demanda con los documentos y copias prevenidos en los artículos 94 y 95 de este ordenamiento, se correrá traslado de ella a la persona o personas contra quienes se proponga, y se les emplazará para que la contesten dentro de nueve días.
 
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
+
 ###### Artículo 256.
 
-Si la demanda fuere obscura o irregular, o no cumpliera con algunos de los requisitos de los artículos 94 y 254, el juez dentro del término de tres días señalará con toda precisión en que consisten los defectos de la misma, en el proveído que al efecto se dicte. El actor deberá cumplir con la prevención que haga el juez en un plazo máximo de cinco días contados a partir del día siguiente a aquel en que haya surtido efectos la notificación por Boletín Judicial de dicha prevención, y de no hacerlo transcurrido el término, el juez la desechará y devolverá al interesado todos los documentos originales y copias simples que se hayan exhibido, con excepción de la demanda con la que se haya formado el expediente respectivo. La anterior determinación o por cualquier otra por la que no se de curso a la demanda, se podrá impugnar mediante el recurso de queja, para que se dicte por el superior la resolución que corresponda.
+Si la demanda fuere obscura o irregular, o no cumpliera con algunos de los requisitos de los artículos 94 y 254, el juez dentro del término de tres días señalará con toda precisión en qué consisten los defectos de la misma, en el proveído que al efecto se dicte. El actor deberá cumplir con la prevención que haga el juez en un plazo máximo de cinco días contados a partir del día siguiente a aquel en que haya surtido efectos la notificación personal de dicha prevención, y de no hacerlo transcurrido el término, el juez la desechará y devolverá al interesado todos los documentos originales y copias simples que se hayan exhibido, con excepción de la demanda con la que se haya formado el expediente respectivo. La anterior determinación o por cualquier otra por la que no se dé curso a la demanda, se podrá impugnar mediante el recurso de queja, para que se dicte por el superior la resolución que corresponda.
 
 ###### Artículo 257.
 
@@ -1921,7 +2067,9 @@ De la mencionada obligación están exentos los ascendientes, descendientes, có
 
 La ley reconoce como medios de prueba:
 
-I. Confesión;
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2017)</small>
+
+I. Confesión y declaración de las partes;
 
 II. Documentos públicos;
 
@@ -1933,7 +2081,9 @@ V. Reconocimiento o inspección judicial;
 
 VI. Testigos;
 
-VII. Fotografías, copias fotostáticas, registros dactiloscópicos y en general, todos aquellos elementos aportados por los descubrimientos de la ciencia;
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2017)</small>
+
+VII. Fotografías, copias fotostáticas, registros dactiloscópicos, los registros electrónicos generados y publicados en el Tribunal Electrónico, los archivos electrónicos y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia;
 
 VIII. Fama pública;
 
@@ -1947,9 +2097,11 @@ X. Los demás medios que produzcan convicción en el juzgador.
 
 El período de ofrecimiento de pruebas es de diez días, que empezarán a contarse desde el día siguiente al de la notificación del auto que manda abrir el juicio a prueba.
 
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
+
 ###### Artículo 288.
 
-Las pruebas deben ofrecerse expresando con toda claridad cual es el hecho o hechos que se tratan de demostrar con las mismas, así como las razones por las que el oferente estima que demostrarán sus afirmaciones; declarando en su caso en los términos anteriores el nombre y domicilio de testigos y peritos y pidiendo citación de la contraparte para absolver posiciones; si a juicio del tribunal las pruebas ofrecidas no cumplen con las condiciones apuntadas, serán desechadas observándose lo dispuesto por el artículo 295 de este ordenamiento.
+Las pruebas deben ofrecerse expresando con toda claridad cuál es el hecho o hechos que se tratan de demostrar con las mismas, así como las razones por las que el oferente estima que demostrarán sus afirmaciones; declarando en su caso en los términos anteriores el nombre y domicilio de testigos y peritos y pidiendo citación de la contraparte para absolver posiciones y declarar; si a juicio del tribunal las pruebas ofrecidas no cumplen con las condiciones apuntadas, serán desechadas observándose lo dispuesto por el artículo 295 de este ordenamiento.
 
 ###### Artículo 289.
 
@@ -2009,13 +2161,19 @@ Al litigante al que se le hubiere concedido la ampliación a que se refiere el a
 
 #### SECCION II. De la confesión
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JUNIO DE 2017)</small>
+
 ###### Artículo 299.
 
-Desde los escritos de demanda y contestación a la demanda y hasta diez días antes de la audiencia de pruebas, se podrá ofrecer la de confesión, quedando las partes obligadas a declarar, bajo protesta de decir verdad, cuando así lo exija el contrario.
+Desde los escritos de demanda y contestación a la demanda y hasta diez días antes de la audiencia de pruebas, se podrá ofrecer la de confesión y declaración de parte, quedando las partes obligadas a declarar, bajo protesta de decir verdad, cuando así lo exija el contrario.
 
 Es permitido articular posiciones al mandatario que tenga poder especial para absolverlas, o general con cláusula para hacerlo.
 
 El que haya de absolver posiciones será citado personalmente, a más tardar con 24 horas de anticipación a la hora señalada para la diligencia, bajo apercibimiento de que si dejare de comparecer sin justa causa, será declarado confeso.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Están obligadas a declarar las mismas personas que están obligadas a absolver posiciones.
 
 ###### Artículo 300.
 
@@ -2118,6 +2276,20 @@ Se tendrá por confeso el articulante respecto a los hechos propios que afirmare
 ###### Artículo 317.
 
 Las autoridades, las corporaciones oficiales y los establecimientos que formen parte de la administración pública no absolverán posiciones en la forma que establecen los artículos anteriores; pero la parte contraria podrá pedir que se les libre oficio, insertando las preguntas que quiera hacerles para que, por vía de informe, sean contestadas dentro del término de ocho días. En el oficio se apercibirá a la parte absolvente de tenerla por confesa si no contestare dentro del término que se le haya fijado, o si no lo hiciere categóricamente afirmando o negando los hechos.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Artículo 317 BIS. Una vez absueltas las posiciones, en la misma diligencia tendrá lugar el desahogo de la declaración de parte cuando así lo solicite el colitigante, conforme al interrogatorio que en el acto se le formule.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Artículo 317 TER. Para el desahogo de la declaración de parte, los interrogatorios podrán formularse libremente, sin más limitación que las preguntas se refieran a los hechos objeto del debate.
+
+Las preguntas podrán ser inquisitivas y podrán no referirse a hechos propios, con tal de que el que declare tenga conocimiento de los mismos. Las preguntas serán formuladas directamente y deberán tener relación directa con los puntos controvertidos y no serán contrarias al derecho o a la moral. Deberán estar concebidas en términos claros y precisos, procurando que en una pregunta no se comprenda más de un hecho. El juez o magistrado debe cuidar que se cumplan estas condiciones impidiendo preguntas que las contraríen. Contra la desestimación de preguntas sólo cabe la apelación en el efecto devolutivo.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Artículo 317 QUÁTER. En la declaración de parte, no procede la confesión ficta. El juez, para que una parte declare, podrá usar de los medios de apremio autorizados por la ley.
 
 #### SECCION III. De la prueba instrumental
 
@@ -2455,7 +2627,13 @@ Quedan comprendidas dentro del término fotografías, las cintas cinematográfic
 
 Como medio de prueba deben admitirse también los registros dactiloscópicos, fonográficos y demás elementos que produzcan convicción en el ánimo del juez.
 
-La parte que presente esos medios de prueba deberá ministrar al tribunal los aparatos o elementos necesarios para que pueda apreciar el valor de los registros y reproducirse los sonidos y figuras.
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+En el caso de registros y archivos electrónicos, la parte oferente deberá expresar con toda exactitud el nombre completo del sistema operativo y del programa o aplicación que lo ejecuta, o en su lugar la página electrónica de la cual fue obtenido; el Juzgador, deberá requerir al oferente para que proporcione los medios necesarios para el desahogo de la probanza; si los medios proporcionados al respecto resultaren inadecuados, la prueba en comento se declarará desierta.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Los registros electrónicos generados y publicados en el Expediente Electrónico, únicamente podrán ofrecerse precisando la parte conducente que se desea aportar como prueba, así como el nombre de las partes, número de expediente, tipo de juicio, juzgado en el que se tramita o tramitó el procedimiento respectivo, y cualquier otro dato que permita al juez su localización electrónica.
 
 ###### Artículo 366.
 
@@ -2686,6 +2864,18 @@ El dictamen de peritos y la prueba testimonial serán valorizados según el prud
 ###### Artículo 408.
 
 Las fotografías, copias fotostáticas y demás pruebas científicas quedan a la prudente calificación del juez. Las copias fotostáticas solo harán fe cuando estén certificadas.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Los registros electrónicos generados y publicados en el Tribunal Electrónico, harán prueba plena.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Los demás registros electrónicos, archivos magnéticos, archivos electrónicos y cualesquiera otros elementos proporcionados por la ciencia, cuando contengan Firma Electrónica Certificada o sello digital, hacen prueba plena, salvo prueba en contrario.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Las pruebas a que se refiere el párrafo anterior, que no contengan Firma Electrónica Certificada o sello digital, para su valoración se estimará primordialmente la fiabilidad del método en que haya sido generada, comunicada, recibida o archivada y, en su caso, si es posible atribuir a las personas obligadas el contenido de la información relativa y ser accesible para su ulterior consulta, de no darse tales requisitos sólo constituirán indicios que deberán ser admitidos con otro tipo de pruebas, quedando al prudente arbitrio del juzgador el que deberá motivar debidamente la valoración que haga de dicha prueba.
 
 ###### Artículo 409.
 
@@ -3201,11 +3391,11 @@ La ejecución de las sentencias arbitrales, de los convenios celebrados ante la 
 
 La ejecución de las sentencias y convenios en la vía ejecutiva, se efectuará conforme a las reglas generales de los juicios ejecutivos.
 
-> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
 
 ###### Artículo 490.
 
-Una vez que cause ejecutoria la sentencia o que sea ejecutable por no existir medida de suspensión, el juez, de oficio o a petición de parte, notificará a las partes por boletín judicial esta circunstancia. Con esta notificación comenzará a correr el plazo improrrogable para el cumplimiento voluntario de la sentencia.
+Una vez que cause ejecutoria la sentencia o que sea ejecutable por no existir medida de suspensión, el juez, de oficio o a petición de parte, notificará a las partes por medio de la lista digital de acuerdos publicada en la página oficial de Internet del Poder Judicial del Estado y la lista de acuerdos de los órganos jurisdiccionales. Con esta notificación comenzará a correr el plazo improrrogable para el cumplimiento voluntario de la sentencia.
 
 > <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
 
@@ -3371,11 +3561,15 @@ Decretado el auto de ejecución, el cual tendrá fuerza de mandamiento en forma,
 
 No es necesario el requerimiento de pago en la ejecución de sentencias cuando no fuere hallado el condenado en el domicilio personal que hubiere señalado en el juicio. En este caso, el acreedor o ejecutante tendrá derecho de señalar bienes para embargo suficientes para cubrir la condena decretada en la sentencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JUNIO DE 2017)</small>
+
 ###### Artículo 518.
 
-Si el deudor tratándose de juicio ejecutivo, no fuere encontrado después de habérsele buscado una vez en su domicilio, se le dejará citatorio para hora fija del siguiente día si fuere hábil y si no espera, se practicará la diligencia con cualquier persona que se encuentre en la casa, con los parientes o domésticos del interesado o de cualquier otra persona adulta que viva en la casa o a falta de éstos con el vecino inmediato, observándose en lo conducente lo dispuesto por el artículo 116 de este Código.
+Si el deudor tratándose de juicio ejecutivo, no fuere encontrado después de habérsele buscado una vez en su domicilio, se le dejará citatorio para hora fija del siguiente día hábil y si no espera, se practicará la diligencia con cualquier persona que se encuentre en la casa, con los parientes o domésticos del interesado o de cualquier otra persona adulta que viva en la casa o a falta de éstos con el vecino inmediato, observándose en lo conducente lo dispuesto por el artículo 116 de este Código.
 
-Si no se supiere el paradero del deudor, ni tuviere casa en el lugar, se hará el requerimiento por tres días consecutivos en el Boletín Judicial y fijando la cédula en el tablero del tribunal, y surtirá sus efectos dentro de ocho días, salvo el derecho del actor para pedir providencia precautoria.
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Si no se supiere el paradero del deudor, ni tuviere casa en el lugar, se hará el requerimiento por tres días consecutivos en la lista digital de acuerdos publicada en la página oficial de Internet del Poder Judicial del Estado y en la lista de acuerdos de los órganos jurisdiccionales y surtirá sus efectos dentro de ocho días contados a partir de la última publicación de las listas de acuerdos, salvo el derecho del actor para pedir providencia precautoria.
 
 Verificado de cualquiera de los modos indicados el requerimiento, se procederá en seguida al embargo.
 
@@ -3667,19 +3861,21 @@ V. Una vez presentados todos los dictámenes, el juez contará con el plazo de 5
 
 VI. En lo demás, se estará a lo dispuesto por las reglas generales de la prueba pericial contenidas en el presente ordenamiento.
 
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
 
 ###### Artículo 553.
 
-Hecho el avalúo se sacarán los bienes a subasta pública, anunciándose por medio de edictos que se fijarán por dos veces en los tableros de avisos de juzgado, debiendo mediar entre una y otra publicación siete días hábiles y, entre la última y la fecha del remate igual plazo. Si el valor del bien pasara del equivalente a ciento ochenta veces el valor diario de la Unidad de Medida y Actualización, se insertarán además los edictos en un periódico de información. A petición de cualquiera de las partes y a su costa el juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
+Hecho el avalúo se sacarán los bienes a subasta pública, anunciándose por medio de edictos que se fijarán por dos veces en los tableros de avisos del juzgado debiendo mediar entre una y otra publicación siete días hábiles y, entre la última y la fecha del remate igual plazo, asimismo se publicará en la sección de edictos de la página oficial de Internet del Poder Judicial del Estado, desde la fecha en que se fije por primera vez en los tableros de avisos del juzgado hasta el remate. Si el valor del bien pasara del equivalente a ciento ochenta veces el valor diario de la Unidad de Medida y Actualización, se insertarán además los edictos en uno de los periódicos de mayor circulación en el estado. A petición de cualquiera de las partes y a su costa el juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
 
 ###### Artículo 554.
 
 Antes de fincarse el remate o declararse la adjudicación podrá el deudor librar sus bienes pagando principal y costas. Después de fincado quedará la venta irrevocable.
 
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
+
 ###### Artículo 555.
 
-Si los bienes raíces estuvieren situados en diversos lugares, en todos éstos se publicarán los edictos en los sitios de costumbre y en los estrados del juzgado respectivo, concediéndose un día por cada cuarenta kilómetros o fracción que exceda de la mitad y se calculará para designarlo la distancia mayor a que se hallen los bienes y el que el juez estime necesario en atención a la distancia y a la dificultad de las comunicaciones.
+Si los bienes raíces estuvieren situados en diversos lugares, en todos éstos se publicarán los edictos en los sitios de costumbre, en los estrados del juzgado respectivo y en la sección de edictos de la página oficial de Internet del Poder Judicial del Estado_concediéndose un día por cada cuarenta kilómetros o fracción que exceda de la mitad y se calculará para designarlo la distancia mayor a que se hallen los bienes y el que el juez estime necesario en atención a la distancia y a la dificultad de las comunicaciones.
 
 ###### Artículo 556.
 
@@ -3821,7 +4017,9 @@ Si en el contrato se ha fijado precio a la finca hipotecada sin convenio expreso
 
 En el remate de bienes muebles se observarán las disposiciones siguientes:
 
-I. Se anunciará su venta por medio de edictos que se publicarán fijándose diariamente, y durante tres días consecutivos, en los estrados del juzgado, y en los tableros y sitios de costumbre, a menos que cualquiera de las partes pida que a su costa se haga también la publicación por algún otro medio;
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2017)</small>
+
+I. Se anunciará su venta por medio de edictos que se publicarán fijándose diariamente, y durante tres días consecutivos, en los estrados del juzgado, en la sección de edictos de la página oficial de Internet del Poder Judicial del Estado y en los tableros y sitios de costumbre, a menos que cualquiera de las partes pida que a su costa se haga también la publicación por algún otro medio;
 
 II. Si lo pidieren las partes, podrá dispensarse la publicación y mandar hacerse la venta por medio de comisionistas o de casa de comercio que expenda objetos o mercancías similares, debiendo hacerse la realización a los precios corrientes en plaza. Si no se consigue dentro de diez días, el juzgado autorizará una rebaja de diez por ciento de los precios fijados y así sucesivamente, cada diez días, hasta lograr la venta. De ésta se deducirán preferentemente los gastos de comisión que serán de cuenta del deudor;
 
@@ -3829,7 +4027,9 @@ III. Se cuidará que los bienes estén a la vista y si fueren líquidos, semilla
 
 IV. Si en la almoneda no hubiere postores, se adjudicarán al actor por el importe de la postura legal, los bienes que elija y basten a cubrir su crédito y las costas; y si los bienes fueren de tal naturaleza, que la adjudicación no pueda hacerse sino de todos, también podrá pedirla el acreedor, pero deberá exhibir y entregar de contado el resto del precio, cubierto su crédito y las costas;
 
-V. Si el actor no pidiere la adjudicación, se continuarán sacando a remate los bienes con la retasa correspondiente, anunciándose la venta, cada vez, por medio de un solo edicto;
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2017)</small>
+
+V. Si el actor no pidiere la adjudicación, se continuarán sacando a remate los bienes con la retasa correspondiente, anunciándose la venta, cada vez, por medio de un solo edicto publicado en la sección de edictos de la página oficial de Internet del Poder Judicial del Estado;
 
 VI. Efectuada la venta, se entregarán los bienes al adquirente, luego que exhiba el precio y se le extenderá la factura correspondiente que firmará el ejecutado o el juez en su rebeldía. Lo mismo se observará en el caso de la fracción IV de este artículo, y
 
@@ -4065,15 +4265,19 @@ El juez debe compeler a los árbitros a cumplir con sus obligaciones.
 
 En toda clase de juicios, cuando se constituya en rebeldía un litigante, no compareciendo en el juicio después de citado en forma, no se volverá a practicar diligencia alguna en su busca.
 
-Todas las resoluciones que de allí en adelante recaigan en el pleito y cuantas citaciones deban hacérsele, se notificarán por el Boletín Judicial, salvo los casos en que otra cosa se prevenga.
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Todas las resoluciones que de allí en adelante recaigan en el pleito y cuantas citaciones deban hacérsele, se notificarán por medio de la lista digital de acuerdos publicada en la página oficial de Internet del Poder Judicial del Estado y de la lista de acuerdos de los órganos jurisdiccionales, salvo los casos en que otra cosa se prevenga.
 
 ###### Artículo 621.
 
 El litigante será declarado rebelde sin necesidad que medie petición de la parte contraria y cuando el que haya sido arraigado quebrante el arraigo sin dejar apoderado instruido.
 
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
+
 ###### Artículo 622.
 
-Los autos que ordenen que un negocio se reciba a prueba o señalen día para la audiencia de pruebas y alegatos, así como los puntos resolutivos de la sentencia, además de notificarse por el Boletín Judicial, se publicarán dos veces, de tres en tres días, en el mismo Boletín o en el periódico local que indique el juez, si se tratare del caso previsto en la fracción II del artículo 121.
+Los autos que ordenen que un negocio se reciba a prueba o señalen día para la audiencia de pruebas y alegatos, así como los puntos resolutivos de la sentencia, deberán notificarse por medio de la lista digital de acuerdos publicada en la página oficial de Internet del Poder Judicial del Estado y de la lista de acuerdos de los órganos jurisdiccionales en las que permanecerá la notificación durante diez días consecutivos o en el periódico local que indique el juez, si se tratare del caso previsto en la fracción II del artículo 121.
 
 ###### Artículo 623.
 
@@ -4097,9 +4301,11 @@ No haciéndolo, se colocarán bajo depósito, según lo disponen los artículos 
 
 La retención o embargo practicados a consecuencia de declaración en rebeldía continuarán hasta la conclusión del juicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JUNIO DE 2017)</small>
+
 ###### Artículo 627.
 
-En el caso en que el emplazamiento se hubiere hecho por edictos, la sentencia no se ejecutará sino pasados tres meses a partir de la última publicación en el Boletín Judicial o en el periódico del lugar, a no ser que el actor dé la fianza prevenida para el juicio ejecutivo.
+En el caso en que el emplazamiento se hubiere hecho por edictos, la sentencia no se ejecutará sino pasados tres meses a partir de la última publicación en la lista digital de acuerdos publicada en la página oficial de Internet del Poder Judicial del Estado y de la lista de acuerdos de los órganos jurisdiccionales o en uno de los periódicos de mayor circulación en el estado, a no ser que el actor dé la fianza prevenida para el juicio ejecutivo.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -4675,9 +4881,13 @@ Es necesario cuando dos o más acreedores de plazo cumplido han demandado o ejec
 
 Declarado el concurso, el juez resolverá:
 
-I. Notificar personalmente o por cédula al deudor la formación de su concurso necesario y por el Boletín Judicial el concurso voluntario;
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2017)</small>
 
-II. Hacer saber a los acreedores la formación del concurso por edictos que se publicarán en el Boletín Judicial y en un periódico de los de mayor circulación que designe el juez, por dos veces de diez en diez días. Si hubiere acreedores en el lugar del juicio se citarán por medio de cédula por correo o telégrafo si fuere necesario;
+I. Notificar personalmente o por cédula al deudor la formación de su concurso necesario y por medio de la lista digital de acuerdos publicada en la página oficial de Internet del Poder Judicial del Estado y de la lista de acuerdos de los órganos jurisdiccionales el concurso voluntario;
+
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2017)</small>
+
+II. Hacer saber a los acreedores la formación del concurso por edictos que se publicarán en la sección respectiva de la página oficial de Internet del Poder Judicial del Estado y en un periódico de los de mayor circulación estatal que designe el juez, por dos veces de diez en diez días. Si hubiere acreedores en el lugar del juicio se citarán por medio de la lista digital de acuerdos publicada en la página oficial de Internet del Poder Judicial del Estado y de la lista de acuerdos de los órganos jurisdiccionales, por correo o telégrafo si fuere necesario;
 
 III. Nombrar síndico provisional;
 
@@ -5081,9 +5291,11 @@ El que promueva el juicio de testamentaría debe presentar el testamento del dif
 
 La junta se verificará dentro de los ocho días siguientes a la citación si la mayoría de los herederos reside en el lugar del juicio. Si la mayoría reside fuera del lugar del juicio, el juez señalará el plazo que crea prudente, atendidas las distancias. La citación se hará por cédula o correo certificado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JUNIO DE 2017)</small>
+
 ###### Artículo 773.
 
-Si no se conociere el domicilio de los herederos o éstos estuvieren fuera del lugar del juicio, se mandarán publicar edictos en el lugar del juicio en los sitios de costumbre, en el del último domicilio del finado y en el de su nacimiento.
+Si no se conociere el domicilio de los herederos o éstos estuvieren fuera del lugar del juicio, se mandarán publicar edictos en la sección correspondiente de la página oficial de Internet del Poder Judicial del Estado durante veinte días, en el lugar del juicio en los sitios de costumbre, en el del último domicilio del finado y en el de su nacimiento.
 
 Estando ausentes los herederos y sabiéndose su residencia, se les citará por exhorto cuando estuvieren fuera del Estado.
 
@@ -5163,9 +5375,9 @@ Si la declaración de herederos la solicitare el concubino supérstite o parient
 
 El Juez prudentemente podrá ampliar el plazo anterior cuando, por el origen del difunto u otras circunstancias, se presuma que podrá haber parientes fuera de la República.
 
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
 
-Los edictos se insertarán, además, dos veces de diez en diez días en un periódico de los de mayor circulación si el valor de los bienes hereditarios excediere de un monto equivalente a cien veces el valor diario de la Unidad de Medida y Actualización.
+Los edictos se insertarán, además, dos veces de diez en diez días en un periódico de los de mayor circulación y en la sección correspondiente de la página oficial de Internet del Poder Judicial del Estado durante veinte días, si el valor de los bienes hereditarios excediere de un monto equivalente a cien veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 789.
 
@@ -5991,7 +6203,9 @@ En los casos de las dos primeras fracciones, la información se recibirá con ci
 
 El Ministerio Público y las personas con cuya citación se reciba la información, pueden tachar a los testigos por circunstancias que afecten su credibilidad.
 
-No se recibirá la información sin que previamente se publique la solicitud del promovente, por tres veces consecutivas, de diez en diez días en el Boletín Judicial y en un periódico de los de mayor circulación.
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+No se recibirá la información sin que previamente se publique la solicitud del promovente, durante veinte días consecutivos en la sección de edictos de la página oficial de Internet del Poder Judicial del Estado y por tres veces consecutivas, de diez en diez días en uno de los periódicos de mayor circulación en el estado.
 
 ###### Artículo 915.
 
@@ -6098,6 +6312,36 @@ IV. Practicadas las diligencias antes mencionadas, haya o no pedimento del Minis
 V. En el caso de que el juez conceda la inscripción del registro de nacimiento, se enviarán los autos al Tribunal Superior de Justicia para su revisión de oficio;
 
 VI. De confirmarse en su caso, por el Tribunal Superior de Justicia la resolución que conceda la inscripción del registro de nacimiento, el juez enviará copia certificada de ésta al Oficial del Registro Civil que corresponda para que levante el acta respectiva.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2017)</small>
+
+Artículo 926 BIS. Cuando se trate de inmatricular un inmueble en el Registro Público de la Propiedad, conforme al artículo 2957 del Código Civil, para citar a las personas que puedan considerarse perjudicadas. Los edictos se publicarán durante treinta días consecutivos en la sección correspondiente de la página oficial de Internet del Poder Judicial del Estado y por tres veces consecutivas, de diez en diez días, en dos periódicos de mayor circulación. Además, se deberá fijar un anuncio de proporciones visibles en la parte externa del inmueble de que se trate en el que se informe a las personas que puedan considerarse perjudicadas, a los vecinos y al público en general, la existencia del procedimiento de inmatriculación judicial respecto a ese inmueble. El anuncio deberá contener el nombre del promovente y permanecer en el inmueble durante todo el trámite judicial.
+
+En la solicitud se mencionarán:
+
+I. El origen de la posesión;
+
+II. En su caso, el nombre de la persona de quien obtuvo la posesión el peticionario;
+
+III. El nombre y domicilio del causahabiente de aquélla si fuere conocido;
+
+IV. La ubicación precisa del bien y sus medidas y colindancias; y
+
+V. El nombre y domicilio de los colindantes.
+
+Asimismo, a la solicitud se acompañarán:
+
+a). Un plano autorizado por Ingeniero titulado si fuere predio rústico o urbano sin construir; y
+
+b). Certificado de no inscripción del inmueble expedido por el Registro Público de la Propiedad, el cual no deberá contener límite de plazo. En el escrito en que se solicite dicho certificado, se deberán proporcionar los datos que identifiquen con precisión el predio de que se trate y manifestar que el certificado será exhibido en el procedimiento judicial de inmatriculación.
+
+Realizadas las publicaciones se correrá traslado de la solicitud, para que contesten dentro del término de nueve días hábiles, a la persona de quien obtuviera la posesión o su causahabiente si fuere conocido; al Ministerio Público; a los colindantes; al Registrador de la Propiedad; al Delegado de la Secretaría de la Reforma Agraria en el Estado, para que manifieste si el inmueble a inmatricular se encuentra o no afecto al régimen ejidal o comunal, y a la Secretaría del Gobierno Federal correspondiente, para que exprese si el predio es o no propiedad federal.
+
+Producida o no la contestación y sin necesidad de acuse de rebeldía, el juez al vencerse el último término de traslado, abrirá una dilación probatoria por treinta días.
+
+Además de las pruebas que tuviere, el solicitante está en la obligación de probar su posesión en concepto de dueño por los medios legales y además por la información de tres testigos, preferentemente colindantes del inmueble a inmatricular, o, en su caso, que tengan bienes raíces en el lugar de ubicación del predio de que se trata.
+
+No se entregarán los autos originales para formular alegatos. La sentencia es apelable en ambos efectos y el recurso se substanciará como en los juicios ordinarios.
 
 ## TITULO DECIMO SEXTO. De las controversias del orden familiar
 
@@ -6610,3 +6854,15 @@ B.O. 20 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 2425 SE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO Y SE ADICIONAN LOS ARTÍCULOS TERCERO Y CUARTO TRANSITORIO AL DECRETO 2415 EXPEDIDO EN FECHA 16 DE DICIEMBRE DE 2016 POR EL H. CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL BOLETÍN OFICIAL NÚMERO 50 DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR, DE FECHA 31 DE DICIEMBRE DE 2016".]
 
 Único.- EI presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 2434 SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor a los quince días de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Las disposiciones relativas al cobro de derechos a que se refiere el presente Decreto, entrarán en vigor, una vez que se encuentre armonizado el marco jurídico de la materia.
+
+TERCERO.- El Consejo de la Judicatura deberá expedir el Reglamento del Tribunal Electrónico dentro de los quince días siguientes a la publicación del presente Decreto.
+
+CUARTO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
