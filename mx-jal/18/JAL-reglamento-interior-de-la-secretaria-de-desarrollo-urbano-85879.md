@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-85879
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-14"
-last_updated: "2012-02-14"
+last_updated: "2017-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE INFRAESTRUCTURA Y OBRA PÚBLICA, PUBLICADO EN EL P.O. DE 10 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 14 de febrero de 2012.
 
@@ -910,3 +912,15 @@ ING. JOSÉ SERGIO CARMONA RUVALCABA
 Secretario de Desarrollo Urbano
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el Reglamento Interior de la extinta Secretaría de Desarrollo Urbano, publicado en el Periódico Oficial "El Estado de Jalisco" el 14 de febrero de 2012, sus reformas y se deroga (sic) todas las disposiciones administrativas que se opongan al presente acuerdo.
+
+TERCERO. Se instruye a la Secretaría de Planeación, Administración y Finanzas a realizar las modificaciones, orgánico estructurales y financieras, necesarias para la aplicación de las reformas contenidas en el presente acuerdo.
