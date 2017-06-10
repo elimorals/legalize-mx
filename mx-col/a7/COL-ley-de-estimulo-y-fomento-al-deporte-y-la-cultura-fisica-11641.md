@@ -4,7 +4,7 @@ identifier: "COL-ley-de-estimulo-y-fomento-al-deporte-y-la-cultura-fisica-11641"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-19"
-last_updated: "2017-06-03"
+last_updated: "2017-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY DE ESTIMULO Y FOMENTO AL DEPORTE Y LA CULTURA FISICA DEL ESTADO DE COLIMA -- ANTES LEY DE ESTIMULO Y FOMENTO AL DEPORTE Y LA CULTURA FISICA --
 
-LEY DE ESTIMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA
+LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 19 de abril de 1997.
 
@@ -125,17 +125,21 @@ VIII.- Las instituciones deportivas públicas y privadas del Estado deben colabo
 
 IX.- La distinción entre las diversas manifestaciones o modalidades del deporte resulta necesaria para el óptimo, equitativo y ordenado desarrollo de los sistemas deportivos;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
+(REFORMADA, P.O. 3 DE JUNIO DE 2017) (REPUBLICADA, P.O. 10 DE JUNIO DE 2017)
 
 X.- El desarrollo y la práctica del deporte debe realizarse observando sus bases éticas;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
+(REFORMADA, P.O. 3 DE JUNIO DE 2017) (REPUBLICADA, P.O. 10 DE JUNIO DE 2017)
 
 XI.- En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte; y
 
 > <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2017)</small>
 
 XII.- Las instituciones y los programas en materia de cultura física y deporte, para su implementación optima, deben contar con personal calificado, el cual deberá residir preferentemente en el estado de Colima.
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2017)</small>
+
+XII (SIC).- Fomentar actitudes solidarias, propiciar la cultura de la paz, de la legalidad y la no violencia en cualquier tipo de sus manifestaciones.
 
 ###### ARTICULO 2o.
 
@@ -505,6 +509,10 @@ XII.- La creación del Salón de la Fama del deporte colimense.
 
 XIII.- La creación del muro de honor del deporte colimense.
 
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2017)</small>
+
+XIV.- Los lineamientos para la prevención de la violencia y el fomento de la cultura de la paz en el deporte.
+
 ###### ARTICULO 19.
 
 Las instituciones educativas públicas y privadas podrán promover libremente actividades deportivas, siempre que no contravengan las disposiciones de esta Ley y su reglamento.
@@ -559,9 +567,9 @@ Las actividades físicas y la práctica del deporte en espacios naturales deben 
 
 Asimismo, se respetarán las áreas clasificadas para asegurar la conservación de la diversidad biológica, la protección de ecosistemas y la gestión de recursos, el tratamiento de los residuos y la preservación del patrimonio natural y cultural.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2017)</small>
 
-ARTICULO 23 BIS 6.- Las instalaciones destinadas a la activación física, la cultura física, el deporte y en las que se celebren eventos o espectáculos deportivos deberán proyectarse, construirse, operarse y administrarse en el marco de la normatividad aplicable, a fin de procurar la integridad y seguridad de los asistentes y participantes, privilegiando la sana y pacífica convivencia, de manera que impidan o limiten al máximo las posibles manifestaciones de violencia y discriminación y cualquier otra conducta antisocial.
+ARTICULO 23 BIS 6.- Las instalaciones destinadas a la activación física, la cultura física, el deporte y en las que se celebren eventos o espectáculos deportivos deberán proyectarse, construirse, operarse y administrarse en el marco de la normatividad aplicable, a fin de procurar la integridad y seguridad de los asistentes y participantes, privilegiando la sana y pacífica convivencia, de manera que impidan o limiten al máximo las posibles manifestaciones de violencia y discriminación y cualquier otra conducta antisocial, propiciando en todo tiempo la cultura de la paz con el fin de conseguir que el deporte sea un referente de integración y convivencia social.
 
 ### CAPITULO VI. DE LA PARTICIPACION DE LOS MUNICIPIOS EN EL SISTEMA ESTATAL DEL DEPORTE
 
@@ -813,9 +821,13 @@ IX.- Fomentar el deporte entre sus compañeros.
 
 X.- Cooperar con las autoridades en los muestreos que se deban de realizar para detectar posibles casos de uso de sustancias prohibidas en la práctica del deporte.
 
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2017)</small>
+
+XI.- Fomentar entre sus compañeros y clubes, actitudes solidarias, propiciar la cultura de la paz, con el fin de lograr que el deporte sea un referente de integración y convivencia social.
+
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2009)</small>
 
-XI.- Las demás que le sean señaladas por la presente Ley.
+XII.- Las demás que le sean señaladas por la presente Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
@@ -1028,3 +1040,9 @@ P.O. 3 DE JUNIO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
 
 SEGUNDO.- Queda derogada toda disposición que contravenga lo dispuesto por el presente decreto.
+
+P.O. 10 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 303 POR EL QUE SE REFORMAN LAS FRACCIONES X Y XI DEL ARTÍCULO 1° BIS; EL ARTÍCULO 23 BIS 6; Y SE ADICIONAN LA FRACCIÓN XII AL ARTÍCULO 1° BIS; LA FRACCIÓN XIV DEL ARTÍCULO 18; Y UNA FRACCIÓN XI AL ARTÍCULO 34, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN XI; TODOS DE LA LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
