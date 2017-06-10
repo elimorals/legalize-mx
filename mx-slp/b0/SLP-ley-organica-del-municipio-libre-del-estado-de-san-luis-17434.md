@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2017-05-31"
+last_updated: "2017-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -37,7 +37,7 @@ DECRETO 554
 
 LA QUINCUAGESIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
 
-...
+[...]
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
@@ -1865,19 +1865,13 @@ Los ayuntamientos cuidarán que en los Consejos de Desarrollo Social Municipal, 
 
 Asimismo, procurarán que en la integración de todos los organismos se incluyan personas de los sectores de mayor representatividad en la población, y que tengan el perfil idóneo para el desempeño de las responsabilidades que se les asigne.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2017)</small>
 
-ARTICULO 102 BIS. Para la constitución de los organismos a que se refiere este Capítulo, los ayuntamientos podrán contar, previo convenio, con la colaboración del Consejo Estatal Electoral y de Partición (sic) Ciudadana, a efecto de que les proporcione el apoyo logístico, operativo y material para realizar los procesos de elección correspondientes.
+ARTÍCULO 102 BIS. Para la integración de los organismos a que se refiere este Capítulo, los ayuntamientos deberán contar con la colaboración y coordinación del Consejo Estatal Electoral y de Participación Ciudadana, a efecto de que les proporcione el apoyo logístico, operativo y material para realizar los procesos de elección correspondientes, y se haga cargo de los mismos.
 
-La celebración del convenio correspondiente deberá celebrarse a más tardar cuarenta y cinco días antes del proceso de elección que corresponda; el Consejo Estatal Electoral y de Partición (sic) Ciudadana podrá hacerse cargo de los procesos de elección a que se refiere el párrafo que antecede.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
-
-ARTICULO 102 TER. Los ayuntamientos que no requieran del apoyo y colaboración del Consejo Estatal Electoral y de Participación Ciudadana para la constitución de los organismos de participación ciudadana, deberán remitirle, a más tardar treinta días antes de la emisión de la convocatoria respectiva, la metodología que utilizarán en los procesos de elección de quienes integrarán dichos organismos.
-
-Recibida la propuesta metodológica, el Consejo la analizará y emitirá su opinión técnica, en un plazo que no excederá de quince días contados a partir de su recepción, proponiendo a la consideración del ayuntamiento respectivo, las adecuaciones que estime necesarias para dotar de certeza, legalidad, imparcialidad y objetividad, la constitución de los organismos de participación ciudadana.
-
-La convocatoria para las asambleas que tengan como fin la elección de las personas que deban de integrarse a los organismos de participación ciudadana deberán publicarse un mes antes a la fecha programada para la asamblea que corresponda, en uno de los diarios de mayor circulación del Estado, en el portal de transparencia del municipio, y en sus estrados. Asimismo, deberá ser remitida con la misma antelación, al Consejo Estatal Electoral y de Participación Ciudadana, quien podrá designar observadores. Las asambleas que no cumplan con estos requisitos se considerarán nulas, así como las resoluciones que en ellas se tomen.
+ARTÍCULO 102 TER. Para el debido cumplimiento de lo dispuesto en el artículo anterior, los ayuntamientos deberán expedir el Reglamento para la integración y funcionamiento de los organismos de participación ciudadana, para lo cual el Consejo Estatal Electoral y de Participación Ciudadana emitirá lineamientos de apoyo al respecto, a fin de unificar la metodología de todos los ayuntamientos, para dotar de certeza, legalidad, imparcialidad y objetividad los procedimientos respectivos. Los procesos llevados a cabo sin observar los lineamientos generales emitidos por el Consejo Estatal Electoral y de Participación Ciudadana, serán nulos.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
 
@@ -2950,3 +2944,13 @@ P.O. 31 DE MAYO DE 2017.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0658.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 31, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 102 BIS, Y 102 TER, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMAN LOS ARTÍCULOS 30 EN SU PÁRRAFO SEGUNDO Y 44 EN SU FRACCIÓN IV EL INCISO H) DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente en que se declare la procedencia de la reforma Constitucional que modifica el párrafo primero del artículo 31, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, previa publicación en el Periódico Oficial del Estado "Plan de San Luis".. (sic)
+
+SEGUNDO. Dentro de los sesenta días naturales posteriores a la entrada en vigor del presente Decreto, los ayuntamientos del Estado de San Luis Potosí deberán expedir o reformar los reglamentos o disposiciones administrativas respectivas.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
