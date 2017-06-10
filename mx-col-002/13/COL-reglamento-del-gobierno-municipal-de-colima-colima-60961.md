@@ -4,7 +4,7 @@ identifier: "COL-reglamento-del-gobierno-municipal-de-colima-colima-60961"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-12"
-last_updated: "2016-12-24"
+last_updated: "2017-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2017.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de abril de 2008.
 
@@ -2541,7 +2541,7 @@ De conformidad con lo dispuesto por el artículo 4º de la Ley de Presupuesto, C
 
 El Ayuntamiento ejerce su administración por conducto de las siguientes dependencias:
 
-l. Secretaría del H. Ayuntamiento.
+I. Secretaría del H. Ayuntamiento.
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -3337,7 +3337,7 @@ X.- Rendir anualmente al Presidente Municipal un informe de sus actividades incl
 
 Artículo 196 bis.- La Oficina de Resiliencia es un (sic) dependencia encargada de trabajar en la capacidad del Municipio para soportar impactos y tensiones, conservando sus funciones esenciales y de recuperación rápida y efectivamente, a través de mecanismos que permitan mantener y mejorar las habilidades de adaptación respecto de los diferentes fenómenos sociales, políticos, naturales, y aquellos generados por el hombre; estará a cargo de un Jefe de Oficina de Resiliencia (Chief Resilience Officer CRO), mismo que tendrá las siguientes atribuciones:
 
-l. Bajo la dirección del Presidente Municipal y la orientación del Instituto de Planeación para el Municipio de Colima: planificar, organizar, dirigir, implementar, supervisar y gestionar; la ejecución del Plan, Programa y Estrategia de Resiliencia para (sic) Ciudad de Colima, asíì (sic) como los programas que de él deriven;
+I. Bajo la dirección del Presidente Municipal y la orientación del Instituto de Planeación para el Municipio de Colima: planificar, organizar, dirigir, implementar, supervisar y gestionar; la ejecución del Plan, Programa y Estrategia de Resiliencia para (sic) Ciudad de Colima, asíì (sic) como los programas que de él deriven;
 
 II. Analizar y utilizar los estudios y programas existentes sobre vulnerabilidad y riesgos, incluidos los socioeconómicos, de Seguridad Publica y Cambio Climático en Ciudad de Colima, como una de las bases fundamentales para elaborar la Estrategia de Resiliencia;
 
@@ -3715,7 +3715,7 @@ r) Proporcionar al trabajador los conocimientos, para eficientar sus habilidades
 
 Artículo 216 bis.- La Jefatura de Departamento de Calidad tendrá a su cargo las siguientes funciones:
 
-l.- Establecer y difundir en las dependencias centralizadas y descentralizadas del Ayuntamiento una cultura de trabajo bajo un modelo de Calidad y Mejora Continua.
+I.- Establecer y difundir en las dependencias centralizadas y descentralizadas del Ayuntamiento una cultura de trabajo bajo un modelo de Calidad y Mejora Continua.
 
 II.- Ser un facilitador en el establecimiento, implementación y mantenimiento de los procesos necesarios para el Sistema de Gestión de la Calidad, con la finalidad de preservar la certificación de los procesos a través de la mejora continua.
 
@@ -4211,7 +4211,7 @@ X.- Las demás que le encomienden el Presidente Municipal, este Reglamento y otr
 
 B. En materia de Desarrollo Urbano y Ecología:
 
-l.- Expedir el dictamen de vocación del suelo, gestionando previamente ante la Secretaría de Infraestructura y Desarrollo Urbano del Gobierno del Estado se verifique su congruencia, en los casos previstos en la Ley de Asentamientos Humanos del Estado.
+I.- Expedir el dictamen de vocación del suelo, gestionando previamente ante la Secretaría de Infraestructura y Desarrollo Urbano del Gobierno del Estado se verifique su congruencia, en los casos previstos en la Ley de Asentamientos Humanos del Estado.
 
 II.- Autorizar los proyectos ejecutivos de urbanización y controlar su ejecución.
 
@@ -4443,7 +4443,13 @@ XXIV.- Diseñar e implementar los programas de separación de residuos sólidos 
 
 XXV.- Supervisar el diseño, la implementación y la difusión de los programas de concientización ciudadana para el correcto manejo de los residuos sólidos urbanos por parte de los ciudadanos.
 
-XXVI.- Las demás que le otorguen las Leyes, Reglamentos y Manuales de Organización.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2017)</small>
+
+XXVI.- Coordinarse con la Procesadora Municipal de Carne, para que en auxilio de ésta, participe en el aseguramiento de ganado o animales que se encuentren pastando en vías públicas, plazas públicas, jardines, parques, áreas de reforestación, derechos de vía de carreteras y ferrocarriles, o jardineras de viviendas particulares no circuladas, aun cuando el pastoreo se efectúe bajo vigilancia del dueño o estando los animales amarrados; la Dirección General de Tránsito Municipal y Seguridad Ciudadana auxiliará en dicho aseguramiento.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2017)</small>
+
+XXVII.- Las demás que le otorguen las Leyes, Reglamentos y Manuales de Organización.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 2016)</small>
 
@@ -4727,9 +4733,13 @@ XV.- Informar al Consejo Municipal de Seguridad Pública sobre las actividades q
 
 XVI.- Promover ante la Academia Estatal y Nacional de Seguridad Pública la implementación de programas de capacitación que permitan profesionalizar los perfiles personales de los elementos de seguridad pública y vialidad.
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2017)</small>
 
-XVII.- Las demás que señalen la Ley, los Reglamentos y Manuales de Organización.
+XVII.- Auxiliar a la Procesadora Municipal de Carne y a la Dirección General de Servicios Públicos, para que en las tareas de aseguramiento de ganado o animales que se encuentren pastando en vías públicas, plazas públicas, jardines, parques, áreas de reforestación, derechos de vía de carreteras y ferrocarriles, o jardineras de viviendas particulares no circuladas, se apliquen las medidas preventivas, para mantener la seguridad de tránsito a los conductores y transeúntes.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2017)</small>
+
+XVIII.- Las demás que señalen la Ley, los Reglamentos y Manuales de Organización.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2016)</small>
 
@@ -4893,7 +4903,7 @@ XIV.- Proponer al Ayuntamiento la celebración de convenios con los Gobiernos Es
 
 b) La Jefatura de Departamento de Promoción Económica, que ejercerá las siguientes funciones:
 
-l. Fomentar el crecimiento económico del municipio, que impulse el fortalecimiento equilibrado de los sectores de la economía, en un marco jurídico que brinde seguridad a las empresas en todo el proceso productivo.
+I. Fomentar el crecimiento económico del municipio, que impulse el fortalecimiento equilibrado de los sectores de la economía, en un marco jurídico que brinde seguridad a las empresas en todo el proceso productivo.
 
 II. Impulsar la desregulación en materia económica y simplificación administrativa a fin de crear un entorno favorable y competitivo para impulsar las actividades económicas.
 
@@ -5387,7 +5397,13 @@ IV.- Celebrar toda clase de actos y contratos que se requieran para el cumplimie
 
 V.- Adquirir y enajenar, por cualquier medio legal, toda clase de bienes muebles e inmuebles que se requieran para el cumplimiento de los objetivos antes expuestos.
 
-VI.- Los demás que las Leyes y Reglamentos le concedan.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2017)</small>
+
+VI.- Auxiliar a la población y prestar los servicios de su competenciaen (sic) el aseguramiento de ganado o animales que se encuentren pastando en calles, plazas públicas, jardines, parques, áreas de reforestación, derechos de vía de carreteras y ferrocarriles, o jardineras de viviendas particulares no circuladas, para su posterior remisión a los corrales de la Procesadora Municipal de Carne, así como aplicar las medidas preventivas, para mantener la seguridad ciudadana y de tránsito.. (sic)
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2017)</small>
+
+VII.- Los demás que las Leyes y Reglamentos le concedan.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -5521,7 +5537,7 @@ XII.- Las demás que establezca el presente Acuerdo, y el Reglamento Interior.
 
 Artículo 278 1 BIS.- El Instituto de la Juventud para el Municipio de Colima, es un organismo público descentralizado de la Administración Pública Municipal, con personalidad jurídica y patrimonio propio; tiene como objetivo general establecer una política integral de promoción, apoyo y asesoría en beneficio de las y los jóvenes del municipio, principalmente de aquellos cuyo rango de edad sea de los 12 a los 29 años, que estará a cargo del propio Instituto y de las diversas dependencias del Gobierno Municipal; impulsar su desarrollo, integración si como su participación plena y eficaz en la vida económica, laboral, política, cultural, científica, social, deportiva y recreativa, promoviendo la igualdad de oportunidades para varones y mujeres, además de sus principales objetivos que son:
 
-l. Definir y ejecutar el plan de trabajo del instituto impulsando la igualdad entre varones y mujeres, mediante la incorporación de la perspectiva de género en todos sus programas y acciones; definiendo los programas específicos a implementar, distinguiendo los que serán ejecutados por el Instituto y los que serán llevados a cabo en coordinación con otras dependencias, señalando los programas concretos y las dependencias responsables.
+I. Definir y ejecutar el plan de trabajo del instituto impulsando la igualdad entre varones y mujeres, mediante la incorporación de la perspectiva de género en todos sus programas y acciones; definiendo los programas específicos a implementar, distinguiendo los que serán ejecutados por el Instituto y los que serán llevados a cabo en coordinación con otras dependencias, señalando los programas concretos y las dependencias responsables.
 
 II. Crear, promover y ejecutar acciones y programas que impulsen el desarrollo integral de las y los jóvenes del municipio, tendientes a incrementar su integración y participación plena y eficaz para generar oportunidades en su favor en los aspectos en la vida económica, laboral, política, cultural, científica, social, deportiva y recreativa haciendo partícipes a los sectores público, social y privado.
 
@@ -6630,3 +6646,15 @@ CUARTO.- La Oficina de Resiliencia será financiada con los recursos que suminis
 No obstante lo anterior, y dado que el recurso será administrado por la Hacienda Municipal, este debe regirse por las normas de contabilidad gubernamental y fiscalización; por lo tanto, se instruye al Tesorero Municipal a efecto de que realice las adecuaciones en las partidas presupuestales para la administración del recurso.
 
 En virtud de la naturaleza y temporalidad del cargo, la persona designada para estar al frente de la Oficina de Resiliencia será incorporada a laborar mediante contrato, y bajo ninguna circunstancia obtiene alguno de los beneficios señalados por la Ley de los Trabajadores al servicio del Gobierno del Estado, Ayuntamientos y Organismos Descentralizados del Estado de Colima.
+
+P.O. 10 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE APRUEBA LA REFORMA DE LAS FRACCIONES XXVI DEL ARTÍCULO 239, XVII DEL ARTÍCULO 254, Y VI DEL ARTÍCULO 274; LA ADICIÓN DE LAS FRACCIONES XXVII AL ARTÍCULO 239, LA XVIII AL ARTÍCULO 254, Y LA VII AL ARTÍCULO 274; TODOS DEL REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA."]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Presidente Municipal dispondrá se imprima, publique, circule y se dé el debido cumplimiento, de acuerdo con lo dispuesto por el artículo 47, fracción I, incisos a) y f), de la Ley del Municipio Libre del Estado de Colima, y 140 del Reglamento del Gobierno del Municipio de Colima.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias que se opongan a las modificaciones contenidas en el presente acuerdo.
+
+CUARTO.- Notifíquese el presente acuerdo a la Procesadora Municipal de Carne, a efecto de que mediante el uso de sus facultades establezca las cantidades a pagar por el aseguramiento de ganado en vía pública.
