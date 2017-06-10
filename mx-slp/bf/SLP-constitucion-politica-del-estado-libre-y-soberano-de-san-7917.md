@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2017-05-31"
+last_updated: "2017-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2017.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -555,19 +555,29 @@ La ley determinará los organismos que tendrán a su cargo esta función y la de
 
 Durante el tiempo que comprendan las campañas electorales, y hasta la conclusión de la jornada electoral, deberá suspenderse toda difusión de propaganda gubernamental en los medios de comunicación social, tanto de los poderes, Ejecutivo, Legislativo y Judicial, así como de los ayuntamientos y sus delegaciones. Se exceptúa de lo anterior la información que difundan las autoridades electorales, las relativas a servicios de salud y el ámbito educativo, así como a la protección civil en casos de emergencia.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 31.
 
-El Consejo Estatal Electoral y de Participación Ciudadana es un organismo de carácter permanente, autónomo, independiente en sus decisiones y funcionamiento; con personalidad jurídica y patrimonio propios; encargado de vigilar el cumplimiento de las disposiciones constitucionales y reglamentarias de la materia electoral; de preparar, desarrollar y vigilar los procesos electorales estatales y municipales; así como los procesos de consulta ciudadana; integrado conforme lo disponga la ley respectiva.
+El Consejo Estatal Electoral y de Participación Ciudadana es un organismo de carácter permanente, autónomo, independiente en sus decisiones y funcionamiento; con personalidad jurídica y patrimonio propio; integrado conforme lo disponga la ley respectiva; encargado de vigilar el cumplimiento de las disposiciones constitucionales y reglamentarias de la materia electoral; de preparar, desarrollar y vigilar los procesos electorales estatales y municipales; así como los procesos de consulta ciudadana e integración de los organismos de participación ciudadana de los ayuntamientos.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 La calificación de las elecciones de Gobernador, diputados locales, y ayuntamientos, corresponde al Consejo Estatal Electoral y de Participación Ciudadana o, en su caso, al Instituto Nacional Electoral, de conformidad con la Constitución Federal y de acuerdo a las leyes federales y locales electorales.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+
 El Consejo Estatal Electoral y de Participación Ciudadana es competente para imponer las sanciones administrativas, por infracción a las disposiciones electorales, en los términos que establezca la ley.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 El Consejo Estatal Electoral y de Participación Ciudadana contará con un órgano de dirección superior integrado por un consejero Presidente y seis consejeros electorales, con derecho a voz y voto; un secretario ejecutivo y representantes de los partidos políticos y, en su caso, el representante del candidato independiente a Gobernador del Estado; quienes concurrirán a las sesiones sólo con derecho a voz.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+
 Los consejeros electorales integrantes del Consejo Estatal Electoral y de Participación Ciudadana durarán en su encargo un periodo de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones; serán nombrados por el Consejo General del Instituto Nacional Electoral, y podrán ser removidos por causas graves que establezca la ley.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 Los consejeros electorales y demás servidores públicos del Consejo Estatal Electoral y de Participación Ciudadana, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
@@ -3288,3 +3298,13 @@ P.O. 31 DE MAYO DE 2017.
 PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0658.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 31, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 102 BIS, Y 102 TER, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMAN LOS ARTÍCULOS 30 EN SU PÁRRAFO SEGUNDO Y 44 EN SU FRACCIÓN IV EL INCISO H) DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Dentro de los sesenta días naturales posteriores a la entrada en vigor del presente Decreto, los ayuntamientos del Estado de San Luis Potosí, y el Consejo Estatal Electoral y de Participación Ciudadana, deberán expedir o reformar los reglamentos o disposiciones administrativas respectivas.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
