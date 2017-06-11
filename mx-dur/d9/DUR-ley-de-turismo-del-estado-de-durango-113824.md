@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-turismo-del-estado-de-durango-113824"
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2017-03-05"
+last_updated: "2017-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE TURISMO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial de Estado de Durango, el jueves 3 de marzo de 2016.
 
@@ -359,13 +359,25 @@ Las instituciones, dependencias y entidades del sector público del Ejecutivo Es
 
 ### CAPÍTULO VII. DEL TURISMO ACCESIBLE
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2017)</small>
+
 ###### Artículo 14.
 
-La Secretaría, con el apoyo y en coordinación de las dependencias y autoridades competentes, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a la población con alguna discapacidad.
+La Secretaría, con el apoyo y en coordinación con las dependencias y autoridades competentes, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a la población con alguna discapacidad conforme a las disposiciones establecidas en el presente capítulo y en la Ley Estatal para la Integración Social de las Personas con Discapacidad. La Secretaría también deberá:
+
+I.- Contar con personal preparado para atender a personas con discapacidad, que conozca los diversos medios especiales de comunicación con ellas;
+
+II.- En el material impreso y digital donde promueva la actividad turística, incluirá información sobre los servicios e instalaciones accesibles, incorporando los símbolos internacionales de la materia;
+
+III.- Promover la creación de material y actividades turísticas en formatos accesibles para personas con discapacidad; y
+
+IV.- Incluir en el Registro Estatal de Turismo, un apartado que incluya a los prestadores de servicios turísticos que cuenten con instalaciones, infraestructura y transporte para personas con discapacidad, así como los proveedores de asistencia médica especializada.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2017)</small>
 
 ###### Artículo 15.
 
-Los prestadores de servicios turísticos deberán proveer lo necesario para que las personas con discapacidad cuenten con accesibilidad a los servicios en condiciones adecuadas.
+Los prestadores de servicios turísticos deberán proveer lo necesario para que las personas con discapacidad cuenten con accesibilidad a los servicios en condiciones adecuadas, lo cual no será motivo para incrementar sus tarifas.
 
 La misma obligación tendrán las autoridades respecto de los sitios culturales, de recreación, áreas públicas y afines con afluencia turística.
 
@@ -753,7 +765,9 @@ VII. Expedir, aún sin solicitud del turista, factura detallada, nota de consumo
 
 VIII. Profesionalizar a sus trabajadores y empleados, en los términos de las leyes respectivas, participando en las convocatorias de capacitación que se ofrezcan al sector, en coordinación con la Secretaría;
 
-IX. Disponer de lo necesario para que los inmuebles, edificaciones y servicios turísticos incluyan las especificaciones que permitan la accesibilidad a toda persona de cualquier condición;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2017)</small>
+
+IX. Disponer de lo necesario para que los inmuebles, edificaciones y servicios turísticos incluyan las especificaciones que permitan la accesibilidad a toda persona de cualquier condición. Además, deberán estar preparados para atender a personas con discapacidad en casos de evacuación o situaciones de emergencia;
 
 X. Cumplir con las características y requisitos exigidos, de acuerdo a su clasificación en los términos de la presente Ley;
 
@@ -968,3 +982,11 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 11 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 151. POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 14, 15 Y 65 DE LA LEY DE TURISMO DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
