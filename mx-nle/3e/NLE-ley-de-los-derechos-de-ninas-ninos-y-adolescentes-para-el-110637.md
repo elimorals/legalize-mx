@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-11063
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-27"
-last_updated: "2016-12-14"
+last_updated: "2017-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 27 de noviembre de 2015.
 
@@ -62,6 +64,10 @@ I. Garantizar un enfoque integral, transversal y con perspectiva de derechos hum
 II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez; y
 
 III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de Tratados Internacionales en la materia.
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2017)</small>
+
+IV. Garantizar la accesibilidad a la denuncia ciudadana, como medida de acción, para lo cual operará permanentemente un número gratuito de emergencia 075, el cual será atendido por la Procuraduría de Protección, quien tendrá la atribución de recibir, dar seguimiento y garantizar una atención profesional, inmediata y adecuada a las denuncias relativas al maltrato de los menores. Dichas denuncias podrán ser de manera anónimas (sic).
 
 El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes. Cuando se presenten diferentes interpretaciones, se elegirá la que satisfaga de manera más efectiva este principio rector. Atendiendo a este principio, el ejercicio de los derechos de los adultos no podrá en ningún momento, o circunstancia, condicionar el ejercicio de los derechos de las niñas, niños y adolescentes.
 
@@ -674,8 +680,6 @@ Las formas de violencia intencional contra niñas, niños y adolescentes a que s
 La descripción, la prohibición y la sanción a que se refiere el párrafo anterior se harán atendiendo a lo que establecen las disposiciones aplicables, y estará conforme con los conocimientos científicos interdisciplinarios más avanzados que se tengan en la materia, primordialmente las siguientes formas de violencia:
 
 I. Se tipificarán como delitos graves y como conductas agravadas en virtud de que constituyen un abuso, por el poder que expresa la condición de adulto respecto de la niña, niño, y adolescente, como de la confianza cuando entre el agresor y la víctima existe un lazo personal, cualquiera que este sea, que implique esa confianza;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -1805,19 +1809,27 @@ II. Prestar asesoría jurídica y representación en suplencia a niñas, niños 
 
 III. Coordinar la ejecución y dar seguimiento a las medidas de protección para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada;
 
-IV. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La conciliación no procederá en casos de violencia;
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2017)</small>
 
-V. Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes;
+IV. Atender y dar seguimiento de manera permanente a las quejas o denuncias presentadas mediante el número de emergencia 075, exclusivo para atender casos de maltrato o que pongan en peligro la integridad física o mental de las Niñas, Niños y Adolescentes;
 
-VI. Coadyuvar con el Ministerio Público que promueva los Juicios Especiales de Pérdida de la Patria Potestad;
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2017)</small>
 
-VII. Brindar asesoría jurídica a los promoventes de los procedimientos de adopción y tutela que así lo soliciten;
+V. Hacer campañas de difusión en los medios, vías o canales de comunicación así como medios electrónicos, para poner de conocimiento de la ciudadanía el número gratuito exclusivo de emergencias 075, para denunciar situaciones de maltrato que ponga en peligro la integridad física y mental de las Niñas, niños y adolescentes;
 
-VIII. Girar citatorios, publicar pesquisas, edictos y realizar las demás gestiones necesarias para el cumplimiento de sus funciones;
+VI. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La conciliación no procederá en casos de violencia;
 
-IX. Levantar el acta circunstanciada en la que se dé fe del abandono o exposición de niñas, niños o adolescentes, y determinando en ella lo relativo a la custodia atendiendo al interés superior del niño;
+VII. Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes;
 
-X. Solicitar al Ministerio Público competente la imposición de medidas urgentes de protección especial idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, quien deberá decretarlas a más tardar, durante las siguientes 3 horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente. Son medidas urgentes de protección especial en relación con niñas, niños y adolescentes, además de las establecidas en el Código Nacional de Procedimientos Penales las siguientes:
+VIII. Coadyuvar con el Ministerio Público que promueva los Juicios Especiales de Pérdida de la Patria Potestad;
+
+IX. Brindar asesoría jurídica a los promoventes de los procedimientos de adopción y tutela que así lo soliciten;
+
+X. Girar citatorios, publicar pesquisas, edictos y realizar las demás gestiones necesarias para el cumplimiento de sus funciones;
+
+XI. Levantar el acta circunstanciada en la que se dé fe del abandono o exposición de niñas, niños o adolescentes, y determinando en ella lo relativo a la custodia atendiendo al interés superior del niño;
+
+XII. Solicitar al Ministerio Público competente la imposición de medidas urgentes de protección especial idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, quien deberá decretarlas a más tardar, durante las siguientes 3 horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente. Son medidas urgentes de protección especial en relación con niñas, niños y adolescentes, además de las establecidas en el Código Nacional de Procedimientos Penales las siguientes:
 
 a) El ingreso o egreso de una niña, niño o adolescente a una Institución Asistencial;
 
@@ -1827,51 +1839,51 @@ c) La incorporación de una niña, niña (sic) o adolescente a una familia de ac
 
 Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección, el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente;
 
-XI. Ordenar, fundada y motivadamente bajo su más estricta responsabilidad, la aplicación de medidas urgentes de protección especial establecidas en la fracción anterior, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños o adolescentes, dando aviso de inmediato al ministerio público y a la autoridad jurisdiccional competente;
+XII (SIC). Ordenar, fundada y motivadamente bajo su más estricta responsabilidad, la aplicación de medidas urgentes de protección especial establecidas en la fracción anterior, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños o adolescentes, dando aviso de inmediato al ministerio público y a la autoridad jurisdiccional competente;
 
-XII. Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente;
+XIV. Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente;
 
-XIII. Para la imposición de las medidas urgentes de protección, el Procurador de Protección podrá solicitar el auxilio de las instituciones policiales competentes;
+XV. Para la imposición de las medidas urgentes de protección, el Procurador de Protección podrá solicitar el auxilio de las instituciones policiales competentes;
 
-XIV. En caso de incumplimiento de las medidas urgentes de protección, el Procurador de Protección podrá solicitar a la autoridad competente la imposición de medidas de apremio correspondientes;
+XVI. En caso de incumplimiento de las medidas urgentes de protección, el Procurador de Protección podrá solicitar a la autoridad competente la imposición de medidas de apremio correspondientes;
 
-XV. Determinar el egreso de niñas, niños o adolescentes internados en instituciones públicas o privadas o el traslado a una institución como albergue permanente, o la incorporación a una familia de acogida, recabando su opinión cuando proceda conforme a las disposiciones aplicables del Código Civil vigente en el Estado y tomando en cuenta el dictamen emitido por el equipo multidisciplinario adscrito al Sistema DIF Nuevo León, como medida de protección y asistencia, dando aviso al Juez competente;
+XVII. Determinar el egreso de niñas, niños o adolescentes internados en instituciones públicas o privadas o el traslado a una institución como albergue permanente, o la incorporación a una familia de acogida, recabando su opinión cuando proceda conforme a las disposiciones aplicables del Código Civil vigente en el Estado y tomando en cuenta el dictamen emitido por el equipo multidisciplinario adscrito al Sistema DIF Nuevo León, como medida de protección y asistencia, dando aviso al Juez competente;
 
-XVI. Determinar provisionalmente la custodia de niñas, niños y adolescentes que sufran o hayan sufrido, en cualquier forma, violación de sus derechos; dejándose a salvo los derechos de los interesados e iniciando el procedimiento o trámite ante la autoridad que corresponda;
+XVIII. Determinar provisionalmente la custodia de niñas, niños y adolescentes que sufran o hayan sufrido, en cualquier forma, violación de sus derechos; dejándose a salvo los derechos de los interesados e iniciando el procedimiento o trámite ante la autoridad que corresponda;
 
-XVII. Solicitar al Ministerio Público, o al Juez, según el caso, el ejercicio de las acciones legales necesarias para la protección de las niñas, niños y adolescentes abandonados o víctimas de violencia familiar;
+XIX. Solicitar al Ministerio Público, o al Juez, según el caso, el ejercicio de las acciones legales necesarias para la protección de las niñas, niños y adolescentes abandonados o víctimas de violencia familiar;
 
-XVIII. Dar fe pública en el ejercicio de sus funciones;
+XX. Dar fe pública en el ejercicio de sus funciones;
 
-XIX. Emitir dictámenes que, en su caso, respalden una solicitud ante autoridad judicial de separación cautelar o definitiva de niñas, niños y adolescentes que sufran o hayan sufrido, en cualquier forma, violación de sus derechos;
+XXI. Emitir dictámenes que, en su caso, respalden una solicitud ante autoridad judicial de separación cautelar o definitiva de niñas, niños y adolescentes que sufran o hayan sufrido, en cualquier forma, violación de sus derechos;
 
-XX. Brindar asesoría jurídica, así como asistencia social y psicológica a las personas sujetas a violencia familiar y en general respecto de asuntos en materia familiar;
+XXII. Brindar asesoría jurídica, así como asistencia social y psicológica a las personas sujetas a violencia familiar y en general respecto de asuntos en materia familiar;
 
-XXI. Coadyuvar con las autoridades educativas para que las niñas, niños y adolescentes ocurran a su instrucción educativa obligatoria, vigilando que quienes ejerzan la patria potestad, tutela, guarda o custodia cumplan con esa obligación;
+XXIII. Coadyuvar con las autoridades educativas para que las niñas, niños y adolescentes ocurran a su instrucción educativa obligatoria, vigilando que quienes ejerzan la patria potestad, tutela, guarda o custodia cumplan con esa obligación;
 
-XXII. Realizar las acciones necesarias para brindar atención y protección integral a niñas, niños y adolescentes, que en la calle o lugares públicos, realicen actividades de riesgo o sean objeto de explotación laboral, y en su caso, solicitar al Ministerio Público el ejercicio de las acciones legales correspondientes;
+XXIV. Realizar las acciones necesarias para brindar atención y protección integral a niñas, niños y adolescentes, que en la calle o lugares públicos, realicen actividades de riesgo o sean objeto de explotación laboral, y en su caso, solicitar al Ministerio Público el ejercicio de las acciones legales correspondientes;
 
-XXIII. Gestionar, en su caso, ante el Oficial del Registro Civil la elaboración del acta de expósitos o de niñas, niñas (sic) y adolescentes que sufran o hayan sufrido, en cualquier forma, violación de sus derechos;
+XXV. Gestionar, en su caso, ante el Oficial del Registro Civil la elaboración del acta de expósitos o de niñas, niñas (sic) y adolescentes que sufran o hayan sufrido, en cualquier forma, violación de sus derechos;
 
-XXIV. Ejercer las atribuciones que le señala la Ley de Instituciones Asistenciales que tienen bajo su guarda, custodia o ambas a niñas, niños y adolescentes en el Estado de Nuevo León y su Reglamento;
+XXVI. Ejercer las atribuciones que le señala la Ley de Instituciones Asistenciales que tienen bajo su guarda, custodia o ambas a niñas, niños y adolescentes en el Estado de Nuevo León y su Reglamento;
 
-XXV. Desarrollar los lineamentos y procedimientos a los que se sujetarán para la protección y restitución integral de los derechos de niñas, niños y adolescentes observando lo establecido en el artículo 123 de la Ley General;
+XXVII. Desarrollar los lineamentos y procedimientos a los que se sujetarán para la protección y restitución integral de los derechos de niñas, niños y adolescentes observando lo establecido en el artículo 123 de la Ley General;
 
-XXVI. Coadyuvar con el Sistema Estatal DIF y en la elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que deseen adquirir el carácter de Familia de Acogida o Familia de Acogimiento pre-adoptivo, así como para emitir el certificado de idoneidad correspondiente;
+XXVIII. Coadyuvar con el Sistema Estatal DIF y en la elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que deseen adquirir el carácter de Familia de Acogida o Familia de Acogimiento pre-adoptivo, así como para emitir el certificado de idoneidad correspondiente;
 
-XXVII. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial;
+XIX (SIC). Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial;
 
-XXVIII. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes;
+XXX. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes;
 
-XXIX. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
+XXXI. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
 
-XXX. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos;
+XXXII. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos;
 
-XXXI. Rendir un informe bimestral al Sistema para el Desarrollo Integral de la Familia, con copia al Titular del Ejecutivo Estatal, de los trabajos realizados en su Dependencia;
+XXXIII. Rendir un informe bimestral al Sistema para el Desarrollo Integral de la Familia, con copia al Titular del Ejecutivo Estatal, de los trabajos realizados en su Dependencia;
 
-XXXII. La Procuraduría de Protección será la única autoridad facultada para capacitar, evaluar y certificar a las Instituciones Asistenciales y a los Sistemas DIF Municipales así como al personal que en estas labore, para llevar a cabo acogimiento familiar y/o adopción, de acuerdo al Código Civil del Estado; y
+XXXIV. La Procuraduría de Protección será la única autoridad facultada para capacitar, evaluar y certificar a las Instituciones Asistenciales y a los Sistemas DIF Municipales así como al personal que en estas labore, para llevar a cabo acogimiento familiar y/o adopción, de acuerdo al Código Civil del Estado; y
 
-XXXIII. Las demás obligaciones establecidas en la presente Ley y demás disposiciones aplicables.
+XXXV. Las demás obligaciones establecidas en la presente Ley y demás disposiciones aplicables.
 
 El Procurador de Protección podrá delegar a sus subalternos las atribuciones que se señalan (sic) este artículo.
 
@@ -2526,3 +2538,13 @@ Segundo.- Resulta aplicable el presente Decreto a los matrimonios celebrados con
 Tercero.- La entrada en vigor del presente Decreto, no altera los derechos adquiridos en los juicios de divorcio concluidos en forma ejecutoriada.
 
 Cuarto.- Los asuntos en trámite al entrar en vigor las reformas contenidas en este Decreto, seguirán su curso en la forma que iniciaron y, en su caso, se resolverán observando la jurisprudencia por contradicción 73/2014, publicada en el Semanario Judicial de la Federación, 10 de julio de 2015.
+
+P.O. 12 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 258. SE REFORMA A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE NUEVO LEÓN, MEDIANTE ADICIÓN DE LA FRACCIÓN IV AL ARTÍCULO 2 Y DE LAS FRACCIONES IV Y V AL ARTÍCULO 145 RECORRIÉNDOSE SUBSECUENTEMENTE LAS DEMÁS FRACCIONES DE DICHO ARTÍCULO”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial en el Estado.
+
+Segundo.- Dentro de un plazo de ciento veinte días naturales a partir de la entrada en vigor del presente Decreto, los Municipios y el Estado, deberán homologar sus reglamentos en la materia conforme al presente Decreto.
+
+Tercero.- En caso de que por disposición del Instituto Federal de Telecomunicaciones, el número 075 tenga que migrar al número 911 como un número único ya armonizado a nivel nacional para la prestación de servicios de emergencia, se tome en consideración que preste los mismos servicios por el que fue aprobado el presente Decreto.
