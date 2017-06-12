@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2017-05-15"
+last_updated: "2017-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2017.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -2475,7 +2475,7 @@ Los titulares de las dependencias ejercerán la competencia correspondiente a su
 
 ### CAPÍTULO II. De las Dependencias de la Administración Pública Municipal
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### Artículo 304.
 
@@ -2491,9 +2491,9 @@ IV.- Secretaría de Seguridad Pública y Vialidad;
 
 V.- (DEROGADA, P.O. 21 DE ABRIL DE 2014)
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
 
-VI.- Secretaría de Obras Públicas, Planeación y Desarrollo Urbano,
+VI.- Secretaría de Obras Públicas y Desarrollo Urbano;
 
 VII.- Secretaría de Servicios Públicos;
 
@@ -2501,9 +2501,9 @@ VIII.- Secretaría de Desarrollo Social;
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
 
-IX. Secretaría de Desarrollo Económico, Turismo y Rural,
+IX.- Secretaría de Desarrollo Económico, Turismo y Rural,
 
-X. (DEROGADA, P.O. 19 DE ENERO DE 2015)
+X.- (DEROGADA, P.O. 19 DE ENERO DE 2015)
 
 XI.- Secretaría de Desarrollo Integral de la Familia; y
 
@@ -2539,7 +2539,7 @@ Los Manuales de Organización y Procedimientos, una vez publicados, imponen carg
 
 Los Manuales de Organización y Procedimientos serán elaborados por cada dependencia o en su caso, elaborados por la Secretaría encargada del ámbito administrativo interno municipal, de conformidad a los lineamientos de la dependencia correspondiente y aprobados en todo caso por el titular de la Secretaría respectiva o del organismo descentralizado correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### Artículo 311.
 
@@ -2677,17 +2677,27 @@ d). Departamento de Coordinación de la Juventud de Calvillo (COJUCA).
 
 e). Departamento de Coordinación Educativa.
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
 
 VIII. Secretaría de Desarrollo Económico, Turismo y Rural:
 
-a). Unidad Regional Calvillo del Servicio Nacional de Empleo,
+a). Dirección de Turismo, Cultura y Pueblo Mágico,
 
-b). Departamento de Desarrollo Económico,
+1). Departamento de Turismo y Promoción Municipal;
 
-c). Departamento de Turismo; y
+2). Departamento Pueblo Mágico y artesanos;
 
-d). Departamento de Desarrollo Rural.
+3). Departamento de Cultura.
+
+b). Dirección de Desarrollo Económico y Rural,
+
+1). Unidad Regional Calvillo del Servicio Nacional de Empleo;
+
+2). Departamento de Desarrollo Rural;
+
+3). Departamento de Desarrollo Económico;
+
+4). Fomento Artesanal.
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
 
@@ -20795,251 +20805,53 @@ VI.- Los Comités.
 
 ### CAPÍTULO II. Del Instituto de Promoción y Fomento Cultural de Calvillo
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
-
 ###### Artículo 2116.
 
-Para la organización de los diferentes festivales culturales y ferias patronales y populares en el Municipio de Calvillo, Aguascalientes, se crea el Organismo Público Descentralizado de la Administración Pública Municipal, denominado "Instituto de Promoción y Fomento Cultural de Calvillo".
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
 ###### Artículo 2117.
 
-El Instituto de Promoción y Fomento Cultural de Calvillo, contará con personalidad jurídica, patrimonio propio y domicilio en la Ciudad de Calvillo, Aguascalientes.
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
 ###### Artículo 2118.
 
-El Instituto de Promoción y Fomento Cultural de Calvillo, tendrá como objetivos:
-
-I. Aprovechar plenamente los recursos naturales, artísticos, artesanales e históricos en beneficio de la economía del Municipio y de sus habitantes;
-
-II. Fomentar e incentivar y desarrollar actividades educativas y de difusión de los valores históricos y de turismo cultural del Municipio;
-
-III. Promover e incrementar el número de visitantes al Municipio, ofreciendo una mejor y mayor calidad de los servicios de turismo cultural;
-
-IV. Aumentar la captación de los recursos provenientes de la actividad cultural, destinándolos a la conservación, ampliación y mejoramiento de las instalaciones, eventos y fomento de la cultura Calvillense;
-
-V. Promover regional, nacional e internacionalmente la cultura, el arte y en especial el trabajo artesanal de nuestra gente, a través de los diversos eventos, festivales y demostraciones culturales;
-
-VI. Organizar, supervisar y controlar las ferias tradicionales del Municipio, como son la Feria del Señor del Salitre y la Feria de la Guayaba, asumiendo los derechos, obligaciones y atribuciones que le otorga el presente Código y demás disposiciones legales aplicables; y
-
-VII. Coadyuvar en la producción ejecutiva de eventos artísticos a nivel estatal, regional, nacional e internacional que impulsen al Municipio, así como llevar a cabo su promoción.
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
 ###### Artículo 2119.
 
-El patrimonio del Instituto de Promoción y Fomento Cultural de Calvillo, se integrará:
-
-I. Con los bienes muebles e inmuebles, derechos y obligaciones que le asigne y le transmita los gobiernos Federal, Estatal o Municipal y los que adquiera por cualquier otro título legal;
-
-II. Con los subsidios, transferencias o donaciones que hagan en su favor los gobiernos Federal, Estatal, Municipal o en general, instituciones o personas físicas o morales;
-
-III. Con los beneficios que obtenga de su patrimonio y de las utilidades que logre en el desarrollo de sus actividades;
-
-IV. Con los intereses que produzcan sus inversiones;
-
-V. Con los productos que obtenga de las concesiones o arrendamientos de los locales comerciales y de las instalaciones que conforman su patrimonio, así como los que administre; y
-
-VI. En general, con los productos que obtenga de cualquier concesión que otorgue, de conformidad con las disposiciones correspondientes.
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
 ###### Artículo 2120.
 
-El Instituto de Promoción y Fomento Cultural de Calvillo, quedará integrado de la manera siguiente:
-
-I. La Junta de Gobierno,
-
-II. El Consejo Consultivo, y
-
-III. El Director General.
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
 ###### Artículo 2121.
 
-La Junta de Gobierno del Instituto de Promoción y Fomento Cultural de Calvillo, estará integrada por:
+(DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
-I. Un Presidente, que será el Presidente Municipal;
+Artículo 2121 A.- (DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
-II. Un Secretario Técnico, que será el titular de la Secretaría Ejecutiva;
+Artículo 2121 B.- (DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
-III. Un Tesorero, que será el Secretario de Finanzas y Administración;
+Artículo 2121 C.- (DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
-IV. El Secretario de Gobernación y del Ayuntamiento, que además, suplirá en sus ausencias al Presidente; y
+Artículo 2121 D.- (DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
-V. El Regidor, titular de la Comisión de Educación, Cultura y Deporte.
+Artículo 2121 E.- (DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
-El Instituto de Promoción y Fomento Cultural de Calvillo, contará con un Secretario de Actas y Acuerdos, que asistirá a las sesiones de la Junta de Gobierno, con voz pero sin derecho a voto.
+Artículo 2121 F.- (DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
-El Director General no formará parte de la Junta de Gobierno, pero deberá asistir a las sesiones teniendo derecho a voz, pero no a voto.
+Artículo 2121 G.- (DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
+Artículo 2121 H.- (DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
-Artículo 2121 A.- La Junta de Gobierno del Instituto de Promoción y Fomento Cultural de Calvillo, tendrá las funciones siguientes:
+Artículo 2121 I.- (DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
-I. Normar el aprovechamiento, la administración y la vigilancia de los proyectos culturales que se desarrollen en el Municipio, así como de las instalaciones e infraestructura de carácter cultural y de turismo cultural que el Instituto administre y todas aquellas actividades afines que se determinen;
+Artículo 2121 J.- (DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
-II. Autorizar la adquisición y enajenación de los bienes muebles e inmuebles que constituyan el patrimonio del Instituto de conformidad con la normatividad y el procedimiento aplicable;
+Artículo 2121 K.- (DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
-III. Conocer y evaluar los informes de actividades que presente el Director General;
-
-IV. Conocer los informes financieros y los avances en el Programa de Gastos que presente el Director General;
-
-V. Aprobar los programas operativos anuales que presente el Director General;
-
-VI. Determinar el destino de los excedentes económicos que se generen del cobro de los servicios y concesiones de conformidad con las disposiciones legales aplicables;
-
-VII. Aprobar los reglamentos y demás disposiciones de carácter legal que rijan el funcionamiento del Instituto, así como de los servicios que preste, para someterlos a la consideración del Ayuntamiento;
-
-VIII. Aprobar las concesiones de servicios y conocer del procedimiento de asignación que en su caso se siga para otorgarlas;
-
-IX. Determinar las tarifas con cargo a los usuarios de los servicios que proporcione el Instituto; y
-
-X. Conocer y autorizar la contratación de los créditos y las fuentes de financiamiento que sean necesarios para la consecución de sus objetivos de conformidad con la normatividad aplicable.
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
-
-Artículo 2121 B.- La Junta de Gobierno, previa convocatoria, deberá celebrar sesiones semestralmente, así como las extraordinarias que estime conveniente para resolver asuntos urgentes.
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
-
-Artículo 2121 C.- Las convocatorias serán suscritas por el Presidente o por el Secretario Técnico y contendrán el lugar, la fecha y la hora de la celebración de la sesión, así como el proyecto del orden del día, a la que se acompañará la documentación relativa a los asuntos considerados en la misma y el Acta de la sesión anterior.
-
-El Secretario Técnico hará llegar la convocatoria a los miembros de la Junta de Gobierno cuando menos con cinco días hábiles de anticipación a la fecha de celebración de la sesión.
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
-
-Artículo 2121 D.- El quórum requerido para la celebración de las sesiones se integrará con la asistencia de la mitad más uno de sus integrantes, siempre y cuando esté presente el Presidente o el suplente.
-
-Si la sesión no pudiese celebrarse en el día y hora señalados por falta de quórum, se realizará una nueva convocatoria señalando los motivos y en ésta segunda convocatoria, se celebrará con los miembros presentes.
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
-
-Artículo 2121 E.- Los acuerdos de la Junta de Gobierno serán aprobados por mayoría de votos de los asistentes. En caso de empate, el Presidente o en su caso el Suplente, tendrán voto de calidad.
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
-
-Artículo 2121 F.- El Acta de cada sesión de la Junta de Gobierno deberá ser aprobada por ésta, será suscrita por todos los asistentes y se hará constar en ella, la lista de asistencia, el orden del día y las resoluciones acordadas.
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
-
-Artículo 2121 G.- Los recursos que obtenga el Instituto de Promoción y Fomento Cultural de Calvillo por las actividades que desempeñe deberán aplicarse al funcionamiento, operación, mantenimiento, conservación, fomento promoción, organización, producción, difusión, cultura turística y actividades administrativas que tenga a su cargo.
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
-
-Artículo 2121 H.- El Consejo Consultivo se integrará por:
-
-I. El Director General del Instituto, quien fungirá como Presidente del mismo;
-
-II. El Jefe del Departamento de Turismo;
-
-III. Los vocales con derecho a voz y voto, que serán:
-
-a). El Secretario de Gobernación y del Ayuntamiento;
-
-b). El Secretario de Obras Públicas, Planeación y Desarrollo Urbano;
-
-c). El Secretario de Servicios Públicos;
-
-d). El Director de la Casa de la Cultura de Calvillo;
-
-e). Un representante del Sindicato de Músicos:
-
-f). El Presidente del Consejo Turístico de Calvillo;
-
-g). El Presidente de los Comerciantes Establecidos;
-
-h). El Presidente del Comité Pueblo Mágico;
-
-i). El Coordinador de Educación en el Municipio;
-
-j). El Presidente del Consejo de la Guayaba;
-
-k). El Presidente de la Asociación Ganadera;
-
-l). Asociación de Charros de Calvillo; y
-
-m). Asociación de Autos Antiguos.
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
-
-Artículo 2121 I.- El Consejo Consultivo tendrá las siguientes funciones:
-
-I. Conocer y evaluar los programas del Instituto;
-
-II. Emitir opinión respecto de los asuntos que le encomiende la Junta de Gobierno;
-
-III. Realizar propuestas para la elaboración del Programa Anual de Actividades del Instituto;
-
-IV. Proponer y coordinar los programas y eventos especiales y campañas de promoción turística y cultural que tiendan a reforzar las labores del Instituto y a utilizar integralmente las instalaciones y los servicios que se ofrecen; y
-
-V. Elaborar y someter a la consideración de la Junta de Gobierno su Reglamento Interno y las demás disposiciones de carácter legal que sean necesarias para su correcto funcionamiento.
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
-
-Artículo 2121 J.- El Consejo Consultivo sesionará ordinariamente cada cuatro meses y extraordinariamente cuando el caso lo requiera.
-
-Las convocatorias para las sesiones del Consejo Consultivo serán expedidas por el Director General con tres días de (sic) anteriores a la fecha señalada para la sesión de que se trate.
-
-El quórum requerido para cualquier sesión del Consejo Consultivo será de la mitad más uno de sus miembros presentes.
-
-Si la sesión no pudiera celebrarse en la fecha y hora señaladas por falta de quórum, se deberá realizar una nueva convocatoria y en esta segunda ocasión, se celebrará la sesión con los miembros presentes.
-
-Las decisiones del Consejo Consultivo se tomarán por mayoría simple de votos.
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
-
-Artículo 2121 K.- El Director General del Instituto de Promoción y Fomento Cultural de Calvillo será nombrado por el Presidente Municipal.
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
-
-Artículo 2121 L.- El Director General del Instituto de Promoción y Fomento Cultural de Calvillo tendrá las siguientes funciones:
-
-I. Representar legalmente al Instituto;
-
-II. Actuar como Apoderado General del Instituto con facultades para pleitos y cobranzas y actos de administración;
-
-III. Procurar la defensa, promoción y representación jurídica de los intereses del Instituto en todos aquellos litigios en que éste sea parte, realizándolo por sí o por abogados que sean autorizados por el Ayuntamiento para comparecer ante todo tipo de autoridades civiles, penales, mercantiles, administrativas y del trabajo ya sean locales o federales y de manera conjunta o separada, con facultades para formular y contestar demandas, ejercitar acciones y para desistirse de ellas, para transigir, para comprometer en árbitros y para desahogar y ofrecer pruebas, para absolver posiciones aún las de carácter personal. para recusar, para hacer y recibir pagos, contestar reconvenciones, oponer excepciones dilatorias y perentorias, reconocer firmas y documentos, presentar testigos, protestar a los de la contraria y para que los repregunte y tache, oír autos interlocutorios y definitivos, consentir los favorables e interponer recursos incluyendo el juicio de garantías, nombrar peritos y recusar a los de la contraria, formular acusaciones, denuncias o querellas penales y otorgar el perdón, asumir soluciones conciliatorias, llevar todo tipo de convenios y finiquitos, redargüir documentos falsos, pedir aclaración de sentencias, ejecutar embargos y representar al Instituto en los embargos que en su contra se decreten, pedir el remate de los bienes embargados, asistir a las almonedas, tranzar en juicio, percibir valores y otorgar recibos y cartas de pago, someter juicios a la decisión de jueces, árbitros y arbitradores, gestionar el otorgamiento de garantías y en fin, para promover todos los recursos que favorezcan los intereses del Instituto.
-
-IV. Ejercer Actos de dominio para adquirir y enajenar bienes muebles e inmuebles de conformidad con la normatividad aplicable;
-
-V. Tramitar créditos y fuentes de financiamiento a favor del Instituto y suscribir los títulos de crédito y los convenios y contratos que sean necesarios para este fin, de conformidad con la normatividad aplicable;
-
-VI. Administrar el patrimonio del Instituto;
-
-VII. Rendir el informe trimestral de actividades, financiero y del avance de los programas de gastos del Instituto ante la Junta de Gobierno y demás instancias correspondientes en los términos de la normatividad aplicable;
-
-VIII. Convocar y coordinar las sesiones del Consejo Consultivo;
-
-IX. Elaborar el Plan Anual de Actividades del Instituto y someterlo a la consideración y aprobación de la Junta de Gobierno;
-
-X. Seleccionar y contratar al personal que habrá de prestar sus servicios en el Instituto;
-
-XI. Suscribir convenios, contratos y otorgar concesiones relativas a los servicios que ofrece el Instituto;
-
-XII. Ejercer el control, el orden, la vigilancia, el mantenimiento y la limpieza de las unidades de los servicios culturales y feriales del Instituto;
-
-XIII. Elaborar la normatividad aplicable al Instituto y someterla a la consideración de la Junta de Gobierno para posteriormente presentarla a la aprobación del Ayuntamiento;
-
-XIV. Organizar, coordinar, supervisar y evaluar los festivales y fiestas patronales;
-
-XV. Proponer a la Junta de Gobierno los "perímetros feriales" para las diversas ferias y eventos populares y culturales que se realicen en el municipio;
-
-XVI. Disponer del área a que se refiere la fracción anterior para los efectos de la instalación de las negociaciones y de los atractivos en general que corresponden a la feria y fiestas.
-
-XVII. Fijar las tarifas, gravámenes o exenciones en su caso, que sean de la competencia del Municipio y que deban aplicarse por el uso del suelo, servicios y otros espectáculos que se relacionen directamente con la feria y las fiestas o eventos culturales que organice el Instituto.
-
-XVIII. Vigilar que las empresas que proporcionan diversión y esparcimiento a la niñez y a las familias ofrezcan sus servicios a precios accesibles a la economía popular, por lo que las tarifas que les fije el patronato deberán ser consideradas en precio especial;
-
-XIX. Recaudar las cantidades que correspondan por los conceptos a que se refiere la fracción XIV de este artículo;
-
-XX. Promover y difundir la cultura y el turismo cultural en todos los eventos y fiestas que realice; y
-
-XXI. Las demás que le sean encomendadas por el Presidente Municipal o por el Ayuntamiento.
+Artículo 2121 L.- (DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
 ###### Artículo 2122.
 
@@ -24464,6 +24276,16 @@ P.O. 15 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE CALVILLO, AGS".]
 
 Artículo Segundo (sic).- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Tercero.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Cuarto.- Cúmplase.
+
+P.O. 12 DE JUNIO DE 2017.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL DECRETO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
 
 Artículo Tercero.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
