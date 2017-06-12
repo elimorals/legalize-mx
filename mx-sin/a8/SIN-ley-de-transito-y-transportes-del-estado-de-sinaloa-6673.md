@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-transito-y-transportes-del-estado-de-sinaloa-6673"
 country: "mx"
 rank: "ley"
 publication_date: "1993-04-09"
-last_updated: "2016-12-28"
+last_updated: "2017-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DE TRANSITO Y TRANSPORTES DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 9 de abril de 1993.
 
@@ -57,7 +59,13 @@ La aplicación de la presente Ley y su Reglamento corresponde al Ejecutivo del E
 
 La entidad competente dependiente del Poder Ejecutivo del Estado de Sinaloa que señala el Artículo anterior, es el órgano administrativo encargado de planear, coordinar, autorizar, ejecutar y evaluar en los términos de la legislación respectiva, las acciones necesarias en materia de infraestructura carretera, tránsito, transportes y vialidad del Estado.
 
-La dependencia contará con un órgano técnico auxiliar, con carácter de participación ciudadana, cuyo objeto sea orientar las políticas y programas para la protección y preservación del medio ambiente, vialidad y transporte.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
+
+La dependencia señalada en el artículo anterior contará con un órgano técnico, con las facultades de opinión a que se refiere la presente Ley. Su estructura y operación quedarán establecidas en su Reglamento Interior.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2017)</small>
+
+En cualquier caso, deberán participar servidores públicos de diversas áreas del Ejecutivo estatal, quienes podrán apoyarse en expertos independientes. En dicho órgano técnico no podrán participar concesionarios o permisionarios de servicios regulados por esta Ley, ya sea de manera individual o a través de sus asociaciones.
 
 ### CAPITULO II. DE LAS ATRIBUCIONES
 
@@ -417,9 +425,11 @@ B). De servicio particular;
 
 C). De servicio de seguridad pública.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 46.
 
-Son vehículos de servicio público, de pasajeros o carga aquellos que operan mediante el cobro de tarifas autorizadas y son operados en virtud de una concesión, permiso o autorización.
+Son vehículos de servicio público, de pasajeros o carga, aquellos que operan de forma regular, continua, uniforme y permanente mediante el cobro de tarifas autorizadas o de una contraprestación libremente acordada tratándose de transporte de carga por una contraprestación entre el prestador y el solicitante del servicio, y que son operados al amparo de una concesión, permiso o autorización.
 
 ###### ARTICULO 47.
 
@@ -441,9 +451,11 @@ Los vehículos a que se hace referencia en este artículo, deberán en todo caso
 
 ### CAPITULO V. DEL EQUIPO DE LOS VEHICULOS
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 50.
 
-Los vehículos para su segura circulación sobre calles, caminos y carreteras en el Estado, deben contar con los dispositivos y accesorios señalados en esta Ley y sus Reglamentos y aquellos que a juicio de las autoridades de tránsito sean necesarios de conformidad con las características y uso de dichos vehículos.
+Los vehículos para su segura circulación sobre calles, caminos y carreteras en el Estado, deben contar con los dispositivos y accesorios señalados en esta Ley y sus Reglamentos.
 
 SECCION LUCES Y FRENOS
 
@@ -1245,55 +1257,87 @@ El conductor a quien se le imponga una sanción con base en una acta de hechos p
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 179.
 
-El transporte, como servicio público, es atributo del Estado, siendo suya la facultad de legislar sobre esta materia. Corresponde al Poder Ejecutivo del Estado originalmente la prestación de este servicio, quien se reserva el derecho de hacerlo directamente, a través de los órganos que al efecto se creen, otorgarlo a instituciones oficiales, autorizarlo o concesionarlo a particulares.
+La prestación del servicio público de transporte es una atribución originaria del Estado, siendo facultad del Congreso del Estado legislar sobre esta materia. Corresponde al Poder Ejecutivo del Estado hacerlo directamente, a través de los órganos que al efecto se creen, otorgarlo a instituciones oficiales, autorizarlo o concesionarlo a particulares.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 180.
 
-Se considerará servicio público de transporte de personas o cosas el que se realice por calles y caminos de jurisdicción estatal para la satisfacción de necesidades colectivas en forma general, permanente, regular y continua, sujeto a una tarifa, mediante la utilización de vehículos idóneos para tal efecto.
+Se considerará servicio público de transporte de pasajeros o carga el que se realice por calles y caminos de jurisdicción estatal para la satisfacción de necesidades colectivas en forma general, permanente, regular y continua, sujeto a una tarifa o contraprestación, respectivamente, mediante la utilización de vehículos idóneos para tal efecto.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2017)</small>
+
+El servicio público de transporte de pasajeros se prestará mediante tarifa autorizada en los términos de esta Ley y su Reglamento. El servicio público de transporte de carga estará sujeto a una contraprestación que se acordará libremente entre prestadores y solicitantes del servicio.
 
 ###### ARTICULO 181.
 
 Para una mejor prestación del servicio público de transporte se podrán celebrar convenios de coordinación entre el Estado, la Federación y los Municipios.
 
-El Ejecutivo del Estado podrá autorizar a los permisionarios o concesionarios del servicio público de transporte federal, mediante permisos de paso, para que en la ejecución de ese servicio usen caminos de jurisdicción estatal cuando ello fuese necesario para la prestación del mismo.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
+
+El Ejecutivo del Estado, por conducto de la entidad competente en materia de transportes, y en los términos de lo establecido en la presente Ley y su Reglamento, autorizará a los permisionarios o concesionarios del servicio público de transporte federal, para que exclusivamente en continuación de la ejecución de ese servicio, usen caminos de jurisdicción estatal.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2017)</small>
+
+La autorización a que se refiere el párrafo anterior, no comprende la prestación del servicio público del transporte estatal.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 182.
 
-Cuando se autorice o concesione la prestación del servicio público de transporte, quedará a juicio del Ejecutivo establecer para su explotación las modalidades que dicten el orden público y el interés social pudiendo decretar las medidas tendientes a lograr la más eficaz coordinación, funcionamiento y regulación en la prestación del mismo, de acuerdo con las necesidades del público y congruentes con el desarrollo social y económico de la entidad.
+El Reglamento de esta Ley establecerá las modalidades que dicten el orden público y el interés social, tendientes a lograr la más eficaz coordinación, funcionamiento y regulación en la prestación del servicio público de transporte.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 183.
 
-El Gobierno del Estado, en todo tiempo, cuando así lo exija el interés social podrá prestar o hacerse cargo, en forma provisional o definitiva, del servicio público de transporte en una zona o ruta, estén o no concesionadas, en los siguientes términos:
+Cuando así lo exija el interés social, el Gobierno del Estado podrá hacerse cargo de la prestación del servicio público de transporte en una o varias rutas, estén o no concesionadas, sujetándose a las siguientes disposiciones:
 
-I. Provisionalmente, en los siguientes casos:
+I. Provisionalmente cuando:
 
-A). Cuando los concesionarios o permisionarios se nieguen a o suspendan el servicio sin causa justificada;
+A). Los concesionarios o permisionarios se nieguen a prestar el servicio o lo suspendan sin causa justificada;
 
-B). Cuando por necesidad de la población se requiera; y
+B). La población lo requiera por exceso de demanda; y
 
-C). Cuando exista una grave alteración al orden y la paz social que impida u obstaculice la normal prestación del servicio público de transporte. La intervención del Estado en este caso, cesará cuando se restablezca el orden y la paz social alterados.
+C). Exista alteración grave del orden y la paz social que impida u obstaculice la normal prestación del servicio.
 
-Cuando se haga cargo provisionalmente del servicio público de transporte en una ruta o zona, utilizando el equipo de los concesionarios o permisionarios en los términos de esta fracción, deberá destinar los ingresos obtenidos por la prestación del servicio a los gastos de administración y el remanente se entregará al concesionario o permisionario.
+La intervención del Estado en estos casos, cesará cuando se reinicie y normalice la prestación del servicio; se otorguen concesiones o permisos que satisfagan la demanda; y se restablezca el orden y la paz social alterados, según corresponda.
 
-II. Para hacerse cargo definitivamente de la prestación del servicio público de transporte en una ruta o zona, el Ejecutivo instrumentará a través de la Autoridad de Tránsito y Transportes el procedimiento de revocación de la concesión o permiso y en forma provisional podrá utilizar el equipo de los concesionarios o permisionarios, en tanto concluye dicho procedimiento o mientras la autoridad adquiera el uso o la propiedad de dichos bienes mediante cualesquiera de los medios jurídicos previstos en la Ley. Durante este lapso se estará a lo previsto en el último párrafo de la fracción anterior.
+Si el Gobierno del Estado utiliza el equipo de los concesionarios o permisionarios para prestar el servicio, deberá destinar los ingresos que obtengas (sic) a cubrir en primer término los gastos de operación estrictamente necesarios, y el remanente lo aplicará a la indemnización del concesionario o permisionario.
 
-El precio de indemnización correspondiente se fijará tomando en cuenta el costo de inversión en equipo, el lapso de la vigencia de la concesión y el tiempo que fue explotado el permiso o concesión, realizando a este efecto el estudio socioeconómico y técnico que sirva de base para determinar su monto.
+II. El Ejecutivo del Estado únicamente podrá hacerse cargo de manera definitiva de una ruta de servicio público de transporte, en los términos y por los motivos señalados en el primer párrafo de este artículo, cuando dicha ruta no cuente con una concesión vigente.
+
+El monto de indemnización correspondiente se fijará tomando en cuenta el costo de inversión en equipo, el lapso de la vigencia de la concesión y el tiempo que fue explotado el permiso o concesión, realizando a este efecto el estudio financiero que sirva de base para determinar su monto.
 
 ###### ARTICULO 184.
 
 El Gobierno del Estado implementará políticas y programas tendientes al impulso del servicio de transporte dando prioridad al transporte colectivo.
 
-### CAPITULO II. DE LAS CONCESIONES Y PERMISOS DE RUTA O ZONA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2017)</small>
+
+### CAPITULO II. DE LAS CONCESIONES Y PERMISOS DE RUTA
 
 ###### ARTICULO 185.
 
 Concesión de servicio público de transporte es la autorización que otorga el Ejecutivo del Estado, en los términos de la presente Ley, para prestar al público el servicio de transporte de personas o cosas en los centros poblados y caminos del Estado de Sinaloa.
 
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2017)</small>
+
+Las concesiones para la prestación del servicio público de transporte de carga se otorgarán conforme a lo previsto en las bases de la convocatoria pública que expida la autoridad de Tránsito y Transportes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 186.
 
-Para los efectos de esta Ley, es permiso el que se otorga a una persona, en virtud de una concesión de servicio público de transporte para autorizar la unidad con la que prestará el servicio. Los permisos podrán ser de ruta o zona.
+Para los efectos de esta Ley, es permiso el que se otorga a una persona física o moral, en virtud de una concesión de servicio público de transporte para autorizar la unidad con la que prestará el servicio. En el caso del servicio público de transporte de pasajeros, los permisos podrán corresponder a una ruta.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2017)</small>
+
+En el caso del servicio público de transporte de carga, el concesionario o permisionario podrá prestar el servicio para cualquier tipo de bienes en todos los caminos de jurisdicción estatal.
 
 ###### ARTICULO 187.
 
@@ -1301,67 +1345,121 @@ Es permiso de ruta la autorización que se otorgue para la explotación de un it
 
 ###### ARTICULO 188.
 
-Es permiso de zona la autorización que se otorgue para la explotación de un área determinada del territorio del Estado, con vehículos y conductores especialmente destinados y capacitados para ello.
+(DEROGADO, P.O. 12 DE JUNIO DE 2017)
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 189.
 
-Las concesiones para explotar el servicio público de transporte en el Estado, se otorgarán a las personas físicas y morales, y se expedirán en forma individual o colectiva.
+Las concesiones para explotar el servicio público de transporte en el Estado, se otorgarán a las personas físicas y morales.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2017)</small>
+
+###### ARTICULO 189 Bis.
+
+Estarán impedidos para obtener una concesión para prestar el servicio público de transporte:
+
+I. Toda persona que desempeñe un empleo, cargo o comisión en alguno de los tres Poderes del Estado, así como en los organismos e instituciones de la administración pública paraestatal cualquiera que sea la naturaleza jurídica, estructura o denominación de éstos y quienes desempeñen empleo, cargo o comisión en los Ayuntamientos u organismos e instituciones municipales;
+
+II. Los cónyuges, ascendientes, descendientes y parientes consanguíneos en primer grado en línea recta, de los servidores públicos a que se refiere la fracción anterior;
+
+III. Las sociedades en las que cualquiera de los mencionados en las dos fracciones anteriores tenga o hubiese tenido alguna participación accionaria durante los dos años anteriores al inicio del ejercicio del servidor público, sea o hubiese sido miembro de su consejo de administración, administrador único, Gerente, Director General o sus equivalentes; y
+
+IV. Las personas físicas o morales a las que se hubiera revocado un permiso o concesión para la prestación del servicio de transporte en cualquiera de sus modalidades.
 
 ###### ARTICULO 190.
 
 Cuando dos o más personas pretendan obtener una concesión colectiva, deberán estar constituidas en persona moral, de acuerdo con las leyes respectivas, cuyo objeto y naturaleza jurídica le permita ser concesionaria para la explotación del servicio de transporte.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 191.
 
-Los permisos de ruta o zona que se expidan para las concesiones a personas morales atenderán a la naturaleza jurídica de las mismas, y en su caso se autorizarán individualmente.
+Los permisos de ruta que se expidan para las concesiones a personas morales se autorizarán de manera individual.
 
-Los permisos de ruta o zona que se expidan para las concesiones a personas físicas siempre serán individuales.
+Los permisos de ruta que se expidan para las concesiones a personas físicas siempre serán individuales.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 192.
 
-Las personas físicas o morales sólo podrán ser titulares de una concesión de servicio público de transporte, con el número de permisos que las necesidades del servicio lo requiera a juicio de las Autoridades de Tránsito y Transportes.
+Las personas físicas o morales podrán ser titulares de diversas concesiones y permisos de servicio público de transporte, siempre y cuando no se incurra en prácticas monopólicas o en concentración indebida que representen barreras a la libre concurrencia y a la competencia.
 
 ###### ARTICULO 193.
 
-Las personas físicas sólo podrán ser titulares de tres permisos como máximo conforme a lo establecido en esta Ley.
+(DEROGADO, P.O. 12 DE JUNIO DE 2017)
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 194.
 
-Las concesiones para explotar el servicio público de transporte se concederán preferentemente a quien garantice la prestación del servicio en las condiciones de calidad requeridas por esta Ley y sus Reglamentos.
+Las concesiones para explotar el servicio público de transporte de pasajeros se concederán de conformidad con la convocatoria pública que al efecto emita el Gobierno del Estado, en los términos establecidos en el artículo 231 de la presente Ley.
 
-Entre las personas morales que garanticen la calidad del servicio a que se refiere el párrafo anterior, se encuentran las uniones, alianzas, sindicatos, sociedades cooperativas y mercantiles de trabajadores del volante legalmente constituidas, ya concesionadas o por concesionar.
+Las concesiones para explotar el servicio público de transporte de carga se concederán a cualquier solicitante cumpla (sic) los requisitos establecidos en el Reglamento de la presente Ley y en la convocatoria que se expida.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 195.
 
-La preferencia a que se refiere el artículo anterior tendrá validez siempre y cuando, a juicio del Ejecutivo del Estado, no se propicie el establecimiento de monopolios.
+En el otorgamiento de concesiones para la prestación del servicio público de transporte se evitarán fenómenos de concentración que contraríen el interés público.
 
 ###### ARTICULO 196.
 
-Tratándose de concesiones otorgadas a Sindicatos, Sociedades Cooperativas, Alianzas y otras agrupaciones semejantes, en la autorización de los permisos gozarán de preferencia los trabajadores del volante que tengan mayor antigüedad laborando ininterrumpidamente en el transporte público estatal.
+(DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
 ###### ARTICULO 197.
 
-Para los efectos de esta Ley y su Reglamento, se entienden por trabajadores del volante a todas aquellas personas que tienen como principal fuente de ingresos el producto de su trabajo personal desarrollado en alguna rama del transporte.
+(DEROGADO, P.O. 12 DE JUNIO DE 2017)
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 198.
 
-El número de concesiones o permisos en determinada ruta o zona, estará limitado por las características de vialidad y transporte de las mismas y por las necesidades socio-económicas de la población a beneficiar en relación al servicio ya concesionado.
+El número de concesiones o permisos para el servicio público de transporte de pasajeros, estará determinado por los estudios técnicos que al efecto realice la Autoridad de Tránsito y Transportes, contando con la opinión del órgano técnico a que se refiere el artículo 4° de esta Ley.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 199.
 
-Para fijar el número de permisos que deban explotarse en cada una de las rutas o zonas concesionadas, se estudiará el número de vehículos que sean necesarios para prestar en forma eficiente el servicio público de transporte y procurando que los autorizados para explotar la ruta o zona obtengan ingresos justos, así como las cantidades necesarias para reponer y mantener en condiciones apropiadas los vehículos destinados al servicio.
+Para fijar el número de permisos que deban explotarse en cada una de las rutas concesionadas, la Autoridad de Tránsito y Transportes, con opinión del órgano técnico, estudiará el número de unidades que sean necesarias para prestar en forma eficiente el servicio público de transporte, procurando que los autorizados para explotar la ruta obtengan un retorno razonable de las inversiones realizadas, que les permita mantener las unidades en condiciones óptimas para la prestación del servicio.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 200.
 
-Las concesiones tendrán una vigencia máxima de 25 años. Los permisos sujetarán su vigencia a la de la concesión de la que emanen.
+Las concesiones para prestar el servicio público de transporte de pasajeros y de carga tendrán una vigencia máxima de 25 años. Los permisos sujetarán su vigencia a la de la concesión de la que emanen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 201.
 
-En caso de terminación de la vigencia de una concesión, tendrán preferencia para obtenerla de nuevo, concesionarios que la estén explotando, en igualdad de circunstancias.
+En caso de terminación de la vigencia de una concesión para prestar el servicio público de transporte de pasajeros, su titular podrá solicitar la prórroga antes del vencimiento, únicamente en el caso de que el plazo original hubiera sido insuficiente para amortizar la inversión realizada.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2017)</small>
+
+Para el otorgamiento de la prórroga, el concesionario deberá:
+
+I. Presentar su solicitud seis meses antes del vencimiento de la vigencia de la concesión;
+
+II. Demostrar que no se ha amortizado la inversión original o las inversiones subsecuentes que hubiera realizado;
+
+III. Encontrarse al corriente en el cumplimiento de todas las obligaciones, condiciones y requisitos establecidos en la concesión y en las disposiciones legales aplicables; y
+
+IV. Demostrar mediante estudios técnicos la necesidad de que continúe prestándose el servicio.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2017)</small>
+
+La vigencia de la prórroga no podrá ser superior a la mitad del plazo de vigencia de las concesiones establecido en el artículo 200 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2017)</small>
+
+De no solicitarse la prórroga y acreditarse mediante estudios técnicos la necesidad de continuar prestando el servicio, la autoridad emitirá la convocatoria pública abierta en términos del artículo 231 de esta Ley, para asignarla al nuevo concesionario.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 202.
 
-Cuando un concesionario o permisionario no pueda hacerse cargo de la prestación del servicio, la autoridad estatal para garantizar su prestación podrá autorizarle a otra persona.
+Cuando un concesionario o permisionario del servicio público de transporte de pasajeros no pueda hacerse cargo de la prestación del servicio, la Autoridad de Tránsito y Transportes deberá emitir una convocatoria pública abierta en términos del artículo 231 de esta Ley, para asignarla un (sic) nuevo concesionario.
 
 ### CAPITULO III. DE LOS TIPOS DE SERVICIO PUBLICO
 
@@ -1395,13 +1493,17 @@ III. Transporte escolar.
 
 El servicio de primera de lujo del transporte de personas, deberá prestarse en vehículos cerrados, dotados de equipo especial que garantice condiciones de atención, comodidad, rapidez, seguridad y servicios adicionales.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 205.
 
-El servicio de primera del transporte público de personas, será aquel que se preste en vehículos cerrados y en buenas condiciones de comodidad, higiene, rapidez y seguridad a juicio de las Autoridades de Tránsito y Transportes.
+El servicio de primera del transporte público de pasajeros, será aquel que se preste en vehículos cerrados y en buenas condiciones de comodidad, higiene, rapidez y seguridad, en términos de lo dispuesto en el Reglamento de esta Ley.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 206.
 
-El servicio de segunda del transporte público de pasajeros, será aquél que se preste en vehículos abiertos o cerrados en condiciones aceptables de comodidad, higiene, rapidez y seguridad, a juicio de las Autoridades de Tránsito y Transportes.
+El servicio de segunda del transporte público de pasajeros, será aquél que se preste en vehículos abiertos o cerrados en condiciones aceptables de comodidad, higiene, en términos de lo dispuesto en el Reglamento de esta Ley.
 
 ###### ARTICULO 207.
 
@@ -1409,29 +1511,39 @@ El servicio de transporte público de personas, podrá prestarse en la modalidad
 
 Este servicio deberá prestarse en vehículos cerrados, en buenas condiciones de comodidad, rapidez, seguridad e higiene y acondicionado específicamente para la actividad turística.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 208.
 
-Se entiende por servicio público de transporte de carga en general, el destinado al traslado de mercancías, materiales de construcción, animales y objetos en los términos y condiciones que señala esta Ley y sus Reglamentos.
+Se entiende por servicio público de transporte de carga en general, el destinado al traslado de mercancías, materiales de construcción y animales, en los términos y condiciones que señala esta Ley y sus Reglamentos.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 209.
 
-El servicio público de transporte express será el que se realice en vehículos cerrados, para el traslado de bultos y paquetes pequeños, dentro de los centros poblados.
+El servicio público de transporte express será el que se realice en vehículos cerrados, para el traslado de bultos y paquetes.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 210.
 
-Es servicio especial de transporte público de carga, aquel que a juicio de la Autoridad de Tránsito y Transportes requiera equipo especial del vehículo y especialización del conductor para su traslado, en virtud de las precauciones que se deben tomar atendiendo a la naturaleza misma de la carga.
+Es servicio especial de transporte público de carga, aquel que en los casos señalados en el Reglamento de esta Ley requiera equipo especial del vehículo y especialización del conductor para su traslado, en virtud de las precauciones que se deben tomar atendiendo a la naturaleza misma de la carga.
 
 ###### ARTICULO 211.
 
 Para la prestación del servicio público de transporte de personas en automóvil de alquiler o taxi, serán aplicables en lo conducente, las disposiciones que rigen a otros tipos de servicio público de autotransporte de personas, regulados por esta Ley y su Reglamento, debiendo determinarse al momento del otorgamiento de la concesión, el lugar de la ubicación del sitio de automóviles de alquiler.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 212.
 
-El servicio a que se refiere el artículo anterior se prestará en una zona determinada y mediante el cobro de las tarifas autorizadas.
+La prestación del servicio público de transporte de personas en automóvil de alquiler o taxi se realizará mediante el cobro de tarifas autorizadas por la Autoridad de Tránsito y Transportes, previa opinión favorable del órgano técnico.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 213.
 
-El transporte público de personal a los campos agrícolas y empresas, es aquél de segunda que se presta en vehículos abiertos o cerrados, con las garantías de seguridad necesarias que se den por zona o regiones del Estado de Sinaloa. Su operación estará prevista en el Reglamento de la presente Ley.
+El transporte público de personal a los campos agrícolas y empresas, es aquél de segunda que se presta en vehículos abiertos o cerrados, con las garantías de seguridad necesarias. Su operación estará prevista en el Reglamento de la presente Ley.
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
@@ -1527,11 +1639,15 @@ La Dependencia competente, cuando exista demanda extraordinaria del servicio exc
 
 El personal, operadores y ayudantes en la prestación del servicio exclusivo de turismo, deberá satisfacer los requisitos que al efecto señale la Autoridad de Tránsito y Transportes, conforme a los ordenamientos sobre la materia.
 
-### CAPITULO VII. DE LAS AUTORIZACIONES PARA EL TRANSPORTE PARTICULAR DE CARGA O PERSONAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2017)</small>
+
+### CAPITULO VII. DE LAS AUTORIZACIONES PARA EL TRANSPORTE PARTICULAR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 224.
 
-Se considera como transporte particular aquel que traslade, sin retribución, carga que pertenezca al propietario del vehículo, o transporte personas que tengan con aquél una relación de dependencia directa o inmediata de naturaleza económica, educativa o cultural, o bien relacionada con la prestación directa de un servicio en el que el transporte sea un mero accesorio, considerándose entre otros el traslado de:
+Se considera como transporte particular aquel que utilicen las personas físicas o morales sin retribución, para satisfacer sus necesidades de transporte de pasajeros o de carga, relacionadas directamente con el cumplimiento de su objeto social, y que no se ofrece al público en general, considerándose entre otros el traslado de:
 
 I. Educandos por la propia institución educativa;
 
@@ -1545,25 +1661,35 @@ III. Lo relacionado con los servicios que presten las empresas;
 
 IV. Vehículos por unidades dotadas con grúa;
 
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
+
 V. Productos o artículos propios y conexos a las actividades comercial, industrial, agropecuaria, forestal, pesquera, minera y de la construcción;
 
 VI. Líquidos o gaseosos, en vehículos especiales denominados pipas o tanques; y
 
 VII. Personas o cosas, en casos similares a los anteriores, a juicio de la Dependencia competente.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 225.
 
-A las empresas constructoras y a las de compra y venta de materiales para la construcción, se les podrá autorizar el transporte de sus elementos, maquinaria, personal, o demás equipo que sea de su propiedad y lo requieran para el desarrollo de su actividad, en tanto dichos elementos formen parte del activo fijo de la empresa.
+A las empresas constructoras y a las de compra y venta de materiales para la construcción, se les podrá autorizar el transporte de sus elementos, maquinaria, personal, o demás equipo que sea de su propiedad y lo requieran para el desarrollo de su actividad.
 
-### CAPITULO VIII. DE LOS PERMISOS EVENTUALES DE RUTA O ZONA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2017)</small>
+
+### CAPITULO VIII. DE LOS PERMISOS EVENTUALES DE RUTA
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 226.
 
-La Autoridad de Tránsito y Transportes podrá expedir permisos eventuales de ruta o zona para la prestación del servicio público del transporte.
+La Autoridad de Tránsito y Transportes podrá expedir permisos eventuales de ruta para la prestación del servicio público del transporte de pasajeros.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 227.
 
-La autorización de los permisos de ruta o zona eventuales a que se refiere el artículo anterior se otorgarán en igualdad de condiciones de calidad, en los términos establecidos en el Reglamento.
+La autorización de los permisos de ruta eventuales a que se refiere el artículo anterior se otorgará en igualdad de condiciones de calidad, en los términos establecidos en el Reglamento.
 
 ### CAPITULO IX. DE LAS UNIDADES PARA EL TRANSPORTE
 
@@ -1577,83 +1703,145 @@ Las unidades destinadas a la prestación del servicio público de transporte por
 
 En los tipos de servicio que así lo requieran, deberán contar con el equipo adicional y especializado necesario para el servicio autorizado.
 
-### CAPITULO X. DE LAS SOLICITUDES DE CONCESIONES Y PERMISOS DE RUTA O ZONA Y SU TRAMITACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2017)</small>
+
+### CAPITULO X. DE LAS SOLICITUDES DE CONCESIONES Y PERMISOS DE RUTA Y SU TRAMITACIÓN
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 230.
 
-Las solicitudes para el otorgamiento o modificación de concesiones de servicio público de transporte, permisos de ruta o zona, deberán satisfacer los requisitos que señala la presente Ley y su Reglamento.
+El otorgamiento o modificación de concesiones de servicio público de transporte o permisos de ruta, deberán satisfacer los requisitos que señala la presente Ley y su Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 231.
 
-Las solicitudes para el otorgamiento o modificación de concesiones de servicio público de transporte o permisos de ruta o zona, se deberán presentar ante la Autoridad de Tránsito y Transportes, dándoseles la debida publicidad a fin de dar oportunidad de intervenir a todo tercero al que pudiera lesionarse en sus derechos con el otorgamiento de la concesión o permiso solicitado.
+Las solicitudes para el otorgamiento o modificación de concesiones de servicio público de transporte de personas o permisos de ruta, se deberán presentar ante la Autoridad de Tránsito y Transportes, dándoseles la debida publicidad a fin de dar oportunidad de intervenir a todo tercero al que pudiera lesionarse en sus derechos con el otorgamiento de la concesión o permiso solicitado.
 
 El costo de los trámites, publicaciones y estudios realizados, en virtud de una solicitud, serán cubiertos por los interesados conforme a lo previsto por la Ley de Hacienda del Estado.
 
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2017)</small>
+
+Las solicitudes para el otorgamiento de concesiones y permisos de servicio público de carga, incluyendo modificaciones o renovaciones, se realizarán ante la Autoridad de Tránsito y Transportes, quien deberá resolver en los plazos y conforme los requisitos establecidos en el Reglamento y la Convocatoria que se expida.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2017)</small>
+
+La convocatoria antes referida será expedida por la Autoridad de Tránsito y Transportes, misma que deberá publicarse en el Periódico Oficial "El Estado de Sinaloa", en el sitio de Gobierno del Estado en Internet y en uno de los diarios de mayor circulación de la ciudad en que vaya a prestarse el servicio, con un mínimo de quince días hábiles de anticipación a la fecha que se haya fijado para la recepción de solicitudes, y deberá incluir únicamente los requisitos previstos en esta Ley y su Reglamento.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 232.
 
-No podrá otorgarse concesión, permiso de ruta o zona, sin la previa realización de los estudios socioeconómicos y técnicos que fundamenten la resolución correspondiente.
+No podrá otorgarse concesión para la prestación del servicio público de transporte de pasajeros o permiso de ruta, sin la previa realización de los estudios técnicos que al efecto realice la Autoridad de Tránsito y Transportes.
 
-En el otorgamiento de concesiones nuevas se contará con la opinión favorable del órgano técnico a que se refiere el Artículo 4 de la presente Ley.
+Para el otorgamiento de concesiones para la prestación del servicio público de transporte de pasajeros o permiso de ruta deberá contarse con la opinión favorable previa del órgano técnico de la Autoridad de Tránsito y Transportes.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 233.
 
-El Ejecutivo del Estado podrá otorgar mediante convocatoria, concesiones de servicio público de transporte, cuando se requiera establecer un servicio que tenga características especiales, para satisfacer las necesidades de la ruta o zona de que se trate, o así lo exija el interés social.
+El Ejecutivo del Estado podrá otorgar, mediante convocatoria que cuente con la opinión favorable previa del órgano técnico de la Autoridad de Tránsito y Transportes, concesiones de servicio público de transporte, cuando se requiera establecer un servicio que tenga características especiales, para satisfacer las necesidades de la ruta de que se trate, o así lo exija el interés social.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 234.
 
-El Ejecutivo del Estado podrá decretar el cierre de una ruta o zona, respecto de algún tipo de transporte, cuando ésta se encuentre debidamente atendida. Aún cuando dicho cierre no se hubiere decretado, podrá negar las solicitudes que se presenten cuando el servicio que se pretende prestar se encuentre satisfecho.
+El Ejecutivo del Estado, previa opinión del Órgano Técnico a que se refiere el artículo 4° de esta Ley, podrá decretar el cierre de una ruta, respecto de algún tipo de transporte, cuando ésta se encuentre debidamente atendida. Aun cuando dicho cierre no se hubiere decretado, podrá negar las solicitudes que se presenten cuando el servicio que se pretende prestar se encuentre satisfecho.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 235.
 
-Cuando en una ruta o zona cerrada se decrete la apertura de la ruta o zona, se aumentará el número de vehículos, correspondiendo al Ejecutivo del Estado, previo estudio, resolver lo conducente.
+Cuando en una ruta sea necesario aumentar el número de unidades para la prestación del servicio, la Autoridad de Tránsito y Transportes emitirá la convocatoria para el otorgamiento de nuevas concesiones, previa opinión favorable del órgano técnico de la Autoridad de Tránsito y Transportes.
+
+Cuando en una ruta cerrada se decrete su apertura, la Autoridad en materia de Transporte contando con la opinión del órgano técnico a que se refiere el artículo 4° de esta Ley, dispondrá el incremento del número de unidades en servicio, previo estudio técnico que se realice.
 
 ###### ARTICULO 236.
 
-En igualdad de condiciones, se otorgarán las concesiones o permisos de ruta o zona, según el orden cronológico de la prestación y publicación de la solicitud.
+(DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
-### CAPITULO XI. DE LOS HORARIOS, ITINERARIOS, ZONAS Y TARIFAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRA, P.O. 12 DE JUNIO DE 2017)</small>
 
-### CAPITULO XII. DE LAS OBLIGACIONES DE CONCESIONARIOS Y PERMISIONARIOS
+### CAPÍTULO X BIS. DEL PROCEDIMIENTO PARA EL OTORGAMIENTO DE CONCESIONES Y PERMISOS DEL SERVICIO PÚBLICO DE TRANSPORTE
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2017)</small>
+
+ARTICULO 236 BIS. Para el otorgamiento de concesiones para la prestación del servicio público de transporte de carga, la Autoridad de Tránsito y Transportes con la opinión del órgano técnico, deberá elaborar y someter a la consideración del Gobernador, los proyectos de Declaratoria de Necesidad y de Convocatoria Pública.
+
+La Declaratoria de Necesidad deberá contener:
+
+I. Los estudios técnicos que justifiquen la necesidad de otorgar nuevas concesiones o permisos;
+
+II. La modalidad y el número de concesiones o permisos que se requiere expedir; y
+
+III. El tipo y características de las unidades de transporte que se requieran para la prestación del servicio;
+
+El Gobernador del Estado tomando como base los estudios técnicos y la Declaratoria de Necesidad, ordenará la publicación de la convocatoria pública.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2017)</small>
+
+ARTICULO 236 TER. La Autoridad de Tránsito y Transporte deberá resolver el procedimiento de otorgamiento de la concesión en un plazo que no excederá de ciento veinte días naturales, contados a partir de la publicación de la convocatoria.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 236 QUATER. La Autoridad de Tránsito y Transporte, deberá realizar los trabajos necesarios de monitoreo en forma permanente, para detectar las necesidades de Transporte Público que se vayan presentando en el Estado, debiendo también recibirlas por parte de los usuarios del servicio.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2017)</small>
+
+### CAPITULO XI. DE LAS CONTRAPRESTACIONES, HORARIOS, ITINERARIOS Y TARIFAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 237.
 
-La autorización por el Ejecutivo del Estado para la implantación de horarios, itinerarios, zonas y tarifas, deberá regirse por las disposiciones de este capítulo.
+El servicio público de transporte de pasajeros estará sujeto a horarios, itinerarios y tarifas máximas autorizadas por la Autoridad de Tránsito y Transportes, en este último caso, con la opinión favorable del órgano técnico.
 
-Los permisos de horarios e itinerarios se darán por conducto de la Autoridad de Tránsito y Transportes.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
+
+Las tarifas podrán ser diferenciadas de acuerdo a la calidad y tipo de servicio.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2017)</small>
+
+El servicio público de carga se prestará mediante el cobro de una contraprestación libremente acordada entre el prestador y el solicitante del servicio.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 238.
 
-Todo concesionario o permisionario, deberá recabar la aprobación de la Autoridad de Tránsito y Transportes para los horarios de su ruta, señalando horas de llegada y salida de cada uno de los puntos de la misma. Esta disposición será obligatoria para el servicio urbano, suburbano y foráneo de pasajeros.
+Todo concesionario o permisionario del servicio público de transporte de pasajeros, deberá recabar la aprobación de la Autoridad de Tránsito y Transportes para los horarios de su ruta, señalando horas de llegada y salida de cada uno de los puntos de la misma. Esta disposición será obligatoria para el servicio urbano, suburbano y foráneo de pasajeros.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 239.
 
-Las tarifas que se cobren a los usuarios de las diferentes clases de servicios, deberán autorizarse por el Ejecutivo del Estado.
+Los proyectos de modificación o autorización de tarifas para el transporte público de pasajeros que vayan a ser sometidos a la decisión de la Autoridad de Tránsito y Transportes, contarán con la opinión del órgano técnico previsto en el artículo 4° de esta Ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE AGOSTO DE 1997)</small>
+Las tarifas que se cobren a los usuarios de las diferentes clases de servicios, deberán autorizarse por el Ejecutivo del Estado.
 
 Las tarifas se revisarán durante el segundo bimestre de cada año.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1997)</small>
-
-Los proyectos de modificación o autorización que vayan a ser sometidos a la decisión del Ejecutivo, deberán contar con la opinión fundamentada del órgano técnico a que se refiere el artículo 4 de la presente Ley.
-
 ###### ARTICULO 240.
 
-Las zonas aprobadas por el Ejecutivo del Estado sólo podrán ser modificadas por él mismo, acorde a las necesidades del servicio.
+(DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
 ###### ARTICULO 241.
 
 En la formulación y aplicación de las tarifas, horarios e itinerarios, se observará siempre igualdad de tratamiento para todos los que se encuentren en las mismas condiciones, procurando satisfacer especialmente las necesidades del usuario.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 242.
 
-La vigencia de las tarifas, horarios, itinerarios y zona será indefinida, de acuerdo con la concesión o permiso, pero el Ejecutivo podrá en cualquier momento modificarlas, por causa de interés social, oyendo previamente a los interesados y realizando los estudios que procedan.
+La vigencia de las tarifas, horarios e itinerarios para la prestación del servicio público de transporte de pasajeros será determinada por la Autoridad de Tránsito y Transportes, con opinión previa del órgano técnico.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 243.
 
-Cuando exista un conflicto entre dos o más concesionarios o permisionarios por motivo de zonas, horarios o itinerarios, compete a Tránsito y Transportes conocerlo y oyendo a las partes, resolverá en definitiva.
+Cuando exista un conflicto entre dos o más concesionarios o permisionarios por motivo de horarios o itinerarios, compete a la Autoridad de Tránsito y Transportes conocerlo y oyendo a las partes, resolverá en definitiva.
 
-Al resolver la autoridad los supuestos anteriores, valorará la calidad, eficacia y eficiencia del servicio, así como el trato personal que brinden a los usuarios los concesionarios o permisionarios.
+Al resolver la autoridad los supuestos anteriores, valorará la calidad, eficacia y eficiencia del servicio.
 
 ###### ARTICULO 244.
 
@@ -1675,11 +1863,13 @@ En caso de movimiento de servidores públicos o agentes de policía de cualquier
 
 Las maniobras de carga, descarga y estiba que se ejecuten en las zonas de jurisdicción estatal, se consideran como actividades conexas al transporte. Las tarifas que rijan estos servicios deberán ser autorizadas por la Dependencia del Ejecutivo del Estado facultada para ello.
 
-### CAPITULO XIII. DERECHOS DE LOS USUARIOS
+### CAPITULO XII. DE LAS OBLIGACIONES DE CONCESIONARIOS Y PERMISIONARIOS
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 248.
 
-Todo concesionario o permisionario estará obligado a prestar el servicio público de transporte, con la correspondiente retribución de acuerdo con las tarifas aprobadas, con excepción de los casos establecidos por esta Ley.
+Todo concesionario o permisionario estará obligado a prestar el servicio público de transporte, con la correspondiente tarifa o contraprestación, según sea el caso.
 
 ###### ARTICULO 249.
 
@@ -1691,7 +1881,9 @@ Los concesionarios o permisionarios de cualquiera de los servicios públicos que
 
 I. Cumplir con las estipulaciones que para la prestación de los servicios le fije la concesión respectiva, de acuerdo con esta Ley y disposiciones que por causa de interés social dicte el Ejecutivo del Estado;
 
-II. Cobrar por el transporte de personas o cosas el precio establecido en las tarifas aprobadas previamente por el Ejecutivo;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
+
+II. Cobrar por el transporte de pasajeros o carga la tarifa o contraprestación correspondiente, según sea el caso;
 
 III. Respetar los horarios e itinerarios fijados para la ruta, cuya explotación les haya sido autorizada, debiendo implantar medidas de supervisión y control, a efecto de cumplir con esta obligación;
 
@@ -1713,9 +1905,11 @@ IX. Cumplir las demás obligaciones contenidas en esta Ley y sus Reglamentos.
 
 Las personas morales, que por concesión del Ejecutivo del Estado exploten el servicio público de transporte, estarán obligadas a llevar un libro de registro de sus miembros, asignándoles a cada uno de ellos el número de orden que le corresponda. Asimismo deberán llevar un libro de actas debidamente foliado y autorizado por las autoridades de tránsito y transportes.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 252.
 
-Las personas morales concesionarias, tienen la obligación de incluir en sus estatutos la forma en que los trabajadores se incorporarán como socios de la misma y la manera en que éstos últimos adquirirán un permiso.
+Las personas morales concesionarias, tienen la obligación de incluir en sus estatutos la forma en que los trabajadores se incorporarán como socios de la misma.
 
 ###### ARTICULO 253.
 
@@ -1729,9 +1923,11 @@ En caso de emergencia, todos los propietarios de vehículos de servicio particul
 
 Los concesionarios o permisionarios estarán obligados a remitir semestralmente a la Autoridad de Tránsito y Transportes, informes estadísticos por mes sobre el transporte, número de pasajeros, volumen de carga que movilicen, señalando origen y destino.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 256.
 
-Los concesionarios de transporte en el Estado, deberán contar con las estaciones intermedias y terminales que se requieran a juicio del Ejecutivo del Estado y que reúnan los requisitos señalados en esta Ley y su Reglamento.
+Los concesionarios de transporte en el Estado, deberán contar con las estaciones intermedias y terminales en los términos y con las características señaladas por esta Ley y su Reglamento.
 
 ###### ARTICULO 257.
 
@@ -1745,7 +1941,7 @@ En los vehículos de servicio público de transporte de pasajeros no serán admi
 
 En vehículos de servicio público de pasajeros queda prohibido llevar animales, bultos, paquetes u otros análogos que por su condición, su volumen, aspecto, ruido o mal olor puedan causar molestias a los pasajeros, quienes podrán exigirle al conductor del vehículo y a los inspectores de transporte que se cumpla con lo establecido en este Artículo.
 
-### CAPITULO XIV. DE LA CESION, TRANSIMISION (SIC), ANULACION Y REVOCACION DE LAS CONCESIONES Y PERMISOS
+### CAPITULO XIII. DERECHOS DE LOS USUARIOS
 
 ###### ARTICULO 260.
 
@@ -1773,29 +1969,33 @@ VI. Exigir en caso de pérdida comprobada, tratándose de servicio foráneo, el 
 
 El pasajero que no pueda presentar el recibo que le hubiere sido expedido al entregar su equipaje, sólo podrá retirarlo si identifica satisfactoriamente su contenido.
 
-### CAPITULO XV. DE LA VIGILANCIA DEL SERVICIO PUBLICO DE TRANSPORTE
+### CAPITULO XIV. DE LA CESION, TRANSIMISION (SIC), ANULACION Y REVOCACION DE LAS CONCESIONES Y PERMISOS
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 263.
 
-Las concesiones y permisos de ruta o zona son inembargables. Podrán ser cedidos o transmitidos en los casos y con los requisitos que establece el Reglamento de esta Ley siempre y cuando se acredite haberlos explotado por un lapso no menor a los dos años en su uso.
+Las concesiones y permisos de ruta son inembargables. Podrán ser cedidos o transmitidos en los casos y con los requisitos que establece el Reglamento de esta Ley siempre y cuando se acredite haberlos explotado por un lapso no menor a los dos años.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 264.
 
-Cuando haya falsedad en los informes o documentos que se anexen a la solicitud, la concesión o permiso de ruta o zona se anulará sin perjuicio de aplicar al responsable las penas establecidas en las leyes respectivas.
+Cuando haya falsedad en los informes o documentos que se anexen a la solicitud, la concesión o permiso de ruta se anulará sin perjuicio de aplicar al responsable las penas establecidas en las leyes respectivas.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 265.
 
-Las concesiones y permisos de ruta o zona se revocarán por parte del Ejecutivo del Estado por las siguientes causas:
+Las concesiones y permisos de ruta serán revocadas por el Ejecutivo del Estado cuando se actualice alguna de las siguientes causas:
 
 I. Porque se preste un servicio distinto al expresado en la concesión o permiso;
 
 II. Porque el servicio sea notoriamente deficiente o carezcan los vehículos de los requisitos de seguridad previstos en la presente Ley y sus Reglamentos;
 
-III. Por prestar el servicio fuera de la ruta o zona que exprese la concesión o permiso;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
+
+III. Por prestar el servicio fuera de la ruta que exprese la concesión o permiso;
 
 IV. Por venta del vehículo o cambio de éste sin la autorización correspondiente;
 
@@ -1807,7 +2007,9 @@ VII. Por la comisión intencional de algún hecho delictuoso que merezca pena pr
 
 VIII. Por haberse expulsado al permisionario de la agrupación concesionaria, según el procedimiento establecido en los estatutos respectivos y por causas previstas en éstos o por separarse voluntariamente de la organización.
 
-En caso de que el Ejecutivo del Estado no acuerde la revocación solicitada por la organización ésta perderá en favor del miembro expulsado el permiso individual de ruta o zona, debiéndose otorgar en ese caso la concesión correspondiente;
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
+
+En caso de que el Ejecutivo del Estado no acuerde la revocación solicitada por la organización ésta perderá en favor del miembro expulsado el permiso individual de ruta, debiéndose otorgar en ese caso la concesión correspondiente;
 
 IX. Porque la concesión o permiso hayan sido autorizados sin cumplir los requisitos que establece esta Ley y sus Reglamentos;
 
@@ -1815,7 +2017,9 @@ X. Porque el concesionario o permisionario cambie su nacionalidad mexicana;
 
 XI. Por falta de liquidación dentro de los cuarenta y cinco días naturales siguientes a aquél en que sean exigibles los derechos fiscales correspondientes a la revalidación anual de los permisos o concesiones;
 
-XII. Por hacerse cargo el Gobierno del Estado de la prestación del servicio público de transporte en una ruta o zona directamente o a través de empresas descentralizadas, cuando lo exija así el interés social;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
+
+XII. Por hacerse cargo el Gobierno del Estado en forma definitiva, de la prestación del servicio público de transporte en una ruta, en forma directa o a través de empresas descentralizadas, cuando así lo exija el interés social;
 
 XIII. Por transportar bebidas alcohólicas sin la autorización respectiva;
 
@@ -1849,21 +2053,27 @@ XIX. Por permitir el concesionario o permisionario que el o los vehículos asign
 
 XX. En los demás casos que establezca esta Ley o su Reglamento y otras leyes en la materia.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 266.
 
-Toda persona física o moral que haya sido titular de una concesión o permiso de ruta o zona del servicio público de transporte y que haya dejado de serlo por cesión, anulación o revocación, no podrá obtener la titularidad de otro en un término de cinco años.
+Toda persona física o moral que haya sido titular de una concesión o permiso de ruta del servicio público de transporte y que haya dejado de serlo por cesión, anulación o revocación, no podrá obtener la titularidad de otro en un término de tres años.
 
-### CAPITULO XVI. DE LAS SANCIONES EN LA MATERIA DE TRANSPORTE
+### CAPITULO XV. DE LA VIGILANCIA DEL SERVICIO PUBLICO DE TRANSPORTE
 
 ###### ARTICULO 267.
 
 Para la vigilancia del servicio público de transporte, la Autoridad competente contará con el número de inspectores que el Ejecutivo del Estado considere necesario, los cuales tendrán las siguientes facultades:
 
-I. Vigilar el cumplimiento y aplicación de horarios, itinerarios, zonas y tarifas y demás disposiciones que señale la Dependencia competente;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
+
+I. Vigilar el cumplimiento y aplicación de horarios, itinerarios, tarifas y demás disposiciones que señale la Dependencia competente;
 
 II. Vigilar las condiciones de seguridad, comodidad e higiene de las terminales y vehículos destinados a la prestación del servicio público de transporte;
 
-III. Informar sobre los traspasos y ventas clandestinas de concesiones o permisos de ruta o zona;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
+
+III. Informar sobre los traspasos y ventas clandestinas de concesiones o permisos de ruta;
 
 IV. Realizar las actividades necesarias para el control, cumplimiento y mejoramiento de la prestación del servicio;
 
@@ -1877,7 +2087,7 @@ VI. Impedir la conducción y circulación de los vehículos de transportes, en l
 
 En la vigilancia del servicio público de transporte, participarán también los agentes de tránsito del Estado, en los términos de la presente Ley y su Reglamento.
 
-### CAPITULO XVII. DE LOS RECURSOS
+### CAPITULO XVI. DE LAS SANCIONES EN LA MATERIA DE TRANSPORTE
 
 ###### ARTICULO 269.
 
@@ -1891,27 +2101,29 @@ Las violaciones a lo dispuesto en esta Ley y su Reglamento que se refieran a la 
 
 Atendiendo su gravedad, la autoridad competente de Tránsito y Transportes podrá aplicar por las transgresiones a la presente Ley y su Reglamento, sanciones administrativas consistentes en multa y como medida preventiva y de seguridad la detención y retiro del vehículo automotor, así como de los documentos, placas y tarjeta de circulación del mismo, en los casos previstos expresamente en dichos ordenamientos.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 271.
 
-La aplicación de horarios, itinerarios, tarifas y demás circunstancias relacionadas con el servicio público de transporte, que no tengan la aprobación del Ejecutivo del Estado se sancionarán con multas que variarán del importe de uno a treinta veces el valor diario de la Unidad de Medida y Actualización a juicio de la Autoridad de Tránsito y Transportes.
+La aplicación de horarios, itinerarios, tarifas y demás circunstancias relacionadas con el servicio público de transporte de pasajeros, que no tengan la aprobación de la Autoridad de Tránsito y Transportes, se sancionarán con multas que variarán del importe de uno a treinta unidades de medida y actualización.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 272.
 
-A los propietarios de vehículos particulares, que eventualmente hagan en ellos servicio público de transporte de pasaje o carga, sin contar con la autorización respectiva en los términos de esta Ley, se les impondrá multa que variará dependiendo de las circunstancias, del importe de uno a sesenta veces el valor diario de la Unidad de Medida y Actualización a juicio de tránsito y transportes.
+A los propietarios de vehículos particulares, que eventualmente hagan en ellos servicio público de transporte de pasaje o carga, sin contar con la autorización respectiva en los términos de esta Ley, se les impondrá multa que variará dependiendo de las circunstancias, del importe de uno a sesenta unidades de medida y actualización.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 273.
 
-La violación a las disposiciones de los artículos 264, 265 y 266 de esta Ley, se sancionarán con anulación o revocación de la concesión o permiso de ruta o zona, según corresponda.
+La violación a las disposiciones de los artículos 264, 265 y 266 de esta Ley, se sancionarán con anulación o revocación de la concesión o permiso de ruta, según corresponda.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 274.
 
-Las infracciones a la presente Ley que no tengan señalada sanción especial estarán sujetas a multa y su monto será fijado dentro de los límites comprendidos de uno a treinta veces el valor diario de la Unidad de Medida y Actualización, acorde a la gravedad de la falta a juicio de la Autoridad de Tránsito y Transportes.
+Las infracciones a la presente Ley que no tengan señalada sanción especial estarán sujetas a multa y su monto será fijado dentro de los límites comprendidos de uno a treinta unidades de medida y actualización.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
@@ -1929,9 +2141,9 @@ Cuando el conductor de las unidades destinadas a la prestación del servicio pú
 
 Los concesionarios y permisionarios del servicio público de transporte que no proporcionen los datos a que se hace referencia en el Artículo 255, se harán acreedores a una sanción de cinco a treinta veces el valor diario de la Unidad de Medida y Actualización, la que podrá incrementarse hasta un 50% en caso de reincidencia.
 
-###### ARTICULO 278.
+###### ARTÍCULO 278.
 
-El Ejecutivo del Estado expedirá, revocará, modificará o adicionará el tabulador de infracciones y sanciones económicas correspondientes, cuando a su juicio sea necesario.
+(DEROGADO, P.O. 12 DE JUNIO DE 2017)
 
 ###### ARTICULO 279.
 
@@ -1955,19 +2167,23 @@ La acción para imponer sanciones por infracciones a las disposiciones del prese
 
 El pago de las sanciones económicas deberá hacerse en las recaudaciones de rentas o en las oficinas que dependan de esta o sean autorizadas por las mismas.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 284.
 
-El incumplimiento injustificado e inoportuno de las resoluciones que se dicten en aplicación de la presente Ley y su Reglamento, será sancionado con multa de uno a sesenta veces el valor diario de la Unidad de Medida y Actualización, pudiendo cancelarse además la concesión o permiso a juicio del Ejecutivo del Estado.
+El incumplimiento injustificado e inoportuno de las resoluciones que se dicten en aplicación de la presente Ley y su Reglamento, será sancionado con multa de uno a sesenta unidades de medida y actualización. En caso de reincidencia se cancelará el permiso o concesión.
+
+### CAPITULO XVII. DE LOS RECURSOS
 
 ###### ARTICULO 285.
 
 En contra de las actas de infracción levantadas por los inspectores de la Dependencia competente, se podrá interponer el recurso de inconformidad, dentro de un término de tres días hábiles contados a partir de la fecha en que se notifique la resolución recurrida, o a partir del día en que se tenga conocimiento del acto que se impugna, ante las Delegaciones Regionales o ante la propia Autoridad de Tránsito y Transportes.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 286.
 
-En contra de las resoluciones en que se establezcan modificaciones o modalidades a las concesiones o permisos de ruta o zona, él o los afectados podrán promover dentro de los quince días siguientes al de su notificación o al de la fecha en que se tenga conocimiento de la resolución, el recurso de revisión ante la Autoridad de Tránsito y Transportes.
+En contra de las resoluciones en que se establezcan modificaciones o modalidades a las concesiones o permisos de ruta, él o los afectados podrán promover dentro de los quince días siguientes al de su notificación o al de la fecha en que se tenga conocimiento de la resolución, el recurso de revisión ante la Autoridad de Tránsito y Transportes.
 
 ###### ARTICULO 287.
 
@@ -2162,3 +2378,17 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 12 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 153 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los tres meses siguientes de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, el Ejecutivo del Estado de Sinaloa deberá expedir y publicar la reforma del Reglamento de la Ley de Tránsito y Transportes del Estado de Sinaloa.
+
+TERCERO. Dentro de los 45 días siguientes a la fecha de entrada en vigor de las reformas al Reglamento de la presente Ley, y conforme a las bases que en el mismo se establezcan, se deberá integrar el Órgano Técnico a que se refiere el artículo 4° de la Ley.
+
+CUARTO. Las concesiones para la prestación del servicio público de transporte de personas, otorgadas con anterioridad a la entrada en vigor del presente decreto, tendrán la vigencia para la cual hayan sido expedidas.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
