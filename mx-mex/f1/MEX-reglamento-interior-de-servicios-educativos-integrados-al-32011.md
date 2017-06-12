@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-servicios-educativos-integrados-al-32011
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-10"
-last_updated: "2017-05-30"
+last_updated: "2017-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE JUNIO DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MAYO DE 2017.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 12 DE JUNIO DE 2017.]
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 10 de junio de 2003.
 
@@ -405,9 +405,9 @@ V. Dirección de Planeación y Evaluación.
 
 Quedan adscritas directamente a la Dirección General:
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 30 DE MAYO DE 2017)</small>
+(REFORMADA [N. DE E. ADICIONADA], G.G. 30 DE MAYO DE 2017) (F. DE E., G.G. 12 DE JUNIO DE 2017)
 
-I. Dirección de Servicios Regionalizados;
+I. Dirección de Servicios Regionalizados.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 30 DE MAYO DE 2017)</small>
 
