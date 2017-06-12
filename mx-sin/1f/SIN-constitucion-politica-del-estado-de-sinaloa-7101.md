@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2017-05-04"
+last_updated: "2017-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2017.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -375,7 +375,9 @@ La selección de dirigentes y candidatos de los partidos políticos estatales se
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen la Constitución Política de los Estados Unidos Mexicanos, las leyes generales, la presente Constitución y la legislación local.
 
-Los partidos políticos nacionales que hayan obtenido su registro definitivo ante el Instituto Nacional Electoral, podrán participar en las elecciones estatales y municipales. La ley determinará los requisitos y formalidades que deberán satisfacer los partidos políticos nacionales y estatales para intervenir en dichos procesos electorales.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
+
+Los partidos políticos nacionales que hayan obtenido su registro definitivo ante el Instituto Nacional Electoral, podrán participar en las elecciones estatales y municipales. La ley determinará los requisitos y formalidades que deberán satisfacer los partidos políticos nacionales y estatales para intervenir en dichos procesos electorales. Los partidos políticos podrán asociarse para participar en las elecciones mediante la postulación de candidatos comunes, de conformidad con los requisitos que las leyes establezcan para esta forma de participación.
 
 Además de las causales que establezca la ley, se cancelará el registro de aquél partido político estatal que no obtenga al menos el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo local, y sólo podrán solicitar un nuevo registro cuando haya concluido el proceso electoral posterior a la cancelación. La ley establecerá el procedimiento para la liquidación de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados a la Hacienda Pública Estatal.
 
@@ -591,21 +593,21 @@ En ningún caso un partido político podrá contar con un número de Diputados p
 
 Para ser diputado se requiere:
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
 
-I. Ser sinaloense por nacimiento o ciudadano sinaloense por vecindad con residencia efectiva en el Estado, en este último caso, no menor de cinco años inmediatamente anteriores al día de la elección y en ambos casos estar en pleno ejercicio de sus derechos cívicos.
+I. Ser sinaloense por nacimiento o por vecindad, en términos del artículo 8° de esta Constitución, y en ambos casos estar en pleno ejercicio de sus derechos cívicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
 
-II. Ser nativo del Distrito Electoral en el que se elija o avecindado con residencia efectiva en él cuando menos seis meses antes de la fecha de la elección.
+II. Para contender por el sistema de mayoría relativa, es necesario contar con una residencia efectiva en el distrito electoral por el que se postule, de más de seis meses anterior a la fecha de la celebración de la jornada electoral.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
+Cuando un municipio sea cabecera de dos o más distritos electorales, para ser elegible en cualquiera de ellos, la residencia a que se refiere el párrafo anterior bastará con que se tenga en el municipio de que se trate.
 
-Para poder figurar como candidato en la lista de la circunscripción electoral plurinominal, se requerirá, en su caso, ser originario de alguno de los municipios que comprenda la circunscripción en la cual se realice la elección, o vecino de ella con residencia efectiva de más de seis meses anteriores a la fecha en que la misma se celebre.
+Para poder figurar como candidato en la lista de circunscripción electoral plurinominal, se requerirá ser sinaloense por nacimiento, o por vecindad con una residencia efectiva en el Estado de más de dos años anterior a la fecha de la celebración de la jornada electoral.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 1974)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
 
-III. Sea mayor de 21 años en la fecha de la elección;
+III. Ser mayor de 21 años en la fecha de la elección.
 
 > <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
 
@@ -4199,15 +4201,13 @@ SEGUNDO. El Congreso del Estado en un plazo de 60 días posteriores al inicio de
 
 TERCERO. Comuníquese al Instituto Nacional Electoral el presente Decreto a efecto de que conforme a sus atribuciones constitucionales y legales, realice la demarcación territorial de los distritos electorales uninominales correspondientes al Estado de Sinaloa, que atiendan a la conformación del Congreso del Estado.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 227.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES VINCULADOS AL PROCEDIMIENTO PENAL Y A LA EXTINCIÓN DE DOMINIO PARA EL ESTADO DE MÉXICO Y AL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+P.O. 12 DE JUNIO DE 2017.
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 146 QUE REFORMA LOS ARTÍCULOS 14 Y 25 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA".]
 
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-TERCERO. Se derogan las disposiciones de igual o menos jerarquía que se opongan a lo dispuesto por el presente Decreto.
-
-G.G. 5 DE SEPTIEMBRE DE 2017.
+SEGUNDO. El Congreso del Estado de Sinaloa en un plazo de 90 días posteriores al inicio de vigencia del presente Decreto, deberá armonizar la legislación electoral del Estado conforme al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 232.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO Y DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
 
