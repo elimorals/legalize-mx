@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2017-05-26"
+last_updated: "2017-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -1403,11 +1403,11 @@ Las actas a que se refiere el artículo 131 contendrán: el nombre, apellidos, e
 
 ### CAPITULO IX. CANCELACION, RECTIFICACION, MODIFICACION Y ACLARACION DE ACTAS DEL ESTADO CIVIL
 
-(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982) (F. DE E., P.O. 18 DE ENERO DE 1982)
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### Art. 134.
 
-La cancelación, la rectificación o la modificación de una acta del estado civil, no puede hacerse sino en virtud de resolución pronunciada por el Poder Judicial en el procedimiento que para ello esté establecido. Lo dispuesto en este artículo no es aplicable a los casos de reconocimiento voluntario de un hijo, el cual se sujetará a las prescripciones de este Código.
+La cancelación, la rectificación o la modificación de un acta del estado civil, no puede hacerse sino en virtud de resolución pronunciada por el Poder Judicial en el procedimiento que para ello esté establecido. Lo dispuesto en éste artículo no es aplicable a los casos de reconocimiento voluntario de un hijo, el cual se sujetará a las prescripciones de este Código, ni en el caso de cambio de régimen matrimonial que se realice ante Notario Público.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -5567,25 +5567,41 @@ a) Cuando hayan transcurrido quince años a contar de la fecha de su constituci�
 
 b) Cuando se declare nula o rescindida la venta de los bienes afectos; o
 
-c) En los casos establecidos por el artículo 880 fracción VI del Código de Procedimientos Civiles del Estado, salvo que existan hijos que sean menores o incapaces;
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2004)</small>
+c) En los casos establecidos por el artículo 880 fracción VI y VII del Código de Procedimientos Civiles del Estado, salvo que existan hijos que sean menores o incapaces;
 
-VI.- Cuando se declare la nulidad del matrimonio o se decrete el divorcio, salvo que existan hijos que sean menores o incapaces.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+VI.- Cuando se declare la nulidad del matrimonio o se decrete el divorcio, salvo que existan hijos que sean menores o incapaces;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2017)</small>
+
+VII.- Cuando en el acto jurídico de la extinción se enajene por cualquier título los bienes que lo forman;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2017)</small>
+
+VIII.- Cuando el titular sea soltero y no se justifique el estado de concubina o concubinario y no tenga descendientes;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2017)</small>
+
+IX.- Cuando cualquiera de los titulares del inmueble sea propietario de otro de igual o mayor valor; o
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2017)</small>
+
+X.- Cuando todos los hijos de la familia sean mayores de edad.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### Art. 740.
 
-La declaración de que queda extinguido el patrimonio, la hará el Juez competente mediante el procedimiento fijado en el Código respectivo y la comunicará al Registro Público para que se hagan las cancelaciones correspondientes. Lo anterior, salvo los casos siguientes:
+La declaración de que queda extinguido el patrimonio, la hará el Juez competente mediante el procedimiento fijado en el Código respectivo y la comunicará al Instituto Registral y Catastral para que se hagan las cancelaciones correspondientes. Lo anterior, salvo los casos siguientes:
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+La autoridad administrativa a la cual el Ejecutivo del Estado le delegue dicha facultad hará la declaración de que queda extinguido el patrimonio de la familia en los supuestos previstos en el artículo 739 fracciones III y V inciso a) cuando se trate del patrimonio constituido de acuerdo a lo dispuesto por el artículo 737 de este Código. La decisión respectiva deberá pronunciarse dentro de los siguientes quince días a la presentación de la solicitud, en caso de declararse procedente se comunicará dicha decisión al Instituto Registral y Catastral para que haga la correspondiente cancelación.
 
-La autoridad administrativa a la cual el Ejecutivo del Estado le delegue dicha facultad, hará la declaración de que queda extinguido el patrimonio de la familia, sin sujetarse a los requisitos que determina el artículo 745 de este Código cuando se trate del patrimonio constituido de acuerdo a lo dispuesto por el artículo 737, en los supuestos previstos en el artículo 739 fracciones III y V inciso a). La decisión respectiva deberá pronunciarse dentro de los siguientes quince días a la presentación de la solicitud, en caso de declararse procedente se comunicará dicha decisión al Registro Público para que haga la correspondiente cancelación.
+Cuando el Patrimonio se extinga por la causa prevista en la fracción IV del Artículo que precede, hecha la expropiación el Patrimonio queda extinguido sin necesidad de declaración judicial, debiendo hacerse en el Registro la cancelación que proceda.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1983)</small>
-
-Cuando el Patrimonio se extinga por la causa prevista en la fracción IV del artículo que precede, hecha la expropiación el Patrimonio queda extinguido sin necesidad de declaración judicial, debiendo hacerse en el Registro la cancelación que proceda.
+La cancelación del patrimonio familiar podrá solicitarse por los titulares del inmueble ante un Notario Público del Estado cuando se trate del supuesto de notoria utilidad previsto en el artículo 739 fracción III y en el mismo acto se adquiera otro inmueble de igual o mayor cuantía así como en los supuestos previstos en la fracción V inciso a) e inciso c) y fracciones VII, IX, y X del dicho artículo de este Código. La cancelación deberá inscribirse en el Instituto Registral y Catastral.
 
 ###### Art. 741.
 
@@ -17312,6 +17328,12 @@ P.O. 26 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 257. SE REFORMA EL ARTÍCULO 178 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 17 DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚM. 263. SE REFORMA EL ARTÍCULO 739 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN, POR ADICIÓN DE LAS FRACCIONES VII A X, Y SE REFORMAN LOS ARTÍCULOS 134 Y 740; Y SE REFORMA POR ADICIÓN DE UN CUARTO PÁRRAFO AL ARTÍCULO 957 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO TERCERO.
 
