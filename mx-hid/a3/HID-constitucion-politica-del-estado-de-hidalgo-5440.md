@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2017-06-05"
+last_updated: "2017-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -1265,17 +1265,33 @@ Las entidades fiscalizadas, deberán presentar su Cuenta Pública del año anter
 
 El Congreso concluirá la revisión de las Cuentas Públicas a más tardar el 31 de octubre del año siguiente al de su presentación, con base en las conclusiones técnicas de los Informes del Resultado de la Revisión, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior, siga su curso.
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
 
-XXXII. Aprobar la afectación de los ingresos del Estado y, en su caso, el derecho a percibirlos, derivados de participaciones que en ingresos Federales le correspondan; contribuciones, productos, aprovechamientos, accesorios u otros conceptos susceptibles de afectación, como fuente de pago, garantía o ambos, del cumplimiento de todo tipo de obligaciones de pago a cargo del Estado, los Municipios, las entidades Paraestatales o las Entidades Paramunicipales. Igualmente, corresponderá al Congreso del Estado, a solicitud del Gobernador, la aprobación de la desafectación de esos ingresos o derechos, previo consentimiento de los acreedores respectivos, en términos de la Legislación aplicable.
+XXXII. Legislar en materia de deuda pública, dentro del marco previsto en el artículo 117, fracción VIII de la Constitución Política de los Estados Unidos Mexicanos y en las disposiciones federales aplicables, así como para autorizar, con el voto de las dos terceras partes de sus miembros presentes, los montos máximos de endeudamiento o financiamiento de los entes públicos, así como autorizar al Estado el otorgamiento de garantías o avales respecto de las obligaciones de los otros entes públicos del Estado;
 
-> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+XXXII Bis. (DEROGADA, P.O. 12 DE JUNIO DE 2017)
 
-XXXII Bis. Autorizar cualquier tipo de enajenación de los bienes inmuebles propiedad del Estado.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2011)</small>
+XXXIII. Autorizar, con el voto de las dos terceras partes de sus miembros presentes, los montos máximos para la contratación de compromisos de pago de los entes públicos derivados de esquemas de asociaciones público privadas, previo análisis del destino, la capacidad de pago y, en su caso, el otorgamiento de garantías o el establecimiento de fuentes de pago;
 
-XXXIII. Las demás facultades que le sean concedidas por esta Constitución.
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2017)</small>
+
+XXXIV. Autorizar al Estado y, en su caso, a los Municipios la celebración de convenios para la obtención de la garantía del Gobierno Federal respecto de sus obligaciones constitutivas de deuda pública;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2017)</small>
+
+XXXV.- Autorizar a los entes públicos la afectación de sus ingresos y, cuando resulte aplicable, del derecho a percibirlos, como fuente de pago, garantía o ambos, de las obligaciones o financiamientos a su cargo, siempre que en términos de la legislación aplicable dichos ingresos y/o derechos sean susceptibles de afectación.
+
+Asimismo, el Congreso del Estado podrá autorizar al Ejecutivo la celebración del convenio correspondiente entre el Municipio y el Estado para que éste último afecte las participaciones y aportaciones federales susceptibles de afectación que corresponden al Municipio, para ser fuente de pago, garantía o ambos, de obligaciones o financiamientos a cargo del Municipio;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2017)</small>
+
+XXXVI.- Autorizar cualquier tipo de enajenación de los bienes inmuebles propiedad del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE JUNIO DE 2017)</small>
+
+XXXVII. Las demás facultades que le sean concedidas por esta Constitución.
 
 > <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1639,9 +1655,17 @@ XXXIV. Representar al Estado en las comisiones tanto federales, como interestata
 
 XXXV. Ejercer actos de dominio sobre el patrimonio del Estado, en los términos que dispongan las leyes;
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2007)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
 
-XXXVI. Contratar empréstitos con aprobación del Congreso del Estado para destinarlos a inversiones públicas productivas conforme a las bases o en los términos que determine dicho Congreso mediante una ley o decreto;
+XXXVI. Previa autorización del Congreso del Estado:
+
+a) Contratar financiamientos para destinarlos a inversiones públicas productivas o a su refinanciamiento o reestructura, en términos de la legislación aplicable;
+
+b) Afectar, como fuente de pago o garantía de sus obligaciones o financiamientos a cargo del Estado, el derecho y los ingresos a las participaciones y aportaciones federales susceptibles de afectación, o los ingresos derivados de contribuciones, productos, aprovechamientos, accesorios u otros conceptos susceptibles de afectación;
+
+c) Otorgar la garantía o aval del Estado respecto de las obligaciones de los otros entes públicos del Estado, incluyendo la posibilidad de obligarse de manera subsidiaria o solidaria; y
+
+d) Celebrar los convenios con la Federación para la obtención de la garantía del Gobierno Federal respecto de las obligaciones constitutivas de deuda pública a cargo del Estado y, en su caso, de los Municipios.
 
 XXXVII. Ejercer el presupuesto de egresos;
 
@@ -1671,7 +1695,9 @@ XLIV. Fomentar en el Estado, la creación de industrias y empresas, buscando la 
 
 XLV. Planificar y regular el crecimiento de los centros urbanos, otorgando los servicios necesarios, a fin de propiciar el espíritu de solidaridad en la convivencia social y el desarrollo pleno y armónico de la población;
 
-XLVI. Recabar las participaciones que correspondan a los Ayuntamientos, que por cualquier título se perciban, para entregarlos a la Hacienda Municipal;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
+
+XLVI.- Recabar las participaciones y aportaciones federales que correspondan a los Ayuntamientos, que por cualquier título se perciban, para entregarlos a la Hacienda Municipal o, en caso de que hubieren sido afectadas por el Municipio, para entregarlas al mecanismo de pago o garantía correspondiente;
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -1683,17 +1709,17 @@ XLIX. Otorgar patentes de Notario, con sujeción a la Ley respectiva;
 
 L. Tomar las medidas necesarias en los casos de desastre y situaciones económicas difíciles o urgentes;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 1991)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
 
-LI. Decretar expropiaciones por causa de utilidad pública, mediante el pago de las indemnizaciones que correspondan conforme a la Ley; y
+LI.- Decretar expropiaciones por causa de utilidad pública, mediante el pago de las indemnizaciones que correspondan conforme a le (sic) Ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
 
-LII. Designar al Consejero del Consejo de la Judicatura; y
+LII.- Designar al Consejero del Consejo de la Judicatura;
 
-> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2007)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
 
-LIII. Realizar, promover y alentar los programas de prevención, erradicación, defensa, representación jurídica, asistencia, protección, previsión, participación y atención en materia de lucha contra la discriminación en el Estado de Hidalgo;
+LIII.- Realizar, promover y alentar los programas de prevención, erradicación, defensa, representación jurídica, asistencia, protección, previsión, participación y atención en materia de lucha contra la discriminación en el Estado de Hidalgo; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE JULIO DE 2006)</small>
 
@@ -1763,9 +1789,9 @@ Corresponde al Gobierno Estatal la rectoría del desarrollo de la Entidad, para 
 
 El Estado programará, planeará, conducirá, coordinará y orientará la actividad económica en la Entidad, y regulará fomentará las actividades que demande el interés público sin menoscabo de las libertades y derechos que otorgan esta Constitución y la General de la República.
 
-> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
-El Estado velará por la estabilidad de las finanzas públicas y del sistema financiero para coadyuvar a generar condiciones favorables para el crecimiento económico.
+El Estado, dentro de su ámbito de competencia, velará por la estabilidad de las finanzas públicas estatales y municipales para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. El Plan Estatal de Desarrollo y los planes municipales deberán observar dicho principio.
 
 (REFORMADO, P.O. 1 DE OCTUBRE DE 1987) (F. DE. E., P.O. 30 DE DICIEMBRE DE 1987)
 
@@ -2313,7 +2339,9 @@ La Hacienda Pública del Estado está constituida por:
 
 I. Los ingresos que determine la Ley de la Materia y demás normas aplicables; y
 
-II. Los ingresos que se perciban por concepto de convenios, participaciones, legados, donaciones o cualesquiera otras causas.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
+
+II. Los ingresos que se perciban por concepto de convenios, participaciones, aportaciones, legados, donaciones o cualesquiera otras causas.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -2365,11 +2393,11 @@ Si al inicio del año no estuviere aprobado el Presupuesto de Egresos del Estado
 
 Las cuentas de los caudales públicos, deberán fiscalizarse sin excepción, por la Auditoría Superior.
 
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### Artículo 111.
 
-No podrá hacerse pago alguno que no esté comprendido en el presupuesto o determinado por la Ley.
+No podrá hacerse pago alguno que no esté comprendido en el presupuesto o determinado por la Ley o por decreto posterior emitido por el Congreso, o con cargo a recursos excedentes.
 
 > <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -2639,25 +2667,41 @@ Los bienes de dominio privado podrán ser enajenados mediante acuerdo del Ayunta
 
 De los actos mencionados en el párrafo anterior, el Ayuntamiento informará al Congreso del Estado a través de la Cuenta Pública.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2017)</small>
 
 ###### Artículo 138.
 
-La Hacienda de los Municipios del Estado se formará con las percepciones que establezca su Ley de Ingresos y demás disposiciones relativas, así como las que obtengan por concepto de participaciones de impuestos federales y estatales, convenios, legados, donaciones y por cualesquiera otras causas y en todo caso, los Ayuntamientos:
+La Hacienda de los Municipios del Estado se formará con las percepciones que establezca su Ley de Ingresos y demás disposiciones relativas, así como las que obtengan por concepto de participaciones, aportaciones, impuestos federales y estatales, convenios, legados, donaciones y por cualesquiera otras causas y en todo caso, los Ayuntamientos:
+
+> <small>(REFORMADA Y REUBICADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
 I. Administrarán libremente su Hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que la Legislatura establezca a su favor;
 
+> <small>(REFORMADA Y REUBICADA, P.O. 26 DE FEBRERO DE 2001)</small>
+
 II. Percibirán las contribuciones, incluyendo tasas adicionales, que establezca el Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
 III. Recibirán las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos, que anualmente se determinen por la Legislatura del Estado y
 
+> <small>(REFORMADA Y REUBICADA, P.O. 26 DE FEBRERO DE 2001)</small>
+
 IV. Dispondrán de los ingresos derivados de la prestación de servicios públicos a su cargo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 Las Leyes locales no establecerán exenciones o subsidios respecto de las contribuciones a que se refieren las fracciones II y IV de este artículo en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo estarán exentos del pago correspondiente los bienes de dominio público de la Federación, del Estado o de los municipios, salvo que tales bienes sean utilizados por entidades paraestatales, paramunicipales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
+
 Al presentar la Ley de Ingresos Municipal, los Ayuntamientos propondrán a la Legislatura del Estado las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria en su demarcación territorial.
 
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
+
 La Legislatura del Estado analizará y en su caso aprobará la Ley de Ingresos de los Municipios; asimismo revisará y fiscalizará sus cuentas públicas.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 Los Municipios no podrán contraer obligaciones o empréstitos sino cuando se destinen a inversiones públicas productivas, conforme a las bases, conceptos y montos anuales que fije la Legislatura del Estado a través de una Ley.
 
@@ -2776,6 +2820,20 @@ XIII. Promover el desenvolvimiento material, social, cultural, artístico, depor
 XIV. Mantener actualizada la Estadística del municipio;
 
 XV. Facultar al Presidente municipal para que pueda celebrar contratos con particulares e instituciones oficiales, sobre asuntos de interés público, requiriéndose la aprobación de las dos terceras partes de los miembros del Ayuntamiento en la enajenación de bienes inmuebles propiedad del municipio o para comprometer a éste por un plazo mayor al periodo del gobierno municipal en funciones;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2017)</small>
+
+XV Bis. Autorizar la celebración de los siguientes actos:
+
+a) La contratación de financiamientos a cargo del Municipio para destinarlos a inversiones públicas productivas o a su refinanciamiento o reestructuración, en términos de la legislación aplicable;
+
+b) La afectación, como fuente de pago o garantía de las obligaciones o financiamientos a cargo del Municipio, del derecho y los ingresos a las participaciones y aportaciones federales susceptibles de afectación, o los ingresos derivados de contribuciones, productos, aprovechamientos, accesorios u otros conceptos susceptibles de afectación;
+
+c) El otorgamiento de la garantía o aval del Municipio respecto de las obligaciones de las entidades de la administración pública paramunicipal, incluyendo la posibilidad de que el Municipio se obligue de manera subsidiaria o solidaria; y
+
+d) La celebración de convenios con el Estado y, en su caso, con la Federación para la obtención de la garantía del Gobierno Federal respecto de las obligaciones constitutivas de deuda pública a cargo del Municipio.
+
+Cuando los actos a que se refieren los incisos anteriores comprometan al Municipio o impacten la hacienda pública municipal por un plazo mayor al periodo del gobierno municipal en funciones, se requerirá la aprobación de las dos terceras partes de los miembros del Ayuntamiento.
 
 XVI. Admitir o desechar la licencia que soliciten los Síndicos o los Regidores;
 
@@ -3974,3 +4032,9 @@ P.O. 5 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 185 QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 31 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE HIDALGO”.]
 
 Único. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 192 QUE MODIFICA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
