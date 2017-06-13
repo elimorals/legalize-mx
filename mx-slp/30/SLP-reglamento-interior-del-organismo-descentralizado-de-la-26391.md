@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-organismo-descentralizado-de-la-26391"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-27"
-last_updated: "2015-09-10"
+last_updated: "2017-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DE LA ADMINISTRACION PUBLICA ESTATAL DENOMINADO SERVICIOS DE SALUD DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DENOMINADO SERVICIOS DE SALUD DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2017.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 27 de octubre de 2001.
 
@@ -71,11 +73,15 @@ I. Dirección de Administración;
 
 II. Dirección de Planeación, Evaluación y Proyectos Especiales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 III. (DEROGADA POR EL TRANSITORIO PRIMERO DEL DECRETO POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 10 DE SEPTIEMBRE DE 2015)
 
-IV. Dirección de Políticas y Calidad en Salud;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2017)</small>
+
+IV. Dirección de Atención Médica;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2017)</small>
+
+IV Bis. Dirección de Salud Pública;
 
 V. Secretaría Particular;
 
@@ -101,7 +107,7 @@ XV. Comisión para la Protección contra Riesgos Sanitarios del Estado de San Lu
 
 Los Servicios de Salud de San Luis Potosí contarán con las unidades médicas adscritas siguientes:
 
-a). Hospital Materno Infantil “Dr. Alberto López Hermosa”;
+a). Hospital Materno Infantil "Dr. Alberto López Hermosa";
 
 b). Hospital del Niño y la Mujer;
 
@@ -391,77 +397,121 @@ DE LA DIRECCION DE PROTECCION CONTRA RIESGOS SANITARIOS.
 
 (DEROGADO, P.O. 28 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JULIO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2017)</small>
 
-### CAPITULO TERCERO.
+### CAPITULO TERCERO
 
-DE LA DIRECCION DE POLITICAS Y CALIDAD EN SALUD.
+DE LA DIRECCION DE ATENCION MEDICA.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 14.
 
-A la Dirección de Políticas y Calidad en Salud corresponden las siguientes funciones:
+A la Dirección de Atención Médica, por conducto de su Director le compete el despacho de los siguientes asuntos:
 
-I. Difundir y vigilar la aplicación de las normas técnicas y oficiales mexicanas en las materias de atención médica, salud pública y asistencia social derivadas de la Ley General de Salud, la Ley de Salud del Estado y sus reglamentos;
+I. Difundir y vigilar la aplicación de las normas técnicas y oficiales mexicanas en las materias de atención médica y asistencia social derivadas de la Ley de Salud del Estado y sus Reglamento;
 
-II. Fungir como órgano de apoyo técnico y científico para las unidades administrativas de los Servicios de Salud;
+II. Fungir como órgano de apoyo técnico y científico en las actividades de atención médica para las Unidades Administrativas de los Servicios de Salud;
 
 III. Dirigir y revisar los proyectos de atención a la salud;
 
-IV. Apoyar, promover y coordinar la participación de los sectores públicos, social y privado, en los programas de asistencia social y materia de su competencia;
+IV. Definir los mecanismos de participación de la comunidad para la atención de los problemas de salud de su ámbito de responsabilidad;
 
-V. Definir los mecanismos de participación de la comunidad en la solución de los problemas de salud;
+V. Operar la Regionalización de los Servicios de Salud, por niveles de atención, a través del Sistema de Referencia y Contrareferencia, informando a la Dirección de Planeación, Evaluación y Proyectos Especiales las modificaciones operativas a las que haya lugar;
 
-VI. Promover la prevención y control de enfermedades y brotes epidémicos; así como operar y coordinar el Sistema Estatal de Vigilancia Epidemiológica;
+VI. Supervisar y vigilar el control de la prestación de los servicios a la población abierta;
 
-VII. Definir y ejecutar las acciones de apoyo necesario a fin de establecer la coordinación para la salud en caso de desastre con el Consejo Estatal de Protección Civil;
+VII. Supervisar y vigilar la operación de todo establecimiento de atención medica de los Servicios de Salud de San Luis Potosí;
 
-VIII. Impulsar y desarrollar el proceso de regionalización de los Servicios de Salud, por niveles de atención a población abierta y, en su caso, propiciando la referencia y contrarreferencia de pacientes;
+VIII. Impulsar y promover en el ámbito de competencia la participación de los sectores social y privado en los programas de prevención y control de enfermedades para hacer más eficientes y eficaces las acciones de salud;
 
-IX. Implantar y vigilar las normas técnicas oficiales mexicanas y administrativas para la promoción, prevención y rehabilitación en los problemas de salud, así como el control de la presentación de los servicios a población abierta;
+IX. Promover la prevención de invalidez y la rehabilitación de las personas con alguna discapacidad;
 
-X. Supervisar, vigilar y controlar la operación, funcionamiento, infraestructura, equipamiento y remodelación de todo establecimiento de atención médica de los Servicios de Salud de San Luis Potosí;
+X. Implantar y promover las acciones para la salud ocupacional;
 
-XI. Impulsar y promover la participación de los sectores social y privado en los programas de prevención y control de enfermedades para hacer más eficiente y eficaces las acciones de salud;
+XI. Contribuir a elevar el nivel de vida y bienestar de la población abierta mediante el otorgamiento de servicios de salud con equidad y acceso;
 
-XII. Promover la prevención de la invalidez y la rehabilitación de las personas con alguna discapacidad;
+XII. Difundir y coordinar en el ámbito de su competencia las políticas, programas y estrategias en materia de equidad y desarrollo de los servicios esenciales de salud;
 
-XIII. Implantar y promover las acciones para la salud ocupacional;
+XIII. Impulsar el desarrollo y fortalecimiento de los Servicios de Salud de acuerdo con las necesidades de la población, con base en estrategias innovadoras que permitan captar y atender las demandas en beneficio de la población abierta;
 
-XIV. Será Secretario Técnico de los Comité; Estatales de los programas prioritarios Estatales y federales;
+XIV. Incorporar y fortalecer medidas de atención médica especializada en la población abierta con la participación coordinada de instituciones públicas y privadas;
 
-XV. Contribuir a elevar el nivel de vida y bienestar de la población abierta mediante el otorgamiento de servicios de salud con equidad y acceso;
+XV. Participar y promover la organización y participación social por la equidad en el bienestar social, de la población abierta, el auto cuidado de la salud individual, familiar y comunitaria;
 
-XVI. Difundir y coordinar las políticas, programas y estrategias en, materia de equidad y desarrollo de los servicios esenciales de salud;
+XVI. Promover y coordinar en el ámbito de su competencia, el desarrollo de los servicios esenciales a través de la incorporación de nuevas tecnologías, esquemas innovadores de administración, prestación, gestión y operación de los servicios de salud;
 
-XVII. Impulsar el desarrollo y fortalecimiento de los servicios de salud de acuerdo con las necesidades de la población, con base en estrategia (sic) innovadoras que permitan captar y atender las demandas de la población en beneficio de la población abierta;
+XVII. Promover en coordinación con el área correspondiente, la profesionalización, desarrollo gerencial y actualización permanente del personal en contacto con pacientes, para el fortalecimiento de la prestación del servicio médico;
 
-XVIII. Incorporar y fortalecer medidas de atención médica especializada en la población abierta con la participación coordinada de instituciones públicas y privadas;
+XVIII. Procurar la aplicación de las políticas de salud en la población indígena, con absoluto respeto a su cultura, lenguas y sistemas normativos, en las Unidades Médicas, consultando a los mismos en los casos que establece la Ley de la materia;
 
-XIX. Propiciar y promover la organización y participación social por la equidad en el bienestar social de la población abierta, el auto cuidado de la salud individual, familiar y comunitaria;
+XIX. Procurar que las acciones que realicen las Unidades Médicas de los Servicios de Salud a favor de los pueblos indígenas, estén integradas a los programas y servicios de salud que se otorgan permanentemente a la población;
 
-XX. Promover y coordinar en el ámbito de su competencia, el desarrollo de los servicios esenciales a través de la incorporación de nuevas tecnologías, esquemas innovadores de administración, prestación, gestión y operación de los servicios de salud;
+XX. Coordinar, supervisar y controlar el funcionamiento de los diferentes niveles de atención médica;
 
-XXI. Vigilar la adecuada aplicación de los programas vinculados con la equidad y el desarrollo de los servicios de salud;
+XXI. Emitir dictámenes técnicos para la adquisición de insumos y servicios subrogados del área de salud;
 
-XXII. Promover en coordinación con el área correspondiente, la profesionalización, desarrollo gerencial y actualización permanente del personal institucional y, en su caso comunitario, mediante la capacitación en materia de operación y gerencia de los servicios de salud;
+XXII. Establecer proyectos y estrategias orientada a mejorar la calidad y promover el sentido humanitario de los servicios que prestan las Unidades Administrativas a su cargo;
 
-XXIII. Proponer, coordinar, apoyar y dar seguimiento a la instrumentación de las políticas y acciones en materia de equidad y desarrollo de servicios esenciales de salud, así como a los acuerdos que para el efecto se adopten en el seno de la junta de Gobierno;
+XXIII. Integrar la información que le sea requerida por los sistemas Nacional y Estatal de Salud;
 
-XXIV. Vigilar el seguimiento de los avances en la ejecución de los programas de equidad y desarrollo de servicios esenciales, así como participar en la evaluación integral del desempeño, alcances y resultados en todo el Estado y proponer las medidas necesarias para corregir las desviaciones que se detecten;
+XXIV. Coordinar y controlar la ejecución del sistema de abasto a todos los laboratorios clínicos y bancos de sangre pertenecientes a los Servicios de Salud de San Luis Potosí;
 
-XXV. Garantizar la aplicación y desarrollo de la salud en la población indígena, con absoluto respeto a su cultura;
+XXV. Emitir y vigilar las directrices que regulan el modelo y la red de atención en salud;
 
-XXVI. Garantizar que las acciones que realicen las instituciones del sector Salud a favor de los pueblos indígenas, estén integradas a los programas y servicios de salud Que se otorgan permanentemente a la población;
+XXVI. Coadyuvar en la integración de la información que se requiera para formular la cuenta pública de los Servicios de Salud de San Luis Potosí, y
 
-XXVII. Coordinar, supervisar y controlar el funcionamiento de los diferentes niveles de atención médica;
+XXVII. Realizar las demás funciones que le señalen las leyes, reglamentos, decretos y acuerdos aplicables, y las que le confiera el Director General de los Servicios de Salud del Estado de San Luis Potosí.
 
-XXVIII. Así como la totalidad de aquellas funciones que correspondían a la Dirección de Área de Salud Mental y Adicciones que correspondían a la Dirección de Protección Social en Salud y que por medio del presente se modifica;
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE JUNIO DE 2017)</small>
 
-XXIX. Conducir y controlar las Políticas nacionales y estatales para elevar la calidad de los Servicios de Atención médica y asistencia social en el estado, y
+### CAPITULO TERCERO BIS.
 
-XXX. Realizar las demás funciones que le señalen las Leyes, Reglamentos, Decretos y Acuerdos aplicables, y las que le confiera el Director General de los Servicios de Salud del Estado de San Luís Potosí.
+DE LA DIRECCION DE SALUD PUBLICA.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2017)</small>
+
+ARTICULO 14 BIS.- A la Dirección de Salud Pública, por conducto de su Director le compete el despacho de los siguientes asuntos:
+
+I. Difundir y vigilar la aplicación de las normas técnicas y oficiales mexicanas en las materias de salud pública derivadas de la Ley de Salud del Estado y su Reglamento;
+
+II. Fungir como órgano de apoyo técnico y científico en materia de salud pública para las Unidades Administrativas de los Servicios de Salud;
+
+III. Apoyar, promover y coordinar la participación de los sectores públicos (sic), social y privado en la atención de los problemas de salud pública;
+
+IV. Definir los mecanismos de participación de la comunidad en la solución de los problemas de salud pública;
+
+V. Promover la prevención y control de enfermedades y brotes epidémicos; así como operar y coordinar el Sistema Estatal de Vigilancia Epidemiológica;
+
+VI. Definir y ejecutar las acciones de apoyo necesario a fin de establecer la coordinación para la salud en caso de desastre con el Consejo Estatal de Protección Civil;
+
+VII. Implantar y vigilar las normas técnicas oficiales mexicanas y administrativas para la promoción y prevención en los problemas de salud pública;
+
+VIII. Impulsar y promover la participación de los sectores social y privado en los programas de prevención y control de enfermedades para hacer más eficientes y eficaces las acciones de salud pública;
+
+IX. Fungir como Secretario Técnico de los Comités Estatales de los programas prioritarios estatales y federales que le competan;
+
+X. Difundir y coordinar las políticas, programas y estrategias en materia de equidad y desarrollo de los servicios esenciales de salud;
+
+XI. Proponer la organización y participación social por la equidad en el bienestar social, de la población abierta, el auto cuidado de la salud individual, familiar y comunitaria;
+
+XII. Vigilar la adecuada aplicación de los programas vinculados con la equidad y el desarrollo de los servicios de salud;
+
+XIII. Promover en coordinación con el área correspondiente, la profesionalización, desarrollo gerencial y actualización permanente del personal institucional y en su caso comunitario, mediante la capacitación en materia de operación y gerencia de los servicios de salud;
+
+XIV. Proponer, coordinar, apoyar y dar seguimiento a la instrumentación de las políticas y acciones en materia de equidad y desarrollo de servicios esenciales de salud, así como los acuerdos que para el efecto se adopten en el seno de la Junta de Gobierno en el ámbito de su competencia;
+
+XV. Vigilar el seguimiento de los avances en la ejecución de los servicios esenciales, así como participar en la evaluación integral del desempeño, alcances y resultados en los Servicios de Salud del Estado y proponer las medidas necesarias para corregir las desviaciones que se detecten;
+
+XVI. Establecer, promover y vigilar la aplicación de las políticas de salud en la población indígena, con absoluto respeto a su cultura, lenguas y sistemas normativos, consultando a los mismos en los casos que establece la Ley de la materia;
+
+XVII. Promover que las acciones que realicen las Unidades Médicas de los Servicios de Salud a favor de los pueblos indígenas, estén integradas a los programas y servicios de salud que se otorgan permanentemente a la población;
+
+XVIII. Integrar la información que le sea requerida por los sistemas Nacional y Estatal de Salud;
+
+XIX. Coadyuvar en la integración de la información que se requiera para formular la cuenta pública de los Servicios de Salud de San Luis Potosí, y
+
+XX. Realizar las demás funciones que le señalen las leyes, reglamentos, decretos y acuerdos aplicables, y las que le confiera el Director General de los Servicios de Salud del Estado de San Luis Potosí.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JULIO DE 2005)</small>
 
@@ -470,12 +520,6 @@ XXX. Realizar las demás funciones que le señalen las Leyes, Reglamentos, Decre
 DE LA DIRECCIÓN DE PLANEACION EVALUACION Y PROYECTOS ESPECIALES.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2005)</small>
-
-### CAPITULO QUINTO.
-
-DE LA DIRECCION DE ADMINISTRACION.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 15.
 
@@ -521,13 +565,21 @@ XIX.- Recopilar e integrar, con la debida oportunidad, la información que se re
 
 XX.- Desarrollar, actualizar y establecer el Plan Maestro de Infraestructura de Salud para Población Abierta (PEMISPA) aplicando las Normas que la Secretaría de Salud para tal efecto establece.
 
-XXI.- Las demás que le señalen las Leyes, Reglamentos, Decretos o le confiera el Director General de los Servicios de Salud de San Luis Potosí, así como las que competen a las Unidades Administrativas que le estén adscritas.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2017)</small>
+
+XXI.- Conducir y controlar las Políticas nacionales y estatales para elevar la calidad de los Servicios de Atención médica y asistencia social en el Estado, y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2017)</small>
+
+XXII.- Las demás que le señalen las leyes, reglamentos, decretos o le confiera la Dirección General de los Servicios de Salud de San Luis Potosí, así como las que competen a las Unidades Administrativas que le estén adscritas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2002)</small>
 
-### CAPITULO SEXTO.
+### CAPITULO QUINTO.
 
-DE LA SUBDIRECCIÓN DE ASUNTOS JURIDICOS.
+DE LA DIRECCION DE ADMINISTRACION.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 16.
 
@@ -657,9 +709,9 @@ LIV.- Proveer a las Unidades de los Servicios de Salud de San Luis Potosí media
 
 LV.- Generar los pagos ante proveedores de bienes y servicios que abastecen al Organismo de los recursos materiales necesarios, para el cumplimiento del fin con el que se decreto su creación, así como también el pago ante terceros de obligaciones laborales, fiscales y contractuales.
 
-### CAPITULO SEPTIMO.
+### CAPITULO SEXTO.
 
-DE LA SUBDIRECCION DE COMUNICACION SOCIAL Y PROMOCION DE LA SALUD.
+DE LA SUBDIRECCIÓN DE ASUNTOS JURIDICOS.
 
 ###### ARTICULO 17.
 
@@ -773,6 +825,16 @@ Al frente de la Subdirección de Asuntos Jurídicos habrá un Subdirector que ej
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JULIO DE 2005)</small>
 
+### CAPITULO SEPTIMO.
+
+DE LA SUBDIRECCION DE COMUNICACION SOCIAL Y PROMOCION DE LA SALUD.
+
+###### ARTICULO 18.
+
+(DEROGADO, P.O. 7 DE JULIO DE 2005)
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2005)</small>
+
 ### CAPITULO OCTAVO.
 
 DE LA SECRETARIA PARTICULAR.
@@ -802,12 +864,6 @@ IX.- Programar la agenda de audiencias del Director General, previa aprobación 
 X.- Representar al Director General por delegación del mismo, en los diversos eventos que se desarrollen en materia de salud;
 
 XI.- Mantener informado al Director General de todas las actividades que le haya conferido.
-
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2005)</small>
-
-###### ARTICULO 18.
-
-(DEROGADO, P.O. 7 DE JULIO DE 2005)
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2005)</small>
 
@@ -843,17 +899,11 @@ XI.- Difundir y promover el trabajo en equipo para mejorar el manejo del tiempo,
 
 XII.- Promover y elaborar dinámicas de integración laboral, además de la realización de manuales y material de apoyo relacionados con el Desarrollo Organizacional en coordinación con la Subdirección de Educación y Calidad en Salud.
 
+#### SECCION SEGUNDA.
+
 ### CAPITULO PRIMERO.
 
 DE LOS ORGANOS AUXILIARES.
-
-#### SECCION SEGUNDA.
-
-### CAPITULO SEGUNDO.
-
-DE LA SUBDIRECCION DE CONTRALORIA INTERNA.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 19.
 
@@ -869,9 +919,11 @@ Compete a los órganos auxiliares de los Servicios de Salud la planeación, prog
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2002)</small>
 
-### CAPITULO PRIMERO.
+### CAPITULO SEGUNDO.
 
-DE LOS ORGANOS DESCONCENTRADOS.
+DE LA SUBDIRECCION DE CONTRALORIA INTERNA.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 22.
 
@@ -931,9 +983,9 @@ XXII.- Las demás que señalen las Leyes, Reglamentos, Decretos, Acuerdos y Manu
 
 #### SECCION TERCERA.
 
-### CAPITULO SEGUNDO.
+### CAPITULO PRIMERO.
 
-DEL PATRIMONIO DE LA BENEFICENCIA PUBLICA ESTATAL.
+DE LOS ORGANOS DESCONCENTRADOS.
 
 ###### ARTICULO 23.
 
@@ -949,9 +1001,9 @@ Los Órganos desconcentrados y sus titulares tendrán las atribuciones y faculta
 
 Compete a los órganos desconcentrados de los Servicios de Salud la planeación, programación, organización, dirección, control y evaluación del funcionamiento de las unidades administrativas a ellos adscritas con sujeción a los lineamientos establecidos en la Ley, Reglamento, Decreto o Instrumento Jurídico que los rija o en los diversos que se establezcan, en tales lineamientos.
 
-### CAPITULO TERCERO.
+### CAPITULO SEGUNDO.
 
-DE LA COMISION ESTATAL DE ARBITRAJE MEDICO.
+DEL PATRIMONIO DE LA BENEFICENCIA PUBLICA ESTATAL.
 
 ###### ARTICULO 26.
 
@@ -989,9 +1041,9 @@ XV.- Las demás que le confiere la Junta de Gobierno y las disposiciones legales
 
 XVI.- Es facultad de la Junta de Gobierno de los Servicios de Salud de San Luis Potosí, a propuesta del Ejecutivo del Estado, nombrar y remover libremente al titular de la administración del Patrimonio de la Beneficencia Pública Estatal.
 
-### CAPITULO CUARTO.
+### CAPITULO TERCERO.
 
-DEL HOSPITAL CENTRAL "DR. IGNACIO MORONES PRIETO".
+DE LA COMISION ESTATAL DE ARBITRAJE MEDICO.
 
 ###### ARTICULO 27.
 
@@ -1143,9 +1195,9 @@ XIII.- Establecer los mecanismos de difusión que permitan a los usuarios y pres
 
 XIV.- Las demás que establezcan otras disposiciones aplicables.
 
-### CAPITULO QUINTO.
+### CAPITULO CUARTO.
 
-DE LA CLINICA PSIQUIATRICA "DR. EVERARDO NEWMANN PEÑA".
+DEL HOSPITAL CENTRAL "DR. IGNACIO MORONES PRIETO".
 
 ###### ARTICULO 32.
 
@@ -1165,7 +1217,7 @@ VI.- Rendir trimestralmente al titular de los Servicios de Salud de San Luis Pot
 
 VII.- Coordinarse con las diversas Dependencias Estatales o Federales en materia de salud para el logro de sus objetivos;
 
-VIII.- En general, realizar los actos, convenios, contratos y demás instrumentos jurídicos que sean necesarios para el logra de sus objetivos;
+VIII.- En general, realizar los actos, convenios, contratos y demás instrumentos jurídicos que sean necesarios para el logra (sic) de sus objetivos;
 
 IX.- Otras afines a las anteriores y las que le sean autorizadas por los Servicios de Salud de San Luis Potosí.
 
@@ -1190,6 +1242,50 @@ VII.- Cuidar, proteger y conservar los bienes muebles o inmuebles que tenga a su
 VIII.- Aquellas que le confiere el titular de los Servicios de Salud de San Luis Potosí, con relación a sus funciones.
 
 Tales facultades se entienden conferidas, sin perjuicio de su ejercicio directo por parte del Titular de los Servicios de Salud de San Luis Potosí;
+
+### CAPITULO QUINTO.
+
+DE LA CLINICA PSIQUIATRICA "DR. EVERARDO NEWMANN PEÑA".
+
+###### ARTICULO 34.
+
+La Clínica Psiquiátrica "Dr. Everardo Newmann Peña" contará con personalidad jurídica propia y tendrá competencia para:
+
+I.- Prestar de manera eficiente y oportuna, los servicios y atención psiquiátrica de primero y segundo niveles a la población abierta que los requiera, conforme a las disposiciones legales aplicables, acuerdos y políticas que determinen los Servicios de Salud de San Luis Potosí;
+
+II.- Integrar con los centros de atención precoz, un sistema de atención psiquiátrica con el objeto de establecer un servicio escalonado;
+
+III.- Contribuir a la formación de los cuadros y recursos humanos que estén relacionados con la salud mental y, en su caso, coordinarse con las instituciones académicas correspondientes;
+
+IV.- Coadyuvar en la prestación del servicio psiquiátrico con las demás instituciones de asistencia médica del Sistema Estatal de Salud;
+
+V.- Efectuar estudios y proyectos de investigación clínica y científica que estén relacionados con la rama de la Psiquiatría; y
+
+VI.- En general, realizar los actos que sean necesarios para el logro de sus objetivos.
+
+###### ARTICULO 35.
+
+El Director de la Clínica Psiquiátrica "Dr. Everardo Newmann Peña" será nombrado y removido libremente por el Titular de los Servicios de Salud de San Luis Potosí y tendrá las siguientes facultades:
+
+I.- Tendrá la representación legal de la Unidad Desconcentrada, con Poder General para Actos de Administración, Pleitos y Cobranzas, pudiendo otorgar o revocar poderes generales y especiales con las facultades que le competen, e incluso las que requieran cláusula especial;
+
+II.- Acordar y proponer al titular de los Servicios de Salud de San Luis Potosí, todo lo concerniente a la administración y prestación de los servicios de la Unidad Administrativa Desconcentrada;
+
+III.- Autorizar, previo acuerdo del Titular de los Servicios de Salud de San Luis Potosí, los planes, programas y proyectos a realizar, así como llevar a cabo las obras necesarias para el cumplimiento de los fines de la Unidad Administrativa Desconcentrada;
+
+IV.- Supervisar y controlar al personal que labore en la Unidad Administrativa Desconcentrada;
+
+V.- Vigilar que la Unidad Administrativa Desconcentrada cumpla con sus objetivos y fines para el cual es constituida, así como cumplir con los ordenamientos legales vigentes;
+
+VI.- Rendir informes mensualmente al Titular de los Servicios de Salud de San Luis Potosí, de los servicios prestados por la Clínica Psiquiátrica "Dr. Everardo Newmann Peña";
+
+VII.- Cuidar, proteger y conservar los bienes muebles o inmuebles que tenga a su cargo; y
+
+VIII.- Aquellas que le confiere el titular de los Servicios de Salud de San Luis Potosí, con relación a sus funciones.
+
+Tales facultades se entienden conferidas, sin perjuicio de su ejercicio directo por parte del Titular de los Servicios de Salud de San Luis Potosí;
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO SEXTO.. DE LA COMISIÓN PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
@@ -1321,57 +1417,13 @@ III. Destacados miembros de academias e investigadores de instituciones de educa
 
 Sus reuniones serán presididas por el titular de los Servicios de Salud de San Luis Potosí o por quien éste designe; y contará con un Secretario Técnico, que será el Jefe del Departamento de Fomento Sanitario.
 
-###### ARTICULO 34.
-
-La Clínica Psiquiátrica "Dr. Everardo Newmann Peña" contará con personalidad jurídica propia y tendrá competencia para:
-
-I.- Prestar de manera eficiente y oportuna, los servicios y atención psiquiátrica de primero y segundo niveles a la población abierta que los requiera, conforme a las disposiciones legales aplicables, acuerdos y políticas que determinen los Servicios de Salud de San Luis Potosí;
-
-II.- Integrar con los centros de atención precoz, un sistema de atención psiquiátrica con el objeto de establecer un servicio escalonado;
-
-III.- Contribuir a la formación de los cuadros y recursos humanos que estén relacionados con la salud mental y, en su caso, coordinarse con las instituciones académicas correspondientes;
-
-IV.- Coadyuvar en la prestación del servicio psiquiátrico con las demás instituciones de asistencia médica del Sistema Estatal de Salud;
-
-V.- Efectuar estudios y proyectos de investigación clínica y científica que estén relacionados con la rama de la Psiquiatría; y
-
-VI.- En general, realizar los actos que sean necesarios para el logro de sus objetivos.
-
-###### ARTICULO 35.
-
-El Director de la Clínica Psiquiátrica "Dr. Everardo Newmann Peña" será nombrado y removido libremente por el Titular de los Servicios de Salud de San Luis Potosí y tendrá las siguientes facultades:
-
-I.- Tendrá la representación legal de la Unidad Desconcentrada, con Poder General para Actos de Administración, Pleitos y Cobranzas, pudiendo otorgar o revocar poderes generales y especiales con las facultades que le competen, e incluso las que requieran cláusula especial;
-
-II.- Acordar y proponer al titular de los Servicios de Salud de San Luis Potosí, todo lo concerniente a la administración y prestación de los servicios de la Unidad Administrativa Desconcentrada;
-
-III.- Autorizar, previo acuerdo del Titular de los Servicios de Salud de San Luis Potosí, los planes, programas y proyectos a realizar, así como llevar a cabo las obras necesarias para el cumplimiento de los fines de la Unidad Administrativa Desconcentrada;
-
-IV.- Supervisar y controlar al personal que labore en la Unidad Administrativa Desconcentrada;
-
-V.- Vigilar que la Unidad Administrativa Desconcentrada cumpla con sus objetivos y fines para el cual es constituida, así como cumplir con los ordenamientos legales vigentes;
-
-VI.- Rendir informes mensualmente al Titular de los Servicios de Salud de San Luis Potosí, de los servicios prestados por la Clínica Psiquiátrica "Dr. Everardo Newmann Peña";
-
-VII.- Cuidar, proteger y conservar los bienes muebles o inmuebles que tenga a su cargo; y
-
-VIII.- Aquellas que le confiere el titular de los Servicios de Salud de San Luis Potosí, con relación a sus funciones.
-
-Tales facultades se entienden conferidas, sin perjuicio de su ejercicio directo por parte del Titular de los Servicios de Salud de San Luis Potosí;
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2010)</small>
+#### SECCION CUARTA.
 
 ### CAPITULO UNICO.
 
 DE LAS JURISDICCIONES SANITARIAS.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2014)</small>
-
-#### SECCION CUARTA.
-
-### CAPITULO UNICO.. DE LAS SUPLENCIAS DEL DIRECTOR GENERAL
-
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
 
 ###### ARTICULO 36.
 
@@ -1431,11 +1483,9 @@ VII.- La Jurisdicción Sanitaria No. VII conoce de los Municipios de Tancanhuitz
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO PRIMERO.
+### CAPITULO UNICO.. DE LAS SUPLENCIAS DEL DIRECTOR GENERAL
 
-DIRECCIÓN DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
 
 ###### ARTICULO 38.
 
@@ -1467,27 +1517,27 @@ Los Jefes de Departamento, durante sus ausencias menores de 15 días, serán sup
 
 ARTICULO 42 BIS.- En los casos de suplencia, los servidores públicos designados podrán suscribir todo tipo de documentos y oficios de la competencia del Organismo, de la Dirección, Subdirección y Jefatura de Departamento, según sea el caso y que no requieran la aprobación de la Junta de Gobierno.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA POR EL TRANSITORIO PRIMERO DEL DECRETO POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ## TITULO QUINTO.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA POR EL TRANSITORIO PRIMERO DEL DECRETO POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+### CAPITULO PRIMERO.
+
+DIRECCIÓN DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD.
+
+###### ARTICULO 43.
+
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL DECRETO POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 10 DE SEPTIEMBRE DE 2015)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JULIO DE 2005)</small>
 
 ### CAPITULO SEGUNDO.
 
 DE LA DIRECCION DE AREA DE SALUD MENTAL Y ADICCIONES.
 
 ARTICULO 43 (SIC).- (DEROGADO, P.O. 7 DE JULIO DE 2005)
-
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JULIO DE 2005)</small>
-
-###### ARTICULO 43.
-
-(DEROGADO POR EL TRANSITORIO PRIMERO DEL DECRETO POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 10 DE SEPTIEMBRE DE 2015)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JULIO DE 2005)</small>
 
@@ -1587,4 +1637,12 @@ Noveno. Hasta en tanto se lleven a cabo las modificaciones que procedan al Regla
 
 Décimo. El presente Decreto entrará en vigor 90 días después de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
 
-### CAPÍTULO III. MEDIDAS CAUTELARES DE CARÁCTER REAL
+P.O. 13 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS Y ADICIONES AL REGLAMENTO INTERIOR".]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones administrativas que se le opongan al presente Decreto.
+
+TERCERO. El Organismo Público Descentralizado denominado "Servicios de Salud de San Luis Potosí", deberá actualizar los manuales que deriven de su Reglamento y que deban modificarse para armonizarlos con este Decreto, dentro de los siguientes noventa días contados a partir de la entrada en vigor del mismo. Mientras tanto, el o la titular del Organismo queda facultado para resolver las cuestiones que conforme a dichos manuales se deben regular.
