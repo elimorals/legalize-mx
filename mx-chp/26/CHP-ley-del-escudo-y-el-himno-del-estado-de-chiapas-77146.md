@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-escudo-y-el-himno-del-estado-de-chiapas-77146"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-22"
-last_updated: "2011-08-17"
+last_updated: "2017-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DEL ESCUDO Y EL HIMNO DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 22 de septiembre de 2010.
 
@@ -241,6 +241,8 @@ La música oficial del Himno a Chiapas es la siguiente:
 
 ### Capítulo Sexto. De las fechas conmemorativas en el Estado de Chiapas
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2017)</small>
+
 ###### Artículo 20.
 
 Son fechas conmemorativas en el Estado de Chiapas, además de las señaladas en el artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, las siguientes:
@@ -299,8 +301,6 @@ Aniversario del natalicio en 1925 de la poetisa Rosario Castellanos Figueroa.
 
 Aniversario luctuoso de don Joaquín Miguel Gutiérrez Canales en 1838.
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2011)</small>
-
 27 de junio:
 
 Se Promulga la Constitución Chiapas Siglo XXI.
@@ -316,12 +316,6 @@ Se trasladan definitivamente los poderes gubernamentales a la Ciudad de Tuxtla G
 12 de Agosto:
 
 Aniversario luctuoso de Ángel Albino Corzo en 1875.
-
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2011)</small>
-
-20 de agosto:
-
-Día de las Asambleas de Barrios del Estado de Chiapas.
 
 21 de Agosto:
 
@@ -396,3 +390,11 @@ Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario
 P.O. 17 DE AGOSTO DE 2011.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 192 POR EL QUE SE REFORMA EL ARTÍCULO 20 DE LA LEY DEL ESCUDO Y EL HIMNO DEL ESTADO”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
