@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-del-tribunal-electoral-del-poder-109182"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-07"
-last_updated: "2017-01-03"
+last_updated: "2017-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109182&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2015-08-03"
 
 REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 3 DE ENERO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de agosto de 2015.
 
@@ -301,9 +299,13 @@ La Sala Superior contará con las Comisiones y Comités que considere pertinente
 
 Su funcionamiento será establecido por los acuerdos que emita la Sala Superior. Su integración se orientará por el principio de paridad y se trabajará con perspectiva de género.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 14 DE JUNIO DE 2017)</small>
+
 ### CAPÍTULO IV. Del Comité Académico y Editorial
 
 ###### Artículo 17.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 14 DE JUNIO DE 2017)</small>
 
 Con el objeto de orientar la política académica y editorial del Tribunal Electoral, la Sala Superior se auxiliará de un órgano consultivo denominado Comité Académico y Editorial, que será el encargado de aprobar las directrices de investigación, capacitación y editoriales. El Comité Académico y Editorial estará integrado paritariamente por:
 
@@ -315,21 +317,33 @@ III. Cinco personas externas elegidas por la Sala Superior de entre personalidad
 
 Sus integrantes durarán en el encargo cuatro años y contará con alguno o más con trayectoria y experiencia en temas de género.
 
-Las personas titulares del Centro, de la Coordinación de Información, Documentación y Transparencia, así como de la Coordinación de Comunicación Social, concurrirán a las sesiones del Comité con voz, pero sin voto.
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2017)</small>
 
-Por la naturaleza del Comité, la Secretaría Técnica estará a cargo de las personas titulares del Centro y de la Coordinación de Comunicación Social. Cada Secretariado Técnico deberá atender, según el ámbito de su competencia, los temas que sean objeto de la sesión correspondiente y que se vinculen con sus respectivas facultades.
+Las personas titulares del Centro y de la Dirección General de Documentación concurrirán a las sesiones del Comité Académico con voz, pero sin voto.
+
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2017)</small>
+
+Por la naturaleza del Comité, la Secretaría Técnica estará a cargo de las personas titulares del Centro y de la Dirección General de Documentación. Cada Secretariado Técnico deberá atender, según el ámbito de su competencia, los temas que sean objeto de la sesión correspondiente y que se vinculen con sus respectivas facultades.
 
 ###### Artículo 18.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 14 DE JUNIO DE 2017)</small>
+
 El Comité Académico y Editorial tendrá las facultades siguientes:
 
-I. Opinar respecto de los programas Académico y Editorial que elabore el Centro y la Coordinación de Comunicación Social, mismos que deberán ser presentados a más tardar en el mes de mayo del año anterior al ejercicio que corresponda, así como supervisar su ejecución;
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
 
-II. Supervisar y, en su caso, evaluar los programas Académico y Editorial;
+I. Opinar respecto del Programa Académico y Editorial que elabore el Centro, mismo que deberá ser presentado a más tardar en el mes de mayo del año anterior al ejercicio que corresponda, así como supervisar su ejecución;
+
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
+
+II. Supervisar y, en su caso, evaluar el Programa Académico y Editorial;
 
 III. Aprobar anualmente las líneas generales de investigación del Centro, las cuales deberán elaborarse una vez agotado el procedimiento de consulta que se prevea en los lineamientos para dictaminar investigaciones;
 
-IV. Aprobar los proyectos de investigación, formación, capacitación, difusión y actualización, así como los nombres de las personas encargadas de las investigaciones que dentro de cada línea se presenten en los programas Académico y Editorial anuales del Tribunal Electoral;
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
+
+IV. Aprobar los proyectos de investigación, formación, capacitación, difusión y actualización, así como los nombres de las personas encargadas de las investigaciones que dentro de cada línea se presenten en el Programa Académico y Editorial Anual del Tribunal Electoral;
 
 V. Aprobar los criterios a los que las investigaciones deberán ajustarse, conforme con los lineamientos para dictaminar investigaciones;
 
@@ -2173,6 +2187,8 @@ XII. Integrar los Comités y Comisiones que le instruya la Sala Superior y su Pr
 
 XIII. Las demás que les confieran las disposiciones aplicables.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 14 DE JUNIO DE 2017)</small>
+
 ### CAPÍTULO III. De los Órganos Auxiliares de la Comisión de Administración
 
 ###### Artículo 173.
@@ -2389,13 +2405,17 @@ XVIII. Proponer, en el ámbito de sus atribuciones, la celebración o actualizac
 
 Las ausencias de la persona titular de la Contraloría Interna, serán suplidas en términos de la normativa aplicable.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 14 DE JUNIO DE 2017)</small>
+
 SECCIÓN 3ª
 
 Del Centro de Capacitación Judicial Electoral
 
 ###### Artículo 183.
 
-El Centro se encarga de establecer las directrices y los objetivos generales para el desarrollo de sus tareas de investigación, formación, difusión, capacitación y actualización, a fin de profesionalizar y especializar al personal jurídico y administrativo que requiere el Tribunal Electoral, así como cuando lo soliciten otras instituciones electorales, partidos y agrupaciones políticas nacionales o ciudadanas, a través de sus programas académicos, a efecto de contribuir a la generación y difusión del conocimiento en materia electoral.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JUNIO DE 2017)</small>
+
+El Centro es una institución educativa especializada con registro ante la Secretaría de Educación Pública, facultada para impartir diplomados, especialidades, maestrías y doctorados, conforme a los planes y programas académicos correspondientes, y para establecer las directrices y los objetivos generales para el desarrollo de sus tareas de investigación, formación, difusión, capacitación y actualización, a fin de profesionalizar y especializar al personal jurídico y administrativo que requiere el Tribunal Electoral, así como cuando lo soliciten otras instituciones electorales, partidos y agrupaciones políticas nacionales o ciudadanas, a efecto de contribuir a la generación y difusión del conocimiento en materia electoral.
 
 Asimismo, tendrá a su cargo instrumentar en el ámbito académico las decisiones institucionales relativas a la Carrera Judicial Electoral.
 
@@ -2411,11 +2431,15 @@ La integración del Centro se orientará por el principio de paridad y contará 
 
 ###### Artículo 185.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 14 DE JUNIO DE 2017)</small>
+
 La persona titular del Centro tendrá las facultades siguientes:
 
 I. Coordinar el desarrollo de las actividades del Centro;
 
-II. Fungir, en el ámbito académico, como titular de la Secretaría Técnica del Comité Académico y Editorial y, elaborar y modificar el Programa Académico Anual del Centro, el cual deberá incluir la capacitación para las Salas Regionales, y someterlo, previa opinión de dicho Comité, a la aprobación de la Comisión de Administración, a través de su Presidencia;
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
+
+II. Fungir, en el ámbito académico, como titular de la Secretaría Técnica del Comité Académico y Editorial y, elaborar y modificar el Programa Académico y Editorial Anual, el cual deberá incluir la capacitación para las Salas Regionales; y someterlo, previa opinión de dicho Comité, a la aprobación de la Comisión de Administración, a través de su Presidencia;
 
 III. Suscribir la documentación académica que genere el Centro;
 
@@ -2581,7 +2605,7 @@ El Comité de Desincorporación de Bienes es un órgano colegiado con carácter 
 
 El Comité para la Implementación del Sistema de Gestión de Control Interno y de Mejora Continua es un órgano colegiado con carácter permanente, el cual será la instancia en la que se analicen, estudien y propongan, la búsqueda de mejores prácticas administrativas de conformidad con los criterios establecidos por la Comisión de Administración, para lo cual se integrará y funcionará de conformidad con el Acuerdo General que para tales efectos emita dicha Comisión.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 14 DE JUNIO DE 2017)</small>
 
 ## TÍTULO SEGUNDO. De las Coordinaciones y Direcciones Generales adscritas a la Presidencia del Tribunal
 
@@ -2683,7 +2707,7 @@ XI. Organizar y participar en la impartición de cursos y talleres relacionados 
 
 XII. Implementar, proponer y actualizar sistemas electrónicos de consulta de jurisprudencia y tesis.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 14 DE JUNIO DE 2017)</small>
 
 ### CAPÍTULO II. De la Coordinación de Comunicación Social
 
@@ -2693,51 +2717,35 @@ XII. Implementar, proponer y actualizar sistemas electrónicos de consulta de ju
 
 La Coordinación de Comunicación Social se encarga de planear, diseñar y dirigir las políticas de comunicación institucional, para una mejor difusión y comprensión de los derechos político-electorales y del sistema de justicia electoral que los garantiza, consolidando la imagen pública del Tribunal Electoral; así como de difundir la actividad jurisdiccional de conformidad con la normativa aplicable.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2017)</small>
 
 ###### Artículo 197.
 
 La persona titular de la Coordinación de Comunicación Social tendrá las facultades siguientes:
 
-I. Proponer y operar la política y los programas de comunicación institucional; así como las políticas internas y campañas sobre la tutela del derecho a la igualdad y no discriminación;
+I. Proponer y operar estrategias y programas de comunicación institucional;
 
-II. Implementar políticas y normas en materia de comunicación social libres de estereotipos discriminadores y vigilar su cumplimiento;
+II. Conducir la resolución con los medios de comunicación nacionales e internacionales, informarles sobre las actividades institucionales y facilitarles la cobertura periodística de las mismas;
 
-III. Conducir la relación con los medios de comunicación nacional e internacional, informarles sobre las actividades institucionales y facilitarles la cobertura periodística de las mismas;
+III. Organizar entrevistas y conferencias de prensa;
 
-IV. Organizar entrevistas y conferencias de prensa;
+IV. Monitorear, sintetizar y evaluar la información relacionada con las actividades del Tribunal Electoral;
 
-V. Mantener relación con organismos públicos o privados interesados en las actividades del Tribunal Electoral;
+V. Acordar con la Presidencia del Tribunal Electoral acciones y tácticas de comunicación institucional;
 
-VI. Monitorear, sintetizar, dar seguimiento y evaluar la información que sobre el Tribunal Electoral se difunda en los medios de comunicación;
+VI. Participar en la actualización de la página electrónica del Tribunal Electoral con la colaboración de la Dirección General de Documentación y de la Dirección General de Sistemas y para ello integrará la junta editorial de la página de Intranet e Internet;
 
-VII. Acordar con la Presidencia del Tribunal Electoral las políticas de información institucional que se difundan;
+VII. Proponer y coordinar investigaciones y estudios en el ámbito de su competencia;
 
-VIII. Coordinar la actualización de la página electrónica del Tribunal Electoral con la colaboración de la Dirección General de Información y Documentación y de la Dirección General de Sistemas y para ello integrará la junta editorial de la página de Intranet e Internet;
+VIII. Proponer y coordinar la producción de materiales relacionados con las campañas y programas de comunicación institucional;
 
-IX. Dar seguimiento a investigaciones y estudios de opinión;
+IX. Establecer mecanismos de coordinación con las áreas de comunicación social de la Suprema Corte y del Consejo de la Judicatura, así como con el Canal Judicial.
 
-X. Proponer y coordinar la producción de campañas de difusión institucional y la elaboración de materiales audiovisuales, fotográficos o impresos, libres de estereotipos discriminadores;
+X. Diseñar y desarrollar una estrategia de comunicación para las Salas Regionales.
 
-XI. Establecer mecanismos de coordinación con las áreas de comunicación social de la Suprema Corte y del Consejo de la Judicatura, así como con el Canal Judicial;
+Será responsabilidad de cada Sala llevar a cabo su respectivo plan de comunicación;
 
-XII. Acordar con la Presidencia del Tribunal Electoral todo lo relativo a la difusión de las actividades jurisdiccionales del Tribunal Electoral y las actividades públicas de las y los Magistrados;
-
-XIII. Coadyuvar en el ámbito de su competencia a la difusión de las actividades de las diversas áreas del Tribunal Electoral, de conformidad con los lineamientos que dicte la Presidencia del Tribunal Electoral;
-
-XIV. Diseñar y desarrollar una estrategia de difusión para las Salas Regionales.
-
-Con independencia de lo anterior, será responsabilidad de cada Sala llevar a cabo su respectivo plan de medios;
-
-XV. Apoyar en las tareas al Centro y de la Dirección General de Documentación e Información, en lo referente al cumplimiento del Programa Académico y Editorial Anual, de conformidad con los lineamientos que dicte la Presidencia del Tribunal Electoral;
-
-XVI. Coordinar las actividades para la impresión y edición de libros, revistas, folletos, carteles, trípticos y materiales audiovisuales;
-
-XVII. Fungir, en el ámbito editorial, como Secretario Técnico del Comité Académico y Editorial en los asuntos de su competencia;
-
-XVIII. Elaborar el Programa Editorial Anual para someterlo a la aprobación del Comité Académico y Editorial; y
-
-XIX. Coordinar la baja y destrucción de las publicaciones institucionales, de conformidad con el Programa Editorial Anual autorizado por el Comité Académico y Editorial.
+XI. Diseñar y administrar la imagen institucional, así como sus diversas aplicaciones.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2771,47 +2779,79 @@ VI. Coordinar la elaboración del Programa Anual de Igualdad de Derechos y Parid
 
 VII. Coordinar la difusión de los contenidos de la normativa nacional e internacional relacionada con la materia, con apoyo de la Coordinación de Comunicación Social y otras áreas.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 14 DE JUNIO DE 2017)</small>
 
-### CAPÍTULO IV. De la Dirección General de Información y Documentación
+### CAPÍTULO IV. De la Dirección General de Documentación
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2017)</small>
 
 ###### Artículo 200.
 
-La Dirección General de Información y Documentación se encarga de proponer, coordinar y administrar los planes, programas, proyectos y servicios en materia de información y documentación, en apoyo a las actividades jurisdiccionales, académicas y administrativas del Tribunal Electoral, así como los destinados al público en general.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+La Dirección General de Documentación se encarga de proponer, coordinar y administrar los planes, programas, proyectos y servicios en materia de información y documentación, en apoyo a las actividades jurisdiccionales, académicas y administrativas del Tribunal Electoral, así como los destinados al público en general.
 
 ###### Artículo 201.
 
-La persona titular de la Dirección General de Información y Documentación tendrá las facultades siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JUNIO DE 2017)</small>
 
-I. Proponer y supervisar el desarrollo de planes y proyectos estratégicos para actualizar, innovar y difundir los servicios documentales, así como los relacionados con la tutela del derecho a la no discriminación en el Tribunal Electoral;
+La persona titular de la Dirección General de Documentación tendrá las facultades siguientes:
+
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
+
+I. Proponer y supervisar el desarrollo de planes y proyectos estratégicos para actualizar, innovar y difundir los servicios documentales;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 II. Coadyuvar con las diversas instancias superiores, Coordinaciones y Direcciones Generales en la difusión del conocimiento en materia electoral, de la cultura democrática y de la educación cívica;
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
 III. Elaborar y compilar los informes correspondientes, que serán presentados ante la autoridad competente;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 IV. Dirigir y administrar la publicación de información en el portal de Internet de conformidad con los Acuerdos, lineamientos o manuales operativos que para tal efecto se emitan, en coordinación con la Dirección General de Sistemas y la Coordinación de Comunicación Social y para ello integrará la junta editorial de la página de Intranet e Internet;
 
-V. Coordinar con el apoyo de la Dirección General de Sistemas y la Unidad de Transparencia, la integración de herramientas informáticas que faciliten la localización inmediata de la información del Tribunal Electoral;
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
 
-VI. Coadyuvar con la Unidad de Transparencia en el desahogo de las solicitudes de acceso a la información, de conformidad con los ordenamientos en materia de transparencia;
+V. Desarrollar, con el apoyo de la Dirección General de Sistemas y la Dirección General de Transparencia, Acceso a la Información y Protección de Datos Personales, herramientas informáticas que faciliten la localización inmediata de la información del Tribunal Electoral;
 
-VII. Promover las actividades de capacitación y actualización profesional en materia de documentación;
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
 
-VIII. Compilar la normativa electoral federal y local, y supervisar su permanente actualización;
+VI. Promover las actividades de capacitación y actualización profesional en materia de documentación;
 
-IX. Actualizar, incrementar y conservar el acervo del Centro de Documentación y, en su caso, el de cada una de las Salas Regionales;
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
 
-X. Poner a disposición de las o los Magistrados del personal del Tribunal Electoral y del público en general, servicios de información y documentación especializados en materia jurídica, político-electoral y administrativa a través de los Centros de Documentación;
+VII. Compilar la normativa electoral federal y local, y supervisar su permanente actualización;
 
-XI. Proponer la celebración de convenios de colaboración con instituciones y organismos afines, nacionales e internacionales, en materia de servicios documentales, intercambio y obtención de información jurídica, y de aquellos que propicien el intercambio de experiencias y conocimientos; y
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
 
-XII. Coordinar la venta de las publicaciones institucionales, de conformidad con el Programa Editorial Anual autorizado por el Comité Académico y Editorial.
+VIII. Actualizar, incrementar y conservar el acervo del Centro de Documentación y, en su caso, el de cada una de las Salas Regionales;
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
+
+IX. Poner a disposición de las o los Magistrados, del personal del Tribunal Electoral y del público en general, servicios de información y documentación especializados en materia jurídica, político-electoral y administrativa a través de los Centros de Documentación;
+
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
+
+X. Proponer la celebración de convenios de colaboración con instituciones y organismos afines, nacionales e internacionales, en materia de servicios documentales, intercambio y obtención de información jurídica, y de aquellos que propicien el intercambio de experiencias y conocimientos;
+
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
+
+XI. Distribuir las publicaciones institucionales, de conformidad con el Programa Académico y Editorial Anual autorizado por el Comité Académico y Editorial;
+
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
+
+XII. Dirigir las actividades de impresión y edición de libros, revistas, folletos, carteles, trípticos y demás materiales gráficos;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2017)</small>
+
+XIII. Fungir, en el ámbito editorial, como Secretario Técnico del Comité Académico y Editorial en los asuntos de su competencia; y
+
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2017)</small>
+
+XIV. Dirigir la baja y destrucción de las publicaciones institucionales, de conformidad con el Programa Académico y Editorial Anual autorizado por el Comité Académico y Editorial.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 14 DE JUNIO DE 2017)</small>
 
 ### CAPÍTULO V. De la Dirección General de Relaciones con Organismos Electorales
 
@@ -2821,17 +2861,25 @@ XII. Coordinar la venta de las publicaciones institucionales, de conformidad con
 
 La Dirección General de Relaciones con Organismos Electorales se encarga del establecimiento y promoción de vínculos entre el Tribunal Electoral y los organismos electorales nacionales y extranjeros; con la finalidad de expandir los valores democráticos, fortalecer e incrementar las relaciones institucionales.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
-
 ###### Artículo 203.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 14 DE JUNIO DE 2017)</small>
 
 La persona titular de la Dirección General de Relaciones con Organismos Electorales tendrá las facultades siguientes:
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
 I. Coadyuvar en el establecimiento y promoción de relaciones con organismos nacionales e internacionales vinculados con actividades electorales;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 II. Promover la vinculación con organismos de cooperación nacional e internacional para el desarrollo de proyectos interinstitucionales en materia electoral;
 
-III. Coordinarse con el Centro y la Dirección General de Información y Documentación, de conformidad con los lineamientos que dicte la Presidencia del Tribunal Electoral, en el ámbito de su competencia; y
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
+
+III. Coordinarse con el Centro y la Dirección General de Documentación, de conformidad con los lineamientos que dicte la Presidencia del Tribunal Electoral, en el ámbito de su competencia; y
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 IV. Planear y programar en términos operativos y logísticos, los contactos y las relaciones del Tribunal Electoral con instancias gubernamentales, privadas, nacionales o extranjeras, para promover a la institución.
 
@@ -3696,5 +3744,15 @@ PRIMERO. Las presentes reformas y adiciones entrarán en vigor el 1o. de enero d
 SEGUNDO. Se derogan las disposiciones que se opongan a las presentes reformas y adiciones.
 
 > <small>(F. DE E., D.O.F. 3 DE ENERO DE 2017)</small>
+
+TERCERO. Publíquense las presentes reformas y adiciones en el Diario Oficial de la Federación y en la Gaceta de Jurisprudencia y Tesis en Materia Electoral.
+
+D.O.F. 14 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS Y ADICIONES AL REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+PRIMERO. Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a las presentes reformas y adiciones.
 
 TERCERO. Publíquense las presentes reformas y adiciones en el Diario Oficial de la Federación y en la Gaceta de Jurisprudencia y Tesis en Materia Electoral.
