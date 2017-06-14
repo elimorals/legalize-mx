@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2017-03-01"
+last_updated: "2017-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE SALUD DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -301,9 +303,9 @@ El Sistema Estatal de Salud está constituido por las dependencias y entidades p
 
 El Sistema Estatal de Salud tiene los siguientes objetivos:
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2017)</small>
 
-I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo los problemas sanitarios prioritarios del Estado y a los factores que condicionen y causen daños a la salud, con especial interés en la promoción, implementación e impulso de acciones de atención integrada de carácter preventivo, acorde con la edad, sexo y factores de riesgo de las personas;
+I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo los problemas sanitarios prioritarios del Estado y a los factores que condicionen y causen daños a la salud, con especial interés en la promoción, implementación e impulso de acciones de atención integrada de carácter preventivo en los usuarios de los servicios de salud y en los prestadores de servicios, personal médico y auxiliares de los sectores público, social y privado, acorde con la edad, sexo, condiciones de salud y factores de riesgo en las personas;
 
 II.- Contribuir al desarrollo demográfico armónico del Estado;
 
@@ -1391,9 +1393,17 @@ III.- A la prevención y control de los problemas de salud que se consideren pri
 
 IV.- Al conocimiento y control de los efectos nocivos del ambiente en la salud;
 
-V.- Al estudio de las técnicas y métodos que se recomienden o empleen para la prestación de los servicios de salud; y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2017)</small>
 
-VI.- A la producción de insumos para la salud.
+V.- Al estudio de las técnicas y métodos que se recomienden o empleen para la prestación de los servicios de salud;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2017)</small>
+
+VI.- A la producción de insumos para la salud, y
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2017)</small>
+
+VII.- Al conocimiento y prevención de enfermedades contagiosas del personal de los servicios de salud.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
@@ -1493,9 +1503,9 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud; y
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2017)</small>
 
-III.- Orientar y capacitar a la población, preferentemente, en materia de nutrición, sobrepeso y obesidad; salud mental, salud bucal, salud reproductiva, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes y primeros auxilios, prevención y rehabilitación de la discapacidad y detección oportuna de enfermedades, así como respecto a los efectos negativos que sobre la salud tiene la violencia familiar, la violencia contra las mujeres y el maltrato de menores.
+III.- Orientar y capacitar a la población; preferentemente, en materia de nutrición, sobrepeso y obesidad; salud mental, salud bucal, salud reproductiva, riesgos de automedicación, prevención de la farmacodependencia, vacunación y los efectos temporalmente asociados a ésta, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes y primeros auxilios, prevención y rehabilitación de la discapacidad y detección oportuna de enfermedades, así como respecto a los efectos negativos que sobre la salud tiene la violencia familiar, la violencia contra las mujeres y el maltrato de menores.
 
 ###### Artículo 111.
 
@@ -1819,9 +1829,11 @@ Las personas que ejerzan la medicina o que realicen actividades afines, están o
 
 Están obligados a dar aviso, en los términos del Artículo 129 de esta Ley, los jefes o encargados de laboratorios, los directores de unidades médicas, escuelas, fabricas, talleres, asilos, los jefes de oficina, establecimientos comerciales o de cualquier otra índole y, en general, toda persona que por circunstancias ordinarias o accidentales tengan conocimiento de alguno de los casos de enfermedades a que se refiere este Capítulo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2017)</small>
+
 ###### Artículo 132.
 
-Las medidas que se requieran para la prevención y el control de las enfermedades que enumera el Artículo 127 de esta Ley, deberán ser observadas por los particulares, el ejercicio de ésta acción comprenderá una o más de las siguientes medidas según el caso de que se trate:
+Las medidas que se requieran para la prevención y el control de las enfermedades que enumera el Artículo 127 de esta Ley, son de observancia obligatoria por los usuarios, personal médico, auxiliares y técnicos, el ejercicio de ésta acción comprenderá una o más de las siguientes medidas según el caso de que se trate:
 
 I.- La confirmación de la enfermedad por los medios clínicos disponibles;
 
@@ -2493,9 +2505,9 @@ IV. Recibir información completa sobre los riesgos de la operación y las conse
 
 V. Haber otorgado su consentimiento válidamente informado en forma expresa y, en términos del Capítulo II del Título Décimo Cuarto de la Ley General de Salud y demás legislación aplicable, y
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2017)</small>
 
-VI. Tener parentesco por consanguinidad, por afinidad o civil o ser cónyuge, concubina o concubino del receptor. Cuando se trate del trasplante de médula ósea no será necesario este requisito.
+VI. Los trasplantes se realizarán preferentemente entre personas que tengan parentesco por consanguinidad, civil o de afinidad y cuando no exista un donador relacionado por algún tipo de parentesco, la donación se realizará, siempre y cuando se cumplan los requisitos establecidos en el artículo 333 de la Ley General de Salud.
 
 ###### Artículo 206.
 
@@ -2799,15 +2811,27 @@ Tratándose de situaciones de emergencia, de enfermedades graves o cuando así l
 
 Las personas encargadas de los servicios médicos de los establecimientos penitenciarios y centros de reinserción social que tengan conocimiento de alguna enfermedad transmisible, deberán adoptar las medidas de seguridad sanitaria que procedan para evitar la propagación de la misma, así como hacer la notificación a que se refieren los artículos 129 y 131 de esta Ley.
 
-### CAPÍTULO VIII. PELUQUERÍAS, SALONES DE BELLEZA, ESTÉTICAS Y ESTABLECIMIENTOS SIMILARES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO VIII. PELUQUERÍAS, SALONES DE BELLEZA, ESTÉTICAS, CENTRO DE TATUAJES, MICROPIGMENTACIONES, PERFORACIONES Y ESTABLECIMIENTOS SIMILARES
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2017)</small>
 
 ###### Artículo 257.
 
-Para los efectos de esta Ley, se entiende por peluquerías, salones de belleza, estéticas y establecimientos similares, los establecimientos abiertos al público, dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas; al arreglo estético de uñas de manos y pies o a la aplicación de tratamientos externos de belleza en general, así como los dedicados al tatuaje, con productos y técnicas legalmente autorizados para ese fin.
+Para los efectos de esta Ley, se entiende por peluquerías, salones de belleza, estéticas, centros de tatuaje, micropigmentaciones y perforaciones, a los establecimientos abiertos al público, dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas; al arreglo estético de uñas, de manos y pies, a la modificación del color de la piel, decoración y perforación del cuerpo en general.
+
+Los centros de tatuajes, micropigmentaciones y perforaciones, deberán cumplir con lo establecido en el artículo 268 Bis de la Ley General de Salud y las demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2017)</small>
 
 ###### Artículo 258.
 
-Los establecimientos a que se refiere el Artículo anterior, deberán utilizar productos legalmente autorizados, material desechable y equipo estéril y ser efectuado por profesionales; en relación al tatuaje los usuarios a los que se les efectúe este procedimiento deberán ser mayores de edad, los cuales deberán manifestar por escrito su aprobación.
+Los establecimientos a que se refiere el artículo anterior, deberán utilizar productos legalmente autorizados, material desechable y equipo estéril y ser efectuado por profesionales; en relación al tatuaje, a la micropigmentación y a las perforaciones, los usuarios a los que se les efectúen alguno de estos procedimientos deberán ser mayores de edad, los cuales deberán manifestar por escrito su aprobación.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2017)</small>
+
+Queda prohibido realizar tatuajes, micropigmentaciones y perforaciones conforme lo establecido en artículo 268 Bis 1 de la Ley General de Salud y la norma federal aplicable.
 
 ###### Artículo 259.
 
@@ -4488,3 +4512,19 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 14 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CIENTO NOVENTA POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS, EL CAPÍTULO VIII DEL TITULO DÉCIMO QUINTO DENOMINADO SALUBRIDAD LOCAL Y SE ADICIONA UNA ÚLTIMA FRACCIÓN (SIC) ARTÍCULO 104 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 258 DE LA LEY DE SALUD DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 14 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHOCIENTOS CINCUENTA POR EL QUE SE REFORMA LA FRACCIÓN VI, DEL ARTÍCULO 205, DE LA LEY DE SALUD DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
