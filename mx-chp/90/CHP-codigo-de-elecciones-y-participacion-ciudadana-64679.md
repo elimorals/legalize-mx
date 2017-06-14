@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-elecciones-y-participacion-ciudadana-64679"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-27"
-last_updated: "2017-02-01"
+last_updated: "2017-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # CODIGO DE ELECCIONES Y PARTICIPACION CIUDADANA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2017 (ABROGADO).
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 27 de agosto de 2008.
 
@@ -9800,3 +9802,223 @@ Artículo Primero.- El presente Decreto entrara (sic) vigor al día siguiente de
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
 
 Artículo Tercero.- A partir de la entrada en vigencia del presente decreto, el Instituto de Elecciones y Participación Ciudadana, tendrá un plazo de 60 días naturales para modificar aquellos acuerdos que haya dictado sobre Financiamiento Público Ordinario para el Ejercicio 2017, los cuales quedaran sujetos a la fórmula que establece el presente decreto.
+
+P.O. 14 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 181 CDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIAPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto número 228, publicado en el Periódico Oficial 112, segunda sección de fecha 27 de agosto del 2008 y sus subsecuentes reformas.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Código.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, tanto administrativos como jurisdiccionales serán resueltos conforme a las normas que se encontraban vigentes al inicio del procedimiento.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo General del Instituto de Elecciones y de Participación Ciudadana, dictará los acuerdos necesarios para hacer efectivas las disposiciones de este Código y deberá expedir los reglamentos que se deriven del mismo antes del inicio del proceso electoral ordinario 2017-2018. Los acuerdos, lineamientos y demás disposiciones generales que hayan sido emitidos por el Instituto de Elecciones, con antelación a la entrada en vigor del presente Decreto seguirán vigentes, en lo que no se opongan al presente Código, hasta en tanto el Consejo General no emita aquéllas que deban sustituirlas.
+
+###### ARTÍCULO SEXTO.
+
+Los partidos políticos locales deberán adecuar sus documentos básicos y demás reglamentación interna a lo previsto en este Código y en las demás disposiciones legales aplicables.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Consejo General del Instituto de Elecciones y de Participación Ciudadana podrá realizar ajustes a los plazos establecidos en este Código a fin de garantizar la debida ejecución de las actividades y procedimientos electorales.
+
+###### ARTÍCULO OCTAVO.
+
+Para el debido cumplimiento de sus atribuciones la Secretaría de Hacienda del Estado de Chiapas, dentro de los noventa días naturales posteriores a la emisión del presente Decreto, asignará los recursos presupuestarios necesarios para que el Instituto de Elecciones y de Participación Ciudadana haga efectivas las disposiciones de este Código y las determinaciones que deriven de éste, así como para asegurar las actividades del proceso electoral local en el ejercicio anual 2018, deberá ser durante los primeros dos meses del año de la elección.
+
+###### ARTÍCULO NOVENO.
+
+Por única ocasión, la jornada electoral del proceso electoral ordinario 2017-2018, se realizará el primer domingo de julio de 2018. Por lo mismo, los plazos regulados por los artículos 60, 112, 130, 182, 188 y 192 del presente Código, serán para dicho proceso electoral:
+
+REGISTRO DE COALICIONES
+
+Artículo Actividad Plazo que se deberá aplicar
+
+para el proceso electoral
+
+2017-2018
+
+60 Las solicitudes de registro de A más tardar la primera
+
+Coalición, deberán ser presentadas semana de enero de 2018.
+
+al Presidente del Consejo General,
+
+acompañadas de la documentación
+
+pertinente.
+
+CANDIDATURAS INDEPENDIENTES
+
+Artículo Actividad Plazo que se deberá aplicar
+
+para el proceso electoral
+
+2017- 2018
+
+112 Realización de actos tendentes a Se deberán de realizar del 1
+
+recabar el apoyo ciudadano en los al 20 de marzo de 2018.
+
+procesos en que se elijan al
+
+Gobernador, Diputados Locales y
+
+Miembros de los Ayuntamientos.
+
+130 La entrega de las cedulas de respaldo - La entrega de las cedulas
+
+y su remisión al Instituto Nacional de respaldo se deberán
+
+para que este realice la revisión y realizar del 21 al 25 de
+
+cotejo tanto de la Situación Registral marzo de2018 (sic).
+
+de los ciudadanos que hayan suscrito
+
+las Cedulas de Apoyo, así como de - La remisión al Instituto
+
+las firmas contenidas en las mismas Nacional se realizará a más
+
+tardar el 28 de marzo de
+
+2018.
+
+PROCESO DE SELECCIÓN INTERNA
+
+Artículo Actividad Plazo que se deberá
+
+aplicar para el proceso
+
+electoral 2017-2018
+
+182 - Determinar y dar aviso por escrito - Los Partidos Políticos
+
+al Consejo General de la tendrán del 1 al 15 de
+
+convocatoria de selección de las y febrero de 2018.
+
+los candidatos.
+
+- Precampañas para seleccionar a - Para Gobernador no
+
+las y los candidatos al cargo de podrán durar más de veinte
+
+Gobernador días y deberán de realizarse
+
+durante el mes de marzo de
+
+2018.
+
+- Precampañas para seleccionar a - Para Diputados e
+
+las y los candidatos a Diputados e Integrantes de
+
+Integrantes de Ayuntamientos Ayuntamientos, no podrán
+
+durar más de diez días y
+
+deberán de realizarse
+
+durante el mes de marzo de
+
+2018
+
+REGISTRO DE CANDIDATOS
+
+Artículo Actividad Plazo que se deberá
+
+aplicar para el proceso
+
+electoral 2017-2018
+
+188 Los plazos para recibir las solicitudes I. Para Gobernador del
+
+de registro de las candidaturas Estado, del 2 al 10 abril de
+
+2018;
+
+II. Para Diputados electos
+
+por el principio de
+
+mayoría relativa, del 17
+
+abril al 1º de mayo de 2018;
+
+III. Para Miembros de
+
+Ayuntamientos, del 17 de
+
+abril al 1º de mayo de 2018,
+
+y
+
+IV. Para Diputados electos
+
+por el principio de
+
+representación proporcional,
+
+del 1º al 5 de mayo de 2018.
+
+CAMPAÑAS
+
+Artículo Actividad Plazo que se deberá
+
+aplicar para el proceso
+
+electoral 2017-2018
+
+192 Las campañas políticas para el I. Para la elección de
+
+proceso de elección de Gobernador Gobernador del Estado, la
+
+darán inicio 63 días antes del día de campaña será del 29 de
+
+a elección correspondiente y la de abril al 27 de junio de 2018
+
+Diputados y miembros de
+
+Ayuntamientos iniciarán 33 días antes II. Para Diputados electos
+
+al día en que se verificará la jornada por el principio de
+
+electoral respectiva, debiendo mayoría relativa, del 28 de
+
+culminar en todos los casos conforme mayo al 27 de junio de
+
+a lo dispuesto en este Código 2018, y
+
+III. Para Miembros de
+
+Ayuntamientos, del 28
+
+de mayo al 27 de junio de
+
+2018.
+
+###### ARTÍCULO DÉCIMO.
+
+El voto de los Chiapanecos en el extranjero por vía electrónica, se realizará únicamente si el Instituto Nacional Electoral hace pública la comprobación del sistema a utilizar para la emisión del voto en dicha modalidad. De no contar con dicha publicación y comprobación antes del inicio del proceso electoral ordinario 2017-2018, lo dispuesto en este Código para dicha votación será aplicable para los procesos electorales subsecuentes, hasta que se cuente con la comprobación respectiva.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La rotación de las presidencias de las Comisiones Permanentes a que se refiere el artículo 70, numeral 3 de este Código, entrara en vigor una vez que hubiese finalizado el proceso electoral ordinario 2017-2018.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+El Contralor General que se encuentre en funciones a partir de la vigencia del presente Decreto, continuará en el cargo por el periodo por el que fue designado.
