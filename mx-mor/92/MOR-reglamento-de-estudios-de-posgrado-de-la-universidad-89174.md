@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-estudios-de-posgrado-de-la-universidad-89174"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-15"
-last_updated: "2012-08-15"
+last_updated: "2017-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE ESTUDIOS DE POSGRADO DE LA UNIVERSIDAD POLITECNICA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE ESTUDIOS DE POSGRADO DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE ESTUDIOS DE POSGRADO DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 15 de agosto de 2012.
 
@@ -31,7 +33,9 @@ Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad
 
 MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 70, FRACCIONES XVII Y XXVI Y 76 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS; Y DE CONFORMIDAD CON LOS ARTÍCULOS 2, 3, 6 Y 8 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo antes expuesto, se tiene a bien expedir el siguiente:
 
@@ -311,7 +315,7 @@ III. Ser atendido por las áreas de la Universidad, siempre y cuando observe las
 
 IV. Reportar por escrito, ante la Dirección, al personal académico de posgrado que demuestre deficiencias e incumplimiento en el desempeño de sus funciones, conducta irrespetuosa o cualquier otra actividad que perjudique el desarrollo académico o su integridad, para que se tomen las medidas necesarias;
 
-V. Presentar per escrito y de manera respetuosa, ante la Dirección o Personal Académico de posgrado las prepuestas, peticiones, observaciones o dudas relacionadas con el proceso de aprendizaje, directamente o por medio de su representante de grupo. Así mismo, podrá manifestar libremente sus ideas; en un marco de respeto a la Universidad y a los miembros que laboran en ella, a fin de conservar el orden, la disciplina y la continuidad de las actividades académicas;
+V. Presentar por escrito y de manera respetuosa, ante la Dirección o Personal Académico de posgrado las prepuestas, peticiones, observaciones o dudas relacionadas con el proceso de aprendizaje, directamente o por medio de su representante de grupo. Así mismo, podrá manifestar libremente sus ideas; en un marco de respeto a la Universidad y a los miembros que laboran en ella, a fin de conservar el orden, la disciplina y la continuidad de las actividades académicas;
 
 VI. Utilizar las instalaciones de la Universidad, con las limitantes del horario y usos propios de las mismas;
 
@@ -602,3 +606,15 @@ RECTOR DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS
 DR. JUAN SEGURA SALAZAR.
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE ESTUDIOS DE POSGRADO DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDO. Se abroga el Reglamento de Estudios de Posgrados de la Universidad Politécnica publicado en el Periódico Oficial “Tierra y Libertad” número 5012, de fecha 15 de agosto de 2012.
+
+TERCERO. Dado en las instalaciones de la Universidad Politécnica del Estado de Morelos, en el municipio de Jiutepec, Morelos, a los 7 días del mes de junio del año 2017.
