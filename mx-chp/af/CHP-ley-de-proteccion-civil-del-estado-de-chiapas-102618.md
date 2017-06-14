@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-proteccion-civil-del-estado-de-chiapas-102618"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-18"
-last_updated: "2015-04-22"
+last_updated: "2017-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 18 de septiembre de 2014.
 
@@ -33,7 +33,9 @@ Decreto Número 563
 
 La Sexagésima Quinta Legislatura Constitucional del Honorable Congreso del Estado Libre y Soberano de Chiapas, en uso de las facultades que le concede la Constitución Política local; y,
 
-C o n s i d e r a n d o …
+C o n s i d e r a n d o
+
+[...]
 
 Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido a bien emitir el siguiente decreto de:
 
@@ -67,7 +69,7 @@ Los Poderes Legislativo y Judicial del Estado, y los gobiernos municipales, así
 
 Para los efectos de esta Ley, se entenderá por:
 
-l. Agente regulador: Lo constituyen las acciones, instrumentos, normas, obras y en general todo aquello destinado a proteger a las personas, bienes, infraestructura estratégica, planta productiva y el medio ambiente, a reducir los riesgos y a controlar y prevenir los efectos adversos de un agente perturbador.
+I. Agente regulador: Lo constituyen las acciones, instrumentos, normas, obras y en general todo aquello destinado a proteger a las personas, bienes, infraestructura estratégica, planta productiva y el medio ambiente, a reducir los riesgos y a controlar y prevenir los efectos adversos de un agente perturbador.
 
 II. Albergado: A la persona que en forma temporal recibe asilo, amparo, alojamiento y resguardo ante la amenaza, inminencia u ocurrencia de un agente perturbador.
 
@@ -243,7 +245,7 @@ El Sistema Estatal como parte integrante del Sistema Nacional, será organizado 
 
 El Sistema Estatal tendrá los objetivos generales siguientes:
 
-l. Afirmar el sentido social de la función pública de protección civil, integrando sus programas, instrumentos y acciones para el desarrollo del Estado.
+I. Afirmar el sentido social de la función pública de protección civil, integrando sus programas, instrumentos y acciones para el desarrollo del Estado.
 
 II. Establecer, fomentar y encauzar una nueva actitud, conciencia y cultura de la población ante el sistema de protección civil y la reducción de riesgos de desastres, para motivar en los momentos de alto riesgo, siniestro o desastre, una respuesta eficaz, amplia, responsable y participativa.
 
@@ -255,7 +257,7 @@ IV. Fortalecer, ampliar y coordinar los medios de participación de la comunidad
 
 Son objetivos específicos, que corresponden a funciones prioritarias del Sistema Estatal:
 
-l. Establecer, reforzar y ampliar el aprovechamiento de las acciones en el manejo integral de riesgos para conocer, evitar y/o reducir los efectos destructivos en la eventualidad de un siniestro o desastre.
+I. Establecer, reforzar y ampliar el aprovechamiento de las acciones en el manejo integral de riesgos para conocer, evitar y/o reducir los efectos destructivos en la eventualidad de un siniestro o desastre.
 
 II. Realizar las acciones de manejo de emergencias y recuperación para atender las consecuencias de los efectos destructivos en caso de alto riesgo, siniestro o desastre.
 
@@ -283,7 +285,7 @@ VIII. Los representantes de los sectores académico, social y privado, relaciona
 
 Las normas, métodos y procedimientos que regulan la integración y funcionamiento del Sistema Estatal, comprenden:
 
-l. Las bases generales definidas en las Leyes Federales y Estatales en materia de planeación.
+I. Las bases generales definidas en las Leyes Federales y Estatales en materia de planeación.
 
 II. Los objetivos, políticas, estrategias y criterios definidos en el Plan Estatal y los Planes Municipales de Desarrollo.
 
@@ -347,7 +349,7 @@ XVI. Formular, aprobar, modificar y expedir su reglamento interno.
 
 El Consejo Estatal, órgano ejecutivo en materia de protección civil, tendrá las siguientes atribuciones:
 
-l. Formular el diagnóstico de evaluación inicial de las situaciones de emergencia, con base en el análisis que presente la Secretaría, para efectos de decidir las acciones a tomar y determinar los recursos necesarios para la respuesta.
+I. Formular el diagnóstico de evaluación inicial de las situaciones de emergencia, con base en el análisis que presente la Secretaría, para efectos de decidir las acciones a tomar y determinar los recursos necesarios para la respuesta.
 
 II. Declarar la emergencia y convocar a la instalación del Centro Estatal de Gestión y Coordinación para la Atención de la Emergencia.
 
@@ -365,7 +367,7 @@ VII. Las demás que determinen otras Leyes, Decretos, Reglamentos, Acuerdos y Co
 
 El Consejo Estatal, estará integrado por:
 
-l. Un Presidente, que será el Gobernador del Estado o la persona que éste designe para presidirlo.
+I. Un Presidente, que será el Gobernador del Estado o la persona que éste designe para presidirlo.
 
 II. Un Secretario Ejecutivo, que será el Secretario General de Gobierno.
 
@@ -423,7 +425,7 @@ El Presidente del Consejo Estatal, a través del Secretario Ejecutivo, solicitar
 
 Las comisiones que se constituyan en el Consejo Estatal, podrán tener el carácter de permanentes o para desarrollar acciones específicas y se integrarán por:
 
-l. Los Consejeros propietarios o quienes los sustituyan en el Consejo Estatal.
+I. Los Consejeros propietarios o quienes los sustituyan en el Consejo Estatal.
 
 II. Los representantes de las dependencias y entidades públicas, federales, estatales y municipales, que se convoquen conforme a su competencia.
 
@@ -439,7 +441,7 @@ VI. Representantes de grupos voluntarios o personas que estén en condiciones de
 
 El Consejo Estatal, sesionará ordinariamente en pleno por lo menos cuatro veces al año y extraordinarias (sic), cuando el caso así lo requiera, a convocatoria de su presidente, en el cual participarán:
 
-l. Los Presidentes Municipales donde se presenten las condiciones de alto riesgo, emergencia o desastre.
+I. Los Presidentes Municipales donde se presenten las condiciones de alto riesgo, emergencia o desastre.
 
 II. Los funcionarios de dependencias y entidades Federales, Estatales y Municipales que por sus funciones o atribuciones, puedan aportar informes y alternativas de solución, respecto a los problemas planteados al Consejo Estatal.
 
@@ -453,7 +455,7 @@ Los presidentes municipales en los casos previstos en la fracción I que anteced
 
 El Presidente del Consejo Estatal tendrá las siguientes atribuciones:
 
-l. Convocar y presidir las sesiones y dirigir sus debates, teniendo voto de calidad en caso de empate.
+I. Convocar y presidir las sesiones y dirigir sus debates, teniendo voto de calidad en caso de empate.
 
 II. Coordinar las acciones que se desarrollen en el seno del Consejo Estatal y las del Sistema Estatal en General.
 
@@ -473,7 +475,7 @@ VIII. Todas aquellas que le asignen expresamente las disposiciones jurídicas ap
 
 El Secretario Ejecutivo del Consejo Estatal, tendrá las siguientes atribuciones:
 
-l. Presidir las sesiones ordinarias y extraordinarias en el Comité de Emergencia, comisiones o en pleno del Consejo Estatal, en ausencia del presidente, pudiendo delegar esta función en el Secretario Técnico.
+I. Presidir las sesiones ordinarias y extraordinarias en el Comité de Emergencia, comisiones o en pleno del Consejo Estatal, en ausencia del presidente, pudiendo delegar esta función en el Secretario Técnico.
 
 II. Resolver las consultas que se sometan a su consideración.
 
@@ -527,7 +529,7 @@ Los esquemas de coordinación de este Comité serán precisados en el reglamento
 
 El Comité Estatal tendrá las siguientes atribuciones:
 
-l. Analizar la situación de emergencia o desastre que afecte al Estado, a fin de evaluar el alcance del impacto y formular las recomendaciones necesarias para proteger a la población, sus bienes y su entorno.
+I. Analizar la situación de emergencia o desastre que afecte al Estado, a fin de evaluar el alcance del impacto y formular las recomendaciones necesarias para proteger a la población, sus bienes y su entorno.
 
 II. En caso de presentarse una emergencia o desastres, deberá de establecerse cerca de la zona, para que se informe al Consejo Estatal de Protección Civil, que estará en sesión permanente.
 
@@ -547,7 +549,7 @@ VI. Emitir boletines y comunicados conjuntos hacia los medios de comunicación y
 
 Son autoridades encargadas de la aplicación de la presente Ley, en el ámbito de sus respectivas competencias:
 
-l. El Gobernador del Estado.
+I. El Gobernador del Estado.
 
 II. Los Ayuntamientos del Estado.
 
@@ -823,7 +825,7 @@ El registro será obligatorio y permitirá a los particulares o dependencias pú
 
 Toda persona física o moral obligatoriamente está sujeta a:
 
-l. Informar a las autoridades competentes de cualquier alto riesgo, siniestro o de la ocurrencia de un desastre.
+I. Informar a las autoridades competentes de cualquier alto riesgo, siniestro o de la ocurrencia de un desastre.
 
 II. Cooperar con las autoridades correspondientes para programar las acciones a ejecutar en caso de alto riesgo, siniestro o desastre.
 
@@ -841,7 +843,7 @@ La Secretaría o la Unidad Municipal, en su caso, podrán señalar quien de las 
 
 Las personas a que se refiere el artículo anterior, estarán obligados a:
 
-l. Capacitar a su personal en materia de protección civil.
+I. Capacitar a su personal en materia de protección civil.
 
 II. Practicar simulacros cuando menos una vez cada seis meses.
 
@@ -929,7 +931,7 @@ Los ingresos obtenidos por la aplicación de las multas a quienes infrinjan esta
 
 Las inspecciones se sujetarán a las siguientes bases:
 
-l. El inspector contará con una orden por oficio el cual contendrá la fecha y ubicación del inmueble por inspeccionar, objeto y aspectos de la visita, el fundamento legal y la motivación de la misma, el nombre del comisionado.
+I. El inspector contará con una orden por oficio el cual contendrá la fecha y ubicación del inmueble por inspeccionar, objeto y aspectos de la visita, el fundamento legal y la motivación de la misma, el nombre del comisionado.
 
 II. El inspector debe identificarse ante el propietario, arrendatario, poseedor, administrador o su representante legal, o ante la persona a cuyo encargo este el inmueble, en su caso, con la credencial vigente que para tal efecto expida la Secretaría, y entregará al visitado copia legible de la orden de inspección, para practicarla.
 
@@ -947,7 +949,7 @@ VII. Uno de los ejemplares en original del acta levantada quedará en poder de l
 
 Las visitas de verificación, se sujetarán a las siguientes bases:
 
-l. Se realizará de forma indistinta a la inspección, como medida coactiva, para el cumplimiento de la presente Ley.
+I. Se realizará de forma indistinta a la inspección, como medida coactiva, para el cumplimiento de la presente Ley.
 
 II. Los verificadores contarán con una orden por oficio expedido por el Titular de la Secretaría, y/o el Titular de la Unidad de Apoyo Jurídico del Instituto, el cual contendrá la fecha y ubicación del inmueble por verificar, objeto y aspectos de la verificación, el fundamento legal y la motivación.
 
@@ -999,7 +1001,7 @@ En caso de riesgo inminente, las dependencias y entidades de la Administración 
 
 Son medidas de seguridad y protección civil:
 
-l. La suspensión de actividades, obras y/o servicios.
+I. La suspensión de actividades, obras y/o servicios.
 
 II. La clausura temporal, parcial o total del área o inmueble de inminente riesgo.
 
@@ -1049,7 +1051,7 @@ XIV. Cualquier contravención a lo previsto en la Ley, reglamento y en los acuer
 
 Se sancionará a las personas que cometan las siguientes infracciones:
 
-l. Que se sorprendan quemando en terrenos o lotes baldíos, sin el permiso de la autoridad administrativa correspondiente.
+I. Que se sorprendan quemando en terrenos o lotes baldíos, sin el permiso de la autoridad administrativa correspondiente.
 
 II. Que obstruyan y acumulen en la vía pública agregados, escombro o basura, que pongan en riesgo la vida de las personas, sus bienes y su entorno.
 
@@ -1111,7 +1113,7 @@ IV. Cuando el inmueble verificado, cambie de una actividad comercial a una parti
 
 La contravención a las disposiciones de la presente Ley y sus reglamentos, dará lugar a la imposición de una sanción administrativa en los términos de este capítulo. Las sanciones consistirán en:
 
-l. Amonestación.
+I. Amonestación.
 
 II. Multa de cincuenta a dos mil días de salario mínimo diario vigente en el Estado.
 
@@ -1131,7 +1133,7 @@ La autoridad competente podrá imponer en un solo acto y a un mismo infractor, e
 
 Para los efectos de las infracciones previstas en el artículo 89 de esta Ley, las sanciones serán:
 
-l. Las infracciones a la fracción I, consistirán en arresto de 36 horas y multa equivalente de 50 a 100 días de salario mínimo diario vigente en el Estado.
+I. Las infracciones a la fracción I, consistirán en arresto de 36 horas y multa equivalente de 50 a 100 días de salario mínimo diario vigente en el Estado.
 
 II. Las infracciones a la fracción II, III y IV se sancionará con multa equivalente hasta 500 días de salario mínimo diario vigente en el Estado y la clausura temporal del inmueble si se trata de persona moral.
 
@@ -1267,7 +1269,7 @@ Para que la denuncia prevista en este capítulo proceda, basta que la persona qu
 
 En caso de alto riesgo, siniestro o desastre, la Secretaría solicitara la declaratoria de emergencia y ordenará su publicación, conforme los siguientes lineamientos:
 
-l. Todo hecho que implique una posible condición de alto riesgo, siniestro o desastre, será puesta en conocimiento de la Unidad Estatal, Municipal y bases regionales de protección civil, a través de la red de información que se establezca como parte de las acciones de prevención.
+I. Todo hecho que implique una posible condición de alto riesgo, siniestro o desastre, será puesta en conocimiento de la Unidad Estatal, Municipal y bases regionales de protección civil, a través de la red de información que se establezca como parte de las acciones de prevención.
 
 II. Conforme la evaluación inicial de la posible condición de alto riesgo, siniestro o desastre, el titular de la Unidad Estatal o Municipal, decidirá sobre informar, alertar o convocar en forma urgente, al Consejo respectivo.
 
@@ -1287,7 +1289,7 @@ El Consejo Estatal precisará los casos de alto riesgo, siniestro o desastre, qu
 
 La declaratoria de emergencia, deberá hacer mención expresa de los siguientes aspectos:
 
-l. Identificación de la condición de alto riesgo, siniestro o desastre.
+I. Identificación de la condición de alto riesgo, siniestro o desastre.
 
 II. Las instalaciones zonas o territorios afectados.
 
@@ -1309,7 +1311,7 @@ Es obligación de los municipios, colaborar en las acciones del Sistema Estatal,
 
 La participación de los municipios en las acciones, a que hace referencia el artículo anterior, serán las siguientes:
 
-l. Recursos humanos: serán integrados por todo funcionario público de la administración municipal en la que se presente la emergencia, para efectos de concretarse en las tareas de prevención, auxilio y recuperación y/o restablecimiento.
+I. Recursos humanos: serán integrados por todo funcionario público de la administración municipal en la que se presente la emergencia, para efectos de concretarse en las tareas de prevención, auxilio y recuperación y/o restablecimiento.
 
 II. Recursos financieros: Los Municipios del Estado conformarán la integración de un fondo municipal de protección civil, el cual tendrá como objeto, dar respuesta a la población, en caso de presentarse en el municipio, alguna calamidad o fenómeno perturbador que vulnere la tranquilidad del municipio.
 
@@ -1343,7 +1345,7 @@ Sin menoscabo de lo que expresa el artículo anterior, el Ejecutivo del Estado d
 
 La coordinación que establezca el Sistema Nacional, Estatal y Municipal, tendrán por objeto precisar:
 
-l. Las acciones que correspondan a cada sistema para atender los riesgos específicos que se presenten en la Entidad, relacionados con sus bienes y actividades.
+I. Las acciones que correspondan a cada sistema para atender los riesgos específicos que se presenten en la Entidad, relacionados con sus bienes y actividades.
 
 II. Las formas de cooperación con las unidades internas de las dependencias y organismos de la Administración Pública Federal en el Estado, acordando las responsabilidades y acciones que asumirán en materia de protección civil.
 
@@ -1403,7 +1405,7 @@ Los Sistemas Municipales, tienen como función promover en cada municipio los ob
 
 Para el cumplimiento de sus fines, el Sistema Municipal, se avocará a lo siguiente:
 
-l. Conformar una cultura de protección civil y el manejo integral de riesgos, que convoque y sume el interés de la población, así como su participación individual y colectiva.
+I. Conformar una cultura de protección civil y el manejo integral de riesgos, que convoque y sume el interés de la población, así como su participación individual y colectiva.
 
 II. Fortalecer y ampliar los medios de participación de la comunidad, para mejorar la protección civil.
 
@@ -1420,6 +1422,10 @@ VII. Procurar el funcionamiento de los servicios públicos, los sistemas estrat�
 VIII. Proponer a las Unidades Internas, los programas adecuados en materia de protección civil, con el objetivo de una actualización periódica.
 
 IX. Registrar y analizar la información de los daños ocasionados por desastres, proporcionado por cada una de las localidades o comunidades que integran el Municipio.
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2017)</small>
+
+X. Elaborar el Atlas Municipal de Riesgos de su municipio, mismo que deberá de registrar ante el Sistema Estatal. Para ello el Sistema Municipal podrá auxiliarse de las autoridades estatales y federales en la materia.
 
 ###### Artículo 136.
 
@@ -1447,7 +1453,7 @@ Los reglamentos que establezcan la organización y regulen la operación de los 
 
 El Consejo Municipal es el órgano encargado de planear, coordinar, analizar, organizar y formular programas de protección civil y el manejo integral de riesgos y de participación social en el Municipio, se integra por:
 
-l. El Presidente Municipal, quien a su vez fungirá como Presidente del Consejo Municipal.
+I. El Presidente Municipal, quien a su vez fungirá como Presidente del Consejo Municipal.
 
 II. El Responsable de la Unidad Municipal, quien fungirá como Secretario Ejecutivo.
 
@@ -1507,7 +1513,7 @@ Los Ayuntamientos declarados en desastres deberán instalar su Consejo Municipal
 
 El registro de los daños, deberá contener la siguiente información:
 
-l. Describir los daños y especificaciones de identificación, en su caso geoposición geográfica que permita su localización.
+I. Describir los daños y especificaciones de identificación, en su caso geoposición geográfica que permita su localización.
 
 II. Fotografías de las afectaciones.
 
@@ -1531,7 +1537,7 @@ En el caso que se determine que hay inconsistencias, se solicitará de manera of
 
 Son organismos auxiliares y de participación social:
 
-l. Las asociaciones de vecinos constituidas conforme las disposiciones de la Ley Orgánica Municipal del Estado de Chiapas y demás disposiciones aplicables en la materia.
+I. Las asociaciones de vecinos constituidas conforme las disposiciones de la Ley Orgánica Municipal del Estado de Chiapas y demás disposiciones aplicables en la materia.
 
 II. Los grupos voluntarios que presten sus servicios en actividades de protección civil de manera solidaria y sin remuneración económica alguna.
 
@@ -1541,7 +1547,7 @@ III. Las Unidades Internas de las Dependencias y organismos del sector público,
 
 Las asociaciones de vecinos, para los efectos de esta Ley, tendrán las siguientes atribuciones:
 
-l. Solicitar información y difundir los programas de protección civil, en particular, los relacionados con los riesgos que se presenten en su barrio, colonia o centro de población y los relativos a los centros escolares y otros lugares públicos de reunión de la comunidad.
+I. Solicitar información y difundir los programas de protección civil, en particular, los relacionados con los riesgos que se presenten en su barrio, colonia o centro de población y los relativos a los centros escolares y otros lugares públicos de reunión de la comunidad.
 
 II. Promover ante las autoridades competentes, se autorice el programa específico de protección civil correspondiente a su zona, colonia, barrio o unidad habitacional.
 
@@ -1579,7 +1585,7 @@ Los Grupos Voluntarios ya constituidos o que se integren, tienen que registrarse
 
 Los Grupos Voluntarios deberán organizarse con base en los aspectos siguientes:
 
-l. Territorial: formados por los habitantes de una colonia, barrio, zona, centro de población, municipio, región o del Estado en su conjunto.
+I. Territorial: formados por los habitantes de una colonia, barrio, zona, centro de población, municipio, región o del Estado en su conjunto.
 
 II. Profesional o de oficio: constituidos de acuerdo a la profesión que tengan o al trabajo que desempeñen.
 
@@ -1589,7 +1595,7 @@ III. Actividad específica: atendiendo a la función de auxilio que desempeñen,
 
 Los Grupos Voluntarios les corresponden:
 
-l. Coordinarse con la Secretaría o la Unidad Municipal correspondiente, para colaborar en las tareas de identificación, mitigación, prevención, auxilio y rescate a la población en caso de siniestro o desastre.
+I. Coordinarse con la Secretaría o la Unidad Municipal correspondiente, para colaborar en las tareas de identificación, mitigación, prevención, auxilio y rescate a la población en caso de siniestro o desastre.
 
 II. Realizar actividades de monitoreo, pronóstico y aviso a la Secretaría y/o Unidad Municipal, de la presencia de cualquier situación de riesgo o peligro para la población, así como la ocurrencia de cualquier calamidad.
 
@@ -1666,3 +1672,15 @@ Artículo Segundo.- Se derogan todas las disposiciones legales que contravengan 
 Artículo Tercero.- Los Ayuntamientos deberán en un término no mayor a 30 días naturales, contados a partir de la entrada en vigor del presente ordenamiento, adecuar su normatividad correspondiente para el debido cumplimiento de las disposiciones del presente Decreto.
 
 Artículo Cuarto.- Las dependencias que en el ámbito de sus atribuciones les competa llevar a cabo las disposiciones del presente ordenamiento, coadyuvaran en las acciones que resulten necesarias para el debido cumplimento del presente Decreto.
+
+P.O. 14 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 186 POR EL QUE SE ADICIONA UNA FRACCIÓN AL ARTÍCULO 135 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIAPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan abrogadas todas aquellas disposiciones legales que se opongan a lo dispuesto por el presente Decreto.
