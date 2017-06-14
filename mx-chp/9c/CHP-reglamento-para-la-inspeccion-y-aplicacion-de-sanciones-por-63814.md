@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-para-la-inspeccion-y-aplicacion-de-sanciones-por-638
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-11"
-last_updated: "2008-06-11"
+last_updated: "2017-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO PARA LA INSPECCION Y APLICACION DE SANCIONES POR VIOLACIONES A LA LEGISLACION LABORAL, EN EL ESTADO DE CHIAPAS
 
-REGLAMENTO PARA LA INSPECCION Y APLICACION DE SANCIONES POR VIOLACIONES A LA LEGISLACION LABORAL, EN EL ESTADO DE CHIAPAS
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE INSPECCIÓN DEL TRABAJO Y APLICACIÓN DE SANCIONES PARA EL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO PARA LA INSPECCIÓN Y APLICACIÓN DE SANCIONES POR VIOLACIONES A LA LEGISLACIÓN LABORAL, EN EL ESTADO DE CHIAPAS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 11 de junio de 2008.
 
@@ -504,3 +506,19 @@ El Ejecutivo dispondrá se publique, circule y se le dé el debido cumplimiento.
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los nueve días del mes de junio del año dos mil ocho.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Esther Almazán Torres, Secretaria del Trabajo.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. NO. 1931-A-2017 REGLAMENTO DE INSPECCIÓN DEL TRABAJO Y APLICACIÓN DE SANCIONES PARA EL ESTADO DE CHIAPAS”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Al momento de la entrada en vigor del presente ordenamiento, se abroga el Reglamento para la Inspección y Aplicación de Sanciones por Violaciones a la Legislación Laboral, en el Estado de Chiapas, publicado en el número 98 3ª. Sección del Periódico Oficial del Estado, el 11 de junio de 2008.
+
+TERCERO. Los procedimientos de Inspección y de aplicación de sanciones que se encuentren en trámite a la fecha de entrada en vigor del presente Reglamento, serán resueltos conforme a las disposiciones vigentes al momento de su inicio.
+
+CUARTO. Se deroga todas aquellas disposiciones que se opongan al presente reglamento, así mismo continuaran en uso las disposiciones administrativas vigentes, que no se opongan al mismo.
+
+QUINTO. En cumplimiento a lo dispuesto por el artículo 8, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento en el Periódico Oficial del Estado.
