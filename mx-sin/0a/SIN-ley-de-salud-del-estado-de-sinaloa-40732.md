@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2017-04-21"
+last_updated: "2017-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DE SALUD DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -78,6 +80,10 @@ A). Materia de salubridad general:
 I. La atención médica, preferentemente a los adultos mayores, las personas con discapacidad, las de escasos recursos, y en general aquellos que se encuentren en situación de dificultad o incapacidad para satisfacer sus necesidades básicas;
 
 II. La atención materno infantil;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2017)</small>
+
+II Bis. El programa de nutrición materno-infantil, en los pueblos y comunidades indígenas del Estado, el cual debe diseñarse, planearse y administrarse en coordinación y consulta con los pueblos y comunidades indígenas, para tomar en cuenta sus especificidades culturales.
 
 III. La prestación de servicios de planificación familiar;
 
@@ -329,9 +335,17 @@ III. Contribuir al bienestar social de la población mediante la prestación de 
 
 IV. Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
 
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2017)</small>
+
+IV Bis. Impulsar el bienestar y el desarrollo de las familias pertenecientes a los pueblos y comunidades indígenas que propicien el desarrollo de sus potencialidades político sociales y culturales; con su participación y tomando en cuenta sus valores, sus usos y costumbres y organización social.
+
 V. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente, que propicien el desarrollo satisfactorio de la vida;
 
 VI. Impulsar, en el ámbito estatal, un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2017)</small>
+
+VI Bis. Promover el conocimiento y desarrollo de la medicina tradicional indígena y su práctica en condiciones adecuadas, así como la formación y capacitación de los recursos humanos requeridos;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2014)</small>
 
@@ -393,15 +407,19 @@ XVII. Impulsar la permanente actualización de las disposiciones legales en mate
 
 XVIII. Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2017)</small>
+
 ###### Artículo 19.
 
-Los Servicios de Salud de Sinaloa, promoverá la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
+Los Servicios de Salud de Sinaloa promoverán la participación en el Sistema Estatal de Salud, de los prestadores de servicio (sic) de salud de los sectores públicos, social y privado, de sus trabajadores y de los usuarios de los mismos, así como de las autoridades o representantes de los pueblos y comunidades indígenas, en los términos de las disposiciones que al efecto se expidan.
 
 Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2017)</small>
+
 ###### Artículo 20.
 
-La concertación de acciones entre los Servicios de Salud de Sinaloa, y los integrantes de los sectores social y privado se realizará, mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+La concertación de acciones entre los servicios de salud de Sinaloa, las autoridades o representantes de los pueblos y comunidades indígenas, y los integrantes de los sectores social y privado se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
 
 I. Se establecerán las responsabilidades que asumirán los integrantes de los sectores social y privado;
 
@@ -469,7 +487,9 @@ IX. La promoción del mejoramiento de la nutrición, la prevención y atención 
 
 X. La promoción de un estilo de vida saludable;
 
-XI. La asistencia social a los grupos vulnerables; y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2017)</small>
+
+XI. La asistencia social a los grupos más vulnerables y de estos, de manera especial a los pertenecientes a las comunidades indígenas; y
 
 XII. Las demás que establezcan esta ley y otras disposiciones legales aplicables.
 
@@ -533,7 +553,9 @@ Así como, llevar a cabo la detección y seguimiento de peso, talla e índice de
 
 El Gobierno del Estado, por conducto de la Secretaría de Salud, en coordinación con las autoridades competentes, promoverá programas de educación para la salud, que puedan ser difundidos por los medios masivos de comunicación social en el Estado.
 
-Tratándose de las comunidades indígenas, los programas a los que se refiere el párrafo anterior deberán difundirse en la lengua indígena que corresponda.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2017)</small>
+
+Tratándose de comunidades indígenas, los programas a los que se refiere el párrafo anterior deberán difundirse en español y la lengua o lenguas indígenas que correspondan.
 
 ### CAPÍTULO IV. DE LA NUTRICIÓN
 
@@ -995,6 +1017,10 @@ La prestación de servicios de salud a los escolares se efectuará de conformida
 
 Los servicios de planificación familiar tienen carácter prioritario, aquellos que en los términos del párrafo segundo del artículo 4, de la Constitución Política de los Estados Unidos Mexicanos y de la legislación aplicable en materia de población se presten, constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada, sobre el número y espaciamiento de sus hijos, con pleno respeto a su dignidad.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2017)</small>
+
+En materia de planificación familiar, las acciones de información y orientación educativa en las comunidades indígenas, deberán llevarse a cabo, en español y en la lengua o lenguas indígenas en uso en la región o comunidad de que se trate.
+
 ###### Artículo 84.
 
 Los servicios de planificación familiar comprenden:
@@ -1433,6 +1459,10 @@ La prestación de los servicios de atención médica, deberá respetar en todo m
 
 Los usuarios tienen derecho a obtener servicios de salud con oportunidad y a recibir atención profesional y éticamente responsable, así como un trato respetuoso y digno de los profesionales, técnicos y auxiliares.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2017)</small>
+
+Cuando se trate de la atención a los usuarios originarios de pueblos y comunidades indígenas, estos tendrán derecho a obtener información necesaria en su lengua.
+
 ###### Artículo 129.
 
 Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud, y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
@@ -1450,6 +1480,10 @@ I. Sistemas de orientación y asesoría a los usuarios sobre el uso de los servi
 II. Procedimientos para la presentación de quejas, reclamaciones o sugerencias respecto de la prestación de servicios de atención médica por parte de los servidores públicos; y
 
 III. Mecanismos alternativos de solución de controversias, mediante el arbitraje y la conciliación, que se sujetarán a lo dispuesto en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2017)</small>
+
+En el caso de los pueblos y comunidades indígenas las autoridades sanitarias brindarán la asesoría, y en su caso, la orientación en español y en la lengua o lenguas en uso en la región o comunidad.
 
 ###### Artículo 132.
 
@@ -1781,6 +1815,10 @@ Las autoridades sanitarias estatales recomendarán normas y criterios, para la f
 
 Las autoridades sanitarias del Estado, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las instituciones de salud, establecerán las normas y criterios para la capacitación y actualización de los recursos humanos para la salud.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2017)</small>
+
+De la misma manera reconocerá, respetará y promoverá el desarrollo de la medicina tradicional indígena. Los programas de prestación de la salud, de la atención primaria que se desarrollan en comunidades indígenas, deberán adaptarse a su estructura social y administrativa, así como su concepción de la salud y de la relación del paciente con el médico, respetando siempre sus derechos humanos.
+
 ###### Artículo 169.
 
 Corresponde al Gobernador, por conducto de la Secretaría de Salud, sin perjuicio de las atribuciones de las autoridades educativas en la materia, y en coordinación con éstas:
@@ -1877,9 +1915,11 @@ II. Factores demográficos, económicos, sociales y ambientales vinculados a la 
 
 III. Recursos físicos, humanos y financieros disponibles para la protección de la salud, de la población, y su utilización.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2017)</small>
+
 ###### Artículo 180.
 
-El Gobierno del Estado, los municipios, cuando proceda, y las personas físicas y morales de los sectores social y privado que generen y manejen la información a que se refiere el artículo anterior, deberán suministrarla a la Secretaría de Salud con la periodicidad y en los términos que ésta señale, para la elaboración de las estadísticas nacionales de salud.
+El Gobierno del Estado, los municipios y las autoridades de las comunidades indígenas cuando proceda, así como las personas físicas y morales de los sectores social y privado que generen y manejen la información a que se refiere el artículo anterior, deberán suministrarla a la Secretaría de Salud con la periodicidad y en los términos que ésta señale, para la elaboración de las estadísticas nacionales de salud.
 
 ###### Artículo 181.
 
@@ -2533,6 +2573,10 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 Corresponde a las autoridades sanitarias del Estado y a las Municipales, en los términos del artículo 5 de esta Ley, la vigilancia y el cumplimiento de la Ley General de Salud y de las demás disposiciones que de ella se deriven.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2017)</small>
+
+La participación de las autoridades municipales y de las autoridades de los pueblos y comunidades indígenas estará determinada por los convenios que celebren con el Gobierno Estatal y por lo que dispongan las Leyes y reglamentos aplicables.
+
 ###### Artículo 283.
 
 Las demás dependencias y entidades públicas coadyuvarán a la vigilancia del cumplimiento de las normas sanitarias, y cuando encontraren irregularidades que a su juicio constituyan violaciones a las mismas, lo harán del conocimiento de las autoridades sanitarias competentes.
@@ -2592,6 +2636,10 @@ La negativa a firmar el acta o a recibir copia de la misma o de la orden de visi
 Se consideran medidas de seguridad, aquellas disposiciones de inmediata ejecución que dicte la Secretaría de Salud y las autoridades municipales, de conformidad con los preceptos de esta ley y demás disposiciones y convenios aplicables, para proteger y preservar la salud de la población. Las medidas de seguridad se aplicarán, sin perjuicio de las sanciones que, en su caso, correspondieren.
 
 Son competentes para ordenar y ejecutar medidas de seguridad las autoridades sanitarias del Estado, en el ámbito de sus respectivas competencias.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2017)</small>
+
+La participación de los municipios y de las autoridades de los pueblos y comunidades indígenas estará determinada por los convenios que celebren con el Gobierno Estatal y por lo que dispongan las Leyes y reglamentos aplicables.
 
 ###### Artículo 292.
 
@@ -3086,3 +3134,15 @@ P.O. 21 DE ABRIL DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 14 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 150 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE SALUD DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “EI Estado de Sinaloa”.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo realizará las adecuaciones reglamentarias necesarias dentro de los 90 días contados a partir de la entrada en vigor del presente Decreto.
