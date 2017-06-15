@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-71438"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-24"
-last_updated: "2017-05-21"
+last_updated: "2017-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "DUR"
 ---
 # LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 15 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
 Con fechas 07 de noviembre de 2001, por los integrantes del Grupo Parlamentario del Partido Acción Nacional, que contiene Ley Orgánica del Poder Legislativo del Estado de Durango. (Se refiere a una reforma integral de la Ley); 16 de abril de 2002, por los integrantes de la Fracción Parlamentaria del Partido Revolucionario Institucional, que contiene Ley Orgánica del Congreso del Estado de Durango; 08 de abril de 2003, presentada por los entonces Diputados José María Alcántar Chávez y Octaviano Rendón Arce, integrantes del Grupo Parlamentario del Partido Revolucionario Institucional, que contiene Reglamento para el Gobierno Interior del Congreso del Estado de Durango; 16 de octubre de 2007, presentada por el C. Diputado Servando Marrufo Fernández, Representante del Partido Duranguense, que contiene reformas a la LEY ORGÁNICA DEL CONGRESO DEL ESTADO, RELACIONADA CON LOS ÓRGANOS DE GOBIERNO Y ADMINISTRACIÓN; 12 de noviembre de 2007, presentada por los CC. Esteban Alejandro Villegas Villarreal y Manuel Herrera Ruiz, representantes del Partido Revolucionario Institucional, que contiene reformas a las fracciones XXIII y XXIV y adición de la fracción XXV del artículo 76; y se adiciona el artículo 101 Bis de la LEY ORGÁNICA DEL CONGRESO DEL ESTADO; 10 de diciembre de 2007, presentada por los CC. Diputados integrantes del Grupo Parlamentario del P.R.I., que contiene reforma a las fracciones XXIII y XXIV; se adiciona la fracción XXV del artículo 76, y se adicionan los artículos 101 Bis de la Ley Orgánica del Congreso del Estado; 02 de septiembre de 2008, presentada por los CC. Diputados Jorge Herrera Delgado, Adán Soria Ramírez y Fernando Ulises Adame de León, integrantes del Grupo Parlamentario del Partido Revolucionario Institucional de la LXIV Legislatura del Estado, por la cual solicitan se reforme el artículo 126 de la Ley Orgánica del Congreso del Estado de Durango; mismas que fueron turnadas a la Comisión de Régimen, Reglamento y Prácticas Parlamentarias, integrada por los CC. Diputados: Francisco Gamboa Herrera, José Arreola Contreras, Manuel Herrera Ruiz, José Luis López Ibáñez e Hipólito Pasillas Ortiz, Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-C O N S I D E R A N D O S.
+C O N S I D E R A N D O S
+
+[...]
 
 Con base en los anteriores Considerandos esta H. LXIV Legislatura del Estado, expide el siguiente:
 
@@ -3855,7 +3859,7 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido 
 
 P.O. 5 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 58.- POR EL CUAL SE REFORMAN, MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 58.- POR EL CUAL SE REFORMAN, MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO".]
 
 PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
@@ -3872,3 +3876,41 @@ P.O. 21 DE MAYO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+P.O. 15 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 174.- POR EL QUE SE REFORMA LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción a las disposiciones relativas a la competencia, organización y funcionamiento de la Comisión Permanente, en las que se observará lo dispuesto en el decreto número 51, publicado en el Periódico Oficial del Gobierno del Estado número 58 de fecha 5 de febrero de 2017.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan a las contenidas en el presente decreto.
+
+TERCERO.- Se abroga la Ley Orgánica del Congreso del Estado, aprobada mediante Decreto número 449 de fecha 15 de diciembre de 2009, publicada en el Periódico Oficial del Estado número 51 de fecha 24 de diciembre de 2009 y sus reformas posteriores, con las salvedades y excepciones contenidas en las presentes disposiciones transitorias.
+
+CUARTO.- La legislación particular en materia de enjuiciamiento político, procedencia y responsabilidad administrativa así como la relativa a los procedimientos a seguir en el caso de otorgamiento de premios, reconocimientos y distinciones, será expedida por el Congreso del Estado.
+
+Los procedimientos que se encuentren en trámite relativos a denuncias y solicitudes de juicio político, declaración de procedencia y responsabilidad administrativa, serán tramitados conforme a la Ley Orgánica que se abroga hasta su total conclusión.
+
+QUINTO.- Las formas de organización constituidas en la Sexagésima Séptima Legislatura, se entenderán constituidas conforme a la declaratoria correspondiente y las representaciones partidistas reconocidas en forma reiterada, sistemática y generalizada en la Legislatura referida, asumirán los derechos que conforme a esta ley se reconocen.
+
+SEXTO.- Para los efectos de integrar el Libro de Prácticas Parlamentarias, la Comisión de Régimen, Reglamento y Prácticas Parlamentarias, mandará recabar los acuerdos parlamentarios aprobados por el Pleno en la Sexagésima Séptima Legislatura, a efecto de su registro legal, quedando el mismo bajo la custodia de la Secretaría General.
+
+SÉPTIMO.- La Junta de Gobierno y Coordinación Política a la que se refiere la presente ley, se entenderá constituida conforme a la declaración emitida el día 1 de septiembre de 2016, misma que tiene por integrada la Gran Comisión del Congreso de la Sexagésima Séptima Legislatura. A la Junta de Gobierno y Coordinación Política se integraran las representaciones partidistas a las que alude la disposición transitoria quinta del presente decreto.
+
+OCTAVO.- El ciudadano Oficial Mayor en funciones asumirá el carácter de Secretario General del Congreso del Estado, con todas (sic) los derechos, obligaciones y competencias que a dicho cargo concede la presente Ley.
+
+NÓVENO.- El titular del Instituto de Investigaciones, Estudios Legislativos y Asesoría Jurídica en funciones, asumirá el carácter de Director del Centro de Investigaciones y Estudios Legislativos del Congreso del Estado, con las atribuciones, obligaciones y competencias establecidas en la presente Ley.
+
+DÉCIMO.- El Director de Proceso Legislativo en funciones, asumirá el carácter de Secretario de Servicios Parlamentarios del Congreso del Estado
+
+DÉCIMO PRIMERO.- Los procedimientos de elección de servidores públicos a cargo en trámite, iniciados conforme a la ley que se abroga, continuarán conforme a los acuerdos y convocatoria al efecto expedida, al amparo de la ley orgánica que se abroga. Del mismo modo se procederá en materia de procedimientos relativos a la dictaminación de iniciativas de otorgamiento de premios, reconocimientos y distinciones.
+
+DÉCIMO SEGUNDO.- Las disposiciones relativas a la declaratoria de publicidad de dictámenes y acuerdos, conforme se actualice el Servicio de Información Parlamentaria, se aplicarán en el primer periodo ordinario de sesiones correspondiente al segundo año de ejercicio constitucional.
+
+DÉCIMO TERCERO.- La Junta de Gobierno y Coordinación Política deberá designar al Secretario de Servicios Jurídicos y dicha designación se comunicará de inmediato a los órganos jurisdiccionales y administrativos federales y locales, para los efectos legales correspondientes, una vez publicada la presente Ley en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+DÉCIMO CUARTO.- Las iniciativas o asuntos relativos a las materias de procuración de justicia, amnistía e indulto, serán returnados a la Comisión que corresponda de conformidad con la presente Ley.
+
+DÉCIMO QUINTO.- El Congreso del Estado expedirá el Estatuto del Servicio Civil de Carrera del Congreso del Estado.
+
+DÉCIMO SEXTO.- El Congreso del Estado aprobará el Reglamento de Ética y Disciplina Parlamentaria.
