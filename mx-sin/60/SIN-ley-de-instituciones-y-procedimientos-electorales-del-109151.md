@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-instituciones-y-procedimientos-electorales-del-109151"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-15"
-last_updated: "2017-06-07"
+last_updated: "2017-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 15 de julio de 2015.
 
@@ -147,11 +149,21 @@ En ningún caso se admitirán criterios que tengan como resultado que a alguno d
 
 Son requisitos para quien aspire a una Diputación los siguientes:
 
-I. Ser sinaloense por nacimiento o ciudadano sinaloense por vecindad con residencia efectiva en el Estado, en este último caso, no menor de cinco años inmediatamente anteriores al día de la elección y en ambos casos estar en pleno ejercicio de sus derechos cívicos;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-II. Ser nativo del distrito electoral que lo elija en el caso de mayoría relativa, o de la entidad cuando se trate de la elección por el principio de representación proporcional o cumpliendo con los requisitos constitucionales de vecindad y residencia, en ambos casos;
+I. Ser sinaloense por nacimiento o por vecindad, en términos del artículo 8° de la Constitución Estatal, y en ambos casos estar en pleno ejercicio de sus derechos cívicos.
 
-III. Ser mayor de veintiún años en la fecha de la elección;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+II. Para contender por el sistema de mayoría relativa, es necesario contar con una residencia efectiva en el distrito electoral por el que se postule, de más de seis meses anterior a la fecha de la celebración de la jornada electoral.
+
+Cuando un municipio sea cabecera de dos o más distritos electorales, para ser elegible en cualquiera de ellos, la residencia a que se refiere el párrafo anterior bastará con que se tenga en el municipio de que se trate.
+
+Para poder figurar como candidatos en la lista de circunscripción electoral plurinominal, se requerirá ser sinaloense por nacimiento, o por vecindad con una residencia efectiva en el Estado de más de dos años anterior a la fecha de la celebración de la jornada electoral.
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+III. Ser mayor de 21 años en la fecha de la elección.
 
 IV. Haberse separado cuando menos noventa días antes de la elección de los cargos de Gobernador, Secretarios, Subsecretarios y Titulares de cualesquiera de las entidades de la Administración Pública Estatal o Paraestatal, Magistrados del Supremo Tribunal de Justicia, Procurador General de Justicia, Jueces de Primera Instancia, Recaudadores de Rentas y Presidentes Municipales en los Distritos Electorales en donde ejerzan sus funciones, Diputados o Senadores del Congreso de la Unión, las personas que tengan o hayan tenido mando de fuerzas de la Federación, Estado o Municipios;
 
@@ -165,7 +177,25 @@ VIII. No ser Consejero Presidente o Consejero Electoral en el Consejo General de
 
 IX. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate.
 
-Las y los Diputados locales que se encuentren en ejercicio y pretendan su elección consecutiva deberán separarse de sus cargos con la anticipación prevista en la fracción IV del primer párrafo de este artículo, con independencia de lo que al efecto señalen los estatutos, reglamentos, convocatorias o convenios del partido político o coalición que los postule con motivo del desarrollo de sus procesos internos de selección de candidaturas.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
+
+Las y los Diputados en funciones podrán ser nuevamente electos hasta completar un máximo de cuatro periodos consecutivos de ejercicio. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición o candidatura común que los hubiese postulado originalmente, salvo que el interesado haya renunciado o perdido su militancia antes de la mitad de su mandato.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2017)</small>
+
+Las y los Diputados locales que se encuentren en ejercicio y pretendan su elección consecutiva, deberán separarse de sus cargos con la anticipación prevista en la fracción IV del primer párrafo de este artículo, con independencia de lo que al efecto señalen los estatutos, reglamentos, convocatorias o convenios del partido político, coalición o candidatura común que los postule con motivo del desarrollo de sus procesos internos de selección de candidaturas.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2017)</small>
+
+La elección consecutiva de las y los Diputados locales señalado (sic) en el tercer párrafo del presente artículo, se hará respecto de la conformación del órgano legislativo, sin distinción de principios.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2017)</small>
+
+Para la elección consecutiva de las y los Diputados locales, deberá respetarse en todo momento el principio de paridad de género, de conformidad con lo que para tal efecto establecen la Constitución, la Constitución Estatal, la presente ley y demás leyes en la materia, así como por las autoridades electorales.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2017)</small>
+
+En lo que respecta a elección consecutiva de Diputados o Diputadas que hubieren sido electos por candidatura independiente, sólo podrán postularse con la misma calidad con la que fueron electos, sujetándose a los requisitos que para tal efecto se prevé en la Constitución, la Constitución Estatal, la presente Ley y demás leyes en la materia, así como por las autoridades electorales.
 
 ###### Artículo 11.
 
@@ -207,7 +237,25 @@ XI. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separ
 
 Los municipios serán gobernados por un Ayuntamiento de elección popular directa, conformado por un Presidente Municipal, un Síndico Procurador y Regidores por el sistema de mayoría relativa y el principio de representación proporcional.
 
-Serán electos por un periodo de tres años y podrán ser electos consecutivamente para los mismos cargos hasta por un periodo adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
+
+Serán electos por un periodo de tres años y podrán ser electos consecutivamente para los mismos cargos hasta por un periodo adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición o candidatura común que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2017)</small>
+
+Los funcionarios señalados en el primer párrafo de este artículo que se encuentren en ejercicio y pretendan su elección consecutiva, deberán separarse de sus cargos con la anticipación prevista en la fracción IV del primer párrafo del artículo 10 de esta ley, con independencia de lo que al efecto señalen los estatutos, reglamentos, convocatorias, convenios del partido político, coalición o candidatura común que los postule con motivo del desarrollo de sus procesos internos de selección de candidaturas.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2017)</small>
+
+La elección consecutiva de los servidores públicos señalados en el primer párrafo de este artículo, se podrá hacer para el mismo cargo de Presidente Municipal, Regidores, Síndico Procurador por un periodo adicional, sin distinción de principio. La postulación a cargos diversos dentro del Ayuntamiento no se entenderá como elección consecutiva.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2017)</small>
+
+Para la elección consecutiva, deberá respetarse en todo momento el principio de paridad de género, de conformidad con lo que para tal efecto establecen la Constitución, la Constitución Estatal, la presente Ley y demás leyes en la materia, así como por las autoridades electorales.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2017)</small>
+
+En lo que respecta a elección consecutiva de funcionarios que hubieren sido electos por candidatura independiente, sólo podrán postularse con la misma calidad con la que fueron electos, sujetándose a los requisitos que para tal efecto se prevé en la Constitución, la Constitución Estatal, la presente Ley y demás leyes en la materia, así como por las autoridades electorales.
 
 La elección de Regidurías por el sistema de mayoría relativa se hará por planilla, dentro de la cual se integrará al Síndico Procurador, y que encabezará la candidatura a Presidente Municipal. Las planillas deberán integrarse con un cincuenta por ciento de fórmulas de candidaturas a Regidores de un género y cincuenta por ciento de fórmulas del otro género, mismas que se incluirán alternadamente, de tal manera que a una fórmula de un género siga siempre una fórmula de género distinto.
 
@@ -255,7 +303,9 @@ VIII. No ser Consejero Presidente o Consejero Electoral en el Consejo General de
 
 IX. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate.
 
-Las y los Regidores y Síndicos Procuradores que se encuentren en ejercicio y pretendan su elección consecutiva deberán separarse de sus cargos con la anticipación prevista en la fracción IV del párrafo anterior, con independencia de lo que al efecto señalen los estatutos, reglamentos, convocatorias o convenios del partido político o coalición que los postule con motivo del desarrollo de sus procesos internos de selección de candidatos.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
+
+Las y los Regidores y Síndicos Procuradores que se encuentren en ejercicio y pretendan su elección consecutiva deberán observar lo que para tal efecto dispone el artículo 14 de esta ley; similar situación deberá observarse para los Regidores por el principio de representación proporcional.
 
 ###### Artículo 17.
 
@@ -265,7 +315,9 @@ I. Tener veinticinco años cumplidos, cuando menos, en la fecha de la elección;
 
 II. Ser originario de la municipalidad que lo elija o vecino de ella cuando menos tres años anteriores a la elección siempre que sea ciudadano sinaloense por nacimiento o por vecindad, con residencia efectiva en el Estado en este último caso, no menor de cinco años inmediatamente anteriores al día de la elección.
 
-Las y los Presidentes Municipales que se encuentren en ejercicio y pretendan su elección consecutiva deberán separarse de sus cargos con la anticipación prevista en la fracción IV del primer párrafo del artículo anterior, con independencia de lo que al efecto señalen los estatutos, reglamentos, convocatorias o convenios del partido político o coalición que los postule con motivo del desarrollo de sus procesos internos de selección de candidatos.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
+
+Las y los Presidentes Municipales que se encuentren en ejercicio, y pretendan su elección consecutiva, deberán observar lo que para tal efecto dispone el artículo 14 de esta Ley;
 
 ### Capítulo III. De las Elecciones
 
@@ -292,6 +344,10 @@ Esta convocatoria no podrá restringir los derechos que esta ley reconoce a los 
 ###### Artículo 20.
 
 Los plazos señalados para las elecciones ordinarias se podrán ampliar cuando a juicio del Consejo General haya imposibilidad material de realizar dentro de ellos los actos para los cuales están establecidos.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2017)</small>
+
+De igual forma, el Consejo General, cuando así lo considere necesario, podrá aprobar los ajustes necesarios a los plazos establecidos en esta Ley, dichos ajustes deberán realizarse antes de la segunda quincena del mes de diciembre del año previo al de la jornada electoral.
 
 Durante el proceso electoral, todos los días y horas son hábiles.
 
@@ -4169,13 +4225,13 @@ El Secretario General de Gobierno
 
 C. Gerardo O. Vargas Landeros.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 18 DE DICIEMBRE DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 28 DE DICIEMBRE DE 2016.
 
@@ -4214,3 +4270,15 @@ P.O. 7 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 147 POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 270 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA".]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 15 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 155 POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 10, 14, 16 Y 17 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 15 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 156 QUE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 20, RECORRIENDO EL SUBSECUENTE, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
