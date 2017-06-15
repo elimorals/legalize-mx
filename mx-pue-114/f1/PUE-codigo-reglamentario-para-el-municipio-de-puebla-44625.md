@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2017-06-02"
+last_updated: "2017-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,11 @@ state: "PUE"
 ---
 # CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-[NOTA 1. EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 17 DE MARZO DE 2017, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE DESARROLLO URBANO Y MEDIO AMBIENTE, PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]
-
-[NOTA 2. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS ACUERDO DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS ACUERDO DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2017
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -2507,17 +2505,15 @@ n) Comercialicen, difundan o exhiban en lugares públicos en cualquier forma mat
 
 ñ) Coloquen cables u otros objetos en la vía pública, que pongan en riesgo la integridad física de las personas que circulan por la misma, sin la autorización de la autoridad competente, o excediendo aquélla con la que contaren;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-o) Se les sorprenda en posesión o custodia ilegal de cualquier especie de animal feroz, peligroso, para seguridad, guardia o protección, que pueda atentar contra la vida de las personas; o dejen que deambule sólo en la vía pública;
+o) (DEROGADO, P.O. 15 DE JUNIO DE 2017)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 p) Transporten animales feroces y de espectáculos sin jaulas o camiones que garanticen la seguridad e integridad de la ciudadanía; y
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
-q) Inciten a los animales para que se acometan entre ellos o hacer peleas provocadas en un espectáculo público o privado; quedando exceptuadas de esta sanción las corridas de toros, novillos y becerros, así como las peleas de gallos.
+q) Inciten a los animales para que se acometan entre ellos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -3833,7 +3829,7 @@ XXXVII. SEMOVI: Secretaría de Movilidad del Honorable Ayuntamiento del Municipi
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
-XXXVIII. Señalética: Signo o demarcación colocado por la autoridad competente con el objeto de regular, advertir o encauzar la movilidad;
+XXXVIII. Señalética: Signo o demarcación colocado por la autoridad competente con el objeto de regular, advertir o encauzar la movibilidad;
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
@@ -19507,7 +19503,7 @@ XII. Anuncios en vallas publicitarias.
 
 Previo a la realización de los trámites para la obtención de la Licencia, el interesado deberá solicitar por escrito a la Agencia el Dictamen de Factibilidad, debiendo presentar:
 
-I. Cuando se actúe a través de un representante legal, el documento que acredite su personalidad;
+I. Cuando se actué a través de un representante legal, el documento que acredite su personalidad;
 
 II. Representación gráfica que describa la forma, dimensiones, así como las especificaciones técnicas y los materiales de que estará constituido, incluyendo los datos de altura sobre el nivel de la banqueta y para el caso de anuncio en saliente volado o colgante, la saliente máxima desde el alineamiento del predio y desde el paramento de la construcción en la que quedará instalado el anuncio;
 
@@ -27557,9 +27553,9 @@ II. Formular criterios de sustentabilidad para proteger la vida, la reproducció
 
 III. Establecer las atribuciones que corresponden a las autoridades del Municipio de Puebla en las materias derivadas del presente Capítulo;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-IV. Regular el trato digno y respetuoso a los animales, conforme a las leyes, Normas Oficiales Mexicanas, reglamentos y demás disposiciones jurídicas aplicables que permitan actuar en contra de las personas que los traspasen y con ello dañen el bienestar o abusen activa o pasivamente de la condición de vulnerabilidad e indefensión, de cualquier animal no nocivo con el que se relacionen directamente;
+IV. Regular el trato digno y respetuoso a los animales, conforme a las leyes, Normas Oficiales Mexicanas, Reglamentos y demás disposiciones jurídicas aplicables que permitan sancionar a las personas que dañen el bienestar o abusen activa o pasivamente al vender, intercambiar o comercializar a cualquier animal no nocivo con el que se relacionen directamente;
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
@@ -27591,91 +27587,109 @@ Son objeto de tutela y protección del presente Capítulo, en el ámbito de comp
 
 Para los efectos del presente Capítulo, además de los conceptos definidos en la Legislación vigente y las Normas Oficiales Mexicanas, se entenderá por:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+I. Animal abandonado: los animales que deambulen libremente por la vía pública sin placa de identidad u otra forma de identificación, así como aquellos que queden sin el cuidado o protección de sus propietarios o poseedores dentro de los bienes del dominio privado;
 
-I. Secretaría: Secretaría de Infraestructura y Servicios Públicos del Honorable Ayuntamiento del Municipio de Puebla;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+II. Animal de compañía: animales domésticos que son mantenidos bajo el cuidado del ser humano y que habitan con este de forma cotidiana utilizados para su convivencia;
 
-II. Animal abandonado: Los animales que deambulen libremente por la vía pública sin placa de identidad u otra forma de identificación, así como aquéllos que queden sin el cuidado o protección de sus propietarios o poseedores dentro de los bienes del dominio privado;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+III. Animal de granja: especies animales cuya crianza o tenencia sea con la finalidad de producir alimentos para consumo del ser humano o de otros animales;
 
-III. Animal deportivo: Los animales complementarios o que participen como elemento necesario en la práctica de algún deporte;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+IV. Animal deportivo: los animales adiestrados para actividades deportivas que participen como elemento necesario en la práctica de algún deporte;
 
-IV. Animal doméstico: Los animales que dependan de un ser humano para subsistir y habiten con éste de forma regular;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+V. Animal de terapia: animales adiestradospara (sic) ser utilizados como parte de la terapia de personas con discapacidad o enfermedades crónico-degenerativas; los cuales deberán estar registrados e identificados de acuerdo a las disposiciones legales aplicables;
 
-V. Animal feraz: Los animales abandonados o silvestres, cuya excesiva fertilidad y multiplicación pueda implicar algún tipo de riesgo o peligro para la integridad, la salud o la seguridad de las personas, para el bienestar de otros animales o para el equilibrio ecológico del Municipio;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+VI. Animal doméstico: animales pertenecientes a especies bajo procesos de selección y crianza que dependan del ser humano para subsistir y convivan con éste de forma regular;
 
-VI. Animal feroz: Los animales que por su naturaleza se tornen violentos, agresivos y difíciles de someter;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+VII. Animal en cautiverio: todas aquellas especies domésticas o silvestres confinadas a un espacio limitado;
 
-VII. Animal de zooterapia: Los animales complementarios o que son utilizados para o en apoyos terapéuticos o adiestrados para ayudar al desarrollo de las personas con cualquier tipo de discapacidad;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+VIII. Animal feral: los animales abandonados o silvestres, cuya excesiva fertilidad y multiplicación pueda implicar algún tipo de riesgo o peligro para la integridad, la salud o la seguridad de las personas, para el bienestar de otros animales o para el equilibrio ecológico del Municipio;
 
-VIII. Animal para abasto: Aquéllos animales que sirven para consumo;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+IX. Animal feroz: los animales que por su naturaleza se tornen violentos, agresivos y difíciles de contener;
 
-IX. Animal para espectáculos: Los animales y especies de fauna silvestre mantenidas en cautiverio que son utilizados en un espectáculo público o privado bajo el adiestramiento del ser humano; los cuales deberán estar registrados e identificados de acuerdo a las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+X. Animal para abasto: aquellos animales que sirven para consumo;
 
-X. Animal para monta, carga y tiro: Los animales que son utilizados por el ser humano para realizar alguna actividad en el desarrollo de su trabajo y que reditúe beneficios económicos a su propietario, poseedor o encargado;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XI. Animal para espectáculos: los animales y especies de fauna silvestre mantenidas en cautiverio que son utilizados en un espectáculo público o privado bajo el adiestramiento del ser humano; los cuales deberán estar registrados e identificados de acuerdo a las disposiciones legales aplicables;
 
-XI. Animal para seguridad, protección o guardia: Los animales que realicen las funciones de vigilancia, protección o guardia en establecimientos comerciales o prestación de servicios, casa-habitación o instituciones públicas y privadas, así como para ayudar en las acciones públicas dedicadas a la detección de estupefacientes, armas y explosivos y demás acciones análogas;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XII. Animal para monta, carga y tiro: los animales que son utilizados por el ser humano para realizar alguna actividad en el desarrollo de su trabajo y que reditúe beneficios económicos a su propietario, poseedor o encargado;
 
-XII. Animal peligroso: Los animales que por su naturaleza y constitución física pueden causar daño a las personas;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XIII. Animal para seguridad, protección o guardia: los animales que realicen las funciones de vigilancia, protección o guardia en establecimientos comerciales o prestación de servicios, casa-habitación o instituciones públicas y privadas, así como para ayudar en las acciones públicas dedicadas a la detección de estupefacientes, armas y explosivos y demás acciones análogas;
 
-XIII. Asociaciones protectoras de animales: Las instituciones de asistencia privada, organizaciones no gubernamentales y asociaciones civiles legalmente constituidas, que dediquen sus actividades a la protección a los animales, y que demuestren un trabajo de utilidad pública;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XIV. Animal peligroso: los animales que por su naturaleza y constitución física pueden causar daño a las personas;
 
-XIV. Aves de presa: Aves carnívoras con alas, picos y garras adaptadas para cazar y que se adiestran para fines lícitos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XV. Animal Silvestre: animal pertenecientes (sic) a especies no domésticas sujetos a procesos evolutivos y que se desarrollan en su hábitat o poblaciones o individuos de estas, cuya regulación está establecida en la Ley General de Vida Silvestre;
 
-XV. Aves urbanas: Conjunto de especies de aves que habitan en libertad en el área urbana;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XVI. Animal Sintiente: son aquellos que poseen sistema nervioso central y por lo tanto pueden tener experiencias, ya que son estructuras que permiten el desarrollo de la consciencia;
 
-XVI. Bienestar animal: Respuesta fisiológica y de comportamiento adecuada basada en los principios de la libertad de sed y hambre, la libertad de incomodidad, la libertad de dolor, la libertad de lesiones y enfermedad, la libertad de expresar un comportamiento normal, la libertad de miedo y angustia. Para enfrentar o sobrellevar el entorno;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XVII. Asociaciones protectoras de animales: las instituciones de asistencia privada, organizaciones no gubernamentales y asociaciones civiles legalmente constituidas, que dediquen sus actividades a la protección a los animales, y que demuestren un trabajo de utilidad pública;
 
-XVII. Campañas: Acción pública realizada de manera periódica por la autoridad para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para controlar el aumento de población de animales; o para difundir la concientización entre la población para el trato digno y respetuoso a los animales;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XVIII. Aves de presa: aves carnívoras con alas, picos y garras adaptadas para cazar y que se adiestran para fines lícitos;
 
-XVIII. Cautiverio: El alojamiento temporal o permanente de fauna en áreas o instalaciones distintas a su entorno natural, que no implique maltrato a su bienestar;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XIX. Aves urbanas: conjunto de especies de aves que habitan en libertad en el área urbana;
 
-XIX. Centro: El Centro de Control Animal o Antirrábico, de referencia epidemiológica o de Atención Canina del Municipio de Puebla, dependiente del Departamento de Protección y Control Animal, de la Secretaría del Medio Ambiente y Servicios Públicos del Municipio de Puebla, el cual realiza las funciones de captura y sacrificio humanitario de animales abandonados o enfermos, con fines de prevención y control de las zoonosis, así como las demás actividades análogas;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XX. Bienestar animal: respuesta fisiológica y de comportamiento adecuada basada en los principios de la libertad de sed y hambre, la libertad de incomodidad, la libertad de dolor, la libertad de lesiones y enfermedad, la libertad de expresar un comportamiento normal, la libertad de miedo y angustia. Para enfrentar o sobrellevar el entorno;
 
-XX. Condiciones adecuadas: Las condiciones de trato digno y respetuoso que este Capítulo establece, así como las referencias que al respecto determinan las Normas Oficiales Mexicanas, la Ley de Protección a los Animales para el Estado Libre y Soberano de Puebla y demás disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XXI. Campañas: acción pública realizada de manera periódica por la autoridad para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para controlar el aumento de población de animales; o para difundir la concientización entre la población para el trato digno y respetuoso a los animales;
 
-XXI. Consejo Municipal de Bioética: Es el órgano de Consulta de la Autoridad Municipal, teniendo como atribución dejar en estado de resolución las solicitudes de experimentos con animales. Se integrará previa convocatoria que emita y publique la Comisión de Salubridad y Asistencia del Honorable Ayuntamiento del Municipio de Puebla; conformado por:
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
+
+XXII. Certificado de Vacunación: documento emitido por una Institución de Salud y/o por un Médico Veterinario Zootecnista con Cédula Profesional, con el que se certifica haber vacunado a un animal sano contra alguna enfermedad infecto contagiosa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
+
+XXIII. Clínica Veterinaria: establecimiento fijo atendido por uno o varios Médicos Veterinarios con cédula profesional, en el que se ofrecen servicios de consulta y/o de especialidad, cirugía general y/o de especialidad y otros servicios diagnósticos y/o terapéuticos tales como imagenología, laboratorio clínico, endoscopia, etcétera. Cuenta con instalaciones para alojar, hospitalizar pacientes durante la recuperación, convalecencia, o tratamiento. Puede o no contar con servicio las 24 horas. Pueden tener programas de enseñanza e investigación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
+
+XXIV. Colegios: asociaciones Civiles de Médicos Veterinarios legalmente constituidas cuya finalidad es la vigilancia del ejercicio profesional con el objeto de que se realice dentro del más alto plano ético, moral y legal;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+XXV. Condiciones adecuadas: las condiciones de trato digno y respetuoso que este Capítulo establece, así como las referencias que al respecto determinan las normas oficiales mexicanas, la Ley de Protección a los Animales para el Estado de Puebla y demás disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+XXVI. Consejo Municipal de Bioética: es el órgano de Consulta de la Autoridad Municipal, teniendo como atribución dejar en estado de resolución las solicitudes de experimentos con animales. Se integrará previa convocatoria que emita y publique la Comisión de Salubridad y Asistencia del Honorable Ayuntamiento del Municipio de Puebla; conformado por:
 
 a) Académico especialista en bioética;
 
@@ -27683,7 +27697,7 @@ b) Médico General;
 
 c) Médico Veterinario Zootecnista en representación de los Colegios;
 
-d) Biólogo; y
+d) Biólogo, y
 
 e) Un representante de las Asociaciones protectoras de animales.
 
@@ -27691,75 +27705,103 @@ Todos estos nombramientos serán honoríficos no recibirán remuneración econó
 
 El cual se integrará dentro de los treinta días del mes de marzo, siendo los diez primeros para la emisión y publicación de la convocatoria y los veinte posteriores para la toma de protesta; con un periodo de vigencia de dos años; sesionando a solicitud de la Secretaría;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-XXII. Consejo: Consejo Ciudadano de los Derechos de los Animales, en términos de la Ley Orgánica Municipal;
+XXVII. Consejo: consejo Ciudadano de los Derechos de los Animales, en términos de la Ley Orgánica Municipal;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
 
-XXIII. Criadero: Área de cohabitación de dos ejemplares de la misma raza y diferente sexo con fines de reproducción para explotación comercial; que cumplan con las Normas Oficiales Mexicanas y demás disposiciones jurídicas aplicables;
+XXVIII. Consultorio Veterinario: establecimiento fijo o móvil atendido por un Médico Veterinario con cédula profesional en el que se ofrecen servicios de consulta general y/o de especialidad (si aplica) y curaciones. No ofrece servicio de hospitalización y no está obligado a tener instalaciones para alojar u hospitalizar pacientes;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-XXIV. Crueldad: El acto de brutalidad, sádico o zoofóbico contra cualquier animal.;
+XXIX. Criadero: establecimiento comercial a cargo de un Médico Veterinario Zootecnista con cédula profesional en el que se realizan tratamientos Médicos Veterinarios para la reproducción de animales de compañía; que cumplan con las normas oficiales mexicanas y demás disposiciones jurídicas aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+XXX. Crueldad: el acto de brutalidad, sádico o zoo fóbico (sic) contra cualquier animal;
 
-XXV. Departamento.- El Departamento de Protección Animal de la Subdirección de Alumbrado Público y Servicios Municipales de la Dirección de Servicios Públicos de la Secretaría de Infraestructura y Servicios Públicos del Honorable Ayuntamiento del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XXXI. Departamento: el Departamento de Protección Animal de la Subdirección de Alumbrado Público y Servicios Municipales de la Dirección de Servicios Públicos de la Secretaría de Infraestructura y Servicios Públicos del Honorable Ayuntamiento del Municipio de Puebla;
 
-XXVI. Epizootia: La enfermedad que se presenta en una población animal durante un intervalo dado, con una frecuencia mayor a la esperada;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XXXII. Epizootia: la enfermedad que se presenta en una población animal durante un intervalo dado, con una frecuencia mayor a la esperada;
 
-XXVII. Fauna nociva: Animales o plagas que por su naturaleza o número pongan en riesgo la salud o la seguridad pública;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XXXIII. Escuelas de Adiestramiento Canino: establecimiento fijo que ofrece servicio para el adiestramiento de animales a través de un conjunto de actividades que realice el proveedor, para que cierto animal de compañía o de servicio, desarrolle o practique determinadas habilidades. Puede o no contar con instalaciones para el alojamiento y alimentación de los animales, excluyendo todo tipo de atención o Servicio Médico veterinario;
 
-XXVIII. Fauna silvestre: Las especies animales que nacen, viven y mueren fuera del control del ser humano; subsisten sujetas a los procesos de selección natural, desarrollándose libremente, incluyendo sus poblaciones menores bajo control del ser humano y cuya regulación está establecida en la Ley General de Vida Silvestre;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XXXIV. Estética para animales de compañía: establecimiento fijo o móvil donde se atiende la higiene de los animales domésticos. Se encarga de la limpieza de la piel, corte y arreglo del pelo y uñas. Es atendido por un profesional técnico. Cuenta con área para alojamiento temporal de los animales durante el servicio. No está facultado para ofrecer Servicios Médicos Veterinarios incluyendo vacunación y desparasitación;
 
-XXIX. Insensibilización: Acción con la que se induce rápidamente al animal a un estado en el que no siente dolor;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XXXV. Farmacia Veterinaria: establecimiento dedicado a la comercialización de productos químicos, farmacéuticos, biológicos y alimenticios terminados para uso en animales o consumo por estos; dicho establecimiento sólo tiene venta directa al público. NOM-064-ZOO-2000;
 
-XXX. Ley: La Ley de Protección a los Animales para el Estado Libre y Soberano de Puebla o su similar vigente, sea cual fuere su denominación;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XXXVI. Fauna nociva: animales o plagas que por su naturaleza o número pongan en riesgo la salud o la seguridad pública;
 
-XXXI. Maltrato: Todo hecho, acto u omisión, consciente o inconsciente, que pueda ocasionar dolor, estrés, tormento o algún otro estado de alteración que ponga en peligro la vida del animal o que afecte gravemente su salud, así como la sobreexplotación de su trabajo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XXXVII. Hospital Veterinario: establecimiento fijo atendido por Médicos Veterinarios con cédula profesional, en el que se ofrece todo tipo de servicios clínicos, quirúrgicos, terapéuticos, diagnósticos o especialidades y hospitalización (durante la recuperación, convalecencia, o tratamiento). Con servicio las 24 horas los 365 días del año. Estos pueden y suelen tener programas de enseñanza e investigación;
 
-XXXII. Mascotas: Los animales y especies de fauna silvestre o doméstica que sirven de compañía o recreación del ser humano;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XXXVIII. Insensibilización: acción con la que se induce rápidamente al animal a un estado en el que no siente dolor;
 
-XXXIII. Oficial de control animal: Personal técnico operativo del Centro que realiza actividades de captura, vacunación, inspección, vigilancia, control y todas aquéllas que se lleven a cabo en la vía pública de conformidad con este Capítulo y demás ordenamientos aplicables de la materia;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XXXIX. Ley: la Ley de Protección a los Animales para el Estado Libre y Soberano de Puebla o su similar vigente, sea cual fuere su denominación;
 
-XXXIV. Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida, sin dolor ni sufrimiento innecesario, por métodos físicos o químicos, atendiendo a las Normas Oficiales Mexicanas;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XL. Maltrato: todo hecho, acto u omisión, consciente o inconsciente, que pueda ocasionar dolor, estrés, tormento o algún otro estado de alteración que ponga en peligro la vida del animal o que afecte gravemente su salud, así como la sobreexplotación de su trabajo;
 
-XXXV. Trato humanitario: Las medidas indispensables para salvaguardar las condiciones naturales de desarrollo de los animales domésticos o en cautiverio, así como su manejo digno y respetuoso, con el fin de evitarles dolor innecesario o angustia durante su crianza, traslado, exhibición, comercialización, adiestramiento, tenencia, cuarentena y sacrificio;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+XLI. Oficial del Departamento: personal técnico operativo del Departamento que realiza actividades de captura, vacunación, inspección, vigilancia, control y todas aquellas que se lleven a cabo en la vía pública de conformidad con este Capítulo y demás ordenamientos aplicables de la materia;
 
-XXXVI. Vivisección: Abrir vivo a un animal para fines educativos o científicos, observando siempre los procedimientos técnicos necesarios, dando trato humanitario, evitando el maltrato; y
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+XLII. Padrón de mascotas: base de datos única, centralizada, de fácil y rápido acceso para las personas autorizadas, simple, permanente, inviolable, de control y continuidad garantizada, que contiene, los datos de la identificación única y permanente de la mascota y los datos de (sic) propietario o persona responsable de dicha mascota;
 
-XXXVII. Zoonosis: La transmisión de enfermedades de los animales a los seres humanos.
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+XLIII. Pensión: establecimiento fijo con servicios de guarda y custodia temporal de un animal de compañía o servicio, con fines únicos de alojamiento y alimentación, excluyendo toda clase de atención o Servicio Médico Veterinario. De acuerdo a la Norma Oficial Mexicana NOM-148-SCFI-2008;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE JUNIO DE 2017)</small>
+
+XLIV. Sacrificio humanitario: el sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida, sin dolor ni sufrimiento innecesario, por métodos físicos o químicos, atendiendo a las Normas Oficiales Mexicanas;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE JUNIO DE 2017)</small>
+
+XLV. Secretaría: Secretaría de Infraestructura y Servicios Públicos del Honorable Ayuntamiento del Municipio de Puebla;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+XLVI. Tienda de Animales: establecimiento destinado a la venta de animales de compañía o de servicio, alimentos y accesorios. Debe contar con instalaciones, equipos y accesorios de exhibición y condiciones sanitarias, ambientales y de seguridad, conforme con lo dispuesto en los ordenamientos legales correspondientes relativos a la salud y bienestar de los animales exhibidos para su venta. Para el caso de animales cuya comercialización requiera de permisos o autorizaciones específicas de autoridad competente, el proveedor debe contar con ellos y proporcionarlos al consumidor, liberando a éste de cualquier responsabilidad sobre la procedencia ilícita del animal. NOM-148-SCFI-2008;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE JUNIO DE 2017)</small>
+
+XLVII. Trato humanitario: las medidas indispensables para salvaguardar las condiciones naturales de desarrollo de los animales domésticos o en cautiverio, así como su manejo digno y respetuoso, con el fin de evitarles dolor innecesario o angustia durante su crianza, traslado, exhibición, comercialización, adiestramiento, tenencia, cuarentena y sacrificio;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE JUNIO DE 2017)</small>
+
+XLVIII. Vivisección: intervención médica practicada en un animal vivo para fines educativos o científicos. Este procedimiento deberá incluir siempre las medidas necesarias para dar un trato humanitario que evite en todo momento el maltrato, ansiedad y dolor al animal, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE JUNIO DE 2017)</small>
+
+XLIX. Zoonosis: la transmisión de enfermedades de los animales a los seres humanos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1834.
 
-Las autoridades del Municipio de Puebla, en auxilio de las federales, salvaguardarán del interés de toda persona de exigir el cumplimiento del derecho que la Nación ejerce sobre las especies de fauna silvestre y su hábitat como parte de su patrimonio natural y cultural, salvo aquellas especies que se encuentren en cautiverio y cuyos dueños cuenten con documentos que amparen su procedencia legal, ya sea como mascota o como parte de una colección zoológica pública o privada y cumplan con las disposiciones de trato digno y respetuoso a los animales que este Capítulo establece.
+Las autoridades del Municipio de Puebla, en auxilio de las estatales y federales, salvaguardarán del (sic) interés de toda persona de exigir el cumplimiento del derecho que la Nación ejerce sobre las especies de fauna silvestre y su hábitat como parte de su patrimonio natural y cultural, salvo aquellas especies que se encuentren en cautiverio y cuyos dueños cuenten con documentos que amparen su procedencia legal, ya sea como animal de compañía o como parte de una colección zoológica pública o privada y cumplan con las disposiciones de trato digno y respetuoso a los animales que este Capítulo establece.
 
 Así mismo las autoridades municipales auxiliarán a las federales para aplicar las medidas necesarias para la regulación del comercio de especies de fauna silvestre, sus productos o subproductos, mediante la celebración de convenios o acuerdos de coordinación.
 
@@ -27781,9 +27823,9 @@ Las autoridades municipales podrán en cualquier momento solicitar el apoyo e in
 
 El organismo público municipal descentralizado denominado Industrial de Abastos Puebla, sacrificará a los animales en los términos de este Capítulo y observando la Norma Oficial Mexicana 033 SAGARPA-2007, o la que fuere aplicable.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
-La persona que desempeñe el cargo de inspector, de Jefe o Encargado del Centro, deberá ser Médico Veterinario Zootecnista titulado y contar (sic) cédula profesional.
+La persona que desempeñe el cargo de inspector, de Jefe o Encargado del Departamento deberá ser Médico Veterinario Zootecnista titulado, y contar (sic) cédula profesional.
 
 ###### Artículo 1837.
 
@@ -27801,139 +27843,141 @@ V. Celebrar convenios de concertación con los sectores público, social y priva
 
 VI. Las demás que le confiera la Ley, este Capítulo y los ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1838.
 
-Corresponde a la Secretaría del Medio Ambiente y Servicios Públicos del Municipio de Puebla, como ente de la Administración Pública Municipal, el ejercicio de las siguientes facultades:
+Corresponde a la Secretaría de Infraestructura y Servicios Públicos del Municipio de Puebla, como ente de la Administración Pública Municipal, el ejercicio de las siguientes facultades:
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
 I. La promoción de información y difusión que genere la cultura cívica de protección, tenencia responsable, respeto y bienestar animal, trato digno a los animales;
 
-II. El desarrollo de programas de educación y capacitación en materia de trato digno y respetuoso a los animales, en coordinación con las autoridades competentes, relacionadas con las instituciones de educación básica, media y superior, con las asociaciones protectoras de animales, así como el desarrollo de programas de educación no formal e informal con el sector social, privado y académico; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+II. El desarrollo de programas de educación y capacitación en materia de trato digno y respetuoso a los animales, en coordinación con las autoridades competentes, Colegios y autoridades relacionadas con las instituciones de educación básica, media y superior, con las asociaciones protectoras de animales, así como el desarrollo de programas de educación no formal e informal con el sector social, privado y académico; y
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
 III. Las demás que le confieran el Ayuntamiento, este Capítulo, el Reglamento Interior de la Secretaría y los ordenamientos jurídicos aplicables.
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
-
 ###### Artículo 1838 Bis.
 
-Corresponde al Departamento el ejercicio de las siguientes facultades:
+(DEROGADO P.O. 15 DE JUNIO DE 2017)
 
-I. Supervisar el cumplimiento de lo dispuesto por la Norma Oficial Mexicana NOM-011-SSA2-1993 aplicable en Materia de Prevención, Vigilancia y Control de la Rabia;
-
-II. Proporcionar información a la población en general respecto al problema de salud pública y la responsabilidad que implica poseer una mascota;
-
-III. Vigilar que el sacrificio de animales que realice el Centro, en los rastros del Municipio, Industrial de Abastos Puebla, los Médicos Veterinarios Zootecnistas y cualquier otra persona autorizada, se lleve a cabo en los términos de la NOM/033-SAGARPA-2007 y de este Capítulo;
-
-IV. Proceder a capturar animales abandonados, feroces, ferales o peligrosos que deambulen en la vía pública u otras áreas de uso común, en los términos del presente Capítulo, canalizando las especies de fauna silvestre a la autoridad competente;
-
-V. Elaborar el Registro Municipal de Perros y Gatos y el Catálogo de Animales Feroces y Peligrosos, conforme a lo dispuesto en este Capítulo;
-
-VI. Promover y desarrollar campañas sanitarias para el control y erradicación de enfermedades zoonóticas, de vacunación que sean masivas y permanentes, de esterilización y de adopción, en su caso, en coordinación con las autoridades federales, estatales, municipales, con el sector privado, instituciones de educación superior, asociaciones protectoras de animales interesadas y el sector privado;
-
-VII. Recibir y admitir las denuncias que se presenten por violaciones a este Capítulo, dictar las resoluciones necesarias, practicar las medidas de inspección y vigilancia. Turnar las denuncias al Juez Calificador de la jurisdicción territorial correspondiente, para que éste las sustancie y dicte las resoluciones e imponga sanciones definitivas que correspondan, conforme a lo que establece este Capítulo y la Justicia Municipal del Código Reglamentario para el Municipio de Puebla y demás ordenamientos aplicables;
-
-VIII. Ordenar y aplicar las medidas de seguridad que establece este Capítulo y demás ordenamientos aplicables;
-
-IX. Supervisar la integración de los Padrones Municipales de Médicos Veterinarios Zootecnistas y de Asociaciones Protectoras de Animales y Organizaciones dedicadas al mismo fin, en los términos de este Capítulo;
-
-X. Retirar de la vía pública a los animales muertos, en coordinación con el Organismo Operador del Servicio de Limpia del Municipio de Puebla;
-
-XI. Enviar como residuos patológicos a empresas autorizadas para el manejo de los residuos peligrosos Biológico-Infecciosos, conforme lo establece la NOM-087-ECOL-1995, a los animales que hayan sido sacrificados, para evitar la propagación de enfermedades infecto-contagiosas;
-
-XII. Elaborar el registro de adiestradores, manejadores, así como empresas de seguridad que manejan animales feroces; a fin de conocer sus métodos, tener registro y control médico zootécnico de sus ejemplares;
-
-XIII. Atender los reportes de la observación de animales que soliciten las Instituciones de Salud y retroalimentar la información;
-
-XIV. Requerir en cualquier momento, a los propietarios, poseedores, encargados o custodios de animales agresores, sospechosos de rabia y/o de cualquier enfermedad contagiosa al hombre, que los presente y/o en su caso entreguen al Centro de Control Animal del Municipio de Puebla, para su observación médica y veterinaria correspondiente;
-
-XV. Atender los reportes de la ciudadanía o de otra área de la Administración Municipal, con respecto a los animales peligrosos o sin propietario que deambulen por la vía pública del Municipio, a fin de proceder a su captura;
-
-XVI. Practicar visitas domiciliarias con el objeto de verificar las condiciones sanitarias en las que se encuentren las mascotas que vivan en el inmueble, y emitir las observaciones pertinentes con el objeto de corregir las omisiones hechas a la Ley de Protección a los Animales, al Código Reglamentario para el Municipio de Puebla, al Reglamento de la Secretaría, cuando la posesión o custodia de los animales de compañía ocasiona problemas, emite ruidos excesivos, malos olores por acumulación de excretas o proliferación de insectos y estas condiciones causen daños a la salud pública; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
-
-XVII. Las demás que le confiera el Ayuntamiento, el Titular de la Secretaría, este Capítulo, el Reglamento Interior de la Secretaría del (sic) Infraestructura y Servicios Públicos del Honorable Ayuntamiento del Municipio de Puebla y demás ordenamientos jurídicos aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1839.
 
-Corresponde al Centro el ejercicio de las siguientes facultades:
+Corresponde al Departamento el ejercicio de las siguientes facultades:
 
-I. Cumplir con lo dispuesto con la Norma Oficial Mexicana NOM-011-SSA2-1993, aplicable en Materia de Prevención, Vigilancia y Control de la Rabia;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-II. (DEROGADA, P.O. 20 DE ABRIL DE 2012)
+I. Supervisar y dar cumplimiento a lo dispuesto por la Norma Oficial Mexicana NOM-011-SSA2-1993 aplicable en Materia de Prevención, Vigilancia y Control de la Rabia;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
 
-III. Aplicar el sacrificio de animales no destinados al consumo humano, en los mismos términos de este Capítulo, observando las Normas Oficiales Mexicanas, y demás disposiciones jurídicas aplicables.
+II. Proporcionar información a la población en general respecto al riesgo de salud pública que representa la zoonosis y la responsabilidad que implica poseer una animal de compañía;
 
-IV. (DEROGADA, P.O. 20 DE ABRIL DE 2012)
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-V. Poner a los animales a disposición de la autoridad competente;
+III. Vigilar que el sacrificio de animales que realice el Departamento, en los rastros del Municipio, Industrial de Abastos Puebla, los Médicos Veterinarios Zootecnistas y cualquier otra persona autorizada, se lleve a cabo en los términos de la NOM 033-SAGARPA-2007 y de este Capítulo;
 
-VI. (DEROGADA, P.O. 20 DE ABRIL DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+IV. Proceder a capturar animales abandonados que deambulen en la vía pública u otras áreas del espacio público, en los términos del presente Capítulo, canalizando las especies de fauna silvestre a la autoridad competente;
 
-VII. Coadyuvar con el Departamento en la elaboración del Registro Municipal de Perros y Gatos, en los términos de este Capítulo y el Catálogo de Animales Feroces y Peligrosos;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+V. Elaborar el Registro Municipal de Perros y Gatos y el Catálogo de Animales Feroces y Peligrosos, conforme a lo dispuesto en este Capítulo;
 
-VIII. Coadyuvar con el Departamento en la elaboración del Registro de Adiestradores, manejadores; así como empresas de seguridad que manejan animales feroces; a fin de conocer sus métodos, tener registro y control médico zootécnico de sus ejemplares;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+VI. Promover y desarrollar campañas sanitarias para el control de la reproducción animal, control y erradicación de enfermedades zoonóticas, de vacunación que sean masivas y permanentes, de esterilización y de adopción, en su caso, en coordinación con las autoridades federales, estatales, municipales, instituciones de educación superior, colegios* y organismos no gubernamentales;
 
-IX. Establecer campañas de vacunación masivas y permanentes antirrábicas; campañas sanitarias para el control y erradicación de enfermedades zoonóticas de desparasitación, de esterilización y adopción en coordinación con las autoridades estatales;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-X. (DEROGADA, P.O. 20 DE ABRIL DE 2012)
+VII. Recibir y admitir las denuncias que se presenten por violaciones a esteCapítulo (sic), dictar las resoluciones necesarias, practicar las medidas de inspección y vigilancia. Turnar las denuncias al Juez Calificador de la jurisdicción territorial correspondiente para que éste las sustancie y dicte las resoluciones e imponga sanciones definitivas que correspondan, conforme a lo que establece este Capítulo y la Justicia Municipal del Código Reglamentario para el Municipio de Puebla y demás ordenamientos aplicables;
 
-XI. (DEROGADA, P.O. 20 DE ABRIL DE 2012)
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+VIII. Ordenar y aplicar las medidas de seguridad que establece este Capítulo y demás ordenamientos aplicables;
 
-XII. Auxiliar al Departamento en la integración de los Padrones Municipales de Médicos Veterinarios Zootecnistas y de Asociaciones Protectoras de Animales y Organizaciones dedicadas al mismo fin, para los efectos de este Capítulo;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+IX. Supervisar la integración y actualizar anualmente los Padrones Municipales de Médicos Veterinarios Zootecnistas y de Asociaciones Protectoras de Animales y Organizaciones dedicadas al mismo fin, en los términos de este Capítulo;
 
-XIII. Esterilizar a los perros y gatos, en los casos que proceda:
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
 
-a) Adopción; y
+X. Retirar de la vía pública o de cualquier otra área del espacio público a los animales muertos, en coordinación con el Organismo Operador del Servicio de Limpia del Municipio de Puebla;
 
-b) Convencimiento autorizado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+XI. Enviar como residuos patológicos a empresas autorizadas para el manejo de los residuos peligrosos Biológico-Infecciosos, conforme lo establece la NOM-087-ECOL-1995, a los animales que hayan sido sacrificados, para evitar la propagación de enfermedades infecto-contagiosas;
 
-XIV. Las demás que le confiera el Jefe del Departamento, el Titular de la Secretaría, el Ayuntamiento, este Capítulo y los ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+XII. Elaborar y mantener actualizado anualmente el registro de Adiestradores, manejadores así como empresas de seguridad que manejan animales feroces; a fin de conocer sus métodos, tener registro y control médico zootécnico de sus ejemplares;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+XIII. Atender los reportes de la observación de animales que soliciten las Instituciones de Salud y retroalimentar la información;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+XIV. Requerir en cualquier momento, a los propietarios, poseedores, encargados o custodios de animales agresores, sospechosos de rabia y/o de cualquier enfermedad contagiosa al hombre, que los presente y/o en su caso entreguen al Departamento de Protección Animal del Municipio de Puebla para su observación médica y veterinaria correspondiente;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+XV. Atender los reportes de la ciudadanía o de otra área de la administración Municipal, con respecto a los animales peligrosos o sin propietario que deambulen por la vía pública del Municipio, a fin de proceder a su captura;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+XVI. Practicar visitas domiciliarias, previa denuncia ciudadana de maltrato animal, con el objeto de verificar las condiciones sanitarias en las que se encuentren los animales de compañía que vivan en el inmueble, y emitir las observaciones pertinentes con el objeto de corregir las omisiones hechas a la Ley de Protección a los Animales del Estado de Puebla, Código Reglamentario para el Municipio de Puebla, al Reglamento de la Secretaría, cuando la posesión o custodia de los animales de compañía ocasiona problemas, emite ruidos excesivos, malos olores por acumulación de excretas o proliferación de insectos y éstas condiciones causen daños a la salud pública;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+XVII. Esterilizar a los perros y gatos en los términos del presente Capítulo, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE JUNIO DE 2017)</small>
+
+XVIII. Las demás que le confiera el Ayuntamiento, el Titular de la Secretaría, este Capítulo, el Reglamento Interior de la Secretaría del (sic) Infraestructura y Servicios Públicos del Honorable Ayuntamiento del Municipio de Puebla y demás ordenamientos jurídicos aplicables.
 
 DE LA PARTICIPACIÓN SOCIAL
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1840.
 
-Las autoridades municipales promoverán la participación y cooperación de las personas, las instituciones académicas y de investigación, las asociaciones protectoras de animales y las organizaciones sociales legalmente constituidas, en las acciones gubernamentales relacionadas con la cultura de bienestar y el trato humanitario a los animales y podrán celebrar convenios de colaboración con éstas.
+Las autoridades municipales promoverán la participación y cooperación de las personas, Colegios, las instituciones académicas y de investigación, las asociaciones protectoras de animales y las organizaciones sociales legalmente constituidas, en las acciones gubernamentales relacionadas con la cultura de bienestar y el trato humanitario a los animales y podrán celebrar convenios de colaboración con éstas.
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1840 Bis.
 
-Los (sic) personas físicas, asociaciones protectoras de animales y organizaciones sociales legalmente constituidas, podrán:
+Las personas físicas, Colegios, asociaciones protectoras de animales y organizaciones sociales legalmente constituidas, podrán:
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
 
 I. Participar en las acciones que promueva el Gobierno Municipal, relacionadas con la cultura de bienestar y el trato humanitario a los animales, y prestar su cooperación para alcanzar los fines que persigue este Capítulo, en un marco de respeto y coordinación interinstitucional;
 
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+
 II. Informar a la autoridad municipal, a través de la Secretaría, sobre la existencia de cualquier acto, hecho u omisión cometido en perjuicio de los animales objeto de tutela del presente Capítulo, del que tengan conocimiento;
 
-III. Coadyuvar con la Secretaría, el Departamento y el Centro, previo convenio suscrito con el Ayuntamiento, en el ejercicio de sus facultades, con el objeto de brindar capacitación, educación, protección, conservación y trato humanitario en términos de este Capítulo, y demás disposiciones jurídicas aplicables; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-IV. Inscribirse en el Padrón Municipal de Asociaciones Protectoras de Animales y Organizaciones dedicadas al mismo fin, para los efectos de este Capítulo.
+III. Coadyuvar con la Secretaría y el Departamento previo convenio suscrito con el Ayuntamiento, en el ejercicio (sic) sus facultades, con el objeto de brindar capacitación, educación, protección, conservación y trato humanitario en términos de este Capítulo y demás disposiciones jurídicas aplicables; y
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
+
+IV. Inscribirse en los Padrones Municipales de Médicos Veterinarios Zootecnistas y de Asociaciones Protectoras de Animales y Organizaciones dedicadas al mismo fin, para los efectos de este Capítulo.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1841.
 
-El Centro podrá acreditar la presencia como observadores de hasta dos representantes de las asociaciones protectoras de animales legalmente constituidas que así lo soliciten, cuando se realicen actos de sacrificio humanitario de animales en las instalaciones públicas destinadas para dicho fin, así como cuando se realicen visitas de verificación a establecimientos que manejen animales o se desarrolle cualquiera de las campañas previstas en el artículo 1839 fracción IX de este Capítulo. Los observadores podrán emitir recomendaciones, las cuales no tendrán efectos vinculatorios con respecto a los actos de autoridad.
+El Departamento podrá acreditar la presencia como observadores de hasta dos representantes de los Colegios, de las asociaciones protectoras de animales legalmente constituidas que así lo soliciten, así como cuando se realicen actos de sacrificio humanitario de animales en las instalaciones públicas destinadas para dicho fin, así como cuando se realicen visitas de verificación a establecimientos que manejen animales o se desarrolle cualquiera de las campañas previstas en el artículo 1839 fracción IX de este Capítulo. Los observadores podrán emitir recomendaciones, las cuales no tendrán efectos vinculatorios con respecto a los actos de autoridad.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2012)</small>
 
@@ -27943,19 +27987,19 @@ DE LA CULTURA PARA LA PROTECCIÓN Y EL BIENESTAR DE LOS ANIMALES
 
 Las autoridades municipales, en el ámbito de sus facultades, promoverán mediante programas y campañas de difusión la cultura de protección a los animales objeto de este Capítulo, consistente en valores y conductas de respeto por parte del ser humano hacia los animales, con base en las disposiciones establecidas en el presente Capítulo en materia de trato digno y respetuoso.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1843.
 
-La Secretaría promoverá programas de formación en la cultura de protección y bienestar a los animales, ante las autoridades competentes; previo convenio suscrito con el Ayuntamiento, con las instituciones de educación básica, media, superior y de investigación, así como con las organizaciones no gubernamentales y asociaciones protectoras de animales.
+La Secretaría promoverá programas de formación en la cultura de protección y bienestar a los animales, ante las autoridades competentes; previo convenio suscrito con el Ayuntamiento con las instituciones de educación básica, media, superior y de investigación, así como con las organizaciones no gubernamentales, Colegios y asociaciones protectoras de animales.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1844.
 
-El Centro, por sí, o en coordinación con otros organismos y autoridades, realizará o promoverá la capacitación y actualización del personal en el manejo de animales a su cargo en los términos de este Capítulo, y en actividades de inspección y vigilancia, a través de cursos, talleres, reuniones, publicaciones y demás proyectos y acciones que contribuyan a los objetivos del presente Capítulo.
+El Departamento, por sí, o en coordinación con otros organismos y autoridades, realizará o promoverá la capacitación y actualización del personal en el manejo de animales a su cargo en los términos de este Capítulo, y en actividades de inspección y vigilancia, a través de cursos, talleres, reuniones, publicaciones y demás proyectos y acciones que contribuyan a los objetivos del presente Capítulo.
 
-Para cumplimentar con lo dispuesto en este artículo se buscará el apoyo de las autoridades federales y estatales correspondientes, asimismo de las personas, instituciones, asociaciones protectoras encargadas del bienestar animal y demás organizaciones sociales legalmente constituidas, que estén interesadas.
+Para cumplimentar con lo dispuesto en este artículo se buscará el apoyo de las autoridades federales y estatales correspondientes, asimismo de los Colegios, de las personas, instituciones, asociaciones protectoras encargadas del bienestar animal y demás organizaciones sociales legalmente constituidas, que estén interesadas.
 
 DEL TRATO DIGNO Y RESPETUOSO A LOS ANIMALES
 
@@ -27965,19 +28009,23 @@ Se consideran crueldad y maltrato, salvo lo dispuesto por las leyes federales to
 
 I. Azuzar a los animales para que se ataquen entre ellos o a las personas y hacer de las peleas así provocadas un espectáculo público o privado; pero se exceptúan de esta disposición las corridas de toros, novillos y becerros, así como las peleas de gallos, las que habrán de sujetarse a las leyes y disposiciones aplicables;
 
-II. Cualquier mutilación orgánica que no sea realizada por médico veterinario con cédula profesional;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+II. Cualquier mutilación orgánica que no esté justificada aún cuando sea realizada por un médico veterinario con cédula profesional; en términos de la Legislación Federal
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
 III. El abandono de animales en la vía pública o por periodos prolongados en bienes de propiedad privada;
 
-IV. El golpear y torturar a un animal intencionalmente o por negligencia, así como la sobre explotación en el trabajo;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+IV. El golpear y torturar a un animal intencionalmente o por negligencia, realizar actos zoófilos, así como la sobre explotación en el trabajo;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
 V. El mantenimiento de animales en condiciones inadecuadas de higiene, ventilación y movilidad, que afecten su desarrollo natural y bienestar animal que les causen o puedan causar hambre, sed, asfixia, insolación, dolor, daños graves a la salud, riesgo de accidentes o la muerte, así como no brindarles abrigo contra la intemperie.
 
-Si en un predio propiedad particular, de área delimitada por muro o por valla no existiendo moradores en la propiedad, existiera un animal sin los elementos propios de bienestar animal. Se deberá dar la intervención correspondiente al Ministerio Público y si éste lo determina procedente, Bomberos o Protección Civil y un oficial de control animal del Departamento, podrán ingresar a la propiedad a fin de rescatar al animal en cuestión y realizar las medidas de seguridad requeridas;
+Si en un predio propiedad particular, de área delimitada por muro o por valla no existiendo moradores en la propiedad, existiera un animal sin los elementos propios de bienestar animal. Se deberá dar la intervención correspondiente al Ministerio Público y sí este lo determina procedente, Bomberos o Protección Civil y un oficial del Departamento, podrán ingresar a la propiedad a fin de rescatar al animal en cuestión y realizar las medidas de seguridad requeridas;
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
@@ -27985,7 +28033,9 @@ VI. La muerte innecesaria o necesaria cuando ésta se produzca utilizando métod
 
 VII. Los actos o acciones que sin motivo razonable o legítimo puedan causar dolor considerable o que afecten gravemente la salud del animal;
 
-VIII. No brindarles atención médica y no proporcionar los programas preventivos para la protección de enfermedades cuando lo requieran o determinen las condiciones para el bienestar animal; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+VIII. No brindarles atención médica y no proporcionar los programas preventivos para la protección contra enfermedades infecto-contagiosas sobre todo las de riesgo zoonótico, en tiempo y forma de acuerdo a los protocolos científicos internacionales aceptados cuando lo requieran o determinen las condiciones para el bienestar animal; y
 
 IX. Los demás que establezca el presente Capítulo.
 
@@ -28033,19 +28083,13 @@ XVII. Arrojar animales sacrificados en barrancas, lotes baldíos con los residuo
 
 XVIII. No proporcionar agua y alimento diariamente a los animales que por su naturaleza así lo requieran;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
 
 XIX. Molestar o azuzar a un animal en cautiverio o domesticado en exhibición, ya sea en eventos o lugares públicos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
-
-XX. Realizar actos dolosos, ilegales e injustos que ocasionen la muerte o mutilación de animales no nocivos, considerando para tal efecto que la intervención quirúrgica, la vivisección y el sacrificio de animales, sólo podrán ser realizados, en los términos de este Capítulo, de las Normas Oficiales Mexicanas y demás disposiciones jurídicas aplicables, por Médicos Veterinarios Zootecnistas que cuenten con cédula profesional o por personas distintas previamente autorizadas por el Departamento; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XX. Realizar actos dolosos, ilegales e injustos que ocasionen la muerte o mutilación de animales no nocivos, y
 
 > <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
 
@@ -28055,7 +28099,9 @@ XXI. Utilizar animales durante la promoción en vía pública, en las instalacio
 
 Respecto a los animales feroces, peligrosos así como los destinados para seguridad, protección o guardia se aplicarán las siguientes disposiciones:
 
-I. Obtener de la autoridad municipal el permiso correspondiente, el cual se otorgará a través del Centro, siempre y cuando, el propietario garantice el adiestramiento y control del animal;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+I. Obtener de la Autoridad Municipal el permiso correspondiente, el cual deberá contar con la anuencia del Departamento, siempre y cuando, el propietario garantice el adiestramiento y control del animal;
 
 II. Para la tenencia de un animal de éstos, es indispensable no haber sido condenados por delitos violentos ni haber sido objeto de sanción administrativa en materia de tenencia de animales peligrosos; y
 
@@ -28075,21 +28121,17 @@ En caso de que el propietario del animal por algún motivo tenga que dejarlo sol
 
 Las personas que sean propietarias de peces, así como los establecimientos donde se comercialicen los mismos, deberán mantener las condiciones adecuadas dentro de las peceras, vidrieras o tanques que determine la autoridad competente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1850.
 
-En todo lugar de estancia o cautiverio como ferias, zoológicos, parques de diversiones, criaderos, centros de adiestramiento, tiendas de mascotas, clínicas veterinarias, pensiones públicas o privadas, establos, caballerizas, acuarios, bioparques y hospitales, se debe proporcionar a los animales, alimento, agua y las condiciones adecuadas según su especie, así como instalaciones apropiadas que les permitan libertad de movimiento, seguridad, salud e higiene, y contar con un Médico Veterinario responsable del establecimiento con cédula profesional, con el objeto de garantizar la salud y bienestar de los animales y de salvaguardar, las demás condiciones naturales para su desarrollo y subsistencia.
+En todo lugar de estancia o cautiverio como, zoológicos, criaderos, centros de adiestramiento, tiendas de Animales de compañía, clínicas veterinarias, pensiones públicas o privadas, establos, caballerizas, acuarios, bioparques y hospitales, se debe proporcionar a los animales, alimento, agua y las condiciones adecuadas según su especie, así como instalaciones apropiadas que les permitan libertad de movimiento, seguridad, salud e higiene, y contar con un Médico Veterinario responsable del establecimiento con cédula profesional, con el objeto de garantizar la salud y bienestar de los animales y de salvaguardar, las demás condiciones naturales para su desarrollo y subsistencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1851.
 
-Las ferias, zoológicos, parques de diversiones, acuarios y bioparques deberán implementar durante sus espectáculos o recorridos mensajes educativos con respecto al manejo, protección, trato digno y respetuoso de los animales.
+Los zoológicos, acuarios y bioparques deberán implementar durante sus espectáculos o recorridos mensajes educativos con respecto al manejo, protección, trato digno y respetuoso de los animales.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
@@ -28121,29 +28163,27 @@ La prestación del servicio de monta recreativa requiere autorización de la aut
 
 Los perros guía que asistan a personas ciegas o con otra discapacidad tendrán el libre acceso a todos los lugares públicos y transporte público.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1855.
 
-La captura de animales en la vía pública deberá ser libre de maltrato y sólo podrá realizarse cuando los animales deambulen, solos o en jauría, sin dueño aparente.
+La captura de animales en la vía pública deberá ser libre de maltrato y sólo podrá realizarse cuando los animales deambulen, solos o en jauría, sin dueño responsable. Todo perro en vía pública, debe ir acompañado de su tenedor o propietario y sujeto con una correa no mayor a tres metros.
 
-Todo perro en vía pública, debe ir acompañado de su tenedor o propietario y sujeto con una correa no mayor a tres metros.
+La captura se realizará por los oficiales del departamento, debidamente capacitados y equipados, evitando en cualquier momento actos de crueldad, tormento o maltrato, sobre excitación (sic) o escándalo público.
 
-La captura se realizará por los oficiales de control animal, debidamente capacitados y equipados, evitando en cualquier momento actos de crueldad, tormento o maltrato, sobre excitación o escándalo público.
+Las personas que acrediten la propiedad del animal después de que la captura se haya realizado, recibirán de los oficiales del departamento al momento de la reclamación, el comprobante correspondiente para que puedan recoger al animal posteriormente en las instalaciones.
 
-Las personas que acrediten la propiedad del animal después de que la captura se haya realizado, recibirán de los oficiales de control animal al momento de la reclamación, el comprobante correspondiente para que puedan recoger al animal posteriormente en las instalaciones del Centro.
+Los animales de compañía que hayan sido capturadas en razias, o por reporte de agresión, por parte del personal del Departamento se entregarán a las personas que acrediten la propiedad del ejemplar previa esterilización y vacunación antirrábica del ejemplar; a fin de reducir la reproducción de estos ejemplares.
 
-Las mascotas que hayan sido capturadas en razias, o por reporte de agresión, por parte del personal del Departamento se entregarán a las personas que acrediten la propiedad del ejemplar, previa esterilización y vacunación antirrábica del ejemplar; a fin de reducir la reproducción de estos ejemplares.
+Cualquier agresión a los oficiales del Departamento o daño a los vehículos y equipo utilizados con motivo del cumplimiento de sus deberes, se sancionará administrativamente por Juez Calificador, en los términos de este Capítulo; sin perjuicio de las responsabilidades civiles y penales que en su caso procedan.
 
-Cualquier agresión a los oficiales de control animal o daño a los vehículos y equipo utilizados con motivo del cumplimiento de sus deberes, sancionará administrativamente el Juez Calificador, en los términos de este Capítulo; sin perjuicio de las responsabilidades civiles y penales que en su caso procedan.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1856.
 
-El dueño podrá reclamar a su mascota que haya sido remitida a cualquier Centro dentro de las 72 horas siguientes a su captura, debiendo comprobar su propiedad o posesión. En el caso de no existir ningún documento que acredite la propiedad o posesión de la mascota, el particular puede a fin de acreditarla, proporcionar al Centro las características físicas y de conducta particulares o especiales del animal del que se dice propietario o poseedor; asimismo, el Centro evaluará la reacción de la mascota ante la presencia de la persona que la reclama, una vez concluido el procedimiento anterior el Centro procederá a emitir su decisión sobre si el particular acreditó o no la propiedad o posesión de la mascota en cuestión.
+El dueño podrá reclamar a su animal de compañía que haya sido remitida a cualquier instalación del departamento dentro de las 72 horas siguientes a su captura, debiendo comprobar su propiedad o posesión. En el caso de no existir ningún documento que acredite la propiedad o posesión del animal de compañía, el particular puede a fin de acreditarla, proporcionar al departamento las características físicas y de conducta particulares o especiales del animal del que se dice propietario o poseedor, asimismo el departamento evaluará la reacción del animal de compañía ante la presencia de la persona que la reclama, una vez concluido el procedimiento anterior el departamento procederá a emitir su decisión sobre si el particular acreditó o no la propiedad o posesión del animal de compañía en cuestión mientras no se cuente con un sistema de identificación permanente.
 
-Es responsabilidad del Centro o cualquier institución, para todo animal que se retenga de manera temporal, separarlos conforme a su tamaño, alimentarlos adecuadamente y darles de beber agua limpia.
+Es responsabilidad del departamento o cualquier institución, para todo animal que se retenga de manera temporal, separarlos conforme a su tamaño, alimentarlos adecuadamente y darles de beber agua limpia.
 
 ###### Artículo 1857.
 
@@ -28161,7 +28201,9 @@ El transporte de animales en el Municipio de Puebla se rige por las siguientes d
 
 I. El transporte por acarreo o en cualquier tipo de vehículo debe llevarse a cabo con los medios más adecuados, que no entrañen crueldad, maltrato, fatiga extrema, inseguridad, condiciones antihigiénicas, aglomeración excesiva, insolación, carencia de descanso, de agua o de alimento.
 
-El traslado de las mascotas en vehículos se realizará con arneses en el asiento trasero del vehículo o en jaula transportadora asegurándose que la mascota pueda moverse dentro de la jaula y que ésta quede bien asegurada, No se podrá dejar una mascota dentro de un automóvil estacionado a menos que esté una persona con la mascota para asegurar su bienestar animal.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
+
+El traslado de los animales de compañía en vehículos se realizará con arneses en el asiento trasero del vehículo o en jaula transportadora asegurándose que del (sic) animal de compañía pueda moverse dentro de la jaula y que ésta quede bien asegurada. No se podrá dejar un animal de compañía dentro de un automóvil estacionado a menos que este una persona con el animal de compañía para asegurar su bienestar animal.
 
 II. Queda prohibido trasladar animales arrastrándolos, suspendidos de los miembros superiores o inferiores, en costales o cajuelas de automóviles;
 
@@ -28213,33 +28255,23 @@ III. Proporcionarles agua, alimento diariamente, protección de la intemperie y 
 
 IV. Recolectar las heces fecales de sus animales en vía pública y áreas comunes, y depositarlas en bolsas o cartón biodegradables, para disponer de ellas como residuos orgánicos y evitar la contaminación ambiental;
 
-V. Guardar y exhibir, cuando le sea solicitado, el certificado o el documento que acredite la vacunación y en su caso, esterilización respectivo;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-VI. Inscribir los perros, gatos y mascotas a su cargo en el Registro Municipal de Perros y Gatos, a cargo del Departamento, trámite que no tendrá costo alguno y que servirá para tener las referencias de los animales inscritos, para las reclamaciones y demás gestiones a que haya lugar;
+V. Guardar y exhibir, cuando le sea solicitado, el documento que acredite la vacunación y en su caso, esterilización; el cual será expedido expedido (sic) por el Departamento o en su caso por Veterinarios registrados en el Padrón de Médicos Veterinarios Zootecnistas del Municipio;
 
-VII. Colocarles una correa, para poder transitar con éllos en la vía pública, así como responder de los daños y perjuicios que llegaren a causar a terceros, en caso de que les permita andar libremente, se le escapen o los abandone en la vía pública; con bozal en caso de los considerados feroces tales como los perros con acondicionamiento para guardia y protección y las razas tales como:
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-a) Pitt Bull Terrier;
+VI. Inscribir los animales de compañía a su cargo en el Registro Municipal, a cargo del Departamento, trámite que no tendrá costo alguno; y que servirá para tener las referencias de los animales de compañía inscritos, para las reclamaciones y demás gestiones a que haya lugar; los datos podrán ser recabados y transmitidos al Departamento por los Médicos inscritos en el Padrón de Médicos Veterinarios Zootecnistas del Municipio de Puebla;
 
-b) Staffordshire Bull Terrier;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-c) American Staffordshire Terrier;
-
-d) Rottweiler;
-
-e) Dogo Argentino;
-
-f) Fila Brasileiro;
-
-g) Tosa Inu; y
-
-h) Akita Inu;
-
-O cualquiera de sus cruces con estas razas de animales;
+VII. Colocarles una correa, para poder transitar con ellos en la vía pública, así como responder de los daños y perjuicios que llegaren a causar a terceros, en caso de que les permita andar libremente, se le escapen o los abandone en la vía pública; con bozal en caso de poseer un espécimen que por sus características físicas sea capaz de causar un daño severo, como los perros con acondicionamiento para guardia y protección;
 
 VIII. Educarlos o adiestrarlos, para asegurar su buen comportamiento y evitar que ataquen o dañen a terceros;
 
-IX. Colocarles permanentemente una placa, brazalete o anillo de identificación, en el que consten al menos el nombre del animal o su número de registro y datos del propietario;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+IX. Colocarles una identificación permanente, que permita acreditar la identidad del animal y datos del propietario;
 
 X. En general, tratarlos humanitariamente y protegerlos de cualquier maltrato por parte de terceros; y
 
@@ -28315,9 +28347,9 @@ I. Solicitar a la Autoridad Municipal la captura de animales que deambulen en su
 
 II. Recibir la información y orientación necesaria de la autoridad municipal en relación con los derechos y obligaciones vinculados con la tenencia de animales y con sus enfermedades; y
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-III. Realizar preferentemente la esterilización de sus animales en las instalaciones del Centro, o ante la autoridad correspondiente. Y obtener certificado o constancia de la esterilización de sus animales expedida por el Centro o en módulos de las campañas de esterilización realizadas por la Secretaría de Salud.
+III. Realizar preferentemente la esterilización de sus animales en las instalaciones del Departamento, o ante la autoridad correspondiente como es la Secretaría de Salud y obtener certificado o constancia de la esterilización de sus animales.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
@@ -28337,27 +28369,31 @@ Los animales domésticos no deben tenerse aislados, ya que es necesario su conta
 
 La manutención de animales en cualquier espacio debe procurarse de manera que no se generen focos de insalubridad, contaminación, escándalo, inseguridad o maltrato, que afecten el bienestar de las personas y de los animales.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1868.
 
-La persona que no pueda hacerse cargo de su animal doméstico o mascota, bajo ninguna circunstancia podrá abandonarlo en la vía pública o en zonas rurales o por periodos prolongados en bienes de propiedad particular, por lo que estará obligada a buscarle alojamiento y cuidado, para lo cual podrá acudir ante el Consejo Ciudadano de los Derechos de los Animales, el Departamento o el área asignada en su caso, para que le brinde orientación e información oportuna.
+La persona que no pueda hacerse cargo de su animal de compañía, bajo ninguna circunstancia podrá abandonarlo en la vía pública o en zonas rurales o por periodos prolongados en bienes de propiedad particular, por lo que estará obligada a buscarle alojamiento y cuidado, para lo cual podrá acudir ante el Consejo Ciudadano de los Derechos de los Animales, el Departamento o el área asignada en su caso, para que le brinde orientación e información oportuna.
 
 DE LA PREVENCIÓN Y DEL CONTROL DE LA RABIA
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
+
 ###### Artículo 1869.
 
-La aplicación de las disposiciones administrativas referentes a la prevención y control de la rabia en el Municipio de Puebla, corresponde al Centro, el cual, para su funcionamiento, se integrará por el personal a que hace referencia este capítulo.
+La aplicación de las disposiciones administrativas referentes a la prevención y control de la rabia en el Municipio de Puebla, corresponde al Departamento, el que, para su funcionamiento, se integrará por el personal a que hace referencia este capítulo.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1870.
 
-Los derechos por estudio de laboratorio: Bacteriológico, parapsicológico y serológico, con excepción del que se realice para detección de la rabia, aplicación de vacunas con excepción de la antirrábica, esterilización, manutención de animales dentro del Centro, sacrificio y disposición de cadáveres de animales incluyendo incineración y en general por cualquier actividad realizada por el Centro, en su caso, se causarán y pagarán de conformidad con las disposiciones establecidas en la Ley de Ingresos del Municipio para el ejercicio fiscal correspondiente.
+Los derechos por estudio de laboratorio: Bacteriológico, coproparasitoscopico y serológico, con excepción del que se realice para detección de la rabia, aplicación de vacunas con excepción de la antirrábica, esterilización, manutención de animales dentro del departamento, sacrificio y disposición de cadáveres de animales incluyendo incineración y en general por cualquier actividad realizada por el departamento, en su caso, se causarán y pagarán de conformidad con las disposiciones establecidas en la Ley de Ingresos del Municipio para el ejercicio fiscal correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1871.
 
-Son obligaciones y facultades del Centro, en materia de prevención y control de la Rabia, las siguientes:
+Son obligaciones y facultades del Departamento en materia de prevención y control de la Rabia, las siguientes:
 
 I. Cumplir con lo dispuesto con la Norma Oficial Mexicana aplicable en materia de prevención, vigilancia y control de la rabia;
 
@@ -28369,9 +28405,11 @@ IV. Proteger e informar a la población afectada en los casos comprobados de rab
 
 V. En general, realizar todas las medidas de prevención y control establecidas en este Capítulo, así como cumplir con las disposiciones sanitarias aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2017)</small>
+
 ###### Artículo 1872.
 
-Son obligaciones y facultades del Jefe del Centro, en materia de prevención y control de la Rabia, las siguientes:
+Son obligaciones y facultades del Jefe del Departamento, en materia de prevención y control de la Rabia, las siguientes:
 
 I. Coordinarse con las dependencias de la Administración Pública Federal y Estatal para la realización de acciones tendientes a prevenir y controlar la rabia dentro del Municipio;
 
@@ -28389,13 +28427,17 @@ V. Integrar el Padrón Municipal de Médicos Veterinarios Zootecnistas, que debe
 
 VI. En relación con el Registro Municipal de Perros y Gatos, deberá llevar un registro de los animales vacunados anualmente en que se hará constar: nombre, raza, color, sexo y señas particulares del animal; el nombre y domicilio del propietario, así como los datos que aparecen en la boleta de vacunación; y datos que permitan la identificación del Médico Veterinario Zootecnista que aplicó la vacuna y número de registro asignado a cada animal;
 
-VII. Llevar un registro de todos los animales que por cualquier circunstancia hayan estado internados en el Centro, si éstos animales estuviesen en el registro a que se refiere la fracción anterior no se hará la anotación respectiva;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+VII. Integrar un registro de todos los animales que por cualquier circunstancia hayan estado internados en el Departamento, si éstos animales estuviesen en el registro a que se refiere la fracción anterior no se hará la anotación respectiva;
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
 VIII. Elaborar estadísticas con la información que se obtenga del manejo de los padrones y registros a que se refieren las fracciones IV, V, VI y VII de este artículo;
 
-IX. Entregar copia de los registros obtenidos y en general de cualquier dato o estadística referente a las actividades del Centro a las autoridades sanitarias correspondientes;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+IX. Entregar copia de los registros obtenidos y en general de cualquier dato o estadística referente a las actividades del Departamento a las autoridades sanitarias correspondientes;
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
@@ -28409,15 +28451,15 @@ XII. Vigilar la observación y aplicación de este capítulo, así como imponer 
 
 XIII. Solicitar el auxilio de la fuerza pública para el aseguramiento y captura de animales en la vía pública o al interior de cualquier inmueble de propiedad privada, previa orden de visita de inspección en este caso, expedida por la autoridad municipal competente; y
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-XIV. Dispensar a solicitud de persona interesada y tomando en cuenta el informe médico del Centro, el sacrificio de los animales que ingresen al Centro.
+XIV. Dispensar a solicitud de persona interesada y tomando en cuenta el informe médico del Departamento, el sacrificio de los animales que ingresen al Departamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1873.
 
-Son obligaciones del Técnico del Centro, quién deberá contar con cédula profesional de Médico Veterinario y Zootecnista en materia de prevención y control de la rabia, las siguientes:
+Son obligaciones del Técnico del Departamento, quién deberá contar con cédula profesional de Médico Veterinario y Zootecnista en materia de prevención y control de la rabia, las siguientes:
 
 I. Sacrificar a todo animal por haber sido agredido o estar en contacto con algún animal rabioso, ser portador o sospechoso de estar infectado;
 
@@ -28425,15 +28467,17 @@ I. Sacrificar a todo animal por haber sido agredido o estar en contacto con alg�
 
 II. Mantener bajo vigilancia y cuidados durante diez días mínimo a los perros que se concluya que es portador o se encuentra infectado de rabia o que hayan agredido a una persona y de no ser reclamados proceder, en su caso, al sacrificio de los mismos;
 
-III. Presentar al Jefe del Centro un reporte de los animales vacunados y de los que se encuentren en observación dentro del Centro; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+III. Presentar al Jefe del Departamento un reporte de los animales vacunados y de los que se encuentren en observación dentro del Departamento;
 
 IV. Proceder al sacrificio de los animales en términos de este Capítulo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1874.
 
-Para los efectos del presente Capítulo, son obligaciones del Responsable de Denuncias del Departamento ordenar al Centro cuando sea procedente lo siguiente:
+Para los efectos del presente Capítulo, son obligaciones del Responsable de Denuncias del Departamento ordenar al personal a su cargo cuando sea procedente lo siguiente:
 
 I. Instruir a los encargados de la captura o aseguramiento de animales, para brindar atención y seguimiento a las denuncias realizadas por habitantes del Municipio;
 
@@ -28459,15 +28503,17 @@ Son obligaciones del Médico Veterinario Zootecnista que preste sus servicios en
 
 I. Inscribirse en el Padrón Municipal de Médicos Veterinarios Zootecnistas a cargo del Departamento;
 
-II. En el caso de tener en observación algún animal sospechoso de rabia, deberá comunicar al Centro, de forma inmediata el ingreso a la clínica y rendir un informe periódicamente sobre el estado de salud del animal o, en su caso, la muerte del mismo, debiendo entregar el cadáver con la respectiva responsiva médica, de no hacerlo se hará acreedor a las sanciones administrativas contempladas en el presente Capítulo;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+II. En el caso de tener en observación algún animal sospechoso de rabia, deberá comunicar al Departamento, de forma inmediata el ingreso a la clínica y rendir un informe periódicamente sobre el estado de salud del animal o en su caso, la muerte del mismo, debiendo entregar el cadáver con la respectiva responsiva médica, de no hacerlo se hará acreedor a las sanciones administrativas contempladas en el presente Capítulo;
 
-III. Entregar semestralmente al Centro una relación de los animales que sean vacunados en su clínica, que contendrá entre otros datos los siguientes: nombre y domicilio del propietario, nombre del animal, raza, color, edad y señas particulares; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+III. Entregar semestralmente al Departamento una relación de los animales que sean vacunados en su clínica, que contendrá entre otros datos los siguientes: nombre y domicilio del propietario, nombre del animal, raza, color, edad y señas particulares; y
 
-IV. Entregar al Centro una relación de los animales que no sean vacunados y que asistan a su clínica que contendrá los mismos datos que la relación de la fracción anterior.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+IV. Entregar al Departamento una relación de los animales que no sean vacunados y que asistan a su clínica que contendrá los mismos datos que se citan en la fracción anterior.
 
 ###### Artículo 1876.
 
@@ -28479,9 +28525,11 @@ II. No darles a los animales de su propiedad o posesión un trato humanitario o 
 
 III. Realizar contra los animales cualquier acto contrario a este Capítulo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2017)</small>
+
 ###### Artículo 1877.
 
-En términos de las Normas Oficiales Mexicanas en materia de prevención y control de la rabia y demás disposiciones aplicables, el Centro deberá:
+En términos de las Normas Oficiales Mexicanas en materia de prevención y control de la rabia y demás disposiciones aplicables, el Departamento deberá:
 
 I. Realizar las actividades tendientes a fomentar la educación para la salud y promoción de la cultura del cuidado de animales;
 
@@ -28505,11 +28553,11 @@ III. Canalización a las dependencias correspondientes para la aplicación, en e
 
 El caso clínico de rabia humana deberá notificarse inmediatamente a la autoridad sanitaria correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1880.
 
-El Centro llevará a cabo medidas de seguridad y control del reservorio mediante las siguientes actividades:
+El Departamento establecerá medidas de seguridad y control del reservorio mediante las siguientes actividades:
 
 I. Para obtener la información necesaria para trabajos de control a nivel municipal, realizará estudios de dinámica de población de perros y gatos;
 
@@ -28529,17 +28577,21 @@ VII. Para limitar el crecimiento de la población de perros y gatos, realizará 
 
 VIII. Si se identifican otras especies animales en la transmisión de la rabia, se coordinará con las autoridades correspondientes para realizar, dentro del ámbito de su competencia el control de éstas poblaciones.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
+
 ###### Artículo 1881.
 
-Todos los propietarios y poseedores de perros y gatos están obligados a vacunarlos contra la rabia para prevenir la enfermedad, a partir del primer mes de edad y revacunarlos cuando cumplan los tres meses de edad, posteriormente revacunarlos cada año a partir de la fecha de la última aplicación.
+Los propietarios y poseedores de perros y gatos están obligados a vacunarlos contra la rabia para prevenir la enfermedad, entre el primer y tercer mes de edad en términos de la Organización Mundial de la Salud y revacunarlos seis meses después, posteriormente revacunarlos cada año a partir de la fecha de la última aplicación.
 
 ###### Artículo 1882.
 
 En cada uno de los casos señalados en el artículo anterior, se otorgará al propietario o poseedor del animal un certificado de vacunación antirrábica expedido por la autoridad sanitaria competente o por un Médico Veterinario Zootecnista con Cédula Profesional, así como la placa señalada en el párrafo segundo del artículo siguiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2017)</small>
+
 ###### Artículo 1883.
 
-El Certificado de Vacunación Antirrábica deberá contener los datos de registro del animal vacunado, a efecto de poder comprobar la vacunación, cuantas veces sea requerido por el Centro a través de sus verificadores.
+El Certificado de Vacunación Antirrábica deberá contener los datos de registro del animal vacunado, a efecto de poder comprobar la vacunación, cuantas veces sea requerido por el Departamento a través de sus verificadores.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE ABRIL DE 2012)</small>
 
@@ -28549,9 +28601,11 @@ La placa de vacunación expresará el año y número de ésta, a fin de que sea 
 
 La aplicación de la vacuna antirrábica en los perros se hará en términos de la Norma Oficial Mexicana correspondiente.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
+
 ###### Artículo 1885.
 
-Durante las campañas de vacunación antirrábica, el Centro participará de acuerdo con las disposiciones establecidas por la autoridad correspondiente.
+Durante las campañas de vacunación antirrábica, el Departamento participará de acuerdo con las disposiciones establecidas por la autoridad correspondiente.
 
 ###### Artículo 1886.
 
@@ -28583,9 +28637,9 @@ La observación de los animales señalados en la fracción I del artículo anter
 
 En caso de que al animal sujeto a observación no se le detecte la rabia, será devuelto a su propietario, poseedor o encargado, después de reunir los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-I. Exhibir al Jefe o Encargado del Centro, el certificado vigente de vacunación antirrábica o la responsiva clínica que señala el artículo anterior, como constancia de la responsabilidad adquirida, y solicitar la devolución inmediata del animal o realizar solicitud por escrito al Jefe del Centro, dentro de las 72 horas anteriores al cumplimiento del periodo de observación establecido para los supuestos a que se refieren las fracciones II, III y IV del artículo 1887 o dentro del término de 72 horas siguientes a su captura de acuerdo con el artículo 1856 del presente Código Reglamentario, cuando se esté en el supuesto del periodo de observación a que se refiere la fracción I del artículo 1887;
+I. Exhibir al Jefe o Encargado del Departamento, el certificado vigente de vacunación antirrábica o la responsiva clínica que señala el artículo anterior, como constancia de la responsabilidad adquirida, y solicitar la devolución inmediata del animal o realizar solicitud por escrito al Jefe del Departamento, dentro de las 72 horas anteriores al cumplimiento del periodo de observación establecido para los supuestos a que se refieren las fracciones II, III y IV del artículo 1887 o dentro del término de 72 horas siguientes a su captura de acuerdo con el artículo 1856 del presente Código Reglamentario, cuando se esté en el supuesto del periodo de observación a que se refiere la fracción I del artículo 1887;
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
@@ -28593,23 +28647,25 @@ II. Acreditar su calidad de propietario, poseedor o encargado; y
 
 III. Pague los daños que hubiese ocasionado el animal, las sanciones impuestas en cada caso y cualesquiera de los derechos que se hubiese causado, de acuerdo con lo dispuesto en este ordenamiento.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1890.
 
-Si transcurridos los términos contenidos en el artículo anterior sin que ninguna persona hubiese solicitado la devolución de los animales sujetos a observación o presentándose no hubieran reunido los requisitos señalados en el mismo precepto, el Jefe del Centro procederá al sacrificio de los animales conforme a lo dispuesto en este Capítulo o ponerlos a disposición de alguna asociación protectora de animales, a instancias de la misma, por recomendación del Consejo Ciudadano de los Derechos de los Animales o en términos del convenio respectivo, para proporcionar alojamiento y cuidados conforme a las disposiciones aplicables y, en su caso, le busquen propietario responsable o promuevan su adopción por terceros.
+Si transcurridos los términos contenidos en el artículo anterior sin que ninguna persona hubiese solicitado la devolución de los animales sujetos a observación o presentándose no hubieran reunido los requisitos señalados en el mismo precepto, el Jefe del Departamento procederá al sacrificio de los animales conforme a lo dispuesto en este Capítulo o ponerlos a disposición de alguna asociación protectora de animales, a instancias de la misma, por recomendación del Consejo Ciudadano de los Derechos de los Animales o en términos del convenio respectivo, para proporcionar alojamiento y cuidados conforme a las disposiciones aplicables y, en su caso, le busquen propietario responsable o promuevan su adopción por terceros.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1891.
 
-Conforme a las leyes federales y estatales en la materia, así como de las Normas Oficiales Mexicanas respectivas, el personal autorizado del Centro realizará el sacrificio de los siguientes animales:
+Conforme a las leyes federales y estatales en la materia, así como de las Normas Oficiales Mexicanas respectivas, el personal autorizado del Departamento realizará el sacrificio de los siguientes animales:
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
 I. Los enfermos de rabia;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-II. Aquéllos capturados y que hayan terminado su período de observación y no hayan sido reclamados, por persona alguna o asociación protectora de animales;
+II. Aquellos capturados que hayan terminado su período de observación y no hayan sido reclamados, por persona alguna o asociación protectora de animales; y que no se puedan donar;
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
@@ -28619,15 +28675,19 @@ III. Los perros que hayan sido internados por haber atacado en dos o más ocasio
 
 IV. Los desahuciados médicamente, a solicitud de sus dueños, y los que padezcan alguna otra enfermedad contagiosa e incurable, que represente un riesgo grave para la población o para los demás animales.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
+
 ###### Artículo 1892.
 
-Los propietarios de animales domésticos están obligados a presentar de inmediato al Centro, a la mascota mordida por animales rabiosos o sospechosos de rabia o que hubiese estado en contacto directo con los mismos, el cual se quedará para observación clínica, hasta cubrir los criterios epidemiológicos del caso o respaldarlo con responsiva médica, quedando como corresponsable el Médico Veterinario que extienda la observación.
+Los propietarios de animales domésticos están obligados a presentar de inmediato al Departamento, al animal de compañía mordido por animales rabiosos o sospechosos de rabia o que hubiese estado en contacto directo con los mismos, el cual se quedará para observación clínica, hasta cubrir los criterios epidemiológicos del caso o respaldarlo con responsiva médica, quedando como corresponsable el Médico Veterinario que extienda la observación.
 
-La persona que oculte o se niegue a presentar a los animales de su propiedad o posesión para observación clínica por parte del Centro, será sancionado en los términos de este Capítulo.
+La persona que oculte o se niegue a presentar a los animales de su propiedad o posesión para observación clínica por parte del Departamento, será sancionado en los términos de este Capítulo.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1893.
 
-Ninguna persona sin justificación, podrá sacrificar a los animales domésticos que hayan mordido a personas o animales, salvo peligro inminente, lo que deberá notificarlo dentro de las 12 horas siguientes al Centro.
+Ninguna persona sin justificación, podrá sacrificar a los animales domésticos que hayan mordido a personas o animales, salvo peligro inminente, lo que deberá notificarlo dentro de las 12 horas siguientes al Departamento.
 
 INTERVENCIONES QUIRÚRGICAS Y EXPERIMENTOS EN ANIMALES
 
@@ -28659,7 +28719,9 @@ VI. Los animales que se empleen para experimentación deberán ser criados para 
 
 VII. Para el caso de realizar actividades de colecta científica de material biológico de especies de fauna silvestre, los interesados deberán sujetarse a la Norma Oficial Mexicana NOM-126-ECOL-2002; y
 
-VIII. Las intervenciones quirúrgicas en animales domésticos se realizarán exclusivamente por personal con título en medicina veterinaria zootecnista, por lo que la mutilación y muerte de animales causadas en virtud de intervenciones quirúrgicas practicadas por otras personas carentes de autorización, se sancionarán administrativamente en los términos de este Capítulo, sin perjuicio de las demás sanciones que correspondan.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+VIII. Las intervenciones quirúrgicas en animales domésticos se realizarán exclusivamente por personal con título en medicina veterinaria y zootecnia, por lo que la mutilación y muerte de animales causadas en virtud de intervenciones quirúrgicas practicadas por otras personas carentes de autorización, se sancionarán administrativamente en los términos de este Capítulo, sin perjuicio de las demás sanciones que correspondan.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2012)</small>
 
@@ -28707,11 +28769,11 @@ Se prohíbe estrictamente la modificación negativa intencional en los instintos
 
 DEL SACRIFICIO DE ANIMALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1900.
 
-El sacrificio de animales sólo podrá realizarse en locales adecuados específicamente para tal actividad, por Médicos Veterinarios Zootecnistas que cuenten con cédula profesional, por personal del Centro o de Industrial de Abastos Puebla o por cualquier otra persona autorizada por el Departamento o la Secretaría de Salud Federal o Estatal según corresponda.
+El sacrificio de animales sólo podrá realizarse en locales adecuados específicamente para tal actividad, por Médicos Veterinarios Zootecnistas que cuenten con cédula profesional, por personal del Departamento o de Industrial de Abastos Puebla o por cualquier otra persona autorizada por el Departamento o la Secretaría de Salud Federal o Estatal según corresponda.
 
 Una vez realizado dicho sacrificio los cadáveres podrán ser inhumados o incinerados de conformidad con las Normas Oficiales vigentes. En este último caso, deberá contar con la autorización como generador de residuos peligrosos biológico infecciosos, emitida por la Secretaría de Medio Ambiente, Recursos Naturales, de acuerdo al Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Residuos Peligrosos vigente o su similar sea cual fuere su denominación.
 
@@ -28983,9 +29045,9 @@ Las sanciones administrativas por violaciones a las disposiciones legales de est
 
 I. Apercibimiento por escrito de la autoridad municipal competente o amonestación;
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-II. Multa por un importe del equivalente al valor diario de 1 a 5,000 unidades de medida y actualización, la cual podrá permutarse por arresto hasta por treinta y seis horas o por trabajo a favor de la comunidad, en los términos del presente Capítulo;
+II. Multa por un monto de 20 a 20,000 unidades de medida y actualización, la cual podrá permutarse por arresto hasta por treinta y seis horas o por trabajo a favor de la comunidad, en los términos del presente Capítulo;
 
 III. Clausura definitiva cuando exista reincidencia en los casos que haya motivado una clausura temporal o cuando se trate de hechos, actos u omisiones cuyo fin primordial sea el de realizar actos prohibidos por este Capítulo; y
 
@@ -29007,11 +29069,11 @@ VI. Trabajo a favor de la comunidad.
 
 Procederá el apercibimiento o amonestación por el Juez Calificador, en su caso, en aquellos supuestos en los que por primera vez se moleste a algún animal o se le dé un golpe que no deje huella o secuela y en aquellos casos que contemple el Capítulo de Policía y Gobierno del presente Código Reglamentario.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1920.
 
-Las multas causarán un importe del equivalente al valor diario de 1 a 5,000 unidades de medida y actualización, dependiendo de la falta cometida y de conformidad con el tabulador de infracciones y los siguientes criterios:
+Se impondrán multas de 20 a 20,000 unidades de medida y actualización, dependiendo de la falta cometida y de conformidad con el tabulador de infracciones y los siguientes criterios:
 
 a) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
@@ -29021,7 +29083,7 @@ b) Sanciones que se determinarán de la siguiente manera:
 
 (VÉASE ARCHIVO ANEXO)
 
-> <small>[N. DE E. VÉASE ANEXOS EN EL P.O. DE 31 DE OCTUBRE DE 2016, PÁGINA 31.]</small>
+> <small>[N. DE E. VÉASE REFORMAS DE LOS TABULADORES Y CRITERIOS EN EL P.O. DE 31 DE OCTUBRE DE 2016, PÁGINA 28; P.O. DE 15 DE JUNIO DE 2017, PÁGINAS DE LA 19 A LA 20.]</small>
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
 
@@ -29075,9 +29137,11 @@ IV. Cuando por la fiereza natural y extrema del animal se produzcan lesiones a s
 
 V. Cuando la enfermedad transmisible portada por el animal sea irreversible o incurable.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
+
 ###### Artículo 1925.
 
-Los empleados del Centro y de Industrial de Abastos Puebla, que incurran en faltas al presente Capítulo, serán sancionados conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla.
+Los empleados del Departamento y de Industrial de Abastos Puebla, que incurran en faltas al presente Capítulo, serán sancionados conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
@@ -34473,7 +34537,7 @@ DEL PREMIO MUNICIPAL DE INVESTIGACIÓN HISTÓRICA: “HUGO LEICHT”
 
 ###### Artículo 2335 Sexies.
 
-El Premio Municipal de Investigación Histórica: "Hugo Leicht" será entregado a aquellas personas que hayan realizado alguna investigación histórica del Municipio de Puebla.
+El Premio Municipal de Investigación Histórica: “Hugo Leicht” será entregado a aquellas personas que hayan realizado alguna investigación histórica del Municipio de Puebla.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -35925,7 +35989,7 @@ DÉCIMO SEGUNDO. Las sanciones que deriven en multa señaladas en el artículo 7
 
 P.O. 2 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 19 DE MAYO DE 2017, POR EL QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE GOBERNACIÓN Y JUSTICIA, POR EL QUE SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 1401 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA, PARA INCLUIR LA MODALIDAD DE CORREDOR COMERCIAL TEMPORAL EN LA CLASIFICACIÓN DE MERCADOS; SE APRUEBA LA INSTALACIÓN DE UN CORREDOR COMERCIAL TEMPORAL, Y SE EXPIDEN LOS LINEAMIENTOS CORRESPONDIENTES".]
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 19 DE MAYO DE 2017, POR EL QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE GOBERNACIÓN Y JUSTICIA, POR EL QUE SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 1401 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA, PARA INCLUIR LA MODALIDAD DE CORREDOR COMERCIAL TEMPORAL EN LA CLASIFICACIÓN DE MERCADOS; SE APRUEBA LA INSTALACIÓN DE UN CORREDOR COMERCIAL TEMPORAL, Y SE EXPIDEN LOS LINEAMIENTOS CORRESPONDIENTES”.]
 
 PRIMERO. El presente Dictamen entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
@@ -35936,3 +36000,11 @@ TERCERO. Los efectos de la aplicación del presente, serán evaluados cada cuatr
 CUARTO. El requisito contemplado en la fracción "e" del artículo 6, será exigible una vez transcurridos seis meses a partir de la publicación del presente Dictamen.
 
 QUINTO. El pago de los derechos contemplados en el artículo 8 atenderá a lo establecido en las disposiciones fiscales respectivas.
+
+P.O. 15 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DE HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 19 DE MAYO DE 2017, POR EL QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE SERVICIOS PÚBLICOS, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CAPÍTULO 27 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Dictamen.
