@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2016-04-28"
+last_updated: "2017-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -1157,7 +1157,9 @@ II.- Causa del cese de la relación de trabajo;
 
 III.- Constancia de haber dado aviso por escrito al trabajador de la fecha y causa de su despido;
 
-IV.- Duración de la jornada de trabajo; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+IV.- Duración de la jornada de trabajo ordinaria y extraordinaria, cuando ésta no exceda de nueve horas semanales, y
 
 V.- Terminación de la relación laboral.
 
@@ -1840,3 +1842,13 @@ P.O. 28 DE ABRIL DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0659.- REFORMA AL ARTÍCULO 125 EN SU FRACCIÓN V, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Los juicios iniciados con las disposiciones anteriores a la vigencia del presente Decreto, deberán concluirse de conformidad con ellas.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
