@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2016-11-03"
+last_updated: "2017-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -36,8 +38,6 @@ Decreto por el que se promulga la Constitución Política del Estado Libre y Sob
 David Gustavo Gutiérrez Ruiz, Gobernador Provisional del Estado de Quintana Roo a sus habitantes sabed:
 
 Que la H. Legislatura Constituyente del Estado Libre y Soberano de Quintana Roo electa el 10 de Noviembre de 1974, de conformidad a lo dispuesto en el artículo cuarto transitorio del Decreto expedido por Luis Echeverría Alvarez, Presidente Constitucional de los Estados Unidos Mexicanos el 7 de octubre anterior y publicado en el Diario Oficial de la Federación al día siguienteha (sic) tenido a bien expedir la siguiente
-
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO 411, PUBLICADO EN EL P.O. 25 DE JUNIO DE 2016, LAS REFERENCIAS QUE SE HAGAN EN OTRAS LEYES DE LA ENTIDAD A LA PROCURADURÍA GENERAL DE JUSTICIA O AL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO, SE ENTENDERÁN AHORA A LA FISCALÍA GENERAL DEL ESTADO Y AL FISCAL GENERAL DEL ESTADO, RESPECTIVAMENTE.]</small>
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
@@ -297,7 +297,7 @@ El organismo garante tendrá un Consejo Consultivo, integrado por cuatro conseje
 
 Para el ejercicio del derecho de acceso a la información, regirán los principios y bases siguientes:
 
-l. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, Municipios, órganos públicos autónomos, partidos políticos, fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, estatal o municipal, en términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. La ley establecerá aquella información que se considere reservada o confidencial.
+I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, Municipios, órganos públicos autónomos, partidos políticos, fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, estatal o municipal, en términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. La ley establecerá aquella información que se considere reservada o confidencial.
 
 Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
 
@@ -335,7 +335,7 @@ En los juicios del orden civil, la sentencia definitiva deberá ser conforme a l
 
 No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito. Tampoco se considera confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos de esta Constitución, la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia. En el caso de extinción de dominio se establecerá un procedimiento que se regirá por las siguientes reglas:
 
-l. Será jurisdiccional y autónomo del de materia penal;
+I. Será jurisdiccional y autónomo del de materia penal;
 
 II. Procederá en los casos de delitos contra la salud, secuestro, robo de vehículos y trata de personas, respecto de los bienes siguientes:
 
@@ -397,7 +397,7 @@ El proceso penal será acusatorio y oral. Se regirá por los principios de publi
 
 A.- De los principios generales:
 
-l.- El proceso penal tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen;
+I.- El proceso penal tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen;
 
 II.- Toda audiencia se desarrollará en presencia del juez, sin que pueda delegar en ninguna persona el desahogo y la valoración de las pruebas, la cual deberá realizarse de manera libre y lógica;
 
@@ -551,13 +551,11 @@ Las garantías previstas en las fracciones V, VII y IX también serán observada
 
 En todo proceso penal, la víctima o el ofendido por algún delito tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando lo requiera y los demás que señalen las leyes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 29.
 
-La imposición de las penas, su modificación y duración son propias y exclusivas de la Autoridad Judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial del Estado, la cual estará bajo la autoridad y mando· inmediato de aquél. Compete a la autoridad administrativa el castigo de las infracciones a los reglamentos gubernativos y de policía, que consistirá únicamente en multa o arresto hasta por 36 horas. Si el infractor fuese jornalero, obrero o trabajador no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. La multa impuesta a los trabajadores no asalariados no excederá del equivalente de un día de su ingreso.
+La imposición de las penas, su modificación y duración son propias y exclusivas de la Autoridad Judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial del Estado, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa el castigo de las infracciones a los reglamentos gubernativos y de policía, que consistirá únicamente en multa o arresto hasta por 36 horas. Si el infractor fuese jornalero, obrero o trabajador no podrá ser sancionado con multa mayor del importe del valor diario de la unidad de medida y actualización. La multa impuesta a los trabajadores no asalariados no excederá del equivalente al valor diario de un día de su ingreso.
 
 > <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
 
@@ -871,9 +869,9 @@ La Ley garantizará que los partidos políticos cuenten de manera equitativa y g
 
 El financiamiento público para los partidos políticos se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y se otorgará conforme a las siguientes bases:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2017)</small>
 
-1.- El financiamiento público ordinario para el sostenimiento de sus actividades permanentes, se fijara cada año por el Instituto Electoral de Quintana Roo al elaborar su presupuesto. El monto total se determinará multiplicando el sesenta y cinco por ciento de un salario mínimo general vigente en el Estado, por el número de ciudadanos inscritos en el padrón electoral de la entidad, con corte al mes de julio del año anterior. La cantidad que resulte se otorgará conforme a las siguientes disposiciones:
+1.- El financiamiento público ordinario para el sostenimiento de sus actividades permanentes, se fijará cada año por el Instituto Electoral de Quintana Roo al elaborar su presupuesto. El monto total se determinará multiplicando el sesenta por ciento del valor diario de la unidad de medida y actualización por el número de ciudadanos inscritos en el padrón electoral de la Entidad, con corte al mes de octubre del año anterior. La cantidad que resulte se otorgará conforme a las siguientes disposiciones:
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
@@ -1187,9 +1185,11 @@ IV.- A los ciudadanos quintanarroenses, en los términos que señale la Ley resp
 
 V.- Al Tribunal Superior de Justicia del Estado, en materia de legislación civil, penal, familiar, procesal de estas materias y en la legislación relativa a la organización y administración de justicia.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 69.
 
-Las iniciativas se sujetarán al trámite señalado en el Reglamento Interior de la Legislatura. Una vez aprobadas, pasarán al Ejecutivo para que en plazo no mayor de 10 días formule, si las hubiere, las observaciones pertinentes, o proceda a su publicación. En la interpretación, reforma o derogación de las leyes o decreto (sic), se observarán los mismos trámites establecidos para su formación.
+Las iniciativas se sujetarán al trámite señalado en la Ley Orgánica del Poder Legislativo del Estado y en el Reglamento Interior de la Legislatura. Una vez aprobadas, pasarán al Ejecutivo para que en un plazo no mayor de 10 días formule, si las hubiere, las observaciones pertinentes, o proceda a su publicación. En la interpretación, reforma o derogación de las leyes o decreto (sic) se observarán los mismos trámites establecidos para su formación.
 
 ###### ARTICULO 70.
 
@@ -1212,6 +1212,10 @@ El Ejecutivo no podrá hacer observaciones sobre los acuerdos económicos, las r
 ###### ARTICULO 73.
 
 Las iniciativas de Ley o decreto que fueren desechadas por la Legislatura, no podrá (sic) volver a ser presentadas en el mismo período de sesiones.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2017)</small>
+
+Si presentada la iniciativa de ley o decreto no ha sido aprobada por la Legislatura del Estado en los plazos establecidos en la Ley Orgánica del Poder Legislativo del Estado y el Reglamento para el Gobierno Interior de la Legislatura, se considerará por ese hecho desechada, excepto cuando la o las comisiones competentes o sus promoventes soliciten a la Legislatura prórroga en los términos establecidos en los mismos ordenamientos.
 
 ###### ARTICULO 74.
 
@@ -1308,8 +1312,6 @@ XXVI.- Legislar acerca de la administración, conservación y enajenación de lo
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1981)</small>
 
 XXVII.- Aprobar o rechazar las concesiones otorgadas por el ejecutivo.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -1422,8 +1424,6 @@ Son facultades y obligaciones de la Diputación Permanente:
 I.- Acordar por sí o a propuesta del Ejecutivo, la convocatoria a sesiones extraordinarias;
 
 II.- Instalar y presidir la primera Junta Preparatoria de la nueva Legislatura;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -1605,7 +1605,7 @@ Para ser Gobernador del Estado se requiere:
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2008)</small>
 
-l.- SER CIUDADANO MEXICANO POR NACIMIENTO, NATIVO DE LA ENTIDAD O HIJO DE PADRE O MADRE NACIDO EN LA ENTIDAD, Y CON RESIDENCIA EFECTIVA Y VECINDAD EN EL ESTADO DE CUANDO MENOS DIEZ AÑOS INMEDIATAMENTE ANTERIORES AL DÍA DE LA ELECCIÓN. A FALTA DE LOS REQUISITOS ANTES SEÑALADOS, SER CIUDADANO MEXICANO POR NACIMIENTO Y CON RESIDENCIA EFECTIVA Y VECINDAD EN EL ESTADO NO MENOR DE VEINTE AÑOS INMEDIATAMENTE ANTERIORES AL DÍA DE LA ELECCIÓN.
+I.- SER CIUDADANO MEXICANO POR NACIMIENTO, NATIVO DE LA ENTIDAD O HIJO DE PADRE O MADRE NACIDO EN LA ENTIDAD, Y CON RESIDENCIA EFECTIVA Y VECINDAD EN EL ESTADO DE CUANDO MENOS DIEZ AÑOS INMEDIATAMENTE ANTERIORES AL DÍA DE LA ELECCIÓN. A FALTA DE LOS REQUISITOS ANTES SEÑALADOS, SER CIUDADANO MEXICANO POR NACIMIENTO Y CON RESIDENCIA EFECTIVA Y VECINDAD EN EL ESTADO NO MENOR DE VEINTE AÑOS INMEDIATAMENTE ANTERIORES AL DÍA DE LA ELECCIÓN.
 
 II.- Tener 25 años cumplidos al día de la elección, y estar en pleno ejercicio de sus derechos políticos.
 
@@ -2061,7 +2061,7 @@ Los nombramientos de los Magistrados deberán recaer preferentemente entre aquel
 
 Los Magistrados del Tribunal Superior de Justicia serán designados conforme al siguiente procedimiento:
 
-l. El Gobernador del Estado someterá una terna a la consideración de la Legislatura del Estado, la cual previa comparecencia de las personas propuestas, hará la designación correspondiente mediante el voto de la mayoría de sus miembros, dentro del plazo de quince días naturales;
+I. El Gobernador del Estado someterá una terna a la consideración de la Legislatura del Estado, la cual previa comparecencia de las personas propuestas, hará la designación correspondiente mediante el voto de la mayoría de sus miembros, dentro del plazo de quince días naturales;
 
 II. Si la Legislatura del Estado no resolviere en el término señalado, rechaza la terna o no alcanza la votación requerida, el Gobernador dentro de los quince días posteriores, propondrá una nueva terna;
 
@@ -2071,7 +2071,7 @@ En los recesos de la Legislatura, la Diputación Permanente hará el nombramient
 
 Las licencias de los Magistrados para separarse temporalmente de sus funciones, por un lapso menor a un mes, podrán ser conferidas por el Pleno del Tribunal Superior de Justicia. Las que excedan de este término requerirán de la autorización expresa de la Legislatura del Estado.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 028, PUBLICADO EN EL P.O. DE 2 DE JULIO DE 2008, SE MODIFICO LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 028, PUBLICADO EN EL P.O. DE 2 DE JULIO DE 2008, SE MODIFICO LA ESTRUCTURA DEL PRESENTE ARTÍCULO.]</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -2595,7 +2595,7 @@ MARCO DE REFERENCIA: ITRF2008, ÉPOCA 2010.0
 
 LAS COORDENADAS GEOGRÁFICAS ESTÁN EXPRESADAS EN NOTACIÓN SEXAGESIMAL; LAS COORDENADAS MÉTRICAS ESTÁN CONFIGURADAS EN LA PROYECCIÓN UTM ZONA 16N.
 
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 6 DE NOVIEMBRE DE 2015, PÁGINAS DE LA 12 A LA 14.</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 6 DE NOVIEMBRE DE 2015, PÁGINAS DE LA 12 A LA 14.]</small>
 
 Al Sur, el Municipio de Puerto Morelos y el Mar Caribe. Al Este, el Mar Caribe y al Oeste, el Municipio de Lázaro Cárdenas. Quedan en su jurisdicción la Isla de Cancún y Cayos adyacentes.
 
@@ -2794,6 +2794,8 @@ EST P.V. X Y
 41 42 S 63°50'39"E 123.720 467564.629 2257296.991 41
 
 42 43 S 65°25'58"E 833.981 467675.680 2257242.454 42
+
+43 1
 
 43 1 Sobre la línea de costa 468434.164 2256895.718 43
 
@@ -3131,7 +3133,7 @@ MARCO DE REFERENCIA: ITRF2008, ÉPOCA 2010.0
 
 LAS COORDENADAS GEOGRÁFICAS ESTÁN EXPRESADAS EN NOTACIÓN SEXAGESIMAL; LAS COORDENADAS MÉTRICAS ESTÁN CONFIGURADAS EN LA PROYECCIÓN UTM ZONA 16N.
 
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 6 DE NOVIEMBRE DE 2015, PÁGINAS DE LA 15 A LA 18.</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 6 DE NOVIEMBRE DE 2015, PÁGINAS DE LA 15 A LA 18.]</small>
 
 Las colindancias del municipio de Puerto Morelos, son:
 
@@ -3448,8 +3450,6 @@ I. Los recursos que integran la hacienda municipal serán ejercidos en forma dir
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
 II. La Legislatura del Estado discutirá y aprobará, en su caso, las Leyes de Ingresos de cada Municipio, conforme a la Iniciativa que éstos presenten a más tardar el 15 de noviembre de cada año, en los términos de la presente Constitución y de la Ley Hacendaria que al efecto se expida.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO PUBLICADO EN EL P.O. DE 2 DE DICIEMBRE DE 2003.]</small>
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -4591,7 +4591,7 @@ P.O. 23 DE SEPTIEMBRE DE 2011.
 
 P.O. 22 DE NOVIEMBRE DE 2012.
 
-PRIMERIO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -4878,3 +4878,19 @@ P.O. 3 DE NOVIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones legales que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 15 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO: 063 “POR EL QUE SE REFORMAN EL ARTÍCULO 29 Y EL NUMERAL 1 DE LA FRACCIÓN III DEL ARTÍCULO 49, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes estatales, así como en cualquier disposición jurídica que emane de la Constitución y de cualquier ordenamiento estatal, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 15 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 064 POR EL QUE SE REFORMAN (SIC) EL ARTÍCULO 69 Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 73, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- En un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, se deberán implementar las adecuaciones a la legislación secundaria en congruencia con la presente reforma.
