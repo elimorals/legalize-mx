@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-agua-potable-y-alcantarillado-del-estado-de-quintana-110
 country: "mx"
 rank: "ley"
 publication_date: "1981-10-06"
-last_updated: "2016-04-05"
+last_updated: "2017-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 6 de octubre de 1981.
 
@@ -211,9 +211,9 @@ V.- Cobrar de acuerdo a las tarifas aprobadas los derechos correspondientes a la
 
 VI.- Realizar los cobros de las cuotas de los usuarios morosos y las multas impuestas por infracciones a la presente Ley, mediante el procedimiento administrativo de ejecución;
 
-Antes de iniciar el procedimiento administrativo de ejecución y se apliquen las medidas establecidas por esta Ley, la Dirección General del organismo considerará las posibilidades de pago de los usuarios de tomas domésticas y de unidades habitacionales, que tengan adeudos hasta de doce mensualidades, para celebrar convenios de pago, en los términos que señale el Reglamento respectivo;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-VII.- Realizar las gestiones necesarias con el fin de obtener créditos y aportaciones económicas oficiales o particulares, promoviendo la constitución de fondos para el ejercicio de programas y cumplimiento de sus objetivos;
+VII.- Antes de iniciar el procedimiento administrativo de ejecución y se apliquen las medidas establecidas por esta Ley, la Dirección General del organismo considerará las posibilidades de pago de los usuarios de consumo doméstico que tengan adeudos hasta de dieciocho mensualidades, para celebrar convenios de pago, en los términos que señale el Reglamento respectivo.
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 1996)</small>
 
@@ -575,9 +575,11 @@ XXII.- Celebrar los convenios y contratos necesarios para el cumplimiento de los
 
 XXIII.- Regular y racionalizar el suministro de agua a los usuarios, cuando por causas de fuerza mayor sea insuficiente el abastecimiento; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-XXIV.- Las demás que le confieran las disposiciones legales aplicables y las que sea (sic) necesarias para el cumplimiento de la presente Ley y sus Reglamentos;
+XXIV.- Diseñar y ejecutar programas de capacitación permanentes encaminados a que el servicio público que brinda la Comisión de Agua Potable y Alcantarillado a los usuarios, sea en apego a los principios de legalidad, honradez, respeto, imparcialidad y eficiencia, y
+
+XXV.- Las demás que le confieran las disposiciones legales aplicables y las que sean necesarias para el cumplimiento de la Ley y sus Reglamentos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -601,9 +603,9 @@ IV.- Recaudar las cuotas que deben cubrirse por los servicios que preste el orga
 
 V.- Manejar los fondos del organismo operador de acuerdo con los presupuestos, normas y procedimientos dictados para el efecto.
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-VI.- Turnar a la Dirección de Recuperación de Adeudos y Ejecución Fiscal, dependiente de la Dirección General de la Comisión de Agua Potable y Alcantarillado, el cobro de los adeudos de los usuarios que no hubiesen pagado oportunamente.
+VI.- Turnar a la Dirección de Recuperación de Adeudos y Ejecución Fiscal, dependiente de la Dirección General de la Comisión de Agua Potable y Alcantarillado, el cobro de los adeudos de los usuarios que no hubiesen pagado oportunamente. En el caso de los usuarios de consumo doméstico el cobro de los adeudos solo podrá ser turnado cuando no se haya cubierto la cuota o tarifa establecida por los servicios de agua potable por más de dieciocho meses;
 
 VII.- Ordenar las visitas, inspecciones y verificaciones necesarias en relación con los servicios.
 
@@ -907,15 +909,13 @@ Cuando no pueda verificarse el consumo de agua por desarreglo en los medidores c
 
 En el caso de edificios u otras construcciones sujetos al régimen de propiedad en condominio, los propietarios de cada piso, departamento, vivienda o local están obligados a pagar las tarifas de acuerdo con las lecturas que registre el aparato medidor que se instale en cada uno, independientemente de la cuota que proporcionalmente les corresponda por el consumo de agua que se haga para el servicio común del condominio. De este último pago responderán solidariamente todos los propietarios, y por su falta de pago podrán embargarse la totalidad del inmueble. Mientras no se instalen los medidores, las cuotas se determinarán en cantidad fija que señalarán las tarifas respectivas y su pago estará a cargo de la administración del edificio o construcción en condominio en tiempo compartido.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 81.
 
 En caso de mora por parte de los usuarios, en el pago de dos o más meses de la cuota o tarifa establecida por los servicios de agua potable procederá la suspensión de dichos servicios, sin perjuicio de que la Comisión encomiende el cobro de los adeudos a la Dirección de Recuperación de Adeudos y Ejecución Fiscal, dependiente de la Dirección General de la Comisión de Agua Potable y Alcantarillado.
 
-En relación a lo dispuesto por la Ley General de Salud y la Ley Estatal de Salud, quedan exceptuados de la suspensión del servicio los usuarios de tomas domésticas y los de servicios públicos de salud, siempre que celebren convenios de pago de sus adeudos con la Comisión de Agua Potable y Alcantarillado.
-
-En tanto se celebran los convenios respectivos, únicamente se podrá reducir el suministro de agua potable.
+En el caso de que la mora sea de usuarios de consumo doméstico, no se procederá a la suspensión de los servicios, sin embargo, la Comisión reducirá los mismos de manera que sea el agua suficiente para la satisfacción de las necesidades vitales mínimas del usuario, hasta que se cubra el monto del adeudo.
 
 ###### ARTICULO 82.
 
@@ -1083,9 +1083,9 @@ En caso de que la descarga se haya destruido intencionalmente o por causas imput
 
 ARTICULO 105 bis.- Para el cobro de los adeudos por concepto de cuotas y tarifas, así como las multas que se impongan con motivo de las infracciones a la presente ley y sus reglamentos que no fueren cubiertas, serán determinados y exigidos mediante el procedimiento administrativo de ejecución previsto en el Capítulo III del Título Quinto del Código Fiscal del Estado, de acuerdo a lo previsto en la presente ley, para lo cual:
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-I.- Queda investida la Dirección de Recuperación de Adeudos y Ejecución Fiscal de la Comisión de Agua Potable y Alcantarillado de la facultad económico-coactiva para determinar, fijar en cantidad líquida, exigir los pagos y hacer efectivos los créditos fiscales que no hubieren sido cubiertos o garantizados en los plazos señalados por esta Ley;
+I.- Queda investida la Dirección de Recuperación de Adeudos y Ejecución Fiscal de la Comisión de Agua Potable y Alcantarillado de la facultad económico-coactiva para determinar, fijar en cantidad líquida, exigir los pagos y hacer efectivos los créditos fiscales que no hubieren sido cubiertos o garantizados en los plazos señalados por esta Ley. En el caso de los usuarios de consumo doméstico, el cobro de los adeudos solo podrá ser encomendado a la Dirección de Recuperación de Adeudos y Ejecución Fiscal cuando no hayan cubierto la cuota o tarifa establecida por los servicios de agua potable por más de dieciocho meses.
 
 > <small>(ADICIONADA, P.O. 9 DE ABRIL DE 1996)</small>
 
@@ -1412,3 +1412,11 @@ P.O. 5 DE ABRIL DE 2016.
 PRIMERO. El presente Decreto entrara en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Quedan sin efecto todas las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 15 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 079 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
