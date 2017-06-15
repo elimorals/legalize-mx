@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-obras-publicas-del-estado-de-campeche-3602"
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-31"
-last_updated: "2017-05-15"
+last_updated: "2017-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE OBRAS PUBLICAS DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE OBRAS PÚBLICAS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Campeche, el viernes 31 de agosto de 1984.
 
@@ -85,8 +87,6 @@ f). ENTIDADES: Los organismos, empresas y fideicomisos señalados en las fraccio
 
 Las disposiciones de esta ley son de observancia obligatoria para las dependencias y órganos de los Poderes Legislativo y Judicial, sin perjuicio de lo dispuesto en sus respectivas leyes orgánicas, así como para todos aquellos organismos que manejen o apliquen recursos provenientes de los erarios estatal o municipal. Las atribuciones que en esta ley se confieren al titular del Poder Ejecutivo y a dependencias de la Administración Pública del Estado se ejercerán, en la esfera de competencia de los Poderes Legislativo y Judicial y organismos en mención, por las dependencias y órganos de éstos homólogos de aquéllos.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
 ARTICULO 1o TER.- Las dependencias de la Administración Pública Estatal, los municipios y los organismos descentralizados garantizarán la accesibilidad de las personas con discapacidad a edificios, espacios públicos, así como en obra pública existente o por desarrollarse, asegurando el disfrute de sus derechos y eliminado (sic) cualquier forma de discriminación.
@@ -104,6 +104,22 @@ II.- La construcción, instalación, conservación, mantenimiento, reparación y
 III.- Todos aquellos de naturaleza análoga.
 
 La incorporación de bienes muebles que deban destinarse a un inmueble, necesarios para la realización de las obras públicas, se regirá por las disposiciones de esta Ley, sin perjuicio de que su adquisición se regule por las disposiciones de la materia.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2017)</small>
+
+ARTICULO 2° BIS.- Para los efectos de esta Ley, se considera infraestructura o infraestructura física, la que forme parte del patrimonio del Estado y/o sus municipios y que, de manera enunciativa, más no limitativa, se señala a continuación:
+
+I. Infraestructura artística y cultural: la construcción, reconstrucción, ampliación, mantenimiento, conservación, rehabilitación y remodelación de espacios públicos dedicados a la difusión artística y cultural, tales como centros culturales, museos, auditorios, teatros, entre otros;
+
+II. Infraestructura deportiva: la construcción, reconstrucción, ampliación, mantenimiento, conservación, rehabilitación y remodelación de espacios públicos dedicados a la práctica del deporte, tales como unidades deportivas, canchas, gimnasios, parques, entre otros;
+
+III. Infraestructura educativa: la construcción, reconstrucción, ampliación, mantenimiento, conservación, rehabilitación y remodelación de las instalaciones físicas destinadas a los servicios públicos educativos, tales como bibliotecas, aulas, entre otros;
+
+IV. Infraestructura social: la construcción, reconstrucción, ampliación, mantenimiento, conservación, rehabilitación y remodelación de obra pública distintas a la infraestructura artística y cultural; deportiva; educativa; o vial y urbana, que reportan un beneficio socioeconómico para la población en el área de influencia del proyecto;
+
+V. Infraestructura vial y urbana: la pavimentación de calles y avenidas; el mantenimiento de vías; la construcción y rehabilitación de la red de agua potable; urbanización; ciclovías; puentes; alumbrado público; drenaje y alcantarillado, entre otros; y
+
+VI. Las demás construcciones, reconstrucciones, ampliaciones, mantenimientos, conservaciones, rehabilitaciones y remodelaciones de obra pública, a las que hagan referencia otras leyes, reglamentos y demás disposiciones normativas aplicables.
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
 
@@ -145,7 +161,7 @@ Cuando por las condiciones especiales de la obra se requiera la intervención de
 
 Previamente a la ejecución de las obras a que se refiere este artículo, se deberán establecer convenios donde se especifiquen los términos para la coordinación de las acciones de las dependencias y entidades que intervengan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 8o.
 
@@ -159,7 +175,7 @@ Lo anterior será sin perjuicio de las facultades que en materia de inventarios 
 
 ### CAPITULO II (SIC). DE LA PLANEACION, PROGRAMACION Y PRESUPUESTACION DE LA OBRA PUBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 9o.
 
@@ -202,8 +218,6 @@ XII.- Prever y considerar la coordinación con otras dependencias y entidades qu
 > <small>(ADICIONADA, P.O. 14 DE JULIO DE 1993)</small>
 
 XIII.- Prever y considerar los efectos y consecuencias sobre las condiciones ambientales, cuando éstas pudieran deteriorarse. Los proyectos deberán incluir, si ello fuere posible, lo necesario para que se preserven o restauren las condiciones ambientales y los procesos ecológicos;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
@@ -481,7 +495,7 @@ Las dependencias y entidades podrán suspender temporalmente, en todo o en parte
 
 La contratante podrá rescindir administrativamente los contratos de obra por razones de interés general o por contravención de los términos del contrato o de las disposiciones de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 41.
 
@@ -587,7 +601,7 @@ El titular de la dependencia o entidad, en un plazo que no excederá de diez dí
 
 ### CAPITULO VI. DE LA INFORMACION Y VERIFICACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 55.
 
@@ -655,7 +669,7 @@ Cuando proceda, la Contraloría y, en su caso, la SEOPC podrán proponer a la SE
 
 Si el infractor es un servidor público la Contraloría lo sancionará conforme a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-> <small>(REFORMADO, PRIMER PARRAFO, P.O. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 63.
 
@@ -683,7 +697,7 @@ II.- Transcurrido el término a que se refiere la fracción anterior, se resolve
 
 III.- La resolución será debidamente fundada y motivada, y se comunicará por escrito al afectado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 66.
 
@@ -703,7 +717,7 @@ ARTICULO (SIC) VIII
 
 DE LOS RECURSOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 69.
 
@@ -763,7 +777,7 @@ Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado de Campeche, a los treinta y un días del mes de agosto del año de mil novecientos ochenta y cuatro.- El Gobernador Constitucional del Estado, ING. EUGENIO ECHEVERRIA CASTELLOT.- El Secretario de Gobierno, LIC. PABLO GONZALEZ LASTRA.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 14 DE JULIO DE 1993.
 
@@ -798,5 +812,13 @@ P.O. 15 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 147 POR EL QUE "SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 45 DE LA LEY DE OBRAS PÚBLICAS DEL ESTADO DE CAMPECHE".]
 
 PRIMERO.- El presente decreto entrara en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 15 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 154 POR EL QUE "SE ADICIONA UN ARTÍCULO 2° BIS A LA LEY DE OBRAS PÚBLICAS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
