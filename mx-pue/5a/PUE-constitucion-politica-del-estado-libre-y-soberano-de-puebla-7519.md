@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2017-02-09"
+last_updated: "2017-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -359,9 +359,9 @@ IV.- La protección de las víctimas de los delitos y de quienes carezcan de ins
 
 V.- La atención de la salud de los habitantes del Estado, la promoción de una vida adecuada que asegure el bienestar de las personas y la satisfacción de las necesidades de instrucción y alimentación de las niñas y los niños;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-VI.- Establecer el derecho que tiene toda persona al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado conforme a las leyes regulará las bases y modalidades para el acceso y uso equitativo y sustentable de este recurso natural;
+VI. Proteger el derecho que tiene toda persona al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
@@ -3536,3 +3536,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+P.O. 15 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA DEL DECRETO QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+TERCERO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de las disposiciones constitucionales aplicables y forma parte de la Constitución Política del Estado Libre y Soberano de Puebla.
