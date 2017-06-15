@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2017-01-14"
+last_updated: "2017-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -96,6 +98,10 @@ Son habitantes del Estado, todas las personas que radiquen en su territorio.
 El Estado tiene la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. Todos los habitantes del estado gozarán sea cual fuere su condición:
 
 I. La más estricta igualdad ante las leyes, sin otras diferencias que las que resulten de la condición natural o jurídica de las personas.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2017)</small>
+
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -326,6 +332,10 @@ La etapa de juicio oral se celebrará ante un Juez o Tribunal que no haya conoci
 ###### Art. 8.
 
 Las leyes establecerán las sanciones correspondientes a los atentados en contra de estos derechos los cuales tienen como límites el interés legítimo del Estado y los derechos iguales de los demás hombres, según se encuentran formulados en esta Constitución, en la de la República y en las leyes secundarias.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2017)</small>
+
+Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y con los tratados internacionales de la materia favoreciendo en todo tiempo a las personas la protección más amplia.
 
 ###### Art. 9.
 
@@ -1725,23 +1735,57 @@ Ejerce las funciones de Ministerio Público en el Estado el Fiscal General, quie
 
 El Fiscal General será designado y removido conforme a lo siguiente:
 
-I. A partir de la ausencia definitiva del Fiscal General, el Congreso del Estado contará con veinte días para integrar una lista de al menos diez candidatos al cargo, aprobada por las dos terceras partes de los miembros presentes, la cual enviará al Ejecutivo Estatal.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-Si el Ejecutivo no recibe la lista en el plazo antes señalado, enviará libremente al Congreso una terna y designará provisionalmente al Fiscal General, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General designado podrá formar parte de la terna.
+I. El plazo para desarrollar el proceso para la designación del Fiscal General nunca será menor de cuarenta y cinco días.
 
-II. Recibida la lista a que se refiere la fracción anterior, dentro de los diez días siguientes el Ejecutivo formulará una terna y la enviará a la consideración del Congreso.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
 
-III. El Congreso, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
+II. Para la designación por culminación de periodo del Fiscal General se deberá atender a lo siguiente:
 
-En caso de que el Ejecutivo no envíe la terna a que se refiere la fracción anterior, el Congreso tendrá diez días para designar al Fiscal General de entre los candidatos de la lista que señala la fracción I.
+1. Durante los primeros quince días del cuarto mes, previo a la culminación del periodo, el Congreso emitirá convocatoria pública abierta para el registro de aspirantes.
 
-Si el Congreso no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará al Fiscal General de entre los candidatos que integren la lista o, en su caso, la terna respectiva.
+2. El Congreso contará con un plazo de cuarenta y cinco días para integrar una lista de diez candidatos al cargo, aprobada por las dos terceras partes de los miembros presentes, la cual enviará al titular del Ejecutivo Estatal.
 
-IV. El Fiscal General podrá ser removido por el Ejecutivo del Estado por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes del Congreso del Estado dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción.
+En el supuesto de que no se alcance la mayoría calificada en segunda votación, el Congreso aprobará la lista en una tercera votación con la mayoría de los miembros presentes. Al menos una tercera parte de los miembros presentes podrá vetar hasta a una tercera parte de los integrantes de la lista aprobada.
 
-V. En los recesos del Congreso, la Comisión Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción del Fiscal General.
+El titular del Ejecutivo no podrá proponer dentro de la terna a los candidatos vetados.
 
-VI. Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+III. El proceso y la convocatoria para la designación del Fiscal General deberá contener, al menos, las etapas de acreditación de requisitos, evaluación de conocimientos, control de confianza y escrutinio social. La convocatoria establecerá los mecanismos para desahogar cada una de las etapas.
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+IV. Una vez recibida la lista de candidatos, el titular del Ejecutivo Estatal contará con diez días para enviar una terna al Congreso. En caso de que el ejecutivo no envíe la terna, el Congreso procederá a la designación del Fiscal General de entre los candidatos de la lista aprobada.
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+V. Recibida la terna o excedido el plazo para la remisión de la terna, el Congreso designará, dentro de un plazo no mayor a quince días, por el voto de las dos terceras partes de los miembros presentes, al Fiscal General para el periodo que corresponda.
+
+Si en segunda votación no se alcanza la mayoría calificada, el Congreso procederá a la designación con la votación de la mayoría de los miembros presentes. Previo a la tercera votación, al menos una tercera parte de los miembros presentes podrá vetar a una de las personas propuestas en la terna o de la lista.
+
+No podrá ser designado Fiscal General quien haya sido vetado, salvo que se elija por unanimidad de los presentes.
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
+
+VI. Para la designación por ausencia definitiva declarada por el Congreso, se deberá emitir convocatoria pública abierta dentro de los quince días siguientes a la declaración de ausencia, y posterior a ello, seguirá el procedimiento señalado en las fracciones II, III, IV y V del presente artículo.
+
+Cuando la ausencia definitiva del Fiscal General ocurra durante los primeros dos años de ejercicio, se convocará para un nuevo periodo. Si ocurre durante el tercer año y hasta un día antes del último año, se convocará para culminar el periodo. Si ocurre durante del (sic) último año, será fiscal, quien por ministerio de ley deba de suplir las ausencias. En este caso, el Presidente del Congreso notificará al suplente por ministerio de ley, la designación de Fiscal General, por disposición constitucional.
+
+En ninguno caso, quien haya sido designado Fiscal General, podrá ser nombrado para un nuevo periodo, salvo el último de los supuestos establecidos en el párrafo anterior.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
+
+VII. El Fiscal General podrá ser removido por causas graves o suficientes por el Congreso del Estado, a petición de al menos una tercera parte de éste o del titular del Ejecutivo Estatal. El Congreso solicitará al Pleno del Tribunal Superior de Justicia para que califique las causas como procedentes o suficientes. Si el pleno califica como procedente (sic) las causas de remoción, el Congreso podrá remover al Fiscal General por el voto de la mayoría de los presentes. En caso de que la causa no sea suficiente o se declare improcedente, el Congreso únicamente podrá realizar la remoción por votación de las tres cuartas partes de los miembros presentes.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
+
+VIII. Las ausencias del Fiscal General serán suplidas o sustituidas, según corresponda, por el servidor público que determine la ley de la materia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2017)</small>
+
+IX. En los recesos del Congreso, la Diputación Permanente convocará de inmediato a periodo extraordinario para la designación o la remoción del Fiscal General.
 
 El Fiscal General presentará anualmente al Poder Legislativo del Estado un informe de actividades. Comparecerá ante dicho Poder cuando se le cite a rendir cuentas o a informar sobre su gestión.
 
@@ -1822,8 +1866,6 @@ Todo servidor público o autoridad está obligado a responder las recomendacione
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2012)</small>
 
 La Comisión de Defensa de los Derechos Humanos del Estado de Nayarit; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propio; tendrá un Consejo Consultivo integrado por el número de consejeros que fije la ley los cuales serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados o, en sus recesos, por la Diputación Permanente, con la misma votación. La integración de las propuestas por parte del Congreso para la elección de los integrantes del Consejo Consultivo, se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2012)</small>
 
@@ -2339,13 +2381,9 @@ También se reputarán como servidores públicos a quienes desempeñen cargo de 
 
 Dichos servidores públicos serán responsables por el manejo indebido de recursos públicos y la deuda pública.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO OCTAVO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2016)</small>
 
 Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses ante las autoridades competentes y en los términos que determine la ley.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO OCTAVO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2016)</small>
 
@@ -2359,15 +2397,11 @@ I. Se impondrán mediante juicio político las sanciones indicadas en el artícu
 
 No procede el juicio político por la mera expresión de ideas.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO OCTAVO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
 II. La comisión de delitos por parte de cualquier servidor público o particulares que incurran en hechos de corrupción, será sancionada en los términos de la Legislación Penal aplicable.
 
 Las Leyes determinarán casos y circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona aumenten su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO OCTAVO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
@@ -2380,8 +2414,6 @@ Para la investigación, substanciación y sanción de las responsabilidades admi
 La ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control.
 
 Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que, en el ámbito de su competencia pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción a que se refiere esta Constitución.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO OCTAVO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
@@ -2469,8 +2501,6 @@ No se requerirá declaración de procedencia del Congreso del Estado cuando algu
 
 Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 124, se procederá de acuerdo con lo dispuesto en dicho precepto.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO OCTAVO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 127.
@@ -2502,8 +2532,6 @@ Derivado de este informe, podrá emitir recomendaciones no vinculantes a las aut
 El procedimiento de juicio político solo podrá iniciarse durante el período en que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
 La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hace referencia el artículo 124.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO OCTAVO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
 
@@ -3912,3 +3940,15 @@ Tercero.- Los bienes, recursos materiales y financieros con que actualmente cuen
 Cuarto.- Dentro de los seis meses contados a partir de la entrada en vigencia del presente Decreto se deberá expedir y adecuar la normativa correspondiente, conforme a las previsiones en el mismo contenidas.
 
 Quinto.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
+
+P.O. 15 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, sin perjuicio de lo previsto en los transitorios siguientes.
+
+Segundo.- Para la designación del Fiscal General a partir de la presente reforma, el Congreso tendrá hasta ciento veinte días para iniciar el procedimiento de designación. Quien deba suplir las faltas temporales o ausencias del Fiscal General por ministerio de ley, contará con todas la (sic) atribuciones, incluso las indelegables, para el debido funcionamiento del cargo, en tanto se designa el definitivo.
+
+Tercero.- Para los efectos de lo establecido en el presente Decreto en los artículos 7 y 8 de esta Constitución, los titulares de las dependencias y entidades estatales y municipales deberán acreditar antes los Órganos Internos de Control en el plazo de un año, la promoción y capacitación de los servidores públicos sobre la aplicación e interpretación del principio pro persona. Las capacitaciones deberán constar en audio y video. El incumplimiento será sancionado conforme a la ley aplicable en materia de responsabilidades. Los Órganos Internos de Control deberán notificar el cumplimiento o incumplimiento de las dependencias o entidades respectivas al Congreso del Estado.
+
+Cuarto.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
