@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-turismo-del-estado-de-queretaro-69508"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2017-02-10"
+last_updated: "2017-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE TURISMO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -89,11 +89,17 @@ VII. Turismo: las actividades que se realizan a fin de ofrecer bienes y servicio
 
 VIII. Turismo cultural: viaje turístico motivado por conocer, comprender y disfrutar el conjunto de rasgos y elementos distintivos, espirituales y materiales, intelectuales y afectivos que caracterizan a una sociedad o grupo social como destino específico;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2017)</small>
 
-IX. Turismo de reuniones y negocios: actividad turística, encaminada a impulsar y promover en la Entidad, la realización de actividades vinculadas con aspectos tales como mercadeo o actividades laborales, profesionales o económicas con diferentes propósitos, que requieren infraestructura y servicios específicos para su realización, para distinto número de participaciones; y
+IX. Turismo de reuniones y negocios: actividad turística, encaminada a impulsar y promover en la Entidad, la realización de actividades vinculadas con aspectos tales como mercadeo o actividades laborales, profesionales o económicas con diferentes propósitos, que requieren infraestructura y servicios específicos para su realización, para distinto número de participaciones;
 
-X. Turista: la persona nacional o extranjera, que viaja, trasladándose temporalmente fuera de su domicilio o residencia habitual y que contrata o utiliza cualquiera de los servicios a que se refiere esta Ley u otros ordenamientos legales aplicables.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2017)</small>
+
+X. Turista: la persona nacional o extranjera, que viaja, trasladándose temporalmente fuera de su domicilio o residencia habitual y que contrata o utiliza cualquiera de los servicios a que se refiere esta Ley u otros ordenamientos legales aplicables; y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2017)</small>
+
+XI. UMA: El valor diario de la Unidad de Medida y Actualización que calcule y dé a conocer a través de su publicación en el Diario Oficial de la Federación, el Instituto Nacional de Estadística y Geografía, en términos de lo dispuesto por los artículos 26 apartado B último párrafo de la Constitución Política de los Estados Unidos Mexicanos y 23 fracción XX Bis del Reglamento Interior del Instituto Nacional de Estadística y Geografía.
 
 ###### Artículo 4.
 
@@ -701,13 +707,19 @@ La Procuraduría Federal de Protección al Consumidor, se encargará de imponer 
 
 Por violaciones a esta Ley, la Secretaría podrá imponer las siguientes sanciones:
 
-I. Por incumplir con lo dispuesto en el artículo 41 fracciones III, V, X y XI y 43 primer párrafo, se impondrá multa hasta por quinientas veces el salario mínimo general diario vigente en la zona;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2017)</small>
 
-II. Por incumplir con lo dispuesto en los reglamentos que regulan los servicios turísticos a que se refieren las fracciones II y III del artículo 4, 41 fracción II y 44, se impondrá multa hasta por mil veces el salario mínimo general diario vigente en la zona; y
+I. Por incumplir con lo dispuesto en el artículo 41, fracciones III, V, X y XI y 43, primer párrafo, se impondrá multa hasta por quinientas veces la UMA;
 
-III. Por incumplir a lo establecido por los artículos 39, 41 fracciones VI y XII y 43 segundo párrafo, serán sancionados con multa hasta por tres mil veces el salario mínimo diario vigente en Querétaro.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2017)</small>
 
-Cuando se imponga al prestador de servicios turísticos alguna sanción pecuniaria expresada en salarios mínimos, éste se entenderá como el vigente en la zona económica a la que pertenece la Entidad, en la fecha en que fue cometida la infracción.
+II. Por incumplir con lo dispuesto en los reglamentos que regulan los servicios turísticos a que se refieren las fracciones II y III del artículo 4, 41, fracción II y 44, se impondrá multa hasta por mil veces la UMA; y
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2017)</small>
+
+III. Por incumplir a lo establecido por los artículos 39, 41, fracciones VI y XII y 43, segundo párrafo, serán sancionados con multa hasta por tres mil veces la UMA.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE JUNIO DE 2017)</small>
 
 ###### Artículo 65.
 
@@ -812,5 +824,13 @@ P.O. 10 DE FEBRERO DE 2017.
 ## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE TURISMO DEL ESTADO DE QUERÉTARO”.]
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 16 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE TURISMO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
