@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-y-atencion-del-migrante-y-sus-104607"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-26"
-last_updated: "2014-12-26"
+last_updated: "2017-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY PARA LA PROTECCION Y ATENCION DEL MIGRANTE Y SUS FAMILIAS DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN Y ATENCIÓN DEL MIGRANTE Y SUS FAMILIAS DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 16 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA PROTECCIÓN Y ATENCIÓN DEL MIGRANTE Y SUS FAMILIAS DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2017 (ABROGADO).
 
 Ley publicada en la Decima Séptima Parte del Periódico Oficial del Estado de Guanajuato, el viernes 26 de diciembre de 2014.
 
@@ -247,7 +249,7 @@ II. Coordinar a las diferentes dependencias y entidades de la administración p�
 
 III. Establecer o promover mecanismos de evaluación de las políticas públicas en materia de migración de los guanajuatenses;
 
-IV. Diseñar e implementar, con el apoyo de la Secretaría de Gobierno del Estado, un programo de respeto a los derechos humanos de los migrantes:
+IV. Diseñar e implementar, con el apoyo de la Secretaría de Gobierno del Estado, un programa de respeto a los derechos humanos de los migrantes:
 
 V. Celebrar convenios con la Federación, entidades federativas, así como con organismos públicos y privados para promover acciones que conlleven al mejoramiento de las condiciones de vida de los migrantes;
 
@@ -311,7 +313,7 @@ Los ayuntamientos tendrán las siguientes atribuciones:
 
 I. Coadyuvar con la autoridad federal y estatal en la implementación de los programas y acciones en favor de los migrantes y sus familias;
 
-II. Formular y desarrollar programas de atención a los migrantes y sus familias, en el marco de la política nacional y estatal conforme a los principios y objetivos de los planes de desarrollo federal, estatal y municipal;
+II. Formular y desarrollar programas de atención a los migrantes y sus familias, en el marco de la política nacional y estatal, conforme a los principios y objetivos de los planes de desarrollo federal, estatal y municipal;
 
 III. Promover, fomentar, difundir y defender el ejercicio de los derechos de los migrantes y sus familias, así como el cumplimiento de las obligaciones de los responsables de éstas; y
 
@@ -335,7 +337,7 @@ Generación de políticas públicas
 
 ###### Artículo 19.
 
-En la generación de las políticas públicas a cargo de la Administración Pública Estatal y Municipal conforme a sus respectivos ámbitos de competencia, se observará como criterio obligatorio el reconocer, promover y garantizar los derechos establecidos en la presente Ley.
+En la generación de las políticas públicas a cargo de la Administración Pública Estatal y Municipal, conforme a sus respectivos ámbitos de competencia, se observará como criterio obligatorio el reconocer, promover y garantizar los derechos establecidos en la presente Ley.
 
 Objetivos de los programas
 
@@ -448,3 +450,21 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 191, APROBADO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE EXPIDE LA LEY PARA LA PROTECCIÓN Y ATENCIÓN DEL MIGRANTE Y SUS FAMILIAS DEL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Adecuaciones normativas
+
+Artículo Segundo. El Ejecutivo del Estado y los Ayuntamientos deberán realizar las correspondientes adecuaciones normativas dentro de los 90 días siguientes a la entrada en vigor del presente Decreto.
+
+Abrogación de la Ley para la Protección y Atención del Migrante y sus Familias del Estado de Guanajuato
+
+Artículo Tercero. Se abroga la Ley para la Protección y Atención del Migrante y sus Familias del Estado de Guanajuato, expedida mediante decreto número 265, publicado el 26 de Diciembre de 2014 en el Periódico Oficial del Gobierno del Estado de Guanajuato número 206, Decima Séptima Parte.
