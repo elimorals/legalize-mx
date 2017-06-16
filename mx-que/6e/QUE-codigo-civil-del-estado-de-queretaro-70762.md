@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2017-04-21"
+last_updated: "2017-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -1349,13 +1349,23 @@ El socio administrador está obligado a solicitar la manifestación de voluntad 
 
 La suspensión de la sociedad conyugal procede:
 
-I. Por separación de los cónyuges a causa de un hecho generador de una causal de divorcio necesario, el que tendrá que ser probado en la sentencia de divorcio. Los efectos de la sociedad conyugal cesarán, para el cónyuge culpable, en cuanto le favorezcan; éstos no podrán comenzar de nuevo sino por convenio expreso;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2017)</small>
+
+I. Por el abandono del domicilio conyugal de uno de los cónyuges por más de seis meses sin causa justificada; haciendo cesar para este, los efectos de la sociedad conyugal desde el día del abandono;
 
 II. La declaración de ausencia interrumpe la sociedad conyugal, y hace cesar para él, a partir de que cause ejecutoria la sentencia que así lo haya declarado y ésta quedará restaurada si el cónyuge ausente regresa o se probare su existencia.
 
-En el caso de ausencia declarada judicialmente o de incapacidad sobrevenida, sólo podrá comprometerse el fondo social mediante autorización judicial; y
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2017)</small>
 
-III. Cuando el divorcio se determine por lo establecido en el artículo 246 fracción XVII, los derechos se suspenderán a partir de la separación de los cónyuges y respecto de los bienes que se adquieran con posterioridad a la misma.
+En el caso de ausencia declarada judicialmente o de incapacidad sobrevenida, sólo podrá comprometerse el fondo social mediante autorización judicial;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2017)</small>
+
+III. Cuando la separación de los cónyuges sea por más de dos años, independientemente de la causa, los derechos de la sociedad conyugal se suspenderán a partir de la separación de los cónyuges y respecto de los bienes que se adquieran con posterioridad a la misma; y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2017)</small>
+
+IV. Por el incumplimiento injustificado de las obligaciones alimentarias entre los cónyuges; en este supuesto la suspensión procede a partir de que dejaron de proporcionarse.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -15943,7 +15953,17 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 
 P.O. 21 DE ABRIL DE 2017.
 
-## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA EL ARTÍCULO 74 DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO".]
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 74 DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 16 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE "LEY QUE REFORMA EL ARTÍCULO 182 DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO".]
 
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
