@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-contrataciones-publicas-para-el-estado-de-guanajuato-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-26"
-last_updated: "2016-07-01"
+last_updated: "2017-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE CONTRATACIONES PÚBLICAS PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2017.
 
 Ley publicada en la Décima Quinta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 26 de diciembre de 2014.
 
@@ -1639,6 +1639,10 @@ Multa e inhabilitación
 
 Los licitantes, postores o proveedores que cometan las infracciones contenidas en el artículo 125 de esta ley, serán sancionados con una multa por un importe equivalente de veinte a quinientas veces la Unidad de Medida y Actualización diaria elevada al mes, e inhabilitación temporal para participar en los procedimientos de contratación y celebrar contratos por el periodo de tres meses a cinco años. Lo sanción que se imponga deberá ser proporcional al costo de la prestación contratada.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2017)</small>
+
+Cuando los licitantes, postores o proveedores, injustificadamente y por causas imputables a los mismos, no formalicen contratos cuyo monto no exceda de cincuenta veces la Unidad de Medida y Actualización diaria elevada al mes, serán sancionados con una multa por un importe equivalente de diez hasta cuarenta y cinco veces la Unidad de Medida y Actualización diaria elevada al mes vigente al momento de la infracción.
+
 Tratándose de reincidencia se impondrá una multa por un monto de hasta el doble de la impuesta con anterioridad, sin perjuicio de la inhabilitación antes referida.
 
 Cuantificación de sanciones
@@ -2068,3 +2072,9 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 192, APROBADO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 127, RECORRIÉNDOSE EL ACTUAL SEGUNDO PÁRRAFO PARA QUEDAR COMO PÁRRAFO TERCERO DE LA LEY DE CONTRATACIONES PÚBLICAS PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
