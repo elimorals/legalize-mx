@@ -4,7 +4,7 @@ identifier: "QUE-codigo-urbano-del-estado-de-queretaro-88087"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-05-31"
-last_updated: "2017-06-02"
+last_updated: "2017-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO URBANO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 31 de mayo de 2012.
 
@@ -33,7 +33,9 @@ LIC. JOSÉ EDUARDO CALZADA ROVIROSA, Gobernador Constitucional del Estado de Que
 
 LA QUINCUAGÉSIMA SEXTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Que en atención a lo anteriormente expuesto, la Quincuagésima Sexta Legislatura del Estado de Querétaro expide el siguiente:
 
@@ -1951,7 +1953,13 @@ Para el caso de ampliación de etapa de un desarrollo inmobiliario, en la modali
 
 Se entiende por fraccionamiento la división de un terreno en lotes, cuando para dar acceso a éstos, se requieran una o más calles que conformarán vías de comunicación locales y éstas, a su vez, se comuniquen con una vía de jurisdicción federal, estatal o municipal.
 
-Las calles o vialidades locales que se generen al interior de un fraccionamiento, tendrán el carácter de vías públicas de libre acceso a la población, las que deberán ser transmitidas gratuitamente por el desarrollador en favor del Municipio que corresponda, mediante escritura pública, inscrita en el Registro Público de la Propiedad y del Comercio.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2017)</small>
+
+Las calles o vialidades locales que se generen al interior de un fraccionamiento, tendrán el carácter de vías públicas de libre acceso a la población y deberán ser transmitidas gratuitamente por el desarrollador en favor del Municipio que corresponda, mediante escritura pública, inscrita en el Registro Público de la Propiedad y del Comercio del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2017)</small>
+
+En caso de establecer casetas de vigilancia con controles de acceso al fraccionamiento, deberán contar con el permiso o licencia correspondiente por parte del municipio y deberán ser transmitidas al municipio bajo la misma modalidad que establece el párrafo anterior.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
@@ -1959,9 +1967,13 @@ Las calles o vialidades locales que se generen al interior de un fraccionamiento
 
 En los lotes generados por la autorización de un fraccionamiento, podrán edificarse condominios, siempre y cuando, el desarrollador así lo establezca en los estudios técnicos correspondientes a la autorización del fraccionamiento, precisándolo en el anteproyecto de lotificación y cumplan con las disposiciones establecidas en este Código para su constitución.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2017)</small>
+
 ###### Artículo 180.
 
-En las vías públicas de los fraccionamientos, no se permitirá la construcción de bardas, cercas o el funcionamiento de accesos limitados o controlados.
+En las vías públicas de los fraccionamientos, el municipio podrá otorgar permiso o licencia correspondiente para la construcción e instalación de casetas de vigilancia y controles de acceso; la reglamentación municipal establecerá, los requisitos y condicionantes para la obtención y formas de tramitación de los permisos o licencias correspondientes, además de los aspectos técnicos que deberán de cumplir, usos de suelo, tipo de zona urbana, así como las condicionantes, prohibiciones, infracciones y sanciones.
+
+Para el presente caso, los fraccionamientos, no podrán limitar, impedir o consolidar el acceso libre a la población o a cualquier autoridad administrativa o judicial, ya sea de la Federación, Estado o Municipio, por lo que, de darse tal situación, será suficiente motivo para revocar el permiso o licencia otorgado
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
@@ -5356,3 +5368,13 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. El titular del Poder Ejecutivo del Estado, deberá emitir el Reglamento de uso, ocupación y aprovechamiento del derecho de vía en Carreteras Estatales.
+
+P.O. 16 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LOS ARTÍCULOS 178 Y 180 DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
