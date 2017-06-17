@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-instituto-de-las-mujeres-del-estado-de-san-luis-25507"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-14"
-last_updated: "2013-04-06"
+last_updated: "2017-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL INSTITUTO DE LAS MUJERES, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de marzo de 2002.
 
@@ -63,9 +63,9 @@ Para los efectos de esta Ley se entiende por:
 
 I. Instituto: El Instituto de las Mujeres, del Estado de San Luis Potosí;
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
 
-II. Equidad: El principio conforme al cual hombres y mujeres acceden con justicia e igualdad al uso, control y beneficio de los bienes y servicios de la sociedad, con la finalidad de lograr la participación equitativa de hombres y mujeres en la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar, y
+II. Igualdad: El principio conforme al cual hombres y mujeres acceden con justicia e igualdad al uso, control y beneficio de los bienes y servicios de la sociedad, con la finalidad de lograr la participación equitativa de hombres y mujeres en la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar, y
 
 III. Transversalidad: La manera integradora en que deben operarse los programas y acciones del Instituto con las distintas dependencias de la administración pública.
 
@@ -117,23 +117,35 @@ El Instituto tiene las siguientes atribuciones:
 
 I. Proponer al Ejecutivo el diseño de la política del Estado dirigida a lograr la igualdad de oportunidades y derechos de hombres y mujeres, de acuerdo a los planes Estatal y Nacional de Desarrollo, ejecutar las acciones necesarias para su cumplimiento y evaluar sistemáticamente el impacto de su aplicación;
 
-II. Formular, dar seguimiento y evaluar las políticas y acciones implementadas por las instituciones del Estado, destinadas a asegurar la equidad entre hombres y mujeres;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
 
-III. Realizar estudios e investigaciones en forma permanente para instrumentar políticas públicas que tomen en cuenta las condiciones sociales de mujeres y hombres para propiciar la equidad entre ambos;
+II. Formular, dar seguimiento y evaluar las políticas y acciones implementadas por las instituciones del Estado, destinadas a asegurar la igualdad entre hombres y mujeres;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
+
+III. Realizar estudios e investigaciones en forma permanente para instrumentar políticas públicas que tomen en cuenta las condiciones sociales de mujeres y hombres para propiciar la igualdad entre ambos;
 
 IV. Instrumentar un sistema de información, registro, seguimiento y evaluación de las condiciones sociales, políticas, económicas y culturales de mujeres y hombres en los distintos ámbitos de la sociedad;
 
 V. Proponer al titular del Ejecutivo el Programa Anual del Instituto, en el que se incluyan las políticas públicas, programas, servicios estatales y regionales dirigidos al cumplimiento de los objetivos planteados en el artículo 7° de la presente Ley;
 
-VI. Evaluar permanentemente la magnitud de los problemas relacionados con la equidad entre mujeres y hombres, los recursos con los que cuenta el Estado para su solución, de manera conjunta con otras dependencias y entidades relacionadas para atender dichos problemas;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
 
-VII. Fortalecer la colaboración interinstitucional entre las dependencias y entidades de los tres ámbitos de gobierno, para que conforme a sus competencias, ejecuten los programas y acciones encomendadas a promover el desarrollo de la equidad entre hombres y mujeres;
+VI. Evaluar permanentemente la magnitud de los problemas relacionados con la igualdad entre mujeres y hombres, los recursos con los que cuenta el Estado para su solución, de manera conjunta con otras dependencias y entidades relacionadas para atender dichos problemas;
 
-VIII. Crear vínculos con las organizaciones de cooperación técnica y financiera, estatales y nacionales, que apoyen proyectos dirigidos a la equidad entre hombres y mujeres para procurar el logro de sus objetivos;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
+
+VII. Fortalecer la colaboración interinstitucional entre las dependencias y entidades de los tres ámbitos de gobierno, para que conforme a sus competencias, ejecuten los programas y acciones encomendadas a promover el desarrollo de la igualdad entre hombres y mujeres;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
+
+VIII. Crear vínculos con las organizaciones de cooperación técnica y financiera, estatales y nacionales, que apoyen proyectos dirigidos a la igualdad entre hombres y mujeres para procurar el logro de sus objetivos;
 
 IX. Canalizar a las autoridades responsables de los servicios de capacitación y asesoría, los estudios que propicien orientación general para el financiamiento y apoyo necesario para el desarrollo de los mismos, a las organizaciones que así lo requieran;
 
-X. Realizar conjuntamente con las autoridades educativas las acciones necesarias para fomentar la cultura de la equidad entre hombres y mujeres en todos los niveles de educación;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
+
+X. Realizar conjuntamente con las autoridades educativas las acciones necesarias para fomentar la cultura de la igualdad entre hombres y mujeres en todos los niveles de educación;
 
 XI. Promover ante las autoridades que corresponda, las medidas y acciones necesarias que contribuyan a garantizar el acceso, permanencia o reingreso de las mujeres en todos los niveles y modalidades del sistema educativo, así como desarrollar campañas para crear en la sociedad la conciencia sobre la importancia de permitir el acceso de las mujeres a la educación;
 
@@ -143,13 +155,17 @@ XII. Realizar convenios con las autoridades competentes para asegurar que en mat
 
 XIII. Realizar campañas preventivas en contra de la violencia hacia las mujeres y la violencia familiar, en las que participen autoridades y sociedad;
 
-XIV. Realizar a través de medios de difusión, campañas que fomenten la cultura de equidad entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
+
+XIV. Realizar a través de medios de difusión, campañas que fomenten la cultura de igualdad entre mujeres y hombres;
 
 XV. Revisar el marco legal del Estado y promover en su caso, las iniciativas de ley o reforma necesarias, para garantizar la igualdad de derechos y oportunidades de desarrollo para hombres y mujeres en el Estado y erradicar en la ley toda forma de discriminación;
 
 XVI. Establecer vínculos de colaboración con los municipios para promover y apoyar las políticas, programas y acciones en materia de igualdad de oportunidades;
 
-XVII. Actuar como órgano de consulta, capacitación y asesoría de las dependencias y entidades de la administración pública, así como de los poderes Legislativo y Judicial, de los municipios y de los sectores social y privado, en materia de equidad entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
+
+XVII. Actuar como órgano de consulta, capacitación y asesoría de las dependencias y entidades de la administración pública, así como de los poderes Legislativo y Judicial, de los municipios y de los sectores social y privado, en materia de igualdad entre mujeres y hombres;
 
 XVIII. Impulsar la vinculación de los lineamientos del Programa Anual del Instituto en los programas de cada dependencia y entidad de la administración pública del Estado, así como en el de los sectores en general vinculados con estos instrumentos, con base en el principio de transversalidad;
 
@@ -157,7 +173,9 @@ XIX. Establecer la coordinación con las dependencias competentes, para propicia
 
 XX. Difundir y publicar obras relacionadas con la materia objeto de esta Ley;
 
-XXI. Difundir información de carácter gratuito y alcance estatal sobre la equidad entre hombres y mujeres;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
+
+XXI. Difundir información de carácter gratuito y alcance estatal sobre la igualdad entre hombres y mujeres;
 
 > <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
 
@@ -291,15 +309,17 @@ VIII. Autorizar en su caso, las delegaciones representativas del Instituto en lo
 
 IX. Coadyuvar en la formación de los programas operativos anuales del Instituto y colaborar con los sistemas de evaluación, seguimiento y control de información;
 
-X. Participar en el análisis, discusión y valoración de los proyectos desarrollados en materia de equidad entre mujeres y hombres, identificando el impacto de los mismos y buscando adecuar y coordinar las funciones desarrolladas por las dependencias que los miembros de la Junta Directiva dirigen y/o representan;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
+
+X. Participar en el análisis, discusión y valoración de los proyectos desarrollados en materia de igualdad entre mujeres y hombres, identificando el impacto de los mismos y buscando adecuar y coordinar las funciones desarrolladas por las dependencias que los miembros de la Junta Directiva dirigen y/o representan;
 
 > <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
 
 XI. Otorgar a favor de la titular de la Dirección, la representación legal del Instituto con todas las facultades que correspondan al mandato general para pleitos y cobranzas, actos de administración y de dominio, así como las que requieran cláusula especial en los términos del Código Civil para el Estado de San Luis Potosí;
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
 
-XII. Recibir las recomendaciones de la Directora General del Instituto, o del Consejo Consultivo y Social, para mejorar las políticas, programas o proyectos que en materia de equidad entre mujeres y hombres sean establecidos por las dependencias que los miembros de la Junta Directiva dirigen y/o representan;
+XII. Recibir las recomendaciones de la Directora General del Instituto, o del Consejo Consultivo y Social, para mejorar las políticas, programas o proyectos que en materia de igualdad entre mujeres y hombres sean establecidos por las dependencias que los miembros de la Junta Directiva dirigen y/o representan;
 
 > <small>(REFORMADA, P.O. 11 DE JUNIO DE 2009)</small>
 
@@ -357,9 +377,9 @@ IV. Haber desempeñado cargos de nivel directivo, cuyo ejercicio requiera conoci
 
 V. Ser una persona reconocida por su labor en la defensa de los derechos de las mujeres, así como contar con experiencia en actividades relacionadas con la promoción de la igualdad de género.
 
-> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2017)</small>
 
-ARTICULO 22 bis. La Directora General del Instituto durará en su encargo tres años a partir de su nombramiento; pudiendo ser ratificada por la Junta Directiva por un período más, con el propósito de dar continuidad a los planes en favor de la equidad.
+ARTICULO 22 BIS. La Directora General del Instituto durará en su encargo tres años a partir de su nombramiento; pudiendo ser ratificada por la Junta Directiva por un período más, con el propósito de dar continuidad a los planes en favor de la igualdad.
 
 ###### ARTICULO 23.
 
@@ -441,11 +461,11 @@ XI. Desempeñar las demás funciones que establezca el Reglamento Interno del In
 
 ### CAPITULO VII. Del Consejo Consultivo y Social
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 25.
 
-El Instituto cuenta con un Consejo Consultivo y Social que funciona como órgano asesor en materia de equidad entre mujeres y hombres, y como promotor de las acciones del Instituto.
+El Instituto cuenta con un Consejo Consultivo y Social que funciona como órgano asesor en materia de igualdad entre mujeres y hombres; y como promotor de las acciones del Instituto.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2009)</small>
 
@@ -483,13 +503,17 @@ I. Asesorar a la Junta Directiva, y a la Directora del Instituto, en la formulac
 
 II. Proponer medidas para impulsar y favorecer la participación de los sectores interesados en las acciones relacionadas con el objeto de esta Ley;
 
-III. Proponer mecanismos para apoyar la formación y el fortalecimiento de las organizaciones que tengan por objeto acciones a favor de la equidad entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
+
+III. Proponer mecanismos para apoyar la formación y el fortalecimiento de las organizaciones que tengan por objeto acciones a favor de la igualdad entre mujeres y hombres;
 
 IV. Dar seguimiento a las políticas, programas, proyectos y acciones que emprenda el Instituto en cumplimiento de la presente Ley y demás disposiciones legales que le corresponda, y proponer, en su caso, las modificaciones tendentes a perfeccionarlas;
 
 V. Atender las solicitudes de consulta o asesoría que le formulen la Junta Directiva, o la Directora del Instituto, relacionadas con la naturaleza de sus funciones;
 
-VI. Hacer llegar en todo tiempo al Instituto, para su atención, la información y planteamiento de problemas concretos que deriven de situaciones de discriminación o inequidad por cuestiones propias del género de las personas en la Entidad, y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
+
+VI. Hacer llegar en todo tiempo al Instituto, para su atención, la información y planteamiento de problemas concretos que deriven de situaciones de discriminación o desigualdad por cuestiones propias del género de las personas en la Entidad, y
 
 VII. Coadyuvar con la Junta Directiva en la formulación de los indicadores de desempeño del Instituto.
 
@@ -604,3 +628,11 @@ P.O. 6 DE ABRIL DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 17 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0660.- SE REFORMAN LOS ARTÍCULOS 13, 19, 21 Y 29 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN (SIC) 5°, 9°, 17, 22 BIS, 25, Y 29 DE LA LEY DEL INSTITUTO DE LAS MUJERES DEL ESTADO DE SAN LUÍS POTOSÍ; SE REFORMA EL ARTÍCULO 23 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMAN LOS ARTÍCULOS 98 Y 103 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUÍS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
