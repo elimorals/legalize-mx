@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2017-03-28"
+last_updated: "2017-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1071,7 +1071,9 @@ III. Asuntos Migratorios;
 
 IV. Comunicaciones y Transportes;
 
-V. Derechos Humanos, Equidad y Género;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
+
+V. Derechos Humanos, Igualdad y Género;
 
 VI. Desarrollo Económico;
 
@@ -1191,9 +1193,11 @@ V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
 VI. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 103.
 
-A la Comisión de Derechos Humanos, Equidad y Género, competen los siguientes asuntos:
+A la Comisión de Derechos Humanos, Igualdad y Género, competen los siguientes asuntos:
 
 I. Los que se refieran a la expedición, reformas, adiciones y derogación de la legislación estatal de la materia;
 
@@ -2434,3 +2438,11 @@ P.O. 28 DE MARZO DE 2017.
 PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0660.- SE REFORMAN LOS ARTÍCULOS 13, 19, 21 Y 29 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN (SIC) 5°, 9°, 17, 22 BIS, 25, Y 29 DE LA LEY DEL INSTITUTO DE LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 23 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMAN LOS ARTÍCULOS 98 Y 103 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
