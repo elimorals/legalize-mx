@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2017-02-18"
+last_updated: "2017-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -180,6 +180,10 @@ IV. Violencia en la comunidad: Son los actos individuales o colectivos que trans
 > <small>(ADICIONADA, P.O. 6 DE MARZO DE 2010)</small>
 
 V. Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, y puede culminar en homicidio y otras formas de muerte violenta de mujeres.
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2017)</small>
+
+VI. Violencia Política: Es el conjunto de acciones u omisiones cometidas por una persona por sí o a través de terceros que causen daño en contra de una mujer por ser mujer, o de su familia, en el ejercicio o en la pretensión o aspiración de ejercicio de la representación política, o el ejercicio o en la pretensión o aspiración de ejercicio de cargos públicos, empleos o comisiones, que tengan por objeto o resultado limitar, anular o menoscabar el acceso, reconocimiento, goce y/o ejercicio de los derechos políticos, o de las prerrogativas inherentes a un cargo público, empleo o comisión.
 
 > <small>(ADICIONADO, P.O. 6 DE MARZO DE 2010)</small>
 
@@ -995,21 +999,25 @@ P.O. 16 DE JULIO DE 2016.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 3 DE OCTUBRE DE 2016.
+P.O. 18 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0003/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0215/2016 I P.O., MEDIANTE EL CUAL SE REFORMA EL DECRETO NO. 274-02 II P.O., LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CHIHUAHUA Y LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA.”.]
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+Cualquier referencia que se haga en las diversas leyes, decretos, acuerdos o disposiciones legislativas y/o administrativas, laborales, bancarias, civiles o de cualquier índole o naturaleza relativas a la denominación de "Instituto Chihuahuense de la Mujer", se entiende referida a partir de la entrada en vigor del presente Decreto, hacia el "Instituto Chihuahuense de las Mujeres" en todos sus términos; por tanto, todos los compromisos, obligaciones, disposiciones o análogas de cualquier tipo, quedan en términos idénticos relativos y referidos a la segunda denominación, y subsistentes en todos sus alcances precisamente respecto al Organismo Público Descentralizado denominado "Instituto Chihuahuense de las Mujeres".
+
+Igualmente quedan subsistentes todos los compromisos, obligaciones, deudas y demás análogas, a cargo del organismo indicado como "Instituto Chihuahuense de las Mujeres" en los términos del presente artículo, y subsistentes de igual manera todos los títulos, propiedades, posesiones, acciones o derechos que correspondían o que en un futuro pudieran corresponder al otrora denominado "Instituto Chihuahuense de la Mujer” ahora a favor del ''Instituto Chihuahuense de las Mujeres".
 
 ###### ARTÍCULO TERCERO.
 
-Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la Dirección General de Desarrollo Municipal, dependiente de la Secretaría General de Gobierno, se transfieran a la Secretaría de Desarrollo Municipal y, en su caso, se asignen recursos financieros, materiales y humanos, necesarios para su funcionamiento.
+Háganse por parte de la Directora General del "Instituto Chihuahuense de las Mujeres", todas las modificaciones documentales a que haya lugar, para que la razón social del Organismo quede ahora como "Instituto Chihuahuense de las Mujeres''.
+
+P.O. 3 DE OCTUBRE DE 2016.
 
 ###### ARTÍCULO CUARTO.
 
@@ -1071,20 +1079,24 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
 
-P.O. 18 DE FEBRERO DE 2017.
+P.O. 17 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0215/2016 I P.O., MEDIANTE EL CUAL SE REFORMA EL DECRETO NO. 274-02 II P.O., LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CHIHUAHUA Y LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA.”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0003/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-Cualquier referencia que se haga en las diversas leyes, decretos, acuerdos o disposiciones legislativas y/o administrativas, laborales, bancarias, civiles o de cualquier índole o naturaleza relativas a la denominación de "Instituto Chihuahuense de la Mujer", se entiende referida a partir de la entrada en vigor del presente Decreto, hacia el "Instituto Chihuahuense de las Mujeres" en todos sus términos; por tanto, todos los compromisos, obligaciones, disposiciones o análogas de cualquier tipo, quedan en términos idénticos relativos y referidos a la segunda denominación, y subsistentes en todos sus alcances precisamente respecto al Organismo Público Descentralizado denominado "Instituto Chihuahuense de las Mujeres".
-
-Igualmente quedan subsistentes todos los compromisos, obligaciones, deudas y demás análogas, a cargo del organismo indicado como "Instituto Chihuahuense de las Mujeres" en los términos del presente artículo, y subsistentes de igual manera todos los títulos, propiedades, posesiones, acciones o derechos que correspondían o que en un futuro pudieran corresponder al otrora denominado "Instituto Chihuahuense de la Mujer” ahora a favor del ''Instituto Chihuahuense de las Mujeres".
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 ###### ARTÍCULO TERCERO.
 
-Háganse por parte de la Directora General del "Instituto Chihuahuense de las Mujeres", todas las modificaciones documentales a que haya lugar, para que la razón social del Organismo quede ahora como "Instituto Chihuahuense de las Mujeres''.
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la Dirección General de Desarrollo Municipal, dependiente de la Secretaría General de Gobierno, se transfieran a la Secretaría de Desarrollo Municipal y, en su caso, se asignen recursos financieros, materiales y humanos, necesarios para su funcionamiento.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFLEY/0336/2017 II P.O. MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 6 LA FRACCIÓN VI DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
