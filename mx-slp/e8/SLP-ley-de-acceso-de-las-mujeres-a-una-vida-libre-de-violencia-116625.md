@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1166
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-17"
-last_updated: "2016-09-17"
+last_updated: "2017-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 17 de septiembre de 2016.
 
@@ -261,7 +261,9 @@ VI. Procurar la instalación y el mantenimiento de refugios para las víctimas y
 
 El Sistema Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales y de las organizaciones de la sociedad civil para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
-Todas las acciones y programas que lleven a cabo el Poder Ejecutivo y los municipios del Estado deberán efectuarse sin discriminación alguna; por ello, para que las mujeres puedan tener acceso a las políticas públicas en la materia, en condiciones de equidad, se considerará cualquier condición que coloque a las mujeres en estado de desigualdad o diferencia respecto al resto de la población.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2017)</small>
+
+Todas las acciones y programas que lleven a cabo el Poder Ejecutivo y los municipios del Estado deberán efectuarse sin discriminación alguna; por ello, para que las mujeres puedan tener acceso a las políticas públicas en la materia, en condiciones de igualdad, se considerará cualquier condición que coloque a las mujeres en estado de desigualdad o diferencia respecto al resto de la población.
 
 ###### ARTÍCULO 14.
 
@@ -441,9 +443,13 @@ XIII. Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Secretaría de Cultura:
 
-l. Promover y apoyar por sí, y a través de todos los organismos sectorizados a la Secretaría, programas, acciones y proyectos culturales cuyo objeto sea la comprensión, sensibilización social, denuncia o combate al fenómeno de la violencia contra las mujeres, la promoción de la equidad de género, o la visión de cualquier temática con perspectiva de género;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
 
-II. Promover, a través de proyectos artísticos inductivos y de comunicación, el desarrollo de nuevos patrones culturales que propicien la equidad entre hombres y mujeres;
+I. Promover y apoyar por sí, y a través de todos los organismos sectorizados a la Secretaría, programas, acciones y proyectos culturales cuyo objeto sea la comprensión, sensibilización social, denuncia o combate al fenómeno de la violencia contra las mujeres, la promoción de la igualdad de género, o la visión de cualquier temática con perspectiva de género;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
+
+II. Promover, a través de proyectos artísticos inductivos y de comunicación, el desarrollo de nuevos patrones culturales que propicien la igualdad entre hombres y mujeres;
 
 III. Llevar a cabo en coordinación con la Secretaría de Educación, acciones y programas que, a través de la literatura, el teatro, el cine, la pintura, la música y demás manifestaciones artísticas, propongan la erradicación de conductas discriminatorias y violentas contra las niñas y mujeres, y promuevan los valores de igualdad, justicia, solidaridad y respeto a los derechos humanos de las mujeres;
 
@@ -475,7 +481,9 @@ VI. Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Secretaría de Educación de (sic) Gobierno del Estado:
 
-l. Difundir en los diversos niveles escolares, la comprensión y aprendizaje de los principios de igualdad, equidad y no discriminación entre mujeres y hombres, y el respeto pleno a los derechos humanos;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
+
+I. Difundir en los diversos niveles escolares, la comprensión y aprendizaje de los principios de igualdad y no discriminación entre mujeres y hombres, y el respeto pleno a los derechos humanos;
 
 II. Aplicar en todos los niveles de la instrucción, los contenidos educativos orientados a modificar los modelos de conducta sociales y culturales que impliquen prejuicios, y que estén basados en la idea de la inferioridad o superioridad de uno de los sexos, y en funciones estereotipadas asignadas a las mujeres y a los hombres;
 
@@ -709,7 +717,9 @@ IV. Promover, en coordinación con las instancias estatales competentes, cursos 
 
 V. Apoyar y promover la creación de programas de reeducación integral para los agresores;
 
-VI. Crear programas educativos sobre la igualdad y la equidad entre los géneros, para eliminar la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
+
+VI. Crear programas educativos sobre la igualdad entre los géneros, para eliminar la violencia contra las mujeres;
 
 VII. Apoyar y promover la creación de refugios seguros para las víctimas;
 
@@ -1076,3 +1086,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0660.- SE REFORMAN LOS ARTÍCULOS 13, 19, 21 Y 29 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN (SIC) 5°, 9°, 17, 22 BIS, 25, Y 29 DE LA LEY DEL INSTITUTO DE LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 23 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMAN LOS ARTÍCULOS 98 Y 103 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
