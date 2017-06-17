@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2017-05-03"
+last_updated: "2017-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2017.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -2365,7 +2365,9 @@ DEL MUNICIPIO LIBRE.
 
 El territorio del Estado se divide en sesenta y siete municipios que son:
 
-1. Ahumada, 2. Aldama, 3. Allende, 4. Aquiles Serdán, 5. Ascensión, 6. Bachíniva, 7. Balleza, 8. Batopilas, 9. Bocoyna, 10. Buenaventura, 11. Camargo, 12. Carichí, 13. Casas Grandes, 14. Coronado, 15. Coyame del Sotol, 16. Cuauhtémoc, 17. Cusihuiriachi, 18. Chihuahua, 19. Chínipas, 20. Delicias, 21. Dr. Belisario Domínguez, 22. El Tule, 23. Galeana, 24. Gómez Farías, 25. Gran Morelos, 26. Guadalupe, 27. Guadalupe y Calvo, 28. Guachochi, 29. Guazapares, 30. Guerrero, 31. Hidalgo del Parral, 32. Huejotitán, 33. Ignacio Zaragoza, 34. Janos, 35. Jiménez, 36. Juárez, 37. Julimes, 38. La Cruz, 39. López, 40. Madera, 41. Maguarichi, 42. Manuel Benavides, 43. Matachí, 44. Matamoros, 45. Meoqui, 46. Morelos, 47. Moris, 48. Namiquipa, 49. Nonoava, 50. Nuevo Casas Grandes, 51. Ocampo, 52. Ojinaga, 53. Praxedis G. Guerrero, 54. Riva Palacio, 55. Rosales, 56. Rosario, 57. San Francisco de Borja, 58. San Francisco de Conchos, 59. San Francisco del Oro, 60. Santa Bárbara, 61. Santa Isabel, 62. Satevó, 63. Saucillo, 64. Temósachic, 65. Urique, 66. Uruachi, 67. Valle de Zaragoza.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2017)</small>
+
+1. Ahumada, 2. Aldama, 3. Allende, 4. Aquiles Serdán. 5. Ascensión, 6. Bachíniva, 7. Balleza, 8. Batopilas de Manuel Gómez Morín, 9. Bocoyna, 10. Buenaventura, 11. Camargo, 12. Carichí, 13. Casas Grandes, 14. Coronado, 15. Coyame del Sotol, 16. Cuauhtémoc, 17. Cusihuiriachi, 18. Chihuahua, 19. Chínipas, 20. Delicias, 21. Dr. Belisario Domínguez, 22. El Tule, 23. Galeana, 24. Gómez Farías, 25. Gran Morelos, 26. Guadalupe, 27. Guadalupe y Calvo, 28. Guachochi, 29. Guazapares, 30. Guerrero, 31. Hidalgo del Parral, 32. Huejotitán, 33. Ignacio Zaragoza, 34. Janos, 35. Jiménez, 36. Juárez, 37. Julimes, 38. La Cruz, 39. López, 40. Madera, 41. Maguarichi, 42. Manuel Benavides, 43. Matachí, 44. Matamoros, 45. Meoqui, 46. Morelos, 47. Moris, 48. Namiquipa, 49. Nonoava, 50. Nuevo Casas Grandes, 51. Ocampo, 52. Ojinaga, 53. Praxedis G. Guerrero, 54. Riva Palacio, 55. Rosales, 56. Rosario, 57. San Francisco de Borja, 58. San Francisco de Conchos, 59. San Francisco del Oro, 60. Santa Bárbara, 61. Santa Isabel, 62. Satevó, 63. Saucillo, 64. Temósachic, 65. Urique, 66. Uruachi, 67. Valle de Zaragoza.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
@@ -4646,3 +4648,15 @@ Conforme a lo dispuesto por el Artículo 202 de la Constitución Política del E
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFCLC/0324/2017 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 125, PÁRRAFO SEGUNDO, NUMERAL 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, ASÍ COMO EL ARTÍCULO 11 FRACCIÓN VIII DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA, A FIN DE DENOMINAR AL MUNICIPIO DE BATOPILAS COMO BATOPILAS DE MANUEL GÓMEZ MORÍN”.]
+
+PRIMERO.- Conforme lo dispone el artículo 202, último párrafo de la Constitución Política del Estado, remítase sin más trámite el presente Decreto para su debida publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Remítase copia del presente Decreto al Instituto Nacional de Estadística y Geografía, para los efectos a que haya lugar.
+
+CUARTO.- Envíese copia del presente Decreto a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado, para su conocimiento.
