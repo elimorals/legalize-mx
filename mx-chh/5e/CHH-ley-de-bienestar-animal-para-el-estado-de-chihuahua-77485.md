@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-bienestar-animal-para-el-estado-de-chihuahua-77485"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-17"
-last_updated: "2017-02-22"
+last_updated: "2017-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE BIENESTAR ANIMAL PARA EL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE BIENESTAR ANIMAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de noviembre de 2010
 
@@ -132,8 +134,6 @@ XXIX. Secretaría: Secretaría de Desarrollo Urbano y Ecología;
 XXX. Vivisección: Procedimientos quirúrgico en animales vivos, con el fin de hacer estudios fisiológicos o investigaciones, y
 
 XXXI. Zoonosis: Enfermedad que se da en los animales y que es transmisible al hombre en condiciones naturales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2014)</small>
 
@@ -383,8 +383,6 @@ Esta Ley regula los establecimientos en donde se encuentren de manera temporal a
 
 Así mismo, la coadyuvancia en la vigilancia de las condiciones sanitarias de dichos establecimientos y los procedimientos de verificación y sanciones en dicha materia, se sujetarán a lo dispuesto por la ley aplicable.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2014)</small>
 
 ARTÍCULO 12 BIS. Queda prohibido la celebración y realización de espectáculos circenses, en los cuales se utilicen animales vivos.
@@ -445,31 +443,39 @@ Las personas que realicen las actividades de exhibición, actividades deportivas
 
 I. Contar con la licencia correspondiente expedida por la Secretaría de Desarrollo Urbano y Ecología.
 
-II. Estar inscritos en el Registro estatal de personas físicas o morales dedicadas a la protección, crianza, reproducción, comercialización, vigilancia, entrenamiento, exhibición o cualquier otra actividad análoga relacionada con animales.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
+
+II. Estar inscritos en el registro estatal de personas físicas o morales dedicadas a la protección, crianza, reproducción, comercialización, vigilancia, entrenamiento, exhibición o cualquier otra actividad análoga relacionada con animales de compañía.
 
 III. Deberán disponer de comida, agua, espacios para dormir y moverse con comodidad, evitando el hacinamiento y procurarles la temperatura adecuada; se deberá contar con espacios suficientemente amplios con luz natural, para que deambulen con comodidad.
 
 IV. Destinar un área que reúna las condiciones de seguridad y protección necesarias para que los animales no queden expuestos a cuestiones climatológicas adversas, así mismo deberán contar con acondicionamiento para el correcto desarrollo de los animales, así como su reproducción.
 
-V. Contar con la asesoría de un Médico Veterinario Zootecnista responsable para llevar a cabo sus actividades.
+V. (DEROGADA, P.O. 17 DE JUNIO DE 2017)
 
-VI. Contar con permiso de uso de suelo correspondiente, no pudiendo desarrollarse en instalaciones cuyo uso de suelo sea de carácter habitacional.
+VI. (DEROGADA, P.O. 17 DE JUNIO DE 2017)
 
 VII. Proporcionar al comprador un manual de información sobre el animal adquirido, su cuidado, albergue y dieta.
 
-VIII. Contar con una bitácora y certificado de salud de los pies de cría, tantos machos como hembras, historial médico, especificar su calendario de vacunación y desparasitación, así como técnicas de reproducción.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
 
-IX. Contar con un certificado de salud para cada animal en venta expedido por un Médico Veterinario Zootecnista.
+VIII. Contar con una bitácora y certificado de salud de los pies de cría, tantos machos como hembras, historial médico, especificar su calendario de vacunación y desparasitación, así como técnicas de reproducción, en la medida que la especie permita la diferenciación de un individuo de otro.
+
+IX. (DEROGADA, P.O. 17 DE JUNIO DE 2017)
 
 X. Proporcionar el cuidado diario de los animales en sus instalaciones; queda estrictamente prohibido dejar de brindarles atención y cuidados debidos en los días no laborales.
 
-XI. Contar con una base de datos donde se registrará la procedencia de cada animal vendido, su número de registro, así como los generales del comprador.
+XI. (DEROGADA, P.O. 17 DE JUNIO DE 2017)
 
-XII. Todo animal doméstico a comercializar debe ser vacunado y desparasitado. No se permitirá dar en venta y/o comprar animales destetados prematuramente.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
 
-XIII. Tener un plan de contingencia adecuado para el centro de crianza, reproducción y cualquier otro lugar donde se conserven animales domésticos, con el fin de garantizar el bienestar del animal bajo su custodia.
+XII. Todo animal doméstico a comercializar debe ser vacunado y desparasitado, si la especie cuenta con vacunas en el mercado. No se permitirá dar en venta y/o comprar animales destetados prematuramente.
 
-XIV. Cuidar que una hembra no sea preñada más de una vez al año, siendo tres el número máximo de pariciones. Queda estrictamente prohibido tener a las hembras pie de cría permanentemente enjauladas y sacarlas únicamente para apareamiento.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
+
+XIII. Contar con plan de manejo, de acuerdo a la especie, para el centro de crianza, reproducción y cualquier otro lugar donde se vendan o se proporcione servicio de pensión o albergue, para animales de compañía con el fin de garantizar el bienestar del animal bajo su custodia.
+
+XIV. (DEROGADA, P.O. 17 DE JUNIO DE 2017)
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
 
@@ -483,7 +489,9 @@ Queda prohibida la venta, rifa u obsequio de animales de compañía en la vía p
 
 Se podrán organizar eventos en espacios abiertos o cerrados, públicos o privados, para promover la entrega de animales abandonados, previa obtención del permiso de la autoridad municipal correspondiente, para lo cual contarán con el apoyo del ayuntamiento en la medida de sus posibilidades, especialmente en la difusión de dichos eventos.
 
-Las personas que organicen eventos para otorgar animales en adopción, deberán entregarlos vacunados, desparasitados y esterilizados, haciendo además el seguimiento de estos para que en el caso de que se detecte alguna forma de maltrato sean recuperados de inmediato. Deberán entregar a los adoptantes el manual de cuidados.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2017)</small>
+
+Las personas que organicen eventos para otorgar animales en adopción, deberán entregarlos vacunados, siempre y cuando existan vacunas disponibles para su especie, desparasitados y esterilizados, haciendo además el seguimiento de estos para que en el caso de que se detecte alguna forma de maltrato sean recuperados de inmediato. Deberán entregar a los adoptantes el manual de cuidados.
 
 ## TÍTULO CUARTO. DE LAS PRÁCTICAS DE MANEJO EN RELACIÓN AL TIPO DE APROVECHAMIENTO DE ANIMALES DOMÉSTICOS
 
@@ -1296,3 +1304,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 17 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0316/2017 II P.O., MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS FRACCIONES DE LOS ARTÍCULOS 21 BIS Y 22 BIS DE LA LEY DE BIENESTAR ANIMAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
