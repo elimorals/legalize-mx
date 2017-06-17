@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2017-02-22"
+last_updated: "2017-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2017.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -151,7 +151,9 @@ VI.- BACHINIVA, con cabecera en el pueblo del mismo nombre y la sección municip
 
 VII.- BALLEZA, con cabecera en el pueblo denominado Mariano Balleza, y las Secciones Municipales de Baquiriachi, Cristóbal Colón, General Carlos Pacheco, San Juan y El Vergel;
 
-VIII.- BATOPILAS, con cabecera en el pueblo del mismo nombre y las secciones municipales de Cerro Colorado, Polanco, Yoquivo y San Ignacio;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
+
+VIII.- BATOPILAS DE MANUEL GÓMEZ MORÍN, con cabecera en el pueblo del mismo nombre y las Secciones Municipales de Cerro Colorado, Polanco, Yoquivo y San Ignacio;
 
 IX.- BOCOYNA, con cabecera en el pueblo del mismo nombre y las secciones municipales de Ciénega de Guacayvo, Creel, San Juanito y Sisoguichi;
 
@@ -813,7 +815,7 @@ XXII.- Dentro de la posibilidad de cada Municipio, aprobar la realización de la
 
 > <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
 
-En los casos de Proyectos de Inversión Pública a Largo Plazo, solicitar al H. Congreso del Estado la autorización de dichos Proyectos, en los términos de la Ley de Proyectos de Inversión Pública a Largo Plazo del Estado de Chihuahua.
+En los casos de Proyectos de Inversión Pública a Largo Plazo, solicitar al H. Congreso del Estado la autorización de dichos Proyectos, en los términos de la Ley de Proyectos de Inversión Pública a largo Plazo del Estado de Chihuahua.
 
 XXIII.- Ejercer el control y vigilancia, por conducto de la dependencia correspondiente, en materia de fraccionamientos, sobre construcción de obras públicas y privadas, de ornato, nomenclatura, numeración oficial, planificación y alineamiento de edificaciones y calles;
 
@@ -1823,7 +1825,7 @@ VI.- Promover la celebración de convenios de colaboración entre los distintos 
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2010)</small>
 
-VII.- Elaborar el programa operativo anual, que contemple la implementación y desarrollo de campañas de difusión que impulsen el ahorro del agua y de energía eléctrica , prohíban tirar desechos contaminantes y, en general, fomenten la conservación de los elementos naturales y estimulen la participación ciudadana en la protección al ambiente;
+VII.- Elaborar el programa operativo anual, que contemple la implementación y desarrollo de campañas de difusión que impulsen el ahorro del agua y de energía eléctrica, prohíban tirar desechos contaminantes y, en general, fomenten la conservación de los elementos naturales y estimulen la participación ciudadana en la protección al ambiente;
 
 > <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2010)</small>
 
@@ -4732,3 +4734,15 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 17 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/RFCLC/0324/2017 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 125, PÁRRAFO SEGUNDO, NUMERAL 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, ASÍ COMO EL ARTÍCULO 11 FRACCIÓN VIII DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA, A FIN DE DENOMINAR AL MUNICIPIO DE BATOPILAS COMO BATOPILAS DE MANUEL GÓMEZ MORÍN".]
+
+PRIMERO.- Conforme lo dispone el artículo 202, último párrafo de la Constitución Política del Estado, remítase sin más trámite el presente Decreto para su debida publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Remítase copia del presente Decreto al Instituto Nacional de Estadística y Geografía, para los efectos a que haya lugar.
+
+CUARTO.- Envíese copia del presente Decreto a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado, para su conocimiento.
