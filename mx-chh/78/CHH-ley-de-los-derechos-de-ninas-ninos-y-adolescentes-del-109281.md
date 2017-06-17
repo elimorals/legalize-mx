@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2017-05-13"
+last_updated: "2017-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2017.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -681,7 +681,9 @@ XXIII. Recibir orientación y capacitación para obtener conocimientos básicos 
 
 Asimismo, garantizarán que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
-El Sistema Estatal de Salud deberá garantizar el pleno cumplimiento del derecho a la salud atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad sustantiva y la no discriminación, así como establecer acciones afirmativas a favor de niñas, niños y adolescentes.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2017)</small>
+
+El Sistema Estatal de Salud deberá cumplir y garantizar el derecho a la protección de la salud atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad sustantiva y la no discriminación, así como establecer acciones afirmativas a favor de niñas, niños y adolescentes, sin la necesidad de que estén registrados en algún sistema de salud o que no cuenten con documentación oficial, por lo que las autoridades estatales y municipales, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, deberán cumplir y garantizar este derecho, y adecuar su reglamentación para estos efectos.
 
 En todos los casos se respetará el derecho a la intimidad de niñas, niños y adolescentes, así como el derecho a la información de quienes ejercen la patria potestad, tutela, guarda o custodia.
 
@@ -2338,6 +2340,14 @@ El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o 
 P.O. 13 DE MAYO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0305/2017 II P.O., POR EL QUE SE REFORMAN EL INCISO D) DE LA FRACCIÓN III Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 136; Y SE ADICIONAN LAS FRACCIONES VII Y VIII AL MISMO ARTÍCULO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0213/2016 I P.O., MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 56 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
