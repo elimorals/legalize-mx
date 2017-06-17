@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-igualdad-entre-mujeres-y-hombres-en-el-estado-11025
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-12"
-last_updated: "2015-09-12"
+last_updated: "2017-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 12 de Septiembre de 2015.
 
@@ -361,7 +363,9 @@ VIII. La o el Titular de la Secretaría de Educación;
 
 IX. La o el Titular de la Procuraduría General de Justicia;
 
-X. Una o un representante del Congreso del Estado, preferentemente quien presida la Comisión de Equidad y Género;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
+
+X. Una o un representante del Congreso del Estado, preferentemente quien presida la comisión encargada de los asuntos en las materias de Igualdad y Género;
 
 XI. Una o un representante del Poder Judicial, y
 
@@ -710,3 +714,13 @@ El Secretario General de Gobierno
 Lic. José Eduardo González Sierra
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0660.- SE REFORMAN LOS ARTÍCULOS 13, 19, 21 Y 29 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN 5°, 9°, 17, 22 BIS, 25, Y 29 DE LA LEY DEL INSTITUTO DE LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN EL ARTICULO 23 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMAN LOS ARTÍCULOS 98 Y 103 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
