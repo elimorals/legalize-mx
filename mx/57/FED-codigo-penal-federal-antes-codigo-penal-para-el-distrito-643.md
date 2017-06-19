@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2017-04-07"
+last_updated: "2017-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2017.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -2754,6 +2754,10 @@ Igual pena se impondrá al que en un predio de su propiedad, tenencia o posesió
 Si en las conductas descritas en los dos párrafos anteriores no concurren las circunstancias que en ellos se precisan, la pena será de hasta las dos terceras partes de la prevista en el artículo 194, siempre y cuando la siembra, cultivo o cosecha se hagan con la finalidad de realizar alguna de las conductas previstas en las fracciones I y II de dicho artículo. Si falta esa finalidad, la pena será de dos a ocho años de prisión.
 
 Si el delito fuere cometido por servidor público de alguna corporación policial, se le impondrá, además la destitución del empleo, cargo o comisión públicos y se le inhabilitará de uno a cinco años para desempeñar otro, y si el delito lo cometiere un miembro de las Fuerzas Armadas Mexicanas en situación de retiro, de reserva o en activo, se le impondrá, además de la pena de prisión señalada, la baja definitiva de la Fuerza Armada a que pertenezca y se le inhabilitará de uno a cinco años para desempeñar cargo o comisión públicos.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+La siembra, cultivo o cosecha de plantas de marihuana no será punible cuando estas actividades se lleven a cabo con fines médicos y científicos en los términos y condiciones de la autorización que para tal efecto emita el Ejecutivo Federal.
 
 > <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
@@ -7952,3 +7956,17 @@ D.O.F. 7 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 420 DEL CÓDIGO PENAL FEDERAL Y SE ADICIONA EL ARTÍCULO 2o. DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD Y DEL CÓDIGO PENAL FEDERAL".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- A partir de la entrada en vigor del presente Decreto, la Secretaría de Salud reforzará los programas y acciones a que hace referencia el Capítulo IV, del Título Décimo Primero de la Ley General de Salud, con énfasis en la prevención, tratamiento, rehabilitación, reinserción social y control del consumo de cannabis sativa, índica y americana o marihuana y sus derivados, por parte de niñas, niños y adolescentes, así como el tratamiento de las personas con adicción a dichos narcóticos.
+
+Tercero.- El Consejo de Salubridad General, a partir de los resultados de la investigación nacional, deberá conocer el valor terapéutico o medicinal que lleve a la producción de los fármacos que se deriven de la cannabis sativa, índica y americana o marihuana y sus derivados, para garantizar la salud de los pacientes.
+
+> <small>[N. DE E. VÉASE ISÓMEROS EN EL D.O.F. DE 19 DE JUNIO DE 2017, PÁGINA 59]</small>
+
+Cuarto.- La Secretaría de Salud tendrá 180 días a partir de la entrada en vigor del presente Decreto, para armonizar los reglamentos y normatividad en el uso terapéutico del TETRAHIDROCANNABINOL de los siguiente (sic) isómeros: [...] y sus variantes estereoquímicas.
