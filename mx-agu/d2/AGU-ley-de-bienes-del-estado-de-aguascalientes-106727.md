@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-bienes-del-estado-de-aguascalientes-106727"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-23"
-last_updated: "2015-03-23"
+last_updated: "2017-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106727&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE BIENES DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE BIENES DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2017.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de marzo de 2015.
 
@@ -193,7 +195,9 @@ Los Poderes Legislativo y Judicial, así como los Órganos Autónomos a nombre d
 
 I. Adquirir bienes inmuebles con cargo al presupuesto de egresos que tuvieren autorizado o recibirlos en donación, asignarlos al servicio de sus órganos y manejarlos;
 
-II. Realizar los actos previstos en el artículo 45 de esta Ley, para la disposición de los bienes inmuebles de su propiedad, que no sean útiles para destinarlos al servicio público;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
+
+II. Realizar los actos previstos en el artículo 46 de esta Ley, para la disposición de los bienes inmuebles de su propiedad, que no sean útiles para destinarlos al servicio público;
 
 III. Emitir el acuerdo administrativo por el que se desincorpore del régimen de dominio público del Estado, aquellos inmuebles que no sean útiles para destinarlos al servicio público;
 
@@ -239,7 +243,9 @@ IV. Emitir el acuerdo administrativo por el que se desincorporen bienes inmueble
 
 V. Emitir el acuerdo administrativo por el que se desincorporen del régimen de dominio público bienes inmuebles propiedad de los organismos públicos descentralizados del Poder Ejecutivo;
 
-VI. Intervenir el Titular, en nombre del Ejecutivo, en los actos previstos en el artículo 45 de esta Ley, por la disposición de los bienes inmuebles de los Poderes Legislativo y Judicial, de los Órganos Autónomos y de las Dependencias del Ejecutivo;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
+
+VI. Intervenir el Titular, en nombre del Ejecutivo, en los actos previstos en el artículo 46 de esta Ley, por la disposición de los bienes inmuebles de los Poderes Legislativo y Judicial, de los Órganos Autónomos y de las Dependencias del Ejecutivo;
 
 VII. Solicitar a las Dependencias del Ejecutivo la presentación de sus programas de adquisiciones de bienes inmuebles;
 
@@ -669,9 +675,11 @@ La Secretaría podrá otorgar bienes muebles en comodato al servicio de las Depe
 
 La Secretaría llevará y mantendrá permanentemente actualizado un catálogo o registro clasificatorio de los bienes muebles de las Dependencias del Ejecutivo, las que deberán remitirle la información necesaria para tales efectos, así como aquélla que les solicite.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
+
 ###### Artículo 70.
 
-Con excepción de la transferencia a que se refiere el artículo 65 de la presente Ley, las disposiciones sobre bienes muebles a que se contrae el presente Capítulo regirán para los actos de disposición final y baja de bienes muebles que realicen las Entidades del Ejecutivo, siempre que dichos bienes estén a su servicio o formen parte de sus activos fijos.
+Con excepción de la transferencia a que se refiere el artículo 66 de la presente Ley, las disposiciones sobre bienes muebles a que se contrae el presente Capítulo regirán para los actos de disposición final y baja de bienes muebles que realicen las Entidades del Ejecutivo, siempre que dichos bienes formen parte de sus activos fijos.
 
 Los órganos de gobierno de las Entidades del Ejecutivo, de conformidad con la legislación aplicable, dictarán las bases generales conducentes a la debida observancia de lo dispuesto por este artículo.
 
@@ -790,3 +798,13 @@ Dip. Oswaldo Rodríguez García,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 20 de marzo de 2015.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 103.- SE REFORMAN LOS ARTÍCULOS 21 Y 24 DE LA LEY DE BIENES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
