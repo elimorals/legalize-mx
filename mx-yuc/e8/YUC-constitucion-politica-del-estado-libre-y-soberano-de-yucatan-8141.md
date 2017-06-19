@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2017-05-30"
+last_updated: "2017-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE JUNIO DE 2017.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -65,6 +65,10 @@ Las niñas, niños y adolescentes son sujetos de pleno derecho. Todas las instit
 
 La Ley establecerá que en la salvaguarda de los derechos de la infancia se respeten los principios de género e intergeneracionalidad y las características étnicas propias de la sociedad yucateca.
 
+> <small>(ADICIONADO, D.O. 19 DE JUNIO DE 2017)</small>
+
+Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
+
 > <small>(ADICIONADO, D.O. 15 DE DICIEMBRE DE 2007)</small>
 
 El Estado a través de un organismo especializado, con la participación de la sociedad civil, establecerá mecanismos para vigilar la atención de las necesidades de niños, niñas y adolescentes y en conjunto producirán información periódica sobre el cumplimiento progresivo de los derechos de la infancia en el Estado, dando a conocer los rubros que presentan rezago.
@@ -83,9 +87,9 @@ Queda prohibida toda discriminación por motivo de raza, origen étnico, naciona
 
 El Estado tiene una composición pluricultural sustentada originalmente en el pueblo maya, el cual desciende de la población que habitaba la península yucateca, al iniciarse la colonización; que conserva sus propios conocimientos, manifestaciones e idioma, así como, sus instituciones sociales, económicas y culturales o parte de ellas.
 
-> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, D.O. 19 DE JUNIO DE 2017)</small>
 
-La conciencia de la identidad maya de Yucatán es el criterio fundamental para determinar que a una persona le son aplicables las disposiciones sobre el pueblo maya yucateco y sus comunidades.
+El derecho a la identidad constituye uno de los cimientos del desarrollo de la cultura maya, por lo que la conciencia de esta identidad es el criterio fundamental para determinar que a una persona le son aplicables las disposiciones sobre el pueblo maya yucateco y sus comunidades.
 
 > <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
 
@@ -110,8 +114,6 @@ Las leyes establecerán los mecanismos que garanticen la efectiva participación
 > <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
 
 Se establecerá un organismo que definirá, ejecutará y evaluará las políticas públicas que garanticen la vigencia de los derechos del pueblo maya, y de las comunidades indígenas de otras entidades federativas, que se encuentren transitoria o permanentemente en territorio estatal, en los términos de las disposiciones legales aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -455,7 +457,9 @@ El Poder Legislativo del Estado se depositará en una Asamblea de Representantes
 
 Los Diputados son inviolables por la manifestación de ideas y expresión de opiniones, en el desempeño de su encargo; y no podrán ser reconvenidos por ellas.
 
-El Presidente del Congreso en los términos de las leyes, velará por el respeto a la inmunidad de sus integrantes y garantizará la inviolabilidad del recinto donde se reúnan a sesionar.
+> <small>(REFORMADO, D.O. 19 DE JUNIO DE 2017)</small>
+
+El Presidente del Congreso en los términos de las leyes garantizará la inviolabilidad del recinto donde los diputados se reúnan a sesionar.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -593,8 +597,6 @@ En el año que corresponda a la renovación ordinaria del Titular del Poder Ejec
 
 El Gobernador del Estado, dentro del informe a que se refiere este artículo, podrá dar respuesta a las preguntas que le hubieren formulado los integrantes del Congreso, a través del Presidente en turno, las cuales deberán ser presentadas a más tardar el 15 de diciembre del año anterior y tratándose del último, el 15 de julio o, en su caso, el 31 de agosto, en los términos de la parte final del párrafo segundo del artículo 27. Las preguntas comprenderán exclusivamente asuntos relativos a la Administración Pública del período comprendido en el informe del Ejecutivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O. 4 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 29.
@@ -639,8 +641,6 @@ En la creación de nuevos municipios, los integrantes de las comunidades del pue
 
 II.- Arreglar definitivamente los límites municipales, de conformidad con lo establecido por las leyes respectivas y las instancias técnico-normativas de la materia, tomando en consideración la opinión de las comunidades del pueblo maya, cuando resultaren afectados;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 III.- (DEROGADA, D.O. 17 DE MAYO DE 2010)
 
 IV.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 1994)
@@ -661,8 +661,6 @@ VI.- Aprobar la Ley de Ingresos y el Presupuesto de Egresos del Gobierno del Est
 
 Cuando inicie una administración gubernamental estatal en la fecha prevista en el artículo 48 de esta Constitución, el Congreso del Estado aprobará la Ley de Ingresos y el Presupuesto de Egresos del Estado a más tardar el 30 de diciembre del año en que se verifique dicho suceso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
 
 En caso de no aprobarse el presupuesto de egresos para el ejercicio fiscal correspondiente, continuará en vigor el autorizado para el año inmediato anterior, el cual se ejercerá mensualmente en una doceava parte del total, o de la disponibilidad de los recursos fiscales, con las actualizaciones que sean pertinentes, hasta en tanto se aprueba el del año fiscal respectivo.
@@ -670,8 +668,6 @@ En caso de no aprobarse el presupuesto de egresos para el ejercicio fiscal corre
 > <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
 Determinar las bases, montos y plazos con que serán distribuidas las participaciones a los municipios, con arreglo a las Leyes respectivas. Atendiendo entre otros criterios, el esfuerzo recaudatorio; población y marginación;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
 
@@ -685,11 +681,7 @@ El Congreso concluirá la revisión de la cuenta pública a más tardar el 31 de
 
 El Congreso evaluará el desempeño de la Auditoria Superior del Estado y al efecto le podrá requerir que le informe sobre la evolución de sus trabajos de fiscalización;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 VII Bis.- (DEROGADA, D.O. 17 DE MAYO DE 2010)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
 
@@ -745,8 +737,6 @@ XVI.- (DEROGADA, D.O. 20 DE JUNIO DE 2014)
 
 XVII.- Expedir y modificar la Ley que regule su estructura y funcionamiento internos. Esta Ley no podrá ser vetada ni necesita de promulgación del Ejecutivo Estatal para tener vigencia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 2010)</small>
 
 XVIII.- Nombrar y remover al Auditor Superior del Estado, al Secretario General del Poder Legislativo, al Director General de Administración y Finanzas, al Director de Evaluación del Presupuesto y al Director del Instituto de Investigaciones Legislativas del Congreso;
@@ -765,13 +755,9 @@ XXI.- Respecto al cargo del Titular del Poder Ejecutivo:
 
 a) Expedir el bando solemne, para dar a conocer la declaración de Gobernador electo hecha por el Consejo General del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, en la forma que establezca la ley de la materia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 b) Recibir el Compromiso Constitucional a que aluden los artículos 67 y 105 de esta Constitución;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -779,19 +765,13 @@ c) Conceder la licencia para separarse de sus funciones por más de 60 días, y
 
 d) Nombrar al interino o sustituto, en los casos de falta temporal o absoluta, erigiéndose en Colegio Electoral;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
 XXII.- Nombrar a los Magistrados del Poder Judicial del Estado; así como otorgar el haber de retiro a que se refiere el artículo 64 de esta Constitución;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
 XXIII.- Aceptar las renuncias de los Magistrados del Poder Judicial del Estado en los términos del artículo 68 de esta Constitución;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 XXIII Bis.- (DEROGADA, D.O. 17 DE MAYO DE 2010)
 
@@ -803,19 +783,13 @@ XXIV.- hacer uso del derecho de iniciar Leyes que le concede la Constitución Ge
 
 XXV.- aprobar o no la formación o erección de nuevos Estados o Territorios;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
 XXVI.- Recibir el Compromiso Constitucional a los Magistrados del Poder Judicial del Estado a que alude el artículo 67 de esta Constitución;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 2010)</small>
 
 XXVII.- Resolver las peticiones de licencias para separarse de sus respectivos cargos y renuncias de sus integrantes, del Auditor Superior del Estado, Secretario General del Poder Legislativo, Director General de Administración y Finanzas, Director de Evaluación del Presupuesto y del Director del Instituto de Investigaciones Legislativas del Congreso;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADA, D.O. 19 DE MARZO DE 2010)</small>
 
@@ -828,8 +802,6 @@ XXVIII.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
 XXIX.- arreglar los límites del Estado, por convenios amistosos, los cuales no se llevarán a efecto sin la aprobación del Congreso de la Unión;
 
 XXIX Bis.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 2010)</small>
 
@@ -854,8 +826,6 @@ XXXI Quáter.- Analizar el Informe Anual presentado por la Comisión de Derechos
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 20 DE ABRIL DE 2016)</small>
 
 XXXII.- Nombrar a los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales y a los integrantes de su consejo consultivo, en los términos establecidos en esta constitución y en las leyes aplicables;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
 
@@ -919,8 +889,6 @@ Sus integrantes no podrán ser electos para el período constitucional inmediato
 
 (NOTA: EL 22 DE MARZO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 8/2010, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XLI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
 XLI.- REVOCAR EL MANDATO CONFERIDO AL GOBERNADOR DEL ESTADO, Y A LOS DIPUTADOS EN LO PARTICULAR. EN AMBOS CASOS SERÁ NECESARIA LA DETERMINACIÓN DEL SESENTA Y CINCO POR CIENTO DE LOS ELECTORES INSCRITOS EN EL LISTADO NOMINAL CORRESPONDIENTE, COMUNICADA AL CONGRESO Y APROBADA POR EL VOTO UNÁNIME DE LA LEGISLATURA EN EL CASO DEL GOBERNADOR, Y DE LAS DOS TERCERAS PARTES EN EL DE LOS DIPUTADOS;
@@ -947,19 +915,13 @@ XLVI.- Formular el proyecto de Presupuesto de Egresos del Poder Legislativo, ate
 
 XLVII.- Determinar los servicios públicos que tendrán a su cargo los municipios según las condiciones territoriales y socioeconómicas de los mismos, así como su capacidad administrativa y financiera;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
 
 XLVIII.- Ratificar el nombramiento del secretario responsable del control interno del Poder Ejecutivo, que haga el Gobernador;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
 
 XLIX.- Designar al vicefiscal especializado en Combate a la Corrupción, a través del mismo procedimiento dispuesto en esta Constitución para el fiscal general del estado, y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
 
@@ -982,8 +944,6 @@ Los Diputados que acepten la renuncia del Gobernador, sin llenarse los requisito
 ###### Artículo 33.
 
 No puede el Congreso conceder dispensa de Ley a ninguna persona o corporación, ni tampoco dispensa o revalidación de los estudios que determinen las Leyes sobre Instrucción Pública para efecto de obtener Título Profesional.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O. 19 DE MARZO DE 2010)</small>
 
@@ -1008,8 +968,6 @@ El derecho de iniciar Leyes o Decretos, compete:
 I.- a los Diputados;
 
 II.- al Gobernador del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1065,15 +1023,11 @@ El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Cong
 
 ### CAPITULO VI. De la Auditoría Superior del Estado
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
 
 ###### Artículo 42.
 
 Para funcionar durante los recesos, el Congreso designará a mayoría de votos una diputación permanente compuesta de tres diputados y por cada uno de éstos un suplente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1085,25 +1039,17 @@ Las atribuciones de la Diputación Permanente son:
 
 I.- acordar por sí sola, cuando a su juicio lo exijan el bien o la seguridad del Estado, o a petición del Ejecutivo, la convocación del Congreso a sesiones extraordinarias, señalando el objeto u objetos de esas sesiones, y no pudiendo el Congreso ocuparse de más asuntos que aquellos para los que fue convocado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
 II.- recibir el Compromiso Constitucional a los funcionarios que deban prestarla ante el Congreso;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 2010)</small>
 
 III.- Recibir durante los recesos del Congreso, las iniciativas de Ley, Decreto o Acuerdo, proposiciones y demás asuntos dirigidos a éste y turnarlos para su estudio y dictamen a las comisiones respectivas del Congreso conforme a lo dispuesto en la Ley de Gobierno del Poder Legislativo del Estado de Yucatán, a fin de que se les dé el trámite que corresponda en el inmediato período de sesiones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 2010)</small>
 
 IV.- Resolver sobre las peticiones de licencia del Auditor Superior del Estado, Secretario General del Poder Legislativo, Director General de Administración y Finanzas, Director de Evaluación del Presupuesto y del Director del Instituto de Investigaciones Legislativas del Congreso, cuando traten de separarse temporalmente de sus respectivos encargos; resolver sobre las renuncias de los Magistrados y Consejeros de la Judicatura del Poder Judicial del Estado en los términos de esta Constitución; resolver sobre las renuncias colectivas de miembros de Ayuntamientos y acerca de la desintegración de los mismos, nombrando Concejos en los términos de la fracción XL del artículo 30 de la presente Constitución;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 2010)</small>
 
@@ -1199,8 +1145,6 @@ Se deposita el Poder Ejecutivo del Estado en un ciudadano que se denominará "Go
 
 La elección del Gobernador será popular directa y se hará en los términos que disponga la Ley Electoral.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 46.
@@ -1269,8 +1213,6 @@ Para ser Gobernador Interino del Estado, se requieren los mismos requisitos que 
 
 El Gobernador Constitucional del Estado entrará en funciones el día 1 de octubre y durará en su encargo seis años.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 49.
@@ -1317,8 +1259,6 @@ A) El Gobernador sustituto Constitucional, o el designado para concluir el perí
 
 B) El Gobernador Interino, el provisional o el Ciudadano que bajo cualquiera denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo los dos últimos años del período.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 54.
@@ -1340,8 +1280,6 @@ I.- publicar y hacer cumplir las Leyes federales;
 > <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
 II.- promulgar, publicar y ejecutar las leyes que expida el Congreso, proveer en su esfera administrativa, exacta observancia. Publicar los bandos y reglamentos que acuerden los ayuntamientos, siempre y cuando, éstos no cuenten con sus propios órganos de difusión oficial;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1395,13 +1333,9 @@ a).- Constituyan deuda pública del Estado, o de las entidades paraestatales gar
 
 b).- Deriven de contratos relativos a proyectos para la prestación de servicios aprobados por el H. Congreso, conforme a la ley de la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
 XV.- resolver definitivamente por sí o por conducto del funcionario que al efecto señale el Código de la Administración Pública de Yucatán, sobre las sanciones que las autoridades administrativas apliquen por infracciones a los reglamentos gubernativos, de policía y de los demás recursos que conforme a las Leyes competan;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 XVI.- (DEROGADA, D.O. 17 DE MAYO DE 2010)
 
@@ -1410,8 +1344,6 @@ XVII.- practicar visitas oficiales, cuando lo crea conveniente, a los municipios
 > <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
 
 XVIII.- concurrir al Congreso, cuando lo juzgue conveniente, para presentar o sostener alguna Iniciativa del Ejecutivo o autorizar a cualquier funcionario del mismo para dicho objeto;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1435,13 +1367,9 @@ XXII.- establecer los procedimientos de participación y consulta popular en el 
 
 XXII Bis.- disponer lo necesario, en los términos de la ley respectiva, para garantizar el resultado de los plebiscitos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
 XXIII.- elaborar y remitir el Plan Estatal de Desarrollo, sus actualizaciones, los programas mencionados en la fracción XXII de este Artículo, así como los criterios que le sirven de base al Congreso del Estado para su conocimiento y consideración al ejercer sus atribuciones constitucionales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADA, D.O. 19 DE MARZO DE 2010)</small>
 
@@ -1455,15 +1383,11 @@ XXV.- las demás que le confieren esta Constitución y otras Leyes.
 
 ### CAPITULO IV. De la Organización del Poder Ejecutivo
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 56.
 
 El Gobernador no puede:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1521,15 +1445,11 @@ El Poder Ejecutivo formulará informes trimestrales sobre el avance de la gesti�
 
 Los informes trimestrales serán públicos y se pondrán a disposición de la ciudadanía, para su seguimiento y evaluación, en los términos que establezcan las leyes respectivas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 60.
 
 Todas las iniciativas de Leyes y Decretos así como los reglamentos y acuerdos que el Ejecutivo formule, promulgue o expida, para que sean obligatorios deberán estar firmados por éste y por los titulares de las dependencias que establezca el Código de la Administración Pública de Yucatán, sin este requisito no serán válidos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1539,13 +1459,9 @@ Los titulares de las dependencias y entidades del Poder Ejecutivo, Directores, J
 
 Las ausencias de los servidores públicos y funcionarios del Poder Ejecutivo serán suplidas en los términos del Código de la Administración Pública de Yucatán.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ### CAPITULO VI. De la Defensoría Pública
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1557,15 +1473,9 @@ La Institución del Ministerio Público, en su carácter de representante de la 
 
 Para el cumplimiento de su objeto, el Ministerio Público estará a cargo de la Fiscalía General del Estado de Yucatán, la cual es una dependencia del Poder Ejecutivo, con autonomía técnica y de gestión, bajo el mando del Fiscal General del Estado, quien será su representante legal; y se auxiliará, para la investigación de los delitos, de las instituciones policiales, que actuarán bajo su conducción y mando, de acuerdo con lo que establezcan las leyes.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 El Fiscal General del Estado será designado conforme al siguiente procedimiento: el titular del Poder Ejecutivo someterá una terna a consideración del Congreso del estado, quien designará a aquél que deba ocupar el cargo, mediante el voto de las dos terceras partes de los integrantes del Congreso.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 En caso de que no se alcance la votación requerida, el titular del Poder Ejecutivo someterá otra terna a consideración del Congreso del estado, para que designe al Fiscal General del Estado en los términos del párrafo anterior.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 Si el Congreso del estado, nuevamente, no designara al Fiscal General del Estado, ocupará el cargo la persona que designe el titular del Poder Ejecutivo, quien no podrá haber integrado las ternas previamente propuestas.
 
@@ -1575,13 +1485,9 @@ El Fiscal General del Estado podrá ser removido por el Ejecutivo en términos d
 
 La ley regulará la integración, estructura, funcionamiento, competencia y administración de la Fiscalía General del Estado, y establecerá el servicio profesional de carrera para sus servidores públicos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ### CAPITULO I. Del Poder Judicial
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE ABRIL DE 2016)</small>
 
@@ -1599,33 +1505,23 @@ Las percepciones de los defensores públicos no podrán ser inferiores a las que
 
 La ley regulará la integración, funcionamiento, competencia y administración del Instituto de la Defensoría Pública del Estado, conforme a lo dispuesto por esta Constitución y establecerá el servicio profesional de carrera para los servidores públicos adscritos a la defensoría pública.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 (REUBICADO, D.O. 17 DE MAYO DE 2010)
 
 ### CAPITULO II. De los Requisitos para ser Magistrado
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ## TITULO SEXTO. Del Poder Judicial
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ### CAPITULO III. De las Atribuciones del Tribunal Superior de Justicia
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 64.
 
 El Poder Judicial del Estado se deposita en el Tribunal Superior de Justicia, en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, en los Juzgados de Primera instancia y en los demás establecidos o que en adelante establezca la ley. En el ejercicio de la función judicial impartirá justicia con apego a los principios de autonomía, imparcialidad, independencia, legalidad, objetividad y seguridad jurídica.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1639,95 +1535,63 @@ El Tribunal Superior de Justicia es la máxima autoridad del Poder Judicial y es
 
 Las Salas del Tribunal Superior de Justicia podrán ser unitarias o colegiadas. Las Salas conocerán de las materias, recursos y procedimientos que establezcan esta constitución y las leyes respectivas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 Sus sesiones serán públicas, salvo cuando lo exija la moral o el interés público y en los casos previstos en la ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 Las resoluciones del Pleno del Tribunal Superior de Justicia serán definitivas e inatacables, por lo que contra ellas no procederá juicio, ni recurso alguno.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 El Pleno del Tribunal Superior de Justicia, con la finalidad de realizar una adecuada distribución de los asuntos que le competen a las Salas del Tribunal, estará facultado para expedir acuerdos generales, que deberán ser publicados en el órgano de difusión oficial del Estado para todos los efectos legales que corresponda.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 Cada cuatro años, el Pleno del Tribunal Superior de Justicia elegirá de entre sus miembros al Presidente del Tribunal, quien no integrará Sala y podrá ser reelecto para un período más.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 El Presidente del Tribunal Superior de Justicia será el representante legal del Poder Judicial, con las atribuciones que le confiere esta Constitución y la ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 La ley fijará los términos en que sean obligatorios los criterios que establezcan las Salas y el Pleno del Tribunal Superior de Justicia, sobre la interpretación de esta Constitución, las leyes y reglamentos estatales o municipales, así como los requisitos para su interrupción y modificación, sin contravenir la jurisprudencia de los Tribunales de la Federación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 Los Magistrados del Poder Judicial del Estado durarán en el ejercicio de su cargo seis años, contados a partir de la fecha en que rindan el Compromiso Constitucional, al término de los cuales podrán ser ratificados por un segundo período de hasta por nueve años más y durante el ejercicio de su cargo sólo podrán ser removidos en los términos que establezcan esta Constitución y las leyes de responsabilidades de los servidores públicos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 Al término de los quince años a que se refiere este artículo, los Magistrados del Tribunal Superior de Justicia tendrán derecho a un haber por retiro vitalicio, con base en las percepciones de los Magistrados en activo y conforme lo que establezca la Ley Orgánica del Poder Judicial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 Los Magistrados y Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 La administración, vigilancia y disciplina del Poder Judicial del Estado, con excepción del Tribunal Superior de Justicia, estará a cargo del Consejo de la Judicatura del Poder Judicial, de conformidad con las bases que establezcan esta Constitución y las leyes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 El presupuesto asignado al Poder Judicial del Estado no podrá ser inferior al dos por ciento del total del gasto programable, el cual no será disminuido respecto al del año anterior y se fijará anualmente, en la forma y términos que establezca la ley.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(DEROGADO PÁRRAFO DÉCIMO SEXTO, D.O. 20 DE ABRIL DE 2016)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios es un órgano jurisdiccional del Poder Judicial, que tendrá competencia para resolver los asuntos laborales que surjan entre las autoridades y sus trabajadores, con las atribuciones y la estructura que le confiera la ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 Las leyes establecerán medios alternativos a la vía jurisdiccional contenciosa para dirimir controversias y los órganos encargados de su aplicación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ### CAPITULO IV. Del Control Constitucional Local
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1753,13 +1617,9 @@ Los Magistrados de la Sala especializada en Justicia para Adolescentes deberán 
 
 > <small>(DEROGADO TERCER PÁRRAFO, D.O. 20 DE JUNIO DE 2014)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
 
 Los Magistrados del Tribunal de los Trabajadores al Servicio del Estado y Municipios deberán acreditar experiencia y conocimientos en la materia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1775,15 +1635,11 @@ Los Magistrados podrán ser ratificados por el Congreso del Estado, siempre que 
 
 Para tal efecto, el Pleno del Tribunal Superior de Justicia formulará una evaluación de desempeño que acredite la actuación profesional y ética en el cargo, en los términos de la ley. Dicha evaluación deberá ser presentada al Congreso del Estado para que este órgano la considere y dictamine lo procedente, lo cual deberá ser aprobado por mayoría de los Diputados presentes en la sesión relativa, de conformidad con lo que establezca la ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 67.
 
 Los Magistrados del Poder Judicial del Estado al entrar a ejercer su encargo, manifestarán ante el Congreso, o ante la Diputación Permanente, en los recesos de aquél, el compromiso Constitucional siguiente: Presidente; ¿Se compromete a desempeñar leal y patrióticamente el cargo de Magistrado del Poder Judicial del Estado, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, y las Leyes que de ellas emanen, y pugnar en todo momento por el bien y prosperidad de la Unión y del Estado? - Magistrado: "Si, me comprometo.- Presidente: Si no lo hiciere así, que la Nación y el Estado se lo demanden".
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1800,8 +1656,6 @@ Los Magistrados, Consejeros de la Judicatura, Jueces y Secretarios del Poder Jud
 Las personas que hayan ocupado el cargo de Magistrado, Consejero de la Judicatura o Juez del Poder Judicial del Estado, no deberán, dentro del año siguiente a la fecha de conclusión del cargo, cualquiera que fuere la causa del mismo, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado de Yucatán, con las excepciones que establezca la ley.
 
 Los impedimentos previstos en este artículo serán aplicables a los servidores públicos con licencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1827,13 +1681,9 @@ VII.- Presentar la cuenta pública, con la documentación respectiva y en los t�
 
 VIII.- Las demás que le confieran esta Constitución y otras leyes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ### CAPITULO VI. Del Consejo de la Judicatura
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1893,15 +1743,11 @@ La ley determinará los procedimientos para la substanciación de las Cuestiones
 
 ### CAPITULO VII. De las Disposiciones Generales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 71.
 
 (DEROGADO, D.O. 20 DE JUNIO DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1951,8 +1797,6 @@ En el proceso de programación y presupuestación de los recursos públicos el C
 
 El Consejo de la Judicatura elaborará el presupuesto del Poder Judicial, el cual será remitido por el Presidente del Consejo al titular del Poder Ejecutivo, a más tardar el 15 de octubre de cada año, a fin de que éste considere su incorporación al Proyecto de Presupuesto de Egresos del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ### CAPÍTULO II. De la Comisión de Derechos Humanos del Estado de Yucatán
@@ -1973,8 +1817,6 @@ La aplicación de sanciones por las infracciones de los reglamentos gubernativos
 
 En los términos previstos por esta Constitución, se establece un Sistema Integral de Justicia para las personas que tengan entre 12 años cumplidos y menos de 18 años de edad, a las que se les atribuya o se les declare responsables de conductas tipificadas como delitos en las disposiciones penales del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 La procuración, impartición y acceso a la justicia para adolescentes estará a cargo de la Fiscalía General del Estado, de la Sala Especializada, de los jueces en materia de Justicia para Adolescentes del Poder Judicial del Estado, y del Instituto de la Defensoría Pública del Estado. La ejecución y supervisión de las medidas estará a cargo del Centro de Aplicación de Medidas y la Dirección de Ejecución, Prevención y Reinserción Social, en los ámbitos de sus competencias, los que serán órganos especializados en la materia.
@@ -1987,13 +1829,9 @@ Los procedimientos seguidos a los adolescentes, tendrán como principios rectore
 
 En los términos y condiciones de Ley, se aplicarán medidas de orientación, protección y tratamiento externo o en internamiento que amerite cada caso, con el fin de lograr la reincorporación social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 El internamiento se utilizará como medida extrema, en el menor tiempo posible, y se aplicará a los adolescentes mayores de catorce años de edad, por la comisión de conductas calificadas como delitos graves en la ley de materia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 (REUBICADO, D.O. 17 DE MAYO DE 2010)
 
@@ -2015,19 +1853,13 @@ I.- La Comisión de Derechos Humanos del Estado de Yucatán;
 
 II.- El Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
 
 III.- El Instituto Electoral y de Participación Ciudadana de Yucatán;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
 
 IV.- El Tribunal Electoral del Estado de Yucatán, y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
 
@@ -2087,8 +1919,6 @@ El Instituto Estatal de Transparencia, Acceso a la Información Pública y Prote
 
 ### CAPÍTULO VI. Del Tribunal de Justicia Administrativa del Estado de Yucatán
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, D.O. 20 DE ABRIL DE 2016)</small>
 
 ###### Artículo 75 Bis.
@@ -2122,8 +1952,6 @@ El Tribunal Electoral del Estado de Yucatán es un organismo público, autónomo
 El Tribunal Electoral del Estado de Yucatán funcionará en Pleno, se integrará por tres magistrados quienes serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, durarán en su cargo siete años.
 
 El Magistrado Presidente será designado de entre sus integrantes, por la votación mayoritaria de los magistrados electorales, de conformidad con el procedimiento que establezca la ley respectiva.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 20 DE ABRIL DE 2016)</small>
 
@@ -2221,8 +2049,6 @@ III.- Saber leer y escribir;
 
 IV.- No ser ministro de culto religioso, salvo que se separe definitivamente de su encargo, cinco años antes de la elección, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y en la Ley de la materia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
 V.- No ser Gobernador del Estado, Magistrado del Tribunal Superior de Justicia o del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios o Consejero de la Judicatura, durante el año calendario de la elección, a menos que se separe de sus funciones 120 días antes de la elección;
@@ -2269,8 +2095,6 @@ La ley que organiza y reglamenta el funcionamiento de los ayuntamientos, estable
 
 Dichos organismos privilegiarán la conciliación como mecanismo de solución de controversias.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 En los municipios que no cuenten con un Tribunal de lo Contencioso Administrativo, resolverá las controversias a que se refiere el presente artículo, el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado.
@@ -2312,8 +2136,6 @@ VII.- En materia de participación ciudadana, como forma de expresión social, l
 VIII.- Las leyes no establecerán exenciones o subsidios en favor de persona alguna, respecto de contribuciones municipales. Sólo los bienes del dominio público, estarán exentos de dichas contribuciones, salvo que se utilicen por entidades paraestatales, o los particulares, bajo cualquier título, para fines administrativos distintos a los de su objeto público;
 
 IX.- Para el cobro de sus percepciones fiscales, los ayuntamientos tendrán la facultad económico-coactiva, aplicando el procedimiento administrativo de ejecución, en los términos que establezca el Código Fiscal del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O. 19 DE MARZO DE 2010)</small>
 
@@ -2391,8 +2213,6 @@ VI.- Rastro;
 
 VII.- Calles, parques y jardines y su equipamiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
 VIII.- Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito, que estarán al mando del Presidente Municipal, en los términos de la ley en materia de seguridad pública del Estado y demás disposiciones aplicables;
@@ -2449,13 +2269,9 @@ Los municipios podrán celebrar convenios con el Ejecutivo del Estado, a fin de 
 
 El Estado, en su función ordenadora de la convivencia humana, ejercerá la acción que le compete, en la medida necesaria para asegurar la solidaridad de los elementos asociados y garantizar a éstos una equitativa participación en el bienestar que nace de la convivencia misma.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 17 DE MAYO DE 2010)</small>
 
 La Seguridad Pública en Yucatán es una función a cargo del Estado y de los Municipios, en coordinación con la Federación, y tiene por objeto la prevención, la investigación y persecución de los delitos, así como la sanción de las infracciones administrativas, en el ámbito de sus respectivas competencias. La actuación de las instituciones estatal y municipales de Seguridad Pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en los Tratados Internacionales en la materia ratificados por el Estado Mexicano y publicados en el Diario Oficial de la Federación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -2468,8 +2284,6 @@ El Estado, por medio de sus Poderes Públicos, garantizará el respeto al derech
 > <small>(REFORMADA, D.O. 26 DE JULIO DE 2013)</small>
 
 I.- Las personas en el Estado tienen derecho a vivir en un ambiente saludable que les permita una vida digna, y a hacer uso racional de los recursos naturales con que cuenta la Entidad, para alcanzar el desarrollo sostenido, en los términos que señale la Ley de la materia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADA, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -2503,15 +2317,11 @@ IV Bis.- Garantizar el cumplimiento del principio de presunción de inocencia, p
 
 V.- ordenar las relaciones sociales hacia el fin de que la convivencia deje de ser pesada carga para la mayoría y fuente de bienandanza para una minoría, adoptando como principio de justicia el de que cada quien debe cooperar al bienestar colectivo, en la medida de sus fuerzas físicas e intelectuales, y recibir en cambio, de la sociedad, lo bastante para satisfacer sus necesidades;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
 VI.- operar el sistema procesal penal acusatorio, caracterizado por su oralidad y basado en los principios de publicidad, contradicción, concentración, continuidad e inmediación, salvo las excepciones que establezca la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y la ley, el cual tiene por objeto esclarecer los hechos, proteger al inocente, procurar que el hecho delictivo no quede impune y que los daños causados por el mismo sean reparados.
 
 La ley establecerá el procedimiento que deberá seguirse ante los tribunales penales y las demás instituciones que formarán parte del sistema acusatorio, y deberá garantizar que el juicio se efectúe ante un juez o tribunal que no haya conocido del caso previamente;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADA, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -2699,25 +2509,17 @@ El Estado propugnará por una correcta aplicación de los recursos y al efecto e
 
 La Ley determinará cuales serán los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenio con los Gobiernos Federal y Municipal e induzca y concerte con los particulares, las acciones a realizar para la elaboración y ejecución del Plan Estatal de Desarrollo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
 
 La planeación para el desarrollo estatal y municipal facilitará la programación del gasto público con base en objetivos y metas, claros y cuantificables, que permitan evaluar adecuadamente su cumplimiento, a fin de conocer los resultados obtenidos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
 
 La ley facultará al Poder Ejecutivo para que establezca los procedimientos de participación y consulta popular en el sistema estatal de planeación democrática, y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
 
 La planeación del Estado también implicará mecanismos para el uso racional de los recursos naturales, la salud y el desarrollo sostenido.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 20 DE ABRIL DE 2016)</small>
 
@@ -2733,35 +2535,27 @@ Para los efectos de las responsabilidades a que alude este título se reputarán
 
 Los servidores públicos a que se refiere este artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses ante las autoridades competentes, en los términos que determine la ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 Los servidores públicos del Estado y de los Municipios, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades, la que se determinará anual y equitativamente en los presupuestos de egresos correspondientes, de acuerdo a las bases establecidas en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 Las remuneraciones de los servidores públicos y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie, en los términos que establezca la Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 Los servidores públicos del Estado y de los municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que estén bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 Todo servidor público es responsable por la comisión de delitos en el ejercicio de su encargo.
 
-> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
+(NOTA: EL 25 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 207/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-Para proceder penalmente en contra del Gobernador del estado; los diputados locales en funciones; los magistrados y los consejeros de la judicatura del Poder Judicial del estado; el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los Magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; los titulares de las dependencias de la Administración Pública estatal; y los presidentes municipales, es necesario la declaración de procedencia que emita el Congreso del estado.
+> <small>(REFORMADO, D.O. 19 DE JUNIO DE 2017)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+Para proceder penalmente en contra de los magistrados y consejeros de la Judicatura del Poder Judicial del Estado, se requerirá la declaración de procedencia que emita el Congreso del estado, ÚNICAMENTE POR LA COMISIÓN DE DELITOS COMETIDOS CONTRA LA ADMINISTRACIÓN DE JUSTICIA Y OTROS RAMOS DEL PODER PÚBLICO, PARTICULARMENTE EN LAS RESOLUCIONES O SENTENCIAS QUE PRONUNCIEN, ESTABLECIDOS EN EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN.
 
 > <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
 
@@ -2805,8 +2599,6 @@ Podrán ser sujetos de juicio político los diputados locales en funciones; los 
 
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñarse.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 En caso de conocer de la acusación, el Congreso del Estado, erigido en Gran Jurado, dictará la sanción correspondiente mediante la resolución de la mayoría absoluta de los miembros presentes, una vez practicadas las diligencias correspondientes y con audiencia del acusado.
@@ -2819,15 +2611,17 @@ Cuando al Congreso del Estado le sea comunicado, con efecto de notificación, la
 
 Las declaraciones y resoluciones de la Legislatura del Estado son definitivas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE ABRIL DE 2016)</small>
+(NOTA: EL 25 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 207/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+REFORMADO PRIMER PÁRRAFO, D.O. 19 DE JUNIO DE 2017)
 
 ###### Artículo 100.
 
-El Congreso del estado, mediante el voto de las dos terceras partes del total de sus integrantes, resolverá lo conducente, para proceder penalmente contra los diputados locales; los magistrados y los consejeros de la judicatura del Poder Judicial del estado; el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; los titulares de las dependencias de la Administración Pública centralizada y los directores generales o sus equivalentes de la Administración Pública paraestatal; y los presidentes municipales, por la comisión de delitos durante su encargo.
+El Congreso del estado, mediante el voto de las dos terceras partes del total de sus integrantes, resolverá lo conducente, para proceder penalmente en contra de los magistrados y consejeros de la Judicatura del Poder Judicial del estado, ÚNICAMENTE POR LA COMISIÓN DE DELITOS COMETIDOS CONTRA LA ADMINISTRACIÓN DE JUSTICIA Y OTROS RAMOS DEL PODER PÚBLICO, PARTICULARMENTE EN LAS RESOLUCIONES O SENTENCIAS QUE PRONUNCIEN, ESTABLECIDOS EN EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EFECTUADOS DURANTE SU ENCARGO.
 
-> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, D.O. 19 DE JUNIO DE 2017)</small>
 
-El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por delitos graves del orden común.
+Los diputados locales; los magistrados y los consejeros de la judicatura del Poder Judicial del estado; el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; los titulares de las dependencias de la Administración Pública centralizada y los directores generales o sus equivalentes de la Administración Pública paraestatal; y los presidentes municipales, que fueran objeto de proceso penal, permanecerán en su cargo, hasta en tanto se dicte sentencia condenatoria definitiva.
 
 > <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
@@ -2860,8 +2654,6 @@ Las sanciones económicas no podrán exceder de tres tantos del beneficio obteni
 ###### Artículo 101.
 
 El procedimiento de Juicio Político sólo podrá iniciarse durante el período en que el servidor público esté en funciones o hasta un año después de haberse separado del cargo.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, D.O. 20 DE ABRIL DE 2016)</small>
 
@@ -2911,8 +2703,6 @@ Ningún individuo podrá desempeñar a la vez dos o más cargos de elección pop
 
 Ningún pago podrá hacerse sin que esté comprendido en el Presupuesto, o determinado por Ley posterior a éste.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 105.
@@ -2925,39 +2715,27 @@ Todo servidor público del Estado y de los municipios, sin excepción alguna, an
 
 La responsabilidad del Gobernador, Secretario de Gobierno y demás funcionarios superiores de la administración pública, así como la de los Presidente Municipales, no excusa la de los subalternos que obedezcan órdenes de aquéllos, dirigidas a suspender o retardar las elecciones populares, la realización de los procedimientos de participación ciudadana, la instalación del Congreso, de los ayuntamientos o el libre ejercicio de las funciones de éstos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(ADICIONADO PRIMER PÁRRAFO, D.O. 19 DE MARZO DE 2010)</small>
 
 ###### Artículo 107.
 
 Los órganos públicos del Estado y de los municipios deberán de administrar y ejercer los recursos públicos a su cargo con eficiencia, eficacia, economía, transparencia y honradez, para satisfacer los objetivos a los que estén destinados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
 
 Los resultados de la ejecución de los programas y del ejercicio de los recursos públicos, serán evaluados por un Órgano de Evaluación, dependiente del Congreso del Estado, con las características que determine la Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
 
 Los indicadores de los resultados a evaluar se deberán incorporar en el proceso de programación y presupuestación de los recursos públicos de las entidades fiscalizadas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
 
 Dicho órgano realizará la evaluación del desempeño por sí mismo o a través de la contratación de terceros, bajo principios de imparcialidad y transparencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
 
 La Ley determinará la organización y atribuciones del Órgano de Evaluación, los requisitos para ser su titular, así como el procedimiento para su designación y remoción, en su caso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
 
@@ -4389,7 +4167,7 @@ El Congreso del Estado de Yucatán deberá expedir las modificaciones necesarias
 
 D.O. 30 DE MAYO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 488/2017 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE FINANCIAMIENTO PARA LOS PARTIDOS POLÍTICOS”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 488/2017 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE FINANCIAMIENTO PARA LOS PARTIDOS POLÍTICOS".]
 
 Primero. Entrada en vigor
 
@@ -4414,3 +4192,15 @@ LOS RECURSOS QUE RESULTEN EXCEDENTES Y QUE NO SE ENTREGUEN A LOS PARTIDOS POLÍT
 QUINTO. DETERMINACIÓN DEL CÁLCULO DE LA REDUCCIÓN DEL FINANCIAMIENTO
 
 EL CÁLCULO DE LA REDUCCIÓN DEL FINANCIAMIENTO PÚBLICO PARA LOS PARTIDOS POLÍTICOS EN APLICACIÓN DE ESTE DECRETO, QUE REALICE EL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE YUCATÁN, DEBERÁ SER SOBRE LA BASE DEL FINANCIAMIENTO APLICABLE AL AÑO CORRESPONDIENTE.
+
+D.O. 19 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 491/2017 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE FUERO Y RECONOCIMIENTO DE LOS DERECHOS A LA IDENTIDAD"].
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Obligación normativa
+
+El Congreso del Estado de Yucatán deberá expedir las modificaciones necesarias a la legislación secundaria, para armonizarla a las disposiciones de este decreto, en un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
