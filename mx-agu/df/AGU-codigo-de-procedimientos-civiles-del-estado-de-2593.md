@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2016-11-07"
+last_updated: "2017-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -519,8 +521,6 @@ Las sentencias deberán dictarse dentro de ocho días siguientes a la citación.
 
 Las sentencias deberán ser claras, precisas y congruentes con la demanda y su contestación y con las demás pretensiones deducidas oportunamente en el pleito, condenando o absolviendo al demandado, y decidiendo todos los puntos litigiosos que hubieren sido objeto del debate. Cuando éstos hubieren sido varios, se hará el pronunciamiento correspondiente a cada uno de ellos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 Cuando el juicio se siga en rebeldía, deberán verificar de oficio, la existencia de los elementos para la procedencia de la acción.
@@ -659,15 +659,11 @@ Las notificaciones, emplazamientos y citaciones se verificarán a partir del mom
 
 Cuando la notificación, emplazamiento o citación deba efectuarse en un partido judicial distinto al del Juez que lo decretó, éste remitirá de inmediato a la Dirección de Notificadores o al Notificador que corresponda la cédula y los demás documentos necesarios para que se proceda a su inmediata diligencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 104.
 
 Las notificaciones se harán personalmente, por cédula, por la lista de acuerdos, por correo electrónico, por edictos o por comparecencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -679,8 +675,6 @@ También deben designar la casa en la que ha de hacerse la primera notificación
 
 Cuando un litigante o un tercero no cumplan con lo prevenido en el primer párrafo de este Artículo, las notificaciones que deban hacerse personalmente, se les harán por lista de acuerdos conforme a las no personales; si faltare al segundo párrafo, no se hará la notificación a la persona a quien se dirija hasta que subsanen la omisión.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 106.
@@ -688,8 +682,6 @@ Cuando un litigante o un tercero no cumplan con lo prevenido en el primer párra
 Entre tanto que un litigante o un tercero no hicieren nueva designación de la casa o de la dirección electrónica donde se les hagan las notificaciones personales, seguirán haciéndoseles en la que para ello hubiesen designado.
 
 En caso que el domicilio se encuentre vacío o esté permanentemente cerrado, ordenará que las notificaciones personales se les hagan por lista de acuerdos conforme a las no personales. Se entenderá que el domicilio se encuentra permanentemente cerrado cuando el notificador haya verificado y asentado tal circunstancia en tres días y horas hábiles diversos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -713,8 +705,6 @@ VI. En los demás casos que la Ley lo disponga.
 
 Cuando variare el personal de un tribunal, no se proveerá decreto haciendo saber el cambio, sino que al margen del primer proveído que se dictare, después de ocurrido el cambio, se pondrán completos los nombres y apellidos de los nuevos servidores públicos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 109.
@@ -723,23 +713,17 @@ El emplazamiento de la demanda y de la reconvención, así como la primera notif
 
 También se practicará la primera notificación o el emplazamiento por medio de cédula, cuando no se encuentre al interesado o a su representante en la casa designada, la que se entregará a cualquier persona que viva o trabaje en la casa, después que el notificador se haya cerciorado de que allí vive o labora la persona con la que la practica como la que debe ser notificada, todo lo cual se asentará en la razón.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 110.
 
 Si se tratare de la notificación de la demanda o de la reconvención, se entregará copia íntegra de ella y de los documentos, según lo que prescribe este código para cada caso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 111.
 
 Después que el notificador se hubiere cerciorado que la persona por notificar vive en la casa, no encontrándolo, y se negare con quien entiende la diligencia a la práctica de la notificación, se hará en el lugar en que trabaje o se encuentre el interesado, sin necesidad de que el juez dicte una determinación especial para ello. También quedan habilitados por ministerio de ley, tanto los días y las horas inhábiles para la práctica de la diligencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -768,8 +752,6 @@ En los casos de las fracciones I y II, los edictos se publicarán por tres veces
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2010)</small>
 
 Previo al emplazamiento por edictos, el Juez deberá girar oficio a la Policía Ministerial, al Registro Público de la Propiedad y del Comercio, a la Dirección General de Catastro, a la Comisión Federal de Electricidad y a cualquier otra dependencia pública que considere pertinente, a fin de que le informen si en sus registros cuentan con algún domicilio de quien se deba emplazar. En todo caso el Juez otorgará un término de cinco días para que se le remita el referido informe.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -812,8 +794,6 @@ II.- Las demás desde el día siguiente al de la fijación de la lista de acuerd
 ###### ARTICULO 119.
 
 Los secretarios de los juzgados y del tribunal de justicia o quienes hagan sus veces, formularán diariamente por duplicado y autorizada con su firma y sello del tribunal, en forma física o electrónica una lista de los negocios acordados o resueltos, expresando el número del expediente, la naturaleza del juicio, los nombres y apellidos de todos los interesados, así como el sentido de la resolución o acuerdo de que se trate en forma sucinta. Uno de los ejemplares lo fijarán en la tabla de avisos de la oficina, a más tardar a las nueve horas del día siguiente del acuerdo, y el otro se guardará en el archivo del tribunal para resolver cualquier duda que se suscite; además la lista de acuerdos deberá publicarse en la página oficial electrónica del Poder Judicial.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -1567,8 +1547,6 @@ VI.- Los fundamentos de derecho, procurando citar los preceptos legales o princi
 
 VII.- En su caso, el valor de lo demandado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2015)</small>
 
 La solicitud de divorcio deberá cumplir con los requisitos señalados en el párrafo anterior, con excepción del contenido en su Fracción V. Asimismo, se deberá incluir la propuesta de convenio previsto en el Artículo 289 del Código Civil, y ofrecer todas las pruebas tendientes a acreditar la procedencia de la propuesta de dicho convenio.
@@ -1607,8 +1585,6 @@ Las excepciones que se tengan, cualquiera que sea su naturaleza, se harán valer
 
 La demanda deberá contestarse negándola, confesándola u oponiendo excepciones. El demandado deberá referirse a todos y cada uno de los hechos comprendidos en la demanda, afirmándolos, negándolos, expresando los que ignore por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se tendrán por admitidos los hechos sobre los que el demandado no suscitare explícitamente controversia, sin admitírsele prueba en contrario. La negación pura y simple del derecho importa la confesión de los hechos; la confesión de éstos no entraña la confesión del derecho.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2015)</small>
 
 En los casos de divorcio el demandado podrá manifestar su conformidad con el convenio propuesto o, en su caso, presentar su contrapropuesta, debiendo anexar las pruebas respectivas relacionadas con la misma.
@@ -1631,8 +1607,6 @@ Confesada expresamente la demanda en todas sus partes o manifestando el actor su
 
 Si las cuestiones controvertidas fueren puramente de derecho, se pondrán los autos a disposición de las partes para alegatos, por el término común de seis días. Lo dispuesto en este artículo no es aplicable en los juicios o procedimientos en cuya resolución se afecten intereses de menores o incapacitados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
 
 En los casos de divorcio, si los cónyuges llegan a un acuerdo respecto al convenio, el Juez dictará sentencia en la cual decrete la disolución del vínculo matrimonial y la aprobación del convenio.
@@ -1640,8 +1614,6 @@ En los casos de divorcio, si los cónyuges llegan a un acuerdo respecto al conve
 ###### ARTICULO 233.
 
 Contestada la demanda o en su caso, la reconvención, o transcurridos los términos para ello, a petición de parte o de oficio se recibirá el juicio a prueba señalándose un término de seis días para que las partes ofrezcan las pruebas que deseen rendir.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2015)</small>
 
@@ -2443,8 +2415,6 @@ En el propio auto en que el Juez admita las pruebas que se ofrezcan, se citará 
 
 Antes de recibir las pruebas que se hayan admitido, se intentará la conciliación de las partes mediante el arbitraje del Juez, en términos de lo establecido por el Artículo 69 de este Código. Si no se llega a un acuerdo se continuará con la audiencia en los términos previstos en el párrafo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
 
 Tratándose de divorcio, el Juez lo decretará una vez que se haya contestado la solicitud presentada o en su defecto, haya precluido el término para contestarla. En caso de diferencias en los convenios propuestos, el Juez, dentro de los cinco días siguientes, citará a las partes para promover el acuerdo entre las pretensiones expuestas en los citados convenios y de no lograrlo, procederá en términos del Artículo 295 del Código Civil y el Título Séptimo del presente Código, asimismo, exhortará a las partes a que acudan al Centro de Mediación del Poder Judicial para que intenten conciliar los aspectos del convenio en los que no exista acuerdo.
@@ -2540,8 +2510,6 @@ Si en la audiencia no pronunciare el tribunal su sentencia, en ella misma citar�
 ###### ARTICULO 371.
 
 Al pronunciarse la sentencia se estudiarán previamente las excepciones que no destruyan la acción, y, si alguna de estas se declara procedente, se abstendrán los tribunales de entrar al fondo del negocio, dejando a salvo los derechos del actor. Si dichas excepciones no se declaran procedentes, se decidirá sobre el fondo del negocio, condenando o absolviendo, en todo o en parte, según el resultado de la valuación de las pruebas que haga el tribunal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
 
@@ -3487,8 +3455,6 @@ No es lícito interponer tercería excluyente de dominio a aquél que consintió
 
 Las tercerías excluyentes pueden oponerse en todo negocio, cualquiera que sea su estado, con tal de que si son de dominio no se haya dado posesión de los bienes al rematante o al actor en su caso, por vía de adjudicación, y que si son de preferencia, no se haya hecho el pago al demandante.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 516.
@@ -3865,39 +3831,27 @@ En las contiendas sobre desahucio, se entiende domicilio legal la finca o depart
 
 Los juicios que versen sobre pago o aseguramiento de alimentos se tramitarán conforme a las reglas generales del juicio y a las especiales de este Capítulo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
 
 En los casos de los Artículos 292 y 297 del Código Civil, se observarán las disposiciones relativas de este procedimiento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 2015)</small>
 
 Las personas que, en su caso, sean autorizadas conforme al Artículo 116 del presente Código, estarán facultadas para acudir en nombre y representación de los acreedores alimentarios, a la diligencia que tiene como fin requerir al que deba cubrir los alimentos por el pago de la primer pensión y para realizar cualquier actuación a fin de que se garantice el pago de las subsecuentes en términos de lo que establezca la resolución respectiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 2015)</small>
 
 El actor deberá ofrecer pruebas al presentar su demanda, sea por escrito o por comparecencia personal en términos de lo dispuesto por el Artículo 572 de este Código; el demandado deberá ofrecer pruebas en su escrito de contestación de demanda. El Juez, al tener por contestada la demanda o la reconvención, o concluidos los plazos para ello, de oficio dictará el auto de admisión de pruebas y señalará fecha de audiencia para su desahogo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 2015)</small>
 
 El Juez podrá actuar e intervenir de oficio en los asuntos de alimentos.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 572.
 
 Las personas señaladas en el artículo 337 del Código Civil podrán acudir ante el Juez por escrito o por comparecencia personal para demandar el pago de alimentos, pudiendo solicitar una pensión alimenticia provisional mientras se resuelve el juicio, en cuyo caso en el escrito o comparecencia se deberá manifestar, bajo protesta de decir verdad, los hechos que le constan sobre la situación económica del demandado, el monto y origen de sus ingresos, bienes y propiedades, así como el nivel de vida que haya proporcionado al acreedor en los últimos dos años, debiendo acompañar:
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
@@ -3913,7 +3867,9 @@ El Juez podrá tomar en cuenta tanto los ingresos como las erogaciones del deudo
 
 En caso de que el Juez considere que los elementos aportados por el actor son suficientes para fijar objetivamente la pensión provisional, en el auto de admisión de la demanda señalará la cantidad o porcentaje de las percepciones y prestaciones económicas del demandado que la constituirán y mandará abonarla por mensualidades anticipadas, mientras se resuelve en definitiva.
 
-El Juez deberá recabar de oficio las pruebas que estime necesarias en caso de que el actor no aporte los elementos indispensables para fijar objetivamente la pensión provisional, por lo que en el auto de admisión de la demanda ordenará las diligencias necesarias y en términos del Artículo 331 Bis del Código Civil, solicitará información sobre la situación económica del deudor a instituciones financieras o a cualquier instancia pública o privada, las cuales deberán contestar dentro de los cinco días siguientes contados a partir de que se les notifique la solicitud, de lo contrario el Juez les podrá imponer las medidas de apremio previstas en el presente Código.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
+
+El Juez deberá recabar de oficio las pruebas que estime necesarias en caso de que el actor no aporte los elementos indispensables para fijar objetivamente la pensión provisional, por lo que en el auto de admisión de la demanda ordenará las diligencias necesarias y en términos del Artículo 331 Bis del Código Civil, solicitará por oficio o mediante el uso de medios electrónicos, la información sobre la situación económica del deudor a instituciones financieras o a cualquier instancia pública o privada, las que deberán contestar dentro de los tres días siguientes contado (sic) a partir de que se les notifique la solicitud, y de lo contrario el Juez les podrá imponer las medidas de apremio previstas en el presente Código.
 
 Una vez que el Juez cuente con elementos para fijar objetivamente la pensión provisional, sin que sea necesario desahogar la totalidad de las actuaciones referidas en el párrafo anterior, señalará la cantidad, salarios mínimos o porcentaje de las percepciones y prestaciones económicas del demandado que la constituirán y mandará abonarla por mensualidades anticipadas, mientras se resuelve en definitiva.
 
@@ -4071,8 +4027,6 @@ Cuando la sentencia decrete la demolición de la obra peligrosa, el juez dispond
 
 ### CAPITULO IX
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTICULO 598.
 
 Los procedimientos sobre nulificación, reposición o rectificación de las actas del registro civil, se tramitarán conforme las reglas del juicio y a las especiales siguientes.
@@ -4099,8 +4053,6 @@ Es juez competente para conocer de estos juicios, el de Primera Instancia de la 
 
 Tan luego como cause ejecutoria la sentencia que se pronuncie en estos juicios, el juez cumplirá lo dispuesto en el artículo 135 del Código Civil.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 2015)</small>
 
 ### CAPITULO X. De la Pérdida de la Patria Potestad
@@ -4121,61 +4073,41 @@ Corresponderá a la Procuraduría de Protección de Derechos de Niñas, Niños y
 
 (DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTICULO 605.
 
 (DEROGADO, P.O. 22 DE JUNIO DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 606.
 
 (DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTICULO 607.
 
 (DEROGADO, P.O. 22 DE JUNIO DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 608.
 
 (DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTICULO 609.
 
 (DEROGADO, P.O. 22 DE JUNIO DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 610.
 
 (DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTICULO 611.
 
 (DEROGADO, P.O. 22 DE JUNIO DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 612.
 
 (DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTICULO 613.
 
 (DEROGADO, P.O. 22 DE JUNIO DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 614.
 
@@ -6371,8 +6303,6 @@ P.O. 22 DE JUNIO DE 2015.
 
 El presente Decreto iniciará su vigencia a los treinta días hábiles siguientes al de su publicación en el Periódico Oficial del Estado de Aguascalientes, quedando sin efecto todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2015)</small>
 
 Por lo que hace a los juicios de divorcio en trámite, será potestativo para cualquiera de las partes acogerse a las reformas establecidas en el presente Decreto, para lo cual se tendrá que presentar la propuesta de convenio referido en el Artículo 289 del Código Civil. En caso de que los cónyuges no logren un acuerdo respecto a dicho convenio, las cuestiones controvertidas se sustanciarán vía incidental en términos de lo dispuesto por el Artículo 295 del Código Civil, y al resolverlas el Juez deberá considerar las pruebas que, en su caso, haya admitido o desahogado antes de la presentación de la propuesta de convenio y que tengan relación con los puntos controvertidos.
@@ -6442,3 +6372,11 @@ El presente Decreto entrará en vigencia a los quince días hábiles siguientes 
 ###### ARTÍCULO SEGUNDO.
 
 Antes del inicio de vigencia del presente Decreto, los Poderes Ejecutivo y Judicial del Estado, establecerán el contenido del formato oficial a utilizar para la solicitud de atestados del registro civil, así como sus correspondientes medidas de seguridad, tales como firma y sello autorizados.
+
+P.O. 19 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 102.- SE REFORMA EL ARTÍCULO 572 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
