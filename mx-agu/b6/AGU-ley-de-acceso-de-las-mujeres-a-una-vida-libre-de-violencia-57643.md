@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2016-08-22"
+last_updated: "2017-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -258,6 +258,10 @@ I. La reeducación libre de estereotipos y la información de alerta sobre el es
 II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres, y
 
 III. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las dependencias.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2017)</small>
+
+Artículo 16 bis.- La violencia política de género, es la definida como tal en el Código Electoral del Estado de Aguascalientes, ordenamiento que además establece las acciones y omisiones que la constituyen.
 
 ### CAPÍTULO III. De la Prevención, Atención y Sanción
 
@@ -531,13 +535,13 @@ XII. Un representante del Sistema Estatal para el Desarrollo Integral de la Fami
 
 XIII. Un representante del Presidente de la Comisión Estatal de Derechos Humanos;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
 
-XIV. Un representante de la Comisión de Equidad de Género del Congreso del Estado;
+XIV. Un representante del Instituto Estatal Electoral;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
 
-XV. Un representante de la Comisión de Derechos Humanos del Congreso del Estado;
+XV. Un representante de la Comisión de Equidad de Género del Congreso del Estado y otro de la Comisión de Derechos Humanos del Congreso del Estado;
 
 > <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2016)</small>
 
@@ -831,13 +835,17 @@ VII. Rendir un informe bimensual a la Coordinación General del Consejo de las a
 
 VIII. Realizar estudios estadísticos e investigaciones referentes al acceso a la justicia de las mujeres víctimas de violencia, así como de las causas y sentencias que se dictan en contra de las mujeres responsables de delitos;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
 
-IX. Especializar a las y los agentes del Ministerio Público, peritos, personal adscritos a la Fiscalía General del Estado que atiende a víctimas a través de programas y cursos permanentes en: derechos humanos y género, perspectiva de género para la debida diligencia en la conducción de averiguaciones previas y procesos judiciales relacionados con discriminación, y violencia, incorporación de la perspectiva de género en los servicios periciales, eliminación de estereotipos sobre el rol social de las mujeres, entre otros; y
+IX. Especializar a las y los agentes del Ministerio Público, peritos, personal adscritos a la Fiscalía General del Estado que atiende a víctimas a través de programas y cursos permanentes en: derechos humanos y género, perspectiva de género para la debida diligencia en la integración de carpetas de investigación y conducción de procesos judiciales relacionados con discriminación y violencia, incorporación de la perspectiva de género en los servicios periciales, eliminación de estereotipos sobre el rol social de las mujeres, entre otros;
 
-> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
 
-X. Las demás que le asigne el Programa.
+X. Impulsar mecanismos de promoción, protección y respeto de los derechos político-electorales de las mujeres; y
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2017)</small>
+
+XI. Las demás que le asigne el Programa.
 
 ###### Artículo 56.
 
@@ -923,13 +931,15 @@ V. Rendir un informe bimensual a la Coordinación General del Consejo de las act
 
 VI. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres, niñas y niños desaparecidos, para la investigación de homicidios y violencia sexual contra este sector de la población;
 
-> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
 
-VII. Crear y administrar un sistema de registro público de los delitos que atenten contra la vida y la salud, así como la libertad sexual, seguridad sexual y libre desarrollo psicosexual, cometidos en contra de algún particular y en el cual se integre la estadística criminal y victimal, para definir políticas en materia de prevención del delito y procuración de justicia que incluya la clasificación de los hechos de los que tenga conocimiento, lugar en que ocurrieron, especificando su tipología, características de la víctima y del sujeto activo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño; y
+VII. Crear y administrar un sistema de registro público de los delitos que atenten contra la vida y la salud, así como la libertad sexual, seguridad sexual, el normal desarrollo físico y psicosexual, así como el libre desarrollo de la personalidad, cometidos en contra de algún particular y en el cual se integre la estadística criminal y victimal, para definir políticas en materia de prevención del delito y procuración de justicia que incluya la clasificación de los hechos de los que tenga conocimiento, lugar en que ocurrieron, especificando su tipología, características de la víctima y del sujeto activo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño;
 
-> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2013)</small>
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2017)</small>
 
-VIII. Las demás que le asigne el Programa.
+VIII. Promover y proteger a través de la Fiscalía Especial en Delitos Electorales, el ejercicio de los derechos humanos político-electorales de las mujeres; y
+
+IX. Las demás que le asigne el Programa.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2015)</small>
 
@@ -1203,6 +1213,26 @@ IV. Instalar módulos de información sobre las causas y consecuencias de la vio
 
 V. Los demás asuntos que en materia de violencia de género contra las mujeres les confiera esta Ley u otros ordenamientos legales.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE JUNIO DE 2017)</small>
+
+#### SECCIÓN SEXTA. Del Instituto Estatal Electoral
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2017)</small>
+
+###### Artículo 79.
+
+Corresponde al Instituto Estatal Electoral, en el ámbito de su competencia:
+
+I. Prevenir, atender, sancionar y en su caso erradicar la violencia política de género;
+
+II. Garantizar la igualdad sustantiva y el pleno ejercicio de los derechos políticos de las mujeres;
+
+III. Realizar la difusión en los medios de comunicación de las conductas, acciones u omisiones que conllevan a la violencia política de género, así como la prevención, formas de denuncia y conciencia sobre la erradicación de ésta;
+
+IV. Capacitar a las personas integrantes de sus organismos y demás personal adscrito al propio Instituto o funcionarios electorales, para prevenir y en su caso erradicar la violencia política de género; y
+
+V. Las demás le asignen el Programa, o que establezcan esta Ley y otras disposiciones aplicables.
+
 TRANSITORIOS:
 
 ###### ARTÍCULO PRIMERO.
@@ -1340,3 +1370,11 @@ P.O. 22 DE AGOSTO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el periódico oficial del Estado.
+
+P.O. 19 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 99.- SE ADICIONA Y REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Aguascalientes.
