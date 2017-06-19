@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-patrimonio-inmobiliario-del-municipio-de-69522"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-27"
-last_updated: "2009-07-27"
+last_updated: "2017-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DEL PATRIMONIO INMOBILIARIO DEL MUNICIPIO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 27 de julio de 2009.
 
@@ -219,7 +219,9 @@ La Comisión tiene las siguientes obligaciones y atribuciones:
 
 I. Presentar el inventario del patrimonio inmobiliario municipal que previamente haya sido elaborado por la Secretaría de Desarrollo Urbano con colaboración de la Secretaría del Ayuntamiento, ante el H. Ayuntamiento para su análisis, discusión y aprobación, en su caso.
 
-II. Revisar conjuntamente con los Síndicos, el dictamen referente que se emita con posterioridad a que un asunto sea aprobado por el Comité, a efecto de verificar que se cumpla con los términos, y en este caso se emitirá dictamen sobre el particular.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
+
+II. Revisar conjuntamente con los Síndicos, el dictamen referente que se emita con posterioridad a que un asunto sea aprobado o rechazado por el Comité, a efecto de verificar que se cumpla con los términos, y en este caso se emitirá dictamen sobre el particular.
 
 En caso de que su dictamen sea aprobatorio, lo turnará al Cabildo para su análisis, discusión y aprobación en su caso, anexando al mismo el dictamen que contenga la resolución del Comité.
 
@@ -280,6 +282,10 @@ II. Procurar la regularización de los bienes inmuebles que sean propiedad o sus
 III. Recibir las solicitudes que formulen personas físicas o morales, públicas o privadas, respecto de los actos sobre bienes inmuebles a que hace mención este Reglamento y determinar la disponibilidad de bienes del Municipio para atender tales solicitudes, lo que someterá a la consideración del Comité. Previo a ello cuando una solicitud no reúna los requisitos a que se refiere este Reglamento, deberá prevenir al particular por una sola vez para que la subsane dentro del término de diez días hábiles a que reciba la notificación, de lo contrario las solicitudes serán desechadas, debiendo informarlo al Comité. La Secretaría de Desarrollo Urbano tendrá veinte días hábiles para realizar dicha prevención, de lo contrario, la misma Secretaría deberá turnar, de manera inmediata la solicitud presentada.
 
 IV. Emitir el dictamen respecto de las resoluciones afirmativas que emita el Comité en términos de este Reglamento, mismo que deberá ser validado por la Secretaría del H. Ayuntamiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JUNIO DE 2017)</small>
+
+De igual forma, deberá remitir por escrito a la Comisión, aquellos asuntos propuestos en que el Comité emita resolución negativa, debiendo exponer y justificar los motivos en que funde su resolución, mismo que deberá ser validado por la Secretaria del H. Ayuntamiento.
 
 V. Informar a los solicitantes dentro de los diez días hábiles siguientes a la sesión del Comité, sobre la resolución del asunto de su interés, a efecto de que estos manifiesten su conformidad con la resolución adoptada dentro del término de cinco días hábiles a que reciban esta notificación, en caso de no hacerlo o manifestar su inconformidad en el término señalado, la solicitud será desechada.
 
@@ -369,7 +375,9 @@ Los integrantes del Comité desempeñarán un cargo honorífico, por lo que no p
 
 El Comité tiene las siguientes obligaciones y atribuciones:
 
-I. Analizar todas las solicitudes que presenten los particulares o las entidades de carácter público, respecto de los actos jurídicos que sobre los bienes del patrimonio inmobiliario municipal corresponde aprobar al Honorable Ayuntamiento y en caso de resolver positivamente sobre éstas, instruir a la Secretaría de Desarrollo Urbano para que elabore el dictamen y una vez validado éste por la Secretaría del Honorable Ayuntamiento, se turne a efecto de que la Comisión o en su caso, el Presidente Municipal, lo sometan a la consideración del Cabildo.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
+
+I. Analizar todas las solicitudes que presenten los particulares o las entidades de carácter público, respecto de los actos jurídicos que sobre los bienes del patrimonio inmobiliario municipal corresponde aprobar al Honorable Ayuntamiento y en caso de resolver positiva o negativamente sobre éstas, instruir a la Secretaria de Desarrollo Urbano para que elabore el dictamen y una vez validado éste por la Secretaria del Honorable Ayuntamiento, se turne a efecto de que la Comisión o en su caso, el Presidente Municipal, lo sometan a la consideración del Cabildo.
 
 II. Proponer al Honorable Ayuntamiento, a los Síndicos, a la Secretaría del H. Ayuntamiento o a la Secretaría de Desarrollo Urbano, que realicen los actos que les correspondan con el fin de procurar la regularización de los inmuebles municipales de que se trate; y
 
@@ -405,7 +413,9 @@ VIII. Participar con voz y voto en las sesiones y emitir su voto de calidad en c
 
 IX. Dar seguimiento a los acuerdos y resoluciones del Comité.
 
-X. Revisar y verificar que las resoluciones que emita el Comité se realicen en términos de la normatividad respectiva e instruir para que se elabore el dictamen respectivo cuando estas resoluciones sean afirmativas.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
+
+X. Revisar y verificar que las resoluciones que emita el Comité se realicen en términos de la normatividad respectiva e instruir para que se elabore el dictamen respectivo cuando estas resoluciones sean afirmativas o negativas.
 
 XI. Analizar los casos y asuntos que se sometan a su consideración, apoyando su análisis sobre los documentos que lo sustenten y lo fundamenten.
 
@@ -433,7 +443,9 @@ VI. Elaborar el orden del día así como las actas de cada sesión.
 
 VII. Tener disponible un expediente de cada asunto del orden del día que contenga la información preliminar sobre el inmueble de que se trate, así como la información resumida de los casos que se someterán a la aprobación del Comité y cuando los asuntos sean aprobados.
 
-VIII. Instruir a la Secretaría de Desarrollo Urbano para que se elabore el dictamen del Comité que previa validación por la Secretaría del Honorable Ayuntamiento, se someterá a la Comisión para que de ser procedente ésta lo turne al Cabildo.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
+
+VIII. Instruir a la Secretaría de Desarrollo Urbano para que se elabore el dictamen del Comité que previa validación por la Secretaría del Honorable Ayuntamiento, se someterá a la Comisión para que de ser procedente o improcedente ésta lo turne al Cabildo.
 
 IX. Llevar a cada una de las reuniones del Comité la documentación adicional que pueda requerirse.
 
@@ -473,15 +485,19 @@ XII. Es responsabilidad de cada uno de los integrantes del Comité, desempeñar 
 
 XIII. La documentación correspondiente a las sesiones del Comité y cualquier otra inherente a este órgano colegiado, deberá resguardarse y conservarse por un mínimo de tres años, bajo el resguardo del Secretario Ejecutivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
+
 ###### Artículo 24.
 
-Respecto de aquellos asuntos que sean aprobados por el Comité, el Presidente instruirá al personal de la Secretaría de Desarrollo Urbano para que elabore el dictamen correspondiente que deberá contener:
+Respecto de aquellos asuntos que sean resueltos por el Comité, ya sea en forma positiva o negativa, el Presidente instruirá al personal de la Secretaría de Desarrollo Urbano para que elabore el dictamen correspondiente que deberá contener:
 
 I. Datos de la solicitud presentada, en caso de ser persona moral de carácter privado, la documentación con la que se acredita su legal existencia y la personalidad del solicitante, para el acto de que se trate.
 
 II. La relación de los documentos con los que se acredite la propiedad del inmueble que se trate, incluyendo los datos de inscripción en el Registro Público de la Propiedad.
 
-III. Fecha de aprobación por el Comité.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
+
+III. Fecha en que el Comité determinó resolver afirmativa o negativa según corresponda.
 
 IV. Superficie, medidas, linderos y ubicación exacta del inmueble.
 
@@ -648,3 +664,11 @@ Regidores: Luis Salazar Mora, María Esther Pérez Pardo, Patricia Valadez Busta
 Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales conducentes. En tal ver, promulga y ordena se dé publicidad para su debido cumplimiento. 23 de julio de 2009.- Ing. Francisco Gabriel Arellano Espinosa.- Rúbrica.
 
 El Secretario del H. Ayuntamiento y Director General de Gobierno.- Lic. Adrián Ventura Dávila.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO POR EL "SE REFORMAN LOS ARTÍCULOS 12, 15, 18, 21, 22 Y 24 DEL REGLAMENTO DEL PATRIMONIO INMOBILIARIO DEL MUNICIPIO DE AGUASCALIENTES”.]
+
+ÚNICO.- Las presentes reformas iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
