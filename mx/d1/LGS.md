@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2017-01-27"
+last_updated: "2017-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2017.
 
-ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
+ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 19 DE JUNIO DE 2017.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 7 de febrero de 1984.
 
@@ -2472,9 +2472,93 @@ X.- Difundir en los entornos familiar, escolar, laboral y comunitario la aliment
 
 XI.- Expedir, en coordinación con la Secretaría de Educación Pública, los lineamientos generales para el expendio y distribución de alimentos y bebidas preparadas y procesadas en las escuelas del Sistema Educativo Nacional, a fin de eliminar dentro de estos centros escolares el consumo y expendio de aquellos que no cumplan con los criterios nutrimentales que al efecto determine la Secretaría de Salud y, en consecuencia, no favorezcan la salud de los educandos y la pongan en riesgo.
 
-### CAPITULO III. Enfermedades no transmisibles
+### CAPITULO II BIS. Vacunación
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 1.- Toda persona residente en el territorio nacional tiene derecho a recibir de manera universal y gratuita en cualquiera de las dependencias y entidades de la Administración Pública, tanto federal como local, del Sistema Nacional de Salud, las vacunas contenidas en el Programa de Vacunación Universal, de conformidad con esta Ley, independientemente del régimen de seguridad social o protección social al que pertenezca.
+
+Las personas que ejerzan la patria potestad, tutela, guarda o, en términos generales, sean responsables de menores o incapaces, estarán obligados a tomar todas las medidas necesarias para que éstos reciban las vacunas contenidas en el Programa de Vacunación Universal.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 2.- Las dependencias y entidades de la Administración Pública, tanto federal como local, que forman parte del Sistema Nacional de Salud, deberán instrumentar mecanismos necesarios para garantizar la vacunación de las personas que forman parte de los grupos de población cautiva.
+
+Para efectos de esta Ley, por grupo de población cautiva se entiende al conjunto de personas que se encuentran bajo custodia en instituciones del Estado cuyo servicio es de cuidado, capacitación, control o que comparten de manera, tanto temporal como permanente, un área geográfica específica.
+
+Los responsables de las instituciones a que se refiere este artículo darán todas las facilidades y colaborarán en el desarrollo de las actividades de vacunación y control de las enfermedades prevenibles por vacunación.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 3.- Las dependencias y entidades de la Administración Pública, tanto federal como local, y las personas físicas o morales de los sectores social y privado que constituyen el Sistema Nacional de Salud, en el ámbito de sus respectivas competencias, y de acuerdo con los lineamientos que al respecto establezca la Secretaría de Salud, deberán llevar a cabo campañas de comunicación permanentes, con el fin de informar a la población en general sobre los beneficios de las vacunas y el riesgo que representa tanto para la persona, como para la comunidad la falta de inmunización oportuna.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 4.- Para efectos de este Capítulo, corresponde a la Secretaría de Salud:
+
+I. Definir, con la opinión del Consejo Nacional de Vacunación, los criterios y procedimientos para lograr el control, la eliminación o la erradicación de enfermedades prevenibles por vacunación;
+
+II. Emitir normas oficiales mexicanas relativas a la prestación de los servicios de vacunación, aplicación, manejo y conservación de las vacunas que se apliquen en territorio nacional;
+
+III. Dirigir el Programa de Vacunación Universal y coordinar las campañas y operativos de vacunación, tanto ordinarios como extraordinarios;
+
+IV. Implementar y coordinar el sistema de información en materia de vacunación y definir los lineamientos para su operación;
+
+V. Vigilar y evaluar las actividades de vacunación en todo el territorio nacional y aplicar las medidas necesarias para su adecuado desarrollo, y
+
+VI. Las demás que le señalen esta Ley y otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 5.- En el Programa de Vacunación Universal se integrarán aquellas vacunas que determine la Secretaría de Salud, con la opinión del Consejo Nacional de Vacunación.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 6.- Las dependencias y entidades de la Administración Pública, tanto federal como local, deberán participar con recursos humanos, materiales y financieros suficientes para la atención de los operativos y campañas de vacunación, tanto ordinarias como extraordinarias, cuando alguna de las autoridades sanitarias del país así lo requiera.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 7.- El Consejo se regirá por las disposiciones contenidas en esta Ley, su reglamento interno y demás normativa aplicable, basando su actuación en la evidencia científica, así como en los criterios de racionalidad y objetividad.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 8.- Las vacunas deberán ser aplicadas por personal de salud capacitado para tal efecto.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 9.- La Cartilla Nacional de Vacunación es un documento gratuito, único, individual e intransferible, a través del cual se lleva el registro y el control de las vacunas que sean aplicadas a las personas.
+
+La Secretaría de Salud determinará las características y el formato único de la Cartilla Nacional de Vacunación, misma que deberá ser utilizada en todos los establecimientos de salud de los sectores público, social y privado, en todo el territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 10.- Los establecimientos y el personal de salud de los sectores público, social y privado deberán registrar y notificar a la Secretaría de Salud la presencia de casos de enfermedades prevenibles por vacunación y eventos supuestamente atribuibles a dicha inmunización, de conformidad con lo que señale esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 11.- Todas las vacunas e insumos para su aplicación en seres humanos, que se utilicen en el país deberán ser de la mayor calidad disponible y cumplir con los requisitos sanitarios necesarios establecidos en esta Ley y las demás disposiciones jurídicas aplicables, a efecto de salvaguardar la seguridad en la administración de las vacunas.
+
+Los procedimientos para la autorización del registro, importación y liberación de vacunas serán considerados como prioritarios en razón de su importancia para la salud pública y la seguridad nacional. En casos de emergencia, dichos procedimientos se atenderán de manera inmediata.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 12.- El Estado mexicano procurará el abasto y la distribución oportuna y gratuita, así como la disponibilidad de los insumos necesarios para las acciones de vacunación.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 13.- Con base en lo establecido en el artículo anterior, la Cámara de Diputados asignará en cada ejercicio fiscal, los recursos presupuestarios suficientes para ese fin.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 14.- La operación del Programa de Vacunación Universal en el ámbito local, corresponde a los gobiernos de las entidades federativas, quienes deberán contar con los recursos físicos, materiales y humanos necesarios.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 15.- La Secretaría de Salud supervisará el cumplimiento de los indicadores de desempeño del Programa de Vacunación Universal que servirán como elemento para la vigilancia del uso eficiente de los recursos que se destinen a las acciones de inmunización.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 16.- La Secretaría de Salud promoverá la investigación, desarrollo y producción de vacunas en el territorio nacional, en coordinación con las instancias competentes.
 
 ###### ARTICULO 116.
 
@@ -2598,7 +2682,9 @@ La Secretaría de Salud y las autoridades federales, estatales y municipales en 
 
 Sin perjuicio de lo que establecen la Ley Federal del Trabajo y sus reglamentos, en relación con labores peligrosas e insalubres, el cuerpo humano sólo podrá ser expuesto a radiaciones dentro de los máximos permisibles que establezca la Secretaría de Salud, incluyendo sus aplicaciones para la investigación médica y de diagnóstico y terapéutica.
 
-### CAPITULO IV. Accidentes
+### CAPITULO III. Enfermedades no transmisibles
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 128.
 
@@ -2640,9 +2726,7 @@ Para los efectos de esta ley se consideran bajo la denominación de establecimie
 
 ## TITULO OCTAVO. Prevención y Control de Enfermedades y Accidentes
 
-### CAPÍTULO I. Disposiciones Comunes
-
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+### CAPITULO IV. Accidentes
 
 ###### ARTICULO 133.
 
@@ -2658,7 +2742,7 @@ III.- Realizar los programas y actividades que estime necesario para la prevenci
 
 IV.- Promover la colaboración de las instituciones de los sectores público, social y privado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, para el óptimo desarrollo de los programas y actividades a que se refieren las fracciones II y III.
 
-### CAPÍTULO II. De los Derechos de los Enfermos en Situación Terminal
+### CAPÍTULO I. Disposiciones Comunes
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
@@ -2780,11 +2864,11 @@ Los profesionales, técnicos y auxiliares de la salud, al tener conocimiento de 
 
 Los trabajadores de la salud de la Secretaría de Salud y de los gobiernos de las entidades federativas, y los de otras instituciones autorizadas por las autoridades sanitarias mencionadas, por necesidades técnicas de los programas específicos de prevención y control de enfermedades y por situaciones que pongan en peligro la salud de la población, podrán acceder al interior de todo tipo de local o casa habitación para el cumplimiento de actividades encomendadas a su responsabilidad, para cuyo fin deberán estar debidamente acreditados por alguna de las autoridades sanitarias competentes, en los términos de las disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 144.
 
-Las vacunaciones contra la tosferina, la difteria, el tétanos, la tuberculosis, la poliomielitis y el sarampión, asi como otras contra enfermedades transmitibles (sic) que en el futuro estimare necesarias la Secretaría de Salud, serán obligatorias en los términos que fije esta dependencia. La misma Secretaría determinará los sectores de población que deban ser vacunados y las condiciones en que deberán suministrarse las vacunas, conforme a los programas que al efecto establezca, las que serán de observación obligatoria para las instituciones de salud.
+La vacunación contra enfermedades transmisibles, prevenibles por ese medio de inmunización, que estime necesaria la Secretaría de Salud, será obligatoria en los términos que fije dicha dependencia y de acuerdo con lo previsto en la presente Ley.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -2856,15 +2940,15 @@ Se prohibe la introducción o el transporte por el territorio nacional de animal
 
 > <small>(REFORMADO, D.O.F. 17 DE MARZO DE 2015)</small>
 
-###### ARTICULO 157 Bis.
+ARTICULO 157 BIS.- La Secretaría de Salud y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, se coordinarán para la promoción del uso del condón, priorizando a las poblaciones de mayor vulnerabilidad y riesgo de contraer la infección del VIH/SIDA y demás enfermedades de transmisión sexual.
 
-La Secretaría de Salud y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, se coordinarán para la promoción del uso del condón, priorizando a las poblaciones de mayor vulnerabilidad y riesgo de contraer la infección del VIH/SIDA y demás enfermedades de transmisión sexual.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 19 DE JUNIO DE 2017)</small>
 
-### CAPÍTULO III. De las Facultades y Obligaciones de las Instituciones de Salud
+### CAPÍTULO II. De los Derechos de los Enfermos en Situación Terminal
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
-### CAPÍTULO IV. De los Derechos, Facultades y Obligaciones de los Médicos y Personal Sanitario
+### CAPÍTULO III. De las Facultades y Obligaciones de las Instituciones de Salud
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
@@ -2900,11 +2984,11 @@ La Secretaría de Salud coordinará sus actividades con otras dependencias y ent
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO UNICO
+### CAPÍTULO IV. De los Derechos, Facultades y Obligaciones de los Médicos y Personal Sanitario
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ### CAPITULO UNICO
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 162.
 
@@ -2956,17 +3040,9 @@ Los servicios de salud que proporcionen las instituciones de seguridad social co
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
-### CAPITULO I. Consejo Nacional Contra las Adicciones
+### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2015)</small>
-
-ARTICULO 184 BIS.- Se crea el Consejo Nacional Contra las Adicciones, que tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado tendientes a la prevención y combate de los problemas de salud pública causados por las Adicciones que regula la presente Ley, así como proponer y evaluar los programas a que se refieren los artículos 185 y 191 de esta Ley, así como el Programa contra el Tabaquismo previsto en la Ley General para Control del Tabaco. Dicho Consejo estará integrado por el Secretario de Salud, quien lo presidirá, por los titulares de las dependencias y entidades de la Administración Pública Federal cuyas atribuciones tengan relación con el objeto del Consejo y por representantes de organizaciones sociales y privadas relacionadas con la salud. El Secretario de Salud podrá invitar, cuando lo estime conveniente, a los titulares de los gobiernos de las entidades federativas a asistir a las sesiones del Consejo.
-
-> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-La organización y funcionamiento del Consejo se regirán por las disposiciones que expida el Ejecutivo Federal.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 166 Bis.
 
@@ -3016,11 +3092,17 @@ Corresponde al Sistema Nacional de Salud garantizar el pleno, libre e informado 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
-### CAPÍTULO II
-
-Programa para la Prevención, Reducción y Tratamiento del uso nocivo del Alcohol, la Atención del Alcoholismo y la Prevención de Enfermedades derivadas del mismo
+### CAPITULO I. Consejo Nacional Contra las Adicciones
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+ARTICULO 184 BIS.- Se crea el Consejo Nacional Contra las Adicciones, que tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado tendientes a la prevención y combate de los problemas de salud pública causados por las Adicciones que regula la presente Ley, así como proponer y evaluar los programas a que se refieren los artículos 185 y 191 de esta Ley, así como el Programa contra el Tabaquismo previsto en la Ley General para Control del Tabaco. Dicho Consejo estará integrado por el Secretario de Salud, quien lo presidirá, por los titulares de las dependencias y entidades de la Administración Pública Federal cuyas atribuciones tengan relación con el objeto del Consejo y por representantes de organizaciones sociales y privadas relacionadas con la salud. El Secretario de Salud podrá invitar, cuando lo estime conveniente, a los titulares de los gobiernos de las entidades federativas a asistir a las sesiones del Consejo.
+
+> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+La organización y funcionamiento del Consejo se regirán por las disposiciones que expida el Ejecutivo Federal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 166 Bis 3.
 
@@ -3110,6 +3192,30 @@ Todos los documentos a que se refiere este título se regirán de acuerdo a lo q
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
+### CAPÍTULO II
+
+Programa para la Prevención, Reducción y Tratamiento del uso nocivo del Alcohol, la Atención del Alcoholismo y la Prevención de Enfermedades derivadas del mismo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+###### ARTICULO 166 Bis 13.
+
+Las Instituciones del Sistema Nacional de Salud:
+
+I.- Ofrecerán el servicio para la atención debida a los enfermos en situación terminal;
+
+II.- Proporcionarán los servicios de orientación, asesoría y seguimiento al enfermo en situación terminal y o sus familiares o persona de confianza en el caso de que los cuidados paliativos se realicen en el domicilio particular;
+
+III.- De igual manera, en el caso de que los cuidados paliativos se realicen en el domicilio particular, la Secretaría pondrá en operación una línea telefónica de acceso gratuito para que se le oriente, asesore y dé seguimiento al enfermo en situación terminal o a sus familiares o persona de su confianza;
+
+IV.- Proporcionarán los cuidados paliativos correspondientes al tipo y grado de enfermedad, desde el momento del diagnóstico de la enfermedad terminal hasta el último momento;
+
+V.- Fomentarán la creación de áreas especializadas que presten atención a los enfermos en situación terminal; y
+
+VI.- Garantizarán la capacitación y actualización permanente de los recursos humanos para la salud, en materia de cuidados paliativos y atención a enfermos en situación terminal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
+
 ### CAPÍTULO II BIS. Protección de la Salud de Terceros y de la Sociedad frente al Uso Nocivo del Alcohol
 
 > <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
@@ -3139,28 +3245,6 @@ I. Crear un padrón de instituciones y organismos públicos y privados que reali
 II. Celebrar convenios de colaboración con instituciones nacionales e internacionales de los sectores social y privado, y con personas físicas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de alcoholismo, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características, posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen.
 
 La ubicación de los centros, se basará en estudios epidemiológicos de las enfermedades derivadas del alcoholismo en cada región del país.
-
-###### ARTICULO 166 Bis 13.
-
-Las Instituciones del Sistema Nacional de Salud:
-
-I.- Ofrecerán el servicio para la atención debida a los enfermos en situación terminal;
-
-II.- Proporcionarán los servicios de orientación, asesoría y seguimiento al enfermo en situación terminal y o sus familiares o persona de confianza en el caso de que los cuidados paliativos se realicen en el domicilio particular;
-
-III.- De igual manera, en el caso de que los cuidados paliativos se realicen en el domicilio particular, la Secretaría pondrá en operación una línea telefónica de acceso gratuito para que se le oriente, asesore y dé seguimiento al enfermo en situación terminal o a sus familiares o persona de su confianza;
-
-IV.- Proporcionarán los cuidados paliativos correspondientes al tipo y grado de enfermedad, desde el momento del diagnóstico de la enfermedad terminal hasta el último momento;
-
-V.- Fomentarán la creación de áreas especializadas que presten atención a los enfermos en situación terminal; y
-
-VI.- Garantizarán la capacitación y actualización permanente de los recursos humanos para la salud, en materia de cuidados paliativos y atención a enfermos en situación terminal.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
-
-### CAPITULO III. Programa Contra el Tabaquismo
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 166 Bis 14.
 
@@ -3238,9 +3322,9 @@ Queda prohibida, la práctica de la eutanasia, entendida como homicidio por pied
 
 ## TITULO NOVENO. Asistencia Social, Prevención de la Discapacidad y Rehabilitación de las Personas con Discapacidad
 
-### CAPITULO IV. Programa Contra la Farmacodependencia
+### CAPITULO III. Programa Contra el Tabaquismo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 167.
 
@@ -3368,9 +3452,9 @@ La Secretaría de Salud y los gobiernos de las entidades federativas, en coordin
 
 ## TITULO DECIMO. Acción Extraordinaria en Materia de Salubridad General
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO IV. Programa Contra la Farmacodependencia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 181.
 
@@ -3408,7 +3492,9 @@ V.- Las demás que determine la propia Secretaría.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 27 DE MAYO DE 1987)</small>
 
-### CAPITULO II. Alimentos y Bebidas no Alcohólicas
+### CAPITULO I. Disposiciones Comunes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 184 Bis.
 
@@ -3416,9 +3502,7 @@ Se crea el Consejo Nacional Contra las Adicciones, que tendrá por objeto promov
 
 La organización y funcionamiento del Consejo se regirán por las disposiciones que expida el Ejecutivo Federal.
 
-### CAPITULO III. Bebidas Alcohólicas
-
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+### CAPITULO II. Alimentos y Bebidas no Alcohólicas
 
 ###### ARTÍCULO 185.
 
@@ -3522,11 +3606,11 @@ En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará l
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE ABRIL DE 2015)</small>
 
+### CAPITULO III. Bebidas Alcohólicas
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
 ### CAPITULO IV. Medicamentos
-
-### CAPITULO V. Estupefacientes
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 188.
 
@@ -3544,7 +3628,7 @@ En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará l
 
 (DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-### CAPITULO VI. Substancias psicotrópicas
+### CAPITULO V. Estupefacientes
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
@@ -3674,9 +3758,9 @@ Al tercer reporte del Ministerio Público el tratamiento del farmacodependiente 
 
 ## TITULO DECIMO SEGUNDO. Control Sanitario de Productos y Servicios y de su Importación y Exportación
 
-### CAPITULO VII. Establecimientos Destinados al Proceso de Medicamentos
+### CAPITULO VI. Substancias psicotrópicas
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 194.
 
@@ -3932,9 +4016,9 @@ Los envases y embalajes de los productos a que se refiere este título deberán 
 
 La Secretaría de Salud publicará en el Diario Oficial de la Federación las normas oficiales mexicanas que expida y, en caso necesario, las resoluciones sobre otorgamiento y revocación de autorizaciones sanitarias de medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan, equipos médicos, plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas, así como de las materias primas que se utilicen en su elaboración.
 
-### CAPITULO VIII
+### CAPITULO VII. Establecimientos Destinados al Proceso de Medicamentos
 
-Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 215.
 
@@ -3966,9 +4050,9 @@ La Secretaría de Salud, con base en la composición de los alimentos y bebidas,
 
 Los alimentos o bebidas que se pretendan expender o suministrar al público en presentaciones que sugieran al consumidor que se trate de productos o substancias con características o propiedades terapéuticas, deberán en las etiquetas de los empaques o envases incluir la siguiente leyenda: “Este producto no es un medicamento”, escrito con letra fácilmente legible y en colores contrastantes.
 
-### CAPITULO IX. Productos cosméticos
+### CAPITULO VIII
 
-> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2011)</small>
+Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos
 
 ###### ARTICULO 217.
 
@@ -3996,9 +4080,9 @@ En ningún caso y de ninguna forma se podrán expender o suministrar bebidas alc
 
 La violación a esta disposición será equiparable con el delito de Corrupción de Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para comprender el Significado del Hecho o de Personas que no tienen Capacidad para Resistirlo.
 
-### CAPITULO IX BIS. Ejercicio especializado de la Cirugía
+### CAPITULO IX. Productos cosméticos
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 221.
 
@@ -4192,7 +4276,9 @@ Los medicamentos de origen biológico de acción inmunológica ostentarán en su
 
 Quedan prohibidos la venta y suministro de medicamentos con fecha de caducidad vencida.
 
-### CAPITULO X. Productos de Aseo
+### CAPITULO IX BIS. Ejercicio especializado de la Cirugía
+
+> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 234.
 
@@ -4228,15 +4314,23 @@ VI.- Las disposiciones relacionadas que emitan otras dependencias del Ejecutivo 
 
 Los actos a que se refiere este artículo SÓLO PODRÁN REALIZARSE CON FINES MÉDICOS Y CIENTÍFICOS Y requerirán autorización de la Secretaría de Salud.
 
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+###### ARTICULO 235 Bis.
+
+La Secretaría de Salud deberá diseñar y ejecutar políticas públicas que regulen el uso medicinal de los derivados farmacológicos de la cannabis sativa, índica y americana o marihuana, entre los que se encuentra el tetrahidrocannabinol, sus isómeros y variantes estereoquímicas, así como normar la investigación y producción nacional de los mismos.
+
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 236.
 
 Para el comercio o tráfico de estupefacientes en el interior del territorio nacional, la Secretaría de Salud fijará los requisitos que deberán satisfacerse y expedirá permisos especiales de adquisición o de traspaso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 237.
 
-Queda prohibido en el territorio nacional, todo acto de los mencionados en el artículo 235 de esta Ley, respecto de las siguientes substancias y vegetales: opio preparado, para fumar, diacetilmorfina o heroína, sus sales o preparados, cannabis sativa, índica y americana o marihuana, papaver somniferum o adormidera, papaver bactreatum y erythroxilon novogratense o coca, en cualquiera de sus formas, derivados o preparaciones.
+Queda prohibido en el territorio nacional, todo acto de los mencionados en el Artículo 235 de esta Ley, respecto de las siguientes substancias y vegetales: opio preparado, para fumar, diacetilmorfina o heroína, sus sales o preparados, papaver somniferum o adormidera, papaver bactreatum y erythroxilon novogratense o coca, en cualquiera de sus formas, derivados o preparaciones.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -4304,9 +4398,7 @@ Los citados establecimientos recogerán invariablemente las recetas o permisos, 
 
 Los preparados que contengan acetildihidrocodeína, codeína, destropropoxifeno, dihidrocodeína, etilmorfina, folcodina, nicocodina, corcodeína y propiram, que formen parte de la composición de especialidades farmacéuticas, estarán sujetos, para los fines de su preparación, prescripción y venta o suministro al público, a los requisitos que sobre su formulación establezca la Secretaría de Salud.
 
-### CAPITULO XI. Tabaco
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+### CAPITULO X. Productos de Aseo
 
 ###### ARTICULO 244.
 
@@ -4318,11 +4410,15 @@ Para los efectos de esta Ley, se consideran substancias psicotrópicas las seña
 
 En relación con las medidas de control y vigilancia que deberán adoptar las autoridades sanitarias, las substancias psicotrópicas se clasifican en cinco grupos:
 
-I.- Las que tienen valor terapéutico escaso o nulo y que, por ser susceptibles de uso indebido o abuso, constituyen un problema especialmente grave para la salud pública, y son:
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+I. Las que tienen valor terapéutico escaso o nulo y que, por ser susceptibles de uso indebido o abuso, constituyen un problema especialmente grave para la salud pública, y son:
 
 (VÉASE ARCHIVO ANEXO)
 
 Cualquier otro producto, derivado o preparado que contenga las sustancias señaladas en la relación anterior y cuando expresamente lo determine la Secretaría de Salud o el Consejo de Salubridad General, sus precursores químicos y en general los de naturaleza análoga.
+
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2017)</small>
 
 II.- Las que tienen algún valor terapéutico, pero constituyen un problema grave para la salud pública, y que son:
 
@@ -4330,11 +4426,7 @@ AMOBARBITAL
 
 ANFETAMINA
 
-> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
-
 BUTORFANOL
-
-Y sus sales, precursores y derivados químicos
 
 CICLOBARBITAL
 
@@ -4357,6 +4449,10 @@ NALBUFINA
 PENTOBARBITAL
 
 SECOBARBITAL.
+
+TETRAHIDROCANNABINOL, las que sean o contengan en concentraciones mayores al 1%, los siguientes isómeros: [N. DE E. VÉASE FÓRMULA EN EL D.O.F. PRIMERA SECCIÓN DE 19 DE JUNIO DE 2017, PÁGINA 57].
+
+Y sus sales, precursores y derivados químicos.
 
 III.- Las que tienen valor terapéutico, pero constituyen un problema para la salud pública, y que son:
 
@@ -4528,6 +4624,8 @@ MEPROBAMATO
 
 TRIHEXIFENIDILO.
 
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2017)</small>
+
 IV.- Las que tienen amplios usos terapéuticos y constituyen un problema menor para la salud pública, y son:
 
 GABOB (ACIDO GAMMA AMINO BETA HIDROXIBUTIRICO)
@@ -4543,8 +4641,6 @@ BARBITAL
 BENZOFETAMINA
 
 BENZQUINAMINA
-
-(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994) (REPUBLICADA, D.O.F. 26 DE JULIO DE 1995)
 
 BIPERIDENO
 
@@ -4568,11 +4664,9 @@ CARBIDOPA
 
 CARBROMAL
 
-> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
+CLORIMIPRAMINA
 
-CERTALINA
-
-CLORIMIPRAMINA CLORHIDRATO
+CLORHIDRATO
 
 CLOROMEZANONA
 
@@ -4595,8 +4689,6 @@ FENFLURAMINA
 FENOBARBITAL
 
 FLUFENAZINA
-
-(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994) (REPUBLICADA, D.O.F. 26 DE JULIO DE 1995)
 
 FLUMAZENIL
 
@@ -4628,9 +4720,7 @@ METILPARAFINOL
 
 METIPRILONA
 
-NALOXONA
-
-NOR-PSEUDOEFEDRINA (+) CATINA
+NALOXONA NOR-PSEUDOEFEDRINA (+) CATINA
 
 NORTRIPTILINA
 
@@ -4648,17 +4738,15 @@ PROMAZINA
 
 PROPILHEXEDRINA
 
-> <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 1995)</small>
-
 SERTRALINA
 
 SULPIRIDE
 
 TETRABENAZINA
 
-TIALBARBITAL
+TETRAHIDROCANNABINOL, las que sean o contengan en concentraciones iguales o menores al 1%, los siguientes isómeros: [N. DE E. VÉASE FÓRMULA EN EL D.O.F. PRIMERA SECCIÓN DE 19 DE JUNIO DE 2017, PÁGINA 59].
 
-(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994) (REPUBLICADA, D.O.F. 26 DE JULIO DE 1995)
+TIALBARBITAL
 
 TIOPENTAL
 
@@ -4666,19 +4754,11 @@ TIOPROPERAZINA
 
 TIORIDAZINA
 
-(REPUBLICADA, D.O.F. 24 DE OCTUBRE DE 1994) (REPUBLICADA, D.O.F. 26 DE JULIO DE 1995)
-
 TRAMADOL
-
-> <small>(F. DE E., D.O.F. 18 DE FEBRERO DE 1988)</small>
 
 TRAZODONE
 
-(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994) (REPUBLICADA, D.O.F. 26 DE JULIO DE 1995)
-
 TRAZOLIDONA
-
-Y sus sales, precursores y derivados químicos
 
 TRIFLUOPERAZINA
 
@@ -4686,7 +4766,13 @@ VALPROICO (ACIDO)
 
 VINILBITAL.
 
+Y sus sales, precursores y derivados químicos.
+
 V.- Las que carecen de valor terapéutico y se utilizan corrientemente en la industria, mismas que se determinarán en las disposiciones reglamentarias correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+Los productos que contengan derivados de la cannabis en concentraciones del 1% o menores de THC y que tengan amplios usos industriales, podrán comercializarse, exportarse e importarse cumpliendo los requisitos establecidos en la regulación sanitaria.
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
@@ -4796,9 +4882,9 @@ Los medicamentos que tengan incorporadas substancias psicotrópicas que puedan c
 
 Los envases y empaques de las substancias psicotrópicas, para su expendio llevarán etiquetas que, además de los requisitos que determina el artículo 210 de esta Ley, ostenten los que establezcan las disposiciones aplicables a la materia de este Capítulo.
 
-### CAPITULO XII. Plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas
+### CAPITULO XI. Tabaco
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 257.
 
@@ -4872,9 +4958,9 @@ VI.- En los establecimientos señalados en la fracción XII, el Consejo de Salub
 
 En los casos en que resulten afectadas, por acción u omisión, la identidad, pureza, conservación, preparación, dosificación o manufactura de los productos, el responsable del establecimiento y el propietario del mismo responderán solidariamente de las sanciones que correspondan en los términos que señalen esta Ley y demás disposiciones legales aplicables.
 
-### CAPITULO XII BIS. Productos biotecnológicos
+### CAPITULO XII. Plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas
 
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 262.
 
@@ -4958,9 +5044,9 @@ La violación de esta disposición se sancionará en los términos previstos en 
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE JUNIO DE 2011)</small>
 
-### CAPITULO XIII. Importación y exportación
+### CAPITULO XII BIS. Productos biotecnológicos
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 269.
 
@@ -5000,9 +5086,9 @@ Para la declaración de ingredientes se utilizarán las nomenclaturas técnicas 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO UNICO
+### CAPITULO XIII. Importación y exportación
 
-> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 272 Bis.
 
@@ -5034,9 +5120,9 @@ La oferta de los servicios que se haga a través de medios informativos, ya sean
 
 Las sociedades, asociaciones, colegios o federaciones de profesionistas pondrán a disposición de la Secretaría de Salud, un directorio electrónico, con acceso al público que contenga los nombres, datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos y certificado de especialización vigente, además de proporcionar el nombre y datos de la Institución y/o Instituciones educativas, que avalen su ejercicio profesional.
 
-### CAPITULO I. Disposiciones comunes
+### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 273.
 
@@ -5068,9 +5154,9 @@ IX.- Los demás de naturaleza análoga que determine la Secretaría de Salud.
 
 En las etiquetas de los envases y empaques en los que se presenten los productos a que se refiere el artículo anterior, además de lo establecido en el artículo 210 de esta Ley, en lo conducente, figurarán las leyendas que determinen las disposiciones aplicables.
 
-### CAPITULO II. Donación
+### CAPITULO I. Disposiciones comunes
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 275.
 
@@ -5096,7 +5182,7 @@ En las etiquetas de los envases y empaques en los que se presenten los productos
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE MAYO DE 1997)</small>
 
-### CAPITULO III. Trasplantes
+### CAPITULO II. Donación
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -5158,11 +5244,9 @@ El control sanitario de las substancias a que se refiere el artículo 278, se aj
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 7 DE MAYO DE 1997)</small>
 
-### CAPITULO III BIS
+### CAPITULO III. Trasplantes
 
-Disposición de sangre, componentes sanguíneos, hemoderivados y células troncales de seres humanos.
-
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 282 Bis.
 
@@ -5180,13 +5264,15 @@ Se deberá notificar a la Secretaría de Salud, de todos aquellos productos biot
 
 Las disposiciones y especificaciones relacionadas con el proceso, características y etiquetas de los productos objeto de este capítulo, se establecerán en las normas oficiales mexicanas correspondientes.
 
+### CAPITULO III BIS
+
+Disposición de sangre, componentes sanguíneos, hemoderivados y células troncales de seres humanos.
+
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2003)</small>
+
 ### CAPITULO IV. Pérdida de la vida
 
 > <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
-
-### CAPITULO V. Cadáveres
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 283.
 
@@ -5244,11 +5330,11 @@ No se expedirá el certificado de exportación para estupefacientes, psicotrópi
 
 La importación y exportación de estupefacientes, substancias psicotrópicas y productos o preparados que los contengan, requieren autorización de la Secretaría de Salud. Dichas operaciones podrán realizarse únicamente por la aduana o aduanas de puertos aéreos que determine la Secretaría de Salud, en coordinación con las autoridades competentes. En ningún caso podrán efectuarse por vía postal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 290.
 
-La Secretaría de Salud otorgará autorización para importar estupefacientes, substancias psicotrópicas, productos o preparados que los contengan exclusivamente a:
+La Secretaría de Salud otorgará autorización para importar estupefacientes, substancias psicotrópicas, productos o preparados que los contengan, incluyendo los derivados farmacológicos de la cannabis sativa, índica y americana o marihuana, entre los que se encuentra el tetrahidrocannabinol, sus isómeros y variantes estereoquímicas, exclusivamente a:
 
 I.- Las droguerías, para venderlos a farmacias o para las preparaciones oficinales que el propio establecimiento elabore, y
 
@@ -5322,9 +5408,9 @@ Cuando se autorice la importación de las substancias mencionadas en el artícul
 
 ## TITULO DECIMO TERCERO. Publicidad
 
-### CAPITULO I. Disposiciones comunes
+### CAPITULO V. Cadáveres
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 300.
 
@@ -5512,7 +5598,9 @@ TITULO DECIMOCUARTO
 
 Donación, trasplantes y pérdida de la vida
 
-### CAPITULO II. Sanidad en Materia de Migración
+### CAPITULO I. Disposiciones comunes
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 313.
 
@@ -5864,7 +5952,7 @@ Se considerará disposición ilícita de órganos, tejidos, células y cadávere
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO III. Sanidad marítima, aérea y terrestre
+### CAPITULO II. Sanidad en Materia de Migración
 
 ###### ARTICULO 320.
 
@@ -5994,7 +6082,7 @@ Corresponde a la Secretaría de Salud y a los gobiernos de las entidades federat
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO I. Autorizaciones
+### CAPITULO III. Sanidad marítima, aérea y terrestre
 
 ###### ARTICULO 330.
 
@@ -6202,7 +6290,7 @@ El Centro Nacional de Trasplantes impulsará, junto con las Organizaciones de la
 
 > <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-### CAPITULO II. Revocación de autorizaciones sanitarias
+### CAPITULO I. Autorizaciones
 
 ###### ARTICULO 340.
 
@@ -6312,7 +6400,7 @@ VI. Los demás que prevean las disposiciones reglamentarias.
 
 > <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO III. Certificados
+### CAPITULO II. Revocación de autorizaciones sanitarias
 
 ###### ARTICULO 343.
 
@@ -6346,9 +6434,7 @@ No existirá impedimento alguno para que a solicitud y con la autorización de l
 
 > <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO III. Certificados
 
 ###### ARTICULO 346.
 
@@ -6452,9 +6538,9 @@ Los establecimientos en los que se realicen actos relacionados con cadáveres de
 
 ## TITULO DECIMO QUINTO. Sanidad Internacional
 
-### CAPITULO I. Medidas de Seguridad Sanitaria
+### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 351.
 
@@ -6508,7 +6594,9 @@ Cuando en las localidades donde residan cónsules mexicanos aparezcan casos de e
 
 La Secretaría de Salud notificará a la Organización Mundial de la Salud de todas (sic) medidas que haya adoptado, de modo temporal o permanente, en materia de sanidad internacional. Asimismo, informará a esta misma organización y con la oportunidad debida, sobre cualquier caso que sea de interés en la vigilancia epidemiológica de las enfermedades que se citan en el Reglamento Sanitario Internacional, las que puedan originar epidemias o cualesquiera otras que considere de importancia notificar.
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO I. Medidas de Seguridad Sanitaria
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 360.
 
@@ -6530,7 +6618,7 @@ La Secretaría de Salud determinará qué otras enfermedades transmisibles queda
 
 Las personas comprendidas en lo dispuesto en el artículo anterior, quedarán bajo vigilancia y aislamiento en los lugares que la autoridad sanitaria determine, o en los que señale el interesado, si fueran aceptados por la autoridad, en tanto se decida, mediante el examen médico pertinente, si es aceptada o no su internación más allá del sitio de confinamiento, y se le preste, en su caso, la atención médica correspondiente.
 
-### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 363.
 
@@ -6562,7 +6650,7 @@ Las embarcaciones y aeronaves procedentes del extranjero con destino al territor
 
 ## TITULO DECIMO SEXTO. Autorizaciones y certificados
 
-### CAPITULO IV. Recurso de inconformidad
+### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 368.
 
@@ -6686,7 +6774,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia el Ejecutivo Federal y los gobiernos de las entidades federativas.
 
-### CAPITULO V. Prescripción
+### CAPITULO IV. Recurso de inconformidad
 
 ###### ARTICULO 380.
 
@@ -6762,9 +6850,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda, al co
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de venta, prohibición de uso o de ejercicio de las actividades a que se refiera la autorización revocada.
 
-### CAPITULO VI. Delitos
-
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+### CAPITULO V. Prescripción
 
 ###### ARTICULO 388.
 
@@ -6848,9 +6934,9 @@ La distribución primaria de los certificados de nacimiento, defunción y muerte
 
 ## TITULO DECIMO SEPTIMO. Vigilancia Sanitaria
 
-### CAPITULO VII. Delitos Contra la Salud en su modalidad de Narcomenudeo
+### CAPITULO VI. Delitos
 
-> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 393.
 
@@ -6998,6 +7084,10 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TITULO DECIMO OCTAVO. Medidas de Seguridad, Sanciones y Delitos
 
+### CAPITULO VII. Delitos Contra la Salud en su modalidad de Narcomenudeo
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 402.
 
 Se consideran medidas de seguridad las disposiciones que dicte la autoridad sanitaria competente, de conformidad con los preceptos de esta Ley y demás disposiciones aplicables, para proteger la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que, en su caso, correspondieren.
@@ -7062,17 +7152,35 @@ La cuarentena se ordenará por escrito, y por la autoridad sanitaria competente,
 
 La observación personal consiste en la estrecha supervisión sanitaria de los presuntos portadores, sin limitar su libertad de tránsito, con el fin de facilitar la rápida identificación de la infección o enfermedad transmisible.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
 ###### ARTICULO 408.
 
-Las autoridades sanitarias competentes ordenarán la vacunación de personas expuestas a contraer enfermedades transmisibles, en los siguientes casos:
+Las autoridades sanitarias competentes ordenarán la vacunación de personas como medida de seguridad, en los siguientes casos:
 
 I.- Cuando no hayan sido vacunadas, en cumplimiento a lo establecido en el artículo 144 de esta Ley;
 
 II.- En caso de epidemia grave;
 
-III.- Si existiere peligro de invasión de dichos padecimientos en el territorio nacional, y
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2017)</small>
 
-IV.- Cuando así se requiera de acuerdo con las disposiciones internacionales aplicables.
+III.- Si existiere peligro de invasión de dichos padecimientos en el territorio nacional;
+
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+IV.- Cuando así se requiera de acuerdo con las disposiciones internacionales aplicables;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+V.- Ante el riesgo de emergencia o aparición de nuevas enfermedades trasmisibles o agentes infecciosos en territorio nacional, o de alguna que se considere controlada, eliminada o erradicada, y
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+VI.- Ante un desastre natural que por sus características incremente el riesgo de aparición de enfermedades prevenibles por vacunación.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+Las acciones de inmunización extraordinaria, serán obligatorias para todos los individuos en el territorio nacional.
 
 ###### ARTICULO 409.
 
@@ -7178,11 +7286,11 @@ V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
 Se sancionará con multa hasta dos mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 55, 56, 83, 103, 107, 137, 138, 139, 161, 200 bis, 202, 263, 268 bis 1, 282 bis 1, 346, 350 bis 6, 391 y 392 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 420.
 
-Se sancionará con multa de dos mil hasta seis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 142, 147, 153, 198, 200, 204, 241, 259, 260, 265, 267, 304, 307, 341, 348, segundo y tercer párrafo, 349, 350 bis, 350 bis 2, 350 bis 3 y 373 de esta Ley.
+Se sancionará con multa de dos mil hasta seis mil veces la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los artículos 75, 121, 142, 147, 153, 157 Bis 10, 198, 200, 204, 241, 259, 260, 265, 267, 304, 307, 341, 348, segundo y tercer párrafo, 349, 350 Bis, 350 Bis 2, 350 Bis 3 y 373 de esta Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -7522,9 +7630,7 @@ En el caso de las fracciones III, IV, V y VI se aplicarán al responsable, adem�
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-###### ARTICULO 462 Bis.
-
-Al responsable o empleado de un establecimiento donde ocurra un deceso o de locales destinados al depósito de cadáveres, que permita alguno de los actos a que se refieren las fracciones I, II, III, IV y V del artículo anterior o no procure impedirlos por los medios lícitos que tenga a su alcance, se le impondrá de cuatro a nueve años de prisión y multa por el equivalente de diez mil a quince mil días de salario mínimo general vigente en la zona económica de que se trate.
+ARTICULO 462 BIS. Al responsable o empleado de un establecimiento donde ocurra un deceso o de locales destinados al depósito de cadáveres, que permita alguno de los actos a que se refieren las fracciones I, II, III, IV y V del artículo anterior o no procure impedirlos por los medios lícitos que tenga a su alcance, se le impondrá de cuatro a nueve años de prisión y multa por el equivalente de diez mil a quince mil días de salario mínimo general vigente en la zona económica de que se trate.
 
 > <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2004)</small>
 
@@ -7535,6 +7641,14 @@ Si intervinieran profesionales, técnicos o auxiliares de las disciplinas para l
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 Se impondrá la sanción a que se refiere el presente artículo, al responsable del establecimiento de la salud que no inscriba en el Registro Nacional de Trasplantes al receptor y/o donador extranjero al que se refiere la parte final del artículo 333 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 462 BIS 1.- Se aplicará de uno a nueve años de prisión y una multa de cien a mil veces la Unidad de Medida y Actualización, al que por sí o por interpósita persona:
+
+I. Cobre en una institución pública de salud la aplicación de una vacuna incluida en el Programa de Vacunación Universal o destinada a acciones ordinarias o extraordinarias de vacunación, y
+
+II. A sabiendas de ello, venda las vacunas que sean propiedad de las instituciones públicas del Sistema Nacional de Salud.
 
 ###### ARTICULO 463.
 
@@ -8631,3 +8745,31 @@ D.O.F. 27 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 35 DE LA LEY GENERAL DE SALUD”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD Y DEL CÓDIGO PENAL FEDERAL”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- A partir de la entrada en vigor del presente Decreto, la Secretaría de Salud reforzará los programas y acciones a que hace referencia el Capítulo IV, del Título Décimo Primero de la Ley General de Salud, con énfasis en la prevención, tratamiento, rehabilitación, reinserción social y control del consumo de cannabis sativa, índica y americana o marihuana y sus derivados, por parte de niñas, niños y adolescentes, así como el tratamiento de las personas con adicción a dichos narcóticos.
+
+Tercero.- El Consejo de Salubridad General, a partir de los resultados de la investigación nacional, deberá conocer el valor terapéutico o medicinal que lleve a la producción de los fármacos que se deriven de la cannabis sativa, índica y americana o marihuana y sus derivados, para garantizar la salud de los pacientes.
+
+Cuarto.- La Secretaría de Salud tendrá 180 días a partir de la entrada en vigor del presente Decreto, para armonizar los reglamentos y normatividad en el uso terapéutico del TETRAHIDROCANNABINOL de los siguiente isómeros: 6a (10a), 6a (7), 7, 8, 9, 10, 9 (11) y sus variantes estereoquímicas.
+
+D.O.F. 19 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD, EN MATERIA DE VACUNACIÓN".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Decreto por el que se reforma el Consejo Nacional de Vacunación, publicado en el Diario Oficial de la Federación el 5 de julio de 2001.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Cuarto. La Secretaría de Salud contará con un plazo de noventa días hábiles para convocar e instalar el Consejo Nacional de Vacunación de conformidad con el presente Decreto. El Consejo Nacional de Vacunación tendrá un plazo de noventa días hábiles para emitir su Reglamento Interno, contados a partir de la fecha en que se celebre su sesión de instalación.
+
+Quinto. El Consejo de Salubridad General publicará en el Diario Oficial de la Federación los acuerdos que permitan instrumentar las acciones necesarias para enfrentar circunstancias epidemiológicas extraordinarias. Asimismo, la Secretaría de Salud y las demás dependencias y entidades de la Administración Pública que forman parte del Sistema Nacional de Salud, considerarán en sus respectivos proyectos de presupuesto la incorporación de las nuevas vacunas al Programa de Vacunación Universal conforme a la disponibilidad presupuestaria, en los términos previstos en el presente Decreto.
+
+Sexto. La Secretaría de Salud contará con un plazo máximo de hasta 360 días para emitir las disposiciones a que se refiere el presente Decreto.
