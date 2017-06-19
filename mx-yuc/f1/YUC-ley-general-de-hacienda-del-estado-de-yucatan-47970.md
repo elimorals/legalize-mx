@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2016-12-29"
+last_updated: "2017-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE JUNIO DE 2017.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -1917,7 +1917,9 @@ XXII. Certificación de actas de nacimiento en línea 1.80 UMA
 
 Los servicios dispuestos en las fracciones II, IV, VII, y VIII, incluyen la expedición de un certificado. El Gobernador, mediante decreto, podrá eximir total o parcialmente el pago de los derechos que se establecen en las fracciones I, II, III, V, X, XI y XIII, en los términos dispuestos en el Código Fiscal del Estado de Yucatán.
 
-No se causarán los derechos a que se refiere la fracción X de este artículo cuando se trate de la primera certificación del acta de registro de nacimiento.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O. 19 DE JUNIO DE 2017)</small>
+
+No se causarán los derechos a que se refiere la fracción X de este artículo cuando se trate de la primera certificación del acta de registro de nacimiento. En el caso de las certificaciones de las actas de nacimiento expedidas durante el mes de enero, los derechos costarán el 50% menos del valor establecido en la referida fracción.
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 244/2014, DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. 26 DE DICIEMBRE DE 2014, EL CAPÍTULO IV, DEL TÍTULO TERCERO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, DEJARÁ DE SER APLICABLE A LOS MUNICIPIOS A PARTIR DE QUE SE HAGAN CARGO DEL SERVICIO PÚBLICO DE PANTEONES Y LA FUNCIÓN RECAUDATORIA INHERENTE AL MISMO.</small>
 
@@ -3620,3 +3622,11 @@ El capítulo IV del título tercero de la Ley General de Hacienda del Estado de 
 Tercero. Cálculo de los derechos de las fracciones II y IV del artículo 85-G
 
 Los derechos contenidos en las fracciones III y IV del artículo 85-G de la Ley General de Hacienda del Estado de Yucatán, durante los meses de enero, febrero y marzo del 2017, se calcularán de acuerdo con el último salario mínimo que estuvo vigente durante el ejercicio fiscal del 2016 en el estado de Yucatán.
+
+D.O. 19 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 492/2017 POR EL QUE SE MODIFICAN LA LEY DE REGISTRO CIVIL DEL ESTADO DE YUCATÁN Y LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, EN MATERIA DE RECONOCIMIENTO DE LOS DERECHOS A LA IDENTIDAD”.]
+
+Único. Entrada en Vigor
+
+Estas disposiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
