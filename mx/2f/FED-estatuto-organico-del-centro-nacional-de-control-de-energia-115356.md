@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-centro-nacional-de-control-de-energia-115
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-06-29"
-last_updated: "2016-06-29"
+last_updated: "2017-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115356&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-06-21"
 
 ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DE ENERGÍA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2017.
 
 Estatuto publicado en la Tercera Sección del Diario Oficial de la Federación, el día miércoles 29 de junio de 2016.
 
@@ -114,6 +114,10 @@ I.1.i Gerencia de Control Regional Oriental;
 I.1.j Gerencia de Control Regional Peninsular, y
 
 I.1.k Jefatura de Unidad de Confiabilidad.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+Las Gerencias contarán con un Gerente y los Subgerentes a que se refiere el párrafo segundo del artículo 19 de este Estatuto.
 
 I.2 Subdirección de Planeación;
 
@@ -559,6 +563,10 @@ V. Someter a la autorización de la CRE las especificaciones técnicas generales
 
 VI. Elaborar y emitir, con la autorización de la CRE, especificaciones técnicas en materia de eficiencia, Calidad, Confiabilidad, Continuidad, seguridad y sustentabilidad del Sistema Eléctrico Nacional.
 
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+VII. Delegar facultades de los Gerentes a los Subgerentes adscritos a la misma Gerencia.
+
 ###### ARTÍCULO 18.
 
 A la Subdirección de Operación le corresponden, además de las facultades genéricas señaladas en el artículo 14 de este Estatuto, las siguientes:
@@ -583,6 +591,38 @@ VIII. Coordinar actividades con los organismos o autoridades que sean responsabl
 
 El CENACE contará con las Gerencias del Centro Nacional, del Centro Alterno y las de Control Regional, Baja California, Central, Noreste, Noroeste, Norte, Occidental, Oriental y Peninsular, que estarán adscritas a la Subdirección de Operación, y con las facultades específicas señaladas en este Estatuto y en los manuales correspondientes que se expidan.
 
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+Cada una de las Gerencias contará con un Gerente, un Subgerente de Operación y Despacho, un Subgerente de Planeación y Estrategia Operativa, un Subgerente de Administración, un Subgerente de Servicios del Mercado Eléctrico Mayorista y un Subgerente de Tecnologías de la Información y Comunicaciones, además del personal que requiera para el desempeño de sus funciones. A la Gerencia de Control Regional Baja California, estarán adscritas, además, la Subgerencia de Control La Paz y la Subgerencia de Control Santa Rosalía.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+Los Gerentes y Subgerentes, ejercerán sus facultades dentro de la circunscripción territorial que les corresponda a las Gerencias a las que estén adscritos, conforme a las siguientes fracciones:
+
+I. Gerencias del Centro Nacional y del Centro Alterno, en todo el territorio nacional.
+
+II. Gerencia de Control Regional Baja California, en el Estado de Baja California; en el Estado de Baja California Sur, y en el Municipio de San Luis Río Colorado del Estado de Sonora.
+
+El titular de la Gerencia de Control Regional Baja California, sin perjuicio de su ejercicio directo, podrá ser asistido en el ejercicio de las facultades a que alude el artículo 20, párrafo tercero, de este Estatuto Orgánico:
+
+a) En el Estado de Baja California y en el municipio de San Luis Río Colorado, Sonora, por el Subgerente de Operación y Despacho y por el Subgerente de Planeación y Estrategia Operativa.
+
+b) En el Estado de Baja California Sur, por el Subgerente de Control Santa Rosalía, en el Municipio de Mulegé, y por el Subgerente de Control La Paz, en los Municipios de Comondú, La Paz, Loreto y Los Cabos.
+
+III. Gerencia de Control Regional Central, en la Ciudad de México; en el Estado de Hidalgo, en los Municipios de Acatlán, Acaxochitlán, Actopan, Ajacuba, Almoloya, Apan, Atitalaquia, Atotonilco de Tula, Atotonilco el Grande, Chapantongo, Chilcuautla, Cuautepec de Hinojosa, El Arenal, Emiliano Zapata, Epazoyucan, Francisco I. Madero, Huasca de Ocampo, Metepec, Mineral de la Reforma, Mineral del Chico, Mineral del Monte, Mixquiahuala de Juárez, Omitlán de Juárez, Pachuca de Soto, Progreso de Obregón, San Agustín Tlaxiaca, San Salvador, Santiago de Anaya, Santiago Tulantepec de Lugo Guerrero, Singuilucan, Tepeapulco, Tepeji del Río de Ocampo, Tepetitlán, Tetepango, Tezontepec de Aldama, Tizayuca, Tlahuelilpan, Tlanalapa, Tlaxcoapan, Tolcayuca, Tula de Allende, Tulancingo de Bravo, Villa de Tezontepec, Zapotlán de Juárez y Zempoala; en el Estado de Guerrero, en los Municipios de Ajuchitlán del Progreso, Arcelia, Apaxtla de Castrejón, Coyuca de Catalán, Cuetzala del Progreso, Cutzamala de Pinzón, General Canuto A. Neri, Ixcateopan de Cuauhtémoc, Pilcaya, Pedro Ascencio de Alquisiras, Pungarabato, San Miguel Totolapan, Tlalchapa, Teloloapan, Tetipac y Zirándaro; en el Estado de México; en el Estado de Michoacán, en los Municipios de Arteaga, Contepec, Huetamo, Lázaro Cárdenas, San Lucas, Tiquicheo de Nicolás Romero y Tlalpujahua; en el Estado de Morelos, en los Municipios de Cuernavaca, éste concurrentemente con la Gerencia de Control Regional Oriental, y Huitzilac, y en el Estado de Puebla, en los Municipios de Ahuazotepec, Huauchinango y Juan Galindo.
+
+IV. Gerencia de Control Regional Noreste, en el Estado de Coahuila de Zaragoza, excepto en los Municipios de Francisco I. Madero, Matamoros, Parras, San Pedro, Torreón, Sierra Mojada y Viesca; en el Estado de Hidalgo, en los Municipios de Agua Blanca de Iturbide, Atlapexco, Calnali, Huautla, Huazalingo, Huehuetla, Huejutla de Reyes, Jaltocán, Juárez Hidalgo, Lolotla, Metztitlán, Molango de Escamilla, San Agustín Metzquititlán, San Bartolo Tutotepec, San Felipe Orizatlán, Tenango de Doria, Tianguistengo, Tlanchinol, Xochiatipan, Xochicoatlán, Yahualica y Zacualtipán de Ángeles; en el Estado de Nuevo León; en el Estado de San Luis Potosí, en los Municipios de Alaquines, Aquismón, Axtla de Terrazas, Cárdenas, Cerritos, Ciudad del Maíz, Ciudad Fernández, Ciudad Valles, Coxcatlán, Ébano, El Naranjo, Huehuetlán, Lagunillas, Matlapa, Rayón, Rioverde, San Antonio, San Ciro de Acosta, San Martín Chalchicuautla, San Vicente Tancuayalab, Santa Catarina, Tamasopo, Tamazunchale, Tampacán, Tampamolón Corona, Tamuín, Tancanhuitz, Tanlajás, Tanquián de Escobedo, Villa Juárez y Xilitla; en el Estado de Tamaulipas, y en el Estado de Veracruz, en los Municipios de El Higo, Naranjal, Ozuluama de Mascareñas, Pueblo Viejo y Tampico Alto.
+
+V. Gerencia de Control Regional Noroeste, en el Estado de Sinaloa y en el Estado de Sonora, excepto en el Municipio de San Luis Río Colorado.
+
+VI. Gerencia de Control Regional Norte, en el Estado de Chihuahua; en el Estado de Durango, y en el Estado de Coahuila de Zaragoza, en los Municipios de Francisco I. Madero, Matamoros, Parras, San Pedro, Torreón, Sierra Mojada y Viesca.
+
+VII. Gerencia de Control Regional Occidental, en el Estado de Aguascalientes; en el Estado de Colima; en el Estado de Guanajuato; en el Estado de Jalisco; en el Estado de Michoacán, excepto en los Municipios de Arteaga, Contepec, Huetamo, Lázaro Cárdenas, San Lucas, Tiquicheo de Nicolás Romero y Tlalpujahua; en el Estado de Nayarit; en el Estado de Querétaro; en el Estado de Hidalgo, en los Municipios de Alfajayucan, Cardonal, Chapulhuacán, Eloxochitlán, Huichapan, Ixmiquilpan, Jacala de Ledezma, La Misión, Nicolás Flores, Nopala de Villagrán, Pacula, Pisaflores, Tasquillo, Tecozautla, Tepehuacán de Guerrero, Tlahuiltepa y Zimapán; en el Estado de San Luis Potosí, en los Municipios de Ahualulco, Armadillo de los Infante, Catorce, Cedral, Cerro de San Pedro, Charcas, Guadalcázar, Matehuala, Mexquitic de Carmona, Moctezuma, Salinas, San Luis Potosí, San Nicolás Tolentino, Santa María del Río, Santo Domingo, Soledad de Graciano Sánchez, Tierra Nueva, Vanegas, Venado, Villa de Arista, Villa de Arriaga, Villa de Guadalupe, Villa de la Paz, Villa de Ramos, Villa de Reyes, Villa Hidalgo y Zaragoza, y en el Estado de Zacatecas.
+
+VIII. Gerencia de Control Regional Oriental, en el Estado de Chiapas; en el Estado de Guerrero, excepto los Municipios de Ajuchitlán del Progreso, Arcelia, Apaxtla, Coyuca de Catalán, Cuetzala del Progreso, Cutzamala de Pinzón, General Canuto A. Neri, Ixcateopan de Cuauhtémoc, Pilcaya, Pedro Ascencio de Alquisiras, Pungarabato, San Miguel Totolapan, Tlalchapa, Teloloapan, Tetipac y Zirándaro; en el Estado de Morelos, excepto en el Municipio de Huitzilac; en el Estado de Oaxaca; en el Estado de Puebla, excepto los Municipios de Ahuazotepec, Huauchinango y Juan Galindo; en el Estado de Tabasco; en el Estado de Tlaxcala, y en el Estado de Veracruz, excepto los Municipios de El Higo, Naranjal, Ozuluama de Mascareñas, Pueblo Viejo y Tampico Alto.
+
+IX. Gerencia de Control Regional Peninsular en el Estado de Campeche; en el Estado de Quintana Roo, y en el Estado de Yucatán.
+
 ###### ARTÍCULO 20.
 
 Además de las facultades genéricas señaladas en el artículo 15 de este Estatuto, a los titulares de las Gerencias mencionadas en el artículo anterior, les corresponden, las siguientes facultades:
@@ -605,7 +645,19 @@ VIII. Recibir, sustanciar y resolver los recursos materia de su competencia, y
 
 IX. Comprobar el cumplimiento de los supuestos incluidos en las fracciones IV y V del artículo 33 de la Ley, y ordenar a las partes la realización de interconexión o conexión físicas.
 
-Las facultades a que este precepto se refiere también podrán ser ejercidas por las áreas administrativas adscritas a las Gerencias de Control Regional.
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+Las facultades a que se refieren las fracciones anteriores también podrán ser ejercidas por los Subgerentes, mediante delegación de facultades.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+Sin perjuicio de su ejercicio directo, en el ejercicio de las facultades señaladas en el presente artículo, los Gerentes podrán ser asistidos por:
+
+a) El Subgerente de Operación y Despacho, el Subgerente de Planeación y Estrategia Operativa, el Subgerente de Administración, el Subgerente de Servicios del Mercado Eléctrico Mayorista, el Subgerente de Tecnologías de la Información y Comunicaciones a quienes corresponderá el ejercicio de las facultades del artículo 15 del Estatuto y de la fracción VIII del presente artículo; el Gerente de Control Regional Baja California, podrá ser asistido, además por el Subgerente de Control La Paz y el Subgerente de Control Santa Rosalía, en el ejercicio de las facultades establecidas en el presente inciso;
+
+b) El Subgerente de Operación y Despacho, el Subgerente de Planeación y Estrategia Operativa, a quienes corresponde el ejercicio de las facultades establecidas en las fracciones I, II y IX del presente artículo; el Gerente de Control Regional Baja California, podrá ser asistido, además por el Subgerente de Control La Paz y el Subgerente de Control Santa Rosalía, en el ejercicio de las facultades establecidas en el presente inciso, y
+
+c) El Subgerente de Administración, a quien corresponde el ejercicio de las facultades establecidas en las fracciones III, IV, V, VI y VII del presente artículo.
 
 ###### ARTÍCULO 21.
 
@@ -1249,6 +1301,34 @@ VI. Coordinarse con las Unidades Administrativas competentes en riesgos del CENA
 
 VII. Informar a la Dirección General y a la Dirección de Operación y Planeación del Sistema, así como a la Dirección de Administración del Mercado Eléctrico Mayorista, respecto del incumplimiento de obligaciones de los Participantes del Mercado y demás personas vinculadas a la Cámara de Compensación, para determinar las sanciones que resulten aplicables, en el ámbito de su competencia.
 
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 43 BIS. A la Jefatura de Unidad de Riesgos le corresponden, además de las facultades genéricas señaladas en el artículo 16 de este Estatuto, las siguientes:
+
+I. Proponer la estrategia institucional y programas de trabajo en materia de administración integral de riesgos;
+
+II. Implementar la metodología de riesgos aprobada para la administración de riesgos en los diferentes procesos del CENACE;
+
+III. Participar y asistir a las Unidades Administrativas en la identificación, monitoreo, información y revelación de los riesgos institucionales y de sus procesos sustantivos, así como en las demás actividades relativas a la administración integral de riesgos;
+
+IV. Coordinar las actividades relacionadas con la administración integral de riesgos, inherentes a las atribuciones del CENACE que las Unidades Administrativas realicen en el ámbito de su competencia;
+
+V. Proponer, con base en la información y en las recomendaciones de las Unidades Administrativas competentes, las políticas y lineamientos necesarios para la administración integral de los riesgos en que incurra el CENACE y sus Unidades Administrativas;
+
+VI. Implementar un modelo de gestión integral de riesgos al interior del Organismo;
+
+VII. Monitorear e informar los riesgos en que incurran las Unidades Administrativas adscritas al CENACE, con base en la información proporcionada por éstas;
+
+VIII. Revisar los proyectos de Matriz y Mapa de Administración de Riesgos;
+
+IX. Implementar la cultura institucional de prevención de riesgos;
+
+X. Coordinar la integración de la información que permita evaluar el probable impacto que los riesgos pudieran tener en la adecuada operación del CENACE;
+
+XI. Llevar a cabo acciones de evaluación de riesgos a los que el CENACE está expuesto, y
+
+XII. Coordinar la definición de controles en los diferentes procesos de la entidad para mitigar riesgos.
+
 ###### ARTÍCULO 44.
 
 A la Dirección Jurídica le corresponden, además de las facultades genéricas señaladas en el artículo 13 de este Estatuto, las siguientes:
@@ -1439,6 +1519,10 @@ Los Directores serán suplidos, indistintamente, por los Subdirectores o Jefes d
 
 Los Subdirectores serán suplidos, indistintamente, por los Jefes de Unidad que de ellos dependan.
 
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+Los Gerentes serán suplidos, indistintamente, por los Subgerentes de la misma Gerencia.
+
 ###### ARTÍCULO 53.
 
 El Director General será suplido por vacancia con la prelación siguiente: Director de Operación y Planeación del Sistema; Director de Administración del Mercado Eléctrico Mayorista; Director de Administración y Finanzas, y el Director Jurídico, en el orden antes indicado, hasta en tanto sea nombrado el nuevo Director General.
@@ -1452,3 +1536,13 @@ SEGUNDO. Se abroga el Estatuto Orgánico del Centro Nacional de Control de Energ
 Ciudad de México, a 21 de junio de 2016.- Con fundamento en los artículos 59, fracción XII, de la Ley Federal de las Entidades Paraestatales y VIGÉSIMO PRIMERO, fracción X, del Decreto por el que se crea el Centro Nacional de Control de Energía, y en cumplimiento al Acuerdo número CA-023/2016-10, emitido por el Consejo de Administración en su décima sesión ordinaria, celebrada el día 26 de mayo de 2016.
 
 El Director General del Centro Nacional de Control de Energía, Eduardo Meraz Ateca.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DE ENERGÍA”.]
+
+PRIMERO.- La presente modificación al Estatuto Orgánico del Centro Nacional de Control de Energía entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Esta modificación deberá inscribirse en el Registro Público de Organismos Descentralizados, en los términos del penúltimo párrafo del artículo 15 de la Ley Federal de las Entidades Paraestatales.
