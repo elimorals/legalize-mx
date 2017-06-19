@@ -4,7 +4,7 @@ identifier: "LGPAS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-07-24"
-last_updated: "2015-06-04"
+last_updated: "2017-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56140&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LGPAS"
 ---
 # LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de julio de 2007.
 
@@ -146,9 +148,9 @@ XIX. Esfuerzo pesquero: El número de individuos, embarcaciones o artes de pesca
 
 XX. Guía de pesca: Es el documento que ampara el transporte por vía terrestre, marítima o aérea de productos pesqueros vivos, frescos, enhielados o congelados, provenientes de la acuacultura o de la pesca;
 
-> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2017)</small>
 
-XXI. INAPESCA: Instituto Nacional de Pesca, órgano público descentralizado sectorizado con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+XXI. Inapesca: Instituto Nacional de Pesca y Acuacultura, órgano público descentralizado sectorizado con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
 XXII. Inocuidad: Es la garantía de que el consumo de los recursos pesqueros y acuícolas no cause daño en la salud de los consumidores;
 
@@ -566,19 +568,13 @@ XI. Planes de manejo pesquero y de acuacultura publicados por la autoridad corre
 
 XII. Programas que impulsen el desarrollo de la investigación científica y tecnológica para la diversificación productiva y el aprovechamiento de la acuacultura de especies nativas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 2014)</small>
 
 XIII. Programas que promuevan la acuacultura rural e industrial, así como la reconversión productiva como una alternativa de desarrollo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 2014)</small>
 
 XIV. El Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 10 DE NOVIEMBRE DE 2014)</small>
 
@@ -2177,3 +2173,11 @@ D.O.F. 2 DE JUNIO DE 2015.
 D.O.F. 4 DE JUNIO DE 2015.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXI DEL ARTÍCULO 4o. DE LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las menciones contenidas en otras leyes, reglamentos y, en general en cualquier disposición respecto al Instituto Nacional de Pesca, cuyo nombre se modifica por virtud de este Decreto, se entenderán referidas al Instituto Nacional de Pesca y Acuacultura.
