@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2017-04-24"
+last_updated: "2017-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE ABRIL DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -577,7 +575,9 @@ XXV. Consejo Técnico Ciudadano de Salud del Municipio de Aguascalientes.
 
 XXVI. Consejo Municipal de la Juventud de Aguascalientes.
 
-XXVII. (REFORMADA [N. DE E. DEROGADA], P.O. 16 DE NOVIEMBRE DE 2009)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JUNIO DE 2017)</small>
+
+XXVII. Comité de Transparencia y Acceso a la Información del Municipio de Aguascalientes.
 
 XXVIII. Comisión de Admisión de Peritos.
 
@@ -2161,7 +2161,7 @@ En todo lo no previsto en este Código, se recurrirá a las disposiciones de la 
 
 ### CAPÍTULO IX. De las Comisiones
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
 ###### Art. 77.
 
@@ -2379,7 +2379,7 @@ Todos los Reglamentos, Decretos, Acuerdos y Ordenes del Presidente deberán esta
 
 El Cabildo nombrará las Comisiones permanentes que tendrán la obligación de vigilar el ramo de la administración que se les encomiende y serán las siguientes:
 
-REGIDORES
+A. REGIDORES:
 
 I. Gobernación.
 
@@ -2391,7 +2391,7 @@ IV. Comisión de Desarrollo Social.
 
 V. Desarrollo Económico, Turismo y Asuntos Internacionales.
 
-VI. Planeación Urbana y Rural.
+VI. Planeación Urbana, Rural y Asuntos Metropolitanos.
 
 VII. Agua Potable, Alcantarillado y Saneamiento.
 
@@ -2399,7 +2399,7 @@ VIII. Obras Públicas.
 
 IX. Control Reglamentario, Espectáculos, Mercados, Rastros y Estacionamientos.
 
-X. Alumbrado y limpia.
+X. Alumbrado y Limpia.
 
 XI. Cultura;
 
@@ -2407,13 +2407,13 @@ XII. Ecología, Parques, Jardines y Panteones.
 
 XIII. Educación, Juventud y Deporte.
 
-XIV. Igualdad y Género
+XIV. Igualdad y Género.
 
-XV. Derechos Humanos
+XV. Derechos Humanos.
 
-XVI. Todas que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
+XVI. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
 
-Síndicos.
+B. SÍNDICOS:
 
 I. Procurador.
 
@@ -3041,6 +3041,16 @@ El trámite y resolución de los asuntos, competencia del Municipio de Aguascali
 
 Los titulares de cada una de las dependencias y entidades de la administración pública municipal, acordarán directamente con el Presidente Municipal o con quien éste determine, y deberán cumplir los requisitos señalados en la Ley que en materia municipal expida el Poder Legislativo del Estado.
 
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2017)</small>
+
+Para la creación o modificación de una Unidad Administrativa o Dependencia por parte del Honorable Ayuntamiento, se requerirá lo siguiente:
+
+I. Dictamen técnico-jurídico de la Comisión del ramo administrativo que corresponda,
+
+II. Dictamen de viabilidad financiera y administrativa, emitido por la Comisión de Hacienda.
+
+III. Dictamen de estimación del impacto presupuestario y administrativo, así como también una corrida financiera de las nuevas plazas, emitido por la Secretaría de Finanzas Públicas y la Secretaría de Administración.
+
 Para el estudio, planeación y despacho de los asuntos de su competencia, la Presidencia Municipal contará con las siguientes Unidades Administrativas:
 
 Secretaría Particular;
@@ -3085,11 +3095,17 @@ Secretaría de Servicios Públicos;
 
 Secretaría de Seguridad Pública;
 
-Secretaría de Medio Ambiente y Desarrollo Sustentable.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2017)</small>
+Secretaría del Medio Ambiente y Desarrollo Sustentable.
 
-Secretaría de Economía Social y Turismo Municipal.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
+
+Secretaría de Economía Social y Turismo Municipal; y
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2017)</small>
+
+Coordinación de Transparencia y Acceso a la Información del Municipio de Aguascalientes.
 
 I.- PRESIDENCIA MUNICIPAL
 
@@ -3820,6 +3836,22 @@ Departamento de Desarrollo Social
 Comisarios Municipales
 
 Dirección de Desarrollo Rural.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2017)</small>
+
+XX.- COORDINACIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL MUNICIPIO DE AGUASCALIENTES.
+
+Coordinación de Transparencia del Municipio de Aguascalientes.
+
+Departamento Jurídico.
+
+Departamento Administrativo.
+
+Departamento de Atención a Solicitudes de Información y Datos Personales.
+
+Departamento de Capacitación y Vinculación Institucional.
+
+Departamento de Evaluación de Transparencia.
 
 ### CAPÍTULO I. De las Normas que Regulan las Actividades de los Trabajadores al Servicio del Gobierno Municipal
 
@@ -5518,6 +5550,32 @@ XIX. Proyectar la vocación turística de nuestra ciudad y generar programas que
 XX. Promover el turismo local en el territorio Municipal, y
 
 XXI. Y las demás que le confieran las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 114 QUATER.- Corresponde a la Coordinación de Transparencia y Acceso a la Información del Municipio de Aguascalientes:
+
+I.- Recabar y difundir la información a que se refieren los Capítulos II y III del Título Quinto de la Ley General de Transparencia y Acceso a la Información Pública, así como de los Capítulos II y III del Título Quinto de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios;
+
+II.- Recibir y dar trámite a las solicitudes de acceso a la información;
+
+III.- Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información, y en su caso, orientarlos sobre los sujetos obligados que pudieran tener la información que solicitan;
+
+IV.- Realizar los trámites internos necesarios para entregar la información solicitada, además de efectuar las notificaciones a los solicitantes;
+
+V.- Proponer al Comité de Transparencia y Acceso a la Información del Municipio de Aguascalientes los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la normatividad aplicable;
+
+VI.- Habilitar a los servidores públicos de las Unidades Administrativas, así como también de los Órganos Descentralizados de la Administración Municipal que sean necesarios como Titulares de las Unidades de Enlace de Transparencia, para recibir y dar trámite a las solicitudes de acceso a la información;
+
+VII.- Llevar un registro de las solicitudes de acceso a la información, sus resultados y costos;
+
+VIII.- Promover e implementar políticas de transparencia proactiva y apertura gubernamental;
+
+IX.- Brindar asesoría, apoyo técnico y capacitaciones a las Dependencias, para propiciar la cultura de la transparencia y accesibilidad al interior del sujeto obligado;
+
+X.- Dar vista a la instancia competente de la probable responsabilidad por el incumplimiento de las obligaciones previstas en la Ley General de Transparencia y Acceso a la Información Pública, así como de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios, y
+
+XI.- Las demás que se desprendan de la normatividad aplicable.
 
 ## TÍTULO TERCERO. DE LA NORMATIVIDAD INTERNA MUNICIPAL
 
@@ -9539,6 +9597,76 @@ VI.- Estacionar vehículos en la vía pública que transporten residuos fuera de
 
 VII.- Abstenerse de recoger las heces fecales de sus mascotas que sean arrojadas en vía pública, áreas verdes, áreas de uso común, áreas de interés común y medianerías en el interior del Municipio.
 
+> <small>(ADICIONADO CON SUS INCISOS, P.O. 19 DE JUNIO DE 2017)</small>
+
+GRUPO UNO.
+
+A).- Abstenerse los ciudadanos de barrer diariamente los frentes de sus viviendas hasta la medianería de sus colindancias.
+
+B).- Abstenerse los establecimientos comerciales o industriales así como los ambulantes de acreditar el destino final de sus residuos y; abstenerse de depositar en el contenedor sus residuos sólidos domésticos sin contar con el permiso de la Dirección de Limpia y Aseo Público.
+
+C).- Abstenerse de separar los residuos sólidos no peligrosos, susceptibles de aprovechamiento, una vez que se encuentre instrumentado por la Dirección de Limpia y Aseo Público.
+
+D).- Abstenerse los ciudadanos, establecimientos comerciales o industriales así como los ambulantes debiendo respetar los horarios establecidos por la Dirección de Limpia y Aseo Público, para el depósito en los contenedores de residuos sólidos domésticos.
+
+E).- Abstenerse los establecimientos comerciales o industriales así como los ambulantes debiendo mantener limpia un área mínima de dos metros a la redonda, del lugar que ocupen para sus actividades.
+
+F).- Abstenerse los ciudadanos debiendo recoger las heces fecales de sus mascotas que sean arrojadas en la vía pública, áreas de uso común, áreas de interés común y medianerías en el interior del Municipio.
+
+G).- Abstenerse de todo acto u omisión que contribuya al desaseo de las vías públicas, áreas de uso común o áreas de interés común; obtenerse (sic) de arrojar al contenedor residuos de podas.
+
+H).- Abstenerse de obstruir contenedor a menos de 3 metros de distancia mediante vehículo o cualquier objeto propiedad de los particulares en base a los criterios de la Dirección de Limpia y Aseo Público.
+
+> <small>(ADICIONADO CON SUS INCISOS, P.O. 19 DE JUNIO DE 2017)</small>
+
+GRUPO DOS.
+
+A).- Abstenerse los establecimientos comerciales o industriales así como condominios, cotos privados, desarrollos especiales, bodegas u oficinas debiendo barrer diariamente el frente hasta las medianerías de sus colindancias.
+
+B).- Abstenerse los establecimientos comerciales o industriales fijos debiendo acreditar mediante documentación el destino final de sus residuos en los lugares autorizados por la Dirección de Limpia y Aseo Público.
+
+C).- Abstenerse de arrojar algún tipo de desecho desde el interior de los vehículos automotores.
+
+D).- Abstenerse de depositar muebles o cualquier otro tipo de objeto que rebase la capacidad de los contenedores para residuos sólidos domésticos, así como cualquier tipo de animal muerto.
+
+> <small>(ADICIONADO CON SUS INCISOS, P.O. 19 DE JUNIO DE 2017)</small>
+
+GRUPO TRES.
+
+A).- Abstenerse de arrojar en lotes baldíos o en los contenedores, residuos procedentes de jardines, huertas o residuos de obras de construcción y remodelación o cualquier otro desecho que afecte el ambiente según los lineamientos de la Dirección de Limpia y Aseo Público.
+
+B).- Abstenerse de dañar, incendiar o destruir los contenedores o recipientes para depósito de basura y/o para residuos sólidos urbanos que coloque o mande colocar la dirección de limpia y aseo público, así como los que hayan sido instalados por los particulares.
+
+> <small>(ADICIONADO CON SUS INCISOS, P.O. 19 DE JUNIO DE 2017)</small>
+
+GRUPO CUATRO.
+
+A).- Abstenerse de no asear y en su caso lavar la vía pública, si con motivo de la carga o descarga de la venta o consumo inmediato de productos, llegaran a ensuciarla.
+
+B).- Abstenerse los prestadores del servicio de recolección y los particulares de diseminar el producto o residuos transportados en la vía pública, no contando con el permiso correspondiente.
+
+C).- Abstenerse de colocar recipientes adecuados en capacidad y ubicación para el depósito temporal de residuos sólidos urbanos generados por la actividad de, empresas, condominios e industrias, así como por no contar con contenedores para la separación de residuos reciclables, orgánicos, inorgánicos, residuos peligrosos y de manejo especial según los lineamientos instrumentados por la Dirección de Limpia y Aseo Público.
+
+D).- Abstenerse las empresas e industrias de acreditar mediante documentación el destino final de sus residuos a los sitios autorizados por la Dirección de Limpia y Aseo Público.
+
+E).- Abstenerse de depositar en los contenedores, desechos de los llamados hospitalarios o biológico infecciosos, que deben incinerarse de conformidad con las normas establecidas en la ley competente o aquellos que no son incinerables y que deben ser entregados a las instancias correspondientes para su confinamiento.
+
+F).- Abstenerse de provocarle un daño y/o deterioro que inutilice el funcionamiento idóneo del equipamiento y/o quemar el contenido de los contenedores colocados por la Dirección de Limpia y Aseo Público o por empresas particulares de recolección en la vía pública.
+
+G).- Abstenerse de usar como combustible cualquier tipo de material de desecho que genere deterioro ambiental y/o que a partir de su utilización genere algún otro tipo de desecho inadmisible en los contenedores para desechos domésticos.
+
+H).- Abstenerse de depositar cualquier tipo de desecho liquido o de índole diferente a la domestica, lixiviados, aceites, etc. En los contenedores para desechos sólidos domésticos.
+
+I).- Abstenerse los organizadores de espectáculos públicos, de mantener limpia el área mínima autorizada, comprendiendo también los alrededores que por causa de la actividad se vean afectados.
+
+J).- Abstenerse las empresas e industrias de respetar los horarios y rutas que por su actividad o tipo de desecho que manejen, con base a los lineamientos que le señale la Dirección de Limpia y Aseo Público.
+
+K).- Abstenerse los particulares, comercios, empresas e industrias de depositar una cantidad superior a los residuos de una casa habitacional en los contenedores o depósitos municipales sin contar con la acreditación correspondiente.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2017)</small>
+
+En su caso, quienes infrinjan las prohibiciones descritas en el párrafo anterior, serán sancionados conforme a lo previsto por el artículo 1574 del Código Municipal.
+
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE ENERO DE 2014)</small>
 
 ### CAPÍTULO I. Del Permiso Ambiental de Funcionamiento
@@ -12243,7 +12371,9 @@ III. Dentro de la Comisión, el Secretario Técnico, requerirá a la Dirección 
 
 IV. Cuando las pruebas admitidas dentro del procedimiento requieran de un desahogo especial, los costos y la aportación de los medios para su desahogo serán responsabilidad de quienes las ofrezcan, por lo que el incumplimiento o falta de preparación o la voluntad de tercero que hagan imposible el desahogo en el día y hora de la audiencia única será causa suficiente para declarar desierta la prueba, salvo que en el transcurso del procedimiento y hasta antes del cierre de la instrucción, aparecieren pruebas supervinientes.
 
-En materia de pruebas, para las reglas específicas de ofrecimiento y desahogo de pruebas, será aplicable, en forma supletoria, la Legislación Penal del Estado de Aguascalientes, en lo que no contradiga el presente procedimiento;
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
+
+En materia de pruebas, para las reglas específicas de ofrecimiento y desahogo de pruebas, será aplicable, en forma supletoria, el Código Nacional de Procedimientos Penales, en lo que no contradiga el presente procedimiento;
 
 V. Una vez desahogadas las pruebas, inmediatamente la Dirección de Asuntos Internos de Seguridad Pública procederá a formular, de manera verbal sus conclusiones y determinará la sanción que solicita. El integrante operativo deberá expresar, en forma verbal, los alegatos que a su derecho convengan, de forma inmediata a las conclusiones rendidas por parte de la Dirección. Posterior a la rendición de conclusiones y alegatos, la Comisión de Honor y Justicia declarará cerrada la instrucción del procedimiento;
 
@@ -12259,7 +12389,9 @@ En el momento de la citación para la audiencia única, el notificador requerir�
 
 También podrán hacerse notificaciones al abogado del integrante operativo cuando en autos haya sido facultado para tal efecto. La facultad de recibir notificaciones autoriza al abogado designado para ello, para realizar promociones de mero trámite, ofrecer y rendir pruebas y alegar en la audiencia única.
 
-A las notificaciones derivadas del presente procedimiento le será aplicable lo dispuesto por el apartado de notificaciones establecido en la Legislación Penal del Estado de Aguascalientes, en lo que no contravenga el presente procedimiento.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
+
+A las notificaciones derivadas del presente procedimiento le será aplicable lo dispuesto por el apartado de notificaciones establecido en el Código Nacional de Procedimientos Penales, en lo que no contravenga el presente procedimiento.
 
 En caso de que el integrante operativo se negare a firmar la notificación, el notificador podrá dar fe de dicha conducta y así asentarlo en la cédula de notificación. Dicha negativa no afectará la validez de la notificación realizada.
 
@@ -25087,6 +25219,8 @@ En caso de clausura provisional como medida de seguridad, esta podrá prolongars
 
 ### CAPÍTULO I. De las Sanciones en Materia de Servicios Públicos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 1555.
 
 Para la determinación de la imposición de una sanción o medida de seguridad que prevenga el presente Código y la legislación aplicable se atenderá a lo siguiente:
@@ -25353,13 +25487,13 @@ Para toda violación a las normas y disposiciones municipales previstas en el pr
 
 ###### ARTÍCULO 1574.
 
-En materia de servicios públicos municipales se impondrá:
+En atención a la siguiente clasificación de infracciones, atendiendo al grupo que correspondan y en relación al mínimo y máximo establecido, se sancionará de la siguiente forma:
 
-En atención a la siguiente clasificación de infracciones, atendiendo al grupo que correspondan y en relación al mínimo y máximo establecido, en la siguiente forma:
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
 
-I. GRUPO UNO, SANCION DE TRES A DIEZ DIAS DE SALARIO MINIMO GENERAL VIGENTE EN LA ENTIDAD:
+I. GRUPO UNO, SANCIÓN DE TRES A DIEZ VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN:
 
 a) Por no barrer diariamente los frentes de sus viviendas hasta la medianería de sus colindancias.
 
@@ -25379,9 +25513,9 @@ g) Todo acto u omisión que contribuya al desaseo de las vías públicas, áreas
 
 h) (DEROGADO, P.O. 13 DE ENERO DE 2014)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
 
-II. GRUPO DOS, DE DIEZ A TREINTA DIAS DE SALARIO MINIMO GENERAL VIGENTE EN LA ENTIDAD:
+II. GRUPO DOS, DE DIEZ A TREINTA VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN:
 
 a) Por no barrer diariamente el frente de sus establecimientos hasta las medianerías de sus colindancias.
 
@@ -25393,9 +25527,9 @@ c) Arrojar cualquier tipo de desecho desde el interior de los vehículos automot
 
 d) Depositar muebles o cualquier otro tipo de objeto que rebase la capacidad de los contenedores para residuos sólidos urbanos, así como cualquier tipo de animal muerto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
 
-III. GRUPO TRES, DE TREINTA A CINCUENTA DÍAS LAS DE SALARIO MINIMO GENERAL VIGENTE EN LA ENTIDAD:
+III. GRUPO TRES, DE TREINTA A CINCUENTA VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN:
 
 a) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
@@ -25407,9 +25541,9 @@ b) Por cualquier tipo de daño o destrucción de los recipientes para depósito 
 
 c) Por no asear y en su caso lavar la vía pública, si con motivo de la carga o descarga de la venta o consumo inmediato de productos, llegaran a ensuciarla.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
 
-IV. GRUPO CUATRO, DE CINCUENTA A DOSCIENTOS DIAS DESALARIO MINIMO GENERAL VIGENTE EN LA ENTIDAD:
+IV. GRUPO CUATRO, DE CINCUENTA A DOSCIENTAS VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN:
 
 a) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
@@ -27094,6 +27228,44 @@ CUARTO: Dentro de los 60 días hábiles siguientes a la entrada en vigor de la p
 QUINTO: Las reformas a los artículos 3°, 6° fracción IV, 12, se modifica y adiciona un párrafo al artículo 26, 33, 88, 98, 102, se reforman las fracciones XV a XVII del artículo 111 y se derogan de la XVIII a la XXXV del mismo artículo, se adiciona el artículo 114 TER del Código Municipal de Aguascalientes estarán sujetas a la suficiencia presupuestal que resulte de la reingeniería, economías y remanentes que en orden de prioridades, de forma progresiva y gradual genere la Administración Pública Municipal de Aguascalientes.
 
 SEXTO: Todas las disposiciones jurídicas del ámbito Municipal que se opongan al presente, se entienden reformadas en el sentido del contenido en el cuerpo del mismo, adecuando los nuevos nombres y funciones a las recientemente reformadas.
+
+P.O. 19 DE JUNIO DE 2017.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE “SE REFORMAN LOS ARTÍCULOS 610 Y 611 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES Y SE REFORMAN LOS ARTÍCULOS 275 Y 276 DEL REGLAMENTO DEL SISTEMA INTEGRAL DE DESARROLLO POLICIAL DEL MUNICIPIO DE AGUASCALIENTES”.]</small>
+
+###### ARTÍCULO PRIMERO
+
+Se reforman los artículos 610 fracción IV, segundo párrafo y 611 tercer párrafo del Código Municipal de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO
+
+Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE JUNIO DE 2017.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE "SE REFORMA EL ARTÍCULO 15 Y SE ADICIONAN LOS 98 Y 114 QUATER DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]</small>
+
+PRIMERO: Se reforman los artículos 15 fracción XXVII, 98 tercer párrafo y fracción XX, y se adiciona el artículo 114 QUATER del Código Municipal de Aguascalientes.
+
+SEGUNDO: Las modificaciones al presente Código entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO: La Secretaría de Finanzas Públicas llevara a cabo todos los actos legales y administrativos a efecto de que la Coordinación de Transparencia y Acceso a la Información Pública, cuente con sus respectivas claves programáticas, presupuestos correspondientes y demás trámites legales y administrativos que se susciten con motivo de las presentes reformas.
+
+CUARTO: Para el ejercicio fiscal 2018, la Secretaría de Finanzas Públicas, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2018 a la Coordinación de Transparencia y Acceso a la Información, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
+
+QUINTO: Para el ejercicio fiscal 2018; la Secretaría de Administración llevará a cabo todos los actos legales y administrativos que se susciten con motivo de las presentes reformas, salvaguardando los derechos laborales de todos los empleados; por lo que deberá de realizar el cambio de adscripción de todos y cada uno de los servidores públicos habilitados como Titulares de las Unidades de Enlace de Transparencia, con la finalidad de que estos mismos dependan presupuestalmente de la Coordinación de Transparencia y Acceso a la Información.
+
+SEXTO: La Coordinación de Transparencia y Acceso a la Información, dentro de los 60 días hábiles siguientes a la entrada en vigor de la presente reforma, deberá proponer al H. Ayuntamiento Constitucional del Municipio de Aguascalientes, el Reglamento de la Coordinación de Transparencia y Acceso a la Información; así como también sus Manuales de Operación, con el fin de que se encuentre conforme a la presente reforma.
+
+SÉPTIMO: Todas y cada una de las Unidades Administrativas, así como también los Órganos Descentralizados del Municipio de Aguascalientes, deberán designar a su respectivo enlace de transparencia, a efecto de que la Coordinación de Transparencia y Acceso a la Información Pública esté en la posibilidad de habilitarlos como Titulares de las Unidades de Enlace de Transparencia y dependerán jerárquica y directamente del Coordinador de Transparencia y Acceso a la Información pero con cargo presupuestal a cada Unidad Administrativa de origen, únicamente para el ejercicio fiscal 2017; ya que para el ejercicio fiscal 2018, los servidores públicos que se encuentren habilitados como Titulares de las Unidades de Enlace de Transparencia dependerán presupuestalmente de la Coordinación de Transparencia y Acceso a la Información.
+
+P.O. 19 DE JUNIO DE 2017.
+
+> <small>[N. DE E. TRANSITORIOS POR LOS QUE "SE REFORMAN LOS ARTÍCULOS 82, 491-7 Y 1574, DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]</small>
+
+PRIMERO: Se reforma el artículo 82, y se hacen adiciones a los artículos 491-7 y 1574 del Código Municipal de Aguascalientes.
+
+SEGUNDO: Las presentes reformas y adiciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ###### ARTICULO SEPTIMO.
 
