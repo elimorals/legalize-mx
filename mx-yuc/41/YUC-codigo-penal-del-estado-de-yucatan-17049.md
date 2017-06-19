@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2016-12-28"
+last_updated: "2017-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # CODIGO PENAL DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE JUNIO DE 2017.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -3473,9 +3475,13 @@ I. Ocupe un inmueble ajeno o haga uso de él o de un derecho real que no le pert
 
 II. Ocupe un inmueble de su propiedad que se halle en poder de otra persona por causa legítima, o ejerza actos de dominio que lesionen los derechos del ocupante.
 
-Si el despojo se efectúa por dos o más personas o con violencia, se aumentarán hasta en una mitad las penas señaladas, pero a los autores intelectuales, o a quienes dirijan el despojo se les aplicará prisión de uno a seis años y de diez a sesenta días-multa.
+> <small>(ADICIONADO, D.O. 19 DE JUNIO DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Cuando el inmueble ocupado sea de propiedad privada, a los responsables se les impondrá una pena de uno a seis años de prisión y de veinte a sesenta días-multa, para las propiedades del estado y municipios, sólo se considerarán aquellas del dominio privado.
+
+> <small>(REFORMADO, D.O. 19 DE JUNIO DE 2017)</small>
+
+Si el despojo se efectúa por dos o más personas o con violencia, se aumentarán hasta en una mitad las penas señaladas en los párrafos anteriores; pero éstas se aumentarán hasta el doble, cuando se trate de los autores intelectuales o de quienes dirijan el despojo.
 
 > <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -3495,13 +3501,31 @@ III.- Existan antecedentes de violencia familiar, laboral o escolar, motivada po
 
 IV.- La pretensión infructuosa del sujeto activo de establecer o restablecer una relación de pareja o de intimidad con la víctima.
 
+> <small>(ADICIONADA, D.O. 19 DE JUNIO DE 2017)</small>
+
+V.- Haya existido entre el sujeto activo y la víctima una relación sentimental, afectiva o de confianza.
+
+> <small>(ADICIONADA, D.O. 19 DE JUNIO DE 2017)</small>
+
+VI.- Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima.
+
+> <small>(ADICIONADA, D.O. 19 DE JUNIO DE 2017)</small>
+
+VII.- La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida.
+
+> <small>(ADICIONADA, D.O. 19 DE JUNIO DE 2017)</small>
+
+VIII.- El cuerpo de la víctima sea expuesto o exhibido en un lugar público.
+
 A quien cometa el delito de feminicidio se le impondrán de treinta a cuarenta años de prisión y de quinientos a mil días multa.
 
 Si entre el sujeto activo y la víctima existió una relación de parentesco por consanguinidad en línea recta, sin limitación de grado, o colateral hasta el cuarto grado o por afinidad hasta el cuarto grado; laboral, docente o sentimental, se impondrá una pena de prisión de treinta a cincuenta años de prisión y de quinientos a mil días multa.
 
 Además de las sanciones descritas en este artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 
-En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+> <small>(REFORMADO, D.O. 19 DE JUNIO DE 2017)</small>
+
+Las autoridades investigadoras competentes, cuando se encuentren ante un probable delito de feminicidio deberán aplicar el protocolo correspondiente a dicho delito; en caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
 
 > <small>(ADICIONADO, D.O. 1 DE ABRIL DE 2014)</small>
 
@@ -4496,3 +4520,15 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 19 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 493/2017 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE DESPOJO DE COSA INMUEBLE".]
+
+Único. Este decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 19 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 494/2017 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE FEMINICIDIO”.]
+
+Artículo único. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial.
