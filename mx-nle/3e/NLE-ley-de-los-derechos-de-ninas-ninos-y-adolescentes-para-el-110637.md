@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-11063
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-27"
-last_updated: "2017-06-12"
+last_updated: "2017-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 27 de noviembre de 2015.
 
@@ -2373,11 +2373,101 @@ XXI. Las demás que le otorguen otras disposiciones aplicables.
 
 El Municipio deberá contar con una Defensoría Municipal, la cual contará con un área de servidores públicos que fungirán como autoridad de primer contacto con niñas, niños o adolescentes y que serán el enlace con las instancias estatales y federales competentes.
 
-Para dar cumplimiento a lo señalado en el párrafo anterior, sin dejar de cumplir con la obligación de dicha estancia, se deberá tomar en cuenta las características socioeconómicas, capacidad financiera y de los requerimientos de la comunidad.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
 
 La Defensoría Municipal, coordinará a los servidores públicos municipales, cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos contenidos en la presente Ley, se deberá dar vista a la Procuraduría de Protección competente en los términos del Reglamento.
 
 Asimismo, deberá ejercer, sin perjuicio de otras que dispongan las leyes del Estado de Nuevo León, las atribuciones previstas en el artículo 136 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2017)</small>
+
+###### Artículo 168 Bis.
+
+El Titular de la Defensoría Municipal será designado por el Presidente del Sistema Municipal de Protección, y deberá cumplir con los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II. Contar con título y cédula profesional de Licenciado en Derecho o en Ciencias jurídicas;
+
+III. Contar con al menos tres años de experiencia en materia de protección y defensa de los derechos de niñas, niños y adolescentes, o en su caso, con conocimientos en la materia; y
+
+IV. No haber sido sentenciado por delito doloso o inhabilitado como servidor público;
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2017)</small>
+
+###### Artículo 168 Bis 1.
+
+El equipo técnico de la Defensoría Municipal será designado por su titular y se integrará al menos por:
+
+I. Un abogado;
+
+II. Un psicólogo;
+
+III. Un trabajador social;
+
+IV. Un médico, que podrá ser de otra área del municipio; y
+
+V. Personal técnico y operativo necesario para el cumplimiento de las atribuciones que le confiere esta ley. Dicho personal puede ser integrante de la misma Defensoría o de otras áreas de atención del Municipio.
+
+En la inteligencia de que deberán contar con título y cédula profesional para el ejercicio de su profesión debidamente registrado y experiencia en la materia, así como no encontrarse inhabilitado como servidor público o no haber sido sentenciado por delito doloso.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2017)</small>
+
+###### Artículo 168 Bis 2.
+
+Además de las mencionadas en los artículos 136 fracciones V, VI, VIII y XI, así como en el 168, la Defensoría Municipal ejercerá las siguientes atribuciones:
+
+I. Articular esfuerzos de las autoridades municipales para restituir los derechos vulnerados, que estén dentro de sus competencia (sic), según las leyes y reglamentos aplicables;
+
+II. Recibir quejas y denuncias por violaciones a los derechos contenidos en la presente Ley y demás disposiciones aplicables, así como canalizarlas de forma inmediata a la Procuraduría de Protección que corresponda, sin perjuicio de que ésta pueda recibirlas y atenderlas directamente, conforme a lo establecido en el Reglamento de esta Ley;
+
+III. Elaborar un diagnóstico para verificar la situación de violación de derechos de niñas, niños y adolescentes que hayan sido denunciados, así como una propuesta de plan de restitución de derechos, bajo el principio del interés superior de la niñez;
+
+IV. Solicitar a la Procuraduría de Protección la revisión de la medida a la que hace referencia el artículo 118 de la presente Ley, cuando del seguimiento de los casos se desprenda que existen elementos para modificarla;
+
+V. Establecer mecanismos de comunicación accesibles para que niñas, niños y adolescentes puedan tener contacto con las autoridades municipales y de reportar la violación de alguno de sus derechos sin la necesidad de la intervención de un adulto;
+
+VI. Girar citatorios, realizar pesquisas, ordenar las evaluaciones del equipo técnico, así como las gestiones necesarias para el cumplimiento de sus funciones;
+
+VII. Rendir informe de los casos que la Procuraduría de Protección le solicite seguimiento y atención municipal; y
+
+VIII. Las demás que le otorguen las leyes federales, estatales o reglamentos municipales aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2017)</small>
+
+###### Artículo 168 Bis 3.
+
+El Titular de la Defensoría Municipal podrá delegar sus atribuciones mediante acuerdo al abogado integrante del equipo técnico, sólo en caso de ausencia temporal, lo cual deberá ser informado mediante oficio al Secretario Ejecutivo del Sistema Municipal de Protección y a la Procuraduría de Protección.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2017)</small>
+
+###### Artículo 168 Bis 4.
+
+Cuando la Defensoría Municipal reciba una queja o denuncia por violación de derechos establecidos en la presente Ley, se seguirá el siguiente procedimiento:
+
+I. Dictar acuerdo de inicio de investigación y la asignación de un equipo técnico;
+
+II. Acudir al domicilio o lugar donde se encuentren las niñas, niños y adolescentes cuando exista información sobre posible vulneración de sus derechos y de ser necesario se solicitará a las autoridades municipales o estatales su colaboración a fin de iniciar el proceso de intervención;
+
+III. Realizar las evaluaciones correspondientes a través del equipo técnico;
+
+IV. Tomar en cuenta la opinión de la niña, niño o adolescentes, de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez;
+
+V. Elaborar un diagnóstico de cada caso sobre la situación y realizar la propuesta del plan de restitución de derechos, atendiendo siempre al interés superior del niño;
+
+VI. Acordar y coordinar con las instituciones municipales, estatales y federales que corresponda, el cumplimiento del plan de restitución de derechos. Así como gestionar ante las demás instancias su colaboración para el cumplimiento del mismo;
+
+VII. Notificar a las personas involucradas el resultado de las evaluaciones;
+
+VIII. Canalizar a la Procuraduría de Protección los casos que durante un procedimiento se determine que existen violaciones a sus derechos y que para su debida restitución, se rebase el ámbito de la competencia de la autoridad municipal o aquellos en los que amerite la aplicación de una medida urgente de protección especial en términos de la presente Ley; y
+
+IX. Emitir un informe mensual sobre la restitución de derechos a la Procuraduría de Protección.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2017)</small>
+
+###### Artículo 168 Bis 5.
+
+Se exceptúa de la obligación de agotar el procedimiento a que se refiere el artículo anterior, en los casos en que las autoridades municipales, en el ejercicio de sus funciones adviertan que existe un riesgo inminente contra la vida, la integridad o la libertad de niñas, niños y adolescentes, en cuyo caso deberán canalizarse de forma inmediata a la Procuraduría de Protección para que ésta dicte la medida urgente de protección especial que corresponda y notificarla a la Defensoría Municipal para su conocimiento y futuro seguimiento.
 
 ###### Artículo 169.
 
@@ -2548,3 +2638,17 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Dentro de un plazo de ciento veinte días naturales a partir de la entrada en vigor del presente Decreto, los Municipios y el Estado, deberán homologar sus reglamentos en la materia conforme al presente Decreto.
 
 Tercero.- En caso de que por disposición del Instituto Federal de Telecomunicaciones, el número 075 tenga que migrar al número 911 como un número único ya armonizado a nivel nacional para la prestación de servicios de emergencia, se tome en consideración que preste los mismos servicios por el que fue aprobado el presente Decreto.
+
+P.O. 19 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 267. SE REFORMA POR ADICIÓN LOS ARTÍCULOS 168 BIS, 168 BIS 1, 168 BIS 2, 168 BIS 3, 168 BIS 4 Y 168 BIS 5 Y POR DEROGACIÓN DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 168 RECORRIÉNDOSE EL TERCERO A SER PÁRRAFO SEGUNDO, Y EL CUARTO A SER PÁRRAFO TERCERO, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo. El Ejecutivo del Estado, tendrá un plazo de 60 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones al Reglamento de la Ley.
+
+Tercero. Los Municipios del Estado tendrán un plazo de 60 días a partir de la entrada en vigor del presente Decreto para realizar las modificaciones a sus ordenamientos para dar cumplimiento a los mismos.
+
+Cuarto. En un plazo a 30 días a partir de la entrada en vigor de este Decreto se conformaran los órganos establecidos en el mismo y asumirá plenamente sus atribuciones.
+
+Quinto. Se Derogan todas las disposiciones legales que se opongan a las contenidas en el presente Decreto.
