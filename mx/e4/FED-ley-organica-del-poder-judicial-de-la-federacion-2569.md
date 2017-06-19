@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2016-11-03"
+last_updated: "2017-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "LOPJF"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO CUARTO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; DEL CÓDIGO PENAL FEDERAL; DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; DE LA LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL; DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY DE INSTITUCIONES DE CRÉDITO”, PUBLICADO EN LA EDICIÓN VESPERTINA DEL D.O.F. 17 DE JUNIO DE 2016, SE SEÑALA QUE “LAS DISPOSICIONES DEL PRESENTE DECRETO RELATIVAS A LA EJECUCIÓN PENAL, ENTRARÁN EN VIGOR UNA VEZ QUE ENTRE EN VIGOR LA LEGISLACIÓN EN LA MATERIA PREVISTA EN EL ARTÍCULO 73, FRACCIÓN XXI, INCISO C) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.”]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2017.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -3964,7 +3964,9 @@ D.O.F. 23 DE MAYO DE 2014.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO. Las dos Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación que se crean con motivo de la reforma a la Ley Orgánica del Poder Judicial de la Federación, deberán iniciar actividades en el mes de septiembre de 2017.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+SEGUNDO. La Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, a propuesta de la Sala Superior, determinará, ponderando la viabilidad presupuestal, el inicio de las funciones de las Salas Regionales que se crean con motivo de la reforma a la Ley Orgánica del Poder Judicial de la Federación. Los recursos asignados para tal fin en el ejercicio fiscal 2017 deberán ser reintegrados en su totalidad a la Tesorería de la Federación.
 
 La Sala Regional Especializada, deberá entrar en funcionamiento conforme a lo siguiente:
 
@@ -4013,3 +4015,9 @@ Primero. El presente Decreto entrará en vigor el mismo día de su publicación 
 Segundo. A la entrada en vigor del presente Decreto, la Cámara de Senadores realizará, durante la presente Legislatura, las acciones necesarias para dar cumplimiento al mismo en relación con los dos magistrados de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, electos el 20 de octubre de 2016 y cuyo mandato concluirá el 31 de octubre de 2019 y de los dos magistrados de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, electos en esa misma fecha y cuyo mandato concluirá el 31 de octubre de 2022. Las acciones deberán de incluir la correspondiente toma de protesta para el desempeño del cargo con su nueva duración.
 
 El Senado de la República emitirá una declaración para la aplicación del presente Decreto una vez publicado.
+
+D.O.F. 19 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL ARTÍCULO TERCERO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES; Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y DE LA LEY FEDERAL DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS, PUBLICADO EL VEINTITRÉS DE MAYO DE DOS MIL CATORCE”.]
+
+Único.- El presente Decreto entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.
