@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2017-06-12"
+last_updated: "2017-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -767,9 +767,9 @@ Los abogados extranjeros no podrán cobrar costas sino cuando estén autorizados
 
 En toda sentencia definitiva o interlocutoria dictada en asuntos de carácter contencioso, se hará forzosamente condenación en costas, determinando cuál de las partes debe pagar a la parte contraria las costas que se le hayan causado en el juicio.
 
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
-En caso de que las partes hubieren llegado a un convenio como resultado de la mediación, de la conciliación o de cualquier otro arreglo con apoyo de métodos alternos de solución de conflictos, no habrá condena en costas, debiendo soportar cada parte las que hubiere erogado, salvo acuerdo en contrario.
+En caso de que las partes hubieren llegado a un convenio como resultado de la mediación, de la conciliación o de cualquier otro arreglo con apoyo de los mecanismos alternativos para la solución de controversias, no habrá condena en costas, debiendo soportar cada parte las que hubiere erogado, salvo acuerdo en contrario.
 
 ###### Artículo 91.
 
@@ -2023,9 +2023,9 @@ En consecuencia, deben, sin demora, exhibir documentos y cosas que tengan en su 
 
 Los tribunales tienen la facultad y el deber de compeler a terceros, con los apremios más eficaces, para que cumplan con esta obligación; y en caso de oposición, oirán las razones en que la funden y resolverán sin ulterior recurso.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
-De la mencionada obligación están exentos los ascendientes, descendientes, cónyuge, prestadores de servicios de métodos alternos de solución de conflictos que hubieren conocido del asunto y personas que deban guardar secreto profesional, en los casos en que se trate de probar contra la parte con la que están relacionados.
+De la mencionada obligación están exentos los ascendientes, descendientes, cónyuge, facilitadores de los mecanismos alternativos para la solución de controversias, que hubieren conocido del asunto y personas que deban guardar secreto profesional, en los casos en que se trate de probar contra la parte con la que están relacionados.
 
 ###### Artículo 228.
 
@@ -2733,9 +2733,9 @@ XIII.- El sordomudo, a no ser que sepa leer y escribir, pues entonces podrá dar
 
 XIV.- El tahúr de profesión; y
 
-> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
 
-XV.- El prestador de servicios de métodos alternos de solución de conflictos que hubiere conocido o resuelto algún conflicto relacionado con el asunto materia del juicio.
+XV.- El facilitador de los mecanismos alternativos para la solución de controversias, que hubiere conocido o resuelto algún conflicto relacionado con el asunto materia del juicio.
 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
 
@@ -3563,19 +3563,19 @@ Debe ejecutar las sentencias el juzgado que haya conocido del negocio en primera
 
 La Sala que haya pronunciado la sentencia, devolverá los autos al inferior, dentro de los tres días siguientes a la notificación, acompañándole testimonio, de la sentencia y de las notificaciones. Dicho testimonio se llamará ejecutoria debiendo hacerse constar ese carácter en el mismo, tomándose nota de su expedición en los autos.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
 ###### Artículo 461.
 
-Todo lo que en este título se dispone respecto de la ejecución de sentencias, comprende los laudos arbitrales, los convenios y las transacciones extrajudiciales que sean resultado de métodos alternos de solución de conflictos, reconocidas judicialmente en autos, los convenios celebrados en juicio y las transacciones que consten en escritura pública, que por su naturaleza traigan aparejada ejecución.
+Todo lo que en este título se dispone respecto de la ejecución de sentencias, comprende los laudos arbitrales, los convenios y las transacciones extrajudiciales que sean resultado de los mecanismos alternativos para la solución de controversias, reconocidas judicialmente en autos, los convenios celebrados en juicio y las transacciones que consten en escritura pública, que por su naturaleza traigan aparejada ejecución.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
 
-Artículo 461 BIS.- Para que sean elevados a la categoría de cosa juzgada o, en su caso, de sentencia ejecutoriada, los convenios o laudos resultantes de los mecanismos alternativos para la solución de controversias, realizados antes del inicio de un procedimiento jurisdiccional, salvo los convenios que se vinculen al divorcio o a sus consecuencias jurídicas que en él se hubieren declarado, deberán atenderse las siguientes reglas:
+Artículo 461 BIS.- Para que sean elevados a la categoría de cosa juzgada o, en su caso, de sentencia ejecutoriada, los convenios o laudos resultantes de los mecanismos alternativos para la solución de controversias, realizados antes del inicio de un procedimiento jurisdiccional para la solución de controversia, deberán atenderse las siguientes reglas:
 
-> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
 
-I. Las partes conjunta o separadamente, presentarán el convenio o laudo resultante, con el fin de que se constate que se haya observado lo dispuesto en el presente Código, la ley que regule los métodos alternos de solución de conflictos y demás disposiciones aplicables;
+I. Las partes conjunta o separadamente, presentarán el convenio o laudo resultante, con el fin de que se constate que se haya observado lo dispuesto en el presente Código, la ley que regule los mecanismos alternativos para la solución de controversias, y demás disposiciones aplicables;
 
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
 
@@ -3585,9 +3585,9 @@ II. Si fue una sola de las partes la que solicitó el reconocimiento, deberá no
 
 III. En caso de que el convenio cumpla los requisitos anteriormente señalados, el Juez lo elevará a la categoría de cosa juzgada o, en su caso, de sentencia ejecutoriada;
 
-> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
 
-IV. Si el convenio o el laudo fuere oscuro, irregular o incompleto, el juez señalará en concreto sus defectos y prevendrá tanto a las partes como al prestador del servicio de métodos alternos, para que dentro de un plazo máximo de treinta días, la aclaren, corrijan o completen; hecho lo cual le dará curso, y en caso contrario, denegará su trámite.
+IV. Si el convenio o el laudo fuere oscuro, irregular o incompleto, el juez señalará en concreto sus defectos y prevendrá tanto a las partes como al facilitador de los mecanismos alternativos, para que dentro de un plazo máximo de treinta días, la aclaren, corrijan o completen; hecho lo cual le dará curso, y en caso contrario, denegará su trámite.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -3613,11 +3613,11 @@ Si en el contrato se ha fijado el precio en que una finca hipotecada debe ser ad
 
 Si los bienes embargados fueren dinero, sueldos, pensiones o créditos realizables en el acto como efectos de comercio o acciones de compañías que se coticen en la bolsa, se hará el pago al acreedor inmediatamente después del embargo. Los efectos de comercio y acciones, bonos o títulos de pronta realización, se mandarán vender por conducto de corredor aunque no tenga título, a costa del obligado.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
 ###### Artículo 466.
 
-Cuando se pida la ejecución de una sentencia, laudo, convenio judicial o extrajudicial resultado de los métodos alternos de solución de conflictos o transacción judicial, si no hay bienes embargados, se procederá al embargo, observándose, en lo conducente, las disposiciones del juicio ejecutivo.
+Cuando se pida la ejecución de una sentencia, laudo, convenio judicial o extrajudicial resultado de los mecanismos alternativos, o transacción judicial, si no hay bienes embargados, se procederá al embargo, observándose, en lo conducente, las disposiciones del juicio ejecutivo.
 
 ###### Artículo 467.
 
@@ -3675,21 +3675,21 @@ III.- Si el hecho consiste en el otorgamiento de algún instrumento o la celebra
 
 Si la sentencia condena a no hacer, su infracción se resolverá en el pago de los daños y perjuicios.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
 ###### Artículo 477.
 
-Contra las resoluciones dictadas en ejecución de una sentencia, laudo, convenio judicial o extrajudicial resultado de métodos alternos de solución de conflictos, o transacción judicial, no se admitirá recurso alguno.
+Contra las resoluciones dictadas en ejecución de una sentencia, laudo, convenio judicial o extrajudicial resultado de los mecanismos alternativos para la solución de controversias, o transacción judicial, no se admitirá recurso alguno.
 
 ###### Artículo 478.
 
 Todos los gastos y costas que se originen, en la ejecución de una sentencia, serán a cargo del que fue condenado a ella.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
 ###### Artículo 479.
 
-La acción para pedir la ejecución de una sentencia, laudo, convenio judicial o extrajudicial resultado de métodos alternos de solución de conflictos, o transacción judicial, prescribirá a los diez años, contados desde el día en que se venció el término judicial para el cumplimiento voluntario de lo juzgado y sentenciado.
+La acción para pedir la ejecución de una sentencia, laudo, convenio judicial o extrajudicial resultado de los mecanismos alternativos para la solución de controversias, o transacción judicial, prescribirá a los diez años, contados desde el día en que se venció el término judicial para el cumplimiento voluntario de lo juzgado y sentenciado.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -7069,17 +7069,25 @@ DEL ARBITRAJE.
 
 DISPOSICIONES GENERALES.
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
 
 ###### Artículo 958.
 
-Las partes tienen el derecho de sujetar sus diferencias al arbitraje en todas sus modalidades, considerándose entre éstas el arbitraje de estricto derecho, en conciencia o técnico. Asimismo podrán utilizar otros medios alternos tales como la amigable composición o mediación y la conciliación.
+Las partes tienen el derecho de sujetar sus diferencias al arbitraje en todas sus modalidades, considerándose entre éstas el arbitraje de estricto derecho, en conciencia o técnico. Asimismo (sic) podrán utilizar otros mecanismos alternativos para la solución de controversias tales como la mediación y la conciliación.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 El arbitraje de estricto derecho es aquél que para la decisión del negocio cuyo conocimiento se les ha sometido, tiene que sujetarse estrictamente a las prescripciones de la ley.
 
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
 El arbitraje en conciencia es aquél en el que se decide conforme a conciencia y a la equidad, sin sujetarse a las prescripciones y ritualidades de la ley.
 
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
 El arbitraje técnico tiene lugar cuando las partes convienen en someter a la decisión de expertos en una ciencia o arte, las controversias susceptibles de transacción que entre ellas se susciten.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 El arbitraje internacional quedará regulado por los tratados internacionales de que México sea parte, así como lo establecido en las leyes federales y por este Código en lo que corresponda.
 
@@ -7399,15 +7407,21 @@ Los efectos de los laudos arbitrales y resoluciones jurisdiccionales extranjeras
 
 Para la ejecución y cumplimiento de los laudos arbitrales se estará a lo dispuesto por los artículos 459 y siguientes de este Código.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
 
 ###### Artículo 987.
 
-Las controversias susceptibles de transacción o convenio que surjan entre personas capaces, podrán ser sometidas a métodos alternos de solución de conflictos.
+Las controversias susceptibles de transacción o convenio que surjan entre personas capaces, podrán ser sometidas a los mecanismos alternativos para la solución de controversias.
 
-La iniciativa para recurrir a los métodos alternos de solución de conflictos, podrá provenir de ambas partes o de una de ellas, antes o durante el procedimiento de arbitraje.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
-Los derechos y obligaciones pecuniarios de los menores o incapaces, por conducto de quienes ejerzan la patria potestad o tutela, podrán someterse a los métodos alternos de solución de conflictos salvo en los casos de arbitraje, en los que deberá obtenerse la aprobación del juez; sin embargo, el convenio resultante deberá someterse a autorización judicial con intervención del Ministerio Público.
+La iniciativa para recurrir a los mecanismos alternativos para la solución de controversias, podrá provenir de ambas partes o de una de ellas, antes o durante el procedimiento de arbitraje.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
+
+Los derechos y obligaciones pecuniarios de los menores o incapaces, por conducto de quienes ejerzan la patria potestad o tutela, podrán someterse a los mecanismos alternativos para la solución de controversias, salvo en los casos de arbitraje, en los que deberá obtenerse la aprobación del juez; sin embargo, el convenio resultante deberá someterse a autorización judicial con intervención del Ministerio Público.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
 
 Tratándose de extranjeros, se estará a lo dispuesto en las leyes aplicables.
 
@@ -7485,11 +7499,11 @@ Salvo lo dispuesto en este Libro, las promociones de las partes deberán formula
 
 El Juez proveerá, en el momento y oralmente, toda cuestión que le sea planteada durante el desarrollo de las audiencias, con excepción de lo dispuesto en este libro.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
 ###### Artículo 993.
 
-Las partes no podrán invocar, leer, ni incorporar como prueba al procedimiento oral, antecedente alguno relacionado con la proposición, discusión, aceptación o rechazo, procedencia, o revocación de un método alterno hecho valer.
+Las partes no podrán invocar, leer, ni incorporar como prueba al procedimiento oral, antecedente alguno relacionado con la proposición, discusión, aceptación o rechazo, procedencia, o revocación de un mecanismo alternativo hecho valer.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -7703,11 +7717,11 @@ AUDIENCIAS.
 
 Las audiencias serán presididas por el Juez bajo pena de nulidad; serán públicas, salvo las excepciones previstas en este Código y en la Ley de Acceso a la Información Pública del Estado; y se desarrollarán oralmente en lo relativo a toda intervención de quienes participen en ellas.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1022.
 
-Es obligación de las partes asistir a las audiencias del procedimiento, por sí o a través de sus legítimos representantes, que gocen de las facultades a que se refiere el artículo 78 de este Código, además de contar con facultades para someter el conflicto a un método alterno, conciliar ante el Juez, y suscribir, en su caso, el convenio correspondiente.
+Es obligación de las partes asistir a las audiencias del procedimiento, por sí o a través de sus legítimos representantes, que gocen de las facultades a que se refiere el artículo 78 de este Código, además de contar con facultades para someter la controversia a un mecanismo alternativo, conciliar ante el Juez, y suscribir, en su caso, el convenio correspondiente.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -7929,15 +7943,13 @@ La Audiencia Preliminar podrá suspenderse o diferirse cuando el Juez lo estime 
 
 Al inicio de la Audiencia Preliminar, una vez que el secretario del juzgado lleve a cabo lo referido en el artículo 1029 de este Código, expondrá un breve resumen de la demanda, reconvención y contestación a éstas.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1052.
 
-Si asisten las partes, el Juez les propondrá someterse a un método alterno, y si están de acuerdo con esta vía, se procederá conforme a la Ley de Métodos Alternos para la Solución de Conflictos del Estado.
+Si asisten las partes, el Juez les propondrá someterse a un mecanismo alternativo, y si están de acuerdo con esta vía, se procederá conforme a la Ley de Mecanismos Alternativos para la Solución de Controversias para el Estado de Nuevo León.
 
-No acordando las partes someter el conflicto a un método alterno, el Juez procurará la conciliación, haciéndoles saber las conveniencias de llegar a un convenio, y proponiéndoles soluciones a todos o algunos de los puntos controvertidos.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+No acordando las partes someter la controversia a un mecanismo alternativo, el Juez procurará la conciliación, haciéndoles saber las conveniencias de llegar a un convenio, y proponiéndoles soluciones a todos o algunos de los puntos controvertidos.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -7945,13 +7957,17 @@ No acordando las partes someter el conflicto a un método alterno, el Juez procu
 
 Las partes pueden solicitar al Juez tenga por acreditados ciertos hechos; dichos acuerdos probatorios no podrán ser discutidos posteriormente.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1054.
 
-Si las partes no llegan a un convenio que establezca la solución total del conflicto, ya sea a través de un método alterno o de conciliación ante el Juez, procederá de oficio a la calificación de las pruebas relativas a las excepciones procesales opuestas.
+Si las partes no llegan a un convenio que establezca la solución total de la controversia, ya sea a través de los mecanismos alternativos para la solución de controversias o de conciliación ante el Juez, procederá de oficio a la calificación de las pruebas relativas a las excepciones procesales opuestas.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 En caso de que las pruebas no requieran diligencia especial, se escucharán los alegatos, primero del actor y posteriormente del demandado. Enseguida, el Juez dictará la sentencia interlocutoria en el acto si fuera posible; en caso contrario, citará a las partes para dictarla dentro del término de 3 días.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 De ofrecerse la pericial, se mandará preparar y desahogar en los términos del Capítulo IV, del Título Segundo, de este libro del presente Código, y se fijará la fecha para la reanudación de la Audiencia Preliminar.
 
@@ -9840,3 +9856,11 @@ P.O. 12 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 264. SE REFORMA EL ARTÍCULO 190 BIS I DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 266. SE REFORMAN LOS ARTÍCULOS 90 SEGUNDO PÁRRAFO, 227 TERCER PÁRRAFO, 325 FRACCIONES XV, 461, 461 BIS FRACCIÓN I, IV, 466, 477, 479, 958 PRIMER PÁRRAFO, 987 PRIMER, SEGUNDO Y TERCER PÁRRAFO, 993, 1022, 1048, 1052 Y 1054 PRIMER PÁRRAFO TODOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor una vez concluido el proceso legislativo concerniente a la reforma a la Ley Orgánica del Poder Judicial del Estado de Nuevo León, en materia de Mecanismos Alternativos de Solución de Controversias.
+
+Segundo.- Los procedimientos cuya tramitación se hubiera iniciado antes de la entrada en vigor de este decreto, proseguirán la misma conforme a la normativa vigente con anterioridad a dicho inicio de vigencia.
