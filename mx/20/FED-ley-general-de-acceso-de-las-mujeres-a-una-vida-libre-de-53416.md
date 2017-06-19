@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-53416"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-02-01"
-last_updated: "2015-12-17"
+last_updated: "2017-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-01-31"
 
 LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de febrero de 2007.
 
@@ -927,7 +927,9 @@ VIII. Impulsar programas locales para el adelanto y desarrollo de las mujeres y 
 
 IX. Proveer de los recursos presupuestarios, humanos y materiales, en coordinación con las autoridades que integran los sistemas locales, a los programas estatales y el Programa;
 
-X. Impulsar la creación de refugios para las víctimas conforme al modelo de atención diseñado por el Sistema;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+X. Impulsar y apoyar la creación, operación o fortalecimiento de los refugios para las víctimas conforme al modelo de atención diseñado por el Sistema;
 
 XI. Promover programas de información a la población en la materia;
 
@@ -997,7 +999,9 @@ V. Apoyar la creación de programas de reeducación integral para los agresores;
 
 VI. Promover programas educativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia contra las mujeres;
 
-VII. Apoyar la creación de refugios seguros para las víctimas;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+VII. Apoyar la creación, operación o el fortalecimiento de refugios para las víctimas, sus hijas e hijos de acuerdo con las condiciones establecidas en el Capítulo V de la presente Ley;
 
 VIII. Participar y coadyuvar en la prevención, atención y erradicación de la violencia contra las mujeres;
 
@@ -1262,3 +1266,9 @@ OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educaci�
 NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
 
 DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 19 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
