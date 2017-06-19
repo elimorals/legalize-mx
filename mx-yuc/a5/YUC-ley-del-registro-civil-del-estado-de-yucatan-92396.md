@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-registro-civil-del-estado-de-yucatan-92396"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-19"
-last_updated: "2016-12-28"
+last_updated: "2017-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE JUNIO DE 2017.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 19 de febrero de 2013.
 
@@ -33,7 +33,9 @@ CIUDADANO ROLANDO RODRIGO ZAPATA BELLO, GOBERNADOR DEL ESTADO DE YUCATÁN, CON F
 
 "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO Y 3 FRACCIÓN IV DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO DE YUCATÁN, EMITE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
 
-EXPOSICIÓN DE MOTIVOS: ...
+EXPOSICIÓN DE MOTIVOS:
+
+[...]
 
 En tal virtud, con fundamento en los artículos 30 fracción V de la Constitución Política, 18 y 43 fracción I de la Ley de Gobierno del Poder Legislativo y 71 fracción II del Reglamento de la Ley de Gobierno del Poder Legislativo, todos los ordenamientos del Estado de Yucatán, sometemos a consideración del Pleno del Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -1089,6 +1091,10 @@ Los oficiales están obligados a expedir las copias certificadas de las actas y 
 
 Las certificaciones a que se refiere este artículo, podrán ser elaboradas y suscritas mediante firma electrónica acreditada.
 
+> <small>(ADICIONADO, D.O. 19 DE JUNIO DE 2017)</small>
+
+En la ley hacendaria se preverá que el costo por el derecho de expedición de las copias certificadas de las actas de nacimiento durante el mes de enero de cada año sea inferior en relación con los demás meses para contribuir a la tramitación de la preinscripción en los diferentes niveles educativos. El titular del Poder Ejecutivo del estado, mediante decreto, podrá reducir el costo de las copias certificadas de las actas de nacimiento que expide la Dirección, a través de programas sociales.
+
 La depuración de la documentación, relativa a la expedición de las copias certificadas de los apéndices, se sujetará al procedimiento establecido en el Reglamento.
 
 Certificaciones solicitadas por autoridades
@@ -1096,6 +1102,10 @@ Certificaciones solicitadas por autoridades
 ###### Artículo 114.
 
 El Director y los oficiales deberán expedir y enviar oportunamente, las certificaciones que les sean solicitadas por las autoridades en el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, D.O. 19 DE JUNIO DE 2017)</small>
+
+Las autoridades estatales no podrán fijar vigencia o exigir versiones actualizadas de las copias certificadas de las actas del Registro Civil, salvo que sean ilegibles.
 
 Expedición de certificación negativa
 
@@ -1536,3 +1546,11 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 19 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 492/2017 POR EL QUE SE MODIFICAN LA LEY DE (SIC) REGISTRO CIVIL DEL ESTADO DE YUCATÁN Y LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, EN MATERIA DE RECONOCIMIENTO DE LOS DERECHOS A LA IDENTIDAD".]
+
+Único. Entrada en Vigor
+
+Estas disposiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
