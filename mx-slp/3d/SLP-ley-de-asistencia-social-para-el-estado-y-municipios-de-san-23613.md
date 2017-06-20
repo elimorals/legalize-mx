@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asistencia-social-para-el-estado-y-municipios-de-san-236
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-19"
-last_updated: "2017-03-16"
+last_updated: "2017-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 20 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2017 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de enero de 2002.
 
@@ -1629,7 +1631,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 16 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0587.- SE REFORMA EL ARTÍCULO 93 DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ; LOS ARTÍCULOS, 32, 72, 72 BIS, Y 73 Y ADICIONA AL ARTÍCULO 73 LA FRACCIÓN IV, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; ASÍ MISMO SE REFORMA Y ADICIONA EL ARTÍCULO 678 DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0587.- SE REFORMA EL ARTÍCULO 93 DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ; LOS ARTÍCULOS, 32, 72, 72 BIS, Y 73 Y ADICIONA AL ARTÍCULO 73 LA FRACCIÓN IV, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; ASÍ MISMO SE REFORMA Y ADICIONA EL ARTÍCULO 678 DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis Potosí".
 
@@ -1642,3 +1644,25 @@ Para el ejercicio fiscal 2019, éstas deberán contar con un veinte por ciento d
 Para el ejercicio fiscal 2020, éstas deberán contar con un treinta por ciento del total de sus recursos, que tenga como origen una fuente legal diversa al financiamiento otorgado con cargo al Presupuesto de Egresos del Estado.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0661.- LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. La Ley que se expide en este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley de Asistencia Social para el Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 19 de enero del 2002; así mismo, se derogan todas las disposiciones de igual y menor rango que se le opongan.
+
+TERCERO. El Ejecutivo del Estado deberá expedir la normatividad reglamentaria que deriva de la presente Ley, dentro de los ciento ochenta días siguientes a su entrada en vigor.
+
+CUARTO. Las instituciones públicas y privadas ya establecidas, deberán dar cumplimiento a lo dispuesto en el Título Quinto de esta Ley, dentro de los ciento ochenta días siguientes a su entrada en vigor.
+
+QUINTO. De conformidad con el artículo 67 fracción XVIII de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí, para que las instituciones privadas cuenten con cuando menos el treinta por ciento del total de sus recursos, éste sea de origen en fuentes de financiamiento distinto a las otorgados con cargo al Presupuesto de Egresos del Estado, se procederá conforme a lo siguiente:
+
+Para el ejercicio fiscal 2018, éstas deberán contar con un diez por ciento del total de sus recursos, que tenga como origen una fuente legal diversa al financiamiento otorgado con cargo al Presupuesto de Egresos del Estado.
+
+Para el ejercicio fiscal 2019, éstas deberán contar con un veinte por ciento del total de sus recursos, que tenga como origen una fuente legal diversa al financiamiento otorgado con cargo al Presupuesto de Egresos del Estado.
+
+Para el ejercicio fiscal 2020, éstas deberán contar con un treinta por ciento del total de sus recursos, que tenga como origen una fuente legal diversa al financiamiento otorgado con cargo al Presupuesto de Egresos del Estado.
+
+SEXTO. Una vez instalado el Consejo Estatal de Asistencia Social, el titular de la Secretaría Ejecutiva, dentro de los treinta días naturales siguientes, someterá a la consideración de la Junta Directiva, el Reglamento respectivo para su operación.
