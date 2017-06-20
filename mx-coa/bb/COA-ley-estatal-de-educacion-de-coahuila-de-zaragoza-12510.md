@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2017-05-09"
+last_updated: "2017-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -51,9 +51,9 @@ La presente ley tiene por objeto regular la educación que imparten el Estado, l
 
 La educación es un proceso intencionado de enseñanza-aprendizaje destinado a proporcionar a los habitantes del estado los conocimientos, habilidades, destrezas, actitudes y valores necesarios que contribuyan al desarrollo del país, a la recreación de la cultura y a la transformación de la sociedad.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2017)</small>
 
-Toda persona tendrá derecho a recibir educación de calidad. Los habitantes del Estado de Coahuila de Zaragoza tendrán las mismas oportunidades de acceso, permanencia y conclusión en el sistema educativo estatal, con el único requisito de satisfacer las disposiciones generales aplicables.
+Toda persona tendrá derecho a recibir educación de calidad en condiciones de equidad. Los habitantes del Estado de Coahuila de Zaragoza tendrán las mismas oportunidades de acceso, tránsito, permanencia y conclusión en el sistema educativo estatal, con el único requisito de satisfacer las disposiciones generales aplicables.
 
 > <small>(REFORMADO, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -488,6 +488,10 @@ Dicho programa deberá incluir cursos, talleres, seminarios, impartidos por espe
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
 
 Además fortalecerán la enseñanza de los padres de familia respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros;
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2017)</small>
+
+En todas las acciones para la prevención, atención y solución del acoso escolar deberá privilegiarse como principio rector el interés superior de la niñez.
 
 > <small>(ADICIONADA, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -1824,3 +1828,17 @@ P.O. 9 DE MAYO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 853.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 26 DE LA LEY ESTATAL DE EDUCACIÓN Y SE REFORMA EL ARTÍCULO 1, Y LA FRACCIÓN VIII DEL ARTÍCULO 3 DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 855.- SE MODIFICA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 2 DE LA LEY ESTATAL DE EDUCACIÓN DE COAHUILA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
