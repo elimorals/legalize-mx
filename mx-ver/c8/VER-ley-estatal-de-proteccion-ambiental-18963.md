@@ -4,7 +4,7 @@ identifier: "VER-ley-estatal-de-proteccion-ambiental-18963"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-30"
-last_updated: "2017-03-15"
+last_updated: "2017-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 62 ESTATAL DE PROTECCIÓN AMBIENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE JUNIO DE 2017.
 
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de junio de 2000.
 
@@ -845,7 +845,9 @@ I.- Las disposiciones que establece la presente Ley en materia de conservación,
 
 II.- El ordenamiento ecológico general y local
 
-III.- El cuidado de la proporción que debe existir entre las áreas verdes y las edificaciones destinadas a la habitación, los servicios y en general otras actividades.
+> <small>(REFORMADA, G.O. 20 DE JUNIO DE 2017)</small>
+
+III.- El cuidado de la proporción que debe existir entre las áreas verdes y las edificaciones destinadas a la habitación, los servicios y en general otras actividades; para ello, los municipios en coordinación con el Estado, garantizarán, con base en sus respectivas condiciones geográficas, la existencia de una proporción de área verde que no podrá ser menor a cinco metros cuadrados por cada uno de sus habitantes;
 
 IV.- La integración de inmuebles de alto valor histórico y cultural, con áreas verdes y zonas de convivencia social.
 
@@ -3258,3 +3260,11 @@ G.O. 15 DE MARZO DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 288 POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 37 DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
