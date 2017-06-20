@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-prevencion-atencion-y-control-del-acoso-escolar-110
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2015-11-13"
+last_updated: "2017-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado Coahuila, el viernes 13 de noviembre de 2015.
 
@@ -43,9 +43,11 @@ LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2017)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto prevenir y erradicar el acoso escolar en las instituciones educativas públicas y privadas del Estado, sobre la base de que un ambiente libre de violencia es fundamental para respetar los derechos humanos, consolidar la democracia y garantizar los principios de equidad y no discriminación, la dignidad humana y la paz entre los educandos.
+La presente Ley es de orden público e interés social y tiene por objeto prevenir y erradicar el acoso escolar en las instituciones educativas públicas y privadas del Estado, sobre la base de que un ambiente libre de violencia es fundamental para respetar los derechos humanos, consolidar la democracia y garantizar los principios de equidad y no discriminación, la dignidad humana, la paz entre los educandos y el interés superior de la niñez.
 
 ###### Artículo 2.
 
@@ -69,7 +71,9 @@ VI. Promover la participación social en la instrumentación de políticas para 
 
 VII. Crear el Registro Estatal para el Control del Acoso Escolar; y
 
-VIII. Propiciar, en el ambiente escolar, el desarrollo de una cultura de protección y de ejercicio de los derechos humanos y, de manera particular, los principios de equidad y no discriminación, la dignidad humana y la paz.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2017)</small>
+
+VIII. Propiciar, en el ambiente escolar, el desarrollo de una cultura de protección y de ejercicio de los derechos humanos y, de manera particular, los principios de equidad y no discriminación, interés superior de la niñez, la dignidad humana y la paz.
 
 ###### Artículo 4.
 
@@ -532,3 +536,13 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 HOMERO RAMOS GLORIA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 853.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 26 DE LA LEY ESTATAL DE EDUCACIÓN Y SE REFORMA EL ARTÍCULO 1, Y LA FRACCIÓN VIII DEL ARTÍCULO 3 DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
