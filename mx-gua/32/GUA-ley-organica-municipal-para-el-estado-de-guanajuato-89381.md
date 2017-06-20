@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2016-12-16"
+last_updated: "2017-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY ORGANICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2017.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -355,7 +357,7 @@ Fusión, división o cambio de categorías políticas
 
 ###### Artículo 24.
 
-Los ayuntamientos podrán establecer la fusión, división o cambio de las categorías políticas, de conformidad con el Programa Municipal de Desarrollo Urbano y de Ordenamiento Ecológico Territorial.Para (sic) tal efecto, se requerirá el acuerdo aprobado por mayoría calificada de los miembros del Ayuntamiento.
+Los ayuntamientos podrán establecer la fusión, división o cambio de las categorías políticas, de conformidad con el Programa Municipal de Desarrollo Urbano y de Ordenamiento Ecológico Territorial. Para tal efecto, se requerirá el acuerdo aprobado por mayoría calificada de los miembros del Ayuntamiento.
 
 ## Título Cuarto
 
@@ -1467,6 +1469,10 @@ Programa Municipal de Desarrollo Urbano y de Ordenamiento Ecológico Territorial
 
 El Programa Municipal de Desarrollo Urbano y de Ordenamiento Ecológico Territorial contendrá los objetivos y estrategias de uso y ocupación del suelo, así como la estrategia general de usos, reservas, destinos y provisiones de conformidad con la Ley de la materia. La propuesta del Programa Municipal de Desarrollo Urbano y de Ordenamiento Ecológico Territorial será elaborada por el organismo municipal de planeación.
 
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2017)</small>
+
+En el Programa Municipal de Desarrollo Urbano y de Ordenamiento Ecológico Territorial se deberá establecer la prohibición para el uso de suelo y permiso de edificación para casinos, centros de apuestas, salas de sorteos, casa de juego y similares, así como para el establecimiento de centros que presenten espectáculos con personas desnudas o semidesnudas.
+
 Contenido del Programa de Gobierno Municipal
 
 ###### Artículo 102.
@@ -2018,8 +2024,6 @@ I. El registro de sucesos notables acaecidos dentro de la circunscripción terri
 II. Investigar, rescatar, conservar, difundir y promover una cultura histórico-cultural entre la sociedad, dentro de su municipio y proyectarla en la Entidad y el país.
 
 El Cronista Municipal permanecerá indefinidamente en su cargo y sólo podrá ser removido por causa justificada a juicio del Ayuntamiento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 Percibirá la remuneración que se le fije conforme a la partida presupuestal que corresponda.
 
@@ -3618,5 +3622,11 @@ Artículo Único. El presente ARTÍCULO TERCERO del presente Decreto entrará en
 P.O. 16 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 119, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 212 FRACCIÓN III Y 232 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. La presente reforma entrará en vigor al día siguiente al de su publicación en el periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 20 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 193, EMITIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 101 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. La presente reforma entrará en vigor al día siguiente al de su publicación en el periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
