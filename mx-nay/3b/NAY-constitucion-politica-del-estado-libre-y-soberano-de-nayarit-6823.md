@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2017-06-15"
+last_updated: "2017-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -867,9 +867,9 @@ XIII. Elegir quien deba sustituir al Gobernador en sus faltas.
 
 XIV. Autorizar al Ejecutivo para gravar, enajenar y ceder los bienes del Estado, así como contraer obligaciones a nombre del mismo.
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2017)</small>
 
-XV. Declarar a pedimento del Fiscal General cuando ha lugar a formación de causa contra el Gobernador, los Magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, el Secretario General de Gobierno y los demás secretarios del despacho, tanto por delito de orden común, como por delitos o faltas oficiales, erigiéndose para el caso en Gran Jurado. Tratándose del Fiscal General del Estado, la petición deberá hacerla el Agente del Ministerio Público adscrito a la Fiscalía General.
+XV. Declarar a pedimento del Fiscal General cuando ha lugar a formación de causa contra los servidores públicos a los cuales esta Constitución otorga inmunidad procesal, erigiéndose para el caso en Gran Jurado.
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
@@ -2455,11 +2455,11 @@ Para esos efectos el Congreso del Estado se constituirá separadamente en Jurado
 
 Las declaraciones y Resoluciones del Congreso del Estado son inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2017)</small>
 
 ###### Art. 125.
 
-Para proceder penalmente contra los diputados al Congreso; los magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, los Jueces de Primera Instancia, el Presidente de la Comisión de Defensa de los Derechos Humanos del Estado, los Secretarios del Despacho y el Fiscal General, los Comisionados del organismo garante de la transparencia en el Estado, los Presidentes, Regidores y Síndicos de los ayuntamientos de la entidad; por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente en contra de los Magistrados de los Tribunales locales y los Jueces de Primera Instancia, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por mayoría absoluta de sus miembros presentes en sesión, si ha lugar o no a proceder contra el inculpado, de conformidad con lo previsto por esta Constitución y la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -2469,17 +2469,19 @@ Si la resolución del Congreso fuere negativa se suspenderá todo procedimiento 
 
 Si el Congreso declara que ha lugar a proceder, el sujeto quedará a disposición de las Autoridades competentes para que actúen con arreglo a la Ley.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 20 DE JUNIO DE 2017)</small>
 
-Por lo que toca al Gobernador del Estado, solo habrá lugar a acusarlo ante el Congreso del Estado en los términos del artículo 124. En este supuesto, el Congreso resolverá con base en la Legislación penal aplicable.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
-
-La Legislatura Local, en ejercicio de sus atribuciones, intervendrá en definitiva por la comisión de delitos federales en contra del Gobernador, Diputados Locales, Magistrados del Tribunal Superior de Justicia y, en su caso, Consejeros de la Judicatura, una vez que el Congreso de la Unión o cualesquiera de sus Cámaras, emitan la declaratoria de procedencia respectiva.
+La Legislatura Local, en ejercicio de sus atribuciones, intervendrá en definitiva por la comisión de delitos federales en contra del Gobernador, Diputados Locales, Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura, y los miembros de los organismos constitucionalmente autónomos, una vez que el Congreso de la Unión o cualesquiera de sus Cámaras, emitan la declaratoria de procedencia respectiva.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 El efecto de la declaración de que ha lugar a proceder contra el inculpado, será separado de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE JUNIO DE 2017)</small>
+
+Los diputados al Congreso del Estado no podrán ser reconvenidos, detenidos, multados o juzgados por las opiniones que manifiesten en el ejercicio propio de su encargo.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -2493,13 +2495,13 @@ Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la Legislaci�
 
 Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2017)</small>
 
 ###### Art. 126.
 
-No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el artículo 124 primer párrafo, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
+No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el artículo 125 primer párrafo, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
 
-Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 124, se procederá de acuerdo con lo dispuesto en dicho precepto.
+Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 125 se procederá de acuerdo con lo dispuesto en dicho precepto.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
 
@@ -3943,7 +3945,7 @@ Quinto.- Para los efectos previstos por el artículo 131 de la Constitución Pol
 
 P.O. 15 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT”.]
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, sin perjuicio de lo previsto en los transitorios siguientes.
 
@@ -3952,3 +3954,13 @@ Segundo.- Para la designación del Fiscal General a partir de la presente reform
 Tercero.- Para los efectos de lo establecido en el presente Decreto en los artículos 7 y 8 de esta Constitución, los titulares de las dependencias y entidades estatales y municipales deberán acreditar antes los Órganos Internos de Control en el plazo de un año, la promoción y capacitación de los servidores públicos sobre la aplicación e interpretación del principio pro persona. Las capacitaciones deberán constar en audio y video. El incumplimiento será sancionado conforme a la ley aplicable en materia de responsabilidades. Los Órganos Internos de Control deberán notificar el cumplimiento o incumplimiento de las dependencias o entidades respectivas al Congreso del Estado.
 
 Cuarto.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
+
+P.O. 20 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT".]
+
+Primero.- El presente decreto entrará en vigor el día 19 de septiembre del año 2017, previo a su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- En un plazo que no exceda de noventa días, posteriores a la entrada en vigor del presente decreto, el Congreso del Estado deberá realizar las adecuaciones normativas correspondientes al marco jurídico local.
+
+Tercero.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los ayuntamientos de la entidad.
