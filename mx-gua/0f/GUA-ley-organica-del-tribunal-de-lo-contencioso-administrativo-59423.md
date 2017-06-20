@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-tribunal-de-lo-contencioso-administrativo-5942
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-11-30"
-last_updated: "2013-06-07"
+last_updated: "2017-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 20 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2017 (ABROGADA).
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 30 de noviembre de 2007.
 
@@ -608,3 +610,45 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 20 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 196, EMITIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. A partir del inicio de vigencia del presente Decreto, se abroga la Ley Orgánica del Tribunal de lo Contencioso Administrativo, contenida en el Decreto Legislativo número 87, expedido por la Sexagésima Legislatura del Congreso del Estado, publicado en el Periódico Oficial del Gobierno del Estado número 192, segunda parte, del 30 de noviembre de 2007.
+
+Artículo Tercero. El Tribunal de lo Contencioso Administrativo modifica su naturaleza jurídica a Tribunal de Justicia Administrativa a partir de la entrada en vigencia del presente Decreto.
+
+Artículo Cuarto. El Tribunal de lo Contencioso Administrativo deberá adecuar su reglamento interior y normativa interna en un plazo de ciento ochenta días, contados a partir del inicio de vigencia de la presente Ley, en tanto la normativa vigente será aplicable en lo que no se oponga a la presente ley.
+
+Artículo Quinto. En el caso del nombramiento del Magistrado que integre la Sala Especializada en materia de Responsabilidades Administrativas, el Titular del Ejecutivo Estatal deberá enviar su propuesta al Congreso del Estado de Guanajuato.
+
+En caso de presentarse asuntos competencia de la Sala Especializada y que aún no se haya realizado el nombramiento del Magistrado, el Pleno del Tribunal de Justicia Administrativa determinará cuál de los Magistrados existentes conocerá de los mismos.
+
+El Pleno del Tribunal de Justicia Administrativa del Estado de Guanajuato llamará a un magistrado supernumerario quien atenderá los asuntos de la sala del magistrado que haya sido designado por el pleno para conocer asuntos competencia de la sala especializada.
+
+Una vez que el Congreso del Estado haya nombrado al magistrado de la Sala Especializada, éste recibirá los asuntos que esté conociendo el magistrado que haya sido designado por el Pleno, quien regresará a atender los asuntos de la sala de su adscripción.
+
+A partir de la entrada en vigor de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, el Tribunal de Justicia Administrativa del Estado de Guanajuato deberá realizar las acciones administrativas y técnicas para contar con una Sala Especializada en materia de Responsabilidades Administrativas, de conformidad con lo previsto en el artículo 6 del presente decreto. La Secretaria de Finanzas, Inversión y Administración asignará al Tribunal de Justicia Administrativa del Estado de Guanajuato los recursos económicos suficientes para que esté en condiciones de asumir sus nuevas responsabilidades.
+
+Artículo Sexto. El Magistrado de la Sala Especializada en materia de Responsabilidades Administrativas, mantendrá su adscripción al menos durante los primeros cinco años del ejercicio de su encargo, sin perjuicio de que pueda permanecer en dicha sala durante todo su encargo.
+
+Artículo Séptimo. Los Magistrados del Tribunal de lo Contencioso Administrativo que a la entrada en vigor de la presente Ley se encuentren en ejercicio de sus cargos, continuarán en ellos como Magistrados del Tribunal de Justicia Administrativa del Estado de Guanajuato hasta concluir el periodo para el cual fueron designados. Al término de dicho nombramiento entregarán la Magistratura, sin perjuicio de que puedan ser propuestos, previa evaluación del Tribunal de su desempeño de ser elegibles, para ser nombrados como Magistrados en términos de lo dispuesto por la Constitución Política para el Estado de Guanajuato.
+
+Artículo Octavo. Todos los procedimientos, juicios y negocios iniciados con anterioridad a la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Guanajuato, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+Artículo Noveno. La disposición comprendida en el artículo 26 del presente decreto, en relación a la reelección, será aplicable a partir del primer presidente que sea elegido con las reglas del presente decreto.
+
+Artículo Décimo. Todas las referencias que en las leyes, contratos, normas o cualquier otro documento se haga al Tribunal de lo Contencioso Administrativo se entenderán referidas al Tribunal de Justicia Administrativa, sin menoscabo de las adecuaciones normativas que se realicen a los diversos ordenamientos jurídicos por parte del Congreso del Estado.
+
+Artículo Undécimo. El Magistrado Presidente del Tribunal de lo Contencioso Administrativo fungirá como Presidente del Tribunal de Justicia Administrativa, por lo que resta del periodo para el que haya sido nombrado originalmente.
+
+Artículo Duodécimo. El órgano interno de control y la unidad de transparencia del Tribunal de lo Contencioso Administrativo deberán contar con la estructura necesaria para desempeñar las atribuciones que les señala la presente ley y entrarán en funciones en un plazo de 180 días contados a partir del inicio de vigencia de la presente ley.
+
+Artículo Décimo Tercero. El Tribunal de Justicia Administrativa del Estado de Guanajuato remitirá en un plazo de hasta sesenta días, posteriores al inicio de vigencia de este Decreto, la tema al Congreso del Estado, para la designación del titular del órgano interno de control.
+
+Artículo Décimo Cuarto. El Congreso del Estado contará con un plazo de hasta ciento ochenta días contados a partir del inicio de vigencia del presente Decreto, para designar al titular del órgano interno de control, debiendo garantizar la designación atendiendo a los principios de certeza, imparcialidad y legalidad.
+
+Artículo Décimo Quinto. El Contralor que haya sido nombrado con antelación a la entrada en vigor del presente Decreto continuará como titular del órgano interno de control hasta en tanto el Congreso del Estado realice la nueva designación, atendiendo al procedimiento establecido, sin perjuicio de que pueda ser propuesto, atendiendo a los requisitos y principios de certeza, imparcialidad y legalidad.
