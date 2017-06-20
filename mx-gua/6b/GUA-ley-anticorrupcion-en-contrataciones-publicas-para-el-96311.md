@@ -4,7 +4,7 @@ identifier: "GUA-ley-anticorrupcion-en-contrataciones-publicas-para-el-96311"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-18"
-last_updated: "2016-07-01"
+last_updated: "2017-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY ANTICORRUPCION EN CONTRATACIONES PUBLICAS PARA EL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO QUINTO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL PERIÓDICO OFICIAL EL 20 DE JUNIO DE 2017; ORDENAMIENTO QUE ENTRARÁ EN VIGOEL 19 DE JULIO DE 2017.]</small>
+
 LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2017 (ABROGADA).
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de octubre de 2013.
 
@@ -448,3 +450,17 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 195, EMITIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE EXPIDE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el 19 de julio de 2017, previa publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Se abroga la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, contenida en el Decreto número 179, expedido por la Quincuagésima Novena Legislatura del Congreso Constitucional del Estado Libre y Soberano de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado número 74, segunda parte de fecha 10 de mayo de 2005, así como cualquier otra disposición de carácter general, reglamentaria o administrativa que se oponga a la presente.
+
+Artículo Tercero. Los procedimientos administrativos que se encuentren en trámite al momento que entre en vigor la presente Ley, se sujetarán a las disposiciones contenidas en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, misma que es abrogada por el Artículo Segundo Transitorio de la presente Ley, hasta su total resolución, inclusive los recursos que se encuentren pendientes de resolución y en su caso la Ley General de Responsabilidades Administrativas, en los términos del artículo tercero transitorio del decreto publicado en el Diario Oficial de la Federación del 18 de julio de 2016.
+
+Artículo Cuarto. En el plazo de noventa días a partir de la entrada en vigor del presente decreto los sujetos vinculados a la Ley de Responsabilidades Administrativas para el Estado de Guanajuato adecuarán la normativa jurídica.
+
+Artículo Quinto. Se abroga la Ley Anticorrupción en Contrataciones Públicas para el Estado de Guanajuato, contenida en el decreto Legislativo número 89, expedido por la Sexagésima Segunda Legislatura del Congreso del estado, publicado en el Periódico Oficial de Gobierno del Estado número 167, Tercera Parte de fecha 18 de octubre de 2013.
