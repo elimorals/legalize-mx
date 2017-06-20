@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-para-prevenir-la-109503"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-08-21"
-last_updated: "2016-08-25"
+last_updated: "2017-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109503&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-08-13"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JUNIO DE 2017.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 21 de agosto de 2015.
 
@@ -359,19 +359,21 @@ Las sesiones de la Asamblea podrán llevarse a cabo en el domicilio del Consejo,
 
 La persona titular de la Dirección de Apoyo a Órganos Colegiados y Coordinación Interinstitucional, fungirá como Secretaria Técnica de la Asamblea, con la finalidad de brindar el apoyo técnico y logístico para el cumplimiento de sus atribuciones y para una mejor coordinación entre ese órgano colegiado y el Consejo, cuyas funciones están descritas en el artículo 57 del presente Estatuto.
 
+> <small>(REFORMADO, D.O.F 20 DE JUNIO DE 2017)</small>
+
 ###### Artículo 36.
 
-En las sesiones podrán estar presentes la persona titular de la Presidencia de la Asamblea y las y los asambleístas, quienes tendrán derecho a voz y voto; las personas invitadas permanentes, la persona titular de la Presidencia del Conapred, la persona que ocupe la Secretaría Técnica de la Asamblea sólo tendrán derecho a voz.
+En las sesiones podrán estar presentes la persona titular de la Presidencia de la Asamblea y las y los asambleístas, quienes tendrán derecho a voz y voto. Las personas invitadas honorarias, la persona titular de la Presidencia del Conapred y la persona que ocupe la Secretaría Técnica de la Asamblea, sólo tendrán derecho a voz.
 
-Las Personas Invitadas Permanentes deberán ser convocadas por acuerdo de la Asamblea.
+Asimismo, y atendiendo a los temas a tratar en las sesiones, podrán estar presentes personas invitadas por única ocasión, con el propósito de aprovechar su conocimiento y experiencia, sólo tendrán derecho a voz y serán aquellas que, por su trabajo en la sociedad civil, en la academia o por su destacada trayectoria puedan aportar consejos útiles o necesarios para el trabajo de la Asamblea y que repercuta en el cumplimiento de los objetivos del Consejo.
 
-Asimismo, y atendiendo a los temas a tratar en las sesiones, podrán estar presentes personas invitadas por única ocasión, con el propósito de aprovechar su conocimiento y experiencia, sólo tendrán derecho a voz y serán aquellas que por su trabajo en la sociedad civil, en la academia o por su destacada trayectoria puedan aportar consejos útiles o necesarios para el trabajo de la Asamblea y que repercuta en el cumplimiento de los objetivos del Consejo.
+> <small>(REFORMADO, D.O.F 20 DE JUNIO DE 2017)</small>
 
 ###### Artículo 37.
 
 Las sesiones requerirán para su validez de la presencia de la mitad más uno de sus integrantes. En los casos en los que no se logre el quórum requerido, éste podrá verificarse veinte minutos después de la hora de inicio de la sesión señalada en la convocatoria, pudiendo comenzar si se encuentran presentes no menos de un tercio de las y los asambleístas. En caso de que no se reúna el tercio de los y las asambleístas, la sesión se reprogramará, dentro de los quince días naturales posteriores a la fecha de la sesión suspendida.
 
-La presencia de personas invitadas permanentes no incidirá en el quórum señalado en este artículo.
+La presencia de personas invitadas honorarias no incidirá en el quórum señalado en este artículo.
 
 ###### Artículo 38.
 
@@ -451,11 +453,15 @@ La o el Comisario o su suplente asistirán a las sesiones ordinarias y extraordi
 
 ## TÍTULO SEXTO. UNIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO, D.O.F 20 DE JUNIO DE 2017)</small>
+
 ###### Artículo 50.
 
 Las Unidades Administrativas señaladas en el artículo 11 del presente Estatuto, contarán para el cumplimiento de sus facultades y responsabilidades, con las personas servidoras públicas que tienen a su cargo el ejercicio de una o varias funciones, cuya denominación y funciones se establecerán en los manuales administrativos correspondientes.
 
 A cargo de cada una de las Unidades Administrativas habrá una persona titular, quien asumirá su dirección técnica y operativa, y será responsable de su funcionamiento.
+
+Las ausencias de carácter temporal de las personas titulares de las Unidades Administrativas serán suplidas por los inferiores jerárquicos inmediatos de la Unidad a que corresponda, mediante oficio signado por el Titular.
 
 ###### Artículo 51.
 
@@ -569,6 +575,8 @@ XIII. Producir contenidos y materiales que promuevan una cultura a favor de la i
 
 XIV. Las demás que le confiera la persona titular de la Presidencia del Consejo.
 
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F 20 DE JUNIO DE 2017)
+
 ###### Artículo 54.
 
 La Dirección General Adjunta de Quejas tendrá las siguientes atribuciones:
@@ -603,7 +611,15 @@ XIV. Generar información estadística sobre las orientaciones, procedimientos d
 
 XV. Delegar las facultades correspondientes a las personas titulares de las direcciones y subdirecciones, para realizar las acciones y firmar los documentos que se requieran para la debida atención de las personas peticionarias, y
 
-XVI. Las demás que le confiera la persona titular de la Presidencia del Consejo.
+> <small>(REFORMADA, D.O.F 20 DE JUNIO DE 2017)</small>
+
+XVI. Atender los requerimientos de la Comisión Nacional de los Derechos Humanos que se desprendan con motivo de quejas presentadas en contra del Consejo por actos u omisiones que vulneren los derechos humanos, presuntamente materializados durante la atención brindada a las personas usuarias por parte del personal adscrito a la Dirección General Adjunta de Quejas.
+
+> <small>(ADICIONADA, D.O.F 20 DE JUNIO DE 2017)</small>
+
+XVII. Las demás que le confiera la persona titular de la Presidencia del Consejo.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F 20 DE JUNIO DE 2017)
 
 ###### Artículo 55.
 
@@ -659,7 +675,9 @@ X. Revisar y emitir opinión sobre los anteproyectos de iniciativas de leyes, de
 
 XI. Sistematizar y difundir la normativa y criterios de interpretación y aplicación de las disposiciones normativas que regulen la operación del Consejo;
 
-XII. Ser el enlace del Consejo ante la Comisión Nacional de los Derechos Humanos para atender las solicitudes de información que se desprendan de quejas presentadas en contra del Consejo por actos u omisiones que violen los derechos humanos, así como las recomendaciones realizadas por dicha Comisión;
+> <small>(REFORMADA, D.O.F 20 DE JUNIO DE 2017)</small>
+
+XII. Ser el enlace del Consejo ante la Comisión Nacional de los Derechos Humanos para atender las solicitudes de información que se desprendan de quejas presentadas en contra del Consejo por actos u omisiones que violen los derechos humanos, así como las recomendaciones realizadas por dicha Comisión, con excepción de lo previsto en el caso del artículo 54, fracción XVI del presente Estatuto.
 
 XIII. Sustanciar, conforme a las disposiciones jurídicas aplicables, los recursos que interpongan las y los particulares contra actos y resoluciones del Consejo y, en su caso, emitir las resoluciones que correspondan;
 
@@ -672,6 +690,8 @@ XVI. Llevar a cabo la legalización y registro de firmas y de los poderes de los
 XVII. Opinar a solicitud de las unidades administrativas sobre la procedencia de los instrumentos jurídicos que suscriba la persona titular de la Presidencia del Consejo en el ámbito de sus atribuciones en materia de cooperación interinstitucional, de conformidad con las disposiciones jurídicas aplicables, así como integrar los expedientes correspondientes;
 
 XVIII. Realizar y tramitar, a solicitud de las unidades administrativas, los registros relativos ante las autoridades e instancias tales como la Comisión Federal de Mejora Regulatoria (COFEMER), el Instituto Nacional del Derecho de Autor (INDAUTOR), el Diario Oficial entre otras, y
+
+(REPUBLICADA, D.O.F 20 DE JUNIO DE 2017)
 
 XIX. Las demás que le confiera la persona titular de la Presidencia del Consejo.
 
@@ -1242,3 +1262,7 @@ México, D.F., a 13 de agosto de 2015.- El Presidente del Consejo Nacional para 
 D.O.F 25 DE AGOSTO DE 2016.
 
 > <small>[N. DE E. EL “ACUERDO POR EL QUE SE DA A CONOCER LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN, PUBLICADO EL VEINTIUNO DE AGOSTO DE DOS MIL QUINCE” CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL.]</small>
+
+D.O.F 20 DE JUNIO DE 2017.
+
+> <small>[N. DE E. EL “ACUERDO POR EL QUE SE DA A CONOCER LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN, PUBLICADO EL VEINTIUNO DE AGOSTO DE DOS MIL QUINCE", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
