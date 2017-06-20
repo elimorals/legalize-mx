@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-integral-de-la-juventud-del-estado-10340
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-28"
-last_updated: "2016-08-09"
+last_updated: "2017-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 28 de octubre de 2014.
 
@@ -226,6 +226,10 @@ VI.- Promover las modalidades de educación que permitan responder a las necesid
 VII.- Promover, en los ámbitos tanto productivo como educativo, el desarrollo de las competencias, teniendo como finalidad la inclusión de los recién egresados en los sectores productivos.
 
 VIII.- La estimulación de la formación y capacitación de los estudiantes de Nivel Superior a través del acceso a la infraestructura del sector productivo.
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2017)</small>
+
+IX.- Coordinar esfuerzos con la Secretaría de Salud, para que los planteles educativos de nivel secundaria y bachillerato, cuenten con personal especializado, o bien que haya sido capacitado, en la detección de trastornos emocionales de las y los jóvenes.
 
 ###### Artículo 20.
 
@@ -488,3 +492,11 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 854.- SE ADICIONA LA FRACCIÓN IX, DEL ARTÍCULO 19, DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
