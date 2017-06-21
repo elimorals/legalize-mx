@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-para-la-transmision-de-informacion-al-registro-122
 country: "mx"
 rank: "lineamientos"
 publication_date: "2015-02-20"
-last_updated: "2015-02-20"
+last_updated: "2017-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122020&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-01-27"
 
 LINEAMIENTOS PARA LA TRANSMISIÓN DE INFORMACIÓN AL REGISTRO NACIONAL DE VÍCTIMAS.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JUNIO DE 2017.
 
 Lineamientos publicados en la Primera Sección al No. 16 del Diario Oficial de la Federación, el viernes 20 de febrero de 2015.
 
@@ -61,11 +61,15 @@ Para tal efecto, este ordenamiento establece las condiciones, datos y requisitos
 
 De los datos personales
 
-Segundo. Con la finalidad de determinar si la información que consta en el Registro Nacional de Víctimas, los registros estatales y del Distrito Federal, los registros existentes, y la que se encuentre en posesión (sic) las distintas instituciones que integran el Sistema Nacional de Atención a Víctimas tiene el carácter de dato personal, deberán agotarse las condiciones previstas en el artículo 3, fracciones V y VI de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2017)</small>
+
+Segundo. Con la finalidad de determinar si la información que consta en el Registro Nacional de Víctimas, los registros de las entidades federativas, los registros existentes, y la que se encuentre en posesión de las distintas instituciones que integran el Sistema Nacional de Atención a Víctimas, tiene el carácter de datos personales, deberán agotarse las condiciones previstas en los artículos 3, fracciones IX y X de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y 3, fracciones V y VI de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.
 
 Definiciones
 
-Tercero. Para efectos de la aplicación de los presentes Lineamientos, además de las definiciones establecidas en los artículos 4 y 6 de la Ley General de Víctimas, y 3 de su Reglamento, se entenderá por:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JUNIO DE 2017)</small>
+
+Tercero. Para efectos de la aplicación de los presentes Lineamientos, además de las definiciones establecidas en los artículos 4 y 6 de la Ley General de Víctimas y su Reglamento, se entenderá por:
 
 I. RENAVI: El Registro Nacional de Víctimas;
 
@@ -143,9 +147,13 @@ Cualquier rectificación hecha por el Responsable deberá ser comunicada al RENA
 
 Décimo primero. Los datos de las víctimas sólo podrán ser tratados en registros de víctimas que reúnan las condiciones de seguridad establecidas en los presentes Lineamientos y demás disposiciones aplicables.
 
-Décimo segundo. En el momento que se recaben datos personales de las víctimas para efectos del Registro a que se refiere el artículo 6, fracción XIV de la Ley, se deberá hacer del conocimiento del Titular de los datos o, en su caso, su representante legal, lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JUNIO DE 2017)</small>
 
-I. La mención de que los datos recabados serán protegidos en términos de lo dispuesto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y la Ley Federal de Protección de Datos Personales en posesión de los particulares y demás disposiciones aplicables;
+Décimo segundo. En el momento que se recaben datos personales de las víctimas para efectos del Registro a que se refiere el artículo 6, fracción XVI de la Ley, se deberá hacer del conocimiento del Titular de los datos o, en su caso, su representante legal, lo siguiente:
+
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2017)</small>
+
+I. La mención de que los datos recabados serán protegidos en términos de lo dispuesto por la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la Ley Federal de Protección de Datos Personales en Posesión de los Particulares y demás disposiciones aplicables;
 
 II. El fundamento legal para ello, y
 
@@ -157,15 +165,21 @@ Décimo cuarto. De conformidad con el artículo 97, fracción III, de la Ley, lo
 
 Décimo quinto. La disociación consiste en el procedimiento por el cual los datos personales de las víctimas no pueden asociarse al Titular de éstos, ni permitir por su estructura, contenido o grado de desagregación, la identificación individual del mismo.
 
-El tratamiento de datos personales de las víctimas para fines estadísticos deberá realizarse mediante la disociación de los datos, de conformidad a la Ley de Información Estadística y Geográfica, así como las demás disposiciones aplicables en cada caso.
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2017)</small>
+
+El tratamiento de datos personales de las víctimas para fines estadísticos deberá realizarse mediante la disociación de los datos, de conformidad con la Ley del Sistema Nacional de Información Estadística y Geográfica, así como las demás disposiciones aplicables en cada caso.
 
 Décimo sexto. Cuando se contrate a algún tercero para el tratamiento de datos personales de las víctimas o que proporcione algún servicio que implique el acceso a dichos datos, dicho tercero será considerado como un encargado del tratamiento y deberá estipularse en el contrato o instrumento jurídico respectivo, al menos, la finalidad con la que se tratarán los datos personales para prestar el correspondiente servicio al responsable del tratamiento y la prohibición de tratarlos con cualquier otra finalidad, la implementación de medidas de seguridad y custodia previstas en los presentes Lineamientos, en la normatividad aplicable a las dependencias y entidades contratantes, así como la imposición de penas convencionales por su incumplimiento y las previsiones correspondientes relativas a la finalización del servicio.
 
 ### CAPÍTULO IV. DE LA TRANSMISIÓN
 
-Décimo séptimo. La transmisión de los datos de la víctima no requerirá del consentimiento del Titular de los datos, en los casos previstos en el artículo 22 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, 37 de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, y demás disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2017)</small>
 
-Décimo octavo. Con la finalidad de favorecer la transparencia y acceso a la información pública gubernamental, se pondrán a disposición de la población en general aquellos datos que no se consideren confidenciales por ubicarse en los supuestos establecidos por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+Décimo séptimo. La transmisión de los datos de las víctimas no requerirá de su consentimiento, únicamente tratándose de los casos previstos en los artículos 120 de la Ley General de Transparencia y Acceso a la Información Pública, 117 de la Ley Federal de Transparencia y Acceso a la Información Pública, 70 de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y 37 de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, y demás disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2017)</small>
+
+Décimo octavo. Con la finalidad de favorecer la transparencia y acceso a la información pública, se pondrán a disposición de la población en general aquellos datos que no se consideren confidenciales por ubicarse en los supuestos establecidos por la Ley General de Transparencia y Acceso a la Información Pública y la Ley Federal de Transparencia y Acceso a la Información Pública.
 
 Décimo noveno. La transmisión total o parcial de datos de la víctima que realice el Transmisor, en el ejercicio de sus atribuciones, deberán ser notificadas por el Responsable al RENAVI en términos de lo establecido por los presentes Lineamientos.
 
@@ -201,23 +215,33 @@ El personal que tenga acceso a dicha documentación está obligado a mantenerla 
 
 Previo a la transmisión de información al RENAVI, el Transmisor informará que cumple con lo dispuesto por los presentes Lineamientos para la seguridad de la información en relación a la transmisión de datos de las víctimas.
 
-Vigésimo segundo. La Comisión Ejecutiva de Atención a Víctimas emitirá anualmente las recomendaciones sobre los estándares mínimos de seguridad, aplicables a los registros de víctimas que se encuentren en poder de las instituciones que integran el Sistema Nacional de Atención a Víctimas y determinará, en su caso, el nivel de protección que amerite la naturaleza de los datos de las víctimas.
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2017)</small>
+
+Vigésimo segundo. La Comisión Ejecutiva de Atención a Víctimas emitirá, cuando lo considere necesario, las recomendaciones sobre los estándares mínimos de seguridad, aplicables a los registros de víctimas que se encuentren en poder de las instituciones que integran el Sistema Nacional de Atención a Víctimas y determinará, en su caso, el nivel de protección que amerite la naturaleza de los datos de las víctimas.
 
 ### CAPÍTULO VI. DEL REGISTRO FEDERAL DE VÍCTIMAS
 
 Vigésimo tercero. Para dar cumplimiento a lo dispuesto por el artículo 88, fracción XXVI de la Ley, el RENAVI pondrá a disposición la Plataforma del Registro Nacional de Víctimas para la transmisión de toda aquella información relacionada con la atención de las víctimas, así como la integración del Padrón Nacional de Víctimas.
 
-Vigésimo cuarto. La información que se transmita al RENAVI siempre deberá venir acompañada del original del Formato Único de Declaración, en los casos de competencia del fuero federal.
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2017)</small>
+
+Vigésimo cuarto. La información que se transmita al RENAVI podrá acompañarse del original del Formato Único de Declaración y del reconocimiento de la calidad de víctima en términos de los artículos 101 y 110 de la Ley General de Víctimas en los casos de competencia del fuero federal.
 
 Vigésimo quinto. El RENAVI previo a la transmisión de información de las víctimas, suscribirá los convenios de colaboración conducentes con el Transmisor, los cuales establecerán con base en los presentes Lineamientos, las medidas de seguridad, pruebas y validación de información, así como las adecuaciones técnicas que garanticen la integridad y confidencialidad de los datos de las víctimas durante su tratamiento.
 
 ### CAPÍTULO VII. DE LOS REGISTROS LOCALES DE VÍCTIMAS
 
-Vigésimo sexto. Los Registros Locales de Víctimas serán los encargados de sistematizar los datos de las víctimas cuya competencia sea local, dando cumplimiento a los presentes Lineamientos para su tratamiento, transmisión y custodia.
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2017)</small>
 
-Vigésimo séptimo. La información que se transmita a los Registros Locales siempre deberá venir acompañada del original del Formato Único de Declaración, en los casos de competencia del fuero local, en términos de lo dispuesto en los artículos 98 tercer párrafo y 100, fracción IV de la Ley.
+Vigésimo sexto. Los registros de las entidades federativas serán los encargados de sistematizar los datos de las víctimas de delitos del fuero común o de violaciones a derechos humanos cometidas por servidores públicos de las entidades federativas o de sus municipios, dando cumplimiento a los presentes Lineamientos para su tratamiento, transmisión y custodia.
 
-Vigésimo octavo. Los Responsables de los Registros Locales deberán registrar e informar al RENAVI, dentro de los primeros veinte días hábiles de enero y julio de cada año, lo siguiente:
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2017)</small>
+
+Vigésimo séptimo. La información que se transmita a los registros de las entidades federativas podrá acompañarse del original del Formato Único de Declaración y del reconocimiento de la calidad de víctima en términos de los artículos 101 y 110 de la Ley General de Víctimas y de la ley estatal, en los casos de víctimas de delitos del fuero común o de violaciones a derechos humanos cometidas por servidores públicos de las entidades federativas o de sus municipios, en términos de lo dispuesto en los artículos 98 tercer párrafo y 100, fracción IV de la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JUNIO DE 2017)</small>
+
+Vigésimo octavo. Los responsables de los registros de las entidades federativas deberán registrar e informar al RENAVI, dentro de los periodos que para ese efecto establezca dicho Registro, lo siguiente:
 
 I. Los Registros de Víctimas;
 
@@ -227,7 +251,9 @@ III. Cualquier transmisión de Registros de Víctimas de conformidad a lo dispue
 
 IV. Plazo por el que conservará el destinatario los datos que le hayan sido transmitidos.
 
-Vigésimo noveno. La transmisión de información de las víctimas al RENAVI, por parte de los Registros Locales de Víctimas se realizará en términos de los convenios de colaboración o coordinación que se suscriban para tal efecto, con base en los presentes Lineamientos, las medidas de seguridad y adecuaciones técnicas que garanticen la integridad y confidencialidad de los datos de las víctimas.
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2017)</small>
+
+Vigésimo noveno. La transmisión de información de las víctimas al RENAVI, por parte de los registros de las entidades federativas se realizará en términos de los convenios de colaboración o coordinación que se suscriban para tal efecto, con base en los presentes Lineamientos, las medidas de seguridad y adecuaciones técnicas que garanticen la integridad y confidencialidad de los datos de las víctimas.
 
 ## TRANSITORIOS
 
@@ -242,3 +268,15 @@ CUARTO. La primera transmisión de información a la Plataforma del Registro Nac
 QUINTO. Las primeras recomendaciones sobre las medidas de seguridad que se mencionan en el Lineamiento Vigésimo segundo, serán emitidas por la Comisión Ejecutiva de Atención a Víctimas dentro de los primeros diez días hábiles de diciembre de 2015.
 
 México, D.F., a 27 de enero de 2015.- Así lo aprobó el Pleno de la Comisión Ejecutiva de Atención a Víctimas, en la Cuarta Sesión Ordinaria 2015 celebrada el 27 de enero de 2015.- El Comisionado Presidente, Sergio Jaime Rochín del Rincón.- Rúbrica.- La Comisionada y los Comisionados: Adrián Franco Zevada, Susana Thalía Pedroza de la Llave, Julio Antonio Hernández Barros, Carlos Ríos Espinosa.- Rúbricas.- La Secretaria Técnica del Pleno, Alejandra Soto Alfonso, quien da fe de la presentación y votación del documento por unanimidad.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL ACUERDO DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 21 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LOS LINEAMIENTOS PARA LA TRANSMISIÓN DE INFORMACIÓN AL REGISTRO NACIONAL DE VÍCTIMAS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se deja sin efectos el CUARTO TRANSITORIO del Acuerdo del Pleno por el que se emiten los Lineamientos para la Transmisión de información al Registro Nacional de Víctimas publicados el 20 de febrero de 2015, en el Diario Oficial de la Federación.
+
+TERCERO. La primera transmisión de información a la Plataforma del Registro Nacional de Víctimas, por parte de las instituciones a que se refiere el Lineamiento Vigésimo octavo y que a la fecha de publicación del presente acuerdo aún no se hubiere realizado, se llevará a cabo una vez que se suscriban los convenios de colaboración entre el Registro Nacional de Víctimas y las entidades federativas y éstas así se lo notifiquen.
