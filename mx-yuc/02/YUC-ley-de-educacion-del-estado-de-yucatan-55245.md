@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-55245"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-23"
-last_updated: "2016-12-28"
+last_updated: "2017-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE JUNIO DE 2017.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 23 de abril de 2007.
 
@@ -91,19 +91,29 @@ La función social educativa de las universidades y demás instituciones de educ
 
 ### CAPÍTULO II. De los Derechos y Obligaciones en Materia Educativa
 
-> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 21 DE JUNIO DE 2017)</small>
 
 ###### Artículo 6.
 
-En el Estado de Yucatán, toda persona tiene derecho a recibir educación sin discriminación por motivo de raza, origen étnico, nacionalidad, género e identidad de género, edad, discapacidad, condiciones de salud, social, económica, lingüística, preferencias sexuales, identidad sexual, filiación, instrucción, religión, ideología o cualquier otro que atente contra la dignidad humana. En tal sentido:
+En el Estado de Yucatán, toda persona tiene derecho a recibir educación de calidad, en condiciones de igualdad y de libre tránsito; sin discriminación por motivo de raza, origen étnico, nacionalidad, género e identidad de género, edad, discapacidad, condiciones de salud, social, económica, lingüística, preferencias sexuales, identidad sexual, filiación, instrucción, religión, ideología o cualquier otro que atente contra la dignidad humana. En tal sentido:
+
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 I.- La educación preescolar, primaria, secundaria y media superior son obligatorias. El Gobierno del Estado impartirá educación en estos niveles;
 
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2013)</small>
+
 II.- La educación que imparta el Estado será gratuita en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Yucatán;
+
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 III.- El Gobierno del Estado, en concurrencia con la federación, además de impartir la educación preescolar, primaria, secundaria y media superior, promoverá y apoyará, a través de recursos financieros o por cualquier otro medio idóneo, la educación pública en los demás tipos y modalidades educativas, incluidas la educación media superior y superior;
 
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2013)</small>
+
 IV.- El Gobierno del Estado, de manera preferente, promoverá y atenderá la educación normal y demás para la formación de profesores de educación básica. Apoyará la investigación científica, tecnológica y humanista, alentará el fortalecimiento y difusión de la cultura regional, nacional y universal procurando el acceso de la población a las manifestaciones de las mismas;
+
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 V.- El servicio educativo estatal será suficiente para asegurar el acceso a la educación básica y media superior, y el egreso de las mismas a todos los habitantes de la entidad, por lo que deberá brindar la oportunidad efectiva de concluirla en alguna de las instituciones del sistema o a través de programas educativos dirigidos a niños, jóvenes o adultos que no la hubiesen terminado en forma regular;
 
@@ -435,17 +445,19 @@ Es responsabilidad de la Secretaría de Educación, a través de sus unidades ad
 
 ### CAPÍTULO II. De la Equidad en la Educación
 
+> <small>(REFORMADO, D.O. 21 DE JUNIO DE 2017)</small>
+
 ###### Artículo 24.
 
-La autoridad educativa estatal tiene la responsabilidad de garantizar la equidad en educación, y para ello deberá prestar especial atención a los individuos, planteles, comunidades y municipios que se encuentren en situación menos favorecida, con mayor rezago educativo o que enfrenten condiciones sociales o físicas de desventaja, particularmente en localidades indígenas, en los términos de la normatividad aplicable.
+La autoridad educativa estatal tiene la responsabilidad de garantizar la equidad en educación, y para ello deberá prestar especial atención a las personas, planteles, comunidades y municipios que se encuentren en situación menos favorecida, con mayor rezago educativo o que enfrenten condiciones sociales o físicas de desventaja, migratorias o relacionadas con aspectos de género, preferencias sexuales, creencias religiosas o prácticas religiosas, particularmente en localidades indígenas, en los términos de la normatividad aplicable.
 
-> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2013)</small>
+Para tal efecto, tomará las medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de calidad de cada persona, una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso, tránsito y permanencia en los servicios educativos.
 
-Para tal efecto, tomará las medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de calidad de cada individuo, una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 21 DE JUNIO DE 2017)</small>
 
 ###### Artículo 25.
 
-Las autoridades educativas, en el ámbito de sus respectivas competencias, llevarán a cabo las actividades siguientes:
+Las autoridades educativas, en el ámbito de sus respectivas competencias y conforme a lo dispuesto en el artículo anterior, llevarán a cabo las actividades siguientes:
 
 I.- Atender de manera especial las escuelas en que, por estar en localidades aisladas o en zonas urbanas marginadas, sea considerablemente mayor la posibilidad de atrasos, ausentismo o deserciones, mediante la asignación de apoyos para enfrentar estos problemas educativos;
 
@@ -471,13 +483,25 @@ IX.- Desarrollar programas para otorgar becas y demás apoyos económicos a los 
 
 X.- Promover mayor participación de los padres de familia y de los diferentes sectores sociales en la educación, así como el apoyo de la iniciativa privada al financiamiento y a las actividades a que se refiere este artículo;
 
-> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O. 21 DE JUNIO DE 2017)</small>
 
-XI.- Establecer programas que promuevan el involucramiento de los padres de familia en el desarrollo educativo de sus hijos, así como programas con perspectiva de género, y
+XI.- Establecer programas que promuevan el involucramiento de los padres de familia en el desarrollo educativo de sus hijos, así como programas con perspectiva de género;
+
+> <small>(ADICIONADA, D.O. 21 DE JUNIO DE 2017)</small>
+
+XII.- Vigilar que las autoridades escolares cumplan con las normas aplicables referidas en la Ley General de Educación;
+
+> <small>(ADICIONADA, D.O. 21 DE JUNIO DE 2017)</small>
+
+XIII.- Garantizar el acceso a la educación básica y media superior, aun cuando los solicitantes carezcan de documentos académicos o de identidad; esta obligación se tendrá por satisfecha con el ofrecimiento de servicios educativos de calidad;
+
+> <small>(ADICIONADA, D.O. 21 DE JUNIO DE 2017)</small>
+
+XIV.- Ofrecer opciones que faciliten la obtención de los documentos referidos en la fracción anterior, así como, en el caso de la educación básica y media superior, la ubicación por grado, ciclo escolar o nivel educativo que corresponda, conforme a la edad, desarrollo evolutivo, cognoscitivo y madurez, y, en su caso, saberes que previa evaluación demuestren los educandos. Asimismo las autoridades educativas promoverán acciones similares para el caso de la educación superior.
 
 > <small>(ADICIONADA, D.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-XII.- Realizar las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos y alcanzar los propósitos y fines de la educación.
+XV.- Realizar las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos y alcanzar los propósitos y fines de la educación.
 
 El Gobierno del Estado, en concurrencia con la Federación, llevará a cabo programas asistenciales, tales como acciones de ayuda alimenticia y campañas de salubridad, tendientes a contrarrestar las condiciones sociales que inciden para impedir la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
@@ -1599,9 +1623,11 @@ II.- Instalaciones que satisfagan las condiciones higiénicas, de seguridad y pe
 
 III.- Planes y programas de estudio que la propia Secretaría apruebe, para el caso de educación distinta de la básica y la normal, así como para la formación de profesores de educación básica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 21 DE JUNIO DE 2017)</small>
+
 ###### Artículo 86.
 
-Al inicio de cada ciclo escolar la Secretaría de Educación publicará en el Diario Oficial del Gobierno del Estado y en los medios de comunicación impresa de la entidad una relación de las instituciones a las que haya concedido, revocado o retirado la autorización o el reconocimiento de validez oficial de estudios en el período escolar inmediato anterior.
+Al inicio de cada ciclo escolar la Secretaría de Educación publicará en el Diario Oficial del Gobierno del Estado de Yucatán y en su sitio web una relación de las instituciones a las que haya concedido, revocado o retirado la autorización o el reconocimiento de validez oficial de estudios en el período escolar inmediato anterior, así como de aquellas a las que hayan autorizado a revalidar o equiparar estudios.
 
 Los particulares que ofrecen estudios con autorización o con reconocimiento deberán incluir en la documentación que expidan y en la publicidad que hagan, una leyenda que indique su calidad de incorporados, el número y fecha del acuerdo respectivo, así como la autoridad que lo otorgó. Cuando una institución ofrezca diversos estudios de los que sólo algunos cuenten con autorización o reconocimiento, la leyenda deberá precisar esta circunstancia.
 
@@ -1641,23 +1667,43 @@ Los particulares podrán presentar a las autoridades educativas documentación r
 
 ## TÍTULO SEXTO. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y DE LA CERTIFICACIÓN DE CONOCIMIENTOS
 
+> <small>(REFORMADO, D.O. 21 DE JUNIO DE 2017)</small>
+
 ###### Artículo 89.
 
-La Secretaría de Educación podrá declarar equiparables entre sí estudios realizados dentro del sistema educativo nacional. Asimismo, podrá revalidar y otorgar validez oficial a aquellos estudios realizados en el extranjero, siempre y cuando sean equiparables con estudios que pertenezcan al sistema educativo nacional.
+La Secretaría de Educación podrá declarar equiparables entre sí estudios realizados dentro del sistema educativo nacional. Asimismo, podrá revalidar y otorgar validez oficial a aquellos estudios realizados en el extranjero, siempre y cuando sean equiparables con estudios que pertenezcan al sistema educativo nacional y cumplan con las normas y criterios generales que determine la normativa federal aplicable.
+
+> <small>(REFORMADO, D.O. 21 DE JUNIO DE 2017)</small>
 
 ###### Artículo 90.
 
-La equivalencia y la revalidación de estudios a que se refiere el artículo anterior se realizarán por niveles educativos, grados escolares, asignaturas u otras unidades de aprendizaje y serán otorgadas por la autoridad educativa estatal, de conformidad con ésta y otras leyes, así como con las normas y criterios que establezca la Secretaría de Educación Pública.
+La equivalencia y la revalidación de estudios a que se refiere el artículo anterior se realizarán por niveles educativos, grados o ciclos escolares, créditos académicos, asignaturas u otras unidades de aprendizaje y serán otorgadas por la autoridad educativa estatal, la cual deberá facilitar el libre tránsito de los educandos de conformidad con esta y otras leyes, así como con las normas y criterios que establezca la Secretaría de Educación Pública.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 21 DE JUNIO DE 2017)</small>
 
 ###### Artículo 91.
 
-Compete de manera exclusiva a la autoridad educativa estatal revalidar y otorgar equivalencias de estudios, según corresponda, de educación básica y normal, así como para la formación de profesores de educación básica. Asimismo, de manera concurrente con la autoridad educativa federal, compete a la Secretaría de Educación revalidar y otorgar equivalencias de estudios distintos de los anteriormente mencionados.
+Compete de manera exclusiva a la autoridad educativa estatal revalidar y otorgar equivalencias de estudios, según corresponda, de educación básica y normal, así como para la formación de profesores de educación básica. Asimismo, de manera concurrente con la autoridad educativa federal, compete a la Secretaría de Educación revalidar y otorgar equivalencias de estudios distintos de los anteriormente mencionados, así como autorizar o delegar, según sea el caso, que las instituciones particulares con reconocimiento de validez oficial de estudios y las instituciones públicas que en sus regulaciones no cuenten con la facultad expresa, otorguen revalidaciones y equivalencias parciales de estudios respecto de los planes y programas que impartan, de acuerdo con los lineamientos generales que la Secretaría expida.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 21 DE JUNIO DE 2017)</small>
+
+La Secretaría de Educación podrá revocar las referidas autorizaciones cuando se presente algún incumplimiento que en términos de los mencionados lineamientos amerite dicha sanción. Lo anterior con independencia de las infracciones que pudieran configurarse, en términos de lo previsto en esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 21 DE JUNIO DE 2017)</small>
+
+Las constancias de revalidación y equivalencia de estudios deberán ser registradas en el Sistema de Información y Gestión Educativa del Estado en los términos que establezca la Secretaría.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 21 DE JUNIO DE 2017)</small>
+
+La Secretaría de Educación deberá suscribir los acuerdos y convenios que faciliten el libre tránsito de estudiantes.
 
 Las atribuciones a que se refiere este artículo se ejercerán de conformidad con ésta y otras leyes aplicables y con las normas y criterios generales que establezca la autoridad educativa federal, de conformidad con la Ley General de Educación.
 
+> <small>(REFORMADO, D.O. 21 DE JUNIO DE 2017)</small>
+
 ###### Artículo 92.
 
-Las instituciones del sistema educativo estatal expedirán certificados y otorgarán constancias, diplomas, títulos o grados académicos a las personas que hayan concluido estudios, de conformidad con los requisitos establecidos en los planes y programas correspondientes. Dichos documentos de escolaridad, y los estudios que amparan, tendrán validez en toda la República, y las instituciones no podrán retenerlos, ni aún aduciendo motivos disciplinarios, incumplimiento en el pago de cuotas o cualesquier otras causas análogas imputables a los propios estudiantes, a sus familiares o a las personas de quienes dependan.
+Las instituciones del sistema educativo estatal expedirán certificados y otorgarán constancias, diplomas, títulos o grados académicos a las personas que hayan concluido estudios, de conformidad con los requisitos establecidos en los planes y programas correspondientes, los cuales deberán registrarse en el Sistema de Información y Gestión Educativa del Estado. Dichos documentos de escolaridad, y los estudios que amparan, tendrán validez en toda la República, y las instituciones no podrán retenerlos, ni aun aduciendo motivos disciplinarios, incumplimiento en el pago de cuotas o cualesquier otras causas análogas imputables a los propios estudiantes, a sus familiares o a las personas de quienes dependan.
 
 ###### Artículo 93.
 
@@ -2030,3 +2076,13 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 21 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 496/2017 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN".]
+
+###### ARTÍCULO ÚNICO.
+
+Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
