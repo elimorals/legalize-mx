@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-del-trabajo-95002"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-26"
-last_updated: "2013-06-26"
+last_updated: "2017-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO, PUBLICADO EN EL P.O. DE 21 DE JUNIO DE 2017; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS DIEZ DÍAS HÁBILES SIGUIENTES A SU PUBLICACIÓN.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 26 de junio de 2013.
 
@@ -31,7 +33,9 @@ Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad
 
 GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 70 FRACCIONES XVII Y XXVI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS; DE CONFORMIDAD CON LO DISPUESTO POR LOS ARTÍCULOS 2, 5, 9, 10 Y 36 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS; Y CON BASE EN LA SIGUIENTE:
 
-EXPOSICIÓN DE MOTIVOS.
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 Por lo anteriormente expuesto y fundado, he tenido a bien expedir el siguiente:
 
@@ -521,7 +525,7 @@ VII. Proponer al Secretario la delegación en servidores públicos subalternos d
 
 VIII. Desempeñar las comisiones que le confiera el Secretario.
 
-###### Articulo 22.
+###### Artículo 22.
 
 La persona titular de la Dirección General del Servicio Nacional del Empleo Morelos tendrá las siguientes:
 
@@ -699,7 +703,7 @@ PRIMERA. El presente Reglamento entrará en vigor al día siguiente de su public
 
 SEGUNDA. Se abroga el Reglamento Interior de la Secretaría de Trabajo publicado en el Periódico Oficial "Tierra y Libertad", número 4753, el cinco de noviembre del dos mil nueve, así como todas las disposiciones de igual ó menor rango jerárquico normativo que se opongan al presente Reglamento.
 
-TERCERA. En un plazo de noventa días hábiles, a partir de la vigencia del presente ordenamiento, la Secretaría del Trabajo en apego a la metodología que establezca la Secretaría de Administración del Poder Ejecutivo efectuará las modificaciones que sean necesarias a los Manuales de Organización, y de Políticas y Procedimientos correspondientes. En tanto se expidan dichos manuales, seguirán vigentes los anteriores y en su caso, el Secretario del Trabajo resolverá las cuestiones de procedimiento y operación que·se originen con la aplicación de este ordenamiento legal.
+TERCERA. En un plazo de noventa días hábiles, a partir de la vigencia del presente ordenamiento, la Secretaría del Trabajo en apego a la metodología que establezca la Secretaría de Administración del Poder Ejecutivo efectuará las modificaciones que sean necesarias a los Manuales de Organización, y de Políticas y Procedimientos correspondientes. En tanto se expidan dichos manuales, seguirán vigentes los anteriores y en su caso, el Secretario del Trabajo resolverá las cuestiones de procedimiento y operación que se originen con la aplicación de este ordenamiento legal.
 
 CUARTA. Dentro de un plazo de noventa días hábiles contados a partir de la vigencia del presente Reglamento, en medida que sea necesaria; se realizarán las modificaciones y adecuaciones necesarias a los reglamentos de los órganos desconcentrados de la Secretaría del Trabajo.
 
@@ -718,3 +722,27 @@ EL SECRETARIO DEL TRABAJO
 JOSÉ DE JESÚS PÉREZ
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO".]
+
+PRIMERA. El presente Reglamento iniciará su vigencia a los diez días hábiles siguientes a su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Dentro de un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Reglamento, la Secretaría del Trabajo deberá actualizar los Manuales Administrativos, descriptivos de puestos y demás instrumentos administrativos que correspondan.
+
+TERCERA. Se abroga el Reglamento Interior de la Secretaría del Trabajo, publicado en el Periódico Oficial "Tierra y Libertad", número 5099, el 26 de junio de 2013, así como se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente instrumento.
+
+CUARTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 11, fracción XXXV, y 18, fracción XXIII, del Reglamento Interior de la Secretaría de Gobierno; la Secretaría del Trabajo, dentro del plazo de diez días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente instrumento, debe informar a la diversa Secretaría de Gobierno, los cambios de denominación y supresión de las Unidades Administrativas de aquella, sufridos en virtud de este Reglamento, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+QUINTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Secretaría del Trabajo deberá realizar los trámites correspondientes para la identificación y asignación de plazas ante la diversa Secretaría de Administración, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
+
+SEXTA. Los asuntos que se encuentren en trámite a la entrada en vigor de este Reglamento a cargo de las Unidades Administrativas cuya denominación se modifica o cambia de adscripción, serán continuados en su tramitación por la Unidad Administrativa que corresponda, sin perjuicio de lo señalado en las disposiciones transitorias anteriores.
+
+SÉPTIMA. Los conflictos que se susciten por la aplicación e interpretación del presente Reglamento, serán resueltos por la persona titular de la Secretaría del Trabajo.
+
+OCTAVA. En los ordenamientos jurídicos y administrativos en que se hiciera referencia a la Dirección General Administrativa o a la Dirección General Jurídica, se entenderá que dicha referencia se hará a la Unidad de Enlace Financiero Administrativo y a la Unidad de Enlace Jurídico, respectivamente, o a la unidad administrativa que conforme al presente Reglamento u otra normativa resulte competente.
+
+NOVENA. En los ordenamientos jurídicos y administrativos en que se hiciera referencia a la Subsecretaría de Justicia y Equidad Laboral o a la Dirección General de Políticas Laborales, se entenderá que dichas referencias se harán a la Dirección General del Servicio Nacional de Empleo (sic) Morelos y la Dirección General de Conciliación, según corresponda, ambas de la Secretaría del Trabajo, o a la Unidad Administrativa que conforme al presente Reglamento u otra normativa resulte competente.
