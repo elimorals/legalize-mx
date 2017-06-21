@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-instituciones-y-procedimientos-electorales-de-la-1218
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-07"
-last_updated: "2017-06-07"
+last_updated: "2017-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121814&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2017-06-06"
 ---
 # CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MEXICO -- ANTES CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL --
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE JUNIO DE 2017 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
-CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL
+CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G. O. DE LA CIUDAD DE MÉXICO DEL 21 DE JUNIO DE 2017.]</small>
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de junio de 2017.
 
@@ -50,7 +50,9 @@ DECRETO QUE CONTIENE LAS OBSERVACIONES DEL JEFE DE GOBIERNO DE LA CIUDAD DE MÉX
 
 Se abroga el Código de Instituciones y Procedimientos Electorales del Distrito Federal y se expide el Código de Instituciones y Procedimientos Electorales de la Ciudad de México, para quedar como sigue:
 
-CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL
+> <small>(F. DE E., G.O. 21 DE JUNIO DE 2017)</small>
+
+CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES
 
@@ -204,11 +206,11 @@ II. Actos Anticipados de Precampaña. Son las expresiones que se realicen bajo c
 
 No se considerarán Actos Anticipados de Precampaña las actividades que desarrollen las personas titulares de cualquier puesto de elección popular que pretendan optar por contender en los procesos internos partidistas para buscar la reelección o cualquiera de sus colaboradores remunerados con recursos públicos siempre y cuando en dichos actos no se pronuncien expresiones proselitistas, propuestas de precampaña o cualquier expresión en el sentido del párrafo anterior.
 
-III. Violencia Política en Razón de Género. Es toda acción u omisión ejercida en contra de las personas, en el ámbito político o público, que tenga por objeto o resultado sesgar, condicionar, impedir, restringir, suspender, menoscabar, anular, obstaculizar, excluir o afectar el reconocimiento, acceso, goce o ejercicio de los derechos político electorales, así como el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o función en el poder público.
+> <small>(F. DE E., G.O. 21 DE JUNIO DE 2017)</small>
 
-Se manifiesta en presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad o de la vida en razón del género.
+III. Violencia Política. Es toda acción, omisión o conducta ejercida contra las personas, directa o indirectamente, que tiene por objeto o resultado sesgar, condicionar, impedir, restringir, suspender, menoscabar, anular, obstaculizar, excluir o afectar el reconocimiento, acceso, goce o ejercicio de los derechos político-electorales; la participación y representación política y pública; el desempeño de un cargo, actividad o responsabilidad y la toma de decisiones inherentes a los mismos; y las prerrogativas y funciones públicas; pudiéndose manifestar mediante cualquier modalidad de violencia contemplada en la Ley de Acceso de las Mujeres a una vida libre de violencia de la Ciudad de México, expresándose en los ámbitos político, público y privado, en los siguientes rubros:
 
-a) En el ámbito ciudadano; las instituciones y organizaciones públicas, políticas y electorales; aspiraciones y candidaturas en cualquier etapa del proceso electoral o de la participación ciudadana; el servicio público; los poderes ejecutivo, legislativo y judicial, todos los niveles de gobierno; así como las representaciones, liderazgos o participaciones en los contextos comunitarios, indígenas, rurales o urbanos.
+a) En el ámbito ciudadano; las instituciones y organizaciones públicas, políticas y electorales; aspiraciones y candidaturas en cualquier etapa del proceso electoral o de la participación ciudadana; el servicio público; los poderes ejecutivo, legislativo y judicial, todos los niveles de gobierno; así como las representaciones, liderazgos o participaciones en los contextos comunitarios; indígenas, rurales o urbanos.
 
 b) En la ciudadanía; simpatizantes, militantes, quien ejerza una función pública, de partidos o electorales; aspirantes a cargos políticos o públicos; precandidaturas, candidaturas, así como las candidaturas electas, de partidos políticos o sin partido; servidoras y servidores públicos designados y en funciones; representantes, líderes o participantes activos comunitarios e indígenas, rurales o urbanas.
 
@@ -230,7 +232,7 @@ VI. Plataforma electoral. Es aquella que para cada proceso electoral deben prese
 
 ###### Artículo 5.
 
-Las personas servidoras públicas de los órganos Ejecutivo, Legislativo y Judicial de carácter local, de los órganos político-administrativos, de los organismos descentralizados y de los órganos autónomos de la Ciudad de México, tienen en todo tiempo la prohibición de utilizar los recursos públicos que están bajo su responsabilidad, para influir en la equidad de la competencia entre los partidos políticos, candidatos o precandidatos.
+Las personas servidoras públicas de los órganos Ejecutivo, Legislativo y Judicial de carácter local, de los órganos político–administrativos, de los organismos descentralizados y de los órganos autónomos de la Ciudad de México, tienen en todo tiempo la prohibición de utilizar los recursos públicos que están bajo su responsabilidad, para influir en la equidad de la competencia entre los partidos políticos, candidatos o precandidatos.
 
 De igual modo, la difusión que por los diversos medios realicen, bajo cualquier modalidad de comunicación social, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso la comunicación incluirá nombres, imágenes, colores, voces, símbolos o emblemas que impliquen promoción personalizada de cualquier persona servidora pública o que se relacionen con cualquier aspirante a alguna candidatura, persona candidata, Partido Político Nacional o local.
 
@@ -542,7 +544,7 @@ Los requisitos para ser concejal serán los mismos que para las personas titular
 
 A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral u otros procesos simultáneos, sean federales, estatales o de la Ciudad de México. En este supuesto, si el registro para el cargo de la elección para la Ciudad de México estuviere hecho, se procederá a la cancelación automática del registro respectivo.
 
-Los Partidos Políticos podrán registrar hasta cinco fórmulas de candidatos a Diputadas y Diputados del Congreso de la Ciudad de México que contiendan simultáneamente por los principios de mayoría relativa y de representación proporcional, y en un mismo proceso electoral. En el supuesto de (sic) alguna de estas cinco fórmulas tenga derecho a que le sea asignada una diputación por el principio de representación proporcional y que tal asignación se repita por aparecer en la lista "A" y en la lista "B", será considerada en la que esté mejor posicionada. El lugar que dicha fórmula deje vacante, será ocupado por la fórmula siguiente en el orden de prelación de la lista definitiva.
+Los Partidos Políticos podrán registrar hasta cinco fórmulas de candidatos a Diputadas y Diputados del Congreso de la Ciudad de México que contiendan simultáneamente por los principios de mayoría relativa y de representación proporcional, y en un mismo proceso electoral. En el supuesto de (sic) alguna de estas cinco fórmulas tenga derecho a que le sea asignada una diputación por el principio de representación proporcional y que tal asignación se repita por aparecer en la lista “A” y en la lista “B”, será considerada en la que esté mejor posicionada. El lugar que dicha fórmula deje vacante, será ocupado por la fórmula siguiente en el orden de prelación de la lista definitiva.
 
 Salvo en el caso de Diputados al Congreso, los partidos políticos procurarán no registrar candidatos, que habiendo participado en una precampaña por un partido, pretendan ser registrados por otro en el mismo proceso electoral.
 
@@ -550,7 +552,7 @@ Salvo en el caso de Diputados al Congreso, los partidos políticos procurarán n
 
 Por cada candidato propietario para ocupar un cargo se elegirá un suplente, quien deberá ser del mismo género. Del total de fórmulas de candidaturas a Diputadas o Diputados por el principio de mayoría relativa y de candidatos a Acaldes y Concejales que postulen los Partidos Políticos ante el Instituto Electoral, en ningún caso podrán registrar más de cincuenta por ciento de un mismo género.
 
-Las listas de representación proporcional que presenten los Partidos Políticos y Coaliciones, se integrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género. En cada lista se alternarán las fórmulas de distinto género para garantizar el principio de paridad hasta agotar cada una de las listas. Posteriormente se intercalará la lista "A" y la "B", para crear la lista definitiva en términos del presente Código.
+Las listas de representación proporcional que presenten los Partidos Políticos y Coaliciones, se integrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género. En cada lista se alternarán las fórmulas de distinto género para garantizar el principio de paridad hasta agotar cada una de las listas. Posteriormente se intercalará la lista “A” y la “B”, para crear la lista definitiva en términos del presente Código.
 
 Los partidos políticos podrán registrar las fórmulas de candidatos que hubieren ocupado el cargo que se postularán para contender a ser reelectos.
 
@@ -626,7 +628,7 @@ IV. Resto mayor por alcaldía: Es el remanente más alto entre los restos de las
 
 En la asignación de las Diputaciones electas por el principio de representación proporcional tendrán derecho a participar los Partidos Políticos debidamente registrados, que cumplan los requisitos siguientes:
 
-I. Registrar una Lista "A", con 17 fórmulas de candidatos a Diputadas y Diputados a elegir por el principio de representación proporcional, conforme a lo que se estipula en el presente Código.
+I. Registrar una Lista “A”, con 17 fórmulas de candidatos a Diputadas y Diputados a elegir por el principio de representación proporcional, conforme a lo que se estipula en el presente Código.
 
 II. Obtener cuando menos el tres por cierto de la votación válida emitida;
 
@@ -1912,7 +1914,7 @@ XV. Tramitar y sustanciar los procedimientos administrativos sancionadores; elab
 
 XVI. Resolver los Procedimientos Laborales Disciplinarios de los integrantes del Servicio Profesional Electoral; y
 
-XVII. Dar seguimiento, a través de la Oficina de Gestión de Calidad, al "Sistema de Gestión de Calidad Electoral del Instituto Electoral de la Ciudad de México";
+XVII. Dar seguimiento, a través de la Oficina de Gestión de Calidad, al “Sistema de Gestión de Calidad Electoral del Instituto Electoral de la Ciudad de México”;
 
 XVIII. Podrá instruir al Órgano de Enlace el cambio de adscripción, por necesidades del servicio, en los casos expresamente previstos en el Estatuto del Servicio;
 
@@ -5416,7 +5418,7 @@ i) Las empresas mexicanas de carácter mercantil.
 
 III. Las y los Candidatos sin partido no podrán solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades. Tampoco podrán recibir aportaciones de personas no identificadas;
 
-IV. Todo egreso deberá cubrirse con cheque nominativo o transferencia electrónica. En el caso de los pagos por la prestación de bienes o servicios, adicionalmente el cheque deberá contener la leyenda "para abono en cuenta del beneficiario". Las pólizas de los cheques deberán conservarse anexas a la documentación comprobatoria junto con la copia del cheque a que se hace referencia;
+IV. Todo egreso deberá cubrirse con cheque nominativo o transferencia electrónica. En el caso de los pagos por la prestación de bienes o servicios, adicionalmente el cheque deberá contener la leyenda “para abono en cuenta del beneficiario”. Las pólizas de los cheques deberán conservarse anexas a la documentación comprobatoria junto con la copia del cheque a que se hace referencia;
 
 V. Los comprobantes que amparen los egresos que realicen las y los candidatos sin partido, deberán ser expedidos a su nombre y constar en original como soporte a los informes financieros de las campañas electorales, los cuales estarán a disposición de la unidad de fiscalización del Instituto Nacional para su revisión de conformidad con lo dispuesto en esta (sic) código. Dicha documentación deberá cumplir con los requisitos que exigen las disposiciones fiscales aplicables, así como las establecidas por el Reglamento de Fiscalización expedido por el Instituto Nacional;
 
@@ -6788,7 +6790,7 @@ III. Los nombramientos de los representantes se harán en hoja membretada del Pa
 
 IV. Durante el plazo para su registro los Partidos Políticos, Coaliciones y Candidatos sin partido podrán sustituir libremente a sus representantes, posteriormente sólo por causa de fuerza mayor;
 
-Los representantes de los Partidos Políticos y de Candidatos sin partido ante las Mesas Directivas de Casilla y generales, podrán firmar sus nombramientos hasta antes de acreditarse en la casilla; asimismo, deberán portar en lugar visible durante todo el día de la jornada electoral, un distintivo de hasta 2.5 por 2.5 centímetros, con el emblema del Partido Político o Candidato sin partido al que pertenezcan o representen y con la leyenda visible de "representante";
+Los representantes de los Partidos Políticos y de Candidatos sin partido ante las Mesas Directivas de Casilla y generales, podrán firmar sus nombramientos hasta antes de acreditarse en la casilla; asimismo, deberán portar en lugar visible durante todo el día de la jornada electoral, un distintivo de hasta 2.5 por 2.5 centímetros, con el emblema del Partido Político o Candidato sin partido al que pertenezcan o representen y con la leyenda visible de “representante”;
 
 Para garantizar a los representantes ante la Mesa Directiva de Casilla y a los generales el ejercicio de los derechos que les otorga este Código, se imprimirá al reverso del nombramiento el texto de los artículos que correspondan.
 
@@ -7587,3 +7589,9 @@ El orden en el que se presenten los candidatos a concejales en las planillas ser
 Recinto de la Asamblea Legislativa del Distrito Federal, a los seis días del mes de junio del año dos mil diecisiete.-POR LA MESA DIRECTIVA.- DIP. MAURICIO ALONSO TOLEDO GUTIÉRREZ, PRESIDENTE.- DIP. REBECA PERALTA LEÓN, SECRETARIA.- DIP. LUCIANO JIMENO HUANOSTA, SECRETARIO.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los seis días del mes de junio del año dos mil diecisiete.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE DE JESÚS GUTIÉRREZ GUTIÉRREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, SALOMÓN CHERTORIVSKI WOLDENBERG.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, TANYA MÜLLER GARCÍA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, EDGAR OSWALDO TUNGÜI RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE MOVILIDAD, HÉCTOR SERRANO CORTES.- FIRMA.- EL SECRETARIO DE TURISMO, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE CULTURA, EDUARDO VÁZQUEZ MARTÍN.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, FAUSTO LUGO GARCÍA.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, AMALIA DOLORES GARCÍA MEDINA.- FIRMA. EL SECRETARIO DE EDUCACIÓN, MAURICIO RODRÍGUEZ ALONSO.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL, Y EQUIDAD PARA LAS COMUNIDADES, ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- EL SECRETARIO DE FINANZAS, EDGAR ABRAHAM AMADOR ZAMORA. FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN, RENÉ RAÚL DRUCKER COLÍN.- FIRMA.
+
+G.O. 21 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DE LA “NOTA ACLARATORIA AL DECRETO QUE CONTIENE LAS OBSERVACIONES DEL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO RESPECTO DEL DIVERSO POR EL QUE SE ABROGA EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL Y LA LEY PROCESAL ELECTORAL DEL DISTRITO FEDERAL Y SE EXPIDE EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO Y LA LEY PROCESAL ELECTORAL PARA (SIC) CIUDAD DE MÉXICO; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL Y DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL DÍA 7 DE JUNIO DE 2017, TOMO II”.]
+
+ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
