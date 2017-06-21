@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2016-10-26"
+last_updated: "2017-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -427,6 +427,14 @@ La coordinación se hará en los términos del Artículo 21, décimo párrafo, d
 
 Cuando las acciones conjuntas sean para perseguir delitos, se cumplirán sin excepción los requisitos previstos en los ordenamientos constitucionales y legales, así como en los convenios aplicables.
 
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2017)</small>
+
+###### Artículo 32 Bis.
+
+La Secretaría de Seguridad Pública del Estado y los municipios en conjunto con la federación llevarán un padrón de aficionados violentos o que hayan participado en riñas dentro de los espectáculos deportivos, mismos que se incorporarán a la base de datos del Sistema Nacional de Seguridad, cuya confidencialidad se realizará de conformidad a la Ley de la materia.
+
+Además dicha Secretaría emitirá un código rojo que permitirá identificar a los aficionados que hayan cometido el delito de violencia en espectáculos deportivos para su registro, mismos que les permitirán a los administradores negarles el acceso a las instalaciones.
+
 ### CAPÍTULO SEGUNDO. DEL CONSEJO DE COORDINACIÓN DEL SISTEMA INTEGRAL DE SEGURIDAD PÚBLICA DEL ESTADO
 
 ###### Artículo 33.
@@ -817,7 +825,7 @@ X. Graficar la información que se genera con la realización de estudios o encu
 
 El Instituto realizará y promoverá estudios de investigación criminológica con el propósito de facilitar la comprensión del fenómeno delictivo, de las conductas antisociales y de las infracciones administrativas. Así mismo, establecerá los lineamientos para la aplicación de encuestas de victimización y de técnicas específicas para la cuantificación de delitos no denunciados ni reportados a las Instituciones Policiales.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 #### SECCIÓN SEGUNDA. DE LA COORDINACIÓN DEL SISTEMA ESTATAL DE INFORMACIÓN PARA LA SEGURIDAD PÚBLICA
 
@@ -1673,7 +1681,7 @@ b) De actuación veraz, por ofrecer respuestas pertinentes, factibles y proporci
 
 c) Responsable al establecer misiones y objetivos estrictamente determinados, subordinados a la planeación y a la estrategia.
 
-IV. Principio de Actuación Científica: Consiste en que las Instituciones Policiales del Estado están vinculadas al manejo de las tecnologías de la información y comunicación, como instrumentos para la obtención información veraz y generación de inteligencia, a fin prevenir (sic) conductas delictivas y llevar a cabo acciones de reacción precisas y responsables ante la comisión de delitos. Se integra por los siguientes elementos:
+IV. Principio de Actuación Científica: Consiste en que las Instituciones Policiales del Estado están vinculadas al manejo de las tecnologías de la información y comunicación, como instrumentos para la obtención información veraz y generación de inteligencia, a fin (sic) prevenir conductas delictivas y llevar a cabo acciones de reacción precisas y responsables ante la comisión de delitos. Se integra por los siguientes elementos:
 
 a) Modernidad: que consiste en que la policía está actualizada en la utilización y manejo de los sistemas más avanzados de información y comunicación, así como en los procesos en la prevención y el combate de delitos y faltas administrativas;
 
@@ -2481,7 +2489,7 @@ En materia de capacitación además conocerán los medios que puedan sustituir e
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2013)</small>
 
-###### Articulo 171.
+###### Artículo 171.
 
 Cuando el empleo de las armas de fuego sea inevitable, los integrantes de las Instituciones Policiales encargadas de hacer cumplir la ley reducirán al mínimo las lesiones, asimismo respetarán y protegerán la vida humana, para ello:
 
@@ -2761,7 +2769,7 @@ En términos de las disposiciones aplicables, los titulares de las Instituciones
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-###### Articulo 198 Bis 3.
+###### Artículo 198 Bis 3.
 
 Dentro del Servicio de Carrera de la Policía sólo se podrá ingresar, permanecer y ascender a la categoría o jerarquía inmediata superior y ser separado, en los términos y las condiciones que establece esta Ley, y el Reglamento correspondiente.
 
@@ -3247,7 +3255,7 @@ Así mismo, las autoridades municipales podrán participar conjuntamente con la 
 
 (DEROGADO, P.O. 19 DE ENERO DE 2013)
 
-###### Articulo 206.
+###### Artículo 206.
 
 (DEROGADO, P.O. 19 DE ENERO DE 2013)
 
@@ -3758,3 +3766,9 @@ P.O. 26 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 156. SE ADICIONA UNA FRACCIÓN III, PASANDO LA ACTUAL TERCERA A SER LA CUARTA, RECORRIÉNDOSE LAS DEMÁS FRACCIONES EN SU ORDEN, TODAS DEL ARTÍCULO 155 DE LA LEY DE SEGURIDAD PÚBLICA; Y SE ADICIONA UNA FRACCIÓN XVII, PASANDO LA ACTUAL XVII A SER LA XVIII RECORRIÉNDOSE LAS DEMÁS FRACCIONES EN SU ORDEN, TODAS DEL ARTÍCULO 6 DE LA LEY DE LA INSTITUCIÓN POLICIAL ESTATAL FUERZA CIVIL AMBOS DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El Presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León
+
+P.O. 21 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 265. SE REFORMA EL ARTÍCULO 331 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN; SE ADICIONA UN ARTÍCULO 32 BIS (SIC) LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN, SE REFORMAN LAS FRACCIONES XII Y XIII, ASIMISMO SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 15 DE LA LEY DE PROTECCIÓN CIVIL PARA EL DEL (SIC) ESTADO DE NUEVO LEÓN; SE REFORMAN LAS FRACCIONES XVI Y XVII AL ARTÍCULO 9; POR MODIFICACIÓN EL NOMBRE DEL CAPÍTULO III; ASÍ MISMO SE ADICIONA UNA FRACCIÓN XVIII AL ARTÍCULO 9; Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 10, TODOS DE LA LEY PARA LA PROMOCIÓN DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
