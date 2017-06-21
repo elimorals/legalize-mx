@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-mejora-regulatoria-del-estado-y-municipios-de-oaxaca-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-02"
-last_updated: "2017-05-20"
+last_updated: "2017-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "OAX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+[N DE E. DE CONFORMIDAD CON LO ORDENADO POR LA SOBERANÍA CONSTITUCIONAL, EN EL DECRETO NÚM. 603 Y DE ACUERDO CON LOS ARTÍCULOS 79, FRACCIÓN II Y 53 FRACCIÓN VI, PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECEN LAS FACULTADES DE VETO AL PODER EJECUTIVO Y DE PROMULGAR Y PUBLICAR LA PARTE VETADA, OBEDECIENDO AL MANDATO CONSTITUCIONAL, EN CONSECUENCIA SE PUBLICA EL DECRETO EN EL P.O. DE 21 DE JUNIO DE 2017.]
+
 LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2017.
 
 Ley publicada en Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de mayo de 2014.
 
@@ -75,43 +77,87 @@ I. Administración Pública Estatal: Es la función que desarrolla el Poder Ejec
 
 II. Administración Pública Municipal: Es la función que realiza el Ayuntamiento para el estudio y despacho de los asuntos de su competencia y se clasifica en Centralizada y Paramunicipal, de conformidad con lo señalado por los artículos 87, 88 y 101 de la Ley Orgánica Municipal del Estado de Oaxaca.
 
-III. Ayuntamientos: Instancias de gobierno de la Administración Pública Municipal;
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 21 DE JUNIO DE 2017)</small>
 
-IV. Comisión: A la Comisión de Mejora Regulatoria del Estado de Oaxaca;
+III. Agenda Digital Estatal: Instrumento rector que contiene la planeación, los objetivos y los lineamientos estratégicos para la aplicación y conducción de las políticas y las acciones de los sujetos obligados por la presente Ley, en materia de Gobierno Digital, a través del uso y aprovechamiento de las tecnologías de la información y comunicación, conforme a las políticas y disposiciones normativas de la materia, dictadas por el ente competente.
 
-V. Consejo: Consejo Estatal de Mejora Regulatoria.
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 21 DE JUNIO DE 2017)</small>
 
-VI. Dependencias: A las dependencias de las administraciones públicas estatal y municipales, incluidos sus organismos públicos descentralizados y entidades paraestatales;
+IV. Ayuntamientos: Instancias de gobierno de la Administración Pública Municipal;
 
-VII. Desregulación: Componente de la mejora regulatoria que se refiere a la eliminación parcial o total de la regulación vigente que inhibe o dificulta el desempeño de la actividad económica en la entidad;
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 21 DE JUNIO DE 2017)</small>
 
-VIII. Disposiciones de carácter general: Reglamentos, decretos, normas técnicas, bandos, acuerdos, circulares y demás disposiciones administrativas, que afecten la esfera jurídica de los particulares;
+V. Comisión: A la Comisión de Mejora Regulatoria del Estado de Oaxaca;
 
-IX. Ejecutivo del Estado: Gobernador Constitucional del Estado de Oaxaca;
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 21 DE JUNIO DE 2017)</small>
 
-X. Enlace de Mejora Regulatoria: Servidor público designado por el titular de la institución respectiva, como responsable de la mejora regulatoria al interior de la misma;
+VI. Consejo: Consejo Estatal de Mejora Regulatoria.
 
-XI. Gobierno Digital: Al Sistema Electrónico de Trámites y Servicios por el que un particular puede realizar un trámite o un servicio desde la red internacional de computadoras (INTERNET).
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 21 DE JUNIO DE 2017)</small>
 
-XII. Ley: Ley para la Mejora Regulatoria del Estado y Municipios de Oaxaca;
+VII. Dependencias: A las dependencias de las administraciones públicas estatal y municipales, incluidos sus organismos públicos descentralizados y entidades paraestatales;
 
-XIII. Manifestación de impacto: Manifestación de Impacto Regulatorio;
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 21 DE JUNIO DE 2017)</small>
 
-XIV. Mejora Regulatoria: Política pública de proceso continuo de revisión y reforma de las disposiciones de carácter general que, además de promover la desregulación de procesos administrativos, provee la actualización y mejora constante de la regulación vigente;
+VIII. Desregulación: Componente de la mejora regulatoria que se refiere a la eliminación parcial o total de la regulación vigente que inhibe o dificulta el desempeño de la actividad económica en la entidad;
 
-XV. Reglamento: Reglamento de la Ley de Mejora Regulatoria;
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 21 DE JUNIO DE 2017)</small>
 
-XVI. Registro: Registro Estatal de Trámites y Servicios;
+IX. Disposiciones de carácter general: Reglamentos, decretos, normas técnicas, bandos, acuerdos, circulares y demás disposiciones administrativas, que afecten la esfera jurídica de los particulares;
 
-XVII. SARE: Sistema de Apertura Rápida de Empresas;
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 21 DE JUNIO DE 2017)</small>
 
-XVIII. Servicio: Toda aquella acción que realiza la autoridad para brindar a los particulares un beneficio, iniciar procedimientos o una consulta, conforme a sus atribuciones;
+X. Ejecutivo del Estado: Gobernador Constitucional del Estado de Oaxaca;
 
-XIX. Sistema: El Sistema Electrónico de Trámites y Servicios;
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 21 DE JUNIO DE 2017)</small>
 
-XX. Trámite: Solicitud o gestión que realizan las personas físicas o morales, con base en un ordenamiento jurídico, ya sea para cumplir una obligación que tiene a su cargo, o bien para obtener información, un beneficio, un servicio o una resolución, y que la autoridad a que se refiere el propio ordenamiento está obligada a resolver en los términos del mismo;
+XI. Enlace de Mejora Regulatoria: Servidor público designado por el titular de la institución respectiva, como responsable de la mejora regulatoria al interior de la misma;
 
-XXI. Ventanilla Única: Espacio físico o electrónico en el que se concentran todos los trámites necesarios para el cumplimiento de un proceso ante las autoridades de los tres órdenes de gobierno.
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 21 DE JUNIO DE 2017)</small>
+
+XII. Gobierno Digital: Al Sistema Electrónico de Trámites y Servicios por el que un particular puede realizar un trámite o un servicio desde la red internacional de computadoras (INTERNET).
+
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 21 DE JUNIO DE 2017)</small>
+
+XIII. Ley: Ley para la Mejora Regulatoria del Estado y Municipios de Oaxaca;
+
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 21 DE JUNIO DE 2017)</small>
+
+XIV. Manifestación de impacto: Manifestación de Impacto Regulatorio;
+
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 21 DE JUNIO DE 2017)</small>
+
+XV. Mejora Regulatoria: Política pública de proceso continuo de revisión y reforma de las disposiciones de carácter general que, además de promover la desregulación de procesos administrativos, provee la actualización y mejora constante de la regulación vigente;
+
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 21 DE JUNIO DE 2017)</small>
+
+XVI. Reglamento: Reglamento de la Ley de Mejora Regulatoria;
+
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 21 DE JUNIO DE 2017)</small>
+
+XVII. Registro: Registro Estatal de Trámites y Servicios;
+
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 21 DE JUNIO DE 2017)</small>
+
+XVIII. SARE: Sistema de Apertura Rápida de Empresas;
+
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 21 DE JUNIO DE 2017)</small>
+
+XIX. Servicio: Toda aquella acción que realiza la autoridad para brindar a los particulares un beneficio, iniciar procedimientos o una consulta, conforme a sus atribuciones;
+
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 21 DE JUNIO DE 2017)</small>
+
+XX. Sistema: El Sistema Electrónico de Trámites y Servicios;
+
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 21 DE JUNIO DE 2017)</small>
+
+XXI. Trámite: Solicitud o gestión que realizan las personas físicas o morales, con base en un ordenamiento jurídico, ya sea para cumplir una obligación que tiene a su cargo, o bien para obtener información, un beneficio, un servicio o una resolución, y que la autoridad a que se refiere el propio ordenamiento está obligada a resolver en los términos del mismo,
+
+> <small>(ADICIONADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 21 DE JUNIO DE 2017)</small>
+
+XXII. Ventanilla Única: Espacio físico o electrónico en el que se concentran todos los trámites necesarios para el cumplimiento de un proceso ante las autoridades de los tres órdenes de gobierno.
+
+[El contenido del Artículo 3, se publica con las observaciones realizadas por el Titular del Poder Ejecutivo, por oficio GEO/041/2017, de fecha 15 de mayo de 2017, recibido el 18 del mismo mes y año, en el Poder Legislativo, de conformidad con lo dispuesto en el párrafo segundo de la fracción VI del Artículo 53, de la Constitución Política del Estado Libre y Soberano de Oaxaca.]
 
 ## TÍTULO SEGUNDO. DE LA MEJORA REGULATORIA
 
@@ -217,7 +263,11 @@ III. Promueva que los trámites generen los mínimos costos de cumplimiento;
 
 IV. Fomente la transparencia y el proceso de consulta pública en la elaboración de la regulación;
 
-V. Fortalezca el Gobierno Digital para los trámites de mayor demanda;
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 21 DE JUNIO DE 2017)</small>
+
+V. Impulse la Agenda Digital Estatal como el instrumento efectivo de comunicación, considerando prioritariamente los trámites de mayor demanda, implementando para ello las políticas y disposiciones normativas de la materia, dictadas por el ente competente;
+
+[El contenido de la fracción V del Artículo 6, se publica con las observaciones realizadas por el Titular del Poder Ejecutivo, por oficio GEO/041/2017, de fecha 15 de mayo de 2017, recibido el 18 del mismo mes y año, en el Poder Legislativo, de conformidad con lo dispuesto en el párrafo segundo de la fracción VI del Artículo 53, de la Constitución Política del Estado Libre y Soberano de Oaxaca.]
 
 VI. Asegure la igualdad de trato entre los entes o individuos regulados independientemente de su origen étnico, lengua, género, religión o estatus socioeconómico, además de que las regulaciones sean publicadas en un lenguaje comprensible por los mismos;
 
@@ -486,6 +536,12 @@ V. Promover mecanismos de coordinación y concertación entre las dependencias f
 ###### Artículo 20.
 
 Las dependencias estatales enviarán su Programa Anual de Mejora Regulatoria a la Comisión Estatal, a efecto de ser analizado y, en su caso, aprobado durante la primera sesión del año siguiente.
+
+> <small>[N. DE E. VÉASE PÁGINA 2, P.O. 21 DE JUNIO DE 2017]</small>
+
+###### Artículo 20 Bis.
+
+[Se suprime el Artículo 20 Bis; de conformidad con las observaciones realizadas por el Titular del Poder Ejecutivo, por oficio GEO/041/2017, de fecha 15 de mayo de 2017, recibido el 18 del mismo mes y año, en el Poder Legislativo, de conformidad con lo dispuesto en el párrafo segundo de la fracción VI del Artículo 53, de la Constitución Política del Estado Libre y Soberano de Oaxaca.]
 
 ## TÍTULO TERCERO. DE LOS PROCESOS DE MEJORA REGULATORIA
 
@@ -991,7 +1047,7 @@ TERCERO.- El presente Decreto deroga todas las disposiciones legales o administr
 
 P.O. 20 DE MAYO DE 2017.
 
-## [N. DE E. TRANSITORIOS DE LAS “PARTES NO VETADAS.- DEL DECRETO NÚMERO 603, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE OAXACA; DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA Y DE LA LEY ESTATAL DE PLANEACIÓN.
+## [N. DE E. TRANSITORIOS DE LAS "PARTES NO VETADAS.- DEL DECRETO NÚMERO 603, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE OAXACA; DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA Y DE LA LEY ESTATAL DE PLANEACIÓN.
 
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -999,7 +1055,9 @@ SEGUNDO. La Junta de Gobierno de la Comisión deberá quedar instalada dentro de
 
 La Comisión deberá expedir su Reglamento Interno dentro de los treinta días naturales siguientes, al día de su instalación.
 
-TERCERO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por la Secretaría de Administración respecto a la Dirección de Tecnologías de la Información, así como las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de Dirección de Tecnologías de la Información se entenderán subrogadas, contraídas y referidas, por el Área administrativa de la Secretaría de Finanzas que lleve a cabo las atribuciones correspondientes a tecnologías de la información, que por esta reforma se le atribuyen a la citada Secretaría de Finanzas.
+> <small>[N. DE E. VÉASE PÁGINA 2, P.O. 21 DE JUNIO DE 2017]</small>
+
+TERCERO. [Se suprime el ARTÍCULO TERCERO del Decreto 603; de conformidad con las observaciones realizadas por el Titular del Poder Ejecutivo, por oficio GEO/041/2017, de fecha 15 de mayo de 2017, recibido el 18 del mismo mes y año, en el Poder Legislativo, de conformidad con lo dispuesto en el párrafo segundo de la fracción VI del Artículo 53, de la Constitución Política del Estado Libre y Soberano de Oaxaca.]
 
 CUARTO. Los recursos humanos, financieros y materiales que venía utilizando la Dirección de Tecnologías de la Información, de la Secretaría de Administración, se transferirán en un plazo no mayor a treinta días hábiles, al Área administrativa de la Secretaría de Finanzas que lleve a cabo las atribuciones correspondientes a tecnologías de la información, debiendo intervenir en el ámbito de sus competencias, la Secretaría de Finanzas, la Secretaría de Administración y la Secretaría de la Contraloría y Transparencia Gubernamental.
 
@@ -1014,3 +1072,7 @@ OCTAVO. Se faculta al Titular de la Secretaría de Finanzas para que, en términ
 Las Secretarías citadas en el párrafo que antecede, en uso de sus facultades legales, realizarán todos los actos concernientes para el debido cumplimiento de la presente reforma.
 
 NOVENO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se le opongan, aun cuando no estén expresamente derogadas.
+
+P.O. 21 DE JUNIO DE 2017.
+
+[EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA.]
