@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-de-la-comision-estatal-de-arbitraje-medico-69
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-07-29"
-last_updated: "2014-11-19"
+last_updated: "2017-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "MOR"
 ---
 # ESTATUTO ORGANICO DE LA COMISION ESTATAL DE ARBITRAJE MEDICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA SEGUNDA DISPOSICIÓN TRANSITORIA DEL ESTATUTO ORGÁNICO DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO, PUBLICADO EN EL P.O. DE 21 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2017 (ABROGADO).
 
 Estatuto publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de julio de 2009.
 
 MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS ATRIBUCIONES QUE ME CONFIEREN LOS ARTÍCULOS 70 FRACCIONES XVII Y XXVI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, 2, 8 Y 9 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo antes expuesto y fundado he tenido a bien expedir el siguiente
 
@@ -642,3 +646,21 @@ SEGUNDA. Se derogan todas las disposiciones de igual o menor rango que contraven
 TERCERA. Inscríbase el presente Decreto en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por los artículos 78, penúltimo párrafo, y 86, fracción II, de la Ley Orgánica de la Administración Pública del Estado de Morelos.
 
 CUARTA. Dentro de un plazo de 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán modificar los Manuales de Organización, y de Políticas y Procedimientos y demás normativa interna de la Comisión.
+
+P.O. 21 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO."]
+
+PRIMERA. El presente Decreto entrará en vigor a los cinco días hábiles siguientes de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el Estatuto Orgánico de la Comisión Estatal de Arbitraje Médico, publicado en el Periódico Oficial "Tierra y Libertad" número 4730, de fecha veintinueve de julio de 2009, y se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que contravengan al presente Estatuto Orgánico.
+
+TERCERA. Inscríbase el presente Estatuto Orgánico en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por los artículos 78, penúltimo párrafo, y 86, fracción II, de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+CUARTA. Dentro de un plazo de 120 días hábiles, contados a partir de la entrada en vigor del presente Estatuto Orgánico se deberán modificar los Manuales Administrativos y demás normativa interna de la Comisión, en tanto sucede esto, se mantendrán vigentes los actuales, en lo que no se opongan al presente instrumento, con la aplicación por cada unidad administrativa, según su ámbito de competencia.
+
+QUINTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 6, fracción VII, y 18, fracción XXIII, del Reglamento Interior de la Secretaría de Gobierno; la Comisión Estatal de Arbitraje Médico, dentro del plazo de cinco días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente Instrumento, debe informar a la citada Secretaría de Gobierno, los cambios de denominación y supresión de las áreas de aquella, sufridos en virtud de este instrumento, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+SEXTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Comisión Estatal de Arbitraje Médico deberá realizar los trámites correspondientes para la identificación y asignación de plazas, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
+
+SÉPTIMA. En un plazo no mayor a treinta días hábiles, contados a partir de la entrada en vigor del presente Estatuto Orgánico, deberá instalarse el Subcomité de Adquisiciones, Arrendamientos y Servicios de la Comisión Estatal de Arbitraje Médico.
