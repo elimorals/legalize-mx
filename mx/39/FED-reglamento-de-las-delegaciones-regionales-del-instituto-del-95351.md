@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-las-delegaciones-regionales-del-instituto-del-953
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-12"
-last_updated: "2013-08-12"
+last_updated: "2017-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95351&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-07-15"
 ---
 # REGLAMENTO DE LAS DELEGACIONES REGIONALES DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LOS LINEAMIENTOS DE OPERACIÓN DE LAS DELEGACIONES REGIONALES DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADOS EN EL D.O.F. DE 21 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LAS DELEGACIONES REGIONALES DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JUNIO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 12 de agosto de 2013.
 
@@ -176,3 +178,21 @@ Este Reglamento entrará en vigor al día siguiente de su publicación en el Dia
 Atentamente
 
 Dado en la Ciudad de México, Distrito Federal, a los quince días del mes de julio del año dos mil trece, en cumplimiento al Acuerdo número 1626, tomado en la sesión ordinaria número 105 de la H. Asamblea General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.- El Secretario General, Alejandro Lozano Botello.- Rúbrica.- El Secretario Técnico de Órganos Colegiados, Javier Delgado Parra.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 21 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE ABROGA EL REGLAMENTO DE LAS DELEGACIONES REGIONALES DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y SE EMITEN LOS LINEAMIENTOS DE OPERACIÓN DE LAS DELEGACIONES REGIONALES DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Los presentes Lineamientos de Operación de las Delegaciones Regionales del Instituto del Fondo Nacional de la Vivienda para los Trabajadores abrogan el Reglamento de Delegaciones Regionales del Instituto del Fondo Nacional de la Vivienda para los Trabajadores aprobado mediante el Acuerdo número 1626, tomado en la sesión ordinaria número 105 de la H. Asamblea General, celebrada los días 25 y 30 de abril de 2013, publicado en el Diario Oficial de la Federación el 12 de agosto de 2013.
+
+###### ARTÍCULO SEGUNDO.
+
+Estos Lineamientos de Operación entrarán en vigor a partir de su aprobación en la sesión ordinaria número 114 de la H. Asamblea General del Infonavit, celebrada el día 28 de abril de 2017.
+
+###### ARTÍCULO TERCERO.
+
+Se ordena su publicación en el Diario Oficial de la Federación.
