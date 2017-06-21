@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-civil-para-el-estado-de-nuevo-leon-22837"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-22"
-last_updated: "2016-12-06"
+last_updated: "2017-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de enero de 1997.
 
@@ -221,9 +221,17 @@ X. Elaborar, publicar y distribuir material informativo de protección civil, a 
 
 XI. Convocar y coordinar con pleno respeto a sus respectivas atribuciones, la participación de las Dependencias Federales establecidas en la Entidad;
 
-XII. Recibir, estudiar y en su caso aprobar, el informe anual de los trabajos del Consejo; y
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2017)</small>
 
-XIII. Las demás atribuciones afines a éstas, que le sean encomendadas por el Gobernador del Estado, o que establezcan las Leyes y sus reglamentos.
+XII. Recibir, estudiar y en su caso aprobar, el informe anual de los trabajos del Consejo;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2017)</small>
+
+XIII. Realizar recomendaciones de posibles riesgos en espectáculos deportivos y actuar en conjunto con las actividades municipales para la implementación de medidas para la seguridad de las personas que acuden a los eventos deportivos, así como para la protección de bienes; y
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2017)</small>
+
+XIV. Las demás atribuciones afines a estas, que le sean encomendadas por el Gobernador del Estado, o que establezcan las Leyes y sus reglamentos.
 
 ###### Artículo 16.
 
@@ -1110,3 +1118,9 @@ Segundo.- Se derogan todas aquellas disposiciones que contravengan el presente D
 Tercero.- En un término que no exceda los 120 días naturales a partir de la entrada en vigor del presente Decreto, los Ayuntamientos, en el ámbito de sus respectivas competencias realizarán las adecuaciones a las disposiciones reglamentarias vinculadas con el presente Decreto.
 
 Cuarto.- La Dirección de Protección Civil Estatal deberá elaborar y presentar en un plazo no mayor de 120 días naturales para su aprobación el Programa Escolar de Protección Civil a que se refiere el Artículo Primero del presente Decreto.
+
+P.O. 21 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 265. SE REFORMA EL ARTÍCULO 331 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN; SE ADICIONA UN ARTÍCULO 32 BIS LA (SIC) LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN, SE REFORMAN LAS FRACCIONES XII Y XIII, ASIMISMO SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 15 DE LA LEY DE PROTECCIÓN CIVIL PARA EL DEL (SIC) ESTADO DE NUEVO LEÓN; SE REFORMAN LAS FRACCIONES XVI Y XVII AL ARTÍCULO 9; POR MODIFICACIÓN EL NOMBRE DEL CAPÍTULO III; ASÍ MISMO SE ADICIONA UNA FRACCIÓN XVIII AL ARTÍCULO 9; Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 10, TODOS DE LA LEY PARA LA PROMOCIÓN DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
