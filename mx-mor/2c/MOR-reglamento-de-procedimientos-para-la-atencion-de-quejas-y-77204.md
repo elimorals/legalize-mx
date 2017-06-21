@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-procedimientos-para-la-atencion-de-quejas-y-77204
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-10"
-last_updated: "2011-06-22"
+last_updated: "2017-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCION DE QUEJAS Y GESTION PERICIAL DE LA COMISION ESTATAL DE ARBITRAJE MEDICO DEL ESTADO DE MORELOS
 
-REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCION DE QUEJAS Y GESTION PERICIAL DE LA COMISION ESTATAL DE ARBITRAJE MEDICO DEL ESTADO DE MORELOS
+REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCIÓN DE QUEJAS Y GESTIÓN PERICIAL DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 10 de noviembre de 2010.
 
@@ -31,7 +31,9 @@ Al margen izquierdo un sello con el Escudo del Estado de Morelos que dice: "Tier
 
 MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS ATRIBUCIONES QUE ME CONFIEREN LOS ARTÍCULOS 70, FRACCIONES XVII Y XXVI, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, 2, 3, 6 Y 8 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS Y CON FUNDAMENTO EN EL ARTÍCULO 6, FRACCIONES II, III, IV, V Y VI, DEL DECRETO QUE CREA LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y fundado, tengo a bien expedir el siguiente:
 
@@ -729,7 +731,7 @@ Sólo podrán considerarse la confesional espontánea de alguna las partes cuand
 
 ###### Artículo 83.
 
-Cuando las partes no puedan obtener directamente documentos que hayan ofrecido como pruebas, podrán pedir a la COESAMOR que los solicite a las personas u organismos que los tengan en su poder, con objeto de que obren en el expediente el día de la audiencia de pruebas y alegatos. En caso no (sic) haber sido presentadas dichas probanzas el día de la audiencia, se fijará un nuevo término para la celebración de dicha audiencia, debiendo la COESAMOR girar oficio recordatorio a la autoridad que le fue solicitada la información.
+Cuando las partes no puedan obtener directamente documentos que hayan ofrecido como pruebas, podrán pedir a la COESAMOR que los solicite a las personas u organismos que los tengan en su poder, con objeto de que obren en el expediente el día de la audiencia de pruebas y alegatos. En caso (sic) no haber sido presentadas dichas probanzas el día de la audiencia, se fijará un nuevo término para la celebración de dicha audiencia, debiendo la COESAMOR girar oficio recordatorio a la autoridad que le fue solicitada la información.
 
 ###### Artículo 84.
 
@@ -785,11 +787,11 @@ II. Laudos, que siempre tendrán el carácter de definitivos.
 
 El pronunciamiento institucional nunca podrá ser entendido como resolución.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2017)</small>
 
 ###### Artículo 92.
 
-Todas las resoluciones serán autorizadas con firma entera de quienes las emitan. Los laudos serán emitidos por el Subcomisionado Jurídico o por el presidente del Módulo de Atención y Arbitraje en que se desahogue el procedimiento arbitral.
+Todas las resoluciones serán autorizadas con nombre y firma de quienes las emitan. Los laudos serán emitidos por el Subcomisionado o por el Presidente del Módulo de Atención y Arbitraje en que se desahogue el procedimiento arbitral.
 
 ###### Artículo 93.
 
@@ -915,10 +917,20 @@ DR. RAMÓN JOSÉ CUÉ GONZÁLEZ.
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 22 DE JUNIO DE 2011.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que contravengan al presente Decreto.
+
+P.O. 21 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 92 DEL REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCIÓN DE QUEJAS Y GESTIÓN PERICIAL DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO".]
+
+PRIMERA. El presente Decreto entrará en vigor a los cinco días hábiles siguientes de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+TERCERA. Dentro de un plazo no mayor a 120 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán modificar los Manuales Administrativos y demás normativa interna de la Comisión, en tanto sucede esto, se mantendrán vigentes los actuales, en lo que no se opongan al presente instrumento.
