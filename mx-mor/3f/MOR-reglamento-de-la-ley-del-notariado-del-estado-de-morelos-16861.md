@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-del-notariado-del-estado-de-morelos-16861"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-02-26"
-last_updated: "2017-05-24"
+last_updated: "2017-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE MAYO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 26 de febrero de 1999.
 
@@ -345,11 +343,9 @@ Por su parte, la patente de los aspirantes es definitiva siempre y cuando se obs
 
 ### CAPÍTULO III BIS. DE LA SUSPENSIÓN Y LA REVOCACIÓN DEL REGISTRO DE ASPIRANTE A NOTARIO
 
-> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2017)</small>
-
 ###### Artículo 27 Quáter.
 
-Es causa de suspensión del Registro de Aspirante a Notario estar sujeto a un proceso penal, patrimonial, o de responsabilidades administrativas, hasta en tanto se dicte en, su caso, sentencia definitiva absolutoria.
+(DEROGADO, P.O. 21 DE JUNIO DE 2017)
 
 > <small>(ADICIONADO, P.O. 10 DE MAYO DE 2017)</small>
 
@@ -407,21 +403,9 @@ El aspirante o aspirantes adscritos a una Notaría, actuarán de conformidad con
 
 Los Notarios deben guardar reserva sobre lo pasado ante ellos, salvo los informes que obligatoriamente establezcan las leyes respectivas y los actos que deban inscribirse en el Registro Público, en cuyo caso podrán enterarse las personas que sin haber intervenido en los mismos, a juicio del Notario, tengan interés legítimo en el asunto.
 
-> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2017)</small>
-
 ###### Artículo 32 Bis.
 
-El informe mensual a que se refiere la fracción IV, del artículo 28 de la Ley, así como el artículo anterior, deberá contener, cuando menos, lo siguiente:
-
-I.- El número total de actividades relacionadas a la función notarial realizadas durante el periodo que corresponda.
-
-II.- El número total de escrituras públicas asentadas, relacionadas a inmuebles en el mes que corresponde;
-
-III.- Los datos de las escrituras públicas asentadas durante el mes, tales como número de testimonio, fecha, acto jurídico celebrado, así como los costos por impuestos y honorarios respectivos;
-
-IV.- El número total de las contribuciones que, en el mes que corresponde, deban ser pagadas mediante retención, las diversas que hayan sido retenidas por el Notario y las que se encuentren debidamente enteradas ante la autoridad fiscal correspondiente, y
-
-V.- En el caso de las retenciones realizadas, indicar, en el informe del mes que corresponda, la fecha en la que se realizó el entero ante la autoridad fiscal.
+(DEROGADO, P.O. 21 DE JUNIO DE 2017)
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 2017)</small>
 
@@ -916,3 +900,13 @@ PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publi
 SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
 
 TERCERA. Las disposiciones procesales que se incorporan al texto del presente Reglamento por virtud del presente Decreto podrán ser aplicadas a los asuntos que aún se encuentren en trámite o pendientes por resolver por la autoridad competente.
+
+P.O. 21 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS”.]
+
+PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+TERCERA. Los Notarios Públicos en el estado de Morelos, además de cumplir en tiempo y forma con los informes a que se refiere el artículo 28, fracción IV, de la Ley del Notariado del Estado de Morelos, deberán cumplir con otros informes que conforme a la normativa aplicable deban realizar ante las autoridades fiscales competentes, sobre el cumplimiento de sus obligaciones.
