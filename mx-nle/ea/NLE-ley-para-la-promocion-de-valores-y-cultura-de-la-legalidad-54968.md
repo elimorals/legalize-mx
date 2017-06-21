@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-promocion-de-valores-y-cultura-de-la-legalidad-5496
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-23"
-last_updated: "2017-04-26"
+last_updated: "2017-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA PROMOCIÓN DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 23 de marzo de 2007.
 
@@ -195,15 +195,21 @@ XIV. Establecer la remuneración del Secretario Técnico, cuando la misma esté 
 
 XV. Emitir recomendaciones a todos los servidores públicos que no se dirijan apropiadamente en actos públicos o que infrinjan lo dispuesto por el párrafo segundo del artículo 3 de esta Ley;
 
-> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2017)</small>
 
-XVI. Recibir las denuncias realizadas por cualquier ciudadano del Estado, de los servidores públicos que hagan uso inapropiado del lenguaje; y
+XVI. Recibir las denuncias realizadas por cualquier ciudadano del Estado, de los servidores públicos que hagan uso inapropiado del lenguaje;
 
-> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2017)</small>
 
-XVII. Las demás que determinen el Reglamento Interior del Consejo y otras disposiciones aplicables.
+XVII. Proponer políticas públicas, programas y acciones de fomento de valores a la cultura de paz en los eventos Deportivos; y
 
-### CAPÍTULO III. DEL PROGRAMA PARA LA PROMOCIÓN DE VALORES Y LA CULTURA DE LA LEGALIDAD
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2017)</small>
+
+XVIII. Las demás que determinen el Reglamento Interior del Consejo y otras disposiciones aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO III. DEL PROGRAMA PARA LA PROMOCIÓN DE VALORES Y LA CULTURA DE LA LEGALIDAD Y NO VIOLENCIA
 
 ###### Artículo 10.
 
@@ -214,6 +220,10 @@ El Programa deberá estar formulado conforme a las directrices metodológicas qu
 En la elaboración del Programa deberá tomarse en cuenta el acervo cultural e histórico del Estado, cuales han sido los valores que tradicionalmente han ejercitado los nuevoleoneses y que han influido positivamente en el engrandecimiento de la comunidad y en el progreso de nuestra entidad.
 
 El Programa promoverá el respeto a los valores que sustentan la institución familiar, la solidaridad y el respeto a la dignidad de las personas, principalmente de los mayores, de las niñas y niños, de las mujeres, así como las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2017)</small>
+
+Además, se establecerán elementos que refuercen la no violencia en la sociedad para su sana convivencia, así como una cultura de paz.
 
 ###### Artículo 11.
 
@@ -416,3 +426,9 @@ P.O. 26 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 250. SE REFORMA EL ARTÍCULO 12 DE LA LEY PARA LA PROMOCIÓN DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 265. SE REFORMA EL ARTÍCULO 331 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN; SE ADICIONA UN ARTÍCULO 32 BIS LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN, SE REFORMAN LAS FRACCIONES XII Y XIII, ASIMISMO SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 15 DE LA LEY DE PROTECCIÓN CIVIL PARA EL DEL ESTADO DE NUEVO LEÓN; SE REFORMAN LAS FRACCIONES XVI Y XVII AL ARTÍCULO 9; POR MODIFICACIÓN EL NOMBRE DEL CAPÍTULO III; ASÍ MISMO SE ADICIONA UNA FRACCIÓN XVIII AL ARTÍCULO 9; Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 10, TODOS DE LA LEY PARA LA PROMOCIÓN DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
