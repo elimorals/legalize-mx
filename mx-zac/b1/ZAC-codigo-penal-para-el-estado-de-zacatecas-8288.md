@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2016-06-01"
+last_updated: "2017-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2017.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -2695,15 +2695,47 @@ III. Cuando el valor del ganado exceda de trescientas pero no de quinientas cuot
 
 IV. Cuando el valor del ganado exceda de quinientas cuotas la sanción será de cuatro a doce años y multa hasta de trescientas a trescientas cincuenta cuotas.
 
-331.- Las mismas sanciones que señala el artículo anterior se aplicarán:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2017)</small>
 
-I.- A los que adquieran animales robados, según su valor;
+331. Se equipararán al abigeato y se aplicarán las mismas sanciones:
 
-II.- A las autoridades o quienes intervengan en la legalización de documentos que acrediten la propiedad del semoviente o semovientes, si no tomaron las medidas indispensables para cerciorarse de la procedencia legítima de los animales;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2017)</small>
+
+I.- A los que adquieran animales sin haberse cerciorado previamente de su legítima procedencia; entendiéndose por ésta la documentación que expidan las instituciones competentes, o bien, las Uniones, Asociaciones y Agrupaciones Ganaderas;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2017)</small>
+
+II.- A quien intervenga por si, o por interpósita persona, en la legalización de documentos que acrediten la propiedad del ganado, si no tomaron las medidas indispensables para cerciorarse conforme a la fracción anterior, respecto de la procedencia legítima de los animales;
 
 III.- Al que ampare a una o más cabezas de ganado robado con documentación alterada o expedida a otro; y
 
 IV.- Al que, con perjuicio de otro, disponga para sí o para un tercero, de una o más cabezas de ganado, de las cuales se le haya transmitido la tenencia y no el dominio, o bien se le haya entregado para su custodia.
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2017)</small>
+
+V.- Al que expida ilegalmente Guía de Tránsito para movilizar animales, productos, subproductos o desechos de origen animal para su venta; y
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2017)</small>
+
+VI.- Al que en el lugar diseccione a una o más cabezas de ganado, con la finalidad de apoderarse de todo o parte del mismo.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2017)</small>
+
+331 bis. Se considerarán calificados el delito de abigeato y sus equiparados, cuando:
+
+I. Se ejecute con violencia en las personas, o cuando el imputado la realice después de consumado el apoderamiento, para proporcionarse la fuga o defender lo robado;
+
+II. Sea perpetrado por ganaderos inscritos como tales en cualquier institución, Unión, Asociación o Agrupación;
+
+III. El imputado sea o haya sido, o simule serlo, miembro de alguna corporación de seguridad pública u otra autoridad, o bien, lo ejecute valiéndose de la supuesta orden de una autoridad;
+
+IV. Se cometa aprovechando alguna relación de parentesco, vecindad o trabajo;
+
+V. Se cometa de noche; y
+
+VI. Se cometa por dos o más personas.
+
+Para el responsable del delito de abigeato calificado, las sanciones señaladas en el artículo 330 de este Código se aumentarán en una tercera parte en su mínimo y dos terceras partes en su máximo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2012)</small>
 
@@ -3604,3 +3636,11 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Se derogan las disposiciones que se opongan a este Decreto.
 
 Tercero.- En los procedimientos penales por los delitos de estupro y rapto que se encuentren en trámite a la entrada en vigor del presente Decreto, se continuarán aplicando los tipos y las penas que para tales delitos establecen las disposiciones que se derogan en este Instrumento Legislativo.
+
+P.O. 21 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 137.- POR EL QUE SE DEROGAN, REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
