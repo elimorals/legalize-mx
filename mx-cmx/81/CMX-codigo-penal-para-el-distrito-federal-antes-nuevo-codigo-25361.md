@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2017-06-07"
+last_updated: "2017-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,11 +22,11 @@ issue_date: "2002-07-11"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE JUNIO DE 2017 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE JUNIO DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE 21 DE JUNIO DE 2017.]</small>
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -4518,41 +4518,49 @@ Constituyen actos de violencia política:
 
 a) Obligar, instruir o coaccionar a realizar u omitir actos diferentes a las funciones y obligaciones de su cargo, establecidas en los ordenamientos jurídicos, incluyendo aquellos motivados por los roles o estereotipos de género;
 
-b) Ejercer cualquier tipo de violencia señalada en la presente Ley, en contra de las personas, de sus familiares o personas cercanas, con el fin de sesgar, condicionar, impedir, acotar o restringir la participación y representación política y pública, así como la toma de decisiones en contra de su voluntad o contrarias al interés público;
+> <small>(F. DE E., G.O. 21 DE JUNIO DE 2017)</small>
 
-c) Coartar o impedir el ejercicio de la participación, representación y facultades inherentes a los cargos públicos y políticos de las personas, o bien coartar e impedir aquellas medidas establecidas en la Constitución y los ordenamientos jurídicos dirigidas a proteger sus derechos frente a los actos que violenten o eviten el ejercicio de su participación y representación política y pública, incluyendo la violencia institucional;
+b) Ejercer cualquier tipo de violencia señalada en el presente Código, en contra de las personas, de sus familiares o personas cercanas, con el fin de sesgar, condicionar, impedir, acotar o restringir la participación y representación política y pública, así como la toma de decisiones en contra de su voluntad o contrarias al interés público;
 
-d) Proporcionar información falsa, errónea o imprecisa que induzca al inadecuado ejercicio de sus funciones político­públicas;
+> <small>(F. DE E., G.O. 21 DE JUNIO DE 2017)</small>
 
-e) Impedir o excluir de la toma de decisiones o del derecho a voz y voto, a través del engaño o la omisión de notificación de actividades inherentes a sus facultades o a la participación y representación política y pública;
+c) Proporcionar información falsa, parcial o imprecisa, o bien ocultarla mediante el engaño o cualquier otro medio, para distraer el ejercicio de las funciones de representación política y pública o incidir a su ejercicio ilícito;
 
-f) Proporcionar información o documentación incompleta o errónea con el objeto de impedir el ejercicio pleno de los derechos político electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
+> <small>(F. DE E., G.O. 21 DE JUNIO DE 2017)</small>
 
-g) Ocultar información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político-electorales o inducir al ejercicio indebido de sus atribuciones;
+d) Impedir o excluir de la toma de decisiones o del derecho a voz y voto, a través del engaño o la omisión de notificación sin causa prevista por la ley, de actividades inherentes a sus facultades o a la participación y representación política y pública;
 
-h) Proporcionar o difundir información con la finalidad de impedir o limitar el ejercicio de los derechos político-electorales o impedir el ejercicio de sus atribuciones o facultades;
+> <small>(F. DE E., G.O. 21 DE JUNIO DE 2017)</small>
 
-i) Obstaculizar o impedir el ejercicio de licencias o permisos justificados a los cargos públicos a los cuales fueron nombradas o electas, así como la reincorporación posterior;
+e) Proporcionar información incompleta, falsa de los datos personales de las candidatas o candidatos a cargos de elección popular, en razón de género, ante el Instituto Nacional Electoral o los Organismos Públicos Locales Electorales, con la finalidad de impedir, obstaculizar o anular sus registros a las candidaturas;
 
-j) Restringir total o parcialmente, por cualquier medio o mecanismo, el ejercicio de los derechos de voz y voto de las mujeres, que limiten o impidan las condiciones de igualdad respecto de los hombres para el ejercicio de la función y representación política y pública;
+> <small>(F. DE E., G.O. 21 DE JUNIO DE 2017)</small>
 
-k) Acosar u hostigar mediante la acusación o la aplicación de sanciones sin motivación o fundamentación, que contravengan las formalidades, el debido proceso y la presunción de inocencia, con el objetivo o resultado de impedir o restringir el ejercicio de los derechos político-electorales;
+f) Obstaculizar o impedir a las personas el ejercicio de licencias o permisos justificados a los cargos públicos a los cuales las personas fueron nombradas o electas, así como la reincorporación posterior;
 
-l) Realizar cualquier acto de discriminación que tenga como resultado impedir, negar, anular o menoscabar el ejercicio de sus derechos político-electorales;
+> <small>(F. DE E., G.O. 21 DE JUNIO DE 2017)</small>
 
-m) Publicar o revelar información personal, privada o falsa, o bien difundir imágenes, información u opiniones con sesgos basados en los roles y estereotipos de género a través de cualquier medio, con o sin su consentimiento, que impliquen difamar, desprestigiar o menoscabar la credibilidad, capacidad y dignidad humana de las personas, con el objetivo o resultado de obtener su remoción, renuncia o licencia al cargo electo o en ejercicio;
+g) Restringir total o parcialmente, por cualquier medio o mecanismo, el ejercicio de los derechos de voz y voto de un género, que limiten o impidan las condiciones de igualdad para el ejercicio de la función y representación política y pública;
 
-n) Espiar o desprestigiar a las personas a través de los medios de comunicación con el objetivo o resultado de impedir o restringir el ejercicio de los derechos político-electorales;
+> <small>(F. DE E., G.O. 21 DE JUNIO DE 2017)</small>
 
-o) Obligar, intimidar, o amenazar a las personas para que suscriban documentos, colaboren en proyectos o adopten decisiones en contra de su voluntad o del interés público, en función de su representación política;
+h) Coartar o impedir el ejercicio de la participación, representación y facultades inherentes a los cargos públicos y políticos, o bien coartar e impedir aquellas medidas establecidas en la Constitución y los ordenamientos jurídicos dirigidas a proteger sus derechos frente a los actos que violenten o eviten el ejercicio de su participación y representación política y pública, incluyendo la violencia institucional;
 
-p) Proporcionar información incompleta, falsa o errónea de los datos personales de las personas candidatas a cargos de elección popular, ante el Instituto Nacional Electoral o los Organismos Públicos Locales Electorales, con la finalidad de impedir, obstaculizar o anular sus registros a las candidaturas;
+> <small>(F. DE E., G.O. 21 DE JUNIO DE 2017)</small>
 
-q) Impedir o restringir su incorporación, de toma de protesta o acceso al cargo o función para el cual ha sido nombrada, electa o designada.
+i) Acosar u hostigar mediante la acusación o la aplicación de sanciones sin motivación o fundamentación, que contravengan las formalidades, el debido proceso y la presunción de inocencia, con el objetivo o resultado de impedir o restringir el ejercicio de los derechos político-electorales;
 
-r) Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos en razón de género; y
+> <small>(F. DE E., G.O. 21 DE JUNIO DE 2017)</small>
 
-s) Cualquier otro que tenga por objeto o resultado coartar los derechos político-electorales, incluyendo los motivados en razón de sexo o género.
+j) Realizar cualquier acto de discriminación de conformidad con la Ley Federal para Prevenir y Eliminar la Discriminación, y que tengan como resultado impedir, negar, anular o menoscabar el ejercicio de sus derechos político-electorales;
+
+> <small>(F. DE E., G.O. 21 DE JUNIO DE 2017)</small>
+
+k) Publicar o revelar información personal, privada o falsa, o bien difundir imágenes, información u opiniones con sesgos basados en los roles y estereotipos de género a través de cualquier medio, con o sin su consentimiento, que impliquen difamar, desprestigiar o menoscabar la credibilidad, capacidad y dignidad humana, con el objetivo o resultado de obtener su remoción, renuncia o licencia al cargo electo o en ejercicio;
+
+> <small>(F. DE E., G.O. 21 DE JUNIO DE 2017)</small>
+
+l) Cualquier otro que tenga por objeto o resultado coartar los derechos político-electorales, incluyendo los motivados en razón de sexo o género.
 
 Las sanciones previstas para las conductas señaladas, podrán incrementarse hasta la mitad cuando sean cometidos en razón de género contra las mujeres.
 
@@ -5676,10 +5684,16 @@ SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicac
 
 G.O. 7 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO QUE CONTIENE LAS OBSERVACIONES DEL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO RESPECTO DEL DIVERSO POR EL QUE SE ABROGA EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL Y LA LEY PROCESAL ELECTORAL DEL DISTRITO FEDERAL Y SE EXPIDE EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO Y LA LEY PROCESAL ELECTORAL PARA CIUDAD DE MÉXICO; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL Y DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE CONTIENE LAS OBSERVACIONES DEL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO RESPECTO DEL DIVERSO POR EL QUE SE ABROGA EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL Y LA LEY PROCESAL ELECTORAL DEL DISTRITO FEDERAL Y SE EXPIDE EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO Y LA LEY PROCESAL ELECTORAL PARA CIUDAD DE MÉXICO; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL Y DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Para su mayor difusión, publíquese en el Diario Oficial de la Federación.
 
 TERCERO.- El presente decreto deberá estar vigente a más tardar 90 días antes de que inicie el proceso electoral 2017-2018.
+
+G.O. 21 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DE LA “NOTA ACLARATORIA AL DECRETO QUE CONTIENE LAS OBSERVACIONES DEL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO RESPECTO DEL DIVERSO POR EL QUE SE ABROGA EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL Y LA LEY PROCESAL ELECTORAL DEL DISTRITO FEDERAL Y SE EXPIDE EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO Y LA LEY PROCESAL ELECTORAL PARA CIUDAD DE MÉXICO; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL Y DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL DÍA 7 DE JUNIO DE 2017, TOMO II”.]
+
+ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
