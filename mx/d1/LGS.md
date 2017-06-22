@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2017-06-19"
+last_updated: "2017-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LGS"
 ---
 # LEY GENERAL DE SALUD
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2017.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 19 DE JUNIO DE 2017.
 
@@ -161,6 +163,10 @@ XV bis.- El Programa Nacional de Prevención, Atención y Control del VIH/SIDA e
 > <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
 XVI.- La prevención y el control de enfermedades no transmisibles y accidentes;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2017)</small>
+
+XVI Bis. El diseño, la organización, coordinación y vigilancia del Registro Nacional de Cáncer.
 
 > <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
 
@@ -331,6 +337,10 @@ VIII bis.- Promover la incorporación, uso y aprovechamiento de las Tecnologías
 IX.- Coadyuvar con las dependencias competentes a la regulación y control de la transferencia de tecnología en el área de salud;
 
 X.- Promover el establecimiento de un sistema nacional de información básica en materia de salud;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2017)</small>
+
+X Bis. Establecer, promover y coordinar el Registro Nacional de Cáncer.
 
 XI.- Apoyar la coordinación entre las instituciones de salud y las educativas, para formar y capacitar recursos humanos para la salud;
 
@@ -2726,7 +2736,9 @@ Para los efectos de esta ley se consideran bajo la denominación de establecimie
 
 ## TITULO OCTAVO. Prevención y Control de Enfermedades y Accidentes
 
-### CAPITULO IV. Accidentes
+### CAPÍTULO III BIS. Del Registro Nacional de Cáncer
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 133.
 
@@ -2742,9 +2754,7 @@ III.- Realizar los programas y actividades que estime necesario para la prevenci
 
 IV.- Promover la colaboración de las instituciones de los sectores público, social y privado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, para el óptimo desarrollo de los programas y actividades a que se refieren las fracciones II y III.
 
-### CAPÍTULO I. Disposiciones Comunes
-
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+### CAPITULO IV. Accidentes
 
 ###### ARTICULO 134.
 
@@ -2944,11 +2954,11 @@ ARTICULO 157 BIS.- La Secretaría de Salud y los gobiernos de las entidades fede
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 19 DE JUNIO DE 2017)</small>
 
-### CAPÍTULO II. De los Derechos de los Enfermos en Situación Terminal
+### CAPÍTULO I. Disposiciones Comunes
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
-### CAPÍTULO III. De las Facultades y Obligaciones de las Instituciones de Salud
+### CAPÍTULO II. De los Derechos de los Enfermos en Situación Terminal
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
@@ -2984,11 +2994,35 @@ La Secretaría de Salud coordinará sus actividades con otras dependencias y ent
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPÍTULO IV. De los Derechos, Facultades y Obligaciones de los Médicos y Personal Sanitario
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 22 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO III. De las Facultades y Obligaciones de las Instituciones de Salud
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
-### CAPITULO UNICO
+###### Artículo 161 Bis.
+
+El Registro Nacional de Cáncer tendrá una base poblacional, se integrará de la información proveniente del Sistema Nacional de Información Básica en Materia de Salud y contará con la siguiente información:
+
+I. Información del paciente, que se agrupa en los siguientes rubros:
+
+a) Datos relacionados con la identidad, historial ocupacional y laboral, observando las disposiciones relativas a la protección de datos personales de los pacientes.
+
+b) Información demográfica.
+
+II. Información del tumor: Incluye la fecha de diagnóstico de cáncer; la localización anatómica; de ser el caso, la lateralidad; la incidencia y el estado de la enfermedad; la histología del tumor primario y su comportamiento.
+
+III. Información respecto al tratamiento que se ha aplicado al paciente y el seguimiento que se ha dado al mismo de parte de los médicos. Además, se incluirá información de curación y supervivencia.
+
+IV. La fuente de información utilizada para cada modalidad de diagnóstico y de tratamiento.
+
+V. Toda aquella información adicional que determine la Secretaría.
+
+La Secretaría integrará la información demográfica del Registro Nacional de Cáncer de todo el territorio nacional dividido en regiones norte, centro y sur.
+
+### CAPÍTULO IV. De los Derechos, Facultades y Obligaciones de los Médicos y Personal Sanitario
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 162.
 
@@ -3042,8 +3076,6 @@ Los servicios de salud que proporcionen las instituciones de seguridad social co
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
-
 ###### ARTICULO 166 Bis.
 
 El presente título tiene por objeto:
@@ -3092,17 +3124,9 @@ Corresponde al Sistema Nacional de Salud garantizar el pleno, libre e informado 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
-### CAPITULO I. Consejo Nacional Contra las Adicciones
+### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2015)</small>
-
-ARTICULO 184 BIS.- Se crea el Consejo Nacional Contra las Adicciones, que tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado tendientes a la prevención y combate de los problemas de salud pública causados por las Adicciones que regula la presente Ley, así como proponer y evaluar los programas a que se refieren los artículos 185 y 191 de esta Ley, así como el Programa contra el Tabaquismo previsto en la Ley General para Control del Tabaco. Dicho Consejo estará integrado por el Secretario de Salud, quien lo presidirá, por los titulares de las dependencias y entidades de la Administración Pública Federal cuyas atribuciones tengan relación con el objeto del Consejo y por representantes de organizaciones sociales y privadas relacionadas con la salud. El Secretario de Salud podrá invitar, cuando lo estime conveniente, a los titulares de los gobiernos de las entidades federativas a asistir a las sesiones del Consejo.
-
-> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-La organización y funcionamiento del Consejo se regirán por las disposiciones que expida el Ejecutivo Federal.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 166 Bis 3.
 
@@ -3192,11 +3216,17 @@ Todos los documentos a que se refiere este título se regirán de acuerdo a lo q
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
-### CAPÍTULO II
-
-Programa para la Prevención, Reducción y Tratamiento del uso nocivo del Alcohol, la Atención del Alcoholismo y la Prevención de Enfermedades derivadas del mismo
+### CAPITULO I. Consejo Nacional Contra las Adicciones
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+ARTICULO 184 BIS.- Se crea el Consejo Nacional Contra las Adicciones, que tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado tendientes a la prevención y combate de los problemas de salud pública causados por las Adicciones que regula la presente Ley, así como proponer y evaluar los programas a que se refieren los artículos 185 y 191 de esta Ley, así como el Programa contra el Tabaquismo previsto en la Ley General para Control del Tabaco. Dicho Consejo estará integrado por el Secretario de Salud, quien lo presidirá, por los titulares de las dependencias y entidades de la Administración Pública Federal cuyas atribuciones tengan relación con el objeto del Consejo y por representantes de organizaciones sociales y privadas relacionadas con la salud. El Secretario de Salud podrá invitar, cuando lo estime conveniente, a los titulares de los gobiernos de las entidades federativas a asistir a las sesiones del Consejo.
+
+> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+La organización y funcionamiento del Consejo se regirán por las disposiciones que expida el Ejecutivo Federal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 166 Bis 13.
 
@@ -3216,35 +3246,11 @@ VI.- Garantizarán la capacitación y actualización permanente de los recursos 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
-### CAPÍTULO II BIS. Protección de la Salud de Terceros y de la Sociedad frente al Uso Nocivo del Alcohol
+### CAPÍTULO II
 
-> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+Programa para la Prevención, Reducción y Tratamiento del uso nocivo del Alcohol, la Atención del Alcoholismo y la Prevención de Enfermedades derivadas del mismo
 
-ARTICULO 187 BIS. Son facultades de la Secretaría de Salud en el marco de la protección de la salud de terceros y de la sociedad frente al uso nocivo del alcohol:
-
-I. Establecer los límites de alcohol en sangre y en aire expirado para conducir vehículos automotores, los cuales deberán ser tomados en cuenta por las autoridades federales y por las de las entidades federativas, en sus respectivos ámbitos de competencia. Tratándose de vehículos que presten un servicio público, personas que hagan uso de mecanismos, instrumentos, aparatos o substancias peligrosas por sí mismos, por la velocidad que desarrollen, por su naturaleza explosiva o inflamable, por la energía de la corriente eléctrica que conduzcan o por otras causas análogas, así como los profesionales, técnicos y auxiliares de la salud que participen en la atención médico-quirúrgica de un usuario, los límites de alcohol en sangre y aire expirado serán cero;
-
-II. Promover la participación de la sociedad civil en la ejecución del programa para la prevención, reducción y tratamiento del uso nocivo del alcohol, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo, con base en las disposiciones que para tales efectos establezca la Secretaría de Salud;
-
-III. Proponer al Ejecutivo Federal las políticas públicas y fiscales para la prevención y disminución del uso nocivo del alcohol; y
-
-IV. Promover ante las autoridades competentes federales y de las entidades federativas, la implementación de medidas y acciones que favorezcan la disminución del uso nocivo del alcohol y de los efectos de éste en terceros, tales como:
-
-a) Limitar los horarios para consumo del alcohol, y
-
-b) Otras que sirvan o prevengan los fines a que se refiere este artículo.
-
-> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
-
-ARTICULO 187 BIS 1.- Para el tratamiento de enfermedades derivadas del alcoholismo, las dependencias y entidades de la administración pública en materia de salubridad general, tanto federales como locales, fomentarán la creación de centros especializados en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión de la persona que padece alguna enfermedad derivada del alcoholismo.
-
-Los centros especializados en tratamiento, atención y rehabilitación deberán:
-
-I. Crear un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de alcoholismo, que contenga las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen; y
-
-II. Celebrar convenios de colaboración con instituciones nacionales e internacionales de los sectores social y privado, y con personas físicas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de alcoholismo, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características, posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen.
-
-La ubicación de los centros, se basará en estudios epidemiológicos de las enfermedades derivadas del alcoholismo en cada región del país.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 166 Bis 14.
 
@@ -3322,9 +3328,35 @@ Queda prohibida, la práctica de la eutanasia, entendida como homicidio por pied
 
 ## TITULO NOVENO. Asistencia Social, Prevención de la Discapacidad y Rehabilitación de las Personas con Discapacidad
 
-### CAPITULO III. Programa Contra el Tabaquismo
+### CAPÍTULO II BIS. Protección de la Salud de Terceros y de la Sociedad frente al Uso Nocivo del Alcohol
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+ARTICULO 187 BIS. Son facultades de la Secretaría de Salud en el marco de la protección de la salud de terceros y de la sociedad frente al uso nocivo del alcohol:
+
+I. Establecer los límites de alcohol en sangre y en aire expirado para conducir vehículos automotores, los cuales deberán ser tomados en cuenta por las autoridades federales y por las de las entidades federativas, en sus respectivos ámbitos de competencia. Tratándose de vehículos que presten un servicio público, personas que hagan uso de mecanismos, instrumentos, aparatos o substancias peligrosas por sí mismos, por la velocidad que desarrollen, por su naturaleza explosiva o inflamable, por la energía de la corriente eléctrica que conduzcan o por otras causas análogas, así como los profesionales, técnicos y auxiliares de la salud que participen en la atención médico-quirúrgica de un usuario, los límites de alcohol en sangre y aire expirado serán cero;
+
+II. Promover la participación de la sociedad civil en la ejecución del programa para la prevención, reducción y tratamiento del uso nocivo del alcohol, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo, con base en las disposiciones que para tales efectos establezca la Secretaría de Salud;
+
+III. Proponer al Ejecutivo Federal las políticas públicas y fiscales para la prevención y disminución del uso nocivo del alcohol; y
+
+IV. Promover ante las autoridades competentes federales y de las entidades federativas, la implementación de medidas y acciones que favorezcan la disminución del uso nocivo del alcohol y de los efectos de éste en terceros, tales como:
+
+a) Limitar los horarios para consumo del alcohol, y
+
+b) Otras que sirvan o prevengan los fines a que se refiere este artículo.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+ARTICULO 187 BIS 1.- Para el tratamiento de enfermedades derivadas del alcoholismo, las dependencias y entidades de la administración pública en materia de salubridad general, tanto federales como locales, fomentarán la creación de centros especializados en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión de la persona que padece alguna enfermedad derivada del alcoholismo.
+
+Los centros especializados en tratamiento, atención y rehabilitación deberán:
+
+I. Crear un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de alcoholismo, que contenga las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen; y
+
+II. Celebrar convenios de colaboración con instituciones nacionales e internacionales de los sectores social y privado, y con personas físicas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de alcoholismo, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características, posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen.
+
+La ubicación de los centros, se basará en estudios epidemiológicos de las enfermedades derivadas del alcoholismo en cada región del país.
 
 ###### ARTICULO 167.
 
@@ -3452,9 +3484,9 @@ La Secretaría de Salud y los gobiernos de las entidades federativas, en coordin
 
 ## TITULO DECIMO. Acción Extraordinaria en Materia de Salubridad General
 
-### CAPITULO IV. Programa Contra la Farmacodependencia
+### CAPITULO III. Programa Contra el Tabaquismo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 181.
 
@@ -3492,9 +3524,9 @@ V.- Las demás que determine la propia Secretaría.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 27 DE MAYO DE 1987)</small>
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO IV. Programa Contra la Farmacodependencia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 184 Bis.
 
@@ -3502,7 +3534,9 @@ Se crea el Consejo Nacional Contra las Adicciones, que tendrá por objeto promov
 
 La organización y funcionamiento del Consejo se regirán por las disposiciones que expida el Ejecutivo Federal.
 
-### CAPITULO II. Alimentos y Bebidas no Alcohólicas
+### CAPITULO I. Disposiciones Comunes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTÍCULO 185.
 
@@ -3606,11 +3640,11 @@ En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará l
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE ABRIL DE 2015)</small>
 
+### CAPITULO II. Alimentos y Bebidas no Alcohólicas
+
 ### CAPITULO III. Bebidas Alcohólicas
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
-
-### CAPITULO IV. Medicamentos
 
 ###### ARTICULO 188.
 
@@ -3628,9 +3662,7 @@ En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará l
 
 (DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-### CAPITULO V. Estupefacientes
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
+### CAPITULO IV. Medicamentos
 
 ###### ARTICULO 191.
 
@@ -3758,7 +3790,7 @@ Al tercer reporte del Ministerio Público el tratamiento del farmacodependiente 
 
 ## TITULO DECIMO SEGUNDO. Control Sanitario de Productos y Servicios y de su Importación y Exportación
 
-### CAPITULO VI. Substancias psicotrópicas
+### CAPITULO V. Estupefacientes
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
@@ -4016,9 +4048,9 @@ Los envases y embalajes de los productos a que se refiere este título deberán 
 
 La Secretaría de Salud publicará en el Diario Oficial de la Federación las normas oficiales mexicanas que expida y, en caso necesario, las resoluciones sobre otorgamiento y revocación de autorizaciones sanitarias de medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan, equipos médicos, plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas, así como de las materias primas que se utilicen en su elaboración.
 
-### CAPITULO VII. Establecimientos Destinados al Proceso de Medicamentos
+### CAPITULO VI. Substancias psicotrópicas
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 215.
 
@@ -4050,9 +4082,9 @@ La Secretaría de Salud, con base en la composición de los alimentos y bebidas,
 
 Los alimentos o bebidas que se pretendan expender o suministrar al público en presentaciones que sugieran al consumidor que se trate de productos o substancias con características o propiedades terapéuticas, deberán en las etiquetas de los empaques o envases incluir la siguiente leyenda: “Este producto no es un medicamento”, escrito con letra fácilmente legible y en colores contrastantes.
 
-### CAPITULO VIII
+### CAPITULO VII. Establecimientos Destinados al Proceso de Medicamentos
 
-Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 217.
 
@@ -4080,9 +4112,9 @@ En ningún caso y de ninguna forma se podrán expender o suministrar bebidas alc
 
 La violación a esta disposición será equiparable con el delito de Corrupción de Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para comprender el Significado del Hecho o de Personas que no tienen Capacidad para Resistirlo.
 
-### CAPITULO IX. Productos cosméticos
+### CAPITULO VIII
 
-> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2011)</small>
+Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos
 
 ###### ARTICULO 221.
 
@@ -4276,9 +4308,9 @@ Los medicamentos de origen biológico de acción inmunológica ostentarán en su
 
 Quedan prohibidos la venta y suministro de medicamentos con fecha de caducidad vencida.
 
-### CAPITULO IX BIS. Ejercicio especializado de la Cirugía
+### CAPITULO IX. Productos cosméticos
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 234.
 
@@ -4398,7 +4430,9 @@ Los citados establecimientos recogerán invariablemente las recetas o permisos, 
 
 Los preparados que contengan acetildihidrocodeína, codeína, destropropoxifeno, dihidrocodeína, etilmorfina, folcodina, nicocodina, corcodeína y propiram, que formen parte de la composición de especialidades farmacéuticas, estarán sujetos, para los fines de su preparación, prescripción y venta o suministro al público, a los requisitos que sobre su formulación establezca la Secretaría de Salud.
 
-### CAPITULO X. Productos de Aseo
+### CAPITULO IX BIS. Ejercicio especializado de la Cirugía
+
+> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 244.
 
@@ -4882,9 +4916,7 @@ Los medicamentos que tengan incorporadas substancias psicotrópicas que puedan c
 
 Los envases y empaques de las substancias psicotrópicas, para su expendio llevarán etiquetas que, además de los requisitos que determina el artículo 210 de esta Ley, ostenten los que establezcan las disposiciones aplicables a la materia de este Capítulo.
 
-### CAPITULO XI. Tabaco
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+### CAPITULO X. Productos de Aseo
 
 ###### ARTICULO 257.
 
@@ -4958,9 +4990,9 @@ VI.- En los establecimientos señalados en la fracción XII, el Consejo de Salub
 
 En los casos en que resulten afectadas, por acción u omisión, la identidad, pureza, conservación, preparación, dosificación o manufactura de los productos, el responsable del establecimiento y el propietario del mismo responderán solidariamente de las sanciones que correspondan en los términos que señalen esta Ley y demás disposiciones legales aplicables.
 
-### CAPITULO XII. Plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas
+### CAPITULO XI. Tabaco
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 262.
 
@@ -5044,9 +5076,9 @@ La violación de esta disposición se sancionará en los términos previstos en 
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE JUNIO DE 2011)</small>
 
-### CAPITULO XII BIS. Productos biotecnológicos
+### CAPITULO XII. Plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas
 
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 269.
 
@@ -5086,9 +5118,9 @@ Para la declaración de ingredientes se utilizarán las nomenclaturas técnicas 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO XIII. Importación y exportación
+### CAPITULO XII BIS. Productos biotecnológicos
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 272 Bis.
 
@@ -5120,9 +5152,9 @@ La oferta de los servicios que se haga a través de medios informativos, ya sean
 
 Las sociedades, asociaciones, colegios o federaciones de profesionistas pondrán a disposición de la Secretaría de Salud, un directorio electrónico, con acceso al público que contenga los nombres, datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos y certificado de especialización vigente, además de proporcionar el nombre y datos de la Institución y/o Instituciones educativas, que avalen su ejercicio profesional.
 
-### CAPITULO UNICO
+### CAPITULO XIII. Importación y exportación
 
-> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 273.
 
@@ -5154,9 +5186,9 @@ IX.- Los demás de naturaleza análoga que determine la Secretaría de Salud.
 
 En las etiquetas de los envases y empaques en los que se presenten los productos a que se refiere el artículo anterior, además de lo establecido en el artículo 210 de esta Ley, en lo conducente, figurarán las leyendas que determinen las disposiciones aplicables.
 
-### CAPITULO I. Disposiciones comunes
+### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 275.
 
@@ -5182,9 +5214,9 @@ En las etiquetas de los envases y empaques en los que se presenten los productos
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE MAYO DE 1997)</small>
 
-### CAPITULO II. Donación
+### CAPITULO I. Disposiciones comunes
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 278.
 
@@ -5244,7 +5276,7 @@ El control sanitario de las substancias a que se refiere el artículo 278, se aj
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 7 DE MAYO DE 1997)</small>
 
-### CAPITULO III. Trasplantes
+### CAPITULO II. Donación
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -5264,15 +5296,15 @@ Se deberá notificar a la Secretaría de Salud, de todos aquellos productos biot
 
 Las disposiciones y especificaciones relacionadas con el proceso, características y etiquetas de los productos objeto de este capítulo, se establecerán en las normas oficiales mexicanas correspondientes.
 
+### CAPITULO III. Trasplantes
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
 ### CAPITULO III BIS
 
 Disposición de sangre, componentes sanguíneos, hemoderivados y células troncales de seres humanos.
 
 > <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2003)</small>
-
-### CAPITULO IV. Pérdida de la vida
-
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 283.
 
@@ -5408,9 +5440,9 @@ Cuando se autorice la importación de las substancias mencionadas en el artícul
 
 ## TITULO DECIMO TERCERO. Publicidad
 
-### CAPITULO V. Cadáveres
+### CAPITULO IV. Pérdida de la vida
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 300.
 
@@ -5598,9 +5630,9 @@ TITULO DECIMOCUARTO
 
 Donación, trasplantes y pérdida de la vida
 
-### CAPITULO I. Disposiciones comunes
+### CAPITULO V. Cadáveres
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 313.
 
@@ -5952,7 +5984,9 @@ Se considerará disposición ilícita de órganos, tejidos, células y cadávere
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO II. Sanidad en Materia de Migración
+### CAPITULO I. Disposiciones comunes
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 320.
 
@@ -6082,7 +6116,7 @@ Corresponde a la Secretaría de Salud y a los gobiernos de las entidades federat
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO III. Sanidad marítima, aérea y terrestre
+### CAPITULO II. Sanidad en Materia de Migración
 
 ###### ARTICULO 330.
 
@@ -6290,7 +6324,7 @@ El Centro Nacional de Trasplantes impulsará, junto con las Organizaciones de la
 
 > <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-### CAPITULO I. Autorizaciones
+### CAPITULO III. Sanidad marítima, aérea y terrestre
 
 ###### ARTICULO 340.
 
@@ -6400,7 +6434,7 @@ VI. Los demás que prevean las disposiciones reglamentarias.
 
 > <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO II. Revocación de autorizaciones sanitarias
+### CAPITULO I. Autorizaciones
 
 ###### ARTICULO 343.
 
@@ -6434,7 +6468,7 @@ No existirá impedimento alguno para que a solicitud y con la autorización de l
 
 > <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO III. Certificados
+### CAPITULO II. Revocación de autorizaciones sanitarias
 
 ###### ARTICULO 346.
 
@@ -6538,9 +6572,7 @@ Los establecimientos en los que se realicen actos relacionados con cadáveres de
 
 ## TITULO DECIMO QUINTO. Sanidad Internacional
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO III. Certificados
 
 ###### ARTICULO 351.
 
@@ -6594,9 +6626,9 @@ Cuando en las localidades donde residan cónsules mexicanos aparezcan casos de e
 
 La Secretaría de Salud notificará a la Organización Mundial de la Salud de todas (sic) medidas que haya adoptado, de modo temporal o permanente, en materia de sanidad internacional. Asimismo, informará a esta misma organización y con la oportunidad debida, sobre cualquier caso que sea de interés en la vigilancia epidemiológica de las enfermedades que se citan en el Reglamento Sanitario Internacional, las que puedan originar epidemias o cualesquiera otras que considere de importancia notificar.
 
-### CAPITULO I. Medidas de Seguridad Sanitaria
+### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 360.
 
@@ -6618,7 +6650,9 @@ La Secretaría de Salud determinará qué otras enfermedades transmisibles queda
 
 Las personas comprendidas en lo dispuesto en el artículo anterior, quedarán bajo vigilancia y aislamiento en los lugares que la autoridad sanitaria determine, o en los que señale el interesado, si fueran aceptados por la autoridad, en tanto se decida, mediante el examen médico pertinente, si es aceptada o no su internación más allá del sitio de confinamiento, y se le preste, en su caso, la atención médica correspondiente.
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO I. Medidas de Seguridad Sanitaria
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 363.
 
@@ -6650,7 +6684,7 @@ Las embarcaciones y aeronaves procedentes del extranjero con destino al territor
 
 ## TITULO DECIMO SEXTO. Autorizaciones y certificados
 
-### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 368.
 
@@ -6774,7 +6808,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia el Ejecutivo Federal y los gobiernos de las entidades federativas.
 
-### CAPITULO IV. Recurso de inconformidad
+### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 380.
 
@@ -6850,7 +6884,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda, al co
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de venta, prohibición de uso o de ejercicio de las actividades a que se refiera la autorización revocada.
 
-### CAPITULO V. Prescripción
+### CAPITULO IV. Recurso de inconformidad
 
 ###### ARTICULO 388.
 
@@ -6934,9 +6968,7 @@ La distribución primaria de los certificados de nacimiento, defunción y muerte
 
 ## TITULO DECIMO SEPTIMO. Vigilancia Sanitaria
 
-### CAPITULO VI. Delitos
-
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+### CAPITULO V. Prescripción
 
 ###### ARTICULO 393.
 
@@ -7084,9 +7116,9 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TITULO DECIMO OCTAVO. Medidas de Seguridad, Sanciones y Delitos
 
-### CAPITULO VII. Delitos Contra la Salud en su modalidad de Narcomenudeo
+### CAPITULO VI. Delitos
 
-> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 402.
 
@@ -7245,6 +7277,10 @@ En caso de que se actualice el supuesto previsto en el párrafo anterior, la med
 ###### ARTICULO 415.
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias competentes, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
+
+### CAPITULO VII. Delitos Contra la Salud en su modalidad de Narcomenudeo
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 416.
 
@@ -8773,3 +8809,15 @@ Cuarto. La Secretaría de Salud contará con un plazo de noventa días hábiles 
 Quinto. El Consejo de Salubridad General publicará en el Diario Oficial de la Federación los acuerdos que permitan instrumentar las acciones necesarias para enfrentar circunstancias epidemiológicas extraordinarias. Asimismo, la Secretaría de Salud y las demás dependencias y entidades de la Administración Pública que forman parte del Sistema Nacional de Salud, considerarán en sus respectivos proyectos de presupuesto la incorporación de las nuevas vacunas al Programa de Vacunación Universal conforme a la disponibilidad presupuestaria, en los términos previstos en el presente Decreto.
 
 Sexto. La Secretaría de Salud contará con un plazo máximo de hasta 360 días para emitir las disposiciones a que se refiere el presente Decreto.
+
+D.O.F. 22 DE JUNIO DE 2017.
+
+[N. DE. E TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD”.]
+
+Primero. El presente Decreto entrará en vigor a los ciento ochenta días de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Secretaría emitirá el Reglamento del Registro Nacional de Cáncer en los sesenta días posteriores al inicio de vigencia del presente Decreto.
+
+Tercero. La Secretaría realizará las modificaciones a la Norma Oficial Mexicana y demás disposiciones administrativas relativas al Sistema Nacional de Información Básica en Materia de Salud que permitan la recopilación, integración y disposición de la información necesaria para la operación del Registro Nacional de Cáncer con base poblacional, garantizando la protección de datos personales de los pacientes de conformidad con la normatividad aplicable.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado de la Secretaría de Salud para el presente ejercicio fiscal y los subsecuentes.
