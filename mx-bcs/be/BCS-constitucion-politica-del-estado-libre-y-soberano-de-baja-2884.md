@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2017-05-30"
+last_updated: "2017-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE JUNIO DE 2017.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -1951,13 +1951,17 @@ Los Magistrados, Jueces de Primera Instancia del Tribunal Superior de Justicia, 
 
 Para la reelección o no de los magistrados, se seguirá el siguiente procedimiento:
 
-I.- Con una anticipación no menor a sesenta días ni mayor a noventa, de que concluya el período para el que fue nombrado el Magistrado de que se trate, el Congreso del Estado, a través del Presidente de la Mesa Directiva o de la Diputación Permanente, requerirá al magistrado para que en uso de su garantía de audiencia presente por escrito los planteamientos que a su derecho convengan.
+> <small>(REFORMADA, B.O. 22 DE JUNIO DE 2017)</small>
 
-Con el duplicado del requerimiento a que se refiere el párrafo anterior, se dará vista a la Comisión dictaminadora correspondiente;
+I.- Con una anticipación no menor a sesenta días naturales ni mayor a noventa días naturales, de que concluya el periodo para el que fue nombrado, el Magistrado de que se trate, en uso de su garantía de audiencia presentará por escrito y por duplicado ante el Congreso del Estado, a través del Presidente de la Mesa Directiva o de la Diputación Permanente, su intención de reelegirse o no. En caso de que el Magistrado de que se trate se abstenga de presentar el escrito mencionado dentro del plazo señalado perderá su derecho a ser reelecto para un nuevo periodo de seis años.
 
-II.- La Comisión Legislativa dictaminadora que corresponda, deberá requerir la información a que se refiere el articulo 11 bis de la Ley Orgánica del Poder Judicial del Estado, tanto a los magistrados que integran el Pleno del Tribunal Superior de Justicia como al magistrado que se evaluara, además de estar facultada para solicitar todo tipo de expedientes e informes al Pleno del Tribunal Superior de Justicia y este queda obligado a proporcionarlos en breve término. La Infracción a estas disposiciones por los integrantes del Pleno, será causa de juicio político.
+Con el duplicado del escrito a que se refiere el párrafo anterior, se dará vista a la Comisión dictaminadora correspondiente;
 
-La Comisión dictaminadora, podrá asimismo requerir a personas e instituciones públicas y privadas, todo tipo de información relativa al desempeño del cargo del magistrado, y estas quedan obligadas a proporcionarla en breve término;
+> <small>(REFORMADA, B.O. 22 DE JUNIO DE 2017)</small>
+
+II.- La Comisión Legislativa dictaminadora deberá solicitar al Pleno del Tribunal Superior de Justicia o al Pleno del Consejo de la Judicatura según corresponda, toda aquella información y documentación que resulte útil y necesaria para conocer el desempeño en el ejercicio del cargo del Magistrado sujeto a evaluación, de conformidad con lo establecido en la Ley Orgánica del Poder Judicial del Estado, quedando estos obligados a proporcionarla en breve término. La Infracción a estas disposiciones por parte del Pleno del Tribunal o del Pleno del Consejo de la Judicatura, será causa de juicio político.
+
+De igual forma, deberá solicitar al magistrado sujeto a evaluación la información y documentación que considere pertinente, pudiendo además, solicitar a personas e instituciones públicas y privadas, todo tipo de información relativa al desempeño del cargo del magistrado, y estas quedan obligadas a proporcionar en breve término.
 
 III.- Una vez reunida la documentación a que se refieren las fracciones I y II de este articulo, lo (sic) Comisión dictaminadora, deberá emitir el dictamen de evaluación correspondiente, en el cual se deberá señalar si el Magistrado posee los atributos que se le reconocieron al habérsele designado, cumpliendo los requisitos satisfechos para su nombramiento y si se actualiza o no alguno o algunos de los supuestos previstos en el artículo 93 de esta Constitución, así como contener todos aquellos elementos objetivos que den a conocer, si durante el desempeño de su trabajo cotidiano, lo ha ejercido de manera pronta, completa e imparcial, como expresión de diligencia, excelencia profesional y honestidad invulnerable;
 
@@ -4088,3 +4092,15 @@ La Secretaría de Educación Pública deberá adecuar las normas que se ajusten 
 ###### ARTÍCULO CUARTO.
 
 Las Instituciones Públicas o Privadas que emitan títulos profesionales o de grado, deberán adecuar sus reglamentos respectivos para ajustarse a lo dispuesto por la presente reforma.
+
+B.O. 22 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2444 SE REFORMAN LAS FRACCIONES I Y II DEL NUMERAL 93 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
