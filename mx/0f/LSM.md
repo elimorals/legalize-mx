@@ -4,7 +4,7 @@ identifier: "LSM"
 country: "mx"
 rank: "ley"
 publication_date: "1940-09-11"
-last_updated: "1998-01-23"
+last_updated: "2017-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2573&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSM"
 
 LEY DEL SERVICIO MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2017.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 11 de septiembre de 1940.
 
@@ -50,9 +50,7 @@ A los extranjeros que deban prestar servicios militares en México, se les aplic
 
 ###### ARTICULO 2o.
 
-Los establecimientos educativos de la Federación, los del Distrito Federal y Territorios Federales, los particulares incorporados y los de los Estados cuando estén sujetos al régimen de la coordinación federal, impartirán instrucción militar conforme a los reglamentos y disposiciones que, coordinados con la Secretaría de Educación Pública, expida la Secretaría de la Defensa Nacional, la cual tendrá a su cargo este servicio y designará a los instructores. En todo caso se cuidará de que la instrucción de este tipo que se imparta a las niñas, tienda a capacitarlas para labores propias de su sexo y conexas con el servicio militar.
-
-Los maestros y catedráticos, así como los miembros del personal administrativo de dichos establecimientos, para los efectos de esta ley y dentro de las obligaciones propias de la Reserva a que pertenezcan, tendrán el carácter de auxiliares de los instructores nombrados para sus respectivas Escuelas.
+(DEROGADO, D.O.F. 22 DE JUNIO DE 2017)
 
 ###### ARTICULO 3o.
 
@@ -410,7 +408,7 @@ Hilario Contreras Molina, D. P.- Lic. J. Jesús González Gallo, S. P.- Carlos A
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., a los diecinueve días del mes de agosto de mil novecientos cuarenta.- Lázaro Cárdenas.- Rúbrica.- El Secretario de Estado y del Despacho de la Defensa Nacional, Jesús Agustín Castro.- Rúbrica.- El Secretario de Estado y del Despacho de Educación Pública, Gonzalo Vázquez Vela.- Rúbrica.- Al C. Lic. Ignacio García Téllez, Secretario de Gobernación.- Presente.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 31 DE AGOSTO DE 1942.
 
@@ -441,3 +439,9 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 D.O.F. 23 DE ENERO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 22 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE DEROGA EL ARTÍCULO 2o. DE LA LEY DEL SERVICIO MILITAR”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
