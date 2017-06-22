@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2016-10-31"
+last_updated: "2017-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE JUNIO DE 2017.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -3169,6 +3169,8 @@ Este delito se perseguirá por querella.
 
 ### CAPÍTULO II. DELITOS CONTRA EL DERECHO AL ACCESO Y GOCE DE LOS RECURSOS NATURALES
 
+> <small>(REFORMADO, B.O. 22 DE JUNIO DE 2017)</small>
+
 ###### Artículo 354.
 
 Violación de comunicación privada. A quien intervenga una comunicación privada sin mandato de la autoridad judicial competente, se le impondrá de uno a cinco años de prisión y multa de trescientos a mil días.
@@ -3413,7 +3415,11 @@ Cuando una o más de las conductas descritas en el presente artículo resulte co
 
 ###### Artículo 373.
 
-Cierre de accesos a los recursos naturales. Se impondrán de tres a siete años de prisión o multa de mil a tres mil días, a quien ilícitamente cierre, destruya o impida el acceso y goce de los recursos naturales de la zona federal marítimo terrestre, así como de zonas prioritarias para la conservación y áreas naturales protegidas de jurisdicción estatal y municipal.
+Cierre de accesos a los recursos naturales. Se impondrán de tres a siete años de prisión o multa de mil a tres mil días, a quien ilícitamente cierre, destruya o impida el acceso y goce de los recursos naturales de zonas prioritarias para la conservación y áreas naturales protegidas de jurisdicción estatal y municipal.
+
+Igual sanción se aplicará a los propietarios, concesionarios o posesionarios bajo cualquier título jurídico de terrenos o predios colindantes con playas o zona federal marítimo-terrestre, que cierren obstaculicen, destruyan o impidan el acceso a las playas o zona federal marítimo-terrestre.
+
+Igual sanción se aplicará a quien cobre o exija alguna contraprestación en dinero o en especie por el acceso a dichos lugares.
 
 Se consideran accesos las servidumbres de paso registradas o en proceso de registro, así como los caminos comúnmente utilizados por la población hacia los sitios antes descritos.
 
@@ -3588,3 +3594,11 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 22 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2441 SE REFORMA EL ARTÍCULO 373 DEL CÓDIGO PENAL Y SE REFORMA EL ARTÍCULO 1102 DEL CÓDIGO CIVIL AMBOS PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
