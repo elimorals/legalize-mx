@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2017-06-15"
+last_updated: "2017-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2017
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -3829,7 +3829,7 @@ XXXVII. SEMOVI: Secretaría de Movilidad del Honorable Ayuntamiento del Municipi
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
-XXXVIII. Señalética: Signo o demarcación colocado por la autoridad competente con el objeto de regular, advertir o encauzar la movibilidad;
+XXXVIII. Señalética: Signo o demarcación colocado por la autoridad competente con el objeto de regular, advertir o encauzar la movilidad;
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
@@ -19503,7 +19503,7 @@ XII. Anuncios en vallas publicitarias.
 
 Previo a la realización de los trámites para la obtención de la Licencia, el interesado deberá solicitar por escrito a la Agencia el Dictamen de Factibilidad, debiendo presentar:
 
-I. Cuando se actué a través de un representante legal, el documento que acredite su personalidad;
+I. Cuando se actúe a través de un representante legal, el documento que acredite su personalidad;
 
 II. Representación gráfica que describa la forma, dimensiones, así como las especificaciones técnicas y los materiales de que estará constituido, incluyendo los datos de altura sobre el nivel de la banqueta y para el caso de anuncio en saliente volado o colgante, la saliente máxima desde el alineamiento del predio y desde el paramento de la construcción en la que quedará instalado el anuncio;
 
@@ -25325,13 +25325,11 @@ El Archivo General Municipal deberá contar con un espacio propio y adecuado que
 
 El acervo del Archivo General Municipal será manejado por el personal adscrito a esta Unidad Administrativa, que estará sujeto a las disposiciones de este Capítulo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1698.
 
-El Archivo General Municipal será el depositario de las publicaciones -impresas y/o electrónicas- editadas por las Dependencias y/o Entidades del Gobierno Municipal.
+El Archivo General Municipal será el depositario de las publicaciones -impresas y/o electrónicas- editadas por las Dependencias y/o Entidades de la Administración Pública Municipal, por lo que quienes emitan, elaboren y/o editen libros, revistas y/o guías deberán remitir un ejemplar al Departamento de Archivo Histórico para su resguardo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -25677,11 +25675,11 @@ El Archivo Histórico, cada vez que lo requiera, podrá solicitar la asesoría d
 
 (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2017)</small>
 
-###### Articulo 1710.
+###### Artículo 1710.
 
-(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
+El Departamento de Archivo Histórico, a través de la Dirección del Archivo General Municipal, podrá solicitar a las Dependencias y Entidades de la Administración Pública Municipal, toda la información que requiera y que considere de valor histórico o relevante para el Municipio.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -25689,11 +25687,11 @@ El Archivo Histórico, cada vez que lo requiera, podrá solicitar la asesoría d
 
 (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2017)</small>
 
 ###### Artículo 1711.
 
-(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
+A fin de garantizar que al cambio de cada Administración Municipal se cuente con un acervo fotográfico, los Sujetos Obligados deberán remitir al Departamento de Archivo Histórico, con base en los Lineamientos Generales para la Organización de Archivos Administrativos y su Transferencia al Archivo General Municipal de Puebla, cada cuatro meses, todo el material audiovisual y fotográfico que, derivado de sus actividades, realicen en formato electrónico e impreso.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -34531,7 +34529,7 @@ V. Un representante del Sistema Municipal para el Desarrollo Integral de la Fami
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MARZO DE 2016)</small>
 
-DEL PREMIO MUNICIPAL DE INVESTIGACIÓN HISTÓRICA: “HUGO LEICHT”
+DEL PREMIO MUNICIPAL DE INVESTIGACIÓN HISTÓRICA: "HUGO LEICHT"
 
 > <small>(REFORMADO, P.O. 30 DE MARZO DE 2016)</small>
 
@@ -36008,3 +36006,11 @@ P.O. 15 DE JUNIO DE 2017.
 PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Dictamen.
+
+P.O. 22 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 9 DE JUNIO DE 2017, POR EL QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE TURISMO, ARTE Y CULTURA, POR EL CUAL REFORMA LOS ARTÍCULOS 1698, 1710 Y 1711 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
