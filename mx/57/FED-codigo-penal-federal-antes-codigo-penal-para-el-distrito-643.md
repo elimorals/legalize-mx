@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2017-06-19"
+last_updated: "2017-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2017.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -4711,7 +4711,7 @@ Delitos contra la libertad y el normal desarrollo psicosexual
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 14 DE JUNIO DE 2012)</small>
 
-### CAPITULO I. Amenazas
+### CAPÍTULO I. Amenazas y Cobranza Extrajudicial Ilegal
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -4933,11 +4933,13 @@ I. Al que viole un túmulo, un sepulcro, una sepultura o féretro, y
 
 II. Al que profane un cadáver o restos humanos con actos de vilipendio, mutilación, brutalidad o necrofilia. Si los actos de necrofilia consisten en la realización del coito, la pena de prisión será de cuatro a ocho años.
 
-(REUBICADO [N. DE E. ANTES TÍTULO DECIMONOVENO], D.O.F. 29 DE JULIO DE 1970)
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2017)</small>
 
-TITULO DECIMOCTAVO
+TÍTULO DECIMOCTAVO
 
-Delitos contra la paz y seguridad de las personas
+Delitos Contra la Paz y Seguridad de las Personas
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 22 DE JUNIO DE 2017)</small>
 
 ### CAPITULO V. Feminicidio
 
@@ -4982,6 +4984,18 @@ Si el amenazador cumple su amenaza se acumularán la sanción de ésta y la del 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 Si el amenazador exigió que el amenazado cometiera un delito, a la sanción de la amenaza se acumulará la que le corresponda por su participación en el delito que resulte.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2017)</small>
+
+###### Artículo 284 Bis.
+
+Se sancionará de uno a cuatro años de prisión y multa de cincuenta mil a trescientos mil pesos a quien lleve a cabo la actividad de cobranza extrajudicial ilegal.
+
+Si utiliza además documentos o sellos falsos, la pena y la sanción económica aumentarán una mitad.
+
+Si incurre en usurpación de funciones o de profesión, se aplicarán las reglas del concurso de delitos señalado en el Código Penal Federal.
+
+Se entiende por cobranza extrajudicial ilegal el uso de la violencia o la intimidación ilícitos, ya sea personalmente o a través de cualquier medio, para requerir el pago de una deuda derivada de actividades reguladas en leyes federales, incluyendo créditos o financiamientos que hayan sido otorgados originalmente por personas dedicadas habitual y profesionalmente a esta actividad, con independencia del tenedor de los derechos de cobro al momento de llevar a cabo la cobranza. No se considerará como intimidación ilícita informar aquellas consecuencias posibles y jurídicamente válidas del impago o la capacidad de iniciar acciones legales en contra del deudor, aval, obligado solidario o cualquier tercero relacionado a éstos cuando éstas sean jurídicamente posibles.
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -6493,6 +6507,28 @@ A quien ilícitamente transporte, comercie, acopie, almacene o transforme madera
 
 La pena privativa de la libertad a la que se hace referencia en el párrafo anterior se incrementará hasta en tres años más de prisión y la pena económica hasta en mil días multa, cuando los recursos forestales maderables provengan de un área natural protegida.
 
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2017)</small>
+
+###### ARTICULO 419 Bis.
+
+Se impondrá pena de seis meses a cinco años de prisión y el equivalente de doscientos a dos mil días multa a quien:
+
+I. Críe o entrene a un perro con el propósito de hacerlo participar en cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros para fines recreativos, de entretenimiento o de cualquier otra índole;
+
+II. Posea, transporte, compre o venda perros con el fin de involucrarlos en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros;
+
+III. Organice, promueva, anuncie, patrocine o venda entradas para asistir a espectáculos que impliquen peleas de perros;
+
+IV. Posea o administre una propiedad en la que se realicen peleas de perros con conocimiento de dicha actividad;
+
+V. Ocasione que menores de edad asistan o presencien cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, o
+
+VI. Realice con o sin fines de lucro cualquier acto con el objetivo de involucrar a perros en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros.
+
+La sanción a que se hace mención en el párrafo anterior, se incrementará en una mitad cuando se trate de servidores públicos.
+
+Incurre en responsabilidad penal, asimismo, quien asista como espectador a cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, a sabiendas de esta circunstancia. En dichos casos se impondrá un tercio de la pena prevista en este artículo.
+
 > <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 420.
@@ -7970,3 +8006,15 @@ Tercero.- El Consejo de Salubridad General, a partir de los resultados de la inv
 > <small>[N. DE E. VÉASE ISÓMEROS EN EL D.O.F. DE 19 DE JUNIO DE 2017, PÁGINA 59]</small>
 
 Cuarto.- La Secretaría de Salud tendrá 180 días a partir de la entrada en vigor del presente Decreto, para armonizar los reglamentos y normatividad en el uso terapéutico del TETRAHIDROCANNABINOL de los siguiente (sic) isómeros: [...] y sus variantes estereoquímicas.
+
+D.O.F. 22 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 419 BIS AL CÓDIGO PENAL FEDERAL”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL ENCABEZADO DE (SIC) CAPÍTULO I DEL TÍTULO DECIMOCTAVO Y SE ADICIONA EL ARTÍCULO 284 BIS AL CÓDIGO PENAL FEDERAL".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
