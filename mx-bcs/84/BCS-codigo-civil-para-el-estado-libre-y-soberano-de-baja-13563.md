@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2017-03-20"
+last_updated: "2017-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE JUNIO DE 2017.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -6207,9 +6207,9 @@ Cuando para el mejor aprovechamiento del agua que se tiene derecho de disponer f
 
 El propietario de un predio enclavado entre otros ajenos sin salida a la vía pública, tiene derecho de exigir paso, para el aprovechamiento de aquélla, por los predios vecinos, sin que sus respectivos dueños puedan reclamarle otra cosa que una indemnización equivalente al perjuicio que les ocasione este gravamen.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, B.O. 22 DE JUNIO DE 2017)</small>
 
-Los accesos a las Playas Públicas del Estado, son servidumbres legales de paso, los Ayuntamientos del Estado tienen la obligación de exigir el que se respete este derecho, mismo que se regirá por los Reglamentos Municipales respectivos.
+Los accesos a las Playas Públicas o zona federal marítimo terrestre del Estado, son servidumbres legales de paso, los Ayuntamientos del Estado tienen la obligación de exigir el que se respete este derecho y asegurar que el acceso sea viable, adecuado, seguro, apropiado y permita un estacionamiento cercano. Tal derecho se regirá por los Reglamentos Municipales respectivos. Tratándose de accesos a las playas no se aplicará la indemnización a que se refiere el párrafo anterior.
 
 ###### Artículo 1103.
 
@@ -7971,7 +7971,7 @@ El depósito en el Archivo General de Notarías se hará personalmente por el te
 
 ###### Artículo 1470.
 
-En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia extendida por el encargado de la oficina: "Recibí el pliego cerrado que el señor … afirma contiene original de su testamento ológrafo, del cual, según afirmación del mismo señor, existe dentro de este sobre un duplicado". Se pondrá luego el lugar y la fecha en que se extiende la constancia, que será firmada por el encargado de la oficina, poniéndose también al calce la firma del testador y de los testigos de identificación, cuando intervengan.
+En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia extendida por el encargado de la oficina: "Recibí el pliego cerrado que el señor afirma contiene original de su testamento ológrafo, del cual, según afirmación del mismo señor, existe dentro de este sobre un duplicado". Se pondrá luego el lugar y la fecha en que se extiende la constancia, que será firmada por el encargado de la oficina, poniéndose también al calce la firma del testador y de los testigos de identificación, cuando intervengan.
 
 ###### Artículo 1471.
 
@@ -15862,3 +15862,11 @@ B.O. 20 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 2425 SE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO Y SE ADICIONAN LOS ARTÍCULOS TERCERO Y CUARTO TRANSITORIO AL DECRETO 2415 EXPEDIDO EN FECHA 16 DE DICIEMBRE DE 2016 POR EL H. CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL BOLETÍN OFICIAL NÚMERO 50 DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR, DE FECHA 31 DE DICIEMBRE DE 2016".]
 
 Único.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 22 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2441 SE REFORMA EL ARTÍCULO 373 DEL CÓDIGO PENAL Y SE REFORMA EL ARTÍCULO 1102 DEL CÓDIGO CIVIL AMBOS PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
