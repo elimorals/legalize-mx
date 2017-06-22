@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-nacional-para-el-desarrollo-de-los-31039"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-21"
-last_updated: "2016-04-07"
+last_updated: "2017-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31039&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 LEY DE LA COMISIÓN NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDÍGENAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 21 de mayo de 2003.
 
@@ -85,9 +85,15 @@ XVI. Establecer las bases para integrar y operar un sistema de información y co
 
 XVII. Ser instancia de consulta para las dependencias y entidades de la Administración Pública Federal con el fin de formular el proyecto de presupuesto consolidado en materia de desarrollo de los pueblos y comunidades indígenas a incluir en el Presupuesto de Egresos de la Federación de conformidad con lo dispuesto en el artículo 2o. de la Constitución Federal;
 
-XVIII. Publicar un informe anual sobre el desempeño de sus funciones y los avances e impacto de las acciones de las dependencias y entidades paraestatales de la Administración Pública Federal, estatal y municipal en materia de desarrollo de los pueblos indígenas, y
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2017)</small>
 
-XIX. Las demás que establezcan las disposiciones legales aplicables.
+XVIII. Publicar un informe anual sobre el desempeño de sus funciones y los avances e impacto de las acciones de las dependencias y entidades paraestatales de la Administración Pública Federal, estatal y municipal en materia de desarrollo de los pueblos indígenas;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2017)</small>
+
+XIX. Coadyuvar con el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, establecido en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y dar seguimiento a las acciones de las autoridades federales, estatales, de la Ciudad de México y municipales para la prevención, protección, sanción y erradicación de todas las formas de discriminación cometidas contra las mujeres y niñas indígenas, y
+
+XX. Las demás que establezcan las disposiciones legales aplicables.
 
 ###### Artículo 3.
 
@@ -153,11 +159,17 @@ l) Reforma Agraria;
 
 m) Turismo, y
 
-> <small>(ADICIONADA, D.O.F. 23 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2017)</small>
 
-III. El Presidente del Consejo Consultivo, y
+III. El Presidente del Consejo Consultivo;
 
-IV. El Director General de la Comisión, sólo con derecho a voz.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2017)</small>
+
+IV. El Director General de la Comisión, sólo con derecho a voz, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2017)</small>
+
+V. El titular del Instituto Nacional de las Mujeres, sólo con derecho a voz.
 
 > <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2011)</small>
 
@@ -340,3 +352,9 @@ D.O.F. 7 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 3 DE LA LEY DE LA COMISIÓN NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDÍGENAS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN UNA FRACCIÓN XIX AL ARTÍCULO 2, UNA FRACCIÓN V AL ARTÍCULO 6, DE LA LEY DE LA COMISIÓN NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDÍGENAS; Y UNA FRACCIÓN XII AL ARTÍCULO 36 DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
