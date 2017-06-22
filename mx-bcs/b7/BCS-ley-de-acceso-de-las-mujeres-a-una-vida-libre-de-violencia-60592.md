@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6059
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-31"
-last_updated: "2016-12-20"
+last_updated: "2017-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE JUNIO DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de marzo de 2008.
 
@@ -149,7 +149,9 @@ II. La violencia física.- Es cualquier acto que inflija daño no accidental, us
 
 III. La violencia patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la afectada. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la mujer;
 
-IV. Violencia económica.- Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+> <small>(REFORMADA, B.O. 22 DE JUNIO DE 2017)</small>
+
+IV. Violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor, que atente ante la igualdad de remuneración económica entre mujeres y hombres en el desempeño de un mismo trabajo o por la realización de trabajos que generen un mismo valor dentro de un mismo centro laboral;
 
 V. La violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la Víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
 
@@ -161,7 +163,7 @@ VII. Violencia de Género.- Es el conjunto de amenazas, agravios, maltrato, lesi
 
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2016)</small>
 
-VIII. Violencia Política.- Comprende todas aquellas acciones y omisiones –incluida la tolerancia- que, basadas en elementos de género y dadas en el marco del ejercicio de derechos político-electorales, tengan por objeto o resultado menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público, inhibir su participación en campañas políticas, restringir el ejercicio de un cargo público, o provocarla a tomar decisiones en contra de su voluntad o de la ley; y
+VIII. Violencia Política.- Comprende todas aquellas acciones y omisiones -incluida la tolerancia- que, basadas en elementos de género y dadas en el marco del ejercicio de derechos político-electorales, tengan por objeto o resultado menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público, inhibir su participación en campañas políticas, restringir el ejercicio de un cargo público, o provocarla a tomar decisiones en contra de su voluntad o de la ley; y
 
 > <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -211,19 +213,21 @@ IV. Incluir como parte de la sentencia, la condena al agresor a participar en se
 
 #### SECCIÓN SEGUNDA. VIOLENCIA LABORAL Y DOCENTE
 
-> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 6°.
 
-Violencia Laboral y Docente: Se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima, e impide su desarrollo y atenta contra la igualdad.
+Violencia Laboral y Docente: Se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad económica y seguridad de la víctima, e impide su desarrollo y atenta contra la igualdad.
+
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2014)</small>
 
 Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso o el hostigamiento sexual.
 
-> <small>(REFORMADO, B.O. 14 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 22 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 6° Bis.
 
-Constituye violencia laboral: La negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el periodo de lactancia previsto en la ley, y todo tipo de discriminación por condición de género.
+Constituye violencia laboral: La negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, la percepción de un salario menor por un trabajo de igual valor por razón de género, así como el impedimento a las mujeres de llevar a cabo el periodo de lactancia previsto en la ley, y todo tipo de discriminación por condición de género.
 
 > <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
 
@@ -268,6 +272,10 @@ II. Fortalecer el marco penal y civil para asegurar la sanción a quienes hostig
 III. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son delitos, y
 
 IV. Diseñar programas que brinden servicios reeducativos integrales para víctimas y agresores.
+
+> <small>(ADICIONADA, B.O. 22 DE JUNIO DE 2017)</small>
+
+V. Diseñar programas que aseguren la igualdad salarial entre mujeres y hombres a fin de eliminar las brechas salariales.
 
 #### SECCIÓN TERCERA. VIOLENCIA INSTITUCIONAL
 
@@ -1091,7 +1099,9 @@ I. Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de la
 
 II. Transformar los modelos socioculturales de conducta de mujeres y hombres, incluyendo la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten (sic), fomentan y toleran la violencia contra las mujeres;
 
-III. Educar y capacitar en materia de derechos humanos al personal encargado de la procuración de justicia, policías y demás funcionarios encargados de las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres;
+> <small>(REFORMADA, B.O. 22 DE JUNIO DE 2017)</small>
+
+III. Promover y capacitar en materia de derechos humanos y violencia de género al personal encargado de la procuración de justicia, policías y demás funcionarios encargados de las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres;
 
 IV. Educar y capacitar en materia de derechos humanos de las mujeres al personal encargado de la impartición de justicia, a fin de dotarles de instrumentos que les permita juzgar con perspectiva de género;
 
@@ -1346,3 +1356,9 @@ B.O. 20 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 22 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2443 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
