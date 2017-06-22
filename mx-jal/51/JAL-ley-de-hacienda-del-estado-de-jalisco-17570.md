@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-del-estado-de-jalisco-17570"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-23"
-last_updated: "2016-12-31"
+last_updated: "2017-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 23 de septiembre de 2000.
 
@@ -619,9 +619,17 @@ e) Pagos por gastos funerarios;
 
 f) Gastos de viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto sobre la Renta;
 
-g) Aportaciones al INFONAVIT, Fondos para el retiro constituidos con arreglo a las Leyes de la materia y cuotas al IMSS a cargo del patrón; y
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2017)</small>
 
-h) Remuneración al trabajo personal subordinado a favor de empleados mayores de 60 años de edad o discapacitados según su evaluación en los términos del Código de Asistencia Social.
+g) Aportaciones al INFONAVIT, fondos para el retiro constituidos con arreglo a las leyes de la materia y cuotas al IMSS a cargo del patrón;
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2017)</small>
+
+h) Remuneración al trabajo personal subordinado a favor de empleados mayores de 60 años de edad o discapacitados según su evaluación en los términos del Código de Asistencia Social; e
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2017)</small>
+
+i) Remuneración al trabajo personal subordinado a favor de empleados que al momento de su contratación sea su primer empleo formal, lo cual se comprobará en el supuesto de que el trabajador no cuente con algún registro en las instituciones de seguridad social o como contribuyente ante el Servicio de Administración Tributaria que lo acrediten como tal. Lo anterior, por el término del primer año al cien por ciento y durante el segundo año en un cincuenta por ciento, a partir de su contratación;
 
 II. Las erogaciones que efectúen:
 
@@ -635,7 +643,9 @@ c) Asociaciones de trabajadores y colegios de profesionistas.
 
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
 
-Artículo 44 bis. Los contribuyentes que otorguen mecenazgos para la creación, mantenimiento y promoción cultural, sin fines de lucro, de autores jaliscienses, podrán aplicar una exención, contra el pago del Impuesto Sobre Nóminas a su cargo, por una cantidad equivalente al 60% del apoyo previamente acreditado, conforme a lo siguiente:
+###### Artículo 44 Bis.
+
+Los contribuyentes que otorguen mecenazgos para la creación, mantenimiento y promoción cultural, sin fines de lucro, de autores jaliscienses, podrán aplicar una exención, contra el pago del Impuesto Sobre Nóminas a su cargo, por una cantidad equivalente al 60% del apoyo previamente acreditado, conforme a lo siguiente:
 
 I. Solo podrá accederse a este incentivo fiscal si el contribuyente se encuentra al corriente del pago de las demás obligaciones tributarias que esta ley le establezca;
 
@@ -1282,3 +1292,11 @@ P.O. 31 DE DICIEMBRE DE 2016.
 PRIMERO. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Se derogan las disposiciones que se opongan a la aplicación y cumplimiento del presente decreto.
+
+P.O. 22 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26371/LXI/17 QUE REFORMA EL ARTÍCULO 44 DE LA LEY DE HACIENDA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. En caso de que este decreto produzca afectación a los ingresos estatales, se autoriza a la Secretaría de Planeación, Administración y Finanzas a realizar las adecuaciones presupuestales y administrativas que resulten necesarias, notificando de lo anterior al Congreso del Estado.
