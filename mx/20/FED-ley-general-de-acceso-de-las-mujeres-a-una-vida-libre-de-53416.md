@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-53416"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-02-01"
-last_updated: "2017-06-19"
+last_updated: "2017-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-01-31"
 
 LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de febrero de 2007.
 
@@ -475,9 +475,15 @@ IX. El Instituto Nacional de las Mujeres, quien ocupará la Secretaría Ejecutiv
 
 X. El Consejo Nacional para Prevenir la Discriminación;
 
-XI. El Sistema Nacional para el Desarrollo Integral de la Familia, y
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2017)</small>
 
-XII. Los mecanismos para el adelanto de las mujeres en las entidades federativas.
+XI. El Sistema Nacional para el Desarrollo Integral de la Familia;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2017)</small>
+
+XII. La Comisión Nacional para el Desarrollo de los Pueblos Indígenas, y
+
+XIII. Los mecanismos para el adelanto de las mujeres en las entidades federativas.
 
 ###### ARTÍCULO 37.
 
@@ -1272,3 +1278,9 @@ D.O.F. 19 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE ADICIONAN UNA FRACCIÓN XIX AL ARTÍCULO 2, UNA FRACCIÓN V AL ARTÍCULO 6, DE LA LEY DE LA COMISIÓN NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDÍGENAS; Y UNA FRACCIÓN XII AL ARTÍCULO 36 DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
