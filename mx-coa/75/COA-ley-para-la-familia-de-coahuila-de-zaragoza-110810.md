@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-familia-de-coahuila-de-zaragoza-110810"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2016-12-13"
+last_updated: "2017-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA
 
-LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA.
+LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -171,9 +171,11 @@ Del nombre.
 
 El nombre de las personas físicas se forma con el nombre propio y los apellidos.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 18.
 
-El nombre propio será puesto libremente por quien registre el nacimiento de una niña o niño y los apellidos serán el primero de cada uno de los padres; pero si son varios hijas o hijos nacidos de la misma pareja, no podrá imponérseles el mismo nombre propio.
+El nombre propio será puesto libremente por quien registre el nacimiento de una niña o niño y los apellidos serán uno de cada uno de los padres; pero si son varios hijas o hijos nacidos de la misma pareja, no podrá imponérseles el mismo nombre propio.
 
 ###### Artículo 19.
 
@@ -181,9 +183,11 @@ No se emplearán como nombres propios los que puedan ser peyorativos o denigrant
 
 Tratándose de personas pertenecientes a comunidades o pueblos indígenas se respetarán los nombres propios cuyo origen sea ancestral o tradicional.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 20.
 
-Los padres acordarán el orden de los apellidos, en caso de desacuerdo, a efecto de salvaguardar el derecho a la identidad de la niña o el niño, el o la oficial del Registro Civil elegirá, tomando en cuenta únicamente el primer apellido de aquéllos, el que corresponda por orden alfabético o, en su caso, por sorteo.
+Los padres acordarán el orden de los apellidos, en caso de desacuerdo, a efecto de salvaguardar el derecho a la identidad de la niña o el niño, el o la oficial del Registro Civil elegirá, tomando en cuenta únicamente los apellidos propuestos por cada uno de los padres, el que corresponda por orden alfabético o, en su caso, por sorteo.
 
 ###### Artículo 21.
 
@@ -193,9 +197,11 @@ El orden elegido de los apellidos regirá para las demás hijas e hijos de la mi
 
 Las o los hijos de parejas que no se encuentren unidas en matrimonio llevarán el nombre o nombres que les impongan quien o quienes los reconozcan conforme lo establece esta ley.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 23.
 
-Si el reconocimiento se hiciere sólo por uno de los padres se asentarán los apellidos de éste; si fuere hecho por ambos se asentarán los primeros apellidos de cada uno de ellos, en el orden que convengan, en caso de desacuerdo se elegirá conforme al artículo 20 de esta ley.
+Si el reconocimiento se hiciere sólo por uno de los padres se asentarán los apellidos de éste; si fuere hecho por ambos se asentará un apellido de cada uno de ellos, conforme lo dispuesto por los artículos 18 y 20 de esta ley.
 
 ###### Artículo 24.
 
@@ -4414,3 +4420,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 876.- SE REFORMAN LOS ARTÍCULOS 18, 20 Y 23, DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
