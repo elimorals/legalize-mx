@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2017-01-24"
+last_updated: "2017-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -3089,7 +3089,9 @@ II. Pagar en los términos de este código los sueldos que tengan derecho a perc
 
 III. Cumplir con todos los servicios de higiene y de prevención de accidentes que señalen las leyes vigentes sobre la materia.
 
-IV. Reinstalar a los trabajadores de base en las plazas de las cuales los hubieren separado injustificadamente y ordenar el pago de los sueldos caídos a que fueren condenados por laudo ejecutoriado.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+IV. Reinstalar a los trabajadores de base en las plazas de las cuales los hubieren separado injustificadamente y ordenar el pago de los salarios caídos a que fueren condenados por laudo ejecutoriado, de conformidad con el artículo 302 de este Código.
 
 V. De acuerdo con la partida que en el Presupuesto de Egresos se haya fijado para el efecto, cubrir la indemnización por despido injustificado cuando el trabajador haya optado por ella, y pagar los sueldos caídos en los términos del laudo definitivo.
 
@@ -3235,9 +3237,15 @@ Los efectos del nombramiento de los trabajadores de confianza se darán por term
 
 ### CAPÍTULO XI. DE LA REINSTALACIÓN EN EL TRABAJO
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 302.
 
-Cuando un trabajador de base resulte cesado injustificadamente tendrá derecho a optar por la reinstalación en el cargo o puesto que desempeñaba, con todas las prestaciones que disfrutaba, o a que se le indemnice con el importe de tres meses de salario; así mismo tendrá derecho en su caso, al pago de los sueldos que dejó de percibir.
+Cuando un trabajador de base resulte cesado injustificadamente tendrá derecho a optar por la reinstalación en el cargo o puesto que desempeñaba, con todas las prestaciones que disfrutaba, o a que se le indemnice con el importe de tres meses de salario, a razón del que corresponda a la fecha en que se realice el pago.
+
+Si en el juicio correspondiente no comprueba el patrón la causa de la rescisión o cese, el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios vencidos computados desde la fecha del despido hasta por un período máximo de doce meses, en términos de lo preceptuado en la última parte del párrafo anterior.
+
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento al laudo, se pagarán también al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
 
 ###### ARTÍCULO 303.
 
@@ -4405,6 +4413,14 @@ Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decr
 
 P.O. 24 DE ENERO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 734.- SE REFORMA EL PRIMER PÁRRAFO Y SE COMPLEMENTA LA FRACCIÓN XVII DEL ARTÍCULO 126; DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 734.- SE REFORMA EL PRIMER PÁRRAFO Y SE COMPLEMENTA LA FRACCIÓN XVII DEL ARTÍCULO 126; DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado
+
+P.O. 23 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 875.- SE REFORMA EL ARTÍCULO 18 DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 294 Y EL ARTÍCULO 302 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA."]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
