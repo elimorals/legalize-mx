@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-tribunal-de-justicia-electoral-del-estado-de-baja-10883
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2015-06-12"
+last_updated: "2017-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2017.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -103,7 +103,9 @@ DEL PLENO
 
 El Pleno del Tribunal tendrá las siguientes atribuciones:
 
-I. Elegir de entre los magistrados electorales a más tardar la primera semana de septiembre del año que corresponda, al Presidente del Tribunal.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+I. Elegir de entre los Magistrados Electorales a más tardar la última semana de noviembre del año que corresponda, al Presidente del Tribunal.
 
 II. Designar, suspender, remover o cesar a propuesta del Presidente del Tribunal, al Secretario General de Acuerdos y al Titular de la Unidad Administrativa.
 
@@ -804,3 +806,11 @@ LORETO QUINTERO QUINTERO
 OFICIAL MAYOR DE GOBIERNO
 
 En suplencia del Secretario General de Gobierno, con fundamento en el artículo 54 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 83 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 FRACCIÓN I, DE LA LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
