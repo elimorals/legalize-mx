@@ -4,7 +4,7 @@ identifier: "LGPSACDII"
 country: "mx"
 rank: "ley_general"
 publication_date: "2011-10-24"
-last_updated: "2016-04-07"
+last_updated: "2017-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83335&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPSACDII"
 
 LEY GENERAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JUNIO DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 24 de octubre de 2011.
 
@@ -44,21 +44,27 @@ LEY GENERAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO 
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y observancia general en el territorio nacional y tiene por objeto establecer la concurrencia entre la Federación, los Estados, los Municipios, el Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales, así como la participación de los sectores privado y social, en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, garantizando el acceso de niñas y niños a dichos servicios en condiciones de igualdad, calidad, calidez, seguridad y protección adecuadas, que promuevan el ejercicio pleno de sus derechos.
+La presente Ley es de orden público, interés social y observancia general en el territorio nacional y tiene por objeto establecer la concurrencia entre la Federación, los Estados, los Municipios, la Ciudad de México y las alcaldías de sus demarcaciones territoriales, así como la participación de los sectores privado y social, en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, garantizando el acceso de niñas y niños a dichos servicios en condiciones de igualdad, calidad, calidez, seguridad y protección adecuadas, que promuevan el ejercicio pleno de sus derechos.
+
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
 
 ###### Artículo 2.
 
-La aplicación de esta Ley corresponde al Ejecutivo Federal por conducto de sus dependencias y entidades, a los Poderes Ejecutivos de los Estados, del Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales y de los Municipios, así como a los Poderes Federales Legislativo y Judicial y órganos constitucionales autónomos, en el ámbito de sus respectivas competencias.
+La aplicación de esta Ley corresponde al Ejecutivo Federal por conducto de sus dependencias y entidades, a los Poderes Ejecutivos de los Estados, de la Ciudad de México y las alcaldías de sus demarcaciones territoriales y de los Municipios, así como a los Poderes Federales Legislativo y Judicial y órganos constitucionales autónomos, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 3.
 
 Las dependencias, entidades y demás organismos de seguridad social que presten los servicios para la atención, cuidado y desarrollo integral infantil, además de cumplir con sus leyes específicas y régimen interno, las cuales tendrán preeminencia, deberán observar lo dispuesto en esta Ley. Los derechos laborales colectivos o individuales consagrados en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos para las hijas e hijos de trabajadores y trabajadoras en materia de guarderías y prestaciones sociales reconocidos por sus leyes reglamentarias en materia de seguridad social tienen preeminencia en esta Ley y serán respetados en la misma.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 4.
 
-Las disposiciones relativas a la prestación de servicios para la atención, cuidado y desarrollo integral infantil que se emitan por parte de la Federación, los Estados, los Municipios, el Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales, en el ámbito de sus respectivas competencias, deberán ajustarse a la presente Ley.
+Las disposiciones relativas a la prestación de servicios para la atención, cuidado y desarrollo integral infantil que se emitan por parte de la Federación, los Estados, los Municipios, la Ciudad de México y las alcaldías de sus demarcaciones territoriales, en el ámbito de sus respectivas competencias, deberán ajustarse a la presente Ley.
 
 ###### Artículo 5.
 
@@ -116,9 +122,11 @@ Niñas y niños tienen derecho a recibir los servicios para la atención, cuidad
 
 Son sujetos de los servicios para la atención, cuidado y desarrollo integral infantil, niñas y niños, sin discriminación de ningún tipo en los términos de lo dispuesto por el artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 11.
 
-El Ejecutivo Federal por conducto de sus dependencias y entidades, los Poderes Ejecutivos de los Estados, del Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales y los Municipios garantizarán, en el ámbito de sus competencias, que la prestación de los servicios para la atención, cuidado y desarrollo integral infantil se oriente a lograr la observancia y ejercicio de los siguientes derechos de niñas y niños:
+El Ejecutivo Federal por conducto de sus dependencias y entidades, los Poderes Ejecutivos de los Estados, de la Ciudad de México y las alcaldías de sus demarcaciones territoriales y los Municipios garantizarán, en el ámbito de sus competencias, que la prestación de los servicios para la atención, cuidado y desarrollo integral infantil se oriente a lograr la observancia y ejercicio de los siguientes derechos de niñas y niños:
 
 I. A un entorno seguro, afectivo y libre de violencia;
 
@@ -172,9 +180,11 @@ El ingreso de niñas y niños a los servicios para la atención, cuidado y desar
 
 La rectoría de los servicios para la atención, cuidado y desarrollo integral infantil corresponde al Estado, que tendrá una responsabilidad indeclinable en la autorización, funcionamiento, monitoreo, supervisión y evaluación de dichos servicios.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 15.
 
-La prestación de los servicios para la atención, cuidado y desarrollo integral infantil cuando esté a cargo de las dependencias y entidades federales, estatales, del Distrito Federal o de los municipios, podrán otorgarla por sí mismos o a través de las personas del sector social o privado que cuenten con los requisitos y la autorización correspondientes. Se deberá garantizar el efectivo cumplimiento de los derechos laborales y de las prestaciones de seguridad social que deriven de éstos, en materia de atención, cuidado y desarrollo integral infantil.
+La prestación de los servicios para la atención, cuidado y desarrollo integral infantil cuando esté a cargo de las dependencias y entidades federales, estatales, de la Ciudad de México o de los Municipios, podrán otorgarla por sí mismos o a través de las personas del sector social o privado que cuenten con los requisitos y la autorización correspondientes. Se deberá garantizar el efectivo cumplimiento de los derechos laborales y de las prestaciones de seguridad social que deriven de éstos, en materia de atención, cuidado y desarrollo integral infantil.
 
 ###### Artículo 16.
 
@@ -236,7 +246,9 @@ IV. Verificar, en su ámbito de competencia, que la prestación de los servicios
 
 V. Determinar los indicadores que permitan evaluar la aplicación del Programa Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil a que se refiere la fracción I de este artículo;
 
-VI. Asesorar a los gobiernos locales, municipales o, en su caso, al Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales que lo soliciten, en la elaboración y ejecución de sus respectivos programas;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+VI. Asesorar a los gobiernos locales, municipales o, en su caso, a la Ciudad de México y las alcaldías de sus demarcaciones territoriales que lo soliciten, en la elaboración y ejecución de sus respectivos programas;
 
 VII. Celebrar convenios de coordinación en la materia con los demás órdenes de gobierno, para alcanzar los fines de la presente Ley;
 
@@ -248,9 +260,11 @@ X. Hacer del conocimiento de la autoridad competente toda aquella información q
 
 XI. Las demás que le señale esta Ley y otras disposiciones jurídicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 22.
 
-Corresponde a los Titulares de los Poderes Ejecutivos de los Estados y del Distrito Federal, de conformidad con lo dispuesto en esta Ley y la legislación local en la materia, las siguientes atribuciones:
+Corresponde a los titulares de los Poderes Ejecutivos de los Estados y de la Ciudad de México, de conformidad con lo dispuesto en esta Ley y la legislación local en la materia, las siguientes atribuciones:
 
 I. Formular, conducir y evaluar la política de la entidad en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, en congruencia con la política nacional en la materia;
 
@@ -264,7 +278,9 @@ V. Verificar, en su ámbito de competencia, que la prestación de los servicios 
 
 VI. Determinar los indicadores que permitan evaluar la aplicación del programa de la entidad a que se refiere la fracción II de este artículo;
 
-VII. Asesorar a los gobiernos municipales o, en su caso, a los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal que lo soliciten, en la elaboración, ejecución o evaluación de sus respectivos programas;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+VII. Asesorar a los gobiernos municipales o, en su caso, a las alcaldías de las demarcaciones territoriales de la Ciudad de México que lo soliciten, en la elaboración, ejecución o evaluación de sus respectivos programas;
 
 VIII. Celebrar convenios de coordinación en la materia con los demás órdenes de gobierno, para alcanzar los fines de la presente Ley;
 
@@ -282,9 +298,11 @@ XIV. Hacer del conocimiento de la autoridad competente toda aquella información
 
 XV. Las demás que les señalen esta Ley y otras disposiciones jurídicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 23.
 
-Corresponde a los Municipios y a los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal, en el ámbito de su competencia y de conformidad con lo dispuesto en esta Ley y las leyes estatales en la materia, las siguientes atribuciones:
+Corresponde a los municipios y a las alcaldías de las demarcaciones territoriales de la Ciudad de México, en el ámbito de su competencia y de conformidad con lo dispuesto en esta Ley y las leyes estatales en la materia, las siguientes atribuciones:
 
 I. Formular, conducir y evaluar la política municipal en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, en congruencia con la política estatal y federal en la materia;
 
@@ -304,7 +322,9 @@ VIII. Fomentar, realizar y difundir estudios e investigaciones en la materia;
 
 IX. Vigilar el cumplimiento de esta Ley y demás disposiciones aplicables en su ámbito de competencia que se relacionen y deriven de la misma, por parte de los prestadores de servicios para la atención, cuidado y desarrollo integral infantil;
 
-X. Decretar las medidas precautorias necesarias a los Centros de Atención autorizados por el municipio y la Demarcación Territorial del Distrito Federal correspondiente en cualquier modalidad o tipo;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+X. Decretar las medidas precautorias necesarias a los Centros de Atención autorizados por el municipio y la demarcación territorial de la Ciudad de México correspondiente en cualquier modalidad o tipo;
 
 XI. Imponer las sanciones, en el ámbito de su competencia, a las que se refieren la presente Ley y las legislaciones municipales que de ella deriven, respecto de los prestadores de servicios para la atención, cuidado y desarrollo integral infantil, en cualquiera de sus Modalidades y Tipos;
 
@@ -390,7 +410,9 @@ El Consejo tendrá las siguientes atribuciones:
 
 I. Formular, conducir y evaluar la política nacional en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil; que permita la conjunción de esfuerzos de los distintos órdenes de gobierno y de los sectores público, privado y social en la promoción de condiciones favorables al cuidado y desarrollo integral de niñas y niños;
 
-II. Impulsar la coordinación interinstitucional a nivel federal, local, municipal y en su caso, del Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales, así como la concertación de acciones entre los sectores público, social y privado;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+II. Impulsar la coordinación interinstitucional a nivel federal, local, municipal y en su caso, de la Ciudad de México y las alcaldías de sus demarcaciones territoriales, así como la concertación de acciones entre los sectores público, social y privado;
 
 III. Promover los mecanismos de corresponsabilidad y solidaridad entre la sociedad civil y las diferentes dependencias y entidades que integran el Consejo;
 
@@ -454,9 +476,11 @@ V. Facilitar la supervisión de los Centros de Atención.
 
 El Registro Nacional deberá orientarse por los principios de máxima publicidad, transparencia y legalidad, cumpliendo con las disposiciones en materia de rendición de cuentas.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 36.
 
-Las autoridades federales, estatales, municipales y, en su caso, la que se determine respecto del Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales, competente para emitir la autorización a que se refiere el Capítulo IX de esta Ley, procederá a inscribirlos en el registro nacional o estatal, según corresponda. Dichos registros deberán actualizarse cada seis meses.
+Las autoridades federales, estatales, municipales y, en su caso, la que se determine respecto de la Ciudad de México y las alcaldías de sus demarcaciones territoriales, competente para emitir la autorización a que se refiere el capítulo IX de esta Ley, procederá a inscribirlos en el registro nacional o estatal, según corresponda. Dichos registros deberán actualizarse cada seis meses.
 
 ###### Artículo 37.
 
@@ -484,11 +508,15 @@ VI. Capacidad instalada y, en su caso, ocupada.
 
 Los Centros de Atención pueden presentar alguna de las siguientes modalidades:
 
-I. Pública: Aquélla financiada y administrada, ya sea por la Federación, los Estados, los Municipios, el Distrito Federal o sus órganos político-administrativos, o bien por sus instituciones;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+I. Pública: Aquella financiada y administrada, ya sea por la Federación, los Estados, los Municipios, de la Ciudad de México y las alcaldías, o bien por sus instituciones;
 
 II. Privada: Aquélla cuya creación, financiamiento, operación y administración sólo corresponde a particulares, y
 
-III. Mixta: Aquélla en que la Federación o los Estados o los Municipios o el Distrito Federal y sus órganos político-administrativos de sus demarcaciones territoriales o en su conjunto, participan en el financiamiento, instalación o administración con instituciones sociales o privadas.
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+III. Mixta: Aquélla en que la Federación o los Estados o los Municipios o la Ciudad de México y las alcaldías de sus demarcaciones territoriales o en su conjunto, participan en el financiamiento, instalación o administración con instituciones sociales o privadas.
 
 ###### Artículo 40.
 
@@ -510,11 +538,11 @@ La tipología anterior, se ajustará a las normas de cada institución y al Regl
 
 Los Centros de Atención deberán contar con un Programa Interno de Protección Civil, el cual deberá contener, por lo menos, el ámbito de competencia y responsabilidad de los prestadores de servicio en cada una de las modalidades, el estado en el que se encuentra el inmueble, las instalaciones, el equipo y el mobiliario utilizado para la prestación del servicio. El Programa Interno deberá ser aprobado por el Sistema Nacional de Protección Civil o por las Direcciones o Secretarías Estatales de Protección Civil o municipales, según sea el caso, y será sujeto a evaluación de manera periódica, por las instancias correspondientes.
 
-> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
 
 ###### Artículo 42.
 
-Los Centros de Atención deberán contar con instalaciones hidráulicas, eléctricas, de gas, equipos portátiles y fijos contra incendios, de intercomunicación y especiales, de acuerdo con los reglamentos establecidos por la Federación, las entidades federativas y el Distrito Federal, observando en todo momento la clasificación de riesgos establecidos en las Normas Oficiales Mexicanas para tal efecto. Ningún establecimiento que por su naturaleza ponga en riesgo la integridad física y emocional de niñas y niños y demás personas que concurran a los Centros de Atención, podrá estar ubicado a una distancia menor a cincuenta metros.
+Los Centros de Atención deberán contar con instalaciones hidráulicas, eléctricas, de gas, equipos portátiles y fijos contra incendios, de intercomunicación y especiales, de acuerdo con los reglamentos establecidos por la Federación, las entidades federativas y la Ciudad de México, observando en todo momento la clasificación de riesgos establecidos en las Normas Oficiales Mexicanas para tal efecto. Ningún establecimiento que por su naturaleza ponga en riesgo la integridad física y emocional de niñas y niños y demás personas que concurran a los Centros de Atención, podrá estar ubicado a una distancia menor a cincuenta metros.
 
 ###### Artículo 43.
 
@@ -574,9 +602,11 @@ XIV. Las demás que ordene el Reglamento de la Ley que emita el Ejecutivo Federa
 
 ### Capítulo IX. De las Autorizaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 50.
 
-La Federación, los Estados, Municipios, el Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales, en el ámbito de sus respectivas competencias y conforme lo determine el Reglamento, otorgarán las autorizaciones respectivas a los Centros de Atención cuando los interesados cumplan las disposiciones que señala esta Ley y los requisitos siguientes:
+La Federación, los Estados, Municipios, la Ciudad de México y las alcaldías de sus demarcaciones territoriales, en el ámbito de sus respectivas competencias y conforme lo determine el Reglamento, otorgarán las autorizaciones respectivas a los Centros de Atención cuando los interesados cumplan las disposiciones que señala esta Ley y los requisitos siguientes:
 
 I. Presentar la solicitud en la que al menos se indique: la población por atender, los servicios que se proponen ofrecer, los horarios de funcionamiento, el nombre y datos generales del o los responsables, el personal con que se contará y su ubicación;
 
@@ -640,17 +670,21 @@ El personal que labore en los Centros de Atención que presten servicios, estar�
 
 Los prestadores de servicios para la atención, cuidado y desarrollo integral infantil promoverán la capacitación de su personal, por lo que deberán brindarles las facilidades necesarias para este efecto, de acuerdo a la modalidad correspondiente y sin perjuicio de lo establecido por la legislación laboral.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 56.
 
-La Federación, los Estados, Municipios, el Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales determinarán conforme a la Modalidad y Tipo de atención, las competencias, capacitación y aptitudes con las que deberá contar el personal que pretenda laborar en los Centros de Atención. De igual forma, determinará los tipos de exámenes a los que deberá someterse dicho personal, a fin de garantizar la salud, la educación, la seguridad y la integridad física y psicológica de niñas y niños.
+La Federación, los Estados, los Municipios, la Ciudad de México y las alcaldías de sus demarcaciones territoriales determinarán conforme a la Modalidad y Tipo de atención, las competencias, capacitación y aptitudes con las que deberá contar el personal que pretenda laborar en los Centros de Atención. De igual forma, determinará los tipos de exámenes a los que deberá someterse dicho personal, a fin de garantizar la salud, la educación, la seguridad y la integridad física y psicológica de niñas y niños.
 
 ###### Artículo 57.
 
 El personal que labore en los Centros de Atención garantizará un ambiente de respeto en el marco de los derechos de niñas y niños.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 58.
 
-La Federación, los Estados, los Municipios, el Distrito Federal y sus órganos político-administrativos implementarán acciones dirigidas a certificar y capacitar permanentemente al personal que labora en los Centros de Atención.
+La Federación, los Estados, los Municipios, la Ciudad de México y las alcaldías implementarán acciones dirigidas a certificar y capacitar permanentemente al personal que labora en los Centros de Atención.
 
 ### Capítulo XI. De la Participación de los Sectores Social y Privado
 
@@ -658,15 +692,19 @@ La Federación, los Estados, los Municipios, el Distrito Federal y sus órganos 
 
 A través de las políticas públicas relacionadas con la prestación de servicios para la atención, cuidado y desarrollo integral infantil, se fomentará la participación de los sectores social y privado, en la consecución del objeto de esta Ley y de conformidad con la política nacional en la materia.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 60.
 
-La Federación, los Estados, los Municipios, el Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales promoverán las acciones desarrolladas por los particulares en la consecución del objeto de la presente Ley.
+La Federación, los Estados, los Municipios, la Ciudad de México y las alcaldías de sus demarcaciones territoriales promoverán las acciones desarrolladas por los particulares en la consecución del objeto de la presente Ley.
 
 ### Capítulo XII. De la Inspección y Vigilancia
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 61.
 
-La Federación, los Estados, los Municipios, el Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales, en el ámbito de sus respectivas competencias y conforme lo determine el Reglamento, deberán efectuar, cuando menos cada seis meses, visitas de verificación administrativa a los Centros de Atención de conformidad con la Ley Federal de Procedimiento Administrativo en el ámbito federal y con las legislaciones locales correspondientes en la esfera de competencia de las Entidades Federativas.
+La Federación, los Estados, los Municipios, la Ciudad de México y las alcaldías de sus demarcaciones territoriales, en el ámbito de sus respectivas competencias y conforme lo determine el Reglamento, deberán efectuar, cando (sic) menos cada seis meses, visitas de verificación administrativa a los Centros de Atención de conformidad con la Ley Federal de Procedimiento Administrativo en el ámbito federal y con las legislaciones locales correspondientes en la esfera de competencia de las Entidades Federativas.
 
 ###### Artículo 62.
 
@@ -676,13 +714,17 @@ I. Verificar el cumplimiento de los requisitos señalados por esta Ley y demás 
 
 II. Informar a la autoridad responsable de la detección oportuna de cualquier riesgo para la integridad física o psicológica de niñas y niños y solicitar su oportuna actuación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 63.
 
-El Consejo, en coordinación con los gobiernos de las entidades federativas, del Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales y, en su caso, los municipios, implementarán el Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento, el cual tendrá los siguientes objetivos:
+El Consejo, en coordinación con los gobiernos de las entidades federativas, de la Ciudad de México y las alcaldías de sus demarcaciones territoriales y, en su caso, los municipios, implementarán el Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento, el cual tendrá los siguientes objetivos:
 
 I. Garantizar el mejoramiento progresivo y el fortalecimiento de los servicios para la atención, cuidado y desarrollo integral infantil;
 
-II. Establecer, en el marco de la coordinación entre dependencias y entidades federales, con las autoridades competentes de los gobiernos de las entidades federativas, del Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales y, en su caso, de los municipios, los mecanismos de colaboración técnico operativa para lograr una vigilancia efectiva del cumplimiento de la presente Ley y de la normatividad que regula los servicios;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
+
+II. Establecer, en el marco de la coordinación entre dependencias y entidades federales, con las autoridades competentes de los gobiernos de las entidades federativas, de la Ciudad de México y las alcaldías de sus demarcaciones territoriales y, en su caso, de los municipios, los mecanismos de colaboración técnico operativa para lograr una vigilancia efectiva del cumplimiento de la presente Ley y de la normatividad que regula los servicios;
 
 III. Evitar la discrecionalidad y la corrupción en la asignación de autorizaciones para prestar servicios para la atención, cuidado y desarrollo integral infantil; y
 
@@ -776,9 +818,11 @@ III. La no regularización de la situación que dio origen a la imposición de u
 
 Las violaciones a los preceptos de esta Ley, sus reglamentos y disposiciones que de ella emanen, por parte de los servidores públicos de la Federación, constituyen infracción y serán sancionados en los términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### Artículo 74.
 
-En caso de que las violaciones a los preceptos de esta Ley, sus reglamentos y disposiciones que de ella emanen, se realicen por servidores públicos de las entidades federativas, de los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal o de los municipios, serán sancionados en los términos de las leyes estatales vigentes, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
+En caso de que las violaciones a los preceptos de esta Ley, sus reglamentos y disposiciones que de ella emanen, se realicen por servidores públicos de las entidades federativas, de las alcaldías de las demarcaciones territoriales de la Ciudad de México o de los municipios, serán sancionados en los términos de las leyes estatales vigentes, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
 
 ###### Artículo 75.
 
@@ -849,3 +893,11 @@ D.O.F. 7 DE ABRIL DE 2016.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan todas aquellas disposiciones que se opongan a este Decreto.
+
+D.O.F. 23 DE JUNIO DE 2017.
+
+[N. DE. E TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES Y DE LA LEY GENERAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL.”]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La entrada en vigor del término alcaldía en la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil surtirá efectos de acuerdo a lo establecido en los artículos Tercero y Cuarto Transitorios del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la reforma política de la Ciudad de México.
