@@ -4,7 +4,7 @@ identifier: "COA-ley-de-cultura-fisica-y-deporte-del-estado-de-coahuila-de-10162
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-17"
-last_updated: "2016-08-09"
+last_updated: "2017-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 17 de junio de 2014.
 
@@ -165,7 +165,13 @@ XIII. Convocar a las instituciones educativas y a las organizaciones de deportis
 
 XIV. Procurar que la población de las zonas rurales quede siempre incluida en todos los programas, acciones y beneficios que el estado y los municipios provean en materia de cultura física y deporte y
 
-XV. Las que le confiera esta ley y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XV. Garantizar la ejecución total o en forma abreviada del Himno Nacional en actos y eventos deportivos, de conformidad con la Ley Sobre el Escudo, la Bandera y el Himno Nacionales, y demás disposiciones aplicables.
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XVI. Las que le confiera esta ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 8.
 
@@ -864,3 +870,11 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 877.- SE MODIFICA EL CONTENIDO DE LA FRACCIÓN XV; Y SE RECORRE EL ACTUAL A LA FRACCIÓN XVI, QUE SE CREA, DEL ARTÍCULO 7 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
