@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2017-06-03"
+last_updated: "2017-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-[N DE E. DE CONFORMIDAD CON LO ORDENADO POR LOS ARTÍCULOS 79, FRACCIÓN II Y ARTÍCULO 53 FRACCIONES III, V Y VI PRIMER PÁRRAFO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECEN LAS FACULTADES DE VETO AL PODER EJECUTIVO Y DE PROMULGAR Y PUBLICAR LAS PARTES NO VETADA, HASTA EN TANTO EL CONGRESO DEL ESTADO RESUELVA LAS OBSERVACIONES PENDIENTES, EN CONSECUENCIA PUBLICA EL DECRETO NÚMERO 633 POR EL QUE SE CREA LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA, EN EL P.O. DE 3 DE JUNIO DE 2017.]
+[N DE E. DE CONFORMIDAD CON LO ORDENADO POR EL ARTÍCULO 53 FRACCIÓN VI, PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECE QUE SI SE APRUEBAN POR EL CONGRESO DEL ESTADO LAS PARTES OBSERVADAS POR EL PODER EJECUTIVO, SE PROCEDERÁ A SU PROMULGACIÓN Y PUBLICACIÓN, EN CONSECUENCIA SE PUBLICA EL DECRETO NÚMERO 650 EN EL P.O. 23 DE JUNIO DE 2017.]
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2017.
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -133,21 +133,25 @@ XXX.- Tribunal: El Tribunal Electoral del Estado de Oaxaca;
 
 XXXI.- Violencia política en razón de género: La acción u omisión que realiza una o más personas, en el ámbito político o público, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político-electorales de una mujer, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o su función del poder público;
 
-XXXII.-
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
 
-[El contenido de la fracción XXXII del artículo 2, fue vetado de acuerdo con los artículos 79, fracción II y 53 fracciones III, V y VI, primer párrafo, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio del Titular del Poder Ejecutivo GEO/050/2017, de fecha 02 de junio de 2017, recibido en la misma fecha en el Poder Legislativo.]
+XXXII.- Votación estatal efectiva: La que resulte de deducir de la votación estatal valida emitida los votos de los partidos políticos a los que se les aplicó alguno de los limites establecidos en el artículo 33 fracción V de la Constitución Política del Estado Libre y Soberano de Oaxaca, en relación con el artículo 23, apartado 1, párrafo cuarto, de la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca;
 
-XXXIII.-
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
 
-[El contenido de la fracción XXXIII del artículo 2, fue vetado de acuerdo con los artículos 79, fracción II y 53 fracciones III, V y VI, primer párrafo, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio del Titular del Poder Ejecutivo GEO/050/2017, de fecha 02 de junio de 2017, recibido en la misma fecha en el Poder Legislativo.]
+XXXIII.- Votación estatal válida emitida: La que resulte de deducir de la votación total emitida los votos a favor de los partidos políticos que no hayan obtenido el tres por ciento de dicha votación los votos emitidos para candidatos independientes y los votos nulos.
 
-XXXIV.-
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
 
-[El contenido de la fracción XXXIV del artículo 2, fue vetado de acuerdo con los artículos 79, fracción II y 53 fracciones III, V y VI, primer párrafo, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio del Titular del Poder Ejecutivo GEO/050/2017, de fecha 02 de junio de 2017, recibido en la misma fecha en el Poder Legislativo.]
+XXXIV.- Votación total emitida: La suma de todos los votos depositados en la urna, en tratándose de la votación de diputados y diputadas plurinominales se incluirán los votos emitidos en las casillas especiales;
 
-XXXV.-
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
 
-[El contenido de la fracción XXXV del artículo 2, fue vetado de acuerdo con los artículos 79, fracción II y 53 fracciones III, V y VI, primer párrafo, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio del Titular del Poder Ejecutivo GEO/050/2017, de fecha 02 de junio de 2017, recibido en la misma fecha en el Poder Legislativo.]
+XXXV.- Votación Valida Emitida: La que resulte de deducir de la suma de todos los votos depositados en las urnas los votos nulos y los correspondientes a candidatos no registrados y
+
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
+
+XXXVI.- Voto nulo: Es una boleta electoral que fue utilizada y al que la mesa directiva de casilla y la autoridad electoral le atribuye tal carácter, por no cumplir con las características que esta Ley establece, en el escrutinio y cómputo, y lo asienta en el acta respectiva
 
 Artículo 3
 
@@ -169,9 +173,13 @@ Artículo 5
 
 3.- Para el desempeño de sus funciones, el Instituto Estatal contará con el apoyo y colaboración de las autoridades, órganos estatales y municipales en lo que corresponda. Para el mejor cumplimiento de su cometido, también podrá celebrar convenios o acuerdos con autoridades, dependencias, instituciones u órganos de la Federación.
 
-Artículo 6
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
 
-[El contenido del artículo 6, fue vetado de acuerdo con los artículos 79, fracción II y 53 fracciones III, V y VI, primer párrafo, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio del Titular del Poder Ejecutivo GEO/050/2017, de fecha 02 de junio de 2017, recibido en la misma fecha en el Poder Legislativo.]
+1.- Los servidores públicos considerados como tales de acuerdo con las leyes aplicables, así como de los organismos descentralizados, órganos desconcentrados y órganos autónomos del Estado, tienen en todo tiempo la prohibición de utilizar los recursos públicos que están bajo su responsabilidad para influir en el proceso electoral.
+
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
+
+2.- Los servidores públicos considerados como tales de acuerdo con las leyes aplicables, así como de los organismos descentralizados, órganos desconcentrados y órganos autónomos del Estado, tienen en todo tiempo la prohibición de utilizar los recursos públicos y programas gubernamentales federales, estatales o municipales que están bajo su responsabilidad, para inducir, coaccionar e influir en la decisión del voto, afectando la imparcialidad de la competencia entre los partidos políticos, candidatos o precandidatos.
 
 Artículo 7
 
@@ -393,7 +401,17 @@ Artículo 23
 
 1.- El Poder Legislativo se ejerce por el Congreso y estará integrado por 25 diputados electos según el principio de mayoría relativa en distritos electorales uninominales y 17 diputados que serán electos según el principio de representación proporcional mediante el sistema de lista votada en una sola circunscripción plurinominal, observando en ambos casos el principio de paridad y alternancia de género.
 
-[El contenido de los párrafos segundo y tercero del artículo 23, fue vetado de acuerdo con los artículos 79, fracción II y 53 fracciones III, V y VI, primer párrafo, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio del Titular del Poder Ejecutivo GEO/050/2017, de fecha 02 de junio de 2017, recibido en la misma fecha en el Poder Legislativo.]
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
+
+En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos el porcentaje de su votación estatal valida emitida lo cual será considerado su límite superior
+
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
+
+Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación estatal valida emitida más el ocho por ciento.
+
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
+
+De la misma forma, el porcentaje de representación en el Congreso de un partido político no podrá ser menor al porcentaje de votación estatal valida emitida que hubiere recibido, menos ocho puntos porcentuales, lo cual será considerado su límite inferior.
 
 El número máximo de diputaciones por ambos principios que puede alcanzar un partido político es de 25, el cual corresponde al cincuenta y nueve punto cincuenta y dos por ciento del total de la legislatura.
 
@@ -2475,7 +2493,9 @@ Se contará como voto válido la marca que haga el elector en el recuadro que co
 
 Artículo 146
 
-[El contenido del artículo 146, fue vetado de acuerdo con los artículos 79, fracción II y 53 fracciones III, V y VI, primer párrafo, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio del Titular del Poder Ejecutivo GEO/050/2017, de fecha 02 de junio de 2017, recibido en la misma fecha en el Poder Legislativo.]
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
+
+Para determinar la votación estatal valida emitida que servira de base para la asignación de diputados por el principio de representación proporcional, en términos de lo previsto por la Constitución Local y esta Ley, no serán contabilizados los votos recibidos a favor de candidatos independientes
 
 # LIBRO QUINTO. DEL PROCESO ELECTORAL POR EL RÉGIMEN DE PARTIDOS POLÍTICOS
 
@@ -3119,9 +3139,9 @@ II.- Para candidatos a diputados por el principio de representación proporciona
 
 III.- Para candidatos a concejales municipales de los ayuntamientos electos por el sistema de partidos políticos, ante los consejos municipales electorales respectivos.
 
-2.-
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
 
-[El contenido del apartado 2, artículo 185, fue vetado de acuerdo con los artículos 79, fracción II y 53 fracciones III, V y VI, primer párrafo, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio del Titular del Poder Ejecutivo GEO/050/2017, de fecha 02 de junio de 2017, recibido en la misma fecha en el Poder Legislativo.]
+2.- Los registros de las candidaturas señaladas en las fracciones I y III, del párrafo anterior de este artículo, podrán solicitarse en forma supletoria ante el Consejo General del Instituto Estatal, previo aviso que el partido político interesado haga, por lo menos con cinco días de anticipación a la fecha de inicio formal de los registros ante el Instituto Estatal.
 
 3.- El Consejo General del Instituto Estatal podrá realizar ajustes a los plazos, periodos y fechas establecidos en este artículo a fin de garantizar los plazos de registro y que la duración de las campañas electorales se ciña a lo establecido en esta Ley.
 
@@ -3781,13 +3801,13 @@ Artículo 234
 
 Para determinar la validez o nulidad de los votos se observarán las reglas siguientes:
 
-a)
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
 
-[El contenido del inciso a) del artículo 234, fue vetado de acuerdo con los artículos 79, fracción II y 53 fracciones III, V y VI, primer párrafo, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio del Titular del Poder Ejecutivo GEO/050/2017, de fecha 02 de junio de 2017, recibido en la misma fecha en el Poder Legislativo.]
+a) Se contará un voto válido por la marca que haga el elector en un solo cuadro en el que se contenga el emblema de un partido político, atendiendo a lo dispuesto en el numeral 3 del artículo 231 y numeral 2 del artículo inmediato anterior de la presente Ley;
 
-b)
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
 
-[El contenido del inciso b) del artículo 234, fue vetado de acuerdo con los artículos 79, fracción II y 53 fracciones III, V y VI, primer párrafo, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio del Titular del Poder Ejecutivo GEO/050/2017, de fecha 02 de junio de 2017, recibido en la misma fecha en el Poder Legislativo.]
+b) Se contará como nulo cualquier voto emitido en forma distinta a la señalada, y
 
 c) Los votos emitidos a favor de candidatos no registrados se asentarán en el acta por separado.
 
@@ -4083,9 +4103,9 @@ Artículo 262
 
 1.- En los municipios en que se haya registrado más de una planilla se aplicará el siguiente procedimiento a los resultados de elección:
 
-a)
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
 
-[El contenido del inciso a) del artículo 262, fue vetado de acuerdo con los artículos 79, fracción II y 53 fracciones III, V y VI, primer párrafo, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio del Titular del Poder Ejecutivo GEO/050/2017, de fecha 02 de junio de 2017, recibido en la misma fecha en el Poder Legislativo.]
+a) Todo partido y candidato independiente que obtenga el tres por ciento o más de la votación total emitida en la circunscripción municipal, tendrá derecho a participar en la asignación de regidurías de representación proporcional;
 
 b) La suma de los votos de los partidos y candidatos independientes que hayan obtenido el tres por ciento o más de los votos emitidos en la circunscripción municipal, será considerado como el cien por ciento, para los efectos de la asignación del número de regidurías de representación proporcional, y de la cual se obtendrá para cada partido y candidato independiente su porcentaje correspondiente;
 
@@ -4107,13 +4127,13 @@ Artículo 263
 
 1.- El Consejo General del Instituto Estatal sesionará el domingo siguiente al día de la elección a las once de la mañana, con el objeto de hacer el cómputo correspondiente a la elección de diputados de representación proporcional y el cómputo general de la elección de Gobernador.
 
-2.-
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
 
-[El contenido del apartado 2, del artículo 263, fue vetado de acuerdo con los artículos 79, fracción II y 53 fracciones III, V y VI, primer párrafo, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio del Titular del Poder Ejecutivo GEO/050/2017, de fecha 02 de junio de 2017, recibido en la misma fecha en el Poder Legislativo.]
+2.- Para los efectos de la aplicación de las fracciones II, III IV y V del artículo 33 de la Constitución Local, se entiende por votación total emitida la suma de todos los votos depositados en las urnas. Se entiende por votación válida emitida la que resulte de deducir de la suma de todos los votos depositados en las urnas, los votos nulos y los correspondientes a los candidatos no registrados.
 
-3.-
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
 
-[El contenido del apartado 3, del artículo 263, fue vetado de acuerdo con los artículos 79, fracción II y 53 fracciones III, V y VI, primer párrafo, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio del Titular del Poder Ejecutivo GEO/050/2017, de fecha 02 de junio de 2017, recibido en la misma fecha en el Poder Legislativo.]
+3.- En la aplicación de la (sic) fracciones III, IV y V del artículo 33 de la Constitución Local, para la asignación de diputados de representación proporcional, se entenderá como Votación estatal válida emitida la que resulte de deducir de la votación total emitida, los votos a favor de los partidos políticos que no hayan obtenido el tres por ciento de dicha votación, los votos emitidos para candidatos independientes y los votos nulos.
 
 Artículo 264
 
@@ -4125,21 +4145,39 @@ b) La suma de esos resultados constituirá el cómputo de la votación total emi
 
 c) Se harán constar en el acta circunstanciada de la sesión los resultados del cómputo y los incidentes que ocurrieren.
 
-2.-
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
 
-[El contenido del apartado 2, del artículo 264, fue vetado de acuerdo con los artículos 79, fracción II y 53 fracciones III, V y VI, primer párrafo, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio del Titular del Poder Ejecutivo GEO/050/2017, de fecha 02 de junio de 2017, recibido en la misma fecha en el Poder Legislativo.]
+2.- Para la asignación de diputados de representación proporcional conforme a lo dispuesto en la fracción III del artículo 33 de la Constitución, se procederá a la aplicación de una fórmula de proporcionalidad pura, integrada por los siguientes elementos:
 
-3.-
+I. Cociente natural: es el resultado de dividir la votación estatal valida emitida entre los 17 diputados de representación proporcional;
 
-[El contenido del apartado 3, del artículo 264, fue vetado de acuerdo con los artículos 79, fracción II y 53 fracciones III, V y VI, primer párrafo, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio del Titular del Poder Ejecutivo GEO/050/2017, de fecha 02 de junio de 2017, recibido en la misma fecha en el Poder Legislativo.]
+II. Resto mayor: es el remanente más alto entre los restos de las votaciones de cada partido político, una vez hecha la distribución de curules mediante el cociente natural. El resto mayor se utilizará cuando aún hubiese diputados por distribuir
 
-4.-
+Una vez desarrollada la fórmula prevista en la fracción anterior, se observará el procedimiento siguiente:
 
-[El contenido del apartado 4, del artículo 264, fue vetado de acuerdo con los artículos 79, fracción II y 53 fracciones III, V y VI, primer párrafo, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio del Titular del Poder Ejecutivo GEO/050/2017, de fecha 02 de junio de 2017, recibido en la misma fecha en el Poder Legislativo.]
+a) Se determinarán los diputados que se le asignarían a cada partido político, conforme al número de veces que contenga su votación el cociente natural, y
 
-5.-
+b) Los que se distribuirían por resto mayor si después de aplicarse el cociente natural quedaren diputados por repartir, siguiendo el orden decreciente de los votos no utilizados para cada uno de los partidos políticos en la asignación de curules.
 
-[El contenido del apartado 5, del artículo 264, fue vetado de acuerdo con los artículos 79, fracción II y 53 fracciones III, V y VI, primer párrafo, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio del Titular del Poder Ejecutivo GEO/050/2017, de fecha 02 de junio de 2017, recibido en la misma fecha en el Poder Legislativo.]
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
+
+3.- Se determinará si es el caso de aplicar a algún partido político el o los límites establecidos en el artículo 33, fracción V, de la Constitución Política del Estado Libre y Soberano de Oaxaca, en relación con el artículo 23, apartado 1, párrafos segundo, tercero y cuarto, de la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca, para lo cual al partido político cuyo número de diputados por ambos principios exceda de 25, o su porcentaje de curules del total de la Cámara exceda en ocho puntos a su porcentaje de votación estatal valida emitida le serán deducidos el número de diputados de representación proporcional hasta ajustarse a los límites establecidos, asignándose las diputaciones excedentes a los demás partidos políticos que no se ubiquen en estos supuestos.
+
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
+
+4.- Una vez deducido el número de diputados de representación proporcional excedentes, al o los partidos políticos que se halla (sic) ubicado en alguno de los supuestos del párrafo anterior se le asignarán las curules que les correspondan a los partidos de acuerdo a los límites establecidos.
+
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
+
+5.- Para la asignación de diputados de representación proporcional en el caso de que se diere el supuesto previsto en el artículo 33, fracción V, de la Constitución Política del Estado Libre y Soberano de Oaxaca, en relación con el artículo 23, apartado 1, párrafos, segundo, tercero y cuarto, de la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca, se procederá como sigue.
+
+Una vez realizada la distribución a que se refieren el último párrafo del apartado 3 y el apartado 4, se procederá a asignar el resto de las curules a los demás partidos políticos con derecho a ello, en los términos siguientes
+
+I. Se obtendrá la votación estatal efectiva Para ello se deducirán de la votación estatal valida emitida los votos del o los partidos políticos a los que se les hubiese aplicado alguno de los límites establecidos en las fracciones IV o V del artículo 33 de la Constitución,
+
+II. La votación estatal efectiva se dividirá entre el número de curules por asignar, a fin de obtener un nuevo cociente natural y
+
+III. La votación estatal efectiva obtenida por cada partido se dividirá entre el nuevo cociente natural El resultado en números enteros será el total de diputados que asignar a cada partido.
 
 6.- Si quedaren diputaciones por repartir, se asignará a cada partido, en el orden decreciente, de los restos de votos, no utilizados por cada uno de ellos, en el procedimiento anterior;
 
@@ -5509,6 +5547,16 @@ NOVENO: Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno. Centro, Oax., a 2 de Junio de 2017. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
 
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE JUNIO DE 2017.
+
 # LIBRO DÉCIMO. DEL GOBIERNO DE COALICIÓN
 
 ## TÍTULO ÚNICO. DEL GOBIERNO DE COALICIÓN
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 650.- MEDIANTE EL CUAL APRUEBA DE MANERA PARCIAL LAS OBSERVACIONES REALIZADAS POR EL TITULAR DEL PODER EJECUTIVO RESPECTO AL DECRETO NÚMERO 633 RELATIVO A LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE OAXACA."]
+
+PRIMERO.- Para dar debido cumplimiento a lo dispuesto por el artículo 53 fracciones V y VI de la Constitución Política del Estado Libre y Soberano de Oaxaca, remítase al Poder Ejecutivo el presente Decreto, para su debida promulgación y publicación, para que se integren a las partes no vetadas del Decreto 633 y constituyan la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
