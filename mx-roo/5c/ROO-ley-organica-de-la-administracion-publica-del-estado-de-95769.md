@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2016-11-03"
+last_updated: "2017-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2017.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -105,9 +105,11 @@ Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por
 
 El Gobernador del Estado expedirá los reglamentos interiores, los acuerdos, circulares y otras disposiciones que regulen la organización y funcionamiento interno de las dependencias y entidades del Ejecutivo y autorizará la expedición de los manuales administrativos, para proveer en la esfera administrativa el exacto y eficaz cumplimiento de sus atribuciones, dentro de su capacidad presupuestal.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 13.
 
-El Gobernador del Estado podrá nombrar y remover libremente a los servidores públicos del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política o en las leyes del Estado.
+Es facultad exclusiva del Gobernador del Estado, nombrar y remover libremente a los Titulares de la Administración Pública Centralizada y Paraestatal, y demás servidores públicos del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política del Estado Libre y Soberano de Quintana Roo o en las leyes del Estado.
 
 ###### ARTÍCULO 14.
 
@@ -147,7 +149,9 @@ Para el despacho, estudio y planeación de los asuntos que correspondan a los di
 
 I. Secretaría de Gobierno;
 
-II. Secretaría de Desarrollo Social e Indígena;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+II. Secretaría de Desarrollo Social;
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -163,9 +167,13 @@ VII. Secretaría de Desarrollo Económico;
 
 VIII. Secretaría de Trabajo y Previsión Social;
 
-IX. Secretaría de Desarrollo Agropecuario y Rural;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-X. Secretaría de Educación y Cultura;
+IX. Secretaría de Desarrollo Agropecuario, Rural y Pesca;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+X. Secretaría de Educación;
 
 XI. Secretaría de Salud;
 
@@ -175,7 +183,7 @@ XIII. Secretaría de la Gestión Pública;
 
 XIV. Oficialía Mayor;
 
-XV. Procuraduría General de Justicia del Estado, y
+XV. (DEROGADA, P.O. 23 DE JUNIO DE 2017)
 
 XVI. Secretaría de Seguridad Pública.
 
@@ -189,7 +197,7 @@ II. Ser nativo o nativa de la entidad o tener residencia efectiva no menos de ci
 
 III. Tener un modo honesto de vivir.
 
-Para ser titular de la Procuraduría General de Justicia, se deberán cumplir los requisitos que establece el Artículo 96 de la Constitución Política del Estado y lo previsto en este artículo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE JUNIO DE 2017)</small>
 
 Tratándose de lo dispuesto en la fracción II del presente artículo, podrá ser dispensable únicamente para el cargo de Secretario de Seguridad Pública.
 
@@ -203,21 +211,17 @@ Para desempeñar los cargos de Subsecretario, Director General, Director de Áre
 
 ###### ARTÍCULO 22.
 
-El Gobernador nombrará al Procurador de Justicia, sin embargo, dicho nombramiento deberá ser aprobado o rechazado por la Legislatura o la Diputación Permanente, en su caso, conforme al procedimiento previsto en la Ley Orgánica de la Procuraduría General de Justicia del Estado y rendirá ante el órgano respectivo la protesta de ley para entrar en el ejercicio de su encargo.
-
-Sometido a la aprobación de la Legislatura o de la Diputación Permanente, en su caso, el nombramiento de Procurador, será aprobado o desechado en el improrrogable término de diez días naturales. Transcurrido ese término sin que nada resolviere el órgano legislativo correspondiente, se tendrá por aprobado el nombramiento y el designado entrará en el ejercicio de sus funciones previa la protesta de ley ante el órgano respectivo.
-
-Si fuere desechado el nombramiento, se procederá a realizar otro y si también fuere desechado, no se realizará uno nuevo, sino hasta iniciado el próximo período ordinario de sesiones. En tanto, continuará en el ejercicio de sus funciones el titular a sustituir, a menos que esté imposibilitado legalmente para hacerlo, y en este último caso, se desempeñará interinamente el que siga en el orden de designación, conforme a lo dispuesto por la Ley Orgánica de la Procuraduría General de Justicia del Estado.
-
-Una vez aprobado por la Legislatura o la Diputación Permanente, en su caso, el nombramiento del Procurador General de Justicia, queda sujeto a su ratificación posterior en los términos que al efecto establezca la Ley Orgánica de la propia Procuraduría.
+(DEROGADO, P.O. 23 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 23.
 
 Las dependencias deberán conducir sus actividades en forma programada y con base en las políticas, prioridades y restricciones que establezca el Gobierno del Estado para el logro de los objetivos y metas de los planes de Gobierno.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 24.
 
-Las dependencias de la Administración Pública del Estado, están obligadas a coordinar sus actividades; a proporcionarse la información necesaria cuando el ejercicio de las funciones así lo requiera; y a reconocerse entre sí los actos que realizan.
+Las Dependencias y Entidades de la Administración Pública del Estado, están obligadas a coordinar sus actividades; a proporcionarse la información necesaria cuando el ejercicio de las funciones así lo requiera; a reconocerse entre sí los actos que realizan; atender, dar seguimiento y respuesta a las solicitudes de información y recomendaciones que emita las Comisiones Nacional y Estatal de los Derechos Humanos e instrumentar las políticas que en materia de derechos humanos se determinen.
 
 ###### ARTÍCULO 25.
 
@@ -281,7 +285,15 @@ XIV. A más tardar el día treinta de septiembre de cada año, entregar a la dep
 
 XV. Tramitar en coordinación con la Oficialía Mayor lo relacionado con los nombramientos, ratificaciones, remociones, renuncias y licencias del personal a su cargo, y
 
-XVI. Las demás que le encomienden expresamente las leyes, reglamentos y el Gobernador del Estado.
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XVI. Fomentar en el ámbito de su competencia, la participación ciudadana en aquellos asuntos de interés público;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XVII. Implementar con criterios de austeridad y racionalidad, el uso eficiente y eficaz de los recursos asignados disponibles para el cumplimiento de sus atribuciones, y en materia energética, establecer el uso y aprovechamiento de las energías renovables, y
+
+XVIII. Las demás que le encomienden expresamente las leyes, reglamentos y el Gobernador del Estado.
 
 ###### ARTÍCULO 31.
 
@@ -307,13 +319,17 @@ IX. Regular y coordinar la organización y el funcionamiento del sistema notaria
 
 X. Organizar, coordinar, dirigir y vigilar el ejercicio de las funciones del Registro Civil, asegurando la adecuada distribución, funcionamiento y modernización de sus servicios, así como la correlación de sus funciones con el sistema federal en la materia y su vinculación con las políticas de población y desarrollo económico y social del Estado;
 
-XI. Elaborar el proyecto de agenda de iniciativas de leyes y decretos que serán presentados por el Gobernador del Estado a la Legislatura, atendiendo a las propuestas de las dependencias, órganos administrativos desconcentrados y entidades de la Administración Pública del Estado, y someterlo a consideración del mismo;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XI. Elaborar el proyecto de agenda de iniciativas de leyes y decretos que serán presentados por el Gobernador del Estado a la Legislatura, atendiendo a las propuestas de las dependencias, órganos administrativos desconcentrados y entidades de la Administración Pública del Estado, y someterlo a consideración del mismo, coadyuvando en su elaboración y trámite;
 
 XII. Diseñar, y aplicar las políticas de población del Estado de Quintana Roo, fomentar una cultura demográfica acorde a las circunstancias actuales que privilegie el bienestar y calidad de vida de los quintanarroenses y coordinar sus acciones con el Consejo Nacional de Población;
 
 XIII. Intervenir y colaborar, en su caso, de manera coordinada con las autoridades competentes, en materia electoral, de cultos religiosos, de migración, de loterías, de rifas y de juegos;
 
-XIV. Formular, normar, coordinar y vigilar las políticas de apoyo a la participación de la mujer en los diversos ámbitos del desarrollo, así como propiciar la coordinación interinstitucional para la realización de programas específicos, vinculados con la política interior del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XIV. Propiciar la coordinación interinstitucional para la realización de programas específicos vinculados con la política interior del Estado.
 
 XV. En lo concerniente a los Derechos Humanos, vigilar el cumplimiento de las recomendaciones de medidas administrativas que requiera su cumplimiento; proporcionando, la adecuada colaboración con las Comisiones Nacional y Estatal de Derechos Humanos;
 
@@ -341,25 +357,43 @@ XXV. Instrumentar la política de protección civil en el Estado, organizando y 
 
 XXVI. Supervisar y coordinar las funciones de la Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública, fomentando su vinculación con el Sistema Nacional de Seguridad Pública, y los demás Sistemas Estatales, y
 
-XXVII. Las demás que le encomienden expresamente las leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXVII. Organizar y administrar el Archivo General del Estado, determinando los lineamientos generales que permitan el desarrollo de una función desconcentrada en este rubro;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXVIII. Representar al Gobierno del Estado y establecer enlaces ante los Poderes de la Unión, dependencias y entidades de la Administración Pública Federal.
+
+XXIX. Las demás que le encomienden expresamente las Leyes y Reglamentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 32.
 
-A la Secretaría de Desarrollo Social e Indígena le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Social le corresponde el despacho de los siguientes asuntos:
 
 I. Formular, conducir y evaluar la política estatal de desarrollo social y las acciones correspondientes para el combate efectivo a la pobreza, procurando el desarrollo integral de la población del Estado;
 
-II. Promover la formulación de los proyectos de ley, reglamentos y demás disposiciones de carácter general, en materia de desarrollo social, desarrollo indígena y atención a grupos marginados, en coordinación con las dependencias y entidades de la Administración Pública del Estado involucradas en esas materias y someterlos a la aprobación del Ejecutivo, para el proceso legislativo correspondiente;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-III. Concertar y convenir programas y acciones con el Ejecutivo Federal, los Ayuntamientos de los Municipios, así como los Órganos Autónomos, Organizaciones Civiles y con los Gobiernos de otros Estados, con el propósito de generar las condiciones de desarrollo social e indígena;
+II. Promover la formulación de los proyectos de ley, reglamentos y demás disposiciones de carácter general, en materia de desarrollo social y atención a grupos marginados, en coordinación con las dependencias y entidades de la Administración Pública del Estado involucradas en esas materias y someterlos a la aprobación del Ejecutivo, para el proceso legislativo correspondiente;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+III. Concertar y convenir programas y acciones con el Ejecutivo Federal, los Ayuntamientos de los Municipios, así como los Órganos Autónomos, Organizaciones Civiles y con los Gobiernos de otros Estados, con el propósito de generar las condiciones de desarrollo social;
 
 IV. Realizar los estudios necesarios y ejecutar, en su caso, las obras públicas y acciones que se requieran para cumplir con las metas y objetivos establecidos en el Programa Estatal, en términos de la Ley en la materia;
 
 V. Coordinar el diseño, formulación e instrumentación de los programas de desarrollo social del Gobierno del Estado, en conjunto con las diversas dependencias del Ejecutivo Estatal;
 
-VI. Coordinar la formulación, instrumentación y evaluación de las políticas y programas sectoriales en materia de desarrollo indígena, promoviendo las relaciones de equidad entre las comunidades indígenas, los sectores de la sociedad y el Estado, en los términos de los artículos 3o y 4o de la Constitución Política del (sic) los Estados Unidos Mexicanos y 13 de la Constitución Política del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-VII. Dar seguimiento a la ejecución de los programas de desarrollo social y desarrollo indígena que se realicen con recursos estatales o federales a cargo de las dependencias y entidades de la Administración Pública del Estado o de los municipios de la entidad;
+VI. Coordinar la formulación, instrumentación y evaluación de las políticas y programas sectoriales en materia de desarrollo social, que promuevan las relaciones de equidad entre las comunidades, los sectores de la sociedad y el Estado, en los términos de los artículos 3o y 4o de la Constitución Política de los Estados Unidos Mexicanos y 13 de la Constitución Política del Estado Libre y Soberano de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+VII. Dar seguimiento a la ejecución de los programas de desarrollo social que se realicen con recursos estatales o federales a cargo de las dependencias y entidades de la Administración Pública del Estado o de los municipios de la entidad;
 
 VIII. Promover mecanismos tendientes a garantizar que los recursos públicos destinados a los programas sociales, se apliquen prioritariamente a los municipios con mayor índice de vulnerabilidad;
 
@@ -371,9 +405,13 @@ X. Coordinar y concertar de manera conjunta con las dependencias y entidades de 
 
 XI. Coadyuvar en la implementación y ejecución de programas de creación y apoyo a empresas individuales o colectivas en los grupos de escasos recursos, con la participación de los sectores social y privado y de las dependencias del Gobierno del Estado;
 
-XII. Establecer programas especiales de desarrollo a las comunidades indígenas y rurales con el fin de consolidar su integración al desarrollo del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-XIII. Concertar con la Secretaría de Desarrollo Agropecuario y Rural, la integración, instrumentación y ejecución de los presupuestos de desarrollo social vinculados con la transformación socioeconómica de las comunidades indígenas y grupos marginados, con la colaboración; tanto de las dependencias coordinadoras de los sectores de producción y desarrollo social, como de las representaciones de esas comunidades;
+XII. Establecer programas especiales de desarrollo a las comunidades rurales con el fin de consolidar su integración al desarrollo del Estado;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XIII. Concertar con la Secretaría de Desarrollo Agropecuario, Rural y Pesca, la integración, instrumentación y ejecución de los presupuestos de desarrollo social vinculados con la transformación socioeconómica de los grupos marginados, con la colaboración tanto de las dependencias coordinadoras de los sectores de producción y desarrollo social, como de las representaciones de esas comunidades;
 
 XIV. Convenir con los municipios la elaboración, ejecución, registro y evaluación de los programas de inversión en materia de desarrollo social y humano, así como los de combate a la pobreza;
 
@@ -391,15 +429,27 @@ XIX. Establecer, coordinar y operar el Sistema Estatal de Desarrollo Social con 
 
 XX. Proporcionar asesoría y capacitación en materia de desarrollo comunitario y política social a las dependencias de la administración pública estatal, a los municipios, así como a los sectores y grupos sociales y privados que lo requieran;
 
-XXI. Emprender acciones de mejoramiento de las comunidades indígenas e intervenir en la administración de fondos mixtos nacionales o internacionales para apoyar el desarrollo de las mismas;
+XXI. (DEROGADA, P.O. 23 DE JUNIO DE 2017)
 
-XXII. Intervenir, en coordinación con la Secretaría de Educación y Cultura, en la elaboración de los convenios de coordinación que en materia de educación indígena y para los grupos marginados, celebre el Estado con el Gobierno Federal y los Municipios;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-XXIII. Coadyuvar en la coordinación y ejecución de planes y proyectos de obras públicas y de construcción, ampliación, rehabilitación y mantenimiento de caminos, infraestructura de comunicaciones donde se involucren a las comunidades indígenas del Estado;
+XXII. Intervenir, en coordinación con la Secretaría de Educación, en la elaboración de los convenios de coordinación que en materia de educación indígena y para los grupos marginados, celebre el Estado con el Gobierno Federal y los Municipios;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXIII. Coadyuvar en la coordinación y ejecución de planes y proyectos de obras públicas y de construcción, ampliación, rehabilitación y mantenimiento de caminos, infraestructura de comunicaciones donde se involucren a las comunidades marginadas del Estado;
 
 XXIV. Recibir las demandas ciudadanas y gestionar su solución a través de las diferentes instancias de los tres niveles de gobierno, así como implementar programas emergentes de coordinación para resolver los requerimientos de la sociedad, y
 
-XXV. Las demás que le encomienden expresamente las leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXV. Formular, normar, coordinar y vigilar las políticas de apoyo a la participación de la mujer en los diversos ámbitos de desarrollo social;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXVI. Promover y coordinar la participación del Estado en eventos culturales, recreativos, o competencias deportivas nacionales o regionales en los niveles individual, familiar y social;
+
+XXVII. Las demás que le encomienden expresamente las Leyes y Reglamentos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -415,7 +465,9 @@ l. Conducir la política hacendaria del Estado en materias de administración tr
 
 II. Elaborar el Anteproyecto de Egresos y los Programas de Ingresos y Egresos del Estado, conforme a la legislación aplicable, observando en todo caso lo dispuesto en la Ley General de Contabilidad Gubernamental y las normas que emita el Consejo Nacional de Armonización Contable. De igual manera, formular y presentar al Gobernador del Estado, para su posterior remisión a la Legislatura en términos de la legislación aplicable, de los proyectos y sus modificaciones de Ley de Ingresos, del Presupuesto de Egresos y el Programa General del Gasto Público. También intervenir en las operaciones en que el Ejecutivo del Estado haga uso del crédito público y llevar el registro contable de la deuda pública del Estado;
 
-III. Proyectar y coordinar las políticas de planeación del desarrollo del gasto de Inversión del Estado y formular con las dependencias y entidades de la Administración Pública los programas estatales, sectoriales, regionales e institucionales respectivos, asegurando su interrelación; asimismo, coordinar su evaluación y promover su oportuna actualización, bajo las directrices del Titular del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+III. Proyectar y coordinar las políticas de planeación del desarrollo del gasto de Inversión del Estado y formular con las dependencia (sic) y entidades de la Administración Pública, los programas estatales, sectoriales, regionales, institucionales y especiales respectivos, asegurando su interrelación; asimismo coordinar su evaluación y promover su oportuna actualización, bajo las directrices del Titular del Poder Ejecutivo del Estado;
 
 IV. Conducir, regular y coordinar el Sistema Estatal de Planeación y el Comité de Planeación para el Desarrollo del Estado;
 
@@ -437,7 +489,7 @@ XII. Normar, coordinar, supervisar y consolidar los sistemas estatales de planea
 
 XIII. Conducir, regular, administrar, operar y supervisar el Sistema de Contabilidad del Estado, para lo cual fijará, emitirá y evaluará criterios y lineamientos en dicha materia;
 
-XIV. Proponer al Gobernador el (sic) Estado las políticas y programas para lograr una recaudación efectiva, expedita y congruente con los requerimientos de la población y el crecimiento de los sectores productivos de la Entidad;
+XIV. Proponer al Gobernador del Estado las políticas y programas para lograr una recaudación efectiva, expedita y congruente con los requerimientos de la población y el crecimiento de los sectores productivos de la Entidad;
 
 XV. Proyectar y calcular los ingresos del Estado, considerando las necesidades del gasto público estatal, la utilización razonable del crédito público y el equilibrio financiero de la Administración Pública del Estado;
 
@@ -499,9 +551,13 @@ I. Formular, instrumentar, conducir y evaluar, de manera coordinada con la Secre
 
 II. Concertar, coordinar, instrumentar, evaluar y ejecutar programas y acciones de ordenamiento territorial, desarrollo urbano, asentamientos humanos, vivienda, agua potable y saneamiento, en coordinación con las dependencias y entidades de la Administración Pública del Estado, respetando las competencias de los municipios;
 
-III. Promover y vigilar en coordinación con los Ayuntamientos del Estado, el ordenamiento territorial y el desarrollo equilibrado de los asentamientos humanos del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-IV. Promover y ejecutar los programas y acciones de vivienda, así como los tendientes al mejoramiento del entorno urbano;
+III. Promover y vigilar en coordinación con los Ayuntamientos del Estado, el ordenamiento territorial y el desarrollo equilibrado y sustentable de los asentamientos humanos del Estado;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+IV. Promover y ejecutar los programas y acciones de vivienda, así como los tendientes al mejoramiento del entorno urbano privilegiando condiciones de resiliencia, sustentabilidad y protección al medio ambiente.
 
 V. Asesorar, apoyar y promover técnica y jurídicamente, la incorporación de la tierra de origen rural al desarrollo urbano;
 
@@ -515,13 +571,17 @@ VIII. Promover, proponer, conducir y evaluar la realización de los programas de
 
 IX. Determinar en los períodos que señalen las disposiciones legales, las características de la propiedad raíz en el Estado en coordinación con la Secretaría de Finanzas y Planeación y establecer los métodos para darle el valor más cercano al real, de acuerdo a esas características. En su caso, proporcionar la información resultante a los municipios, para determinar los avalúos de los predios dentro de su jurisdicción;
 
-X. Establecer y vigilar el cumplimiento de los programas relacionados con las reservas territoriales en el Estado, con la participación que corresponda al Instituto del Patrimonio Inmobiliario de la Administración Pública del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+X. Establecer y vigilar el cumplimiento de los programas relacionados con las reservas territoriales en el Estado, con la participación que corresponda a los organismos descentralizados especializados en la materia;
 
 XI. Expedir las licencias, constancias y autorizaciones en materia de fraccionamientos, desarrollo urbano y asentamientos humanos; así como, otorgar las escrituras públicas y los títulos de propiedad sobre los predios que regularice o enajene de conformidad con las disposiciones legales aplicables;
 
 XII. Elaborar los anteproyectos de decretos de expropiación, ocupación temporal y limitación de dominio, en los casos de utilidad pública en materia de desarrollo urbano y promoverlos para su aprobación y posterior promulgación ante la Secretaría de Gobierno;
 
-XIII. Promover estudios para el mejoramiento del ordenamiento territorial, de los asentamientos humanos y del desarrollo urbano y la vivienda en la Entidad e impulsar proyectos para su financiamiento;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XIII. Promover estudios para el mejoramiento del ordenamiento territorial, de los asentamientos humanos, del uso sustentable del suelo, del desarrollo urbano y la vivienda en la Entidad, implementando mecanismos para su financiamiento y ejecución;
 
 XIV. Aplicar las sanciones previstas en las disposiciones legales en las materias de su competencia; dar seguimiento a la aplicación de las que correspondan a otras autoridades, y resolver los recursos y quejas que formulen los particulares de conformidad con las disposiciones aplicables;
 
@@ -535,7 +595,9 @@ XVIII. Coadyuvar en la vigilancia del cumplimiento de las declaraciones de usos,
 
 XIX. Programar de manera coordinada con las autoridades federales, estatales y municipales competentes, la inversión pública y la realización de acciones de desarrollo urbano que se ejecuten en la Entidad y evaluar sus resultados;
 
-XX. Promover, formular y presentar de manera coordinada con la Secretaría de Educación y Cultura y autoridades municipales, proyectos de rescate de edificaciones con valor arquitectónico y urbano en los centros históricos de las localidades del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XX. Promover, formular y presentar de manera coordinada con la Secretaría de Educación y autoridades municipales, proyectos de rescate de edificaciones con valor arquitectónico y urbano en los centros históricos de las localidades del Estado;
 
 XXI. Supervisar y vigilar de manera coordinada con la Secretaría de Ecología y Medio Ambiente, que la preservación ecológica constituya una línea conductora de la programación del desarrollo urbano y regional;
 
@@ -575,7 +637,9 @@ I. Formular, instrumentar, conducir, ejecutar y evaluar las políticas y program
 
 II. Realizar obras públicas, directamente o a través de terceros, en los términos de la Ley de Obras Públicas del Estado de Quintana Roo y demás disposiciones aplicables;
 
-III. Elaborar, directamente o a través de terceros, los estudios, proyectos arquitectónicos y de ingeniería necesarios para ejecutar las obras públicas, observando las disposiciones legales y reglamentarias correspondientes, y vigilar su cumplimiento;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+III. Elaborar, directamente o a través de terceros, los estudios, proyectos arquitectónicos y de ingeniería necesarios para ejecutar las obras públicas, observando las disposiciones legales y reglamentarias correspondientes, y vigilar su cumplimiento. Tratándose de proyectos de asociación público privada se someterá a lo ordenado en las disposiciones legales aplicables.
 
 IV. Vigilar la aplicación de las disposiciones legales y normas técnicas para realizar o aprobar, según el caso, la construcción de las obras públicas que ejecute el Gobierno, por sí o en colaboración con la Federación, los Ayuntamientos o los particulares;
 
@@ -629,9 +693,13 @@ II. Promover, certificar e implementar programas para el cumplimiento cabal de l
 
 III. Instrumentar la ejecución de las políticas públicas en materia forestal, concertando acciones de fomento, regulación, planeación, conducción, ejecución, información, promoción y capacitación técnica, empresarial, articulación productiva, evaluación, control y vigilancia en los aspectos considerados en las disposiciones normativas en materia forestal;
 
-IV. Gestionar con las dependencias federales, estatales y municipales correspondientes, el otorgamiento de incentivos y estímulos a favor de los particulares que contribuyan a la protección ambiental y al equilibrio de los ecosistemas de la entidad;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-V. Proporcionar asesoría y servicios tendientes a la conservación, restauración y aprovechamiento de los recursos naturales y el ambiente, y llevar el registro de las personas físicas y morales acreditadas para ello, así como el padrón correspondiente;
+IV. Gestionar con las dependencias federales, estatales y municipales correspondientes, el diseño y aplicación de instrumentos económicos de política ambiental que contribuyan a la protección ambiental y al equilibrio de los ecosistemas de la entidad;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+V. Proporcionar asesoría y servicios tendientes a la conservación, restauración y aprovechamiento de los recursos naturales y el ambiente, y en su caso, acreditar a las personas físicas y morales que proporcionen asesoría y servicios profesionales en materia de impacto y riesgo ambiental, e integrar el registro y padrón de los mismos;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
 
@@ -641,15 +709,21 @@ VII. Instrumentar e impulsar metodologías y procedimientos de evaluación econ�
 
 VIII. Evaluar la calidad del aire y del ambiente así como establecer y promover el Sistema Estatal de Información Ambiental, que incluirá los sistemas de monitoreo atmosférico, de suelo y de cuerpos de agua de jurisdicción estatal, entre otros;
 
-IX. Promover, en coordinación con la Secretaría de Educación y Cultura, la incorporación de contenidos ambientales en la política educativa del Estado y en los planes y programas de estudios, así como la formación de actitudes y valores de protección y conservación del patrimonio natural;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+IX. Promover, en coordinación con la Secretaría de Educación, la incorporación de contenidos ambientales en la política educativa del Estado y en los planes y programas de estudios, así como la formación de actitudes y valores de protección y conservación del patrimonio natural;
 
 X. Aplicar la normatividad para la construcción de los sistemas de tratamiento de aguas residuales;
 
 XI. Coadyuvar con las autoridades competentes en la vigilancia sobre la conservación de las corrientes de agua, ríos, lagos y lagunas de jurisdicción estatal y en la protección de cuencas alimentadoras y demás cuerpos de agua;
 
-XII. Conformar, operar y elaborar programas para el Sistema Estatal de Áreas Naturales Protegidas en el Estado, con la participación que corresponda a los Gobiernos Municipales, así como normar y supervisar la operación de los parques, zoológicos, jardines botánicos, reservas y parques naturales, competencia del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-XIII. Desarrollar, en coordinación con la Secretaría de Desarrollo Agropecuario y Rural, y con las autoridades federales competentes, el censo de predios forestales y silvopastoriles y de sus productos; así como, levantar, organizar, manejar y actualizar las cartografías correspondientes, los inventarios de recursos naturales y de fauna y flora silvestre que competa al Gobierno del Estado;
+XII. Proponer al Ejecutivo el establecimiento de Áreas Naturales Protegidas de interés estatal, así como manejarlas y administrarlas con la participación que corresponda a los Gobiernos Municipales, así como normar y supervisar la operación de los parques, zoológicos, jardines botánicos, reservas y parques naturales, competencia del Estado y aquellas cedidas en administración por la federación y/o municipios;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XIII. Desarrollar, en coordinación con la Secretaría de Desarrollo Agropecuario, Rural y Pesca, y con las autoridades federales competentes, el censo de predios forestales y silvopastoriles y de sus productos; así como, levantar, organizar, manejar y actualizar las cartografías correspondientes, los inventarios de recursos naturales y de fauna y flora silvestre que competa al Gobierno del Estado;
 
 XIV. Regular y promover, en colaboración con las autoridades federales, estatales y municipales, la protección y preservación de los recursos de fauna y flora silvestres del Estado, de acuerdo con las disposiciones legales aplicables;
 
@@ -657,7 +731,7 @@ XV. Aplicar las restricciones en materia ecológica y sobre los recursos natural
 
 XVI. Promover y realizar estudios e investigaciones de carácter científico y tecnológico, que contribuyan a impulsar el conocimiento de los diversos ecosistemas y del medio ambiente de la Entidad;
 
-XVII. Fomentar y conducir estudios, trabajos y servicios meteorológicos del Estado;
+XVII. (DEROGADA, P.O. 23 DE JUNIO DE 2017)
 
 XVIII. Formular, actualizar, ejecutar y hacer valer el Programa de Ordenamiento Ecológico del Estado, programas regionales y locales con la participación de los municipios;
 
@@ -681,19 +755,45 @@ XXVII. Autorizar el establecimiento de Coordinaciones de la Procuraduría de Pro
 
 XXVIII. Instrumentar, coordinar y dar seguimiento al Programa Estatal de Acción ante el Cambio Climático del Estado de Quintana Roo;
 
-XXIX. Gestionar la información en los diversos órdenes de Gobierno, Cámaras; Organizaciones Civiles y Centro de Educación Superior Públicos y Privados de conformidad con la Ley de la materia;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXIX. Gestionar la información técnica y científica en los diversos órdenes de Gobierno, Cámaras, Organizaciones Civiles y Centro de Educación Superior Públicos y Privados de conformidad con la Ley en materia de cambio climático;
 
 XXX. Elaborar el inventario de Gases Efecto Invernadero, así como la actualización de la información y su difusión a la población;
 
-XXXI. Definir y establecer en coordinación con las instancias correspondientes Federal, Estatal y Municipal, áreas para desarrollar Proyectos de Pagos de Servicios Ambientales y de Reducción de Emisiones de Gases Efecto Invernadero por Deforestación y Degradación Plus, y
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-XXXII. Las demás que le encomienden expresamente las leyes y reglamentos.
+XXXI. Definir y establecer en coordinación con las instancias correspondientes Federal, Estatal y Municipal, instrumentos económicos de política ambiental, así como áreas para desarrollar proyectos de Pagos de Servicios Ambientales y de Reducción de Emisiones de Gases Efecto Invernadero por Deforestación y Degradación Plus;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXXII. Evaluar y autorizar los estudios en materia de impacto y riesgo ambiental de competencia estatal, así como coadyuvar con la autoridad federal competente en la emisión de opiniones técnicas de soporte;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXXIII. Fomentar, concertar y ejecutar programas y planes de educación ambiental, fomentar la investigación científica y la participación ciudadana que promuevan actitudes y valores de protección y conservación del patrimonio ambiental;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXXIV. Promover el fortalecimiento de los contenidos ambientales de planes y programas de estudio en los diversos niveles educativos en coordinación con la Secretaria de Educación;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXXV. Fomentar y promover el aprovechamiento sustentable de los recursos naturales que correspondan a la competencia del Estado;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXXVI. Vigilar el cumplimiento de las leyes, normas oficiales y convenios relacionados con la biodiversidad del estado, para su correcta aplicación; y
+
+XXXVII. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 ###### ARTÍCULO 37.
 
 A la Secretaría de Desarrollo Económico corresponde el despacho de los siguientes asuntos:
 
-I. Formular, instrumentar, conducir y evaluar las políticas y programas sectoriales de desarrollo, promoción, fomento económico y competitividad, en materia industrial, minera de comercio exterior e interior, abasto servicios, pesquera, de acuacultura, artesanías y desregulación económica, así como participar en lo relativo a la industrialización agropecuaria y forestal, con base en las disposiciones constitucionales y legales aplicables y las normas y lineamientos que determine el Gobernador del Estado en vinculación con el Sistema Estatal de Planeación, y ejercer por delegación del Ejecutivo del Estado, las atribuciones y funciones que en esas materias contengan los convenios suscritos entre las Administraciones Públicas Federal Estatal y Municipal;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+I. Formular, instrumentar, conducir y evaluar las políticas y programas sectoriales de desarrollo, promoción, fomento económico y competitividad, en materia industrial, minera de comercio exterior e interior, abasto servicios, artesanías, inversión público-privada, innovación y tecnología, desregulación económica, así como participar en lo relativo a la industrialización agropecuaria y forestal, con base en las disposiciones constitucionales y legales aplicables y las normas y lineamientos que determine el Gobernador del Estado en vinculación con el Sistema Estatal de Planeación, y ejercer por delegación del Ejecutivo del Estado, las atribuciones y funciones que en esas materias contengan los convenios suscritos entre las Administraciones Públicas Federal, Estatal y Municipal;
 
 II. Formular, instrumentar, conducir y evaluar las políticas y programas estatales en materia de uso eficiente de energía y el fomento del aprovechamiento de energías renovables, así como formular programas de operación, inversión y financiamiento en la materia;
 
@@ -703,15 +803,17 @@ IV. Consolidar y regular los servicios asociados a las actividades económicas, 
 
 V. Coordinar, operar y supervisar el Sistema de Información Económica y de Mercado de Quintana Roo, con el objeto de apoyar en la toma de decisiones en materia económica a los diversos agentes económicos y sociales del Estado de Quintana Roo;
 
-VI. Conducir, en coordinación con las Dependencias y Entidades involucradas, las acciones de la Administración Pública del Estado, relacionados con la mejora regulatoria y la simplificación administrativa de aquellos trámites e instrumentos normativos, de carácter estatal, destinados a regular y promover el desarrollo económico de la entidad;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+VI. Implementar y conducir en coordinación con las Dependencias y Entidades involucradas de los tres niveles de gobierno las políticas públicas de mejora regulatoria para la simplificación de regulaciones, trámites y servicios en general y demás objetivos que contenga la ley de la materia, destinados principalmente a promover el desarrollo económico de la entidad; procurando los mayores beneficios para la sociedad, con los menores costos posibles;
 
 VII. Promover y coordinar los programas de promoción del comercio exterior y la inversión extranjera en los diversos sectores de la economía de la Entidad con base en la Legislación y normatividad aplicable;
 
 VIII. Coadyuvar con las autoridades competentes en la instrumentación y divulgación de la normatividad del registro de la propiedad industrial, así como en lo relacionado con el estímulo y orientación de la inversión estatal, nacional e internacional y el comercio exterior en la entidad;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-IX. Establecer la política en materia de atracción de inversiones y promover en coordinación con la Secretaría de Finanzas y Planeación, la implantación de los programas económicos que dan lugar a los estímulos fiscales y facilidades administrativas para el fomento de las actividades económicas en la entidad;
+IX. Establecer la política en materia de atracción de inversiones y promover en coordinación con la Secretaría de Finanzas y Planeación, y las demás instancias gubernamentales en la materia, la implantación de los programas económicos que dan lugar a los estímulos fiscales y facilidades administrativas para el fomento de las actividades económicas en la entidad;
 
 X. Coadyuvar con las autoridades federales y locales competentes en la implementación de la política de precios, su cumplimiento y observancia de las disposiciones jurídicas aplicables en calidad, peso y medidas necesarias para las actividades comerciales e industriales;
 
@@ -727,9 +829,9 @@ XIV. Coordinar la operación del Sistema Estatal del Emprendedor;
 
 XV. Fomentar y coordinar el funcionamiento de la Comisión Estatal de Competitividad, entre los Gobiernos Federal, Estatal y Municipales, así como promover e incentivar la cooperación de los sectores públicos y privados para la planeación, control y evaluación de los programas y proyectos relacionados con la competitividad;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-XVI. Instrumentar los programas de desarrollo de la micro y pequeña empresa, industrial, comercial o artesanal, vinculados a la transformación socioeconómica de las comunidades indígenas y grupos marginados, en coordinación con la Secretaría de Finanzas y Planeación y la Secretaría de Desarrollo Agropecuario y Rural, asimismo, con la participación de otras instancias del sector público y privado, de las etnias y de los grupos involucrados;
+XVI. Instrumentar los programas de desarrollo de la micro y pequeña empresa, industrial, comercial o artesanal, vinculados a la transformación socioeconómica de las comunidades indígenas y grupos marginados, en coordinación con la Secretaría de Finanzas y Planeación y la Secretaría de Desarrollo Agropecuario, Rural y Pesca, asimismo con la participación de otras instancias del sector público y privado, de las etnias y de los grupos involucrados.
 
 XVII. Actuar como instancia de coordinación y de enlace con las cámaras, asociaciones y representaciones del sector empresarial, con la banca de desarrollo, cooperativas, sector social y otras instancias en materia industrial, minera, comercio exterior e interior, abasto, servicios, pesquera, acuacultura, artesanías, e industria agropecuaria y forestal que coadyuven al desarrollo económico del Estado;
 
@@ -745,7 +847,9 @@ XXII. Promover la comercialización, distribución y consumo de los bienes y ser
 
 XXIII. Promover la creación de centros de abasto y comercio, parques y corredores industriales en el Estado; asimismo, integrar y coordinar los Sistemas Estatales para el Abasto, el Sistema de Parques y Corredores Industriales del Estado;
 
-XXIV. Promover y fomentar acciones, programas y estudios que faciliten el abastecimiento, industrialización, distribución y comercialización de productos básicos, agroindustriales y pesqueros;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXIV. Promover y fomentar acciones, programas y estudios que faciliten el abastecimiento, industrialización, distribución y comercialización de productos básicos agroindustriales, forestales, artesanales y en general lo producido en el Estado;
 
 XXV. Promover el establecimiento de instrumentos de apoyo para la eficiencia y suficiencia energética así como promover el desarrollo tecnológico para el uso de energías renovables como factor de competitividad;
 
@@ -753,15 +857,17 @@ XXVI. Planear y establecer, en coordinación con las Dependencias y Entidades de
 
 XXVII. Identificar y promover, en coordinación con los agentes económicos, acciones y programas de industrialización de los productos de origen agrícola, ganadero y forestal;
 
-XXVIII. Coordinar, promover e impulsar los planes, programas y el desarrollo de la actividad pesquera y acuícola del Estado, bajo una política de desarrollo sustentable y fomento de los recursos marinos y acuícolas del Estado;
+XXVIII. (DEROGADA, P.O. 23 DE JUNIO DE 2017)
 
-XXIX. Realizar los estudios económicos y sociales para estimular y fomentar la pesca y la acuacultura así como su industrialización, sin afectar el equilibrio ecológico, e identificar las ventajas comparativas y competitivas del sector para su desarrollo y fomento;
+XXIX. (DEROGADA, P.O. 23 DE JUNIO DE 2017)
 
-XXX. Impulsar y promover la pesca y la acuacultura a través de la implantación de instrumentos y programas para el autoconsumo, industrialización y comercialización;
+XXX. (DEROGADA, P.O. 23 DE JUNIO DE 2017)
 
-XXXI. Impulsar en coordinación con las autoridades competentes, federales y estatales, la formación y organización de la flota pesquera; así como, promover el financiamiento y la asistencia técnica de las actividades del sector, además, colaborar con las autoridades en la instrumentación de las medidas de protección social vinculadas con la materia;
+XXXI. (DEROGADA, P.O. 23 DE JUNIO DE 2017)
 
-XXXII. Promover la realización de ferias, exposiciones y congresos, de carácter local, nacional e internacional, vinculadas a la promoción de actividades industriales, comerciales, pesqueras, acuícolas y artesanales;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXXII. Promover la realización de ferias, exposiciones y congresos, de carácter local, nacional e internacional, vinculadas a la promoción de actividades industriales, comerciales, artesanales y económicas en general;
 
 XXXIII. Fomentar la organización de sociedades y cooperativas, cuyo objeto sea la distribución o el consumo, así como de sociedades para la producción industrial;
 
@@ -777,13 +883,21 @@ XXXVI. Proponer y establecer el marco de actuación y normatividad de los centro
 
 XXXVII. Establecer y atender ventanillas y centros de gestión, fomento económico y de competitividad, que se instalen en las distintas Cámaras, Asociaciones, Colegios y Banca de Desarrollo;
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-XXXVIII. Instrumentar, ejecutar y coordinar la política estatal de apoyo incluyente a emprendedores y a las micro, pequeñas y medianas empresas, impulsando su innovación, competitividad y proyección en los mercados estatal, nacional e internacional, para aumentar su contribución al desarrollo económico y bienestar social, así como coadyuvar al desarrollo de políticas que fomenten la cultura y productividad empresarial en el Estado de Quintana Roo, y
+XXXVIII. Instrumentar, ejecutar y coordinar la política estatal de apoyo incluyente a emprendedores y a las micro, pequeñas y medianas empresas, impulsando su competitividad y proyección en los mercados estatal, nacional e internacional, para aumentar su contribución al desarrollo económico y bienestar social, así como coadyuvar al desarrollo de políticas que fomenten la cultura, el desarrollo tecnológico, la innovación y productividad empresarial en el Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXXIX. Impulsar el desarrollo tecnológico y la innovación;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XL. Establecer las directrices de los proyectos de asociación público privada en coordinación con la instancia de gobierno encargada de la administración de los proyectos estratégicos; y
 
 > <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-XXXIX. Las demás que le atribuyan expresamente las Leyes y Reglamentos.
+XLI. Las demás que le encomienden expresamente las Leyes y Reglamentos.
 
 ###### ARTÍCULO 38.
 
@@ -827,7 +941,9 @@ XVIII. Auxiliar en sus funciones a la Comisión Regional de los Salarios Mínimo
 
 XIX. Formular y ejecutar programas de difusión de los cambios que se den en las normas laborales;
 
-XX. Impartir cursos de capacitación para incrementar la productividad en el sector productivo estatal en coordinación con la Secretaría de Educación y Cultura;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XX. Impartir cursos de capacitación para incrementar la productividad en el sector productivo estatal en coordinación con la Secretaría de Educación;
 
 XXI. Fomentar y apoyar la organización social para el trabajo y autoempleo;
 
@@ -839,29 +955,43 @@ XXIV. Detectar los casos en que, derivado de su facultad de visitar e inspeccion
 
 XXV. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 39.
 
-A la Secretaría de Desarrollo Agropecuario y Rural, corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Agropecuario, Rural y Pesca, corresponde el despacho de los siguientes asuntos:
 
-I. Formular, instrumentar, conducir y evaluar las políticas y programas sectoriales de desarrollo, promoción y fomento económico, en materia de agricultura, fruticultura, horticultura, apicultura, ganadería, agroindustria, desarrollo rural y de aprovechamiento forestal, con base en la Legislación Estatal y Federal aplicable y las normas y lineamientos que determine el Gobernador del Estado, en vinculación con el Sistema Estatal de Planeación de la Entidad, y tomando en cuenta la opinión del sector productor en lo conducente;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+I. Formular, instrumentar, conducir y evaluar las políticas y programas sectoriales de desarrollo, promoción y fomento económico, en materia de agricultura, fruticultura, horticultura, apicultura, ganadería, agroindustria, desarrollo rural, acuacultura, pesca y de aprovechamiento forestal, con base en la legislación estatal y federal aplicable y las normas y lineamientos que determine el Gobernador del Estado, en vinculación con el Sistema Estatal de Planeación de la Entidad, y tomando en cuenta la opinión del sector productor en lo conducente;
 
 II. Consolidar y regular los servicios regionales del sector, procurando su vinculación con el modelo de organización y desarrollo regional del Estado bajo criterios de eficiencia, productividad y ahorro en el gasto público y mayor cercanía y calidad de servicios a la población;
 
 III. Ejercer, por delegación del Ejecutivo del Estado y de manera coordinada con las Dependencias y Entidades de la Administración Pública Estatal, las atribuciones y funciones que en materia agrícola, ganadera, forestal, aprovechamiento racional de los cuerpos de agua, acuacultura, pesca, agroindustria, de desarrollo rural y para los grupos marginados, contengan los convenios firmados entre el Titular del Poder Ejecutivo del Estado y la Administración Pública Federal; y proponer al Gobernador del Estado la instrumentación de nuevos convenios en los rubros mencionados;
 
-IV. Intervenir en la formulación y conducción, en coordinación con las dependencias competentes del Gobierno Federal y Estatal, en las políticas estatales en materia de producción agrícola, ganadera, así como de aprovechamiento forestal y desarrollo hidráulico y agroindustrial;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+IV. Intervenir en la formulación y conducción, en coordinación con las dependencias competentes del Gobierno Federal y Estatal, en las políticas estatales en materia de producción agrícola, ganadera, así como de aprovechamiento forestal, desarrollo hidráulico, agroindustrial, pesquero y acuícola;
 
 V. Regular, promover y vigilar en coordinación con las Dependencias y Entidades competentes, los servicios agropecuarios y de desarrollo rural de la entidad, conforme a la legislación aplicable; así como, difundir técnicas, sistemas y procedimientos eficaces que permitan el mejoramiento de la producción y la productividad, en un contexto de competitividad y adecuado desarrollo agropecuario y rural; asimismo, proponer al Titular del Poder Ejecutivo del Estado, los mecanismos de coordinación interinstitucional, que incentiven el desarrollo y la inversión productiva en los ámbitos de su competencia;
 
-VI. Establecer, en coordinación con las dependencias y entidades federales, estatales y municipales competentes, programas y acciones que tiendan a fomentar la productividad y la rentabilidad de las actividades agrícolas, ganaderas, forestales, agroindustriales, de desarrollo rural e indígena; así como integrar e impulsar proyectos de inversión en esas actividades;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-VII. Establecer, en coordinación con las dependencias y entidades de la Administración Pública Estatal, los programas prioritarios de desarrollo agrícola, ganadero, aprovechamiento de los mantos acuíferos, acuícola, agroindustrial, forestal, de desarrollo rural, y para los grupos marginados hacia los cuales se canalicen los apoyos presupuestales, financieros y las brigadas de apoyo técnico necesarios para el cumplimiento de esos programas;
+VI. Establecer, en coordinación con las dependencias y entidades federales, estatales y municipales competentes, programas y acciones que tiendan a fomentar la productividad y la rentabilidad de las actividades agrícolas, ganaderas, pesqueras, acuícolas, forestales, agroindustriales y de desarrollo rural; así como integrar e impulsar proyectos de inversión en esas actividades;
 
-VIII. Planear la expansión, mejoramiento y tecnificación de las actividades relacionadas con la producción e industrialización agrícola, ganadera, agroindustrial y forestal, así como aquellas que permitan clasificar y evaluar los suelos para lograr su aprovechamiento racional, y su conservación y mejoramiento, en una perspectiva de desarrollo económico sustentable;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+VII. Establecer, en coordinación con las dependencias y entidades de la Administración Pública Estatal, los programas prioritarios de desarrollo agrícola, ganadero, aprovechamiento de los mantos acuíferos, acuícola, agroindustrial, forestal, de desarrollo rural y pesquero, hacia los cuales se canalicen los apoyos presupuestales, financieros y las brigadas de apoyo técnico necesarios para el cumplimiento de esos programas;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+VIII. Planear la expansión, mejoramiento y tecnificación de las actividades relacionadas con la producción e industrialización agrícola, ganadera, agroindustrial, forestal y acuícola, así como aquellas que permitan clasificar y evaluar los suelos para lograr su aprovechamiento racional, y su conservación y mejoramiento, en una perspectiva de desarrollo económico sustentable;
 
 IX. Elaborar y ejecutar, en coordinación con las autoridades competentes, estudios para aprovechar racionalmente los recursos naturales renovables del Estado, integrados al sector primario, a fin de asegurar un desarrollo sustentable y sostenido para satisfacer las necesidades en el Estado;
 
-X. Instrumentar, dentro de la competencia que corresponda al Estado, los programas de desarrollo agropecuario, forestal y rural vinculados con la transformación socioeconómica de grupos marginados, en coordinación con la Secretaría de Desarrollo Social e Indígena, y con la participación de los grupos involucrados;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+X. Instrumentar, dentro de la competencia que corresponda al Estado, los programas de desarrollo agropecuario, forestal, acuícolas y pesquero, vinculados con la transformación socioeconómica de grupos marginados, en coordinación con la Secretaría de Desarrollo Social, y con la participación de los grupos involucrados;
 
 XI. Instrumentar, ejecutar, evaluar y supervisar acciones tendientes a propiciar el desarrollo rural, de las zonas cañeras y de los grupos marginados;
 
@@ -871,19 +1001,27 @@ XIII. Instrumentar los programas y acciones para la capacitación de los product
 
 XIV. Intervenir, con las autoridades competentes Federales y Estatales, en la emisión de lineamientos jurídicos para la ejecución de programas y proyectos de operación, conservación y construcción de obras de riego y para el mejoramiento y rehabilitación de suelos, agrícolas, suelo forestal y ganadero;
 
-XV. Participar en la construcción, operación y mantenimiento, en su caso, directamente o por adjudicación a particulares, en las obras públicas destinadas al fomento, distribución, abasto y comercialización de productos agrícolas, ganaderos, agroindustriales o cualquier otro que se derive de las actividades económicas rurales; asimismo, promover con las autoridades competentes, el desarrollo de la infraestructura industrial y comercial de la producción agropecuaria, forestal y rural;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XV. Participar en la construcción, operación y mantenimiento, en su caso, directamente o por adjudicación a particulares, en las obras públicas destinadas al fomento, distribución, abasto y comercialización de productos agrícolas, ganaderos, agroindustriales, pesqueros, acuícolas o cualquier otro que se derive de las actividades económicas del ramo; asimismo, promover con las autoridades competentes, el desarrollo de la infraestructura industrial y comercial de la producción agropecuaria, forestal, acuícola y pesquera;
 
 XVI. Realizar estudios y proyectos, en coordinación con las autoridades competentes federales y locales, para la construcción y reconstrucción de la infraestructura agropecuaria e hidroagrícola, necesarias para el desarrollo de estas actividades;
 
-XVII. Supervisar la ejecución de los programas estatales de desarrollo agrícola, ganadero, forestal, hidráulico y agroindustrial, para el desarrollo y difundir técnicas, sistemas y procedimientos eficaces, que permitan el mejoramiento de la producción y la productividad ascendiendo a niveles de calidad total, apoyando los programas de investigación y de enseñanza agropecuaria;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-XVIII. Coordinar, supervisar y atender la observancia obligatoria de la normatividad establecida en materia de sanidad agropecuaria, así como instrumentar y evaluar en coordinación con el Gobierno Federal, las campañas de prevención contra plagas, siniestros y enfermedades que ataquen a las especies vegetales y animales, y las medidas de control para la movilización de productos agropecuarios que garanticen la protección sanitaria del sector;
+XVII. Supervisar la ejecución de los programas estatales de desarrollo agrícola, ganadero, forestal, hidráulico, agroindustrial, acuícola y pesquero, para el desarrollo y difundir técnicas, sistemas y procedimientos eficaces, que permitan el mejoramiento de la producción y la productividad ascendiendo a niveles de calidad total, apoyando los programas de investigación y de enseñanza agropecuaria, acuícola y pesquera;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-XIX. Promover, fomentar y organizar sistemas de acopio, almacenamiento, transporte, envase, distribución y venta de productos de origen agrícola, ganadero y forestal; así como, instrumentar y ejecutar, en coordinación con las autoridades competentes, acciones y programas de industrialización, distribución, abastecimiento, comercialización y consumo de dichos productos. Además proponer a la Secretaría de Finanzas y Planeación, así como a otras instancias correspondientes, el establecimiento de estímulos fiscales y facilidades administrativas para fomentar las actividades de comercialización de los productos y aprovechamiento forestal en el Estado;
+XVIII. Coordinar, supervisar y atender la observancia obligatoria de la normatividad establecida en materia de sanidad agropecuaria, acuícola y pesquera; así como instrumentar y evaluar en coordinación con el Gobierno Federal, las campañas de prevención contra plagas, siniestros y enfermedades que ataquen a las especies vegetales y animales, y las medidas de control para la movilización de productos agropecuarios, acuícolas y pesqueros que garanticen la protección sanitaria del sector;
 
-XX. Coordinar con las Dependencias y Entidades de la Administración Pública Estatal competentes, la instrumentación de esquemas de financiamiento mediante la creación de fondos de fomento y garantía, así como, otras instancias similares que permitan la participación de las instituciones bancarias en los proyectos de desarrollo agropecuario, rural, indígena y de los grupos marginados;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XIX. Promover, fomentar y organizar sistemas de acopio, almacenamiento, transporte, envase, distribución y venta de productos de origen agrícola, ganadero, forestal, acuícola y pesquero; así como, instrumentar y ejecutar, en coordinación con las autoridades competentes, acciones y programas de industrialización, distribución, abastecimiento, comercialización y consumo de dichos productos. Además, proponer a la Secretaría de Finanzas y Planeación, así como a otras instancias correspondientes, el establecimiento de estímulos fiscales y facilidades administrativas para fomentar las actividades de comercialización de estos productos;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XX. Coordinar con las Dependencias y Entidades de la Administración Pública Estatal competentes, la instrumentación de esquemas de financiamiento mediante la creación de fondos de fomento y garantía, así como, otras instancias similares que permitan la participación de las instituciones bancarias en los proyectos de desarrollo agropecuario, forestal, acuícola y pesquero.
 
 XXI. Fomentar y controlar los servicios agropecuarios y de desarrollo rural que establezca el Estado, tales como distribución de semillas, mejoras, fertilizantes; árboles frutales y centrales de maquinaria entre otros;
 
@@ -895,21 +1033,45 @@ XXIV. Coordinar con las Secretarías de Desarrollo Económico y de Ecología y M
 
 XXV. Colaborar con las autoridades competentes Federales y Estatales, en el proceso de certificación de derechos ejidales y en la tramitación de asuntos agrarios para la atención y desarrollo de la población rural del Estado;
 
-XXVI. Coordinar, supervisar y orientar a los Centros de Investigación Agropecuaria de la Entidad, así como a las Empresas estratégicas adscritas al sector;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXVI. Coordinar, supervisar y orientar a los Centros de Investigación Agropecuaria, Acuícola y Pesquera de la entidad, así como a las empresas estratégicas adscritas al sector;
 
 XXVII. Fungir como cuerpo consultivo de las instituciones oficiales y privadas en la materia de su competencia, de conformidad con las disposiciones Jurídicas aplicables;
 
 XXVIII. Cooperar y apoyar, con las dependencias y autoridades federales y municipales competentes, cuando lo soliciten, en la planeación, construcción, rehabilitación, operación, conservación y mejoramiento de los sistemas de agua potable, agua desalada, alcantarillado, tratamiento y reuso de aguas residuales para el desarrollo de las comunidades rurales e indígenas y de los grupos marginados, y
 
-XXIX. Las demás que le encomienden expresamente las leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXIX. Coordinar, promover e impulsar los planes, programas y el desarrollo de la actividad pesquera y acuícola del Estado, bajo una política de desarrollo sustentable y fomento de los recursos marinos y acuícolas del Estado;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXX. Realizar los estudios económicos y sociales para estimular y fomentar la pesca y la acuacultura, así como su industrialización, sin afectar el equilibrio ecológico, e identificar las ventajas comparativas y competitivas del sector para su desarrollo y fomento;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXXI. Impulsar y promover la pesca y la acuacultura a través de la implantación de instrumentos y programas para el autoconsumo, industrialización y comercialización;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXXII. Impulsar en coordinación con las autoridades competentes, federales y estatales, la formación y organización de la flota pesquera; así como, promover el financiamiento y la asistencia técnica de las actividades del sector; además, colaborar con las autoridades en la instrumentación de las medidas de protección social vinculadas con la materia;
+
+XXXIII. Las demás que le encomienden expresamente las leyes y reglamentos;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 40.
 
-A la Secretaría de Educación y Cultura corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Educación corresponde el despacho de los siguientes asuntos:
 
-I. Formular, instrumentar, conducir, difundir y evaluar, las políticas y programas sectoriales de desarrollo en materia de educación, cultura, ciencia, tecnología; recreación, deporte y servicios técnicos para la educación, con base en la Legislación Federal y Estatal aplicable y las normas y lineamientos que determine el Titular del Ejecutivo del Estado y en vinculación con el Sistema Estatal de Planeación; asimismo conducir las relaciones con el Gobierno Federal para la federalización de los servicios y otras actividades conjuntas;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-II. Coordinar, regular y evaluar el Sistema Estatal de Educación, Cultura, Ciencia, Deporte y Recreación; procurando que en su instrumentación, aplicación y supervisión, participen las diferentes unidades de la Dependencia y las entidades del sector, con programas específicos de su competencia, que se vinculen con las metas y objetivos del programa y el sistema Estatal a cargo del Sector;
+I. Formular, instrumentar, conducir, difundir y evaluar, las políticas y programas sectoriales de desarrollo en materia de educación, ciencia y servicios técnicos para la educación, con base en la legislación federal y estatal aplicable y las normas y lineamientos que determine el Titular del Ejecutivo del Estado y en vinculación con el Sistema Estatal de Planeación; asimismo conducir las relaciones con el Gobierno Federal para la federalización de los servicios y otras actividades conjuntas.
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+II. Coordinar, regular y evaluar el Sistema Estatal de Educación, Ciencia, procurando que, en su instrumentación, aplicación y supervisión, participen las diferentes unidades de la dependencia y las entidades del sector, con programas específicos de su competencia, que se vinculen con las metas y objetivos del programa y el sistema estatal a cargo del Sector;
 
 III. Ejercer las facultades de coordinación sectorial y regional de la Dependencia, transfiriendo a los órganos desconcentrados y a las entidades paraestatales del sector, la operación de los servicios a cargo de los mismos, asimismo, proporcionarles la asistencia y apoyo técnico que requieran para el funcionamiento de los servicios;
 
@@ -917,23 +1079,33 @@ IV. Consolidar y regular los servicios regionales del sector, procurando su vinc
 
 V. Vigilar la observancia del artículo 3o de la Constitución Política de los Estados Unidos Mexicanos y 32 de la Constitución Política del Estado y las disposiciones jurídicas aplicables en materia educativa; asimismo, coordinar, planear, desarrollar, dirigir y supervisar la educación a cargo del Gobierno del Estado y de los particulares en todos los tipos, niveles y modalidades en los términos de la Legislación correspondiente; respecto a la educación pública de la entidad, garantizar en el ámbito de su competencia, el acceso de la población a los servicios educativos sin restricción alguna;
 
-VI. Regular, promover, vigilar y en su caso, sancionar, en coordinación con las entidades sectorizadas, la prestación de los servicios educativos, culturales y deportivos en la entidad, a cargo de los sectores público, social y privado, conforme a la legislación en las materias; así como, difundir técnicas, sistemas y procedimientos eficaces que permitan el mejoramiento de la educación en la Entidad; asimismo, proponer al Titular del Poder Ejecutivo del Estado, los mecanismos de coordinación interinstitucional que permitan incentivar el desarrollo en el ámbito de su materia;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+VI. Regular, promover, vigilar y en su caso, sancionar, en coordinación con las entidades sectorizadas, la prestación de los servicios educativos, en la entidad, a cargo de los sectores público, social y privado, conforme a la legislación en las materias; así como, difundir técnicas, sistemas y procedimientos eficaces que permitan el mejoramiento de la educación en la Entidad; asimismo, proponer al Titular del Poder Ejecutivo del Estado, los mecanismos de coordinación interinstitucional que permitan incentivar el desarrollo en el ámbito de su materia;
 
 VII. Formular, instrumentar, conducir, difundir y evaluar, políticas que contribuyan a la formación educativa a través de programas de crédito, información y orientación educativa;
 
-VIII. Proponer, elaborar, suscribir y ejecutar los acuerdos o convenios de coordinación que en materia de educación, cultura, deporte y de bienestar social, en los que participe el Estado con los Gobiernos Federal y Municipales, en especial los dirigidos al establecimiento y operación del Sistema Educativo Estatal; así como promover la educación con dichos órdenes de Gobierno, mediante la instrumentación de los programas de comunicación educativa del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+VIII. Proponer, elaborar, suscribir y ejecutar los acuerdos o convenios de coordinación que, en materia de educación, deporte y de bienestar social, en los que participe el Estado con los Gobiernos Federal y Municipales, en especial los dirigidos al establecimiento y operación del Sistema Educativo Estatal; así como promover la educación con dichos órdenes de Gobierno, mediante la instrumentación de los programas de comunicación educativa del Estado;
 
 IX. Colaborar con las autoridades federales en la distribución de los libros de texto gratuito que se otorgan periódicamente a la población escolar del Estado; así como editar libros y producir materiales didácticos, distintos de los señalados en la fracción III del artículo 12 de la Ley General de Educación;
 
-X. Colaborar con las autoridades federales en la difusión, aplicación y supervisión de las normas de su competencia, que regulen la organización y funcionamiento de los servicios educativos y culturales;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+X. Colaborar con las autoridades federales en la difusión, aplicación y supervisión de las normas de su competencia, que regulen la organización y funcionamiento de los servicios educativos;
 
 XI. Llevar el registro y control de los profesionistas que ejerzan en el Estado y organizar el servicio social en la entidad;
 
 XII. Revalidar y otorgar equivalencias de estudios; diplomas, títulos y grados equivalentes a la enseñanza que se imparta en el Estado, y llevar el control escolar respectivo en los términos de la Ley de la materia; así como, aprobar el funcionamiento y en su caso la incorporación de los servicios educativos que presten los particulares en los diferentes tipos, niveles y modalidades educativas que previene la legislación;
 
-XIII. Asegurar que los programas de educación, ciencia y tecnología que se impartan en el Estado, se vinculen con el desarrollo político, económico, social y de seguridad jurídica en la entidad. Asimismo promover su interrelación con las prioridades de la entidad en materia de productividad, competitividad y calidad de los bienes y servicios;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-XIV. Concertar con los sectores productivos de la región y las dependencias involucradas, las acciones, inversiones y recursos destinados a promover la formación de los técnicos, especialistas e infraestructura de educación, investigación y tecnología, que requiera el desarrollo comercial, industrial, turístico, de servicios, agropecuario y pesquero del Estado;
+XIII. Asegurar que los programas de educación y ciencia que se impartan en el Estado, se vinculen con el desarrollo político, económico, social y de seguridad jurídica en la entidad. Asimismo, promover su interrelación con las prioridades de la entidad en materia de productividad, competitividad y calidad de los bienes y servicios;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XIV. Concertar con los sectores productivos de la región y las dependencias involucradas, las acciones, inversiones y recursos destinados a promover la formación de los técnicos, especialistas e infraestructura de educación, investigación y tecnología, que requiera el desarrollo económico del Estado;
 
 XV. En coordinación con las entidades del sector, organizar, administrar, enriquecer y fomentar el establecimiento y uso de bibliotecas, hemerotecas, centros de investigación y divulgación en el Estado, orientando sus actividades; asimismo, incrementar y mantener actualizado el acervo en estos propios lugares cuando la naturaleza de sus funciones así lo requiera;
 
@@ -943,13 +1115,19 @@ XVII. Organizar, con la colaboración de los sectores público, social y privado
 
 XVIII. Instrumentar, fomentar y coordinar programas en el Estado para elevar el índice de escolaridad de la población; asimismo, procurar e impulsar acciones de apoyo pedagógico, de educación especial y de adultos; y de desarrollo cívico; así como de capacitación actualización y profesionalización magisterial;
 
-XIX. Crear y mantener centros de educación, investigación, cultura, deporte y recreación en el Estado, así como promover y participar en la protección y mantenimiento de la infraestructura física educativa del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XIX. Impulsar la investigación científica, así como, crear y mantener centros de educación e investigación en el Estado, promover la protección y mantenimiento de la infraestructura física educativa estatal;
 
 XX. Promover y en su caso otorgar becas y créditos educativos para los estudiantes del Estado en sus estudios de nivel básico, medio superior y superior, así como para la realización de investigaciones y proyectos científicos, o para realizar estudios en el extranjero;
 
-XXI. Representar al Gobernador del Estado ante los organismos educativos, culturales, científicos y tecnológicos, nacionales o extranjeros; así como promover acuerdos de colaboración con los mismos orientados hacia el desarrollo integral del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-XXII. Promover y coordinar la participación del Estado en eventos académicos, culturales, recreativos o en competencias deportivas, nacionales o regionales, en los niveles individual, familiar y social;
+XXI. Representar al Gobernador del Estado ante los organismos educativos y científicos nacionales o extranjeros; así como promover acuerdos de colaboración con los mismos orientados hacia el desarrollo integral del Estado;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXII. Promover y coordinar la participación del Estado en eventos académicos, nacionales o regionales, en los niveles individual, familiar y social;
 
 XXIII. Participar, en coordinación con la Oficialía Mayor, en la realización de los actos cívicos que realice el Gobierno del Estado, de acuerdo con el calendario oficial;
 
@@ -961,13 +1139,15 @@ XXVI. Organizar, promover y supervisar, en coordinación con las autoridades com
 
 XXVII. Coordinar, normar y evaluar, las acciones de los organismos descentralizados de capacitación para el trabajo y de educación media, superior, tecnológica y universitaria y lo relativo a la Banda de Música del Estado de Quintana Roo;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-XXVIII. Instrumentar los programas de educación y cultura vinculados al desarrollo socioeconómico de las comunidades indígenas y grupos marginados del Estado, en coordinación con las Secretarías de Finanzas y Planeación, de Desarrollo Social e Indígena y de Desarrollo Agropecuario y Rural; asimismo, con la participación de las etnias y de los núcleos involucrados;
+XXVIII. Instrumentar los programas de educación vinculados al desarrollo socioeconómico de las comunidades indígenas y grupos marginados del Estado, en coordinación con las Secretarías de Finanzas y Planeación, de Desarrollo Social y de Desarrollo Agropecuario Rural y Pesca; asimismo, con la participación de las etnias y de los núcleos involucrados;
 
 XXIX. Instrumentar la elaboración de programas de carácter educativo y culturales, orientados a sensibilizar y concientizar a la población sobre las formas de expresión, erradicación y prevención de la violencia intrafamiliar; asimismo, coadyuvar con las autoridades u organismos competentes, en la realización de investigaciones sobre este fenómeno, a fin de identificar los problemas reales y potenciales que la generan, que permitan en su caso, diseñar nuevos modelos para su asistencia y prevención;
 
-XXX. Administrar los Fondos Mixtos nacionales o internacionales, para apoyar el desarrollo de las comunidades indígenas y de los grupos marginados y los programas para la preservación de las lenguas y culturas indígenas del Estado, y para apoyar la educación bilingüe en las comunidades indígenas, en coordinación con la Secretaría de Desarrollo Social e Indígena;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXX. Administrar los Fondos Mixtos, nacionales o internacionales, para apoyar el desarrollo de las comunidades indígenas y de los grupos marginados y los programas para la preservación de las lenguas y culturas indígenas del Estado, y para apoyar la educación bilingüe en las comunidades indígenas, en coordinación con Instituto para el Desarrollo del Pueblo Maya y las Comunidades Indígenas del Estado de Quintana Roo.
 
 XXXI. Proponer a la Secretaría de Educación Pública, los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica;
 
@@ -975,17 +1155,17 @@ XXXII. Coordinar la programación y presupuestación, así como conocer la opera
 
 XXXIII. Establecer, dirigir y coordinar la política educativa en el Estado, de conformidad con la legislación aplicable, con los objetivos, estrategias y prioridades de los Planes Nacional y Estatal de Desarrollo y con los lineamientos que el Gobernador del Estado expresamente le señale;
 
-XXXIV. Impulsar la investigación científica, el desarrollo tecnológico y la innovación;
+XXXIV. (DEROGADA, P.O. 23 DE JUNIO DE 2017)
 
 XXXV. Promover e impulsar en el ámbito de su competencia las actividades y programas relacionados con el fomento a la lectura y el libro, de acuerdo con lo establecido en la ley de la materia;
 
 XXXVI. Otorgar, negar y revocar autorización a los particulares para impartir la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de docentes de educación básica, así como vigilar e inspeccionar que se ajusten a las normas establecidas;
 
-XXXVII. Procurar, directamente o por conducto de los organismos del sector y en coordinación con las autoridades competentes, que el acervo cultural estatal, las artes populares y los monumentos arqueológicos, artísticos e históricos, contribuyan a consolidar la identidad del Estado;
+XXXVII. (DEROGADA, P.O. 23 DE JUNIO DE 2017)
 
-XXXVIII. Crear y mantener centros de cultura, y fomentar la creación de espacios destinados a la expresión de las habilidades artísticas, así como promover y participar en la protección y mantenimiento de la infraestructura cultural del Estado;
+XXXVIII. (DEROGADA, P.O. 23 DE JUNIO DE 2017)
 
-XXXIX. Organizar, administrar y controlar el Registro Público del Patrimonio Histórico, Cultural y Artístico del Estado de Quintana Roo, así como Integrar el registro y control de los bienes culturales de carácter nacional declarados conforme a las leyes, que se encuentran radicados en el Estado, y
+XXXIX. (DEROGADA, P.O. 23 DE JUNIO DE 2017)
 
 XL. Las demás que le encomienden expresamente las leyes y reglamentos.
 
@@ -1029,9 +1209,9 @@ XVII. Coordinar, concertar y ejecutar programas especiales para la atención de 
 
 XVIII. Fomentar la participación de instituciones académicas, de investigación, de organizaciones no gubernamentales y de la sociedad en general, en la generación e instrumentación de estrategias para mejorar la salud, superar rezagos sociales e impulsar el bienestar social de la población;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-XIX. Instrumentar los programas de salud vinculados al desarrollo socioeconómico de las comunidades indígenas y grupos marginados del Estado, en coordinación con las Secretarías de Finanzas y Planeación, de Desarrollo Social e Indígena y de Desarrollo Agropecuario y Rural, asimismo, con la participación de las etnias y de los núcleos involucrados;
+XIX. Instrumentar los programas de salud vinculados al desarrollo socioeconómico de las comunidades indígenas y grupos marginados del Estado, en coordinación con las Secretarías de Finanzas y Planeación, de Desarrollo Social y de Desarrollo Agropecuario, Rural y Pesca, con la participación de las etnias y de los núcleos involucrados;
 
 XX. Realizar las gestiones tendentes a proveer lo necesario para asegurar una adecuada atención médica, así como para garantizar la dotación de medicamentos básicos en los establecimientos de salud pública de la entidad;
 
@@ -1043,7 +1223,9 @@ XXIII. Ejecutar o realizar obras públicas en materia de salud, directamente o a
 
 XXIV. Organizar, dirigir y ejecutar los programas de obras públicas de infraestructura en salud, para la construcción, equipamiento, mantenimiento, rehabilitación, remodelación, habilitación, remozamiento y ampliación de los inmuebles destinados a la prestación de servicios de salud; así como apoyar a los Ayuntamientos del Estado en la realización de esas mismas acciones;
 
-XXV. Convocar y autorizar, en términos de las leyes aplicables, los procesos de adjudicación para las obras públicas de infraestructura en salud y servicios relacionados con las mismas, así como las adquisiciones en su caso;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXV. Convocar y autorizar, en términos de las leyes aplicables, los procesos de adjudicación para las obras públicas de infraestructura en salud y servicios relacionados con las mismas, así como las adquisiciones; y en su caso, coordinarse con la Agencia de Proyectos Estratégicos, en lo que se refiere a inversión público privada;
 
 XXVI. Celebrar los Acuerdos y/o Convenios correspondientes que le permitan la vinculación con las dependencias y entidades de la Administración Pública del Estado, así como la participación de los sectores social y privado para consolidar los diferentes programas de salud, y
 
@@ -1077,7 +1259,9 @@ XI. Opinar sobre los otorgamientos de permisos, concesiones, facilidades y franq
 
 XII. Organizar, operar, supervisar y evaluar el ejercicio de las funciones que en materia de turismo el Gobierno Federal descentraliza al Gobierno del Estado, en los términos de sus atribuciones, así como vigilar el cumplimiento de las disposiciones jurídicas aplicables en la materia;
 
-XIII. Colaborar con las autoridades competentes en las acciones para fomentar el cuidado y conservación de zonas arqueológicas, monumentos artísticos e históricos y objetos de interés cultural, así como en aquellas relacionadas con la administración y conservación de estas áreas recreativas de descanso, parques bosques, lagos, lagunas y otros atractivos típicos o naturales y de interés para el desarrollo turístico, procurando estimular la conservación y protección del entorno natural y cultural;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XIII. Colaborar con las autoridades competentes en las acciones para fomentar el cuidado y conservación de zonas arqueológicas, monumentos artísticos e históricos y objetos de interés cultural y turístico, así como en aquellas relacionadas con la administración y conservación de estas áreas e inmuebles recreativos de descanso, parques, bosques, lagos, lagunas y otros atractivos típicos o naturales y de interés para el desarrollo turístico, procurando estimular la conservación y protección del entorno natural y cultural;
 
 XIV. Apoyar, controlar y supervisar, en coordinación con las dependencias competentes y de acuerdo con las leyes, reglamentos y acuerdos en la materia, los servicios turísticos de transporte, hospedaje, alimentación y similares que sé presten en el Estado;
 
@@ -1093,9 +1277,13 @@ XIX. Realizar visitas de verificación a los prestadores de servicios turístico
 
 XX. Instrumentar los mejores esquemas de beneficio turístico para la difusión de la cultura maya;
 
-XXI. Implementar programas de promoción turística que propicien la integración directa de las comunidades indígenas al desarrollo del Estado, sin afectar los usos, costumbres y tradiciones de estas últimas, en coordinación con la Secretaría de Desarrollo Social e Indígena y la Secretaría de Desarrollo Agropecuario y Rural;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-XXII. Consolidar al Consejo Estatal de Promoción y Desarrollo Turístico del Estado de Quintana Roo, como un foro especializado para la promoción, la concertación y la difusión de programas de desarrollo turístico, con los sectores, público, social y privado;
+XXI. Implementar programas de promoción turística que propicie la integración directa de las comunidades indígenas al desarrollo del Estado, sin afectar los usos, costumbres y tradiciones de estas últimas, en coordinación con la Secretaría de Desarrollo Social y la Secretaría de Desarrollo Agropecuario, Rural y Pesca;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXII. Consolidar mecanismos para la promoción, la concertación y la difusión de programas de desarrollo turístico, con los sectores, público, social y privado;
 
 XXIII. Promover los atractivos del Estado a través de los medios de comunicación, así como contratar los medios que sean idóneos para tal fin, en congruencia con la política de comunicación del Estado;
 
@@ -1111,11 +1299,23 @@ XXVIII. Vigilar el estricto cumplimiento de las leyes, reglamentos y demás orde
 
 XXIX. Administrar y en su caso, concesionar de conformidad con las disposiciones legales aplicables, los servicios comerciales y de apoyo al turista en aquellos lugares que por su importancia arqueológica, histórica, cultural, social o ambiental se ubiquen en los principales puntos de aforo o concentración y participar en los ingresos provenientes de los mismos, con la finalidad de que se contribuya a la mejora, ampliación y modernización de esos sitios y de la infraestructura turística en Quintana Roo, todo ello con criterios de desarrollo sustentable, equilibrio ecológico y potencialidad en el uso de los recursos;
 
-XXX. Realizar obras públicas en materia de Infraestructura Turística, de manera directamente (sic) o a través de terceros, en los términos de la Ley de Obras Públicas del Estado de Quintana Roo y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
-XXXI. Elaborar, directamente o a través de terceros, los estudios, proyectos arquitectónicos y de ingeniería que resulten necesarios para ejecutar las obras públicas en materia de infraestructura turística, observando las disposiciones legales y reglamentarias correspondientes, y vigilar su cumplimiento, y
+XXX. Ejecutar obras públicas en materia de Infraestructura Turística, de manera directamente o a través de terceros, en los términos de la Ley de Obras Públicas y Servicios relacionados con las mismas del Estado de Quintana Roo y demás disposiciones aplicables;
 
-XXXII. Las demás que le encomienden expresamente las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXXI. Elaborar, directamente o a través de terceros, los estudios, proyectos arquitectónicos y de ingeniería que resulten necesarios para ejecutar las obras públicas en materia de infraestructura turística, observando las disposiciones legales y reglamentarias correspondientes, y vigilar su cumplimiento, y cuando así se requiera, coadyuvar con la Agencia de Proyectos Estratégicos del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXXII. Ejercer las facultades de coordinación sectorial, participando con voz y voto dentro del Consejo de Promoción Turística de Quintana Roo, a efecto de poder ejecutar la facultad prevista en la fracción I de este artículo;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+XXXIII. Promover, coordinar y en su caso, organizar los espectáculos, congresos, excursiones, audiciones, representaciones y otros eventos tradicionales y folklóricos de carácter oficial, para la atracción turística dentro del Estado;
+
+XXXIV. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 ###### ARTÍCULO 43.
 
@@ -1191,7 +1391,9 @@ I. Establecer y difundir las normas, políticas, sistemas, funciones, programas 
 
 II. Emitir las normas y lineamientos que permitan la pronta y eficiente desconcentración de sistemas y procedimientos, vinculados con la administración de los recursos precitados, hacia las dependencias y entidades de la Administración Pública del Estado, asegurando su adecuado control bajo criterios de austeridad, racionalidad y transparencia en la administración del gasto corriente;
 
-III. Proporcionar los servicios regionales de administración, en coordinación con las dependencias que operen en las regiones respectivas, procurando su vinculación con el modelo de organización y desarrollo regional del Estado y bajo criterios de eficiencia, productividad y ahorro en el gasto público y mayor cercanía y calidad de servicios a la población;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+
+III. Proporcionar los servicios de administración, en coordinación con aquellas dependencias que tengan unidades administrativas y de representación regional, para que cumplan sus objetivos bajo criterios de eficiencia, productividad y ahorro en el gasto público que propicie mayor cercanía y mejor calidad de servicios a la población;
 
 IV. Instrumentar los mecanismos de coordinación con las diversas unidades administrativas de las dependencias y entidades de la Administración Pública del Estado, procurando transferirles la operación en la administración de los recursos y servicios, proporcionándoles la asistencia y apoyo que requieran para el desarrollo de sus funciones;
 
@@ -1215,7 +1417,7 @@ XII. Administrar y regular el Centro de Transporte Aéreo y los Servicios Region
 
 XIII. Organizar en colaboración con las dependencias y entidades del Estado, y los sectores social y privado, los actos cívicos en la entidad;
 
-XIV. Organizar y administrar el Archivo General del Estado, determinando los lineamientos generales que permitan el desarrollo de una función desconcentrada en este rubro;
+XIV. (DEROGADA, P.O. 23 DE JUNIO DE 2017)
 
 XV. Coadyuvar con las Dependencias competentes en el proceso de modernización administrativa estatal, así como participar en las acciones tendientes a la racionalidad y modernización de las políticas, normas, sistemas, estructuras, funciones, recursos, servicios y sectores que integran, regulan o determinan la organización y funcionamiento de la administración pública del Estado de Quintana Roo;
 
@@ -1231,49 +1433,7 @@ XX. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 ###### ARTÍCULO 45.
 
-A la Procuraduría General de Justicia del Estado le corresponde el despacho de los siguientes asuntos:
-
-I. Vigilar y procurar el respeto de las leyes por parte de todas las autoridades del Estado, en especial del personal a su cargo;
-
-II. Intervenir con la representación jurídica del Gobierno del Estado en los procedimientos en que éste sea parte, de conformidad con lo dispuesto en las leyes y reglamentos aplicables;
-
-III. Establecer, conducir, supervisar y difundir, con base en los términos constitucionales y legales aplicables, la política específica, referidos a la institución del ministerio público;
-
-IV. Dirigir y coordinar las actividades de la Policía Judicial del Estado;
-
-V. Coordinar su actuación con las autoridades federales en la persecución de los delitos de competencia de aquéllas; participar en acciones coordinadas con las dependencias competentes para auxiliar a la población en casos de emergencia o desastre; así como apoyar las acciones que realice el cuerpo de seguridad pública, a fin de garantizar el orden público y la paz social;
-
-VI. Instrumentar, actualizar y difundir la información estadística criminal y la relacionada con las materias propias de la institución del ministerio público, así como operar y optimizar el sistema de información correspondiente;
-
-VII. Formular programas de capacitación para el personal de la Procuraduría y de la Policía Judicial, con el objetivo de elevar la calidad en la prestación de los servicios de procuración de justicia, así como dentro de los procesos judiciales que le competan, teniendo como objetivo la profesionalización y sensibilización del personal;
-
-VIII. Participar, como integrante del Consejo Estatal de Seguridad Pública, en la coordinación, regulación y evaluación del Sistema Estatal de Seguridad Pública procurando que en su instrumentación, aplicación y supervisión, participen las diferentes unidades de la dependencia a su cargo y las entidades del sector, sobre todo, para orientar las acciones en la formulación y difusión de programas permanentes de prevención de los delitos;
-
-IX. Concertar y promover con la federación los programas, acciones y recursos que se emprendan en el Estado para desarrollar la institución del ministerio público de la entidad; así como ejercer, por delegación, las atribuciones que en el ámbito de su competencia establezcan los convenios suscritos entre el Poder Ejecutivo del Estado y la administración pública federal; y promover, instrumentar y supervisar aquellos que se celebren con los sectores público, social y privado;
-
-X. Consolidar y regular los servicios regionales del sector, procurando su vinculación con el modelo de organización y desarrollo regional del Estado, bajo criterios de eficiencia, productividad y ahorro en el gasto público y mayor cercanía y calidad de servicios a la población;
-
-XI. Opinar sobre los otorgamientos de permisos y autorizaciones de parte de las autoridades locales, a los prestadores de servidos de seguridad privada, así como intervenir, con las autoridades competentes en la instrumentación del registro de centros y de programas educativos y de capacitación para la formación del personal que brinde dichos servicios;
-
-XII. Intervenir en los procesos de ejecución de sanciones penales, de conformidad con las disposiciones legales aplicables;
-
-XIII. Instrumentar los mecanismos de coordinación con la Secretaría de Seguridad Pública del Estado, que permitan el establecimiento de las acciones y estrategias para el cabal cumplimiento de sus respectivas atribuciones;
-
-XIV. Ejercer las atribuciones contempladas en la Ley de Justicia para Adolescentes del Estado de Quintana Roo;
-
-XV. Garantizar el respeto a los derechos fundamentales de las víctimas, ofendidos, testigos, imputado y en general todos los sujetos que intervengan en el proceso;
-
-XVI. Dictar los criterios generales para la atención y protección de las Víctimas y Ofendido por los delitos;
-
-XVII. Certificar copias sobre las constancias de actuaciones o registros que obren en su poder en los casos que permita la Ley;
-
-XVIII. Vigilar la observancia de los principios de constitucionalidad y legalidad del proceso penal, en el ámbito de su competencia, sin perjuicio de las facultades que legalmente correspondan a otras autoridades, y
-
-XIX. Las demás que le encomienden expresamente las leyes y reglamentos.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
-
-El Gobernador del Estado podrá crear o suprimir mediante acuerdo, las Fiscalías o Unidades Especializadas de la Procuraduría General de Justicia del Estado, que se requieran para la investigación de los delitos.
+(DEROGADO, P.O. 23 DE JUNIO DE 2017)
 
 ###### ARTÍCULO 46.
 
@@ -1524,3 +1684,43 @@ P.O. 3 DE NOVIEMBRE DE 2016.
 PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 070 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo deberá adecuar los Reglamentos Interiores de las Secretarías previstas en el presente Decreto, dentro del plazo de sesenta días naturales a su entrada en vigor. En tanto, se adecuan los reglamentos interiores seguirán aplicándose los reglamentos anteriores en lo que no se oponga al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para el cumplimiento del presente Decreto, el Titular del Poder Ejecutivo a través de las instancias competentes, podrá reorganizar las estructuras administrativas de las Secretarías, así como crear, fusionar, escindir o disolver unidades administrativas, para lo cual realizará las adecuaciones presupuestales de conformidad con lo estipulado en el Presupuesto de Egresos del Estado de Quintana Roo para el ejercicio fiscal 2017, asimismo deberá prever lo correspondiente para los ejercicios presupuestales subsecuentes.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigor del presente Decreto, la Secretaría de Finanzas y Planeación, la Secretaría de la Gestión Pública y la Oficialía Mayor, coordinarán la transferencia de recursos humanos, materiales y financieros existentes, hacia las Dependencias que ejercerán las atribuciones para las que fueron resectorizadas en términos del presente decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Finanzas y Planeación, la Secretaría de la Gestión Pública y la Oficialía Mayor, serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Los derechos y obligaciones contractuales, contraídos por las Secretarías cuya denominación se haya modificado por el presente Decreto, serán atribuidos según la materia que dio origen a la instancia correspondiente.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos que con motivo de la entrada en vigor del presente Decreto deban pasar de una Dependencia a otra, continuarán tramitándose por las unidades administrativas de origen hasta que éstas se incorporen a las nuevas Dependencias en términos de este decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las Secretarías cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a las Dependencias que, respectivamente, adquieren tales funciones.
+
+###### ARTÍCULO NOVENO.
+
+Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
