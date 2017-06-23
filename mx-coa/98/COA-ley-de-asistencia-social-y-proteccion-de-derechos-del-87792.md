@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-y-proteccion-de-derechos-del-87792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-27"
-last_updated: "2017-01-24"
+last_updated: "2017-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de abril de 2012.
 
@@ -807,9 +807,125 @@ IX. Las demás previstas en esta ley y otras disposiciones aplicables.
 
 Quien ocupe el cargo de Comisario, para el debido cumplimiento de sus atribuciones se podrá auxiliar del personal técnico que requiera.
 
-### CAPÍTULO CUARTO. DEL SISTEMA ESTATAL DE INFORMACIÓN PARA LA ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JUNIO DE 2017)</small>
 
-### CAPÍTULO QUINTO. DE LOS SISTEMAS MUNICIPALES DE ASISTENCIA SOCIAL
+### CAPÍTULO TERCERO BIS. DEL CENTRO DE INVESTIGACIÓN Y ATENCIÓN DEL AUTISMO
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2017)</small>
+
+###### Artículo 46-A.
+
+El Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza, contará con un órgano desconcentrado, con autonomía técnica y de gestión, denominado Centro de Investigación y Atención del Autismo, con domicilio en la ciudad de Saltillo, Coahuila de Zaragoza, sin perjuicio de que pueda establecer en otros municipios del estado los centros que estime necesarias para la realización de sus actividades.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2017)</small>
+
+###### Artículo 46-B.
+
+El Centro de Investigación y Atención del Autismo, tendrá por objeto brindar atención y seguimiento a las personas diagnosticadas con trastornos del espectro autista, así como la investigación de los mecanismos biológicos y los factores predisponentes a la enfermedad, para brindar una atención profesional y altamente especializada a dichas personas y a sus familias.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2017)</small>
+
+###### Artículo 46-C.
+
+Son atribuciones del Centro de Investigación y Atención del Autismo, las siguientes:
+
+I. Prestar atención profesional de calidad y con respeto a los derechos humanos, a personas diagnosticadas con trastornos del espectro autista;
+
+II. Establecer mecanismos que permitan certeza en el diagnóstico, tratamiento y un seguimiento integral del paciente y su entorno;
+
+III. Realizar investigaciones en todas las disciplinas médicas y sociales que concurren en el trastorno del espectro autista, que generen conocimientos que contribuyan a su mejor entendimiento, pronostico, diagnóstico y tratamiento;
+
+IV. Implementar campañas de conocimiento y concientización a la sociedad, sobre la atención oportuna del Trastorno del Espectro Autista, así como el trato social con las personas diagnosticadas con él;
+
+V. Promover la formación profesional de especialistas en las diversas disciplinas que concurren en el en el estudio y atención del trastorno del espectro autista.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2017)</small>
+
+###### Artículo 46-D.
+
+El Centro de Investigación y Atención del Autismo, contará con una Dirección y las áreas de investigación; neuropsicología; tratamiento no farmacológico; terapias de lenguaje, aprendizaje y conducta, tratamiento farmacológico, psicología, nutrición y trabajo social.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2017)</small>
+
+###### Artículo 46-E.
+
+La persona titular de la Dirección del Centro de Investigación y Atención del Autismo, tendrá las siguientes facultades:
+
+I. Representar legalmente al Centro de Investigación y Atención del Autismo;
+
+II. Proponer al Director General del Organismo, el nombramiento y remoción de los servidores públicos adscritos al Centro;
+
+III. Formular los planes, programas y acciones institucionales de corto, mediano y largo plazo, así como el proyecto de presupuesto, necesarios para el cumplimiento del objeto del centro y presentarlos para su aprobación al Director General del Organismo;
+
+IV. Establecer los métodos y prácticas que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles del Centro;
+
+V. Supervisar y vigilar que las funciones del personal del Centro se realicen de manera articulada, congruente y eficaz;
+
+VI. Establecer los sistemas de control interno necesarios para alcanzar las metas u objetivos propuestos;
+
+VII. Presentar los informes que le sean solicitados por el Director General del Organismo, en relación a la implementación y avances de los planes, programas y acciones para el cumplimiento del objeto del Centro;
+
+VIII. Proporcionar la información que le sea solicitada conforme a la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza;
+
+IX. Proponer al Director General del Organismo, el reglamento interior del Centro, y en su caso, las Reglas de Operación, manuales de organización, lineamientos y demás disposiciones de carácter interno, para su aprobación por la Junta de Gobierno;
+
+X. Gestionar convenios de colaboración con universidades e instituciones públicas o privadas, nacionales o extranjeras para el desarrollo de proyectos de investigación y el cumplimiento de su objeto;
+
+XI. Gestionar recursos para la integración del Fondo para la Investigación y Atención del Autismo;
+
+XII. Las demás que señalen las disposiciones que le sean aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2017)</small>
+
+###### Artículo 46-F.
+
+El Centro de Investigación y Atención del Autismo, contará con personal especializado necesario para la realización de las tareas propias de su objeto, conforme a la disponibilidad presupuestaria del Organismo.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2017)</small>
+
+###### Artículo 46-G.
+
+Se crea el Fondo para la Investigación y Atención del Autismo, como instrumento financiero que tendrá como objeto apoyar la implementación de acciones y proyectos de investigación, adecuado tratamiento, así como promoción del conocimiento y concientización de los trastornos del espectro autista, que se integrará con:
+
+I. Las aportaciones que le sean asignadas en el presupuesto de Egresos del Estado;
+
+II. Las aportaciones que los particulares u organismos públicos, privados y sociales, nacionales o extranjeros otorguen mediante los procedimientos respectivos;
+
+III. Las aportaciones que realicen los ayuntamientos con base en los convenios que se celebren para el desarrollo de actividades del Centro;
+
+IV. Los recursos que se obtengan por parte del gobierno federal para el cumplimiento del objeto del Centro.
+
+El Gobierno del Estado, deberá asignar una partida dentro de su presupuesto anual, para que sea destinada al Fondo.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2017)</small>
+
+###### Artículo 46-H.
+
+Los recursos del fondo serán administrados por el Comité para la Fondo para la Investigación y Atención del Autismo, que estará integrado por las siguientes personas:
+
+I. Titular de la presidencia de la Junta de la (sic) Gobierno del Organismo, quien lo presidirá;
+
+II. Titular de la Dirección General del Organismo que fungirá como Secretario Técnico;
+
+III. Titular de la Dirección del Centro;
+
+IV. Un representante de la Secretaría de Salud;
+
+V. Un representante de la Universidad Autónoma de Coahuila;
+
+VI. Un representante de la sociedad civil, designado en los términos que determine el Comité.
+
+La organización, estructura y funcionamiento del Comité se establecerán en el reglamento interior del Centro.
+
+El Comité administrará los recursos del Fondo para la Investigación y Atención del Autismo, conforme a los lineamientos que el mismo emita y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2017)</small>
+
+###### Artículo 46-I.
+
+La Secretaría de Fiscalización y Rendición de Cuentas, revisará el correcto ejercicio del fondo y designará un representante que asistirá a las sesiones del Comité con voz pero sin voto.
+
+### CAPÍTULO CUARTO. DEL SISTEMA ESTATAL DE INFORMACIÓN PARA LA ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS
 
 ###### Artículo 47.
 
@@ -831,9 +947,7 @@ V. Los resultados de las inspecciones y verificaciones practicadas en los establ
 
 VI. La información relativa a la cancelación del reconocimiento otorgado a las asociaciones civiles con fines de asistencia social, como coadyuvantes del Estado en esta materia, así como la causa que la motivó.
 
-### CAPÍTULO PRIMERO. DEL OBJETO Y ATRIBUCIONES
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+### CAPÍTULO QUINTO. DE LOS SISTEMAS MUNICIPALES DE ASISTENCIA SOCIAL
 
 ###### Artículo 49.
 
@@ -851,7 +965,9 @@ La Junta de Gobierno podrá designar un Presidente Honorario que no formará par
 
 ## TÍTULO TERCERO. DE LA PROCURADURÍA PARA NIÑOS, NIÑAS Y LA FAMILIA
 
-### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LA PROCURADURÍA DE LA FAMILIA Y PROTECCIÓN DE DERECHOS
+### CAPÍTULO PRIMERO. DEL OBJETO Y ATRIBUCIONES
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
 
 ###### Artículo 50.
 
@@ -865,7 +981,7 @@ La Procuraduría para Niños, Niñas y la Familia es el organismo público centr
 
 (DEROGADO, P.O. 18 DE MARZO DE 2014)
 
-### CAPÍTULO TERCERO. DEL PROCEDIMIENTO DE ACTUACIÓN DE LA PROCURADURÍA DE LA FAMILIA Y PROTECCIÓN DE LOS DERECHOS
+### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LA PROCURADURÍA DE LA FAMILIA Y PROTECCIÓN DE DERECHOS
 
 ###### Artículo 53.
 
@@ -899,7 +1015,7 @@ La Procuraduría para Niños, Niñas y la Familia es el organismo público centr
 
 (DEROGADO, P.O. 18 DE MARZO DE 2014)
 
-### CAPÍTULO CUARTO. DE LAS SANCIONES
+### CAPÍTULO TERCERO. DEL PROCEDIMIENTO DE ACTUACIÓN DE LA PROCURADURÍA DE LA FAMILIA Y PROTECCIÓN DE LOS DERECHOS
 
 ###### Artículo 61.
 
@@ -1059,7 +1175,7 @@ Concluida la fase anterior se llevarán a cabo las convivencias entre ambos con 
 
 (DEROGADO, P.O. 18 DE MARZO DE 2014)
 
-### CAPÍTULO QUINTO. DE LAS RELACIONES LABORALES DEL ORGANISMO
+### CAPÍTULO CUARTO. DE LAS SANCIONES
 
 ###### Artículo 97.
 
@@ -1086,6 +1202,8 @@ VI. Las demás que al efecto prevea la Ley de Procedimiento Administrativo para 
 Las sanciones a las que se refiere el artículo anterior serán impuestas por la Procuraduría, siguiendo el procedimiento previsto en la Ley de Procedimiento Administrativo del Estado de Coahuila de Zaragoza.
 
 En el caso de que la transgresión constituya un hecho punible, se hará del conocimiento del Ministerio Público, a efecto de que se proceda en los términos de su competencia.
+
+### CAPÍTULO QUINTO. DE LAS RELACIONES LABORALES DEL ORGANISMO
 
 ###### Artículo 100.
 
@@ -1214,3 +1332,19 @@ El presente Decreto entrará en vigor al día siguiente de su Publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 852.- SE ADICIONA EL CAPÍTULO TERCERO BIS CON LOS ARTÍCULOS DEL 46-A AL 46-I QUE LO INTEGRAN, AL TÍTULO SEGUNDO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Junta de Gobierno del Organismo, deberá expedir el reglamento interior del Centro de Investigación y Atención del Autismo.
+
+TERCERO.- La persona titular de la Dirección General del Organismo, en coordinación con las autoridades competentes, llevarán a cabo las acciones necesarias para el cumplimiento del presente decreto.
+
+CUARTO.- El Comité para la administración del Fondo para la Investigación y Atención del Autismo, deberá instalarse dentro de los treinta días siguientes a la entrada en vigor del presente decreto.
+
+QUINTO.- Los Lineamientos para la Administración de los recursos del Fondo para la Investigación y Atención del Autismo, deberán ser emitidos dentro de los treinta días posteriores a la instalación del Comité.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan a este decreto.
