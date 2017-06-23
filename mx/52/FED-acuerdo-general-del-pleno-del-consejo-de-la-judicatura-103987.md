@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2017-04-28"
+last_updated: "2017-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JUNIO DE 2017.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -10899,9 +10899,9 @@ III. Dominio de protocolos en materia de acceso a instalaciones; atención ante 
 
 La evaluación de control de confianza será un elemento adicional que se tomará en cuenta para determinar la permanencia y vigencia del nombramiento de los servidores públicos de la Coordinación de Seguridad que ocupen una plaza con funciones de seguridad y vigilancia, cuya realización se efectuará por las autoridades competentes, lo cual será gestionado por la Coordinación de Seguridad.
 
-> <small>(ADICIONADO, D.O.F. 10 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
 
-Tratándose de servidores públicos de nuevo ingreso, la Coordinación de Seguridad deberá gestionar que se realice la evaluación de control de confianza en un plazo que no podrá exceder de los tres meses a partir de la fecha de su ingreso. La evaluación de control de confianza se realizará cuando menos una vez al año.
+Tratándose de servidores públicos de nuevo ingreso, la Coordinación de Seguridad deberá gestionar que se realice la evaluación de control de confianza en un plazo que no podrá exceder de los tres meses a partir de la fecha de su ingreso. Las subsecuentes evaluaciones se realizarán cada tres años, o cuando así lo determine la Comisión de Vigilancia, Información y Evaluación a propuesta de la propia Coordinación, debidamente justificada.
 
 > <small>(ADICIONADO, D.O.F. 10 DE MARZO DE 2017)</small>
 
@@ -12430,3 +12430,11 @@ D.O.F. 28 DE ABRIL DE 2017.
 PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 23 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 924 DEL DIVERSO QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RESPECTO DE LAS EVALUACIONES DEL PERSONAL DE LA COORDINACIÓN DE SEGURIDAD DEL PODER JUDICIAL DE LA FEDERACIÓN".]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
