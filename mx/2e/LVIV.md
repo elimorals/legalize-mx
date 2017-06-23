@@ -4,7 +4,7 @@ identifier: "LVIV"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-27"
-last_updated: "2015-04-20"
+last_updated: "2017-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50855&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVIV"
 
 LEY DE VIVIENDA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JUNIO DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de junio de 2006.
 
@@ -562,9 +562,11 @@ La participación en el Consejo será a título honorífico, por lo que sus inte
 
 La Comisión Intersecretarial será la instancia de carácter permanente del Ejecutivo Federal que tendrá por objeto garantizar que la ejecución de los programas y el fomento de las acciones de vivienda, se realice de manera coordinada a fin de dar cumplimiento a la Política Nacional de Vivienda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 33.
 
-La Comisión Intersecretarial será presidida por el Titular del Ejecutivo Federal o por quien éste designe y estará integrada por los titulares de las siguientes secretarías de estado:
+La Comisión Intersecretarial será presidida por el Titular del Ejecutivo Federal, a través del Titular de la Secretaría de Desarrollo Agrario, Territorial y Urbano o por quien éste designe y estará integrada por los titulares de las siguientes secretarías de estado:
 
 I. Desarrollo Social;
 
@@ -912,7 +914,7 @@ Con el propósito de ofrecer calidad de vida a los ocupantes de las viviendas, l
 
 Asimismo, promoverá el uso de energías renovables mediante las nuevas ecotecnologías aplicables a la vivienda, de acuerdo a las regiones bioclimáticas del país, utilizando equipos y sistemas normalizados en cualquiera de sus modalidades.
 
-> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL SEGUNDO PÁRRAFO DE FECHA 26 DE DICIEMBRE DE 2013 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
+> <small>[N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL SEGUNDO PÁRRAFO DE FECHA 26 DE DICIEMBRE DE 2013 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.]</small>
 
 Las autoridades del Gobierno Federal, las entidades federativas y los municipios en el ámbito de sus respectivas competencias, verificarán que se dé cumplimiento a lo dispuesto en esta Ley en materia de calidad y sustentabilidad de la vivienda, y a las disposiciones legales y reglamentarias correspondientes.
 
@@ -964,9 +966,11 @@ La Secretaría de Economía, considerando la opinión de la Comisión, dictará 
 
 Las dependencias y entidades de la Administración Pública Federal apoyarán de manera prioritaria la aplicación de las normas a que se refiere este capítulo. La Comisión promoverá el reconocimiento público de aquellos agentes que realicen sus acciones bajo los criterios señalados en la presente Ley.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+
 ###### ARTÍCULO 81.
 
-El Gobierno Federal fomentará la utilización de insumos básicos para la construcción de vivienda, que cumplan con las normas oficiales mexicanas y las normas mexicanas.
+El Gobierno Federal fomentará en los tres órdenes de gobierno, en el ámbito de sus respectivas competencias, la utilización de insumos básicos para la construcción de vivienda, que cumplan con las normas oficiales mexicanas y las normas mexicanas, para que los mismos aseguren la calidad y sustentabilidad de la vivienda.
 
 ###### ARTÍCULO 82.
 
@@ -1108,7 +1112,7 @@ México, D.F., a 25 de abril de 2006.- Sen. Enrique Jackson Ramírez, Presidente
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis días del mes de junio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 D.O.F. 16 DE JUNIO DE 2011.
 
@@ -1126,15 +1130,17 @@ D.O.F. 20 DE ABRIL DE 2015.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NO. 485 POR EL QUE "SE MODIFICA LA FRACCIÓN QUINTA DEL ARTÍCULO 12 DE LA LEY PARA LA PREVENCIÓN Y COMBATE A LA POBREZA EXTREMA EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+D.O.F. 23 DE JUNIO DE 2017.
 
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 33 DE LA LEY DE VIVIENDA".]
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-P.O. 17 DE MARZO DE 2017.
+D.O.F. 23 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 766.- SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COMISIÓN ESTATAL DE AGUAS Y SANAMIENTO (SIC) DE COAHUILA Y DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA.”]
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 81 DE LA LEY DE VIVIENDA”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 869.- SE REFORMAN LOS ARTÍCULOS 3, 6, 9, 16, 23, 44 Y 45 Y LAS FRACCIONES III DEL ARTÍCULO 14 Y II DEL ARTÍCULO 36; Y SE MODIFICAN LAS FRACCIONES II, IV, VIII, X, XII, XX, PASANDO AL NÚMERO SUBSECUENTE SU CONTENIDO, SE ADICIONA LA FRACCIÓN XXI, SE DEROGAN LAS FRACCIONES XV Y XVI Y SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 39, DE LA DE LA LEY PARA LA PREVENCIÓN Y COMBATE A LA POBREZA EXTREMA EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
