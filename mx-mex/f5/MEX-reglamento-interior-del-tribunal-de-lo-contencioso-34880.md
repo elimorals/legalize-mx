@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tribunal-de-lo-contencioso-34880"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-18"
-last_updated: "2014-05-07"
+last_updated: "2017-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 23 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS, ADICIONES, MODIFICACIONES Y ADECUACIONES AL REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE MÉXICO APROBADAS EN EL ACUERDO PUBLICADO EN EL G.O. DE 29 DE NOVIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL EL PRESENTE ORDENAMIENTO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE JUNIO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 18 de noviembre de 2003.
 
@@ -1732,3 +1734,17 @@ G.G. 7 DE MAYO DE 2014.
 PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno”; y en el órgano de difusión interno del propio Tribunal.
 
 SEGUNDO.- La adición al Reglamento Interior del Tribunal de lo Contencioso Administrativo del Estado de México entrará en vigor, el día de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 23 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en el Órgano de Difusión Interno y en los estrados de las Secciones de la Sala Superior, Salas Especializadas, Salas Regionales y Salas Supernumerarias.
+
+SEGUNDO. El presente Reglamento entrará en vigor el 19 de julio de 2017
+
+TERCERO. Se abroga el Reglamento Interior del Tribunal de lo Contencioso Administrativo del Estado de México.
+
+CUARTO. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente reglamento, continuarán tramitándose conforme a las disposiciones vigentes en su inicio.
+
+QUINTO. Las sentencias emitidas con anterioridad a la vigencia de este ordenamiento, serán aptas para formar jurisprudencia en los términos establecidos.
