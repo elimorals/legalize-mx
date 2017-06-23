@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2017-06-19"
+last_updated: "2017-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -6985,11 +6985,11 @@ Todos los problemas inherentes a la familia se consideran de orden público, por
 
 Los Jueces de lo Familiar conocerán con los procedimientos, reglas y términos de este Código de Procedimientos Civiles, de los asuntos de su competencia previstos en la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DEL 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2017)</small>
 
 ###### Artículo 954.
 
-En los asuntos de su competencia los jueces de lo familiar siempre podrán exhortar a los interesados a la conciliación y a resolver sus diferencias mediante convenio. El juez de lo familiar está facultado para decretar, en cualquier momento del trámite de un asunto del orden familiar, las medidas cautelares que sean necesarias para preservar la familia y proteger a sus miembros, particularmente tratándose de menores u otros incapaces.
+En los asuntos de su competencia los jueces de lo familiar siempre deberán exhortar a los interesados a la conciliación y a resolver sus diferencias mediante convenio, o a través de los mecanismos alternativos de solución de controversias establecidos en la Ley de la materia. El Juez de lo familiar está facultado para decretar, en cualquier momento del trámite de un asunto del orden familiar, las medidas cautelares que sean necesarias para preservar la familia y proteger a sus miembros, particularmente tratándose de menores u otros incapaces.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -9864,3 +9864,9 @@ P.O. 19 DE JUNIO DE 2017.
 Primero.- El presente Decreto entrará en vigor una vez concluido el proceso legislativo concerniente a la reforma a la Ley Orgánica del Poder Judicial del Estado de Nuevo León, en materia de Mecanismos Alternativos de Solución de Controversias.
 
 Segundo.- Los procedimientos cuya tramitación se hubiera iniciado antes de la entrada en vigor de este decreto, proseguirán la misma conforme a la normativa vigente con anterioridad a dicho inicio de vigencia.
+
+P.O. 23 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 271. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 954 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
