@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-al-servicio-del-4466"
 country: "mx"
 rank: "estatuto"
 publication_date: "1972-10-21"
-last_updated: "2016-07-01"
+last_updated: "2017-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2017.
 
 Estatuto publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 21 de octubre de 1972.
 
@@ -241,11 +241,15 @@ Los trabajadores de base y base sindicalizados serán inamovibles.
 
 En el caso de trabajadores de nuevo ingreso, su inamovilidad procederá hasta transcurridos seis meses de servicios sin nota desfavorable en su expediente.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 18.
 
-En caso de despido injustificado el trabajador de base o de base sindicalizado tendrá derecho a optar por la reinstalación en su trabajo o por la indemnización de tres meses de salario.
+En caso de despido injustificado, el trabajador de base o de base sindicalizado tendrá derecho a optar por la reinstalación en su trabajo o por la indemnización de tres meses de salario, a razón del que corresponda a la fecha en que se realice el pago.
+
+Si en el juicio correspondiente no comprueba el patrón la causa de la rescisión o cese, el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios vencidos computados desde la fecha del despido hasta por un período máximo de doce meses, en términos de lo preceptuado en la última parte del párrafo anterior.
+
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento al laudo, se pagarán también al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -2218,3 +2222,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La Secretaría de Salud del Estado contará con un plazo de quince días para emitir los lineamientos necesarios para la aplicación del presente decreto, contados a partir de la entrada en vigor del mismo.
 
 TERCERO.- Las dependencias o entidades de los Poderes del Estado tendrán un plazo de treinta días para la implementación de sus lactarios, contados a partir de que la Secretaría de Salud del Estado emita los lineamientos a que se refiere el artículo anterior.
+
+P.O. 23 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 875.- SE REFORMA EL ARTÍCULO 18 DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
